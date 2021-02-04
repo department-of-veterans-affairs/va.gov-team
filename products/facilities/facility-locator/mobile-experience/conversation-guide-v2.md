@@ -63,7 +63,6 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 **User clicks on prototype**
 
 - Are you comfortable if I record my screen and audio as we talk today?
-
  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 ###### Start recording to the Cloud
