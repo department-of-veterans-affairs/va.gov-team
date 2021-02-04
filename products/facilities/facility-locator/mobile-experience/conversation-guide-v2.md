@@ -60,7 +60,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "navigate" as I "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
-**USER CLICKS ON PROTOTYPE**
+**User clicks on prototype**
 
 - Are you comfortable if I record my screen and audio as we talk today?
 
@@ -82,17 +82,18 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
  
 ## Prototype - 35 minutes
 
-**USER IS SCREEN SHARING**
+**User should be screensharing**
 
 ## First Task: Find the nearest urgent care center near you
 
 ## Scenario
 - You've come to the VA website because you need to find the nearest urgent care center near you. You are currently living in the Washington DC area.
 
-## Things to watch for
+**Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Which dropdown options do they select?
+- Do they scroll through results on the list view? 
 
 ## Second Task: Review VA location search results list
 
@@ -105,17 +106,16 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - Can you view more than one location near you?
 - How many search results would you expect to see?
 
-## Fourth Task: Contact/visit a VA facility location
-- What would your next steps be after finding the closest VA location?
-- How would you contact them?
-
-### Things to watch for:
+**Things to watch for**
 
 - How do they interact with the map?
 - Does the user zoom/pan on the map?
 - Does the user know on the map view that more than one location can be viewed (swipe right)?
-- Do they scroll through results on the list view? 
 - Do they compare locations?
+
+## Fourth Task: Contact/visit a VA facility location
+- What would your next steps be after finding the closest VA location?
+- How would you contact them?
 
 ## Post-Task Interview 
 
