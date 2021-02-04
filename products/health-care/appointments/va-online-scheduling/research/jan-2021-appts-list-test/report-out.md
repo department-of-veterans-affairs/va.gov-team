@@ -17,6 +17,7 @@ That said, there were some problem areas that we’ll focus on later in this rep
 
 *Fig.1 - Usability results*
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/fig-1-usability-results.png" />
 
 
 **Quotes**
