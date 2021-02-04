@@ -8,7 +8,6 @@ This document will serve as a plce to document the needed information in the UI 
 - [ ] Add structure from MAP
 - [ ] Add structure for FHIR
 - [ ] Find what data is missing from FHIR
-- [ ]
 
 ## Required data
 
