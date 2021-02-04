@@ -23,8 +23,11 @@
 
 ## Friday Feb 12 10:30am ET
 
-- Tugboat
 - Training
+- Tugboat
+  - How's it going?
+  - Formal training next week
+- Lebanon and Wilkes-barre launch next week
 - Facility health service editorial experience 
   - required fields (phone number labels)
   - Table caption
