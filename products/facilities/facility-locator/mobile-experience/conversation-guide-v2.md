@@ -73,11 +73,8 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## Warm-up Questions
 
 - Can you tell me a little about your service history or tell me about yourself?
-
 - How often do you visit the VA website?
-
 - Have you ever used the facility locator on desktop or a mobile device?
-
 - Have you visited a VA Facility for healthcare in the past couple of years, or perhaps before the pandemic?
  
 ## Prototype - 35 minutes
