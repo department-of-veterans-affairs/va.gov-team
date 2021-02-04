@@ -64,7 +64,7 @@ We'll need to set up baseline metrics on:
 - Successful saves
 - Errors
 
-It would be nice to have metrics on how this affects paper correspondence, but it has historically been extraordinarily difficult to get this kind of data at the VA.
+It would be nice to have metrics on how this affects paper correspondence, but this has historically not been possible to get. 
 
 # Implementation Info
 
