@@ -32,7 +32,9 @@
   - required fields (phone number labels)
   - Table caption
   - Communication to Ryan S on Facility Service Location Page hardening
-- Menu bugs, eg Iowa City (revealed by Transformer builds)
+- Menus 
+  - bugs, eg [Iowa City](https://prod.cms.va.gov/admin/structure/menu/manage/va-iowa-city-health-care?destination=/admin/structure/menu%3Fpage%3D1) (revealed by Transformer builds)
+  - Casing of non-clickable menu items
 - Entity embed module on rich text fields, is anyone on VAMC upgrade team using it? 
 
 ## Friday Feb 5 10:30am ET
