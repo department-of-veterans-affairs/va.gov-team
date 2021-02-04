@@ -92,6 +92,10 @@
 
 
 # Questions for Veterans (possible user testing plan)
+- Research questions
+  - How importance are different pieces of data and features to Veterans?
+  - What are some current user pain points?
+
 Three separate tests (one each for Medications, Allergies, and Immunizations)
 - Importance ranking on possible data we can display via Optional Workshop.
   - Medication ranking can include some of our future/challenge ideas.
