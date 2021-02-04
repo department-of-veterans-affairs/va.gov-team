@@ -1,4 +1,4 @@
-# Direct Deposit for EDU Release Plan
+# Direct Deposit for Education Benefits Release Plan
 
 ## Phase I: UAT
 ### Planning:
