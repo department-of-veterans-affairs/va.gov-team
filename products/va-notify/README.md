@@ -19,7 +19,7 @@ Slack - #va-notify
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
 - [Find Out More](#find-out-more)
-- [Incident Response](#incident-respone)
+- [Incident Response](#incident-response)
 
 
 ## How VANotify Works
@@ -96,9 +96,10 @@ Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706
 
 ## Incident response ##
 Points of contact:
-Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
-Project Manager: [Anushya Prasad](mailto://Anushya.Bellur@va.gov)
-Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
+* Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
+* Project Manager: [Anushya Prasad](mailto://Anushya.Bellur@va.gov)
+* Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
 
 On call schedule handled via [PagerDuty](https://veterans-affairs.pagerduty.com/)
+
 Dashboard on [datadog](https://app.datadoghq.com/)
