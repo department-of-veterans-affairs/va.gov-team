@@ -34,37 +34,29 @@ Users find guidelines and sample code of design patterns, components and other f
 
 ## Undesired Business Outcomes
 
-Review instances don’t work for most use cases and will have no future on VA.gov.
+Design system designs, components and patterns don’t work for most use cases on VA.gov.
 
 ## Assumptions
 
-- Teams are using review instances
-- Teams find review instances useful for testing
-- Down stream partners are unaffected by us connecting to their preproduction backends
-- Review instances will increase development on VA.gov
+- Teams are looking at the design system before building applications
+- Teams find documentation helpful when identifying elements they can use from the Design System
+- Developers are using the code in the documentation 
 
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
 
 ## Solution Approach
 
-After having conversation with multiple teams and information from Operations and Service Design discovery sprints. The VSP Operations team saw a need to address the testing problem on VA.gov. Up to this point Operations were creating custom one off solutions for users who needed testing environment support. These solutions were not scalable or sustainable, so the Operations team looked into possible ways to address this problem. 
-
-Review instances at the time where broken for a month and even though they were utilized on vets.gov, review instances had become a resource that VFS and VSP forgot or didn’t utilize. After some discovery, speaking with users, and testing, Operations found that they point review instances to staging and then connect them to preproduction backends  for a better testing experience. The Operations team decided to only work towards this goal, because the assumption was it would address the current users needs. Although the Operations team at the same time realized that a lot more work could be done to expand and improve upon this work. 
-
-Now that we achieved this goal we will be working with both the  Backend and Frontend tools teams to make improvements and shape the future roadmap for review instances. This will be done by soliciting feedback, discovery, and iterating on the current solution. 
+The team will continue to document Design System components, patterns and templates. 
 
 
 ## KPIs
 
-- Number of users accessing design system documentation 
-- Testing satisfaction (increases) 
-  - Working with Service Design team to gather this qual data
-
+- Number of users accessing design system documentation????
+- Number of support requests related to design system guidelines or code
 
 
 ### Current Status
 
-Review instances are connected to preproduction backends and pointing to staging. 
+
 
 ### Key Decisions
 
