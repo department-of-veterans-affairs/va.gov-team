@@ -1,13 +1,13 @@
 # Cypress Viewport Updater Bot
 
-The Automatic Cypress Viewport Updater updates the following files in `vets-website` each month with recent data from Google Analytics:
+The Cypress Viewport Updater Bot updates the following files in `vets-website` each month with recent data from Google Analytics:
 
 - `config/cypress.json`
 - `src/platform/testing/e2e/cypress/support/commands/viewportPreset.js`
 
 The updater:
 
-- Requests two Google Analytics reports from the `ga.gov` organization:
+- Requests two Google Analytics reports from the `va.gov` organization:
   - Total number of users in the previous month
   - Total number of users in the previous month using 1) each type of device type (mobile, tablet, and desktop), and 2) screen resolution (viewport width/height), sorted by number of users descending
 - Parses the reports and creates viewport objects, categorized by device type
