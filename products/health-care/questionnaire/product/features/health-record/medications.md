@@ -32,7 +32,7 @@ User Story
 - Tracking medication adherence - actions the Veterans can take
   - Currently statuses/solution for this shown in the above image - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus
-  - [Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/Omebkkw) Shown more as a plain Health Record feature compared to in a Questionnaire.
+  - [Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/Omebkkw) (Shown more as a plain Health Record feature compared to in a Questionnaire.)
 - Warnings/Side effects/Interactions
 - If no write back for Meds how are we posting to Lighhouse in PGD 
   - Are we allowing self-entered data?
