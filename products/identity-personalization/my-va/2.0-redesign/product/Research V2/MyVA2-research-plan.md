@@ -2,18 +2,18 @@
 
 ## Goals
 
-The goal of this research is to understand user comprehension after a full structure and design update of the MyVA page. This includes:
+The goal of this research is to understand user comprehension of the MyVA page after a full re-structure and re-design. This includes:
  
-- overall, is there enough relevant information on the dashboard to be valuable
-- can the user find the tools and tasks that they are looking for effectively 
-- can the user easily access and understand any personal updates (claims, health care, or forms)
-- is the new dashboard layout more effective than the current MyVA page
+- Overall, is there enough relevant information on the dashboard to be valuable?
+- Can the user find the tools and tasks that they are looking for effectively? 
+- Can the user easily access and understand any personal updates (related to claims, health care, or forms)?
+- Is the new dashboard layout more effective than the current MyVA page?
 
 ## Background
 
-Based on past user interviews, we know people come to VA.gov to see information that is relevant to them and complete tasks specific to their benefits. Users do not want to see links, suggestions or information that doesn't apply to them personally on their dashboard.
+Based on past user interviews, we know people come to VA.gov to see information that is relevant to them and to complete tasks specific to their benefits. Users do not want to see links, suggestions or information that doesn't apply to them personally on their dashboard.
 
-Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. The MyVA dashboard aims to surface the status and the most recent update to their health care information, claims information, and any applications in progress. Users should also be able to quickly and easily reach the tools that allow them to manage this information. 
+Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. The MyVA dashboard aims to surface the status and the most recent update to a users health care information, claims information, and any applications in progress. Users should also be able to quickly and easily reach the tools that allow them to manage this information. 
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
@@ -22,16 +22,22 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 ## Research questions
 
 - Can users navigate to MyVA easily from an unauthenticated screen?
-- Can a Veterans find what they're looking for as a first time user?
+- Can Veterans find what they're looking for as a first time user?
 - Does the dashboard layout/structure feel intuitive?
 - Can people find what they're looking for on the dashboard?
 - Do people understand what the updates to their dashboard are?
 - Can users complete tasks easily on the dashboard?
 - Does the placement and wording of the disability rating make sense to users?
 - Do users understand how to view their disability rating breakdown?
+- Do users understand how to navigate to the tools to manage their information?
 - In the claims and health care sections, do users understand what is being displayed? Is it enough information?
+- In the claims and health care sections, does the hierarchy of the information make sense?
+- If there are no updates to show, does a user understand why?
+- If a user has no updates, can they still navigate to the tool to manage their information?
 - Do users understand how to get to the tools to manage their information?
 - Do users understand how to view and access applications in progress?
+- Do users understand how to apply for benefits they are not currently recieving?
+- Are the additional links provided on the dashboard useful?
 - Is any information missing on the dashboard?
 - How do people think the new dashboard compares to the current MyVA?
 
@@ -41,7 +47,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - Users will understand how to navigate to tools to manage their information
 - Users may want to see some additional information on the dashboard that we did not include
 - Participants might be confused about some of the verbiage used (most likely in the prescriptions section)
-- Participants might be confused that some of the links to view all (i.e. You have 2 unread messages) will take them to a separate site
+- Participants might be confused that the links to view all (i.e. You have 2 unread messages) will take them to a separate page/site
 
 ## Method
 We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype.
