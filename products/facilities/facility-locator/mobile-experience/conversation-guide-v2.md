@@ -71,11 +71,11 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 ## Warm-up Questions
 
-- Can you tell me a little about your service history or tell me about yourself?
+- Can you tell me a little about yourself or your service history?
 - Have you used the VA website before?
 - If yes, what were you looking for?
-- Have you ever tried to find a VA facility in the VA website on your computer or a mobile device?
-- Have you visited a VA facility for healthcare in the past couple of years, or perhaps before the pandemic?
+- Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?
+- Have you visited a VA facility for healthcare in the past couple of years?
  
 ## Prototype - 35 minutes
 
