@@ -34,7 +34,7 @@ All were able to complete most of the tasks we tested with ease, and often did s
 - 0 - Skipped
 
 **Task notes**
-1. Most users didn't specifically call out the Express Care/Phone appointment before clicking into a detail view. It might be worth reviewing this in future research with Express Care users specifically.
+1. Most users didn't specifically call out the Express Care/Phone appointment before clicking into a detail view, and we moved on with the test before confirming they had seen it. It might be worth reviewing this in future research with Express Care users.
 2. "Missed" - we weren't able to record P8 so I couldn't confirm if they understood appointment requests
 3. P8 assumed all the calendar options were unavailable because they were all gray - none were the lighter "unavailable" gray. It might be worth exploring whether this is a more widespread issue in future research.
 
