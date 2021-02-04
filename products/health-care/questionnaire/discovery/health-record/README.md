@@ -91,6 +91,8 @@
   - link to CDC traveler's health page
 
 
-# Questions for Veterans
-- Understand current pain points.
-- Importance ranking on possible data displayed for each topic.
+# Questions for Veterans (possible user testing plan)
+Three separate tests (one each for Medications, Allergies, and Immunizations)
+- Importance ranking on possible data we can display via Optional Workshop.
+- Participatory design activity in Mural, where the Veteran builds an interface for a home page and a details page
+- Follow-up questions about if these ideas help solve any pain points that experience when communicating with their VA providers. Ask if there is anything they have experienced that wasn't covered by what they saw?
