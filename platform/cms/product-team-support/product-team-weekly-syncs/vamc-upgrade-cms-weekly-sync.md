@@ -27,7 +27,8 @@
 - User administration
 - Put Facility health service editorial experience 
   - required fields (phone number labels)
-  - Table caption 
+  - Table caption
+- Communication to Ryan S on Facility Service Location Page hardening
 
 ## Friday Feb 5 10:30am ET
 
