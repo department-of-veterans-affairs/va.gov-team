@@ -51,7 +51,7 @@ Please see [Research Plan](https://github.com/department-of-veterans-affairs/va.
 ## Solution Approach
 We originally went with a greenfield approach and were working towards a new MVP of the Claims Status Tool.  However, as we began to engage with the product and began receiving requests from NCC and others for fixes, we realized it would be more fruitful to work towards some low hanging fixes to the existing application before we worked on the new MVP. Finally, this has evolved to the current approach which will be laid out below.
 
-Our focus will be to incrememntally update the application (not just low hanging bug fixes) and essentially version the CST. This is more in line with true "agile" development and we believe it will solve a number of potential hurdles. Firstly, we will be able to more easily abosrbe the NCC requests. Trying to work on a new version of the application while also making updates the existing one is not a smooth overlap of work. Secondly, we believe this approach will avoid the large "waterfall" effect of design/research leading into the implementation (development) acitivies.
+Our focus will be to incrememntally update the application (not just low hanging bug fixes) and essentially version the CST. This is more in line with true "agile" development and we believe it will solve a number of potential hurdles. First, we will be able to more easily abosrbe the NCC requests. Trying to work on a new version of the application while also making updates to the existing one is not a smooth overlap of work. Second, we believe this approach will avoid the large "waterfall" effect of design/research leading into the implementation (development) acitivies.
 
 ### Expected Work
 This is based on our research findings, call center reports, and NCC requests. We will vet this list with our stakeholders.  This is not currently in prioritized order.
@@ -158,7 +158,7 @@ TBD after launch
 
 ## Team
 - VA Digital Strategist(s): Andrea Schneider
-- Product Manager: Luke Majewski 
+- Product Manager: Veronica Henry 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
 - Engineers: Anna Carey, Ed Mangimelli, Robin Garrison, Nick Sprinkle
