@@ -32,6 +32,7 @@ User Story
 - Tracking medication adherence - actions the Veterans can take
   - Currently statuses/solution for this shown in the above image - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus
+  - [Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/Omebkkw) Shown more as a plain Health Record feature compared to in a Questionnaire.
 - Warnings/Side effects/Interactions
 - If no write back for Meds how are we posting to Lighhouse in PGD 
   - Are we allowing self-entered data?
@@ -62,7 +63,28 @@ Not typical features we should consider/challenges today
 - Identify pills - I don't know what this pill is. Identify by markings, colors, or shapes
 - timeline of when patient is supposed to take medication (morning versus evening, every other week, once a month)
 
+---
+## User Story A
 
+### Reviewing and adding a medication
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/eKlrJJ0)
+
+* Description
+
+* Feature Capabilities
+
+## User Story B
+
+### Editing a medication
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/GmoOGGL)
+
+* Description
+
+* Feature Capabilities
+
+---
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
