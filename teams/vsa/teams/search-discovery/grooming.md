@@ -10,10 +10,10 @@
  - [Product Discovery] COVID-19 Vaccine Finder - VA Data Distribution #19009
  
  ***NEXT STEPS/ACTIONS:***
- - Denise to ask analytics if POC reports are as accurate as DOMO will be
- - John to send list of potential enhancements from #18734
- - Denise to follow up with Shira Collab Cycle: Post Launch Check In #8896
- - Organic traffic acquisition metric – when/where do we get those?
- - Denise update analytics tickets for kpi dashboard
- - Click Tracking- ask search.gov for a download of all click tracking data.  
- - Ask Jon Wehausen – can he collect CTR from search.gov 
+ - Ask analytics if POC reports are as accurate as DOMO will be (Denise)
+ - Send list of potential enhancements from [#18734] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/18734)(John)
+ - Collab Cycle: Post Launch Check In [#8896](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896) (Denise)
+ - Organic traffic acquisition metric – when/where should we collect those? (Denise Sync w Analytics team)
+ - pdate analytics tickets for kpi dashboard (Denise)
+ - Click Tracking- ask search.gov for a download of all click tracking data. (John)
+ - Ask analytics team if we can collect CTR from search.gov for DOMO Dashboard  (Denise)
