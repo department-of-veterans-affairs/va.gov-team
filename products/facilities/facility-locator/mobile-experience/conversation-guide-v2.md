@@ -86,10 +86,10 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 ## First Task: Find the nearest urgent care center near you
 
-**Scenario**
+## Scenario
 - You've come to the VA website because you need to find the nearest urgent care center near you. You are currently living in the Washington DC area.
 
-### Things to watch for:
+## Things to watch for
 
 - How does the participant search by location (geolocation or address)?
 - Which dropdown options do they select?
