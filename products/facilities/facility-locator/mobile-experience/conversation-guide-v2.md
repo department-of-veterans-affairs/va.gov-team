@@ -13,7 +13,7 @@
 
 ## Intro 
 
-Thanks for joining us today! My name is Laurel, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding vaccination information on the VA.gov website.
+Thanks for joining us today! My name is Laurel, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the nearest VA facility near you.
 
 Before we get started, I want to give you an idea of what this session will be like:
 
