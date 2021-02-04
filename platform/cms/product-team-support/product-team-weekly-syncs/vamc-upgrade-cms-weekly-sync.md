@@ -31,7 +31,8 @@
 - Facility health service editorial experience 
   - required fields (phone number labels)
   - Table caption
-- Communication to Ryan S on Facility Service Location Page hardening
+  - Communication to Ryan S on Facility Service Location Page hardening
+- Menu bugs, eg Iowa City (revealed by Transformer builds)
 - Entity embed module on rich text fields, is anyone on VAMC upgrade team using it? 
 
 ## Friday Feb 5 10:30am ET
