@@ -79,12 +79,12 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
  
 ## Prototype - 35 minutes
 
-**User should be screensharing**
+**User should be screen sharing**
 
-## First Task: Find the nearest urgent care center near you
+## First Task: Find the nearest VA facility that offers optometry near you
 
 ## Scenario
-- You've come to the VA website because you need to find the nearest urgent care center near you. You are currently living in the Washington DC area.
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area.
 
 **Things to watch for**
 
