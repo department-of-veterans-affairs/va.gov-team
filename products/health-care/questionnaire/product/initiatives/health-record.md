@@ -23,11 +23,6 @@ You are a primary care clinician seeing patients in your office. You ...
 
 ## Solution Approach
 
-Gathering medication history for reconciliation is a cornerstone of excellent patient care. Gaps in medication history can delay optimal treatment, put patients at risk, and contribute to higher readmission rates.
-
-Creating patient home medication lists by relying on traditional HIS system data feeds, interviewing patients and calling local pharmacies and primary care providers is highly time consuming and often delivers incomplete medication history results.
-
-A consolidated MedHx closes the gaps in gathering medication history for reconciliation and reduces treatment errors by delivering more accurate, more comprehensive medication history data. With an easy-to-use workflow, your staff can save as much as ~80% of the time they currently spend researching a patient’s medication history, interviewing patients, and calling local pharmacies and primary care providers–time that can be re-invested in diagnosis and care delivery.
 
 
 ## Features
@@ -38,6 +33,12 @@ According to the product manager(?), Dave Mazik, the information is coming from 
 
 **Medications**
 - [Medications List Feature Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/health-record/medications.md) -BPMH - Best Possible Medication History
+
+Gathering medication history for reconciliation is a cornerstone of excellent patient care. Gaps in medication history can delay optimal treatment, put patients at risk, and contribute to higher readmission rates.
+
+Creating patient home medication lists by relying on traditional HIS system data feeds, interviewing patients and calling local pharmacies and primary care providers is highly time consuming and often delivers incomplete medication history results.
+
+A consolidated MedHx closes the gaps in gathering medication history for reconciliation and reduces treatment errors by delivering more accurate, more comprehensive medication history data. With an easy-to-use workflow, your staff can save as much as ~80% of the time they currently spend researching a patient’s medication history, interviewing patients, and calling local pharmacies and primary care providers–time that can be re-invested in diagnosis and care delivery.
 
  
  **Allergies**
@@ -61,13 +62,13 @@ According to the product manager(?), Dave Mazik, the information is coming from 
 ### Workflow Diagram 
 <img src="https:// " width="500">
 
-
+- Storyboard: https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/yggvK2K
  
  ### IA and Wireflow
 
 
 ### Wireframes
-Zeplin File: 
+
 
 ### EPIC Use Cases from Discovery 
 
