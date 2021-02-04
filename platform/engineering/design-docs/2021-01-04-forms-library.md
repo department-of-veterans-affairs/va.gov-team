@@ -85,7 +85,7 @@ components for:
 - React
 - TypeScript
 - [`api-extractor`](https://api-extractor.com/pages/overview/intro/)
-- React router
+- [React router](https://reactrouter.com/)
 
 The following sections outline the various parts of the systems. Heading
 descriptors include:
