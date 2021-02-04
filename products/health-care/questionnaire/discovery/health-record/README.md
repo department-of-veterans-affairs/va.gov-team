@@ -94,5 +94,8 @@
 # Questions for Veterans (possible user testing plan)
 Three separate tests (one each for Medications, Allergies, and Immunizations)
 - Importance ranking on possible data we can display via Optional Workshop.
+  - Medication ranking can include some of our future/challenge ideas.
+  - This will help to see which terms needed extra clarification from the users. Be willing to provide extra clarification during test. Just keep track of which ones needed clarification.
 - Participatory design activity in Mural, where the Veteran builds an interface for a home page and a details page
+  - Cut the future/challenge medication ideas for this part.
 - Follow-up questions about if these ideas help solve any pain points that they experience when communicating with their VA providers. Ask if there is anything they have experienced that wasn't covered by what they saw?
