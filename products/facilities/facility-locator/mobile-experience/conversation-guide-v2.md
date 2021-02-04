@@ -107,8 +107,11 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 - How do they interact with the map?
 - Does the user zoom/pan on the map?
-- Does the user know on the map view that more than one location can be viewed (swipe right)?
-- Do they compare locations?
+- Does the user find that the map pins are interactive and find that they can be clicked to display a VA location card?
+- Does the user find these location cards useful?
+- Is there any missing information on the VA location card?
+- Does the user know that more than one location can be viewed (swipe right)?
+- Does the user struggle with the VA location cards or not find them at all?
 
 ## Fourth Task: Contact/visit a VA facility location
 - What would your next steps be after finding the closest VA location?
