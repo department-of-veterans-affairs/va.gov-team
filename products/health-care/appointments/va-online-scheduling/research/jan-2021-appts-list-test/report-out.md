@@ -26,11 +26,32 @@ All were able to complete most of the tasks we tested with ease, and often did s
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/fig-1-usability-results.png" />
 
-That said, there were some problem areas including:
+**Tasks key**
+- 4 - success/full understanding
+- 3 - could complete/understand with some time
+- 2 - could complete/understand with more time
+- 1 - did not understand/couldn't complete
+- 0 - Skipped
 
-* Appointment requests continue to be confusing.
-* Language used in the booking notes 
+**Task notes**
+1. Most users didn't specifically call out the Express Care/Phone appointment before clicking into a detail view. It might be worth reviewing this in future research with Express Care users specifically.
+2. "Missed" - we weren't able to record P8 so I couldn't confirm if they understood appointment requests
+3. P8 assumed all the calendar options were unavailable because they were all gray - none were the lighter "unavailable" gray. It might be worth exploring whether this is a more widespread issue in future research.
 
+## Results detail
+
+Note that while a small study like this works well for validating usability, "opportunities" listed below should be further researched and validated before action is taken.
+
+
+### Participants easily navigated the prototype
+
+All participants joined on a mobile device, most on a phone and one on an iPad. All were able to easily :
+* Find the main CTA on the static landing page
+* Navigate and understand the thumbnail page
+* Open a detail page from the thumbnail 
+* Find and navigate the appointment type selector dropdown
+
+One participant was able to do the above while making coffee.
 
 **Quotes**
 >  I like the way the appointments are broken into a bubble. Before it use to be a table and it was written out.  I like that the appointments are in order and I can just click on it to see what it is. And then see it is a phone appointment instead of searching through 3 pages to see I have appointments. -P3
@@ -41,25 +62,21 @@ That said, there were some problem areas including:
 
 >  I like how it is a monthly thing, I like how clear it is, video conference only, that’s good.  It tells you who you are going to see, what its for. - P9
 
-## Results detail
-
-Note that while a small study like this works well for validating usability, "opportunities" listed below should be further researched and validated before action is taken.
-
 ### Appointment requests continue to create confusion
 
-Most users had a little difficulty to find and understand the appointment requests section, and one user couldn't at all.
+Most users had some level of difficulty understanding the appointment requests section, and one user couldn't at all. Some indicated trouble with the word "request." In the prompt, we tried to avoid saying that word directly.
 
-Once in the request, most users wanted more information about the status of the request. Specifically, whether a scheduler has viewed the request, and if so, whether they have started processing it. Participants reported that they will call their facility if the request sits for too long.
+Most users wanted to see more information about the status of the request. Specifically, whether a scheduler has viewed the request, and if so, whether they have started processing it. Participants reported that they will call their facility if the request sits for too long. One participant wondered if they could change the request to a video or phone appointment to get seen sooner.
 
 While participants were able to navigate through the three requests displayed, it wasn't clear that appointment requests were in order of date requested, as that information isn't shown.
 
 **Opportunities**
 * Adding clarity around the status of requests might help reduce phone calls by creating more transparency about where a request is in the process. Veterans are calling facilities to get information on their requests, so even knowing if it has been reviewed could be helpful.
-* Make it easier to direct schedule video and phone appointments before changing to a request flow.
+* Consider allowing users to change a request to a video and phone appointment, along with canceling.
 
 **Recommendations**
 * Make the "Requested" title more specific. "Pending" or "Pending request" might be better.
-* Add a note to the requests list explaining that they are in order with the oldest requests at the top.
+* Add a note to the requests list explaining that they are in order, with the oldest requests at the top.
 
 **Quotes**
 > It would be nice to see if someone on the other side said they saw \[the appointment request\]. If I requested and they haven’t responded just show me that. - P2
@@ -79,11 +96,11 @@ While participants were able to navigate through the three requests displayed, i
 
 > You asked for something that was not confirmed, I was looking for confirmed not confirmed. So logically I though it would be under requested but most wont think that way. I would figure out the puzzle but it wasn’t clear. I am looking for confirmed or not confirmed or pending. - P9
 
-### Veterans plan future appointments by looking at the past
+### Veterans plan future appointments by looking at past ones
 
-Most participants said they often want to back at past appointments to find previous appointment dates so they could schedule future appointments. They also initially underestimated how far back they'd like to see past appointments. Most started at six months and decided later that seeing apointments a year or more back would help them plan for future repeat appointments.
+Most participants indicated that they often review dates of past appointments they can schedule future appointments - planning a yearly physical, for example. They also initially underestimated how far back they'd like to see past appointments. Most decided that seeing apointments at least a year or more back would be helpful, though some noted that they have certain recurring appointments every five years.
 
-Some participants also refer to their records of past appointments to find facility contact information.
+Some participants also refer to their records of past appointments to find facility contact information. One suggested they use it to track when new symptoms started.
 
 **Opportunities**
 * One step toward personalization might be to surface CTAs to schedule recurring appointments, like yearly physicals, on the home page.
@@ -94,19 +111,19 @@ Some participants also refer to their records of past appointments to find facil
 
 > A lot of times they ask when they saw me last and I can pull \[this past appointments list\] up and tell them I saw them December 31 and this started two weeks after I saw you. -P3
 
-> Usually I just need the date and this provides all of the information about the appointments. When looking for past appointments I am only really looking for the date I went. -P8
-
-> if I need to call I can get it off of the past appointments. The clinic information from the past appointments. I only use it for the contact information and date. I don’t use it for much else. -P8
+> Usually I just need the date. If I need to call I can get \[clinic contact information\] off of the past appointments. I only use it for the contact information and date. I don’t use it for much else. -P8
 
 > I just think it is important to know when I have a CAT scan for my lungs, if I knew I needed a mammogram yearly and I hadn’t heard from someone. Like the eye doctor, how often you should go. It gives you a snapshot when you went if you need a follow up or if nothing else was needed. It doesn’t need a lot of details but just a snapshot. - P9
 
 ### The ability to reschedule and cancel appointments online empowers Veterans
 
-Participants were excited about the ability to easily reschedule appointments without an additional phone call.
+Participants were excited about the ability to easily cancel and reschedule appointments without an additional phone call to the provider.
 
-Participants reported that seeing who canceled an appointment, and when, would help them make better choices around providers. One gave the example that, if a facility keeps canceling their appointment, they may decide to go elsewhere. 
+Participants reported that seeing who canceled an appointment, and when, would help them make better choices around providers. One gave the example that, if a facility keeps canceling their appointment, they may decide to go elsewhere. Another noted that they don't want to be "dinged" for canceling an appointment when the provider canceled it, and they will call a facility to correct it. 
 
-In addition, participants wanted some direction as to the next steps after an appointment is canceled. Will the doctor follow up? Should they?
+In general, participants wanted clarity into the process. For canceled appointments, some direction as to the next steps would be helpful if the scheduler canceled it. Will the doctor follow up? Should they? For rescheduled appointments, a clear indication that it had been rescheduled would help, no matter who rescheduled it.
+
+One participant noted that they want a confirmation before the reschedule is complete, so they can change their mind if they made a mistake.
 
 **Recommendations**
 * Add a confirmation screen before the reschedule is complete.
@@ -115,7 +132,7 @@ In addition, participants wanted some direction as to the next steps after an ap
 
 **Opportunities**
 * Consider adding a reschedule option to canceled appointments, to make this process easier when a scheduler cancels a Veteran's appointment.
-* Consier adding information about who canceled an appointment, and when.
+* Consider adding information about who canceled an appointment, and when, to the canceled appointment detail.
 * Explore ways to communicate that an appointment has been canceled or rescheduled, both in VAOS and notifications to the Veteran.
 
 **Quotes**
@@ -144,10 +161,10 @@ In addition, participants wanted some direction as to the next steps after an ap
 > \[After rescheduling\] This is very cool. We don’t have that capability now. Normally I have to talk to a human that does not have any appointments available at this time. I have rescheduled, I am in more control of my life rather than a clerk. - P9
     
 ### Static landing page
-All participants quickly found the main CTA. Most skimmed the content of this page quickly then clicked the CTA without prompting. Most skipped the COVID notification at the top, with some commenting that they ignore it because they see it everywhere on the VA site.
+All participants quickly found the main CTA. Most skimmed the content of this page, then clicked the CTA without prompting. Most skipped past the COVID notification at the top, with some commenting that they ignore it because they see it everywhere on the VA site.
 
 **Recommendations**
-* In earlier research we found that the number of alerts on this page was confusing. Recommend reworking the first part of this page so there are fewer notifications, and the main CTA is closer to the top, followed by any necessary information.
+* In earlier research we found that the number of alerts on this page was confusing. Recommend reworking the first part of this page so there are fewer alerts, and the main CTA is closer to the top, followed by any necessary information.
 * Move the questions into accordions, in their own section, to aid scannability.
 * Revisit the language around appointment requests. Align the language used here with that used when completing a request. (Also see [Appointment requests continue to be confusing] in this report.)
 
@@ -158,7 +175,7 @@ All participants quickly found the main CTA. Most skimmed the content of this pa
 
 > Every page starts with COVID stuff but no one reads that anymore. -P3
 
-> I was confused when it say it may be faster to schedule over the phone. If it displays here why should I then go to the phone. I don’t know why it would be faster to do it on the phone when normally the phone system doesn’t work too great. -P8
+> I was confused that it says it may be faster to schedule over the phone. If it displays here why should I then go to the phone? I don’t know why it would be faster to do it on the phone when normally the phone system doesn’t work too great. -P8
 
 > There is a lot of FAQ’s but they never seem to be my questions. -P8
 
@@ -173,6 +190,9 @@ The content of the notifications they receive is generally helpful, though one u
 
 Most users track their appointments across multiple systems: desk calendar, email, digital calendar, etc. Some create additional reminders for their appointments. Others rely on a calendar they review daily.
 
+**Opportunities**
+* We are planning to research scheduling notifications to understand how we can improve these. During this research keep in mind all the systems veterans use, along with what the VA sends and when, and how Veteran communication preferences are tracked.
+
 **Quotes**
 > I have Outlook on my phone and I track it there. I have reminders two weeks out and the day of. It tells me what time I need to leave. And I have it written on the desk calendar. - P3
 
@@ -183,24 +203,24 @@ The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip;
 
 > Text message reminders are fine if it's maybe one the week of, and one the day before. But sometimes I end up getting 15 texts that are all the same message and makes me confirm or cancel it.  It just gets very annoying after awhile. - P3
 
-> I had an exam and I logged in and saw it was cancelled but never got notification. I only saw it was cancelled because of the website. I could have went. It has happened before and I have driven to the appointment and they had cancelled it on a Monday morning and did it on the website. -P5
+> I had an exam and I logged in and saw it was cancelled but never got notification. I only saw it was cancelled because of the website. I could have went. It has happened before and I have driven to the appointment and they had cancelled it on a Monday morning and did it on the website. - P5
 
-> I get anxiety that I will be late but they are always late anyways so its when you get there you get there. I try to leave early to get there early. Then they take my blood pressure twice because it is high when I get there. Every time. -P5
+> I get anxiety that I will be late but they are always late anyways so its when you get there you get there. I try to leave early to get there early. Then they take my blood pressure twice because it is high when I get there. Every time. - P5
 
-> I am old school and I call \[to schedule my appointment\]. I usually leave a message and call back but normally they wont call back so I have to call again so I need to learn to do this. - P8
+> I am old school and I call \[to schedule my appointment\]. I usually leave a message and call back but normally they wont call back so I have to call again so I need to learn to \[schedule online\]. - P8
 
 >  I write my appointments on a desk calendar and usually they send me an email confirmation so I keep the email so I can access the appointment details.  I am very non-technical. I used to fly airplanes but when it comes to this I am old school. - P8 
 
 > They are good at texting, calling and cards in the mail. I got an email the other day that showed my appointments so it’s like whatever works for you I guess. -P9
 
-> If I didn’t talk to them since November 24th it may be a good time to reach out to them. I have had that issue before, I have to call mine, she doesn’t check in on me. I told her so to. - P9
+> If I didn’t talk to \[my provider\] since a few months back it may be a good time to reach out to them. I have had that issue before, I have to call mine, she doesn’t check in on me. I told her so to. - P9
 
->   I do a combination, if I want an appointment I may use secure messaging to talk with the doctors, once I have an appointment I have the hard copy and an iPhone reminder. -P9
+>   I do a combination, if I want an appointment I may use secure messaging to talk with the doctors, once I have an appointment I have the hard copy and an iPhone reminder. - P9
 
 
 ### Booking notes language wasn't clear
 
-We were surprised that few participants directly asked about type of care. From previous research [ADD LINK] we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear as to the purpose of the booking note because of the nature of the static prototype used in the study.
+We were surprised that few participants directly asked about type of care. From previous research [ADD LINK] we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear that it wasn't present because of the nature of the static prototype used in the study.
 
 Along with the booking note, most veterans showed some confusion when looking at the information they would have entered, such as time preferences on requests, or contact information.  
 
@@ -208,19 +228,21 @@ Along with the booking note, most veterans showed some confusion when looking at
 * Revisit the language used to describe appointment information the veteran provided. Separate this from the facility provided appointment information to make it easier to scan. 
 
 ### General scheduling feedback
-Veterans also provided general feedback about their scheduling experience. These build on themes we’ve heard earlier.
+Veterans also provided general feedback about their scheduling experience. Many of these build on themes we’ve heard in earlier research. While VAOS can't solve all of these issues, it's helpful to understand the overal Veteran experience.
 
-Participants wanted to know any other information to help them prepare for the day of the appointment, such as if labs/fasting would be needed.
+A couple of things to note:
 
-Some participants reported that the process for getting travel pay reimbursed is tedious. They have to put in a reimbursement request after every trip to an appointment , and the wait times for reimbursement were long.
+* Some participants wanted to know any other information to help them prepare for the day of the appointment, such as if labs/fasting would be needed.
 
-As we've heard in previous sessions, wait times for requests are too long. And creating a request through VAOS is slower than calling, which has caused them to use VAOS less.
+* Some participants reported that the process for getting travel pay reimbursed is tedious. They have to put in a reimbursement request after every trip to an appointment , and the wait times for reimbursement were long.
 
-About half of the participants were aware of VAOS, but don’t use it because of issues scheduling in the past, including facilities not being available.
+* As we've heard in previous sessions, wait times for requests can be very long. And creating a request through VAOS is slower than calling, which has caused them to use VAOS less.
+
+* More than half of the participants were aware of VAOS on some level, but don’t use it because of issues scheduling in the past. Specifically, some mentioned their  facilities were not available for online scheduling.
 
 **Opportunities**
 * Look for ways to integrate travel pay reimbursement into appointments.
-* A waitlist option might be helpful
+* Research whether any facilities are using waitlists to successfully move people into appointments faster.
 
 **Quotes**
 > It's 'hurry up and wait' in the military from bootcamp to waiting for appointments. - P2
@@ -235,7 +257,7 @@ About half of the participants were aware of VAOS, but don’t use it because of
 
 > I have been waiting a month for a rotator cuff tear. You have to wait for the community care permission which takes a month then wait for the space. It needs to be streamlined, there are too many ways to fail. - P3
 
-> I have used this page before. It is how I have scheduled appointments but the place I go doesn’t have many appointment available. And since COVID you can't make an appointment. When you try to schedule online they make you call to schedule. - P3
+> I have used this page \[VAOS\] before. It is how I have scheduled appointments but the place I go doesn’t have many appointment available. And since COVID you can't make an appointment. When you try to schedule online they make you call to schedule. - P3
 
 > I needed an appointment within 6 months and that was last February and I was just seen last week. By the time that they see the request and get it in the computer it is already 6 months out. - P3
 
@@ -243,13 +265,12 @@ About half of the participants were aware of VAOS, but don’t use it because of
 
 > Every department has 5 different numbers and most just ring. I don’t have an issue with the VA just the administration. There are too many numbers and connects that go nowhere. -P5
 
-> When I tried to \[schedule with VAOS\] in the past it didn’t work for me. I wasn’t allowed to do it, maybe its where we are and they weren’t ready for the software. I just email the department instead and tell them I need to follow up and they either call or email me back. - P5
-
 > The VA does block scheduling, it doesn’t matter when your appointment is. If you get there at 8 you get seen first. It's when you get there is when your appointment is. All that does is make veterans angry because they have an appointment at 10 but don’t get seen until 11:30am. - P5
 
 > Travel pay should be automatic, they know where veterans are coming form they have our address. I mean how else are we supposed to get there, transport? I want a one stop shop instead of logging into multiple government websites. - P5
 
->  /[Looking at the calendar/] I thought what was highlighted in blue was available but I clicked on today and it was available but when looking at it I would have thought it wasn’t available. I guess it’s because that’s how the airlines work if it is greyed out it isn’t available.
+> When I tried to \[schedule with VAOS\] in the past it didn’t work for me. I wasn’t allowed to do it, maybe its where we are and they weren’t ready for the software. I just email the department instead and tell them I need to follow up and they either call or email me back. - P5
+
 
 
 
