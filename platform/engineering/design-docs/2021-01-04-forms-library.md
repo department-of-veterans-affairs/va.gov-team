@@ -236,6 +236,11 @@ chapters and pages based on the state in the state manager.
 routing? (If we can't, then we can't, but we should start by trying to keep it
 separate.)
 
+**Idea:** Maybe something to do with using the schema in conjunction with the
+page to identify which "display" component to use and what data paths there on
+the page. There'd be a standard for basically all primitivve types with the
+option to override.
+
 #### Helper: Submission validation
 Compare the form data against a JSON schema.
 
