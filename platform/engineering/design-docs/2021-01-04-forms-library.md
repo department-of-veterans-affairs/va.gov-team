@@ -137,17 +137,44 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Provide the `RouterContext` to its children
-    - `Page` and `Chapter` may use this context to get access to the routes
-      available, as may any custom components
-    - This may be used for directly modifying the routes at runtime by custom
-      components if needed
-      - Directly modifying the routes should be seen as an escape hatch for
-      engineers to use at their own risk
-1. [Pass an additional prop to its
-children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children),
-`registerRoute`
-    - This will be a function which registers a component to render at a URL
+1. Provide the `RouterContext` to its children which may be used to:
+    - Directly modify the routes at runtime by custom components if needed
+    - Compute the data path for form builder components with route path data
+      substitution
+      - See [form builder](#sub-module-form-page-builder) for more information
+1. Build a list of the route definitions from its children's `path` props
+    - `Page`s nested in `Chapter`s will have their paths prefixed with the
+      `Chapter` path
+    - For example:
+      ```jsx
+      <Chapter path="/personal-information">
+        <Page path="/name">...</Page>
+      </Chapter>
+      ```
+      This will result in a path definition of `/personal-information/name`
+1. Build a list of computed routes
+1. Provide callbacks to navigate forward and backward through the list of
+   computed routes
+
+###### Terminology
+**Note:** This needs a lot of clean up. Suggestions?
+
+- Route parameter
+  - A path of the route definition which points to form data.
+  - Take the example `/path/to/children/:my.children/name`. Here, `:my.children` is a
+    route parameter which points to the form data at `my.children`.
+- Route defininition
+  - The path to the page.
+  - This may or may not have route parameters which are used to compute the
+    actual routes.
+  - Take the example `/path/to/children/:my.children/name`. If the user entered
+    `3` in the field with `data="my.children"`, the router would turn this route
+    definition into the following computed paths:
+    - `/path/to/children/0/name`
+    - `/path/to/children/1/name`
+    - `/path/to/children/2/name`
+- Computed route
+  - The path to the page _without_ any route parameters.
 
 ##### Component: `Chapter`
 **Purpose:**
@@ -161,10 +188,8 @@ rendering the form title, current chapter name, and progress bar.
 - A `Chapter` must have children
 
 **Responsibilities:**
-- Passing an additional `registerRoute` prop to its children
-  - This will function as the `registerRoute` passed to `Chapter`, but the
-    component that will actually be registered will be wrapped in the `Chapter`
-    chrome as described in **Purpose**
+- Render the chapter title and progress bar
+- Render the child `Page`s
 
 ##### Component: `Page`
 **Purpose:**
@@ -174,8 +199,6 @@ A `Page` is the required wrapper around form page contents.
 A `Page` may be the child of either `Router` directly or `Chapter`.
 
 **Responsibilities:**
-- Register the page contents at a specified URL by calling the `registerRoute`
-  function passed to it from either `Chapter` or `Router`
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
 
