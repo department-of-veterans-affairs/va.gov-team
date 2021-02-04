@@ -23,7 +23,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 - Then we’ll be reviewing a prototype on a mobile device together. Since this is just a prototype, not everything will be clickable or functioning
 
-- In this session, we want to hear your honest thoughts and opinions. We are not testing your ability. We want to improve the mobile version of facility locator to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Please try and think aloud as you are clicking through and interacting with the prototype.
+- In this session, we want to hear your honest thoughts and opinions. We are not testing your ability. We want to improve the mobile version of the facility locator to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Please try and think aloud as you are clicking through and interacting with the prototype.
 
 - Are you comfortable if I record my screen and audio as we talk today? The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. If for any reason and at any time you want to stop the session, please let me know.
 
@@ -87,7 +87,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## First Task: Find the nearest urgent care center near you
 
 **Scenario**
-- You've come to the VA website because you need to find the nearest urgent care center near you.
+- You've come to the VA website because you need to find the nearest urgent care center near you. You are currently living in the Washington DC area.
 
 ### Things to watch for:
 
