@@ -28,18 +28,19 @@ Ruby gems are tracked automatically and this toolkit can be tracked using the fo
 https://rubygems.org/gems/vtk
 Actual success metrics are TBD, but a steady growth of the numbers of installs will imply that users are actively using the toolkit.
 
-### Custom Commit Messages
-We are going to be building in a custom commit message that will create an initial commit that can be easily searched in GitHub that will show us how many times a module, controller, model, etc was generated through the Toolkit.
+### Tracking Through DataDog or Google Analytics (GA)
+There are two tools that are available for platform teams that provide tracking capabilities.  Each of them have their pros vs cons when tracking different types of products.
 
-There will be 3 separate tasks that will be tracked
+#### Google Analytics
+After speaking with the Insights & Analytics team, GA is not the best option as it requires a URL to be tracked against.  There is some custom work and some manipulation that could be done to make this work, but it has been determined to not be the best tool for the tracking of a command line product.
 
-Creating Initial File Structure
-Creating a controller
-Creating a model
+#### DataDog
+This tool is currently being stood up by the Ops team and has been identified as the best tool to use to track the user interactions because there is little manipulation that needs to be done to track "events".
 
-Link to GitHub Search query for creating Initial file structure
-Link to GitHub Search query for creating a new controller
-Link to GitHub Search query for creating a a new model
+Because this is a new tool to the platform and is not fully operational, there will need to be investigation to what type of events can be captured and how to present the data for analysis.
+
+Update (2/4/2021):
+Road block was met with sending API keys.  Re-working the approach to build out middleware through the proxy so that we are able to send events to DataDog.  Still under investigation and design.
 
 ### Key Performance Indicators (KPIs)
 
@@ -51,7 +52,7 @@ Because this is a brand new tool, there are no baseline KPIs.
 ---
 
 ## Assumptions
-- Developers will use a command line tool to troubleshoot over documentation because it fits better into their natuarl workflow.
+- Developers will use a command line tool to troubleshoot over documentation because it fits better into their natural work flow.
 - Toolkit can be developed in a simple manner across different teams as needs are determined.
 - The centralization of these tasks will reduce friction to finding solutions elsewhere.
 - Other teams besides BE Tools will benefit and contribute to this project as it grows in scale.
@@ -59,22 +60,22 @@ Because this is a brand new tool, there are no baseline KPIs.
 ## Solution Approach
 
 ### Design/Discovery sprint (Completed)
-The first phase of this was to identitify what features were desired by the BE Tools team, FE Tools team, Ops, Engineering Lead (Michael Fleet) and the DEPO lead for Engineering on the Platform (Dror).  The ideas were consolidated on the following Mural board and prioritized.
+The first phase of this was to identify what features were desired by the BE Tools team, FE Tools team, Ops, Engineering Lead (Michael Fleet) and the DEPO lead for Engineering on the Platform (Dror).  The ideas were consolidated on the following Mural board and prioritized.
 
 [Mural board of initial Ideas](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f
 
-Outcome:  Deprecate the original generator in favor of a new more indepth generator that can ben invoked throught the CLI Toolkit.  This was identified as the most valuable as it helps new VFS teams get started developing on vets-api rather quickly by providing them the scaffolding they need to start developing and encourgaing them to develop in Modules witch promotes isolation in the application.
+Outcome:  Deprecate the original generator in favor of a new more in-depth generator that can be invoked through the CLI Toolkit.  This was identified as the most valuable as it helps new VFS teams get started developing on vets-api rather quickly by providing them the scaffolding they need to start developing and encouraging them to develop in Modules witch promotes isolation in the application.
 
 ### Prototype the initial tool (Complete)
 
 New generator has been developed and wrapped in the CLI Toolkit and is ready for testing.
 
-More information on the genetor can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator)
+More information on the generator can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator)
 CLI Toolkit can be found [here](https://github.com/department-of-veterans-affairs/vtk/blob/master/README.md)
 
 ### Test prototype with teams (Current)
 
-The toolkit with the new genetor work is being reviewed by a VFS team that is currently in the process of creating a new backend module.  This team was selected because of the step in the process of their work that lined up with the capabilities of the CLI Toolkit.
+The toolkit with the new generator work is being reviewed by a VFS team that is currently in the process of creating a new backend module.  This team was selected because of the step in the process of their work that lined up with the capabilities of the CLI Toolkit.
 
 ### Iterate (Next)
 
@@ -86,13 +87,13 @@ More Information can be found in the [Design Doc](https://github.com/department-
 --- 
 
 ## Launch Dates
-- MVP Launch: January 5th, 2021
+- MVP Launch: February 16th, 2021
 
 ---
    
-## Screenshots
+## Screen-shots
 
-_Include before/after screenshots, if applicable. Delete this section otherwise._
+_Include before/after screen-shots, if applicable. Delete this section otherwise._
 
 ### Before
 
