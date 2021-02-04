@@ -23,9 +23,8 @@
 ## February 10 2021
 
 * Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)
-
 * fieldDate removed? If so, CMS will merge our PR. 
-
+* broken link checks in FE issues
 
 ## February 3 
 
