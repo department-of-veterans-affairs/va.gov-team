@@ -24,11 +24,12 @@
 ## Friday Feb 12 10:30am ET
 
 - Tugboat
-- User administration
-- Put Facility health service editorial experience 
+- Training
+- Facility health service editorial experience 
   - required fields (phone number labels)
   - Table caption
 - Communication to Ryan S on Facility Service Location Page hardening
+- Entity embed module on rich text fields, is anyone on VAMC upgrade team using it? 
 
 ## Friday Feb 5 10:30am ET
 
