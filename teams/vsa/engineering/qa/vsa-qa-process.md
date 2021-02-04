@@ -10,8 +10,8 @@ Ideally, once Test Plan/Cases are mature and Product/Feature is stable/testable 
 
 ### Important timings
 
-- **At least 2 Sprints before opening VSP Staging Review request-ticket**: Product Manager (PM) opens VSA-QA Test Plan ticket.
-- **At least 1 week before scheduled VSP Staging Review meeting**: PM notifies VSA-QA to schedule QA test-runs.
+- **At least 2 Sprints before opening VSP Staging Review request-ticket**: Product Manager (PM) opens [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan).
+- **At least 1 Sprint before scheduling VSP Staging Review meeting**: PM notifies VSA-QA to schedule QA test-runs -- VSP requires all artifacts to be ready for review at least 4 days before the meeting.
 
 ### Important Product-Team artifacts
 
