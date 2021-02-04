@@ -23,13 +23,16 @@ be behind a feature flag.
 - 50% of users (1 week), Dates:4/1-4/6 (S44)
 - If all goes well, then go to 100% of users: Estimated date 4/7 (S45)
 
+**What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 **Link to GA Dashboard:** TBD
 
-**What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-Metric 
-Metric 
-Metric 
-Metric 
+- Successful retrievals/Failed retrievals
+- Successful submissions/Failed submissions
+- Errors 
+- Clicks to edit account information
+- Clicks to add account (comp and pension only)
+- Clicks to "View payment history"
+- Count of "Direct deposit" searches from the profile
 
 
 ## Go Live!
