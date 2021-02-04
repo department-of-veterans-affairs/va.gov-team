@@ -3,6 +3,7 @@
 ### Product Reference Links
 * [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
 * [Target Release - Q3 2021]
+* Link to [ Discovery Interview Lis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/interviews.md)
 * Link to [research plan ]
 * Link to [conversation guide]
 * Link to [usability study]
