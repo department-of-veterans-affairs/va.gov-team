@@ -1,4 +1,4 @@
-# Required data
+# Required data for the UI
 
 This document will serve as a plce to document the needed information in the UI for an appoinment and where we the data is coming form. This is just for appointment data, not questionnaire data.
 
