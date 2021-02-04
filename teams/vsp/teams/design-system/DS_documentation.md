@@ -1,73 +1,79 @@
-# Design System Documenation Product Outline 
 
-#### Communications
 
-- Team Name: Design System Team
-- GitHub Label: #vsp-design-system
-
----
-
+# Design System Documenation Product Outline
 
 ## Overview
 
 A important part of the VA Design System, is the documentation that describes design guidelines and code to help teams quickly create usable, accessible, and consistent digital services on the VA.gov platform. Its primary audience includes designers, content writers, and front-end developers who work on VA.gov.
 
-
 ## Problem Statement
 
-Currently, there are parts of the current Design System are not documented (ie. form patterns library) so VFS designers and developers do not have clear steps on proper application of the design system. 
+Currently, there are parts of the current Design System are not documented (ie. form patterns library) so VFS designers and developers do not have clear steps on proper application of the design system.
 
 How might we provide guidelines and sample code to help teams quickly create usable, accessible, and consistent digital services on the VA.gov platform
 
-## Desired User Outcomes
-
-Users find guidelines and sample code of design patterns, components and other features in the design system documentation to apply to applications they are buildling. If more teams are leveraging the design system,  teams will be able to more quickly create scalable, accessible, and consistent digital services on the VA.gov platform
-
-## Undesired User Outcomes
 
 
+## Personas
 
-## Desired Business Outcomes 
+VFS Teams
 
-- Design system can help improve consistency, quality and scalability 
-- Design syste can lead to faster development on VA.gov
+## Measuring Success
 
-## Undesired Business Outcomes
+### Key Performance Indicators (KPIs)
 
-Design system designs, components and patterns don’t work for most use cases on VA.gov.
+- Number of users accessing design system documentation?
+- Number of support requests related to design system guidelines or code
+- Increased documentation of components and patterns
+
+#### Baseline KPI Values
+
+- Number of documented components
+- Number of documented form patterns 
+
+------
 
 ## Assumptions
 
 - Teams are looking at the design system before building applications
 - Teams find documentation helpful when identifying elements they can use from the Design System
-- Developers are using the code in the documentation 
-
+- Developers are using the code in the documentation
 
 ## Solution Approach
 
-The team will continue to document Design System components, patterns and templates. 
+- The team will continue to document Design System components, patterns and templates.
+
+------
+
+## Launch Dates
+
+- *Launch Date*: TBD
+
+------
+
+## Reference Material
+
+*Link to the following materials as relevant.*
+
+- VFS-facing Product README (in `/platform`)
+- Release Plan
+- Any product health or success dashboards
+
+### Communications
+
+<details open="" style="box-sizing: border-box; display: block; margin-top: 0px; margin-bottom: 16px;"><summary>Details</summary><slot name="user-agent-default-slot" id="details-content"><ul style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 16px;"><li style="box-sizing: border-box;">Team Name: Design System Team</li><li style="box-sizing: border-box; margin-top: 0.25em;">GitHub Label: design-system-team</li><li style="box-sizing: border-box; margin-top: 0.25em;">Slack channel: vsp-design-system</li><li style="box-sizing: border-box; margin-top: 0.25em;">Product POCs: Carol Wong</li><li style="box-sizing: border-box; margin-top: 0.25em;">Stakeholders: Kevin Hoffman</li></ul></slot></details>
+
+#### Team Members
+
+- DEPO Lead: Kevin Hoffman
+- PM: Carol Wong
+- Engineering: Chris Valarida, Brooks Johnson
+- Research/Design: Crystabel Reiter
 
 
-## KPIs
 
-- Number of users accessing design system documentation????
-- Number of support requests related to design system guidelines or code
+Stakeholders
 
+<details class="details-reset details-overlay details-oDetails
+What offices/departments are critical to make this initiative successful?verlay-dark" id="jumpto-line-details-dialog" style="box-sizing: border-box; display: block;"><summary data-hotkey="l" aria-label="Jump to line" role="button" style="box-sizing: border-box; display: list-item; cursor: pointer; list-style: none;"></summary></details>
 
-### Current Status
-
-
-
-### Key Decisions
-
-- Review instances could be the product to address some of the testing needs 
-- Focusing on qualitative date from VFS teams to drive discussions on review instances. 
-- Operations are only working to address the current need and will bring in Backend and Frontend Tools to help shape the future of review instances. 
-
-
-### Feedback 
-
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/misc-research/review-instances-feedback.md
-- https://dsva.slack.com/archives/CBU0KDSB1/p1581361696135200
-- https://dsva.slack.com/archives/CBU0KDSB1/p1579639667123500?thread_ts=1579636704.123000&cid=CBU0KDSB1
-- Launch of new review instances: https://dsva.slack.com/archives/CBU0KDSB1/p1581452208147200
