@@ -33,7 +33,11 @@
 
 - Tugboat
 - User administration
-- Put Facility health service editorial experience 
+- VAMC menus 
+  - Some work coming to lock down and force menu structure
+  - Menu bugs that are blocking some Transformer work
+  - Capitalization for menus items with `<nolink>` 
+- Facility health service editorial experience 
   - Required fields (phone number labels)
   - Table caption 
 
