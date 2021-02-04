@@ -25,8 +25,6 @@ Before we get started, I want to give you an idea of what this session will be l
 
 - In this session, we want to hear your honest thoughts and opinions. We are not testing your ability. We want to improve the mobile version of the facility locator to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Please try and think aloud as you are clicking through and interacting with the prototype.
 
-- Are you comfortable if I record my screen and audio as we talk today? The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. If for any reason and at any time you want to stop the session, please let me know.
-
 - I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
 
 - Great, that helps me troubleshoot with you if we run into any problems.
@@ -62,8 +60,10 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 **User clicks on prototype**
 
-- Are you comfortable if I record my screen and audio as we talk today?
+- Are you comfortable if I record my screen and audio as we talk today? The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. If for any reason and at any time you want to stop the session, please let me know.
+
  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
 
 ###### Start recording to the Cloud
 
@@ -72,9 +72,10 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## Warm-up Questions
 
 - Can you tell me a little about your service history or tell me about yourself?
-- How often do you visit the VA website?
-- Have you ever used the facility locator on desktop or a mobile device?
-- Have you visited a VA Facility for healthcare in the past couple of years, or perhaps before the pandemic?
+- Have you used the VA website before?
+- If yes, what were you looking for?
+- Have you ever tried to find a VA facility in the VA website on your computer or a mobile device?
+- Have you visited a VA facility for healthcare in the past couple of years, or perhaps before the pandemic?
  
 ## Prototype - 35 minutes
 
