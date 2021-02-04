@@ -3,7 +3,7 @@
 ## Communications
 - GitHub Label: [cst](https://github.com/department-of-veterans-affairs/va.gov-team/labels/cst)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Matt Self and Luke Majewski
+- Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/claim-or-appeal-status/
 - Stakeholders: Lots and lots of people... but Paul Shute (Paul.Shute@va.gov) is likely our main stakeholder/champion.  NCC is driving some of the possible direction but they are not an official stakeholder.
 
