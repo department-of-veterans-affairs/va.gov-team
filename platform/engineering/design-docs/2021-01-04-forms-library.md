@@ -55,10 +55,9 @@ definitely do so. For now, I digress.
 Formulate will be a modular library consisting of helper functions and
 components to aid in the rapid development of forms on VA.gov. These functions
 and components will be **split into sub-modules** for:
-- Routing
-- Building form pages
-- Validation
 - State management
+- Building form pages
+- Routing
 - Save-in-progress
 
 **Each sub-module will be independent.** If a form doesn't need the multi-page
@@ -69,6 +68,15 @@ own, but still reap the benefits of using the rest of the system.
 _Note: "sub-modules" here refer to independent parts of a larger system and have
 nothing to do with [Git
 Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
+
+Additionally, the library will provide a number of helper functions and
+components for:
+- Field **data** validation
+  - The contents of the field which the user inputs
+- Field **type** validation
+  - The type of the field compared to the JSON schema for the form
+- Submission validation
+- Building a review page
 
 ## Specifics
 
