@@ -242,8 +242,8 @@ This path must be dot notation as used by [Lodash's get
 function](https://lodash.com/docs/4.17.15#get) with the following data
 substitution exceptions.
 
-###### Absolute data substitution
-A data path may contain matching angle brackets `<>` to denote absolute data
+###### Absolute substitution
+A data path may contain matching angle brackets `<>` to denote absolute
 substitution.
 
 **TODO:** Write a reasonable description of what's happening.
@@ -259,15 +259,14 @@ Take the following example:
     <TextField title="First name" path="children.<childCount>.name.first" />
     ```
 
-The absolute data substitution matches the `<childCount>` from the data path to
-the `:childCount` from the route path definition. It then substitutes the
+The absolute substitution matches the `<childCount>` from the data path to the
+`:childCount` from the route path definition. It then substitutes the
 `<childCount>` in the field's data path with the `2` from the URL. The computed
 data path then becomes `children.2.name.first` which can be used to set the form
 data for the third child's first name.
 
 ###### Relative data substitution
-A data path may contain square brackets `[]` to denote relative data
-substitution.
+A data path may contain square brackets `[]` to denote relative substitution.
 
 **TODO:** Write a reasonable description of what's happening.
 
@@ -284,9 +283,9 @@ Take the following example:
       path="ptsd.incidents[].description" />
     ```
 
-The relative data substitution matches `pdst.incidents[]` to the
-`:ptsd.incidents` in the route path definition. It then substitutes the incident
-number for `[]` in the data path. The computed data path then becomes
+The relative substitution matches `pdst.incidents[]` to the `:ptsd.incidents` in
+the route path definition. It then substitutes the incident number for `[]` in
+the data path. The computed data path then becomes
 `ptsd.incidents.3.description`.
 
 **By using relative path substitution, the data paths are shorter.** The
