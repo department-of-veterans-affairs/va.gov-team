@@ -79,15 +79,6 @@ Much of this is the same as the specs in the health care section:
 
 - **All final copy is TBD**
 
-**State 2B: A user has some applications in progress, and either already has health care or has applied for it**  
-
-*UX specs*
-
-- If someone starts an application, we show it in the “Application in progress” section.
-- If someone starts an application for health care we remove that block from the “Benefits you might be interested in” section, and we move it up to the “Applications in progress” section. We never show this block again after their health care application is submitted.
-
-![Apply for benefits_No getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20getting%20started.jpg)
-
 **State 3: A user has no applications in progress**  
 
 ![Apply for benefits_No apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20apps%20in%20progress.jpg)
