@@ -28,7 +28,7 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 
 - Ages of our participants ranged from 25 to 65+
 
-  - 1 participants under 35
+  - 1 participant under 35
   - 6 participants 35 - 44
   - 1 participant 45 - 54
   - 4 participants 55 - 64
