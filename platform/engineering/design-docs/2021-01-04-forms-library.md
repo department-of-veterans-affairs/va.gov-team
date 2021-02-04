@@ -218,6 +218,10 @@ These components will be responsible for:
 - Interfacing with the state manager for setting and retrieving form state
   - User data
   - Validation errors errors
+- Interfacing with the route manager _if present_ for route path substitutions
+  in its data path
+  - The route manager is responsible for the translation
+  - See below for details
 - Calling validation functions
 - Displaying validation errors
 - When a schema is present in the state manager, checking it to ensure
@@ -232,8 +236,64 @@ These components will be responsible for:
       type checking code to client browsers and still ensure the checking
       happens in CI.
 
-Arguably, this sub-module could be considered a helper, but that's semantics, I
-suppose.
+##### Data paths
+Each form page builder component must accept a string data path `data` property.
+This path must be dot notation as used by [Lodash's get
+function](https://lodash.com/docs/4.17.15#get) with the following data
+substitution exceptions.
+
+###### Absolute data substitution
+A data path may contain matching angle brackets `<>` to denote absolute data
+substitution.
+
+**TODO:** Write a reasonable description of what's happening.
+
+Take the following example:
+- The root URL for the application is `/my-application`
+- The form data for `childCount` is 5 because the user says they have five
+  children
+- The current page URL is `/my-application/path/to/children/2/name`
+- The current route definition is `/path/to/children/:childCount/name`
+- The page contains a form page builder component:
+    ```jsx
+    <TextField title="First name" path="children.<childCount>.name.first" />
+    ```
+
+The absolute data substitution matches the `<childCount>` from the data path to
+the `:childCount` from the route path definition. It then substitutes the
+`<childCount>` in the field's data path with the `2` from the URL. The computed
+data path then becomes `children.2.name.first` which can be used to set the form
+data for the third child's first name.
+
+###### Relative data substitution
+A data path may contain square brackets `[]` to denote relative data
+substitution.
+
+**TODO:** Write a reasonable description of what's happening.
+
+Take the following example:
+- The root URL for the application is `/my-application`
+- The form data for `ptsd.incidents` is an array of N incidents which we don't have a
+  definite count for
+- The current page URL is `/my-application/ptsd/incidents/3/description`
+- The current route definition is `/ptsd/incidents/:ptsd.incidents/description`
+- The page contains a form page builder component:
+    ```jsx
+    <TextField
+      title="Please describe what happened"
+      path="ptsd.incidents[].description" />
+    ```
+
+The relative data substitution matches `pdst.incidents[]` to the
+`:ptsd.incidents` in the route path definition. It then substitutes the incident
+number for `[]` in the data path. The computed data path then becomes
+`ptsd.incidents.3.description`.
+
+**By using relative path substitution, the data paths are shorter.** The
+equivalent absolute path substitution would be
+`ptsd.incidents.<ptsd.incidents>.description`.
+
+**Note:** Relative path substitution _only_ works with arrays.
 
 ##### A note on validation
 Validation will be run on the `onBlur` event for clean inputs and on the
