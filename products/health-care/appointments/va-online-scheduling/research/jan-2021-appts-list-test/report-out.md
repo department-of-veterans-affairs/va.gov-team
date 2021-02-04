@@ -24,6 +24,10 @@ That said, there were some problem areas that we’ll focus on later in this rep
 
 > Cancelled appointment should tell you who cancelled it and when you click on it, it tells you. There are times that appointments are cancelled and I don’t know who did. It is nice that they have you cancelled it so I can think back to see why I cancelled it. Or if I click it and it says the va cancelled and gives a date and number. -P3
 
+>  I typically print things out and carry it to the appointment so I would do that. If you need to reschedule or cancel I can do that here so that’s really good -P8
+
+>  I like how it is a monthly thing, I like how clear it is, video conference only, that’s good.  It tells you who you are going to see, what its for. - P9
+
 ## Results
 
 Note that while a small study like this works well for validating usability, the opportunities below should be further researched and validated before action is taken.
@@ -53,6 +57,14 @@ While participants were able to navigate through the three requests displayed, i
 
 > After I request the appointments I would go check on them to see if the requested appointments were approved. If they weren't I would call or email telling them I scheduled via the software and haven’t heard anything so please give me a call. That happened today, I am going back today to pick up a handicap plaque. I messaged them and asked if it is ready. No one called to tell me it was ready. 
  -P5
+ 
+ > Like the first one \[Looking at the Express Care request\] that says it is a request. Is that what you are talking about? So I don’t know when It was requested and how long I had to wait but they were going to follow up on Wednesday if I had an appointment or not.  I have to keep the entire day available because they don’t tell me anything here. -P8
+ 
+> \[Looking at an appointment request detail\] don’t say when they will contact me so I am waiting around and leaving the 18th and 19th open. It would be nice if they say they will contact me in 24 hours or 2 business days. This leaves it open ended. -P8 
+
+> I think from the start when requesting it should be an option. If it isn’t an appointment that they cant do by telehealth then they need to say that, otherwise you should have that option at the start. -P8
+
+> You asked for something that was not confirmed, I was looking for confirmed not confirmed. So logically I though it would be under requested but most wont think that way. I would figure out the puzzle but it wasn’t clear. I am looking for confirmed or not confirmed or pending. - P9
 
 
 ### The need to see the Type of Care associated with an appointment only came up indirectly
@@ -80,6 +92,12 @@ Some participants also refer to their records of past appointments to find facil
 
 > A lot of times they ask when they saw me last and I can pull \[this past appointments list\] up and tell them I saw them December 31 and this started two weeks after I saw you. -P3
 
+> Usually I just need the date and this provides all of the information about the appointments. When looking for past appointments I am only really looking for the date I went. -P8
+
+> if I need to call I can get it off of the past appointments. The clinic information from the past appointments. I only use it for the contact information and date. I don’t use it for much else. -P8
+
+> I just think it is important to know when I have a cat scan for my lungs, if I knew I needed a mammogram yearly and I hadn’t heard from someone. Like the eye doctor, how often you should go. It gives you a snapshot when you went if you need a follow up or if nothing else was needed. It doesn’t need a lot of details but just a snapshot. - P9
+
 ### A record of canceled appointments would help Veterans feel in control
 
 Participants reported that seeing who canceled an appointment, and when, would help them make better choices around providers. For example, if one facility keeps canceling an appt, the Veteran may decide to go elsewhere. 
@@ -99,6 +117,14 @@ In addition, participants wanted some direction as to the next steps after an ap
 >  if I cancelled it I would want to reschedule it. It provides the number, doesn’t give you the option to reschedule. -P5
 
 > So it says it has been rescheduled. The one thing that normally misses is the screen asking if you are sure you want to change the appointment. This was so easy to hit it didn’t give me an option to confirm. - P5
+
+> COVID-19 is a strange time, if I cancelled it or not notifying them, there s a place that you can cancel but I have seen that in my record it says veteran failed to make it. I haven’t gone much because we have delayed appointments or do as much as we can on the phone. I have been dinged I don’t like having blemishes. - P9
+
+> Sometimes they cancel and never call back. This is very clear. -P9
+
+> On the other ones it tells me that I cancelled and to call. Was the followed up done, was it rescheduled or does it need to be rescheduled or was it resolved. Like the blood test shoed no reason to come in. if you click it there should be more information, like what and why - P9
+
+> rescheduling; this is very cool. We don’t have that capability now. There’s a 230 available. Normally I have to talk to a human that does not have any appointments available at this time. I have rescheduled, I am in more control of my life rather than a clerk. - P9
 
 ### Self-rescheduling is empowering
 Participants were excited about the ability to easily reschedule.
@@ -125,9 +151,13 @@ Participants were excited about the ability to easily reschedule.
 
 > Every page starts with COVID stuff but no one reads that anymore. -P3
 
-> I was confused when it say it may be faster to schedule over the phone. If it displays here why should I then go to the phone. -P8
+> I was confused when it say it may be faster to schedule over the phone. If it displays here why should I then go to the phone. I don’t know why it would be faster to do it on the phone when normally the phone system doesn’t work to great. -P8
 
 > There is a lot of FAQ’s but they never seem to be my questions. -P8
+
+> I think it is simple to use, the only thing I would get hung up on is finding this link tog et started. Hopefully, it is prominent on the site. -P8
+
+> It does a lot, benefit eligibility, disability, when I first started I thought it was appointment only but it has a lot going on. This is good. -P9
 
 ### Appointment reminders are inconsistent
 Most users reported some issue around the volume of notifications (including text, email, phone, and paper) they receive from the VA. Sometimes there are too many, sometimes none, and often it varies based on the provider.
@@ -154,6 +184,9 @@ The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip;
 
 >  I write my appointments on a desk calendar and usually they send me an email confirmation so I keep the email so I can access the appointment details.  I am very non-technical. I used to fly airplanes but when it comes to this I am old school. - P8 
 
+> They are good at texting, calling and cards in the mail. I got an email the other day that showed my appointments so it’s like whatever works for you I guess. -P9
+
+> If I didn’t talk to them since November 24th it may be a good time to reach out to them. I have had that issue before, I have to call mine, she doesn’t check in on me. I told her so to. - P9
 
 ### General scheduling feedback
 Veterans also provided general feedback about their scheduling experience. These build on themes we’ve heard earlier.
@@ -196,4 +229,8 @@ About half of the participants were aware of VAOS, but don’t use it because of
 > The VA does block scheduling, it doesn’t matter when your appointment is. If you get there at 8 you get seen first. It's when you get there is when your appointment is . all that does is make veterans angry because they have an appointment at 1-0 but don’t get seen until 11:30am. - P5
 
 > Travel pay should be automatic, they know where veterans are coming form they have our address. I mean how else are we supposed to get there, transport? I want a one stop shop instead of logging into multiple government websites. - P5
+
+>  /[Looking at the calendar/] I thought what was highlighted in blue was available but I clicked on today and it was available but when looking at it I would have thought it wasn’t available. I guess it’s because that’s how the airlines work if it is greyed out it isn’t available.
+
+>   I do a combination, if I want an appointment I may use secure messaging to talk with the doctors, once I have an appointment I have the hard copy and an iPhone reminder. -P9
 
