@@ -76,8 +76,6 @@ This is the GI Bill Comparison Tool, which allows you to see the benefits you ca
  - How do you think the school search results were sorted?
  - Was there any other information you were expecting to see?
  
- **Can you please return to the GI Bill Comparison Tool Home Page?**
- 
  ### Things to watch for:
 
 - How does the user try to get back to the home page?
