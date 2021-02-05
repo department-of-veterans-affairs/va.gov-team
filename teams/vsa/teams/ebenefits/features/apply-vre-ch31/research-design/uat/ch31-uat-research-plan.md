@@ -49,8 +49,9 @@ Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 
 #### Must have for participants
 - Are you a Veteran, service member or a dependent? (pass = yes)
+- Do you or your sponsor (if dependent) have a disability rating? (pass = yes)
 - Do you need to submit a 28-1900 to receive CH31 benefits (pass = yes)
-<!--
+
 #### Good to have for participants
 
 - At least one woman
