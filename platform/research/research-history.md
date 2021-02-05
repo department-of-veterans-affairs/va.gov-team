@@ -17,7 +17,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### January 2021
 
-#### Jan 21 - Feb 05: VAOS Appointments List Usability Study** 
+#### Jan 21 - Feb 05: VAOS Appointments List Usability Study
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
 - Number of participants: 5
