@@ -4,7 +4,7 @@
 ### Planning:
 - **Desired date range or test duration:** 2/25-3/9
 - **UAT Go/No go:** 2/25 (estimate)
-- **Desired number of users:** 10
+- **Desired number of users:** 6
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will
@@ -12,7 +12,7 @@ be behind a feature flag.
 - **Link to Research plan for UAT**:To be added 
 
 ### Results/Issues:
-- **Number of users:** 10
+- **Number of users:** 6
 - **List of bugs/issues found:** TBD
 
 ## Phase II: Staged Rollout 
