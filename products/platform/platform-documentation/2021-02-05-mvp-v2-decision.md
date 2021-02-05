@@ -33,19 +33,19 @@ The goals of all of the following options are to (a) create a comprehensive and 
 
 ### Option 1 (recommended by the Content/IA team): Follow persona-based IA, with exit page tracking to GH instead of content transformation
 
-asdf.  This allows us to:
-- asdf
+Migrate and apply tracking on the viable links from The Home Page MVP, and follow the personas from the customer segmentation research.  
+
+This allows us to:
+
+- **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
+- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to develop a Q2 plan with more VSP PMs.
 
 ### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
-asdf.  This allows us to:
-- asdf
+Migrate home- and top-level pages from The Home Page MVP.
 
-
-going all-in on developer docs (which requires at least some developer involvement regardless of whether it’s me or someone better qualified to work on developer docs)
-going all-in on the rest of the platform docs
-Some combination of the above, (which I think is what leadership seemed most interested in and is probably where your 2nd bullet is coming from.)
-
+- **All viable content from The Home Page MVP will be reflected on the Platform Docs MVP2 landing page:** We will be bound by the same practice-based IA, that does not follow the customer segmentation research.
+- **We would not be able to thoroughly develop our Plan Initiative:** The Content/IA team does not have the subject matter expertise in isolation - we would have to rely heavily upon other VSP teams to dedicate time to working with us on content transformation.  Time spent on collaborating with other teams' ICs means time _not_ spent on developing our Q2-and-beyond plan.
 
 ## Decision
 
