@@ -70,9 +70,11 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| December 28, 2020 | 9 AM to noon |
-| December 29, 2020 | 9 AM to noon |
-| December 30, 2020 | 9 AM to 5 PM |
+| February 22, 2021 | 9 AM to 5 PM |
+| February 23, 2021  | 9 AM to noon |
+| February 24, 2021  | 9 AM to noon |
+| February 25, 2021  | 9 AM to 5 PM |
+| February 26, 2021  | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
@@ -87,6 +89,6 @@ Please allow 30 minutes between sessions.
 - Observers -- various as available
 
 ### Resources
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/uat/ch36-uat-convo-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md)
 -->
 ---
