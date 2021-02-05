@@ -1,30 +1,40 @@
-# Research Plan: Health Record (Medications), February 2021
+# Research Plan: Health Record (Medications, Allergies, and Immunizations), February 2021
 
 ## Goals	
-This research is to explore what Veterans find valuable about reviewing and updating their medication list when completing a health questionnaire prior to a primary care appointment.
+This research is to explore:
+  - problems Veterans face when communicating health record (medications, allergies, and immunizations) changes to their VA providers. 
+  - how Veterans understand, group, and find value in reviewing and updating their medications, allergies, and immunizations within a health questionnaire prior to a primary care appointment.
 
 **Background**<br/>
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our next phase will focus on improving the pre-appointment experience when visiting primary care providers by allowing Veterans to update their health record information, particuarly medications, allergies, and immunizations.
 
 **Research questions**
-- What data and features do Veterans find valuable when reviewing and updating their medication list?
-- What current pain points do Veterans experience when communicating medication changes to their providers?
+- What current pain points do Veterans experience when communicating medications, allergies, and immunizations changes to their VA providers?
+- What data and features do Veterans commonly grouped together when reviewing and updating their medications, allergies, and immunizations?
+- Do Veterans understand various data points that could be displayed within medications, allergies, and immunizations?
+- Do Veterans find value when reviewing and updating their medications, allergies, and immunizations? What do they find valuable?
 
 **Hypothesis & assumptions**
 - Adding the ability to view and update medications within the questionnaire help solve some of the Veteran's current pain points.
-- Veterans will find some of the medication data and proposed features valuable as well as be able to provide a prioritization between the items. 
+- Veterans will be confused by certain medication, allergy, and immunization information. This test should help identify commonly confusing items, so we can address that confusion.
+- A pattern will emerge from the Veteran's groups, so the team will understand Veteran's mental model. This mental model could then be replicated in the workflow/interface.
+- Veterans will find value in a subset, but probably not all possible data points and proposed features. This will help the team determine scope for this phase.
 
 ## Method	
-We will conduct remote moderated test via Zoom using the Perigean contract. During the test, participants will complete a card sort via Optimal Sort to help determine prioritization of proposed data and features. They will also engage in a participatory design activity utilizing Mural, in order to again provide some prioritization insight and generative design ideas. Both of these activities, when paired with follow-up questioning about pain points, should allow us to confirm/deny our hypothesis.
+We will conduct remote moderated test via Zoom using the Perigean contract. To start, the Veterans will be asked a series of interview questions to uncover current pain points and workflow. Then, participants will engage in a participatory design activity utilizing Mural. This activity should assist with:
+- identifying confusing health record terms/data points.
+- developing a mental model on how Veteran group health record information.
+- identifying value of data points and proposed features.
 
 ## Participants and Recruitment
 
 Recruit for 12 fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- Have you visted a primary care provider at the VA in the last year? (pass = yes)
-	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
-- Are you currently taking any prescribed medication? (pass = yes)
+- All participants must answer yes to all of the following questions:
+  - Are you currently taking any prescribed medication?
+  - Do you have any allergies or intolerances (such as dust mites, lactose intoleracet, or penicillin allergies)?
+  - Have you had an immunization within the past two years (such as the flu shot)?
 - At least one person with an identified cognitive consideration of PTSD or TBI
 
 **Good to have for participants**
@@ -47,6 +57,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
 ## Timeline 	
 #### Desired Timeline: Feb ?-?, 2021 
 One hour sessions<br/>
+**Schedule at least 15 minute breaks in-between sessions.**
 
 Team Availability | Time (EST)
 ------------------|--------------
