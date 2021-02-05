@@ -20,11 +20,13 @@ The goal of User Acceptance Testing (UAT) is to determine if the new VR&E form, 
 
 ### Method
 Participants needed to submit a 28-1900 will be recruited and given access to the new form on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the form--either authenticated or unauthenticated. Remote observers may be in attendance.
-<!--
+
 #### Success criteria
 
 Users will:
 - Step through the screening wizard (Optional)
+- Review the orientation module (Optional)
+- Watch selected VR&E track videos (Optional)
 - Enter the form
 - Navigate the form
 - Review and submit form
@@ -33,21 +35,22 @@ Users will:
 #### The process
 
 - There will be a quick introduction to UAT
-- The participant will be guided to the 28-8832 intro
-- User will step through the screening wizard (Optional)
+- The participant will be guided to the 28-1900 intro
+- The user will step through the screening wizard (Optional)
+- The participant will review the orientation module and watch selected videos (Optional)
 - The user will proceed through the 28-8832 and submit
 - There will be a quick Q/A and wrap-up 
 - Success will be measured as 80% of participants can successfully submit their 28-8832
 
 ### Participants & recruiting
-Participants will be recruited via Perigean. The study will require Veterans (or dependents) who have a need to apply for CH36 benefits. Sessions will run between 20 and 30 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
+Participants will be recruited via Perigean. The study will require Veterans (or dependents) who have a need to apply for Veteran Readiness and Employment (Chapter 31) benefits. Sessions will run between 20 and 40 minutes depending on potential technical issues, and whetehr users choose to enter the wizard and/or orientatipn module. Sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
 
 Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 
 #### Must have for participants
 - Are you a Veteran, service member or a dependent? (pass = yes)
-- Do you need to submit a 28-8832 to receive CH36 benefits (pass = yes)
-
+- Do you need to submit a 28-1900 to receive CH31 benefits (pass = yes)
+<!--
 #### Good to have for participants
 
 - At least one woman
