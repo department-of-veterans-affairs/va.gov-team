@@ -1,5 +1,14 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 2-5-21
+
+### Topics to Discuss
+* Status update from all teams
+* Change management messaging with content editors
+* 
+
+### Notes
+
 ## 1-29-21
 
 ### Topics to Discuss
@@ -10,7 +19,7 @@
 * Handling of broken links in VA.gov build
 * Change management messaging with content editors
 
-#### Notes
+### Notes
 
 Handling of broken links
 * Proposal: don't block builds due to broken links in content layer, with threshold 
