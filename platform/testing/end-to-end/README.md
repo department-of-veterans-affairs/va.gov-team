@@ -18,11 +18,7 @@ Frontend developers building products on VA.gov write Cypress tests alongside th
 
 ## Points of contact
 
-For support with Cypress, please reach out to the frontend support developer in Slack. You can find out who's on support by viewing the channel description.
-
-For other questions, contact the [VSP FE Tools team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/fe-tools-team-charter.md).
-
-* Slack: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support).
+For support with Cypress, please reach out to the [#vsp-testing-tools-team](https://dsva.slack.com/channels/vsp-testing-tools-team) in Slack.
 
 ------
 
