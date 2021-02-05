@@ -22,11 +22,19 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 ## Research questions
 
+- Can users easily complete tasks easily on the dashboard?
+- Can users easily understand updates to their information? 
+- Do users understand how to navigate to the tools to manage their information?
+- Is the information provided on the dashboard valuable to the user?
+- How do people think the new dashboard compares to the current MyVA?
+
+
+
 - Can users navigate to MyVA easily from an unauthenticated screen?
 - Can Veterans find what they're looking for as a first time user?
 - Does the dashboard layout/structure feel intuitive?
 - Can people find what they're looking for on the dashboard?
-- Do people understand what the updates to their dashboard are?
+- Can users easily understand updates to their information? 
 - Can users complete tasks easily on the dashboard?
 - Does the placement and wording of the disability rating make sense to users?
 - Do users understand how to view their disability rating breakdown?
@@ -39,6 +47,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - Do users understand how to view and access applications in progress?
 - Do users understand how to apply for benefits they are not currently recieving?
 - Are the additional links provided on the dashboard useful?
+- Is the information provided on the dashboard valuable to the user?
 - Is any information missing on the dashboard?
 - How do people think the new dashboard compares to the current MyVA?
 
