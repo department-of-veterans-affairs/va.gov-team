@@ -19,38 +19,38 @@ This document will serve as a plce to document the needed information in the UI 
 
 ### Questionnaire List page
 
-- [ ] Appointment Type (Primary Care, Mental Health, etc. )
-- [ ] Clinic Name
-- [ ] Facility Name
-- [ ] Appointment Date Time
-- [ ] Appointment Status
-- [ ] Appointment Identifier
+- Appointment Type (Primary Care, Mental Health, etc. )
+- Clinic Name
+- Facility Name
+- Appointment Date Time
+- Appointment Status
+- Appointment Identifier
 
 ### Questionnaire Form
 
-- [ ] Appointment Type (Primary Care, Mental Health, etc. )
-- [ ] Clinic Name
-- [ ] Clinic Phone
-- [ ] Facility Name
-- [ ] Facility Phone
-- [ ] Appointment Date Time
-- [ ] Appointment Status
-- [ ] Appointment Identifier
-- [ ] Booking Note
-- [ ] Reason for Visit
+- Appointment Type (Primary Care, Mental Health, etc. )
+- Clinic Name
+- Clinic Phone
+- Facility Name
+- Facility Phone
+- Appointment Date Time
+- Appointment Status
+- Appointment Identifier
+- Booking Note
+- Reason for Visit
 
 ### Complete List
 
-- [ ] Appointment Type (Primary Care, Mental Health, etc. )
-- [ ] Clinic Name
-- [ ] Clinic Phone
-- [ ] Facility Name
-- [ ] Facility Phone
-- [ ] Appointment Date Time
-- [ ] Appointment Status
-- [ ] Appointment Identifier
-- [ ] Booking Note
-- [ ] Reason for Visit
+- Appointment Type (Primary Care, Mental Health, etc. )
+- Clinic Name
+- Clinic Phone
+- Facility Name
+- Facility Phone
+- Appointment Date Time
+- Appointment Status
+- Appointment Identifier
+- Booking Note
+- Reason for Visit
 
 ## Mapping from MAP
 
@@ -97,26 +97,26 @@ This document will serve as a plce to document the needed information in the UI 
 
 ### Mapped Properties for MAP object
 
-- [ ] Appointment Type (Primary Care, Mental Health, etc. )
-  - [ ] `appointment.attributes.vdsAppointments[n].stopCode`
-- [ ] Clinic Name
-  - [ ] `appointment.attributes.clinicFriendlyName`
-- [ ] Clinic Phone
-  - [ ] `appointment.attributes.vdsAppointments[n].clinic.phoneNumber`
-- [ ] Facility Name
-  - [ ] `appointment.attributes.vdsAppointments[n].clinic.facility.displayName`
-- [ ] Facility Phone
-  - [ ] `appointment.attributes.vdsAppointments[n].clinic.facility.phoneNumber`
-- [ ] Appointment Date Time
-  - [ ] `appointment.attributes.vdsAppointments[n].appointmentTime`
-- [ ] Appointment Status
-  - [ ] `appointment.attributes.vdsAppointments[n].clinic.stopCode`
-- [ ] Appointment Identifier
-  - [ ] `appointment.id`
-- [ ] Booking Note
-  - [ ] `appointment.attributes.vdsAppointments[n].bookingNotes`
-- [ ] Reason for Visit
-  - [ ] `appointment.attributes.vdsAppointments[n].bookingNotes`
+- Appointment Type (Primary Care, Mental Health, etc. )
+- `appointment.attributes.vdsAppointments[n].stopCode`
+- Clinic Name
+- `appointment.attributes.clinicFriendlyName`
+- Clinic Phone
+- `appointment.attributes.vdsAppointments[n].clinic.phoneNumber`
+- Facility Name
+- `appointment.attributes.vdsAppointments[n].clinic.facility.displayName`
+- Facility Phone
+- `appointment.attributes.vdsAppointments[n].clinic.facility.phoneNumber`
+- Appointment Date Time
+- `appointment.attributes.vdsAppointments[n].appointmentTime`
+- Appointment Status
+- `appointment.attributes.vdsAppointments[n].clinic.stopCode`
+- Appointment Identifier
+- `appointment.id`
+- Booking Note
+- `appointment.attributes.vdsAppointments[n].bookingNotes`
+- Reason for Visit
+- `appointment.attributes.vdsAppointments[n].bookingNotes`
 
 ## Mapping from FHIR
 
@@ -235,23 +235,23 @@ This document will serve as a plce to document the needed information in the UI 
 
 ### Mapped Properties for FHIR object
 
-- [ ] Appointment Type (Primary Care, Mental Health, etc. )
-  - [ ] `appointment.specialty[n].coding[n].display`
-  - [ ] `appointment.specialty[n].coding[n].code`
-- [ ] Clinic Name
-- [ ] Clinic Phone
-- [ ] Facility Name
-- [ ] Facility Phone
-- [ ] Appointment Date Time
-  - [ ] `appointment.start`
-- [ ] Appointment Status
-  - [ ] `appointment.status`
-- [ ] Appointment Identifier
-  - [ ] `appointment.id`
-- [ ] Booking Note
-  - [ ] `appointment.comment` - maybe?
-- [ ] Reason for Visit
-  - [ ] `appointment.appointmentType.coding[n].code`
+- Appointment Type (Primary Care, Mental Health, etc. )
+- `appointment.specialty[n].coding[n].display`
+- `appointment.specialty[n].coding[n].code`
+- Clinic Name
+- Clinic Phone
+- Facility Name
+- Facility Phone
+- Appointment Date Time
+- `appointment.start`
+- Appointment Status
+- `appointment.status`
+- Appointment Identifier
+- `appointment.id`
+- Booking Note
+- `appointment.comment` - maybe?
+- Reason for Visit
+- `appointment.appointmentType.coding[n].code`
 
 ### What is missing
 
