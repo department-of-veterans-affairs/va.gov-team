@@ -4,16 +4,16 @@
 
 
 
-*   [Who are the users of the Platform?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#Who-are-the-users-of-the-Platform?)
-*   [User research process](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#User-research-process)
-    *   [1. Make a plan](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#1.-Make-a-plan)
-    *   [2. Recruit participants](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#2.-Recruit-participants)
-    *   [3. Conduct sessions](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#3.-Conduct-sessions)
-    *   [4. Synthesize data](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#4.-Synthesize-data)
-    *   [5. Read out results](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#5.-Read-out-results)
-*   [Tools we use](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research#Tools-we-use)
+*   [Who are the users of the Platform?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#who-are-the-users-of-the-platform)
+*   [User research process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#user-research-process)
+    *   [1. Make a plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#1-make-a-plan)
+    *   [2. Recruit participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#2-recruit-participants)
+    *   [3. Conduct sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#3-conduct-sessions)
+    *   [4. Synthesize data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#4-synthesize-data)
+    *   [5. Read out results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#5-read-out-results)
+*   [Tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#tools-we-use)
 
-We should be conducting user research as part of discovery to help guide our product decisions, and usability testing or other methods to make sure the things we’re making are working.
+We should be conducting user research as part of discovery to help guide our product decisions as well as usability testing or other methods to make sure the things we’re making are working.
 
 
 ## Who are the users of the Platform?
