@@ -22,12 +22,15 @@ Objective: Hold usability review, begin recruiting for research, and start resea
 **PM**
 
 - Hold usability testing review at beginning of sprint
+- Work with Tressa and Cassandra to get copy to Erik and Sandra
 
 **Design**
 
 - Recruit for research
 - Conduct research
 - Review frontend build as needed
+- Handoff copy to frontend
+  - Work with Erik and Sandra to figure out the best way to do this. They may want it right in tickets, or you can add it to the documentation. Whatever is fastest and easiest. Just PLEASE make it clear what copy should be used for which states, and please get this to them in a format they can copy and paste into the code (so don't ask them to just refer to the InVistion prototypes for the copy). 
 
 **FE**
 
