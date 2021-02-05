@@ -30,9 +30,6 @@ be behind a feature flag.
 - Successful submissions/Failed submissions
 - Errors 
 - Clicks to edit account information
-- Clicks to add account (comp and pension only)
-- Clicks to "View payment history"
-- Count of "Direct deposit" searches from the profile
 
 
 ## Go Live!
