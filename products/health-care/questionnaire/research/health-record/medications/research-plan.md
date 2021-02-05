@@ -25,7 +25,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 - Are you currently taking any prescribed medication? (pass = yes)
-- At least two people with an identified cognitive consideration of PTSD or TBI (one for the mobile test and one for desktop test)
+- At least one person with an identified cognitive consideration of PTSD or TBI
 
 **Good to have for participants**
 - At least 1 woman
