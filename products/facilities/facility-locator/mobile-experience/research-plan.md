@@ -27,13 +27,17 @@
 - Do participants understand how to enable their location?
 - Do participants understand how to clear inputs?
 
-**Search results**
+**Search results** (Adjusting to be more precise with questions about design)
+- What are Veteran expectations of FL mobile experience?
+- Will Veterans notice/understand the functionality of Geolocator?
 - Do Veterans using a mobile device prefer to view results on the map or in a list?
-- How many results do Veterans expect?
-- How do Veterans expect facility details to be presented?
+- Do Veterans expect to find detailed information on the map view?
 - Does the information presented for a given facility match expectations?
   -  Does the Veteran understand how to find more detailed information about the facilities returned?
 - What online maps/searches do these participants find easiest to use/why?
+
+Form top tasks around these questions
+Can Veterans find the Facility Locator? Start them on the homepage and give them task to find facility locator (need optometrist, find one)
 
 **Method**
 - Sessions will consist of usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
