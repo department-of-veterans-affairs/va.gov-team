@@ -15,6 +15,8 @@
 
 ### My VA redesign
 
+Objective: Hold usability review, begin recruiting for research, and start research if possible.
+
 **PM**
 
 - Hold usability testing review at beginning of sprint
@@ -31,6 +33,8 @@
 
 ### Direct deposit for edu
 
+Objective: Hold reviews, prep for UAT, and determine that we are ready for UAT before kicking off recruiting.
+
 **PM**
 
 - Finish contact center updates
@@ -38,11 +42,14 @@
 - [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
   - Prep
   - Hold meeting
+- UAT go/no-go (before we kick off recruiting)
 
 **Design**
 
 - DD4edu - 508 checks required pre-staging review #19409
-- UAT planning
+- UAT research plan
+- UAT conversation guide
+- UAT recruiting pending UAT go/no-go
 
 **FE**
 
@@ -51,6 +58,12 @@
 **BE**
 
 - Move direct deposit emails from GovDelivery > VANotify #19233
+
+### Notifications preferences
+
+Objective: Finish backend build *if* possible (pending Lihan getting what he needs from Terry)
+
+- Finish backend build? What needs to happen to get Lihan moved along? 
 
 ## Sprint 42 (2/24 - 3/9)
 
@@ -76,11 +89,9 @@
 
 - Meet with comms to discuss if/what marketing needs to happen
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
-- Hold go/no-go for UAT
 
 **Design**
 
-- UAT recruiting
 - UAT
 
 **FE**
