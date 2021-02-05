@@ -31,7 +31,7 @@ The goals of all of the following options are to (a) create a comprehensive and 
 
 ## Paths forward
 
-### Option 1 (recommended by the Content/IA team): Follow persona-based with exit page tracking to GH instead of content transformation
+### Option 1 (recommended by the Content/IA team): Follow persona-based IA, with exit page tracking to GH instead of content transformation
 
 asdf.  This allows us to:
 - asdf
