@@ -1,4 +1,4 @@
-# What would "MVP V2" of the Platform Documentation look like at end of 2021 Q1?
+# What would "MVP V2" of the Platform Documentation look like at the end of 2021 Q1?
 
 This doc provides context to make a decison around the scope of Platform Documentation MVP 2.
 
