@@ -1,0 +1,62 @@
+# Human-Centered Design on VSP
+
+
+
+*   [What is human-centered design?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What-is-human-centered-design?)
+*   [What type of research should I do?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What-type-of-research-should-I-do?)
+*   [What's involved in doing research?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What's-involved-in-doing-research?)
+*   [How can the Service Design team help?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#How-can-the-Service-Design-team-help?)
+
+
+## What is human-centered design?
+
+Human-centered design is a methodology that incorporates feedback from the people (users) who will use the tool, document or process that you are designing for them. The goal of human-centered design is to end up with a solution that is tailored to meet your users needs, with little wasted effort and reduced risk. 
+
+To achieve this goal, all teams on VSP will talk with and observe their users to understand their needs, context, and challenges, come up with design concepts that might address these challenges, and then test them with  users. Find more resources on human-centered design in government at [digital.gov](https://digital.gov/topics/design/).
+
+
+## What type of research should I do?
+
+Understanding what you want to learn from your research can help you choose the method that works best for your initiative.[ Find the research method to suit your needs](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods).
+
+
+## What's involved in doing research?
+
+For an overview of how to conduct research, you can read[ how to do user research for VSP](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research).
+
+
+
+*   Make a plan
+*   Recruit participants
+*   Conduct sessions
+*   Synthesize data
+*   Read out results
+
+
+## How can the Service Design team help?
+
+The Service Design team is available to help with research in the following ways. Please reach out in the #vsp-service-design channel.
+
+Make a plan
+
+
+
+*   Consult with your team to decide the best method to help answer your questions
+*   Review your research plan
+*   Review artifacts for chosen method (conversation guide, conversation guide, card sort)
+
+Conduct sessions
+
+
+
+*   Facilitate a pilot test
+*   Facilitate interviews (if needed)
+
+Synthesize
+
+
+
+*   Facilitate synthesis
+*   Consult on readout (Designer or PM to write)
+
+ 
