@@ -15,20 +15,20 @@ _Delete this guidance stanza and any italicized guidance in the template before 
 # Contact Center Tier II/III Support
 
 ## Overview
-*Tier II and III support for contact centers provides escalated support when contact center representatives are unable to solve Veterans' problems without further assistance.
+Tier II and III support for contact centers provides escalated support when contact center representatives are unable to solve Veterans' problems without further assistance.
 
 ## Problem Statement
-*When things don't work as expected or when Veterans cannot find the information they need on VA.gov and are prevented from completing their tasks, there's a problem. Our primary goals is to provide contact center staff with the right resources to help solve those problems (tier I) for Veterans. When contact center representatives cannot solve those problems, they forward those problems to us (tier II/III). We (contact center team) first try to solve the problems through our troublshooting process and resources but sometimes have to forward to VFS teams (who owns the site pages) to fix the issues. 
+When things don't work as expected or when Veterans cannot find the information they need on VA.gov and are prevented from completing their tasks, there's a problem. Our primary goals is to provide contact center staff with the right resources to help solve those problems (tier I) for Veterans. When contact center representatives cannot solve those problems, they forward those problems to us (tier II/III). We (contact center team) first try to solve the problems through our troublshooting process and resources but sometimes have to forward to VFS teams (who owns the site pages) to fix the issues. 
 
 ## Personas
-*Veterans and their family members are the primary users of VA.gov for which we provide this support.*
+Veterans and their family members are the primary users of VA.gov for which we provide this support.*
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* # of issues by tier - looking for improvement over time compared to previous/baseline data (we want to reduce #s in every area) 
-* # of issues by type - i.e. team, task, etc...
+* Number of issues by tier - looking for improvement over time compared to previous/baseline data (we want to reduce #s in every area) 
+* Number of issues by type - i.e. team, task, etc...
 * [Contact Center Montly Report](https://va-gov.domo.com/page/1744754544?userId=1492872830)
 
 #### Baseline KPI Values
