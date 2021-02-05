@@ -1,6 +1,6 @@
 # What would "MVP V2" of the Platform Documentation look like at end of 2021 Q1?
 
-This doc provides context to make a decison around how the Content Team proceeds to 
+This doc provides context to make a decison around the scope of Platform Documentation MVP 2.  Although this doc mostly concerns The "Migrate" Initiative, the decision will impacts on our "Plan" Initiative, since the two relate to the same Platform Documentation product.
 
 _Author:_ Liani Lye, Product Manager, VSP Content/IA
 
@@ -13,7 +13,7 @@ _Decision maker:_ Rachael Roueche, VSP OCTODE lead
 - Product iterations
   - [Pre-2020-Q4: The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [Platform Docs MVP: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-  - Platform Docs MVP2: TBD <- LIANI NEEDS TO GRAB LINK FROM GRETCHEN
+  - [Platform Docs MVP2 (in-progress)](https://va-platform-docs.scrollhelp.site/index.html)
 - 2021 Q1 product initiatives
   - The "Plan" Initiative: [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375)
   - The "Migrate" Initiative: [Documentation Site — Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060)
@@ -38,7 +38,7 @@ Migrate and apply tracking on the viable links from The Home Page MVP, and follo
 This allows us to:
 
 - **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
-- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to develop a Q2 plan with more VSP PMs.
+- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us _more time_ to iterate on a Q2-and-beyond plan with VSP PMs.
 
 ### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
