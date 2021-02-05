@@ -11,7 +11,9 @@
    * CMS: working on exploring low hanging updates re: performance improvements to GraphQL. Next week early we will be reconnecting again with CMS internal team on broken link strategy. Will meet with VSP next week to talk about broken links more.
       * Will touch base with other OCTODE stakeholders on broken link strategy 
       * Connecting with VSP on CMS Export build improvements 
-   * VSP: 
+   * VSP:
+      * Still cautiously optimistic on the latest written out timeline! The coming sprint is ambitious so some things will likely bleed over into the following sprint, but that should not put our velocity at risk significantly. 
+      * Significantly learnings this week about scalability and where breaking points and bottlenecks are, so the level of uncertainty there is now very minimal. This is a big win.
    * VFS: 
       * Facilities: we have 3 issues that are ready to be picked up that resulted from the diff tool. Half of them are blocked by the arraysort ticket that are in progress. 
       * Public Websites: we have prioritized work on Campaign Landing Page. we did run the diff on that. Team started working on transformers fully today and will have more info next week. 
