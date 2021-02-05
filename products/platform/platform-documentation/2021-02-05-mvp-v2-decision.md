@@ -6,17 +6,19 @@ _Author:_ Liani Lye, Product Manager, VSP Content/IA
 
 _Decision maker:_ Rachael Roueche, VSP OCTODE lead
 
+
 ## Platform Documentation artifacts
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
-- Platform Documentation iterations
+- Product iterations
   - [Pre-2020-Q4: The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
-  - [MVP: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-  - MVP V2: TBD <- LIANI NEEDS TO GRAB LINK FROM GRETCHEN
-- The Content/IA team's 2021 Q1 initiatives
+  - [Platform Docs MVP: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+  - Platform Docs MVP2: TBD <- LIANI NEEDS TO GRAB LINK FROM GRETCHEN
+- 2021 Q1 product initiatives
   - The "Plan" Initiative: [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375)
   - The "Migrate" Initiative: [Documentation Site — Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060)
 - [Service Design's customer segmentation Sprint 44 demo deck](https://docs.google.com/presentation/d/15daYy7HREWQKwyQFPIbdWPX0grFhwbrLasmsnZSSP38/edit#slide=id.p2)
+
 
 ## Context
 
@@ -24,26 +26,26 @@ In 2020 Q4, the Content/IA team piloted an MVP of the Platform Documentation pro
 
 This decision primarily impacts the scope of the Migrate Initiative.  However, the scope of the Migrate Initiative does have resource implications on the Plan Initiative.
 
-The goals of all of the following options are to (a) create a comprehensive and trustworthy entry point to Platform Documentation, thus allowing us to (b) retire The Home Page MVP.
+The goals of all of the following options are to (a) create a comprehensive and trustworthy entry point to Platform Documentation, aka Platform Docs MVP2.  This allows us to (b) retire The Home Page MVP.
 
 
 ## Paths forward
 
-### Option 1 (recommended by the Content/IA team): Create a 
+### Option 1 (recommended by the Content/IA team): Follow persona-based with exit page tracking to GH instead of content transformation
+
+
 
 - 
 
-### Option 2: asdf
+### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
-
-
-### Option 3: asdf
 
 
 
 going all-in on developer docs (which requires at least some developer involvement regardless of whether it’s me or someone better qualified to work on developer docs)
 going all-in on the rest of the platform docs
 Some combination of the above, (which I think is what leadership seemed most interested in and is probably where your 2nd bullet is coming from.)
+
 
 ## Decision
 
