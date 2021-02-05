@@ -33,13 +33,13 @@ The goals of all of the following options are to (a) create a comprehensive and 
 
 ### Option 1 (recommended by the Content/IA team): Follow persona-based with exit page tracking to GH instead of content transformation
 
-
-
-- 
+asdf.  This allows us to:
+- asdf
 
 ### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
-
+asdf.  This allows us to:
+- asdf
 
 
 going all-in on developer docs (which requires at least some developer involvement regardless of whether it’s me or someone better qualified to work on developer docs)
