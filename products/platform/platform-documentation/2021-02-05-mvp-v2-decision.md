@@ -15,7 +15,7 @@ _Decision maker:_ Rachael Roueche, VSP OCTODE lead
 
 ## Context
 
-In 2020 Q4, the Content/IA team piloted an MVP of the Platform Documentation product.  The MVP focused on backend developer documentation. In 2021 Q1, the Content/IA team wants to build "MVP V2". 
+In 2020 Q4, the Content/IA team piloted an MVP of the Platform Documentation product.  The MVP focused on backend developer documentation. In 2021 Q1, the Content/IA team wants to build "MVP V2."
 
 ## Paths forward
 
