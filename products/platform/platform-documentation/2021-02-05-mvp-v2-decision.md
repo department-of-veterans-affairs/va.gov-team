@@ -10,6 +10,7 @@ _Decision maker:_ Rachael Roueche, VSP OCTODE lead
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
 - Platform Documentation iterations
+  - [Pre-2020-Q4: The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [MVP: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
   - MVP V2: TBD <- LIANI NEEDS TO GRAB LINK FROM GRETCHEN
 - The Content/IA team's 2021 Q1 initiatives
