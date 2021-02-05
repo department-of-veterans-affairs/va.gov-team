@@ -10,9 +10,14 @@ Frontend developers building products on VA.gov write Cypress tests alongside th
 
 ## Documentation
 
-- [Writing e2e tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/)
-- [How to use the form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester)
-- [How to migrate existing Nightwatch tests to Cypress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-migration-guide.md)
+- [Writing an End-to-end Test](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/)
+- [Cypress Resources Reference Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/vsp-cypress-resources.md)
+- [Cypress Best Practices on VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-best-practices-on-vsp.md)
+- [Cypress Flaky Test Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-flaky-test-management.md)
+- [Cypress Form Tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester)
+- [Cypress 6.2.1 Upgrade Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-upgrade-guide.md)
+- [Nightwatch-to-Cypress Migration Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-migration-guide.md)
+- [Cypress Viewport Updater Bot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/automatic-cypress-viewport-updater.md)
 
 ------
 
