@@ -109,6 +109,13 @@ Teams building products for Veterans use qualitative and quantitative user data 
 
 [Protocol Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/medallia-protocol.md)
 
+### Incident Response
+
+- *Contacts*
+  - Jason Woodman (Product)
+  - Ian McCullough (UX - Analytics)
+  - Chante Lantos-Swett (VA Product Owner)
+
 ---
    
 ## Screenshots
