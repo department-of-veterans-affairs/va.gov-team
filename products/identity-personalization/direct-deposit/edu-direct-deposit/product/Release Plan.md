@@ -24,7 +24,7 @@ be behind a feature flag.
 - If all goes well, then go to 100% of users: Estimated date 4/7 (S45)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-**Link to GA Dashboard:** TBD
+**Link to GA Dashboard:** To be added
 
 - Successful retrievals/Failed retrievals
 - Successful submissions/Failed submissions
