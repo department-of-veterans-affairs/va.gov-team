@@ -1,4 +1,4 @@
-# January 2021 VAOS appointments usability study [DRAFT]
+# January 2021 VAOS appointments list usability study
 
 *Prepared by Peter Russo*
 
