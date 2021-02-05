@@ -13,6 +13,8 @@
 
 ## Sprint 41 (2/10 – 2/23)
 
+Any outstanding work from Sprint 40, plus...
+
 ### My VA redesign
 
 Objective: Hold usability review, begin recruiting for research, and start research if possible.
