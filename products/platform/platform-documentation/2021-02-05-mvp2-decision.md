@@ -33,15 +33,20 @@ The goals of all of the following options are to (a) create a comprehensive and 
 
 ## Paths forward
 
-### Option 1 (recommended by the Content/IA team): Follow persona-based IA, with exit page tracking to GH instead of content transformation
+### Option 1 (recommended by the Content/IA team): Create persona-based landing pages with exit page tracking to GH, instead of content transformation
 
-Migrate and apply tracking on the viable links from The Home Page MVP, and follow the personas from the customer segmentation research.  
+Migrate and apply tracking on the viable links from The Home Page MVP, creating landing pages following the personas from the customer segmentation research, to inform product-based IA.
 
 This allows us to:
 
 - **Re-socialize the Platform Documentation:** The Content/IA team socialized The Home Page MVP in early 2020, but usage is still low.  We hypothesize that boosting familiarity and usage of Platform Docs will allow us to see more trends and... (next point)
 - **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
 - **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to iterate on a Q2-and-beyond plan with VSP PMs.
+
+
+_Considerations:_
+- Scroll Viewport landing pages that point to GitHub pages might lead to disjointed reading experience.
+- Because pages will be in GitHub, we don't have a full view of a person's "complete click path," but we can stitch together understanding to inform IA based on that click info along with user interviews/surveys and search queries.
 
 ### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
