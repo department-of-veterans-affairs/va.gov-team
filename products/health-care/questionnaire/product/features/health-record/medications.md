@@ -6,7 +6,7 @@
 * [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
 * [Health Record Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/health-record.md)
 
-[Medications VA Landscape Map](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/g00Vbvq)
+* [Medications VA Landscape Map](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/g00Vbvq)
 
 ## Epic User Story 
 User Story 
