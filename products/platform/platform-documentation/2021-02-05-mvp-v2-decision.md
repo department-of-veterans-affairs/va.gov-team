@@ -1,6 +1,8 @@
 # What would "MVP V2" of the Platform Documentation look like at end of 2021 Q1?
 
-This doc provides context to make a decison around the scope of Platform Documentation MVP 2.  Although this doc mostly concerns The "Migrate" Initiative, the decision will impacts on our "Plan" Initiative, since the two relate to the same Platform Documentation product.
+This doc provides context to make a decison around the scope of Platform Documentation MVP 2.
+
+Although this doc mostly concerns The "Migrate" Initiative, the decision will impacts on our "Plan" Initiative, since the two relate to the same Platform Documentation product.
 
 _Author:_ Liani Lye, Product Manager, VSP Content/IA
 
@@ -37,8 +39,9 @@ Migrate and apply tracking on the viable links from The Home Page MVP, and follo
 
 This allows us to:
 
+- **Re-socialize the Platform Documentation:** The Content/IA team socialized The Home Page MVP in early 2020, but usage is still low.  We hypothesize that boosting familiarity and usage of Platform Docs will allow us to see more trends and... (next point)
 - **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
-- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us _more time_ to iterate on a Q2-and-beyond plan with VSP PMs.
+- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to iterate on a Q2-and-beyond plan with VSP PMs.
 
 ### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
