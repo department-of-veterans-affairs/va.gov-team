@@ -12,6 +12,7 @@ _Decision maker:_ Rachael Roueche, VSP OCTODE lead
 - [Backend development documentaton (Platform Documentation in Confluence)](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
 - The "Plan" Initiative: [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375)
 - The "Migrate" Initiative: [Documentation Site — Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060)
+- [Service Design's customer segmentation abbreviated readout](https://docs.google.com/presentation/d/15daYy7HREWQKwyQFPIbdWPX0grFhwbrLasmsnZSSP38/edit#slide=id.p2)
 
 ## Context
 
