@@ -10,17 +10,17 @@ The Chapter 31 (CH31) program, Veteran Readiness and Employment (VR&E), helps ve
 
 #### Note regarding UAT
 We're requesting that Perigean recruit Veterans who need to apply for Chapter 31 VR&E benefits. Currently, VA.gov refers users to eBenefits. Submitting a paper 28-1900, or workng directly with Veteran service organizations (VSO's) are other options. We realize that it may be difficult to find Veterans with such specific needs, and will work to acommodate candidates' schedules.
-<!--
-For those Veterans we talk to in UAT, we intend to be very transparent about what we are testing--it's an actual, functioning form. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
 
-In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confidence in the new feature increases, we should be able to accelerate to full deployment. 
+When we talk to Veterans during UAT, we will be up-front that we're testing a functioning form. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
+
+We will require users who need to complete a 28-1900 to receive VR&E benefits. If we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the 28-1900 form “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confidence in the new feature increases, we should be able to accelerate to full deployment. 
 
 ### Goals
-The goal of User Acceptance Testing (UAT) is to determine if the new PCPG forms and wizards are intuitive and functional for users needing to submit either form VA 28-8832.
+The goal of User Acceptance Testing (UAT) is to determine if the new VR&E form, wizard and orientation module are intuitive and functional for users needing to submit either form VA 28-1900.
 
 ### Method
-Participants needed to submit a 28-8832 will be recruited and given access to the new form on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the form--either authenticated or unauthenticated. Remote observers may be in attendance.
-
+Participants needed to submit a 28-1900 will be recruited and given access to the new form on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the form--either authenticated or unauthenticated. Remote observers may be in attendance.
+<!--
 #### Success criteria
 
 Users will:
