@@ -8,7 +8,7 @@ Hello! In this folder, you'll find information specific to how Infrastructure/De
 ### Points of contact
 The Infrastructure points of contact are:  
 - [Demian Ginther], @Demian Ginther on Slack, [@dginther](https://github.com/dginther) on Github
-- [Andrew Gunsch], @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
+- [Michael Fleet], @Michael Fleet on Slack, [@gunsch](https://github.com/f1337) on Github
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
