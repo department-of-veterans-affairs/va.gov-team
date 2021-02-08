@@ -23,7 +23,7 @@ Slack - #va-notify
 
 
 ## How VANotify Works
-![](images/VANotify_Diagram.png)
+![](images/VANotify_Diagram.PNG)
 
 ## Tech Stack
 
