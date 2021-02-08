@@ -18,11 +18,12 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 ## Use Case A
 
-* **Description**
-  - lorem ipsum
+* **Description - broken link**
+  - A user clicks on a link or CTA button and it does not work. 
+  - The link could be in the form of a CTA button or a content link in one of the CLP panels, including a text link within body text. 
 
 * **Link to designs**
-  - lorem ipsum
+  - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
