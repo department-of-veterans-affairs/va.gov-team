@@ -118,8 +118,8 @@ At least:
 
 ## Timeline
 
-Study dates: Feb 17-19th 2021
-Session length: 45 minutes
+- Study dates: Feb 17-19th 2021
+- Session length: 45 minutes
 
 **Dates below are placeholders until participants are recruited and scheduled**
 
@@ -130,11 +130,11 @@ Wednesday, Feb 17 | Times TBD
 Thursday, Feb 18 | Times TBD
 Friday, Feb 19 | Times TBD
 
-Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
-Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
-Christian + Shawna: Feb 22nd - 26th synthesize findings
-Laurel on PTO 22nd-26th
-Shawna on PTO 25-26, 29th
+- Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
+- Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
+- Christian + Shawna: Feb 22nd - 26th synthesize findings
+- Laurel on PTO 22nd-26th
+- Shawna on PTO 25-26, 29th
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
