@@ -57,6 +57,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Notification preferences | VA Profile | November 2020 | These are indicators for VETText/VANotify/other services so people can opt-in/out of texts or email messages from these services. This is actively in the works with VA Profile, with initial releases 12/14/20 (no grouping), 1/11/21, and 2/8/21 (with grouping). |
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
 |Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary profile updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |
+|Self-identified gender indicator (SIGI) | MHV | 2.8.21 | MHV would like us to add the SIGI indicator to our profile so they can point their users to us to update this information. The SIGI indicator should live in MPI, so we would need to be able to read/write back to MPI |
 
 ### My VA, benefit updates, & benefit experience
 
