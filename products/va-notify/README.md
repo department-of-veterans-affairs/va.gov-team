@@ -47,6 +47,7 @@ Slack - #va-notify
 * Staging URL: https://staging.api.notifications.va.gov
 * Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
 * Templating guides: 
+  * https://design.va.gov/patterns/email_template
   * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
   * https://notification.canada.ca/templates
 
