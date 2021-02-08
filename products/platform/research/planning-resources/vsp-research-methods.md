@@ -389,7 +389,7 @@ When done collaboratively, hypothesis-building is powerful at getting a team on 
 
 
 
-*   [18F Methods](https://methods.18f.gov/decide/design-hypothesis/)
+*   [Design Hypothesis - 18F Methods](https://methods.18f.gov/decide/design-hypothesis/)
 
 
 
@@ -452,11 +452,9 @@ A categorization exercise in which participants divide concepts into different g
 To gain insights from users about how to organize content in an intuitive way. \
 How to do it
 
+*   [Card Sorting - 18F Methods](https://methods.18f.gov/validate/card-sorting/)
 
 
-    *   [18F Methods](https://methods.18f.gov/validate/card-sorting/)
-
- 
 
 
 #### 2. Usability Testing
@@ -474,9 +472,9 @@ To better understand how intuitive the team’s design is, and how adaptable it 
 
 ##### How to do it
 
-
-
-*   [18F Methods](https://methods.18f.gov/validate/usability-testing/)
+*   [Usability Testing - 18F Methods](https://methods.18f.gov/validate/usability-testing/)
+*   [Testing Content - NN/g](https://www.nngroup.com/articles/testing-content-websites/?utm_source=Alertbox&utm_campaign=d0406a8cde-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-d0406a8cde-40210357)
+*   [GUIDE: Usability testing 101 - NN/g](https://www.nngroup.com/articles/usability-testing-101/)
 *   [GUIDE: Qualitative usability testing](https://www.userinterviews.com/launch-kit/qualitative-usability-test) (User Interviews)
 *   [TEMPLATE: Qualitative usability test kit](https://docs.google.com/spreadsheets/d/1QHJ6b7Y5tTu0G3GcONRMfAb_rmRligNeFqIGHOqUo4Y/edit#gid=123966766) (User Interviews) - includes sample questions and note taking guide
 
