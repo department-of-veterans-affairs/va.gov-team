@@ -27,14 +27,14 @@ forms library will be called **Formulate**.
 ##### Library bloat
 The current forms library uses a single form configuration object to create the
 entire form application. Modifying this `formConfig` object is the only way to
-change anything in the form. When new features are needed, a change to the
-underlying library is required. This creates significant bloat in the library
-and makes it difficult to modify.
+change anything in the form. When new features for individual forms are needed,
+a change to the underlying library is required. This creates significant bloat
+in the library and makes it difficult to modify.
 
 ##### Inflexibility
 Often, an application team will want to tweak an aspect of a form, but the only
-way to do that is by modifying the underlying library. See also _Library bloat_
-above.
+way to do that is by modifying the underlying library. See also [Library
+bloat](#library-bloat) above.
 
 ##### Steep learning curve
 The book _Good Services_ sets forth a couple of relevant service design
@@ -42,10 +42,11 @@ principles:
 - Work in a way that is familiar
 - Require no prior knowledge to use
 
-The form configuration approach is not a familiar way to create applications and
-requires _much_ prior knowledge to use effectively. When learning the basics of
-the library, its complexity is relatively minimal, but quickly grows as the form
-becomes more complex. This is largely due to the library bloat outlined above.
+The form configuration approach is not one that is familiar to front end
+engineers to create applications and requires _much_ prior knowledge to use
+effectively. When learning the basics of the library, its complexity is
+relatively minimal, but quickly grows as the form becomes more complex. This is
+largely due to the library bloat outlined above.
 
 ##### And more!
 If we need to outline more problems encountered with the current library, we can
