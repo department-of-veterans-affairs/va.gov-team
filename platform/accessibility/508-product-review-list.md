@@ -831,10 +831,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit Status:** _Audited by VSP Product Support Team August 2019._
 
-**Open issues**
-
-- [[SCREENREADER]: GIBCT® VETTEC - Can we move the Learn more buttons out of the label tags? - #1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/>
-  **Opened:** August 22, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+**No open issues**
   
 Back to [Table of Contents](#table-of-contents)
 
