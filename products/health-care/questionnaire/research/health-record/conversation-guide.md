@@ -18,7 +18,7 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Talk them through Zoom screen sharing and chat features shown in document.
   - [Screen share and walk through this document if necessary](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
-  - Send [Mural link](https://preview.uxpin.com/d3c9bb8ac5052d077234b5e4b2f7749d0bc5200d#/pages/134593965?mode=cvhidm) and have them screenshare it now.
+  - Send [Mural link](https://app.mural.co/t/vsa8243/m/vsa8243/1612803040285/9ee796589a8531afe6837796feb42a5dfd2e7037) and have them screenshare it now.
 
 
 **Backup plan if they cannot figure out how to share screen:**
