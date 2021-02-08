@@ -73,8 +73,9 @@ Lastly, we are going to do the same thing with allergies. Review all of the alle
 Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
 
 # Wrap-up Questions - 5 minutes
-- Do you think adding these pages to a pre-visit questionnaire would help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
-- 
+- Do you think adding these pages to a pre-visit questionnaire will help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
+- Is there anything about medications, allergies, and immunizations that I should know about that I didn't cover today?
+- Do you have any final questions for me?
 
 ## Thank-You and Closing - 5 minutes
 
