@@ -396,6 +396,8 @@ N/A
     of 25. A user can enter a name that's 27 characters long and not trigger any
     validation errors until the submission step.
   - This is a potential regression in UX
+  - To counteract this, the forms library will accept an optional JSON schema
+    and validate each form field against it.
 - Not using any kind of schema to create fields may lead to a field overwriting
   bug
   - If I give on input field the data path of `password` and another of
