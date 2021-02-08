@@ -52,7 +52,7 @@ As I ask the following questions, think about your experiences around medication
 - If you had a medication allergy, would you document that on your medication list and/or allergy list?
 
 # Mural Activity - 35 minutes
-Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help designing these medication, allergy, and immunization interfaces within the questionnaire.
+Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your (reword to be priority and group together) help designing these medication, allergy, and immunization interfaces within the questionnaire.
 
 ## Medications Section - 15 minutes
 Currently on the screen there is a blank area with medications on it. Pretend this is the medications page of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
