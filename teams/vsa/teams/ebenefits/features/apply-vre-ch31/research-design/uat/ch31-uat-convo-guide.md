@@ -48,16 +48,22 @@ OK, the last questions are about your computer and browser.
 OK, please share your screen, and we'll get started.
 
 ## UAT testing of 28-1900
-<!--
-- Please open a new tab in your browser, go to [CH36 landing page link]().
+
+- Please open a new tab in your browser, go to [CH31 landing page link]().
 - To complete this form, would you like to log in?
   - [ ] **UAT item:** After login, intro screen allows access.
 - (If login fails for any reason) It seems there's a problem logging-in; would you like to continue without logging-in?  
   - [ ] **UAT item:** user proceeds unauthenticated 
 - Review the information on the landing screen. Is this the right form for you?
-  - [ ] **UAT item:** User navigates wizard to reveal form button (optional)
+  - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
-- Review the steps to apply for CH36 benefits. 
+- Review the VR&E orientation. Does this provide a better understanding of VR&E benefits?
+  - [ ] **UAT item:** User navigates wizard to reveal videos (optional)
+  - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
+  - Review the VR&E videos. Which of these do you feel best apply to you?
+  - [ ] **UAT item:** User navigates wizard to form button (optional)
+  - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
+- Review the steps to apply for CH31 benefits. 
   - [ ] **UAT item:** (Authenticated) User clicks green button to enter form.   
   - [ ] **UAT item:** (Unauthenticated) User clicks text link to enter form.
 - Review/enter claimant information.
@@ -82,7 +88,6 @@ That is the end of what we're testing. Do you have any questions or comments abo
 (We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user.) 
 
 ## Closing
-Thank you so much for taking the time to run through the new 8832! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+Thank you so much for taking the time to run through the new 1900! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
 
--->
 ---
