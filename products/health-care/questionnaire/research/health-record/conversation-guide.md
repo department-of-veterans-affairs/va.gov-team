@@ -11,7 +11,7 @@
 
 ## Project-specific setup and Intro - 10 minutes
 
-Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to discuss how you communicate medication, allergy, and immunization changes your VA provider. Then, you will be helping us design medication, allergy, and immunization interfaces.
+Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to discuss how you communicate medication, allergy, and immunization changes your VA provider. Then, you will help design medication, allergy, and immunization interfaces.
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -38,11 +38,19 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 Great. Now we're really ready to begin!
 
 ## Warm-up Questions - 10 minutes
-Think about the list of medications that you are currently taking, what your allergies are, and the immunizations that you have received in the past few years (such as flu shots or COVID).
-- How do you 
-
+As I ask the following questions, think about your experiences around medications, allergies, and any immunizations that you received in the past few years (such as flu shots or COVID).
+- The last time one of your medications changed, such as you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
+  - Did you have any trouble communicating those changes to the VA?
+  - _If not described as the chosen method above._ Have you ever utilized MyHealtheVet or secure messaging to let your provider know?
+- Have you ever let your VA provider know about any changes to your allergy history or any immunizations that you received at a non-VA facility? 
+  - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
+- Have you ever printed anything out and taken it to your appointment to let your VA providers know about changes?
 
 # Mural Activity - 35 minutes
+Today, we are going to have you help us design a way to let your VA providers know about these changes via va.gov, then we'll ask some followup questions. We are 
+
+## Medications Section - 15 minutes
+Currently on the screen are two blank webpages. A medications 
 
 ## Thank-You and Closing - 5 minutes
 
