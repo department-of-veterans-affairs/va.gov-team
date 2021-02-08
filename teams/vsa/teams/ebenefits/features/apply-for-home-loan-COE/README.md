@@ -8,10 +8,10 @@
 - GitHub Label: vsa-ebenefits
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Product POCs: Steve Kovacs & Jason Wolf
-- Stakeholders: `TODO` 
+- Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
 #### Team Members  
-**Jason Wolf** - jwolf@governmentcio.com
+**Jason Wolf** - jwolf@governmentcio.com  
 **James Adams** - jadams@governmentcio.com  
 **Jesse Cohn** - jesse.cohn@adhocteam.us  
 **Micah Chiang** - micah@adhocteam.us  
