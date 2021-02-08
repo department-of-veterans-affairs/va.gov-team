@@ -81,7 +81,7 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 - Research summary
 - Hand off final designs to FE
 - Design retro (go over what went well; what didn't; why the work took so long)
-- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request) #14642
 - Review frontend build as needed
 
 **FE**
