@@ -94,5 +94,5 @@ Please allow 30 minutes between sessions.
 
 ### Resources
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md)
--->
+
 ---
