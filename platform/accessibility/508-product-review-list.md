@@ -1156,7 +1156,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _Staging review by VSA on January 18, 2021_<br/>
 **Open issues**
 
-- [508-defect-2 [SCREENREADER]: On this page navigation should use <nav> instead of <section> - 18628](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18628)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [SCREENREADER, KEYBOARD]: Complementary information should be contained in an aside - 18694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18694)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - 18696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18696)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
   
