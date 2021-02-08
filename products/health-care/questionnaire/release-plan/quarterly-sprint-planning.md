@@ -68,10 +68,13 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [UI] Completed Tab Defaults to a filtered date range | -- | #19347 |
+| [UI] User Research Sessions for Health Records | -- | #19586 |
+| [FE] Integration the Questionnaire List with the API| -- | #16574 |
+| [FE]  Pull in real appointment data for the quesitonnaire| -- | #16581 |
+| [FE]  QuestionnaireResponse creation use lighthouse appointment ID URL format -- | #19209| |
+| [FE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
 
 
 ## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
