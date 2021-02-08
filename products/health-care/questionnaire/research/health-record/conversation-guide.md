@@ -49,7 +49,7 @@ As I ask the following questions, think about your experiences around medication
 - Have you ever printed anything out and taken it to your appointment to let your VA providers know about changes?
 
 # Mural Activity - 35 minutes
-next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help designing these medication, allergy, and immunization interfaces within the questionnaire.
+Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help designing these medication, allergy, and immunization interfaces within the questionnaire.
 
 ## Medications Section - 15 minutes
 Currently on the screen there is a blank area with medications on it. Pretend this is the medications page of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
@@ -57,7 +57,7 @@ Currently on the screen there is a blank area with medications on it. Pretend th
 First, review all of the medication pieces and let me know if you don't understand any of them.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Next, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
+Now, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
 - Any questions?
 
 ## Immunizations Section - 10 minutes
