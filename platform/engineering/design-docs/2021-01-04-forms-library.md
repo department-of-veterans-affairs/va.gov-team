@@ -11,9 +11,6 @@
 Create a simple, flexible forms library which can be used either in whole or in
 part by application teams building any kind of form on VA.gov.
 
-To distinquish the new forms library from the old in this document, this new
-forms library will be called **Formulate**.
-
 The intended audience of this document is VSP front end engineers and
 application teams building forms on VA.gov.
 
@@ -21,6 +18,9 @@ application teams building forms on VA.gov.
 We currently have a library which application teams use to build form
 applications on VA.gov. It employs a configuration-based approach to rapidly
 build forms in a consistent way.
+
+To distinquish the new forms library from the old in this document, this new
+forms library will be called **Formulate**.
 
 #### Problems
 
