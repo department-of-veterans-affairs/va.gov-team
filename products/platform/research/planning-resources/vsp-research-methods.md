@@ -2,11 +2,11 @@
 
 
 
-*   [I want to build a greater understanding of the problem and the people it impacts](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods#I-want-to-build-a-greater-understanding-of-the-problem-and-the-people-it-impacts)
-*   [I want to elaborate on research from our discovery research](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods#I-want-to-elaborate-on-research-from-our-discovery-research)
-*   [I want to create a testable solution](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods#I-want-to-create-a-testable-solution)
-*   [I want to test our design hypothesis](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods#I-want-to-test-our-design-hypothesis)
-*   [I want to get ongoing feedback on our product post-launch](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods#I-want-to-get-ongoing-feedback-on-our-product-post-launch)
+*   [I want to build a greater understanding of the problem and the people it impacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md#i-want-to-build-a-greater-understanding-of-the-problem-and-the-people-it-impacts)
+*   [I want to elaborate on research from our discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md#i-want-to-elaborate-on-research-from-our-discovery-research)
+*   [I want to create a testable solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md#i-want-to-create-a-testable-solution)
+*   [I want to test our design hypothesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md#i-want-to-test-our-design-hypothesis)
+*   [I want to get ongoing feedback on our product post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md#i-want-to-get-ongoing-feedback-on-our-product-post-launch)
 
 <br>
 Understanding what you want to learn from your research can help you choose the method that works best for your initiative. Below are some ideas to help guide you.
