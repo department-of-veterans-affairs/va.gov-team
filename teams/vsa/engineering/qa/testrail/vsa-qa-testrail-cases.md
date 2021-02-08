@@ -31,7 +31,7 @@ Use Sections (aka Groups) to better organize your Test Cases.  Sections work lik
 
 Once created, a Section you can move it around in the Sections panel -- just drag-n-drop its folder-icon where you want it to go, either into another Section or in-between other Sections.
 
-[![TestRail Sections video]({'https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/images/tr-create-move-sections.png'})]({'https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/videos/tr-create-move-sections.mp4'} "See Sections video")
+[See Sections video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/videos/tr-create-move-sections.mp4)
 
 
 ### Use Test Case (Steps) template
