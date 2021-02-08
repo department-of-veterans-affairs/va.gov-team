@@ -9,9 +9,10 @@ As a designer I need to create a research plan to share with my team.	(This shou
    This enhancement to the STEM Scholarship form is being made in an effort to reduce the number of applications that require processing by the Buffalo RPO. Historically, there have been a high percentage of ineligible applications that require processing because the application itself is relatively simple to complete and the potential payoff is high (up to $30,000). There are a few required fields within the application that on their own indicate an individual's eligibility and these are the fields we are utilizing to trigger an automated denial. In addition, we are also planning to the addition of a POA indicator to the spool file reports to be processed by the Buffalo RPO
 3. Research questions:
    1. Are applicants being automatically denied as expected? Are they receiving appropriate communication upon automatic denial?
+   2. Are applicants able to view the status of their application on VA.gov?
    2. Are any applicants being automatically denied who should not be?
    3. Is the spool file being updated for applicants based on whether or not they have POA associated with their EVSS profile?
-4. Hypothesis: What is your hypothesis for this research? Applicants are being denied as expected and are receiving appropriate email communication upon automatic denial. 
+4. Hypothesis: What is your hypothesis for this research? Applicants are being denied as expected, receiving appropriate email communication upon automatic denial, and able to view their application status on VA.gov
 
 ## Method	
 1.	What method of research are you planning? 	
@@ -107,10 +108,10 @@ Plan to draw from the existing recruiting contract - Perigean
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-   2/9/2021 - 2/18/2021
+   TBD
 
 2.	Prepare: When will the thing you are testing be ready? 
-2/04/2021
+TBD
 
 3. Length of Sessions: How long do you estimate each session will be? 
 30 minutes with a 15 minute buffer time between sessions. 
@@ -118,13 +119,10 @@ Plan to draw from the existing recruiting contract - Perigean
 4.	Availability: If applicable, when would you like sessions scheduled? 
 15 minute buffer between sessions
 All times below in EST: 
-- Tuesday 02/09: 8:00AM-1:30; 3:00PM-5:00PM
-- Tuesday 02/16: 8:00AM - 1:30PM; 2:30PM-5:00PM
-- Wednesday 02/17: 8:00AM - 5:00PM
-- Thursday 02/18: 8:00 - 9:30AM; 10:00AM - 11:00AM; 12:00-2:00PM, 3:00PM - 5:00PM
+TBD
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-02/05/2021
+TBD 
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
