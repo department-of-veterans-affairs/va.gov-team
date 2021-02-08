@@ -18,7 +18,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
 - [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
--[MyVA Jobs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
+- [MyVA Jobs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
 
 ## Research questions
 
@@ -34,7 +34,8 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - If there was no homepage, what would a user need My VA to do that it’s not currently doing?
 
 **Mobile questions**
-*Note- These probably aren’t questions we’d ask outright, but more assess by behavior.*
+
+*-These probably aren’t questions we’d ask outright, but more assess by behavior.*
 - Can people find what they need on mobile?
 - Does the page feel too long/like there is too much scrolling required to get to the information they need?
 
