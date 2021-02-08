@@ -39,6 +39,8 @@ Great. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
 As I ask the following questions, think about your experiences around medications, allergies (or intolerances, like lactose intolerance), and any immunizations that you received in the past few years (such as flu shots or COVID).
+- Where do you go to see if your medications, allergies, and immunizations are up-to-date today?
+  - Is there any challenging or that you don't understand when you are viewing those lists?
 - The last time one of your medications changed, such as you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
   - How did the process of communicating those changes to the VA go?
   - _If not described as the chosen method above._ Have you ever utilized MyHealtheVet or secure messaging to let your provider know?
@@ -47,6 +49,7 @@ As I ask the following questions, think about your experiences around medication
 - Have you ever let your VA provider know about any immunizations that you received at a non-VA facility? 
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever printed anything out and taken it to your appointment to let your VA providers know about changes?
+- If you had a medication allergy, would you document that on your medication list and/or allergy list?
 
 # Mural Activity - 35 minutes
 Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help designing these medication, allergy, and immunization interfaces within the questionnaire.
