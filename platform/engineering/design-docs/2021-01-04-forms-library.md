@@ -88,12 +88,15 @@ components for:
 - [`api-extractor`](https://api-extractor.com/pages/overview/intro/)
 - [React router](https://reactrouter.com/)
 
-The following sections outline the various parts of the systems. Heading
-descriptors include:
+The following sections outline the various parts of the systems. To aid in
+navigability, I've added some specific heading descriptors to this section:
 - `Sub-module:` These describe sub-modules
 - `Helper:` These describe development aids for building forms
   - Common components, functions, variables, etc. which can be used by engineers
     to rapidly build forms and maintain UX consistency across VA.gov
+
+**Discussion:** Is breaking the library up into sub-modules and helpers a
+helpful mental model?
 
 #### Sub-module: State management
 A state manager provides the context to its children for setting and getting
@@ -104,8 +107,8 @@ context](https://reactjs.org/docs/context.html).
 
 The default manager will be `ReduxManager` which will store state in Redux.
 
-**Discussion:** What must a state manager be responsible for?
-- Setting and retrieving
+**Responsibilities:**
+- Setting and retrieving form state
   - User input
   - Validation errors
     - This is important to prevent routing and submission if there are
