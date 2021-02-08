@@ -21,9 +21,7 @@
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
 | [UX] Analytics	| -- |  |
 | [Product] Change Management for Implementation 	| -- |  |
-| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
-| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
-| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
+
 
 
 ## Sprint 44 - Sprint Theme
@@ -69,6 +67,7 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [Product] QA Testing -tickets and use cases| -- | ##19592 |
 | [UI] Completed Tab Defaults to a filtered date range | -- | #19347 |
 | [UI] User Research Sessions for Health Records | -- | #19586 |
 | [FE] Integration the Questionnaire List with the API| -- | #16574 |
