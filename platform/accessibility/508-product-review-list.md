@@ -901,10 +901,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit Status:** _Staging review completed. VSP post-launch audit finished as of October 5, 2020. Sent to to VA 508 office on October 13, 2020._<br/>
 
-**Open issues**
-
-- [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
-**Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
