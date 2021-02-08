@@ -42,6 +42,7 @@ On the front end, once the data is received, then a `download link` will be show
 - What does that table structure look like?
 - What kind of encryption are we using?
 - Is this okay from a legal perspective?
+- What is the time table for document storage to be ready?
 
 ## Tech Architecture - v2
 
