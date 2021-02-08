@@ -31,9 +31,10 @@
 ## Thursday, February 11, 2021
  
 ### Campaign landing page MVP 1.0
-- FE refinement punchlist started --> CLP Refinement Punch List - FE Build #19500
-- FE walk through --> coming up (Plan to use the punchlist to catelog any bugs/errors that need to be resolved.   
+- FE refinement punchlist started --> CLP Refinement Punch List - FE Build #19500 
 - Review/Validate - proposed process flow diagram for how we might manage the CLP request to build to launch process
+- QA Testing in progress - Use Cases Updated 
+- Stakeholder UAT - Timeline?  Feedback loop (GH Doc?)
 - Discussion/Questions? 
 
 Notes: 
