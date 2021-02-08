@@ -425,6 +425,8 @@ _Features you'd like to (or will need to) add but aren't required for the
 current release. This is a great place to speculate on potential features and
 performance improvements._
 
+- Code splitting
+
 ### Revision History
 _The table below should record the major changes to this document. You don't
 need to add an entry for typo fixes, other small changes or changes before
