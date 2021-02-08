@@ -17,8 +17,8 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Talk them through Zoom screen sharing and chat features shown in document.
-- [Screen share and walk through this document if necessary](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
-- Send [Mural link](https://preview.uxpin.com/d3c9bb8ac5052d077234b5e4b2f7749d0bc5200d#/pages/134593965?mode=cvhidm) and have them screenshare it now.
+  - [Screen share and walk through this document if necessary](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
+  - Send [Mural link](https://preview.uxpin.com/d3c9bb8ac5052d077234b5e4b2f7749d0bc5200d#/pages/134593965?mode=cvhidm) and have them screenshare it now.
 
 
 **Backup plan if they cannot figure out how to share screen:**
@@ -40,17 +40,41 @@ Great. Now we're really ready to begin!
 ## Warm-up Questions - 10 minutes
 As I ask the following questions, think about your experiences around medications, allergies, and any immunizations that you received in the past few years (such as flu shots or COVID).
 - The last time one of your medications changed, such as you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
-  - Did you have any trouble communicating those changes to the VA?
+  - How did the process of communicating those changes to the VA go?
   - _If not described as the chosen method above._ Have you ever utilized MyHealtheVet or secure messaging to let your provider know?
-- Have you ever let your VA provider know about any changes to your allergy history or any immunizations that you received at a non-VA facility? 
+- Have you ever let your VA provider know about any changes to your allergy history?
+  - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
+- Have you ever let your VA provider know about any immunizations that you received at a non-VA facility? 
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever printed anything out and taken it to your appointment to let your VA providers know about changes?
 
 # Mural Activity - 35 minutes
-Today, we are going to have you help us design a way to let your VA providers know about these changes via va.gov, then we'll ask some followup questions. We are 
+next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help designing these medication, allergy, and immunization interfaces within the questionnaire.
 
 ## Medications Section - 15 minutes
-Currently on the screen are two blank webpages. A medications 
+Currently on the screen there is a blank area with medications on it. Pretend this is the medications page of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
+
+First, review all of the medication pieces and let me know if you don't understand any of them.
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
+
+Next, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
+- Any questions?
+
+## Immunizations Section - 10 minutes
+Just as you did with medications, we are going to do the same thing with immunizations. First, review all of the immunization pieces and let me know if you don't understand any of them.
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
+
+Next, move any of the pieces that you find valuable over to the immunizations page. Pretend you are making the immunizations page. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+
+## Allergies Section - 10 minutes
+Lastly, we are going to do the same thing with allergies. Review all of the allergy pieces and let me know if you don't understand any of them.
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
+
+Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+
+# Wrap-up Questions - 5 minutes
+- Do you think adding these pages to a pre-visit questionnaire would help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
+- 
 
 ## Thank-You and Closing - 5 minutes
 
