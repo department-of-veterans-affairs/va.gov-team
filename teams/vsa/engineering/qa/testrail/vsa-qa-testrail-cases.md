@@ -31,7 +31,7 @@ Use Sections (aka Groups) to better organize your Test Cases.  Sections work lik
 
 Once created, a Section you can move it around in the Sections panel -- just drag-n-drop its folder-icon where you want it to go, either into another Section or in-between other Sections.
 
-[See Sections video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/videos/tr-create-move-sections.mp4)
+[See Sections video](https://drive.google.com/file/d/1N_jW5TMtjK1knbptM3D2oKwaw1631Dtm/view?usp=sharing)  [Click **Request access** on Google Drive if video doesn't open.]
 
 
 ### Use Test Case (Steps) template
