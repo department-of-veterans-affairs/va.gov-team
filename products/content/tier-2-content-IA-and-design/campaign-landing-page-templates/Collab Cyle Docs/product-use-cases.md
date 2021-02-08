@@ -77,7 +77,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   
  ## Use Case F
 
-* **Description - FAQs link**
+* **Description - FAQs accordion links**
   - A user clicks on the FAQs accordion and it does not work. 
 
 * **Link to designs**
