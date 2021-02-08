@@ -9,7 +9,7 @@
 - In a mobile month study, veterans were not interested in using the map view of Facility Locator #14484
 - In the mobile month study, veterans were not able to find the Facility Locator from the VA.gov homepage
 - The Facility Locator search experience has not been approached from a mobile-first perspective
-- Updates to the user interfacee to be tested include the implementation of two newfeatures ("use my location" and "clear field") and the resolution of accessibility defects
+- Updates to the user interface to be tested include the implementation of two new features ("use my location" and "clear field") and the resolution of accessibility defects
 
 ## Hypotheses
 
@@ -28,8 +28,8 @@
 - Do participants understand how to clear inputs?
 
 **Search results** (Adjusting to be more precise with questions about design)
-- What are Veteran expectations of FL mobile experience?
-- Will Veterans notice/understand the functionality of Geolocator?
+- What are Veteran expectations of Facility Locator mobile experience?
+- Will Veterans notice/understand the Geolocatoin functionality?
 - Do Veterans using a mobile device prefer to view results on the map or in a list?
 - Do Veterans expect to find detailed information on the map view?
 - Does the information presented for a given facility match expectations?
@@ -37,10 +37,10 @@
 - What online maps/searches do these participants find easiest to use/why?
 
 Form top tasks around these questions
-Can Veterans find the Facility Locator? Start them on the homepage and give them task to find facility locator (need optometrist, find one)
+Can Veterans find the Facility Locator? Start them on the homepage and give them task to find facility locator (need optometrist, find one). This may not be needed since Mobile Month study already proved that users were struggling with finding this.
 
 **Method**
-- Sessions will consist of usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
+- Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
 - Sessions will be remotely moderated via Zoom. 
 
 ## Risks and assumptions
@@ -118,37 +118,34 @@ At least:
 
 ## Timeline
 
-Study dates: MM/DD - MM/DD, 2021
-Session length: 60 minutes
+Study dates: Feb 17-19th 2021
+Session length: 45 minutes
 
 **Dates below are placeholders until participants are recruited and scheduled**
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tuesday, Jan 5 [PILOT] | 12 pm | 1
-Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
-Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
-Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm | 4
-Monday, Jan 11 | 2 pm, 5 pm, 7 pm | 3
-Tuesday, Jan 12 | 3 pm, 5 pm | 2
+Tuesday, Feb 16 [PILOT] | Times TBD
+Wednesday, Feb 17 | Times TBD
+Thursday, Feb 18 | Times TBD
+Friday, Feb 19 | Times TBD
 
+Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
+Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
+Christian + Shawna: Feb 22nd - 26th synthesize findings
+Laurel on PTO 22nd-26th
+Shawna on PTO 25-26, 29th
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
-- Moderator: 
-- Research guide writing and task development: 
-- Participant recruiting & screening: Perigean
-- Project point of contact: 
+- Moderator: Laurel Lawrence and Christian Valla
+- Research guide writing and task development: Laurel Lawrence
+- Participant recruiting, screening, notetaking: Perigean
+- Project point of contact: Michelle Middaugh
 - Participant(s) for pilot test: 
-  -  
-  - 
+  -  Leyda
+
 - Observers: 
-  - Dave Conlon <david.conlon@va.gov> 
-  - Michelle Middaugh <michelle.middaugh@adhocteam.us>
-  - Shawna Hein <shawna@adhocteam.us>
-  - Leyda Hughes <leyda.hughes@adhocteam.us>
-- Optional/Guest Observers:
-  - 
-  - 
-  - 
+  - TBD
+
 - Note-takers: Perigean 
