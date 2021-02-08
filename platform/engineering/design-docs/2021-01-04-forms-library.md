@@ -243,19 +243,29 @@ These components will be responsible for:
 ##### Data paths
 Each form page builder component must accept a string data path `data` property.
 This path must be dot notation as used by [Lodash's get
-function](https://lodash.com/docs/4.17.15#get) with the following data
-substitution exceptions.
+function](https://lodash.com/docs/4.17.15#get) with some exceptions outlined
+below. The data path will point to a part of the form data which the component
+will modify with the user input.
 
-###### Absolute substitution
+When a form builder component is used to modify form data with a variable data
+path, such as the index of an array item when iterating through all items in the
+array, data path substitution will be used to connect the component to a single
+field in the form data. There are two types of data path substitution:
+- Absolute substitution
+- Relative substitution
+
+###### Absolute data path substitution
 A data path may contain matching angle brackets `<>` to denote absolute
 substitution.
 
-**TODO:** Write a reasonable description of what's happening.
+The entire substitution definition (e.g. `<childCount>`) will be replaced by
+the data for the substitution path (e.g. `childCount`) in the route path
+definition (e.g. `/path/to/children/:childCount/name`).
 
-Take the following example:
+Take the following extended example:
 - The root URL for the application is `/my-application`
-- The form data for `childCount` is 5 because the user says they have five
-  children
+- The form data for `childCount` is 5 because the user has entered that they
+  have five children
 - The current page URL is `/my-application/path/to/children/2/name`
 - The current route definition is `/path/to/children/:childCount/name`
 - The page contains a form page builder component:
@@ -269,12 +279,14 @@ The absolute substitution matches the `<childCount>` from the data path to the
 data path then becomes `children.2.name.first` which can be used to set the form
 data for the third child's first name.
 
-###### Relative data substitution
+###### Relative data path substitution
 A data path may contain square brackets `[]` to denote relative substitution.
 
-**TODO:** Write a reasonable description of what's happening.
+During relative data path substitution, the square brackets will be replaced
+with the index of the array. For example, the data path `path.to.array[].foo`
+may be computed as `path.to.array.2.foo` for a form builder component.
 
-Take the following example:
+Take the following extended example:
 - The root URL for the application is `/my-application`
 - The form data for `ptsd.incidents` is an array of N incidents which we don't have a
   definite count for
@@ -297,6 +309,9 @@ equivalent absolute path substitution would be
 `ptsd.incidents.<ptsd.incidents>.description`.
 
 **Note:** Relative path substitution _only_ works with arrays.
+
+**TODO:** Figure out how this works with list loops on the same page. How do we
+do data substitution outside of the route?
 
 ##### A note on validation
 Validation will be run on the `onBlur` event for clean inputs and on the
