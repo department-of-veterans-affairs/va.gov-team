@@ -31,7 +31,7 @@ Use Sections (aka Groups) to better organize your Test Cases.  Sections work lik
 
 Once created, a Section you can move it around in the Sections panel -- just drag-n-drop its folder-icon where you want it to go, either into another Section or in-between other Sections.
 
-[See video](https://drive.google.com/file/d/1N_jW5TMtjK1knbptM3D2oKwaw1631Dtm/view?usp=sharing)
+[![TestRail Sections video]({'../images/tr-create-move-sections.png'})]({'../videos/tr-create-move-sections.mp4'} "See Sections video")
 
 
 ### Use Test Case (Steps) template
