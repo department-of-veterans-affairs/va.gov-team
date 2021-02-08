@@ -38,6 +38,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Higher Level Review](#higher-level-review)
     - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
+      - [Direct Deposit](#direct-deposit)
       - [Rated Disabilities](#rated-disabilities)
       - [686 Form](#686-form)
       - [Chapter 36](#chapter-36)
@@ -471,6 +472,19 @@ Back to [Table of Contents](#table-of-contents)
 ---
 
 ### VSA eBenefits
+
+#### Direct Deposit
+
+**Audit status:** Staging review started February 5, 2021<br/>
+**Open issues**
+
+- [508-defect-1 ❗ [COGNITION, SEMANTIC MARKUP]: Form field instructions MUST be associated with inputs and buttons - #19570](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19570)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-1 — **_Severe_**
+- [508-defect-2 [COGNITION]: H1 should match or be included in the page title - #19552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19552)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [COGNITION]: Edit buttons SHOULD be styled as buttons - #19562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
 
 #### Rated Disabilities
 
