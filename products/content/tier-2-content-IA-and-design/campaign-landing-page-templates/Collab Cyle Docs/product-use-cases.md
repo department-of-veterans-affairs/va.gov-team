@@ -41,7 +41,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 ## Use Case C
 
-* **Description - PDF Download link **
+* **Description - PDF Download link**
   - A user clicks on a PDF download link it does not work. 
 
 * **Link to designs**
