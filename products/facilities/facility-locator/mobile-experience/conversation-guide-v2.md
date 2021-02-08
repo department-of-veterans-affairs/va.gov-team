@@ -33,7 +33,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 _For iPhone:_
 
-- OK great.  When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, this will activate a few buttons at the bottom. Audio, Video, Share screen, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share screen." Any questions?
+- When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, this will activate a few buttons at the bottom. Audio, Video, Share screen, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share screen." Any questions?
 - Tap ‘Share screen’ (Green button at bottom middle of the screen)
 - It will give you some options, choose "Screen"
 - You should get a page that says "screen broadcast"
@@ -45,7 +45,7 @@ _For troubleshooting screen sharing in iOS, reference the Zoom documentation her
 
 _For Android:_
 
-- OK great. When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
+- When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
 - Tap "Share"
 - Tap "Screen"
 - May give a "sensitive info" alert
@@ -58,7 +58,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "navigate" as I "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
-**User clicks on prototype**
+**User clicks on prototype and should be screensharing**
 
 - Are you comfortable if I record my screen and audio as we talk today? The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. If for any reason and at any time you want to stop the session, please let me know.
 
@@ -79,8 +79,6 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
  
 ## Prototype - 35 minutes
 
-**User should be screen sharing**
-
 ## Scenario
 - You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area.
 
@@ -89,10 +87,9 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
-- Is the user comfortable with letting VA.gov user their current location?
-- Which dropdown options do they select?
+- Is the user comfortable with letting VA.gov use their current location?
+- Which dropdown option do they select?
 - Can the user easily clear the location field?
-
 
 ## Second Task: Review VA location search results list view
 
@@ -112,7 +109,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 **Things to watch for**
 
 - How do they interact with the map?
-- Does the user zoom/pan on the map?
+- Does the user zoom/pan?
 - Does the user find that the map pins are interactive and find that they can be clicked to display a VA location card?
 - Does the user find these location cards useful?
 - Is there any missing information on the VA location card?
