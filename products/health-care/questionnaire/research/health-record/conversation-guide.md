@@ -37,7 +37,7 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 
 Great. Now we're really ready to begin!
 
-## Warm-up Questions - 10 minutes
+## Warm-up Questions - 5 minutes
 As I ask the following questions, think about your experiences around medications, allergies, and any immunizations that you received in the past few years (such as flu shots or COVID).
 - The last time one of your medications changed, such as you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
   - How did the process of communicating those changes to the VA go?
