@@ -13,6 +13,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 - [Use Case A](#use-case-a) 
 - [Use Case B](#use-case-b)
 - [Use Case C](#use-case-c) 
+- [Use Case D](#use-case-d) 
+
 
 </details>
 
@@ -43,6 +45,17 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 * **Description - PDF Download link**
   - A user clicks on a PDF download link it does not work. 
+
+* **Link to designs**
+  - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
+
+## Use Case D
+
+* **Description - Watch video link**
+  - A user clicks on the embedded video play button and it does not work. 
 
 * **Link to designs**
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
