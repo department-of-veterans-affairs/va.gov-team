@@ -39,8 +39,8 @@ Great. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
 As I ask the following questions, think about your experiences around medications, allergies (or intolerances, like lactose intolerance), and any immunizations that you received in the past few years (such as flu shots or COVID).
-- Where do you go to see if your medications, allergies, and immunizations are up-to-date today?
-  - Is there any challenging or that you don't understand when you are viewing those lists?
+- Where do you go to see if your medications, allergies, and immunizations are up-to-date today? _Ask about MyHealtheVet if they don't mention it._
+  - Is there anything challenging or that you don't understand when you are viewing those lists?
 - The last time one of your medications changed, such as you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
   - How did the process of communicating those changes to the VA go?
   - _If not described as the chosen method above._ Have you ever utilized MyHealtheVet or secure messaging to let your provider know?
@@ -52,32 +52,34 @@ As I ask the following questions, think about your experiences around medication
 - If you had a medication allergy, would you document that on your medication list and/or allergy list?
 
 # Mural Activity - 35 minutes
-Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your (reword to be priority and group together) help designing these medication, allergy, and immunization interfaces within the questionnaire.
+Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help prioritizing and grouping together information that we can display on the medication, allergy, and immunization interfaces within the questionnaire.
 
 ## Medications Section - 15 minutes
-Currently on the screen there is a blank area with medications on it. Pretend this is the medications page of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
+Currently on the screen there is a blank area with the word "medications" on it. Pretend this is the medications section of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
 
 First, review all of the medication pieces and let me know if you don't understand any of them.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Now, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
+Now, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Group things together that you believe should be displayed together. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
 - Any questions?
 
 ## Immunizations Section - 10 minutes
 Just as you did with medications, we are going to do the same thing with immunizations. First, review all of the immunization pieces and let me know if you don't understand any of them.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Next, move any of the pieces that you find valuable over to the immunizations page. Pretend you are making the immunizations page. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+Next, move any of the pieces that you find valuable over to the immunizations page. Pretend you are making the immunizations page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
 
 ## Allergies Section - 10 minutes
 Lastly, we are going to do the same thing with allergies. Review all of the allergy pieces and let me know if you don't understand any of them.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
 
 # Wrap-up Questions - 5 minutes
 - If we could only build one of these topics into a pre-visit questionnaire, which one would you prefer? Would you pick medications, allergies, and immunizations?
+  - Why?
 - Do you think adding these pages to a pre-visit questionnaire will help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
+  - Why?
 - Is there anything about medications, allergies, and immunizations that I should know about that I didn't cover today?
 - Do you have any final questions for me?
 
