@@ -860,8 +860,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** November 28, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
 **Opened:** May 1, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT Section 116 - VoiceOver is spelling out some all caps text instead of reading it - #3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
