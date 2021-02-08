@@ -1,23 +1,23 @@
 # Research Plan: Facility Locator - Mobile Experience
 
 ## Goals
-- Understand how Veterans expectations for search results differ for mobile vs desktop users
+- Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users
 - Understand how industry standards impact Veteran expectations for the Facility Locator search experience
 
 ## Background 
 
-- In a mobile month study, veterans were not interested in using the map view of facility locator #14484
+- In a mobile month study, veterans were not interested in using the map view of Facility Locator #14484
+- In the mobile month study, veterans were not able to find the Facility Locator from the VA.gov homepage
 - The Facility Locator search experience has not been approached from a mobile-first perspective
-- Planned changes include the implementation of two new usability features ("use my location" and "clear field") and the resolution of accessibility defects
+- Updates to the user interfacee to be tested include the implementation of two newfeatures ("use my location" and "clear field") and the resolution of accessibility defects
 
 ## Hypotheses
 
-- The FL search experience could be better for mobile users. It is not aligned with Veteran expectations or other private industry map-based mobile search experiences.
-- Veterans want to see and use a list view for information on facilities.
-- Veterans searching on Facility Locator on a mobile device will also want to view useful facility information displayed independently from the list view (map view):
-  - Veterans using the map view will know that by tapping on map pins, they will see useful facility information.
-- Veterans need to be able to clear field inputs
-- Veterans want to be able to opt-in to geolocation at search level, rather than via browser.
+- Veterans need to be able to enter data and clear field inputs easily
+- Veterans searching for a VA location on a mobile device will want to view closest VA facilities in a list and on a map
+- Veterans using the map view will know that by tapping on map pins, they will see facility information and location
+- Veterans want to be able to opt-in to geolocation at search level, rather than via browser
+- Veteran expectations of the Facility Locator need to be alined with other private industry map-based mobile search experiences
 
 ## Questions
 
