@@ -41,7 +41,7 @@ To build consensus about the problem statement and research objectives.
 
 
 
-*   [18F Methods - user interview](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
+*   [GUIDE: User interviews - 18F Methods](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
 *   [How to conduct a user interview](https://www.nngroup.com/articles/user-interviews/?lm=interviewing-users&pt=article)
 
  
@@ -64,7 +64,7 @@ To learn how and why users do what they do; to discover needs and attitudes that
 
 
 
-*   [18F Methods - contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/)
+*   [GUIDE: Contextual inquiry - 18F Methods](https://methods.18f.gov/discover/contextual-inquiry/)
 
  
 
@@ -108,7 +108,7 @@ To identify the root cause(s) of an issue or problem.
 
 
 
-*   [18F Methods - Five whys](https://methods.18f.gov/discover/five-whys/)
+*   [GUIDE: Five whys - 18F Methods](https://methods.18f.gov/discover/five-whys/)
 
  
 
@@ -190,7 +190,7 @@ To draw out insights from qualitative data quickly and collaboratively.
 
 
 
-*   [18F Methods - affinity mapping](https://methods.18f.gov/decide/affinity-mapping/)
+*   [GUIDE: Affinity mapping - 18F Methods](https://methods.18f.gov/decide/affinity-mapping/)
 *   [GUIDE: Synthesize your research](https://docs.google.com/presentation/d/19pqV57hCks9H0nxsblOkqnKkVuccsNUgzUQ-i-yXr2k/edit#slide=id.ga451cd5172_0_96)
 
 
@@ -211,7 +211,7 @@ To identify content that needs to be revised in new versions of a website. Conte
 
 
 
-*   [18F Methods - content audit](https://methods.18f.gov/decide/content-audit/)
+*   [GUIDE: Content audit - 18F Methods](https://methods.18f.gov/decide/content-audit/)
 
  
 
@@ -232,7 +232,7 @@ If user interviews have already been done, you might be ready to analyze user ta
 
 
 
-*   [18F Methods - task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/)
+*   [GUIDE: Task flow analysis - 18F Methods](https://methods.18f.gov/decide/task-flow-analysis/)
 *   EXAMPLE
 
  
@@ -255,7 +255,7 @@ To ground design in reality by forcing us to consider the goals, behaviors, and 
 
 
 
-*   [18F Methods - personas](https://methods.18f.gov/decide/personas/)
+*   [GUIDE: Personas - 18F Methods](https://methods.18f.gov/decide/personas/)
 *   [EXAMPLE: Personas](https://github.com/18F/federalist-design/wiki/Personas)
 
  
@@ -278,7 +278,7 @@ To provide design teams with a bird’s-eye view of a service that helps them se
 
 
 
-*   18F Methods - journey mapping
+*   GUIDE: Journey mapping - 18F Methods
 *   EXAMPLE: Journey Map
 
  
@@ -301,7 +301,7 @@ To visualize interactions and relationships that might exist between a user and 
 
 
 
-*   [18F Methods](https://methods.18f.gov/decide/storyboarding/)
+*   [GUIDE: Storyboarding - 18F Methods](https://methods.18f.gov/decide/storyboarding/)
 
  
 
@@ -323,7 +323,7 @@ To communicate a design idea by telling a story about a specific interaction for
 
 
 
-*   [18F Methods](https://methods.18f.gov/decide/user-scenarios/)
+*   [GUIDE: User scenarios - 18F Methods](https://methods.18f.gov/decide/user-scenarios/)
 
  
 
@@ -345,7 +345,7 @@ To help designers anticipate how design decisions might facilitate future behavi
 
 
 
-*   [18F Methods](https://methods.18f.gov/decide/mental-modeling/)
+*   [GUIDE: Mental modeling - 18F Methods](https://methods.18f.gov/decide/mental-modeling/)
 
  
 
@@ -367,7 +367,7 @@ To give the team and the stakeholders a shared point of reference when negotiati
 
 
 
-*   [18F Methods](https://methods.18f.gov/decide/design-principles/)
+*   [GUIDE: Design principles - 18F Methods](https://methods.18f.gov/decide/design-principles/)
 
  
 
@@ -389,7 +389,7 @@ When done collaboratively, hypothesis-building is powerful at getting a team on 
 
 
 
-*   [Design Hypothesis - 18F Methods](https://methods.18f.gov/decide/design-hypothesis/)
+*   [GUIDE: Design Hypothesis - 18F Methods](https://methods.18f.gov/decide/design-hypothesis/)
 
 
 
@@ -423,7 +423,7 @@ To enable direct examination of a design concept’s viability with a number of 
 
 
 
-*   [Prototyping an interface](https://methods.18f.gov/make/prototyping/)
+*   [GUIDE: Prototyping - 18F Methods](https://methods.18f.gov/make/prototyping/)
 *   [Prototyping a service](https://www.ideou.com/blogs/inspiration/6-tips-for-prototyping-service-design-experiences)
 
 
@@ -452,7 +452,7 @@ A categorization exercise in which participants divide concepts into different g
 To gain insights from users about how to organize content in an intuitive way. \
 How to do it
 
-*   [Card Sorting - 18F Methods](https://methods.18f.gov/validate/card-sorting/)
+*   [GUIDE: Card Sorting - 18F Methods](https://methods.18f.gov/validate/card-sorting/)
 
 
 
@@ -472,11 +472,11 @@ To better understand how intuitive the team’s design is, and how adaptable it 
 
 ##### How to do it
 
-*   [Usability Testing - 18F Methods](https://methods.18f.gov/validate/usability-testing/)
-*   [Testing Content - NN/g](https://www.nngroup.com/articles/testing-content-websites/?utm_source=Alertbox&utm_campaign=d0406a8cde-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-d0406a8cde-40210357)
+*   [GUIDE: Usability Testing - 18F Methods](https://methods.18f.gov/validate/usability-testing/)
 *   [GUIDE: Usability testing 101 - NN/g](https://www.nngroup.com/articles/usability-testing-101/)
 *   [GUIDE: Qualitative usability testing](https://www.userinterviews.com/launch-kit/qualitative-usability-test) (User Interviews)
 *   [TEMPLATE: Qualitative usability test kit](https://docs.google.com/spreadsheets/d/1QHJ6b7Y5tTu0G3GcONRMfAb_rmRligNeFqIGHOqUo4Y/edit#gid=123966766) (User Interviews) - includes sample questions and note taking guide
+*   [Testing Content - NN/g](https://www.nngroup.com/articles/testing-content-websites/?utm_source=Alertbox&utm_campaign=d0406a8cde-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-d0406a8cde-40210357)
 
  
 
