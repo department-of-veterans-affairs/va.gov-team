@@ -37,7 +37,7 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 
 Great. Now we're really ready to begin!
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 10 minutes
 To begin, we would like to get to know you a little better and understand your experiences with medications, allergies (or intolerances, like lactose intolerance), and any immunizations that you received in the past few years (such as flu shots or COVID)., 
 - How much of your medical care do you receive from the VA? (A great deal/All, Quite a bit, Somewhat, Very little, or None at all)
 - How do you keep track of your medications, immunizations, and allergies?
@@ -58,7 +58,7 @@ To begin, we would like to get to know you a little better and understand your e
 # Mural Activity - 35 minutes
 Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help prioritizing and grouping together information that we can display on the medication, allergy, and immunization interfaces within the questionnaire.
 
-## Medications Section - 15 minutes
+## Medications Section - 10 minutes
 Currently on the screen there is a blank area with the word "medications" on it. Pretend this is the medications section of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
 
 First, review all of the medication pieces and let me know if you don't understand any of them.
