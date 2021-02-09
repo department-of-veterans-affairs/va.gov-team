@@ -313,6 +313,14 @@ equivalent absolute path substitution would be
 **TODO:** Figure out how this works with list loops on the same page. How do we
 do data substitution outside of the route?
 
+**TODO:** Figure out where to put the next paragraph...and clean it up.
+
+For list loops, the `<ListLoop>` component (name TBD) will perform data
+substitution on all its form page builder components' data paths. To do this, it
+will recursively iterate over all its children, searching for form page builder
+components, and substitute them with exact clones, where the `path` prop
+contains the modified `path`.
+
 ##### A note on validation
 Validation will be run on the `onBlur` event for clean inputs and on the
 `onChange` event for dirty inputs. When any validation is run, the validation
