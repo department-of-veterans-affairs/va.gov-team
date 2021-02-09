@@ -88,15 +88,17 @@ At least:
 
 - Study dates: Feb 17-19th 2021
 - Session length: 45 minutes
+- Preferred 30 min break between sessions
 
 **Dates below are placeholders until participants are recruited and scheduled**
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
+Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Times TBD
-Wednesday, Feb 17 | Times TBD
-Thursday, Feb 18 | Times TBD
-Friday, Feb 19 | Times TBD
+Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm
+Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm
+Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm
 
 - Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
 - Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
@@ -117,3 +119,5 @@ Please list the people who will be serving in each role.
   - TBD
 
 - Note-takers: Perigean 
+
+
