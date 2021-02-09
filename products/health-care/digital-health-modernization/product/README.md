@@ -20,9 +20,20 @@ Define, and execute, first steps to replatform My HealtheVet onto VA.gov and / o
 3. **Reduce Veteran-facing tool fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
 ### User Research Insights 
-4. **Most Veterans don't think of VA.gov as a health tool:** Health content on VA.gov is designed as a how-to manual with the expectation the Veteran will read, rather than an action-oriented product with the expectation the Veteran will skim for the right call to action.
-5. **Veterans who use VA.gov as a health tool can't find things on it:** IA on VA.gov makes it difficult to discover the relevant health content, call to action or function. 
-6. **Veterans who use multiple health and benefits tools enounter major usability issues caused by authentication.:** Several key user journeys (ex., an entire doctor visit, which may include scheduling an appointmnet, checking in, answering questions, getting reimbursed for travel — then later exchanging messages, renewing a prescription, reviewing a claim and paying a bill) are distributed across several VA systems that don't point to each other, can't be accessed from one another and weren't designed together. 
+4. **Veterans and caregivers don’t go to VA.gov to do health tasks.** They have worked hard to learn the fragmented VA digital landscape, and they go directly to MHV because it enables them to complete most of their health tasks. Participants who did demonstrate or describe managing benefits on VA.gov did so in the context of disability or education benefits –– not health. 
+
+> “[VA.gov] usually ends up kicking me to another website, so I go to the primary website to start with.” – P11-A
+
+5. **Participants struggled to complete health tasks whenever those tasks took them outside MHV.** On VA.gov, participants struggled to complete the appointment flow because the IA and content does not offer easily discoverable calls to action. 
+
+> “And I don’t find any other option [to schedule an appointment]. Other than if I do it through Secure Messaging.” - P8-C, struggling to navigate the appointments tool page on VA.gov. 
+
+6. **Because participants did not use the secure sign-in option when signing into MHV, they experienced issues when they went outside of MHV to do tasks.**
+Several key user journeys (ex., an entire doctor visit, which may include scheduling an appointment, getting reimbursed for travel — then later exchanging messages, refilling a prescription, and paying a medical bill) are distributed across several VA systems that have separate credentials and do not share information with each other. 
+
+> "'Please sign in to view, schedule or cancel the appointment.'I am getting confused because I signed in twice already." – P2-B reading green CTA on appointments tool page on VA.gov after redirect from MHV. 
+
+> "This is confusing because I would assume my balance would be on here....I have to end up having to call or go off my letters." – P8-A, referring to their pay.gov account. 
 
 ### Logistics
 7. **VA.gov is getting big, fast:** Some limitations from VA.gov's beginnings as a content site (ex., no sitewide notifications) may make it difficult to capitalize on the benefit of colocating Veteran-facing tools on VA.gov. Change control on such a big site will be a challenge. Teams own functional areas rather than designing arond user journeys per se, which presents a variety of challenges but notably runs the risk of tool duplication on our own product. These things will all change very slowly; we need to work around them, assuming they will remain true. 
