@@ -85,7 +85,7 @@ Just as a reminder - all of the information in this prototype is completely made
 
 *Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.
 
-## First Task - Wayfinding and First Task (or disability rating)
+## First Task - Wayfinding and Disability rating
 
 Okay great, if you could go to VA.gov on your phone we'll get started. You've just come to va.gov and you are looking to (complete the first task that participant mentioned) (OR see your personal disability rating). 
 
