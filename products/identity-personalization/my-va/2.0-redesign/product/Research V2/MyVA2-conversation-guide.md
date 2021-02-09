@@ -87,7 +87,7 @@ Just as a reminder - all of the information in this prototype is completely made
 
 ## First Task - Wayfinding and Disability rating
 
-Okay great, if you could go to VA.gov on your phone we'll get started. You've just come to va.gov and you are looking to (complete the first task that participant mentioned) (OR see your personal disability rating). 
+Okay great, if you could go to VA.gov on your phone we'll get started. You've just come to va.gov and you are looking to see your personal disability rating. 
 
 1. Can you walk me through how you would do that? 
 
