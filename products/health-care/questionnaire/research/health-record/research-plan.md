@@ -35,7 +35,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
   - Are you currently taking any prescribed medication?
   - Do you have any allergies or intolerances (such as dust mites, lactose intoleracet, or penicillin allergies)?
   - Have you had an immunization within the past two years (such as the flu shot)?
-- At least one person must receive some of their medical care from providers outside of the VA
+- At least two people must receive some of their medical care from providers outside of the VA
 - At least one person who received their immunizations (such as flu shot) at a facility outside the VA, such as a non-VA provider office or a pharmacy
 - At least one person with an identified cognitive consideration of PTSD or TBI
 
@@ -63,12 +63,12 @@ One hour sessions<br/>
 
 Team Availability | Time (EST)
 ------------------|--------------
-? | ?
-? | ?
-? | ?
-? | ?
+Feb. 16, 2021 | 9 a.m. - 2:30 p.m.
+Feb. 17, 2021 | 9 a.m. - 1 p.m.
+Feb. 18, 2021 | 9 a.m. - 1 p.m., 3 - 4:30 p.m., 6 - 8:30 p.m.
+Feb. 19, 2021 | 10:30 a.m. - 5 p.m.
 
-Pilot Session: ? | ?
+Pilot Session: Feb. 12, 2021 | 1 - 2 p.m.
 	
 ## Team Roles	
 - Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
