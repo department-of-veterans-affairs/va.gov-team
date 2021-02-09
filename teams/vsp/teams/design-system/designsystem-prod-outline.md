@@ -8,7 +8,6 @@ The Design System Team mission statement is to provide simple, scalable, high qu
 
 ## Problem Statement
 
-- 
 - We believe that VFS teams need regular improvements to the design system documentation, tools, and shared code.
 - We believe that VFS teams are not designing and building forms efficiently.
 - We believe that VFS Designers are confused by inconsistencies across design system documentation, tools, and production applications.
@@ -68,7 +67,7 @@ _Link to the following materials as relevant._
 
 - VFS-facing Product README (in `/platform`)
 - Release Plan
-- Any product health or success dashboards
+- DST Zenhub Board  https://app.zenhub.com/workspaces/vsp-design-system-5f8de67192551b0012ebb802/board?labels=design-system-team,vsp-design-system-team,design%20system&filterLogic=any&useDefaultFilterLogic=false&repos=133843125,152664242,194202180
 
 ### Communications
 
