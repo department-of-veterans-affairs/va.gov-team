@@ -83,7 +83,7 @@ Great! Thank you. I'm going to share a link with you for the prototype we'll be 
 
 Just as a reminder - all of the information in this prototype is completely made up. We will be logging in today as as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great.
 
-*Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.
+*Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.*
 
 ## First Task - Wayfinding and Disability rating
 
