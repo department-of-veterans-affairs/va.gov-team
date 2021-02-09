@@ -82,7 +82,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected. The address where you are located is 821 St. SE, Washington, DC 20003.
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected. 
 
 **Things to watch for**
 
@@ -94,10 +94,11 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 
 ### Scenario
-You’ve decided you want to look for a facility that offers optometry in California where your mom lives, how would you do that?
+You’ve decided you want to look for a facility that offers optometry near where your mom lives. I will give you her address - 821 St. SE, Washington, DC 20003.
 
 **Things to watch for**
 
+- Does the participant prefer entering an address manually or sharing their location?
 - Can the participant easily clear the location field?
 
 ## Third Task: Review VA location search results list view
@@ -164,6 +165,7 @@ You’ve chosen a VA location near you, what would you do next to make an appoin
 
 I really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 Thank you so much, and enjoy the rest of your day!
+
 
 
 
