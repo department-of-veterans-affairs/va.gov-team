@@ -1,7 +1,7 @@
-Information for New Specialists
+# Information for New Specialists
 -------------------------------
 
-### Disability statistics among veterans
+## Disability statistics among veterans
 
 Accessibility and inclusion is incredibly important in our veteran community. [24% of Veterans have a service-connected disability (2018)](https://docs.google.com/document/d/1HDusb9mADDZpQtAl3UMzmHX-ARgcMQi2VcoEyz9idrY/edit?ts=601c1513#slide=id.g9fe759a492_0_127). A service-connected disability is an injury, disease, or disability that full time service in the armed forces (active-duty) either caused or aggravated.
 
@@ -17,7 +17,7 @@ The most common disabilities among the Veteran population include:
 
 There are also 158,000 legally blind veterans. Every year, 7000 veterans become newly blind or visually impaired.
 
-### Tasks VSA specialists do
+## Tasks VSA specialists do
 
 VSA specialists are primarily responsible for helping teams produce services and products that are both inclusive and accessible.
 
@@ -37,11 +37,11 @@ We use the following tasks and methods:
 -   **Continuing education**, like internal workshops to level up accessibility knowledge of members across teams
 -   **Embedding**: where an accessibility specialist is assigned to collaborate with a team throughout the full product development process
 
-#### The Collaboration Cycle
+### The Collaboration Cycle
 
 We work with the platform team (VSP) to help our VSA teams at various points in their product development process. To this end, "checkpoints" are set up to allow us to review teams' work.  The checkpoints our specialists are included in include: 
 
-* P**roject kickoffs**: A brief 30 minute meeting that introduces a new work initiative. Covers existing solutions, team member expectations, and an opportunity to identify any areas that may need additional support or attention.
+* **Project kickoffs**: A brief 30 minute meeting that introduces a new work initiative. Covers existing solutions, team member expectations, and an opportunity to identify any areas that may need additional support or attention.
 * **Design intent meetings**: Draft ideas are presented to VSP and other expert designers including you, the accessibility specialist. Accessibility specialists provide early guidance, considerations, and critique to designs. 
 * **Usability test prep meetings**: A meeting to review prototypes and mockups are consistent with existing patterns and standards. Accessibility specialists provide feedback for the prototypes and usability testing strategy.. 
 * **Staging reviews**: Specialists provide full feedback on completed build before rolling out to users. This involves creating a new epic on github where accessibility defects can be documented for fixing. Testing should include:
@@ -66,11 +66,11 @@ VSA a11y specialists then:
 
 You can also [view the board where collaboration cycle checkpoints are listed](https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/board?labels=collab-cycle-review&filterLogic=any&useDefaultFilterLogic=false&repos=133843125&showEstimates=false&showMilestones=false&showEpics=false&showReleases=false&showDependencies=false).
 
-#### Spot check requests
+### Spot check requests
 
 In addition to the collaboration cycle, our VSA team members [can request spot check requests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+joshkimux&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME). VSA specialists will be notified when this happens and will be expected to prioritize these along with other work. If you need help prioritizing, reach out to our VSA design lead or consult your fellow VSA specialists.
 
-#### Other "ad hoc" team support - e.g. slack requests
+### Other "ad hoc" team support - e.g. slack requests
 
 Team members may send an informal slack message to a VSA specialist directly to ask for support. You may reply right away if it's easy to answer, or let the team member know when you will get to the request.
 
@@ -78,7 +78,7 @@ We recommend asking the team member to provide a date a response is needed by. T
 
 Additionally, there is a Digital Service at VA (DEPO) slack channel, #vetsgov-accessibility, where folks may ask questions. You may answer questions there, but it is not required.
 
-#### Full accessibility audits
+### Full accessibility audits
 
 After teams launch products, we are expected to run a full a11y audit to make sure any remaining issues or accessibility defects are documented. Currently the backlog of audits that still need to be done includes:
 
@@ -107,7 +107,7 @@ Before starting a full audit, please reach out to the product manager (PM) respo
 
 [Once you have run an audit, be sure to update the 508 product list for testing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
 
-#### Education
+### Education
 
 We ran a program called [the "VSA accessibility champions" program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs) where we recruited one person from each team who was interested in learning more and ran them through a curriculum. This program is currently on hold but we could do it again if folks have the bandwidth.
 
@@ -115,13 +115,13 @@ We also have [written out guidelines per practice area on github to help team me
 
 Finally, [we have a WCAG checklist on github to help team members think through their design and code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/WCAG-Checklist.md).
 
-#### Embedding
+### Embedding
 
 When possible, we will embed a specialist on an individual VSA team to assist in researching, designing, and coding in an inclusive manner. This can be a more informal and natural way for our specialists to assist teams rather than relying on checkpoints and requests.
 
-### Writing accessibility (a11y) tickets
+## Writing accessibility (a11y) tickets
 
-#### Introduction
+### Introduction
 
 A11y tickets are tickets we create on github to document accessibility issues and recommendations for teams to reference. They capture the following:
 
@@ -139,14 +139,14 @@ A11y tickets are tickets we create on github to document accessibility issues an
 
 [For more on writing a11y tickets, you can reference this tutorial on github.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/writing-508-issue-tickets.md)
 
-#### Staging review instructions
+### Staging review instructions
 
 1.  Read through the staging ticket you were assigned. This ticket should be an epic. If it isn't, convert it into one.
 2.  Create a new epic in github and name it "Accessibility Feedback for Staging Review [Project Name]." For example, "[Accessibility Feedback for Staging Review [Authenticated Experience - Direct Deposit for Edu]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19495)."
 3.  Add your newly created epic as a child epic beneath the original staging ticket.
 4.  Begin writing accessibility tickets and be sure to attach them to the newly created Accessibility Feedback epic.
 
-#### Ticketing resources
+### Ticketing resources
 
 -   [Platform accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
 
@@ -162,7 +162,7 @@ A11y tickets are tickets we create on github to document accessibility issues an
 
 -   [Inclusive research recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/inclusive-research-recommendations.md)
 
-### You are supported
+## You are supported
 
 There is more work possible than you can do on VSA, so try to stick to 40 hours a week! Speak with Shawna and/or Ariel if you need help figuring out priorities and how to stick with a manageable schedule.
 
