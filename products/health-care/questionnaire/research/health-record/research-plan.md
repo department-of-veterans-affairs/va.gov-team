@@ -76,10 +76,10 @@ Pilot Session: ? | ?
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: TBD	
-- Note-takers: N/A
+- Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Ming Ligh (ming.ligh@va.gov), Stephan Barrs (stephen.barrs@va.gov)
 
 ## Resources	
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
-- [Conversation Guide]()
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/conversation-guide.md)
 - [Research Findings]()	
