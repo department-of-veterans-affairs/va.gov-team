@@ -213,6 +213,69 @@ This is only an _option_, not something that is definitely planned.
 
 Storybook [allows for composition](https://storybook.js.org/docs/react/workflows/storybook-composition), meaning that a single Storybook instance can host stories from other Storybook instances. This currently faces some limitations regarding add-on functionality, so it isn't clear if it would be a good fit for us. There are [additional technical requirements](https://storybook.js.org/docs/react/workflows/package-composition#chp-level-1) that must be met in order to enable this kind of composition, and this would require VA approval in order to even begin experimenting. However, there would be additional benefits from using a service like [Chromatic](https://www.chromatic.com/), such as hosted Storybook instances as part of the PR review process.
 
+### Example code
+
+Here is a simple Web Component written using StencilJS:
+
+<details>
+
+  <summary>Component definition</summary>
+
+  ```tsx
+  import { Component, Prop, h } from '@stencil/core';
+  import { format } from '../../utils/utils';
+
+  @Component({
+    tag: 'my-component',
+    styleUrl: 'my-component.css',
+    shadow: true,
+  })
+  export class MyComponent {
+    /**
+     * The first name
+     */
+    @Prop() first: string;
+
+    /**
+     * The middle name
+     */
+    @Prop() middle: string;
+
+    /**
+     * The last name
+     */
+    @Prop() last: string;
+
+    private getText(): string {
+      return format(this.first, this.middle, this.last);
+    }
+
+    render() {
+      return <div>Hello, World! I'm {this.getText()}</div>;
+    }
+  }
+  ```
+
+</details>
+
+This component can then be defined in a browser using a line like the following:
+
+```js
+import { defineCustomElements } from 'web-component-dependency/loader';
+
+defineCustomElements();
+```
+
+#### Web Component in React app
+
+![image](./images/web-components/in_react.png)
+
+
+#### Web Component in HTML
+
+![image](./images/web-components/in_html.png)
+
+
 ### Revision History
 
 Date | Revisions Made | Author
