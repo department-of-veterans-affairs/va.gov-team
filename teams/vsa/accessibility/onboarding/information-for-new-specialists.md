@@ -1,5 +1,4 @@
 # Information for New Specialists
--------------------------------
 
 ## Disability statistics among veterans
 
