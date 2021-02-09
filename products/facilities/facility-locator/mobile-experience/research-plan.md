@@ -3,6 +3,7 @@
 ## Goals
 - Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users
 - Understand how industry standards impact Veteran expectations for the Facility Locator search experience
+- Evaluate new designs created for geolocation and map view
 
 ## Background 
 
@@ -27,17 +28,14 @@
 - Do participants understand how to enable their location?
 - Do participants understand how to clear inputs?
 
-**Search results** (Adjusting to be more precise with questions about design)
+**Search results** 
 - What are Veteran expectations of Facility Locator mobile experience?
-- Will Veterans notice/understand the Geolocatoin functionality?
+- Will Veterans notice/understand the Geolocation functionality?
 - Do Veterans using a mobile device prefer to view results on the map or in a list?
 - Do Veterans expect to find detailed information on the map view?
 - Does the information presented for a given facility match expectations?
   -  Does the Veteran understand how to find more detailed information about the facilities returned?
 - What online maps/searches do these participants find easiest to use/why?
-
-Form top tasks around these questions
-Can Veterans find the Facility Locator? Start them on the homepage and give them task to find facility locator (need optometrist, find one). This may not be needed since Mobile Month study already proved that users were struggling with finding this.
 
 **Method**
 - Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
@@ -56,37 +54,7 @@ This study:
 
 ## Participants:
 
-A total of 15 participants will be interviewed:
-
-1. Name <email@email.com>
-
-2. Name <email@email.com>
-
-3. Name <email@email.com>
-
-4. Name <email@email.com>
-
-5. Name <email@email.com>
-
-6. Name <email@email.com>
-
-7. Name <email@email.com>
-
-8. Name <email@email.com>
-
-9. Name <email@email.com>
-
-10. Name <email@email.com>
-
-11. Name <email@email.com>
-
-12. Name <email@email.com>
-
-13. Name <email@email.com>
-
-14. Name <email@email.com>
-
-15. Name <email@email.com>
+- We'd like to schedule 15 participants to reach our goal of 10 fulfilled sessions.
 
 
 ### Participant Criteria:
