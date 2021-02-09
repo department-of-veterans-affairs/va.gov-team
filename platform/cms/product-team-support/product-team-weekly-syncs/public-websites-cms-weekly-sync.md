@@ -40,6 +40,12 @@
 ### CLP
 
 - Training / guides. 
+- Any further feedback on Content model changes documentation? 
+- Video bundle now has field_publication_date for CLP
+- Any more FE support needed for CLP? 
+- Past events (for Outreach hub)
+  - CMS team will build a tool to manually archive past events on prod, but this may not make it into next sprint ([4212](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4212)).  After that, we'll go ahead and archive past outreach events, and let that team know ([#4213](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4213))
+  - CMS team will initiate a spike [4214](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4214) into how best to manage past events across CMS in an automatic way, and we will need product-specific feedback. 
 
 ## Wednesday February 3
 
