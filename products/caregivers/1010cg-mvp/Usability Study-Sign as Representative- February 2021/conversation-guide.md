@@ -99,15 +99,19 @@ Great. Now we're really ready to begin!
   - Do they live with the Veteran?
 
 ## Applying for benefits task with first representative option - 15 minutes
+/// REVIEWER COMMENTS: 
+1. Are you giving them instructions about what they are looking at? Where are you dropping them into the application process? 
 
-Now that I understand a little bit more about your caregiving background. I’m going to have you imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Walk me through how you would do this.
+2. Recommend having a script for your caregivers and a separate script for your Veterans (just as you do above) so you don't get tangled up midstream. Your cues should be different for each. 
+/// 
+
+Now that I understand a little bit more about your caregiving background, I’d like you to go through the application to apply for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Walk me through how you would do this. Remember, this is a prototype, and not a real application.
 
 Things to watch for:
 
-In general, we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
-
-- Remind participants to think out loud. 
-- Any hiccups? Do they know all the information?
+- In general, we want to sit back and watch them, but if they hesitate, ask: “I noticed you hesitate here, what are you thinking about?" or "What questions do you have?”
+- Remind participants to talk out loud. 
+- Any hiccups? Do they know all the information the form is asking of them?
 - Any fields trip them up?
 - Anything particularly confusing for them?
 - Pay close attention to the representative and document upload sections 
@@ -121,9 +125,10 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 
 Wonderful! I have a few questions about what you just saw in the prototype.
 
-- What did you think of the overall experience in completing this form?
-- What was the hardest part of completing the form? Were there any areas you felt were unclear? 
-- What worked well? 
+- Describe your experience completing this form? 
+- What was the hardest part of completing the form? 
+- Were there any sections you felt were unclear? 
+- What was the easiest part of completing this form? 
 - I'm going to quickly show you my screen (moderator shares screen with “representative” question)
    - Can you tell me how you decided/knew that you were/weren’t a representative?
    - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
@@ -131,7 +136,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 - _If not addressed in tasks_ 
   -  What documents would you upload here?
   -  Would you have themn on hand? 
-  -  If on mobile, what would you do?
+  -  If you were using a mobile phone, what would you do if you needed to upload documents?
 
 ## Wrap-up questions - 5 minutes
 
