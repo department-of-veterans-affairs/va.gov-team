@@ -21,7 +21,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Tressaand I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
+Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
 
 Before we start, a few things I want to mention:
 
@@ -48,6 +48,8 @@ Before we start, a few things I want to mention:
     
 4. Do you currently, or have you ever, filed a claim or appeal with the VA?
     - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
+    
+5. I'd like you to imagine that you have logged-in to VA.gov and you've landed on your personal dashboard. What things would you be looking to do on your dashboard?
      
 ## Logistics: figure out how to share your screen - 5 minutes
 
@@ -77,28 +79,35 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
-## Intro
-
 Great! Thank you. I'm going to share a link with you for the prototype we'll be looking at today. *share link*
 
 Just as a reminder - all of the information in this prototype is completely made up. We will be logging in today as as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great.
 
-## First Task - Wayfinding and disability rating
+*Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.
 
-Okay great, let's get started with a scenario. You've just come to va.gov and you are looking to see your personal disability rating. 
+## First Task - Wayfinding and First Task (or disability rating)
 
-1. Without clicking on anything, can you walk me through how you would do that? 
+Okay great, if you could go to VA.gov on your phone we'll get started. You've just come to va.gov and you are looking to (complete the first task that participant mentioned) (OR see your personal disability rating). 
+
+1. Can you walk me through how you would do that? 
 
     *If they look in the main nav or the 'Disability' box*
     
     1. Can you tell me why you would expect it to be there?
-    
-    *If they click on MyVA*
-     
-    1. Can you tell me why you would expect it to be there? 
-    2. If you were to click on MyVA, what information would you expect to be on that page?
 
-Great, thank you. If you could go ahead and click on MyVA in the top right hand corner. You've just landed on this page and you are looking to see your personal disability rating.
+   *If they click on MyVA*
+     
+   1. Can you tell me why you would expect it to be there? 
+   2. If you were to click on MyVA, what information would you expect to be on that page?
+
+
+Great! Thank you. Since you'll need to be logged-in for the rest of this, I'm going to share a link with you for the prototype we'll be looking at today. 
+
+*share link*
+
+Just as a reminder - all of the information in this prototype is completely made up. We will be logging in today as as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great.
+
+Great, thank you. If you could go ahead and click on MyVA in the top right hand corner. You've just landed on this page and you are looking to see (complete the first task that participant mentioned) (OR see your personal disability rating).
 
 1. Can you walk me through how you would do that?
 2. What would you expect to happen if you clicked on the disability rating link?
@@ -126,7 +135,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 
 ### Appointments
 
-Okay, we're now going to move on to another scenario. You've come to this page to see when your next appointment is.
+Okay, we're now going to move on to another scenario. You've come to this page to see when you are visiting your doctor next.
 
 1. Can you walk me through how you would do that?
 2. How many appointments do you have total?
@@ -138,7 +147,7 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 
 ### Prescriptions
 
-Okay, now if you could imagine you've come to this page to check the refill status of your newest prescription.
+Okay, now if you could imagine you've come to this page to check whether or not your medication will be arriving soon.
 
 1. Can you walk me through how you would do that?
 2. Can you describe to me what you are looking at in this prescriptions section?
