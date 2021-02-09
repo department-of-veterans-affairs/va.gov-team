@@ -10,7 +10,7 @@
 
 ### Objective
 
-The goal is to establish a component library using the [Web Components standard](https://developer.mozilla.org/en-US/docs/Web/Web_Components). This will eventually supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
+The goal is to establish a component library using the [Web Components standard](https://developer.mozilla.org/en-US/docs/Web/Web_Components). This new library will serve as a single source of truth for the implementation of design system components. It will eventually supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
 
 The intended audience for this document is frontend engineers.
 
