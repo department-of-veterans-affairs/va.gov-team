@@ -124,18 +124,14 @@ Can you view the VA facilities in this list and tell me which location you would
 **[If they don’t naturally go to the map view,]**
 - Ok did you see this tab that says map? If so, why didn’t you tap on it? 
 
-Would a map be useful to you? OK go ahead and tap on it.
-Compare the list view vs map, do you expect the information to be different?
-Would a map be useful to you? 
+- Would a map be useful to you?
+- Compare the list view vs map, do you expect the information to be different?
 
 ## Fifth Task: Viewing more than one location on the map
 
 ### Scenario
 
 While you are in the map tab, can you show me how you would view more than one location near you?
-
-Tell me which location you would choose to visit and why
-
 
 **Things to watch for**
 
