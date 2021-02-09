@@ -6,7 +6,12 @@
 ## Mission
 Define and execute first steps to make VA.gov and / or the flagship mobile app a viable front door for healthcare at the VA. 
 
-## Current Priorities
+## Approach
+- Pursue a key problem (single sign-on) that blocks successful execution of all identified modernization strategy options.
+- Otherwise address specific Veteran needs that keep most strategy options open.
+- While doing the above, create a team with the breadth of experience and power to chart next steps (which may be all or some of expensive, disruptive and mutually-exclusive).
+
+### Current Initiatives
 - Make single-sign on work well between My HealtheVet (MHV) and VA.gov. 
   - All identified product strategies need this to be true in order to succeed. 
   - This also addresses a specific research insight. 
@@ -15,7 +20,7 @@ Define and execute first steps to make VA.gov and / or the flagship mobile app a
   - This also addresses a specific research insight.
 - Ship secure messaging MVP as part of the flagship mobile app launch. 
   - This keeps our options open to pursue product strategy E (and was already in flight).
-- Create a health modernization council with the breadth of experience and power to select a strategy, or combination of stragies, we are committed to pursuing. 
+- Create a health modernization council with the breadth of experience and power to select a strategy, or combination of stragies, we are committed to pursuing.  
 
 ## Why
 ### OCTO Priorities
@@ -38,7 +43,7 @@ Several key user journeys (ex., an entire doctor visit, which may include schedu
 
 > "This is confusing because I would assume my balance would be on here....I have to end up having to call or go off my letters." – P8-A, referring to their pay.gov account. 
 
-## Strategy 
+## Modernization Strategy Options
 Subject to iteration based on learning. Strategies are in no particular order. Strategies are not mutally-exclusive or collectively exhaustive. All strategies assume we will work with the Identity team to transition Veterans with My HealtheVet credentials onto something that works with VA single sign-on. 
 
 ### Strategy A: Evolve VA.gov slowly from content site into transactional product(s) by replatforming My HealtheVet 
