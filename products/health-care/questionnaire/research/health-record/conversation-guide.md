@@ -60,7 +60,7 @@ To begin, we would like to get to know you a little better and understand your e
     - Have you ever utilized secure message to notify your VA provider of medication, allergy, or immunization changes?
 - How can we make it more easier for you to communicate to your VA providers?
 
-# Mural Activity - 35 minutes
+# Mural Activity - 30 minutes
 Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help prioritizing and grouping together information that we can display on the medication, allergy, and immunization interfaces within the questionnaire.
 
 ## Medications Section - 10 minutes
