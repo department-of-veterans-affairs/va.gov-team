@@ -44,7 +44,7 @@ Continuing with our same scenario, imagine that you&#39;re looking to talk to a 
 
 - Can you tell me if that type of care or service is available here?
 
-\*scrolled to counseling services\* I would go to referral services and then open the links for whichever type of care I want to get more information on. Under &quot;minority veteran care&quot; I would expect to find something educational to explain what minority care is. One of the things that should be there is a description for the COVID vaccine because many minorities don&#39;t want to get it because of things that happened in the past.
+\*clicks jump link counseling services and manually scrolls down and back up, then notices the spotlight boxes \* I would go to referral services and then open the links for whichever type of care I want to get more information on. [moderator restates one on one counseling prompt] Under &quot;minority veteran care&quot; I would expect to find something educational to explain what minority care is. One of the things that should be there is a description for the COVID vaccine because many minorities don&#39;t want to get it because of things that happened in the past.
 
 - Talk me through where you would expect to see that type of care?
 
