@@ -115,7 +115,7 @@ Pilot Session: February 12, 2021 | TBD
 Resources	
 
 - Product Brief: (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
-- Conversation Guide
+- Conversation Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/conversation-guide.md
 - Synthesis		
 - Read-Out/Results	 	
 - ** Don't forget to add a link to your research folder to the research tracker! 
