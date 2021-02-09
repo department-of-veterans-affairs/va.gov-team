@@ -27,7 +27,7 @@ Last Updated February 26, 2020
 |Jason Hoge | Debt Mgmt Center (DMC) Contact|
 |Paul Kimball | Chief Enterprise and Systems Architect, DMC |
 |Mihn Bang | Technical POC, VBMS eFolder|
-|Thomas Corley | IT Project Manager|
+|Justin Carver | IT Project Manager|
 
 ---
 
