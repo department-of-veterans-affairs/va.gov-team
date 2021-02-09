@@ -106,14 +106,12 @@ You’ve decided you want to look for a facility that offers optometry in Califo
 
 ### Scenario
 
-Can you view the VA facilities in this list and tell me which location you would choose to visit?
-
-What do you expect to see on each location card and can you tell me if anything is missing?
+Can you view the VA facilities in this list and tell me which location would be closest to you? What information do you expect to see for this location and tell me if anything is missing.
 
 **Things to watch for**
 
 - Can the participant easily scroll through results on the list view?
-- Does the participant know which locations are closest to the location?
+- Does the participant know which locations are closest to their location?
 
 ## Fourth Task: Review VA location search results map
 
