@@ -65,7 +65,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 
-###### Start recording to the Cloud
+## Start recording to the Cloud
 
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
@@ -76,68 +76,94 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - If yes, what were you looking for?
 - Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?
 - Have you visited a VA facility for healthcare in the past couple of years?
+- Do you use any sort of map applications? If so, which one(s)?
+
  
 ## Prototype - 35 minutes
 
-## Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area.
-
 ## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you
+
+### Scenario
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected.
 
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Is the user comfortable with letting VA.gov use their current location?
 - Which dropdown option do they select?
-- Can the user easily clear the location field?
 
-## Second Task: Review VA location search results list view
+## Second Task: Clear the location field, enter in a new location
 
-- What are your first impressions of the list view of locations?
-- What do you expect to see on the VA location card?
-- Is any information about the location missing?
-- How many search results would you expect to see?
-- Can they scroll through results on the list view?
 
-## Third Task: Review VA location search results map
-
-- Before you click on anything on the map, what do you expect to see next?
-- What are your first impressions of the map view?
-- Do you expect to see the same amount of information on the map as you did in the list view?
-- Can you view more than one location near you?
+### Scenario
+You’ve decided you want to look for a facility that offers optometry in California where your mom lives, how would you do that?
 
 **Things to watch for**
 
+- Can the user easily clear the location field?
+
+## Third Task: Review VA location search results list view
+
+### Scenario
+
+View the VA facilities near you and tell me which location you would choose to visit. 
+
+**Things to watch for**
+
+- What do you expect to see on the VA location card?
+- Is any information about the location missing?
+- Can the user easily scroll through results on the list view?
+
+## Fourth Task: Review VA location search results map
+
+### Scenario
+
+[If they find the map tab] Before you click on anything on the map, what do you expect to see next? OK go ahead and tap on it.
+
+[If they don’t naturally go to the map view,]  Ok did you see this tab that says map? If so, why didn’t you tap on it? 
+
+Would a map be useful to you? OK go ahead and tap on it.
+Compare the list view vs map, do you expect the information to be different?
+Would a map be useful to you? 
+
+## Fifth Task: Viewing more than one location on the map
+
+### Scenario
+
+While you are in the map tab, can you show me how you would view more than one location near you?
+
+Tell me which location you would choose to visit and why
+
+
+**Things to watch for**
+
+- Does the user know that more than one location can be viewed (swipe right)?
 - How do they interact with the map?
 - Does the user zoom/pan?
 - Does the user find that the map pins are interactive and find that they can be clicked to display a VA location card?
-- Does the user find these location cards useful?
-- Is there any missing information on the VA location card?
-- Does the user know that more than one location can be viewed (swipe right)?
-- Does the user struggle with the VA location cards or not find them at all?
-- On mobile view, does the user want to see a list view of locations by default?
-- When clicking on an empty space on the map, does the user know that this dismisses the cards?
+- How would the user expect to dismiss the location cards?
 
-## Fourth Task: Contact/visit a VA facility location
-- Why did you choose [the one they choose]?
-- What would your next steps be after finding the closest VA location?
-- How would you contact them to make an appointment?
-- Get directions, dial phone numbers link on mobile - do you like this?
+## Fifth Task: Contact a VA Facility
+
+### Scenario
+You’ve chosen a VA location near you, what would you do next to make an appointment?
+
+**Things to watch for**
+
+- Get directions, dial phone numbers for each location on mobile - do you like this?
 - Is this tool useful for you on a mobile device, in what scenarios would you use this? Driving in a car?
 
 ## Post-Task Interview 
 
-- How many results do you want to see after you search?
+- What are your impressions of the list view versus the map view? Would you use one more than the other? Which might you use each view for?
 - About how many miles out would you want to see in the search results?
 - How much area of the map would you want to interact with?
-- Do you use any sort of map applications? If so, which one(s)?
-- What kind of device do you normally use?
-- Would you use that device to search for facilities on VA.gov?
 - Any questions for me? 
 
 ## Thank-You and Closing
 
 I really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 Thank you so much, and enjoy the rest of your day!
+
 
 
