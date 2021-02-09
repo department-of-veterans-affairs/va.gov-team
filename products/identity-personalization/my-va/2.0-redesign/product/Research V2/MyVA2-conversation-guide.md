@@ -112,7 +112,7 @@ Great, thank you. If you could go ahead and click on MyVA in the top right hand 
 
 ## Second task: Health care
 
-# Messages
+### Messages
 
 Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see how many new messages you have from your health care team.
 
@@ -124,7 +124,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 6. What is confusing about this section?
 7. What information is missing here?
 
-# Appointments
+### Appointments
 
 Okay, we're now going to move on to another scenario. You've come to this page to see when your next appointment is.
 
@@ -136,7 +136,7 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 6. What is confusing about this section?
 7. What information is missing here?
 
-# Prescriptions
+### Prescriptions
 
 Okay, now if you could imagine you've come to this page to check the refill status of your newest prescription.
 
@@ -215,7 +215,7 @@ Say you've landed on this page and you want to change your mailing address.
 
 ## Sixth task: Overview and Comparison
 
-# Overview
+### Overview
 
 Go ahead and scroll through this page from the top and walk me through your thoughts on each section, starting with where you see your name (Kimberly) in the blue box.
 
@@ -230,7 +230,7 @@ Imagine that this was now the first page that you saw directly after logging in.
 1. What additional features would you need for this to work as a homepage?
 
 
-# Comparison
+### Comparison
 
 Thanks so much! If you could go ahead and stop sharing your screen, I'm going to show you a different version of MyVA.
 
