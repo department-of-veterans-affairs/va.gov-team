@@ -76,15 +76,13 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - If yes, what were you looking for?
 - Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?
 - Have you visited a VA facility for healthcare in the past couple of years?
-- Do you use any sort of map applications? If so, which one(s)?
-
  
 ## Prototype - 35 minutes
 
-## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you
+## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected.
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected. The address where you are located is 821 St. SE, Washington, DC 20003.
 
 **Things to watch for**
 
