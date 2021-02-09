@@ -40,7 +40,9 @@ Continuing with our same scenario, imagine that you&#39;re looking to talk to a 
 
 This page is LONG. That happens to be a pet peeve of mine – VA pages tend to be that way. The information is in a good order, but some of the information could be linked to other pages so that a veteran can skip over what they don&#39;t need to see without having to scroll through it. For example: the hours could be linked to another page.
 
-I assume I can get care there. I see where it says &quot;prepare for your visit&quot; so I assume you can get this care there, but I don&#39;t see where to get it set up \*(to make an appointment)\* \*opened Mental Health Care dropdown\* It took me a while to read through all of the information and it took a little while – I&#39;m a slow reader. The phone number is what I&#39;m looking for and that is at the bottom there. This gives a good description but there is also a fine line between having every type of care and the details of it vs. just the basic information that is easy to get through.
+I assume I can get care there. I see where it says &quot;prepare for your visit&quot; so I assume you can get this care there, but I don&#39;t see where to get it set up \*(to make an appointment)\* 
+[moderator restates prompt, asking user to assume they don't know yet if they want to make an appt but ooking for info first]
+I see counseling services... [reads off services] I'm not any of the others so mental health must be what I want \*opened Mental Health Care dropdown\* It took me a while to read through all of the information and it took a little while – I&#39;m a slow reader. The phone number is what I&#39;m looking for and that is at the bottom there. This gives a good description but there is also a fine line between having every type of care and the details of it vs. just the basic information that is easy to get through.
 
 The bullet that lists a specialty group for Iraq and Afghanistan calls out the younger groups, but it has passed by the Vietnam veterans. It can make us feel left out.
 
