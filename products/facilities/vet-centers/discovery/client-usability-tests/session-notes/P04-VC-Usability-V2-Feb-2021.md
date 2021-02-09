@@ -44,7 +44,9 @@ Continuing with our same scenario, imagine that you&#39;re looking to talk to a 
 
 - Can you tell me if that type of care or service is available here?
 
-\*scrolled to &quot;on this page&quot; and then &quot;counseling services&quot;\* Yes, it looks like it is. I saw that is said &quot;counseling services in the on this page section and then under there it gave the types of services and a phone number to schedule an appointment. I would probably just call because it says that I don&#39;t need a referral.
+\*scrolled to &quot;on this page&quot; and then &quot;counseling services&quot;\* Yes, it looks like it is. I saw that is said &quot;counseling services in the on this page section and then under there, I went to the behavioral health counseling [mental health counseling] it gave the types of services and a phone number to schedule an appointment. I would probably just call because it says that I don&#39;t need a referral.
+
+
 
 The dropdowns are pretty straightforward to say what they are about.
 
