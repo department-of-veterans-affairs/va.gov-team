@@ -67,7 +67,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 **Apply for benefits**
 - Do people understand that they are looking at applications that they’ve started but not yet submitted? Do they understand what “in progress” means?
 - Do people understand how to view an in-progress application?
-- Do people understand why we are showing certain benefits in “benefits you might be eligible for”?
+- Do people understand why we are showing certain benefits in “benefits you might be interested in”?
 - Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
