@@ -110,7 +110,10 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
 - Anything particularly confusing for them?
-- Pay close attention to the representative and document upload sections
+- Pay close attention to the representative and document upload sections 
+  - What documents would you upload here?
+  - Would you have themn on hand? 
+  - If on mobile, what would you do?
 - Make sure to dig in when there's any hesitation into what they are thinking
 - Any confusion understanding primary and secondary caregivers?
 
@@ -125,10 +128,14 @@ Wonderful! I have a few questions about what you just saw in the prototype.
    - Can you tell me how you decided/knew that you were/weren’t a representative?
    - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
    - Can you elaborate on your reasoning for your selection?
+- _If not addressed in tasks_ 
+  -  What documents would you upload here?
+  -  Would you have themn on hand? 
+  -  If on mobile, what would you do?
 
 ## Wrap-up questions - 5 minutes
 
-- What are your thoughts about this form?
+- Any other thoughts about the form?
 - Do you have any questions for me before we conclude?
  
 ## Thank you and Closing
