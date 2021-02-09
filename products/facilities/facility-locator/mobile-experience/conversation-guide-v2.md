@@ -108,11 +108,12 @@ You’ve decided you want to look for a facility that offers optometry in Califo
 
 Can you view the VA facilities in this list and tell me which location you would choose to visit?
 
+What do you expect to see on each location card and can you tell me if anything is missing?
+
 **Things to watch for**
 
-- What do you expect to see on the VA location card?
-- Is any information about the location missing?
 - Can the participant easily scroll through results on the list view?
+- Does the participant know which locations are closest to the location?
 
 ## Fourth Task: Review VA location search results map
 
@@ -126,6 +127,10 @@ Can you view the VA facilities in this list and tell me which location you would
 
 - Would a map be useful to you?
 - Compare the list view vs map, do you expect the information to be different?
+
+**Things to watch for**
+
+- Can the participant find the map tab without assistance from the moderator?
 
 ## Fifth Task: Viewing more than one location on the map
 
@@ -148,7 +153,7 @@ You’ve chosen a VA location near you, what would you do next to make an appoin
 
 **Things to watch for**
 
-- Get directions, dial phone numbers for each location on mobile - do you like this?
+- Are links for directions, dial phone numbers for each location on mobile useful for the participant?
 - Is this tool useful for you on a mobile device, in what scenarios would you use this? Driving in a car?
 
 ## Post-Task Interview 
