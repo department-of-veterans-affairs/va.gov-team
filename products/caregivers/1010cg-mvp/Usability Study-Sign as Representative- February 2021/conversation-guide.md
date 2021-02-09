@@ -110,7 +110,7 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
 - Anything particularly confusing for them?
-- Pay close attention to the representative and document upload sections.
+- Pay close attention to the representative and document upload sections
 - Make sure to dig in when there's any hesitation into what they are thinking
 - Any confusion understanding primary and secondary caregivers?
 
@@ -119,7 +119,7 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 Wonderful! I have a few questions about what you just saw in the prototype.
 
 - What did you think of the overall experience in completing this form?
-- What was the hardest part of completing the form? Were there any areas you felt was unclear? 
+- What was the hardest part of completing the form? Were there any areas you felt were unclear? 
 - What worked well? 
 - I'm going to quickly show you my screen (moderator shares screen with “representative” question)
    - Can you tell me how you decided/knew that you were/weren’t a representative?
