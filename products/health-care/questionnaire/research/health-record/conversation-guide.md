@@ -38,22 +38,27 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 Great. Now we're really ready to begin!
 
 ## Warm-up Questions - 10 minutes
-To begin, we would like to get to know you a little better and understand your experiences with medications, allergies (or intolerances, like lactose intolerance), and any immunizations that you received in the past few years (such as flu shots or COVID)., 
+To begin, we would like to get to know you a little better and understand your experiences with medications, allergies (or intolerances, like lactose intolerance), and any immunizations that you received in the past few years (such as flu shots or COVID).
 - How much of your medical care do you receive from the VA? (A great deal/All, Quite a bit, Somewhat, Very little, or None at all)
 - How do you keep track of your medications, immunizations, and allergies?
   - What do you like about your current process?
   - What is frustrating about keeping track of your medications?
 - How do you keep your VA providers up-to-date on your medications? For instance, maybe you stopped taking a medication or you were prescribed a new medication from a non-VA provider, how did you let your VA providers know?
   - How did the process of communicating those changes to the VA go?
-  - If you take any supplements, vitamins, or over-the-counter medications, do you share that with your
+  - If you take any supplements, vitamins, or over-the-counter medications, do you share that with your VA providers? 
+    - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever let your VA provider know about any changes to your allergy history?
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever let your VA provider know about any immunizations that you received at a non-VA facility? 
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
-- Ask about MyHealtheVet.  - Is there anything challenging or that you don't understand when you are viewing those lists?
-  - _If not described as the chosen method above._ Have you ever utilized MyHealtheVet or secure messaging to let your provider know?
-- Have you ever printed anything out and taken it to your appointment to let your VA providers know about changes?
-- If you had a medication allergy, would you document that on your medication list and/or allergy list?
+- _Only ask if necessary, depending upon how the Veteran answered the past three questions, if they didn't talk about their actual appointments with their providers._ How do you prepare for your appointment when you have changes you would like to discuss with your VA provider?
+  - Observers: Take note if anyone mentions printing.
+- Do you utilize MyHealtheVet?
+  - If yes, 
+    - Have you ever checked your medication list on there?
+      - Were those list easy or hard to understand? If hard, what did you find challenging?
+    - Have you ever utilized secure message to notify your VA provider of medication, allergy, or immunization changes?
+- How can we make it more easier for you to communicate to your VA providers?
 
 # Mural Activity - 35 minutes
 Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help prioritizing and grouping together information that we can display on the medication, allergy, and immunization interfaces within the questionnaire.
@@ -80,6 +85,8 @@ Lastly, we are going to do the same thing with allergies. Review all of the alle
 Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
 
 # Wrap-up Questions - 5 minutes
+- Pretend you developed a new medication allergy, such as you get a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section of the questionnaire?
+- How often do you expect to update each of these sections? Would you want to see these sections in a questionnaire before every VA appointment? Would you want to see these sections once every six months?
 - If we could only build one of these topics into a pre-visit questionnaire, which one would you prefer? Would you pick medications, allergies, and immunizations?
   - Why?
 - Do you think adding these pages to a pre-visit questionnaire will help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
