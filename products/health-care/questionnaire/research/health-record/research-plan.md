@@ -57,7 +57,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
 *This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.*
 
 ## Timeline 	
-#### Desired Timeline: Feb ?-?, 2021 
+#### Desired Timeline: Feb 16-19, 2021 
 One hour sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
