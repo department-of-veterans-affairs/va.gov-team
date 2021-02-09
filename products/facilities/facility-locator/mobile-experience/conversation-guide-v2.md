@@ -118,9 +118,11 @@ Can you view the VA facilities in this list and tell me which location you would
 
 ### Scenario
 
-[If they find the map tab] Before you click on anything on the map, what do you expect to see next? OK go ahead and tap on it.
+**[If they find the map tab]**
+- Before you click on anything on the map, what do you expect to see next? OK go ahead and tap on it.
 
-[If they don’t naturally go to the map view,]  Ok did you see this tab that says map? If so, why didn’t you tap on it? 
+**[If they don’t naturally go to the map view,]**
+- Ok did you see this tab that says map? If so, why didn’t you tap on it? 
 
 Would a map be useful to you? OK go ahead and tap on it.
 Compare the list view vs map, do you expect the information to be different?
