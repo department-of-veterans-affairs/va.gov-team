@@ -50,7 +50,7 @@ Yes.
 
 [narrate what the user did]
 
-I would click &quot;counseling services.&quot; \*clicked dropdowns for more information\*
+I would click &quot;counseling services [clicks jump link].&quot; \*clicked mental health dropdown for more information\*
 
 - Tell me what&#39;s going through your mind.
 
