@@ -4,9 +4,9 @@
 
 This study is being conducted by the VSA Caregiver team.	
 
-The Caregiver team launched the digitized 10-10CG form October 1, 2020. Currently, the team is adding functionality that allows a Veteran’s legal representative to be identified and documentation (e.g. power of attorney) to be optionally uploaded. Designs have also been updated to surface information around Primary Family Caregiver and Secondary Family Caregivers.
+The Caregiver team launched the digitized 10-10CG form on October 1, 2020. Currently, the team is adding functionality that will allow a Veteran’s legal representative to be identified, sign the form, and optionally upload relevant documentation (e.g. power of attorney). Designs have also been updated to surface more information around Primary Family Caregiver and Secondary Family Caregivers.
  
-Designs have been created to support the additional functionality of identifying a legal representative. The team hopes to test the understandability, usability, and ease of use of the two representative workflow options and if the suggested changes improve the cognitive understanding of Primary Family Caregiver and Secondary Family Caregivers.
+Two designs have been created to support the additional functionality of signing as a legal representative. The team hopes to test the understandability, usability, and ease of use of the two representative workflow options as well as if the suggested changes improve the cognitive understanding of the concepts of Primary Family Caregivers and Secondary Family Caregivers.
 
 ## Goals
 
