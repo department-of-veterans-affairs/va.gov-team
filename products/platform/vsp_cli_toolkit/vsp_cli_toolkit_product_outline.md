@@ -90,16 +90,6 @@ More Information can be found in the [Design Doc](https://github.com/department-
 - MVP Launch: February 16th, 2021
 
 ---
-   
-## Screen-shots
-
-_Include before/after screen-shots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
-
----
 
 ## Reference Material
 
