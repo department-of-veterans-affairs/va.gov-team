@@ -28,7 +28,7 @@ Veterans and their family members are the primary users of VA.gov for which we p
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * Number of issues by tier - looking for improvement over time compared to previous/baseline data (we want to reduce #s in every area) 
-* Number of issues by type - i.e. team, task, etc...
+* Number of issues by type - i.e. team, task, etc... (same as above, but targeted by type)
 * [Contact Center Montly Report](https://va-gov.domo.com/page/1744754544?userId=1492872830)
 
 #### Baseline KPI Values
@@ -38,23 +38,26 @@ Veterans and their family members are the primary users of VA.gov for which we p
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+1. If we are able to fix common issues we receive for tier II/III support, we will reduce categorical and overall tier II/III support issues.
+2. If we are able to build automation to address any (high volume first) tier II/III issues, we will reduce categorical and overall tier II/III support issues.
+
+Risk: #2 seems most risky as there are unknowns around what we can potentially solve through automation. We may also be heavily dependent on other teams to build the automation or otherwise address these issues.
+
 
 ## Solution Approach
 
 _Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+- We are currently working on aggregating and mining tier II/III support issue data to identify issues which are most common and likely to be solved long-term.
+- We plan to fix isssues which can be easily resolved and develop automation for others which require it.
+- Developing automation seems to be more efficient long-term than continuing to fix issues one at a time at infinitum.
+- We have explicity decided not to include plans to work around issues where we have opportunities to fix them
+- Ideally, identifying common issues will allow us to develop best practices to help teams avoid these when building new software in the future. 
 
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
+- *Launch Date*: LIVE
 
 ---
 
@@ -90,6 +93,12 @@ _Link to the following materials as relevant._
 ### Stakeholders
 
 <details>
+  
+- Veteran Experience Office (VEO) contact center
+- IRIS contact center
+- National Contact Center (NCC)
+- VFS teams
+- Other VA.gov teams
 
 _What offices/departments are critical to make this initiative successful?_
 
