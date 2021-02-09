@@ -35,7 +35,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 **Mobile questions**
 
-*Note-these probably aren’t questions we’d ask outright, but more assess by behavior*
+* *Note-these probably aren’t questions we’d ask outright, but more assess by behavior*
 
 - Can people find what they need on mobile?
 - Does the page feel too long/like there is too much scrolling required to get to the information they need?
