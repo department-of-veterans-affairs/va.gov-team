@@ -1,17 +1,3 @@
-# VSP Product Outline Template
-
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
 # Contact Center Tier II/III Support
 
 ## Overview
