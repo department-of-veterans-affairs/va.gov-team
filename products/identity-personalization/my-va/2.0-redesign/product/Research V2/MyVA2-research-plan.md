@@ -45,7 +45,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - Can people find their disability rating? Did they notice it in the name tag?
 
 **Profile**
-- Where do you think the profile link goes?
+- Where do users think the profile link goes?
 - What do they think is the difference is between the profile vs. My VA?
 
 **Claims**
