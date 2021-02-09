@@ -39,14 +39,20 @@
 
 ### CLP
 
-- Training / guides. 
+- CLP "giving out the keys" process 
+  - Where do Training / guides fit into this? 
+- Character count on Benefits detail page intro field
+
+
+
+Covered Feb 9 asynchronously / on call about content model doc
+
 - Any further feedback on Content model changes documentation? 
 - Any more FE or Content support needed for CLP? 
   - Eg: Video bundle now has field_publication_date for CLP
 - Past events (for Outreach hub)
   - CMS team will build a tool to manually archive past events on prod, but this may not make it into next sprint ([4212](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4212)).  After that, we'll go ahead and archive past outreach events, and let that team know ([#4213](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4213))
   - CMS team will initiate a spike [4214](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4214) into how best to manage past events across CMS in an automatic way, and we will need product-specific feedback. 
-- Character count on Benefits detail page intro field
 
 ## Wednesday February 3
 
