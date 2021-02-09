@@ -17,7 +17,7 @@ Thanks for joining us today! My name is Laurel, and I also have some colleagues 
 
 Before we get started, I want to give you an idea of what this session will be like:
 
-- This entire session should take about 45 minutes
+- This entire session should take about 45 minutes or less
 
 - We’ll start the session with a couple warm up questions
 
@@ -106,7 +106,7 @@ You’ve decided you want to look for a facility that offers optometry in Califo
 
 ### Scenario
 
-View the VA facilities near you and tell me which location you would choose to visit. 
+Can you view the VA facilities in this list near you and tell me which location you would choose to visit?
 
 **Things to watch for**
 
