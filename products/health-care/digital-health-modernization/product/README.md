@@ -6,10 +6,16 @@
 ## Mission
 Define and execute first steps to make VA.gov and / or the flagship mobile app a viable front door for healthcare at the VA. 
 
-## Priorities
-- Demonstrate the VA can create uniqely valuable, thoughtfully-designed Veteran health experiences (in a way Cerner can not). 
+## Current Priorities
 - Make single-sign on work well between My HealtheVet (MHV) and VA.gov. 
+  - All identified product strategies need this to be true in order to succeed. 
+  - This also addresses a specific research insight. 
 - Make health tools more discoverable on VA.gov. 
+  - Product strategies A and, in the endgame, D need this to be true in order to succeed. 
+  - This also addresses a specific research insight.
+- Ship secure messaging MVP as part of the flagship mobile app launch. 
+  - This keeps our options open to pursue product strategy E (and was already in flight).
+- Create a health modernization council with the breadth of experience and power to select a strategy, or combination of stragies, we are committed to pursuing. 
 
 ## Why
 ### OCTO Priorities
