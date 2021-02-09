@@ -4,6 +4,8 @@
 
 The Design System Team mission statement is to provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA. 
 
+The VA Design System is the product that enables teams to build better products faster by providing design templates, reusable components, patterns and guidelines. 
+
 ## 
 
 ## Problem Statement
