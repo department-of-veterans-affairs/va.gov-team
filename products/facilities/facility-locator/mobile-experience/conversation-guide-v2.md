@@ -106,7 +106,7 @@ You’ve decided you want to look for a facility that offers optometry in Califo
 
 ### Scenario
 
-Can you view the VA facilities in this list near you and tell me which location you would choose to visit?
+Can you view the VA facilities in this list and tell me which location you would choose to visit?
 
 **Things to watch for**
 
