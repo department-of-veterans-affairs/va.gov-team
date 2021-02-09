@@ -72,8 +72,9 @@
 | [UI] User Research Sessions for Health Records | -- | #19586 |
 | [FE] Integration the Questionnaire List with the API| -- | #16574 |
 | [FE]  Pull in real appointment data for the quesitonnaire| -- | #16581 |
-| [FE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
-| [FE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
+| [BE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
+| [BE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
+| [BE]  Timline view of remaining work and dependencies | -- | # |
 
 
 ## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
