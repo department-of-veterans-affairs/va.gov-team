@@ -36,6 +36,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
   - Do you have any allergies or intolerances (such as dust mites, lactose intoleracet, or penicillin allergies)?
   - Have you had an immunization within the past two years (such as the flu shot)?
 - At least one person with an identified cognitive consideration of PTSD or TBI
+- At least one person must receive some of their medical care from providers outside of the VA
 
 **Good to have for participants**
 - At least 1 woman
