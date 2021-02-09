@@ -114,7 +114,5 @@ More Information can be found in the [Design Doc](https://github.com/department-
 
 - Engineering Lead: Michael Fleet
 - DEPO Lead: Dror Matalon
- 
-_What offices/departments are critical to make this initiative successful?_
- 
+  
 </details>
