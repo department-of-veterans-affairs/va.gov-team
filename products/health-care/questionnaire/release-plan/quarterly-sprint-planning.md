@@ -60,7 +60,7 @@
 | [Product] | -- | # |
 
 
-## Sprint 41 - Sprint Theme
+## Sprint 41 - Real Data via Lighhouse
 2/10/2021 - 2/23/2021
 - [Milestone 461](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/461)
 
@@ -72,7 +72,7 @@
 | [UI] User Research Sessions for Health Records | -- | #19586 |
 | [FE] Integration the Questionnaire List with the API| -- | #16574 |
 | [FE]  Pull in real appointment data for the quesitonnaire| -- | #16581 |
-| [FE]  QuestionnaireResponse creation use lighthouse appointment ID URL format -- | #19209| |
+| [FE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
 | [FE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
 
 
