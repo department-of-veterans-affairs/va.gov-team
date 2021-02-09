@@ -3,7 +3,7 @@
 **Author(s):** Brooks Johnson  
 **Last Updated:** January 13, 2021  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Chris Valarida_ [x], _Dror Matalon_ [ ], _Michael Fleet_ [ ]
+**Approvers:** _Chris Valarida_ \[ \], _Michael Fleet_ \[ \]
 
 
 ## Overview
@@ -268,14 +268,44 @@ defineCustomElements();
 
 #### Web Component in React app
 
-![image](./images/web-components/in_react.png)
+<details>
 
+  <summary>Web Component in React app</summary>
 
-#### Web Component in HTML
+  ```diff
+  diff --git a/src/applications/facility-locator/containers/FacilityLocatorApp.jsx b/src/applications/facility-locator/containers/FacilityLocatorApp.jsx
+index 5b7cd8ab94..f7adb69f26 100644
+--- a/src/applications/facility-locator/containers/FacilityLocatorApp.jsx
++++ b/src/applications/facility-locator/containers/FacilityLocatorApp.jsx
+@@ -65,6 +65,7 @@ class FacilityLocatorApp extends React.Component {
+ 
+     return (
+       <div>
++        <my-component first="John" last="Doe" />
+         <Breadcrumbs selectedFacility={selectedResult}>
+           {this.renderBreadcrumbs(location, selectedResult)}
+         </Breadcrumbs>
+  ```
+</details>
 
-![image](./images/web-components/in_html.png)
+<details>
 
+  <summary>Web Component in HTML</summary>
 
+  ```diff
+  diff --git a/src/site/includes/footer.html b/src/site/includes/footer.html
+index a75324e8a6..ae27e69e11 100644
+--- a/src/site/includes/footer.html
++++ b/src/site/includes/footer.html
+@@ -1,5 +1,6 @@
+ <div id="announcement-root"></div>
+ <footer class="footer" role="contentinfo">
++  <my-component first="John" last="Doe" ></my-component>
+   <div id="footerNav"></div> <!-- let's try this React thing -->
+ </footer>
+  ```
+
+</details>
 ### Revision History
 
 Date | Revisions Made | Author
