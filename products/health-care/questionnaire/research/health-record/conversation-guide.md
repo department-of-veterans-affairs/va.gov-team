@@ -49,8 +49,8 @@ To begin, we would like to get to know you a little better and understand your e
     - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever let your VA provider know about any changes to your allergy history?
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
-- Have you ever let your VA provider know about any immunizations that you received at a non-VA facility? 
-  - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
+- Have you ever received an immunization at a non-VA facility, maybe a non-VA provider's office or a pharmacy? 
+  - If yes, how did you let your VA provider know about those immunizations? How did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - _Only ask if necessary, depending upon how the Veteran answered the past three questions, if they didn't talk about their actual appointments with their providers._ How do you prepare for your appointment when you have changes you would like to discuss with your VA provider?
   - Observers: Take note if anyone mentions printing.
 - Do you utilize MyHealtheVet?
@@ -85,8 +85,8 @@ Lastly, we are going to do the same thing with allergies. Review all of the alle
 Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
 
 # Wrap-up Questions - 5 minutes
-- Pretend you developed a new medication allergy, such as you get a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section of the questionnaire?
-- How often do you expect to update each of these sections? Would you want to see these sections in a questionnaire before every VA appointment? Would you want to see these sections once every six months?
+- Pretend you developed a new medication allergy, such as a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section of the questionnaire?
+- How often do you expect to update each of these sections? Would you want to see these sections in a questionnaire before every VA appointment? Would you want to see these sections once every six months or some other time period?
 - If we could only build one of these topics into a pre-visit questionnaire, which one would you prefer? Would you pick medications, allergies, and immunizations?
   - Why?
 - Do you think adding these pages to a pre-visit questionnaire will help or not help you explain changes to your medications, allergies, and immunizations to your VA provider?
