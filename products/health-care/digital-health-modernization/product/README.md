@@ -60,7 +60,7 @@ This would be a good strategy if we feel we can do the most good for the most Ve
 4. Do qualitative user research and surveys on this experience — see if what we learn is "this would be less annoying if it didn't take me out of VA.gov)
 5. If we hear the above, build out a health home on VA.gov 
 
-### Strategy D: Iterate on My HealtheVet in place to ingest Cernet data and solve for specific Veteran needs
+### Strategy D: Iterate on My HealtheVet in place to ingest Cerner data and solve for specific Veteran needs
 This would be a good strategy if we believe that My HealtheVet's tech stack would allow it to happen (and could be the least disruptive option for Veterans and for the MHV team). 
 
 1. Migrate MHV accounts into something that works with single sign-on on VA.gov
@@ -68,7 +68,7 @@ This would be a good strategy if we believe that My HealtheVet's tech stack woul
 3. Lift and shift MHV into health.va.gov
 4. Iterate in place
 
-### Strategy E: Focus all effort on the mobile app to demonstrate a Veteran experience only the VA could delivery
+### Strategy E: Focus all effort on the mobile app to demonstrate a Veteran experience only the VA could deliver
 This would be a good strategy if we believe we need to focus our resources in order to demonstrate ANY viable portal, rather than trying to make two. Or if we think mobile is simply more useful to more Veterans. 
 
 1. Build messages, appointments, presecriptions and health records into the Flagship Mobile App, iteratively, after the app goes live
