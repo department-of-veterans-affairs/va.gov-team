@@ -50,6 +50,7 @@ Continuing with our same scenario, imagine that you&#39;re looking to talk to a 
 
 [narrate what the user did]
 
+[moderator restates one on one counseling prompt adding the word 'psychology']
 I would want to see it under &quot;mental health care.&quot; \*opened the tab\* Something that is missing is &#39;overall mental wellbeing&#39; because that affects our behavior, too. Getting your mind right for everyday life is different than grief or anger or other issues. There are times when counseling would be helpful for day-to-day life.
 
 Veterans come from different backgrounds so it could be good to have faith counselors available too.
