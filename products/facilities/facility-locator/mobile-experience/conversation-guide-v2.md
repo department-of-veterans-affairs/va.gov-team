@@ -58,7 +58,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "navigate" as I "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
-**User clicks on prototype and should be screensharing**
+**Participant clicks on prototype and should be screensharing**
 
 - Are you comfortable if I record my screen and audio as we talk today? The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. If for any reason and at any time you want to stop the session, please let me know.
 
@@ -89,7 +89,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
-- Is the user comfortable with letting VA.gov use their current location?
+- Is the participant comfortable with letting VA.gov use their current location?
 - Which dropdown option do they select?
 
 ## Second Task: Clear the location field, enter in a new location
@@ -100,7 +100,7 @@ You’ve decided you want to look for a facility that offers optometry in Califo
 
 **Things to watch for**
 
-- Can the user easily clear the location field?
+- Can the participant easily clear the location field?
 
 ## Third Task: Review VA location search results list view
 
@@ -112,7 +112,7 @@ Can you view the VA facilities in this list and tell me which location you would
 
 - What do you expect to see on the VA location card?
 - Is any information about the location missing?
-- Can the user easily scroll through results on the list view?
+- Can the participant easily scroll through results on the list view?
 
 ## Fourth Task: Review VA location search results map
 
@@ -137,11 +137,11 @@ Tell me which location you would choose to visit and why
 
 **Things to watch for**
 
-- Does the user know that more than one location can be viewed (swipe right)?
+- Does the participant know that more than one location can be viewed (swipe right)?
 - How do they interact with the map?
-- Does the user zoom/pan?
-- Does the user find that the map pins are interactive and find that they can be clicked to display a VA location card?
-- How would the user expect to dismiss the location cards?
+- Do they zoom/pan?
+- Does the participant find that the map pins are interactive and find that they can be clicked to display a VA location card?
+- How would the participant expect to dismiss the location cards?
 
 ## Fifth Task: Contact a VA Facility
 
