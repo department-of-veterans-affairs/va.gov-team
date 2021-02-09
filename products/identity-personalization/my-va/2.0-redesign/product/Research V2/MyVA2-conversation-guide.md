@@ -1,4 +1,4 @@
-# Conversation Guide for MyVA
+# Conversation Guide for MyVA (2)
 
 ## Moderator logistics
 
@@ -21,14 +21,14 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Tressa/Cassandra and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
+Thanks for joining us today! My name is Tressaand I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **We will be looking at prototypes today.** We are in the early stages of design for these pages, so this means most of the prototype will not be clickable, and the design is intentionally grayscale.
+- **We will be looking at prototypes today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -48,13 +48,7 @@ Before we start, a few things I want to mention:
     
 4. Do you currently, or have you ever, filed a claim or appeal with the VA?
     - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
-    
-Okay great, for this next question I'm going to share my screen really quick. *Moderator share screen with MyVA*
-
-5. Do you remember if you have ever used this page on va.gov?
-    - If yes: Do you remember what you did?
-    - If no: Not a problem at all.
- 
+     
 ## Logistics: figure out how to share your screen - 5 minutes
 
 - Confirm with the participant that they are using a mobile device with Zoom installed
@@ -83,296 +77,181 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
-**ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH PARTICIPANT**
-
 ## Intro
 
-Okay great.
+Great! Thank you. I'm going to share a link with you for the prototype we'll be looking at today. *share link*
 
-So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your recent updates as well as an overview of your health care, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
+Just as a reminder - all of the information in this prototype is completely made up. We will be logging in today as as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great.
 
-1. What information would you expect to be on your overview page?
+## First Task - Wayfinding and disability rating
 
-Any questions before we get started?
+Okay great, let's get started with a scenario. You've just come to va.gov and you are looking to see your personal disability rating. 
 
-Okay, so we are going to be comparing two versions of the same page. For the sake of the exercise, please imagine that all of the information shown on the page is your information. And just a reminder, these screens are intentionally grayscale.
+1. Without clicking on anything, can you walk me through how you would do that? 
 
-We are going to start with version (A or B), and I'll send you the link. *send link*
+    *If they look in the main nav or the 'Disability' box*
+    
+    1. Can you tell me why you would expect it to be there?
+    
+    *If they click on MyVA*
+     
+    1. Can you tell me why you would expect it to be there? 
+    2. If you were to click on MyVA, what information would you expect to be on that page?
 
-# VERSION A
+Great, thank you. If you could go ahead and click on MyVA in the top right hand corner. You've just landed on this page and you are looking to see your personal disability rating.
 
-Link: https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/437719085_myVA_Mobile_A
+1. Can you walk me through how you would do that?
+2. What would you expect to happen if you clicked on the disability rating link?
+3. Was it easy or hard to find your disability rating? Why?
+4. What was confusing about this experience?
 
-## First task: Claims scenario
+#### Things to watch for:
+
+- Can people find their disability rating?
+- Did they notice it in the nametag?
+
+## Second task: Health care
+
+# Messages
+
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see how many new messages you have from your health care team.
+
+1. Can you walk me through how you would do that?
+2. How many new messages do you have?
+3. Was it easy or hard to find your new messages?
+4. If you were to click on the link '2 unread messages', what would you expect to happen?
+5. If you were looking to send a message and you were on this page, what would you do?
+6. What is confusing about this section?
+7. What information is missing here?
+
+# Appointments
+
+Okay, we're now going to move on to another scenario. You've come to this page to see when your next appointment is.
+
+1. Can you walk me through how you would do that?
+2. How many appointments do you have total?
+3. Was it easy or hard to find your appointments?
+4. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
+5. If you were looking to schedule an appointment and you were on this page, what would you do?
+6. What is confusing about this section?
+7. What information is missing here?
+
+# Prescriptions
+
+Okay, now if you could imagine you've come to this page to check the refill status of your newest prescription.
+
+1. Can you walk me through how you would do that?
+2. Can you describe to me what you are looking at in this prescriptions section?
+3. Was it easy or hard to find your prescription refills?
+4. If you were to click on the link '3 prescription updates', what would you expect to happen?
+5. What does 'prescription update' mean?
+6. What is confusing about this section?
+7. What information is missing here?
+
+#### Things to watch for:
+
+- Did we correctly prioritize information in this section by featuring latest/most recent information? Or, are the CTAs into the tools and update totals more important?
+- Can they find “totals” information (i.e. 2 unread messages)? And does this information matter to them?
+- Do people understand the latest message (or upcoming appointment or most recent refill) is part of “2 unread messages” (or whatever total) or do they think it’s the latest message + 2 more unread messages (or whatever total)?
+- Do people understand they are looking at their most recent prescription refill update? Why do they think they are seeing this prescription vs. another prescription?
+- Do people understand how they can get more information about their messages/appointments/prescriptions?
+- Do people understand the CTAs will not take them directly to the latest or most recent information? Do they understand CTAs will take them to an overview page?
+- Are there other links, CTAs, or information that would be helpful to show in this section?
+
+## Third task: Claims scenario
 
 Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
 
 1. Could you walk me through how you would do that?
+2. Can you describe to me what you are seeing in this section?
 
-    *If they look for the update in the updates section:*
-
-    1. Why would you expect it to be in this section?
-    2. What information would you expect to see related to your claim?
-
-    *If they look for the update in the claims section:*
-
-    1. Why would you expect it to be in this section?
-   
-#### Things to watch for:
-
-- Does the user notice the updates section? 
-- Are they confused about where claims or claim status updates are located?
-- Does the user feel they are receiving enough information?
-
-## Second task: Health care scenario
-
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see when your next appointment is.
-
-1. Can you walk me through how you would do that?
-
-    *If they look for appointments in the updates section:*
-
-    1. Was it easy or hard to find your upcoming appointment?
-    2. Can you tell me why you think it would be in the updates section?
-
-    *If they look for appointments in the health care section:*
-
-    1. Was it easy or hard to find your upcoming appointment?
-    2. Can you tell me why you think it would be in the health care section?
-
-Okay great, thank you.
-
-#### Things to watch for:
-
-- Can the user easily find their appointments?
-- Is the user confused about anything within the health care section?
-- Does the user think there should be more or less information?
-- Does the user notice the links in the health care section?
-
-## Third task: Overview & Updates
-
-Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
-
-1. What are your overall thoughts about this page? 
-2. What is working? 
-3. What is not working?
-
-**Skip nametag area/disability rating if prototype is shown second**
-
-### Nametag area/disability rating
-
-1. If you clicked on the disability rating, where would you expect that to go?
-
-### Updates
-
-1. Can you describe to me what what you're looking at?
-2. What works well? 
-3. What doesn't work well?
-
-**Skip question 4-5 if prototype is shown second**
-
-4. What kind of updates would be helpful to you? 
-5. If you clicked on 'Go to all recent updates' where would you expect that to go?
-
-**Things to watch for:**
-
-- Does the user notice the disability rating?
-- Does the user notice the 'Go to all recent updates' section? 
-- Does the user understand what the updates are?
-- Does the user understand what clicking on an update would do?
-- Does the user understand the difference between the updates at the top and the sections below?
-
- **Skip claims, healthcare and benefits questions if prototype is shown second**
-
-### Claims
-
-1. What information would you expect to see related to your claims and appeals?
-2. What information is missing in this section?
-
-### Health care
-
-1. What information would you expect to see related to your health care here?
-2. What information related to your appointments do you expect to see on this page?
-3. What information related to your prescriptions do you expect to see on this page?
-4. What information related to your messages do you expect to see on this page?
-5. Can you look over all of the information shown here, is there anything that you would add?
-
-#### Things to watch for:
-
-- Can the user easily find their appointments?
-- Is the user confused about anything within the health care section?
-- Does the user think there should be more or less information?
-- Does the user notice the links in the health care section?
-
-### Benefit applications
-
-If you could go ahead and scroll down to the section that says 'Benefit applications'. 
-
-1. What information is the most important to see about your benefit applications?
-2. Do you find anything confusing at all?
-3. Is there any thing that you would add or change about the benefits section?
-
-#### Things to watch for:
-
-- Is the user confused that there is more information showing for the benefits section?
-- Can the user easily find the 'What benefits does the VA offer?' link?
-- Is the user confused by any of the information in the benefit application cards?
-
-
-**Transitioning between prototypes**
-
-Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
-
-# VERSION B
-
-Link: https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B
-
-## First task: Claims scenario
-
-Okay great. Go ahead and go back to the previous screen by clicking 'Claims and appeals' again. I'm now going to give you a scenario - imagine you are trying to view all of your claims in progress and you've just landed on this page.
+Okay, great. I have another scenario for you. You're looking to see all of your current claims and appeals and you've just landed on this page. 
 
 1. Could you walk me through how you would do that?
+2. How many claims or appeals do you have?
+3. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
+4. If you didn't have any claims or appeals in progress, what would you expect to happen?
+5. What is confusing about this section?
+6. What information is missing in this section?
+ 
+#### Things to watch for:
 
-    *If they look for their claims in progress in the claims updates section:*
+- Do they understand the featured claim is the most recently-updated claim?
+- Do they know how many claims and appeals they have total? Is this information helpful to them?
+- Do they know how to view the featured claim/all claims?
 
-    1. Why would you expect it to be in this section?
-    2. What information would you expect to see related to your claim?
+## Fourth task: Apply for Benefits
 
-    *If they look for their claims in progress in the claims section:*
+Imagine you were interested in applying for some more benefits at the VA.
 
-    1. Why would you expect it to be in this section?
+1. Could you walk me through how you would do that?
+2. Can you describe to me what you are seeing in this section?
+3. Why do you think these benefits are showing vs some other ones?
+4. If you had started an application, how would you finish and submit it?
+5. What is confusing about this section?
+6. What information is missing in this section?
 
 #### Things to watch for:
 
-- Does the user notice the updates section? 
-- Are they confused about where claims or claim status updates are located?
-- Does the user feel they are receiving enough information?
+- Do people understand that they are looking at applications that they’ve started but not yet submitted? Do they understand what “in progress” means?
+- Do people understand how to view an in-progress application?
+- Do people understand why we are showing certain benefits in “benefits you might be interested in”?
+- Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
+- Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
-## Third task: Health care scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.
+## Fifth task: Profile and MyVA
+
+Say you've landed on this page and you want to change your mailing address.
 
 1. Can you walk me through how you would do that?
-
-    *If they look for messages in the health care updates section:*
-
-    1. Was it easy or hard to find your new messages?
-    2. Can you tell me why you think it would be in the updates section?
-
-    *If they look for messages in the health care section:*
-
-    1. Was it easy or hard to find your new messages?
-    2. Can you tell me why you think it would be in the health care section?
-
-Okay great, thank you.
+2. If you clicked on the link to 'Go to profile', what would you expect to happen?
+3. What is the difference between this page and your profile?
 
 #### Things to watch for:
 
-- Can the user easily find their appointments?
-- Is the user confused about anything within the health care section?
-- Does the user think there should be more or less information?
-- Does the user notice the links in the health care section?
-- What information would you like to see on this page related to your appointments?
+- Where do users think the profile link goes?
+- What do they think is the difference is between the profile vs. My VA?
 
-## Third task: Overview & Updates
+## Sixth task: Overview and Comparison
 
-Without clicking on anything, go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
+# Overview
+
+Go ahead and scroll through this page from the top and walk me through your thoughts on each section, starting with where you see your name (Kimberly) in the blue box.
 
 1. What are your overall thoughts about this page? 
-2. What is working? 
-3. What is not working?
-
-### Nametag area/disability rating
-
-**Skip if prototype is shown second**
-
-1. If you clicked on the disability rating, where would you expect that to go?
-
-### Section overview
-
-1. Can you describe to me what what you're looking at?
-2. What kind of update would expect to see here?
-
-#### Things to watch for:
-
-- Does the user notice the disability rating?
-- Does the user notice the 'Go to all recent updates' section? 
-- Does the user understand what the updates are?
-- Does the user understand what clicking on an update would do?
-- Does the user understand the difference between the updates at the top and the sections below?
-
-Go ahead and click on claims and appeals.
- 
-### Claims
-
-1. Can you describe to me what what you're looking at?
-2. What works well? 
-3. What doesn't work well?
-
-**Skip question 4-7 if prototype is shown second**
-
-4. What kind of updates would be helpful to you? 
-5. If you clicked on 'Go to all recent updates' where would you expect that to go?
-6. What information would you expect to see related to your claims and appeals?
-7. What information is missing in this section?
-
-Go ahead and click on Health care.
-
-### Health care
-
-1. Can you describe to me what what you're looking at?
-
-**Skip question 2-6 if prototype is shown second**
-
-2. What information would you expect to see related to your health care here?
-3. What information related to your appointments do you expect to see on this page?
-4. What information related to your prescriptions do you expect to see on this page?
-5. What information related to your messages do you expect to see on this page?
-6. Can you look over all of the information shown here, is there anything that you would add?
-
-#### Things to watch for:
-
-- Can the user easily find their appointments?
-- Is the user confused about anything within the health care section?
-- Does the user think there should be more or less information?
-- Does the user notice the links in the health care section?
-
-**Skip benefit applications if prototype is shown second**
-
-### Benefit applications
-
-If you could go ahead and scroll down to the section that says 'Benefit applications'. 
-
-1. What information is the most important to see about your benefit applications?
-2. Do you find anything confusing at all?
-3. Is there any thing that you would add or change about the benefits section?
-
-#### Things to watch for:
-
-- Is the user confused that there is more information showing for the benefits section?
-- Can the user easily find the 'What benefits does the VA offer?' link?
-- Is the user confused by any of the information in the benefit application cards?
-
-**Transitioning between prototypes**
-
-Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
-
-## Comparison
-
-Thanks so much! If you could go ahead and stop sharing your screen. Let's take a look at versions A and B side-by-side.
-
-*Moderator shares screen and pulls up side by side screens*
-
-Link: https://vsateams.invisionapp.com/boards/AX415Z9VRDY/
-
-1. Overall, which prototype do you prefer? Why?
-2. Do you prefer to see updates at the top of the screen or collapsed in each section?
+2. What would you use this page for? 
 3. How did these pages meet your expectations? 
 4. How did these pages not meet your expectations?
-5. Do you think you would or would not use this page when you log in to VA.gov? Why?
-    - if no: What would make this page more useful to you?
-6. What would you call this page?
-7. Any other thoughts?
+5. What would make this page more useful to you?
+
+Imagine that this was now the first page that you saw directly after logging in.
+
+1. What additional features would you need for this to work as a homepage?
+
+
+# Comparison
+
+Thanks so much! If you could go ahead and stop sharing your screen, I'm going to show you a different version of MyVA.
+
+*Moderator shares screen and pulls up old MyVA*
+
+Link: 
+
+1. Do you remember if you ever used this version?
+    - (if yes) What did you do on here?
+    - (if no) What are your thoughts on these pages vs the pages we looked at earlier?
+2. Based on your experience, would you prefer to use the version we used today or this version? Why?
+3. How would this version be different?
+4. Any other thoughts?
+
+#### Things to watch for:
+
+- Did we correctly prioritize this page?
+- Is this page useful? 
+- Does it have the information and actions it needs?
+- Is there anything they expected to see on My VA that’s missing?
+
 
 ## Wrap-up and close
 
