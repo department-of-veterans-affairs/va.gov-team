@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [How to Detect Flaky Tests](#how-to-detect-flaky-tests)
+- [How to Identify the Point of Failure](#how-to-identify-the-point-of-failure)
 - [Call cy.injectAxe() When a New Page Loads](#call-cyinjectaxe-when-a-new-page-loads)
 - [Race Conditions](#race-conditions)
   - [`exist` and `be-visible`](#exist-and-be-visible)
@@ -28,6 +29,23 @@ for (let i = 0; i < 20; i += 1) {
     });
   });
 }
+```
+
+## How to Identify the Point of Failure
+
+Cypress does not give an accurate line number for the point of failure when running tests in headless mode using `cy:run`. In order to view the exact point at which the test failed, the test needs to be run in headed mode using `cy:open`. The Cypress browser panel will display a code block with the exact point of failure.
+
+Example:
+
+```javascript
+src/applications/coronavirus-vaccination/tests/e2e/signup.cypress.spec.js:18:29
+  16 |       // Intro page
+  17 |       cy.axeCheck();
+> 18 |       cy.get('.vads-l-row').contains(
+     |                             ^
+  19 |         'Stay informed about getting a COVID-19 vaccine at VA',
+  20 |       );
+  21 |       // Expand all Accordions with keyboard and test for A11y
 ```
 
 ## Call cy.injectAxe() When a New Page Loads
