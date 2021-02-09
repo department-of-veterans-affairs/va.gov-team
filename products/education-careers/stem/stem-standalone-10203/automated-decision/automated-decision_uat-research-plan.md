@@ -25,6 +25,8 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
+3 with Power of Attorneys
+
 3 Ineligible due to program type
 - You must have one of these free accounts:
    - A premium My HealtheVet account, or
@@ -37,6 +39,8 @@ As a designer I need to create a research plan to share with my team.	(This shou
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+- Do you have a Power of Attorney?
+
 
 3 Ineligible due to remaining entitlement
 - You must have one of these free accounts:
@@ -50,6 +54,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+- Do you have a Power of Attorney?
 
 2 Eligible 
 - You must have one of these free accounts:
@@ -64,6 +69,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+- Do you have a Power of Attorney?
 
 
 Please list your participant criteria in two categories-
