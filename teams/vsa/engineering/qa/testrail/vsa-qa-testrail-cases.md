@@ -52,6 +52,10 @@ When you click **Add Case** link, TestRail displays only a textbox for the Test 
 
 ![TestRail Test Cases stubbing-out screenshot][tr-test-cases-stubbing-out]
 
+### Copy Test Cases
+
+Another trick is to finish a Test Case, then copy it and update the copy.  Just drag an existing Test Case and drop it anywhere you like, then select **Copy** from the popup-menu.
+
 
 ### Use Markdown
 
