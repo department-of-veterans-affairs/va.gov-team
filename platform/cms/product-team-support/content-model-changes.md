@@ -63,6 +63,8 @@ Initial meetings between VFS Product team and CMS team will discover the answers
 
 Breaking changes occur when it’s more than one step from each team. For example: CMS team change, then FE change, then CMS change. 
 
+The critical aspect of this collaboration is to ensure that either CMS or FE is backwards compatible, so that the teams can collaborate asynchronously and let the other team know when they are done. 
+
 ### CMS / Product team steps
 
 1. All questions are answered and design models from above are completed.
