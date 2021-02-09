@@ -12,29 +12,28 @@ Designs have been created to support the additional functionality of identifying
 
 The goals of this user research study are to determine: 
 
-The usability differences between two representative workflow options.
-If the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers improved.
+- The usability differences between two representative workflow options.
+- If the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers improved.
 
 ### Research questions
 
 The research questions we want to address are: 
 
-Does one of the representative workflow options perform better than the other with regards to understandability, usability, and use of use?
-Are users confused by any particular aspect of the representative workflow?
-Does the current representative workflow stop users from completing the form?
-Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder cognitive understanding?
-Would a user upload a document from their mobile phone or only from a desktop computer?
-
+- Does one of the representative workflow options perform better than the other with regards to understandability, usability, and use of use?
+- Are users confused by any particular aspect of the representative workflow?
+- Does the current representative workflow stop users from completing the form?
+- Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder cognitive understanding?
+- Would a user upload a document from their mobile phone or only from a desktop computer?
 
 
 Our hypothesis: 
 
-Testing the two representative workflows will result in a clear choice between the options due to better understandability, usability and user preference.
+- Testing the two representative workflows will result in a clear choice between the options due to better understandability, usability and user preference.
 
-Users will be able to navigate through the form relatively easily, but may have issues with the following:
-the terminology/content might be confusing within the representative workflow
-the representative workflow might stop users (especially caregivers who are not legal representatives) from completing the form
-Knowing if a Veteran or caregiver should select the Primary Family Caregiver or Secondary Family Caregiver workflow 
+- Users will be able to navigate through the form relatively easily, but may have issues with the following:
+  - the terminology/content might be confusing within the representative workflow
+  - the representative workflow might stop users (especially caregivers who are not legal representatives) from completing the form
+  - Knowing if a Veteran or caregiver should select the Primary Family Caregiver or Secondary Family Caregiver workflow 
 
 ## Methodology 
 
@@ -51,38 +50,36 @@ We are looking for 13 participants, a mix of Veterans and caregivers.
 
 All participants must be yes to one of the following questions:
 
-Are you a caregiver to a Veteran?  (must recruit at least 6)
+- Are you a caregiver to a Veteran?  (must recruit at least 6)
 
 or
 
-Are you a Veteran who has a caregiver? (must recruit at least 2)
+- Are you a Veteran who has a caregiver? (must recruit at least 2)
 
 Answer must be yes for 5 participants: 
 
-Are you a Veteran’s legal representative? 
-
-If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. 
+- Are you a Veteran’s legal representative? 
+  - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. 
 
 **Good to have for participants**
-At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
-50% women, 50% men.
-50% people who identify as an ethnicity/race other Caucasian.
-At least 1 participant 35 or under and 1 participant over 55.
-At least one person that does not have a college degree (to include enlisted Vets)
-At least one person that has a college degree (to include of officer Vets)
-At least one person who lives in a rural or remote area
-At least one person who lives in a major metropolitan area
+
+- At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
+- 50% women, 50% men.
+- 50% people who identify as an ethnicity/race other Caucasian.
+- At least 1 participant 35 or under and 1 participant over 55.
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include of officer Vets)
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
 
 
 **Recruitment requirements**
  
-Half (6) must have a mobile device and be willing to be complete the test on said device
-Half of the mobile test participants (3) taking the test on an iOS mobile device
-Half of the mobile test participants (3) taking the test on an Android mobile device
-Half (6) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
-Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
-
-
+- Half (6) must have a mobile device and be willing to be complete the test on said device
+- Half of the mobile test participants (3) taking the test on an iOS mobile device
+- Half of the mobile test participants (3) taking the test on an Android mobile device
+- Half (6) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
+- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
 
 ## Timeline 
