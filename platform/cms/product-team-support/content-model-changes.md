@@ -71,10 +71,10 @@ Breaking changes occur when it’s more than one step from each team. For exampl
     2. Add feature flag set to FALSE
 3. ⚙ Populate with sample data unpublished.
 4. ⚙ Create demo environment
-    3. Publish sample data.
-    4. Set feature flag to TRUE
+    1. Publish sample data.
+    2. Set feature flag to TRUE
 5. 🌐 Use data from demo environment to create front end graphQL / Transformer and templates.  Put in draft 🌐 PR.
-    5. Wrap new template code and query/transformer in feature flag check (using a full if else so that it is clear what gets removed and what stays).
+    1. Wrap new template code and query/transformer in feature flag check (using a full if else so that it is clear what gets removed and what stays).
 6. ⚙Set demo environment to use 🌐 PR.
 7. Product owner approves based on the demo environment.
 8. 🌐 Merge 🌐 PR.
