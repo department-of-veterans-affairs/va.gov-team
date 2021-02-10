@@ -74,6 +74,8 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 ### My VA redesign
 
+Liz Lantz joins the team
+
 **PM**
 
 **Design**
@@ -103,6 +105,22 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 - Fixes from UAT
 
+### Preferred medical facility 
+
+**Design**
+
+- Onboard Liz
+- Plan discovery
+- Begin discovery, if time allows
+
+### Notification preferences
+
+**Design**
+
+- Onboard Liz
+- Plan discovery
+- Begin discovery, if time allows
+
 ## Sprint 43 (3/10 - 3/23)
 
 ### My VA redesign
@@ -129,6 +147,30 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 - Fixes from UAT, if needed
 
+### Preferred medical facility 
+
+**PM**
+
+- Schedule and hold design intent collab
+
+**Design**
+
+- Discovery
+- Begin design
+- Design intent collab
+
+### Notification preferences
+
+**PM**
+
+- Schedule and hold design intent collab
+
+**Design**
+
+- Discovery
+- Begin design
+- Design intent collab
+
 ## Sprint 44 (3/24 - 4/6)
 
 ### My VA redesign
@@ -150,6 +192,30 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 - Launch to 25%
 - Launch to 50%
 - Keep eBenefits updated on launch
+
+### Preferred medical facility 
+
+**PM**
+
+- Plan for usability test prep
+
+**Design**
+
+- Finish design
+- Research plan
+- Convo guide
+
+### Notification preferences
+
+**PM**
+
+- Plan for usability test prep
+
+**Design**
+
+- Finish design
+- Research plan
+- Convo guide
 
 ## Sprint 45 (4/7 - 4/20)
 
@@ -175,6 +241,36 @@ Prep for QA
 
 - Launch to 100%
 - Confirm date of retirement of feature on eBenefits
+
+### Preferred medical facility 
+
+**PM**
+
+- Hold usability test prep review
+
+**Design**
+
+- Recruit for research
+- Conduct research
+
+**FE**
+
+- Begin build
+
+### Notification preferences
+
+**PM**
+
+- Hold usability test prep review
+
+**Design**
+
+- Recruit for research
+- Conduct research
+
+**FE**
+
+- Begin build
 
 ## Sprint 46 (4/21 - 5/4)
 
@@ -204,6 +300,38 @@ QA!!
 
 - QA fixes, if applicable
 
+### Preferred medical facility 
+
+**PM**
+
+-
+
+**Design**
+
+- Finish research
+- Research write up
+- Update mocks
+
+**FE**
+
+- Continue build
+
+### Notification preferences
+
+**PM**
+
+-
+
+**Design**
+
+- Finish research
+- Research write up
+- Update mocks
+
+**FE**
+
+- Continue build
+
 ## Sprint 47 (5/5 - 5/18)
 
 ### My VA redesign
@@ -227,6 +355,36 @@ QA!!
 
 - Accessibility tests for staging review
 
+### Preferred medical facility 
+
+**PM**
+
+- Schedule and hold IA review
+
+**Design**
+
+- IA review
+- Final handoff to FE
+
+**FE**
+
+- Implement updates from testing
+
+### Notification preferences
+
+**PM**
+
+- Schedule and hold IA review
+
+**Design**
+
+- IA review
+- Final handoff to FE
+
+**FE**
+
+- Implement updates from testing
+
 ## Sprint 48 (5/19 - 6/1)
 
 ### My VA redesign
@@ -240,6 +398,26 @@ QA!!
 
 - UAT recruiting
 - UAT
+
+### Preferred medical facility 
+
+**QA**
+
+- Conduct QA
+
+**FE**
+
+- Updates from QA
+
+### Notification preferences
+
+**QA**
+
+- Conduct QA
+
+**FE**
+
+- Updates from QA
 
 ## Sprint 49 (6/2 - 6/15)
 
