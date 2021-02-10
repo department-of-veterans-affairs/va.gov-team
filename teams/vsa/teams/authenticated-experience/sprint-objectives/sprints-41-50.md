@@ -401,6 +401,15 @@ QA!!
 
 ### Preferred medical facility 
 
+**PM**
+
+- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+  - Analytics planning
+  - Meet with analytics 
+  - Oversee implementation
+- Start contact center guide
+
 **QA**
 
 - Conduct QA
@@ -410,6 +419,15 @@ QA!!
 - Updates from QA
 
 ### Notification preferences
+
+**PM**
+
+- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+  - Analytics planning
+  - Meet with analytics 
+  - Oversee implementation
+- Start contact center guide
 
 **QA**
 
@@ -432,6 +450,50 @@ QA!!
 
 - Fixes from UAT, if needed
 
+### Preferred medical facility 
+
+**PM**
+
+- Finish contact center updates
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+  - Prep
+  - Hold meeting
+- UAT go/no-go (before we kick off recruiting)
+
+**Design**
+
+- 508 checks required pre-staging review
+- UAT research plan
+- UAT conversation guide
+- UAT recruiting pending UAT go/no-go
+
+**FE**
+
+- 508 checks required pre-staging review
+
+### Notification preferences
+
+**PM**
+
+- Finish contact center updates
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+  - Prep
+  - Hold meeting
+- UAT go/no-go (before we kick off recruiting)
+
+**Design**
+
+- 508 checks required pre-staging review
+- UAT research plan
+- UAT conversation guide
+- UAT recruiting pending UAT go/no-go
+
+**FE**
+
+- 508 checks required pre-staging review
+
 ## Sprint 50 (6/16 - 6/29)
 
 ### My VA redesign
@@ -441,6 +503,47 @@ QA!!
 - Launch to 50%
 - Launch to 100%
 
+### Preferred medical facility 
+
+**PM**
+
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+
+**Design**
+
+- UAT
+
+**FE**
+
+- Fixes from UAT
+
+### Notification preferences
+
+
+**PM**
+
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+
+**Design**
+
+- UAT
+
+**FE**
+
+- Fixes from UAT
+
 ## Sprint 51 (6/30 - 7/13)
+
+### My VA redesign
+
+## Sprint 52 (7/14 - 7/27)
+
+### My VA redesign
+
+## Sprint 53 (7/28 - 8/10)
+
+### My VA redesign
+
+## Sprint 54 (8/11 - 8/24)
 
 ### My VA redesign
