@@ -73,7 +73,7 @@ The following failure was happening in Jenkins:
 
 The spec `spec/jobs/cypress_viewport_updater/google_analytics_reports_spec.rb` was causing another test to file, while the spec itself was passing. A most unusual interaction was occuring between spec files.
 
-In `spec/jobs/cypress_viewport_updater/google_analytics_reports_spec.rb` the statement `if (match = interaction.request.body.match(/^grant_type.+/))` replaced a line that started with `grant_type` in the request body with 'removed' in the resulting `spec/support/vcr_cassettes/cypress_viewport_updater/google_analytics_request_report.yml` VCR cassette file. The word 'removed' was encoded in `ASCII-8BIT`:
+In `google_analytics_reports_spec.rb` the statement `if (match = interaction.request.body.match(/^grant_type.+/))` replaced a line that started with `grant_type` in the request body with 'removed' in the resulting `spec/support/vcr_cassettes/cypress_viewport_updater/google_analytics_request_report.yml` VCR cassette file. The word 'removed' was encoded in `ASCII-8BIT`:
 
 ```
 [2] pry(#<Class>)> interaction.request.body
