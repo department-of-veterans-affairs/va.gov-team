@@ -24,11 +24,10 @@ There is a series of ASP files available for download from the Office of General
 
 ### Common parameters
 #### Individuals (Including reps listed in organizations)
+Attorneys and claims agents also have an accreditation date and POA code. All individuals may have phone numbers; often they are missing. Individual info includes:
 - First and last name
 - Location (City, state, ZIP)
 - Registration number
-
-Attorneys and claims agents also have an accreditation date and POA code. All individuals may have phone numbers; often they are missing.
 
 #### Organizations
 Organization entries include representatives and their information. Quite often the location of the indiviual rep is missing. The organizational info includes:
