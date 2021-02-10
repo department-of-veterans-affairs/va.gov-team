@@ -33,13 +33,14 @@ The goals of all of the following options are to (a) create a comprehensive and 
 
 ## Paths forward
 
+Both options would include **Socializing Platform Docs MVP2 to VFS teams:** The Content/IA team socialized The Home Page MVP in early 2020, but usage is still low.  We hypothesize that boosting familiarity and usage of Platform Docs will allow us to see more trends and... (next point)
+
 ### Option 1 (recommended by the Content/IA team): Create persona-based landing pages with exit page tracking to GH, instead of content transformation
 
 Migrate and apply tracking on the viable links from The Home Page MVP, creating landing pages following the personas from the customer segmentation research, to inform product-based IA.
 
 This allows us to:
 
-- **Re-socialize the Platform Documentation:** The Content/IA team socialized The Home Page MVP in early 2020, but usage is still low.  We hypothesize that boosting familiarity and usage of Platform Docs will allow us to see more trends and... (next point)
 - **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
 - **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to iterate on a Q2-and-beyond plan with VSP PMs.
 
