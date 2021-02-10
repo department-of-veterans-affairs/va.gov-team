@@ -1,6 +1,10 @@
 # Health Record Sync w/Dr. Kaeli Yuen- kaeli.yuen@va.gov
 Wed, Feb 10⋅
 
+## Key Takeaways
+* She suggests talking to Shane Elliott as someone who would understand the data, how it is stored, etc. (particularly COVID data).
+* Expressed concern for patient's ability to complete a BPMH (Best possible medication history) on their own. Talked about patients who bring their medication bottles into appointments to review with their provider. 
+
 ## Meeting Questions
 * Can you describe some of your experiences in patient care that we shoudl focus on for?
     * medications?
