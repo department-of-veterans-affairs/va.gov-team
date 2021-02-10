@@ -101,8 +101,11 @@ Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
 Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm
+Christian Valla available 11am-5pm
 Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm
+Christian Valla available 11am-5pm
 Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm
+Christian Valla available 11am-5pm
 
 - Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
 - Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
