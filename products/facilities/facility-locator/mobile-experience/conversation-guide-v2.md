@@ -79,7 +79,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
  
 ## Prototype - 35 minutes
 
-## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
+## 1st Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
 - You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 82 I St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
