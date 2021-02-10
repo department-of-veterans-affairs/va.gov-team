@@ -17,21 +17,24 @@ In order to do this, we must store a copy of the data when the user submits the 
 
 This copy will be created when the questionnaire is submitted. After a successful submission to PGD, the vets api will store a copy of the answers, demographics and appointment details in the Postgres database. This data will be encrypted and stored in its own database table with the following structure:
 
-```
-TODO: Fill this in
-```
+- Questionnaire Response Id
+- Appointment Id
+- Body (as JSON string) including Demographics,  Appointment and Questionnaire Response (as Blob)
+- Datetime Created
 
 ### Retrieving
 
 To retrieve the information, the front end will make a call to the back via a GET request that will look like
 
 ```
-GET /api/health_quest/v0/questionnaire_response?id=[questionnaire-id]
+GET /api/health_quest/v0/questionnaire_manager/print?id=[questionnaire-response-id]
 ```
 
 *NOTE: the url is not final*
 
 This call can be a long call, so a `generating PDF` message will show to the user. This API endpoint will return the PDF data ([API code sample](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/caregivers_assistance_claims_controller.rb#L29)). This call will return the a stream of data of the PDF
+
+questionnaire response id
 
 On the front end, once the data is received, then a `download link` will be shown. Once a user clicks that link a new window will open in the browser with the PDF available to be seen or downloaded. Relevant [FE code sample](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/components/SubmitError/DownloadLink.jsxhttps://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/components/SubmitError/DownloadLink.jsx)
 
@@ -39,10 +42,9 @@ On the front end, once the data is received, then a `download link` will be show
 
 ## Outstanding Questions
 
-- What does that table structure look like?
-- What kind of encryption are we using?
-- Is this okay from a legal perspective?
+- (Stephen) Is this okay from a legal perspective?
 - What is the time table for document storage to be ready?
+- Does PGD return the Questionnaire Response ID on creation?
 
 ## Tech Architecture - v2
 
@@ -57,3 +59,5 @@ We will move to using Lighthouse to store PDFs when the functionality is complet
 ## Migration from v1 to v2
 
 Migration shouldn't be that complex. A one-time run batch job to move the data to PGD would have to be run
+
+Once we get answer the questions answered, we will create tickets
