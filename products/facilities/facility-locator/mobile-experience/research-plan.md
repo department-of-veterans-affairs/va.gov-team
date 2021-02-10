@@ -40,9 +40,12 @@
 - What online maps/searches do these participants find easiest to use/why?
 
 
+=======
+
 **Method**
 - Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
 - Sessions will be remotely moderated via Zoom. 
+
 
 ## Risks and assumptions
 
@@ -50,21 +53,21 @@ This study:
 - will not test screen reader, keyboard or other Assistive Technology use; findings may not reveal problems that users with these technological constraints may encounter.
 - will use a prototype with a map that will differ in how a fully programmed website will behave when a user uses certain gestures to adjust the map. 
 
+## Method
+- Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
+- Sessions will be remotely moderated via Zoom. 
+
 ## Participants and Recruitment
 
 - We will utilize the Perigean contract for **recruiting and notetaking**.
 - We'd like to schedule 15 participants to reach our goal of observing **10 participants**. 
 
-## Participants:
-
-- We'd like to schedule 15 participants to reach our goal of 10 fulfilled sessions.
-
-
 ### Participant Criteria:
 
 **Primary Criteria**
 
-- Be a Veteran, active duty service member, reservist, or national guard member.
+- Participants must be a Veteran, active duty service member, reservist, or national guard member.
+- Participants must have a mobile device to run the study with
 
 **Secondary Criteria**
 
@@ -81,10 +84,12 @@ At least:
 - 2 participants with cognitive disabilities
 - 2 participants with a disability rating of 70% or greater
 
-## Recruitment Process
-- We'd like to schedule 15 participants to reach our goal of 10 fulfilled sessions.
-- Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
-- Perigean sends another recruitment email (if needed)
+## Recruitment Requirements
+* All participants must use a mobile device.
+* The participants have Zoom downloaded on their phone prior to the session
+* The participants know how to screen-share.
+
+We will not be able to accommodate non-sighted users due to the prototype technology.
 
 
 ## Timeline
@@ -93,8 +98,6 @@ At least:
 - Session length: 45 minutes
 - Preferred 15-30 min break between sessions
 - Christian Valla and Laurel Lawrence should be assigned 7-8 sessions each
-
-**Dates below are placeholders until participants are recruited and scheduled**
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
