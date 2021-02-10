@@ -95,7 +95,7 @@ At least:
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
-Tuesday, Feb 16 [PILOT] | Times TBD
+Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
 Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm
 Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm
 Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm
@@ -113,10 +113,15 @@ Please list the people who will be serving in each role.
 - Participant recruiting, screening, notetaking: Perigean
 - Project point of contact: Michelle Middaugh
 - Participant(s) for pilot test: 
-  -  Leyda
+  - Leyda Hughes, leyda.hughes@adhocteam.us
+  - Tressa Furner, tressa.furner@adhocteam.us
+  - Laurel Lawrence, laurel.lawrence@adhocteam.us
+  - Christian Valla, christian.valla@gmail.com
 
 - Observers: 
-  - TBD
+  - Shawna Hein, shawna@adhocteam.us
+  - Michelle Middaugh, michelle.middaugh@adhocteam.us
+  - Other Facility team members should be added here
 
 - Note-takers: Perigean 
 
