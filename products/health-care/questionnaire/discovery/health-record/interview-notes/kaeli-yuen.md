@@ -15,6 +15,7 @@ Wed, Feb 10⋅
     * Can you show us these items in CPRS?
 
 ### Immunizations
+* Chatbot- covid screener - FAQ about the viris. -When we met with you in June you had just wrapped up the chatbot screener- any new findigns worth noting? 
 * Can you describe how Covid shots are being tracked and if they are getting into the patient immuniztion list.
 * Is there a national repository for COVID shots?
 * How often is an immunization list updated for a veteran? 
