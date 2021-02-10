@@ -13,7 +13,7 @@
 
 ## Intro 
 
-Thanks for joining us today! My name is Laurel, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the nearest VA facility near you.
+Thanks for joining us today! My name is Laurel/Christian, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the nearest VA facility near you.
 
 Before we get started, I want to give you an idea of what this session will be like:
 
@@ -73,7 +73,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 - Can you tell me a little about yourself or your service history?
 - Have you used the VA website before?
-- If yes, what were you looking for?
+- If yes, what was the last thing you were doing or looking for on the site?
 - Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?
 - Have you visited a VA facility for healthcare in the past couple of years?
  
@@ -82,55 +82,36 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## First Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living in the Washington DC area. Can you walk me through how you would do this? Let me know when you’re done and which one you selected. 
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 82 I St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
 
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Is the participant comfortable with letting VA.gov use their current location?
 - Which dropdown option do they select?
+- Does the participant find/use the map tab?
 
-## Second Task: Clear the location field, enter in a new location
+### Follow up questions once the user has completed 1st task
 
+- I noticed you did x thing - tell me more about why you did this
+- Was there anything missing from this list of facilities?
 
-### Scenario
-You’ve decided you want to look for a facility that offers optometry near where your mom lives. I will give you her address - 821 St. SE, Washington, DC 20003.
+## 2nd Task: Review VA location search results map
 
-**Things to watch for**
+**[If they did go to the map view for task 1,]**
+- I noticed you went to the map view, let's go back to it and take a look again.
 
-- Does the participant prefer entering an address manually or sharing their location?
-- Can the participant easily clear the location field?
+**[If they didn’t go to the map view for task 1,]**
+- Ok did you see notice tab that says map? If so, why didn’t you tap on it? 
 
-## Third Task: Review VA location search results list view
-
-### Scenario
-
-Can you view the VA facilities in this list and tell me which location would be closest to you? What information do you expect to see for this location and tell me if anything is missing. Is there another way on this page that you can view locations near you?
-
-**Things to watch for**
-
-- Can the participant easily scroll through results on the list view?
-- Does the participant know which locations are closest to their location?
-- Can the participant find the map tab without assistance from the moderator?
-
-## Fourth Task: Review VA location search results map
-
-### Scenario
-
-**[If they find the map tab]**
-- Before you click on anything on the map, what do you expect to see next? OK go ahead and tap on it.
-
-**[If they don’t naturally go to the map view,]**
-- Ok did you see this tab that says map? If so, why didn’t you tap on it? 
-
-- Would a map be useful to you?
+- Is this map useful for you?
 - Compare the list view vs map, do you expect the information to be different?
 
 **Things to watch for**
 
 - Does the participant expect the information displayed for a VA location to be consistent or different in the list vs map tabs?
 
-## Fifth Task: Viewing more than one location on the map
+## 3rd Task: Viewing more than one location on the map
 
 ### Scenario
 
@@ -144,7 +125,7 @@ While you are in the map tab, can you show me how you would view more than one l
 - Does the participant find that the map pins are interactive and find that they can be clicked to display a VA location card?
 - How would the participant expect to dismiss the location cards?
 
-## Fifth Task: Contact a VA Facility
+## 4th Task: Contact a VA Facility
 
 ### Scenario
 You’ve chosen a VA location near you, what would you do next to make an appointment?
@@ -153,6 +134,16 @@ You’ve chosen a VA location near you, what would you do next to make an appoin
 
 - Are links for directions, dial phone numbers for each location on mobile useful for the participant?
 - Is this tool useful for you on a mobile device, in what scenarios would you use this? Driving in a car?
+
+## 5th Task: Clear the location field, enter in a new location
+
+### Scenario
+Now you’ve decided you want to look for a facility that offers optometry near where your mom lives in Sacramento, California. How would you do this?
+
+**Things to watch for**
+
+- Does the participant prefer entering an address manually or sharing their location?
+- Can the participant easily clear the location field?
 
 ## Post-Task Interview 
 
