@@ -23,6 +23,10 @@ There is a series of ASP files available for download from the Office of General
 ### Organizations
 
 #### HTML
+
+<details>
+   <summary>Expand code snippet</summary>
+   
 ```
 <TR>
    <td>Organization Name</td>
@@ -37,9 +41,15 @@ There is a series of ASP files available for download from the Office of General
    <td>Registration Num</td>
 </TR>
 ```
+</details>
+   
 ### Representatives
 
 #### HTML
+
+<details>
+   <summary>Expand code snippet</summary>
+  
 ```
 <TR>
    <td>Last Name</td>
@@ -51,10 +61,15 @@ There is a series of ASP files available for download from the Office of General
    <td>Phone</td>
 </TR>
 ```
+</details>
 
 ### Attorneys
 
 #### HTML
+
+<details>
+   <summary>Expand code snippet</summary>
+  
 ```
 <TR>
    <td>Last Name</td>
@@ -68,10 +83,14 @@ There is a series of ASP files available for download from the Office of General
    <td>Phone</td>
 </TR>
 ```
-
+</details>
 ### Claims Agents
 
 #### HTML
+
+<details>
+   <summary>Expand code snippet</summary>
+  
 ```
 <TR>
    <td>Last Name</td>
@@ -85,5 +104,6 @@ There is a series of ASP files available for download from the Office of General
    <td>Phone</td>
 </TR>
 ```
+</details>
 
 ---
