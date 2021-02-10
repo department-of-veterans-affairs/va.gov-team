@@ -15,8 +15,8 @@
 -    For the global blacklist, we're considering adding state names and territories so that queries including those would be filtered out of suggestions - we're doing some analysis on our end first, but will let you know if we move forward with implementing.
 - It sounds like the main use case is for the misspellings - I've added a correction for "ebenfits" to "ebenefits" as an example, so you should no longer see suggestions containing "ebenfits" show in typeahead. For these more site-specific corrections, feel free to pass over a list and we can evaluate and add! 
 
-** VA.gov: You mentioned that in order for us to get click tracking data for Best Bets, we need to invoke a module code – can you provide more specific details for that?**
+**VA.gov: You mentioned that in order for us to get click tracking data for Best Bets, we need to invoke a module code – can you provide more specific details for that?**
 - Here's a link to the API documentation that references Module Code as a parameter (https://open.gsa.gov/api/searchgov-clicks/) and here's the list of Module Codes: https://search.gov/manual/module-codes.html. 
 
-** VA.gov: Could we get an Excel download of our current Best Bets??**
+**VA.gov: Could we get an Excel download of our current Best Bets??**
 - Attached
