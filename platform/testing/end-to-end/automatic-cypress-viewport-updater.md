@@ -57,3 +57,49 @@ The `Cypress Viewport Updater Bot` GitHub App is owned by `@department-of-vetera
 Secrets for for the Google API Service Account and the GitHub App are stored in credstash. The Google Analytics settings are available in the `google_analytics_cvu` object in `config/settings.yml` and the GitHub settings are available in the `github_cvu` object in `config/settings.yml`. The settings are available in the `dev`, `staging`, `prod`, and `sandbox` environments.
 
 All sensitive Google API and GitHub settings that VCR normally records in each cassette `yml` file has been filtered out.
+
+## VCR Cassettes Was Manually Updated
+The following failure was happening in Jenkins:
+```
+[2021-02-09T22:12:49.377Z] Failures:
+[2021-02-09T22:12:49.377Z] 
+[2021-02-09T22:12:49.377Z]   1) EVSS::DisabilityCompensationForm::SubmitForm0781.perform_async with a successful submission job submits successfully
+[2021-02-09T22:12:49.377Z]      Failure/Error: if (match = interaction.request.body.match(/^grant_type.+/))
+[2021-02-09T22:12:49.377Z] 
+[2021-02-09T22:12:49.377Z]      ArgumentError:
+[2021-02-09T22:12:49.377Z]        invalid byte sequence in UTF-8
+[2021-02-09T22:12:49.377Z]      # ./spec/jobs/cypress_viewport_updater/google_analytics_reports_spec.rb:20:in `match'
+```
+
+The spec `spec/jobs/cypress_viewport_updater/google_analytics_reports_spec.rb` was causing another test to file, while the spec itself was passing. A most unusual interaction was occuring between spec files.
+
+In `spec/jobs/cypress_viewport_updater/google_analytics_reports_spec.rb` the statement `if (match = interaction.request.body.match(/^grant_type.+/))` replaced a line that started with `grant_type` in the request body with 'removed' in the resulting `spec/support/vcr_cassettes/cypress_viewport_updater/google_analytics_request_report.yml` VCR cassette file. The word 'removed' was encoded in `ASCII-8BIT`:
+
+```
+[2] pry(#<Class>)> interaction.request.body
+=> "removed"
+[3] pry(#<Class>)> interaction.request.body.encoding
+=> #<Encoding:ASCII-8BIT>
+```
+
+This caused the error `ArgumentError: invalid byte sequence in UTF-8` which is strange because the request body is supposed to be in encoded in `ASCII-8BIT`:
+
+```
+    body:
+      encoding: ASCII-8BIT
+```
+
+Various attempts to fix this error were tried but none were sucessful. It was finally decided to remove the filter and manually update the VCR cassette after it was generated.
+
+If the `google_analytics_request_report.yml` VCR cassette ever needs to be regenerated, open the file and manually remove the `jwt` token, the value for `grant_type`:
+
+```
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://www.googleapis.com/oauth2/v4/token
+    body:
+      encoding: ASCII-8BIT
+      string: grant_type
+```
