@@ -519,7 +519,6 @@ QA!!
 
 ### Notification preferences
 
-
 **PM**
 
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
@@ -534,13 +533,63 @@ QA!!
 
 ## Sprint 51 (6/30 - 7/13)
 
+### Preferred medical facility 
+
+**PM**
+
+- Hold go/no-go
+- Launch to 10%
+- Keep eBenefits updated on launch
+
+**FE**
+
+- Fixes from UAT, if needed
+
+### Notification preferences
+
+**PM**
+
+- Hold go/no-go
+- Launch to 10%
+- Keep eBenefits updated on launch
+
+**FE**
+
+- Fixes from UAT, if needed
+
 ### My VA redesign
 
 ## Sprint 52 (7/14 - 7/27)
 
+### Preferred medical facility 
+
+**PM**
+
+- Launch to 25%
+- Launch to 50%
+
+### Notification preferences
+
+**PM**
+
+- Launch to 25%
+- Launch to 50%
+
 ### My VA redesign
 
 ## Sprint 53 (7/28 - 8/10)
+
+### Preferred medical facility 
+
+**PM**
+
+- Launch to 100%
+
+### Notification preferences 
+
+**PM**
+
+- Launch to 100%
 
 ### My VA redesign
 
