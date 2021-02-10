@@ -126,9 +126,9 @@ A11y tickets are tickets we create on github to document accessibility issues an
 -   **Severity**, which captures how harmful or defective an issue is. For example, a defect level 0 means the issue may physically harm a Veteran.
 -   **Category**, which identifies the type of issue. For example, [KEYBOARD] means the issue is related to keyboard inaccessibility.
 -   **Point of contact**, which tells the team member which accessibility specialist wrote the ticket.
--   U**ser story**, which explains the issue and need concisely in a problem statement. For example, "as a keyboard user, I expect to be able to tab to the table of contents so that I can navigate easily through the page."
+-   **User story**, which explains the issue and need concisely in a problem statement. For example, "as a keyboard user, I expect to be able to tab to the table of contents so that I can navigate easily through the page."
 -   **Description**, which explains the "what" of the issue and its context.
--   A**cceptance criteria**, which explains to the team the required changes needed to close the issue. For example, "The table of contents is accessible by the tab key."
+-   **Acceptance criteria**, which explains to the team the required changes needed to close the issue. For example, "The table of contents is accessible by the tab key."
 -   **Environment**, which explains the tools and context in which the issue emerges. For example, you may list the screen reader and device used to spot the issue.
 -   **Steps to recreate**, which explains how a team member can recreate the issue step by step.
 -   **Solution**, which is an optional section to provide ways to resolve the issue. For example, "add a tab-index of "0" to the element."
