@@ -23,7 +23,7 @@
 - Give us runway to create a team and process with the breadth of experience and power to chart next steps (which will be all or some of expensive, disruptive and mutually-exclusive).
 
 ## Current Approach
-1. Pause to in/validate alignment within OCTO leadership on the above approach. 
+1. Pause to in/validate alignment within Office of the CTO (OCTO) leadership on the above approach. 
 2. Do the things in Current Initiatives (explained above).
 3. While doing that, gather information on MHV's structure, process, incentives and stack (we need this info no matter what).
 4. While doing that, stand up small teams to ship minimal appointments and prescriptions into the VA mobile app (this benefits Veterans, aids #3 and keeps us moving forward on demonstrating the VA can ship a viable patient portal while we think about where to go next). 
@@ -32,7 +32,7 @@
 7. Build, measure, learn — ad infinitum. 
 
 ### Why
-#### Office of the CTO (OCTO) Priorities
+#### OCTO Priorities
 - **Prevent Cerner from locking Veterans into an inferior experience:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
 - **Reduce Veteran-facing user experience (UX) fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
