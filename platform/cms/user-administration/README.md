@@ -7,10 +7,12 @@
 2. We acknowledge the request
 3. We make sure a Jira ticket exists
 4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
-5. If they need training, pass this information to Jane by assigning the ticket to her in Jira.
-    1. If they don’t have access, Jane can send them youtube training but we can’t give them training site access
-    2. If they do have access, Jane sends them other training materials and instructions them to follow up with their product owner/approver when training is completed.
-    3. Once Jane has their info, the initial ticket is DONE and can be closed.
+5. If they need training, pass this information to training by assigning the ticket to training in Jira.
+    1. If they don’t have access, training can send them youtube training but we can’t give them training site access
+    2. If they do have access, send training instructions, including following up with their product owner/approver when training is completed.
+    3. Once training has their info and creates their account, the initial ticket is DONE and can be closed.
+    	- Single users must be created in prod and training environment (in case there's a delay in refreshing training environment).
+	- User import for bulk upload into prod - ONLY after automated email issue has been resolved. *
 
 
 ## Process Overview - No Training Needed/Training Completed
@@ -20,7 +22,7 @@
 3. We make sure a Jira ticket exists
 4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
     1. If no training is needed per the product owner/approver, go to the next step.
-    2. If training is needed, assign the ticket to Jane. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
+    2. If training is needed, assign the ticket to training. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
 5. We’ll link it to the previous training request ticket if possible
 6. We’ll create the new user (per instructions section below) 
 7. We’ll notify the new user and resolve the ticket.
@@ -74,7 +76,7 @@ Some of these may already be part of the originating request, but need validatio
 
 ## Instructions for adding one user at a time
 
-### Method 1 (they sign in with PIV, then we edit their roles and sections)
+### Method 1 (they sign in with PIV, then we edit their roles and sections) - Not currently recommended
 
 1. Once prod account is requested and the request verified with product owner/approver, email them:
     1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
@@ -93,7 +95,7 @@ Some of these may already be part of the originating request, but need validatio
 
 OR
 
-### Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in)
+### Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in) - Currently recommended
 
 1. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
 2. In the top toolbar menu, click **Manage**.
