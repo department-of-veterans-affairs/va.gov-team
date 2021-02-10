@@ -129,8 +129,11 @@ Please list the people who will be serving in each role.
 - Observers: 
   - Shawna Hein, shawna@adhocteam.us
   - Michelle Middaugh, michelle.middaugh@adhocteam.us
-  - Other Facility team members
-
+  - Leyda Hughes, leyda.hughes@adhocteam.us
+  - Gibran Rodriguez, grodriguez@governmentcio.com
+  - Lance Sanchez, lsanchez@governmentcio.com
+  - Dave Conlon, david.conlon@va.gov
+  
 - Note-takers: Perigean 
 
 
