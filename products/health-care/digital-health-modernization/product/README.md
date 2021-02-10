@@ -1,11 +1,11 @@
-# Digital Health Modernization Strategy TL; DR
+# Digital Health Modernization Strategy
 - This document reflects the evolving understanding of the Digital Health Modernization Program Team (Aryeh, Emily, Leanna, Meg).
 - It values readability over comprehensive explanations.
 - It defines the first "phase" of integrating health with other transactional services and benefits Veterans access online. 
 
 ## Mission
-- Make VA healthcare easier for Veterans to find and use online. 
-- Prepare for VA-owned health tools to work for Veterans transparently irrespective of EHR. 
+- Make Veterans Affairs (VA) healthcare easier for Veterans to find and use online. 
+- Prepare for VA-owned health tools to work for Veterans transparently irrespective of electronic health record (EHR). 
 - Strive for the VA to retain ownership over key Veteran-facing digital health tools. 
 
 ### Why
@@ -27,13 +27,13 @@
 2. Do the things in Current Initiatives (explained above).
 3. While doing that, gather information on MHV's structure, process, incentives and stack (we need this info no matter what).
 4. While doing that, stand up small teams to ship minimal appointments and prescriptions into the VA mobile app (this benefits Veterans, aids #3 and keeps us moving forward on demonstrating the VA can ship a viable patient portal while we think about where to go next). 
-5. Present and refine recommended next steps with the health modernization council (recommendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2). 
+5. Present and refine recommended next steps with the health modernization council (recommendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2-5). 
 6. Set clear KPIs based on the result of previous step. 
 7. Build, measure, learn — ad infinitum. 
 
 ### Why
-#### OCTO Priorities
-- **Prevent Cerner from shipping an inferior Veteran experience:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
+#### Office of the CTO (OCTO) Priorities
+- **Prevent Cerner from locking Veterans into an inferior experience:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
 - **Reduce Veteran-facing user experience (UX) fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
 #### Veteran Research Insights 
