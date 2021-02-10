@@ -25,7 +25,7 @@
 * ~Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)~
 * Feedback on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)? 
 * fieldDate removed? If so, CMS will merge our PR. 
-* broken link checks in FE issues. 
+* broken link checks in FE PRs. 
 
 ## February 3 
 
