@@ -29,7 +29,7 @@
 ## Prerequisites
 
 
-## Access requested
+### Access requested
 
 Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account)
 
@@ -44,7 +44,7 @@ Ideally, the user would have requested their account following the instructions 
 *   Verify VA network access or SOCKS proxy
 *   Verify what training is needed, if any.
 
-## Questions for new user
+### Questions for new user
 
 *   What CMS-managed product will you be working on
     *   AKA: What VFS Product team are you on 
@@ -61,7 +61,8 @@ Ideally, the user would have requested their account following the instructions 
 
 	
 
-**Questions for Product owners or someone responsible for content/user governance for a product.** Some of these may already be part of the originating request, but need validation with PO. [The User administration view of the Product airtable](https://airtable.com/tblFDPzooEhiRdJZb/viwOAzxpLOz2hgOj8?blocks=hide ) contains relevant information for each product which may help guide these decisions. 
+### Questions for Product owners or someone responsible for content/user governance for a product.
+Some of these may already be part of the originating request, but need validation with PO. [The User administration view of the Product airtable](https://airtable.com/tblFDPzooEhiRdJZb/viwOAzxpLOz2hgOj8?blocks=hide ) contains relevant information for each product which may help guide these decisions. 
 
 *   What Sections should the new user have access to? 
 *   What Roles
@@ -73,7 +74,7 @@ Ideally, the user would have requested their account following the instructions 
 
 ## Instructions for adding one user at a time
 
-## Method 1 (they sign in with PIV, then we edit their roles and sections)
+### Method 1 (they sign in with PIV, then we edit their roles and sections)
 
 1. Once prod account is requested and the request verified with product owner/approver, email them:
     1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
@@ -92,7 +93,7 @@ Ideally, the user would have requested their account following the instructions 
 
 OR
 
-## Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in)
+### Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in)
 
 1. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
 2. In the top toolbar menu, click **Manage**.
@@ -114,12 +115,13 @@ OR
 18. Click the checkbox next to the appropriate section(s).
 19. Click **Save**.
 
+## External resources
 
-## Instructions for adding multiple users
+* Instructions for adding multiple users
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
 
-## Process workflow on Mural
+* Process workflow on Mural
 https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
 
-## Current spreadsheet of user list in training
+* Current spreadsheet of user list in training
 https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097
