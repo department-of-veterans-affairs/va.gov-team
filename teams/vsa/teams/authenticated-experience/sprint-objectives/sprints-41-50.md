@@ -538,7 +538,7 @@ QA!!
 **PM**
 
 - Hold go/no-go
-- Launch to 10%
+- Launch to 25%
 - Keep eBenefits updated on launch
 
 **FE**
@@ -550,7 +550,7 @@ QA!!
 **PM**
 
 - Hold go/no-go
-- Launch to 10%
+- Launch to 25%
 - Keep eBenefits updated on launch
 
 **FE**
@@ -565,31 +565,19 @@ QA!!
 
 **PM**
 
-- Launch to 25%
 - Launch to 50%
+- Launch to 100%
 
 ### Notification preferences
 
 **PM**
 
-- Launch to 25%
 - Launch to 50%
+- Launch to 100%
 
 ### My VA redesign
 
 ## Sprint 53 (7/28 - 8/10)
-
-### Preferred medical facility 
-
-**PM**
-
-- Launch to 100%
-
-### Notification preferences 
-
-**PM**
-
-- Launch to 100%
 
 ### My VA redesign
 
