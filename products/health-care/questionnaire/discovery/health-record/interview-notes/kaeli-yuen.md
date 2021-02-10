@@ -4,6 +4,8 @@ Wed, Feb 10⋅
 ## Meeting Questions
 * Can you describe some of your experiences in patient care that we shoudl focus on for?
     * medications?
+    - bring in all the meds with the bottles 
+    - imgages 
     * allergies?
     * immunizations?
 
@@ -18,6 +20,9 @@ Wed, Feb 10⋅
 * Chatbot- covid screener - FAQ about the viris. -When we met with you in June you had just wrapped up the chatbot screener- any new findigns worth noting? 
 * Can you describe how Covid shots are being tracked and if they are getting into the patient immuniztion list.
 * Is there a national repository for COVID shots?
+   - cards for veterans
+   - Immuization Visits -
+   - 
 * How often is an immunization list updated for a veteran? 
 * Does CPRS link health reminders/mainteance to immunization record? 
 
