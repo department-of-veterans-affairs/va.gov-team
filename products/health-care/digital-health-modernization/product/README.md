@@ -22,26 +22,14 @@
 - Keeps our options open to pursue a mobile-first modernization strategy — perhaps the highest-risk, highest-reward option. 
 - Give us runway to create a team and process with the breadth of experience and power to chart next steps (which will be all or some of expensive, disruptive and mutually-exclusive).
 
-## Current Strategy
+## Current Approach
 1. Pause to in/validate alignment within OCTO leadership on the above approach. 
 2. Do the things in Current Initiatives (explained above).
-3. While doing that, gather information on MHV's structure, process, incentives and stack.
-4. Present and refine recommended next steps with the health modernization council (recomendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2). 
-5. Set clear KPIs based on the result of #4. 
-6. Build, measure, learn — ad infinitum. 
-
-### Current Best Guess of What Will Actually Happen
-1. Pause to in/validate alignment within OCTO leadership on the above approach. 
-2. Begin transition MHV credential to ID.me and Login.gov (will take years to finish, perhaps months to get to the first real users). 
-3. Begin to modify VA.gov content to privilege calls to action over explanation (will take months, but will deliver tiny changes often — will lead to changes to page structure, site navigation and eventually flows / IA). 
-4. Ship minimal secure messaging with flagship mobile app (already happening). 
-5. Contingent on API availability, integrate secure message with Cerner so Veterans can message in any VA health secure message product for any facility (Veterans use secure message as a workaround to solve appointment and prescription problems already anyway). 
-6. Here we may learn that provider tools are no longer "cool opporutnity for eventually," more like "pay attention to this right now or break the provider UX so badly it will cripple health care delivery"
-7. Here be dragons. This is where we should know a lot more about whether or not Cerner takes over VA's patient portal. Let's say they do NOT:
-8. Stand up a team or teams to integrate Cerner data dowloads, appointments and prescriptions into existing VA products. This will almost certainly involve a ton of un-glorious work evolving MHV's stack and team process. 
-9. Harmonize MHV's style and nav with VA.gov
-10. Lift and shift from Veteran perspective
-11. Continue down the long path of getting MHV and VA.gov's stacks in closer alignment
+3. While doing that, gather information on MHV's structure, process, incentives and stack (we need this info no matter what).
+4. While doing that, stand up small teams to ship minimal appointments and prescriptions into the VA mobile app (this benefits Veterans, aids #3 and keeps us moving forward on demonstrating the VA can ship a viable patient portal while we think about where to go next). 
+5. Present and refine recommended next steps with the health modernization council (recommendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2). 
+6. Set clear KPIs based on the result of previous step. 
+7. Build, measure, learn — ad infinitum. 
 
 ### Why
 ### OCTO Priorities
@@ -144,6 +132,20 @@ Quarter-baked.
 This would be a good strategy if we care most about Veteran health outcomes, and the best way to ensure that is increasing the availability and quality of direct contact between Veterans and Providers. 
 
 Quarter-baked. This assumes we can do the most good for Veterans by increasing engagement with Providers by encouraging non-appointment interactions (ex., chat) and / or increasing Provider appointment throughput by removing technological barriers to doing Caregiver things instead of computer thing. Almost certainly mutually-exclusive expenditure of effort and focus to the directly Veteran-facing strategies, if we dig in here. Aryeh is doing some back-channel research into this. 
+
+### Current Best Guess of What Will Actually Happen
+1. Pause to in/validate alignment within OCTO leadership on the above approach. 
+2. Begin transition MHV credential to ID.me and Login.gov (will take years to finish, perhaps months to get to the first real users). 
+3. Begin to modify VA.gov content to privilege calls to action over explanation (will take months, but will deliver tiny changes often — will lead to changes to page structure, site navigation and eventually flows / IA). 
+4. Ship minimal secure messaging with flagship mobile app (already happening). 
+5. Contingent on API availability, integrate secure message with Cerner so Veterans can message in any VA health secure message product for any facility (Veterans use secure message as a workaround to solve appointment and prescription problems already anyway). 
+6. Here we may learn that provider tools are no longer "cool opporutnity for eventually," more like "pay attention to this right now or break the provider UX so badly it will cripple health care delivery"
+7. Here be dragons. This is where we should know a lot more about whether or not Cerner takes over VA's patient portal. Let's say they do NOT:
+8. Stand up a team or teams to integrate Cerner data dowloads, appointments and prescriptions into existing VA products. This will almost certainly involve a ton of un-glorious work evolving MHV's stack and team process. 
+9. Harmonize MHV's style and nav with VA.gov
+10. Lift and shift from Veteran perspective
+11. Continue down the long path of getting MHV and VA.gov's stacks in closer alignment
+
 
 ## WIP
 ### Comparison Placeholder
