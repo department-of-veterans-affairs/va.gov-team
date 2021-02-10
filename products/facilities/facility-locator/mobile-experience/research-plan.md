@@ -94,6 +94,7 @@ At least:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
+Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
 Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm
@@ -113,10 +114,10 @@ Please list the people who will be serving in each role.
 - Participant recruiting, screening, notetaking: Perigean
 - Project point of contact: Michelle Middaugh
 - Participant(s) for pilot test: 
+  - Jonathan Nelson, jonathan.nelson@adhocteam.us
   - Leyda Hughes, leyda.hughes@adhocteam.us
   - Tressa Furner, tressa.furner@adhocteam.us
   - Laurel Lawrence, laurel.lawrence@adhocteam.us
-  - Christian Valla, christian.valla@gmail.com
 
 - Observers: 
   - Shawna Hein, shawna@adhocteam.us
