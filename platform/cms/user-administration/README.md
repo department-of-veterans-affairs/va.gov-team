@@ -1,9 +1,7 @@
 # Create a new CMS user account in prod (CMS team user admins only)
 
 
-# Process Overview - Training Needed
-
-
+## Process Overview - Training Needed
 
 1. Request comes in (via email/slack/jira widget)
 2. We acknowledge the request
@@ -15,9 +13,7 @@
     3. Once Jane has their info, the initial ticket is DONE and can be closed.
 
 
-# Process Overview - No Training Needed/Training Completed
-
-
+## Process Overview - No Training Needed/Training Completed
 
 1. Request comes in (via email/slack/jira widget)
 2. We acknowledge the request
@@ -30,14 +26,12 @@
 7. We’ll notify the new user and resolve the ticket.
 
 
-# Prerequisites
+## Prerequisites
 
 
 ## Access requested
 
 Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account)
-
-
 
 *   Verify the user’s role
 *   Verify their request with product owner (DEPO POC)?
@@ -50,9 +44,7 @@ Ideally, the user would have requested their account following the instructions 
 *   Verify VA network access or SOCKS proxy
 *   Verify what training is needed, if any.
 
-Questions for new user
-
-
+## Questions for new user
 
 *   What CMS-managed product will you be working on
     *   AKA: What VFS Product team are you on 
@@ -69,9 +61,7 @@ Questions for new user
 
 	
 
-**Questions for Product owners** or someone responsible for content/user governance for a product. Some of these may already be part of the originating request, but need validation with PO. [The User administration view of the Product airtable](https://airtable.com/tblFDPzooEhiRdJZb/viwOAzxpLOz2hgOj8?blocks=hide ) contains relevant information for each product which may help guide these decisions. 
-
-
+**Questions for Product owners or someone responsible for content/user governance for a product.** Some of these may already be part of the originating request, but need validation with PO. [The User administration view of the Product airtable](https://airtable.com/tblFDPzooEhiRdJZb/viwOAzxpLOz2hgOj8?blocks=hide ) contains relevant information for each product which may help guide these decisions. 
 
 *   What Sections should the new user have access to? 
 *   What Roles
@@ -81,11 +71,9 @@ Questions for new user
 *   What training is needed? If training criteria for provisioning access is vague, should this be immediate? Pending training? Who is responsible for training the new user?
 
 
-# Instructions for adding one user at a time
+## Instructions for adding one user at a time
 
-**Method 1 (they sign in with PIV, then we edit their roles and sections) **
-
-
+## Method 1 (they sign in with PIV, then we edit their roles and sections)
 
 1. Once prod account is requested and the request verified with product owner/approver, email them:
     1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
@@ -102,11 +90,9 @@ Questions for new user
 10. In the **Sections **list, click the checkbox next to the appropriate section(s).
 11. Click **Save**.
 
-**OR**
+OR
 
-Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in) **
-
-
+## Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in)
 
 1. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
 2. In the top toolbar menu, click **Manage**.
@@ -124,11 +110,11 @@ Method 2 (we create their account, then we edit their roles and sections, then w
 14. In the top toolbar menu, click **Manage**.
 15. Click **People**.
 16. Find the user account you just created in the results list.
-17. In the user account line, under the **Sections **column, click **Edit**.
+17. In the user account line, under the **Sections** column, click **Edit**.
 18. Click the checkbox next to the appropriate section(s).
 19. Click **Save**.
 
 
-# Instructions for adding multiple users
+## Instructions for adding multiple users
 
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
