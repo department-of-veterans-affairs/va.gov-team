@@ -82,13 +82,13 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## 1st Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 82 I St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 821 St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
 
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Is the participant comfortable with letting VA.gov use their current location?
-- Which dropdown option do they select?
+- Which facility type dropdown option do they select?
 - Does the participant find/use the map tab?
 
 ### Follow up questions once the user has completed 1st task
@@ -148,8 +148,8 @@ Now you’ve decided you want to look for a facility that offers optometry near 
 ## Post-Task Interview 
 
 - What are your impressions of the list view versus the map view? Would you use one more than the other? Which might you use each view for?
-- About how many miles out would you want to see in the search results?
-- How much area of the map would you want to interact with?
+- When you are looking at the search results in the list view, what is the maximum number of miles out you'd like to see?
+- How large of an area of the map would you want to interact with?
 - Any questions for me? 
 
 ## Thank-You and Closing
