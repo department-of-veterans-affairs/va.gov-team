@@ -98,7 +98,7 @@ February 18, 2021 | 9:00am - 4:30pm EST
 February 19, 2021 | 9:00am - 5:30pm EST
 
 
-Pilot Session: February 12, 2021 | TBD
+Pilot Session: February 12, 2021 | 3:30 - 4:30 pm EST
   
 
 ## Team Roles	
@@ -107,7 +107,7 @@ Pilot Session: February 12, 2021 | TBD
 - Research guide writing and task development (usually but not always same as moderator):	Jonathan Nelson (jonathan.nelson@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jonathan Nelson (jonathan.nelson@adhocteam.us)
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Laurel Lawrence (Laurel.Lawrence@adhocteam.us)
 - Note-takers:TBD
 - Observers: Alayna Abel (alayna@adhocteam.us), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
 
