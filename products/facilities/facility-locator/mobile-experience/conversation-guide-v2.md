@@ -73,8 +73,11 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 - Can you tell me a little about yourself or your service history?
 - Have you used the VA website before?
+\\\**reviewer comments: Recommend specifying va.gov if you're looking for feedback on va.gov. Veterans may think "The VA website" refers to EBenefits or MyHealtheVet**\\\
 - If yes, what was the last thing you were doing or looking for on the site?
-- Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?
+- ~Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?~
+\\\**reviewer comments - there are too many questions in this question - break it up**\\\
+- Have you ever tried to find a VA facility using the va.gov website on your computer? How about a mobile phone? 
 - Have you visited a VA facility for healthcare in the past couple of years?
  
 ## Prototype - 35 minutes
@@ -82,19 +85,23 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## 1st Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 821 St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 821 \\\reviewer comment - is there a letter or number missing here??\\\ St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
 
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Is the participant comfortable with letting VA.gov use their current location?
+\\\**reviewer comment - would their current location work for this study? Above you instructed the participant to pretend they live at 821 ??? St SE in DC. Your participant may be anywhere in the country, and if they use location services, that could be confusing for them.**\\\
 - Which facility type dropdown option do they select?
 - Does the participant find/use the map tab?
 
 ### Follow up questions once the user has completed 1st task
 
-- I noticed you did x thing - tell me more about why you did this
-- Was there anything missing from this list of facilities?
+- I noticed you (fill in the blank) - tell me more about why you did this
+\\**How are you using this question? To identify something that that the participant did that you were not expecting? Be careful not to phrase it in a way that would make the participant feel as though they did something wrong.**\\
+- ~Was there anything missing from this list of facilities?~
+\\**How are you using this question? Will a participant know what is missing?**\\
+- Was there any information that you were expecting to see in this list of facilities that you did not see? 
 
 ## 2nd Task: Review VA location search results map
 
@@ -102,10 +109,13 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 - I noticed you went to the map view, let's go back to it and take a look again.
 
 **[If they didn’t go to the map view for task 1,]**
-- Ok did you see notice tab that says map? If so, why didn’t you tap on it? 
+- Ok did you see notice tab that says map? If so, why didn’t you tap on it? Would you please tap on it now? 
 
-- Is this map useful for you?
-- Compare the list view vs map, do you expect the information to be different?
+- \\\**reviewer comments: Are you going to have them open the map view before you ask them this question? In the case where they did not notice it in the prior task, you have not yet given them the instruction to look at it.**\\\ Is this map useful for you?
+- Compare the list view vs the map view. Talk out loud/tell us what you notice. 
+ - if they do not notice: Is the information presented differently? 
+
+\\\**reviewer comments: recommend not priming the participant to comment on differences first. See if they notice differences and comment on them.**\\\
 
 **Things to watch for**
 
@@ -116,6 +126,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ### Scenario
 
 While you are in the map tab, can you show me how you would view more than one location near you?
+\\\**Reviewer comment: I'm not sure if I would understand what you are asking me to do here. recommend clarifying this ask. Maybe: "Can you show me how you would view all of the locations near you?" If you want them to interact with the map and try different locations, you should give them that instruction. **\\
 
 **Things to watch for**
 
@@ -123,17 +134,23 @@ While you are in the map tab, can you show me how you would view more than one l
 - How do they interact with the map?
 - Do they zoom/pan?
 - Does the participant find that the map pins are interactive and find that they can be clicked to display a VA location card?
-- How would the participant expect to dismiss the location cards?
+- How would the participant dismiss the location cards?
+
+
 
 ## 4th Task: Contact a VA Facility
 
 ### Scenario
-You’ve chosen a VA location near you, what would you do next to make an appointment?
+Choose one of the locations near you. What would you do next to make an appointment at that location?
+- if needed: is there any information available on this view that would help you make an appointment? 
+
+- Can you see yourself using this tool on your mobile phone? 
+- If YES: When might you you use this locator on your phone? 
+\\\**reviewer comment - i HOPE they are not using this while driving in a car! Also - don't fill their mouths with the answer you are expecting.**\\\
 
 **Things to watch for**
 
 - Are links for directions, dial phone numbers for each location on mobile useful for the participant?
-- Is this tool useful for you on a mobile device, in what scenarios would you use this? Driving in a car?
 
 ## 5th Task: Clear the location field, enter in a new location
 
@@ -143,14 +160,20 @@ Now you’ve decided you want to look for a facility that offers optometry near 
 **Things to watch for**
 
 - Does the participant prefer entering an address manually or sharing their location?
+\\\**Moderator note: If they are sharing their location, you will likely NOT get pinned to Sacramento. You will get pinned to wherever the participant is. This may be confusing for them. If you are looking to test both the address lookup function and the "share my location" function, maybe don't give them a specific place, and let them look near where they are. Else, I wouldn't expect to be able to use the share my location function effectively in this study. **\\\
 - Can the participant easily clear the location field?
 
 ## Post-Task Interview 
 
-- What are your impressions of the list view versus the map view? Would you use one more than the other? Which might you use each view for?
-- When you are looking at the search results in the list view, what is the maximum number of miles out you'd like to see?
+- What are your impressions of the list view versus the map view? 
+- When might you use the list view? 
+- When might you use the map view? 
+- Do you have a preference? 
+- When you are looking at the search results in the list view, how far is too far? Fill in the blank for me: "I wouldn't want to see anything on a list that is further than ___ miles?"
 - How large of an area of the map would you want to interact with?
-- Any questions for me? 
+\\\**As phrased, these are really hard questions to answer. What dimension would they be able to give a response in?**\\\
+- When you are looking at the search results in the map view, is it helpful to see your neighborhood? Your whole town? Your county? Your state? 
+- What other questions do you have? 
 
 ## Thank-You and Closing
 
