@@ -42,6 +42,25 @@ There is a series of ASP files available for download from the Office of General
 </TR>
 ```
 </details>
+
+<details>
+   <summary>Expand organization example</summary>
+  
+```
+<TR>
+   <TD>American Legion</TD>
+   <TD>'074</TD>
+   <TD>202-861-2700</TD>
+   <TD>Washington </TD>
+   <TD>DC</TD>
+   <TD>Abel, Jami M</TD>
+   <TD>Painesville</TD>
+   <TD>OH</TD>
+   <TD>'44077-0490</TD>
+   <TD>102</TD>
+</TR>
+```
+</details>
    
 ### Representatives
 
@@ -59,6 +78,22 @@ There is a series of ASP files available for download from the Office of General
    <td>State</td>
    <td>Zip</td>
    <td>Phone</td>
+</TR>
+```
+</details>
+
+<details>
+   <summary>Expand representative example</summary>
+  
+```
+<TR>
+   <TD>Smith</TD>
+   <TD>William</TD>
+   <TD>13457</TD>
+   <TD>Memphis</TD>
+   <TD>TN</TD>
+   <TD>'38104</TD>
+   <TD>901-523-8990x 1-2647</TD>
 </TR>
 ```
 </details>
@@ -84,6 +119,25 @@ There is a series of ASP files available for download from the Office of General
 </TR>
 ```
 </details>
+
+<details>
+   <summary>Expand attorney example</summary>
+  
+```
+<TR>
+   <TD>Smith</TD>
+   <TD>Krystal</TD>
+   <TD>3/19/2015</TD>
+   <TD>34340</TD>
+   <TD>C27</TD>
+   <TD>Spartanburg</TD>
+   <TD>SC</TD>
+   <TD>'29302</TD>
+   <TD>864-376-3633</TD>
+</TR>
+```
+</details>
+
 ### Claims Agents
 
 #### HTML
@@ -102,6 +156,24 @@ There is a series of ASP files available for download from the Office of General
    <td>State</td>
    <td>Zip</td>
    <td>Phone</td>
+</TR>
+```
+</details>
+
+<details>
+   <summary>Expand claims agent example</summary>
+  
+```
+<TR>
+   <TD>Smith</TD>
+   <TD>Asia</TD>
+   <TD>12/17/2010</TD>
+   <TD>18779</TD>
+   <TD>4S6</TD>
+   <TD>Jonesboro</TD>
+   <TD>GA</TD>
+   <TD>'30238</TD>
+   <TD></TD>
 </TR>
 ```
 </details>
