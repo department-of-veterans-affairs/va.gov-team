@@ -3,7 +3,8 @@
 ## Goals
 - Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users
 - Understand how industry standards impact Veteran expectations for the Facility Locator search experience
-- Evaluate new designs created for geolocation and map view
+- Evaluate new designs created for geolocation, map view, and clear fields
+- Validate if veterans are interested in using the map view of the Facility Locator (validate findings in the mobile month study) 
 
 ## Background 
 
@@ -33,9 +34,11 @@
 - Will Veterans notice/understand the Geolocation functionality?
 - Do Veterans using a mobile device prefer to view results on the map or in a list?
 - Do Veterans expect to find detailed information on the map view?
+- Do veterans know how to bring up the detailed information for each location?
 - Does the information presented for a given facility match expectations?
   -  Does the Veteran understand how to find more detailed information about the facilities returned?
 - What online maps/searches do these participants find easiest to use/why?
+
 
 **Method**
 - Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
