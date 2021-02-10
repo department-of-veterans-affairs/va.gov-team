@@ -91,7 +91,8 @@ At least:
 
 - Study dates: Feb 17-19th 2021
 - Session length: 45 minutes
-- Preferred 30 min break between sessions
+- Preferred 15-30 min break between sessions
+- Christian Valla and Laurel Lawrence will be assigned 7 sessions each
 
 **Dates below are placeholders until participants are recruited and scheduled**
 
@@ -100,12 +101,12 @@ Date | Time in Eastern | Slots
 Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
-Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm | TBD
-                  | Christian Valla available 11am-5pm
-Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm | TBD
-                 | Christian Valla available 11am-5pm
-Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm | TBD
-               | Christian Valla available 11am-5pm
+Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm | 4
+Wednesday, Feb 17 | Christian Valla available 11am-5pm | 5
+Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm | 3
+Thursday, Feb 18 | Christian Valla available 11am-5pm | 5
+Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm | 3
+Friday, Feb 19 | Christian Valla available 11am-5pm | 5
 
 - Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
 - Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
