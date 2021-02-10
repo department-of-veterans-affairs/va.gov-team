@@ -22,6 +22,16 @@ There is a series of ASP files available for download from the Office of General
 - Attoryneys
 - Claims agents
 
+### Common parameters
+#### Individuals
+- First and last name
+- Address (City, state, ZIP)
+- Phone (often missing)
+- Registration number
+
+Attorneys and claims agents also have an accreditation date and POZ code.
+
+
 ### Organizations
 
 #### HTML
