@@ -88,7 +88,6 @@ After teams launch products, we are expected to run a full a11y audit to make su
 
 In-progress audits include:
 
--   [Benefits Delivery at Discharge - May 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9081), Josh Kim
 -   [eBenefits PCPG Chapter 36 - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14449), Josh Kim
 
 VA Medical Center audits include:
