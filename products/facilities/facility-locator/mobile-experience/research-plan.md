@@ -59,7 +59,7 @@ This study:
 
 ## Participants and Recruitment
 
-- We will utilize the Perigean contract for **recruiting and notetaking**.
+- We will utilize the Perigean contract for **recruiting and verbatim notetaking**.
 - We'd like to schedule 15 participants to reach our goal of observing **10 participants**. 
 
 ### Participant Criteria:
