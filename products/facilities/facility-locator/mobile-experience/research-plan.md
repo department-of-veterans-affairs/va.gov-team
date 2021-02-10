@@ -92,7 +92,7 @@ At least:
 - Study dates: Feb 17-19th 2021
 - Session length: 45 minutes
 - Preferred 15-30 min break between sessions
-- Christian Valla and Laurel Lawrence should be assigned 7 sessions each for a total of 14 slots
+- Christian Valla and Laurel Lawrence should be assigned 7-8 sessions each
 
 **Dates below are placeholders until participants are recruited and scheduled**
 
@@ -129,7 +129,7 @@ Please list the people who will be serving in each role.
 - Observers: 
   - Shawna Hein, shawna@adhocteam.us
   - Michelle Middaugh, michelle.middaugh@adhocteam.us
-  - Other Facility team members should be added here
+  - Other Facility team members
 
 - Note-takers: Perigean 
 
