@@ -12,9 +12,9 @@
 - So that in the future, we can design for Veterans' needs that cut across "health" and "benefits" and may not fit neatly into distinct products. 
 
 ## Current Initiatives
-- Make single-sign on work well between My HealtheVet (MHV) and VA.gov. 
-- Make health tools more discoverable on VA.gov. 
-- Ship secure messaging MVP as part of the flagship mobile app launch. 
+- Identity consolidation between My HealtheVet (MHV) and VA.gov in collaboration with Identity and MHV teams. 
+- Make health tools more discoverable on VA.gov in collaboration with Content and Public Website teams. 
+- Ship secure messaging MVP as part of the flagship mobile app launch in collaboration with Mobile and MHV teams. 
 - Create a council with the breadth of experience and power to shape and enforce a broader health modernization plan.  
 
 ### Why
