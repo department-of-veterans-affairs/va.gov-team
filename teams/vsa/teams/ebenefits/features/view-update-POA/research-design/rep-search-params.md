@@ -10,8 +10,10 @@
 ### Current search implementations
 
 #### Office of General Counsel
+- Link to OGC [Accreditation Search page](https://www.va.gov/ogc/apps/accreditation/index.asp)
 
 #### eBenefits
+- Link to eBenefits [Manage Your Representative for VA Claims](https://www.ebenefits.va.gov/ebenefits/vso-search) (Must be logged-in to search)
 
 ## Available data
 There is a series of ASP files available for download from the Office of General Counsel (OCG) search page. Each of these is a HTML table listing all available organizations and individuals within its particular group:
