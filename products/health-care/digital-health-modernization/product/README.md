@@ -99,7 +99,7 @@ Only surface big problems here. Risks in order of @aryeh-usds's judgement of sev
 3. Do we have evidence, or a way to get evidence, that doing this will dissuade anyone of letting Cerner take over the VA's patient portal? 
 
 ### Value
-4. Currently our approach is more about preserving (one good place on web to do health transactions) than adding value. The biggest risk here is that's very abstract to users, who may need a carrot to deal with the stick of us moving their cheese. Designing around user journeys may be the carrot. The carrot may be too big for this first phase of work. 
+4. Some strategies propose massive expensive – in time, money and disruption to Veterans – but may add little immediate value to Veterans given overall contentmeny with MHV. 
 
 ### Feasibility
 5. Engineering is a blind spot. There are many ways to handle making MHV and VA.gov feel, or actually be, more cohesive, that could eventually look the same to end users. However they could differ by many person-years of effort, and by specific technical risks. This is probably the first risk to tackle because it will inform both the value risk (by telling us which parts of the system are least problematic to change) and viability risk (by telling us something about how many people / how much time is the floor for making progress).
@@ -108,7 +108,7 @@ Only surface big problems here. Risks in order of @aryeh-usds's judgement of sev
 6. Major concern on the Clinician side. We know little of their world or how changes might affect them. Ultimately Veterans get value from this tech stack because it connects them with Clinicians. This is a big piece of the puzzle we should explore.
 7. Are there known statutory, regulatory, policy and / or guidance-based reasons transactional notifications (ex., you have a new secure emssage) must be opt-in instead of opt-out? (They are currently opt-in)
 
-## Metrics
+## Outcomes
 Quarter-baked. 
 
 - An actual patient health outcome
@@ -118,6 +118,7 @@ Quarter-baked.
 - Proportion of MHV users who could follow a link into VA.gov (or the flagship app) without needing to login again
 
 # Appendix
+
 ## Problems with this Approach / Document / Strategy
 - Goals are fuzzy per strategy. What are we really trying to do, here, for Veterans? 
 - Does not lay out link between insight -> constraint -> approach in a way a business analyst might (product strategy lead believes that would be jousting at windmills to try given the complexity of the domain, though there has been demand for this)
