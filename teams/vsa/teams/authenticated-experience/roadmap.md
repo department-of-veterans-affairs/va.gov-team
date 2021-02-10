@@ -38,7 +38,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |----|----|----|----|----|----|----|
 |**My VA redesign**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
-|**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | On hold due to resourcing | Design; User testing; FE build | QA; pre-launch; launch | — |
+|**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | On hold due to resourcing | Design; testing; FE build; QA | Pre-launch; launch | — |
 |**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | ? |
 |**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements (View Payment History; Debt Letters) | — |
 
