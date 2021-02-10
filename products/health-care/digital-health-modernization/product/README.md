@@ -32,11 +32,11 @@
 7. Build, measure, learn — ad infinitum. 
 
 ### Why
-### OCTO Priorities
+#### OCTO Priorities
 - **Prevent Cerner from shipping an inferior Veteran experience:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
 - **Reduce Veteran-facing user experience (UX) fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
-### Veteran Research Insights 
+#### Veteran Research Insights 
 - **Veterans and caregivers don’t go to VA.gov to do health tasks.** They have worked hard to learn the fragmented VA digital landscape, and they go directly to MHV because it enables them to complete most of their health tasks. Participants who did demonstrate or describe managing benefits on VA.gov did so in the context of disability or education benefits –– not health. 
 
 > “[VA.gov] usually ends up kicking me to another website, so I go to the primary website to start with.” – P11-A
