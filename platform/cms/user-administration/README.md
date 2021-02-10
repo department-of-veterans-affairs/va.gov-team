@@ -108,25 +108,25 @@ Method 2 (we create their account, then we edit their roles and sections, then w
 
 
 
-12. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
-13. In the top toolbar menu, click **Manage**.
-14. Click **People**.
-15. Click **Add user**.
-16. On the **Roles** page, click the checkbox(es) next to the appropriate role(s).
-17. After **Email address**, enter the user’s VA.gov email address. _Make sure this is the correct address, since if it differs, their PIV login will fail._
-18. After **Username**, enter the user’s VA.gov email address. _See step above._
-19. **Password** process: select a one-time password using three unrelated words, a number, a punctuation character. No one will need to be told this password, and the user will be prompted to create their own password immediately, but it’s good form not to use something that can be guessed in the meantime. 
-20. Leave the **Status** as **Active** unless the account is pending some verification. In that case, click **Blocked**.
-21. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
-22. Leave the box checked next to **Enable this user to leverage SAML authentication**.
-23. Skip **Password Expiration** for now. Currently there is no expiration period.
-24. Click **Create new account. (**Will see account creation confirmation in green at the top of the screen)
-25. In the top toolbar menu, click **Manage**.
-26. Click **People**.
-27. Find the user account you just created in the results list.
-28. In the user account line, under the **Sections **column, click **Edit**.
-29. Click the checkbox next to the appropriate section(s).
-30. Click **Save**.
+1. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
+2. In the top toolbar menu, click **Manage**.
+2. Click **People**.
+4. Click **Add user**.
+5. On the **Roles** page, click the checkbox(es) next to the appropriate role(s).
+6. After **Email address**, enter the user’s VA.gov email address. _Make sure this is the correct address, since if it differs, their PIV login will fail._
+7. After **Username**, enter the user’s VA.gov email address. _See step above._
+8. **Password** process: select a one-time password using three unrelated words, a number, a punctuation character. No one will need to be told this password, and the user will be prompted to create their own password immediately, but it’s good form not to use something that can be guessed in the meantime. 
+9. Leave the **Status** as **Active** unless the account is pending some verification. In that case, click **Blocked**.
+10. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
+11. Leave the box checked next to **Enable this user to leverage SAML authentication**.
+12. Skip **Password Expiration** for now. Currently there is no expiration period.
+13. Click **Create new account. (**Will see account creation confirmation in green at the top of the screen)
+14. In the top toolbar menu, click **Manage**.
+15. Click **People**.
+16. Find the user account you just created in the results list.
+17. In the user account line, under the **Sections **column, click **Edit**.
+18. Click the checkbox next to the appropriate section(s).
+19. Click **Save**.
 
 
 # Instructions for adding multiple users
