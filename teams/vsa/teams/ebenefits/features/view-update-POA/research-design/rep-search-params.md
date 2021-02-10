@@ -23,13 +23,20 @@ There is a series of ASP files available for download from the Office of General
 - Claims agents
 
 ### Common parameters
-#### Individuals
+#### Individuals (Including reps listed in organizations)
 - First and last name
-- Address (City, state, ZIP)
-- Phone (often missing)
+- Location (City, state, ZIP)
 - Registration number
 
-Attorneys and claims agents also have an accreditation date and POZ code.
+Attorneys and claims agents also have an accreditation date and POA code. All individuals may have phone numbers; often they are missing.
+
+#### Organizations
+Organization entries include representatives and their information. Quite often the location of the indiviual rep is missing. The organizational info includes:
+- Organization name
+- POA (Same as POA code?)
+- Organization's location (City, state, ZIP)
+- Organization's Phone
+
 
 
 ### Organizations
