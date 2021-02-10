@@ -14,6 +14,15 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2021
 
+### Feburary 2021
+
+#### Feb 15 - Feb 19: Mobile Facility Locator Usability Study
+*VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
+
+- Number of participants: TBD
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mobile-experience)
+- Mobile, facility, locations
+
 
 ### January 2021
 

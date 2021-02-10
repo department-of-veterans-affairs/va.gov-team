@@ -3,7 +3,8 @@
 ## Goals
 - Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users
 - Understand how industry standards impact Veteran expectations for the Facility Locator search experience
-- Evaluate new designs created for geolocation and map view
+- Evaluate new designs created for geolocation, map view, and clear fields
+- Validate if veterans are interested in using the map view of the Facility Locator (validate findings in the mobile month study) 
 
 ## Background 
 
@@ -33,9 +34,18 @@
 - Will Veterans notice/understand the Geolocation functionality?
 - Do Veterans using a mobile device prefer to view results on the map or in a list?
 - Do Veterans expect to find detailed information on the map view?
+- Do veterans know how to bring up the detailed information for each location?
 - Does the information presented for a given facility match expectations?
   -  Does the Veteran understand how to find more detailed information about the facilities returned?
 - What online maps/searches do these participants find easiest to use/why?
+
+
+=======
+
+**Method**
+- Sessions will consist of mobile device usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
+- Sessions will be remotely moderated via Zoom. 
+
 
 ## Risks and assumptions
 
@@ -86,15 +96,20 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 
 - Study dates: Feb 17-19th 2021
 - Session length: 45 minutes
-- Preferred 30 min break between sessions
+- Preferred 15-30 min break between sessions
+- Christian Valla and Laurel Lawrence should be assigned 7-8 sessions each
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
+Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
-Tuesday, Feb 16 [PILOT] | Times TBD
-Wednesday, Feb 17 | Laurel Lawrence available 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm
-Thursday, Feb 18 | Laurel Lawrence available 12pm-1pm, 1pm-2pm, 2pm-3pm
-Friday, Feb 19 | Laurel Lawrence available 11am-12pm, 2pm-3pm, 3pm-4pm
+Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
+Wednesday, Feb 17 | Laurel Lawrence 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm | 4
+Wednesday, Feb 17 | Christian Valla 11am-5pm | 5
+Thursday, Feb 18 | Laurel Lawrence 12pm-1pm, 1pm-2pm, 2pm-3pm | 3
+Thursday, Feb 18 | Christian Valla 11am-5pm | 5
+Friday, Feb 19 | Laurel Lawrence 11am-12pm, 2pm-3pm, 3pm-4pm | 3
+Friday, Feb 19 | Christian Valla 11am-5pm | 5
 
 - Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
 - Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
@@ -109,11 +124,19 @@ Please list the people who will be serving in each role.
 - Participant recruiting, screening, notetaking: Perigean
 - Project point of contact: Michelle Middaugh
 - Participant(s) for pilot test: 
-  -  Leyda
+  - Jonathan Nelson, jonathan.nelson@adhocteam.us
+  - Leyda Hughes, leyda.hughes@adhocteam.us
+  - Tressa Furner, tressa.furner@adhocteam.us
+  - Laurel Lawrence, laurel.lawrence@adhocteam.us
 
 - Observers: 
-  - TBD
-
+  - Shawna Hein, shawna@adhocteam.us
+  - Michelle Middaugh, michelle.middaugh@adhocteam.us
+  - Leyda Hughes, leyda.hughes@adhocteam.us
+  - Gibran Rodriguez, grodriguez@governmentcio.com
+  - Lance Sanchez, lsanchez@governmentcio.com
+  - Dave Conlon, david.conlon@va.gov
+  
 - Note-takers: Perigean 
 
 

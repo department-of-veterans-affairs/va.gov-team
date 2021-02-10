@@ -10,23 +10,31 @@
 - Try to focus on a fewer number of features at a time
 ----
 ## Sprint 40 (1/27 - 2/9)
-
+```diff
+- 66 points over 26 issues
+```
 ## 1. Prepare Dependency Claims for e2e and UAT
 - BE continue to iterate on last-mile problems
 - Daily meetings for live testing as needed
-- Target early Feb PREPROD testing
-- Target mid Feb launch
+- Target early Mar PREPROD testing
+- Target mid Apr launch
 ## 2. Support for VRE CMS (CH31) integration and application testing as needed
-- Likely 10-15 FE + BE + Design points for ongoing dev
-- Content updates as needed
-## 3. Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
+- Likely 10-15 FE + BE + Design points reserved for ongoing dev + collab cycle activities
+- Install approved orientation content, prep for pre-launch activities
+## 3. Iterate on Dependency Verification 
 - FE iteration on proof-of-concept as per discovery team designs
+- BE integrate Diary Services for FE testing
+- Design participate in collab cycle
 ## 4. POA Ongoing Work
-- FE/ BE activities as captured, iterations on Search and Submit features
-- LoE to launch View Representative?
+- FE/ BE activities as captured, implement View page
+- Design/ FE iterations on Search and Submit features
 ## 5. Dependency Claims feature enhancement: select dependents to remove
 - FE/ BE activities as captured
-## 6. Design support for LGY design spike activities as needed
+- Design corss check with design/ a11y community
+## 6. Begin Design Discovery for LGY: COE
+- Design to start research plan/ convo guide for approval
+- Schedule with Perigean target end of Feb
+
 
 ## Sprint 39 (1/13 - 1/26)
 ```diff
