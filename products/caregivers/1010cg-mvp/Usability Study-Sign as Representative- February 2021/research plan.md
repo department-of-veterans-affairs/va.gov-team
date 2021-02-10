@@ -119,4 +119,4 @@ Resources
 - Synthesis		
 - Read-Out/Results	 	
 - ** Don't forget to add a link to your research folder to the research tracker! 
-- Reviewed and approved by Lauren Alexanderson on: TBD
+- Reviewed and approved by Lauren Alexanderson on: February 9, 2021
