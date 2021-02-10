@@ -95,7 +95,7 @@ Team Availability | Time (EST)
 February 16, 2021 | 10:00am - 11:30pm EST, 1- 4 pm EST
 February 17, 2021 | 9:00am - 7pm EST
 February 18, 2021 | 9:00am - 4:30pm EST
-February 18, 2021 | 9:00am - 5:30pm EST
+February 19, 2021 | 9:00am - 5:30pm EST
 
 
 Pilot Session: February 12, 2021 | TBD
