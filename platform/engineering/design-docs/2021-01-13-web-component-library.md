@@ -143,6 +143,8 @@ Even though Web Components are already a feature provided by the browser, this i
 
 A Web Component library will be most effective and easiest to maintain if it is the _only_ component library.
 
+An additional risk would be if certain features of the Web Component standard are deprecated or otherwise become obselete. We are already in a similar situation with React components - our `component-library` consists of many "legacy" class-based components rather than functional components which have the option to use hooks.
+
 Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. To mitigate this risk, we will only use Web Component features which are supported with or without pollyfills on all [supported browsers](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/browser-support/).
 
 ### Work Estimates
