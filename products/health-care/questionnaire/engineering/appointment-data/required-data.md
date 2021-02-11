@@ -58,7 +58,8 @@ This document will serve as a plce to document the needed information in the UI 
 
 <details>
   <summary>Full Sample Object</summary>
-    ```
+
+    ```json
   "appointment": {
     "id": "195bc02c0518870fc6b1e302cfc326b60",
     "type": "va_appointments",
@@ -93,6 +94,7 @@ This document will serve as a plce to document the needed information in the UI 
     }
    },
     ```
+
 </details>
 
 ### Mapped Properties for MAP object
@@ -122,115 +124,58 @@ This document will serve as a plce to document the needed information in the UI 
 
 ### Sample FHIR Object
 
+[Link to source](https://github.com/department-of-veterans-affairs/health-apis-patient-generated-data/blob/API-000-mapping/mapping/appointment.md)
+
 <details>
   <summary>Full object</summary>
-  ```
-  {
-    appointment: {
-      "resourceType" : "Appointment",
-      "id" : "202008211400983000084800000000000000",
-      "text" : {
-        "status" : "generated",
-        "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Brian MRI results discussion</div>"
+
+  ``` json
+{
+  "resourceType" : "Appointment",
+  "id" : "I2-SLRRT64GFGJAJGX62Q55NSQV44VEE4ZBB7U7YZQVVGKJGQ4653IQ0000",
+  "status" : "cancelled",
+  "cancelationReason" : {
+    "coding" : [
+      {
+        "system" : "http://terminology.hl7.org/CodeSystem/appointment-cancellation-reason",
+        "display" : "OTHER"
+      }
+    ],
+    "text" : "OTHER"
+  },
+  "appointmentType" : {
+    "coding" : [
+      {
+        "system" : "http://terminology.hl7.org/CodeSystem/v2-0276",
+        "display" : "WALKIN"
+      }
+    ],
+    "text" : "WALKIN"
+  },
+  "description" : "Used for veterans with a service connected % of 50% and greater.",
+  "start" : "2017-05-26T07:00:00Z",
+  "end" : "2017-05-26T07:20:00Z",
+  "minutesDuration" : 20,
+  "created" : "2017-05-25T16:00:00Z",
+  "participant" : [
+    {
+      "actor" : {
+        "reference" : "https://sandbox-api.va.gov/services/fhir/v0/r4/Location/I2-XPW2ECZK2LTNSPLNVKISWC5QZABOVEBZD5V2CKFRVEPAU5CNZMJQ0000",
+        "display" : "PROSTHETIC CONSULTS"
       },
-      "status" : "booked",
-      "serviceCategory" : [
-        {
-          "coding" : [
-            {
-              "system" : "http://example.org/service-category",
-              "code" : "gp",
-              "display" : "General Practice"
-            }
-          ]
-        }
-      ],
-      "serviceType" : [
-        {
-          "coding" : [
-            {
-              "code" : "52",
-              "display" : "General Discussion"
-            }
-          ]
-        }
-      ],
-      "specialty" : [
-        {
-          "coding" : [
-            {
-              "system" : "http://snomed.info/sct",
-              "code" : "394814009",
-              "display" : "General practice"
-            }
-          ]
-        }
-      ],
-      "appointmentType" : {
-        "coding" : [
-          {
-            "system" : "http://terminology.hl7.org/CodeSystem/v2-0276",
-            "code" : "FOLLOWUP",
-            "display" : "A follow up visit from a previous appointment"
-          }
-        ]
+      "status" : "accepted"
+    },
+    {
+      "actor" : {
+        "reference" : "https://sandbox-api.va.gov/services/fhir/v0/r4/Patient/1011537977V693883",
+        "display" : "TEST,PATIENT ONE"
       },
-      "reasonReference" : [
-        {
-          "reference" : "Condition/example",
-          "display" : "Severe burn of left ear"
-        }
-      ],
-      "priority" : 5,
-      "description" : "Discussion on the results of your recent MRI",
-      "start" : "2013-12-10T09:00:00Z",
-      "end" : "2013-12-10T11:00:00Z",
-      "created" : "2013-10-10",
-      "comment" : "Further expand on the results of the MRI and determine the next actions that may be appropriate.",
-      "basedOn" : [
-        {
-          "reference" : "ServiceRequest/myringotomy"
-        }
-      ],
-      "participant" : [
-        {
-          "actor" : {
-            "reference" : "Patient/1008596379V859838",
-            "display" : "Peter James Chalmers"
-          },
-          "required" : "required",
-          "status" : "accepted"
-        },
-        {
-          "type" : [
-            {
-              "coding" : [
-                {
-                  "system" : "http://terminology.hl7.org/CodeSystem/v3-ParticipationType",
-                  "code" : "ATND"
-                }
-              ]
-            }
-          ],
-          "actor" : {
-            "reference" : "Practitioner/I2-6NVSMKEGQKNB3KRDXBGE7NRIEY000000",
-            "display" : "Dr Adam Careful"
-          },
-          "required" : "required",
-          "status" : "accepted"
-        },
-        {
-          "actor" : {
-            "reference" : "Location/534-12975",
-            "display" : "NORTH CHARLESTON VA CBOC, PRIMARY CARE/MEDICINE"
-          },
-          "required" : "required",
-          "status" : "accepted"
-        }
-      ]
+      "status" : "accepted"
     }
-  }
+  ]
+}
   ```
+
 </details>
 
 ### Mapped Properties for FHIR object
@@ -259,3 +204,9 @@ This document will serve as a plce to document the needed information in the UI 
 - Clinic Phone Number
 - Facility Name
 - Facility Phone Number
+
+But these points are asscociated to the appointment by the location in `appointment.actor` in the. The `Location` is a clinic and a `Organization` is a facility. See the linked example for the the details on how they are linked.
+
+The interaction with PGD:
+
+Appointments will only have a reference. We grab the locations id, then call for the locations then grab the organization id then get the locations. 

@@ -22,6 +22,8 @@ This copy will be created when the questionnaire is submitted. After a successfu
 - Body (as JSON string) including Demographics,  Appointment and Questionnaire Response (as Blob)
 - Datetime Created
 
+The questionnaire response is returned from PGD. We can use this PGD server generated ID will be stored in the vets-api (Postgres table) as column that we will can query by
+
 ### Retrieving
 
 To retrieve the information, the front end will make a call to the back via a GET request that will look like
@@ -44,11 +46,12 @@ On the front end, once the data is received, then a `download link` will be show
 
 - (Stephen) Is this okay from a legal perspective?
 - What is the time table for document storage to be ready?
-- Does PGD return the Questionnaire Response ID on creation?
 
 ## Tech Architecture - v2
 
 *NOTE: subject to change when Lighthouse implements the document storage*
+
+**As of 2/11/2021, The Lighthouse team said "its not on their roadmap".**
 
 Long term we want to store the PDFs PGD. In the FHIR specification there is a resource type called [DocumentReference](https://www.hl7.org/fhir/documentreference.html). We can store the PDF in the `content.attachment` field of a `document reference` as a base64 encoded string.
 
