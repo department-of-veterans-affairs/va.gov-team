@@ -25,7 +25,6 @@
 
 - Dual state launches for the next 2 weeks
 - VAMC editor training
-- Menus
 
 ## Friday Feb 5 10:30am ET
 
