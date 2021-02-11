@@ -39,10 +39,13 @@
 
 ### CLP
 
-- CLP "giving out the keys" process 
+- CLP Start to finish
+  - John shared [this graphic](https://dsva.slack.com/archives/C52CL1PKQ/p1612966331368900?thread_ts=1612965801.368000&cid=C52CL1PKQ)t
+  - The request form will contain context about the purpose (and constraints!) of a CLP. 
+  - A how to video?
+  - John's estimate is max 12 CLPs per year (but probably less, 8-10?)
   - Where do Training / guides fit into this? 
 - Character count on Benefits detail page intro field
-
 
 
 Covered Feb 9 asynchronously / on call about content model doc
