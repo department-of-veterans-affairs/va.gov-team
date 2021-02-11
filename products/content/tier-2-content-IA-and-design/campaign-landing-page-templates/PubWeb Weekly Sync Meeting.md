@@ -34,7 +34,6 @@
 - FE refinement punchlist started --> CLP Refinement Punch List - FE Build #19500 
 - Review/Validate - proposed process flow diagram for how we might manage the CLP request to build to launch process
 - QA Testing in progress - Use Cases Updated 
-- Stakeholder UAT - Timeline?  Feedback loop (GH Doc?)
 - Training (@Randi) - Can we leverage previous training models uses (benefit hubs mentioned) 
 - Included CMS/PW folks on VA Stakeholder UAT.  Would like to test this process and validate learning models
 - Build a GH readme file for Stakeholder UAT collaboration
