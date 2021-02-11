@@ -29,25 +29,26 @@ Users will:
 - Navigate the form
 - Review and submit form
 - Form will successfully submit for processing
-<!--
+
 #### The process
 
 - There will be a quick introduction to UAT
-- The participant will be guided to the 28-8832 intro
-- User will step through the screening wizard (Optional)
-- The user will proceed through the 28-8832 and submit
+- The user will log into VA.gov
+- The participant will be guided to the direct deposit feature
+- User will step through the edit-info form and submit their changes
 - There will be a quick Q/A and wrap-up 
-- Success will be measured as 80% of participants can successfully submit their 28-8832
+- Success will be measured as 80% of participants can successfully submit their DD changes
 
 ### Participants & recruiting
-Participants will be recruited via Perigean. The study will require Veterans (or dependents) who have a need to apply for CH36 benefits. Sessions will run between 20 and 30 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
+Participants will be recruited via Perigean. The study will require Veterans (or dependents) who have a need to change their direct deposit information. Sessions will run between 10 and 20 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
 
-Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
+Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 
 #### Must have for participants
 - Are you a Veteran, service member or a dependent? (pass = yes)
-- Do you need to submit a 28-8832 to receive CH36 benefits (pass = yes)
--->
+- Do you receive educational VA payments via direct deposit? (pass = yes)
+- Do you need to change the direct deposit information for your educational VA payments? (pass = yes)
+
 #### Good to have for participants
 
 - At least one woman
