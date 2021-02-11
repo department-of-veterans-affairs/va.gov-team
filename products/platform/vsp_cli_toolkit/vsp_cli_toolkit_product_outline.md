@@ -1,4 +1,4 @@
-# VSP Command Line Interface (CLI) Toolkit
+# VTK - Command Line Interface (CLI) Toolkit
 
 ## Overview
 
