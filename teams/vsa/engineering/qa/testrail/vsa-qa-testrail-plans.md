@@ -31,5 +31,7 @@ When you creating/editing a Test Plan, click **Add Test Run(s)** at the top of t
 
 After adding a Test Run to your Test Plan, click **Configurations** next to the Test Run title, then select the devices/browsers you need for the Run.
 
+[See Test Plan & Test Run video](https://drive.google.com/file/d/1tyf9t14NOayULhXeq4EZ1i_Ps5CmJ87j/view?usp=sharing) [Click **Request access** if prompted]
+
 
 [tr-plan-add-run]: ../images/tr-plan-add-run.png
