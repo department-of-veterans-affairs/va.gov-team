@@ -1,4 +1,3 @@
-[wip]
 
 ## About sections
 
@@ -14,15 +13,13 @@ Editors can edit content in a specific section under three circumstances
 
 ## Managing access to sections
 
-When new users are created, they are added to specific sections based on criteria outlined and agreed to by the product owner. For example, an editor of a VAMC system will be added t
+When new users are created, they are added to specific sections based on criteria outlined and agreed to by the product owner. For example, an editor of a VAMC system will be added to their VAMC section. A VISN web master would typically have access to a parent section 
 
-[insert]
+[insert screenshot of interface]
 
 Do not have children sections under a checked parent section selected, by default they have access to all the child settings underneath the parent section.
 
 [insert screenshot of ]
-
-
 
 ## Adding user 
 
