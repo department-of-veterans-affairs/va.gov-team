@@ -79,7 +79,7 @@ it('shows the initial todos', () => {
 })
 ```
 
-If a stubbed response needs to be overridden, `cy.route()` should still be used. The Cypress development plans to release override support in a future version of Cypress. A full list of differences between `cy.route()` and `cy.intercept()` can be found [here](https://docs.cypress.io/api/commands/intercept.html#Comparison-to-cy-route).
+If a stubbed response needs to be overridden, `cy.route()` should still be used. The Cypress development team plans to release override support in a future version of Cypress. A full list of differences between `cy.route()` and `cy.intercept()` can be found [here](https://docs.cypress.io/api/commands/intercept.html#Comparison-to-cy-route).
 
 ### Fixtures <a name="fixtures"></a>
 
