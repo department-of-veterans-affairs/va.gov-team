@@ -35,11 +35,15 @@
 - Review/Validate - proposed process flow diagram for how we might manage the CLP request to build to launch process
 - QA Testing in progress - Use Cases Updated 
 - Training (@Randi) - Can we leverage previous training models uses (benefit hubs mentioned) 
-- Included CMS/PW folks on VA Stakeholder UAT.  Would like to test this process and validate learning models
-- Build a GH readme file for Stakeholder UAT collaboration
+- Staging Review Scheduled: March 4 @ 2PM (Should see invite)
 - Discussion/Questions? 
 
 Notes: 
+- Editorial experience training elements (augment or support trianing as a possiblility)
+- Included CMS/PW folks on VA Stakeholder UAT.  Would like to test this process and validate learning models [Action]
+- Build a GH readme file for Stakeholder UAT collaboration [Action]
+- Trust Editors/Updates post launch - not viewing every single update or even panel udpate.  (Might need a roundtable to review and discuss scalability)
+- Edit rights vice publish rights - CMS out of box capability.  
 
 ## Thursday, January, 28, 2021
  
