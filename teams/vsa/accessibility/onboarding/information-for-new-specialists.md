@@ -21,7 +21,6 @@ There are also 158,000 legally blind veterans. Every year, 7000 veterans become 
 VSA specialists are primarily responsible for helping teams produce services and products that are both inclusive and accessible.
 
 Our aim is to integrate VSA specialists within teams as early as possible in the product development process from research to post-launch. We hope this will help:
-
 -   set the expectation that accessibility must be included throughout the entire product lifecycle instead of being remediated post-launch
 -   naturally disseminate accessibility knowledge through collaboration with researchers, designers, and developers
 -   introduce accessibility specialists to team members as collaborators instead of strictly enforcers
@@ -31,7 +30,7 @@ We use the following tasks and methods:
 
 -   **The Collaboration Cycle**: a series of "checkpoints" to help teams at various points in the product development process
 -   **Spot check requests**: where team members can formally request a review outside of the collaboration cycle's checkpoints
--   "Ad hoc" team support, like informal questions or requests over slack
+-   **"Ad hoc" team support**, like informal questions or requests over slack
 -   **Full accessibility audits**: a post-launch accessibility audit to make sure any remaining issues are documented
 -   **Continuing education**, like internal workshops to level up accessibility knowledge of members across teams
 -   **Embedding**: where an accessibility specialist is assigned to collaborate with a team throughout the full product development process
