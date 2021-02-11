@@ -15,7 +15,7 @@ User Story
 - reaction (currently MyHealtheVet has checkboxes with options)
 - method (injection, inhalant, by mouth) - Apple Health calls this the route
 - where on the body the injection was received (left deltoid)
-- other sign/symptom (currently dropdown list)
+- other sign/symptom (currently dropdown list) - Look into what this is different then reactions. They look like just two different lists of reactions with this list being much longer.
 - comments
 - ability to add a new immunization (patient reported data)
 - What is currently listed on the COVID-19 Vaccination Record Card
