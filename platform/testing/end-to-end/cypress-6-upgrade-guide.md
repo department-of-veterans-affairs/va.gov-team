@@ -1,10 +1,10 @@
-# Cypress 6.2.1 Upgrade Guide
+# Cypress 6.x Upgrade Guide
 
-The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them, which is expected to happen in the next major release (7.x), we recommend making these changes by the end of March 2021, to safely avoid any issues resulting from the next update. Please carefully read the guidance below. If you have any questions please drop by #vsp-testing-tools-team to get support.
+The upgrade from Cypress 4.8 to Cypress 6.x introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them, which is expected to happen in the next major release (7.x), we recommend making these changes by the end of March 2021, to safely avoid any issues resulting from the next update. Please carefully read the guidance below. If you have any questions please drop by #vsp-testing-tools-team to get support.
 
 # Table of Contents
 
-- [Cypress 6.2.1 Upgrade Guide](#cypress-621-upgrade-guide)
+- [Cypress 6.x Upgrade Guide](#cypress-6x-upgrade-guide)
 - [Table of Contents](#table-of-contents)
   - [Overview <a name="overview"></a>](#overview-)
   - [Migration changes <a name="migration-changes"></a>](#migration-changes-)
@@ -21,7 +21,7 @@ The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test
 
 ## Overview <a name="overview"></a>
 
-The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them. A full, detailed guide of all changes can be found in the [additional resources](#additional-resources) section.
+The upgrade from Cypress 4.8 to Cypress 6.x introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them. A full, detailed guide of all changes can be found in the [additional resources](#additional-resources) section.
 
 ## Migration changes <a name="migration-changes"></a>
 
@@ -62,6 +62,24 @@ cy.wait('@helloWorld')
     expect(response.statusCode).to.eq(200);
   });
 ```
+
+While their functionality is similar, `cy.intercept()` does not behave exactly the same as `cy.route()`. One key difference is that previously-defined `cy.intercept()`s cannot be overriden later on in a test. For example, the second intercept defined in this test will not behave as expected because Cypress will still use the `cy.intercept()` in the `beforeEach()` block:
+
+```javascript
+beforeEach(() => {
+  cy.intercept('GET', '/todos', []) // an empty array is returned
+  cy.visit('/')
+})
+
+it('shows the initial todos', () => {
+  // this intercept will not override the original intercept
+  cy.intercept('GET', '/todos', { fixture: 'two-items.json' }) // fixture with two items returned
+  cy.visit('/')
+  cy.get('.todo').should('have.length', 2)
+})
+```
+
+If a stubbed response needs to be overridden, `cy.route()` should still be used. The Cypress development plans to release override support in a future version of Cypress. A full list of differences between `cy.route()` and `cy.intercept()` can be found [here](https://docs.cypress.io/api/commands/intercept.html#Comparison-to-cy-route).
 
 ### Fixtures <a name="fixtures"></a>
 
