@@ -4,7 +4,7 @@
 ### Planning:
 - **Desired date range or test duration:** 2/25-3/9
 - **UAT Go/No go:** 2/25 (estimate)
-- **Desired number of users:** 10
+- **Desired number of users:** 6
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will
@@ -12,27 +12,24 @@ be behind a feature flag.
 - **Link to Research plan for UAT**:To be added 
 
 ### Results/Issues:
-- **Number of users:** 10
+- **Number of users:** 6
 - **List of bugs/issues found:** TBD
 
 ## Phase II: Staged Rollout 
 ### Planning
 **Desired date range:**
-- 10% of users (1 week), Dates:3/15-3/19 (S43)
-- 25% of users (1 week), Dates:3/24-3/31 (S44)
-- 50% of users (1 week), Dates:4/1-4/6 (S44)
+- 10% of users (1 week), Dates: 3/15-3/19 (S43)
+- 25% of users (1 week), Dates: 3/24-3/31 (S44)
+- 50% of users (1 week), Dates: 4/1-4/6 (S44)
 - If all goes well, then go to 100% of users: Estimated date 4/7 (S45)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-**Link to GA Dashboard:** TBD
+**Link to GA Dashboard:** To be added
 
 - Successful retrievals/Failed retrievals
 - Successful submissions/Failed submissions
 - Errors 
 - Clicks to edit account information
-- Clicks to add account (comp and pension only)
-- Clicks to "View payment history"
-- Count of "Direct deposit" searches from the profile
 
 
 ## Go Live!

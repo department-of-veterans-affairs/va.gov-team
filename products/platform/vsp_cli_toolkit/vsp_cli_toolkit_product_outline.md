@@ -1,4 +1,4 @@
-# VSP Command Line Interface (CLI) Toolkit
+# VTK - Command Line Interface (CLI) Toolkit
 
 ## Overview
 
@@ -90,16 +90,6 @@ More Information can be found in the [Design Doc](https://github.com/department-
 - MVP Launch: February 16th, 2021
 
 ---
-   
-## Screen-shots
-
-_Include before/after screen-shots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
-
----
 
 ## Reference Material
 
@@ -124,7 +114,5 @@ _Include before/after screen-shots, if applicable. Delete this section otherwise
 
 - Engineering Lead: Michael Fleet
 - DEPO Lead: Dror Matalon
- 
-_What offices/departments are critical to make this initiative successful?_
- 
+  
 </details>

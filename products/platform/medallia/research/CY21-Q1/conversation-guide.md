@@ -95,7 +95,7 @@ I’m going to send a link to a specific page in the chat. Could you pull up the
 
 - Send the link to the [Find VA Locations Figma Mobile Prototype](https://www.figma.com/proto/KufrI4EbR1Y0it1xTgJaXj/Medallia-Mobile?node-id=1%3A2&viewport=1039%2C676%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1) in the chat.
 
-**Task: Let's say you are trying to use this Find VA locations page, but you're experiencing an issue (maybe the map isn't showing results or it's pulling up the wrong area). What would you do to let someone know about this issue?**
+**Task: Let's say you are trying to use this Find VA locations page, but you're experiencing an issue (maybe the map isn't showing results or it's pulling up the wrong area). What would you do to let someone know about this issue? (OR: If you wanted to share your experience about the task you were trying to complete, how would you do that?)**
  - **If they mention that they would email or call, ask if there is anything on this page that they could use.**
 
 As you’re performing this task, please talk us through your thoughts as you interact with the site.

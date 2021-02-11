@@ -23,31 +23,47 @@
 
 ## Friday Feb 12 10:30am ET
 
-- Training
-- Tugboat
-  - How's it going?
-  - Formal training next week
-- Lebanon and Wilkes-barre launch next week
-- Facility health service editorial experience 
-  - required fields (phone number labels)
-  - Table caption
-  - Communication to Ryan S on Facility Service Location Page hardening
-- Menus 
-  - bugs, eg [Iowa City](https://prod.cms.va.gov/admin/structure/menu/manage/va-iowa-city-health-care?destination=/admin/structure/menu%3Fpage%3D1) (revealed by Transformer builds)
-  - Casing of non-clickable menu items
-- Entity embed module on rich text fields, is anyone on VAMC upgrade team using it? 
+- Dual state launches for the next 2 weeks
+- VAMC editor training
+- Menus
 
 ## Friday Feb 5 10:30am ET
 
+- VAMC editor training
+  - Some of our videos and screenshots are getting out of date, for example the navigation for VAMC sections, which editors are asking helpdesk about. 
+  - Should those updates be done first, or should it include other changes to include other types of feedback?
+  - Dave: What's the impact to the help desk? Find balance between helpdesk effort and effort required for revising training. 
+  - Vanessa: so far it's just been a couple. If it starts to be more, i can bring it to y'alls attention. If it's the same thing repeatedly...
+  - Dave: Could we bundle in work like Policies? What is the threshold for doing an iteration? To avoid context switching. Other potential changes 
+    - Modularity for VAMC health service. 
+    - Alerts and situation updates - how to write these
+    - Things that could be reused for CLP and Vet Centers
+    - Platform training
+      - 508 training (first up) 
+      - Plain language
+      - Broken links
 - Tugboat
-- User administration
-- VAMC menus 
-  - Some work coming to lock down and force menu structure
-  - Menu bugs that are blocking some Transformer work
-  - Capitalization for menus items with `<nolink>` 
+  - How's it going?
+  - Formal training next week, Thursday 12pm ET for one hour. 
+  - Feedback: 
+    - working great, so far so good. Total time for everything was about 20 minutes, from rebuild to release. (Salisbury, 120 nodes)
+    - As long as VAMC users in the field have the name in it, we're good. They only handle one URL anyway. 
+    - Hasn't tested the broken link check for Lebanon and Wilkes-barre, but will be doing that, will report back Monday. 
+  - CMS team is meeting with Tugboat vendor about aliases Feb 16
+- Lebanon and Wilkes-barre launch next week
+  - Stan will schedule events 
+  - Week of February Coatesville, Altoona and Butler
+  - Week after that: 5 VAMCs
 - Facility health service editorial experience 
-  - Required fields (phone number labels)
-  - Table caption 
+  - required fields (phone number labels)
+    - 508 intent 
+  - Table caption
+  - Dave and Kev to connect on this problem space and prioritization
+  - Communication to Ryan S on Facility Service Location Page hardening (email went out yesterday)
+- Menus 
+  - bugs, eg [Iowa City](https://prod.cms.va.gov/admin/structure/menu/manage/va-iowa-city-health-care?destination=/admin/structure/menu%3Fpage%3D1) (revealed by Transformer builds)
+    - VAMC upgrade team is fixing these in their next sprint. Kevin will communicate back to transformer 
+  - Casing of non-clickable menu items
 
 ## Friday Jan 29 10am ET 
 

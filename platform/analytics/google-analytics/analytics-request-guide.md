@@ -13,7 +13,7 @@
 
     If the user already has a Google account that is not yet linked to their VA.gov email, they can link it using [these instructions](https://support.google.com/accounts/answer/176347?co=GENIE.Platform%3DDesktop&hl=en).
     
-2. Product managers will fill out and submit the [Request GA issue template on Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics). For privacy purposes, please send a Slack message to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with the requested user(s) email address.
+2. Product managers will fill out and submit the [Request GA issue template on Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo). For privacy purposes, please send a Slack message to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with the requested user(s) email address.
 
 
 ### Post Orientation: ad hoc Google Analytics access requests

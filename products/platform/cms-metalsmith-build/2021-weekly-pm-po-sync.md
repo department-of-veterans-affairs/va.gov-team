@@ -1,5 +1,44 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 2-5-21
+
+### Topics to Discuss
+* Status update from all teams
+* Change management messaging with content editors
+
+### Notes
+* Status update 
+   * CMS: working on exploring low hanging updates re: performance improvements to GraphQL. Next week early we will be reconnecting again with CMS internal team on broken link strategy. Will meet with VSP next week to talk about broken links more.
+      * Will touch base with other OCTODE stakeholders on broken link strategy 
+      * Connecting with VSP on CMS Export build improvements 
+   * VSP:
+      * Still cautiously optimistic on the latest written out timeline! The coming sprint is ambitious so some things will likely bleed over into the following sprint, but that should not put our velocity at risk significantly. 
+      * Significantly learnings this week about scalability and where breaking points and bottlenecks are, so the level of uncertainty there is now very minimal. This is a big win.
+   * VFS: 
+      * Facilities: we have 3 issues that are ready to be picked up that resulted from the diff tool. Half of them are blocked by the arraysort ticket that are in progress. 
+      * Public Websites: we have prioritized work on Campaign Landing Page. we did run the diff on that. Team started working on transformers fully today and will have more info next week. 
+         * Potential risk area
+   
+   Dave: need to keep our finger on the pulse of — we're trying not to do too much drift or changes but we also don't want to freeze. Do we build a GraphQL query on that or do we hold on that? 
+   Dror: bottom line is — in theory we're a month away, anything we can do to limit GraphQL is helpful. 
+   Michelle: we actively deferred a couple changes this week expecting this release soon, so that is currently part of our decision making. 
+   Oksana: as we launch CMS Export, we are keeping GraphQL in parallel 
+   Dror/Megan: keep things in parallel until this is live in prod + a week for risk mitigation
+   
+* Change messaging for content editors
+   * Publishing every hour is a big change! CMS has historically handled the messaging to content editors. Is that still the plan here? 
+      * Dave: VAMCs and Pittsburgh are the ones being most vocal about this need. Communication should come from CMS if that works for other teams.
+      * CMS team is willing to take on this communication. Need to stay coordinated on timing. 
+* Broken link change 
+   * Mike: originally talked about doing a threshold/limit of broken links. Dave suggested a pattern matching allow list. Update is that we are proposing to do both — there's an allow list for new content purposes, etc, and also having a threshold that's higher than 0 based around having more pages in the system, more active editors, more frequent deploys. 
+   * Dave: product side is indifferent — this is more of a platform decision. Platform has a process in place regarding policy for broken links on VA.gov. If platform goes with a threshold approach that is fine, my product owner interest is primarily in the allowlist because that is what I know I will need.
+   * Dror: Need to double check with Rachael but would largely ask product stakeholders for this decision.
+   * VSP will review this proposal & provide level of effort next week 
+   
+Action Items: 
+* Megan be sure that VSP is coordinating with CMS on deploy tickets and rollback plan
+* Brian to provide an async update early/mid-next week about PW's discrepancies and rough level of effort to work through those
+
 ## 1-29-21
 
 ### Topics to Discuss
@@ -10,7 +49,7 @@
 * Handling of broken links in VA.gov build
 * Change management messaging with content editors
 
-#### Notes
+### Notes
 
 Handling of broken links
 * Proposal: don't block builds due to broken links in content layer, with threshold 

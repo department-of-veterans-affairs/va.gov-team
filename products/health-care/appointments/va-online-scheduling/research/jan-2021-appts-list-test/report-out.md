@@ -1,6 +1,6 @@
-# January 2021 VAOS appointments usability study [DRAFT]
+# January 2021 VAOS appointments list usability study
 
-Prepared by Peter Russo
+*Prepared by Peter Russo*
 
 [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
 
@@ -44,7 +44,6 @@ All were able to complete most of the tasks we tested with ease, and often did s
 
 Note that while a small study like this works well for validating usability, broader "opportunities" listed below should be further researched and validated before action is taken.
 
-
 ### Participants easily navigated the prototype
 
 All participants joined on a mobile device, most on a phone and one on an iPad. All were able to easily:
@@ -56,7 +55,7 @@ All participants joined on a mobile device, most on a phone and one on an iPad. 
 One participant was able to do the above while they were making coffee.
 
 **Quotes**
->  I like the way the appointments are broken into a bubble. Before it use to be a table and it was written out.  I like that the appointments are in order and I can just click on it to see what it is. And then see it is a phone appointment instead of searching through 3 pages to see I have appointments. - P3
+>  I like the way the appointments are broken into a bubble. Before it used to be a table and it was written out.  I like that the appointments are in order and I can just click on it to see what it is. And then see it is a phone appointment instead of searching through 3 pages to see I have appointments. - P3
 
 >  I like that Express Care here has a phone and that tells me it is a phone appointment and this other one tells me it is a video appointment so I don’t need to drive for it - P3
 
@@ -66,19 +65,19 @@ One participant was able to do the above while they were making coffee.
 
 ### Appointment requests continue to create confusion
 
-Most users had some level of difficulty understanding the appointment requests section, and one user couldn't find it without help, even after opening the dropdown. Some indicated that they were confused by the word "request." In the prompt, we tried to avoid saying that word directly.
+Most users had some level of difficulty understanding the appointment requests section, and one user couldn't find it without help, even after opening the dropdown. Some indicated that they were confused by the word "request" in that option. (When prompting the participant, we avoided saying that word directly so as not to cue them.)
 
 Most users wanted to see more information about the status of the request. Specifically, whether a scheduler has viewed the request, and if so, whether they have started processing it. Participants reported that they will call their facility if a request sits for too long. One participant wondered if they could change the request to a video or phone appointment to get seen sooner.
 
 While participants were able to navigate through the three requests displayed, it wasn't clear that appointment requests were in order of date requested, as that information isn't shown.
 
-**Opportunities**
-* Adding clarity around the status of requests might help reduce phone calls by creating more transparency about where a request is in the process. Veterans are calling facilities to get information on their requests, so even knowing if it has been reviewed could be helpful in reducing call volume.
-* Consider allowing users to change a request to a video and phone appointment, as alternative options to canceling and rescheduling.
-
 **Recommendations**
 * Make the "Requested" title more specific. "Pending" or "Pending request" might be better.
 * Add a note to the requests list explaining that they are in order, with the oldest requests at the top.
+
+**Opportunities**
+* Add clarity around the status of requests. Veterans are calling facilities to find out if their requests are being processed, so even knowing if it has been reviewed could be helpful in reducing call volume. This would likely benefit both Veterans and schedulers.
+* Consider allowing users to change a request to a video and phone appointment, as alternative options to canceling and rescheduling.
 
 **Quotes**
 > It would be nice to see if someone on the other side said they saw \[the appointment request\]. If I requested and they haven’t responded just show me that. - P2
@@ -100,13 +99,13 @@ While participants were able to navigate through the three requests displayed, i
 
 ### Veterans plan future appointments by looking at past ones
 
-Most participants indicated that they often review dates of past appointments to plan and schedule future appointments - planning a yearly physical, for example. They also initially underestimated how far back they'd like to see past appointments. Most decided that seeing apointments a year or more back would be helpful, though some noted that they have certain recurring appointments every five years.
+Most participants indicated that they often review dates of past appointments to plan and schedule future appointments - planning a yearly physical, for example. They also initially underestimated how far back they'd like to see past appointments. Most decided that seeing apointments one year or more back would be helpful, though some noted that they have certain recurring appointments every five years.
 
-Some participants also refer to their records of past appointments to find facility contact information. One suggested they have used it to explain to their provider that new symptoms started after their last appointment.
+Some participants refer to their records of past appointments to find facility contact information. One suggested they have used their appointment history to explain to their provider that new symptoms started after their last appointment.
 
 **Opportunities**
 * One step toward personalization might be to surface CTAs to schedule recurring appointments, like yearly physicals, on the home page.
-* Provide a list of recent health care providers, and allow Veterans to schedule new appointments with them, saving the step of choosing a Type of Care or facility.
+* Consider providing a list of recent health care providers, and allow Veterans to schedule new appointments with them, saving the step of choosing a Type of Care or facility.
 
 **Quotes**
 > If I need to schedule my yearly physical or get blood work I would look at my personal calendar. I know it's been longer than 3 months. - P2
@@ -123,14 +122,14 @@ Participants were excited about the ability to easily cancel and reschedule appo
 
 Participants reported that seeing who canceled an appointment, and when, would help them make better choices around providers. One gave the example that, if a facility keeps canceling their appointment, they may decide to go elsewhere. Another noted that they don't want to be "dinged" by the system for canceling an appointment when the provider canceled it, and they will call a facility to correct that error when it happens. 
 
-In general, participants wanted more clarity into the process. For canceled appointments, some direction as to the next steps would be helpful if the scheduler canceled it. Will the doctor follow up? Should they? For rescheduled appointments, a clear indication that it had been rescheduled would help, no matter who rescheduled it.
+In general, participants wanted more clarity into the process. For canceled appointments, they asked for some direction as to the next steps if the scheduler canceled it: will the doctor follow up, or should the Veteran? For rescheduled appointments, a clear indication that it has been rescheduled would help, no matter who rescheduled it.
 
 One participant noted that they want a confirmation before the reschedule is complete, so they can change their mind if they make a mistake.
 
 **Recommendations**
 * Add a confirmation screen before rescheduling is complete.
 * Add a temporary indicator to the appointment thumbnail showing that the appointment has been rescheduled.
-* Add instructions to canceled appointments explaining how to reschedule.
+* Add instructions to canceled appointments explaining how to reschedule. 
 
 **Opportunities**
 * Consider adding a reschedule option to canceled appointments, to make this process easier when a scheduler cancels a Veteran's appointment.
@@ -164,7 +163,7 @@ One participant noted that they want a confirmation before the reschedule is com
 All participants quickly found the main CTA. Most skimmed the content of this page, then clicked the CTA without prompting. Most skipped past the COVID notification at the top, with some commenting that they ignore it because they see it everywhere on the VA site.
 
 **Recommendations**
-* In earlier research we found that the number of alerts on this page was confusing. Recommend reworking the first part of this page so there are fewer alerts, and the main CTA is closer to the top, followed by any necessary information.
+* In earlier research we found that the number of alerts on this page was confusing. Recommend reworking the first part of this page so there are fewer alerts, and the main CTA is closer to the top, followed by general information about this page.
 * Move the questions into accordions, in their own section, to aid scannability.
 * Revisit the language around appointment requests. Align the language used here with that used when completing a request. (Also see [Appointment requests continue to be confusing] in this report.)
 
@@ -220,17 +219,17 @@ The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip;
 
 ### Booking notes language wasn't clear
 
-We were surprised that few participants directly asked about type of care. From [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments) we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear that it wasn't present because of the nature of the static prototype used in the study.
+We were surprised that few participants directly asked to see type of care in the context of their appointment. From [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments) we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear that it wasn't present because of the nature of the static prototype used in the study.
 
 Along with the booking note, most Veterans showed some confusion when looking at the information they would have entered, such as time preferences on requests, or contact information.  
 
 **Recommendations**
-* Revisit the language used to describe appointment information the Veteran provided. Separate this from the facility provided appointment information to make it easier for the Veteran to separate. 
+* Revisit the language used to describe appointment information the Veteran provided. Separate this from the facility-provided appointment information to make it easier for the Veteran to separate. 
 
 ### General scheduling feedback
 Veterans also provided general feedback about their scheduling experience. Many of these build on themes we’ve heard in earlier research. While VAOS can't solve all of these issues, it's helpful to understand the overal Veteran experience.
 
-A couple of things to note:
+A couple of recurring themes:
 
 * Some participants wanted to see any other information to help them prepare for the day of the appointment, such as if labs/fasting would be needed.
 

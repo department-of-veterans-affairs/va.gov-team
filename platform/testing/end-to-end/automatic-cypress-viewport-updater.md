@@ -59,6 +59,7 @@ Secrets for for the Google API Service Account and the GitHub App are stored in 
 All sensitive Google API and GitHub settings that VCR normally records in each cassette `yml` file have been filtered out.
 
 ## A VCR Cassette Was Manually Updated
+
 The following failure was happening in Jenkins:
 ```
 [2021-02-09T22:12:49.377Z] Failures:

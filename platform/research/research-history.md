@@ -12,6 +12,28 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+###  2021
+
+### Feburary 2021
+
+#### Feb 15 - Feb 19: Mobile Facility Locator Usability Study
+*VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
+
+- Number of participants: TBD
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mobile-experience)
+- Mobile, facility, locations
+
+
+### January 2021
+
+#### Jan 21 - Feb 05: VAOS Appointments List Usability Study
+*VA Online Scheduling, Lead Researcher: Peter Russo*
+
+- Number of participants: 5
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+- Appointments, Scheduling, VAOS, Dashboard, Home page
+
+
 ###  2020
 
 

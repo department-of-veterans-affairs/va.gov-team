@@ -2,6 +2,11 @@
 
 VSA-QA's **current capacity** can only accommodate **manual-UI testing on Staging environment** to satisfy [VSP Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) requirements.
 
+## Who should read this?
+
+- QA Engineer
+- ALL VSA team-members [especially Product Managers]
+
 ## Manual-UI testing on Staging \[for VSP Staging Review]
 
 Both Product Team & QA will collaborate & coordinate test planning and test-case development.

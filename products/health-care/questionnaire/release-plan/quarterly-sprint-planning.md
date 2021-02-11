@@ -21,9 +21,7 @@
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
 | [UX] Analytics	| -- |  |
 | [Product] Change Management for Implementation 	| -- |  |
-| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
-| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
-| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
+
 
 
 ## Sprint 44 - Sprint Theme
@@ -62,16 +60,21 @@
 | [Product] | -- | # |
 
 
-## Sprint 41 - Sprint Theme
+## Sprint 41 - Real Data via Lighhouse
 2/10/2021 - 2/23/2021
 - [Milestone 461](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/461)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [Product] QA Testing -tickets and use cases| -- | ##19592 |
+| [UI] Completed Tab Defaults to a filtered date range | -- | #19347 |
+| [UI] User Research Sessions for Health Records | -- | #19586 |
+| [FE] Integration the Questionnaire List with the API| -- | #16574 |
+| [FE]  Pull in real appointment data for the quesitonnaire| -- | #16581 |
+| [BE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
+| [BE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
+| [BE]  Timline view of remaining work and dependencies | -- | # |
 
 
 ## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
