@@ -10,10 +10,7 @@
 5. If they need training, pass this information to training by assigning the ticket to training in Jira.
     1. If they don’t have access, training can send them youtube training but we can’t give them training site access
     2. If they do have access, send training instructions, including following up with their product owner/approver when training is completed.
-    3. Once training has their info and creates their account, the initial ticket is DONE and can be closed.
-    	- Single users must be created in prod and training environment (in case there's a delay in refreshing training environment).
-	- User import for bulk upload into prod - ONLY after automated email issue has been resolved. *
-
+    3. Once training has their info and creates their account in the training environment, the initial ticket is DONE and can be closed.
 
 ## Process Overview - No Training Needed/Training Completed
 
@@ -121,6 +118,7 @@ OR
 
 * Instructions for adding multiple users
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
+Bulk User Import in prod automatically generates account activation email to new users.
 
 * Process workflow on Mural
 https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
