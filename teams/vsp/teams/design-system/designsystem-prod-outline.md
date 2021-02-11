@@ -22,10 +22,11 @@ VFS teams
 
 ### Key Performance Indicators (KPIs)
 
-* Increased usage of components in the Design System
-* Increased usage of form patterns in the Design System
-* Number of improvements to the existing Design System (new components, sketch library templates and form patterns)
-* Reduced support related to Design System 
+* Indentify current usage of design system components 
+* Indentify current usage of reusable code from form library  
+* Increase adoption of components in the Design System
+* Increase adoption of form patterns in the Design System
+* Reduce support related to Design System 
 
 #### Baseline KPI Values
 
