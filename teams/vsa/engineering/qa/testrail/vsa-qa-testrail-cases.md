@@ -4,6 +4,11 @@
 
 Get help on creating TestRail Test Cases the VSA way.
 
+## Who should read this?
+
+- QA Engineer
+- Anyone who needs to create Test Cases in TestRail
+
 ## Getting started
 
 ### TestRail docs
