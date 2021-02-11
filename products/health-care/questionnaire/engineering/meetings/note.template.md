@@ -1,15 +1,21 @@
 # Relevant title
 
-TOC ([VS Code extension to help manage and generate](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
+Table of Contents ([VS Code extension to help manage and generate](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
 
 If meeting:
 
+``` markdown
 ## Attendees
 
 Attendees:
-Date
+Date:
+```
 
+if design doc:
+
+``` markdown
 ## Use Cases
+```
 
 ## Notes and Summary
 
