@@ -1,4 +1,4 @@
-# Direct Deposit for EDU research & design
+# Certificate of eligibility (COE) research & design
 **VSA eBenefits Team | February 2021**
 
 `James Adams, designer`
