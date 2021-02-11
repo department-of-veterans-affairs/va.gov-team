@@ -1,5 +1,28 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
+### 2/11 Email Exchange
+
+### Routed Queries
+
+VA: We need to do work to fully implement routed queries.
+- Search.gov: On routed queries, I agree a call might be helpful - does Sam have any availability next Friday (2/19) 3-4PM ET?
+
+#### Typeahead
+
+- For the typeahead queries, three lists from your team would be helpful:
+   - A list of misspellings: This correction will take into effect anytime a suggestion is created, ensuring that the misspellings are not presented to the user. I've added the ones already listed in this ticket.
+   - A list of suggestions to add: I've added the ones you've listed here. Any "modifications" of suggestions are essentially just solved by creating new ones, so those would fall into this list.
+   - A list of suggestions to delete: Once deleted, these should no longer appear as suggestions. 
+
+- From those lists, we should be able to address the majority of this SAYT cleanup! Let us know if you have a sense of the volume of these lists; it'll just require some manual work on our end, so will help us give you an estimate on when we can incorporate the changes.
+
+-Lastly, the filtering we're implementing on state names & abbreviations should take care of the Locations examples you've listed! Names will be harder to systematically do, but if you add those to the "suggestions to delete" list we will be good to go.
+
+### Spellcheck
+
+- We use spelling suggestions provided by Elastic to trigger the display of the "corrected" query. Let us know if there's any specific behavior that you want us to look into.
+
+ - Since the search term does match the document text in the "goverment" case, we would expect those results to show - hopefully, the typeahead will help coax users to use the right spelling.
 
 
 ### 2/10 Email Exchange
