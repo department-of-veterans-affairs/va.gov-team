@@ -20,6 +20,15 @@
 
 </details>
 
+## February 17 2021
+
+
+
+Content model / FE changes
+
+* Look back at `fieldDate` [PR #16015](https://github.com/department-of-veterans-affairs/vets-website/pull/16015) and method 
+* Facility health services cutover
+
 ## February 10 2021
 
 All was handled async: 
