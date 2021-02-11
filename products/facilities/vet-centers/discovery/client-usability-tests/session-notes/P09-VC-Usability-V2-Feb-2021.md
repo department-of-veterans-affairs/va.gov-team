@@ -52,7 +52,9 @@ The first thing I look at is locations. I see they also have a phone number and 
 
 It is nice to have Vet Centers as part of public areas such as strip malls because some vets, especially Vietnam vets, are not trusting of the government and don&#39;t want to go into a government building. It is important to meet people where they are.
 
-\*referring to mental health care dropdown\* In my experience, you cannot get same day help from a Vet Center. Within the past 6 months I called and asked for same day help and there is nothing remotely close to my area that would take me within a week. They say they have non-traditional hours but that is not the case. They are not as flexible as this makes it seem.
+\*referring to mental health care dropdown\* "we have non-traditional hours" yeah, they say that but that's not been the case. I know if you've been to one VA facility, you've only been to one VA facility but this is the second time I've reached out to a Vet Center. Once I finally got in, it was a much better experience. 
+
+In my experience, you cannot get same day help from a Vet Center. Within the past 6 months I called and asked for same day help and there is nothing remotely close to my area that would take me within a week. They say they have non-traditional hours but that is not the case. They are not as flexible as this makes it seem.
 
 Loved the Durham, NC VA
 
