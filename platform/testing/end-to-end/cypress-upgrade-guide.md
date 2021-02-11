@@ -1,183 +1,43 @@
-# Cypress 6.2.1 Upgrade Guide
+# Cypress Upgrade Guide
 
-The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them, which is expected to happen in the next major release (7.x), we recommend making these changes by the end of March 2021, to safely avoid any issues resulting from the next update. Please carefully read the guidance below. If you have any questions please drop by #vsp-testing-tools-team to get support.
+Cypress is under active development, and the Cypress development team has been releasing regular changes to the tool. Minor version are released every few weeks, while major versions are released a few times per year. This guide documents our approach to upgrading Cypress consistently so that potential issues with upgrades are adequately addressed, and VFS teams are informed of any relevant changes to Cypress.
 
 # Table of Contents
 
-- [Cypress 6.2.1 Upgrade Guide](#cypress-621-upgrade-guide)
-- [Table of Contents](#table-of-contents)
-  - [Overview <a name="overview"></a>](#overview-)
-  - [Migration changes <a name="migration-changes"></a>](#migration-changes-)
-    - [`cy.intercept()` vs. `cy.route()` <a name="intercept"></a>](#cyintercept-vs-cyroute-)
-    - [Fixtures <a name="fixtures"></a>](#fixtures-)
-    - [Non-existent elements <a name="non-existent-elements"></a>](#non-existent-elements-)
-    - [Opacity of elements <a name="opacity"></a>](#opacity-of-elements-)
-    - [Retrying tests <a name="retries"></a>](#retrying-tests-)
-    - [Retrying individual tests <a name="individual-retries"></a>](#retrying-individual-tests-)
-    - [Cookies <a name="cookies"></a>](#cookies-)
-    - [Blocking hosts <a name="blocking-hosts"></a>](#blocking-hosts-)
-    - [`dirname` and `filename` <a name="dirname-filename"></a>](#dirname-and-filename-)
-  - [Additional resources <a name="additional-resources"></a>](#additional-resources-)
+- [Minor version updates](#minor-version-updates)
+- [Major version updates](#major-version-updates)
+- [Additional resources](#additional-resources)
 
-## Overview <a name="overview"></a>
+## Minor version updates
 
-The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them. A full, detailed guide of all changes can be found in the [additional resources](#additional-resources) section.
+Currently, minor version updates of Cypress are released roughly once every few weeks. Historically, minor versions have fixed bugs and occasionally introduced new features. Minor versions typically do not introduce any potential breaking changes to tests such as test syntax changes.
 
-## Migration changes <a name="migration-changes"></a>
+In `vets-website`, there are two steps to updating Cypress:
 
-### `cy.intercept()` vs. `cy.route()` <a name="intercept"></a>
+- Running `yarn upgrade cypress@version --dev`.
+- Manually updating the Cypress version in `package.json` under the `"resolutions"` section.
 
-[`cy.server()`](https://docs.cypress.io/api/commands/server.html) and [`cy.route()`](https://docs.cypress.io/api/commands/route.html) are being deprecated in favor of [`cy.intercept()`](https://docs.cypress.io/api/commands/intercept.html). `cy.server()` is not needed when using `cy.intercept()`. Syntax for `cy.intercept()` is the same as it is for `cy.route()`.
+After installing the update, all existing Cypress tests should be run locally, on Jenkins, and on CircleCI to check for any regressions. Cypress' changelog includes a list of changes included with the minor version releasse, so any test failures should be inspected to see if they are related to these changes.
 
-For example, this block of code:
+It is unlikely that minor versions will include significant changes such as major deprecations; however, if this is the case then the [major version update guide](#major-version-updates) should be followed.
 
-```javascript
-cy.server();
-cy.route('/hello').as('helloWorld');
-```
+## Major version updates
 
-can be re-written as
+Major version updates to Cypress typically come with significant changes to functionality, new features, deprecated methods, and other changes. Additional testing and communication is required to ensure Cypress is updated without issues.
 
-```javascript
-cy.intercept('/hello').as('helloWorld');
-```
+The process for updating to a new major version is the same as described in the [minor version update section](#minor-version-updates). The major version should be tested locally, on Jenkins, and on CircleCI to check for regressions. Additionally, tests may have to be inspected to see if they contain deprecated methods and other significant changes from the major update.
 
-`cy.wait()` also behaves differently with `cy.intercept()`:
+Due to the significant changes that come with major versions, Cypress has a [migration guide](https://docs.cypress.io/guides/references/migration-guide.html) that helps with the transition. The key changes from this guide should be communicated to engineering teams:
 
-```javascript
-cy.server();
-cy.route('/hello').as('helloWorld');
-cy.wait('@helloWorld')
-  .then(({ requestBody, responseBody, status }) => {
-    expect(status).to.eq(200);
-  });
-```
+- A migration guide should be provided that covers key changes engineers should be aware of
+- If there are any deprecations, these should be mentioned in the migration guide.
+- The guide should be shared with all engineering teams before the update is merged to `master`.
+- If necessary, teams should be given sufficient notice of changes that may impact testing.
+- After sharing the migration guide, the update can be merged to `master`.
+- After merging, tests should be monitored to check for new issues. Cypress' migration guides are not comprehensive and may omit breaking changes.
 
-now looks like:
+## Additional resources
 
-```javascript
-cy.intercept('/hello').as('helloWorld');
-cy.wait('@helloWorld')
-  .then(({ request, response }) => {
-    expect(response.statusCode).to.eq(200);
-  });
-```
+- Cypress has a migration guide available on [docs.cypress.io](https://docs.cypress.io/guides/references/migration-guide.html).
 
-### Fixtures <a name="fixtures"></a>
-
-`cy.intercept()` includes a `routeHandler` argument in which fixture paths can be specified. The syntax is slightly different than with `cy.route()`:
-
-```javascript
-cy.server();
-cy.route('GET', '/hello', 'fx:helloWorld');
-```
-
-now looks like:
-
-```javascript
-cy.intercept('GET', '/hello', {
-  fixture: 'helloWorld'
-});
-```
-
-### Non-existent elements <a name="non-existent-elements"></a>
-
-Cypress 6 introduces changes that affect how assertions behave for non-existent elements. Cases that used to pass now fail, as Cypress 6 is more strict about assertions for these kinds of elements.
-
-Examples of assertions that used to pass but now fail:
-
-```javascript
-cy.get('#does-not-exist').should('not.be.visible');
-cy.get('#does-not-exist').should('not.have.class', 'present');
-cy.get('#does-not-exist').should('not.contain', 'text');
-```
-
-With Cypress 6, the preferred approach is to simply check that the element does not exist:
-
-```javascript
-cy.get('#does-not-exist').should('not.exist');
-```
-
-### Opacity of elements <a name="opacity"></a>
-
-Cypress 6 treats elements with the CSS property `opacity: 0` as not visible, but these elements can still be interacted with. In older versions of Cypress the following assertion would fail, but now passes:
-
-```javascript
-// The `.zero-opacity` element has the CSS property `opacity: 0`.
-cy.get('.zero-opacity').should('not.be.visible');
-```
-
-### Retrying tests <a name="retries"></a>
-
-Cypress 6 supports retries of tests. The number of retries is passed in as an environment variable when running tests. Cypress will retry failing tests for the specified number of times before marking it as a failed test.
-
-```sh
-CYPRESS_RETRIES=2 cypress run --spec "path/to/test.cypress.spec.js"
-```
-
-The number of retries can also be added to `vets-website/config/cypress.json`:
-
-```javascript
-{
-  "retries": {
-    "runMode": 1, // when using `cy run`
-    "openMode": 3 // when using `cy open`
-  }
-}
-```
-
-### Retrying individual tests <a name="individual-retries"></a>
-
-The number of retries can be set per test with the following syntax:
-
-```javascript
-it('example test', {
-  retries: 3
-}, () => {
-  // test body
-});
-```
-
-### Cookies <a name="cookies"></a>
-
-Syntax for whitelisting cookies has changed in Cypress 6. The `whitelist` parameter is now named `preserve`.
-
-Before:
-
-```javascript
-Cypress.Cookies.defaults({
-  whitelist: 'session_id'
-});
-```
-
-After:
-
-```javascript
-Cypress.Cookies.defaults({
-  preserve: 'session_id'
-});
-```
-
-### Blocking hosts <a name="blocking-hosts"></a>
-
-For blocking hosts in `vets-website/config/cypress.json`, the configuration variable `blacklistHosts` has been renamed to `blockHosts`.
-
-### `dirname` and `filename` <a name="dirname-filename"></a>
-
-The global variables `__dirname` and `__filename` no longer include a leading slash in the path.
-
-```javascript
-expect(__dirname).to.equal('/cypress/integration');
-expect(__filename).to.equal('/cypress/integration/app_spec.js');
-```
-
-now looks like:
-
-```javascript
-expect(__dirname).to.equal('cypress/integration');
-expect(__filename).to.equal('cypress/integration/app_spec.js');
-```
-
-## Additional resources <a name="additional-resources"></a>
-
-A full migration guide can be found on [docs.cypress.io](https://docs.cypress.io/guides/references/migration-guide.html).
+- Cypress has a [changelog](https://docs.cypress.io/guides/references/changelog.html) available for all versions.
