@@ -12,7 +12,7 @@ The matrix below illustrates the current reality of what VSA-QA can realisticall
 | ------- | ------ | ----------------- |
 | [Manual testing](vsa-qa-process.md) | :heavy_check_mark: | |
 | Unit testing | | :heavy_check_mark: |
-| E2E testing (incl. [Regression](vsa-qa-regression.md)) | | :heavy_check_mark: |
+| [E2E testing](vsa-qa-e2e-testing.md) (incl. [Regression](vsa-qa-regression.md)) | | :heavy_check_mark: |
 | Load testing | | :heavy_check_mark: |
 
 This matrix will be updated if/when VSA-QA staffing increases.
