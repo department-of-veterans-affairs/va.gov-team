@@ -17,7 +17,7 @@
 ### Project-specific setup
 
 - [ ] Make sure you have the [mobile research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md) and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
-- [ ] have the mobile prototype available if person doesn't have any claims in progress: [Mobile A](https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/437719085_myVA_Mobile_A) and [Mobile B](https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B)
+- [ ] have the mobile prototype available [Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444040702_My_VA_Mobile) 
 
 ## Intro - 5 minutes
 
