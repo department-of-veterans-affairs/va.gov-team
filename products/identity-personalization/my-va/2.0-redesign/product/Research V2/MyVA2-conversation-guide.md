@@ -132,6 +132,9 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 5. If you were looking to send a message and you were on this page, what would you do?
 6. What is confusing about this section?
 7. What information is missing here?
+8. Why do you think we are showing the message in the gray box? How would you read this message?
+9. What is the most important thing we could tell you on this page about your messages?
+10. What would make you want to click to see more information about your messages?
 
 ### Appointments
 
@@ -139,11 +142,13 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 
 1. Can you walk me through how you would do that?
 2. How many appointments do you have total?
-3. Was it easy or hard to find your appointments?
-4. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
-5. If you were looking to schedule an appointment and you were on this page, what would you do?
-6. What is confusing about this section?
-7. What information is missing here?
+3. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
+4. If you were looking to schedule an appointment and you were on this page, what would you do?
+5. What is confusing about this section?
+6. What information is missing here?
+7. Why do you think we are showing the appointment in the gray box? How would you cancel this appointment if you needed to?
+8. What is the most important thing we could tell you on this page about your appointments?
+9. What would make you want to click to view more information about your appointments?
 
 ### Prescriptions
 
@@ -151,11 +156,14 @@ Okay, now if you could imagine you've come to this page to check whether or not 
 
 1. Can you walk me through how you would do that?
 2. Can you describe to me what you are looking at in this prescriptions section?
-3. Was it easy or hard to find your prescription refills?
-4. If you were to click on the link '3 prescription updates', what would you expect to happen?
-5. What does 'prescription update' mean?
-6. What is confusing about this section?
-7. What information is missing here?
+3. If you were to click on the link '3 prescription updates', what would you expect to happen?
+4. What does 'prescription update' mean?
+5. What is confusing about this section?
+6. What information is missing here?
+7. Why do you think we are showing the prescription in the gray box? How would you get more information about this prescription if you needed to?
+8. How many prescriptions do you (aka Kim) have that are currently in the process of being refilled?
+9. What is the most important thing we could tell you on this page about your prescriptions?
+10. What would make you want to click to view more information about your prescriptions?
 
 #### Things to watch for:
 
@@ -182,6 +190,7 @@ Okay, great. I have another scenario for you. You're looking to see all of your 
 4. If you didn't have any claims or appeals in progress, what would you expect to happen?
 5. What is confusing about this section?
 6. What information is missing in this section?
+7. What is the most important thing we could tell you about your claims and appeals?
  
 #### Things to watch for:
 
@@ -195,10 +204,11 @@ Imagine you were interested in applying for some more benefits at the VA.
 
 1. Could you walk me through how you would do that?
 2. Can you describe to me what you are seeing in this section?
-3. Why do you think these benefits are showing vs some other ones?
+3. Why do you think the benefits in the 'Benefits you might be interested' section are showing vs some other ones?
 4. If you had started an application, how would you finish and submit it?
 5. What is confusing about this section?
 6. What information is missing in this section?
+7. How could we improve this section?
 
 #### Things to watch for:
 
@@ -238,21 +248,11 @@ Imagine that this was now the first page that you saw directly after logging in.
 
 1. What additional features would you need for this to work as a homepage?
 
+*Moderator share screen and pull up real homepage* Let's look at the existing VA.gov homepage. 
 
-### Comparison
+1. Tell me how it compares to the page we just looked at.
+2. Would you prefer to see the existing homepage when you log in or the My VA page we looked at today as your homepage? Why?
 
-Thanks so much! If you could go ahead and stop sharing your screen, I'm going to show you a different version of MyVA.
-
-*Moderator shares screen and pulls up old MyVA*
-
-Link: 
-
-1. Do you remember if you ever used this version?
-    - (if yes) What did you do on here?
-    - (if no) What are your thoughts on these pages vs the pages we looked at earlier?
-2. Based on your experience, would you prefer to use the version we used today or this version? Why?
-3. How would this version be different?
-4. Any other thoughts?
 
 #### Things to watch for:
 
