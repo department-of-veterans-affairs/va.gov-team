@@ -80,7 +80,7 @@ Improve the provider selection experience while also improving the quality of da
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Canary - February 17, 2021
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
