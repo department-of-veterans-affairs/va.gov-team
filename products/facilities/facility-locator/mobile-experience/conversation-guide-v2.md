@@ -64,7 +64,6 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-
 ## Start recording to the Cloud
 
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
@@ -72,12 +71,9 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## Warm-up Questions
 
 - Can you tell me a little about yourself or your service history?
-- Have you used the VA website before?
-\\\**reviewer comments: Recommend specifying va.gov if you're looking for feedback on va.gov. Veterans may think "The VA website" refers to EBenefits or MyHealtheVet**\\\
+- Have you used the VA.gov website before?
 - If yes, what was the last thing you were doing or looking for on the site?
-- ~Have you ever tried to find a VA facility on the VA website on your computer or a mobile device?~
-\\\**reviewer comments - there are too many questions in this question - break it up**\\\
-- Have you ever tried to find a VA facility using the va.gov website on your computer? How about a mobile phone? 
+- Have you ever tried to find a VA facility on VA.gov on your computer or a mobile device?
 - Have you visited a VA facility for healthcare in the past couple of years?
  
 ## Prototype - 35 minutes
@@ -85,22 +81,18 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 ## 1st Task: Find the nearest VA facility in the Washington DC area that offers optometry near you. 
 
 ### Scenario
-- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 821 \\\reviewer comment - is there a letter or number missing here??\\\ St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
+- You've come to the VA website because you need to find the nearest facility that offers optometry services near you. You are currently living at 82 I St. SE in Washington DC. Can you walk me through how you would find a VA facility that offers optometry services near you? Let me know when you’re done and which one you selected. 
 
 **Things to watch for**
 
 - How does the participant search by location (geolocation or address)?
 - Is the participant comfortable with letting VA.gov use their current location?
-\\\**reviewer comment - would their current location work for this study? Above you instructed the participant to pretend they live at 821 ??? St SE in DC. Your participant may be anywhere in the country, and if they use location services, that could be confusing for them.**\\\
 - Which facility type dropdown option do they select?
 - Does the participant find/use the map tab?
 
 ### Follow up questions once the user has completed 1st task
 
-- I noticed you (fill in the blank) - tell me more about why you did this
-\\**How are you using this question? To identify something that that the participant did that you were not expecting? Be careful not to phrase it in a way that would make the participant feel as though they did something wrong.**\\
-- ~Was there anything missing from this list of facilities?~
-\\**How are you using this question? Will a participant know what is missing?**\\
+- Tell me more about why you choose the option of (VA Health, etc)
 - Was there any information that you were expecting to see in this list of facilities that you did not see? 
 
 ## 2nd Task: Review VA location search results map
@@ -111,11 +103,11 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 **[If they didn’t go to the map view for task 1,]**
 - Ok did you see notice tab that says map? If so, why didn’t you tap on it? Would you please tap on it now? 
 
-- \\\**reviewer comments: Are you going to have them open the map view before you ask them this question? In the case where they did not notice it in the prior task, you have not yet given them the instruction to look at it.**\\\ Is this map useful for you?
-- Compare the list view vs the map view. Talk out loud/tell us what you notice. 
- - if they do not notice: Is the information presented differently? 
+### Follow up questions 
 
-\\\**reviewer comments: recommend not priming the participant to comment on differences first. See if they notice differences and comment on them.**\\\
+- Is this map useful for you?
+- Compare the list view vs the map view. Talk out loud/tell us what you notice. 
+ - If they do not notice: Is the information presented differently? 
 
 **Things to watch for**
 
@@ -125,8 +117,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 ### Scenario
 
-While you are in the map tab, can you show me how you would view more than one location near you?
-\\\**Reviewer comment: I'm not sure if I would understand what you are asking me to do here. recommend clarifying this ask. Maybe: "Can you show me how you would view all of the locations near you?" If you want them to interact with the map and try different locations, you should give them that instruction. **\\
+While you are in the map tab, can you show me how you would view all of the locations near you?
 
 **Things to watch for**
 
@@ -136,17 +127,14 @@ While you are in the map tab, can you show me how you would view more than one l
 - Does the participant find that the map pins are interactive and find that they can be clicked to display a VA location card?
 - How would the participant dismiss the location cards?
 
-
-
 ## 4th Task: Contact a VA Facility
 
 ### Scenario
-Choose one of the locations near you. What would you do next to make an appointment at that location?
-- if needed: is there any information available on this view that would help you make an appointment? 
+Choose one of the locations near you. Is there any information available on this view that would help you make an appointment? 
+### Follow up questions 
 
 - Can you see yourself using this tool on your mobile phone? 
-- If YES: When might you you use this locator on your phone? 
-\\\**reviewer comment - i HOPE they are not using this while driving in a car! Also - don't fill their mouths with the answer you are expecting.**\\\
+- Can you tell me a situation when this would be helpful for you to use it?
 
 **Things to watch for**
 
@@ -160,7 +148,6 @@ Now you’ve decided you want to look for a facility that offers optometry near 
 **Things to watch for**
 
 - Does the participant prefer entering an address manually or sharing their location?
-\\\**Moderator note: If they are sharing their location, you will likely NOT get pinned to Sacramento. You will get pinned to wherever the participant is. This may be confusing for them. If you are looking to test both the address lookup function and the "share my location" function, maybe don't give them a specific place, and let them look near where they are. Else, I wouldn't expect to be able to use the share my location function effectively in this study. **\\\
 - Can the participant easily clear the location field?
 
 ## Post-Task Interview 
@@ -171,7 +158,6 @@ Now you’ve decided you want to look for a facility that offers optometry near 
 - Do you have a preference? 
 - When you are looking at the search results in the list view, how far is too far? Fill in the blank for me: "I wouldn't want to see anything on a list that is further than ___ miles?"
 - How large of an area of the map would you want to interact with?
-\\\**As phrased, these are really hard questions to answer. What dimension would they be able to give a response in?**\\\
 - When you are looking at the search results in the map view, is it helpful to see your neighborhood? Your whole town? Your county? Your state? 
 - What other questions do you have? 
 
@@ -179,6 +165,7 @@ Now you’ve decided you want to look for a facility that offers optometry near 
 
 I really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 Thank you so much, and enjoy the rest of your day!
+
 
 
 
