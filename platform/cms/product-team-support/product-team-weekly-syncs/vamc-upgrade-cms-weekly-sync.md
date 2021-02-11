@@ -24,7 +24,8 @@
 ## Friday Feb 12 10:30am ET
 
 - Dual state launches for the next 2 weeks
-- VAMC editor training
+- VAMC editor training (is this needed?)
+- Menu cleanup for future VISNs (the issue where structure was incorrect)
 
 ## Friday Feb 5 10:30am ET
 
