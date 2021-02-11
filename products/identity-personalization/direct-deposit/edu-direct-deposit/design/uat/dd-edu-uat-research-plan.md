@@ -5,6 +5,8 @@
 
 ---
 
+`Work in-progress`
+
 ### Background
 Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). Management of EDU payments is being migrated from eBenefits to be co-located with the C&P direct deposit feature in VA.gov profile. Users will be able to view and edit their direct deposit information for both types of payments in their profile.
 
@@ -67,12 +69,14 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 
 #### Team Availability
 
-Please allow 30 minutes between sessions.
+Please allow 30 minutes between sessions. `Dates TBD`
 
 | Dates | Times (EDT) |
 | --- | --- |
 | February XX, 2021 | 9 AM to noon |
 | February XX, 2021 | 9 AM to noon |
+| March XX, 2021 | 9 AM to 5 PM |
+| March XX, 2021 | 9 AM to 5 PM |
 | March XX, 2021 | 9 AM to 5 PM |
 
 ### Team members/roles
