@@ -11,6 +11,7 @@ Slack - #va-notify
 - [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
 - [What We Currently Offer](#current-offering)
+- [Email Frame & Template](#email-frame-template)
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
@@ -38,6 +39,9 @@ Slack - #va-notify
 
 ## Current Offering
 ![](images/current_offer.png)
+
+## Email Frame & Template
+![](images/email frame-template.PNG)
 
 ## Business Onboarding Guide
 ![](images/business.png)
