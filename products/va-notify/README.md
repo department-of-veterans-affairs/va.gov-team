@@ -40,7 +40,7 @@ Slack - #va-notify
 ## Current Offering
 ![](images/current_offer.png)
 
-## Email Frame &amp Template
+## Email Frame & Template
 ![](images/email-frame-template.PNG)
 
 ## Business Onboarding Guide
