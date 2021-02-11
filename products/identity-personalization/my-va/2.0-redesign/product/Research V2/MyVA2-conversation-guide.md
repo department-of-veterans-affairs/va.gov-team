@@ -108,15 +108,14 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 
 1. Can you walk me through how you would do that?
 2. If you saw this information on your dashboard, what would you do next?
-2. How many new messages do you have?
-3. Was it easy or hard to find your new messages?
-4. If you were to click on the link '2 unread messages', what would you expect to happen?
-5. If you were looking to send a message and you were on this page, what would you do?
-6. What is confusing about this section?
-7. What information is missing here?
-8. Why do you think we are showing the message in the gray box? How would you read this message?
-9. What is the most important thing we could tell you on this page about your messages?
-10. What would make you want to click to see more information about your messages?
+3. How many new messages do you have?
+4. Was it easy or hard to find your new messages?
+5. If you were to click on the link '2 unread messages', what would you expect to happen?
+6. If you were looking to send a message and you were on this page, what would you do?
+7. What is confusing about this section?
+8. What information is missing here?
+9. Why do you think we are showing the message in the gray box? How would you read this message?
+10. What is the most important thing we could tell you on this page about your messages?
 
 ### Appointments
 
@@ -124,14 +123,14 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 
 1. Can you walk me through how you would do that?
 2. If you saw this information on your dashboard, what would you do next?
-2. How many appointments do you have total?
-3. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
-4. If you were looking to schedule an appointment and you were on this page, what would you do?
-5. What is confusing about this section?
-6. What information is missing here?
-7. Why do you think we are showing the appointment in the gray box? How would you cancel this appointment if you needed to?
-8. What is the most important thing we could tell you on this page about your appointments?
-9. What would make you want to click to view more information about your appointments?
+3. How many appointments do you have total?
+4. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
+5. If you were looking to schedule an appointment and you were on this page, what would you do?
+6. What is confusing about this section?
+7. What information is missing here?
+8. Why do you think we are showing the appointment in the gray box? How would you cancel this appointment if you needed to?
+9. What is the most important thing we could tell you on this page about your appointments?
+
 
 ### Prescriptions
 
@@ -139,15 +138,15 @@ Okay, now if you could imagine you've come to this page to check whether or not 
 
 1. Can you walk me through how you would do that?
 2. If you saw this information on your dashboard, what would you do next?
-2. Can you describe to me what you are looking at in this prescriptions section?
-3. If you were to click on the link '3 prescription updates', what would you expect to happen?
-4. What does 'prescription update' mean?
-5. What is confusing about this section?
-6. What information is missing here?
-7. Why do you think we are showing the prescription in the gray box? How would you get more information about this prescription if you needed to?
-8. How many prescriptions do you (aka Kim) have that are currently in the process of being refilled?
-9. What is the most important thing we could tell you on this page about your prescriptions?
-10. What would make you want to click to view more information about your prescriptions?
+3. Can you describe to me what you are looking at in this prescriptions section?
+4. If you were to click on the link '3 prescription updates', what would you expect to happen?
+5. What does 'prescription update' mean?
+6. What is confusing about this section?
+7. What information is missing here?
+8. Why do you think we are showing the prescription in the gray box? How would you get more information about this prescription if you needed to?
+9. How many prescriptions do you (aka Kim) have that are currently in the process of being refilled?
+10. What is the most important thing we could tell you on this page about your prescriptions?
+
 
 #### Things to watch for:
 
@@ -184,12 +183,12 @@ Okay, great. I have another scenario for you. You're looking to see all of your 
 
 1. Could you walk me through how you would do that?
 2. If you saw this information on your dashboard, what would you do next?
-2. How many claims or appeals do you have?
-3. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
-4. If you didn't have any claims or appeals in progress, what would you expect to happen?
-5. What is confusing about this section?
-6. What information is missing in this section?
-7. What is the most important thing we could tell you about your claims and appeals?
+3. How many claims or appeals do you have?
+4. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
+5. If you didn't have any claims or appeals in progress, what would you expect to happen?
+6. What is confusing about this section?
+7. What information is missing in this section?
+8. What is the most important thing we could tell you about your claims and appeals?
  
 #### Things to watch for:
 
