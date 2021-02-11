@@ -84,10 +84,10 @@ Some of these may already be part of the originating request, but need validatio
 4. Click **People**.
 5. Enter their VA.gov email address in the **Name or email contains** field, then click **Filter**.
 6. Find their name in the search results, then click **Edit**.
-7. In the **Roles **list, check the box(es) next to the roles they should have.
+7. In the **Roles** list, check the box(es) next to the roles they should have.
 8. Scroll down to the bottom of the page and click **Save**.
-9. On the **People **page, in the results list, find the user again, go to the **Sections **column, and click **Edit**.
-10. In the **Sections **list, click the checkbox next to the appropriate section(s).
+9. On the **People** page, in the results list, find the user again, go to the **Sections** column, and click **Edit**.
+10. In the **Sections** list, click the checkbox next to the appropriate section(s).
 11. Click **Save**.
 
 OR
@@ -106,7 +106,7 @@ OR
 10. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
 11. Leave the box checked next to **Enable this user to leverage SAML authentication**.
 12. Skip **Password Expiration** for now. Currently there is no expiration period.
-13. Click **Create new account. (**Will see account creation confirmation in green at the top of the screen)
+13. Click **Create new account**. (Will see account creation confirmation in green at the top of the screen)
 14. In the top toolbar menu, click **Manage**.
 15. Click **People**.
 16. Find the user account you just created in the results list.
