@@ -49,7 +49,7 @@ Before we start, a few things I want to mention:
 4. Do you currently, or have you ever, filed a claim or appeal with the VA?
     - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
     
-5. I'd like you to imagine that you have logged-in to VA.gov and you've landed on your personal dashboard. What things would you be looking to do on your dashboard?
+5. How do you manage your health/benefits online? 
      
 ## Logistics: figure out how to share your screen - 5 minutes
 
@@ -85,39 +85,20 @@ Just as a reminder - all of the information in this prototype is completely made
 
 *Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.*
 
-## First Task - Wayfinding and Disability rating
 
-Okay great, if you could go to VA.gov on your phone we'll get started. You've just come to va.gov and you are looking to see your personal disability rating. 
+## First Task - Unauthenticated Nav/MyVA 
 
-1. Can you walk me through how you would do that? 
+You've come to VA.gov and you want to see the latest updates on your benefits. 
 
-    *If they look in the main nav or the 'Disability' box*
-    
-    1. Can you tell me why you would expect it to be there?
+1. Where would you expect to see the latest updates on your benefits?
 
-   *If they click on MyVA*
-     
-   1. Can you tell me why you would expect it to be there? 
-   2. If you were to click on MyVA, what information would you expect to be on that page?
+Go ahead and scroll to the top nav/header, you'll see a link that says 'MyVA'. 
 
+2. Without clicking on it, can you tell me what you would expect to see on this page?
 
-Great! Thank you. Since you'll need to be logged-in for the rest of this, I'm going to share a link with you for the prototype we'll be looking at today. 
-
-*share link*
+Great, thank you. If you could go ahead and click on MyVA in the top right hand corner.
 
 Just as a reminder - all of the information in this prototype is completely made up. We will be logging in today as as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great.
-
-Great, thank you. If you could go ahead and click on MyVA in the top right hand corner. You've just landed on this page and you are looking to see (complete the first task that participant mentioned) (OR see your personal disability rating).
-
-1. Can you walk me through how you would do that?
-2. What would you expect to happen if you clicked on the disability rating link?
-3. Was it easy or hard to find your disability rating? Why?
-4. What was confusing about this experience?
-
-#### Things to watch for:
-
-- Can people find their disability rating?
-- Did they notice it in the nametag?
 
 ## Second task: Health care
 
@@ -126,6 +107,7 @@ Great, thank you. If you could go ahead and click on MyVA in the top right hand 
 Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see how many new messages you have from your health care team.
 
 1. Can you walk me through how you would do that?
+2. If you saw this information on your dashboard, what would you do next?
 2. How many new messages do you have?
 3. Was it easy or hard to find your new messages?
 4. If you were to click on the link '2 unread messages', what would you expect to happen?
@@ -141,6 +123,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 Okay, we're now going to move on to another scenario. You've come to this page to see when you are visiting your doctor next.
 
 1. Can you walk me through how you would do that?
+2. If you saw this information on your dashboard, what would you do next?
 2. How many appointments do you have total?
 3. If you were to click on the link '6 upcoming appointments', what would you expect to happen?
 4. If you were looking to schedule an appointment and you were on this page, what would you do?
@@ -155,6 +138,7 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 Okay, now if you could imagine you've come to this page to check whether or not your medication will be arriving soon.
 
 1. Can you walk me through how you would do that?
+2. If you saw this information on your dashboard, what would you do next?
 2. Can you describe to me what you are looking at in this prescriptions section?
 3. If you were to click on the link '3 prescription updates', what would you expect to happen?
 4. What does 'prescription update' mean?
@@ -175,7 +159,21 @@ Okay, now if you could imagine you've come to this page to check whether or not 
 - Do people understand the CTAs will not take them directly to the latest or most recent information? Do they understand CTAs will take them to an overview page?
 - Are there other links, CTAs, or information that would be helpful to show in this section?
 
-## Third task: Claims scenario
+## Third Task - Disability rating
+
+Okay great, from here you are looking to see what your disability rating is.
+
+1. Can you walk me through how you would do that?
+2. What would you expect to happen if you clicked on the disability rating link?
+3. Was it easy or hard to find your disability rating? Why?
+4. What was confusing about this experience?
+
+#### Things to watch for:
+
+- Can people find their disability rating?
+- Did they notice it in the nametag?
+
+## Fourth task: Claims scenario
 
 Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
 
@@ -185,6 +183,7 @@ Okay, great. Now, I'm going to give you a scenario. You've recently submitted a 
 Okay, great. I have another scenario for you. You're looking to see all of your current claims and appeals and you've just landed on this page. 
 
 1. Could you walk me through how you would do that?
+2. If you saw this information on your dashboard, what would you do next?
 2. How many claims or appeals do you have?
 3. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
 4. If you didn't have any claims or appeals in progress, what would you expect to happen?
@@ -198,7 +197,7 @@ Okay, great. I have another scenario for you. You're looking to see all of your 
 - Do they know how many claims and appeals they have total? Is this information helpful to them?
 - Do they know how to view the featured claim/all claims?
 
-## Fourth task: Apply for Benefits
+## Fifth task: Apply for Benefits
 
 Imagine you were interested in applying for some more benefits at the VA.
 
@@ -219,7 +218,7 @@ Imagine you were interested in applying for some more benefits at the VA.
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
 
-## Fifth task: Profile and MyVA
+## Sixth task: Profile and MyVA
 
 Say you've landed on this page and you want to change your mailing address.
 
@@ -232,7 +231,7 @@ Say you've landed on this page and you want to change your mailing address.
 - Where do users think the profile link goes?
 - What do they think is the difference is between the profile vs. My VA?
 
-## Sixth task: Overview and Comparison
+## Seventh task: Overview and Homepage assessment
 
 ### Overview
 
@@ -246,7 +245,7 @@ Go ahead and scroll through this page from the top and walk me through your thou
 
 Imagine that this was now the first page that you saw directly after logging in.
 
-1. What additional features would you need for this to work as a homepage?
+1. What would you add, remove, or change about this page if it were your personal homepage?
 
 *Moderator share screen and pull up real homepage* Let's look at the existing VA.gov homepage. 
 
