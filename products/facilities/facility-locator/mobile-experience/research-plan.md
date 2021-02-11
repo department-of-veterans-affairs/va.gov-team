@@ -136,6 +136,7 @@ Please list the people who will be serving in each role.
   - Gibran Rodriguez, grodriguez@governmentcio.com
   - Lance Sanchez, lsanchez@governmentcio.com
   - Dave Conlon, david.conlon@va.gov
+  - Christian Valla, cvalla@governmentcio.com
   
 - Note-takers: Perigean 
 
