@@ -1,0 +1,280 @@
+## Invitation email, also send calendar appointment with text
+
+*Subject line:* Invitation to CMS Demo Environments Training
+
+**Body:**
+
+You are invited to the CMS Demo Environments Training on Thursday, February 11, from 12:00-1:00 p.m. ET.
+
+Please note that live sessions are recorded to capture questions and answers. Please let us know if you have any concerns about attending a recorded session.
+
+Before joining the session, please take a moment to review the information below to prepare for our time together. 
+
+**Date**
+
+Thursday, February 11, from 12:00-1:00 p.m. ET
+
+**Location**
+
+Online via Microsoft Teams (see calendar appointment)
+
+**Before you join**
+
+To make sure you’re able to fully participate in orientation, please take a moment to test Teams.
+
+
+
+*   If you haven’t joined a Teams meeting recently, please [try a test meeting](https://support.microsoft.com/en-us/office/manage-your-call-settings-in-teams-456cb611-3477-496f-b31a-6ab752a7595f#:~:text=To%20make%20a%20test%20call,and%20record%20a%20short%20message.).
+*   If you have any issues during testing, please visit the [Teams troubleshooting page](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/meetings/how-to-join-a-teams-meeting#troubleshooting-meeting-join).
+*   A headset is recommended for best audio experience, but is not necessary
+
+If you are using a non-VA laptop for CMS demo environments,  you will need to download the VA Root Certificate Authority in your browser. Please follow the [instructions to do this](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/https.md) prior to the training for a better experience. If you are using a VA laptop, this step isn’t necessary.
+
+**Reasonable accommodation**
+
+Please let us know if you require reasonable accommodation to attend this training.
+
+We’re looking forward to seeing you soon. If you have further questions, please let us know by replying to this email (reply directly -- **please don’t reply all**).
+
+Thank you,
+
+
+## 
+
+---
+Reminder email -  one day before training
+
+Subject: Reminder: Invitation to CMS Demo Environments Training tomorrow
+
+Body:
+
+The Drupal CMS team is looking forward to seeing you tomorrow at CMS Demo Environments Training.
+
+**Date and Time**
+
+Thursday, February 11, from 12:00-1:00 p.m. ET
+
+**Location**
+
+Online via Microsoft Teams (see calendar appointment)
+
+**Before you join**
+
+To make sure you’re able to fully participate in orientation, please take a moment to test Teams.
+
+
+
+*   If you haven’t joined a Teams meeting recently, please [try a test meeting](https://support.microsoft.com/en-us/office/manage-your-call-settings-in-teams-456cb611-3477-496f-b31a-6ab752a7595f#:~:text=To%20make%20a%20test%20call,and%20record%20a%20short%20message.).
+*   If you have any issues during testing, please visit the [Teams troubleshooting page](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/meetings/how-to-join-a-teams-meeting#troubleshooting-meeting-join).
+*   A headset is recommended for best audio experience, but is not necessary
+
+If you are using a non-VA laptop for CMS demo environments,  you will need to download the VA Root Certificate Authority in your browser. Please follow the [instructions to do this](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/https.md) prior to the training for a better experience. If you are using a VA laptop, this step isn’t necessary.
+
+In the meantime, If you have further questions, please let us know by replying to this email (please do not Reply All).
+
+Thank you,
+
+
+
+---
+
+
+
+## Follow-up email - link to questions and answers
+
+Subject: Drupal CMS orientation follow-up + your questions answered
+
+Body:
+
+Dear VA CMS editor, 
+
+Thank you for attending Drupal CMS orientation session 5 and the entire series. The Drupal CMS team is grateful for your time, questions, and willingness to learn as we work together to build Veteran-centered experiences on VA.gov. If you have any feedback on how the training went, we would love to hear from you!
+
+A few items from our time together:
+
+**Your questions, answered** \
+If you had a question that we weren’t able to answer during the training, you can now find this information in the Drupal CMS help center, along with training resources from previous sessions.
+
+
+
+*   Session 1 the new CMS: https://prod.cms.va.gov/help/session-1-cms-orientation
+*   Session 2 editing basics: https://prod.cms.va.gov/help/session-2-editing-basics
+*   Session 3 health services: https://prod.cms.va.gov/help/session-3-health-services
+*   Session 4 facilities: 
+
+            https://prod.cms.va.gov/help/session-4-facilities
+
+*   Session 5 detail pages, menus and revisions: 
+
+            https://prod.cms.va.gov/help/session-5-detail-pages
+
+
+If you continue to have questions, please contact our help desk.
+
+**Video coming soon**
+
+We’ll be posting recordings (with captions) of session 5 in the near future. This will include a timestamp guide so you can jump to the relevant parts, and you can come back to it at any time. We will contact everyone via email once that is available. 
+
+**Feedback**
+
+Please share your feedback about the Drupal CMS editorial experience through our survey.
+
+
+
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+ [Take the survey](https://www.surveymonkey.com/r/N7DRYXT)
+
+If you have feedback about Drupal CMS training in particular, we’d love to hear it so we can improve. Just reply to this email and let us know how it went.
+
+If you have further questions, please reply to this email.
+
+Clarence Maeng, Delivery Manager
+
+VFS-CMS team
+
+_Editor-centered management for Veteran-centered content_
+
+
+
+---
+
+
+
+## Follow-up email  - recording posted
+
+Subject: Watch the recordings for Drupal CMS Orientation session 5
+
+Body:
+
+Dear VA CMS editor, 
+
+The captioned videos for Drupal CMS orientation session 5 is now available in the Drupal CMS help center. You can review the material you learned or return to it for future reference. You’ll find a link to a Youtube video of the recording, plus shortcuts to segments on specific topics.
+
+**[Training session 5: Detail Pages, menus and revisions](https://prod.cms.va.gov/help/access-training/session-5-detail-pages)**
+
+If you have feedback about the videos or the live sessions, we’d love to hear it. Let us know by replying to this email. 
+
+Thank you,
+
+Clarence Maeng, Delivery Manager
+
+VFS-CMS team
+
+_Editor-centered management for Veteran-centered content_
+
+
+
+---
+
+
+
+## Drupal CMS self-service training
+
+Subject: Drupal CMS self-service training now available
+
+Body:
+
+Dear VA CMS editor, 
+
+Welcome to Drupal CMS self-service training. Training is required before you get an account on the production (live) environment.
+
+
+
+1. Open a browser to the [training environment](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/help/access-training#available-trainings) and log in.
+*   Username: your VA.gov email address
+*   Password: drupal8
+*   PIV card login doesn’t work on the training environment.
+2. On the CMS help center training page, watch training sessions 1 through 5. When instructed, stop the videos and try the activities.
+*   Go as far as you can with each training activity. The training environment is updated more often than the training videos.
+*   The training environment isn’t an exact copy of the production environment.
+*   The training environment is regularly updated, which deletes training activities.
+3. Contact Stan Gardner after watching the training videos and trying the activities in the training environment. He will provide next steps.
+
+Please contact our help desk with any questions or feedback or reply to this email.
+
+Thank you,
+
+
+## 
+
+---
+
+
+
+## Training for webmaintainers
+
+Subject: Drupal CMS self-service training now available
+
+Body:
+
+Welcome to Drupal CMS training.
+
+**Complete self-service training for Drupal CMS access**
+
+After you have viewed the training videos and completed the related activities in the training environment, your username for the production (live) environment will be created and emailed to you. 
+
+**View training videos**
+
+Start viewing training videos at [https://prod.cms.va.gov/help/access-training#available-trainings](https://prod.cms.va.gov/help/access-training#available-trainings)
+
+Access to CMS environments and CMS help center require VA network access. If you are still waiting for VA network access, you can get a head start on training by viewing the videos on YouTube:
+
+Session 1 The new CMS: [https://youtu.be/33AXrfGff98](https://youtu.be/33AXrfGff98)
+
+Session 2 Editing basics: [https://youtu.be/cnePWZ7rHpo](https://youtu.be/cnePWZ7rHpo)
+
+**Complete training activities**
+
+Your Drupal CMS training environment username has been created for you. Your username is your current email address. Your PIV card will not work for login to the training environment. 
+
+The default password for training environment accounts is drupal8
+
+Access the Drupal CMS training environment at [http://training.demo.ci.cms.va.gov/](http://training.demo.ci.cms.va.gov/)
+
+Because the training environment is not connected to the live site, it is a safe place for you to try training activities and to explore. Please note that the training environment is occasionally updated, which deletes edited information.
+
+**Resources**
+
+Additional training resources are available in the CMS help center: [https://prod.cms.va.gov/help](https://prod.cms.va.gov/help)
+
+Please reply to this email if you have any questions about training. Our help desk can also be reached at [https://va-gov.atlassian.net/servicedesk/customer/portal/3](https://va-gov.atlassian.net/servicedesk/customer/portal/3)
+
+Thank you,
+
+Clarence Maeng, Delivery Manager
+
+VFS-CMS team
+
+_Editor-centered management for Veteran-centered content_
+
+
+## 
+
+---
+
+
+
+## CMS Training Environment Link update
+
+Dear Drupal CMS editor:
+
+You may have mistakenly received an email from us with a link to the Drupal CMS production account. Sorry for the confusion - that email was an error.
+
+We want to let you know that URL for the Drupal CMS training environment is changing. 
+
+Starting **Monday, February 15, 2021**, please use this link for Drupal CMS training activities:
+
+[https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/)
+
+Please update your training environment bookmark if you saved one on your browser.
+
+Your training environment account will be set up on the new training environment. You will log in with your VA.gov email address for the username and use the default password “drupal8”
+
+The Drupal CMS training environment is temporary. It will be refreshed on a regular basis, and at least every Monday at 9:00 a.m. ET, with the latest content and code from the production (live) environment. Any content created or edited directly in the training environment will be lost during the refresh.
+
+Please let us know if you have any questions.
+
+Thank you,
