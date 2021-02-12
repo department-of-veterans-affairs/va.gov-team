@@ -30,7 +30,7 @@ At the conclusion of this project, we will have an evaluation of this solution t
 We will also provide a report detailing further the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
 
 Specifically, our objectives are as follows:
-1.	To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries, and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
+1. To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries, and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
 2.	To meet federal/agency requirements for providing translated benefit information.
 3.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
 4.	Launch an MVP to demonstrate the recommended approach is viable, scalable and sustainable.
