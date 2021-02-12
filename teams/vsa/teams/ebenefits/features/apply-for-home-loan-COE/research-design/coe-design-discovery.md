@@ -6,6 +6,7 @@
 ---
 
 ## Problem
+A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan. The COE confirms for lenders that an applicant qualifies for the VA home loan benefit. 
 
 #### Business cases
 
