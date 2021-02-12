@@ -1,5 +1,14 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 2-12-21
+
+### Topics to Discuss
+* Changes to broken link validation
+   * Update from VSP on research
+   * Out of scope for CMS Export release
+* Status updates & timeline
+   * What needs to happen by what deadline in order to stay on track for CMS Export release?
+
 ## 2-5-21
 
 ### Topics to Discuss
