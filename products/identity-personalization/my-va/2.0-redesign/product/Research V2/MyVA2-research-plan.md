@@ -117,10 +117,15 @@ Please schedule sessions for 60 minutes with a 30 minute buffer between sessions
 Team Availability | Time (EST)
 
 February 19 | 9-12 ET
+
 February 22 | 9-4 ET
+
 February 23 | 9-4 ET
+
 February 24 | 9-4 ET
+
 February 25 | 9-4 ET
+
 February 26 | 9-4 ET
 
 (We can schedule more if need be)
