@@ -2,7 +2,7 @@
 Last Updated February 12, 2021
 
 ## POCs
-- GitHub Label: Direct Deposit  
+- GitHub Label: direct deposit  
 - Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 - Keywords
      - Direct Deposit  
