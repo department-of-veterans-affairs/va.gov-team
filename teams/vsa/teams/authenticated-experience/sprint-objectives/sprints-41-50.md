@@ -186,6 +186,7 @@ Liz Lantz joins the team
 **Design**
 
 - Review frontend build as needed
+- If FE build is actually done, work with Trevor to do some assistive tech testing
 
 **FE**
 
