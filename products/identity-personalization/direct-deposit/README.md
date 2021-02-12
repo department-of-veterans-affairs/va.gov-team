@@ -1,6 +1,6 @@
 # Direct Deposit: Product Outline
 
-**Out of an abundance of precaution, the full product outline has been moved to [the private repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md).**
+**The full product outline has been moved to [the private repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md).**
  
 # Executive Summary
 
@@ -19,4 +19,4 @@ Currently, VA.gov is home to both **Direct deposit for compensation & pension** 
 
 # Implementation Info
 
-Out of an abundance of precaution, the full product outline has been moved to [the private repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md).
+**The full product outline has been moved to [the private repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md).**
