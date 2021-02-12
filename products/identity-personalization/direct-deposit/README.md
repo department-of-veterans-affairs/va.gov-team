@@ -24,6 +24,7 @@ Last Updated February 12, 2021
 |Melissa Rebstock | eBenefits contact |Melissa.rebstock@va.gov|
 |Michael Walker | EVSS contact |Michael.Walker10@va.gov|
 |Luke Tickner| Edu contact| Lucas.Tickner@va.gov |
+|Adam Kinder | VBA Incident Team Lead | adam.kinder@va.gov|
 
 ---
 
@@ -31,13 +32,6 @@ Last Updated February 12, 2021
 
 # Executive Summary 
 - [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Hypothesis](#hypothesis)
-- [Requirements](#requirements)
-- [Constraints](#constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Decisions](#decisions)
-- [The Plan](#the-plan)
 - [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
@@ -61,67 +55,13 @@ Currently, VA.gov is home to both **Direct deposit for compensation & pension** 
 
 ## User Problem Statements
 
-- As a Veteran, I want to securely access and change my compensation and pension direct deposit information so I can receive the money that I've earned from the VA.
-- As a Veteran, I want to securely change my compensation and pension direct deposit information if I switch banks or need to receive money in a different bank account.
+- As a Veteran, I want to securely access and change my direct deposit information so I can receive the money that I've earned from the VA.
+- As a Veteran, I want to securely change my direct deposit information if I switch banks or need to receive money in a different bank account.
 - As a Veteran who receives paper checks from the VA, I want to be able to switch to receive payments via direct deposit.
 
-## Solution Goals
-
-- We will house direct deposit in the VA.gov user profile.
-- All users need to be LOA3 and have enabled 2FA to use the feature. 
-
-### User Goals
-
-- VA.gov Direct Deposit will be a secure way to access or change your compensation and pension direct deposit information.
-
-## Hypothesis
-
-- 2FA will be one of the major reasons for increase security of direct deposit on Va.gov.
-- Moving direct deposit to VA.gov will reduce fraud cases.
-- Moving direct deposit to VA.gov is more secure and better for Veterans.
-
-## Requirements 
-
-- We will only support direct deposit for compensation & pension to start. Direct deposit for Education/GI Bill benefits will continue to live on eBenefits.
-- Users should be able to change their direct deposit information via the VA.gov profile. This includes routing number, account number, and account type.
-- Users who currently receive paper checks should be able to switch to direct deposit via the VA.gov profile. 
-- However, users can not switch back to paper checks from VA.gov if they already have direct deposit.
-- Users can not delete direct deposit information.
-- Only the following people can access direct deposit:
-  - People eligible for compensation and pension benefits.
-  - Users logged into VA.gov.
-  - LOA3 users.
-  - Users with 2FA.
-- When direct deposit information is changed an email confirmation will be sent to the user.
-- Direct deposit confirmation emails will have information to report fraud.
-
-
-## Constraints
-
-- The fraud team at the VA needed reports to be in place so that they could track and research fraud cases. This put about a two month pause on the project as the VA.gov identity team worked with ID.me to get APIs set up to be able to pull the information the needed when they needed it.
-
-## Discovery Takeaways
-- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
-
-## Decisions
-
-At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service.
-
-## The Plan
-
-- Work with the eBenfits to better understand needs of Veterans. 
-- Implement a secure direct deposit feature for Compensation & Pension in the user profile.
-- Port the Post-9/11 GI Bill direct deposit after more discovery.
-- Test Test Test
-
-## PHASED ROLL OUT APPROACH
-
-- Intial roll out released to 10% of users - 9.25.19
-- Ramped up from 10% of users to 50% of users - 10.16.19
-- Ramped up from 50% of users to 75% of users - 12.5.19
-- Ramped up to 100% of users — 12.16.19
-
 ## OKRs & KPIs
+
+**These are currently for Direct deposit for compensation & pension only**
 
 ### GA dashboard
 
@@ -190,7 +130,7 @@ This is an average metric since we did not have a baseline off of which to base 
 
 **January 2020**
 
-On January 29, 2020, eBenefits removed the direct deposit feature from the website and now send all users over to VA.gov.
+On January 29, 2020, eBenefits removed the direct deposit for comp & pen feature from the website and now send all users over to VA.gov.
 
 **Mid December 2019** 
 
@@ -231,6 +171,8 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 
 ## Solution Narrative
 
+### Direct deposit for comp & pen
+
 - **March 2019**: Design and development begins
 - **5/27/2019**: On staging 
 - **6/24/2019**: Started Usability testing
@@ -240,18 +182,63 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - **8/20/2019**: Approval from eBenefits fraud team to move forward
 - **8/21/2019**: QA begins
 - **12/10/2019**: learned mroe detailed information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
-- **12/16/2019**: Laucnhed to 100% of users
+- **12/16/2019**: Launched to 100% of users
 - **1/29/2020**: eBenefits removed direct deposit for comp and pen from their site.
+
+- Intial roll out released to 10% of users - 9.25.19
+- Ramped up from 10% of users to 50% of users - 10.16.19
+- Ramped up from 50% of users to 75% of users - 12.5.19
+- Ramped up to 100% of users — 12.16.19
+
+### Direct deposit for edu
+
+## Feature overview
+
+### Direct deposit for compensation & pension 
+
+**Overview**
+
+Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
+
+- Direct deposit for compensation & pension currently lives within [the VA.gov profile](staging.va.gov/profile/direct-deposit).
+- This integration takes place through **EVSS**, which then connects to **BGS**.
+- Users can **edit** their existing direct deposit information, and they can **add** direct deposit information if they do not already have it but are eligible to receive payments. This includes routing number, account number, and account type.
+- People who currently receive paper checks but want to switch to digital payments can do so by adding direct deposit information for the first time. However, people can **not** delete direct deposit information or switch back to paper checks.
+- Only the following people can access direct deposit:
+  - People eligible for compensation and pension benefits.
+  - Users logged into VA.gov.
+  - LOA3 users.
+  - Users with 2FA.
+- When direct deposit information is changed, a confirmation email is sent to the user. These confirmation emails have information on how to report fraud.
+
+**Security and fraud management**
+
+Link to sensitive repo
+
+### Direct deposit for edu
+
+**Overview**
+
+- Direct deposit for edu currently lives within [the VA.gov profile](staging.va.gov/profile/direct-deposit).
+- This integration takes place through directly through **BGS**.
+- Users can **edit** their existing direct deposit information. This includes routing number, account number, and account type.
+- However, unlike direct deposit for compensation & pension payments, they can **not** add direct deposit information if they do not already have it. 
+- Only the following people can access direct deposit:
+  - People eligible for education benefits.
+  - Users logged into VA.gov.
+  - LOA3 users.
+  - Users with 2FA.
+- When direct deposit information is changed, a confirmation email is sent to the user. These confirmation emails have information on how to report fraud.
+
+**Security and fraud management**
+
+Link to sensitive repo
 
 ## How to Access and Test
 
 **Staging**
 
-- https://staging.va.gov/my-va/
-- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
-- LOA3 without 2FA: Will be prompted to setup 2FA before accessing.
-- LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
-- [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
+[Direct deposit staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md)
 
 ## Error Handling
 
