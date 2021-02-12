@@ -84,7 +84,7 @@ After teams launch products, we are expected to run a full a11y audit to make su
 -   [Facilities Locator - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14321)
 -   [Authenticated Experience Profile 2.0 - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15247)
 -   [BAM1 Higher Level Reviews - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14458)
--   [https://github.com/department-of-veterans-affairs/va.gov-team/issues/18336](Find a VA Form Post-MVP Enhancements)
+-   [Find a VA Form Post-MVP Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18336)
 
 In-progress audits include:
 
