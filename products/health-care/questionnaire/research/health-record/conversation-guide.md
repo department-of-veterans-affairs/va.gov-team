@@ -63,7 +63,7 @@ Now, let's group things together that you believe should be displayed together.
 
 ## Medications Section - 10 minutes
 Just as you did with immunizations, we are going to do the same thing with medications. We are going to review each item one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
-- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand. Also, notes the reasons why the Veteran ranked and grouped things a certain way.
 
 Is there anything that should be added to medications that we didn't already review? I can create a blank post-it for your idea.
 
