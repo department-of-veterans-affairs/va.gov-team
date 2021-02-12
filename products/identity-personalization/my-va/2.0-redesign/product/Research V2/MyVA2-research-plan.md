@@ -112,7 +112,7 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 ## Timeline 	
 #### Desired Timeline: TBD
 
-Please schedule sessions for 60 minutes with a 30 minute buffer between sessions.
+Please schedule sessions for 75 minutes with a 30 minute buffer between sessions.
 
 Team Availability | Time (EST)
 
