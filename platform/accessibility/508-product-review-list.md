@@ -156,6 +156,8 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[COGNITION]: CONSIDER revising content and adding aria-describedby to online form calls to action - #12723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12723)<br/>
 **Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+- [508-defect-4 [SEMANTIC HTML]: Multi-step form headers should not have extra ARIA attributes - #19953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19953)<br/>
+**Production** | **Opened:** February 12, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
