@@ -49,7 +49,7 @@ Before we start, a few things I want to mention:
 4. Do you currently, or have you ever, filed a claim or appeal with the VA?
     - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
     
-5. How do you manage your health/benefits online? 
+5. If you were to login to a personalized space on the VA, what are the top actions you'd want to take when managing your benefits
      
 ## Logistics: figure out how to share your screen - 5 minutes
 
