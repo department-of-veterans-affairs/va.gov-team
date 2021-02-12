@@ -6,7 +6,7 @@
 ---
 
 ## Problem
-A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). There are service-based requirements for obtaining VA loans, and a COE confirms for lenders that an applicant qualifies for the benefit: 
+A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). There are service-based requirements for obtaining VA loans, and a COE confirms for lenders that an applicant qualifies for the benefit. Depending on service dates, these details will change: 
 
 - 181 days of service during peacetime
 - 90 days of service during war time
