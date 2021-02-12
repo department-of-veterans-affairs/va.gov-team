@@ -13,6 +13,8 @@ A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service memb
 - 6 years of service in the Reserves or National Guard
 - Some surviving spouses of service members who have died in the line of duty are also eligible
 
+Home loan applicants must apply for a COE to ensure they meet eligibility requirements.
+
 ### Business cases
 
 ### Business processes
