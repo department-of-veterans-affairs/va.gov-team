@@ -15,11 +15,11 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 
 ### Change in UI for location pattern
 
-- [ ] Add spouse: [here](https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/screen/afeede90-907d-401d-88c3-4160830fb253/) and [here](https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/screen/c368dd44-274f-44b5-abdc-afc0e2a7e0ed/)
-- [ ] [Add child](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/screen/7177f4d5-995e-4906-ad80-1d7fe4e9e08e/)
-- [ ] [Vetran Marriage](https://xd.adobe.com/view/a0834c4a-7109-4eff-6a61-43c2bd5cbcd6-d6b2/screen/e8b9ab80-7b5e-4af6-a7be-420b8673b1ff)
-- [ ] [Report divorce](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/)
-- [ ] [Report death](https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/screen/3fef7dd7-840d-4343-bbf5-187ac229b943/)
+- [x] Add spouse: [here](https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/screen/afeede90-907d-401d-88c3-4160830fb253/) and [here](https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/screen/c368dd44-274f-44b5-abdc-afc0e2a7e0ed/)
+- [x] [Add child](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/screen/7177f4d5-995e-4906-ad80-1d7fe4e9e08e/)
+- [x] [Vetran Marriage](https://xd.adobe.com/view/a0834c4a-7109-4eff-6a61-43c2bd5cbcd6-d6b2/screen/e8b9ab80-7b5e-4af6-a7be-420b8673b1ff)
+- [x] [Report divorce](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/)
+- [x] [Report death](https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/screen/3fef7dd7-840d-4343-bbf5-187ac229b943/)
 
 **HP!** indicates "high priority."
 
