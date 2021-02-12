@@ -84,9 +84,11 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 ## References
 
 - [VA Form 26-1880 (PDF)](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf)
+- [About VA Form 26-1880](https://www.va.gov/find-forms/about-form-26-1880/)
 - [Eligibility requirements for VA home loan programs](https://www.va.gov/housing-assistance/home-loans/eligibility/)
 - [How to apply for a VA home loan Certificate of Eligibility](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)
 - [VA home loan programs for surviving spouses](https://www.va.gov/housing-assistance/home-loans/surviving-spouse/)
 - [Check your VA claim or appeal status](https://www.va.gov/claim-or-appeal-status/)
+- [Certificate of Eligibility for Home Loan (eBenefits landing page)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
 
 ---
