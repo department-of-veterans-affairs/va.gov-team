@@ -20,7 +20,7 @@
 
 ### Discovery
 
-[COE discovery]()
+[COE discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-discovery.md)
 
 [COE feature flows]()
 
