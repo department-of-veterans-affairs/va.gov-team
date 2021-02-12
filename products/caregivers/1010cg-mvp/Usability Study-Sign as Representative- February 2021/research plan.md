@@ -22,7 +22,7 @@ The research questions we want to address are:
 - Does one of the representative workflow options perform better than the other with regards to understandability, usability, and use of use?
 - Are users confused by any particular aspect of the representative workflow?
 - Does the current representative workflow stop users from completing the form?
-- Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder cognitive understanding?
+- Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder understanding?
 - Would a user upload a document from their mobile phone or only from a desktop computer?
 
 
