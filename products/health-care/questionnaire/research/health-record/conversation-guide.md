@@ -53,9 +53,10 @@ To begin, we would like to get to know you a little better and understand your e
 # Mural Activity - 30 minutes
 Next, we will complete an activity that helps prioritize and group information that we could display online in medication, allergy, and immunization sections. Let me share my screen with you, so we can start this activity: [Mural link](https://app.mural.co/t/vsa8243/m/vsa8243/1612803040285/9ee796589a8531afe6837796feb42a5dfd2e7037).
 
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand. Also, notes the reasons why the Veteran ranked and grouped things a certain way.
+
 ## Immunizations Section - 10 minutes
 First, we will start with immunizations. I'm going to show you a bunch information that we could display on va.gov for immunizations. We are going to review them one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
-- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
 Is there anything that should be added to immunizations that we didn't already review? I can create a blank post-it for your idea.
 
@@ -63,7 +64,6 @@ Now, let's group things together that you believe should be displayed together.
 
 ## Medications Section - 10 minutes
 Just as you did with immunizations, we are going to do the same thing with medications. We are going to review each item one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
-- Observers: Take note on what pieces of data or features the Veteran doesn't understand. Also, notes the reasons why the Veteran ranked and grouped things a certain way.
 
 Is there anything that should be added to medications that we didn't already review? I can create a blank post-it for your idea.
 
@@ -71,7 +71,6 @@ Now, let's group things together that you believe should be displayed together.
 
 ## Allergies Section - 10 minutes
 Lastly, we are going to do the same thing with allergies. We are going to review each item one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
-- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
 Is there anything that should be added to allergies that we didn't already review? I can create a blank post-it for your idea.
 
