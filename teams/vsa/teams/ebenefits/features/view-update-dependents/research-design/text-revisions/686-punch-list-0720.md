@@ -27,28 +27,28 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 
 - [ ] **HP!** Revised chapter titles
 - [ ] Default selection in country dropdown to 'United States'
-- [ ] Replace all address blocks with new design [Example](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088572)
-- [ ] **HP!** Resolve city/state/country location errors to say: "Please enter a valid location" rather than pattern parameters
-- [ ] Confirm double arrows on back/continue buttons
-- [ ] Line-break after services number in "Need help?" section rather than paragraph space
-- [ ] Determine how to communicate 21P-527EZ form number
-- [ ] **HP!** Add explanatory copy to net worth question in add spouse and add child workflows
+- [x] Replace all address blocks with new design [Example](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088572)
+- [x] **HP!** Resolve city/state/country location errors to say: "Please enter a valid location" rather than pattern parameters
+- [ ] 🔁 Confirm double arrows on back/continue buttons (Leave as is for now, design folks are back and forth on it)
+- [ ] Line-break after services number in top form section rather than paragraph space ("Equal to..." should all be on a new line)
+- [x] Determine how to communicate 21P-527EZ form number
+- [ ] **HP!** Add explanatory copy above net worth questions ("Answer this question only if you are adding this dependent to your pension.")
 
-### Intro screen
+### [Intro screen](https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction)
 
-- [ ] Form number subhead needs line break after “and/or” on 674 line
-- [ ] Confirm use of double arrows in green button
-- [ ] Remove period in H3 “Follow the steps below to apply to add or remove a dependent."
-- [ ] Add colon to "for example: their major"
-- [ ] Line break for "Get help filing your claim" Link; remove period
+- [ ] Form number subhead needs line break after “and/or” on 674 line (same as above with the "Equal to...")
+- [ ] 🔁 Confirm use of double arrows in green button (Leave as is for now, design folks are back and forth on it)
+- [ ] Remove period in H3 “Follow the steps below to apply to add or remove a dependent`.`"
+- [ ] Add colon to "[for example: their major](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/images/686-copy-edit.JPG)"
+- [ ] End of #1 in the subway map, create a line break for "Get help filing your claim" link; and remove period
 
 ### Checkboxes
 
-- [ ] **HP!** Change chapter title to: "What you want to do"
+- [ ] **HP!** Change chapter title to: "What you want to do" (from "What do you want to do?" so that people don't feel like they have to answer a question)
 - [ ] **HP!** Change text of all checkboxes per [updated mockups](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/specs/)
-- [ ] **HP!** Move instructional text below checkboxes
-- [ ] Revise instructional text per mockups
-- [ ] Address inconsistent spacing between checkboxes
+Note:  order is the same but the checkbox language is a little more friendly.  Bold is intentional.
+- [ ] **HP!** Move instructional text below checkboxes (text at the top moves to the bottom with some updates)
+- [ ] Address inconsistent spacing between checkboxes/text
 
 ### Veteran's info
 
@@ -58,7 +58,7 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 
 - [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add spouse"
 - [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
-- [ ] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question (copy pending)
+- [ ] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
 
 ### Spouse upload section
 
@@ -71,7 +71,7 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 - [x] **HP!** Revise text under "examples of additional evidence" accordion to match [mockups](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/)
 - [ ] Change "Does your child live with you?" to: "Does this child live with you?"
 - [ ] Change "Person your child lives with" to: "Person child lives with"
-- [ ] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question (copy pending)
+- [ ] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
 
 ### Child upload section
 
