@@ -1,5 +1,5 @@
-# Direct Deposit for Compensation & Pension Payments: Product Outline
-Last Updated July 6, 2020
+# Direct Deposit: Product Outline
+Last Updated February 12, 2021
 
 ## POCs
 - GitHub Label: Direct Deposit  
@@ -10,22 +10,20 @@ Last Updated July 6, 2020
      - DD
      - C & P 
      - Compensation & Pension
+     - Edu
 
-|Name|Role|
-|----|----|
-|Lisa Koenigsberg|DSVA Lead| 
-|Samara Strauss |DSVA Lead Designer|
-|Matt Shea|Product Manager|
-|Nick Sullivan |Original Engineering Lead (now on Platform)|
-|Erik Hansen | FE Engineer|
-|Lihan Li | BE Engineer |
-|Silvio Luthi | Original BE Engineer|
-|Tze-chiu Lei | QA Analyst |
-|Frank Bryceland | General eBenefits contact |
-|Melissa Rebstock | General eBenefits contact |
-|Michael Walker | eBenefits (Insignia) contact |
-|Toya McKoy| eBenifits Contract (Insignia) Office Representative |
-|Courtney Rive | eBenefits (Insignia) Project Manager |
+|Name|Role|Email|
+|----|----|----|
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Matt Shea |Product Manager| matt.shea@adhocteam.us |
+|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Cassandra Allen |Designer| callen@governmentcio.com |
+|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
+|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Melissa Rebstock | eBenefits contact |Melissa.rebstock@va.gov|
+|Michael Walker | EVSS contact |Michael.Walker10@va.gov|
+|Luke Tickner| Edu contact| Lucas.Tickner@va.gov |
 
 ---
 
