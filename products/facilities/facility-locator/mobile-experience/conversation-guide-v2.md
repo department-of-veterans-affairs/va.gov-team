@@ -17,7 +17,7 @@ Thanks for joining us today! My name is Laurel/Christian, and I also have some c
 
 Before we get started, I want to give you an idea of what this session will be like:
 
-- This entire session should take about 45 minutes or less
+- This entire session should take about 30 minutes or less
 
 - We’ll start the session with a couple warm up questions
 
