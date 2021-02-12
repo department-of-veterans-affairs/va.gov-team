@@ -54,9 +54,10 @@ Last Updated February 12, 2021
  
 # Executive Summary
 
-Due to large number of fraud cases and security concerns on eBenefits the Direct Deposit feature is being ported from eBenefits to VA.gov. The migration of Direct Deposit started as a desire for MFA, which VA.gov has. While eBenefits houses both Compensation & Pension functionality and GI Bill payment information, the MVP will only include Comp & Pension at this time.
+Currently, VA.gov is home to both **Direct deposit for compensation & pension** information and **Direct deposit for edu** information (currently in staging pending launch in March 2021). The original impetus behing adding this functionality to VA.gov was two-fold:
 
-The full background on Direct Deposit is found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
+1. This was key functionality from eBenefits that we needed to move over in order to be able to retire eBenefits.
+2. With regards to direct deposit for comp & pen, we originally moved this functionality over to VA.gov as a security measure. There were a large number of fraud incidence on eBenefits, and VA.gov was seen as the more secure option given our overall infrastructure and our ability to require 2FA in order to access direct deposit information.
 
 ## User Problem Statements
 
