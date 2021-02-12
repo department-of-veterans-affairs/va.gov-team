@@ -77,7 +77,7 @@ Is there anything that should be added to allergies that we didn't already revie
 Now, let's group things together that you believe should be displayed together.
 
 # Wrap-up Questions - 5 minutes
-- Pretend you developed a new medication allergy, such as a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section of the questionnaire?
+- Pretend you developed a new medication allergy, such as a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section?
 - How often do you expect to update each of these sections? Would you want to see these sections in a questionnaire before every VA appointment? Would you want to see these sections once every six months or some other time period?
 - If we could only build one of these topics into a pre-visit questionnaire, which one would you prefer? Would you pick medications, allergies, and immunizations?
   - Why?
