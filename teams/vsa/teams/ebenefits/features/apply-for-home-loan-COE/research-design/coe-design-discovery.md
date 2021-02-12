@@ -14,6 +14,13 @@ A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service memb
 
 #### VA Form 26-1880
 
+The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf) as a fillable PDF. The form is a single page with an additional two pages of instructions and addresses. The form encourages users to apply electronically using eBenefits. The form has four sections:
+
+Section 1 -- Applicant information
+Section 1 -- Applicant's military service
+Section 3 -- Previous VA loans
+Section 4 -- Certification and signature
+
 ## Users
 
 #### Eligibility
