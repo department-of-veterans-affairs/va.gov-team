@@ -6,7 +6,6 @@
 - _Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel)._
 - _Make sure everyone except the participant and moderator are on mute._
 - _In the Audio section, tap the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked._
-- _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
 - _When the participant is ready, begin the session with the following intro._
 
 ## Project-specific setup and Intro - 10 minutes
@@ -16,15 +15,6 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- Talk them through Zoom screen sharing and chat features shown in document.
-  - [Screen share and walk through this document if necessary](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
-  - Send [Mural link](https://app.mural.co/t/vsa8243/m/vsa8243/1612803040285/9ee796589a8531afe6837796feb42a5dfd2e7037) and have them screenshare it now.
-
-
-**Backup plan if they cannot figure out how to share screen:**
-
-- Ok, it seems like we're having some trouble sharing your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap on, etc. Does that sound ok?
-- [Share your screen]. Can you confirm if you can see my screen?
 
 **Recording Instructions**
 
@@ -61,28 +51,31 @@ To begin, we would like to get to know you a little better and understand your e
 - How can we make it more easier for you to communicate to your VA providers?
 
 # Mural Activity - 30 minutes
-Next, imagine that you received a questionnaire to fill out prior to your VA appointment via text or email. Within this questionnaire, you can let the VA know about any medication, allergy, or immunization changes. In this activity, we need your help prioritizing and grouping together information that we can display on the medication, allergy, and immunization interfaces within the questionnaire.
-
-## Medications Section - 10 minutes
-Currently on the screen there is a blank area with the word "medications" on it. Pretend this is the medications section of the questionnaire. Next to it are a bunch of things about medications that could go on this page. 
-
-First, review all of the medication pieces and let me know if you don't understand any of them.
-- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
-
-Now, move any of the pieces that you find valuable over to the medication page. Pretend you are making the medications page. Group things together that you believe should be displayed together. Don't feel like you have to use all of the pieces. If a piece isn't valuable to you, then don't include it. If you think of something to add that we don't show as one of the pieces, feel free to use one of the blank post-it notes that I have on the screen to type in your idea.
-- Any questions?
+Next, we will complete an activity that helps prioritize and group information that we could display online in medication, allergy, and immunization sections. Let me share my screen with you, so we can start this activity: [Mural link](https://app.mural.co/t/vsa8243/m/vsa8243/1612803040285/9ee796589a8531afe6837796feb42a5dfd2e7037).
 
 ## Immunizations Section - 10 minutes
-Just as you did with medications, we are going to do the same thing with immunizations. First, review all of the immunization pieces and let me know if you don't understand any of them.
+First, we will start with immunizations. I'm going to show you a bunch information that we could display on va.gov for immunizations. We are going to review them one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Next, move any of the pieces that you find valuable over to the immunizations page. Pretend you are making the immunizations page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+Is there anything that should be added to immunizations that we didn't already review? I can create a blank post-it for your idea.
+
+Now, let's group things together that you believe should be displayed together. 
+
+## Medications Section - 10 minutes
+Just as you did with immunizations, we are going to do the same thing with medications. We are going to review each item one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
+- Observers: Take note on what pieces of data or features the Veteran doesn't understand.
+
+Is there anything that should be added to medications that we didn't already review? I can create a blank post-it for your idea.
+
+Now, let's group things together that you believe should be displayed together. 
 
 ## Allergies Section - 10 minutes
-Lastly, we are going to do the same thing with allergies. Review all of the allergy pieces and let me know if you don't understand any of them.
+Lastly, we are going to do the same thing with allergies. We are going to review each item one-by-one. Let me know if you don't understand the item, then I'm going to have you rank them by how valuable they are to see displayed online.
 - Observers: Take note on what pieces of data or features the Veteran doesn't understand.
 
-Next, move any of the pieces that you find valuable over to the allergies page. Pretend you are making the allergies page. Group things together that you believe should be displayed together. Again, don't feel like you have to use all the pieces and use a post-it note to add any ideas.
+Is there anything that should be added to allergies that we didn't already review? I can create a blank post-it for your idea.
+
+Now, let's group things together that you believe should be displayed together.
 
 # Wrap-up Questions - 5 minutes
 - Pretend you developed a new medication allergy, such as a rash when you take penicillin. Would you add that medication allergy on the medication section and/or the allergy section of the questionnaire?
