@@ -1,4 +1,4 @@
-# Direct deposit & fraud
+# Fraud documentation
 
 This information is in the private repo.
 
