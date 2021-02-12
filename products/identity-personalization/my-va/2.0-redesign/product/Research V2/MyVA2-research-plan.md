@@ -115,24 +115,31 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 Please schedule sessions for 60 minutes with a 30 minute buffer between sessions.
 
 Team Availability | Time (EST)
-TBD | TBD
+
+February 19 | 9-12 ET
+February 22 | 9-4 ET
+February 23 | 9-4 ET
+February 24 | 9-4 ET
+February 25 | 9-4 ET
+February 26 | 9-4 ET
+
+(We can schedule more if need be)
 
 	
-Mobile Pilot Sessions: TBD on TBD | TBD
+Mobile Pilot Sessions: TBD on February 18 or 19 2021 | TBD
 
 ## Team Roles
 * Moderator: Tressa Furner (tressa.furner@adhocteam.us) 
 * Research guide writing and task development: Cassandra Allen, Tressa Furner
 * Participant recruiting & screening: Perigean
 * Project point of contact: Samara Strauss
-* Participant(s) for pilot test: February TBD
+* Participant(s) for pilot test: TBD
 * Note-takers: Perigean
 * Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Lauren ALexanderson (lauren.alexanderson@va.gov), Meg Peters (meg.peters@va.gov), Emily Mann (emily.mann1@va.gov), Kimberly McManus <Kimberly.McManus@va.gov>; Marian Adly (Adly, Marian H. <Marian.Adly@va.gov>)
  
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
-* [Desktop Prototype]()
-* [Mobile Prototype]()
+* [Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/444040702_My_VA_Mobile)
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-conversation-guide.md)
 * Research Findings
 
