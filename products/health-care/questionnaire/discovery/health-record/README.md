@@ -77,6 +77,7 @@
   - links to educational material on the allergies (currently links to Medline Plus)
 
 ## Immunizations
+- Previous [immunization taxomony research completed on VSA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vaccination-taxonomy/research-findings.md)
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site) and some other inspiration sites
   - Immunization name
   - date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
