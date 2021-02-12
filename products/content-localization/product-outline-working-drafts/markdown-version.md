@@ -27,9 +27,10 @@ This solution will take into consideration the complexities that product owners,
 
 At the conclusion of this project, we will have an evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. (Should we also say something about sharing our experience/findings with other government website owners?)
 
-We will also provide a report detailing further the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
+We will also provide a report further detailing the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
 
 Specifically, our objectives are as follows:
+
 1. To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries, and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
 2.	To meet federal/agency requirements for providing translated benefit information.
 3.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
@@ -47,28 +48,31 @@ The audiences we will address include:
 4.	Local Sites (?)
 
 Desired User Outcomes
-•	Limited English proficiency (LEP) Veterans, family members and caregivers have a better understanding of the VA benefits and services they have earned.
-•	Product Owners and writers have a sustainable, automated approach for providing translated content.
-•	Local Sites….TBD
+- Limited English proficiency (LEP) Veterans, family members and caregivers have a better understanding of the VA benefits and services they have earned.
+- Product Owners and writers have a sustainable, automated approach for providing translated content.
+- Local Sites….TBD
 
 Undesired User Outcomes
-•	Veterans, family members and caregivers find content confusing or unhelpful.
-•	Veterans, family members and caregivers can't easily find or use translated content.
+- Veterans, family members and caregivers find content confusing or unhelpful.
+- Veterans, family members and caregivers can't easily find or use translated content.
 
 Desired Business Outcomes
-•	Meet federal/agency requirements for providing translated benefit information.
-•	VHA demonstrates to Congress that we are providing essential COVID-19 information in Spanish and working towards viable longer-term approach
-•	DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on MVP, data and user feedback
-•	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (Spanish first)
-•	Product Owners and writers have a clear, manageable process for providing translated content and keeping it up-to-date
+- Meet federal/agency requirements for providing translated benefit information.
+- VHA demonstrates to Congress that we are providing essential COVID-19 information in Spanish and working towards viable longer-term approach
+- DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on MVP, data and user feedback
+- VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (Spanish first)
+- Product Owners and writers have a clear, manageable process for providing translated content and keeping it up-to-date
+
 Undesired Business Outcomes
-•	VHA can't demonstrate progress on translation efforts in a timely way
-•	DEPO/OCTO Health can't gather the data we need to make solid recommendations for localization
-•	VA continues with a scattered or unsustainable approach to localization
+
+- VHA can't demonstrate progress on translation efforts in a timely way
+- DEPO/OCTO Health can't gather the data we need to make solid recommendations for localization
+- VA continues with a scattered or unsustainable approach to localization
 
 
  
-Measuring Success
+## Measuring Success
+
 Baseline Analytics:
 From March 15, 2020, to December 31, 2020 the total number of Pageviews visiting the coronavirus FAQs in Spanish was 144k. 
 The total number of pageviews across VA.gov with browser set to “Spanish” from Jan 1 -20 was 55,505k.
@@ -96,32 +100,32 @@ Key Performance Indicators (KPIs)
 
 	
 Objectives and Key results (OKRs)
-•	Objective 1:  Meet Veterans' and their family members' need for Spanish language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
-o	Key result 1: Provide Spanish language versions of Coronavirus pages by 1Q.
-o	Key result 2: Launch MVP for by 2Q 2021.
-o	Key result 3: Satisfaction rating for translated content
-o	Key result 4: Customer Engagement
+Objective 1:  Meet Veterans' and their family members' need for Spanish language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
+- Key result 1: Provide Spanish language versions of Coronavirus pages by 1Q.
+- Key result 2: Launch MVP for by 2Q 2021.
+- Key result 3: Satisfaction rating for translated content
+- Key result 4: Customer Engagement
 
-•	Objective 2: Provide writers with an automated workflow to request, track and manage translated content 
-o	Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
-o	NPR/Satisfaction survey
+Objective 2: Provide writers with an automated workflow to request, track and manage translated content 
+- Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
+- NPR/Satisfaction survey
 
 
 ________________________________________
 In Scope
-•	Providing Spanish versions of the Corona FAQs, Research Volunteer and Covid Vaccine pages 
-•	TBD for long-term MVP
+- Providing Spanish versions of the Corona FAQs, Research Volunteer and Covid Vaccine pages 
+- TBD for long-term MVP
 Out of Scope
-•	Site-wide roll-out or centralized translation management
-•	Updates/changes for English version of pages found during translation effort (bugs will be captured and addressed by team owners)
+- Site-wide roll-out or centralized translation management
+- Updates/changes for English version of pages found during translation effort (bugs will be captured and addressed by team owners)
 
 Assumptions
-•	Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
-•	Some Veterans and their family members need or prefer COVID-19 and other content content about VA health care and benefits in Spanish.
-•	Users will be able to find and easily link/toggle to translated content.  
-•	Google translate widget or machine learning alone will not be an acceptable translation option for our MVP and Tier 1 content.
-•	An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) 
-Solution Approach
+Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
+- Some Veterans and their family members need or prefer COVID-19 and other content content about VA health care and benefits in Spanish.
+- Users will be able to find and easily link/toggle to translated content.  
+- Google translate widget or machine learning alone will not be an acceptable translation option for our MVP and Tier 1 content.
+- An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) 
+# Solution Approach
 What are you going to build now, and why have you decided to start there? 
 We are going to start with translating the coronavirus FAQs page via front-end solution (not involving Drupal). We'll then widen translation to an MVP using a long-term option.
 
@@ -132,15 +136,15 @@ This is the quickest and simplest solution that allows us to start providing tra
 What have you explicitly decided to not include in this initial set of functionality, and why? 
 We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
-•	We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
+- We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 Dependencies on Other VA Systems
-•	Drupal
-•	CMS
+- Drupal
+- CMS
 •	Lighthouse API (???)
 What’s Next
-•	Conduct stakeholder interviews (internal)
-•	Investigate budget and how to engage with potential software partners
-•	Develop a technical design doc to captures all the integration points used by the VA.gov websites
+- Conduct stakeholder interviews (internal)
+- Investigate budget and how to engage with potential software partners
+- Develop a technical design doc to captures all the integration points used by the VA.gov websites
 
 ________________________________________
 Go-to-market Strategy
