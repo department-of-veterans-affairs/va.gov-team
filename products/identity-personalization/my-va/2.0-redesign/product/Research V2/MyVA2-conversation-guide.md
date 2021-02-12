@@ -19,7 +19,7 @@
 - [ ] Make sure you have the [mobile research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md) and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
 - [ ] have the mobile prototype available [Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444040702_My_VA_Mobile) 
 
-## Intro - 5 minutes
+## Intro - 2 minutes
 
 Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
 
@@ -86,7 +86,7 @@ Just as a reminder - all of the information in this prototype is completely made
 *Note - the following tasks will be dictated by what the participant mentions as their 'top tasks' for the dashbaord. We will then follow up with any outstanding tasks/topics that were not covered by whatever tasks the participant mentions.*
 
 
-## First Task - Unauthenticated Nav/MyVA 
+## First Task - Unauthenticated Nav/MyVA - 5 minutes
 
 You've come to VA.gov and you want to see the latest updates on your benefits. 
 
@@ -102,7 +102,7 @@ Just as a reminder - all of the information in this prototype is completely made
 
 ## Second task: Health care
 
-### Messages
+### Messages - 7 min
 
 Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see how many new messages you have from your health care team.
 
@@ -117,7 +117,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 9. Why do you think we are showing the message in the gray box? How would you read this message?
 10. What is the most important thing we could tell you on this page about your messages?
 
-### Appointments
+### Appointments - 7 min
 
 Okay, we're now going to move on to another scenario. You've come to this page to see when you are visiting your doctor next.
 
@@ -132,7 +132,7 @@ Okay, we're now going to move on to another scenario. You've come to this page t
 9. What is the most important thing we could tell you on this page about your appointments?
 
 
-### Prescriptions
+### Prescriptions - 7 min
 
 Okay, now if you could imagine you've come to this page to check whether or not your medication will be arriving soon.
 
@@ -158,7 +158,7 @@ Okay, now if you could imagine you've come to this page to check whether or not 
 - Do people understand the CTAs will not take them directly to the latest or most recent information? Do they understand CTAs will take them to an overview page?
 - Are there other links, CTAs, or information that would be helpful to show in this section?
 
-## Third Task - Disability rating
+## Third Task - Disability rating - 3 min
 
 Okay great, from here you are looking to see what your disability rating is.
 
@@ -172,7 +172,7 @@ Okay great, from here you are looking to see what your disability rating is.
 - Can people find their disability rating?
 - Did they notice it in the nametag?
 
-## Fourth task: Claims scenario
+## Fourth task: Claims scenario - 7 min
 
 Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
 
@@ -196,7 +196,7 @@ Okay, great. I have another scenario for you. You're looking to see all of your 
 - Do they know how many claims and appeals they have total? Is this information helpful to them?
 - Do they know how to view the featured claim/all claims?
 
-## Fifth task: Apply for Benefits
+## Fifth task: Apply for Benefits - 5 min
 
 Imagine you were interested in applying for some more benefits at the VA.
 
@@ -217,7 +217,7 @@ Imagine you were interested in applying for some more benefits at the VA.
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
 
-## Sixth task: Profile and MyVA
+## Sixth task: Profile and MyVA - 5 min
 
 Say you've landed on this page and you want to change your mailing address.
 
@@ -230,7 +230,7 @@ Say you've landed on this page and you want to change your mailing address.
 - Where do users think the profile link goes?
 - What do they think is the difference is between the profile vs. My VA?
 
-## Seventh task: Overview and Homepage assessment
+## Seventh task: Overview and Homepage assessment - 7 min
 
 ### Overview
 
