@@ -15,6 +15,16 @@ A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service memb
 
 Home loan applicants must apply for a COE to ensure they meet eligibility requirements.
 
+#### Solution
+
+Veterans, service members and surviving spouses need an easy, accessible way of automatically generating a COE. If a COE cannot be automatically generated, users need a simple form to submit an electronic 26-1880.
+
+- Do not ask for information VA should have
+- Minimize time in the form
+- Surface form access quickly in searches
+- Inform users of the steps, processing time, and next steps
+- Give users multiple paths for follow-up
+
 ### Business cases
 
 ### Business processes
