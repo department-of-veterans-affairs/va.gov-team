@@ -8,6 +8,35 @@
    * Out of scope for CMS Export release
 * Status updates & timeline
    * What needs to happen by what deadline in order to stay on track for CMS Export release?
+* What is a path forward for the unauth team (PW, Facilities) to be building new stuff on platform in GraphQL? 
+   * GraphQL vs CMS Export 
+   
+### Notes 
+* GraphQL vs CMS Export
+   * This quarter GraphQL is being used in production on VA.gov until end of quarter
+   * There are good results from GraphQL updates that improve scalability that will help scale to meet needs of Facilities & PW 
+   * Current GraphQL changes get us from a ~4,000 node limit -> ~14,000 node limit (confirmed so far) 
+   * CMS team continue to work on the node publishing timeline in collaboration with VFS teams - Oksana working with Stan, need to also connect with Public Websites
+      * Vet Centers: 200 (nodes?) by end of quarter
+   * CMS team has spent time this past week confirming that GraphQL can scale up to ~14,000 - will research how much higher this can go in coming weeks 
+* CMS Export timeline 
+   * Functional parity needs to be reached by end of Feb in order to meet the projected timeline of CMS Export by end of March
+      * Facilities is on track to meet this timeline
+      * Public Websites - will need to follow up with Brian next week
+   * Would issues be build errors? FE issues that result in bad experience for FE?
+      * Need to avoid build errors & isolate them to content only 
+ * Broken link validation 
+    * VSP: the level of effort of requested changes is not small
+    * Mike: broken link risk as part of VAMC rollouts is fairly minimal; one-off broken links are more of an issue as the number of editors increase
+       * Once we get to hourly content release, we can get fixes up & out the door faster. Improving broken link handling can occur after the move to hourly deploys.
+    * Dave: Continue conversation offline. As we roll out VAMCs we roll out editors who are going to be going in and editing and making mistakes. We can come up with a short term solution or workaround. 
+    * Decision: changes to broken link validation will happen post-MVP
+   
+### Action Items
+* Oksana refine node timeline in collaboration with VFS teams - try to map this out to end of year (there will be a very large range in this based on strategy for Tier 3 content)
+* Group: reconnect next week regarding scalability of GraphQL
+* John, Mike, Dave, Stan, Oksana - discuss broken link validation next steps
+* Brian & Michelle provide update on Public Websites timeline to reaching parity
 
 ## 2-5-21
 
