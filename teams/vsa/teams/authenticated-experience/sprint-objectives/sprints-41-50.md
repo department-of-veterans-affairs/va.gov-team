@@ -72,6 +72,12 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 ## Sprint 42 (2/24 - 3/9)
 
+### Profile
+
+**FE**
+
+- Profile: Remove "Your" from "Your Profile" #19890
+
 ### My VA redesign
 
 Liz Lantz joins the team
