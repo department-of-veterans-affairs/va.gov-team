@@ -12,6 +12,8 @@ A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service memb
 
 #### Business processes
 
+Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system. 
+
 #### VA Form 26-1880
 
 The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf) as a fillable PDF. The form is a single page with an additional two pages of instructions and addresses. The form encourages users to apply electronically using eBenefits. The form has four sections:
