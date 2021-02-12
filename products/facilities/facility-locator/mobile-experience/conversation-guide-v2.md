@@ -29,6 +29,8 @@ Before we get started, I want to give you an idea of what this session will be l
 
 - Great, that helps me troubleshoot with you if we run into any problems.
 
+(Send link to prototype in chat window to participant)
+
 - I am going to send you a link to the prototype via the chat within Zoom, and we will go through a series of tasks related to finding a VA location near you.
 
 _For iPhone:_
