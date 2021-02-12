@@ -21,12 +21,23 @@
 
 </details>
 
+
 ## Friday Feb 12 10:30am ET
 
-- Projected volume of content 
+- [Projected volume of content](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=0) (or [XLSX file in this slack thread](https://dsva.slack.com/archives/CPQFCQKEH/p1613142977246500?thread_ts=1613082250.240700&cid=CPQFCQKEH)
+- Dual state launches for the next 2 weeks
+  - Fixing Lebanon facility references. Rescheduled for 17th
+  - Monday broken links check (or Tuesday Feb 16 due to holiday). Any broken links will mean rescheduling and async broken link support. 
+  - Bulk publish 20 minutes ahead of meetings. 
+  - Stan sending out invites for next week today, then will schedule the week after. 
+- Menu cleanup for future VISNs (the issue where structure was incorrect)
+  - updates next week
+
+## Friday Feb 12 10:30am ET
+
+- [Projected volume of content](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=0) (or [XLSX file in this slack thread](https://dsva.slack.com/archives/CPQFCQKEH/p1613142977246500?thread_ts=1613082250.240700&cid=CPQFCQKEH)
 - Dual state launches for the next 2 weeks
 - Menu cleanup for future VISNs (the issue where structure was incorrect)
-
 
 
 ## Friday Feb 5 10:30am ET
