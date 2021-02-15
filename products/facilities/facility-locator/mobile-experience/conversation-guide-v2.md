@@ -9,7 +9,7 @@
 - [ ] Enable screen sharing in Zoom
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-- [ ] [Link to Prototype](https://preview.uxpin.com/c60117d778b6116d11f6fc707a5ac6d953d91aa0#/pages/136040014?mode=chidfm)
+- [ ] [Link to Prototype](https://preview.uxpin.com/c60117d778b6116d11f6fc707a5ac6d953d91aa0#/pages/136040014/simulate/no-panels?mode=chidmf)
 
 ## Intro 
 
@@ -23,7 +23,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 - Then we’ll be reviewing a prototype on a mobile device together. Since this is just a prototype, not everything will be clickable or functioning
 
-- In this session, we want to hear your honest thoughts and opinions. We are not testing your ability. We want to improve the mobile version of the facility locator to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Please try and think aloud as you are clicking through and interacting with the prototype.
+- In this session, we want to hear your honest thoughts and opinions. We are not testing your ability. We want to improve VA.gov to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Please try and think aloud as you are clicking through and interacting with the prototype.
 
 - I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
 
@@ -31,7 +31,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 **Send link to prototype in chat window to participant**
 
-- I just sent you a link to a prototype via the chat within Zoom, and we will go through a series of tasks related to finding a VA location near you.
+- Before we get started with testing the prototype, we need to get your device setup for screensharing.
 
 _For iPhone:_
 
