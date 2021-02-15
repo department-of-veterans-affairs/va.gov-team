@@ -90,7 +90,7 @@ Because this is a brand new tool, there are no baseline KPIs.
 ### Design/Discovery sprint (Completed)
 The first phase of this was to identify what features were desired by the BE Tools team, FE Tools team, Ops, Engineering Lead (Michael Fleet) and the DEPO lead for Engineering on the Platform (Dror).  The ideas were consolidated on the following Mural board and prioritized.
 
-[Mural board of initial Ideas](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f
+[Mural board of initial Ideas](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f)
 
 Outcome:  Deprecate the original generator in favor of a new more in-depth generator that can be invoked through the CLI Toolkit.  This was identified as the most valuable as it helps new VFS teams get started developing on vets-api rather quickly by providing them the scaffolding they need to start developing and encouraging them to develop in Modules witch promotes isolation in the application.
 
