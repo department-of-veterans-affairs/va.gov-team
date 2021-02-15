@@ -554,10 +554,7 @@ Back to [Table of Contents](#table-of-contents)
 #### View Payments
 
 **Audit status:** _[Staging review started December 7, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17007)_<br/>
-**Open issues**
-
-- [508-defect-2 [COGNITION, SCREENREADER]: Pagination SHOULD use meaningful landmarks and aria techniques - #17085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17085)<br/>
-**Opened:** December 8, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -950,7 +947,6 @@ Back to [Table of Contents](#table-of-contents)
 
 
 **Open issues**
-- [508-defect-2 [COGNITION]: VAOS Express Care - Bold text on headings must be consistently marked up as headings - #19301](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19301)<br/>**Limited production** | **Opened:** January 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
