@@ -13,6 +13,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Design System](#design-system)
     - [Forms Library](#forms-library)
     - [Site-wide](#site-wide)
+    - [Site-wide TTY review](#site-wide-tty-review)
     - [VA Developer Portal](#va-developer-portal)
     - [Outreach and Events](#outreach-and-events)
       - [Open issues](#open-issues)
@@ -232,6 +233,18 @@ Back to [Table of Contents](#table-of-contents)
 - [Consider displaying Veterans Crisis Line info in footer on screens 767px wide and smaller - #3459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3459)<br/>
 **Production** | **Opened:** November 13, 2019 | **_Enhancement_**
 
+Back to [Table of Contents](#table-of-contents)
+
+---
+### Site-wide TTY Review
+
+**Maintainer:** VSP & VSA<br/>
+**Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
+
+**Open Issues**
+  
+- [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
+  
 Back to [Table of Contents](#table-of-contents)
 
 ---
