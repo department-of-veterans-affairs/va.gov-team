@@ -108,7 +108,6 @@ The toolkit with the new generator work is being reviewed by a VFS team that is 
 Further improvements to the generator in the rails app will be prioritized, as well as other features that relate to the development and troubleshooting on vets-api.
 Future iterations will allow for other teams on VSP to contribute to this toolkit to help solve and automate tasks that they identify, it will be up to those teams to contribute to the tool.
 
-More Information can be found in the [Design Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/backend/Product/cli-toolkit-research/design-doc.md)
 
 --- 
 
