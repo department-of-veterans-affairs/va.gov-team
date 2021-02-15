@@ -90,4 +90,3 @@ That’s it for the tasks, but I have a few general questions in reference to bo
     *   Note: trying to discern if they expect a response after submitting feedback
 
 Final comments from the user is “I am very happy with my ability to write to my nurse practitioner at local va.  thank you.  God Bless you”
-
