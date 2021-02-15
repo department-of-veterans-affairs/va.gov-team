@@ -348,7 +348,6 @@ Back to [Table of Contents](#table-of-contents)
 - [sitewide 508-defect-2 [SCREEN READER]: Screen reader users SHOULD know there is relevant info after making a selection in the wizard - #18581](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18581)<br/>**Production** | **Opened:** January 14, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION, SCREEN READER]: Buttons SHOULD have unique and accessible labels on the Military Service History page - #18923](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18923)<br/>**Production** | **Opened:** January 25, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [SEMANTIC MARKUP, COGNITION]: Anticipated Separation: <legend> SHOULD be announced to screen readers when in form groupings - #19013](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19013)<br/>**Production** | **Opened:** January 26, 2021 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [COGNITION]: Supporting evidence page SHOULD be redesigned to reduce cognitive load - #19026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19026)<br/>**Production** | **Opened:** January 27, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
