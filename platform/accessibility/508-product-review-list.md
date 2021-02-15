@@ -170,7 +170,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open Issues**
   
-- [508-defect-2 [COGNITION, SCREENREADER]: Pagination SHOULD use meaningful landmarks and aria techniques - #17085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17085)<br/>**Staging** | **Opened:** December 8, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [SEMANTIC MARKUP, COGNITION]: Groups of form elements MUST have group labels (e.g. <fieldset> and <legend>) - #16717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16717)<br/>**Staging** | **Opened:** November 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [sitewide 508-defect-2 [COGNITION, SCREEN READER, MOBILE]: Mobile and screen reader users SHOULD know there is relevant info after the call-to-action button - #16731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16731)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [COGNITION]: Multiple ambiguities with linked text in content block - #3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)<br/>**Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_*
