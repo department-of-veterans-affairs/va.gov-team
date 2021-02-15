@@ -54,6 +54,8 @@ Ruby gems are tracked automatically and this toolkit can be tracked using the fo
 https://rubygems.org/gems/vtk
 Actual success metrics are TBD, but a steady growth of the numbers of installs will imply that users are actively using the toolkit.
 
+**Note:** Gem download stats can seem artificially high, as there are bots on the web that auto install gems and can influence the download count. Additionally, developers may use a RubyGem mirror as an approach to avoid slow download times, which would also influence the total downloads. In turn, the download count is inaccurate and shouldn’t be used as the main source of truth for measuring success.
+
 ### Tracking Through DataDog or Google Analytics (GA)
 There are two tools that are available for platform teams that provide tracking capabilities.  Each of them have their pros vs cons when tracking different types of products.
 
