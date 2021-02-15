@@ -2,21 +2,47 @@
 
 ## Overview
 
-The VSP CLI will make it easy and automated to create/manage/troubleshoot different aspects of your development environments and processes.
+VTK (VSP ToolKit) is a product built by the Backend Tools team through a CLI (Command Line Interface).  The goal of VTK is to develop a tool that allows the platform teams to start automating tasks associated with improving the platform and improving the development of applications on the platform.  Our goal of this tool is to centralize and automate the core steps that developers are required to take in order to start their development work.  Furthermore, Improve and introduce new functionality developers are already utilizing in a simple one step process.
+
+A CLI was selected as the best tool because of its ease of getting the MVP out to the customers, as well as the natural integration into developers already established work flows.
+
+VTK will initially be built by the Backend Tools team, however it is built in such a way that that teams (both platform and VFS) can contribute to its functionality to solve specific problems as they arise.
 
 ## Problem Statement
 
-We (VSP) don't have an automated way to troubleshoot or identity issues or opportunities for standardization that individuals are encountering during development.  Our current process is manual, which often includes a specific set of initial troubleshooting tasks.
+We (VSP) don't have an automated way to troubleshoot or identify opportunities for standardization that individuals are encountering during development.  Our current process is manual, which often includes a specific set of initial troubleshooting tasks.
 
 For example, a VFS team that requests support from VSP doesn't have a quick and automated way to ensure they have the correct SOCKS configuration present and that they are connected successfully to the correct development environment in which they believe the issue to present.
 
+## MVP Functionality
+
+The first iteration of VTK will be launched on February 16th, 2021.  It will include two of the most requested features from our research.  These are:
+
+### New Rails Generator (Backend Development - vets-api)
+Our previous rails generator was out dated and wasn't as configurable as we would have liked it to be.  It created too many files and would often need manual configuration after the fact to remove unnecessary files.
+We have completely rebuilt the rails generator to be more configurable.  This means developers can create only what they need and not have to worry about cleaning up unnecessary code after the fact.
+
+### Socks Control
+We have taken the standard socks script that a lot of developers already use and added it into the toolkit.  There are multiple ways to use socks currently and this is an effort to centralize and standardize how we can support socks.
+
+## Future Features
+As the toolkit matures, we want to focus to ensure that developers coming onto the platform have an automated way to start developing as fast as possible.  In the near future we will work to include the following features (these are not prioritized and have no expected date yet):
+
+#### Automation to setup local environments
+#### Frontend Start App integration
+#### Socks Setup (not just on/off)
+#### Adding templates to configure certain tools (Pact, Sentry, etc)
+#### Permissions Checks (scope TBD)
+#### Interactions with the CI/CD process
+
+
 ## Personas
 
-VSP Developers - Initial troubleshooting and possibly initial configuration setup
+VSP Developers - initial configuration setup and troubleshooting
 
-VFS Developers - Assisting in troubleshooting support requests as well as configuration tasks.
+VFS Developers - Automating configuration tasks and troubleshooting support requests.
 
-Non developers - Automating different aspects of the on-boarding process to gain SOCKS access.
+Non developers - Automating different aspects of the on-boarding process (socks access).
 
 ## Measuring Success
 
@@ -73,7 +99,7 @@ New generator has been developed and wrapped in the CLI Toolkit and is ready for
 More information on the generator can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator)
 CLI Toolkit can be found [here](https://github.com/department-of-veterans-affairs/vtk/blob/master/README.md)
 
-### Test prototype with teams (Current)
+### Test prototype with teams (Completed)
 
 The toolkit with the new generator work is being reviewed by a VFS team that is currently in the process of creating a new backend module.  This team was selected because of the step in the process of their work that lined up with the capabilities of the CLI Toolkit.
 
