@@ -95,9 +95,9 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 ## Timeline
 
 - Study dates: Feb 17-19th 2021
-- Session length: 45 minutes
+- Session length: 30 minutes
 - Preferred 15-30 min break between sessions
-- Christian Valla and Laurel Lawrence should be assigned 7-8 sessions each
+- Christian Valla and Laurel Lawrence are assigned 7-8 slots each
 
 Date | Time in Eastern | Assigned Slots
 -----|-----------------------|-------
