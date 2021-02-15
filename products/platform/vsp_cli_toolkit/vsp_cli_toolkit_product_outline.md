@@ -4,13 +4,13 @@
 
 VTK (VSP ToolKit) is a product built by the Backend Tools team through a CLI (Command Line Interface) written in Ruby and hosted on RubyGems.  The goal of VTK is to develop a tool that is easy to install via the command line, and allow developers the ability to execute commands defined within the toolkit. The toolkit will streamline timely processes and decrease the amount of time it takes for developers to get started. Our goal of this tool is to centralize and automate the core steps that developers are required to take in order to start their development work.  Furthermore, the toolkit will improve and introduce new functionality developers are already utilizing in a simple one step process.
 
-A CLI was selected as the best tool due to the ease of getting the MVP out to the customers, as well as time simple fact that developers are already familiar with working on the command line, so invoking the toolkit commands will be straightfoward.
+A CLI was selected as the best tool due to the ease of getting an MVP out to the customers, as well as the simple fact that developers are already familiar with working on the command line. In turn, invoking the toolkit commands will be be familiar and straightfoward.
 
 VTK will initially be built by the Backend Tools team, however it is built in such a way that that teams (both platform and VFS) can contribute to its functionality to solve specific problems as they arise.
 
 ## Problem Statement
 
-The platform team has limited automation that assist in the initial development configuration or troubleshooting.  We have provided developers with instructions on how to do specific tasks, but we are lacking a centralized tool that can automate tasks that would speed up the developement configuration process.
+The platform team has limited automation that assists in the initial development configuration or troubleshooting.  We have provided developers with instructions on how to do specific tasks, but we are lacking a centralized tool that can automate tasks that would speed up the developement configuration process.
 
 ## MVP Functionality
 
@@ -23,7 +23,7 @@ We have completely rebuilt the rails generator to be more configurable.  This me
 The module generator MVP of the toolkit has additional information that can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/Rails+Module+Generator)
 
 ### Socks Control
-We have taken the standard socks script that a lot of developers already use and added it into the toolkit.  There are multiple ways to use socks currently and this is an effort to centralize and standardize how we can support socks.
+We have taken the standard socks script that many developers already use and added it into the toolkit.  There are multiple ways to use socks currently and this is an effort to centralize and standardize how we can support socks.
 
 ## Future Features
 As the toolkit matures, we want to focus to ensure that developers coming onto the platform have an automated way to start developing as fast as possible.  In the near future we will work to include the following features (these are not prioritized and have no expected date yet):
