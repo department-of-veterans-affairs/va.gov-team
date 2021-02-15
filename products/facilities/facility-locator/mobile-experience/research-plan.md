@@ -99,17 +99,17 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 - Preferred 15-30 min break between sessions
 - Christian Valla and Laurel Lawrence should be assigned 7-8 sessions each
 
-Date | Time in Eastern | Slots
+Date | Time in Eastern | Assigned Slots
 -----|-----------------------|-------
 Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
-Wednesday, Feb 17 | Laurel Lawrence 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm | 4
-Wednesday, Feb 17 | Christian Valla 11am-5pm | 5
-Thursday, Feb 18 | Laurel Lawrence 12pm-1pm, 1pm-2pm, 2pm-3pm | 3
-Thursday, Feb 18 | Christian Valla 11am-5pm | 5
-Friday, Feb 19 | Laurel Lawrence 11am-12pm, 2pm-3pm, 3pm-4pm | 3
-Friday, Feb 19 | Christian Valla 11am-5pm | 5
+Wednesday, Feb 17 | Laurel Lawrence 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm 
+Wednesday, Feb 17 | Christian Valla 3pm-4pm, 4pm-5pm
+Thursday, Feb 18 | Laurel Lawrence 12pm-1pm, 1pm-2pm, 2pm-3pm
+Thursday, Feb 18 | Christian Valla 3pm-4pm, 4pm-5pm
+Friday, Feb 19 | Laurel Lawrence 12pm-1pm
+Friday, Feb 19 | Christian Valla 1pm-2pm, 2pm-3pm, 3:30pm-4:30pm, 5:30pm-6:30pm
 
 - Laurel: Feb 10 - send plan and guide to Lauren to schedule sessions
 - Laurel + Christian (Shawna observing as much as she can): Feb 17th - 19th: conduct user sessions
