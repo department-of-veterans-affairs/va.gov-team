@@ -31,7 +31,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 **Send link to prototype in chat window to participant**
 
-- Before we get started with testing the prototype, we need to get your device setup for screensharing.
+- Before we get started with testing the prototype, we need to get your device setup for sharing your screen.
 
 _For iPhone:_
 
