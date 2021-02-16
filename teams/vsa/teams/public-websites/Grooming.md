@@ -31,10 +31,15 @@
 
 ### Discussion Topics/Grooming 
 - [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
-- [ ] Review [CLP Product Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Collab%20Cyle%20Docs/product-use-cases.md)
-- [ ] CMS Video panel is still not rendering on the FE [Diagnose Issue](https://dsva.slack.com/archives/C01DS1XDEQ0/p1612878571006300?thread_ts=1611858742.036500&cid=C01DS1XDEQ0)
-- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869 (Add to future sprint).
 - [ ] CMS export JSON diffs for Public Websites Transformers #18954
+- [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
+- [ ] 508-defect-3 [SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users [#7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834)
+- [ ] 508-defect-2 [SCREENREADER, COGNITION]: Bold text SHOULD be made headings, in this instance [#7770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7770)
+- [ ] Provide facility IDs for all facilities [#15309](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15309) 
+- [ ] Alert FE Bug affecting Benefits Hub [#15756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15756) 
+- [ ] FE bug on How to apply for a discharge upgrade page [#17462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17462)
+- [ ] Bug: Articles listings and RS search listings are showing weird html tag text [#17779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17779)
+- [ ] Chrome bug: Yellow line showing on some RS pages [#18570](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18570) 
 
 Notes/Next Steps: 
 Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity for PubWeb team:  Discovery: JSON comparison tool 'Diffs' and assessment on reaching 1:1 Parity for Public Website #19469
