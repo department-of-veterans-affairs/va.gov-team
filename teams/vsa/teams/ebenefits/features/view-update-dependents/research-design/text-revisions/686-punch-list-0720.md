@@ -44,11 +44,11 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 
 ### Checkboxes
 
-- [ ] **HP!** Change chapter title to: "What you want to do" (from "What do you want to do?" so that people don't feel like they have to answer a question)
-- [ ] **HP!** Change text of all checkboxes per [updated mockups](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/specs/)
+- [x] **HP!** Change chapter title to: "What you want to do" (from "What do you want to do?" so that people don't feel like they have to answer a question)
+- [x] **HP!** Change text of all checkboxes per [updated mockups](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/specs/)
 Note:  order is the same but the checkbox language is a little more friendly.  Bold is intentional.
 - [ ] **HP!** Move instructional text below checkboxes (text at the top moves to the bottom with some updates)
-- [ ] Address inconsistent spacing between checkboxes/text
+- [x] Address inconsistent spacing between checkboxes/text
 
 ### Veteran's info
 
