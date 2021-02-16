@@ -19,10 +19,10 @@ Improve the overall experience and quality of communications with veterans using
 
 
 ## Things to Know
-- [Upcoming Features](#upcoming-features)
-- [Business Line Tracker](#business-line-tracker)
-- [Successes](#successes)
-- [Find Out More & Get In Touch With Us](#find-out-more)
+- [Upcoming Capabilities](#upcoming-capabilities)
+- [See Who We Are Working With](#See-Who-We-Are-Working-With)
+- [Recent Successes](#recent-successes)
+- [Find Out More & Get In Touch With Us](#Find-Out-More-&-Get-In-Touch-With-Us)
 - [Incident Response](#incident-response)
 _____________________________________________________________________________________________________________________________________________________________
 
@@ -103,12 +103,12 @@ ________________________________________________________________________________
 This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
 
 
-## Successes
+## Recent Successes
 ![](images/Launched.png)
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
-## Find Out More Or Get In Touch With Us
+## Find Out More & Get In Touch With Us
 Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
 Slack - #va-notify
 
