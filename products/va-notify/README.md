@@ -26,7 +26,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Incident Response](#incident-response)
 
 
-## Current Offering
+## What We Currently Offer
 ![](images/currentoffering.png)
 
 
