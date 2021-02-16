@@ -40,6 +40,7 @@
 - [ ] FE bug on How to apply for a discharge upgrade page [#17462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17462)
 - [ ] Bug: Articles listings and RS search listings are showing weird html tag text [#17779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17779)
 - [ ] Chrome bug: Yellow line showing on some RS pages [#18570](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18570) 
+- [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641) 
 
 Notes/Next Steps: 
 Next Steps on 'Transformers'? 
