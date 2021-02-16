@@ -378,7 +378,7 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-Checks the current page for aXe violations.
+Checks the current page or element and children for aXe violations.
 
 #### Arguments:
 
