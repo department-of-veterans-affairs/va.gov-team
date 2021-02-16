@@ -3,24 +3,29 @@
 ## Our Mission
 Improve the overall experience and quality of communications with veterans using modern digital technology, by building a centralized and self-service platform through which business lines and development teams can send communications to veterans.
 
-## Communication
-Slack - #va-notify
 
-## Things to Know
+## Services We Offer
  
-- [How VANotify Works](#how-vanotify-works)
-- [Tech Stack](#tech-stack)
 - [What We Currently Offer](#current-offering)
 - [Email Frame & Template](#email-frame-and-template)
+- [How VANotify Works](#how-vanotify-works)
+- [Tech Stack](#tech-stack)
+
+## Onboard Information
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
 - [FAQs](#faqs)
+
+## Things to Know
 - [Business Line Tracker](#business-line-tracker)
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
 - [Find Out More](#find-out-more)
 - [Incident Response](#incident-response)
+
+## Get In Touch With Us
+Slack - #va-notify
 
 
 ## How VANotify Works
@@ -33,8 +38,8 @@ Slack - #va-notify
 | Python               | Terraform       | Datadog               |
 | Flask                | GitHub Actions  | PagerDuty             |
 | Celery               | AWS Fargate     | Twistlock             |
-| Granicus GovDelivery |                 | Bandit                |
-| AWS (SES/Pinpoint)   |                 |                       |
+|                      | Bandit          |                       |
+
 
 
 ## Current Offering
