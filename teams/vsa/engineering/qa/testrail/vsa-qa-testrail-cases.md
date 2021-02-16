@@ -4,6 +4,11 @@
 
 Get help on creating TestRail Test Cases the VSA way.
 
+## Who should read this?
+
+- QA Engineer
+- Anyone who needs to create Test Cases in TestRail
+
 ## Getting started
 
 ### TestRail docs
@@ -31,7 +36,7 @@ Use Sections (aka Groups) to better organize your Test Cases.  Sections work lik
 
 Once created, a Section you can move it around in the Sections panel -- just drag-n-drop its folder-icon where you want it to go, either into another Section or in-between other Sections.
 
-[See video](https://drive.google.com/file/d/1N_jW5TMtjK1knbptM3D2oKwaw1631Dtm/view?usp=sharing)
+[See Sections video](https://drive.google.com/file/d/1N_jW5TMtjK1knbptM3D2oKwaw1631Dtm/view?usp=sharing)  [Click **Request access** if prompted]
 
 
 ### Use Test Case (Steps) template
@@ -51,6 +56,12 @@ You can create multiple, empty Test Cases quickly by "stubbing them out" on the 
 When you click **Add Case** link, TestRail displays only a textbox for the Test Case Title.  Input a Title for you Case, press **Enter**, and TestRail immediately displays another Title textbox for your next Case.  This lets you quickly stub-out all your Cases first, and then edit each later.
 
 ![TestRail Test Cases stubbing-out screenshot][tr-test-cases-stubbing-out]
+
+### Copy Test Cases
+
+Another trick is to finish a Test Case, then copy it and update the copy.  Just drag an existing Test Case and drop it anywhere you like, then select **Copy** from the popup-menu.
+
+[See Copy Test Case video](https://drive.google.com/file/d/124iDRnYNWK_2vShKkA7lT-dxeSlJ3S1M/view?usp=sharing) [Click **Request access** if prompted]
 
 
 ### Use Markdown

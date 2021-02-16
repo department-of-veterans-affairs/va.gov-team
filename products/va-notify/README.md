@@ -11,6 +11,7 @@ Slack - #va-notify
 - [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
 - [What We Currently Offer](#current-offering)
+- [Email Frame & Template](#email-frame-and-template)
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
@@ -23,7 +24,7 @@ Slack - #va-notify
 
 
 ## How VANotify Works
-![](images/VANotify_Diagram.png)
+![](images/VANotify_Diagram.PNG)
 
 ## Tech Stack
 
@@ -39,6 +40,9 @@ Slack - #va-notify
 ## Current Offering
 ![](images/current_offer.png)
 
+## Email Frame and Template
+![](images/email-frame-template.PNG)
+
 ## Business Onboarding Guide
 ![](images/business.png)
 
@@ -47,6 +51,7 @@ Slack - #va-notify
 * Staging URL: https://staging.api.notifications.va.gov
 * Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
 * Templating guides: 
+  * https://design.va.gov/patterns/email_template
   * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
   * https://notification.canada.ca/templates
 
@@ -55,7 +60,7 @@ Slack - #va-notify
 ## Pricing
 
 * The **Office of the VA Chief Technology Officer (OCTO)** will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, **OCTO** will pay for AWS infrastructure and operational costs.
-* **VA business lines** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  The current cost is **$0.97 per AWS credit**. 
+* **VA business lines (outside of OCTO)** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  The current cost is **$0.97 per AWS credit**. 
 
 | Communication Channel      | Unit Price    | Messages per AWS credit |
 |:---------------------------|:--------------|:------------------------|

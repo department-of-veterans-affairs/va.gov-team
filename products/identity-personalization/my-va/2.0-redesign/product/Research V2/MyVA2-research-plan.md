@@ -18,29 +18,58 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
 - [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
--[MyVA Jobs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
+- [MyVA Jobs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
 
 ## Research questions
 
-- Can users navigate to MyVA easily from an unauthenticated screen?
-- Can Veterans find what they're looking for as a first time user?
-- Does the dashboard layout/structure feel intuitive?
-- Can people find what they're looking for on the dashboard?
-- Do people understand what the updates to their dashboard are?
-- Can users complete tasks easily on the dashboard?
-- Does the placement and wording of the disability rating make sense to users?
-- Do users understand how to view their disability rating breakdown?
-- Do users understand how to navigate to the tools to manage their information?
-- In the claims and health care sections, do users understand what is being displayed? Is it enough information?
-- In the claims and health care sections, does the hierarchy of the information make sense?
-- If there are no updates to show, does a user understand why?
-- If a user has no updates, can they still navigate to the tool to manage their information?
-- Do users understand how to get to the tools to manage their information?
-- Do users understand how to view and access applications in progress?
-- Do users understand how to apply for benefits they are not currently recieving?
-- Are the additional links provided on the dashboard useful?
-- Is any information missing on the dashboard?
-- How do people think the new dashboard compares to the current MyVA?
+**Overall questions**
+- Did we correctly prioritize this page?
+- Is this page useful? Does it have the information and actions it needs?
+- Is there anything they expected to see on My VA that’s missing?
+- What do people think My VA is?
+- What do people think will happen if they click My VA? Does our flow meet expectations?
+
+**My VA vs. the homepage**
+- What would people use My VA for vs. what would people use the homepage for?
+- If there was no homepage, what would a user need My VA to do that it’s not currently doing?
+
+**Mobile questions**
+
+*Note-these probably aren’t questions we’d ask outright, but more assess by behavior*
+
+- Can people find what they need on mobile?
+- Does the page feel too long/like there is too much scrolling required to get to the information they need?
+
+**Nametag**
+- What identifiers do people expect to see on this page?
+- Can people find their disability rating? Did they notice it in the name tag?
+
+**Profile**
+- Where do users think the profile link goes?
+- What do they think is the difference is between the profile vs. My VA?
+
+**Claims**
+- Do they understand the featured claim is the most recently-updated claim?
+- Do they know how many claims and appeals they have total? Is this information helpful to them?
+- Do they know how to view the featured claim/all claims?
+- Is there information missing — or are there actions missing — from this section?
+- What do people expect to happen if they have no claims in progress?
+
+**Health care**
+- Did we correctly prioritize information in this section by featuring latest/most recent information? Or, are the CTAs into the tools and update totals more important?
+- Can they find “totals” information (i.e. 2 unread messages)? And does this information matter to them?
+- Do people understand the latest message (or upcoming appointment or most recent refill) is part of “2 unread messages” (or whatever total) or do they think it’s the latest message + 2 more unread messages (or whatever total)?
+- Do people understand they are looking at their most recent prescription refill update? Why do they think they are seeing this prescription vs. another prescription?
+- Do people understand how they can get more information about their messages/appointments/prescriptions?
+- Do people understand the CTAs will not take them directly to the latest or most recent information? Do they understand CTAs will take them to an overview page?
+- Are there other links, CTAs, or information that would be helpful to show in this section?
+
+**Apply for benefits**
+- Do people understand that they are looking at applications that they’ve started but not yet submitted? Do they understand what “in progress” means?
+- Do people understand how to view an in-progress application?
+- Do people understand why we are showing certain benefits in “benefits you might be interested in”?
+- Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
+- Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
 ## Hypothesis & assumptions
 
@@ -83,27 +112,39 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 ## Timeline 	
 #### Desired Timeline: TBD
 
-Please schedule sessions for 60 minutes with a 30 minute buffer between sessions.
+Please schedule sessions for 75 minutes with a 30 minute buffer between sessions.
 
 Team Availability | Time (EST)
-TBD | TBD
+
+February 19 | 9-12 ET
+
+February 22 | 9-4 ET
+
+February 23 | 9-4 ET
+
+February 24 | 9-4 ET
+
+February 25 | 9-4 ET
+
+February 26 | 9-4 ET
+
+(We can schedule more if need be)
 
 	
-Mobile Pilot Sessions: TBD on TBD | TBD
+Mobile Pilot Sessions: TBD on February 18 or 19 2021 | TBD
 
 ## Team Roles
 * Moderator: Tressa Furner (tressa.furner@adhocteam.us) 
 * Research guide writing and task development: Cassandra Allen, Tressa Furner
 * Participant recruiting & screening: Perigean
 * Project point of contact: Samara Strauss
-* Participant(s) for pilot test: February TBD
+* Participant(s) for pilot test: TBD
 * Note-takers: Perigean
 * Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Lauren ALexanderson (lauren.alexanderson@va.gov), Meg Peters (meg.peters@va.gov), Emily Mann (emily.mann1@va.gov), Kimberly McManus <Kimberly.McManus@va.gov>; Marian Adly (Adly, Marian H. <Marian.Adly@va.gov>)
  
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
-* [Desktop Prototype]()
-* [Mobile Prototype]()
-* [Conversation Guide]()
+* [Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/444040702_My_VA_Mobile)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-conversation-guide.md)
 * Research Findings
 

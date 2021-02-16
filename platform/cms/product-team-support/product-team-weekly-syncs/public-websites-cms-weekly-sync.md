@@ -39,7 +39,23 @@
 
 ### CLP
 
-- Training / guides. 
+- CLP Start to finish
+  - John shared [this graphic](https://dsva.slack.com/archives/C52CL1PKQ/p1612966331368900?thread_ts=1612965801.368000&cid=C52CL1PKQ)t
+  - The request form will contain context about the purpose (and constraints!) of a CLP. 
+  - A how to video?
+  - John's estimate is max 12 CLPs per year (but probably less, 8-10?)
+  - Where do Training / guides fit into this? 
+- Character count on Benefits detail page intro field
+
+
+Covered Feb 9 asynchronously / on call about content model doc
+
+- Any further feedback on Content model changes documentation? 
+- Any more FE or Content support needed for CLP? 
+  - Eg: Video bundle now has field_publication_date for CLP
+- Past events (for Outreach hub)
+  - CMS team will build a tool to manually archive past events on prod, but this may not make it into next sprint ([4212](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4212)).  After that, we'll go ahead and archive past outreach events, and let that team know ([#4213](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4213))
+  - CMS team will initiate a spike [4214](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4214) into how best to manage past events across CMS in an automatic way, and we will need product-specific feedback. 
 
 ## Wednesday February 3
 

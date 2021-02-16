@@ -6,6 +6,8 @@
 * [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
 * [Health Record Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/health-record.md)
 
+* [Medications VA Landscape Map](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/g00Vbvq)
+
 ## Epic User Story 
 User Story 
 
@@ -28,7 +30,6 @@ User Story
  - 2 spray(s). nostril(s) qD, 16g, O Refills
 - Status
  - Active, expired, discontinued - 
-   - Amanda - were you thinking of something else for status, this is what I had listed? - Kristen
 - Tracking medication adherence - actions the Veterans can take
   - Currently statuses/solution for this shown in the above image - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus

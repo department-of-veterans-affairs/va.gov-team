@@ -108,9 +108,9 @@ Milestones are set up as:
 |**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
 |-----------------------|------------------------------|------|------------------|-----------------|
 |*Stand-Up*               |Daily @ 10:00am ET |15 mins         |[Zoom meeting](https://zoom.us/j/3399042357) Friday - Posted on Slack| 3 Question Format: What I did yesterday? What will I do today? Any impediments?|
-|*Sprint Planning*        |1st Wednesday of every sprint  @ 11:00am ET|1 hr| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
+|*Sprint Planning*        |1st Thursday of every sprint  @ 11:00am ET|1 hr| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
 |*Retro*                  |Last Monday of every sprint @ 2:00pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
-|*Grooming* | 2nd Wednesday of every sprint, @ 11:00am ET|1 hour |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
+|*Grooming* | 2nd Thursday of every sprint, @ 11:00am ET|1 hour |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
 
 ---
 #### Issue Etiquette

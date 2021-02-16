@@ -1,6 +1,6 @@
 # Profile Overview
 
-Last Updated July 6, 2020
+Last Updated February 8, 2021
 
 ## POCs
 - GitHub Label: Profile
@@ -99,7 +99,7 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 - Contact information is suppported by VA Profile on the backend.
 - Direct deposit is powered by EVSS.
 - Personal information comes from MPI.
-- Military information comes from DEERS.
+- Military information comes from eMIS.
 
 ## On Call Support
 

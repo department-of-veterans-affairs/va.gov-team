@@ -4,6 +4,11 @@
 
 Get help on using TestRail the VSA way!
 
+## Who should read this?
+
+- QA Engineer
+- Anyone who need to create Test Plan/Runs/Cases in TestRail.
+
 ## What is TestRail (TR)?
 
 TestRail (TR) is a test case management system (TCMS).  It's our VA.gov system-of-record for test planning, test case development, and test execution/reporting.  Platform's vision for TR is a one-stop-shop for documentating all things testing.  Currently, it's used mostly for manual UI testing, but going forward we're intending it to also support automated testing as well.

@@ -1,22 +1,48 @@
-# VSP Command Line Interface (CLI) Toolkit
+# VTK - Command Line Interface (CLI) Toolkit
 
 ## Overview
 
-The VSP CLI will make it easy and automated to create/manage/troubleshoot different aspects of your development environments and processes.
+VTK (VSP ToolKit) is a product built by the Backend Tools team through a CLI (Command Line Interface) written in Ruby and hosted on RubyGems.  The goal of VTK is to develop a tool that is easy to install via the command line, and allow developers the ability to execute commands defined within the toolkit. The toolkit will streamline timely processes and decrease the amount of time it takes for developers to get started. Our goal of this tool is to centralize and automate the core steps that developers are required to take in order to start their development work.  Furthermore, the toolkit will improve and introduce new functionality developers are already utilizing in a simple one step process.
+
+A CLI was selected as the best tool due to the ease of getting an MVP out to the customers, as well as the simple fact that developers are already familiar with working on the command line. In turn, invoking the toolkit commands will be be familiar and straightfoward.
+
+VTK will initially be built by the Backend Tools team, however it is built in such a way that that teams (both platform and VFS) can contribute to its functionality to solve specific problems as they arise.
 
 ## Problem Statement
 
-We (VSP) don't have an automated way to troubleshoot or identity issues or opportunities for standardization that individuals are encountering during development.  Our current process is manual, which often includes a specific set of initial troubleshooting tasks.
+The platform team has limited automation that assists in the initial development configuration or troubleshooting.  We have provided developers with instructions on how to do specific tasks, but we are lacking a centralized tool that can automate tasks that would speed up the developement configuration process.
 
-For example, a VFS team that requests support from VSP doesn't have a quick and automated way to ensure they have the correct SOCKS configuration present and that they are connected successfully to the correct development environment in which they believe the issue to present.
+## MVP Functionality
+
+The first iteration of VTK will be launched on February 16th, 2021.  It will include two of the most requested features from our research.  These are:
+
+### New Rails Generator (Backend Development - vets-api)
+Our previous rails generator was out dated and wasn't as configurable as we would have liked it to be.  It created too many files and would often need manual configuration after the fact to remove unnecessary files.
+We have completely rebuilt the rails generator to be more configurable.  This means developers can create only what they need and not have to worry about cleaning up unnecessary code after the fact.
+
+The module generator MVP of the toolkit has additional information that can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/Rails+Module+Generator)
+
+### Socks Control
+We have taken the standard socks script that many developers already use and added it into the toolkit.  There are multiple ways to use socks currently and this is an effort to centralize and standardize how we can support socks.
+
+## Future Features
+As the toolkit matures, we want to focus to ensure that developers coming onto the platform have an automated way to start developing as fast as possible.  In the near future we will work to include the following features (these are not prioritized and have no expected date yet):
+
+#### Automation to setup local environments
+#### Frontend Start App integration
+#### Socks Setup (not just on/off)
+#### Adding templates to configure certain tools (Pact, Sentry, etc)
+#### Permissions Checks (scope TBD)
+#### Interactions with the CI/CD process
+
 
 ## Personas
 
-VSP Developers - Initial troubleshooting and possibly initial configuration setup
+VSP Developers - initial configuration setup and troubleshooting
 
-VFS Developers - Assisting in troubleshooting support requests as well as configuration tasks.
+VFS Developers - Automating configuration tasks and troubleshooting support requests.
 
-Non developers - Automating different aspects of the on-boarding process to gain SOCKS access.
+Non developers - Automating different aspects of the on-boarding process (socks access).
 
 ## Measuring Success
 
@@ -27,6 +53,8 @@ There are two methods that we will use to determine the success of the tool.
 Ruby gems are tracked automatically and this toolkit can be tracked using the following URL:
 https://rubygems.org/gems/vtk
 Actual success metrics are TBD, but a steady growth of the numbers of installs will imply that users are actively using the toolkit.
+
+**Note:** Gem download stats can seem artificially high, as there are bots on the web that auto install gems and can influence the download count. Additionally, developers may use a RubyGem mirror as an approach to avoid slow download times, which would also influence the total downloads. In turn, the download count is inaccurate and shouldn’t be used as the main source of truth for measuring success.
 
 ### Tracking Through DataDog or Google Analytics (GA)
 There are two tools that are available for platform teams that provide tracking capabilities.  Each of them have their pros vs cons when tracking different types of products.
@@ -62,7 +90,7 @@ Because this is a brand new tool, there are no baseline KPIs.
 ### Design/Discovery sprint (Completed)
 The first phase of this was to identify what features were desired by the BE Tools team, FE Tools team, Ops, Engineering Lead (Michael Fleet) and the DEPO lead for Engineering on the Platform (Dror).  The ideas were consolidated on the following Mural board and prioritized.
 
-[Mural board of initial Ideas](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f
+[Mural board of initial Ideas](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f)
 
 Outcome:  Deprecate the original generator in favor of a new more in-depth generator that can be invoked through the CLI Toolkit.  This was identified as the most valuable as it helps new VFS teams get started developing on vets-api rather quickly by providing them the scaffolding they need to start developing and encouraging them to develop in Modules witch promotes isolation in the application.
 
@@ -73,7 +101,7 @@ New generator has been developed and wrapped in the CLI Toolkit and is ready for
 More information on the generator can be found [here](https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator)
 CLI Toolkit can be found [here](https://github.com/department-of-veterans-affairs/vtk/blob/master/README.md)
 
-### Test prototype with teams (Current)
+### Test prototype with teams (Completed)
 
 The toolkit with the new generator work is being reviewed by a VFS team that is currently in the process of creating a new backend module.  This team was selected because of the step in the process of their work that lined up with the capabilities of the CLI Toolkit.
 
@@ -82,22 +110,11 @@ The toolkit with the new generator work is being reviewed by a VFS team that is 
 Further improvements to the generator in the rails app will be prioritized, as well as other features that relate to the development and troubleshooting on vets-api.
 Future iterations will allow for other teams on VSP to contribute to this toolkit to help solve and automate tasks that they identify, it will be up to those teams to contribute to the tool.
 
-More Information can be found in the [Design Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/backend/Product/cli-toolkit-research/design-doc.md)
 
 --- 
 
 ## Launch Dates
 - MVP Launch: February 16th, 2021
-
----
-   
-## Screen-shots
-
-_Include before/after screen-shots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
 
 ---
 
@@ -124,7 +141,5 @@ _Include before/after screen-shots, if applicable. Delete this section otherwise
 
 - Engineering Lead: Michael Fleet
 - DEPO Lead: Dror Matalon
- 
-_What offices/departments are critical to make this initiative successful?_
- 
+  
 </details>

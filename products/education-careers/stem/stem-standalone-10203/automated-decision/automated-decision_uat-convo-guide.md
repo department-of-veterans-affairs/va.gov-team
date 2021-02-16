@@ -28,7 +28,9 @@ Before we get started, I want to begin by thanking you for your willingness to p
 FOR INELIGIBLE PARTICIPANTS As we begin, I want to note that there are a number of warnings built into the form that discourage ineligible participants from applying. Today, we'd like you to continue the application process when you see those warnings because our goal is to test the application all the way through submission. We are interested in your input on these warnings so feel free to let me know what you’d normally do if you saw one if the form submission wasn’t the goal of this session.
 
 A few more things I want to mention: 
-- ** There are a few other individuals on the line observing.** They are watching for any errors or unexpected behavior that may arise in the system during the application process. • ** This entire session should take no more than 30 minutes.** • ** In this session, we want to hear your honest opinions.** We will not be offended by any opinions you express, and we welcome your feedback. • ** If for any reason and at any time you want to stop the session, please let me know.**
+- ** There are a few other individuals on the line observing.** They are watching for any errors or unexpected behavior that may arise in the system during the application process. 
+• ** This entire session should take no more than 30 minutes.** 
+• ** In this session, we want to hear your honest opinions.** We will not be offended by any opinions you express, and we welcome your feedback. • ** If for any reason and at any time you want to stop the session, please let me know.**
 Before we start, a few things I want to mention:
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -54,7 +56,7 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Apply for STEM Scholarship - 5 minutes
 
 - Step 1
 - Step 2
@@ -65,7 +67,7 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Check Email & Review Application Status - 10 minutes
 
 - Step 1
 - Step 2

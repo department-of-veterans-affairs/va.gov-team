@@ -65,7 +65,7 @@ In order to begin writing your execution records from your Cypress e2e teests in
 1. `TR_GROUPID` : the unique identifier of your section/group of automated tests in your test suite
 1. `TR_FILTER` : a string to match the names of your test cases to (even if you don't want to filter, you must include this variable set to an empty string)
 ```
-export TR_USER=<your-testrail-email-here> TR_API_KEY=<your-API-key> TR_PROJECTID=<your-projectid> TR_SUITEID=<your-suiteid> TR_RUN_NAME=<human readable name> TR_INCLUDE_ALL=<TRUE/FALSE> TR_GROUPID=<subset of test cases collected into group> TR_FILTER=<a string to filter on (can be blank)>
+export TR_USER="your-testrail-email-here" TR_API_KEY="your-API-key" TR_PROJECTID="your-projectid" TR_SUITEID="your-suiteid" TR_RUN_NAME="human readable name" TR_INCLUDE_ALL="TRUE/FALSE" TR_GROUPID="subset of test cases collected into group" TR_FILTER="a string to filter on (can be blank)"
 ```
 
 ## Invoke Cypress with Custom Reporter Options
@@ -74,5 +74,5 @@ yarn cy:testrail-run --spec src/applications/<your app>/tests/e2e/<your test fil
 ```
 The above yarn script is using your previously set environment variables to set the reporter options --
 ```
-"cy:testrail-run": "cypress run --config-file config/cypress-testrail.json --reporter-options domain=dsvavsp.testrail.io,username=$TR_USER,password=$TR_API_KEY,projectId=$TR_PROJECTID,suiteId=$TR_SUITEID,runName=$TR_RUN_NAME,includeAllInTestRun=$TR_INCLUDE_ALL,groupId=$TR_GROUPID,filter=$TR_FILTER",
+"cy:testrail-run": "cypress run --config-file config/cypress-testrail.json --reporter-options host=https://dsvavsp.testrail.io/,username=$TR_USER,password=$TR_API_KEY,projectId=$TR_PROJECTID,suiteId=$TR_SUITEID,runName=$TR_RUN_NAME,includeAllInTestRun=$TR_INCLUDE_ALL,groupId=$TR_GROUPID,filter=$TR_FILTER",
 ```

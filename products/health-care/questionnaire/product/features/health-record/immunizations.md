@@ -15,7 +15,7 @@ User Story
 - reaction (currently MyHealtheVet has checkboxes with options)
 - method (injection, inhalant, by mouth) - Apple Health calls this the route
 - where on the body the injection was received (left deltoid)
-- other sign/symptom (currently dropdown list)
+- other sign/symptom (currently dropdown list) - Look into what this is different then reactions. They look like just two different lists of reactions with this list being much longer.
 - comments
 - ability to add a new immunization (patient reported data)
 - What is currently listed on the COVID-19 Vaccination Record Card
@@ -68,8 +68,9 @@ _Note: credentials should be stored in sensitive repos only_
 ---
 Other use cases that lend themself more to a Health Record section and not Questionnaire:
 1. [Viewing and scheduling an immunization](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/xrr8Km5)
-2. [Viewing and printing an official immunization record](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/qeel3mk)
-3. Adding and editing immunizations also apply to a general Health Record section
+2. [Viewing educational material about an immunization](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/ZOVn55p)
+3. [Viewing and printing an official immunization record](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/qeel3mk)
+4. Adding and editing immunizations also apply to a general Health Record section
 
 
 ---

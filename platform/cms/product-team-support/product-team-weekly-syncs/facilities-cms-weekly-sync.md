@@ -20,11 +20,23 @@
 
 </details>
 
+## February 17 2021
+
+
+
+Content model / FE changes
+
+* Look back at `fieldDate` [PR #16015](https://github.com/department-of-veterans-affairs/vets-website/pull/16015) and method 
+* Facility health services cutover
+
 ## February 10 2021
 
-* Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)
-* fieldDate removed? If so, CMS will merge our PR. 
-* broken link checks in FE issues
+All was handled async: 
+
+* ~Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)~
+* Feedback on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)? 
+* ~fieldDate removed? If so, CMS will merge our PR.~
+* broken link checks in FE PRs. 
 
 ## February 3 
 
