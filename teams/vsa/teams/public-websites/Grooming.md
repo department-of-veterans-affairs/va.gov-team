@@ -46,7 +46,7 @@ Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity 
 - CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
 
 Notes/Next Steps:
-
+Internal UAT --> Update/Fix --> Stakeholder UAT --> Update/Fix --> VSP Staging Review --> Update/Fix --> Launch!
 
 ### Resources and Support MVP 1.1
 [MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
