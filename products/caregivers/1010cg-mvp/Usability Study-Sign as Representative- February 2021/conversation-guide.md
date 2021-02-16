@@ -132,6 +132,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 - What did you think of the overall experience in completing this form?
 - What was the hardest part of completing the form? Were there any areas you felt were unclear? 
 - What worked well? 
+
 - I'm going to quickly show you my screen (moderator shares screen with “representative” question)
    - Can you tell me how you decided/knew that you were/weren’t a representative?
    - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
@@ -141,7 +142,11 @@ Wonderful! I have a few questions about what you just saw in the prototype.
   -  Would you have themn on hand? 
   -  If on mobile, what would you do?
   
- -If the legal representative is the same as the primary caregiver, what they think of having both statement of truth boxes that they are signing?
+ -If the legal representative is the same as the primary caregiver, what they think of having both statement of truth boxes that they are signing? (have aignature page ready) 
+ 
+ - If time, show an discuss PFC and SFC screens
+    -  What helped them make a choice? 
+    -  Any confision? 
 
 ## Wrap-up questions - 5 minutes
 
