@@ -9,8 +9,7 @@
 - Stakeholders: The Board - will fill in from NOD info
 
 ## The Problem
-Veterans are still using a paper form to disagreement claims appeals.  There is a three step process for different types of board appeals
-Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This functionality does not exist on eBenefits either, so this digitization will allow veterans to file appeals using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
+Veterans are still using a paper form to submit disagreement claims appeals.  If the veteran disagrees with an initial claims decision, they have three appeals paths: supplemental claim, higher level review, and notice of disagreement. Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This functionality does not exist on eBenefits either, so digitization will allow veterans to file appeals using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
 
 We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.
 
