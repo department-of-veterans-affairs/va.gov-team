@@ -8,20 +8,21 @@ Improve the overall experience and quality of communications with veterans using
  
 - [What We Currently Offer](#current-offering)
 - [How VANotify Works](#how-vanotify-works)
+- [FAQs](#faqs)
 
 ## Onboarding Information
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Email Frame & Template](#email-frame-and-template)
-- [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
-- [FAQs](#faqs)
+- [Technical Onboarding Guide](#technical-onboarding-guide)
+-  [Tech Stack](#tech-stack)
+
 
 ## Things to Know
--  [Tech Stack](#tech-stack)
+- [Upcoming Features](#upcoming-features)
 - [Business Line Tracker](#business-line-tracker)
 - [Successes](#successes)
-- [Upcoming Features](#upcoming-features)
-- [Find Out More](#find-out-more)
+- [Find Out More & Get In Touch With Us](#find-out-more)
 - [Incident Response](#incident-response)
 
 
@@ -50,22 +51,13 @@ Improve the overall experience and quality of communications with veterans using
 |                      | Bandit          |                       |
 
 
-## Email Frame and Template
-![](images/email-frame-template.PNG)
 
 ## Business Onboarding Guide
 ![](images/business.png)
 
-## Technical Onboarding Guide
-* [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
-* Staging URL: https://staging.api.notifications.va.gov
-* Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
-* Templating guides: 
-  * https://design.va.gov/patterns/email_template
-  * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
-  * https://notification.canada.ca/templates
+## Email Frame and Template
+![](images/email-frame-template.PNG)
 
-![](images/technical.png)
 
 ## Pricing
 
@@ -89,13 +81,26 @@ Improve the overall experience and quality of communications with veterans using
   - Enter your Project Manager and Business Owner
 
 
-## Business Line Tracker
-This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
+## Technical Onboarding Guide
+* [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
+* Staging URL: https://staging.api.notifications.va.gov
+* Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
+* Templating guides: 
+  * https://design.va.gov/patterns/email_template
+  * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
+  * https://notification.canada.ca/templates
 
-## Upcoming Features
-Feb 2021 - Multiple Provider Integration & Delivery Statuses
-Feb-March 2021 - Self Service Portal
-April 2021 - TBD VA Profile / VA.Gov Integrated Preferences
+![](images/technical.png)
+
+
+## Upcoming Capabilities
+ * Feb 2021 - Multiple Provider Integration & Delivery Statuses
+ * Feb-March 2021 - Self Service Portal
+ * Work Starting April 2021 - VA Profile / VA.Gov Integrated Preferences
+
+
+## See Who We Are Working With
+This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
 
 
 ## Successes
