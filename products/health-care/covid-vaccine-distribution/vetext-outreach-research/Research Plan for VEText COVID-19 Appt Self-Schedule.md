@@ -35,7 +35,7 @@ Please list your participant criteria in two categories-
 
 
 2.	What is your recruitment strategy? 	
-Provide the list to Perigean to try to recruit. 
+Provide the list to Perigean to try to recruit approx 10-15 Veterans. 
 
 ## When? 	
 1. Timeline: What dates do you plan to do research? 	
