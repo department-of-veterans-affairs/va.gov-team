@@ -7,8 +7,8 @@ Improve the overall experience and quality of communications with veterans using
 ## Services We Offer
  
 - [What We Currently Offer](#current-offering)
-- [How VANotify Works](#how-vanotify-works)
 - [FAQs](#faqs)
+- [How VANotify Works](#how-vanotify-works)
 
 ## Onboarding Information
 - [Business Onboarding Guide](#business-onboarding-guide)
