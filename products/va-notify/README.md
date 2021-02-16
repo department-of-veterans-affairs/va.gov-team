@@ -9,13 +9,13 @@ Improve the overall experience and quality of communications with veterans using
 - [What We Currently Offer](#current-offering)
 - [FAQs](#faqs)
 - [How VANotify Works](#how-vanotify-works)
+-  [Tech Stack](#tech-stack)
 
 ## Onboarding Information
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Email Frame & Template](#email-frame-and-template)
 - [Pricing](#pricing)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
--  [Tech Stack](#tech-stack)
 
 
 ## Things to Know
