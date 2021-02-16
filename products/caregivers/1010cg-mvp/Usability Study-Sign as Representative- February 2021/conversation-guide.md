@@ -140,6 +140,8 @@ Wonderful! I have a few questions about what you just saw in the prototype.
   -  What documents would you upload here?
   -  Would you have themn on hand? 
   -  If on mobile, what would you do?
+  
+ -If the legal representative is the same as the primary caregiver, what they think of having both statement of truth boxes that they are signing?
 
 ## Wrap-up questions - 5 minutes
 
