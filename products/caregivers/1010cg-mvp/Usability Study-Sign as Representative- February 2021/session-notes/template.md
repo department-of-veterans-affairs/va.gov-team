@@ -1,15 +1,9 @@
-# Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, February 2020
 
-## Moderator Logistics
+Caregiver Usability Study Notes
+=============================================
 
-- _Use #feedback-backchannel in Slack for real-time feedback from observers._
-- _Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel)._
-- _Make sure everyone except the participant and moderator are on mute._
-- _In the Audio section, tap the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked._
-- _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
-- _When the participant is ready, begin the session with the following intro._
+Participant#, Date, Time 
 
-## Project-Specific Setup and Intro - 10 minutes
 
 Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
 
@@ -19,45 +13,6 @@ Thanks for joining us today! My name is Jonathan and I also have some colleagues
 - Please talk aloud as you're looking through things. For example, say "now I'd click on this.. what's this?" This helps me understand what's going through your head while using the tool.
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
-
-**Talk them through Zoom screen sharing and chat features.
-
-**If mobile participant**
-- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
-    -Great, that helps me troubleshoot with you if we run into any problems.
-    
-_For iPhone:_
-- When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share Content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
-- Tap ‘Share Content’ (Green button at bottom middle of the screen)
-- Tap on Screen
-- Tap Zoom
-- Tap “Start broadcast” . After a count of 3, the entire device screen will be shared into the meeting
-- Tap the red bar at the top of your screen when you are ready to end the share
-- Great, now I can see your phone screen! I'm going to begin now if that's ok with you. We will return to this in a few moments.
-_For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
-
-_For Android:_
-- When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "Chat" and "Share." Any questions?
-- Tap "Share"
-- Tap "Screen"
-- May give a "sensitive info" alert
-- May ask you to give Zoom permission to display over other apps, toggle yes. Then hit the back arrow. 
-- Tap "Start now" (maybe)
-_For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
-
-**I'm going to send you a link in the chat.**
-_ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
-
-Mobile [include link or links]
-Open prototype in another tab
-Desktop [include link or links]
-Open prototype in another tab
-
-**Backup plan if they cannot figure out how to share screen:**
-
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
-- [Share your screen]. Can you confirm if you can see my screen?
-
 
 **Recording Instructions**
 
