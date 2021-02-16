@@ -42,7 +42,7 @@
 - [ ] Chrome bug: Yellow line showing on some RS pages [#18570](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18570) 
 
 Notes/Next Steps: 
-Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity for PubWeb team:  Discovery: JSON comparison tool 'Diffs' and assessment on reaching 1:1 Parity for Public Website #19469
+Next Steps on 'Transformers'? 
 
 ### Campaign landing page MVP 1.0
 - [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
