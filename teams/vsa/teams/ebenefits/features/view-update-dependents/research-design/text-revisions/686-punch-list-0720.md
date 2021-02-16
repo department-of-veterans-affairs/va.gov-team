@@ -37,10 +37,10 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 ### [Intro screen](https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction)
 
 - [ ] Form number subhead needs line break after “and/or” on 674 line (same as above with the "Equal to...")
-- [ ] 🔁 Confirm use of double arrows in green button (Leave as is for now, design folks are back and forth on it)
-- [ ] Remove period in H3 “Follow the steps below to apply to add or remove a dependent`.`"
-- [ ] Add colon to "[for example: their major](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/images/686-copy-edit.JPG)"
-- [ ] End of #1 in the subway map, create a line break for "Get help filing your claim" link; and remove period
+- [x] 🔁 Confirm use of double arrows in green button (Leave as is for now, design folks are back and forth on it)
+- [x] Remove period in H3 “Follow the steps below to apply to add or remove a dependent`.`"
+- [x] Add colon to "[for example: their major](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/images/686-copy-edit.JPG)"
+- [x] End of #1 in the subway map, create a line break for "Get help filing your claim" link; and remove period
 
 ### Checkboxes
 
