@@ -129,6 +129,10 @@ Liz Lantz joins the team
 
 ## Sprint 43 (3/10 - 3/23)
 
+### Profile
+
+- Review sticky nav accessibility issue that came out of DD4EDU accessibility review
+
 ### My VA redesign
 
 **PM**
