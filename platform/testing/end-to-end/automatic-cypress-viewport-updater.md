@@ -91,7 +91,7 @@ This caused the error `ArgumentError: invalid byte sequence in UTF-8` which is s
 
 Various attempts to fix this error were tried but none were sucessful. It was finally decided to remove the filter and manually update the VCR cassette after it was generated.
 
-If either the `google_analytics_request_report.yml` or the `google_analytics_after_request_report.yml`VCR cassette ever needs to be regenerated, open the file and manually remove the `jwt` token, the value for `grant_type`:
+If either the `google_analytics_request_report.yml` or the `google_analytics_after_request_report.yml` VCR cassette file ever needs to be regenerated, open the file and manually remove the `jwt` token, the value for `grant_type`:
 
 ```
 ---
