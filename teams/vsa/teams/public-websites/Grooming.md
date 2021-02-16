@@ -30,7 +30,7 @@
 ## Wednesday, February, 17, 2021
 
 ### Discussion Topics/Grooming 
-- [ ] Clean up the widget pattern in the "static-pages" code #7751
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
 - [ ] Review [CLP Product Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Collab%20Cyle%20Docs/product-use-cases.md)
 - [ ] CMS Video panel is still not rendering on the FE [Diagnose Issue](https://dsva.slack.com/archives/C01DS1XDEQ0/p1612878571006300?thread_ts=1611858742.036500&cid=C01DS1XDEQ0)
 - [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869 (Add to future sprint).
