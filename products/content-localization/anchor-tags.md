@@ -75,8 +75,7 @@ After
 Comparative Examples
 Whole Foods
  
-
-
+![image](https://user-images.githubusercontent.com/74627978/108136258-b71da000-7087-11eb-80e1-57fba1070e56.png)
 
 
 New York Times
