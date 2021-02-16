@@ -109,11 +109,11 @@ This is how we track the business lines that are reaching out to us, their parti
 ![](images/vaccine_confirmation.png)
 
 ## Find Out More & Get In Touch With Us
-Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
-Slack - #va-notify
+* Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
+* Slack - #va-notify
 
 
-## Incident response ##
+## Incident Response ##
 Points of contact:
 * Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
 * Project Manager: [Anushya Prasad](mailto://Anushya.Bellur@va.gov)
