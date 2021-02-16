@@ -27,6 +27,53 @@
 
 </details>
 
+## Wednesday, February, 17, 2021
+
+### Discussion Topics/Grooming 
+- [ ] Clean up the widget pattern in the "static-pages" code #7751
+- [ ] Review [CLP Product Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Collab%20Cyle%20Docs/product-use-cases.md)
+- [ ] CMS Video panel is still not rendering on the FE [Diagnose Issue](https://dsva.slack.com/archives/C01DS1XDEQ0/p1612878571006300?thread_ts=1611858742.036500&cid=C01DS1XDEQ0)
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869 (Add to future sprint).
+
+Notes/Next Steps: 
+Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity for PubWeb team:  Discovery: JSON comparison tool 'Diffs' and assessment on reaching 1:1 Parity for Public Website #19469
+
+### Campaign landing page MVP 1.0
+- Planning/Grooming Doc
+- CLP Build, launch and learn 
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
+
+Notes/Next Steps:
+
+
+### Resources and Support MVP 1.1
+[MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
+- Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605)
+- Determine Next steps post CLP build 
+- Bugs and 508 issue considerations
+
+Notes/Next Steps: 
+
+
+### Technical Debt Oppurtunities 
+- [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+
+Notes/Next Steps: 
+
+### In-Take and Redirect request: 
+- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+
+Notes/Next Steps:  
+
+
+### Team Clarity Requests: 
+
+
+### Public Website RoadMap Review:
+
+Notes/Comments:
+
 ## Wednesday, February, 3, 2021
 
 ### Discussion Topics/Grooming 
