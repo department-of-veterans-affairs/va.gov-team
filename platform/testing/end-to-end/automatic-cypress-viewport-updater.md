@@ -58,11 +58,7 @@ Secrets for for the Google API Service Account and the GitHub App are stored in 
 
 All sensitive Google API and GitHub settings that VCR normally records in each cassette `yml` file have been filtered out.
 
-## A VCR Cassette Was Manually Updated
-<<<<<<< HEAD
-=======
-
->>>>>>> 61b40ef49d396079090f2b1fa9ddba31a6495e33
+## Google Analytics VCR Cassettes Were Manually Updated
 The following failure was happening in Jenkins:
 ```
 [2021-02-09T22:12:49.377Z] Failures:
@@ -95,7 +91,7 @@ This caused the error `ArgumentError: invalid byte sequence in UTF-8` which is s
 
 Various attempts to fix this error were tried but none were sucessful. It was finally decided to remove the filter and manually update the VCR cassette after it was generated.
 
-If the `google_analytics_request_report.yml` VCR cassette ever needs to be regenerated, open the file and manually remove the `jwt` token, the value for `grant_type`:
+If either the `google_analytics_request_report.yml` or the `google_analytics_after_request_report.yml`VCR cassette ever needs to be regenerated, open the file and manually remove the `jwt` token, the value for `grant_type`:
 
 ```
 ---
