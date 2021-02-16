@@ -24,12 +24,17 @@ Improve the overall experience and quality of communications with veterans using
 - [Find Out More](#find-out-more)
 - [Incident Response](#incident-response)
 
-## Get In Touch With Us
-Slack - #va-notify
-
 
 ## Current Offering
 ![](images/currentoffering.png)
+
+
+## FAQs
+* Do you have any guidelines on when to send a notification and/or what kind to send? We do!  Look [here](notification-guide.md#vanotify-notification-guide)
+* Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
+* What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example [below](#successes)
+* What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
+* Should I run my email content by a Privacy Officer? Yes.  This will avoid sending Personally Identifiable Information inadvertantly
 
 
 ## How VANotify Works
@@ -83,33 +88,28 @@ Slack - #va-notify
   - Enter the dollar amount
   - Enter your Project Manager and Business Owner
 
-## FAQs
-* Do you have any guidelines on when to send a notification and/or what kind to send? We do!  Look [here](notification-guide.md#vanotify-notification-guide)
-* Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
-* What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example [below](#successes)
-* What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
-* Should I run my email content by a Privacy Officer? Yes.  This will avoid sending Personally Identifiable Information inadvertantly
 
 ## Business Line Tracker
-This is how we will track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
+This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
+
+## Upcoming Features
+Feb 2021 - Multiple Provider Integration & Delivery Statuses
+Feb-March 2021 - Self Service Portal
+April 2021 - TBD VA Profile / VA.Gov Integrated Preferences
+
 
 ## Successes
 ![](images/Launched.png)
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
-## Upcoming Features
-Self Service Portal
-
-## Find Out More
+## Find Out More Or Get In Touch With Us
 Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
+Slack - #va-notify
+
 
 ## Incident response ##
 Points of contact:
 * Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
 * Project Manager: [Anushya Prasad](mailto://Anushya.Bellur@va.gov)
 * Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
-
-On call schedule handled via [PagerDuty](https://veterans-affairs.pagerduty.com/)
-
-Dashboard on [datadog](https://app.datadoghq.com/)
