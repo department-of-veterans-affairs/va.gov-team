@@ -34,6 +34,7 @@
 - [ ] Review [CLP Product Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Collab%20Cyle%20Docs/product-use-cases.md)
 - [ ] CMS Video panel is still not rendering on the FE [Diagnose Issue](https://dsva.slack.com/archives/C01DS1XDEQ0/p1612878571006300?thread_ts=1611858742.036500&cid=C01DS1XDEQ0)
 - [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869 (Add to future sprint).
+- [ ] CMS export JSON diffs for Public Websites Transformers #18954
 
 Notes/Next Steps: 
 Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity for PubWeb team:  Discovery: JSON comparison tool 'Diffs' and assessment on reaching 1:1 Parity for Public Website #19469
