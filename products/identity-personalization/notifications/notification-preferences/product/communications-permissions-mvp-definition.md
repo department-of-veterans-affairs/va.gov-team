@@ -31,7 +31,7 @@ Communications items (eg. notification types)
 Groupings (eg. notification categories)
 
 - Groupings allow business line stakeholders to categorize communication items (eg. individual notifications) into meaningful categories, like “Health” or “Disability benefits”. 
-- Users may see different groups based on whether they have permission to see a group or not (eg. user A may see the “health care” group because they are part of the VA health care system, while user B does not see the “health care” group because they are not part of the health care system). However, all items (eg. notifications) in a given group will stay the same for all users who can see that group. Items (eg. notifications) are not customized per user.
+- VA Profile will always send us all groups that they have. **It is up to VA.gov to add any filtering that we might need**, eg. only showing health care groups to people enrolled in VA health care.
 - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define groupings. However, VA.gov will be able to in the future, store an index relating VAProfile Groupings to specific VA.gov areas allowing VA.gov to dynamically tailor the display of permission selection options.
 
 Communication channels (eg. email, text)
