@@ -9,10 +9,10 @@
 - Stakeholders: The Board - will fill in from NOD info
 
 ## The Problem
-Veterans are still working with a paper form system for filing a paper form.  There is a three step process for different types of board appeals
-Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This does not exist on eBenefits either, so this digitization is the first step in bringing the review process to veterans using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
+Veterans are still using a paper form to disagreement claims appeals.  There is a three step process for different types of board appeals
+Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This functionality does not exist on eBenefits either, so this digitization will allow veterans to file appeals using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
 
-We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.  This will be talked about further below.
+We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.
 
 ## Devlopment Plan
 Pulling in some details from Lighthouse.
