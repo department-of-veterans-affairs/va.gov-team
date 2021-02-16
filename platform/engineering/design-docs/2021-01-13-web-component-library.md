@@ -104,8 +104,10 @@ The code will live in the `component-library` repo on a dedicated orphan branch 
 
 Each Component will have:
 
-- Unit and E2E tests written using Jest ([provided by Stencil](https://stenciljs.com/docs/testing-overview))
+- E2E tests written using Jest ([provided by Stencil](https://stenciljs.com/docs/testing-overview))
 - One or more stories in Storybook to validate appearance/behavior
+
+Unit tests will be written for utility/library functions, and for components where appropriate.
 
 As of mid-January 2021, Stencil provides an experimental screenshot visual diff testing functionality. If this becomes stable, we will consider adopting it.
 
