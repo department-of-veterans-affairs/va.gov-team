@@ -24,7 +24,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Successes](#successes)
 - [Find Out More & Get In Touch With Us](#find-out-more)
 - [Incident Response](#incident-response)
-
+_____________________________________________________________________________________________________________________________________________________________
 
 ## What We Currently Offer
 ![](images/currentoffering.png)
