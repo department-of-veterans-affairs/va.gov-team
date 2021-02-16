@@ -12,8 +12,8 @@
 
 | Session Notes | Session Day & Time | Scenario Order | Role | Gender | Ethnicity | Age | Education | Branch | Location | Care from Outside VA | Immunizations outside the VA | Identified Cognitive | VA Percentage | Lives in | 
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-| [P01]() | Tuesday, Feb. 16 9 - 10 am ET | | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Army | KY | Yes | No | No | 80 | Major Metropolitan Area |
-| [P02]() | Tuesday, Feb. 16 11:30 - 12:30 pm ET | | Veteran | Female | White or Caucasian | 65-74 | High school diploma or equivalent | Army | OH | No | No | Yes | 100 | Rural or remote area |
+| [P01]() | Tuesday, Feb. 16 9 - 10 am ET | Attended | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Army | KY | Yes | No | No | 80 | Major Metropolitan Area |
+| P02 | Tuesday, Feb. 16 11:30 - 12:30 pm ET | No show | Veteran | Female | White or Caucasian | 65-74 | High school diploma or equivalent | Army | OH | No | No | Yes | 100 | Rural or remote area |
 | [P03]() | Tuesday, Feb. 16 12:45 - 1:45 pm ET | | Veteran | Female | White or Caucasian | 45-54 | Associate's degree/trade certificate/vocational training | Army | WA | No | No | Yes | 100 | Rural or remote area |
 | [P04]() | Wednesday, Feb. 17 9 - 10 am ET | | Veteran | Male | White or Caucasian | 65-74 | Doctorate degree | Navy | AR | Yes | Yes | No |   | Rural or remote area |
 | [P05]() | Wednesday, Feb. 17 10:15 - 11:15 am ET | | Veteran | Male | Black or African American | 45-54 | Bachelor's degree | Air Force | LA | Yes | Yes | No |   | Rural or remote area |
