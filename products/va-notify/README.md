@@ -29,7 +29,7 @@ Slack - #va-notify
 
 
 ## Current Offering
-![](images/What We Currently Offer.png)
+![](images/currentoffering.png)
 
 
 ## How VANotify Works
