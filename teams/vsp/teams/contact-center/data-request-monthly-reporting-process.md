@@ -36,3 +36,6 @@ If the call center agrees to provide the requested data then we will inquire if 
 For VEO, we can pull data directly from Salesforce. We shall have agreement and understanding on what data we are using and how it will be used.
 
 For IRIS, we have a closer working relationship and partial ownership of this web form contact product/process. For now, we still need to request data from direct owners. 
+
+### DOMO Reporting
+Once data is received and formatting verified or updated, we upload to DOMO for reporting; currently on a monthly basis.
