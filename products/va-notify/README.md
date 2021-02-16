@@ -11,7 +11,7 @@ Improve the overall experience and quality of communications with veterans using
 - [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
 
-## Onboard Information
+## Onboarding Information
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
@@ -28,6 +28,10 @@ Improve the overall experience and quality of communications with veterans using
 Slack - #va-notify
 
 
+## Current Offering
+![](images/What We Currently Offer.png)
+
+
 ## How VANotify Works
 ![](images/VANotify_Diagram.PNG)
 
@@ -40,10 +44,6 @@ Slack - #va-notify
 | Celery               | AWS Fargate     | Twistlock             |
 |                      | Bandit          |                       |
 
-
-
-## Current Offering
-![](images/current_offer.png)
 
 ## Email Frame and Template
 ![](images/email-frame-template.PNG)
