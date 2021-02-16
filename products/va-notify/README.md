@@ -7,17 +7,17 @@ Improve the overall experience and quality of communications with veterans using
 ## Services We Offer
  
 - [What We Currently Offer](#current-offering)
-- [Email Frame & Template](#email-frame-and-template)
 - [How VANotify Works](#how-vanotify-works)
-- [Tech Stack](#tech-stack)
 
 ## Onboarding Information
 - [Business Onboarding Guide](#business-onboarding-guide)
+- [Email Frame & Template](#email-frame-and-template)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
 - [FAQs](#faqs)
 
 ## Things to Know
+-  [Tech Stack](#tech-stack)
 - [Business Line Tracker](#business-line-tracker)
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
@@ -33,7 +33,7 @@ Slack - #va-notify
 
 
 ## How VANotify Works
-![](images/VANotify_Diagram.PNG)
+![](images/vanotifydiagram.png)
 
 ## Tech Stack
 
