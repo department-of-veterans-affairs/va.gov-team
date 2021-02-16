@@ -116,8 +116,6 @@ Please schedule sessions for 75 minutes with a 30 minute buffer between sessions
 
 Team Availability | Time (EST)
 
-February 19 | 9-12 ET
-
 February 22 | 9-4 ET
 
 February 23 | 9-4 ET
@@ -131,7 +129,7 @@ February 26 | 9-4 ET
 (We can schedule more if need be)
 
 	
-Mobile Pilot Sessions: TBD on February 18 or 19 2021 | TBD
+Mobile Pilot Sessions: TBD on February 22, 2021 | TBD (Can we just have an 1.5 hr break between the pilot and participant sessions to make any changes)
 
 ## Team Roles
 * Moderator: Tressa Furner (tressa.furner@adhocteam.us) 
