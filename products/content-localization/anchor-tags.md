@@ -81,9 +81,8 @@ Whole Foods
 
 New York Times
  
+ https://user-images.githubusercontent.com/74627978/108125108-fe029a00-7075-11eb-8856-da8aa44e18ce.png 
  
- 
-
 Communications
 Team Members
 Stakeholders
