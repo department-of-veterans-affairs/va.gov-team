@@ -37,8 +37,8 @@
 
 ## Wednesday February 17
 
- * CLP alpha user review (John and Randi's comments)
- * CLP beta user onboarding
+ * CLP alpha user review (John and Randi's comments) - [See google doc](https://docs.google.com/document/d/1gUTTX0-8Cm-nBVQ5CI_k15bgqSXHpGNm/edit)
+ * CLP beta user onboarding (any updates)
 
 ## Wednesday February 10
 
