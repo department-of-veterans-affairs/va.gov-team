@@ -30,6 +30,7 @@
 ## Wednesday, February, 17, 2021
 
 ### Discussion Topics/Grooming 
+- [ ] [Site Scheduled Maintenance] [#19891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19891)
 - [ ] CLP Refinement Punch List - Internal UAT [#20087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20087)
 - [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
 - [ ] CMS export JSON diffs for Public Websites Transformers #18954
