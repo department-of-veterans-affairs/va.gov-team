@@ -116,11 +116,6 @@ Screenshots (to be added)
 
 **Comparative Examples**
 
-**Whole Foods**
- 
-![image](https://user-images.githubusercontent.com/74627978/108136258-b71da000-7087-11eb-80e1-57fba1070e56.png)
-
-
 **New York Times**
  
   
@@ -135,6 +130,12 @@ NYT - iPhone: https://user-images.githubusercontent.com/74627978/108138218-7b84d
 **Fed Gov 508:**  https://www.access-board.gov/ict/#about-the-ict-accessibility-standards  
 
 ![](https://user-images.githubusercontent.com/43381063/108099863-2331e100-7053-11eb-8e76-068d105d49f3.gif)
+
+
+**Whole Foods**
+ 
+![image](https://user-images.githubusercontent.com/74627978/108136258-b71da000-7087-11eb-80e1-57fba1070e56.png)
+
 
 Communications
 
