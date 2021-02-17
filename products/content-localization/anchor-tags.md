@@ -72,25 +72,38 @@ _Include indication of which assumption you think is most risky. Your Solution A
 _What are you going to build now, and why have you decided to start there?_
 
 - We are starting with the Coronavirus FAQ page since this page contains a number of accordion and non-accordion H2 question headers. Additionally,  it is a highly trafficked page which will enable us to see meaningful data in a relatively short timeframe.
-What have you explicitly decided to not include in this initial set of functionality, and why?
-•	Since this is a proof-of-concept we are only going to add the anchor tags on the Coronavirus FAQ (english) page as a way to quickly test user engagement and confirm functionality. This will enable us to move quickly and gather data to make an informed decision before deploying on a larger scale.
-How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?
-•	To make the solution scale site-wide we will need to ……
+
+_What have you explicitly decided to not include in this initial set of functionality, and why?_
+
+- Since this is a proof-of-concept we are only going to add the anchor tags on the Coronavirus FAQ (english) page as a way to quickly test user engagement and confirm functionality. This will enable us to move quickly and gather data to make an informed decision before deploying on a larger scale.
+
+_How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
+
+- To make the solution scale site-wide we will need to ……
  
 **Go-to-market Strategy**
 
-•	How are Veterans and others using this product going to know it exists?
-o	Will coordinate with contact center leads and provide training materials.
-o	Anything else?
-•	What marketing, outreach, or communications are necessary for this product to be successful?
-o	Awareness and support of contact center representatives
-•	Link to Release Plan
+How are Veterans and others using this product going to know it exists?
+
+Will coordinate with contact center leads and provide training materials.
+
+Anything else?
+
+_What marketing, outreach, or communications are necessary for this product to be successful?_
+
+Awareness and support of contact center representatives
+
+Link to Release Plan
+
 Launch Dates
-•	Target Launch Date
+
+Target Launch Date
+
 o	tbd
 •	Actual Launch Date
 o	tbd
-•	What date will you evaluate impact after launch?
+
+What date will you evaluate impact after launch?
 o	30 days? 60 days?
  
 Screenshots (to be added)
