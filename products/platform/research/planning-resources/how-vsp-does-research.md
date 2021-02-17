@@ -13,7 +13,7 @@
     *   [5. Read out results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#5-read-out-results)
 *   [Tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#tools-we-use)
 
-We should be conducting user research as part of the product development process on VSP to help guide our product decisions. This mean discovery research as well as usability testing or other methods to make sure the things we’re making are working. 
+We should be conducting user research as part of the product development process on VSP to help guide our product decisions. This means discovery research as well as usability testing or other methods to make sure the things we’re making are working. 
 
 
 ## Who are the users of the Platform?
