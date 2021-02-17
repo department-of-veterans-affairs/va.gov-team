@@ -143,7 +143,7 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
 - We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
 
-### Phase 1 plan (flexible pending technical discovery):
+### Phase 1 plan
 
 **In scope**
 
@@ -153,15 +153,16 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
   - Health enrollment status (eg. enrolled; application pending, etc)
   - Prescriptions
   - Secure messages
-  - Schedule appointments
+- Add the following information
+  - Overall disability rating
+  - Show appointments
 - A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
-- (Nice to have) Elevating overall disability ratings, GI bill balances, and upcoming appointments.
 
 **Out of scope**
 
 - **As of 10.7.2020**: Any updates to the homepage in a logged-in state.
 - Doing anything with the Find VA benefits content that currently exists on My VA.
-- Incorporating any new data or integrations that do not already exist on VA.gov.
+- Incorporating any new data or integrations that do not already exist on VA.gov, with the exception of disability rating and scheduling appointments.
 - Navigation work.
 - Notification center work.
 
@@ -174,12 +175,29 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+*How are Veterans and others using this product going to know it exists?*
+
+- My VA already exists on VA.gov. However, as part of this redesign, we will be adding a link to My VA to the unauthenticated navigation to enhance discoverability.
+- Additionally, we will work with the VA comms team to figure out the right plan for notifying veterans of the newly redesigned page.
+- [Link to release plan when it's ready]
+
+-*What marketing, outreach, or communications are necessary for this product to be successful?*
+
+- We will work with VA comms to figure this out.
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+*What is your target launch date of your MVP/iteration?*
+
+- We are targeting early June 2021 for our initial launch.
+
+*What is your date for when you'll evaluate impact after launch?*
+
+- There is no singular date for this. We will continually evaluate this feature post-launch.
+
+## Post-launch evaluation plan
+
+- TBD
 
 --- 
 
@@ -197,7 +215,9 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
 - **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0.
 - **November 2020**: Create high-level explorations and conduct research on newsfeed vs. traditional direction.
-- **December 2020**: Move forward with traditional direction;
+- **December 2020**: Move forward with traditional direction
+- **January 2021**: Designs completed; Frontend build begins; Copy work begins; Staging use cases put together
+- **February 2021**: InVision prototypes finalized; Frontend build continues; Usability test prep review; Usability testing
 
 ## Discovery
 
@@ -206,6 +226,8 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - November 2020 design exploration research
 
 ## Product 
+
+### Logged-in homepage > My VA pivot
 
 Initially, this project was scoped to be a logged-in homepage redesign. However, as of 10.7.2020, we have pivoted the project back to a My VA dashboard redesign.
 
