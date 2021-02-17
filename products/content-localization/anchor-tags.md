@@ -1,6 +1,6 @@
 **Product Outline: Anchor Tag (Experiment)**
  
-Overview
+**Overview**
 
 The goal of our experiment is to offer a quick and easy way for vets, caretakers, contact center representatives and others to share specific Q/A’s through the addition of anchor links.
 
@@ -9,7 +9,7 @@ By adding shareable anchor links to a heavily trafficked page we can launch quic
 https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ 
 
 
-Problem Statement
+**Problem Statement**
 
 Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. They would need to go into 'inspect' element in their browser to find the link and most users don't do that, even if they know how.
 
@@ -39,7 +39,7 @@ Undesired Business Outcomes
 - Drive additional call volume to contact center
 - Frustrate and/or confuses users
  
-Measuring Success
+**Measuring Success**
 
 Working with the Analytics team, we're seeing an average of 1.5% CTR for links within the body of content. Using this as our benchmark we would like to see a 1.5% or greater engagement for the anchor links on this page.
 
@@ -99,13 +99,14 @@ After
  
 
  
-Comparative Examples
-Whole Foods
+**Comparative Examples**
+
+**Whole Foods**
  
 ![image](https://user-images.githubusercontent.com/74627978/108136258-b71da000-7087-11eb-80e1-57fba1070e56.png)
 
 
-New York Times
+**New York Times**
  
   
 ![](https://user-images.githubusercontent.com/43381063/108098744-bb2ecb00-7051-11eb-9a6f-13ab4be58619.gif)
@@ -116,7 +117,7 @@ New York Times
  
 NYT - iPhone: https://user-images.githubusercontent.com/74627978/108138218-7b84d500-708b-11eb-8196-236fca8f7a68.MP4
 
-Fed Gov 508: https://www.access-board.gov/ict/#about-the-ict-accessibility-standards  
+**Fed Gov 508:**  https://www.access-board.gov/ict/#about-the-ict-accessibility-standards  
 
 ![](https://user-images.githubusercontent.com/43381063/108099863-2331e100-7053-11eb-8e76-068d105d49f3.gif)
 
