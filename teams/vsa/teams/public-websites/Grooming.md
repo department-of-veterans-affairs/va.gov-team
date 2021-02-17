@@ -45,7 +45,7 @@
 - [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641) 
 
 Notes/Next Steps: 
-Next Steps on 'Transformers'? 
+Decision Point: Let's take all the 508 issues (built by Jennifer Strickland) and have Josh Kim review, analyze and add addtional breadcrumbs in support.  Let's action this prior to next sprint.  
 
 ### Campaign landing page MVP 1.0
 - [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
