@@ -1,4 +1,4 @@
-# Weekly sync: Public Websites / 
+# Weekly sync: Public Websites / CMS
 
 <details><summary>About this meeting</summary>
 
