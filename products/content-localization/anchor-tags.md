@@ -26,7 +26,7 @@ Undesired User Outcomes
 
 - Adding an icon and feature that users don’t engage with
 - Causing confusion with the introduction of a new icon and feature
-- 
+
 Desired Business Outcomes
 
 - Help vets/caretakers get to the relevant content quickly
@@ -83,15 +83,15 @@ _How will the solution / approach evolve after this initial build (knowing that 
  
 **Go-to-market Strategy**
 
-How are Veterans and others using this product going to know it exists?
+_How are Veterans and others using this product going to know it exists?_
 
-Will coordinate with contact center leads and provide training materials.
+- Will coordinate with contact center leads and provide training materials.
 
-Anything else?
+- Anything else?
 
 _What marketing, outreach, or communications are necessary for this product to be successful?_
 
-Awareness and support of contact center representatives
+- Awareness and support of contact center representatives
 
 Link to Release Plan
 
@@ -99,19 +99,20 @@ Launch Dates
 
 Target Launch Date
 
-o	tbd
-•	Actual Launch Date
-o	tbd
+- tbd
 
-What date will you evaluate impact after launch?
-o	30 days? 60 days?
+Actual Launch Date
+- tbd
+
+_What date will you evaluate impact after launch?_
+- 30 days? 60 days?
  
 Screenshots (to be added)
 Before
 After
  
+<div style="page-break-after: always;"></div>
 
- 
 **Comparative Examples**
 
 **Whole Foods**
