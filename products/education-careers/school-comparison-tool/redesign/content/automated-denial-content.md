@@ -1,4 +1,14 @@
-# Edith Nourse Rogers STEM Scholarship Application #
+Card for "Check your claim or appeal status" page
+
+## Your Edith Nourse Rogers STEM Scholarship Application ##
+{ Grey circle } **Status:** Denied
+**Submitted on:** MM/DD/YYYY
+View details {button}
+
+
+
+
+# Your Edith Nourse Rogers STEM Scholarship Application #
 
 { blue informational alert }
 
@@ -9,6 +19,8 @@ Your application was denied on MM/DD/YYYY.
 ## Why we denied your claim ##
 
 ### You did not meet these criteria for the Rogers STEM Scholarship: ###
+
+{ Only include applicable criteria }
 
 - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320). 
 
@@ -30,6 +42,8 @@ Your application was denied on MM/DD/YYYY.
           
           
 ### You met these criteria for the Rogers STEM Scholarship: ###
+
+{ Only include applicable criteria }
 
  - By law, all Rogers STEM scholarship recipients must be eligible for Post 9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).
  
@@ -75,7 +89,7 @@ You can learn more about the decision review process at www.va.gov/decision-revi
 
 | Website | Link |
 | ------- | ----- |
-| STEM | https://benefits.va.gov/gibill/fgib/stem.asp |
+| Rogers STEM Scholarship | https://www.va.gov/education/other-va-education-benefits/stem-scholarship/ |
 | VA Forms | www.va.gov/vaforms |
 | Ask a Question (Include your full name and VA file number) | https://gibill.custhelp.va.gov/app/ |
 | Mailing Address: (Include your full name and VA file number on the inside of mailed correspondence, not on envelope) | DEPARTMENT OF VETERANS AFFAIRS; BUFFALO REGIONAL OFFICE ; PO BOX 4616; BUFFALO, NEW YORK 14240-4616 |
