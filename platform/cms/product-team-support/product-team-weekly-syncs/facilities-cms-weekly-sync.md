@@ -32,8 +32,9 @@ Vet Centers
 
 Content model / FE changes
 * Look back at `fieldDate` [PR #16015](https://github.com/department-of-veterans-affairs/vets-website/pull/16015) and method 
-* Facility health services cutover
+* Facility health services cutover - #17928 cleanup from cutover  #19881 "failover logic" issue that was noticed via broken link reports during Lebanon dual state launch. 
 * FYSA: Policies page content model documentation ready by Feb 26 at latest. 
+* Facility status migration issues - Dave will read what Steve sent JHL. Steve's PR has gone in to CMS to remove blockages for Bath and Canandaigua (Finger Lakes area). Dave: this is related to two VAMC systems being merged. Steve: two other similar issues, cert for Anchorage was boogered up, so that Alaska wouldn't come through in facility status migration. Facility status updates have not been correctly updated since December. Fix for Cert is in for Anchorage, which revealed the Finger Lakes. As of today's release, Bath and Canandaigua will not have their facility status migrated, until this is fixed. Dave: real solution is to get all VAMCs into Drupal.  Steve: another issue, some new Facilities have been created because Facilities are being added in ASP endpoint with facility IDs that don't exist in VAST. Potential risk is how Lighthouse handles this. 
 
 Vet Centers
 * ~Review CMS goals and backlog for Sprint 26.~
