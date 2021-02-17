@@ -35,7 +35,7 @@ We are seeking to perform this test with 10 participants
 
 ## When?
 
-**Desired Timeline: 
+**Desired Timeline:** 
 
 60 minutes (45 minute session with 15 minute buffer)
 
