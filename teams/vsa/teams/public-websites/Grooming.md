@@ -30,6 +30,7 @@
 ## Wednesday, February, 17, 2021
 
 ### Discussion Topics/Grooming 
+- [ ] CLP Refinement Punch List - Internal UAT [#20087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20087)
 - [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
 - [ ] CMS export JSON diffs for Public Websites Transformers #18954
 - [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
