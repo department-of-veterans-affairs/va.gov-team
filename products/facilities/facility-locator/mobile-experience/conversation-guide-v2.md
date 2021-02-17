@@ -35,7 +35,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 _For iPhone:_
 
-- When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, this will activate a few buttons at the bottom. Audio, Video, Share screen, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share screen." Any questions?
+- When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, this will activate a few buttons at the bottom. Audio, Video, Share screen, Participants, and three dots over to the right. If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share screen." Any questions?
 - Tap ‘Share screen’ (Green button at bottom middle of the screen)
 - It will give you some options, choose "Screen"
 - You should get a page that says "screen broadcast"
@@ -43,6 +43,7 @@ _For iPhone:_
 - It should start counting down as it starts to share (Zoom uses the phone's recording software to share)
 - If you need to stop sharing during this session you can click 'Stop Broadcast'
 - Great, now I can see your phone screen! 
+- Now I need you to pull up the prototype in the chat. If you tap on those dots, you'll also see a function called "Chat". Click on the link in the prototype.
 _For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
 
 _For Android:_
