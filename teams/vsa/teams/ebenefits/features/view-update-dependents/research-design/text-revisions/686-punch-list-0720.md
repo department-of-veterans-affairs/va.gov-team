@@ -62,12 +62,12 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Add child section
 
-- [ ] **HP!** Change chapter title to: "Information needed to add children"
-- [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
+- [x] **HP!** Change chapter title to: "Information needed to add children"
+- [x] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
 - [x] **HP!** Revise text under "examples of additional evidence" accordion to match [mockups](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/)
-- [ ] Change "Does your child live with you?" to: "Does this child live with you?"
-- [ ] Change "Person your child lives with" to: "Person child lives with"
-- [ ] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
+- [x] Change "Does your child live with you?" to: "Does this child live with you?"
+- [x] Change "Person your child lives with" to: "Person child lives with"
+- [x] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
 
 ### Child upload section
 
