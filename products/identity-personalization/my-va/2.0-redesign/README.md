@@ -1,4 +1,4 @@
-# Product Outline: My VA Dashboard 2.0
+# Project Outline: My VA Dashboard 2.0 Redesign
 
 Last updated December 3, 2020
 
