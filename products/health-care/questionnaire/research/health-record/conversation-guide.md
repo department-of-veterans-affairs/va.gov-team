@@ -41,6 +41,9 @@ To begin, we would like to get to know you a little better and understand your e
   - If yes, how did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
 - Have you ever received an immunization at a non-VA facility, maybe a non-VA provider's office or a pharmacy? 
   - If yes, how did you let your VA provider know about those immunizations? How did those experiences of letting your VA provider go? What methods did you utilize to communicate the change?
+- Do you get a flu shot every year? If so, where? If non-VA location, do they tell their VA provider? If not, why not?
+- Have they gotten their COVID vaccine? If yes, was it at a VA facility?  If no, are they planning on getting the vaccine and where do they plan on getting it?
+  - If they got their COVID vaccine, how was their overall experience?
 - _Only ask if necessary, depending upon how the Veteran answered the past three questions, if they didn't talk about their actual appointments with their providers._ How do you prepare for your appointment when you have changes you would like to discuss with your VA provider?
   - Observers: Take note if anyone mentions printing.
 - Do you utilize MyHealtheVet?
