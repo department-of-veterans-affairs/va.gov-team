@@ -1,6 +1,6 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated December 3, 2020
+Last updated February 17, 2021
 
 ## Communications
 
@@ -19,8 +19,6 @@ Last updated December 3, 2020
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
 
 ## Table of Contents
 
