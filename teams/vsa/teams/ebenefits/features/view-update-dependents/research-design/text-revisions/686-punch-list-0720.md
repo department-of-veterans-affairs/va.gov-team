@@ -78,8 +78,8 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 - [ ] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section
 - [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
-- [ ] Change label for "Course of study or educational program" to: "Subject or educational/training program"
-- [ ] Change label for "Number of classes a week" to: "Number of session a week"
+- [x] Change label for "Course of study or educational program" to: "Subject or educational/training program"
+- [x] Change label for "Number of classes a week" to: "Number of session a week"
 - [ ] Change text field to dropdown for shool type
 
 ### Remove stepchild section
