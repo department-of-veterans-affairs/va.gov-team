@@ -16,26 +16,46 @@ Today, question/answer links are not automatically generated in a way that's eas
 So when a vet, caregiver or customer service representative wants to direct someone to a specific question/answer on the Coronavirus FAQ page, they can only share a link at the page level leaving it up to the recipient to navigate through the long list of information to find the specific content they seek. This can be frustrating and time-consuming.
 
 The goal of this experiment is to make it quick and painless to share specific content contained within a page.
+
 Desired User Outcomes
-•	Ability to quickly share specific content 
-•	Eliminate burden on recipient having to scroll/search the page for relevant info
+
+- Ability to quickly share specific content 
+- Eliminate burden on recipient having to scroll/search the page for relevant info
+
 Undesired User Outcomes
-•	Adding an icon and feature that users don’t engage with
-•	Causing confusion with the introduction of a new icon and feature
+
+- Adding an icon and feature that users don’t engage with
+- Causing confusion with the introduction of a new icon and feature
+- 
 Desired Business Outcomes
-•	Help vets/caretakers get to the relevant content quickly
-•	Drive more traffic to web page vs call center
-•	Determine if feature is worthwhile before supporting site-wide
-•	Leverage for marketing campaigns or correspondence sent to users
+
+- Help vets/caretakers get to the relevant content quickly
+- Drive more traffic to web page vs call center
+- Determine if feature is worthwhile before supporting site-wide
+- Leverage for marketing campaigns or correspondence sent to users
+- 
 Undesired Business Outcomes
-•	Drive additional call volume to contact center
-•	Frustrate and/or confuses users
+
+- Drive additional call volume to contact center
+- Frustrate and/or confuses users
  
 Measuring Success
-Working with the Analytics team, we see an average of 1.5% CTR for links within the body of content. Using this as our benchmark we would like to see a 1.5% or greater engagement for the anchor links on this page.
+Working with the Analytics team, we're seeing an average of 1.5% CTR for links within the body of content. Using this as our benchmark we would like to see a 1.5% or greater engagement for the anchor links on this page.
+
 (Any data on how often the call centers share links today or an added value this would provide?)
+
 Key Performance Indicators (KPIs)
+
 To determine whether our experiment is delivering value to users, we will initially be most interested in metrics related to engagement/usage. 
+
+
+| Category         | KPI           |
+| -------------    | ------------- |
+| Ease of Use      | Engagement: # of shares per link   |
+|Service Completion| Traffic from shared links                    |
+
+
+
 Category	Ease of use	Service completion	Trust/Satisfaction	Health
 KPI	Engagement:# of shares per link			
 KPI		Traffic originating from shared links 		
