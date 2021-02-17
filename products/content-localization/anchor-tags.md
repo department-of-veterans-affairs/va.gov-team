@@ -86,7 +86,7 @@ New York Times
  
  
  
-https://user-images.githubusercontent.com/74627978/108138218-7b84d500-708b-11eb-8196-236fca8f7a68.MP4
+NYT - iPhone: https://user-images.githubusercontent.com/74627978/108138218-7b84d500-708b-11eb-8196-236fca8f7a68.MP4
  
 Communications
 Team Members
