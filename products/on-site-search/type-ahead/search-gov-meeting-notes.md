@@ -1,5 +1,31 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
+### 2/12 Email Exchange
+
+- Email invite sent to John and Sam for this Friday to talk about routed queries -- and any open items related to Type Ahead.
+
+**Type-ahead Lists**
+
+- Go ahead and send us your full lists (for adds, removes, and misspellings) in priority order. We'll do these in batches weekly (as it's a bit manual on our end), likely aiming to cover 50 or so per list per week. 
+
+**Spell Correction Questions**
+
+- If a user searches a misspelled word, will the user see the results for the correct spelling and see “search instead for (misspelled word)”? Or will they see search results for the misspelled word and see “did you mean (correctly spelled word)”?
+
+   - The API will return the property "spelling_correction" in the response with the corrected term and the results will reflect the corrected term. The way this is represented to the user is up to your implementation!
+
+- Will a misspelled search term with any number of results still trigger the web:spelling_correction feature (e.g. benfits (https://www.va.gov/search/?query=benfits) )?
+
+    - Yes - if there are documents in the index that match that misspelled term, those will be returned in the results, ahead of any fuzzy matching being applied, and the "spelling_correction" will return as null in the API response.
+
+- How are misspellings determined? Is this changeable?
+
+  - The corrections are determined by Elastic's fuzzy matching and are unfortunately not configureable per search experience. That said, there are likely improvements we can make to this fuzzy matching in the future - please pass over any specific examples / wishlist items and we'd love to add them to track as a customer request for prioritization on our roadmap.
+
+- Is there a government agency using this Search.gov feature you can point us to see an example?
+
+  - The spellcheck / fuzzy matching is built-in to all search experiences (and impacts search results), but the representation in the SERP depends on how a customer implements it, if they're using the API. In the out of the box experience, it's represented as "Showing results for [[corrected term]]" - here's an example: https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=usagov&query=resourcs 
+
 ### 2/11 Email Exchange
 
 ### Routed Queries
