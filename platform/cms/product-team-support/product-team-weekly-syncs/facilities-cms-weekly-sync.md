@@ -20,14 +20,24 @@
 
 </details>
 
+## February 24 2021
+
+VAMC System
+* Policies page content model documentation
+
+Vet Centers
+* TBD
+
 ## February 17 2021
 
-
-
 Content model / FE changes
-
 * Look back at `fieldDate` [PR #16015](https://github.com/department-of-veterans-affairs/vets-website/pull/16015) and method 
 * Facility health services cutover
+* FYSA: Policies page content model documentation ready by Feb 26 at latest. 
+
+Vet Centers
+* Review CMS goals and backlog for Sprint 26.
+* Possbible: Discuss some possible CMS Discovery, and/or schedule follow-ups
 
 ## February 10 2021
 
