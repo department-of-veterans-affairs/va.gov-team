@@ -77,6 +77,7 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 **FE**
 
 - Profile: Remove "Your" from "Your Profile" #19890
+- Investigate reason for 'Address line too long' update errors in Profile #20079
 
 **BE**
 
