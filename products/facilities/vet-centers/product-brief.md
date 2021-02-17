@@ -84,7 +84,7 @@ Will include the following:
 
 MVP will be rolled out to 10 sites. The initial 5 locations provided geographic distrobution by representing the 5 regions. These Outreach specialists assisted with our primary Vet Center discovery and informed the initial prototypes, and definition of MVP. 
   
- 
+### MVP Participants
 
 Five additional locations were chosen with the intent of filling any gaps in representative characterstics, based on the following criteria: 
   - Vet Center with outstation(s) and CAP(s)
