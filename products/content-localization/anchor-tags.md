@@ -11,7 +11,7 @@ https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
 
 **Problem Statement**
 
-Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. They would need to go into 'inspect' element in their browser to find the link and most users don't do that, even if they know how.
+Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. Someone seeking a llink to a specific FAQ would need to go into the 'inspect' element in their browser to find the link; most users won't bother to do that, even if they know how.
 
 So when a vet, caregiver or customer service representative wants to direct someone to a specific question/answer on the Coronavirus FAQ page, they can only share a link at the page level leaving it up to the recipient to navigate through the long list of information to find the specific content they seek. This can be frustrating and time-consuming.
 
@@ -21,6 +21,7 @@ Desired User Outcomes
 
 - Ability to quickly share specific content 
 - Eliminate burden on recipient having to scroll/search the page for relevant info
+- Drive engagement
 
 Undesired User Outcomes
 
@@ -29,8 +30,8 @@ Undesired User Outcomes
 
 Desired Business Outcomes
 
-- Help vets/caretakers get to the relevant content quickly
-- Drive more traffic to web page vs call center
+- Help vets/caretakers and VA internal groups to get to the relevant content quickly
+- Drive more traffic to web page instead of call center
 - Determine if feature is worthwhile before supporting site-wide
 - Leverage for marketing campaigns or correspondence sent to users
 
