@@ -24,8 +24,8 @@
 
 
 ## Initial Search Priorities
-1. String Matching
-2. Type Ahead
+1. String Matching - Lighthouse dependency
+2. Type Ahead - Lighthouse dependency
 3. Search Tips
 4. Why don't we put the "when to use this form" teaser info in the search results?
     - Lighthouse dependency - they don't include the "related to" or "when to use" data currently.
