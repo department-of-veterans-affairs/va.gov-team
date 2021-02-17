@@ -56,9 +56,9 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Add spouse section
 
-- [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add spouse"
-- [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
-- [ ] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
+- [x] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add spouse"
+- [x] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
+- [x] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
 
 ### Spouse upload section
 
