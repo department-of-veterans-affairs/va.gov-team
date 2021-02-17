@@ -84,6 +84,10 @@ New York Times
  
  ![Picture1](https://user-images.githubusercontent.com/74627978/108125108-fe029a00-7075-11eb-8856-da8aa44e18ce.png)
  
+ 
+ 
+https://user-images.githubusercontent.com/74627978/108138218-7b84d500-708b-11eb-8196-236fca8f7a68.MP4
+ 
 Communications
 Team Members
 Stakeholders
