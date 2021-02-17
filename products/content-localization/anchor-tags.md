@@ -91,7 +91,7 @@ NYT - iPhone: https://user-images.githubusercontent.com/74627978/108138218-7b84d
 
 Fed Gov 508: https://www.access-board.gov/ict/#about-the-ict-accessibility-standards  
 
-![Screen Shot 2021-02-16 at 7 22 29 PM](https://user-images.githubusercontent.com/74627978/108138716-89872580-708c-11eb-9086-bd05f9ea228b.png)
+![](https://user-images.githubusercontent.com/43381063/108099863-2331e100-7053-11eb-8e76-068d105d49f3.gif)
 
 Communications
 
