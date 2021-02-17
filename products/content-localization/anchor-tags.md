@@ -2,9 +2,9 @@
  
 **Overview**
 
-The goal of our experiment is to offer a quick and easy way for vets, caretakers, contact center representatives and others to share specific Q/A’s through the addition of anchor links.
+ Hypothesis: people at VA (ie: contact center, VA media) and Veterans will share more content if they are able to share more deep content.
 
-By adding shareable anchor links to a heavily trafficked page we can launch quickly and determine whether it meets user’s needs and warrants deployment across the VA.gov site.The Coronavirus FAQ page is both highly trafficed and has a lengthy list of FAQs:
+By adding shareable anchor links / deeplinks to a heavily trafficked page we can launch quickly and determine whether it meets user’s needs and warrants deployment across the VA.gov site.The Coronavirus FAQ page is both highly trafficed and has a lengthy list of FAQs:
 
 https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ 
 
