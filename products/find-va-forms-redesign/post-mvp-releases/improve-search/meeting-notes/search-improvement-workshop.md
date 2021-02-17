@@ -1,13 +1,13 @@
 # Search Improvement Workshop
 ## Date: 2021-02-17
-## Attendees: John Hashimoto, Marci McGuire
+## Attendees: John Hashimoto, Marci McGuire, Zach Morel, Laurel Lawrence
 
 ## Follow-up question
-- Are people searching for the non-VA forms (ex - DD-214) on Find a VA Form?
+- Are people searching for the non-VA forms (ex - DD-214) on Find a VA Form? (we know they are searching for them on VA.gov)
 
 ## Notes
 - "Fault tolerance" has to support all the different variations (1010ez, 10-10ez, 10-10 ez, va form etc.)
-- Will fixing solve our biggest problems?
+- Will fixing the matching algo solve our biggest problems?
 - Explain exactly what we are solving (VA-09995 = 09995)
 
 ## Questions/Things to Research
