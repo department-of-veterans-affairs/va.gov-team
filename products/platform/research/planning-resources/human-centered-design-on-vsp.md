@@ -1,14 +1,14 @@
-# Human-Centered Design on VSP
+# VSP Research Guide
 
 
 
-*   [What is human-centered design?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What-is-human-centered-design?)
+*   [Human-Centered Design on VSP](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What-is-human-centered-design?)
 *   [What type of research should I do?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What-type-of-research-should-I-do?)
 *   [What's involved in doing research?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#What's-involved-in-doing-research?)
 *   [How can the Service Design team help?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#How-can-the-Service-Design-team-help?)
 
 
-## What is human-centered design?
+## Human-Centered Design on VSP
 
 Human-centered design is a methodology that incorporates feedback from the people (users) who will use the tool, document or process that you are designing for them. The goal of human-centered design is to end up with a solution that is tailored to meet your users needs, with little wasted effort and reduced risk. 
 
