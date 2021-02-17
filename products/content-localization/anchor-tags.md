@@ -80,9 +80,10 @@ Whole Foods
 
 New York Times
  
- https://user-images.githubusercontent.com/74627978/108125108-fe029a00-7075-11eb-8856-da8aa44e18ce.png 
+  
+![](https://user-images.githubusercontent.com/43381063/108098744-bb2ecb00-7051-11eb-9a6f-13ab4be58619.gif)
  
- ![Picture1](https://user-images.githubusercontent.com/74627978/108125108-fe029a00-7075-11eb-8856-da8aa44e18ce.png)
+ 
  
  
  
