@@ -35,6 +35,11 @@
 
 </details>
 
+## Wednesday February 17
+
+ * CLP alpha user review (John and Randi's comments)
+ * CLP beta user onboarding
+
 ## Wednesday February 10
 
 ### CLP
