@@ -136,7 +136,7 @@ Liz Lantz joins the team
 
 ### Profile
 
-- Review sticky nav accessibility issue that came out of DD4EDU accessibility review
+- Focus MUST not be hidden by the sticky profile menu #19779
 
 ### My VA redesign
 
