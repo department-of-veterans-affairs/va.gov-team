@@ -52,7 +52,7 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Veteran's info
 
-- [ ] Make I in "Veteran's Information" (chapter header) lower-case
+- [x] Make I in "Veteran's Information" (chapter header) lower-case
 
 ### Add spouse section
 
