@@ -36,8 +36,8 @@ Content model / FE changes
 * FYSA: Policies page content model documentation ready by Feb 26 at latest. 
 
 Vet Centers
-* Review CMS goals and backlog for Sprint 26.
-* Possbible: Discuss some possible CMS Discovery, and/or schedule follow-ups
+* ~Review CMS goals and backlog for Sprint 26.~
+* Review Discovery questions/hypotheses.
 
 ## February 10 2021
 
