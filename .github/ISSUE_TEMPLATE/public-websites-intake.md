@@ -3,7 +3,7 @@ name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team (including content and engineering support)
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming, Epic
-assignees: @RLHecht, @brianalloyd
+assignees: <@RLHecht, @brianalloyd
 ---
 
 ## Why you're here 
