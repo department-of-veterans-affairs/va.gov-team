@@ -1,17 +1,20 @@
 **Product Outline: Anchor Tag (Experiment)**
  
 Overview
-The Coronavirus FAQ page is a highly trafficked page comprised of a lengthy list of FAQs:
-
-https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ 
 
 The goal of our experiment is to offer a quick and easy way for vets, caretakers, contact center representatives and others to share specific Q/A’s through the addition of anchor links.
 
-By adding shareable anchor links to this page we can launch quickly and determine whether it meets user’s needs and warrants deployment across the VA.gov site.
+By adding shareable anchor links to a heavily trafficked page we can launch quickly and determine whether it meets user’s needs and warrants deployment across the VA.gov site.The Coronavirus FAQ page is both highly trafficed and has a lengthy list of FAQs:
+
+https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ 
+
+
 Problem Statement
+
 Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. They would need to go into 'inspect' element in their browser to find the link and most users don't do that, even if they know how.
 
 So when a vet, caregiver or customer service representative wants to direct someone to a specific question/answer on the Coronavirus FAQ page, they can only share a link at the page level leaving it up to the recipient to navigate through the long list of information to find the specific content they seek. This can be frustrating and time-consuming.
+
 The goal of this experiment is to make it quick and painless to share specific content contained within a page.
 Desired User Outcomes
 •	Ability to quickly share specific content 
