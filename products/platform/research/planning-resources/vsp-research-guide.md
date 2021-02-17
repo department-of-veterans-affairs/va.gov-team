@@ -10,7 +10,7 @@
 
 ## Human-Centered Design on VSP
 
-The [VA Digital Standards Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards) states that "whether your users are private citizens or government employees, you must include real people in your design process from the beginning — and throughout the lifecycle of your service. Understand the needs of the people who will use your service. Do research to develop a deep understanding of who those people are, how they behave, and what that means for the design of your service." This is often refered to as human-centered design.
+The [Digital Services Playbook](https://playbook.cio.gov/#play1) states that "whether your users are private citizens or government employees, you must include real people in your design process from the beginning — and throughout the lifecycle of your service. Understand the needs of the people who will use your service. Do research to develop a deep understanding of who those people are, how they behave, and what that means for the design of your service." This is often refered to as human-centered design.
 
 Human-centered design is a methodology that incorporates feedback from the people (users) who will use the tool, document or process that you are designing for them. The goal of human-centered design is to end up with a solution that is tailored to meet your users needs, with little wasted effort and reduced risk. 
 
