@@ -108,8 +108,9 @@ _What date will you evaluate impact after launch?_
 - 30 days? 60 days?
  
 Screenshots (to be added)
-Before
-After
+
+- Before
+- After
  
 <div style="page-break-after: always;"></div>
 
