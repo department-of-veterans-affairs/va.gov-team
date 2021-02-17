@@ -232,11 +232,48 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 ### How to Access and Test
 
-### Error Handling
-
-### Service Level Objective
+[Staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+[Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md)
 
 ### API Calls and Dependent Systems
+
+The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the list of what is included as part of the My VA 2.0 redesign and what systems we rely on to get that information:
+
+**Disability rating**
+
+- **We show**: Overall disability rating
+- **Parent tool**: [View your VA disability ratings](https://www.va.gov/disability/view-disability-rating/)
+- **System that supplies this info**: [What VA system/database do we get this from?]
+
+**Claim status**
+
+- **We show**: Most recently updated claim; Overall number of open claims
+- **Parent tool**: [Claim status tool](https://www.va.gov/claim-or-appeal-status/)
+- **System that supplies this info**: [What VA system/database do we get this from?]
+
+**Secure messages (health care)**
+
+- **We show**: Latest message; Total unread messages
+- **Parent tool**: [MHV secure messaging tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Appointments (health care)**
+
+- **We show**: Next appointment; Total upcoming appointments
+- **Parent tool**: [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Prescription refills (health care)**
+
+- **We show**: Latest refill update; Total refills in progress
+- **Parent tool**: [MHV prescriptions tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Applications in progress**
+
+- **We show**: Benefit applications people have started on VA.gov but have not completed
+- **Parent tool**: All benefit applications on VA.gov
+- **System that supplies this info**: VA.gov saved-in-progress applications
 
 ## Design
 
@@ -244,7 +281,9 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 - [My VA use cases MURAL board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 - [My VA data points spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
-- [Design process outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/LIH-outline-and-timeline.md)
+- My VA InVision documentation 
+  - [Desktop](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/screens/443777220)
+  - [Mobile](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/443913926_My_VA_Mobile_Icons)
 
 ### Screenshots
 
@@ -254,11 +293,11 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 *All widgets*
 
-![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
 
 *Empty state*
 
-![My VA 1.0 empty state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-Empty%20states.png)
+![My VA 1.0 empty state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-Empty%20states.png)
 
 ### After
 
