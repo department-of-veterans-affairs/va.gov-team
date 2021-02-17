@@ -5,7 +5,7 @@
 | Mobile | 5 | 4 |
 | Tablet | 0 | 1 |
 | Screen reader | 1 | 0 |
-| Disability | 5 | 4 (marked disabled) |
+| Disability | 5 | 4 (intake question) |
 | High School or Below | 5 | 5 |
 | Urban  | 4 | 3 |
 | Rural  | 6 | 7 |
@@ -15,3 +15,11 @@
 | 18-34 | 2 | 2 |
 | 35-54 | 2 | 6 |
 | 55 or older | 2 | 2 |
+
+| Benefit Looked For  | Requested | Tested | 
+|------------------|------|------|
+| Education | 2 | 3 |
+| Health | 2 | 2 |
+| Disability | 2 | 2 |
+| Family | 2 | 1 |
+| Burial | 2 | 2 |
