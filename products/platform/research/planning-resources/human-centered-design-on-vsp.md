@@ -17,12 +17,12 @@ To achieve this goal, all teams on VSP will talk with and observe their users to
 
 ## What type of research should I do?
 
-Understanding what you want to learn from your research can help you choose the method that works best for your initiative.[ Find the research method to suit your needs](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods).
+Understanding what you want to learn from your research can help you choose the method that works best for your initiative.[ Find the research method to suit your needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-methods.md).
 
 
 ## What's involved in doing research?
 
-For an overview of how to conduct research, you can read[ how to do user research for VSP](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997195801/How+VSP+does+user+research).
+For an overview of how to conduct research, you can read[ how to do user research for VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md).
 
 
 
