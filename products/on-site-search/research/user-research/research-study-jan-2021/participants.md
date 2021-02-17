@@ -5,7 +5,7 @@
 | Mobile | 5 | 4 |
 | Tablet | 0 | 1 |
 | Screen reader | 1 | 0 |
-| Disability | 5 | 4 (intake question) |
+| Identified cognitive<br> impairments and/or <br>functional disabilities | 5 | 4  |
 | High School or Below | 5 | 5 |
 | Urban  | 4 | 3 |
 | Rural  | 6 | 7 |
