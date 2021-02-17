@@ -71,8 +71,8 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Child upload section
 
-- [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
-- [ ] **HP!** Revise text under "examples of additional evidence" accordion to match mockups
+- [x] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
+- [x] **HP!** Revise text under "examples of additional evidence" accordion to match mockups
 
 ### Add student section (674)
 
