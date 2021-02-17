@@ -25,6 +25,9 @@
 
 ## Initial Search Priorities
 1. String Matching
-2. Why don't we put the "when to use this form" teaser info in the search results?
-3. Type Ahead
-4. Search Tips
+2. Type Ahead
+3. Search Tips
+4. Why don't we put the "when to use this form" teaser info in the search results?
+    - Lighthouse dependency - they don't include the "related to" or "when to use" data currently.
+5. Redesign the search landing page with the most popular X forms.
+6. If they type in something with the word "health" or "here are our 10 most popular 10 forms related to "health"  Or "do you mean... "
