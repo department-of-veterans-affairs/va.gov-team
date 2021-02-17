@@ -8,13 +8,13 @@
 *   [How can the Service Design team help?](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/853344257/Human-Centered%2BDesign%2Bon%2BVSP#How-can-the-Service-Design-team-help?)
 
 
-## Human-Centered Design on VSP
+## Why do we do research on VSP?
 
-The [Digital Services Playbook](https://playbook.cio.gov/#play1) states that "whether your users are private citizens or government employees, you must include real people in your design process from the beginning — and throughout the lifecycle of your service. Understand the needs of the people who will use your service. Do research to develop a deep understanding of who those people are, how they behave, and what that means for the design of your service." This is often refered to as human-centered design.
+We should be conducting user research as part of the product development process on VSP to help guide our product decisions. This means discovery research as well as usability testing or other methods to make sure the things we’re making are working for those that will be using it. The [Digital Services Playbook](https://playbook.cio.gov/#play1) states that "We need to continually test the products we build with real people to keep us honest about what is important." This approach is often refered to as human-centered design.
 
 Human-centered design is a methodology that incorporates feedback from the people (users) who will use the tool, document or process that you are designing for them. The goal of human-centered design is to end up with a solution that is tailored to meet your users needs, with little wasted effort and reduced risk. 
 
-To achieve this goal, all teams on VSP will talk with and observe their users to understand their needs, context, and challenges, come up with design concepts that might address these challenges, and then test them with  users. Find more resources on human-centered design in government at [digital.gov](https://digital.gov/topics/design/).
+To achieve this goal, all teams on VSP will talk with and observe their users to understand their needs, context, and challenges, come up with design concepts that might address these challenges, and then test them with users. Find more resources on human-centered design in government at [digital.gov](https://digital.gov/topics/design/).
 
 
 ## What type of research should I do?
