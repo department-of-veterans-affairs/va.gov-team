@@ -60,10 +60,6 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 - [x] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
 - [x] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
 
-### Spouse upload section
-
-- [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
-
 ### Add child section
 
 - [ ] **HP!** Change chapter title to: "Information needed to add children"
