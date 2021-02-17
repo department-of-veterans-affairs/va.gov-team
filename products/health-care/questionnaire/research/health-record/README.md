@@ -4,7 +4,7 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/conversation-guide.md)
-- [Session notes]()
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/health-record/session-notes)
 - [Research report]()
 - [Participants](#participants)
 
@@ -12,7 +12,7 @@
 
 | Session Notes | Session Day & Time | Attended Session? | Role | Gender | Ethnicity | Age | Education | Branch | Location | Care from Outside VA | Immunizations outside the VA | Identified Cognitive | VA Percentage | Lives in | 
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-| [P01]() | Tuesday, Feb. 16 9 - 10 am ET | Yes | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Army | KY | Yes | No | No | 80 | Major Metropolitan Area |
+| [P01](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/session-notes/P1.md) | Tuesday, Feb. 16 9 - 10 am ET | Yes | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Army | KY | Yes | No | No | 80 | Major Metropolitan Area |
 | P02 | Tuesday, Feb. 16 11:30 - 12:30 pm ET | No | Veteran | Female | White or Caucasian | 65-74 | High school diploma or equivalent | Army | OH | No | No | Yes | 100 | Rural or remote area |
 | [P03]() | Tuesday, Feb. 16 12:45 - 1:45 pm ET | Yes | Veteran | Female | White or Caucasian | 45-54 | Associate's degree/trade certificate/vocational training | Army | WA | No | No | Yes | 100 | Rural or remote area |
 | [P04]() | Wednesday, Feb. 17 9 - 10 am ET | Yes | Veteran | Male | White or Caucasian | 65-74 | Doctorate degree | Navy | AR | Yes | Yes | No |   | Rural or remote area |
