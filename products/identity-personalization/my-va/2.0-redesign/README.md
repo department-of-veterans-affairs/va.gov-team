@@ -263,7 +263,7 @@ The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the lis
 
 **Prescription refills (health care)**
 
-- **We show**: Latest refill update; Total refills in progress
+- **We show**: Latest refill update for prescriptions with a status of **Active: Submitted** or **Active: Refill in process**; Total number of prescriptions with a status of **Active: Submitted** or **Active: Refill in process**
 - **Parent tool**: [MHV prescriptions tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills)
 - **System that supplies this info**: [What VA system/database/integration do we get this from?]
 
