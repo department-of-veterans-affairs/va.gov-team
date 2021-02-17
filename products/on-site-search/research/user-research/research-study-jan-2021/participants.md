@@ -16,7 +16,7 @@
 | 35-54 | 2 | 6 |
 | 55 or older | 2 | 2 |
 
-| Benefit Looked For  | Requested | Tested | 
+| <div align="left">Benefits that participants <br>looked for previously</div>  | Requested | Tested | 
 |------------------|------|------|
 | Education | 2 | 3 |
 | Health | 2 | 2 |
