@@ -1,4 +1,4 @@
-# Card for "Check your claim or appeal status" page:#
+# Card for "Check your claim or appeal status" page: #
 
 ## Your Edith Nourse Rogers STEM Scholarship Application ##
 { Grey circle } **Status:** Denied
