@@ -5,7 +5,7 @@
 | Mobile | 5 | 4 |
 | Tablet | 0 | 1 |
 | Screen reader | 1 | 0 |
-| Disability | 2 | 4 (marked disabled) |
+| Disability | 5 | 4 (marked disabled) |
 | High School or Below | 5 | 5 |
 | Urban  | 4 | 3 |
 | Rural  | 6 | 7 |
