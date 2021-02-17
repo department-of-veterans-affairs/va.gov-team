@@ -29,7 +29,7 @@ Before we get started, I want to give you an idea of what this session will be l
 
 - Great, that helps me troubleshoot with you if we run into any problems.
 
-**Send link to prototype in chat window to participant**
+**Have the participant share their screen FIRST, then send link to prototype in chat window to participant**
 
 - Before we get started with testing the prototype, we need to get your device setup for sharing your screen.
 
