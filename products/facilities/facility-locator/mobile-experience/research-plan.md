@@ -105,7 +105,7 @@ Friday, Feb 12  [PILOT] | Jonathan Nelson and Laurel Lawrence 3:30pm-4:30pm
 Monday, Feb 15  [PILOT] | Leyda Hughes and Laurel Lawrence 12pm-1pm
 Tuesday, Feb 16 [PILOT] | Tressa Furner and Laurel Lawrence 2:30pm-3:30pm
 Wednesday, Feb 17 | Laurel Lawrence 9am-10am, 10am-11am, 12pm-1pm, 1pm-2pm 
-Wednesday, Feb 17 | Christian Valla 3pm-4pm, 4pm-5pm
+Wednesday, Feb 17 | Christian Valla 2pm-3pm, 3pm-4pm
 Thursday, Feb 18 | Laurel Lawrence 12pm-1pm, 1pm-2pm, 2pm-3pm
 Thursday, Feb 18 | Christian Valla 3pm-4pm, 4pm-5pm
 Friday, Feb 19 | Laurel Lawrence 12pm-1pm
