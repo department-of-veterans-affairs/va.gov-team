@@ -14,9 +14,9 @@
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
 | [P01]() | Tuesday, Feb. 16 9 - 10 am ET | Yes | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Army | KY | Yes | No | No | 80 | Major Metropolitan Area |
 | P02 | Tuesday, Feb. 16 11:30 - 12:30 pm ET | No | Veteran | Female | White or Caucasian | 65-74 | High school diploma or equivalent | Army | OH | No | No | Yes | 100 | Rural or remote area |
-| [P03]() | Tuesday, Feb. 16 12:45 - 1:45 pm ET | | Veteran | Female | White or Caucasian | 45-54 | Associate's degree/trade certificate/vocational training | Army | WA | No | No | Yes | 100 | Rural or remote area |
-| [P04]() | Wednesday, Feb. 17 9 - 10 am ET | | Veteran | Male | White or Caucasian | 65-74 | Doctorate degree | Navy | AR | Yes | Yes | No |   | Rural or remote area |
-| [P05]() | Wednesday, Feb. 17 10:15 - 11:15 am ET | | Veteran | Male | Black or African American | 45-54 | Bachelor's degree | Air Force | LA | Yes | Yes | No |   | Rural or remote area |
+| [P03]() | Tuesday, Feb. 16 12:45 - 1:45 pm ET | Yes | Veteran | Female | White or Caucasian | 45-54 | Associate's degree/trade certificate/vocational training | Army | WA | No | No | Yes | 100 | Rural or remote area |
+| [P04]() | Wednesday, Feb. 17 9 - 10 am ET | Yes | Veteran | Male | White or Caucasian | 65-74 | Doctorate degree | Navy | AR | Yes | Yes | No |   | Rural or remote area |
+| P05 | Wednesday, Feb. 17 10:15 - 11:15 am ET | No | Veteran | Male | Black or African American | 45-54 | Bachelor's degree | Air Force | LA | Yes | Yes | No |   | Rural or remote area |
 | [P06]() | Wednesday, Feb. 17 11:30 - 12:30 am ET | | Veteran | Male | Hispanic, Latino, or Spanish Origin | 35-44 | Some college (no degree) | Army | CA | Yes | Yes | No | 70 | Major Metropolitan Area |
 | [P07]() | Thursday, Feb. 18 9 - 10 am ET | | Veteran | Female | White or Caucasian | 65-74 | Doctorate degree | Navy | GA | Yes | No | No | 90 | Rural or remote area |
 | [P08]() | Thursday, Feb. 18 10:15 - 11:15 am ET | | Veteran | Male | Black or African American | 25-34 |   | Army | DC | No | No | No | 80 | Major Metropolitan Area |
