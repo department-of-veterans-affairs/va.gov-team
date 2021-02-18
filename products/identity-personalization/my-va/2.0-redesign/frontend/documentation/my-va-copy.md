@@ -85,11 +85,12 @@ Get your lab and test results
 Get your VA medical record
  
 ### Apply for VA benefits
- 
-Applications in progress
 
-You have no applications in progress
- 
+- applications in progress
+- You have no applications in progress
+
+VA benefits you might be interested in
+
 {CTA button} 
 Continue your application
 
