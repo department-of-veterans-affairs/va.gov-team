@@ -59,7 +59,9 @@ Can we update headers to follow this pattern? [benefit type] claim received [dat
 For example:
 
 Disability compensation claim received [date]
+
 Education benefits claim received [date]
+
 Health care benefits claim received [date]
  
 ### Health care section
