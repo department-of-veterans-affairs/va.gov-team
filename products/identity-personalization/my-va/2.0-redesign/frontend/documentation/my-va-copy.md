@@ -111,5 +111,15 @@ You have no appointments scheduled in the next 30 days.
 #### Prescriptions
 You have no prescription refills or updates in progress.
 
+### Apply for VA benefits
+
+- applications in progress
+- You have no applications in progress
+
+VA benefits you might be interested in
+
+What benefits does VA offer?
+
+Explore VA.gov to learn about the benefits we offer.
 
 
