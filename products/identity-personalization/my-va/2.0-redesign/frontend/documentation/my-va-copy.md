@@ -43,3 +43,50 @@ Applications in progress
 
 You have no applications in progress
 
+## A user who has everything
+
+[Every thing InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/444258310_My_VA_Desktop)
+
+Your disability rating: 40% service connected 
+
+Go to your profile
+
+### Claims and appeals
+
+Can we update headers to follow this pattern? [benefit type] claim received [date]
+For example:
+
+Disability compensation claim received [date]
+Education benefits claim received [date]
+Health care benefits claim received [date]
+ 
+### Health care section
+
+Messages
+Appointments
+Prescriptions
+ 
+ 
+Links under health care cards:
+
+2 unread messages.
+6 upcoming appointments.
+3 prescription updates.
+ 
+Manage your health care benefits 
+ 
+Links:
+Get your lab and test results
+Get your VA medical record
+ 
+### Apply for VA benefits
+ 
+Applications in progress
+You have no applications in progress
+ 
+{CTA button} 
+Continue your application
+
+VA benefits you might be interested in
+
+
