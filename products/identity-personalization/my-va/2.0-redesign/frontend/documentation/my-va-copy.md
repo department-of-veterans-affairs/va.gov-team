@@ -43,11 +43,6 @@ VA education benefits help Veterans, service members, and their qualified family
 Apply for education benefits
 
 
-Applications in progress
-
-You have no applications in progress
-
-
 
 ## A user who has everything
 
