@@ -5,3 +5,5 @@ We need to make sure you’re you - and not someone pretending to be you - befor
 
 This one-time process takes about 5-10 minutes.
 [Verify your identity]
+
+[https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287792_My_VA_LOA1]
