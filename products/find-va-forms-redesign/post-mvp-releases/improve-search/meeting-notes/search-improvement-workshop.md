@@ -26,8 +26,9 @@
 ## Initial Search Priorities
 1. String Matching - Lighthouse dependency
 2. Type Ahead - Lighthouse dependency
-3. Search Tips
-4. Why don't we put the "when to use this form" teaser info in the search results?
+    -  e.g.,When user types four numeric digits in Search (ignoring if they type Form or VA Form first) -- e.g. 10-2 -- the five most popular 10-2 forms will be suggested in a drop down box.
+4. Search Tips
+5. Why don't we put the "when to use this form" teaser info in the search results?
     - API Payload already contains "related to" or "when to use" data currently.
-5. Redesign the search landing page with the most popular X forms.
-6. If they type in something with the word "health" or "here are our 10 most popular 10 forms related to "health"  Or "do you mean... " (match words up to "related to" categories)?
+6. Redesign the search landing page with the most popular X forms.
+7. If they type in something with the word "health" or "here are our 10 most popular 10 forms related to "health"  Or "do you mean... " (match words up to "related to" categories)?
