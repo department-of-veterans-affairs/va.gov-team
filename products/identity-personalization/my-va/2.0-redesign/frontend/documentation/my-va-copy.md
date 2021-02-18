@@ -94,6 +94,8 @@ Continue your application
 
 VA benefits you might be interested in
 
+What benefits does VA offer?
+
 
 ## LOA3 user who has everything but has no updates
 
