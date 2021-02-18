@@ -26,7 +26,7 @@ __1. Home Page Emergency banner__
 - VAMCs can publish on their VAMC pages only. 
 - Yellow.
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session. 
-- TL/DR of the process: The homepage banner is in one of our GitHub repos, one called vagov-content. It's our pre-Drupal way of writing content, but it is deployed to the website the same as Drupal content. So basically, OPIA (Josh) would edit the HP banner in vagov-content, open a PR that a dev would approve + merge, then we would just ask someone to kick off a content deployment via Drupal.
+- TL/DR of the process: The homepage banner is in one of our GitHub repos, one called vagov-content. It's our pre-Drupal way of writing content, but it is deployed to the website the same as Drupal content. So basically, OPIA (Josh) would edit the HP banner in vagov-content, open a PR that a dev would approve + merge, then we would just ask someone to kick off a content deployment via Drupal.  One other note: the format of that homepage banner content is YML and it requires certain whitespace/indentation to be a valid format. I always pull Josh's branch to make sure it works. If it doesn't I'll fix the formatting issue (and sometimes flag Josh if there are HTML issues, like I can see his intent but something is wrong) then push a commit. Then when I review his PR, I post a screenshot of the banner on my local machine
 
 __2. Sitewide system maintenance downtime banner__ 
 
