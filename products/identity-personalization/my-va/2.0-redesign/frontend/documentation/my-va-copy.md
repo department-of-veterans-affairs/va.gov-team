@@ -27,6 +27,7 @@ VA benefits you might be interested in
 
 ### Health care
 With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
+
 {CTA button} 
 Apply for VA health care
 
