@@ -32,5 +32,5 @@
 6. Why don't we put the "when to use this form" teaser info in the search results?
     - API Payload already contains "related to" or "when to use" data currently.
 7. Redesign the search landing page with the most popular X forms.
-    - Let's get data on how many users are clicking the Frequently used VA forms and Manage your VA benefits and other information online links.  If there is little usage, let's create a new Search landing page with the three or five most searched forms for top categories: Health, Disability, Education, Jobs/Careers.
+    - Let's get data on how many users are clicking the Frequently used VA forms and Manage your VA benefits and other information online links.  If there is little usage, let's "test" -- via A/B or user testing -- a new Search landing page with the three or five most searched forms for top categories: Health, Disability, Education, Jobs/Careers.
 9. If they type in something with the word "health" or "here are our 10 most popular 10 forms related to "health"  Or "do you mean... " (match words up to "related to" categories)?
