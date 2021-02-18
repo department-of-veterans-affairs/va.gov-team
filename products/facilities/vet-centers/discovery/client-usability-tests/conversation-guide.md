@@ -8,7 +8,7 @@
 - [ ] Enable screen sharing in Zoom
 - [ ] Manage waiting room feature in Zoom
 
-https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529?mode=cvhidm
+https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449?mode=cvhidm
 
 ## Intro - 3 minutes
 
@@ -115,7 +115,7 @@ Imagining this situation,
 I'm going to send you a link to a website to click on in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button. 
 
 
-[Mobile prototype to be tested](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529?mode=cvhidm)
+[Mobile prototype to be tested](https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449?mode=cvhidm)
 
 OR type: **rb.gy/y3jt7f**
 
