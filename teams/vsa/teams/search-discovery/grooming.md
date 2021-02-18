@@ -4,14 +4,14 @@
 ***DISCUSSION TOPICS:*** 
 
  - [ ] Review "Needs Grooming" issues
- - [ ]  Discuss Spelling Enhancement  [#19190] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/19190)
+ - [ ]  Discuss Spelling Enhancement  [#19190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19190)
  - [ ] Review Initiative Next Steps
- - [ ]  Expand VA Acronym Clarity Requirements  [#19371] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
+ - [ ]  Expand VA Acronym Clarity Requirements  [#19371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
 
 
  ***INITIATIVE STATUS***
  
-|**Initiative **         |**Status Notes + Next Steps**         |
+|**Initiative**         |**Status Notes + Next Steps**         |
 |-----------------------|------------------------------|
 |Typeahead POC            |Awaiting Dashboard Review Fri 2/19 > Data Review Mon Feb 22 |
 |UX Discovery            |Readout scheduled 2/22 >Integrate findings into roadmap |
