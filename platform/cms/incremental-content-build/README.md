@@ -1,5 +1,6 @@
 
 Below is the CMS team's current thinking and plan for unblocking VAMC rollouts and improving our overall content build/deploy process including division of labor/responsibility. 
+
 **Baseline Agreements**
  - Transformer solution has required a significantly higher investment than planned, and will continue to require significant investment for ongoing maintenance per product 
  - The smaller graphQL data call upgrade that went to production Monday, 2/15 is proving to have more than
