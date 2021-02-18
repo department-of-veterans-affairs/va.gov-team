@@ -88,8 +88,8 @@ You can learn more about the decision review process at https://www.va.gov/decis
 | Rogers STEM Scholarship | https://www.va.gov/education/other-va-education-benefits/stem-scholarship/ |
 | VA Forms | https://www.va.gov/vaforms |
 | Ask a Question (Include your full name and VA file number) | https://gibill.custhelp.va.gov/app/ |
-| Mailing Address: (Include your full name and VA file number on the inside of mailed correspondence, not on envelope) | DEPARTMENT OF VETERANS AFFAIRS; BUFFALO REGIONAL OFFICE ; PO BOX 4616; BUFFALO, NEW YORK 14240-4616 |
-| Education Call Center | 1-888-GI-BILL-1 (1-888-442-4551) (inside the U.S); 001-918-781-5678 (outside the U.S.) |
+| Mailing Address: (Include your full name and VA file number on the inside of mailed correspondence, not on envelope) | Department of Veterans Affairs; Buffalo Regional Office; PO Box 4616; Buffalo, NY 14240-4616 {this should be on 4 separate lines! } |
+| Education Call Center | 1-888-GI-BILL-1 (1-888-442-4551) (inside the U.S); 001-918-781-5678 (outside the U.S.) {this should be on 2 separate lines }|
 | TTY, Federal Relay | 711 |
 | Veterans Crisis Line | 1-800-273-8255 and press 1 |
 | VA Regional Office Location | https://www.va.gov/find-locations |
