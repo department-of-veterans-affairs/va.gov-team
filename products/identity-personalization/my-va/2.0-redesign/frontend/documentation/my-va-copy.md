@@ -10,7 +10,7 @@ This one-time process takes about 5-10 minutes.
 
 ## First Time User
 
-[FTUX] (https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287788_My_VA_FTUX)
+[FTUX](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287788_My_VA_FTUX)
 
 ### My VA
 Welcome to My VA, your personalized guide to the VA benefits and services you’ve earned. You can check the status of your in-progress claims and applications or manage your health care information, like appointments, prescriptions, and messages from your health care team.
