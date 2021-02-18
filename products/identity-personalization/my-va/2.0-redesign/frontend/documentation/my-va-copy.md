@@ -128,4 +128,12 @@ Explore VA.gov to learn about the benefits we offer.
 
 [Cerner InVison](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287794_My_VA_Desktop_Cerner-MHV)
 
+### Your VA health care team may be using our new My VA Health portal
+
+Our records show you’re registered at one or more facilities that now use our VA My Health portal.
+
+To view all of your information, you may need to sign into My VA Health. To open the portal, you may need to disable your browser’s pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in on VA.gov.
+
+{CTA button} [Go to My VA Health]
+
 
