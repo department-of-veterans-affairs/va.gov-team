@@ -75,9 +75,8 @@ Links under health care cards:
  
 Links:
 
-Get your lab and test results
-
-Get your VA medical record
+- Get your lab and test results
+- Get your VA medical record
  
 ### Apply for VA benefits
 
