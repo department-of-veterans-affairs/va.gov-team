@@ -1,0 +1,27 @@
+
+Below is the CMS team's current thinking and plan for unblocking VAMC rollouts and improving our overall content build/deploy process including division of labor/responsibility. 
+**Baseline Agreements**
+ - Transformer solution has required a significantly higher investment than planned, and will continue to require significant investment for ongoing maintenance per product 
+ - The smaller graphQL data call upgrade that went to production Monday, 2/15 is proving to have more than
+   halved build/deploy time such that currently we can safely have content deployments 1x/hour today 
+ - We should therefore stop all transformer work and instead focus on a roadmap to improve graphQL
+   with incremental content builds 
+ - CMS team's contribution to the content build/deploy is only 1 step of 29 total, yet this step needs to be tested for scalability. The below plan tries to show how our part plays into the broader process.
+
+**Roadmap to incremental content builds**
+***Current Sprint***
+ - **[CMS Team]** Create estimate number of nodes per VAMC to understand total number nodes required over time based on the VAMC upgrade roadmap (COMPLETE - [see estimate here](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=106613017))
+- **[CMS Team]** Set up load testing by creating hundreds of thousands of nodes
+- **[FE Tools Team]** Overall build performance improvements and create benchmark duration for all build/deploy steps other than the GraphQL query (current assumption is all other steps take 30 minutes)
+
+***Next Sprint***
+- **[CMS Team]** Execute load testing to determine expected GraphQL duration at key points in the roadmap, and when added to all other build/deploy steps, determine the timeframe by which the current content build process will no longer support 1x/hour (fail point)
+- **[CMS Team]** Generate pages.json files with each content volume increment
+Subsequent 2-3 Sprints
+- **[ALL]** Identify 1 key engineer from CMS, Platform, and Web teams, along with Dror and Mike to collaborate on a technical architecture for incremental builds
+- **[ALL]** Determine the team size and external resources that may be required to achieve incremental builds within the fail point timeframe
+- **[ALL]** Build out epic requirements and user stories per team
+- **[FE Tools Team]** Implement 1x/hour content builds
+
+***Subsequent Sprints***
+ - **[ALL]** Begin implementation of incremental build user stories 
