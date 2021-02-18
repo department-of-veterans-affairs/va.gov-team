@@ -1,5 +1,29 @@
 # Search & Discovery Team Grooming
 
+## February 18, 2021
+***DISCUSSION TOPICS:*** 
+
+ - [ ] Review "Needs Grooming" issues
+ - [ ]  Discuss Spelling Enhancement (if implementation changes, what #19190
+ - [ ] Review Initiative Next Steps
+ - [ ]  Expand VA Acronym Clarity Requirements  #19371
+
+
+ ***INITIATIVE STATUS***
+ 
+|**Initiative **         |**Status Notes + Next Steps**         |
+|-----------------------|------------------------------|
+|Typeahead POC            |Awaiting Dashboard Review Fri 2/19 > Data Review Mon Feb 22 |
+|UX Discovery            |Readout scheduled 2/22 >Integrate findings into roadmap |
+|Typeahead 1.0             |ordering suggestions + Styling improvements > extend to 100% of users |
+|Spelling Enhancement             |At Risk: Awaiting discussion with search.gov to validate implementation |
+|Acronym Clarity             |Create DB Reader Tool > connect reader to search suggestions|
+
+
+ ***NEXT STEPS/ACTIONS:***
+ - TBD
+
+
 ## February 4, 2021
 
 ***DISCUSSION TOPICS:***
