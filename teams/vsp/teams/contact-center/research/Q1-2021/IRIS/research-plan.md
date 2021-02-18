@@ -66,7 +66,7 @@ Testing assets are currently available on the staging environment of VA.gov.
 - **Research guide writing and task development:** Ian McCullough ([ian.mccullough@oddball.io](mailto:ian.mccullough@oddball.io))
 - **Participant recruiting & screening:** Perigean
 - **Project point of contact:** 
-- **Participant(s) for pilot test:** Amy Cesal, Chante Lantos-Swett, Joanne Esteban (optional), Trevor Pierce (for accessibility pilot)
+- **Participant(s) for pilot test:** Chante Lantos-Swett, Trevor Pierce 
 - **Note-takers:** *Potentially any of the following, depending on availability*
 - **Observers:** *Potentially any of the following, depending on availability*
 
