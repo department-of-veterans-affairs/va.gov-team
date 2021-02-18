@@ -33,13 +33,13 @@ This topline summary is a high level, top of mind summary of trends found in the
         -   Effective in terms of relevant results?
             -   Not effective unless it was a common topic and was typed 'correctly' (Ex: participants needed to type '10-10ez', adding a space or adding 'va form' to the search term made it impossible to find). Participant's ability to find what they were looking for on the search results was positively impacted by "Top Recommendations".
         -   Effective in terms of ability for users to locate those results? (the way it is presented?)
-          -   One participant commented that it "looks just like Google, so it is easy". Most users focused on keywords within the title of a search result to determine whether or not it was relevant. 
+            -   One participant commented that it "looks just like Google, so it is easy". Most users focused on keywords within the title of a search result to determine whether or not it was relevant. 
         -   How can search results be improved to improve scanning behavior?
             -   Increase hierarchy and font size. Utilize VA.gov's design system to better match the rest of VA.gov.
         -   How do users scan search results?
             -   They look at only the first few results.
         -   Is there a cognitive disconnect and/or issues caused by differing typography (smaller font) on the search results page compared to the rest of the site?
-                -   One participant commented that the print was really small.
+             -   One participant commented that the print was really small.
 
         -   Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
                -   One stated it was "what VA recommends", another stated it is "what people use the most". If a Top Recommendation was shown, the participant usually clicked on a link under it. 
@@ -52,10 +52,11 @@ This topline summary is a high level, top of mind summary of trends found in the
         -   Do users know about other search utilities - find a facility, yellow ribbon
             -   Most participants found Find a Facility due to it's placement on the header. Participants had more trouble finding Find a Form and usually utilized global search to look for a form.
         -   How is the search experience different for users across benefit hubs?
-            -   In their past expereince, participants with healthcare related questions were looking at eBenefits first. 
+            -   In their past experience, participants with healthcare related questions were looking at eBenefits first. 
     -   **Where do users look for information if they don't find it via VA.gov search?**
-            -   Google and sites found via Google. Veteran Facebook communities and Reddit, 
+           -   Many looked for information on eBenefits. Participants also utilize Google and sites found via Google. A few mention Veteran Facebook communities and Reddit. 
         -   How do users see VA.gov search separate from Google?
+             -   One participant commented that they trust pages on VA.gov moreso than results on Google.
 2.  Hypothesis: What is your hypothesis for this research?
     
     -   Veterans will experience the following pain points which will lead to veterans perceiving our site search to be ineffective:
@@ -72,10 +73,11 @@ This topline summary is a high level, top of mind summary of trends found in the
     -   Users will use site search immediately when coming to VA.gov with a task in mind, especially if they have not completed that task recently (or ever).
             - False, participants seemed to go immediately to browsing the navigation or homepage links first.
     -   Users use Google and online groups (such as Facebook or Reddit) for broader queries, and they come to VA.gov with more specific information in mind found through those other avenues.
-            - True, many also mentioned looking on eBenefits.
+           - True, many also mentioned looking on eBenefits.
     -   Users likely won't pay attention to the label Top Recommendations; if they do, they won't understand it means.
         -   Several participants pointed it out. One stated it was "what VA recommends", another stated it is "what people use the most". If a Top Recommendation was shown, the participant usually clicked on a link under it. 
     -   Benefits that have a clear associated task, such as disability (filing a claim) are easier to navigate via search than education or another benefit that has multiple, or less clear, outcomes.
+        -   No noticeable difference between benefit hubs. 
     -   Users will have difficulty locating information on other search features (ex: Find a Facility).
         -   Participants were more likely to find a local VA facility using Find a Facility than global search. Participants were less likely to find a form on Find a Form unless they typed it exactly the way Find a Form expected.
     -   The way our search engine works is not up to people's expectations.
