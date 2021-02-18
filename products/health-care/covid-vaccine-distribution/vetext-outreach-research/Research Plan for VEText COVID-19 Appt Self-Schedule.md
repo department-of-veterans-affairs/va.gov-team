@@ -69,7 +69,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers:	Perigean 
 
 - Observers:	
-  lauren.alexanderson@va.gov, patrick.bateman@va.gov, danielle.thierry@va.gov, stephen.barrs@va.gov, shane.elliott@va.gov, robert.durkin@va.gov, chante.lantosswett@va.gov
+  lauren.alexanderson@va.gov, patrick.bateman@va.gov, danielle.thierry@va.gov, stephen.barrs@va.gov, shane.elliott@va.gov, robert.durkin@va.gov, chante.lantosswett@va.gov, julia.snyder@va.gov, Kennon.Hulett@adhocteam.us, 
 
   
 ## Resources	
