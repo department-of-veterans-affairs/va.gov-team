@@ -28,11 +28,9 @@ Show the **disability block** if…:
 
 - Always show this block in this section. We may iterate on this and change the approach in the future.
 
-Show the **education block** if:
+Show the **education block** _unless_:
 
-*Changed as of 2.4.21*
-
-- Always show this block in this section. We may iterate on this and change the approach in the future.
+- If we determine that the user is getting direct deposit payments for education benefits via [this API](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/profile/getCh33BankAccount), we will hide this block.
 
 *Visual specs*
 
