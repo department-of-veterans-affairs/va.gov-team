@@ -84,7 +84,7 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Remove stepchild section
 
-- [ ] **HP!** Change chapter title to "Information needed to remove a stepchild who has left your household"
+- [x] **HP!** Change chapter title to "Information needed to remove a stepchild who has left your household"
 
 ### Dependent death section
 
