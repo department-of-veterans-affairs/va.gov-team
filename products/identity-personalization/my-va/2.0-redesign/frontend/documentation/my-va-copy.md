@@ -89,8 +89,6 @@ Get your VA medical record
 - applications in progress
 - You have no applications in progress
 
-VA benefits you might be interested in
-
 {CTA button} 
 Continue your application
 
