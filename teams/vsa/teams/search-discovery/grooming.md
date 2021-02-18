@@ -4,9 +4,9 @@
 ***DISCUSSION TOPICS:*** 
 
  - [ ] Review "Needs Grooming" issues
- - [ ]  Discuss Spelling Enhancement (if implementation changes, what #19190
+ - [ ]  Discuss Spelling Enhancement  [#19190] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/19190)
  - [ ] Review Initiative Next Steps
- - [ ]  Expand VA Acronym Clarity Requirements  #19371
+ - [ ]  Expand VA Acronym Clarity Requirements  [#19371] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
 
 
  ***INITIATIVE STATUS***
