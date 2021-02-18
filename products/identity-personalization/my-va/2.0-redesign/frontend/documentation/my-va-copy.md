@@ -132,7 +132,12 @@ Explore VA.gov to learn about the benefits we offer.
 
 Our records show you’re registered at one or more facilities that now use our VA My Health portal.
 
+[Facility 1] and [Facility 2] (Using VA My Health)
+
 To view all of your information, you may need to sign into My VA Health. To open the portal, you may need to disable your browser’s pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in on VA.gov.
+
+Manage appointments at:
+[Facility 1] or [Facility 2]
 
 {CTA button} Go to My VA Health
 
