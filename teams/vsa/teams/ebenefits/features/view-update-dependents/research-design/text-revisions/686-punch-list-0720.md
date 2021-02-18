@@ -100,13 +100,13 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Child marriage section
 
-- [ ] **HP!** Change chapter title to "Information to remove a child under 18 who has married"
+- [x] **HP!** Change chapter title to "Information to remove a child under 18 who has married"
 > This is part of the form system
 - [ ] Address large gap above header, "Child who is now married"
 
 ### Student left school section
 
-- [ ] **HP!** Change chapter title to "Information to remove a child 18 to 23 years old who has stopped attending school"
+- [x] **HP!** Change chapter title to "Information to remove a child 18 to 23 years old who has stopped attending school"
 
 ---
 
