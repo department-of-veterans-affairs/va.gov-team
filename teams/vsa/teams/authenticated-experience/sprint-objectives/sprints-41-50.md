@@ -79,10 +79,6 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 - Profile: Remove "Your" from "Your Profile" #19890
 - Investigate reason for 'Address line too long' update errors in Profile #20079
 
-**BE**
-
-- [BE] store invalid addresses in PII logs table #20025
-
 ### My VA redesign
 
 Liz Lantz joins the team
