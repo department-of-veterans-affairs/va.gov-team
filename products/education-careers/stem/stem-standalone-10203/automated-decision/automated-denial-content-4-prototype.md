@@ -30,9 +30,9 @@ Your application was denied on MM/DD/YYYY.
 
 - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320). 
 
-- We reviewed your service and school data records currently on file.  
+  - We reviewed your service and school data records currently on file.  
      
-- As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time.
+  - As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time.
 
 
 ### You met these criteria for the Rogers STEM Scholarship: ###
