@@ -3,7 +3,7 @@
 ## Your Edith Nourse Rogers STEM Scholarship Application ##
 { Grey circle } **Status:** Denied
 
-**Submitted on:** MM/DD/YYYY
+**Submitted on:** Month DD, YYYY
 
 View details {button}
 
@@ -87,21 +87,21 @@ Your application was denied on MM/DD/YYYY.
 
 You can read more about these options on VA Form 20-0998, "Your Rights to Seek Further Review of Our Decisions". Go to https://www.va.gov/find-forms/about-form-20-0998/ to download this form.  You can also contact us at (888) GI BILL 1 (888-442-4551) to request any of these forms.
 
-You can learn more about the decision review process at www.va.gov/decision-reviews. If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your account on www.va.gov.
+You can learn more about the decision review process at https://www.va.gov/decision-reviews. If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your account on https://www.va.gov.
 
 ## If you have questions or need assistance ##
 
 | Website | Link |
 | ------- | ----- |
 | Rogers STEM Scholarship | https://www.va.gov/education/other-va-education-benefits/stem-scholarship/ |
-| VA Forms | www.va.gov/vaforms |
+| VA Forms | https://www.va.gov/vaforms |
 | Ask a Question (Include your full name and VA file number) | https://gibill.custhelp.va.gov/app/ |
 | Mailing Address: (Include your full name and VA file number on the inside of mailed correspondence, not on envelope) | DEPARTMENT OF VETERANS AFFAIRS; BUFFALO REGIONAL OFFICE ; PO BOX 4616; BUFFALO, NEW YORK 14240-4616 |
 | Education Call Center | 1-888-GI-BILL-1 (1-888-442-4551) (inside the U.S); 001-918-781-5678 (outside the U.S.) |
 | TTY, Federal Relay | 711 |
 | Veterans Crisis Line | 1-800-273-8255 and press 1 |
-| VA Regional Office Location | www.va.gov/find-locations |
-| GI Bill® Comparison Tool: This tool allows you to get information on a school’s value and affordability; and to compare estimated benefits by school. | www.va.gov/gi-bill-comparison-tool |
+| VA Regional Office Location | https://www.va.gov/find-locations |
+| GI Bill® Comparison Tool: This tool allows you to get information on a school’s value and affordability; and to compare estimated benefits by school. | https://www.va.gov/gi-bill-comparison-tool |
 
 
 
