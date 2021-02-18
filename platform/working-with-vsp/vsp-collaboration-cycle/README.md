@@ -5,15 +5,11 @@ The VSP Collaboration Cycle is where VSP reviewers provide support and guidance 
 VSP provides guidance in Design, Content, Information Architecture, QA, and Accessibility practice areas. Teams should engage with the Collaboration Cycle when they begin building or iterating on their VA.gov content and/or product. 
 
 ## Table of contents
-[The Collaboration Cycle process](#the-collaboration-cycle-process)
-
-[Resources](#resources)
-
-[Practice areas supported by the Collaboration Cycle](#practice-areas-supported-by-the-collaboration-cycle)
-
-[Contact us](#contact-us)
-
-[Change history](#change-history)
+- [The Collaboration Cycle process](#the-collaboration-cycle-process)
+- [Resources](#resources)
+- [Practice areas supported by the Collaboration Cycle](#practice-areas-supported-by-the-collaboration-cycle)
+- [Contact us](#contact-us)
+- [Change history](#change-history)
 
 ## The Collaboration Cycle process
 ### 1. Get started with the Collaboration Cycle 
@@ -26,7 +22,7 @@ This guidance will walk you through a list of questions to determine what level 
 ### 2. Submit the Collaboration Cycle kickoff ticket
 When you’re ready to kick off your Collaboration Cycle process, submit our kickoff ticket. 
 
-[Collaboration Cycle Kickoff ticket](need to add link)
+[Collaboration Cycle Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D)
 
 Once submitted, VSP will comment on the ticket with the recommended Collaboration Cycle touchpoints, as well as what practice areas will be involved in your reviews. Those recommended touchpoints will also be added to our tracking spreadsheet (linked below) for reference. 
 
