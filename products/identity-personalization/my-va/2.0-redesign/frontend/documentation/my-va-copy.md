@@ -55,14 +55,11 @@ Go to your profile
 
 ### Claims and appeals
 
-Can we update headers to follow this pattern? [benefit type] claim received [date]
-For example:
+- Disability compensation claim received [date]
 
-Disability compensation claim received [date]
+- Education benefits claim received [date]
 
-Education benefits claim received [date]
-
-Health care benefits claim received [date]
+- Health care benefits claim received [date]
  
 ### Health care section
 
@@ -73,9 +70,11 @@ Prescriptions
  
 Links under health care cards:
 
-2 unread messages.
-6 upcoming appointments.
-3 prescription updates.
+- 2 unread messages.
+
+- 6 upcoming appointments.
+
+- 3 prescription updates.
  
 Manage your health care benefits 
  
