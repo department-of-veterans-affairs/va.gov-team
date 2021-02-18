@@ -11,10 +11,10 @@ __Change: There will be one style of full-width banner component, rather than ha
 __Not changed:__ Rubric for display hierarchy is still a) Emergency banner, b) Sitewide downtime banner, c) Veteran action needed banner
 
 
-__1. Emergency banner__
+__1. Home Page Emergency banner__
 
-- Ability to publish: OPIA, DEPO, VISNs, and VAMCs.
-- OPIA can publish on VA.gov homepage.
+- Ability to publish: OPIA, DEPO, VISNs, and VAMCs. 
+- OPIA can publish on VA.gov homepage via Drupal.  Does not require platform deployment.
   - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
   - Requires PR review by FE engineer -- must be approved within 15m
   - Use Cases: Natural Disasters, Operational emergencies, Fed Gov shutdown
@@ -26,7 +26,7 @@ __1. Emergency banner__
 - VAMCs can publish on their VAMC pages only. 
 - Yellow.
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session. 
-
+- TL/DR of the process: The homepage banner is in one of our GitHub repos, one called vagov-content. It's our pre-Drupal way of writing content, but it is deployed to the website the same as Drupal content. So basically, OPIA (Josh) would edit the HP banner in vagov-content, open a PR that a dev would approve + merge, then we would just ask someone to kick off a content deployment via Drupal.
 
 __2. Sitewide system maintenance downtime banner__ 
 
