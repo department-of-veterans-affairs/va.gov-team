@@ -4,8 +4,7 @@ Below is the CMS team's current thinking and plan for unblocking VAMC rollouts a
 **Baseline Agreements**
  - Transformer solution has required a significantly higher investment than planned, and will continue to require significant investment for ongoing maintenance per product 
  - The graphQL multi-query upgrade that went to production Monday, 2/15 is proving to have more than halved build/deploy time such that currently we can safely have content deployments 1x/hour today 
- - We should therefore **stop** all transformer work and instead focus on a roadmap to continually improve the existing build/deploy process and graphQL multi-query 
- - CMS team's contribution to the content build/deploy is only 1 step of 29 total, yet this step needs to be tested for scalability. The below plan tries to show how our part plays into the broader process.
+ - We should therefore **stop** all transformer work and instead focus on a roadmap to continually improve the existing build/deploy process, including graphQL multi-query and infrastructure
 
 **Content build/deploy performance and scaling roadmap**
 ***Current Sprint (CMS 26, FE Tools 46)***
