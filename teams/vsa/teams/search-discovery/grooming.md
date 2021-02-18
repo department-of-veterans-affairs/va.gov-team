@@ -4,9 +4,9 @@
 ***DISCUSSION TOPICS:*** 
 
  - [ ] Review "Needs Grooming" issues
- - [ ]  Discuss Spelling Enhancement (if implementation changes, what #19190
- - [ ] Review Initiative Next Steps
- - [ ]  Expand VA Acronym Clarity Requirements  #19371
+ - [ ]  Discuss Spelling Enhancement (if implementatiing changes: what's next; if not: what changes) #19190
+ - [ ] Review Initiative Next Steps as described below
+ - [ ] Expand VA Acronym Clarity Requirements  #19371
 
 
  ***INITIATIVE STATUS***
