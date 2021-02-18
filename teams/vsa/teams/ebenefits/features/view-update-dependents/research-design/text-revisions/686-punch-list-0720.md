@@ -96,11 +96,12 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Report divorce section
 
-- [ ] **HP!** Change chapter title to "Information needed to remove a divorced spouse"
+- [x] **HP!** Change chapter title to "Information needed to remove a divorced spouse"
 
 ### Child marriage section
 
 - [ ] **HP!** Change chapter title to "Information to remove a child under 18 who has married"
+> This is part of the form system
 - [ ] Address large gap above header, "Child who is now married"
 
 ### Student left school section
