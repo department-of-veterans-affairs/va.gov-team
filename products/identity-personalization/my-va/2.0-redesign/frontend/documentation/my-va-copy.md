@@ -45,7 +45,7 @@ You have no applications in progress
 
 ## A user who has everything
 
-[Every thing InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/444258310_My_VA_Desktop)
+[Everything InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/444258310_My_VA_Desktop)
 
 Your disability rating: 40% service connected 
 
