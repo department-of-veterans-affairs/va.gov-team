@@ -77,7 +77,7 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 ### Add student section (674)
 
 > We decided to do this one below the yes/no question instead of below
-- [ ] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section 
+- [x] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section 
 > This is part of the form system
 - [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
 - [x] Change label for "Course of study or educational program" to: "Subject or educational/training program"
