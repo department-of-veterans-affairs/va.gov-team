@@ -94,6 +94,12 @@ Continue your application
 
 VA benefits you might be interested in
 
+### Education benefits
+VA education benefits help Veterans, service members, and their qualified family members with needs like finding the right school or training program and paying tuition.
+ 
+{CTA button} 
+Apply for education benefits
+
 What benefits does VA offer?
 
 
