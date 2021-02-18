@@ -19,7 +19,9 @@ Welcome to My VA, your personalized guide to the VA benefits and services you’
 You can also get information about how to apply for and manage other VA benefits you may be eligible for.
 
 Go to your profile
+
 Apply for VA benefits
+
 VA benefits you might be interested in
 
 ### Health care
@@ -63,9 +65,9 @@ Go to your profile
  
 ### Health care section
 
-Messages
-Appointments
-Prescriptions
+- Messages
+- Appointments
+- Prescriptions
  
  
 Links under health care cards:
@@ -76,15 +78,18 @@ Links under health care cards:
 
 - 3 prescription updates.
  
-Manage your health care benefits 
+### Manage your health care benefits 
  
 Links:
+
 Get your lab and test results
+
 Get your VA medical record
  
 ### Apply for VA benefits
  
 Applications in progress
+
 You have no applications in progress
  
 {CTA button} 
