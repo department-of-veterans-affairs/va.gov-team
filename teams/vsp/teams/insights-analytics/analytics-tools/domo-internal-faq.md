@@ -45,5 +45,4 @@ UNION ALL
 --- the rest of your query
 ```
 
-One example of this is [BQ - Caregivers Events by Day 
-](https://va-gov.domo.com/datasources/0ba2721f-f3e9-4046-915b-beb64003dbee/details/overview).
+One example of this is [BQ - Caregivers Events by Day](https://va-gov.domo.com/datasources/0ba2721f-f3e9-4046-915b-beb64003dbee/details/overview).
