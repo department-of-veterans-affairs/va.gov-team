@@ -103,9 +103,9 @@ _[Contact Center Team Roadmap](https://github.com/department-of-veterans-affairs
 *   DSVA Product Lead: _Chante Lantos-Swett_
 *   Team Product Manager: _Jason Woodman_
 *   Team Lead: _Kimberley Monroe-Daniels_
-*   UX Research/Design:_ Ian McCullough_
-*   Sr. Help Desk Analyst:_ Ervin Pearson_
-*   Content Specialist/Tech Writer:_ Steven Tarlow _
+*   UX Research/Design: _Ian McCullough_
+*   Sr. Help Desk Analyst: _Ervin Pearson_
+*   Content Specialist/Tech Writer: _Steven Tarlow_
 
 ---
 
