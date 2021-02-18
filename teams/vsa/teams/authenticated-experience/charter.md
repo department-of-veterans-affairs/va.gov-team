@@ -35,11 +35,10 @@ To move us towards this vision, our current mission is to create a logged in exp
 
 ### Product Portfolio
 
-* Logged-in homepage redesign (Dashboard 2.0)
-*	My VA (until it's retired for the logged-in homepage)
+* MyVA Dashboard 2.0
 * Combining profile and account (Profile 2.0)
 * Logged-in navigation
-* Personalized content for logged in users
+* Personalized content for logged in users (Profile)
 
 ### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
