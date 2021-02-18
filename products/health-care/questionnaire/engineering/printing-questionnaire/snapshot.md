@@ -44,8 +44,11 @@ On the front end, once the data is received, then a `download link` will be show
 
 ## Outstanding Questions
 
-- (Stephen) Is this okay from a legal perspective?
-- What is the time table for document storage to be ready?
+> Is this compliant?
+Yes, there is already president with other applications. And since this is a temporary solution, we are fine.
+
+> What is the time table for document storage to be ready?
+This is not on the other teams road map, but is a thing that they want to do "at some point".
 
 ## Tech Architecture - v2
 
