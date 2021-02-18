@@ -134,6 +134,6 @@ Our records show you’re registered at one or more facilities that now use our 
 
 To view all of your information, you may need to sign into My VA Health. To open the portal, you may need to disable your browser’s pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in on VA.gov.
 
-{CTA button} [Go to My VA Health]
+{CTA button} Go to My VA Health
 
 
