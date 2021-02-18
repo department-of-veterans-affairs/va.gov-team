@@ -9,6 +9,7 @@ This one-time process takes about 5-10 minutes.
 [Verify your identity]
 
 
+
 ## First Time User
 
 [FTUX InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287788_My_VA_FTUX)
@@ -45,6 +46,7 @@ Apply for education benefits
 Applications in progress
 
 You have no applications in progress
+
 
 
 ## A user who has everything
