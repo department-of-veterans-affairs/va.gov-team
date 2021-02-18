@@ -96,7 +96,7 @@ Continue your application
 VA benefits you might be interested in
 
 
-## MyVA LOA3 user who has everything but has no updates
+## LOA3 user who has everything but has no updates
 
 [LOA3 InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287787_My_VA_No_Updates)
 
