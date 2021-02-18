@@ -25,16 +25,21 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
-3 with Power of Attorneys
+3 with Power of Attorneys for ineligible participants (from the two buckets below) 
+- This data comes from LTS 
+- Is there a way that Veterans can validate that the POA is recorded within LTS? We don't know of this being displayed anywhere on VA.gov other than within their medical claims. **(Ask about this in Platform slack)**
+- The recruiting team would need to verify with the Veteran that they do have  POA on file with the VA. 
+- Is the EDU POA the same as a medical POA? All the same?
 
-3 Ineligible due to program type
+4 Ineligible due to program type
 - You must have one of these free accounts:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
-- Have applied for Post-9/11 GI Bill Benefits
-- Received a decision from the VA on your application
+- Have applied for Post-9/11 GI Bill Benefits - verify this is needed; we could leave this off
+- Received a decision from the VA on your application  - verify this is needed; we could leave this off
 - Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math.
+- Add question about teaching cert
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
@@ -42,7 +47,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - Do you have a Power of Attorney?
 
 
-3 Ineligible due to remaining entitlement
+4 Ineligible due to remaining entitlement
 - You must have one of these free accounts:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
@@ -50,6 +55,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - Have applied for Post-9/11 GI Bill Benefits
 - Received a decision from the VA on your application
 - Currently enrolled in a higher education program that IS in the field of Science, Technology, Engineering, or Math.
+- Add question about teaching cert
 - More than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
