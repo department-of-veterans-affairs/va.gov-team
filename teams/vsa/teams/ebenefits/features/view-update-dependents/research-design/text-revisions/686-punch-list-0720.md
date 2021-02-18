@@ -76,11 +76,13 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Add student section (674)
 
-- [ ] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section
+> We decided to do this one below the yes/no question instead of below
+- [ ] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section 
+> This is part of the form system
 - [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
 - [x] Change label for "Course of study or educational program" to: "Subject or educational/training program"
 - [x] Change label for "Number of classes a week" to: "Number of session a week"
-- [ ] Change text field to dropdown for shool type
+- [x] Change text field to dropdown for shool type
 
 ### Remove stepchild section
 
@@ -88,7 +90,8 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 
 ### Dependent death section
 
-- [ ] **HP!** Change chapter title to "Information needed to remove a dependent who has died"
+- [x] **HP!** Change chapter title to "Information needed to remove a dependent who has died"
+> This is part of the form system
 - [ ] Address large gap above header, "Dependent who is deceased"
 
 ### Report divorce section
