@@ -100,5 +100,16 @@ VA benefits you might be interested in
 
 [LOA3 InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287787_My_VA_No_Updates)
 
+### Health care section
+
+#### Messages
+You have no new messages from your health care team.
+
+#### Appointments
+You have no appointments scheduled in the next 30 days.
+
+#### Prescriptions
+You have no prescription refills or updates in progress.
+
 
 
