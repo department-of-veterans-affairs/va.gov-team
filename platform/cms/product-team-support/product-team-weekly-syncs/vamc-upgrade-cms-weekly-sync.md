@@ -21,6 +21,9 @@
 
 </details>
 
+## Friday Feb 19 10:30am ET
+
+- How to manage user confusion during VAMC roll out (who to reach out to for what, publishing when they shouldn't)
 
 ## Friday Feb 12 10:30am ET
 
