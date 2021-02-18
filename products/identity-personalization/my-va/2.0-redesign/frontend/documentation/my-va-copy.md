@@ -40,5 +40,6 @@ Apply for education benefits
 
 
 Applications in progress
+
 You have no applications in progress
 
