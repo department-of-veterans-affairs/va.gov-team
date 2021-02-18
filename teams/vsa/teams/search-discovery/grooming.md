@@ -4,9 +4,9 @@
 ***DISCUSSION TOPICS:*** 
 
  - [ ] Review "Needs Grooming" issues
- - [ ]  Discuss Spelling Enhancement (if implementatiing changes: what's next; if not: what changes) #19190
- - [ ] Review Initiative Next Steps as described below
- - [ ] Expand VA Acronym Clarity Requirements  #19371
+ - [ ]  Discuss Spelling Enhancement (if implementation changes, what #19190
+ - [ ] Review Initiative Next Steps
+ - [ ]  Expand VA Acronym Clarity Requirements  #19371
 
 
  ***INITIATIVE STATUS***
@@ -18,11 +18,13 @@
 |Typeahead 1.0             |ordering suggestions + Styling improvements > extend to 100% of users |
 |Spelling Enhancement             |At Risk: Awaiting discussion with search.gov to validate implementation |
 |Acronym Clarity             |Create DB Reader Tool > connect reader to search suggestions|
+|Results Page Redesign| Informed by UX Discovery Outcomes> Need Qs answered from VA Stakeholders + search.gov
 
 
  ***NEXT STEPS/ACTIONS:***
- - TBD
-
+ - Create an exploration issue for right rail - Public Websites Team about what controls and requirements we have regarding the right rail 
+ - Reach out to Jen Lee to learn more about VA 's approach (John)
+ - Collect analytics for # of clicks on right rail links (Denise)
 
 ## February 4, 2021
 
