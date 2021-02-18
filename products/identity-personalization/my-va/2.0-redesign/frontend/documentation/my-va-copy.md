@@ -58,9 +58,7 @@ Go to your profile
 ### Claims and appeals
 
 - Disability compensation claim received [date]
-
 - Education benefits claim received [date]
-
 - Health care benefits claim received [date]
  
 ### Health care section
@@ -73,10 +71,8 @@ Go to your profile
 Links under health care cards:
 
 - 2 unread messages.
-
 - 6 upcoming appointments.
-
-- 3 prescription updates.
+- 3 prescription refills.
  
 ### Manage your health care benefits 
  
