@@ -11,7 +11,7 @@ Asynchronous review. If VSP Analytics & Insights has any clarifying questions, w
 Begin setup of Google Analytics so we can understand how Veterans are using VA.gov.
 
 ## How do I request this touchpoint?
-VFS Product Manager submits an [Analytics Implementation and QA Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/analytics-implementation-and-qa-request-template.md) ticket.
+VFS Product Manager submits an [Analytics Implementation and QA Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review%2C+gtm&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) ticket.
 
 ## Who attends this touchpoint?
 - VFS brings:
