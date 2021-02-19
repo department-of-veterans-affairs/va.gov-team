@@ -53,6 +53,7 @@ There are differing requirements for getting a VA loan depending on the nature o
 - Submit statement of service signed by commander, adjutant, or personnel officer
 
 **National Guard or Reserve member**
+
 Depending on service details, there are various requirements. 
 - 6 years of service in the Reserves or National Guard
 - Submit NGB Form 22 (Report of Separation and Record of Service)
@@ -61,6 +62,7 @@ Depending on service details, there are various requirements.
 - Submit proof of character of service
 
 **Surviving spouse**
+
 Surviving spouses may also be eligible for a COE and VA home loans. [Details of eligibility are here.](https://www.va.gov/housing-assistance/home-loans/surviving-spouse/)
 
 #### Use cases
