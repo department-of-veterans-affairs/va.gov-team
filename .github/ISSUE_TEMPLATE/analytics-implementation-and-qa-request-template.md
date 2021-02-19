@@ -96,4 +96,4 @@ An example of a completed request template can be found [here](https://github.co
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1710283887) is updated
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
