@@ -181,7 +181,7 @@ Total = 41
 
 </details>
  
-<details><summary>Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
+<details><summary>✔ Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
 
 ## Chapter 36 (Launched January 4, 2020)
 
@@ -231,7 +231,7 @@ Total = 24
 
 </details>
 
-<details><summary>View my VA payment history (Launched 100% January 8, 2020)</summary> 
+<details><summary>✔ View my VA payment history (Launched 100% January 8, 2020)</summary> 
 
 ## View my VA payment history (Launched 100% January 8, 2020)
 ### Product
