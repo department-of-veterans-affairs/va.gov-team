@@ -31,16 +31,16 @@ When you’re ready to schedule your recommended touchpoints, review the guideli
 
 Guidance for each touchpoint:
    
-- [Design Intent](link to be added)
-- [Information Architecture (IA) Request](link to be added)
-- [Research Plan Review](link to be added)
-- [Analytics Request](link to be added)
-- [Midpoint Review](link to be added)
-- [Contact Center Review](link to be added)
-- [Staging Review](link to be added)
+- [Design Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
+- [Information Architecture (IA) Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
+- [Research Plan Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-research-plan-review.md)
+- [Analytics Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md)
+- [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
+- [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
 - [Privacy & Security Review](link to be added)
-- [Full Accessibility and 508 Office Audit](link to be added)
-- [Post-launch Check-in](link to be added)
+- [Full Accessibility and 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-accessibility-audit.md)
+- [Post-launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-post-launch.md)
 
 ## Resources
 
@@ -99,10 +99,10 @@ This is VSP's source of truth for which Collaboration Cycle touchpoints are reco
 * [Platform Contact Center Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/contact-center)
 
 ## Contact Us
-- First time working with us? Review the guidance in [Getting started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md#questions-about-your-product). If you’re able to answer all the questions, then submit a Github Collaboration Cycle Kickoff ticket to find out which touchpoints we recommend for your product
+- First time working with us? Review the guidance in [Getting started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md#questions-about-your-product). If you’re able to answer all the questions, then submit a Github [Collaboration Cycle Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D) ticket to find out which touchpoints we recommend for your product
 - Ready to schedule a touchpoint? Follow the guidance for each touchpoint under [VSP Collaboration Cycle Touchpoints](#3-prepare-for-and-schedule-your-touchpoints)
 - Have a question about one of our practice areas? Come to our weekly Collaboration Cycle Office Hours listed in the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York)
 - Need immediate assistance? Reach out to @vsp-product-support-members on the [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel
 
 ## Change History
-- [February 2021 Release](link to be added)
+- [February 2021 Release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/change-documentation/collab-cycle-update-02-2021.md)
