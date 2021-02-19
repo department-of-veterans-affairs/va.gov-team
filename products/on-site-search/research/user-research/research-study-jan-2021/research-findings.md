@@ -8,11 +8,11 @@ Prepared by: Megan Gayle, Search & Discovery
 
 The goal of this research was to understand users expectations for search, including the following:
 
-- how users find information outside of VA.gov
-- when users utilize VA.gov search
-- pain points related to search
-- do users utilize 'more VA search tools' and other search utilities 
-- what advanced features users expect and utilize from search
+- How users find information outside of VA.gov
+- When users utilize VA.gov search
+- Pain points related to search
+- Do users utilize "more VA search tools" and other search utilities 
+- What advanced features users expect and utilize from search
 
 ## Research Methodology 
 
@@ -23,19 +23,26 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
 
 - 9 Veterans 
 - 1 Service Member
-  - Geography
+  - Geography:
     - 7 rural
     - 3 urban
-  - Education
+  - Education:
     - 5 with High School or GED
   - Ages varied 25-74 years of age (exact data unknown)
-  - 6 participants with identified cognitive impairments and/or functional disabilities
+  - 6+ participants with identified cognitive impairments and/or functional disabilities (4 identified on screener, 2+ shared during session)
   - 8 men, 2 women
-  - 4 non-white participants
+  - Ethnicity:
+    - 4 White participants
+    - 2 Black participants
+    - 1 Asian participant
+    - 1 Hispanic participant
+    - 1 Asian/White participant
+    - 1 American Indian or Alaska Native/White participant
+
   
 ### Technology
 - 5 on Desktop
-- 5 on Mobile
+- 4 on Mobile
 - 1 on Tablet
 
 ### Benefit Hubs
@@ -56,26 +63,26 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
     - scanning behavior (can we improve hierarchy/design?)
     - best bets "Top Recommendations"
     - advanced search features (typeahead/filters)
-- Do people utilize or see “More VA search tools”?
+- Do users see or utilize the “More VA search tools” right rail?
 
 ## Key Findings
 
-1. Most began their journey in looking for information on eBenefits and VA.gov.
+1. When asked about their past experience looking for infomation, most began their journey on eBenefits and VA.gov.
 2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.
 3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms. 
-4. Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.
+4. Advanced search features: Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.
 5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Participants were more likely to see Find a Facility than Find a Form because of its location on the header.
 
 ## Details of Findings
 
-**1. Most began their journey in looking for information on eBenefits and VA.gov.** Most participants mentioned looking on eBenefits and VA.gov and a few expressed frustration over having to switch between the two sites. Other sites mentioned were: Google, Blogs, Reddit, Facebook Groups. A current service member mentioned asking other military members about benefits available to him. A few veterans mentioned calling the VA. 
+**1. When asked about their past experience looking for infomation, most began their journey on eBenefits and VA.gov** Most participants mentioned looking on eBenefits and VA.gov and a few expressed frustration over having to switch between the two sites. Other sites mentioned were: Google, Blogs, Reddit, Facebook Groups. A current service member mentioned asking other military members about benefits available to him. A few veterans mentioned calling the VA. 
 
 **2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.** When asked to look for more information related to a benefit they were receiving, most participants either went to the dropdown navigation or scanned the links on the homepage. When specifically asked to use the search feature, most were able to find it. Some participants were pointed directly to it in the interest of time. 
 
-**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms.** When asked how far they typically look through search results most stated that they would not look past the first page and usually only the first few results. Most seemed to focus on the titles of the search result links and ignored the descriptions. This highlights the need to ensure that we have relevant links appearing on top of the search results. If a participant did not type a form exactly as it appears on the title, both global search and Find a Form would fail to provide a direct link to the form.
+**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms.** When asked how far they typically look through search results most stated that they would not look past the first page and usually only the first few results. Most seemed to focus on the titles of the search result links and ignored the descriptions. This highlights the need to ensure that we have relevant links appearing on top of the search results. If a participant did not type a form exactly as it appears on the title, both global search and Find a Form would fail to provide a direct link to the form. If a Best Bet / "Top Recommendation was shown, there was a higher chance of the user finding the information they needed.
 
-**4. Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.** 
-Most participants did not click on a typeahead suggestion. This is counter to the data that currently shows that 2/3rds of users who are shown a typeahead suggestion are clicking on them. 6 participants said they would prefer filters, many stated they would prefer category filters. One participant stated she would want to filter by 'new applicant'. One participant wanted to add another search term within their initial search.
+**4. Advanced search features: Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.** 
+Most participants did not click on a typeahead suggestion: 5 did not click on a typeahead suggestion, 3 clicked on a typeahead suggestion at least once, and 2 were not shown a typeahead sugggestion at least once. 6 participants said they would prefer filters, many stated they would prefer category filters. One participant stated she would want to filter by 'new applicant'. One participant wanted to add another search term within their initial search.
 
 **5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Participants were more likely to see Find a Facility than Find a Form because of its location on the header.** The right rail did not show even on most desktops because of how the media queries were set up. Participants usually used global search to look for a form as they did not see the Find a Form link. 
 
@@ -95,11 +102,12 @@ Most participants did not click on a typeahead suggestion. This is counter to th
 ## Recommendations
 - Include Caregivers, Family Members, and more Veterans who have been out of the military for 10+ years to find further pain points related to "military jargon".
 - Investigate adding more information to acronyms in typeahead.
-- Increase hierarchy on search results page, emphasise link titles.
+- Increase visual hierarchy on search results page, emphasize link titles.
 - Update search results page based on style guide to improve legibility and consistency.
-- 
 - Improve search result descriptions to be more succinct and helpful. Talk to search.gov about metadata descriptions.
-- Improve "More VA.gov Search Tools" section. Audit links and text. Remove right rail and place links elsewhere to ensure that users on all browser widths can see links. 
+- Improve "More VA.gov Search Tools" section. 
+  - Remove right rail and place links elsewhere to ensure that users on all browser widths can see links. 
+  - Audit links and text. Additional search tools such as Resources & Support have been created.
 - QA search features (global search, Find a Form, Find a Facility) on iOS to ensure the loading bug was only on staging.
 
 
@@ -108,13 +116,14 @@ Most participants did not click on a typeahead suggestion. This is counter to th
 ### Update search results page
 - Implement design recommendations 
   - Make improvements to "More VA Search tools" right rail
+- Work with Search.gov to improve metadata descriptions
 - Look into ways of increasing relevancy on search results
   - Increase Best Bets ("Top Recommendation") usage
-  - Work with Search.gov to help improve relevancy
-- Work with Search.gov to improve metadata descriptions
+  - Work with Search.gov to help improve indexing and relevancy
 
 ### Look further into when users reach a point where they call for help
-- Get a better understanding of how/when Veterans and Caregivers reach out for help outside of finding information on VA.gov. 
+- Get a better understanding of how/when Veterans and Caregivers reach out for help outside of finding information on VA.gov. This is where we can focus on adding Best Bets to increase search results relevancy.
+- Look into adding a step between search and a phone call to answer users' questions. (Link to a chatbot?)
 
 ## Appendix
 ### Conversation guide
