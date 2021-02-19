@@ -2,13 +2,31 @@
 
 **Updated February 2021**
 
-## Projected timelines for current projects
+## Current projects & enhancements
+
+|Project|Status|
+|----|----|
+|[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Pre-launch VSP reviews |
+|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Backend implementation complete; On hold until we have an available designer |
+| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Backend implementation |
+
+### Projected timelines for current projects & enhancements
 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|----|
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | On hold due to resourcing | Design; testing; FE build; QA | Pre-launch; launch | — |
 |**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | ? |
+
+## Completed projects & enhancements
+
+|Project or enhancement|Status|
+|----|----|
+|[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launch completed October 2020|
+|[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020||
+|[Direct deposit for comp & pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
+|[VA Profile (formerly Vet360) initial integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1) | Launch completed Summer 2018 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 ## Potential future projects & feature requests from other teams
 
