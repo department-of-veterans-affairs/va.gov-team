@@ -81,11 +81,31 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 
 #### eBenefits feature flow
 
+<details>
+  <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
+  
+  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+</details>
+
 #### Proposed VA.gov feature flow
+
+<details>
+  <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
+  
+  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+</details>
 
 #### Suggested IA placement
 
+<details>
+  <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
+  
+  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+</details>
+
 #### Potential improvements
+
+[TBD]
 
 ## Next steps
 
