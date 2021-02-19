@@ -3,7 +3,7 @@
 Jonathan Nelson (jonathan.nelson@adhocteam.us), 1/4/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/research-plan.md).
-- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/Primary%20Caregiver_Secondary%20Caregiver%20Flows%20Research%20Findings%20(1).pdf)
+[Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/Primary%20Caregiver_Secondary%20Caregiver%20Flows%20Research%20Findings%20(1).pdf)
 
 ## Research Goals 
 
