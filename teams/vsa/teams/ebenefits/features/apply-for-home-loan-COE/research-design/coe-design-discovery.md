@@ -21,11 +21,17 @@ Veterans, service members and surviving spouses need an easy, accessible way of 
 - Give users multiple paths for follow-up
 - Generate a COE automatically for users who immediately meet all requirements
 
-### Business cases
+<!-- ### Business cases -->
 
 ### Business processes
 
 Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system. 
+
+<details>
+  <summary><strong>Current COE business process</strong> (Click to show diagram)</summary>
+  
+  ![How to request a Certificate of Eligibility (COE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Process_Diagram_1.png)
+</details>
 
 #### VA Form 26-1880
 
