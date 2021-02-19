@@ -8,21 +8,18 @@
 |----|----|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | User testing; FE build |
 
-
-## Completed projects
-
-|Project|Status|
-|----|----|
-|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
-
-## Roadmap
-
 ### Projected timelines for current projects
 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|----|
 |**My VA redesign**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements | — |
+
+## Completed projects
+
+|Project|Status|
+|----|----|
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 ## Potential future projects & feature requests from other teams
 
