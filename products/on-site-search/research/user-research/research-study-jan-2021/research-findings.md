@@ -79,7 +79,7 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
 
 **2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.** When asked to look for more information related to a benefit they were receiving, most participants either went to the dropdown navigation or scanned the links on the homepage. When specifically asked to use the search feature, most were able to find it. Some participants were pointed directly to it in the interest of time. 
 
-**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms.** When asked how far they typically look through search results most stated that they would not look past the first page and usually only the first few results. Most seemed to focus on the titles of the search result links and ignored the descriptions. This highlights the need to ensure that we have relevant links appearing on top of the search results. If a participant did not type a form exactly as it appears on the title, both global search and Find a Form would fail to provide a direct link to the form. If a Best Bet / "Top Recommendation was shown, there was a higher chance of the user finding the information they needed.
+**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms.** When asked how far they typically look through search results most stated that they would not look past the first page and usually only the first few results. Most seemed to focus on the titles of the search result links and ignored the descriptions. This highlights the need to ensure that we have relevant links appearing on top of the search results. If a participant did not type a form exactly as it appears on the title, both global search and Find a Form would fail to provide a direct link to the form. If a Best Bet / "Top Recommendation" was shown, there was a higher chance of the user finding the information they needed.
 
 **4. Advanced search features: Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.** 
 Most participants did not click on a typeahead suggestion: 5 did not click on a typeahead suggestion, 3 clicked on a typeahead suggestion at least once, and 2 were not shown a typeahead sugggestion at least once. 6 participants said they would prefer filters, many stated they would prefer category filters. One participant stated she would want to filter by 'new applicant'. One participant wanted to add another search term within their initial search.
@@ -123,7 +123,7 @@ Most participants did not click on a typeahead suggestion: 5 did not click on a 
 
 ### Look further into when users reach a point where they call for help
 - Get a better understanding of how/when Veterans and Caregivers reach out for help outside of finding information on VA.gov. This is where we can focus on adding Best Bets to increase search results relevancy.
-- Look into adding a step between search and a phone call to answer users' questions. (Link to a chatbot?)
+- Look into adding a step between search and a phone call to answer users' questions. 
 
 ## Appendix
 ### Conversation guide
