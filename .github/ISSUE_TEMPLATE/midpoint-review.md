@@ -31,7 +31,7 @@ assignees: andreahewitt-odd, shiragoodman
 - DEPO product lead (recommended): name
 - Anyone else from your team who significantly contributed to the artifacts provided (required): names
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
-- 
+
 ## Scheduling
 Would you like this review to be asynchronous? Please refer to the Midpoint Review guidance for the difference between a synchronous meeting and an asynchronous review. 
 [ ] Yes
