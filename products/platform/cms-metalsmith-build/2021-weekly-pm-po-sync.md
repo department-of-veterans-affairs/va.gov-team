@@ -36,6 +36,7 @@
 ### Action Items 
 * Continue to refine node count estimates as more info is available from VAMC & other content editing teams (Oksana & Mike take point)
 * CMS & VSP teams move forward work on optimizing GraphQL build times & hourly content release
+* VFS teams stop working towards CMS Export <> GraphQL parity if they haven't already
 * Continue conversation with this group next Friday 3/26
 
 ## 2-12-21
