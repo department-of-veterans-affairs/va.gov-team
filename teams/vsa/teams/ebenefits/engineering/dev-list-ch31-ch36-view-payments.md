@@ -44,7 +44,7 @@ Ascertain remaining tasks for these features
 
 </details>
 
-
+<details><summary>Appoint my VA Representative (with Search inline with form)</summary>
 
 ## Appoint my VA Representative (with Search inline with form)
 ### Product
@@ -94,6 +94,8 @@ Ascertain remaining tasks for these features
 - 🌀 Staging Review (1)  
 - 🌀 Privacy and Security Audit (2) 
 - 🌀 UAT (2)
+
+</details>
 
 ## Search for a VA Representative
 ### Product
