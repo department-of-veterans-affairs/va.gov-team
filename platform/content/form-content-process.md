@@ -47,8 +47,8 @@ Content editor begins to create an outline in Github for the form or tool, with 
 - What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
 [See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
-- Create content that will go on the form Introduction (subway map) page
-- Create content that will go on the form Confirmation page
+- Discuss what content should go on the form Introduction (subway map) page
+- Discuss what content should go on the form Confirmation page
 
 **CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
@@ -66,13 +66,13 @@ Discuss if any specific error messaging need to be written for the form/tool or 
 
 -----
 
-**CONTENT EDITOR** does a plain-language and VA.gov voice/tone edit on the form/tool outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
+**CONTENT EDITOR** does a plain-language and VA.gov voice/tone edit on the Github outline. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
 
 **CONTENT EDITOR** begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
 [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
 [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
-**PRODUCT TEAM PM** schedules a Collaboration Cycle Pre-usability review with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Pre-usability Review with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
 
 
 ## Usability testing
@@ -98,7 +98,7 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 -----
 
-Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build out the online application in code.  
+Once usability sessions are complete, any content updates from the usability session should be input into the Github outline. Developers will use this outline to build out the application/tool in code.  
 
 1. As chapters are built, developer should assign **CONTENT WRITER or EDITOR** as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
@@ -125,7 +125,7 @@ This proofread pass is to ensure all edits made in the individual chapter screen
 Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input.
 
 
-**PRODUCT TEAM PM** schedules a Collaboration Cycle Staging review with the VSP Platform team before form or tool launches.
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Staging Review with the VSP Platform team before form or tool launches.
 
 
 
