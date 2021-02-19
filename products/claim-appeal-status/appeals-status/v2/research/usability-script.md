@@ -10,7 +10,7 @@
 - Identify where it in during the process where a Veteran would call their rep and when they wouldn't. 
 
 ## Test Links
-- Test accounts - ID: vets.gov.user+226@gmail.com | password: Zm9ydHkgdHdv
+- Test accounts - ID: vets.gov.user+226@gmail.com | password: [check the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - [Pending Form 9](https://staging.vets.gov/track-claims/appeals-v2/7387389/status)
 - [On docket](https://staging.vets.gov/track-claims/appeals-v2/7387390/status)
 - [Decision](https://staging.vets.gov/track-claims/appeals-v2/7387391/status)

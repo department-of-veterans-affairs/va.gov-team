@@ -62,21 +62,22 @@ https://csra-evss.atlassian.net/wiki/display/ST/WSS+CI+Dev+Env+-+AWS#WSSCIDevEnv
 
 ## Test Users
 
+- Passwords for test users are kept in the va.gov-team-sensitive repo and [can be looked up here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 ### CI
 
-| First Name | Last Name | Middle Name | Gender | DOB | $$N | Email | PW |
-|---|---|---|---|---|---|---|---|
-| Gary | Todd | | M | 11/12/1955 | 796066621 | vets.gov.user+277@gmail.com | Zm9ydHkgdHdv |
-| Jean | Picard | | M | 10/01/1977 | 301010301 | vets.gov.user+278@gmail.com | Zm9ydHkgdHdv |
-| Srikanth | Vanapalli | | M | 11/12/1955 | 796066620 | vets.gov.user+279@gmail.com | Zm9ydHkgdHdv |
+| First Name | Last Name | Middle Name | Gender | DOB | $$N | Email |
+|---|---|---|---|---|---|---|
+| Gary | Todd | | M | 11/12/1955 | 796066621 | vets.gov.user+277@gmail.com |
+| Jean | Picard | | M | 10/01/1977 | 301010301 | vets.gov.user+278@gmail.com |
+| Srikanth | Vanapalli | | M | 11/12/1955 | 796066620 | vets.gov.user+279@gmail.com |
 
 ### INT
 
-| First Name | Last Name | Middle Name | Gender | DOB | $$N | Scenario | Email | PW |
-|---|---|---|---|---|---|---|---|---|
-| Greg | Anderson | A | M | 4/5/1933 | 796121200 | Veteran with all letters | vets.gov.user+1@gmail.com | Zm9ydHkgdHdv |
-| Jerry | Brooks | M | M | 9/25/1947 | 796148937 | Veteran with all  letters | vets.gov.user+271@gmail.com  | Zm9ydHkgdHdv |
-| Note: doesn't work; Olga | Fuller | Lee | F | 5/18/1984 | 796140261 | Veteran with totally and permanently disabled status due solely to service-connected disabilities | vets.gov.user+272@gmail.com | Zm9ydHkgdHdv |
-| Vicki | Schmidt | | F | 12/24/1923 | 796164121 | Dependent - all eligible letters | vets.gov.user+273@gmail.com | Zm9ydHkgdHdv |
-| Kathy | Rogers | | F | 7/26/1986 | 796086306 | CORP: Y | BIRLS: N = No letters | vets.gov.user+274@gmail.com | Zm9ydHkgdHdv |
-| Arthur | Thomas | Lee | Unknown | 2/22/1957 | 796330157 | CORP: N | BIRLS: N = No letters | vets.gov.user+275@gmail.com | Zm9ydHkgdHdv |
+| First Name | Last Name | Middle Name | Gender | DOB | $$N | Scenario | Email |
+|---|---|---|---|---|---|---|---|
+| Greg | Anderson | A | M | 4/5/1933 | 796121200 | Veteran with all letters | vets.gov.user+1@gmail.com |
+| Jerry | Brooks | M | M | 9/25/1947 | 796148937 | Veteran with all  letters | vets.gov.user+271@gmail.com  |
+| Note: doesn't work; Olga | Fuller | Lee | F | 5/18/1984 | 796140261 | Veteran with totally and permanently disabled status due solely to service-connected disabilities | vets.gov.user+272@gmail.com |
+| Vicki | Schmidt | | F | 12/24/1923 | 796164121 | Dependent - all eligible letters | vets.gov.user+273@gmail.com |
+| Kathy | Rogers | | F | 7/26/1986 | 796086306 | CORP: Y BIRLS: N = No letters | vets.gov.user+274@gmail.com |
+| Arthur | Thomas | Lee | Unknown | 2/22/1957 | 796330157 | CORP: N BIRLS: N = No letters | vets.gov.user+275@gmail.com |

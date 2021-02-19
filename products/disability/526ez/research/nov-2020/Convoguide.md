@@ -176,7 +176,7 @@ vets.gov.user+228@gmail.com 
 
 Password:
 
-Zm9ydHkgdHdv
+[check the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ### Mural Flow Setup
 
