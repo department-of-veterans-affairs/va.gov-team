@@ -22,10 +22,10 @@
 | P08 | Thursday, Feb. 18 10:15 - 11:15 am ET | No | Veteran | Male | Black or African American | 25-34 |   | Army | DC | No | No | No | 80 | Major Metropolitan Area |
 | P09 | Thursday, Feb. 18 11:30 - 12:30 pm ET | No | Veteran | Male | White or Caucasian | 55-64 | Some college (no degree) | Air Force | PA | Yes | Yes | No | 0 | Rural or remote area |
 | P10 | Thursday, Feb. 18 3 - 4 pm ET | No | Veteran | Male | White or Caucasian | 55-64 | Master's degree | Marine Corps | CO | Yes | Yes | No | 50 | Rural or remote area |
-| [P11]() | Friday, Feb. 19 9 - 10 am ET | | Veteran | Male | Black or African American | 25-34 |   | Army | DC | Yes | Yes | Yes | 50 | Major Metropolitan Area |
-| [P12]() | Friday, Feb. 19 10:15 - 11:15 am ET | | Veteran | Female | White or Caucasian | 65-74 | Master's degree | Navy | MD | Yes | Yes | No | 30 | Rural or remote area |
+| [P11]() | Friday, Feb. 19 9 - 10 am ET | Yes | Veteran | Male | Black or African American | 25-34 |   | Army | DC | Yes | Yes | Yes | 50 | Major Metropolitan Area |
+| [P12]() | Friday, Feb. 19 10:15 - 11:15 am ET | Yes | Veteran | Female | White or Caucasian | 65-74 | Master's degree | Navy | MD | Yes | Yes | No | 30 | Rural or remote area |
 | P13 | Friday, Feb. 19 11:30 - 12:30 pm ET | No | Veteran | Male |   |   |   |   | OR | No | No | No | 100 | Rural or remote area |
-| [P14]() | Friday, Feb. 19 12:45 - 1:45 pm ET | | Veteran | Male | White or Caucasian | 35-44 | Some college (no degree) | Army | MS | No | No | No | 100 | Rural or remote area |
+| P14 | Friday, Feb. 19 12:45 - 1:45 pm ET | No | Veteran | Male | White or Caucasian | 35-44 | Some college (no degree) | Army | MS | No | No | No | 100 | Rural or remote area |
 | [P15]() | Friday, Feb. 19 2 - 3 pm ET | | Veteran | Female | White or Caucasian | 55-64 | Master's degree | Army | AZ | No | No | No | 10 | Rural or remote area |
 | [P16]() | Friday, Feb. 19 3:15 - 4:15 pm ET | | Veteran | Male | Prefer not to answer | 35-44 | Bachelor's degree | Navy | VA | No | No | No | 100 | Major Metropolitan Area |
 
