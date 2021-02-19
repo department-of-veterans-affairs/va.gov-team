@@ -114,7 +114,7 @@ Ascertain remaining tasks for these features
 
 </details>
  
- <details><summary>Chapter 31 (Deadline December 2020)</summary>
+ <details><summary>Chapter 31 (Deadline April 19, 2020)</summary>
 
 ## Chapter 31 (Deadline April 19, 2020)
 ### Product
