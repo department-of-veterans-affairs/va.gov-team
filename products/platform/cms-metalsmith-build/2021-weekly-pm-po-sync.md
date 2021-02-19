@@ -1,5 +1,43 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 2-19-21
+
+### Topics to Discuss 
+* GraphQL vs CMS Export 
+
+### Notes
+* Mike: Ticket to document decision https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165
+   * Short version: CMS Export is fine, it's not necessarily going to reach parity where we need it to be in a way that's going to support the business needs. Scaling GraphQL is going to be a more effective way to deliver that functionality in the short to medium term. 
+   * Looking at numbers from Facilities, VAMC, and node count targets, we believe that we can best meet that capacity using GraphQL approach due to improvements that have been made and benchmarking results that we've run and looking at known ways that we can scale 
+      * There is still uncertainty around CMS Export and reaching parity with transformers 
+   * That's the plan we're looking to move forward with to deliver this capability/capacity. Want to continue to coordinate regarding what those requirements are and flesh those out (node counts will be ranges, but we should continue to align as we learn more) 
+* Dave: so we're sticking with GQL in the short term. What is the impact that decision has on shortening the publishing times?
+   * Mike: This is all in service of scaling capacity and performance. The faster performance we have for any dataset of nodes, the faster that content can go out the door. I think what we're looking at is an initial hourly content only deploy, and FE tools has work that they're proceeding with to move forward with that. Simultaneously, CMS can work to fit more and more nodes into the given window. 
+      * From there we can start to look at ... we have number of nodes & how fast it goes. How do we continue (in GQL & build pipeline) increasing node capacity _while also_ improving the speed? 
+   * Other Dave Q: wiggle room. Part of the roadmap challenge is trying to determine capacity. We're going to be making bets about number of nodes, etc. Ex. tier 3 content we have _no idea_ how many nodes that will be. With anything we build in CMS it's not 1:1 page:node. So as we think about building new products, how much capacity wiggle room will we have? That will govern what we're actually able to deliver.
+      * Mike: these numbers are estimates and ranges. Also, build times are estimates — real world is rarely the best or worst case scenario. We are starting with "worst case" so we can guarantee _at least_ that capacity. We are fleshing out benchmarking and fleshing out real world capacity. 
+      * Ideally we want to get to a place where no one needs to count nodes. 
+      * Dave: we don't know what we don't know. until we remove the node restriction, we're going to have to understand that risk and take it from there. 
+* Dror: we are buying ourselves time by optimizing GQL. Realistically, I think the best long term solution is to do incremental builds. 
+   * Intuitively, incremental builds are the end game. We need to buy ourselves 6 months or so -- and while we have that runway, we can work on incremental builds.
+* Dave: so in the short term we're unblocked, but we still have a ceiling and we may run into issues with Tier 3 content or other. This buys us time but this is still a problem to be solved. Correct? 
+   * Mike: Scaling will never be actually truly unlimited — we may have a cushion that is an order of magnitude. There will always be more scaling work, there will be additional approaches & implementations.
+   * John: On Nick's approach, did we derive any value out of that experiment? 
+      * Mike: Nick's multiple GraphQL was very valuable! 
+* Michelle: Will publish time still be linear based on the number of nodes?
+   * That's what the benchmarks showed so far, want to keep confirming though
+* Dave: is the node count vs time a concrete trade off?
+   * Mike: maybe? we can make that trade off to a degree
+   * Dave: what if we need more nodes immediately.
+   * Michelle: We're communicating the technical limitations of the system - that is why the benchmarking is so important, regarding what the system can reasonably accomodate given the current constraints 
+   * Dror: we are far enough away that we have time to plan around this 
+   * Dave: we are working on node estimates. but on the product side we need to back that up with actual data. we also need to work through what nodes can be sunset -- for example, events. 
+
+### Action Items 
+* Continue to refine node count estimates as more info is available from VAMC & other content editing teams (Oksana & Mike take point)
+* CMS & VSP teams move forward work on optimizing GraphQL build times & hourly content release
+* Continue conversation with this group next Friday 3/26
+
 ## 2-12-21
 
 ### Topics to Discuss
