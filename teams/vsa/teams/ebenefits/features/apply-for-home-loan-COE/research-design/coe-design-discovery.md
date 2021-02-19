@@ -71,7 +71,7 @@ Depending on service details, there are various requirements.
 
 Surviving spouses may also be eligible for a COE and VA home loans. [Details of eligibility are here.](https://www.va.gov/housing-assistance/home-loans/surviving-spouse/)
 
-#### Use cases
+### Use cases
 There are several general use cases around Certificate of Eligibility:
 - Qualified user with no VA loan history wants to apply for COE
 - User (qualifications unknown) wants to apply for COE
@@ -81,9 +81,9 @@ There are several general use cases around Certificate of Eligibility:
 - User wants to review and download/print COE
 - User needs to update COE information
 
-#### User journey
+### User journey
 
-Applying for (and receiving) A COE is part of the process for getting a VA direct or VA-backed home loan.
+Applying for (and receiving) A COE is part of the process for getting a VA direct or VA-backed home loan. More detail to follow.
 
 ## Certificate of Eligibility feature
 
@@ -113,7 +113,16 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 
 #### Potential improvements
 
-[TBD]
+- Move feature to VA.gov will improve overall form experience, and connect form to current content 
+   - Outline of form process
+   - List of required documentation
+   - Confirmation screen with next steps
+   - Connection with My VA and Claim Status Tool
+- Target one-click COE authorization for qualified users
+- Require LOA3 sign-in for form access; pre-fill personal, contact and service info if possible
+- Connect to loan history service if possible
+- Consolidate form if/then logic to present only relevant info fields/selection
+- Provie inline document upload
 
 ## Next steps
 
