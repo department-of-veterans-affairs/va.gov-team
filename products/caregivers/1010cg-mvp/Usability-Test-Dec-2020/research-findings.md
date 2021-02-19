@@ -3,6 +3,7 @@
 Jonathan Nelson (jonathan.nelson@adhocteam.us), 1/4/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/research-plan.md).
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/Primary%20Caregiver_Secondary%20Caregiver%20Flows%20Research%20Findings%20(1).pdf)
 
 ## Research Goals 
 
@@ -126,5 +127,5 @@ Some participants found the two questions to be unnecessary. “Because it's a m
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/conversation-guide.md)
 - [Staging](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/)
-- [Research Findings Presentation PDF]()
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/Primary%20Caregiver_Secondary%20Caregiver%20Flows%20Research%20Findings%20(1).pdf)
 
