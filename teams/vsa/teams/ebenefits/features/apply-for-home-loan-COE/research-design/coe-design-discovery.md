@@ -6,7 +6,7 @@
 ---
 
 ## Problem
-A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). There are service-based requirements for obtaining VA loans, and a COE confirms for lenders that an applicant qualifies for the benefit. Specific requirements depend on service dates and details.
+A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). There are service-based requirements for obtaining VA loans, and a COE confirms for lenders that an applicant qualifies for this benefit. Specific requirements depend on service dates and details.
 
 Home loan applicants must apply for a COE to ensure they meet eligibility requirements.
 
@@ -32,7 +32,7 @@ Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users c
 The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf) as a fillable PDF. The form is a single page with an additional two pages of instructions and addresses. The form encourages users to apply electronically using eBenefits. The form has four sections:
 
 - Section 1 -- Applicant information
-- Section 1 -- Applicant's military service
+- Section 1 -- Applicant's military service info
 - Section 3 -- Previous VA loans
 - Section 4 -- Certification and signature
 
@@ -64,6 +64,14 @@ Depending on service details, there are various requirements.
 Surviving spouses may also be eligible for a COE and VA home loans. [Details of eligibility are here.](https://www.va.gov/housing-assistance/home-loans/surviving-spouse/)
 
 #### Use cases
+There are several general use cases around Certificate of Eligibility:
+- Qualified user with no VA loan history wants to apply for COE
+- User (qualifications unknown) wants to apply for COE
+- User wants to learn about COE elibgibility
+- User wants to learn about COE process
+- User want to check status of COE application
+- User wants to review and download/print COE
+- User needs to update COE information
 
 #### User journey
 
