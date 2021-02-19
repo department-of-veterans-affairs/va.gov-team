@@ -158,16 +158,6 @@ Outstanding tickets from last sprint, plus:
 
 - Fixes from UAT
 
-**PM**
-
-- Hold go/no-go
-- Launch to 10%
-- Keep eBenefits updated on launch
-
-**FE**
-
-- Fixes from UAT, if needed
-
 ### Preferred medical facility 
 
 **PM**
@@ -211,8 +201,8 @@ Outstanding tickets from last sprint, plus:
 
 **PM**
 
-- Launch to 25%
-- Launch to 50%
+- Hold go/no-go
+- Launch to 10%
 - Keep eBenefits updated on launch
 
 ### Preferred medical facility 
@@ -261,8 +251,9 @@ Prep for QA
 
 **PM**
 
-- Launch to 100%
-- Confirm date of retirement of feature on eBenefits
+- Launch to 25%
+- Launch to 50%
+- Keep eBenefits updated on launch
 
 ### Preferred medical facility 
 
@@ -321,6 +312,13 @@ QA!!
 **FE**
 
 - QA fixes, if applicable
+
+### Direct deposit for edu
+
+**PM**
+
+- Launch to 100%
+- Confirm date of retirement of feature on eBenefits
 
 ### Preferred medical facility 
 
