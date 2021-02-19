@@ -1,4 +1,4 @@
-# [Template] Product Release Guide 
+# Healthcare Questionnaires Visit Intro - Product Release Guide 
 How do we ensure a smooth and successful launch? (This document starts from the BUILD phase)
 - [VSP Collaboration Cycle Image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf)
 - [VSP Collaboration Cycle Requirements/Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md)
