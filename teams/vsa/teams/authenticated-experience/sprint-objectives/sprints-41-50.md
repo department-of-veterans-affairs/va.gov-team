@@ -163,12 +163,14 @@ Outstanding tickets from last sprint, plus:
 **Design**
 
 - Discovery
+  - Meet with VAOS
 
 ### Notification preferences
 
 **Design**
 
 - Discovery
+  - Meet with VA Profile (Terry)
 
 ## Sprint 44 (3/24 - 4/6)
 
