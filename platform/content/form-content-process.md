@@ -39,7 +39,7 @@ Identify if new functionalities are required for this form. If so, discuss with 
 	
 
 **CONTENT and DESIGN**: 
-Content editor begins to create an outline for the form and a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
+Content editor begins to create an outline in Github for the form or tool, with a list of content and interaction notes. See an example here: [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
 - Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
 - Identify questions that are dependent on other questions 
@@ -47,8 +47,8 @@ Content editor begins to create an outline for the form and a list of copy needs
 - What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
 [See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
-- Discuss content that will go on the form Introduction (subway map) page
-- Discuss content that will go on the form Confirmation page
+- Create content that will go on the form Introduction (subway map) page
+- Create content that will go on the form Confirmation page
 
 **CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
