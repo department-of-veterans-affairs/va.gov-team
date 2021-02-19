@@ -39,6 +39,7 @@ Examples of **only static content** include:
 
 Examples of **not only static content** include:
  - Changes to a front-end Drupal template
+ - Authenticated tools and applications
 
 ### Are you making changes to the visual design?
 We ask this question to determine if design should be involved in your Collaboration Cycle reviews and if a Contact Center Review is necessary.
@@ -56,7 +57,7 @@ We ask this question to determine if content should be involved in your Collabor
 Examples of **changes to content** include:
  - Migrating or creating a new form, tool, or page
  - Updating content on buttons, links, labels
- - Reordering content, adding new calls to action, alert boxes, expandable sections, or creating error messages
+ - Reordering content, adding new calls to action, alert boxes, expandable sections, or error messages
 
 ### Are you making a change to the user flow?
 ### Are there any changes to urls, navigation or entry points?
@@ -79,5 +80,5 @@ Examples of **research with VA.gov users** include:
  - Card sorting
 
 ### Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
-### If you answered yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
+### If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary. 
