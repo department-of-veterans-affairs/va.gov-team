@@ -58,16 +58,16 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
 - Where do users look for information if they don't find it via VA.gov search?
 - In what scenarios do users use VA.gov search?
 - What, if any, pain points do users experience when using search?
+- Do users see or utilize the “More VA search tools” right rail?
 - How effective is VA.gov's search tool at providing the information people are seeking?
     - relevancy
     - scanning behavior (can we improve hierarchy/design?)
     - best bets "Top Recommendations"
     - advanced search features (typeahead/filters)
-- Do users see or utilize the “More VA search tools” right rail?
 
 ## Key Findings
 
-1. When asked about their past experience looking for infomation, most began their journey on eBenefits and VA.gov.
+1. When asked about their past experience looking for information, most began their journey on eBenefits and VA.gov.
 2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.
 3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevant results for their search terms. 
 4. Advanced search features: Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.
