@@ -16,7 +16,7 @@ View details {button}
 
 { blue informational alert }
 
-Your application was denied on MM/DD/YYYY.
+### Your application was denied on MM/DD/YYYY. ###
 
 { end blue informational alert }
 
@@ -26,17 +26,19 @@ Your application was denied on MM/DD/YYYY.
 
 { Only include applicable criteria }
 
-- By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320). 
+- You don’t meet the benefit requirements for the Rogers STEM Scholarship 
 
-     - We reviewed your service and school data records currently on file.
+     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).  
      
-     - As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time.
+     - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.
 
-- By law, all Rogers STEM Scholarship recipients must either be: 
-
-     (1) Enrolled in an eligible STEM undergraduate degree or 
+- You don’t meet the degree requirements for the Rogers STEM Scholarship 
      
-     (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
+     - By law, all Rogers STEM Scholarship recipients must either be: 
+
+        (1) Enrolled in an eligible STEM undergraduate degree or 
+     
+        (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
      - You don’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of these questions on the Rogers STEM Scholarship application. Applicants must answer “Yes” to one of these questions to be eligible.
      
@@ -49,24 +51,26 @@ Your application was denied on MM/DD/YYYY.
 
 { Only include applicable criteria }
 
- - By law, all Rogers STEM scholarship recipients must be eligible for Post 9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).
+ - You are eligible for Post 9/11 GI Bill benefits
  
-    - We reviewed your service and school data records currently on file.  
+    - By law, all Rogers STEM scholarship recipients must be eligible for Post 9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
      
-    - As of [MM/DD/YYYY], you are eligible for Post 9/11 GI Bill benefits.
+    - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you are eligible for Post 9/11 GI Bill benefits.
      
- - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320). 
+ - You meet the benefit requirements for the Rogers STEM Scholarship 
 
-    - We reviewed your service and school data records currently on file.
+    - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
      
-    - As of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.
+    - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.
      
 
- - By law, all Rogers STEM Scholarship recipients must either be: 
-
-     (1) Enrolled in an eligible STEM undergraduate degree or 
+ - You meet the degree requirements for the Rogers STEM Scholarship 
      
-     (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
+     - By law, all Rogers STEM Scholarship recipients must either be: 
+
+        (1) Enrolled in an eligible STEM undergraduate degree or 
+     
+        (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
      - You meet the degree requirements for the Rogers STEM Scholarship because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
      
