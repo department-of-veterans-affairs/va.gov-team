@@ -32,12 +32,14 @@ VFS Product Manager submits a [Design Intent ticket](https://github.com/departme
   - Product
   - Analytics
   - VSP’s DEPO co-leads 
+
 ## What artifacts do I provide?
 VFS provides: 
-A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub va.gov-team/products folder)
-An explanation of the problem you’re trying to solve
-Any other artifacts you have so far
-Whiteboard sketch or other lo-fi prototypes or mockups
+- A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub va.gov-team/products folder)
+- An explanation of the problem you’re trying to solve
+- Any other artifacts you have so far
+- Whiteboard sketch or other lo-fi prototypes or mockups
+
 ## What is the outcome of this touchpoint?
-VSP will provide your team with relevant design components and patterns (with URLs), as well as share existing applications or pages with similar execution or patterns.VSP reviewers document their feedback in a GitHub ticket, if applicable. 
+VSP will provide your team with relevant design components and patterns (with URLs), as well as share existing applications or pages with similar execution or patterns. VSP reviewers document their feedback in a GitHub ticket, if applicable. 
 
