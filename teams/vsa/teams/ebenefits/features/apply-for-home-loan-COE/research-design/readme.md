@@ -35,6 +35,7 @@
 
 [Certificate of Eligibility for Home Loan (eBenefits)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
 
+[eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
 #### VA Form
 
 [VA Form 26-1880  /  Request for Certificate of Eligibility](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf)
