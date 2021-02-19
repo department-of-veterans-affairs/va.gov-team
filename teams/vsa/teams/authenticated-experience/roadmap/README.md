@@ -6,7 +6,7 @@ The authenticated experience team works on two sections of the website:
 
 ## VA.gov Profile
 
-[VA.gov profile roadmap]()
+[VA.gov profile roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/va.gov-profile-roadmap.md)
 
 The VA.gov profile is a section of the website that allows veterans to view and update the information that VA knows about them. Products that currently live in the profle include:
 
