@@ -11,15 +11,15 @@ Synchronous 30-minute meeting
 Get feedback on your completed build before rolling out to users. VSP will identify any launch-blocking issues that must be addressed prior to launch.
 
 ## How do I request this touchpoint?
-VFS Product Manager submits a [Staging Review ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e17a04b6d64d015e3c19c1359a82100b33c28109/.github/ISSUE_TEMPLATE/staging-review.md).
+VFS Product Manager submits a [Staging Review ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+Shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+staging-review%2C+collab-cycle-review&template=staging-review.md&title=Staging+Review+%5BTeam+Name+-+Feature+Name%5D).
 
 ## Who attends this touchpoint?
-- VFS brings:
+VFS brings:
    - Product manager (required)
    - DEPO product lead (recommended)
    - Anyone else from your team who significantly contributed to the artifacts provided (required)
    - Content, IA, accessibility and QA specialists (if applicable)
-- VSP brings (when applicable):
+VSP brings (when applicable):
    - Design
    - Accessibility
    - Content
@@ -31,7 +31,7 @@ VFS Product Manager submits a [Staging Review ticket](https://github.com/departm
 
 ## What artifacts do I provide?
 VFS provides:
-- Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (template)
+- Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Link to the tool or feature  in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 - Staging test user information (if applicable)
