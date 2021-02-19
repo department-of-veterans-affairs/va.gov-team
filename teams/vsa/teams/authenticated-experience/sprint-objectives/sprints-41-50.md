@@ -47,7 +47,6 @@ Objective: Hold reviews, prep for UAT, and determine that we are ready for UAT b
 - [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
   - Prep
   - Hold meeting
-- UAT go/no-go (before we kick off recruiting)
 
 **Design**
 
@@ -72,6 +71,10 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 ## Sprint 42 (2/24 - 3/9)
 
+Liz Lantz joins the team; Cassandra switches to public websites
+
+Outstanding tickets from last sprint, plus:
+
 ### Profile
 
 **FE**
@@ -81,17 +84,12 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 ### My VA redesign
 
-Liz Lantz joins the team
-
 **PM**
 
 **Design**
 
+- [Design] MyVA 2.0: Conduct research #19725 
 - Research summary
-- Hand off final designs to FE
-- Design retro (go over what went well; what didn't; why the work took so long)
-- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request) #14642
-- Review frontend build as needed
 
 **FE**
 
@@ -101,32 +99,33 @@ Liz Lantz joins the team
 
 **PM**
 
+- UAT go/no-go (before we kick off recruiting)
 - Meet with comms to discuss if/what marketing needs to happen
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
 
 **Design**
 
-- UAT
-
-**FE**
-
-- Fixes from UAT
+- Kick off UAT recruiting (pending UAT GO/No-go)
 
 ### Preferred medical facility 
 
 **Design**
 
 - Onboard Liz
-- Plan discovery
-- Begin discovery, if time allows
+  - Go over project
+  - Discuss discovery planning
 
 ### Notification preferences
 
 **Design**
 
 - Onboard Liz
-- Plan discovery
-- Begin discovery, if time allows
+  - Go over project
+  - Discuss discovery planning
+
+**BE**
+
+- Finish build (assuming Terry has gotten Lihan access to the APIs he needs)
 
 ## Sprint 43 (3/10 - 3/23)
 
@@ -140,6 +139,9 @@ Liz Lantz joins the team
 
 **Design**
 
+- Hand off final designs to FE
+- Design retro (go over what went well; what didn't; why the work took so long)
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request) #14642
 - Review frontend build as needed
 
 **FE**
@@ -147,6 +149,14 @@ Liz Lantz joins the team
 - Continue FE build
 
 ### Direct deposit for edu
+
+**Design**
+
+- UAT
+
+**FE**
+
+- Fixes from UAT
 
 **PM**
 
