@@ -28,7 +28,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Jayson Perkins - API Engineer
 - Ken Li - QA Engineer
 - John Marchi - Technical Lead	
-- Ken Li - Engineer	
+- Clayton Matulich - Engineer	
 - Komal Yaseen - Engineer
 - Ken Harrison - QA
 - Erik Breedlove - Program Support	
