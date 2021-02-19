@@ -1,7 +1,7 @@
 # VA Mobile App
 
 ## Background
-On VA.gov today, nearly 40% of all traffic comes from users on their mobile devices. This traffic is typically driven by users that want to complete quick transactions, such as viewing Claims Status or Facility Locator. Our team has a hypothesis, validated by user research, that native affordances on an app could better allow Veterans to complete key transactions across both Health and Benefits services from VA.
+On VA.gov today, nearly 40% of all traffic comes from users on their mobile devices. This traffic is typically driven by users that want to complete quick transactions, such as viewing Claims Status or Facility Locator. Our team has a hypothesis, validated by user research, that native functionality in a mobile app will allow Veterans to more easily complete key transactions across VA Health and Benefits services.
 
 ## Team
 
