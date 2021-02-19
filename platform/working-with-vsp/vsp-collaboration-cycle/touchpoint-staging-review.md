@@ -18,7 +18,8 @@ VFS brings:
    - Product manager (required)
    - DEPO product lead (recommended)
    - Anyone else from your team who significantly contributed to the artifacts provided (required)
-   - Content, IA, accessibility and QA specialists (if applicable)
+   - Content, IA, accessibility, and QA specialists (if applicable)
+   - 
 VSP brings (when applicable):
    - Design
    - Accessibility
@@ -58,6 +59,9 @@ OR
 - Please provide these artifacts at least **4 days before the scheduled review meeting**.
 
 VSP brings:
-Feedback on the artifacts from the following practice areas: design, accessibility, content, QA, I/A (and optional: product, analytics, engineering).
-What is the outcome of this touchpoint?
+
+- Feedback on the artifacts from the following practice areas: design, accessibility, content, QA, I/A (and optional: product, analytics, engineering).
+
+
+## What is the outcome of this touchpoint?
 VSP reviewers document their feedback in a GitHub ticket. VSP will escalate critical issues if necessary to ensure they are addressed prior to launch. VSP will identify launch-blocking accessibility issues and provide assistance, if requested, in getting issues resolved.
