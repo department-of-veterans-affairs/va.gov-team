@@ -84,8 +84,10 @@ Most participants did not click on a typeahead suggestion. This is counter to th
 
 - Veterans who have been out of the military might have issues finding information on VA.gov due to "military jargon". 
 - Two participants on iOS devices (iPhone and iPad) had loading issues on all search feature pages. This may have been a bug on staging.
-- One participant stated that the type was too small
-- Several stated that the page was user friendly 
+- The appearance of Best Bets/"Top Recommendations" on the search results page increased the likelihood of a participant finding the link they needed.
+- A few participants pointed out "Top Recommendations". One stated it was "what VA recommends", another stated it is "what people use the most". If a Top Recommendation was shown, the participant usually clicked on a link under it.
+- One participant stated that the type was too small.
+- Several stated that the page was user friendly.
 > > "From a user experience model the layout is great, the location. All of that is fine but the indexing is poor. The search feature seems to be good for simple things but not difficult things."
 
 
@@ -95,6 +97,7 @@ Most participants did not click on a typeahead suggestion. This is counter to th
 - Investigate adding more information to acronyms in typeahead.
 - Increase hierarchy on search results page, emphasise link titles.
 - Update search results page based on style guide to improve legibility and consistency.
+- 
 - Improve search result descriptions to be more succinct and helpful. Talk to search.gov about metadata descriptions.
 - Improve "More VA.gov Search Tools" section. Audit links and text. Remove right rail and place links elsewhere to ensure that users on all browser widths can see links. 
 - QA search features (global search, Find a Form, Find a Facility) on iOS to ensure the loading bug was only on staging.
