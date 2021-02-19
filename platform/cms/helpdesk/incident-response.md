@@ -22,6 +22,7 @@ All apparent incidents must be thoroughly investigated and pass through an Initi
 The first responder on the Incident Response Team (which could be the first person on the team to hear about a problem) becomes the initial *Incident Commander (IC)*. This person is responsible to make sure Incident Response procedures are followed until the Incident Response procedure is complete, or until another person explicitly agrees to take over IC duties. The Incident Commander is not expected to personally resolve technical issues, and this is not necessarily a technical role. Often, in fact, it helps to have a person in the IC role who is not responsible for fixing the technical details, only for helping to keep the Incident Response Team focused on the plan.
 - The First Responder is the first IR Team member who becomes aware of the incident.
 - Frequently the First Responder is also the incident Reporter.
+- The primary responsibility of the Incident Commander is to form a Response Team and make sure they follow this plan.
 - The First Responder assumes the role as the initial Incident Commander (IC) until IC duties are explicitly handed off to a new IC, or until the incident is closed.
 - For the first 15-30 minutes, the First Responder may be the only responder. If needed, the First Responder begins forming the IR Team. See *Initiate* below.
 
@@ -30,6 +31,7 @@ During incident response, _Responders_ do the following:
 - Assume primary responsibility for the Assess and Remediate steps of the Incident Response Plan.
 - Document in real time the measurements, theories, and steps taken using the Slack channel #cms-team (unless another channel is agreed upon).
 - Designate an Incident Commander, if the incident might require more than 15-30 minutes to resolve, and do an explicit hand-off.
+- When possible this team should include a team Delivery Manager.
 
 ## Incident Response Plan
 
@@ -38,9 +40,10 @@ Incident response follows this workflow:
 ### Initiate
 1. Breathe. No one’s life is in danger. Calm, careful work is better than fast, sloppy work.
 1. A team member (the reporter, usually soon to become the Incident Commander) notices and reports a system related incident, notifying the Incident Response Team via some or all of:
-- Slack: @here to #cms-team. In some after-hours cases where a serious incident is suspected, @channel may also be appropriate. It may also be appropriate to text and/or select call team members. The most important thing is to make sure that an Incident Response Team is assembled and the plan is followed.
+- Slack: *@here* to *#cms-team*. In some after-hours cases where a serious incident is suspected, *@channel* may also be appropriate. It may also be appropriate to text and/or select call team members. The most important thing is to make sure that an Incident Response Team is assembled and the plan is followed.
+- When possible, alert the Delivery Manager (contact info in Google spreadsheet listed below).
 - Specific on-call rotation contact information (TBD)
-- Other team contact information (TBD)
+- Other team contact information ( [contacts spreadsheet](https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0) )
 ### Assess
 1. The IC forms a team (responders) to determine if the event is actually a confirmed incident, and if so assesses the severity. Note that some apparent outages can be triggered by external dependencies (DNS servers, cloud storage outages, etc.). In this case there may be very little remediation, for instance, to do, but the Communicate step may still be critical.
 1. The IC creates an initial situation report ("sitrep") using Slack or acknowledges false-alarm notification, as appropriate.
@@ -55,8 +58,8 @@ The message should include:
   1. what its impacts on users are likely to be, 
   1. (if available) a prediction of when it’s expected to be fixed, 
   1. any known workarounds for missing functionality
-At this stage, we should also notify:  (TBD)
-In the case of a Confidentiality or Integrity Incident, messaging broad groups of users may be unnecessary; however, it’s critical that we notify: (TBD)
+At this stage, we should also notify VA product owner(s) (See [contacts spreadsheet](https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0) )  
+In the case of a Confidentiality or Integrity Incident, messaging broad groups of users may be unnecessary; however, it’s critical that we notify VA ISSO: [contacts spreadsheet](https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0)
 ### Remediate
 1. If suspicious activity is suspected or other unanswered questions exist, the team will create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity before making changes such that post-remediation forensic analysis is supported.
   1. If a security incident is suspected, collecting evidence may actually be more important than any other remediation activity; it’s tempting to skip this step but it should not be skipped.
