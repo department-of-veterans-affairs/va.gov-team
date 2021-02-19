@@ -110,10 +110,18 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 ## Next steps
 
 #### Research
+- [ ] Conduct discovery interviews
+- [ ] Document/analyze discovery interview findings
 
 #### Design
+- [ ] Design initial screen mocks
+- [ ] Create prototype
+- [ ] Inplement UX/UI refinements
 
 #### Testing
+- [ ] Conduct usability testing
+- [ ] Document/analyze usability findings
+- [ ] Conduct UAT
 
 ## References
 
