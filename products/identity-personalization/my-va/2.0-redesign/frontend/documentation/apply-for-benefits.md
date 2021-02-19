@@ -1,5 +1,10 @@
 # Apply for benefits
 
+## InVision Mockups
+
+- [Desktop](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/screens/443777220)
+- [Mobile](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/443913926_My_VA_Mobile_Icons)
+
 ## When to show the Apply for benefits section
 
 **Show**
@@ -12,28 +17,26 @@
 
 *UX specs*
 
-Showing the **health care block** if..:
+Show the **health care block** if..:
 
 - Someone does NOT have VA health care 
 - Someone has NEVER applied for VA health care
 
-Showing the **disability block** if…:
+Show the **disability block** if…:
 
-- Someone does NOT have a disability rating
-- Someone does NOT have ANY claims in progress
-- Someone has NEVER filed a claim for disability benefits
+*Changed as of 2.4.21*
 
-Showing the **education block** if:
+- Always show this block in this section. We may iterate on this and change the approach in the future.
 
-- Someone does NOT have an Edu application in progress
-- Someone has NEVER applied for edu benefits
+Show the **education block** _unless_:
+
+- If we determine that the user is getting direct deposit payments for education benefits via [this API](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/profile/getCh33BankAccount), we will hide this block.
 
 *Visual specs*
 
 Much of this is the same as the specs in the health care section:
 
 - The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability ove the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- The blue hairline **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
 
 ![Apply for benefits_Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started.jpg)
 
@@ -45,8 +48,7 @@ Much of this is the same as the specs in the health care section:
 
 *UX specs*
 
-- If someone starts an application for health care, disability, or education, we remove that block from the “Benefits you might be interested in” section, and we move it up to the “Applications in progress” section.
-- If someone starts a health care, disability, OR eduation application, or if they already have that benefit (as noted above) then we never show that block again in “Benefits you might be interested in.”
+- If someone starts an application for health care we remove that block from the “Benefits you might be interested in” section, and we move it up to the “Applications in progress” section. We never show this block again after their health care application is submitted.
 
 *Visual specs*
 
@@ -63,7 +65,7 @@ Much of this is the same as the specs in the health care section:
 *UX specs*
 
 - If someone starts an application, we show it in the “Application in progress” section.
-- In this particular example, we are showing what it would like if someone had NOT started a healthcare, disability, or edu application, but HAD started an application for something else (eg. pension; burial and memorial benefits)
+- In this particular example, we are showing what it would like if someone had NOT started a healthcare application, but HAD started an application for something else (eg. pension; burial and memorial benefits).
 
 *Visual specs*
 
@@ -75,15 +77,6 @@ Much of this is the same as the specs in the health care section:
 
 - **All final copy is TBD**
 
-**State 2B: A user has some applications in progress, and either already has health/disability/edu or has applied for them**  
-
-*UX specs*
-
-- If someone starts an application, we show it in the “Application in progress” section.
-- If someone has already applied for healthcare, disability, AND edu benefits, or if they already have all of those benefits, then we do not need to show the “Benefits you might be interested in” section anymore.
-
-![Apply for benefits_No getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20getting%20started.jpg)
-
-**State 3: A user has no applications in progress and no benefits in the “benefits you might be interested in” section**  
+**State 3: A user has no applications in progress**  
 
 ![Apply for benefits_No apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20apps%20in%20progress.jpg)

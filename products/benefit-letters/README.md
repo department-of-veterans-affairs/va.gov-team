@@ -1,4 +1,5 @@
 # VA Benefit Letters
+[historical documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/VA%20Documents%20and%20Letters/README.md)
 
 ## Communications
 - GitHub Label: 

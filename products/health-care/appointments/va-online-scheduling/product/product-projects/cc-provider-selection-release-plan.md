@@ -4,21 +4,28 @@
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range: Wednesday, February 17, 2021 - Sunday, February 28, 2021 (tentative)
+- How will you make the product available in production while limiting the number of users who can find/access it:
+  - va_online_scheduling_provider_selection feature toggle
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Preference step completion &#916; >0%
+  - Request submissions &#916; >0%
+- Links to dashboard(s) showing "success criteria" metrics: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/18828]
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+**User Impact**
+Month | Auth Users | CC Path Starts | % path start |
+----- | ---------- | -------------- | ------------ |
+Nov 2020 | 902,403 | 2,288 | 0.2% |
+Dec 2020 | 1,103,090 | 1,883 | 0.1% |
+Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 
 ### Stage A: Canary
 
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: 1-2 days
+- Percentage of Users: 10%
+  - Will increase if there aren't enough appointments coming through as a sample size
 
 #### Results:
 - Number of unique users: x
@@ -29,12 +36,11 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 ### Stage B: moderate
 
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+- Length of time: 1 week
+- Percentage of Users: 30-60% (dependent on canary results)
+  - Possible gradual increase throughout this stage
 
 #### Results:
 - Number of unique users: x
@@ -43,23 +49,19 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: Monday, March 1, 2021 (tentative)
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -69,7 +71,6 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 

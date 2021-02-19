@@ -10,8 +10,23 @@
 User Story 
 
 * Use Case 
-
-* Description
+- Immunization name
+- date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
+- reaction (currently MyHealtheVet has checkboxes with options)
+- method (injection, inhalant, by mouth) - Apple Health calls this the route
+- where on the body the injection was received (left deltoid)
+- other sign/symptom (currently dropdown list) - Look into what this is different then reactions. They look like just two different lists of reactions with this list being much longer.
+- comments
+- ability to add a new immunization (patient reported data)
+- What is currently listed on the COVID-19 Vaccination Record Card
+  - Product Name/Manufacturer (such as Moderna)
+  - Lot number
+  - Date
+  - Healthcare professional or Clinic site
+  - 1st Dose and 2nd Dose
+- link to VA page on recommended screenings and immunizations for an adult
+- link to CDC traveler's health page
+- link to VAOS to schedule immunization appointment
 
 
 * Instructions to access in Staging
@@ -20,7 +35,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story A 
 
-* Use Case 
+### Reviewing an Immunization
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/yggvK2K)
 
 * Description
 
@@ -29,7 +46,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story B
 
-* Use Case 
+### Adding an Immunization 
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/yggvK2K)
 
 * Description
 
@@ -38,11 +57,20 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story C
 
-* Use Case 
+### Editing an Immunization
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/ELLD3Rv)
 
 * Description
 
 * Feature Capabilities
+
+---
+Other use cases that lend themself more to a Health Record section and not Questionnaire:
+1. [Viewing and scheduling an immunization](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/xrr8Km5)
+2. [Viewing educational material about an immunization](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/ZOVn55p)
+3. [Viewing and printing an official immunization record](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/qeel3mk)
+4. Adding and editing immunizations also apply to a general Health Record section
 
 
 ---

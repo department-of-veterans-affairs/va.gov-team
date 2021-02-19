@@ -17,10 +17,9 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 ### Product Portfolio:
 
 **Products**
-- Product Success Tool
+- KPI Dashboarding
 - Google Tag Manager
 - Google Analytics
-- ForeSee
 - Social Studios
 - VFS KPI Setting and Tracking Processes
 - Domo
@@ -28,7 +27,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 
 **Metrics Suite**
 - Google Analytics
-- ForeSee
+- ForeSee/Medallia*
 - Contact Centers*
     - IRIS
     - National Contact Center
@@ -40,7 +39,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 - Grafana*
 - Speedcurve*
 
-* Grafana is owned by VSP Back End Tools and VSP Operations. Speedcurve is owned by VSP Front End Tools. Contact Center data is owned by VSP Contact Centers.
+* Grafana is owned by VSP Back End Tools and VSP Operations. Speedcurve is owned by VSP Front End Tools. Contact Center & survey data is owned by VSP Contact Centers.
 
 ### Responsibilities:
 *Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
@@ -52,6 +51,10 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
     - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
     - QA Google Tag Manager for quality analytics before launches
     - Work with teams' product managers and front end developers to implement ForeSee surveys before launches
+- Maintain analytics
+    - Develop, scale, and influence analytics tracking quality
+    - Keep analytics and data clean
+- Ensure our analytics tracking is secure
 - Support KPI Setting and Tracking across VFS and VSP teams
     - Host KPI setting workshops with teams
     - Check in quarterly with teams to support KPI tracking
@@ -59,12 +62,12 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
     - Provide deep dive sessions with Product Managers
     - Provide KPI and OKR resource decks
     - Determine additional KPI or metrics coaching or workshop opportunities
-- Maintain repository of relevant VFS data
+- Maintain repository of relevant VFS & Platform data
     - Determine success metrics for VFS products
     - Document where success metrics live and how to obtain them
     - Discover which success metrics are uncaptured
         - Determine a process for how to wrangle uncaptured metrics (or document any blockers)
-- Deploy and maintain the Product Success Tool
+- Deploy and maintain the dashboards
     - Aggregate relevent data from across different channels
     - Visualize product problems
     - Analyze data where appropriate
@@ -74,7 +77,6 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
         - Work with other VSP teams to uphold data integrity
         - Decrease costs through efficient processes
     - Connect all relevant and available data to Domo
-- Determine appropriate ForeSee tracking questions and strategy
 - Respond to and publish one-off and recurring data reporting requests
 - Understand available VA.gov related data and answer questions or triage where appropriate
 
@@ -88,10 +90,11 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 ### Team Members:
 - DEPO Platform Product Leads: _Rachael Roueche_
 - Product Manager: _Joanne Esteban_
+- Engineering Lead - Data Warehouse Engineer: _Jason Cavnar_
 - Implementation Specialist: _Jon Wehausen_
 - Implementation Specialist: _Brian Martin_
 - Reporting Specialist: _Ben McGrady_
-- Designer/UX Researcher: _Amy Cesal_
+- Designer/UX Researcher: _Mandy Massengill_
 ---
 
 ## How we work
@@ -101,29 +104,31 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 #### Stand-up
 Check in on people and product progress
 
-- Zoom M, T, F @ 11:30am ET
+- Zoom M, F @ 1pm ET
     - 15-30 min
-- Slack Up Th @ 10:00am ET
-- 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments?
+- Slack Up T, Th @ 1pm ET
+- 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments, dependencies, blockers?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ 10:30am ET
-- 1 hour
+- 1st Wednesday of every sprint @ 1:45pm ET
+- 45 minutes
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ 10:00am ET
-- 30 min
+- 1st Wednesday of every sprint @ 1pm ET
+- 45 minutes
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Wednesday of every sprint @ 10:00am ET
-- 1 hour
-- assess ideas for upcoming sprint
+- 2nd Wednesday of every sprint @ 1:15pm ET
+- 45 minutes
+- review customer support tickets
+- review current sprint objectives
+- stretch: assess ideas for upcoming sprint
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
@@ -133,7 +138,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Description with Background and Acceptance Criteria
 - Labels: `Analytics-Insights`
 - User Story (if applicable), Goal, and Acceptance Criteria
-- Nested in an Epic/Super Epic
+- Nested in an Epic/Initiative Epic
 
 All work should be validated as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
@@ -229,7 +234,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
     - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
     - Access - ping us on Slack, [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
-- Product Success Tool
+- [Analytics Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md)
 
 ---
 #### Grey Areas & Questions

@@ -85,7 +85,7 @@ Great. Now we're really ready to begin!
     
 ## Task: Feedback Survey - 7 minutes
 
-I’m going to send a link to a specific page in the chat.
+I’m going to send a link to a specific page in the chat. Could you pull up the link, then come back to zoom and share your screen? **NOTE: ASK THEM TO MINIMIZE THE PARTICIPANT WINDOW**
 
 *If desktop:*
 
@@ -95,7 +95,8 @@ I’m going to send a link to a specific page in the chat.
 
 - Send the link to the [Find VA Locations Figma Mobile Prototype](https://www.figma.com/proto/KufrI4EbR1Y0it1xTgJaXj/Medallia-Mobile?node-id=1%3A2&viewport=1039%2C676%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1) in the chat.
 
-**Task: You would like to submit feedback on this Find VA Locations page on the VA.gov website. What would be your process for submitting that feedback?**
+**Task: Let's say you are trying to use this Find VA locations page, but you're experiencing an issue (maybe the map isn't showing results or it's pulling up the wrong area). What would you do to let someone know about this issue? (OR: If you wanted to share your experience about the task you were trying to complete, how would you do that?)**
+ - **If they mention that they would email or call, ask if there is anything on this page that they could use.**
 
 As you’re performing this task, please talk us through your thoughts as you interact with the site.
 
@@ -114,23 +115,24 @@ As you’re performing this task, please talk us through your thoughts as you in
 - Would you, personally, fill out this form?
   - *If yes:* Would you fill it out on your desktop or phone?
 
-## Comparitive Analysis - 5 Minutes
+## Comparative Analysis - 5 Minutes
 
 **Medallia "Vanilla" Button**
 *Send the link to the [Find VA Locations (Staging)](https://staging.va.gov/find-locations/) page*
 
-This is the same page as before, but with an alternate feedback button design.
-- Can you describe for me the differences between this button and the previous button?
+**This is the same page as before, but with an alternate feedback button design.**
+- Do you think this button is easier to find?
 - Would you describe this button as better or worse than the previous button?
+  - *Follow up:* Can you explain your answer?
 
-**Comparitive Ranking**
+**Comparative Ranking**
 
 *If Desktop (Rotate between versions, note taker log version tested with):*
 
 - Send the link to the [Button Design Comparison V1](https://www.figma.com/proto/VbrVZD0iBwXNhJCUhf7d4n/Button-Comparison?node-id=1%3A2&viewport=517%2C430%2C1&scaling=min-zoom&hotspot-hints=0&hide-ui=1)
 - Send the link to the [Button Design Comparison V2](https://www.figma.com/proto/6zdWWznaPq6NcU6miKHU3g/Button-Comparison-Desktop-V2?node-id=1%3A2&viewport=705%2C502%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
 
-- Which of these two buttons are you most likely to click on?
+- Which of these buttons would you be more like to find?
 
 *If Mobile:*
 
@@ -143,9 +145,9 @@ This is the same page as before, but with an alternate feedback button design.
 That’s it for the tasks, but I have a few general questions in reference to both of these forms.
 
 - Do you feel confident submitting these feedback forms?
-- Have there been any experiences you’ve had on VA.gov that would cause you to want to provide feedback?
 - Who do you think is responsible for creating this feedback form?
 - What do you think happens after you submit feedback?
+- Have there been any experiences you’ve had on VA.gov that would cause you to want to provide feedback?
 
 ## Thank-You and Closing - 3 minutes
 

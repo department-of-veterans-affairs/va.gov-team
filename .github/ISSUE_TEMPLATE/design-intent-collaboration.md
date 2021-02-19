@@ -1,44 +1,50 @@
 ---
-name: Design Intent Collaboration
-about: Request to Schedule a Design intent Collaboration
-title: Design intent Collaboration [Team Name - Feature Name]
+name: Design Intent
+about: Request to Schedule a Design intent
+title: Design intent [Team Name - Feature Name]
 labels: vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: shiragoodman, allison0034, emilywaggoner
+assignees: shiragoodman, allison0034
 
 ---
 
 ## Steps to complete Design Intent Collaboration
-- [ ] VFS Product Manager or Designer: create this issue and fill in team name and feature name in the title
-- [ ] VFS: Link to this issue once created in #design in Slack; tag @ Allison Christman & @ Emily Waggoner
-- [ ] VSP: Schedule meeting with VSP reviewers and requesting team attendees (as listed below)
-- [ ] VFS: At least 2 days before scheduled meeting, you must provide list of artifacts below
-- [ ] VSP: Practice areas create feedback ticket and link to this ticket (if no feedback, please comment stating no feedback)
+- [ ] VFS Product Manager or Designer: Create this issue and fill in your team and feature name in the title. 
+- [ ] VFS: Link to this issue once created in #design in Slack; tag @vsp-product-support-members.
+- [ ] VSP: Schedule meeting with VSP reviewers and VFS team attendees (listed below).
+- [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below.
+- [ ] VSP: Create feedback tickets and link to the Design Intent ticket (if no feedback, please comment stating that).
 - [ ] VFS: Respond appropriately to VSP feedback tickets
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
+- [ ] VSP: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 
 
-## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
+## Artifacts
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Sketches
 - Lo-fi mockups
 
-## Meeting attendees from **requesting team**
-- Designer(s) (required): **name(s)**
-- Product Manager (optional): **name**
-- DEPO design lead (required as applicable): **name**
-- Other specialists: **names**
+## Meeting attendees from requesting team
+- Designer(s) (required): name(s)
+- Product Manager (required): name
+- DEPO Product Lead (recommended): name
+- DEPO Design lead (recommended): name
+- Content, IA, accessibility, and QA specialists (if applicable): name(s)
+- Other stakeholders you want to invite (if applicable)
 
-VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
 ## Scheduling
-- Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)
-- Note an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 2 business days from now
-- Write that preferred time slot here (on this ticket), and VSP will send you a meeting invite
-- _If no available time slots work for your team, write your availability and requirements here and Crystabel will reach out as needed_
+Would you like this review to be asynchronous? Please refer to the Design Intent guidance for the difference between a synchronous meeting and an asynchronous review. 
+[ ] Yes
+[ ] No
 
-## Additional Notes
-Design experts will provide: 
-- A list of relevant design components and patterns (with URLs)
-- A list of existing applications or pages with similar execution or patterns with URLs in staging
+What is your preferred time slot per the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? **date/time**
+ 
+Please note:
+- Time slots are required for both synchronous meetings and asynchronous reviews.
+- All times are shown in ET. 
+- Available time slots are indicated with [CALENDAR BLOCK]. 
+- When you reserve a time slot, the reserved meeting will show up alongside the [CALENDAR BLOCK]. 
+- Please select a time slot at least 2 business days from request date.
 
-During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, IA
+## Additional information
+Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
+

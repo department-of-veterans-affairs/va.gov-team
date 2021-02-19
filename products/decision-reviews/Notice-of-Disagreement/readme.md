@@ -3,16 +3,15 @@
 ## Communications
 - GitHub Label: [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Matt Self and Luke Majewski
+- Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/decision-reviews/board-appeal/
 - Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
 - Stakeholders: The Board - will fill in from NOD info
 
 ## The Problem
-Veterans are still working with a paper form system for filing a paper form.  There is a three step process for different types of board appeals
-Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This does not exist on eBenefits either, so this digitization is the first step in bringing the review process to veterans using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
+Veterans are still using a paper form to submit disagreement claims appeals.  If the veteran disagrees with an initial claims decision, they have three appeals paths: supplemental claim, higher level review, and notice of disagreement. Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This functionality does not exist on eBenefits either, so digitization will allow veterans to file appeals using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
 
-We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.  This will be talked about further below.
+We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.
 
 ## Devlopment Plan
 Pulling in some details from Lighthouse.
@@ -196,13 +195,13 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 
 ## Team
 - VA Digital Strategist(s): Matt Self
-- Product Manager: Luke Majewski 
+- Product Manager: Veronica Henry 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison, Ed Mangimelli
+- Engineers: Anna Carey, Robin Garrison, Ed Mangimelli
 
 ## Incident Response
-- Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
+- Primary POCs (Veronica Henry, Matt Self, John Hashimoto)
 - Engineering POCs (Ed Mangimelli, Robin Garrison)
 - Dashboards:
   - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)

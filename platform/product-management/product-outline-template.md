@@ -68,7 +68,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
 - *Target Launch Date*

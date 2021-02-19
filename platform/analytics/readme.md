@@ -19,6 +19,8 @@ Please use this guide for more information.
 
 7. [**Request access to Domo**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/domo-request-access.md)
 
+8. [**See our Analytics Playbook for more information on using analytics for VA.gov decision making**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md)
+
 ## Analytics Products
 
 <ol>

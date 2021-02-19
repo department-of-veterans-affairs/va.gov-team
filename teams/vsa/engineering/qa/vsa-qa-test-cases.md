@@ -2,9 +2,13 @@
 
 **[WORK IN PROGRESS]**
 
-Read about Test Cases, and follow the relevant best practices.
+Read about Test Cases in general, and follow the relevant best practices.
 
-[See also [TestRail help](testrail/README.md) for VSA-specific help on DSVA's TestRail test case management system.]
+[See also [TestRail help][tr-readme] for TestRail-specific test-case topics.].
+
+## Who should read this?
+
+- Anyone creating Test Cases in TestRail -- QA Engineer or Product-Team member "deputized" to create Test Cases.
 
 ## Test Cases are not Use Cases
 
@@ -13,11 +17,11 @@ Test Cases are for verifying a discreet system behavior, whereas Use Cases are f
 Use Cases are among the first development artifacts to be documented, before the product/feature build starts.  As such, Use Cases outline overall user scenarios/journeys/outcomes, without final implementational details.  Test Cases are later developed from the completed Use Cases, after the build has completed, and thus enumerate exact preconditions, steps, and expected results.
 
 <details>
-  <summary>Case contents comparison [expand]</summary>
+  <summary>Case contents comparison [expand/collapse]</summary>
 
 | Test Cases      | Use Cases       |
 | --------------- | --------------- |
-| **Specific test preconditions**. E.g: "Signed in as `user@example.com` (John Doe)", "On https://example.com/profile" | **General scenario descriptions**. E.g: "Authenticated LOA3 user", "On Profile page" |
+| **Specific test preconditions**. E.g: "Sign in as `user@example.com` (John Doe)", "On https://example.com/profile" | **General scenario descriptions**. E.g: "Authenticated LOA3 user", "On Profile page" |
 | **Specific system interactions**. E.g: "On update form, edit Routing number, Account type, and Account number, then click Submit." | **General task descriptions**. E.g: "Changes his/her Direct Deposit bank account." |
 | **Specific test results**. E.g: "Browser displays edited Routing number, Bank name, Account number.  Content/layout matches [this copy-deck/design-screen]."   | **General task outcomes**. E.g: "User sees his/her bank info has been updated." |
 
@@ -62,3 +66,7 @@ A Test Case's Steps should be written to enable the fastest execution-time possi
 ### Expected-Result references should be hyperlinked
 
 Copy decks, design screens, and other references in Expected Results should be provided as hyperlinks.  File attachments and screenshots, while not unacceptable, are prone to falling out of date.  It's also much quicker and easier to copy-n-paste links than to download-/capture-n-attach files/screenshots.
+
+
+[tr-readme]: testrail/README.md
+[vsa-qa-use-cases]: ./vsa-qa-use-cases.md

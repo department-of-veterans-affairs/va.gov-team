@@ -1,8 +1,23 @@
 # Front end code reviewer guide (WIP)
 
-This is a guide for people reviewing front end code for VAOS.
+This is a guide for the code review process on VAOS.
 
-## Critical things to check
+## Norms and etiquette
+
+- Generally we want PRs to get an initial review within a day or two
+- Everyone on the team should review PRs regularly
+   - This doesn't mean every team member is expected to be able to review any PR, less experienced team members can focus on smaller, less complex PRs
+- Pull requests should strive to have less than 500 lines of changes
+   - Generally you can ignore changes caused by adding or removing mock data
+   - If you have a PR that is bigger than this, consider trying to find a way to break it into multiple PRs. If that isn't possible, write lots of comments in the PR to guide reviewers and offer to walk through the PR on a screenshare.
+- Authors should make sure they have at least unit tests and linting checks passing before requesting a review
+   - WIP PRs posted to get guidance are an exception
+- Reviewers should approve a PR when they feel like they've checked the important items from our checklist and any changes needed are trivial enough that they do not need another review
+- PRs with significant changes are good candidates for in person reviews/walkthroughs
+- Authors should avoid making significant changes to a PR after it has an approval
+- Leaving a review on a PR removes it from the requested reviews list of others, so reviewers should make sure they either approve it or leave comments describing what changes are necessary
+
+## Primary review checklist
 
 These are the most important things to check for a PR review, for easy reference. More detailed explanations are below.
 

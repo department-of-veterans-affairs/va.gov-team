@@ -10,10 +10,10 @@ Although VA.gov is moving many forms online the site often needs supporting scan
 ### VA:
 VA Business Owner: N/A
 ### DSVA: 
-- Product Owner: Andrea Schneider ([Andrea.Schneider@va.gov](mailto:Andrea.Schneider@va.gov))
+- Product Owner: 
 ### Ad Hoc:
-- Sprint Team: Apps Team 1 / Unicorns ([#unicorns-team](https://dsva.slack.com/archives/C5AGLBNRK))
-- Product Manager: Mark Greenburg ([mark.greenburg@adhocteam.us](mailto:mark.greenburg@adhocteam.us))
+- Sprint Team: 
+- Product Manager: 
 ### EVSS:
  - Michael Walker (Insignia / EVSS Sustainment): ([Michael.Walker10@va.gov](mailto:Michael.Walker10@va.gov))
 

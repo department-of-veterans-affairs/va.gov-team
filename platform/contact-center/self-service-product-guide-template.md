@@ -5,7 +5,7 @@
 All product guides should be created and saved as a word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A complete product guide will include the following:
 
 ## **Table of Contents:**
-- This is the roadmap to each portion of your writing. Please inclue the following sections in your table of contents:
+- This is the roadmap to each portion of your writing. Please inclue the following sections in your table of contents and link each to its corresponding location in the Product Guide:
   - Product Overview
   - User Access
   - Navigation

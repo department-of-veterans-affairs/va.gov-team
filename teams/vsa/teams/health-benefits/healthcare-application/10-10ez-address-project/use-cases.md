@@ -6,33 +6,39 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 Link to product outline: [HCA Address Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/10-10ez-address-project/project-outline.md)
 
+Staging URL: https://staging.va.gov/health-care/apply/application/introduction
+
 ## Unauthenticated
 
 ### Use Case A - "Yes" - Home address same as Mailing
 - **Description**: After inputting Mailing address, User indicates Home address is the same.  As User continues, form skips Home-address page.
+- **TestRail Test Case**: [C3923](https://dsvavsp.testrail.io/index.php?/cases/view/3923)
 
 ### Use Case B - "No" - Home address is different
 - **Description**: After inputting Mailing address, User indicates Home address is different.  As User continues, form advances to Home-address page with blank inputs.
- 
+- **TestRail Test Case**: [combined w/ above Test Case]
 
 ## Authenticated
 
 ### Use Case C - Mailing & Home addresses exist, but different in Profile
 - **Description**: User has different Mailing & Home addresses already saved in Profile.  Mailing address is pre-filled and Is-Home-address-same question has "No" answer pre-selected.  As User continues, Home address is also pre-filled.
 - **User**: 100
+- **TestRail Test Case**: [C3926](https://dsvavsp.testrail.io/index.php?/cases/view/3926)
 
 ### Use Case D - Mailing & Home exist & same in Profile
 - **Description**: User has same Mailing & Home addresses saved in Profile.  Mailing address is pre-filled and Is-Home-address-same question has "Yes" answer pre-selected.  As User continues, form skips Home-address form-page.
 - **User**: (unknown - Jonathan may have in notes)
+- **TestRail Test Case**: [C3927](https://dsvavsp.testrail.io/index.php?/cases/view/3927)  **NOTE**: Without an available Staging test-account, this Case will be run in **Safari** only, via [local-override](https://webkit.org/web-inspector/local-overrides/).
 
 ### Use Case E - Only Mailing in Profile
 - **Description**: User has only Mailing address saved in Profile. Mailing address is pre-filled but Is-Home-address-same question has no pre-selected answer.  IF User selects "Yes" (Home same as Mailing), form skips Home-address page; otherwise, form advance to Home-address page with blank inputs.
 - **User**: 99
+- **TestRail Test Case**: [C3925](https://dsvavsp.testrail.io/index.php?/cases/view/3925)
         
 ### Use Case F - No addresses in Profile
 - **Description**: User has no addresses saved in Profile.  Mailing address has blank inputs.  After filling Mailing address, IF User selects "Yes" (Home same as Mailing), form skips Home-address page; otherwise, form advance to Home-address page with blank inputs.
 - **User**: 113
-
+- **TestRail Test Case**: [C3924](https://dsvavsp.testrail.io/index.php?/cases/view/3924)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 

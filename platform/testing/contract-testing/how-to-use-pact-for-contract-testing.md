@@ -484,11 +484,21 @@ Please see the [provider state documentation](https://github.com/pact-foundation
 
 If you're waiting on frontend to generate the contract and push to the broker, you can use a temporary (local) contract. You can verify a pact at any arbitrary local or remote URL using the `pact:verify:at` task.
 
+##### Native Workflow
 Example local file path:
 
 ```
 rake pact:verify:at[tmp/hca-va.gov_api.json]
 ```
+
+##### Docker Workflow
+Example local file path:
+
+```
+make pact PACT_URI=tmp/hca-va.gov_api.json
+```
+
+Be sure to follow the [Docker workflow settings](#important-docker-workflow-settings) detailed below before running the task.
 
 #### Expected responses
 

@@ -2,8 +2,8 @@
 
 #### Communications
 
-- Team Name: VSP Service Design
-- Slack channel:  #vsp-newsletter
+- Team Name: VSP Service Design and Content/IA
+- Slack channel:  #platform-newsletter
 - Product POCs: James Chasia, Naomi Marcussen
 
 ------

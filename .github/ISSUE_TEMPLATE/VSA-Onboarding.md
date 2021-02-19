@@ -31,11 +31,11 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 
 - [ ] Access to [Shared Google Drive](https://drive.google.com/drive/u/1/folders/0ACZ1e6Rs_6sDUk9PVA)
 - [ ] Access to VSA PTO Calendar
-- [ ] Request Access to VA Organization in GitHub
-- [ ] Access to VSA GitHub Repositories
+- [ ] Request [Access to VA Organization in GitHub](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=moschette%2C+AprilPrimous%2C+KennethC19&labels=add-user-to-org%2C+new-user%2C+user-created&template=add-user-to-the-va-organization.md&title=ADD+USER+TO+ORG+-+%5BUSERNAME%5D)
+- [ ] Access to [VSA GitHub Repositories](https://github.com/orgs/department-of-veterans-affairs/teams/va-gov-vsa/members)
 - [ ] Access to GCIO/AdHoc Slack Workspace
 - [ ] Request access to DSVA Slack Workspace
-- [ ] Request Hardware/Software (remove if non-GCIO)
+- [ ] Request Hardware/Software (GCIO Only)
 - [ ] Request New Hire to Complete VA Onboarding Paperwork (GCIO Admin Analyst)
 - [ ] Schedule Program Overview Meeting
 
@@ -47,14 +47,15 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 
 *Day 1*
 - [ ] [Watch Chris Johnston va.gov Backgrounder recording](https://drive.google.com/file/d/1BTYPaR0p9hYD4qd-OCCduyIRTRr77S1O/view?usp=sharing)
+- [ ] Review [VSA Onboarding Doc](https://drive.google.com/file/d/1I3BJT2L49xT2WgufLDO1wqW84zLSPs8G/view?usp=sharing)
 - [ ] Attend VSA Program Overview Meeting
 - [ ] Make Calendar Public (Free/Busy)
-- [ ] Complete VA Onboarding paperwork (sent by Admin Analyst - Victoria Akitobi)
+- [ ] Complete VA Onboarding paperwork (sent by VSA Admin Analyst)
 
 *Month 1*
-- [ ] Complete Skill Matrix (GCIO only, sent by @yanaroy)
+- [ ] GCIO Only: Complete [Skill Matrix](https://docs.google.com/spreadsheets/d/1h8Pei6G14QS2QO0VNdnswmJW0WLol4aRjXpSJdp9kpA/edit#gid=0)
 - [ ] Request SOCKS Access, after SAC Adjudication
-- [ ] Complete VSP Orientation (Andrea Hewitt)
+- [ ] Complete VSP Orientation (Invite sent by VSP team)
 
 **Operation Lead Tasks**
 

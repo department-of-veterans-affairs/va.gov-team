@@ -1,15 +1,15 @@
 # Authenticated experience roadmap
 
-**Updated December 2020**
+**Updated February 2021**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|[My VA redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design|
-|[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Finalizing design; Frontend build |
-|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Backend implementation (Design and Frontend to follow) |
-| VA Profile: Notification preferences | Preliminary conversations with VA Profile |
+|[My VA redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design; User testing|
+|[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Pre-launch VSP reviews |
+|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Backend implementation complete; On hold until we have an available designer |
+| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Backend implementation |
 
 ## Completed projects
 
@@ -38,13 +38,26 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |----|----|----|----|----|----|----|
 |**My VA redesign**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
-|**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | Design; User testing; FE build| QA; launch | — | — |
-|**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
+|**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | On hold due to resourcing | Design; testing; FE build; QA | Pre-launch; launch | — |
+|**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | ? |
 |**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements (View Payment History; Debt Letters) | — |
 
 ## Potential future projects & feature requests from other teams
 
 ### Profile & identity 
+
+#### Higher priority
+
+These are considered high priority for one of two reasons: (1) because other teams are actively planning development and the VA.gov profile is a dependency, or (2) security reasons.
+
+|Project|Initiating team|Date of request| Status/Notes|
+|----|----|----|----|
+|Add email confirmation for address updates |Auth experience | 2020 | This would be added for security reasons since fraudsters may try to change people's addresses as part of hacking direct deposit info|
+|Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary profile updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |
+|Integrate MHV profile data points into VA.gov profile | MHV | 2.10.21 | MHV would like to point all of their users to VA.gov instead of maintaining their own profile. Active converstions with VA.gov and VA Profile are beginning Feb 2021. |
+|Remove Fax number from VA.gov profile | VA Profile | 2.19.21 | VA Profile has been investigating this issue for a while and said "Fax numbers are a very small portion of the phone numbers we have in VA Profile (less than 1%) and we have most of them because of VA.gov... I’ve done extensive research, and fax is just not used by VA to fax veterans. I actually got a great quote from one of our partners “In my 25 years with VA we have never faxed a veteran” and we have support from our business leaders in removal." |
+
+#### Additional projects and requests
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -54,14 +67,15 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |ZIP+4 – Updating zip code in the VA.gov profile to elevate the additional 4 digits | N/A | September 2020 | Steve K mentioned that a stakeholder had asked about this, but there's been no formal request. This already supported by VA Profile. |
 |Fiduciary indicator | VA Profile | N/A | VA Profile has mentioned they are in discovery with adding a fiduciary indicator that we could consume, but they do not have any dates yet as to when they plan to implement this |
 |Prescription notifications | VA Profile/VETText | November 2020 | In our biweekly VA Profile meeting, Paras Shah mentioned that the notifications team is going to be working to implement prescription notifications. The MVP will be out in January, which will not need anything from the VA.gov profile. However, the next version after that will likely need some sort of notification settings that could be managed from the profile|
-|Notification preferences | VA Profile | November 2020 | These are indicators for VETText/VANotify/other services so people can opt-in/out of texts or email messages from these services. This is actively in the works with VA Profile, with initial releases 12/14/20 (no grouping), 1/11/21, and 2/8/21 (with grouping). |
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
-
+|Self-identified gender indicator (SIGI) | MHV | 2.8.21 | MHV would like us to add the SIGI indicator to our profile so they can point their users to us to update this information. The SIGI indicator should live in MPI, so we would need to be able to read/write back to MPI |
 
 ### My VA, benefit updates, & benefit experience
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
-|Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
+|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after My VA redesign|
+|Notification center| Auth. exp. | N/A| Revisit after My VA redesign|
 |My VA: Post-launch V1 updates and enhancements | Auth exp. | N/A | [List of potential updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/v1-post-launch-improvements.md)|
+|How do we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
+|Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary My VA updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |

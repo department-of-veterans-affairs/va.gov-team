@@ -13,12 +13,74 @@
 </details>
 
 <details><summary>Parking lot</summary>
+* [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986)) (moved here January 27)
+* #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147) (moved here February 3)
+* Breadcrumb cross-team spike 
+ * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot Feb 3)
 
 </details>
 
-## February 12 
+## February 24 2021
 
-Results of Pittsburgh spelunking.
+VAMC System
+* Policies page content model documentation
+* [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020)
+
+Vet Centers
+* TBD
+
+## February 17 2021
+
+Content model / FE changes
+* Look back at `fieldDate` [PR #16015](https://github.com/department-of-veterans-affairs/vets-website/pull/16015) and method 
+* Facility health services cutover - #17928 cleanup from cutover  #19881 "failover logic" issue that was noticed via broken link reports during Lebanon dual state launch. 
+* FYSA: Policies page content model documentation ready by Feb 26 at latest. 
+* Facility status migration issues - Dave will read what Steve sent JHL. Steve's PR has gone in to CMS to remove blockages for Bath and Canandaigua (Finger Lakes area). Dave: this is related to two VAMC systems being merged. Steve: two other similar issues, cert for Anchorage was boogered up, so that Alaska wouldn't come through in facility status migration. Facility status updates have not been correctly updated since December. Fix for Cert is in for Anchorage, which revealed the Finger Lakes. As of today's release, Bath and Canandaigua will not have their facility status migrated, until this is fixed. Dave: real solution is to get all VAMCs into Drupal.  Steve: another issue, some new Facilities have been created because Facilities are being added in ASP endpoint with facility IDs that don't exist in VAST. Potential risk is how Lighthouse handles this. Next steps: Dave/Steve taking this offline. 
+
+Vet Centers
+* ~Review CMS goals and backlog for Sprint 26.~
+* Review Discovery questions/hypotheses.
+
+## February 10 2021
+
+All was handled async: 
+
+* ~Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)~
+* Feedback on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)? 
+* ~fieldDate removed? If so, CMS will merge our PR.~
+* broken link checks in FE PRs. 
+
+## February 3 
+
+### General
+
+Seeking input on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+
+We can use this framework to discuss content model refactoring epics below.
+
+### Upcoming demo environment training 
+
+* Tentatively 12pm ET Thursday February 11th. 
+  
+
+### Content model refactoring 
+
+* VAMC System Policies 
+  * CMS team will be documenting content model in our Sprint 26, so FE can start in March. 
+
+### Vet Centers
+
+* #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147)
+  * Decision: Facilities team will delay the FE work until transformers are out. CMS team will put the depracation of the parent terms in the icebox. 
+* CMS roadmap work in progress. 
+
+
+### Other
+
+* [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot)
+* `fieldDate` on Event listing
+  * CMS still has field_date on Event content type, but will remove it once Facilities strips it out of FE
+
 
 ## January 27 2021 
 
@@ -43,7 +105,7 @@ Results of Pittsburgh spelunking.
   * Dave will remove second service locations from University Drive health services 
   * Move some blobby content from Pittsburgh (Dave)
   * Phone number issue in flight (Gibran), no questions
-  * Once that is done, we can turn off blobby content in editing page, and remove staging only link, and make sure that blobby content can still be read somewhere--Tugboat environment, proofing page, disabled on editing page. **Kev will write issue**. 
+  * Once that is done, we can turn off blobby content in editing page, and remove staging only link, and make sure that blobby content can still be read somewhere--Tugboat environment, proofing page, disabled on editing page. **Kev will write issue (CMS #4146) **. 
   * Pittsburgh editors (Ryan and Shelley) will review training for health services. They may have help desk questions. 
   * **Kev and Michelle to review for anything missing** 
   * FE issues to remove blobby GraphQL/Transformer / liquid template code
@@ -53,12 +115,12 @@ Results of Pittsburgh spelunking.
   * Basically "ready" for FE development, but we should arrange a spike for how FE might think about "Centralized content" more broadly. 
   * Policies currently uses Detail page. New content type "VAMC Policies" with new fields. 
     * "Entity field fetch" is new for transformers and graphql. 
-    * **Kev to write an issue for Steve to document content model for FE devs**
+    * **Kev to write an issue for Steve to document content model for FE devs** (CMS #4145)
   * Policies pages will be swapped out (old to new) on a VAMC system by system basis ("manually").  
 
 * VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
   * VHA health service “type of care"
-  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)" 
+  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)" #4147**
   * Type of care is currently both a parent and an attribute, the FE uses the parent
   * System health services could be refactored now to group by attribute not parent.
   * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)

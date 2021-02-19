@@ -1,6 +1,6 @@
-# Product Outline: My VA Dashboard 2.0
+# Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated December 3, 2020
+Last updated February 17, 2021
 
 ## Communications
 
@@ -19,8 +19,6 @@ Last updated December 3, 2020
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
 
 ## Table of Contents
 
@@ -145,7 +143,7 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
 - We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
 
-### Phase 1 plan (flexible pending technical discovery):
+### Phase 1 plan
 
 **In scope**
 
@@ -155,15 +153,16 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
   - Health enrollment status (eg. enrolled; application pending, etc)
   - Prescriptions
   - Secure messages
-  - Schedule appointments
+- Add the following information
+  - Overall disability rating
+  - Show appointments
 - A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
-- (Nice to have) Elevating overall disability ratings, GI bill balances, and upcoming appointments.
 
 **Out of scope**
 
 - **As of 10.7.2020**: Any updates to the homepage in a logged-in state.
 - Doing anything with the Find VA benefits content that currently exists on My VA.
-- Incorporating any new data or integrations that do not already exist on VA.gov.
+- Incorporating any new data or integrations that do not already exist on VA.gov, with the exception of disability rating and scheduling appointments.
 - Navigation work.
 - Notification center work.
 
@@ -176,12 +175,29 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+*How are Veterans and others using this product going to know it exists?*
+
+- My VA already exists on VA.gov. However, as part of this redesign, we will be adding a link to My VA to the unauthenticated navigation to enhance discoverability.
+- Additionally, we will work with the VA comms team to figure out the right plan for notifying veterans of the newly redesigned page.
+- [Link to release plan when it's ready]
+
+-*What marketing, outreach, or communications are necessary for this product to be successful?*
+
+- We will work with VA comms to figure this out.
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+*What is your target launch date of your MVP/iteration?*
+
+- We are targeting early June 2021 for our initial launch.
+
+*What is your date for when you'll evaluate impact after launch?*
+
+- There is no singular date for this. We will continually evaluate this feature post-launch.
+
+## Post-launch evaluation plan
+
+- TBD
 
 --- 
 
@@ -199,7 +215,9 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
 - **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0.
 - **November 2020**: Create high-level explorations and conduct research on newsfeed vs. traditional direction.
-- **December 2020**: Move forward with traditional direction;
+- **December 2020**: Move forward with traditional direction
+- **January 2021**: Designs completed; Frontend build begins; Copy work begins; Staging use cases put together
+- **February 2021**: InVision prototypes finalized; Frontend build continues; Usability test prep review; Usability testing
 
 ## Discovery
 
@@ -208,6 +226,8 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - November 2020 design exploration research
 
 ## Product 
+
+### Logged-in homepage > My VA pivot
 
 Initially, this project was scoped to be a logged-in homepage redesign. However, as of 10.7.2020, we have pivoted the project back to a My VA dashboard redesign.
 
@@ -232,11 +252,48 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 ### How to Access and Test
 
-### Error Handling
-
-### Service Level Objective
+[Staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+[Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md)
 
 ### API Calls and Dependent Systems
+
+The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the list of what is included as part of the My VA 2.0 redesign and what systems we rely on to get that information:
+
+**Disability rating**
+
+- **We show**: Overall disability rating
+- **Parent tool**: [View your VA disability ratings](https://www.va.gov/disability/view-disability-rating/)
+- **System that supplies this info**: [What VA system/database do we get this from?]
+
+**Claim status**
+
+- **We show**: Most recently updated claim; Overall number of open claims
+- **Parent tool**: [Claim status tool](https://www.va.gov/claim-or-appeal-status/)
+- **System that supplies this info**: [What VA system/database do we get this from?]
+
+**Secure messages (health care)**
+
+- **We show**: Latest message; Total unread messages
+- **Parent tool**: [MHV secure messaging tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Appointments (health care)**
+
+- **We show**: Next appointment; Total upcoming appointments
+- **Parent tool**: [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Prescription refills (health care)**
+
+- **We show**: Latest refill update for prescriptions with a status of **Active: Submitted** or **Active: Refill in process**; Total number of prescriptions with a status of **Active: Submitted** or **Active: Refill in process**
+- **Parent tool**: [MHV prescriptions tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills)
+- **System that supplies this info**: [What VA system/database/integration do we get this from?]
+
+**Applications in progress**
+
+- **We show**: Benefit applications people have started on VA.gov but have not completed
+- **Parent tool**: All benefit applications on VA.gov
+- **System that supplies this info**: VA.gov saved-in-progress applications
 
 ## Design
 
@@ -244,7 +301,9 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 - [My VA use cases MURAL board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 - [My VA data points spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
-- [Design process outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/LIH-outline-and-timeline.md)
+- My VA InVision documentation 
+  - [Desktop](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/screens/443777220)
+  - [Mobile](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/443913926_My_VA_Mobile_Icons)
 
 ### Screenshots
 
@@ -254,11 +313,11 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 *All widgets*
 
-![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
 
 *Empty state*
 
-![My VA 1.0 empty state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-Empty%20states.png)
+![My VA 1.0 empty state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-Empty%20states.png)
 
 ### After
 

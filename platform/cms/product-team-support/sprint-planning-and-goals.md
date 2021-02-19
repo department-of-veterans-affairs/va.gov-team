@@ -1,4 +1,4 @@
-## Q1 Tentative Quarterly goals 
+## Q1 goals 
 
 <details><summary>Campaign Landing Page</summary>
 
@@ -49,35 +49,7 @@
 
 ## Sprint 25
 
-[very much WIP]
-
-### How we work
-
-* finalize content model documentaiton
-
-### Campaign Landing Page 
-
-* TBD editorial experience
-* TBD training 
-* TBD governance
-
-### Benefits hubs
-
-* 
-
-
-### VAMC system
-
-* Menu governance #2427 
-  * IA collaboration with Mikki and Dave
-  * Technical spike into 
-* Policies page
-  * 
-  * 
-* 
-
-### Vet Centers
-
+See https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4143
 
 
 

@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated January 25, 2021
+Last Updated February 16, 2021
 
 ## POCs
 
@@ -64,7 +64,7 @@ We'll need to set up baseline metrics on:
 - Successful saves
 - Errors
 
-It would be nice to have metrics on how this affects paper correspondence, but it has historically been extraordinarily difficult to get this kind of data at the VA.
+It would be nice to have metrics on how this affects paper correspondence, but this has historically not been possible to get. 
 
 # Implementation Info
 
@@ -77,6 +77,7 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **November 2020**: Initial meeting with VA Profile.
 - **December 2020**: Clarifying technical details and timelines with VA Profile.
 - **January 2021**: Backend integration begins; full definition of MVP outlined.
+- **February 2021**: Backend integration continues as we wait for API access from Terry; Team meets with Terry to discuss governance and group filtering.
 
 ## Product Decisions
 

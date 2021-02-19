@@ -31,7 +31,7 @@ Communications items (eg. notification types)
 Groupings (eg. notification categories)
 
 - Groupings allow business line stakeholders to categorize communication items (eg. individual notifications) into meaningful categories, like “Health” or “Disability benefits”. 
-- Users may see different groups based on whether they have permission to see a group or not (eg. user A may see the “health care” group because they are part of the VA health care system, while user B does not see the “health care” group because they are not part of the health care system). However, all items (eg. notifications) in a given group will stay the same for all users who can see that group. Items (eg. notifications) are not customized per user.
+- VA Profile will always send us all groups that they have. **It is up to VA.gov to add any filtering that we might need**, eg. only showing health care groups to people enrolled in VA health care.
 - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define groupings. However, VA.gov will be able to in the future, store an index relating VAProfile Groupings to specific VA.gov areas allowing VA.gov to dynamically tailor the display of permission selection options.
 
 Communication channels (eg. email, text)
@@ -52,7 +52,7 @@ Communications permissions are the actual selection a veteran makes for a specif
 
 Items (eg. notification types), groupings (eg. notification categories), and channels (eg. email and text) **will all be pulled in dynamically from VA Profile**. This means that the VA.gov team **is not responsible for defining these**.
 
-However, though we may not be responsible for defining these, we **are** responsible for maintaining usability and content integrity in the VA.gov profile. As we learn of the specific notifications that will be included in the VA Profile backend, we should work with the VA Profile team to make sure our usability and content standards are met.
+However, though we may not be responsible for defining these, we **are** responsible for maintaining usability and content integrity in the VA.gov profile. As a result, the VA Profile team is already planning to have VA.gov review all updates before they are launched to production. Updates will not be launched to production without our feedback. This means that as different groups, items, or even channels are added, this information will be reviewed with us potentially first through meetings and calls, and then always in our staging environment before it goes live to production. At any point, VA.gov will have the opportunity to come back and recommend changes that are needed to ensure the integrity of usability, security, and content on VA.gov. 
 
 ### MVP: What’s not included
 

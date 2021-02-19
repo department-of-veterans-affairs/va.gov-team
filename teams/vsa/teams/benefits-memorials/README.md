@@ -3,7 +3,7 @@
 - Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Andrea Schneider (andrea.schneider@va.gov) and Luke Majewski (lmajewski@governmentcio.com)
+- Product POCs: Matt Self (matthewself.dvsa@gmail.com and Veronica Henry (vhenry@governmentcio.com)
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
 
@@ -44,10 +44,17 @@ We are within days/weeks of launching.  This product has been in work for almost
 This is our flagship product.  We have seen that our error rate drop from 20% to 8% but we still have some critical fixes to get us to 100%. The team agrees that focusing on 526 before new work is brought on is the ideal scenario.  However, we have Notice of Disagreement.
   - This will never be zero and we need to find time for at least two engagements a week
   - Continued major issue with 526 being fixed
-  - Two types of errors - submission and presubmission and 
+  - Two types of errors - submission and presubmission
+  - BDD support falls under 526 now.
   
 ## Letters
 We are still potentially having some issues there.  We need to revisit letters health soon.
+
+## Contention Auto Classification
+As a Disability Compensation claimant, I need the online application to decipher the condition I have provided so that VA is able to classify the conditions and the correct exam can be ordered to verify the severity (and service connection) of my claim.
+
+## Launch 8940 and 4192 Forms
+As a veteran I need to use the online claims tool to share information about my unemployability so that VA can have everything needed to review my claim.
 
 ## Veteran (Call Center) Support
 Related to 526 health (and in some ways Claims Status Tool) the traffic from Call Center has died down.  This is likely not due to less calls from veterans (although we do hope there has been a reduction) and most likely due no longer receiving them from call center.
@@ -65,6 +72,9 @@ This is a customer that has a direct line to the secretary's office and we have 
   
 ## Supplemental Claims
 Not even on our radar at the moment.  NOD 100% if we are doing new work.
+
+## Blue Water Navy Veterans Identifiers
+Legislation was recently passed to help Blue Water Navy veterans who served in Vietnam with potential exposure to Agent Orange, under very limiting parameters. This will require further discussion with Paul to properly scope, and might need to get further broken down if we'll need to ask a lot of stuff.
   
 ## IDES
 Like BDD (somewhat).  Not on the radar for 2021
@@ -124,6 +134,47 @@ Having the same type of experience on a government website as they would on a pr
 Money spent on programs at the VA will be better utilized.  Increased usage of digital forms and auto establishment will further reduce costs.  Digital flows will also have additional validation and eliminate back-and-forth with claims personnel.  Each product will have a business value proposition that has more details.
 
 ## [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/VA%20KPI%20Setting%20-%20VSA%20Benefits%20and%20Appeals.xlsx)
+
+## Sprint Ceremony Schedule
+
+- *Stand-up: people & product check-ins*
+Monday and Wednesday - 11:00am ET 15 min
+
+Format:
+
+- General Discussion
+
+- What I did yesterday?
+
+- What will I do today?
+
+- Any impediments?
+
+
+*Sprint Planning*
+
+Outline team and member focus, goals for sprint:
+
+- 1st Wednesday of every sprint
+
+- 1-2 hour(s)
+
+*Retro*
+
+Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:
+
+- 2nd Tuesday of every sprint
+
+- 30 min
+
+*Grooming*
+
+Assess and update workload for remainder of sprint:
+
+- 2nd Thursday of every sprint
+
+- 1-hour
+
 
 ---
 

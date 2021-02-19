@@ -8,6 +8,10 @@ function FindProxyForURL(url, host) {
   if (shExpMatch(host,"*.vetsgov-internal")) {
     return PROXY;
   }
+  
+  if (shExpMatch(host,"*.cms.va.gov")) {
+    return PROXY;
+  }
 
   // Everything else directly!
   return "DIRECT";

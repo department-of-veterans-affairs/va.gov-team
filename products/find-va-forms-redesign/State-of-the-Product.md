@@ -98,31 +98,59 @@ Provide a bulleted outline describing the required features of the product
 * [Linking to new online tool form equivalent](URL TBD)
 
 ### Product Analytics
+
    #### Dashboard
+   ```diff
+
+@@ To Be Requested @@
+
+```
+_Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
+
    #### Custom Reports
+   
+   _Tip_ Custom Reports can be shared via email on an ad-hoc or scheduled basis.  The report will only include the active tab shown when the report is scheduled.  Saved reports can also be shared via email
  
-   *Pro-tip* - You can save a specific parameters (tab, dates, filters) of a Custom Report as a **Saved Report** within your own Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
+   _Tip_ - You can save a custom report's parameters (tab active, date range, filters) as a **Saved Report** within _your own_ Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
+   
+   ##### Search Landing Page Metrics
+   
+   |Metric | Report Name | Tab Name | Description | What It Indicates | 
+   |--|--|--|--|--|
+   |Search Landing Unique page views|Find a VA Form Search Landing Page Metrics|Unique Views/Mo|Description| Longer sessions indicate more time required to locate desired form|
+   |Search Landing unique searches|Find a VA Form Search Landing Page Metrics|Unique Searches/Mo|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|Longer sessions indicate more time required to locate desired form|
+  |Metric |Find a VA Form Search Landing Page Metrics | Search Refinements | Description | What It Indicates | 
+  |Metric | Find a VA Form Search Landing Page Metrics | Tab Name | Description | What It Indicates | 
+  |Metric | Find a VA Form Search Landing Page Metrics | Tab Name | Description | What It Indicates | 
+ 
+   ##### Detail Page Metrics
+   
    |Metric | Report Name | Tab Name | Description |
    |--|--|--|--|
-   |Search Landing unique views|Report Name|Tab Name|Description|
-   |Search Landing unique views|Report Name|Tab Name|Description|
+   |Search Landing Unique page views|Report Name|Tab Name|Description|
+   |Search Landing unique searches|Report Name|Tab Name|Description|
+   |Average Session Duration|Report Name|Tab Name|Description|
+   
    
 
 ### Product Enhancements ###
 
 |Name | Description | Launch Date | GitHub Issue | GitHub Directory|
 |--|--|--|--|--|
-|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
-
+|Sort by Last Updated Date|Gives users the ability to sort search results by Last Updated date|2021-02-09|#17732|[sort-by-last-updated](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/sort-by-last-updated)|
+|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|#10758|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
 |--|--|--|--|
 
 ### Product Team ###
+
 |Team|Name|Role|Organization|
 |--|--|--|--|
 |Decision Tools|[John Hashimoto](https://github.com/johnhashva)|Product Owner|USDS/DSVA|
 |Decision Tools|[Marci McGuire](https://github.com/MarciMcGuireGCIO)|Product Manager|GCIO|
 |Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
 |Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
+
 ### Key Artifacts
 
 |Artifacts  | Description |

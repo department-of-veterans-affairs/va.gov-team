@@ -6,7 +6,7 @@
 
 The goal of this study is to validate whether or not the design changes made to this prototype version improve the usability and understandability of the facility product page content to determine if Veterans have enough information to choose care at a Vet Center.
 
-[Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
+[Mobile prototype to be tested](https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449)
 
 
 ### Research questions

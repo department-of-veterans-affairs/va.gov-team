@@ -77,7 +77,7 @@ References:
 ### Citrix PIV web portal (citrixaccesspiv.va.gov) does not accept login certificate
 In Chrome the page title will say: "This site can't provide a secure connection" and the fine print reads: "citrixaccesspiv.va.gov didn't accept your login certificate, or one may not have been provided."
 
-**Solution:** Restart your machine. The source of this issue is unclear, but team members have reported having to do this several times each month.
+**Solution:** Try removing the cookies for the site, if that doesn't work, restart your machine. The source of this issue is unclear, but team members have reported having to do this several times each month.
 
 ### General trouble connective with Chrome browser
 
@@ -86,3 +86,12 @@ In Chrome the page title will say: "This site can't provide a secure connection"
 ### Unable to reconnect after virtual session times out
 
 **Solution:** Try removing the PIV card and quitting the browser before re-trying the sequence above. This worked in Chrome.
+
+### SEC_ERROR_PKCS11_GENERAL_ERROR (Secure Connection Failed)
+Happens to me every time after my session times out.
+
+**Solution:** 
+1. Remove the cookie(s) for the site.
+1. Reload the page. 
+1. Accept the certificate
+

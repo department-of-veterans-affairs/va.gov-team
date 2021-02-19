@@ -1,4 +1,4 @@
-# Weekly sync: Public Websites / 
+# Weekly sync: Public Websites / CMS
 
 <details><summary>About this meeting</summary>
 
@@ -34,6 +34,68 @@
 </summary>
 
 </details>
+
+## Wednesday February 17
+
+ * CLP alpha user review (John and Randi's comments) - [See google doc](https://docs.google.com/document/d/1gUTTX0-8Cm-nBVQ5CI_k15bgqSXHpGNm/edit)
+ * CLP beta user onboarding (any updates)
+
+## Wednesday February 10
+
+### CLP
+
+- CLP Start to finish
+  - John shared [this graphic](https://dsva.slack.com/archives/C52CL1PKQ/p1612966331368900?thread_ts=1612965801.368000&cid=C52CL1PKQ)t
+  - The request form will contain context about the purpose (and constraints!) of a CLP. 
+  - A how to video?
+  - John's estimate is max 12 CLPs per year (but probably less, 8-10?)
+  - Where do Training / guides fit into this? 
+- Character count on Benefits detail page intro field
+
+
+Covered Feb 9 asynchronously / on call about content model doc
+
+- Any further feedback on Content model changes documentation? 
+- Any more FE or Content support needed for CLP? 
+  - Eg: Video bundle now has field_publication_date for CLP
+- Past events (for Outreach hub)
+  - CMS team will build a tool to manually archive past events on prod, but this may not make it into next sprint ([4212](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4212)).  After that, we'll go ahead and archive past outreach events, and let that team know ([#4213](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4213))
+  - CMS team will initiate a spike [4214](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4214) into how best to manage past events across CMS in an automatic way, and we will need product-specific feedback. 
+
+## Wednesday February 3
+
+### How we work
+
+New documentation: [Content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+
+### Upcoming demo environment trainings
+
+Are there any short-term needs?
+
+### CLP
+
+Requirements 
+- [x] Form validation errors with closed fieldsets #4137 @kaise-lafrai  **DONE**
+- [ ] Support "Publication date" for videos. **Next up**
+
+Enhancements
+- [ ] Evaluate possibility of improving hero image cropping help text, as an alternative to #3969 **needs issue**
+- [ ] #3762 Link summary required fields
+
+## Resources and support
+
+- [x] Defect: Related information field should be required on Q&A nodes #4090  
+
+### Video for R&S and CLP
+
+- #3950 Address block styling in Limited rich text editor
+ 
+### Benefits detail pages
+
+### Forms
+
+- [ ] Migration defect: Forms flagged as deleted not being archived by nightly forms migration #4083  @swirtSJW 
+
 
 ## Wednesday January 27
 

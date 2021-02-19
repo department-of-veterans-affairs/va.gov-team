@@ -108,7 +108,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### GCIO / Ad Hoc Channels
 
-va-vsa-ux - this is our “home base” for the team, where we all support each other. Use this channel for:
+#va-vsa-ux - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on designs
 * Asking if other members of the team have worked on anything similar
@@ -122,7 +122,7 @@ va-vsa-ux - this is our “home base” for the team, where we all support each 
 * Posting weekly Wednesday updates with links about what each team member is currently working on, and what’s upcoming
 * Re-posting links from other DSVA channels that we want to make sure the design team sees.
 
-design - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
+#design - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
 * Asking questions about how components are used
 * Asking for “past work” done across the site to help you in your process - e.g. something like “Has anyone else worked on a form that does x?”
 * Asking process questions - e.g. “how have folks typically done x”
