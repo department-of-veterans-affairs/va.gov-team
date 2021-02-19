@@ -1,8 +1,8 @@
 # Privacy and Security Review
-Privacy & Security Reviews are required for all products launching on VA.gov.
+Privacy and Security Reviews are required for all products launching on VA.gov.
 
 ## When should I request this touchpoint?
-When the product is in Staging and before you begin rollout, allowing enough time to implement feedback.
+When the product is in staging and before you begin rollout, allowing enough time to implement feedback.
 
 ## What is the collaboration format?
 Asynchronous review. A synchronous 30-minute meeting may be requested.
@@ -41,7 +41,7 @@ VFS provides:
 ## What is the outcome of this touchpoint?
 VSP provides a list in a Github ticket of concrete action items that need to be addressed before product rollout. 
 
-When the VFS team has completed action items, they should assign the Security Review ticket back to @Michael Fleet, who will confirm completion and close out the issue, signalling approval of the Privacy and Security review.
+When the VFS team has completed action items, they should assign the Security Review ticket back to @Michael Fleet, who will confirm completion and close out the issue, signaling approval of the Privacy and Security review.
 
 If no issues are raised during the Privacy and Security review, then VSP will approve the product for launch. 
 
