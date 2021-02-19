@@ -57,7 +57,7 @@ On this calendar, you will see:
 
 This is VSP's source of truth for which Collaboration Cycle touchpoints are recommended for each product. This spreadsheet includes links to Github tickets as well as Zoom recordings. This spreadsheet is not editable by VFS teams, so if you notice anything is missing, please let us know!
 
-## Practice Areas supported by the Collaboration Cycle
+## Practice areas supported by the Collaboration Cycle
 #### Design
 * Design Support: Allison Christman
 * [Platform Design Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
