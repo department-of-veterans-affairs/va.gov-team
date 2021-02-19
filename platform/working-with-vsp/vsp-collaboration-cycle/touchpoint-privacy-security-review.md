@@ -19,6 +19,7 @@ VFS brings:
 - Product manager (required)
 - DEPO product lead (required)
 - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
+
 VSP brings:
 - Engineering experts (Michael Fleet and/or Joe Niquette, others as needed)
 
