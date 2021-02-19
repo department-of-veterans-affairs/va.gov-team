@@ -11,7 +11,7 @@ Prepared by: Megan Gayle, Search & Discovery
 | Total | 10 | 10 |
 | Desktop | 5 | 5 |
 | Mobile:heavy_exclamation_mark: | 5 | 4 |
-| Tablet:heavy_exclamation_mark: | 0 | 1 |
+| Tablet | 0 | 1 |
 | Screen reader:heavy_exclamation_mark: | 1 | 0 |
 | Identified cognitive<br> impairments and/or <br>functional disabilities | 5 | 6  |
 | High School or Below | 5 | 5 |
