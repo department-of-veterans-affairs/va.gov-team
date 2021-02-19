@@ -23,6 +23,7 @@ VFS brings:
   - DEPO Design lead (recommended)
   - Content, IA, accessibility, and QA specialists (if applicable)
   - Other stakeholders you want to invite (if applicable)
+
 VSP brings (when applicable):
   - Design
   - Accessibility
