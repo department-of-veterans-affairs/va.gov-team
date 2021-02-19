@@ -10,7 +10,7 @@ assignees: 1Copenut, shiragoodman, noahgelman
 ## Steps to complete the Full Accessibility & 508 Audit: 
 - [ ] VFS: Verify all accessibility defects that were identified at Staging Review have been fixed before requesting a full audit *(VSP understands that other teams may be accountable for fixing the defects identified at Staging Review. These defects are exempt and will not block a team from scheduling this touchpoint)*
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title
-- [ ] VFS: Link to this issue once created in #vfs-platform-support in Slack; tag @ Trevor Pierce
+- [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) in Slack; tag @ Trevor Pierce
 - [ ] VSP: Create sub-issues attached to this epic with findings. Audits are performed on a first-come-first-serve basis and are scheduled with each biweekly sprint
 - [ ] VFS: Coordinate with the VA 508 Office to address accessibility findings
 - [ ] VSP: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
