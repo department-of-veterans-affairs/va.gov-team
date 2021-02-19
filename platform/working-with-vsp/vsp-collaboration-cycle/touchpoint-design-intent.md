@@ -14,16 +14,16 @@ VFS team: You’ll introduce your new work initiative and discuss existing solut
 We recommend a synchronous meeting for the Design Intent touchpoint since this is the first time you’re introducing VSP to your product and/or iteration. However, if you would like an asynchronous review, VSP will provide feedback on the artifacts you provide to guide VFS teams toward VA.gov platform standards.
 
 ## How do I request this touchpoint?
-VFS Product Manager submits a [Design Intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ef1d32d52321a7532bb5c84a3b2e0c609fb0fdf0/.github/ISSUE_TEMPLATE/design-intent-collaboration.md). 
+VFS Product Manager submits a [Design Intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+allison0034&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=design-intent-collaboration.md&title=Design+intent+%5BTeam+Name+-+Feature+Name%5D). 
 ## Who attends this touchpoint?
-- VFS brings:
+VFS brings:
   - Designer(s) (required)
   - Product Manager (required)
   - DEPO Product Lead (recommended)
   - DEPO Design lead (recommended)
   - Content, IA, accessibility, and QA specialists (if applicable)
   - Other stakeholders you want to invite (if applicable)
-- VSP brings (when applicable):
+VSP brings (when applicable):
   - Design
   - Accessibility
   - Content
