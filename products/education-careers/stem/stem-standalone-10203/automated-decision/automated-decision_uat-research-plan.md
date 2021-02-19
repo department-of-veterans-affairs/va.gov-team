@@ -17,38 +17,43 @@ As a designer I need to create a research plan to share with my team.	(This shou
 ## Method	
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Remote moderated user acceptance testing with Veterans on Production 	
-2.	Why this method? How does this methodology help you answer your research questions? We are unable to complete testing on staging due to lack of EVSS test data located there. With this, the best way to test that the functionality is worked as expected is with Veterans on Production through submissions of actual applications. 
+2.	Why this method? How does this methodology help you answer your research questions? We are unable to complete testing on staging due to limitations of EVSS test data located there. With this, the best way to test that the functionality is working as expected is with Veterans on Production through submissions of actual applications. 
 3.	Where are you planning to do your research? Via webconference and screenshare
 4.	What will you be testing? The live 22-10203 application  	
 5.  If remote: What tool do you plan to use? Zoom via Perigean
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
-3 with Power of Attorneys for ineligible participants (from the two buckets below) 
-- This data comes from LTS 
-- Is there a way that Veterans can validate that the POA is recorded within LTS? We don't know of this being displayed anywhere on VA.gov other than within their medical claims. **(Ask about this in Platform slack)**
-- The recruiting team would need to verify with the Veteran that they do have  POA on file with the VA. 
-- Is the EDU POA the same as a medical POA? All the same?
+We are hoping to recruit 10 total participants: 
+- 8 ineligible particiapnts 
+   - Of the 8 ineligible, we'd like at least 3 of them to have Power of Attorneys on file with LTS/VA.gov
+- 2 eligible participants
 
-4 Ineligible due to program type
-- You must have one of these free accounts:
+More specifically: 
+- 4 Ineligible participants due to program type
+- 4 Ineligible participants due to remaining entitlement
+- 2 Eligible participants
+
+4 Ineligible applicants (ineligible due to program of study)
+- You must have one of these free accounts to log in to VA.gov:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
-- Have applied for Post-9/11 GI Bill Benefits - verify this is needed; we could leave this off
-- Received a decision from the VA on your application  - verify this is needed; we could leave this off
-- Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math.
-- Add question about teaching cert
+- Have applied for Post-9/11 GI Bill Benefits (Chapter 33)
+- Received a decision from the VA on your application  (Chapter 33)
+- Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM) OR are currently enrolled in a teaching certificate program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM)
+   - For this criteria we can provide a PDF of all STEM program types. 
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
-- Do you have a Power of Attorney?
+- Do you have a Power of Attorney on record on VA.gov?
 
 
-4 Ineligible due to remaining entitlement
-- You must have one of these free accounts:
+4 Ineligible applicants (ineligible due to chapter 33 entitlement remaining)
+- You must have one of these free accounts to log in to VA.gov:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
@@ -60,70 +65,96 @@ As a designer I need to create a research plan to share with my team.	(This shou
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
-- Do you have a Power of Attorney?
+- Do you have a Power of Attorney on record on VA.gov?
+
+   3 Ineligible participants (from the two groups above) with a Power of Attorney
+      - Do you have a Power of Attorney on Record on VA.gov (this is a criteria we are currently investigating to see if there is a way   for participants to verify prior to participating in our sessions). 
 
 2 Eligible 
-- You must have one of these free accounts:
+- You must have one of these free accounts to log in to VA.gov:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
 - Have applied for Post-9/11 GI Bill Benefits
 - Received a decision from the VA on your application
-- Currently enrolled in a STEM program
-- using their post-9/11 GI Bill Benefits to pay for their program of study
+- Currently enrolled in a STEM degree program or teaching certificate program
+- Utilizing your post-9/11 GI Bill Benefits to pay for your program of study
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
 - Do you have a Power of Attorney?
-
 
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
-All participants must: 
+### All participants must: 
 - Be veterans
 - Be able to sign in to VA.gov and view their remaining entitlement (instructions below)
 - Currently using post-9/11 (Chapter 33) GI Bill benefits
 
-3 Ineligible participants due to program type
-- Currently enrolled in a higher education program that is NOT in the field of Science, Technology, Engineering, or Math.
+
+#### 4 Ineligible applicants (ineligible due to program of study)
+- You must have one of these free accounts to log in to VA.gov:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits (Chapter 33)
+- Received a decision from the VA on your application  (Chapter 33)
+- Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM) OR are currently enrolled in a teaching certificate program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM)
+   - For this criteria we can provide a PDF of all STEM program types. 
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
-   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+- Do you have a Power of Attorney on record on VA.gov?
 
-3 Ineligible participants due to remaining entitlement
+
+#### 4 Ineligible applicants (ineligible due to chapter 33 entitlement remaining)
+- You must have one of these free accounts to log in to VA.gov:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits
+- Received a decision from the VA on your application
 - Currently enrolled in a higher education program that IS in the field of Science, Technology, Engineering, or Math.
+- Add question about teaching cert
 - More than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
-   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+- Do you have a Power of Attorney on record on VA.gov?
 
-2 Eligible participants
-- Currently enrolled in a STEM program
-- using their post-9/11 GI Bill Benefits to pay for their program of study
+##### 3 Ineligible participants (from the two groups above) with a Power of Attorney
+      - Do you have a Power of Attorney on Record on VA.gov (this is a criteria we are currently investigating to see if there is a way   for participants to verify prior to participating in our sessions). 
+
+#### 2 Eligible applicants
+- You must have one of these free accounts to log in to VA.gov:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits
+- Received a decision from the VA on your application
+- Currently enrolled in a STEM degree program or teaching certificate program
+- Utilizing your post-9/11 GI Bill Benefits to pay for your program of study
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
-   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
-- Are you a Veteran who recently started using your Chapter 33 Post-9/11 education benefits? 
-- Please respond to this email with your remaining entitlement and program of study. You can check your remaining entitlement by following the steps listed below: 
-   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
-   - Sign into your account
-   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+None (all are primary)
 
 2.	What is your recruitment strategy? 	
 Plan to draw from the existing recruiting contract - Perigean
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-   TBD
+March 2-12, 2021
 
 2.	Prepare: When will the thing you are testing be ready? 
-TBD
+March 1
 
 3. Length of Sessions: How long do you estimate each session will be? 
 30 minutes with a 15 minute buffer time between sessions. 
@@ -131,10 +162,18 @@ TBD
 4.	Availability: If applicable, when would you like sessions scheduled? 
 15 minute buffer between sessions
 All times below in EST: 
-TBD
+- March 2 - 10AM - 1:30PM; 2:30PM - 5PM
+- March 3 - 10AM-5PM
+- March 4 - 10AM-2PM; 3PM - 5PM
+- March 5 - 10AM-5PM
+- March 8 - 10AM - 3PM; 4PM - 5PM
+- March 9 - 10AM - 1:30PM; 3PM - 5PM
+- March 10 - 10AM - 5PM
+- March 11 - 12PM - 2PM; 3PM-5PM
+- March 12 - 12PM - 5PM
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-TBD 
+March 1
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
