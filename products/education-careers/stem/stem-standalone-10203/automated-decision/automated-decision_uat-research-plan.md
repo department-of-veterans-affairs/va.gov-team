@@ -1,6 +1,4 @@
-# UAT Research Plan for STEM Scholarship (22-10203) Automated Decision
-
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+# UAT Research Plan for STEM Scholarship (22-10203) Automated Decisio
 
 ## Goals	
 1. What product & team are you doing this research for?
