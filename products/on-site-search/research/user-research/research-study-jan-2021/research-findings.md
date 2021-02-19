@@ -1,4 +1,4 @@
-# VA.gov Search Research Findings**
+# VA.gov Search Research Findings
 
 Prepared by: Megan Gayle, Search & Discovery
 
@@ -64,28 +64,34 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
 2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.
 3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevent results for their search terms. 
 4. Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.
-5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Most were able to find "Find a Facilty" located on the header of VA.gov.
+5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Participants were more likely to see Find a Facility than Find a Form because of its location on the header.
 
 ## Details of Findings
 
 **1. Most began their journey in looking for information on eBenefits and VA.gov.** Most participants mentioned looking on eBenefits and VA.gov and a few expressed frustration over having to switch between the two sites. Other sites mentioned were: Google, Blogs, Reddit, Facebook Groups. A current service member mentioned asking other military members about benefits available to him. A few veterans mentioned calling the VA. 
 
-**2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.** When asked to look for more information related to a benefit they were receiving, most participants either went to the dropdown navigation or scanned the links on the homepage. 
+**2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.** When asked to look for more information related to a benefit they were receiving, most participants either went to the dropdown navigation or scanned the links on the homepage. When specifically asked to use the search feature, most were able to find it. Some participants were pointed directly to it in the interest of time. 
 
-**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevent results for their search terms.** 
+**3. Most participants only looked at the first few results, focusing on the keywords in the titles. They were not always shown relevent results for their search terms.** When asked how far they typically look through search results most stated that they would not look past the first page and usually only the first few results. Most seemed to focus on the titles of the search result links and ignored the descriptions. This highlights the need to ensure that we have relevant links appearing on top of the search results. If a particant did not type a form exactly as it appears on the title, both global search and Find a Form would fail to provide a direct link to the form.
 
 **4. Most participants did not click on a typeahead suggestion. 6 out of 10 said they would like to filter results in some way.** 
+Most participants did not click on a typeahead suggestion. This is counter to the data that currently shows that 2/3rds of users who are shown a typeahead suggestion are clicking on them. 6 participants said they would prefer filters, many stated they would prefer category filters. One participant stated she would want to filter by 'new applicant'. One participant wanted to add another search term within their initial search.
 
-**5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Most were able to find "Find a Facilty" located on the header of VA.gov.** 
+**5. Most participants did not see the right rail with "More VA search tools" because of browser width/mobile use. Participants were more likely to see Find a Facility than Find a Form because of its location on the header.** The right rail did not show even on most desktops because of how the media queries were set up. Participants usually used global search to look for a form as they did not see the Find a Form link. 
 
 
 ## Additional Insights
 
 - Veterans who have been out of the military might have issues finding information on VA.gov due to "military jargon". 
+- Two participants on iOS devices (iPhone and iPad) had loading issues on all search feature pages. This may have been a bug on staging.
 
 
 ## Recommendations
 - Include Caregivers, Family Members, and more Veterans who have been out of the military for 10+ years to find further pain points related to "military jargon".
+- Increase heirarchy on search results page, emphasise link titles.
+- Improve search result descriptions to be more succinct and helpful. Talk to search.gov about metadata descriptions
+- Improve "More VA.gov Search Tools" section. Audit links and text. Remove right rail and place links elsewhere to ensure that users on all browser widths can see links. 
+- QA search features (global search, Find a Form, Find a Facility) on iOS to ensure the loading bug was only on staging.
 
 
 ## Next Steps
