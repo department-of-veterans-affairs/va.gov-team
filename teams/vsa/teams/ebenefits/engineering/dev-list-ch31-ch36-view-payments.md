@@ -44,6 +44,23 @@ Ascertain remaining tasks for these features
 
 </details>
 
+<details><summary>Search for a VA Representative</summary>
+
+## Search for a VA Representative
+### Product
+- Request formal 508 audit (1)  (Now happening in staging review)
+- Load TestRail (2)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions (2)
+- 🌀 Staging Review (1)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)
+
+### Frontend
+### Backend
+
+</details> 
+
 <details><summary>Appoint my VA Representative (with Search inline with form)</summary>
 
 ## Appoint my VA Representative (with Search inline with form)
@@ -96,27 +113,10 @@ Ascertain remaining tasks for these features
 - 🌀 UAT (2)
 
 </details>
-
-<details><summary>Search for a VA Representative</summary>
-
-## Search for a VA Representative
-### Product
-- Request formal 508 audit (1)  (Now happening in staging review)
-- Load TestRail (2)  
-- 🌀 Request QA Audit (1) 
-- 🌀 Usability Prep and sessions (2)
-- 🌀 Staging Review (1)  
-- 🌀 Privacy and Security Audit (2) 
-- 🌀 UAT (2)
-
-### Frontend
-### Backend
-
-</details> 
  
-<details><summary>Chapter 36 (Deadline January 4, 2020)</summary> 
+<details><summary>Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
 
-## Chapter 36 (Deadline January 4, 2020)
+## Chapter 36 (Launched January 4, 2020)
 
 ### Product
 - ✔ Request formal 508 audit (1)  (Happening in staging review)
@@ -166,7 +166,7 @@ Total = 24
 
 <details><summary>View my VA payment history</summary> 
 
-## View my VA payment history (No established deadline)
+## View my VA payment history (Launched 100% January 8, 2020)
 ### Product
 - ✔ Request formal 508 audit (1)  
 - ✔ Load TestRail (2)  
@@ -202,7 +202,7 @@ Total = 26
 
 <details><summary>Chapter 31 (Deadline December 2020)</summary>
 
-## Chapter 31 (Deadline December 2020)
+## Chapter 31 (Deadline April 19, 2020)
 ### Product
 - Request formal 508 audit (1)
 - ✔ Load TestRail (2)
@@ -251,8 +251,6 @@ Total = 41
 <details><summary>Modify Dependents Formlet</summary>
 
 ## Modify Dependents Formlet
-
-
 ### Front End
 - [18958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18958) Add collapsing "card" that opens with "Remove This Dependent" button
 - [18959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18959) Add Form components inside collapsing "card" based on dependent type
@@ -269,6 +267,12 @@ Total = 41
 
 </details>
 
+
+
+
+``` diff
+- ignore for now:
+```
 ## Sprint 40
 - Confirm 28-1900 is saving in VBMS
 - Add feature toggle to `/intro` page
