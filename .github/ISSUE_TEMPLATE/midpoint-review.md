@@ -19,7 +19,7 @@ assignees: andreahewitt-odd, shiragoodman
 
 
 ## Artifacts
-- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Link to or attach prototype or mockups
 - Link to content brief (if applicable)
 - Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md))  and conversation guide ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
@@ -33,9 +33,9 @@ assignees: andreahewitt-odd, shiragoodman
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Scheduling
-Would you like this review to be asynchronous? Please refer to the Midpoint Review guidance for the difference between a synchronous meeting and an asynchronous review. 
-[ ] Yes
-[ ] No
+Would you like this review to be asynchronous? Please refer to the Midpoint Review guidance for the difference between a synchronous meeting and an asynchronous review.
+- [ ] Yes
+- [ ] No
  
 What is your preferred time slot per the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? **date/time**
  
