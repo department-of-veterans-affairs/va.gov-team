@@ -114,93 +114,7 @@ Ascertain remaining tasks for these features
 
 </details>
  
-<details><summary>Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
-
-## Chapter 36 (Launched January 4, 2020)
-
-### Product
-- ✔ Request formal 508 audit (1)  (Happening in staging review)
-- ✔ Load TestRail (2)  
-- 🌀✔ Request QA Audit (1) 
-- 🌀✔ Usability Prep and sessions (2)
-- 🌀 ✔ Staging Review (1)  12/17/2020
-- 🌀 ✔ Privacy and Security Audit (2)  12/17/2020
-- 🌀 UAT (2)   12/28/2020
-Total = 11
-
-### Front End
-- ✔ [#12829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12829) Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not (5)
-- ❌ [#12830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12830) Add logic for showing/ hiding Dependent Information and Dependent Address pages based on if user is logged in or not (5)
-- ✔ [#12424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12424) Add schema for CH36 to `vets-json-schema` repo (3)
-- ✔ [#13172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13172) Add unit tests for CH36 schema in `vets-json-schema` repo (3)
-- ✔ [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833) Unit test static Veteran Information page (3)
-- ✔ [#12049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test Veteran Information page (3)
-- ✔ [#12048](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test for Claimant Info page (3)
-- ❌ [#12832](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12832) Unit Test Veteran Address page (3)
-- ❌ [#12053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12053) Unit test Contact Preferences page (3)
-- ✔ [#12831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12831) Unit test Claimant Address page (3)
-- ✔ [#12834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Connect and test BE endpoint for CH36 (2)
-- ✔ [#12059](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12059) e2e Test Dependent workflow (3)
-- ✔ [#12835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12835) e2e test Veteran workflow NOT logged in (3)
-- ✔ [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
-- ✔ [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
-- ✔ [#12057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)  
-- ✔ [#13129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13129) Flipper component for unauth landing page (3)  
-Total = 49    
-2 Sprints should be doable based on FE sprint average of: 30 points across 9 issues  
-
-### Backend
-- ✔ [#12901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12901) PDF creation from CH36 form 
-- ✔ [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Submits via Central Mail Submission for CH36 (3)
-- ✔ [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
-- ✔ [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
-- ❌ [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
-- ✔ [#13273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13273) Send SSN and DOB data to BGS (3)
-- [?] Set up sentry events  (5)
-- [?] Test submission against environment (5)  
-  - Submitting unauth? Nah, wrap it in the controller 
-Total = 24  
-2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
-
-</details>
-
-<details><summary>View my VA payment history</summary> 
-
-## View my VA payment history (Launched 100% January 8, 2020)
-### Product
-- ✔ Request formal 508 audit (1)  
-- ✔ Load TestRail (2)  
-- ✔Request QA Audit (1)  
-- ✔ Staging Review (1)  12/18/2020
-- Privacy and Security Audit (2)  12/15/2020 
-Total = 7
-
-### Frontend
-- ✔ [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
-- 🔽 [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
-- ✔ [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
-- ✔ [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
-- 🔽 [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) `low priority`
-- ✔ [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
-- ✔ [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test Redux (3)
-- ✔ [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
-- ✔ [#13512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13512) Meet with GA team (1)
-- ❌ [#13513](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13513) Implement event names from GA team (2)
-- ✔ [#12001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12001) Internal a11y audit (2)  
-Total = 37
-
-### Backend
-- ✔ Build a serializer (5)
-- ✔ Set up the controller (3)
-- ❌ Set up the model (5)
-- ❌ Set up a sidekiq job  (3)
-- ✔ Set up sentry events  (5)
-- Test submission against environment (5)  
-Total = 26
-
-</details>
-
-<details><summary>Chapter 31 (Deadline December 2020)</summary>
+ <details><summary>Chapter 31 (Deadline December 2020)</summary>
 
 ## Chapter 31 (Deadline April 19, 2020)
 ### Product
@@ -264,6 +178,92 @@ Total = 41
 - Meet with GA team
 - Implement event names from GA team
 - Internal a11y audit 
+
+</details>
+ 
+<details><summary>Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
+
+## Chapter 36 (Launched January 4, 2020)
+
+### Product
+- ✔ Request formal 508 audit (1)  (Happening in staging review)
+- ✔ Load TestRail (2)  
+- 🌀✔ Request QA Audit (1) 
+- 🌀✔ Usability Prep and sessions (2)
+- 🌀 ✔ Staging Review (1)  12/17/2020
+- 🌀 ✔ Privacy and Security Audit (2)  12/17/2020
+- 🌀 UAT (2)   12/28/2020
+Total = 11
+
+### Front End
+- ✔ [#12829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12829) Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not (5)
+- ❌ [#12830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12830) Add logic for showing/ hiding Dependent Information and Dependent Address pages based on if user is logged in or not (5)
+- ✔ [#12424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12424) Add schema for CH36 to `vets-json-schema` repo (3)
+- ✔ [#13172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13172) Add unit tests for CH36 schema in `vets-json-schema` repo (3)
+- ✔ [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833) Unit test static Veteran Information page (3)
+- ✔ [#12049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test Veteran Information page (3)
+- ✔ [#12048](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test for Claimant Info page (3)
+- ❌ [#12832](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12832) Unit Test Veteran Address page (3)
+- ❌ [#12053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12053) Unit test Contact Preferences page (3)
+- ✔ [#12831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12831) Unit test Claimant Address page (3)
+- ✔ [#12834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Connect and test BE endpoint for CH36 (2)
+- ✔ [#12059](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12059) e2e Test Dependent workflow (3)
+- ✔ [#12835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12835) e2e test Veteran workflow NOT logged in (3)
+- ✔ [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
+- ✔ [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
+- ✔ [#12057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)  
+- ✔ [#13129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13129) Flipper component for unauth landing page (3)  
+Total = 49    
+2 Sprints should be doable based on FE sprint average of: 30 points across 9 issues  
+
+### Backend
+- ✔ [#12901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12901) PDF creation from CH36 form 
+- ✔ [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Submits via Central Mail Submission for CH36 (3)
+- ✔ [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
+- ✔ [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
+- ❌ [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
+- ✔ [#13273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13273) Send SSN and DOB data to BGS (3)
+- [?] Set up sentry events  (5)
+- [?] Test submission against environment (5)  
+  - Submitting unauth? Nah, wrap it in the controller 
+Total = 24  
+2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
+
+</details>
+
+<details><summary>View my VA payment history (Launched 100% January 8, 2020)</summary> 
+
+## View my VA payment history (Launched 100% January 8, 2020)
+### Product
+- ✔ Request formal 508 audit (1)  
+- ✔ Load TestRail (2)  
+- ✔Request QA Audit (1)  
+- ✔ Staging Review (1)  12/18/2020
+- Privacy and Security Audit (2)  12/15/2020 
+Total = 7
+
+### Frontend
+- ✔ [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
+- 🔽 [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
+- ✔ [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
+- ✔ [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
+- 🔽 [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) `low priority`
+- ✔ [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
+- ✔ [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test Redux (3)
+- ✔ [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
+- ✔ [#13512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13512) Meet with GA team (1)
+- ❌ [#13513](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13513) Implement event names from GA team (2)
+- ✔ [#12001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12001) Internal a11y audit (2)  
+Total = 37
+
+### Backend
+- ✔ Build a serializer (5)
+- ✔ Set up the controller (3)
+- ❌ Set up the model (5)
+- ❌ Set up a sidekiq job  (3)
+- ✔ Set up sentry events  (5)
+- Test submission against environment (5)  
+Total = 26
 
 </details>
 
