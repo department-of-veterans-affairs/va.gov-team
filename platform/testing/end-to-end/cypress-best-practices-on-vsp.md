@@ -423,7 +423,9 @@ let axeBuilder = {
 
 The [axeCheck helper method](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js) scans pages for Section 508, WCAG2.0 A, and WCAG2.0 AA rulesets every time it is called in a Cypress end-to-end test.
 
-The configuration object also disables color-contrast checks. [Disabling the color-contrast rule](https://www.deque.com/axe/core-documentation/api-documentation/#other-strategies) was carefully considered and discussed with the VA 508 office as a way to improve build times and reduce false positive tests. Teams should re-enable the color-contrast check on 1-2 tests per suite.
+The configuration object also disables color-contrast checks. [Disabling the color-contrast rule](https://www.deque.com/axe/core-documentation/api-documentation/#other-strategies) was carefully considered and discussed with the VA 508 office as a way to improve build times and reduce false positive tests.
+
+VSP relies on [foundational accessibility tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required) and automated unit tests to provide good coverage for color contrast. VSP also strongly encourages teams to **re-enable the color-contrast check on one or two Cypress tests per suite**.
 
 #### Enable full rulesets
 
