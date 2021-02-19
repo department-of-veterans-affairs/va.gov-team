@@ -141,11 +141,29 @@ How will we measure performance of Web Components, lazy-loading, etc?
 
 #### Risks
 
+##### Tech debt
+
 Even though Web Components are already a feature provided by the browser, this is a feature that the VA Design System hasn't yet taken advantage of. By introducing this "new" technology, there is a possibility of this just turning into technical debt if it exists alongside the current `component-library`, `formation` component styles, and Liquid templates for components. In order to avoid this, we want to be agressive about this migration and get out of the transitionary period as quickly and feasibly as we can.
 
 A Web Component library will be most effective and easiest to maintain if it is the _only_ component library.
 
+##### Deprecation
+
 An additional risk would be if certain features of the Web Component standard are deprecated or otherwise become obselete. We are already in a similar situation with React components - our `component-library` consists of many "legacy" class-based components rather than functional components which have the option to use hooks.
+
+##### Abandoned development
+
+Web Components are a feature that is already built into modern browsers, but they don't have as wide of an industry adoption as a framework like React. Despite this, it is unlikely that the Web Component standard will be completely abandoned. There are many large companies which are already developing products using Web Components:
+
+- Youtube
+- GitHub
+- Xfinity (Comcast)
+- [Apple Music](https://hackernoon.com/apple-cements-the-unlikely-rise-of-web-components-6b1d3g1t)
+- [Adobe](https://opensource.adobe.com/spectrum-web-components/)
+
+There aren't any published articles detailing Web Component adoption by the companies without links, but Web Components can be found on their websites.
+
+##### Browser support
 
 Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. To mitigate this risk, we will only use Web Component features which are supported with or without pollyfills on all [supported browsers](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/browser-support/).
 
