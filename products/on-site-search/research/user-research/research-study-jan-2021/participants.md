@@ -5,7 +5,7 @@
 | Mobile | 5 | 4 |
 | Tablet | 0 | 1 |
 | Screen reader | 1 | 0 |
-| Identified cognitive<br> impairments and/or <br>functional disabilities | 5 | 4  |
+| Identified cognitive<br> impairments and/or <br>functional disabilities | 5 | 6  |
 | High School or Below | 5 | 5 |
 | Urban  | 4 | 3 |
 | Rural  | 6 | 7 |
