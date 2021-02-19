@@ -8,7 +8,7 @@ assignees: andreahewitt-odd, shiragoodman
 ---
 
 ## Steps to complete Collaboration Cycle Kickoff
-- [ ] VFS Product Manager: Create this issue and fill in feature name in the title and other bolded information appropriately
+- [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title
 - [ ] VFS: Answer the questions below
 - [ ] VFS: Link to this issue once created in vfs-platform-support in Slack; tag @vsp-product-support-members
 - [ ] VSP: Review the responses and comment in ticket with recommended touchpoints and practice area involvement
