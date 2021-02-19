@@ -1,6 +1,6 @@
 # Authenticated experience team charter
 
-**Feb 18th, 2021**
+**Last updated February 19, 2021**
 
 ## What we strive for
 
@@ -35,14 +35,9 @@ To move us towards this vision, our current mission is to create a logged in exp
 
 ### Product Portfolio
 
-* MyVA Dashboard 2.0
-* Combining profile and account (Profile 2.0)
-* Logged-in navigation
-* Personalized content for logged in users (Profile)
-
 ### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
-### [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
+### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)
 
 ## Workflow + Cadence
 
