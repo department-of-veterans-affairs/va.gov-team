@@ -271,7 +271,7 @@ Total = 41
 
 
 ``` diff
-- ignore for now👇
+- ignore for now 👇
 ```
 ## Sprint 40
 - Confirm 28-1900 is saving in VBMS
