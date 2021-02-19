@@ -174,6 +174,15 @@ Outstanding tickets from last sprint, plus:
 
 ## Sprint 44 (3/24 - 4/6)
 
+### Profile
+
+**Design**
+
+There are a couple of enhancements I'd like to knock out this sprint:
+
+- Add FAQ around what departments get updated when a veteran updates their contact info #20221
+- Add email for when someone updates their contact information
+
 ### My VA redesign
 
 **PM**
