@@ -97,6 +97,8 @@ Ascertain remaining tasks for these features
 
 </details>
 
+<details><summary>Search for a VA Representative</summary>
+
 ## Search for a VA Representative
 ### Product
 - Request formal 508 audit (1)  (Now happening in staging review)
@@ -110,7 +112,9 @@ Ascertain remaining tasks for these features
 ### Frontend
 ### Backend
 
-  
+</details> 
+ 
+<details><summary>Chapter 36 (Deadline January 4, 2020)</summary> 
 
 ## Chapter 36 (Deadline January 4, 2020)
 
@@ -158,6 +162,10 @@ Total = 49
 Total = 24  
 2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
 
+</details>
+
+<details><summary>View my VA payment history</summary> 
+
 ## View my VA payment history (No established deadline)
 ### Product
 - ✔ Request formal 508 audit (1)  
@@ -189,6 +197,10 @@ Total = 37
 - ✔ Set up sentry events  (5)
 - Test submission against environment (5)  
 Total = 26
+
+</details>
+
+<details><summary>Chapter 31 (Deadline December 2020)</summary>
 
 ## Chapter 31 (Deadline December 2020)
 ### Product
@@ -234,29 +246,9 @@ Total = 41
 - Set up sentry events 
 - Test submission against environment
 
-## Sprint 40
-- Confirm 28-1900 is saving in VBMS
-- Add feature toggle to `/intro` page
+</details>
 
-## Feb 8, 2021
-Request 508 Audit
-Request QA Audit
-
-## Feb 15, 2021
-- Staging and Privacy/Security
-- Contact Center Documentation
-## Feb 22, 2021 
-- UAT
-
-## March 1, 2021 
-- 100% Launch
-  
-  
-  
-Product Subtotal (21)  
-FE Subtotal (128)  
-BE Subtotal (79-84)  
-  
+<details><summary>Modify Dependents Formlet</summary>
 
 ## Modify Dependents Formlet
 
@@ -275,8 +267,31 @@ BE Subtotal (79-84)
 - Implement event names from GA team
 - Internal a11y audit 
 
+</details>
+
+## Sprint 40
+- Confirm 28-1900 is saving in VBMS
+- Add feature toggle to `/intro` page
+
+## Feb 8, 2021
+Request 508 Audit
+Request QA Audit
+
+## Feb 15, 2021
+- Staging and Privacy/Security
+- Contact Center Documentation
+## Feb 22, 2021 
+- UAT
+
+## March 1, 2021 
+- 100% Launch
+   
   
-  
+Product Subtotal (21)  
+FE Subtotal (128)  
+BE Subtotal (79-84)  
+    
+ 
 ....old:
 
 Mean FE Velocity/sprint [30 points across 9 issues]   
