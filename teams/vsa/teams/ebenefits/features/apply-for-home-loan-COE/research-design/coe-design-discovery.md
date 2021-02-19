@@ -84,7 +84,7 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
   
-  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Breakdown_1.png)
 </details>
 
 #### Proposed VA.gov feature flow
@@ -92,7 +92,7 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
   
-  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Usecase_Workflows_1.png)
 </details>
 
 #### Suggested IA placement
@@ -100,7 +100,7 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
   
-  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
 </details>
 
 #### Potential improvements
