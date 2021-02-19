@@ -180,6 +180,22 @@ Total = 41
 - Internal a11y audit 
 
 </details>
+
+<details><summary>Dependency Verification Modal</summary>
+  
+## Dependency Verification Modal
+### Front End 
+- Scaffold application
+- Add list component of dependents
+- Add Redux to application
+- Add pop-up logic for when modal appears
+- Swap dummy api calls for real calls to BE
+- Create e2e tests
+- Meet with GA team
+- Implement event names from GA team
+- Internal a11y audit
+  
+</details>
  
 <details><summary>✔ Personalized Career Planning And Guidance (Chapter 36) (Launched 100% January 4, 2020)</summary> 
 
