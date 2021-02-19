@@ -27,4 +27,4 @@
 
 ### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md)
 
-### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
+### [Authenticated experience roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)
