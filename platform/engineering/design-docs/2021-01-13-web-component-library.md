@@ -90,7 +90,7 @@ Once a new release is made for the Web Component library, we will [configure a l
 
 Next, if we believe a particular component migration will be problematic the Design System team will reach out to a VFS team to work with them on the migration. Once the first team has completed their migration to the new Component, we will announce the success and encourage other teams to do the same. At this point we will provide support for the migration if requested, but we will no longer provide support for the legacy React component.
 
-After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov.
+After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov. However, our Web Components will exist in `va.gov` alongside other React components and remaining `formation` styles.
 
 Additionally, the Storybook stories for the React component will be replaced by a simple document that points the user to a different Storybook host that is exclusively for Web Components. See [Chromatic hosting](#chromatic-hosting) for possible future work to improve on this.
 
