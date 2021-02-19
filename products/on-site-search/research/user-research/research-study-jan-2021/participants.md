@@ -1,15 +1,23 @@
+# VA.gov Search Usability Study Participants
+
+Prepared by: Megan Gayle, Search & Discovery
+
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-plan.md)
+
+
+
 | Sampling Requirement | Requested | Tested | 
 |------------------|------|------|
 | Total | 10 | 10 |
 | Desktop | 5 | 5 |
-| Mobile | 5 | 4 |
-| Tablet | 0 | 1 |
-| Screen reader | 1 | 0 |
+| Mobile:heavy_exclamation_mark: | 5 | 4 |
+| Tablet:heavy_exclamation_mark: | 0 | 1 |
+| Screen reader:heavy_exclamation_mark: | 1 | 0 |
 | Identified cognitive<br> impairments and/or <br>functional disabilities | 5 | 6  |
 | High School or Below | 5 | 5 |
-| Urban  | 4 | 3 |
+| Urban:heavy_exclamation_mark:  | 4 | 3 |
 | Rural  | 6 | 7 |
-| Women  | 3 | 2 |
+| Women:heavy_exclamation_mark:  | 3 | 2 |
 | Men | 7 | 8 |
 | Not White | 3 | 4 |
 | 18-34 | 2 | 2 |
@@ -21,5 +29,5 @@
 | Education | 2 | 3 |
 | Health | 2 | 2 |
 | Disability | 2 | 2 |
-| Family | 2 | 1 |
+| Family:heavy_exclamation_mark: | 2 | 1 |
 | Burial | 2 | 2 |
