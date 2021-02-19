@@ -6,7 +6,7 @@ The authenticated experience team works on two sections of the website:
 
 ## VA.gov Profile
 
-[VA.gov Profile roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
+[VA.gov profile roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
 The VA.gov profile is a section of the website that allows veterans to view and update the information that VA knows about them. Products that currently live in the profle include:
 
@@ -18,6 +18,6 @@ The VA.gov profile is a section of the website that allows veterans to view and 
 
 ## My VA dashboard
 
-[My VA roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md)
+[My VA roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md)
 
 The My VA dashboard provides Veterans with insight into the status of their benefits at the VA. It elevates critical tasks and updates based on their unique circumstances.  
