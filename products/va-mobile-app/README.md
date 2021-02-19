@@ -17,13 +17,13 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Martha Wilkes - Designer, VA
 - Ryan Thurlwell - Creative Director, VA
 - Bridget Hapner - UX Lead
-- Jen Ecker - UX Designer
+- Jen Ecker - UX Designer, Secure Messaging
 - Meli Manak - UX Designer
 
 ### Engineering
 - Jonathan Julian - Engineering Lead
 - Alastair Dawson - API Lead
-- Narin Ratana - Secure Messaging Engineer
+- Narin Ratana - Engineer, Secure Messaging
 - Patrick Saxton - Mobile Engineer
 - Jayson Perkins - API Engineer
 - Ken Li - QA Engineer
