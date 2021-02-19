@@ -22,14 +22,6 @@
 
 ## Roadmap
 
-### Goals
-
-The authenticated experience on Vets.gov originated in early 2018. Since we transitioned to VA.gov in late 2018, we  have  left this experience largely untouched, instead focusing on other feature development/enhancements. 
-
-This has left us in a position where we don't have much of an authenticated experience, especially compared to the robustness of the unauthenticated experience. Our logged in experience doesn't meet user needs and expections, and it has left us without a way to guide logged-in users to tools and task. 
-
-It is because of this that we are going to dedicate all of 2020, and as much of 2021 as we need, to revisiting the logged-in experience at a high level. We will revisit the key logged-in pages — the logged-in homepage/dashboard and the user profile — explore a logged-in navigation, and finally establish a better system for on-site notifications (notification center). Our goal is to create the foundational elements we need to develop the logged-in experience over time for veterans and their larger communities (families, caregivers, VSOs, etc).
-
 ### Projected timelines for current projects
 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
