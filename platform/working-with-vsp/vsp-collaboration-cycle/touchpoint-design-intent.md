@@ -12,28 +12,28 @@ We recommend a synchronous meeting for the Design Intent touchpoint since this i
 ## How do I request this touchpoint?
 VFS Product Manager submits a [Design Intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ef1d32d52321a7532bb5c84a3b2e0c609fb0fdf0/.github/ISSUE_TEMPLATE/design-intent-collaboration.md). 
 ## Who attends this touchpoint?
-VFS brings:
-Designer(s) (required)
-Product Manager (required)
-DEPO Product Lead (recommended)
-DEPO Design lead (recommended)
-Content, IA, accessibility, and QA specialists (if applicable)
-Other stakeholders you want to invite (if applicable)
-VSP brings (when applicable):
-Design
-Accessibility
-Content
-Information architecture
-QA
-Product
-Analytics
-VSP’s DEPO co-leads 
-# What artifacts do I provide?
+- VFS brings:
+  - Designer(s) (required)
+  - Product Manager (required)
+  - DEPO Product Lead (recommended)
+  - DEPO Design lead (recommended)
+  - Content, IA, accessibility, and QA specialists (if applicable)
+  - Other stakeholders you want to invite (if applicable)
+- VSP brings (when applicable):
+  - Design
+  - Accessibility
+  - Content
+  - Information architecture
+  - QA
+  - Product
+  - Analytics
+  - VSP’s DEPO co-leads 
+## What artifacts do I provide?
 VFS provides: 
 A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub va.gov-team/products folder)
 An explanation of the problem you’re trying to solve
 Any other artifacts you have so far
 Whiteboard sketch or other lo-fi prototypes or mockups
-# What is the outcome of this touchpoint?
+## What is the outcome of this touchpoint?
 VSP will provide your team with relevant design components and patterns (with URLs), as well as share existing applications or pages with similar execution or patterns.VSP reviewers document their feedback in a GitHub ticket, if applicable. 
 
