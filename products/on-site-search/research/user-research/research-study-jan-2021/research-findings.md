@@ -75,7 +75,7 @@ A task-based remote, moderated usability study was conducted via Zoom and GoToMe
 
 ## Details of Findings
 
-**1. When asked about their past experience looking for infomation, most began their journey on eBenefits and VA.gov** Most participants mentioned looking on eBenefits and VA.gov and a few expressed frustration over having to switch between the two sites. Other sites mentioned were: Google, Blogs, Reddit, Facebook Groups. A current service member mentioned asking other military members about benefits available to him. A few veterans mentioned calling the VA. 
+**1. When asked about their past experience looking for infomation, most began their journey on eBenefits and VA.gov.** Most participants mentioned looking on eBenefits and VA.gov and a few expressed frustration over having to switch between the two sites. Other sites mentioned were: Google, Blogs, Reddit, Facebook Groups. A current service member mentioned asking other military members about benefits available to him. A few veterans mentioned calling the VA. 
 
 **2. When asked to look for information on VA.gov, most participants did not immediately utilize the search feature.** When asked to look for more information related to a benefit they were receiving, most participants either went to the dropdown navigation or scanned the links on the homepage. When specifically asked to use the search feature, most were able to find it. Some participants were pointed directly to it in the interest of time. 
 
