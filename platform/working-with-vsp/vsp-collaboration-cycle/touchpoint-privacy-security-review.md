@@ -25,7 +25,7 @@ VSP brings:
 
 ## What artifacts do I provide?
 VFS provides:
-- Link to [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+- Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Ensure Product Outline contains Incident Response info, including:
   - Points of contact for your system and dependent VA backends
   - Links to dashboards that help identify and debug application issues
