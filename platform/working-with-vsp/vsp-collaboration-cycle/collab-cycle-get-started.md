@@ -35,7 +35,7 @@ Examples of an **iteration** to an existing product/feature include:
 ### Will your work impact only static content pages?
 
 Examples of **only static content** include:
- - Content changes to VA.gov static pages, VA Medical Centers (VAMCs), Vet Center pages
+ - VA.gov unathenticated static pages, VA Medical Centers (VAMCs), Vet Center pages
 
 Examples of **not only static content** include:
  - Changes to a front-end Drupal template
