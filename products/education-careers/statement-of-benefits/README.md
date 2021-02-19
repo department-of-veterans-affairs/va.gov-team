@@ -30,7 +30,7 @@ Veterans check their Post-9/11 GI Bill Enrollment Status when they experience a 
 ## How To Test
 Log into staging with idme: `staging.va.gov` using test account:
 - email: vets.gov.user+229@gmail.com
-- pw: Zm9ydHkgdHdv
+- pw: [check the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 Navigate to `https://staging.va.gov/education/gi-bill/post-9-11/ch-33-benefit`
 Click the green 'Check Your Status' button

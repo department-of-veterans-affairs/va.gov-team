@@ -2,7 +2,7 @@
 
 Go to https://staging.vets.gov/healthcare/prescriptions (you may be prompted for a username/password before the site will load; use username: `veterans` and password: `am3rica`). 
 
-Click Sign In and use username: `vets.gov.user+264@gmail.com` and password: `Zm9ydHkgdHdv` to log into ID.me.
+Click Sign In and use username: [`vets.gov.user+264@gmail.com`](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) to log into ID.me.
 
 That login has @ayaleloehr's phone number attached to it, but in staging the 2FA code automatically populates instead of needing to be entered manually, so that won't be a problem. Click Continue to send the code, click Continue again once the code has been auto-populated, and then Allow, and you should be logged in. 
 
