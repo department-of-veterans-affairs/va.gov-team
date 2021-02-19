@@ -378,7 +378,7 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-Checks the current page for aXe violations.
+Checks the current page or element and children for aXe violations.
 
 #### Arguments:
 
@@ -402,6 +402,74 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 ```
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
+
+#### cy.axeCheck() configuration defaults
+
+The axe-core configuration object looks like this:
+
+```javascript
+let axeBuilder = {
+  runOnly: {
+    type: 'tag',
+    values: ['section508', 'wcag2a', 'wcag2aa'],
+  },
+  rules: {
+    'color-contrast': {
+      enabled: false,
+    },
+  },
+};
+```
+
+The [axeCheck helper method](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js) scans pages for Section 508, WCAG2.0 A, and WCAG2.0 AA rulesets every time it is called in a Cypress end-to-end test.
+
+The configuration object also disables color-contrast checks. [Disabling the color-contrast rule](https://www.deque.com/axe/core-documentation/api-documentation/#other-strategies) was carefully considered and discussed with the VA 508 office as a way to improve build times and reduce false positive tests.
+
+VSP relies on [foundational accessibility tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required) and automated unit tests to provide good coverage for color contrast. VSP also strongly encourages teams to **re-enable the color-contrast check on one or two Cypress tests per suite**.
+
+#### Enable full rulesets
+
+To add an entire ruleset to your Cypress test, call `cy.axeCheck()` with two arguments:
+
+1. A CSS selector string 
+1. A `runOnly.values` array with a new ruleset entry
+
+Be sure not to remove any rulesets from the `values[]` array. [Learn more about axe-core rulesets](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) in the axe-core documentation.
+
+```javascript
+cy.axeCheck(
+  'main',
+  runOnly: {
+    values: ['section508', 'wcag2a', 'wcag2aa', 'best-practice'],
+  },
+);
+```
+
+#### Enable the color-contrast rule, or add another rule
+
+If you want to enable the color-contrast check or add another rule to your tests, call `cy.axeCheck()` with two arguments:
+
+1. A CSS selector string
+1. A `rules` object with a dash-separated string and an `{ enabled: true }` boolean object.
+
+```javascript
+cy.axeCheck(
+  'main',
+  rules: {
+    'color-contrast': {
+      enabled: false,
+    },
+    'css-orientation-lock': {
+      enabled: true,
+    },
+  },
+);
+```
+
+#### axe-core documentation
+* Learn about the [axe-core configuration parameters](https://github.com/dequelabs/axe-core/blob/develop/doc/API.md#options-parameter)
+* Learn about [axe-core rulesets](https://github.com/dequelabs/axe-core/blob/develop/doc/API.md#axe-core-tags) if you want to add WCAG2.1 or best practice rules to your Cypress test
+* Learn about [individual axe-core rules](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) if you want to add or ignore individual rules in your Cypress test
 
 ### Accessibility Convience Function: injectAxeThenAxeCheck(context, tempOptions)
 
