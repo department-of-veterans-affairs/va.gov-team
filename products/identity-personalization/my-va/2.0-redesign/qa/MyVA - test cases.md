@@ -75,6 +75,7 @@ User HAS NEVER applied for healthcare|User sees "Apply for healthcare" CTA, then
 User HAS filed a claim|User does NOT see "File a claim" CTA|**226**|
 User HAS NOT filed a claim|User sees "File a claim" CTA|**10**|
 User HAS NEVER applied for a disability claim|User sees CTA to "File a claim" then applies, the CTA disapears, and it becomes a 526 application in-progress|**Tze to recreate using existing user**|
+User receives DD4edu payments|User does NOT see "Apply for education benefits" CTA|**378**|
 
 
 
