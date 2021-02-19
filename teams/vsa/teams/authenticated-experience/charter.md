@@ -33,8 +33,6 @@ To move us towards this vision, our current mission is to create a logged in exp
 
 ## What we work on
 
-### Product Portfolio
-
 ### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
 ### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)
