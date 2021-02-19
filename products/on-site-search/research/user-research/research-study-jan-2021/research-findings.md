@@ -95,7 +95,7 @@ Most participants did not click on a typeahead suggestion: 5 did not click on a 
 - A few participants pointed out "Top Recommendations". One stated it was "what VA recommends", another stated it is "what people use the most". If a Top Recommendation was shown, the participant usually clicked on a link under it.
 - One participant stated that the type was too small.
 - Several stated that the page was user friendly.
-> > "From a user experience model the layout is great, the location. All of that is fine but the indexing is poor. The search feature seems to be good for simple things but not difficult things."
+> > "From a user experience model the layout is great, the location, all of that is fine, but the indexing is poor. The search feature seems to be good for simple things but not difficult things."
 
 
 
