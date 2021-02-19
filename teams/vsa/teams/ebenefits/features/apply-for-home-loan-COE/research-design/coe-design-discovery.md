@@ -40,7 +40,7 @@ The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-
 
 ### Eligibility
 
-There are differing requirements for getting a VA loan depending on the nature of an applicant's service:
+There are differing requirements for getting a VA loan depending on the nature of an applicant's service. These are summarized below. Specific eligibility can be found on [VA.gov here.](https://www.va.gov/housing-assistance/home-loans/eligibility/)
 
 **Veteran**
 - 181 days of service during peacetime
