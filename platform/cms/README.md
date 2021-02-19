@@ -13,9 +13,8 @@ The CMS has two teams, a Core Application Team and Product Support Team. Our wor
 | User Account & Permissions Governance | Content Strategy / Modeling / Governance |
 | UX Design & Research | Drupal Engineering for Product teams |
 | DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
-| CMS Application Architecture & Quality Control | |
+| CMS Application Architecture & Quality Control | CMS Training |
 | CMS Design System | |
-| CMS Training | |
 | CMS Helpdesk | |
 
 
