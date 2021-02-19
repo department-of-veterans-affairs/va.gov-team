@@ -18,6 +18,7 @@ The intended audience for this document is frontend engineers.
 Currently, the design system has various implementations of "components" scattered in various places to serve various tools/libraries:
 
 - The `formation` npm package
+    - Built using `uswds` 1.6
     - This contains static HTML, CSS, and vanilla JavaScript
     - Used by copy-pasting markup onto static pages
 -  The `component-library` package
