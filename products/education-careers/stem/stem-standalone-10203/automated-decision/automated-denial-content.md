@@ -40,7 +40,7 @@ View details {button}
      
         (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
-     - You don’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of these questions on the Rogers STEM Scholarship application. Applicants must answer “Yes” to one of these questions to be eligible.
+     - You don’t meet the degree requirements because you answered “No” to both of these questions on the Rogers STEM Scholarship application. Applicants must answer “Yes” to one of these questions to be eligible.
      
          - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
           
@@ -72,7 +72,7 @@ View details {button}
      
         (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
-     - You meet the degree requirements for the Rogers STEM Scholarship because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
+     - You meet the degree requirements because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
      
          - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" or
         
