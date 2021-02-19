@@ -8,6 +8,8 @@ Ascertain remaining tasks for these features
 🔽 = Lower priority  
 ⭐ = For stakeholder review 
 
+<details><summary>View my VA Representative</summary>
+  
 ## View my VA Representative
 ### Product
 - Request formal 508 audit (1)  (Now happening post staging review)
@@ -39,6 +41,10 @@ Ascertain remaining tasks for these features
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
 - Test submission against environment (5) 
+
+</details>
+
+
 
 ## Appoint my VA Representative (with Search inline with form)
 ### Product
