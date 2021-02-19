@@ -51,7 +51,7 @@ Examples of **changes to the visual** design include:
 Examples of **no changes to the visual** design include:
  - Code-only changes
 
-### Are you making changes to any content?
+### Are you making changes to content?
 We ask this question to determine if content should be involved in your Collaboration Cycle reviews and if a Contact Center Review is necessary.
 
 Examples of **changes to content** include:
