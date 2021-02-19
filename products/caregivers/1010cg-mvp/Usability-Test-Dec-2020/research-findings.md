@@ -121,23 +121,10 @@ Some participants found the two questions to be unnecessary. “Because it's a m
 
 ## Appendix
 
-### Conversation guide
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/conversation-guide.md
-
-### Interview transcripts
-
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/session-notes
-
-### Tools used for Synthesis
-
-https://docs.google.com/spreadsheets/d/1CcEUKUr4FB4FhWXnI8MvHkfJsRBzeUV8LnRbyIulnNo/edit#gid=0
-
-### Pages and applications used
-
-https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
-
 ### Other supporting documents created
 
-
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/conversation-guide.md)
+- [Staging](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/)
+- [Research Findings Presentation PDF]()
 
