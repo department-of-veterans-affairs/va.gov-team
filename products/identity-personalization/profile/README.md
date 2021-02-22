@@ -53,8 +53,10 @@ Currently, the VA.gov profile houses people's:
 - Contact information
 - Military information
 - Direct deposit information (comp & pen only)
+- Account information
+- Connected apps
 
-With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" information.
+With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" informatio and "Connected apps"
 
 ## Products/Projects
 
