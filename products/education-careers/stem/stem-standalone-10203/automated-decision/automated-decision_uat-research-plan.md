@@ -160,18 +160,14 @@ March 1
 4.	Availability: If applicable, when would you like sessions scheduled? 
 15 minute buffer between sessions
 All times below in EST: 
-- March 2 - 10AM - 1:30PM; 2:30PM - 5PM
-- March 3 - 10AM-5PM
-- March 4 - 10AM-2PM; 3PM - 5PM
-- March 5 - 10AM-5PM
-- March 8 - 10AM - 3PM; 4PM - 5PM
-- March 9 - 10AM - 1:30PM; 3PM - 5PM
-- March 10 - 10AM - 5PM
-- March 11 - 12PM - 2PM; 3PM-5PM
-- March 12 - 12PM - 5PM
+- March 15 - 11AM - 3PM; 4PM - 5PM
+- March 16 - 10AM - 1:30PM; 3PM - 5PM
+- March 17 - 10AM - 5PM
+- March 18 - 12PM - 2PM; 3PM-5PM
+- March 19 - 12PM - 5PM
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-March 1
+March 12
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
