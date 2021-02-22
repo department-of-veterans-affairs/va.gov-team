@@ -1,6 +1,6 @@
 # Significant UX Decisions
 
-Last updated: September 23, 2020 
+Last updated: February 22, 2021 
 
 _Decisions made Monday September 21 in alignment between Bridget, Ryan, Martha, Steve, Sophie unless otherwise noted_
 
