@@ -65,6 +65,8 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 - [x] **HP!** Change chapter title to: "Information needed to add children"
 - [x] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
 - [x] **HP!** Revise text under "examples of additional evidence" accordion to match [mockups](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/)
+- [ ] Address step-child-birth certificate clarification in "additional evidence" section:
+>"To add a **stepchild,**, you’ll need to provide a copy of their birth certificate, showing the names of both parents if your stepchild is **not** the biological child of your spouse (adopted, for example)"
 - [x] Change "Does your child live with you?" to: "Does this child live with you?"
 - [x] Change "Person your child lives with" to: "Person child lives with"
 - [x] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question ("Answer this question only if you are adding this dependent to your pension.")
