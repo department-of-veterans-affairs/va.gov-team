@@ -3,7 +3,7 @@
 **Author(s):** Brooks Johnson  
 **Last Updated:** January 13, 2021  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Chris Valarida_ [x], _Dror Matalon_ [ ], _Michael Fleet_ [x] 
+**Approvers:** _Chris Valarida_ [x], _Michael Fleet_ [x] 
 
 ## Overview
 
@@ -333,5 +333,5 @@ index a75324e8a6..ae27e69e11 100644
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan XX, 2021 | Design doc approved. | Brooks Johnson
+Feb 22, 2021 | Design doc approved. | Brooks Johnson
 Jan 13, 2021 | Initial draft begins. | Brooks Johnson
