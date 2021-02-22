@@ -103,7 +103,8 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 - Research summary
 - Post-research planning
   - Design updates
-  - Do we need another round of research?
+  - Do we have time for more research?
+  - Design handoff deadline
 
 **FE**
 
@@ -366,7 +367,7 @@ QA!!
 - [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
   - Prep
   - Hold meeting
-- Meet with comms to discuss if/what marketing needs to happen
+- Meet with comms to discuss marketing needs
 
 **Design**
 
