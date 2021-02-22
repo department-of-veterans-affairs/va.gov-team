@@ -35,7 +35,7 @@ More specifically:
 - 2 Eligible participants
 
 4 Ineligible applicants (ineligible due to program of study)
-- You must have one of these free accounts to log in to VA.gov:
+- You must have one of these free accounts to log in to VA.gov during the testing session:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
@@ -51,7 +51,7 @@ More specifically:
 
 
 4 Ineligible applicants (ineligible due to chapter 33 entitlement remaining)
-- You must have one of these free accounts to log in to VA.gov:
+- You must have one of these free accounts to log in to VA.gov during the testing session:
    - A premium My HealtheVet account, or
    - A DS Logon account (used for eBenefits and milConnect), or
    - A verified ID.me account that you can create here on VA.gov
