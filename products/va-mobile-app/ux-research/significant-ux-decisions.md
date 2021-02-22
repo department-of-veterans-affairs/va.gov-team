@@ -111,11 +111,3 @@ We also want to use this project as an opportunity to document what we learn abo
 
 ### We will include the Veterans Crisis line on the unauth homescreen and on the auth homescreen.
 There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it. We propose doing this by including the VCL on the homescreens, not as a navigation item in the bottom toolbar due to space restrictions. 
-
-
-----
-
-# Decisions still being made
-
-### Can we include any more features in the MVP outside what is currently on the living information architecture?
-We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include. As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit payment information or COVID-19 specific features such as the screener. Our goal is to build and launch an MVP quickly, so we don't anticipate adding a lot more, however we may be able to add light items and those decisions will continue to unfold between now and November. We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
