@@ -149,6 +149,25 @@ NYT - iPhone: https://user-images.githubusercontent.com/74627978/108138218-7b84d
 ![image](https://user-images.githubusercontent.com/74627978/108136258-b71da000-7087-11eb-80e1-57fba1070e56.png)
 
 
+**Mobile Examples"
+Hi @SKasimow - adding a couple mobile interaction examples here for you to add to the product outline. Ryan Thurlwell and I checked out some nuanced edge case scenarios and we both like the NYT  approach which appears both 508- and mobile-friendly. 
+
+https://www.nytimes.com/live/2021/02/16/us/winter-storm-weather-live#about-3500-sea-turtles-are-rescued-from-the-frigid-temperatures-in-texas
+
+### Example - When the icon wraps to the next line in mobile and feedback message appears:
+
+![image](https://user-images.githubusercontent.com/43381063/108742107-5ff35180-7505-11eb-8a7e-d93a7a8154d6.png)
+
+### Example - when the icon fits on same line but is at the max line length in mobile - feedback message appears to the left of the icon (rather than to the right of it: 
+
+![image](https://user-images.githubusercontent.com/43381063/108742695-f758a480-7505-11eb-9c52-1f3401e375d5.png)
+
+
+### Example - focus state: 
+
+![image](https://user-images.githubusercontent.com/43381063/108742886-3981e600-7506-11eb-9a5b-4f58320168f7.png)
+
+
 Communications
 
 Team Members
