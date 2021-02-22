@@ -64,7 +64,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-- 
+
 We are going to develop business logic to assess applicant answers and remaining entitlement to determine if the an automated denial is warranted based on criteria provided by our EDU stakeholder. Automated denials will generate a new spool file document type to send to The Image Management System (TIMS) for permanent record of the decision. An email will be sent to the applicant informing them there has been a decision. An item will be added to the claims status page with the denial record, details, and a link to appeals rights and procedures. Applications where automated denial is not warranted will be processed as normal.
 
 - *Why this solution / approach over other solutions / approaches?*
