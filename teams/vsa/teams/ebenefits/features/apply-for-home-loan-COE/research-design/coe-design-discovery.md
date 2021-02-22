@@ -44,7 +44,7 @@ The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-
 
 #### Documentation requirements
 
-Applicants may be required to provide documentation of their service to demonstrate they meet eligibility requirements. Details about specifically what documentation is required depends on the applican't service or relationship to a service member:
+Applicants may be required to provide documentation of their service to demonstrate they meet eligibility requirements. Details about specifically what documentation is required depends on the applicant service or relationship to a service member:
 
 - Veteran -- DD214 (MEMBER-4)
 - National Guard -- NGB Form 22
@@ -53,6 +53,13 @@ Applicants may be required to provide documentation of their service to demonstr
 - Air Force Reserve -- AF 526
 - Marine Corps Reserve -- NA VMC 798
 - Coast Guard Reserve -- CG 4174 or 4175
+
+Other forms may include:
+- HUD-1 Settlement Statement
+- VA Rating Decision letter
+- Form 26-1817 (Eligibility of Surviving Spouse)
+- Form 26-8937 (Verification of VA Benefits)
+- Purple Heart documentation (general orders, award certificate)
 
 ## Users
 
