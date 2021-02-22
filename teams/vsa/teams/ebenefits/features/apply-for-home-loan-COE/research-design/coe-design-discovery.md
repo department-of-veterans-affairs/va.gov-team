@@ -99,6 +99,8 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 
 ## Certificate of Eligibility feature
 
+[Screen caps of the exisitng eBenefits here are here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
+
 #### eBenefits feature flow
 
 <details>
