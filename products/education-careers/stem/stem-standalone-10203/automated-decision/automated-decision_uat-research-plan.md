@@ -1,4 +1,4 @@
-# UAT Research Plan for STEM Scholarship (22-10203) Automated Decisio
+# UAT Research Plan for STEM Scholarship (22-10203) Automated Decision
 
 ## Goals	
 1. What product & team are you doing this research for?
