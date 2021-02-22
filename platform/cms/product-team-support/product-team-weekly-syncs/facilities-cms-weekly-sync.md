@@ -23,8 +23,8 @@
 ## February 24 2021
 
 VAMC System
-* Policies page content model documentation
-* [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020)
+* Policies page content model documentation (this may be done async)
+* [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (issue from parking lot)
 
 Vet Centers
 * "Backup" editors strategy 
