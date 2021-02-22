@@ -31,7 +31,7 @@ Vet Centers
    * MVP:  from another Vet Center? National editors? Two editors per Vet Center?
    * Post-MVP? 
 * Featured content name and spec (aka Spotlight)
-* User administration service
+* User administration 
 * 
 
 ## February 17 2021
