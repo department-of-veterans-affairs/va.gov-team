@@ -56,7 +56,7 @@ ________________________________________________________________________________
 ![](images/business.png)
 
 ## Email Frame and Template
-![](images/email-frame-template.PNG)
+![](images/email-frame-template.png)
 
 
 ## Pricing
