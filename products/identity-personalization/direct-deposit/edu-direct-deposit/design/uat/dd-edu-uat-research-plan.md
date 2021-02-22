@@ -12,10 +12,9 @@ Recipients of VA compensation and pension (C&P), or educational (EDU) payments c
 
 <!-- #### Note regarding UAT
 We're requesting that Perigean recruit Veterans who need to **change their direct deposit information for educational payments.** This can be done in-person at a VA facility, via phone using the VA hotline, or online using the VA.gov direct deposit feature. We realize that it may be difficult to find Veterans with such specific needs.
--->
 
 We will be testing an actual, functioning form that will change users' bank information for direct deposits. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
-
+-->
 ### Goals
 The goal of User Acceptance Testing (UAT) is to determine if the new direct deposit feature is intuitive and functional for users needing to change their bank information for their educational payments.
 
@@ -48,13 +47,17 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 #### Must have for participants
 - Are you a Veteran, service member or a dependent? (pass = yes)
 - Do you receive educational VA payments via direct deposit? (pass = yes)
-- Do you need to change the direct deposit information for your educational VA payments? (pass = yes)
-
-#### Good to have for participants
-
+  - If we filter participants by GI Bill, we should be able to assume they receive DD-EDU payments
+<!-- - Do you need to change the direct deposit information for your educational VA payments? (pass = yes) -->
+- Are you identity-verified (LOA3)--using ID.me, DSLogon, or MyHealtheVet--on VA.gov? (pass = yes) 
+  - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
+  - Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes) 
 - At least one woman
 - At least one person of color
 - At least one participant 35 or under and 1 participant over 55
+
+#### Good to have for participants
+
 - At least one person that does not have a college degree (to include enlisted Vets)
 - At least one person that has a college degree (to include of officer Vets)
 - At least one person who lives in a rural or remote area
