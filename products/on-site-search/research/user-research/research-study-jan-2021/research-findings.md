@@ -100,7 +100,7 @@ Most participants did not click on a typeahead suggestion: 5 did not click on a 
 
 
 ## Recommendations
-- Include Caregivers, Family Members, and more Veterans who have been out of the military for 10+ years to find further pain points related to "military jargon".
+- Include Caregivers, Family Members, and more Veterans who have been out of the military for 10+ years in future usability studies to find further pain points related to "military jargon".
 - Investigate adding more information to acronyms in typeahead.
 - Increase visual hierarchy on search results page, emphasize link titles.
 - Update search results page based on style guide to improve legibility and consistency.
@@ -115,15 +115,23 @@ Most participants did not click on a typeahead suggestion: 5 did not click on a 
 
 ### Update search results page
 - Implement design recommendations 
-  - Make improvements to "More VA Search tools" right rail
-- Work with Search.gov to improve metadata descriptions
-- Look into ways of increasing relevancy on search results
-  - Increase Best Bets ("Top Recommendation") usage
+- Make improvements to "More VA Search tools" 
+  - Audit links and text
+  - Request data on click rates
+  - Look into alternative placement 
+- Work with Search.gov to improve search result descriptions
+  - Shorten character limit
+  - Ensure Search.gov picks up metadata descriptions on each page
+
+### Increase Search Results Relevance
+  - Increase Best Bets ("Top Recommendation") usage 
+      - This is labor intensive and must match the search phrase exactly so it is not capable of catching every search term
   - Work with Search.gov to help improve indexing and relevancy
 
-### Look further into when users reach a point where they call for help
-- Get a better understanding of how/when Veterans and Caregivers reach out for help outside of finding information on VA.gov. This is where we can focus on adding Best Bets to increase search results relevancy.
-- Look into adding a step between search and a phone call to answer users' questions. 
+### Understand when users reach a point where they call for help
+- Get a better understanding of how/when Veterans and Caregivers reach out for help outside of finding information on VA.gov
+    - This is where we can focus on adding Best Bets to increase search results relevancy
+- Look into adding a step between search and a phone call to answer users' questions
 
 ## Appendix
 ### Conversation guide
