@@ -64,21 +64,32 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
+- 
 We are going to develop business logic to assess applicant answers and remaining entitlement to determine if the an automated denial is warranted based on criteria provided by our EDU stakeholder. Automated denials will generate a new spool file document type to send to The Image Management System (TIMS) for permanent record of the decision. An email will be sent to the applicant informing them there has been a decision. An item will be added to the claims status page with the denial record, details, and a link to appeals rights and procedures. Applications where automated denial is not warranted will be processed as normal.
+
 - *Why this solution / approach over other solutions / approaches?*
+
 This would provide almost immediate decision for ineligible applicants and reduce processing burden for the Regional Processing Office.
+
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+
 There will be no indication of the status for normally processed applications, because there is no visibility into the systems for processing the applications and no way to receive status returns.
+
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
 Status for normally processed applications could be added, if external systems provide opportunities for integration.
 
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
+
 The decision email will be sent to applicants whose applications are automatically denied, otherwise it will be irrelevent.
+
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
+
 Education Service will be updated via project briefings and demos
+
 - [Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
