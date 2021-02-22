@@ -49,14 +49,13 @@ The VA.gov profile (https://www.va.gov/profile) aims to answer the question — 
 
 Currently, the VA.gov profile houses people's:
 
-- Personal information
-- Contact information
+- Personal and contact information
 - Military information
 - Direct deposit information (comp & pen only)
-- Account information
+- Account security
 - Connected apps
 
-With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" informatio and "Connected apps"
+With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" information and "Connected apps"
 
 ## Products/Projects
 
@@ -69,6 +68,7 @@ The profile is a section of VA.gov that houses multiple products/features. Below
 |Direct deposit | [Direct deposit outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
 |Address validation| [Address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)|
 |Combine profile and account (Profile 2.0)| [Profile 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)|
+[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps-data/README.md)
 
 # Implementation Info
 
