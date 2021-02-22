@@ -52,7 +52,7 @@ I&#39;m trying to find the part where it says, &quot;one on one.&quot; I would e
 
 I think the suicide prevention care should be at the top rather than in alphabetical order. They have the suicide prevention hotline up there, but it would be good to double stomp it.
 
-One of the challenges when facing a mental health issue is that some people don&#39;t want to admit that they have a mental health issue. Getting to this page can be a big step for some people so you don&#39;t want to overwhelm them with information. It would be good to put some of this on subsequent pages. For example, the section about preparing for your visit should be shown later on because not everyone here will be visiting.
+One of the challenges when facing a mental health issue is you don't want to say you have mental health issues. So even going to a website like this is a huge step. You don't want to overwhelm someone with too much data when they finally get here. [too much data] Is sometimes not good. [Mod Do you think this page has too much info?] I would say yes. I would put more on subsequent pages. "Like prepare for your visit" Well, I haven't said I want to visit.
 
 It would be good to include the telehealth options here. Especially considering COVID but also in the future for accessibility.
 
@@ -63,9 +63,9 @@ It would be good to include the telehealth options here. Especially considering 
 - If yes,
   - How did this line up with your expectations?
 
-The mental health care section is technically true, but sometimes when you&#39;re struggling its just a struggle. You don&#39;t want to always put labels on it – they may think, &quot;I don&#39;t have depression and I don&#39;t have grief.&quot; I would stick with using the symptoms rather than the diagnoses because some people are too proud to admit that they have something like depression.
+[Regarding mental health care section] I mean technically its true,[laughs] sometimes when you're struggling, its just a struggle. You don't put labels on it. If you're just struggling with coping – you may think, 'Oh, I'm not depressed. I don't have grief'. Maybe you don't know you have anger. Or trauma. If you're struggling with your day to day activities or having trouble sleeping; I would stick to the symptoms and not the diagnoses. The diagnosis is what they're saying here. The person like me that's too proud to say that he's got anything... you'll want to say other stuff, you know, 'you habing trouble keeping relationships?', or yeah, 'sleeping','nightmares','hyper-vigilant or something that's a little dumber downed than that'. I mean that I think is more descriptive.
 
-By only having Iraq and Afghanistan you&#39;re leaving out some veterans who served so it would be best to either keep it general or be specific to each group.
+I would change the Iraq and Afghanistan, I know those are the big buzz words, but these days people are fighting everywhere. There's people in Syria and Philiphines or Yemen. You don't want someone to not see themselves.
 
 - If no,
   - Would it go by any other name?
