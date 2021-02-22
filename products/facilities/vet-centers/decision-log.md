@@ -26,7 +26,7 @@ The following were considered but rejected for MVP
 | 1/6/2021 | Mobile Vet Center as "other location" rather than service (was misunderstood in testing) |
 | 1/6/2021 | No email will be featured as there is no centralized email |
 | 1/6/2021 | "Satellite" tested well as label rather than CAP |
-| 1/26/2021 | Grief counseling and bereavement counseling will be two separate categories. Bereavement counseling is offered to family members who experience an active duty death only. Grief counseling is offered to any eligible client who is experiencing grief (of any type : death of a loved one, natural disaster, etc)_Update: based on Veteran research in 2/21, the difference between these is more business rationale than experienced by Veterans and we will propiose collapsing these services into one |
+| 1/26/2021 | Grief counseling and bereavement counseling will be two separate categories. Bereavement counseling is offered to family members who experience an active duty death only. Grief counseling is offered to any eligible client who is experiencing grief (of any type : death of a loved one, natural disaster, etc)_Update: based on Veteran research in 2/21, the difference between these is more business rationale than experienced by Veterans and we will propose collapsing these services into one and prioritize what a Veteran or family member wants and needs to know when experiencing these situations_ |
 | 1/26/2021 | Vet Center services will include services provided by community partners, if they are offered within the physical location | 
 | 2/18/2021 | Services will be alphabetized for MVP, despite research recommendation to Consider reordering services by priority, leading with Mental health. This could be a significant technical lift so it will be deferred until we have analytics on most frequently opened accordions and understand Drupal capabilities for determining order at facility type level (i.e. different sort orders for VHA vrs Vet Center |
 | 2/18/2021 | Will propose Veteran Connections rather than VA connections so referral to federal,state/local services (outside the VA) can also be listed |
@@ -43,5 +43,6 @@ The following were considered but rejected for MVP
 | 1/6/2021 | We do not want to restrict list of services (ie: Psychology) available for use by Vet Centers but will want to encourage use of default list (TBD) |
 | 2/17/2021 | We will use Escanaba as the coded content prototype because it seems to have the great diversity of locations. This means the content will be entered by the Facilities/CMS teams (rather than by Escanaba staff) so we can use it to test the model. We will use the service content collected by Michelle during interviews with Outreach specialists |
 | 2/18/2020 | Need to add "back to top" feature to  help users traverse the length of pages more easily.  _Update: a new implementation exists in the design system and can be reused for Vet Centers)_|
-
 | 2/18/2021 | Will add "Appointments" accordion to the 'Prepare for your visit" section to provide another opportunity for Vet Centers to differentiate themselves from VA medical centers and to set realistic expectations for getting seen |
+| 2/18/2021 | Will not add map plotted with all are location at this time until we validate need |
+
