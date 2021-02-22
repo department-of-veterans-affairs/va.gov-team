@@ -27,7 +27,12 @@ VAMC System
 * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020)
 
 Vet Centers
-* TBD
+* "Backup" editors strategy 
+   * MVP:  from another Vet Center? National editors? Two editors per Vet Center?
+   * Post-MVP? 
+* Featured content name and spec (aka Spotlight)
+* User administration service
+* 
 
 ## February 17 2021
 
