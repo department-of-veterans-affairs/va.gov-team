@@ -117,6 +117,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 - UAT go/no-go (before we kick off recruiting)
 - Reach out to comms to discuss if/what marketing needs to happen; Meet if necessary
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+- Make sure direct deposit content page gets updated re: https://github.com/department-of-veterans-affairs/va.gov-team/issues/19281#issuecomment-783594216
 
 **Design**
 
