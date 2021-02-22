@@ -71,9 +71,11 @@ Objective: Finish backend build *if* possible (pending Lihan getting what he nee
 
 ## Sprint 42 (2/24 - 3/9)
 
-Liz Lantz joins the team; Cassandra switches to public websites
+### Team updates
 
-Outstanding tickets from last sprint, plus:
+- 3/1: Liz Lantz joins the team; Cassandra switches to public websites
+- 3/1: Matt roles off onto a different Ad Hoc project
+- 3/8: New PM joins the team
 
 ### Profile
 
@@ -144,6 +146,11 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 - Finish build (assuming Terry has gotten Lihan access to the APIs he needs)
 
 ## Sprint 43 (3/10 - 3/23)
+
+### Onboard Anastasia
+
+- Intro to projects
+- Talk about PO/PM relationship
 
 ### Profile
 
