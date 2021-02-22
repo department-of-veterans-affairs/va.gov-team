@@ -251,7 +251,7 @@ Prep for QA
 - Request QA for following sprint. To make sure we are ready, this requires:
   - Making sure the feature is done 
   - Reviewing the feature
-  - Making sure Tressa and Cassandra have reviewed the feature
+  - Making sure Tressa has reviewed the feature
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
 
 **Design**
