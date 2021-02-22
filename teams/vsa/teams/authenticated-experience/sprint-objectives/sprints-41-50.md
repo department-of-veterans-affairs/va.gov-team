@@ -90,6 +90,9 @@ Outstanding tickets from last sprint, plus:
 
 - [Design] MyVA 2.0: Conduct research #19725 
 - Research summary
+- Post-research planning
+  - Design updates
+  - Do we need another round of research?
 
 **FE**
 
@@ -100,8 +103,8 @@ Outstanding tickets from last sprint, plus:
 **PM**
 
 - UAT go/no-go (before we kick off recruiting)
-- Meet with comms to discuss if/what marketing needs to happen
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+- Reach out to comms to discuss if/what marketing needs to happen; Meet if necessary
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
 
 **Design**
 
