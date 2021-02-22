@@ -42,6 +42,18 @@ The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-26-
 - Section 3 -- Previous VA loans
 - Section 4 -- Certification and signature
 
+#### Documentation requirements
+
+Applicants may be required to provide documentation of their service to demonstrate they meet eligibility requirements. Details about specifically what documentation is required depends on the applican't service or relationship to a service member:
+
+- Veteran -- DD214 (MEMBER-4)
+- National Guard -- NGB Form 22
+- Army Reserve -- DA FORM 5016
+- Naval Reserve -- NRPC 1070-124
+- Air Force Reserve -- AF 526
+- Marine Corps Reserve -- NA VMC 798
+- Coast Guard Reserve -- CG 4174 or 4175
+
 ## Users
 
 ### Eligibility
