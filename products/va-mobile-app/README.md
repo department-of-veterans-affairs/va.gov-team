@@ -39,7 +39,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 
 ## Timeline
 - MVP V1: Released to Test Flight by end of Nov. 2020
-- MVP V1 or V2: Released to app store in early 2021
+- MVP V1 or V2: Released to app store in Q2 2021
 
 ## Release Cycle
 Because VSP's Collaboration Cycle is designed for web features, the VA Mobile App team is going to leverage parts of the process that make sense for mobile and create other quality control processes where it doesn't. For example, the VA Mobile App team is creating its own Accessibility review that is tailored to mobile devices. These deviations will be documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/mobile-collaboration%20cycle.md) 
