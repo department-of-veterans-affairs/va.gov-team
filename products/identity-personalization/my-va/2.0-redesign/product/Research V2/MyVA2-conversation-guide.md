@@ -21,11 +21,11 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
+Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about an hour and fifteen minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **We will be looking at prototypes today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
@@ -183,12 +183,13 @@ Okay, great. I have another scenario for you. You're looking to see all of your 
 
 1. Could you walk me through how you would do that?
 2. If you saw this information on your dashboard, what would you do next?
-3. How many claims or appeals do you have?
-4. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
-5. If you didn't have any claims or appeals in progress, what would you expect to happen?
-6. What is confusing about this section?
-7. What information is missing in this section?
-8. What is the most important thing we could tell you about your claims and appeals?
+3. Why do you think we're showing that claim in the grey box?
+4. How many claims or appeals do you have?
+5. If you were to click on the link '4 claims or appeals in progress' where would you expect that to go?
+6. If you didn't have any claims or appeals in progress, what would you expect to happen?
+7. What is confusing about this section?
+8. What information is missing in this section?
+9. What is the most important thing we could tell you about your claims and appeals?
  
 #### Things to watch for:
 
@@ -202,11 +203,14 @@ Imagine you were interested in applying for some more benefits at the VA.
 
 1. Could you walk me through how you would do that?
 2. Can you describe to me what you are seeing in this section?
-3. Why do you think the benefits in the 'Benefits you might be interested' section are showing vs some other ones?
+3. Why do you think the benefits in the 'Benefits you might be interested' section are showing vs some other ones? 
 4. If you had started an application, how would you finish and submit it?
 5. What is confusing about this section?
 6. What information is missing in this section?
 7. How could we improve this section?
+8. How would you learn more about VA benefits?
+9. If you clicked on the 'What benefits does the VA offer' dropdown, what would you expect to be there?
+10. Go ahead and click on it - is there any information missing here?
 
 #### Things to watch for:
 
@@ -249,7 +253,8 @@ Imagine that this was now the first page that you saw directly after logging in.
 *Moderator share screen and pull up real homepage* Let's look at the existing VA.gov homepage. 
 
 1. Tell me how it compares to the page we just looked at.
-2. Would you prefer to see the existing homepage when you log in or the My VA page we looked at today as your homepage? Why?
+2. What do you think works better about the homepage than the dashboard we just looked at?
+3. Would you prefer to see the existing homepage when you log in or the My VA page we looked at today as your homepage? Why?
 
 
 #### Things to watch for:
