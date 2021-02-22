@@ -77,6 +77,17 @@ Outstanding tickets from last sprint, plus:
 
 ### Profile
 
+**PM**
+
+Make sure there are issues/next steps/clear documentation on exactly what is happening to get the following VA Profile issues resolved:
+
+- Users can’t delete an address from VA.gov if it fails address validation
+  - https://dsva.slack.com/archives/C7TE0PFTL/p1608138662207400
+- MVI 207 issue #17739
+- MVI 201
+  - Original issue is #18349, but please do not comment or track progress in a closed ticket.
+  - https://dsva.slack.com/archives/C7TE0PFTL/p1611332694003100
+
 **FE**
 
 - Profile: Remove "Your" from "Your Profile" #19890
