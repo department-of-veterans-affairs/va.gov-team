@@ -23,16 +23,16 @@
 ## February 24 2021
 
 VAMC System
-* Policies page content model documentation (this may be done async)
+* Policies page content model documentation (this will probably be done async, between Steve and MPS)
 * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (issue from parking lot)
 
-Vet Centers
-* "Backup" editors strategy 
+Vet Centers Questions that have arisen during our Discovery
+* "Backup" editors strategy for each Vet 
    * MVP:  from another Vet Center? National editors? Two editors per Vet Center?
    * Post-MVP? 
 * Featured content name and spec (aka Spotlight)
-* User administration 
-* 
+* User administration - next Sprint CMS.
+* Next Monday's Vet Center sync call (agenda, attendance)
 
 ## February 17 2021
 
