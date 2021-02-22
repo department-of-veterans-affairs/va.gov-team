@@ -1,4 +1,4 @@
-# We've received your STEM Scholardship application
+# We've received your STEM Scholarship application
 
 Dear STEM Scholarship applicant, 
 
