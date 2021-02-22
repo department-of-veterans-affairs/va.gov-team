@@ -187,7 +187,6 @@ Total = 41
 ### Front End 
 - [20225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20225) Scaffold application
 - [20226](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20226) Add list component of dependents
-- [20227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20227) Add Redux to application
 - Add pop-up logic for when modal appears
 - Swap dummy api calls for real calls to BE
 - Create e2e tests
