@@ -45,10 +45,16 @@ On the front end, once the data is received, then a `download link` will be show
 ## Outstanding Questions
 
 > Is this compliant?
-Yes, there is already president with other applications. And since this is a temporary solution, we are fine.
+Yes, there is already precedent with other applications. And since this is a temporary solution, we are fine.
 
 > What is the time table for document storage to be ready?
 This is not on the other teams road map, but is a thing that they want to do "at some point".
+
+## Tickets that need to be created
+
+- [x] [BE] Saving encrypted data
+- [x] [BE] Creating PDF download link
+- [ ] [FE] Update to [new structure](https://gist.github.com/mdewey/f2fad4147c59a0bf04753633122532db)
 
 ## Tech Architecture - v2
 
