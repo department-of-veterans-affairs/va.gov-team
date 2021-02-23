@@ -71,9 +71,8 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 ### When
 
-#### Testing sessions
-
-**Pilot session** | Date/time TBD
+#### Pilot session
+`| Date/time TBD |`
 
 #### eBenefits Team Availability
 
