@@ -1,4 +1,4 @@
-*Last updated 2020-10-21*
+*Last updated 2021-2-22*
 
 # Deployment Policies
 
@@ -42,31 +42,21 @@ The holiday release freeze is in effect during the following dates:
 
 # Requesting out-of-band deploys
 
-If there is a _critical issue_ that needs to be resolved outside the automated deployment schedule, explicit permission must be granted for an out-of-band deploy.
+Until better isolation is in place within the codebase and infrastructure, the platform will not entertain requests for deployments outside of the automated deployment schedule. Thus, VFS teams need to make sure they have thoroughly QA'd and otherwise tested the code they're checking in, as updates will not be possible until the following day.
+
+However, if there is an _outage_ or a _security issue_ that requires immediate resolution and cannot wait for the daily deploy, it is appropriate to escalate to the Platform Crew Leads for a decision on whether to pursue an out-of-band deploy. 
+
+The VFS team whose code triggered the outage or security issue will need to publish a follow-up [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) in the oncall channel, with the aid of the others involved in resolution.
 
 See [Resolving critical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/resolving-critical-issues.md) for recommended approaches to issue resolution (i.e. when to revert, when to fix forward).
 
-For every out-of-band deploy requested, VSP team will expect a follow-up [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) from the requesting team, explaining the context that led to the problem and proposing follow-up actions to prevent similar future problems.
-
-## Is my issue critical?
-
-Examples of _critical issues_ include:
-* A bug that’s preventing a significant number of Veterans from accessing a feature
-* A bug creating a non-trivial deviation from expected functionality
-* A 508/accessibility failure of severity level **0** (_Showstopper_) or **1** (_Critical_) ([severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md))
-
-Examples of _non-critical issues_ include:
-* Incorrect text or visual formatting that does not impede the feature from working
-* Any code for features not yet released to Veterans
-* Just wanting to get code out sooner
-
-When in doubt on whether an issue is _critical_ enough for out-of-band deployment, DEPO leadership for VSP will make the deciding call.
-
 ## Step-by-step process for out-of-band deployment approval
 
-1. You must reach out to VSP DEPO leadership (currently, Kevin Hoffman, Dror Matalon, or Rachael Roueche) who will escalate this request to Chris Johnston for approval.
-1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
-1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
+1. @ mention Dror Matalon and Rachael Roueche in the #oncall channel with a 1-3 sentence write-up of the outage or security issue users are experiencing, and how you found out.
+1. Text Dror Matalon and Rachael Roueche (find phone numbers in their Slack profiles) "out of band deploy request in the oncall channel" for immediate escalation
+1. _Dror or Rachael will respond in the #oncall Slack channel with their denial or approval, and will @ mention the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) team member to trigger action _
+1. Continue collaborating with Platform on-call personnel to investigate, resolve, and re-deploy
+1. Within 2 business days of the incident, the VFS team involved in the outage or security issue will need to publish a follow-up [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) in the #oncall Slack channel, with the aid of the others involved in resolution.
 
 # See also
 
