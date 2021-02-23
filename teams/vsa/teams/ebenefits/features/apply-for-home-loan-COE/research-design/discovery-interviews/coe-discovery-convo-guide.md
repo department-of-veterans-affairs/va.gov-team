@@ -41,6 +41,7 @@ There are a few things I need to mention before we start:
 - Focusing on your Certificate of Eligibility, what did you do to get that?
 - Was it easy or difficult? And why?
 - What do you know about COE requirements?
+- What documentation did you have to provide? Did this cause any problems?
 - What other options do you know of for how to get a COE?
 - Knowing what you do now about COE, would you do anything differently?
 
