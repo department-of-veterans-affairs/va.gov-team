@@ -38,10 +38,10 @@ There are a few things I need to mention before we start:
 - What other problems did you run into?
 
 ## Section two: COE
-- Focusing on your Certificate of Eligibility, what did you do to get that?
-- Was it easy or difficult? And why?
+- Can you tell us what a Certificate of Eligibility is? Can you tell us how you got a COE?
+- What were the most challenging things about getting your COE? What was easy; what difficulties were there?
 - What do you know about COE requirements?
-- What documentation did you have to provide? Did this cause any problems?
+- What documentation did you have to provide? What challenges did this cause?
 - What other options do you know of for how to get a COE?
 - Knowing what you do now about COE, would you do anything differently?
 
