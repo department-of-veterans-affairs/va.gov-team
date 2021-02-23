@@ -120,7 +120,7 @@ We will roll out the content auto deploy gradually based on the following:
 - Daily for 1-2 days
 - 3 times a day for 1-2 days
 
-Then lastly, the schedule will be hourly between 8am and 8pm EST on weekdays. Ideally, after incrementally increasing the deploy frequency, the deploy would run every 5 minutes.
+Then lastly, the schedule will be hourly between 8am and 8pm EST on weekdays.
 
 ```
 node('vagov-autodeploy') {
