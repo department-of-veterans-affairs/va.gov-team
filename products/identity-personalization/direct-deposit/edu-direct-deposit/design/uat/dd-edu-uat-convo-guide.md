@@ -4,7 +4,7 @@
 `James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
 
 ---
-
+<!--
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
@@ -14,7 +14,7 @@
 
 ## Intro
 Good morning/afternoon and thank you for joining us today.
-<!--
+
 I have a few things I need to mention before we start:
 - The session should take about 30 minutes, but you can stop any point--just let me know. 
 - If something is confusing, or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
