@@ -14,7 +14,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
  - Shira Goodman, PM VSP Product support, @shira goodman on Slack
  
 - Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
-- Github labels: `[Content-ia-team]` `[vsp-product-support]`
+- Github labels: `[Content]` `[vsp-product-support]`
 
 
 ### <a id="whatwedo"></a> What we do
@@ -34,13 +34,13 @@ VSP Content provides guidance and feedback on content being created across VA.go
 
 The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) defines the process for VSP support of all VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
 
-VSP provides content feedback and guidance during the following Collaboration Cycle check-in meetings: 
+VSP provides content feedback and guidance during the following Collaboration Cycle touchpoints: 
 
-- **Collaboration Cycle Kickoff:** This is an asynchronous steps where we'll get a better understanding of the problem your team is trying to solve. During this step Collaboration Cycle reviewer will also be able to identity if there are any areas of your project that might need additional support or collaboration. 
+- **Collaboration Cycle Kickoff:** This is an asynchronous step where we'll get a better understanding of the problem your team is trying to solve. During this step, Collaboration Cycle reviewers will also be able to identity if there are any areas of your project that might need additional support or collaboration. 
 
-- **Midpoint Review:** We’ll review mockup or prototypes to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the product/tool, and if there are areas where content can improve their experience. 
+- **Midpoint Review:** We’ll review mockup or prototypes to ensure they’re consistent with existing content style and guidance. 
 
-- **Staging Review:** We’ll provide feedback on your completed product on staging before it’s launched. During this touchpoint, it's recommended that we do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
+- **Staging Review:** We’ll provide feedback on your completed product on staging before it’s launched. During this touchpoint, it's recommended that we do a full E2E content review to ensure content recommendations provided earlier in the process are accurate and correct, as well as ensure any static pages that support the tool are updated. We'll also work closely with IA to ensure accurate page labels and placement.
 
 ### <a id="othercontentsupport"></a> Other content support
 Other areas VSP content can provide support:
