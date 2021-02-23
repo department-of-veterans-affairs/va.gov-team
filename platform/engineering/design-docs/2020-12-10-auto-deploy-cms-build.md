@@ -71,8 +71,6 @@ The initial schedule will run between 8am and 8pm ET to align with CMS support h
 - At first, it will be set to run hourly as a conservative cadence.
 - It will then be incrementally adjusted to a higher frequency as the build system allows.
 
-To avoid deploying when content hasn't changed since the previous deploy, the job will compare the GraphQL query data (e.g., using and archiving the checksums of the cached tarballs).
-
 To differentiate between the auto-deploys, we will refer to the new one as the **content-only auto-deploy** and the existing one as the **daily or full auto-deploy**.
 
 ## Specifics
@@ -137,20 +135,6 @@ node('vagov-autodeploy') {
   }
 }
 ```
-
-#### Preventing deploys of existing content
-
-On successful deploys, the tarball containing the GraphQL query data used in the build should be archived in S3. The key should resemble `s3://vetsgov-website-builds-s3-upload/content/vagovprod_{CACHE_KEY}.tar.bz2`.
-
-The GraphQL query data can be cached and retrieved by using the [drupal-aws-cache.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/drupal-aws-cache.js) script.
-
-Then on subsequent deploys, the GraphQL query data from Drupal will be compared to the cached tarball data of the previous successful deploy. This ensures that we only run the build when content has changed.
-
-Alternatively, we can also get the cache key and tarbell of the newly pulled Drupal data by running the same [drupal-aws-cache.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/drupal-aws-cache.js) script, and utilizing the [getDrupalCacheKey](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/drupal-aws-cache.js#L42) function. The two cache keys from both tarbells can be compared. The build will run only if the MD5 checksums of the two tarballs differ.
-
-For convenience, we could also upload the checksum to `s3://vetsgov-website-builds-s3-upload/data/checksum.txt`. With that, the pipeline would not have to download the full tarball for the comparison.
-
-To help content editors know when the content has been last updated, we might want to timestamp when a new tarball is used and include that info in the generated `BUILD.txt`.
 
 ### Code Location
 
