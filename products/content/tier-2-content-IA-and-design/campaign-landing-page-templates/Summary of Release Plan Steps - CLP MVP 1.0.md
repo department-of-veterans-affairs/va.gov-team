@@ -3,7 +3,7 @@
 __Summary of release plan steps:__
 Per product sync today - We'll launch in phases to VA businesses as planed approach below: 
 
-**I. CLP MVP 1.0 March 2021 beta launch release: ~ March 17(ish) prod (Sprint 43/44)**
+**I. CLP MVP 1.0 March 2021 beta launch release: ~ March 17(ish) prod (Sprint 42/43)**
 
 1. MVP Phases of Launch:  FE Build --> Security Review --> Internal UAT --> QA Testing --> 508/Ally Testing --> Fix Identified Issues --> Stakeholder UAT --> Fix Identified Issues --> Validate CLP 1 Year Governance Strategy --> Validate user request flow and on-boarding activities for requestors --> VSP Staging Review --> Validate and Launch.    
 
@@ -65,25 +65,24 @@ Users can not re-use a CLP for a different campaign
 - **How you'll recruit the right production test users:** 
   - PW team, OCTO-DE PO, VA stakeholders (Invested)
 - **How you'll conduct the testing:** 
-  - Provide testers with a list of key word search options as related to available LC content. 
-  - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
+  - Provide users with CLP/CMS toolset and allow to build out a mock campaign to test funcationality and publishing capabilities.  
 - **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
-  - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
+  - This is a CMS content product. We'll allow mock campaign to publish to 'Staging' environment only. 
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 
-  - We will do a 'hidden' launch, with only those participating in the UAT will have access to 'prod' url in order to test in prod. environment and validate bets and assumptions. 
+  - This will not be allowed on Prod environment. Testing and Review in Staging env only. 
 
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-  - We will invite VA stakeholders and business SMEs to visit LC detail page and test funcationality and style components. 
-  - We will check error rate after we hit 25 users or 5 business days. We want < 5% error rate.
+  - We will invite VA stakeholders and business SMEs to test a CLP build and provide feedback on user interface, UX, and content structure. 
+  - We will validate sussess through VA stakeholder statisfaction with currently design tool and allow for minor tweaks to look and feel based on user feedback.
   
   We will track errors for:
-  - Tags component
-  - Related information component
-  - VA benefits component
-  - Need more help? component
+  - CMS Panels (4x Required 12x total)
+  - Images/Content
+  - Video elements
+  - Share to Social Media links 
   
   We will not track errors for:
-   -  Functionality drop for 1.0 rolling to MVP 1.1: How do you rate your experience on this page? <--We updated this design and text to meet Medallia requirements, but we learned late that Medallia is not ready for implimentation and Foresee will not support our design concepts. 
+   -  Baseline Functionality and design along with any hardcoded functions with in CMS toolset.
   
 ### Results:
 
@@ -103,34 +102,10 @@ Users can not re-use a CLP for a different campaign
 
 ### Planning:
 
-- Desired date: 11/4/20
-- Post-launch KPI 1: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
-- Post-launch KPI 2: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
-- Post-launch KPI 3: Increase traffic to benefit hubs
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Desired date: 3/17/2021
+- Post-launch KPI 1: Customer Satisfaction (Users request second campaign build)
+- Post-launch KPI 2: Funationality - CLP tool satisfies VA Stakeholder needs to publish critical content via a refined CLP
 
-### 1-week results:
-
-- Number of unique users: 25
-- Post-launch KPI 1 actual: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
-- Post-launch KPI 2 actual: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
-- Post-launch KPI 3 actual: Increase traffic to benefit hubs
-- Any issues with VA handling/processing?: yes/no, (follow up)
-- Types of errors logged: 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-### 1-month results:
-
-- Number of unique users: x
-- Post-launch KPI 1 actual: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
-- Post-launch KPI 2 actual: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
-- Post-launch KPI 3 actual: Increase traffic to benefit hubs
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
 
 ## Post-launch Questions 
 
