@@ -45,8 +45,10 @@ We will engage in moderated discovery interviews conducted remotely. Calls will 
 
 Recruit for 5 fulfilled sessions using the following criteria:
 
+**Principal participant criteria/question**
+- Have you applied for a VA direct loan, VA-backed loan, or a Native American Direct Loan (NADL)? (pass = yes)
+
 **Must have for participants**
-- Participants must have experience with VA-backed home loans
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
