@@ -25,6 +25,8 @@
 
 [COE feature flows](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/)
 
+[VA loan process/COE user journey]()
+
 ### Research
 
 [Discovery interviews research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
