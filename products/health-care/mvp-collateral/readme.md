@@ -2,17 +2,129 @@
 
 In March 2021, there is a campaign to commemorate Women's History Month and encourage more women Veterans to enroll in Million Veterans Program. This repo contains all the marketing collateral and assets for the campaign.
 
-Contact Jennifer.Deen@va.gov with any questions. 
+Contact Jennifer.Deen@va.gov with any questions.
+
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf"><b>Download the PDF 1-pager</b></a>
+
+
+### VAntage Point banners
+
+- [Keisha Bellamy](assets/png/VAntagePoint-KeishaBellamy.png)
+- [Morgan Danowski](assets/png/VAntagePoint-MorganDanowski.png)
+- [Sedra Graves](assets/png/VAntagePoint-SedraGraves.png)
 
 There are 8 Veterans featured in the campaign. 
 
-## PDFs
+<table>
+  <tr>
+    <tr>
+      <td>Gwendolyn</td>
+      <td>
+          <img src="assets/png/FB-Gwendolyn.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Gwendolyn.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Gwendolyn-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Gwendolyn.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Gwendolyn-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Jennifer</td>
+      <td>
+          <img src="assets/png/FB-Jennifer.png" width="150">
+      </td>
+        <td>
+        <a href="assets/png/FB-Jennifer.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Jennifer-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Jennifer.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Jennifer-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jennifer.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Jessica</td>
+      <td>
+          <img src="assets/png/FB-Jessica.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Jessica.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Jessica-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Jessica.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Jessica-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jessica.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Linda</td>
+      <td>
+          <img src="assets/png/FB-Linda.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Linda.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Linda-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Linda.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Linda-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Linda.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Sandrene</td>
+      <td>
+          <img src="assets/png/FB-Sandrene.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Sandrene.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Sandrene-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Sandrene.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Sandrene-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Sandrene.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Shavone</td>
+      <td>
+          <img src="assets/png/FB-Shavone.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Shavone.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Shavone-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Shavone.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Shavone-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shavone.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Shyla</td>
+      <td>
+          <img src="assets/png/FB-Shyla.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Shyla.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Shyla-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Shyla.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Shyla-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Teresa</td>
+      <td>
+          <img src="assets/png/FB-Teresa.png" width="150">
+      </td>
+      <td>
+        <a href="assets/png/FB-Teresa.png">Facebook with text</a><br>
+        <a href="assets/png/FB-Teresa-NoText.png">Facebook without text</a><br>
+        <a href="assets/png/Twitter-Teresa.png">Twitter with text</a><br>
+        <a href="assets/png/Twitter-Teresa-NoText.png">Twitter without text</a><br>
+        <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa.pdf">Download PDF flyer</a>
+      </td>
+    </tr>
+</table>
+          
 
-### 1-pager
-
-[1-pager](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf)
-
-### Flyers
+### All PDF flyers
 
 - [Gwendolyn](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf)
 - [Jennifer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jennifer.pdf)
@@ -24,17 +136,9 @@ There are 8 Veterans featured in the campaign.
 - [Teresa](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa.pdf)
 
 
-## Social media assets
+## All social media assets
 
-### VAntage Point banners
-
-- [Keisha Bellamy](assets/png/VAntagePoint-KeishaBellamy.png)
-- [Morgan Danowski](assets/png/VAntagePoint-MorganDanowski.png)
-- [Sedra Graves](assets/png/VAntagePoint-SedraGraves.png)
-
-### Facebook
-
-#### Without text
+### Facebook without text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn-NoText.png)
 - [Jennifer](assets/png/FB-Jennifer-NoText.png)
@@ -45,7 +149,7 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/FB-Shyla-NoText.png)
 - [Teresa](assets/png/FB-Teresa-NoText.png)
 
-#### With text
+#### Facebook with text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn.png)
 - [Jennifer](assets/png/FB-Jennifer.png)
@@ -56,9 +160,7 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/FB-Shyla.png)
 - [Teresa](assets/png/FB-Teresa.png)
 
-### Twitter
-
-#### Without text
+### Twitter without text
 
 - [Gwendolyn](assets/png/Twitter-Gwendolyn-NoText.png)
 - [Jennifer](assets/png/Twitter-Jennifer-NoText.png)
@@ -69,7 +171,7 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/Twitter-Shyla-NoText.png)
 - [Teresa](assets/png/Twitter-Teresa-NoText.png)
 
-#### With text
+#### Twitter with text
 
 - [Gwendolyn](assets/png/Twitter-Gwendolyn.png)
 - [Jennifer](assets/png/Twitter-Jennifer.png)
