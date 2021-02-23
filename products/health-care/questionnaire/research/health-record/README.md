@@ -26,8 +26,8 @@
 | [P12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/session-notes/P12.md) | Friday, Feb. 19 10:15 - 11:15 am ET | Yes | Veteran | Female | White or Caucasian | 65-74 | Master's degree | Navy | MD | Yes | Yes | No | 30 | Rural or remote area |
 | P13 | Friday, Feb. 19 11:30 - 12:30 pm ET | No | Veteran | Male |   |   |   |   | OR | No | No | No | 100 | Rural or remote area |
 | P14 | Friday, Feb. 19 12:45 - 1:45 pm ET | No | Veteran | Male | White or Caucasian | 35-44 | Some college (no degree) | Army | MS | No | No | No | 100 | Rural or remote area |
-| [P15](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/session-notes/P15.md) | Friday, Feb. 19 2 - 3 pm ET | | Veteran | Female | White or Caucasian | 55-64 | Master's degree | Army | AZ | No | No | No | 10 | Rural or remote area |
-| P16 | Friday, Feb. 19 3:15 - 4:15 pm ET | | Veteran | Male | Prefer not to answer | 35-44 | Bachelor's degree | Navy | VA | No | No | No | 100 | Major Metropolitan Area |
+| [P15](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/session-notes/P15.md) | Friday, Feb. 19 2 - 3 pm ET | Yes | Veteran | Female | White or Caucasian | 55-64 | Master's degree | Army | AZ | No | No | No | 10 | Rural or remote area |
+| P16 | Friday, Feb. 19 3:15 - 4:15 pm ET | No | Veteran | Male | Prefer not to answer | 35-44 | Bachelor's degree | Navy | VA | No | No | No | 100 | Major Metropolitan Area |
 
 ## 
 
