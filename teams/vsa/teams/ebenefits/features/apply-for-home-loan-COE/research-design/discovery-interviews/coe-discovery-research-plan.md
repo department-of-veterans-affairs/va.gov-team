@@ -6,12 +6,12 @@
 ---
 
 #### Background
-A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit. Specific requirements depend on service dates and details.
+A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses in order to get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit. Specific individual requirements depend on service dates and details.
 
-The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefitsto VA.gov in an effort to consolidate Veteran self-service tools -- and to susnset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
+The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to susnset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
 
 ### Goals
-The goal of this study is to determine users expectations, regarding functionality and supporting content and features, for a web-based self-service COE tool.
+This study has several goals. We want to determine where a COE tool would fit into the overall user journey, and what are the pain-points in the current process. We need to assess user expectations regarding functionality, and decide what supporting content and features would improve the tool. We need to understand what degree of acceptance there is for a web-based self-service COE tool, and what we can do to increase user adoption.
 
 #### Guiding questions
 - How and when did participants find out about VA loan benefits?
