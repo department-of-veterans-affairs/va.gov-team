@@ -1,38 +1,54 @@
 # Summary of Release Plan Steps - Campaign Landing Page MVP 1.0
 
 __Summary of release plan steps:__
-Per product sync today - We will launch batches per steps: 
+Per product sync today - We'll launch in phases to VA businesses as planed approach below: 
 
-**I. CLP MVP 1.0 Jan/Feb beta launch release: ~ TBD prod (Sprint XX/XX)**
+**I. CLP MVP 1.0 March 2021 beta launch release: ~ March 17(ish) prod (Sprint 43/44)**
 
-1. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
+1. MVP Phases of Launch:  FE Build --> Security Review --> Internal UAT --> QA Testing --> 508/Ally Testing --> Fix Identified Issues --> Stakeholder UAT --> Fix Identified Issues --> Validate CLP 1 Year Governance Strategy --> Validate user request flow and on-boarding activities for requestors --> VSP Staging Review --> Validate and Launch.    
 
-2. QA and internally validate in [demo environment](http://learningcenter.web.demo.ci.cms.va.gov/CLP): ~TBD
+2. QA and internally validate in [demo environment]: ~ QA Ticket [#19554] submitted and is happening ASYNC with Internal and Stakeholder UAT [#18756]  
 
-3. Fix any reported bugs in production environment. 
+3. Fix any reported bugs in staging environment. [#18756] 
 
-4. Beta launch on prod: Nov. 4. 
+4. Stakeholder UAT with 2x VA Business Offices:  Scheduled for Thursday, February 25 and Wedensday, March 3, 2021. 
 
-5. Implement search.gov index of LC pages in Prod on Nov. 4 once in Prod.
+5. Beta launch on prod: March 17(ish) pending staging review feedback and Stakeholder UAT.   
 
-6. Test CLP Panel component. (Test phase by Stakeholders to validate funcationality of built panels.  Content will not be published live 'Prod until MVP 1.1 is launched)
+5. Test CLP Panel component. (Test phase by Stakeholders to validate funcationality of built panels.  Content will not be published live 'Prod until MVP 1.1 is launched)
 
 7. Follow on with post-launch page updates/BUGs: Incorporate into MVP 1.1 as observed fixes/updates to MVP 1.0 environment. 
 
 
-**II. 1.1 March/April 2021 release: ~ TBD** 
+## Campaign Landing Page - Year 1 Governance Strategy
+Only VACO Digital Media teams will be allowed access to the CLP page builder with editing and publishing rights. Those teams and leads are:
+VHA (Leads: Jennifer Heiland-Luedtke and Jeffrey Grandon)
+VBA (Lead: Sandy Tadeo)
+VEO (Lead: Tim Hudak)
+NCA (Lead: James LaPaglia) 
+OPIA (Leads: Gary Hicks and Josh Tuscher)
 
-4. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
+These Digital Media teams will need to be provided ample training (“certification”) on how to use the CLP as part of on-boarding.
 
-5. Internally validate 1.1 prod articles in [demo environment](http://learningcenter.demo.ci.cms.va.gov/).
+For Year 1,  program offices that want to create a CLP must work through these Digital Media teams – and the leads will be responsible to ensuring the CLPs adhere to our release standards (acceptance criteria).
 
-6. Fix identified bugs (if any) ensure any MVP 1.0 bugs/updates are implimented prior to next step.
+There will be both an upfront “light” Collab Review (to ensure the CLP is the right fit) and pre-launch staging Collab review (to ensure the CLP meets acceptance criteria).  For VA.gov the review team will be Public Website PO and the Analytics, IA and Content SMEs.
+It is anticipated that some CLPs will be built in stages – for example, the launch phase might incorporate a “starter set” of content panels with additional panels (e.g. video, FAQs) added post-launch.  Reviews will not be required in this follow-on phases.
 
-7. Publish on prod. 
+Jen’s position: URLs will be set by the H1 and rigid (e.g., does not change even if the H1 does).
+Users can not re-use a CLP for a different campaign
 
-8. Validate on prod.   
-
-9. Redirect and retire legacy content. 
+## Campaign Landing Page - Start to Finish Process Flow:
+1. Assess
+2. Request CLP (Via online form)
+3. Auto Reply (watch an on-boarding video, CLP 101 with timeline)
+4. Meeting setup via PW team: Review Goals, URL, Analytics
+5. CLP Approval --> Create
+6. Build (VA Stakeholder Build)
+7. Review (PW, Product, IA, Content)
+8. Launch --> Manage/Monitor
+9. Measure and monitor (weekly Campaing report)
+10. Campaing Sunset (Based on predetermined DTG)
 
 ---
 
@@ -41,13 +57,13 @@ Per product sync today - We will launch batches per steps:
 ### Planning - 1.0 October/Nov beta launch release**:
 
 - **Date range:**
-  - Starting ~Oct 28 - Nov. 3 
+  - Starting ~Feb 25 - Mar 3, 2021 
 - **Test duration:**
-  - 5 business days
+  - 5 business days (Testing will be fluid based on VA Stakeholder availability)
 - **Desired number of users:** 
-  - 25
+  - 2x VA Business Stakholders 
 - **How you'll recruit the right production test users:** 
-  - PW team, DEPO volunteers, and forms stakeholders
+  - PW team, OCTO-DE PO, VA stakeholders (Invested)
 - **How you'll conduct the testing:** 
   - Provide testers with a list of key word search options as related to available LC content. 
   - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
