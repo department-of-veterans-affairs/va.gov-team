@@ -8,7 +8,7 @@ This is a high-level description of the introduction page for form benefit appli
 
 This page gives users step-by-step information on how to apply for a benefit. It also sets clear expectations on when they can expect a decision on their application. This page also gives users ways to get help, as well as important information about that specific form or benefit.  
 
-Users can navigate to a form’s introduction page either from within VA.gov or through an online search. Since users can navigate to this page from outside VA.gov, this page should include some basic benefit eligibility information or a link back to the VA.gov eligibility page. 
+Users can navigate to a form’s introduction page either from within VA.gov or through an online search. Since users can navigate to this page from outside VA.gov, it's recommended that this page include some basic benefit eligibility information or a link back to the VA.gov benefit eligibility page. 
 
 ## Form Introduction live page examples
 
@@ -63,7 +63,7 @@ The exception is Disability Compensation form. Users need to sign in to start th
 
 ## Subway map/Process list
 
-Subway map, or [process list](https://design.va.gov/components/process-list), describes the process to apply for a beneift. The heading start with action words and are short/concise. We’ve made these consistent across forms. 
+Subway map, or [process list](https://design.va.gov/components/process-list), describes the steps the user should take to apply. The headings start with action words and are short/concise. We’ve made these consistent across forms. 
 
 **Prepare**
 
@@ -82,7 +82,7 @@ This steps tells the user what they need to fill out the form (Social Security n
 
 **Apply**
 
-The standard langauge we use across forms: 
+The is standard langauge we use across forms: 
 Complete this [benefits] form. After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
 **What if I need help filling out my application?**
@@ -119,6 +119,7 @@ It also sets the user’s expectation for how long it takes to receive a respons
 This information is taken from the paper form (or provided by a VA stakeholder). It appears at the bottom of the form introduction page:
 - Respondent burden (pulled from the paper form)
 - OMB control number (pulled from the paper form)
+- Expiration date (pulled from the paper form)
 - Privacy Act Statement (link)
 
 ----
@@ -138,7 +139,7 @@ If you have hearing loss, call TTY: 711[hyperlink}
 
 ----
 
-## Other components on the introduction page
+## Other optional components on the introduction page
 
 ### Alert boxes (optional)
 
