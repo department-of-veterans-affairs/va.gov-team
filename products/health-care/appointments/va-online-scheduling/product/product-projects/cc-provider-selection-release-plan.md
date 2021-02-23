@@ -19,6 +19,11 @@ Nov 2020 | 902,403 | 2,288 | 0.2% |
 Dec 2020 | 1,103,090 | 1,883 | 0.1% |
 Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 
+**Benchmark - Total CC**
+August 28, 2020 - February 16, 2021
+- Preferences step completion = 76.83%
+- Request submissions = 45.21%
+
 ### Stage A: Canary
 
 #### Planning
@@ -28,11 +33,15 @@ Jan 2021 | 1,242,306 | 2,541 | 0.2% |
   - Will increase if there aren't enough appointments coming through as a sample size
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- Percetange of Users: 2/17 - 10%, 2/18-2/22 - 15%
+- Number of unique users: 35
+- Traffic to new page: 48
+- Metrics at this stage (per your "success criteria"):
+  - Preferences step completion = 79.25% (+2.42% of bench, +0.39% PW)
+  - Request submissions = 48.75% (+3.54% of bench, +1.48% PW)
+- Was the data submitted (if any) easy for VA to process?: no
+- Types of errors logged: none
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? n/a
 
 ### Stage B: moderate
 
