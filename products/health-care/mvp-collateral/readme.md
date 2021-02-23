@@ -131,17 +131,6 @@ There are 8 Veterans featured in the campaign.
 
 ## All social media assets
 
-### Facebook without text
-
-- [Gwendolyn](assets/png/FB-Gwendolyn-NoText.png)
-- [Jennifer](assets/png/FB-Jennifer-NoText.png)
-- [Jessica](assets/png/FB-Jessica-NoText.png)
-- [Linda](assets/png/FB-Linda-NoText.png)
-- [Sandrene](assets/png/FB-Sandrene-NoText.png)
-- [Shavone](assets/png/FB-Shavone-NoText.png)
-- [Shyla](assets/png/FB-Shyla-NoText.png)
-- [Teresa](assets/png/FB-Teresa-NoText.png)
-
 ### Facebook with text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn.png)
@@ -153,16 +142,16 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/FB-Shyla.png)
 - [Teresa](assets/png/FB-Teresa.png)
 
-### Twitter without text
+### Facebook without text
 
-- [Gwendolyn](assets/png/Twitter-Gwendolyn-NoText.png)
-- [Jennifer](assets/png/Twitter-Jennifer-NoText.png)
-- [Jessica](assets/png/Twitter-Jessica-NoText.png)
-- [Linda](assets/png/Twitter-Linda-NoText.png)
-- [Sandrene](assets/png/Twitter-Sandrene-NoText.png)
-- [Shavone](assets/png/Twitter-Shavone-NoText.png)
-- [Shyla](assets/png/Twitter-Shyla-NoText.png)
-- [Teresa](assets/png/Twitter-Teresa-NoText.png)
+- [Gwendolyn](assets/png/FB-Gwendolyn-NoText.png)
+- [Jennifer](assets/png/FB-Jennifer-NoText.png)
+- [Jessica](assets/png/FB-Jessica-NoText.png)
+- [Linda](assets/png/FB-Linda-NoText.png)
+- [Sandrene](assets/png/FB-Sandrene-NoText.png)
+- [Shavone](assets/png/FB-Shavone-NoText.png)
+- [Shyla](assets/png/FB-Shyla-NoText.png)
+- [Teresa](assets/png/FB-Teresa-NoText.png)
 
 ### Twitter with text
 
@@ -174,6 +163,17 @@ There are 8 Veterans featured in the campaign.
 - [Shavone](assets/png/Twitter-Shavone.png)
 - [Shyla](assets/png/Twitter-Shyla.png)
 - [Teresa](assets/png/Twitter-Teresa.png)
+
+### Twitter without text
+
+- [Gwendolyn](assets/png/Twitter-Gwendolyn-NoText.png)
+- [Jennifer](assets/png/Twitter-Jennifer-NoText.png)
+- [Jessica](assets/png/Twitter-Jessica-NoText.png)
+- [Linda](assets/png/Twitter-Linda-NoText.png)
+- [Sandrene](assets/png/Twitter-Sandrene-NoText.png)
+- [Shavone](assets/png/Twitter-Shavone-NoText.png)
+- [Shyla](assets/png/Twitter-Shyla-NoText.png)
+- [Teresa](assets/png/Twitter-Teresa-NoText.png)
 
 ### VAntage Point banners
 
