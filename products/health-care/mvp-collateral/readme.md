@@ -6,13 +6,6 @@ Contact Jennifer.Deen@va.gov with any questions.
 
 <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf"><b>Download the PDF 1-pager</b></a>
 
-
-### VAntage Point banners
-
-- [Keisha Bellamy](assets/png/VAntagePoint-KeishaBellamy.png)
-- [Morgan Danowski](assets/png/VAntagePoint-MorganDanowski.png)
-- [Sedra Graves](assets/png/VAntagePoint-SedraGraves.png)
-
 There are 8 Veterans featured in the campaign. 
 
 <table>
@@ -149,7 +142,7 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/FB-Shyla-NoText.png)
 - [Teresa](assets/png/FB-Teresa-NoText.png)
 
-#### Facebook with text
+### Facebook with text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn.png)
 - [Jennifer](assets/png/FB-Jennifer.png)
@@ -171,7 +164,7 @@ There are 8 Veterans featured in the campaign.
 - [Shyla](assets/png/Twitter-Shyla-NoText.png)
 - [Teresa](assets/png/Twitter-Teresa-NoText.png)
 
-#### Twitter with text
+### Twitter with text
 
 - [Gwendolyn](assets/png/Twitter-Gwendolyn.png)
 - [Jennifer](assets/png/Twitter-Jennifer.png)
@@ -181,3 +174,9 @@ There are 8 Veterans featured in the campaign.
 - [Shavone](assets/png/Twitter-Shavone.png)
 - [Shyla](assets/png/Twitter-Shyla.png)
 - [Teresa](assets/png/Twitter-Teresa.png)
+
+### VAntage Point banners
+
+- [Keisha Bellamy](assets/png/VAntagePoint-KeishaBellamy.png)
+- [Morgan Danowski](assets/png/VAntagePoint-MorganDanowski.png)
+- [Sedra Graves](assets/png/VAntagePoint-SedraGraves.png)
