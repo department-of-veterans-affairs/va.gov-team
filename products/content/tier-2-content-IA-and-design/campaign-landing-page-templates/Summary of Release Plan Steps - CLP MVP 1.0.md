@@ -86,19 +86,21 @@ Users can not re-use a CLP for a different campaign
   
 ### Results:
 
-- Number of users: 
-- Number of bugs identified / fixed: x/x
+- Number of users: 2x VA Stakeholders 
+- Number of bugs identified / fixed: 0/0
 - ~Was the data submitted (if any) easy for VA to process?~ There is nothing to submit.
-- Types of errors logged: x/x
+- Types of errors logged: 0/0
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: x/x
-- Links to dashboard(s) showing "success criteria" metrics: TBD
+- If yes, what: 0/0
+- Links to dashboard(s) showing "success criteria" metrics: WIP
 
 ## Go Live! - Open launch 
 
 - No redirect Implimentations: Not using basic/auth removal based on lack of availability. 
 
 - Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.
+
+- See Governance and CLP Start to Finish workflow for additional details for on-boarding, build and launch process.
 
 ### Planning:
 
