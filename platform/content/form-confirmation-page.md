@@ -20,7 +20,6 @@ File for [benefit] or Apply for [benefit] and the VA paper form equivalency appe
 
 **2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>**
   
-      **Thank you for submitting your application** or <br>
       **We've received your application**
     
    
@@ -60,7 +59,7 @@ Some examples of other content or questions we might want to include on a form's
 
 - Are there any actions the applicant needs to take while they wait? 
 
-- What they can the applicant do if they have additional questions after they apply? 
+- What can the applicant do if they have additional questions after they apply? 
 
 **7. CTA button**
 
