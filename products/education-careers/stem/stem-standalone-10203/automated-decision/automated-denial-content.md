@@ -22,7 +22,9 @@ View details {button}
 
 ## Why we denied your claim ##
 
-### You did not meet these criteria for the Rogers STEM Scholarship: ###
+To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
+
+#### You did not meet these criteria for the Rogers STEM Scholarship: ####
 
 { Only include applicable criteria }
 
@@ -47,7 +49,7 @@ View details {button}
          - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
           
           
-### You met these criteria for the Rogers STEM Scholarship: ###
+#### You met these criteria for the Rogers STEM Scholarship: ####
 
 { Only include applicable criteria }
 
@@ -127,15 +129,16 @@ TTY, Federal Relay: [711]()
 
 #### Send us mail ####
 
+Include your full name and VA file number on the inside of mailed correspondence, not on envelope.
+
 Mailing Address: 
-(Include your full name and VA file number on the inside of mailed correspondence, not on envelope)
 
-DEPARTMENT OF VETERANS AFFAIRS
+Department of Veteran Affairs
 
-BUFFALO REGIONAL OFFICE
+Buffalo Regional Office
 
-PO BOX 4616
+PO Box 4616
 
-BUFFALO, NEW YORK 14240-4616
+Buffalo, New York 14240-4616
 
 { end right sidebar }
