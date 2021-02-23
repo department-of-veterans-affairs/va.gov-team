@@ -7,7 +7,7 @@ Agenda
 *   Training tracking for VAMC editors - currently a manual, clerical activity that is part of VAMC user administration 
     *  could create potential issues as more VAMC editors are added and potentially Vet Center editors as well
     
-* Other topics?
+*   CLP training week of March 8?
 
 
 ### **February 10, 2021**
