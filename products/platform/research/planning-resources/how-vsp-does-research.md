@@ -392,6 +392,7 @@ Sample readouts
 
 
 
+*   [TEMPLATE: VFS research readout](https://docs.google.com/presentation/d/18BzmktfnqHCW78SNkaPgQlZXUw178ZjbOimPRFoy1rE/edit?usp=sharing)
 *   [EXAMPLE: VFS usability test readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/CT-RedesignReadout-ExecSum-20201130.pdf)
 *   EXAMPLE: VSP Collaboration Cycle Custom Tracks
 
