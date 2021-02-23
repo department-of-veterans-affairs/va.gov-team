@@ -34,12 +34,15 @@ This study has several goals. We want to determine where a COE tool would fit in
 - Participants would use VA.gov if it provided easy to follow guidance and direct avenues to address process issues
 
 ### Method
-We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers and notetakers may be in attendance.
+We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to the discovery interview process
 - The participant will be guided through a series of open-ended questions
 - There will be a quick Q/A and wrap-up
+
+#### Notetaking
+We request that Perigean take notes -- verbatim if possible --  during interviews.
 
 ### Participants and recruitment
 
