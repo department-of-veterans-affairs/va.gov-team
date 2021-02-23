@@ -12,20 +12,26 @@ The Certificate of Eligibility feature (VA From 26-1880) is being migrated from 
 
 ### Goals
 The goal of this study is to determine users expectations, regarding functionality and supporting content and features, for a web-based self-service COE tool.
-<!--
+
 #### Guiding questions
-- Where on VA.gov do users expect to find direct deposit (DD) information? 
-- How often do users expect to review and/or update their DD information?
-- What barriers prevent users from easily submitting changes to their DD info?
-- How do users react to the two different "categories" of payments--and having to change them separately? 
-- What other features do users expect on the DD screen?
+- How and when did participants find out about VA loan benefits?
+- Where did participants look for information about VA-backed loans?
+- What processes did users experienced when applying for a VA-backed loan?
+- How did users obtain a COEs?
+- What went well in the COE/loan processes?
+- What problems did patrticipants encounter in applying for VA-backed loans?
+- What new features, information or tools would be beneficial?
+- Would participants use VA.gov for information, tools or applications in the future?
 
 #### Hypotheses
-- Users may have some difficulty locating their direct deposit information
-- Users will rarely, some occasionally, change their direct deposit information
-- Participants will accept and easily navigate the DD edit function
-- Participants will have some questions/hesitation about **two** distinct Direct Deposit features
-- Users may want more information about the DD change process
+- Participants initially heard about VA loan benefits via word-of-mouth
+- Participants expected their lenders to know about VA-backed loans
+- Participants gernerally followed their lenders leads through the loan process
+- Participants received COEs either via a VA office or through their lender
+- Participants found the VA-backed loan process generally confusing
+- Process stumbling blocks arose around documentation issues, however COE was likely fairly straight-forward
+- Participants will want a simple, easy to follow, bullet-ized process flow with direct links (email, chat, phone numbers) to VA problem-solvers
+- Participants would use VA.gov if it provided easy to follow guidance and direct avenues to address process issues
 
 ### Method
 We will engage in moderated discovery interviews conducted remotely using Zoom. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants will be recruited using Perigean. The sessions will be recorded, and observers and notetakers may be in attendance.
@@ -34,7 +40,7 @@ We will engage in moderated discovery interviews conducted remotely using Zoom. 
 - There will be a quick warm-up and introduction to the discovery interview process
 - The participant will be guided through a series of open-ended questions
 - There will be a quick Q/A and wrap-up
--->
+
 ### Participants and recruitment
 
 Recruit for 5 fulfilled sessions using the following criteria:
@@ -58,7 +64,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
-#### When
+### When
 
 #### Testing sessions
 
