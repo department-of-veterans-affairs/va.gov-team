@@ -17,8 +17,8 @@ assignees: andreahewitt-odd, shiragoodman
 - [ ] VFS: Close this ticket when all steps above are completed.
 
 ## Artifacts (if available)
-- Link to rough draft of [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Link to protoypes or mock ups
+- Link to draft of [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+- Link to wireframes, mockups, or prototypes
 - Any other artifacts you have so far
 
 ## Questions
