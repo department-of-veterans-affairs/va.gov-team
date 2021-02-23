@@ -11,9 +11,15 @@ assignees: andreahewitt-odd, shiragoodman
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
 - [ ] VFS: Answer the questions below.
 - [ ] VFS: Link to this issue once created in vfs-platform-support in Slack; tag @vsp-product-support-members.
+- [ ] VFS: Attach any available artifacts.
 - [ ] VSP: Review the responses and comment in ticket with recommended touchpoints and practice area involvement.
 - [ ] VSP: Add project/feature to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 - [ ] VFS: Close this ticket when all steps above are completed.
+
+## Artifacts (if available)
+- Link to rough draft of [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+- Link to protoypes or mock ups
+- Any other artifacts you have so far
 
 ## Questions
 Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md) for detailed information and examples for the below questions.
