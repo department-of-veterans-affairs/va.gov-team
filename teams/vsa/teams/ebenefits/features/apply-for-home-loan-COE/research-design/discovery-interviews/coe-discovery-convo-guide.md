@@ -49,6 +49,7 @@ There are a few things I need to mention before we start:
 - Thinking about your experience with VA websites, what experiences -- good and bad -- have you had in trying to manage your benefits?
 - How do you feel about using VA websites for some or all of the VA loan process? What would you need to do that?
 - What could we do -- on VA.gov or in the real world -- to make the getting a VA-back loan easier? 
+- Looking back, what questions do you wish you had answered before you started?
 - How could we make getting a COE simpler?
 - Thinking about the whole process, what advice would you give to someone applying for a VA-backed loan?
 
