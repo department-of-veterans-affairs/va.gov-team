@@ -35,6 +35,22 @@
 
 </details>
 
+## Wednesday February 24
+
+"CLP service design"
+
+* **Create CLP Product Guide PPT/PDF** for call center — this could be translated into a user guide for the CMS learning center  (with additional instructional add-in/editing/formatting) — I hope to get this completed this week.
+* **Produce CLP Product Video for call center** — this could be posted in the CMS learning center if it fits.  BTW: Is this something your team creates?
+* Spin-up the “**Request for CLP page builder**” online form (optimally) .  Talking to DEPO folks about whether we can use smartsheet — as seen here.
+* Determine what “**training/certification**” must be done by CLP users before we give them the keys.
+
+Questions about these: 
+- who owns what (CMS/PW)
+- what’s needed for beta group vs the next cohort of users
+
+
+
+
 ## Wednesday February 17
 
  * CLP alpha user review (John and Randi's comments) - [See google doc](https://docs.google.com/document/d/1gUTTX0-8Cm-nBVQ5CI_k15bgqSXHpGNm/edit)
