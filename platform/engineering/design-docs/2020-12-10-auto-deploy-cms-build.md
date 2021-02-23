@@ -71,7 +71,7 @@ The initial schedule will run between 8am and 8pm ET to align with CMS support h
 - At first, it will be set to run hourly as a conservative cadence.
 - It will then be incrementally adjusted to a higher frequency as the build system allows.
 
-To avoid deploying when content hasn't changed since the previous deploy, the job will compare the export data (e.g., using and archiving the checksums of the tarballs).
+To avoid deploying when content hasn't changed since the previous deploy, the job will compare the GraphQL query data (e.g., using and archiving the checksums of the cached tarballs).
 
 To differentiate between the auto-deploys, we will refer to the new one as the **content-only auto-deploy** and the existing one as the **daily or full auto-deploy**.
 
@@ -164,17 +164,9 @@ The following behaviors should be observed cumulatively as they are implemented.
 2. Job runs on the defined schedule.
 3. Deploy doesn't proceed when no new content has been published.
 
-### Logging
-
-On top of the existing build logs, the new content-only deploy will output logs for the new transformation processes in the CMS export build.
-
 ### Debugging
 
 The auto-deploy pipeline can be debugged by reading its console output. The S3 bucket can be checked to confirm whether the build has been deployed.
-
-The CMS export build will validate the input and output schemas of the transformers, so errors related to the build itself can be debugged using that output.
-
-As with the full build, during the rollout, there will be a comparison of GraphQL and CMS export builds to report errors when discrepancies between the two are found. The script used for this comparison will have some console output as well as an output JSON file describing the discrepancies.
 
 To determine whether a page exists in the Drupal content, we can go to [`staging.va.gov/drupal/debug/`](staging.va.gov/drupal/debug/). This page is not available in production, however.
 
