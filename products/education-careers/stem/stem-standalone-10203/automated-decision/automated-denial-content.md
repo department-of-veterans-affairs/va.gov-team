@@ -83,15 +83,15 @@ View details {button}
  
  If you disagree with our decision, you have 1 year from the date of this letter to request a decision review or appeal. You have 3 options to do this:
  
-  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995. Go to https://www.va.gov/find-forms/about-form-20-0995/ to download the form.
+  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995. [Download VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
      
-  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996. Go to https://www.va.gov/find-forms/about-form-20-0996/ to download the form.
+  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996. [Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
      
-  - If you don't agree with the decision on your Supplemental Claim or Higher-Level Review, you can appeal to a Veterans Law Judge by completing VA Form 10182. Go to https://www.va.gov/find-forms/about-form-10182/ to download the form.
+  - If you don't agree with the decision on your Supplemental Claim or Higher-Level Review, you can appeal to a Veterans Law Judge by completing VA Form 10182. [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
 
-You can read more about these options on VA Form 20-0998, "Your Rights to Seek Further Review of Our Decisions". Go to https://www.va.gov/find-forms/about-form-20-0998/ to download this form.  You can also contact us at (888) GI BILL 1 (888-442-4551) to request any of these forms.
+You can read more about these options on VA Form 20-0998, "Your Rights to Seek Further Review of Our Decisions". [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  You can also contact us at (888) GI BILL 1 (888-442-4551) to request any of these forms.
 
-You can learn more about the decision review process at https://www.va.gov/decision-reviews. If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your account on https://www.va.gov.
+[Learn more about the decision review process.](https://www.va.gov/decision-reviews) If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your account on https://www.va.gov.
 
 ## If you have questions or need assistance ##
 
@@ -99,10 +99,42 @@ You can learn more about the decision review process at https://www.va.gov/decis
 | ------- | ----- |
 | Rogers STEM Scholarship | https://www.va.gov/education/other-va-education-benefits/stem-scholarship/ |
 | VA Forms | https://www.va.gov/vaforms |
-| Ask a Question (Include your full name and VA file number) | https://gibill.custhelp.va.gov/app/ |
-| Mailing Address: (Include your full name and VA file number on the inside of mailed correspondence, not on envelope) | DEPARTMENT OF VETERANS AFFAIRS; BUFFALO REGIONAL OFFICE ; PO BOX 4616; BUFFALO, NEW YORK 14240-4616 |
-| Education Call Center | 1-888-GI-BILL-1 (1-888-442-4551) (inside the U.S); 001-918-781-5678 (outside the U.S.) |
-| TTY, Federal Relay | 711 |
-| Veterans Crisis Line | 1-800-273-8255 and press 1 |
-| VA Regional Office Location | https://www.va.gov/find-locations |
 | GI Bill® Comparison Tool: This tool allows you to get information on a school’s value and affordability; and to compare estimated benefits by school. | https://www.va.gov/gi-bill-comparison-tool |
+
+{ right sidebar }
+### Need help? ###
+{ blue divider line }
+
+#### Ask questions ####
+[Ask a question online](https://gibill.custhelp.va.gov/app/)  (Include your full name and VA file number)
+
+#### Call us ####
+Veterans Crisis Line: 
+[1-800-273-8255]() and press 1
+
+Education Call Center:
+[1-888-GI-BILL-1 (1-888-442-4551)]()
+(inside the U.S.)
+
+[001-918-781-5678]() (outside the U.S.)
+
+
+[VA Regional Office Location](https://www.va.gov/find-locations)
+
+
+TTY, Federal Relay: [711]()
+
+
+#### Send us mail ####
+
+Mailing Address: 
+(Include your full name and VA file number on the inside of mailed correspondence, not on envelope)
+
+DEPARTMENT OF VETERANS AFFAIRS
+
+BUFFALO REGIONAL OFFICE
+
+PO BOX 4616
+
+BUFFALO, NEW YORK 14240-4616
+
