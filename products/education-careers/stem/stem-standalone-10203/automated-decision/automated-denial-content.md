@@ -95,7 +95,7 @@ You can read more about these options on VA Form 20-0998, "Your Rights to Seek F
 
 [Learn more about the decision review process.](https://www.va.gov/decision-reviews) If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your account on https://www.va.gov.
 
-## If you have questions or need assistance ##
+## More resources ##
 
 | Website | Link |
 | ------- | ----- |
