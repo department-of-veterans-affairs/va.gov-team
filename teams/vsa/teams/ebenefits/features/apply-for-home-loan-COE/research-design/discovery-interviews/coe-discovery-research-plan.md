@@ -69,7 +69,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - The participants have Zoom downloaded prior to the session or
 - The participants can call into the Zoom number
 
-### When
+### Session scheduling
 
 #### Pilot session
 `| Date/time TBD |`
@@ -80,11 +80,11 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| March X, 2021 | 9 AM to 5 PM |
-| March X, 2021  | 9 AM to noon |
-| March X, 2021  | 9 AM to noon |
-| March X, 2021  | 9 AM to 5 PM |
-| March X, 2021  | 9 AM to 5 PM |
+| March 1, 2021 | 9 AM to 5 PM |
+| March 2, 2021  | 9 AM to 5 PM |
+| March 3, 2021  | 9 AM to noon |
+| March 4, 2021  | 9 AM to 5 PM |
+| March 5, 2021  | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
