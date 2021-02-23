@@ -13,7 +13,7 @@ Per product sync today - We'll launch in phases to VA businesses as planed appro
 
 4. Stakeholder UAT with 2x VA Business Offices:  Scheduled for Thursday, February 25 and Wedensday, March 3, 2021. 
 
-5. Beta launch on prod: March 17(ish) pending staging review feedback and Stakeholder UAT.   
+5. Beta launch on prod: March 17(ish) pending staging review feedback and Stakeholder UAT.  _Note: This will be available for Stakeholder use and not necessarily launched on Production.  The tool should be 100% ready for any internal VA Stakeholder to use post "Launch" date as noted_ 
 
 5. Test CLP Panel component. (Test phase by Stakeholders to validate funcationality of built panels.  Content will not be published live 'Prod until MVP 1.1 is launched)
 
