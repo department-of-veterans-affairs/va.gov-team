@@ -65,8 +65,11 @@ If your application wasn’t approved, you’ll get a denial letter in the mail.
 
 
 Respondent burden: **10 minutes**
+
 OMB Control #: **2900-0866**
+
 Expiration date: **04/30/2022**
+
 [Privacy Act Statement](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction)
  
 ________________________________________
@@ -120,13 +123,34 @@ Are you on full-time duty in the Armed Forces? (This doesn't include active-duty
  * Yes
  * No
 
-{ if yes, display conditional content: VET TEC is available only to Veterans. If you're an active-duty service member, please consider applying for VET TEC when you're no longer on active duty. }
+{ if yes, display conditional question }
 
-Are you in the Selected Reserve or National Guard **and** do you expect to be called to duty for 30 days or more? { radio buttons }
- * Yes
- * No
+Enter the date you expect to be released from active duty.  Estimates are ok.  (*Required )
+{ date picker component: https://design.va.gov/storybook/?path=/docs/components-date--default }
+ * Month
+ * Day
+ * Year
 
-**Note:** Your eligibility for VET TEC may be affected if you’re called to active duty. Please let us know as soon as possible if there’s a change in your military status.
+{ If date selected is greater than 180 days from current date, display the following message }
+
+VET TEC is only available to Veterans or service members within 180 days of their release from active duty. Please consider submitting your VET TEC application when you're within 180 days of separating service, or are no longer on active duty.
+
+{ If date selected is 180 days or less from current date, display the following message}
+
+We may contact you to verify your release from active duty is expected within 180 days from the date of this application. 
+
+If you don’t have your DD-214 yet, you can request a certification through your Military Personnel Office that you expect to be discharged/released from active duty service in the Armed Forces no later than 180 days after the date this application was submitted. 
+
+An honorable discharge is required to be eligible for VET TEC.
+
+{ end: if yes }
+{ if no (Are you on full-time duty in the Armed Forces?) display the following question and note }
+
+Do you expect to be called to active duty while enrolled in a VET TEC program?
+* Yes
+* No
+
+**Note:** Your eligibility for monthly housing allowance may be affected if you're called to active duty while receiving VET TEC benefits. Please let us know as soon as possible if there's a change in your military status.
   
 
 [ Back | Continue ] { buttons } [Finish this application later.]()
