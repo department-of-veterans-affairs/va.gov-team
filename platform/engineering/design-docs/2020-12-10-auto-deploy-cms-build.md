@@ -213,7 +213,6 @@ There are no new privacy concerns with the auto-deploy as user data is not invol
 
 ### Work Estimates
 
-- Create a new content-only deploy job (5 pts)
 - Run the partial deploy on a schedule (3 pts)
 - Auto-deploy only new content (3 pts)
 
