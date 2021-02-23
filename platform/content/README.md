@@ -19,7 +19,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
 
 ### <a id="whatwedo"></a> What we do
 
-VSP Content provides guidance and feedback on all content being created across VA.gov to ensure it follows our content best practices, such as: 
+VSP Content provides guidance and feedback on content being created across VA.gov to ensure it follows our content best practices, such as: 
 
 -	[ ] [Voice](https://design.va.gov/content-style-guide/content-principles.html): Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
@@ -36,20 +36,17 @@ The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 
 VSP provides content feedback and guidance during the following Collaboration Cycle check-in meetings: 
 
-- **Project Kickoff:** During the kickoff, we'll get a better understanding of the problem your team is trying to solve. Engaging content  as early as possible in your work will provide us with background information, and well as help us understand scope, audience, and timing. We'll also be able to identity if there are any areas of your project that might need additional support or collaboration. 
+- **Collaboration Cycle Kickoff:** This is an asynchronous steps where we'll get a better understanding of the problem your team is trying to solve. During this step Collaboration Cycle reviewer will also be able to identity if there are any areas of your project that might need additional support or collaboration. 
 
-- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the product/tool, and if there are areas where content can improve their experience. 
+- **Midpoint Review:** We’ll review mockup or prototypes to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the product/tool, and if there are areas where content can improve their experience. 
 
-- **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
+- **Staging Review:** We’ll provide feedback on your completed product on staging before it’s launched. During this touchpoint, it's recommended that we do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
 ### <a id="othercontentsupport"></a> Other content support
 Other areas VSP content can provide support:
 
 - **Error messages and downtime notifications** Please reach out to us for help writing error and downtime messages. You can see our current list of [error messages](https://design.va.gov/patterns/messaging-dictionary) here. 
 
-- **Content office hours** We host weekly content office hours in conjunction with DEPO content lead. This is a meeting for anyone writing or working with content (writers, UX design, accessibility) to get guidance on content principles, discuss content best practice and recommendations, and ask questions/get feedback on WIP content work.
-
-Content office hours are Fridays from 12:30-1:15 p.m. ET. 
 
 ### <a id="resourcesandguides"></a> Resources and guides
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo.
