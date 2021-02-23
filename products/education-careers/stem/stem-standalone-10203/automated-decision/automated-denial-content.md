@@ -22,7 +22,7 @@ View details {button}
 
 ## Why we denied your claim ##
 
-To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
+### To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria. ###
 
 #### You did not meet these criteria for the Rogers STEM Scholarship: ####
 
