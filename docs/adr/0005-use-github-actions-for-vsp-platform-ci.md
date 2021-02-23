@@ -1,4 +1,4 @@
-# 5. Use GitHub Actions For VSP Platform CI
+# 5. We will not use CircleCI for Platform CI
 
 Date: 2021-02-16
 
