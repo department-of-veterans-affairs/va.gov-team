@@ -18,7 +18,7 @@ These are some common commands you might find useful:
 1. Save the sprint-report.rb file to your machine as "sprint-report.rb" 
 1. Confirm you have ruby on your machine. If you don't, download a version that works for machine
 1. Generate a new Zenhub API Token from your personal Zenhub profile - https://app.zenhub.com/dashboard/tokens
-1. Replace the placeholder text with your Zenhub API Token in " " 
+1. Replace the placeholder text with your Zenhub API Token in " " on line 39
 
 ### Running the tool
 1. [Grab your sprint/milestone ID](https://github.com/department-of-veterans-affairs/va.gov-team/milestones) Typically a 3-digit number
