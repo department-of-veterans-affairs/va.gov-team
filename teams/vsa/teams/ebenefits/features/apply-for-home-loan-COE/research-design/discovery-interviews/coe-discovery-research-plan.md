@@ -89,6 +89,8 @@ Please allow 30 minutes between sessions.
 - Derek Dyer | ddyer@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
+- Matt Self | matt.self2@va.gov -- Product Co-Owner
+- Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
 - Kelli.Deinarowicz@va.gov
 - Erin.Griffiths1@va.gov
 - Daniel.Stenavich@va.gov
