@@ -48,19 +48,20 @@
 | [Product] | -- | # |
 
 
-## Sprint 42 - Sprint Theme
+## Sprint 42 - Real Data via Lighhouse
 2/24/2021 - 3/9/2021
 - [Milestone 462](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/462)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [FE] Integration of HealthQuest service to post to Lighthouse PGD  | -- | #19587 |
+| [BE] Implement Lighthouse Appt API | -- | #19656, #20246, #20247,multiple |
+| [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [UI/Product] Stakeholder Interviews for Health Records| -- | #20315 |
+| [UI] User Research Findings Report- Health Records | -- | #19605 |#20095
+| [UI] Wireframes - Health Records | -- | #20095 |
 
-
-## Sprint 41 - Real Data via Lighhouse
+## Sprint 41 - API Integration 
 2/10/2021 - 2/23/2021
 - [Milestone 461](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/461)
 
@@ -71,10 +72,9 @@
 | [UI] Completed Tab Defaults to a filtered date range | -- | #19347 |
 | [UI] User Research Sessions for Health Records | -- | #19586 |
 | [FE] Integration the Questionnaire List with the API| -- | #16574 |
-| [FE]  Pull in real appointment data for the quesitonnaire| -- | #16581 |
 | [BE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
 | [BE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
-| [BE]  Timline view of remaining work and dependencies | -- | # |
+| [BE]  Timeline view of remaining work and dependencies | -- | # |
 
 
 ## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
