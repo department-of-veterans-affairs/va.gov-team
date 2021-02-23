@@ -9,6 +9,7 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
+| Data Flow Diagram | [Adobe XD]() | Not yet available | TBD | --- |
 | Concept Mockups | [Adobe XD]() | Not yet available | TBD | --- |
 | Prototype | [UXPin]() | Not yet available | TBD | --- |
 
@@ -27,6 +28,8 @@
 ### Research
 
 [Discovery interviews research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
+
+[Discovery interviews conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
 
 
 #### Existing web pages
