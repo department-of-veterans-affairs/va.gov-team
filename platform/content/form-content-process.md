@@ -32,7 +32,7 @@ At the beginning of form or tool work, the product team holds a kickoff to deter
 After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have a picture of the larger process. 
 
 **DESIGN**:
-Identify if new functionalities are required for this form. If so, discuss with developer and work on high-fidelity mockups about what the pattern would look like.  
+Identify if new functionalities are required for this form. If so, discuss with developer and work on mockups about what the pattern would look like.  
 
 - Use design review process to get feedback from design team
 - Check with design system to make sure new patterns aren't reiventing the wheel. 
@@ -41,21 +41,21 @@ Identify if new functionalities are required for this form. If so, discuss with 
 **CONTENT and DESIGN**: 
 Content editor begins to create an outline in Github for the form or tool, with a list of content and interaction notes. See an example here: [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
-- Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
-- Identify questions that are dependent on other questions 
-- What instructions need to appear on the online form? 
-- What form question/labels need a plain language edit?  
-- Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
+- Identify how form questions and fields will be rendered (e.g. radio buttons, drop-down fields)
+- Identify questions that are dependent on other questions or responses
+- What paper instructions need to appear on the online form? 
+- What form question/labels need a plain-language edit?  
+- Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through a plain language edit. <br>
 [See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
-- Discuss what content should go on the form Introduction (subway map) page
-- Discuss what content should go on the form Confirmation page
+- Discuss with designer what content should go on the form Introduction (subway map) page
+- Discuss with designer what content should go on the form Confirmation page
 
 **CONTENT and DESIGN**: 
-Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
+Discuss the entry and exit points for the form/tool. How will users get to it? It's recommended that an I/A specialist is part of this conversation.  
 
 - Does the form or tool require changes to the navigation or if there any part of the form/tool that requires an applicant to step out of the form (a form within the form)? 
-- What related static content needs to be updated to support the form/tool? (for example, do we need to add a CTA button or wizard to Eligiblity and How to Apply pages?)
-- Does a new static landing page need to be created or updated for the form or tool launch? (**If so, please coordinate with the VSA-public-website team for static content. That team is reponsible for writing static page content and updates**)
+- What related static content needs to be updated to support the form/tool? (For example, do we need to add a CTA button or wizard to Eligiblity and How to Apply pages? Does any Eligiblity or Apply static content need to be added or rewritten to support the tool?) (**Please coordinate with the VSA-public-websites team for all static content. That team is reponsible for writing static page content and updates**)
+- Does a new static landing page need to be created to take users to the form/tool? (**If so, please coordinate with the VSA-public-websites team for all static content. That team is reponsible for writing static page content and updates**)
 	
 	
 **CONTENT/DESIGN/DEVELOPER**: 
