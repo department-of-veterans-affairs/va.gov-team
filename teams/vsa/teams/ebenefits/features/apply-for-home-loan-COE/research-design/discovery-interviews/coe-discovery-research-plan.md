@@ -44,7 +44,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Rem
 Recruit for 5 fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- Participants must receive some type of VA payments
+- Participants must have experience with VA-backed home loans
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
