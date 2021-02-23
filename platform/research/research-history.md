@@ -26,6 +26,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### January 2021
 
+#### January 27 - February 8, 2021: VA.gov Search Usability Study
+*VA Global Search, Lead Researcher: Megan Gayle*
+
+- Number of participants: 10
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research)
+- List of keywords: Global Search, Find a Form, Find a Facility, On-site Search
+
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
