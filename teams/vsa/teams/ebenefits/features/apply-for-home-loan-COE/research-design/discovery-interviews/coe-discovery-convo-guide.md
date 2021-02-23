@@ -16,9 +16,9 @@
 Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the VA Certificate of Eligibility -- or COE -- required for VA Direct and VA-back loans.
 
 There are a few things I need to mention before we start:
-- The session should take about 30 minutes. But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
-- We're not testing **you** in any way--there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
-- Please say what's on your mind--good and bad. I will not be offended by any opinions you express.
+- The session should take about 30 minutes. But you can end it at any point -- just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
+- We're not testing **you** in any way -- there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
+- Please say what's on your mind -- good and bad. I will not be offended by any opinions you express.
 - We'd like to record this session. This'll give us a record to use for note-taking. We'll store the recording on a private drive, and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - I'll ask "on the record" once the recording starts.
 - OK, now that I've hit the button, do I have your permission to record this session?
