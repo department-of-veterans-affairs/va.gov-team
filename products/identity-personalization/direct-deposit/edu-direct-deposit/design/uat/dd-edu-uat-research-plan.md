@@ -71,7 +71,9 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 
 #### Team Availability
 
-Please allow 30 minutes between sessions. `Dates TBD`
+Please allow 30 minutes between sessions. 
+
+`All dates and times TBD`
 
 | Dates | Times (EDT) |
 | --- | --- |
