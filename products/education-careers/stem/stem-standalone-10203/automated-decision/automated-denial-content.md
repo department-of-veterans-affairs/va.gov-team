@@ -22,7 +22,7 @@ View details {button}
 
 ## Why we denied your claim ##
 
-To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
+You must meet all 3 of the eligibility criteria to be considered for the Rogers STEM Scholarship.
 
 #### You did not meet these criteria for the Rogers STEM Scholarship: ####
 
@@ -34,6 +34,7 @@ To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
      - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).  
      
      - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.
+
 { END: Remaining Entitlement Denial Reason }
 
 { BEGIN: STEM Program Denial Reason (answer to questions 1+2 is no)}
@@ -50,6 +51,7 @@ To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
          - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
           
          - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
+
 { END: STEM Program Denial Reason }
           
 #### You met these criteria for the Rogers STEM Scholarship: ####
@@ -68,6 +70,7 @@ To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
      
     - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.
+
 { End: Entitlement eligible Reason }
 
 { BEGIN: STEM Program eligible Reason (answer to question 1 or 2 is yes) }
@@ -84,7 +87,8 @@ To be eligible for the Rogers STEM Scholarship, you must meet all 3 criteria.
          - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" or
         
          - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
- { END: STEM Program eligible Reason }
+
+{ END: STEM Program eligible Reason }
         
  ## What you should do if you disagree with our decision ##
  
