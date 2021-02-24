@@ -90,7 +90,7 @@ Most users would start with the list view as they find it quickest and easiest t
    * one wanted to pick radius (in miles) 
    * one wanted to pick service **first** e.g. pick Optometry first instead of VA Health
    * One wanted a filter where he could see if there was VA transportation available to bring him to the facility
-* Folks didn't care that much about "how many results" they saw, they cared more about seeing relevent results
+* Folks didn't care that much about "how many results" they saw, they cared more about seeing relevant results
 
 ## Recommendations
 - If the team is implementing the "Use my location" and "Clear address" features, pay attention to analytics and whether or not they are being used. Consider further testing in staging or production to determine whether the features are prominent enough for those that want to use them
