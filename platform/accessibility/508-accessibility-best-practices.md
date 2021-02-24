@@ -6,7 +6,7 @@
   - [Accessibility Tips for Designers, Researchers, and Developers](#accessibility-tips-for-designers-researchers-and-developers)
   - [Inclusive Best Practices for Development](#inclusive-best-practices-for-development)
   - [Semantic Markup](#semantic-markup)
-  - [Formation Design System](#formation-design-system)
+  - [VA Design System](#va-design-system)
   - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
     - [Getting Started With Automation](#getting-started-with-automation)
     - [Build Pipeline Requirements](#build-pipeline-requirements)
@@ -57,9 +57,9 @@ Within the code itself there is accessibility work to be done, as the code must 
   - Page title may be longer or more descriptive than the H1
   - For example the `<h1>` might read "Learn about benefits" and the `<title>` might read "Learn more about benefits | VA.gov"
 
-## Formation Design System
+## VA Design System
 
-- Use the [Formation](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools) design system as the base for your visual designs.
+- Use the VA [component design system](https://github.com/department-of-veterans-affairs/component-library) as the base for your visual designs.
 - Read the [design system documentation](https://design.va.gov/)
 
 ## Automated Accessibility/508 Testing
@@ -171,7 +171,7 @@ Screen reader testing is mostly a manual process. Consider spot testing with at 
 - [Test using NVDA + Firefox on Win7/10 - VIDEO](https://www.youtube.com/watch?v=Vx1vSd5uYS8)
 - [Test using VoiceOver + Safari on OSX](https://webaim.org/articles/voiceover/)
 
-The flow must be possible to complete on [VA.gov supported browsers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/browser-support.md) with the most commonly used screenreader(s) (see for example [2017 WebAIM screenreader survey](https://webaim.org/projects/screenreadersurvey7/)):
+The flow must be possible to complete on [VA.gov supported browsers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/browser-support.md) with the most commonly used screenreader(s) (see for example [2019 WebAIM screenreader survey](https://webaim.org/projects/screenreadersurvey8/)):
 
   - [ ] User flow must be possible using a keyboard only (no pointing device). See the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard strokes.
   - [ ] Windows 7/10: IE11 with JAWS (tested by the Section 508 office)
