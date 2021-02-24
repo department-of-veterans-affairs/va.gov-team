@@ -20,6 +20,10 @@
 
 </details>
 
+## March 3 2021
+
+* Policies page 
+
 ## February 24 2021
 
 ### VAMC System
@@ -39,9 +43,6 @@ Questions that have arisen during our Discovery
 
 Content model and governance questions
 * "Featured content" component name and final spec (aka Spotlight)
-* "Other Vet Centers" rules 
-  * [this mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604930212419/1e0de1ff35d9be48b5a26cf8943cc6c956592045) suggests "Other Vet Centers only exists if the Vet Center has Satellite locations". Does that mean editors without Vet Centers should not be able to choose Other Vet Centers? 
-  * Any limits on # of Other Vet Centers local editors can add? (see [#4419](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4419)
 * Are facility images locally sourced, per [this mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604930212419/1e0de1ff35d9be48b5a26cf8943cc6c956592045)? We've also heard about professional photograrphers. How important is facility photo governance to MVP? Can it be handled "outside the CMS", eg a directive to local editors not to edit or replace photos? 
 
 
