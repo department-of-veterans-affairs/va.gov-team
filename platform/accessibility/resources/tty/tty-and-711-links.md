@@ -7,7 +7,7 @@ TTY stands for Text Telephone. It is also sometimes called a TDD, or Telecommun 
 A TTY is a special device that lets people who are deaf, hard of hearing, or speech-impaired use the telephone to communicate, by allowing them to type messages to one another instead of talking and listening. A TTY is required at both conversations in order to communicate.
 
 ## How to link TTY 711
-Follow the same coding and styling patterns for linking telephone numbers on yo platform. The caller's phone has already been customized to their preferences and able to dial numbers coded using best practices.
+Follow the same coding and styling patterns for linking telephone numbers on your platform. The caller's phone has already been customized to their preferences and able to dial numbers coded using best practices.
 
 Set TTY numbers apart from other phone numbers by:
 - Preceding the number with **TTY** or
