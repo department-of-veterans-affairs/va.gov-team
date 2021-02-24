@@ -27,6 +27,7 @@ Users will:
 - Navigate to the tool
 - Select the payment type needing to be updated
 - Navigate the form
+- Re-enter current account information
 - Review and submit form
 - Form will successfully submit for processing
 
@@ -35,7 +36,7 @@ Users will:
 - There will be a quick introduction to UAT
 - The user will log into VA.gov
 - The participant will be guided to the direct deposit feature
-- User will step through the edit-info form and submit their changes
+- User will step through the edit-info form and re-enter their bank info
 - There will be a quick Q/A and wrap-up 
 - Success will be measured as 80% of participants can successfully submit their DD changes
 
