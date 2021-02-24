@@ -15,7 +15,7 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 - Do Veterans find value when reviewing and updating their medications, allergies, and immunizations? What do they find valuable?
 
 **Hypothesis & assumptions**
-- Adding the ability to view and update medications within the questionnaire help solve some of the Veteran's current pain points.
+- Adding the ability to view and update medications, allergies, and immunizations within the questionnaire help solve some of the Veteran's current pain points.
 - Veterans will be confused by certain medication, allergy, and immunization information. This test should help identify commonly confusing items, so we can address that confusion.
 - A pattern will emerge from the Veteran's groups, so the team will understand Veteran's mental model. This mental model could then be replicated in the workflow/interface.
 - Veterans will find value in a subset, but probably not all possible data points and proposed features. This will help the team determine scope for this phase.
