@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Vaccine outreach VEText User research Feb 2021 
 
 ## Moderator logistics
 
@@ -73,7 +73,8 @@ Look for: (see if they mention mini-hub, KMI or know about it. )
      - If YES: Do you recall if you responded/ sent a text message back? Why/why not? 
        (**if they do not recall, do not push, go to "VA is considering ..." question**; 
        if they recall: Was there a reason you did not respond to the text?) 
-         - if YES, needed: Did you recognize who the message was from? 
+         - if YES, needed: Did you recognize where the message was from? 
+         - if YES, needed: Did you believe that you were hearing from a computer or from a person at the VA?  
          - If yes, needed: Did you have any other concerns about the text message? 
     
     - Is there anything VA can do to help you feel more confident in scheduling VA appointments via text message in the future?   
