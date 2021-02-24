@@ -1,4 +1,4 @@
-# Sandbox Test Accounts for VA.gov development and VA Lighthouse APIs
+# Sandbox Test Accounts for VA.gov local development and VA Lighthouse APIs
 
 Use these test accounts to log into the ID.me sandbox environment that is connected to sandbox-api.va.gov
 
