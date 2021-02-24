@@ -2,14 +2,11 @@
 
 <details><summary>About this meeting</summary>
 
-- Fridays 10am:30am-11am ET 
+- Wednesday 2:30pm ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
-- Standing agenda: 
-  - Status of cross-cutting issues, including CMS backlog review 
-  - How we work refinement
-  - Training needs
-  
+
+
 </details>
 
 <details><summary>Parking lot</summary>
