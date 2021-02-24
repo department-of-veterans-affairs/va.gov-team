@@ -34,20 +34,23 @@
 
 * ~[CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap)~ (done async)
 
-Quick report from discovery
+* How to Vet Center staff request changes to VAST? Is there an equivalent to https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp ? (async)
+
+
+Product design
+* Character limit requirements -- who decides?
+* "Featured content" component name and final spec (aka Spotlight)
 
 Questions that have arisen during our Discovery
-* How to Vet Center staff request changes to VAST? Is there an equivalent to https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp ? 
-* More Q's coming.
+* Service blueprint questions
+  * Setting expectations for MVP users about MVP functionality. -- who does what?
+  * Kickoff message for onboarding?  
 
-
-Content model and governance questions
-* "Featured content" component name and final spec (aka Spotlight)
 
 
 Next Monday's Vet Center sync call (agenda, attendance)
 
-Change management for national editors
+Change management for national editors editing facility status
 * Editors of facility status may start to see some minor changes to forms when editing facility status for individual Vet Centers. CMS team can update them. 
 
 
