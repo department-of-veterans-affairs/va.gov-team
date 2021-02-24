@@ -39,7 +39,7 @@
 
 CLP editorial experience CMS epic [#2274](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2274)
 * Inline adding of promos and downloads in PR 
-* Other items added to Sprint 27, need prioritization.
+* Other items added to Sprint 27, need prioritization. (done, async on Slack)
 
 
 "CLP service design"
