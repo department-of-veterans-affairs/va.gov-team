@@ -13,13 +13,13 @@ Recipients of VA compensation and pension (C&P), or educational (EDU) payments c
 <!-- #### Note regarding UAT
 We're requesting that Perigean recruit Veterans who need to **change their direct deposit information for educational payments.** This can be done in-person at a VA facility, via phone using the VA hotline, or online using the VA.gov direct deposit feature. We realize that it may be difficult to find Veterans with such specific needs.
 
-We will be testing an actual, functioning form that will change users' bank information for direct deposits. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
+We will be testing an actual, functioning form that could change users' bank information for direct deposits. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, but not recording it, and this will also be clearly communicated to the UAT participant.
 -->
 ### Goals
-The goal of User Acceptance Testing (UAT) is to determine if the new direct deposit feature is intuitive and functional for users needing to change their bank information for their educational payments.
+The goal of User Acceptance Testing (UAT) is to determine if the new direct deposit feature is intuitive and functional for users needing to review their bank information for their educational payments.
 
 ### Method
-Participants needed to change their bank information will be recruited and given access to the new feature on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the inline form and submit their change(s). Remote observers may be in attendance.
+Participants needed to view their bank information for direct deposits of educational payments will be recruited and given access to the new feature on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the inline form by re-entering their info, and submitting their 'change.' Remote observers may be in attendance.
 
 #### Success criteria
 
@@ -38,10 +38,10 @@ Users will:
 - The participant will be guided to the direct deposit feature
 - User will step through the edit-info form and re-enter their bank info
 - There will be a quick Q/A and wrap-up 
-- Success will be measured as 80% of participants can successfully submit their DD changes
+- Success will be measured as 90% of participants can successfully re-enter and submit their bank info
 
 ### Participants & recruiting
-Participants will be recruited via Perigean. The study will require Veterans (or dependents) who have a need to change their direct deposit information. Sessions will run between 10 and 20 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
+Participants will be recruited via Perigean. The study will require Veterans (or dependents) who receive direct deposits of VA education payments. Sessions will run between 10 and 20 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
 
 Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 
