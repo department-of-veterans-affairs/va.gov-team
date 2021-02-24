@@ -84,7 +84,7 @@ Overall participants didn't have a problem choosing "VA Health" when looking for
 A couple of participants commented that the listed options are not alphabetized. "The options are not in alphabetical order."
 
 ### 5. **Most participants found both the list and map view to be useful** depending on their circumstance.
-Most users would start with the list view as they find it quickest and easiest to use, with all the information. They would use the map to get more details about locations and directions. 
+Most participantss would start with the list view as they find it quickest and easiest to use, with all the information. They would use the map to get more details about locations and directions. 
 
 - *"I would probably use the list view more because it just gives me the information I need. If I were new to an area, then I would use the list view first and then the map view."*
 - *"I like the map view. I would go to this view to see which location is the best for me. It is good to compare the location to understand if one of the locations is in an area that I’m already going to be. The map is helpful for people, such as myself, who are more visual."* 
