@@ -45,9 +45,23 @@ CLP editorial experience CMS epic [#2274](https://github.com/department-of-veter
 "CLP service design"
 
 * **Create CLP Product Guide PPT/PDF** for call center — this could be translated into a user guide for the CMS learning center  (with additional instructional add-in/editing/formatting) — I hope to get this completed this week.
+  * Similar to the R&S product guide.  
 * **Produce CLP Product Video for call center** — this could be posted in the CMS learning center if it fits.  BTW: Is this something your team creates?
-* Spin-up the “**Request for CLP page builder**” online form (optimally) .  Talking to DEPO folks about whether we can use smartsheet — as seen here.
-* Determine what “**training/certification**” must be done by CLP users before we give them the keys.
+  * Not required for call center.  
+* **Training and help desk**  
+  * No videos required for first cohort (VBA Sandy, VHA Jeff Grandon and JHL mid-march(?), VEO Tim Hudak)
+  * Randi and John will walk through, be on call, and provide procedural PDF. 
+  * CMS helpdesk still needs to be looped in, John and Randi can cc the VACMS support email. 
+* **Accounts on prod** 
+
+Phase 2 cohort
+* Spin-up the “**Request for CLP page builder**” online form (optimally) .  
+  * Talking to DEPO folks about whether we can use smartsheet — as seen here.
+  * Kev to create an issue for the request form
+* **Required fields** during content creation process.
+* Three stakeholder groups. Will all be part of the VACO groups (VHA, VBA, NCA central office)
+* Todo: determine what “**training/certification**” must be done by CLP users before we give them the keys.
+
 
 Questions about these: 
 - who owns what (CMS/PW)
