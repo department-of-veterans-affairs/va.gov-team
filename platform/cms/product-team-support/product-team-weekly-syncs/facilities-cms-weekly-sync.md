@@ -21,6 +21,9 @@
 
 * Policies page 
 
+Vet Center
+* user onboarding / training etc.
+
 ## February 24 2021
 
 ### VAMC System
@@ -32,21 +35,38 @@
 * [CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap) (done async)
 * ~How to Vet Center staff request changes to VAST? Is there an equivalent to [the VAMC request form](https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp)?~ (async)
 
-
 Product design and content model
 * Character limit requirements -- who decides?
-* "Featured content" component name and final spec (aka Spotlight)
+  * Dave, Leyda and Michelle will provide character limits where possible, but default to no limits right now, so that we can learn about the content and lock down later. 1 option to create soft character limits.
+  * Restrictions or requirements for content. Eg spotlight...
+  * Service descriptions: Limited HTML rich text editor.
+* "Featured content" component name and final spec (aka Spotlight) [#4385](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4385)
+  * follow up async on specs. 
 * Prepare for your visit content model - what's hardened, what's not? 
-
+  * Local editors should be able to add unlimied "prepare for your visit" accordions, plain text header, limited html rich text content (no headers). Nothing nationalized for now.
+  * This content may be added to training / change management, eg hand editors a word doc with content.
+ 
 Next Monday's Vet Center sync call (agenda, attendance)
+ * TBD if CMS team should attend. 
+ * Possible CMS topics: Top task questions (eg how often do you add/update/remove CAPs in non-COVID times?), language questions (what do you call "X"?), headsup on upcoming usability testing.
 
-Change management for national editors editing facility status
+Change management for national editors editing facility status.
 * Editors of facility status may start to see some minor changes to forms when editing facility status for individual Vet Centers. CMS team can update them. 
+* CMS team to schedule sync with national editors about other user stories
 
 Questions that have arisen during our Discovery
 * CMS Service blueprint questions
   * Setting expectations for MVP users about MVP functionality. -- who does what?
-  * User onboarding kickoff.  
+    * Dave put together presentation when 5 additional VAMC editors were added -- Focus on locations and services. 
+    * What they are getting 
+      * Locations
+      * Services
+      * Help desk
+      * training
+    * When editors want something in the product, what does CMS want to do?
+      * eg respond with "talk to Dave and Jessica"?
+  * CMS user onboarding kickoff
+    * Training
 
 
 
