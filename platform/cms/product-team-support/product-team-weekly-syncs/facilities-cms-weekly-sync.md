@@ -22,14 +22,25 @@
 
 ## February 24 2021
 
-VAMC System
+### VAMC System
 * Policies page content model documentation (this will probably be done async, between Steve and MPS)
 * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (issue from parking lot)
 
-Vet Centers Questions that have arisen during our Discovery
-* MVP Runbook
-* Featured content name and spec (aka Spotlight)
-* Next Monday's Vet Center sync call (agenda, attendance)
+### Vet Centers 
+
+* [CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap)
+
+Content model and governance questions
+* "Featured content" component name and final spec (aka Spotlight)
+* "Other Vet Centers" rules 
+  * [this mural]() suggests "Other Vet Centers only exists if the Vet Center has Satellite locations". Does that mean editors without Vet Centers should not be able to choose Other Vet Centers? 
+  * Any limits on # of Other Vet Centers local editors can add? (see [#4419](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4419)
+* Are facility images locally sourced? How important is photo governance to MVP?
+
+Questions that have arisen during our Discovery
+* (WIP)
+
+Next Monday's Vet Center sync call (agenda, attendance)
 
 
 
