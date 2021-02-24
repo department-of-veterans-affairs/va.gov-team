@@ -43,7 +43,6 @@ Questions that have arisen during our Discovery
 
 Content model and governance questions
 * "Featured content" component name and final spec (aka Spotlight)
-* Are facility images locally sourced, per [this mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604930212419/1e0de1ff35d9be48b5a26cf8943cc6c956592045)? We've also heard about professional photograrphers. How important is facility photo governance to MVP? Can it be handled "outside the CMS", eg a directive to local editors not to edit or replace photos? 
 
 
 Next Monday's Vet Center sync call (agenda, attendance)
