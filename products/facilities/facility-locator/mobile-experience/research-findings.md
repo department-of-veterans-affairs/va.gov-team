@@ -68,10 +68,12 @@ While a few said that using facility locator in the past was easy, some mentione
 
 ### 2. Most participants did not utilize the “Use My Location” link.
 There were a variety of reasons folks were not using the "Use my location" link.  
-- 3 of 10 were hesitant to use the location feature on their phones in general 
-- 3 of 10 participants said they saw the Use my location feature and might use it, but they did not think to use it, because of the wording of the task.
-- A few others did not see the feature at all.
-"I would have used the “use my location” option, but I wasn’t sure if it would use my actual location or the location that we are using for the scenario." "I would usually use the, “use my location” option. I wouldn’t allow every site to have my location, but for this it is fine." "*Yes* If I lived at that address, then I would’ve clicked “use my location.” I have no problem using that option." "I did not notice “use my location”. I would make the font larger. It is good to have that option. It is much easier to just click that link than it is to type in my location." "I don’t usually use the, “use my location” option on most sites because I usually have the location of my phone turned off."   
+* 3 of 10 were hesitant to use the location feature on their phones in general 
+   * *"I don’t usually use the, “use my location” option on most sites because I usually have the location of my phone turned off."*   
+* 3 of 10 participants said they saw the Use my location feature and might use it, but they did not think to use it, because of the wording of the task.
+   *  *"I would have used the “use my location” option, but I wasn’t sure if it would use my actual location or the location that we are using for the scenario."*
+* A few others did not see the feature at all, but said they would have used it
+   * *"I would make the font larger. It is good to have that option. It is much easier to just click that link than it is to type in my location."*
 
 ### 3. Most participants **did not use the “x” icon to clear their address** and retype a new address.
 Most participants did not notice the "x" icon, instead using backspace to clear the field. *"I used backspace. I did not immediately see the option to clear the text."*  
