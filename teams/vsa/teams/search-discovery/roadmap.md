@@ -21,10 +21,10 @@ _Outlines current initiatives  for Search & Discovery Team. Current status and p
 
 
 *2021 Roadmap*
-|Initiative |Associated Product|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
+|Initiative |Associated Product|Q1 2021 (Jan-Mar)|Q2 2021 (Apr-Jun)|Q3 2021 (Jul-Sep)|Q4 2021 (Oct-Dec)|
 |----|----|----|----|----|----|
 |**[UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11638)**|  Onsite Search |User Research + Synthesis|  n/a | n/a |  n/a |  n/a |
 |**[Type Ahead POC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896)**|  Type Ahead  |Analyze | n/a |  n/a |  n/a |  n/a |
 |**[Type Ahead 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)**|  Type Ahead | Define/ Build/ Launch| — | — | — |
-|**[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)**|  Onsite Search| Define/Discover | Build | — | — |
+|**[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)**|  Onsite Search| Define/Discover | Build | —  | — |
 |**[Results Page Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20402)**|  Onsite Search | Define | Discover/Build  | — | — |
