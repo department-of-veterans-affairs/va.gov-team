@@ -42,6 +42,8 @@ Questions that have arisen during our Discovery
 
 Next Monday's Vet Center sync call (agenda, attendance)
 
+Change management for national editors
+* Editors of facility status may start to see some minor changes to forms when editing facility status for individual Vet Centers. CMS team can update them. 
 
 
 ## February 17 2021
