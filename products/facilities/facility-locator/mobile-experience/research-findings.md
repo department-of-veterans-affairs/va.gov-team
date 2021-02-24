@@ -80,23 +80,16 @@ There were a variety of reasons folks were not using the "Use my location" link.
    * one wanted to pick radius (in miles) 
    * one wanted to pick service **first** e.g. pick Optometry first instead of VA Health
    * One wanted a filter where he could see if there was VA transportation available to bring him to the facility
+* Folks didn't care that much about "how many results" they saw, they cared more about seeing relevent results
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+- If the team is implementing the "Use my location" and "Clear address" features, pay attention to analytics and whether or not they are being used. Consider furhter testing in staging or production to determine whether the features are prominent enough for those that want to use them
+- Do not implement the new "pin and swipable card" design that was tested
+- Instead, consider an iteration to the design that does away with the tabs and has the map and list views more integrated with each other, where a veteran could more seamlessly switch between the two views. See Airbnb's responsive mobile experience or Google maps responsive mobile experience for examples.
 
-## Next Steps
-Next steps here
 
 ## Appendix
-### Conversation guide
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/conversation-guide-v2.md)
 
 ### Interview transcripts
 
-### Tools used for Synthesis
-e.g. mural boards, etc.  
-
-### Pages and applications used
-Link to prototypes or pages that were tested
-
-### Other supporting documents created
-e.g. user flows, personas, etc.
