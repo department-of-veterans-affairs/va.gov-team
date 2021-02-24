@@ -1,6 +1,6 @@
-# Sandbox Test Accounts for VA Lighthouse APIs
+# Sandbox Test Accounts for VA.gov development and VA Lighthouse APIs
 
-Use these test accounts to log into the ID.me sandbox environment that is connected to sandbox-api.va.gov. When signing in with a test account, Step 2 will ask how you want to receive an authentication code. Click "continue" for the verification to be automatically populated in Step 3.
+Use these test accounts to log into the ID.me sandbox environment that is connected to sandbox-api.va.gov
 
 **Password for all ID.me accounts: Password1234!**
 
