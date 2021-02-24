@@ -71,7 +71,15 @@ There were a variety of reasons folks were not using the "Use my location" link.
 ### 7. **Most participants understood that they could tap on a pin to view details in the map**, however after that, **they didn’t seem to understand overall how to dismiss and view other locations.** Overall there was awkwardness in the way participants interacted with the new map view designs and switched between map and list views. 
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+* Regarding details on the list view and cards
+   * Three participants wanted to see hours of operation on the card (and "is this open now?")
+   * One participant mentioned wanting to click on the notification (e.g. "limited service and hours") to learn more about what that meant.
+   * One participant wanted to see services on the card 
+   * One pariticpant was confused at why the card wasn't customized for his service type, e.g. why was he seeing the mental health line when he searched for optometry
+* Some participants were interested in more options as filters before they click "search"
+   * one wanted to pick radius (in miles) 
+   * one wanted to pick service **first** e.g. pick Optometry first instead of VA Health
+   * One wanted a filter where he could see if there was VA transportation available to bring him to the facility
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
