@@ -13,7 +13,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Design System](#design-system)
     - [Forms Library](#forms-library)
     - [Site-wide](#site-wide)
-    - [Site-wide TTY review](#site-wide-tty-review)
+    - [Site-wide TTY Review](#site-wide-tty-review)
+    - [Site-wide Content](#site-wide-content)
     - [VA Developer Portal](#va-developer-portal)
     - [Outreach and Events](#outreach-and-events)
       - [Open issues](#open-issues)
@@ -243,6 +244,18 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
+### Site-wide Content
+
+**Maintainer:** VSP & VSA<br/>
+**Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
+
+**Open Issues**
+  
+- [[SCREENREADER]: Review example PDF for accessibility - #20134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20134)<br/>**Opened:** February 18, 2021
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -794,11 +807,18 @@ Back to [Table of Contents](#table-of-contents)
 
 #### New Contact Us Page
 
-**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021._
+**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). VSP [finished the review in production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19401) in February 2021._
 
-**No open issues**
+**Open issues**
 
-Back to [Table of Contents](#table-of-contents)
+- [508-defect-1 [SCREENREADER] FAQ needs to have aria-label to properly pronounce it - #20237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20237)<br/>
+**Opened:** February 21, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly - #20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239)<br/>
+**Opened:** February 21, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [SCREENREADER] VA needs to have aria-label to properly pronounce it - #20238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20238)<br/>
+**Opened:** February 21, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [AXE-CORE]: Aside must not be contained in another landmark - #20236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20236)<br/>
+**Opened:** February 21, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 
 ---
 
