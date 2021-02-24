@@ -53,6 +53,12 @@ Facility details unavailable, no instructions
 
 ![image-20201210220019922](appointments-cards/confirmed-cc-no-facility-note.png)
 
+#### Phone
+
+VA phone appointments allow a user to speak to a VA provider over the phone. The indicator text is to the right of the appointment type
+
+![confirmed-va-phone](appointments-cards/confirmed-va-phone.png)
+
 #### Video
 
 Video visits allow a user to speak with a provider remotely.  There are several types of video appointments and they can be done either from home, a specified location, or through government furnished equipment (GFE).
