@@ -193,3 +193,7 @@ There are 8 Veterans featured in the campaign.
 - [Keisha Bellamy](assets/png/VAntagePoint-KeishaBellamy.png)
 - [Morgan Danowski](assets/png/VAntagePoint-MorganDanowski.png)
 - [Sedra Graves](assets/png/VAntagePoint-SedraGraves.png)
+
+### Instagram post images
+
+- [Sumita Muralidhar](assets/png/IG-SumitraMuralidhar.png)
