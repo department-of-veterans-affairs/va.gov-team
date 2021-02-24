@@ -1,7 +1,7 @@
 # Mobile Experience Research Findings 
 VSA, Facilities Team<br>
 
-Laurel Lawrence, Christian Valla, 02/23/2021
+Laurel Lawrence, Christian Valla, Shawna Hein 02/23/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-plan.md).
 ## Research Goals 
@@ -83,7 +83,7 @@ There were a variety of reasons folks were not using the "Use my location" link.
 * Folks didn't care that much about "how many results" they saw, they cared more about seeing relevent results
 
 ## Recommendations
-- If the team is implementing the "Use my location" and "Clear address" features, pay attention to analytics and whether or not they are being used. Consider furhter testing in staging or production to determine whether the features are prominent enough for those that want to use them
+- If the team is implementing the "Use my location" and "Clear address" features, pay attention to analytics and whether or not they are being used. Consider further testing in staging or production to determine whether the features are prominent enough for those that want to use them
 - Do not implement the new "pin and swipable card" design that was tested
 - Instead, consider an iteration to the design that does away with the tabs and has the map and list views more integrated with each other, where a veteran could more seamlessly switch between the two views. See Airbnb's responsive mobile experience or Google maps responsive mobile experience for examples.
 
