@@ -6,14 +6,14 @@ Accessibility issues may be particularly challenging to document. Communicating 
 
 1. Use the [508 Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=).
 1. **Labels:** Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
-1. If this issue is being opened by a VFS team, please add the `triage-incident` and `vsp-product-support` labels.
-1. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.<br/><br/>
+1. If this issue is being opened by a VFS team, please add the `vsp-product-support` label.
+1. **Issue tickets should be tested when you have created a pull request.** This gives the reviewer time to test your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.<br/><br/>
 We recommend using [ZenHub](https://app.zenhub.com/login) for linking issue tickets with your pull requests.
     - Install the [ZenHub for GitHub extension](https://help.zenhub.com/support/solutions/articles/43000507578-installing-the-zenhub-extension-for-cloud) in Firefox or Chrome
     - Sign into ZenHub using your GitHub credentials
     - [Link your pull request to an issue ticket](https://www.zenhub.com/blog/github-issue-pull-request-linking/) from the GitHub pull request screen
 1. Text inside `<-- comment -->` blocks will not appear in your issue ticket. The comments offer guidance on what information you should provide for each section.
-1. **Severity:** Review the [Accessibility Defect Severity Rubric[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric). Create an h1 and with a link to the 508 defect severity level (included in the issue template). 
+1. **Severity:** Review the [Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric). Create an h1 and with a link to the 508 defect severity level (included in the issue template). 
 
     - [508-defect-0 :exclamation: Launchblocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-0)
     - [508-defect-1 :exclamation: Launchblocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1)
@@ -51,7 +51,7 @@ Enter an issue title using the format:
 
 > [COLOR]: Blue button on blue background does not have sufficient contrast ratio
 
-## Feedback Framework
+## Feedback framework definitions
 
 Provide guidance in the format consistent with the feedback framework:
 
@@ -68,11 +68,11 @@ This is a detailed description of the issue. It should include a restatement of 
 
 When the issue is discovered using the axe browser scan, it's helpful to use the language from the error shown. The title of the issue from the browser scan is the base of the title, the explanation can be used in the description. There's a "Learn more" link that opens Deque University documentation that is helpful (especially the Why It Matters section). There's also an impact rating which can be paired to determine what the severity rating is.
 
-## Point of Contact
+## Point of contact
 
 If this issue is being opened by a VFS team member, please add a point of contact. Usually this is the same person who enters the issue ticket.
 
-## Acceptance Criteria
+## Acceptance criteria
 
 ### Sample
 
@@ -90,7 +90,7 @@ Include the details for where the issue is located.
 * Server destination: URL (web address or addresses) where you spotted the issue. This could be in staging or production.
 
 
-## Steps to Recreate
+## Steps to recreate
 
 List the steps to recreate the issue.
 
@@ -103,7 +103,7 @@ List the steps to recreate the issue.
 5. Press Spacebar to open the Level of Coverage widget
 6. Verify the widget does not open when Spacebar is pressed
 
-## Possible Fixes (optional)
+## Possible fixes (optional)
 
 If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScript markup, include the snippet in the issue description. If it is a longer fix or you do not have a ready solution, remove this section.
 
@@ -121,7 +121,7 @@ Add an aria-label for screen reader users to communicate the button context.
 </button>
 ```
 
-## WCAG or Vendor Guidance (optional)
+## WCAG or vendor guidance (optional)
 
 Provide links to guidance. The axe browser scan "Learn more" link to the Deque University page can be added here.
 
@@ -131,6 +131,6 @@ Provide links to guidance. The axe browser scan "Learn more" link to the Deque U
 * [MDN: Using the button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
 
 
-## Screenshots or Trace Logs (optional)
+## Screenshots or trace logs (optional)
 
 Include any screenshots or error logs that might be useful for debugging.
