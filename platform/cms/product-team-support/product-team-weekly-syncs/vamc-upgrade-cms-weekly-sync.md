@@ -21,6 +21,11 @@
 
 </details>
 
+## Friday Feb 26 10:30am ET
+
+- Drop of Content Export affect on dual-state launch timeline
+
+
 ## Friday Feb 19 10:30am ET
 
 - How to manage user confusion during VAMC roll out (who to reach out to for what, publishing when they shouldn't) (Jane)
