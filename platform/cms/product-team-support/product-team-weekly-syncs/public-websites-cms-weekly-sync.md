@@ -37,6 +37,11 @@
 
 ## Wednesday February 24
 
+CLP editorial experience CMS epic [#2274](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2274)
+* Inline adding of promos and downloads in PR 
+* Other items added to Sprint 27, need prioritization.
+
+
 "CLP service design"
 
 * **Create CLP Product Guide PPT/PDF** for call center — this could be translated into a user guide for the CMS learning center  (with additional instructional add-in/editing/formatting) — I hope to get this completed this week.
