@@ -115,7 +115,7 @@ The pipeline will [use a cron trigger](https://www.jenkins.io/doc/book/pipeline/
 
 We will roll out the content auto deploy gradually based on the following:
 
-- Daily for 1-2 days
+- Daily for 1-2 days at 11 AM EST
 - 3 times a day for 1-2 days
 
 Then lastly, the schedule will be hourly between 9AM and 4PM EST on weekdays.
