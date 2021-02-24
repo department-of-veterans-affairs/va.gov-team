@@ -31,8 +31,8 @@
 
 ### Vet Centers 
 
-* ~[CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap)~ (done async)
-* How to Vet Center staff request changes to VAST? Is there an equivalent to https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp ? (async)
+* [CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap) (done async)
+* ~How to Vet Center staff request changes to VAST? Is there an equivalent to [the VAMC request form](https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp)?~ (async)
 
 
 Product design and content model
