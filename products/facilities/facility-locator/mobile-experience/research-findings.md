@@ -48,17 +48,27 @@ The participants in this study consistend of 10 veterans:
 
 ## Key Findings
 
-1. Finding one
-2. Finding two
-3. Finding three
-4. Finding four
-5. Finding five
-6. Finding six
-7. Finding seven
+1. Participants **had a variety of past experiences with the VA facility locator**, from “...it was a nightmare” to “...it was pretty easy”.
+2. Most participants **did not utilize the “Use My Location” link.** A few did not notice it but said they might use it if they noticed it, a few do not want to use location services at all, and a few participants noticed it and thought it could be useful, but found it irrelevant to the task/scenario given to them.
+3. Most participants **did not use the “x” icon to clear their address** and retype a new address.
+4. **Choosing Facility type and Service Type was easy for most participants** when given the task to look for optometry. 
+5. **Most participants found both the list and map view to be useful** depending on their circumstance.    
+6. **About half the participants did not notice the map view on their own** without prompting.  
+7. **Most participants understood that they could tap on a pin to view details in the map**, however after that, **they didn’t seem to understand overall how to dismiss and view other locations.** Overall there was awkwardness in the way participants interacted with the new map view designs and switched between map and list views. 
 
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+### 1. Participants had a variety of past experiences with the VA facility locator, from “...it was a nightmare” to “...it was pretty easy”
+### 2. Most participants did not utilize the “Use My Location” link.
+There were a variety of reasons folks were not using the "Use my location" link.  
+- 3 of 10 were hesitant to using the location feature on their phones in general 
+- 3 of 10 participants said they saw the Use my location feature and might use it, but they did not think to use it, because of the wording of the task.
+- A few others did not see the feature at all
+### 3. Most participants **did not use the “x” icon to clear their address** and retype a new address.
+### 4. **Choosing Facility type and Service Type was easy for most participants** when given the task to look for optometry. 
+### 5. **Most participants found both the list and map view to be useful** depending on their circumstance.    
+### 6. **About half the participants did not notice the map view on their own** without prompting.  
+### 7. **Most participants understood that they could tap on a pin to view details in the map**, however after that, **they didn’t seem to understand overall how to dismiss and view other locations.** Overall there was awkwardness in the way participants interacted with the new map view designs and switched between map and list views. 
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
