@@ -83,7 +83,7 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 - Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
 - 2019 — Direct deposit added to the profile.
 - 2019/2020 – Address validation added to the Mailing and Home address fields.
-- 2020 - Profile 2.0 overhaul (launching fall 2020).
+- 2020 - Profile 2.0 redesign (launched Fall 2020).
 
 ## How to Access and Test
 
