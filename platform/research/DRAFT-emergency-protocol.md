@@ -29,17 +29,16 @@ It is also important that research moderators feel safe and secure while conduct
 1. Pause your research activity. 
 2. Contact the recruiting team (Perigean) over Slack immediately. Please use the direct message set up by Lauren at the start of the study so that everyone is notified. 
 3. Include a detailed description of the scenario in your slack message so that the recruiting team can respond appropriately. Do not be modest in your description; the details are necessary to determine appropriate next steps. As you are able, be available to answer questions. 
-4. If you feel unsafe and want to end the session, use one of your practiced exit strategies to gracefully close the session. 
+4. If you feel unsafe and want to end the session, use one of your practiced exit strategies to gracefully close the session. Let the participant know that the recruiting team will follow up with them. 
 5. Inform the recruiting team that the session has been closed. 
 
-**Sample exit strategies**
-It is important not to blame the participant. Your goal is to simply wrap up the session without any further incident or escalation. 
-- Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
-- Blame technology: I am so sorry, but I just learend that the [website/prototype/thing I wanted to test with you today] is not working unexpectedly. I apologize for the incovenience and thank you for your time. 
-- Personal emergency: I apologize, but I have a personal emergency, and I need to cut our time together short today. I apologize for the inconvenience and thank you for your time. 
+#### Sample exit strategies
+We recommend that you and your team plan for an exit strategy that you will feel comfortable using during a session. It is important not to blame the participant. Your goal is to simply wrap up the session without any further incident or escalation. We do not recommend using a personal emergency exit strategy, as it may create additional stress for all. Examples of exit strategies that have worked include:
+- **Out of questions**: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+- **Blame technology**: I am so sorry, but I just learnd that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the incovenience and thank you for your time. 
 
 Being made to feel unsafe or uncomfortable during user research can be a traumetizing experience.  Be sure to take time to pause and check in with yourself, and let your team know if you need any support.
 
 If you have any questions, please reach out to: 
 * Emily Mann (@Emily Mann on Slack)
-* Lauren Alexanderson (Lalexanderson on Slack)
+* Lauren Alexanderson (@Lalexanderson on Slack)
