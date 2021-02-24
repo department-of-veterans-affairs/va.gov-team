@@ -1,4 +1,9 @@
-# Responding to emergencies during remote research sessions
+# Participant safety and responding to emergencies during remote research sessions
+In this document, you'll find: 
+
+* [Requesting emergency assistance](#requesting-emergency-assistance)
+* [Creating a safe space for participants](#creating-a-safe-space-for-participants)
+* [Creating a safe space for research moderators](#creating-a-safe-space-for-research-moderators)
 
 As researchers, our number one priority is to keep our participants safe. When working with Veterans, it is particularly important to be aware of our participants' psychological and physical well-being during our research sessions. If you find yourself in a session with a Veteran who is experiencing a medical or psychological emergency, follow the protocol below to request assistance. 
 
@@ -21,7 +26,7 @@ Although we may not intend it, research sessions inherently create a power dynam
 
 **Prioritize the participant over the research.** Be prepared to pivot from your conversation guide and approach in order to meet your participant where they are.
 
-**Give participants an exit strategy.** In your conversation guide, be sure to tell participants that they can pause or stop the session at any time, no questions asked. For example: "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop." During the session, offer participants who are in distress an opportunity to gracefully exit the session. Thank them profusely for their feedback or for making the time to talk to you. [Go to sample exit strategies](####-Sample-exit-strategies)
+**Give participants an exit strategy.** In your conversation guide, be sure to tell participants that they can pause or stop the session at any time, no questions asked. For example: "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop." During the session, offer participants who are in distress an opportunity to gracefully exit the session. Thank them profusely for their feedback or for making the time to talk to you. [Go to sample exit strategies.](#sample-exit-strategies)
 
 ### Creating a safe space for research moderators 
 It is also important that research moderators feel safe and secure while conducting user research. Prepare your own exit strategies in advance with your team. These may include identifying a backup moderator who can jump in if something happens to you, or drafting and practicing exits should you no longer feel comfortable to continue the session with the participant. Should an incident occur during the research session wherein the moderator no longer feels safe or capable to continue, follow the protocol below to request assistance.
