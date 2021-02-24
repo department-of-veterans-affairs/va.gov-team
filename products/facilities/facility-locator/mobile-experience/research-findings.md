@@ -88,11 +88,18 @@ Most users would start with the list view as they find it quickest and easiest t
 - *"I like the map view. I would go to this view to see which location is the best for me. It is good to compare the location to understand if one of the locations is in an area that I’m already going to be. The map is helpful for people, such as myself, who are more visual."* 
 - *"If I needed something really quickly, then I would use the list view. It is the first thing to open and it gives you the closest location and its information." "I like them both. I would use either depending on how I feel."*
 
-### 6. **About half the participants did not notice the map view on their own** without prompting. 
-6 out of 10 reported to actually see the Map View, but two participants said that they decided against tapping it due to the (Washington) task/scenario given to them. "I did not think I really needed to use the map – I figured it would show me the map with dots over where the locations are, but I’m not great with maps so I would just use the list and then get directions after I choose one." "I noticed the tab (Map View), but since all of these are coming up as being in DC, I didn’t feel I needed to look at it – it isn’t relevant to where I live."  
+### 6. **A little under half the participants did not notice the map view on their own** without prompting. 
+A little over half of the participants **did** see the map view, with a few of the participants noting that they decided against tapping it due to the (Washington) task/scenario given to them. 
+- *"I did not think I really needed to use the map – I figured it would show me the map with dots over where the locations are, but I’m not great with maps so I would just use the list and then get directions after I choose one."*
+- *"I noticed the tab (Map View), but since all of these are coming up as being in DC, I didn’t feel I needed to look at it – it isn’t relevant to where I live."*
+
+This finding disproves the hypothesis coming out of the Mobile Month study - that most participants **would not see the map tab** - however we still are seeing a solid chunk of folks missing it.
+
 ### 7. **Most participants understood that they could tap on a pin to view details in the map**, however after that, **they didn’t seem to understand overall how to dismiss and view other locations.** Overall there was awkwardness in the way participants interacted with the new map view designs and switched between map and list views. 
-"It looks like the other locations are lined up so that I can swipe between them?" "It wasn’t initially obvious that I can tap on the letter, but after a moment I realized after having some experience working with maps like these." "There’s usually an X in the top corner of a box to close it but when I tried it took me to the next location. I just clicked on the View Map tab to close it." 
-"The letters are markers for the location, they don’t give any information initially. That is why I would want to look at the list view first, because it gives information that the map view does not." "The swiping wasn’t obvious to me, but I probably would’ve figured it out. Maybe adding an arrow to the other box would help."  
+For participants who went to the map view, We saw them for the most part understand that they could tap on the pins.  However, after that, interacting with the cards and using the map view seamlessly with the list view seemed to cause issues for folks.  
+- *"It wasn’t initially obvious that I can tap on the letter, but after a moment I realized after having some experience working with maps like these." "There’s usually an X in the top corner of a box to close it but when I tried it took me to the next location. I just clicked on the View Map tab to close it."*
+-  *"The letters are markers for the location, they don’t give any information initially. That is why I would want to look at the list view first, because it gives information that the map view does not."* 
+- *"The swiping wasn’t obvious to me, but I probably would’ve figured it out. Maybe adding an arrow to the other box would help."*  
 
 ## Additional Insights
 * Regarding details on the list view and cards
