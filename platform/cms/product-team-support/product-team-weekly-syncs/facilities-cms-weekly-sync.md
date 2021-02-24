@@ -32,7 +32,7 @@
 
 ### Vet Centers 
 
-* [CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap)
+* ~[CMS Vet Center MVP Runbook/roadmap](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap)~ (done async)
 
 Quick report from discovery
 
