@@ -3,12 +3,10 @@
 Agenda
 
 
-
-*   Training tracking for VAMC editors - currently a manual, clerical activity that is part of VAMC user administration 
+*   Training request from Jenny HL for new health hub editor
+*   *   Training tracking for VAMC editors - currently a manual, clerical activity that is part of VAMC user administration 
     *  could create potential issues as more VAMC editors are added and potentially Vet Center editors as well
     
-*   Training request from Jenny HL for new health hub editor
-
 
 ### **February 10, 2021**
 
