@@ -27,7 +27,7 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 
 **Content design:** Write, edit, and design content across the VA.gov experience.
 
-**Content planning:** Prioritize for planned content publishing. 
+**Content planning and tracking:** Prioritize for planned content publishing. We use ticketing in zenhub to track work, both planned and unplanned.
 
 **Content standards:** Enforce accuracy, plain language, and content style guide standards. Ensure that the VA.gov voice, style, and tone aligns across the Veteran experience. 
 
@@ -36,6 +36,7 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 ### Roadmap 
 - Create new sitewide content service model to support product teams. 
 - Health modernization content 
+- Migrate current and relevant Veteran-facing FAQs from IRIS to VA.gov (R&S)
 - Tier 1 content refresh/build out R&S 
 - Continued legacy content migration (debt, community care, caregiver) 
 - Continued legacy content migration holdover: complete rewrite of life insurance and education hubs 
@@ -56,7 +57,8 @@ Beth Potts and Danielle Thierry
 - General content questions from designers, product managers, and others 
 - Product-specific content questions that come up in between office hours 
 - Alert sitewide content team to a content intake request 
-- **Office hours:** This a weekly opportunity for designers and product managers to get input from the Digital Experience content leads at any stage of product development. Collaboration on content needs will range from content strategy to help with specific messaging. Office hours can be used to work through issues that have come up in the designers’ suite meetings.  
+- **Office hours:** This a weekly opportunity for designers and product managers to get input from the Digital Experience content leads at any stage of product development. Collaboration on content needs will range from content strategy to help with specific messaging. Office hours can be used to work through issues that have come up in the designers’ suite meetings.
+- **Content Brief:** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
 
 #### Unauthenticated content processes  
 **New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
