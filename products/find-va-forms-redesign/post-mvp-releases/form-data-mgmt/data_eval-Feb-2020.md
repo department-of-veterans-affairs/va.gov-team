@@ -628,7 +628,7 @@ Active records only
 
 ## Data Issues
 
-### Forms with invalid PDF links
+### Invalid PDF links
 Confirmed that these currently all return a 404 (Not Found) error.
 
 | type    | Name        | Url                                                                     |
