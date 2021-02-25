@@ -4,7 +4,7 @@ Did we recommend a Full Accessibility and 508 Office Audit? If so, follow the be
 
 ## When should I request this touchpoint?
 
-Schedule a full audit when your product is launched to production, when code is relatively stable. All accessibility defects that were identified at Staging Review must be fixed before requesting a full audit. **Note:** This touchpoint should be scheduled as early as possible.* 
+Schedule a full audit when your product is launched to production, when code is relatively stable. All accessibility defects that were identified at Staging Review must be fixed before requesting a full audit.* **Note:** This touchpoint should be scheduled as early as possible. 
 
 _*VSP understands that other teams may be accountable for fixing the defects identified at Staging Review. These defects are exempt and will not block a team from scheduling this touchpoint._
 
