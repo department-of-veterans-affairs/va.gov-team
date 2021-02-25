@@ -1,4 +1,4 @@
-VOX Changes
+# VOX Changes
 ### Page 1
   - Comment 1
   - Comment 2
@@ -21,7 +21,7 @@ VOX Changes
   - Comment 5
   - Comment 6
 ### Page 5
-No comments
+`No comments`
 ### Page 6
   - Comment 1
 ### Page 7
