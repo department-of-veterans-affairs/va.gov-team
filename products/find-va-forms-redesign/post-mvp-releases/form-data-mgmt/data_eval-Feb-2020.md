@@ -798,9 +798,23 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                       |
 | va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                   |
 
-### PDF URLs missing .pdf file extension
+### PDF URLs missing _.pdf_ file extension
 
-
+| type    | Name     | PDF Link                                                                          |
+|---------|----------|-----------------------------------------------------------------------------------|
+| va_form | GSA-2580 | https://www.gsa.gov/portal/forms/download/114574                                  |
+| va_form | GSA2957  | https://www.gsa.gov/portal/forms/download/114662                                  |
+| va_form | GSA2972  | https://www.gsa.gov/portal/forms/download/114666                                  |
+| va_form | OF 1164  | https://www.gsa.gov/portal/forms/download/150834                                  |
+| va_form | SF 1442  | https://www.gsa.gov/portal/forms/download/115898                                  |
+| va_form | SF 252   | https://www.gsa.gov/portal/forms/download/115990                                  |
+| va_form | SF-1094  | https://www.gsa.gov/forms-library/united-states-tax-exemption-form                |
+| va_form | SF-1094A | https://www.gsa.gov/forms-library/tax-exemption-accountability-record             |
+| va_form | SF180    | https://www.archives.gov/veterans/military-service-records/standard-form-180.html |
+| va_form | SF-26    | https://www.gsa.gov/portal/forms/download/116014                                  |
+| va_form | SF-33    | https://www.gsa.gov/portal/forms/download/116254                                  |
+| va_form | SF-424   | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1               |
+| va_form | SF88     | https://www.gsa.gov/portal/forms/download/116402                                  |
 
 ### Valid PDF links flagged as invalid
 
