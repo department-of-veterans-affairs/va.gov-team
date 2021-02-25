@@ -731,6 +731,8 @@ Confirmed that these active form records have PDF links that currently return a 
  - ASCII characters -- ex _%20_
  - Special characters -- ex: $ ( ) ? #
  - Overall length of file name
+
+
 | type    | Name                 | PDF Link                                                                                                                                                           |
 |---------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | va_form | 16711                | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%2010-5345%20Fill-revision.pdf                                                                                    |
