@@ -15,12 +15,13 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
-    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
-    - Inconsistent form label names
-    - Inconsistent PDF links
-    - Questionable dates
     - Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
-    - Forms missing language attribute
+    - PDF links flagged as invalid, but are actually valid
+    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
+    - Inconsistent form name examples
+    - Inconsistent PDF link examples
+    - Forms with questionable dates
+
 
 
 ## Form Counts
@@ -726,6 +727,12 @@ Confirmed that these active form records have PDF links that currently return a 
 | va_form | 10-0137B    | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf |
 | va_form | 26-6705d    | https://www.vba.va.gov/pubs/forms/VBA-26-6705d-ARE.pdf                  |
 
+
+
+### Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
+### PDF links flagged as invalid, but are actually valid
+
+
 ### Forms with Tool URL but no Tool Intro
 
 | type    | Name    | Url                                                         |
@@ -734,3 +741,10 @@ Confirmed that these active form records have PDF links that currently return a 
 | va_form | 29-1546 | https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf       |
 | va_form | 29-4364 | https://www.vba.va.gov/pubs/forms/VBA-29-4364-ARE.pdf       |
 | va_form | 28-1900 | https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf       |
+
+
+
+### [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
+### Inconsistent form name examples
+### Inconsistent PDF link examples
+### Forms with questionable dates
