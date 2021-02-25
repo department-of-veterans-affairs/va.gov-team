@@ -8,6 +8,8 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 
 ## Contents
 - [Form Counts](#form-counts)
+
+- [Form VA.gov Features](#form-va.gov-features)
     - Active records
     - Forms with any type of Detail Page
     - Forms with Basic detail page
@@ -36,6 +38,8 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
  - Forms with related Forms: **35**
  - Forms with Alert information: ** ** (note - we are currently determining where this data originates)
  - Deleted as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
+
+## Form VA.gov Features
 
 
 ## Data Issues
