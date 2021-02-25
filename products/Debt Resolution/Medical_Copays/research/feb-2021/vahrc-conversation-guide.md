@@ -53,7 +53,7 @@ Now, I'd like to dig more into your interactions with Veterans.
 * What constraints do you have to work with?
 * How do you think an online tool becoming easily available for Veterans could help you in your role?
 
-**About the Veterans **
+**About the Veterans**
 
 Next, I want to learn a little more about the Veterans themselves
 
