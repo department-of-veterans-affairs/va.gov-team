@@ -752,4 +752,4 @@ Not intended as an exhaustive list, but rather a representation of the signfican
 
 ### Forms with questionable dates
 
-Form dates that may require validation because stated issue/revision date > 10 years, or **First Issued On** date is more recent than **Last Revised On** date.
+Form dates that warrant further scrutiny due stated age (issue or revision date > 10 years), **and/or** _First Issued On_ date is more recent than _Last Revised On_ date.
