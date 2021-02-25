@@ -5,7 +5,14 @@ Increase the use of self-service tools. <br>
 Consistently deliver a satisfying, reliable, and secure online experience. 
 
 ### Team mission statement: 
-To give Veterans and their family members the clear, accurate, and consistent information they need to understand, access, and manage their VA benefits and services. And to provide this information in a compassionate voice of the trusted authority for Veteran information.
+To build trust by giving all Veterans and their family members the information they need to understand, access, and manage their VA benefits and services in one VA.gov voice.
+ 
+We ensure that the content and voice of VA.gov is:
+- Clear
+- Accurate
+- Consistent
+- Compassionate
+- Authoritative
 
 ### Product portfolio: 
 Global unauthenticated content (including homepage, tool pages, benefit hubs, resources & support, and other unauthenticated content) 
