@@ -19,7 +19,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
-    - Forms with **Tool URL** but no **Tool Intro**
+    - [Forms with **Tool URL** but no **Tool Intro**](Forms-with-**Tool-URL**-but-no-**Tool-Intro**)
     - Inconsistent form label names
     - Inconsistent PDF links
     - Questionable dates
@@ -30,11 +30,11 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 ## Form Counts
 
  - Active records as of 2/24/2021: **573**
- - Forms with any type of Detail Page:**446**
+ - Forms with any type of Detail Page: **446**
  - Forms with custom detail page: **43** (note - this is determined by the presence of a value in **Form Usage** field.
- - Forms with Online Tools:**29** (note - this is determined by the presence of a value in the **Tool URL** field)
- - Forms with related Forms:**35**
- - Forms with Alert information:** ** (note - we are currently determining where this data originates)
+ - Forms with Online Tools: **29** (note - this is determined by the presence of a value in the **Tool URL** field)
+ - Forms with related Forms: **35**
+ - Forms with Alert information: ** ** (note - we are currently determining where this data originates)
  - Deleted as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
 
 
