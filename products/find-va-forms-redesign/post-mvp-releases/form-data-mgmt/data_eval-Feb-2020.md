@@ -836,9 +836,16 @@ Believe URLs are evaluated and flagged in CMS
 
 
 ### Inconsistent form name examples
-Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  Of specific concern is the lack of consistency in the use of hyphens, spaces, capital vs. lower-case letters, Spanish-language indicators, and inclusion/exclusion of _VA_ or _Form_ in the name.
+Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  Of specific concern is the lack of consistency in the use of:
+ - Inclusion/exclusion of the department abbreviation in the name (9 vs. VA9)
+ -  Hyphens (OF 1164 vs. OF-306)
+ - Spaces (VA Form 22-8979)
+ - Capital vs. lower-case letters ( 10-0137A vs. FL-10-341a)
+ - Spanish-language indicators (esp vs. Spanish vs. ES)
+ - Form names appended with additional numbers that may indicate a version or series (VA40-0895-10)
+ - Inclusion/exclusion of _VA_ or _Form_ in the name (VA Form 22-897, VA0120, VA40-0241)
 
-It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.
+It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.  These variations can also result in multiple versions of the same form being listed under different names (ex - 9 and VA9)
 
 | type    | Name              |
 |---------|-------------------|
