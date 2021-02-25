@@ -629,7 +629,7 @@ Active records only
 ## Data Issues
 
 ### Invalid PDF links
-Confirmed that these currently all return a 404 (Not Found) error.
+Confirmed that these active form records have PDF links that currently return a 404 (Not Found) error.
 
 | type    | Name        | Url                                                                     |
 |---------|-------------|-------------------------------------------------------------------------|
