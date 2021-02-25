@@ -6,3 +6,7 @@
 |------|------|
 | would allow users to copy URL | adds a lot of extra code and time to build |
 |                               | until we test it we are not sure if users will even use the feature |
+
+
+
+2. Can we be provided a mobile design first as mobile will be more difficult to build and will most likely account for the largest segment of traffic?
