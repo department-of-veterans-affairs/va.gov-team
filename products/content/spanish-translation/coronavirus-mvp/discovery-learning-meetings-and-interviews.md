@@ -10,7 +10,7 @@
 
 - Refer to Real Academia Espanola (https://www.rae.es/), the gold standard for proper Spanish. We also look at bilingual media for terms that we know our resonating.
 
-- Many sites use Google translate first. If you start with machine first, usually your product is somewhat machine line. We have humans involved from the start. When we go back to technology, we do it to confirm, little nuances of cultural, grammar checks. But ideally it does start and end with a human set of eyes with technology in the middle. 
+- Many sites use Google translate first. If you start with machine first, usually your product is somewhat machine like. We have humans involved from the start. When we go back to technology, we do it to confirm, little nuances of cultural, grammar checks. But ideally it does start and end with a human set of eyes with technology in the middle. 
 
 - With a contemporary subject (like COVID-19), we'll look at other government sites to see how they're talking about it. It's painfully obvious when they use machine translation.
 
