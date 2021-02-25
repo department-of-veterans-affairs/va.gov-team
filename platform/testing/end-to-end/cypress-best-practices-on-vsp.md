@@ -313,7 +313,7 @@ See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 | `va-top-mobile-4` | `va-top-tablet-4` | `va-top-desktop-4` |
 | `va-top-mobile-5` | `va-top-tablet-5` | `va-top-desktop-5` |
 
-#### Usage:
+#### Usage
 
 To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('va-top-mobile-1');`.
 
@@ -322,6 +322,12 @@ To set the orientation to landscape, pass in 'landscape' as a second argument, l
 To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape', { log: false });`.
 
 Please note: Microsoft Windows RT Tablet viewports are reported by Google Analytics in landscape mode, the opposite of most other tablets. As mentioned, the `cy.viewportPreset()` `orientation` argument is set to `portrait` by default. If you change the orientation of a preset that is referencing a Microsoft Windows RT Tablet viewport by passing in `landscape` as the `orientation` argument, it will have the opposite effect--it be changed to portrait.
+
+#### Recommended application
+
+By default, Cypress tests run using the most common desktop viewport. It is recommended that all features should be tested using at least one additional viewport to ensure consistent functionality among different viewports, such as the top mobile viewport due to increasing traffic from mobile users. Google Analytics data provides statistics on browser usage per page on VA.gov, which can be used to determine which viewports to test.
+
+Due to substantial increases in test execution time per additional viewport tested, it is not recommended to test all top viewports per Cypress test. As a guideline, it is recommended to select enough viewports that ensure confidence in test coverage without redundant viewports being tested.
 
 ### File uploads: cy.upload(fileName, fileType)
 
