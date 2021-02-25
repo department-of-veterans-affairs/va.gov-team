@@ -728,8 +728,15 @@ Confirmed that these active form records have PDF links that currently return a 
 
 
 ### Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
-### PDF links flagged as invalid, but are actually valid
 
+
+
+### Valid PDF links flagged as invalid (believe this happens during nightly merge)
+
+| type    | Name          | PDF Link                                                    |
+|---------|---------------|-------------------------------------------------------------|
+| va_form | 10-10EZ (pdf) | https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf |
+| va_form | VA40-10007    | https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf            |
 
 ### Forms with Tool URL but no Tool Intro
 
