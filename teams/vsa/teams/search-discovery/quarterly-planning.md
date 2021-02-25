@@ -11,7 +11,7 @@
 |[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)           |n/a |n/a |Define/Exploration |BE Dev |
 |[Results Page Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20402)             |n/a |n/a |Define |Discover|
 |[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |Knowledge transfer from PW |TBD |
-
+|[Click Tracking]()             |n/a |n/a|TBD |Best Bet Implementation|
 
 
 
