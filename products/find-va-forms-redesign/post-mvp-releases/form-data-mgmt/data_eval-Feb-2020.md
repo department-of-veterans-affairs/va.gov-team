@@ -19,7 +19,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
-    - [Forms with **Tool URL** but no **Tool Intro**](Forms-with-**Tool-URL**-but-no-**Tool-Intro**)
+    - [Forms with **Tool URL** but no **Tool Intro**](Forms-with-Tool-URL-but-no-**Tool-Intro**)
     - Inconsistent form label names
     - Inconsistent PDF links
     - Questionable dates
