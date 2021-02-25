@@ -758,100 +758,105 @@ Not intended as an exhaustive list, but rather a representation of the signfican
 Form dates that warrant further scrutiny due to missing/dubious dates
 
 #### Missing _First Issued On_ date
-| va_form | VA40-10007    |First Issued On  |
-|---------|---------------|--|
-| va_form | 10-0137B      |  |
-| va_form | 10-10EZ (pdf) |  |
-| va_form | 21-0960C-11   |  |
-| va_form | 21-0960C-3    |  |
-| va_form | 21-0960C-6    |  |
-| va_form | 21-0960C-7    |  |
-| va_form | 21-0960D-1    |  |
-| va_form | 21-0960E-2    |  |
-| va_form | 21-0960E-3    |  |
-| va_form | 21-0960H-1    |  |
-| va_form | 21-0960I-2    |  |
-| va_form | 21-0960I-3    |  |
-| va_form | 21-0960I-4    |  |
-| va_form | 21-0960I-5    |  |
-| va_form | 21-0960J-4    |  |
-| va_form | 21-0960L-1    |  |
-| va_form | 21-0960N-3    |  |
-| va_form | 21-0960N-4    |  |
-| va_form | 21-0960Q-1    |  |
-| va_form | 21-0958       |  |
-| va_form | 21-0960B-2    |  |
-| va_form | 21-0960C-10   |  |
-| va_form | 21-0960C-2    |  |
-| va_form | 21-0960I-1    |  |
-| va_form | 21-0960I-6    |  |
-| va_form | 21-0960J-1    |  |
-| va_form | 21-0960J-2    |  |
-| va_form | 21-0960J-3    |  |
-| va_form | 21-0960P-1    |  |
-| va_form | 21-0960P-2    |  |
-| va_form | 21-0960P-3    |  |
-| va_form | 21-0960A-2    |  |
-| va_form | 21-0960A-3    |  |
-| va_form | 21-0960A-4    |  |
-| va_form | 21-0960C-4    |  |
-| va_form | 21-0960E-1    |  |
-| va_form | 21-0960F-1    |  |
-| va_form | 21-0960F-2    |  |
-| va_form | 21-0960M-1    |  |
-| va_form | 21-0960M-10   |  |
-| va_form | 21-0960M-13   |  |
-| va_form | 21-0960M-15   |  |
-| va_form | 21-0960M-16   |  |
-| va_form | 21-0960M-2    |  |
-| va_form | 21-0960N-2    |  |
-| va_form | 21-0960M-12   |  |
-| va_form | 21-0960M-14   |  |
-| va_form | 21-0960M-3    |  |
-| va_form | 21-0960M-6    |  |
-| va_form | 21-0960M-7    |  |
-| va_form | VA8           |  |
-| va_form | 21-0960A-1    |  |
-| va_form | 21-0960B-1    |  |
-| va_form | 21-0960C-1    |  |
-| va_form | 21-0960M-4    |  |
-| va_form | 21-0960M-8    |  |
-| va_form | 21-0960M-9    |  |
-| va_form | 10-0485       |  |
-| va_form | 21-0960C-5    |  |
-| va_form | 21-0960C-8    |  |
-| va_form | 21-0960C-9    |  |
-| va_form | 21-0960G-1    |  |
-| va_form | 21-0960G-2    |  |
-| va_form | 21-0960G-3    |  |
-| va_form | 21-0960G-4    |  |
-| va_form | 21-0960G-5    |  |
-| va_form | 21-0960G-6    |  |
-| va_form | 21-0960G-7    |  |
-| va_form | 21-0960G-8    |  |
-| va_form | 21-0960H-2    |  |
-| va_form | 21-0960K-1    |  |
-| va_form | 21-0960K-2    |  |
-| va_form | 21-0960L-2    |  |
-| va_form | 21-0960M-11   |  |
-| va_form | 21-0960N-1    |  |
-| va_form | VA646         |  |
-| va_form | 10-0484       |  |
-| va_form | VA4637        |  |
-| va_form | VA10002       |  |
-| va_form | VA0927a       |  |
-| va_form | VA0927b       |  |
-| va_form | VA0927c       |  |
-| va_form | VA0927d       |  |
-| va_form | VA0927e       |  |
-| va_form | VA0862        |  |
-| va_form | VA0880a       |  |
-| va_form | VA0880b       |  |
-| va_form | 26-1844       |  |
-| va_form | VA3215        |  |
-| va_form | VA4667c       |  |
-| va_form | VA4667b       |  |
-| va_form | VA4670        |  |
+
+| type    | Name          |
+|---------|---------------|
+| va_form | VA40-10007    |
+| va_form | 10-0137B      |
+| va_form | 10-10EZ (pdf) |
+| va_form | 21-0960C-11   |
+| va_form | 21-0960C-3    |
+| va_form | 21-0960C-6    |
+| va_form | 21-0960C-7    |
+| va_form | 21-0960D-1    |
+| va_form | 21-0960E-2    |
+| va_form | 21-0960E-3    |
+| va_form | 21-0960H-1    |
+| va_form | 21-0960I-2    |
+| va_form | 21-0960I-3    |
+| va_form | 21-0960I-4    |
+| va_form | 21-0960I-5    |
+| va_form | 21-0960J-4    |
+| va_form | 21-0960L-1    |
+| va_form | 21-0960N-3    |
+| va_form | 21-0960N-4    |
+| va_form | 21-0960Q-1    |
+| va_form | 21-0958       |
+| va_form | 21-0960B-2    |
+| va_form | 21-0960C-10   |
+| va_form | 21-0960C-2    |
+| va_form | 21-0960I-1    |
+| va_form | 21-0960I-6    |
+| va_form | 21-0960J-1    |
+| va_form | 21-0960J-2    |
+| va_form | 21-0960J-3    |
+| va_form | 21-0960P-1    |
+| va_form | 21-0960P-2    |
+| va_form | 21-0960P-3    |
+| va_form | 21-0960A-2    |
+| va_form | 21-0960A-3    |
+| va_form | 21-0960A-4    |
+| va_form | 21-0960C-4    |
+| va_form | 21-0960E-1    |
+| va_form | 21-0960F-1    |
+| va_form | 21-0960F-2    |
+| va_form | 21-0960M-1    |
+| va_form | 21-0960M-10   |
+| va_form | 21-0960M-13   |
+| va_form | 21-0960M-15   |
+| va_form | 21-0960M-16   |
+| va_form | 21-0960M-2    |
+| va_form | 21-0960N-2    |
+| va_form | 21-0960M-12   |
+| va_form | 21-0960M-14   |
+| va_form | 21-0960M-3    |
+| va_form | 21-0960M-6    |
+| va_form | 21-0960M-7    |
+| va_form | VA8           |
+| va_form | 21-0960A-1    |
+| va_form | 21-0960B-1    |
+| va_form | 21-0960C-1    |
+| va_form | 21-0960M-4    |
+| va_form | 21-0960M-8    |
+| va_form | 21-0960M-9    |
+| va_form | 10-0485       |
+| va_form | 21-0960C-5    |
+| va_form | 21-0960C-8    |
+| va_form | 21-0960C-9    |
+| va_form | 21-0960G-1    |
+| va_form | 21-0960G-2    |
+| va_form | 21-0960G-3    |
+| va_form | 21-0960G-4    |
+| va_form | 21-0960G-5    |
+| va_form | 21-0960G-6    |
+| va_form | 21-0960G-7    |
+| va_form | 21-0960G-8    |
+| va_form | 21-0960H-2    |
+| va_form | 21-0960K-1    |
+| va_form | 21-0960K-2    |
+| va_form | 21-0960L-2    |
+| va_form | 21-0960M-11   |
+| va_form | 21-0960N-1    |
+| va_form | VA646         |
+| va_form | 10-0484       |
+| va_form | VA4637        |
+| va_form | VA10002       |
+| va_form | VA0927a       |
+| va_form | VA0927b       |
+| va_form | VA0927c       |
+| va_form | VA0927d       |
+| va_form | VA0927e       |
+| va_form | VA0862        |
+| va_form | VA0880a       |
+| va_form | VA0880b       |
+| va_form | 26-1844       |
+| va_form | VA3215        |
+| va_form | VA4667c       |
+| va_form | VA4667b       |
+| va_form | VA4670        |
+
+
+
 #### Missing _Last Revised On_ date
 
 #### _First Issued On_ date and/or _Last Revised On_ date > 10 years
