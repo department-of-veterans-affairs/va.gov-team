@@ -28,6 +28,19 @@
 
 </details>
 
+## Friday, February 26, 2021
+ 
+### Campaign landing page MVP 1.0
+- CLP Refinement Punch List - Stakeholder Review #20338 [Place Holder Ticket]
+- Meeting with Platform team to discuss mini-collab cycle (Discuss flow)
+- QA Testing in progress - Use Cases Updated 
+- Impressions from Stakeholder Review Session (Yesterday)
+- Staging Review Scheduled: March 4 @ 2PM (Should see invite)
+- Discussion/Questions? 
+
+Notes: 
+
+
 ## Thursday, February 11, 2021
  
 ### Campaign landing page MVP 1.0
