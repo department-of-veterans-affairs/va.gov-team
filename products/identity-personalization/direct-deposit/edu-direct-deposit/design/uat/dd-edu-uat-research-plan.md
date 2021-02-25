@@ -38,7 +38,7 @@ Users will:
 - The participant will be guided to the direct deposit feature
 - User will step through the edit-info form and re-enter their bank info
 - There will be a quick Q/A and wrap-up 
-- Success will be measured as 90% of participants can successfully re-enter and submit their bank info
+- Success will be measured as 90% of participants can successfully re-enter and submit their bank info, and that bank info successfully saves on the backend and is reflected in the user's profile
 
 ### Participants & recruiting
 Participants will be recruited via Perigean. The study will require Veterans (or dependents) who receive direct deposits of VA education payments. Sessions will run between 10 and 20 minutes depending on potential technical issues; sessions should be scheduled for 30 minutes, and at least 30 minutes apart.
