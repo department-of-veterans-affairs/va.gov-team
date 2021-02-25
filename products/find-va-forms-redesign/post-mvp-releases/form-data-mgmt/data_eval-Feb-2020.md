@@ -7,21 +7,35 @@ This evaluation was performed to get a current status on the number and types of
 Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25/2021.  The data referenced in this evaluation was retrieved by Zach Morel (FE Engineer) via the **Lighthouse API** on Feb 24, 2021.  This data source combines data from the **VA Forms database** and forms data stored in the **Drupal CMS**.
 
 ## Contents
-- Form Counts
-    - Active as of 2/24/2021
-    - Forms with Detail pages
+- [Form Counts](#form-counts)
+    - Active records
+    - Forms with any type of Detail Page
+    - Forms with Basic detail page
+    - Forms with custom detail page
     - Forms with Online Tools
     - Forms with related Forms
-    - Forms with Alert information (note - we are currently determining where this data originates)
-    - Deleted as of 2/24/2021 (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
+    - Forms with Alert information 
+    - Deleted
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
+    - Forms with **Tool URL** but no **Tool Intro**
     - Inconsistent form label names
     - Inconsistent PDF links
     - Questionable dates
     - Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
     - Forms missing language attribute
+
+
+## Form Counts
+
+ - Active records as of 2/24/2021: **573**
+ - Forms with any type of Detail Page:**446**
+ - Forms with custom detail page: **43** (note - this is determined by the presence of a value in **Form Usage** field.
+ - Forms with Online Tools:**29** (note - this is determined by the presence of a value in the **Tool URL** field)
+ - Forms with related Forms:**35**
+ - Forms with Alert information:** ** (note - we are currently determining where this data originates)
+ - Deleted as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
 
 
 ## Data Issues
@@ -123,3 +137,12 @@ Confirmed that these currently all return a 404 (Not Found) error.
 | va_form | 21-0960Q-1  | https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf                |
 | va_form | 10-0137B    | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf |
 | va_form | 26-6705d    | https://www.vba.va.gov/pubs/forms/VBA-26-6705d-ARE.pdf                  |
+
+### Forms with **Tool URL** but no **Tool Intro**
+
+| type    | Name    | Url                                                         |
+|---------|---------|-------------------------------------------------------------|
+| va_form | 28764   | https://www.va.gov/vaforms/medical/pdf/vha-10-2478-fill.pdf |
+| va_form | 29-1546 | https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf       |
+| va_form | 29-4364 | https://www.vba.va.gov/pubs/forms/VBA-29-4364-ARE.pdf       |
+| va_form | 28-1900 | https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf       |
