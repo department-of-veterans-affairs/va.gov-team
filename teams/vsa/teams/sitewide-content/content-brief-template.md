@@ -15,12 +15,12 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 ## 5 basic content style reminders
 
-•	Use contractions throughout your content
-•	Keep it brief:
-o	< 52 characters for H1s
-o	< 70 characters for H2s
-o	< 35 characters for buttons
-o	< 20 to 25 words for sentences
+- Use contractions throughout your content
+- Keep it brief:
+  - < 52 characters for H1s
+  - < 70 characters for H2s
+  - < 35 characters for buttons
+  - < 20 to 25 words for sentences
 •	Write as though you’re having a conversation with the Veteran on behalf of VA. The Veteran asks us questions in their voice, and we answer in ours.
 
 Example:
