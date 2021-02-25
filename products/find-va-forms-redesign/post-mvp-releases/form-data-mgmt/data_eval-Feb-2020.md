@@ -14,7 +14,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     - Forms with related Forms
     - Forms with Alert information (note - we are currently determining where this data originates)
     - Deleted as of 2/24/2021 (note - this is a logical delete in the Lighthouse API - form data is still present, but denoted as deleted with a date in the Deleted At field.
--  [Data Issues[(#data-issues)
+-  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
     - Inconsistent form label names
     - Inconsistent PDF links
