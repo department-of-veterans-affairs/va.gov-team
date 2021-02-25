@@ -748,6 +748,8 @@ Confirmed that these active form records have PDF links that currently return a 
 ### Inconsistent form name examples
 ### Inconsistent PDF link examples
 
-Not an exhaustive list, but meant as a representative sampling of the signficant variety seen in PDF names and URL formats.  The presence of some characters or download/sort parameters may prevent links from opening in some browsers/PDF viewers.
+Not intended as an exhaustive list, but rather a representation of the signficant variety of PDF names and URL formats observed.  It is important to note that the presence of certain characters (parentheses, ASCII characters) or download/sort parameters in the URL may prevent links from opening in some browsers/PDF viewers.
 
 ### Forms with questionable dates
+
+Form dates that may require validation because stated issue/revision date > 10 years, or **First Issued On** date is more recent than **Last Revised On** date.
