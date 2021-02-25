@@ -171,9 +171,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **Design**
 
-- Onboard Liz
-  - Go over project
-  - Discuss discovery planning
+- Preferred Facility: Onboard Liz #20392
 - Start discovery
   - Meet with VAOS
 
@@ -181,9 +179,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **Design**
 
-- Onboard Liz
-  - Go over project
-  - Discuss discovery planning
+- VA Profile: Notification preferences: Onboard Liz #20391
 - Discovery
   - Meet with VA Profile (Terry)
 
