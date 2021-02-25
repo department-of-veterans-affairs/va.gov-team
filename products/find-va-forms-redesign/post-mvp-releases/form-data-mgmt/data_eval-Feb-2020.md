@@ -15,12 +15,12 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
-    - Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
-    - PDF links flagged as invalid, but are actually valid
+    - [Problematic PDF links](#Problematic-PDF-links) (note - these links may work on browsers that are more "forgiving", but not on others)
+    - [Valid PDF links flagged as invalid](#Valid-PDF-links-flagged-as-invalid)
     - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
-    - Inconsistent form name examples
-    - Inconsistent PDF link examples
-    - Forms with questionable dates
+    - [Inconsistent form name examples](#Inconsistent-form-name-examples)
+    - [Inconsistent PDF link examples](#Inconsistent-PDF-link-examples)
+    - [Forms with questionable dates](#Forms-with-questionable-dates)
 
 ## Form Counts
 With the exception of **Deleted forms**, below values reflect _active_ form records.
@@ -727,7 +727,9 @@ Confirmed that these active form records have PDF links that currently return a 
 
 
 
-### Problematic PDF links. These links may work on browsers that are more "forgiving", but not on others due to presence of 
+### Problematic PDF links
+
+These links may work on browsers that are more "forgiving", but not on others due to presence of:
  - ASCII characters -- ex _%20_
  - Special characters -- ex: $ ( ) ? #
  - Overall length of file name
