@@ -5,3 +5,4 @@
 | pros | cons |
 |------|------|
 | would allow users to copy URL | adds a lot of extra code and time to build |
+|                               | until we test it we are not sure if users will even use the feature |
