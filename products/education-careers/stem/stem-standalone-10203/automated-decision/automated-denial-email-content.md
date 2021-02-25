@@ -1,4 +1,4 @@
-# We've received your STEM Scholarship application
+# We've reached a decision on your STEM Scholarship application
 
 Dear STEM Scholarship applicant, 
 
@@ -27,7 +27,7 @@ VA Buffalo Regional Processing Office
 
 ----
 
-You are receiving this email because you filed an application for the Rogers STEM Scholarship on VA.gov.  Please do not reply to this email.  If you need to contact us, please visit https://va.gov.
+You are receiving this email because we've made a decision on your application for the Rogers STEM Scholarship.  Please do not reply to this email.  If you need to contact us, please visit https://va.gov.
 
 
 { end of email }
