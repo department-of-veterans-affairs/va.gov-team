@@ -19,7 +19,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
-    - [Forms with **Tool URL** but no **Tool Intro**](Forms-with-Tool-URL-but-no-**Tool-Intro**)
+    - [Forms with Tool URL but no Tool Intro](Forms-with-Tool-URL-but-no-Tool-Intro)
     - Inconsistent form label names
     - Inconsistent PDF links
     - Questionable dates
@@ -138,7 +138,7 @@ Confirmed that these currently all return a 404 (Not Found) error.
 | va_form | 10-0137B    | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf |
 | va_form | 26-6705d    | https://www.vba.va.gov/pubs/forms/VBA-26-6705d-ARE.pdf                  |
 
-### Forms with **Tool URL** but no **Tool Intro**
+### Forms with Tool URL but no Tool Intro
 
 | type    | Name    | Url                                                         |
 |---------|---------|-------------------------------------------------------------|
