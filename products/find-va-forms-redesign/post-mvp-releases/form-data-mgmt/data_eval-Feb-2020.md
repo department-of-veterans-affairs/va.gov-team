@@ -24,6 +24,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 
 
 ## Form Counts
+With the exception of **Deleted forms** counts reflect only active form records.
 
  - Active records as of 2/24/2021: **573**
  - Forms with any type of Detail Page: **446**
@@ -31,9 +32,11 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
  - Forms with Online Tools: **29** (as determined by the presence of a value in the **Tool URL** field)
  - Forms with related Forms: **35**
  - Forms with Alert information: ** ** (note - we are currently determining where this data originates)
- - Deleted as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
+ - Deleted forms as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
 
 ## Form VA.gov Features
+Active records only
+
 | Type    | Name                 | PDF | Basic Detail Page | Enhanced Detail Page | Online Tool | Related Forms |
 |---------|----------------------|-----|-------------------|----------------------|-------------|---------------|
 | va_form | 21-0781              | Y   | Y                 | Y                    | Y           | Y             |
