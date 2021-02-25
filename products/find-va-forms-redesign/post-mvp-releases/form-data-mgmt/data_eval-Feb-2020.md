@@ -26,6 +26,8 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 ## Data Issues
 
 ### Forms with invalid PDF links
+Confirmed that these currently all return a 404 (Not Found) error.
+
 | type    | Name        | Url                                                                     |
 |---------|-------------|-------------------------------------------------------------------------|
 | va_form | VA4670      | https://www.va.gov/vaforms/va/pdf/VA4670.pdf                            |
