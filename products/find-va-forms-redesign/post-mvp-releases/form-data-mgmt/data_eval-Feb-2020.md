@@ -9,13 +9,9 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 ## Contents
 - [Form Counts](#form-counts)
 
+
 - [Form VA.gov Features](#form-vagov-features)
-    - Forms with any type of Detail Page
-    - Forms with Basic detail page
-    - Forms with custom detail page
-    - Forms with Online Tools
-    - Forms with related Forms
-    - Forms with Alert information 
+
     
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
