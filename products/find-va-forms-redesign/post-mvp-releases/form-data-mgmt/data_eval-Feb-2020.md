@@ -10,7 +10,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 - [Form Counts](#form-counts)
 
 
-- [Form VA.gov Features](#form-vagov-features)
+- [Form VA.gov Feature Matrix](#form-vagov-feature-matrix)
 
     
 -  [Data Issues](#data-issues)
@@ -35,7 +35,7 @@ With the exception of **Deleted forms** counts reflect only active form records.
  - Forms with Alert information: ** ** (note - we are currently determining where this data originates)
  - Deleted forms as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
 
-## Form VA.gov Features
+## Form VA.gov Feature Matrix
 Active records only
 
 | Type    | Name                 | PDF | Basic Detail Page | Enhanced Detail Page | Online Tool | Related Forms |
