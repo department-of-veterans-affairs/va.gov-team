@@ -10,7 +10,7 @@
 |[Spelling Enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19190)|n/a|Define/Exploration |Due to Search.gov current limitations initial implementation will be to icebox; define new version to be added to results page redesign, Close|n/a |
 |[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)           |n/a |n/a |Define/Exploration |BE Dev |
 |[Results Page Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20402)             |n/a |n/a |Define |Discover|
-|[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |TBD |TBD |
+|[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |Knowledge transfer from PW |TBD |
 
 
 
