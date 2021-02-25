@@ -1,11 +1,11 @@
 ## Why we’re here 
 
 ### North Stars:  
-Increase the use of self-service tools. 
+Increase the use of self-service tools. <br>
 Consistently deliver a satisfying, reliable, and secure online experience. 
 
 ### Team mission statement: 
-To give Veterans and their family members the clear, accurate, and consistent information they need to understand, access, and manage their VA benefits and services. 
+To give Veterans and their family members the clear, accurate, and consistent information they need to understand, access, and manage their VA benefits and services. And to provide this information in a compassionate voice of the trusted authority for Veteran information.
 
 ### Product portfolio: 
 Global unauthenticated content (including homepage, tool pages, benefit hubs, resources & support, and other unauthenticated content) 
