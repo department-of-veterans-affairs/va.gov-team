@@ -42,7 +42,7 @@ There are a few things I need to mention before we start:
 - Can you tell us what a Certificate of Eligibility is? Can you tell us how you got a COE?
 - What were the most challenging things about getting your COE? What was easy; what difficulties were there?
 - What do you know about COE requirements?
-- Are you familiar with the terms, "Funding Fee Exemption" and  "Entitlement?" 
+- I have a detail question about the COE: your Funding Fee status is an item on the COE, was this important for you to know when you applied for COE and why?
 - What documentation did you have to provide? What challenges did this cause?
 - What other options do you know of for how to get a COE?
 - Knowing what you do now about COE, would you do anything differently?
