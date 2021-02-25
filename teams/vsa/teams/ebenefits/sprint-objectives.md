@@ -9,9 +9,34 @@
 - Remember the Contact Center (Alamo!) and the issues they deal with
 - Try to focus on a fewer number of features at a time
 ----
-## Sprint 41 (2/10 - 2/23)
+## Sprint 42 (2/24 - 3/9)
 ```diff
 - X points over Y issues
+```
+## 1. Prepare Dependency Claims for e2e and UAT
+- BE continue to iterate on last-mile tickets
+- Daily meetings for live testing as needed
+- Target mid Apr launch
+## 2. Support for VRE CMS (CH31) integration and application testing as needed
+- Likely 10-15 FE + BE + Design points reserved for ongoing dev + collab cycle activities
+- Prep for pre-launch activities, complete prod connections
+## 3. Iterate on Dependency Verification 
+- FE iteration on proof-of-concept as per discovery team designs
+- BE integrate Diary Services for FE testing
+- Design participate in collab cycle
+## 4. POA Ongoing Work
+- BE integrate LH API, implement View page
+- Design/ FE discuss and collaborate on Search and Submit features
+## 5. Dependency Claims feature enhancement: select dependents to remove
+- FE/ BE activities as captured
+- Design cross check with design/ a11y community
+## 6. Prep for Discovery Research Design Discovery for LGY: COE
+- Design to start research plan/ convo guide for approval
+- Schedule with Perigean target end of Feb
+
+## Sprint 41 (2/10 - 2/23)
+```diff
+- 82 points over 24 issues
 ```
 ## 1. Prepare Dependency Claims for e2e and UAT
 - BE continue to iterate on last-mile problems
