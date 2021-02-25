@@ -1,7 +1,10 @@
 # Feb 2021 VA Form Data Evaluation
 
+##Purpose
+This evaluation was performed to get a current status on the number and types of forms currently available via the Find a VA Form product.  A secondary purpose was to identify data inconsistencies and existing data issues that could generate errors or unexpected behavior. 
+
 ## Data Source
-Data referenced in this evaluation was retrieved via the Lighthouse API on Feb 24, 2021.   This data source combines data from the VA Forms database and forms data stored in the Drupal CMS.
+Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25/2021.  The aata referenced in this evaluation was retrieved by Zach Morel (FE Engineer) via the Lighthouse API on Feb 24, 2021.  This data source combines data from the VA Forms database and forms data stored in the Drupal CMS.
 
 ## Contents
 - Form Counts
