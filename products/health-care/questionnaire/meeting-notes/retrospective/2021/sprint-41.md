@@ -1,4 +1,4 @@
-# Sprint 41 Real Data via Lighthouse
+# Sprint 41 API Integration
 
 <img
 src="https://lh5.googleusercontent.com/NDiVMlLKuvPBKDy2RwIkduwOpSWsEi_ln1d9_tKilePpYL0_kSLbbeX-R2B-KzADkK4sTB7xp_4sqJl7h6zgCxqnpv6FlxLYoM3FJVxQaZHCM09XSrsAZSodZTD_0vr_bePgQjl6" width="700">
