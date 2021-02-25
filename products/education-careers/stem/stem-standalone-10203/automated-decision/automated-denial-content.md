@@ -58,13 +58,18 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { Only include applicable criteria }
 
-{ BEGIN: Entitlement eligible Reason (< 180 days of remaining entitlement) }
+{ BEGIN: If EVSS finds their info, this reason will be displayed }
+
  - You are eligible for Post 9/11 GI Bill benefits
  
     - By law, all Rogers STEM scholarship recipients must be eligible for Post 9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
      
     - We reviewed your service and school data records currently on file. As of [MM/DD/YYYY], you are eligible for Post 9/11 GI Bill benefits.
-     
+    
+{ END:  If EVSS finds info }
+
+{ BEGIN: Entitlement eligible Reason (< 180 days of remaining entitlement) }
+
  - You meet the benefit requirements for the Rogers STEM Scholarship 
 
     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
