@@ -16,6 +16,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 -  [Data Issues](#data-issues)
     - [Invalid PDF links](#invalid-pdf-links)
     - [Problematic PDF links](#Problematic-PDF-links) (note - these links may work on browsers that are more "forgiving", but not on others)
+    - [PDF URLs missing .pdf file extension](#PDF-URLs-missing-pdf-file-extension)
     - [Valid PDF links flagged as invalid](#Valid-PDF-links-flagged-as-invalid)
     - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
     - [Inconsistent form name examples](#Inconsistent-form-name-examples)
@@ -796,6 +797,9 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                                |
 | va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                       |
 | va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                   |
+
+### PDF URLs missing .pdf file extension
+
 
 
 ### Valid PDF links flagged as invalid
