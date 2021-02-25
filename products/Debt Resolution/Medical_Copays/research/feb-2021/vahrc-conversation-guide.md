@@ -33,8 +33,8 @@ _Start recording._
 First, I'd like to ask you a little bit about your job and department.
 
 * How would you describe your role?
-* Can you tell me about what services your department provides?
 * What sort of experience or knowledge do you have that you feel will be valuable for us to draw from when designing for online VHA debt tools?
+* Tell me about your department and the services it provides.
 * Can you tell me a little more about the departments of VHA that touch the debt process, if they exist?  
 
 **About operations** 
@@ -47,13 +47,11 @@ Now, I'd like to dig more into your interactions with Veterans.
 * What does a typical call look like?
 * How long do these calls tend to last?
 * Are there other methods Veterans use to reach out for assistance?  (ie IRIS, email, etc.)
+  * Who fields these requests? 
 * Is there anything that you're not really able to discuss with Veterans?
 * What sort of goals are placed on you and those on your team? 
 * What constraints do you have to work with?
-* How do you think an online tool becoming available for Veterans could help you in your role?
-* Can you describe the types of debt that a Veteran might receive from VHA? 
-  * How big are the debts, usually? 
-  * How big can they get?  
+* How do you think an online tool becoming easily available for Veterans could help you in your role?
 
 **About the Veterans **
 
@@ -61,6 +59,9 @@ Next, I want to learn a little more about the Veterans themselves
 
 * What kind of problems do you think Veterans are experiencing with their copayments today?
 * Do Veterans typically know which priority group they're assigned to? 
+* Can you describe the types of debt that a Veteran might receive from VHA? 
+  * How big are the debts, usually? 
+  * How big can they get?  
 * What type of financial assistance do Veterans request most often? 
   * Why do you think that is?
 * What sort of questions do Veterans typically have?  
@@ -79,15 +80,45 @@ I just have a couple of stray questions for you before we start looking at the f
 * Do you have any copayment stats you'd like to share with us?
 * Is there any other information you think we should know about how Veterans interact with their copayments?  
 
-## Task: VHA flow workshop - 25 min
+## Flexible task 1: VHA flow workshop
 
-I'm going to share my screen and pull up a diagram that shows our understanding of the VHA debt process as it stands today.
+I'm going to share my screen and pull up a diagram that shows our understanding of the VHA debt process, based on our online research.
 
 _Moderator shares their screen and navigates to [the Miro board](https://miro.com/app/board/o9J_kxbu2M4=/?moveToWidget=3074457354814915958&cot=14)._
 
-Okay! So now we're going to look at this flow together to make sure I understand things correctly. We had to draw some assumptions while making this, so if something's wrong, feel free to shout it out! I've also got a bunch of questions to ask, so we will try to get to as many of those as possible before the end of our session.
+Okay! So now we're going to look at this flow together to make sure I understand things correctly. We had to draw some assumptions while making this, so if something's wrong, feel free to shout it out! I've also got a bunch of questions to ask about the flow, so we will try to get to as many of those as possible before the end of our session.
 
-_Moderator works through flow with representatives._
+## Flexible task 2: Current solution
+
+* Can you tell me more about the way Veterans can view their copay bills online today? 
+
+I'm going to share my screen and pull up a screenshot from the current experience so we can talk more about it.
+
+_Moderator shares their screen and navigates to [the Miro board](https://miro.com/app/board/o9J_kxbu2M4=/?moveToWidget=3074457354998304151&cot=14)._
+
+* What do you think about this solution?
+* Why do you believe this solution offers 6 months worth of statements?
+* How do you think this solution solves Veterans' problems?
+* In what ways do you think this solution could better solve Veterans' problems?
+
+## Flexible task 3: Form 5655
+
+I'm going to pull up the Financial Status Report form so that we can go through it together and talk about where Veterans struggle and what's necessary vs. not so much.
+
+_Moderator shares their screen and navigates to [the Miro board](https://miro.com/app/board/o9J_kxbu2M4=/?moveToWidget=3074457355000734622&cot=14)._
+
+* What are your thoughts about this form?
+* In what ways do you think Veterans struggle with this form?
+
+
+## Flexible task 4: Form 1100
+
+I'm going to pull up form 1100 so that we can go through it together and talk about it in more detail
+
+_Moderator shares their screen and navigates to [the Miro board](https://miro.com/app/board/o9J_kxbu2M4=/?moveToWidget=3074457355000734799&cot=14)._
+
+* What are your thoughts about this form?
+* In what ways do you think Veterans struggle with this form?
 
 ## Thank-You and Closing - 2 min
 
