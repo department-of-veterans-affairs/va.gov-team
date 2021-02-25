@@ -2,13 +2,13 @@
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan, Theo Bentum  
 **Last Updated:** February 22, 2021  
-**Status:** Draft | **In Review** | Approved  
+**Status:** Draft | In Review | **Approved**  
 **Approvers:**
-- [ ] Tim Wright
-- [ ] Neil Hastings
-- [ ] Steve Wirt
-- [ ] Dror Matalon
-- [ ] Michael Fleet
+- [x] Tim Wright
+- [x] Neil Hastings
+- [x] Steve Wirt
+- [x] Dror Matalon
+- [x] Michael Fleet
 
 ## Overview
 
