@@ -12,6 +12,7 @@ We ensure that the content and voice of VA.gov is:
 - Accurate
 - Consistent
 - Compassionate
+- Equitable
 - Authoritative
 
 ### Product portfolio: 
