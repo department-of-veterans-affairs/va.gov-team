@@ -798,7 +798,9 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                   |
 
 
-### Valid PDF links flagged as invalid (believe this happens during nightly merge)
+### Valid PDF links flagged as invalid
+
+Believe URLs are evaluated and flagged in CMS 
 
 | type    | Name          | PDF Link                                                    | Valid PDF |
 |---------|---------------|-------------------------------------------------------------|-----------|
