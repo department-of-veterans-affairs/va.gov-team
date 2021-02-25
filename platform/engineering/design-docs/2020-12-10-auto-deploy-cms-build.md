@@ -1,4 +1,4 @@
-# Automatic Deploy of Content Built
+# Automatic Deploy of Content
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan, Theo Bentum  
 **Last Updated:** February 22, 2021  
