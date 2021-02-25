@@ -16,7 +16,7 @@ _When the participant is ready, begin the session with the following intro_
 
 ## Intro - 3 min
 
-Thank you for joining us today! Today we're going to chat about your experiences helping Veterans who have incurred VA healthcare charges. We're currently working on incorporating VHA debt into VA.gov's debt management portal, and we want to ensure that our designs will solve real Veterans' problems. I also have some colleagues on the line observing and taking notes for me.
+Thank you for joining us today! Today we're going to chat about your experiences helping Veterans who have incurred VA healthcare charges. We're currently working on incorporating VHA debt into VA.gov's debt management portal, and we want to ensure that our designs will solve real Veterans' problems, so we're talking to experts like you to learn more. I also have some colleagues on the line observing and taking notes for me.
 
 * Since we only have an hour to chat, I may occasionally prompt you with the next question or topic to keep us on track.
 * Are you comfortable if I record my screen and audio as we talk today?
@@ -50,22 +50,23 @@ Now, I'd like to dig more into your interactions with Veterans.
 * Is there anything that you're not really able to discuss with Veterans?
 * What sort of goals are placed on you and those on your team? 
 * What constraints do you have to work with?
-* How do you think an online tool becoming available for Veterans could help you as a representative?
+* How do you think an online tool becoming available for Veterans could help you in your role?
 * Can you describe the types of debt that a Veteran might receive from VHA? 
   * How big are the debts, usually? 
   * How big can they get?  
 
 **About the Veterans **
 
-Next, I want to know a little more about the Veterans themselves
+Next, I want to learn a little more about the Veterans themselves
 
-* What kind of problems do you think Veterans are experiencing with their copayments?
+* What kind of problems do you think Veterans are experiencing with their copayments today?
 * Do Veterans typically know which priority group they're assigned to? 
 * What type of financial assistance do Veterans request most often? 
+  * Why do you think that is?
 * What sort of questions do Veterans typically have?  
 
 **Repayment plans**
-We also have a few questions about the repayment plans themselves.
+I also have a few questions about the repayment plans themselves.
 * We noticed that payment plans usually require the Veteran to pay off the debt within 3 years - are longer repayment plans ever granted?
 * What is the process if the Veteran cannot pay off the debt after 3 years?
 * Is there a minimum monthly amount VHA will accept?
@@ -73,7 +74,7 @@ We also have a few questions about the repayment plans themselves.
   * If so, what would the next steps be?  
 
 **Additional questions**
-We just have a couple of stray questions for you before we wrap up.
+I just have a couple of stray questions for you before we start looking at the flow we presented before.
 * What impact do you think providing Veterans access to their copayments online will have?
 * Do you have any copayment stats you'd like to share with us?
 * Is there any other information you think we should know about how Veterans interact with their copayments?  
