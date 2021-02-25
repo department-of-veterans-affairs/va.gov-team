@@ -58,7 +58,7 @@ Beth Potts and Danielle Thierry
 - **Office hours:** This a weekly opportunity for designers and product managers to get input from the Digital Experience content leads at any stage of product development. Collaboration on content needs will range from content strategy to help with specific messaging. Office hours can be used to work through issues that have come up in the designers’ suite meetings.  
 
 #### Unauthenticated content processes  
-**New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live 
+**New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
 **Updates to existing website pages/maintenance:** incoming SME request or internally identified need --> PO triages --> PO content strategy/edit for plain language and house style --> SME review --> incorporate changes in drupal --> copyedit --> go live 
 
 #### Authenticated content processes 
