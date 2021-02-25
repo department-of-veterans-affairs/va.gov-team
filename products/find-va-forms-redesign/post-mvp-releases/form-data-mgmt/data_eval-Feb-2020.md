@@ -27,7 +27,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 With the exception of **Deleted forms** counts reflect only active form records.
 
  - Active records as of 2/24/2021: **573**
- - Forms with any type of Detail Page: **446**
+ - Forms with any type of Detail Page: **446** (as determined by the presence of a value in the **Details URL** field)
  - Forms with custom detail page: **43** (as determined by the presence of a value in **Form Usage** field)
  - Forms with Online Tools: **29** (as determined by the presence of a value in the **Tool URL** field)
  - Forms with related Forms: **35**
