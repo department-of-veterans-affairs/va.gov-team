@@ -727,8 +727,71 @@ Confirmed that these active form records have PDF links that currently return a 
 
 
 
-### Problematic PDF links (note - these links may work on browsers that are more "forgiving", but not on others)
-
+### Problematic PDF links. These links may work on browsers that are more "forgiving", but not on others due to presence of 
+ - ASCII characters -- ex _%20_
+ - Special characters -- ex: $ ( ) ? #
+ - Overall length of file name
+| type    | Name                 | PDF Link                                                                                                                                                           |
+|---------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| va_form | 16711                | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%2010-5345%20Fill-revision.pdf                                                                                    |
+| va_form | 19633                | https://www.va.gov/vaforms/medical/pdf/Cert%2010-2553%20Certificate%20of%20Residency_Blank%20Template.pdf                                                          |
+| va_form | 44472                | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-3203%20Fill.pdf                                                                                              |
+| va_form | 10-0003k             | https://www.va.gov/vaforms/medical/pdf/EISP%20Application%200003K%20.2019.pdf                                                                                      |
+| va_form | 10-0003K-2           | https://www.va.gov/vaforms/medical/pdf/EISP%20Agreement.0003K-2%20-%209-26-2019%20updated.pdf                                                                      |
+| va_form | 10-0137              | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0137%20FILL.pdf                                                                                              |
+| va_form | 10-0137 (espanol)    | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0137espanol(1).pdf                                                                                           |
+| va_form | 10-0137B             | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf                                                                                            |
+| va_form | 10-0383              | https://www.va.gov/vaforms/medical/pdf/vha-10-0383-fill%20(102014).pdf                                                                                             |
+| va_form | 10-0388              | https://www.va.gov/vaforms/medical/pdf/10-0388%25cover.pdf                                                                                                         |
+| va_form | 10-0388-1            | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0388-1%20Documents%20and%20Information%20Requred%20for%20State%20Home%20Construction%20and%20Acquisition.pdf |
+| va_form | 10-0388-13           | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0388-13_%20Acquisition%20and%20Grants.pdf                                                                    |
+| va_form | 10-0388-5            | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0388-5%20Additional%20Document%20and%20Information%20Acquisition%20Grants%20Application.pdf                  |
+| va_form | 10-0464a             | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0464a.pdf                                                                                                    |
+| va_form | 10-0491              | https://www.va.gov/vaforms/medical/pdf/vha-10-0491-fill%20(Academic%20Verification).pdf                                                                            |
+| va_form | 10-0491A             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491a-fill%20(Application%20Addendum)%20(002).pdf                                                                    |
+| va_form | 10-0491C             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491c-fill%20(Annual%20Deferment).pdf                                                                                |
+| va_form | 10-0491D             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491d-fill%20(Education%20Program%20Completion).pdf                                                                  |
+| va_form | 10-0491E             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491e-fill%20(Evaluation%20and%20Recommendation).pdf                                                                 |
+| va_form | 10-0491F             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491f-fill%20(HPSP%20Agreement).pdf                                                                                  |
+| va_form | 10-0491G             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491g-fill%20(Application).pdf                                                                                       |
+| va_form | 10-0491H             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491h-fill%20(Notice%20of%20Approaching%20Graduation).pdf                                                            |
+| va_form | 10-0491I             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491i-fill%20(Notice%20of%20Change).pdf                                                                              |
+| va_form | 10-0491J             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491j-fill%20(Deferment).pdf                                                                                         |
+| va_form | 10-0491K             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491k-fill%20(Offer%20Response).pdf                                                                                  |
+| va_form | 10-0491L             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491L-fill%20(VIOMPSP%20Agreement).pdf                                                                               |
+| va_form | 10-0491n             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491n-fill%20(VHVMAESP%20Agreement).pdf                                                                              |
+| va_form | 10-0539              | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0539%20FILL.pdf                                                                                              |
+| va_form | 10-0708              | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0708%20Employees%20Records%20Clearance%20-%20Revised.pdf                                                     |
+| va_form | 10-0998              | https://www.va.gov/vaforms/medical/pdf/10-0998%20online%20corrected.pdf                                                                                            |
+| va_form | 10-10152             | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10152-fill.pdf                                                                                               |
+| va_form | 10-10154             | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10154.pdf                                                                                                    |
+| va_form | 10-10171             | https://www.va.gov/vaforms/medical/pdf/vha%2010-10171-fill.pdf                                                                                                     |
+| va_form | 10-10172             | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10172-1.pdf                                                                                                  |
+| va_form | 10-10EC              | https://www.va.gov/vaforms/medical/pdf/10-10EC%20Fill%202017.pdf                                                                                                   |
+| va_form | 10-250               | https://www.va.gov/vaforms/medical/pdf/VA%2010-250%20Fillable%20(002).pdf                                                                                          |
+| va_form | 10-252               | https://www.va.gov/vaforms/medical/pdf/10-252%20Authorization%20To%20Release%20Protected%20Health%20Information%20To%20State%20Local%20Public%20Authorities.pdf    |
+| va_form | 10-253               | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%20253%20Ecclesiastical%20Endorsement%20for%20Veterans%20Affairs%20Chaplaincy%20Fill.pdf                          |
+| va_form | 10-2649A             | https://www.va.gov/vaforms/medical/pdf/10-2649A%20fill.pdf                                                                                                         |
+| va_form | 10-2649B             | https://www.va.gov/vaforms/medical/pdf/10-2649B%20Final.pdf                                                                                                        |
+| va_form | 10-5345a             | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%2010-5345a%20Fill-revision.pdf                                                                                   |
+| va_form | 10-7959C             | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-7959c.pdf                                                                                                    |
+| va_form | 10-7959f-1           | https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20-fill_012317.pdf                                                                                           |
+| va_form | 21-0960C-1           | https://www.vba.va.gov/pubs/forms/VA%20Form%2021-0960C-1.pdf                                                                                                       |
+| va_form | 21P-0510(Spanish)    | https://www.vba.va.gov/pubs/forms/VBA-21P-0510(Spanish)-ARE.pdf                                                                                                    |
+| va_form | 21P-0512s-1(Spanish) | https://www.vba.va.gov/pubs/forms/VBA-21P-0512s-1(Spanish)-ARE.pdf                                                                                                 |
+| va_form | 21P-0513-1(Spanish)  | https://www.vba.va.gov/pubs/forms/VBA-21P-0513-1(Spanish)-ARE.pdf                                                                                                  |
+| va_form | 21P-0514-1(Spanish)  | https://www.vba.va.gov/pubs/forms/VBA-21P-0514-1(Spanish)-Are.pdf                                                                                                  |
+| va_form | 21P-0516-1 (Spanish) | https://www.vba.va.gov/pubs/forms/VBA-21P-0516-1(Spanish)-ARE.pdf                                                                                                  |
+| va_form | 21P-0517-1(Spanish)  | https://www.vba.va.gov/pubs/forms/VBA-21P-0517-1(Spanish)-ARE.pdf                                                                                                  |
+| va_form | 21P-0518-1(Spanish)  | https://www.vba.va.gov/pubs/forms/VBA-21P-0518-1(Spanish)-ARE.pdf                                                                                                  |
+| va_form | 21P-0519C-1(Spanish) | https://www.vba.va.gov/pubs/forms/VBA-21P-0519C-1(Spanish)-ARE.pdf                                                                                                 |
+| va_form | 21P-0519S-1(Spanish) | https://www.vba.va.gov/pubs/forms/VBA-21P-0519S-1(Spanish)-ARE.pdf                                                                                                 |
+| va_form | FL-10-90             | https://www.va.gov/vaforms/medical/pdf/FL%2010-90-fill.pdf                                                                                                         |
+| va_form | OF-8                 | https://www.gsa.gov/cdnstatic/OF8-85.pdf?forceDownload=1                                                                                                           |
+| va_form | SF39                 | https://www.gsa.gov/cdnstatic/SF%2039.pdf?forceDownload=1                                                                                                          |
+| va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                                |
+| va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                       |
+| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                   |
 
 
 ### Valid PDF links flagged as invalid (believe this happens during nightly merge)
@@ -747,9 +810,6 @@ Confirmed that these active form records have PDF links that currently return a 
 | va_form | 29-4364 | https://www.vba.va.gov/pubs/forms/VBA-29-4364-ARE.pdf       |
 | va_form | 28-1900 | https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf       |
 
-
-
-### [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
 
 ### Inconsistent form name examples
 Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.
