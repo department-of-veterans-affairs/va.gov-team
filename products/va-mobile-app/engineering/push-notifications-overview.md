@@ -30,7 +30,7 @@ Store notification (push/SMS/email) prefs
 ### VANotify
 Not involved in mobile push notifications atm
 
-![sequence diagram](push\ notifications.png)
+![sequence diagram](push-notifications.png)
 
 ## Feature: appointment reminders
 
