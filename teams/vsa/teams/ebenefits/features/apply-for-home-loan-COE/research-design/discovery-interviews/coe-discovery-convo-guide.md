@@ -36,11 +36,13 @@ There are a few things I need to mention before we start:
 - What went well in applying for the loan?
 - What was the single biggest problem you ran into? How did you finally get past it?
 - What other problems did you run into?
+- Thinking about the home-buying process in general, what tools do you remember being especially helpful or easy-to-use?
 
 ## Section two: COE
 - Can you tell us what a Certificate of Eligibility is? Can you tell us how you got a COE?
 - What were the most challenging things about getting your COE? What was easy; what difficulties were there?
 - What do you know about COE requirements?
+- Are you familiar with the terms, "Funding Fee Exemption" and  "Entitlement?" 
 - What documentation did you have to provide? What challenges did this cause?
 - What other options do you know of for how to get a COE?
 - Knowing what you do now about COE, would you do anything differently?
@@ -51,6 +53,7 @@ There are a few things I need to mention before we start:
 - What could we do -- on VA.gov or in the real world -- to make the getting a VA-back loan easier? 
 - Looking back, what questions do you wish you had answered before you started?
 - How could we make getting a COE simpler?
+- What about the whole home-buying process? what do you wish it looked like?
 - Thinking about the whole process, what advice would you give to someone applying for a VA-backed loan?
 
 ## Wrap-up
