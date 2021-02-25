@@ -836,7 +836,36 @@ Believe URLs are evaluated and flagged in CMS
 
 
 ### Inconsistent form name examples
-Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.
+Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  Of specific concern is the lack of consistency in the use of hyphens, spaces, capital vs. lower-case letters, Spanish-language indicators, and inclusion/exclusion of _VA_ or _Form_ in the name.
+
+It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.
+
+| type    | Name              |
+|---------|-------------------|
+| va_form | 9                 |
+| va_form | 10-0003k          |
+| va_form | 10-0003K-2        |
+| va_form | 10-0094e          |
+| va_form | 10-0137A          |
+| va_form | 10-0388-10        |
+| va_form | 10-10EZ (esp)     |
+| va_form | 10-10EZ (pdf)     |
+| va_form | 21P-0510(Spanish) |
+| va_form | 21P-0512s-1       |
+| va_form | 21P-0512V-1       |
+| va_form | FL-10-341a        |
+| va_form | GSA-2580          |
+| va_form | OF 1164           |
+| va_form | OF-306            |
+| va_form | SF 252            |
+| va_form | SF-1094           |
+| va_form | SF144             |
+| va_form | SF52(ES)          |
+| va_form | VA Form 22-8979   |
+| va_form | VA0120            |
+| va_form | VA40-0241         |
+| va_form | VA40-0895-10      |
+| va_form | VA9               |
 
 ### Inconsistent PDF link examples
 
