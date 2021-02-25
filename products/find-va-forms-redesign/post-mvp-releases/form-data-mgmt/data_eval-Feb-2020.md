@@ -838,14 +838,14 @@ Believe URLs are evaluated and flagged in CMS
 ### Inconsistent form name examples
 Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  Of specific concern is the lack of consistency in the use of:
  - Inclusion/exclusion of the department abbreviation in the name (9 vs. VA9)
- -  Hyphens (OF 1164 vs. OF-306)
- - Spaces (VA Form 22-8979)
- - Capital vs. lower-case letters ( 10-0137A vs. FL-10-341a)
+ - Hyphens (OF-306 vs. OF 1164)
+ - Spaces (VA Form 22-8979 vs. VA40-0895-10)
+ - Capital vs. lower-case letters (10-0137A vs. FL-10-341a)
  - Spanish-language indicators (esp vs. Spanish vs. ES)
- - Form names appended with additional numbers that may indicate a version or series (VA40-0895-10)
- - Inclusion/exclusion of _VA_ or _Form_ in the name (VA Form 22-897, VA0120, VA40-0241)
+ - Form names appended with additional numbers, possibly indication a version or series (VA40-0895-10)
+ - Inclusion/exclusion of _VA_ or _Form_ in the name (VA Form 22-897 vs VA0120)
 
-It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.  These variations can also result in multiple versions of the same form being listed under different names (ex - 9 and VA9)
+It is important to note that the name format directly influences our ability to successfully match a user's search term to a form.  Naming inconsistencies can also result in multiple versions of the same form being listed under different names (ex - 9 and VA9)
 
 | type    | Name              |
 |---------|-------------------|
@@ -876,7 +876,50 @@ It is important to note that these names directly impact our ability to successf
 
 ### Inconsistent PDF link examples
 
-Not intended as an exhaustive list, but rather a representation of the signficant variety of PDF names and URL formats observed.  It is important to note that the presence of certain characters (parentheses, ASCII characters) or download/sort parameters in the URL may prevent links from opening in some browsers/PDF viewers.
+Not intended as an exhaustive list, but rather a representation of the variety of PDF names and URL formats observed.  It is important to note that the presence of some characters (parentheses, ASCII characters) or download/sort parameters in the URL may prevent links from opening in some browsers/PDF viewers.  In addition, inconsistencies may result in users encountering errors if they bookmark a form whose name is later renamed using a different convention.   Of particular note:
+
+- Names that appear to contain versioning information (revision, BAK, %20current%20version, corrected, 002, Final, (102014))
+- Inconsistent capitalization of form extention (.pdf vs. .PDF)
+- Inconsistent denotation of fillable PDFs (fill vs. FILL vs. Fill vs. fillable vs. Fillable)
+- Inconsistent denotation of Spanish-language forms (Spanish vs. ES)
+- Links containing parameters (ex: #sortby=1, ?forceDownload=1)
+- Excessive document name length
+
+| type    | Name                 | PDF Link                                                                                                                                                        |
+|---------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| va_form | 16711                | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%2010-5345%20Fill-revision.pdf                                                                                 |
+| va_form | 18537                | https://www.va.gov/vaforms/medical/pdf/vha-2850-fill_BAK.pdf                                                                                                    |
+| va_form | 10-0103              | https://www.va.gov/vaforms/medical/pdf/10-0103-fill.pdf                                                                                                         |
+| va_form | 10-0137              | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0137%20FILL.pdf                                                                                           |
+| va_form | 10-0137A             | https://www.va.gov/vaforms/medical/pdf/10-0137A.pdf                                                                                                             |
+| va_form | 10-0137B             | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf                                                                                         |
+| va_form | 10-0383              | https://www.va.gov/vaforms/medical/pdf/vha-10-0383-fill%20(102014).pdf                                                                                          |
+| va_form | 10-0491E             | https://www.va.gov/vaforms/medical/pdf/vha-10-0491e-fill%20(Evaluation%20and%20Recommendation).pdf                                                              |
+| va_form | 10-0539              | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-0539%20FILL.pdf                                                                                           |
+| va_form | 10-0998              | https://www.va.gov/vaforms/medical/pdf/10-0998%20online%20corrected.pdf                                                                                         |
+| va_form | 10-10143g            | https://www.va.gov/vaforms/medical/pdf/10-10143g_Non-VA_Hospital_Emergency_Notification_Fill.pdf                                                                |
+| va_form | 10-10EC              | https://www.va.gov/vaforms/medical/pdf/10-10EC%20Fill%202017.pdf                                                                                                |
+| va_form | 10-10EZ              | https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf                                                                                                     |
+| va_form | 10-10EZ (esp)        | https://www.va.gov/vaforms/medical/pdf/10-10EZ_Spanish.pdf                                                                                                      |
+| va_form | 10-10EZ (pdf)        | https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf                                                                                                     |
+| va_form | 10-250               | https://www.va.gov/vaforms/medical/pdf/VA%2010-250%20Fillable%20(002).pdf                                                                                       |
+| va_form | 10-252               | https://www.va.gov/vaforms/medical/pdf/10-252%20Authorization%20To%20Release%20Protected%20Health%20Information%20To%20State%20Local%20Public%20Authorities.pdf |
+| va_form | 10-2649B             | https://www.va.gov/vaforms/medical/pdf/10-2649B%20Final.pdf                                                                                                     |
+| va_form | 10-2850A             | https://www.va.gov/vaforms/medical/pdf/vha-10-2850a-091998-fill.pdf                                                                                             |
+| va_form | 21-0960C-1           | https://www.vba.va.gov/pubs/forms/VA%20Form%2021-0960C-1.pdf                                                                                                    |
+| va_form | 21P-0512s-1(Spanish) | https://www.vba.va.gov/pubs/forms/VBA-21P-0512s-1(Spanish)-ARE.pdf                                                                                              |
+| va_form | 26-0785              | https://www.vba.va.gov/pubs/forms/VBA-26-0785-ARE.PDF                                                                                                           |
+| va_form | 26-1859              | https://www.vba.va.gov/pubs/forms/26-1859-HUD92544.pdf                                                                                                          |
+| va_form | GSA-2580             | https://www.gsa.gov/portal/forms/download/114574                                                                                                                |
+| va_form | OF-8                 | https://www.gsa.gov/cdnstatic/OF8-85.pdf?forceDownload=1                                                                                                        |
+| va_form | SF-1094A             | https://www.gsa.gov/forms-library/tax-exemption-accountability-record                                                                                           |
+| va_form | SF-1199a             | https://www.fiscal.treasury.gov/files/forms/form-1199a.pdf                                                                                                      |
+| va_form | SF180                | https://www.archives.gov/veterans/military-service-records/standard-form-180.html                                                                               |
+| va_form | SF2801               | https://www.opm.gov/Forms/pdf_fill/SF2801.pdf                                                                                                                   |
+| va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                             |
+| va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                    |
+| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                |
+
 
 ### Forms with questionable dates
 
