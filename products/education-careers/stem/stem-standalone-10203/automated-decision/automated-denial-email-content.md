@@ -11,8 +11,8 @@ To check your application status, go to https://www.va.gov/claim-or-appeal-statu
 #### Your application details are below:
 { Rogers STEM Scholarship application }
 
-#### Claim ID
-{ claim_id }
+#### Confirmation number
+{ confirmation_number }
 
 #### Date submitted
  { date_submitted }
