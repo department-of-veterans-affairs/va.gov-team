@@ -11,6 +11,7 @@ We ensure that the content and voice of VA.gov is:
 - Clear
 - Accurate
 - Consistent
+- Plain language
 - Compassionate
 - Equitable
 - Authoritative
@@ -26,7 +27,7 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 
 **Content design:** Write, edit, and design content across the VA.gov experience.
 
-**Editorial planning:** Build and manage an editorial calendar for planned content publishing. 
+**Content planning:** Prioritize for planned content publishing. 
 
 **Content standards:** Enforce accuracy, plain language, and content style guide standards. Ensure that the VA.gov voice, style, and tone aligns across the Veteran experience. 
 
