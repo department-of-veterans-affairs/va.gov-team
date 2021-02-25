@@ -747,4 +747,7 @@ Confirmed that these active form records have PDF links that currently return a 
 ### [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
 ### Inconsistent form name examples
 ### Inconsistent PDF link examples
+
+Not an exhaustive list, but meant as a representative sampling of the signficant variety seen in PDF names and URL formats.  The presence of some characters or download/sort parameters may prevent links from opening in some browsers/PDF viewers.
+
 ### Forms with questionable dates
