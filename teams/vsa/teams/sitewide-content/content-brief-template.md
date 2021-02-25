@@ -1,19 +1,19 @@
-VA.gov content brief for [product name]
+# VA.gov content brief for [product name]
 
-Created by the VA.gov sitewide content team for the [Team name] team on [date].
+**Created by the VA.gov sitewide content team for the [Team name] team on [date].**
 
-Questions about this brief? 
+**Questions about this brief?**
 Ask us in our slack channel: #va-sitewide-content
 
-Overview
+## Overview
 
 Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. This brief will help your team create content for your product that aligns with the VA.gov voice and content standards. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. We’ll work with your team to update it as we go.
 
-Established content standards for this product/benefit area
+## Established content standards for this product/benefit area
 
 [list of established terms/phrases/etc]
 
-5 basic content style reminders
+## 5 basic content style reminders
 
 •	Use contractions throughout your content
 •	Keep it brief:
@@ -33,3 +33,8 @@ You can apply online now. If you need help, call us.
 
 Go to the VA.gov content style guide for more
 
+## Word list
+
+## Research findings
+
+## Other notes
