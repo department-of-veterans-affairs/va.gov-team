@@ -1,4 +1,8 @@
 # VOX Changes
+✔ - ready for implementation
+🙋‍♂️ - needs further discussion
+❌ - unable to move forward
+
 ### Page 1
   - Comment 1
   - Comment 2
