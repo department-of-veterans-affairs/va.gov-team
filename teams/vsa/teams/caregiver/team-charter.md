@@ -163,6 +163,10 @@ This is our main means of communication with each other. Keep as much conversati
 #### GitHub
 GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
+#### *New* PTO
+- We will respect time off and understand that mental, physical, and personal health is the top priority for team members
+- Team members will send calendar invites to the rest of team when they have scheduled time off 
+
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
