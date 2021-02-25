@@ -745,14 +745,21 @@ Confirmed that these active form records have PDF links that currently return a 
 
 
 ### [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
+
 ### Inconsistent form name examples
+Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  It is important to note that these names directly impact our ability to successfully match a user's search term to a form in our system.
+
 ### Inconsistent PDF link examples
 
 Not intended as an exhaustive list, but rather a representation of the signficant variety of PDF names and URL formats observed.  It is important to note that the presence of certain characters (parentheses, ASCII characters) or download/sort parameters in the URL may prevent links from opening in some browsers/PDF viewers.
 
 ### Forms with questionable dates
 
-Form dates that warrant further scrutiny due stated age (issue or revision date > 10 years), **and/or** _First Issued On_ date is more recent than _Last Revised On_ date.
+Form dates that warrant further scrutiny due to missing/dubious dates
+
+#### Missing _First Issued On_ date
+
+#### Missing _
 
 
 #### _First Issued On_ date and/or _Last Revised On_ date > 10 years
