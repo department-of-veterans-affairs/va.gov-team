@@ -33,11 +33,11 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 **Content community of practice:** Guide and support content creators across the VA.gov ecosystem. Develop and run training workshops and materials. Hold content support office hours. 
  
 ### Roadmap 
-Create new sitewide content service model to support product teams. 
-Health modernization content 
-Tier 1 content refresh/build out R&S 
-Continued legacy content migration (debt, community care, caregiver) 
-Continued legacy content migration holdover: complete rewrite of life insurance and education hubs 
+- Create new sitewide content service model to support product teams. 
+- Health modernization content 
+- Tier 1 content refresh/build out R&S 
+- Continued legacy content migration (debt, community care, caregiver) 
+- Continued legacy content migration holdover: complete rewrite of life insurance and education hubs 
 
 ### Team members 
 
@@ -45,9 +45,9 @@ Continued legacy content migration holdover: complete rewrite of life insurance 
 Beth Potts and Danielle Thierry 
 
 #### Content team
-Randi Hecht: Lead and content editor 
-Selina Cooper: content writer
-Laura Walsh: content writer 
+- Randi Hecht: Lead and content editor 
+- Selina Cooper: content writer
+- Laura Walsh: content writer 
 
 ### How we work 
 **Slack channel:** va-sitewide-content 
