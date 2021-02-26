@@ -33,8 +33,8 @@ JA:
   - **Comment 4:** I think we should add:  Generally, if you are entitled to both VR&E services and eligible for Education benefits, using VR&E benefits might be more beneficial.  You should speak to a VRC before deciding.  
 JW:🙋‍♂️ Does this add more complexity? How do they get a hold of a VRC and when?  Should that be done before, instead of or after completing this form?  
 JA:   
-  - **Comment 5:** Nothing noted   
-JW:🙋‍♂️   
+  - **Comment 5:** `Nothing noted`   
+JW:🙋‍♂️ Is this intended?   
 JA:    
   - **Comment 6:** Instead of the example (which may not be correct)  state, If you are eligible for VR&E and another VA education benefit, speak with your Vocational Rehabilitation Counselor (VRC) to determine the best fit for you.     
 JW:🙋‍♂️ Same as Comment 4 above - lets get clarity on these   
