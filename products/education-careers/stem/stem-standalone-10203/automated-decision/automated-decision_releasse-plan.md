@@ -12,9 +12,9 @@ That's what this Release Plan Template is for!
 
 ### Planning:
 Moderated testing will occur with Veterans and other eligible beneficiaries. 
-- Desired date range or test duration: 03/02/21-03/12/21
+- Desired date range or test duration: 03/15/21-03/18/21
 - Desired number of users:
-   - Ineligible Veterans: 8 eligible (based on entitlement remaining, program), three of whom have POAs
+   - Ineligible Veterans: 8 ineligible (based on entitlement remaining, program), three of whom have POAs
    - Ineligible Veterans: 2 eligible 
 - How you'll recruit the right production test users: 
   - Veterans: Perigean
@@ -35,19 +35,19 @@ Moderated testing will occur with Veterans and other eligible beneficiaries.
 
 ### Planning - Initial Launch
 
-- Desired date range: 03/16
+- Desired date range: 03/18
 - How will you make the product available in production while limiting the number of users who can find/access it: Feature Flag
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
    - Successful 22-10203 STEM Scholarship Application submissions esp. compared to applications via 22-1995
    - Valid 22-10203 Application submissions, # and %
+   - POAs reported in the spool file
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
-
 
 ### Stage A: Canary
 #### Planning
 
-- Length of time: 2 business days (Started by 03/15 and move to Phase B on 03/17)
-- Percentage of Users (and roughly how many users do you expect this to be): 10% of users out of ~500 = ~50 applications (2 days)
+- Length of time: 1 week (03/18-03/26/21)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% of users (a total of approximately 250 applications are submitted each week)
 
 #### Results:
 - Number of unique users:  XX applicants were routed to the new application (we were seeing low numbers so we switch up our approach in phase B)
@@ -57,13 +57,12 @@ Moderated testing will occur with Veterans and other eligible beneficiaries.
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? None
 
 ### Stage B: moderate
+We anticipate moving from 50% to 100%, skipping a stage b. 
 
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
 #### Planning
-
-- Length of time: 2 days (start 03/18-3/19)
-- Percentage of Users (and roughly how many users do you expect this to be): 30% of users out of ~500 = ~150 applications (2 days)
+- Length of time: 
+- Percentage of Users (and roughly how many users do you expect this to be): 
 
 #### Results:
 - Number of unique users: 
@@ -72,27 +71,11 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Types of errors logged: 
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? 
 
-### Planning - Subsequent launch of SCO email/remaining entitlement
-
-- Desired date range: 03/20/21
-- How will you make the product available in production while limiting the number of users who can find/access it: Feature flag
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: SCOs receive emails; applicants are able to view their entitlement data when 6 months or more are remaining. 
-
-#### Planning
-- Length of time: 2.5-3 weeks (11/10-12/1)
-- Percentage of Users (and roughly how many users do you expect this to be): 50% of the time users will be routed to the new features (1,000 users submit applications each month, so expecting around 335 to be rounted to the new features if the routing works as expected)
-
-#### Results:
-- Number of unique users: 
-- Metrics at this stage (per your "success criteria"): 
-- Was the data submitted (if any) easy for VA to process?: 
-- Types of errors logged: 
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?  
 
 ## Go Live!
 
 ### Planning:
-- Desired date for initial launch: 03/20/2021
+- Desired date for initial launch: 03/26/2021
 - Post-launch KPI 1: 
 - Post-launch KPI 2: 
 - Go / No Go: GO
