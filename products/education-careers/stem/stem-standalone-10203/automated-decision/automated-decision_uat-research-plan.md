@@ -12,8 +12,7 @@
 4. Hypothesis: Applicants are being denied as expected, receiving appropriate email communication upon automatic denial, and able to view their application status on VA.gov
 
 ## Method	
-1.	What method of research are you planning? 	
-  - Remote moderated user acceptance testing with Veterans on Production 	
+1.	What method of research are you planning? Remote moderated user acceptance testing with Veterans on Production 	
 2.	Why this method? We are unable to complete testing on staging due to limitations of EVSS test data located there. With this, the best way to test that the functionality is working as expected is with Veterans on Production through submissions of actual applications. 
 3.	Where are you planning to do your research? Via webconference and screenshare (Zoom)
 4.	What will you be testing? The live 22-10203 application  	
