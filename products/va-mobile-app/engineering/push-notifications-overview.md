@@ -10,17 +10,24 @@
 ## Systems involved
 
 ### Mobile app team
+* generate content for each notification (UX?)
 * define push notifcation templates, deploy to VEText
+* generate certificates
+  * production certificates need to come from the VA App Store account (Apple)
+  * get our app into the VA App Analytics team's Firebase (Google)
+* VA Mobile prod | VA Mobile staging : two "apps" to configure with VEText
 
 ### Mobile app
 * send device registration to API
-* UX to opt-in to push
+* UX to opt-in to push - part of onboarding screens
+* prompt for push permission
 * UX to disable/re-enable push in Settings
+* app handle deep links from notification payload
 
 ### vets-api
 Proxy api calls to VEText
 
-### VEText
+### VEText (API)
 * template create/update/delete
 * device registration
 * get user preferences (on/off for device and push type)
