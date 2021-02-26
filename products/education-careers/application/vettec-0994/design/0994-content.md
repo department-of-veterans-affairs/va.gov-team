@@ -137,7 +137,7 @@ VET TEC is only available to Veterans or service members within 180 days of thei
 
 { If date selected is 180 days or less from current date, display the following message}
 
-We may contact you to verify your release from active duty is expected within 180 days from the date of this application. If we contact you, we may ask for a copy of your DD214 or a certification of your expected release date. You can request that certification from your Military Personnel Office.
+We may contact you to verify that your release from active duty is expected within 180 days from the date of this application. If we contact you, we may ask for a copy of your DD214 or a certification of your expected release date. You can request that certification from your Military Personnel Office.
  
 As with all VA education benefits, an honorable discharge is required to be eligible for VET TEC.
 
