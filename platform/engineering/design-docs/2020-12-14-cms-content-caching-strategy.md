@@ -4,7 +4,7 @@ _Replace the previous line with the the title of your project or component and r
 **Author(s):** Eugene Doan  
 **Last Updated:** December 15, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** Dan Shank \[ \], Demian Ginther \[ \], Michael Fleet \[ \], Dror Matalon \[ \]  
+**Approvers:** Tim Wright \[ \], Demian Ginther \[ \], Michael Fleet \[ \], Dror Matalon \[ \]  
 
 ## Overview
 
