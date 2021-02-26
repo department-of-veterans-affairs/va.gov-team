@@ -22,7 +22,7 @@ JW:✔
 JA:  
 ### Page 3
   - **Comment 1:** `Nothing noted`  
-JW:🙋‍♂️   
+JW:🙋‍♂️ Is this intended?   
 JA:    
   - **Comment 2:** add the word "may"  between "benefits" and "include:"  
 JW:✔  
