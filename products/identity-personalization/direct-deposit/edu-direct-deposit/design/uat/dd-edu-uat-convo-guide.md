@@ -1,17 +1,17 @@
 # Conversation guide for user acceptance testing (UAT) of Direct Deposit for Educational Payments (DD-EDU) feature
-**VSA AuthdExp/eBenefits Teams | February 2021**
+**VSA AuthdExp/eBenefits Teams | March 2021**
 
 `James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
 
 ---
-<!--
+
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
-- Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
-- Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing
-- With participants' permission, these sessions will not be recorded
+- Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/uat/dd-edu-uat-research-plan.md)
+- **Note:** These sessions will not recorded
 
+<!--
 ## Intro
 Good morning/afternoon and thank you for joining us today.
 
