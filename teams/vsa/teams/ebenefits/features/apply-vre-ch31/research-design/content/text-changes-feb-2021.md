@@ -21,7 +21,7 @@ JA:
 JW:✔  
 JA:  
 ### Page 3
-  - **Comment 1:** Nothing noted    
+  - **Comment 1:** `Nothing noted`  
 JW:🙋‍♂️   
 JA:    
   - **Comment 2:** add the word "may"  between "benefits" and "include:"  
