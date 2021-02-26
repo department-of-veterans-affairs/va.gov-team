@@ -24,6 +24,8 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     - [Forms with questionable dates](#Forms-with-questionable-dates)
 
 ## Form Counts
+<details><summary>Show Details</summary>
+     
 With the exception of **Deleted forms**, below values reflect _active_ form records.
 
  - Active records as of 2/24/2021: **573**
@@ -33,8 +35,11 @@ With the exception of **Deleted forms**, below values reflect _active_ form reco
  - Forms with related Forms: **35**
  - Forms with Alert information: ** ** (note - we are currently determining origin of this information)
  - Deleted forms as of 2/24/2021: **13** (note - this is a _logical_ delete in the Lighthouse API - form record is still present, but contains a date value in the _Deleted At_ field.
+ </details>
 
 ## Form VA.gov Feature Matrix
+<details><summary>Show Details</summary>
+
 Active records only
 
 | Type    | Name                 | PDF | Basic Detail Page | Enhanced Detail Page | Online Tool | Related Forms |
@@ -625,8 +630,12 @@ Active records only
 | va_form | 10-0708              | Y   |                   |                      |             |               |
 | va_form | 10-250               | Y   |                   |                      |             |               |
 | va_form | 10-0464a             | Y   |                   |                      |             |               |
+</details>
+
 
 ## Data Issues
+
+<details><summary>Show Details</summary>
 
 ### Invalid PDF links
 Confirmed that these active form records have PDF links that currently return a 404 (Not Found) error.
@@ -725,11 +734,12 @@ Confirmed that these active form records have PDF links that currently return a 
 | va_form | 21-0960Q-1  | https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf                |
 | va_form | 10-0137B    | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf |
 | va_form | 26-6705d    | https://www.vba.va.gov/pubs/forms/VBA-26-6705d-ARE.pdf                  |
-
+</details>
 
 
 ### Problematic PDF links
 
+<details><summary>Show Details</summary>
 These links may work on browsers that are more "forgiving", but not on others due to presence of:
  - ASCII characters -- ex _%20_
  - Special characters -- ex: $ ( ) ? #
@@ -796,9 +806,11 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | SF39                 | https://www.gsa.gov/cdnstatic/SF%2039.pdf?forceDownload=1                                                                                                          |
 | va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                                |
 | va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                       |
-| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                   |
+| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                             </details>
 
 ### PDF URLs missing _.pdf_ file extension
+
+<details><summary>Show Details</summary>
 
 | type    | Name     | PDF Link                                                                          |
 |---------|----------|-----------------------------------------------------------------------------------|
@@ -816,7 +828,11 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | SF-424   | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1               |
 | va_form | SF88     | https://www.gsa.gov/portal/forms/download/116402                                  |
 
+</details>
+
 ### Valid PDF links flagged as invalid
+
+<details><summary>Show Details</summary>
 
 Believe URLs are evaluated and flagged in CMS 
 
@@ -825,7 +841,11 @@ Believe URLs are evaluated and flagged in CMS
 | va_form | 10-10EZ (pdf) | https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf | FALSE     |
 | va_form | VA40-10007    | https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf            | FALSE
 
+</details>
+
 ### Forms with Tool URL but no Tool Intro
+
+<details><summary>Show Details</summary>
 
 | type    | Name    | Url                                                         |
 |---------|---------|-------------------------------------------------------------|
@@ -834,8 +854,13 @@ Believe URLs are evaluated and flagged in CMS
 | va_form | 29-4364 | https://www.vba.va.gov/pubs/forms/VBA-29-4364-ARE.pdf       |
 | va_form | 28-1900 | https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf       |
 
+</details>
+
 
 ### Inconsistent form name examples
+
+<details><summary>Show Details</summary>
+    
 Not intended as an exhaustive list, but rather a representation of the signficant variety of form names observed.  Of specific concern is the lack of consistency in the use of:
  - Inclusion/exclusion of the department abbreviation in the name (9 vs. VA9)
  - Hyphens (OF-306 vs. OF 1164)
@@ -874,7 +899,11 @@ It is important to note that the name format directly influences our ability to 
 | va_form | VA40-0895-10      |
 | va_form | VA9               |
 
+</details>
+
 ### Inconsistent PDF link examples
+
+<details><summary>Show Details</summary>
 
 Not intended as an exhaustive list, but rather a representation of the variety of PDF names and URL formats observed.  It is important to note that the presence of some characters (parentheses, ASCII characters) or download/sort parameters in the URL may prevent links from opening in some browsers/PDF viewers.  In addition, inconsistencies may result in users encountering errors if they bookmark a form whose name is later renamed using a different convention.   Of particular note:
 
@@ -919,13 +948,14 @@ Not intended as an exhaustive list, but rather a representation of the variety o
 | va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                             |
 | va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                    |
 | va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                                                |
-
+</details>
 
 ### Forms with questionable dates
-
 Form dates that warrant further scrutiny due to missing/dubious dates
 
 #### Missing _First Issued On_ date
+
+<details><summary>Show Details</summary>
 
 | type    | Name          |
 |---------|---------------|
@@ -1023,8 +1053,13 @@ Form dates that warrant further scrutiny due to missing/dubious dates
 | va_form | VA4667b       |
 | va_form | VA4670        |
 
+</details>
+
+
 
 #### _First Issued On_ date > 10 years
+
+<details><summary>Show Details</summary>
 
 | type    | Name       | First Issued On |
 |---------|------------|-----------------|
@@ -1143,7 +1178,12 @@ Form dates that warrant further scrutiny due to missing/dubious dates
 | va_form | 20-8800    | 6/4/2010        |
 | va_form | 26-8730    | 8/19/2010       |
 
+</details>
+
+
 #### _Last Revised On_ date > 10 years
+
+<details><summary>Show Details</summary>
 
 | type    | Name         | Last Revised On |
 |---------|--------------|-----------------|
@@ -1294,7 +1334,11 @@ Form dates that warrant further scrutiny due to missing/dubious dates
 | va_form | 10-0474      | 1/17/2011       |
 | va_form | VA10002      | 2/1/2011        |
 
+</details>
+
 #### _Last Revised On_ date occurs **before** _First Issued On_ date
+
+<details><summary>Show Details</summary>
 
 Note: Column **DAYS DIFFERENCE** appended to form data to show days elapsed between issue and last revised dates.  This should be zero or a positive number.
 
@@ -1601,3 +1645,5 @@ Note: Column **DAYS DIFFERENCE** appended to form data to show days elapsed betw
 | va_form | 29-8485a             | 5/18/2018       | 5/17/2018       | -1.00               |
 | va_form | 22-0993              | 7/18/2018       | 7/17/2018       | -1.00               |
 | va_form | 26-8923              | 9/18/2018       | 9/17/2018       | -1.00               |
+
+</details>
