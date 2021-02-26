@@ -99,6 +99,7 @@ Please allow 30 minutes between sessions.
 - Erin.Griffiths1@va.gov
 - Daniel.Stenavich@va.gov
 - Saba.Aklilu@va.gov
+- Sara.Bard@va.gov
 - James.Fleischman@va.gov
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
