@@ -21,13 +21,13 @@ JA:
 JW:✔  
 JA:  
 ### Page 3
-  - Comment 1: Nothing noted   
-JW:🙋‍♂️ 
-JA:  
+  - Comment 1: Nothing noted    
+JW:🙋‍♂️   
+JA:    
   - Comment 2: add the word "may"  between "benefits" and "include:"  
 JW:✔  
 JA:  
-  - Comment 3: These bullets are not appropriate.  We would suggest instead: *Training to prepare for a job, * Professional or vocational counseling and training, *Employment  assistance  
+  - Comment 3: These bullets are not appropriate.  We would suggest instead: *Training to prepare for a job, * Professional or vocational counseling and training, *Employment  assistance   
 JW:✔  
 JA:  
   - Comment 4: I think we should add:  Generally, if you are entitled to both VR&E services and eligible for Education benefits, using VR&E benefits might be more beneficial.  You should speak to a VRC before deciding.  
@@ -58,9 +58,9 @@ JA:
   - Comment 5: rewrite these bullets under completion to state: *You found and kept a suitable job *You are able to live more independently  
 JW:✔   
 JA:  
-  - Comment 6: delete the meet monthly bullet
-JW:✔   
-JA:  
+  - Comment 6: delete the meet monthly bullet  
+JW:✔    
+JA:    
 ### Page 5
 `No comments`
 ### Page 6
