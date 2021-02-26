@@ -32,6 +32,7 @@ With the exception of **Deleted forms**, below values reflect _active_ form reco
  - Active records as of 2/24/2021: **573**
  - Forms with any type of Detail Page: **446** (as determined by the presence of a value in the **Details URL** field)
  - Forms with custom detail page: **43** (as determined by the presence of a value in **Form Usage** field)
+ - Forms with basic detail page: **423** (total detail pages minus custom detail pages)
  - Forms with Online Tools: **29** (as determined by the presence of a value in the **Tool URL** field)
  - Forms with related Forms: **35**
  - Forms with Alert information: ** ** (note - we are currently determining origin of this information)
@@ -666,11 +667,24 @@ Active records only
 | va_form | 10182   | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/17/2019 |
 | va_form | VA10182 | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/11/2019 |
 |  |   |  |       |       |
-
+| va_form | 22-8979         | https://www.vba.va.gov/pubs/forms/VBA-22-8979-ARE.pdf | 10/26/2020 | 2/17/2020 |
+| va_form | VA Form 22-8979 | https://www.vba.va.gov/pubs/forms/VBA-22-8979-ARE.pdf | 10/19/2020 | 2/21/2020 |
 |  |   |  |       |       |
-
+| va_form | 10091   | https://www.va.gov/vaforms/va/pdf/VA10091.pdf | 2/1/2021 | 9/17/2017 |
+| va_form | VA10091 | https://www.va.gov/vaforms/va/pdf/VA10091.pdf | 9/6/2017 | 9/11/2017 |
 |  |   |  |       |       |
-
+| va_form | 10182   | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/17/2019 |
+| va_form | VA10182 | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/11/2019 |
+|  |   |  |       |       |
+| va_form | 3288   | https://www.va.gov/vaforms/va/pdf/VA3288.pdf | 5/12/2014 | 10/17/1995 |
+| va_form | VA3288 | https://www.va.gov/vaforms/va/pdf/VA3288.pdf | 5/12/2014 | 10/11/1995 |
+|  |   |  |       |       |
+| va_form | 40-10007   | https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf | 5/12/2020 | 5/17/2020 |
+| va_form | VA40-10007 | https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf |           | 5/1/2020  |
+|  |   |  |       |       |
+| va_form | 5655      | https://www.va.gov/vaforms/va/pdf/VA5655.pdf      | 3/19/2014 | 6/17/2009 |
+| va_form | 5655blank | https://www.va.gov/vaforms/va/pdf/VA5655blank.pdf | 7/18/2014 | 6/17/2009 |
+| va_form | VA5655    | https://www.va.gov/vaforms/va/pdf/VA5655.pdf      | 3/19/2014 | 6/11/2009 |
 |  |   |  |       |       |
 
 |  |   |  |       |       |
