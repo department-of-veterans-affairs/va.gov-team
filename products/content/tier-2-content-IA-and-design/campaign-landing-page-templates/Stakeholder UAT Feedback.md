@@ -49,3 +49,13 @@ Can we be doing more in the CMS UI to explain the intent of only allowing one CT
 - ^ I always thought that those annual campaigns could just stay out there, and each year, the business updates it with fresh content, new images, new videos, new UTM analytics code. So maybe the page stays out there, but they go through a new collab cycle with the launch of the new 2022 version of contents…?
 It’s the one-off’s that probably need retiring/redirecting strategy.
 
+## Key Takeaways:
+
+### John Hashimoto: 
+- My biggest :worried_animated:’s coming out of yesterday’s session:
+When one of Sandy’s team-members mentioned a new CLP every few weeks.   That is NOT what I heard from Sandy and Jenny H-L when I asked originally.  My feeling about this product is it should only be used for major marketing initiatives — not every little thing a (sometimes obscure) program office wants to announce.   So, will have to manage/safeguard against that.
+- Lack of flexibility in the template/content model (we expected some of this), such as: Audience Type (maybe there should be an option to leave that off); inability to re-order panels.
+- Collab review process: there was some hesitancy about the notion that we (VA.gov) must review every CLP before it goes live.
+Didn’t come up, but I’m still a concerned about the URL — right now, we specify per CLP.  Jen insists we should just draw from the H1 (I think this is problematic).  Let’s discuss.
+- Smaller thing: lack of clarity about the difference between some panels — Spotlight and Stories.  To me, it’s just a way to add more content in different formats, which is just fine.
+
