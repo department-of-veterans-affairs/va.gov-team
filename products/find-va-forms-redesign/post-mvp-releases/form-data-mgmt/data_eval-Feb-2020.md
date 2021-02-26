@@ -14,6 +14,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
 
     
 -  [Data Issues](#data-issues)
+    - [Forms that appear to have duplicate records](#Forms-that-appear-to-have-duplicate-records)
     - [Invalid PDF links](#invalid-pdf-links)
     - [Problematic PDF links](#Problematic-PDF-links) (note - these links may work on browsers that are more "forgiving", but not on others)
     - [PDF URLs missing .pdf file extension](#PDF-URLs-missing-pdf-file-extension)
@@ -39,6 +40,13 @@ With the exception of **Deleted forms**, below values reflect _active_ form reco
 
 ## Form VA.gov Feature Matrix
 <details><summary>Show Details</summary>
+- Forms with PDF value of Y but no detail page, enhanced detail page or online tool should appear in search results with a link to the PDF
+- Forms with Basic Detail Page value of Y but not enhanced detail page) should:
+    - Appear in search results with link to basic detail page, last updated date, related to (if known), link to PDF, link to online tool (if exists)
+    - Link to a basic detail page (does not contain any "when to use this form" info)
+- Forms with Enhanced Detail page value of Y:
+    - Appear in search results with link to the PDF, related to (if known), link to online tool (if exists)
+    - link to enhanced detail page (contains "when to use this form" info)
 
 Active records only
 
@@ -636,9 +644,17 @@ Active records only
 
 ## Data Issues
 
+### Forms that appear to have duplicate records
+
 <details><summary>Show Details</summary>
+<!-- table goes here -->    
+    
+</details>
 
 ### Invalid PDF links
+
+<details><summary>Show Details</summary>
+    
 Confirmed that these active form records have PDF links that currently return a 404 (Not Found) error.
 
 | type    | Name        | Url                                                                     |
