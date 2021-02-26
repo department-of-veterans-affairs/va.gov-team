@@ -197,3 +197,15 @@ There are 8 Veterans featured in the campaign.
 ### Instagram post images
 
 - [Sumita Muralidhar](assets/png/IG-SumitraMuralidhar.png)
+
+## Zoom backgrounds
+
+### Photo
+- [Photo, light blue](assets/png/zoom-bg-mvp-photo-light.png)
+- [Photo, dark blue, logo 75% opacity](assets/png/zoom-bg-mvp-photo-75.png)
+- [Photo, dark blue, logo 100% opacity](assets/png/zoom-bg-mvp-photo-100.png)
+
+### Strands
+- [Strands, light blue](assets/png/zoom-bg-mvp-strands-light.png)
+- [Strands, dark blue, logo 75% opacity](assets/png/zoom-bg-mvp-strands-75.png)
+- [Strands, dark blue, logo 100% opacity](assets/png/zoom-bg-mvp-strands-100.png)
