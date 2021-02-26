@@ -76,17 +76,6 @@ Below you can find links to research conducted by VSP. If you've done research, 
 <br>
 
 
-#### Designer User Journey Workshops
-
-*Service Design: Naomi Marcussen, Andrea Chappelear, James Chasia*
-
-Q4 2020
-
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/vfs-user-journey)
-
-
-<br>
-
 ### Completed Research
 
 #### Platform Documentation Research
@@ -96,6 +85,16 @@ Q4 2020
 Q4 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/v2/research-artifacts.md)
+
+
+#### Designer User Journey Workshops
+<br>
+
+*Service Design: Naomi Marcussen, Andrea Chappelear, James Chasia*
+
+Q4 2020
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/vfs-user-journey)
 
 
 <br>
