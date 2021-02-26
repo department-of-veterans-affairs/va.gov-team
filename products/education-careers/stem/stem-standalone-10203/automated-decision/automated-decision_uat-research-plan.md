@@ -132,7 +132,6 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- 
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/automated-decision/automated-decision_uat-convo-guide_eligible.md
 - https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/education-careers/stem/stem-standalone-10203/SCO%20&%20Entitlement%20UAT/conversation-guide_ineligible.md
