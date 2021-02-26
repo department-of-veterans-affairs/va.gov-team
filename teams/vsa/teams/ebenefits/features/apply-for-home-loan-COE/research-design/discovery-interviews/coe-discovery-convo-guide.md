@@ -13,7 +13,7 @@
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the VA Certificate of Eligibility -- or COE -- required for VA Direct and VA-back loans.
+Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the VA Certificate of Eligibility -- or COE -- required for VA Home Loans and VA Native American Direct Loans.
 
 There are a few things I need to mention before we start:
 - The session should take about 30 minutes. But you can end it at any point -- just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
