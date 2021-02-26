@@ -86,6 +86,7 @@ Q4 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/v2/research-artifacts.md)
 
+<br>
 
 #### Designer User Journey Workshops
 <br>
