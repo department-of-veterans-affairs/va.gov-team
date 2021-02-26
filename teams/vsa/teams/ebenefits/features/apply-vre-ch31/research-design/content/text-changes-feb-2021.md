@@ -1,8 +1,8 @@
 # VOX Changes
-📄- Pdf found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/content/CH31_Orientation_Concept_W2B.%20a%20vre%2002192021.pdf)
-✔ - ready for implementation  
-🙋‍♂️ - needs further discussion  
-❌ - unable to move forward  
+📄- Pdf found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/content/CH31_Orientation_Concept_W2B.%20a%20vre%2002192021.pdf)  
+✔ - ready for implementation   
+🙋‍♂️ - needs further discussion   
+❌ - unable to move forward   
 
 ### Page 1
   - **Comment 1:** at end of first sentence "to obtain suitable employment or to live independently."  
