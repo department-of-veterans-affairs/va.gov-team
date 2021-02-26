@@ -1,5 +1,39 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 2-26-21
+
+### Topics to Discuss
+* Content release release timeline
+* Continue scalability discussions from last week 
+
+### Notes
+* Content release release timeline 
+   * VSP is ready to move to daily content release any time - this is good to go
+   * Increased frequency beyond that should be messaged to content editors
+      * Communication w/ content editors managed by CMS team - let's use this as messaging a win & testing our comms strategy with content editors 
+   * Q: How do we communicate with content editors? Dlist? A: Yes
+   * Dave: do we primarily need to message this to Pittsburgh? What about campaign landing pages? John: no concerns here, there aren't a host of other editors using the CMS on our end.
+   * Expectation needs to be set with content editors that once you save, your content could go live 
+
+* CMS team is continuing to build out tests and benchmarks to prove out the node count timeline more 
+   * Oksana: we've gotten node counts re: VAMCs but not from Public Websites. Not sure if the latter would be significant enough to change the timeline estimates. 
+   * John & Brian - clarified, we added the PW node estimates to the google sheet. Main concern/area to monitor would be Resources & Support 
+   * John: Translation is something to keep an eye on 
+   * Dave: What form translation will take is a really big Q 
+   * Oksana: CMS Core App team should be extensively invovled in solutions around translation
+
+* Should the frequency of these meetings change? 
+   * Move to biweekly until end of quarter to stay in sync through quarterly planning
+   * Expect to drop these meetings in Q2 and connect as needed moving forward
+
+### Action Items 
+* Megan & Oksana connect re: messaging to content editors 
+   * What is VSP's conservative estimate for increasing frequency of auto-deploys? 
+   * Does 3x/day mean 3x content only release, or 2x content only release? 
+* VAMC & PW teams keep node count estimates up to date as they refine info (collab. w/ Oksana & Mike on these numbers)
+* Megan cancel meeting series and update to biweekly
+   
+
 ## 2-19-21
 
 ### Topics to Discuss 
