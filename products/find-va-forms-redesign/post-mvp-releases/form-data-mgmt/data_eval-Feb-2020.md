@@ -19,7 +19,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     - [Problematic PDF links](#Problematic-PDF-links) (note - these links may work on browsers that are more "forgiving", but not on others)
     - [PDF URLs missing .pdf file extension](#PDF-URLs-missing-pdf-file-extension)
     - [Valid PDF links flagged as invalid](#Valid-PDF-links-flagged-as-invalid)
-    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)
+    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)  :star: Can be updated in the CMS
     - [Inconsistent form name examples](#Inconsistent-form-name-examples)
     - [Inconsistent PDF link examples](#Inconsistent-PDF-link-examples)
     - [Forms with questionable dates](#Forms-with-questionable-dates)
@@ -54,50 +54,50 @@ Active records only
 
 | Type    | Name                 | PDF | Basic Detail Page | Enhanced Detail Page | Online Tool | Related Forms |
 |---------|----------------------|-----|-------------------|----------------------|-------------|---------------|
-| va_form | 21-0781              | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 21-0781a             | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 10-10EZ (esp)        | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 21-686c              | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 21P-527EZ            | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 10-10EZ              | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 10-10CG              | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 22-1990              | Y   | Y                 | Y                    | Y           | Y             |
-| va_form | 15615                | Y   | Y                 | Y                    | Y           |               |
-| va_form | 21-4138              | Y   | Y                 | Y                    | Y           |               |
-| va_form | 21-674               | Y   | Y                 | Y                    | Y           |               |
-| va_form | 22-5490              | Y   | Y                 | Y                    | Y           |               |
-| va_form | 21-526EZ             | Y   | Y                 | Y                    | Y           |               |
-| va_form | 26-1880              | Y   | Y                 | Y                    | Y           |               |
-| va_form | 40-10007             | Y   | Y                 | Y                    | Y           |               |
-| va_form | 22-1995              | Y   | Y                 | Y                    | Y           |               |
-| va_form | 22-5495              | Y   | Y                 | Y                    | Y           |               |
-| va_form | 22-1990e             | Y   | Y                 | Y                    | Y           |               |
-| va_form | 22-1990n             | Y   | Y                 | Y                    | Y           |               |
-| va_form | 21P-530EZ            | Y   | Y                 | Y                    | Y           |               |
-| va_form | 10-10d               | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21-2680              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21P-0969             | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21P-527              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21P-534              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21P-534EZ            | Y   | Y                 | Y                    |             | Y             |
-| va_form | 20-0998              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21-22                | Y   | Y                 | Y                    |             | Y             |
-| va_form | 10-0137A             | Y   | Y                 | Y                    |             | Y             |
-| va_form | 10-0137              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21-0779              | Y   | Y                 | Y                    |             | Y             |
-| va_form | 10-7959C             | Y   | Y                 | Y                    |             | Y             |
-| va_form | 21P-509              | Y   | Y                 | Y                    |             |               |
-| va_form | 21-4142              | Y   | Y                 | Y                    |             |               |
-| va_form | 21-0966              | Y   | Y                 | Y                    |             |               |
-| va_form | 20-0995              | Y   | Y                 | Y                    |             |               |
-| va_form | 21-22a               | Y   | Y                 | Y                    |             |               |
-| va_form | 10-10EZR             | Y   | Y                 | Y                    |             |               |
-| va_form | 21-0845              | Y   | Y                 | Y                    |             |               |
-| va_form | 10-0137 (espanol)    | Y   | Y                 | Y                    |             |               |
-| va_form | 16711                | Y   | Y                 | Y                    |             |               |
-| va_form | 10-2850C             | Y   | Y                 | Y                    |             |               |
-| va_form | 10-10143g            | Y   | Y                 | Y                    |             |               |
-| va_form | 20-10207             | Y   | Y                 | Y                    |             |               |
+| va_form | 21-0781              | Y   |                  | Y                    | Y           | Y             |
+| va_form | 21-0781a             | Y   |                  | Y                    | Y           | Y             |
+| va_form | 10-10EZ (esp)        | Y   |                  | Y                    | Y           | Y             |
+| va_form | 21-686c              | Y   |                  | Y                    | Y           | Y             |
+| va_form | 21P-527EZ            | Y   |                  | Y                    | Y           | Y             |
+| va_form | 10-10EZ              | Y   |                  | Y                    | Y           | Y             |
+| va_form | 10-10CG              | Y   |                  | Y                    | Y           | Y             |
+| va_form | 22-1990              | Y   |                  | Y                    | Y           | Y             |
+| va_form | 15615                | Y   |                  | Y                    | Y           |               |
+| va_form | 21-4138              | Y   |                  | Y                    | Y           |               |
+| va_form | 21-674               | Y   |                  | Y                    | Y           |               |
+| va_form | 22-5490              | Y   |                  | Y                    | Y           |               |
+| va_form | 21-526EZ             | Y   |                  | Y                    | Y           |               |
+| va_form | 26-1880              | Y   |                  | Y                    | Y           |               |
+| va_form | 40-10007             | Y   |                  | Y                    | Y           |               |
+| va_form | 22-1995              | Y   |                 | Y                    | Y           |               |
+| va_form | 22-5495              | Y   |                  | Y                    | Y           |               |
+| va_form | 22-1990e             | Y   |                  | Y                    | Y           |               |
+| va_form | 22-1990n             | Y   |                  | Y                    | Y           |               |
+| va_form | 21P-530EZ            | Y   |                  | Y                    | Y           |               |
+| va_form | 10-10d               | Y   |                  | Y                    |             | Y             |
+| va_form | 21-2680              | Y   |                  | Y                    |             | Y             |
+| va_form | 21P-0969             | Y   |                  | Y                    |             | Y             |
+| va_form | 21P-527              | Y   |                  | Y                    |             | Y             |
+| va_form | 21P-534              | Y   |                  | Y                    |             | Y             |
+| va_form | 21P-534EZ            | Y   |                  | Y                    |             | Y             |
+| va_form | 20-0998              | Y   |                  | Y                    |             | Y             |
+| va_form | 21-22                | Y   |                  | Y                    |             | Y             |
+| va_form | 10-0137A             | Y   |                  | Y                    |             | Y             |
+| va_form | 10-0137              | Y   |                  | Y                    |             | Y             |
+| va_form | 21-0779              | Y   |                  | Y                    |             | Y             |
+| va_form | 10-7959C             | Y   |                  | Y                    |             | Y             |
+| va_form | 21P-509              | Y   |                  | Y                    |             |               |
+| va_form | 21-4142              | Y   |                  | Y                    |             |               |
+| va_form | 21-0966              | Y   |                  | Y                    |             |               |
+| va_form | 20-0995              | Y   |                  | Y                    |             |               |
+| va_form | 21-22a               | Y   |                  | Y                    |             |               |
+| va_form | 10-10EZR             | Y   |                  | Y                    |             |               |
+| va_form | 21-0845              | Y   |                  | Y                    |             |               |
+| va_form | 10-0137 (espanol)    | Y   |                  | Y                    |             |               |
+| va_form | 16711                | Y   |                  | Y                    |             |               |
+| va_form | 10-2850C             | Y   |                  | Y                    |             |               |
+| va_form | 10-10143g            | Y   |                 | Y                    |             |               |
+| va_form | 20-10207             | Y   |                  | Y                    |             |               |
 | va_form | VA2346a              | Y   | Y                 |                      | Y           | Y             |
 | va_form | 21P-530              | Y   | Y                 |                      | Y           | Y             |
 | va_form | 29-336               | Y   | Y                 |                      | Y           | Y             |
@@ -903,7 +903,7 @@ Believe URLs are evaluated and flagged in CMS
 
 </details>
 
-### Forms with Tool URL but no Tool Intro
+### Forms with Tool URL but no Tool Intro :star: Can be updated in the CMS
 
 <details><summary>Show Details</summary>
 
