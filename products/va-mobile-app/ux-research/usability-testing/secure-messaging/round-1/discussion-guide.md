@@ -60,7 +60,6 @@ Before we start, a few things I want to mention:
     - What do you like about it?
     - Are there things you don’t like about it?
     - Is there anything you would change about it?
-    - Do you know about how often you reach out?
 - How do you typically reach out to health providers - VA or others?
     - Why do you choose that method?
     - What do you like about it?
