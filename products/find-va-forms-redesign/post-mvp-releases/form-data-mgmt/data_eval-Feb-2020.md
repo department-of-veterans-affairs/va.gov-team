@@ -630,6 +630,7 @@ Active records only
 | va_form | 10-0708              | Y   |                   |                      |             |               |
 | va_form | 10-250               | Y   |                   |                      |             |               |
 | va_form | 10-0464a             | Y   |                   |                      |             |               |
+
 </details>
 
 
@@ -734,6 +735,7 @@ Confirmed that these active form records have PDF links that currently return a 
 | va_form | 21-0960Q-1  | https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf                |
 | va_form | 10-0137B    | https://www.va.gov/vaforms/medical/pdf/10-0137B%20current%20version.pdf |
 | va_form | 26-6705d    | https://www.vba.va.gov/pubs/forms/VBA-26-6705d-ARE.pdf                  |
+
 </details>
 
 
@@ -806,7 +808,9 @@ These links may work on browsers that are more "forgiving", but not on others du
 | va_form | SF39                 | https://www.gsa.gov/cdnstatic/SF%2039.pdf?forceDownload=1                                                                                                          |
 | va_form | SF-424               | https://www.grants.gov/web/grants/forms/sf-424-family.html#sortby=1                                                                                                |
 | va_form | VA2346b              | https://www.va.gov/vaforms/va/pdf/VA2346b%20(electronic).pdf                                                                                                       |
-| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf                                                                                             </details>
+| va_form | VA4637               | https://www.va.gov/vaforms/va/pdf/VA4637(ES).pdf         
+
+</details>
 
 ### PDF URLs missing _.pdf_ file extension
 
@@ -1054,8 +1058,6 @@ Form dates that warrant further scrutiny due to missing/dubious dates
 | va_form | VA4670        |
 
 </details>
-
-
 
 #### _First Issued On_ date > 10 years
 
