@@ -108,7 +108,7 @@ Please list the people who will be serving in each role. Include the primary pho
 - Research guide writing and task development: Jen Ecker and Bridget Hapner
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ashley Matthews (419-203-5629)
-- Participant(s) for pilot test: Team member from VA mobile app
+- Participant(s) for pilot test: TBD
 - Note-takers (1 per session): Ashley Matthews, Bridget Hapner, Ambika Roos
 - Observers: 
 	- Alex Taylor ([alex@adhocteam.us](alex@adhocteam.us))
