@@ -198,6 +198,9 @@ There are 8 Veterans featured in the campaign.
 
 - [Sumita Muralidhar](assets/png/IG-SumitraMuralidhar.png)
 
+### MVP website article image 
+- [Three women Veterans](assets/png/MVP-article-image.png)
+
 ## Zoom backgrounds
 
 ### Photo
