@@ -32,6 +32,7 @@
  
 ### Campaign landing page MVP 1.0
 - CLP Refinement Punch List - Stakeholder Review #20338 [Place Holder Ticket]
+- Review [Stakeholder Feedback Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Stakeholder%20UAT%20Feedback.md)
 - Meeting with Platform team to discuss mini-collab cycle (Discuss flow)
 - QA Testing in progress - Use Cases Updated 
 - Impressions from Stakeholder Review Session (Yesterday)
