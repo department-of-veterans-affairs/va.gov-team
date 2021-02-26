@@ -56,42 +56,37 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: Apply for STEM Scholarship - 5 minutes
+### Second Task: Start & Complete the application
+1.	On the application introduction screen, confirm that NO variation of the following alert appears at the top of the application (eligible participants should NOT see this message):
+"You may not be eligible....Months you have left to use: XX months, XX days" (seen here: https://bahdigital.invisionapp.com/share/JHIAE4UVKA4#/screens/296040759)
+2. The applicant should scroll to the bottom of the screen and click the button to begin their application.
+3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. 
 
-- Step 1
-- Step 2
+#### Things to watch for:
+1. Pages to review "entitlement" information: Introduction screen, Chapter 3
+2. Confirm that the following page does NOT appear: "Program Details: Rogers STEM Scholarship eligibility summary" (Chapter 3) where remaining entitlement is displayed in the "Your remaining education benefits" alert.
+3. On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to use direct deposit"
 
-### Things to watch for:
+### Third Task: Review & Submit Application
+1.	On the Application Review screen, have the applicant expand each accordion to ensure that the content matches their entries. You may want them to update their responses on this screen to see that all updates occur as expected. 
+2.	When the applicant has confirmed everything is as expected, ask them to submit their application
+3.	Capture their confirmation number so that it can be passed along to Education Services for review.
+4. Have them stop sharing their screen and check their email to see if they received confirmation of their submission. 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+#### Things to watch for:
+- Does the user see the eligibility alerts? 
+- Does prefill data populate correctly? 
+- Does the form data populate “Review application” correctly?  
+- Does the form submit? If not, be sure to capture any errors. If yes, be sure to capture the confirmation number
 
-## Third Task: Check Email & Review Application Status - 10 minutes
+### Post-Task Interview - X minutes
+- How did you think that went?
+- Was there anything that was unclear as you were filling in the application? 
+- What would you expect would happen next? 
+- Any questions for me?
 
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+### Thank-You and Closing - X minutes
+We really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
 
 ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
 
