@@ -40,6 +40,7 @@ With the exception of **Deleted forms**, below values reflect _active_ form reco
 
 ## Form VA.gov Feature Matrix
 <details><summary>Show Details</summary>
+    
 - Forms with PDF value of Y but no detail page, enhanced detail page or online tool should appear in search results with a link to the PDF
 - Forms with Basic Detail Page value of Y but not enhanced detail page) should:
     - Appear in search results with link to basic detail page, last updated date, related to (if known), link to PDF, link to online tool (if exists)
