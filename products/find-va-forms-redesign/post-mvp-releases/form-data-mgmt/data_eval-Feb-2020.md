@@ -648,7 +648,12 @@ Active records only
 ### Forms that appear to have duplicate records
 
 <details><summary>Show Details</summary>
-<!-- table goes here -->    
+    
+| type    | Name | PDF Link                                  | First Issued On | Last Revised On |
+|---------|------|-------------------------------------------|-----------------|-----------------|
+| va_form | 9    | https://www.va.gov/vaforms/va/pdf/VA9.pdf | 2/20/2019       | 2/17/2019       |
+| va_form | VA9  | https://www.va.gov/vaforms/va/pdf/VA9.pdf | 2/20/2019       | 2/11/2019       |
+|  |   |  |       |       |
     
 </details>
 
