@@ -9,7 +9,7 @@
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing
-- With participants' permission, these sessions will not be recorded
+- With participants' permission, these sessions will be recorded
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
 
 ## Intro
