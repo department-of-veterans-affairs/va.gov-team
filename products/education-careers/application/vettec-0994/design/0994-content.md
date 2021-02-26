@@ -125,7 +125,7 @@ Are you on full-time duty in the Armed Forces? (This doesn't include active-duty
 
 { if yes, display conditional question }
 
-Enter the date you expect to be released from active duty.  Estimates are ok.  (*Required )
+Enter the date you expect to be released from active duty. (*Required )
 { date picker component: https://design.va.gov/storybook/?path=/docs/components-date--default }
  * Month
  * Day
@@ -137,13 +137,13 @@ VET TEC is only available to Veterans or service members within 180 days of thei
 
 { If date selected is 180 days or less from current date, display the following message}
 
-We may contact you to verify your release from active duty is expected within 180 days from the date of this application. 
+We may contact you to verify your release from active duty is expected within 180 days from the date of this application. If we contact you, we may ask for a copy of your DD214 or a certification of your expected release date. You can request that certification from your Military Personnel Office.
+ 
+As with all VA education benefits, an honorable discharge is required to be eligible for VET TEC.
 
-If you don’t have your DD-214 yet, you can request a certification through your Military Personnel Office that you expect to be discharged/released from active duty service in the Armed Forces no later than 180 days after the date this application was submitted. 
-
-An honorable discharge is required to be eligible for VET TEC.
 
 { end: if yes }
+
 { if no (Are you on full-time duty in the Armed Forces?) display the following question and note }
 
 Do you expect to be called to active duty while enrolled in a VET TEC program?
