@@ -654,7 +654,27 @@ Active records only
 | va_form | 9    | https://www.va.gov/vaforms/va/pdf/VA9.pdf | 2/20/2019       | 2/17/2019       |
 | va_form | VA9  | https://www.va.gov/vaforms/va/pdf/VA9.pdf | 2/20/2019       | 2/11/2019       |
 |  |   |  |       |       |
-    
+| va_form | 3288   | https://www.va.gov/vaforms/va/pdf/VA3288.pdf | 5/12/2014       | 10/17/1995      |
+| va_form | VA3288 | https://www.va.gov/vaforms/va/pdf/VA3288.pdf | 5/12/2014       | 10/11/1995      |
+|  |   |  |       |       |
+| va_form | 5655blank | https://www.va.gov/vaforms/va/pdf/VA5655blank.pdf | 7/18/2014 | 6/17/2009 |
+| va_form | VA5655    | https://www.va.gov/vaforms/va/pdf/VA5655.pdf      | 3/19/2014 | 6/11/2009 |
+|  |   |  |       |       |
+| va_form | 10091   | https://www.va.gov/vaforms/va/pdf/VA10091.pdf | 2/1/2021 | 9/17/2017 |
+| va_form | VA10091 | https://www.va.gov/vaforms/va/pdf/VA10091.pdf | 9/6/2017 | 9/11/2017 |
+|  |   |  |       |       |
+| va_form | 10182   | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/17/2019 |
+| va_form | VA10182 | https://www.va.gov/vaforms/va/pdf/VA10182.pdf | 2/20/2019 | 2/11/2019 |
+|  |   |  |       |       |
+
+|  |   |  |       |       |
+
+|  |   |  |       |       |
+
+|  |   |  |       |       |
+
+|  |   |  |       |       |
+
 </details>
 
 ### Invalid PDF links
