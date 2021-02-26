@@ -1,5 +1,20 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
+### 2/26 Email Exchange
+
+**Typeahead Cleanup Schedule:**
+- We'll go ahead and schedule the work this upcoming sprint for the initial sample you've sent (to be completed by end of next week, 3/5)
+- Would we be able to consolidate the implementation of Round 2 and Round 3, delivering those deletions by April 16?
+- Round 4 looks good - do you have a sense of how many these will be? If there are a handful (10-20) that you want to seed ahead of the full list, we can definitely handle those manually.
+
+**Spell Correction Feature**
+- My apologies for sending a Bing example previously. A hybrid approach isn't possible, but here's an example of an implementation on a Search.gov powered index - https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=ready&sort_by=&query=goverment. 
+- Dawn and I will definitely add your feedback to our spell correction customer requests - appreciate you flagging these examples to our team.
+
+**Removing State References**
+- We've put these state name and abbreviation filters in this morning, so you should see those suggestions removed shortly
+- Correct, we did not add "va" to these filters as well as some other state abbreviations that have common overlap so that those suggestions are preserved.
+
 ### 2/12 Email Exchange
 
 - Email invite sent to John and Sam for this Friday to talk about routed queries -- and any open items related to Type Ahead.
