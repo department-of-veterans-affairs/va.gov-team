@@ -14,6 +14,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 
 - [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 
+### 2021 Roadmaps (as of 2/26/2021)
+
+<img width="669" alt="Screen Shot 2021-02-26 at 11 23 37 AM" src="https://user-images.githubusercontent.com/63107147/109327088-ef5e7480-7825-11eb-9d5e-e86335eaf53e.png">
+
+
 ### VA Business Stakeholders
 
 Strategy Leads:
@@ -41,7 +46,6 @@ Product-specific SMEs:
 
 - Search
   - Kevin Reid (he managed the original VA search)
-
 
 ### Our Product Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
