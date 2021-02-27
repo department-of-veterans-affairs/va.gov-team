@@ -18,7 +18,7 @@ Our previous pattern was:
 We've started to move toward a slightly different pattern:
 - Primary SEO keyword in intro, but not necessarily in first few words if it causes us to have to lengthen the intro. Our primary goal has shifted from SEO to getting people into the tools and this minor shift shouldn't have a big impact on SEO. 
 - For non-tool pages, end with a CTA of "Keep reading to..." We're shifting this to make it slightly more clear that the information is on this page (vs. a more teaser-like tone of "Find out...").
-- For tool pages, can consider a 1-line intro that speaks to what the user will do, as we do on our more recent tool landing pages. 
+- For tool pages, can consider a 1-line intro that speaks to what the user will do, as we do on our more recent tool landing pages.
 
 ### How can [this tool] help me [do task]?
 
