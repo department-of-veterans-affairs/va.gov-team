@@ -20,6 +20,10 @@ We've started to move toward a slightly different pattern:
 - For non-tool pages, end with a CTA of "Keep reading to..." We're shifting this to make it slightly more clear that the information is on this page (vs. a more teaser-like tone of "Find out...").
 - For tool pages, can consider a 1-line intro that speaks to what the user will do, as we do on our more recent tool landing pages. 
 
+### How can [this tool] help me [do task]?
+
+The original goal of tool landing pages was primarily SEO and targeted at newer users of the tool. We're shifting toward the goal of getting people into the tool faster. Therefore we don't need to surface this question high up on the page, and can instead include it in accordions.
+
 ### Am I eligible to use this tool?
  
 Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
