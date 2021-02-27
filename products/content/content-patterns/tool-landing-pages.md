@@ -22,7 +22,7 @@ We've started to move toward a slightly different pattern:
 
 ### How can [this tool] help me [do task]?
 
-The original goal of tool landing pages was primarily SEO and targeted at newer users of the tool. We're shifting toward the goal of getting people into the tool faster. Therefore we don't need to surface this question high up on the page, and can instead include it in accordions.
+The original goal of tool landing pages was primarily SEO and targeted at newer users of the tool. We're shifting toward the goal of getting people into the tool faster. Therefore we don't need to surface this question high up on the page. We can instead either include it beneath the "can I use this tool" info or within accordions.
 
 ### Am I eligible to use this tool?
  
@@ -31,7 +31,8 @@ Previously, we did a sweep through content to make "eligible" a consistent word 
 Consider:
 - Can I use this tool?
 - Can I [do this task] online?
-- What you'll need to [do this task] online _Note: In some cases, might need to be specific (i.e., "on eBenefits") for now.
+- What you'll need to [do this task] online _Note: In some cases, might need to be specific (i.e., "on eBenefits") for now._
+- What to know about [doing task] online _Note: Could considering using this subhead as an H2 and then a couple specific H3s as needed_
 - Other options
 
 ### Information displayed as accordions
