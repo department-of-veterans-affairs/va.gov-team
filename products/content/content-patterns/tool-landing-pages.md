@@ -42,10 +42,10 @@ We want to now display only the most critical information on the page (ie, can I
 
 Consider for accordion group header:
 
-**Questions about [task]**
-**Common questions about [task]**
-**Questions you may have about [task]**
-**Frequently asked questions about [task]
+- Questions about [task]
+- Common questions about [task]
+- Questions you may have about [task]
+- Frequently asked questions about [task]
 
 Recommend not using "FAQs" due to avoiding acronyms and recent surfacing of screen reader pronunciation. Leaning toward "Common questions" or simply "Question" for brevity. "Questions you may have about..." can be good in certain circumstances, such as the covid-19 vaccine page, where questions may be more sensitive/personal.
 
