@@ -25,27 +25,30 @@ Links to product outlines:
 
 
 * **Link to designs**
-  - [n/a]
+  - [screenshot(s) in TestRail test case]
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Go to Staging homepage https://staging.va.gov/ -- no sign-in required.
   - In page-header, click **Search** button to display text-field & button.
+
+* **TestRail test case**: [C3163](https://dsvavsp.testrail.io/index.php?/cases/view/3163)
 
 ## Use Case B - Valid search string
 
 * **Description**
   - When a valid search input is input, a dropdown menu will appear with suggested search options
-  - ![image.png](https://images.zenhubusercontent.com/5f13315978dd30105f60e53d/ff668da0-c91f-4203-b131-d4bc82beb0cb)
+    ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png)
   - Flows after typing search string:
     - Pressing **Enter** or clicking **search** (magnifier-icon) button [w/o selecting a suggestion-option] bypasses type-ahead suggestions -- browser navigates to search-results page and displays results for exact string inputted.
-    - Clicking a **suggested-option** in **suggestions** dropdown selects that option's search string for search -- browser navigates to search-results page and displays results for selected suggestion-option's search string.
-    - Tabbing to a **suggested-option** and pressing **Enter** triggers same behavior as clicking the option.
+    - Clicking a **suggested-option** in **suggestions** dropdown [or **Down-arrow**ing to highlight the option and pressing **Enter**] selects that option's search string for search -- browser navigates to search-results page and displays results for selected suggestion-option's search string.
 
 
 * **Link to designs**
-  - [n/a]
+  - [screenshot(s) in TestRail test case]
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Go to Staging homepage https://staging.va.gov/ -- no sign-in required.
   - In page-header, click **Search** button to display text-field & button.
+
+* **TestRail test case**: [C3164](https://dsvavsp.testrail.io/index.php?/cases/view/3164)
 
