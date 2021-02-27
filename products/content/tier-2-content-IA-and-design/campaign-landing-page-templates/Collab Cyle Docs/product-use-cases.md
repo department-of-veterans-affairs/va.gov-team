@@ -31,6 +31,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
 
+* **TestRail test case**: [C4307](https://dsvavsp.testrail.io/index.php?/cases/view/4307)
+
 ## Use Case B
 
 * **Description - broken text link**
@@ -41,6 +43,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
+
+* **TestRail test case**: [C4308](https://dsvavsp.testrail.io/index.php?/cases/view/4308)
 
 ## Use Case C
 
@@ -53,6 +57,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
 
+* **TestRail test case**: [C4309](https://dsvavsp.testrail.io/index.php?/cases/view/4309)
+
 ## Use Case D
 
 * **Description - Watch video link**
@@ -64,6 +70,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
 
+* **TestRail test case**: [C4310](https://dsvavsp.testrail.io/index.php?/cases/view/4310)
+
 ## Use Case E
 
 * **Description - Social share links**
@@ -74,6 +82,8 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
+
+* **TestRail test case**: [C4311](https://dsvavsp.testrail.io/index.php?/cases/view/4311)
   
  ## Use Case F
 
@@ -85,3 +95,5 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
+
+* **TestRail test case**: [C4337](https://dsvavsp.testrail.io/index.php?/cases/view/4337)
