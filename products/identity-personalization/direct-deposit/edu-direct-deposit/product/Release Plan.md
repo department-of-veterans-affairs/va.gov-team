@@ -2,8 +2,8 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** 2/25-3/9
-- **UAT Go/No go:** 2/25 (estimate)
+- **Desired date range or test duration:** 3/10-3/23
+- **UAT Go/No go:** 3/2
 - **Desired number of users:** 6
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
@@ -18,10 +18,10 @@ be behind a feature flag.
 ## Phase II: Staged Rollout 
 ### Planning
 **Desired date range:**
-- 10% of users (1 week), Dates: 3/15-3/19 (S43)
-- 25% of users (1 week), Dates: 3/24-3/31 (S44)
-- 50% of users (1 week), Dates: 4/1-4/6 (S44)
-- If all goes well, then go to 100% of users: Estimated date 4/7 (S45)
+- 10% of users (1 week), Dates: 3/29-4/2 (S44)
+- 25% of users (1 week), Dates: 4/7-4/14 (S45)
+- 50% of users (1 week), Dates: 4/14-4/21 (S45)
+- If all goes well, then go to 100% of users: Estimated date 4/22 (S46)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 **Link to GA Dashboard:** To be added
