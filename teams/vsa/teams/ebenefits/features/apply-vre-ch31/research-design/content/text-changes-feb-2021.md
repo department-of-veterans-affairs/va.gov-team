@@ -72,9 +72,9 @@ JA:
   - **Comment 1:** Instead of type of job you want, state "to be competitive in the labor market in a suitable occupation." suggest removing for the type of job you want.  
 JW:✔   
 JA:   
-  - **Comment 2:** Remove the "find short-term" and  "get money" sentences (bullets)
+  - **Comment 2:** Remove the "find short-term" and  "get money" sentences (bullets)  
 JW:✔   
 JA:   
-  - **Comment 3:** Instead if "Connect with..." state "Participate in monthly post-employment follow-up discussions"
+  - **Comment 3:** Instead if "Connect with..." state "Participate in monthly post-employment follow-up discussions"  
 JW:❌ "Connect with..." is approved friendly tone on VA.gov   
 JA:   
