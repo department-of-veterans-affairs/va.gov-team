@@ -52,7 +52,9 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 <!-- - Do you need to change the direct deposit information for your educational VA payments? (pass = yes) -->
 - Are you identity-verified (LOA3)--using ID.me, DSLogon, or MyHealtheVet--on VA.gov? (pass = yes) 
   - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
-  - Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes) 
+  - Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes)
+  - Are you OK with re-entering your existing bank information? (pass = yes) (You **could** change your bank info if you need to)
+  - If so, do you have your bank routing number and your account number available? (pass = yes)
 - At least one woman
 - At least one person of color
 - At least one participant 35 or under and 1 participant over 55
