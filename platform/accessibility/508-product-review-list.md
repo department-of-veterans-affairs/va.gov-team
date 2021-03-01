@@ -790,10 +790,8 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[DOCUMENT]: GIBCT Section 116 - Excel document has merged cells that could cause accessibility issues - #3835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3835)<br/>
-**Opened:** November 28, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
-**Opened:** May 1, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites" - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
+**Opened:** May 1, 2020 | **Severity:** 508-defect-3 - **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
