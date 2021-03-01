@@ -20,14 +20,14 @@ Prepared by: Tressa Furner, Authenticated Experience
 - Users easily understood how to get to the profile 
 - Users understood the difference between MyVA and the profile
 
+### Users easily understood
+
 **Nametag**
-Users understood:
 
 - how to find their disability rating
 - where the disability rating would go
 
 **Claims**
-Users understood:
 
 - why we were showing the grey box in claims & appeals
 - "X claims & appeals in progress" link would take them to a break down with their claims in progress
@@ -35,7 +35,6 @@ Users understood:
 - how to view specific details about their claim
 
 **Healthcare**
-Users understood:
 
 - how to find all of their health care information (messages, appointments, prescriptions)
 - how to read their latest message
@@ -44,7 +43,6 @@ Users understood:
 - CTA's would take them to a separate page with more information
 
 **Apply for benefits** 
-Users understood:
 
 - what the applications in progress are
 - how to finish and submit an application
@@ -63,19 +61,18 @@ Users understood:
 - A lot of confusion around 'totals' in general. Users didn't know if the grey box was included in the total in the CTA
 - A few people mentioned wanting the section titles to be clickable
 - A few people mentioned wanting the whole page to be more 'actionable' - if it isn't something they can act on, they didn't want it
-- 
+
+### Users were confused about:
 
 **Nametag**
 
 - no confusion
 
 **Claims**
-Users were confused about:
 
 - the total number of claims & appeals
 
 **Healthcare**
-Users were confused about:
 
 - all healthcare totals
 - why there is a grey box in messages and prescriptions
