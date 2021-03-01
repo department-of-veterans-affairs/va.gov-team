@@ -150,7 +150,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 - Hand off updated designs from user testing to FE
 - Design error states
-- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request) #14642
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md) #14642
 - Review frontend build as needed
 
 **FE**
