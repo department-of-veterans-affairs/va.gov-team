@@ -24,20 +24,21 @@ I have a few things I need to mention before we start:
 
 OK, let's get started.
 
-Today we're going to observe you navigating to the direct deposit feature. This feature now displays your direct deposit bank information to you, and allows you to change it if you need to. I have a few questions to make sure this form is right for you:
+Today we're going to observe you using a new direct deposit feature. This tool now displays your educational payment direct deposit bank information, and allows you to change it. I have a few questions to make sure this form is right for you:
 - I need to confirm: are you a Veteran, service member or dependent? And do you receive educational payments from VA?
   - If "no," end the session.
-- Can you confirm for me that you have an ID.me (etc.) account? And do you know your username and password? 
+- Can you confirm that you have an ID.me (etc.) account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
   - If the user can not remember or retrieve their login credentials, they must complete the form unauthenticated.
 - During this call, I'll be helping you navigate a form that can change your direct deposit information. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form on the call?
   - If not end the session.
 
-So today we're going to observe you navigating to the direct deposit feature. There, we'll ask you to review your bank information and re-enter it. If you choose, you can turn off video for this. We're not recording this session, but we need to see your screen as you go to the form. The form **does** ask for personal financial information. Are you comfortable sharing your screen? Would you like to turn off video while you re-enter your bank info? Do you have your bank information handy? You need your routing and account number.
+So today we're going to observe you navigating to the direct deposit feature. There, we'll ask you to review your bank information and re-enter it. If you choose, you can turn off video for this. We're not recording this session, but we need to see your screen as you go to the form. The form **does** ask for personal financial information. Are you comfortable sharing your screen? Would you like to turn off video while you re-enter your bank info? 
 - If not: Explain this is neccessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
-- Allow user to retrieve bank info
+- Do you have your bank information handy? You need your routing and account number.
+  - If not: Are these easy to get? Could get you them?
 
-To help with any possible questions or concern you have, I may be able to offer real-time assistance with this direct deposit form.
+To help with any possible questions or concern you have, I may be able to offer real-time assistance with the direct deposit form.
 
 OK, a question or two about your computer and browser.
 - Can you tell me what type of computer you are using today?
