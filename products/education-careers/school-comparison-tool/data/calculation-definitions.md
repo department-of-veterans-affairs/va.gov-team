@@ -517,11 +517,14 @@ Otherwise select minimum value from below and mutiply by [tier](#tier)
 ##### `TUITION_FEES_CAP`
 if is flight
 - use Calculator Constant value `FLTTFCAP`
+
 else if is correspondence 
 - use Calculator Constant value `CORRESPONDTFCAP`
+
 else if is public and the country is USA
 - If in state student use "Tuition and fees per year" 
 - else use "In-state tuition and fees per year"
+
 else
 - use Calculator Constant value `TFCAP`
 
