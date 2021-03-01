@@ -45,7 +45,7 @@ If any of the following below then set the yellow ribbon benefit term to 0
  - institution field `yr` is false
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
- -  is OJT or Flight or Correspondence or Flight
+ -  is OJT or Flight or Correspondence
  -  giBillChapter is 30, 31, 1606, or 35
  -  [tuition fees per term](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/data/calculation-definitions.md#tuition_fees_per_term) is equal to `tuition fees for term 1`
 
@@ -61,7 +61,7 @@ If any of the following below then set the yellow ribbon benefit term to 0
  - institution field `yr` is false
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
- -  is OJT or Flight or Correspondence or Flight
+ -  is OJT or Flight or Correspondence
  -  giBillChapter is 30, 31, 1606, or 35
  -  [tuition fees per term](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/data/calculation-definitions.md#tuition_fees_per_term) is equal to `tuition fees for term 2`
  -  if calendar is nontraditional and [number of terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/data/calculation-definitions.md#number_of_terms) is 1
@@ -79,7 +79,7 @@ If any of the following below then set the yellow ribbon benefit term to 0
  - institution field `yr` is false
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
- -  is OJT or Flight or Correspondence or Flight
+ -  is OJT or Flight or Correspondence
  -  giBillChapter is 30, 31, 1606, or 35
  -  [tuition fees per term](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/data/calculation-definitions.md#tuition_fees_per_term) is equal to `tuition fees for term 3`
  -  if calendar is semester
