@@ -84,7 +84,7 @@ Prepared by: Tressa Furner, Authenticated Experience
 
 - no confusion
 
-### Things participants mentioned that they would like added/changed
+## Things participants mentioned that they would like added/changed
 
 **Overall**
 
