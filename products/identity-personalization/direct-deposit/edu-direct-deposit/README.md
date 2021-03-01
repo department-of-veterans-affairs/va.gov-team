@@ -21,7 +21,7 @@ Last Updated February 12, 2021
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Luke Tickner | VBA Edu team | Lucas.Tickner@va.gov |
+|Joseph Preisser| Edu contact| Joseph.Preisser@va.gov |
 |Tammy Hurley| VBA Edu team | tammy.hurley1@va.gov | 
 |Hope Coleman| VBA Edu team | Hope.Coleman@va.gov |
 
