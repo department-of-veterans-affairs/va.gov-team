@@ -34,7 +34,7 @@ Today we're going to observe you using a new direct deposit feature. This tool n
   - If not end the session.
 
 So today we're going to observe you navigating to the direct deposit feature. There, we'll ask you to review your bank information and re-enter it. If you choose, you can turn off video for this. We're not recording this session, but we need to see your screen as you go to the form. The form **does** ask for personal financial information. Are you comfortable sharing your screen? Would you like to turn off video while you re-enter your bank info? 
-- If not: Explain this is neccessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
+- If not: Explain this is necessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
 - Do you have your bank information handy? You need your routing and account number.
   - If not: Are these easy to get? Could get you them?
 
@@ -58,20 +58,17 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** User confirms bank info looks accurate
 - Next, we'll need to check the Edit feature. To do this we'll nee you to re-enter your bank info.
 - Click on the Edit link to the right of your bank info. 
-  - [ ] **UAT item:** Unpopulated form opens.   
+  - [ ] **UAT item:** Unpopulated form opens   
 - Review/enter your bank information.
   - [ ] **UAT item:** (Authenticated) Screen accepts user input
 - If eveything looks good, click the update button. Now click to continue.
   - [ ] **UAT item:** Confimation modal shows
-  - [ ] **UAT item:** Success messgae shows
-- User selects applicant description.
-  - [ ] **UAT item:** Selections branch workflow properly
-  - [ ] **UAT item:** User can backtrack through form as needed.
+  - [ ] **UAT item:** Success message shows
 - Please review/enter your bank information once more.
   - [ ] **UAT item:** User confirms bank info looks accurate
 
 ## Wrap-up
-That is the end of what we're testing. Do you have any questions or comments about the form or the direct deposit process?
+Well that's the end of what we're testing. Do you have any questions or comments about the form or the direct deposit process?
 
 Note: We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user. 
 
