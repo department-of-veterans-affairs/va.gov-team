@@ -525,7 +525,7 @@ else if is public and the country is USA
 - If in state student use "Tuition and fees per year" 
 - else use "In-state tuition and fees per year"
 
-else, comment in code indicates this is for private, foreign, and for-profit institutions
+else (comment in code indicates this is for private, foreign, and for-profit institutions)
 - use Calculator Constant value `TFCAP`
 
 ##### `TUITION_NET_PRICE`
