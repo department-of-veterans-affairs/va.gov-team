@@ -38,8 +38,6 @@ So today we're going to observe you navigating to the direct deposit feature. Th
 - Do you have your bank information handy? You need your routing and account number.
   - If not: Are these easy to get? Could get you them?
 
-To help with any possible questions or concern you have, I may be able to offer real-time assistance with the direct deposit form.
-
 OK, a question or two about your computer and browser.
 - Can you tell me what type of computer you are using today?
   - We ask because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
