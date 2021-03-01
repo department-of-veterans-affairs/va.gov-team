@@ -19,27 +19,20 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Outreach and Events](#outreach-and-events)
       - [Open issues](#open-issues)
     - [VSA Authenticated Experience](#vsa-authenticated-experience)
-      - [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
       - [Address Validation](#address-validation)
-      - [Profile Appointment Text Messages](#profile-appointment-text-messages)
       - [Benefits Recommendations](#benefits-recommendations)
     - [VSA Benefits and Memorials](#vsa-benefits-and-memorials)
       - [526v2 All Claims](#526v2-all-claims)
-      - [996](#996)
       - [Discharge Wizard](#discharge-wizard)
       - [Benefits Delivery at Discharge](#benefits-delivery-at-discharge)
-      - [2346](#2346)
       - [526 PTSD](#526-ptsd)
       - [Claim and Appeal Status](#claim-and-appeal-status)
-      - [HCA Dashboard Notifications](#hca-dashboard-notifications)
       - [Apply for Pre-need Burial](#apply-for-pre-need-burial)
-      - [VA Letters](#va-letters)
       - [Pensions](#pensions)
       - [Medical Device Ordering Tool](#medical-device-ordering-tool)
       - [Debt Letters MVP](#debt-letters-mvp)
       - [Debt Letters Iteration Two](#debt-letters-iteration-two)
       - [Higher Level Review](#higher-level-review)
-    - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
       - [Direct Deposit](#direct-deposit)
       - [Rated Disabilities](#rated-disabilities)
@@ -52,13 +45,11 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Edu 1990](#edu-1990)
       - [Edu 1990e](#edu-1990e)
       - [Edu 1990n](#edu-1990n)
-      - [Education 1995 STEM Update](#education-1995-stem-update)
       - [Edu 0993](#edu-0993)
       - [Edu 0994](#edu-0994)
       - [Edu 1995](#edu-1995)
       - [Edu 5495](#edu-5495)
       - [Apply Wizard](#apply-wizard)
-      - [Edu 10203 STEM Benefit Form](#edu-10203-stem-benefit-form)
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
       - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
@@ -67,7 +58,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VSA Public Websites](#vsa-public-websites)
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
       - [Disability Calculator](#disability-calculator)
-      - [Local Side Navigation](#local-side-navigation)
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
       - [Find Forms MVP](#find-forms-mvp)
@@ -286,14 +276,6 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### VSA Authenticated Experience
 
-#### Profile Direct Deposit Feature
-
-**Audit Status:** _Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019._<br/>
-**No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
 #### Address Validation
 
 **Audit status:** _Pre-launch 508 Review._
@@ -301,14 +283,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
-#### Profile Appointment Text Messages
-
-**Audit status:** _First audit completed by VSP Product Support Team October 2019._<br/>
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -348,13 +322,6 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-#### 996
-
-**No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
 #### Discharge Wizard
 
 **Open issues**
@@ -372,13 +339,6 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP, COGNITION]: Error message MUST be semantically linked and persistent to the year input field - #18578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18578)<br/>**Production** | **Opened:** January 14, 2021 | **Severity:** 508-defect-1 — **_Severe_**
 - [sitewide 508-defect-2 [SCREEN READER]: Screen reader users SHOULD know there is relevant info after making a selection in the wizard - #18581](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18581)<br/>**Production** | **Opened:** January 14, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [SEMANTIC MARKUP, COGNITION]: Anticipated Separation: <legend> SHOULD be announced to screen readers when in form groupings - #19013](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19013)<br/>**Production** | **Opened:** January 26, 2021 | **Severity:** 508-defect-2 — **_Serious_**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-#### 2346
-
-**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -407,15 +367,6 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-#### HCA Dashboard Notifications
-
-**Audit status:** _First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019._
-
-**No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
 #### Apply for Pre-need Burial
 
 **Audit status:** _Audited by VA 508 Office September 2018._<br/>
@@ -431,13 +382,6 @@ Back to [Table of Contents](#table-of-contents)
 - [Sitewide Issue #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[CI/CD]: Review coverage of accessibility checks in pre-need end-to-end tests - #7404](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7404)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-#### VA Letters
-
-**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -500,14 +444,6 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### VSA Caregivers
-
-**No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
 ### VSA eBenefits
 
 #### Direct Deposit
@@ -649,16 +585,6 @@ Back to [Table of Contents](#table-of-contents)
 
 ---
 
-#### Education 1995 STEM Update
-
-**Audit status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
-**No open issues**<br/>
-**[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
 #### Edu 0993
 
 **Open issues**
@@ -694,14 +620,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-#### Edu 10203 STEM Benefit Form
-
-**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
-**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -790,15 +708,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)<br/>
   **Opened:** August 16, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in disability-rating-calculator end-to-end tests - #7320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
-#### Local Side Navigation
-
-**Audit status:** _Completed June 2017._<br/>
-**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
