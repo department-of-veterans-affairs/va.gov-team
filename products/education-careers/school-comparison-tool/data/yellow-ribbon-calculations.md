@@ -50,9 +50,9 @@ If any of the following below then set the yellow ribbon benefit term to 0
  -  [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) is equal to [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1)
 
 Otherwise select minimum value from
-- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1),
-- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1),
-- yellowRibbonAmount * 2,
+- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1)
+- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1)
+- yellowRibbonAmount * 2
 
 ### Determine Yellow Ribbon Benefit for second term
 If any of the following below then set the yellow ribbon benefit term to 0
@@ -67,9 +67,9 @@ If any of the following below then set the yellow ribbon benefit term to 0
  -  if calendar is nontraditional and [number of terms](calculation-definitions.md#number_of_terms) is 1
 
 Otherwise select minimum value from
-- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2),
-- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2) - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term),
-- yellowRibbonAmount * 2 - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term),
+- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2)
+- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2) - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term)
+- yellowRibbonAmount * 2 - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term)
 
 
 ### Determine Yellow Ribbon Benefit for third term
@@ -88,6 +88,6 @@ If any of the following below then set the yellow ribbon benefit term to 0
 
 
 Otherwise select minimum value from
-- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3),
-- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3) - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term),
-- yellowRibbonAmount * 2 - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term),
+- [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3)
+- [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3) - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term)
+- yellowRibbonAmount * 2 - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term)
