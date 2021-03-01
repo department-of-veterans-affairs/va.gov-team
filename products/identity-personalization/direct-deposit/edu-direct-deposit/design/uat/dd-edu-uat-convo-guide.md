@@ -33,12 +33,13 @@ Today we're going to observe you navigating to the direct deposit feature. This 
 - During this call, I'll be helping you navigate a form that can change your direct deposit information. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form on the call?
   - If not end the session.
 
-So today we're going to observe you navigating to the direct deposit feature. There, we'll ask you to review your bank information and re-enter it. If you choose, you can turn off video for this. We're not recording this session, but we need to see your screen as you go to the form. The form **does** ask for personal financial information. Are you comfortable sharing your screen? Would you like to turn off video while you re-enter your bank info?
+So today we're going to observe you navigating to the direct deposit feature. There, we'll ask you to review your bank information and re-enter it. If you choose, you can turn off video for this. We're not recording this session, but we need to see your screen as you go to the form. The form **does** ask for personal financial information. Are you comfortable sharing your screen? Would you like to turn off video while you re-enter your bank info? Do you have your bank information handy? You need your routing and account number.
 - If not: Explain this is neccessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
+- Allow user to retrieve bank info
 
 To help with any possible questions or concern you have, I may be able to offer real-time assistance with this direct deposit form.
-<!--
-OK, the last questions are about your computer and browser.
+
+OK, a question or two about your computer and browser.
 - Can you tell me what type of computer you are using today?
   - We ask because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
 - Can you tell me which web browser you are using? Are you OK using Chrome?
@@ -48,32 +49,28 @@ OK, please share your screen, and we'll get started.
 ## UAT testing of 28-8832
 
 - Please open a new tab in your browser, go to [VA.gov]("https://www.va.gov/").
-- To complete this form, would you like to log in?
+- To view this feature, you'll need to log in. Click on the blue button at the top right (Sign in).
   - [ ] **UAT item:** After login, intro screen allows access.
-- (If login fails for any reason) It seems there's a problem logging-in; would you like to continue without logging-in?  
-  - [ ] **UAT item:** user proceeds unauthenticated 
-- Review the information on the landing screen. Is this the right form for you?
-  - [ ] **UAT item:** User navigates wizard to reveal form button (optional)
-  - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
-- Review the steps to apply for CH36 benefits. 
-  - [ ] **UAT item:** (Authenticated) User clicks green button to enter form.   
-  - [ ] **UAT item:** (Unauthenticated) User clicks text link to enter form.
-- Review/enter claimant information.
-  - [ ] **UAT item:** (Authenticated) Screen presents correct user data
-  - [ ] **UAT item:** (Unauthenticated) User enters personal info
-- Review/enter contact information.
-  - [ ] **UAT item:** (Authenticated) Address, phone and email are pre-filled
-  - [ ] **UAT item:** (Authenticated) User makes any necessary corrections and proceeds
-  - [ ] **UAT item:** (Unauthenticated) User enters contact info
+- Click on your name at the top right. Then click on "Profile."
+- Look at the links to the left; click on "Direct deposit information."
+  - [ ] **UAT item:**  User navigates to Direct deposit screen.
+- Review the information on the Direct deposit information screen. Does this look correct?
+  - [ ] **UAT item:** User confirms payment type(s) are correct (EDU, C&P, both)
+  - [ ] **UAT item:** User confirms bank info looks accurate
+- Next, we'll need to check the Edit feature. To do this we'll nee you to re-enter your bank info.
+- Click on the Edit link to the right of your bank info. 
+  - [ ] **UAT item:** Unpopulated form opens.   
+- Review/enter your bank information.
+  - [ ] **UAT item:** (Authenticated) Screen accepts user input
+- If eveything looks good, click the update button. Now click to continue.
+  - [ ] **UAT item:** Confimation modal shows
+  - [ ] **UAT item:** Success messgae shows
 - User selects applicant description.
   - [ ] **UAT item:** Selections branch workflow properly
   - [ ] **UAT item:** User can backtrack through form as needed.
-- Review information enter in this form
-  - [ ] **UAT item:** Accordions are present and contain correct information.
-  - [ ] **UAT item:** Edit function allows corrections
-- Review privacy statement and submit the form
-  - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
--->
+- Please review/enter your bank information once more.
+  - [ ] **UAT item:** User confirms bank info looks accurate
+
 ## Wrap-up
 That is the end of what we're testing. Do you have any questions or comments about the form or the direct deposit process?
 
