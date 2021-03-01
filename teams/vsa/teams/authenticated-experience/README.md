@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated February 2021**
+**Last updated March 2021**
 
 ## Where to find us 
 
@@ -18,7 +18,7 @@
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Cassandra Allen |Designer| callen@governmentcio.com |
+|Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie |FE Engineer | shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
