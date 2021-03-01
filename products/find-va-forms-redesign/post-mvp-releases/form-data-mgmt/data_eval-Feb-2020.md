@@ -20,7 +20,7 @@ Marci McGuire (Find a VA Form Product Manager) performed this evaluation on 2/25
     - [Problematic PDF links](#Problematic-PDF-links) (note - these links may work on browsers that are more "forgiving", but not on others)
     - [PDF URLs missing .pdf file extension](#PDF-URLs-missing-pdf-file-extension)
     - [Valid PDF links flagged as invalid](#Valid-PDF-links-flagged-as-invalid)
-    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)  :star: Can be updated in the CMS
+    - [Forms with Tool URL but no Tool Intro](#forms-with-tool-url-but-no-tool-intro)  :star: can be updated in the CMS
     - [Inconsistent form name examples](#Inconsistent-form-name-examples)
     - [Inconsistent PDF link examples](#Inconsistent-PDF-link-examples)
     - [Forms with questionable dates](#Forms-with-questionable-dates)
@@ -935,7 +935,7 @@ Believe URLs are evaluated and flagged in CMS
 
 </details>
 
-### Forms with Tool URL but no Tool Intro :star: Can be updated in the CMS
+### Forms with Tool URL but no Tool Intro :star: can be updated in the CMS
 
 <details><summary>Show Details</summary>
 
