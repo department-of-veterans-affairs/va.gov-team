@@ -92,6 +92,7 @@ Prepared by: Tressa Furner, Authenticated Experience
 - information about home loans
 - GI Bill information (specifically how much money and time is left)
 - direct deposit
+- personal notifications
 - contact information for the VA for each section
 - one user said to move profile link into the nametag area
 
