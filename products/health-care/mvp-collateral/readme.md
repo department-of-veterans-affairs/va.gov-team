@@ -1,6 +1,6 @@
 # MVP (Million Veteran Program) Collateral
 
-In March 2021, there is a campaign to commemorate Women's History Month and encourage more women Veterans to enroll in Million Veterans Program. This repo contains all the marketing collateral and assets for the campaign.
+In March 2021, there is a campaign to commemorate Women's History Month and encourage more women Veterans to enroll in Million Veteran Program. This repo contains all the marketing collateral and assets for the campaign.
 
 Contact Jennifer.Deen@va.gov with any questions.
 
