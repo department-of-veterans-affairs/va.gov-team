@@ -650,7 +650,29 @@ Active records only
 ### Forms whose names are inconsistent with PDF link name
 <details><summary>Show Details</summary>
     
-<!--table goes here-->    
+| Name  | PDF Link                                                                                                  | Details Url                                      |
+|-------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 15615 | https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-3542 |
+| 16711 | https://www.va.gov/vaforms/medical/pdf/VHA%20Form%2010-5345%20Fill-revision.pdf                           | https://www.va.gov/find-forms/about-form-10-5345 |
+| 18537 | https://www.va.gov/vaforms/medical/pdf/vha-2850-fill_BAK.pdf                                              | https://www.va.gov/find-forms/about-form-10-2850 |
+| 19633 | https://www.va.gov/vaforms/medical/pdf/Cert%2010-2553%20Certificate%20of%20Residency_Blank%20Template.pdf | https://www.va.gov/find-forms/about-form-10-2553 |
+| 19998 | https://www.va.gov/vaforms/medical/pdf/vha-10-9054-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-9054 |
+| 20363 | https://www.va.gov/vaforms/medical/pdf/VHA-10-7055-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-7055 |
+| 20363 | https://www.va.gov/vaforms/medical/pdf/vha-10-9055-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-9055 |
+| 24016 | https://www.va.gov/vaforms/medical/pdf/vha-10-2065-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2065 |
+| 24746 | https://www.va.gov/vaforms/medical/pdf/10-3567-fill.pdf                                                   | https://www.va.gov/find-forms/about-form-10-3567 |
+| 28764 | https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf                                                   | https://www.va.gov/find-forms/about-form-10-8678 |
+| 28764 | https://www.va.gov/vaforms/medical/pdf/VHA-10-7078-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-7078 |
+| 28764 | https://www.va.gov/vaforms/medical/pdf/vha-10-2478-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2478 |
+| 32417 | https://www.va.gov/vaforms/medical/pdf/vha-10-5588-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-5588 |
+| 33878 | https://www.va.gov/vaforms/medical/pdf/vha-10-5392-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-5392 |
+| 44472 | https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-3203%20Fill.pdf                                     | https://www.va.gov/find-forms/about-form-10-3203 |
+| 44475 | https://www.va.gov/vaforms/medical/pdf/vha-10-2406-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2406 |
+| 44476 | https://www.va.gov/vaforms/medical/pdf/10-2407-fill.pdf                                                   | https://www.va.gov/find-forms/about-form-10-2407 |
+| 44478 | https://www.va.gov/vaforms/medical/pdf/vha-10-2409-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2409 |
+| 44479 | https://www.va.gov/vaforms/medical/pdf/vha-10-2410-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2410 |
+| 44480 | https://www.va.gov/vaforms/medical/pdf/VHA-10-2511-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-2511 |
+| 44481 | https://www.va.gov/vaforms/medical/pdf/10-9012.pdf                                                        | https://www.va.gov/find-forms/about-form-10-9012 |
     
 </details>
 
