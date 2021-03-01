@@ -85,7 +85,7 @@ WIP here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdA
 
 # Implementation Info
 
-Please go to the overall [product outline for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md).
+Please go to the overall [product outline for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#implementation-info).
 
 ## Screenshots
 ### Before
