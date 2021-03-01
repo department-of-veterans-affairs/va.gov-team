@@ -39,6 +39,7 @@
 
  * URL design and governance - based on h1? request and review process?
  * beta user testing and onboarding.
+ * request form for new CLPs
 
 
 ## Wednesday February 24
