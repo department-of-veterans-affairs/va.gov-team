@@ -15,7 +15,7 @@ As researchers, our number one priority is to keep our participants safe. When w
 5. After the emergency has been handled, please update the Slack channel with any relevant details.
 6. As needed, loop in your government project point of contact (usually your OCTO lead).  
 
-Witnessing an emergency can be a traumatizing experience. Be sure to take time to pause and assess your own energy, emotional comfort, and capacity, and let your team know if you need any support.
+Witnessing an emergency can be a traumatizing experience. Be sure to take time to pause and assess your own energy, emotional comfort, and capacity, and let your team know if you need any support. Consider a debrief with your team and/or the observers on the call as on opportunity to acknowledge this experience and consider how we can better support researchers and participants moving forward. 
 
 ### Creating a safe space for participants
 Although we may not intend it, research sessions inherently create a power dynamic where the moderator is in control: participants don't know what questions they will be asked, what tasks they will be given, and the moderator represents the VA. Before you start your research study, consider ways that you can create a psychologically safe space for participants that shifts the power dynamic in favor of the participant. 
@@ -37,12 +37,14 @@ It is also important that research moderators feel safe and secure while conduct
 4. If you feel unsafe and want to end the session, use one of your practiced exit strategies to gracefully close the session. Let the participant know that the recruiting team will follow up with them. 
 5. Inform the recruiting team that the session has been closed. 
 
+Being made to feel unsafe or uncomfortable during user research can be a traumatizing experience.  Be sure to take time to pause and assess your own energy, emotional comfort, and capacity, and let your team know if you need any support. Consider a debrief with your team and/or the observers on the call as on opportunity to acknowledge this experience and consider how we can better support researchers and participants moving forward. 
+
 #### Sample exit strategies
 We recommend that you and your team plan for an exit strategy that you will feel comfortable using during a session. It is important not to blame the participant. Your goal is to simply wrap up the session without any further incident or escalation. We do not recommend sharing any personal details if you need to exit a session, as it may create additional stress for all. Examples of exit strategies that have worked include:
 - **Out of questions**: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 - **Blame technology**: I am so sorry, but I just learnd that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the incovenience and thank you for your time. 
 
-Being made to feel unsafe or uncomfortable during user research can be a traumatizing experience.  Be sure to take time to pause and assess your own energy, emotional comfort, and capacity, and let your team know if you need any support.
+
 
 If you have any questions, please reach out to: 
 * Emily Mann (@Emily Mann on Slack)
