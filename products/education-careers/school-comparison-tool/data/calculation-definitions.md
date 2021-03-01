@@ -468,3 +468,48 @@ Housing allowance is calculated per term
   Calculated as:
 ​
     `TUITION_FEES` / `NUMBER_OF_TERMS`
+
+##### `TUITION_FEES_PER_TERM_1`
+
+If any of the following then set value to 0
+- is OJT
+- giBillChapter is 30, 1606, or 35
+- giBillChapter is 31 and either flight or correspondence
+
+If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+
+Otherwise select minimum value from below and mutiply by [tier](#tier)
+- tuitionFeesPerTerm
+- tuitionFeesCap
+- tuitionNetPrice
+
+##### `TUITION_FEES_PER_TERM_2`
+
+If any of the following then set value to 0
+- is OJT
+- giBillChapter is 30, 1606, or 35
+- giBillChapter is 31 and either flight or correspondence
+- if calendar is nontraditional and [number of terms](#number_of_terms) is 1
+
+If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+
+Otherwise select minimum value from below and mutiply by [tier](#tier)
+- tuitionFeesPerTerm
+- tuitionFeesCap - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1)
+- tuitionNetPrice - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1)
+
+##### `TUITION_FEES_PER_TERM_3`
+
+If any of the following then set value to 0
+- is OJT
+- giBillChapter is 30, 1606, or 35
+- giBillChapter is 31 and either flight or correspondence
+ -  if calendar is semester
+ -  if calendar is nontraditional and [number of terms](#number_of_terms) is less than 3
+
+If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+
+Otherwise select minimum value from below and mutiply by [tier](#tier)
+- tuitionFeesPerTerm
+- tuitionFeesCap - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1) - [`TUITION_FEES_PER_TERM_2`](#tuition_fees_per_term_2)
+- tuitionNetPrice - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1) - [`TUITION_FEES_PER_TERM_2`](#tuition_fees_per_term_2)
