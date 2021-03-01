@@ -939,6 +939,8 @@ Believe URLs are evaluated and flagged in CMS
 
 <details><summary>Show Details</summary>
 
+:star: This data can be modified in the CMS.
+
 | type    | Name    | Url                                                         |
 |---------|---------|-------------------------------------------------------------|
 | va_form | 28764   | https://www.va.gov/vaforms/medical/pdf/vha-10-2478-fill.pdf |
