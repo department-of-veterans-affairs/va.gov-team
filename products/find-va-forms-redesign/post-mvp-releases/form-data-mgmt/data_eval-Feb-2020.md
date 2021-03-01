@@ -649,7 +649,9 @@ Active records only
 
 ### Forms whose names are inconsistent with PDF link name
 <details><summary>Show Details</summary>
-    
+
+Note: In all cases, the value in the _Name_ field does not produce a result when searched on Find a VA Form.  This naming inconsistency will have a significant impact on our ability to score/weight results based on form name.  
+
 | Name  | PDF Link                                                                                                  | Details Url                                      |
 |-------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | 15615 | https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf                                               | https://www.va.gov/find-forms/about-form-10-3542 |
