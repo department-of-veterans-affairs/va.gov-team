@@ -930,7 +930,7 @@ Not intended as an exhaustive list, but rather a representation of the signfican
  - Form names appended with additional numbers, possibly indication a version or series (VA40-0895-10)
  - Inclusion/exclusion of _VA_ or _Form_ in the name (VA Form 22-897 vs VA0120)
 
-It is important to note that the name format directly influences our ability to successfully match a user's search term to a form.  Naming inconsistencies can also result in multiple versions of the same form being listed under different names (ex - 9 and VA9)
+It is important to note that the name format directly influences our ability to successfully match a user's search term to a form.  Naming inconsistencies can also result in multiple versions of the same form being listed under different names ([see examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md#Forms-that-appear-to-have-duplicate-records))
 
 | type    | Name              |
 |---------|-------------------|
