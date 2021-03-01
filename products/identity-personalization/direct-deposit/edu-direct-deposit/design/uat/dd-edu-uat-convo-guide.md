@@ -52,7 +52,8 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** After login, intro screen allows access.
 - Click on your name at the top right. Then click on "Profile."
 - Look at the links to the left; click on "Direct deposit information."
-  - [ ] **UAT item:**  User navigates to Direct deposit screen.
+  - [ ] **UAT item:**  Direct deposit information link appears in left-hand navigation
+  - [ ] **UAT item:**  User navigates to Direct deposit screen
 - Review the information on the Direct deposit information screen. Does this look correct?
   - [ ] **UAT item:** User confirms payment type(s) are correct (EDU, C&P, both)
   - [ ] **UAT item:** User confirms bank info looks accurate
