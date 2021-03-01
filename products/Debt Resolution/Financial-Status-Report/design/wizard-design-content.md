@@ -173,3 +173,33 @@ You don't need to submit a Financial Status Report (VA Form 5655) to request an 
     -  Debt Management Center
     -  P.O. Box 11930
     -  St. Paul, MN 55111-0930
+
+--- 
+
+### J
+Based on the information you provided, this isn’t the form you need.
+
+**To ask our Committee of Waivers and Compromises to reconsider your waiver,** you’ll need to tell us why you think we should reconsider.
+
+You can submit your request online, by phone, or by mail.
+
+-   **Online:** [Go to our online question form (called IRIS)](https://iris.custhelp.va.gov/app/ask). On the IRIS page, select **Debt Management Center**, your debt type, and **Waiver** within the Topic dropdown. For Inquiry Type, select **Question**. Write your request in the **Question** section.
+
+-   **Phone:** Call us at [800-827-0648]() (or [1-612-713-6415]() from overseas). We're here Monday through Friday, 7:30 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: [711]().
+
+-   **Mail:**
+    -  Debt Management Center
+    -  P.O. Box 11930
+    -  St. Paul, MN 55111-0930
+
+--- 
+
+### K
+Based on the information you provided, this isn’t the form you need.
+
+**If you disagree with our decision on your waiver request,** you can [request a Board Appeal](https://www.va.gov/decision-reviews/board-appeal/). When you choose this option, you appeal to a Veterans Law Judge at the Board of Veterans' Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case.
+
+[Find out how to request a Board Appeal](https://www.va.gov/decision-reviews/board-appeal/)
+
+**Note:** You have one year from the date on your decision letter to request a Board Appeal, unless you have a [contested claim](https://www.va.gov/decision-reviews/contested-claims).
+
