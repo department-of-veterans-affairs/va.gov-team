@@ -31,13 +31,12 @@ The yellow ribbon benefit total of each "paid by school" term is used to determi
 ### Out of pocket tuition
 "GI Bill pays to school" and total scholarships is subtracted from "Tuition and fees per year"
 
-# Implementation
+### "paid by VA" vs "paid by School"
+All amounts with `paid by VA` are the same as the corresponding `paid by school` amount. In the code the respective Yellow Ribbon Benefit for term is divided by 2.
+
+# Calculations
 
 [Code for yellow ribbon calculations](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/gi/selectors/calculator.js#L388)
-
-
-### "paid by VA" vs "paid by School"
-All amounts with `paid by VA` are the same as the corresponding `paid by school` amount
 
 ### Determine Yellow Ribbon Benefit for first term
 If any of the following below then set the yellow ribbon benefit term to 0
