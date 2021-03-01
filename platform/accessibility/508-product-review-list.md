@@ -791,7 +791,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites" - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
-**Opened:** May 1, 2020 | **Severity:** 508-defect-3 - **_Moderate_**
+**Opened:** May 1, 2020 | **Severity:** 508-defect-4 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
