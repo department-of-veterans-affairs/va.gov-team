@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated December 8, 2020
+Last Updated March 1, 2021
 
 ## POCs
 
@@ -17,7 +17,7 @@ Last Updated December 8, 2020
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea|Product Manager| matt.shea@adhocteam.us |
 |Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
-|??? | Designer | ??? |
+|Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
