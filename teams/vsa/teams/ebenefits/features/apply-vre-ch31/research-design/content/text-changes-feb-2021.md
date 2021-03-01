@@ -16,7 +16,7 @@ JA:
 JW:✔   
 JA:   
   - **Comment 2:** Is there another word that could be used in lieu of GET? for example - obtain, acquire..etc...  
-JW:❌ "Get" is approved friendly tone on VA.gov   
+JW:❌ "Get" is approved friendly tone on VA.gov.  What does changing this word achieve in the forms objectives?   
 JA:    
   - **Comment 3:** no hyphen for independent living  
 JW:✔  
@@ -76,5 +76,5 @@ JA:
 JW:✔   
 JA:   
   - **Comment 3:** Instead if "Connect with..." state "Participate in monthly post-employment follow-up discussions"  
-JW:❌ "Connect with..." is approved friendly tone on VA.gov   
+JW:❌ "Connect with..." is approved friendly tone on VA.gov.  What does changing this word achieve in the forms objectives?     
 JA:   
