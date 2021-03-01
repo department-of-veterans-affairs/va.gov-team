@@ -29,7 +29,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4307](https://dsvavsp.testrail.io/index.php?/cases/view/4307)
 
@@ -42,7 +42,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4308](https://dsvavsp.testrail.io/index.php?/cases/view/4308)
 
@@ -55,7 +55,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4309](https://dsvavsp.testrail.io/index.php?/cases/view/4309)
 
@@ -68,7 +68,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4310](https://dsvavsp.testrail.io/index.php?/cases/view/4310)
 
@@ -81,7 +81,7 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4311](https://dsvavsp.testrail.io/index.php?/cases/view/4311)
   
@@ -94,6 +94,6 @@ Link to product outline: [Campaign Landing Page Product Outline](https://github.
   - [Design comps with all panels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/CLP-Maximal.png)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  http://preview-prod.vfs.va.gov/preview?nodeId=16139 [no login required]
 
 * **TestRail test case**: [C4337](https://dsvavsp.testrail.io/index.php?/cases/view/4337)
