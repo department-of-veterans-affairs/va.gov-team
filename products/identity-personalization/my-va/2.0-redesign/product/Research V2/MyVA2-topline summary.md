@@ -20,7 +20,7 @@ Prepared by: Tressa Furner, Authenticated Experience
 - Users easily understood how to get to the profile 
 - Users understood the difference between MyVA and the profile
 
-### Users easily understood
+### Users easily understood:
 
 **Nametag**
 
