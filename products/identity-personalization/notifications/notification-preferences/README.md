@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated February 16, 2021
+Last Updated March 1, 2021
 
 ## POCs
 
@@ -17,7 +17,7 @@ Last Updated February 16, 2021
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea|Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Cassandra Allen |Designer| callen@governmentcio.com |
+|Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
