@@ -35,6 +35,12 @@
 
 </details>
 
+## Wednesday March 3
+
+ * URL design and governance - based on h1? request and review process?
+ * beta user testing and onboarding.
+
+
 ## Wednesday February 24
 
 CLP editorial experience CMS epic [#2274](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2274)
