@@ -108,7 +108,7 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 
 ## Other content
 
-- [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health[(https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
+- [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
 
 
 
