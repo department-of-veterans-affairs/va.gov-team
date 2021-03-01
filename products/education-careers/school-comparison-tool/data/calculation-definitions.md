@@ -476,12 +476,12 @@ If any of the following then set value to 0
 - giBillChapter is 30, 1606, or 35
 - giBillChapter is 31 and either flight or correspondence
 
-If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+If giBillChapter is 31 and not flight or correspondence then set value to [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
 
 Otherwise select minimum value from below and mutiply by [tier](#tier)
-- tuitionFeesPerTerm
-- tuitionFeesCap
-- tuitionNetPrice
+- [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
+- [TUITION_FEES_CAP](#tuition_fees_cap)
+- [TUITION_NET_PRICE](#tuition_net_price)
 
 ##### `TUITION_FEES_PER_TERM_2`
 
@@ -491,12 +491,12 @@ If any of the following then set value to 0
 - giBillChapter is 31 and either flight or correspondence
 - if calendar is nontraditional and [number of terms](#number_of_terms) is 1
 
-If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+If giBillChapter is 31 and not flight or correspondence then set value to [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
 
 Otherwise select minimum value from below and mutiply by [tier](#tier)
-- tuitionFeesPerTerm
-- tuitionFeesCap - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1)
-- tuitionNetPrice - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1)
+- [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
+- [TUITION_FEES_CAP](#tuition_fees_cap) - [TUITION_FEES_PER_TERM_1](#tuition_fees_per_term_1)
+- [TUITION_NET_PRICE](#tuition_net_price) - [TUITION_FEES_PER_TERM_1](#tuition_fees_per_term_1)
 
 ##### `TUITION_FEES_PER_TERM_3`
 
@@ -507,9 +507,24 @@ If any of the following then set value to 0
  -  if calendar is semester
  -  if calendar is nontraditional and [number of terms](#number_of_terms) is less than 3
 
-If giBillChapter is 31 and not flight or correspondence then set value to [`TUITION_FEES_PER_TERM`](#tuition_fees_per_term)
+If giBillChapter is 31 and not flight or correspondence then set value to [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
 
 Otherwise select minimum value from below and mutiply by [tier](#tier)
-- tuitionFeesPerTerm
-- tuitionFeesCap - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1) - [`TUITION_FEES_PER_TERM_2`](#tuition_fees_per_term_2)
-- tuitionNetPrice - [`TUITION_FEES_PER_TERM_1`](#tuition_fees_per_term_1) - [`TUITION_FEES_PER_TERM_2`](#tuition_fees_per_term_2)
+- [TUITION_FEES_PER_TERM](#tuition_fees_per_term)
+- [TUITION_FEES_CAP](#tuition_fees_cap) - [TUITION_FEES_PER_TERM_1](#tuition_fees_per_term_1) - [TUITION_FEES_PER_TERM_2](#tuition_fees_per_term_2)
+- [TUITION_NET_PRICE](#tuition_net_price) - [TUITION_FEES_PER_TERM_1](#tuition_fees_per_term_1) - [TUITION_FEES_PER_TERM_2](#tuition_fees_per_term_2)
+
+##### `TUITION_FEES_CAP`
+if is flight
+- use Calculator Constant value `FLTTFCAP`
+else if is correspondence 
+- use Calculator Constant value `CORRESPONDTFCAP`
+else if is public and the country is USA
+- If in state student use "Tuition and fees per year" 
+- else use "In-state tuition and fees per year"
+else
+- use Calculator Constant value `TFCAP`
+
+##### `TUITION_NET_PRICE`
+
+[TUITION_FEES](#tuition_fees) - "Scholarships (excluding Pell Grants)" - "How much are you receiving in military tuition assistance"
