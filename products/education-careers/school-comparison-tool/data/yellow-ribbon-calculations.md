@@ -91,3 +91,18 @@ Otherwise select minimum value from
 - [tuition fees per term](calculation-definitions.md#tuition_fees_per_term) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3)
 - [tuition_net_price](calculation-definitions.md#tuition_net_price) - [tuitionFeesTerm1](calculation-definitions.md#tuition_fees_per_term_1) - [tuitionFeesTerm2](calculation-definitions.md#tuition_fees_per_term_2) - [tuitionFeesTerm3](calculation-definitions.md#tuition_fees_per_term_3) - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term)
 - yellowRibbonAmount * 2 - [yrBenTerm1](#Determine-Yellow-Ribbon-Benefit-for-first-term) - [yrBenTerm2](#Determine-Yellow-Ribbon-Benefit-for-second-term)
+
+# Live staging demo of usage
+1. Go to https://staging.va.gov/gi-bill-comparison-tool/profile/11107474 
+    - Other institutions that have `current_academic_year_yellow_ribbon` in the weams file set to true and meets one of these criteria:
+      - correspondence 
+      - flight
+      - private
+      - foreign 
+      - for-profit
+2. Set “Tuition and fees per year” to a number greater than the [number of terms](calculation-definitions.md#number_of_terms) multiplied by the value 22805.34 
+    - This is the TFCAP calculator constant that is used to set the tuition fees cap, [see TUITION_FEES_CAP](calculation-definitions.md#tuition_fees_cap) for other possible values
+3. Select Yes for "Will you be a Yellow Ribbon recipient?" in "Scholarships and other VA Funding"
+4. Have a value other than $0 in "Yellow Ribbon amount from school per year"
+5. Click Update Benefits
+6. [Affected Output fields](#affected-output-fields) will change
