@@ -201,7 +201,7 @@ There are 8 Veterans featured in the campaign.
 ### MVP website article image 
 - [Three women Veterans](assets/png/MVP-article-image.png)
 
-## Zoom backgrounds
+## Zoom/Teams backgrounds
 
 ### Photo
 - [Photo, light blue](assets/png/zoom-bg-mvp-photo-light.png)
