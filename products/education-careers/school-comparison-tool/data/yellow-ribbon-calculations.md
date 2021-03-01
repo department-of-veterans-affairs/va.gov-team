@@ -29,7 +29,7 @@ The yellow ribbon benefit total of each "paid by school" term is used to determi
 "Yellow Ribbon: Total per year" is added to "Tuition and fees: Total per year"
 
 ### Out of pocket tuition
-"GI Bill pays to school" and total scholarships is subtracted from "Tuition and fees per year"
+"GI Bill pays to school" and "Scholarships (excluding Pell Grants)" is subtracted from "How much are you receiving in military tuition assistance"
 
 ### "paid by VA" vs "paid by School"
 All amounts with `paid by VA` are the same as the corresponding `paid by school` amount. In the code the respective Yellow Ribbon Benefit for term is divided by 2.
