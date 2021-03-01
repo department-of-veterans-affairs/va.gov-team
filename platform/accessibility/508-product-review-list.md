@@ -949,12 +949,9 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _VSP [Full accessibility and 508 audit completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13685) week of January 4, 2021_<br/>
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SCREENREADER]: STEM Standalone - Critical information is not available to the user with keyboard navigation - #18254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18254)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [508-defect-1 ❗ Launchblocker [SCREENREADER]: STEM Standalone - Screen reader users are required to enter direct deposit details before informing them it is optional - #18256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18256)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [508-defect-2 [COGNITION]: STEM Standalone - Social Security Number Alert should say "Social Security Number" instead of "SSN" - #18159](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18159)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3 - **Moderate**_
-- [508-defect-3 [SCREENREADER]: STEM Standalone - Links that open in new tab do not alert user that a new tab will be opened - #18247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18247)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
 - [508-defect-3 [SCREENREADER]: STEM Standalone - <legend> element is not anncouncing for screen readers - #18250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18250)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
   
 Back to [Table of Contents](#table-of-contents)
