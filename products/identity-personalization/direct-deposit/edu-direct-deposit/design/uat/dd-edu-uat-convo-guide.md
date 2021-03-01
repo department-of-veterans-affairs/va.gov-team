@@ -9,7 +9,7 @@
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/uat/dd-edu-uat-research-plan.md)
-- **Note:** These sessions will not recorded
+- **Note:** These sessions will **not** recorded
 
 ## Intro
 Good morning/afternoon and thank you for joining us today.
