@@ -1,5 +1,4 @@
-# Direct deposit for edu: UAT Go/No-go 
-## 3.2.21
+# Direct deposit for edu: UAT Go/No-go | 3.2.21
 
 ## Decision: Pending decision to move forward with UAT or not move forward with UAT
 
