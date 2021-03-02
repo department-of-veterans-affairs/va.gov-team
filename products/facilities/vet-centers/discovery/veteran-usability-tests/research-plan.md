@@ -6,28 +6,43 @@
 
 The goal of this study is to get high level Veteran feedback on webpage designs to understand if they would have enough information to choose care at a Vet Center.
 
+[Prototype to be tested](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636?mode=cvhidm)
+
 ### Research questions
 
-Will the designs provide Veterans with enough information to:
- - understand what care is available at Vet Centers?
- - understand how services are rendered at different locations?
- - understand the relationship between a main location and regional satellite offices? 
+Will Veterans:
+ - understand what type of care is available at Vet Centers?
+ - understand that they cannot get primary medical care at a Vet Center?
+ - be able to find the service that they are looking for within the list of taxons?
+ - know how to expand a service accordion to get details about individual services?
+ - understand the relationship between Vet Center parent and child locations? 
+ - understand that not all services are available at child locations? 
  - have enough information in order to visit or call a location? 
 
 
 ### Hypothesis 
 
-- Clients will be able to find a service and feel they have enough information to choose care at this facility.
-- Clients will feel that they have adequate logistical information in order to visit or call a Vet Center.
+- Veterans will understand the types of services offered/not offered.
+- Veterans will have enough information to visit a location.
+- Veterans will understand next steps for interacting with a Vet Center.
+- Veterans will understand that child locations may not have the same services as a parent location.
 
 ## Method
 
-Moderated qualitative research sessions with generative questioning and usability preference testing via Zoom. 
+- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, desktop prototype created in UXPin. 
+- Sessions will be remotely moderated via Zoom.
+
+## Risks and assumptions
+
+This study:
+- will not test be tested on Mobile devices; there may be variance in how users process information and interact with content on large vs small screens
+- will not test screen reader, keyboard or other Assistive Technology use; findings may not reveal problems that users with these technological constraints may encounter
+- will use a prototype that will differ in how a fully programmed website will behave when a user zooms their browser and under low bandwidth conditions 
 
 ## Participants and Recruitment
 
 - We will utilize the Perigean contract for **recruiting and notetaking**.
-- We'd like to schedule 16 participants to reach our goal of observing **7-9 participants**. 
+- We'd like to schedule 16 participants to reach our goal of observing **7-10 participants**. 
 
 ### Primary participant criteria:
 
@@ -53,25 +68,13 @@ Moderated qualitative research sessions with generative questioning and usabilit
     [ ] Educational benefit counseling
     
     [ ] Job, career, vocational counseling
-      
-      
-**2. What is the name and address of the VA facility that you visited/frequented?**
-
-
-    Name:
-
-    Street address:
-
-    City:
-
-    State:
-
 
 
 ### Secondary criteria / Would like to have - 
 
 At least: 
 - 4 participants living in a rural or remote area 
+- 2 participant that do not have a college degree 
 - 2 females
 - 1 participant of color 
 - 1 participant 35 or under 
@@ -79,25 +82,26 @@ At least:
 - 1 participant 46 - 55 
 - 1 participant 56 or over 
 - 1 participant with cognitive disabilities 
-- 1 participant that do not have a college degree 
-- 1 participant without a college degree (to include officer Vets) 
 - 1 participant living in a major metropolitan area 
 - 1 participant with a disability rating of 70% or greater 
 
 
 ## Timeline
 
-- Study dates: Dec 8-11, 2020  
-- Pilot session: will be held on Dec 7, 2020 
+- Study dates: Dec 9-16, 2020  
+- Pilot session: will be held on Dec 9, 2020 
 - Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Mon, Dec 7 [PILOT] | 10a-1p | -
-Tue, Dec 8 | 7-9a, 12-2p, 7-8p | 5 
-Wed, Dec 9 | 7-11a, 7-8p | 5
-Thu, Dec 10 | 7-11a, 7-8p | 5
+Wed, Dec 9 [PILOT] | 12:30p-1:30p | 1
+Thu, Dec 10 | 7-11a, 12-2p, 7-8p | 7 
 Fri, Dec 11 | 7-11a | 4
+Mon, Dec 14 | 7-8p | 1
+Tues, Dec 15 | 7-11a | 4
+Wed, Dec 16 | 7-11a, 12-2p, 7-8p | 7 
+Thu, Dec 17 | 7-9a, 12-2p, 7-8p | 5
+Fri, Dec 18 | 7-11a | 4
 
 
 ## Team Roles	

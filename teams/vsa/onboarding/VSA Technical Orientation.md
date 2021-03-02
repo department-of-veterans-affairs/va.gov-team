@@ -30,6 +30,7 @@ Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](ma
   - [Citrix Access Gateway (CAG)](#citrix-access-gateway-cag)
     - [Tips:](#tips-1)
   - [VA Service Desk](#va-service-desk)
+  - [Platform Newsletter](#platform-newsletter)
   - [Onboarding FAQs](#onboarding-faqs)
 
 ## What We Do
@@ -92,8 +93,10 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 (Build to extract Drupal and Markdown into static HTML):
 
-- GraphQL: queries to extract data from Drupal
-- Liquid: templates to expand data to HTML
+- GraphQL: queries to extract data from Drupal. This is legacy and is in the process of being replaced by a Tome Sync + CMS Transformer solution.
+- Tome Sync: Drupal Static Site Generator. Data from Drupal models are dumped server-side to a json.tar file continously after content in drupal is edited/saved.
+- CMS Transformer: an in-house Node.js solution to map and extract data models from Tome Sync json.tar files to HTML through Liquid templates.
+- Liquid: templates to expand data to HTML. Liquid is an open-source template language created by Shopify and written in Ruby. 
 - Metalsmith Static Site Generator: the content integration build; runs on Node.js
 - TeamSite Integration (legacy): NGIX Web Server, AWS S3 (shared content), PERL
 
@@ -120,6 +123,7 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
 | #general                   |
+| [#va-onboarding-help](https://dsva.slack.com/channels/va-onboarding-help)   | VA-specific onboarding help for CAG, GFE, ePAS, and VA email |
 | [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
 | #random                    |
 | [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
@@ -129,11 +133,11 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
 | #vsa                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
-| [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
+| [#vsa-bam-2 aka #vsa-debt](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
+| [#vsa-benefits-memorial aka #vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
 | [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
 | [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
-| [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
+| [#vsa-ebenefits aka #vsa-ebn-migration](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
 | [#vsa-engineering](https://dsva.slack.com/channels/vsa-engineering)           | VSA Frontend and Backend Engineers          |
 | [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)            | Team: Facilities                            |
 | [#vsa-product](https://dsva.slack.com/channels/vsa-product)               | VSA Product Collaboration (PMs, etc)        |
@@ -141,6 +145,10 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)          | Team: Medical Center                        |
 | [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)             | Team: Healthcare                            |
 | [#vsa-clipboard-tech-questions](https://dsva.slack.com/channels/vsa-clipboard-tech-questions) | Team: Healthcare (just devs/technical) |
+| [#va-search](https://dsva.slack.com/channels/va-search) | Team: Search and Discovery |
+| [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization) | Team: Translation |
+| [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) | Team: Decision Tools |
+
 
 - If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 - **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
@@ -314,15 +322,18 @@ PTO Calendar: after approval from your PM and lead, put your days off (approved 
 - **GitHub: VA<span/>.gov | Private | Team Sensitive | VA Systems** \
   https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems \
   Backend developer integration to VA services.
+  
+## Confluence Links
+The platform team (VSP) is in the process of migrating their documentation away from GitHub over to Atlassian Confluence.
+https://vfs.atlassian.net/wiki/spaces/VP/overview
 
 ## Development System
 
-Although we do not dictate whether developers should use Windows vs Linux vs Mac, almost everyone uses a Macbook Pro, so that’s the path of least resistance. If you choose to use Windows or Linux instead, you should be ok, but there may be some configuration details you’ll have to take up on your own (not as much support if you run into issues).
+Although we do not dictate whether developers should use Windows vs Linux vs Mac, almost everyone on VSA uses a Macbook Pro, so that’s the path of least resistance. If you choose to use Windows or Linux instead, you might be ok with additional setup, but you won't get any support if you run into issues. Developers have noticed issues particularly with the Rails setup on non-mac systems, and there is a chance some scripts may not work outside of macOS and zshell, so you'd be responsible for additional configuration details or modifications to these if you run into these issues.
 
 - Macbook Pro issued by US Resources to GovernmentCIO employees:
   - You’ll have to call US Resources to get the password (account is not integrated into Active Directory)
   - If you are not admin, let US Resources know immediately, because you need to be.
-  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts.
 - Most tools are open source.
 - You can only get so far with words, so we encourage developers to use diagrams to communicate architecture, design, and business/data flow. We recommend [diagrams.net](https://app.diagrams.net/) (previously known as Draw.io) because it's free and open source. It's a well-known Progressive Web App (PWA) based on MxGraph that comes in both online or offline versions. Alternatives include Lucidchart and Visio; however, neither of those are free. 
 
@@ -335,7 +346,7 @@ In order to dogfood VSP's install instructions, VSA developers are expected to h
 | Slack                                            | https://slack.com/downloads                                                                                                                                    | Slack isn't directly used for builds, but it is our main team collaboration/messaging hub (preferred over email), so you'll need it installed first in order to reach out to people for help. On your development system, please use the installed/desktop version to get all the features (the web version isn't enough.)                                                               |
 | Homebrew                                         | https://brew.sh                                                                                                                                                | Package manager for macOS. Used via the terminal to install node.js, nvm, ruby, yarn and all the other software needed. Must be updated regularly in order to keep the repositories up to date.                                                                                                                                                                                          |
 | Yarn                                             | https://yarnpkg.com                                                                                                                                            | Dependency manager used on the VA frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)                                                                                                                                                                          |
-| NVM                                              | https://github.com/nvm-sh/nvm ([install guide](https://github.com/nvm-sh/nvm#installing-and-updating)) | Version manager for Node.js. We use `10.15.3`. Recommended to set that as default using the command `nvm install 10.15.3` and then `nvm alias default 10.15.3`. If you are using Homebrew(you should) on a Mac, you will also have to add a line this line (`[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh # This loads NVM`) to your `.bash_profile`, `.zshrc`, or `.profile file.` |
+| NVM                                              | https://github.com/nvm-sh/nvm ([install guide](https://github.com/nvm-sh/nvm#installing-and-updating)) | Version manager for Node.js. We use node version `14.15.0`. Recommended to set that as default using the command `nvm install 14.15.0` and then `nvm alias default 14.15.0`. If you are using Homebrew(you should) on a Mac, you will also have to add a line this line (`[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh # This loads NVM`) to your `.bash_profile`, `.zshrc`, or `.profile file.` |
 | Node.js                                          | https://nodejs.org                                                                                                                                             | Needed to execute the website frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)                                                                                                                                                                              |
 | GitHub Desktop                                   | https://desktop.github.com                                                                                                                                     | Desktop Git client that allows us to work with the GitHub-hosted VA repositories. It addition to a UI, it also installs the Git command-line client.                                                                                                                                                                                                                                     |
 | Visual Studio Code                               | https://code.visualstudio.com                                                                                                                                  | IDE to modify and debug code, especially front-end React, but also back-end Ruby/Rails. Sticking to this popular IDE makes it easier to recommend and standardize code-assist/quality extensions (plug-ins).                                                                                                                                                                             |
@@ -358,7 +369,7 @@ Every developer likes to have their environment set up a certain way, but these 
 
 _NOTE: These are only front-end focused extensions, need to add backend focused extensions._
 
-| Name                                          | what is does                                             | package id                            |
+| Name                                          | what it does                                             | package id                            |
 | :-------------------------------------------- | :------------------------------------------------------- | :------------------------------------ |
 | Rainbow brackets                              | Highlights nested brackets with meaningful colors        | 2gua.rainbow-brackets                 |
 | ESLint                                        | Integrates eslint with VS Code. Handy for auto linting   | dbaeumer.vscode-eslint                |
@@ -418,8 +429,8 @@ Once you have received your VA login credentials, it is imperative that you log 
 - Bookmark the VA Citrix Remote Access login site: https://citrixaccess.va.gov/
 - VA Remote Access Help: https://www.oit.va.gov/resources/remote-access/
 - VA CAG Remote Access Connectivity Video Walkthrough: https://www.youtube.com/watch?v=073hayTIiwA
-- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Victoria Akitobi ([vakitobi@governmentcio.com](mailto:vakitobi@governmentcio.com))
-- Victoria will also issue you a PIV card reader if you ask.
+- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinators, Victoria Akitobi ([vakitobi@governmentcio.com](mailto:vakitobi@governmentcio.com)) and Kimberly West ([Kimberly.West2@va.gov>](mailto:Kimberly.West2@va.gov>))
+- Victoria or Kim may issue you a PIV card reader if you ask.
   - That’s the best route if you don’t have one already.
   - If you want to use your own, it needs to be TAA-compliant (https://www.amtgov.com/what-is-taa-compliance.html). The list changes, but countries that are currently NOT TAA-compliant include China, India, Indonesia, Iran, Malaysia, Pakistan, Russia, and Sri Lanka.
 - On Mac, only Safari is supported for CAG (DO NOT use Chrome).
@@ -449,6 +460,11 @@ Once you have received your VA login credentials, it is imperative that you log 
 ## VA Service Desk
 
 The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 855-NSD-HELP (855-673-4357). For this project you might use it for issues with VA Citrix Access Gateway (CAG), VA email, VA Talent Management System (TMS), or outages/downtime associated with VA Enterprise Services.
+
+## Platform Newsletter
+
+- Subscribe to the monthly VSP newsletter: https://mailchi.mp/d59e37e19d1a/vagov-platform-newsletter-landing-page
+- Archives: https://us19.campaign-archive.com/home/?u=6e3ab59c527a3cc8ef560eeb5&id=f87a8d4ff3
 
 ## Onboarding FAQs
 

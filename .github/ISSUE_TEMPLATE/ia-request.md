@@ -36,7 +36,8 @@ Provide the following information, as available, to support the final informatio
 **Redirects/canonical tags** - Will existing pages/tools need to be redirected or canonicalized?
 
 ## Definition of Done
-- [ ] Issue is created, tagged and assigned to VSP Product Support
-- [ ] Required information above is complete and optional information provided where available
-- [ ] IA reviews information and provides final feedback/recommendation on ticket
-- [ ] Requesting team closes issue upon implementation
+- [ ] VFS: Creates issue and provides all required information above
+- [ ] VSP: Completes final IA feedback/recommendation
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+- [ ] VFS: Closes issue once all IA feedback/recommendations are implemented
+

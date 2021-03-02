@@ -10,7 +10,7 @@
 - Sign into VA.gov through DS Logon
 - We will be having users share their screens (after they have logged on) and submitting a HLR.
 - When the participant is ready, pass presenter roles to them and have them share their screen.
-- When their screen is shared, send the beta link [https://va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
+- When their screen is shared, send the beta link [https://va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
 - **Note** : We will **not** be recording these sessions.
 
 ## **Intro - 2 minutes**

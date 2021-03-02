@@ -1,13 +1,13 @@
 # Research Plan for All "Primary care questionnaire" MVP Workflows Research Dec. 2020 
 
 ## Goals	
-This research is to usability test a desktop mobile prototype version of the primary care appointment questionnaire design and gain feedback on all the workflows in and out of the questionnaire. 
+This research is to usability test desktop and mobile prototype versions of the primary care appointment questionnaire design and gain feedback on all the workflows in and out of the questionnaire.
 
 **Background**<br/>
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
-- Are Veterans able to successfully find and complete the new, in-progress, and completed questionnaire via text, e-mail, or navigating to the feature directly on va.gov?
+- Are Veterans able to successfully find and complete the new, in-progress, and completed questionnaire via text or e-mail?
 - Are Veterans able to navigate to a meaningful location after completing the questionnaire?
 - Is there any confusion caused by the content or question wording within any of the workflows?
 
@@ -57,7 +57,7 @@ Team Availability | Time (EST)
 Dec 14, 2020 | 10:30am - 2pm EST, 3:30 - 5pm EST
 Dec 15, 2020 | 8:30am - 9:30pm EST, 3 - 4pm EST, 6 - 8pm EST
 Dec 16, 2020 | 2 - 8pm EST
-Dec 17, 2020 | 8:30am - 10 EST, 11am - Noon EST, 2 - 5pm EST, 6 - 8pm EST
+Dec 17, 2020 | 8:30am - 10 EST, 2 - 5pm EST, 6 - 8pm EST
 Dec 18, 2020 | 10:30am - 4pm EST
 
 Pilot Session: Dec 11, 2020 | 10am - 11am EST

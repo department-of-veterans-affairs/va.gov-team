@@ -18,11 +18,13 @@ You can contact any of the following about research or adding your reach here:
 
 You can find resources to get you started with your research
 
-- [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
+- [How to do user research: VSP edition](https://docs.google.com/presentation/d/19pqV57hCks9H0nxsblOkqnKkVuccsNUgzUQ-i-yXr2k/edit#slide=id.p1) 
 
-- [VSP conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
+- [Platform conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
 
-- [VSP research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+- [Platform research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+
+- [Platform research participants](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416) 
 
 <br>
 
@@ -63,8 +65,6 @@ Below you can find links to research conducted by VSP. If you've done research, 
 ------
 ### Upcoming Research
 
-#### Documentation - Content and IA
-
 #### Design System - Storybook - Design System
 
 #### Designer User Journey Workshop - Service Design
@@ -75,7 +75,31 @@ Below you can find links to research conducted by VSP. If you've done research, 
 
 <br>
 
+
 ### Completed Research
+
+#### Platform Documentation Research
+
+*Content and IA: Liani Lye*
+
+Q4 2020
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/v2/research-artifacts.md)
+
+<br>
+
+#### Designer User Journey Workshops
+<br>
+
+*Service Design: Naomi Marcussen, Andrea Chappelear, James Chasia*
+
+Q4 2020
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/vfs-user-journey)
+
+
+<br>
+
 
 #### Collaboration Cycle v1 Research
 

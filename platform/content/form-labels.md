@@ -1,3 +1,7 @@
+# This file is outdated. For the most recent version of this list, please go to [VA.gov form label masterlist](https://design.va.gov/patterns/form-labels) in the design system. 
+
+
+
 ## VA.gov form label masterlist
 
 Below is a list of standardized form labels that appear across all VA.gov forms. This list is a continued work in progress as each form is unique and has specific labels and questions. As we migrate more forms online, we'll continue to add plain-language labels to this list. 

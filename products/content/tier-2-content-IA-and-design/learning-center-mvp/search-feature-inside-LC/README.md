@@ -3,7 +3,30 @@
 
 This folder is to document findings, requirements, and implementation, and other information related to configuring Search.gov as a tool inside the learning center. 
 
-__Search product owner:__ John Hashimoto
+__Search product owner:__ ~John Hashimoto~ Per new decision during 1.1 phase, we decided RS/learning center search will remain with the public website team (rather than John's new search team. 
+
+
+
+## 12/31: Summary of new filter & sort ranking logic, [per ticket #16915](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16915)
+
+See Kelson's Slack explanation for full thread details. [Reference Slack thread]: (https://dsva.slack.com/archives/C52CL1PKQ/p1609428369068400?thread_ts=1609428198.067300&cid=C52CL1PKQ) Currently the filtering and sorting logic is separated, the work I did was purely sorting.
+
+__1/ Current filtering logic is:__
+
+- Lowercase the article's title and split up into a list of words
+- Check to see if any of the search term words match the beginning of any of the articles' title's words
+
+__2/ Current sorting logic is:__
+
+- Sort first by query word instances found in title descending
+- Sort ties then by query word instances found in body text descending 
+- Sort ties then by alphabetical descending
+
+Note: Body text of article includes the intro text and the article body (and excludes global component layers such as VA benefits, Related information, Need more help)
+
+If we were to modify the filtering logic above to include search query instances in both the title and the body text, and THEN sort, we could potentially bring back many more results, both relevant and irrelevant, though they would be sorted by relevance based on number of instances. 
+
+For now, we decided we will go live with the current [#16915](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16915) logic, and watch user search refinement behavior in RS data. It will also be helpful to see how the #16915 logic affects search with more content being added. 
 
 
 

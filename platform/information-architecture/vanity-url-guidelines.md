@@ -7,7 +7,7 @@ A vanity URL is a custom URL that exists to help users easily get to a specific 
 - Vanity URLs use common key words to create a shortened but readable URL. Vanity URLs also build off the current domain/brand of the site. An example would be www.va.gov/vre.
 - URL shortening services, such as https://go.usa.gov/, create shortened urls using generic and random characters.  They typically do not include the domain/brand of destination site and instead are branded as the URL shortener. An example shortened URL might look like http://go.usa.gov/TBUj.
 
-**Note:** We don't use URL shortening services. Instead we use vanity urls so www.va.gov is visible in the shortened URL.
+**Note:** VSP does not set up or utilize URL shorteners.  
 
 ### When is a vanity URL appropriate?
 The key purpose of a vanity, or shortened, URL is to provide a path to content or tools on VA.gov that's easy to read, understand, remember, type, print, and share.

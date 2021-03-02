@@ -1,0 +1,14 @@
+Before publishing a Resources and Support article make sure these steps are all complete:</br>
+- [ ] All links are working
+- [ ] Phone numbers are in aria labels
+- [ ] H2s are within the 70-character limit
+- [ ] Related links are on page and make sense (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing
+- [ ] CTA button wording matches buttons on other pages that use same link
+- [ ] Correct article category is selected
+- [ ] Correct benefit hub contacts are selected
+- [ ] Appropriate audience and top tags are selected
+- [ ] CTA buttons repeat on the bottom if a long article
+- [ ] **For single Q&A:** Standalone button is checked
+- [ ] **For multiple FAQs:** First publish each Q&A on its own (make sure standalone button is not checked) and then publish the multiple FAQ
+- [ ] **Once published:** Add article to the R&S landing page either in a new hub section or to one that already exists. If there are already more than 5 articles in that hub, you do not need to add it unless you want it to replace another article already on the page.
+- [ ] **Once published:** Add the new article and its CTA button wording to our [Github file of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rs-cta-button-audit.md)

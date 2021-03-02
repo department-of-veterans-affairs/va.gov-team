@@ -1,39 +1,32 @@
-## Dashboard Release Checklist
+## Dashboard Release Checklist - QA
 
-**Summary:** What does the VSP Analytics & Insights team need to complete before "releasing" dashboards to stakeholders?
+**Summary:** What does the VSP Analytics & Insights team need to QA before "releasing" dashboards to stakeholders?
 
 [Reference link to Mural workshop.](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1588869654736/1016c93b9f51bc33c49b1d404c716730b052ed90)
 
 ---
 
-**GA Reporting Specialist:**
-  - [ ] For user/session based metrics, create shared GA segment
-  - [ ] Stable automated connection to data source, BigQuery where possible
-  - [ ] Data is structured in a convenient way to meet the metric with little manual effort
+
+**Data:**
+  - [ ] Stable automated connections to BigQuery, unless we don't have it in BigQuery. Data source documented.
+  - [ ] If a metric is not in plain language or requires a calculation, then add an explanation of the metric logic.
+  - [ ] Data is structured in a convenient way to meet the metric with little manual effort. Note if data is manually updated.
   - [ ] QA data sources to ensure data accuracy & cleanliness
-  - [ ] Non line graphs have date ranges (dynamic text boxes)
-  - [ ] Cross-team: work with designer to ensure the data is explained
-  - [ ] Cross-team: work with designer to ensure each "card" has a data source that is clearly linked & that the link works
-      - If Google data is not in GA, please make a note in the dashboard for transparency to our users (i.e. this data is being calculated from BigQuery, with no direct reporting source from GA)
+  - [ ] Non line graphs have date ranges (dynamic text boxes or in the summary)
+  - [ ] Chart structures reflect design mockup
+  - [ ] Labels (for hover overs) have units of measurement
 
-**Designer - Data Engineer:**
+**Design/UX:**
 
-  - [ ] Content is not "too long" so that export is possible
+- [ ] Check that final dashboard lines up with the mock up design (some things to check for:)
+  - [ ] Content is in plain language (titles, labels on charts, labels in columns, annotations)
+  - [ ] PPT and PDF exports are possible ("layouts" are not too long)
   - [ ] All graphs are logically grouped in layouts so exporting works and feels logical
   - [ ] Each graph and table has appropriate titles & labels
   - [ ] Each graph has appropriate date ranges
-  - [ ] Set goal lines
-  - [ ] Cross-team: work with GA Reporting Specialist to ensure that data is explained ([metric definitions reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md))
-  - [ ] Cross-team: work with GA Reporting Specialist to ensure each "card" has a data source that is clearly linked & that the link works
-        - If Google data is not in GA, please make a note in the dashboard for transparency to our users (i.e. this data is being calculated from BigQuery, with no direct reporting source from GA)
+  - [ ] Goal lines are set
 
-**Contact Center Team:**
-_If needed_
-
-  - [ ] Ensure accuracy of contact center data
-  - [ ] Contact center data has appropriate dimensions, descriptions, and sources
-
-**Product Manager:**
+**Product:**
 
   - [ ] Groom descriptions for grammar, date ranges, & accuracy
   - [ ] Groom titles for grammar, date ranges, & accuracy

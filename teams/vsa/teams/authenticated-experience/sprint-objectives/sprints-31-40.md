@@ -356,17 +356,36 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Tressa: 12/21 - 1/1
 - Cassandra: 12/21 - 1/1
-- Erik: 12/24 - 25; 12/31 - 1/1
+- Erik: 12/24 - 1/1
 - Sandra: No time
 - Lihan: 12/16 - 12/29
-- Matt: 12/24 - 1/1
+- Matt: 12/17 - 12/18; 12/24 - 1/1
+- Jim Adams: 12/24 - 25; 12/31 - 1/1
+- Samara: 12/24 - 12/25; 12/30 - 1/1
 
 ### My VA redesign
 
 **Design**
 
-- Before break, convert mobile wireframes to desktop
-- Before break, submit wireframes for copy review (Samara might manage these discussions while Tressa/Cassandra are out)
+Before break
+
+- Finish converting mobile wireframes to desktop
+- Submit wireframes for copy review (**Note**: Samara will manage these discussions while Tressa/Cassandra are out)
+
+### Direct deposit for edu
+
+**Design**
+
+- Remove "add" state for direct deposit for edu from mockups #17345
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+
+**FE**
+
+- Continue frontend build
+
+### Preferred facility
+
+On hold this sprint
 
 ### VA Profile notification preferences
 
@@ -374,7 +393,60 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Create product outline
 
+### Address error logging
+
+- Stop recording address validation errors in Sentry when we no longer need it #17315
+
 ## Sprint 38 (12/30 – 1/12)
+
+Any tickets from last sprint (some are already noted), with the exception of the MVI error messaging work, plus:
+
+### Profile
+
+BE
+
+- Are we sending deprecated IDs to VA Profile? #17739
+
+### My VA redesign
+
+**Design**
+
+- Finalize desktop and mobile wireframe #17307
+- LOA1 design
+- Mock up first-time user experience
+
+### Direct deposit for edu
+
+**Main objective: Finish backend work, review the build, and be ready for QA**
+
+**BE**
+
+- Modify Ch33BankAccountsController#index method to also return bank name #17294
+- Change PUT profile/ch33_bank_account to return bank details after a successful update #17292
+
+**FE**
+
+- Make updates as needed before QA
+
+### VA Profile notification preferences
+
+**BE**
+
+- Meet with Terry
+- Technical discovery
+- Start implementation, depending on how much discovery is needed and convos with Terry
+
+## Sprint 39 (1/13 – 1/26)
+
+### Profile
+
+**FE**
+
+- Look into analytics error discrepancies #18270
+
+**BE**
+
+- Log when users have a mvi_response.status of OK then return a va profile MVI201 error #18349
 
 ### My VA redesign
 
@@ -384,84 +456,98 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 **Design**
 
-- Mock up first-time user experience
-- LOA1 design
 - Visual design
 - Gather feedback from design team
+- How do we guide people to the new My VA dashboard? #14581
+- Cerner/MHV split use case for My VA dashboard #14025
+- [Design] Submit MyVA wireframes for copy review #17530 
+
+### Direct deposit for edu
+
+BE READY FOR QA NEXT SPRINT
+
+**PM** 
+
+- Request QA for following sprint. To make sure we are ready, this requires:
+  - Making sure the feature is done (backend work is done; frontend work is properly connected to backend)
+  - Reviewing the feature
+  - Making sure Jim Adams has reviewed the feature
+  - Talking with Erik and Lihan to make sure we are 100% going to be ready for QA
+  
+**Design**
+- Review Erik's initial build
+- Error to show when we cannot connect to a Direct Deposit endpoint #18338 (note: this should not hold up QA)
 
 **FE**
-
-- Start FE build
-
-### VA Profile notification preferences
-
-**PM**
-
-- Hold platform kickoff (maybe)
+- [FE] Make updates to DD for Edu as needed prior to going into QA #18051
 
 **BE**
 
-- Technical discovery
+- Set up direct deposit for edu confirmation email #18262
 
-## Sprint 39 (1/13 – 1/26)
+### VA Profile notification preferences
 
-### My VA redesign
+**BE**
 
-**PM**
-
-**Design**
-
-- Review visual design with team; Get feedback
-- Finalize visual design
-- Finalize My VA copy
-
-**FE**
-
-- Continue FE build
-
-**Dev**
+- Technical Discovery #18054
+- Start implementation #18056
 
 ## Sprint 40 (1/27 – 2/9)
 
+Any tickets open from last sprint, plus:
+
 ### My VA redesign
 
 **PM**
 
-- Prep for usability test prep review
+Goal: Get ready for usability testing review.
+
+- Any open tickets from last sprint
+- Prep for [usability test prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#collaboration-format-30-minute-meeting-2)
 
 **Design**
 
+Goal: All design needs to be done, work needs to be submitted for copy review, and get ready for usability testing review.
+
+- Any open tickets from last sprint
+- Evaluate new My VA title #13738 (This should be part of the copy review)
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
 
 **FE**
 
-- Continue FE build
+- Start FE build (tickets pending, but epic is #18819)
 
-## Sprint 41 (2/10 – 2/23)
-
-### My VA redesign
+### Direct deposit for edu
 
 **PM**
 
-- Hold usability testing review at beginning of sprint
+- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+  - Analytics planning
+  - Meet with analytics 
+  - Oversee implementation
+- Start contact center guide
 
-**Design**
+**Design (Jim Adams)**
 
-- Recruit for research
-- Conduct research
+- Start contact center guide
+
+**QA**
+
+- Complete QA
+  - Create tickets if there are issues
 
 **FE**
 
-- FE to begin incorporating visual design
+- QA fixes, if applicable
 
-## Sprint 42 (2/24 - 3/9)
-
-### My VA redesign
+### VA Profile notification preferences
 
 **PM**
 
-**Design**
+- Kickoff with VSP
 
-- Research summary
-- Hand off final designs to FE
+**BE**
+
+- Continue/finish implementation

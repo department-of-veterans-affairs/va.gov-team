@@ -105,8 +105,8 @@ Additionally, one of the pain points we heard from users was that VA can feel fr
 ## Launch Dates
 *Target Launch Date*
 - Phase 1: November 2020
-- Phase 2: January 2020
+- Phase 2: May 2021
 - Phase 3: TBD
 
 *Actual Launch Date* 
-  - TBD
+  - TBD, currently projected for May 2021

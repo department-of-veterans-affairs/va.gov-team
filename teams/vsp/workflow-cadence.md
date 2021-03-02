@@ -76,7 +76,9 @@ Read on to learn about the different types of documentation and meetings we use 
 ## VSP Practice Area Meetings
 
 **Product**
-- Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
+- Audience: VSP Product Lead and Product Team Product Managers
+- Cadence: Bi-Weekly 
+- Purpose: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
 
 **Product PM Sync**
 - Audience: VSP Product Lead and Product Team Product Managers
@@ -102,17 +104,16 @@ Read on to learn about the different types of documentation and meetings we use 
 ## Using ZenHub for workflow management
 
 ### Releases
-- Title: name of the bet
-- Description: the full bet hypothesis
+- Title: name of the objective
+- Description: The quarter and objective name
 
-### Super Epics
-_We might re-name these Initiatives - tbd_
+### Initiatives
 
-- Title: SHORT description of the goal
+- Title: SHORT description of the problem/goal
 - Description: user story and a link to the product/service outline
-- Label: Super Epic, _team_
-- Pipeline: Now, Next, or Future
-- Release: whichever Bet it’s a part of
+- Label: VSP-initiative, _team_
+- Pipeline: Now Initiatives, Next Initiatives, or Future Initiatives
+- Release: whichever Objective this is working toward
 
 ### Epics
 
@@ -120,40 +121,40 @@ _We might re-name these Initiatives - tbd_
 - Description: ?
 - Label: Epic, _team_
 - Pipeline: Now, Next, or Future
-- Epic: whichever Super Epic(s) it’s a part of
+- Epic: whichever initiative it’s a part of
 - Release: n/a do not assign!
-
-### Milestones
-Continue using them to track Sprints
 
 ### Issue
 More info to come here
 
 ### Pipeline
 
-**Backlog > Now > Next > Future > Ready > Current Sprint > In Progress > Review/QA > Closed**
+**Backlog > Icebox > Future Initiatives > Next Initiatives > Now Initiatives > Epics > Ready > Current Sprint > In Progress > Review/QA > Closed**
 
-- Backlog: Epics and issues that have come up over time and have not yet been evaluated for priority
+- Backlog: Epics and issues that have come up over time and have not yet been evaluated for priority/still need to be groomed
 
-- Future: Epics and Super Epics that have been prioritized as a part of a team’s Future roadmap
+- Icebox: Issues, epics and initiatives that have been deprioritized and the team does not plan on working on them. 
 
-- Next: Epics and Super Epics that have been prioritized as a part of a team’s Next part of their roadmap
+- Future Initiatives: Initiatives that have been prioritized as a part of a team’s Future roadmap
 
-- Now: Epics and Super Epics that have been prioritized as a part of a team’s Now roadmap
+- Next Initiatives: Initiatives that have been prioritized as a part of a team’s Next part of their roadmap
 
-- Ready: Issues that have been fleshed out and prioritized as a part of an Epic, to be picked up in an upcoming Sprint.
+- Now Initiatives: Initiatives that have been prioritized as a part of a team’s Now roadmap
 
-- Current Sprint: filled up with issues during sprint planning
+- Epics: Large pieces of work for the initiatives that has been prioritized and the team is currently working on
 
-- In Progress: issues move here when they are being worked
+- Ready: Issues that have been groomed and prioritized as a part of an Epic, to be picked up in an upcoming Sprint.
 
-- Review/QA: issues move here when they have been worked and are ready to be tested/confirmed as complete
+- Current Sprint: Filled up with issues during sprint planning
 
-- Closed: issues, epics, and super epics that have been reviewed/QA’d and have been deemed complete (and are thus closed). This will also include issues, epics, and super epics from the backlog that have been closed with the “icebox” label to be revisited by teams in the future.
-Icebox
+- In Progress: Issues move here when they are being worked
+
+- Review/QA: Issues move here when they have been worked and are ready to be tested/confirmed as complete
+
+- Closed: Issues, epics, and initiatives that have been reviewed/QA’d and have been deemed complete (and are thus closed). This will also include issues, epics, and initiatives from the backlog that have been closed with the “icebox” label to be revisited by teams in the future.
 
 ### Icebox
-We close those issues/epics/super epics w/an “icebox” label and a “[team]” label so teams can come back and review these items in their future strategy and planning, without having them clog up the active work views.
+We close those issues/epics/initatives w/an “icebox” label and a “[team]” label so teams can come back and review these items in their future strategy and planning, without having them clog up the active work views.
 
 ### Issue estimation
 
@@ -181,9 +182,9 @@ Here are the basics of how to think about points and how to estimate:
 
 For deeper reading: [OKR - The Ultimate Guide to Objectives and Key Results](https://www.perdoo.com/the-ultimate-okr-guide/) and [Google's re:Work Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
 
-**Super Epic**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to a Super Epic. Super Epics are prioritized into the Now, Next, and Future pipelines of the ZenHub board, and together comprise your team's agile roadmap. Store Super Epics in ZenHub using the Epic functionality and the `super-epic` label, and the Milestone for the VSP Objective it is furthering. 
+**Initiative**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to an Initiative. Initiatives are prioritized into the Now Initatives, Next Initatives, and Future Initatives pipelines on the ZenHub board, and together comprise your team's agile roadmap. Store initiatives in ZenHub using the VSP Initiative template, the VSP-Initiative label and the release for the VSP Objective it is furthering. 
 
-**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on a Super Epic. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective Super Epic.
+**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on an initiative. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective initative.
 
 **User story**: "the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective." (from Atlassion). A group of user stories together should fully describe the feature or service your target user group needs. We store user stories in their respective product folder here in GitHub, and we include user stories in the epics and issues in ZenHub depending upon whether a user story is appropriate to guide the task.
 
@@ -198,8 +199,8 @@ For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/pr
 **Team Charter**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
 **Roadmap:** plans that represent the initiatives each team will focus on in the near, medium, and long term based on their consideration of forward-looking strategy, customer pain points, and VSP pain points.
-- You must have super epics (i.e. initiatives) in place for NOW, NEXT, FUTURE
-- Every NOW, NEXT, and FUTURE super epic must include in the description which Objective it is connected to
-- Every NOW super epic must include what KPIs you believe this work will impact
-- Every super epic title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
+- You must have initiatives in place for NOW, NEXT, and FUTURE 
+- Every NOW, NEXT, and FUTURE initiative must include in the description which Objective it is connected to
+- Every NOW initiative must include what KPIs you believe this work will impact
+- Every initiative title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
 

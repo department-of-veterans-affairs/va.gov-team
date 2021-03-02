@@ -32,15 +32,16 @@ INT1
 - 06/30 - Vets.gov code soft launch
 
 ## Test Users
+Test user account passwords can be found [in the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ### INT
  
-| First Name | Last Name | Middle Name | Gender | DOB | SSN | Scenario | Email | PW |
-|---|---|---|---|---|---|---|---|---|
-| Mark | Webb |  | M | 10/4/1950 | 796104437 | Veteran - enrolled in Chapter 33 | vets.gov.user+228@gmail.com or vets.gov.user+229@gmail.com | Zm9ydHkgdHdv
-| Dianne | Scott | B |F | 4/6/1969 | 796056674 | Dependent - enrolled in Chapter 33 | vets.gov.user+276@gmail.com | Zm9ydHkgdHdv
-| Leona | Wilson |  | F | 9/28/1948 | 796066619 |  | vets.gov.user+298@gmail.com | Zm9ydHkgdHdv
-| Jamie | Wood | | F | 5/24/1945 | 796060339 |  | vets.gov.user+299@gmail.com | Zm9ydHkgdHdv
+| First Name | Last Name | Middle Name | Gender | DOB | SSN | Scenario | Email |
+|---|---|---|---|---|---|---|---|
+| Mark | Webb |  | M | 10/4/1950 | 796104437 | Veteran - enrolled in Chapter 33 | vets.gov.user+228@gmail.com or vets.gov.user+229@gmail.com |
+| Dianne | Scott | B |F | 4/6/1969 | 796056674 | Dependent - enrolled in Chapter 33 | vets.gov.user+276@gmail.com |
+| Leona | Wilson |  | F | 9/28/1948 | 796066619 |  | vets.gov.user+298@gmail.com |
+| Jamie | Wood | | F | 5/24/1945 | 796060339 |  | vets.gov.user+299@gmail.com |
 
 ## API docs
 

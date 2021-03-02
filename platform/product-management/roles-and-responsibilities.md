@@ -1,10 +1,10 @@
-## Product Team Roles and Responsibilities
+## Product Roles and Responsibilities
 
 ### Roles 
 - Team Lead (DEPO)
 - Team Product Manager 
 
-- Program Product Lead (VSA, VSP)
+- Program Product Lead (VFS, VSP)
  
 
 ### Responsibilities
@@ -57,7 +57,7 @@ Product Managers are responsible for organizing the direction and implementation
 - Fulfill launch checklist criteria prior to each launch.
 
  
-#### Product Lead  
+#### Product Lead (VFS, Platform)
 ---
 Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and VFT product strategy and marketing.
 

@@ -8,7 +8,7 @@ If you want to take a look at what VIC looks like follow these easy steps:
 
 2  Login using ID.me with these credentials 
 * Usernmae; vets.gov.user+0@gmail.com
-* Password: Zm9ydHkgdHdv
+* Password: [can be looked up here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 3. Click Apply for Veteran ID Card in Footer and will get directed here
 

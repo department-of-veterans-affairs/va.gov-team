@@ -16,7 +16,7 @@ CSV.open("#{Time.now.strftime('%Y%m%d')}_ppms_specialties.csv", 'wb') do |csv|
   csv << ['Rollup ID', 'Specialty Code', 'Name']
   rollup_specialties.each do |rollup_id, rollup_values|
     rollup_values.each do |specialty|
-      csv << [rollup_id, specialty['id'], suppliesecialty['attributes']['name']]
+      csv << [rollup_id, specialty['id'], specialty['attributes']['name']]
     end
   end
 end

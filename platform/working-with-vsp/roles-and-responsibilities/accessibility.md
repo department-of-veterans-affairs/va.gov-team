@@ -81,6 +81,6 @@ No, not in its current state. The Must/Should/Consider framework for accessibili
 </details>
 
 ## Read more about accessibility
-- [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
+- [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
 [< Back to Roles and Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/roles-and-responsibilities.md)

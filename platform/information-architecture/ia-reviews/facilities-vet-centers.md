@@ -1,48 +1,48 @@
 # IA Design and Recommendations
 **STATUS: NOT STARTED**
 
-**Team:** Facilities
-
-**Product/Featue:** Vet Center pages
-
-**Background/Context:** 
-
-**IA Request:** 
+**Team:** Facilities <br>
+**Product/Featue:** Vet Center pages <br>
+**IA Request:** https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15819
 
 <hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+- Each Vet Center will have its own page, along with a child "Locations" page that will list related locations.   The "Locations" page will link to another Vet Center page if there is a page for it.  There will be no child locations in the intitial launch. 
+- The Vet Center name will be pulled from VAST for the URL and breadcrumb
+  - The breadcrumb will display the name as is
+  - The URL will replace spaces with dashes and lower case all words; all special characters will be stripped except dashes
+  - Drupal rules will manage when/if the URL should change if the data changes in source (VAST)
 
-- 
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/64e34b9e-ec87-4d3b-aca5-3ac5787e7f8c)
 
 
-Page | URL | Breadcrumb
---- | --- | ---
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Vet Center page | www.va.gov/[vet-center-name]/ | Home > [Vet center name] | - The vet center name will be pulled from VAST, rules in managing the name and corresponding H1 and URL are yet TBD <br> - The team is testing a variation of the label for "Home" in the breadcrumb. Recommendations will be based on those findings. 
+Vet Center locations page |www.va.gov/[vet-center-name]/locations/ | Home > [Vet center name] > Locations |
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
+### Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+- No left nav will be used within these pages at this time.  The team will include testing to ensure users can find a clear navigation paths between the vet center page and the locations page.  
+- A modified breadcrumb will be tested that will include a link to VA.gov home but will a different label. 
+- Users will link to these new pages via the Facility Locator tool
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
 
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
-
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+- The Facilities Team will need to identify any legacy vet center pages within VA.gov that should be "retired" and submit a redirect ticket to ensure user traffic is routed to the new Vet Center pages where applicable. 
+- Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 
@@ -51,9 +51,27 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 ### Additional Details/Recommendations
 
 <hr>
+**Closure or changes to locations**
+- Community Access Points (CAPs) and mobile locations are not permanent vet centers and can move between primary locations or be closed temporarily or permanently. 
+- A process will need to be determined on how to handle locations that are closed/changed to ensure that pages/links are properly taken down and/or traffic is redirected as needed.
+- CAPs and mobile locations will not have individual pages in the intitial launch.
+
 <hr>
 
 ### Meetings Notes and Background Info
+
+1/22/2021 - Regroup meeting with CMS and Facilities team
+- Brick and mortar vet centers will have a page that will be linked to from the Facility Locator
+  - Team will identify legacy pages that need to be redirected after launch
+- Vet center pages will have a single child "Locations" page showing other locations and linking to those pages, but they are not hierarchichal
+- There will be no left nav
+- Need to finalize naming conv for H1 and URL? vet centers and outstations are good, CAP aren't totally locked in but wouldn't have their own page, driven from VAST
+how do they go away? Need to know how to handle...
+- FL will link to them
+- legacy pages need retiring/redirect, no dual state
+- vet centers static page still a separte conversation
+- "va.gov home" in breadcrumb - will need to test
+
 
 **11/17/2020 - Usability testing prep**
 - Veterans are confused about vet center vs va clinic

@@ -1,8 +1,11 @@
 ## Situation
 
-The VA is scaling digital services through VA.gov. New experiences are prioritized and existing experiences are improved. 
-We prioritize initiatives that support VA.gov’s role as the VA’s digital front door. These initiatives help Veterans and others to find, apply, track, and manage VA benefits. 
-Products are built and improved in part through various VA.gov teams, including VSA.
+We scale the VA's digital services through VA.gov. New experiences are prioritized and existing experiences improved. <br>
+Products are built and improved in part through various VA.gov teams, including VSA.<br><br>
+We prioritize initiatives that support VA.gov’s role as the VA’s digital front door. 
+These initiatives help Veterans and others to find, apply, track, and manage VA benefits. <br><br>
+And, we know how critical feedback loops and regular reflection are in building a successful product organization.
+
 ## Opportunity 
 
 We have an opportunity to share the impact of the things we work on more often.
@@ -52,5 +55,4 @@ Every initiative—a new feature, a product launch, technical improvements—wra
        - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
        - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
 
-### June Impact Review
-  * tbupdated
+

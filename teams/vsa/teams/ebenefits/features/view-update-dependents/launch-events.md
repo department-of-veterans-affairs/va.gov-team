@@ -201,13 +201,15 @@ _Dec 2 - Dec 15_
 - Complete larger testing with other workflows
 - Test using Sidekiq jobs on FE
 - Double check for confirmation within VBMS
-- UAT/ UAT outcome PRs, email whitelist 
-- PD: Stakeholder review/ demo
-- PD: Coordinate with VA comms
+  - Checking the Timezone issue (this might not be our issue but in the interest of speed, we will resolve it)
+  - Reviewing results from Shane and building a PR to be submitted for resolving the issue
+ 
+
 
 ## Sprint 37+
 _Dec 16 - Dec 29_  
-`Mind the holoday freeze`
+`Mind the holiday freeze`
+- UAT/ UAT outcome PRs, email whitelist
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 - FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow

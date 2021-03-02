@@ -1,5 +1,13 @@
 This lists all formal research with CMS users. Feature-specific research should reside in the cross-disciplinary directory (such as [Editorial Workflow and Assignements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/)), but should be linked to from here. 
 
+#### January, 2021: CMS Help Center and JSD widget 
+
+_VA.gov CMS team: Jordana Mello_
+
+* 4 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center)
+
+
 #### November, 2020: Claro Design System study 
 
 _VA.gov CMS team: Hayley Evans, Jordana Mello_
@@ -21,13 +29,13 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
 * 4 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-personas-journeys)
+* [Research folder](cms-personas-journeys)
 
 #### CMS support channels log analysis 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
 
-* [January - February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)
+* [January - February 2020](support-channels-log-analysis)
 
 
 #### August 22 - 23, 2019: AX operating status 
@@ -35,9 +43,7 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
 _VA.gov CMS team: Lapedra Tolson_
 
 * 2 participants
-* [Research folder](ax%20research%20-%20operating%20status%20discovery%20-%20August%202019)
-
-
+* [Research folder](VAMC-operating-status-discovery-August-2019)
 
 
 
@@ -46,14 +52,14 @@ _VA.gov CMS team: Lapedra Tolson_
 _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
 
 * 8 participants, see folder in this directory.
-* [Research folder](ax%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
+* [Research folder](editorial-experience-testing-in-PGH-June-2019)
 
 #### March 5, 2019: AX Study 1
 
 _VA.gov CMS team: Eileen Webb, Kevin Walsh_
 
 * 5 participants, see folder in this directory.
-* [Research folder](ax%20research%20-%20axstudy1%20-%20March%202019)
+* [Research folder](vamc-pao-user-research-March-2019)
 
 
 
@@ -61,7 +67,7 @@ _VA.gov CMS team: Eileen Webb, Kevin Walsh_
 
 _VA.gov CMS team: Megan Casey, Kevin Walsh_
 * 20 participants, see folder in this directory.
-* [Research folder](ax%20research%20-%20discovery%20-%20January%202019)
+* [Research folder](VAMC-Pittsburgh-discovery-January2019)
 
 
 

@@ -32,6 +32,8 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [Google](#google)
 
+- [HR dashboard](#hr-dashboard)
+
 Goals
 -----------------
 
@@ -264,3 +266,13 @@ Google's use case is quite different from VA.gov, but it was worth evaluating th
 The account dashboard felt like the most relevant area to evaluate for this research. Despite the different use cases, similar patterns such as content groupings and text links to complete tasks are used on Google's dashboard. Like State Farm, it was easy to scan the content on the page thanks to lots of white space and clean typography.  This is another example  of left-hand vertical navigation, which was easy to navigate and distinct from the overall navigation.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/google-account-dashboard.png)
+
+### HR dashboard
+
+**Note: This is a late addition and was not part of Liz's original research**
+
+One of the members of the DEPO team shared this as an example of an effective dashboard. This general HR dashboard has to account for a bunch of different pieces of information, and does this well by chunking them into distinct blocks and using large headings to make the page easy to scan.
+
+![HR dashboard home](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/HR-dashboard-home.png)
+![HR dashboard_My benefits tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/HR-dashboard-my-benefits.png)
+![HR dashboard_My benefits tab continued](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/HR-dashboard-my-benefits-2.png)

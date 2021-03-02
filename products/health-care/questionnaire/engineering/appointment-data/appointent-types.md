@@ -9,12 +9,12 @@
 
 ## Appointment Type
 
-There is a type on the appointment object. But there are some questions around it. 
+There is a type on the appointment object. But there are some questions around it.
 
 ### Questions
 
-1. In the data for appointmenet types, where does the ID come from? 
-2. In the return structure of an appointment, the type is now "REGULAR". That is no where in the predefined types.  Where did that come from and where did the type go? 
+1. In the data for appointmenet types, where does the ID come from?
+2. In the return structure of an appointment, the type is now "REGULAR". That is no where in the predefined types.  Where did that come from and where did the type go?
 
 ## Answers
 
@@ -91,50 +91,49 @@ export const TYPES_OF_CARE = [
   },
 ];
 
-``` 
+```
 
 #### Appointment Datastruture from MAP
 
 ``` json
 {
-	"data": {
-		"id": "195bc02c0518870fc6b1e302cfc326b0",
-		"type": "va_appointments",
-		"attributes": {
-			"start_date": "2020-08-26T15:00:00Z",
-			"sta6aid": "983",
-			"clinic_id": "848",
-			"clinic_friendly_name": "CHY PC VAR2",
-			"facility_id": "983",
-			"community_care": false,
-			"patient_icn": "1013124304V115761",
-			"vds_appointments": [{
-				"booking_notes": "Follow-up/Routine: testing reason for visit field availability",
-				"appointment_length": "20",
-				"id": "848;20200826.090000",
-				"appointment_time": "2020-08-26T15:00:00Z",
-				"clinic": {
-					"name": "CHY PC VAR2",
-					"ask_for_check_in": false,
-					"facility_code": "983",
-					"facility": {
-						"display_name": "VDS Facility Display Name"
-					}
-				},
-				"type": "REGULAR",
-				"current_status": "NO ACTION TAKEN/TODAY"
-			}],
-			"vvs_appointments": []
-		}
-	},
-	"meta": {
-		"pagination": {
-			"current_page": 0,
-			"per_page": 0,
-			"total_pages": 0,
-			"total_entries": 0
-		}
-	}
+ "data": {
+  "id": "195bc02c0518870fc6b1e302cfc326b0",
+  "type": "va_appointments",
+  "attributes": {
+   "start_date": "2020-08-26T15:00:00Z",
+   "sta6aid": "983",
+   "clinic_id": "848",
+   "clinic_friendly_name": "CHY PC VAR2",
+   "facility_id": "983",
+   "community_care": false,
+   "patient_icn": "1013124304V115761",
+   "vds_appointments": [{
+    "booking_notes": "Follow-up/Routine: testing reason for visit field availability",
+    "appointment_length": "20",
+    "id": "848;20200826.090000",
+    "appointment_time": "2020-08-26T15:00:00Z",
+    "clinic": {
+     "name": "CHY PC VAR2",
+     "ask_for_check_in": false,
+     "facility_code": "983",
+     "facility": {
+      "display_name": "VDS Facility Display Name"
+     }
+    },
+    "type": "REGULAR",
+    "current_status": "NO ACTION TAKEN/TODAY"
+   }],
+   "vvs_appointments": []
+  }
+ },
+ "meta": {
+  "pagination": {
+   "current_page": 0,
+   "per_page": 0,
+   "total_pages": 0,
+   "total_entries": 0
+  }
+ }
 }
 ```
-

@@ -19,24 +19,33 @@ This is WIP and may evolve based on user research and technical findings.
 1.1 design has been updated to reflect interim, continuous content publishing mode. (Note: once all audiences, etc. are available, the RS homepage design may need to be updated again.)
 
 ## Browse by audience section
-- Audiences are listed alphabetically.
-- Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
-- Display audience only when RS content in the CMS has that audience checked. 
-  -  I.e., __If NO articles are using that audience tag__, do not display as an audience in the Browse by audience section.
-- On default show up to 5 audience lables. 
-- When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
-- When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
-  
+- FE: Audiences are listed alphabetically.
+- FE: Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
+- FE: Display the audience link on the RS homepage only when the tag has been checked "Promoted to homepage" in the CMS by content author. _{updated 12/9 per CMS weekly 12/9 check-in}_
+  -  I.e., __If NO articles are using that audience tag__, content author should not enable it for RS homepage "Browse by audience" section. {This is manual content process for now.} 
+- FE: On default show up to 5 audience lables. 
+- FE: When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
+- FE: When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
+
+### For Content Editor/Publisher: CMS process + FE logic on the `Browse by audience` section
+
+When the content team is ready to publish browse-by-audience links on the RS homepage, the content editor/publisher will need to:
+
+__1/__ "Promote" the audience tag to the RS homepage from the CMS > Taxonomy > Audience section. 
+
+__2/__ Then, go into the RS homepage edit view, and manually add a section header called __Browse by audience__. There is no need to manually enter audience links themselves. 
+
+__3/__ The FE template will recognize the CMS __Browse by audience__ header text as an ID and dynamically display the audiences that have been `promoted` in the CMS. 
+
 
 ## Browse by topics section
-- Display categories in the FE only when articles in the CMS has it selected as a __PRIMARY category__. 
 - Always display "VA account and profile" as the first category in the section. 
 - Display benefit categories alphabetically, after "VA account and profile."  
 - Always display "Other topics and questions" as the last category in the section. 
-- Category topics pull from the {Articles primary category} field in the CMS.
+- Category topics pull from the {Articles category} fields (primary and other) in the CMS.
 - On default show up to 2 rows (6 categories). 
 - When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
-
+- When a category has only 5 or fewer articles, do not show the "Go to all articles" link. 
   
 ## Desktop and mobile 1.1 mockups  
 

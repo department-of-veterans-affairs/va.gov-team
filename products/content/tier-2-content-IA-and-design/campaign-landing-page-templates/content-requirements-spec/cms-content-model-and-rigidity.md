@@ -17,7 +17,9 @@
 
 [Up-to-date design comps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
-## 1. Hero (required)
+## 1. Hero panel (required)
+
+Panel is required; image is optional. 
 
 **Q:** Image: What size does the front end need? What aspect ratio? 
 
@@ -41,10 +43,14 @@ Examples:
 - Family caregivers
 - Transitioning service members
 
+**Update December 16** Add a new non-controlled Audience vocabulary. New field to allow between one and 3 audiences. 
+
 
 **Q:** Share on Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
 
 **A:** Yes,**absolutely** make it boolean/optional.
+
+**Update December 16:** this will be hardcoded on FE. 
 
 ## 3. What you can do (required)
 
@@ -115,6 +121,7 @@ CLP editors can add external documents as media entities, which will ask for med
 
 **A:** For MVP: Editors can select existing events in Drupal (VAMC or Outreach Hub events).
 
+**Update Dec 16:** No "Where" field on FE teaser/thumbnail template 
 
 **Background:**
 

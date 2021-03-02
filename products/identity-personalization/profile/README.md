@@ -1,6 +1,6 @@
 # Profile Overview
 
-Last Updated July 6, 2020
+Last Updated February 8, 2021
 
 ## POCs
 - GitHub Label: Profile
@@ -49,12 +49,13 @@ The VA.gov profile (https://www.va.gov/profile) aims to answer the question — 
 
 Currently, the VA.gov profile houses people's:
 
-- Personal information
-- Contact information
+- Personal and contact information
 - Military information
 - Direct deposit information (comp & pen only)
+- Account security
+- Connected apps
 
-With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" information.
+With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" information and "Connected apps"
 
 ## Products/Projects
 
@@ -67,6 +68,7 @@ The profile is a section of VA.gov that houses multiple products/features. Below
 |Direct deposit | [Direct deposit outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
 |Address validation| [Address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)|
 |Combine profile and account (Profile 2.0)| [Profile 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)|
+Connected apps | [Connected apps outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps-data/README.md)
 
 # Implementation Info
 
@@ -81,7 +83,7 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 - Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
 - 2019 — Direct deposit added to the profile.
 - 2019/2020 – Address validation added to the Mailing and Home address fields.
-- 2020 - Profile 2.0 overhaul (launching fall 2020).
+- 2020 - Profile 2.0 redesign (launched Fall 2020).
 
 ## How to Access and Test
 
@@ -99,7 +101,7 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 - Contact information is suppported by VA Profile on the backend.
 - Direct deposit is powered by EVSS.
 - Personal information comes from MPI.
-- Military information comes from DEERS.
+- Military information comes from eMIS.
 
 ## On Call Support
 

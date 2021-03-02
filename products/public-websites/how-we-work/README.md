@@ -14,6 +14,39 @@ https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 
 - [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 
+### 2021 Roadmaps (as of 2/26/2021)
+
+<img width="669" alt="Screen Shot 2021-02-26 at 11 23 37 AM" src="https://user-images.githubusercontent.com/63107147/109327088-ef5e7480-7825-11eb-9d5e-e86335eaf53e.png">
+
+
+### VA Business Stakeholders
+
+Strategy Leads:
+
+- VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
+- VBA Digital Strategy Team (Benefits): Michelle Ralston (Chief), Sandy Tadeo, Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
+- NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
+- OPIA (VA Office of Public and Intergovernmental Affairs): Gary Hicks, Josh Tuscher (newmedia@va.gov)
+- Education Benefits: Tammy Hurley, Lucas Tickner
+- Pension Benefits: Alfreda Smith
+- Disability: Paul Shute (compensation); Fred Somers (AMO/Decision Reviews)
+
+Note: Disability and Education are the most de-centralized, go through VBA VACO to make sure you are connecting to the right SMEs.
+
+Product-specific SMEs:
+
+- VA Forms: 
+  - Brian McCarthy - VHA National Policy Lead, helping forge strategy for modernization of VA forms
+  - Diane Huber and Kevin Reid - Office of Information and Technology (OIT), manage legacy forms DB
+  - Nancy Kessenger and Yvette Allmond - VBA Form Mangers 
+  - Michelle Ralston - VBAVACO
+  
+- Find a Yellow Ribbon Program: 
+  - Tammy Hurley, Brian Grubb, Joseph Welton, Janice Fisher
+
+- Search
+  - Kevin Reid (he managed the original VA search)
+
 ### Our Product Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
 
@@ -30,9 +63,17 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ([Campaign Landing Page example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md))
 
-- Quarterly Product Reviews
+- Quarterly Product Reviews (TBD)
 
-- Product Success Metrics - [How to work with the Analytics team and make requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/analytics_requests.md)
+- Product Success Metrics
+  - [Unauth Pillar OKR/KPI Roadmap Templates](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit) 
+  - [How to work with the Analytics team and make requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/analytics_requests.md)
+
+
+- [PM Portfolio Deliverables (Foundational)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/portfolio_deliverables.md)
+
+
+
 
 ### Roadmap Process
 

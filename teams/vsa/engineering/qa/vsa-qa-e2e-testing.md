@@ -2,6 +2,11 @@
 
 **[Work In Progress]**
 
+## Who should read this?
+
+- QA Engineer
+- Front-End Engineer
+
 ## What is End-to-end (e2e) testing?
 
 End-to-end (e2e) testing on VA.gov specifically means automated browser testing.  Although not technically integration testing, browser testing does qualify as E2E -- it can reveal faults anywhere along the browser-database integration, not just the front-end.  While front-end issues are the most obvious, symptoms of some backend issues are also detectable in browser testing (e.g., missing data or page not loading).
@@ -40,5 +45,6 @@ Much of the help offered here is intended to improve e2e test-coverage, and to t
   - Double-click submission buttons.
   - Anything else to try harder breaking your product/feature.
   
+## See also
 
-
+[Cypress-TestRail integration](testrail/vsa-qa-cypress-testrail.md)

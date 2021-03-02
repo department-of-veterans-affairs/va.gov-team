@@ -13,28 +13,27 @@ In general the confirmation page should include the following elements:
 
 ### Sample template 
 
-1. The H1 for this page should carry over from H1 for the online form. <br>
+**1. The H1 for this page should carry over from H1 for the online form. <br>**
 File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1.<br> 
    
 ## File for disability compensation (Form 21-526EZ)
 
-2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>
+**2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>**
   
-      **Thank you for submitting your application** or <br>
       **We've received your application**
     
    
-3. A line of content letting users know that they can print the page for their records. <br>
+**3. A line of content letting users know that they can print the page for their records. <br>**
 
       **Please print this page for your records**
     
 
-4. A line of content letting applicant know that VA might contact them for more information or documents. <br>
+**4. A line of content letting applicant know that VA might contact them for more information or documents. <br>**
      
      **We may contact you if we need more information or documents.**
      
      
-5. Informational blue box content 
+**5. Informational blue box content** 
 
 {begin blue box}
 
@@ -46,13 +45,13 @@ File for [benefit] or Apply for [benefit] and the VA paper form equivalency appe
   
   {end blue box}
 
-6. Other content elements
+**6. Other content elements**
 
 What other content to include on the confirmation page depends on the type of benefit. Some benefit confirmation pages might need more information than others. 
 
 Content writers and designers should work together to determine the best format and content for the confirmation page, based on the type of benefit and stakeholder input. 
 
-Some examples of other information we might want to include on a form's confirmation page:                                        
+Some examples of other content or questions we might want to include on a form's confirmation page are:                                        
 
 - How long will it take VA to process the application? 
 
@@ -60,7 +59,15 @@ Some examples of other information we might want to include on a form's confirma
 
 - Are there any actions the applicant needs to take while they wait? 
 
-- What they can the applicant do if they have additional questions after they apply? 
+- What can the applicant do if they have additional questions after they apply? 
+
+**7. CTA button**
+
+We should include a button that allows users to navigate back to VA.gov
+
+{CTA button} **Go back to VA.gov**
+
+
 
 
 ------

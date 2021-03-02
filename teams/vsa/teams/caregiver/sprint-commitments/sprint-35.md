@@ -8,10 +8,10 @@
 3) Downtime integration
 
 ## Frontend
-- [X] [Frontend work to support secondary caregiver only applications](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
+- [X] [Frontend work to support secondary caregiver only applications](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16457)
 - [X] [Set up & test downtime on 10-10CG](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15753)
 - [x] Bonus downtime work (Needs ticket)
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/16568
+- [x] [Make Primary Caregiver Required](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16568)
 - [X] [Look into unnesting recent medical care questions in schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160) (blocked by backend support)
 - [ ] [Remove hasSecondaryTwo question from secondaryOne chapter](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16567)
 

@@ -1,6 +1,6 @@
 ---
 name: VSA-QA Test Plan
-about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open a ticket at least 2 SprintS before expected Platform Staging Review.
+about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open this ticket AT LEAST 2 SPRINTS BEFORE expected Platform Staging Review.
 title: '[Product/Feature] VSA-QA Test Plan'
 labels: 'vsa-qa'
 assignees: 'tlei123'
@@ -14,11 +14,10 @@ assignees: 'tlei123'
 
 \[Provide brief summary of product/feature to be tested on Staging by VSA-QA. Also, be sure to include links to the Product/Feature Outline, Epic, Pre-Launch Checklist, and Design tickets/artifacts.]
 
-Product/Feature Outline: \[provide link]
-Product/Feature Epic: \[provide link]
-Product/Feature Pre-Launch Checklist: \[provide link]
-Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
-Product/Feature Design prototypes: \[provide links]
+- Product/Feature Outline: \[provide link]
+- Product/Feature Epic: \[provide link]
+- Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
+- Product/Feature Design prototypes: \[provide links, or type "In Design prototypes"]
 
 ## Product-team SMEs
 
@@ -33,20 +32,24 @@ QA: Tze-chiu Lei
 
 ## Proposed use-cases and Staging test-accounts
 
-\[Provide specific user-senarios (all the different interactive usage-flows and/or data-specific states) to be tested.  Or, link to existing issues/docs (ideally, use [this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md) from VSA Design Lead).  IMPORTANT for authenticated-experiences: Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+\[Provide specific Use Cases (all the different interactive user-flows and data-specific states) to be tested.  Use **[this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)** -- copy the template's markdown into a new .md file inside your Product folder [next to Product Outline file], then start updating.
 
-1. <Use Case 1> - <test-account-1>
-2. <Use Case 2> - <test-account-2> ...
+IMPORTANT for authenticated products (requiring sign-in): Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+
+Link to **Use Cases doc**: \[provide link]
 
 ## How to configure this issue
 
-- [ ] Product Manager added to Assignees
+- [ ] **Product Manager** added to Assignees
 - [ ] Attached to a **Milestone** (when will this be completed?)
 - [ ] Attached to **Epic** (what body of work is this a part of? possibly `Ongoing Maintenance`)
 - [ ] Labeled with **Team** (`vsa-authenticated-exp`, `vsa-benefits`, `vsa-benefits-2`, `vsa-caregiver`, `vsa-ebenefits`, `vsa-facilities`, `vsa-public-websites`, etc.)
 
 ## Definition of Done
 
-- [ ] Test Plan reviewed by Product Team.
-- [ ] Test Plan finalized per review feedback.
-- [ ] Actual Test Runs completed on Staging \[or optional [VSA-QA Test Run ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-run.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Run) created and tracked]
+- [ ] Product references provided by Product Team.
+- [ ] Use Cases provided.
+- [ ] For authenticated products, Staging test-accounts and mock-data set up for Use Cases above.
+- [ ] Test Cases [in TestRail] finalized based on Use Cases above.
+- [ ] Test Runs completed on Staging [or Drupal pre-prod enviornment].
+- [ ] Test Reports generated.  These should be provided to VSP at least 4 workdays before [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review).

@@ -84,7 +84,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ### Team members/roles
 - James Adams | email: jadams@governmentcio.com -- Moderator, researcher
 - Samara Strauss | email: samara.strauss@va.gov -- DEPO lead
-- Matt Shea | email: mattshea@adhocteam.us -- Product manager
+- Matt Shea | email: matt.shea@adhocteam.us -- Product manager
 - Shawna Hein | email: shawna@adhocteam.us -- VSA design lead
 - Erik Hansen | email: erik@adhocteam.us -- Frontend engineer
 - Sandra Hallie | email: shallie@governmentcio.com -- Frontend engineer
@@ -99,9 +99,9 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ### Resources
 - [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit)
 
-- [Conversation guide]() `Avialable soon`
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-convo-guide.md)
 
-- [Session notes]() (Available after research sessions.)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/session-notes) (In-progress)
 
 - [Topline summary]() (Available at conclusion of research.)
 
@@ -111,7 +111,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 - [Mockups](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/)
 
-- [Prototypes]() `Available soon`
+- [Prototype](https://preview.uxpin.com/f80ffd0a5433096bc9abd52333b1e60a4ffd745d#/pages/134411565/simulate/no-panels?mode=f)
 
 - [Feature flow diagrams](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
  

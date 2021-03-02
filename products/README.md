@@ -34,7 +34,8 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 
 ### Facilities
 - [Facility locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
-- [Medical facility sites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
+- [Medical facility sites (VAMCs and Clinics)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
+- [Vet Centers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
 
 ### Global Site Elements
 - [Banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)

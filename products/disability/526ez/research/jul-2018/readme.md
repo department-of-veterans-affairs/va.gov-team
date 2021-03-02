@@ -60,7 +60,7 @@ https://staging.vets.gov/disability-benefits/apply/form-526-disability-claim
 
 - user: vets.gov.user+228@gmail.com
 
-- pw: Zm9ydHkgdHdv
+- pw: [check the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ### Production
 

@@ -18,6 +18,7 @@
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
   - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext-tempoptions)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
+  - [Count Focusable and Tabbable Elements: `hasCount(elementCategory, selector, count)`](#count-focusable-and-tabbable-elements-hascountelementcategory-selector-count)
 - [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
@@ -128,19 +129,19 @@ const mockUser = {
     attributes: {
       profile: {
         sign_in: {
-          service_name: "idme",
+          service_name: 'idme',
         },
-        email: "fake@fake.com",
+        email: 'fake@fake.com',
         loa: { current: 3 },
-        first_name: "Jane",
-        middle_name: "",
-        last_name: "Doe",
-        gender: "F",
-        birth_date: "1985-01-01",
+        first_name: 'Jane',
+        middle_name: '',
+        last_name: 'Doe',
+        gender: 'F',
+        birth_date: '1985-01-01',
         verified: true,
       },
       veteran_status: {
-        status: "OK",
+        status: 'OK',
         is_veteran: true,
         served_in_military: true,
       },
@@ -152,30 +153,30 @@ const mockUser = {
       ],
       prefills_available: [VA_FORM_IDS.FORM_21_526EZ],
       services: [
-        "facilities",
-        "hca",
-        "edu-benefits",
-        "evss-claims",
-        "form526",
-        "user-profile",
-        "health-records",
-        "rx",
-        "messaging",
+        'facilities',
+        'hca',
+        'edu-benefits',
+        'evss-claims',
+        'form526',
+        'user-profile',
+        'health-records',
+        'rx',
+        'messaging',
       ],
       va_profile: {
-        status: "OK",
-        birth_date: "19511118",
-        family_name: "Hunter",
-        gender: "M",
-        given_names: ["Julio", "E"],
-        active_status: "active",
+        status: 'OK',
+        birth_date: '19511118',
+        family_name: 'Hunter',
+        gender: 'M',
+        given_names: ['Julio', 'E'],
+        active_status: 'active',
         facilities: [
           {
-            facility_id: "983",
+            facility_id: '983',
             isCerner: false,
           },
           {
-            facility_id: "984",
+            facility_id: '984',
             isCerner: false,
           },
         ],
@@ -198,18 +199,18 @@ For example, `src/applications/hca/tests/schema` contains test data for the `hca
 
 ```javascript
 cy.syncFixtures({
-  data: "src/applications/hca/tests/schema",
-  "minimal-test.json": "src/applications/hca/tests/schema/maximal-test.json",
-  "maximal-test": "src/applications/hca/tests/schema/maximal-test.json",
+  data: 'src/applications/hca/tests/schema',
+  'minimal-test.json': 'src/applications/hca/tests/schema/maximal-test.json',
+  'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
 });
 
-cy.fixture("maximal-test").as("testData");
+cy.fixture('maximal-test').as('testData');
 ```
 
 To access the contents of the file, you can use a combination of `cy.get()` and `cy.then()`:
 
 ```javascript
-cy.get("@testData").then((testData) => {
+cy.get('@testData').then((testData) => {
   cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
 });
 ```
@@ -218,12 +219,12 @@ Once you've synced your fixtures, you can also use the [fixture shorthand form](
 
 ```javascript
 cy.syncFixtures({
-  foo: path.join(__dirname, "fixtures", "foo"),
-  bar: path.join(__dirname, "fixtures", "bar"),
+  foo: path.join(__dirname, 'fixtures', 'foo'),
+  bar: path.join(__dirname, 'fixtures', 'bar'),
 });
 
-cy.route("/v0/foo", "fixture:data/foo");
-cy.route("/v0/bar", "fx:data/bar");
+cy.route('/v0/foo', 'fixture:data/foo');
+cy.route('/v0/bar', 'fx:data/bar');
 ```
 
 #### Source file:
@@ -244,18 +245,18 @@ Allows us to access fixtures stored in different directories within your applica
 
 ```javascript
 cy.syncFixtures({
-  data: "src/applications/hca/tests/schema",
-  "minimal-test.json": "src/applications/hca/tests/schema/minimal-test.json",
-  "maximal-test": "src/applications/hca/tests/schema/maximal-test.json",
+  data: 'src/applications/hca/tests/schema',
+  'minimal-test.json': 'src/applications/hca/tests/schema/minimal-test.json',
+  'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
 });
 
-cy.fixture("maximal-test").as("testData");
+cy.fixture('maximal-test').as('testData');
 ```
 
 To access the contents of the file, call `.then()` on `cy.get()` like so:
 
 ```javascript
-cy.get("@testData").then((testData) => {
+cy.get('@testData').then((testData) => {
   cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
 });
 ```
@@ -264,12 +265,12 @@ Once you've synced your fixtures, you can also use the fixture shorthand form of
 
 ```javascript
 cy.syncFixtures({
-  foo: path.join(__dirname, "fixtures", "foo"),
-  bar: path.join(__dirname, "fixtures", "bar"),
+  foo: path.join(__dirname, 'fixtures', 'foo'),
+  bar: path.join(__dirname, 'fixtures', 'bar'),
 });
 
-cy.route("/v0/foo", "fixture:data/foo");
-cy.route("/v0/bar", "fixture:data/bar");
+cy.route('/v0/foo', 'fixture:data/foo');
+cy.route('/v0/bar', 'fixture:data/bar');
 ```
 
 ### Viewport Presets: cy.viewportPreset(preset, orientation, options)
@@ -312,7 +313,7 @@ See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 | `va-top-mobile-4` | `va-top-tablet-4` | `va-top-desktop-4` |
 | `va-top-mobile-5` | `va-top-tablet-5` | `va-top-desktop-5` |
 
-#### Usage:
+#### Usage
 
 To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('va-top-mobile-1');`.
 
@@ -320,14 +321,22 @@ To set the orientation to landscape, pass in 'landscape' as a second argument, l
 
 To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape', { log: false });`.
 
+Please note: Microsoft Windows RT Tablet viewports are reported by Google Analytics in landscape mode, the opposite of most other tablets. As mentioned, the `cy.viewportPreset()` `orientation` argument is set to `portrait` by default. If you change the orientation of a preset that is referencing a Microsoft Windows RT Tablet viewport by passing in `landscape` as the `orientation` argument, it will have the opposite effect--it be changed to portrait.
+
+#### Recommended application
+
+By default, Cypress tests run using the most common desktop viewport. It is recommended that all features should be tested using at least one additional viewport to ensure consistent functionality among different viewports, such as the top mobile viewport due to increasing traffic from mobile users. Google Analytics data provides statistics on browser usage per page on VA.gov, which can be used to determine which viewports to test.
+
+Due to substantial increases in test execution time per additional viewport tested, it is not recommended to test all top viewports per Cypress test. As a guideline, it is recommended to select enough viewports that ensure confidence in test coverage without redundant viewports being tested.
+
 ### File uploads: cy.upload(fileName, fileType)
 
 File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
 
 ```javascript
-cy.findByText("Upload", { selector: "button" }).upload(
-  "src/platform/testing/example-upload.png",
-  "image/jpg"
+cy.findByText('Upload', { selector: 'button' }).upload(
+  'src/platform/testing/example-upload.png',
+  'image/jpg'
 );
 ```
 
@@ -347,9 +356,9 @@ Allows us to upload files, which Cypress does not natively support. This impleme
 This function must be chained from a command that retrieves an upload input element.
 
 ```javascript
-cy.findByText("Upload", { selector: "button" }).upload(
-  "src/platform/testing/example-upload.png",
-  "image/jpg"
+cy.findByText('Upload', { selector: 'button' }).upload(
+  'src/platform/testing/example-upload.png',
+  'image/jpg'
 );
 ```
 
@@ -375,7 +384,7 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-Checks the current page for aXe violations.
+Checks the current page or element and children for aXe violations.
 
 #### Arguments:
 
@@ -400,6 +409,74 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
 
+#### cy.axeCheck() configuration defaults
+
+The axe-core configuration object looks like this:
+
+```javascript
+let axeBuilder = {
+  runOnly: {
+    type: 'tag',
+    values: ['section508', 'wcag2a', 'wcag2aa'],
+  },
+  rules: {
+    'color-contrast': {
+      enabled: false,
+    },
+  },
+};
+```
+
+The [axeCheck helper method](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js) scans pages for Section 508, WCAG2.0 A, and WCAG2.0 AA rulesets every time it is called in a Cypress end-to-end test.
+
+The configuration object also disables color-contrast checks. [Disabling the color-contrast rule](https://www.deque.com/axe/core-documentation/api-documentation/#other-strategies) was carefully considered and discussed with the VA 508 office as a way to improve build times and reduce false positive tests.
+
+VSP relies on [foundational accessibility tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required) and automated unit tests to provide good coverage for color contrast. VSP also strongly encourages teams to **re-enable the color-contrast check on one or two Cypress tests per suite**.
+
+#### Enable full rulesets
+
+To add an entire ruleset to your Cypress test, call `cy.axeCheck()` with two arguments:
+
+1. A CSS selector string 
+1. A `runOnly.values` array with a new ruleset entry
+
+Be sure not to remove any rulesets from the `values[]` array. [Learn more about axe-core rulesets](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) in the axe-core documentation.
+
+```javascript
+cy.axeCheck(
+  'main',
+  runOnly: {
+    values: ['section508', 'wcag2a', 'wcag2aa', 'best-practice'],
+  },
+);
+```
+
+#### Enable the color-contrast rule, or add another rule
+
+If you want to enable the color-contrast check or add another rule to your tests, call `cy.axeCheck()` with two arguments:
+
+1. A CSS selector string
+1. A `rules` object with a dash-separated string and an `{ enabled: true }` boolean object.
+
+```javascript
+cy.axeCheck(
+  'main',
+  rules: {
+    'color-contrast': {
+      enabled: false,
+    },
+    'css-orientation-lock': {
+      enabled: true,
+    },
+  },
+);
+```
+
+#### axe-core documentation
+* Learn about the [axe-core configuration parameters](https://github.com/dequelabs/axe-core/blob/develop/doc/API.md#options-parameter)
+* Learn about [axe-core rulesets](https://github.com/dequelabs/axe-core/blob/develop/doc/API.md#axe-core-tags) if you want to add WCAG2.1 or best practice rules to your Cypress test
+* Learn about [individual axe-core rules](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) if you want to add or ignore individual rules in your Cypress test
+
 ### Accessibility Convience Function: injectAxeThenAxeCheck(context, tempOptions)
 
 #### Source file:
@@ -416,6 +493,26 @@ The following arguments are passed to `cy.axeCheck()` when called inside `cy.inj
 
 - context -- a `String`, defaults to `main`
 - tempOptions -- an `Object`, defaults to an empty `Object`
+
+### Count Focusable and Tabbable Elements: hasCount(elementCategory, selector, count)
+
+#### Source file:
+
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/hasCount.js
+
+#### Description:
+
+Checks if the count of `focusable` or `tabbable` elements is correct.
+
+`focusable` elements are those in the normal tab order (native focusable elements or those with tabIndex 0). The count logic will break on tabindexes > 0 because we do not want to override the browser's base tab order.
+
+`tabbable` elements are those in the normal tab order (native focusable elements or those with tabIndex >= 0).
+
+#### Arguments:
+
+- elementCategory -- a `String`. Must be either `focusable` or `tabbable`.
+- selector -- a `String`
+- count -- an `Integer`
 
 ## Iterate Through Top VA.gov Viewports
 

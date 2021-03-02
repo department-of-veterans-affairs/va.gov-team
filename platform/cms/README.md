@@ -4,15 +4,26 @@
 
 The CMS team's mission is to empower VA content editors with the tools they need to create Veteran-centered content. We work to build a content management system that is easy to use, scalable, and facilitates Veteran-centered experiences on VA.gov and beyond.
 
-Our work includes
-* Content modeling
-* Structured content 
-* Editorial workflows
-* Governance
+The CMS has two teams, a Core Application Team and Product Support Team. Our work includes:
+
+| Core Application Team | Product Support Team |
+| --- | --- |
+| Content API (GraphQL, Content Export) | Onboarding of new Products |
+| Content Ops: Editorial Workflows & Tools | Product Strategy & Launch Runbooks |
+| User Account & Permissions Governance | Content Strategy / Modeling / Governance |
+| UX Design & Research | Drupal Engineering for Product teams |
+| DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
+| CMS Application Architecture & Quality Control | CMS Training |
+| CMS Design System | |
+| CMS Helpdesk | |
+
+
 
 ## CMS-supported products at VA.gov
 
 A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
+
+[CMS Product Sheets](VA-CMS-Product-Sheets.pdf) (PDF) provides an overview of all products managed in the CMS. 
 
 Products owned by Facilities team
 1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
@@ -57,20 +68,19 @@ Documentation about the CMS lives in various places
 
 ## How to Reach Us
 
-The CMS has two teams, a Core Application Team and Product Support Team.
-
-Core Application
+### CMS Core Application Team
 - Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
 - David Addison, Delivery Manager - Slack `@David Addison`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
+- Neil Hastings, Tech Lead - Slack `@Neil Hastings`
 - Jordana Mello, Design Lead - Slack `@Jordana Mello`
 
-Product Support
+### CMS Product Support Team
 - Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
 - Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 
-Program management
+### CMS Program management
 - Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
 
 Slack channels:

@@ -3,7 +3,7 @@ name: Contact Center Review - Request Template
 about: To request a Contact Center Review for your product
 title: Contact Center Review for [Team Name - Feature Name]
 labels: contact center, collaboration cycle, collab-cycle-review
-assignees: clantosswett, kimberley2019
+assignees: jwoodman5, kimberley2019
 
 ---
 
@@ -21,6 +21,9 @@ Please review the Self service Product Guide Template [link](https://github.com/
 ### Launch Date
 *Please provide the launch or rollout date and details.*
 
+### Version Number
+*Please provide the version number of the guide and/or video.*
+
 ### Product Guide
 *Please provide product guide link*
 
@@ -34,6 +37,6 @@ Please review the Self service Product Guide Template [link](https://github.com/
 
 
 ## Acceptance Criteria
-- [ ] VSP Analytics & Insights QA has been completed 
-- [ ] VSP Analytics & Insights sends artifacts to appropriate contact centers
-- [ ] VFS team completes brief VSP Collaboration Cycle Feedback survey [link](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before)
+- [ ] VSP Contact Center QA has been completed 
+- [ ] VSP Contact Center sends artifacts to appropriate contact centers
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated

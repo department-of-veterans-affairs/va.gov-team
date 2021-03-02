@@ -30,7 +30,6 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 - Github labels: `508/Accessibility`
 
 #### VSA Accessibility Specialist Contacts
-- Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github, jennifer.strickland@adhocteam.us
 - Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
 ### How does accessibility fit into our product lifecycle?
@@ -130,5 +129,5 @@ The following list is a set of resources to help you do your work and answer que
 
 ## VSA Accessibility Dashboard
 
-The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Jennifer if you don't have access and would like to review.
+The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Josh if you don't have access and would like to review.
 

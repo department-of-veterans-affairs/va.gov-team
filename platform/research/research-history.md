@@ -12,7 +12,84 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+###  2021
+
+### Feburary 2021
+
+#### Feb 15 - Feb 19: Mobile Facility Locator Usability Study
+*VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
+
+- Number of participants: TBD
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mobile-experience)
+- Mobile, facility, locations
+
+
+### January 2021
+
+#### January 27 - February 8, 2021: VA.gov Search Usability Study
+*VA Global Search, Lead Researcher: Megan Gayle*
+
+- Number of participants: 10
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research)
+- List of keywords: Global Search, Find a Form, Find a Facility, On-site Search
+
+#### Jan 21 - Feb 05: VAOS Appointments List Usability Study
+*VA Online Scheduling, Lead Researcher: Peter Russo*
+
+- Number of participants: 5
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+- Appointments, Scheduling, VAOS, Dashboard, Home page
+
+
 ###  2020
+
+
+### December 2020
+
+#### Dec 14-18: All "Primary care questionnaire" MVP Workflows Research
+*Health care Experience/Questionnaires, Lead Researcher: Kristen McConnell*
+
+- Number of participants: 10
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/all-mvp-workflows)
+- List of keywords: Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing, Text Messages, Email, Notifications 
+
+
+
+#### December 14-17: Keep Me Informed Usability Testing
+*Office of the CTO. Lead researcher: Lauryl Zenobi*
+
+- Number of participants: 11
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
+
+- Keywords: covid-19 vaccine, vaccine updates, coronavirus
+
+
+#### December 14 - December 18: IRIS Usability Testing 
+
+*IRIS Redesign. Lead researcher: Rachel M. Murray*
+
+- Number of participants: 8
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+
+- Keywords: IRIS, contact us form, inquiry
+
+
+#### December 9-16 : Vet Center Product - Usability V1
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 9 (All Veterans, 2 Vet Center clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
+
+
+#### Nov 30- Dec 7th: Direct Deposit for Edu
+*Authenticated Experience, Lead Researcher: Jim Adams*
+
+- Number of participants: 5
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing)
+- List of keywords: Direct Deposit, compensation, pension, benefits, education, change, update
+
 
 ### November 2020
 
@@ -21,7 +98,29 @@ This does not include research for Appeals projects, which is stored in differen
 
 -16 participants (4-8 therapists / social workers. 8-12 veterans) 
 
-- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/nov-2020)
+
+
+
+#### November 18 - November 24: Medallia Usability Testing
+*VSP Contact Center Team. Lead researcher: Ian McCullough*
+
+- 9 participants (all veterans)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia/research)
+
+#### November 13 - December 7: Community Care Provider Selection Research** 
+*VAOS, Peter Russo*
+
+- 8 Veterans
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- Scheduling, Appointments
+
+#### November 6 - November 20: Community Care Request Manager Research
+*GovernmentCIO, VSA Facilities, Lead researcher: Chris Logan
+
+-7 participants (6 CCRMs / 1 CCRM Supervisor) 
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
 
 #### October 15 - November 3:  Comparison Tool Redesign Research
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
@@ -50,7 +149,7 @@ This does not include research for Appeals projects, which is stored in differen
 - **Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing 
 
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
-*Ad Hoc: VSA Facilities, Leyda Hughes*
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 15 participants (8 clients)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
@@ -71,7 +170,7 @@ This does not include research for Appeals projects, which is stored in differen
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
 
 #### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
-*Ad Hoc: VSA Facilities, Leyda Hughes*
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
@@ -81,7 +180,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
 **Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
 
-#### August 10-14
+#### August 10-14 Patient Generated Data Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
 - 9 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)

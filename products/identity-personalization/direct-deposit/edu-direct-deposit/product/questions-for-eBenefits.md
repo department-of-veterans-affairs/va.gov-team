@@ -4,9 +4,23 @@
 
 **Can you add direct deposit information if you are eligible but have not yet set up direct deposit (eg. You currently receive payment via checks, or didn’t give bank info on a benefit application)?**
 
+**TL;DR**: As of 12/2020, we can not find and endpoint in the code that allows for people who receive paper checks to add direct deposit info, and the eBenefits team has not been able to prove that this exists in eBenefits.
+
 Melissa Rebstock on 10.22.20 via email:
 
 > If you’re asking whether a person in receipt of a paper check can go online to change it to and establish DD/EFT, then, yes, they can. 
+
+However, [in Slack on 11.30.20](https://dsva.slack.com/archives/C1VBAHWQL/p1606772515099000), Mahesh Raparti said:
+
+> Looked up requirements, couldn't find anything around it!
+
+And BGS has otherwise *not* been able to provide guidance on this in the code.
+
+As of 12.7.20 over email, Melissa Rebstock changed her initial answer and said the following:
+
+> I don’t ever recall even testing this piece in eBen and was thinking it was the same as C&P, but going through what I can find, I don’t think we do allow EDU user to switch from paper check to DD/EFT online.  I have someone on my team going through our test accounts to see if we have any in receipt of EDU benefits that we could check. 
+
+We never heard back, so I am assuming they never found anything.
 
 **How much traffic should we expect weekly/monthly for this feature?**
 

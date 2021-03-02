@@ -32,30 +32,30 @@ At the beginning of form or tool work, the product team holds a kickoff to deter
 After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have a picture of the larger process. 
 
 **DESIGN**:
-Identify if new functionalities are required for this form. If so, discuss with developer and work on high-fidelity mockups about what the pattern would look like.  
+Identify if new functionalities are required for this form. If so, discuss with developer and work on mockups about what the pattern would look like.  
 
 - Use design review process to get feedback from design team
 - Check with design system to make sure new patterns aren't reiventing the wheel. 
 	
 
 **CONTENT and DESIGN**: 
-Content editor begins to create an outline for the form and a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
+Content editor begins to create an outline in Github for the form or tool, with a list of content and interaction notes. See an example here: [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
-- Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
-- Identify questions that are dependent on other questions 
-- What instructions need to appear on the online form? 
-- What form question/labels need a plain language edit?  
-- Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
-[See VA.gov form label masterlist of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
-- Discuss content that will go on the form Introduction (subway map) page
-- Discuss content that will go on the form Confirmation page
+- Identify how form questions and fields will be rendered (e.g. radio buttons, drop-down fields)
+- Identify questions that are dependent on other questions or responses
+- What paper instructions need to appear on the online form? 
+- What form question/labels need a plain-language edit?  
+- Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through a plain language edit. <br>
+[See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
+- Discuss with designer what content should go on the form Introduction (subway map) page
+- Discuss with designer what content should go on the form Confirmation page
 
 **CONTENT and DESIGN**: 
-Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
+Discuss the entry and exit points for the form/tool. How will users get to it? It's recommended that an I/A specialist is part of this conversation.  
 
 - Does the form or tool require changes to the navigation or if there any part of the form/tool that requires an applicant to step out of the form (a form within the form)? 
-- What related static content needs to be updated to support the form/tool? (for example, do we need to add a CTA button or wizard to Eligiblity and How to Apply pages?)
-- Does a new static landing page need to be created or updated for the form or tool launch? (**If so, please coordinate with the VSA-public-website team for static content. That team is reponsible for writing static page content and updates**)
+- What related static content needs to be updated to support the form/tool? (For example, do we need to add a CTA button or wizard to Eligiblity and How to Apply pages? Does any Eligiblity or Apply static content need to be added or rewritten to support the tool?) (**Please coordinate with the VSA-public-websites team for all static content. That team is reponsible for writing static page content and updates**)
+- Does a new static landing page need to be created to take users to the form/tool? (**If so, please coordinate with the VSA-public-websites team for all static content. That team is reponsible for writing static page content and updates**)
 	
 	
 **CONTENT/DESIGN/DEVELOPER**: 
@@ -66,13 +66,13 @@ Discuss if any specific error messaging need to be written for the form/tool or 
 
 -----
 
-**CONTENT EDITOR** does a plain-language and VA.gov voice/tone edit on the form/tool outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
+**CONTENT EDITOR** does a plain-language and VA.gov voice/tone edit on the Github outline. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
 
 **CONTENT EDITOR** begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
 [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
 [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
-**PRODUCT TEAM PM** schedules a Collaboration Cycle Pre-usability review with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Pre-usability Review with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
 
 
 ## Usability testing
@@ -98,7 +98,7 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 -----
 
-Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build out the online application in code.  
+Once usability sessions are complete, any content updates from the usability session should be input into the Github outline. Developers will use this outline to build out the application/tool in code.  
 
 1. As chapters are built, developer should assign **CONTENT WRITER or EDITOR** as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
@@ -125,7 +125,7 @@ This proofread pass is to ensure all edits made in the individual chapter screen
 Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input.
 
 
-**PRODUCT TEAM PM** schedules a Collaboration Cycle Staging review with the VSP Platform team before form or tool launches.
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Staging Review with the VSP Platform team before form or tool launches.
 
 
 

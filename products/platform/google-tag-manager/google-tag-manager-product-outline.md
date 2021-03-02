@@ -19,6 +19,7 @@ VFS teams (product managers/owners and front end developers) request tags and im
 ### Key Performance Indicators (KPIs)
  - % of live VFSs with Google Tag Manager implemented
  - Number of VFSs with Google Tag Manager implemented correctly
+ - Time to complete Google Tag Manager customer support
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._

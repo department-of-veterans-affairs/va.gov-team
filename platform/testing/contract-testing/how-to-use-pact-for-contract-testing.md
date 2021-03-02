@@ -1,10 +1,10 @@
-# How to use Pact for contract testing (in progress)
+# How to use Pact for contract testing
 
 #### Table of contents
 
 - [Introduction](#introduction)
   * [Terminology](#terminology)
-  * [Requirements](#requirements-draft)
+  * [Requirements](#requirements)
   * [Workflow](#workflow)
       - [Front-end workflow](#front-end-workflow)
       - [Back-end workflow](#back-end-workflow)
@@ -61,9 +61,12 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 - **pact**: A contract between a consumer and provider is called a _pact_. Each pact is a collection of _interactions_.
 - **interaction**: A request and response pair.
 - **provider state**: The description of a state that the consumer expects the provider to be in. In a test, the provider handles a state by doing the necessary setup to acccommodate a request.
-- **broker**: The central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
+- **broker**: The central location where pacts are hosted. The [Pact broker](https://dev.va.gov/_vfs/pact-broker) is hosted internally. You can view the interactions per endpoint and the verification matrix from the broker index.
 
-### Requirements (draft)
+
+### Requirements
+
+**Effective date TBD**
 
 VFS teams are required to use Pact for contract testing in the following scenarios:
 
@@ -74,7 +77,7 @@ VFS teams are required to use Pact for contract testing in the following scenari
 
 To meet this requirement, your team will need to either create a Pact test or update an existing Pact test for the vets-api endpoints used. Integrations that only use vets-api as a proxy to another service are exempt from this requirement.
 
-VSP does not currently actively enforce this requirement (last updated 9/2020).
+VSP does not currently actively enforce this requirement (last updated 1/2021).
 
 PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md).
 
@@ -115,7 +118,7 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
 
 The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions.** The goal is for developers to understand any interaction in a pact.
 
-To use an example, we will be referring to [this pact from the broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest), which describes the interactions between the *Search app* and *VA.gov API*.
+To use an example, we will be referring to [this pact from the broker](https://https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest), which describes the interactions between the *Search app* and *VA.gov API*.
 
 In that pact, there is an interaction with this description:
 > Given **at least one matching result exists**, upon receiving **a search query** from **Search**, with `<request>` **VA.gov API** will respond with `<response>`.
@@ -456,9 +459,12 @@ Error: Pact verification failed - expected interactions did not match actual.
 
 There are some possibilities to double-check with the request or response.
 1. The request might not match the URL from the interaction.
-2. The contents (headers or boddy) of the request or response might not match what you defined in the interaction.
+2. The contents (headers or body) of the request or response might not match what you defined in the interaction.
 
-When debugging, it might help to inspect the properties of the request and response at different steps in the function making the request.
+
+In the first case, be sure to set `BUILDTYPE=localhost` before `yarn test:unit path/to/spec` if you are running an individual test locally. Then make sure the test is running code that makes a request to the URL from the interaction.
+
+For the second case, the logs mentioned earlier (`logs/pact.log`) may contain the diffs between the expected and actual interactions. As you debug, it might help to inspect the properties of the payload at various steps leading up to the request.
 
 ## Configuring the `vets-api` provider codebase
 
@@ -478,11 +484,21 @@ Please see the [provider state documentation](https://github.com/pact-foundation
 
 If you're waiting on frontend to generate the contract and push to the broker, you can use a temporary (local) contract. You can verify a pact at any arbitrary local or remote URL using the `pact:verify:at` task.
 
+##### Native Workflow
 Example local file path:
 
 ```
 rake pact:verify:at[tmp/hca-va.gov_api.json]
 ```
+
+##### Docker Workflow
+Example local file path:
+
+```
+make pact PACT_URI=tmp/hca-va.gov_api.json
+```
+
+Be sure to follow the [Docker workflow settings](#important-docker-workflow-settings) detailed below before running the task.
 
 #### Expected responses
 
@@ -490,11 +506,11 @@ To determine an endpoints expected response, look at the defined response in the
 
 #### Naming Guidelines
 
-* Provider states -- Provider states are defined in the `service_consumers/provider_states_for/*.rb` directory. Provider States must follow a strict naming protocol and are categorized by consumer name per pact. (Example: Search, Users, HCA, etc.) See the [Consumer column of the Heroku Pact broker](https://vagov-pact-broker.herokuapp.com/) for examples.
+* Provider states -- Provider states are defined in the `service_consumers/provider_states_for/*.rb` directory. Provider States must follow a strict naming protocol and are categorized by consumer name per pact. (Example: Search, Users, HCA, etc.) See the [Consumer column of the Pact broker](https://https://dev.va.gov/_vfs/pact-broker) for examples.
 
 * Consumer name -- The consumer name in your defined `provider_state_for` block must match the name of the consumer configured in your consumer project for the verification task to correctly find the provider states. See [Search Example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3)
 
-* Provider state block -- The [provider state block](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L4) must match the corresponding definition defined in the pact as well. In the [search example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) a "multiple matching results exist" interaction is defined and a provider state matching this defintion will need to be defined on the [backend](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-102a9104474b45510528e3e28a8071c0R4).
+* Provider state block -- The [provider state block](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L4) must match the corresponding definition defined in the pact as well. In the [search example](https://https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest) a "multiple matching results exist" interaction is defined and a provider state matching this defintion will need to be defined on the [backend](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-102a9104474b45510528e3e28a8071c0R4).
 
 #### Authorization
 
@@ -502,7 +518,7 @@ If an authorized `vets-api` user is needed for a request to an endpoint, a helpe
 
 #### VCR
 
-Many of the `vets-api` endpoints call out to external services. To mock external service calls, the pact helper has VCR configured for usage. VCR cassettes can be used to mock external service responses for many of the `vets-api` third party service calls. The defined provider state in the [search example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) makes use of a VCR cassette.
+Many of the `vets-api` endpoints call out to external services. To mock external service calls, the pact helper has VCR configured for usage. VCR cassettes can be used to mock external service responses for many of the `vets-api` third party service calls. The defined provider state in the [search example](https://https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest) makes use of a VCR cassette.
 
 ***Important***:
 If using cassettes across provider states in the same file, you may want to explicily define the VCR cassette ejection. ```VCR.eject_cassette('search/success_utf8')``` There was a bug noted that the provider state tear downs were ejecting all cassettes and not just the one they load, resulting in odd VCR behavior.
@@ -514,14 +530,14 @@ In the case that you don't have VCR tapes to cover multiple states for various i
 
 #### Configure the `pact_uri/broker_url`
 
-To work with only one pact in the broker, you can verify a pact at any remote URL using the `pact:verify:at task`. Otherwise, the rake task will run all the pacts pushed to the [heroku broker](https://vagov-pact-broker.herokuapp.com/).
+To work with only one pact in the broker, you can verify a pact at any remote URL using the `pact:verify:at task`. Otherwise, the rake task will run all the pacts pushed to the [broker](https://https://dev.va.gov/_vfs/pact-broker).
 
 ```
-rake pact:verify:at[https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest]
+rake pact:verify:at[https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest]
 
 OR via docker flow
 
-make pact PACT_URI=https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest
+make pact PACT_URI=https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest
 ```
 
 *Note: If you are blocked by the frontend, you can [point to a local file path](#using-a-local-file-if%20blocked-by-frontend)*
@@ -543,7 +559,7 @@ OR
 # if following the docker workflow and working with only one pact,
 # you can pass in a pact uri (broker url or local path) to the docker pact makefile target
 
-make pact PACT_URI=https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest
+make pact PACT_URI=https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest
 # broker url example
 
 make pact PACT_URI=tmp/hca-va.gov_api.json
@@ -597,7 +613,7 @@ When your verification status is all green, please reconfigure your changes from
 
 ### Broker matrix and tagging
 
-The verification matrix acts as a success metric for verification status (green or red). See the [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search) in the pact broker for a provider verification matrix.
+The verification matrix acts as a success metric for verification status (green or red). See the [search example](https://dev.va.gov/_vfs/pact-broker/matrix/provider/VA.gov%20API/consumer/Search) in the pact broker for a provider verification matrix.
 
 Additionally, each verification run is tagged with the Git branch name and Git SHA in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
 
@@ -616,7 +632,7 @@ bundle exec rake pact:verify:at[http://your-pact-broker/pacts/provider/PROVIDER/
 The actual URL should point to the pact that was published from the vets-website feature branch. A specific URL might look something like this, where the version is the commit hash on the feature branch that created the new pact:
 
 ```
-https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/HCA/version/d553c678bbdf1963fe3e27250eebc7c17b26fd55
+https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/HCA/version/d553c678bbdf1963fe3e27250eebc7c17b26fd55
 ```
 
 After the vets-api feature branch is merged to master, that pact should be able to pass verification.

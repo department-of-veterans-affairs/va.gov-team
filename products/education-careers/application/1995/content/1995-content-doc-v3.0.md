@@ -372,7 +372,7 @@ Form 22-1995
 
 #### We've received your application. 
 
-We usually process applications within 30 days.
+We usually process applications within **30 days**.
 
 We may contact you if we need more information or documents.
 

@@ -54,6 +54,10 @@ We may also use milestones for specific product milestones, such as an MVP or re
 
 <a name="milestones">
 
+## Code Review Process
+
+The code review process in Github is stored on the [va.gov-cms repostory](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/code-review.md).
+
 
 ---- Everything below this is still in draft ----
 

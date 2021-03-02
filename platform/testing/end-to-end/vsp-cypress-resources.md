@@ -8,14 +8,12 @@ The following helpers and mocks are currently used within Cypress tests on `vets
 
 1. [Cypress & VAOS Helpers](#cypress-vaos-helpers)
    1. [initApplicationMock](#init-application-mock)
-   2. [hasFocusableCount](#has-focusable-count)
-   3. [hasTabbableCount](#has-tabbable-count)
-   4. [initMockProfile](#init-mock-profile)
-   5. [initAppointmentListMock](#init-appointment-list-mock)
-   6. [createPastVAAppointments](#create-past-va-appointments)
-   7. [initCommunityCareMock](#init-community-care-mock)
-   8. [initExpressCareMocks](#init-express-care-mocks)
-   9. [initVAAppointmentMock](#init-va-appointment-mock)
+   2. [initMockProfile](#init-mock-profile)
+   3. [initAppointmentListMock](#init-appointment-list-mock)
+   4. [createPastVAAppointments](#create-past-va-appointments)
+   5. [initCommunityCareMock](#init-community-care-mock)
+   6. [initExpressCareMocks](#init-express-care-mocks)
+   7. [initVAAppointmentMock](#init-va-appointment-mock)
 2. [Appointment Helpers](#appointment-helpers)
    1. [chooseTypeOfCareTest](#choose-type-of-care-test)
    2. [chooseVAFacilityTest](#choose-va-facility-test)
@@ -59,76 +57,12 @@ export const initApplicationMock = (
   profile = institutionProfile,
   results = searchResults
 ) => {
-  cy.route("GET", "/v0/gi/institutions/autocomplete**", autocomplete).as(
-    "defaultAutocomplete"
+  cy.route('GET', '/v0/gi/institutions/autocomplete**', autocomplete).as(
+    'defaultAutocomplete'
   );
-  cy.route("GET", "/v0/gi/institutions/search**", results).as("defaultSearch");
+  cy.route('GET', '/v0/gi/institutions/search**', results).as('defaultSearch');
 
   initMockProfile(profile);
-};
-```
-
-#### hasFocusableCount <a name="has-focusable-count"></a>
-
-Import: `import { hasFocusableCount } from './cypress-helpers'`
-
-Purpose: Checks if count of focusable elements is correct. Focusable elements are those in the normal tab order (native focusable elements or those with tabIndex 0). The count logic will break on tabindexes > 0 because we do not want to override the browser's base tab order.
-
-Reference:
-
-```javascript
-export const hasFocusableCount = (selector, count) => {
-  const focusableElements = [
-    "a[href]",
-    "button",
-    "details",
-    'input[type="text"]',
-    'input[type="email"]',
-    'input[type="password"]',
-    'input[type="search"]',
-    'input[type="tel"]',
-    'input[type="url"]',
-    'input[type="radio"]',
-    'input[type="checkbox"]',
-    "select",
-    "textarea",
-    '[tabindex="0"]',
-    '[tabindex="-1"]',
-  ];
-  const msg = `Page does not contain ${count} focusable elements.`;
-  elementsWithinCount(focusableElements, selector, count, msg);
-};
-```
-
-#### hasTabbableCount <a name="has-tabbable-count"></a>
-
-Import: `import { hasFocusableCount } from './cypress-helpers'`
-
-Purpose: Checks if the count of tabbable elements is correct. Tabbable elements are those in the normal tab order (native focusable elements or those with tabIndex >= 0).
-
-Reference:
-
-```javascript
-export const hasTabbableCount = (selector, count) => {
-  const tabbableElements = [
-    "a[href]",
-    "button",
-    "details",
-    'input[type="text"]',
-    'input[type="email"]',
-    'input[type="password"]',
-    'input[type="search"]',
-    'input[type="tel"]',
-    'input[type="url"]',
-    'input[type="radio"]:checked',
-    'input[type="checkbox"]',
-    "select",
-    "textarea",
-    '[tabindex]:not([tabindex="-1"])',
-  ];
-
-  const msg = `Page does not contain ${count} tabbable elements.`;
-  elementsWithinCount(tabbableElements, selector, count, msg);
 };
 ```
 
@@ -143,7 +77,7 @@ Reference:
 ```javascript
 export const initMockProfile = (profile) => {
   const facilityCode = profile.data.attributes.facility_code;
-  cy.route("GET", `/v0/gi/institutions/${facilityCode}`, profile).as(
+  cy.route('GET', `/v0/gi/institutions/${facilityCode}`, profile).as(
     `profile${facilityCode}`
   );
 };
@@ -165,53 +99,53 @@ export function initAppointmentListMock() {
   mockSupportedSites();
 
   cy.route({
-    method: "GET",
-    url: "/vaos/v0/appointment_requests*",
+    method: 'GET',
+    url: '/vaos/v0/appointment_requests*',
     response: updateRequestDates(requests),
   });
 
   cy.route({
-    method: "GET",
+    method: 'GET',
     url: /.*\/v0\/appointments.*type=va$/,
     response: updateConfirmedVADates(confirmedVA),
   });
 
   cy.route({
-    method: "GET",
+    method: 'GET',
     url: /.*\/v0\/appointments.*type=cc$/,
     response: updateConfirmedCCDates(confirmedCC),
   });
 
   cy.route({
-    method: "GET",
-    url: "/vaos/v0/facilities/983/cancel_reasons",
+    method: 'GET',
+    url: '/vaos/v0/facilities/983/cancel_reasons',
     response: cancelReasons,
   });
 
   cy.route({
-    method: "PUT",
-    url: "/vaos/v0/appointments/cancel",
-    response: "",
+    method: 'PUT',
+    url: '/vaos/v0/appointments/cancel',
+    response: '',
   });
 
   cy.route({
-    method: "GET",
+    method: 'GET',
     url:
-      "/vaos/v0/appointment_requests/8a48912a6cab0202016cb4fcaa8b0038/messages",
+      '/vaos/v0/appointment_requests/8a48912a6cab0202016cb4fcaa8b0038/messages',
     response: {
       data: [
         {
-          id: "8a48912a6cab0202016cb4fcaa8b0038",
-          type: "messages",
+          id: '8a48912a6cab0202016cb4fcaa8b0038',
+          type: 'messages',
           attributes: {
             surrogateIdentifier: {},
-            messageText: "Request 2 Message 1 Text",
-            messageDateTime: "11/11/2019 12:26:13",
-            senderId: "1012845331V153043",
-            appointmentRequestId: "8a48912a6cab0202016cb4fcaa8b0038",
-            date: "2019-11-11T12:26:13.931+0000",
-            assigningAuthority: "ICN",
-            systemId: "var",
+            messageText: 'Request 2 Message 1 Text',
+            messageDateTime: '11/11/2019 12:26:13',
+            senderId: '1012845331V153043',
+            appointmentRequestId: '8a48912a6cab0202016cb4fcaa8b0038',
+            date: '2019-11-11T12:26:13.931+0000',
+            assigningAuthority: 'ICN',
+            systemId: 'var',
           },
         },
       ],
@@ -234,23 +168,23 @@ export function createPastVAAppointments() {
   let appointment = getVAAppointmentMock();
   appointment.attributes = {
     ...appointment.attributes,
-    startDate: moment().add(-3, "days").format(),
-    clinicFriendlyName: "Three day clinic name",
-    facilityId: "983",
-    sta6aid: "983GC",
+    startDate: moment().add(-3, 'days').format(),
+    clinicFriendlyName: 'Three day clinic name',
+    facilityId: '983',
+    sta6aid: '983GC',
   };
-  appointment.attributes.vdsAppointments[0].currentStatus = "CHECKED OUT";
+  appointment.attributes.vdsAppointments[0].currentStatus = 'CHECKED OUT';
   appointments.push(appointment);
 
   appointment = getVAAppointmentMock();
   appointment.attributes = {
     ...appointment.attributes,
-    startDate: moment().add(-4, "months").format(),
-    clinicFriendlyName: "Four month clinic name",
-    facilityId: "983",
-    sta6aid: "983GC",
+    startDate: moment().add(-4, 'months').format(),
+    clinicFriendlyName: 'Four month clinic name',
+    facilityId: '983',
+    sta6aid: '983GC',
   };
-  appointment.attributes.vdsAppointments[0].currentStatus = "CHECKED OUT";
+  appointment.attributes.vdsAppointments[0].currentStatus = 'CHECKED OUT';
   appointments.push(appointment);
 
   return {
@@ -272,25 +206,25 @@ export function initCommunityCareMock() {
   setupSchedulingMocks();
 
   cy.route({
-    method: "GET",
-    url: "/vaos/v0/appointments?start_date=*&end_date=*&type=va",
+    method: 'GET',
+    url: '/vaos/v0/appointments?start_date=*&end_date=*&type=va',
     response: updateConfirmedVADates(confirmedVA),
   });
 
   cy.route({
-    method: "POST",
-    url: "/vaos/v0/appointment_requests?type=*",
+    method: 'POST',
+    url: '/vaos/v0/appointment_requests?type=*',
     response: {
       data: {
-        id: "testing",
+        id: 'testing',
         attributes: {},
       },
     },
   });
 
   cy.route({
-    method: "POST",
-    url: "/vaos/v0/appointment_requests/testing/messages",
+    method: 'POST',
+    url: '/vaos/v0/appointment_requests/testing/messages',
     response: [],
   });
 }
@@ -310,43 +244,43 @@ export function initExpressCareMocks() {
   initAppointmentListMock();
 
   cy.route({
-    method: "GET",
-    url: "/vaos/v0/request_eligibility_criteria*",
+    method: 'GET',
+    url: '/vaos/v0/request_eligibility_criteria*',
     response: {
-      data: getExpressCareRequestCriteriaMock("983", [
+      data: getExpressCareRequestCriteriaMock('983', [
         {
-          day: today.clone().tz("America/Denver").format("dddd").toUpperCase(),
+          day: today.clone().tz('America/Denver').format('dddd').toUpperCase(),
           canSchedule: true,
           startTime: today
             .clone()
-            .subtract("2", "minutes")
-            .tz("America/Denver")
-            .format("HH:mm"),
+            .subtract('2', 'minutes')
+            .tz('America/Denver')
+            .format('HH:mm'),
           endTime: today
             .clone()
-            .add("2", "minutes")
-            .tz("America/Denver")
-            .format("HH:mm"),
+            .add('2', 'minutes')
+            .tz('America/Denver')
+            .format('HH:mm'),
         },
       ]),
     },
-  }).as("getRequestEligibilityCriteria");
+  }).as('getRequestEligibilityCriteria');
 
   mockRequestLimits();
 
   cy.route({
-    method: "GET",
-    url: "/vaos/v0/facilities?facility_codes[]=983",
+    method: 'GET',
+    url: '/vaos/v0/facilities?facility_codes[]=983',
     response: {
       data: [
         {
-          id: "983",
+          id: '983',
           attributes: {
             ...getParentSiteMock().attributes,
-            institutionCode: "983",
-            authoritativeName: "Some VA facility",
-            rootStationCode: "983",
-            parentStationCode: "983",
+            institutionCode: '983',
+            authoritativeName: 'Some VA facility',
+            rootStationCode: '983',
+            parentStationCode: '983',
           },
         },
       ],
@@ -354,18 +288,18 @@ export function initExpressCareMocks() {
   });
 
   cy.route({
-    method: "POST",
-    url: "/vaos/v0/appointment_requests?type=va",
+    method: 'POST',
+    url: '/vaos/v0/appointment_requests?type=va',
     response: {
       data: {
-        id: "testing",
+        id: 'testing',
         attributes: {
-          typeOfCareId: "CR1",
-          email: "test@va.gov",
-          phoneNumber: "5555555555",
-          reasonForVisit: "Cough",
-          additionalInformation: "Whatever",
-          status: "Submitted",
+          typeOfCareId: 'CR1',
+          email: 'test@va.gov',
+          phoneNumber: '5555555555',
+          reasonForVisit: 'Cough',
+          additionalInformation: 'Whatever',
+          status: 'Submitted',
         },
       },
     },
@@ -403,7 +337,7 @@ Reference:
 
 ```javascript
 export function chooseTypeOfCareTest(label) {
-  cy.url().should("include", "/new-appointment");
+  cy.url().should('include', '/new-appointment');
   cy.axeCheck();
   cy.findByLabelText(label).click();
   cy.findByText(/Continue/).click();
@@ -418,11 +352,11 @@ Reference:
 
 ```javascript
 export function chooseVAFacilityTest() {
-  cy.url().should("include", "/va-facility");
+  cy.url().should('include', '/va-facility');
   cy.axeCheck();
   cy.findByLabelText(/CHYSHR/).click();
   cy.findByLabelText(
-    "CHYSHR-Cheyenne VA Medical Center (Cheyenne, WY)"
+    'CHYSHR-Cheyenne VA Medical Center (Cheyenne, WY)'
   ).click();
   cy.findByText(/Continue/).click();
 }
@@ -436,9 +370,9 @@ Reference:
 
 ```javascript
 export function chooseClinicTest() {
-  cy.url().should("include", "/clinics");
+  cy.url().should('include', '/clinics');
   cy.axeCheck();
-  cy.findByLabelText("CHY PC CASSIDY").click();
+  cy.findByLabelText('CHY PC CASSIDY').click();
   cy.findByText(/Continue/).click();
 }
 ```
@@ -451,14 +385,14 @@ Reference:
 
 ```javascript
 export function choosePreferredDateTest() {
-  cy.url().should("include", "/preferred-date");
+  cy.url().should('include', '/preferred-date');
   cy.axeCheck();
 
-  const preferredDate = today.add(4, "days");
+  const preferredDate = today.add(4, 'days');
 
-  cy.findByLabelText("Month").select(preferredDate.format("MMM"));
-  cy.findByLabelText("Day").select(preferredDate.format("D"));
-  cy.findByLabelText("Year").type(preferredDate.format("YYYY"));
+  cy.findByLabelText('Month').select(preferredDate.format('MMM'));
+  cy.findByLabelText('Day').select(preferredDate.format('D'));
+  cy.findByLabelText('Year').type(preferredDate.format('YYYY'));
   cy.findByText(/Continue/).click();
 }
 ```
@@ -471,7 +405,7 @@ Reference:
 
 ```javascript
 export function selectTimeSlotTest() {
-  cy.url().should("include", "/select-date");
+  cy.url().should('include', '/select-date');
   cy.get(
     '.vaos-calendar__calendars button[id^="date-cell"]:not([disabled])'
   ).click();
@@ -491,9 +425,9 @@ Reference:
 
 ```javascript
 export function reasonForAppointmentTest(l) {
-  cy.url().should("include", "/reason-appointment");
+  cy.url().should('include', '/reason-appointment');
   cy.axeCheck();
-  cy.findByLabelText("Routine or follow-up visit").click();
+  cy.findByLabelText('Routine or follow-up visit').click();
   cy.findByLabelText(/Please provide any additional details/).type(l);
   cy.findByText(/Continue/).click();
 }
@@ -507,7 +441,7 @@ Reference:
 
 ```javascript
 export function contactInfoTest() {
-  cy.url().should("include", "/contact-info");
+  cy.url().should('include', '/contact-info');
   cy.axeCheck();
   cy.findByLabelText(/Morning/).click();
   cy.findByText(/Continue/).click();
@@ -522,9 +456,9 @@ Reference:
 
 ```javascript
 export function reviewTest() {
-  cy.url().should("include", "/review");
+  cy.url().should('include', '/review');
   cy.axeCheck();
-  cy.findByText("Confirm appointment").click();
+  cy.findByText('Confirm appointment').click();
 }
 ```
 
@@ -536,9 +470,9 @@ Reference:
 
 ```javascript
 export function confirmationPageTest(additionalInfo) {
-  cy.findByText("Your appointment has been scheduled");
-  cy.findByText("VA Appointment");
-  cy.findByText("Follow-up/Routine");
+  cy.findByText('Your appointment has been scheduled');
+  cy.findByText('VA Appointment');
+  cy.findByText('Follow-up/Routine');
   cy.findByText(additionalInfo);
 }
 ```
@@ -760,26 +694,26 @@ Returns a mock appointment object with the following properties:
 
 ```javascript
 return {
-  id: "21cdc6741c00ac67b6cbf6b972d084c1",
-  type: "va_appointments",
+  id: '21cdc6741c00ac67b6cbf6b972d084c1',
+  type: 'va_appointments',
   attributes: {
-    clinicFriendlyName: "Fake",
-    clinicId: "fake",
-    facilityId: "fake",
-    sta6aid: "fake",
+    clinicFriendlyName: 'Fake',
+    clinicId: 'fake',
+    facilityId: 'fake',
+    sta6aid: 'fake',
     communityCare: false,
     vdsAppointments: [
       {
         bookingNote: null,
-        appointmentLength: "60",
-        appointmentTime: "fake",
+        appointmentLength: '60',
+        appointmentTime: 'fake',
         clinic: {
-          name: "fake",
+          name: 'fake',
           askForCheckIn: false,
-          facilityCode: "fake",
+          facilityCode: 'fake',
         },
-        type: "REGULAR",
-        currentStatus: "fake",
+        type: 'REGULAR',
+        currentStatus: 'fake',
       },
     ],
     vvsAppointments: [],
@@ -795,14 +729,14 @@ Requires params for id and schedulingDays. Returns a request eligibility criteri
 return [
   {
     id,
-    type: "request_eligibility_criteria",
+    type: 'request_eligibility_criteria',
     attributes: {
       id,
       requestSettings: [],
       customRequestSettings: [
         {
-          id: "CR1",
-          typeOfCare: "Express Care",
+          id: 'CR1',
+          typeOfCare: 'Express Care',
           submittedRequestLimit: 2,
           enterpriseSubmittedRequestLimit: 2,
           supported: !!schedulingDays,
@@ -820,16 +754,16 @@ Returns a fake facility object with the following properties:
 
 ```javascript
 return {
-  id: "fake",
-  type: "facility",
+  id: 'fake',
+  type: 'facility',
   attributes: {
-    institutionCode: "fake",
-    city: "fake",
-    stateAbbrev: "FK",
-    authoritativeName: "fake",
-    rootStationCode: "fake",
+    institutionCode: 'fake',
+    city: 'fake',
+    stateAbbrev: 'FK',
+    authoritativeName: 'fake',
+    rootStationCode: 'fake',
     adminParent: true,
-    parentStationCode: "fake",
+    parentStationCode: 'fake',
   },
 };
 ```

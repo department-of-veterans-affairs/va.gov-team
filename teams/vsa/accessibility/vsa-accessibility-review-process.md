@@ -1,9 +1,11 @@
+   <!-- Document created by Jennifer Strickland. Modified and maintained by Josh Kim and/or current VSA accessibility specialist. -->
+
 # VSA Accessibility Review Process 
 
 
 <hr/>
 
-**[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
+**[Rate this documentation](https://forms.gle/gszTXJMuZdegc4k38)**
 
 We'd like to know if the documentation is meeting your needs, and welcome your feedback!
 
@@ -11,13 +13,6 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 
 For reference: [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
-
-
-**Please note:** 
-VSP just rolled out the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) for medium-to-large projects. For small-to-medium projects, it is still necessary to contact them in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to determine which steps of the cycle are appropriate. 
-
-VSA offers additional collaboration and review options to support teams in ensuring outcomes are inclusive and accessible. 
-
 
 
 ## Table of contents
@@ -52,7 +47,7 @@ VSA offers additional collaboration and review options to support teams in ensur
 
 * [QA](#qa)
 
-<!-- This review process is a conversation. Please contact Jennifer Strickland in Slack with suggestions, challenges, or any other questions/concerns. 
+<!-- This review process is a conversation. Please contact Josh Kim with suggestions, challenges, or any other questions/concerns. 
 
 <!-- ## Table of Contents
 
@@ -85,11 +80,11 @@ VSA offers additional collaboration and review options to support teams in ensur
  -->
  
  ## Small projects
- For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message the VSA accessibility specialist (Jennifer Strickland) in Slack to arrange a review / collaboration. Be sure to reach out to the VSP practice areas in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to see what else your project may need given your circumstances.
+ For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message the VSA accessibility specialist (Josh Kim) in Slack to arrange a review / collaboration. Be sure to reach out to the VSP practice areas in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to see what else your project may need given your circumstances.
  
  ### Feature workflow
  
-* **Design & research** - Once design or research plan is ready, request an accessibility review by messaging Jennifer. Together we'll discuss any recommendations, concerns, and next steps. This may be async or a meeting, depending on the needs.
+* **Design & research** - Once design or research plan is ready, request an accessibility review by messaging Josh. Together we'll discuss any recommendations, concerns, and next steps. This may be async or a meeting, depending on the needs.
  
  * **Front-end development** - Before coding any designs, check with accessibility for semantic markup guidance and any known concerns. Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Larger accessibility audits, such as Staging Review and Full Accessibility & 508 Office Audit, are part of the VSP Collab Cycle. When bandwidth allows, the accessibility specialist may provide spot checks of work ahead of these audits.
 
@@ -107,7 +102,7 @@ See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 
 Designers are encouraged to collaborate with the VSA accessibility specialist throughout the design work to ensure designs and plans are inclusive and accessible. Feel free to tag them in your team's Slack channel, Github issues and PRs, or DM for guidance. Teams are also encouraged to request design collaboration reviews. These may happen asynchronously or in a scheduled meeting.
 
-**[>> Request a design collaboration review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
+**[>> Request a design collaboration review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+joshkimux&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
 
 <!-- ~~For medium to large projects, there are **three required checkpoints**. These reviews are integrated with [VSP's Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#whentorequest) and align with [VSA's Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md). Accessibility, Content, IA, and Design practice reviews happen in the same checkpoint. VSA team members are also welcome to additional, casual checks with accessibility specialists.
 
@@ -168,7 +163,7 @@ Once the designer and PM review feedback, please add a new comment on the issue 
 <!-- There are **four required checkpoints**. For reviews, the VSA accessibility specialist will open a development 508 review epic in Zenhub, and assign findings to the responsible project manager. Project teams should include the accessibility specialist in pull request reviews. Teams should @-comment the accessibility specialist in a Zenhub issue comment when code fixes are ready. The accessibility specialist will verify issues are fixed and close the issue or offer guidance if the issue is not fixed. Open issues are surfaced in the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
 -->
 
-Teams are encouraged to reach out for casual check-ins. Feel free to message Jennifer Strickland. 
+Teams are encouraged to reach out for casual check-ins. Feel free to message Josh Kim. 
 
  ### Available resources:
 
@@ -192,9 +187,9 @@ This collaboration point happens _before beginning development_. The accessibili
 
 ### Spot check
 
-PMs or developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME) for an early accessibility review of work in-progress. The ability to offer this review depends on the VSA accessibility specialists' workload.
+PMs or developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+joshkimux&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME) for an early accessibility review of work in-progress. The ability to offer this review depends on the VSA accessibility specialists' workload.
 
-**[>> Schedule a spot check review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
+**[>> Schedule a spot check review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+joshkimux&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
 
 
 

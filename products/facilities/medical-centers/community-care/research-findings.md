@@ -22,6 +22,9 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 * 6 Community Care Managers (schedulers)
 * 1 Supervisor who manages schedulers
 
+### Usage of Terminology in this Document
+Throughout this document, the term **sub-specialty** is used. This term refers to the types of care found within the category of Community Care. Examples of sub-specialties would be "Podiatrist - General Practice," "Podiatrist - Primary Podiatric Medicine," and "Podiatrist - Radiology."
+
 ### Research Questions
 
 - How does a community care request get processed by Community Care Request managers once it is received in Schedule Manager?
@@ -45,7 +48,7 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 __We can understand how to simplify the search experience in Facility Locator.__
 
 Finding: __Partially True__
-* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-categories are often beyond laymen's terms. 
+* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-specialties are often beyond laymen's terms. 
 * Type-ahead can also be problematic due to unfamiliarity with search terms. 
 * As a separate issue (but which impacts the quality of Facility Locator search results), there are gaps in provider data in PPMS. Facility Locator depends on PPMS for Community Care search results. See VAOS findings below for further details. 
 
@@ -76,7 +79,7 @@ Another CCM, when asked if Veterans understand sub-specialties:
 > No, they don't. I used to be the oncology scheduler, and I can’t tell you how many Veterans I called from Oncology and they didn’t know what that term meant.
 
 #### 2. One participant stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
-> Veterans don’t know what those terms mean. There doesn't need to be any subcategories - they can just be generic. We’ll provide that.
+> Veterans don’t know what those terms mean. There doesn't need to be any sub-specialties - they can just be generic. We’ll provide that.
 
 #### 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos. 
 If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results: 
@@ -116,47 +119,58 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 ## Additional Insights
 
-1. All participants interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
+1. Participants made it clear how dedicated they are to helping Veterans receive the care they need. They emphasized their investment in helping the Veterans by scheduling timely care, as much follow-up as needed, and the use of providers who understand the process and will follow up with Veterans as well. CCMs want the systems they use to be as helpful as possible, as it in turn helps them better assist Veterans.
+2. All participants interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
 
-2. Participants like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
+3. Participants like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
 
-3. Participants would also like to know if providers are accepting new patients.
+4. Participants would also like to know if providers are accepting new patients.
 
-4. A few participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
+5. A few participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
 
-5. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
+6. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
-6. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
+7. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
 
-7. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
+8. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. They prefer to work with vendors who understand VA's processes and provide an ease of care for the Veteran. Identifying these is important to CCMs, who are relying on external tools. An indication in their system of these facilities would be helpful.
 
-8. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+9. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
 
-9. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+10. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+
+11. Catchment zones were mentioned by a participant. Veterans are not aware of these zones, and are aggravated when they try to go to a nearby provider, which happens to be outside of their zone. As a result, the provider is not approved.
 
 
 ## Recommendations
+Most of the findings relate to CCM systems and processes and are outside the scope of the VA.gov Facility Locator. However, data quality and scheduling efficiency are important as they directly impact Veterans.
 
 __Facility Locator__
-* Remove the sub-specialties found under Service Type. Doing so will simplify the search for the Veteran, while moving the sub-specialty decision-making to the Community Care Manager, who understands the sub-specialties.
+* Remove the sub-specialties found under Service Type. Doing so will simplify the search for the Veteran, while moving the sub-specialty decision-making to the Community Care Manager, who understands the sub-specialties.  
 * Refrain from using type-ahead boxes and use drop-down menus for selection instead. Type-ahead requires the Veteran to know the term they are searching for and the correct way to spell it, in order to see results.
+* Replace sub-specialties type-ahead box with a menu of clickable, plain-English terms that Veterans will recognize and use with confidence. These terms could map to specialties or sub-specialties that CCMs could then refine for the Veteran. 
 * If there are certain sub-specialties that must be displayed, use layman's terms when possible to avoid confusion, or provide explanations for the terms. 
+* Investigate how to improve the Facility Locator flow when a Veteran is seeking Urgent Care, to help prevent the Veteran from ever having to pay for Urgent Care out of pocket.
+
 
 __VA Online Scheduling__
 * As part of improving the VA Online Scheduling experience
    * Improve the quality of existing provider data in PPMS such as updated phone numbers, addresses, in/out of network, and fax numbers.
    * Add provider data that will help CCMs minimize the use of search tools outside of the system. Provider data include gender, accepting new patients, and name of clinic. 
    * Consider finding ways to automate the screening question process, which is completed by CCMs via phone call with the Veteran.
+   * Improve the system used by CCMs to highlight which providers understand the process for urgent care, in order to prevent the Veteran from ever having to pay for Urgent Care out of pocket.
 
 ## Next Steps
 
 * Implement design recommendations.
 * Share relevant findings with other teams and stakeholders.
 
+## Future Research
+* Validate plain-language terms with Veterans, for use in the Facility Locator as a replacement for sub-specialty selection.
+* Investigate the level of impact of catchment zones in scheduling Veterans, as mentioned by a participant. As mentioned in Additional Insights above, these zones are not known to the Veteran and can cause frustration in selecting a provider. It wasn't clear from this research how broad the impact is, or how it could be mitigated.
 
 ## Appendix
 
-#### [Reearch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
+#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
 
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/conversation-guide.md)
 

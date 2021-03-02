@@ -3,6 +3,133 @@
 
 Designer: Leyda Hughes
 
+## Iteration 6 - Sprint 36 (ending Dec 15, 2020)
+#### Designs
+2 options reflecting Mikki's input on IA structure
+
+1. An option where each child location of a parent Vet Center gets it's own page
+
+   [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
+
+2. An option that includes an "All locations" page to mirror VAMC system locations page 
+
+   [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
+
+#### Feedback & Outcomes
+
+Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers. Feedback:
+
+   • Remove side nav
+  
+   • child locations will not have dedicated pages for MVP
+  
+   • Keep "All locations" page. Child locations to live here only
+  
+   • remove link/reference to Facility Location on VC page, keep in All locations page
+  
+   • Remove categorizations from list of services, list alphabetically
+  
+   • Bring back "Featured story" components and mock up with localized content
+
+## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
+#### Designs
+Goal: refining the IA and relationship between Vet Center parent/child locations
+
+   [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
+
+#### Feedback & Outcomes
+1. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs. 
+
+2. Leyda OOO 11/25-27 (Thanksgiving)
+
+3. Nov 30 - Start new research plan and conversation guide to test usability of logistical information and services with non-client Veterans, table "Client usability test for a later date to validate positioning study" since we are not designing any "About VC" content at this time.
+
+4. Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
+Suggests:
+ 
+   • removing "Main area location" and "Satellite offices" categories from side nav. 
+
+   • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
+
+
+## Iteration 4 - Sprint 34 (ending Nov 17, 2020)
+
+#### Designs
+Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
+
+   [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
+
+#### Feedback & Outcomes
+1. Tues, Nov 17 - Dave, Michelle & Leyda sync on designs and prepare for "Usability Testing Prep" the following day. The plan is to test the high level Vet Center concepts and positioning to validate what we heard in the research from Vet Center clients, now presented in a website prototype.
+
+     •  Dave's feedback is to strip the yellow "Featured content" boxes and to pull back on any "About" content, thinks this type of content belongs on a "Content Landing Page". 
+
+2. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
+
+     • Dave's feedback is to create a ticket to explore C.L.P.. 
+
+     • Michelle creates a ticket for Leyda to do CLP exploration
+
+     • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
+     
+     • Dave OOO 11/19-20
+
+
+
+## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
+
+#### Designs
+
+[Link to wireframe](https://preview.uxpin.com/8384f2aaca9ea40b4ffdab6e642b92ea0c8952eb#/pages/134428889/simulate/no-panels?mode=i)
+
+#### Feedback & Outcomes
+1. Dave, Michelle & Leyda sync on designs. Dave is concerned that the prototype does not adequately address catchment area/nearby locations, informs designer that it is now part of MVP.
+2. Nov 12 - Leyda meets with Ryan for input on addressing locations feature/content and continues refining prototype
+
+## Iteration 2 - Sprint 34 (ending Nov 17, 2020)
+
+#### Designs
+Vet Center prototype with an emphasis on incorporating concepts that were important to Veterans from research findings and testing out new service taxons and language
+
+[Link to wireframe](https://preview.uxpin.com/73434f75b1664fb29a9340c025cf2bebd7e8e24b#/pages/133987808)
+
+#### Feedback & Outcomes
+1. Nov 4 - Dave, Michelle, Leyda sync - direction from Dave is to take an MVP approach to a new design for Vet Centers website template. 
+2. Leyda's design decisions:
+    • shifts from the original idea of using "Campaign Landing Page" template to using the VAMC layout
+    • Applies feedback from Design Intent meeting to try "Featured story" component to convey the non-clinical concepts that were important to Vet Center clients as describes in research findings and incorporates "On this page" component.  
+3. Nov 5, 2020 - Met with Dave, Ryan, Michelle to discuss the prototype and next iteration of the Vet Center prototype with the focus on solving the problem of awareness. Feedback:
+    • Push the "warm" concept further by trying the featured story components in yellow instead of blue. Combine quotes and concepts of 'by Vets for Vets' etc. into less rows of "Featured story" components.
+    • Add operating status
+    • Remove sidenav
+    • Remove 'events' > not doing for MVP
+
+## Sprint 33 (ending Nov 3, 2020)
+
+#### Discovery - Language and taxonomy synthesis
+
+[Link to Working Taxonomy Spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EYZ6B8_w_GJGi93wBq3_x8MBZ4zZgwE9V7earuu0MfDeRg?e=vItyjF)
+
+[Link to language synthesis](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EU1R6aqGYuBJsTF2t7xbj1kBddrCk1f8PSgVyqzCvAdnsA?e=jacOtc)
+
+#### Feedback & Outcomes
+Team aligned on lack of awareness being the #1 problem to solve for Vet Centers. 
+
+## Sprint 32 (ending Oct 20, 2020)
+
+### Discovery - Interview synthesis
+
+[Link to Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md)
+
+
+## Sprint 31 (ending Oct 6, 2020)
+
+### Discovery
+Study to understand a Vet Center client’s experience, impression and relationship with Vet Centers.
+
+[Link to Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-plan.md)
+
+
 ## Iteration 1 - Sprint 30
 
 ### Designs

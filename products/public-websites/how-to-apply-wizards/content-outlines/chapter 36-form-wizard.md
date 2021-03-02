@@ -16,7 +16,7 @@ If you already know this is the correct form, you can go directly to the online 
 
 {user flow 1}
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -43,7 +43,7 @@ Would you like to apply for personalized career planning and guidance benefits n
 
 {user flow 2}
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -63,7 +63,7 @@ Please contact your Vocational Rehabilitation Counselor to learn more about how 
 {user flow 3}
 
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -97,7 +97,7 @@ Would you like to apply for personalized career planning and guidance benefits n
 
 {user flow 4}
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -128,7 +128,7 @@ To be eligible for career planning and guidance benefits, you must have been dis
 {user flow 5}
 
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -162,7 +162,7 @@ To be eligible for career planning and guidance benefits, you or your sponsor mu
 
 {user flow 6}
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -182,7 +182,7 @@ Please contact your Vocational Rehabilitation Counselor to learn more about how 
 {user flow 7}
 
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -213,7 +213,7 @@ Would you like to apply for personalized career planning and guidance benefits n
 {user flow 8}
 
 
-Which of these describes you? 
+Which of these describe you? 
 
 - I'm a dependent of a Veteran or service member
 
@@ -238,7 +238,7 @@ Would you like to apply for personalized career planning and guidance benefits n
 
 {user flow 9}
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a dependent of a Veteran or service member
 
@@ -264,7 +264,7 @@ To be eligible for career planning and guidance benefits, your sponsor must have
 
 {user flow 10}
 
-Which of these describes you?
+Which of these describe you?
 
 - I'm a dependent of a Veteran or service member
 
@@ -296,7 +296,7 @@ Would you like to apply for personalized career planning and guidance benefits n
 {user flow 11}
 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm none of these
 

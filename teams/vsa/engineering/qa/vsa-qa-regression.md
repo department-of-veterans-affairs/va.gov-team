@@ -4,7 +4,9 @@
 
 While current capacity limitations preclude direct involvement by VSA-QA in Regression Testing, here are some basic info for VSA Product Teams to consider.
 
-Regression test-plans and test-cases are QA artifacts desired by VSP for QA practice-area review, as part of their [Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) collaboration-cycle checkpoint.  These are currently "soft" requirements, but only because of current resource/staffing reality.  For now, VSP should be satisfied that Teams are consciously keeping regression testing in mind while planning new-feature development.
+## "Soft" requirement
+
+Regression test-plans and test-cases are QA artifacts desired by VSP for QA practice-area review, as part of their [Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) collaboration-cycle checkpoint.  **These are currently "soft" requirements**, but only because of current resource/staffing reality.  For now, VSP should be satisfied that Teams are consciously keeping regression testing in mind when planning new-feature development.
 
 ## What is regression testing?
 

@@ -68,7 +68,7 @@ From March 15, 2020, to October 11, 2020, these are the total number of users vi
 
 - Objective: Meet Veterans' and their family members' need for COVID-19 information about VA health care and benefits in Spanish while gathering data to inform recommendations for a longer-term localization solution.
   - Key result: Provide high-quality translation of the coronavirus FAQs page and coronavirus research volunteer list page/form by January 20, 2020.
-  - Key result 2: Analyze data aroud usage of, and need for, VA content in Spanish by May 2020.
+  - Key result 2: Analyze data around usage of, and need for, VA content in Spanish by May 2020.
   - Key result 3: Research localization best practices and potential tools and processes for recommendation by May 2020.
 
 ---

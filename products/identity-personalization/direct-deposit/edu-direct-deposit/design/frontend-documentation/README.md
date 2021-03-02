@@ -64,20 +64,6 @@ This is all the same as the comp & pen module **except** for the following field
 - **Field labels**
   - Routing number (Your bank’s name will appear after you add the 9-digit routing number)
   - Account number (This should be no more than 17 digits)
-  
-#### Add state
-
-[Direct deposit for edu add state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/51b79b7f-f94e-4edd-85ee-642deb647e6f)
-
-*Specs*
-
-This also functions the exact same way the comp & pen module does: If someone is eligible for edu payments but has not yet set up their bank information, they should see a link to add direct deposit info.
-
-*Copy*
-
-This is the same as the add state for the comp & pen module:
-
-- Please add your bank information
 
 #### Save state
 

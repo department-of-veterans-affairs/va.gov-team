@@ -11,18 +11,32 @@ __Change: There will be one style of full-width banner component, rather than ha
 __Not changed:__ Rubric for display hierarchy is still a) Emergency banner, b) Sitewide downtime banner, c) Veteran action needed banner
 
 
-__1. Emergency banner__
+__1. Home Page Emergency banner__
 
-- Ability to publish: OPIA, DEPO, VISNs, and VAMCs.
-- OPIA can publish on VA.gov homepage.
+- Ability to publish: OPIA, DEPO, VISNs, and VAMCs. 
+- OPIA can publish on VA.gov homepage via Drupal.  Does not require platform deployment.
+  - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
+  - Requires PR review by FE engineer -- must be approved within 15m
+  - Use Cases: Natural Disasters, Operational emergencies, Fed Gov shutdown
+  - OPIA has templated content, but do not typically use
+  - Public Websites must ask permission to fix mistakes (typos, broken links)
+  - Can include dismissable function (this is an option in the template) -- up to OPIA
 - DEPO needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
 - VISNs can publish across all VAMC pages.
 - VAMCs can publish on their VAMC pages only. 
 - Yellow.
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session. 
+- TL/DR of the process: The homepage banner is in one of our GitHub repos, one called vagov-content. It's our pre-Drupal way of writing content, but it is deployed to the website the same as Drupal content. So basically, OPIA (Josh) would edit the HP banner in vagov-content, open a PR that a dev would approve + merge, then we would just ask someone to kick off a content deployment via Drupal.  One other note: the format of that homepage banner content is YML and it requires certain whitespace/indentation to be a valid format. I always pull Josh's branch to make sure it works. If it doesn't I'll fix the formatting issue (and sometimes flag Josh if there are HTML issues, like I can see his intent but something is wrong) then push a commit. Then when I review his PR, I post a screenshot of the banner on my local machine
 
 __2. Sitewide system maintenance downtime banner__ 
 
+Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
+
+Client Application Documentation: https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/
+
+Code: https://github.com/department-of-veterans-affairs/vets-website/blob/a8d3585472654ede09ba52213946e45ccb8fb35a/src/platform/site-wide/banners/config/maintenanceBanner.js#L6
+
+- Not in CMS; Public Website (Nick & Kelson) trigger
 - Ability to publish: DEPO.
 - Sitewide, including VAMC products. 
 - 2 states: In advance of downtime; and during downtime. 
@@ -30,9 +44,14 @@ __2. Sitewide system maintenance downtime banner__
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
 - Must configure schedule and expiration: for in-advance messaging start and end; during message start and end -- dates and times.
 - Standardized text with customizable dates and times. 
+- When to use: If 90% of VA.gov services will be "down" -- **however, this is not well-defined, operationalized.**
+  - For DS Logon (which is frequently down or in maintenance), only use the sitewide banner if the maintenance window is 24 hours or longer. The reason: a banner will automatically render above the buttons in the VA.gov sign-in modal to tell the user DS Logon is unavailable)
 
 __3. Veteran action needed banner__ 
 
+- Use Cases: 
+  - Learn about vaccinations, sign up for notifications
+  - IRS deadline for benefits declarations
 - Ability to publish: DEPO.
 - Ability to configure for sitewide or specific nodes, including VAMC products and/or homepage. 
 - Yellow [@RYAN - do you recommend this one always be yellow or always blue (per original recommendation below)? ] 

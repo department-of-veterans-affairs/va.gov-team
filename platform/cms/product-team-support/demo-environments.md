@@ -1,3 +1,4 @@
+**_This will soon be deprecated, as we move from DevShop to Tugboat for demo environments_**
 
 Product teams can use demo environments for the following four user stories (and potentially others that we haven't yet thought of!). These user stories are covered in a training that we can provide to product teams. 
 

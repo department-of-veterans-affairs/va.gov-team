@@ -12,7 +12,7 @@ As a result of deployment patterns (blue/green or rolling deployment) multiple v
 
 ## Automatic Protection
 
-The [`zero_downtime_migrations`](https://github.com/LendingHome/zero_downtime_migrations) gem prevents several classes of migrations that are known to cause issues. This is not a catch-all, and database migrations must still undergo thoughtful review.
+The [`strong_migrations`](https://github.com/ankane/strong_migrations) gem prevents several classes of migrations that are known to cause issues. This is not a catch-all, and database migrations must still undergo thoughtful review.
 
 ## Constraints
 
@@ -61,6 +61,10 @@ Schema update operations involve a multistep process:
   1. Remove backwards-compatibility conditionals and procedures in `vets-api`
   1. Deploy application to production
   1. Perform additional data migration with independent rake task
+
+##### Before making schema updates
+
+Review the checks from `strong_migrations` [here](https://github.com/ankane/strong_migrations#checks) before making your changes. Below are specific instructions for making certain kinds of changes within `vets-api`.
 
 ### Tables
 

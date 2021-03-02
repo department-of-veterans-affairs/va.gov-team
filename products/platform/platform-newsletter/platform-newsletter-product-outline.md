@@ -2,8 +2,8 @@
 
 #### Communications
 
-- Team Name: VSP Service Design
-- Slack channel:  #vsp-newsletter
+- Team Name: VSP Service Design and Content/IA
+- Slack channel:  #platform-newsletter
 - Product POCs: James Chasia, Naomi Marcussen
 
 ------
@@ -20,7 +20,7 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Desired User Outcomes
 
-Every VFS team member and stakeholder is aware and understands improvements to platform features, services, and processes and as a result is less confused and frustrated about 
+Every VFS team member and stakeholder is aware and understands improvements to platform features, services, and processes and as a result is less confused and frustrated about platform changes.
 
 ## Undesired User Outcomes
 

@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated October 1, 2020
+Last Updated March 1, 2021
 
 ## POCs
 
@@ -17,7 +17,7 @@ Last Updated October 1, 2020
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea|Product Manager| matt.shea@adhocteam.us |
 |Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
-|??? | Designer | ??? |
+|Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -49,23 +49,26 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 ## Questions
 
 - How do we support this feature on VA.gov while it also exists on MHV? How would that technical integration work?
+  - **Answer**: There is no integration with MHV. The two features will function separately, though Carnetta mentioned that they may consider pointing people to our profile for this functionality once the feature is live.
 - Who is a technical POC we can work with for this project?
+  - **Answer**: Carnetta Scruggs
 - When we say something is "saved in MHV", what does that mean? Does MHV have its own database?
+  - **Answer**: Yes, MHV has its own backend, but we are not integrating with it.
 - Are there examples of other features or settings that exist both on MHV and another website?
+  - **Answer**: No.
 
 ## Requirements
 
 ### In Scope
 
 - Pull in all registered medical facilities from MVI to the VA.gov profile.
-- Pull in current medical facilities from MHV.
 - Allow veterans to edit and update at which facilty(ies) they currently receive medical care.
-- Sync this information with MHV (read/write).
 - Only show this feature to veterans who receive medical care and are registered at a VA facility.
 - The list of current facilities needs to be easily consumable by the VAOS tool.
 
 ### Out of Scope
 
+- Any integration with MHV itself.
 - Retirement of this feature on MHV.
 - Writing back any information to MVI.
 
@@ -73,6 +76,7 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 - As of October 2020, we are gathering information from MHV to learn about how this feature currently exists on their website. 
 - Pending what we learned, we will have Lihan conduct technical discovery so we can determine whether we can meet the requirement of being able to keep VA.gov and MHV in sync.
+  - **Update**: Nov 2020 – [Technical and product details from our chat with Carnetta](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/meeting-notes/chat-with-carnetta-11.2.20.md)
 
 ## Value Propositions
 
@@ -91,6 +95,8 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 - **September 2020**: Lenae/Lauren proposed this update; DEPO team reviewed and rated this feature on the DEPO product board.
 - **October 2020**: Initial discovery.
+- **November 2020**: Begin backend integration.
+- **December 2020**: Finish backend integration.
 
 ## Product Decisions
 

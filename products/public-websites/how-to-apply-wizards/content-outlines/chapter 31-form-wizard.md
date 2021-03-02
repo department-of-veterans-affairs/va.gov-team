@@ -16,7 +16,7 @@ If you already know this is the correct form, you can go directly to the online 
 
 {user flow 1} 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -54,7 +54,7 @@ You can come back and apply for Veteran Readiness and Employment benefits when y
 {user flow 2} 
 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -79,7 +79,7 @@ To be eligible for VR&E benefits, you must have a service-connected disability a
 {user flow 3) 
 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a Veteran
 
@@ -109,7 +109,7 @@ To be eligible for VR&E benefits, you must be within 12 years of your separation
 
 {user flow 4}
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -139,7 +139,7 @@ You can come back and apply for Veteran Readiness and Employment benefits when y
 
 {user flow 6} 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -158,7 +158,7 @@ To be eligible for VR&E benefits, you must must expect to receive an honorable d
 
 {user flow 7}
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -186,7 +186,7 @@ To be eligible for VR&E benefits, you must have a service-connected disability a
 
 {user flow 8}
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm a service member
 
@@ -220,7 +220,7 @@ You can come back and apply for Veteran Readiness and Employment benefits when y
 
 {user flow 9} 
 
-Which of these decribes you? 
+Which of these describe you? 
 
 - I'm not a Veteran or a service member
 

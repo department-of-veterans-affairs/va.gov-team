@@ -1,77 +1,43 @@
 # PCPG (CH36) - Release Plan
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
-
-That's what this Release Plan Template is for!
-
----
-
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: Early January 2021
-- Desired number of users: 10
-- How you'll recruit the right production test users: Perigean
-- How you'll conduct the testing: Zoom
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper toggle or basic auth (TBD)
+- Desired date range or test duration: **Late December 2020 - Early January 2021**
+- Desired number of users: **10**
+- How you'll recruit the right production test users: **Perigean and stakeholders**
+- How you'll conduct the testing: **Zoom/Teams**
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: **Flipper toggle**
 
 ### Results:
-- Number of users: x
+- Number of users: **6**
+  - **Participant 1:** Chrome, was not able to share screen, given [link](https://www.va.gov/careers-employment/education-and-career-counseling/
+), completed eligibility, Chrome autofilled info and it was submitted with no errors, received by Data Dimensions
+  - **Participant 2:** Has already submitted this form in person some years ago. No submission.  
+  - **Participant 3:** Canceled.
+  - **Participant 4:** 
+  - **Participant 5:** 
+  - **Participant 6:** 
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Was the data submitted (if any) easy for VA to process?: Yes, no issues found
+- Types of errors logged: Invalid cookie
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No  
+- If yes, what: N/A
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-Other exceptions to this requirement can be approved by DEPO VSP leads.
-
 ### Planning
 
-- Desired date range: January 2021
-- How will you make the product available in production while limiting the number of users who can find/access it: Whitelist and feature toggle for unauthenticated access
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Abandonment rate < 20% , Error rate < 5%, etc
+- Desired date range: **January 2021**
+- How will you make the product available in production while limiting the number of users who can find/access it: **Whitelist and feature toggle for unauthenticated access**
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: **Abandonment rate < 20% , Error rate < 5%, etc**
 - Links to dashboard(s) showing "success criteria" metrics: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/README.md#kpis-okrs
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
 ### Stage A: Canary
 
-Test a small group of 10
+Test a small group of 5-10
 
 #### Planning
 

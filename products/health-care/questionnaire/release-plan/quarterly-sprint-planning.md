@@ -3,7 +3,122 @@
 
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
-<details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
+<details> <summary> Q1 2021 (Jan-Mar)  Sprint 38-44 </summary>
+
+## Q1 Target Release Launch Summary of Feature Capabilities
+  
+  - TBD description of our go to market strategy for Q4 release
+- [q1-2020-target-launch]()
+
+
+### Not assigned to a sprint 
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [FE]  Accessability | -- | # |
+| [FE]  Clean up | -- | # |
+| [Product] External /Call Center troubleshooting Documentation	| -- |  |
+| [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UX] Analytics	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+
+
+
+## Sprint 44 - Sprint Theme
+3/24/2021 - 4/6/2021
+- [Milestone 464](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/464)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 43 - Sprint Theme
+3/10/2021 - 3/23/2021
+- [Milestone 463](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/463)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 42 - Real Data via Lighhouse
+2/24/2021 - 3/9/2021
+- [Milestone 462](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/462)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [FE] Integration of HealthQuest service to post to Lighthouse PGD  | -- | #19587 |
+| [BE] Implement Lighthouse Appt API | -- | #19656, #20246, #20247,multiple |
+| [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [UI/Product] Stakeholder Interviews for Health Records| -- | #20315 |
+| [UI] User Research Findings Report- Health Records | -- | #19605 |#20095
+| [UI] Wireframes - Health Records | -- | #20095 |
+
+## Sprint 41 - API Integration 
+2/10/2021 - 2/23/2021
+- [Milestone 461](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/461)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [Product] Discovery Health Record Feature Outlines | -- | #19588, #19589, #19590 |
+| [Product] QA Testing -tickets and use cases| -- | ##19592 |
+| [UI] Completed Tab Defaults to a filtered date range | -- | #19347 |
+| [UI] User Research Sessions for Health Records | -- | #19586 |
+| [FE] Integration the Questionnaire List with the API| -- | #16574 |
+| [BE]  QuestionnaireResponse with lighthouse appointment ID -- | #19209| |
+| [BE]  QuestionnaireResponse reference the patient resource in the source field| -- | #19454 |
+| [BE]  Timeline view of remaining work and dependencies | -- | # |
+
+
+## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
+1/27/2021 - 2/9/2021
+- [Milestone 460](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/460)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI/Product] Discovery Health Record | -- | # |
+| [FE] UI updates from Platform/testing | -- | # |
+| [BE] Get Questionnaires Aggergation for List and validate data submission | -- | # |
+
+
+
+## Sprint 39 - MAP and Lighthouse API Success
+1/13/20201 - 1/26/2021
+- [Milestone 459](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/459)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Usability Feedback updates | -- | # |
+| [UI] Error State designs | -- | # |
+| [FE] Implement Error State Messages | -- | # |
+| [FE] SPIKE for SIP system ( | -- | # |
+| [BE]  Return Quest. Responses and Querry Questions by response ID - lighthouse| -- | # |
+| [Product] Priority Planning for next features | -- | # |
+
+## Sprint 38 - Dynamic Form Elements/Backend Access 
+12/30/2020 - 1/12/2021
+- [Milestone 458](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/458)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+
+</details>
+
+
+<details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-37 </summary>
 
 ## Q4 Target Release Launch Summary of Feature Capabilities
   
@@ -18,16 +133,6 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
-| [FE]  Accessability | -- | # |
-| [FE]  Clean up | -- | # |
-| [Product] External /Call Center troubleshooting Documentation	| -- |  |
-| [All] Collab Cycle Approvals for Pros 	| -- |  |
-| [UI] MVP Usability Testing 	| -- |  |
-| [UX] Analytics	| -- |  |
-| [Product] Change Management for Implementation 	| -- |  |
-| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
-| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
-| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
 
 ## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020

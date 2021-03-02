@@ -125,8 +125,7 @@ There are currently two kinds of deployments:
         [fetches](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/configure-assets.js#L22-L23)
         the assets [from S3](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/download-assets.js#L111)
         - Process is triggered [from this Jenkins config](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/Jenkinsfile.content#L32)
-    - Does **NOT** run any content validation such as accessibility tests or
-      broken link checker
+    - Does **NOT** run any accessibility tests
 2. [Full deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
     - Outputs frontend applications (.js, .css) and static pages (.html)
     - Creates a new release and deploys it

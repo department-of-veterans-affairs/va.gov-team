@@ -1,6 +1,6 @@
-# Direct Deposit for Edu: Product Outline
+# Direct Deposit for Edu: Project Outline
 
-Last Updated September 25, 2020
+Last Updated March 1, 2021
 
 ## POCs
 
@@ -21,7 +21,7 @@ Last Updated September 25, 2020
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Luke Tickner | VBA Edu team | Lucas.Tickner@va.gov |
+|Joseph Preisser| Edu contact| Joseph.Preisser@va.gov |
 |Tammy Hurley| VBA Edu team | tammy.hurley1@va.gov | 
 |Hope Coleman| VBA Edu team | Hope.Coleman@va.gov |
 
@@ -85,14 +85,8 @@ WIP here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdA
 
 # Implementation Info
 
-## Status
+Please go to the overall [product outline for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#implementation-info).
 
-- **September 2020**: Initial backend discovery; Design discovery; Initial stakeholder intro kickoff.
-
-## Product Decisions
-## Technical Details
-### How to Access and Test
-### Error Handling
 ## Screenshots
 ### Before
 

@@ -8,7 +8,7 @@ June 20, 2017
 
 https://staging.vets.gov/letters; veterans, am3rica
 
-Sign in: vets.gov.user+298@gmail.com	Zm9ydHkgdHdv
+Sign in: vets.gov.user+298@gmail.com, [password lookup here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 mockup: https://marvelapp.com/2jaea53/screen/29132668
 

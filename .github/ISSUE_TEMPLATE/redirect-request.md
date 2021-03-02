@@ -1,8 +1,8 @@
 ---
-name: Redirect and URL Change Request
-about: Submit a request to change a URL and/or implement a redirect for a URL
+name: Redirect or URL Change Request
+about: Submit a request to change a URL and/or implement a redirect for a URL. Also for vanity URL requests.
 title: Redirect Request
-labels: content-ia-team, ia
+labels: vsp-product-support, ia
 assignees: mnorthuis
 
 ---
@@ -15,7 +15,7 @@ assignees: mnorthuis
 ### Description
 *This is a detailed description of the request. It should include background information and reason for the request.*
 
-### Requestor team info
+### Requesting team info
 *Indicate what team and who the primary contact on that team is*
 
 ### Implementation date
@@ -36,11 +36,11 @@ Current URL  |  Redirect Destination or New URL
 
 
 ### Definition of done
-- [ ] Above information is provided and issue is tagged and assigned appropriately - *@ requesting team*
-- [ ] All appropriate VA stakeholders are notified of pending redirect - *@ requesting team*
-- [ ] Request is vetted and documented and implementation plan is clear - *@ Content & IA team*
-- [ ] Request is assigned to appropriate team for implementation - *@ Content & IA team*
-- [ ] Implementation team completes work - *@ Implementation team*
-- [ ] Implementation pushed live and redirect is validated in production - *@ all*
-- [ ] Ticket is closed - *@ requesting team*
+- [ ] Requesting team: Above information is provided and issue is tagged and assigned appropriately 
+- [ ] Requesting team: All appropriate VA stakeholders are notified of pending redirect 
+- [ ] VSP IA: Request is vetted and documented and implementation plan is clear - *@ VSP IA*
+- [ ] VSP IA: Request is assigned to appropriate team for implementation - *@ VSP IA team*
+- [ ] Implementation team: Implementation team completes work 
+- [ ] Implementation team: Implementation pushed live and redirect is validated in production
+- [ ] Requesting team: Ticket is closed 
 

@@ -1,6 +1,6 @@
 # Questions for Clinician Interviews 
 
-1. Can you walk us through what a typical appiontment looks like? 
+1. Can you walk us through what a typical appointment looks like? 
      - Consider New patient visits, followup, annual physical, sickness/injury. etc. 
     - What are the standard questions you're required to ask Veterans?
     - Are there questions that you like to regularly include that are not in the clinical documentation?

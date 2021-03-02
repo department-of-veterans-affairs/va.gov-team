@@ -17,7 +17,8 @@
 
 | Screens | Mockup Links | Text Sources |
 | :--- | :--- | :--- |
-| View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ | Get text from mock |
+| View Dependents | [XD Mockups](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/) | Get text from mock |
+| View Dependents V2 <br> (New tool page layout) | [XD Mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/) | Concept layout |
 
 #### Add Dependents (21-686c/21-674)
 
