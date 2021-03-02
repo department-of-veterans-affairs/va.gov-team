@@ -46,6 +46,10 @@
 
 If there's time 
  * URL design and governance - based on h1? request and review process?
+   * Final word for MVP: We will create a hard-coded, rigid URL for each CLP while we learn.  From there, we take learnings and decide:
+     - Whether to keep having humans create URLs, or
+     - Whether there is a good, low-risk way to auto-generate URLs, or
+     - Whether there is a combo approach. [Could Drupal suggest non-duplicate URL(s) that can then be modified? Or is there code that could plug into Drupal to help do this? This way, stop words like "and," "the," and "or" can be removed by a human or by the suggestion functionality; then the URL would be checked again to be sure the URL isn't a duplicate in Drupal. The human would make sure the URL isn't the same as a legacy URL.]
  * Request form for new CLPs: what fields? 
 
 
