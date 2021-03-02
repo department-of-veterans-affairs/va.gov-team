@@ -87,7 +87,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 -16 participants (4-8 therapists / social workers. 8-12 veterans) 
 
-- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/nov-2020)
 
 
 #### Nov 30- Dec 7th: Direct Deposit for Edu
