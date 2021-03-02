@@ -39,10 +39,12 @@
 
 ### CLP
 
- * Review product guide
+ * Review product guide (John)
  * Beta user testing and onboarding.
-   * VEO session this afternoon
-   * VBA session usability testing
+   * VEO session this afternoon (agenda and facilitiation) (John)
+   * VBA session usability testing (to be scheduled) (CMS team)
+
+If there's time 
  * URL design and governance - based on h1? request and review process?
  * Request form for new CLPs: what fields? 
 
