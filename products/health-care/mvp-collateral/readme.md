@@ -53,7 +53,7 @@ This FAQ explains how MVP is prioritizing women Veterans in research, and why it
 
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate, for more information about the program.
 
-- [Women Veterans in Research FAQ[(assets/pdf/Women-Veterans-Fact-Sheet.pdf)
+- [Women Veterans in Research FAQ](assets/pdf/Women-Veterans-Fact-Sheet.pdf)
 
 ## Text for patient instructions
 
