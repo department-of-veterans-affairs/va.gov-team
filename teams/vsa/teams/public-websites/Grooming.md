@@ -46,6 +46,7 @@
 - [ ] [Discovery] Recommend/Share via email/mobile feature [Needs Ticket]
 - We believe that Veterans love helping Veterans and could benefit from an article ‘recommend/share’ feature in future iterations.  This could help increase content confidence through helping more Veterans better understand the benefits they have earned. 
 - [ ] [CLP Design] CLP background alternating panel color to optimize UX [new ticket]
+- [ ] [Discovery] Chatbot - look into COVID chatbot learnings before implementation into R&S (New Researcher work)
 
 Notes/Next Steps: 
 
