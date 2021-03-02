@@ -4,6 +4,7 @@
 Data in YellowRibbonProgramSource CSV is related to Weams rows by `facility_code`
 
 "Degree Level" is populated from the `degree_level` column in related rows in YellowRibbonProgramSource
+If "Degree Level" is displayed "Enter an amount" will appear as last selection in addition values from YellowRibbonProgramSource.
 
 If "Enter an amount" is selected
 
@@ -96,7 +97,7 @@ Otherwise select minimum value from
 1. Go to https://staging.va.gov/gi-bill-comparison-tool/profile/11107474 
     - Other institutions can be used that both:
       - have `current_academic_year_yellow_ribbon` in the weams file set to true
-      - are not PUBLIC and in the USA
+      - are not PUBLIC or in the USA
 2. Set “Tuition and fees per year” to a number greater than the [number of terms](calculation-definitions.md#number_of_terms) multiplied by the value 22805.34 
     - This is the TFCAP calculator constant that is used to set the tuition fees cap, [see TUITION_FEES_CAP](calculation-definitions.md#tuition_fees_cap) for other possible values
 3. Select Yes for "Will you be a Yellow Ribbon recipient?" in "Scholarships and other VA Funding"
