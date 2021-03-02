@@ -41,8 +41,7 @@
 
  * Beta user testing and onboarding.
    * VEO session this afternoon
-   * VBA session
-   *  
+   * VBA session usability testing
  * URL design and governance - based on h1? request and review process?
  * Request form for new CLPs: what fields? 
 
