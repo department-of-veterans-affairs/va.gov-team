@@ -21,6 +21,7 @@
 **Erik: Are you prepared to manage giving UAT participants access to direct deposit for edu in production?**
 - Yes — we need sign in email addresses beforehand in order for Erik to be able to do this.
 - **Action item: Jim/Perigean will need to get the email associated with the credential they use to sign in so Erik can add them.**
+- **Action item: Erik will flip both frontend and [backend](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml#L20) flags for this feature.**
 
 **All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
 - Yes
