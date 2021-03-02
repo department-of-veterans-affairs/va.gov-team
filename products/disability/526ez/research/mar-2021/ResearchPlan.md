@@ -1,12 +1,12 @@
-Research Plan for a Usability test of Form 526 (PTSD flow). Part 1 of 2. 
-=========================================================================
+Research Plan for a Usability test of Form 526 
+=========================================================
 
-VSA B&M1 Team, Form 526, Christian Valla, November 2020.
+VSA B&M1 Team, Form 526, Christian Valla, March 2021.
 
 [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/nov-2020/ResearchPlan.md#background)Background
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is Part 1 of 2 of a usability test of Form 526. 
+This is a usability test of Form 526. 
 
 Several changes have recently been made to Form 526. A comprehensive usability test with actual veterans is therefore needed. 
 
