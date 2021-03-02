@@ -60,7 +60,7 @@ If there's time
    - Do you plan to build your Campaign Landing Page all at once or in stages (add content/panels post-launch)?
    - What is lifespan? Maintain (keep updating), Re-use (seasonal), Archive (preserve as is) or Retire (remove)?
    - Do you heavily review/edit content before its published?
-
+* Customer satisfaction survey: gather key data factors from users in the build process and then again in the post launch phase.
 
 ## Wednesday February 24
 
