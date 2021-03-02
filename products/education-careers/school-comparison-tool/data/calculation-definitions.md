@@ -516,17 +516,17 @@ Otherwise select minimum value from below and mutiply by [tier](#tier)
 
 ##### `TUITION_FEES_CAP`
 if is flight
-- use Calculator Constant value `FLTTFCAP`
+- use [Calculator Constant](https://staging-api.va.gov/v0/gi/calculator_constants) value `FLTTFCAP`
 
 else if is correspondence 
-- use Calculator Constant value `CORRESPONDTFCAP`
+- use [Calculator Constant](https://staging-api.va.gov/v0/gi/calculator_constants) value `CORRESPONDTFCAP`
 
 else if is public and the country is USA
 - If in state student use "Tuition and fees per year" 
 - else use "In-state tuition and fees per year"
 
 else (comment in code indicates this is for private, foreign, and for-profit institutions)
-- use Calculator Constant value `TFCAP`
+- use [Calculator Constant](https://staging-api.va.gov/v0/gi/calculator_constants) value `TFCAP`
 
 ##### `TUITION_NET_PRICE`
 
