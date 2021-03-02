@@ -103,4 +103,36 @@ Doctorate degree: 2
 - Is there anything about medications, allergies, and immunizations that I should know about that I didn't cover today?
 - Do you have any final questions for me?
 
-## Research Findings
+## Key Findings
+- Veterans often need to communicate changes to their medication, allergy, and immunization record.
+  - Veterans utilize a variety of methods to review and update their health records, including My HealtheVet, paper, phone calls, and in-person communication.
+- Veterans sometimes don’t share or aren’t aware that certain updates to their medication, allergy, and immunization history would be helpful to VA providers.
+- Reviewing and updating medication information is of great interest to Veterans.
+- Needing to interact with or update allergies seems to occur less frequently than medications; however, the need can feel more urgent when it does arise.
+- Reviewing and printing immunization records are useful, but updates aren’t urgent and tend to occur during appointments.
+- The top three prioritized pieces of data or features for immunizations are immunization name (Flu shots, COVID-19), schedule an immunization, and date received. Immunizations also have four main mental model groupings for data/features: “what, when & where,” “next immunizations,” “product tracking,” and “how.”
+- The top three prioritized pieces of data or features for medications are medication name and dose refills remaining, and directions (take with food). Medications also have four main mental model grouping for data/features: “when and what,” “things to pay attention to,” “providers,” and “tracking information.”
+- The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
+- Some Veterans were surprised at the idea of submitting health record changes to their VA providers via a questionnaire or patient portal page. 
+- Veterans acknowledged that updating their health records via health questionnaires could help communications with their VA providers.
+- How often Veterans want to review and update this information varied from every appointment to annually.
+
+## Detailed Research Findings
+**Veterans often need to communicate changes to their medication, allergy, and immunization record.**
+- Veteran quotes:
+  - “We usually discuss that at my physical like the new prescriptions or if I’m taking the same thing.”
+  - “I’ve had bad side effects from medications and [my VA providers] appreciate having that information.”
+  - “I let them know when I plan to get [my flu shot].”
+  - “With Ritalin, you have to talk to your doctor, because it isn’t renewable.”
+- Every participant mentioned an experience of letting the VA know about a change to their medical record in these areas.
+
+**Veterans utilize a variety of methods to review and update their health records, including My HealtheVet, paper, phone calls, and in-person communication.**
+- Current methods used across the Veteran's journey
+  1. My HealtheVet or Paper
+    - Default methods of reviewing and planning their communications
+    - For My HealtheVet users, secure messaging was described as the initial method utilized for questions or communicating changes
+    - The Veterans utilizing MyHealtheVet and the Veterans utilizing paper to track changes to their medication, allergies, and immunizations were completely separate groups. Half of the Veterans mentioned utilizing MyHealtheVet. In particular, most mentioned utilizing secure messaging to manage questions and updates. However, the medication list on My HealtheVet was discussed as a resource.
+  2. Phone calls
+    - Described as an escalation method to get questions answered or to communicate more urgent updates
+  3. In-person
+    - Seen as the ultimate step in the process to provide updates or ask questions to their VA provider  
