@@ -52,4 +52,4 @@ Link to **Use Cases doc**: \[provide link]
 - [ ] For authenticated products, Staging test-accounts and mock-data set up for Use Cases above.
 - [ ] Test Cases [in TestRail] finalized based on Use Cases above.
 - [ ] Test Runs completed on Staging [or Drupal pre-prod enviornment].
-- [ ] Test Reports generated.  These should be provided to VSP at least 2 workdays before [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review).
+- [ ] Test Reports generated.  These should be provided to VSP at least 4 workdays before [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review).
