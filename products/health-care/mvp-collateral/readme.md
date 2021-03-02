@@ -4,17 +4,17 @@
 
 The Million Veteran Program invites you to join our campaign to engage and enroll more women Veterans. 
 
-**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our one-page briefer.
+**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our [one-page briefer](assets/pdf/MVP-Women-Veterans-Initiative-Brief.pdf).
 
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
 You can help by sharing the materials uploaded to this communication toolkit:
-1. Flyers
-2. One-pager
-3. Women Veterans in Research FAQ
-4. Text for physician instructions
-5. Facebook posts 
-6. Social media assets 
+1. [Flyers](#flyers)
+2. [One pager](#one-pager)
+3. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
+4. [Text for patient instructions](#text-for-patient-instructions)
+5. [Facebook posts](#facebook-posts)
+6. [Social media assets](#social-media-assets)
 
 Below you’ll also find links to additional stories, news releases, podcasts, and other content featured as part of this campaign. Please feel free to distribute and share as appropriate. 
 
@@ -53,13 +53,13 @@ This FAQ explains how MVP is prioritizing women Veterans in research, and why it
 
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate, for more information about the program.
 
-- Women Veterans in Research FAQ
+- [Women Veterans in Research FAQ[(assets/pdf/Women-Veterans-Fact-Sheet.pdf)
 
 ## Text for patient instructions
 
 To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
-- Text for patient instructions
+- [Text for patient instructions](assets/doc/Text-for-patient-instructions.docx)
 
 ## Facebook posts
 
@@ -67,7 +67,7 @@ Below is a Word document with 12 Facebook posts that can be shared by any VA acc
 
 If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below. 
 
-- 12 Facebook posts
+- [12 Facebook posts](assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx)
 
 ## Social media assets
 
