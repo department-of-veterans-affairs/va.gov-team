@@ -45,7 +45,7 @@ All amounts with `paid by VA` are the same as the corresponding `paid by school`
 If any of the following below then set the yellow ribbon benefit term to 0
  - the amount entered into "Yellow Ribbon amount from school per year" (`yellowRibbonAmount`) equals 0
  - [tier](calculation-definitions.md#tier) is less than 1
- - institution field `yr` is false
+ - institution field `yr` is false, this is the `current_academic_year_yellow_ribbon` in weams
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
  -  is OJT or Flight or Correspondence
@@ -61,7 +61,7 @@ Otherwise select minimum value from
 If any of the following below then set the yellow ribbon benefit term to 0
  - the amount entered into "Yellow Ribbon amount from school per year" (`yellowRibbonAmount`) equals 0
  - [tier](calculation-definitions.md#tier) is less than 1
- - institution field `yr` is false
+ - institution field `yr` is false, this is the `current_academic_year_yellow_ribbon` in weams
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
  -  is OJT or Flight or Correspondence
@@ -79,7 +79,7 @@ Otherwise select minimum value from
 If any of the following below then set the yellow ribbon benefit term to 0
  - the amount entered into "Yellow Ribbon amount from school per year" (`yellowRibbonAmount`) equals 0
  - [tier](calculation-definitions.md#tier) is less than 1
- - institution field `yr` is false
+ - institution field `yr` is false, this is the `current_academic_year_yellow_ribbon` in weams
  - "Will you be a Yellow Ribbon recipient?" is no
  -  `militaryStatus === 'active duty'`
  -  is OJT or Flight or Correspondence
