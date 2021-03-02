@@ -136,3 +136,47 @@ Doctorate degree: 2
     - Described as an escalation method to get questions answered or to communicate more urgent updates
   - In-person
     - Seen as the ultimate step in the process to provide updates or ask questions to their VA provider  
+
+**Reviewing and updating medication information is of great interest to Veterans.**
+- All participants had a current process by which they review their medications and communicate with their VA providers about:
+  - stopping the usage of a medication
+  - any side effects or reactions to a medication
+  - medication record inaccuracies
+  - questions they have about their medications
+- When asked to choose between medications, allergies, and immunizations as the most important item for us to build within a pre-visit questionnaire, medications was chosen by **five out of seven** participants.
+  - _One participant couldn’t decide between medications and allergies._
+
+**Needing to interact with or update allergies seems to occur less frequently than medications; however, the need can feel more urgent when it does arise.**
+- Veteran quotes:
+  - “I’ve always had [this allergy]. I had a bad reaction at 20 years old, so it is in all my medical records.”
+  - “Allergies could be life saving for the individual.”
+  - “Allergies...are the most significant things that happen that are not always remembered at the appointment.”
+- When asked to choose between medications, allergies, and immunizations as the most important item for us to build within a pre-visit questionnaire, allergies was chosen by **three out of seven** participants.
+  - _One participant couldn’t decide between medications and allergies._
+  - _One participant couldn’t decide between immunizations and allergies._
+
+**Reviewing and printing immunization records are useful, but updates aren’t urgent and tend to occur during appointments.**
+- One participant recently went back to college utilizing the GI Bill. As a result, getting access to a print out of their official immunization record was extremely important.
+  - Due to the GI Bill and higher education institutions’ immunization record entrance requirements, printing an immunization record could be very beneficial to Veterans enrolling in college and universities. 
+- Six out of seven participants mentioned updating their providers about their immunizations. Most stated that they waited until their appointment.
+- During their descriptions, there wasn’t this sense of urgency around getting update to their medical provider. The immunization mentioned most often as something they needed to let their provider know that they received was the flu shot.
+
+**Immunizations Prioritization**
+1. Immunization name (Flu shots, COVID-19)
+2. Schedule an immunization
+3. Date received
+4. Reminder that immunization is due
+5. Printing immunization record
+___________
+6.	Add an immunization
+7.	1st dose vs. 2nd dose
+8.	Product name/manufacturer
+9.	Health care professional or clinic site
+10.	Recommended screenings and immunizations
+11.	Reactions
+12.	Editing reactions
+13. Comment box
+14.	CDC Traveler’s Health Information (link)
+15.	By mouth, inhalant, injection
+16.	Lot number
+17.	Location of immunization (arm)
