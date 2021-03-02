@@ -51,6 +51,14 @@ If there's time
      - Whether there is a good, low-risk way to auto-generate URLs, or
      - Whether there is a combo approach. [Could Drupal suggest non-duplicate URL(s) that can then be modified? Or is there code that could plug into Drupal to help do this? This way, stop words like "and," "the," and "or" can be removed by a human or by the suggestion functionality; then the URL would be checked again to be sure the URL isn't a duplicate in Drupal. The human would make sure the URL isn't the same as a legacy URL.]
  * Request form for new CLPs: what fields? 
+   - Who (is requesting)? (Note: Must come from VACO Digital Comms lead)
+   - What (is campaign)?
+   - When (does it start/end)?
+   - Goals of the Campaign?
+   - How will it be communicated to Veterans? (Social Media, Email, etc.)
+   - Do you plan to build your Campaign Landing Page all at once or in stages (add content/panels post-launch)?
+   - What is lifespan? Maintain (keep updating), Re-use (seasonal), Archive (preserve as is) or Retire (remove)?
+   - Do you heavily review/edit content before its published?
 
 
 ## Wednesday February 24
