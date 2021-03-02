@@ -38,7 +38,17 @@
  - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
  - [ ] Typo fixes for VCL modal from Sitewide content #20610
 
+### Discovery Topics
+- [ ] [Discovery] Optimize VA.gov component creation #12320
+- [ ] [Discovery] Generate "tech debt" opportunities #7790
+- [ ] [DISCOVERY] Send to Mobile R&S Enhancement #20331
+- We’ve learned through big data reviews that Veterans are largely using Mobile/Tablet to interact with R&S content and could likely benefit from a “Send to Mobile” for key content articles in an effort to better consume VA content in support of benefit questions and self guided learning.
+- [ ] [Discovery] Recommend/Share via email/mobile feature [Needs Ticket]
+- We believe that Veterans love helping Veterans and could benefit from an article ‘recommend/share’ feature in future iterations.  This could help increase content confidence through helping more Veterans better understand the benefits they have earned. 
+- [ ] [CLP Design] CLP background alternating panel color to optimize UX [new ticket]
+
 Notes/Next Steps: 
+
 
 ### Campaign landing page MVP 1.0
 - [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
@@ -46,19 +56,20 @@ Notes/Next Steps:
 - CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
 
 Notes/Next Steps:
-Internal UAT --> Update/Fix --> Stakeholder UAT --> Update/Fix --> VSP Staging Review --> Update/Fix --> Launch!
+VSP Staging Review --> Update/Fix --> Finish out Stakeholder UAT --> Finalize on-boarding process --> Launch!
 
 ### Resources and Support MVP 1.1
 [MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
 - Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605)
 - Determine Next steps post CLP build 
-- Bugs and 508 issue considerations
+
 
 Notes/Next Steps: 
 
 
 ### Technical Debt Oppurtunities 
 - [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- a11y office reviewing 508 issues EPIC: Should have something back by Sprint 43. 
 
 Notes/Next Steps: 
 
