@@ -204,8 +204,8 @@ _Activity completed by 6 participants._<br/>
 **How**
 - Location of immunization
 - By mouth, inhalant, injection
-<br/>
-- Minimum of half the participants grouped these items together in order to them to appear in the above groupings.<br/>
+
+- Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
 
 ### Medications Prioritization
@@ -220,10 +220,10 @@ _Activity completed by 6 participants._<br/>
 9. Your own side effects 
 _________
 10.	Prescribed by (Doctor’s name)
-11. 	Expires on
+11. Expires on
 12.	Rx #
 13.	Ordered on
-14. 	Discontinued, active, expired
+14. Discontinued, active, expired
 15.	VA vs. Non-VA prescription
 16.	Pharmacy information
 17.	Side effects
@@ -266,7 +266,7 @@ _Activity completed by 6 participants._<br/>
 
 **Tracking information**
 - Medication name and dose
-- Rx #<br/>
+- Rx #
 
 - Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
 - There was much more overlap in the groupings within medications then allergies and immunizations. 
