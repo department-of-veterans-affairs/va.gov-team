@@ -27,6 +27,48 @@
 
 </details>
 
+## Wednesday, March 3, 2021
+
+### Discussion Topics/Grooming 
+
+ - [ ] Bug: Articles listings and RS search listings are showing weird html tag text #17779
+ - [ ] Chrome bug: Yellow line showing on some RS pages #18570
+ - [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER #18641
+ - [ ] 508-defect-3 [AXE-CORE]: Aside must not be contained in another landmark #20236
+ - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
+ - [ ] Typo fixes for VCL modal from Sitewide content #20610
+
+Notes/Next Steps: 
+
+### Campaign landing page MVP 1.0
+- [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
+
+Notes/Next Steps:
+Internal UAT --> Update/Fix --> Stakeholder UAT --> Update/Fix --> VSP Staging Review --> Update/Fix --> Launch!
+
+### Resources and Support MVP 1.1
+[MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
+- Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605)
+- Determine Next steps post CLP build 
+- Bugs and 508 issue considerations
+
+Notes/Next Steps: 
+
+
+### Technical Debt Oppurtunities 
+- [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+
+Notes/Next Steps: 
+
+### In-Take and Redirect request: 
+- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+
+Notes/Next Steps:  
+
+
+### Team Clarity Requests: 
 ## Wednesday, February, 17, 2021
 
 ### Discussion Topics/Grooming 
