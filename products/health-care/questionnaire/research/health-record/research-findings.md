@@ -128,11 +128,11 @@ Doctorate degree: 2
 
 **Veterans utilize a variety of methods to review and update their health records, including My HealtheVet, paper, phone calls, and in-person communication.**
 - Current methods used across the Veteran's journey
-  1. My HealtheVet or Paper
+  - My HealtheVet or Paper
     - Default methods of reviewing and planning their communications
     - For My HealtheVet users, secure messaging was described as the initial method utilized for questions or communicating changes
     - The Veterans utilizing MyHealtheVet and the Veterans utilizing paper to track changes to their medication, allergies, and immunizations were completely separate groups. Half of the Veterans mentioned utilizing MyHealtheVet. In particular, most mentioned utilizing secure messaging to manage questions and updates. However, the medication list on My HealtheVet was discussed as a resource.
-  2. Phone calls
+  - Phone calls
     - Described as an escalation method to get questions answered or to communicate more urgent updates
-  3. In-person
+  - In-person
     - Seen as the ultimate step in the process to provide updates or ask questions to their VA provider  
