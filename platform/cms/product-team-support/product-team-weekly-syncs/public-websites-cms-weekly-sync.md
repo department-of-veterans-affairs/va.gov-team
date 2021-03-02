@@ -39,6 +39,7 @@
 
 ### CLP
 
+ * Review product guide
  * Beta user testing and onboarding.
    * VEO session this afternoon
    * VBA session usability testing
