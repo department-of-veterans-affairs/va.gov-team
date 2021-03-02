@@ -34,7 +34,11 @@ Try signing in with your DS Logon, My HealtheVet, or ID.me account. If you don�
 *	Previous high-tech industry experience, if applicable
 *	Information about the training provider or program you want to attend (optional) 
 
-To be eligible for VET TEC, you need to be a Veteran with at least one day of unexpired education benefits. You can complete the VET TEC application to see if you’re eligible for the program, even if you haven’t yet selected the training program you'd like to attend. [Learn more about the programs covered under VET TEC](https://www.benefits.va.gov/gibill/fgib/VetTec_Veteran.asp).
+**To be eligible for VET TEC, you need to be**
+* A Veteran with at least one day of unexpired education benefits, **or**
+* A service member with 180 days of less left on active duty
+
+You can complete the VET TEC application to see if you’re eligible for the program, even if you haven’t yet selected the training program you'd like to attend. [Learn more about the programs covered under VET TEC](https://www.benefits.va.gov/gibill/fgib/VetTec_Veteran.asp).
 
 **What if I need help filling out my application?** An accredited representative, like a Veterans Service Officer (VSO), can help you fill out your application. [Get help filing your claim](https://staging.va.gov/disability/get-help-filing-claim/).
 
