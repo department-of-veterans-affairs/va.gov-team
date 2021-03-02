@@ -10,7 +10,7 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 
 You can help by sharing the materials uploaded to this communication toolkit:
 1. [Flyers](#flyers)
-2. [One pager](#one-pager)
+2. [One-pager](#one-pager)
 3. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
 4. [Text for patient instructions](#text-for-patient-instructions)
 5. [Facebook posts](#facebook-posts)
