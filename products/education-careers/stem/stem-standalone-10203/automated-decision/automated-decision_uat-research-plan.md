@@ -23,30 +23,30 @@
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
 We are hoping to recruit 10 total participants: 
-- 8 ineligible particiapnts 
-   - Of the 8 ineligible, we'd like at least 3 of them to have Power of Attorneys on file with LTS/VA.gov
+- ~~8~~ 5 ineligible particiapnts 
+   - Of the ~~8~~ 5 ineligible, we'd like at least 3 of them to have Power of Attorneys on file with LTS/VA.gov
 - 2 eligible participants
 
 More specifically: 
-- 3 Ineligible participants due to program type
+- ~~3 Ineligible participants due to program type --~~
 - 5 Ineligible participants due to remaining entitlement
 - 2 Eligible participants
 
-3 Ineligible applicants (ineligible due to program of study)
-- You must have one of these free accounts to log in to VA.gov during the testing session:
-   - A premium My HealtheVet account, or
-   - A DS Logon account (used for eBenefits and milConnect), or
-   - A verified ID.me account that you can create here on VA.gov
-- Have applied for Post-9/11 GI Bill Benefits (Chapter 33)
-- Received a decision from the VA on your application  (Chapter 33)
-- One of the following: 
-    - Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM) OR 
-    - You've already earned a STEM bachelor’s degree and are pursuing a teaching certification that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM)
-- Less than 6 months of benefit entitlement remaining. To check this:
-   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
-   - Sign into your account
-   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
-- Do you have a Power of Attorney on record on VA.gov?
+~~3 Ineligible applicants (ineligible due to program of study)~~
+- You must have one of these free accounts to log in to VA.gov during the testing session:~~
+   - ~~A premium My HealtheVet account, or~~
+   - ~~A DS Logon account (used for eBenefits and milConnect), or~~
+   - ~~A verified ID.me account that you can create here on VA.gov~~
+- ~~Have applied for Post-9/11 GI Bill Benefits (Chapter 33)~~
+- ~~Received a decision from the VA on your application  (Chapter 33)~~
+- ~~One of the following: ~~
+    - ~~Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM) OR ~~
+    - ~~You've already earned a STEM bachelor’s degree and are pursuing a teaching certification that is **NOT** in the field of Science, Technology, Engineering, or Math (STEM)~~
+- ~~Less than 6 months of benefit entitlement remaining. To check this:~~
+   - ~~Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/~~
+   - ~~Sign into your account~~
+   - ~~Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit~~
+- ~~Do you have a Power of Attorney on record on VA.gov?~~
 
 
 5 Ineligible applicants (ineligible due to chapter 33 entitlement remaining)
