@@ -1,1 +1,0 @@
-Product folder for VEText.
