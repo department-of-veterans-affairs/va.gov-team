@@ -8,6 +8,7 @@
 
 **Jim: Are the research plan and conversation guide for UAT complete?**
 - Yes, just needs to add bit about recruiting dependents being a requirement. Otherwise, ready to submit.
+- **Action item: Submit research materials to kick off recruiting.**
 
 **Jim: Are you prepared to run UAT sessions as early as next week?**
 - Yes, only caveat is if research sessions for other project spill over into next week.
