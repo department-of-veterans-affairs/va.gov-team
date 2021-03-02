@@ -205,5 +205,68 @@ _Activity completed by 6 participants._<br/>
 - Location of immunization
 - By mouth, inhalant, injection
 <br/>
-- Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
+- Minimum of half the participants grouped these items together in order to them to appear in the above groupings.<br/>
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
+
+### Medications Prioritization
+1. Medication name and dose
+2. Refills remaining
+3. Directions (Take with food)
+4. Warnings/Interactions
+5. Quantity 
+6. Duration
+7. Last refilled on
+8. Add a medication
+9. Your own side effects 
+_________
+10.	Prescribed by (Doctor’s name)
+11. 	Expires on
+12.	Rx #
+13.	Ordered on
+14. 	Discontinued, active, expired
+15.	VA vs. Non-VA prescription
+16.	Pharmacy information
+17.	Side effects
+18.	Patient education link
+19.	Comment box
+20.	Taking as prescribed (Yes/No and Why?)
+21.	Injection, Oral, Liquid
+22.	Description (Oval, white)
+
+- Items to the left of the line averaged within the very important or important categories and had lower standard deviation scores. 
+- Secure messaging and Diagnosis (What do I take this medication for?) were mentioned by multiple participants as features that should be added to this list. The participants who suggested these also ranked them very highly.
+- There was no real confusion with any of these pieces of data/features. With later participants in the study, we asked if they would rank the “Taking as prescribed (Yes/No and Why?)” if it was just no. Participants stated that they probably would rank it higher. An example a participants shared about why they see that as value was to let a provider know if a medication was upsetting their stomach. 
+- Five out of seven participants want to list medication allergies (such as you develop a rash when taking Penicillin) in both the medications and allergies sections.
+
+### Medications Groupings
+_Activity completed by 6 participants._<br/>
+**When and what**<br/>
+- Medication name and dose
+- Directions (Take with food)
+  - Sub-group 1
+    - Refills remaining
+    - Last refilled on
+  - Sub-group 2
+    - Quantity
+    - Duration
+    - Diagnosis
+  - Sub-group 3
+    - Expires on
+    - Ordered on
+
+**Things to pay attention to**
+- Side effects
+- Warnings / Interactions
+- Directions (Take with food)
+
+**Providers**
+- VA/Non-VA prescription
+- Pharmacy information
+- Prescribed by
+
+**Tracking information**
+- Medication name and dose
+- Rx #<br/>
+
+- Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
+- There was much more overlap in the groupings within medications then allergies and immunizations. 
