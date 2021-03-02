@@ -187,7 +187,7 @@ ___________
 - Secure messaging was mentioned by multiple participants as a feature that should be added to this list. The participants who suggested it also ranked it very highly. How long does each immunization last (like flu shot is 1 year and tetanus is every 10) was suggested as an item by one participant. 
 
 ### Immunization Groupings
-_Activity completed by 6 participants._<br/>
+_Activity completed by 6 participants._
 **What, when & where**
 - Immunization name
 - Date received
@@ -204,7 +204,7 @@ _Activity completed by 6 participants._<br/>
 **How**
 - Location of immunization
 - By mouth, inhalant, injection
-
+<br/>
 - Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
 
@@ -239,8 +239,8 @@ _________
 - Five out of seven participants want to list medication allergies (such as you develop a rash when taking Penicillin) in both the medications and allergies sections.
 
 ### Medications Groupings
-_Activity completed by 6 participants._<br/>
-**When and what**<br/>
+_Activity completed by 6 participants._
+**When and what**
 - Medication name and dose
 - Directions (Take with food)
   - Sub-group 1
@@ -267,6 +267,6 @@ _Activity completed by 6 participants._<br/>
 **Tracking information**
 - Medication name and dose
 - Rx #
-
+<br/>
 - Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
 - There was much more overlap in the groupings within medications then allergies and immunizations. 
