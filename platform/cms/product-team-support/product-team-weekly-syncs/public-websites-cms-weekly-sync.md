@@ -39,6 +39,7 @@
 
 ### CLP
 
+ * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location)
  * Review product guide (John)
  * Beta user testing and onboarding.
    * VEO session this afternoon (agenda and facilitiation) (John)
