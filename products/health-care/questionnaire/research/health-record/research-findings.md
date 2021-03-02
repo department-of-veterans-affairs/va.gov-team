@@ -113,9 +113,9 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
 - The top three prioritized pieces of data or features for immunizations are immunization name (Flu shots, COVID-19), schedule an immunization, and date received. Immunizations also have four main mental model groupings for data/features: “what, when & where,” “next immunizations,” “product tracking,” and “how.”
 - The top three prioritized pieces of data or features for medications are medication name and dose refills remaining, and directions (take with food). Medications also have four main mental model grouping for data/features: “when and what,” “things to pay attention to,” “providers,” and “tracking information.”
 - The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
-- Some Veterans were surprised at the idea of submitting health record changes to their VA providers via a questionnaire or patient portal page. 
-- Veterans acknowledged that updating their health records via health questionnaires could help communications with their VA providers.
 - How often Veterans want to review and update this information varied from every appointment to annually.
+- Some Veterans were surprised at the idea of submitting health record changes to their VA providers via a questionnaire or patient portal page. 
+- Health questionnaires can expand the current ecosystem of Veteran-provider communications.
 
 ## Detailed Research Findings
 ### Veterans often need to communicate changes to their medication, allergy, and immunization record.
@@ -311,18 +311,6 @@ _Activity completed by 6 participants._
 - Onset date
 - Reported by
 
-### Some Veterans were surprised at the idea of submitting health records changes to their VA providers via a questionnaire or patient portal page.
-- Many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information.
-  - Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
-- A few participants wondered if they would/should be required to send supporting documentation when submitting a change to their health record.
-
-### Veterans acknowledged that updating their health records via health questionnaires could help communications with their VA providers.
-- Veteran quote:
-  - “I can update it at night when I have the resources. There’s nothing worse than being [at the doctor’s office] and not having the [medication] bottle with me.”
-    - This quote highlights a current pain point of not having time to clearly time think through health record updates while in the waiting room or during their appointment.
-- One participant asked (before even knowing about health questionnaires) to receive a notification triggering them to review and update these items before an appointment.
-- All participants stated that they saw value to including medications, allergies, and immunizations with a health questionnaire.
-
 ### How often Veterans want to review and update this information varied from every appointment to annually.
 - All participant responses
   - every 6 months
@@ -332,6 +320,24 @@ _Activity completed by 6 participants._
   - annually
   - before each appointment
   - based on appointment types and what could impact that appointment, so definitely before all physicals and procedures (like colonoscopies).
+
+### Some Veterans were surprised at the idea of submitting health records changes to their VA providers via a questionnaire or patient portal page.
+- Many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information.
+  - Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
+- A few participants wondered if they would/should be required to send supporting documentation when submitting a change to their health record.
+
+### Health questionnaires can expand the current ecosystem of Veteran-provider communications.
+- Veterans ranked “making changes to their health record” low during the prioritization activity, but their verbal explanations highlighted how ubiquitous communicating health record changes are to Veterans.
+- **New hypothesis:** Current communication methods are already helping Veterans share health records changes with their providers, but health questionnaires can expand the ecosystem in unique ways (shown on next slide):
+  - Giving Veterans time to reflect on their answers from the comfort of their home
+    - Veteran quote: “I can update it at night when I have the resources. There’s nothing worse than being [at the doctor’s office] and not having the [medication] bottle with me.”
+      - This quote highlights a current pain point of not having time to clearly time think through health record updates while in the waiting room or during their appointment. 
+  - Utilizing text and email notifications to trigger Veterans to review and update these items
+    - One participant asked (before even knowing about health questionnaires) to receive a notification triggering them to review and update these items before an appointment.
+  - Eliminating confusion on what updates would be beneficial to providers by asking targeted questions within the questionnaires 
+  - When explicitly asked after health questionnaires were explained in more detail, all participants stated that they saw value to including medications, allergies, and immunizations with a health questionnaire.
+
+
 
 ## Recommendations and Next Steps
 _Coming soon._
