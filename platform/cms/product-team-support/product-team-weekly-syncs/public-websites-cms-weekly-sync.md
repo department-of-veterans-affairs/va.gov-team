@@ -37,9 +37,14 @@
 
 ## Wednesday March 3
 
+### CLP
+
+ * Beta user testing and onboarding.
+   * VEO session this afternoon
+   * VBA session
+   *  
  * URL design and governance - based on h1? request and review process?
- * beta user testing and onboarding.
- * request form for new CLPs
+ * Request form for new CLPs: what fields? 
 
 
 ## Wednesday February 24
