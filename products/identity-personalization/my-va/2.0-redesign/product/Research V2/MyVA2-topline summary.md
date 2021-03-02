@@ -14,7 +14,6 @@ Prepared by: Tressa Furner, Authenticated Experience
 - Users easily found the information that they were looking for
 - Users were able to complete most tasks, even if there was some confusion about specific information
 - Mixed reviews on preferring the homepage vs MyVA as the homepage - more users preferred the MyVA page
-- Users did not think anything needed to be added to MyVA for it to be a successful homepage
 - Users had positive feedback about the MyVA page
 - The MyVA mostly met user expectations
 - Users easily understood how to get to the profile 
@@ -55,7 +54,7 @@ Prepared by: Tressa Furner, Authenticated Experience
 
 **Overall**
 
-- No users were able to find MyVA in the Menu dropdown on their own (could be the way we framed the question)
+- No users were able to find MyVA in the Menu dropdown on their own (could be the way we framed the question - all users said they would look in the homepage links to find updates to benefits (specifically in the disability section)
 - A couple users thought the grey boxes were clickable
 - Multiple users mentioned messages and prescriptions grey boxes to be not helpful, 1 participant wanted all grey boxes removed
 - A lot of confusion around 'totals' in general. Users didn't know if the grey box was included in the total in the CTA
@@ -82,7 +81,9 @@ Prepared by: Tressa Furner, Authenticated Experience
 
 **Apply for benefits**
 
-- no confusion
+- if the benefit we are showing was something they were eligible for
+- if the benefit we are showing was a benefit that is underutilized at the VA 
+- how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
 
 ## Things participants mentioned that they would like added/changed
 
