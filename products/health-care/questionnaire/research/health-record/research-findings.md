@@ -205,6 +205,7 @@ _Activity completed by 6 participants._
 - Location of immunization
 - By mouth, inhalant, injection
 <br/>
+<br/>
 - Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
 
@@ -267,6 +268,7 @@ _Activity completed by 6 participants._
 **Tracking information**
 - Medication name and dose
 - Rx #
+<br/>
 <br/>
 - Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
 - There was much more overlap in the groupings within medications then allergies and immunizations. 
