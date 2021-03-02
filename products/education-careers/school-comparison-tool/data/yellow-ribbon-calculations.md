@@ -7,6 +7,7 @@ Data in YellowRibbonProgramSource CSV is related to Weams rows by `facility_code
 
 If "Degree Level" is displayed "Enter an amount" will appear as last selection in addition values from YellowRibbonProgramSource.
 
+#### Degree Level
 If "Enter an amount" is selected
 
 - then "Yellow Ribbon amount from school per year" is shown with a default value of $0
