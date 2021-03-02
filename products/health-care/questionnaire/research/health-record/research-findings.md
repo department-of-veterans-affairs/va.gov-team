@@ -187,7 +187,7 @@ ___________
 - Secure messaging was mentioned by multiple participants as a feature that should be added to this list. The participants who suggested it also ranked it very highly. How long does each immunization last (like flu shot is 1 year and tetanus is every 10) was suggested as an item by one participant. 
 
 ### Immunization Groupings
-_Activity completed by 6 participants._
+_Activity completed by 6 participants._<br/>
 **What, when & where**
 - Immunization name
 - Date received
@@ -204,6 +204,6 @@ _Activity completed by 6 participants._
 **How**
 - Location of immunization
 - By mouth, inhalant, injection
-
+<br/>
 - Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
