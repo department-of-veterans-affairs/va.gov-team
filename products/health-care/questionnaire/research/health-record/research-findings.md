@@ -31,20 +31,20 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
 
 ### Who we spoke with: 7 Veterans
 **Gender**
-Male: 3
-Female: 4
+- Male: 3
+- Female: 4
 
 **Age**
-25-34: 1
-45-54: 1
-55-64: 1
-65-74: 4
+- 25-34: 1
+- 45-54: 1
+- 55-64: 1
+- 65-74: 4
 
 **Education**
-Unknown: 1
-Associate’s degree/trade certificate/vocational training: 1
-Master’s degree: 3
-Doctorate degree: 2
+- Unknown: 1
+- Associate’s degree/trade certificate/vocational training: 1
+- Master’s degree: 3
+- Doctorate degree: 2
 
 - One participant was completely blind as well.
 
@@ -204,7 +204,8 @@ _Activity completed by 6 participants._
 **How**
 - Location of immunization
 - By mouth, inhalant, injection
---
+
+
 - Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
 - What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
 
@@ -267,6 +268,7 @@ _Activity completed by 6 participants._
 **Tracking information**
 - Medication name and dose
 - Rx #
---
+
+
 - Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
 - There was much more overlap in the groupings within medications then allergies and immunizations. 
