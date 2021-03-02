@@ -5,7 +5,7 @@ Data in YellowRibbonProgramSource CSV is related to Weams rows by `facility_code
 
 "Degree Level" is populated from the `degree_level` column in related rows in YellowRibbonProgramSource.
 
-If "Degree Level" is displayed "Enter an amount" will appear as last selection in addition values from YellowRibbonProgramSource.
+If "Degree Level" is displayed "Enter an amount" will appear as last selection in addition to values from YellowRibbonProgramSource.
 
 #### Degree Level
 If "Enter an amount" is selected
