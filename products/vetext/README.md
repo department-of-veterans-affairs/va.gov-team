@@ -15,10 +15,9 @@ In 2020 the VEText team moved to the OCTO to give it a national scope, and is no
 ---|---|---
 **✔ Open Slot Management (OSM)** | Is used to reduce long wait times at VA clinics. It finds veterans waiting for appointments and offers a defined number of them an open appointment slot on a first come first serve basis. It’s configurable based on a variety of parameters to ensure appointment slots do not go unused. It can be turned on for certain clinics or specific clinical service groups (“stop codes”) within a facility. | Active for two years, was shut down due to Covid, but reopened in Oct & currently in use by 10 hospitals
 **** | Below this line, hasn’t been verified with the team | 
-**Appointment Reminders** | Sends reminders to vets who have been identified by NIRMO as likely to miss their appointments. Gives them the option to cancel. | 
+**Appointment Reminders** | Sends reminders to vets who have been identified by NIRMO as likely to miss their appointments. Gives them the option to confirm, cancel or reschedule. | 
 **Vaccine Outreach** | To facilitate both flu & covid vaccine rollout, allows administrators to proactively text a batch of veterans to schedule an appointment. Covid outreach uses OSM. | 
 **Surgery Notifications** | Notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions | 
-**Appointment Reminders** | Veterans receive appointment reminders and can confirm or cancel appointments via text | 
 **Direct Scheduling** | Veterans can schedule appointments via text message. Sites have to decide what patients they send the appointments to by cohort etc. then upload them to sharepoint and include information there. VEText team (Andy) has to manually add them to a batch | Deployed Nationwide
 **Pharmacy Tracking** |  | Pilot in Asheville, Eastern Colorado next.
 **Pharmacy Refills** | Automates pharmacy refills - pilot program is using local pharmacies and only fills controlled substances with plans to roll out to more in the future (Asheville is not using CMOP(‘local pharmacy’ instead). This project requires budget support (AWS credits - some sites paying ‘out of pocket’) | 
