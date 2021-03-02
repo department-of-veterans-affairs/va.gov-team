@@ -272,3 +272,66 @@ _Activity completed by 6 participants._
 **Notes:**
 - Minimum of half the participants grouped these items together in order for them to appear in the above groupings.
 - There was much more overlap in the groupings within medications then allergies and immunizations. 
+
+### Allergies Prioritization
+1. Allergy name (Peanuts, Lactose intolerance)
+2. Reactions (Rash, Anaphylaxis)
+3. Severity level (High risk, low risk)
+4. Add an allergy
+5. Editing reactions
+__________
+6.	Comment box
+7.	Onset date
+8.	Patient education link (Medline plus)
+9.	Verified date (and not verified)
+10.	Documenting facility
+11.	Diagnosed (Yes/No)
+12.	Reported by (Doctor’s name, Veteran)
+
+- Items to the left of the line averaged within the very important or important categories and had lower standard deviation scores. Treatment plan for allergy (such as an Epipen, allergy shots, antihistamines) was added to the list by one participant. Participants commented on wanting to utilize the comment box like a quick secure message.
+- Veterans were confused about the difference between verified date and diagnosed (yes/no). Most said that they wouldn’t need diagnosed (yes/no) if they had a verified date.
+- Five out of seven participants want to list medication allergies (such as you develop a rash when taking Penicillin) in both the medications and allergies sections.
+
+### Allergies Groupings
+_Activity completed by 6 participants._
+**What**
+- Allergy name
+- Reaction
+- Severity level
+- _There was more of a correlation shown for grouping allergy name, reactions, and severity level compared to the other groupings._
+
+**Actions**
+- Add an allergy
+- Editing reactions
+- Comment box
+
+**When and where**
+- Verified date
+- Documenting facility
+- Onset date
+- Reported by
+
+### Some Veterans were surprised at the idea of submitting health records changes to their VA providers via a questionnaire or patient portal page.
+- Many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information.
+  - Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
+- A few participants wondered if they would/should be required to send supporting documentation when submitting a change to their health record.
+
+### Veterans acknowledged that updating their health records via health questionnaires could help communications with their VA providers.
+- Veteran quote:
+  - “I can update it at night when I have the resources. There’s nothing worse than being [at the doctor’s office] and not having the [medication] bottle with me.”
+    - This quote highlights a current pain point of not having time to clearly time think through health record updates while in the waiting room or during their appointment.
+- One participant asked (before even knowing about health questionnaires) to receive a notification triggering them to review and update these items before an appointment.
+- All participants stated that they saw value to including medications, allergies, and immunizations with a health questionnaire.
+
+### How often Veterans want to review and update this information varied from every appointment to annually.
+- All participant responses
+  - every 6 months
+  - only major appointments like physicals, but not sick visits
+  - once a month to every few months
+  - every two-three months
+  - annually
+  - before each appointment
+  - based on appointment types and what could impact that appointment, so definitely before all physicals and procedures (like colonoscopies).
+
+## Recommendations and Next Steps
+_Coming soon._
