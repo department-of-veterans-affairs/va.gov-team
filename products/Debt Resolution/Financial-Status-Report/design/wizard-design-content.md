@@ -60,7 +60,7 @@ Based on the information you provided, this isn’t the form you need.
 **For help with VET TEC program debt,** contact us by email, phone, or mail.
 
 -  **Email:** [VETTEC.VBABUF@va.gov]()
--  **Phone:** Call us at [716-857-5061]() (TTY: [711]()) and leave a message.
+-  **Phone:** Call us at [716-857-5061]() (TTY: [711]()). If we're not there when you call, leave a detailed message. We'll call you back as soon as possible.
 -  **Mail:**
     -  VA Regional Processing Office 307
     -  P.O. Box 4616 
