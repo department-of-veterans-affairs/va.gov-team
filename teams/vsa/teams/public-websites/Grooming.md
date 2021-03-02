@@ -16,7 +16,7 @@
 </details>
 
 <details><summary>Parking lot</summary>
-- Review R&S Iterate EPIC and determine Next Steps.
+- Discuss Roadmapping Events and Finalzie for the team. 
 </details>
    
 <details><summary>Relevant PubWeb product backlogs and docs</summary>
