@@ -337,7 +337,11 @@ _Activity completed by 6 participants._
   - Eliminating confusion on what updates would be beneficial to providers by asking targeted questions within the questionnaires 
   - When explicitly asked after health questionnaires were explained in more detail, all participants stated that they saw value to including medications, allergies, and immunizations with a health questionnaire.
 
-
-
 ## Recommendations and Next Steps
-_Coming soon._
+- Move toward with the idea of allowing Veterans to review and update their medication, allergy, and immunization information in digital health questionnaires.
+  - Take Veteran’s priority order of medications, allergies, then immunizations into account with continued work.
+  - Look further into communicating COVID immunization updates (particularly if a Veteran received the COVID vaccine outside the VA) and its priority compared to medications. 
+    - Very few of our participants already received their COVID vaccine.
+- Utilize the prioritization and grouping information to explore health questionnaire designs that include medications, allergies, and immunizations. Then, retest to make sure the actual solution meet Veterans needs.
+- Make sure that our solution reduces the burden of reviewing these sections too often, since Veterans needs and preferences greatly vary.
+- Validate and compare VA provider pain points around medications, allergies, and immunizations to Veteran feedback.
