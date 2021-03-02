@@ -1,10 +1,10 @@
-# Million Veterans Program (MVP) Women’s Campaign 
+# Million Veteran Program (MVP) Women’s Campaign 
 
 ## Communications Toolkit
 
 The Million Veteran Program invites you to join our campaign to engage and enroll more women Veterans. 
 
-**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf">one-page briefer (PDF)</a>.
+**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our one-page briefer.
 
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
