@@ -31,17 +31,15 @@
 
 ### Discussion Topics/Grooming 
 
- - [ ] Bug: Articles listings and RS search listings are showing weird html tag text #17779
- - [ ] Chrome bug: Yellow line showing on some RS pages #18570
- - [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER #18641
- - [ ] 508-defect-3 [AXE-CORE]: Aside must not be contained in another landmark #20236
- - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
- - [ ] Typo fixes for VCL modal from Sitewide content #20610
+ - [ ] Bug: Articles listings and RS search listings are showing weird html tag text [#17779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17779)
+ - [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641)
+ - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
+ - [ ] Typo fixes for VCL modal from Sitewide content [#20610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20610)
 
 ### Discovery Topics
-- [ ] [Discovery] Optimize VA.gov component creation #12320
-- [ ] [Discovery] Generate "tech debt" opportunities #7790
-- [ ] [DISCOVERY] Send to Mobile R&S Enhancement #20331
+- [ ] [Discovery] Optimize VA.gov component creation [#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320)
+- [ ] [Discovery] Generate "tech debt" opportunities [#7790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- [ ] [DISCOVERY] Send to Mobile R&S Enhancement [#20331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20331)
 - We’ve learned through big data reviews that Veterans are largely using Mobile/Tablet to interact with R&S content and could likely benefit from a “Send to Mobile” for key content articles in an effort to better consume VA content in support of benefit questions and self guided learning.
 - [ ] [Discovery] Recommend/Share via email/mobile feature [Needs Ticket]
 - We believe that Veterans love helping Veterans and could benefit from an article ‘recommend/share’ feature in future iterations.  This could help increase content confidence through helping more Veterans better understand the benefits they have earned. 
