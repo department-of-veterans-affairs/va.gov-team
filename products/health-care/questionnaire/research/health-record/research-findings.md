@@ -1,5 +1,5 @@
 # Health Records: Medications, Allergies, and Immunizations Research Findings
-Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
+Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us<br/>
 [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/HealthRecords-Research%20Findings.pdf)
 
 ## Background and Goals
