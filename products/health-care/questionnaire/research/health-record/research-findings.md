@@ -118,7 +118,7 @@ Doctorate degree: 2
 - How often Veterans want to review and update this information varied from every appointment to annually.
 
 ## Detailed Research Findings
-**Veterans often need to communicate changes to their medication, allergy, and immunization record.**
+### Veterans often need to communicate changes to their medication, allergy, and immunization record.
 - Veteran quotes:
   - “We usually discuss that at my physical like the new prescriptions or if I’m taking the same thing.”
   - “I’ve had bad side effects from medications and [my VA providers] appreciate having that information.”
@@ -126,7 +126,7 @@ Doctorate degree: 2
   - “With Ritalin, you have to talk to your doctor, because it isn’t renewable.”
 - Every participant mentioned an experience of letting the VA know about a change to their medical record in these areas.
 
-**Veterans utilize a variety of methods to review and update their health records, including My HealtheVet, paper, phone calls, and in-person communication.**
+### Veterans utilize a variety of methods to review and update their health records, including My HealtheVet, paper, phone calls, and in-person communication.
 - Current methods used across the Veteran's journey
   - My HealtheVet or Paper
     - Default methods of reviewing and planning their communications
@@ -137,7 +137,7 @@ Doctorate degree: 2
   - In-person
     - Seen as the ultimate step in the process to provide updates or ask questions to their VA provider  
 
-**Reviewing and updating medication information is of great interest to Veterans.**
+### Reviewing and updating medication information is of great interest to Veterans.
 - All participants had a current process by which they review their medications and communicate with their VA providers about:
   - stopping the usage of a medication
   - any side effects or reactions to a medication
@@ -146,7 +146,7 @@ Doctorate degree: 2
 - When asked to choose between medications, allergies, and immunizations as the most important item for us to build within a pre-visit questionnaire, medications was chosen by **five out of seven** participants.
   - _One participant couldn’t decide between medications and allergies._
 
-**Needing to interact with or update allergies seems to occur less frequently than medications; however, the need can feel more urgent when it does arise.**
+### Needing to interact with or update allergies seems to occur less frequently than medications; however, the need can feel more urgent when it does arise.
 - Veteran quotes:
   - “I’ve always had [this allergy]. I had a bad reaction at 20 years old, so it is in all my medical records.”
   - “Allergies could be life saving for the individual.”
@@ -155,13 +155,13 @@ Doctorate degree: 2
   - _One participant couldn’t decide between medications and allergies._
   - _One participant couldn’t decide between immunizations and allergies._
 
-**Reviewing and printing immunization records are useful, but updates aren’t urgent and tend to occur during appointments.**
+### Reviewing and printing immunization records are useful, but updates aren’t urgent and tend to occur during appointments.
 - One participant recently went back to college utilizing the GI Bill. As a result, getting access to a print out of their official immunization record was extremely important.
   - Due to the GI Bill and higher education institutions’ immunization record entrance requirements, printing an immunization record could be very beneficial to Veterans enrolling in college and universities. 
 - Six out of seven participants mentioned updating their providers about their immunizations. Most stated that they waited until their appointment.
 - During their descriptions, there wasn’t this sense of urgency around getting update to their medical provider. The immunization mentioned most often as something they needed to let their provider know that they received was the flu shot.
 
-**Immunizations Prioritization**
+### Immunizations Prioritization
 1. Immunization name (Flu shots, COVID-19)
 2. Schedule an immunization
 3. Date received
@@ -180,3 +180,30 @@ ___________
 15.	By mouth, inhalant, injection
 16.	Lot number
 17.	Location of immunization (arm)
+
+- Items above of the line averaged within the very important or important categories and had lower standard deviation scores. 
+- A few participants stated that they were ranking product name/manufacturer and lot number higher due to COVID, then they would based upon other immunizations. Now 1st dose and 2nd dose (which could have been associated with COVID) was pretty consistent, because some other immunizations require more than one dose (such as Shingles). 
+- Participants did mention a preference to show the common names of immunizations, such as flu shot compared to influenza. There was slight confusions on what “Editing reactions” actually let you do. However, most participants understood all pieces of data/features without explanation. As a whole, confusion was pretty low for all items within immunizations, medications, and allergies, which is not what the team was expecting prior to testing.
+- Secure messaging was mentioned by multiple participants as a feature that should be added to this list. The participants who suggested it also ranked it very highly. How long does each immunization last (like flu shot is 1 year and tetanus is every 10) was suggested as an item by one participant. 
+
+### Immunization Groupings
+_Activity completed by 6 participants._
+**What, when & where**
+- Immunization name
+- Date received
+- Health care professional or clinic name
+
+**Next immunizations**
+- Reminder that immunization is due
+- Schedule an immunization
+
+**Product tracking**
+- Product name / manufacturer
+- Lot number
+
+**How**
+- Location of immunization
+- By mouth, inhalant, injection
+
+- Minimum of half the participants grouped these items together in order to them to appear in the above groupings.
+- What Veterans really wanted for “Reminder that immunization is due” were recommendations that took their medical records into account. For instance, we see that you are turning 60, so you should now get the Shingles vaccine. Currently on MyHealtheVet, it is just a link to a page of content about recommendations that aren’t tailor to the Veteran specifically.
