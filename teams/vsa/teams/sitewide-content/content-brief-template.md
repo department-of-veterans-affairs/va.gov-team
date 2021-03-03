@@ -22,7 +22,7 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
   - < 35 characters for buttons
   - < 20 to 25 words for sentences
 - Write as though you’re having a conversation with the Veteran on behalf of VA. The Veteran asks us questions in their voice, and we answer in ours. <br> **Example:** <br> How do I apply for VA health care? You can apply online now. If you need help, call us.
-- If you need to use a complex term, add a plain language definition. The complex terms can come first or you can lead with the plain language description. <br> **Example:** Learn about the IRS tax rules (called exclusions) for your VA education benefit payments. <br> These benefits include perpetual (ongoing) care of the gravesite.
+- If you need to use a complex term, add a plain language definition. The complex terms can come first or you can lead with the plain language description. <br> **Examples:** <br> Learn about the IRS tax rules (called exclusions) for your VA education benefit payments. <br> These benefits include perpetual (ongoing) care of the gravesite.
 
 [Go to the VA.gov content style guide for more](https://design.va.gov/content-style-guide/)
 
