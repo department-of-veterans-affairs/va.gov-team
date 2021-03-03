@@ -260,6 +260,7 @@ Prep for QA
 - Launch to 25%
 - Launch to 50%
 - Keep eBenefits updated on launch
+- Let content team know anticipated 100% date so that they can publish the updated content page. #20096
 
 ### Preferred medical facility 
 
