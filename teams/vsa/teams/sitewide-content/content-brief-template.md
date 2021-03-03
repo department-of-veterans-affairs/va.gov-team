@@ -13,8 +13,9 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 [list of established terms/phrases/etc]
 
-## The 5 basics (content style best practices to follow)
+## The 5 basics 
 
+Follow these content style best practices:
 - Use contractions to achieve a conversational voice and tone (this helps avoid formal-sounding language). 
 - Keep it brief:
   - < 52 characters for H1s
