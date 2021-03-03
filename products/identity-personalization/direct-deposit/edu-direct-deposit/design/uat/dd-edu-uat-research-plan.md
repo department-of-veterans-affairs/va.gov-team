@@ -5,8 +5,6 @@
 
 ---
 
-`Work in-progress`
-
 ### Background
 Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). Management of EDU payments is being migrated from eBenefits to be co-located with the C&P direct deposit feature in VA.gov profile. Users will be able to view and edit their direct deposit information for both types of payments in their profile.
 
@@ -55,9 +53,13 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
   - Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes)
   - Are you OK with re-entering your existing bank information? (pass = yes) (You **could** change your bank info if you need to)
   - If so, do you have your bank routing number and your account number available? (pass = yes)
+- **At least one dependent** who is not a veteran or service member 
 - At least one woman
 - At least one person of color
 - At least one participant 35 or under and 1 participant over 55
+
+#### Important for us to know
+We need to have the participant's actual login email for the login method they use (DSLogon, ID.me or MyHealtheVet). This will aloow access to the feature we're testing.
 
 #### Good to have for participants
 
