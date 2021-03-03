@@ -1,12 +1,29 @@
-## Analytics roadmap
+## VAMC Analytics
 
 This document covers the various metrics which are of interest for the VAMC product and the status of implementation.
 
-### Overarching business questions which we hope to answer with analytics
+## What forces impact the metrics of this product?
+
+|	Factor	|	Questions	|	Notes	|
+|	-----	|	-----	|	-----	|
+|	New legislation	|		|		|
+|	New administration	|		|		|
+|	Current landscape	|		|		|
+|	Social media	|		|		|
+|	Organizational (VA Secretary) announcements	|		|		|
+|	Related launches	|		|		|
+|	Non-Veteran visits (stakeholders)	|		|	Make sure team members have opted out of GA	|
+|	Seasonality/Veteran population or milestone, What happened in previous years?	|		|	Because of roll-out, there isn't good precedent for what to expect seasonally..._yet_	|
+|	Larger VA traffic (macro changes)	|	What percentage of the wider population can we expect to view our pages?	|		|
+|	What is our pool of eligible visitors?	|	How many Veterans are assigned to a given health care system?	|		|
+
+
+## Overarching business questions which we hope to answer with analytics
 - **Can Veterans find what they need?**
 - **Can Veterans accomplish their tasks?**
 - **Is the site easy to use?**
 
+**Analytics roadmap**
 
 |	Business questions	|	Status	|	Issue	|
 |	-----	|	-------	|	-----	|
@@ -17,7 +34,7 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	Which accordions are opened most often at the system level?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	Which accordions are opened most often at the facility level?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	How many accordions are opened/session?	|	Requested	|	[#15132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15132)	|
-|	Which pages are visited most often and how do Veterans navigate to the page? 	|		|		|
+|	Which pages are visited most often and how do Veterans navigate to the page? 	|	Available through GA	|	See Top Visited pages for Pittsburgh Health Care below	|
 |	Do Veterans use the left menu to navigate?	|	Implemented by Facilities team with upgrade, Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	Do Veterans need to open more than one accordion to find what they need? 	|		|		|
 |	Which accordions within the "Prepare for your visit" section are opened most often? 	|		|		|
@@ -52,3 +69,18 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	How many Veterans click "Billing and insurance" from the In the Spotlight feature?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	How many Veterans view "Annual reports and newsletters" from the In the Spotlight feature?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	How many Veterans view "Coroniavirus update" from the In the Spotlight feature?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
+
+### Top Visited pages for Pittsburgh Health Care
+
+|	Top 10 pages in Dec 2020 	|	Pageviews in December 2020	|	Top 10 pages in Jan 2021 	|	Pageviews in January 2021	|	Top 10 pages in Feb 2021 	|	Pageviews in February 2021	|
+|	----	|	----	|	----	|	----	|	----	|	----	|
+|	/pittsburgh-health-care/index.html	|	8633	|	/pittsburgh-health-care/index.html	|	13889	|	/pittsburgh-health-care/covid-19-vaccines/index.html	|	16190	|
+|	/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/index.html	|	3064	|	/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/index.html	|	6449	|	/pittsburgh-health-care/index.html	|	11351	|
+|	/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center/index.html	|	1260	|	/pittsburgh-health-care/stories/many-veterans-who-served-in-europe-can-now-give-blood-fda-lifts-ban/index.html	|	3045	|	/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/index.html	|	5243	|
+|	/pittsburgh-health-care/locations/index.html	|	1242	|	/pittsburgh-health-care/covid-19-vaccines/index.html	|	2111	|	/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center/index.html	|	1802	|
+|	/pittsburgh-health-care/contact-us/index.html	|	1182	|	/pittsburgh-health-care/locations/index.html	|	1927	|	/pittsburgh-health-care/locations/index.html	|	1541	|
+|	/pittsburgh-health-care/health-services/index.html	|	1053	|	/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center/index.html	|	1922	|	/pittsburgh-health-care/contact-us/index.html	|	1484	|
+|	/pittsburgh-health-care/work-with-us/jobs-careers/index.html	|	946	|	/pittsburgh-health-care/contact-us/index.html	|	1595	|	/pittsburgh-health-care/health-services/index.html	|	1206	|
+|	/pittsburgh-health-care/make-an-appointment/index.html	|	521	|	/pittsburgh-health-care/health-services/index.html	|	1493	|	/pittsburgh-health-care/stories/many-veterans-who-served-in-europe-can-now-give-blood-fda-lifts-ban/index.html	|	1081	|
+|	/pittsburgh-health-care/pharmacy/index.html	|	334	|	/pittsburgh-health-care/make-an-appointment/index.html	|	1141	|	/pittsburgh-health-care/events/walk-in-covid-19-vaccination-clinic/index.html	|	1027	|
+|	/pittsburgh-health-care/operating-status/index.html	|	323	|	/pittsburgh-health-care/work-with-us/jobs-careers/index.html	|	1117	|	/pittsburgh-health-care/work-with-us/jobs-careers/index.html	|	920	|
