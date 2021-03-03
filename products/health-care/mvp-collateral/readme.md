@@ -128,38 +128,50 @@ Gwendolyn
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Gwendolyn.png" width="150">
 
+---
+
 
 Jennifer
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Jennifer.png" width="150">
+
+---
 
 
 Jessica
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Jessica.png" width="150">
 
+---
+
 
 Linda
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Linda.png" width="150">
 
+---
 
 Sandrene
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Sandrene.png" width="150">
 
+---
 
 Shavone
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Shavone.png" width="150">
 
+---
 
 Shyla
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Shyla.png" width="150">
 
+---
 
 Teresa
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Teresa.png" width="150">
+
+---
 
