@@ -59,3 +59,42 @@ When one of Sandy’s team-members mentioned a new CLP every few weeks.   That i
 Didn’t come up, but I’m still a concerned about the URL — right now, we specify per CLP.  Jen insists we should just draw from the H1 (I think this is problematic).  Let’s discuss.
 - Smaller thing: lack of clarity about the difference between some panels — Spotlight and Stories.  To me, it’s just a way to add more content in different formats, which is just fine.
 
+## Round 2 CLP Stakeholder Discussion - Tim/Team
+
+### Observations, Questions, Ideation:
+
+- Think we’re going to need a defining document - Tier 1, 2, and 3 content definition. (@John or @Jen to follow up with defined details).
+
+- Need to define ‘Campaign’ tighter - which would help people find better options, and "is this right for me".  (Suspect VAMC’s wanting to use CLP for marketing tools). 
+
+- Perhaps gain some insight from VA Marketing team as they might have different shade of feedback and why they might need an enhancement to this MVP.  
+
+* Feedback: One thing that VA communicators like to put together a PDF.  (I don’t like PDF’s).  No Documents on the web if you can replace them.  The only documents allowed on the web will be only those that are mandated/congressional elements. 
+
+- Video: There are videos that can’t be loaded to VA servers for various reasons.  Needs to be capable to use embed and not limit it to YouTube.  
+
+- Panel 5:  Could we use an RSS Feedback to add to the Spotlight element.  Trying to move to Wordpress IP, and use the API to pull content so editors don’t have to recreate connect across platforms.  
+
+- Panel 6: Stories that I could pull from Vantage Point blog/VA blog/newsletters etc. 
+
+- Panel 7: Look at future requirement that will eliminate the need to use PDF on pages for download resources.  OCTO-DE lead should follow up on this forward.  
+
+- Panel 8: Is there any connectivity between outreach events.  These are definitely shared events.  
+
+- Panel 9: Possible create a shared FAQ shared library outside of free text that you have to build.  What is the minimum?  Three is what we answered. FAQs in general are a bad user experience, these should be frequently asked questions and not never asked questions.  This is a great way to streamline FAQ use and could link out to better content that helps.  
+
+- Are the sections drag and drop and movable (stackable)?  Answer is now they are not at present lay down (backlog component).
+
+- Is the length of the questions is limited? Yes, it is.  
+
+- Panel 10: Q: Is there an option for email link verses a link.  Can we put the embed for email in this contact us section?  Is there a way to have a splash or Moto windows in the future.  Gov.delivery is the platform that is being used and could help with the email field going forward with this API.  
+
+- “What can you do” - Is there a way to streamline the image sizing and best bet for shaping these images so they are more aligned for user experience. 
+
+- How involved is the request process?  How much freedom do I have to create CLPs going forward?  
+       - URLs need to be easy for Veterans to find.  We need our own link shortener that we can customize to help take care of the Vanity URL issue.  This is an - issue for VAMCs, etc.  and they’ll want to bring Veterans in and need something super simple to help find the content.  
+
+- Need to bring in the Marketing folks to the conversation and gain their feedback.  
+
+- Is this a tool for VA as a whole or VACO only?  So eventually, all folks from VA could use this tool.  Need to anticipate a wider use for this tool.  MVP customers are from VAMC not VACO.  I would encourage you to include the web governance board to help create the rules for this to determine who gets a page for this or not.  Take advantage of their experience.  Their is a need for a landing page, so this is a great tool.  
+
