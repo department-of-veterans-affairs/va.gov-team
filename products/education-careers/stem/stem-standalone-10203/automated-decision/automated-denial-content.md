@@ -70,7 +70,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
     
 { END:  If EVSS finds info }
 
-{ BEGIN: Entitlement eligible Reason (< 180 days of remaining entitlement) }
+{ BEGIN: Entitlement eligible Reason (<= 180 days of remaining entitlement) }
 
  - You meet the benefit requirements for the Rogers STEM Scholarship 
 
