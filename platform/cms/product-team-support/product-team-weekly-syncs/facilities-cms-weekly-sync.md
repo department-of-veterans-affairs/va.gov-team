@@ -23,6 +23,11 @@
 
 Vet Center
 * user onboarding / training etc.
+* set up
+* Set up Lighthouse meeting
+  * Vet Center push
+  * Anything COVID
+
 
 ## February 24 2021
 
