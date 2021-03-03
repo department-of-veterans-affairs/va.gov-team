@@ -1,39 +1,38 @@
 # Digital Health Modernization Strategy
-- This document reflects the evolving understanding of the Digital Health Modernization Program Team (Aryeh, Emily, Leanna, Meg).
-- It values readability over comprehensive explanations.
-- It defines the first "phase" of integrating health with other transactional services and benefits Veterans access online. 
+- This document reflects the evolving understanding of the Digital Health Modernization Team (Aryeh, Emily, Meg).
+- It values readability over comprehensiveness.
+- It defines the first steps to integrate health with other services and benefits Veterans access online. 
 
 ## Mission
 - Make Veterans Affairs (VA) healthcare easier for Veterans to find and use online. 
-- Prepare for VA-owned health tools to work for Veterans transparently irrespective of electronic health record (EHR). 
-- Strive for the VA to retain ownership over key Veteran-facing digital health tools. 
+- Ensure Veterans have easy access to online health irrespective of electronic health record (EHR) system employed by a given facility. 
 
 ### Why
-- So that in the future, we can design for Veterans' needs that cut across "health" and "benefits" and may not fit neatly into distinct products. 
+- So that we can design for Veterans' needs that cut across "health" and "benefits," and may not fit neatly into distinct products.
+- So that Veterans do not need to understand as much about the VA's org design in order to get care. 
 
 ## Current Initiatives
 - Identity consolidation between My HealtheVet (MHV) and VA.gov in collaboration with Identity and MHV teams. 
 - Make health tools more discoverable on VA.gov in collaboration with Content and Public Website teams. 
-- Ship secure messaging MVP as part of the flagship mobile app launch in collaboration with Mobile and MHV teams. 
+- Ship a VA flagship mobile app that contains key health tools, in collaboration with Mobile and MHV teams. 
 - Create a council with the breadth of experience and power to shape and enforce a broader health modernization plan.  
 
 ### Why
 - Pursues key problems (difficulty with auth across VA tools and difficulty using VA.gov for health tasks) that are valuable to Veterans per se **and** block successful execution of most identified modernization strategy options.
-- Keeps our options open to pursue a mobile-first modernization strategy — perhaps the highest-risk, highest-reward option. 
+- Keeps our options open on how to reconcile VA.gov with MHV while we await needed input on Cerner API availability. 
 - Give us runway to create a team and process with the breadth of experience and power to chart next steps (which will be all or some of expensive, disruptive and mutually-exclusive).
 
 ## Current Approach
-1. Pause to in/validate alignment within Office of the CTO (OCTO) leadership on the above approach. 
-2. Do the things in Current Initiatives (explained above).
-3. While doing that, gather information on MHV's structure, process, incentives and stack (we need this info no matter what).
-4. While doing that, stand up small teams to ship minimal appointments and prescriptions into the VA mobile app (this benefits Veterans, aids #3 and keeps us moving forward on demonstrating the VA can ship a viable patient portal while we think about where to go next). 
-5. Present and refine recommended next steps with the health modernization council (recommendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2-5). 
-6. Set clear KPIs based on the result of previous step. 
-7. Build, measure, learn — ad infinitum. 
+1. Do the things in Current Initiatives (explained above).
+2. While doing that, gather information on MHV's structure, process, incentives and stack (we need this info no matter what).
+3. While doing that, stand up small teams to ship minimal appointments and prescriptions into the VA mobile app (this benefits Veterans, aids #3 and keeps us moving forward on demonstrating the VA can ship a viable patient portal while we think about where to go next). 
+4. Present and refine recommended next steps with the health modernization council (recommendations could look like "allocate all of our effort toward an amazing mobile app" or "focus on cutting My Healthevet's lead time from six months to six weeks" — we won't know until we've done #2-5). 
+5. Set clear KPIs based on the result of previous step. 
+6. Build, measure, learn — ad infinitum. 
 
 ### Why
 #### OCTO Priorities
-- **Prevent Cerner from locking Veterans into an inferior experience:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
+- **Shield Veterans from needing to track VA software acquisition strategy:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
 - **Reduce Veteran-facing user experience (UX) fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
 #### Veteran Research Insights 
@@ -52,8 +51,8 @@ Several key user journeys (ex., an entire doctor visit, which may include schedu
 
 > "This is confusing because I would assume my balance would be on here....I have to end up having to call or go off my letters." – P8-A, referring to their pay.gov account. 
 
-## "Pure" Modernization Strategy Options
-In reality, we will probably mix and match to some extent. Strategies are in no particular order. Strategies are not mutally-exclusive or collectively exhaustive. 
+## Modernization Strategy Options
+Strategies are not mutally-exclusive or collectively exhaustive. For example, current initiatives hedge and advance all of A, B and E. We aim to narrow this by June. 
 
 ### A: Evolve VA.gov slowly from content site into transactional product(s) by replatforming My HealtheVet 
 Assumes rebuilding on VA.gov is cheaper and wiser than lifting and shifting My HealtheVet's stack (we have no evidence on this). largely analogous to eBenefits' migration strategy to VA.gov. 
@@ -70,11 +69,13 @@ This would be a good strategy if we feel we can do the most good for the most Ve
 
 1. Add a global notifications affordance for authenticated users on VA.gov
 2. Send high-priority global notifications via VA Notify and / or Vet Text for people not authenticated
-3. Add a single health use case (likely new Secure Message)  — at first this links back to MHV
-4. Do qualitative user research and surveys on this experience — see if what we learn is "this would be less annoying if it didn't take me out of VA.gov)
-5. If we hear the above, build out a health home on VA.gov 
+3. Surface high-value needs for action on MyVA
+4. Integrate with MHV and My VA Health to ensure key info uses these global notifictions
+5. Link back to MHV or My VA Health as appropriate given notification origin
+6. Iterate on the balance of what lives in VA.gov, vs distinct portals, continuously based on user feedback
+7. Initiate conversations on the future of MHV vis-a-vis VA.gov when we have gotten down to a small handful of facilities still using VistA (years from now)
 
-### D: Iterate on My HealtheVet in place to ingest Cerner data and solve for specific Veteran needs
+### D: Iterate on My HealtheVet in place to ingest Cerner data
 This would be a good strategy if we believe that My HealtheVet's tech stack would allow it to happen (and could be the least disruptive option for Veterans and for the MHV team). 
 
 1. Migrate MHV accounts into something that works with single sign-on on VA.gov
@@ -135,7 +136,6 @@ This would be a good strategy if we care most about Veteran health outcomes, and
 Quarter-baked. This assumes we can do the most good for Veterans by increasing engagement with Providers by encouraging non-appointment interactions (ex., chat) and / or increasing Provider appointment throughput by removing technological barriers to doing Caregiver things instead of computer thing. Almost certainly mutually-exclusive expenditure of effort and focus to the directly Veteran-facing strategies, if we dig in here. Aryeh is doing some back-channel research into this. 
 
 ### Current Best Guess of What Will Actually Happen
-1. Pause to in/validate alignment within OCTO leadership on the above approach. 
 2. Begin transition MHV credential to ID.me and Login.gov (will take years to finish, perhaps months to get to the first real users). 
 3. Begin to modify VA.gov content to privilege calls to action over explanation (will take months, but will deliver tiny changes often — will lead to changes to page structure, site navigation and eventually flows / IA). 
 4. Ship minimal secure messaging with flagship mobile app (already happening). 
