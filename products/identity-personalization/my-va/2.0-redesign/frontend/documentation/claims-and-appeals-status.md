@@ -12,6 +12,7 @@
 **Show**
 
 - Someone has at least one claim or appeal in progress, in the claim status tool even if that claim or appeal has not been updated in more than 30 days.
+- All of the user's claims and appeals have been closed, _but_ at least one was closed in the past 30 days.
 
 **Do not show**
 
