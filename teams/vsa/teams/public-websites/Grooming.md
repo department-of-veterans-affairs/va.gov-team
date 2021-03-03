@@ -39,6 +39,7 @@
  - [ ] 508 Defect:508-defect-2 [SCREENREADER] VA needs to have aria-label to properly pronounce it [#20238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20238)
  - [ ] 508-defect-1 [SCREENREADER] FAQ needs to have aria-label to properly pronounce it [#20237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20237)
  - [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239)
+ - [ ] Iterations to schedule appointments page [#20746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20746)
 
 ### Discovery Topics
 - [ ] [Discovery] Optimize VA.gov component creation [#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320)
