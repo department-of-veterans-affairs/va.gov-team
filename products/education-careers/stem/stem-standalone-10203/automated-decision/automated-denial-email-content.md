@@ -9,7 +9,7 @@ To check your application status, go to { placeholder URL - https://www.va.gov/t
 { grey box }
 
 #### Your application details are below:
-{ Rogers STEM Scholarship application }
+Rogers STEM Scholarship application
 
 #### Date submitted
  { date_submitted }
