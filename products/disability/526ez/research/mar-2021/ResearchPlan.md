@@ -14,9 +14,7 @@ Veterans with a disability and who are planning to apply for a benefit for their
 
 A part of this form is specifically about applying for disability benefits for PTSD as condition(s).
 
-Part 1 of the research, is a usability test of the PTSD part of Form 526. 
-
-[](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/nov-2020/ResearchPlan.md#goals)Goals
+[]()Goals
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 -   To understand the current user experience, what usability issues exist, including confusing or unclear content/copy. 
@@ -27,7 +25,7 @@ Part 1 of the research, is a usability test of the PTSD part of Form 526. 
 
 -   Can participants go through the flow by themselves, without blockers or problems? 
 
-[](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/nov-2020/ResearchPlan.md#research-questions)Research questions
+[]()Research questions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Overall:
@@ -52,17 +50,15 @@ Overall:
 
 -   What part of the form is most frustrating or difficult for the participants to complete?
 
+-   Are the participants uncomfortable with any questions? 
+
 -   If you could change one thing within this experience, what would it be?
 
 -   Why? / Tell me more?
 
 -   Do participants feel that they are being asked about the appropriate level of detail?
 
--   Do they believe that they can remember this level of detail? 
 
--   Are the participants comfortable filling out the questions about their PTSD? 
-
--   If not, what questions are making them uncomfortable?
 
 Details:
 
@@ -76,23 +72,11 @@ Details:
 
 -   Do users value the text input box? 
 
--   Additional benefits page (about PTSD): Is there any confusion around choosing the correct checkbox on this page?
+-   Additional benefits page: Is there any confusion around choosing the correct checkbox on this page?
 
 -   Do the participants understand what info is required and optional to enter on these pages? 
 
--   PTSD combat page: is there any confusion on what form (526 or 21-0781) to choose on this page? Do they think both are online forms? 
-
--   Do participants see value in the questions about honorary Medals? 
-
--   Assignment and event location page: do participants see value in these questions? What are they thinking about these questions?  
-
--   Individuals involved, name, ranking: what do participants feel about these questions? Would they remember these details? Do they see value in them?
-
--   Event description and additional details: do participants value these steps? 
-
 -   Supporting evidence page: do the participants find this information easy to understand and self-explanatory? 
-
--   How many of the above-mentioned details do participants think they would be able to remember?
 
 -   Does it make sense for participants that Contact info and bank info comes after the Summary of benefits page? 
 
@@ -115,13 +99,13 @@ Details:
 
 -   We will ask Veterans to navigate to VA.gov (a link provided in the Zoom chat) and have participants share their screen with us via Zoom.
 
--   We will ask the participants to go through the 526 Form, specifically the PTSD part of the form, from its beginning to its end. 
+-   We will ask the participants to go through the 526 Form from its beginning to its end. 
 
 -   We will ask participants to speak out loud as they move through the form, and probe for usability issues and relevant feedback. 
 
 -   Pre-test interview questions will probe past experiences to unveil contextual details absent in a test including setting (location, time, tech), key frustrations, and goals/purpose behind accessing the form historically. [Write into conversation guide]
 
-[](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/nov-2020/ResearchPlan.md#participants-and-recruitment)Participants and Recruitment
+[]()Participants and Recruitment
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We would like to interview 8 participants.
@@ -132,19 +116,13 @@ We would like to interview 8 participants.
 
 Primary criteria / Must have: 
 
--   All Participants must be Veterans (separated from active duty), with a PTSD condition.
+-   All Participants must be Veterans (separated from active duty). 
 
--   Note: due to the sensitivity of this information, the participants will not be asked to describe their actual, personal experiences. We will provide a scripted scenario through Zoom's chat We will help them to create a "story" so they don't need to go through their trauma in this usability test.  
-
--   The participants must have applied for compensation for PTSD in the past, or they must be planning to do so in the near future.  
+-   The participants must have applied for compensation in the past, or they must be planning to do so in the near future.  
 
 -   Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
--   At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
-
--   50% of participants use a desktop or laptop.
-
--   50% of participants use a mobile device.
+-   At least 1 participant with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
 
 Secondary criteria / Would like to have: 
 
@@ -164,7 +142,7 @@ Secondary criteria / Would like to have: 
 
 When?
 
--   Timeline: The timeline for this study: 8-11 1-4 December 2020.
+-   Timeline: The timeline for this study: March 2021.
 
 -   Prepare: When will the thing you are testing be ready? It is ready now
 
@@ -172,25 +150,23 @@ When?
 
 -   Availability: 9 am - 64 pm EST
 
--   Pilot: xxxx November 2020, ....pm EST
+-   Pilot: xxxx March 2021, ....pm EST
 
 -   Team Roles
 
--   Moderator: Christian V., Josh K.
+-   Moderator: Christian V.
 
--   Conversation guide writing and task development: Christian V., Josh K.
+-   Conversation guide writing and task development: Christian V.
 
 -   Participant recruiting & screening: Perigean
 
--   Project point of contact: Christian V. (Phone: 626 491 4488, email: <cvalla@governmentcio.com>), Josh K. (571 422 2656, <joshkimux@gmail.com>)
+-   Project point of contact: Christian V. (Phone: 626 491 4488, email: <cvalla@governmentcio.com>
 
 -   Participant(s) for pilot test: TBD
 
 -   Note-takers: Kevin S.
 
--   Observers: Nick S., Robin G., Anna C., Shawna H., Luke M., Barry C., Paul S., Josh K., Jennifer S.
-
--   Depending on suggestions from therapists or VSOs, consider only 1 observer at a time OR conducting tests without observers at all.
+-   Observers: Robin G., Anna C., Shawna H., Paul S., Josh K., Veronica H.
 
 Resources
 
