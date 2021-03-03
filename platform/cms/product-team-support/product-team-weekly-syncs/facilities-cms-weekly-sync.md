@@ -19,14 +19,20 @@
 
 ## March 3 2021
 
-* Policies page 
 
+
+* Policies page / Centralized content content model (Swirt, Kevin, Gibran, MPS, Michelle)
+  
 Vet Center
-* user onboarding / training etc.
-* set up
-* Set up Lighthouse meeting
+* Update on CMS team's work (Kevin)
+* Entering sample content on prod for Escanaba and Health services (Kevin, Michelle, others?)
+* Adding blocked MVP accounts on prod for testing and training purposes (Kevin, Michelle, Jane, others?)
+* Set up Lighthouse meeting (Swirt, Dave, others?)
   * Vet Center push
   * Anything COVID
+
+If there's time?
+ * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (Michael, Kevin, Ethan, Swirt, Michelle)
 
 
 ## February 24 2021
