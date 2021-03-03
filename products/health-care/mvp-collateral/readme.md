@@ -14,10 +14,11 @@ You can help by sharing the materials uploaded to this communication toolkit:
 3. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
 4. [Text for patient instructions](#text-for-patient-instructions)
 5. [Facebook posts](#facebook-posts)
-6. [Social media assets](#social-media-assets)
-7. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
+6. [Social media assets](#social-media-assets) (Facebook and Twitter images)
+7. [Other content](#other-content) (additional stories, news releases, podcasts, etc.) 
+8. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
 
-Below you’ll also find links to additional stories, news releases, podcasts, and other content featured as part of this campaign. Please feel free to distribute and share as appropriate. 
+Please feel free to distribute and share as appropriate. 
 
 **Questions?** Contact Jennifer.Deen@va.gov or Shakeria.Cohen@va.gov
 
