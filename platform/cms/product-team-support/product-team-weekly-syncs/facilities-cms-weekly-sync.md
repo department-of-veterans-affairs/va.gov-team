@@ -12,6 +12,8 @@
 <details><summary>Parking lot</summary>
 
 * New lighthouse fields, where does it live? Does it need to be migrated from Lighthouse to CMS, does va.gov connect directly to lighthouse? 
+* What VAMC environment can be used to 
+
 * [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986)) (moved here January 27)
 * #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147) (moved here February 3)
 * Breadcrumb cross-team spike 
@@ -27,17 +29,32 @@
  * Originally this was going to be UUID driven for Tome sync/ Transformers. 
    * But with GraphQL adding entity IDs would make it easier for the FE to use. There's currently no way of using UUID in graphql. 
    * This would be a blocker for implementing Centralized content if we want to avoid using UUID. 
- * [Mural with content model](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1614800814809/825fd5a0b0360ff42c2470e128d8f35af42579ee) for the basic stuff
+ * [Mural with content model](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1614800814809/825fd5a0b0360ff42c2470e128d8f35af42579ee) for the basic stuff **Kev to complete by March 4th**
+ * Where should sample Policies content go for FE development? Some Options 
+   * Pick a future VAMC (non-dual state) to use as a test ground for an unpublished Policies page **Kev would ask Stan which one would work**
+   * Pick a VAMC with an editor that understands the rollout of this page.
+     * Set the section to VAMC facilities or some other place.  
+   * Create a sandbox VAMC that can be used for development purposes.
+     * This could align with VAMC needs for having a template with which to clone. 
+   * Rely on the liquid template PRs to manage change and prevent duplicate Policies pages from going out. 
+     * not ideal because then we don't have a means to iterate
+   * Feature flag
+     * Would allow us to use the same URL for both old and new Policies pages
+     * Unclear how Preview deals with feature flags.  
+   * Security with obscurity (add to robots.txt) 
+   * CMS team will work on a medium/long-term solution
+   * We will consider tugboat for short-term for Policies page. (how does that work for vets-website PR enviros?)
   
+
 2. Breadcrumbs
  * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (Michael, Kevin, Ethan, Swirt, Michelle)
  * Oklahoma
  
 
 3. Lighthouse collaboration (Swirt, Dave, others?)
- * Anything COVID...   Next step: Steve working on issue, has notes to add.
- * Vet Center data push... Dave will take this. 
- * New lighthouse fields, where does it live? Does it need to be migrated from Lighthouse to CMS, does va.gov connect directly to lighthouse?  Parking lot. 
+ * Anything COVID...   **Next step: Steve working on issue, has notes to add.**
+ * Vet Center data push... **Dave will take this.**
+ * New lighthouse fields, where does it live? Does it need to be migrated from Lighthouse to CMS, does va.gov connect directly to lighthouse? **moving this Parking lot.** 
  
 4. If there's time?
  * The menu / VAMC system name fragility (follow-up from the Eastern Oklahoma issue)
