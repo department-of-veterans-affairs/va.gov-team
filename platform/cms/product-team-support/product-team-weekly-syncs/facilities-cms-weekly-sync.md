@@ -10,6 +10,8 @@
 </details>
 
 <details><summary>Parking lot</summary>
+
+* New lighthouse fields, where does it live? Does it need to be migrated from Lighthouse to CMS, does va.gov connect directly to lighthouse? 
 * [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986)) (moved here January 27)
 * #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147) (moved here February 3)
 * Breadcrumb cross-team spike 
@@ -21,6 +23,11 @@
 
 
 1. Policies page / Centralized content content model (Swirt, Kevin, Gibran, MPS, Michelle)
+ * FE should query all Centralized content separately, then "dip into that well" when needed, instead of going through the "local" content.  
+ * Originally this was going to be UUID driven for Tome sync/ Transformers. 
+   * But with GraphQL adding entity IDs would make it easier for the FE to use. There's currently no way of using UUID in graphql. 
+   * This would be a blocker for implementing Centralized content if we want to avoid using UUID. 
+ * [Mural with content model](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1614800814809/825fd5a0b0360ff42c2470e128d8f35af42579ee) for the basic stuff
   
 2. Breadcrumbs
  * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (Michael, Kevin, Ethan, Swirt, Michelle)
@@ -28,14 +35,15 @@
  
 
 3. Lighthouse collaboration (Swirt, Dave, others?)
-* Vet Center push
-* Anything COVID
-
+ * Anything COVID...   Next step: Steve working on issue, has notes to add.
+ * Vet Center data push... Dave will take this. 
+ * New lighthouse fields, where does it live? Does it need to be migrated from Lighthouse to CMS, does va.gov connect directly to lighthouse?  Parking lot. 
+ 
 4. If there's time?
  * The menu / VAMC system name fragility (follow-up from the Eastern Oklahoma issue)
  * IA governance
 
-3. Vet Center
+5. Vet Center - Kev set up meeting with Michelle and Dave to tackle this agenda. 10:30am Thursday March 4
 * Update on CMS team's work (Kevin)
   * Content model and CMS governance close to 100%, should unblock FE work by March 12 at latest.
   * Kaise currently Updating migrations from VAST
