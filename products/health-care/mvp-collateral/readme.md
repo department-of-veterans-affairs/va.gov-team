@@ -15,7 +15,7 @@ You can help by sharing the materials uploaded to this communication toolkit:
 4. [Text for patient instructions](#text-for-patient-instructions)
 5. [Facebook posts](#facebook-posts)
 6. [Social media assets](#social-media-assets)
-7. [Table of 8 featured Veterans](#table-of-8-featured-veterans)
+7. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
 
 Below you’ll also find links to additional stories, news releases, podcasts, and other content featured as part of this campaign. Please feel free to distribute and share as appropriate. 
 
@@ -122,7 +122,7 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 
 - [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
 
-## Table of 8 featured Veterans
+## Photos of 8 featured Veterans
 
 <table>
   <tr>
@@ -244,3 +244,4 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
       </td>
     </tr>
 </table>
+
