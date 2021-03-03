@@ -141,6 +141,8 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 ### Profile
 
 - Focus MUST not be hidden by the sticky profile menu #19779
+- Update street address field labels in the profile for both Home address and Mailing address #20788
+- Other profile accessibility issues (if time)
 
 ### My VA redesign
 
