@@ -54,13 +54,13 @@ This FAQ explains how MVP is prioritizing women Veterans in research, and why it
 
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate, for more information about the program.
 
-- [Women Veterans in Research FAQ](assets/pdf/Women-Veterans-Fact-Sheet.pdf)
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ</a>
 
 ## Text for patient instructions
 
 To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
-- [Text for patient instructions](assets/doc/Text-for-patient-instructions.docx)
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions</a>
 
 ## Facebook posts
 
@@ -68,7 +68,7 @@ Below is a Word document with 12 Facebook posts that can be shared by any VA acc
 
 If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below. 
 
-- [12 Facebook posts](assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx)
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx">12 Facebook posts</a>
 
 ## Social media assets
 
