@@ -34,7 +34,7 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	Which accordions are opened most often at the system level?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	Which accordions are opened most often at the facility level?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	How many accordions are opened/session?	|	Requested	|	[#15132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15132)	|
-|	Which pages are visited most often and how do Veterans navigate to the page? 	|	Available through GA	|	See Top Visited pages for Pittsburgh Health Care below	|
+|	Which pages are visited most often and how do Veterans navigate to the page? 	|	Available through GA	|	See [Top Visited pages for Pittsburgh Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/vamc-analytics.md#top-visited-pages-for-pittsburgh-health-care)	|
 |	Do Veterans use the left menu to navigate?	|	Implemented by Facilities team with upgrade, Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	Do Veterans need to open more than one accordion to find what they need? 	|		|		|
 |	Which accordions within the "Prepare for your visit" section are opened most often? 	|		|		|
