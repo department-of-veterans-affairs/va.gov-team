@@ -18,7 +18,7 @@ How might we create a technically agnostic approach to our design system and the
 *Hypothesis or Bet*
 
 - VFS teams will be able to build more consistent applications across different technical environments
-- VFS teams will break able to experiment and prototype in other technical environments (e.g. Vue.js, etc.)
+- VFS teams will be able to experiment and prototype in other technical environments (e.g. Vue.js, etc.)
 - VSP will be able to maintain a single source of truth for multiple technical environments
 
 ## Desired User Outcomes
