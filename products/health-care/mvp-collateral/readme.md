@@ -4,7 +4,7 @@
 
 The Million Veteran Program invites you to join our campaign to engage and enroll more women Veterans. 
 
-**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our [one-page briefer](assets/pdf/MVP-Women-Veterans-Initiative-Brief.pdf).
+**Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/MVP-Women-Veterans-Initiative-Brief.pdf">one-page briefer (PDF)</a>.
 
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
@@ -54,13 +54,13 @@ This FAQ explains how MVP is prioritizing women Veterans in research, and why it
 
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate, for more information about the program.
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ (PDF)</a>
 
 ## Text for patient instructions
 
 To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions (Word doc)</a>
 
 ## Facebook posts
 
@@ -68,7 +68,7 @@ Below is a Word document with 12 Facebook posts that can be shared by any VA acc
 
 If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below. 
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx">12 Facebook posts</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx">12 Facebook posts (Word doc)</a>
 
 ## Social media assets
 
