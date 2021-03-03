@@ -35,6 +35,8 @@
  - [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641)
  - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
  - [ ] Typo fixes for VCL modal from Sitewide content [#20610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20610)
+ - [ ] [Bug] Campaign Landing Page - Content/styling anomalies [#20629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20629)
+ - [ ] 508 Defect:508-defect-2 [SCREENREADER] VA needs to have aria-label to properly pronounce it [#20238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20238)
 
 ### Discovery Topics
 - [ ] [Discovery] Optimize VA.gov component creation [#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320)
