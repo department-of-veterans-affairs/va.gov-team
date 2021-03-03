@@ -84,6 +84,11 @@ Notes/Next Steps:
 
 
 ### Team Clarity Requests: 
+
+### Dad Joke:  
+- What do you call a monkey in a mine field?  
+
+
 ## Wednesday, February, 17, 2021
 
 ### Discussion Topics/Grooming 
