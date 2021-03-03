@@ -30,6 +30,9 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 | Word or phrase | Notes/reasoning |
 | -------------- | --------------- |
+|                |                 |
+|                |                 |
+|                |                 |
 
 
 ## Research findings
