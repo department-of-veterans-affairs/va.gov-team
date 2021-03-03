@@ -61,7 +61,7 @@ Beth Potts and Danielle Thierry
 - Product-specific content questions that come up in between office hours 
 - Alert sitewide content team to a content intake request 
 - **Office hours:** This a weekly opportunity for designers and product managers to get input from the Digital Experience content leads at any stage of product development. Collaboration on content needs will range from content strategy to help with specific messaging. Office hours can be used to work through issues that have come up in the designers’ suite meetings.
-- **Content Brief:** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
+- **[Content Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-template.md):** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
 
 #### Unauthenticated content processes  
 **New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
