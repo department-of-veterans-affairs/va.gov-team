@@ -20,20 +20,23 @@
 ## March 3 2021
 
 
-
-* Policies page / Centralized content content model (Swirt, Kevin, Gibran, MPS, Michelle)
+1. Policies page / Centralized content content model (Swirt, Kevin, Gibran, MPS, Michelle)
   
-Vet Center
+2. Vet Center
 * Update on CMS team's work (Kevin)
+  * Content model and CMS governance close to 100%, should unblock FE work by March 12 at latest.
+  * Kaise currently Updating migrations from VAST
+  * Editorial experience for local editors - usability testing dashboard and main form.   
 * Entering sample content on prod for Escanaba and Health services (Kevin, Michelle, others?)
 * Adding blocked MVP accounts on prod for testing and training purposes (Kevin, Michelle, Jane, others?)
-* Set up Lighthouse meeting (Swirt, Dave, others?)
-  * Vet Center push
-  * Anything COVID
 
-If there's time?
+3. Lighthouse collaboration (Swirt, Dave, others?)
+* Vet Center push
+* Anything COVID
+
+4. If there's time?
  * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (Michael, Kevin, Ethan, Swirt, Michelle)
-
+ * The menu / VAMC system name fragility (follow-up from the Eastern Oklahoma issue)
 
 ## February 24 2021
 
