@@ -166,11 +166,11 @@ Total = 41
 
 ## Modify Dependents Formlet
 ### Front End
-- [18958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18958) Add collapsing "card" that opens with "Remove This Dependent" button
-- [18959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18959) Add Form components inside collapsing "card" based on dependent type
+- ✔ [18958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18958) Add collapsing "card" that opens with "Remove This Dependent" button
+- ✔ [18959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18959) Add Form components inside collapsing "card" based on dependent type
 - [18981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18981) Add Logic to pick up data in form components for `spouse` and pass to back end
 - [18983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18983) Add logic to pick up date in form components for `child` and pass to back end
-- [19085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19085) Add validation logic for form components
+- ❌ [19085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19085) Add validation logic for form components
 - []() Add unit tests for "card" component that opens
 - []() Add unit tests for form components
 - []() Create e2e tests for `spouse` workflow
@@ -185,9 +185,9 @@ Total = 41
   
 ## Dependency Verification Modal
 ### Front End 
-- [20225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20225) Scaffold application
+- ✔ [20225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20225) Scaffold application
 - [20226](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20226) Add list component of dependents
-- [20284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20284) Add pop-up logic for when modal appears
+- ✔ [20284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20284) Add pop-up logic for when modal appears
 - [20291](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20291) Swap dummy api calls for real calls to BE
 - Create e2e tests
 - Meet with GA team
