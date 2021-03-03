@@ -82,11 +82,12 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| February XX, 2021 | 9 AM to noon |
-| February XX, 2021 | 9 AM to noon |
-| March XX, 2021 | 9 AM to 5 PM |
-| March XX, 2021 | 9 AM to 5 PM |
-| March XX, 2021 | 9 AM to 5 PM |
+| March 11, 2021 | noon to 5 PM |
+| March 12, 2021 | 9 AM to noon |
+| March 15, 2021 | 9 AM to 5 PM |
+| March 15, 2021 | 9 AM to 5 PM |
+| March 16, 2021 | 2 PM to 5 PM |
+| March 17, 2021 | noon to 5 PM |
 
 ### Team members/roles
 - James Adams | email: jadams@governmentcio.com -- Moderator, researcher
