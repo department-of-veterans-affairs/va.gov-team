@@ -114,7 +114,8 @@ Look for: (see if they mention mini-hub, KMI or know about it. )
   - If yes: How did you notify them?
   - If no: How would you notify them? 
 
- - VA is considering sending text messages to Veterans to allow them to schedule their COVID-19 vaccine appointments via text message. What advice would you give VA about how to do this? 
+ - VA is considering sending text messages to Veterans to allow them to schedule their COVID-19 vaccine appointments via text message. Is that something you would be open to trying? What advice would you give VA about how to do this? 
+        - What do you think would be easy for you about scheduling an appointment by text? What might be hard? 
         - What information is be important to include in the body of the message? 
         - How should VA let you and other Veterans know that it's really the VA texting you? 
         - What else can VA do to make sure that Veterans like you feel confident using text message to schedule VA appointments? 
