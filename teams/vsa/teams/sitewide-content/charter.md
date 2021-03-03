@@ -15,6 +15,7 @@ We ensure that the content and voice of VA.gov is:
 - Compassionate
 - Equitable
 - Authoritative
+- Accessible
 
 ### Product portfolio
 Global unauthenticated content (including homepage, tool pages, benefit hubs, resources & support, and other unauthenticated content) 
@@ -25,7 +26,9 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 
 **Content research:** Conduct research around content comprehension, empathy, and organization. Work with product team researchers to include content goals in research sessions. Analyze and compile findings for broader content decisions. 
 
-**Content design:** Write, edit, and design content across the VA.gov experience.
+**Content design:** Write, edit, and design new content across the VA.gov experience.
+
+**Content updates and maintenance:** Collaborate with program offices to write, edit, and design content for updates to existing VA.gov pages. 
 
 **Content planning and tracking:** Prioritize for planned content publishing. We use ticketing in zenhub to track work, both planned and unplanned.
 
