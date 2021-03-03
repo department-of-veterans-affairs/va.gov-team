@@ -40,10 +40,15 @@
 ### CLP
 
  * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location)
+   * 
  * Review product guide (John)
+   * incorporated into training materials
+   * will iterate after reviewing with Sandy's team
  * Beta user testing and onboarding.
    * VEO session this afternoon (agenda and facilitiation) (John)
+     * Focused mainly on the powerpoint and then look at FE build.   
    * VBA session usability testing (to be scheduled) (CMS team)
+     * John will schedule this today.   
 
 If there's time 
  * URL design and governance - based on h1? request and review process?
