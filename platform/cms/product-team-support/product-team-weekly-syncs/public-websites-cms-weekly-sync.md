@@ -56,6 +56,8 @@ If there's time
      - Whether to keep having humans create URLs, or
      - Whether there is a good, low-risk way to auto-generate URLs, or
      - Whether there is a combo approach. [Could Drupal suggest non-duplicate URL(s) that can then be modified? Or is there code that could plug into Drupal to help do this? This way, stop words like "and," "the," and "or" can be removed by a human or by the suggestion functionality; then the URL would be checked again to be sure the URL isn't a duplicate in Drupal. The human would make sure the URL isn't the same as a legacy URL.]
+    * Next step: CMS team will start auto-generating URLs based on [name of campaign] (aka H1), which will replaces spaces with dashes, no special characters, all lower case. And generate for the 4 existing CLPs. 
+    * Breadcrumbs: Home > [name of campaign]
  * Request form for new CLPs: what fields? 
    - Who (is requesting)? (Note: Must come from VACO Digital Comms lead)
    - What (is campaign)?
@@ -65,7 +67,12 @@ If there's time
    - Do you plan to build your Campaign Landing Page all at once or in stages (add content/panels post-launch)?
    - What is lifespan? Maintain (keep updating), Re-use (seasonal), Archive (preserve as is) or Retire (remove)?
    - Do you heavily review/edit content before its published?
+   - Who is the intended audience? 
+   - Who are the editors?
+   - **Next steps**: CMS team will prototype this and consider some other questions that may be relevant for CMS implementation.
 * Customer satisfaction survey: gather key data factors from users in the build process and then again in the post launch phase.
+   - CMS can share our past surveys--questions and data. 
+  
 
 ## Wednesday February 24
 
