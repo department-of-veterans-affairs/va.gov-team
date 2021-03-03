@@ -13,7 +13,7 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 [list of established terms/phrases/etc]
 
-## 5 basic content style reminders
+## The 5 basics (content style best practices to follow)
 
 - Use contractions to achieve a conversational voice and tone (this helps avoid formal-sounding language). 
 - Keep it brief:
