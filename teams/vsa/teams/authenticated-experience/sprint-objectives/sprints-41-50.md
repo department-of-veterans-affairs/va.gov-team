@@ -183,6 +183,14 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 - Discovery
   - Meet with VA Profile (Terry)
 
+**BE**
+
+**Dependency**: Terry has gotten Lihan API access
+
+Finish BE implementation assuming Lihan can get what he needs from Terry
+- VA Profile notification preferences: Implementation (part 2) #19773
+- VA Profile notification preferences: Implementation (part 3) #19774
+
 ## Sprint 44 (3/24 - 4/6)
 
 ### Profile
