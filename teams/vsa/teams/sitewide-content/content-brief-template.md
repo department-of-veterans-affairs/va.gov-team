@@ -21,17 +21,10 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
   - < 70 characters for H2s
   - < 35 characters for buttons
   - < 20 to 25 words for sentences
-•	Write as though you’re having a conversation with the Veteran on behalf of VA. The Veteran asks us questions in their voice, and we answer in ours.
+- Write as though you’re having a conversation with the Veteran on behalf of VA. The Veteran asks us questions in their voice, and we answer in ours. <br> **Example:** <br> How do I apply for VA health care? You can apply online now. If you need help, call us.
+- If you need to include a difficult term, add a plain language definition.
 
-Example:
-
-How do I apply for VA health care?
-
-You can apply online now. If you need help, call us.
-
-•	If you need to include a difficult term, add a plain language definition.
-
-Go to the VA.gov content style guide for more
+[Go to the VA.gov content style guide for more](https://design.va.gov/content-style-guide/)
 
 ## Word list
 
