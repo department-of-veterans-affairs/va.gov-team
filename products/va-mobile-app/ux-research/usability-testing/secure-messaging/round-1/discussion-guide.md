@@ -2,22 +2,22 @@
 
 ## Moderator logistics
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+- [ ] *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+- [ ] *Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
 
-*In the Attendees section, make sure everyone except the participant is on mute*
+- [ ] *In the Attendees section, make sure everyone except the participant is on mute*
 
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+- [ ] *In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
 
-*Check your [screensharing setup]*
+- [ ] *Check your [screensharing setup]*
 
-*When the participant is ready, begin the session with the following intro*
+- [ ] *When the participant is ready, begin the session with the following intro*
 
 ### Project-specific setup
 
 - Make sure you have the [mobile research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md) and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique
-- have the mobile prototype available Prototype
+- have the mobile [prototype available](https://adhoc.invisionapp.com/share/C910DKQGZPMW)
 
 ## Introduction (2 minutes)
 
@@ -139,7 +139,7 @@ Things to watch for & follow up on if participant brings it up:
     - Is the time a message is sent important information for you? Why or why not?
 - If you had a new message how would you expect to get notified? Why?
 
-**Task 3 (View Message)**: Can you find and open an unread message from Dr. Susan Smith?
+**Task 3 (View Unread Message)**: Can you find and open an unread message from Dr. Susan Smith?
 
 - *Do they open the correct message?*
 
@@ -160,9 +160,21 @@ Things to watch for & follow up on if participant brings it up:
 - *Is anything difficult to find?*
 - *Did the participant select the correct message?*
 
-## Folders/Sent Messages (5 minutes)
+**Task 4 (View Message with Attachment)**: Now can you go back to the Inbox? 
 
-**Task 4 (View Folders/ Sent Messages):** If you wanted to view your sent messages where would you go?
+- *Do they go struggle to go back to the Inbox?*
+
+[On Inbox screen] Do you see any message that would have an attachment?
+
+- *Do they find the correct message?*
+
+[On View Message screen]
+
+- Is the information here what you expect it to be?
+- Does it feel like anything is missing here?
+- Would you add anything to this screen? Why?
+
+**Task 5 (View Folders/ Sent Messages):** If you wanted to view your sent messages where would you go?
 
 - *Do they open the Folder section?*
 
@@ -195,7 +207,7 @@ Things to watch for & follow up on if participant brings it up
 
 ## Compose Message & Attachments (5 minutes)
 
-**Task 5 (Compose a Message):** Looking at this screen where would you go to compose a message?
+**Last Task 6 (Compose a Message):** Looking at this screen where would you go to compose a message?
 
 - *Do they tap the Compose a Message button?*
 
@@ -210,22 +222,6 @@ Things to watch for & follow up on if participant brings it up
 - When you use your phone to type do you use your keyboard or do you use voice dictation?
     - Would voice dictation be useful for you?
 
-**Last Task 6 (Attach a photo):** Now I want to have you try attaching a photo.
-
-- *Do they tap the Attachments button?*
-- Is that something you would find useful?
-    - Why or why not?
-    - Can you give me a scenario in which that would be useful
-- Is the information here what you expect it to be?
-- Does it feel like anything is missing here?
-- Would you add anything to this screen? Why?
-
-Things to watch for & follow up on if participant brings it up
-
-- *Is anything difficult to use?*
-- *Do participants comment on the usefulness of attachments? What specifics?*
-- *Does the participant ask about Drafts?*
-- *Does the participant comment on the types of files that can be attached?*
 
 ## Free exploration (5 minutes)
 
