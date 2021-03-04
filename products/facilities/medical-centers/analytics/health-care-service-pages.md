@@ -6,7 +6,6 @@
 |	pittsburgh-health-care/minority-veteran-care/	|	4	|	1	|
 |	pittsburgh-health-care/suicide-prevention/	|	16	|	18	|
 |	pittsburgh-health-care/women-veteran-care/	|	17	|	25	|
-|	pittsburgh-health-care/pharmacy/	|	411	|	294	|
 |	pittsburgh-health-care/mental-health-care/	|	132	|	138	|
 |	pittsburgh-health-care/programs/cardiology/	|	92	|	93	|
 |	pittsburgh-health-care/covid-19-vaccines/	|	2132	|	17115	|
