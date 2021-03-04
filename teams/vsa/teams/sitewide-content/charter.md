@@ -69,5 +69,5 @@ Beth Potts and Danielle Thierry
 **New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
 **Updates to existing website pages/maintenance:** incoming SME request or internally identified need --> PO triages --> PO content strategy/edit for plain language and house style --> SME review --> incorporate changes in drupal --> copyedit --> go live 
 
-#### Authenticated content processes 
+#### Authenticated content process
 **Product work:** Discovery meetings with product teams and stakeholders --> research input --> content brief creation and delivery --> office hours by product teams --> copy edit prior to staging review
