@@ -84,7 +84,7 @@ We usually process claims within 30 days. We’ll let you know by mail if we nee
 #### 5. Decision
 If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
 
-If your application isn't approved, you’ll get a denial letter in the mail.
+If your application isn't approved, you'll get a denial letter in the mail or a claim status notification by email.
 
 { end subway map }  
 
