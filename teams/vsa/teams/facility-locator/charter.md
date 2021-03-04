@@ -42,15 +42,13 @@ ________________________________________
 - VA UI Design Lead: Ryan Thurlwell
 - UX/Design: 
   - Leyda Hughes (June 2020 - present)
-  - Chris Logan (October 2020 - present)
+  - Chris Logan (October 2020 - February 2021)
   - Aricka Lewis (September 2019 - June 2020) 
 - Back End Engineer
    - Lance Sanchez (October 2019)
 - Front End Engineer
   - Michael Pelz-Sherman (June 2020- present)
   - Gilbran Rodriguez (October 2019 - present)
-- Drupal Engineer
-  - Ethan Teague (April 2020 - present)
 
 **Workflow + Cadence**
 
