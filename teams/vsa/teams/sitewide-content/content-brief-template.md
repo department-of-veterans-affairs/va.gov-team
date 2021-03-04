@@ -4,7 +4,7 @@
 
 **Questions about this brief?**
 - Ask us in our slack channel: #va-sitewide-content
-- Read about the purpose of a content brief
+- Read about the [purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md)
 
 ## Overview
 
