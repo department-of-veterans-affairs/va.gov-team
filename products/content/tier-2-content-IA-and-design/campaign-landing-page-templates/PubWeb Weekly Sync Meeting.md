@@ -28,6 +28,18 @@
 
 </details>
 
+## Friday, March 5, 2021
+ 
+### Campaign landing page MVP 1.0
+- Review Product Guide - Thoughts, Impressions. 
+- Review [Stakeholder Feedback Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Stakeholder%20UAT%20Feedback.md)
+- Staging Review items - Ryan/QA/a11y 
+- Stakeholder training sessions - Scheduling efforts Update.
+- How to bridge from tool(concierge) to service component for CLP?  Strategy/Timline?
+- Discussion/Questions? 
+
+Notes: 
+
 ## Friday, February 26, 2021
  
 ### Campaign landing page MVP 1.0
