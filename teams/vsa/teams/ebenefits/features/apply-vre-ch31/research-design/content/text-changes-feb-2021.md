@@ -4,23 +4,25 @@
 🙋‍♂️ - needs further discussion   
 ❌ - unable to move forward   
 
+PDF reviewed by LOB may not reflect all subsequent revisions.
+
 ### Page 1
   - **Comment 1:** at end of first sentence "to obtain suitable employment or to live independently."  
 JW:✔  
-JA:    
+JA: Reconciled with BP revisions and plain language.  
   - **Comment 2:** state "if you're eligible to apply." at the end of first sentence, instead of "if you're eligible for VR&E"  
 JW:✔   
-JA:    
+JA: Reconciled with BP revisions and plain language.   
 ### Page 2
   - **Comment 1:** Replace "you probably qualify for benefits, with "you probably qualify to apply for VR&E benefits"  
 JW:✔   
-JA:   
+JA: Reconciled with BP revisions and plain language.
   - **Comment 2:** Is there another word that could be used in lieu of GET? for example - obtain, acquire..etc...  
 JW:❌ "Get" is approved friendly tone on VA.gov.  What does changing this word achieve in the forms objectives?   
-JA:    
+JA: Went with "Receive"
   - **Comment 3:** no hyphen for independent living  
 JW:✔  
-JA:  
+JA:✔
 ### Page 3
   - **Comment 1:** `Nothing noted`  
 JW:🙋‍♂️ Is this intended?   
