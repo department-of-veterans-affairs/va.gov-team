@@ -36,8 +36,10 @@ Links to product outlines:
 ## Use Case B - Valid search string
 
 * **Description**
-  - When a valid search input is input, a dropdown menu will appear with suggested search options.  **NOTE**: Use keyword **ebenefits** instead of benefits -- the feature's been recently updated.
-    ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png)
+  - When a valid search input is input, a dropdown menu will appear with suggested search options.
+      **NOTE**: Use keyword **ebenefits** instead of benefits -- the feature's been recently updated.
+
+      ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png)
   - Flows after typing search string:
     - Pressing **Enter** or clicking **search** (magnifier-icon) button [w/o selecting a suggestion-option] bypasses type-ahead suggestions -- browser navigates to search-results page and displays results for exact string inputted.
     - Clicking a **suggested-option** in **suggestions** dropdown [or **Down-arrow**ing to highlight the option and pressing **Enter**] selects that option's search string for search -- browser navigates to search-results page and displays results for selected suggestion-option's search string.
