@@ -37,7 +37,7 @@ Links to product outlines:
 
 * **Description**
   - When a valid search input is input, a dropdown menu will appear with suggested search options.
-      **NOTE**: Use keyword **ebenefits** instead of benefits -- the feature's been recently updated.
+      **NOTE**: Update keyword for latest search.gov search-suggestions-database -- queries not used in last 30 days are regularly deleted from that db.  For now, use keyword **ebenefits** instead of benefits.
 
       ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png)
   - Flows after typing search string:
