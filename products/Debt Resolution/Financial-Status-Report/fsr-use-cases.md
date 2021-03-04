@@ -10,9 +10,10 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
 <details>
 <summary></summary>
   
-- [Use Case A](#use-case-a) 
-- [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c) 
+- [Use Case A](#use-case-a---has-benefits-on-record) 
+- [Use Case B](#use-case-b---no-benefits-on-record)
+- [Use Case C](#use-case-c---one-debt-on-record)
+- [Use Case D](#use-case-D---two-debts-on-record) 
 
 </details>
 
