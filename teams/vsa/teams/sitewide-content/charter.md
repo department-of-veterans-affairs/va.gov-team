@@ -55,7 +55,7 @@ Beth Potts and Danielle Thierry
 - Laura Walsh: content writer 
 
 ### How we work 
-**Slack channel:** va-sitewide-content 
+**Slack channel:** va-sitewide-content <br> 
 **What this channel should be used for:**  
 - General content questions from designers, product managers, and others 
 - Product-specific content questions that come up in between office hours 
