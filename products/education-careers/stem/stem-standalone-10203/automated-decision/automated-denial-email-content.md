@@ -4,7 +4,7 @@ Dear STEM Scholarship applicant,
 
 Thank you for applying for the Edith Nourse Rogers STEM Scholarship. 
 
-To check your application status, go to { placeholder URL - https://www.va.gov/track-claims/your-claims/[10203 denied claim identifier]/status } and sign into our claim status tool.  
+To check your application status, go to { placeholder URL - https://www.va.gov/track-claims/your-stem-claims/[10203 denied claim identifier]/status } and sign into our claim status tool.  
 
 { grey box }
 
