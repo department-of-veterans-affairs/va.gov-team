@@ -3,7 +3,8 @@
 **Created by the VA.gov sitewide content team for the [Team name] team on [date].**
 
 **Questions about this brief?**
-Ask us in our slack channel: #va-sitewide-content
+- Ask us in our slack channel: #va-sitewide-content
+- Read about the purpose of a content brief
 
 ## Overview
 
