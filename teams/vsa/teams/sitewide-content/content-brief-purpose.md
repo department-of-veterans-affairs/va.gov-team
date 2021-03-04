@@ -1,5 +1,7 @@
 # Content Brief Explained
 
+See the [Content Brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-template.md) we use.
+
 ## What’s the purpose of a content brief?
 
 A content brief is a support document that guides designers and PMs in content creation as a product is in development. It helps to create a consistent experience for the user—within the  product and across VA.gov as a whole. This consistency builds trust with our Veterans, their dependents, and their caregivers.
