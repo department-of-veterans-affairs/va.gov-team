@@ -43,9 +43,9 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	What's the average number of pages viewed in a session? 	|	Available through GA	|		|
 |	Average length of time per session?	|	Available through GA	|		|
 |	Do Veterans scroll up and down the page? 	|	Requested	|	[#15132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15132)	|
-|	How often do Veterans view a Care Coordinator page?	|	Available through GA	|		|
-|	What actions are taken after Veterans view a Care Coordinator page? 	|	Available through GA	|		|
-|	How often do Veterans view a Health Service page?	|	Available through GA	|		|
+|	How often do Veterans view a Care Coordinator page?	|	Available through GA	|	See [Health service page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/health-care-service-pages.md)	|
+|	What actions are taken after Veterans view a Care Coordinator page? 	|	Available through GA	| 		|
+|	How often do Veterans view a Health Service page?	|	Available through GA	|	See [Health service page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/health-care-service-pages.md)	|
 |	What actions are taken after Veterans view a Health service page? 	|	Available through GA	|		|
 |	Do Veterans use the jump links? Which link is used most often?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
 |	How many Veterans click on "Make an appointment" CTA and ultimately make an appointment? How does it compare to "Schedule and view your appointments" from "Manage your health online?	|	Requested by VAMC upgrade team for each roll-out	|	[#15132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15132)	|
