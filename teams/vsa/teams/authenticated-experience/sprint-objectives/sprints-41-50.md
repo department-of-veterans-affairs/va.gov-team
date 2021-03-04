@@ -173,9 +173,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **Design**
 
-- Preferred Facility: Onboard Liz #20392
-- Start discovery
-  - Meet with VAOS
+- Discovery #20866
 
 ### Notification preferences
 
