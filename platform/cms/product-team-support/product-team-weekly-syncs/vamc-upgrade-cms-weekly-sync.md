@@ -21,7 +21,7 @@
 
 </details>
 
-## Friday Mar 4 10:30am ET
+## Friday Mar 5 10:30am ET
 
 - [Stan / Oksana] VAMC is releasing four more Systems into publication each week. Let's use this opportunity to publish the site and have it role out on one of the scheduled releases.
 
