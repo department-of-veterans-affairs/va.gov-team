@@ -47,12 +47,12 @@ Content within VA.gov products and tools (we collaborate with product teams to e
 ### Team members 
 
 #### VA product owners
-Beth Potts and Danielle Thierry 
+Beth Potts (Beth.Potts@va.gov) and Danielle Thierry (Danielle.Thierry@va.gov)
 
 #### Content team
-- Randi Hecht: Lead and content editor 
-- Selina Cooper: content writer
-- Laura Walsh: content writer 
+- Randi Hecht (Randi.Hecht@va.gov): Lead and content editor 
+- Selina Cooper (Selina.Cooper@va.gov): content writer
+- Laura Walsh (Laura.Walsh1@va.gov): content writer 
 
 ### How we work 
 **Slack channel:** va-sitewide-content <br> 
