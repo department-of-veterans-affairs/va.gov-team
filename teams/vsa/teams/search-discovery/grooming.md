@@ -1,5 +1,38 @@
 # Search & Discovery Team Grooming
 
+## March 3, 2021
+***DISCUSSION TOPICS:*** 
+
+ - [ ] Typeahead Plans + Strategy to add suggestions 
+ - [ ] Onsite KPI Dashboard Discussion (Megan)
+ - [ ] Click Tracking Data Review (John)
+ - [ ] Capture New Tasks/Issues
+ - [ ] Staging Review Prep - Today March 4 at 1pm 
+
+
+ ***INITIATIVE STATUS***
+ 
+|**Initiative**         |**Status Notes + Next Steps**         |
+|-----------------------|------------------------------|
+|Typeahead POC            |Final  Dashboard revisions are complete 3/3 > Data Review may begin 3/4 |
+|Typeahead 1.0             |Collab Staging Review 3/3 > Define + Add canned suggestions > extend to 100% of users  |
+|UX Discovery            |Integrate findings into roadmap > PO Readout 3/ 4|
+|Spelling Enhancement             |"Did you mean?" implementation moved to icebox until search.gov changes approach. No longer a focus for search and discovery team |
+|Acronym Clarity             |Exploring acronyms > Defining strategy and design> Create DB Reader Tool > connect reader to search suggestions|
+|Results Page Redesign| Design Intent Exploration including right rail and description/metadata info from search.gov to improve result descriptions
+
+
+ ***NEW TASKS***
+ - Click tracking as enhancement to Onsite Dashboard.
+ - Accessibility Review Considerations aligned to issue [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719)
+ - SEO Audit  including exploration of Google Console Tools
+
+
+ ***NEXT STEPS/ACTIONS:***
+ - TBD
+
+
+
 ## February 18, 2021
 ***DISCUSSION TOPICS:*** 
 
