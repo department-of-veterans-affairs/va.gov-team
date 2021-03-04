@@ -2,7 +2,7 @@
 
 |	Page	|	Pageviews in January 2021	|	Pageviews in February 2021	|
 |	----	|	----	|	----	|
-|	/lgbt-veteran-care/	|	22	|	39	|
+|	pittsburgh-health-care/lgbt-veteran-care/	|	22	|	39	|
 |	pittsburgh-health-care/minority-veteran-care/	|	4	|	1	|
 |	pittsburgh-health-care/suicide-prevention/	|	16	|	18	|
 |	pittsburgh-health-care/women-veteran-care/	|	17	|	25	|
