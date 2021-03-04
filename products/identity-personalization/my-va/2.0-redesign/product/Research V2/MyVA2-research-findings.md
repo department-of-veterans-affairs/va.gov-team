@@ -166,7 +166,7 @@ Additionally, no users were able to find MyVA in the Menu dropdown on their own 
 - if the benefit we are showing was a benefit that is underutilized at the VA 
 - how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
 
-### Potential changes
+## Potential changes
 
 1. Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
     
