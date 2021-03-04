@@ -154,7 +154,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 Additionally, no users were able to find MyVA in the Menu dropdown on their own (could be the way we framed the question) - all users said they would look in the homepage links to find updates to benefits (specifically in the disability section).
 
-**3. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing. On the other hand, many users mentioned that the box in appiontments and claims & appeals was useful.**. Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. For messages and prescriptions, people found the boxes to be confusing and redundant.  They just wanted to see how many messages they had and manage all of their prescriptions, additional details were not helpful to them.
+**3. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing. On the other hand, many users mentioned that the box in appiontments and claims & appeals was useful.**. Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable. For messages and prescriptions, people found the boxes to be confusing and redundant.  They just wanted to see how many messages they had and manage all of their prescriptions, additional details were not helpful to them.
 
 
 **4. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA.** There was a lot of confusion around the CTA's and the grey boxes and what their relation was to each other. Some users thought that the total number was displayed in the CTA, but they were often unsure about their assumption. All users understood that the links would take them to a separate page with additional information, but 3 users mentioned they would like to see more specific CTA's on the page (i.e. schedule an appointment, cancel an appointment, send message)
@@ -197,7 +197,8 @@ Additionally, no users were able to find MyVA in the Menu dropdown on their own 
 1. Remove grey boxes in messages and prescriptions.
 2. Break out totals and CTA's into separate elements. 
 3. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
-4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section
+4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
+5. Eventually add in payment history and a notification hub when time allows.
 
 
 ## Next Steps
