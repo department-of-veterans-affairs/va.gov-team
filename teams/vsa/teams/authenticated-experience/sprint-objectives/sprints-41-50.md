@@ -179,9 +179,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **Design**
 
-- VA Profile: Notification preferences: Onboard Liz #20391
-- Discovery
-  - Meet with VA Profile (Terry)
+- Discovery #20867
 
 **BE**
 
