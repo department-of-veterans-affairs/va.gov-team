@@ -21,6 +21,10 @@
 
 </details>
 
+## Friday Mar 4 10:30am ET
+
+- [Stan / Oksana] VAMC is releasing four more Systems into publication each week. Let's use this opportunity to publish the site and have it role out on one of the scheduled releases.
+
 ## Friday Feb 26 10:30am ET
 
 - Drop of Content Export affect on dual-state launch timeline
