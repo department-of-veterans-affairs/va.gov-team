@@ -65,6 +65,8 @@ Beth Potts and Danielle Thierry
 
 **[Content Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-template.md):** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
 
+**[Intake form](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/new?issueType=issue):** Open a ticket to request specific content support.
+
 #### Unauthenticated content processes  
 **New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
 **Updates to existing website pages/maintenance:** incoming SME request or internally identified need --> PO triages --> PO content strategy/edit for plain language and house style --> SME review --> incorporate changes in drupal --> copyedit --> go live 
