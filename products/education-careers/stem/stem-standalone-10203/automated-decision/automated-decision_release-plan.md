@@ -76,8 +76,10 @@ We anticipate moving from 50% to 100%, skipping a stage b.
 
 ### Planning:
 - Desired date for initial launch: 03/26/2021
-- Post-launch KPI 1: 
-- Post-launch KPI 2: 
+- Post-launch KPI 1: Average amount of time required to process STEM applications in the Buffalo RPO 
+- Post-launch KPI 2: Number of STEM denials processed by the Buffalo RPO is reduced with no more denials being processed for denial reason of more than 6 months remaining entitlement.
+- Post-launch KPI 3: Number of STEM automatic denials that go on to the appeals office (most appeals are related to program of study, so for this release we expect nearly zero appeals. 
+
 - Go / No Go: GO
 
 ### 1-week results:
