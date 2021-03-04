@@ -8,7 +8,7 @@ The CMS has two teams, a Core Application Team and Product Support Team. Our wor
 
 | Core Application Team | Product Support Team |
 | --- | --- |
-| Content API (GraphQL, Content Export) | Onboarding of new Products |
+| Content API Performance & Scalability | Onboarding of new Products |
 | Content Ops: Editorial Workflows & Tools | Product Strategy & Launch Runbooks |
 | User Account & Permissions Governance | Content Strategy / Modeling / Governance |
 | UX Design & Research | Drupal Engineering for Product teams |
