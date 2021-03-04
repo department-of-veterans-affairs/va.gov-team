@@ -79,7 +79,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
-### Overall Findings
+## Overall Findings
 
 1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on MyVA seems helpful, though users wanted MyVA to be more 'actionable'.
 3. There was a tie on preferring the homepage to MyVA (4 to 4), but many participants mentioned how much they appreciated the personalization of MYVA. 
@@ -87,7 +87,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 5. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA. Many users also thought that the grey boxes were clickable.
 6. All users were confused with the verbiage and information shown in the prescriptions sections. 
 
-## Breakdown
+### Findings Breakdown
 
 **1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on MyVA seems helpful, though users wanted MyVA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Users had positive feedback about the MyVA page, but users were looking for the page to be more actionable. Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
 
@@ -102,7 +102,7 @@ Additionally, no users were able to find MyVA in the Menu dropdown on their own 
 **5. All users were confused with the verbiage and information shown in the prescriptions sections.** Users were very confused about what 'Prescription update' meant. All users did not understand what '3 prescription refills' meant, and many of them did not understand the relationship between the prescription in the grey box and the number in the CTA. Some people thought that the information presented meant that the prescription in the box had 3 refills left, and others thought that the prescription in the grey box was a refill and they had 3 additional refills happening.  
 
 
-## Additional Insights
+### Additional Insights
 
 1. No users were able to find MyVA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits. Given that we were using an InVision prototype and not testing in code, it’s unclear whether people easily found things just because we were already on My VA or whether they’d have as easy a time if we started them somewhere else on VA.gov. We should test this in follow-up sessions once My VA is live. 
 2. People generally understood the difference between the My VA dashboard and the Profile, and were able to accurately describe the profile in their own words. However, they had a leg up because we asked them this when they were already on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
