@@ -3,7 +3,7 @@
 ## March 3, 2021
 ***DISCUSSION TOPICS:*** 
 
- - [ ] Typeahead Plans + Strategy to add suggestions 
+ - [ ] Typeahead Plans + [Strategy](https://docs.google.com/spreadsheets/d/1GQMbACxz4y6nPuh7erJJx605fqoTVxxuquX_W3Oa5PM/edit#gid=1997340956) to add suggestions 
  - [ ] Onsite KPI Dashboard Discussion (Megan)
  - [ ] Click Tracking Data Review (John)
  - [ ] Capture New Tasks/Issues
@@ -24,7 +24,7 @@
 
  ***NEW TASKS***
  - Click tracking as enhancement to Onsite Dashboard.
- - Accessibility Review Considerations aligned to issue [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719)
+ - Accessibility Review Considerations related to issue [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719)
  - SEO Audit  including exploration of Google Console Tools
 
 
