@@ -89,13 +89,12 @@ Prepared by: Tressa Furner, Authenticated Experience
 
 **Overall**
 
-- payment history
-- information about home loans
-- GI Bill information (specifically how much money and time is left)
-- direct deposit
-- personal notifications
-- contact information for the VA for each section
-- one user said to move profile link into the nametag area
+- payment history (6)
+- personal notifications (4)
+- GI Bill information (specifically how much money and time is left) (3)
+- information about home loans (3)
+- direct deposit (2)
+- contact information for the VA for each section (2)
 
 **Nametag**
 
