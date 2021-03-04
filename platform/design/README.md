@@ -8,8 +8,9 @@ The VSP Design team supports teams building on VA.gov by providing guidance, fee
 
 ## <a id="howtocontact"></a> How to contact us
 If you need a hand with anything, don't hesitate to contact us.
-- Emily Waggoner, Principal Designer - Slack @EmilyWaggoner
-- Crystabel Reiter, UX Designer - Slack @CrystabelReiter
+- Naomi Marcussen, Platform Design Lead - Slack @NaomiMarcussen
+- Allison Christman, UX Designer - Platform Support Team - Slack @AllisonChristman
+- Crystabel Reiter, UX Designer - Design System Team - Slack @CrystabelReiter
 
 Slack channel: [#design](https://dsva.slack.com/channels/design)
 Github/Zenhub labels: product-support
@@ -42,7 +43,7 @@ Review the [Design checklist for usability testing prep and staging review](http
 We are also available for informal discussions about design challenges and can help answer questions outside of the formal collaboration within the VSP Collaboration Cycle:
 
 - **Platform Design Office Hours**
-Every Tuesday from 3-4pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZDV1bzE3czUzb3U4cTA0YWlqbmRrOW40dDZfMjAyMDAyMTFUMTkwMDAwWiBlbWlseUBhZGhvY3RlYW0udXM&tmsrc=emily%40adhocteam.us&scp=ALL).
+Every Tuesday from 2:30-3:30pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZDV1bzE3czUzb3U4cTA0YWlqbmRrOW40dDZfMjAyMDAyMTFUMTkwMDAwWiBlbWlseUBhZGhvY3RlYW0udXM&tmsrc=emily%40adhocteam.us&scp=ALL).
 
 - **Design + Content + Research sync**
 Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @Emily Waggoner know in Slack if you’d like to get on the list! [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDMzMGQxbTZncmo4aDltNzBxazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtwNGNoOWs2NTIzaWMxbTY0c2o4aDlrNjkxMzZjaGw2dDJqZWhoZzc1MGpnZTFpOGNzZ18yMDE5MTExOFQxODAwMDBaIGVtaWx5QGFkaG9jdGVhbS51cw&tmsrc=emily%40adhocteam.us&scp=ALL).
@@ -61,4 +62,6 @@ We encourage all designers to be open about their process and seek feedback thro
 
 Date | Revisions Made | Author
 -----|----------------|--------
+March 4, 2021 | Updated names and Office Hours | Naomi Marcussen
 March 20, 2020 | Reformatted using new template. | Emily Waggoner
+
