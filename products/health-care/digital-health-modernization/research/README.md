@@ -2,8 +2,8 @@
 
 This repo contains all research activities conducted for the Digital Health Modernization project. 
 
-### Contents
-* [Study 1:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/generative-research-study-1) Remote, semi-structured interviews and observations with 23 Veterans and caregivers. 
+## Contents
+[**Generative research study 1, December 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/generative-research-study-1) Remote, semi-structured interviews and observations with 23 Veterans and caregivers. 
 
 ### Relevant research
 
