@@ -168,27 +168,27 @@ Additionally, no users were able to find MyVA in the Menu dropdown on their own 
 
 ## Potential changes
 
-1. Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
+Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
     
-    **Overall**
+   **Overall**
     
-    - payment history (6)
-    - personal notifications (4)
-    - GI Bill information (specifically how much money and time is left) (3)
-    - information about home loans (3)
-    - direct deposit (2)
-    - contact information for the VA for each section (2)
+   - payment history (6)
+   - personal notifications (4)
+   - GI Bill information (specifically how much money and time is left) (3)
+   - information about home loans (3)
+   - direct deposit (2)
+   - contact information for the VA for each section (2)
 
-    **Healthcare**
+   **Healthcare**
 
-    - specific CTAs (schedule/cancel appointments, send a message) (4)
-    - doctor appointments and appointment type to be added to appt boxes (4)
-    - when their prescriptions are going to be arriving (2)
+   - specific CTAs (schedule/cancel appointments, send a message) (4)
+   - doctor appointments and appointment type to be added to appt boxes (4)
+   - when their prescriptions are going to be arriving (2)
 
-    **Apply for Benefits**
+   **Apply for Benefits**
 
-    - move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible) (4)
-    - eligibility requirements (2)
+   - move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible) (4)
+   - eligibility requirements (2)
 
 
 ## Recommendations
