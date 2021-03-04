@@ -87,8 +87,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 3. There was a tie on preferring the homepage to MyVA (4 to 4), but many participants mentioned how much they appreciated the personalization of MYVA. 
 4. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing. On the other hand, many users mentioned that the box in appiontments and claims & appeals was useful.
 5. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA. Many users also thought that the grey boxes were clickable.
-6. All users were confused with the verbiage and information shown in the prescriptions sections.
-7. No users were able to find MyVA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits. 
+6. All users were confused with the verbiage and information shown in the prescriptions sections. 
 
 ### Users easily understood:
 
