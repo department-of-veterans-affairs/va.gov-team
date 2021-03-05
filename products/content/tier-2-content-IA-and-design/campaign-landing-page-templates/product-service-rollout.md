@@ -20,7 +20,12 @@
 
 **What Will Happen**
 
-Availability of the CLP page builder will be limited to five VACO digital communication teams:  VBA, VHA, VEO/OPIA and NEC
+Goals: To learn and iterate both the product AND the governance approach (e.g. who gets the keys, how is URL determined, what are "must have" feature enhancements in tooling and template)
+
+Governance: Availability of the CLP page builder will be limited to five VACO digital communication teams:  VBA, VHA, VEO/OPIA and NEC
+- VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
+- VBA Digital Strategy Team (Benefits): Sandy Tadeo (Acting Chief), Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
+- VEO: Tim Hudek
 
 
 ### W
