@@ -26,7 +26,7 @@ To learn and iterate both the product AND the governance approach (e.g. who gets
 **Governance Model:**
 Availability of the CLP page builder will be limited to four VACO digital communication teams: VBA, VHA, VEO/OPIA and NCA.  These leads will be responsible for, and have the ability to:
 
-- Being trained and proficient with the CLP page building tool ([CMS CLP Training Guide](
+- Being trained and proficient as a user/editor of the CLP authoring tool ([CMS CLP Training Guide](
 https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90))
 - Deciding which engagement initiatives are ideal fits for the CLP template
 - Requesting the CLP via VA.gov's online submission form and providing all required information
@@ -34,7 +34,7 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 - Publishing the CLP
 - Working with the VA.gov team to "retire/sunset" the CLP
 
-MVP VACO Teams & Leads
+**MVP VACO Teams & Leads**
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
 - VBA Digital Strategy Team (Benefits): Sandy Tadeo (Acting Chief), Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
 - VEO: Tim Hudek
