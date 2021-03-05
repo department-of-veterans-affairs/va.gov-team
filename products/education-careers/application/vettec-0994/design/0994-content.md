@@ -145,7 +145,7 @@ We may contact you to verify that your expected release from active duty is with
  
 You'll need an honorable discharge to be eligible for VET TEC.
 
-{ end: if yes }
+{ end: if yes - "Are you on full-time duty in the Armed Forces?"  }
 
 { if no (Are you on full-time duty in the Armed Forces?) display the following question and note }
 
