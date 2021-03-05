@@ -121,7 +121,13 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 
 ## Other content
 
+Note: Newest content is listed first
+
+- [Combat Divas Podcast: The Real MVPs feat. Sumitra Muralidhar](https://podcasts.apple.com/us/podcast/the-real-mvps-feat-sumitra-muralidhar/id1450927577?i=1000511698703)
+- [VAntage Point Blog: Sedra Graves: Giving back through research](https://blogs.va.gov/VAntage/85366/sedra-graves-giving-back-research)
 - [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
+
+ 
 
 ## Photos of 8 featured Veterans
 
