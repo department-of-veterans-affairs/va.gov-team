@@ -10,6 +10,16 @@
 
 ## Participants
 
-| Session Notes | Session Day & Time | Role | Dependents | VA Benefits | Disability % | Cognitive Impairments | Care Oustide VA | Gender | Age | Branch | Location | Education | Ethnicity |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-| P3-A | 12/8/20, 1-2pm ET | Veteran | Spouse and children | HC + Dis | 100% | PTSD; bipolar schizophrenia | Family on Medicaid | M | 35-44 | Marines | PA - Rural | No degree | White |
+Key: 
+* HC = health care
+* D = disability
+* +1 = one additional benefit
+* +2 = two additional benefits
+* P&T = permanent and total
+
+| Session Notes | Role | Dependents | VA Benefits | Disability % | Cognitive Impairments | Care Oustide VA | Insurance | Enrolled in Benefits | Gender | Age | Branch | Location | Education | Ethnicity |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ---- |
+| P3-A | Veteran | Spouse + children | HC + D| 100% | PTSD, bipolar schizophrenia | No | Family on Medicaid | 5 yrs. after discharge | M | 35-44 | Marines | PA - Rural | No degree | White |
+| P8-A | Veteran | Child | HC + 2 benefits | Never applied | Yes | -- | Employer | 16 yrs after discharge | F | 35-44 | Navy | TX - Urban | Associates | Asian |
+| P9-A | Veteran | Spouse + children | HC + D | 90% | -- | Yes | Employer + Medicare | 21 yrs. after discharge | M | 55 - 64 | Army, Airforce | NE - Urban | Bachelor's | White | 
+| P11-A | Veteran | Spouse + child | HC + D + 1 | 100% P&T | PTSD, TBI | Yes | TRICARE | During discharge | M | 25 - 34 | Marines | CA - Urban | Bachelor's | White |
