@@ -135,8 +135,7 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 ### Onboard Anastasia
 
-- Intro to projects
-- Talk about PO/PM relationship
+- Onboarding: AJ Jakabcin #20439
 
 ### Profile
 
