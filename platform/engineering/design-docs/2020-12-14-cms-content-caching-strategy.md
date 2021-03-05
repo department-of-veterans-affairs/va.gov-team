@@ -1,8 +1,7 @@
 # CMS Content Caching Strategy
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
 **Author(s):** Eugene Doan  
-**Last Updated:** December 15, 2020  
+**Last Updated:** March 5, 2021  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** Tim Wright \[ \], Demian Ginther \[ \], Michael Fleet \[ \], Dror Matalon \[ \]  
 
@@ -21,9 +20,6 @@ To support this functionality, this document will outline an approach to setting
 This document will not delve into implementation details of how various systems (builds, local development, etc.) will use the cache.
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
-
-_Do **NOT** describe the solution here. That goes in High Level Design._
 
 A large part of the VA.gov website is static content that is derived from a Drupal-based content management system (CMS). 
 Building the static pages of the site involves fetching the content either directly from the Drupal CMS or from a cache in Amazon S3 (Simple Storage Service).
@@ -51,7 +47,8 @@ The goals of that change would be to prevent similar issues and to better suppor
 
 Content will be cached in S3 with a constant key such as `latest.tar.bz2` instead of an ever-changing hash-based key.
 
-An Amazon Web Services (AWS) Lambda function will pull the content from Drupal and sync the cache every 5 minutes.
+An Amazon Web Services (AWS) Lambda function will pull the content from Drupal and sync the cache periodically (ideally every 10 minutes).
+
 The function will be versioned so that branches that have modified the query for the content can access the corresponding data.
 
 Local development environments, review instances, GitHub Actions, and any other systems would be able to start using this new cache as needed.
@@ -60,17 +57,12 @@ Local development environments, review instances, GitHub Actions, and any other 
 
 ### Detailed Design
 
-The Lambda function will have dependencies on the current Drupal client code in the vets-website repo.
-The handler will be packaged and uploaded to AWS in S3 (or ECR) for the function source.
-- Bundle the code with webpack.
-- Create a zip or container.
+Using parts of the current Drupal API client code in the `vets-website` repo, the Lambda function will be built with Webpack.
 
-Handler needs to be updated when the GraphQL query changes.
-Lambda should use the uploaded zip in S3 as a source.
-
-Build the function in CI and zip it.
-Get the checksum or hash of the zipped file.
-Store the zipped file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
+As part of continuous integration (CI), the function will be zipped and uploaded to AWS in S3 (or ECR) as the function source.
+- Build the function and zip it.
+- Get the checksum or hash of the zipped file.
+- Store the zipped file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
 
 Check the [list of function aliases](https://docs.aws.amazon.com/lambda/latest/dg/API_ListAliases.html) for an alias matching the checksum.
 If an alias doesn't exist yet for the checksum:
@@ -83,13 +75,9 @@ If the current branch is `master`, also get the version that the `master` alias 
 - [Update the `master` alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html) to the version currently aliased with the checksum.
 - Synchronously invoke the new version of the function (aliased with `master`).
 
-Pull the cache from S3 that corresponds to the checksum (or `master` if on the `master` branch). Attach to workspace for the build step.
-
-The S3 event should trigger the function to initialize the cache.
-How to simulataneously use the bucket as the source and also trigger from S3 event?
+Pull the cache from S3 that corresponds to the checksum (or `master` if on the `master` branch) for the build step.
 
 ### Code Location
-_The path of the source code in the repository._
 
 Initially, the Lambda function and its supporting code will live in the `vets-website`.
 Once the content build is separated into the `content-build` repo, they will be moved there.
@@ -135,11 +123,6 @@ Without any user input, it should not be susceptible to malicious requests eithe
 There are no privacy concerns as no user data is involved.
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
 
 Will the function need to be provisioned in a VPC that can communicate with the Drupal server? If so, which one?
 - Without specifying a VPC, a Lambda function is created in the default Amazon VPC, which is not private.
@@ -154,11 +137,21 @@ Will the runtime for the Lambda incur a large cost?
 - Downloading the content can take over 10 minutes in local development, but that's through the SOCKS proxy.
 - If the function runs on the magnitude of 5 minutes, is that short enough?
 
+How do we want to manage the bucket storing the function source?
+- Do we want to periodically clean out old functions?
+- How will the storage costs grow as we keep old versions of the function around?
+- As we anticipate the release of more content, there may be many changes to the function over time.
+- We do not currently clean up the bucket for the `vets-website` builds, and that certainly occupies more space by many orders of magnitude.
+
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+
+- Prototype the function to validate that it can download the Drupal content (5 pts)
+- Implement versioning for the function (5 pts)
+- Validate the cached content and versioning logic (3 pts)
+- Use the new cache to run the content build in GitHub Actions (2 pts)
+- Use the new cache in review instances (2 pts)
 
 ### Alternatives
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
 #### Setting up a Terraform configuration for the Lambda function in the `devops` repo.
 
@@ -174,8 +167,7 @@ There are some very specific versioning rules in the design that may not be stra
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
 
 ### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 5, 2020 | Initial draft | Eugene Doan
+March 5, 2021 | Initial draft | Eugene Doan
