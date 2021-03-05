@@ -98,8 +98,9 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 
 ## API Calls and Dependent Systems
 
-- Contact information is suppported by VA Profile on the backend.
-- Direct deposit is powered by EVSS.
+- Contact information comes from VA Profile.
+- Direct deposit for comp & pen information comes from EVSS.
+- Direct deposit for edu information comes from BGS.
 - Personal information comes from MPI.
 - Military information comes from eMIS.
 
