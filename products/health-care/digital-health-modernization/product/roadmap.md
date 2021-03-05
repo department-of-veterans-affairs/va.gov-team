@@ -50,11 +50,11 @@ VA.gov is the front door for digital health at the VA.
 
 #### Integrate MHV transactional notifications with VA.gov centralized services (ex., VA Notify)
 
-#### Surface key, timely health information on and calls to action on MyVA
+#### Surface key, timely health information and calls to action on MyVA
 
-#### Create centralized notifications on VA.gov (ex., MyVA and / or somethign on public website header)
+#### Create centralized notifications on VA.gov (ex., MyVA and / or a new public website header)
 
-#### Shift VAOS into MHV
+#### Expose VAOS in MHV
 
 ### Later (2H 2022 and Beyond)
 - Integrate with Cerner / My VA Health APIs to surface analogous information and calls to action in VA products
