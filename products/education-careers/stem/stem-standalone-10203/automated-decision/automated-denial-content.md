@@ -18,7 +18,7 @@ View details {button}
 
 { blue informational alert }
 
-### Your application was denied on MM/DD/YYYY. ###
+### Your application was denied on Mon. DD, YYYY ###
 
 { end blue informational alert }
 
