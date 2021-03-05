@@ -6,7 +6,7 @@
 * [Conversation Guide for Caregiver Participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12-caregiver-conversation-guide.md)
 * [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes)
 * [Synthesis Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8)
-* [Participant Information]
+* [Participant Information](#participants)
 
 ## Participants
 
@@ -16,10 +16,15 @@ Key:
 * +1 = one additional benefit
 * +2 = two additional benefits
 * P&T = permanent and total
+* -- = no data reported
 
-| Session Notes | Role | Dependents | VA Benefits | Disability % | Cognitive Impairments | Care Oustide VA | Insurance | Enrolled in Benefits | Gender | Age | Branch | Location | Education | Ethnicity |
+| Session Notes | Role | Dependents | VA Benefits | Disability % | Cognitive Impairments | Care Oustide VA | Other Insurance | Enrolled in Benefits | Gender | Age | Branch | Location | Education | Ethnicity |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ---- |
-| P3-A | Veteran | Spouse + children | HC + D| 100% | PTSD, bipolar schizophrenia | No | Family on Medicaid | 5 yrs. after discharge | M | 35-44 | Marines | PA - Rural | No degree | White |
-| P8-A | Veteran | Child | HC + 2 benefits | Never applied | Yes | -- | Employer | 16 yrs after discharge | F | 35-44 | Navy | TX - Urban | Associates | Asian |
-| P9-A | Veteran | Spouse + children | HC + D | 90% | -- | Yes | Employer + Medicare | 21 yrs. after discharge | M | 55 - 64 | Army, Airforce | NE - Urban | Bachelor's | White | 
-| P11-A | Veteran | Spouse + child | HC + D + 1 | 100% P&T | PTSD, TBI | Yes | TRICARE | During discharge | M | 25 - 34 | Marines | CA - Urban | Bachelor's | White |
+| [P3-A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P3-A%20EM%20Notes%202020-12-8.docx) | Veteran | Spouse + children | HC + D| 100% | PTSD, bipolar schizophrenia | No | Family on Medicaid | 5 yrs. after discharge | M | 35-44 | Marines | PA - Rural | No degree | White |
+| [P8-A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P8-A%20EM%20Notes%202020-12-9.docx) | Veteran | Child | HC + 2 benefits | Never applied | -- | Yes | Employer | 16 yrs after discharge | F | 35-44 | Navy | TX - Urban | Associates | Asian |
+| [P9-A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P9-A%20EM%20Notes%202020-12-10%20.docx) | Veteran | Spouse + children | HC + D | 90% | -- | Yes | Employer + Medicare | 21 yrs. after discharge | M | 55 - 64 | Army, Airforce | NE - Urban | Bachelor's | White | 
+| [P11-A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P11-A%20EM%20Notes%202020-12-10.docx) | Veteran | Spouse + child | HC + D + 1 | 100% P&T | PTSD, TBI | Yes | TRICARE | During discharge | M | 25-34 | Marines | CA - Urban | Bachelor's | White |
+| [P12-A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P12-A%20JE%20Notes%202020-12-10.docx) | Veteran | None | HC + D | -- | -- | No; interested in comm. care | None | 4 yrs. after discharge | M | 35-44 | Army Ntl Guard | CT - Urban | No degree | Black | 
+| [P2-B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P2-B%20JE%20Notes%202020-12-11.docx) | Veteran | Spouse | HC + D | -- | -- | Yes | Medicare | 18 yrs. after discharge | M | 65-74 | Air Force | MD - Urban | Master's | White | 
+| [P3-B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P3B%20AYJ%20Notes%202020-12-05%201%20PM%20ET.docx) | Veteran | No | (No HC or D) +2 | Never applied | -- | Yes | TRICARE, Employer | Pension upon retirement | M | 55-64 | Marines | MD - Urban | Master's | White | 
+| [P4-B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/interview-notes/P4-B%20SH%20Notes%20%2B%20LM%20cleanup_additions.docx) | Veteran | -- | HC + D | 100% | PTSD | No; interest in comm. care | -- | "A few yrs." after discharge | F | 55-64 | Army | CO - Urban | No degree | White | 
