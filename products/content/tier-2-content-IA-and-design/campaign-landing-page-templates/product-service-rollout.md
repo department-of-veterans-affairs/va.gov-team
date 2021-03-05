@@ -11,8 +11,8 @@
  - [ ] 3-4 moderated user sessions will be held and led by CMS usability lead Jane Xiong
     - [X] Bronwyn Emmet (OPIA) - Weds 3/10 11:00-12:30 ET
     - [X] Tim Hudak (VEO) - Weds 3/10 3:30-5:00 ET
-    - [X] VBA - TBD
-    - [X] VHA - TBD 
+    - [ ] VBA - TBD
+    - [ ] VHA - TBD 
     - [ ] Observations from the moderated user sessions will be synthesized and determination will be made as to whether product refinement for the CMS AX and/or front-end experience is needed prior to MVP production release
 
 ### MVP Production Release Phase (April-June 2021)
