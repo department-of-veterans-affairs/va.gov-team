@@ -93,7 +93,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
 
-**9. Users easily understood the applications in progress section and how to complete and submit an application.** Users understood that this was an application that they had personall started and they all easily stated they would click on the 'continue application' button to complete the application.
+**7. Users easily understood the applications in progress section and how to complete and submit an application.** Users understood that this was an application that they had personall started and they all easily stated they would click on the 'continue application' button to complete the application.
 
 ### Task breakdown 
 
