@@ -2,6 +2,24 @@
 
 This document covers the various metrics which are of interest for the VAMC product and the status of implementation.
 
+### Table of Contents
+Overarching business questions which we hope to answer with analytics
+What forces impact the metrics of this product?
+- Covers things to consider when doing analysis for the VAMC product
+Analytics Roadmap
+- Includes the business questions we're trying to answer, the source for that data, whether or not it is available, and if so, a link to view it
+High level analytics
+Navigation
+Accordions
+Top task, CTA and service pages
+
+## Overarching business questions which we hope to answer with analytics
+- **Can Veterans find what they need?**
+- **Can Veterans accomplish their tasks?**
+- **Is the site easy to use?**
+
+
+
 ## What forces impact the metrics of this product?
 
 |	Factor	|	Questions	|	Notes	|
@@ -16,12 +34,6 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	Seasonality/Veteran population or milestone, What happened in previous years?	|		|	Because of roll-out, there isn't good precedent for what to expect seasonally..._yet_	|
 |	Larger VA traffic (macro changes)	|	What percentage of the wider population can we expect to view our pages?	|		|
 |	What is our pool of eligible visitors?	|	How many Veterans are assigned to a given health care system?	|		|
-
-
-## Overarching business questions which we hope to answer with analytics
-- **Can Veterans find what they need?**
-- **Can Veterans accomplish their tasks?**
-- **Is the site easy to use?**
 
 ## Analytics Roadmap
 
