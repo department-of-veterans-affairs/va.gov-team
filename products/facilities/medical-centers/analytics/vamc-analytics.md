@@ -2,23 +2,23 @@
 
 This document covers the various metrics which are of interest for the VAMC product and the status of implementation.
 
-### Table of Contents
-Overarching business questions which we hope to answer with analytics
-What forces impact the metrics of this product?
-- Covers things to consider when doing analysis for the VAMC product
-Analytics Roadmap
-- Includes the business questions we're trying to answer, the source for that data, whether or not it is available, and if so, a link to view it
-High level analytics
-Navigation
-Accordions
-Top task, CTA and service pages
+## Table of Contents
+[Overarching business questions which we hope to answer with analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#overarching-business-questions-which-we-hope-to-answer-with-analytics)
+
+[What forces impact the metrics of this product?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#what-forces-impact-the-metrics-of-this-product)
+_Covers things to consider when doing analysis for the VAMC product_
+
+[Analytics Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#analytics-roadmap)
+_Includes the business questions we're trying to answer, the source for that data, whether or not it is available, and if so, a link to view it_
+- [High level analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#high-level-analytics)
+- [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#navigation)
+- [Accordions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#accordions)
+- [Top task, CTA and service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#top-task-cta-and-service-pages)
 
 ## Overarching business questions which we hope to answer with analytics
 - **Can Veterans find what they need?**
 - **Can Veterans accomplish their tasks?**
 - **Is the site easy to use?**
-
-
 
 ## What forces impact the metrics of this product?
 
