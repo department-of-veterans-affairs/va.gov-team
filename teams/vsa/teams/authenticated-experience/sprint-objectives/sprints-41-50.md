@@ -148,16 +148,17 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **PM**
 
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md) #14642
+
 **Design**
 
-- Hand off updated designs from user testing to FE
-- Design error states
-- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md) #14642
+- Design updates from usability testing (meet with Tressa to create tickets)
+- Design error states (Does a ticket exist?)
 - Review frontend build as needed
 
 **FE**
 
-Continue FE build
+Continue FE build (Talk to Erik and Sandra about what tickets are outstanding/need to be created)
 
 - Add Loading spinner to My VA Health Care #21060
 - Add tests to My VA hiding/showing Health Care sections #21059
@@ -171,11 +172,15 @@ On hold until design updates are done:
 
 **Design**
 
-- UAT
+- Conduct UAT
 
 **FE**
 
-- Fixes from UAT
+- Fixes from UAT (if applicable)
+
+**BE**
+
+- Fixes from UAT (if applicable)
 
 ### Preferred medical facility 
 
