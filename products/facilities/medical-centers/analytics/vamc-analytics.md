@@ -27,7 +27,7 @@ This document covers the various metrics which are of interest for the VAMC prod
 
 |	Business questions	|	Status	|	Issue	|
 |	-----	|	-------	|	-----	|
-|	How does the number of users compare with the number of Veterans registered for care at a particular location? 	|		|		|
+|	How does the number of users compare with the number of Veterans registered for care at a particular location? 	|		|	See [benchmarks for Pittsburgh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/pittsburgh-health-care/pittsburgh-benchmarks.md)	|
 |	How do users get to the VAMC system page?	|	Available through GA	|		|
 |	How do users get to the VAMC facilities page?	|	Available through GA	|		|
 |	Do Veterans use the breadcrumbs to navigate?	|	Requested by VAMC upgrade team for each roll-out	|	[#18822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18822)	|
@@ -40,7 +40,7 @@ This document covers the various metrics which are of interest for the VAMC prod
 |	Which accordions within the "Prepare for your visit" section are opened most often? 	|		|		|
 |	Do Veterans view health service information at the system or facility level?	|	Available through GA	|		|
 |	Are Veterans able to navigate to the facility health service from the system health service page?	|		|		|
-|	What's the average number of pages viewed in a session? 	|	Available through GA	|		|
+|	What's the average number of pages viewed in a session? 	|	Available through GA	|	See [benchmarks for Pittsburgh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/pittsburgh-health-care/pittsburgh-benchmarks.md)	|
 |	Average length of time per session?	|	Available through GA	|		|
 |	Do Veterans scroll up and down the page? 	|	Requested	|	[#15132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15132)	|
 |	How often do Veterans view a Care Coordinator page?	|	Available through GA	|	See [Pittsburgh Health service page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/pittsburgh-health-care/health-care-service-pages.md)	|
