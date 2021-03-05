@@ -140,7 +140,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **5. No users were able to find My VA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits.** Given that we were using an InVision prototype and not testing in code, it’s unclear whether people easily found things just because we were already on My VA or whether they’d have as easy a time if we started them somewhere else on VA.gov. We should test this in follow-up sessions once My VA is live. 
 
-**6. Users generally understood the 'Apply for benefits' section, but were confused about why we were showing the benefit in 'Benefits you might be interested in'.** Multiple participants thought that this was a section to show benefits that they were eligible for. A few participants thought this was a benefit that was underutilized at the VA, so they were advertising it.  Most participants understood that it was something in relation to them personally.We should test this again with real information to understand this more fully.
+**6. Users generally understood the 'Apply for benefits' section, but were confused about why we were showing the benefit in 'Benefits you might be interested in'.** People understood that this was a benefit that they were not currently recieving. There was some confusion around *why* we were showing it, but this wasn't a massive usability issue on the page overall.  Some people thought that maybe it had something to do with their eligibility, but people generally understood that this was something the VA wanted to get in front of them.
 
 Also, multiple users mentioned wanting the 'What benefits does the VA offer' dropdown be made more visible. 
 
