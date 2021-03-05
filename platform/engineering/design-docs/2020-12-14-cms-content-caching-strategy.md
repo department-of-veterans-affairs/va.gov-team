@@ -47,10 +47,6 @@ There have been issues with generating the cache key (department-of-veterans-aff
 The problem with review instances prompted an overarching discussion around revising the content caching strategy.
 The goals of that change would be to prevent similar issues and to better support systems that depend on the cache.
 
-As alluded to earlier, direct requests for content from Drupal currently involve GraphQL queries. However, this is going to change.
-- There is an ongoing project to overhaul the content build to use what is known as CMS export data, as opposed to the GraphQL query results.
-- Naturally, eliminating the GraphQL queries would disrupt the current approach to caching (since the key is generated from those queries) as well as the systems that depend on it.
-
 ### High Level Design
 
 Content will be cached in S3 with a constant key such as `latest.tar.bz2` instead of an ever-changing hash-based key.
@@ -95,12 +91,17 @@ How to simulataneously use the bucket as the source and also trigger from S3 eve
 ### Code Location
 _The path of the source code in the repository._
 
-Handler source code, bundling, and upload
-Terraform configuration for Lambda function
+Initially, the Lambda function and its supporting code will live in the `vets-website`.
+Once the content build is separated into the `content-build` repo, they will be moved there.
 
-Initially, the Lambda function code will live in the vets-website repo at `src/platform/lambdas/content-cache.js`.
+Handler source code, bundling, and upload (`vets-website`):
+- Lambda function: `src/platform/lambdas/content-cache.js`
+- Webpack: `config/webpack.content-cache.js`
+- GitHub Actions: `.github/workflows/content-build.yml`
+- Function upload script: `scripts/upload-content-cache.sh`
 
-When the content build separation is complete, the function along with the Circle job that builds and updates the AWS resources, will move over to the content-build repo.
+The Lambda function will be provisioned in the `devops` repo.
+- Terraform: `terraform/environments/global/lambda.tf`
 
 ### Testing Plan
 
@@ -171,8 +172,6 @@ There are some very specific versioning rules in the design that may not be stra
 
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
-
-Replicate a similar caching approach with the CMS export data.
 
 ### Revision History
 _The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
