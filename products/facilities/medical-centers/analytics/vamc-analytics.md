@@ -6,7 +6,7 @@ This document covers the various metrics which are of interest for the VAMC prod
 [Overarching business questions which we hope to answer with analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#overarching-business-questions-which-we-hope-to-answer-with-analytics)
 
 [What forces impact the metrics of this product?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#what-forces-impact-the-metrics-of-this-product)
-_Covers things to consider when doing analysis for the VAMC product_
+_Factors to consider when doing analysis for the VAMC product_
 
 [Analytics Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-analytics.md#analytics-roadmap)
 _Includes the business questions we're trying to answer, the source for that data, whether or not it is available, and if so, a link to view it_
