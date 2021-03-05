@@ -11,7 +11,5 @@
 ## Participants
 
 | Session Notes | Session Day & Time | Role | Dependents | VA Benefits | Disability % | Cognitive Impairments | Care Oustide VA | Gender | Age | Branch | Location | Education | Ethnicity |
-
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-
 | P3-A | 12/8/20, 1-2pm ET | Veteran | Spouse and children | HC + Dis | 100% | PTSD; bipolar schizophrenia | Family on Medicaid | M | 35-44 | Marines | PA - Rural | No degree | White |
