@@ -28,8 +28,8 @@ Before we start, a few things I want to mention:
 - **This entire session should take a little less than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.**
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.**
-- **We will be looking at prototypes today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be tapable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **Even though we’re looking at a prototype, Secure Messaging is a health tool, and health can be a personal topic.** I understand that there may be aspects about your health that you do not want to share with us. If you’d rather not answer a question, please just let me know and we can skip it.
+- **We will be looking at early designs of a mobile app today.** These are just pictures, or a mockup, of how the app might be designed. So since it's not a working app it might not function exactly the way you expect. Some areas of the design will be tapable, and some will not, but none of your actions or input will affect your actual VA information or benefits.
+- **Even though we’re looking at design mockups, Secure Messaging is a health tool, and health can be a personal topic.** I don't expect you to talk about aspects of your own health if you are not comfortable. And if I ask a question you’d rather not answer, please just let me know and we can skip it.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
@@ -50,16 +50,16 @@ Before we start, a few things I want to mention:
     - (If yes) What websites do you use? What do you use them for?
     - Do you remember the last time you used them?
     - How often do you use them?
-- Do you use your mobile phone to manage your health?
-    - (If yes) What apps do you use? What do you use them for?
-    - Do you remember the last time you used them?
-    - How often do you use them?
 - Do you ever go to My HealtheVet website on your phone?
     - If yes, can you tell me a bit about how it is to use it?
     - What do you use it for? (prompt: RX, Messaging, etc)
     - What do you like about it?
     - Are there things you don’t like about it?
     - Is there anything you would change about it?
+- Do you use your mobile phone to manage your health?
+    - (If yes) What apps do you use? What do you use them for?
+    - Do you remember the last time you used them?
+    - How often do you use them?
 - How do you typically reach out to health providers - VA or others?
     - Why do you choose that method?
     - What do you like about it?
@@ -86,17 +86,17 @@ Great, now I can see your phone screen! Thank you for your patience in figuring 
 
 *Backup plan if they cannot figure out how to share screen:*
 
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I still want to get your help and feedback, so what we're going to do today is have me share my screen, and then I'm going to have you "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
+- Ok, it seems like we're having some trouble getting the mockup up on your screen. I still want to get your help and feedback, so what we're going to do today is have me share my screen, and then I'm going to have you "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
 
 Great.
 
 - Alright, I am sending you a link in the chat. Can you navigate to the Chat button, and tap on the link to open it? [Participant opens prototype]
 
-Great, I can see your screen. Before we get started I just want to remind you that this is a prototype - not everything is tapable and it's a demo of what is to come. And if you could keep in mind to think out loud since you’re on a phone and I can’t see your mouse cursor.
+Great, I can see your screen. Before we get started I just want to remind you that this is just a design mockup - not everything is tapable and it's a demo of what is to come. And if you could keep in mind to think out loud since you’re on a phone and I can’t see your mouse cursor.
 
 ## Home and Health Screens (5 minutes)
 
-Now I’d like to ask you to try out some tasks within the prototype so we can learn how we can improve the design. I’m not testing you or your ability, but testing the prototype. We want to understand if anything isn't clear so we can make it better.
+Now I’d like to ask you to try out some tasks within the design so we can learn how we can improve it. I’m not testing you or your ability, but testing the design. We want to understand if anything isn't clear so we can make it better.
 
 Go ahead and open the VA mobile app and sign in.
 
