@@ -27,7 +27,7 @@ To learn and iterate both the product AND the governance approach (e.g. who gets
 Availability of the CLP page builder will be limited to four VACO digital communication teams: VBA, VHA, VEO/OPIA and NCA.  These leads will be responsible for, and have the ability to:
 
 - Being trained and proficient with the CLP page building tool ([CMS CLP Training Guide](
-https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90)
+https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90))
 - Deciding which engagement initiatives are ideal fits for the CLP template
 - Requesting the CLP via VA.gov's online submission form and providing all required information
 - Working with the VA team/office to produce and quality control the CLP
