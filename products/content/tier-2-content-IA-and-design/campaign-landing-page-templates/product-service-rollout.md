@@ -46,10 +46,25 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 
 
 
+### Post-MVP Production Release Phase (June-Forward 2021)
 
 
+**Goals:** 
+To release the CLP to a wider VA digital comms user base -- enabling the tool to be used at scale.
 
+**Governance Model:**
+TBD
 
+**Considerations**
+- Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
+- Will there be any VA.gov and VACO leads governance (a throttle) -- e.g.,request and light Platform review before publication? 
+  - Or, will VACO lead teams have the ability to request access for more editor/users?
+- Will the URL be dynamically generated?
+- Training requirements: 
+  - CMS proficiency
+  - Adherence to the design/UX principles
+  - Plain language
+  - Accessibility
 
 ### Relevant Documents
 
