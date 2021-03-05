@@ -35,17 +35,17 @@
  - Establish POC2 Issue and add Typeahead Next Steps(see below) to GH issue for tracking  (Denise)
 
 Typeahead Next Steps (WIP)
-March 2 - suggestions only appear for query conducted within past 30 days or hardcoded
-March 4 - Determine strategy to establish list of canned suggestions to be added
-March 16 - Fix analytics taxonomy changes to address number of queries that produce zero results  #20889
-TBD - Deliver list of terms to be added to search.gov
-TBD - Search.gov to add new terms to DB
-TBD- Analytics can change the date forward to start the visualizations at the date we set as the beginning of our POC 
-----
-TBD - POC #2 run 2 - 4 weeks (25% of VA.gov users)
-TBD - Assess POC2 Data
-Move to product API from search.gov
-May - Launch to 100% users
+- March 2 - suggestions only appear for query conducted within past 30 days or hardcoded
+- March 4 - Determine strategy to establish list of canned suggestions to be added
+- March 16 - Fix analytics taxonomy changes to address number of queries that produce zero results  #20889
+- TBD - Deliver list of terms to be added to search.gov
+- TBD - Search.gov to add new terms to DB
+- TBD- Analytics can change the date forward to start the visualizations at the date we set as the beginning of our POC 
+- ----
+- TBD - POC #2 run 2 - 4 weeks (25% of VA.gov users)
+- TBD - Assess POC2 Data
+- Move to product API from search.gov
+- May - Launch to 100% users
 
 
 
