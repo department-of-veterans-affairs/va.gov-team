@@ -144,6 +144,30 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 Also, multiple users mentioned wanting the 'What benefits does the VA offer' dropdown be made more visible. 
 
+## Features users expected to see that were missing
+
+Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
+    
+   **Overall**
+    
+   - payment history (6)
+   - personal notifications (4)
+   - GI Bill information (specifically how much money and time is left) (3)
+   - information about home loans (3)
+   - direct deposit (2)
+   - contact information for the VA for each section (2)
+
+   **Healthcare**
+
+   - specific CTAs (schedule/cancel appointments, send a message) (4)
+   - doctor appointments and appointment type to be added to appt boxes (4)
+   - when their prescriptions are going to be arriving (2)
+
+   **Apply for Benefits**
+
+   - move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible) (4)
+   - eligibility requirements (2)
+
 
 ## Task breakdown
 
@@ -170,30 +194,6 @@ Also, multiple users mentioned wanting the 'What benefits does the VA offer' dro
 - if the benefit we are showing was something they were eligible for
 - if the benefit we are showing was a benefit that is underutilized at the VA 
 - how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
-
-## Potential changes
-
-Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
-    
-   **Overall**
-    
-   - payment history (6)
-   - personal notifications (4)
-   - GI Bill information (specifically how much money and time is left) (3)
-   - information about home loans (3)
-   - direct deposit (2)
-   - contact information for the VA for each section (2)
-
-   **Healthcare**
-
-   - specific CTAs (schedule/cancel appointments, send a message) (4)
-   - doctor appointments and appointment type to be added to appt boxes (4)
-   - when their prescriptions are going to be arriving (2)
-
-   **Apply for Benefits**
-
-   - move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible) (4)
-   - eligibility requirements (2)
 
 
 ## Recommendations
