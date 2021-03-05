@@ -174,6 +174,8 @@ Things to watch for & follow up on if participant brings it up:
 - Does it feel like anything is missing here?
 - Would you add anything to this screen? Why?
 
+## Folders/Sent Messages (5 minutes)
+
 **Task 5 (View Folders/ Sent Messages):** If you wanted to view your sent messages where would you go?
 
 - *Do they open the Folder section?*
@@ -205,7 +207,7 @@ Things to watch for & follow up on if participant brings it up
 - *If they struggled to use the in-screen tab navigation, probe on that.*
 - *Is the participant using the 'Back' button alright, or getting stuck?*
 
-## Compose Message & Attachments (5 minutes)
+## Compose Message (5 minutes)
 
 **Last Task 6 (Compose a Message):** Looking at this screen where would you go to compose a message?
 
