@@ -1,4 +1,4 @@
-# MyVA Redesign 2 Research Findings 
+# My VA Redesign 2 Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated experience**<br>
 
 Tressa Furner (tressa.furner@adhocteam.us), 03/03/2021
@@ -7,12 +7,12 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 ## Research Goals 
 
-The goal of this research was to understand user comprehension of the MyVA page after a full re-structure and re-design. This includes:
+The goal of this research was to understand user comprehension of the My VA page after a full re-structure and re-design. This includes:
 
 - Overall, is there enough relevant information on the dashboard to be valuable?
 - Can the user find the tools and tasks that they are looking for effectively?
 - Can the user easily access and understand any personal updates (related to claims, health care, or forms)?
-- Is the new dashboard layout more effective than the current MyVA page?
+- Is the new dashboard layout more effective than the current My VA page?
 
 ## Research Methodology 
 
@@ -79,21 +79,189 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
+## Overall Findings: What worked
+
+**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful, though users wanted My VA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
+
+**2. All users stated that My Va met or exceeded their expectations.**  The information presented on the page was what they expected and they could easily find what they were looking for. Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
+
+**3. There was a tie on preferring the homepage to My VA (4 to 4), but many participants mentioned how much they appreciated the personalization of My VA.**. Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred My VA said they loved how streamlined and personal it was - but both users said they appreciated the personalization of My VA. Some folks said that there would need to be some additions to My VA for it to work as a homepage for them. Specifically education benefits and the records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
+
+**4. People generally understood the difference between the My VA dashboard and the Profile, and were able to accurately describe the profile in their own words.** However, they had a leg up because we asked them this when they were already on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
+
+**5. All users easily found and understood the disability rating and how to get more information on their disability ratings.**
+
+**6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
+
+**9. Users easily understood the applications in progress section and how to complete and submit an application.** Users understood that this was an application that they had personall started and they all easily stated they would click on the 'continue application' button to complete the application.
+
+### Task breakdown 
+
+#### Users easily understood:
+
+**Nametag**
+
+- how to find their disability rating
+- where the disability rating would go
+
+**Claims**
+
+- why we were showing the grey box in claims & appeals
+- "X claims & appeals in progress" link would take them to a break down with their claims in progress
+- how to view all of their claims and appeals
+- how to view specific details about their claim
+
+**Healthcare**
+
+- how to find all of their health care information (messages, appointments, prescriptions)
+- how to read their latest message
+- how to read get to their 'X unread messages'
+- why we're showing their next appointment
+- CTA's would take them to a separate page with more information
+
+**Apply for benefits** 
+
+- what the applications in progress are
+- how to finish and submit an application
+- how to apply to for additional benefits
+- generally why we are showing what we're showing in 'Benefits you might be interested in'
+- how to find more information about additional benefits
+
+
+## Overall Findings: What didn't work
+
+**1.Users wanted My VA to be more 'actionable.** Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
+
+**2. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA.** There was a lot of confusion around the CTA's and the grey boxes and what their relation was to each other. Some users thought that the total number was displayed in the CTA, but they were often unsure about their assumption. All users understood that the links would take them to a separate page with additional information, but 3 users mentioned they would like to see more specific CTA's on the page (i.e. schedule an appointment, cancel an appointment, send message)
+
+**3. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing and redundant.**  They just wanted to see how many messages they had and have the ability to see all of the information about their prescriptions and manage that information, additional details were not helpful to them.
+
+**4. All users were confused with the verbiage and information shown in the prescriptions sections.** Users were very confused about what 'Prescription update' meant. All users did not understand what '3 prescription refills' meant, and many of them did not understand the relationship between the prescription in the grey box and the number in the CTA. Some people thought that the information presented meant that the prescription in the box had 3 refills left, and others thought that the prescription in the grey box was a refill and they had 3 additional refills happening.  
+
+**5. No users were able to find My VA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits.** Given that we were using an InVision prototype and not testing in code, it’s unclear whether people easily found things just because we were already on My VA or whether they’d have as easy a time if we started them somewhere else on VA.gov. We should test this in follow-up sessions once My VA is live. 
+
+**6. Users generally understood the 'Apply for benefits' section, but were confused about why we were showing the benefit in 'Benefits you might be interested in'.** Multiple participants thought that this was a section to show benefits that they were eligible for. A few participants thought this was a benefit that was underutilized at the VA, so they were advertising it.  Most participants understood that it was something in relation to them personally.We should test this again with real information to understand this more fully.
+
+Also, multiple users mentioned wanting the 'What benefits does the VA offer' dropdown be made more visible. 
+
+
+## Task breakdown
+
+### Users were confused about:
+
+**Nametag**
+
+- no confusion
+
+**Claims**
+
+- the total number of claims & appeals
+
+**Healthcare**
+
+- all healthcare totals
+- why there is a grey box in messages and prescriptions
+- prescription update, users didn't always understand what it was referring too
+- prescription refills, specifically how the number of refills related to the information in the grey box
+- prescription section in general - users wanted to see a link to see all prescriptions
+
+**Apply for benefits**
+
+- if the benefit we are showing was something they were eligible for
+- if the benefit we are showing was a benefit that is underutilized at the VA 
+- how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
+
+## Potential changes
+
+Users mentioned things that we may be able to implement in the future including: (listed by most mentioned with the number of participants who mentioned it)
+    
+   **Overall**
+    
+   - payment history (6)
+   - personal notifications (4)
+   - GI Bill information (specifically how much money and time is left) (3)
+   - information about home loans (3)
+   - direct deposit (2)
+   - contact information for the VA for each section (2)
+
+   **Healthcare**
+
+   - specific CTAs (schedule/cancel appointments, send a message) (4)
+   - doctor appointments and appointment type to be added to appt boxes (4)
+   - when their prescriptions are going to be arriving (2)
+
+   **Apply for Benefits**
+
+   - move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible) (4)
+   - eligibility requirements (2)
+
+
+## Recommendations
+
+1. Remove grey boxes in messages and prescriptions.
+2. Break out totals and CTA's into separate elements. 
+3. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
+4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
+5. Eventually add in payment history and a notification hub when time allows.
+
+
+## Next Steps
+
+1. Make all updates to mobile and desktop prototype 
+2. Make all updates on staging
+3. Test again with real user information
+
+## Appendix
+
+### Conversation guide
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-conversation-guide.md
+
+### Interview transcripts
+
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/session-notes
+
+### Tools used for Synthesis
+
+[Spreadsheet]
+
+### Pages and applications used
+
+[Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
+
+### Other supporting documents created
+
+[User story mural board](https://app.mural.co/invitation/mural/vsa8243/1607020005197?sender=u7ad68f2a3a694c00d8a38130&key=7645b7a9-deba-4f12-a233-3caf8f38cedf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Overall Findings
 
-1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on MyVA seems helpful, though users wanted MyVA to be more 'actionable'.
-3. There was a tie on preferring the homepage to MyVA (4 to 4), but many participants mentioned how much they appreciated the personalization of MYVA. 
-4. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing. On the other hand, many users mentioned that the box in appiontments and claims & appeals was useful.
-5. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA. Many users also thought that the grey boxes were clickable.
-6. All users were confused with the verbiage and information shown in the prescriptions sections. 
+**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful, though users wanted My VA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Users had positive feedback about the My VA page, but users were looking for the page to be more actionable. Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
 
-### Findings Breakdown
-
-**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on MyVA seems helpful, though users wanted MyVA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Users had positive feedback about the MyVA page, but users were looking for the page to be more actionable. Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
-
-**2. There was a tie on preferring the homepage to MyVA (4 to 4), but many participants mentioned how much they appreciated the personalization of MYVA.**. Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred MyVa said they loved how streamlined and personal it was - but both users said they appreciated the personalization of MyVA. Some folks said that there would need to be some additions to MyVA for it to work as a homepage for them. Specifically education benefits and the records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
-
-Additionally, no users were able to find MyVA in the Menu dropdown on their own (could be the way we framed the question) - all users said they would look in the homepage links to find updates to benefits (specifically in the disability section).
+**2. There was a tie on preferring the homepage to My VA (4 to 4), but many participants mentioned how much they appreciated the personalization of My VA.**. Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred My VA said they loved how streamlined and personal it was - but both users said they appreciated the personalization of My VA. Some folks said that there would need to be some additions to My VA for it to work as a homepage for them. Specifically education benefits and the records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
 
 **3. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing. On the other hand, many users mentioned that the box in appiontments and claims & appeals was useful.**. Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable. For messages and prescriptions, people found the boxes to be confusing and redundant.  They just wanted to see how many messages they had and manage all of their prescriptions, additional details were not helpful to them.
 
@@ -101,13 +269,13 @@ Additionally, no users were able to find MyVA in the Menu dropdown on their own 
 
 **5. All users were confused with the verbiage and information shown in the prescriptions sections.** Users were very confused about what 'Prescription update' meant. All users did not understand what '3 prescription refills' meant, and many of them did not understand the relationship between the prescription in the grey box and the number in the CTA. Some people thought that the information presented meant that the prescription in the box had 3 refills left, and others thought that the prescription in the grey box was a refill and they had 3 additional refills happening.  
 
+**6. No users were able to find My VA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits.** Given that we were using an InVision prototype and not testing in code, it’s unclear whether people easily found things just because we were already on My VA or whether they’d have as easy a time if we started them somewhere else on VA.gov. We should test this in follow-up sessions once My VA is live. 
 
-### Additional Insights
+**8. People generally understood the difference between the My VA dashboard and the Profile, and were able to accurately describe the profile in their own words.** However, they had a leg up because we asked them this when they were already on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
 
-1. No users were able to find MyVA in the Menu dropdown on their own. All users said they would look in the homepage links to find updates to benefits. Given that we were using an InVision prototype and not testing in code, it’s unclear whether people easily found things just because we were already on My VA or whether they’d have as easy a time if we started them somewhere else on VA.gov. We should test this in follow-up sessions once My VA is live. 
-2. People generally understood the difference between the My VA dashboard and the Profile, and were able to accurately describe the profile in their own words. However, they had a leg up because we asked them this when they were already on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
-3. Overall, MyVa met user expectations.  Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
-4. Users easily found and understood the disability rating and how to get more information on their disability ratings.
+**9. Overall, My Va met user expectations.**  Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
+
+**10. Users easily found and understood the disability rating and how to get more information on their disability ratings.**
 
 
 ## Task breakdown
@@ -227,4 +395,8 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 ### Other supporting documents created
 
 [User story mural board](https://app.mural.co/invitation/mural/vsa8243/1607020005197?sender=u7ad68f2a3a694c00d8a38130&key=7645b7a9-deba-4f12-a233-3caf8f38cedf)
+
+
+
+
 
