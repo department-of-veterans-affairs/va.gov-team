@@ -1,6 +1,6 @@
 # Profile Overview
 
-Last Updated February 8, 2021
+Last Updated March 5, 2021
 
 ## POCs
 - GitHub Label: Profile
@@ -17,6 +17,7 @@ Last Updated February 8, 2021
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie | FE Engineer| shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -51,7 +52,7 @@ Currently, the VA.gov profile houses people's:
 
 - Personal and contact information
 - Military information
-- Direct deposit information (comp & pen only)
+- Direct deposit information (comp & pen only; edu pending)
 - Account security
 - Connected apps
 
