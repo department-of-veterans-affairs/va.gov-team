@@ -9,11 +9,12 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 
 ## Background
-This study is being conducted by the VSA Caregiver team.	
+
+This study is being conducted by the Veteran-Facing Services and Applications Caregiver team.	
 
 The Caregiver team launched the digitized 10-10CG form October 1, 2020. Currently, the team is exploring adding functionality that will allow a Veteran’s legal representative to be identified and provide supporting documentation (e.g. power of attorney) to be optionally uploaded. 
- 
-Two designs have been created to support the additional functionality of identifying and signing as a legal representative. 
+Two designs have been created to support the additional functionality of identifying and signing as a legal representative.
+
 
 ## Goal
 
@@ -72,27 +73,35 @@ We conducted 10 remote moderated usability sessions via Zoom using the Perigean 
   - Master's degree: 1
   - Unknown: 2
 
-- Geographic location: VA, IN, PA, GA, LA, TX, FL, MO
+- Geographic locations: VA, IN, PA, GA, LA, TX, FL, MO
 
 ## Key findings
 
-1. A few participants found the legal representative question to be confusing and in some cases the question was a blocker.
+1. The representative workflow stopped some Caregivers who did not have legal representative status from completing the application.
 2. Most participants found the content on the legal representative page helpful in making a selection.
-3. The two representative workflows acted as a blocker to participants who are Caregiver’s without legal representative status.
-4. Both the participants with legal representative status that completed the task on mobile did not have documentation easily available to upload and it was unclear if they could continue without it.
-5. Veterans and caregivers who act as legal representatives understood the legal representative question and were able to complete the workflows easily.  
+3. Some participants with legal representative status did not have documentation easily available and it was unclear if they could continue without it.
+4. Asking the legal representative question as the first question in the form caused confusion with participants who associated applying for the program with designating a legal representative.
+5. Veterans filling out the form for themselves and caregivers who regularly act as legal representatives understood the legal representative question and were able to complete the workflows easily.
 6. All participants that entered the legal representative's name on behalf of the Veteran found the experience to meet their expectations and had no issue completing the “Representative's statement of truth.” 
-7. Placing the legal representative question early in the flow caused some confusion with  participants who associated adding a Primary Family Caregiver with designating a legal representative. 
+
 
 ## Details of findings 
 
-### 1. A few participants found the legal representative question to be confusing and in some cases the question was a blocker.
+### 1. The representative workflow stopped some Caregivers who did not have legal representative status from completing the application.
 
-Most participants understood the legal representative question. However, a few participants questioned if their marriage certificate or if being a parent would be adequate in determining a legal representative. 
+Caregivers who were not legal representatives questioned if having legal representative status was a requirement for submitting the application and being part of the PCAFC.
 
-- “I am hoping a marriage license works.” 
+- “It is leaving me to believe that I would have to have a legal document before I can even fill that out...If I am even qualified to be considered a caregiver.” 
 
-- “After reading that, I would have to say no because I don’t have documentation, unless they are okay with my marriage license. I would think that my marriage licence would be suffice, would be sufficient enough.” 
+- “I don't have power of attorney or anything...If I push no, it's going to probably say that I cannot submit the form.”
+
+- “I would expect it to kick me out and say, ‘you do not qualify’. ”
+
+Some participants questioned if their marriage certificate or if being a parent would be sufficient for proving legal representative status. 
+
+- “I am hoping a marriage license works.”
+
+- “After reading that, I would have to say no because I don’t have documentation, unless they are okay with my marriage license. I would think that my marriage license would be suffice, would be sufficient enough.”
 
 ### 2. Most participants found the content on the legal representative page helpful in making a selection.
 
@@ -100,59 +109,49 @@ Participants found words such as “power of attorney” and the “What documen
 
 - “That’s what I would be asking…‘what does that mean and what am I going to have to upload?’ ”
 
--  One participant reading the “note” stated, “ ‘Being a Veteran’s closest family member or next of kin doesn’t automatically give you legal status as their representative’, there it is…” 
+-  “One participant reading the “note” stated, “ ‘Being a Veteran’s closest family member or next of kin doesn’t automatically give you legal status as their representative’, there it is…” 
 
 - “In that case, I would probably make a phone call and talk to someone at the VA.” 
 
-### 3. The two representative workflows acted as a blocker to participants who are Caregiver’s without legal representative status.
+### 3. Some participants with legal representative status did not have documentation easily available and it was unclear if they could continue without it.
 
-Most participants, who were not legal representatives, questioned if having legal representative  status was a requirement to submit the application and be part of the Program of Comprehensive Assistance for Family Caregivers. Furthermore, participants were hesitant to select “no” to the  legal representative question as it was unclear if it would prevent them from submitting the application. 
-
-- "It is leaving me to believe that I would have to have to have a legal document before I can even fill that out...If I am even qualified to be considered a caregiver."" 
-
-- "I don't have power of attorney or anything...If I push no, it's going to probably say that I cannot submit the form." 
-
-- “I would expect it to kick me out and say, ‘you do not qualify’.” 
-
-### 4. Both the participants with legal representative status that completed the task on mobile did not have documentation easily available to upload and it was unclear if they could continue without it.
+Both of the participants that applied on their phone did not have documentation readily available.
 
 - “I have his power of attorney, I have all of that…I would not have it with me.”
 
 - “Well, I couldn’t get the forms if I wasn’t at home. I’d have to wait until I got home. I would have held off on the application and finished it at home.”
 
-### 5. Veterans and caregivers who act as legal representatives understood the legal representative question and were able to complete the workflows easily.  
-
-One Veteran participant stated, 
-
-- “Well, this is asking about a legal representative, which I am not, and I don’t have either, I’d put no. 
-
-- "You learn to have it, your POA form, so in 12 years I have submitted, I think in the first 6 years I have sent one every month…"
-
-However, one participant did express concern over “finding” or going through the “hassle” of uploading the documentation. 
+One participant on applying on a computer found the question too burdensome.
 
 - “I’m not going through these extra steps.” 
 
-### 6. All participants that entered the legal representative's name on behalf of the Veteran found the experience to meet their expectations and had no issue completing the “Representative's statement of truth.”  
-
- - “Oh, I like this..since I clicked yes, I would be putting my name here on behalf of [Veteran’s name] and I am certifying...That makes sense to me”
-
-- “The first line is where I would be, the representative...The second line is his name because he is the Veteran.” 
-
-### 7.  Placing the legal representative question early in the flow caused some confusion with  participants who associated adding a Primary Family Caregiver with designating a legal representative. 
+### 4. Asking the legal representative question as the first question in the form caused confusion with participants who associated applying for the program with designating a legal representative.
 
 One participant referencing end of life decisions stated: 
 
-- “To make sure that she would be the point of contact for any medical decisions that needs to happen…”
+“To make sure that she would be the point of contact for any medical decisions that needs to happen…”
 
+### 5. Veterans filling out the form for themselves and caregivers who regularly act as legal representatives understood the legal representative question and were able to complete the workflows easily.
+
+- “Well, this is asking about a legal representative, which I am not, and I don’t have either, I’d put no.”
+
+- “You learn to have it, your POA form, so in 12 years I have submitted, I think in the first 6 years I have sent one every month…”
+
+### 6. All participants that entered the legal representative's name on behalf of the Veteran found the experience to meet their expectations and had no issue completing the “Representative's statement of truth.”  
+
+ - “Oh, I like this..since I clicked yes, I would be putting my name here on behalf of [Veteran’s name] and I am certifying...That makes sense to me.”
+
+- “The first line is where I would be, the representative...The second line is his name because he is the Veteran.”  
 
 
 ## Additional Insights 
 
 - Some participants were confused by the “Would you like to add a Primary Family Caregiver” question. A couple participants began to enter their physicians information on the Primary Family Caregiver’s page. One participant noted that this was because they previously were on the “medical facility” screen.
 
-- Some participants were confused by the word “add” in the question. 
 
-   - "We are applying for the family caregiver program...Why is it asking me if I want to ‘add a primary family caregiver?’ Isn’t that what I am applying for?” 
+- Some participants were confused by the word “add” in the question.
+
+   - "We are applying for the family caregiver program...Why is it asking me if I want to ‘add a primary family caregiver?’ Isn’t that what I am applying for?”
 
 
 - This caused another participant to enter the Secondary Family Caregiver information in the Primary Family Caregiver fields. 
@@ -161,7 +160,12 @@ One participant referencing end of life decisions stated:
 
 - "I just don't think the Veteran is filling out this form." 
 
-- Participants seemed to understand that the Secondary Family Caregivers serve as backup to the Primary Family Caregiver. However, A few participants had questions around the requirements of a Secondary Family Caregiver.  “Do they need to be in the house with the Veteran” or “My son is 16, does he qualify?”
+- Participants seemed to understand that the Secondary Family Caregivers serve as backup to the Primary Family Caregiver. However, A few participants had questions around the requirements of a Secondary Family Caregiver. 
+
+
+- “Do they need to be in the house with the Veteran” 
+
+-  “My son is 16, does he qualify?”
 
 
 - The Medical facility page caused confusion with some participants. Participants note that the Veteran sees multiple doctors at different locations. Making it difficult to make a selection. 
@@ -176,19 +180,29 @@ One participant referencing end of life decisions stated:
 
 Legal Representative: 
 
-- Iterate on the legal representative page:  
-   - Present content in a less intimidating way while still keeping useful information such as “power of attorney” and the “What documents can I submit to show legal status as a representative?” additional info component. 
-   - Clearly explain why the legal representative question is being asked. 
-   - Clearly note that uploading supporting documentation for legal representatives is optional
-   - Make it clear that legal representative status does not impact eligibility to the Program of Comprehensive Assistance for Family Caregivers. 
-  - Place the legal representative question towards the end of form near “Review and submit” page. 
+- Place the legal representative question towards the review page. 
+- Make it clear that legal representative status does not impact eligibility to the Program of Comprehensive Assistance for Family Caregivers. 
+- Present content in a less intimidating way while still keeping useful information such as “power of attorney” and the “What documents can I submit to show legal status as a representative?” additional info component. 
+- Explain that a marriage certificate does not automatically give legal status as the Veteran’s representative. 
+- Clearly explain why the legal representative question is being asked.
+- Note that uploading supporting documentation for legal representatives is optional.
+
 
 Primary Family Caregiver: 
 
-- Explain why we are asking the Primary Family Caregiver question. 
-- Iterate on “Would you like to add a Primary Family Caregiver?” question to ensure a consistent voice throughout the the form. 
+- Explain why we are asking the Primary Family Caregiver question.
+Iterate on “Would you like to add a Primary Family Caregiver?” question to ensure a consistent voice throughout the form. 
 - Surface helpful content to make clear that the Primary Family Caregiver is the main caregiver.  
 
+Secondary Family Caregiver: 
+
+- Considering content that helps users make a confident selection.  
+
+Medical facility page: 
+
+- Clearly explain that the user can enter community care as well as VA facility for the recent medical care fields. 
+
+- Explain why the VA Medical facility question is being asked. 
 
 
 
