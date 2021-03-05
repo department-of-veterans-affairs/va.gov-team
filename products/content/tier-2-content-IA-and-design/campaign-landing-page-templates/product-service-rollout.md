@@ -38,7 +38,7 @@ MVP VACO Teams & Leads
 - VEO: Tim Hudek
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
-**On-boarding and Training Model:** 
+**Request and Publishing Model:** 
 
 <img width="1103" alt="Screen Shot 2021-03-05 at 12 44 33 PM" src="https://user-images.githubusercontent.com/63107147/110153109-9b690800-7db0-11eb-820a-cf4835cab0a5.png">
 
