@@ -41,7 +41,6 @@ Typeahead Next Steps (WIP)
 - TBD - Deliver list of terms to be added to search.gov
 - TBD - Search.gov to add new terms to DB
 - TBD- Analytics can change the date forward to start the visualizations at the date we set as the beginning of our POC 
-- ----
 - TBD - POC #2 run 2 - 4 weeks (25% of VA.gov users)
 - TBD - Assess POC2 Data
 - Move to product API from search.gov
