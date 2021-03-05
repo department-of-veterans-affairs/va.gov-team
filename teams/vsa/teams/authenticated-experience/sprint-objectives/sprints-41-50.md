@@ -157,7 +157,15 @@ Make sure there are issues/next steps/clear documentation on exactly what is hap
 
 **FE**
 
-- Continue FE build
+Continue FE build
+
+- Add Loading spinner to My VA Health Care #21060
+- Add tests to My VA hiding/showing Health Care sections #21059
+
+On hold until design updates are done:
+
+- Wire up messages to My VA Health care #21056
+- Any additional design updates out of usability testing
 
 ### Direct deposit for edu
 
