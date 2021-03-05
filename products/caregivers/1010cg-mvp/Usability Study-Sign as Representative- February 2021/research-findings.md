@@ -146,13 +146,14 @@ One participant referencing end of life decisions stated:
 
 ## Additional Insights 
 
-- Some participants were confused by the “Would you like to add a Primary Family Caregiver” question. A couple participants began to enter their physicians information on the Primary Family Caregiver’s page. One participant noted that this was because they previously were on the “medical facility” screen.
+**Some participants were confused by the “Would you like to add a Primary Family Caregiver” question.**
+
+- A couple participants began to enter their physicians information on the Primary Family Caregiver’s page. One participant noted that this was because they previously were on the “medical facility” screen.
 
 
 - Some participants were confused by the word “add” in the question.
 
    - "We are applying for the family caregiver program...Why is it asking me if I want to ‘add a primary family caregiver?’ Isn’t that what I am applying for?”
-
 
 - This caused another participant to enter the Secondary Family Caregiver information in the Primary Family Caregiver fields. 
 
@@ -160,15 +161,14 @@ One participant referencing end of life decisions stated:
 
 - "I just don't think the Veteran is filling out this form." 
 
-- Participants seemed to understand that the Secondary Family Caregivers serve as backup to the Primary Family Caregiver. However, A few participants had questions around the requirements of a Secondary Family Caregiver. 
+**Participants seemed to understand that the Secondary Family Caregivers serve as backup to the Primary Family Caregiver. However, A few participants had questions around the requirements of a Secondary Family Caregiver.**
 
 
 - “Do they need to be in the house with the Veteran” 
 
 -  “My son is 16, does he qualify?”
 
-
-- The Medical facility page caused confusion with some participants. Participants note that the Veteran sees multiple doctors at different locations. Making it difficult to make a selection. 
+**The Medical facility page caused confusion with some participants. Participants note that the Veteran sees multiple doctors at different locations. Making it difficult to make a selection.**
 
 - “I still don't know what to put here because, ’Do I put the CBOC down because it’s closer...or do I put the actual VA Medical Center down?’ “ 
 
