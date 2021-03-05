@@ -15,7 +15,7 @@ The CMS has two teams, a Core Application Team and Product Support Team. Our wor
 | DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
 | CMS Application Architecture & Quality Control | CMS Training |
 | CMS Design System | |
-| CMS Helpdesk | |
+| [CMS Helpdesk](helpdesk) | |
 
 
 
@@ -90,8 +90,8 @@ Slack channels:
 
 ## Table of contents
 
-**CMS documentation**
-- prod.cms.va.gov/help
+**CMS Help Center**
+- <https://prod.cms.va.gov/help>
 
 **How to Work with CMS team**
 - [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)
