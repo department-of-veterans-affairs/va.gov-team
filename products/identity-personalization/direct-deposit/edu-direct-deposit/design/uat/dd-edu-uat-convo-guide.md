@@ -15,9 +15,10 @@
 Good morning/afternoon and thank you for joining us today.
 
 I have a few things I need to mention before we start:
-- The session should only take about 10 to 15 minutes, but we can stop any point--just let me know. 
+- The session should only take about 10 to 15 minutes. I want to be respectful of your time. 
 - If something is confusing, or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
-- In this call you'll be entering or reviewing personal information.
+- In this call you'll be entering or reviewing personal information. 
+- If you want to stop the session at any time, please let me know. 
 - We will be using a live VA form--you could use this to change your direction deposit information. You are not obligated to complete this form--it won't be sent to VA to until you go all the way through and click the update button.
 
 ## Screening
