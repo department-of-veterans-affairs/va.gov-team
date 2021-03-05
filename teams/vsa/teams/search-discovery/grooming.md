@@ -3,11 +3,11 @@
 ## March 3, 2021
 ***DISCUSSION TOPICS:*** 
 
- - [ ] Typeahead Plans + [Strategy](https://docs.google.com/spreadsheets/d/1GQMbACxz4y6nPuh7erJJx605fqoTVxxuquX_W3Oa5PM/edit#gid=1997340956) to add suggestions 
- - [ ] Onsite KPI Dashboard Discussion (Megan)
- - [ ] Click Tracking Data Review (John)
- - [ ] Capture New Tasks/Issues
- - [ ] Staging Review Prep - Today March 4 at 1pm 
+ - [x] Typeahead Plans + [Strategy](https://docs.google.com/spreadsheets/d/1GQMbACxz4y6nPuh7erJJx605fqoTVxxuquX_W3Oa5PM/edit#gid=1997340956) to add suggestions 
+ - [x] Onsite KPI Dashboard Discussion (Megan)
+ - [x] Click Tracking Data Review (John)
+ - [ ] Capture New Tasks/Issues - Bumped to next call due to time
+ - [x] Staging Review Prep - Today March 4 at 1pm  [Collectively we decided to cancel
 
 
  ***INITIATIVE STATUS***
@@ -26,10 +26,27 @@
  - Click tracking as enhancement to Onsite Dashboard.
  - Accessibility Review Considerations related to issue [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719)
  - SEO Audit  including exploration of Google Console Tools
+ - 
 
 
  ***NEXT STEPS/ACTIONS:***
- - TBD
+ - Notify Search.gov of plans + timeline given shift (John)
+ - Meet with analytics to address number of queries that produce zero results (Sam)
+ - Establish POC2 Issue and add Typeahead Next Steps(see below) to GH issue for tracking  (Denise)
+
+Typeahead Next Steps (WIP)
+March 2 - suggestions only appear for query conducted within past 30 days or hardcoded
+March 4 - Determine strategy to establish list of canned suggestions to be added
+March 16 - Fix analytics taxonomy changes to address number of queries that produce zero results  #20889
+TBD - Deliver list of terms to be added to search.gov
+TBD - Search.gov to add new terms to DB
+TBD- Analytics can change the date forward to start the visualizations at the date we set as the beginning of our POC 
+----
+TBD - POC #2 run 2 - 4 weeks (25% of VA.gov users)
+TBD - Assess POC2 Data
+Move to product API from search.gov
+May - Launch to 100% users
+
 
 
 
