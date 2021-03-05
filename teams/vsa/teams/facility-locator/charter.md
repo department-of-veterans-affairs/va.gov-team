@@ -30,7 +30,8 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 
 **Roadmap**
 
-**Team Members**
+## Team Members
+Current
 - VA Product Owner
   - David Conlon (September 2019 - present) 
 - Product Manager: 
@@ -38,38 +39,40 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 - VA UI Design Lead: Ryan Thurlwell
 - UX/Design: 
   - Leyda Hughes (June 2020 - present)
-  - Chris Logan (October 2020 - February 2021)
-  - Aricka Lewis (September 2019 - June 2020) 
 - Back End Engineer
-   - Lance Sanchez (October 2019)
+   - Lance Sanchez (October 2019-present)
 - Front End Engineer
   - Michael Pelz-Sherman (June 2020- present)
   - Gilbran Rodriguez (October 2019 - present)
 
-**Workflow + Cadence**
+Past
+- Chris Logan (October 2020 - February 2021)
+- Aricka Lewis (September 2019 - June 2020) 
 
-Stand-up: people / product check-ins
+## Workflow + Cadence
+
+**Stand-up**: people / product check-ins
 - 15 min, Daily M, W, Th
 
-Stand-up/ "Team show and tell" time
+**Stand-up/ "Team show and tell" time**
 - 30 min, Fridays, includes Dave Conlon
 
-Grooming: assess and update workload for remainder of sprint
+**Grooming**: assess and update workload for remainder of sprint
 - 1 hour, Every two weeks 
 
-Pre-sprint Grooming: review un-estimated issues likely to be brought into sprint, review AC, ensure understanding
+**Pre-sprint Grooming**: review un-estimated issues likely to be brought into sprint, review AC, ensure understanding
 - 1 hour on Monday before planning
 
-Sprint Planning: outline team and member focus, goals for sprint
+**Sprint Planning**: outline team and member focus, goals for sprint
 - 1 hour, Every two weeks 
 
-Sprint Review/Demo
+**Sprint Review/Demo**
 - Every two weeks on Tuesday 
 
-Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
+**Retro**: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 - 30 min, every two weeks
 
-**Issue Etiquette**
+## Issue Etiquette
 
 **All issues** have the following
 * Title that explains task
@@ -100,7 +103,7 @@ Estimation is not based on how long something will take to complete, but is rath
 8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
 13 - Very complex, may take a full sprint or longer 
 
-Team Norms
+## Team Norms
 
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
