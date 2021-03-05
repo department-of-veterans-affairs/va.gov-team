@@ -5,7 +5,7 @@ February 2021<br/>
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research%20plan.md).
 
-[Research Findings Presentation PDF](Coming soon)
+[Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/Sign%20as%20a%20Representative%20Readout.pdf)
 
 
 ## Background
@@ -214,5 +214,5 @@ Medical facility page:
 - [Desktop prototype - Option 2](https://preview.uxpin.com/2dcebcd201915133a476e3a28ea0e16e3e44e95a#/pages/136846590/simulate/no-panels?mode=i)
 - [Mobile Prototype - Option 1](https://preview.uxpin.com/61f79c1ea3e63ea88cd1dc9266a02fb3d53ebd2b#/pages//simulate/no-panels?mode=i)
 - [Mobile Prototype - Option 2](https://preview.uxpin.com/61f79c1ea3e63ea88cd1dc9266a02fb3d53ebd2b#/pages//simulate/no-panels?mode=i)
-- [Research Findings Presentation PDF]()
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/Sign%20as%20a%20Representative%20Readout.pdf)
 
