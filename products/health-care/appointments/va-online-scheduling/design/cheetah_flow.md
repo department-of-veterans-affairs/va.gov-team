@@ -10,7 +10,7 @@
 
 3. Contact facilities (if no available online facilities) `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/contact-facilities`
 
-![contact-facilities](cheetah-flow/facilities_page.png)
+![contact-facilities](cheetah-flow/contact_facilities.png)
 
 4. Facilities `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/facility`
 
@@ -36,11 +36,10 @@ No clinics message:
 
 ![contact-info](cheetah-flow/contact_info_page.png)
 
-8. Review page `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/review`
+9. Review page `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/review`
 
 ![review](cheetah-flow/review_page.png)
 
-
-9. Confirmation page `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/confirmation`
+10. Confirmation page `/health-care/schedule-view-va-appointments/appointments/new-project-cheetah-booking/confirmation`
 
 ![confirmation](cheetah-flow/confirmation_page.png)
