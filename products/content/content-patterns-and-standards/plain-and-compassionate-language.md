@@ -1,3 +1,6 @@
+# Document purpose
+
+To document the nuances of plain and compassionate language that Beth and Danielle use so that other writers and designers can easily follow these patterns.
 
 **Sighted language**
 
