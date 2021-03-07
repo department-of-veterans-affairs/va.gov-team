@@ -10,3 +10,5 @@ Find alternatives for language that implies sightedness. It's not only more incl
 | --- | --- |
 | See below to... | Keep reading to...|
 | Don't see your [form/questionnaire/etc] listed? | Can't find your [form/questionnaire/etc] listed here? |
+
+Linking to more working notes on this: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/content/community-of-practice/working-session-notes.md
