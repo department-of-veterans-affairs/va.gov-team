@@ -11,7 +11,7 @@
 | Like this | Not like this |
 |---|---|
 | If you delete this entry, you'll lose all your information. | If you delete this entry, all your information will be lost. |
-| Call us at 800-555-5555. | We can be reach at 800-555-5555. |
+| Call us at 800-555-5555. | We can be reached at 800-555-5555. |
 
 - [ ] Text avoids indicating the plural by using (s)
 - [ ] Text avoids indicating "and" by using an "&".
