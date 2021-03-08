@@ -84,7 +84,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [COVID-19 Chatbot](#covid-19-chatbot)
     - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery)
     - [COVID-19 Screener](#covid-19-screener)
-    - [VA Medical Sites](#va-medical-sites)
+    - [VA Medical Centers](#va-medical-centers)
+      - [Eastern Oklahoma VA Medical Center](#eastern-oklahoma-va-medical-center)
     - [App Directory](#app-directory)
     - [COVID-19 Vaccine Prep Tool](#covid-19-vaccine-prep-tool)
     - [VSA Search and Discovery](#vsa-search-and-discovery)
@@ -1056,7 +1057,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### VA Medical Sites
+### VA Medical Centers
 
 **Audit status:** _VSA working with VAMC team_<br/>
 **Open issues**
@@ -1066,7 +1067,24 @@ Back to [Table of Contents](#table-of-contents)
   
 Back to [Table of Contents](#table-of-contents)
 
+#### Eastern Oklahoma VA Medical Center
+
+**Audit status:** _[Staging review completed by VSA in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21064)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗Launchblocker [COGNITION]: Locations Page - mental health clinics must have discernible text or be removed - #21073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21073)<br/>**Opened:** March 5, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [Health care, headings not properly nested - #21035](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21035)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [Health Care Policies: Headers not properly tagged (template issue) - #20864](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20864)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [KEYBOARD]: VAMC Templates - On this page links must set focus correctly in iOS Safari + VoiceOver - #21067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21067)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [Health Services: Three unclear links under the heading "in the spotlight" - #21029](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21029)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [Medical Records Office: Facility locations not linked - #20874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20874)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [Health Care Services "Learn more about" links unclear - #20861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20861)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [508-defect-3 [COGNITION]: System Landing - Building image should have ALT text - #21077](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21077)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+  
+Back to [Table of Contents](#table-of-contents)
+
 ---
+
 ### App Directory
 
 **Audit status:** _[VSP Staging Review completed in production November 30, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16432)_<br/>
