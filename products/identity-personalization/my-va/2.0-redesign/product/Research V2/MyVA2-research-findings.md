@@ -289,9 +289,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 [Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
 
-### Other supporting documents created
 
-[User story mural board](https://app.mural.co/invitation/mural/vsa8243/1607020005197?sender=u7ad68f2a3a694c00d8a38130&key=7645b7a9-deba-4f12-a233-3caf8f38cedf)
 
 
 
