@@ -29,6 +29,7 @@ Fill out name of individual and *Description* section below.
  - [ ] User removed from the VA GitHub Org
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=moschette%2C+AprilPrimous%2C+KennethC19%2C+michelecmiller&labels=remove-user&template=remove-users-from-va-organization.md&title=REMOVE+USER+FROM+ORG+-+%5BUSERNAME%5D). 
  - [ ] Pagerduty access removed (if applicable) 
+ - [ ] Sentry access removed (if applicable)
  - [ ] Google analytics, and Domo access removed (if applicable) 
  
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights, @KevinMHoffmanUSDS, @drorva  
