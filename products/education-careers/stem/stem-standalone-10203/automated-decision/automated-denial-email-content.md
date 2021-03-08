@@ -1,15 +1,15 @@
-# We've reached a decision on your STEM Scholarship application
+# We've made a decision on your STEM Scholarship application
 
 Dear STEM Scholarship applicant, 
 
 Thank you for applying for the Edith Nourse Rogers STEM Scholarship. 
 
-To check your application status, go to { placeholder URL - https://www.va.gov/track-claims/your-stem-claims/[10203 denied claim identifier]/status } and sign into our claim status tool.  
+To check your application's status, go to { placeholder URL - https://www.va.gov/track-claims/your-stem-claims/[10203 denied claim identifier]/status } and sign into our claim status tool.  
 
 { grey box }
 
 #### Your application details are below:
-Rogers STEM Scholarship application
+Edith Nourse Rogers STEM Scholarship application
 
 #### Date submitted
  { date_submitted }
@@ -24,7 +24,7 @@ VA Buffalo Regional Processing Office
 
 ----
 
-You are receiving this email because we've made a decision on your application for the Rogers STEM Scholarship.  Please do not reply to this email.  If you need to contact us, please visit https://va.gov.
+You're receiving this email because we've made a decision on your Rogers STEM Scholarship application.  Please don't reply to this email.  If you need to contact us, please visit https://va.gov.
 
 
 { end of email }
