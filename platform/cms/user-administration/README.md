@@ -18,7 +18,7 @@
 2. We acknowledge the request
 3. We make sure a Jira ticket exists
 4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
-    1. If no training is needed per the product owner/approver, go to the next step.
+    1. If no training is needed per the product owner/approver, go to the next step. Note: Public Websites handles their own trainings so just create their account. 
     2. If training is needed, assign the ticket to training. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
 5. We’ll link it to the previous training request ticket if possible
 6. We’ll create the new user (per instructions section below) 
