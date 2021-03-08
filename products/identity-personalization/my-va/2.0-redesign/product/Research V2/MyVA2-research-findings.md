@@ -88,7 +88,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Overall Findings: What worked
 
-**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful, though users wanted My VA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
+**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
 
 > "I like it, I have a similar one for work because I work in finance so it can pinpoint what needs actions, pending or in progress, so it is a one stop shop."
 
@@ -155,7 +155,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Overall Findings: What didn't work
 
-**1.Users wanted My VA to be more 'actionable'.** Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
+**1. Users wanted My VA to be more 'actionable'.** Users mentioned wanting to see specific CTAs on the page like 'Schedule an appointment' and 'Send message'. There was also some talk about *why* we are showing the information in the grey boxes if they cannot do anything with it. We may want to continue exploring how we can more effectively prompt people to take action.
 
 > "Give me more interactivity, if I can't do anything about it then I don't want to see it." 
 
