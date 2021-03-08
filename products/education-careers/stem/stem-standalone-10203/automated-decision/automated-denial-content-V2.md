@@ -117,26 +117,28 @@ You can also contact us at [888-442-4551]() to request any of these forms.
 
 [Learn more about the decision review process.](https://www.va.gov/decision-reviews) If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your [VA.gov]() account.
 
-{ More resources / grey box  } 
+{ More resources / grey box -- See bottom of this page for styling: https://staging.va.gov/education/how-to-apply/ } 
 
 ## More resources about VA benefits { h3 } ##
 
-- [Edith Nourse Rogers STEM Scholarship](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/)
+**[Edith Nourse Rogers STEM Scholarship](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/)**
 
 Learn more about eligibility and how to apply for this scholarship.
 
-- [Find a VA Form](https://www.va.gov/vaforms)
+**[Find a VA Form](https://www.va.gov/vaforms)**
 
 Search for a VA form.
  
-- [GI Bill® Comparison Tool](https://www.va.gov/gi-bill-comparison-tool)
+**[GI Bill® Comparison Tool](https://www.va.gov/gi-bill-comparison-tool)**
 
 Get information on a school’s value and affordability; and compare estimated benefits by school. 
 
+{ End More resources / grey box }
 
-{ End More resources / grey box See: https://staging.va.gov/school-administrators/#other-resources-to-support-you } 
 { right sidebar }
+
 ### Need help? { H2 } ###
+
 { blue divider line }
 
 #### Ask a question { H3 } ####
@@ -154,7 +156,6 @@ Education Call Center:
 [VA Regional Office Location](https://www.va.gov/find-locations)
 
 TTY, Federal Relay: [711]()
-
 
 #### Send us mail { H3 } ####
 
