@@ -17,6 +17,7 @@ Includes analytics for
 ### Acquisition
 |	Metric	|	Data	|	(Date)	|
 |	----	|	----	|	----	|
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
 |	Organic Google	|	44%	|		|
 |	Organic Bing	|	11%	|		|
 |	Direct	|	25%	|		|
@@ -24,6 +25,7 @@ Includes analytics for
 ### Engagement
 |	Metric	|	Data	|	(Date)	|
 |	----	|	----	|	----	|
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
 |	Sessions	|	1,257,653	|		|
 |	Page views	|	7,903,659	|		|
 |	Average sessions/user	|	1.57	|		|
@@ -38,6 +40,7 @@ Includes analytics for
 ### Performance
 |	Metric	|	Data	|	(Date)	|
 |	----	|	----	|	----	|
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
 |	Average page load time 	|	4.01 sec	|		|
 
 ### Facility type Search
