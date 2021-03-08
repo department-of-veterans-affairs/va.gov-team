@@ -30,6 +30,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Research questions
 
+<details>
+  <summary>Details</summary>
+
 **Overall questions**
 - Did we correctly prioritize this page?
 - Is this page useful? Does it have the information and actions it needs?
@@ -78,6 +81,8 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Do people understand why we are showing certain benefits in “benefits you might be interested in”?
 - Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
+
+<details>
 
 ## Overall Findings: What worked
 
