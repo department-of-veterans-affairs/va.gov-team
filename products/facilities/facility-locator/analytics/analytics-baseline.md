@@ -8,25 +8,37 @@ Includes analytics for
 ## Facility Locator Modernized, Production
 
 ### Audience
-Observations from Dashboard July 13, 2019-October 10, 2019
-- 766,468 users: 48.6% are new visitors
-- Average 1.57 sessions/user
-- Average 6.3 pages/session
-Bounce rate: 16.74%
+|	Metric	|	Data	|	(Date)	|
+|	----	|	----	|	----	|
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
+|	Users	|	766,468	|		|
+|	New users	|	48.60%	|		|
 
-### Source
-Observations from Dashboard July 13, 2019-October 10, 2019
-- Almost 44% arrive organically from Google
-- 25% arrive directly 
-- 11% arrive organically from Bing
+### Acquisition
+|	Metric	|	Data	|	(Date)	|
+|	----	|	----	|	----	|
+|	Organic Google	|	44%	|		|
+|	Organic Bing	|	11%	|		|
+|	Direct	|	25%	|		|
 
 ### Engagement
-Observations from Dashboard July 10, 2019-October 10, 2019 
+|	Metric	|	Data	|	(Date)	|
+|	----	|	----	|	----	|
+|	Sessions	|	1,257,653	|		|
+|	Page views	|	7,903,659	|		|
+|	Average sessions/user	|	1.57	|		|
+|	Average pages/session	|	6.3	|		|
+|	Bounce rate	|	16.74%	|		|
+|	Page depth of 5 or fewer	|	70%	|		|
+|	Page depth of 10 or fewer	|	80%%	|		|
+|	Page depth of 20+	|	5%	|		|
+|	Average page load time 	|	4.01 sec	|		|
+|	Goal 1: Facility Details Viewed	|	21.60%	|		|
 
-1,257,653 sessions with 7,903,659 page views
-- 70% of sessions reach a page depth of 5 or fewer
-- 80% of sessions reach a page depth of 10 or fewer
-- nearly 5% reach 20+ page depth
+### Performance
+|	Metric	|	Data	|	(Date)	|
+|	----	|	----	|	----	|
+|	Average page load time 	|	4.01 sec	|		|
 
 ### Facility type Search
 Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,520 page views/79% of total)
@@ -72,12 +84,8 @@ Observations from Dashboard July 10, 2019-October 10, 2019
 
 ### Performance
 Observations from Dashboard July 1-September 30, 2019
-- Average page load time = 4.01 sec 
 - one page: /find-locations/facility/vha-564BY/ (Gene Taylor Veterans' Outpatient Clinic) had 43.62% slower load time than the average
 
-### Goal completion
-Observations from Dashboard July 13, 2019-October 10, 2019
--Goal 1: Facility Details Viewed: goal completion = 21.6% average
 
 ## Analytics Baseline: www.cem.va.gov Production
 
