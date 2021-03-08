@@ -4,7 +4,7 @@
 
 ## Research & Support 
 
-##### Primary Initiatives:
+##### Near Term Initiatives:
 - Resources and Support: Share to Mobile / Share to email (Veteran helping Veterans)
      - Usability / Usefulness 
      - Does this fit Veterans behaviors 
