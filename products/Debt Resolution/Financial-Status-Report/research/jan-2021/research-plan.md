@@ -1,4 +1,4 @@
-Research Plan for BaM2, Financial Status Report (FSR), February 2021
+Research Plan for Debt Resolution Team, Financial Status Report (FSR), March 2021
 ====================================================================
 
 As a designer I need to create a research plan to share with my team. (This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.)
@@ -8,7 +8,7 @@ Goals
 
 **1.  What product & team are you doing this research for?**
 
-This research consists of a usability test on the digitized Financial Status Report (FSR) form led by the Benefits & Memorials 2 team.
+This research consists of a usability test on the digitized Financial Status Report (FSR) form led by the Debt Resolution team.
 
 **2.  Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
@@ -86,7 +86,7 @@ This criteria is necessary to conduct the study. 
 
 -   We would like **7-8** participants who have previously been notified about a VBA-related debt. Please include the following screener question:
 
-   - "Have you ever received a letter notifying you about a Veterans Benefits Administration (VBA) debt?"
+   - "Have you ever received a letter notifying you about a Veterans Benefits debt (such as Compensation, Pension, or Education debts)?"
 
       - Yes (Qualifies)
 
@@ -134,11 +134,13 @@ When?
 
 **1.  Timeline: What dates do you plan to do research?**
 
-Early Feb (TBD)
+Mid-March
 
 **2.  Prepare: When will the thing you are testing be ready?**
 
-TBD
+We're testing in staging: https://staging.va.gov/manage-va-debt/request-debt-help-5655/
+
+The pathway we're following will take them through a mocked authenticated flow by clicking "Start your application without signing in" so that we will not have people signing in.
 
 **3.  Length of Sessions: How long do you estimate each session will be?** 
 
@@ -148,21 +150,20 @@ About 1 hour
 
 **4.  Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
--  February XX: 9:30am - 5:00pm EST
+-  March 17: 9:30am - 5:00pm EST
 
--  February XX: 9:30am - 5:00pm EST
+-  March 18: 9:30am - 5:00pm EST
 
--  February XX: 9:30am - 5:00pm EST
+-  March 19: 9:30am - 5:00pm EST
 
--  February XX: 9:30am - 5:00pm EST
-
--  February XX: 9:30am - 5:00pm EST
+-  March 22: 9:30am - 5:00pm EST
 
 **Please allow at least 30 minutes between sessions** 
 
 **5.  Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-TBD with Riley Orr (<riley@amida.com>), Rebecca Walsh (<rebecca.walsh@adhocteam.us>), and Brad Conley (<bconley@governmentcio.com>)
+TBD with Riley Orr (<riley@amida.com>), Rebecca Walsh (<rebecca.walsh@adhocteam.us>), and Craig Wheeler (<cwheeler@governmentcio.com>)
+
 
 Team Roles
 ----------
@@ -183,14 +184,11 @@ Please list the people who will be serving in each role. Include the primary pho
 
 -   Observers:
 
-    - Leah Keeler
-
-    - Brad Conley
-
+    - Leah Keeler (lkeeler@governmentcio.com)
+    - Troy Riser (triser@governmentcio.com)
+    - Justin Linn (jlinn@governmentcio.com)
     - Matt Self (<matthew.self2@va.gov>)
-
     - Craig Wheeler (<cwheeler@governmentcio.com>)
-
     - Cameron Testerman (<cameron@oddball.io>)
 
 Resources
