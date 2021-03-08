@@ -97,6 +97,8 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **5. All users easily found and understood the disability rating and how to get more information on their disability ratings.**
 
+> "Oh, my disability rating is just right up top - I love that!"
+
 **6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
 
 > (When asked about the grey box in appointments) "Make you aware of the next appointment so you don’t miss it. That’s the most important thing is the next one so you do not forget and it is a reminder. It is good they put it there." 
