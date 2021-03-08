@@ -27,6 +27,15 @@
 
 </details>
 
+## Wednesday, March 17, 2021
+### Discussion Topics/Grooming 
+ - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? 
+ - [ ] write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
+ - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
+- [ ] 508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them #21017
+- [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of #21020
+
+
 ## Wednesday, March 3, 2021
 
 ### Discussion Topics/Grooming 
