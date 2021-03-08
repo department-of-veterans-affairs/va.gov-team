@@ -143,7 +143,7 @@ Get information on a school’s value and affordability; and compare estimated b
 
 { right sidebar }
 
-### Need help? { H2 } ###
+## Need help? { H2 } ##
 
 { blue divider line }
 
