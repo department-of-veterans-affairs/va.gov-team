@@ -29,13 +29,13 @@ JW:🙋‍♂️ Is this intended?
 JA:    
   - **Comment 2:** add the word "may"  between "benefits" and "include:"  
 JW:✔  
-JA:  
+JA:✔ There were subsequent revisions to the orientation module, so line says, "These may include:"  
   - **Comment 3:** These bullets are not appropriate.  We would suggest instead: *Training to prepare for a job, * Professional or vocational counseling and training, *Employment  assistance   
 JW:✔  
-JA:  
+JA:✔  
   - **Comment 4:** I think we should add:  Generally, if you are entitled to both VR&E services and eligible for Education benefits, using VR&E benefits might be more beneficial.  You should speak to a VRC before deciding.  
 JW:🙋‍♂️ Does this add more complexity? How do they get a hold of a VRC and when?  Should that be done before, instead of or after completing this form?  
-JA:   
+JA: The LOB re-write is confusing here... Will re-write.
   - **Comment 5:** `Nothing noted`   
 JW:🙋‍♂️ Is this intended?   
 JA:    
