@@ -8,34 +8,34 @@ Includes analytics for
 ## Facility Locator Modernized, Production
 
 ### Audience
-|	Metric	|	Data	|	(Date)	|
-|	----	|	----	|	----	|
-|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
-|	Users	|	766,468	|		|
-|	New users	|	48.60%	|		|
+|	Metric	|	Data	|
+|	----	|	----	|	
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		
+|	Users	|	766,468	|		
+|	New users	|	48.60%	|	
 
 ### Acquisition
-|	Metric	|	Data	|	(Date)	|
-|	----	|	----	|	----	|
-|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
-|	Organic Google	|	44%	|		|
-|	Organic Bing	|	11%	|		|
-|	Direct	|	25%	|		|
+|	Metric	|	Data	|	
+|	----	|	----	|	
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		
+|	Organic Google	|	44%	|		
+|	Organic Bing	|	11%	|		
+|	Direct	|	25%	|		
 
 ### Engagement
-|	Metric	|	Data	|	(Date)	|
-|	----	|	----	|	----	|
-|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		|
-|	Sessions	|	1,257,653	|		|
-|	Page views	|	7,903,659	|		|
-|	Average sessions/user	|	1.57	|		|
-|	Average pages/session	|	6.3	|		|
-|	Bounce rate	|	16.74%	|		|
-|	Page depth of 5 or fewer	|	70%	|		|
-|	Page depth of 10 or fewer	|	80%%	|		|
-|	Page depth of 20+	|	5%	|		|
-|	Average page load time 	|	4.01 sec	|		|
-|	Goal 1: Facility Details Viewed	|	21.60%	|		|
+|	Metric	|	Data	|	
+|	----	|	----	|	
+|	Date	|	07/13/2019 - 10/10/2019 (baseline)	|		
+|	Sessions	|	1,257,653	|		
+|	Page views	|	7,903,659	|
+|	Average sessions/user	|	1.57	|		
+|	Average pages/session	|	6.3	|	
+|	Bounce rate	|	16.74%	|		
+|	Page depth of 5 or fewer	|	70%	|		
+|	Page depth of 10 or fewer	|	80%%	|		
+|	Page depth of 20+	|	5%	|		
+|	Average page load time 	|	4.01 sec	|		
+|	Goal 1: Facility Details Viewed	|	21.60%	|		
 
 ### Performance
 |	Metric	|	Data	|	(Date)	|
