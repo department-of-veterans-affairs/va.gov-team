@@ -4,6 +4,16 @@
 
 ## Research & Support 
 
+##### Primary Initiatives:
+- Resources and Support: Share to Mobile / Share to email (Veteran helping Veterans)
+     - Usability / Usefulness 
+     - Does this fit Veterans behaviors 
+     - Improve experience - Veterans consuming data via mobile.
+- Benefit Hub optimization: Search on optimization of benefit hubs and how to streamline experience for Veterans. 
+     - Usability / Usefulness for Veterans? 
+     - What could be optimized to improve Veteran experience?
+     - Mobile/Tablet friendly experience (steps to improve/optimize). 
+    
 ## Find a VA Form 
 - User feedback on search results
    - Is it useful?
