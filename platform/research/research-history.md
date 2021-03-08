@@ -16,6 +16,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### Feburary 2021
 
+#### Feb 16 - Feb 19: Health Record (Medications, Allergies, and Immunizations)
+*Health care Experience/Questionnaires, Lead Researcher: Kristen McConnell*
+
+- Number of participants: 7
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/health-record)
+- Keywords: health care, medications, immunizations, allergies, questionnaires, patient portal
+ 
 #### Feb 15 - Feb 19: Mobile Facility Locator Usability Study
 *VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
 
