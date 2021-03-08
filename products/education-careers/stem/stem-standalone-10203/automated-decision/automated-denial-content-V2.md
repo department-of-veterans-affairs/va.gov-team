@@ -24,7 +24,11 @@ Breadcrumb: Home > Check your claims and appeals > Your Rogers STEM Scholarship 
 
 { end blue informational alert }
 
-You must meet all 3 of the eligibility criteria to be considered for the Rogers STEM Scholarship. {class: va-introtext }
+{class: va-introtext }
+
+You must meet all 3 of the eligibility criteria to be considered for the Rogers STEM Scholarship. 
+
+{end class: va-introtext }
 
 #### You didn't meet the following criteria for the Rogers STEM Scholarship: { H3 } ####
 
