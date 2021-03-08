@@ -12,10 +12,13 @@
 ---
 
 ## Warm-up
-- Would you tell us a little bit about yourself? Your service experience, general experiences with the VA...
-- Have you applied for a VA-backed loan before?
-- How have you learned about VA benefits in the past?
-- Have you ever visited the eBenefits site? How about VA.gov?
+**M** We're good. Thank you. Okay, so we'll start out just, uh, if you would tell us a little bit about yourself, maybe starting with your service history.
+
+**P3** I was in the military from July 2005. to July of 2009. combat. I served in Afghanistan. Now I am a military spouse. My husband is active duty. I'm I'm in school right now for my doctorate. Three children, ranging from three to 18. Yeah, that's, I think that's about it.
+
+**M** Wow, that's enough. Uh, going with three kids. First of all three kids is enough. But going for your doctorate. That's a workload right there. Yes. Okay. So we're here to talk about the VA loan process. I've got another person I'm going to let in here we go. All right. So you have applied for a VA back loan or a VA direct loan in the past?
+
+**P3** Yes.
 
 ## Section one: The loan process
 - You mentioned you applied for a VA-backed loan before. do you remember how you heard about VA loan benefits?
