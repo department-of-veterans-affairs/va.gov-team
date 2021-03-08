@@ -96,17 +96,17 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "I like it, I think it is good. I like that it is phone friendly, they aren’t just information all over the page and you don’t need to scroll through a lot. The UI is designed in a way that is friendly to your eyes and other app developers do their pages. It's not just a spreadsheet that is all on the page. Summary of everything but not crazy extensive."
 
-**3. There was a tie on preferring the homepage to My VA (4 to 4), but many participants mentioned how much they appreciated the personalization of My VA.**. Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred My VA said they loved how streamlined and personal it was - but both users said they appreciated the personalization of My VA. Some folks said that there would need to be some additions to My VA for it to work as a homepage for them. Specifically education benefits and the records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
+**3. There was a tie on preferring the homepage to My VA (4 to 4), but many participants mentioned how much they appreciated the personalization of My VA.** Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred My VA said they loved how streamlined and personal it was - but both users said they appreciated the personalization of My VA. Some folks said that there would need to be some additions to My VA for it to work as a homepage for them, specifically adding an education benefits and/or records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
 
 > "I think it covers any questions or guide the veteran where to go if they have any questions. I don’t think they could leave this without finding an answer."
 
-**4. People generally understood the difference between the My VA dashboard and the Profile, and were able to accurately describe the profile in their own words.** However, they had a leg up because we asked them this when they were already on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
+**4. People generally understood the difference between the My VA dashboard and the Profile, and they were able to accurately describe the profile in their own words.** However, they had a leg up because we asked them this question when they had already spent time on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
 
 **5. All users easily found and understood the disability rating and how to get more information on their disability ratings.**
 
 > "Oh, my disability rating is just right up top - I love that!"
 
-**6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
+**6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (e.g. the doctor's name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
 
 ![appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/appointments.png)
 
