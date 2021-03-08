@@ -98,7 +98,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Task breakdown 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>## Task breakdown</summary>
   
 ### Users easily understood:
 
