@@ -84,6 +84,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 <details>
 
+
 ## Overall Findings: What worked
 
 **1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful, though users wanted My VA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
