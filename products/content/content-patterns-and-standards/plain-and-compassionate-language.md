@@ -61,9 +61,13 @@ These are important distinctions that we should continue to work to clarify.
 ### Person-first language
 
 Already in style guide at: https://design.va.gov/content-style-guide/health-content. However, this is an ever-evolving area, with some people preferring identity-first language, especially when they live with a condition that is lifelong and a key part of defining how they move through the world. 
+
+Examples from reading:
  - Many in the Autism community have expressed preferring “Autistic person” or “Autistic individual” over “person with Autism.”
  - Many in the deaf and blind communities have expressed a greater preference for identity-first language as an expression of empowerment.
  - Some people prefer “disabled person” over “person with disabilities.” 
+
+General consensus appears to be that person-first language is good, but we should be continuing to review and checking with people within the communities.
 
 ### Conditional first
 
