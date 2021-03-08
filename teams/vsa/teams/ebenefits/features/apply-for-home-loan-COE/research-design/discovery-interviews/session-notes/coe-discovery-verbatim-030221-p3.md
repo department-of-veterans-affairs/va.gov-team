@@ -153,15 +153,19 @@ That's okay. That's okay. And it sounds like they weren't completely upfront abo
 
 **M:** Okay, that is good. That is good feedback. Well, the last question that I have about just the general tools and features is, again, thinking about the process, if somebody were to come to you, and apparently you are, you know, a resource for a lot of people. What advice do you typically give people who were looking for the, for a VA loan?
 
-**P3:** Find a realtor, or I tell people all the time, start with the VSO, because that's where I got the help that I needed from, because telling people to call the 800 number, or to use a benefits when they're not familiar with what's happening there. It's pointless. So I always tell people to start with the VSO because they work with this a lot. And they know the answers to the questions that you're going to ask, because they've been asked them 1000 times, because like I said, the 800 number, depending on who you get, they have no idea what you're talking about. And he benefits while it generates the information, it doesn't give you a breakdown of the information that it's generating.
+**M:** Find a realtor, or I tell people all the time, start with the VSO, because that's where I got the help that I needed from, because telling people to call the 800 number, or to use a benefits when they're not familiar with what's happening there. It's pointless. So I always tell people to start with the VSO because they work with this a lot. And they know the answers to the questions that you're going to ask, because they've been asked them 1000 times, because like I said, the 800 number, depending on who you get, they have no idea what you're talking about. And he benefits while it generates the information, it doesn't give you a breakdown of the information that it's generating.
 
 ## Section three: tools and features
-- Thinking about your experience with VA websites, what experiences -- good and bad -- have you had in trying to manage your benefits?
-- How do you feel about using VA websites for some or all of the VA loan process? What would you need to do that?
-- What could we do -- on VA.gov or in the real world -- to make the getting a VA-back loan easier? 
-- Looking back, what questions do you wish you had answered before you started?
-- How could we make getting a COE simpler?
-- What about the whole home-buying process? what do you wish it looked like?
-- Thinking about the whole process, what advice would you give to someone applying for a VA-backed loan?
+**M:** Okay, now, that sounds good, too. We hear that quite a bit where, you know, basically, VSOs are really good resource. They do this all the time. They've done it 1000 times. And so they're they're able to kind of pick up where the websites and some of the other information fall short. So that's good. Okay, well, that is pretty much all I have for loans, certificate of eligibility, and some other tools. So I've hit everything on my list. Is there anything else that you would like for us to know either about what we've talked about today, VA home loan Corp, or even va covery? benefits in general?
+
+**M:** Yeah, I think the way. So I played around on the va.gov. I think once all of the information is actually input there, I think it's a better process than what he benefits is. But the catch is to get all of the information in that location, it really is a lot easier.
+
+**M:** Great, well, that is good feedback, because we like hearing that, because that's where we're moving it, we want to make sure that we're doing something right in the process. So
+
+**M:** it's easy, it's a breakdown, everything, it's clear, and it uses great colors, like he benefits is kind of dreary, if that makes sense. Whereas va.gov, it's bright, you can see it, you know, it's easy on the eyes.
+
+**M:** Okay, now, that actually matters because you, you want to make sure that it's legible and clear. And so the colors and the placement, so I appreciate you giving us that feedback, we would like to know we're going in the right direction on things. Okay. Well, I really appreciate you taking the time to talk to us about this. And we're going to write up summaries of your findings and the other people that we're talking to, and we're gonna work like crazy to make that new feature that new certificate of eligibility better. So awesome, awesome. I really appreciate it. So that is all I have. So I think we are finished at this point.
+
+**M:** Okay, great. Thank you so much.
 
 ---
