@@ -16,7 +16,7 @@ Edith Nourse Rogers STEM Scholarship application
 
 { end grey box }
 
-Thank you for your service, 
+Thank you for your interest in this scholarship, 
 
 Rogers STEM Scholarship Team
 
