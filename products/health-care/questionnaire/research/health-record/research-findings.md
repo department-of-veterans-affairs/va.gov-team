@@ -138,6 +138,11 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
   - In-person
     - Seen as the ultimate step in the process to provide updates or ask questions to their VA provider  
 
+### Veterans sometimes don’t share or aren’t aware that certain updates to their medication, allergy, and immunization history would be helpful to VA providers.
+- "“My doctor told me that I needed to start taking supplements, but it didn’t occur to me to provide them with details [about what I ended up taking].”
+- “It didn’t think to add it to my record.” - speaking about an immunization they received during active duty that didn’t make it into their VA record.
+- Half of the participants commented that they do not share or did not realize that certain information could be beneficial, such as supplements, over-the-counter medications, or immunizations received outside the VA.
+
 ### Reviewing and updating medication information is of great interest to Veterans.
 - All participants had a current process by which they review their medications and communicate with their VA providers about:
   - stopping the usage of a medication
@@ -322,10 +327,11 @@ _Activity completed by 6 participants._
   - before each appointment
   - based on appointment types and what could impact that appointment, so definitely before all physicals and procedures (like colonoscopies).
 
-### Some Veterans were surprised at the idea of submitting health records changes to their VA providers via a questionnaire or patient portal page.
-- Many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information.
-  - Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
-- A few participants wondered if they would/should be required to send supporting documentation when submitting a change to their health record.
+### Some Veterans were surprised that they would be empowered to propose health record changes to their VA providers via a questionnaire or patient portal page.
+- Veterans’ surprise really centered around this empowerment. While some Veterans immediately accepted this ability, others needed reassurance that they were allowed to submit these changes. A few participants wondered if they would/should be required to send supporting documentation when submitting changes to their health record. The research team reassured some participants that providers would be reviewing all submissions sent via questionnaire or patient portal page before actually changing their health record. 
+- Interestingly, Veterans currently have this ability via My HealtheVet, phone, secure messaging, and in-person communications. Out of all the current methods, many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information. Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
+- We aren’t completely sure why participant reactions varied by method of communication (secure messaging versus questionnaire/patient portal page). Ultimately, patient reactions were really more of a pleasant awe compared to concern when discussing questionnaires and patient portal pages. They saw it as a good thing that they would be able to take this much control of their health.
+- Except for one participant who saw this data entry via a questionnaire or patient portal page as their provider’s job and not theirs.
 
 ### Health questionnaires can expand the current ecosystem of Veteran-provider communications.
 - Veterans ranked “making changes to their health record” low during the prioritization activity, but their verbal explanations highlighted how ubiquitous communicating health record changes are to Veterans.
