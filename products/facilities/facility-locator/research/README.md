@@ -1,6 +1,6 @@
 # User Research README
 
-## Research Findings
+## Research Summary
 |	Research title	|	Date	|	Research objectives	|	Link to findings	|
 |	-----	|	-----	|	-----	|	-----	|
 |	Facility Locator Discovery	|	October 2019	|	To learn the current user behavior on Facility Locator and to identify areas of improvement	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/october-2019-discovery-summary.md)	
