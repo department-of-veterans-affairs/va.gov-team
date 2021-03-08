@@ -3,7 +3,9 @@
 
 Tressa Furner (tressa.furner@adhocteam.us), 03/03/2021
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-plan.md).
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-plan.md)
+
+[Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
 
 ## Research Goals 
 
@@ -29,9 +31,6 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - 8 out of 8 veterans managed their benefits online (using primarily MHV and ebenefits)
 
 ### Research questions
-
-<details>
-  <summary>Details</summary>
 
 **Overall questions**
 - Did we correctly prioritize this page?
@@ -83,9 +82,6 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
 
-<details>
-
-
 ## Overall Findings: What worked
 
 **1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful, though users wanted My VA to be more 'actionable'.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
@@ -107,6 +103,10 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 > "Oh, my disability rating is just right up top - I love that!"
 
 **6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users all easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (i.e. dr name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
+
+![appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/appointments.png)
+
+![claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/claims.png)
 
 > (When asked about the grey box in appointments) "Make you aware of the next appointment so you don’t miss it. That’s the most important thing is the next one so you do not forget and it is a reminder. It is good they put it there." 
 
@@ -161,9 +161,14 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **2. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA.** There was a lot of confusion around the CTA's and the grey boxes and what their relation was to each other. Some users thought that the total number was displayed in the CTA, but they were often unsure about their assumption. All users understood that the links would take them to a separate page with additional information, but 3 users mentioned they would like to see more specific CTA's on the page (i.e. schedule an appointment, cancel an appointment, send message)
 
-- **Recommendation:** I recommend removing the total number from the CTA's and having the totals be a separate element. I also recommend exploring some updates to the copy to reflect that we are showing the total number - i.e. 9 total upcoming appointments. That secondary piece might not be necessary since a lot of the confusion revolved around the relation of the grey box with the totals, that's something we can test again in the future.  
+- **Recommendation:** I recommend removing the total number from the CTA's and having the totals be a separate element. I also recommend exploring some updates to the copy to reflect that we are showing the total number - i.e. 9 total upcoming appointments. That secondary piece might not be necessary since a lot of the confusion revolved around the relation of the grey box with the totals, that's something we can test again in the future.
+
+![CTA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/CTAS.png) 
 
 **3. Many users mentioned that they did not need the grey boxes in messages and prescriptions, they found it confusing and redundant.**  They just wanted to see how many messages they had and have the ability to see all of the information about their prescriptions and manage that information, additional details were not helpful to them.
+
+![prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/Prescriptions.png)
+![messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/messages.png)
 
 > "That is all I would really care about...(referring to the message total) is that I have a response or that I need to read the messages in regard to whatever I've been waiting for."
 > "Get rid of the grey box, I don't need it. I just want to get to where I can do something. Make it linkable."
