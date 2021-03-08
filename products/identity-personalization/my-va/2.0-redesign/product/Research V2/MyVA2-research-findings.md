@@ -165,7 +165,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **2. No participants had a firm understanding of the 'totals' displayed on the page in all sections. Most users thought that the total was the the information in the grey box PLUS the number in the CTA.** There was a lot of confusion around the CTA's and the grey boxes and what their relation was to each other. Some users thought that the total number was displayed in the CTA, but they were often unsure about their assumption. All users understood that the links would take them to a separate page with additional information, but 3 users mentioned they would like to see more specific CTA's on the page (i.e. schedule an appointment, cancel an appointment, send message)
 
-- **Recommendation:** I recommend removing the total number from the CTA's and having the totals be a separate element. I also recommend exploring some updates to the copy to reflect that we are showing the total number - i.e. 9 total upcoming appointments. That secondary piece might not be necessary since a lot of the confusion revolved around the relation of the grey box with the totals, that's something we can test again in the future.
+- **Recommendation:** It seemed like most of the confusion came from the combination of the grey box and the total. I recommend removing the total number from the CTA's for now, except for in messages (users found that to be useful).  This is not a 'forever' fix - this should definitely be iterated on to find a better solution to relay this information.
 
 ![CTA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/CTAS.png) 
 
@@ -257,12 +257,10 @@ Users mentioned things that we may be able to implement in the future including:
 ## Recommendations
 
 1. Remove grey boxes in messages and prescriptions.
-2. Remove the 'total' in the prescription section and replace with a 'Manage all prescriptions' CTA
-3. Break out totals and CTA's into separate elements. 
-4. Update totals verbiage to more clearly reflect a 'total'.
-5. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
-6. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
-7. Eventually add in payment history and a notification hub when time/functionality allows.
+2. Keep totals for messages, but remove totals for appointments, claims and prescriptions. Replace with a 'Manage all X' CTA.   
+3. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
+4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
+5. Eventually add in payment history and a notification hub when time/functionality allows.
 
 
 ## Next Steps
