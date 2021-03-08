@@ -36,7 +36,7 @@ Single facility available, no clinics:
 
 ![single-no-clinics](cheetah-flow/facilities_single_facility_no_clinics.png)
 
-No clinics message:
+No clinics message (heading is an h3):
 
 ![no-clinics](cheetah-flow/no_clinics_message.png)
 
