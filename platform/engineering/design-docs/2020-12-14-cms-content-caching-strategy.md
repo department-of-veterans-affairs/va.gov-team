@@ -3,7 +3,11 @@
 **Author(s):** Eugene Doan  
 **Last Updated:** March 5, 2021  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** Tim Wright \[ \], Demian Ginther \[ \], Michael Fleet \[ \], Dror Matalon \[ \]  
+**Approvers:**
+- Tim Wright \[ \]
+- Demian Ginther \[ \]
+- Michael Fleet \[ \]
+- Dror Matalon \[ \]
 
 ## Overview
 
@@ -106,7 +110,14 @@ GitHub Actions will output logs for the build and versioning of the function.
 Log output from the function (from calling `console` methods) will be stored in CloudWatch.
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
+
+One can start diagnosing any issues using the logs mentioned above.
+
+The Webpack build of the function can be run locally to debug issues with the build.
+
+To locally validate that the code properly pulls the Drupal data, the function can be run in a script with some modifications to disable the parts that are specific to the Lambda environment.
+
+Once the data is cached, it can be downloaded and used to build content. That build can be compared with a content build that pulls fresh data from Drupal with a SOCKS connection.
 
 ### Caveats
 
@@ -164,7 +175,8 @@ Since we're provisioning a single function under the ownership of the FE Tools t
 There are some very specific versioning rules in the design that may not be straightforward to implement within these frameworks.
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+
+The content caching workflow should be moved to the `content-build` repo when the content build separation is complete.
 
 ### Revision History
 
