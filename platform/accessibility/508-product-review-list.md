@@ -759,6 +759,8 @@ Back to [Table of Contents](#table-of-contents)
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [COGNITION]: How to apply for healthcare Spanish content must have a proper LANG attribute - #21075](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21075)<br/>
+**Opened:** March 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
   
 Back to [Table of Contents](#table-of-contents)
 
