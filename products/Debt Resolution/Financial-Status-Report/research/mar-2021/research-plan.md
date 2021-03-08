@@ -16,11 +16,13 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 **3.  Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
--  Is both the form's purpose and the available repayment options clear?
+-   Do Veterans understand to purpose of filling out the form (The "so what" or "how does this help me?" factor?) 
+
+-   Do Veterans understand the available repayment options?
 
 -  Are Veterans able to easily complete each section of the form?
 
--  Are Veterans able to easily provide their spouse's employment and income information?
+-  Are Veterans able to easily provide their spouse's employment and income information? (What do they need to know up front before completing this form, so they have this information on hand?) 
 
 -  Is it clear why Veterans need to provide their financial information and assets?
 
@@ -86,7 +88,7 @@ This criteria is necessary to conduct the study. 
 
 -   We would like **7-8** participants who have previously been notified about a VBA-related debt. Please include the following screener question:
 
-   - "Have you ever received a letter notifying you about a Veterans Benefits debt (such as Compensation, Pension, or Education debts)?"
+   - "Have you ever received a letter notifying you about as Compensation, Pension, or Education debt from the Department of Veterans Affairs?"
 
       - Yes (Qualifies)
 
@@ -134,7 +136,7 @@ When?
 
 **1.  Timeline: What dates do you plan to do research?**
 
-Mid-March
+March 17-22
 
 **2.  Prepare: When will the thing you are testing be ready?**
 
