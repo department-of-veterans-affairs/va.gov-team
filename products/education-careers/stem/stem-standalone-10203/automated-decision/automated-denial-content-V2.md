@@ -16,19 +16,17 @@ View details > {button}
 
 Breadcrumb: Home > Check your claims and appeals > Your Rogers STEM Scholarship application status details
 
-# Your Edith Nourse Rogers STEM Scholarship application #
+# Your Edith Nourse Rogers STEM Scholarship application { H1 } #
 
 { blue informational alert }
 
-### Your application was denied on Mon. DD, YYYY ###
+### Your application was denied on Mon. DD, YYYY { H2 } ###
 
 { end blue informational alert }
 
-## Why we denied your claim ##
+You must meet all 3 of the eligibility criteria to be considered for the Rogers STEM Scholarship. {class: va-introtext }
 
-You must meet all 3 of the eligibility criteria to be considered for the Rogers STEM Scholarship.
-
-#### You didn't meet the following criteria for the Rogers STEM Scholarship: ####
+#### You didn't meet the following criteria for the Rogers STEM Scholarship: { H3 } ####
 
 { Only include applicable criteria }
 
@@ -58,7 +56,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { END: STEM Program Denial Reason }
           
-#### You met these criteria for the Rogers STEM Scholarship: ####
+#### You met these criteria for the Rogers STEM Scholarship: { H3 } ####
 
 { Only include applicable criteria }
 
@@ -78,7 +76,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
      
-    - According to your service and school data records on file, as of [MM/DD/YYYY], you have less than 6 months of Post-9/11  GI Bill (Chapter 33) benefits remaining.
+    - According to your service and school data records on file, as of [MM/DD/YYYY], you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
 
 { End: Entitlement eligible Reason }
 
@@ -99,7 +97,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { END: STEM Program eligible Reason }
         
- ## What should I do if I disagree with your decision? 
+ ## What should I do if I disagree with your decision? { H3 }
  
  If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
  
@@ -107,13 +105,17 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
      
   - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996. [Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
      
-  - If you don't agree with the decision on your Supplemental Claim or Higher-Level Review, you can appeal to a Veterans Law Judge by completing VA Form 10182. [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
+  - If you filed a Supplemental Claim or Higher-Level Review and don't agree with the decision, you can appeal to a Veterans Law Judge by completing VA Form 10182. [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
 
-For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  You can also contact us at [888-442-4551]() to request any of these forms.
+For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  
+
+You can also contact us at [888-442-4551]() to request any of these forms.
 
 [Learn more about the decision review process.](https://www.va.gov/decision-reviews) If you would like to review the evidence we used in our decision, please contact us. You may be able to review some evidence by signing in to your [VA.gov]() account.
 
-## More resources about VA benefits##
+{ More resources / grey box  } 
+
+## More resources about VA benefits { h3 } ##
 
 - [Edith Nourse Rogers STEM Scholarship](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/)
 
@@ -127,14 +129,16 @@ Search for a VA form.
 
 Get information on a school’s value and affordability; and compare estimated benefits by school. 
 
+
+{ End More resources / grey box See: https://staging.va.gov/school-administrators/#other-resources-to-support-you } 
 { right sidebar }
-### Need help? ###
+### Need help? { H2 } ###
 { blue divider line }
 
-#### Ask a question ####
+#### Ask a question { H3 } ####
 [Ask a question online](https://gibill.custhelp.va.gov/app/)  (Include your full name and VA file number)
 
-#### Call us ####
+#### Call us { H3 } ####
 Veterans Crisis Line: 
 [1-800-273-8255]() and select 1
 
@@ -148,7 +152,7 @@ Education Call Center:
 TTY, Federal Relay: [711]()
 
 
-#### Send us mail ####
+#### Send us mail { H3 } ####
 
 Include your full name and VA file number on the inside of mailed correspondence, not on envelope.
 
