@@ -51,11 +51,11 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
           
   - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
 
-- By law, all Rogers STEM Scholarship recipients must either: 
+  - By law, all Rogers STEM Scholarship recipients must either: 
 
-  - Be enrolled in an eligible STEM undergraduate degree, **or** 
+    - Be enrolled in an eligible STEM undergraduate degree, **or** 
      
-  - Have an eligible STEM undergraduate degree and be pursuing a teaching degree
+    - Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
 
 { END: STEM Program Denial Reason }
