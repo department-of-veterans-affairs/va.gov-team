@@ -195,7 +195,7 @@ Also, multiple users mentioned wanting the 'What benefits does the VA offer' dro
 
 > "'What benefits does the VA offer'... but I would move that to the top because it gets lost. Maybe on the right hand side a resource tab, it may be harder on the phone, I am desktop oriented but it is rare that I would get down this far."
 
-- **Recommendation:** I recommend moving the 'What benefits does the VA offer' dropdown up further on the page or make it more visibile visually. As far as the confusion around why we were showing the benefit in 'Benefits you might be interested in'- no changes need to be made here. This was not a usability issue, users will still be able to sign up for additional benefits as needed. 
+- **Recommendation:** I recommend moving the 'What benefits does the VA offer' dropdown up further on the page or make it more visibile visually. As far as the confusion around why we were showing the benefit in 'Benefits you might be interested in'- no changes need to be made here. This was not a usability issue, users will still be able to sign up for additional benefits as needed. This is also something we should explore and iterate on in the future.
 
 ## Features users expected to see that were missing
 
@@ -255,6 +255,8 @@ Users mentioned things that we may be able to implement in the future including:
 
 
 ## Recommendations
+
+This recommendations are not final, and should be iterated on over time.
 
 1. Remove grey boxes in messages and prescriptions.
 2. Keep totals for messages, but remove totals for appointments, claims and prescriptions. Replace with a 'Manage all X' CTA.   
