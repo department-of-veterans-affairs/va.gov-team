@@ -7,18 +7,19 @@ Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us<br/>
 
 ### Background
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. 
-Our next phase will focus on improving the pre-appointment experience when visiting primary care providers by allowing Veterans to update their health record information, particularly medications, allergies, and immunizations.
+
+Our next phase will focus on improving the pre-appointment experience when visiting providers by allowing Veterans to update their health record information, particularly medications, allergies, and immunizations.
 
 ### Research Goals
 This research is to explore:
 - problems Veterans face when communicating health record (medications, allergies, and immunizations) changes to their VA providers.
-- how Veterans understand, group, and find value in reviewing and updating their medications, allergies, and immunizations within a health questionnaire prior to a primary care appointment.
+- how Veterans understand, group, and find value in reviewing and updating their medications, allergies, and immunizations within a health questionnaire prior to an appointment.
 _But we really structured the test to broadly cover the topic of medications, allergies, and immunizations in the beginning. It was only toward the end that we brought up the idea of questionnaires._"
 
 ### Hypotheses to be tested
-- Adding the ability to view and update medications, allergies, and immunizations within the questionnaire help solve some of the Veteran's current pain points.
+- Adding the ability to view and update medications, allergies, and immunizations within va.gov help solve some of the Veteran's current pain points.
 - Veterans will be confused by certain medication, allergy, and immunization information. This test should help identify commonly confusing items, so we can address that confusion.
-- A pattern will emerge from the Veteran's groups, so the team will understand Veteran's mental model. This mental model could then be replicated in the workflow/interface.
+- A pattern will emerge from the Veteran's groupings, so the team will understand Veteran's mental model. This mental model could then be replicated in the workflow/interface.
 - Veterans will find value in a subset, but probably not all possible data points and proposed features. This will help the team determine scope for this phase.
 
 ## Methodology
@@ -26,7 +27,7 @@ _But we really structured the test to broadly cover the topic of medications, al
 ### Method
 We conducted 7 remote moderated tests via Zoom using the Perigean contract. To start, the Veterans will be asked a series of interview questions to uncover current pain points and workflow. Then, participants will engage in a participatory design activity utilizing Mural. This activity should assist with:
 - identifying confusing health record terms/data points.
-- developing a mental model on how Veteran group health record information.
+- developing a mental model on how Veterans group health record information.
 - identifying value of data points and proposed features.
 
 ### Who we spoke with: 7 Veterans
@@ -112,9 +113,9 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
 - Reviewing and printing immunization records are useful, but updates aren’t urgent and tend to occur during appointments.
 - The top three prioritized pieces of data or features for immunizations are immunization name (Flu shots, COVID-19), schedule an immunization, and date received. Immunizations also have four main mental model groupings for data/features: “what, when & where,” “next immunizations,” “product tracking,” and “how.”
 - The top three prioritized pieces of data or features for medications are medication name and dose refills remaining, and directions (take with food). Medications also have four main mental model grouping for data/features: “when and what,” “things to pay attention to,” “providers,” and “tracking information.”
-- The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
+- The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, Low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
 - How often Veterans want to review and update this information varied from every appointment to annually.
-- Some Veterans were surprised at the idea of submitting health record changes to their VA providers via a questionnaire or patient portal page. 
+- Some Veterans were surprised that they would be empowered to propose  health record changes to their VA providers via a questionnaire or patient portal page. 
 - Health questionnaires can expand the current ecosystem of Veteran-provider communications.
 
 ## Detailed Research Findings
