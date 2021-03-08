@@ -63,6 +63,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Find Forms MVP](#find-forms-mvp)
       - [Yellow Ribbon MVP](#yellow-ribbon-mvp)
       - [New Contact Us Page](#new-contact-us-page)
+      - [Campaign Landing Pages(#campaign-landing-pages)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -727,6 +728,23 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** February 21, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-3 [AXE-CORE]: Aside must not be contained in another landmark - #20236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20236)<br/>
 **Opened:** February 21, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Campaign Landing Pages
+
+**Audit status:** _[First staging review done by VSP March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21016)_
+
+**Open issues**
+
+- [508-defect-2 [COGNITION] Videos should have captions and a link to transcript of - #21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020)<br/>
+**Opened:** March 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them - #21017](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21017)<br/>
+**Opened:** March 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
