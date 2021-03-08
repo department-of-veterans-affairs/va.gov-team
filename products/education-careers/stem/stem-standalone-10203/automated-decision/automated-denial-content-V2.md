@@ -20,7 +20,7 @@ Breadcrumb: Home > Check your claims and appeals > Your Rogers STEM Scholarship 
 
 { blue informational alert }
 
-### Your application was denied on Mon. DD, YYYY { H2 } ###
+## Your application was denied on Mon. DD, YYYY { H2 } ##
 
 { end blue informational alert }
 
@@ -30,7 +30,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 {end class: va-introtext }
 
-#### You didn't meet the following criteria for the Rogers STEM Scholarship: { H3 } ####
+### You didn't meet the following criteria for the Rogers STEM Scholarship: { H3 } ###
 
 { Only include applicable criteria }
 
@@ -62,7 +62,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { END: STEM Program Denial Reason }
           
-#### You met these criteria for the Rogers STEM Scholarship: { H3 } ####
+### You met these criteria for the Rogers STEM Scholarship: { H3 } ###
 
 { Only include applicable criteria }
 
@@ -107,7 +107,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { END: STEM Program eligible Reason }
         
- ## What should I do if I disagree with your decision? { H3 }
+ ### What should I do if I disagree with your decision? { H3 }
  
  If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
  
@@ -125,7 +125,7 @@ You can also contact us at [888-442-4551]() to request any of these forms.
 
 { More resources / grey box -- See bottom of this page for styling: https://staging.va.gov/education/how-to-apply/ } 
 
-## More resources about VA benefits { h3 } ##
+### More resources about VA benefits { h3 } ###
 
 **[Edith Nourse Rogers STEM Scholarship](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/)**
 
@@ -147,10 +147,10 @@ Get information on a school’s value and affordability; and compare estimated b
 
 { blue divider line }
 
-#### Ask a question { H3 } ####
+### Ask a question { H3 } ###
 [Ask a question online](https://gibill.custhelp.va.gov/app/)  (Include your full name and VA file number)
 
-#### Call us { H3 } ####
+### Call us { H3 } ###
 Veterans Crisis Line: 
 [1-800-273-8255]() and select 1
 
@@ -163,7 +163,7 @@ Education Call Center:
 
 TTY, Federal Relay: [711]()
 
-#### Send us mail { H3 } ####
+### Send us mail { H3 } ###
 
 Include your full name and VA file number on the inside of mailed correspondence, not on envelope.
 
