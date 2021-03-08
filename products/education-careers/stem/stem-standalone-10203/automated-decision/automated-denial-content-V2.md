@@ -35,7 +35,8 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 { Only include applicable criteria }
 
 { BEGIN: Remaining Entitlement Denial Reason (> 180 days of remaining entitlement) }
-- You don’t meet the benefit requirements for the Rogers STEM Scholarship 
+
+- You didn’t meet the benefit requirements for the Rogers STEM Scholarship 
 
      - According to your service and school data records on file, as of [MM/DD/YYYY], you have more than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
 
@@ -45,6 +46,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 { END: Remaining Entitlement Denial Reason }
 
 { BEGIN: STEM Program Denial Reason (answer to questions 1+2 is no)}
+
 - You didn’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of the following questions on your application. To be eligible, you must answer “Yes” to one of these questions.
      
   - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
@@ -68,36 +70,40 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
  - You're eligible for Post-9/11 GI Bill benefits
  
-    - By law, all Rogers STEM scholarship recipients must be eligible for Post-9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
-     
     - According to your service and school data records on file, as of [MM/DD/YYYY], you're eligible for Post-9/11 GI Bill benefits.
     
+    - By law, all Rogers STEM scholarship recipients must be eligible for Post-9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
+     
+
 { END:  If EVSS finds info }
 
 { BEGIN: Entitlement eligible Reason (<= 180 days of remaining entitlement) }
 
  - You meet the benefit requirements for the Rogers STEM Scholarship 
-
-    - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
      
     - According to your service and school data records on file, as of [MM/DD/YYYY], you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
+   
+    - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
+
 
 { End: Entitlement eligible Reason }
 
 { BEGIN: STEM Program eligible Reason (answer to question 1 or 2 is yes) }
  - You meet the degree requirements for the Rogers STEM Scholarship 
      
-     - By law, all Rogers STEM Scholarship recipients must either: 
-
-        (1) Be enrolled in an eligible STEM undergraduate degree, **or** 
-     
-        (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
      - You meet the degree requirements because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
      
          - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" or
         
          - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
+
+     - By law, all Rogers STEM Scholarship recipients must either: 
+
+        (1) Be enrolled in an eligible STEM undergraduate degree, **or** 
+     
+        (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
+
 
 { END: STEM Program eligible Reason }
         
