@@ -92,7 +92,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "I like it, I have a similar one for work because I work in finance so it can pinpoint what needs actions, pending or in progress, so it is a one stop shop."
 
-**2. All users stated that My Va met or exceeded their expectations.**  The information presented on the page was what they expected and they could easily find what they were looking for. Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
+**2. All users stated that My VA met or exceeded their expectations.**  The information presented on the page was what they expected and they could easily find what they were looking for. Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
 
 > "I like it, I think it is good. I like that it is phone friendly, they aren’t just information all over the page and you don’t need to scroll through a lot. The UI is designed in a way that is friendly to your eyes and other app developers do their pages. Its not just a spreadsheet that is all on the page. Summery of everything but not crazy extensive."
 
