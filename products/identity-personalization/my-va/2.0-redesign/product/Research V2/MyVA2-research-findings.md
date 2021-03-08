@@ -32,6 +32,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Research questions
 
+<details>
+  <summary>Details</summary>
+
 **Overall questions**
 - Did we correctly prioritize this page?
 - Is this page useful? Does it have the information and actions it needs?
@@ -81,6 +84,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
 - Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
 
+</details>
 
 ## Overall Findings: What worked
 
@@ -247,7 +251,7 @@ Users mentioned things that we may be able to implement in the future including:
 - if the benefit we are showing was a benefit that is underutilized at the VA 
 - how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
 
-<details>
+</details>
 
 
 ## Recommendations
