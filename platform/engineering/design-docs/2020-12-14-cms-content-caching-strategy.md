@@ -4,10 +4,10 @@
 **Last Updated:** March 5, 2021  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:**
-- Tim Wright \[ \]
-- Demian Ginther \[ \]
-- Michael Fleet \[ \]
-- Dror Matalon \[ \]
+- [ ] Tim Wright
+- [ ] Demian Ginther
+- [ ] Michael Fleet
+- [ ] Dror Matalon
 
 ## Overview
 
