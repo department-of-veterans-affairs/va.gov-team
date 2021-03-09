@@ -21,6 +21,12 @@
 
 </details>
 
+## Friday Mar 12 10:30am ET
+
+1. VAMC user administration - Roles, timing and responsibility for unblocking new VAMC users on prod.
+2. VAMC user help requests - Roles, timing and responsibilities for responding to VAMC users help requests.
+
+
 ## Friday Mar 5 10:30am ET
 
 - [Stan / Oksana] VAMC is releasing four more Systems into publication each week. Let's use this opportunity to publish the site and have it role out on one of the scheduled releases.
