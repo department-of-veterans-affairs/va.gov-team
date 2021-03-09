@@ -1,7 +1,15 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
-### 2/26 Email Exchange
 
+
+### 3/9 Email Exchange about Type Ahead suggestions data purge
+
+- Candidly, we were not aware of the extent of build-up of "old" suggestions ahead of the bug resolution. You're right in that this impacted all Search.gov sites, but we haven't yet heard feedback from other customers using type-ahead.
+
+- We're happy to support on the manual creation in whatever ways you need to help "seed" these suggestions. Some other adjustments we've been thinking through is 1) the threshold for the number of identical queries needed in a day for something to turn into a suggestion and 2) the window of time to deprecate an "old" suggestion. Right now, we're looking for a query to hit 100 identical queries in a day, and deprecate after 30 days of not meeting that threshold, but thinking about tweaking this to ~30 identical queries / day within the last 5-7 days, to improve the feel of "recency". Considering VA.gov's traffic, do you have any thoughts or suggestions on what would be a suitable threshold for your use case? 
+
+
+### 2/26 Email Exchange
 **Typeahead Cleanup Schedule:**
 - We'll go ahead and schedule the work this upcoming sprint for the initial sample you've sent (to be completed by end of next week, 3/5)
 - Would we be able to consolidate the implementation of Round 2 and Round 3, delivering those deletions by April 16?
