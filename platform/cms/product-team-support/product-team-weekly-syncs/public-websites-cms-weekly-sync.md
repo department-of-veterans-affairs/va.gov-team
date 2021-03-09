@@ -51,7 +51,7 @@
    * CMS AX or FE Ex
       * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location) -- see Mission Act, Facebook Live event 
  * Beta on-boarding and user testing.
-   * Two sessions set for this week -- Tim Hudak/VEO today; Bronwynn Emmet/OPI on Thursday Q
+   * Two sessions set for this week -- Tim Hudak/VEO today; Bronwynn Emmet/OPI on Thursday
    * Awaiting response on scheduling from Sandy Tadeo/VBA
    * Awaiting new hire for VHA
  * Start to "harden" our MVP and post-MVP Product & Service Roll-Out Plan
