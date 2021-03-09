@@ -1,0 +1,13 @@
+# Engineer Sync
+
+## Notes
+
+- Working through data objects
+
+## Questions
+
+We were chatting about FHIR appointment data, and have a question for the Lighthouse team. For reference we are using [this doc](https://github.com/department-of-veterans-affairs/health-apis-patient-generated-data/blob/API-000-mapping/mapping/appointment.md) as a sample
+
+- How do we know if this a primary care appointment?
+- How real is that data? We tried looking up the clinic details and data fields are not lining up.
+- For three structures (appointment, organizations, and locations), What are the expected structural variations, For example, what fields will always be there, what fields can be there?
