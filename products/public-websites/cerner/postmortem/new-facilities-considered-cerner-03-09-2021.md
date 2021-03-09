@@ -107,7 +107,7 @@ March 8, 2021 @ 5:55pm EST
 | Description                    | Type    | Owner        | Issue # |
 | ------------------------------ | ------- | ------------ | ------- |
 | We should add a unit test [here](https://github.com/department-of-veterans-affairs/vets-website/blob/dbd95d9098ccd5acc1787ceb9ee3fc55da3e7852/src/platform/utilities/cerner/index.js#L5) to ensure that any Cerner facility ID that is added to `vets-website` has a related feature toggle [here](https://github.com/department-of-veterans-affairs/vets-website/blob/3f41da4363074b54dc3efab7baff0f4898bb47a4/src/platform/utilities/feature-toggles/featureFlagNames.js#L67) | Frontend | Public Websites | #21235 |
-| We should have __at least__ 1 test account on a non-production environment that belongs to all Cerner facilities. | Database | Unknown | #21238 |
+| We should have __at least__ 1 test account on a non-production environment that belongs to all Cerner facilities. | Database | Unknown | Ticket Not Created |
 | We should create a step-by-step guide to adding support for a facility to become a Cerner facility that documents all necessary steps that have to be taken. | Frontend | Public Websites | #21239 |
 
 ### What went well
