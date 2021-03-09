@@ -240,6 +240,7 @@ Accessibility issues
 - Hold go/no-go
 - Launch to 10%
 - Keep eBenefits updated on launch
+- Keep BGS updated on launch (make sure no issues with load) 
 
 ### Preferred medical facility 
 
