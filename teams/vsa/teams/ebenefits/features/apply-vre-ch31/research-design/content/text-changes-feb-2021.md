@@ -44,39 +44,39 @@ JW:🙋‍♂️ Same as Comment 4 above - lets get clarity on these
 JA:    
   - **Comment 7:** Re write the sentences starting with "As a Veteran or ..." to state "As a Veteran released from active duty before 1/1/2013, you're eligible for VR&E benefits and services within a 12 year period. In addition, if you are a Veteran or Service member with a Release from Active Duty date on or after January 1, 2013 there is no eligibility termination date."  
 JW:✔   
-JA:   
+JA: Had to re-work a bit
 ### Page 4
   - **Comment 1:** The rest of this sentence should be the next bullet and it should start with "If you are determined to be entitled to benefits, you VRC will tell you about next steps."  
 JW:✔   
-JA: 
+JA: What's there is more clear and succinct: "Your VRC will give you an entitlement determination and tell you about next steps"
   - **Comment 2:** There should be one additional bullet "If it is determined you are not entitled to VR&E benefits, your VRC will provide you with additional resources that may assist you.   
 JW:✔   
-JA:   
+JA:❌ No, left this one out--muddies the waters 
   - **Comment 3:** remove hyphen  
 JW:✔   
-JA:    
+JA:✔    
   - **Comment 4:** first bullet under Services should end with the work services -- in other words delete "for up to 18 months"  
 JW:✔   
-JA:  
+JA:✔ 
   - **Comment 5:** rewrite these bullets under completion to state: *You found and kept a suitable job *You are able to live more independently  
 JW:✔   
-JA:  
+JA:❌ No, it unneccessarily changes verb tense
   - **Comment 6:** delete the meet monthly bullet  
 JW:✔    
-JA:    
+JA:✔    
 ### Page 5
 `No comments`
 ### Page 6
   - **Comment 1:** restate and say "This track is  for claimants who served on active duty or in the National Guard and are now returning to their former job."  
 JW:✔   
-JA:   
+JA:❌ No, kept what was there--more nicely stated 
 ### Page 7
   - **Comment 1:** Instead of type of job you want, state "to be competitive in the labor market in a suitable occupation." suggest removing for the type of job you want.  
 JW:✔   
-JA:   
+JA:❌ No, need the plain language   
   - **Comment 2:** Remove the "find short-term" and  "get money" sentences (bullets)  
 JW:✔   
-JA:   
+JA:✔   
   - **Comment 3:** Instead if "Connect with..." state "Participate in monthly post-employment follow-up discussions"  
 JW:❌ "Connect with..." is approved friendly tone on VA.gov.  What does changing this word achieve in the forms objectives?     
-JA:   
+JA:❌ No, stayed with plain language
