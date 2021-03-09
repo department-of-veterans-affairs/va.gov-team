@@ -30,6 +30,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mobile-experience)
 - Mobile, facility, locations
 
+#### Feb 9 - 12:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 12 Veteran/non-Veteran beneficiaries recruited: 8 desktop, 4 mobile (50% participation rate: 6 desktop, 2 mobile) 
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school comparison
+
 
 ### January 2021
 
@@ -129,11 +135,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
 
-#### October 15 - November 3:  Comparison Tool Redesign Research
+#### November 3 - 6:  Comparison Tool Redesign Research / School Ratings
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
- - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - 8 Veteran/non-Veteran beneficiaries 
  - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
- - **Keywords:** Comparison Tool, school search, school selection 
+ - **Keywords:** Comparison Tool, Veteran ratings, school selection 
+
 
 #### November 2 - 4 : Wizard Migration Usability Study
 *Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
@@ -148,6 +155,12 @@ This does not include research for Appeals projects, which is stored in differen
 - **Keywords:** Call center, contact center, content governance, IRIS, Oracle Service Cloud, help desk, GI Bill help desk, MHV technical support, LEAF
 
 ### October 2020
+
+#### October 15 - 27:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school selection 
 
 #### October 15 - 19 : Usability Testing the MVP Upcoming Appointment Questionnaire
 *Ad Hoc: VSA Health care Experience/Questionnaires, Kristen McConnell*
