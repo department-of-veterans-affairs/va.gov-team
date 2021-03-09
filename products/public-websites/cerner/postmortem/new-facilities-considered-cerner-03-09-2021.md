@@ -126,14 +126,6 @@ The proposed fix did indeed fix the issue + there was quick response times from 
 
 _date, time, step/event_
 
-- 8/17/20, morning - [PR merged to update legacy content](https://github.com/department-of-veterans-affairs/vets-website/pull/13882/files#diff-fbc145d9742763ba3cf52c0de9768e98R429).
-- 8/17/20, 3:15pm EST - Daily deployment occurs, VAOS thru traffic goes down to 0.
-- 8/17/20, 4:05pm EST - Danielle Thierry discovers missing page content.
-- 8/17/20, 4:10pm EST - [PR with fix sent up](https://github.com/department-of-veterans-affairs/vets-website/pull/13896).
-- 8/17/20, 4:17pm EST - [Off-schedule deploy was requested](https://dsva.slack.com/archives/CBU0KDSB1/p1597695472119100?thread_ts=1597695207.118200&cid=CBU0KDSB1).
-- 8/17/20, 5:00pm EST - [PR with fix merged](https://github.com/department-of-veterans-affairs/vets-website/pull/13896).
-- 8/17/20, 5:52pm EST - Off-schedule deploy finalized, VAOS thru traffic returns to nominal levels.
-
 - March 1, 2021 @ 11:45am EST - [`vets-api` PR was merged](https://github.com/department-of-veterans-affairs/vets-api/pull/6045)
 - March 5, 2021 @ 11:40am EST - [`vets-website` PR was merged (bug introduced)](https://github.com/department-of-veterans-affairs/vets-website/pull/16220)]
 - March 8, 2021 @ 2:20pm EST - [detection of bug](https://dsva.slack.com/archives/C52CL1PKQ/p1615231277236500)
