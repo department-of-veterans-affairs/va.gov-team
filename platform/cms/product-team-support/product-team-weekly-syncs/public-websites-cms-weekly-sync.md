@@ -41,25 +41,22 @@
 
  * Backlog issues (via Staging review)
    * Accessibility
-   * Design/UX issues [#20883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/208830
+   * Design/UX issues [#20883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20883)
      * Images should always be the same size/ratio
      * Videos require intro text
      * Is there any way to format the bottom-most section the same way we do on VA.gov?
      * in regards to the back to top component, is there a way to align the button the right-most "column" like this:
      * On mobile, in the What you can do section, can we make the spacing in the gray boxes equal above and below? the spacing we have on desktop is perf if we can replicate that.
-   * CMS AX or FE 
-      * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location) -- see Mission Act, Facebook Live event.
-      * 
+     * Download (PDF) links should be aligned at bottom of box?
+   * CMS AX or FE Ex
+      * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location) -- see Mission Act, Facebook Live event 
+ * Beta on-boarding and user testing.
+   * Two sessions set for this week -- Tim Hudak/VEO today; Bronwynn Emmet/OPI on Thursday Q
+   * Awaiting response on scheduling from Sandy Tadeo/VBA
+   * Awaiting new hire for VHA
+ * Start to "harden" our MVP and post-MVP Product & Service Roll-Out Plan
+   * Draft is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md) 
   
- * Review product guide (John)
-   * incorporated into training materials
-   * will iterate after reviewing with Sandy's team
- * Beta user testing and onboarding.
-   * VEO session this afternoon (agenda and facilitiation) (John)
-     * Focused mainly on the powerpoint and then look at FE build.   
-   * VBA session usability testing (to be scheduled) (CMS team)
-     * John will schedule this today.   
-
 
 ## Wednesday March 3
 
