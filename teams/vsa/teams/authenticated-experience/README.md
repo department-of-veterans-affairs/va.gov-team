@@ -16,7 +16,7 @@
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Matt Shea |Product Manager| matt.shea@adhocteam.us |
+|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
