@@ -38,6 +38,7 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
 - VBA Digital Strategy Team (Benefits): Sandy Tadeo (Acting Chief), Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
 - VEO: Tim Hudek
+- OPIA: Bronwyn 
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
 **Request and Publishing Model:** 
@@ -52,11 +53,16 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 **Goals:** 
 To release the CLP to a wider VA digital comms user base -- enabling the tool to be used at scale.
 
-**Governance Model:**
-- Edit *and Publish?* access will only be provided to VA communications staffers *in the field?* who go through training.
-- The URL must be set dynamically (e.g. via H1)
-- The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM). 
-- 
+**Governance Model (Draft-WIP):**
+- Edit and Publish access will go wider --  with two guardrails in place:
+  - the VACO digital comms teams/leads will be resposible for governing edit rights
+  - it will be provided to VA communications staffers in the field after they **go through training.**
+  - the VACO leads will retain publish rights, to ensure every CLP is reviewed for quality before it is released into production
+- For this phase:
+  - The URL must be set dynamically (e.g. via H1)
+  - Set-up of the CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.
+  - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM). 
+  - There will be no Platform review before publication
 
 **Considerations**
 - Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
