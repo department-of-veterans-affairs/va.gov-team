@@ -56,7 +56,7 @@ Recruit for a **minimum of 5** fulfilled sessions using the following criteria:
 - **At least one dependent** who is not a veteran or service member 
 - At least one woman
 - At least one person of color
-- At least one participant 35 or under and 1 participant over 55
+- At least one participant 35
 
 #### Important for us to know
 We need to have the participant's actual login email for the login method they use (DSLogon, ID.me or MyHealtheVet). This will aloow access to the feature we're testing.
@@ -67,6 +67,7 @@ We need to have the participant's actual login email for the login method they u
 - At least one person that has a college degree (to include of officer Vets)
 - At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
+- At least one participant over 55
 
 #### Recruitment requirements
 
