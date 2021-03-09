@@ -1,6 +1,6 @@
 # Authenticated experience team charter
 
-**Last updated February 19, 2021**
+**Last updated March 9, 2021**
 
 ## What we strive for
 
@@ -100,8 +100,8 @@ Estimation is not based on how long something will take to complete, but is rath
 
  - 1 - Easy task, work is known, can be executed quickly   
  - 2 - Mostly known, doable
- - 3 - Becoming complex   
- - 5 - Very complex, may take a full sprint or longer    
+ - 3 - Becoming complex, maybe be 2 - 3 days of work 
+ - 5 - More complex, may take a full week   
  - 8 - Needs to be broken down into smaller user stories      
 
 #### Issue validation 
