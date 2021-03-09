@@ -213,6 +213,13 @@ There are a couple of enhancements I'd like to knock out this sprint:
 - Add FAQ around what departments get updated when a veteran updates their contact info #20221
 - Add email for when someone updates their contact information
 
+Accessibility issues
+
+(If this is ready)
+
+- 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons
+#19562
+
 ### My VA redesign
 
 **PM**
