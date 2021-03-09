@@ -24,7 +24,7 @@
 To learn and iterate both the product AND the governance approach (e.g. who gets the keys, how is URL determined, what are "must have" feature enhancements needed in the tooling and template)
 
 **Governance Model:**
-Availability of the CLP page builder will be limited to four VACO digital communication teams: VBA, VHA, VEO/OPIA and NCA.  These leads will be responsible for, and have the ability to:
+Availability of the CLP page builder will be limited to four (or five?) VACO digital communication teams: VBA, VHA, VEO/OPIA and NCA.  These leads will be responsible for, and have the ability to:
 
 - Being trained and proficient as a user/editor of the CLP authoring tool ([CMS CLP Training Guide](
 https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90))
@@ -38,7 +38,7 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
 - VBA Digital Strategy Team (Benefits): Sandy Tadeo (Acting Chief), Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
 - VEO: Tim Hudek
-- OPIA: Bronwyn 
+- OPIA: Bronwyn Emmet
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
 **Request and Publishing Model:** 
