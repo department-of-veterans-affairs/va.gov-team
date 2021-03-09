@@ -53,7 +53,9 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 To release the CLP to a wider VA digital comms user base -- enabling the tool to be used at scale.
 
 **Governance Model:**
-TBD
+- Edit and Publish access will only be provided to VA digital comms users who go through training.
+- The URL must be set dynamically (e.g. via H1)
+- The request form process will still be used to help set the analytics requirements, including establishment of campaign unique tracking codes (UTM). 
 
 **Considerations**
 - Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
