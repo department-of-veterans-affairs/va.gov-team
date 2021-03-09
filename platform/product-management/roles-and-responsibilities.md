@@ -19,7 +19,7 @@ Team Leads are responsible for setting the direction of Veteran Facing Tools (VF
 
 - Collaborate regularly with Leads to define overall VFT roadmap priorities
 - Meet regularly with product team Product Manager to:
-  - Collaboratively prioritize product initiatives for each upcoming Program Increment
+  - Collaboratively prioritize product initiatives for each upcoming Sprint
   - Stay aware of product-related updates and blockers
   - Provide input on strategic aspects of Product Outlines
 - Write and provide input on product documentation for new initiatives where appropriate, with input from Product Manager and team.
