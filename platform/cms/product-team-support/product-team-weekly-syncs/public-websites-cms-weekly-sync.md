@@ -35,6 +35,32 @@
 
 </details>
 
+## Wednesday, March 10
+
+### CLP
+
+ * Backlog issues (via Staging review)
+   * Accessibility
+   * Design/UX issues [#20883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/208830
+     * Images should always be the same size/ratio
+     * Videos require intro text
+     * Is there any way to format the bottom-most section the same way we do on VA.gov?
+     * in regards to the back to top component, is there a way to align the button the right-most "column" like this:
+     * On mobile, in the What you can do section, can we make the spacing in the gray boxes equal above and below? the spacing we have on desktop is perf if we can replicate that.
+   * CMS AX or FE 
+      * Creating Events issues (e.g., unable to specify a URL link for "Where" unless it is a VAMC location) -- see Mission Act, Facebook Live event.
+      * 
+  
+ * Review product guide (John)
+   * incorporated into training materials
+   * will iterate after reviewing with Sandy's team
+ * Beta user testing and onboarding.
+   * VEO session this afternoon (agenda and facilitiation) (John)
+     * Focused mainly on the powerpoint and then look at FE build.   
+   * VBA session usability testing (to be scheduled) (CMS team)
+     * John will schedule this today.   
+
+
 ## Wednesday March 3
 
 ### CLP
