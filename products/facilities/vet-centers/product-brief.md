@@ -126,7 +126,7 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 [Link to decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/decision-log.md)
 
 
-## Measuring success
+### Measuring success
 
 **Options for measuring success**
 - SEO optimization, search results rankings
@@ -138,6 +138,11 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 - **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Ouotreach Specialists** 
    - (in-bound) Referral source is tracked nationally (how did you hear of us?) (NSS)
    - Not all Vet Centers capture call data (can be standardized)
+
+### Roll outs
+May be able to leverage Districts and Zones for roll out planning. 
+- National Districts (5) are divided into zones with an average of 20 Vet Centers/zone.
+- District 1 has the greatest number of Vet Centers 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
