@@ -56,6 +56,11 @@
    * Awaiting new hire for VHA
  * Start to "harden" our MVP and post-MVP Product & Service Roll-Out Plan
    * Draft is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md) 
+ * CLP pre-MVP Production Build and Release for COVID Vaccine Awareness (or Hesitancy)
+   * Wholly produced and managed by PW and Sitewide Content
+   * Likely build and launch in March
+   * Need to ensure Analytics -- including campaign tracking (UTM) -- are in place
+   * Risks?
   
 
 ## Wednesday March 3
