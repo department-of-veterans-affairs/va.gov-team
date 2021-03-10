@@ -25,7 +25,8 @@
 
 1. The state of Vet Center CMS build
 2. Content entry for Escanaba
-3. VAMC policies page cutover, feature flags, centralized content content model, role of preview server for new work.
+3. Role of preview server for new work.
+4. VAMC policies page cutover, feature flags, centralized content content model, 
  
 ## March 3 2021
 
