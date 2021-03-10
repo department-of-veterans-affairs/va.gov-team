@@ -5,24 +5,24 @@ As a designer I need to create a research plan to share with my team. (This shou
 
 ## Goals
 
-1\. What product & team are you doing this research for?
+**1\. What product & team are you doing this research for?**
 
 This research consists of a usability test on the digitized VA Form 5655, or Financial Status Report (FSR), led by the Debt Resolution team.
 
-2\. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
+**2\. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
 There are multiple resolution pathways a Veteran can select when resolving their benefit debt, including: requesting an extended payment plan, submitting a compromise offer, or asking for a waiver. All of these options require the submission of a Financial Status Report (VA Form 5655), which captures a monthly snapshot of the Veteran's household income and expenses. Our goal is to test the FSR's MVP with Veterans to uncover pain points and areas of improvement. 
 
-3\. Research questions: What question(s) do you hope to be able to answer after completing this research?
+**3\. Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
-### Introduction page:
+**Introduction page:**
 
 * Do Veterans understand the purpose of filling out the form (The "so what" or "how does this help me?" factor?)
 * Do Veterans understand the available repayment options?
 * Do Veterans read the subway map steps to learn about what information they'll need to submit the form, or do they skip over that information?
   * If Veterans read the subway map steps, what do they think about needing to require all that information?
 
-### Form:
+**Form:**
 
 * Are Veterans able to easily complete each section of the form?
 * Would Veterans be able to easily provide their spouse's employment and income information?
@@ -31,12 +31,12 @@ There are multiple resolution pathways a Veteran can select when resolving their
 * What do Veterans expect to do if they need to submit the form with revisions?
 * Are Veterans able to easily use the new list loop component? 
 
-### After submission:
+**After submission:**
 
 * What do Veterans expect to do after they've submitted their request? (Print?)
 * What communications do Veterans expect to receive about their request?
 
-4\. Hypothesis: What is your hypothesis for this research?
+**4\. Hypothesis: What is your hypothesis for this research?**
 
 * Veterans will be able to identify and select which debt(s) they want to request financial help for, but they may struggle to select a resolution option
 * Veterans might not know their spouse's employment history or complete monthly financial snapshot 
@@ -49,29 +49,29 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 ## Method
 
-1\. What method of research are you planning?
+**1\. What method of research are you planning?**
 
 Remote moderated qualitative interviews and task-based usability testing using staging. The "unauthenticated" flow has been hard-coded to include mock PII so that we can test without staging credentials.
 
-2\. Why this method? How does this methodology help you answer your research questions?
+**2\. Why this method? How does this methodology help you answer your research questions?**
 
 We're using moderated qualitative interviews to understand our user's thoughts and experiences navigating VA-related debts. Much of the form's functionality (particularly list loop and type-ahead functionality) is prohibitively difficult to test using a prototype, so we have decided to test in staging. We want to determine whether or not the form's flow is intuitive and uncover areas of improvement. Additionally, testing in staging will allow us to expand our recruitment criteria to include participants that use assistive technology.
 
-3\. Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)
+**3\. Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)**
 
 Online Zoom meetings
 
-4\. What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)
+**4\. What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)**
 
 Unauthenticated form in staging
 
-5\. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+**5\. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)**
 
 Zoom
 
 ## Participants and Recruitment
 
-1\. Participant criteria: What are you looking for in a participant?
+**1\. Participant criteria: What are you looking for in a participant?**
 
 Primary criteria
 
@@ -86,7 +86,7 @@ This criteria is necessary to conduct the study.
 * For this session, we are able to include people with significant vision loss.
 * For this session, we are able to include people who use magnification tools.
 
-Secondary criteria
+**Secondary criteria**
 
 This criteria contains nice-to-haves that creates a diverse participant pool. 
 
@@ -104,23 +104,23 @@ This criteria contains nice-to-haves that creates a diverse participant pool.
 
 ## When?
 
-1\. Timeline: What dates do you plan to do research?
+**1\. Timeline: What dates do you plan to do research?**
 
 March 17-22
 
-2\. Prepare: When will the thing you are testing be ready?
+**2\. Prepare: When will the thing you are testing be ready?**
 
 We're testing in staging: [https://staging.va.gov/manage-va-debt/request-debt-help-5655/](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)
 
 The pathway we're following will take them through a mocked authenticated flow by clicking "Start your application without signing in" so that we will not have people signing in.
 
-3\. Length of Sessions: How long do you estimate each session will be? 
+**3\. Length of Sessions: How long do you estimate each session will be?** 
 
 About 1 hour
 
 Please schedule 30 min buffer between sessions
 
-4\. Availability: If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
+**4\. Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
 * March 17: 9:30am - 5:00pm EST
 * March 18: 9:30am - 5:00pm EST
@@ -129,7 +129,7 @@ Please schedule 30 min buffer between sessions
 
 Please allow at least 30 minutes between sessions
 
-5\. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
+**5\. Pilot:** Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
 March 16: 11:00am EST with Riley Orr (riley@amida.com), Rebecca Walsh (rebecca.walsh@adhocteam.us), and Craig Wheeler (cwheeler@governmentcio.com)
 
