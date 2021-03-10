@@ -36,11 +36,12 @@ We've started to move toward a slightly different pattern:
 #### Recommendations
 
 - Include primary SEO keyword or a variation in the intro
-- Keep intro to 1 line, focused on the task (not the tool)
+- Keep intro to 1-2 lines, focused on the task (not the tool)
 - Where relevant, we can include "online" to differentiate from other ways to do the task.
 - Examples:
   - Change your VA direct deposit information for disability compensation, pension benefits, or education benefits online.
   - Check the status of your VA debt and make payments or request help now.
+  - Check the status of your VA debt related to disability compensation, education, or pension benefits. And make payments or request help now.
 
 ### How can [this tool] help me [do task]?
 
