@@ -9,8 +9,7 @@
 
 3.	The Sitewide Content team adds the react widget to the Drupal page, which will entail moving some content out of Drupal content blocks. Sitewide Content should ensure that the new page with react widget matches the mockup page that the product team has provided.
 
-4.	The product team creates a feature toggle to control the display of content.
-**Note:** The product team is responsible for monitoring the feature toggle.
+4.	The product team creates a feature toggle to control the display of content. </br>**Note:** The product team is responsible for monitoring the feature toggle.
 
 5.	Once the product is fully launched to 100% of users, the Sitewide Content team removes the react widget and puts the content and CTA button back into regular rich text fields within Drupal. 
 
