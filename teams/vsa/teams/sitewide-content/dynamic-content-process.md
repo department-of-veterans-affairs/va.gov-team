@@ -18,7 +18,7 @@
 
 2.	One week prior to estimated full launch date, Sitewide Content team confirms date with product team and adjusts timing if needed.
 
-3.	When product team confirms that product is launched to 100% of users, Sitewide Content team removes react widget from Drupal page and adds text and CTA button back into rich text field. Sitewide Content team editor reviews and approve changes.
+3.	When product team confirms that product is launched to 100% of users, Sitewide Content team removes react widget from Drupal page and adds text and CTA button back into rich text field. Sitewide Content team editor reviews and approves changes.
 
 4.	Product team reviews and confirms changes.
 
