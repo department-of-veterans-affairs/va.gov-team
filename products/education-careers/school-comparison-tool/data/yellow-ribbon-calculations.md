@@ -16,7 +16,7 @@ if a degree level value is selected
 
 - then the "Division or school" and the "Yellow Ribbon amount from school per year" appear
 - The "Division or school" is populated with each unique `division_professional_school` found for the institutions
-- The "Yellow Ribbon amount from school per year" is populated with the contribution amount for the selected program based on 
+- The "Yellow Ribbon amount from school per year" is populated with the contribution amount for the selected program based on "Division or school"
 
 # Affected Output fields
 "Yellow Ribbon amount from school per year" amount can affect these values
