@@ -30,7 +30,7 @@ Advisory Team
 ** Tasks are tracked in the mobile app Zenhub board 
 * Broader secure messaging reimagining - on pause to focus on SM in mobile app 
 * Discovery will officially begin the week of January 11th
-* The first phase of discovery will focus on answering the following questions: 
+* The first phase of discovery will focus on answering the following questions
 ** What is the existing state of secure messaging like?
 ** What are our initial hypotheses?
 ** How should a V1 of secure messaging be built for the VA mobile app? 
