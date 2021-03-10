@@ -26,6 +26,7 @@
 1. VAMC user administration - Roles, timing and responsibility for unblocking new VAMC users on prod.
 2. VAMC user help requests - Roles, timing and responsibilities for responding to VAMC users help requests.
 3. Dual state launch planning and updates. 
+4. VAMC System Policies Page 
 
 ## Friday Mar 5 10:30am ET
 
