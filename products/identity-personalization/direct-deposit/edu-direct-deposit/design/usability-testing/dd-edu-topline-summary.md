@@ -5,8 +5,6 @@
 
 ---
 
-`WIP -- Review/feedback needed`
-
 ## Goals
 The goal of this usability study was to assess how easily participants located, understood and could change their direct deposit information. We also wanted to determine the impact of having both direct deposit (DD) payment types (compensation and pension, and education) displayed.
 
