@@ -10,8 +10,8 @@ To foster trust and confidence between Veterans and their healthcare providers b
 ## Who we are
 ### Team Members
 
-# VA Stakeholder
-*Leanna Miller, Mobile App Product Owner  
+VA Stakeholder
+* Leanna Miller, Mobile App Product Owner  
 
 Core Sprint Team
 * Ashley Matthews, Product 
