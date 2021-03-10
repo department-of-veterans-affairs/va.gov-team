@@ -9,7 +9,7 @@
 
 ## Goals
 Our first goal is to determine where a COE tool fits into the overall user journey, and what are the pain-points in the current process. We also want to assess user expectations regarding functionality, and decide what supporting content and features would improve the COE tool. Finally, we want to understand the general level of acceptance for a web-based self-service COE tool.
-<!--
+
 **The goals of this document are to:**
 
 - Ensure the study is in alignment with the perceived findings of observers and notetakers
@@ -17,10 +17,10 @@ Our first goal is to determine where a COE tool fits into the overall user journ
 
 ## Participants and testing sessions
 
-We scheduled nine sessions beginning December 2; the last session was conducted December 7. Six of seven participants attended, and the final two calls were cancelled since we hit our goal of five completed sessions.
+We scheduled 10 sessions beginning March X; the last session was conducted March Y. Eight of the 10 participants attended.
 
 ## Guiding questions
-
+<!--
 ### Where on VA.gov do users expect to find direct deposit (DD) information?
 Users were given the scenario: "You recently moved and changed banks; you need to update your direct deposit info to have your educational payments sent to your new bank." They were asked to go to VA.gov to find the DD feature.
 
