@@ -47,6 +47,12 @@ We've started to move toward a slightly different pattern:
 
 The original goal of tool landing pages was primarily SEO and targeted at newer users of the tool. We're shifting toward the goal of getting people into the tool faster. Therefore we don't need to surface this question high up on the page. We can instead either include it beneath the "can I use this tool" info or within accordions.
 
+If we have multiple tools on a page, this can be feature in a brief list beneath the sign-in modal.
+
+**Example:**
+
+![image](https://user-images.githubusercontent.com/62957278/110672587-caf78600-819d-11eb-8680-2835e6f45db9.png)
+
 ### Am I eligible to use this tool?
  
 Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
