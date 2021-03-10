@@ -92,4 +92,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/ds-logon/research/user_session_transcripts)
 
 - Read-Out/Results
-  - *TK* 
+  - [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md)
+  - [Slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/DS%20Logon%20Brief%20(1).pdf)
