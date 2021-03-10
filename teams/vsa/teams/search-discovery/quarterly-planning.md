@@ -8,7 +8,7 @@
 |[UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11638)            |Conduct Research Sessions|User Research Synthesize + Readout |Integrate Next steps into roadmap, DEPO PO Readout |Close |
 |[Typeahead 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)     |Define|Develop Enhancements |Resolve bugs, Launch to 100% users, notify stakeholders|Close |
 |[Spelling Enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19190)|n/a|Define/Exploration |Due to Search.gov current limitations initial implementation will be to icebox; define new version to be added to results page redesign, Close|n/a |
-|[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)           |n/a |n/a |Define/Exploration |BE Dev |
+|[Acronym Clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)           |n/a |n/a |Define/Exploration |Research |
 |[Results Page Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20402)             |n/a |n/a |Define |Discover|
 |[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |Knowledge transfer from PW |TBD |
 |[Click Tracking]()             |n/a |n/a|TBD |Best Bet Implementation|
