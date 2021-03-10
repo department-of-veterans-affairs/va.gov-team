@@ -1,6 +1,9 @@
 # Research Opportunties March 2021
 
 ## VA.gov Search 
+- Usability study with Caregivers, Family Members, & Veterans who were discharged 10+ years: to find further pain points related to "military jargon"
+- Results Page Redesign
+- Search Input Research 
 
 ## Research & Support 
 
