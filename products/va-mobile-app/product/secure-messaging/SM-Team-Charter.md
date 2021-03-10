@@ -28,20 +28,10 @@ Advisory Team
 
 ### Workflow
 * Drive implementation of secure messaging in the flagship mobile app
-** Define secure messaging MVP
-** Determine how the V1 of secure messaging should be buiilt for the app
+** Define secure messaing MVP for the app store release
+** Determine how V1 of secure messaging should be built for mobile
 ** Integrate with the mobile sprint cadence
-** Tasks are tracked in the mobile app Zenhub board
-*** For technical tasks or UX-specific work, individual team members are encouraged to create their own tickets
-* Broader secure messaging reimagining (this is on pause to focus on SM in mobile app)
-* The first phase of discovery will focus on answering the following questions
-** What is the existing state of secure messaging like?
-** What are our initial hypotheses?
-** What are the outcomes a new secure messaging solution would achieve and how can we measure them?
-* Once we have some initial learnings, the intention is to conduct a second round of discovery to address
-** What are the core features a new secure messaging experience should have?
-** How should secure messaging be built for va.gov and V2 mobile?
-* Tasks are tracked in the team Trello board
+** Tasks are tracked in the mobile app ZenHub board 
 
 ## Meeting Cadence
 * Daily standups w/ the mobile team
