@@ -40,7 +40,7 @@ We've started to move toward a slightly different pattern:
 - Where relevant, we can include "online" to differentiate from other ways to do the task.
 - Examples:
   - Change your VA direct deposit information for disability compensation, pension benefits, or education benefits online.
-  - 
+  - Check the status of your VA debt and make payments or request help now.
 
 ### How can [this tool] help me [do task]?
 
