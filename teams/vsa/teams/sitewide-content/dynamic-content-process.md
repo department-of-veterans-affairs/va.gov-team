@@ -1,4 +1,4 @@
-### Dynamic content in Drupal: Implementation and removal process
+## Dynamic content in Drupal: Implementation and removal process
 
 **Goal:** To allow product teams to feature dynamic content as needed for UAT testing and staged rollouts. Then to move content back into Drupal once a product team has completed UAT testing/staged rollout. This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows the Sitewide Content team to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.
 
