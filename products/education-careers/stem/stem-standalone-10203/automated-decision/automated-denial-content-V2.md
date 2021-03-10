@@ -47,17 +47,18 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: STEM Program Denial Reason (answer to questions 1+2 is no)}
 
-- You didn’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of the following questions on your application. To be eligible, you must answer “Yes” to one of these questions.
+- You didn’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of the following questions on your application. 
+  - To be eligible, you must answer “Yes” to one of these questions.
      
-  - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
+    - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
           
-  - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
+    - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
 
   - By law, all Rogers STEM Scholarship recipients must either: 
 
-    - Be enrolled in an eligible STEM undergraduate degree, **or** 
+       (1) Be enrolled in an eligible STEM undergraduate degree, **or** 
      
-    - Have an eligible STEM undergraduate degree and be pursuing a teaching degree
+       (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
      
 
 { END: STEM Program Denial Reason }
