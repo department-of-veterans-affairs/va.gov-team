@@ -239,9 +239,6 @@ If unblocked by VA Profile:
 
 - Continue FE build
 - Implement error messages
-- Look into downtime error handling for My VA #21375
-- Look into how to handle 'Applications in progress' errors #21377
-- Look into how to handle 'Benefits you might be interested in' errors #21379
 
 ### Direct deposit for edu
 
