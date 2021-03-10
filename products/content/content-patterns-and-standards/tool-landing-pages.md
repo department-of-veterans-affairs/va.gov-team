@@ -51,7 +51,7 @@ If we have multiple tools on a page, this can be feature in a brief list beneath
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/62957278/110672587-caf78600-819d-11eb-8680-2835e6f45db9.png)
+![image](https://user-images.githubusercontent.com/62957278/110676010-81a93580-81a1-11eb-84cc-965852ab8fde.png)
 
 ### Account info for tools
 
