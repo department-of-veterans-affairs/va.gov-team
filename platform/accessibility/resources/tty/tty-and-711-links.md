@@ -2,7 +2,7 @@
 Reprinted with permission and credit to [@msmanak](https://github.com/msmanak)
 
 ## What is a TTY?
-TTY stands for Text Telephone. It is also sometimes called a TDD, or Telecommun Device for the Deaf. TTY is the more widely accepted term, as TTYs are for many people, not just people who are deaf.
+TTY stands for Text Telephone. It is also sometimes called a TDD, or Telecommunication Device for the Deaf. TTY is the more widely accepted term, as TTYs are for many people, not just people who are deaf.
 
 A TTY is a special device that lets people who are deaf, hard of hearing, or speech-impaired use the telephone to communicate, by allowing them to type messages to one another instead of talking and listening. A TTY is required at both conversations in order to communicate.
 
