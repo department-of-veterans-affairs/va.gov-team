@@ -6,7 +6,9 @@ Define content patterns to inform phase 1 tool landing page refresh updates. We'
 
 Most of our tool landing page H1s are CTAs. There are a few exceptions (like "VA prescription refill and tracking") due to past SEO-based decisions.  We are moving away from a primarily SEO focus on these pages and toward getting people into the tool as quickly as possible. And we can still achieve SEO goals with variations. We're also working toward greater phrasing consistency throughout the site for cognitive clarity and to prepare for translation.
 
-Recommend moving to all CTAs (ie, change to "Refill and track VA prescriptions") for consistency.
+Recommend moving to all CTAs (ie, change to "Refill and track VA prescriptions") for consistency for now.
+
+**Note:** We are also talking about possibly moving _away_ from CTAs for H1s. But let's make the few stragglers consistent for now, and then tackle that question later.
 
 ### Intros
 
