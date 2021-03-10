@@ -96,7 +96,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Milestone
   
 #### Estimation
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
+Estimation is based on a combination of a few factors — how long something will take to complete, risk, level of effort (LOE), and complexity. We have found [this scale](https://www.scalablepath.com/blog/agile-points-explained-fibonacci-sequence/) to be helpful in estimating tickets.
 
  - 1 - Easy task, work is known, can be executed quickly   
  - 2 - Mostly known, doable
