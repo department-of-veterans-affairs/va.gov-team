@@ -73,6 +73,7 @@ It was the consensus of our test users that call to action links can be styled a
 1. **Call to action links go to another page to start a process.** Call to action links have the following success criteria:
     - Load another page URL (see rule #1 success criteria)
     - Announce themselves as “links” to screen readers and assistive devices
+    - Use call to action links sparingly, maybe one per page
     - Going forward, call to action links should not look like buttons. They should use the Design System Council's action link style.
       - [Action link component](https://design.va.gov/storybook/?path=/docs/components-action-link--page)
       - [Action link documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/blob/master/src/_components/action-links.md)
@@ -98,4 +99,3 @@ It was the consensus of our test users that call to action links can be styled a
   * Submit an asynchronous request, then redirect users based on the server response. This is a middle ground, but feels like a good case for using a button, considering the original function was asynchronous and might keep users on the same page depending on the response.
   * Open and close a modal dialog
   * Alert boxes or confirmations
-  * Calls to action links can omit the underline, but would be well served with a design that distinguishes them from buttons. Use these sparingly, maybe one per page.
