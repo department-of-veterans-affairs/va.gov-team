@@ -29,11 +29,11 @@ Advisory Team
 ### Workflow
 * Drive implementation of secure messaging in the flagship mobile app 
 ** Define secure messaging MVP
-** Determine how the V1 of secure messaging be buiilt for the app
+** Determine how the V1 of secure messaging should be buiilt for the app
 ** Integrate with the mobile sprint cadence
 ** Tasks are tracked in the mobile app Zenhub board 
 *** For technical tasks or UX-specific work, individual team members are encouraged to create their own tickets 
-* Broader secure messaging reimagining - on pause to focus on SM in mobile app 
+* Broader secure messaging reimagining (this is on pause to focus on SM in mobile app)
 * The first phase of discovery will focus on answering the following questions
 ** What is the existing state of secure messaging like?
 ** What are our initial hypotheses?
