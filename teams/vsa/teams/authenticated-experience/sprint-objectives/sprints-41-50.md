@@ -233,10 +233,15 @@ If unblocked by VA Profile:
 
 - Review frontend build as needed
 - If FE build is actually done, work with Trevor to do some assistive tech testing
+- [Design] My VA: Error message documentation #21373
 
 **FE**
 
-- Finish FE build
+- Continue FE build
+- Implement error messages
+- Look into downtime error handling for My VA #21375
+- Look into how to handle 'Applications in progress' errors #21377
+- Look into how to handle 'Benefits you might be interested in' errors #21379
 
 ### Direct deposit for edu
 
