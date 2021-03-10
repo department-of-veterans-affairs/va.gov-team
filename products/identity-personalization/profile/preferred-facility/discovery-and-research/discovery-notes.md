@@ -2,7 +2,7 @@
 
 3/10/21, Liz Lantz
 
-We looked into these questions to prepare for the design phase of adding preferred facilities to VA.gov profile.
+Sought answers to these questions to prepare for the design phase of adding preferred facilities to VA.gov profile:
 
 **How is VAOS currently integrated into the VA.gov Auth Exp?**
 
@@ -41,9 +41,14 @@ We looked into these questions to prepare for the design phase of adding preferr
 
 **Is there any research we can look at on the MHV implementation of preferred facilities?** **This is the only other place we know of where Veterans can set preferred facilities, so it'd be good to learn more about their reaction to this implementation, how it performed in usability testing, etc.**
 
-It doesn't appear so. I've searched our va.gov-team repo, and asked around in DSVA Slack.  Our research history document mentions a [study from March 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md#march-2018) led by someone still at Ad Hoc; waiting to hear back from him but not expecting that he'll know where the research folder is now.
+- It doesn't appear so. 
+- Searched our va.gov-team repo, and [asked in DSVA Slack](https://dsva.slack.com/archives/C0NGDDXME/p1615326032011100). 
+- Our research history document mentions a [study from March 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md#march-2018) led by someone still at Ad Hoc; waiting to hear back from him but not expecting that he'll know where the research folder is now.
 
 **Is there any research on the VAOS "select facility" design we can reference?**
+
+- Research lives in this folder
+- 
 
 **What do the numbers in parentheses mean after the facility name on MHV? Is this meaningful to Veterans? If not, can we get rid of them in our implementation?**
 
