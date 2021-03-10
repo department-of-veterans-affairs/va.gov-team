@@ -12,7 +12,7 @@ This question was posed to us by a self-identified screen reader “power user�
 * [Three rules for link and button success](#heading3)
 * [Common link and button scenario](#heading4)
 
-## Common screen reader usage and behaviors <sup id="heading1">[1]</sup>
+## Common screen reader usage and behaviors
 
 * Users are navigating sites in three ways:
   1. Headings (h1, h2, h3…), listening for the descriptive text and heading level announcement
@@ -39,7 +39,7 @@ This question was posed to us by a self-identified screen reader “power user�
 * If the call to action, form, etc. is on the current page, use a link with descriptive “further down this page” language
 * If the call to action, form, etc, is on another page, use a link with descriptive “another page” language
 
-## Research findings <sup id="heading2">[2]</sup>
+## Research findings
 
 It was the consensus of our test users that call to action links can be styled as buttons. The underlying HTML is an `<a>` tag that must meet the success criteria outlined below, and visually it will look like a button. Sighted users rely on this visual information, so having the call to action presented in a strong, clear manner is important. Screen reader users rely more on semantic meaning. Calls to action need to offer clear language about what we are asking users to do. If calls to action have short text blocks, say 2-4 words, consider adding a more descriptive aria-label for assistive devices.
 
@@ -59,39 +59,43 @@ It was the consensus of our test users that call to action links can be styled a
 * Sighted users will interpret “Start your application” and have the heading, sub-heading, and content around the CTA to determine intent
 * Screen reader users will hear “Start your application for health coverage on the next page” read out, and also have context because of the aria-label
 
-## Three rules for link and button success <sup id="heading3">[3]</sup>
+## Three rules for link and button success
 
-1. **Links go to to another page OR jump to an anchor ID in the current page**
-  - Respond to ENTER keypress
-  - The browser URL changes
-  - HTML5 history object changes. (Not applicable if using React Router.)
-  - Avoid hash route URLs if possible. These interfere with in-page anchor links, and were common with early SPA libraries like Backbone. (Not applicable if using React Router.)
-  - Append anchor links to URL when a link points to an in-page anchor ID (skip nav, tabs)
-  - Do not add role=“button” to links. Screen readers will announce the link as a “button”. Users will expect the element to respond to `ENTER` and `SPACEBAR` key presses.
-  - Recommended to underline links when in paragraphs or blocks of text
-2. **Buttons perform a user-interface action**
-  - Respond to **Enter** and **Spacebar** keypresses
-  - Perform actions that do not change the URL or load a new page. This might include:
-    - Opening and closing modal windows
-    - Expanding and collapsing accordion panes
-3. **Call to action links can look like buttons as long as:**
-  - Load another page URL (see rule #1 success criteria)
-  - Announce themselves as “links” to screen readers and assistive devices
+1. **Links go to to another page OR jump to an anchor ID in the current page.** Links have the following success criteria:
+    - Link text is underlined
+    - Respond to **Enter** keypress
+    - The browser URL changes
+    - HTML5 history object changes. (Not applicable if using React Router.)
+    - Avoid hash route URLs if possible. These interfere with in-page anchor links, and were common with early SPA libraries like Backbone. (Not applicable if using React Router.)
+    - Append anchor links to URL when a link points to an in-page anchor ID (skip nav, tabs)
+    - Do not add role=“button” to links. Screen readers will announce the link as a “button”. Users will expect the element to respond to `ENTER` and `SPACEBAR` key presses.
+    - Recommended to underline links when in paragraphs or blocks of text
+1. **Call to action links go to another page to start a process.** Call to action links have the following success criteria:
+    - Load another page URL (see rule #1 success criteria)
+    - Announce themselves as “links” to screen readers and assistive devices
+    - Going forward, call to action links should not look like buttons. They should use the Design System Council's action link style.
+      - [Action link component](https://design.va.gov/storybook/?path=/docs/components-action-link--page)
+      - [Action link documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/blob/master/src/_components/action-links.md)
+1. **Buttons perform a user-interface action.**  Buttons have the following success criteria:
+    - Do not underline button text. Better to have a halo, background color, or border with plenty of hit space.
+    - Respond to **Enter** and **Spacebar** keypresses
+    - Perform actions that do not change the URL or load a new page. This might include:
+      - Opening and closing modal windows
+      - Expanding and collapsing accordion panes
 
-## Common link and button scenarios <sup id="heading4">[4]</sup>
+## Common link and button scenarios
 
-* Imagine copy/pasting a URL into a new browser window, sight unseen. Good scenarios for a LINK:
+* **Good scenarios for a link:**
+  * Copy and pasting a URL into a new browser window 
   * You expect the page to load scrolled down somewhere
   * You have a call to action that navigates to another page
   * You are loading a second or third tab, pre-selected
-* Imagine you are presenting users with an action that does not load a new page. Good scenarios for a BUTTON:
-  * You have a conditional message that the user should trigger or dismiss
+* **Good scenarios for a button:**
+  * You have a conditional message that the user should accept or dismiss
   * You are adding or removing something like a receipt, prescription, appeal
-  * Show/hide accordions
+  * Show and hide accordions
   * Submit a form asynchronously
   * Submit an asynchronous request, then redirect users based on the server response. This is a middle ground, but feels like a good case for using a button, considering the original function was asynchronous and might keep users on the same page depending on the response.
   * Open and close a modal dialog
   * Alert boxes or confirmations
-  * Do not underline button text. Better to have a halo, background color, or border with plenty of hit space.
-  * Underline link text
   * Calls to action links can omit the underline, but would be well served with a design that distinguishes them from buttons. Use these sparingly, maybe one per page.
