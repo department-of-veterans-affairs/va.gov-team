@@ -15,22 +15,22 @@ This question was posed to us by a self-identified screen reader “power user�
 ## Common screen reader usage and behaviors <sup id="heading1">[1]</sup>
 
 * Users are navigating sites in three ways:
-  * Headings (h1, h2, h3…), listening for the descriptive text and heading level announcement
-  * Links, listening for the descriptive text and “Link” announcement
-  * Buttons, listening for the descriptive text and “Button” announcement
+  1. Headings (h1, h2, h3…), listening for the descriptive text and heading level announcement
+  1. Links, listening for the descriptive text and “Link” announcement
+  1. Buttons, listening for the descriptive text and “Button” announcement
 * Users rely on text read aloud to describe sections (heading) and calls to action (links, buttons)
 * Users expect buttons to respond to Spacebar, and Enter key
 * Users expect links to respond to Enter key
-* All users favored the Enter key for initiating action. When asked why, they told us inconsistent use of buttons or links. Some sites use one exclusively, some use them interchangeably. So users defaulted to the Enter key, because both elements respond to that keyboard event.
+* All users favored the **Enter** key for initiating action. When asked why, they told us inconsistent use of buttons or links. Some sites use one exclusively, some use them interchangeably. So users defaulted to **Enter**, because links and buttons respond to that keyboard event.
 
 ### Unique screen reader characteristics/features
 
-* VoiceOver allows users to use the rotor and self-select what they are going to navigate by (headings, links, buttons)
-* NVDA and JAWS have built-in ways to navigate by heading, unvisited links, visited links, buttons
+* VoiceOver [includes a rotor](https://support.apple.com/en-us/HT204783) for users to navigate by headings, links, form elements, and landmarks
+* NVDA and JAWS have built-in menus and keyboard shortcuts to navigate by heading, unvisited links, visited links, buttons, and landmarks
 
 ### Mobile Navigation
 
-* One user navigated the site using an iPhone and demonstrated mobile accessibility. The user employed the VoiceOver rotor as they had previously done on the desktop, allowing them to navigate by headings, links and buttons. When using the rotor, the user swiped right to advanced to the next identified element. When the rotor was turned off, it appeared swiping would read the next segment of the page, much as the Ctrl + Option + Right Arrow command would do on the desktop.
+* One user navigated the site using an iPhone and demonstrated mobile accessibility. The user employed the VoiceOver rotor as they had previously done on the desktop, allowing them to navigate by headings, links and buttons. When using the rotor, the user swiped right to advanced to the next identified element. When the rotor was turned off, it appeared swiping would read the next segment of the page, much as the **Ctrl + Option + Right Arrow** command would do on the desktop.
 * iOS VoiceOver has the same verbal settings and feel as Desktop VoiceOver, lending it a familiarity to Apple desktop users. Recommend future testing include mobile VoiceOver testing when possible.
 
 ### Unique observations from our testers
@@ -61,23 +61,22 @@ It was the consensus of our test users that call to action links can be styled a
 
 ## Three rules for link and button success <sup id="heading3">[3]</sup>
 
-1. Links go to to another page OR jump to an anchor ID in the current page
-    1. SUCCESS CRITERIA:
-    2. Respond to ENTER keypress
-    3. The browser URL changes
-    4. HTML5 history object changes. (Not applicable if using React Router.)
-    5. Avoid hash route URLs if possible. These interfere with in-page anchor links, and were common with early SPA libraries like Backbone. (Not applicable if using React Router.)
-    6. Append anchor links to URL when a link points to an in-page anchor ID (skip nav, tabs)
-    7. Do not add role=“button” to links. Screen readers announce the link as “button”, and changes user
-    8. Recommended to underline links when in paragraphs or blocks of text
-2. Buttons perform a UI action
-    1. SUCCESS CRITERIA:
-    2. Respond to ENTER, SPACEBAR keypresses
-    3. Perform UI actions that do not change the URL or load a new page
-3. Call to action links can look like buttons as long as:
-    1. SUCCESS CRITERIA:
-    2. Load another page URL (see rule #1 success criteria)
-    3. Announce themselves as “links” to screen readers and assistive devices
+1. **Links go to to another page OR jump to an anchor ID in the current page**
+  - Respond to ENTER keypress
+  - The browser URL changes
+  - HTML5 history object changes. (Not applicable if using React Router.)
+  - Avoid hash route URLs if possible. These interfere with in-page anchor links, and were common with early SPA libraries like Backbone. (Not applicable if using React Router.)
+  - Append anchor links to URL when a link points to an in-page anchor ID (skip nav, tabs)
+  - Do not add role=“button” to links. Screen readers will announce the link as a “button”. Users will expect the element to respond to `ENTER` and `SPACEBAR` key presses.
+  - Recommended to underline links when in paragraphs or blocks of text
+2. **Buttons perform a user-interface action**
+  - Respond to **Enter** and **Spacebar** keypresses
+  - Perform actions that do not change the URL or load a new page. This might include:
+    - Opening and closing modal windows
+    - Expanding and collapsing accordion panes
+3. **Call to action links can look like buttons as long as:**
+  - Load another page URL (see rule #1 success criteria)
+  - Announce themselves as “links” to screen readers and assistive devices
 
 ## Common link and button scenarios <sup id="heading4">[4]</sup>
 
