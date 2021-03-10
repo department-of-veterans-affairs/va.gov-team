@@ -200,7 +200,6 @@ On hold until design updates are done:
 
 Finish BE implementation assuming Lihan can get what he needs from Terry
 - VA Profile notification preferences: Implementation (part 2) #19773
-- VA Profile notification preferences: Implementation (part 3) #19774
 
 ## Sprint 44 (3/24 - 4/6)
 
@@ -219,6 +218,12 @@ Accessibility issues
 
 - 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons
 #19562
+
+**BE**
+
+If unblocked by VA Profile:
+
+- Remove references to vet360 from backend code (part 1)#18258
 
 ### My VA redesign
 
@@ -261,6 +266,10 @@ Accessibility issues
 - Complete discovery
 - Begin design
 - Design intent collab
+
+**BE**
+
+- VA Profile notification preferences: Implementation (part 3) #19774
 
 ## Sprint 45 (4/7 - 4/20)
 
