@@ -38,7 +38,7 @@
 - Digital strategist: 
 - Product manager: Veronica Henry (vhenry@governmentcio.com)
 - Design and Research: Kevin Stachura (kstachura@governmentcio.com), Christian Valla (cvalla@governmentcio.com)
-- Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), Nick Sprinkle (nick.sprinkle@oddball.io), Ed Mangimelli (ed.mangimelli@adhocteam.us)
+- Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), Ed Mangimelli (ed.mangimelli@adhocteam.us)
 - Contact center partner: Regina Yount, Sylvia Palmer & Brenda Torres Hill
 - Web comms partner: Jennifer Rudisill
 - ITSC (IT Strategic Comms) liaison: Amy Alexander (Amy.Alexander@va.gov)
