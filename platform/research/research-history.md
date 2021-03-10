@@ -14,7 +14,7 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2021
 
-### Feburary 2021
+### February 2021
 
 #### Feb 16 - Feb 19: Health Record (Medications, Allergies, and Immunizations)
 *Health care Experience/Questionnaires, Lead Researcher: Kristen McConnell*
@@ -32,7 +32,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 #### Feb 9 - 12:  Comparison Tool Redesign Research
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
- - 12 Veteran/non-Veteran beneficiaries recruited: 8 desktop, 4 mobile (50% participation rate: 6 desktop, 2 mobile) 
+ - 12 Veteran/non-Veteran beneficiaries recruited: 8 desktop, 4 mobile (50% participation rate: 4 desktop, 2 mobile) 
  - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
  - **Keywords:** Comparison Tool, school search, school comparison
 
