@@ -8,7 +8,7 @@ Shorten message, move action step to end of message for increased visibility.
 ### March 9, One site, ~5000 messages per condition.
 
 **Results:** 
-B performed worse than A by a statistically *insignificant* 12.42% on successful scheduling, and better by 2.99% on response rate.
+B performed worse than A by a statistically *insignificant* 12.42% on successful scheduling, and better by a statistically *insignificant* 2.99% on response rate.
 
 A (current message):
 > %FACILITY_NAME% is offering COVID-19 vaccines to Veterans who receive care at VA.  
@@ -27,7 +27,7 @@ B (reordered, shortened message):
 ### March 10, One site, ~5000 messages per condition.
 
 **Results:** 
-B performed worse than A by a statistically significant 27.37% on successful scheduling, and 27.61% on response rate.
+B performed worse than A by a statistically significant 27.37% on successful scheduling, and worse by a statistically significant 27.61% on response rate.
 
 A (current message):
 > %FACILITY_NAME% is offering COVID-19 vaccines to Veterans who receive care at VA.  
