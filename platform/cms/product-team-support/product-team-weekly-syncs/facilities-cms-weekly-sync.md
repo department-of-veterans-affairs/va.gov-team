@@ -22,10 +22,11 @@
 </details>
 
 ## March 10 2021
-1. Training plan for Vet Centers
-2. Escanaba content loading
-3. Policies FE implementation questions
 
+1. The state of Vet Center CMS build
+2. Content entry for Escanaba
+3. VAMC policies page cutover, feature flags, centralized content content model, etc.
+ 
 ## March 3 2021
 
 
