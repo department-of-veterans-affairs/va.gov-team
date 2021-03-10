@@ -23,6 +23,8 @@
 
 ## March 10 2021
 1. Training plan for Vet Centers
+2. Escanaba content loading
+3. Policies FE implementation questions
 
 ## March 3 2021
 
