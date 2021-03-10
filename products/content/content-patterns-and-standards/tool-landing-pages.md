@@ -53,8 +53,23 @@ If we have multiple tools on a page, this can be feature in a brief list beneath
 
 ![image](https://user-images.githubusercontent.com/62957278/110672587-caf78600-819d-11eb-8680-2835e6f45db9.png)
 
+### Account info for tools
+
+#### Background
+
+Previously, we worked info about needed accounts into the eligibility information. But this is standard info about signing into VA.gov in general.
+
+#### Recommendation
+
+Include "What type of account do I need to sign in?" as an additional information compontent. 
+
+![image](https://user-images.githubusercontent.com/62957278/110673379-b5cf2700-819e-11eb-9eb2-524ecb12aedf.png)
+
+
 ### Am I eligible to use this tool?
  
+#### Background
+
 Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
 
 Consider:
@@ -63,6 +78,8 @@ Consider:
 - What you'll need to [do this task] online _Note: In some cases, might need to be specific (i.e., "on eBenefits") for now._
 - What to know about [doing task] online _Note: Could considering using this subhead as an H2 and then a couple specific H3s as needed_
 - Other options
+
+
 
 ### Information displayed as accordions
 
