@@ -36,7 +36,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: Remaining Entitlement Denial Reason (> 180 days of remaining entitlement) }
 
-- You didn’t meet the benefit requirements for the Rogers STEM Scholarship 
+- You didn’t meet the benefit requirements for the Rogers STEM Scholarship. 
 
      - According to your service and school data records on file, as of [MM/DD/YYYY], you have more than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
 
