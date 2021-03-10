@@ -28,10 +28,10 @@ Advisory Team
 
 ### Workflow
 * Drive implementation of secure messaging in the flagship mobile app
-** Define secure messaing MVP for the app store release
-** Determine how V1 of secure messaging should be built for mobile
-** Integrate with the mobile sprint cadence
-** Tasks are tracked in the mobile app ZenHub board 
+ * Define secure messaing MVP for the app store release
+ * Determine how V1 of secure messaging should be built for mobile
+ * Integrate with the mobile sprint cadence
+ * Tasks are tracked in the mobile app ZenHub board 
 
 ## Meeting Cadence
 * Daily standups w/ the mobile team
