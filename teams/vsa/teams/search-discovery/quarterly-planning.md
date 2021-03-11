@@ -17,7 +17,7 @@
 
 
  ***Q2: Apr-Jun***
-|**Initiative**         |**S44**         |**S45**| **S46**|**S47**|**S48**|**S49**|**S50**|
+|**Initiative**         |**S44   (Mar 10- Apr)**         |**S45  (Apr 7 - 20)**| **S46 (Ap 21- May 4)**|**S47 (May 5-18)**|**S48 (May 19-Jun 1)**|**S49(Jun 2 - 15)**|**S50 (Jun 16- 29)**|
 |-----------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 |[Typeahead POC 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)            |TBD |TBD |TBD |TBD|TBD |TBD |TBD |
 |[Typeahead 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)             |TBD |Launch to 100% users, notify stakeholders |TBD |TBD|TBD |TBD |TBD |
