@@ -2,7 +2,15 @@
 
 3/11/21, Liz Lantz
 
-Sought answers to these questions to prepare for the design phase of adding preferred facilities to VA.gov profile:
+## Activities
+
+- Review the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) 
+- Meeting with Samara for intro to the work + product background
+- Intro meeting w/ Lauren + Peter from VAOS team
+- Reviewed [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research) on VAOS scheduling flow
+- Sought answers to the questions below to prepare for the design phase of adding preferred facilities to VA.gov profile:
+
+## Follow-up questions
 
 **How is VAOS currently integrated into the VA.gov Auth Exp?**
 
@@ -49,9 +57,8 @@ Sought answers to these questions to prepare for the design phase of adding pref
 - Searched our va.gov-team repo, and [asked in DSVA Slack](https://dsva.slack.com/archives/C0NGDDXME/p1615326032011100). 
 - Our research history document mentions a [study from March 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md#march-2018) led by someone still at Ad Hoc; waiting to hear back from him but not expecting that he'll know where the research folder is now.
 
-**Is there any research on the VAOS "select facility" design we can reference?**
+**Are there any relevant findings in research on the VAOS "select facility" design we can reference?**
 
-- Yes, research lives in [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research)
 -  Feedback on the [scheduling flow in this Figma board](https://www.figma.com/file/2VX8fV3vdJyxHbwt2fzUG5/Self-Schedule-Synthesis?node-id=0%3A2463) suggests users easily understood sorting the facility list by proximity to them
 - A [study conducted in July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md#scheduling-an-appointment-flow-vaosr) called out some facility related recommendations; including city + state with facility name is the most relevant to our work here.  So far, have not been able to find quotes or additional data to support the reasoning behind this recommendation but I don't disagree with that information.
 - There are not any clear research findings or recollections from team members on the current iteration of VAOS facility listings that we see in staging today.
