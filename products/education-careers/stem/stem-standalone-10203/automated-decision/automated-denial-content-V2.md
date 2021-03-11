@@ -75,8 +75,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
      
         (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
 
-
-{ END: STEM Program eligible Reason }
+{ END: STEM Program eligibility }
 
         
  ### What should I do if I disagree with your decision? { H3 }
