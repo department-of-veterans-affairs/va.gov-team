@@ -5,7 +5,7 @@
 - Results Page Redesign
 - Search Input Research 
 
-## Research & Support 
+## Public Websites 
 
 ##### Near Term Initiatives:
 - Resources and Support: Share to Mobile / Share to email (Veteran helping Veterans)
