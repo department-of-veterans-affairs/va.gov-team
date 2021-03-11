@@ -66,8 +66,10 @@ OK, please share your screen, and we'll get started.
 - If eveything looks good, click the update button. Now click to continue.
   - [ ] **UAT item:** Confimation modal shows
   - [ ] **UAT item:** Success message shows
-- Please review/enter your bank information once more.
+- Please review your bank information once more.
   - [ ] **UAT item:** User confirms bank info looks accurate
+- In about a minute, you should receive an email from us with the subject line: "Confirmation – Your direct deposit information changed on VA.gov"
+  - [ ] **UAT item:** User confirms email received
 
 ## Wrap-up
 Well that's the end of what we're testing. Do you have any questions or comments about the form or the direct deposit process?
