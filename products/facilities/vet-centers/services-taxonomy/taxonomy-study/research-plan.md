@@ -9,7 +9,7 @@ The goal of this study is to understand how Veterans and their families understa
 - Veteran connections [new taxon]
 - Whole health [existing taxon]
 
-What about:
+> What about:
 - Community outreach
 - Grief and bereavement counseling
 - Recreational and creative arts therapy
