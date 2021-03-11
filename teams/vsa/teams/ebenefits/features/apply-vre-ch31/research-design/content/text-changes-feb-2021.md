@@ -24,9 +24,9 @@ JA: Went with "Receive"
 JW:✔  
 JA:✔
 ### Page 3
-  - **Comment 1:** `Nothing noted`  
-JW:🙋‍♂️ Is this intended?   
-JA:    
+  - **Comment 1:** `Nothing noted, misplaced comment note`  
+JW:✔    
+JA:✔  
   - **Comment 2:** add the word "may"  between "benefits" and "include:"  
 JW:✔  
 JA:✔ There were subsequent revisions to the orientation module, so line says, "These may include:"  
@@ -36,9 +36,9 @@ JA:✔
   - **Comment 4:** I think we should add:  Generally, if you are entitled to both VR&E services and eligible for Education benefits, using VR&E benefits might be more beneficial.  You should speak to a VRC before deciding.  
 JW:🙋‍♂️ Does this add more complexity? How do they get a hold of a VRC and when?  Should that be done before, instead of or after completing this form?  
 JA: The LOB re-write is confusing here... Will re-write.
-  - **Comment 5:** `Nothing noted`   
-JW:🙋‍♂️ Is this intended?   
-JA:    
+  - **Comment 5:** `Nothing noted, misplaced comment note`  
+JW:✔    
+JA:✔    
   - **Comment 6:** Instead of the example (which may not be correct)  state, If you are eligible for VR&E and another VA education benefit, speak with your Vocational Rehabilitation Counselor (VRC) to determine the best fit for you.     
 JW:🙋‍♂️ Same as Comment 4 above - lets get clarity on these   
 JA:    
@@ -67,7 +67,7 @@ JA:✔
 ### Page 5
 `No comments`
 ### Page 6
-  - **Comment 1:** restate and say "This track is  for claimants who served on active duty or in the National Guard and are now returning to their former job."  
+  - **Comment 1:** restate and say "This track is for claimants who served on active duty or in the National Guard and are now returning to their former job."  
 JW:✔   
 JA:❌ No, kept what was there--more nicely stated 
 ### Page 7
