@@ -1,6 +1,6 @@
 ### User Testing Session 1 - Tim Hudak, VEO
 
-- Wanted 4 Audiences -- so w/o that option he discovered he could just typed in additional audiences -- e.g. and their families and survivors
+- Wanted four Audiences -- so w/o that option he discovered he could just typed in additional audiences -- e.g. and their families and survivors
 - Can't edit existing promos -- you have to remove and add
 - For photo additions: Save & Select vs. Save & Insert is confusing
 - Picking Content Governance was missed every time.
