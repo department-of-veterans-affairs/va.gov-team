@@ -27,6 +27,8 @@
 - This isn't in scope for an MVP or something Veterans can currently do online (as far as we know). 
 - Currently they need to register through the facility.
 
+## These bullet points need a little bit of reworking - they feel a little disjointed. I think that first bullet point could be broken into two separate ones and there needs to be a bit more explanation on that second bullet. 
+
 **Are there any plans for VAOS to be used for non-medical appointments in the future?**
 
 - No
@@ -69,8 +71,10 @@
 - We are unsure if this is meaningful but we hypothesize that it is not
 - We can get rid of them in our implementation
 
+## These answers feel little vague to me - how do we know that we can get rid of them in our implmentation if we don't know if they are meaningful? Maybe just explain this one a little more.
+
 **What does the data look like that we get from MVI about facilities?**
 
 - The backend has access to user friendly names for the facilities which are also used by the facility locator. 
 - We are not aware of any way to sort facilities by most recently visited but sorting by distance is doable.
-- we can use the facility code to get the full name of the facility.
+- We can use the facility code to get the full name of the facility.
