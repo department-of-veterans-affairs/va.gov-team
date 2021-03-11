@@ -40,7 +40,7 @@ An OptimalSort link will be sent to participants to participate in an unmoderate
 
 [Link to study](https://)
 
-**Recruitment strategy** 
+## Recruitment strategy
 
 - We will utilize the Perigean contract for recruiting.
 - We'd like to recruit 80 participants to reach our goal of receiving **40-60 participants** that meet the following criteria:
