@@ -219,6 +219,11 @@ Accessibility issues
 - 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons
 #19562
 
+**FE**
+
+- Focus MUST not be hidden by the sticky profile menu #19779
+- Do not try getting full name, personal info, or military info for LOA1 users #19349
+
 **BE**
 
 If unblocked by VA Profile:
