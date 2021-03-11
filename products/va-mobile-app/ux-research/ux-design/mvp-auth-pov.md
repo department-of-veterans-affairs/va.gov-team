@@ -1,6 +1,6 @@
 # Auth UX Documentation 
 
-Last updated 11/4/20
+Last updated 3/11/21
 
 #### Purpose of this document
 Document decision making for VA mobile app MVP authentication and future plans.
@@ -24,18 +24,21 @@ Given this, we will briefly communicate to users the need to verify prior to the
 **One additional note about uplevelling UX:** Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and begin/complete the verification flow and a second time to log in with their new LOA3 creds.This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies. If they are already LOA2/3 they just log in one time and no extra log in. 
 
 
-# Post-MVP
 
-### Post-MVP: Sign In Page
-Before we release the app in app stores (date TBD), we would like to work with IAM to secure a custom integration that allows us to more closely match the styling of the sign in experience on VA.gov. Some of our next steps include: 
-- Understanding how we can best provide the page/assets
-- Understanding IAM’s contraints (e.g. security guides/confirmation dialogues)
-- Ensure authenticaion meets VA Mobile App’s accessibility requirements
+# Post App Store Release
+
+### Post App Store Release: Sign In Page
+After app stores lanuch, we would like to make the following UX changes to the sign in flow: 
+- Remove 1 step from the flow: the need to "accept" a Secure Login Redirect to go from the sign-in page to their credential provider. 
+- Redesign UI of the sign in page and subsequent screens (outside of the credential provider) to match the design of the app.    
+- Streamline upleveling UX. In the future, when our persona expands, we will want to improve the upleveling experience. Right now, LOA1 are directed to uplevel when they try to sign into the app. Today, there are bumpy parts of this flow (e.g. users must sign in multiple times, users must navigate from the browser where they uplevel back to the app manually with no redirection prompt). To improve this UX, we will need ID.me to make a special mobile path to allow us to reduce redirects.
+- Audit A11y friendliness
+
 
 The ideal UX of the sign in page is likely will be very similar to the design of va.gov/sign-in. We may make some small changes such as removing the value proposition to focus solely on the sign in CTAs. 
 
 
-### Post-MVP: LOA allowance
+### Post App Store Release: LOA allowance
 We have previously discussed the pros and cons of maintaining our IAM integration post-MVP or working to secure a new integration that allows LOA 1 users in. Here's what we see as the key considerations in making a post-MVP integration decision:     
 
 #### UX 
