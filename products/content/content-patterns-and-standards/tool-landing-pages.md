@@ -40,14 +40,14 @@ We've started to move toward a slightly different pattern:
 - Where relevant, we can include "online" to differentiate from other ways to do the task.
 - Examples:
   - Change your VA direct deposit information for disability compensation, pension benefits, or education benefits online.
-  - Check the status of your VA debt and make payments or request help now.
-  - Check the status of your VA debt related to disability compensation, education, or pension benefits. And make payments or request help now.
+  - Schedule, cancel, and manage some VA health appointments online.
+  - Check the status of VA debt related to disability compensation, education, or pension benefits. And make payments or request help online.
 
 ### How can [this tool] help me [do task]?
 
 The original goal of tool landing pages was primarily SEO and targeted at newer users of the tool. We're shifting toward the goal of getting people into the tool faster. Therefore we don't need to surface this question high up on the page. We can instead either include it beneath the "can I use this tool" info or within accordions.
 
-If we have multiple tools on a page, this can be feature in a brief list beneath the sign-in modal.
+**Exception:** If we have a page (like "Manage your VA debt") that surfaces a tool but also needs to convey other important information, this can be feature in a brief list beneath the sign-in widget.
 
 **Example:**
 
@@ -70,15 +70,30 @@ Include "What type of account do I need to sign in?" as an additional informatio
  
 #### Background
 
-Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
+Some tools (particularly the health tools) have added eligibility info. Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
 
-Consider:
-- Can I use this tool?
-- Can I [do this task] online?
-- What you'll need to [do this task] online _Note: In some cases, might need to be specific (i.e., "on eBenefits") for now._
-- What to know about [doing task] online _Note: Could considering using this subhead as an H2 and then a couple specific H3s as needed_
-- Other options
+#### WIP Considerations
 
+**Can I schedule and manage health appointments online?**
+
+You can schedule and manage health appointments online if you meet all of the requirements listed below.
+
+**All of these must be true:**
+-  You're enrolled in VA health care, and
+-  You're scheduling appointments with a VA health facility that uses online scheduling, and
+-  You're registered or you’ve had an appointment at that facility before
+
+[Find out how to apply for VA health care]
+
+OR
+
+**You can use this tool if you meet all of these requirements:**
+
+- You're enrolled in VA health care, **and**
+- You're scheduling appointments with a VA health facility that uses online scheduling, **and**
+- You're registered or you’ve had an appointment at that facility before
+
+[Find out how to apply for VA health care]
 
 
 ### Information displayed as accordions
@@ -99,4 +114,4 @@ Recommend not using "FAQs" due to avoiding acronyms and recent surfacing of scre
 ### Future considerations
 
 What belongs on the tool landing pg. versus in Resources & Support? <br>
-What might belong in both places?
+What might belong in both places? (need COPE FAQs)
