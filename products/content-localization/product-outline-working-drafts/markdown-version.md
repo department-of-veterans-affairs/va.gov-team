@@ -134,10 +134,11 @@ What have you explicitly decided to not include in this initial set of functiona
 We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
-Dependencies on Other VA Systems
+Support for other VA Systems include:
 - Drupal
 - CMS
-•	Lighthouse API (???)
+- Lighthouse API (???)
+- Fareez/Michelle's input
 What’s Next
 - Conduct stakeholder interviews (internal)
 - Investigate budget and how to engage with potential software partners
