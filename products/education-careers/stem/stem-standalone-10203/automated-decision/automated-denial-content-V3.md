@@ -41,7 +41,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 - You didn’t meet the benefit requirements for the Rogers STEM Scholarship. 
 
-     - According to your service and school data records on file, as of [MM/DD/YYYY], you have more than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
+     - According to your service and school data records on file, as of { Mon. DD, YYYY }, you have more than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
 
      - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).  
      
@@ -74,7 +74,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
  - You're eligible for Post-9/11 GI Bill benefits
  
-    - According to your service and school data records on file, as of [MM/DD/YYYY], you're eligible for Post-9/11 GI Bill benefits.
+    - According to your service and school data records on file, as of { Mon. DD, YYYY }, you're eligible for Post-9/11 GI Bill benefits.
     
     - By law, all Rogers STEM scholarship recipients must be eligible for Post-9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
      
@@ -85,7 +85,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
  - You meet the benefit requirements for the Rogers STEM Scholarship 
      
-    - According to your service and school data records on file, as of [MM/DD/YYYY], you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
+    - According to your service and school data records on file, as of { Mon. DD, YYYY }, you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
    
     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
 
