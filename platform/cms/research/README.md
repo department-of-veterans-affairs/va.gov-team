@@ -5,7 +5,7 @@ This lists all formal research with CMS users. Feature-specific research should 
 _VA.gov CMS team: Jordana Mello, Rachel Kauff, Natalie Dunbar_
 
 * 3 participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/vet-center)
 
 
 #### January, 2021: CMS Help Center and JSD widget 
