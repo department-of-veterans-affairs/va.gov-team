@@ -116,15 +116,17 @@ Out of Scope
 
 Assumptions
 Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
-- Some Veterans and their family members need or prefer COVID-19 and other content content about VA health care and benefits in Spanish.
+- Some Veterans and their family members need or prefer COVID-19 and other content content about VA health care and benefits in Spanish and Tagalog.
 - Users will be able to find and easily link/toggle to translated content.  
-- Google translate widget or machine learning alone will not be an acceptable translation option for our MVP and Tier 1 content.
-- An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) 
+- Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
+- An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) (remove???)
+
 # Solution Approach
 What are you going to build now, and why have you decided to start there? 
-We are going to start with translating the coronavirus FAQs page via front-end solution (not involving Drupal). We'll then widen translation to an MVP using a long-term option.
 
-For the longer-term MVP we will be investigating options using a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
+
+For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
 Why this solution / approach over other solutions / approaches? 
 This is the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a longer-term solution.
