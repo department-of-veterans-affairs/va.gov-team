@@ -1,10 +1,10 @@
-# VEText Agile Cadence
+# VEText Agile Workflow
 *Edited 03/21*
 
 ## Overview
 The VEText team needs to build **velocity** without losing **momentum**.  
 
-This cadence focuses on maximizing the team's ability to work while adding enough structure to address pain points.
+This workflow focuses on maximizing the team's ability to work while adding enough structure to address pain points.
 
 As with all agile processes, this will be continually reviewed and refined to meet the needs of the team. 
 
