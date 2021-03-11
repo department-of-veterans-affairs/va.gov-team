@@ -6,5 +6,5 @@
 2. Include ability to sort the optional Panels. (Explore implications of allowing the user to make Video a Hero option.)
 3. Build-in a "Sign Up for Newsletter" component or Panel with integration to [GovDelivery](https://admin.govdelivery.com/session/new)
 4. Make Video authoring experience easier and more flexible
-
+5. Overall, believes the CLP is simple enough -- easier in many ways than TeamSite and existing Blog-creation tool <?> -- that any digital comms staffer could use as is w/o training (both those at the VACO and at the field level).
 
