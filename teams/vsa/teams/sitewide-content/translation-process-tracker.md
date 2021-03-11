@@ -3,4 +3,4 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FAQs | | | | | | | | |
 | Vaccine | | | | | |3/8 4.5 hours | | 3/8 4 hours |
-| Vaccine updates for Janssen vaccine | | 3/2 | 3/10 | 3/10 | 3/10 |
+| Vaccine updates for Janssen vaccine | | 3/2 | 3/10 8 hours | 3/10 8 hours | 3/10 |
