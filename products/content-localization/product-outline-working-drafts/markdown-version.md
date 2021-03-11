@@ -90,17 +90,12 @@ Key Performance Indicators (KPIs)
 
 •	From KPI worksheet:
 - Customer Engagement/Pageviews 
-- ~Time to generate translated content~
 - Time to generate and deploy translated content (north star metric, intenral)
-- Net Promoter Score (NPS) - how likely to rec?
+- Net Promoter Score (NPS) - how likely to recommend? (internal)
 - Average satisfaction rating across translated VA.gov
 
-- Error rate
-
-
-	
 Objectives and Key results (OKRs)
-Objective 1:  Meet Veterans' and their family members' need for Spanish language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
+Objective 1:  Meet Veterans' and their family members' need for Spanish and Tagalog language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
 - Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q.
 - Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021.
 - Key result 3: Satisfaction rating for translated content
@@ -113,8 +108,8 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 
 ________________________________________
 In Scope
-- Providing Spanish versions of the Corona FAQs, Research Volunteer and Covid Vaccine pages 
-- TBD for long-term MVP
+- Providing Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
+- Create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
 Out of Scope
 - Site-wide roll-out or centralized translation management
 - Updates/changes for English version of pages found during translation effort (bugs will be captured and addressed by team owners)
