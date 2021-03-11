@@ -10,18 +10,18 @@ The goal of this study is to understand how Veterans and their families understa
 - Whole health [existing taxon]
 
 > What about:
-- Community outreach
-- Grief and bereavement counseling
-- Recreational and creative arts therapy
+> - Community outreach
+> - Grief and bereavement counseling
+> - Recreational and creative arts therapy
 
 **Research questions**
 - Do the current taxon (service names) make sense to Veterans and their families? 
 - Does a Veteran's interpretation of the taxons match the descriptions used by VA? 
   - How would a Veteran define and/or describe the taxons in their own words? 
 
-Maybe:
-- How would Veterans organize/categorize taxons?
-- How should taxons and their descriptions evolve for Veterans to immediately understand them?
+> Maybe:
+> - How would Veterans organize/categorize taxons?
+> - How should taxons and their descriptions evolve for Veterans to immediately understand them?
 
 **Hypothesis**
 - Participants' interpretation of "Whole health" will match the intended meaning. 
@@ -30,11 +30,10 @@ Maybe:
 - Participants' interpretation of "Couples/Family counseling" will match the intended meaning. 
 - Participants' interpretation of "Veteran connections" will match the intended meaning. 
 
-OR
-
-- Interpretations of taxons will vary by cohort (e.g. gender, age/era, Veteran vs family of the Veteran)
-- Veterans will group services together that are not currently listed in the same categories
-- New groupings/categories will emerge that do not currently exist
+> OR
+> - Interpretations of taxons will vary by cohort (e.g. gender, age/era, Veteran vs family of the Veteran)
+> - Veterans will group services together that are not currently listed in the same categories
+> - New groupings/categories will emerge that do not currently exist
 
 ## Method	
 An OptimalSort link will be sent to participants to participate in an unmoderated card sorting activity.	This method will help us answer our research questions by providing Veterans and their families the opportunity to complete the study in their own time without introducing moderator bias.
