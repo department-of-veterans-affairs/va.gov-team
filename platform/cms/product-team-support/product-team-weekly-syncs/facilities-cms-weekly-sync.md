@@ -25,11 +25,11 @@
 
 1. The state of Vet Center CMS build
 2. Content entry for Escanaba
-  * Page introduction should be required on both Vet Center and Vet Center Locations List
-  * Change media image to media library
-  * Remove First name and Last name and Company from field_address'
-  * Make revision log required on Vet Center content types
-  * remove field_hours and add field_office_hours for CAP. Don't require them. 
+  * Page introduction should be required on both Vet Center and Vet Center Locations List #4624
+  * Change media image to media library #4625
+  * Remove First name and Last name and Company from field_address' #4626
+  * Make revision log required on Vet Center content types #4628
+  * remove field_hours and add field_office_hours for CAP. Don't require them. #4627 
 4. Role of preview server for new work.
   * Preview doesn't respect feature flags
   * decision: not critical for VAMC policies page epic, but desirable in the future.  
