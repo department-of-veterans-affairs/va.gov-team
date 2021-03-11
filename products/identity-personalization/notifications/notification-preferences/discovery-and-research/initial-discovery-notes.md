@@ -18,7 +18,7 @@
 
 - **Are all communication items available via both text and email?**
 
-  No, not all. Some items will be single channel for now
+  No, not all. Some items will be single channel for now.
   
   ## Do we know what these are at all? (If not no worries, but it might be nice to have in this doc if you do know them)
 
