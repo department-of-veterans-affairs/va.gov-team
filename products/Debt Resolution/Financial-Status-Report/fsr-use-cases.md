@@ -51,7 +51,8 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
 * **Description**
   - Veteran has only 1 debt on record -- can only choose that single debt in FSR form debt-selection page.
 
-* **Link to designs** https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701779/ [debt-selection page], EXCEPT only 1 debt would be displayed.
+* **Link to designs**
+  - Debt-selection page: https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701779/ EXCEPT only 1 debt will be displayed.
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Login on Staging **[homepage](https://staging.va.gov)** first, then sign-in via ID.me as **`vets.gov.user+14@gmail.com` (Jerry)**.
