@@ -16,7 +16,7 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 3 min
 
-Thank you for joining us today! My name is \_\_\_\_\_\_, and I'm a designer and researcher for VA.gov. I also have some colleagues on the line observing and taking notes for me. Today we're going to talk about a new way for Veterans to submit a request for financial help for VA debts. We want to make sure that this new feature works for Veterans' needs, so I'm going to ask you a few questions about your experience with VA debt collection and have you complete a fake debt resolution request. 
+Thank you for joining us today! My name is [name], and I'm a designer and researcher for VA.gov. I also have some colleagues on the line observing and taking notes for me. Today we're going to talk about a new way for Veterans to submit a request for financial help for VA debts. We want to make sure that this new feature works for Veterans' needs, so I'm going to ask you a few questions about your experience with VA debt collection and have you complete a fake debt resolution request. 
 
 Before we start, a few things I want to mention:
 
@@ -27,7 +27,9 @@ Before we start, a few things I want to mention:
 * While you're interacting with this tool, you'll need to provide financial information such as your monthly household income and expenses. Normally this information would need to be accurate, but for the sake of this test, you can provide estimates. None of this information will be saved or affect your VA information or benefits. Are you comfortable providing this information?
 * If for any reason and at any time you want to stop the session, please let me know.
 
-## Interview Questions - 5 minBefore we jump into the session, can you describe your experience with VA debt?  
+## Interview Questions - 5 min
+
+Before we jump into the session, can you describe your experience with VA debt?  
 
 Have you ever filled out a Financial Status Report for a VA debt?  
 
@@ -35,7 +37,7 @@ Have you ever filled out a Financial Status Report for a VA debt?
 * Do you recall any parts of the form that were challenging to complete?  
 Okay, please share your screen so I can follow along with you for the next portion of our session.  
 
-##   
+
 
 ## First Task: Find info about financial assistance - 10 min
 
