@@ -16,9 +16,11 @@
      - Usability / Usefulness for Veterans? 
      - What could be optimized to improve Veteran experience?
      - Mobile/Tablet friendly experience (steps to improve/optimize). 
+
+##### Mid Term Initiatives:
 - Tier 3 content (Possible Research support - Defining)
 
-##### Future Initiatives:
+##### Long Term Initiatives:
 - Home Page Research/Redesign - Possible revamp of Homepage (Pending) 
     
 ## Find a VA Form 
