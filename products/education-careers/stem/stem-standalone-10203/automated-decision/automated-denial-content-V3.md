@@ -1,5 +1,5 @@
-*Content includes DEPO-approved content regarding STEM Program in/eligibility (STEM undergrad, Teaching Cert) and <180 days eligibility.
-*Consider incorporating Higher Level Review in place of VA Form 10182 (Higher level review)
+*Content includes DEPO-approved content regarding STEM Program in/eligibility (STEM undergrad, Teaching Cert) and <180 days eligibility.*
+*Consider incorporating Higher Level Review in place of VA Form 10182 (Higher level review)*
 
 # Card for "Check your claim or appeal status" page: #
 
