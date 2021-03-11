@@ -45,29 +45,8 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { END: Remaining Entitlement Denial Reason }
 
-{ BEGIN: STEM Program Denial Reason (answer to questions 1+2 is no)}
-
-- You didn’t meet the degree requirements for the Rogers STEM Scholarship because you answered “No” to both of the following questions on your application. 
-  - To be eligible, you must answer “Yes” to one of these questions.
-     
-    - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
-          
-    - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
-
-  - By law, all Rogers STEM Scholarship recipients must either: 
-
-       (1) Be enrolled in an eligible STEM undergraduate degree, **or** 
-     
-       (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
-     
-
-{ END: STEM Program Denial Reason }
           
 ### You met these criteria for the Rogers STEM Scholarship: { H3 } ###
-
-{ Only include applicable criteria }
-
-{ BEGIN: If EVSS finds their info, this reason will be displayed }
 
  - You're eligible for Post-9/11 GI Bill benefits
  
@@ -76,49 +55,24 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
     - By law, all Rogers STEM scholarship recipients must be eligible for Post-9/11 GI Bill (Chapter 33) benefits. (38 U.S. Code § 3320).  
      
 
-{ END:  If EVSS finds info }
-
-{ BEGIN: Entitlement eligible Reason (<= 180 days of remaining entitlement) }
-
  - You meet the benefit requirements for the Rogers STEM Scholarship 
      
     - According to your service and school data records on file, as of [MM/DD/YYYY], you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
    
     - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post-9/11 GI Bill (Chapter 33) benefits left (38 U.S. Code § 3320).
 
-
-{ End: Entitlement eligible Reason }
-
-{ BEGIN: STEM Program eligible Reason (answer to question 1 or 2 is yes) }
- - You meet the degree requirements for the Rogers STEM Scholarship 
-     
-     
-     - You meet the degree requirements because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
-     
-         - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" or
-        
-         - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
-
-     - By law, all Rogers STEM Scholarship recipients must either: 
-
-        (1) Be enrolled in an eligible STEM undergraduate degree, **or** 
-     
-        (2) Have an eligible STEM undergraduate degree and be pursuing a teaching degree
-
-
-{ END: STEM Program eligible Reason }
         
  ### What should I do if I disagree with your decision? { H3 }
  
  If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
  
-  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995. [Download VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
+  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995.  { download form } [Download VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
      
-  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996. [Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
+  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996.  { download form }[Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
      
-  - If you filed a Supplemental Claim or Higher-Level Review and don't agree with the decision, you can appeal to a Veterans Law Judge by completing VA Form 10182. [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
+  - If you filed a Supplemental Claim or Higher-Level Review and don't agree with the decision, you can appeal to a Veterans Law Judge by completing VA Form 10182. { download form } [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
 
-For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  
+For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). { download form } [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  
 
 You can also contact us at [888-442-4551]() to request any of these forms.
 
