@@ -239,6 +239,7 @@ If unblocked by VA Profile:
 - [Design] My VA: Error message documentation #21373
 - Claims error message #21370
 - Claims spinner handling #21372
+- Determine what errors we b need for "Benefits you might be interested in", if any #21445
 - Review frontend build as needed
 - If FE build is actually done, work with Trevor to do some assistive tech testing
 
