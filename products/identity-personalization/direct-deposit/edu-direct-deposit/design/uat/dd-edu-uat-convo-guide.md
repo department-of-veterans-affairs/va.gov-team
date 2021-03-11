@@ -58,7 +58,7 @@ OK, please share your screen, and we'll get started.
 - Review the information on the Direct deposit information screen. Does this look correct?
   - [ ] **UAT item:** User confirms payment type(s) are correct (EDU, C&P, both)
   - [ ] **UAT item:** User confirms bank info looks accurate
-- Next, we'll need to check the Edit feature. To do this we'll nee you to re-enter your bank info.
+- Next, we'll need to check the Edit feature. To do this we'll nee you to re-enter your bank info. You can stop sharing at this point.
 - Click on the Edit link to the right of your bank info. 
   - [ ] **UAT item:** Unpopulated form opens   
 - Review/enter your bank information.
