@@ -34,6 +34,7 @@
  - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
 - [ ] 508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them #21017
 - [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of #21020
+- [ ] Update article rating component design (learning center) [#15314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15314)
 
 
 ## Wednesday, March 3, 2021
