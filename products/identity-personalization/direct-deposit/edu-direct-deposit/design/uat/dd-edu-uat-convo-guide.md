@@ -28,7 +28,7 @@ OK, let's get started.
 Today we're going to observe you using a new direct deposit feature. This tool now displays your educational payment direct deposit bank information, and allows you to change it. I have a few questions to make sure this form is right for you:
 - I need to confirm: are you a Veteran, service member or dependent? And do you receive educational payments from VA?
   - If "no," end the session.
-- Can you confirm that you have an ID.me (etc.) account? And do you know your username and password? 
+- Can you confirm that you have an ID.me (or other type of) account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
   - If the user can not remember or retrieve their login credentials, they must complete the form unauthenticated.
 - During this call, I'll be helping you navigate a form that can change your direct deposit information. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form on the call?
