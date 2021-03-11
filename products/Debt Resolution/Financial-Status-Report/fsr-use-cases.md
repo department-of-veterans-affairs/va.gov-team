@@ -23,7 +23,7 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
   - Veteran has VA Benefits on record, which are prefilled in FSR form -- sees benefit cards displayed on benefits page.
 
 * **Link to designs**:
-  - https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701647/simulate/sitemap?mode=i [see ALL screens]
+  - [See ALL screens]: https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701647/simulate/sitemap?mode=i [Test-case for this use-case covers all flows that are common across all the use-cases]
   - Benefits page: https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/136159512/
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
