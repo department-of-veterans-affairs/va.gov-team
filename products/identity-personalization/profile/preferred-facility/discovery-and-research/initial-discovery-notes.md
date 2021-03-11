@@ -14,8 +14,8 @@
 
 **How is VAOS currently integrated into the VA.gov Auth Exp?**
 
-- Users are directed to the tool ([lives on it's own page](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/)) from  `Schedule and view appointments ` CTAs
-- MHV sends users to this tool on VA.gov (VAOS is not integrated directly into MHV)
+- Users are directed to the tool ([lives on it's own page](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/)) from  `Schedule and view appointments ` CTAs.
+- MHV sends users to this tool on VA.gov (VAOS is not integrated directly into MHV).
 
 **Given [profile will not have an integration with MHV](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md#questions), will users have to update facilities in two places?**
 
