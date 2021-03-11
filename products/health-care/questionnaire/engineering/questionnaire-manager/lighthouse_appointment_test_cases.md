@@ -1,0 +1,45 @@
+# Appointments test cases for the Lighthouse team
+### Notes
+  - An appointment will always have a location and an organization
+
+## Cases
+  - The appointment is in the future and the user has not submitted a response
+    - An Appointment exists for this user with a date in the future
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - No Questionnaire Response exists for this Appointment
+  - The appointment is in the future and the user has submitted a response
+    - An Appointment exists for this user with a date in the future
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response exists for this Appointment
+  - The appointment is cancelled in the future and the user has submitted a response
+    - A cancelled Appointment exists for this user with a date in the future
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response exists for this Appointment
+  - The appointment is cancelled in the future and the user has not submitted a response
+    - A cancelled Appointment exists for this user with a date in the future
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response does not exist for this Appointment
+  - The appointment is in the future and the user has not submitted a response
+    - An Appointment exists for this user with a date in the future
+    - A Questionnaire does not exist for this Appointment/Location/Organization
+    - A Questionnaire Response does not exist for this Appointment
+  - The appointment is in the past and the user has not submitted a response
+    - An Appointment exists for this user with a date in the past
+    - A Questionnaire does not exist for this Appointment/Location/Organization
+    - A Questionnaire Response does not exist for this Appointment
+  - The appointment is in the past and the user has not submitted a response
+    - An Appointment exists for this user with a date in the past
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response does not exist for this Appointment
+  - The appointment is in the past and the user has submitted a response
+    - An Appointment exists for this user with a date in the past
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response exists for this Appointment
+  - The appointment is cancelled in the past and the user has submitted a response
+    - A cancelled Appointment exists for this user with a date in the past
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response exists for this Appointment
+  - The appointment is cancelled in the past and the user has not submitted a response
+    - A cancelled Appointment exists for this user with a date in the past
+    - A Questionnaire exists that is associated with this Appointment/Location/Organization
+    - A Questionnaire Response does not exist for this Appointment
