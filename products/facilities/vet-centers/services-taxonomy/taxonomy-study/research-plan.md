@@ -22,6 +22,7 @@ The goal of this study is to understand how Veterans and their families understa
 > Maybe:
 > - How would Veterans organize/categorize taxons?
 > - How should taxons and their descriptions evolve for Veterans to immediately understand them?
+> - Do Veterans of different demographics interpret and define the taxons differently?
 
 **Hypothesis**
 - Participants' interpretation of "Whole health" will match the intended meaning. 
