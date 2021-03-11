@@ -2,17 +2,19 @@
 
 ## Moderator logistics  
 
-Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
+_Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers._
 
-Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into \#feedback-backchannel).
+_Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into \#feedback-backchannel)._
 
-In the Attendees section, make sure everyone except the participant is on mute
+_In the Attendees section, make sure everyone except the participant is on mute_
 
-In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
+_In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked_
 
-Check your \[screen sharing setup\]
+_Check your \[screen sharing setup\]_
 
-When the participant is ready, begin the session with the following intro
+_When the participant is ready, begin the session with the following intro_
+
+-----
 
 ## Intro - 3 min
 
@@ -27,6 +29,8 @@ Before we start, a few things I want to mention:
 * While you're interacting with this tool, you'll need to provide financial information such as your monthly household income and expenses. Normally this information would need to be accurate, but for the sake of this test, you can provide estimates. None of this information will be saved or affect your VA information or benefits. Are you comfortable providing this information?
 * If for any reason and at any time you want to stop the session, please let me know.
 
+----
+
 ## Interview Questions - 5 min
 
 Before we jump into the session, can you describe your experience with VA debt?  
@@ -34,10 +38,11 @@ Before we jump into the session, can you describe your experience with VA debt?
 Have you ever filled out a Financial Status Report for a VA debt?  
 
 * Can you tell me more about your experience completing the Financial Status Report?  
-* Do you recall any parts of the form that were challenging to complete?  
+  * [If yes] Do you recall any parts of the form that were challenging to complete?  
+
 Okay, please share your screen so I can follow along with you for the next portion of our session.  
 
-
+----
 
 ## First Task: Find info about financial assistance - 10 min
 
@@ -52,12 +57,13 @@ When you visit this site, do you normally log in before browsing?
 
 Now that you're here, what would you do to find more options for your debt? Try to move a bit slower than you normally would on a website and talk me through what you're thinking.
 
----
 
-Things to watch for:
+**Things to watch for:**
 
 * Where does the Veteran go, and what is their reasoning?
 * If the Veteran uses the search bar, what keywords do they use, and what do they think about the search results?
+
+---- 
 
 ## Second task: The FSR - 32 minutes
 
@@ -73,6 +79,7 @@ What do you think you'll see once you click on that button?
 
 Go ahead and click the green "Submit a Financial Status Report" button to move to the next step.
 
+
 ### Form introduction 
 
 Alright! What would you do next?  
@@ -85,11 +92,12 @@ Alright! What would you do next?
 
 As you move through the form, I may chime in to provide some direction or ask questions about the pages.
 
-Things to watch for
+**Things to watch for**
 
 * Does the participant mention that anything's surprising or confusing?
 
 \[Note: If the participant doesn't know information off the top of their head, let them know it's okay and have them proceed to the next section\]
+
 
 ### Chapter 1
 
@@ -99,11 +107,15 @@ Things to watch for
 
 * Is the participant able to interpret and select the cards? 
 
+
+
 #### Contact information
 
 Things to watch for
 
 * Does the participant re-enter their email address?
+
+
 
 ### Chapter 2
 
@@ -146,10 +158,12 @@ Things to watch for
   * Would you be able to provide this information?
 * What do you think about needing to provide your spouse's information?
 
-Things to watch for
+**Things to watch for**
 
 * Does the participant seem comfortable with providing their spouse's information? 
 * Does the participant know their spouse's employment information, or would they need their spouse's assistance?
+
+
 
 ### Chapter 3
 
@@ -161,7 +175,7 @@ Things to watch for
 
 To protect your personal information, you may use fake values for these fields.
 
-Things to watch for
+**Things to watch for**
 
 * Does the participant appear to be unsure about any of the fields? 
 
@@ -170,7 +184,7 @@ Things to watch for
 * \[If they own real estate\] 
   * What resource would you use to estimate your property's value?
 
-Things to watch out for
+**Things to watch out for**
 
 * Does the participant mention any concern for providing this information?
 
@@ -179,7 +193,7 @@ Things to watch out for
 * \[If they own these assets\] 
   * What resource would you use to estimate their value?
 
-Things to watch out for
+**Things to watch out for**
 
 * Does the participant mention any concern for providing this information?
 * How does the participant estimate the value of their asset? 
@@ -189,7 +203,7 @@ Things to watch out for
 * \[If they own a vehicle\] 
   * What resource would you use to estimate the value of your vehicle(s)?
 
-Things to watch out for
+**Things to watch out for**
 
 * Does the participant know what their car's make, model, and year?
 * Does the participant mention any concern for providing their vehicle's information?
@@ -199,7 +213,7 @@ Things to watch out for
 
 #### Other assets
 
-Things to watch out for
+**Things to watch out for**
 
 * Is the initial question clear? Does the participant understand what 'additional assets' entails?
 * Is the participant able to quickly add items to the list?
@@ -210,7 +224,7 @@ Things to watch out for
 
 #### Household expenses
 
-Things to watch out for
+**Things to watch out for**
 
 * What is the participant's reaction to providing their estimated household expenses?
 * Does the participant express any feelings after adding assets and being asked for expenses? 
@@ -224,14 +238,14 @@ Go ahead and add a few utilities
 
 Let's say you realized you put in the wrong payment amount for \[utility bill\]. Show me how you would edit that information.
 
-Things to watch out for
+**Things to watch out for**
 
 * Is the participant able to quickly update the utility bill's payment amount? 
 * What utilities come easily to the participant? Which ones take some extra thought?
 
 #### Installment contracts and other debts
 
-Things to watch out for
+**Things to watch out for**
 
 * Is the initial question clear? 
 * What types of things does the participant put for 'purpose of debt'? Does this align with what's expected?
@@ -243,7 +257,7 @@ Things to watch out for
 * \[If they have additional living expenses\] 
   * Go ahead and add a few additional living expenses and talk me through your thoughts as you do so.
 
-Things to watch for
+**Things to watch for**
 
 * Does the participant understand what qualifies as an additional living expense?
 * What does the participant write for 'type of expense'? Does it align with the predetermined list?
@@ -261,7 +275,7 @@ Things to watch for
   * \[If no,\] what other information would be helpful?
 * Let's say you want to request a waiver for the post-9/11 GI bill debt for housing. Show me how you'd go about doing that. 
 
-Things to watch for
+**Things to watch for**
 
 * Does the participant accept the results of the financial overview section?
 * Does the participant understand each debt resolution option?
@@ -270,7 +284,7 @@ Things to watch for
 
 * What sort of information would you include in this section?
 
-Things to watch for
+**Things to watch for**
 
 * Are the requirements of this section clear? 
 * Does the participant state they'd include information we're expecting in this section?
@@ -284,7 +298,7 @@ Go ahead and complete this section to the best of your ability as if you were su
 * \[If they do have bankruptcy history\] 
   * Would you be able to provide information about your bankruptcy history?
 
-Things to watch for
+**Things to watch for**
 
 * If the participant has a history of bankruptcy, are they able to provide the corresponding information?
 * Does the participant need to add multiple instances of bankruptcy?
@@ -296,7 +310,7 @@ Things to watch for
 * Let's say you forgot to add an additional asset. Show me what you would do to add that item. 
 * What would you expect to happen after you submit the form?
 
-Things to watch out for
+**Things to watch out for**
 
 * Does the participant mention anything about the signature checkbox component?
 * Is the participant able to easily edit the list loop component from this screen?
