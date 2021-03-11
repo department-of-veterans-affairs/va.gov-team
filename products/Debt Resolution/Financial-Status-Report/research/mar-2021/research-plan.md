@@ -106,7 +106,7 @@ This criteria contains nice-to-haves that creates a diverse participant pool.
 
 **1\. Timeline: What dates do you plan to do research?**
 
-March 17-22
+March 19-24
 
 **2\. Prepare: When will the thing you are testing be ready?**
 
@@ -122,10 +122,10 @@ Please schedule 30 min buffer between sessions
 
 **4\. Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
-* March 17: 9:30am - 5:00pm EST
-* March 18: 9:30am - 5:00pm EST
 * March 19: 9:30am - 5:00pm EST
 * March 22: 9:30am - 5:00pm EST
+* March 23: 9:30am - 5:00pm EST
+* March 24: 9:30am - 5:00pm EST
 
 Please allow at least 30 minutes between sessions
 
