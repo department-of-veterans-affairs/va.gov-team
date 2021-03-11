@@ -9,11 +9,6 @@ The goal of this study is to understand how Veterans and their families understa
 - Veteran connections [new taxon]
 - Whole health [existing taxon]
 
-> What about:
-> - Community outreach
-> - Grief and bereavement counseling
-> - Recreational and creative arts therapy
-
 **Research questions**
 - Do the current taxon (service names) make sense to Veterans and their families? 
 - Does a Veteran's interpretation of the taxons match the descriptions used by VA? 
