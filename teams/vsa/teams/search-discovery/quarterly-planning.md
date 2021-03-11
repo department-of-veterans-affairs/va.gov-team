@@ -12,8 +12,8 @@
 |[Typeahead POC 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)          |n/a |n/a |n/a |Define strategy + list of terms to suggestion database|
 |[Results Page Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20402)             |n/a |n/a |Define |Design Exploration|
 |[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |~~Knowledge transfer from PW~~ Delayed  |Knowledge transfer from PW |
-|[Click Tracking]()             |n/a |n/a|n/a |Explore Best Bet Implementation|
-|[Site Indexing]()             |n/a |n/a|n/a |Exploration to understand what we do today and what we can control on FE|
+|[Click Tracking]()             |n/a |n/a|n/a |(Stretch)Explore Best Bet Implementation|
+|[Site Indexing]()             |n/a |n/a|n/a |(Stretch) Exploration to understand what we do today and what we can control on FE|
 
 
  ***Q2: Apr-Jun***
