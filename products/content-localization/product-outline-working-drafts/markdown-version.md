@@ -11,7 +11,7 @@ We outline 3 key aspects of this problem:
   - “People with low health literacy use more health care services, have a greater risk for hospitalization, and have a higher utilization of expensive services, such as emergency care and inpatient admissions. Vulnerable populations include older adults, immigrant populations, minority populations, and low income populations.” [footnote i.] 
   - “Anxiety acts as both a catalyst for information seeking and an obstacle to the ability to read and interpret written messages…when [no information] is found or when the message itself is difficult to comprehend, anxiety is likely to rise…This cycle…can fuel panic and lead to maladaptive behaviors, such as unnecessary trips to emergency rooms or overuse of other emergency resources.” [footnote ii.]
 
-- Congressional pressure: Additionally, Congress has recently asked VHA to provide COVID-19 content (and other essential content) in Spanish. As we work to meet this important and timely need we also need to be working toward an effective and sustainable approach for the future.
+- Congressional pressure: Additionally, Congress has recently asked VHA to provide COVID-19 content (and other essential content) in Spanish and Tagalog. As we work to meet this important and timely need we also need to be working toward an effective and sustainable approach for the future.
 
 ## Objectives
 
@@ -25,7 +25,7 @@ First. we will identify and prototype a scalable and sustainable potential solut
 
 This solution will take into consideration the complexities that product owners, content creators, and local site administrators face with providing high-quality translated information that can be easily kept up to date.
 
-At the conclusion of this project, we will have an evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. (Should we also say something about sharing our experience/findings with other government website owners?)
+At the conclusion of this project, we will have ~an~ written evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. (Should we also say something about sharing our experience/findings with other government website owners?)
 
 We will also provide a report further detailing the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
 
@@ -45,7 +45,7 @@ The audiences we will address include:
 1.	Vets/caretakers
 2.	Product Owners
 3.	Writers
-4.	Local Sites (?)
+4.	Local Sites (eg VAMC's?)
 
 Desired User Outcomes
 - Limited English proficiency (LEP) Veterans, family members and caregivers have a better understanding of the VA benefits and services they have earned.
@@ -58,8 +58,8 @@ Undesired User Outcomes
 
 Desired Business Outcomes
 - Meet federal/agency requirements for providing translated benefit information.
-- VHA demonstrates to Congress that we are providing essential COVID-19 information in Spanish and working towards viable longer-term approach
-- DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on MVP, data and user feedback
+- VHA demonstrates to Congress that we are providing essential COVID-19 information in Spanish and Tagalog while working towards a viable longer-term approach
+- DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on ~MVP~ evaluation, data and user feedback
 - VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (Spanish first)
 - Product Owners and writers have a clear, manageable process for providing translated content and keeping it up-to-date
 
@@ -81,7 +81,7 @@ The total number of pageviews across VA.gov with browser set to “Spanish” fr
 
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
-•	Measurements for search and direct traffic to the Spanish pages
+•	Measurements for search and direct traffic to the Spanish pages 
 •	Call center inquiries
 •	Direct user feedback via usability testing
 •	We will include a Medallia survey on translated pages to collect customer feedback. 
@@ -89,9 +89,9 @@ Key Performance Indicators (KPIs)
 •	Reduction in translation costs?
 
 •	From KPI worksheet:
-- Customer Engagement/Accuracy (might be an averaged customer engagement metric across all translated content on VA.gov)
-- Time to generate translated content
-- Time to deploy translated content (north star metric)
+- Customer Engagement/Pageviews 
+- ~Time to generate translated content~
+- Time to generate and deploy translated content (north star metric, intenral)
 - Net Promoter Score (NPS) - how likely to rec?
 - Average satisfaction rating across translated VA.gov
 
@@ -101,12 +101,12 @@ Key Performance Indicators (KPIs)
 	
 Objectives and Key results (OKRs)
 Objective 1:  Meet Veterans' and their family members' need for Spanish language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
-- Key result 1: Provide Spanish language versions of Coronavirus pages by 1Q.
-- Key result 2: Launch MVP for by 2Q 2021.
+- Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q.
+- Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021.
 - Key result 3: Satisfaction rating for translated content
 - Key result 4: Customer Engagement
 
-Objective 2: Provide writers with an automated workflow to request, track and manage translated content 
+Objective 2: Provide a recommendation for a scalebale solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
 - Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
 - NPR/Satisfaction survey
 
