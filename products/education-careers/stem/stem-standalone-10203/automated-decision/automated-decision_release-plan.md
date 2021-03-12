@@ -75,12 +75,15 @@ We anticipate moving from 50% to 100%, skipping a stage b.
 ## Go Live!
 
 ### Planning:
-- Desired date for initial launch: 03/26/2021
+- 3/15-3/26: Moderated Production user acceptance testing with select group of Veterans (5-10 participants)
+- 03/29-04/09: Limited Production Rollout – Functionality will be made available in production to certain percentage of population over the course of the sprint (25%, 50%, 75%)
+- 04/12-04/23: Full production rollout to entire VA.gov population
+#### KPIs 
 - Post-launch KPI 1: Average amount of time required to process STEM applications in the Buffalo RPO 
 - Post-launch KPI 2: Number of STEM denials processed by the Buffalo RPO is reduced with no more denials being processed for denial reason of more than 6 months remaining entitlement.
 - Post-launch KPI 3: Number of STEM automatic denials that go on to the appeals office (most appeals are related to program of study, so for this release we expect nearly zero appeals. 
 
-- Go / No Go: GO
+- Go / No Go: 
 
 ### 1-week results:
 - Number of unique users: 
