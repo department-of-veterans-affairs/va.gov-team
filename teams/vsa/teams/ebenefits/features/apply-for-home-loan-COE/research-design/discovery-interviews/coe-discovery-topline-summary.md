@@ -17,12 +17,15 @@ Our first goal is to determine where a COE tool fits into the overall user journ
 
 ## Participants and testing sessions
 
-We scheduled 10 sessions beginning March X; the last session was conducted March Y. Eight of the 10 participants attended.
+We scheduled 10 sessions beginning March 2; the last session was conducted March 5. Eight of the 10 participants attended.
 
 ## Guiding questions
 
 ### How and when did participants find out about VA loan benefits?
-- ZZZ
+- Many participants couldn't recall when/where they specifically heard about VA loan benefits
+- Word-of-mouth was a popular response
+- Several cited TAP and other outprocessing programs
+- A few had friends and family members get VA-backed loans
 
 ### Where did participants look for information about VA-backed loans?
 - ZZZ
@@ -44,41 +47,33 @@ We scheduled 10 sessions beginning March X; the last session was conducted March
 
 ### Would participants use VA.gov for information, tools or applications in the future?
 - ZZZ
-<!--
-#### Expectations
-- Almost every participant said they expected further notification that their DD change was made
-- Email and texts were cited as examples for expected confirmation
-- Several users expected a long wait if they needed to call the 800 number with an inquiry
-- Most users felt the DD change would take effect (or should take effect) immediately or soon
-- A pair of participants believed there could be a processing delay of 30 days or a month
-
-### How do users react to the two different "categories" of payments--and having to change them separately?
-- Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
-- One user was notably irritated that there were two direct deposit "boxes" and wanted to know why there couldn't be just one
-- Users who were directed to change their EDU payments used the correct feature; participants who were not directed to a particular payment type, went to C&P first
-- Participants generally accepted, and even regarded favorably the "you don't receive this kind of payment" notice
-
-### What other features do users expect on the DD screen?
-- The top improvement cited by participants was a chat-box for inquiries and confirmation
-- Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
 
 ## Hypotheses
 
-### Users may have some difficulty locating their direct deposit information
-This was true for a majority of users. A generational divide was evident here, with younger users expecting (and finding) a user profile section, and older users looking for a direct link or content page regarding DD.
+### Participants initially heard about VA loan benefits via word-of-mouth
+- ZZZ
 
-### Users will rarely, some occasionally, change their direct deposit information
-Generally true. Participants general remembered having to change DD info at some point, though the consensus was "not often." Only one participant actually remembered making a change, and this participant said they need to change their bank and DD info multiple times.
+### Participants expected their lenders to know about VA-backed loans
+- ZZZ
 
-### Participants will accept and easily navigate the DD edit function
-This was resoundingly true. No user had any issues making a change to the DD info--either singly or both. All participants were satisfied with the interface and ease of use. 
+### Participants generally followed their lenders' leads through the loan process
+- ZZZ
 
-### Participants will have some questions/hesitation about two distinct Direct Deposit features
-Not true. Only one participant expressed frustration with having to manage two sets of DD info. Several beleived it was reasonable that different payment type had different DD info (even if it was the same bank).
+### Participants received COEs either via a VA office or through their lender
+- ZZZ
 
-### Users may want more information about the DD change process
-This was somewhat true. Generally users accepted what they saw on-screen. A few users liked having the View Payments link. However no participant saw the fraud box until prompted to scan/review the screen. Two participants said this note should be more prominent.
+### Participants found the VA-backed loan process generally confusing
+- ZZZ
 
+### Process stumbling blocks arose around documentation issues, however COE was likely fairly straight-forward
+- ZZZ
+
+### Participants will want a simple, easy to follow, bulletized process flow with direct links (email, chat, phone numbers) to VA problem-solvers
+- ZZZ
+
+### Participants would use VA.gov if it provided easy to follow guidance and direct avenues to address process issues
+- ZZZ
+<!--
 ## Other notes
 - Several participants noticed the View Payments link; three said they would reference payment history if/when making changes to their DD info
 - All participants except one said they would like a chat function available for inquiries or confirmation; one user in particular, said they did not want to wait for call center hours if there was suspected fraud, and a chat box would provide an immediate response
