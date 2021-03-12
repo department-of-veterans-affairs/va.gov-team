@@ -17,18 +17,18 @@ on the amount of time VFS and VSP teams spend in implementing the data layer and
 - This implementation comprises of two main components: 1) the configuration of custom events within each design system copmonent to collect the relevant metadata and 2) the event listener attached to the body of VA.gov to listen for the custom events and in-turn push to the data layer to be picked up by GTM
 
 ### Sensitive Components
-- The majority of design system components have been configured to push these events automatically when the components are used within the application
+- The majority of design system components have been configured to push these events automatically when the components are used within the application.
 - That said, there are several components that by default do **NOT** collect metadata by default due to the nature of how these components are often used for PII-related inputs, those components are: 
-  - `TextInput.js`
-  - `TextArea.js`
-  - `NumberInput.js`
-  - `Select.js`
-  - `Checkbox.js`
-  - `CheckboxGroup.js`
-  - `RadioButton.js`
-  - `MonthYear.js`
-  - `Date.js`
-- While these copmnents have been reviewed by the VSP Identity team, it is still at the responsibility of the VFS team to conduct a security review before data collection of these components can begin 
+  - `TextInput`
+  - `TextArea`
+  - `NumberInput`
+  - `Select`
+  - `Checkbox`
+  - `CheckboxGroup`
+  - `RadioButton`
+  - `MonthYear`
+  - `Date`
+- While these components have been reviewed by the VSP Identity team, it is still at the responsibility of the VFS team to conduct a security review before data collection of these components can begin.
 
 
 ### Component Embed Schedule
