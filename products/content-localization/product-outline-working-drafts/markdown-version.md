@@ -2,7 +2,6 @@
  
 ## Table of Contents:
 
-
   * What is the Problem to be Solved?
   * Objectives
   * Our Bet
@@ -14,9 +13,7 @@
   * Go-to-Market Strategy
   * Key Artifacts
   * Technical Artifacts
-
-
-
+  * Status and Decisions
 
 ## What is the Problem to be Solved?
 
@@ -89,14 +86,12 @@ Undesired Business Outcomes
 
 ## Our Bet
 
-
 ## Measuring Success
 
 Baseline Analytics:
 From March 15, 2020, to December 31, 2020 the total number of Pageviews visiting the coronavirus FAQs in Spanish was 144k. 
 The total number of pageviews across VA.gov with browser set to “Spanish” from Jan 1 -20 was 55,505k.
 (more data will be added once we have dashboard set up)
-
 
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
@@ -125,6 +120,7 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 - NPR/Satisfaction survey
 
 ## Product Requirements 
+
 - Providing Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
 - Create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
 Out of Scope
@@ -139,6 +135,7 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) (remove???)
 
 ## Solution Approach
+
 What are you going to build now, and why have you decided to start there? 
 
 We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
@@ -151,11 +148,7 @@ What have you explicitly decided to not include in this initial set of functiona
 We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
-Support for other VA Systems include:
-- Drupal
-- CMS
-- Lighthouse API (???)
-- Fareez/Michelle's input
+
 What’s Next
 - Conduct stakeholder interviews (internal)
 - Investigate budget and how to engage with potential software partners
@@ -180,16 +173,9 @@ o	January 22, 2021 for coronavirus FAQs page
 •	What date will you evaluate impact after launch?
 o	Updated: 3 months post launch (mid-April 2021)
 ________________________________________
-Solution Narrative
-Current Status
-Preparation work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We kicked-off the first phase of this project with the VSP platforms team on 11.24.20.
-Key Decisions
+
 ________________________________________
-Screenshots
-Before – could be a process flow diagram of what we had to do for Corona FAQs
-After – show simplified version for MVP
-________________________________________
-For Reference
+## For Reference
  
 For WIP usability session discussion guide, mockup Spanish content, project brief:
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Products/Global/Benefits%20Spanish%20Localization
@@ -205,26 +191,29 @@ VA.gov-Spanish-benefits-link-user-research-061019.pdf
 Coronavirus MVP Docs
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp 
 
-Communications
-•	GitHub Label: TBD
-•	Slack channel: #vsa-content-localization 
-•	Product POCs: danielle.thierry@va.gov 
-•	Stakeholders: Dave Conlon
 
-Team
-•	VA Digital Strategist(s): Danielle Thierry 
-•	Product Manager: Sharon Kasimow
-•	Design Lead: TBD
-•	Eng Lead: Fareez Ahmed
-•	Engineers: TBD
+### Content & LOcalization Team Members
+|Name|Role|
+|----|----|
+|Danielle Thierry	| Content & Localization Product Owner|
+|Sharon Kasimow	| Content & Localization Product Manager|
+|Fareez Ahmend	|FE Engineer|
+|Michelle Steigerwalt | DEPO Engineer
+|Eunice Garcia	| |
+
+
 
 ________________________________________
-Implementation Info
-Status
-Technical Decisions
-Product Decisions
+## Implementation Info
+## Status
+## Technical Decisions
+## Product Decisions
+## Solution Narrative
+## Current Status
+11.24.20: work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We kicked-off the first phase of this project with the VSP platforms team on 
 
-Footnotes:
+## Key Decisions
+## Footnotes
 
  i. https://nnlm.gov/initiatives/topics/health-literacy#:~:text=People%20with%20low%20health%20literacy%20use%20more%20health,immigrant%20populations%2C%20minority%20populations%2C%20and%20low%20income%20populations.
 
