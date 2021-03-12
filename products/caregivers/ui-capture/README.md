@@ -1,7 +1,9 @@
 # Recordings of 10-10CG UI/UX
+This page is a snapshot of the [Online 10-10CG](url) user experiance. This information is based the **Review Instance** enviornment and was last captured on **March 12, 2021**.
+
 ## UX
 ### On Submission
-These are recordings of the user-experience when submitting a 10-10CG. This was done on the **Review Instance** enviornment on **March 12, 2021**.
+This table lists the different errors that a user can encounter and the experience (page and state) that they are directed to when it occurs.
 
 |Error Source|Status Code|Error Desc.|Error Reasoning|UX Result|
 |:---|---:|:---|:---|:---|
