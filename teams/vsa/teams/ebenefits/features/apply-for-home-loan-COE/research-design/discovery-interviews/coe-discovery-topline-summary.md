@@ -28,7 +28,9 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 - A few had friends and family members get VA-backed loans
 
 ### Where did participants look for information about VA-backed loans?
-- ZZZ
+- Only a couple of participants remember doing specific research into VA loans
+- Those who did, mentioned Google and VA.gov
+- Most participants relied on their realtor or lender for info and guidance
 
 ### What processes did users experienced when applying for a VA-backed loan?
 - ZZZ
