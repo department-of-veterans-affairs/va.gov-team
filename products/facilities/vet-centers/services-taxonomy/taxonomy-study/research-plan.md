@@ -4,7 +4,6 @@
 The goal of this study is to understand how Veterans and their families understand and interpret new and existing service taxons that will be used by Vet Centers facilities, with a primary focus on the following:
 
 - Education and training [new taxon]
-- Returning Service member care [existing taxon]
 - Transition counseling [new taxon]
 - Veteran connections [new taxon]
 - Whole health [existing taxon]
@@ -20,10 +19,10 @@ The goal of this study is to understand how Veterans and their families understa
 
 
 **Hypothesis**
-- Participants will interpret "Whole health" to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
-- Participants will interpret "Returning Service member care" to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.
 - Participants will interpret "Education and training" to mean services like workshops and classes in a non-therapeutic setting. 
-- Participants will interpret "Veteran connections" . 
+- Participants will interpret "Transition counseling to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.
+- Participants will interpret "Whole health" to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
+- Participants will interpret "Veteran connections" to mean a service that includes helping Veterans navigate the VA, by helping them to connect to VA and community resources. 
 
 
 ## Method	
