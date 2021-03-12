@@ -4,10 +4,9 @@
 
 
   * What is the Problem to be Solved?
+  * Objectives
   * Our Bet
-  * Goals
-  * How Do We Define Success
-  * Success Metrics
+  * Measuring Success 
   * Product Requirements
   * Product Analytics
   * Workflows
@@ -18,7 +17,7 @@
 
 
 
-## Problem Statement
+## What is the Problem to be Solved?
 
 Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA content online in their native language. 
 We outline 3 key aspects of this problem:
@@ -87,8 +86,9 @@ Undesired Business Outcomes
 - DEPO/OCTO Health can't gather the data we need to make solid recommendations for localization
 - VA continues with a scattered or unsustainable approach to localization
 
+## Our Bet
 
- 
+
 ## Measuring Success
 
 Baseline Analytics:
@@ -123,9 +123,7 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 - Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
 - NPR/Satisfaction survey
 
-
-________________________________________
-In Scope
+## Product Requirements 
 - Providing Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
 - Create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
 Out of Scope
@@ -139,7 +137,7 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
 - An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) (remove???)
 
-# Solution Approach
+## Solution Approach
 What are you going to build now, and why have you decided to start there? 
 
 We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
@@ -163,7 +161,7 @@ What’s Next
 - Develop a technical design doc to captures all the integration points used by the VA.gov websites
 
 ________________________________________
-Go-to-market Strategy
+## Go-to-market Strategy
 How are Veterans and others using this product going to know it exists? 
 We'll need to reach specific audiences who may need content translated into Spanish (see below)
 What marketing, outreach, or communications are necessary for this product to be successful? 
