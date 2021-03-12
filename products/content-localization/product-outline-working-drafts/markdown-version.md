@@ -1,4 +1,4 @@
-# Product Outline: Contnet & Localization
+# Product Outline: Content & Localization
  
 ## Table of Contents:
 
