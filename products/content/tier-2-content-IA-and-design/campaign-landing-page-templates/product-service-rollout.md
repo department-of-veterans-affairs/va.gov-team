@@ -14,7 +14,7 @@
     - [X] Tanekwa Bournes (VBA) - Tuesday, 3/16 10:00-11:30AM ET
     - [X] Bronwyn Emmet (OPIA) - Tuesday, 3/16 1:00-2:30PM ET
     - [ ] VHA - TBD  (3/12 update: Jenny H-L is hiring a new person to be the CLP lead who could be in place in next two weeks; John has asked if Ron Haskell could be a user tester in the meantime)
-    - [ ] Observations from the moderated user sessions will be synthesized and determination will be made as to whether product refinement for the CMS AX and/or front-end experience is needed prior to MVP production release
+ - [ ] Observations from the moderated user sessions will be synthesized and determination will be made as to whether product refinement for the CMS AX and/or front-end experience is needed prior to MVP production release in April.
 
 ### MVP Production Release Phase (April-June 2021)
 
