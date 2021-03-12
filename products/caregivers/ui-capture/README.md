@@ -9,7 +9,7 @@ These are recordings of the user-experience when submitting a 10-10CG. This was 
 |Reverse Proxy|504|Gateway Timeout|The API did not send a response back to the user within 60 seconds.|||
 |API|200|Success|The submission was processed successfuly.|||
 |API|400|Bad Request|The front-end made an invalid request to the back-end.|||
-|API|401|Unauthorized|The user is not authenticated (or is missing a csrf cookie).|||
+|API|401|Unauthorized|The user is not authenticated (or has an invalid csrf cookie).|||
 |API|403|Forbidden|The user is not authorized to make this request.|||
 |API|422|Unprocessable Entity|The data provided by the front-end is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|||
 |API|500|Internal Server Error|Something (on the back-end) went wrong processing this request.|||
