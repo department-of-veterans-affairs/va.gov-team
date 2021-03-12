@@ -162,7 +162,7 @@ _Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
 |VBA| Adrianne Hooten|Communications|VBA|adrianne.hooten@va.gov|
 |OIT| Stephen Walker | IT Specialist | Office of Information and Technology|stephen.walker4@va.gov|
 |OIT| Michelle Ranes | IT Specialist/Webmaster| Office of Information and Technology|michelle.ranes@va.gov|
-|All| VA Forms Managers | VaFormsManagers@mail.va.gov
+|All| VA Forms Managers | VaFormsManagers@mail.va.gov| 
 
 ### Key Artifacts
 
