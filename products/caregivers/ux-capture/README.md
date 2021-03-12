@@ -24,6 +24,7 @@ This table lists the different errors that a user can encounter, and the experie
 <!-- #### Review and Submit > Data-Error (back-end) -->
 #### Review and Submit > Loading
 #### Review and Submit > Generic Error
+##### Review and Submit > Generic Error > PDF Download Loading
 ##### Review and Submit > Generic Error > PDF Download Error
 #### Review and Submit > Client Internet Error
 ### Successful Submission
