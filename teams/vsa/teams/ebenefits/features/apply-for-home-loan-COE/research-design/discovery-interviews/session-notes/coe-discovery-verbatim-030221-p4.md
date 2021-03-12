@@ -12,10 +12,13 @@
 ---
 
 ## Warm-up
-- Would you tell us a little bit about yourself? Your service experience, general experiences with the VA...
-- Have you applied for a VA-backed loan before?
-- How have you learned about VA benefits in the past?
-- Have you ever visited the eBenefits site? How about VA.gov?
+**M:** Okay, for the record, Do I have your permission to record this session?
+
+**P4:** Yes, sir.
+
+**M:** Great. I appreciate that. Alright, to start out with, if you wouldn't mind telling us just a little bit about yourself. I understand that you are a veteran and that you are a veteran caretaker. Could you tell us a bit about your maybe your
+
+**P4:** I joined the service in between my junior and senior year of high school 1979. Left which basic training in March of 80 did my a it came home to Southern southern Indiana, and I wanted to be active duty. So I went active duty for their got out in 95. Desert Storm veteran my husband and I have gotten together to fly 2018 we got married in November of 2018. He is a special forces combat veteran. For my rack. I got my certificate of eligibility. Do I could buy a house? And I finally closed on the house in January of 2014.
 
 ## Section one: The loan process
 **M:** Oh, okay. So it's, um, it's relatively recently. So that's good. So you have applied for and received a VA loan, you've gone through the process. So there's that that puts you in a good spot to be able to talk about this feature that we're looking at here. So you had applied for the VA back loan? Do you remember how that process went? Can you kind of outline for us the steps that you went through to get that loan? A general,
