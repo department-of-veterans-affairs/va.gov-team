@@ -5,8 +5,6 @@
 ### Topics to discuss
 
 * Content Release - Next increase schedule & comms
-  
-  * 
 * Full Site Deploy timing effects on:
    * Hourly deployment schedule
    * On-demand Content Release for Facility Operating status
@@ -28,7 +26,6 @@
  * Option: editorial messaging, if you need to publish an alert between X and X, call Dave Conlon (?) 
   * Don't want to ocause anxiety in the field when this is a very edge case situation.
  * Separation of content build may solve the bottleneck between emergency messaging and full site deploy. Megan to check w/ the team on timing / options.
- * 
 
 
 ## 2-26-21
