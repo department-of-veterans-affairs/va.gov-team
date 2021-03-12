@@ -66,7 +66,6 @@
   - Eng Lead: Steven Brush 
   - Frontend Engineers:
     - Jeff Balboni
-    - Narin Ratana 
     - Jennie McGibney 
     - Tony Williams
     - Lance Gunderson
@@ -74,7 +73,8 @@
     - Kam Karshenas
     - AJ Magbud
     - Brad Gross
-  - Product Manager Lead: Lenae Storey
+    - Corey Ferris
+  - Product Manager Lead: Lauren Ernest
 - Full VAOS-R User Experience Flow: [VAOS-R User Flow Mapped](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
 
 # About VA online scheduling product
