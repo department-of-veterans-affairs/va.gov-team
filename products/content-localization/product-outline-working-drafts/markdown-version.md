@@ -86,14 +86,14 @@ Undesired Business Outcomes
 
 ## Our Bet(s)
 
-If we create a path to support translated content that includes both quick short-term solutions while developing the recommendation for an enterprise-wide solution, we can give vets/caregivers quicker access to critical health and benefit information while building to a more scaleable plan.
+If we provide Veterans and their caregives better visibility to existing translated content and provide an easier approach for translating additional content, 
+we will provide Vets access to essential VA content online in their native language.
 
 Short-term: provide in-language pages for critical and time sensitive Covid-19 information
 
 Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
 
 Long-term: research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
-
 
 ## Measuring Success
 
