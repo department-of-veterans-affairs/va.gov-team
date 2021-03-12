@@ -32,11 +32,22 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 - Those who did, mentioned Google and VA.gov
 - Most participants relied on their realtor or lender for info and guidance
 
-### What processes did users experienced when applying for a VA-backed loan?
-- ZZZ
+### What processes did users experience when applying for a VA-backed loan?
+- Almost all participants remember the loan process as going very well
+- They generally outlined a typical (happy-path) loan process:
+   - Decide to buy
+   - Find a realtor
+   - Get qualified
+   - Find a home
+   - Find a lender
+   - Go through inspections
+   - Close on home
+- There were anecdotal VA requirements sprinkled-in, most who recalled these remember VA inspections
 
 ### How did users obtain a COEs?
-- ZZZ
+- Several users specifically remember getting a COE: paper form and eBenefits were cited
+- More typically, users didn't specifically recall how they received a COE; figuring it was among the forms and required paperwork
+- Participants generally trusted their realtors and lenders to guide them through VA paperwork
 
 ### What went well in the COE/loan processes?
 - ZZZ
