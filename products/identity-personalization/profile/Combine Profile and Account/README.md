@@ -1,4 +1,4 @@
-# Product Outline: Combine Profile and Account (Profile 2.0)
+# Project Outline: Combine Profile and Account (Profile 2.0)
 
 Last Updated September 30, 2020
 
