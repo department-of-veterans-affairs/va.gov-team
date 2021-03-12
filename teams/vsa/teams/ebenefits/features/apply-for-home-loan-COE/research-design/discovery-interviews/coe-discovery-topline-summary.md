@@ -104,6 +104,8 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
   - The two youngest participants expected a logged-in profile would have the DD feature; the older participants looked for dedicated links or pages
 -->
 ### Resources
+- [Certificate of Eleigibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design)
+
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
