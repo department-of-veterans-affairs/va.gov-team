@@ -72,28 +72,28 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 ## Hypotheses
 
 ### Participants initially heard about VA loan benefits via word-of-mouth
-- Generally true. Particpants often said the "just knew" about VA home loan benefits. Some had friends or family who had gone through the process.
+**Generally true.** Particpants often said the "just knew" about VA home loan benefits. Some had friends or family who had gone through the process.
 
 ### Participants expected their lenders to know about VA-backed loans
-- Generally true. In fact, most participants **relied** on their lender or realtor to guide them through the home loan/buying process.
+**Generally true.** In fact, most participants **relied** on their lender or realtor to guide them through the home loan/buying process.
 
 ### Participants generally followed their lenders' leads through the loan process
-- This was true in almost all cases.
+**This was true in almost all cases.**
 
 ### Participants received COEs either via a VA office or through their lender
-- Partially true. Many particpants said they couldn't recall when/where the received their COE. Those who did, used eBenefits or completed a paper form.
+**Partially true.** Many particpants said they couldn't recall when/where the received their COE. Those who did, used eBenefits or completed a paper form.
 
 ### Participants found the VA-backed loan process generally confusing
-- Not true. Participants uniformly said the loan/home buying process went well, and their lender or realtor had the answers they needed.
+**Not true.** Participants uniformly said the loan/home buying process went well, and their lender or realtor had the answers they needed.
 
 ### Process stumbling blocks might arise around documentation issues, however COE was likely fairly straight-forward
-- Not tru and true. There were few stumbling block related to getting a COE; most participants who recalled applying for a COE felt it was an easy process.
+**Not true and true.** There were few stumbling block related to getting a COE; most participants who recalled applying for a COE felt it was an easy process.
 
 ### Participants will want a simple, easy to follow, bulletized process flow with direct links (email, chat, phone numbers) to VA problem-solvers
-- Generally true. Several participant did ask for a bulletized checklist for the loan/homebuying process; a couple said they did want direct lines to local VA offices.
+**Generally true.** Several participant did ask for a bulletized checklist for the loan/homebuying process; a couple said they did want direct lines to local VA offices.
 
 ### Participants would use VA.gov if it provided easy to follow guidance and direct avenues to address process issues
-- Uniformly true. Participants expect VA.gov and other sites to provide information, guidance and contact numbers.
+**Uniformly true.** Participants expect VA.gov and other sites to provide information, guidance and contact numbers.
 <!--
 ## Other notes
 - Several participants noticed the View Payments link; three said they would reference payment history if/when making changes to their DD info
