@@ -7,12 +7,13 @@ When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-
 
 ```264 broken links found in the vagovprod build on 18408-jenkins-use-cms-export http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/18408-jenkins-use-cms-export/12/display/redirect```
 
-As a general rule we only need to attend to those of these which are a low number of broken links ( <10), and built on master, e.g:
+As a general rule we only need to attend to those of these which are a low number of broken links ( <10), and built on either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake), e.g:
 
 ```1 broken links found in the vagovprod build on master http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/9848/display/redirect```
 
 ### Response
-We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, then begin triage. 
+We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`, then begin triage. 
+In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`. This ensures proper SLA tracking and reporting.
 We may choose to begin a **#cms-team** Slack conversation also that we are looking into the broken link for the team's awareness, and/or to reach out to Tier 2. 
 
 # Steps to Investigate
