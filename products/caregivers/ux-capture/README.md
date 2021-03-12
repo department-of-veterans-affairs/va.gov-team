@@ -3,7 +3,7 @@ This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member
 
 ## UX
 ### On Submission
-This table lists the different errors that a user can encounter and the experience (page and state) that they are directed to when it occurs.
+This table lists the different errors that a user can encounter, and the experience (page and state) that they are directed to when it occurs.
 
 |Error Source|Status Code|Error Desc.|Error Reasoning|UX Result|
 |:---|---:|:---|:---|:---|
