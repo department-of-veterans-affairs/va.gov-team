@@ -21,12 +21,35 @@
 
 </details>
 
+## Friday Mar 19 10:30am ET
+
+* CMS help desk triage
+* Dual state
+* Policies page cutover runbook
+
 ## Friday Mar 12 10:30am ET
 
-1. VAMC user administration - Roles, timing and responsibility for unblocking new VAMC users on prod.
-2. VAMC user help requests - Triage process for VAMC users help requests.
-3. Dual state launch planning and updates. 
-4. VAMC System Policies Page 
+1. VAMC user administration - Roles, timing and responsibility for unblocking new VAMC users on prod.  
+  * Stan emails list of users for next training.
+  * VAMC editors are added as blocked to prod, but training happens in training environment
+  * Stan continues to communicate with VAMC editors about content
+  * We've gone back and forth on who should unblock them on prod. But to lighten load on Stan, Stan should open jira issue to unblock editors on prod.
+3. VAMC user help requests - Triage process for VAMC users help requests.
+  * When CMS help desk gets VAMC user issue, we will triage via slack for now, and develop this process in coming weeks. 
+5. Dual state launch planning and updates. 
+  * Cheyenne, Montana, Eastern Colorado next Tuesday, finishes out VISN 19. Stan will send out updates.
+  * Asheville, Durham on Wednesday, to start VISN 6.
+  * Thursday AM for anything remaining. 
+7. VAMC System Policies Page 
+  * Content will need to be added, one for each VAMC system.
+  * Change management with existing VAMC users. 
+    * See who last updated Policies pages for their 
+  * CMS team will manage the cutover when we're ready to go
+
+@todo
+- New issue: as an anonymous user, i can get to help docs from home page or login page.
+- Recreate training videos to remove vacmssupport email address
+- node id reerences to the old Policies page will need to be updated to use the new one. 
 
 ## Friday Mar 5 10:30am ET
 
