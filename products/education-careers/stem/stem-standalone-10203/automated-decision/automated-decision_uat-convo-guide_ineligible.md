@@ -41,14 +41,11 @@ Before we start, a few things I want to mention:
 2.	During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button.
 3.	Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
 4.	Now that the participant has control, have them sign in to VA.gov by clicking the blue "Sign in" button in the top right corner of the screen
-5.	Now that the applicant is signed in, have them review their remaining benefits to determine whether or not they will be eligible based on months remaining. 
-6.  After , have them scroll down to the "How do I apply" section and click the green "Find your education benefits form" button
-6.	The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button
-7.	The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
-8.	The applicant should now be prompted for the "basic auth" credentials. The facilitator should take control back from the participant and enter the credentials so as to keep them secure. The credentials can be found in the team's Keybase chat.
-
-- Step 1
-- Step 2
+    a. As the applicant is signing in, capture the email address associated with their account so that we can grant them access to the feature using the feature flag 
+6.	Now that the applicant is signed in, have them review their remaining benefits to determine whether or not they will be eligible based on months remaining. 
+7.  After , have them navigate to the "How do I apply" section and click the green "Find your education benefits form" button
+8.	The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button
+9.	The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
 
 ### Things to watch for:
 
@@ -61,7 +58,10 @@ Before we start, a few things I want to mention:
 "You may not be eligible....Months you have left to use: XX months, XX days" (seen here: https://bahdigital.invisionapp.com/share/JHIAE4UVKA4#/screens/296040759)
 2. The applicant should scroll to the bottom of the screen and click the button to begin their application.
 3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. 
-4. On the "Program Details: Rogers STEM Scholarship eligibility summary" (Chapter 3) ensure that remaining entitlement is displayed in the "Your remaining education benefits" alert.
+4. On the "Program Details: Rogers STEM Scholarship eligibility summary" (Chapter 3) page: 
+   a. capture their response to the (STEM) degree program and teaching certification question
+   a. ensure that remaining entitlement is displayed in the "Your remaining education benefits" alert
+5. Applicant should continue through the application until they reach the application review screen.
 
 #### Things to watch for:
 1. Pages to review "entitlement" information: Introduction screen, Chapter 3
@@ -78,6 +78,18 @@ Before we start, a few things I want to mention:
 - Does prefill data populate correctly? 
 - Does the form data populate “Review application” correctly?  
 - Does the form submit? If not, be sure to capture any errors. If yes, be sure to capture the confirmation number
+
+### Fourth Task: Review & Submit Application
+1. A member of the application team will manually run the process that executes automated decisions
+2. The participant will check their email
+3. If the automated decision email was received, the participant will click the link to review claim status. 
+4. On the claim status page, the applicant will select their most recent STEM application (the one just submitted) and review the information on the claim details page. 
+5. 
+
+#### Things to watch for:
+- Did the AD email get sent?
+- Did the claim status page reflect the most recent application?
+- Did the claim details page display the expected information?
 
 ### Post-Task Interview - X minutes
 - How did you think that went?
