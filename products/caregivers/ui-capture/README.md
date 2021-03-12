@@ -1,5 +1,6 @@
 # Recordings of 10-10CG UI/UX
-## On Submission
+## UX
+### On Submission
 These are recordings of the user-experience when submitting a 10-10CG. This was done on the **Review Instance** enviornment on **March 12, 2021**.
 
 |Error Source|Status Code|Error Description|UX||
@@ -11,7 +12,7 @@ These are recordings of the user-experience when submitting a 10-10CG. This was 
 |API|503|Service Unavailable||
 |API|504|Gateway Timeout||
 
-## UI Pages and States
+## UI
 ### Review and Submit
 #### Review and Submit > Pre-submit
 #### Review and Submit > Data-Error (front-end)
