@@ -13,7 +13,7 @@ These are recordings of the user-experience when submitting a 10-10CG. This was 
 |API|403|Forbidden|The user is not authorized to make this request.|[Review and Submit > Generic Error](#review-and-submit--generic-error)||
 |API|422|Unprocessable Entity|The data provided by the front-end is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|[Review and Submit > Generic Error](#review-and-submit--generic-error)||
 |API|500|Internal Server Error|Something (on the back-end) went wrong processing this request.|[Review and Submit > Generic Error](#review-and-submit--generic-error)||
-|API|503|Service Unavailable|The a dependent external service, or the back-end itself, is not available to process requests.|[Review and Submit > Generic Error](##review-and-submit--generic-error)||
+|API|503|Service Unavailable|The a dependent external service, or the back-end itself, is not available to process requests.|[Review and Submit > Generic Error](#review-and-submit--generic-error)||
 |API|504|Gateway Timeout|The back-end, when acting as a proxy, did not receive a response from the target service.|[Review and Submit > Generic Error](#review-and-submit--generic-error)||
 
 ## UI
