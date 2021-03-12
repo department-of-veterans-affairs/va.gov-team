@@ -3,31 +3,29 @@
 ## Goals	
 The goal of this study is to understand how Veterans and their families understand and interpret new and existing service taxons that will be used by Vet Centers facilities, with a primary focus on the following:
 
-- Couples/Family counseling [new taxon]
 - Education and training [new taxon]
 - Returning Service member care [existing taxon]
+- Transition counseling [new taxon]
 - Veteran connections [new taxon]
 - Whole health [existing taxon]
 
 **Research questions**
 - Do the current taxon (service names) make sense to Veterans and their families? 
-- Does a Veteran's interpretation of the taxons match the descriptions used by VA? 
-  - How would a Veteran define and/or describe the taxons in their own words? 
-- How would Veterans organize/categorize taxons?
+- Do participants' interpretations of the taxons match their intended meaning?
+- How would a Veteran define and/or describe the taxons in their own words? 
+- What vocabulary do participants use when naming and categorizing the service taxons?
+- How would Veterans organize and categorize the taxons?
 - How should taxons and their descriptions evolve for Veterans to immediately understand them?
-- Do Veterans of different demographics interpret and define the taxons differently?
+- Will participants who have not participated in mental health care use the term "Mental health care" when grouping counseling services?
+
 
 **Hypothesis**
-- Participants' interpretation of "Whole health" will match the intended meaning. 
+- Participants' will interpret "Whole health" to mean services that include mental health, physical health and overall well-being. 
 - Participants' interpretation of "Returning Service member care" will match the intended meaning. 
 - Participants' interpretation of "Education and training" will match the intended meaning. 
 - Participants' interpretation of "Couples/Family counseling" will match the intended meaning. 
 - Participants' interpretation of "Veteran connections" will match the intended meaning. 
 
-> OR
-> - Interpretations of taxons will vary by cohort (e.g. gender, age/era, Veteran vs family of the Veteran)
-> - Veterans will group services together that are not currently listed in the same categories
-> - New groupings/categories will emerge that do not currently exist
 
 ## Method	
 Unmoderated card sort. An OptimalSort link will be sent to participants to participate in an unmoderated card sorting activity.	This study will be broken up into 6 mini studies, segmented by distinct deomographic cohorts. This method will help us answer our research questions by providing Veterans and their families the opportunity to complete the study in their own time without introducing moderator bias.
