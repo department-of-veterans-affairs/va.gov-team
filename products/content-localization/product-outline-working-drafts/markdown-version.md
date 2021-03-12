@@ -11,6 +11,7 @@
   * Product Analytics
   * Workflows
   * Product Enhancements
+  * Go-to-Market Strategy
   * Key Artifacts
   * Technical Artifacts
 
