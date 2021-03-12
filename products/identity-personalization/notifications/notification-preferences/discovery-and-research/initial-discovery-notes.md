@@ -26,8 +26,8 @@
 
   - Yes, they're hypothetical, since the request to create groups will come through the governance process.  
   - The groups will likely be ideas that come from communication partners or a business line (not necessarily based on user feedback or research).
-  - Consider 2 use cases
-    1. A product line that says we want to group these kinds of communications we're responsible for.  Those would be the groups we'd display whenever we display these kind of groups on the settings page.  We expect those not to change often.
+  - Consider these use cases as examples:
+     1. A product line that says we want to group these kinds of communications we're responsible for.  Those would be the groups we'd display whenever we display these kind of groups on the settings page.  We expect those not to change often.
     2. Campaign-centric groups that only appear on campaign landing pages to get widely adopted opt-ins.
 
 - **According to [notes from the 1/19 meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/meeting-notes/1.19.21_Chat%20with%20Terry%20and%20team.md#selection-option-communication-items-eg-health-care-appointment-reminders-prescription-updates-etc), we should be accounting for health appointment reminders (VEText), appeals reminders (VEText), FAS payment notifications (VANotify), and the 526 process (VANotify). Is this still accurate? Is there a complete list of all possible items?**
