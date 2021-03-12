@@ -10,21 +10,20 @@ The goal of this study is to understand how Veterans and their families understa
 - Whole health [existing taxon]
 
 **Research questions**
-- Do the current taxon (service names) make sense to Veterans and their families? 
+- Do the proposed taxon (service names) make sense to Veterans and their families? 
 - Do participants' interpretations of the taxons match their intended meaning?
-- How would a Veteran define and/or describe the taxons in their own words? 
+- How would participants define and/or describe the taxons in their own words? 
 - What vocabulary do participants use when naming and categorizing the service taxons?
-- How would Veterans organize and categorize the taxons?
+- How would Veterans group and categorize the taxons?
 - How should taxons and their descriptions evolve for Veterans to immediately understand them?
-- Will participants who have not participated in mental health care use the term "Mental health care" when grouping counseling services?
+- Will participants, who have not participated in mental health care, use the term "Mental health care" when grouping counseling services?
 
 
 **Hypothesis**
-- Participants' will interpret "Whole health" to mean services that include mental health, physical health and overall well-being. 
-- Participants' interpretation of "Returning Service member care" will match the intended meaning. 
-- Participants' interpretation of "Education and training" will match the intended meaning. 
-- Participants' interpretation of "Couples/Family counseling" will match the intended meaning. 
-- Participants' interpretation of "Veteran connections" will match the intended meaning. 
+- Participants will interpret "Whole health" to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
+- Participants will interpret "Returning Service member care" to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.
+- Participants will interpret "Education and training" to mean services like workshops and classes in a non-therapeutic setting. 
+- Participants will interpret "Veteran connections" . 
 
 
 ## Method	
