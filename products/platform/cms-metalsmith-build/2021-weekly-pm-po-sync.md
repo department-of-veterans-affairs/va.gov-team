@@ -5,6 +5,8 @@
 ### Topics to discuss
 
 * Content Release - Next increase schedule & comms
+  
+  * 
 * Full Site Deploy timing effects on:
    * Hourly deployment schedule
    * On-demand Content Release for Facility Operating status
@@ -12,7 +14,21 @@
 
 ### Notes
 
-* 
+
+* Next content release frequency increase - 3/16 - 4x/day 
+  * Need to define final times for 4x
+     * Phase 2 - four times a day - 9AM, 11AM, 1:45PM, 4/5PM EST Mon-Fri [Megan / Oksana to connect on exact timing on Monday 3/15]
+* FE tools team is looking at content build separation. Should be in Dev in a week or two. Anticipated launch to Prod  - April.
+* On-demand Content Release for Facility Operating status
+ * When editor updates Facility status - that triggers Content Release to VA.gov
+ * If there was an incident that occurs at the facility during the Full Site rebuild, potentially life-saving situation could be held up by the full Site build.
+ * We're dealing w/ emergency situation that would need to get out rapidly as a partof a Content Only build. Build for it, hopefully never us it.
+ * We could in theory always cancel vets-website deploy in an emergency situation.
+  * Content editors won't be able to communicate the urgency up to OCTO-DE every time it happens.
+ * Option: editorial messaging, if you need to publish an alert between X and X, call Dave Conlon (?) 
+  * Don't want to ocause anxiety in the field when this is a very edge case situation.
+ * Separation of content build may solve the bottleneck between emergency messaging and full site deploy. Megan to check w/ the team on timing / options.
+ * 
 
 
 ## 2-26-21
