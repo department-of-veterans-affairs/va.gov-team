@@ -104,8 +104,8 @@ Education Service will be updated via project briefings and demos
 ## Solution Narrative
 
 ## Incident Response@Daniel Shawkey)
-- Points of contact for your system: Dan Shawkey (shawkey_daniel@bah.com, @Daniel Shawkey)
-- Points of contact for dependent VA backends: 
+- Points of contact for your system: Dan Shawkey (shawkey_daniel@bah.com, @Daniel Shawkey), Devin McCurdy (mccurdy_devin@bah.com, @Devin McCurdy), Matt Roth (roth_matthew@bah.com @Matt Roth)
+- Points of contact for dependent VA backends: N/A
 - Links to dashboards that help identify and debug application issues: 
 
 ### Current Status
