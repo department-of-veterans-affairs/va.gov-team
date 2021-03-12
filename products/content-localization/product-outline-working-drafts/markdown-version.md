@@ -84,14 +84,23 @@ Undesired Business Outcomes
 - DEPO/OCTO Health can't gather the data we need to make solid recommendations for localization
 - VA continues with a scattered or unsustainable approach to localization
 
-## Our Bet
+## Our Bet(s)
+
+If we create a path to support translated content that includes both quick short-term solutions while developing the recommendation for an enterprise-wide solution, we can give vets/caregivers quicker access to critical health and benefit information while building to a more scaleable plan.
+
+Short-term: provide in-language pages for critical and time sensitive Covid-19 information
+
+Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
+
+Long-term: research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
+
 
 ## Measuring Success
 
-Baseline Analytics:
-From March 15, 2020, to December 31, 2020 the total number of Pageviews visiting the coronavirus FAQs in Spanish was 144k. 
-The total number of pageviews across VA.gov with browser set to “Spanish” from Jan 1 -20 was 55,505k.
-(more data will be added once we have dashboard set up)
+~Baseline Analytics:~
+~From March 15, 2020, to December 31, 2020 the total number of Pageviews visiting the coronavirus FAQs in Spanish was 144k.~
+~The total number of pageviews across VA.gov with browser set to “Spanish” from Jan 1 -20 was 55,505k.~
+~(more data will be added once we have dashboard set up)~
 
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
