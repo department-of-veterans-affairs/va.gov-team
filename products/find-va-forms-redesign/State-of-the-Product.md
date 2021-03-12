@@ -154,8 +154,8 @@ _Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
 
 ### Key VA Stakeholders and Forms SMEs
 
-|VA Admin|Name|Role|Office|Email
-|--|--|--|--|
+|VA Admin|Name|Role|Office|Email|
+|--|--|--|--|--|
 |VHA|Janel Keyes|Deputy Director|VHA| janel.keyes@va.gov|
 |VHA |Josh Hardy|Program Specialist |VHA|joshua.hardy@va.gov|
 |VBA| Tanekwa Bournes|Program Analyst|VBA|tanekwa.bournes@va.gov|
