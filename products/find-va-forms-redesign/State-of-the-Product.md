@@ -154,14 +154,14 @@ _Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
 
 ### Key VA Stakeholders and Forms SMEs
 
-|VA Admin|Name|Role|Office|
+|VA Admin|Name|Role|Office|Email|
 |--|--|--|--|
-|VHA| Janel Keyes|Deputy Director |VHA|
-|VHA |Josh Hardy|Program Specialist |VHA|
-|VBA| Tanekwa Bournes|Program Analyst|VBA|
-|VBA| Adrianne Hooten|Communications|VBA|
-|OIT| Stephen Walker | IT Specialist | Office of Information and Technology|
-|OIT| Michele Ranes | IT Specialist/Webmaster| Office of Information and Technology|
+|VHA| Janel Keyes|Deputy Director |VHA| janel.keyes@va.gov|
+|VHA |Josh Hardy|Program Specialist |VHA|joshua.hardy@va.gov|
+|VBA| Tanekwa Bournes|Program Analyst|VBA|tanekwa.bournes@va.gov|
+|VBA| Adrianne Hooten|Communications|VBA|adrianne.hooten@va.gov|
+|OIT| Stephen Walker | IT Specialist | Office of Information and Technology|stephen.walker4@va.gov|
+|OIT| Michelle Ranes | IT Specialist/Webmaster| Office of Information and Technology|michelle.ranes@va.gov|
 |All| VA Forms Managers | VaFormsManagers@mail.va.gov
 
 ### Key Artifacts
