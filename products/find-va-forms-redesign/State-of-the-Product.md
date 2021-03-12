@@ -151,6 +151,18 @@ _Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
 |Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
 |Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
 
+
+### Key VA Stakeholders and Forms SMEs
+|VA Admin|Name|Role|Office|
+|--|--|--|--|
+|VHA| Janel Keyes|Deputy Director |VHA|
+|VHA |Josh Hardy|Program Specialist |VHA|
+|VBA| Tanekwa Bournes|Program Analyst|VBA|
+|VBA| Adrianne Hooten|Communications|VBA|
+|OIT| Stephen Walker | IT Specialist | Office of Information and Technology|
+|OIT| Michele Ranes | IT Specialist/Webmaster| Office of Information and Technology|
+|All| VA Forms Managers | VaFormsManagers@mail.va.gov
+
 ### Key Artifacts
 
 |Artifacts  | Description |
