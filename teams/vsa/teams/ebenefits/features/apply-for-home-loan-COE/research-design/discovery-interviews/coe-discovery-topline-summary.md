@@ -102,12 +102,10 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
   - Two younger users joined the call using their phones, expecting to review the feature on mobile
   - Younger users would use a bank app/website to find their bank info, older users would review a check or statement to find the info
   - The two youngest participants expected a logged-in profile would have the DD feature; the older participants looked for dedicated links or pages
-
-### Resources
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
-
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-convo-guide.md)
-
-- [Prototype used](https://preview.uxpin.com/f80ffd0a5433096bc9abd52333b1e60a4ffd745d#/pages/134411565/simulate/no-panels?mode=f)
 -->
+### Resources
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
+
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
+
 ---
