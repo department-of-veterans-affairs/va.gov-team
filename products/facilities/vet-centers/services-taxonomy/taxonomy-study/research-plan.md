@@ -1,7 +1,7 @@
 # Research Plan for Vet Centers, March 2021
 
 ## Goals	
-The goal of this study is to understand how Veterans and their families understand and interpret the following services taxons in order to validate or invalidate them:
+The goal of this study is to understand how Veterans and their families understand and interpret new and existing service taxons that will be used by Vet Centers facilities, with a primary focus on the following:
 
 - Couples/Family counseling [new taxon]
 - Education and training [new taxon]
