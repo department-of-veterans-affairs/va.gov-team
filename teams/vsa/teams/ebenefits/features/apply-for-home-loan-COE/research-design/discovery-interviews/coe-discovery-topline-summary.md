@@ -50,16 +50,23 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 - Participants generally trusted their realtors and lenders to guide them through VA paperwork
 
 ### What went well in the COE/loan processes?
-- ZZZ
+- Most participants felt like the COE was a transparent part of the process
+- Few participant could recall significant problems with the overall home loan process, and we generally happy with how things went
+- Several participants identified their lender or realtor as the most helpful/positive aspect in navigating the VA loan process
 
 ### What problems did participants encounter in applying for VA-backed loans?
-- ZZZ
+- Few specific probelmes were cited
+- A couple of participants recall issues around VA home inspections, these were resolved relativley quickly
 
 ### What new features, information or tools would be beneficial?
-- ZZZ
+- A few participants would like a home loan checklist identifying the setps in the process, as well as the specific documents need for a VA-backed loan (COE would be one of these)
+- One participant said a COE should be available to veterans at discharge (similar to the availability of DD-214)
+- A fe participants wanted some sort of VA accreditation or "seal of approval" for lenders and/or realtors; they cited concerne about predatory lenders
 
 ### Would participants use VA.gov for information, tools or applications in the future?
-- ZZZ
+- Most participants would use VA.gov for information about VA-backed loans
+- The most common tool mentioned was a "checklist" outlineing the end-to-end home buying process
+- Several wanted a list/lookup of VA-approved lenders
 
 ## Hypotheses
 
