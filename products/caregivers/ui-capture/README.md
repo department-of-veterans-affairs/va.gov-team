@@ -11,7 +11,7 @@ These are recordings of the user-experience when submitting a 10-10CG. This was 
 |API|503|Service Unavailable||
 |API|504|Gateway Timeout||
 
-## UI Pages > States
+## UI Pages and States
 ### Review and Submit
 #### Review and Submit > Pre-submit
 #### Review and Submit > Data-Error (front-end)
