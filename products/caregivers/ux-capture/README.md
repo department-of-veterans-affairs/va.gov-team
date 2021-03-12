@@ -1,5 +1,5 @@
 # Recordings of 10-10CG UI/UX
-This page is a snapshot of the [Online 10-10CG](url) user experiance. This information is based the **Review Instance** enviornment and was last captured on **March 12, 2021**.
+This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg) user experiance. This information is based the **Review Instance** enviornment and was last captured on **March 12, 2021**.
 
 ## UX
 ### On Submission
