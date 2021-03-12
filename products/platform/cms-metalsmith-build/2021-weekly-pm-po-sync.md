@@ -1,5 +1,20 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 3-12-21
+
+### Topics to discuss
+
+* Content Release - Next increase schedule & comms
+* Full Site Deploy timing effects on:
+   * Hourly deployment schedule
+   * On-demand Content Release for Facility Operating status
+
+
+### Notes
+
+* 
+
+
 ## 2-26-21
 
 ### Topics to Discuss
