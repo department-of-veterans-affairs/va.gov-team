@@ -46,7 +46,7 @@ This study will be broken up into 6 mini studies, segmented by the following 6 c
 - 6-10: New soldier/active duty service member (3 or less years since joining the military)
 - 6-10: 3 or less years since discharge/separation from military service
 - 6-10: Reservists
-- 6-10: TBD
+- 6-10: Veterans with a high school diploma, GED or less education 
 
 ### Secondary criteria / Would like to have - 
 - 10 participant of color 
@@ -57,7 +57,6 @@ This study will be broken up into 6 mini studies, segmented by the following 6 c
 - 5 participant 46 - 55 
 - 5 participant 56 or over 
 - 5 participant with cognitive disabilities 
-- 5 participant that do not have a college degree 
 - 5 participant without a college degree (to include officer Vets) 
 - 5 participant living in a major metropolitan area 
 - 5 participant with a disability rating of 70% or greater  
