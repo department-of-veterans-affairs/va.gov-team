@@ -174,7 +174,6 @@ o	January 22, 2021 for coronavirus FAQs page
 o	Updated: 3 months post launch (mid-April 2021)
 ________________________________________
 
-________________________________________
 ## For Reference
  
 For WIP usability session discussion guide, mockup Spanish content, project brief:
@@ -201,19 +200,27 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 |Michelle Steigerwalt | DEPO Engineer
 |Eunice Garcia	| |
 
-
-
 ________________________________________
 ## Implementation Info
+
+________________________________________
 ## Status
+
+________________________________________
 ## Technical Decisions
+
+________________________________________
 ## Product Decisions
-## Solution Narrative
+
+________________________________________
 ## Current Status
 11.24.20: work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We kicked-off the first phase of this project with the VSP platforms team on 
 
+________________________________________
 ## Key Decisions
+________________________________________
 ## Footnotes
+________________________________________
 
  i. https://nnlm.gov/initiatives/topics/health-literacy#:~:text=People%20with%20low%20health%20literacy%20use%20more%20health,immigrant%20populations%2C%20minority%20populations%2C%20and%20low%20income%20populations.
 
