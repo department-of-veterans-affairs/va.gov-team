@@ -1,6 +1,6 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated February 17, 2021
+Last updated March 12, 2021
 
 ## Communications
 
@@ -12,7 +12,7 @@ Last updated February 17, 2021
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Matt Shea |Product Manager| matt.shea@adhocteam.us |
+|AJ Jakabcin |Product Manager| ana@adhocteam.us |
 |Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Cassandra Allen |Designer| callen@governmentcio.com |
