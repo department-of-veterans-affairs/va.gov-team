@@ -191,7 +191,7 @@ Coronavirus MVP Docs
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp 
 
 
-### Content & LOcalization Team Members
+### Content & Localization Team Members
 |Name|Role|
 |----|----|
 |Danielle Thierry	| Content & Localization Product Owner|
@@ -200,13 +200,16 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 |Michelle Steigerwalt | DEPO Engineer
 |Eunice Garcia	| |
 
+### Team
+ - Team Name: Content & Localization
+ - GitHub Label: 
+ - Slack channel: 
+
 ________________________________________
 ## Implementation Info
 
 ________________________________________
-## Status
 
-________________________________________
 ## Technical Decisions
 
 ________________________________________
@@ -214,7 +217,8 @@ ________________________________________
 
 ________________________________________
 ## Current Status
-11.24.20: work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We kicked-off the first phase of this project with the VSP platforms team on 
+
+11.24.20 (DT): work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We kicked-off the first phase of this project with the VSP platforms team on 
 
 ________________________________________
 ## Key Decisions
