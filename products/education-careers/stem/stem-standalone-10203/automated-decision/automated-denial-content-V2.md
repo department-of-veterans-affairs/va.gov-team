@@ -123,12 +123,12 @@ Get information on a school’s value and affordability; and compare estimated b
 
 ### Call us { H3 } ###
 Veterans Crisis Line: 
-[1-800-273-8255]() and select 1
+[800-273-8255]() and select 1
 
 Education Call Center:
-[1-888-442-4551]() (inside the U.S.)
+[888-442-4551]() (inside the U.S.)
 
-[001-918-781-5678]() (outside the U.S.)
+[+1-918-781-5678]() (outside the U.S.)
 
 [VA Regional Office Location](https://www.va.gov/find-locations)
 
