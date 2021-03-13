@@ -7,7 +7,7 @@
   * [Our Bets](#Our-bets)
   * [Measuring Success](#Measuring-success) 
   * [Product Requirements](#Product-requirements)
-  * [Product Analytics](#Product-analyics)
+  * [Product Analytics](#Product-analytics)
   * Workflows
   * Product Enhancements
   * Go-to-Market Strategy
@@ -81,15 +81,15 @@ Desired Business Outcomes
 Undesired Business Outcomes
 
 - VHA can't demonstrate progress on translation efforts in a timely way
-- DEPO/OCTO Health can't gather the data we need to make solid recommendations for localization
-- VA continues with a scattered or unsustainable approach to localization
+- DEPO/OCTO Health can't gather the data we need to make solid recommendations for translations
+- VA continues with a scattered or unsustainable approach to translations
 
 ## Our Bet(s)
 
-If we provide Veterans and their caregives better visibility to existing translated content and provide an easier approach for translating additional content, 
+If we provide Veterans and their caregives better visibility to existing translated content and develop an easier approach for translating additional content, 
 we will provide Vets access to essential VA content online in their native language.
 
-Short-term: provide in-language pages for critical and time sensitive Covid-19 information
+[x] Short-term: provide in-language pages for critical and time sensitive Covid-19 information
 
 Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
 
