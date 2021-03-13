@@ -111,13 +111,14 @@ Key Performance Indicators (KPIs)
 •	Shorter time to market?
 •	Reduction in translation costs?
 
-•	From KPI worksheet:
+From KPI worksheet:
 - Customer Engagement/Pageviews 
 - Time to generate and deploy translated content (north star metric, intenral)
 - Net Promoter Score (NPS) - how likely to recommend? (internal)
 - Average satisfaction rating across translated VA.gov
 
 Objectives and Key results (OKRs)
+
 Objective 1:  Meet Veterans' and their family members' need for Spanish and Tagalog language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
 - Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q.
 - Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021.
@@ -134,34 +135,38 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 - Create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
 Out of Scope
 - Site-wide roll-out or centralized translation management
-- Updates/changes for English version of pages found during translation effort (bugs will be captured and addressed by team owners)
+- Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
 
 Assumptions
 Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
-- Some Veterans and their family members need or prefer COVID-19 and other content content about VA health care and benefits in Spanish and Tagalog.
+- Some Veterans and their family members need or prefer COVID-19 and other content about VA health care and benefits in Spanish and Tagalog.
 - Users will be able to find and easily link/toggle to translated content.  
+- Mid-term approach will build new pages in Github 
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
-- An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY) (remove???)
+- ~An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY)~
 
 ## Solution Approach
 
 What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
 Why this solution / approach over other solutions / approaches? 
-This is the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a longer-term solution.
+The short and mid-term approaches outlined above are the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a long-term solution.
+
 What have you explicitly decided to not include in this initial set of functionality, and why? 
-We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
+- We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
+- We will only support the short and mid-term approaches for a handful of critical pages since the approach we use is resource intensive and not sustainable
+
 How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 
 What’s Next
 - Conduct stakeholder interviews (internal)
 - Investigate budget and how to engage with potential software partners
-- Develop a technical design doc to captures all the integration points used by the VA.gov websites
+- Develop a recommendation document that includes technical research and internal stakeholders needs
 
 ________________________________________
 ## Go-to-market Strategy
@@ -169,16 +174,18 @@ How are Veterans and others using this product going to know it exists?
 We'll need to reach specific audiences who may need content translated into Spanish (see below)
 What marketing, outreach, or communications are necessary for this product to be successful? 
 Outreach may include:
-•	Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
+- Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
+- Targeted social media and other communication outreach efforts
 
-•	Targeted social media and other communication outreach efforts
-•	Link to Release Plan
+- Link to Release Plan
+
 Launch Dates
-•	Target Launch Date
-o	January 20, 2021 for coronavirus FAQs page 
-o	MVP TBD
-•	Actual Launch Date
+•	Target Launch Date:
+o	January 20, 2021 for coronavirus FAQs page (Spanish) 
+o	Actual Launch Date
 o	January 22, 2021 for coronavirus FAQs page 
+o March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
+
 •	What date will you evaluate impact after launch?
 o	Updated: 3 months post launch (mid-April 2021)
 ________________________________________
