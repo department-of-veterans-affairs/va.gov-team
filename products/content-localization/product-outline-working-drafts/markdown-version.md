@@ -176,15 +176,13 @@ What marketing, outreach, or communications are necessary for this product to be
 Outreach may include:
 - Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
 - Targeted social media and other communication outreach efforts
-
 - Link to Release Plan
 
-Launch Dates
-Target Launch Date:
-- January 20, 2021 for coronavirus FAQs page (Spanish) 
-Actual Launch Date
-- January 22, 2021 for coronavirus FAQs page 
-- March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
+Target & Actual Launch Dates 
+
+- Target: January 20, 2021 for coronavirus FAQs page (Spanish) 
+- Actual: January 22, 2021 for coronavirus FAQs page 
+- Actual: March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
 
 What date will you evaluate impact after launch?
 - Updated: 3 months post launch (mid-April 2021)
