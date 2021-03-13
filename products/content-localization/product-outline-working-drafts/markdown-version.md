@@ -5,9 +5,9 @@
   * [What is the Problem to be Solved?](#What-is-the-Problem-to-be-Solved)
   * [Objectives](#Objectives)
   * [Our Bets](#Our-bets)
-  * [Measuring Success](Measuring-success) 
-  * [Product Requirements](Product-requirements)
-  * [Product Analytics](Product-analytcis)
+  * [Measuring Success](#Measuring-success) 
+  * [Product Requirements](#Product-requirements)
+  * [Product Analytics](#Product-analyics)
   * Workflows
   * Product Enhancements
   * Go-to-Market Strategy
