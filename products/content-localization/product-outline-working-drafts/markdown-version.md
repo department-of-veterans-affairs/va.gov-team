@@ -180,14 +180,14 @@ Outreach may include:
 - Link to Release Plan
 
 Launch Dates
-•	Target Launch Date:
-o	January 20, 2021 for coronavirus FAQs page (Spanish) 
-o	Actual Launch Date
-o	January 22, 2021 for coronavirus FAQs page 
-o March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
+Target Launch Date:
+- January 20, 2021 for coronavirus FAQs page (Spanish) 
+Actual Launch Date
+- January 22, 2021 for coronavirus FAQs page 
+- March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
 
-•	What date will you evaluate impact after launch?
-o	Updated: 3 months post launch (mid-April 2021)
+What date will you evaluate impact after launch?
+- Updated: 3 months post launch (mid-April 2021)
 ________________________________________
 
 ## For Reference
