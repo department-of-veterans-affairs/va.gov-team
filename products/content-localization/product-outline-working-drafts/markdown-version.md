@@ -2,7 +2,7 @@
  
 ## Table of Contents:
 
-  * What is the Problem to be Solved?
+  * [What is the Problem to be Solved?](#What-is-the-Problem-to-be-Solved)
   * Objectives
   * Our Bet
   * Measuring Success 
