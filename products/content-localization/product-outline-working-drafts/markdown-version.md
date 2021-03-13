@@ -91,9 +91,9 @@ we will provide Vets access to essential VA content online in their native langu
 
 [x] Short-term: provide in-language pages for critical and time sensitive Covid-19 information
 
-Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
+[ ] Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
 
-Long-term: research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
+[ ] Long-term: research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
 
 ## Measuring Success
 
