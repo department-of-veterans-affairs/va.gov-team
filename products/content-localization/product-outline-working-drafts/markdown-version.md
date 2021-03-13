@@ -3,8 +3,8 @@
 ## Table of Contents:
 
   * [What is the Problem to be Solved?](#What-is-the-Problem-to-be-Solved)
-  * Objectives
-  * Our Bet
+  * [Objectives] (#Objectives)
+  * [Our Bets] (#Our-bets)
   * Measuring Success 
   * Product Requirements
   * Product Analytics
