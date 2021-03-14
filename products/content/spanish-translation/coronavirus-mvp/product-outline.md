@@ -114,7 +114,8 @@ Outreach may include:
 - *Target Launch Date*
   - October 15, 2020 for first iteration (coronavirus FAQs page) - **Update:** Delayed due to lack of people capacity and ability to implement as well as concerns with Google Translate widget quality. We are now aiming for January 20, 2021 for coronavirus FAQs page + coronavirus research volunteer list.
 - *Actual Launch Date* 
-  - tbd
+  - January 20, 2021
+  - Added COVID-19 vaccine page in Spanish and Tagalog in February 2021 and launching FAQs page in Tagalog in March 2021
 - *What date will you evaluate impact after launch?*
   - **Updated:** 3 months post launch
 ---
