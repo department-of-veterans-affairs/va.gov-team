@@ -102,6 +102,33 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
   - Two younger users joined the call using their phones, expecting to review the feature on mobile
   - Younger users would use a bank app/website to find their bank info, older users would review a check or statement to find the info
   - The two youngest participants expected a logged-in profile would have the DD feature; the older participants looked for dedicated links or pages
+
+## Key findings
+
+- 1. Lorem ipsum dolor sit amet
+- 2. Lorem ipsum dolor sit amet
+- 3. Lorem ipsum dolor sit amet
+- 4. Lorem ipsum dolor sit amet
+- 5. Lorem ipsum dolor sit amet
+
+## Details of findings
+
+### 1. Lorem ipsum dolor sit amet
+
+### 2. Lorem ipsum dolor sit amet
+
+### 3. Lorem ipsum dolor sit amet
+
+### 4. Lorem ipsum dolor sit amet
+
+### 5. Lorem ipsum dolor sit amet
+
+## Additional insights
+
+## Recommendations
+
+## Next steps
+
 -->
 ### Resources
 - [Certificate of Eleigibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design)
