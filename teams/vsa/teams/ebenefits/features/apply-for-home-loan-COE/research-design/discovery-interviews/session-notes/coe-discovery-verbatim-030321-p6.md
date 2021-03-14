@@ -260,7 +260,4 @@ Great. Thank you Have a great afternoon.
 **P6:**  25:18  
 Yep, you too. Thank you. Bye bye.
 
-Transcribed by https://otter.ai
-
-
 ---
