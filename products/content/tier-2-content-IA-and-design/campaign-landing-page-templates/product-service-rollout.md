@@ -8,7 +8,7 @@
    - [X] VHA - Jennifer Heiland-Luedtke, Jeffrey Grandon, TBD (new hire)
    - [X] VBA - Sandy Tadeo, Adrienne Hoten, Jessica Tangitau
    - [X] VEO/OPIA - Tim Hudak, Josh Tuscher, Stephen Walker, Michelle Raines, Beth Lamb
-   - [X] Demos will be held with [notes taken](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Stakeholder%20UAT%20Feedback.md) to capture initial impressions, concerns, themes.
+   - [X] Demos will be held with [notes taken](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Stakeholder%20UAT%20Feedback.md) to capture initial impressions, concerns, themes.   CMS team's detailed user session notes are [here](https://docs.google.com/spreadsheets/d/1BTGVU6eY06xN3OseSyFP17j2OVCulELZDEZQl1s_8eI/edit#gid=0).
  - [ ] 3-4 moderated user sessions will be held and led by CMS usability lead Jane Xiong
     - [X] Tim Hudak (VEO) - Weds 3/10 3:30-5:00 ET
     - [X] Tanekwa Bournes (VBA) - Tuesday, 3/16 10:00-11:30AM ET
