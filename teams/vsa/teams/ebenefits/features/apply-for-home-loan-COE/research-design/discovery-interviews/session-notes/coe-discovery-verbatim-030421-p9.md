@@ -1,5 +1,5 @@
 ## eBenefits COE discovery interviews session 9 
-#### Conducted: March 5, 2021 via Zoom (Rescheduled)
+#### Conducted: March 4, 2021 via Zoom
 #### Moderator: James Adams
 #### Participants: 1
 #### Session Recorded: Yes
