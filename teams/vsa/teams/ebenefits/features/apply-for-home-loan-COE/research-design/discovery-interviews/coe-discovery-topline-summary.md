@@ -141,8 +141,27 @@ Most participants felt it was very important to work with lenders and/or realtor
 - Many said VA.gov had good information, but it was often hard to find; they cited too much content and confusing, circular links that led to the same pages.
 
 ## Recommendations
+- Focus on ease-of-use and simple presentation for the core COE fuctionality: VA form 26-1880
+- Coordinate with the VSA Public Websites team to update and refine information on content pages
+- Design an onscreen and printable user checklist for the VA-loan process
+- Coordinated with teams working on My Documents, Claim Status Tool and MY VA to address "hand-offs" from the COE tool
+- Implement design and development roadmap for COE in phases; MVP to include:
+   - VA Form 26-1880 and content pages (e.g. FAQs)
+   - Auto-generated COE
+   - Claim status handoff
+   - My Documents handoff
+- Subesequent iteration
+   - My VA handoff
+   - VA loan checklist
+   - Other features/tools (e.g. loan calculator)
 
 ## Next steps
+- Static screen design of VA Form 26-1180 to conform to VA.gov conventions
+- Map FE inputs to API/services
+- Build functional prototype of form
+- Usability testing of form and auto-generated COE (need PDF template)
+- Develop and refine content (FAQs, checklist, etc.)
+- Determine path for integration into other VA.gov features (My Docs, My VA, Claim Status Tool)
 
 ### Resources
 - [Certificate of Eleigibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design)
