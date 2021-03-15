@@ -17,7 +17,7 @@ After completion of usability/protyping, prior to moving to development
 - Link to or attach prototype or mockups
 - Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
 - Link to [reseach history masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) showing that you have added your research to the list as applicable
-- Link to or attach final content including H1s (if separate from prototype/mockup)
+- Link to or attach your content source of truth/final content including H1s (if separate from prototype/mockup)
 
 ## Information Architecture Worksheet (Optional)
 
