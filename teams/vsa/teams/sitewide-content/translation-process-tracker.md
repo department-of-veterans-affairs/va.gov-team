@@ -4,3 +4,4 @@
 | FAQs | | | 3/12 | | 3/12 & 3/13 9.5 hrs | | 3/12 | |
 | Vaccine | | | | | |3/8 4.5 hours | | 3/8 4 hours |
 | Vaccine updates for Janssen vaccine | | 3/2 | 3/10 | 3/10 8 hours | 3/10 8 hours |
+| Vaccine update about offering to more Veterans | | 3/15 |
