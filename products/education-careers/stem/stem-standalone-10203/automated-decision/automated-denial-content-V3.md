@@ -93,7 +93,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 { End: Entitlement eligible Reason }
 
 { BEGIN: STEM Program eligible Reason (answer to question 1 or 2 is yes) }
- - You meet the degree requirements for the Rogers STEM Scholarship 
+ - You meet the degree requirements for the Rogers STEM Scholarship. 
      
      
      - You meet the degree requirements because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
