@@ -154,7 +154,7 @@ Most participants felt it was very important to work with lenders and/or realtor
    - Other features/tools (e.g. loan calculator)
 
 ## Next steps
-- Static screen design of VA Form 26-1180 to conform to VA.gov conventions
+- Static screen design of VA Form 26-1880 to conform to VA.gov conventions
 - Map FE inputs to API/services
 - Build functional prototype of form
 - Usability testing of form and auto-generated COE (need PDF template)
