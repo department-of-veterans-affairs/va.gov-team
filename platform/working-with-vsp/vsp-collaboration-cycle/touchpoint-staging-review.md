@@ -37,7 +37,7 @@ VFS provides:
 - Link to the tool or feature  in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 - Staging test user information (if applicable)
 - Link to content brief (if applicable)
-- Specify which artifact represents this initiative's content source of truth (for example, Github, Word outline, or elsewhere) 
+- Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
 - Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) for QA practice area review
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail for QA practice area review
 - Review the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
