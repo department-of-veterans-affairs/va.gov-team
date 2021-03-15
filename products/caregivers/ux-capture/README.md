@@ -122,13 +122,24 @@ This table lists the errors that a user can encounter when submitting the online
   > ⬇️ [Download your completed application(PDF)](#)
   > 
 
+- Images
+
+|Pre-Submission|Loading|On Error|Error Message|
+|:---:|:---:|:---:|:---:|
+|<img width="240" alt="Client Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111198537-0a571580-8596-11eb-82dc-2c44a54132b9.png">|<img width="240" alt="Client Error Image - Loading" src="https://user-images.githubusercontent.com/7391284/111198693-3d010e00-8596-11eb-9a70-b3d59dd97585.png">|<img width="240" alt="Client Error Image - On Error" src="https://user-images.githubusercontent.com/7391284/111198720-44c0b280-8596-11eb-8dcf-533c91aa2b23.png">|<img width="240" alt="Client Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111198763-4ee2b100-8596-11eb-8914-6b9ded0608af.png">|
+
 ##### Review and Submit > Generic Error > PDF Download Loading
 - Message
-  >
-  > ... (content same as above, truncated for brevity.)
   > 
   > :spinner: Downloading PDF...
   > 
+
+- Images
+
+|Pre-Download|Loading|Ready|Downloaded|Opened|Contents|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img width="240" alt="PDF Download - Pre-Download" src="https://user-images.githubusercontent.com/7391284/111198693-3d010e00-8596-11eb-9a70-b3d59dd97585.png">|<img width="240" alt="PDF Download - Loading" src="https://user-images.githubusercontent.com/7391284/111198720-44c0b280-8596-11eb-8dcf-533c91aa2b23.png">|<img width="240" alt="PDF Download - Ready" src="https://user-images.githubusercontent.com/7391284/111198763-4ee2b100-8596-11eb-8914-6b9ded0608af.png">|<img width="240" alt="PDF Download - Downloaded" src="https://user-images.githubusercontent.com/7391284/111199440-011a7880-8597-11eb-9150-54564523e147.png">|<img width="240" alt="PDF Download - Opened" src="https://user-images.githubusercontent.com/7391284/111199523-1c858380-8597-11eb-971f-59bd3749b7d7.png">|<img width="240" alt="PDF Download - Contents" src="https://user-images.githubusercontent.com/7391284/111199573-2ad39f80-8597-11eb-9796-83d8184539b4.png">|n/a|
+
 
 ##### Review and Submit > Generic Error > PDF Download Error
 
