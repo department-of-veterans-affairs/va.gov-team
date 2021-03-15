@@ -18,7 +18,7 @@ This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member
 ### Submission Errors
 This table lists the errors that a user can encounter when submitting the online 10-10CG. Each list item maps the experience (page and state) that the user is directed to when the specified error occurs.
 
-|Error Source|Status Code|Error Desc.|Error Reasoning|UX Result|
+|Error Source|Status Code|Error Desc.|Error Reasoning|UI Result|
 |:---|---:|:---|:---|:---|
 |Front-end|(N/A)|(N/A)|The data provided by the user is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|[Review and Submit > Data-Error (front-end)](#review-and-submit--data-error-front-end)|
 |Reverse Proxy|504|Gateway Timeout|The API did not send a response back to the user within 60 seconds.|[Review and Submit > Client Internet Error](#review-and-submit--client-internet-error)|
