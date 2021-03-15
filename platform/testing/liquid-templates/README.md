@@ -1,6 +1,6 @@
 # Liquid Template Unit Testing Framework
 
-The Liquid Template Unit Testing Framework was created to replace Cypress for unit testing the logic in `liquid` templates because Cypress is slow and heavy and is overkill for this purpose. 
+The Liquid Template Unit Testing Framework was created to replace Cypress for unit testing the logic in `liquid` templates because Cypress is slow, heavy, and is overkill for this purpose. More importantly, this framework provides us with total control over the test data which is critical for testing `liquid` templates, something that Cypress does not provide. For example, a you can test a given `liquid` template against any number of fixtures that represent different enteries into the Drupal CMS, so bugs in `liquid` templates can be discovered more quickly.
 
 **Please note**: End-to-end (e2e) tests on VA.gov use Cypress; Cypress has NOT been replaced by this tool.
 
