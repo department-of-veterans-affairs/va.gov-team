@@ -155,7 +155,7 @@ Do you expect to be called to active duty while enrolled in a VET TEC program?
 
 **Note:** Your eligibility for monthly housing allowance may be affected if you're called to active duty while receiving VET TEC benefits. Please let us know as soon as possible if there's a change in your military status.
   
-
+{ end: if no }
 [ Back | Continue ] { buttons } [Finish this application later.]()
  
 ________________________________________
