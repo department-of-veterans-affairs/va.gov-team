@@ -30,6 +30,7 @@ This table lists the different errors that a user can encounter, and the experie
 
 - Message
   > ❗ **We didn't receive your online application**
+  > 
   > We're sorry. Something went wrong when you tried to submit your
   > online application. You won't be able to resubmit the form online.
   > 
@@ -41,10 +42,10 @@ This table lists the different errors that a user can encounter, and the experie
   > 
   > Mail your application to:
   > 
-  > | **Program of Comprehensive Assistance for Family Caregivers**
-  > | Health Eligibility Center
-  > | 2957 Clairmont Road NE, Ste 200
-  > | Atlanta, GA 30329-1647
+  > > **Program of Comprehensive Assistance for Family Caregivers**  
+  > > Health Eligibility Center 
+  > > 2957 Clairmont Road NE, Ste 200  
+  > > Atlanta, GA 30329-1647
   > 
   > If you have trouble downloading your application, call
   > our [VA.gov](#) help desk at [800-698-2411](#) (TTY: 711). We're here Monday
