@@ -3,7 +3,7 @@ This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member
 
 ## TOC
 - [UX](#ux)
-  - [Submission Errors](#on-submission--error-mapping)
+  - [Submission Errors](#submission-errors)
 - [UI](#ui)
   - [Review and Submit](#review-and-submit)
     - [Data-Error (front-end)](#review-and-submit--data-error-front-end)
