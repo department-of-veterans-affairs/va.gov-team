@@ -21,10 +21,9 @@ VFS brings:
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Link to or attach prototype or mockups
 - Link to content brief (if applicable)
-- Content source of truth: Specify which artifact represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
 - Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
 - Link to [research history masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) showing that you have added your research to the list as applicable
-- Link to or attach final content including H1s (if separate from prototype/mockup)
+- Link to or attach your content source of truth/final content including H1s (if separate from prototype/mockup)
 - Completed information architecture worksheet in ZenHub template (Optional)
 
 ## What is the outcome of this touchpoint?
