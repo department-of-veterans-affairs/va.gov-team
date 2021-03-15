@@ -7,7 +7,6 @@ This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member
 - [UI](#ui)
   - [Review and Submit](#review-and-submit)
     - [Data-Error (front-end)](#review-and-submit--data-error-front-end)
-    - [Loading](#review-and-submit--loading)
     - [Client Internet Error](#review-and-submit--client-internet-error)
     - [Generic Error](#review-and-submit--generic-error)
       - [PDF Download Loading](#review-and-submit--generic-error--pdf-download-loading)
@@ -58,8 +57,6 @@ This table lists the errors that a user can encounter when submitting the online
 |<img width="240" alt="Front-end Data Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111173687-3c0fb280-857d-11eb-8895-16956a90dad7.png">|(N/A)|<img width="240" alt="Front-end Data Error Image -  On Error" src="https://user-images.githubusercontent.com/7391284/111173719-416cfd00-857d-11eb-99a6-ee2387d36ef2.png">|<img width="240" alt="Front-end Data Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111173741-4631b100-857d-11eb-88ac-39e9a67352e3.png">|
 
 <!-- #### Review and Submit > Data-Error (back-end) -->
-
-#### Review and Submit > Loading
 
 #### Review and Submit > Client Internet Error
 - Next Steps
