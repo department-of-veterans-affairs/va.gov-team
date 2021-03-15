@@ -24,8 +24,11 @@ This table lists the different errors that a user can encounter, and the experie
 
 #### Review and Submit > Data-Error (front-end)
 - Next Steps
-  - ✔️ Edit your information
-  - ✔️ Re-submit
+  - ✔️ Can edit information
+  - ✔️ Can resubmit
+
+- CTA
+  - Directed to review information for completness.
 
 - Message:
   > ❗ **We're sorry. Some infromation in your application is missing or**  
@@ -41,8 +44,12 @@ This table lists the different errors that a user can encounter, and the experie
 
 #### Review and Submit > Generic Error
 - Next Steps
-  - ✖️ Cannot re-submit
-  - ✔️ Download PDF, sign, and mail it to HEC.
+  - ✔️ Can edit information
+  - ✖️ Cannot resubmit
+  - ✔️ Can download pre-filled PDF of application
+
+- CTA
+  - Directed to Download PDF, sign, and mail it to HEC.
 
 - Message
   > ❗ **We didn't receive your online application**
@@ -81,5 +88,19 @@ This table lists the different errors that a user can encounter, and the experie
 ##### Review and Submit > Generic Error > PDF Download Error
 
 #### Review and Submit > Client Internet Error
+- Next Steps
+  - ✔️ Can edit information
+  - ✔️ Can resubmit
+
+- CTA
+  - Check their interenet connection
+  - Resubmit
+
+- Message:
+  > ❗ **We're sorry, there was an error connecting to VA.gov.**
+  > 
+  > Please check your Internet connection and try again.
+  > 
+
 
 ### Successful Submission
