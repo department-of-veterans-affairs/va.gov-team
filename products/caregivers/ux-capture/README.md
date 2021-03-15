@@ -16,7 +16,7 @@ This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member
 
 ## UX
 ### Submission Errors
-This table lists the errors that a user can encounter when submitting the online 10-10CG. Each list item maps the experience (page and state) that the user is directed to when the specified error occurs.
+This table lists the errors that a user can encounter when submitting the online 10-10CG. Each row describes the user's experience when the given error occurs.
 
 |Error Source|Status Code|Error Desc.|Error Reasoning|UI Result|
 |:---|---:|:---|:---|:---|
