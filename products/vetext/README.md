@@ -26,27 +26,27 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 
 ### Current Uses
 |**Use Case**|**Description**|**Status**|
-|--|--|--|--|
-**Appointment Reminders** #20657|Veterans receive appointment reminders and can confirm or cancel appointments via text message.|
-**Community Care Appointment Communication** #20663| Texts Veterans in a variety of scenarios around Community Care appointments
-**Inactive Veterans** #21356| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
-**Pharmacy Tracking** #20661|Sends shipment tracking information text to veterans once their medication has shipped
-**Surgery Notifications** #20660|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
-**Vaccine Outreach** #20658|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
-**AVS** #20668| Originally developed to generate a patient-friendly “after visit summary” for Veterans after a medical visit. In the past ten years the term “AVS” has come to cover a lot of applications of the underlying technology related to VistA.
+|--|--|--|
+|**Appointment Reminders** #20657|Veterans receive appointment reminders and can confirm or cancel appointments via text message.|
+|**Community Care Appointment Communication** #20663| Texts Veterans in a variety of scenarios around Community Care appointments
+|**Inactive Veterans** #21356| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
+|**Pharmacy Tracking** #20661|Sends shipment tracking information text to veterans once their medication has shipped
+|**Surgery Notifications** #20660|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
+|**Vaccine Outreach** #20658|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
+|**AVS** #20668| Originally developed to generate a patient-friendly “after visit summary” for Veterans after a medical visit. In the past ten years the term “AVS” has come to cover a lot of applications of the underlying technology related to VistA.
 
 ### Future / Proposed Uses
 |**Use Case**|**Description**|**Status**|
-|--|--|--|--|
-**Pharmacy Refills** #20662|Automates pharmacy refills
-**IMH for BVA Hearings** #21407| Allowing BVA Hearing Officers to track Veteran attendance for appeals hearings.
+|--|--|--|
+|**Pharmacy Refills** #20662|Automates pharmacy refills
+|**IMH for BVA Hearings** #21407| Allowing BVA Hearing Officers to track Veteran attendance for appeals hearings.
 
 ### VEText Components
 |**Use Case**|**Description**|**Status**|
-|--|--|--|--|
-**Appointment Direct Scheduling** #21542 |As a function of VEText, a text can be sent to a selected group of veterans to allow them to schedule appointments. **VEText Portal** #20765|The UI that VA Health Center administrators interact with to initiate VEText messages. 
-**I Am Here (IMH)** #20664| Allows veterans to check in for medical appointments via text message.
-**Open Slot Management (OSM)** #20655|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
+|--|--|--|
+|**Appointment Direct Scheduling** #21542 |As a function of VEText, a text can be sent to a selected group of veterans to allow them to schedule appointments. **VEText Portal** #20765|The UI that VA Health Center administrators interact with to initiate VEText messages. 
+|**I Am Here (IMH)** #20664| Allows veterans to check in for medical appointments via text message.
+|**Open Slot Management (OSM)** #20655|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
 
 
 ================
