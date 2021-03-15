@@ -28,6 +28,29 @@ curl --location --request GET 'https://sandbox-api.va.gov/services/claims/v0/for
 --header 'X-VA-LOA: 3'
 ```
 
+<p>Here is the data structure that is returned by this call</p>
+
+```JavaScript
+{
+  "data": {
+    "id": "b33bd19f-72bc-4e10-b0eb-8e26f4a378e6",
+    "type": "claims_api_power_of_attorneys",
+    "attributes": {
+      "status": "updated",
+      "date_request_accepted": "2021-03-11",
+      "representative": {
+        "service_organization": {
+          "poa_code": "1AQ",
+          "first_name": "John",
+          "last_name": "Doe"
+        }
+      },
+      "previous_poa": null
+    }
+  }
+}
+
+```
 
 </details>
 
