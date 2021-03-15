@@ -126,14 +126,19 @@ Most participants knew the COE was a pre-requisite for getting a VA-backed loan;
 - Military service
 - Good credit history
 - No other VA loans
+- DD214, Social Security card
 
-Only one participant was familiar with "Funding Fee Status."
+No participant felt there was an undue documentation burden for COE. Only one participant was familiar with "Funding Fee Status."
 
 ### 4. Many participants said they'd benefit from a VA home loan checklist to guide then through the process
+Regarding any other information or tools they'd want, several participants metioned they's benefit from a checklist that included the steps in the home loan process, as well as all VA requirements and documentation. VA.gov does have most of this information available, but only the Interest rate reduction refinance loan has a step-by-step subway map of its process.
 
 ### 5. Several participants suggested they'd benefit from a "VA-approved" list of lenders or realtors
+Most participants felt it was very important to work with lenders and/or realtors who were experienced with VA-backed loans. A couple of particpants mentioned they would laike a list or lookup of VA-approved lenders and realtors. One person mentioned a problem with predatory lenders looking to take advantage of verterans and service members.
 
 ## Additional insights
+- Some users mentioned they like eBenefits for it personalized "dashboard" organization; those who used EBN to get their COE said it was very easy
+- Many said VA.gov had good information, but it was often hard to find; they cited too much content and confusing, circular links that led to the same pages.
 
 ## Recommendations
 
