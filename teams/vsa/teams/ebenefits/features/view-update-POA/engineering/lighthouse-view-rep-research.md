@@ -54,3 +54,5 @@ curl --location --request GET 'https://sandbox-api.va.gov/services/claims/v0/for
 
 </details>
 
+The current data returned by Lighthouse does not include the first name or last name of the current prepresentative for a Veteran. 
+
