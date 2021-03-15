@@ -134,12 +134,45 @@ This table lists the errors that a user can encounter when submitting the online
 
 ### Successful Submission
 - Next Steps
-  - 
+  - ✖️ Cannot edit information
+  - ✖️ Cannot resubmit
+  - ✔️ Must wait to be contacted by a Caregiver Support Coordinator
+  - ✔️ Can print the page
+  - ✔️ Can contact VA Caregiver Support Line by phone or email
 
 - CTA
-  - 
+  - Print this page
+  - (if you have any questions) Contact Contact VA Caregiver Support Line by phone or email
+  - Go back to VA.gov
 
 - Message
+  > ✅ **You’ve successfully submitted your application.**  
   > 
+  > Once we’ve reviewed your application, a Caregiver Support Coordinator will  
+  > contact you to discuss next steps.  
   > 
+
+  > **Application for the Program of Comprehensive Assistance for**  
+  > **Family Caregivers (VA Form 10-10CG)**  
+  > For Veteran: Tamara E Ellis  
+  > 
+  > **Date received**  
+  > March 15, 2021
+  > 
+  > [Print this page](#)
+  > 
+
+  > **What happens after I apply?**  
+  > 
+  > If we need you to provide more information or documents, we will contact you.
+  > 
+  > A member of the Caregiver Support Program team at the medical center where the  
+  > Veteran plans to receive care will contact you to discuss the application process and next  
+  > steps in determining eligibility. If you aren’t eligible for PCAFC you may be eligible for the  
+  > Program of General Caregiver Support Services (PGCSS).
+  > 
+  > If you have questions about your application, what to expect next, or if you are interested  
+  > in learning more about the supports and services available to support Veterans and  
+  > caregivers, you may contact the VA Caregiver Support Line at [855-260-3274](#) or  
+  > visit [www.va.caregiver.gov](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/www.va.caregiver.gov).  
   > 
