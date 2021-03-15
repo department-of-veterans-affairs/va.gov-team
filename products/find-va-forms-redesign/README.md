@@ -39,16 +39,15 @@ As of 12/31/2020:
 |John Hashimoto	| Decision Tools Product Owner|
 |Marci McGuire	| Decision Tools Product Manager|
 |Zachary Morel	|FE Engineer|
-|Laurel Lawrence	| Design/Research|
+|Cassandra Allen| Design|
 
 ### Lighthouse API Team
 |Name|Role|
 |----|----|
 |Lee DeBoom	|Vets API|
-|Dan Hinze | Software Engineer|
-|Lydia Vian	|VA APIs|
-|Jerod Bieringer	|VA APIs|
-|Michael Bastos	|VA APIs|
+|Mark Viterna	|Team-Matsumoto - Benefits Intake/Forms API|
+|Ryan Link	|Customer Success Manager, Lighthouse APIs [Oddball]|
+|Nichole Harris	|Product Manager - Team-Matsumoto|
 
 ### Other Subject Matter Experts
 |Name|Role|
@@ -60,7 +59,7 @@ As of 12/31/2020:
 |Nick Sullivan	|FE Engineer|
 |Kelson Adams	| FE Engineer|
 |Steve Wirt	| CMS: Drupal|
-|Ryan Thurlwell	| Original Design Intent|
+|Ryan Thurlwell	| Design Lead|
 |Charley Stran	| Formerly supported Forms on Lighthouse API team|
 
 __VA forms stakeholder working group includes:__
