@@ -19,10 +19,15 @@ This table lists the different errors that a user can encounter, and the experie
 |API|504|Gateway Timeout|The back-end, when acting as a proxy, did not receive a response from the target service.|[Review and Submit > Generic Error](#review-and-submit--generic-error)|
 
 ## UI
+
 ### Review and Submit
+
 #### Review and Submit > Data-Error (front-end)
+
 <!-- #### Review and Submit > Data-Error (back-end) -->
+
 #### Review and Submit > Loading
+
 #### Review and Submit > Generic Error
 - Next Steps
   - ✖️ Cannot re-submit
@@ -53,7 +58,17 @@ This table lists the different errors that a user can encounter, and the experie
   > 
   > ⬇️ [Download your completed application(PDF)](#)
   > 
+
 ##### Review and Submit > Generic Error > PDF Download Loading
+- Message
+  >
+  > ... (content same as above, truncated for brevity.)
+  > 
+  > :spinner: Downloading PDF...
+  > 
+
 ##### Review and Submit > Generic Error > PDF Download Error
+
 #### Review and Submit > Client Internet Error
+
 ### Successful Submission
