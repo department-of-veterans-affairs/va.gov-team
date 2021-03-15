@@ -43,7 +43,7 @@ This table lists the different errors that a user can encounter, and the experie
   > Mail your application to:
   > 
   > | **Program of Comprehensive Assistance for Family Caregivers**  
-  > | Health Eligibility Center 
+  > | Health Eligibility Center  
   > | 2957 Clairmont Road NE, Ste 200  
   > | Atlanta, GA 30329-1647
   > 
