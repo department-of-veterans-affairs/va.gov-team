@@ -50,7 +50,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: Chapter 33 eligibility }
 
-- You're eligible for Post-9/11 GI Bill benefits
+- You're eligible for Post-9/11 GI Bill benefits.
  
     - According to your service and school data records on file, as of [MM/DD/YYYY], you're eligible for Post-9/11 GI Bill benefits.
     
@@ -60,7 +60,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: STEM Program eligibility }
 
-- You meet the degree requirements for the Rogers STEM Scholarship 
+- You meet the degree requirements for the Rogers STEM Scholarship.
      
      
      - You meet the degree requirements because you answered "Yes" to one of these questions on the Rogers STEM Scholarship application.
