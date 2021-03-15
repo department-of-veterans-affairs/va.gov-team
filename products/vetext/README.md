@@ -9,26 +9,6 @@ In 2020 the VEText team moved to the OCTO to give it a national scope, and is no
 
 ================
 
-# Active Uses of the VEText Team #
-
-**Use Case** | **Description** | **Status**
----|---|---
-**✔ Open Slot Management (OSM)** | Is used to reduce long wait times at VA clinics. It finds veterans waiting for appointments and offers a defined number of them an open appointment slot on a first come first serve basis. It’s configurable based on a variety of parameters to ensure appointment slots do not go unused. It can be turned on for certain clinics or specific clinical service groups (“stop codes”) within a facility. | Active for two years, was shut down due to Covid, but reopened in Oct & currently in use by 10 hospitals
-**** | Below this line, hasn’t been verified with the team | 
-**Appointment Reminders** | Sends reminders to vets who have been identified by NIRMO as likely to miss their appointments. Gives them the option to confirm, cancel or reschedule. | 
-**Vaccine Outreach** | To facilitate both flu & covid vaccine rollout, allows administrators to proactively text a batch of veterans to schedule an appointment. Covid outreach uses OSM. | 
-**Surgery Notifications** | Notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions | 
-**Direct Scheduling** | Veterans can schedule appointments via text message. Sites have to decide what patients they send the appointments to by cohort etc. then upload them to sharepoint and include information there. VEText team (Andy) has to manually add them to a batch | Deployed Nationwide
-**Pharmacy Tracking** |  | Pilot in Asheville, Eastern Colorado next.
-**Pharmacy Refills** | Automates pharmacy refills - pilot program is using local pharmacies and only fills controlled substances with plans to roll out to more in the future (Asheville is not using CMOP(‘local pharmacy’ instead). This project requires budget support (AWS credits - some sites paying ‘out of pocket’) | 
-**Community Care** | If a veteran chooses to self-schedule a community appointment, and the consult is not in a scheduled or completed status 14 days from the date outreach occurs, VEText will send a text reminder requesting the appointment information. Veterans can respond to the VEText message with the community appointment date and time. | 
-**I Am Here (IMH) (Patient Tracking)** | To enable social distancing during COVID-19, allows veterans to check in for medical appointments via text message. This also optionally links to a pre-visit covid screener. | 80% of facilities use today
-**BVA Notices** | The Board of Veterans Appeals wants to use to schedule hearings | Unreleased
-**Clipboard Integration with AVS** | The clipboard team needs 3 questions added to the Pre Visit Summary intake questionnaire, and Rob’s comprehensive knowledge of VistA and EMRs can speed this process considerably. | Pre-planning (ideally rolling out sometime in March)
-**AVS** | AVS was originally developed to generate a patient-friendly “after visit summary” for Veterans after a medical visit. In the past ten years the term “AVS” has come to cover a lot of applications of the underlying technology including a pre-visit summary and other documents that need to be auto-generated related to patient care and saved in VistA. Recently brought under the CTO portfolio, and needs to be updated. | 100 sites using AVS, some mandated some on case-by-case. Many additional uses for technology identified.
-
-================
-
 # Team #
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
 
@@ -42,7 +22,36 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 
 ================
 
-# Pain Points #
+# Uses of the VEText Team #
+
+### Current Uses
+|**Use Case**|**Description**|**Status**|
+|--|--|--|--|
+**Appointment Reminders** #20657|Veterans receive appointment reminders and can confirm or cancel appointments via text message.|
+**Community Care Appointment Communication** #20663| Texts Veterans in a variety of scenarios around Community Care appointments
+**Inactive Veterans** #21356| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
+**Pharmacy Tracking** #20661|Sends shipment tracking information text to veterans once their medication has shipped
+**Surgery Notifications** #20660|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
+**Vaccine Outreach** #20658|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
+**AVS** #20668| Originally developed to generate a patient-friendly “after visit summary” for Veterans after a medical visit. In the past ten years the term “AVS” has come to cover a lot of applications of the underlying technology related to VistA.
+
+### Future / Proposed Uses
+|**Use Case**|**Description**|**Status**|
+|--|--|--|--|
+**Pharmacy Refills** #20662|Automates pharmacy refills
+**IMH for BVA Hearings** #21407| Allowing BVA Hearing Officers to track Veteran attendance for appeals hearings.
+
+### VEText Components
+|**Use Case**|**Description**|**Status**|
+|--|--|--|--|
+**Appointment Direct Scheduling** #21542 |As a function of VEText, a text can be sent to a selected group of veterans to allow them to schedule appointments. **VEText Portal** #20765|The UI that VA Health Center administrators interact with to initiate VEText messages. 
+**I Am Here (IMH)** #20664| Allows veterans to check in for medical appointments via text message.
+**Open Slot Management (OSM)** #20655|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
+
+
+================
+
+# Pain Points (02/21)#
 
 VEText is a victim of its own success. A talented close-knit team created a stable, versatile tool for one specific purpose. 
 
