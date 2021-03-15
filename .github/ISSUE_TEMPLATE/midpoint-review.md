@@ -22,6 +22,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Link to or attach prototype or mockups
 - Link to content brief (if applicable)
+- Content source of truth: Specify which artifact represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
 - Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md))  and conversation guide ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
 - Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)) (if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
 - Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) for QA practice area review
