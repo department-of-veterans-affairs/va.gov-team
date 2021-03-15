@@ -26,7 +26,7 @@ Before we start, a few things I want to mention:
 * In this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this test, I will ask you to share your screen so that I can follow along with you. When we get to that portion of the session, I will give you instructions on how to share your screen if you need it.\*\*
 * Today, you'll be interacting with a tool in our staging environment. This means that it will look like you're on VA.gov, but none of your actions will be saved or affect your actual VA information or benefits in any way.
-* While you're interacting with this tool, you'll need to provide financial information such as your monthly household income and expenses. Normally this information would need to be accurate, but for the sake of this test, you can provide estimates. None of this information will be saved or affect your VA information or benefits. Are you comfortable providing this information?
+* While you're interacting with this tool, you'll need to provide financial information such as your monthly household income and expenses. Normally this information would need to be accurate, but for the sake of this test, you can provide estimates. None of this information will be saved or affect your VA information or benefits. Are you comfortable providing estimates for this information?
 * If for any reason and at any time you want to stop the session, please let me know.
 
 ----
