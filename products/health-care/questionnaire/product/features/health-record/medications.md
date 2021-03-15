@@ -14,9 +14,9 @@
 - Use case: Veterans and VA providers want/need to know about changes to Veteran medications, including:
   - Compliance on prescribed medications (Is the Veteran taking it as prescribed or not? Why?)
   - Is the Veteran taking any over the counter medications or supplements?
-- Was the Veteran prescribed any medications from providers outside the VA system?
-- Are the medications within the VA’s medical record up-to-date?
-- Did the Veteran have any medication reactions not documented in the VA’s system?
+  - Was the Veteran prescribed any medications from providers outside the VA system?
+  - Are the medications within the VA’s medical record up-to-date?
+  - Did the Veteran have any medication reactions not documented in the VA’s system?
 
 ## Product Features/User Stories
 ### Display medications listed within the Veteran’s VA medical records
