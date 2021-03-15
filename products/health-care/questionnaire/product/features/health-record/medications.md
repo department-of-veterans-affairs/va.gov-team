@@ -25,7 +25,7 @@
 - List of possible data points and features listed at the bottom of this feature document.
 
 ### Provide a way for a Veteran to add a self-reported medication
-- [High-level storyboard] https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/GmoOGGL
+- [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/GmoOGGL)
 - What data needs to be captured when entering a new medication?
 
 ### Display self-reported medications
