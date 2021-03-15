@@ -72,7 +72,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: If EVSS finds their info, this reason will be displayed }
 
- - You're eligible for Post-9/11 GI Bill benefits
+ - You're eligible for Post-9/11 GI Bill benefits.
  
     - According to your service and school data records on file, as of { Mon. DD, YYYY }, you're eligible for Post-9/11 GI Bill benefits.
     
@@ -83,7 +83,7 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
 
 { BEGIN: Entitlement eligible Reason (<= 180 days of remaining entitlement) }
 
- - You meet the benefit requirements for the Rogers STEM Scholarship 
+ - You meet the benefit requirements for the Rogers STEM Scholarship.
      
     - According to your service and school data records on file, as of { Mon. DD, YYYY }, you have less than 6 months of Post-9/11 GI Bill (Chapter 33) benefits remaining.
    
