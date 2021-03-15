@@ -14,9 +14,9 @@ The documentation for the Lighthouse Endpoint we will hit for View Representativ
 ## BE Research findings
 
 <details><summary>Current Call</summary>
-<p>
 
-This is the call to get the current representative for a Veteran
+
+<p>This is the call to get the current representative for a Veteran</p>
 
 ```python
 curl --location --request GET 'https://sandbox-api.va.gov/services/claims/v0/forms/2122/active' \
@@ -28,6 +28,6 @@ curl --location --request GET 'https://sandbox-api.va.gov/services/claims/v0/for
 --header 'X-VA-LOA: 3'
 ```
 
-</p>
+
 </details>
 
