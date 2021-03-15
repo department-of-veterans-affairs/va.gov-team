@@ -32,7 +32,7 @@
 - Similar to VA medical record medications, determine what exact data points to display. Are there any difference between VA medical record medications and self-reported medications? 
 - List of possible data points and features listed at the bottom of this feature document.
 
-### Display a description explaining:
+### Display a description explaining
 - Why the Veteran should review and update this information
 
 ### Ability for Veteran to mark medication compliance
