@@ -23,6 +23,17 @@ This table lists the different errors that a user can encounter, and the experie
 ### Review and Submit
 
 #### Review and Submit > Data-Error (front-end)
+- Next Steps
+  - ✔️ Edit your information
+  - ✔️ Re-submit
+
+- Message:
+  > ❗ **We're sorry. Some infromation in your application is missing or**  
+  > **not valid**  
+  > 
+  > Please check each section of your application to make sure you've  
+  > filled out all the information that is required.  
+  > 
 
 <!-- #### Review and Submit > Data-Error (back-end) -->
 
