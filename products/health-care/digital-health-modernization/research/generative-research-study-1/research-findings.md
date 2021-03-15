@@ -137,7 +137,9 @@ During synthesis, we noticed meaningful segmentation based on:
 * Asssociates: 2
 * No degree: 5
 
+## Insights at a glance
 
+1. 
 
 
 
