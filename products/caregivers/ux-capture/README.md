@@ -1,6 +1,14 @@
 # Recordings of 10-10CG UI/UX
 This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg) user experiance. This information is based the **Review Instance** enviornment and was last updated on **March 12, 2021**.
 
+This document seeks to answer the following questions:
+- What types of errors that can occur?
+- What the status code for each type of error?
+- What message does the user see for each error type?
+- What next steps are users encouraged to take?
+
+Please see issue [#21213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21213) for additional context.
+
 ## TOC
 - [UX](#ux)
   - [Submission Errors](#submission-errors)
@@ -125,3 +133,13 @@ This table lists the errors that a user can encounter when submitting the online
 ##### Review and Submit > Generic Error > PDF Download Error
 
 ### Successful Submission
+- Next Steps
+  - 
+
+- CTA
+  - 
+
+- Message
+  > 
+  > 
+  > 
