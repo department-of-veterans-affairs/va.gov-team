@@ -16,14 +16,6 @@ _VA.gov CMS team: Jordana Mello_
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center)
 
 
-#### November, 2020: Claro Design System study 
-
-_VA.gov CMS team: Hayley Evans, Jordana Mello_
-
-* x participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/claro-ds)
-
-
 #### April - May, 2020: Editorial workflow and assignments study 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
