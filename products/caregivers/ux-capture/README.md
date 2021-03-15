@@ -24,6 +24,34 @@ This table lists the different errors that a user can encounter, and the experie
 <!-- #### Review and Submit > Data-Error (back-end) -->
 #### Review and Submit > Loading
 #### Review and Submit > Generic Error
+- Next Steps
+  - ✖️ Cannot re-submit
+  - ✔️ Download PDF, sign, and mail it to HEC.
+
+- Message
+  > ❗ **We didn't receive your online application**
+  > We're sorry. Something went wrong when you tried to submit your
+  > online application. You won't be able to resubmit the form online.
+  > 
+  > **What you can do now**
+  > 
+  > Please review your application to make sure you entered your
+  > information correctly. Then download, print, and sign a copy of your
+  > completed application.
+  > 
+  > Mail your application to:
+  > 
+  > | **Program of Comprehensive Assistance for Family Caregivers**
+  > | Health Eligibility Center
+  > | 2957 Clairmont Road NE, Ste 200
+  > | Atlanta, GA 30329-1647
+  > 
+  > If you have trouble downloading your application, call
+  > our [VA.gov](#) help desk at [800-698-2411](#) (TTY: 711). We're here Monday
+  > through Friday, 8:00 a.m. to 8:00 p.m. ET.
+  > 
+  > ⬇️ [Download your completed application(PDF)](#)
+  > 
 ##### Review and Submit > Generic Error > PDF Download Loading
 ##### Review and Submit > Generic Error > PDF Download Error
 #### Review and Submit > Client Internet Error
