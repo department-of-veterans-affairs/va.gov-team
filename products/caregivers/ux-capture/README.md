@@ -1,9 +1,22 @@
 # Recordings of 10-10CG UI/UX
-This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg) user experiance. This information is based the **Review Instance** enviornment and was last captured on **March 12, 2021**.
+This page is a snapshot of the [Online 10-10CG](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg) user experiance. This information is based the **Review Instance** enviornment and was last updated on **March 12, 2021**.
+
+## TOC
+- [UX](#ux)
+  - [Submission Errors](#on-submission--error-mapping)
+- [UI](#ui)
+  - [Review and Submit](#review-and-submit)
+    - [Data-Error (front-end)](#review-and-submit--data-error-front-end)
+    - [Loading](#review-and-submit--loading)
+    - [Client Internet Error](#review-and-submit--client-internet-error)
+    - [Generic Error](#review-and-submit--generic-error)
+      - [PDF Download Loading](#review-and-submit--generic-error--pdf-download-loading)
+      - [PDF Download Error](#review-and-submit--generic-error--pdf-download-error)
+  - [Successful Submission](#successful-submission)
 
 ## UX
-### On Submission
-This table lists the different errors that a user can encounter, and the experience (page and state) that they are directed to when it occurs.
+### Submission Errors
+This table lists the errors that a user can encounter when submitting the online 10-10CG. Each list item maps the experience (page and state) that the user is directed to when the specified error occurs.
 
 |Error Source|Status Code|Error Desc.|Error Reasoning|UX Result|
 |:---|---:|:---|:---|:---|
@@ -47,6 +60,27 @@ This table lists the different errors that a user can encounter, and the experie
 <!-- #### Review and Submit > Data-Error (back-end) -->
 
 #### Review and Submit > Loading
+
+#### Review and Submit > Client Internet Error
+- Next Steps
+  - ✔️ Can edit information
+  - ✔️ Can resubmit
+
+- CTA
+  - Check their interenet connection
+  - Resubmit
+
+- Message:
+  > ❗ **We're sorry, there was an error connecting to VA.gov.**
+  > 
+  > Please check your Internet connection and try again.
+  > 
+
+- Images
+
+|Pre-Submission|Loading|On Error|Error Message|
+|:---:|:---:|:---:|:---:|
+|<img width="240" alt="Client Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111172469-38c7f700-857c-11eb-9d8d-b0fe029c02e8.png">|<img width="240" alt="Client Error Image - Loading submission" src="https://user-images.githubusercontent.com/7391284/111172544-4aa99a00-857c-11eb-9006-541e1804cc60.png">|<img width="240" alt="Client Error Image - On Error" src="https://user-images.githubusercontent.com/7391284/111172608-585f1f80-857c-11eb-9ac1-1c4939ee36e8.png">|<img width="240" alt="Client Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111172672-6614a500-857c-11eb-84ae-6fd2faf1ebff.png">|
 
 #### Review and Submit > Generic Error
 - Next Steps
@@ -92,26 +126,5 @@ This table lists the different errors that a user can encounter, and the experie
   > 
 
 ##### Review and Submit > Generic Error > PDF Download Error
-
-#### Review and Submit > Client Internet Error
-- Next Steps
-  - ✔️ Can edit information
-  - ✔️ Can resubmit
-
-- CTA
-  - Check their interenet connection
-  - Resubmit
-
-- Message:
-  > ❗ **We're sorry, there was an error connecting to VA.gov.**
-  > 
-  > Please check your Internet connection and try again.
-  > 
-
-- Images
-
-|Pre-Submission|Loading|On Error|Error Message|
-|:---:|:---:|:---:|:---:|
-|<img width="240" alt="Client Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111172469-38c7f700-857c-11eb-9d8d-b0fe029c02e8.png">|<img width="240" alt="Client Error Image - Loading submission" src="https://user-images.githubusercontent.com/7391284/111172544-4aa99a00-857c-11eb-9006-541e1804cc60.png">|<img width="240" alt="Client Error Image - On Error" src="https://user-images.githubusercontent.com/7391284/111172608-585f1f80-857c-11eb-9ac1-1c4939ee36e8.png">|<img width="240" alt="Client Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111172672-6614a500-857c-11eb-84ae-6fd2faf1ebff.png">|
 
 ### Successful Submission
