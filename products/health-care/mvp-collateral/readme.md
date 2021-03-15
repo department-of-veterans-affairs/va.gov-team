@@ -123,6 +123,7 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 
 Note: Newest content is listed first
 
+- [VAntage Point Blog: Morgan Danowski: Combining science and service as a VA genetic counselor](https://blogs.va.gov/VAntage/85996/combining-science-service-va-genetic-counselor/)
 - [Combat Divas Podcast: The Real MVPs feat. Sumitra Muralidhar](https://podcasts.apple.com/us/podcast/the-real-mvps-feat-sumitra-muralidhar/id1450927577?i=1000511698703)
 - [VAntage Point Blog: Sedra Graves: Giving back through research](https://blogs.va.gov/VAntage/85366/sedra-graves-giving-back-research)
 - [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
