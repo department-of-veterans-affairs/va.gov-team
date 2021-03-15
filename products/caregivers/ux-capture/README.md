@@ -38,6 +38,12 @@ This table lists the different errors that a user can encounter, and the experie
   > filled out all the information that is required.  
   > 
 
+- Images
+
+|Pre-Submission|Loading|On Error|Error Message|
+|:---:|:---:|:---:|:---:|
+|<img width="240" alt="Front-end Data Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111173687-3c0fb280-857d-11eb-8895-16956a90dad7.png">|(N/A)|<img width="240" alt="Front-end Data Error Image -  On Error" src="https://user-images.githubusercontent.com/7391284/111173719-416cfd00-857d-11eb-99a6-ee2387d36ef2.png">|<img width="240" alt="Front-end Data Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111173741-4631b100-857d-11eb-88ac-39e9a67352e3.png">|
+
 <!-- #### Review and Submit > Data-Error (back-end) -->
 
 #### Review and Submit > Loading
@@ -102,5 +108,10 @@ This table lists the different errors that a user can encounter, and the experie
   > Please check your Internet connection and try again.
   > 
 
+- Images
+
+|Pre-Submission|Loading|On Error|Error Message|
+|:---:|:---:|:---:|:---:|
+|<img width="240" alt="Client Error Image - Pre-submission" src="https://user-images.githubusercontent.com/7391284/111172469-38c7f700-857c-11eb-9d8d-b0fe029c02e8.png">|<img width="240" alt="Client Error Image - Loading submission" src="https://user-images.githubusercontent.com/7391284/111172544-4aa99a00-857c-11eb-9006-541e1804cc60.png">|<img width="240" alt="Client Error Image - On Error" src="https://user-images.githubusercontent.com/7391284/111172608-585f1f80-857c-11eb-9ac1-1c4939ee36e8.png">|<img width="240" alt="Client Error Image - Error Message" src="https://user-images.githubusercontent.com/7391284/111172672-6614a500-857c-11eb-84ae-6fd2faf1ebff.png">|
 
 ### Successful Submission
