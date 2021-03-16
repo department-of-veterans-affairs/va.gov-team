@@ -87,11 +87,15 @@ Documenting Facility: LOMA LINDA HCS
 
 - Allergy Name
 - Onset date
+- Verified date
 - severity/clinical risk (low risk, etc)
 - diagnosed (there is a dropdown with options in MyHealtheVet right now)
 - reaction (could note when it was clinically observed - if it was clinically observed)
 - comments
 - reported by (doctor's name or patient)
+- documenting facility
+- diagnosed (yes/no) - for self-reported only?
+- self-reported status marker
 - ability to add a new allergy (patient reported data)
 - links to educational material on the allergies (currently links to Medline Plus)
 
