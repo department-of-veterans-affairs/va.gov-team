@@ -285,8 +285,6 @@ Design
 
 ### My VA redesign
 
-
-
 ### Direct deposit for edu
 
 **PM**
@@ -301,20 +299,25 @@ Design
 **PM**
 
 - Schedule and hold design intent collab
+- Plan for IA review
 
 **Design**
 
 - Finish design
+- Plan for IA review
 
 ### Notification preferences
 
 **PM**
 
+- Meet with Terry to better understand timeline so we can scope/plan
 - Schedule and hold design intent collab
+- Plan for IA review
 
 **Design**
 
 - Finish design
+- Plan for IA review
 
 ## Sprint 46 (4/21 - 5/4)
 
@@ -335,7 +338,6 @@ Prep for QA
 **Design**
 
 - Review feature and give final sign off for QA
-
 
 ### Direct deposit for edu
 
@@ -369,7 +371,6 @@ Prep for QA
 ## Sprint 47 (5/5 - 5/18)
 
 ### My VA redesign
-
 
 QA!!
 
