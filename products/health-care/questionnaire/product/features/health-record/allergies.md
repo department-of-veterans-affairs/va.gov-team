@@ -40,6 +40,7 @@
 ### Ability for Veterans to edit their allergies
 - [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/v88p7Wd)
 - What should be editable for a Veteran-reported allergy? Can we make the fields easily understandable to the Veterans? For instance, what does “severity” actually mean? What should be editable (if anything — possibly reactions?) for a provider-entered medication from the medical record?
+- Can a Veteran “request removal” of an allergy that is already provider-confirmed and listed in their medical record?
 
 ### Provider a way to access patient education information, so the Veteran can learn more about their allergies/intolerances
 - [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/4aaMjA3)
@@ -56,7 +57,6 @@
 
 ### Interaction Design Questions
 - Sort order alphabetical?
-- Can a Veteran “request removal” of an allergy that is already provider-confirmed and listed in their medical record?
 - When entering a self-reported allergy, provide clarity on what the “Diagnosed” field is asking?
 - **At March 15, 2021 meeting on list loops, it was suggested for all teams to test out a list loop pattern that shows only one decision point at a time. Then, submit the designs to the DSVA #design channel for the team to comment on. Revisit list loop patterns as the convention might have been decided on/changed.**
 - During user research, it was determined that each Veteran has a unique cadence for how often they would like to update their health records (medications, allergies, and immunizations), so incorporate a way for them to quickly navigate across the sections. Really think about Veterans can quickly skip around. Really evaluate how many questions they have to answer in each section.
