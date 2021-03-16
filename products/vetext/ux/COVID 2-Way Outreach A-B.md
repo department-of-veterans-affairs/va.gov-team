@@ -63,6 +63,7 @@ B (added responses for VAX and PASS)
 > %FACILITY_NAME% is offering COVID-19 vaccines. To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%
 > 
 > If you have already received, or are scheduled to receive, the vaccine: Reply VAX
+> 
 > If you are not interested at this time: Reply PASS
 > 
 > More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
@@ -79,6 +80,7 @@ A (current message):
 >  %FACILITY_NAME% is offering COVID-19 vaccines. To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%
 > 
 > If you have already received, or are scheduled to receive, the vaccine: Reply VAX
+> 
 > If you are not interested at this time: Reply PASS
 > 
 > More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
@@ -88,6 +90,7 @@ B (added VA: Hi, Firstname):
 > VA: Hi, %PATIENT_FIRST_NAME%, %FACILITY_NAME% is offering COVID-19 vaccines. To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%
 > 
 > If you have already received, or are scheduled to receive, the vaccine: Reply VAX
+> 
 > If you are not interested at this time: Reply PASS
 > 
 > More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
