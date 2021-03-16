@@ -9,7 +9,7 @@
   * [Product Requirements](#Product-requirements)
   * [Solution Approach](#Solution-Approach)
   * [Go-to-Market Strategy](#Go-to-Market-Strategy)
-  * [Key Artifacts](Key-Artifacts)
+  * [Key Artifacts](#Key-Artifacts)
   * Technical Artifacts
   * Status and Decisions
   * [For Reference](#For-Reference)
