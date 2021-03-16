@@ -12,12 +12,12 @@
 
 Minor Tweaks Observations
 
-1. Enable this page segment -- change to Use this Panel
-2. What You Can Do Panel needs more required fields -- right now, user can half format 
+1. "Enable this page segment" checkbox -- change to "Use this Panel"
+2. What You Can Do Panel needs more required fields -- right now, user can half format and SAVE (see Tanekwa's build in preview)
 3. Where is alt.text for images and video
 
 **Product Iteration Themes**
 
 1. Would like ability to re-arrange the panels
 2. Consider the addition of a What's on the Page TOC with hotlinks
-3. Make easier the form in context to the actual panel -- maybe the visual example to start.
+3. Make it easier to understand what the user is building -- what's required, what's recommended (maybe a visual example as a popup) -- so user does not keep getting errors as they try to save and preview.
