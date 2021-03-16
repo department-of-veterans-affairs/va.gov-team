@@ -98,6 +98,7 @@
   - As seen in current MyHealtheVet, an example of data in this field was "VA prescription")
 - Condition/Diagnosis prescribed for
 - patient side effects (patient generated)
+- self-reported status marker
 
 ## Possibly out of scope data points and features?
 _Not typical features we should consider/challenges today_
