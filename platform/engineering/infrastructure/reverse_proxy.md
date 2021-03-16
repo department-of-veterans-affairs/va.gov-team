@@ -28,6 +28,12 @@ Nginx conf files containing the properties for each environment:
 - [staging](url)
 - [prod](url)
 
+## Proxy headers
+
+Our current nginx config only provides for proxying to s3 buckets that have the same name as the site for which they are being proxied. However, in order to use a specific S3 bucket a new proxy header was created to handle this by not overriding the host header for s3 requests.
+
+These new headers can be found [here](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/files/proxy-headers-s3.conf).
+
 ## Next steps
 
 - Write code to update reverse proxy to use separate S3 buckets
@@ -48,15 +54,23 @@ Nginx conf files containing the properties for each environment:
 - After that, we will add update all instances of `default_proxy_url` in the [nginx_website_server](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_website_server.conf.j2) config file with the 2 new variables (`content` and `apps` buckets) respectively. 
 - we could also use something like this:
 ```
-    {% if web_server.apps_proxy_url %}
+    {% if web_server.content_proxy_url %}
         proxy_pass {{ web_server.content_proxy_url }}{{ route.path }}/index.html$is_args$args;
     {% else %}
         proxy_pass {{ web_server.default_proxy_url }}{{ route.path }}/index.html$is_args$args;
     {% endif %}
 ```
 
+## Rollback (dev)
+
+Once content and apps have been deployed to dev using the `content_proxy_url` and `apps_proxy_url` variables in the [nginx_website_server](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_website_server.conf.j2) config file. It will be easier to rollback those changes by just commenting out those variables in the [nginx_config_vagov-dev.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/nginx_config_vagov-dev.yml#L8-L9) file.
+
+```
+  # content_proxy_url: http://content.dev.va.gov.s3-website-us-gov-west-1.amazonaws.com
+  # apps_proxy_url: http://apps.dev.va.gov.s3-website-us-gov-west-1.amazonaws.com
+```
+
 ## Links
 
 - [Reverse proxy initial clean up](https://github.com/department-of-veterans-affairs/devops/pull/7262)
-- [Reverse Proxy Documentation](https://vfs.atlassian.net/wiki/spaces/VI/pages/744980492/Reverse+Proxy)
 - [Files, templates, and variables leveraged by all environments](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/deployment/config/revproxy-vagov)
