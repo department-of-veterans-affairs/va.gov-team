@@ -133,8 +133,10 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 
 ## Product Requirements 
 
-- Providing Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
-- Create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
+- Phase 1: provide Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
+- Phase 2: create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
+- Phase 3: research and document an enterprise-wide recommendation that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
+- 
 Out of Scope
 - Site-wide roll-out or centralized translation management
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
@@ -171,7 +173,7 @@ What’s Next
 - Develop a recommendation document that includes technical research and internal stakeholders needs
 
 ________________________________________
-## Go-to-market Strategy
+## Go-to-Market Strategy
 How are Veterans and others using this product going to know it exists? 
 
 We'll need to reach specific audiences who may need content translated into Spanish (see below)
