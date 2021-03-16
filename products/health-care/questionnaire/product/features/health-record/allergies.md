@@ -53,7 +53,6 @@
 - Numerous questions are listed in the above “Product Feature/User Stories” section.
 - What are provider pain points, current workflows, prioritization of data? Review [clinician conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/clinician-healthRecord-discovery/conversation-guide.md) for study that was never executed.
 - Verify the clinical workflow and the need for patients to document “severity” when reporting an allergy.
-- Are we integrating with only Vista? What about Surescripts?
 
 ### Interaction Design Questions
 - Sort order alphabetical?
