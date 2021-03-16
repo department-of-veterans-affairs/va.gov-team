@@ -25,7 +25,7 @@
 - List of possible data points and features listed at the bottom of this feature document.
 
 ### Provide a way for a Veteran to add a self-reported medication
-- [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/GmoOGGL)
+- [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/eKlrJJ0)
 - What data needs to be captured when entering a new medication?
 
 ### Display self-reported medications
@@ -42,9 +42,11 @@
 - What is the best location for this in the workflow?
 
 ### Ability for Veterans to edit their medications
+- [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/GmoOGGL)
 - What should be editable for a Veteran-reported medication? Can we make the fields easily understandable to the Veteran? What information goes into a “Quantity” or “Directions” box can be confusing? What should be editable (if anything —possibly reactions?) for a provider-entered medication from the medical record?
 
 ### Provide a way to access patient education information, so the Veteran can learn more about their medications
+- [High-level storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/Omebkkw)
 - Verify that this is a need in a questionnaire. Is it more needed for a health record section?
 - Determine a patient education strategy. Current MyHealtheVet links to Medline Plus for additional information, but it is just a link to Medline Plus’s main page. Is there an API, so we can connect certain medications to a patient education page on that medication?
 
