@@ -10,7 +10,7 @@
   * [Product Analytics](#Product-analytics)
   * Workflows
   * Product Enhancements
-  * Go-to-Market Strategy
+  * [Go-to-Market Strategy](#Go-to-Market-Strategy)
   * Key Artifacts
   * Technical Artifacts
   * Status and Decisions
