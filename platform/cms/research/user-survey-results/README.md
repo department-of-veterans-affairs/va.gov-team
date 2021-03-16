@@ -1,10 +1,10 @@
-### CMS satisfaction surveys
+## CMS satisfaction surveys
 
 This folder contains synthesized results from the quarterly CMS User Satisfaction Surveys and the communication for the survey distribution.
 
-### Comms
+## Comms
 
-**Slack**
+### Slack
 
 :mega: Content editors: how has it been going with the VA.gov CMS? Good? Bad? Have suggestions? The CMS team would like to know so we can continue to improve in ways that make your work easier.
 
@@ -18,7 +18,7 @@ Thank you!
 
 
 
-**Email**
+### Email
 
 Subject line: Give us your feedback about the VA.gov CMS 
 
