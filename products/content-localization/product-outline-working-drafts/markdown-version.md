@@ -9,7 +9,7 @@
   * [Product Requirements](#Product-requirements)
   * [Solution Approach](#Solution-Approach)
   * [Go-to-Market Strategy](#Go-to-Market-Strategy)
-  * Key Artifacts
+  * [Key Artifacts](Key-Artifacts)
   * Technical Artifacts
   * Status and Decisions
   * [For Reference](#For-Reference)
@@ -209,7 +209,7 @@ VA.gov-Spanish-benefits-link-user-research-061019.pdf
 Coronavirus MVP Docs
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp 
 
-## Artifacts
+## Key Artifacts
 
 Content Translation Process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/VA.gov%20translation%20process%20•%20Department%20of%20Veterans%20Affairs.pdf 
 
