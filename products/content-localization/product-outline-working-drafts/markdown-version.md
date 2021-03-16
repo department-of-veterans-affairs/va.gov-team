@@ -136,7 +136,7 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 - Phase 1: provide Spanish versions of the Corona FAQs, ~Research Volunteer~ and Covid-19 Vaccine pages 
 - Phase 2: create a highly visible navigational element on the VA/gov homepage that leads Spanish and Tagalog users to an in-language resource page
 - Phase 3: research and document an enterprise-wide recommendation that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
-- 
+
 Out of Scope
 - Site-wide roll-out or centralized translation management
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
@@ -153,7 +153,7 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 
 What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on where to call for translation support.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
