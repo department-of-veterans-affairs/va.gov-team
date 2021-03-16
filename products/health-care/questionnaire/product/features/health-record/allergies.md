@@ -99,6 +99,7 @@ Documenting Facility: LOMA LINDA HCS
 - ability to add a new allergy (patient reported data)
 - links to educational material on the allergies (currently links to Medline Plus)
 
+---
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
