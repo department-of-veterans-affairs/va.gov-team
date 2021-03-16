@@ -49,7 +49,7 @@ Hypothesis: The addition of VAX and PASS response options for the initial messag
 ### March 11, One site, ~5000 messages per condition.
 
 **Results:** 
-B performed better than A by a statistically significant 175.34% on response rate, and B performed worse by an insignificant 6.74% on successful schedule.
+B performed better than A by a statistically significant 164.81% on response rate, and B performed worse by an insignificant 6% on successful schedule.
 
 A (current message):
 > %FACILITY_NAME% is offering COVID-19 vaccines to Veterans who receive care at VA.  
@@ -67,5 +67,28 @@ B (added responses for VAX and PASS)
 > 
 > More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
 > 
-![March11AB_2](https://user-images.githubusercontent.com/77640565/111010977-e3f26980-834c-11eb-8809-81a2d78c7e15.png)
+![March11AB2](https://user-images.githubusercontent.com/77640565/111341224-8d2fad00-8636-11eb-9dbf-0f60ad2dfb17.png)
 
+## March 16, 2021
+Hypothesis: Adding "VA: Hi %PATIENT_FIRST_NAME%" to beginning of message will add personalization and validity to message, increasing overall response rate.
+
+### March 16, One site, ~5000 messages per condition.
+
+A (current message):
+>
+>  %FACILITY_NAME% is offering COVID-19 vaccines. To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%
+> 
+> If you have already received, or are scheduled to receive, the vaccine: Reply VAX
+> If you are not interested at this time: Reply PASS
+> 
+> More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
+
+B (added VA: Hi, Firstname):
+>
+> VA: Hi, %PATIENT_FIRST_NAME%, %FACILITY_NAME% is offering COVID-19 vaccines. To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%
+> 
+> If you have already received, or are scheduled to receive, the vaccine: Reply VAX
+> If you are not interested at this time: Reply PASS
+> 
+> More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
+> 
