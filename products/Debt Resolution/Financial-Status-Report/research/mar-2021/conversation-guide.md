@@ -18,7 +18,7 @@ _When the participant is ready, begin the session with the following intro_
 
 ## Intro - 3 min
 
-Thank you for joining us today! My name is [name], and I'm a designer and researcher for VA.gov. I also have some colleagues on the line observing and taking notes for me. Today we're going to talk about a new way for Veterans to submit a request for financial help for VA debts. We want to make sure that this new feature works for Veterans' needs, so I'm going to ask you a few questions about your experience with VA debt collection and have you complete a fake debt resolution request. 
+Thank you for joining us today! My name is [name], and I'm a designer and researcher for VA.gov. I also have some colleagues on the line observing and taking notes for me. Today we're going to talk about a new way for Veterans to submit a request for financial help with VA debts. We want to make sure this new feature works for Veterans' needs, so I'm going to ask you a few questions about your experience with VA debt collection and have you complete a fake request. How does that sound?
 
 Before we start, a few things I want to mention:
 
@@ -46,7 +46,8 @@ Okay, please share your screen so I can follow along with you for the next porti
 
 ## First Task: Find info about financial assistance - 10 min
 
-Imagine that you've been taking courses at your local college using your CH 33 (Post-9/11 GI Bill) benefits. However, you decided to reduce your course load and have  dropped a class. You've received letters about a CH 33 debt as a result of dropping the class, but you will not  be able to make payments. You're now trying to find information about your other options to resolve the debt. What would you do next?
+Alright, go ahead and open a web browser. I'm going to give you a scenario to set the stage for what we're going to be chatting about: 
+Imagine you receive Post-9/11 GI Bill benefits, and you've been taking courses at your local college using these benefits. However, you decided to reduce your course load, so you dropped a class. You've received a letter in the mail about a debt as a result of dropping the class, but you aren't able to make payments. You're now trying to find information about other available options to resolve the debt. What would you do next?
 
 \[Once on VA.gov\]
 
@@ -71,7 +72,8 @@ Now that you're here, what would you do to find more options for your debt? Try 
 
 I'm going to paste a new link into the Zoom chat. Go ahead and click on it. [https://staging.va.gov/manage-va-debt/request-debt-help-5655/](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)  
 
-So you've incurred debts related to your Ch 33 (Post-9/11 GI Bill) benefits and you will not be able to make payments on them. What would you do here?  
+\[Remind the participant of the scenario if necessary\] 
+As a reminder, the scenario is: you've incurred debts related to your Post-9/11 GI Bill benefits and you will not be able to make payments on them. What would you do here?  
 
 \[If the participant does not end up at an FSR terminus, direct them to go to Compensation → Request debt relief → Veteran\]  
 
@@ -84,11 +86,12 @@ Go ahead and click the green "Submit a Financial Status Report" button to move t
 
 Alright! What would you do next?  
 
-* Is there anything surprising or concerning about what this page asks for?  
+* Is there anything surprising or concerning about what this page asks for?
+* What would you expect to happen if you previously submitted an FSR less than 6 months ago?  
 
 \[Once complete\] Great. Normally you'd need to sign in to complete this form, but we've gone ahead and created a shortcut and pre-filled it with some fake information for our session today. Go ahead and scroll down the page about halfway and you'll see a "Start your application without signing in" link below the blue "Sign in or create an account" button. Go ahead and click that link.
 
-\[Once complete\] Today we're going to imagine that you're Hector Smith and the personal information you're seeing is correct. Next, I'm going to ask you to fill out the form as if you were really requesting financial help for Ch 33 (Post-9/11 GI Bill) education debts. Try to fill out the form as completely as you can, but you can estimate the financial details you feel comfortable providing. 
+\[Once complete\] Today we're going to imagine that you're Hector Smith and the personal information you're seeing is correct. Next, I'm going to ask you to fill out the form as if you were really requesting financial help for Post-9/11 GI Bill education debt. Try to fill out the form as completely as you can, but you can estimate the financial details you feel comfortable providing. 
 
 As you move through the form, I may chime in to provide some direction or ask questions about the pages.
 
@@ -135,6 +138,7 @@ Things to watch for
 
 * Let's imagine that this information is correct. Why do you think your benefit information is being displayed here? 
 * What do you think about your benefit payments being incorporated into your income for this form?
+* What are your thoughts about the amount received being different than the total?
 
 #### Your Social Security benefits & other income
 
@@ -307,8 +311,9 @@ Go ahead and complete this section to the best of your ability as if you were su
 
 #### Review application
 
-* Let's say you forgot to add an additional asset. Show me what you would do to add that item. 
+* Let's say you forgot to add an additional asset? For the purposes of our chat today I won't have you edit anything, but talk me through what you would do.   
 * What would you expect to happen after you submit the form?
+* What would you do after submitting the form?
 
 **Things to watch out for**
 
