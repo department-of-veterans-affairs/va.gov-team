@@ -31,10 +31,67 @@
 ### Discussion Topics/Grooming 
  - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? 
  - [ ] write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
- - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login #20608
-- [ ] 508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them #21017
-- [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of #21020
+ - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608) 
+- [ ] 508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them [#21017](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21017)
+- [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of [#21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020) 
 - [ ] Update article rating component design (learning center) [#15314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15314)
+- [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641) 
+- [ ] Add unit test to Cener Facility ID [Vets-website] How do we get this? [#21235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21235)
+- [ ] 1x Test account on a non-production env for Cerner Facilities [#21238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21238) 
+- [ ] MVP learning center: videos template for desktop and mobile [#11497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11497) 
+- [ ] Bug: Outreach hub events with broken social media links [#21517](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21517) 
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529)
+
+### Discovery Topics
+- [ ] [Discovery] Optimize VA.gov component creation [#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320)
+- [ ] [Discovery] Generate "tech debt" opportunities [#7790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- [ ] [DISCOVERY] Send to Mobile R&S Enhancement [#20331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20331)
+- We’ve learned through big data reviews that Veterans are largely using Mobile/Tablet to interact with R&S content and could likely benefit from a “Send to Mobile” for key content articles in an effort to better consume VA content in support of benefit questions and self guided learning.
+- [ ] [Discovery] Recommend/Share via email/mobile feature [Needs Ticket]
+- We believe that Veterans love helping Veterans and could benefit from an article ‘recommend/share’ feature in future iterations.  This could help increase content confidence through helping more Veterans better understand the benefits they have earned. 
+- [ ] [CLP Design] CLP background alternating panel color to optimize UX [new ticket]
+- [ ] [Discovery] Chatbot - look into COVID chatbot learnings before implementation into R&S (WIP)
+
+Notes/Next Steps: 
+
+### Campaign landing page MVP 1.0
+- [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
+
+Determine Launch Date: When are we calling launch?  
+
+Notes/Next Steps:
+Finalize User Training Sessions / on-boarding process --> Launch!
+
+### Resources and Support MVP 1.1
+[MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
+- Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605)
+- Medallia Implimentation - CSAT PW Ticket [14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302) Analytics Ticket [13774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13774)
+- Determine Next steps post CLP build --> Discovery Tickets (Feature Build).  Search Refinement Tickets.  
+
+Notes/Next Steps: 
+
+
+### Technical Debt Oppurtunities 
+- [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- a11y office reviewing 508 issues EPIC: Should have something back by Sprint 44. Update: Team is slightly backed up based on several members being OOO.  
+
+Notes/Next Steps: 
+
+### In-Take and Redirect request: 
+- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+
+Notes/Next Steps:  
+
+### Team Clarity Requests: 
+
+### Dad Joke:  
+- Why does Norway have barcodes on thier battleships?    
+
+
+----------------------------------------------------------Break-----------------------------------------------------------------
 
 
 ## Wednesday, March 3, 2021
