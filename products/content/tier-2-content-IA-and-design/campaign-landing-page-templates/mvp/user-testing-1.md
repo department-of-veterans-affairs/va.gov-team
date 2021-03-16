@@ -12,9 +12,9 @@
 
 Minor Tweaks Observations
 
-1.Enable this page segment -- change to Use this Panel
-2.What You Can Do Panel needs more required fields -- right now, user can half format 
-3.Where is alt.text for images and video
+1. Enable this page segment -- change to Use this Panel
+2. What You Can Do Panel needs more required fields -- right now, user can half format 
+3. Where is alt.text for images and video
 
 **Product Iteration Themes**
 
