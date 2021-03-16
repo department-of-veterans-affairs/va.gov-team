@@ -1,7 +1,7 @@
-# Platform Documentation Site: Product Outline
+# Platform Website: Product Outline
 
 ## Overview
-VA.gov platform documentation (aka "VFS-facing documentation") houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").  Currently, platform documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
+VA.gov's Platform Website houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").  Currently, documentation for the Platform Website exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
 
 ## Problem Statement 
 
@@ -37,7 +37,8 @@ Overall:
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
 * The VSP team will be able to customize Confluence without undue burden.
  
-## Solution Approach
+## 
+Approach
 This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritize and group tasks, in order to develop an IA that is easily navigable.
 
 With the pilot, we can establish a process of uncovering and understanding VFS developers' task/categorization association, and apply this process to tasks that other practitioners perform. 
