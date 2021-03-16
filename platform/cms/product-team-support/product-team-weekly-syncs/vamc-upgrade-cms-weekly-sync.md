@@ -24,7 +24,7 @@
 ## Friday Mar 19 10:30am ET
 
 * CMS help desk triage
-* Problem statement: What is the best solution to create a Program & Research, top level page for systems, but not publish.
+* Problem statement: What is the best solution to create the Program & Research, top level pages for each systems, but not publish.
 *   - Place for PAO to place pages at a lower level after the menus and other pages are locked down.
 *   - If they don't have those areas now, how best do we create these areas? (Create and keep them disabled in Menu? Keep them in Draft?)
 * Dual state
