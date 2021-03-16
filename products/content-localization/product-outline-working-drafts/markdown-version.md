@@ -122,10 +122,10 @@ From KPI worksheet:
 Objectives and Key results (OKRs)
 
 Objective 1:  Meet Veterans' and their family members' need for Spanish and Tagalog language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
-- Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q.
-- Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021.
-- Key result 3: Satisfaction rating for translated content
-- Key result 4: Customer Engagement
+- Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q (complete)
+- Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021 (in progress)
+- Key result 3: Satisfaction rating for translated content (Awaiting Medallia)
+- Key result 4: Customer Engagement (Awaiting DOMO Dashboard)                                                                                                                      
 
 Objective 2: Provide a recommendation for a scalebale solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
 - Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
@@ -209,6 +209,9 @@ VA.gov-Spanish-benefits-link-user-research-061019.pdf
 Coronavirus MVP Docs
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp 
 
+## Artifacts
+
+Content Translation Process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/VA.gov%20translation%20process%20•%20Department%20of%20Veterans%20Affairs.pdf 
 
 ### Content & Localization Team Members
 |Name|Role|
