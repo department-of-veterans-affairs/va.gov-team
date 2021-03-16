@@ -55,6 +55,8 @@ Link to the following materials as relevant:
 * Any product health or success dashboards
 
 ### Communications
+
+<details>
 Team Name: VSP Content + Information Architecture
 
 GitHub Label: #content-ia-team
@@ -62,6 +64,7 @@ GitHub Label: #content-ia-team
 Slack channel: #vsp-content-ia
 
 Product POCs: Liani Lye, Product Manager
+</details>
 
 ### Stakeholders
 _What offices/departments are critical to make this initiative successful?_
