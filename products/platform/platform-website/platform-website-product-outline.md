@@ -37,8 +37,7 @@ Overall:
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
 * The VSP team will be able to customize Confluence without undue burden.
  
-## 
-Approach
+## Approach
 This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritize and group tasks, in order to develop an IA that is easily navigable.
 
 With the pilot, we can establish a process of uncovering and understanding VFS developers' task/categorization association, and apply this process to tasks that other practitioners perform. 
