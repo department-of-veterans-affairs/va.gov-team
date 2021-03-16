@@ -1,6 +1,6 @@
 # Direct Deposit for Edu: Project Outline
 
-Last Updated March 1, 2021
+Last Updated March 16, 2021
 
 ## POCs
 
@@ -14,8 +14,7 @@ Last Updated March 1, 2021
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Steve Kovacs | DEPO Lead | Steven.Kovacs@va.gov |
-|Matt Shea|Product Manager| matt.shea@adhocteam.us |
+|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Jason Wolf|Product Manager| jwolf@governmentcio.com |
 |Jim Adams | Designer | jadams@governmentcio.com |
 |Sandra Hallie | FE Engineer | shallie@governmentcio.com |
