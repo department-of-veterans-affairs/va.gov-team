@@ -147,13 +147,13 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - Users will be able to find and easily link/toggle to translated content.  
 - Mid-term approach will build new pages in Github 
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
-- ~An expeditious process for engaging with localization providers and funding will be available by mid-Feb 2021. (RISKY)~
+- An expeditious process for completing internal needs analysis and vetting software solutions/partners by mid-May 20201 (RISKY)
 
 ## Solution Approach
 
 What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal)into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content, provide information on where to call for translation support and provide discriminatory......
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
@@ -169,7 +169,7 @@ How will the solution / approach evolve after this initial build (knowing that t
 
 What’s Next
 - Conduct stakeholder interviews (internal)
-- Investigate budget and how to engage with potential software partners
+- Research and engage with potential software partners and other agencies within the government
 - Develop a recommendation document that includes technical research and internal stakeholders needs
 
 ________________________________________
