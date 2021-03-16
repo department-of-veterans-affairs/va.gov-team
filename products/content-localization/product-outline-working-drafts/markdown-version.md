@@ -89,17 +89,18 @@ Undesired Business Outcomes
 If we provide Veterans and their caregives better visibility to existing translated content and develop an easier approach for translating additional content, 
 we will provide Vets access to essential VA content online in their native language.
 
-[x] Short-term: provide in-language pages for critical and time sensitive Covid-19 information
+[x] Phase 1 (short-term): provide in-language pages for critical and time sensitive Covid-19 information
 
-[ ] Mid-term: add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
+[ ] Phase 2 (mid-term): add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
 
-[ ] Long-term: research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
+[ ] Phase 3 (Recommendation for long-term approach):  research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
 
 ## Measuring Success
 
-~Baseline Analytics:~
-~From March 15, 2020, to December 31, 2020 the total number of Pageviews visiting the coronavirus FAQs in Spanish was 144k.~
-~The total number of pageviews across VA.gov with browser set to “Spanish” from Jan 1 -20 was 55,505k.~
+Baseline Analytics:
+From Jan 1 - March 15, 2021 the total number of Pageviews visiting the Coronavirus FAQs in Spanish was ~700.
+From March 1 - March 15, 2021 the total number of Pageviews visiting the Covid-19 Vaccine page in Spanish and Tagalog was ~4k.
+From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~55,505k.~
 ~(more data will be added once we have dashboard set up)~
 
 Key Performance Indicators (KPIs)
