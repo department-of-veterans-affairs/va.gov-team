@@ -21,3 +21,17 @@ Minor Tweaks Observations
 1. Would like ability to re-arrange the panels
 2. Consider the addition of a What's on the Page TOC with hotlinks
 3. Make it easier to understand what the user is building -- what's required, what's recommended (maybe a visual example as a popup) -- so user does not keep getting errors as they try to save and preview.
+
+### User Testing Session 3 - Bronwynn Emmet, OPIA
+
+Minor Tweaks Observations
+
+1.  Promo -- why calling it a promo -- it's a "story" teaser and link
+2. 
+3. 
+
+**Product Iteration Themes**
+
+1. Audiences -- by specifying, this could be perceived as exclusionary.   (Note: Should we make this Audience section optional?)
+2. Wants the ability to allow users to sign up for newsletter
+3.
