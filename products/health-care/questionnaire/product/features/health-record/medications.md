@@ -63,6 +63,7 @@
 - During user research, it was determined that each Veteran has a unique cadence for how often they would like to update their health records (medications, allergies, and immunizations), so incorporate a way for them to quickly navigate across the sections. Really think about Veterans can quickly skip around. Really evaluate how many questions they have to answer in each section.
 
 ### Technical Questions
+- How do we eliminate duplicate in our list once a provider adds a self-reported medication to the Veteran's offical medical record?
 - Need to verify Vista Order profile is showing meds by their RxPrimary (i.e. Atorvastatin 40mg Tab vs. the formulary with each field separate.
 - Are Vista refills remaining up-to-date? Since this is coming from the order profile and refills is a Pharmacy update field, can we show this with FHIR interface or another to get refills?
 - It looks like Lighthouse has statuses for medications. Will this help us filter what we display to only “current” medications?
