@@ -21,10 +21,17 @@
 
 </details>
 
+## March 24 2021
+
+1. VAMC policies cutover 
+
+
 ## ☘️ March 17 2021
 
-1. Content entry for Escanaba
-2. VAMC policies page cutover, feature flags, centralized content content model. 
+
+1. Content entry for Escanaba (Michelle and Kevin to meet separately)
+2. VAMC policies centralized content FE / content model support. (async Ethan/MPS)
+3. VAMC policies cutover (delayed until March 24)
 
 ## March 10 2021
 
