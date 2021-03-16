@@ -44,11 +44,10 @@
 - [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529)
 
 ### Discovery Topics
-- [ ] [Discovery] Optimize VA.gov component creation [#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320)
 - [ ] [Discovery] Generate "tech debt" opportunities [#7790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
 - [ ] [DISCOVERY] Send to Mobile R&S Enhancement [#20331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20331)
 - We’ve learned through big data reviews that Veterans are largely using Mobile/Tablet to interact with R&S content and could likely benefit from a “Send to Mobile” for key content articles in an effort to better consume VA content in support of benefit questions and self guided learning.
-- [ ] [Discovery] Recommend/Share via email/mobile feature [Needs Ticket]
+- [ ] [Discovery] Recommend/Share via email/mobile feature [21180](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21180)
 - We believe that Veterans love helping Veterans and could benefit from an article ‘recommend/share’ feature in future iterations.  This could help increase content confidence through helping more Veterans better understand the benefits they have earned. 
 - [ ] [CLP Design] CLP background alternating panel color to optimize UX [new ticket]
 - [ ] [Discovery] Chatbot - look into COVID chatbot learnings before implementation into R&S (WIP)
