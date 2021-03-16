@@ -12,7 +12,7 @@
   * Key Artifacts
   * Technical Artifacts
   * Status and Decisions
-  * [For Reference](#For Reference)
+  * [For Reference](#For-Reference)
 
 ## What is the Problem to be Solved?
 
