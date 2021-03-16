@@ -57,6 +57,8 @@
 ### Interaction Design Questions
 - Sort order alphabetical?
 - Refill information ranked highly within the Veteran discovery research, but should be actually display Pharmacy information? Do we only display it for VA medications and not self-reported medications?
+- **At March 15, 2021 meeting on list loops, it was suggested for all teams to test out a list loop pattern that shows only one decision point at a time. Then, to submit the designs to the DSVA #design channel for the team to comment on. Revisit list loop patterns as the convention might have been decided on/changed.**
+- During user research, it was determined that each Veteran has a unique cadence for how often they would like to update their health records (medications, allergies, and immunizations), so incorporate a way for them to quickly navigate across the sections. Really think about Veterans can quickly skip around. Really evaluate how many questions they have to answer in each section.
 
 ### Technical Questions
 - Need to verify Vista Order profile is showing meds by their RxPrimary (i.e. Atorvastatin 40mg Tab vs. the formulary with each field separate.
