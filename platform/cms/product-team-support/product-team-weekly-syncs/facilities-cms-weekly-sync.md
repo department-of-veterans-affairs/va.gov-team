@@ -24,8 +24,7 @@
 ## ☘️ March 17 2021
 
 1. Content entry for Escanaba
-2. Vet Center content model
-3. VAMC policies page cutover, feature flags, centralized content content model. 
+2. VAMC policies page cutover, feature flags, centralized content content model. 
 
 ## March 10 2021
 
