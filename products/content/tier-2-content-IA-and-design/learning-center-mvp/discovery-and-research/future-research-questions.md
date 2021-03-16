@@ -9,7 +9,7 @@
 ## Tables
 - How are content authors using them? 
 - Are Veterans encountering any usability issues? 
-- Do we need a comparison table option? 
+- Do we need a comparison table option?  ([early iterations/explorations in mural](https://app.mural.co/t/vsa8243/m/vsa8243/1599058756286/389fe124296d14b2ceee7ea532497e8e12c3aaad))
 - How are the breakpoints working out?
 
 ## Search
