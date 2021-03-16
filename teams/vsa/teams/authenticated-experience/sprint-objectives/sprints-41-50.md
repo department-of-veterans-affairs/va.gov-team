@@ -298,6 +298,7 @@ Design
 
 **PM**
 
+- Revisit long term planning with the team — are we ready to go on hold until VAOS is available?
 - Schedule and hold design intent collab
 - Plan for IA review
 
