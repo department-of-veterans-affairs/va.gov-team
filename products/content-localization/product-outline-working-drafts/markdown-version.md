@@ -7,13 +7,12 @@
   * [Our Bets](#Our-bets)
   * [Measuring Success](#Measuring-success) 
   * [Product Requirements](#Product-requirements)
-  * [Product Analytics](#Product-analytics)
-  * Workflows
-  * Product Enhancements
+  * [Solution Approach](#Solution-Approach)
   * [Go-to-Market Strategy](#Go-to-Market-Strategy)
   * Key Artifacts
   * Technical Artifacts
   * Status and Decisions
+  * [For Reference](#For Reference)
 
 ## What is the Problem to be Solved?
 
