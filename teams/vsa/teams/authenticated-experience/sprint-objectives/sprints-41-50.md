@@ -207,16 +207,8 @@ Finish BE implementation assuming Lihan can get what he needs from Terry
 
 **Design**
 
-There are a couple of enhancements I'd like to knock out this sprint:
-
 - Add FAQ around what departments get updated when a veteran updates their contact info #20221
-- Add email for when someone updates their contact information
-
-Accessibility issues
-
-(If this is ready)
-
-- 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons
+- (If this is ready) 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons
 #19562
 
 **FE**
@@ -228,7 +220,7 @@ Accessibility issues
 
 If unblocked by VA Profile:
 
-- Remove references to vet360 from backend code (part 1)#18258
+- Remove references to vet360 from backend code (part 1) #18258
 
 ### My VA redesign
 
@@ -259,10 +251,13 @@ If unblocked by VA Profile:
 
 ### Preferred medical facility 
 
+**PM**
+
+- Schedule and hold design intent collab
+
 **Design**
 
-- Complete discovery
-- Begin design
+- Finish design
 - Design intent collab
 
 ### Notification preferences
@@ -273,7 +268,6 @@ If unblocked by VA Profile:
 
 **Design**
 
-- Complete discovery
 - Begin design
 - Design intent collab
 
@@ -283,24 +277,15 @@ If unblocked by VA Profile:
 
 ## Sprint 45 (4/7 - 4/20)
 
+### Profile 
+
+Design
+
+- Add email for when someone updates their contact information
+
 ### My VA redesign
 
-Prep for QA
 
-**PM**
-
-- If FE build is actually done, work with Trevor to do some assistive tech testing
-
-
-- Request QA for following sprint. To make sure we are ready, this requires:
-  - Making sure the feature is done 
-  - Reviewing the feature
-  - Making sure Tressa has reviewed the feature
-  - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
-
-**Design**
-
-- Review feature and give final sign off for QA
 
 ### Direct deposit for edu
 
@@ -335,29 +320,22 @@ Prep for QA
 
 ### My VA redesign
 
-QA!!
+Prep for QA
 
 **PM**
 
-- Complete release plan and save in direct deposit for edu GitHub folder (template)
-- Analytics request (collab cycle)
-  - Analytics planning
-  - Meet with analytics
-  - Oversee implementation
-- Start contact center guide
+- If FE build is actually done, work with Trevor to do some assistive tech testing
+
+- Request QA for following sprint. To make sure we are ready, this requires:
+  - Making sure the feature is done 
+  - Reviewing the feature
+  - Making sure Tressa has reviewed the feature
+  - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
 
 **Design**
 
-- Start contact center guide
+- Review feature and give final sign off for QA
 
-**QA**
-
-- Complete QA
-- Create tickets if there are issues
-
-**FE**
-
-- QA fixes, if applicable
 
 ### Direct deposit for edu
 
@@ -392,24 +370,30 @@ QA!!
 
 ### My VA redesign
 
+
+QA!!
+
 **PM**
 
-- Finish contact center guide
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-  - Prep
-  - Hold meeting
-- Meet with comms to discuss marketing needs
+- Complete release plan and save in direct deposit for edu GitHub folder (template)
+- Analytics request (collab cycle)
+  - Analytics planning
+  - Meet with analytics
+  - Oversee implementation
+- Start contact center guide
 
 **Design**
 
-- Finish contact center guide
-- Accessibility tests for staging review
-- UAT planning
+- Start contact center guide
+
+**QA**
+
+- Complete QA
+- Create tickets if there are issues
 
 **FE**
 
-- Accessibility tests for staging review
+- QA fixes, if applicable
 
 ### Preferred medical facility 
 
@@ -447,13 +431,22 @@ QA!!
 
 **PM**
 
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-- Hold go/no-go for UAT
+- Finish contact center guide
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+  - Prep
+  - Hold meeting
+- Meet with comms to discuss marketing needs
 
 **Design**
 
-- UAT recruiting
-- UAT
+- Finish contact center guide
+- Accessibility tests for staging review
+- UAT planning
+
+**FE**
+
+- Accessibility tests for staging review
 
 ### Preferred medical facility 
 
@@ -493,12 +486,14 @@ QA!!
 
 **PM**
 
-- Hold go/no-go
-- Launch to 25%
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+- Hold go/no-go for UAT
 
-**FE**
+**Design**
 
-- Fixes from UAT, if needed
+- UAT recruiting
+- UAT
+
 
 ### Preferred medical facility 
 
@@ -537,8 +532,12 @@ QA!!
 
 **PM**
 
-- Launch to 50%
-- Launch to 100%
+- Hold go/no-go
+- Launch to 25%
+
+**FE**
+
+- Fixes from UAT, if needed
 
 ### Preferred medical facility 
 
@@ -579,8 +578,14 @@ QA!!
 
 - Updates from QA
 
-
 ## Sprint 51 (6/30 - 7/13)
+
+### My VA
+
+**PM**
+
+- Launch to 50%
+- Launch to 100%
 
 ### Preferred medical facility 
 
