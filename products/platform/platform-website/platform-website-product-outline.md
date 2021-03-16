@@ -67,5 +67,7 @@ Product POCs: Liani Lye, Product Manager
 </details>
 
 ### Stakeholders
+<details>
 _What offices/departments are critical to make this initiative successful?_
 * OCTO-DE
+</details>
