@@ -99,7 +99,9 @@ we will provide Vets access to essential VA content online in their native langu
 
 Baseline Analytics:
 From Jan 1 - March 15, 2021 the total number of Pageviews visiting the Coronavirus FAQs in Spanish was ~700.
+
 From March 1 - March 15, 2021 the total number of Pageviews visiting the Covid-19 Vaccine page in Spanish and Tagalog was ~4k.
+
 From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~55,505k.~
 ~(more data will be added once we have dashboard set up)~
 
@@ -172,8 +174,11 @@ What’s Next
 ________________________________________
 ## Go-to-market Strategy
 How are Veterans and others using this product going to know it exists? 
+
 We'll need to reach specific audiences who may need content translated into Spanish (see below)
+
 What marketing, outreach, or communications are necessary for this product to be successful? 
+
 Outreach may include:
 - Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
 - Targeted social media and other communication outreach efforts
