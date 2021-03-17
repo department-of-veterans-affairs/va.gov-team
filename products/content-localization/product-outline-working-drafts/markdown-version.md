@@ -29,8 +29,7 @@ We outline 3 key aspects of this problem:
 
 ## Objectives
 
-Through research, analysis, and stakeholder interviews we will accomplish 2 things:
-First. we will identify and prototype a scalable and sustainable potential solution to provide Veterans and their family members with LEP access to essential benefit and service content in their native language that is:
+Through research, analysis, and stakeholder interviews we will identify and recommend a scalable and sustainable potential solution to provide Veterans and their family members with LEP access to essential benefit and service content in their native language that is:
 
 - Accurate
 - Timely
