@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet.
 
 | UAT item | P1 | DNS | P3 | P4 | P5 | P6 | DNS | DNS |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| After login, intro screen allows access | -- | -- | -- | -- | -- | -- | -- | -- |
+| After login, intro screen allows access | X | -- | X | X | X | X | -- | -- |
 | Direct deposit information link appears in left-hand navigation | -- | -- | -- | -- | -- | -- | -- | -- |
 | User navigates to Direct deposit screen | -- | -- | -- | -- | -- | -- | -- | -- |
 | User confirms payment type(s) are correct (EDU, C&P, both) | -- | -- | -- | -- | -- | -- | -- | -- |
