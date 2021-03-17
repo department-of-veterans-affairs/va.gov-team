@@ -5,13 +5,78 @@ The Liquid Template Unit Testing Framework was created to replace Cypress for un
 **Please note**: End-to-end (e2e) tests on VA.gov use Cypress; Cypress has NOT been replaced by this tool.
 
 ## How to Use the Framework
-To test a `liquid` template, use the `parseFixture` and `renderHTML` functions in `~/src/site/tests/support/`.
+To test a `liquid` template, use the `parseFixture()` and `renderHTML()` functions in [`src/site/tests/support/index.js`](#https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/index.js) to create AN `HTML` document. Run accessibility checks using the `axeCheck()` function in [`src/site/tests/support/axe.js`](#https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/axe.js).
 
-`parseFixture` takes a json fixtures path and returns a `JavaScript` object.
+### `parseFixture()`
+`parseFixture()` takes a `JSON` fixtures path and returns a `JavaScript` object.
 
-`renderHTML` takes a liquid template path and the `JavaScript` object returned by `parseFixture`, and renders an HTML document by populating the liquid template with the JSON provided. We can then run the usual mocha assertions on the result. This function uses the same code as our build process, so all of our custom liquid filters can be used.
+### `renderHTML()`
+`renderHTML()` takes a `liquid` template path and the `JavaScript` object returned by `parseFixture()`, and renders an `HTML` document by populating the `liquid` template with the `JSON` provided. We can then run the usual Mocha assertions on the result. This function uses the same code as our build process, so all of our custom `liquid` filters can be used.
 
-This technique can be used to generate tests of varying complexity, ranging from simple rendering sanity checks to complex logic. Since we control the JSON test data, we can easily test different scenarios.
+This technique can be used to generate tests of varying complexity, ranging from simple rendering sanity checks to complex logic. Since we control the `JSON` test data, we can easily test different scenarios.
+
+### `axeCheck()`
+`axeCheck()` takes the `HTML` document return by `renderHTML()` and an optional `axe-core` [`options` parameter](#https://www.deque.com/axe/core-documentation/api-documentation/#options-parameter) and returns an array of accessibility violations.
+
+Run an accessibility check like this:
+
+```js
+it('reports no axe violations', async () => {
+  const violations = await axeCheck(container);
+  expect(violations.length).to.equal(0);
+});
+```
+
+Accessibility violations are logged to the console and look like this:
+
+```javascript
+1 Accessibility Violation Was Detected
+
+Axe Violation 1:
+ {
+  id: 'document-title',
+  impact: 'serious',
+  tags: [ 'cat.text-alternatives', 'wcag2a', 'wcag242', 'ACT' ],
+  description: 'Ensures each HTML document contains a non-empty <title> element',
+  help: 'Documents must have <title> element to aid in navigation',
+  helpUrl: 'https://dequeuniversity.com/rules/axe/4.1/document-title?application=axeAPI',
+  nodes: [
+    {
+      any: [Array],
+      all: [],
+      none: [],
+      impact: 'serious',
+      html: '<html lang="en">',
+      target: [Array],
+      failureSummary: 'Fix any of the following:\n' +
+        '  Document does not have a non-empty <title> element'
+    }
+  ]
+}
+
+Node 1:
+ {
+  any: [
+    CheckResult {
+      id: 'doc-has-title',
+      data: null,
+      relatedNodes: [],
+      impact: 'serious',
+      message: 'Document does not have a non-empty <title> element'
+    }
+  ],
+  all: [],
+  none: [],
+  impact: 'serious',
+  html: '<html lang="en">',
+  target: [ 'html' ],
+  failureSummary: 'Fix any of the following:\n' +
+    '  Document does not have a non-empty <title> element'
+}
+```
+
+## Rendered `html` Is Saved to Disk
+For convenience, the `HTML` that's generated from each `liquid` template is automatically saved to `src/site/tests/html` when tests are executed so the `HTML` can be inspected when writing tests. These files are gitignored.
 
 ## Sample Test
 Here is a sample test:
@@ -43,7 +108,3 @@ describe('intro', () => {
 Here are several example spec files:
 - [src/site/layouts/tests/landing_page/landing_page.unit.spec.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/layouts/tests/landing_page/landing_page.unit.spec.js)
 - [src/site/layouts/tests/vamc/health_care_region_page.unit.spec.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/layouts/tests/vamc/health_care_region_page.unit.spec.js)
-
-## Rendered `html` Is Saved to Disk
-For convenience, the `html` that's generated from each `liquid` template is automatically saved to `src/site/tests/html` when tests are executed so the `html` can be inspected when writing tests. These files are gitignored.
-
