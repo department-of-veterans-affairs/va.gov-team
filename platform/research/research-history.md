@@ -16,6 +16,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### February 2021
 
+#### Feb 22 - Feb 26: My VA 2.0 usability testing
+*Authenticated Experience, Lead Researcher: Tressa Furner*
+
+- Number of participants: 8
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2)
+- Keywords: My VA; Dashboard
+
 #### Feb 16 - Feb 19: Health Record (Medications, Allergies, and Immunizations)
 *Health care Experience/Questionnaires, Lead Researcher: Kristen McConnell*
 
