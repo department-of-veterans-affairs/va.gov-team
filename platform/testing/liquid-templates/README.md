@@ -5,7 +5,7 @@ The Liquid Template Unit Testing Framework was created to replace Cypress for un
 **Please note**: End-to-end (e2e) tests on VA.gov use Cypress; Cypress has NOT been replaced by this tool.
 
 ## How to Use the Framework
-To test a `liquid` template, use the `parseFixture()` and `renderHTML()` functions in [`src/site/tests/support/index.js`](#https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/index.js) to create AN `HTML` document. Run accessibility checks using the `axeCheck()` function in [`src/site/tests/support/axe.js`](#https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/axe.js).
+To test a `liquid` template, use the `parseFixture()` and `renderHTML()` functions in [`src/site/tests/support/index.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/index.js) to create AN `HTML` document. Run accessibility checks using the `axeCheck()` function in [`src/site/tests/support/axe.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/tests/support/axe.js).
 
 ### `parseFixture()`
 `parseFixture()` takes a `JSON` fixtures path and returns a `JavaScript` object.
@@ -16,7 +16,7 @@ To test a `liquid` template, use the `parseFixture()` and `renderHTML()` functio
 This technique can be used to generate tests of varying complexity, ranging from simple rendering sanity checks to complex logic. Since we control the `JSON` test data, we can easily test different scenarios.
 
 ### `axeCheck()`
-`axeCheck()` takes the `HTML` document return by `renderHTML()` and an optional `axe-core` [`options` parameter](#https://www.deque.com/axe/core-documentation/api-documentation/#options-parameter) and returns an array of accessibility violations.
+`axeCheck()` takes the `HTML` document return by `renderHTML()` and an optional `axe-core` [`options` parameter](https://www.deque.com/axe/core-documentation/api-documentation/#options-parameter) and returns an array of accessibility violations.
 
 Run an accessibility check like this:
 
