@@ -28,9 +28,12 @@ The goal of this study is to understand how Veterans and their families understa
 ## Method	
 Unmoderated card sort. An OptimalSort link will be sent to participants to participate in an unmoderated card sorting activity.	This study will be broken up into 6 mini studies, segmented by distinct deomographic cohorts. This method will help us answer our research questions by providing Veterans and their families the opportunity to complete the study in their own time without introducing moderator bias.
 
-[Link to study] in progress...
-
-[Mural board with OptimalSort study layout](https://app.mural.co/t/vsa8243/m/vsa8243/1615484762327/0a1d9d3a4e906166357a07521fd3d3eb958f4567)
+[Link to study - A](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-a)
+[Link to study - B](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-b)
+[Link to study - C](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-c)
+[Link to study - D](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-d)
+[Link to study - E](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-e)
+[Link to study - F](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-f)
 
 ## Recruitment strategy
 
@@ -41,12 +44,15 @@ Unmoderated card sort. An OptimalSort link will be sent to participants to parti
 
 This study will be broken up into 6 mini studies, segmented by the following 6 cohorts:
 
-- 6-10: Veterans 65+ [Vietnam era Veterans median age is 68 years]
-- 6-10: Spouses/partners of Veterans (who have used VA.gov to look up health or benefit information regarding their Veteran spouse/partner's health)
-- 6-10: New soldier/active duty service member (3 or less years since joining the military)
-- 6-10: 3 or less years since discharge/separation from military service
-- 6-10: Reservists
-- 6-10: Veterans with a high school diploma, GED or less education 
+**Priority cohorts:**
+A - 6-10: Veterans 65+ [Vietnam era Veterans median age is 68 years]
+B - 6-10: Spouses/partners of Veterans (who have used VA.gov to look up health or benefit information regarding their Veteran spouse/partner's health)
+C - 6-10: New soldier/active duty service member (3 or less years since joining the military)
+D - 6-10: 3 or less years since discharge/separation from military service
+E - 6-10: Veterans with a high school diploma, GED or less education 
+
+**Nice to have:**
+F - 6-10: Reservists
 
 ### Secondary criteria / Would like to have - 
 - 10 participant of color 
@@ -60,7 +66,6 @@ This study will be broken up into 6 mini studies, segmented by the following 6 c
 - 5 participant without a college degree (to include officer Vets) 
 - 5 participant living in a major metropolitan area 
 - 5 participant with a disability rating of 70% or greater  
-
 
 
 ## Timeline
