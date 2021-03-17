@@ -237,7 +237,8 @@ If unblocked by VA Profile:
 
 **FE**
 
-- Continue FE build
+- My VA content updates #21652
+- Updates from usability testing
 - Implement error messages
 
 ### Direct deposit for edu
