@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet.
 | User confirms bank info looks accurate | X | -- | X | X | X | -- | -- | -- |
 | User confirms email received | ? | -- | X | X | X | -- | -- | -- |
 
-\* = Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
+\* Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
 
 -- = Did not occur in testing/Participant did not show
 
