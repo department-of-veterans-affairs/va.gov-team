@@ -1,4 +1,4 @@
-# Future Design of 10-10CG UI/UX
+# Future 10-10CG UI/UX for Submission Errors
 
 Please see issue [#21214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21214) for additional context.
 
