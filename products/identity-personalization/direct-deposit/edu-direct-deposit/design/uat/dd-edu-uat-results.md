@@ -6,7 +6,7 @@
 ---
 
 ## User acceptance testing
-Lorem ipsum dolor sit amet.
+Five UAt sessions were conducted from March 11 to March 16, 2021. Five of eight users participated. No major issues were noted.
 
 ## UAT testing of direct deposit for EDU
 
@@ -31,6 +31,8 @@ Lorem ipsum dolor sit amet.
 ? = Did not observe result 
 
 ## Conclusion
-Lorem ipsum dolor sit amet.
+UAT was successfult. The DD-EDU tool preformed well; participants were uniformly satisfied with the appearance and function of the tool. The "cancel" function was not observed during testing. Two potential areas to address are:
+- Duration of success message after submitting new bank info
+- The location of the success message may need to be in proximity to edit box
 
 ---
