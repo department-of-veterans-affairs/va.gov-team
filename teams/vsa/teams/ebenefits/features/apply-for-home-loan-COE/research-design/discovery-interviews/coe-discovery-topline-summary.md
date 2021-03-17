@@ -17,6 +17,19 @@ Our first goal is to determine where a Certificate of Eligibility (COE) tool fit
 
 We scheduled 10 sessions beginning March 2; the last session was conducted March 5. Eight of the 10 participants attended.
 
+| Participant | Group | Gender | Age | Education | Ethnicity | Branch |
+| ---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| P1 | No-Show | -- | -- | -- | -- | -- |
+| P2 | Veteran | M | 25-34 | Master's | White/Caucasian | Navy |
+| P3 | Veteran | F | DNA | DNA | Hawaiian Native/Pacific Islander | Army |
+| P4 | Veteran/Caretaker | F | 55-64 | Some college | Other | Army |
+| P5 | Service Member | M | 25-34 | Bachelor's | Black/African-American | Army |
+| P6 | Veteran | F | 25-34 | Master's | White/Caucasian | Army |
+| P7 | Veteran | F | 35-44 | Master's | White/Caucasian | Army |
+| P8 | No-show | -- | -- | -- | -- | -- |
+| P9 | Veteran | F | 24-35 | Associate's | Black/African-American | Air Force |
+| P10 | Veteran | M | 45-54 | Some college | Black/African-American | Navy |
+
 ## Guiding questions
 
 ### How and when did participants find out about VA loan benefits?
