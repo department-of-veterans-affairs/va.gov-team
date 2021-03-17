@@ -8,37 +8,37 @@
   - [Assumptions](#assumptions)
   - [To-Dos](#to-dos)
   - [Test Case : Upcoming Appointment, Questionnaire needs to be filled out](#test-case--upcoming-appointment-questionnaire-needs-to-be-filled-out)
-    - [Description/Use case](#descriptionuse-case)
+    - [Description / Use case](#description--use-case)
     - [Lighthouse Data Needed](#lighthouse-data-needed)
   - [Test Case : Upcoming Appointment, Questionnaire is still in progress](#test-case--upcoming-appointment-questionnaire-is-still-in-progress)
-    - [Description/Use case](#descriptionuse-case-1)
+    - [Description / Use case](#description--use-case-1)
     - [Lighthouse Data Needed](#lighthouse-data-needed-1)
   - [Test Case : Completed questionnaire for a future appointment](#test-case--completed-questionnaire-for-a-future-appointment)
-    - [Description / Use Case](#description--use-case)
+    - [Description / Use Case](#description--use-case-2)
     - [Lighthouse data needed](#lighthouse-data-needed-2)
   - [Test Case : Cancelled Appointment with a Completed questionnaire](#test-case--cancelled-appointment-with-a-completed-questionnaire)
-    - [Description / Use Case](#description--use-case-1)
+    - [Description / Use Case](#description--use-case-3)
     - [Lighthouse data needed](#lighthouse-data-needed-3)
   - [Test Case : Cancelled appointment no questionnaire response](#test-case--cancelled-appointment-no-questionnaire-response)
-    - [Description / Use Case](#description--use-case-2)
+    - [Description / Use Case](#description--use-case-4)
     - [Lighthouse data needed](#lighthouse-data-needed-4)
   - [Test Case : Not Completed Questionnaire for a past appointment](#test-case--not-completed-questionnaire-for-a-past-appointment)
-    - [Description / Use Case](#description--use-case-3)
+    - [Description / Use Case](#description--use-case-5)
     - [Lighthouse data needed](#lighthouse-data-needed-5)
   - [Test Case : Completed Questionnaire for a past appointment](#test-case--completed-questionnaire-for-a-past-appointment)
-    - [Description / Use Case](#description--use-case-4)
+    - [Description / Use Case](#description--use-case-6)
     - [Lighthouse data needed](#lighthouse-data-needed-6)
   - [Test Case : Completed Questionnaire for a canceled appointment in the past](#test-case--completed-questionnaire-for-a-canceled-appointment-in-the-past)
-    - [Description / Use Case](#description--use-case-5)
+    - [Description / Use Case](#description--use-case-7)
     - [Lighthouse data needed](#lighthouse-data-needed-7)
   - [Test Case : Not Completed Questionnaire for a canceled appointment in the past](#test-case--not-completed-questionnaire-for-a-canceled-appointment-in-the-past)
-    - [Description / Use Case](#description--use-case-6)
+    - [Description / Use Case](#description--use-case-8)
     - [Lighthouse data needed](#lighthouse-data-needed-8)
   - [Test Case : Use has an appointment in the future with no Questionnaire](#test-case--use-has-an-appointment-in-the-future-with-no-questionnaire)
-    - [Description / Use Case](#description--use-case-7)
+    - [Description / Use Case](#description--use-case-9)
     - [Lighthouse data needed](#lighthouse-data-needed-9)
   - [Test Case x : Template](#test-case-x--template)
-    - [Description / Use Case](#description--use-case-8)
+    - [Description / Use Case](#description--use-case-10)
     - [Lighthouse data needed](#lighthouse-data-needed-10)
 
 ## Assumptions
@@ -56,7 +56,7 @@
 
 ## Test Case : Upcoming Appointment, Questionnaire needs to be filled out
 
-### Description/Use case
+### Description / Use case
 
 This use case is the simple happy path. A user has an appointment with a questionnaire in the future and has not submitted a questionnaire response yet.
 
@@ -68,7 +68,7 @@ This use case is the simple happy path. A user has an appointment with a questio
 
 ## Test Case : Upcoming Appointment, Questionnaire is still in progress
 
-### Description/Use case
+### Description / Use case
 
 A user has an appointment with a questionnaire in the future and has not started a questionnaire response yet.
 
