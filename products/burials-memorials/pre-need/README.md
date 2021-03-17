@@ -71,20 +71,15 @@ Veterans (and their loved ones) want to choose which VA cemetary they'd like to 
 - **VA Executive Sponsor** `*`: Troy Hamilton
 - **VA Policy Expert(s)**: 
 - **VA Digital Strategist(s)** `*`: Matt Self 
-- **Product Manager** `*`: Ryan Luu 
+- **Product Manager** `*`: 
 - **Design Lead**: 
-- **Eng Lead**: Jeff Balboni 
+- **Eng Lead**:
 - **VA Web Comms Partner**: 
 - **VA Contact Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**: EOAS - Cuong Tang 
 - **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
-  - Jeff Balboni 
-  - Rian Fowler 
-  - Annie Bai 
 - **Back-end Engineer(s)**:
-  - Lihan Li 
-  - Johnny Holton 
 
 `*` = approval required for launch
 
