@@ -1,4 +1,4 @@
-# Introduction #
+# Introduction
 
 VEText is a platform for sending SMS messages to Veterans. These messages can be either one way or interactive. It was developed to lower no-show rates for Veterans’ health appointments by a team at the VA Loma Linda Healthcare system and rolled out nationally in 2018. 
 
@@ -9,7 +9,7 @@ In 2020 the VEText team moved to the OCTO to give it a national scope, and is no
 
 ================
 
-# Team #
+# Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
 
 **Name** | **Organization** | **Title** | **Role**
@@ -22,7 +22,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 
 ================
 
-# Uses of the VEText Team #
+# Projects
 
 
 ### Current Uses
@@ -53,7 +53,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 
 ================
 
-# Pain Points (02/21)#
+# Pain Points (02/21)
 
 VEText is a victim of its own success. A talented close-knit team created a stable, versatile tool for one specific purpose. 
 
