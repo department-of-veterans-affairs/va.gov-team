@@ -91,6 +91,7 @@ An example of a completed request template can be found [here](https://github.co
 
 ## Acceptance Criteria
 - [ ] QA has been completed
+- [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
 - [ ] VFS team completes brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Definition of Done
