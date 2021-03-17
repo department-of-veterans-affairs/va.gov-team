@@ -52,7 +52,7 @@ This study will be broken up into 6 mini studies, segmented by the following 6 c
 - E - 6-10: Veterans with a high school diploma, GED or less education 
 
 **Nice to have:**
-F - 6-10: Reservists
+- F - 6-10: Reservists
 
 ### Secondary criteria / Would like to have - 
 - 10 participant of color 
