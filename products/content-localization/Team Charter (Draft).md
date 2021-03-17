@@ -154,12 +154,9 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
-#### GitHub
-GitHub is the single source of truth. All work is documented for tracking and capacity planning.
-
 #### PTO
 - Team members will send calendar invites to the rest of team when they have scheduled time off 
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+
