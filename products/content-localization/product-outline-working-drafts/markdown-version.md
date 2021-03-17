@@ -101,7 +101,7 @@ From Jan 1 - March 15, 2021 the total number of Pageviews visiting the Coronavir
 
 From March 1 - March 15, 2021 the total number of Pageviews visiting the Covid-19 Vaccine page in Spanish and Tagalog was ~4k.
 
-From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~55,505k.~
+From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~600k. 
 ~(more data will be added once we have dashboard set up)~
 
 Key Performance Indicators (KPIs)
