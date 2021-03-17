@@ -22,8 +22,13 @@ Lorem ipsum dolor sit amet.
 | Confimation modal shows | -- | -- | -- | -- | -- | -- | -- | -- |
 | Success message shows | ? | -- | X | X | ? | * | -- | -- |
 | User confirms bank info looks accurate | X | -- | X | X | X | * | -- | -- |
-| User confirms email received | DNA | -- | X | X | X | * | -- | -- |
-* Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
+| User confirms email received | ? | -- | X | X | X | * | -- | -- |
+
+-- = Did not occur in testing/Participant did not show
+
+\* = Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
+
+? = Did not observe result 
 
 ## Conclusion
 Lorem ipsum dolor sit amet.
