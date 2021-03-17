@@ -11,4 +11,5 @@ Before publishing a Resources and Support article make sure these steps are all 
 - [ ] **For single Q&A:** Standalone button is checked
 - [ ] **For multiple FAQs:** First publish each Q&A on its own (make sure standalone button is not checked) and then publish the multiple FAQ
 - [ ] **Once published:** Add article to the R&S landing page either in a new hub section or to one that already exists. If there are already more than 5 articles in that hub, you do not need to add it unless you want it to replace another article already on the page.
+- [ ] **Once published:** If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] **Once published:** Add the new article and its CTA button wording to our [Github file of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rs-cta-button-audit.md)
