@@ -10,19 +10,20 @@ Lorem ipsum dolor sit amet.
 
 ## UAT testing of direct deposit for EDU
 
-| UAT item | P1 | DNS | P3 | P4 | P5 | P6 | DNS | DNS |
+| UAT item | P1 | DNS | P3 | P4 | P5 | P6* | DNS | DNS |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | After login, intro screen allows access | X | -- | X | X | X | X | -- | -- |
-| Direct deposit information link appears in left-hand navigation | -- | -- | -- | -- | -- | -- | -- | -- |
-| User navigates to Direct deposit screen | -- | -- | -- | -- | -- | -- | -- | -- |
-| User confirms payment type(s) are correct (EDU, C&P, both) | -- | -- | -- | -- | -- | -- | -- | -- |
-| User confirms bank info looks accurate | -- | -- | -- | -- | -- | -- | -- | -- |
-| Unpopulated form opens | -- | -- | -- | -- | -- | -- | -- | -- | 
-| Screen accepts user input | -- | -- | -- | -- | -- | -- | -- | -- |
+| Direct deposit information link appears in left-hand navigation | X | -- | X | X | X | X | -- | -- |
+| User navigates to Direct deposit screen | X | -- | X | X | X | X | -- | -- |
+| User confirms payment type(s) are correct (EDU, C&P, both) | X | -- | X | X | X | * | -- | -- |
+| User confirms bank info looks accurate | X | -- | X | X | X | * | -- | -- |
+| Unpopulated form opens | X | -- | X | X | X | * | -- | -- |
+| Screen accepts user input | X | -- | X | X | X | * | -- | -- |
 | Confimation modal shows | -- | -- | -- | -- | -- | -- | -- | -- |
-| Success message shows | -- | -- | -- | -- | -- | -- | -- | -- |
-| User confirms bank info looks accurate | -- | -- | -- | -- | -- | -- | -- | -- |
-| User confirms email received | -- | -- | -- | -- | -- | -- | -- | -- |
+| Success message shows | ? | -- | X | X | ? | * | -- | -- |
+| User confirms bank info looks accurate | X | -- | X | X | X | * | -- | -- |
+| User confirms email received | DNA | -- | X | X | X | * | -- | -- |
+* Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
 
 ## Conclusion
 Lorem ipsum dolor sit amet.
