@@ -258,7 +258,8 @@ If unblocked by VA Profile:
 **Design**
 
 - Finish design
-- Design intent collab
+- [Design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
+- IA review?
 
 ### Notification preferences
 
@@ -269,7 +270,8 @@ If unblocked by VA Profile:
 **Design**
 
 - Begin design
-- Design intent collab
+- [Design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
+- IA review?
 
 **BE**
 
@@ -300,7 +302,7 @@ Design
 
 - Revisit long term planning with the team — are we ready to go on hold until VAOS is available?
 - Schedule and hold design intent collab
-- Plan for IA review
+- [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
 
@@ -313,7 +315,7 @@ Design
 
 - Meet with Terry to better understand timeline so we can scope/plan
 - Schedule and hold design intent collab
-- Plan for IA review
+- [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
 
