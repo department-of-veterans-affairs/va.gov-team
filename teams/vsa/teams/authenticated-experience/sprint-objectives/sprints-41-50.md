@@ -228,7 +228,7 @@ If unblocked by VA Profile:
 
 **Design**
 
-- [Design] My VA: Error message documentation #21373
+- Error message documentation #21373
 - Claims error message #21370
 - Claims spinner handling #21372
 - We can't detect whether someone has health care or not #21579
