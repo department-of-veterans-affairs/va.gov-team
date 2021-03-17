@@ -46,12 +46,13 @@ We will also provide a report further detailing the needs of our Veterans and fa
 Specifically, our objectives are as follows:
 
 1. To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries, and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
-2.	To meet federal/agency requirements for providing translated benefit information.
-3.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
-4.	Launch an MVP to demonstrate the recommended approach is viable, scalable and sustainable.
-5.	Identify requirements to stand-up an MVP including:
-a.	Budget
-b.	Process for selecting and on-boarding a  SAAS for integration with Drupal
+2. Give Veterans clear and concise information on accessing translation services.
+3.	To meet federal/agency requirements for providing translated benefit information.
+4.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
+5.	~Launch an MVP to demonstrate the recommended approach is viable, scalable and sustainable.~
+6.	Research and identify requirements for a scaleable enterprise solution begining with an MVP to prove out approach. This includes:
+a.	Budget estimates
+b.	Process for selecting and on-boarding a software provider for integration with Drupal
 c.	Integration points
 d.	Dependencies
 
