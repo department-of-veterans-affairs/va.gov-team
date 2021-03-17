@@ -106,4 +106,6 @@ Please allow 30 minutes between sessions.
 ### Resources
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/uat/dd-edu-uat-convo-guide.md)
 
+### Results
+[UAT results table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/uat/dd-edu-uat-results.md)
 ---
