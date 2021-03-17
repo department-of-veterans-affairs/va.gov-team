@@ -28,12 +28,12 @@ The goal of this study is to understand how Veterans and their families understa
 ## Method	
 Unmoderated card sort. An OptimalSort link will be sent to participants to participate in an unmoderated card sorting activity.	This study will be broken up into 6 mini studies, segmented by distinct deomographic cohorts. This method will help us answer our research questions by providing Veterans and their families the opportunity to complete the study in their own time without introducing moderator bias.
 
-[Link to study - A](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-a)
-[Link to study - B](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-b)
-[Link to study - C](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-c)
-[Link to study - D](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-d)
-[Link to study - E](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-e)
-[Link to study - F](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-f)
+- [Link to study - A](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-a)
+- [Link to study - B](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-b)
+- [Link to study - C](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-c)
+- [Link to study - D](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-d)
+- [Link to study - E](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-e)
+- [Link to study - F](https://adhoc.optimalworkshop.com/optimalsort/docaar20-0-0-f)
 
 ## Recruitment strategy
 
