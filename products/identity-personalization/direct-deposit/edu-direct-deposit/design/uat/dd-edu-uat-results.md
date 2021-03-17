@@ -15,18 +15,18 @@ Lorem ipsum dolor sit amet.
 | After login, intro screen allows access | X | -- | X | X | X | X | -- | -- |
 | Direct deposit information link appears in left-hand navigation | X | -- | X | X | X | X | -- | -- |
 | User navigates to Direct deposit screen | X | -- | X | X | X | X | -- | -- |
-| User confirms payment type(s) are correct (EDU, C&P, both) | X | -- | X | X | X | * | -- | -- |
-| User confirms bank info looks accurate | X | -- | X | X | X | * | -- | -- |
-| Unpopulated form opens | X | -- | X | X | X | * | -- | -- |
-| Screen accepts user input | X | -- | X | X | X | * | -- | -- |
+| User confirms payment type(s) are correct (EDU, C&P, both) | X | -- | X | X | X | (C&P) | -- | -- |
+| User confirms bank info looks accurate | X | -- | X | X | X | (C&P) | -- | -- |
+| Unpopulated form opens | X | -- | X | X | X | -- | -- | -- |
+| Screen accepts user input | X | -- | X | X | X | -- | -- | -- |
 | Confimation modal shows | -- | -- | -- | -- | -- | -- | -- | -- |
-| Success message shows | ? | -- | X | X | ? | * | -- | -- |
-| User confirms bank info looks accurate | X | -- | X | X | X | * | -- | -- |
-| User confirms email received | ? | -- | X | X | X | * | -- | -- |
-
--- = Did not occur in testing/Participant did not show
+| Success message shows | ? | -- | X | X | ? | -- | -- | -- |
+| User confirms bank info looks accurate | X | -- | X | X | X | -- | -- | -- |
+| User confirms email received | ? | -- | X | X | X | -- | -- | -- |
 
 \* = Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
+
+-- = Did not occur in testing/Participant did not show
 
 ? = Did not observe result 
 
