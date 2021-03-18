@@ -231,7 +231,7 @@ If unblocked by VA Profile:
 - Error message documentation #21373
 - Claims error message #21370
 - Claims spinner handling #21372
-- Review frontend build as needed
+- Talk to Tressa to see what other design work is still outstanding
 
 **FE**
 
