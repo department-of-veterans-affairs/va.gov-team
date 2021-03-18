@@ -31,8 +31,7 @@ eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br>
 eBenefits | Education direct deposit | staging  | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/19963
 Thoughtworks (Team orchid) | IRIS/Contact Us form | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/16657 <br>
 VAOS | Homepage refresh | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/18411
-VAOS | CC request flow | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/19620 
-VAOS | CC request flow | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15711
+VAOS | CC request flow | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/19620 
 VAOS | Vaccine distribution | Usability prep | https://github.com/department-of-veterans-affairs/va.gov-team/issues/19964  
 VAMC | Salt Lake City | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/21538
 
@@ -102,6 +101,7 @@ VAMC | Coatesville VAMC | Staging review | https://app.zenhub.com/workspaces/vsp
 VAMC | Eastern Oklahoma | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/20653 <br>
 
 VAOS | CC request flow | Kickoff held 11/5 | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15711<br>
+VAOS | CC request flow | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15711
 VAOS | Homepage refresh | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/18411<br>
 
 Wizards | EDU | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243 <br>
