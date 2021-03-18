@@ -12,15 +12,17 @@ Cindy Merrill, Senior Researcher, Mar 2021
 * What are the most-asked questions at the VA call center? 
 ### Search
 - Which of the multiple search boxes on VA.gov do Veterans use? (global site search in header, Resources and Support, Find a Form, Find a Location, Find Yellow Ribbon school)
-  - Are Veterans currently aware of any of the tools besides Global search? (all the others are pretty new and haven’t really been advertised)
-  - Are they confused about which search method to use, or do they only use one? If only one, which one?
+  - What Veterans think about searching on VA.gov?
+  - Are Veterans aware of any of the search tools besides Global search? (all the others are pretty new and haven’t really been advertised)
+  - What feedback do Veterans have on the search tools? Too many? Confused about which to use, or do they only use one? If only one, which one?
   - What do analytics tell us? Are all of these search methods being used?
   - *My hypothesis: Veterans just want to find what they’re looking for, and don’t want to choose from multiple ways to search unless it helps them get better results.*
 - Get feedback on usability of search--findability, usage
 - Get feedback on usability of search results
 ### Resources & Support
 - Do Veterans use this? Check analytics data
-- Get feedback on usability--findability, usage
+- Get feedback on usability--findability, usage, mobile experience
+- What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
 ### Benefit Hubs 
 (is this the Benefits index below the 4 quadrants on va.gov?)
 - Do Veterans use this? Check analytics data
