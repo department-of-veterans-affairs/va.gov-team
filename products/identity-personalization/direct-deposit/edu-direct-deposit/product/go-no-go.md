@@ -21,7 +21,7 @@
 
 **Erik**: are you ready to flip on direct deposit for edu to 10% of users?
 - `yes/no - any notes`
-- 
+
 **Samara**: is the Product Health Tool updated to track this product data and working as expected?
 - `yes/no - any notes`
 
