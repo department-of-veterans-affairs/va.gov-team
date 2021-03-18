@@ -5,16 +5,16 @@
 
 ***DISCUSSION TOPICS:*** 
 
- - [ ] Discuss Threshold + Deprecate guidance for Search.gov [#21325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21325)
- - [ ] Review status of Typeahead Suggestions List and Next Steps [#21316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)
- - [ ] Discuss next steps for Acronym Clarity [#19371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
- - [ ] Initiative Status Review (Identifying new work items and actions as we go)
+ - [x] Discuss Threshold + Deprecate guidance for Search.gov [#21325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21325)
+ - [x] Review status of Typeahead Suggestions List and Next Steps [#21316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)
+ - [x] Discuss next steps for Acronym Clarity [#19371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
+ - [x] Initiative Status Review (Identifying new work items and actions as we go)
 
 ***NEW TASKS:***  [Work that needs to be tracked in GH]
  - TBD
 
  ***NEXT STEPS/ACTIONS:*** [Work that needs to be done]
- - TBD
+ - Set up a meeting with search.gov How easy is it to change the threshold/deprecate dates? Assuming it is easy make the suggestions of 40/days/deprecate 15 days. Ask them not to make any adjustments during POC2 Timeframe. Can they clarify how suggestions are matched (alphabetically/popularity) why are they trying to improve the feeling of recency in government space? 
 
 
  ***INITIATIVE STATUS***
