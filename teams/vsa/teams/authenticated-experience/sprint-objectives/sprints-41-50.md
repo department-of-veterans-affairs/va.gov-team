@@ -245,9 +245,10 @@ If unblocked by VA Profile:
 
 - Wrap updated content in a react widget so it will show conditionally throughout phased launch #21725 (**needs to be done as early in the sprint as possible before go/no-go**)
 - Hold go/no-go
+
+**FE**
+
 - Launch to 10%
-- Keep eBenefits updated on launch
-- Keep BGS updated on launch (make sure no issues with load) 
 
 ### Preferred medical facility 
 
