@@ -254,29 +254,29 @@ If unblocked by VA Profile:
 
 **PM**
 
-- Schedule and hold design intent collab
+- Schedule and hold [design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
 
 **Design**
 
 - Finish design
-- [Design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
+- Attend design intent collab with VSP
 - IA review?
 
 ### Notification preferences
 
 **PM**
 
-- Schedule and hold design intent collab
+- Schedule and hold [design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
 
 **Design**
 
 - Finish design
-- [Design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
+- Attend design intent collab with VSP
 - IA review?
 
 **BE**
 
-- VA Profile notification preferences: Implementation (part 3) #19774
+- Notification preferences: Implementation (part 3) #19774
 
 ## Sprint 45 (4/7 - 4/20)
 
