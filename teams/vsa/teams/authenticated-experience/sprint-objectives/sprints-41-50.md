@@ -270,7 +270,7 @@ If unblocked by VA Profile:
 
 **Design**
 
-- Begin design
+- Finish design
 - [Design intent collab with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md)
 - IA review?
 
