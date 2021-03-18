@@ -244,6 +244,7 @@ If unblocked by VA Profile:
 
 **PM**
 
+- Wrap content updates in react widget for phased launch (**needs to be done before go/no-go**)
 - Hold go/no-go
 - Launch to 10%
 - Keep eBenefits updated on launch
