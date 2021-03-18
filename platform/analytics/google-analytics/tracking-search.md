@@ -11,10 +11,51 @@
  
  
  ### On Search
-
-Description/Screenshot of Interaction | DataLayer | Dev Notes
------------- | ------------- | -------------
-_When the user has performed a search AND search results have been returned_ | `'event': 'view_search_results'`<br>`'search-page-path': '/', //for homepage`<br>`'search-query': 'heal',`<br>`'search-typeahead-enabled': true\|false //based on whether the search has type ahead capability`<br>`'search-selection': 'All VA.gov' //dynamically changed according to search application + scope`<br>`'search-filters-list': { stateOrTerritory: //state, city: //city name, contributionAmount: "unlimited" //or undefined if not used, numberOfStudents: "unlimited" //or undefined if not used}`<br>`'type-ahead-option-keyword-selected': 'health assessment',`<br>`'type-ahead-option-position': 2,`<br>`'type-ahead-options-list': {'healing touch', 'health assessment', 'health problems that i have', 'health coverage statement 2019', 'health topics'}` | - **Please be sure to push `undefined` for any variable that is not available from the system** <br> - **For all non-type ahead search, please push boolean value `false` for `search-typeahead-enabled`**
+<table>
+  <tr>
+   <td>Description of When To Use
+   </td>
+   <td>Data Layer Specification
+   </td>
+   <td>Dev Notes
+   </td>
+  </tr>
+  <tr>
+   <td><em>When the user has performed a search AND search results have been returned</em>
+<p>
+<strong><em>For type ahead search, this is implemented just prior to next page load when the user lands on /search</em></strong>
+   </td>
+   <td><code> 'event': 'view_search_results'</code>
+<p>
+<code> 'search-page-path': //without <a href="www.va.gov">www.va.gov</a> hostname, the page path where the search occurred</code>
+<code> 'search-query': //full query input from the user</code>
+<p>
+<code> 'search-typeahead-enabled': //true when the user has typeahead enabled </code>
+<p>
+<code> 'search-selection': //scope of search, values include: 'All VA.gov','Resources and Support','Yellow Ribbon',  'Find Forms'</code>
+<p>
+<code> 'search-filters-list': {} //key value pairs of search filter parameters</code>
+<p>
+<code>'type-ahead-option-keyword-selected': //type ahead option selected by user to perform search</code>
+<p>
+<code>'type-ahead-options-list': [] //full array list of type ahead options presented to user at time of search</code>
+<p>
+<code>'type-ahead-option-position': //rank position chosen from type ahead options list </code>
+<p>
+<code> 'sitewide-search-app-used': //true only when the header search box is used, otherwise false</code>
+<p>
+<code> 'search-results-total-count': //full count of search results returned</code>
+<p>
+<code> 'search-results-total-pages': //full count of search result pages returned</code>
+   </td>
+   <td>Please be sure to push `undefined` for any variable that is not available from the system
+<p>
+For all non-type ahead search, please push boolean value <code>false </code>for <code>search-typeahead-enabled</code>
+<p>
+Example of <code>search-filters-list </code>used for Yellow Ribbon Search <code>{ stateOrTerritory: //state, city: //city name, contributionAmount: "unlimited" //or undefined if not used, numberOfStudents: "unlimited" //or undefined if not used}</code>
+   </td>
+  </tr>
+</table>
 
 ### On Search Results Click
 Description/Screenshot of Interaction | DataLayer | Dev Notes
