@@ -37,6 +37,28 @@
 
 ## Wednesday, March 17 
 
+ * new [Action link](https://design.va.gov/components/action-links) design component to help distinguish buttons and links, particularly for users of assistive tech
+   * No CMS team action for now
+   * CLP product team will discuss taking this for a spin.   
+ * 3 of 4 beta user tests so far (VHA still coming for Vaccine hesitation campaign). Some themes:
+   * would be great to be able to sort/restack panels
+     * Ryan: loves it.
+     * one test user said, "as a user i'd have to keep scrolling and i'd have to keep scrolling".
+     * Could anchors help?
+   * What about leading with a video? 
+     * Existing campaigns lead with a video up front. 
+     * How to balance user and business goals?
+   * Signup box in a panel, possibly as a sidebar (eg govdelivery email list)
+   * Audiences: "Is this exclusionary?" and the desire to have 7 audiences (not just 3). And freeforming audience names. Should it be optional?
+     * Ryan: would love to hear users feedback on this.
+   * Should downloads have previews of what you're getting? Eg thumbnail image. 
+   * Editorial experience issues
+     * Inline video adding is clunky
+     * "You can leave off pictures if you want to compress things" -- a workaround to display certain content higher. 
+     * Ownership
+     * Some labelling.
+     * Illustrated guides are helpful. But a screenshot may be better. 
+     * Full synthesis post-VHA user test(s). 
 
 
 ## Wednesday, March 10
