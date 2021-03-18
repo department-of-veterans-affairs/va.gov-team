@@ -27,7 +27,7 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 | P6 | Veteran | F | 25-34 | Master's | White/Caucasian | Army |
 | P7 | Veteran | F | 35-44 | Master's | White/Caucasian | Army |
 | P8 | No-show | -- | -- | -- | -- | -- |
-| P9 | Veteran | F | 24-35 | Associate's | Black/African-American | Air Force |
+| P9 | Veteran | F | 25-34 | Associate's | Black/African-American | Air Force |
 | P10 | Veteran | M | 45-54 | Some college | Black/African-American | Navy |
 
 ## Guiding questions
