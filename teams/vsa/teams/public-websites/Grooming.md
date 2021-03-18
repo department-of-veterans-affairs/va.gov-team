@@ -31,7 +31,8 @@
 ### Discussion Topics/Grooming 
  - [ ] CLP Staging "This is a test" Banner idea [#21665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21665)
  - [ ] CLP "Action Link" potential incorporation into MVP 1.0?  Discussion / Impact?
- - [ ] CLP Confirm "Video Transcripts" is MVP 1.1 intergration.  @ryan added a design element to ticket, would like to review with CMS as this is CMS dependent. 
+ - [ ] CLP Confirm "Video Transcripts" is MVP 1.1 intergration.  @ryan added a design element to ticket, would like to review with CMS as this is CMS dependent.
+ - [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529) 
  - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? 
  - [ ] write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
  - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608) 
@@ -44,7 +45,7 @@
 - [ ] MVP learning center: videos template for desktop and mobile [#11497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11497) 
 - [ ] Bug: Outreach hub events with broken social media links [#21517](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21517) 
 - [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
-- [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529)
+
 
 ### Discovery Topics
 - [ ] [Discovery] Generate "tech debt" opportunities [#7790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
