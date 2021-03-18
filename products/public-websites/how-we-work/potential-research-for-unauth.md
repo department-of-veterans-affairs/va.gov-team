@@ -39,7 +39,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - Meg Peters (IA lead)
   - Danielle and Beth (content leads)
 - Gather the most important unauth user tasks from journey map & other sources
-  - Talk to Meg Peters and Shawna about top task thoughts (maybe a meeting w/ all three of us)
+  - Talk to Meg Peters and Shawna together about top task thoughts
 - Determine what unauth research would be the most impactful in the near term
   - Baseline research across new products that haven’t been tested
   - Research on products that support the most important user tasks 
