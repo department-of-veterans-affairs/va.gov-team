@@ -29,7 +29,7 @@
 - `yes/no - any notes`
 
 **Samara**: is call center ready to handle potential calls that may come in about preview.va.gov?
-- `yes/no - any notes`~-->
+- `yes/no - any notes`
 
 **Samara/AJ**: are you ready to monitor analytics data for trends and problems?
 - `yes/no - any notes`
