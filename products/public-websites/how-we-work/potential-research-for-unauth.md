@@ -26,6 +26,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 ### Benefit Hubs 
 (is this the Benefits index below the 4 quadrants on va.gov?)
 - Do Veterans use this? Check analytics data
+- How do Veterans use this? (get info and leave? stay and browse?)
 - Get feedback on usability--findability, usage
 ### Find a Form
 - Do Veterans use this? Check analytics data
