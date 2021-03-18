@@ -236,6 +236,7 @@ If unblocked by VA Profile:
 **FE**
 
 - My VA content updates #21652
+- Appointments need better Cypress coverage #21255
 - Updates from usability testing
 - Implement error messages
 
