@@ -15,7 +15,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - Are Veterans currently aware of any of the tools besides Global search? (all the others are pretty new and haven’t really been advertised)
   - Are they confused about which search method to use, or do they only use one? If only one, which one?
   - What do analytics tell us? Are all of these search methods being used?
-  - My hypothesis: Veterans just want to find what they’re looking for, and don’t want to choose from multiple ways to search unless it helps them get better results.
+  - *My hypothesis: Veterans just want to find what they’re looking for, and don’t want to choose from multiple ways to search unless it helps them get better results.*
 - Get feedback on usability of search--findability, usage
 - Get feedback on usability of search results
 ### Resources & Support
@@ -39,7 +39,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - Meg Peters (IA lead)
   - Danielle and Beth (content leads)
 - Gather the most important unauth user tasks from journey map & other sources
-  - Speak to Meg Peters and Shawna about top task thoughts (maybe a meeting w/ all three of us)
+  - Talk to Meg Peters and Shawna about top task thoughts (maybe a meeting w/ all three of us)
 - Determine what unauth research would be the most impactful in the near term
   - Baseline research across new products that haven’t been tested
   - Research on products that support the most important user tasks 
