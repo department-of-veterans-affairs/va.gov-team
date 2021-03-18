@@ -7,3 +7,4 @@
 | Vaccine update about offering to more Veterans | | 3/15 | 3/16 | 3/18 Spanish | | 3/17 2 hrs | |
 | FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | 3/18 Spanish | | | 3/15 1 hr | |
 | Reworking upper section of vaccine page | 3/16 2 hrs | 3/16 | 3/18 Spanish |
+| Updates around CLC visitation policy | 3/17 2 hrs | 3/18 | | | | 3/18 1 hr | | |
