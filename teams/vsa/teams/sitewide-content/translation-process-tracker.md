@@ -4,6 +4,6 @@
 | FAQs | | | 3/12 | | 3/12 & 3/13 9.5 hrs | | 3/12 | No changes |
 | Vaccine | | | | | |3/8 4.5 hours | | 3/8 4 hours |
 | Vaccine updates for Janssen vaccine | | 3/2 | 3/10 | 3/10 8 hours | 3/10 8 hours |
-| Vaccine update about offering to more Veterans | | 3/15 |
-| FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | | | | 3/15 1 hr | |
-| Reworking upper section of vaccine page | 3/16 2 hrs | 3/16 |
+| Vaccine update about offering to more Veterans | | 3/15 | 3/16 | 3/18 Spanish |
+| FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | 3/18 Spanish | | | 3/15 1 hr | |
+| Reworking upper section of vaccine page | 3/16 2 hrs | 3/16 | 3/18 Spanish |
