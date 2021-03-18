@@ -8,9 +8,9 @@
 3. We make sure a Jira ticket exists
 4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
 5. If they need training, pass this information to training by assigning the ticket to training in Jira.
-    1. If they don’t have access, training can send them youtube training but we can’t give them training site access
-    2. If they do have access, send training instructions, including following up with their product owner/approver when training is completed.
-    3. Once training has their info and creates their account in the training environment, the initial ticket is DONE and can be closed.
+    1. If they don’t have access, training can send them youtube video links but we can’t give them training site access
+    2. If they do have access, create their account in prod following instructions below, create their account in training environment (because prod account won't update training environment until the next training environment refresh), then send training instructions, including following up with their product owner/approver when training is completed.
+   
 
 ## Process Overview - No Training Needed/Training Completed
 
@@ -30,9 +30,9 @@
 
 ### Access requested
 
-Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account)
+Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account) except for VAMC users who are sent by Stan.
 
-*   Verify the user’s role
+*   Verify the user’s role. VAMC editors all get VACM content creator and content publisher
 *   Verify their request with product owner (DEPO POC)?
 *   Verify the user’s need (what do they need to do in the CMS so we can assign the appropriate permissions)
     *   Reviewer - need to review and approve, but not edit content
@@ -106,7 +106,7 @@ OR
 10. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
 11. Leave the box checked next to **Enable this user to leverage SAML authentication**.
 12. Skip **Password Expiration** for now. Currently there is no expiration period.
-13. Click **Create new account**. (Will see account creation confirmation in green at the top of the screen)
+13. 14. Click **Create new account**. (Will see account creation confirmation in green at the top of the screen)
 14. In the top toolbar menu, click **Manage**.
 15. Click **People**.
 16. Find the user account you just created in the results list.
@@ -114,11 +114,13 @@ OR
 18. Click the checkbox next to the appropriate section(s).
 19. Click **Save**.
 
+### Method 3 bulk import (even for just one user) into training environment to automatically set their password to drupal8
+Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
+
 ## External resources
 
 * Instructions for adding multiple users
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
-Bulk User Import in prod automatically generates account activation email to new users.
 
 * Process workflow on Mural
 https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
