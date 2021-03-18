@@ -1,5 +1,9 @@
 # Cheetah flow
 
+0. Homepage `/health-care/schedule-view-va-appointments/appointments/`
+
+![homepage](cheetah-flow/homepage.png)
+
 1. Plan ahead page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking`
 
 ![plan-ahead](cheetah-flow/plan_ahead_page.png)
