@@ -29,6 +29,7 @@
 *   - If they don't have those areas now, how best do we create these areas? (Create and keep them disabled in Menu? Keep them in Draft?)
 * Dual state
 * Policies page cutover runbook
+* The use of placeholder images for facilities and stories.
 
 ## Friday Mar 12 10:30am ET
 
