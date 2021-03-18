@@ -57,6 +57,42 @@ Example of <code>search-filters-list </code>used for Yellow Ribbon Search <code>
   </tr>
 </table>
 
+### Type Ahead Search Specific - Other Search Products to Ignore
+
+<table>
+  <tr>
+   <td>Description of When To Use
+   </td>
+   <td>Data Layer 
+   </td>
+   <td>Dev Notes 
+   </td>
+  </tr>
+  <tr>
+   <td><em>When the next page load <strong>for a typeahead search has occurred</strong></em>
+<p>
+<em>Exclusively used on type ahead search for the purpose of maintaining consistent metadata extraction while coping with the difficulty of the timing between when search is executed, next page load, and search result metadata is returned</em>
+   </td>
+   <td><code>'event': 'onload_view_search_results',</code>
+<p>
+<code>'search-query': //full query input from the user</code>
+<p>
+<code> 'search-typeahead-enabled': //true when the user has typeahead enabled </code>
+<p>
+<code> 'search-selection': //scope of search, values include: 'All VA.gov','Resources and Support','Yellow Ribbon',  'Find Forms'</code>
+<p>
+<code>'sitewide-search-app-used': //true only when the header search box is used, otherwise false</code>
+<p>
+<code> 'search-results-total-count': //full count of search results returned</code>
+<p>
+<code> 'search-results-total-pages': //full count of search result pages returned</code>
+   </td>
+   <td><em>See above dev notes for consistencies </em>
+   </td>
+  </tr>
+</table>
+
+
 ### On Search Results Click
 Description/Screenshot of Interaction | DataLayer | Dev Notes
 ------------ | ------------- | -------------
