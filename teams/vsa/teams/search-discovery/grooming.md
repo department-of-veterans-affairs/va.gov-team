@@ -8,7 +8,7 @@
  - [ ] Discuss Threshold + Deprecate guidance for Search.gov [#21325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21325)
  - [ ] Review status of Typeahead Suggestions List and Next Steps [#21316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)
  - [ ] Discuss next steps for Acronym Clarity [#19371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19371)
-
+ - [ ] Initiative Status Review (Identifying new work items and actions as we go)
 
 ***NEW TASKS:***  [Work that needs to be tracked in GH]
  - TBD
