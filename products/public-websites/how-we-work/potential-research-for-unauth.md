@@ -38,7 +38,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 ## Next Steps
 - Check analytics data to compare usage across unauth products 
 - Talk to people to learn what the biggest pain points are
-  - Call centers (Chante Sweet)--ask re question topics/themes
+  - Call centers (Chante Lantos-Swett)--ask re question topics/themes
   - Meg Peters (IA lead)
   - Danielle and Beth (content leads)
 - Gather the most important unauth user tasks from journey map & other sources
