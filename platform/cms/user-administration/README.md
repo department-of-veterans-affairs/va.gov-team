@@ -73,26 +73,8 @@ Some of these may already be part of the originating request, but need validatio
 
 ## Instructions for adding one user at a time
 
-### Method 1 (they sign in with PIV, then we edit their roles and sections) - Not currently recommended
 
-1. Once prod account is requested and the request verified with product owner/approver, email them:
-    1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
-    2. Ask them to use PIV card login
-    3. Ask them to reply by email when they have completed PIV card login
-2. After receiving their confirmation of PIV card login, log in to prod.
-3. In the top toolbar menu, click **Manage**.
-4. Click **People**.
-5. Enter their VA.gov email address in the **Name or email contains** field, then click **Filter**.
-6. Find their name in the search results, then click **Edit**.
-7. In the **Roles** list, check the box(es) next to the roles they should have.
-8. Scroll down to the bottom of the page and click **Save**.
-9. On the **People** page, in the results list, find the user again, go to the **Sections** column, and click **Edit**.
-10. In the **Sections** list, click the checkbox next to the appropriate section(s).
-11. Click **Save**.
-
-OR
-
-### Method 2 (we create their account, then we edit their roles and sections, then we ask them to sign in) - Currently recommended
+### Method 1 (we create their account, then we edit their roles and sections, then we ask them to sign in) - Currently recommended
 
 1. Log in to the production environment: [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
 2. In the top toolbar menu, click **Manage**.
@@ -114,8 +96,41 @@ OR
 18. Click the checkbox next to the appropriate section(s).
 19. Click **Save**.
 
-### Method 3 bulk import (even for just one user) into training environment to automatically set their password to drupal8
+OR
+
+### Method 2 bulk import (even for just one user) into training environment to automatically set their password to drupal8
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
+
+OR
+
+### Method 3 PIV login to prod (they sign in with PIV, then we edit their roles and sections) - Not currently recommended
+
+1. Once prod account is requested and the request verified with product owner/approver, email them:
+    1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
+    2. Ask them to use PIV card login
+    3. Ask them to reply by email when they have completed PIV card login
+2. After receiving their confirmation of PIV card login, log in to prod.
+3. In the top toolbar menu, click **Manage**.
+4. Click **People**.
+5. Enter their VA.gov email address in the **Name or email contains** field, then click **Filter**.
+6. Find their name in the search results, then click **Edit**.
+7. In the **Roles** list, check the box(es) next to the roles they should have.
+8. Scroll down to the bottom of the page and click **Save**.
+9. On the **People** page, in the results list, find the user again, go to the **Sections** column, and click **Edit**.
+10. In the **Sections** list, click the checkbox next to the appropriate section(s).
+11. Click **Save**.
+
+OR
+
+### Method 4 To create a new user in a tugboat environment from the command line
+1. Go to the environment’s main page by clicking the environment name on the list of environments
+2. You will see a table titled ‘Services’
+3. In the line starting with ‘php’, click the ‘Terminal’ link
+4. A command line terminal will pop up
+5. Paste the following command (Make sure to update the email address in both places) and press return:
+ drush user:create me@va.gov --mail="me@va.gov" --password="drupal8"
+6. You should see a message like the following:
+  [success] Created a new user with uid 1803
 
 ## External resources
 
