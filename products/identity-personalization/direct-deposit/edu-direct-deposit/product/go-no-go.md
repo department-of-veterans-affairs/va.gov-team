@@ -17,9 +17,11 @@
 - `yes/no - any notes`
 
 **Erik**: is the content page set-up to handle our phased launch?
+- `yes/no - any notes`
 
 **Erik**: are you ready to flip on direct deposit for edu to 10% of users?
-
+- `yes/no - any notes`
+- 
 **Samara**: is the Product Health Tool updated to track this product data and working as expected?
 - `yes/no - any notes`
 
@@ -36,3 +38,4 @@
 - `yes/no - any notes`
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch to 10% of users?
+- `yes/no - any notes`
