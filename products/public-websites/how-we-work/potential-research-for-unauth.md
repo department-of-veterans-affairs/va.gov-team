@@ -24,7 +24,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - Get feedback on usability--findability, usage, mobile experience
 - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
 ### Benefit Hubs 
-(is this the Benefits index below the 4 quadrants on va.gov?)
+(focused on the dropdown links under "VA Benefits and Health Care" on va.gov)
 - Do Veterans use this? Check analytics data
 - How do Veterans use this? (get info and leave? stay and browse?)
 - Get feedback on usability--findability, usage
