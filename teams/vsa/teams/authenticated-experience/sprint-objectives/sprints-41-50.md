@@ -231,7 +231,6 @@ If unblocked by VA Profile:
 - Error message documentation #21373
 - Claims error message #21370
 - Claims spinner handling #21372
-- Design error for when we can't detect whether someone has health care or not #21579
 - Review frontend build as needed
 
 **FE**
