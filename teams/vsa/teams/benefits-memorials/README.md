@@ -84,7 +84,7 @@ Like BDD (somewhat).  Not on the radar for 2021
 # Team Info
 
 ## Customer Support
-First line is always Matt and Luke. However, our channel #vsa-benefits-memorial is a great place to talk to anyone about a specific subject.  For specific questions regarding front-end, back-end, or design, you can always contact the individuals in the specific roles below.
+First line is always Matt and Ronnie. However, our channel #vsa-claims-appeals is a great place to talk to anyone about a specific subject.  For specific questions regarding front-end, back-end, or design, you can always contact the individuals in the specific roles below.
 
 |**Roles**              |**Assigned**                        |**Contact Information**         |
 |-----------------------|------------------------------------|--------------------------------|
@@ -92,7 +92,6 @@ First line is always Matt and Luke. However, our channel #vsa-benefits-memorial 
 |Team Product Manager   |Veronica Henry                      |vhenry@governmentcio.com        |
 |Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
 |Back-End Engineer      |Ed Mangimelli                       |ed.mangimelli@adhocteam.us      |
-|Front-End Engineer     |Nicholas Sprinkle                   |nick.sprinkle@oddball.io        |
 |Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
 |Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
 |Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |
@@ -184,8 +183,11 @@ Assess and update workload for remainder of sprint:
 - **December 2019**: Identifying how to handle Legacy Issues in HLR; Blocked by MVI to complete environment testing due to server error issues. Began business and technical research on Benefits Delivery at Discharge, Claim Status API and Notice of Disagreement.
 - **January 2020**: MVI integration for Original Claims (still being worked in February), finalize HLR design and work with AMO for approval, kick off Notice of Disagreement (delayed), begin working Benefits Delivery at Discharge plan (slightly delayed but plan completed by 2/7), lots of HLR bug fixes and updates based on accessibility reviews, prepare forms 8940 and 4192 for launch.
 - **February 2020**: Complete MVI integration and complete Original Claims.  Possibly launch at the end of the month but given the MVI integration schedule it is not likely.  Complete HLR design and implementation, also shoot for March launch.  Get through initial usability testing with BDD.  Begin initial analysis of NOD, not expected to be prioritized over Original Claims, BDD, and HLR.
+-  ** November 2020** HLR staged rollout
 - **Decemeber 2020**: Roll out Benefits Delivery at Discharge.  At 100% by end of December. BDD will turn off on eBenefits by January 31st.
-- **January 2021**: Expected launch of HLR.
+- **March 2021**: HLR launched.
+- **April 2021**: NOD staged rollout.
+- **June 2021**: 526 usability enhancements.
 
 ## Keywords
 vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim, PTSD
