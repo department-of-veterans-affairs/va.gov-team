@@ -249,17 +249,77 @@ Before starting first task, one Veteran interjected:
  
 ## Additional Findings
 
-#### 1. 3 Participants suggested improvements to intro text. One Veteran called the the first sentence the mission statement. Most had trouble with the second sentence which one Veteran felt should be a separate paragraph and bulleted, another suggested changing its focus to customer service. Some Veterans called out grammatical errors or awkward sentences when they encountered them.
+1. 3 Participants suggested improvements to intro text. One Veteran called the the first sentence the mission statement. Most had trouble with the second sentence which one Veteran felt should be a separate paragraph and bulleted, another suggested changing its focus to customer service. Some Veterans called out grammatical errors or awkward sentences when they encountered them.
 
-#### 2. Veterans continue to equate “Referral services” with “getting a doctors referral”. This may be perpetuating the notion that this is a medical clinic.
+2. Veterans continue to equate “Referral services” with “getting a doctors referral”. This may be perpetuating the notion that this is a medical clinic.
 
-#### 3. Veterans continue to mention how they are now more accustomed to doing Telehealth and now have an expectation of “Zoom appointments” and want to know when this is an option for them. 
+3. Veterans continue to mention how they are now more accustomed to doing Telehealth and now have an expectation of “Zoom appointments” and want to know when this is an option for them. 
 
 
 
 ## Recommendations
 
-1. 
+#### Intro text
+
+1. Refine this intro copy to be easier to scan. Consider a bulleted list for the second sentence which may improve the likelihood that keywords get noticed instead of bypassing the entire block of copy as most participants seemed to do in two studies.
+
+#### On this page
+
+2. Veterans liked the information in "How we're different than a clinic" but many asked about topics that were in this section but went unnoticed. Consider rewording to include keywords that Veterans were looking for but didn't find like “Confidentiality” and “Eligibility”. It is unclear if the “How we’re different than a clinic” helped any Veterans understand that this is not a medical clinic. 
+
+3. Consider renaming “Referral services” to the actions that Veterans are trying to take like “Getting Veteran services help” or some other basic term or phrase that all Veterans can relate to but less likely to imply “medical referrals”. While “VA Connections” still created some confusion, it didn’t conjure up the idea of “medical clinic”. Veterans have also used “one stop shop” for all things VA to describe Vet Centers. 
+
+#### Locations and contact information
+
+4. Give Veterans an option to email a Vet Center
+
+5. Change “Main number” to “Direct line”
+
+#### Prepare for your visit
+
+6.Consider adding an “appointments” accordion to provide another opportunity for Vet Centers to differentiate themselves from VA medical centers and to set realistic expectations for getting seen. 
+
+   - a) Add phone and email contact options
+   - b) Revise “same day” messaging to set a realistic expectation.
+   - c) Consider explaining small office/staff, to highlight intimate environment and set expectations
+   - d) Reiterate “no referral required” “no VA enrollment required”.
+   - e) Consider adding messaging about Telehealth, if available, e.g. “video appointments available”
+
+#### In the spotlight
+
+7. Continue highlighting groups and events but only those that are open to all Veterans.
+
+#### Health services taxonomy
+
+8 These are preliminary taxonomy recommendations. More research is needed to inform these services. Test taxonomy on and get input from Veterans and proxies, e.g. VSOs, Vet Center outreach specialists, and call center workers whose jobs entail translating Veteran’s words and questions.
+
+All services:
+   - a) Lead with symptoms and include more layman's terms.
+   - b) Consider reordering services by priority vs alphabetization
+       - i). Lead with Mental health care
+       - ii). Consider breaking up categorization.
+   - c) Add telehealth, phone, video modalities to the services that offer it.
+   - d) Revise “same day” messaging to set a realistic expectation.
+
+#### 9. Mental health care 
+
+This service was easily found by all participants who’ve already engaged in Mental health care but Veterans explained that prior to treatment, they wouldn’t have self identified the diagnoses. It is unclear if a Veteran who is on the fence about getting help would identify with this service.
+
+   - a) “Hook” the broadest audience by starting with lowest common denominator symptoms and vocabulary and progressively disclose clinical terms, modalities and details. Terms that Veterans were looking for but didn't find: nightmares, trouble sleeping, loss of someone, nervous in crowds, hyper vigilant, mental well-being, trouble dealing with everyday issue, things are a struggle, survivor's guilt. More research is need to inform this.
+   - b) Consider adding an "entry level" mental health care service category like "counseling" that is less intimidating and may be able to encompass more symptoms independent of formal diagnoses.
+   - c) Keep evidence-based treatments, e.g. CBT, EMDR but prioritize them lower within hierarchy of information.
+
+#### 10. VA Connections 
+   - a) Veterans did not distinguish between VA connections and VSOs. Consider broadening this service and renaming it to match the Veteran’s view of it as “VA benefits” or “Navigating VA benefits”.
+   - b) Add a bullet that describes home loan assistance and housing benefits
+   - c) Add a bullet that describes connecting Veterans to VSOs, VFWs, etc. 
+
+
+#### 11. Grief and bereavement
+   - a) Prioritize what a Veteran or family member wants and needs to know when experiencing these situations vs what the VA wants a Veteran to know about eligibility.
+
+#### Locations
+12. When comparing which Vet Center may be closer, Veterans have a hard time comparing between multiple maps or may not know the streets.
 
 
 ## Next Steps
