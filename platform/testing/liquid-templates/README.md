@@ -104,51 +104,55 @@ it('reports no axe violations', async () => {
 
 Accessibility violations are logged to the console and look like this:
 
-```javascript
-6 Accessibility Violations Were Detected
+<details>
+  <summary>6 Accessibility Violations Were Detected</summary>
 
-Axe Violation 1:
- {
-  id: 'aria-roles',
-  impact: 'critical',
-  tags: [ 'cat.aria', 'wcag2a', 'wcag412' ],
-  description: 'Ensures all elements with a role attribute use a valid value',
-  help: 'ARIA roles used must conform to valid values',
-  helpUrl: 'https://dequeuniversity.com/rules/axe/4.1/aria-roles?application=axeAPI',
-  nodes: [
-    {
-      any: [],
-      all: [],
-      none: [Array],
-      impact: 'critical',
-      html: '<h1 role="nonsense">VA Pittsburgh health care</h1>',
-      target: [Array],
-      failureSummary: 'Fix all of the following:\n' +
-        '  Role must be one of the valid ARIA roles: nonsense'
-    }
-  ]
-}
+  ```javascript
+  6 Accessibility Violations Were Detected
 
-Node 1:
- {
-  any: [],
-  all: [],
-  none: [
-    CheckResult {
-      id: 'invalidrole',
-      data: [Array],
-      relatedNodes: [],
-      impact: 'critical',
-      message: 'Role must be one of the valid ARIA roles: nonsense'
-    }
-  ],
-  impact: 'critical',
-  html: '<h1 role="nonsense">VA Pittsburgh health care</h1>',
-  target: [ 'h1' ],
-  failureSummary: 'Fix all of the following:\n' +
-    '  Role must be one of the valid ARIA roles: nonsense'
-}
-```
+  Axe Violation 1:
+  {
+    id: 'aria-roles',
+    impact: 'critical',
+    tags: [ 'cat.aria', 'wcag2a', 'wcag412' ],
+    description: 'Ensures all elements with a role attribute use a valid value',
+    help: 'ARIA roles used must conform to valid values',
+    helpUrl: 'https://dequeuniversity.com/rules/axe/4.1/aria-roles?application=axeAPI',
+    nodes: [
+      {
+        any: [],
+        all: [],
+        none: [Array],
+        impact: 'critical',
+        html: '<h1 role="nonsense">VA Pittsburgh health care</h1>',
+        target: [Array],
+        failureSummary: 'Fix all of the following:\n' +
+          '  Role must be one of the valid ARIA roles: nonsense'
+      }
+    ]
+  }
+
+  Node 1:
+  {
+    any: [],
+    all: [],
+    none: [
+      CheckResult {
+        id: 'invalidrole',
+        data: [Array],
+        relatedNodes: [],
+        impact: 'critical',
+        message: 'Role must be one of the valid ARIA roles: nonsense'
+      }
+    ],
+    impact: 'critical',
+    html: '<h1 role="nonsense">VA Pittsburgh health care</h1>',
+    target: [ 'h1' ],
+    failureSummary: 'Fix all of the following:\n' +
+      '  Role must be one of the valid ARIA roles: nonsense'
+  }
+  ```
+</details>
 
 #### `axe-core` Smoke Tests
 A smoke test was created to ensure `axe-core` is picking up the expected violiations.
@@ -160,6 +164,9 @@ For convenience, the `HTML` that's generated from each `liquid` template is auto
 
 ## Sample Test
 Here is a sample test:
+
+<details>
+ <summary>Sample Liquid Template Unit Test</summary>
 
 ```js
 const layoutPath = 'src/site/layouts/landing_page.drupal.liquid';
@@ -183,6 +190,7 @@ describe('intro', () => {
   });
 });
 ```
+</details>
 
 ## Sample Spec Files
 Here are several example spec files:
