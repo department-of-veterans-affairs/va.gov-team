@@ -1,5 +1,20 @@
-# Search & Discovery Team Grooming
+# Search & Discovery Grooming
 
+<details><summary>About this meeting</summary>
+
+- Reoccurring meeting: BiWeekly - Thursdays 11AM EST
+- Meeting owner: Denise Coveyduc (PM-Search & Discovery)
+- Facilitator: Denise Coveyduc
+- Attendees: John Hashimoto (VAPO), Sam Suddath (FE Engineer), Megan Gayle (Designer/Researcher)
+- Standing agenda: 
+  - Issue Grooming
+    - Add/Remove Backlog Items
+    - Change priority of items  
+    - Clarify/Change Acceptance Criteria 
+  - Update status notes
+  - Discuss topics (as needed) to gain/improve clarity 
+
+</details>
 
 ## March 18, 2021
 
