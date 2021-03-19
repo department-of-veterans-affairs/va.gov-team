@@ -1,17 +1,18 @@
 # Future 10-10CG UI/UX for Submission Errors
+Please see issue [#21214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21214) for additional context.
 
-## Summary of Changes
+## Summary of changes
 We'll have three errors states that a user can experience when submitting an online 10-10CG:
 - [Review and Submit > Data-Error](#review-and-submit--data-error)
 - [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
 - [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
 
 
-The [Review and Submit > Data-Error](#review-and-submit--data-error) will appear if the data is invalid or incomplete whether or not this validation happens on the front- or back-end.
+The **Review and Submit > Data-Error** will appear if the data is invalid or incomplete whether or not this validation happens on the front- or back-end.
 
 We'll have two states for **Review and Submit > Generic Error**. One that informs the user that they cannot resubmit (**Review and Submit > Generic Error > Without Retry**) and one that provides the ability for the user to resubmit (**Review and Submit > Generic Error > With Retry**). The only time the **Review and Submit > Generic Error > Without Retry** will appear is when the user experiences a *503 Service Unavailable* back-end error. All other errors will result in the user seeing **Review and Submit > Generic Error > With Retry** state which will allow them to either reattempt the submission or downlaod a completed PDF to sign and mail in.
 
-### Summary of decisions
+### Justification of changes
 #### Review and Submit > Data-Error
 - If data is invalid or incomplete, we should provide the same user experience whether the validation occured on the front-end or backend.
 - The back-end can (and does) provide a list of errors for each invalid field which may help the user troubleshoot the error. Even though it's VA.gov's fault for the error occuring (because all data should be sent to the server as valid), directing the user to the erroneous field may help them circumvent the error.
@@ -28,15 +29,12 @@ We'll have two states for **Review and Submit > Generic Error**. One that inform
 - [Review and Submit > Data-Error](#review-and-submit--data-error)
   - The backend (if possible) should send error messages in a map where the property key is mapped to the error message (vs just a list of messages).
   - The front-end will need to handle the 422 error the same as a front-end data validation failure.
-  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do a pre-fill.
+  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do the pre-fill.
 
 - [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
-  - The message need to be dynamic based on whether resubmission is available
-  - The language of the error must accomidate all error conditions (since this is our new default)
-  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do a pre-fill.
-
-
-Please see issue [#21214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21214) for additional context.
+  - This message will now need to be dynamic: based on whether resubmission is available or not.
+  - The language of the error message must be generic to accomidate all error conditions (since this is our new default).
+  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do the pre-fill.
 
 ## UX
 ### Submission Errors
