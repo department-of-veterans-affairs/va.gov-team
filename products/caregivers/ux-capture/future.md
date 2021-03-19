@@ -1,29 +1,28 @@
 # Future 10-10CG UI/UX for Submission Errors
 
 ## Summary of Changes
-We'll have three errors stats that a user can experience when submitting an online 10-10CG:
+We'll have three errors states that a user can experience when submitting an online 10-10CG:
 - [Review and Submit > Data-Error](#review-and-submit--data-error)
 - [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
 - [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
 
 
-The [Review and Submit > Data-Error](#review-and-submit--data-error) will appear if the data is invalid or incomplete whether or not this validation happens on the front or back end.
+The [Review and Submit > Data-Error](#review-and-submit--data-error) will appear if the data is invalid or incomplete whether or not this validation happens on the front- or back-end.
 
-We'll have two states for [Review and Submit > Generic Error](#review-and-submit--generic-error). One that informs the user that they cannot resubmit ([Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--with-retry)) and and one that provides the ability for the user to resubmit ([Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--without-retry)). The only time the [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--without-retry) will appear is when the user experiences a 503 Service Unavailable. All other errors will result in the user seeing ([Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--with-retry)) state witch will allow them to either retry or downlaod the PDF to mail into the HEC.
+We'll have two states for **Review and Submit > Generic Error**. One that informs the user that they cannot resubmit (**Review and Submit > Generic Error > Without Retry**) and one that provides the ability for the user to resubmit (**Review and Submit > Generic Error > With Retry**). The only time the **Review and Submit > Generic Error > Without Retry** will appear is when the user experiences a *503 Service Unavailable* back-end error. All other errors will result in the user seeing **Review and Submit > Generic Error > With Retry** state which will allow them to either reattempt the submission or downlaod a completed PDF to sign and mail in.
 
 ### Summary of decisions
-- [Review and Submit > Data-Error](#review-and-submit--data-error)
-  - If data is invalid or incomplete, we should provide the same user experience whether the validation occured on the front-end or backend.
-  - The backend can (and does) provide a list of errors for each invalid field which may help the user troubleshoot the error. Even though it's VA.gov's fault for the error occuring (because all data should be sent to the server as valid), direct the user the the erroneous field may help them circumvent the error.
-  - Offering the user the ability to download the PDF durring this error will provide an opportunity for them to submit an application when encountering a bug that they cannot work around.
+#### Review and Submit > Data-Error
+- If data is invalid or incomplete, we should provide the same user experience whether the validation occured on the front-end or backend.
+- The back-end can (and does) provide a list of errors for each invalid field which may help the user troubleshoot the error. Even though it's VA.gov's fault for the error occuring (because all data should be sent to the server as valid), directing the user to the erroneous field may help them circumvent the error.
+- Offering the user the ability to download the PDF during this error will provide an opportunity for them to submit an application when encountering a bug that they cannot work around (vs the alternative of not being able to do anything...).
 
-- [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
-  - Preventing a user to resubmit when we know that it will not go through is still useful for the case that it's used.
+#### Review and Submit > Generic Error > Without Retry
+- Preventing a user to resubmit when we know that it will not go through is still useful for the case that it's described in this document.
 
-- [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
-  - This can be out catch all error that provides a user with a next step no matter what error is occuring
-  - This allows them to retry a submission. If it fails again they can download the pre-filled PDF to mail in.
-
+#### Review and Submit > Generic Error > With Retry
+- This can be our catch-all error that provides a user with a next step no matter what type of error is occuring
+- This allows them to retry a submission and if unsuccessful, they can download the pre-filled PDF to mail in; always providing a next step.
 
 ### Technical Changes
 - [Review and Submit > Data-Error](#review-and-submit--data-error)
