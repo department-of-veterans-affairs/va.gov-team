@@ -1,4 +1,4 @@
-# 1. Scale VA.gov using GQL not CMS Export
+# 1. Scale VA.gov content using GQL not CMS Export
 
 Date: 2021-02-18
 
