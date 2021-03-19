@@ -83,13 +83,13 @@ This table lists the errors that a user can encounter when submitting the online
 
 #### Review and Submit > Generic Error
 
-##### With Retry
+##### Review and Submit > Generic Error > With Retry
 - Next Steps
 - CTA
 - Message
 - Images
 
-#### Without Retry
+#### Review and Submit > Generic Error > Without Retry
 - Next Steps
 - CTA
 - Message
