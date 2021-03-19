@@ -23,13 +23,13 @@
 
 ## Friday Mar 19 10:30am ET
 
-* CMS help desk triage
+* CMS help desk triage - feedback on the last week.
+* Policies page cutover runbook - which team will create these pages and populate them, and when. 
+* The use of placeholder images for facilities and stories. (covered on March 18)
 * Problem statement: What is the best solution to create the Program & Research, top level pages for each systems, but not publish.
-*   - Place for PAO to place pages at a lower level after the menus and other pages are locked down.
-*   - If they don't have those areas now, how best do we create these areas? (Create and keep them disabled in Menu? Keep them in Draft?)
-* Dual state
-* Policies page cutover runbook
-* The use of placeholder images for facilities and stories.
+  * Place for PAO to place pages at a lower level after the menus and other pages are locked down.
+  * If they don't have those areas now, how best do we create these areas? (Create and keep them disabled in Menu? Keep them in Draft?)
+* Dual state schedule for next week. 
 
 ## Friday Mar 12 10:30am ET
 
