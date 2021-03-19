@@ -24,8 +24,6 @@ Show the **health care block** if..:
 
 Show the **disability block** if…:
 
-*Changed as of 2.4.21*
-
 - Always show this block in this section. We may iterate on this and change the approach in the future.
 
 Show the **education block** _unless_:
