@@ -27,7 +27,7 @@
 
 </details>
 
-## Wednesday, March 17, 2021
+## Wednesday, March 19, 2021
 ### Discussion Topics/Grooming 
  - [ ] CLP Staging "This is a test" Banner idea [#21665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21665)
  - [ ] CLP ["Action Link"](https://design.va.gov/components/action-links) potential incorporation into MVP 1.0?  Discussion / Impact?
