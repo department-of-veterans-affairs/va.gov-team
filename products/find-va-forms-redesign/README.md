@@ -15,6 +15,8 @@ This is the folder for all background, historical, discovery, and status documen
     - [KPIs](#kpis)
     - [Go-To-Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
+    - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
+    - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
     - [Transforming Search Terms Iteration 1](#transforming-search-terms-iteration-1)
     - [Sort By Date](#sort-by-date)
     - [Post-MVP](#post-mvp)
@@ -136,8 +138,14 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
+### Transforming Search Terms Iteration 2
+- Go-live: TBD
+
+### Use Administration Field for Related To Info
+- Go-live: TBD #21366
+
 ### Transforming Search Terms Iteration 1
-- Go-live: Mar 17, 2021
+- Go-live: Mar 17, 2021 #20651
 
 ### Sort By Date
 - Go-live: Feb 11, 2021 #19507
