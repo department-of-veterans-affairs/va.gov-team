@@ -158,9 +158,11 @@ Accessibility violations are logged to the console and look like this:
 </details>
 
 #### `axe-core` Smoke Tests
-A smoke test was created to ensure `axe-core` is picking up the expected violiations.
+A smoke test was created to ensure `axe-core` is picking up the expected violiations. This tests acts as a circuit breaker for potential silent failures.
 
-The liquid template for the smoke test is located at `src/site/layouts/liquid_template_axe_check_smoke_test.drupal.liquid`. The spec file and fixture is in the `src/site/layouts/tests/liquid_template_axe_check_smoke_test` directory.
+The liquid template for the smoke test is located at `src/site/layouts/liquid_template_axe_check_smoke_test.drupal.liquid`. `axe-core` currently reports 6 violations on this page.
+
+The spec file and fixture is in the `src/site/layouts/tests/liquid_template_axe_check_smoke_test` directory.
 
 ## Rendered `HTML` Is Saved to Disk
 For convenience, the `HTML` that's generated from each `liquid` template is automatically saved to `src/site/tests/html` when tests are executed so the `HTML` can be inspected when writing tests. These files are gitignored.
