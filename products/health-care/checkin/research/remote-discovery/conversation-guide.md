@@ -1,4 +1,4 @@
-# Conversation Guide: Check-In (Veteran-Facing) Remote Discovery Research
+# DRAFT Conversation Guide: Check-In (Veteran-Facing) Remote Discovery Research
 
 ## Moderator Logistics
 - Use #feedback-backchannel in Slack for real-time feedback from observers.
