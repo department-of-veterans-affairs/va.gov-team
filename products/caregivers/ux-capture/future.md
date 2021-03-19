@@ -47,8 +47,8 @@ This table lists the errors that a user can encounter when submitting the online
 |API|200|Success|The submission was processed successfuly.|[Successful Submission](#successful-submission)|
 |API|400|Bad Request|The front-end made an invalid request to the back-end.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 |API|401|Unauthorized|The user is not authenticated (or has an invalid csrf cookie).|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
-|API|403|Forbidden|The user is not authorized to make this request.|[Review and Submit > Data-Error](#review-and-submit--data-error)|
-|API|422|Unprocessable Entity|The data provided by the front-end is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|(TBD)|
+|API|403|Forbidden|The user is not authorized to make this request.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
+|API|422|Unprocessable Entity|The data provided by the front-end is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|[Review and Submit > Data-Error](#review-and-submit--data-error)|
 |API|500|Internal Server Error|Something (on the back-end) went wrong processing this request.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 |API|503|Service Unavailable|The a dependent external service, or the back-end itself, is not available to process requests.|[Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)|
 |API|504|Gateway Timeout|The back-end, when acting as a proxy, did not receive a response from the target service.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
