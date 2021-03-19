@@ -123,12 +123,13 @@ OR
 OR
 
 ### Method 4 To create a new user in a tugboat environment from the command line
-1. Go to the environment’s main page by clicking the environment name on the list of environments
-2. You will see a table titled ‘Services’
-3. In the line starting with ‘php’, click the ‘Terminal’ link
-4. A command line terminal will pop up
-5. Paste the following command (Make sure to update the email address in both places) and press return:
- drush user:create me@va.gov --mail="me@va.gov" --password="drupal8"
+1. Go to https://tugboat.vfs.va.gov/5ffe2f4dfa1ca136135134f6
+2. Find the Editor Training Environment and click the title
+3. You will see a table titled ‘Services’
+4. In the line starting with ‘php’, click the ‘Terminal’ link
+5. A command line terminal will pop up
+6. Paste the following command (Make sure to update the email address) and press return:
+ drush user:password name@va.gov "drupal8"
 6. You should see a message like the following:
   [success] Created a new user with uid 1803
 
