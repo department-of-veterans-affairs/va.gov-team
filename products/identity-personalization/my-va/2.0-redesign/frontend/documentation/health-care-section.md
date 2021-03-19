@@ -26,29 +26,26 @@
 
 **Show**
 
-- Someone is enrolled in VA health care, even if they have no messages. We will never **not** show messaging block within the health care section.
+- Always show the messaging link.
 
 ### States
   
-**State 1: Multiple new messages**  
+**State 1: User has unread messages**  
 
-*Messages and Prescriptions data specs*
+*Messages data specs*
 
 - We have all of this data already showing on the existing My VA dashboard. It all comes through MyHealtheVet, but I don't know that we have a team to work with if we have questions about what data we have now or how this is currently set up. Please let us know ASAP if you have any concerns about the way we are handling data or how it's displayed.
 
 *UX specs*
 
-- This section only shows NEW/unread messages.
-- **Latest message** shows the most recent unread messages someone has.
-- “You have **[X] new messages**.” shows the total number of new/unread messages.
-- **View all messages** links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
+- This link only shows NEW/unread messages.
+- “You have **[X] unread messages**.” shows the total number of new/unread messages. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
   - **Note**: This is the staging link. We need to confirm the link for production.
 
 *Visual specs*
 
-- The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability ove the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- The blue hairline **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- As mentioned on the claim status specs, "You have **[X] new messages.**" is a new element. Please work with **Tressa and Cassanda** for specs.
+- The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability over the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
+- The link style **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
 
 *Copy specs*
 
@@ -56,13 +53,9 @@
 
 ![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
 
-**State 2: One new message**  
+**State 2: No new message**  
 
-Everything is the same as the state with multiple messages, with the exception of the # of messages (ie. “You have 1 new message.”)
-
-![One new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20new%20messages.jpg)
-
-**State 3: No new message**  
+TBD, waiting on design for this
 
 ![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
 
@@ -81,7 +74,7 @@ Everything is the same as the state with multiple messages, with the exception o
 
 ### States
   
-**State 1: Multiple upcoming appointments**  
+**State 1: User has an upcoming appointment**  
 
 *Appointments data specs*
 
@@ -90,8 +83,7 @@ Everything is the same as the state with multiple messages, with the exception o
 *UX specs*
 
 - **Next appointment** should show the next upcoming appointment based on chronological date and time.
-- “You have **[X] upcoming appointments.” should show the total number of upcoming appointments that are scheduled in the VAOS tool.
-- **View all appointments** links into [the VAOS tool](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/).
+- **Schedule and view your appointments** links into [the VAOS tool](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/).
 
 Facility/location types (these should all be pulled in dynamically from the VAOS tool):
 
@@ -103,8 +95,6 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 *Visual specs*
 
 - The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability ove the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- The blue hairline **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- As mentioned on the claim status specs, "You have **[X] upcoming appointments.**" is a new element. Please work with **Tressa and Cassanda** for specs.
 
 ![Multiple upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20upcoming%20appointments.jpg)
 
@@ -112,13 +102,7 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 - **All final copy is TBD**
 
-**State 2: One upcoming appointment**  
-
-Everything is the same as the state with multiple upcoming appointments, with the exception of the # of appointments (ie. “You have 1 upcoming appointment.”)
-
-![One upcoming appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20upcoming%20appointment.jpg)
-
-**State 3: No upcoming appointments**  
+**State 2: No upcoming appointments**  
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
