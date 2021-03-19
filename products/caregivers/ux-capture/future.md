@@ -12,7 +12,7 @@ The **Review and Submit > Data-Error** will appear if the data is invalid or inc
 
 We'll have two states for **Review and Submit > Generic Error**. One that informs the user that they cannot resubmit (**Review and Submit > Generic Error > Without Retry**) and one that provides the ability for the user to resubmit (**Review and Submit > Generic Error > With Retry**). The only time the **Review and Submit > Generic Error > Without Retry** will appear is when the user experiences a *503 Service Unavailable* back-end error. All other errors will result in the user seeing **Review and Submit > Generic Error > With Retry** state which will allow them to either reattempt the submission or downlaod a completed PDF to sign and mail in.
 
-### Justification of changes
+### Justification
 #### Review and Submit > Data-Error
 - If data is invalid or incomplete, we should provide the same user experience whether the validation occured on the front-end or backend.
 - The back-end can (and does) provide a list of errors for each invalid field which may help the user troubleshoot the error. Even though it's VA.gov's fault for the error occuring (because all data should be sent to the server as valid), directing the user to the erroneous field may help them circumvent the error.
