@@ -1,11 +1,16 @@
 ## Pittsburgh Health Care general benchmarks
 
+Pittsburgh VAMC has a 13 county service area. 
+- In 2018 they served 78,652 Veterans. 
+- In 2019 they served 79,934 Veterans. 
+
+
 Benchmark	|	December 2020	|	January 2021	|	February 2021	|
 ----	|	----	|	----	|	----|
 VA.gov users	|	6,613,928	|	5,384,157	|	5,219,724	|
 VA.gov new users	|	5,298,188	|	3,907,611	|	3,724,851	|
 VA.gov pageviews	|	44,698,410	|	49,428,558	|	46,004,311	|
-VA.gov sessions	|	11,625,675	|	10,832,375	|	10,212,834	|Pittsburgh health care users (compared to 79,934 Veterans served in 2019)	|	10,566	|	22,009	|	20,064	|
+VA.gov sessions	|	11,625,675	|	10,832,375	|	10,212,834	| Pittsburgh health care users (compared to 79,934 Veterans served in 2019)	|	10,566	|	22,009	|	20,064	|
 Pittsburgh health care new users	|	6,639	|	15,674	|	13,652	|
 Average pages/session	|	2.06	|	1.93	|	2.35	|
 Average session length	|		|		|	2:45	|
