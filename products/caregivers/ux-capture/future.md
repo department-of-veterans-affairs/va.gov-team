@@ -10,7 +10,7 @@ We'll have three errors states that a user can experience when submitting an onl
 
 The **Review and Submit > Data-Error** will appear if the data is invalid or incomplete whether or not this validation happens on the front- or back-end.
 
-We'll have two states for **Review and Submit > Generic Error**. One that informs the user that they cannot resubmit (**Review and Submit > Generic Error > Without Retry**) and one that provides the ability for the user to resubmit (**Review and Submit > Generic Error > With Retry**). The only time the **Review and Submit > Generic Error > Without Retry** will appear is when the user experiences a *503 Service Unavailable* back-end error. All other errors will result in the user seeing **Review and Submit > Generic Error > With Retry** state which will allow them to either reattempt the submission or downlaod a completed PDF to sign and mail in.
+We'll have two states for **Review and Submit > Generic Error**. One that informs the user that they cannot resubmit (**Without Retry**) and one that provides the ability for the user to resubmit (**With Retry**). The only time the **Review and Submit > Generic Error > Without Retry** will appear is when the user experiences a *503 Service Unavailable* back-end error. All other errors will result in the user seeing **Review and Submit > Generic Error > With Retry** state which will allow them to either reattempt the submission or downlaod a completed PDF to sign and mail in.
 
 ### Justification
 #### Review and Submit > Data-Error
