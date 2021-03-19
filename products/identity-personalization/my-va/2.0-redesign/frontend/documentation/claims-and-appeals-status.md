@@ -1,7 +1,5 @@
 # Claims and appeals specs 
 
-![Claims and appeals examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status%20example.jpg)
-
 ## InVision Mockups
 
 - [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens)
