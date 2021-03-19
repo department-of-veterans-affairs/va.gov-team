@@ -4,8 +4,8 @@
 
 ## InVision Mockups
 
-- [Desktop](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/screens/443777220)
-- [Mobile](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/443913926_My_VA_Mobile_Icons)
+- [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens)
+- [Mobile](https://vsateams.invisionapp.com/share/GC10HT8RSMQN#/screens)
 
 ## When to show the claims and appeals section
 
