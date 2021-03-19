@@ -333,6 +333,8 @@ That's all the questions I have about the form! I just have a few followup quest
 
 That's all the questions I have for you! Do you have any questions for me?
 
+Okay, I'm going to take a quick look to see if the observers in this session have any followup questions before I wrap up.
+
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 To thank you for your participation, we'd like to offer you a gift.
