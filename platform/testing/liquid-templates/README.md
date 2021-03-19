@@ -29,7 +29,10 @@ Here's an illustration of this folder structure:
   /tests
     /example_page
       /fixtures
+        example_fixture_1.json
+        example_fixture_2.json
       example_page.unit.spec.js
+  example_page.drupal.liquid
 ```
 
 Use the same pattern for templates under test in other directories like `includes`, `navigation`, etc.
