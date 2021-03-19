@@ -238,8 +238,9 @@ If unblocked by VA Profile:
 
 - My VA content updates #21652
 - Appointments need better Cypress coverage #21255
-- Updates from usability testing
-- Implement error messages
+- **Sandra and Erik will create tickets for the following and have them to us no later than Monday afternoon**
+  - Updates from usability testing
+  - Implement error messages
 
 ### Direct deposit for edu
 
