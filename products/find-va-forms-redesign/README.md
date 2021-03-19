@@ -15,6 +15,8 @@ This is the folder for all background, historical, discovery, and status documen
     - [KPIs](#kpis)
     - [Go-To-Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
+    - [Transforming Search Terms Iteration 1](#transforming-search-terms-iteration-1)
+    - [Sort By Date](#sort-by-date)
     - [Post-MVP](#post-mvp)
     - [MVP](#mvp)
 - [Architecture](#launch-dates)
@@ -134,7 +136,14 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
-### Post-MVP
+### Transforming Search Terms Iteration 1
+- Go-live: Mar 17, 2021
+
+### Sort By Date
+- Go-live: Feb 11, 2021 #19507
+
+### Post-MVP 
+This iteration connected the search page to the form details pages
 - *What is your target launch date of your MVP/iteration?*
   - Jan 12, 2021 (Add CTA links from Find a VA Form landing page to form detail pages and online tools)
 - *What is your actual launch date of your MVP/iteration?*
