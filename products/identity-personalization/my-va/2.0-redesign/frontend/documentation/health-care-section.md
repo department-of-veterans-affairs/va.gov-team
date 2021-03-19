@@ -108,9 +108,22 @@ If we're having trouble connecting to the messaging endpoint, we will just show 
 We are not showing customized prescription data at this time. If someone has health care, we will always show a **Refill and track your prescriptions** link that goes to [the prescription tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions).
   - **Note**: This is the staging link. We need to confirm the link for production.
 
-## Links
+## Additional Links
 
 - [Get your lab and test results](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
 - [Get your VA medical records](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
 
 ![Related links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_related%20links.jpg)
+
+## Alerts/Errors
+
+**Cerner alert**
+
+If we detect someone manages appointments, messages, or prescriptions at a Cerner facility, they will see the following alert instead of the health care section.
+
+![Health care section_Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_Cerner%20alert.jpg)
+
+**If we can't detect whether someone has health care because the endpoint is down**
+
+TBD — waiting on design.
+
