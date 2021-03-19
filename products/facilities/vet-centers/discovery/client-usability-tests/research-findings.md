@@ -26,8 +26,9 @@ Prior to the study, we hypothesized that:
 
 ## Research Methodology 
 
-Combined directed interviewing and usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin. 
-[Link to prototype](https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449) created in UXPin.
+Combined directed interviewing and usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin.
+
+[Link to prototype](https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449)
 
 ### Who we talked to
 
@@ -71,7 +72,7 @@ Finally, participants were asked to describe the Orlando Vet Center in their own
 ## Findings
 
 ### Findings by hypothesis
-* Veterans will understand the types of services offered/not offered. 
+#### Veterans will understand the types of services offered/not offered. 
   - **False. Most participants still confused Vet Centers with medical facilities.**
 
 Even with content revisions aimed at clarifying a Vet Center's main purpose and service offerings, 6 participants still confused Vet Centers with medical facilities. Veterans understood that Mental health care and Veteran's benefits were the two main categories of services offered by this facility but by the end of the sessions, many Veterans still believed that they could use this facility for primary care. 
