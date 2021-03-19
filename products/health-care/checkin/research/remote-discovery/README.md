@@ -3,7 +3,7 @@
 ## Quick links
 
 - [Research plan]()
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/conversation-guide.md)
 - [Session notes]()
 - [Research report]()
 - [Participants](#participants)
