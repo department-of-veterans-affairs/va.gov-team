@@ -33,14 +33,14 @@
  - [ ] CLP ["Action Link"](https://design.va.gov/components/action-links) potential incorporation into MVP 1.0?  Discussion / Impact?
  - [ ] CLP Confirm "Video Transcripts" is MVP 1.1 intergration.  @ryan added a design element to ticket, would like to review with CMS as this is CMS dependent.
  - [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529) 
- - [ ] VA.gov Notification - IE Retires in August 2021 [#21713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21713)
+ - [X] VA.gov Notification - IE Retires in August 2021 [#21713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21713)
  - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? 
  - [ ] write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
  - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608) 
 - [ ] 508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them [#21017](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21017)
 - [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of [#21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020) 
 - [ ] Update article rating component design (learning center) [#15314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15314)
-- [ ] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641) 
+- [X] Talk to Public Websites about better BDD landing page PLACEHOLDER [#18641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18641) 
 - [ ] Add unit test to Cener Facility ID [Vets-website] How do we get this? [#21235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21235)
 - [ ] 1x Test account on a non-production env for Cerner Facilities [#21238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21238) 
 - [ ] MVP learning center: videos template for desktop and mobile [#11497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11497) 
