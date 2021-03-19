@@ -321,17 +321,63 @@ This service was easily found by all participants who’ve already engaged in Me
 #### Locations
 12. When comparing which Vet Center may be closer, Veterans have a hard time comparing between multiple maps or may not know the streets.
 
+   - a) Consider adding map plotted with all area locations.
+   - b) Add email addresses to all locations.
+
+#### Overall Usability
+
+13. Add a way for users to traverse the length of pages more easily, such as a ‘back to top’ link.
+14. Break up large bodies of copy to be more scannable, especially key words are likely to get lost. Use ‘Follow web standard’ suggestions from plainlanguage.gov
+
+   - a) “The inverted pyramid style: Begin with the shortest and clearest statement you can make about your topic. Put the most important information at the top and the background at the bottom.”
+   - b) Write for scanning: “Don’t try to pack everything into long paragraphs. Split topics up into logical sections separated by informative headings.” Incorporate more use of bullets, use shorter phrases instead of full sentences and paragraphs.
+
+15. Use more verbs that relate to what Veterans are wondering about and trying to accomplish vs nouns that reflect business speak or clinical terminology.
+
+#### Long-term
+
+16. Continue to push the design system to add new design patterns that help to improve overall page scannability and navigability. Today, Veterans have a hard time “taking a page in” and complain about having to wade through too much information, too many destinations, and resort to giving up and calling instead. At a quick glance, Veterans can’t easily determine what one facility type offers over another or if they should quickly move on. This will continue to create obstacles in connecting Veterans with services and information. Ideas to explore:
+
+   - a) Collapse entire content sections so that entire page are shorter and can be understood quickly.
+   - b) Break up content into multiple pages and evolve navigation patterns to allow Veterans to quickly traverse through information more easily on any device.
+   - c) Evolve writing standards and patterns to require more scannability and shorter explanations.
+   - d) Design and incorporate new patterns to make distinctions between facility types more obvious.
+
 
 ## Next Steps
 
-* Text
+(#s below correspond to the recommendation #s above)
+
+#### This sprint
+ - Discuss findings, recommendations, MVP next steps with product team and stakeholders
+ - Implement design Recommendations in UXPin prototype
+   - #6, #13 
+
+#### Upcoming sprint
+- Collaborate with Vet Centers on recommendations/next steps
+   - #4, #5, #6a, #8c, #9c, #11, #12b
+
+#### Future sprints
+- Work with copywriter for Vet Center website copy and services taxonomy 
+   - #1, #2, #3, #8c, #9c, #14, #14a, #14b, #15   
+
+- Run a study testing revised services taxonomy
+   - #5, #8, #8a, #8bii #9a, #9b, #10a, #11
+
+- Not for MVP: data from pilot sites to inform future improvement
+   - #8b, #8bi
+
 
 ## Appendix
 
-#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-usability-tests/research-plan.md)
+#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/client-usability-tests/research-plan.md)
 
-#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-usability-tests/conversation-guide.md)
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/client-usability-tests/conversation-guide.md)
 
-#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests/notes)
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests/session-notes)
 
-#### [Synthesis qualitative spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EVg4bPeeecJOvju0ksMeDyABggvuZKbPM-9PGCrXz30zFg?e=8b5qgs)
+#### [Quantitative Synthesis Spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/Ea53iF-R2WlMm6WrDdLqirsB1d9SM1IBh0VelwV--KDbGw?e=uhd0Ac)
+
+#### [Qualitative synthesis mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1608739682008/14ce12078ce9518cc88314d5953c8b8c1434773b?wid=0-1613046472509&outline=open)
+
+#### [Mobile prototype tested](https://preview.uxpin.com/1f805ba5adb8ee2152f94a19944cefcb2ddda9cd#/pages/136897449?mode=cvhidm)
