@@ -21,7 +21,7 @@
 
 ## States
   
-**State 1: Multiple claims in progress**  
+**State 1: At least 1 claim update in the last 30 days**  
 
 *Data specs*
 
@@ -31,15 +31,13 @@
 
 - The claim block should show the most recently updated claim or appeal, within the last 30 days.
 - Even if multiple claims have been updated in the last 30 days, we will only highlight the most recent one.
-- **View details** button links directly into the claim or appeal.
-- “You have **[X] claims or appeals in progress**.” should show the total number of open claims and appeals in the claim status tool.
-- **View to all claims and appeals** goes to the [claims and appeals tool](https://www.va.gov/track-claims/your-claims).
+- **View details** links directly into the claim or appeal.
+- **Manage all  your claims and appeals** goes to the [claims and appeals tool](https://www.va.gov/track-claims/your-claims).
 - Claim Statuses — These are all pulled dynamically from existing claims/appeals statuses.
 
 *Visual specs*
 
-- The claim block shown here is an existing element, so it should pull in data accordingly. If you have specific questions, please work with **Tressa and Cassandra** to get answers.
-- The "You have **[X] claims and appeals in progress**" callout is a new element. Please work with **Tressa and Cassandra** for specifics.
+- The claim block shown here is an existing element, so it should pull in data accordingly. If you have specific questions, please work with **Tressa** to get answers.
 
 *Copy specs*
 
@@ -47,13 +45,7 @@
 
 ![Multiple claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_multiple%20claims.jpg)
 
-**State 2: One claim in progress**
-
-Everything is the same as the state with multiple claims in progress, with the exception of the # of claims (ie. “1 total claim or appeal in progress”).
-
-![One claim in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_one%20claims.jpg)
-
-**State 3: A user who has open claims or appeal in progress, but there have been no updates in more than 30 days**
+**State 2: A user who has open claims or appeal in progress, but there have been no updates in more than 30 days**
 
 ![No claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_no%20claims.jpg)
 
