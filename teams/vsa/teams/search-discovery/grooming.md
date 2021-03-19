@@ -18,7 +18,15 @@
 
 
  ***INITIATIVE STATUS***
- - *After Grooming PM will add a snapshot of our current initiative status*
+| Initiative            | S43 (3/10-3/23)                                                                                    | Next Steps                                                                                                                                        |
+|-----------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Acronym Clarity       | On Hold                                                                                            | Review 2020 Search terms to determine how frequent users are searching for acronyms > Conduct further research (talk to Cindy) > Dev Explorations |
+| Typeahead POC 2       | Define strategy & create list of terms to suggestion database. Begin Validating terms with results | Review list with content team > Send list to search.gov> test implementation once added and reset analytics clock                                 |
+| Results Page Redesign | Design Exploration                                                                                 | Team Review + Discussion > Design iteration (if needed) >Collab Cycle Kickoff > Development to implement                                          |
+| XML Sitemap           | Knowledge transfer from PW (3/18 meeting) re: #20170                                               | Review XML Sitemap Tickets that exist in GH Today > Begin SEO Audit                                                                               |
+| Click Tracking        | (Stretch) Explore Best Bet Implementation                                                          | Exploration will define next steps and what needs to happen                                                                                       |
+| Typeahead 1.0         | On Hold - awaiting POC2 completion                                                                 | Awaiting POC2 Final Review > Launch to 100% users> Notify stakeholders                                                                            |
+
  
 ## March 3, 2021
 ***DISCUSSION TOPICS:*** 
