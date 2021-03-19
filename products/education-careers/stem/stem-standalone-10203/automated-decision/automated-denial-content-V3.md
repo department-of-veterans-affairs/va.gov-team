@@ -115,10 +115,6 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
  
  If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
  
-### What should I do if I disagree with your decision? { H3 }
- 
- If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
- 
   - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995.  { pdf opens in a new tab; aria label = Download Decision Review Request for Supplemental Claims VA Form 20 - 0 9 9 5. Opens in new browser tab } [Download VA Form 20-0995](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf).
      
   - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996.  { pdf opens in a new tab; aria label: Download Decision Review Request: Higher-Level Review VA Form 20 - 0 9 9 6. Opens in new browser tab }[Download VA Form 20-0996](https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf).
