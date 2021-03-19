@@ -46,6 +46,7 @@
 - [ ] MVP learning center: videos template for desktop and mobile [#11497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11497) 
 - [ ] Bug: Outreach hub events with broken social media links [#21517](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21517) 
 - [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support). 
 
 
 ### Discovery Topics
