@@ -222,18 +222,18 @@ One Veteran described bereavement as the mourning he’s going through after the
 
 #### 9. Participants navigated between pages easily.
 
-(10)  Found "Other locations" easily 
-	(1) Did not think there were other locations
-(11)  Successfully navigated back to Orlando Vet Center main from "Other locations"
-	(6) via linked Vet Center name 
-	(3) via phone back button
-	(2) via breadcrumb 
-(9) Successfully navigated to VA.gov.
-	(6) via breadcrumb [<VA.gov home]
-	(1) via global search 
-	(1) via footer logo 
-	(1) footer links
-	(2) were undetermined
+- (10) Found "Other locations" easily 
+	- (1) Did not think there were other locations
+- (11) Successfully navigated back to Orlando Vet Center main from "Other locations"
+	- (6) via linked Vet Center name 
+	- (3) via phone back button
+	- (2) via breadcrumb 
+- (9) Successfully navigated to VA.gov.
+       - (6) via breadcrumb [<VA.gov home]
+       - (1) via global search 
+       - (1) via footer logo 
+	- (1) footer links
+	- (2) were undetermined
 
 #### 10. Participants felt the prototype was well organized but mentioned page length and scrolling.
 
