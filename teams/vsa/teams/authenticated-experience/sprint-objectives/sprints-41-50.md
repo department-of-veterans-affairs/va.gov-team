@@ -231,6 +231,7 @@ If unblocked by VA Profile:
 - Error message documentation #21373
 - Claims error message #21370
 - Claims spinner handling #21372
+- Tress to update [copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md) with final copy
 - Talk to Tressa to see what other design work is still outstanding
 
 **FE**
