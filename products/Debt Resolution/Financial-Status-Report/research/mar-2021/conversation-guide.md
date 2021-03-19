@@ -314,6 +314,7 @@ Go ahead and complete this section to the best of your ability as if you were su
 * Let's say you forgot to add an additional asset? For the purposes of our chat today I won't have you edit anything, but talk me through what you would do.   
 * What would you expect to happen after you submit the form?
 * What would you do after submitting the form?
+* Say it's been a couple weeks since you submitted this form and something big happens with your finances. What would you expect to be able to do?
 
 **Things to watch out for**
 
