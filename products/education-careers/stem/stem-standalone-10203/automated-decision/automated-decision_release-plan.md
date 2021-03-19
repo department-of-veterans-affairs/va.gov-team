@@ -51,10 +51,10 @@ Moderated testing will occur with Veterans and other eligible beneficiaries.
 
 #### Results:
 - Number of unique users:  XX applicants were routed to the new application (we were seeing low numbers so we switch up our approach in phase B)
-- Metrics at this stage (per your "success criteria"): 14 applications were successfully submitted using the new form
-- Was the data submitted (if any) easy for VA to process?: Yes
-- Types of errors logged: None
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? None
+- Metrics at this stage (per your "success criteria"):
+- Was the data submitted (if any) easy for VA to process?:
+- Types of errors logged: 
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ### Stage B: moderate
 We anticipate moving from 50% to 100%, skipping a stage b. 
