@@ -1,5 +1,42 @@
 # Future 10-10CG UI/UX for Submission Errors
 
+## Summary of Changes
+We'll have three errors stats that a user can experience when submitting an online 10-10CG:
+- [Review and Submit > Data-Error](#review-and-submit--data-error)
+- [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
+- [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
+
+
+The [Review and Submit > Data-Error](#review-and-submit--data-error) will appear if the data is invalid or incomplete whether or not this validation happens on the front or back end.
+
+We'll have two states for [Review and Submit > Generic Error](#review-and-submit--generic-error). One that informs the user that they cannot resubmit ([Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--with-retry)) and and one that provides the ability for the user to resubmit ([Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--without-retry)). The only time the [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--without-retry) will appear is when the user experiences a 503 Service Unavailable. All other errors will result in the user seeing ([Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--with-retry)) state witch will allow them to either retry or downlaod the PDF to mail into the HEC.
+
+### Summary of decisions
+- [Review and Submit > Data-Error](#review-and-submit--data-error)
+  - If data is invalid or incomplete, we should provide the same user experience whether the validation occured on the front-end or backend.
+  - The backend can (and does) provide a list of errors for each invalid field which may help the user troubleshoot the error. Even though it's VA.gov's fault for the error occuring (because all data should be sent to the server as valid), direct the user the the erroneous field may help them circumvent the error.
+  - Offering the user the ability to download the PDF durring this error will provide an opportunity for them to submit an application when encountering a bug that they cannot work around.
+
+- [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
+  - Preventing a user to resubmit when we know that it will not go through is still useful for the case that it's used.
+
+- [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
+  - This can be out catch all error that provides a user with a next step no matter what error is occuring
+  - This allows them to retry a submission. If it fails again they can download the pre-filled PDF to mail in.
+
+
+### Technical Changes
+- [Review and Submit > Data-Error](#review-and-submit--data-error)
+  - The backend (if possible) should send error messages in a map where the property key is mapped to the error message (vs just a list of messages).
+  - The front-end will need to handle the 422 error the same as a front-end data validation failure.
+  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do a pre-fill.
+
+- [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)
+  - The message need to be dynamic based on whether resubmission is available
+  - The language of the error must accomidate all error conditions (since this is our new default)
+  - The PDF download data validation must be made less strict, ignoring missing or invalid fields and making a best effort attempt to do a pre-fill.
+
+
 Please see issue [#21214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21214) for additional context.
 
 ## UX
@@ -17,7 +54,7 @@ This table lists the errors that a user can encounter when submitting the online
 |API|422|Unprocessable Entity|The data provided by the front-end is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|(TBD)|
 |API|500|Internal Server Error|Something (on the back-end) went wrong processing this request.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 |API|503|Service Unavailable|The a dependent external service, or the back-end itself, is not available to process requests.|[Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)|
-|API|504|Gateway Timeout|The back-end, when acting as a proxy, did not receive a response from the target service.|[Review and Submit > Generic Error > No Retry](#review-and-submit--generic-error--no-retry)|
+|API|504|Gateway Timeout|The back-end, when acting as a proxy, did not receive a response from the target service.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 
 ## UI
 
