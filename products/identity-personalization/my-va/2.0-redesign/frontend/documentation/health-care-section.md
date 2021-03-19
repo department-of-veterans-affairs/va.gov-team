@@ -17,48 +17,9 @@
 
 - Someone is NOT enrolled in VA health care.
 
-## Latest message 
-
-### When to show the messages section
-
-**Show**
-
-- Always show the messaging link.
-
-### States
-  
-**State 1: User has unread messages**  
-
-*Messages data specs*
-
-- We have all of this data already showing on the existing My VA dashboard. It all comes through MyHealtheVet, but I don't know that we have a team to work with if we have questions about what data we have now or how this is currently set up. Please let us know ASAP if you have any concerns about the way we are handling data or how it's displayed.
-
-*UX specs*
-
-- This link only shows NEW/unread messages.
-- “You have **[X] unread messages**.” shows the total number of new/unread messages. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
-  - **Note**: This is the staging link. We need to confirm the link for production.
-
-*Visual specs*
-
-- The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability over the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-- The link style **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
-
-*Copy specs*
-
-- **All final copy is TBD**
-
-![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
-
-**State 2: No new message**  
-
-TBD, waiting on design for this
-
-![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
-
 ## Next Appointment
 
-### When to show the appointments section
+### When to show the Next appointments block
 
 **Show**
 
@@ -97,6 +58,46 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 **State 2: No upcoming appointments**  
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
+
+
+## Messages
+
+### When to show the messages link
+
+**Show**
+
+- Always show the messaging link.
+
+### States
+  
+**State 1: User has unread messages**  
+
+*Messages data specs*
+
+- We have all of this data already showing on the existing My VA dashboard. It all comes through MyHealtheVet, but I don't know that we have a team to work with if we have questions about what data we have now or how this is currently set up. Please let us know ASAP if you have any concerns about the way we are handling data or how it's displayed.
+
+*UX specs*
+
+- This link only shows NEW/unread messages.
+- “You have **[X] unread messages**.” shows the total number of new/unread messages. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
+  - **Note**: This is the staging link. We need to confirm the link for production.
+
+*Visual specs*
+
+- The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability over the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
+- The link style **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
+
+*Copy specs*
+
+- **All final copy is TBD**
+
+![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
+
+**State 2: No new message**  
+
+TBD, waiting on design for this
+
+![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
 
 ## Prescriptions
 
