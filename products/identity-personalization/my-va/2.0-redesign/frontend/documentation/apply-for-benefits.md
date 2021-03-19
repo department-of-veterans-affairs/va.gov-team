@@ -80,3 +80,11 @@ Much of this is the same as the specs in the health care section:
 We'll show a message that someone does not currently have any benefit applications in progress.
 
 ![Apply for benefits_No apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20apps%20in%20progress.jpg)
+
+**Error state: If we can't detect someone has health care or edu benefits because endpoints are down.**
+
+Discussion happened in [issue #21445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21445).
+
+- If we can not detect whether someone has health care or not, show the health care prompt under "benefits you might be interested in."
+- If we can not detect whether someone has education benefits or not, show the education prompt under "benefits you might be interested in."
+- We always show the disability prompt, so we don't need a degradation path here.
