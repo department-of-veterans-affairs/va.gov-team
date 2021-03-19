@@ -129,7 +129,7 @@ OR
 4. In the line starting with ‘php’, click the ‘Terminal’ link
 5. A command line terminal will pop up
 6. Paste the following command (Make sure to update the email address) and press return:
- drush user:password name@va.gov "drupal8"
+drush user:create Terri.Rorke@va.gov --mail="Terri.Rorke@va.gov" --password="drupal8"
 6. You should see a message like the following:
   [success] Created a new user with uid 1803
 
