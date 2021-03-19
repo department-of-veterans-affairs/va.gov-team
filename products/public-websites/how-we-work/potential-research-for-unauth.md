@@ -24,7 +24,8 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - Do Veterans use the browsing interface (below the search box)? Check analytics data
 - What is the coverage of the browsing interface vs. the browsing topics on VA.gov?
 - Get feedback on usability--findability, usage, mobile experience
-- What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
+- How do Veterans view this page or content? Its own site? Never seen before? Content same or different from VA.gov home page?
+  - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
 ### Benefit Hubs 
 (focused on the following dropdown links under "VA Benefits and Health Care" at the top of va.gov: Health care, Disability, Education and training, Careers and employment, Pension, Housing assistance, Life insurance, Burials and memorials)
 - Do Veterans use this? Check analytics data
