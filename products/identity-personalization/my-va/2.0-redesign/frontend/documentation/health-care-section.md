@@ -19,9 +19,6 @@
 
 ## Latest message 
 
-<details>
-  <summary>Specs</summary>
-
 ### When to show the messages section
 
 **Show**
@@ -59,12 +56,7 @@ TBD, waiting on design for this
 
 ![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
 
-</details>
-
 ## Next Appointment
-
-<details>
-  <summary>Specs</summary>
 
 ### When to show the appointments section
 
@@ -106,9 +98,7 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
-</details>
-
-## Prescriptions update
+## Prescriptions
 
 We are not showing customized prescription data at this time. If someone has health care, we will always show a **Refill and track your prescriptions** link that goes to [the prescription tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions).
   - **Note**: This is the staging link. We need to confirm the link for production.
