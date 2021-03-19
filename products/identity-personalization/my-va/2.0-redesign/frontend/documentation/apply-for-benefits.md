@@ -77,4 +77,6 @@ Much of this is the same as the specs in the health care section:
 
 **State 3: A user has no applications in progress**  
 
+We'll show a message that someone does not currently have any benefit applications in progress.
+
 ![Apply for benefits_No apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20apps%20in%20progress.jpg)
