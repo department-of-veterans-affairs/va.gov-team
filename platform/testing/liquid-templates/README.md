@@ -108,7 +108,7 @@ it('reports no axe violations', async () => {
 Accessibility violations are logged to the console and look like this:
 
 <details>
-  <summary>6 Accessibility Violations Were Detected</summary>
+  <summary>Accessibility Violations</summary>
 
   ```javascript
   6 Accessibility Violations Were Detected
