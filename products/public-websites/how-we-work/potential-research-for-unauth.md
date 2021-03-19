@@ -20,7 +20,9 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - Get feedback on usability of search--findability, usage
 - Get feedback on usability of search results
 ### Resources & Support
-- Do Veterans use this? Check analytics data
+- Do Veterans use this search interface? Check analytics data
+- Do Veterans use the browsing interface (below the search box)? Check analytics data
+- What is the coverage of the browsing interface vs. the browsing topics on VA.gov?
 - Get feedback on usability--findability, usage, mobile experience
 - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
 ### Benefit Hubs 
