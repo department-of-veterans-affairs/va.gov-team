@@ -76,7 +76,7 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 *UX specs*
 
 - This link only shows NEW/unread messages.
-- “You have **[X] unread messages**.” shows the total number of new/unread messages. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
+- “You have **[X] unread messages**” shows the total number of new/unread messages. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
   - **Note**: This is the staging link. We need to confirm the link for production.
 
 *Visual specs*
@@ -91,9 +91,17 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 **State 2: No new message**  
 
-TBD, waiting on design for this
+- If a user has no unread messages, we will show a link that says “You have **[X] unread messages**”. This links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
+  - **Note**: This is the staging link. We need to confirm the link for production.
+- If a user has 0 unread messages, we should **not** bold the link like we do when the user has unread messages.
 
 ![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
+
+**Error state: We can't connect to the messaging endpoint**
+
+If we're having trouble connecting to the messaging endpoint, we will just show a link to messages that is not personalized, like so:
+
+![Health care section_messages_error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_messages_error.jpg)
 
 ## Prescriptions
 
