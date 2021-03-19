@@ -35,6 +35,10 @@
 
 </details>
 
+## Wednesday, March 24
+
+ * CLP survey / CX next steps
+
 ## Wednesday, March 17 
 
  * new [Action link](https://design.va.gov/components/action-links) design component to help distinguish buttons and links, particularly for users of assistive tech
