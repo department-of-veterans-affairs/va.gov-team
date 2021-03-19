@@ -2,7 +2,7 @@
 
 ## Quick links
 
-- [Research plan]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/conversation-guide.md)
 - [Session notes]()
 - [Research report]()
