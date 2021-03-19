@@ -119,13 +119,13 @@ You must meet all 3 of the eligibility criteria to be considered for the Rogers 
  
  If you disagree with our decision, you have 1 year from the date of this decision to request a decision review or appeal. You have 3 options to do this:
  
-  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995.  { pdf opens in a new tab; aria label: download Decision Review Request for Supplemental Claims VA Form 20 - 0 9 9 5 } [Download VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
+  - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995.  { pdf opens in a new tab; aria label = Download Decision Review Request for Supplemental Claims VA Form 20 - 0 9 9 5. Opens in new browser tab } [Download VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
      
-  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996.  { pdf opens in a new tab; aria label: download Decision Review Request: Higher-Level Review VA Form 20 - 0 9 9 6 }[Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
+  - If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996.  { pdf opens in a new tab; aria label: Download Decision Review Request: Higher-Level Review VA Form 20 - 0 9 9 6. Opens in new browser tab }[Download VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
      
-  - If you filed a Supplemental Claim or Higher-Level Review and don't agree with the decision, you can appeal to a Veterans Law Judge by completing VA Form 10182. { pdf opens in a new tab; aria label: download Decision Review Request: Board Appeal for Notice of Disagreement VA Form 1 0 1 8 2 } [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
+  - If you filed a Supplemental Claim or Higher-Level Review and don't agree with the decision, you can appeal to a Veterans Law Judge by completing VA Form 10182. { pdf opens in a new tab; aria label: Download Decision Review Request: Board Appeal for Notice of Disagreement VA Form 1 0 1 8 2. Opens in new browser tab } [Download VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
 
-For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). { pdf opens in a new tab; aria label: download Your Rights to Seek Further Review of Our Decisions VA Form 20 - 0 9 9 8 } [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  
+For more information about these options, please read "Your Rights to Seek Further Review of Our Decisions" (VA Form 20-0998). { pdf opens in a new tab; aria label: download Your Rights to Seek Further Review of Our Decisions VA Form 20 - 0 9 9 8. Opens in new browser tab } [Download VA Form 20-0998](https://www.va.gov/find-forms/about-form-20-0998/).  
 
 You can also contact us at [888-442-4551]() to request any of these forms.
 
