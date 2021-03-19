@@ -30,7 +30,7 @@
 ## Wednesday, March 17, 2021
 ### Discussion Topics/Grooming 
  - [ ] CLP Staging "This is a test" Banner idea [#21665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21665)
- - [ ] CLP "Action Link" potential incorporation into MVP 1.0?  Discussion / Impact?
+ - [ ] CLP ["Action Link"](https://design.va.gov/components/action-links) potential incorporation into MVP 1.0?  Discussion / Impact?
  - [ ] CLP Confirm "Video Transcripts" is MVP 1.1 intergration.  @ryan added a design element to ticket, would like to review with CMS as this is CMS dependent.
  - [ ] [Site Scheduled Maintenance] EVSS Maintenance and eBenefits Unavailable (March 17 and March 19) [#21529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21529) 
  - [ ] VA.gov Notification - IE Retires in August 2021 [#21713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21713)
