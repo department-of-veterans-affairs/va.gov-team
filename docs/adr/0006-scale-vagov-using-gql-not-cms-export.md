@@ -8,7 +8,7 @@ Whom:
 
 ## Status
 
-Accepted
+[Accepted](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)
 
 ## Context
 
