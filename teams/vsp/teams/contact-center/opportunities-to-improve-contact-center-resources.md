@@ -12,7 +12,7 @@ Known gaps and ways to address them:
             *   When a particular resource is provided to the Veteran, it would be helpful to give them a link that would take them to the correct portion of the product guide vs. them having to scroll through and find it - sometimes many pages deep.
         * Consider 508/accessibility as best practice
 *   Review existing documentation to ensure they align with best practices and make updates as warranted.
-    *   Consider adddressing 508/accessbility of prouct guides (retrofit)
+    *   Consider addressing 508/accessibility of product guides (retrofit)
 *   Provide written and/or recorded training/recommendations/reinforcement of what types of issues should and should NOT be forwarded to us. 
     *   Also, document and communicate issues we receive with incomplete information so we can have those addressed by VEO.
 
