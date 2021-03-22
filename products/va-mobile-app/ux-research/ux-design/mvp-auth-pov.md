@@ -1,6 +1,7 @@
 # Auth UX Documentation 
 
 **Last updated:** 3/22/21
+
 **Purpose of this document:** Document decision making for VA mobile app MVP authentication and future plans.
 
 
@@ -13,10 +14,10 @@ We will use a VA Mobile custom IAM integration that uses the design of the Acces
  
 ## Uplevelling UX
 
-### The MVP will only accept LOA 3 users
+#### The MVP will only accept LOA 3 users
 Per [significant decision 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-8-only-users-with-logon-credentials-at-level-of-assurace-loa-3-will-be-allowed-to-use-the-app), the MVP app will only accept users with logon credentials at Level of Assurace (LOA) 3. Users who are not LOA 3 will be automatically pased to the ID.me identity verification flow after signing in. If they do not verify they will not be able to return to the app. Given this, we will briefly communicate to users the need to verify prior to the sign in flow to a) prepare possible LOA1 users for verifying and b) explain why access to the app will be stopped if they are not verified and choose not to verify. The UX for this flow can be triggered from clicking Sign in on the app’s unauthenticated home screen, [visible in the prototype here](https://adhoc.invisionapp.com/share/GTZ1ESFF6BN#/screens/433563910). This screen will only display on first sign in. In Feb 2021 usability testing, 3 participants signed into the app successfully. Findings from that research study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/research-summary.md#in-moderated-testing-all-3-participants-who-downloaded-the-apk-file-successfully-signed-in).
 
-### The uplevelling flow has room for UX improvement
+#### The uplevelling flow has room for UX improvement
 There are two points of uplevelling within the app's sign in flow that we want to improve: 
 
 1. Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and begin/complete the verification flow and a second time to log in with their new LOA3 creds. This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies. 
