@@ -4,15 +4,23 @@
 
 
 # Table of contents
-1. How to use this playbook
-2. Introduction: why use data for digital services
-3. Set your KPIs
-4. Track your KPIs
-5. Analyze & React to your KPIs
-6. Present your KPIs
-7. Re-evaluate and reflect on your KPIs
-8. Closing
-9. Appendix
+[1. How to use this playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#how-to-use-this-playbook)
+
+[2. Introduction: why use data for digital services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#introduction-why-use-data-for-digital-services)
+
+[3. Set your KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#set-your-kpis)
+
+[4. Track your KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#track-your-kpis)
+
+[5. Analyze & React to your KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#analyze--react-to-your-kpis)
+
+[6. Present your KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#present-your-kpis)
+
+[7. Re-evaluate and reflect on your KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#re-evaluate-and-reflect-on-your-kpis)
+
+[8. Closing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#closing)
+
+[9. Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md#appendix)
 
 # How to use this playbook
 
