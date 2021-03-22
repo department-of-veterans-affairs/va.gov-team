@@ -57,6 +57,12 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
+**Error state: We can't connect to the appointments endpoint**
+
+In the event that we can not connect to the appointments endpoint to detect whether someone has upcoming appointments or not, we will show an error like so. **Final copy still TBD**.
+
+![Health care section_appointments_error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_appointments_error.png)
+
 ## Messages
 
 ### When to show the messages link
