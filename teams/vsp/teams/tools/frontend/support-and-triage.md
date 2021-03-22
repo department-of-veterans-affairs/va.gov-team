@@ -8,6 +8,8 @@ Supporting VSA teams requires a cohesive and well-coordinated experience. The fr
 
 The role will be assigned to a developer for a week, switching on Wednesdays and running during our standard support/business hours (Mon - Fri, around noon - 5pm Eastern). During that time, the responsibilities listed below are that developer's primary responsibility. 
 
+If you are on support you need to have Slack on your phone, with notifications turned on, even during the weekend in case the oncall developer needs to reach out.
+
 The rotation schedule can be found [here](https://dsva.pagerduty.com/schedules#PIDMJAN).
 
 ## What do I do?
