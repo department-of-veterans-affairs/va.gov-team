@@ -1,32 +1,44 @@
-# TEMPLATE
-
-# Product Outline Template
+# VRRAP Product Outline
 ---
 
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Thousands of Veterans are unemployed due to COVID-19.  Veterans who meet 6 specific criteria are eligible for VRRAP (Veteran Rapid Retraining Assistance Program) funding to retrain in high-demand careers. To apply for VRRAP funding, they need to submit an application through VA.gov and the Muskogee RPO will develop the claims.  The VRRAP program will run only 21 months so time to design and build the application is precious.   
+
+How might we allow Veterans to apply for VRRAP benefits -- following VA.gov styles and collecting vital information for the Muskogee RPO -- on a very tight timeline?   
+
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Applicant understands and is confident of their eligibility when they apply
+- Applicant knows what to expect when the application is submitted
+- Applicant receives a relatively fast response to their application
+
 
 ## Undesired User Outcomes
+
+- Potential applicants aren't sure if they're eligible so they apply
+- Potential applicants aren't sure if they're eligible so they don't apply
+- VRRAP applicants don't understand why they're ineligible
+- VRRAP applicants quit other job training opportunities to take advantage of the VRRAP program
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- More than 17,000 Veterans have been retrained by the end of the program (17.250 max)
+- $386 million in VRRAP funding is exhausted
+- VRRAP applications average review time is below **some acceptable amount of time** 
+- VRRAP application rejection rate is within an acceptable range (**Less than 50%?**)  
 
 ## Undesired Business Outcomes
 
-
+- Rejection rate is greater than 50% (**TBD: work with Muskogee to define**)
+- Muskogee RPO is overwhelmed with applications lacking detail needed to develop claims
+- Timeline to decide claims creates delays funding Veterans' training
+ 
 ---
 ## Measuring Success
 
@@ -39,8 +51,8 @@
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI      |             |  17,250 Veterans are retrained in high-demand careers         |                    |        |
+| KPI      |             |  $386 million is spent on VRRAP training programs                  |                    |        |
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -48,15 +60,25 @@
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: Applications
+  - Key result: More than 17,250 eligible Veterans have applied for the VRRAP program 
+  - Key result: Less than (**50% of applicants**) are ineligible because they don't meet basic criteria
+  - 
+ 
+ - Objective: Exhaustion of benefits
+  - Key result: 17,000 (or more) Veterans have received the benefit
+  - Key result: $386M of funding has been depleted
+
+
 
 
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Clear requirements are provided
+- For requirements that are unclear, there is flexibility or collaboration to define
+- OMB approval process can run in parallel and won't be a blocker to launch 
 
 ## Solution Approach
 
@@ -101,11 +123,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Booz Allen / Education Applications
+- GitHub Label: bah-edu-form
+- Slack channel: vsa-education
+- Product POCs: Will McCormack, Darrell Neel, Amy Knox, Dan Shawkey, Desiree Turner
+- Stakeholders: VA Education Service
 
 </details>
 
@@ -113,7 +135,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
+ - DEPO Lead: Matt Self
  - PM: 
  - Engineering:
  - Research/Design: 
