@@ -3,7 +3,7 @@ name: VAOS Accessibility Issue
 about: For VAOS team to document accessibility issues
 title: ' '
 labels: vaos, 508/Accessibility
-assignees: '@laurenernest'
+assignees: 'laurenernest'
 
 ---
 ## User Story or Problem Statement
