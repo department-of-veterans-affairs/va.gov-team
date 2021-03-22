@@ -1,6 +1,6 @@
 # Auth UX Documentation 
 
-Last updated 3/11/21
+Last updated 3/22/21
 
 #### Purpose of this document
 Document decision making for VA mobile app MVP authentication and future plans.
@@ -8,34 +8,37 @@ Document decision making for VA mobile app MVP authentication and future plans.
 # MVP
 
 ### MVP: Sign In Page
-We will use a VA Mobile custom IAM integration that uses the design of the Access VA page (similar to [this page design](https://eauth.va.gov/accessva/?cspSelectFor=mhv)). We are pursuing this solution because it is feasible within our MVP timeline and we think this is the best way to get something on Test Flight quickly for a small, mostly internal audience. We’ve recommended the following three UX changes to improve the page’s usability (as of 11/4, we think 1 and 2 from this list will be feasible):
-1. Remove the image of “VA Mobile”.
-2. Remove Access VA and IAM logos at top of page. Keep the VA logo. 
-3. Remove the “Secure Login Redirect” modal that pops up when a user clicks on one of the three credential options. Instead, send users straight to the relevant sign-in page.
+We will use a VA Mobile custom IAM integration that uses the design of the Access VA page (similar to [this page design](https://eauth.va.gov/accessva/?cspSelectFor=mhv)). We are pursuing this solution because it is feasible within our MVP timeline and we think this is the best way to get something set up quickly. We recommendeded 2 small changes that were implemented - removing logos.
 
  
 ### MVP: Uplevelling UX
+
+#### The MVP will only accept LOA 3 users
 Per [significant decision 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-8-only-users-with-logon-credentials-at-level-of-assurace-loa-3-will-be-allowed-to-use-the-app), the MVP app will only accept users with logon credentials at Level of Assurace (LOA) 3. Users who are not LOA 3 will be automatically pased to the ID.me identity verification flow after signing in. If they do not verify they will not be able to return to the app.
 
-Given this, we will briefly communicate to users the need to verify prior to the sign in flow to a) prepare possible LOA1 users for verifying and b) explain why access to the app will be stopped if they are not verified and choose not to verify. The UX for this flow can be triggered from clicking Sign in on the app’s unauthenticated home screen, [visible in the prototype here](https://adhoc.invisionapp.com/share/GTZ1ESFF6BN#/screens/433563910). This screen will only display on first sign in. We plan to test the whole sign in flow (including this screen) as part of usability testing of the Test Flight app in December-January. In usability testing, we’ll prioritize:
-- Understanding where major stumbling blocks are in the entire sign in flow, from the unauth home screen to being successfully returned to the app
-- Seeking feedback about language and how to best communicate the need to be LOA 3 to use the app
+Given this, we will briefly communicate to users the need to verify prior to the sign in flow to a) prepare possible LOA1 users for verifying and b) explain why access to the app will be stopped if they are not verified and choose not to verify. The UX for this flow can be triggered from clicking Sign in on the app’s unauthenticated home screen, [visible in the prototype here](https://adhoc.invisionapp.com/share/GTZ1ESFF6BN#/screens/433563910). This screen will only display on first sign in. 
 
-**One additional note about uplevelling UX:** Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and begin/complete the verification flow and a second time to log in with their new LOA3 creds.This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies. If they are already LOA2/3 they just log in one time and no extra log in. 
+In Feb 2021 usability testing, 3 participants signed into the app successfully. Findings from that research study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/research-summary.md#in-moderated-testing-all-3-participants-who-downloaded-the-apk-file-successfully-signed-in).
+
+#### The uplevelling flow has room for UX improvement
+There are two points of uplevelling within the app's sign in flow that we want to improve: 
+1. Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and begin/complete the verification flow and a second time to log in with their new LOA3 creds. This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies.
+
+2. Users who uplevel during sign in must must also navigate from the browser where they uplevel back to the app manually with no redirection prompt. 
+
+To remedy these usability issues, we would need ID.me to make a special mobile integration of the ID.me task. That task would redirect to IAM with the status of the uplevel & require a request for a longer timeout at IAM, and a change to the SAML request.
 
 
 
 # Post App Store Release
 
-### Post App Store Release: Sign In Page
+### Post App Store Release: Sign In Flow
 After app stores lanuch, we would like to make the following UX changes to the sign in flow: 
+
 - Remove 1 step from the flow: the need to "accept" a Secure Login Redirect to go from the sign-in page to their credential provider. 
-- Redesign UI of the sign in page and subsequent screens (outside of the credential provider) to match the design of the app.    
-- Streamline upleveling UX. In the future, when our persona expands, we will want to improve the upleveling experience. Right now, LOA1 are directed to uplevel when they try to sign into the app. Today, there are bumpy parts of this flow (e.g. users must sign in multiple times, users must navigate from the browser where they uplevel back to the app manually with no redirection prompt). To improve this UX, we will need ID.me to make a special mobile path to allow us to reduce redirects.
-- Audit A11y friendliness
-
-
-The ideal UX of the sign in page is likely will be very similar to the design of va.gov/sign-in. We may make some small changes such as removing the value proposition to focus solely on the sign in CTAs. 
+- Redesign UI of the sign in page and subsequent screens (outside of the credential provider) to match the design of the app. The ideal UX of the sign in page is likely will be very similar to the design of va.gov/sign-in.   
+- Streamline upleveling UX (see above note on how uplevelling UX can be improved).
+- Audit A11y friendliness. 
 
 
 ### Post App Store Release: LOA allowance
@@ -51,3 +54,11 @@ We have previously discussed the pros and cons of maintaining our IAM integratio
 #### Other considerations 
 - For the forseeable future, we see the app’s goal as continuing to make transactions easier for Veterans already interacting with VA, and maintaining an LOA 3 user base supports this purpose. We don’t foresee adding any authenticated features that an LOA 1 user would find utility in. 
 - We would like to understand if there are business reasons that support either allowing LOA 1 users into the app to view a “locked” state of features, or continuing to allow only LOA 3 via the upleveling integrated into the auth flow currently used in MVP. We think LOA upleveling could be a place where the app breaks from VA.gov conventions.
+
+
+# Appendix
+We recommended the following 3 changes to our sign in page in November 2020. 1 and 2 were implemented: 
+1. Remove the image of “VA Mobile”.
+2. Remove Access VA and IAM logos at top of page. Keep the VA logo. 
+3. Remove the “Secure Login Redirect” modal that pops up when a user clicks on one of the three credential options. Instead, send users straight to the relevant sign-in page.
+
