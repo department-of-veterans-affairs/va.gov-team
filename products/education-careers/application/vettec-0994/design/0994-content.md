@@ -36,7 +36,7 @@ Try signing in with your DS Logon, My HealtheVet, or ID.me account. If you don�
 
 **To be eligible for VET TEC, you need to be**
 * A Veteran with at least one day of unexpired education benefits, **or**
-* A service member with 180 days of less left on active duty
+* A service member with 180 days or less left on active duty
 
 You can complete the VET TEC application to see if you’re eligible for the program, even if you haven’t yet selected the training program you'd like to attend. [Learn more about the programs covered under VET TEC](https://www.benefits.va.gov/gibill/fgib/VetTec_Veteran.asp).
 
