@@ -81,11 +81,13 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 ---
 
 ## Solution Narrative
-
 ### Current Status
+**March 2021**
+- Collaborating with stake holders on pain points
+- Early Collab Cycle exercises
 
 ### Key Decisions
-
+- First version should be the auto-eligibility function and a form submission
 ---
    
 ## Screenshots
