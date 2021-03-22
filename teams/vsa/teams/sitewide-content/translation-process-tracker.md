@@ -5,6 +5,6 @@
 | Vaccine | | | | | |3/8 4.5 hours | | 3/8 4 hours |
 | Vaccine updates for Janssen vaccine | | 3/2 | 3/10 | 3/10 8 hours | 3/10 8 hours | | 3/12 |
 | Vaccine update about offering to more Veterans | | 3/15 | 3/16 | 3/18 Spanish | | 3/17 2 hrs | 3/19 Spanish |
-| FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | 3/18 Spanish; 3/19 Tagalog | | | 3/15 1 hr | |
+| FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | 3/18 Spanish; 3/19 Tagalog | 3/19 1 hr | 3/22 1 hr| 3/15 | |
 | Reworking upper section of vaccine page | 3/16 2 hrs | 3/16 | 3/18 Spanish; 3/19 Tagalog | 3/18 3 hrs |
 | Updates around CLC visitation policy | 3/17 2 hrs | 3/18 | | | | 3/18 1 hr | | |
