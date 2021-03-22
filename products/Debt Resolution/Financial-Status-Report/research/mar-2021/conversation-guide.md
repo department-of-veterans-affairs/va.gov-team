@@ -315,7 +315,7 @@ Go ahead and complete this section to the best of your ability as if you were su
 That's all the questions I have about the form! I just have a few followup questions, and then we can wrap up.
 
 -   What are your overall impressions about this experience?
--   How straightforward do you think this form is on a scale from 1 to 10?
+-   How would you rate this experience on a scale from 1 to 10, with 1 being very unclear and 10 being very clear?
 -   Would you use this tool to submit a Financial Status Report? Why or why not?
 -   Do you have any other thoughts to share with us today?
 
