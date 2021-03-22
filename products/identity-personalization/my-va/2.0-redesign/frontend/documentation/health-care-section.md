@@ -17,6 +17,12 @@
 
 - Someone is NOT enrolled in VA health care.
 
+**Error state: We can't connect to the health care endpoint**
+
+If we can not detect whether someone has health care or not because we can't connect to the endpoint, we will show an error at the top of the page and not load th health care section.
+
+![Health care section_error_can't connect to endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_error_can't%20connect%20to%20endpoint.jpg)
+
 ## Next Appointment
 
 ### When to show the Next appointments block
