@@ -17,7 +17,7 @@
 
 ## States
   
-**State 1**  
+**State 1: User has a disability rating**  
 
 - Include the total disability rating **if** someone has one.
 - The disability rating should link to the [the disability rating tool](https://www.va.gov/disability/view-disability-rating/rating).
@@ -27,6 +27,12 @@
 
 ![Name tag with disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20with%20disability%20rating.jpg)
 
-**State 2**
+**State 2: User does not have a disability rating**
 
 ![Name tag without disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20without%20disability%20rating.jpg)
+
+**Error state: We can not connect to the disability endpoint**
+
+In the event the disability endpoint is down, we can degrade gracefully and show a generic "View disability rating" link instead of the customized link with the rating. We realize this means that some people who do not have a disability rating may see that link, and that is OK.
+
+![Name tag with disability rating_error state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20with%20disability%20rating_error%20state.jpg)
