@@ -17,6 +17,19 @@
 
 </details>
 
+## Monday Mar 22 3:00pm ET
+
+Agenda/Notes
+
+- Action item review
+  - Lighthouse team to complete UX review for field name changes
+  - CMS team to complete 3 field name changes by sprint 28 (ends 3/26/21)
+  - Dave to send CAP workflow to CMS team
+- COVID health service data
+  - Vaccine service
+  - All health services
+- VAST
+
 ## Monday Mar 8 3:00pm ET
 
 Agenda/Notes
