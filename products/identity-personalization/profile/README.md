@@ -2,7 +2,7 @@
 
 Last Updated March 5, 2021
 
-## POCs
+### Communications
 - GitHub Label: Profile
 - Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 - Keywords
@@ -11,7 +11,9 @@ Last Updated March 5, 2021
      - Contact information
      - Direct deposit
      - VA Profile (formerly Vet360)
-     
+
+### Roles  
+  
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
@@ -26,17 +28,13 @@ Last Updated March 5, 2021
 
 ### Table of Contents
 
-# Executive Summary 
 - [Overview](#overview)
 - [Products/Projects](#productsprojects)
-
-# Implementation Information
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Backend Systems that Support the Profile](#api-calls-and-dependent-systems)
 - [Design](#design)
 - [Screenshots](#screenshots)
 
@@ -79,13 +77,13 @@ The profile is a section of VA.gov that houses multiple products/features. Below
 |Connected apps | [Connected apps outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps-data/README.md)
 |Direct deposit for edu| [Direct deposit for edu outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md)|
 
-# Implementation Info
-
-## Status
-
-As of June 2020, we are currently implementing the profile 2.0 redesign.
-
 ## Solution Narrative
+
+### Current Status
+
+- We are currently working on efforts to add preferred facility information and notification preferences to the profile
+
+### Timeline
 
 - 2016/17 — Prototypical "account" page on Vets.gov.
 - Spring 2018 - Original EMIS profile launched to Vets.gov.
@@ -104,19 +102,13 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 
 - [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
-## Service Level Objective
-
-## API Calls and Dependent Systems
+## Backend Systems that Support the Profile
 
 - Contact information comes from VA Profile.
 - Direct deposit for comp & pen information comes from EVSS.
 - Direct deposit for edu information comes from BGS.
 - Personal information comes from MPI.
 - Military information comes from eMIS.
-
-## On Call Support
-
-#vsp-platform-support and [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) slack channels
 
 ## Design 
 
