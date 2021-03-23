@@ -75,24 +75,91 @@ This table lists the errors that a user can encounter when submitting the online
   - Update your information
   - Re-submit
 
-- Message:
-- Images:
+- Message
+- Designs
 
 #### Review and Submit > Generic Error
 
 ##### Review and Submit > Generic Error > With Retry
 - Next Steps
+  - ✔️ Can edit information
+  - ✔️ Can re-attempt submission
+  - ✔️ Can download pre-filled PDF of application
+
 - CTA
+  - Directed try again
+  - (If resubmissions fail) directed to download pre-filled PDF and mail to HEC.
+
 - Message
+  > ❗ **We didn't receive your online application**
+  > 
+  > We're sorry. Something went wrong when you tried to submit your
+  > online application. Please try agian.
+  > 
+  > If your application fails to go through online, please mail in your application 
+  > by completing the instructions below.
+  > 
+  > **What you can do now**
+  > 
+  > Please review your application to make sure you entered your
+  > information correctly. Then download, print, and sign a copy of your
+  > completed application.
+  > 
+  > Mail your application to:
+  > 
+  > > **Program of Comprehensive Assistance for Family Caregivers**  
+  > > Health Eligibility Center  
+  > > 2957 Clairmont Road NE, Ste 200  
+  > > Atlanta, GA 30329-1647
+  > 
+  > If you have trouble downloading your application, call
+  > our [VA.gov](#) help desk at [800-698-2411](#) (TTY: 711). We're here Monday
+  > through Friday, 8:00 a.m. to 8:00 p.m. ET.
+  > 
+  > ⬇️ [Download your completed application(PDF)](#)
+  > 
+
 - Images
 
 ##### Review and Submit > Generic Error > Without Retry
 - Next Steps
+  - ✔️ Can edit information
+  - ✖️ Cannot resubmit
+  - ✔️ Can download pre-filled PDF of application
+
 - CTA
+  - Directed to Download PDF, sign, and mail it to HEC.
+
 - Message
-- Images
+  > ❗ **We didn't receive your online application**
+  > 
+  > We're sorry. Something went wrong when you tried to submit your
+  > online application. You won't be able to resubmit the form online.
+  > 
+  > **What you can do now**
+  > 
+  > Please review your application to make sure you entered your
+  > information correctly. Then download, print, and sign a copy of your
+  > completed application.
+  > 
+  > Mail your application to:
+  > 
+  > > **Program of Comprehensive Assistance for Family Caregivers**  
+  > > Health Eligibility Center  
+  > > 2957 Clairmont Road NE, Ste 200  
+  > > Atlanta, GA 30329-1647
+  > 
+  > If you have trouble downloading your application, call
+  > our [VA.gov](#) help desk at [800-698-2411](#) (TTY: 711). We're here Monday
+  > through Friday, 8:00 a.m. to 8:00 p.m. ET.
+  > 
+  > ⬇️ [Download your completed application(PDF)](#)
+  > 
+
+- Designs
 
 ### Successful Submission
 - Next Steps
 - CTA
 - Message
+- Designs
