@@ -30,7 +30,6 @@ Last Updated March 5, 2021
 
 - [Overview](#overview)
 - [Products/Projects](#productsprojects)
-- [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
