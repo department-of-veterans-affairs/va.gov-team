@@ -50,7 +50,7 @@ Pact has been identified as VSP's chosen contract testing tool, which will allow
 --- 
 
 ## Launch Dates
-- *Launch Date*: Estimated launch Nov 2020
+- *Launch Date*: Estimated launch April, 2021
 
 ---
    
