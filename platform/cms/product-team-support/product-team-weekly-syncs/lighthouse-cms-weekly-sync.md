@@ -54,14 +54,14 @@ Agenda/Notes
     - Pulling data all at once from CMS to Lighthouse nightly is recommeneded instaed of pushing because services don't change often
     - We do want the ability to push on demand though just in case
     - Does Dave have a list of meta detail for service? yes, but because Vet Centers is adding columns it hasn't made it to prod yet. Looking to lock down by this CMS sprint 27 (3/12/21)
-    - VC CAPs ought to be prioritized above all others
-      - CAP data doesn't exist anywhere so would be good to get in Lighthouse in order to distribute elsewhere
-      - Long-term plan is to pivot Facility health service locator to a Service locator
-      - Data capture for all facilities won't complete until the end of Sept 2021 because of VAMC migrations, but CAPs should happen before the facility service data
-      - Might make sense to do a push because the frequency is greater. should this include CAP statuses?
-      - Operating status versus existence needs to be fleshed out
-      - Need to determine the right format for what gets captured in Lighthouse
-      - Let's start with a sample of existing CAP data and compare it to existing Lighthouse data to get a sense of how we might want to integrate fields
+  - VC CAPs ought to be prioritized above all others
+    - CAP data doesn't exist anywhere so would be good to get in Lighthouse in order to distribute elsewhere
+    - Long-term plan is to pivot Facility health service locator to a Service locator
+    - Data capture for all facilities won't complete until the end of Sept 2021 because of VAMC migrations, but CAPs should happen before the facility service data
+    - Might make sense to do a push because the frequency is greater. should this include CAP statuses?
+    - Operating status versus existence needs to be fleshed out
+    - Need to determine the right format for what gets captured in Lighthouse
+    - Let's start with a sample of existing CAP data and compare it to existing Lighthouse data to get a sense of how we might want to integrate fields
 - VAST
 
 Action items
