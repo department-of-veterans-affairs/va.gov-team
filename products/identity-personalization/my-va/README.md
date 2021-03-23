@@ -23,7 +23,7 @@ Last updated March 23, 2021
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Opportunities & Priorities]()
+- [Opportunities & Priorities](#opportunities--priorities)
 - [User Outcomes]()
 - [Business Outcomes]()
 - [Measuring Success]()
