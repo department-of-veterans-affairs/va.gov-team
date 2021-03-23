@@ -23,7 +23,7 @@ Last updated March 23, 2021
 
 - [Overview]()
 - [Problem Statement]()
-- [Opportunities]()
+- [Opportunities & Priorities]()
 - [User Outcomes]()
 - [Business Outcomes]()
 - [Measuring Success]()
@@ -38,7 +38,7 @@ My VA provides Veterans with a direct route to their most critical tasks and upd
 
 When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). However, they currently see a generalized homepage with tasks that may or may not apply to them. There is no way for them to easily see a consolidated view of their benefit statuses or the tasks that need their attention or action.
 
-## Opportunities
+## Opportunities & Priorities
 
 We can fix this by providing veterans with an action-focused personalized landing page when they are logged in to VA.gov. This landing page should do the following (in priority order):
 
@@ -104,9 +104,9 @@ _Why would your business want this to exist?_
 With this problem solved, what should your business be able to do/achieve that they couldn't before?
 -	Done well, a personalized landing page should help us more effectively guide Veterans to relevant tasks and benefit information that will help us maximize desired outcomes (eg. greater interactions and conversions). 
 
-_Undesired Business Outcomes_
+### Undesired Business Outcomes
 
--	We do not want this page to become a dumping ground for everything the business wants to get in front of users. This page should remain user-centric and prioritize desired user journeys over getting everything we want in front of users.
+-	We do not want this page to become a dumping ground for everything the business wants to get in front of users. This page should remain user-centric and prioritize [desired user journeys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-are-primarily-interested-in-completing-healthcare-and-disability-related-tasks-such-as-messaging-ordering-medication-and-checking-claim-status) over getting everything we want in front of users.
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
@@ -118,11 +118,11 @@ _Undesired Business Outcomes_
 
 ### Current Status
 
--	The My VA 2.0 redesign is currently undergoing usability testing and initial build. 
+-	[The My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) is currently undergoing final design updates and frontend build. 
 
 ### Key Decisions
 
--	In October 2020, we determined that My VA and the logged-in homepage would continue to live side by side and that My VA would not replace the logged-in homepage at this time. The reasoning was three-fold: first, we hypothesized that people would still want access to the current homepage when they were logged in. Second, since many teams at the VA have input into the homepage, we were concerned that this might result in content that was not personally relevant to Veterans showing up on their My VA dashboards. Finally, the team was not confident in our ability to support two different versions (logged-in/logged-out) of the homepage at the same URL at this time.
+-	In October 2020, [we determined that My VA and the logged-in homepage would continue to live side-by-side](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot) and that My VA would not replace the logged-in homepage at this time. The reasoning was three-fold: first, we hypothesized that people would still want access to the current homepage when they were logged in. Second, since many teams at the VA have input into the homepage, we were concerned that this might result in content that was not personally relevant to Veterans showing up on their My VA dashboards. Finally, the team was not confident in our ability to support two different versions (logged-in/logged-out) of the homepage at the same URL at this time.
  
 ## Screenshots
 
