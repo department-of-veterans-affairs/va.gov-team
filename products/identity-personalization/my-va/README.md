@@ -27,8 +27,8 @@ Last updated March 23, 2021
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Solution Narrative]()
-- [Screenshots]()
+- [Solution Narrative](#solution-narrative)
+- [Screenshots](#screenshots)
 
 ## Overview
 
