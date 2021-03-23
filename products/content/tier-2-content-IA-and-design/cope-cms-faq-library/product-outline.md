@@ -35,6 +35,8 @@ __Note:__ this is for expanding the pulling in ability, not the ability to creat
 2/ Build CMS functionality for checking duplicative content when an editor is pulling in an existing -- or creating a new -- q/a
 
 - e.g., showing the editor a list of similar q/a’s that might already exist - based on question text? keywords? benefit category?
+- Note: As of today (3/23), there are 112 q/a's in the library. As this number increases, this functionality will become more necessary to help prevent editors from adding duplicative content. 
+
 
 ## Priorities of products to enable displaying COPE q/a's
 
