@@ -1,4 +1,4 @@
-##Event Log
+### Event Log
 
 **Postmortems**
 Development Postmortems are kept [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), this is to track any related to Search & Discovery Products
