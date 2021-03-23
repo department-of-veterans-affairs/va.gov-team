@@ -8,3 +8,4 @@
 | FAQs update for stimulus check | 3/15 .5 hrs | 3/15 | 3/18 Spanish; 3/19 Tagalog | 3/19 1 hr | 3/22 1 hr| 3/15 | |
 | Reworking upper section of vaccine page | 3/16 2 hrs | 3/16 | 3/18 Spanish; 3/19 Tagalog | 3/18 3 hrs |
 | Updates around CLC visitation policy | 3/17 2 hrs | 3/18 | 3/22 | | | 3/18 1 hr | | |
+| Copay relief questions for FAQs | | 3/23 |
