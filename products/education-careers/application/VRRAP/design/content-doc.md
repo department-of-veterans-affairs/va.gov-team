@@ -1,5 +1,11 @@
 # Veterans Rapid Retraining Assistance Program (VRRAP)
 
+Single page solution
+
+
+## Intro page
+
+
 ### Criteria for eligibility (for info / awareness)
 
 To be eligible for VRRAP, Veterans must:
@@ -12,12 +18,7 @@ To be eligible for VRRAP, Veterans must:
 * Not be in receipt of any unemployment or CARES Act benefits.
 
 
-## Intro page
-
-Something - public websites
-
-
-
+[ Continue ]() { button } 
 
 ## Title of form
 
@@ -55,7 +56,7 @@ This is the personal information we have on file for you.
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
 
-#### Direct deposit information
+#### Direct deposit information { Use the new & improved DD pattern on VA.gov - I think it's from STEM }
 
 { If bank account is on file }
 
@@ -106,6 +107,24 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 { end help-text}
 
+### Confirm you're eligible for VRRAP
+
+{ note - eligibility requirements to come from Education & needs to be refined w/ DEPO }
+To be eligible for VRRAP, Veterans must:
+
+* Be between ages 22-66;
+* Be unemployed as a result of the COVID-19 pandemic;
+* Not be eligible for any federal GI Bill program (if eligible for the Post-9/11 GI Bill, they must have transferred their benefits to family members -- thereby having no GI Bill eligibility for themselves);
+* Not be VA rated as totally disabled due to unemployability;
+* Not be enrolled in any other federal or state employment programs;  
+* Not be in receipt of any unemployment or CARES Act benefits.
+
+
+Yes, I meet all of the eligibility criteria  and want to apply for this benefit { checkbox - use language from STEM or VET TEC for attestation }
+
 
 [ Submit form ]() { button } 
  
+## Confirmation page
+
+Thanks, we have your application.  Content to come.  
