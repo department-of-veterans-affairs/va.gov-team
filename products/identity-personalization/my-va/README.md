@@ -24,7 +24,7 @@ Last updated March 23, 2021
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Opportunities & Priorities](#opportunities--priorities)
-- [User Outcomes]()
+- [User Outcomes](#user-outcomes)
 - [Business Outcomes]()
 - [Measuring Success]()
 - [Solution Narrative]()
