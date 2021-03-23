@@ -1,6 +1,6 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated March 12, 2021
+Last updated March 23, 2021
 
 ## Communications
 
@@ -218,6 +218,7 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **December 2020**: Move forward with traditional direction
 - **January 2021**: Designs completed; Frontend build begins; Copy work begins; Staging use cases put together
 - **February 2021**: InVision prototypes finalized; Frontend build continues; Usability test prep review; Usability testing
+- **March 2021**: Final design updates; Build continues
 
 ## Discovery
 
