@@ -13,6 +13,7 @@ Attendees/Participants: PM & Team + OCTO-DE Lead, Opt: Stakeholder
 
 #### Date
 
+- KPIs (movers and stagnaters): 
 - Experiments (active/recently closed):
 - New insights (qual/quant):
 - OKR progress:  
