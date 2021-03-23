@@ -1,8 +1,6 @@
 # Veterans Rapid Retraining Assistance Program (VRRAP)
 
-## This is where content will go when we have it.  
-
-### Criteria for eligibility
+### Criteria for eligibility (for info / awareness)
 
 To be eligible for VRRAP, Veterans must:
 
@@ -14,13 +12,22 @@ To be eligible for VRRAP, Veterans must:
 * Not be in receipt of any unemployment or CARES Act benefits.
 
 
-#### Chapter Title: Step 1 of  : Applicant information
+## Intro page
+
+Something - public websites
+
+
+
+
+## Title of form
 
 { if logged in, display info alert }
 
 This is the personal information we have on file for you.
 
 { end if }
+
+### Applicant information
   
 * Your first name (*Required) { text field, prefill if present }
 * Your middle name { text field, prefill if present }
@@ -30,34 +37,13 @@ This is the personal information we have on file for you.
 * Your date of birth: { prefill if present } (*Required)
 * Gender: { prefilled }
 
-
-[ Back | Continue ] { buttons } [Finish this application later.]()
- 
-________________________________________
-
-
-
-
-
-
-#### Chapter Title: Step N of N: Personal information
-
-#### Page Title: Contact information
-
-{ if logged in display blue info alert } 
-
-This is the contact information we have on file for you. We’ll send any important information about your application to this address. 
-
-{ end if }
+### Contact information
 
 **Phone & email**
 * Phone number (* Required) { text field, prefilled if present. } 
 * Alternate phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
 
-[ Edit | Done ] { buttons }
-
-[ Save | Cancel ] {Save button, Cancel link if no data is present}
 
 **Mailing address**
 { Address, prefilled if present } 
@@ -68,17 +54,8 @@ This is the contact information we have on file for you. We’ll send any import
 * City (* Required) { text field, prefilled if present. } 
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
-[ Edit | Done ] { buttons }
 
-**Note:** Any updates you make here to your contact information will apply to your VA compensation, pension, and education benefits. The updates won't apply to your VA health care records and prescriptions. 
-
-[ Back | Continue ] { buttons } [Finish this application later.]()
- 
-________________________________________
-
-#### Chapter Title: Step 6 of 7: Personal information
-
-#### Page Title: Direct deposit information
+#### Direct deposit information
 
 { If bank account is on file }
 
@@ -99,8 +76,9 @@ Thank you for providing your direct deposit information. **This new account won�
 
 { End alert message } 
 
+{ End if bank account on file }
 
-{ If no bank account on file }
+{ Else (no bank account on file) }
 
 We don’t have your bank information on file. Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
 
@@ -129,5 +107,5 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 { end help-text}
 
 
-[ Back | Continue ] { buttons } [Finish this application later.]()
+[ Submit form ]() { button } 
  
