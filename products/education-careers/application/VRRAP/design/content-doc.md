@@ -56,7 +56,7 @@ This is the personal information we have on file for you.
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
 
-#### Direct deposit information { Use the new & improved DD pattern on VA.gov - I think it's from STEM }
+#### Direct deposit information { reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
 { If bank account is on file }
 
