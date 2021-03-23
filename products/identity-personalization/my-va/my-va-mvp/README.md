@@ -1,4 +1,4 @@
-# Dashboard 1.0: 2018 Product Outline
+# My VA: 2018 Outline
 ## Points of Contact
 - GitHub Label: dashboard
 - Slack channel: [#dragons-team](https://dsva.slack.com/channels/dragons-team)
