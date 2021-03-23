@@ -4,8 +4,8 @@
 ## Overview
 *On a regular basis, product teams consider user insights, quantitative findings, experiment results and conclusions, and progress against objectives.*
 
-*Cadence: weekly/biweekly/monthly as agreed upon by team* \
-*Attendees/Participants: PM & Team + OCTO-DE Lead, Opt: Stakeholder*
+* *Cadence: weekly/biweekly/monthly as agreed upon by team* \
+* *Attendees/Participants: PM & Team + OCTO-DE Lead, Opt: Stakeholder*
 
 
 ### Product 
