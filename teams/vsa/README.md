@@ -1,7 +1,7 @@
 # Veteran-facing Services Applications (VSA)
 
 ## Guideposts
-![VA.gov VSA Guideposts](./product/va-vsa-guideposts.png)
+![VA.gov VSA Guideposts](./product/guideposts.png)
 
 ### Slack Channels
 - #vsa
