@@ -20,9 +20,8 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 
 - Templates
   - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
-  - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
 - Examples 
-  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
+  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/3q-facilities-team-roadmap.md)
 
 
 ### Product outline
