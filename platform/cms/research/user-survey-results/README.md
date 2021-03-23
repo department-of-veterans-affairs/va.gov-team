@@ -36,5 +36,5 @@ We appreciate your feedback. You can always contact our support team for further
 
 Sincerely,
 
-Name,
-title
+[NAME],
+[TITLE]
