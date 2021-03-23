@@ -15,7 +15,6 @@ Last updated March 23, 2021
 |AJ Jakabcin |Product Manager| ana@adhocteam.us |
 |Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Cassandra Allen |Designer| callen@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -39,38 +38,39 @@ My VA provides Veterans with a direct route to their most critical tasks and upd
 
 When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). However, they currently see a generalized homepage with tasks that may or may not apply to them. There is no way for them to easily see a consolidated view of their benefit statuses or the tasks that need their attention or action.
 
+## Opportunities
 
-Opportunities
-"How might we... _______" statement re-framing the challenge as an opportunity
 We can fix this by providing veterans with an action-focused personalized landing page when they are logged in to VA.gov. This landing page should do the following (in priority order):
 
-Top priority: Elevate action items 
+### Top priority: Elevate action items 
 
 There are two kinds of action items we need to prioritize:
 
-Actions a Veteran needs to take to help move along processes related to their benefits: Veterans may or may not know they need to take these actions, so we need to prompt them accordingly.
+**Actions a Veteran needs to take to help move along processes related to their benefits**: Veterans may or may not know they need to take these actions, so we need to prompt them accordingly.
 
-Examples: Alerting Veterans to unread messages; Prompting Veterans to upload evidence to a disability claim.
+**Examples**: Alerting Veterans to unread messages; Prompting Veterans to upload evidence to a disability claim.
 
-Actions a Veteran intends to take when they come to VA.gov: Veterans come to VA.gov with their own set of priorities. We can elevate popular actions so that Veterans can easily complete common tasks on VA.gov.
+**Actions a Veteran intends to take when they come to VA.gov**: Veterans come to VA.gov with their own set of priorities. We can elevate popular actions so that Veterans can easily complete common tasks on VA.gov.
 
-Examples: Check claim status; refill a prescription; change an address.
+**Examples**: Check claim status; refill a prescription; change an address.
 
-Communicate benefit status & updates that don’t require action
+### Communicate benefit status & updates that don’t require action
 
 In addition to seeing important actions, Veterans expect to be able to quickly assess the current status of their benefits at the VA. They also expect to see updates to their benefits even if those updates do not require any action from them. 
 
-Examples of benefit status: Whether a Veteran receives a benefit, has an application in progress, or has not received or applied for a benefit.
+**Examples of benefit status**: Whether a Veteran receives a benefit, has an application in progress, or has not received or applied for a benefit.
 
-Examples of updates that don’t require action: A change in disability rating; A prescription has shipped.
+**Examples of updates that don’t require action**: A change in disability rating; A prescription has shipped.
 
-Suggestions
+### Suggestions
 
 The VA may have suggestions for Veterans on how they can maximize their benefits or care, and some of these may make sense to elevate on My VA. However, these suggestions do not have anything to do with processes a Veteran might already have in flight, and these are lower priority than other notifications or benefit status information.
 
-Examples: Sign up for a COVID vaccine; benefit eligibility or recommendations.
-Desired User Outcomes
-Why would a user want to use this?
+**Examples**: Sign up for a COVID vaccine; benefit eligibility or recommendations.
+
+## Desired User Outcomes
+
+_Why would a user want to use this?_
 
 -	Primarily, a Veteran would want to use the personalized landing page described above because it would save them time when interacting with the VA. The more we surface, consolidate, alert, and guide up front, the quicker Veterans can complete tasks, receive benefits, and get back to their lives. 
 
