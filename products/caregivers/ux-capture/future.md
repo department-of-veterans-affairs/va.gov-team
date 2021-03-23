@@ -44,7 +44,7 @@ This table lists the errors that a user can encounter when submitting the online
 |:---|---:|:---|:---|:---|
 |Front-end|(N/A)|Invalid Data Error|The data provided by the user is not valid against the [10-10CG schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10CG-schema.json).|[Review and Submit > Data-Error](#review-and-submit--data-error)|
 |Reverse Proxy|504|Gateway Timeout|The API did not send a response back to the user within 60 seconds.|(TBD)|
-|API|200|Success|The submission was processed successfuly.|[Successful Submission](#successful-submission)|
+|API|200|Success|The submission was processed successfuly.|Successful Submission|
 |API|400|Bad Request|The front-end made an invalid request to the back-end.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 |API|401|Unauthorized|The user is not authenticated (or has an invalid csrf cookie).|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
 |API|403|Forbidden|The user is not authorized to make this request.|[Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)|
@@ -156,10 +156,4 @@ This table lists the errors that a user can encounter when submitting the online
   > ⬇️ [Download your completed application(PDF)](#)
   > 
 
-- Designs
-
-### Successful Submission
-- Next Steps
-- CTA
-- Message
 - Designs
