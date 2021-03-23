@@ -25,11 +25,13 @@ How might we enable VFS teams to test integrations with vets-api in a non-produc
 1. Qualitative feedback from VFS teams
 
 #### Baseline KPI Values
-1. _need to gather baseline_
-1. N/A
-1. N/A
-1. N/A
-1. N/A
+| KPI | Value |  
+| --- | --- |  
+| Number of incidents/quarter requiring postmortems related to vets-api integrations | ~1 per quarter in 2020 |
+| Number of CDCTs (Pacts) in broker | 5 |
+| % of Pact tests that are passing | 5, 100% |
+| % of VFS teams who self-report using Pact for all new integrations with vets-api | 5 |
+| Qualitative feedback from VFS teams | NA |
 
 ---
 
@@ -48,7 +50,7 @@ Pact has been identified as VSP's chosen contract testing tool, which will allow
 --- 
 
 ## Launch Dates
-- *Launch Date*: Estimated launch Nov 2020
+- *Launch Date*: Estimated launch April, 2021
 
 ---
    
