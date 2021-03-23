@@ -15,7 +15,7 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 <details>
 Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
-It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
+It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of the bets the team makes tracing back to strategic goals.
 </details>
 
 - Templates
