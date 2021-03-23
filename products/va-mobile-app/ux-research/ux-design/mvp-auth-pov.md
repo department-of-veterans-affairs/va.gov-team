@@ -13,15 +13,15 @@ There are **3** ways a user can sign into the mobile app from the IAM sign in pa
 
 ### 1. As a LOA3 user
 Recommendations for how to improve this experience for app stores launch
-- Step 7:  Add scopes, fix cut off text (request has been made, work in progress) 
+- **Step 7:**  Add scopes, fix cut off text (request has been made, work in progress) 
 
 ### 2. As a LOA1 user: in this scenario, the user will need to uplevel to get into the app
 Recommendations for how to improve this experience for app stores launch
-- Step 8: Remove need for second sign in. Go directly to step 6d. Currently, users need to sign in twice nad need to find they way back to the app to do so. Users might not know they need to sign in again and not be able to successfully sign in. We need to do discovery on how to send users back to the app from the end of the verification flow. We will need to work with ID.me and IAM closely to achieve this. This might require increasing the time out of the IAM SAML requests, which has downstream effects. We want to go from this step to step 13
-- Note about Step 7: We are not sure what the uplevel redirect looks like for MHV Basic users because we cannot test that in staging.
+- **Step 8:** Remove need for second sign in. Go directly to step 13. Currently, users need to sign in twice and need to find they way back to the app to do so. Users might not know they need to sign in again and thus may not be able to successfully sign in. To remedy this, we would need to do discovery on how to send users back to the app from the end of the verification flow. We will need to work with ID.me and IAM closely to achieve this. This might require increasing the time out of the IAM SAML requests, which has downstream effects.
+- **Note about Step 7:** We are not sure what the uplevel redirect looks like for MHV Basic users because we cannot test that in staging.
 
 ### 3. Create a new account: 
-- Step 7: Drop user directly into the "Create account page", not "Sign in" page
+- **Step 7:** Drop user directly into the "Create account page", not "Sign in" page. Go right from step 6 to step 8.
  
 
 ---
