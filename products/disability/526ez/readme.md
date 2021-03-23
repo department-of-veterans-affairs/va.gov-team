@@ -1,7 +1,7 @@
 # Product Outline: Disability Compensation Application (Form 526)
 
 - GitHub Label: 526 disability-claims
-- Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/archives/C5AGLBNRK)
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
 - Demo video link: n/a
 - [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
