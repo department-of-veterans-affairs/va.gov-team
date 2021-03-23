@@ -12,7 +12,7 @@ Help us help you by giving your feedback in a 2 minute survey. We’d like to he
 
 :clipboard: **[Take the survey](https://www.surveymonkey.com/r/LV9RX5V)**
 
-Please respond by **March 22**.
+Please respond by **[DATE]**.
 
 Thank you!
 
@@ -30,7 +30,7 @@ Your feedback will help us improve the VA CMS to make your work easier. Help us 
 
 :clipboard: **[Take the survey](https://www.surveymonkey.com/r/LV9RX5V)**
 
-Please respond by **March 22**.
+Please respond by **[DATE]**.
 
 We appreciate your feedback. You can always contact our support team for further questions or CMS support at VACMSSupport@va.gov.
 
