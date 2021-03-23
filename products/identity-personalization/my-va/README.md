@@ -22,7 +22,7 @@ Last updated March 23, 2021
 ### Table of Contents
 
 - [Overview](#overview)
-- [Problem Statement]()
+- [Problem Statement](#problem-statement)
 - [Opportunities & Priorities]()
 - [User Outcomes]()
 - [Business Outcomes]()
