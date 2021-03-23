@@ -6,6 +6,8 @@ Researcher: Emily Mann | emily.mann1@va.gov
 
 [Synthesis Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8) 
 
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO%20health%20research%20report%2022%20Mar%202021.pdf)
+
 ## Background
 
 Digital Health Modernization (DHM) builds on our [2017 Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) to consolidate digital benefit management tools in a single place — VA.gov — and to design those tools with users.
@@ -139,8 +141,114 @@ During synthesis, we noticed meaningful segmentation based on:
 
 ## Insights at a glance
 
-1. 
+1. Veterans have to navigate multiple health care systems, providers, and insurers to get the care they need.
+2. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits. 
+3. Veterans and caregivers don’t go to VA.gov to do health tasks. 
+4. The secure sign-in partner options on MHV are not utilized or understood by users. 
+5. Veterans trust the My HealtheVet brand because it offers the fastest, easiest method to complete health tasks. 
+6. The MHV homepage tools reflect users’ top health care tasks. 
+7. The lack of visibility into VA medical bills can cause confusion and financial burden to Veterans and caregivers.
+8. The inability to delineate actions between users of a single MHV account causes friction and confusion.
 
+## Themes and Detailed Findings
+
+### Insight 1: Veterans have to navigate multiple health care systems, providers, and insurers to get the care they need.
+**Theme 1.1 Complex health care needs.**
+The Veteran population has unique and complex health care needs. 
+
+> I’ve been going through the independent living program. They are working on a few things for the house to make things easier. Grab bars for the shower. Because with my TBIs I get dizzy and pass out. – Veteran (P2-C)
+
+> I have to cancel meetings and cannot do stuff because my husband can’t find something he’ll have a seizure. – Caregiver (P1-C)
+
+> "If I wake up and something don't hurt I look for a pulse." – Veteran (P8-B)
+
+**Theme 1.2 Veterans value empathy and communication.** 
+In addition to getting quality health services, participants want to feel heard by their providers, and they want proactive and timely communication from the VA about their health needs. 
+
+> "Timely responses with secure messaging and just making sure medication is shipped on time are the two biggest things." – Caregiver (P1-C)
+
+> "Compassion would be one of them. Treating someone like a human being and being understanding." – Veteran (P7-C) 
+
+**Theme 1.3 Lack of timely, personalized care.**  
+Veterans and caregivers feel they have to manage their expectations about timeliness and receiving individualized attention because of the high turnover of providers and sheer volume of patients served by the VA. 
+
+> "I want to get better but I feel that in order to do that, I should be seen more than every 6 months." – Veteran (P5-C)
+
+> "Cynical as it may sound, I think it is better to go in with low expectations and be pleasantly surprised rather than expecting a golden parachute of health care." – Veteran (P11-A)
+
+> "I'd rather have two [providers] so I can be seen quick rather than trying to go through the process of going to another town to the VA and dealing with a lot of others than need to be seen as well." – Veteran (P12-A)
+
+> "I think the big takeaway of the VA system is that it is very dependent on which VA you go to." – Veteran (P10-C)  
+
+**Theme 1.4 Most participants had to seek care outside of the VA to meet their health needs.** 
+While some were referred out through the Community Care program for speciality services, others leveraged separate insurance to receive timely and personalized care from providers outside the VA. 
+
+Participant experience with non-VA health systems: 
+* 16 receive non-VA health care (includes community care)
+* 15 participants use other insurance (private/employer-based, Medicare/Medicaid, TRICARE)
+  * 10 participants: 1 additional type insurance
+  * 4 participants: 2 additional types of insurance
+  * 1 participant: 3 additional types of insurance
+
+> "Even with [community care] - I don’t know; when you were allowed to see outside providers – they still had to sign off on it. So I had to get an outside primary doctor just to have them refer me to go see an outside neurologist. I kind of went above their heads." – Veteran (P2-C)
+
+> "It started when our doctor, the really good one, he said you know you still have your Tricare and we both like lightbulb going off moment. We just started going out and it was easy." - Veteran + caregiver (P10-C)
+
+> "They publicly talk about going to who you want...but they said no you have to go off this list." – Veteran (P4-C)
+
+### Insight 2: The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits. 
+
+**Theme 2.1 Veterans are unaware of what benefits are available to them or how to apply.** 
+Many participants had to overcome shame in order to identify that they were deserving of VA benefits. 
+
+When participants enrolled in benefits:
+* 10 applied during retirement/discharge process
+* 8 applied no more than 5 years after retirement
+* 3 applied 16-21 years after retirement/discharge
+
+> “I wish when I’d gotten out of the military that my active duty station would have told me… I went over a decade not knowing.” – Veteran (P8-A)
+
+> "My husband is a Marine, always will be a Marine. With his training and what he was taught it was never talk about things. Issues like, you know, PTSD. You just keep moving. You keep going." - Caregiver (P6-C)
+
+> "Being healthy and coming out of the military I didn't want to be a drag on the country." - Veteran (P2-B)
+
+> "I didn't want other Vets to think I am scamming the system." - Veteran (P12-A)
+
+**Theme 2.2 Veterans have to rely on in-person services to access benefits.**
+Participants with cognitive impairments removed themselves from the process out of frustration.
+
+> “I tried doing it on my own initially, and it was a goat rope.” - Veteran who used VSO to apply for benefits (P11-A)
+
+> "When I finished my retirement physical I was humbled. They reminded me just how much it hurt and how much I couldn't do." - Veteran (P8-B)
+
+> "In the beginning I did a lot of it when I first got out. It was very frustrating so my wife got involved and that’s how she starting taking over and managing thing to get them taken care of."  - Veteran with cognitive impairment (P7-C)
+
+> "I was 40 percent connected. I never went back to update it for the other surgeries. I am just not ready to deal with. Everyone gets on me for doing that... I probably should because I am service connected so I can get care but I haven’t updated my disability rating to be compensated for it. I mean that was 2011, 2013 and I am still emotional about it." - Veteran (P12-C) 
+
+**Theme 2.3 Veterans are confused about the nuanced ways disability and health care eligibility differ.** 
+Participants generally understood that their disability rating determines the types and cost of health care they can get.
+
+> "If you have no disability at all, I don't think you can get care from the VA." – Veteran (P2-B)
+
+> "Yeah, I guess the more disability you have, the better health care you can get.” - Veteran (P2-C)
+
+**Theme 2.4 Veterans are concerned with documenting their service connected disabilities for fear of losing access to care.** 
+Veterans think of their health record as a crucial component of their disability benefits.
+
+> “I have had a lot of injuries but did not claim them because of different things. You are taught to suck it up and move on, you just move forwards. It hurts you when you get out because it is not documented.” – Veteran (P7-C)
+
+> “Even though I’m 100% P&T and the VA will treat me for anything, if it isn’t recognized as service connected and things go seriously sideways, there are other benefits that I wouldn’t be eligible for." – Veteran (P11-A)
+
+### Insight 3: Veterans and caregivers don’t go to VA.gov to do health tasks. 
+
+**Theme 3.1 Veterans continue to go to MHV and eBenefits because they are familiar and they have what Veterans need.** 
+Participants navigated directly to My HealtheVet to start their health tasks. 
+
+**Theme 3.2 Participants had difficulty with the fragmented experience between MHV, eBenefits, and VA.gov.** 
+The fragmented experience is inaccessible for Veterans with cognitive impairments. 
+
+**Theme 3.3 Participants struggled to complete health tasks whenever those tasks took them outside MHV.** 
+This included copay, travel pay, and scheduling appointments. 
 
 
 
