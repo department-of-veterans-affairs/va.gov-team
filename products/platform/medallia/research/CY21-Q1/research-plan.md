@@ -100,4 +100,4 @@ We are seeking to perform this test with 12 participants
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/CY21-Q1/conversation-guide.md)
-- Read-Out/Results
+- [Research Readout Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/CY21-Q1/MedalliaUserResearchReadout_Pt2.pdf)
