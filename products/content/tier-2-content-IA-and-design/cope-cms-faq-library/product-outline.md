@@ -4,6 +4,8 @@ _COPE (create once, publish everywhere)_
 
 This is a summary of what's needed to expand the FAQs COPE ability. I.e., enabling content editors to `pull from the FAQs COPE library to display q/a texts in other content products` like benefit hub pages, CLPs, and/or VAMC pages.
 
+Most (if not all) of the needed effort would be backend CMS effort.
+
 Reference Slack thread: https://dsva.slack.com/archives/C52CL1PKQ/p1616516472181800
 
 __Note:__ this is for expanding the pulling in ability, not the ability to create new q/a’s in the library. The ability to create new q/a's in the library is currently limited to RS content editors and we will keep it that way for 2021.
