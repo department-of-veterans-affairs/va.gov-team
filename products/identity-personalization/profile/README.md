@@ -33,7 +33,7 @@ Last Updated March 5, 2021
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
-- [Backend Systems that Support the Profile](#api-calls-and-dependent-systems)
+- [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
 - [Design](#design)
 - [Screenshots](#screenshots)
 
@@ -113,3 +113,7 @@ The profile is a section of VA.gov that houses multiple products/features. Below
 
 - [2018 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1/design)
 - [2020 Profile 2.0 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design)
+
+## Screenshots
+
+This is the latest version of the profile:
