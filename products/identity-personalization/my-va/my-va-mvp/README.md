@@ -1,4 +1,4 @@
-# My VA: 2018 Outline
+# My VA: 2018 MVP Outline
 ## Points of Contact
 - GitHub Label: dashboard
 - Slack channel: [#dragons-team](https://dsva.slack.com/channels/dragons-team)
