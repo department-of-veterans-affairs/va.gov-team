@@ -141,7 +141,7 @@ We are seeking to perform this test with 15 participants, 10 on desktop and 5 on
 *   **Moderator:** Ian McCullough (ian.mccullough@oddball.io, 330-842-3427)
 *   **Research guide writing and task development:** Ian McCullough (ian.mccullough@oddball.io)
 *   **Participant recruiting & screening:** Perigean
-*   **Project point of contact:** Ian McCullough (ian.mccullough@oddball.io, 330-842-3427)
+*   **Project points of contact:** Ian McCullough (ian.mccullough@oddball.io, 330-842-3427), Chante Lantos-Swett  ([chante.lantosswett@va.gov](mailto:chante.lantosswett@va.gov))
 *   **Participant(s) for pilot test:** Jason Woodman, Stan Moran, Chante Lantos-Swett
 *   **Note-takers:** Potentially any of the following, depending on availability
     *   Ervin Peterson ([epearson@thesocompany.com](mailto:epearson@thesocompany.com))
@@ -153,4 +153,4 @@ We are seeking to perform this test with 15 participants, 10 on desktop and 5 on
     *   Kimberly Daniels
     *   Steven Tarlow
     *   Jason Woodman
-    *   Chante Lantos-Swett  ([chante.lantosswett@va.gov](mailto:chante.lantosswett@va.gov))
+    *   Chante Lantos-Swett
