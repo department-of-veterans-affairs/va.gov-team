@@ -144,4 +144,25 @@ Yes, I meet all of the eligibility criteria  and want to apply for this benefit 
  
 ## Confirmation page
 
-Thanks, we have your application.  Content to come.  
+## Form Title: Apply for the Veterans Rapid Retraining Assistance Program
+
+#### We've received your application 
+
+We usually process claims within **30 days.**
+We may contact you if we need more information or documents.
+
+{ blue box }
+
+Veterans Rapid Retraining Assistance Program
+
+for { Fname Lname }
+
+Confirmation number
+{ confirmation number }
+
+Date received
+{ Mon. NN, YYYY }
+
+{ end blue box }
+
+[Go back to VA.gov]() { button }
