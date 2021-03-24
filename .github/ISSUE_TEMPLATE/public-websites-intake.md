@@ -1,9 +1,10 @@
 ---
-name: Public Websites Intake Form
-about: To file requests with the VSA Public Websites and Sitewide Content Team
+name: Public Website Intake Form
+about: To file request with the VSA Public Websites/Sitewide Content Teams
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming
-assignees: Sitewide Content: @RLHecht, Public Websites: @brianalloyd
+assignees: Public Websites, Sitewide content
+
 ---
 
 ## Why you're here 
