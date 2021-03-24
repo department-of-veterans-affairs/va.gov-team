@@ -1,9 +1,9 @@
 ---
-name: Public Websites Intake Form
-about: To file requests with the VSA Public Websites team (including content and engineering support)
+name: Public Websites + Sitewide Content Intake Form
+about: To file requests with the VSA Public Websites (engineering support) and Sitewide Content Team (content support)
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming, Epic
-assignees: <@RLHecht, @brianalloyd
+assignees: Sitewide Content: <@RLHecht, Public Websites: @brianalloyd
 ---
 
 ## Why you're here 
@@ -13,17 +13,26 @@ assignees: <@RLHecht, @brianalloyd
 - Apps or tools
 - Other writing or editing requests
 
+**Note: These requests are handled by the Sitewide Content Team.** 
+
 ### Engineering support for:
 - Redirects that have **first been vetted by the VSP IA team**
 - REACT sign-in widgets or feature flags (flipper)
 - Other engineering support
+
+**Note: These requests are handled by the Public Website Team.** 
 
 **Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
 
 ## How to submit your request
 
 - [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.
-- [ ] Post a link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @RLHecht and @brianalloyd. If your request includes engineering support, also tag @ncksllvn and @kelsonic.
+- [ ] Determine if this request is for:
+     - [ ] Content Only      
+     - [ ] Public Website Engineering Support      
+     - [ ] Both (Content + PW Eng Spt)
+- [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.   
+- [ ] Post a link to this issue in the appropriate channel: For Engineering only requests: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites), and in slack tag @brianalloyd, @ncksllvn and @kelsonic. Content only support: [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) in Slack, tag @RLHecht.  In situations where both are needed post to Public Websites and in Slack tag @brianalloyd, @ncksllvn, @kelsonic and @RLHecht for awareness.  
 - [ ] If noted in the guidance below, please schedule any relevant meetings.
 
 ### When to submit your request
