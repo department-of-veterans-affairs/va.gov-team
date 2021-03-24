@@ -7,4 +7,5 @@ Given that there are two different backends for direct deposit — one for direc
 - **Disability benefits**: Uses direct deposit for disability and compensation benefits.
 - **Pension benefits**: Uses direct deposit for disability and compensation benefits.
 - **Most education benefits**: Uses direct deposit for edu benefits.
-- **STEM (education) benefits**: This is an outlier that uses direct deposit for disability and compensation benefits despite being an education benefit.
+- **STEM (education) benefits**: This is an outlier that uses direct deposit for disability and compensation benefits despite being an education benefit. This was confirmed by Joseph Preisser of VBA via email on 3.24.21.
+- **VETTEC (education) benefits**: This is another outlier that uses direct deposit for disability and compensation benefits despite being an education benefit. This was confirmed by Joseph Preisser of VBA via email on 3.24.21.
