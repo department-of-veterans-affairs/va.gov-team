@@ -6,17 +6,22 @@ Researcher: Emily Mann | emily.mann1@va.gov
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO%20health%20research%20report%2022%20Mar%202021.pdf)
 
+Jump to: 
+* [Insights at a glance](#insights-at-a-glance)
+* [Themes and detailed findings](#themes-and-detailed-findings)
+* [Opportunities](#opportunities)
+
 ## Background
 
 Digital Health Modernization (DHM) builds on our [2017 Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) to consolidate digital benefit management tools in a single place — VA.gov — and to design those tools with users.
 
 Several developments, including the introduction of Community Care through the MISSION Act and VA’s transition to the Cerner electronic health record (EHR), have created a health-specific aim: to ensure VA’s patient portal is EHR agnostic and interoperable with outside providers while creating a consistent user experience that serves Veteran’s needs. 
 
-With the goal of migrating the My HealtheVet (MHV) patient portal to VA.gov, our team was tasked with conducting generative research to inform our product strategy and roadmap. 
+Our team was tasked with conducting generative research to inform our product strategy and roadmap. 
 
 ## Research Questions and Methodology
 
-Our objective was to understand how Veterans and caregivers think about and experience VA health care and the My HealtheVet patient portal in the context of other VA benefits and non-VA health care systems. 
+Our objective was to understand how Veterans and caregivers think about and experience VA health care. We situated the research in the context of the My HealtheVet patient portal, other VA benefits, and non-VA health care systems. 
 
 #### Research Questions
 
@@ -148,7 +153,7 @@ During synthesis, we noticed meaningful segmentation based on:
 7. The lack of visibility into VA medical bills can cause confusion and financial burden to Veterans and caregivers.
 8. The inability to delineate actions between users of a single MHV account causes friction and confusion.
 
-## Themes and Detailed Findings
+## Themes and detailed findings
 
 ### Insight 1: Veterans have to navigate multiple health care systems, providers, and insurers to get the care they need.
 **Theme 1.1 Complex health care needs.**
