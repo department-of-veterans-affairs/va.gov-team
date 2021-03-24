@@ -56,42 +56,58 @@ This is the personal information we have on file for you.
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
 
-#### Direct deposit information { reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+
 
 { If bank account is on file }
 
+#### Direct deposit information { grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+
 This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
 
-**Payment information**
+{ blue sidebar }
 
 **Checking Account** { prefill if present } 
 
-* Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
-* Account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank routing number: ∙∙∙∙∙0000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank account number: ∙∙∙∙∙∙∙∙0000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank name: { prefill if present }
 
-[ Update Account ] { button }
+{ end blue sidebar }
 
-{ Success alert for users who click Update Account, make any changes, then click Save }
+[ Update account information ] { button }
 
-Thank you for providing your direct deposit information. **This new account won’t be updated right away.** We'll deposit your housing stipend into this account if your VET TEC application is approved.
+{ Success alert for users who click Update account information, make any changes, then click Save }
+
+Thank you for providing your direct deposit information. **This new account won’t be updated right away.** We'll deposit your housing stipend into this account if your application is approved.
 
 { End alert message } 
 
 { End if bank account on file }
 
+
 { Else (no bank account on file) }
 
-We don’t have your bank information on file. Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
+{ grey direct deposit card }
 
-**Update bank account**
-* Account type { pre-fill: radio, Checking, Savings }
-*	Bank routing number (9 digits at the lower left of your check). { text field, prefill if present. }
-*	Account number { text field, prefill if present. }
+#### Direct deposit information
+
+We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
+
+* Account type (* Required) { radio, Checking, Savings }
+
+{ bank check visual }
+
+* Bank name { text field, prefill if present. }
+*	Bank routing number (No more than 9 digits) (* Required) { text field, prefill if present. }
+*	Bank account number (No more than 17 digits) (* Required) { text field, prefill if present. }
 
 [ Save ] { button }
 
+{ End grey direct deposit card }
 
-**Note:** Any updates you make here to your bank account information will apply to your other Veteran benefits, including compensation, pension, and education. Updates here won’t change accounts on file for your VA health benefits.
+I don't want to use direct deposit { checkbox, if selected grey direct deposit card disappears. }
+
+**Note:** Any updates you make here will change your ank account information for some VA benefits, including {affected benefits }. These updates won't change your bank account information for {non-affected benefits }.
 
 { help-link } What if I don’t have a bank account?  { end help-link }
 
