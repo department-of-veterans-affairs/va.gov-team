@@ -78,7 +78,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - How would you describe that experience?
           - What did you like about it?
           - What did you not like about it?
-    - Have you ever filed a request for Beneficiary Travel Mileage through the kiosk? _Show them screens of the Beneficiary Travel Mileage experience.+
+    - Have you ever filed a request for Beneficiary Travel Mileage through the kiosk? _Show them screens of the Beneficiary Travel Mileage experience._
       - If yes,
         - How would you describe that experience?
           - What did you like about it?
