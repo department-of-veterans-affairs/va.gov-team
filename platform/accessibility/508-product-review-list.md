@@ -900,6 +900,11 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
 
 **Open issues**
+[Accessibility bug in the Contact facilities Page within the cheetah MVP flow - #21842](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21842)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+[Accessibility bug at the Details link when the homepage refresh flag is on - #21888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21888)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [VoiceOver reads out loud Choose an appointment type when traversing text items in reverse in the cheetah MVP flow - #21871](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21871)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [Accessibility bug in the alert message in the Choose a location page within the cheetah MVP flow - #21867](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21867)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [Accessibility bug at the appointment details page - #21892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21892)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION]: VAOS Appointment Tabs - CONSIDER adding SR-only text to the visual tab labels - #11470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11470)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 Back to [Table of Contents](#table-of-contents)
@@ -964,7 +969,8 @@ Back to [Table of Contents](#table-of-contents)
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-- [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+- [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [Undo temporary fix after axe-core package is updated. - #21878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21878)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-4 - **Trivial**_ 
 
 Back to [Table of Contents](#table-of-contents)
 
