@@ -1,5 +1,3 @@
-Work in progress :/ 
-
 # Digital Health Modernization: Generative Research Study 1 Findings
 
 Researcher: Emily Mann | emily.mann1@va.gov
@@ -249,6 +247,165 @@ The fragmented experience is inaccessible for Veterans with cognitive impairment
 
 **Theme 3.3 Participants struggled to complete health tasks whenever those tasks took them outside MHV.** 
 This included copay, travel pay, and scheduling appointments. 
+
+### Insight 4: The secure sign-in partner options on MHV are not utilized or understood by users.
+
+**Theme 4.1 Because participants did not use the secure sign-in option, they experienced issues when they navigated between VA sites.**
+This option was not familiar, visually prominant, or well understood by Veterans. 
+
+> “I always just go with the one that says My HealtheVet. It is easier for me to get to it that way.” – Veteran (P5-C)
+
+> “Why would I use DS Logon if I have the MHV option?” – Veteran (P11-A)
+
+**Theme 4.2 Participants were confused and frustrated by having multiple ways to authenticate for each site.** 
+This fragmented experience is inaccessible to Veterans with cognitive impairments. 
+
+> “He knows if he needs help logging in I am usually here.” – Caregiver (P11-C)
+
+> “I think his phone finally saved his password. For a long time he couldn’t get on because he couldn’t remember the password or where to find the password.” – Caregiver (P9-C)
+
+**Theme 4.3 Participants felt their MHV account was secure.**
+Most participants cited security when rating their trust in MHV. 
+
+> “I trust it completely.” - Veteran (P9-A)
+
+> "I have never had a question of security." - Veteran (P8-B)
+
+### Insight 5: Veterans trust the My HealtheVet brand because it offers the fastest, easiest method to complete health tasks. 
+
+**Theme 5.1 My HealtheVet has high name recognition, satisfaction, and trust among Veterans and caregivers.** 
+Participants found My HealtheVet easy to use and secure. 
+
+> “Your 1-stop shop for everything health care related, once you have your disability rating.” – Veteran (P11-A)
+
+* Participants navigated to the patient portal by searching for some version of “My HealtheVet” or had the page saved on their device. 
+* Participants rated their satisfaction in MHV 4.6 / 5 on average.
+* Participants rated their trust in MHV 4.5 / 5 trust on average.
+
+**Theme 5.2 Veterans prefer My HealtheVet to phone or in-person alternatives at the VA.**
+When rating their satisfaction and trust, participants described MHV in contrast to their other interactions for VA health care. 
+
+> “That is the easiest way to get ahold of them. Otherwise you are sitting on hold from 45 minutes to an hour trying to transfer through the systems.” – Caregiver (P9-C)
+
+> “It is easier and more versatile than to get on a call to ask questions or schedule.” – Caregiver (P11-C)
+
+> “Quicker to do what you need to do. I don't need to be frustrated by talking to the doctor before I can get [medication]. I can just go onto MHV, select the meds I need to refill and it is mailed to me." – Veteran (P5-C)
+
+### Insight 6: The MHV homepage tools reflect users’ top health care tasks. 
+
+**Theme 6.1 Overwhelmingly, participants used and valued MHV for its 4 tools featured on the homepage banner.** 
+Pharmacy, Appointments, Messaging, and Health Records tools were the most valuable.
+
+> "Really what I use it for are the 4 big boxes." – Veteran (P9-A)
+
+**Theme 6.2 Participants do not use or find value in self-entered data or resources.** 
+Veterans and caregivers felt the transactional tasks were captured on the homepage, and did not explore additional resources.
+
+> “The little blue blocks pretty much categorize every need that you would request from the VA.”– Veteran (P8-A)
+
+> “You are supposed to fill in where you saw the VA. Which VAs you are going to. I don’t know why I would do that.” – Veteran (P10-C) referring to self-entered Treatment Facilities 
+
+**Theme 6.3 Participants felt MHV offered the same or more functionality than other patient portals they had used.** 
+Notable features from other patient portals included billing, notifications, calendar integrations, and interoperability with multiple health care systems. 
+
+> "Hers [patient portaal] only shows shots and appointments, mine is more involved." - Veteran (P3-A) referring to the differences between MHV and other patient portals
+
+> MyChart is little more front view friendly. You can login to multiple organizations. So like right now he goes through 3 hospitals systems, and they all have their own logins. But it gives me an alert and if an appointment pops up I can pull it straight from the app into our calendar." - Caregiver (P9-C)
+
+### Insight 7: The lack of visibility into VA medical bills can cause confusion and financial burden to Veterans and caregivers.
+
+**Theme 7.1 Participants rely on their outside health insurance providers and hard copy VA medical bills to decipher their VA health finances.** 
+My HealtheVet does not provide visibility, functionality, or pathways to complete tasks for medical bills. 
+
+> “If I lost the letter, I’d be totally lost.”– Veteran (P8-A) referring to a VA medical bill.
+
+> “The one thing that is not on [MHV] is on my [health insurance] website, it shows me when a bill has been submitted and the allowed amount and what the insurance has paid as well as how much I need to pay. This site [MHV] does not show dollar amounts for exams here.” – Veteran (P9-A)
+
+> “I can’t submit this to my FSA because it doesn’t send me an itemized [bill]... I just get these strange letters from the VA.” – Veteran (P10-B)
+
+### Insight 8: The inability to delineate actions between users of a single MHV account causes friction and confusion.
+
+**Theme 8.1 Caregivers have developed workarounds to effectively manage health needs when sharing one MHV account with their Veteran spouse or child.**
+Some providers were uncomfortable communicating with the caregiver through secure messaging on the Veteran’s account. 
+
+>“If there is a way to create a separate login with the same permissions without making you feel like you’re the parent logging into the kid’s computer. That’s sometimes how I feel.” – Caregiver (P1-C) 
+
+> “I have to talk to my doctors, they won’t really talk to [my caregiver] I guess. That part falls on me.” – Veteran (P2-C)
+
+> “It is a struggle to get somebody to listen to you. The doctor sees them once every 6 months. I see him every day. I have a unique perspective they don’t have. I am not saying I know more than then but I do and its from a non-clinician aspect.” – Caregiver (P11-C)
+
+## Opportunities
+All opportunities map back to the corresponding insight number. 
+
+### Opportunity 1: Make the patient portal experience the constant in an otherwise varied health landscape.
+Veterans should have access to their health information online, shown in a holistic, simple, and actionable way.
+
+**Design Principles:** 
+* **Accessibility is core to all design decisions.** Everyone should be able to use any tool or application regardless of features or complexity.
+
+* **Write content with an empathetic tone.** We talk person-to-person with our customers, and use language that puts the person first, not the disability, condition, age, gender, or race.
+
+* **Communicate proactively.** Use effective channels all Veterans can access to share health information or events.
+
+### Opportunity 2: Integrate siloed workflows so that Veterans can more easily obtain, access, and maximize their benefits. 
+Design IA and content in a way that clearly shows the relationship between health care and disability and helps Veterans make decisions.
+
+**What we are doing:** 
+* **Leveraging the authenticated account experience.** [My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) directs users to the updates and information they need. 
+
+### Opportunity 3: Create a clear path between websites for health tasks. 
+Veterans should be taken directly to the information and tools they need, especially when tasks are distributed across multiple websites. 
+
+**What we are doing:**
+* **Streamlining health workflows on VA.gov.**
+Improving the information architecture on health pages to solve discoverability issues and streamline health workflows. 
+
+**Developing the VA flagship app.**
+Integrating health and benefits tools and information as one consistent experience. 
+
+### Opportunity 4: Give Veterans a consistent, consolidated sign-in experience for all VA digital services. 
+Veterans should not have to manage multiple credentials and websites to manage their benefits. 
+
+**What we are doing:** 
+* Working across OCC, VBA, VHA, and others as the Identity Working Group to implement identity vision. 
+* Fixing single sign-on between MHV and VA.gov so Veterans and caregivers can do key tasks easily, starting from either website. 
+* Coordinating memo from VHA leadership.
+* Getting feedback on proposed identity roadmap (presented 3/18/21). 
+* [Doing stakeholder research with MHV coordinators, contact center, and help desk.](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/296)
+
+### Opportunity 5 & 6: Veteran health outcomes should always be the north star. 
+We must help Veterans navigate the fragmented health landscape as we reimagine a future patient experience.
+
+**What we are doing:** 
+* **Consolidating the sign-in experience across VA websites.** 
+ * Fixing single sign-on between MHV and VA.gov so Veterans and caregivers can do key tasks easily, starting from either website. 
+ * Working across OCC, VBA, VHA, and others as the Identity Working Group to implement identity vision.
+* **Streamlining health workflows on VA.gov.** Improving the information architecture on health pages to solve discoverability issues and streamline health workflows. 
+* **Collaborating across teams.** Building the digital health modernization vision and roadmap as a combined OCTO-OCC-MHV team.
+
+### Opportunity 7: Money matters should not be separate from health tasks. 
+Veterans should be able to see financial information in context with their VA health services. 
+
+**What we are doing:** 
+* **Add medical copayments to VA.gov debt portal.** 
+It’s officially on VA.gov roadmap. 
+
+**What we could do in the future:**
+* **Connect health tasks through notifications.** 
+Leverage VA.gov’s platform to design usable and useful notifications.
+
+### Opportunity 8: Make user delegation simple. 
+Find ways to make it easier for caregivers to manage Veterans’ health. 
+
+**What we are doing:** 
+* **Defining user role for dependents in Master Person Index (MPI).**
+Making it easy to identify dependents in MPI (part of the Dependent Benefits Letter work). 
+* **Updating Terms of Service.**
+Working with Legal to change Terms of Service so we can stop closing accounts for non-malicious account-sharing.
+
+**What we could do in the future:** 
+* **Simplify delegation tools to increase adoption.**
+Conduct service design research to do this.
 
 
 
