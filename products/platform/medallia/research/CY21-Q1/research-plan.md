@@ -44,7 +44,7 @@ We are seeking to perform this test with 12 participants
 **Must have for participants**
 
 - Users who have visited VA.gov previously
-- We are seeking to peform this usability test with 5 mobile participants. Therefore, five participants who answer *yes* to:
+- We are seeking to perform this usability test with 5 mobile participants. Therefore, five participants who answer *yes* to:
   - Do you prefer to use your mobile device when visiting VA.gov?
   - *Note: if this is too strict of a qualifier, we can ask "Have you visited VA.gov on your mobile device previously?"*
 
