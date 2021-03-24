@@ -3,7 +3,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.635 seconds.
+Conversion time: 0.709 seconds.
 
 
 Using this Markdown file:
@@ -16,167 +16,169 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Wed Mar 24 2021 12:15:20 GMT-0700 (PDT)
-* Source doc: Research Plan - Customer Support Slack Workflow
+* Wed Mar 24 2021 12:17:22 GMT-0700 (PDT)
+* Source doc: Convo Guide - Customer Support Slack Workflow
 ----->
 
 
 
-# Research Plan for Customer Support Slack Workflow
-
-Service Design
-
-March 2021
+# Conversation Guide for Customer Support Slack Workflow
 
 
-## Goals	
+## Moderator logistics
+
+_Use [#vsp-research](https://dsva.slack.com/archives/C013Y167YTB) in Slack for real-time feedback from observers._
+
+_Before the session, send out the observer instructions to your observers_
+
+_In the Attendees section, make sure everyone except the participant is on mute_
+
+_In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked_
+
+_Check your screensharing setup_
+
+_When the participant is ready, begin the session with the following intro_
+
+
+### Project-specific setup
+
+- [ ] Step 1 (We will will need either two Slack channels or one channel with both workflows)
+
+- [ ] Step 2
+
+
+## Intro - 5 minutes
+
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Platform . 
+
+Before we start, a few things I want to mention:
 
 
 
-1. What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. \
+*   **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+*   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet VFS team’s needs/Platform team’s need. I will not be offended by any opinions you express, and I welcome your feedback.
+*   **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will have any permanent effects.
+*   **If for any reason and at any time you want to stop the session, please let me know.**
+*   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    *   If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
+_Start recording._
 
-     \
-The customer support Slack workflow serves a couple of purposes  \
-1) create a single destination for VFS teams to go for questions and requests of Platform  \
-2) make requests/questions for Platform folks that are on-call more clear  \
-3) allow for reporting of customer support requests
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-*   What are some things that VFS team members reach out for help from Platform support?
-*   If prompted, can VFS team members find the customer support shortcut in Slack? 
-*   Does the workflow form that VFS team members complete match their expectations of getting help?
-*   What is their expectation of what will happen after completing the form?
-*   Does the workflow form make it easier for Platform to respond to requests? 
-*   Is there any information we can provide to make the Platform response more efficient? 
+
+*   **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?** 
+
+
+## Warm-up Questions - 5 minutes
+
+Before we look at the prototype, let’s start with a few background questions.
+
+
+
+*   What team are you on?
+*   What is your role on the team?
+*   How long have you been working on this project?
+*   If you need help on something you are working on, where do you typically get support or your questions answered?  
+*   What has your experience been like with Platform? 
+*   What kind of questions do you typically ask on #vfs-platform-support?
+*   Can you tell me a little bit about your experience with #vfs-platform-support channel in Slack? 
+*   Tell me about a time where you could not get your question answered by Platform? 
+*   When else do you do you seek support from #vfs-platform-support? 
+*   Do you ask for support in any Slack channels? 
+    *   If yes, which ones? 
+
+Great. Thank you for sharing those thoughts with us. It’s really important as we continue to improve services. 
+
+
+## First Task: [Locate customer support shortcut in Slack ] - 5 minutes
+
+We put together a prototype that we would love to get your feedback on. Let's say there is a way to get platform support by submitting a form through Slack by selecting the lightning bolt icon, can you show me how you would do that? 
+
+- Instruct participants to open Slack, navigate to test channel, and share screen
+
+
+### Things to watch for:
+
+
+
+*   [Can the participant find the appropriate form within the list of shortcuts?]
+*   [Anything particularly confusing for them?]
+
+
+## Second Task: [Submitting a form through the Slackflow] - 5 minutes
+
+
+
+*   You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like to get assistance from Platform. Go ahead and show us what you would do to that. 
+
+
+### Things to watch for:
+
+
+
+*   [Does the participant understand the _I need help with_ options?]
+*   [Can participants locate the appropriate option?]
+*   [Which fields does the participant complete?]
+*   Any hiccups? Do they know all the information?
+*   Any fields trip them up?
+
+
+### Followup questions:
+
+
+
+*   What do you think of completing this form?
+*   What was the hardest part of completing the form? Were there any areas you felt were unclear?
+*   What worked well?
+*   Would you feel comfortable asking for support with this form? Why? 
 
  
 
 
-     \
-4. Hypothesis: What is your hypothesis for this research?
+## Third Task: [Submitting a form through the Slackflow - Alternative option] - 5 minutes
 
 
-    -  We hypothesize that option 1 (topics) will align with the majority of use cases and result in faster help for Platform support staff.
 
+*   You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like get assistance from Platform. Go ahead and show us what you would do to that. 
 
-    - The length of _I need help with_ dropdown will be difficult to scan and make the appropriate selection for VFS team members. 
 
- 	
+### Things to watch for:
 
 
-## Method	
 
+*   [Does the participant understand the _I need help with_ options?]
+*   [Can participants locate the appropriate option?]
+*   [Which fields does the participant complete?]
+*   Any hiccups? Do they know all the information?
+*   Any fields trip them up?
 
 
-1. What method of research are you planning? 	
+### Followup questions:
 
-    We will be conducting directed interviews and usability testing with high-fidelity prototypes. They will be moderated remotely.
 
 
-    2. Why this method? How does this methodology help you answer your research questions? 	
+*   What do you think of completing this form?
+*   Were there any areas you felt were unclear?
+*   Anything that worked well?
+*   
 
 
-    We have 2 solutions we want to test to see which aligns with the type of help VFS team members might need and makes Platform support more efficient.  A short interview will allow us to gather types of inquiries people might have when seeking support. Then, conducting a short usability testing will allow us to test the task of getting help from the Platform with some of the scenarios mentioned in the interview. Each participant will see both option 1 and option 2. Followed by a debrief session. We will alternate between which options participants see first. 
+## Post-Task Interview - 5 minutes
 
 
-    3. Where are you planning to do your research? 
 
+*   What did you think of the overall experience in completing this form?
+*   Was there one option that worked better for you? Why? 
+*   Any questions for me? 
 
-    Research will be conducted remotely via Zoom and recorded. 
 
+## Thank-You and Closing - 5 minutes
 
-    4. What will you be testing? 	
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on our tools and make sure it really works for VFS teams.
 
+Thanks! Lastly, is there anyone else you think we should talk to about this? 
 
-    We will be testing 2 sample forms built-in Slack to help inform the choice between the 2 options.  
+If Yes: Thank you! I will reach out to them.
 
+Have a great rest of your day!
 
-
-## Participants and Recruitment	
-
-
-
-1. Participant criteria: What are you looking for in a participant?	 \
-(Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
-*   10 - 12 VFS participants
-    *   4 BE Engineers
-    *   4 FE Engineers
-    *   2 PMs
-    *   2 Designers
-*   7 VSP support staff
-    *   4 Utility Dev (Engineers)
-    *   1 Analytics
-    *   1 Content Support
-    *   1 IA Support
-2. What is your recruitment strategy? 	 \
-(Usually, it is a Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
-We’ll reach out in Slack directly to participants. Will consider [past participation with studies](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416).
-
-
-## When? 	
-
-
-
-1. Timeline: What dates do you plan to do research? 	 \
-(Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 
-
-    The research will be conducted between April 5 - 16. 
-
-2. Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-
-    March  28th  \
-
-
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, &lt; 1 hour, up to 2 hours, up to 4 hours) 
-
-    30 minutes  \
-
-
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 \
-
-5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-
-
-## Team Roles	
-
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
-
-Moderator:	
-
-
-
-*   Research guide writing and task development (usually but not always same as moderator): Naomi Marcussen, Jonathan Nelson 
-*   Participant recruiting & screening: Jonathan  (VFS) & Naomi (VSP) Calendly?
-*   Project point of contact: Jonathan 
-*   Participant(s) for pilot test: TBD
-*   Note-takers: Naomi and Rebekah
-*   Observers: James Chasia, Michael Manalo, Rebekah Hickey, Naomi
-
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
-
-
-## Resources	
-
-Project Brief 	
-
-_Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here_ \
-
-
-Convo Guide
-
-_Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here_
-
-Synthesis	
-
-_Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)_
-
-Lessons Learned	
-
-_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ \
-
-
-Read-Out/Results	
-
-_Read-out presentation should live in the appropriate product repo and folder; paste a link to it here._
