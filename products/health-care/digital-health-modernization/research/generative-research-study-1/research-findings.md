@@ -13,13 +13,13 @@ Jump to:
 
 ## Background
 
-Digital Health Modernization (DHM) builds on our [2017 Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) to consolidate digital benefit management tools in a single place — VA.gov — and to design those tools with users.
+Digital Health Modernization (DHM) builds on our [2017 Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) to have a single digital front door — VA.gov — for all VA self-service tools and to design those tools with users.
 
 Several developments, including the introduction of Community Care through the MISSION Act and VA’s transition to the Cerner electronic health record (EHR), have created a health-specific aim: to ensure VA’s patient portal is EHR agnostic and interoperable with outside providers while creating a consistent user experience that serves Veteran’s needs. 
 
 Our team was tasked with conducting generative research to inform our product strategy and roadmap. 
 
-## Research Questions and Methodology
+## Research setup
 
 Our objective was to understand how Veterans and caregivers think about and experience VA health care. We situated the research in the context of the My HealtheVet patient portal, other VA benefits, and non-VA health care systems. 
 
@@ -47,7 +47,7 @@ Tasks:
 * Update the dependents on your VA benefits
 * Update health care benefits
 
-## Recruitment
+### Recruitment
 
 For this generative study, participants were required to have applied for or currently be enrolled in VA health care. We then recruited based on 3 main criteria: 
 1. User role
@@ -61,7 +61,7 @@ During synthesis, we noticed meaningful segmentation based on:
 6. Participants identifying as having cognitive impairments (including TBI, PTSD)
 
 #### Who we talked to 
-23 total participants
+23 total participants. [Go to participant table.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/generative-research-study-1#participants)
 
 **User role**
 
