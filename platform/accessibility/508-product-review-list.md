@@ -98,7 +98,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VSP Automation](#vsp-automation)
       - [Nightwatch](#nightwatch)
       - [Nightwatch Silent Failures](#nightwatch-silent-failures)
-      - [Cypress](#cypress)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -1209,13 +1208,19 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-
----
-#### Cypress
-
-**Open issues**
-
-Back to [Table of Contents](#table-of-contents)
+- [[AXE-CORE]: LI elements must be contained in an UL or OL - #21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: VAMC - ARIA attributes must conform to valid values - #21786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21786)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: ID attribute value must be unique - #21788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21788)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: VAMC - Links must have discernible text - #21791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21791)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: Claims & Appeals - Progressbar must be updated for axe violation in Applications / Letters / Tests / 01 Authed E2e Spec - #21797](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21797)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: Public Websites - Progressbar must be updated for axe violation in Site / Tests / Home / 00 Required E2e Spec - #21799](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21799)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: Debt Resolution - axeCheck must be updated in Applications / Burials / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21801)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: BAH - axeCheck must be updated in Applications / Edu Benefits / Tests / Edu Apply Wizard E2e Spec or test converted to Cypress - #21803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21803)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: Claims & Appeals - axeCheck must be updated in Applications / Pensions / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21804](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21804)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[NIGHTWACH E2E]: Public Websites - axeCheck must be updated in Site / Tests / Home / 00 Required E2e Spec or test converted to Cypress - #21805](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21805)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AUTOMATION]: VSP Testing Tools Team - Review CMS preview env axe-core injection for potential timing issue - #21866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21866)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 
 ---
 
