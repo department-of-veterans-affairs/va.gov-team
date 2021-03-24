@@ -34,7 +34,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
 - 6 participants must have used the kiosk to check-in at least once.
 - At least 3 participants must have had a virtual appointment within the last 3 months.
 - At least 3 participants must have experience checking-in via a VA staff member.
-- At least 3 participants must have experience checking-in via a text message.
+- At least 1 participant must have experience checking-in via a text message.
 - 2 participated must be non-sighted users.
 
 ### Additional questions to ask in the screener
