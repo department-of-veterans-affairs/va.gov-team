@@ -30,10 +30,13 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [UI] Checkin Discovery Research | -- | # |
+| [FE] Download PDF | -- | # |
+| [FE] Accessability | -- | # |
+| [FE] Testing E2E | -- | # |
+| [BE] Create PDF | -- | # |
+| [BE] Production Keys | -- | # |
+| [Product] Collaboration checkpoints | -- | # |
 
 
 ## Sprint 43 - Sprint Theme
@@ -42,10 +45,10 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [UI] Wrap up discovery for Health Records | -- | # |
+| [FE] Bugs for UI | -- | # |
+| [FE] Lighthouse test cases | -- | # |
+| [BE]  Integration API to PGD | -- | # |
 
 
 ## Sprint 42 - Real Data via Lighhouse
