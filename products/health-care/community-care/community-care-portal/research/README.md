@@ -6,5 +6,5 @@ All research plans, conversation guides, and non PII / PHI documentation can liv
 
 [Conversation Guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) - Please copy this and create a new one for each study you are doing. 
 
-[Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) 
+[Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) - Please copy this and create a new one for each study you are doing. 
 
