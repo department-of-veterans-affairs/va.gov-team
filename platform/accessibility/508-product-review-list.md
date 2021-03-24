@@ -747,8 +747,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 [COGNITION] Videos should have captions and a link to transcript of - #21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020)<br/>
 **Opened:** March 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [SCREENREADER] Download (PDF) links need unique alt tags to differentiate between them - #21017](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21017)<br/>
-**Opened:** March 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -973,10 +971,8 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 [COGNITION]: Links MUST NOT rely on color - #18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION]: Find Form Results - Spanish content must include a lang="ES" attribute for proper pronunciation with assistive technology - #18434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [508-defect-2 [SCREENREADER]: Headings should be used semantically - 18429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18429)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION, SCREENREADER]: Lists SHOULD be announced as lists - 18415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18415)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [sitewide 508-defect-2 [COGNITION, SCREENREADER]: Pagination SHOULD use meaningful landmarks and aria techniques - 18398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18398)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [sitewide 508-defect-2 [COGNITION, SCREENREADER]: Heading should read as a single item - 18389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18389)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION]: Links SHOULD be styled as links - 18395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18395)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-3 - **Minor**_ 
 - [508-defect-4 [SCREENREADER]: Purely presentational content should not be announced to screen reader users - 18438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18438)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-4 - **Minor**_ 
 
