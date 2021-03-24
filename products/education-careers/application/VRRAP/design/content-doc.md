@@ -108,7 +108,7 @@ We make payments only through direct deposit, also called electronic funds trans
 
 I don't want to use direct deposit { checkbox, if selected grey direct deposit card disappears. }
 
-**Note:** Any updates you make here will change your ank account information for some VA benefits, including {affected benefits }. These updates won't change your bank account information for {non-affected benefits }.
+**Note:** Any updates you make here to your bank account information will apply to your other Veteran benefits, including compensation, pension, and education. Updates here will not change accounts on file for your VA health benefits.
 
 { help-link } What if I don’t have a bank account?  { end help-link }
 
