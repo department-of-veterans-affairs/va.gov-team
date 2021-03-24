@@ -23,7 +23,11 @@
 
 ## March 24 2021
 
-1. VAMC policies cutover 
+* Vet Center content model documentation
+* Type of care attributes and groupings (VAMC and Vet Center)
+* VAMC policies
+  * Centralized content GraphQL
+  * Cutover 
 
 
 ## ☘️ March 17 2021
