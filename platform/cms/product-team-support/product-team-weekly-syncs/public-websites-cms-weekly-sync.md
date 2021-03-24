@@ -35,13 +35,31 @@
 
 </details>
 
+## Wednesday, March 31
+
+CLP 
+ * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791)
+
 ## Wednesday, March 24
 
 CLP
  * VHA onboarding
+   * Jessica Austin Ashley (sp?) will get a quick overview tomorrow (3/25) from John and set on the date/time for user testing, hopefully early next week
+   * John will update us via Slack about timing. 
+   * We can start synthesis after that, about authoring experience or new features (email signup, reordering panels). To harden audience field or not. 
+   * Kev to create issues for next CMS sprint for 1) finish usability 2) synthesis 3) backlog of iterations. 
  * Request form
+   * Kevin will stub a ticket with some questions to request access 
+   * John will add form ACs, questions, intro text, thank you text.
+   * 
  * Video
+   * R&S vs CLP vs VAMC
+   * Will be part of a later investigation of videos more generally.
+   * Transcripts can be considered separately from this initiative, but this priority can be moved "upstream" to the moment videos get uploaded to Youtube (instead of letting Youtube speech recognition do its thing). Then CMS would inherit that. 
+ * Action links 
  * CX survey next steps
+   * Brian will have something to share next week. 
+   * CMS webform builder may lend itself to that purpose.  
 
 
 ## Wednesday, March 17 
