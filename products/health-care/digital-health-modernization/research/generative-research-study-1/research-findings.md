@@ -47,7 +47,7 @@ Tasks:
 * Update the dependents on your VA benefits
 * Update health care benefits
 
-### Recruitment
+#### Recruitment
 
 For this generative study, participants were required to have applied for or currently be enrolled in VA health care. We then recruited based on 3 main criteria: 
 1. User role
