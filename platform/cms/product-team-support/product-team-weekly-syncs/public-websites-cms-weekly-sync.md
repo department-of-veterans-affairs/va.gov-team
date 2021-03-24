@@ -38,10 +38,10 @@
 ## Wednesday, March 24
 
 CLP
- * CX survey next steps
  * VHA onboarding
  * Request form
  * Video
+ * CX survey next steps
 
 
 ## Wednesday, March 17 
