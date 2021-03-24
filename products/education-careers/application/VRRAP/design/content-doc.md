@@ -20,7 +20,7 @@ To be eligible for VRRAP, Veterans must:
 
 [ Continue ]() { button } 
 
-## Title of form
+## Form Title:  Apply for the Veterans Rapid Retraining Assistance Program (VRRAP)
 
 { if logged in, display info alert }
 
