@@ -33,7 +33,7 @@ March 2021
 
 
 
-1. What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. \
+1. What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. 
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
