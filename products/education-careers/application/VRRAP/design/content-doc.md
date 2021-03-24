@@ -138,6 +138,7 @@ To be eligible for VRRAP, Veterans must:
 
 Yes, I meet all of the eligibility criteria  and want to apply for this benefit { checkbox - use language from STEM or VET TEC for attestation }
 
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
 [ Submit form ]() { button } 
  
