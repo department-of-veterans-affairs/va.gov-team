@@ -117,12 +117,12 @@ _How will Veterans find this product? How will they know it exists?_
 # Implementation Info
 
 ## Status
-May, 2020: Kickoff with platform  
-Dec 1 2020: e2e integration Testing, scaffold form component  
-Jan 2021: Collaboration with VRE API Team, 
-Feb 2021: Frontend complete, testing Orientation
-March 2021: Finalize orientation content, collab cycle activities
-April 2021: UAT, Launch requested for April 19, 2021
+May, 2020: Kickoff with platform   
+Dec 1 2020: e2e integration Testing, scaffold form component   
+Jan 2021: Collaboration with VRE API Team,   
+Feb 2021: Frontend complete, testing Orientation  
+March 2021: Finalize orientation content, collab cycle activities  
+April 2021: UAT, Launch requested for April 19, 2021  
 
 ## Team
 - VA Executive Sponsor `*`: Jessica Bland, Alison Rosen
