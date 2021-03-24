@@ -146,6 +146,7 @@ Yes, I attest the statements above are true and accurate to the best of my knowl
 #### We've received your application 
 
 We usually process claims within **30 days.**
+
 We may contact you if we need more information or documents.
 
 { blue box }
