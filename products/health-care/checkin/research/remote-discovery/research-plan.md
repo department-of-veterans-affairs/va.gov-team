@@ -82,7 +82,7 @@ Pilot Session: Mar. 31, 2021 | 11 a.m. - Noon
 - Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Ming Ligh (ming.ligh@va.gov), Stephan Barrs (stephen.barrs@va.gov), Emily Mann (emann.usds.va@gmail.com), Martha Wilkes (martha.wilkes@va.gov), Meg Peters (meg.peters@va.gov), Leanna Miller (Leanna.usds@gmail.com), Bridget Hapner (bridget@adhocteam.us), Peter Russo (peter.russo@adhocteam.us), Ayush Chakravarty (ayush@adhocteam.us)
 
-Resources
-Project Outline
-Conversation Guide
-Research Findings
+### Resources
+- Project Outline
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/conversation-guide.md)
+- Research Findings
