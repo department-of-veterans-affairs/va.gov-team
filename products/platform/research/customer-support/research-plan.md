@@ -37,13 +37,15 @@ March 2021
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
-     \
-The customer support Slack workflow serves a couple of purposes  \
-1) create a single destination for VFS teams to go for questions and requests of Platform  \
-2) make requests/questions for Platform folks that are on-call more clear  \
+    
+The customer support Slack workflow serves a couple of purposes  
+
+1) create a single destination for VFS teams to go for questions and requests of Platform  
+2) make requests/questions for Platform folks that are on-call more clear  
 3) allow for reporting of customer support requests
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+
 *   What are some things that VFS team members reach out for help from Platform support?
 *   If prompted, can VFS team members find the customer support shortcut in Slack? 
 *   Does the workflow form that VFS team members complete match their expectations of getting help?
@@ -52,9 +54,6 @@ The customer support Slack workflow serves a couple of purposes  \
 *   Is there any information we can provide to make the Platform response more efficient? 
 
  
-
-
-     \
 4. Hypothesis: What is your hypothesis for this research?
 
 
@@ -67,7 +66,6 @@ The customer support Slack workflow serves a couple of purposes  \
 
 
 ## Method	
-
 
 
 1. What method of research are you planning? 	
@@ -98,8 +96,9 @@ The customer support Slack workflow serves a couple of purposes  \
 
 
 
-1. Participant criteria: What are you looking for in a participant?	 \
+1. Participant criteria: What are you looking for in a participant?	
 (Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
+
 *   10 - 12 VFS participants
     *   4 BE Engineers
     *   4 FE Engineers
@@ -110,31 +109,28 @@ The customer support Slack workflow serves a couple of purposes  \
     *   1 Analytics
     *   1 Content Support
     *   1 IA Support
-2. What is your recruitment strategy? 	 \
+    
+2. What is your recruitment strategy? 	
 (Usually, it is a Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
 We’ll reach out in Slack directly to participants. Will consider [past participation with studies](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416).
 
 
 ## When? 	
 
-
-
-1. Timeline: What dates do you plan to do research? 	 \
+1. Timeline: What dates do you plan to do research? 	
 (Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 
 
     The research will be conducted between April 5 - 16. 
 
 2. Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 
-    March  28th  \
-
+    March  28th 
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, &lt; 1 hour, up to 2 hours, up to 4 hours) 
 
-    30 minutes  \
+    30 minutes 
 
-
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 \
+4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
@@ -144,8 +140,6 @@ We’ll reach out in Slack directly to participants. Will consider [past partici
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
 
 Moderator:	
-
-
 
 *   Research guide writing and task development (usually but not always same as moderator): Naomi Marcussen, Jonathan Nelson 
 *   Participant recruiting & screening: Jonathan  (VFS) & Naomi (VSP) Calendly?
@@ -161,12 +155,12 @@ Moderator:
 
 Project Brief 	
 
-_Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here_ \
+_Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here_ 
 
 
 Convo Guide
 
-_Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here_
+_https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/customer-support/conversation-guide.md_
 
 Synthesis	
 
@@ -174,7 +168,7 @@ _Link to any documents used for synthesis (Mural or Realtimeboard boards, excel 
 
 Lessons Learned	
 
-_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ \
+_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ 
 
 
 Read-Out/Results	
