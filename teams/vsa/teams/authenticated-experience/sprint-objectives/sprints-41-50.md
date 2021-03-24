@@ -289,7 +289,23 @@ Design
 
 - Add email for when someone updates their contact information
 
+FE
+
+- 508-defect-2 [COGNITION]: H1 should match or be included in the page title #19552
+
 ### My VA redesign
+
+PM
+
+- If design/build is going to be done, we need to start getting everything ready for QA.
+
+Design
+
+- Final handoff to FE
+
+FE
+
+- Finish build?
 
 ### Direct deposit for edu
 
