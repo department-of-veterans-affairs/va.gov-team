@@ -144,7 +144,7 @@ April 2021: UAT, Launch requested for April 19, 2021
 - [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design)
 - [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md)
 - [Internal 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/508)
-- 
+
 ## NOTES
 
 Form 1900: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
