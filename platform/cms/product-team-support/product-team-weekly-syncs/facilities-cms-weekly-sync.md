@@ -21,14 +21,29 @@
 
 </details>
 
+## March 31
+
+Centralized content GraphQL
+
+
+VAMC policies 
+  * Cutover 
+
+
 ## March 24 2021
 
-* Vet Center content model documentation
-* Type of care attributes and groupings (VAMC and Vet Center)
 * VAMC policies
-  * Centralized content GraphQL
-  * Cutover 
-* Care we provide (CMS: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799))
+  * Centralized content GraphQL - 
+    * reverse lookup is not available for EFF fields.
+    * [Relevant slack thread](https://dsva.slack.com/archives/C0FQSS30V/p1615917736024200)
+    * Possible approaches: 
+      * Get all Entity Field Fetch (centralized/national) field content first in one query (maybe be OOTB or a custom query). This may be the most efficient means. Next step: CMS team (Swirt) to write query to get all field settings for EFF fields. Validate this approach with Nick S and Neil H.
+      * Would GraphQL 4 help? 
+      * ~Write a new graphql connector for EFF fields.~
+* [Vet Center content model documentation](https://app.mural.co/t/vagov6717/m/vagov6717/1614274642123/3509c33494d6dbc74e362cfe458dc5f2a517ec39)
+* Type of care attributes and groupings (VAMC and Vet Center)
+* Care we provide h3s (CMS: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799))
+  * Michelle to link this to a FE issue. 
 
 ## ☘️ March 17 2021
 
