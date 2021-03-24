@@ -126,17 +126,13 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 ### Confirm you're eligible for VRRAP
 
 { note - eligibility requirements to come from Education & needs to be refined w/ DEPO }
-To be eligible for VRRAP, Veterans must:
+To be eligible for VRRAP, the 3 following statements must be true:
 
-* Be between ages 22-66;
-* Be unemployed as a result of the COVID-19 pandemic;
-* Not be eligible for any federal GI Bill program (if eligible for the Post-9/11 GI Bill, they must have transferred their benefits to family members -- thereby having no GI Bill eligibility for themselves);
-* Not be VA rated as totally disabled due to unemployability;
-* Not be enrolled in any other federal or state employment programs;  
-* Not be in receipt of any unemployment or CARES Act benefits.
+* As of the date of this application, you are currently unemployed due to the COVID-19 pandemic.
+* You are not currently enrolled in a Federal or State jobs program, nor do you expect to be enrolled in such a program while training until VRRAP.
+* You will not receive unemployment compensation, including any cash benefit received pursuant to the CARES Act, while training under VRRAP.
 
-
-Yes, I meet all of the eligibility criteria  and want to apply for this benefit { checkbox - use language from STEM or VET TEC for attestation }
+Yes, I attest the statements above are true and accurate to the best of my knowledge and belief. { checkbox }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
