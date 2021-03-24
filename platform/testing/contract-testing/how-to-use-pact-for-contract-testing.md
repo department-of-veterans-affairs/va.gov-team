@@ -66,7 +66,7 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 
 ### Requirements
 
-**Effective date TBD**
+**Effective date: 04/01/2021**
 
 VFS teams are required to use Pact for contract testing in the following scenarios:
 
