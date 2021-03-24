@@ -1,1 +1,13 @@
-Notes
+# Notes
+- Missie Vaccaro is OK with the Lighthouse team getting rid of the duplicate records in their data source. 
+- 10091 - VHA at one time was randomly assigning numbers.  They had a 10-10091 form. _follow up note: That form seems to have since been removed_
+- Forms starting with 10- (VHA) forms are managed by a different forms manager. 
+- VA and a number or NCA to the best of Missie's knowledge are still valid.  She goes out to all her managers yearly and asks them to review their forms to ask if there are any to be removed or revised.  
+- Some of the forms managers have turned over so many times, a lot of the folks aren't clear on what they need to do.
+- If we want to provide some guidance on what would be good naming conventions, that will probably be helpful.
+- VA & NCA - Missie - NCA does have a publications control officer (Cynthia Harvey Pryor) who is very involved, but Missie creates new forms and make changes for them as needed
+- VHA/VBA - different forms managers (
+- Based on Missie's understanding about the ecosystem, VHA, VBA, VA/NCA are the three main groups
+- Nobody wants to take ownership of the web site and maintaining it.  She's always reached out to Kevin Reed to do it. 
+- They still have the old Internet site and the Intranet site, but nobody wants to take ownership of that.
+- Question from John - should we shut down the old Internet site? 
