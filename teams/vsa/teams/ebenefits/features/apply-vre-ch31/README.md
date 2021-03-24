@@ -72,29 +72,29 @@ As a Veteran or Servicemember I need to understand and apply for CH31 benefits.
 
 ## Solution Approach
 
-- Translate form to VA.gov, prefill logged in user info, submit to Central Mail. Current EBN functionality involves clicking a single button. 
+- Translate form to VA.gov, prefill logged in user info, submit to VBMS and integrate with their new VRE API + system.  
+- Incorporate new orientation content for better qualify applicants.  
 
 ## Value Propositions
-
 ### User Value
-
 I can apply for CH31 benefits quickly and without mailing in a form or visiting a RO.
 
 ### Business Value
-
 1. Sunset EBN
 2. Increase CH31 applications
 
 ### KPIs
-
 - Conversion rate
   - % of people who make it from application completion to first counseling interview
+- Time to complete
+-   - N amount of time to get through the form beofre either submission or abandonment
 
 #### Baseline KPIs
-
+TBD
 
 ### OKRs
-
+1. Improve abandonment/conversion rate
+2. Improve time to complete
 
 --
 ## Go-to-Market
@@ -117,15 +117,18 @@ _How will Veterans find this product? How will they know it exists?_
 # Implementation Info
 
 ## Status
-
-May, 2020: Kickoff with platform
-Dec 1 2020: e2e integration Testing
+May, 2020: Kickoff with platform  
+Dec 1 2020: e2e integration Testing, scaffold form component  
+Jan 2021: Collaboration with VRE API Team, 
+Feb 2021: Frontend complete, testing Orientation
+March 2021: Finalize orientation content, collab cycle activities
+April 2021: UAT, Launch requested for April 19, 2021
 
 ## Team
 - VA Executive Sponsor `*`: Jessica Bland, Alison Rosen
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`: 
-- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov  
+- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov, **Matt Self** - matt.self@va.gov. **Sabrina Mohamed** - sabrina.mohamed@va.gov  
 - Product Manager: **Jason Wolf** - jwolf@governmentcio.com
 - Designer: **James Adams** - jadams@governmentcio.com
 - Frontend: **Jesse Cohn** - jesse.cohn@adhocteam.us
@@ -138,12 +141,15 @@ Dec 1 2020: e2e integration Testing
 ## Resources and Documentation
 
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/discovery)
-- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design)
-
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md)
+- [Internal 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/508)
+- 
 ## NOTES
 
 Form 1900: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
 
-## eBenefts Screenshot
+## Before and After Screenshots
 
 [Apply for CH31 on EBN](coming-soon.png)
+[Apply for CH31 on VA.gov](coming-soon.png)
