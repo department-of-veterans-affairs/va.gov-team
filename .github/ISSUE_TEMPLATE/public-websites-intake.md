@@ -31,8 +31,7 @@ assignees: Public Websites, Sitewide content
 - [ ] Determine if this request is for:
      - [ ] Content Only      
      - [ ] Public Website Engineering Support      
-     - [ ] Both (Content + PW Eng Spt)
-- [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.   
+     - [ ] Both (Content + PW Eng Spt)   
 - [ ] Post a link to this issue in the appropriate channel: For Engineering only requests: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites), and in slack tag @brianalloyd, @ncksllvn and @kelsonic. Content only support: [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) in Slack, tag @RLHecht.  In situations where both are needed post to Public Websites and in Slack tag @brianalloyd, @ncksllvn, @kelsonic and @RLHecht for awareness.  
 - [ ] If noted in the guidance below, please schedule any relevant meetings.
 
