@@ -52,9 +52,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Apply Wizard](#apply-wizard)
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
-      - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
-      - [Left Nav](#left-nav)
-      - [Map Enhancements](#map-enhancements)
+      - [Current Location Enhancement](#current-location-enhancement)
     - [VSA Public Websites](#vsa-public-websites)
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
       - [Disability Calculator](#disability-calculator)
@@ -85,7 +83,10 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery)
     - [COVID-19 Screener](#covid-19-screener)
     - [VA Medical Centers](#va-medical-centers)
+      - [Templates](#templates)
       - [Eastern Oklahoma VA Medical Center](#eastern-oklahoma-va-medical-center)
+      - [Salt Lake City VA Medical Center](#salt-lake-city-va-medical-center)
+      - [Sheridan VA Medical Center](#sheridan-va-medical-center)
     - [App Directory](#app-directory)
     - [COVID-19 Vaccine Prep Tool](#covid-19-vaccine-prep-tool)
     - [VSA Search and Discovery](#vsa-search-and-discovery)
@@ -93,6 +94,10 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [COVID-19 Vaccine Trial Registry](#covid-19-vaccine-trial-registry)
     - [VSA Content Localization](#vsa-content-localization)
       - [VSA Translations Spanish Corona](#vsa-translations-spanish-corona)
+    - [VSP Automation](#vsp-automation)
+      - [Nightwatch](#nightwatch)
+      - [Nightwatch Silent Failures](#nightwatch-silent-failures)
+      - [Cypress](#cypress)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -665,21 +670,12 @@ Back to [Table of Contents](#table-of-contents)
 
 ---
 
-#### Facility Locator Urgent Care MVP
+#### Current Location Enhancement
 
-**Audit status:** _Staging Review completed by VSA March 26, 2020._
+**Open issues**
 
-**No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
-#### Map Enhancements
-
-**Audit status:** _[Staging Review completed, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
-
-**No open issues**
+- [Defect 3, screen readers, fine-tuning insert location component of facility locater - #21765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21765)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [Address usability/accessibility for "Use my location" - #21976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21976)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-enhancement
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -1062,11 +1058,15 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### VA Medical Centers
 
+#### Templates
+
 **Audit status:** _VSA working with VAMC team_<br/>
 **Open issues**
 
 - [[SEMANTIC MARKUP]: Links SHOULD not have title attributes - #11157](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11157)<br/>**Staging** | **Opened:** July 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [IN-PROGRESS 508-defect-3 [SCREENREADER]: Directions links SHOULD include sr-only text to indicate specific location - #11151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11151)<br/>**Staging** | **Opened:** July 10, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [Screenreader announces the full day name (VAMC) - #21731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21731)<br/>**Opened:** March 18, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [VAMC "online scheduling" button should be styled as a link - #21743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21743)<br/>**Staging** | **Opened:** March 18, 2021
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -1084,6 +1084,34 @@ Back to [Table of Contents](#table-of-contents)
 - [Health Care Services "Learn more about" links unclear - #20861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20861)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
 - [508-defect-3 [COGNITION]: System Landing - Building image should have ALT text - #21077](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21077)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-3 - **Moderate**_
   
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Salt Lake City VA Medical Center
+
+**Audit status:** _[Staging review completed by VSA in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21640)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗️ Launchblocker: Address of location to register in person missing on register for care - #21350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21350)<br/>**Opened:** March 10, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-1 ❗️ Launchblocker: Important links missing on Health Care Services - #21726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21726)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2 [SCREEN READER] Link is unclear and unannounced by JAWS - #21674](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21674)<br/>**Opened:** March 17, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-3 [SCREENREADER]: Unclear links under "In the Spotlight" - #21699](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21699)<br/>**Opened:** March 17, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Sheridan VA Medical Center
+
+**Audit status:** _[Staging review completed by VSA in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21756)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗️ Launchblocker: Missing links on Health Services - #21537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21537)<br/>**Opened:** March 15, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2: Addresses of mental health facilities are missing on make an appointment - #21477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21477)<br/>**Opened:** March 12, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-3 [COGNITION, SCREENREADER] Template issue, link text is unclear on Health Services - #21320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21320)<br/>**Opened:** March 10, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [508-defect-3 [SCREENREADER] Headings are improperly nested on the main page - #21480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21480)<br/>**Opened:** March 12, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+
 Back to [Table of Contents](#table-of-contents)
 
 ---
@@ -1150,6 +1178,29 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
+
+### VSP Automation
+
+#### Nightwatch
+
+**Open issues**
+
+- [[REQUEST]: JUnit or Markdown report from Nightwatch daily accessibility tests on static content - #21671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21671)<br/>**Opened:** March 17, 2021 | **Severity:** enhancement
+
+#### Nightwatch Silent Failures
+**Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
+**Open issues**
+
+- [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+
+#### Cypress
+
+**Open issues**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
 ### New Project Name
 
 **Audit status:** _Audit status, team, and date_<br/>
