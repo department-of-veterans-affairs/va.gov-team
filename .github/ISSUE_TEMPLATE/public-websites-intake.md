@@ -1,5 +1,5 @@
 ---
-name: Public Websites + Sitewide Content Intake Form
+name: Public Websites/Sitewide Content Intake Form
 about: To file requests with the VSA Public Websites (engineering support) and Sitewide Content Team (content support)
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming
