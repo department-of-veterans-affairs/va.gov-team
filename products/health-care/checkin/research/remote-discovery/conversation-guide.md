@@ -24,7 +24,7 @@ Start recording.
 
 Great. Now we're really ready to begin!
 
-## Warm-up Questions - (10 minutes)
+## Warm-up Questions/General Check-in Questions - (10 minutes)
 To get started, I’d like to get a little background information about you.
 - How many in-person appointments have you had since the beginning of the pandemic/COVID-19?
 
