@@ -60,7 +60,7 @@ This is the personal information we have on file for you.
 
 { If bank account is on file }
 
-#### Direct deposit information { grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+### Direct deposit information { grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
 This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
 
@@ -89,7 +89,7 @@ Thank you for providing your direct deposit information. **This new account won�
 
 { grey direct deposit card }
 
-#### Direct deposit information
+### Direct deposit information
 
 We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
 
