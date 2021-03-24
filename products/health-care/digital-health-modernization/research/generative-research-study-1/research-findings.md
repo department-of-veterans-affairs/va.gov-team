@@ -25,10 +25,10 @@ Our objective was to understand how Veterans and caregivers think about and expe
 
 #### Research Questions
 
-* **Branding and trust:** What attitudes do Veterans hold toward the MHV brand? Which aspects of the MHV brand generate trust?
-* **Mental models and information architecture:** What health-related content and tools outside of the MHV patient portal do users find valuable? What do they need integrated into their experience to support end-to-end workflows? 
-* **Account structure, permissions, and sharing:** Who do Veterans need to share their health information with? And how would they like to manage sharing info and granting permissions? 
-* **Patient portal:** How well does the current MHV patient portal support user needs? Where are there opportunities to bridge gaps or improve on existing functionality?
+* **Mental models and information architecture:** What health-related content and tools outside of the MHV patient portal do users find valuable? What do they need integrated into their experience to support end-to-end workflows?
+* **Branding and trust**: What attitudes do Veterans hold toward the MHV brand? Which aspects of the MHV brand generate trust?
+* **Patient portal:** How does the current MHV patient portal support user needs? Where are there opportunities to bridge gaps or improve on existing functionality?
+* **Sharing health information and tasks:** Who do Veterans need to help them manage their health information and tasks? And how do they want to manage that sharing?
 
 #### Methodology
 
