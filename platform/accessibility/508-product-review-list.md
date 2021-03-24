@@ -463,7 +463,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** Staging review started February 5, 2021<br/>
 **Open issues**
 
-- [508-defect-1 ❗ [COGNITION, SEMANTIC MARKUP]: Form field instructions MUST be associated with inputs and buttons - #19570](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19570)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-1 — **_Severe_**
 - [508-defect-2 [COGNITION]: H1 should match or be included in the page title - #19552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19552)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-3 [COGNITION]: Edit buttons SHOULD be styled as buttons - #19562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -670,9 +669,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Staging Review completed by VSA March 26, 2020._
 
-**Open issues**
-
-- [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -682,9 +679,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _[Staging Review completed, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
 
-**Open issues**
-
-- [508-defect-2 [COGNITION, FOCUS MANAGEMENT]: Focus order should preserve meaning - #17448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17448)<br/>**Opened:** December 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
