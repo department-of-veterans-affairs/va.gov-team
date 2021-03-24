@@ -52,6 +52,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Apply Wizard](#apply-wizard)
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
+      - [Map Enhancement](#map-enhancement)
       - [Current Location Enhancement](#current-location-enhancement)
     - [VSA Public Websites](#vsa-public-websites)
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
@@ -61,7 +62,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Find Forms MVP](#find-forms-mvp)
       - [Yellow Ribbon MVP](#yellow-ribbon-mvp)
       - [New Contact Us Page](#new-contact-us-page)
-      - [Campaign Landing Pages(#campaign-landing-pages)
+      - [Campaign Landing Pages](#campaign-landing-pages)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -263,6 +264,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[SCREENREADER]: Review example PDF for accessibility - #20134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20134)<br/>**Opened:** February 18, 2021
+- [Research if using Roman numerals with World War II is an accessibility issue and if there is a fix for it - #21959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21959)<br/>**Opened:** March 23, 2021 | **Severity:** 508-defect-enhancement
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -669,7 +671,15 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
+#### Map Enhancement
 
+**Open issues**
+
+- [Search this area of the map button: behavior and refactor - #21958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21958)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-enhancement
+
+Back to [Table of Contents](#table-of-contents)
+
+---
 #### Current Location Enhancement
 
 **Open issues**
@@ -1187,12 +1197,14 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[REQUEST]: JUnit or Markdown report from Nightwatch daily accessibility tests on static content - #21671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21671)<br/>**Opened:** March 17, 2021 | **Severity:** enhancement
 
+---
 #### Nightwatch Silent Failures
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 
+---
 #### Cypress
 
 **Open issues**
