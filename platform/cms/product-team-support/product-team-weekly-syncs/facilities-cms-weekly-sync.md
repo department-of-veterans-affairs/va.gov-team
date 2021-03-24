@@ -43,7 +43,7 @@ VAMC policies
 * [Vet Center content model documentation](https://app.mural.co/t/vagov6717/m/vagov6717/1614274642123/3509c33494d6dbc74e362cfe458dc5f2a517ec39)
 * Type of care attributes and groupings (VAMC and Vet Center)
 * Care we provide h3s (CMS: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799))
-  * Michelle to link this to a FE issue. 
+  * ~Michelle to link this to a FE issue~ [#22115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22115) 
 
 ## ☘️ March 17 2021
 
