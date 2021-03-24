@@ -116,9 +116,9 @@ We put together a prototype that we would love to get your feedback on. Let's sa
 
 
 
-*   [Does the participant understand the _I need help with_ options?]
-*   [Can participants locate the appropriate option?]
-*   [Which fields does the participant complete?]
+*   Does the participant understand the _I need help with_ options?
+*   Can participants locate the appropriate option?
+*   Which fields does the participant complete?
 *   Any hiccups? Do they know all the information?
 *   Any fields trip them up?
 
@@ -146,9 +146,9 @@ We put together a prototype that we would love to get your feedback on. Let's sa
 
 
 
-*   [Does the participant understand the _I need help with_ options?]
-*   [Can participants locate the appropriate option?]
-*   [Which fields does the participant complete?]
+*   Does the participant understand the _I need help with_ options?
+*   Can participants locate the appropriate option?
+*   Which fields does the participant complete?
 *   Any hiccups? Do they know all the information?
 *   Any fields trip them up?
 
