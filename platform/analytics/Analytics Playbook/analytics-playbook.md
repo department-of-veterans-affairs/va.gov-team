@@ -166,7 +166,7 @@ Objective**: The outcome the team needs to achieve to improve the user experienc
 
 At VA.gov, our minimum standard for KPIs is that they are linked back to business and user metrics. We also suggest that you have a mix of quantitative and qualitative data; quantitative data helps with accuracy for your analysis, and qualitative data helps give you context.
 
-_**Include updated framework & workshop**_
+You can find the [KPI Framework in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) and [KPI Setting Workshop in Mural](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1591285060838/5b950dfe08c860feb2b26d049665f8a043ee278d).
 
 We strongly recommend using analytics from multiple sources to provide a more holistic view of your product’s health and success.
 
@@ -181,7 +181,7 @@ We strongly recommend using analytics from multiple sources to provide a more ho
 
 ## VSP resource links:
 
-*   KPI Setting Framework (tbd)
+*   [KPI Setting Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
 *   KPI Setting Workshop
     1. [Mural Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1591285060838/5b950dfe08c860feb2b26d049665f8a043ee278d)
     2. [Mural Template](https://app.mural.co/t/adhocvetsgov9623/template/48a568fa-0a7a-441a-ac09-f3598b771573)
@@ -271,7 +271,7 @@ Front end performance monitoring metrics
 *   URL performance
 *   Page load time
 
-Want to see this all in one place? We use a Business Intelligence (BI) tool called **Domo** to pull the data from these different sources into a single view. We recommend [requesting a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D) to easily track your KPIs in one place. 
+Want to see this all in one place? We use a Business Intelligence (BI) tool called **Domo** to pull the data from these different sources into a single view. We recommend [requesting a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D) to easily track your KPIs in one place. 
 
 
 ## Collaboration Cycle: Discover, Build
@@ -283,13 +283,12 @@ Want to see this all in one place? We use a Business Intelligence (BI) tool call
 
 ## VSP resource links:
 
-*   [Request a Product KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D)
-*   [Request access to VA.gov Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics)
-*   [Request Google Analytics (Google Tag Manager implementation)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D)
-*   [Request ForeSee](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-foresee-request-template.md&title=ForeSee+Survey+Request+for+%5BTeam%5D)/Medallia implementation
-*   [Request contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley+Daniels%2C+Chante+LantosSwett&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTool%5D) (this allows the contact center to help veterans with their VA.gov questions)
+*   [Request a Product KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5DD)
+*   [Request access to VA.gov Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo)
+*   [Request Google Analytics (Google Tag Manager implementation)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review%2C+gtm&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D)
+*   [Request Medallia implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+Kimberley2019&labels=VSP-contact-center%2C+medallia&template=analytics-survey-request-template.md&title=User+Survey+Request+for+%5BTeam%5D)
 *   [List of data platforms for VA.gov](https://docs.google.com/spreadsheets/d/1gXH7PfI3UCSu8mzEuYqkE5qwSJV6nFO1s8UpDCZm0BA/edit#gid=0)
-*   [Google Tag Manager Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics)
+*   [Google Tag Manager and Google Analytics Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics)
 *   Link to CircleCI
 *   [Link to Contact Center monthly report](https://va-gov.domo.com/page/1744754544)
 *   [Link to ForeSee/](https://cxsuite.foresee.com/client/login)Medallia
