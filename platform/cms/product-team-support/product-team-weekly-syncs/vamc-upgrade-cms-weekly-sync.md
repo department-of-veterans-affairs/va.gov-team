@@ -23,6 +23,9 @@
 
 ## Friday Mar 26
 
+* CMS help desk triage - feedback and discussion.
+  * Escalation paths, prevent request loops, what can we do better?
+* Dual-state deployment schedule next week
 * Policies page announcement for training and change management (may be too soon to discuss, depends on FE) 
   * How should communication flow for PGH, for Dual State, and for future users. 
 
