@@ -71,8 +71,6 @@ April 9, 2021 | 10 a.m. - 6 p.m.
 
 Pilot Session: Mar. 31, 2021 | 11 a.m. - Noon
 
-### Pilot Session:
-
 **Team Roles**
 - Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
 - Research guide writing and task development: Kristen McConnell
