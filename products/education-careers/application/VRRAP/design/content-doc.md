@@ -17,8 +17,9 @@ To be eligible for VRRAP, Veterans must:
 * Not be enrolled in any other federal or state employment programs; or
 * Not be in receipt of any unemployment or CARES Act benefits.
 
+[ Sign in or create an account ]()  { button }
 
-[ Continue ]() { button } 
+[Start your application without signing in]()
 
 ## Form Title:  Apply for the Veterans Rapid Retraining Assistance Program (VRRAP)
 
@@ -101,7 +102,7 @@ We make payments only through direct deposit, also called electronic funds trans
 *	Bank routing number (No more than 9 digits) (* Required) { text field, prefill if present. }
 *	Bank account number (No more than 17 digits) (* Required) { text field, prefill if present. }
 
-[ Save ] { button }
+[ Save ]() { button }
 
 { End grey direct deposit card }
 
