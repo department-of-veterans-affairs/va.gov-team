@@ -64,6 +64,9 @@ CMS User Administration
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration
 https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/edit#heading=h.s5vy91nn0f0j
 
+VAMC System Policies Page Training
+https://dsva.slack.com/files/U01DQAYJYCC/F01RZGYS65V/vamc_system_policies_page_training-local.pptx
+
 Training Runbook
 https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097
 
