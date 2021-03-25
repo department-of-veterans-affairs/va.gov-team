@@ -18,7 +18,11 @@
 **PM**
 
 - Hold launch go/no-go
-- Launch to 25%
+- Monitor launch to 25%
+
+**FE**
+
+- Flip switch to 25% of users
 
 ### Preferred medical facility 
 
@@ -76,7 +80,7 @@
 **FE**
 
 - Flip switch to 50% of users
-- Flip switch to 50% of users
+- Flip switch to 100% of users
 
 ### Preferred medical facility 
 
