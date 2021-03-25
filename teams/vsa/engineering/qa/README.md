@@ -10,7 +10,7 @@ Content here will grow over time.  Below are links to our currently-available do
 
 [Process](vsa-qa-process.md) (Manual UI testing for Platform Staging Review)
 
-[Tasks & Capacity](vsa-qa-tasks-capacity.md)
+[Capacity & Tasks](vsa-qa-tasks-capacity.md)
 
 [Test Cases](vsa-qa-test-cases.md) [WIP]
 
