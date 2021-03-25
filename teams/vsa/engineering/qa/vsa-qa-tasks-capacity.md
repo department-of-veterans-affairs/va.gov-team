@@ -1,4 +1,4 @@
-# VSA-QA Tasks & Capacity
+# VSA-QA Capacity & Tasks
 
 Currently, with only one VSA-QA resource shared across all VSA Product Teams, capacity limitations preclude VSA-QA from handling all the QA tasks outlined by VSP.
 
@@ -6,7 +6,7 @@ Currently, with only one VSA-QA resource shared across all VSA Product Teams, ca
 
 - Product Managers
 
-The matrix below illustrates the current reality of what VSA-QA can realistically perform, and what VSA Product Teams need to perform themselves:
+The matrix below illustrates the current reality of what VSA-QA can realistically perform, and what VSA Product Teams are unavoidability "deputized" to perform themselves:
 
 | QA Task | VSA-QA | VSA Product Teams |
 | ------- | ------ | ----------------- |
