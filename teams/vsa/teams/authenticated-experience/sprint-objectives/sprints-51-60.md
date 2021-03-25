@@ -17,8 +17,8 @@
 
 **PM**
 
-- Launch to 50%
-- Launch to 100%
+- Hold launch go/no-go
+- Launch to 25%
 
 ### Preferred medical facility 
 
@@ -42,7 +42,6 @@
 
 - 508 checks required pre-staging review
 
-
 ### Notification preferences
 
 **PM**
@@ -65,10 +64,19 @@
 
 - 508 checks required pre-staging review
 
-
-### My VA redesign
-
 ## Sprint 52 (7/14 - 7/27)
+
+### My VA
+
+**PM**
+
+- Monitor launch to 50%
+- Monitor launch to 100%
+
+**FE**
+
+- Flip switch to 50% of users
+- Flip switch to 50% of users
 
 ### Preferred medical facility 
 
