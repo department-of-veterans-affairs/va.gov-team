@@ -123,6 +123,14 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 { end help-text}
 
+## Program Selection
+
+* Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
+* What's the name of the program's provider? { free text }
+* What's the name of the program? { free text }
+* What is the location of the program (city, state)? { free text }
+* Is the program in-person, online or both? { radio, In-person , Online , "It's both in-person and online" }
+
 ### Confirm you're eligible for VRRAP
 
 { note - eligibility requirements to come from Education & needs to be refined w/ DEPO }
@@ -132,7 +140,7 @@ To be eligible for VRRAP, the 3 following statements must be true:
 * You are not currently enrolled in a Federal or State jobs program, nor do you expect to be enrolled in such a program while training until VRRAP.
 * You will not receive unemployment compensation, including any cash benefit received pursuant to the CARES Act, while training under VRRAP.
 
-Yes, I attest the statements above are true and accurate to the best of my knowledge and belief. { checkbox }
+I attest the statements above are true and accurate to the best of my knowledge and belief. { checkbox }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
