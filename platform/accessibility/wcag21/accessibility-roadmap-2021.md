@@ -1,6 +1,6 @@
 *Last updated: March 25, 2021*
 
-*Owned by: Martha Wilkes, VA OCTO. Reprinted with permission*
+*Owned by: Martha Wilkes, VA OCTO. Reprinted with permission.*
 
 ```diff
 ! DRAFT - This document may change as the roadmap is refined
