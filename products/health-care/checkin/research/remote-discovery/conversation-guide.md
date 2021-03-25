@@ -73,6 +73,11 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - How would you describe that experience?
           - What did you like about it?
           - What did you not like about it?
+    - Have you ever updated your emergency contact via the kiosk? _Show them screens of updating emergency contact._
+      - If yes, 
+        - How would you describe that experience?
+          - What did you like about it?
+          - What did you not like about it?
     - Have you ever updated your next of kin via the kiosk? _Show them screens of updating next of kin._
       - If yes, 
         - How would you describe that experience?
