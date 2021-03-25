@@ -38,8 +38,8 @@ More findings from the Digital Health Modernization Research Readout
 
 ## Strategic Bets
 ### Short Term 
-* We believe delivering a pared down version of the existing Secure Messaging experience is in alignment with the overarching goal of the mobile app, which is to provide a faster and easier way to complete transactions with VA. 
-* Our hypothesis is that maintaining the current experience, rather than reimagining a newone, will build Veteran trust with the messaging service and the app overall. 
+* We believe delivering a pared down version of the existing Secure Messaging experience within the mobile app is in alignment with it's overarching goal to provide a faster and easier way to complete transactions with VA. 
+* Our hypothesis is that maintaining the current experience, rather than reimagining a new one, will build Veteran trust with the messaging service and the app overall. 
 #### Proof Points
 * We know that Secure Messaging is a highly requested feature for the mobile app. In a co-design research study for the mobile app, secure messaging was added by 5 out of 7 participants and cited as a top priority by 1 participant. Based on its importance to users, secure messaging will be included in the mobile app store release. 
 
