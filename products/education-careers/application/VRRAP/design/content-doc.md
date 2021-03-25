@@ -97,7 +97,7 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { bank check visual }
 
-* Bank name { text field, prefill if present. }
+* Bank name (* Required) { text field, prefill if present. }
 *	Bank routing number (No more than 9 digits) (* Required) { text field, prefill if present. }
 *	Bank account number (No more than 17 digits) (* Required) { text field, prefill if present. }
 
