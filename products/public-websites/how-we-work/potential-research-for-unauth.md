@@ -55,4 +55,6 @@ Cindy Merrill, Senior Researcher, Mar 2021
     - What works well? What pain points are there? Opportunities for improvement?
   - **Baseline research across new products that haven’t been tested**
   - Research on products that support the most important user tasks 
-  - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list)
+  - Research on mobile as well as desktop
+  - Research on Pittsburgh facilities nav vs. current VA.gov nav
+  - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list), including possible confusion when jump into different content with different navigation/search 
