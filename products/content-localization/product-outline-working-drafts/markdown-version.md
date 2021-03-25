@@ -254,4 +254,4 @@ ________________________________________
 
  ii. https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E1B32CF9E602F287902AD91F1D10DA7D/S1935789320001512a.pdf/public_health_communication_in_time_of_crisis_readability_of_online_covid19_information.pdf 
 
-
+Placeholder: LEP individuals have meaningful access to important written information. Vital written documents include, but are not limited to, consent and complaint forms; intake and application forms with the potential for important consequences; written notices of rights; notices of denials, losses, or decreases in benefits or services; notice of disciplinary action; signs; and notices advising LEP individuals of free language assistance services. Agencies should proactively translate vital written documents into the frequently encountered languages of LEP groups eligible to be served or likely to be affected by the benefit program or service. Agencies should also put in place processes for handling written communication with LEP individuals in less frequently encountered languages
