@@ -29,6 +29,7 @@ Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Vet
 
 * Secure messaging is cited as beneficial as a record of communication with care teams, especially for those with memory/cognitive concerns, and/or veterans and caregivers co-managing communications. 
 
+#### Veteran Quotes 
 *“That is the easiest way to get ahold of them. Otherwise you are sitting on hold from 45 minutes to an hour trying to transfer through the systems. Then they will either call us or email back for the follow up.” - Veteran* 
 
 *“This is my best means of communication with my doctor” - Veteran*
