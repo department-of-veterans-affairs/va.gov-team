@@ -15,6 +15,8 @@
 
 ### My VA
 
+This is the plan if we didn't launch My VA in the past sprint. If we did, move on to launches to 50% and 100%.
+
 **PM**
 
 - Hold launch go/no-go
@@ -71,6 +73,8 @@
 ## Sprint 52 (7/14 - 7/27)
 
 ### My VA
+
+This is the plan if we didn't launch My VA to 100% in the past sprint. If we did, move on to post-launch work.
 
 **PM**
 
