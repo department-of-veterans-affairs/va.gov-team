@@ -37,12 +37,11 @@ This is the personal information we have on file for you.
 * Suffix { dropdown, prefill if present }
 * Social Security number (*Required) { text field, prefill if present }
 * Your date of birth: { prefill if present } (*Required)
-* Gender: { prefilled }
 
 ### Contact information
 
 **Phone & email**
-* Phone number (* Required) { text field, prefilled if present. } 
+* Mobile phone number (* Required) { text field, prefilled if present. } 
 * Alternate phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
 
@@ -108,7 +107,7 @@ We make payments only through direct deposit, also called electronic funds trans
 
 I don't want to use direct deposit { checkbox, if selected grey direct deposit card disappears. }
 
-**Note:** Any updates you make here to your bank account information will apply to your other Veteran benefits, including compensation, pension, and education. Updates here will not change accounts on file for your VA health benefits.
+**Note:** Any updates you make here to your bank account information won't change your existing accounts for VA education or health benefits.
 
 { help-link } What if I don’t have a bank account?  { end help-link }
 
@@ -136,6 +135,8 @@ To be eligible for VRRAP, the 3 following statements must be true:
 Yes, I attest the statements above are true and accurate to the best of my knowledge and belief. { checkbox }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+I have read and accept the [privacy policy]() ( * Required) { checkbox }
 
 [ Submit form ]() { button } 
 
