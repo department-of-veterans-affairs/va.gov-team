@@ -27,3 +27,10 @@
 ![Sprint 42 Retro board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Retro%20Sprint%2042.png)
 
 </details>
+
+<details>
+<summary> Sprint 43, ending March 23, 2021 </summary>
+
+![Sprint 43 Retro board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/sprint%2043%20retro.png)
+
+</details>
