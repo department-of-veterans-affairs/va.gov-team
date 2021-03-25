@@ -20,3 +20,6 @@ What trend/measurable changes have you observed with your products?
 ## Acceptance Criteria
 - [ ] Documentation (e.g. product outline) updated
 - [ ] Follow-on implementation/discovery tickets created 
+
+## How to configure this issue
+- Labeled with team-name
