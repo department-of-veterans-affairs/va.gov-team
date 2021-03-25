@@ -24,7 +24,7 @@
 -	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
 -	Post-testing, determine next steps and how improvements might fit into roadmap.
 
-### Run experiments on how we can better elevate action items
+### Run experiment(s) on how we can better elevate action items
 
 **When**: Post-launch; May take the full quarter
 
