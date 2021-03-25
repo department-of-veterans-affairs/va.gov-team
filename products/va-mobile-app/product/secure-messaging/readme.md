@@ -34,7 +34,7 @@ Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Vet
 
 *“This is my best means of communication with my doctor” - Veteran*
 
-More findings from the Digital Health Modernization Research Readout 
+More findings from the Digital Health Modernization Research Readout and the Secure Messaging MVP Usability Testing 
 
 ## Strategic Bets
 ### Short Term 
@@ -46,6 +46,11 @@ More findings from the Digital Health Modernization Research Readout
 *"[The first thing I would add is] Secure Messaging - it's hard to quantify [why this is valuable] because it can be used on phone today [using MHV] - but if you didn't have to log in every time that would be helpful." -- P4 (freeform)*
 
 * 32% of users access MHV from their mobile device, indicating interest in and need for a mobile friendly experience focused on quick, transactional tasks. 
+
+### Long Term
+* Digital modernization at VA operates on the principle that Veterans should not need to understand the relationships between various VA web properties, and that VA.gov should be a single front door that allows Veterans to easily find the tools and information they need. 
+
+* Understanding that secure messaging is a highly utilized health tool on MHV, we believe there are opportunities to improve this experience beyond the MVP mobile app release. 
 
 
 
