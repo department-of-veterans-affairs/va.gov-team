@@ -57,14 +57,36 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platfo
 VA Style Guide
 https://design.va.gov/content-style-guide/
 
-
-
 ### Account Creation and Training
 CMS User Management
 https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
 CMS User Administration
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration
 https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/edit#heading=h.s5vy91nn0f0j
+
+Training Runbook
+https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097
+
+VA Onboarding Checklist
+https://docs.google.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0
+
+Email Templates 
+https://docs.google.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3
+
+Content Types
+http://training.demo.ci.cms.va.gov/admin/content-models/content
+
+Content Release How-to
+https://prod.cms.va.gov/help/content-release-to-vagov
+
+Canned Answers
+https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses
+
+Listening Session with VA
+https://app.mural.co/t/vagov6717/m/vagov6717/1613420145908/8a8a1b99748bea534e06aca0ba041160341f1139
+
+Campaign Landing Page
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates 
 
 
 ### Incidents and Critical Defects
@@ -94,10 +116,15 @@ https://docs.google.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/
 CMS Common Questions
 https://docs.google.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9
 
+### Common Resources
+Help Desk Share Driv
+https://drive.google.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts
+
 ### CMS environments
 CMS non-prod Environments (default password drupal8)
 Staging: https://staging.cms.va.gov/ 
 Training: https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/ 
+Tugboat:  https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/tugboat.md
 
 Prod: https://prod.cms.va.gov/ 
 
@@ -125,3 +152,12 @@ Tier 1 Help Desk Triage
 https://docs.google.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0
 Tier 1 Help Desk Product Scope of Support
 https://docs.google.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#
+Help Desk 101
+https://docs.google.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75
+
+### Performance and Reporting
+Monthly Reporting 
+https://docs.google.com/document/d/1RFvF90LNVj7S6hx0MRyp6NlijhMhH1gcxJ9oi-WxHAY/edit#
+
+Additional Reporting Guidelines
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/helpdesk_reporting_process.md
