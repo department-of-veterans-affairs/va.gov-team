@@ -52,5 +52,13 @@ More findings from the Digital Health Modernization Research Readout and the Sec
 
 * Understanding that secure messaging is a highly utilized health tool on MHV, we believe there are opportunities to improve this experience beyond the MVP mobile app release. 
 
+## Product North Star Metric 
+* Mobile- percent of app users who sent a message
+## Objectives + Key Results
+Our team’s OKRS are broken out into three different categories. 
+* Now- what we are striving to achieve within the mobile app’s first release to the app store 
+* Next- goals we anticipate once we accrue more information and learn how users interact with secure messaging within the mobile app. 
+* Later- future orientated 
+
 
 
