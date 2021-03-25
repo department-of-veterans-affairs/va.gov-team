@@ -84,7 +84,7 @@ Before we look at the prototype, let’s start with a few background questions.
 *   Can you tell me a little bit about your experience with #vfs-platform-support channel in Slack? 
 *   Tell me about a time where you could not get your question answered by Platform? 
 *   When else do you do you seek support from #vfs-platform-support? 
-*   Do you ask for support in any Slack channels? 
+*   Do you ask for support in any other Slack channels? 
     *   If yes, which ones? 
 
 Great. Thank you for sharing those thoughts with us. It’s really important as we continue to improve services. 
