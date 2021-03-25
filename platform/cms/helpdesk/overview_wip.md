@@ -45,14 +45,8 @@ https://va-gov.atlassian.net/jira/servicedesk/projects/VAHELP/queues/custom/11
 Supported products list, how-we-work overview
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms 
 
-Sprint best practices
-https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l 
-
-CMS Onboarding Service Blueprint
-https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
-
-GitHub Repository for public facing documents
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms
+Content release issues
+https://prod.cms.va.gov/help/content-release-to-vagov
 
 VA Style Guide
 https://design.va.gov/content-style-guide/
@@ -73,7 +67,7 @@ https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2
 VA Onboarding Checklist
 https://docs.google.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0
 
-Email Templates 
+New-account and training Email Templates 
 https://docs.google.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3
 
 Content Types
@@ -84,6 +78,15 @@ https://prod.cms.va.gov/help/content-release-to-vagov
 
 Canned Answers
 https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses
+
+Sprint best practices
+https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l 
+
+CMS Onboarding Service Blueprint
+https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
+
+GitHub Repository for public facing documents
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms
 
 Listening Session with VA
 https://app.mural.co/t/vagov6717/m/vagov6717/1613420145908/8a8a1b99748bea534e06aca0ba041160341f1139
