@@ -4,12 +4,18 @@
 
 ### Q2 2021 (April – June)
 
+### My VA 2.0 launch
+
 - Finish My VA 2.0 build
 - My VA 2.0 [VSP pre-launch collab points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)
 - My VA UAT
 - (Hopefully) My VA 2.0 phased launch begins
 
 ### Q3 2021 (July - September)
+
+### My VA 2.0 launch
+
+- If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
 
 ### My VA 2.0 project KPI tracking
 
