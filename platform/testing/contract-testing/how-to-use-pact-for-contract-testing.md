@@ -6,6 +6,7 @@
   * [Terminology](#terminology)
   * [Requirements](#requirements)
   * [Workflow](#workflow)
+      - [Merge workflow](#merge-workflow)
       - [Front-end workflow](#front-end-workflow)
       - [Back-end workflow](#back-end-workflow)
   + [Naming Conventions](#naming-conventions)
@@ -84,6 +85,10 @@ PRs related to Pacts will go through the standard [code review process](https://
 ### Workflow
 
 The process is a collaborative effort where front-end (FE) and back-end (BE) engineers should communicate and may need to iterate on the pacts to get them successfully verified.
+
+#### Merge workflow
+
+Pact tests must be merged in the correct order in order for tests to pass on CI. The provider tests in the back-end must be merged first; contracts will fail until the API endpoint is supported on the provider side. Once the provider test is merged, the consumer test for the front-end can be implemented and merged. Provider states have to be implemented first for the consumer test to pass Pact verification.
 
 #### Front-end workflow
 
