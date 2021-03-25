@@ -31,7 +31,7 @@ Recruit for 12 fulfilled sessions using the following criteria:
 - All participants must have had at least one:
   - in-person medical appointment at a VA facility within the last 6 months.
   - in-person medical appointment at a VA facility before COVID.
-- 6 participants must have used the kiosk to check-in at least once.
+- 6 participants must have used the kiosk to check-in at least once (could have used it before and/or after COVID).
 - At least 3 participants must have had a virtual appointment within the last 3 months.
 - At least 3 participants must have experience checking-in via a VA staff member.
 - At least 1 participant must have experience checking-in via a text message.
