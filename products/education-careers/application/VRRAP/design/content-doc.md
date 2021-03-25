@@ -133,7 +133,6 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 ### Confirm you're eligible for VRRAP
 
-{ note - eligibility requirements to come from Education & needs to be refined w/ DEPO }
 To be eligible for VRRAP, the 3 following statements must be true:
 
 * As of the date of this application, you are currently unemployed due to the COVID-19 pandemic.
