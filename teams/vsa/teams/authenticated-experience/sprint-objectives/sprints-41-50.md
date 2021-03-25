@@ -569,6 +569,11 @@ QA!!
 
 **PM**
 
+
+- Hold launch go/no-go 
+  - Only do this if everything is good from UAT. If not, hold off until next sprint.
+- If time, monitor launch to 25%
+
 **Design**
 
 - Finish UAT
@@ -576,6 +581,7 @@ QA!!
 **FE**
 
 - Fixes from UAT, if needed
+- If time, flip switch to 25% of users
 
 ### Preferred medical facility 
 
