@@ -295,17 +295,22 @@ FE
 
 ### My VA redesign
 
-PM
+**PM**
 
-- If design/build is going to be done, we need to start getting everything ready for QA.
-
-Design
+**Design**
 
 - Final handoff to FE
+- Start reviewing FE build
+- Review and update My VA test cases
+    - [My VA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md).
+    - Update this documentation based on final designs
+    - Review with team 
+    - Let Tze know this documentation has been updated and ask whether he or AJ should update the test cases in TestRail
+- Talk to Trevor about what assistive tech testing would look like
 
-FE
+**FE**
 
-- Finish build?
+- Finish build
 
 ### Direct deposit for edu
 
@@ -346,21 +351,26 @@ FE
 
 ### My VA redesign
 
-Prep for QA
+Prep for QA!!
 
 **PM**
 
-- If FE build is actually done, work with Trevor to do some assistive tech testing
-
-- Request QA for following sprint. To make sure we are ready, this requires:
+- Hold go/no-go for QA
   - Making sure the feature is done 
   - Reviewing the feature
   - Making sure Tressa has reviewed the feature
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
+- Request QA for following sprint pending team's "go"
+- Assist Tressa with contact center guide
 
 **Design**
 
 - Review feature and give final sign off for QA
+- Start contact center guide
+
+**FE**
+
+- Any updates as needed from pre-QA review
 
 ### Direct deposit for edu
 
@@ -400,15 +410,17 @@ QA!!
 **PM**
 
 - Complete release plan and save in direct deposit for edu GitHub folder (template)
-- Analytics request (collab cycle)
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md)
   - Analytics planning
   - Meet with analytics
   - Oversee implementation
-- Start contact center guide
+- Assist Tressa in finishing contact center guide
+- Start filling out the ticket for [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+  - Be ready to hold this next sprint 
 
 **Design**
 
-- Start contact center guide
+- Finish contact center guide
 
 **QA**
 
@@ -455,22 +467,21 @@ QA!!
 
 **PM**
 
-- Finish contact center guide
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-  - Prep
-  - Hold meeting
-- Meet with comms to discuss marketing needs
+- Submit contact center guide for[contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
+- Hold [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+- Set up meeting with comms to discuss marketing needs
+- Start ticket for [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
 
 **Design**
 
-- Finish contact center guide
 - Accessibility tests for staging review
-- UAT planning
+- UAT research plan
+- UAT convo guide
 
 **FE**
 
 - Accessibility tests for staging review
+- Prepare any technical documentation required for the [privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
 
 ### Preferred medical facility 
 
@@ -510,14 +521,17 @@ QA!!
 
 **PM**
 
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+- Submit ticket for [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
 - Hold go/no-go for UAT
 
 **Design**
 
 - UAT recruiting
-- UAT
+- Start UAT
 
+**FE**
+
+- Attend UAT sessions, if started
 
 ### Preferred medical facility 
 
@@ -549,15 +563,15 @@ QA!!
 
 - Implement updates from testing
 
-
 ## Sprint 50 (6/16 - 6/29)
 
 ### My VA redesign
 
 **PM**
 
-- Hold go/no-go
-- Launch to 25%
+**Design**
+
+- Finish UAT
 
 **FE**
 
