@@ -27,8 +27,8 @@
 ### Run experiments on how we can better elevate action items
 
 **When**: Post-launch; May take the full quarter
-**Objectives**:
 
+**Objectives**:
 - Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
 
 **Additional info**: 
