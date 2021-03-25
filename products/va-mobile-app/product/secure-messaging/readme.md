@@ -23,6 +23,18 @@ Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Vet
 ### How do Veterans use secure messaging?
 * Secure Messaging is trusted and often the primary method for veterans and caregivers to communicate with their care team other than in-person visits.
 
+* Secure Messaging supports other core tasks on MHC, such as prescription refills, scheduling appointments, and ordering medical equipment 
+
+* Secure messaging is viewed as the best way to get in touch with doctors directly, albeit messages are often triaged by a nurse first. 
+
+* Secure messaging is cited as beneficial as a record of communication with care teams, especially for those with memory/cognitive concerns, and/or veterans and caregivers co-managing communications. 
+
 *“That is the easiest way to get ahold of them. Otherwise you are sitting on hold from 45 minutes to an hour trying to transfer through the systems. Then they will either call us or email back for the follow up.” - Veteran* 
+
+*“This is my best means of communication with my doctor” - Veteran*
+
+More findings from the Digital Health Modernization Research Readout 
+
+
 
 
