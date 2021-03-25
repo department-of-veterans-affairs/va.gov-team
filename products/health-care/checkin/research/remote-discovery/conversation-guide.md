@@ -39,7 +39,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What did you like about it?
     - What did you not like about it?
   - How has checking in for an appointment changed with COVID-19?
-    - Did you complete the COVID screener before entering the facility?
+    - Did you have to complete a form before entering the facility? If yes, probe on if it was something completed in advance/on their mobile device/paper/something else.
 - Which check-in method do you use most often? This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments. (Note for researcher: there is the “I am here” system as well as a separate solution only available in South Carolina)
 
 ## Virtual appointments (5 minutes)
@@ -54,7 +54,18 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 ## Kiosk (25 minutes)
 - _If they didn’t mention a kiosk above, confirm that they have utilized these machines. Show a picture of the machine if need be._ Have you ever used one of the check-in kiosk machines at the VA?
-  - If yes…
+  - If no…
+    - Have you ever seen them in a VA location?
+      - If yes, 
+        - Why do you prefer other methods for check-in?
+    - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
+      - Main appointment kiosk sign-in/check-in with contact information
+      - Checking in for a lab
+      - Checking in for pharmacy
+      - Updating your emergency contact 
+      - Updating your next of kin
+      - Filing a Beneficiary Travel Mileage request
+  - If yes...
     - I now want to show you a few kiosk screens before I ask more questions about kiosks. _Share my screen and go through a prototype of the main appointment kiosk sign-in and check-in workflow with contact information. After showing them the workflow…_
       - Does this look similar or different from your experience? How so?
       - Have you ever been asked additional questions compared to what I just showed you when checking-in via the kiosk?
@@ -94,10 +105,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
           - What did you like about it?
           - What did you not like about it? I
     - What would you would like to change about the kiosks?
-  - If no…
-    - Have you ever seen them in a VA location?
-      - If yes, 
-        - Why do you prefer other methods for check-in?
+
 
 ## In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
