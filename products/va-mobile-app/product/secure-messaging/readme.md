@@ -36,6 +36,16 @@ Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Vet
 
 More findings from the Digital Health Modernization Research Readout 
 
+## Strategic Bets
+### Short Term 
+* We believe delivering a pared down version of the existing Secure Messaging experience is in alignment with the overarching goal of the mobile app, which is to provide a faster and easier way to complete transactions with VA. 
+* Our hypothesis is that maintaining the current experience, rather than reimagining a newone, will build Veteran trust with the messaging service and the app overall. 
+#### Proof Points
+* We know that Secure Messaging is a highly requested feature for the mobile app. In a co-design research study for the mobile app, secure messaging was added by 5 out of 7 participants and cited as a top priority by 1 participant. Based on its importance to users, secure messaging will be included in the mobile app store release. 
+
+*"[The first thing I would add is] Secure Messaging - it's hard to quantify [why this is valuable] because it can be used on phone today [using MHV] - but if you didn't have to log in every time that would be helpful." -- P4 (freeform)*
+
+* 32% of users access MHV from their mobile device, indicating interest in and need for a mobile friendly experience focused on quick, transactional tasks. 
 
 
 
