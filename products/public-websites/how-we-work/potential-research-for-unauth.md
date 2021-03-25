@@ -50,8 +50,9 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - Review reports from Jeff Barnes, Elissa Frankle Olinsky
 - Determine what unauth research would be the most impactful in the near term
   - **How do Veterans navigate to find what they need on the VA.gov home page?** (i.e., search at top, browse dropdowns (top), 4 quadrants, topics below, CTAs below, links in footer (including Resources and support), google search)
-  - **Test top tasks on the website** (Meg wants to get top tasks from analytics, research how well Veterans do these tasks, ask about their top tasks) 
-  - (Include tasks that may involve Benefit hubs, Resources & support, Find a form, Find Yellow Ribbon school)
+  - **Test top tasks on VA.gov** (Meg wants to get top tasks from analytics, research how well Veterans do these tasks, ask about their top tasks) 
+    - Include tasks that may involve products including Benefit hubs, Resources & support, Find a form, Find Yellow Ribbon school
+    - Research on products that support the most important user tasks 
   - **Baseline research across new products that haven’t been tested**
   - Research on products that support the most important user tasks 
   - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list)
