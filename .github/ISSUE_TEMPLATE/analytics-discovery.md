@@ -10,11 +10,11 @@ assignees: ''
 ## Context and Conclusions
 What trend/measurable changes have you observed with your products?
 
-| Metric | Observation | Conclusion/Action |
-|--------|-------------|-------------------|
-| <KPI>  |             |                   |
-| <KPI>  |             |                   |
-| <KPI>  |             |                   |
+| Metric | Observation | Hypothesis        | Conclusion/Action |
+|--------|-------------|-------------------|-------------------|
+| <KPI>  |             |                   |                   |
+| <KPI>  |             |                   |                   |
+| <KPI>  |             |                   |                   |
   
   
 ## Acceptance Criteria
