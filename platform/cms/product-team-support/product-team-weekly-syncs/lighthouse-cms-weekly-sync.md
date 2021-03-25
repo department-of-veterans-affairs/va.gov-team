@@ -23,6 +23,9 @@ Agenda/Notes
 
 - Action item review
   - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
+- GraphQL/Renaming Fields 
+  - Possiblity of doing a nightly pull through GraphQL for both Covid19 (in addtion to the push) and for the larger health services integration
+  - Potential issues and the need for renaming/mapping on both sides
 - COVID health service data
   - Vaccine service
   - All health services
