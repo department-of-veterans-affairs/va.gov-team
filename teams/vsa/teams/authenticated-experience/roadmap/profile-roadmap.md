@@ -1,14 +1,14 @@
 # VA.gov profile roadmap
 
-**Updated February 2021**
+**Updated March 2021**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
 |[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Pre-launch VSP reviews |
-|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Backend implementation complete; On hold until we have an available designer |
-| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Backend implementation |
+|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Design |
+| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Design; Backend implementation |
 
 ### Projected timelines for current projects & enhancements
 
