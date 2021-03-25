@@ -42,14 +42,16 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - Check analytics data to compare usage across unauth products 
 - Talk to people to learn what the biggest pain points are
   - Call centers (Chante Lantos-Swett)--ask re question topics/themes
-    - Review resources provided, reach out for intro to call center contacts
+    - Review resources provided, reach out for intro to call center contacts, get report VA.gov topics/q's
   - Meg Peters (IA lead)
   - Danielle and Beth (content leads)
 - Gather the most important unauth user tasks from journey map & other sources
   - Talk to Meg Peters and Shawna + John re top tasks
+  - Review reports from Jeff Barnes, Elissa Frankle Olinsky
 - Determine what unauth research would be the most impactful in the near term
-  - How do Veterans navigate to find what they need on the VA.gov home page? (i.e., search at top, browse dropdowns (top), 4 quadrants, topics below, CTAs below, links in footer (including Resources and support), google search)
-  - Test top tasks on the website (Meg wants to get top tasks from analytics, research how well Veterans do these tasks, ask about their top tasks) 
-  - Baseline research across new products that haven’t been tested
+  - **How do Veterans navigate to find what they need on the VA.gov home page?** (i.e., search at top, browse dropdowns (top), 4 quadrants, topics below, CTAs below, links in footer (including Resources and support), google search)
+  - **Test top tasks on the website** (Meg wants to get top tasks from analytics, research how well Veterans do these tasks, ask about their top tasks) 
+  - (Include tasks that may involve Benefit hubs, Resources & support, Find a form, Find Yellow Ribbon school)
+  - **Baseline research across new products that haven’t been tested**
   - Research on products that support the most important user tasks 
-  - Research detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list)
+  - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list)
