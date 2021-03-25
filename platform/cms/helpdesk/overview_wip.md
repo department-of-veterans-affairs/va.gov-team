@@ -32,6 +32,8 @@ When a user requests via the help desk portal, a help desk ticket in Jira Servic
 
 Incoming help desk requests will be immediately replied to, and a first-response and triage workflow will result.
 
+### Labels and Components of JIRA
+https://docs.google.com/spreadsheets/d/1iBvqWLLLQ3ROlvGE0_T3WdNIx0j14szYYjEswqmmx5U/edit#gid=0
 
 ## what methods do we use to respond?
 Jira portal and service desk
@@ -67,6 +69,10 @@ https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/
 
 ### Incidents and Critical Defects
 Incident Response procedures can be found at [Incident Response](incident-response.md) page.
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md
+
+Incident Response Contact Information
+https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0
 
 ### CMS Deployments
 Jenkins Status
@@ -76,6 +82,11 @@ Content Only Deploys
 http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/ 
 
 ### Broken links
+Help Desk Process for Broken Links 
+https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/broken-link-process.md&sa=D&source=editors&ust=1616686938314000&usg=AOvVaw3iQPsn11IhfOY0dV7-DNU1
+
+Broken Links Sync
+https://docs.google.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b
 
 ### what questions are we commonly asked?
 
