@@ -62,10 +62,18 @@ CMS User Management
 https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
 CMS User Administration
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration
+https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/edit#heading=h.s5vy91nn0f0j
 
 
 ### Incidents and Critical Defects
 Incident Response procedures can be found at [Incident Response](incident-response.md) page.
+
+### CMS Deployments
+Jenkins Status
+http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/
+
+Content Only Deploys
+http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/ 
 
 ### Broken links
 
@@ -82,6 +90,9 @@ Training: https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/
 
 Prod: https://prod.cms.va.gov/ 
 
+### CMS Training
+https://staging.cms.va.gov/help/access-training
+
 ### CMS Roles and Responsibilities
 https://prod.cms.va.gov/help/cms-basics/roles-and-permissions 
 
@@ -90,6 +101,16 @@ CMS Tier 2 Rotation and Responsibilities
 https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit
 GitHub Tickets for Backlog
 https://docs.google.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0
+Tier 2 Triage for Actionable Items from User Feedback
+https://whimsical.com/product-and-tier-2-triage-for-actionable-items-from-user-feedbac-9wUpPeb6T69NUKDsKY3HqY
 
 
 ## tier 3 (other teams)
+VA Org Chart
+https://docs.google.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0
+
+## Tier 1
+Tier 1 Help Desk Triage
+https://docs.google.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0
+Tier 1 Help Desk Product Scope of Support
+https://docs.google.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#
