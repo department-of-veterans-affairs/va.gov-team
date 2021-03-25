@@ -57,7 +57,12 @@ https://design.va.gov/content-style-guide/
 
 
 
-### account creation and training
+### Account Creation and Training
+CMS User Management
+https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
+CMS User Administration
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration
+
 
 ### Incidents and Critical Defects
 Incident Response procedures can be found at [Incident Response](incident-response.md) page.
@@ -67,6 +72,8 @@ Incident Response procedures can be found at [Incident Response](incident-respon
 ### what questions are we commonly asked?
 
 #### what are some common questions and answers?
+CMS Common Questions
+https://docs.google.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9
 
 ### CMS environments
 CMS non-prod Environments (default password drupal8)
@@ -79,5 +86,10 @@ Prod: https://prod.cms.va.gov/
 https://prod.cms.va.gov/help/cms-basics/roles-and-permissions 
 
 ## tier 2 (help from CMS team)
+CMS Tier 2 Rotation and Responsibilities
+https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit
+GitHub Tickets for Backlog
+https://docs.google.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0
+
 
 ## tier 3 (other teams)
