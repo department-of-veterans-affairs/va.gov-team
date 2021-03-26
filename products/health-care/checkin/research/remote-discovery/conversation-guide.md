@@ -56,6 +56,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Is there anything else we should know about checking in to virtual appointment?
 
 ## Kiosk (25 minutes)
+- Prototype to show during this portion of the test: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm
 - _If they didn’t mention a kiosk above, confirm that they have utilized these machines. Show a picture of the machine if need be._ Have you ever used one of the check-in kiosk machines at the VA?
   - If no…
     - Have you ever seen them in a VA location?
