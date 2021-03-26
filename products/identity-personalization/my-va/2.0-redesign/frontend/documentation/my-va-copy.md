@@ -147,14 +147,13 @@ Another VA health facility
 {CTA button} Go to My HealtheVet
 
 
-## Errors - tracked in #21872
+## ERRORS
 
-### When we can't detect whether someone has health care or not
+## When we can't detect whether someone has health care or not
 
 **We can't access any health care information right now**
 
 We’re sorry. Something went wrong on our end. If you get health care through VA, you won't be able to access your health care information right now. Please refresh or try again later.
-
 
 
 ### When we can't access appointment information
