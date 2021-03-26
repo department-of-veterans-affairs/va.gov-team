@@ -19,6 +19,30 @@
 - In January, Congress mandated that public DBQs were to be published on the website. They talked to DBQ and they agreed to publish as documents only not forms.  
 - Tina Skelly is the contact at MDE.  They have been in discussions with MDE about how they would about writing regs around DBQs.  
 - If these are spun back up as forms, those will be re-entered into the forms database.  This is a 6-18 month process
+- Nichole observed that what is in their database currently is out of date.
+- Mark explained that the issue now is a sync issue.  All they return is metadata; they don't actually serve the file. He also explained that some consumers want to know when something is decommissioned.
+- Robert - is there a forum where they could post latest information about a form?
+- Mark - the 'Deleted At' is really the only thing
+- Nichole said they have an API Staus page 
+- Mark asked Robert if there is any language about the metadata
+- Congress did not ask them to take the forms down; they asked them to put them back.
+- Robert shared a Word doc with the language related to the form & gave a quick overview
+- Forms generally expire in 3 years
+- They typically will accept it for 1 year after it expires
+- Mark also mentioned the naming inconsistencies (sometimes has a VA, but sometimes does)
+- Robert explained that VA Form 21-0538 is a controlled form.  21-means it's controlled by Robert's office
+- 20- whatever is controlled by another person
+- 10- whatever is a VHA form
+- A form called VA Form 9 with no prefix - that's just a VA Form
+- SF and OMB are also controlled
+- Mark showed an example of where a form was called VA
+- Nichole asked if we could get a document showing the naming conventions, how forms get loaded, etc. and listening in on forums
+- Robert has a forms manager who has eight years experience in forms - Kayce White - she could probably answer any question we have about forms. 
+- John - In closing - do we need to keep the ghosted forms in the database? 
+- Robert - he could set up a call with Kayce and we could show them what we have.
+
+#### Next Steps
+- John will arrange another call next week.
 
 ## 2021-03-26 Meeting with Team Matsumoto (Forms API Support Team)
 
