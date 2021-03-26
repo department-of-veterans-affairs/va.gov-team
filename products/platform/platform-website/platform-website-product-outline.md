@@ -10,7 +10,8 @@ VSP has created a myriad of documentation to help our customers (i.e. VFS teams)
 - Frustrating our customers, and 
 - Potentially resulting in products on VA.gov that don't meet VSP standards. 
 
-_HMW leverage Confluence to improve the info findability for VFS teams?_
+_HMW enable Platform Teams to be responsible for populating and maintaining the Platform Website?_
+_HMW guide Platform Teams to deprecate info. on GitHub?_
 
 ## Personas
 * VFS team members
