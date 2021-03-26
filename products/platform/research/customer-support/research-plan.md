@@ -1,3 +1,27 @@
+<!-- Output copied to clipboard! -->
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.989 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β29
+* Fri Mar 26 2021 14:14:03 GMT-0700 (PDT)
+* Source doc: Research Plan - Customer Support Slack Workflow
+----->
+
+
+
 # Research Plan for Customer Support Slack Workflow
 
 Service Design
@@ -8,14 +32,20 @@ March 2021
 ## Goals	
 
 
-1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. 
+
+1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  \
 
 2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
 
+     \
 Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
+
+     \
 If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
 
+
+     \
 These solution options seek to create a standardized way of logging customer support requests by using Slack workflows. 
 
 
@@ -35,7 +65,7 @@ These solution options seek to create a standardized way of logging customer sup
 
 
 
-3. Research questions: 
+1. Research questions: 
 *   What are some things that VFS team members reach out for help from Platform support?
 *   If prompted, can VFS team members find the customer support shortcut in Slack? 
 *   Which workflow form best matches VFS team members expectations of getting help?
@@ -47,7 +77,7 @@ These solution options seek to create a standardized way of logging customer sup
 
 
 
-4. Hypothesis: What is your hypothesis for this research?
+1. Hypothesis: What is your hypothesis for this research?
 
     We hypothesize that:
 
@@ -61,17 +91,26 @@ These solution options seek to create a standardized way of logging customer sup
 
 
 1. What method of research are you planning? 	
-We will be conducting directed interviews and usability testing with high-fidelity prototypes. They will be moderated remotely.
+
+    We will be conducting directed interviews and usability testing with high-fidelity prototypes. They will be moderated remotely.
 
 
-2. Why this method? How does this methodology help you answer your research questions? 	
-We have 2 solutions we want to test to see which aligns with the type of help VFS team members might need and makes Platform support more efficient.  A short interview will allow us to gather types of inquiries people might have when seeking support. Then, conducting a short usability testing will allow us to test the task of getting help from the Platform with some of the scenarios mentioned in the interview. Each participant will see both option 1 and option 2. Followed by a debrief session. We will alternate between which options participants see first. 
+    2. Why this method? How does this methodology help you answer your research questions? 	
 
-3. Where are you planning to do your research? 
-Research will be conducted remotely via Zoom and recorded. 
 
-4. What will you be testing? 	
-We will be testing 2 sample forms built-in Slack to help inform the choice between the 2 options.  
+    We have 2 solutions we want to test to see which aligns with the type of help VFS team members might need and makes Platform support more efficient.  A short interview will allow us to gather types of inquiries people might have when seeking support. Then, conducting a short usability testing will allow us to test the task of getting help from the Platform with some of the scenarios mentioned in the interview. Each participant will see both option 1 and option 2. Followed by a debrief session. We will alternate between which options participants see first. 
+
+
+    3. Where are you planning to do your research? 
+
+
+    Research will be conducted remotely via Zoom and recorded. 
+
+
+    4. What will you be testing? 	
+
+
+    We will be testing 2 sample forms built-in Slack to help inform the choice between the 2 options.  
 
 
 
@@ -79,7 +118,7 @@ We will be testing 2 sample forms built-in Slack to help inform the choice betwe
 
 
 
-1. Participant criteria: What are you looking for in a participant?	 
+1. Participant criteria: What are you looking for in a participant?	 \
 (Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
 *   10 - 12 VFS participants
     *   4 BE Engineers
@@ -91,7 +130,7 @@ We will be testing 2 sample forms built-in Slack to help inform the choice betwe
     *   1 Analytics
     *   1 Content Support
     *   1 IA Support
-2. What is your recruitment strategy? 	 
+2. What is your recruitment strategy? 	 \
 Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
 We’ll reach out in Slack directly to participants. Will consider [past participation with studies](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416).
 
@@ -100,20 +139,22 @@ We’ll reach out in Slack directly to participants. Will consider [past partici
 
 
 
-1. Timeline: What dates do you plan to do research?
+1. Timeline: What dates do you plan to do research? 	 \
 (Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 
 
     The research will be conducted between April 6 - 16. We will recruit Platform participants for April 6-9 and VFS for April 12-14. 
 
 2. Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-    March  28th  
+
+    March  28th  \
 
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, &lt; 1 hour, up to 2 hours, up to 4 hours) 
-    45 minutes  
+
+    45 minutes  \
 
 
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 
+4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 \
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
@@ -126,6 +167,8 @@ We’ll reach out in Slack directly to participants. Will consider [past partici
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
 
 Moderator:	
+
+
 
 *   Research guide writing and task development (usually but not always same as moderator): Naomi Marcussen, Jonathan Nelson 
 *   Participant recruiting & screening: Jonathan  (VFS) & Naomi (VSP) Calendly?
