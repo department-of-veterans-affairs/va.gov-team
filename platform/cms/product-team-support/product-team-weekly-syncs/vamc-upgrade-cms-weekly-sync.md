@@ -25,9 +25,26 @@
 
 * CMS help desk triage - feedback and discussion.
   * Escalation paths, prevent request loops, what can we do better?
-* Dual-state deployment schedule next week
+  * 22 users from first seven VISNs are in the system. 
+  * How can we prevent "loops"
+    * Stan: eg Stan referred Nate to help desk and help desk referred Nate to Stan. 
+    * Dave: What's the data like? Is this CMS related or is it "how do i use this product"? 
+      * Stan's team has larger capacity to teach the content intent and collect the data for the product team.
+    * Clarence: main source of pain are a few users.
+    * Stan: if it's a content question, send it to VAMC upgrade. If it's technical, CMS team eg "can't find this, how do i get to this". VAMC upgrade team will host a Q&A in a couple weeks for VAMC editors who have completed their training.
+    * Vanessa: Proposed process for CMS help desk referring an issue to VAMC upgrade team: add Stan as a participant on Jira ticket. At that point Stan can respond via email to those Jira issues.
+    * Can we add the participant field to the #cms-helpdesk-bot, then Stan can set up a notification for that channel when he is mentioned. 
+* Dual-state: VISN 16!
+  * Deployment schedule next week: 3 for Tuesday March 30. 3 for Wednesday.  
+  * Eastern colorado- Steve and Kevin to try to reproduce on Tugboat today (may be an update next week)
+* Content being published before Dual State (eg Houston content published before Houston is in dual state)
+  * Stan will have source of truth pinned to VAMC upgrade channel. [This list](https://prod.cms.va.gov/admin/content?title=&type=health_care_region_page&moderation_state=editorial-published&owner=All) also shows VAMC systems that are published, which is an imperfect proxy for dual state. 
+  * Next week: Talk about opportunities to remove publishing until Dual State. Kev to set something up. 
 * Policies page announcement for training and change management (may be too soon to discuss, depends on FE) 
-  * How should communication flow for PGH, for Dual State, and for future users. 
+  * Jane has slacked slidedeck to Dave for review with a few questions 
+  * Recording can happen next sprint. 
+  * Existing FE Policies pages can be used in training materials.  
+  * Delivery of training and other change management is dependent on FE (which is blocked by a CMS issue). 
 
 ## Friday Mar 19 10:30am ET
 
