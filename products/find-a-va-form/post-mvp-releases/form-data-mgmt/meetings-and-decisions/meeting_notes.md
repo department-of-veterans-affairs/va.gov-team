@@ -5,6 +5,37 @@
 #### Attendees:
 - John Hashimoto - Product Owner
 - Marci McGuire - Product Manager
+- Nichole Harris - Product Manager, Team Matsumoto (Lighthouse API Support)
+- Mark Viterna - Developer, Intake/Forms API
+
+#### Notes:
+- We want to make sure that everyone is aligned on  timing, testing 
+- Nichole checked with other API users that want info retained for historic purposes.  For the ghost records, they want to retain 
+- John has a couple questions, comments
+    - DBQ forms - a lot of the forms in the 'ghost list' are benefit questionnaires.  what we found out today that earlier this year, they decided to revive/not retire them.  Basicially, one party has those DBQs has those on their web site.  They are not **forms**, they are questionnaires, so they should not be in the Find a VA Form (
+    - We have a call with Robert Parks at 4:45 today, and Nichole should be part of that.  We don't want to be in the middle of their relationship with other API users. Premal Shah should be the VA representative for the Lighthouse API team.
+    - None of us knows 100% about how this all works.
+    - Here's where we are today
+        - We need to have some business-type meetings with the stakeholders
+        - Find a Form product doesn't really need to be connected to the Forms API.  Nichole - up until now, they were intending to be 100% in sync with Find a VA Form
+        - I explained that there is a challenge in the way that the search logic works in the API, and it is a hinderance to our ability to easily/quickly improve
+        - Per Mark, there is a SHA calculation associated with the PDF that other consumers use to determine if something has changed (_note - Find a VA Form does not use that_)
+        - I clarified that we aren't suggesting that the API be retired; we're simply saying we don't believe the API is necessary for Find a VA Form because everything we need is already in the CMS
+        - Nichole expressed concern that us going straight to the CMS, there will be divergence (_note - there is divergence now; ghost forms & duplicates_)
+        - We would want to discuss this with Steve Wirt to verify there is not an issue with us going straight against the CMS.
+        - Why does the API have to get the data from Drupal vs. the VA database?  Nichole - they want the API to be consistent from what is on the page
+        - Drupal also does an audit on when something changes, and that is not in the VA database
+        - John will schedule a meeting next week with Steve Wirt and Premal, possibly Mike Chelen.
+        - Can we tackle the ghost records at a later date?
+        - Ghost records can be updated any day we want.  Monday restriction is just because it's a busy day
+        - Mark doesn't really have control over the time when the fix goes in to populate the row ID (_subject to any platform issues, same as us_)
+        - Mark will only be populating the row ID field he's already created - we'll do that on Tuesday starting around 2:00 PM.  Mark will let us know when it goes live so we can check it.
+
+## 2021-03-26
+
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
 - Janel Keyes - Deputy Director, VA, VHA - Has been with VA for 10 years. Was a PCO at VBA in the past.  Did not work with Jen Lee on the MVP.
 - Gail Smith - Management Analyst, VA, VHA - Has been working in this office for the past 5 years.  Started working with Brian McCarthy on forms about 2 years ago. She publishes forms, can change things on the forms. 
 
