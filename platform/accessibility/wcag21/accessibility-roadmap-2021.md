@@ -25,7 +25,7 @@ Increase accessibility of all VA.gov tools and products
 1. **Q3: Continue to roll out WCAG 2.1 with new projects and as new staff comes onboard**
     1. Goal is 1 accessibility specialist for every 5 developers
     1. Add 508 Compliance metrics to the public-facing VA.gov dashboard
-1. **Publish accessibility stats to the VA.gov dashboard**
+1. **Q4: Publish accessibility stats to the VA.gov dashboard**
     1. All new projects will be upgraded to 2.1 standards
 
 ## Big projects (bets and initiatives) relating to Mission 2
@@ -33,8 +33,8 @@ Establish a [trauma informed design practice](https://www.slideshare.net/Theresa
 
 1. Q1: Kick-off pilot of embedding 1-2 VA social workers in the design team with the goal of establishing a trauma-informed design culture
 1. Q2: Run the pilot
-1. Assess progress and publish report of our case study
-1. Make it permanent to have social workers on the OCTO team
+1. Q3: Assess progress and publish report of our case study
+1. Q4: Make it permanent to have social workers on the OCTO team
 
 ---
 <img width="1000" alt="WCAG 2.1 roadmap showing objectives for Q1 through Q4, 2021" src="https://user-images.githubusercontent.com/934879/112547072-43f30200-8d88-11eb-8d37-484f0a8beadb.png">
