@@ -15,11 +15,11 @@ _HMW enable Platform Teams to be responsible for populating and maintaining the 
 _HMW guide Platform Teams to deprecate information on GitHub?_
 
 ## Personas
+* Platform Teams
 * VFS team members
   * Developers
   * PMs and POs
   * Designers and content writers
-* Platform Teams
 
 ## Measuring success
 
@@ -27,6 +27,7 @@ _HMW guide Platform Teams to deprecate information on GitHub?_
 2021 Q2:
 * Time from idea to published document
 * Time from published document (written without writer involvement) to clear, actionable document (written _with_ writer involvement)
+* Number of requests from Platform Teams over time, about how to populate the Platform Website
 
 2020 Q4:
 * VFS sentiment around proposed platform developer documentation
