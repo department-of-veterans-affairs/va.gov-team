@@ -136,6 +136,8 @@ Primary criteria / Must have: 
 
 -   Must be willing to and able to interact with an Invision prototype and provide feedback on this experience. 
 
+-   Must be on a computer with a stable internet connection.
+
 Secondary criteria / Would like to have: 
 
 -   Participants should be able to describe to the researcher what they are trying to accomplish, what they are experiencing, and what they are thinking, as they are interacting with VA.gov.
