@@ -35,20 +35,26 @@ March 2021
 
 1. What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. 
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
+2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
+
+Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
+
+If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
+
+These solution options seek to create a standardized way of logging customer support requests by using Slack workflows. 
 
     
 The customer support Slack workflow serves a couple of purposes  
 
-1) create a single destination for VFS teams to go for questions and requests of Platform  
-2) make requests/questions for Platform folks that are on-call more clear  
-3) allow for reporting of customer support requests
+1) Create a single destination for VFS teams to go for questions and requests of Platform  
+2) Makes requests/questions for Platform folks that are on-call more clear   
+4) Allows for easy reporting of customer support requests with the ability to download a csv for all forms completed in a Slack channel
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
 *   What are some things that VFS team members reach out for help from Platform support?
 *   If prompted, can VFS team members find the customer support shortcut in Slack? 
-*   Does the workflow form that VFS team members complete match their expectations of getting help?
+*   Which workflow form (that VFS team members complete) best matches their expectations of getting help?
 *   What is their expectation of what will happen after completing the form?
 *   Does the workflow form make it easier for Platform to respond to requests? 
 *   Is there any information we can provide to make the Platform response more efficient? 
@@ -56,11 +62,11 @@ The customer support Slack workflow serves a couple of purposes
  
 4. Hypothesis: What is your hypothesis for this research?
 
+We hypothesize that:
 
-    -  We hypothesize that option 1 (topics) will align with the majority of use cases and result in faster help for Platform support staff.
-
-
+    - Option 1 (topics) will align with the majority of use cases and result in faster help for Platform support staff.
     - The length of _I need help with_ dropdown will be difficult to scan and make the appropriate selection for VFS team members. 
+    - Platform team members will be able to easily generate a dashboard showing the volume and type of support requests in a given time period.
 
  	
 
