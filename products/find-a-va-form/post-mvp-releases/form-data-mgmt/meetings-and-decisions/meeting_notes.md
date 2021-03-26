@@ -1,5 +1,25 @@
 # Meeting Notes
 
+## 2021-03-26 Lighthouse Database Update Meeting with Robert Parks (VBAVACO), Paul Shute
+
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Robert Parks - VBA VACO
+- Nichole Harris - Product Manager, Team Matsumoto (Lighthouse API Support)
+- Mark Viterna - Developer, Intake/Forms API
+
+#### Notes:
+- High level overview of Forms API
+- DBQ (Disability Benefits Questionnaires) forms overview - if something is a VA Form, that is a very very specific thing. Some VA forms are pamphlets (non-substative forms - not subject to certain rules).  Some forms are controlled. They have to renew everything years, petition to OMB, petition for each renewal and published in the Federal Register twice. 
+- Each form has a very specific version number assigned by OMB, and that can't be tinkered with.  
+- Up until 2020, DBQ were considered controlled forms.  In 2020, they were made publicly-facing.  
+- The problem was that Veterans, VSOs and other people.  Some people were using them for fraudenlent purposes ("pay me and I'll put anything in that you want").  They were told to take them off the public site and eventually internally, and discontinued. 
+- MDE used to be part of Comp service.  Last year they split off, and became responsible for DBQ switchboard.  
+- In January, Congress mandated that public DBQs were to be published on the website. They talked to DBQ and they agreed to publish as documents only not forms.  
+- Tina Skelly is the contact at MDE.  They have been in discussions with MDE about how they would about writing regs around DBQs.  
+- If these are spun back up as forms, those will be re-entered into the forms database.  This is a 6-18 month process
+
 ## 2021-03-26 Meeting with Team Matsumoto (Forms API Support Team)
 
 #### Attendees:
