@@ -15,104 +15,17 @@
 
 ### My VA
 
-This is the plan if we didn't launch My VA in the past sprint. If we did, move on to launches to 50% and 100%.
-
-**PM**
-
-- Hold launch go/no-go
-- Monitor launch to 25%
-
-**FE**
-
-- Flip switch to 25% of users
-
 ### Preferred medical facility 
 
-**PM**
-
-- Finish contact center updates
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-  - Prep
-  - Hold meeting
-- UAT go/no-go (before we kick off recruiting)
-
-**Design**
-
-- 508 checks required pre-staging review
-- UAT research plan
-- UAT conversation guide
-- UAT recruiting pending UAT go/no-go
-
-**FE**
-
-- 508 checks required pre-staging review
-
 ### Notification preferences
-
-**PM**
-
-- Finish contact center updates
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-  - Prep
-  - Hold meeting
-- UAT go/no-go (before we kick off recruiting)
-
-**Design**
-
-- 508 checks required pre-staging review
-- UAT research plan
-- UAT conversation guide
-- UAT recruiting pending UAT go/no-go
-
-**FE**
-
-- 508 checks required pre-staging review
 
 ## Sprint 52 (7/14 - 7/27)
 
 ### My VA
 
-This is the plan if we didn't launch My VA to 100% in the past sprint. If we did, move on to post-launch work.
-
-**PM**
-
-- Monitor launch to 50%
-- Monitor launch to 100%
-
-**FE**
-
-- Flip switch to 50% of users
-- Flip switch to 100% of users
-
 ### Preferred medical facility 
 
-**PM**
-
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-
-**Design**
-
-- UAT
-
-**FE**
-
-- Fixes from UAT
-
 ### Notification preferences
-
-**PM**
-
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-
-**Design**
-
-- UAT
-
-**FE**
-
-- Fixes from UAT
 
 ### My VA redesign
 
@@ -122,27 +35,7 @@ This is the plan if we didn't launch My VA to 100% in the past sprint. If we did
 
 ### Preferred medical facility 
 
-**PM**
-
-- Hold go/no-go
-- Launch to 25%
-- Keep eBenefits updated on launch
-
-**FE**
-
-- Fixes from UAT, if needed
-
 ### Notification preferences
-
-**PM**
-
-- Hold go/no-go
-- Launch to 25%
-- Keep eBenefits updated on launch
-
-**FE**
-
-- Fixes from UAT, if needed
 
 ## Sprint 54 (8/11 - 8/24)
 
@@ -150,17 +43,7 @@ This is the plan if we didn't launch My VA to 100% in the past sprint. If we did
 
 ### Preferred medical facility 
 
-**PM**
-
-- Launch to 50%
-- Launch to 100%
-
 ### Notification preferences
-
-**PM**
-
-- Launch to 50%
-- Launch to 100%
 
 ## Sprint 55 (8/25 - 9/7)
 
