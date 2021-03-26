@@ -32,7 +32,7 @@ March 2021
 ## Goals	
 
 
-1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  \
+1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  
 
 2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
 
@@ -107,7 +107,7 @@ These solution options seek to create a standardized way of logging customer sup
 
 
 
-1. Participant criteria: What are you looking for in a participant?	 \
+1. Participant criteria: What are you looking for in a participant?	 
 (Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
 *   10 - 12 VFS participants
     *   4 BE Engineers
@@ -119,8 +119,8 @@ These solution options seek to create a standardized way of logging customer sup
     *   1 Analytics
     *   1 Content Support
     *   1 IA Support
-2. What is your recruitment strategy? 	 \
-Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
+2. What is your recruitment strategy? 	 
+Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 
 We’ll reach out in Slack directly to participants. Will consider [past participation with studies](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416).
 
 
@@ -184,7 +184,7 @@ _Link to any documents used for synthesis (Mural or Realtimeboard boards, excel 
 
 Lessons Learned	
 
-_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ \
+_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ 
 
 
 Read-Out/Results	
