@@ -232,7 +232,11 @@ If unblocked by VA Profile:
 - Claims error message #21370
 - Claims spinner handling #21372
 - Tress to update [copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md) with final copy
-- Talk to Tressa to see what other design work is still outstanding
+- Review and update My VA test cases
+    - [My VA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md).
+    - Update this documentation based on final designs
+    - Review with team 
+    - Let Tze know this documentation has been updated and ask whether he or AJ should update the test cases in TestRail
 
 **FE**
 
@@ -301,11 +305,6 @@ FE
 
 - Final handoff to FE
 - Start reviewing FE build
-- Review and update My VA test cases
-    - [My VA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md).
-    - Update this documentation based on final designs
-    - Review with team 
-    - Let Tze know this documentation has been updated and ask whether he or AJ should update the test cases in TestRail
 - Talk to Trevor about what assistive tech testing would look like
 
 **FE**
