@@ -37,15 +37,15 @@ Here's an illustration of this folder structure:
 
 Use the same pattern for templates under test in other directories like `includes`, `navigation`, etc.
 
-### `parseFixture()`
+### `parseFixture(filePath)`
 `parseFixture()` takes a `JSON` fixtures path starting from `src/` and returns a `JavaScript` object.
 
-### `renderHTML()`
-`renderHTML()` takes a `liquid` template path starting from `src/` and the `JavaScript` object returned by `parseFixture()` and renders an `HTML` document. We can then run the usual Mocha assertions on the result. This function uses the same code as our build process, so all of our custom `liquid` filters can be used.
+### `renderHTML(layoutPath, data, dataName)`
+`renderHTML()` takes a `liquid` template path starting from `src/`, the `JavaScript` object returned by `parseFixture()`, and an optional `dataName` and renders an `HTML` document. We can then run the usual Mocha assertions on the result. This function uses the same code as our build process, so all of our custom `liquid` filters can be used.
 
 This technique can be used to generate tests of varying complexity, ranging from simple rendering sanity checks to complex logic. Since we control the `JSON` test data, we can easily test different scenarios.
 
-### `axeCheck()`
+### `axeCheck(container)`
 `axeCheck()` takes the `HTML` document returned by `renderHTML()` and returns an array of accessibility violations.
 
 #### Disabled Axe Checks
@@ -166,6 +166,16 @@ The spec file and fixture is in the `src/site/layouts/tests/liquid_template_axe_
 
 ## Rendered `HTML` Is Saved to Disk
 For convenience, the `HTML` that's generated from each `liquid` template is automatically saved to `src/site/tests/html` when tests are executed so the `HTML` can be inspected when writing tests. These files are gitignored.
+
+The name of the `HTML` file is created from `liquid` template path.
+
+Example:  
+Given the path `src/site/components/phone-number.drupal.liquid`, an `HTML` file called `phone-number.html` will be created.
+
+However, if you're calling `renderHTML()` many times using different `JavaScript` objects returned by `parseFixture()`, you might want to save an `HTML` file for each `JavaScript` object. In that case, pass in a third, optional argument to `renderHTML()` called `dataName` to add `dataName` to the `HTML` filename.
+
+Example:  
+Given the path `src/site/components/phone-number.drupal.liquid`, and `labelAndLocationName` for `dataName` an `HTML` file called `phone-number.labelAndLocationName.html` will be created. 
 
 ## Sample Test
 Here is a sample test:
