@@ -21,7 +21,7 @@
 
 ## Desired User Outcomes
 - All interested users are able to apply for the scholarship
-- Ineligible applicants get an immediate decision (no longer have to wait 30 days)
+- Some ineligible applicants (those with more than 6 months remaining Chapter 33 entitlement in LTS) get an immediate decision (no longer have to wait 30 days)
 
 ## Undesired User Outcomes
 - Users are frustrated by an automated decision (feeling the human review experience allows for exceptions to the rules where appropriate)
@@ -30,7 +30,7 @@
 - Application processing team no longer has to review as many ineligible STEM applications
 
 ## Undesired Business Outcomes
-- The number of appeals due to STEM denials increases significantly is problematic for the appeals team.
+- The number of appeals due to STEM denials increases and is the work is therefore transferred to the appeals team.
 
 
 ---
@@ -54,7 +54,7 @@ _Include links to Domo or Google Analytics Dashboards/Reports_
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 - Objective:
-  - Key result: Veterans 
+  - Key result: 
   - Key result: 
 
 
@@ -68,7 +68,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - *What are you going to build now, and why have you decided to start there?*
 
-We are going to develop business logic to assess applicant answers and remaining entitlement to determine if the an automated denial is warranted based on criteria provided by our EDU stakeholder. Automated denials will generate a new spool file document type to send to The Image Management System (TIMS) for permanent record of the decision. An email will be sent to the applicant informing them there has been a decision. An item will be added to the claims status page with the denial record, details, and a link to appeals rights and procedures. Applications where automated denial is not warranted will be processed as normal.
+We are going to develop business logic to assess remaining entitlement to determine if the an automated denial is warranted based on criteria provided by our EDU stakeholder. Automated denials will generate a new spool file document type to send to The Image Management System (TIMS) for permanent record of the decision. An email will be sent to the applicant informing them there has been a decision. An item will be added to the claims status page with the denial record, details, and a link to appeals rights and procedures. Applications where automated denial is not warranted will be processed as normal.
 
 - *Why this solution / approach over other solutions / approaches?*
 
@@ -97,7 +97,7 @@ Education Service will be updated via project briefings and demos
 
 ## Launch Dates
 - *Target Launch Date*
-  - 04/08/21
+  - 04/23/21
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
@@ -106,7 +106,7 @@ Education Service will be updated via project briefings and demos
 
 ## Solution Narrative
 
-## Incident Response@Daniel Shawkey)
+## Incident Response
 - Points of contact for your system: Dan Shawkey (shawkey_daniel@bah.com, @Daniel Shawkey), Devin McCurdy (mccurdy_devin@bah.com, @Devin McCurdy), Matt Roth (roth_matthew@bah.com @Matt Roth)
 - Points of contact for dependent VA backends: N/A
 - Links to dashboards that help identify and debug application issues: 
