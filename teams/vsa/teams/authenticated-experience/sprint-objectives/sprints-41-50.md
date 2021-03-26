@@ -304,7 +304,6 @@ FE
 - Assist Tressa with contact center guide
 - Thorough review FE build
   - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
-- Submit contact center guide for[contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md) once the contact center guide is done
 
 **Design**
 
@@ -368,6 +367,7 @@ Prep for QA!!
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
 - Request QA for following sprint pending team's "go"
 - Assist Tressa in finishing contact center guide
+- Submit contact center guide for [contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md) once the contact center guide is done
 
 **Design**
 
