@@ -32,24 +32,16 @@ March 2021
 ## Goals	
 
 
-
 1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  \
 
 2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
 
-     \
 Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
-
-     \
 If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
 
-
-     \
 These solution options seek to create a standardized way of logging customer support requests by using Slack workflows. 
 
-
-    
 
 
     The customer support Slack workflow serves a couple of purposes  
@@ -72,9 +64,6 @@ These solution options seek to create a standardized way of logging customer sup
 *   What is a VFS team members expectation of what will happen after completing the form?
 *   Does the workflow form make it easier for Platform to respond to requests? 
 *   Is there any information we can provide to make the Platform response more efficient? 
-
- 
-
 
 
 1. Hypothesis: What is your hypothesis for this research?
@@ -139,22 +128,22 @@ We’ll reach out in Slack directly to participants. Will consider [past partici
 
 
 
-1. Timeline: What dates do you plan to do research? 	 \
+1. Timeline: What dates do you plan to do research? 	 
 (Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 
 
     The research will be conducted between April 6 - 16. We will recruit Platform participants for April 6-9 and VFS for April 12-14. 
 
 2. Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 
-    March  28th  \
+    March  28th 
 
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, &lt; 1 hour, up to 2 hours, up to 4 hours) 
 
-    45 minutes  \
+    45 minutes  
 
 
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 \
+4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
@@ -167,8 +156,6 @@ We’ll reach out in Slack directly to participants. Will consider [past partici
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
 
 Moderator:	
-
-
 
 *   Research guide writing and task development (usually but not always same as moderator): Naomi Marcussen, Jonathan Nelson 
 *   Participant recruiting & screening: Jonathan  (VFS) & Naomi (VSP) Calendly?
