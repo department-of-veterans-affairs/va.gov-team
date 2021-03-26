@@ -24,7 +24,11 @@ _HMW guide Platform Teams to deprecate information on GitHub?_
 ## Measuring success
 
 ### Key performance indicators (KPIs)
-For the 2020 Q4:
+2021 Q2:
+* Time from idea to published document
+* Time from published document (written without writer involvement) to clear, actionable document (written _with_ writer involvement)
+
+2020 Q4:
 * VFS sentiment around proposed platform developer documentation
 
 Overall:
