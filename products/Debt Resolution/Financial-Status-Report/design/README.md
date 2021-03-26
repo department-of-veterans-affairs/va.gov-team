@@ -12,7 +12,6 @@
 [View full design change log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/design/wireflows-change-log.md)
 
 ## Form outline:
-
 - [Unauthenticated content page](https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701377/simulate/sitemap?mode=i)
 - [Authenticated content page](https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701378/simulate/sitemap?mode=i)
 - [Wizard](https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701647/simulate/sitemap?mode=i)
@@ -35,9 +34,6 @@
   -   C5P1: Resolution options
 - C6: Bankruptcy attestation
   -   C6P1: Bankruptcy attestation
-- C7: Signatures
-  -   C7P1: Signatures
-- C8: Review
-  -   C8P1: Review
+- C7: Review
 - Confirmation
 
