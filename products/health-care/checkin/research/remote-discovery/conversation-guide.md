@@ -7,9 +7,9 @@
 - In the Audio section, tap the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.
 - When the participant is ready, begin the session with the following intro.
 
-## Project-specific setup and Introduction (5 minutes)
+## Project-specific setup and introduction (5 minutes)
 
-Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes.Today we’re going to discuss the process of checking into an appointment.
+Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we’re going to discuss the process of checking into an appointment.
 
 - **In this session, we want to hear your honest opinions.** We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - The timing of this session may vary a little bit based upon your different experiences with check-in, but **this entire session will take no longer than an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -40,6 +40,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What did you not like about it?
   - How has checking in for an appointment changed with COVID-19?
     - Did you have to complete a form before entering the facility? If yes, probe on if it was something completed in advance/on their mobile device/paper/something else.
+- After you checked-in, how did you know where to go next? Where were you directed to go (directly to the doctor’s office area, a central waiting room, or somewhere else)?
 - Which check-in method do you use most often? This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments. (Note for researcher: there is the “I am here” system as well as a separate solution only available in South Carolina)
 - Do you receive any of your healthcare from outside the VA? 
   - If yes...
@@ -50,7 +51,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
   - _If they’ve had at least one…_
     - How do you check in for a virtual appointment? 
       - How do you interact with medical staff like nurses? 
-      - What do you need to fill out ahead of time?
+      - Did you need to fill out anything ahead of time?
         - How far in advance of your appointment do you fill it out?
     - When it is time for your virtual appointment, can you tell me what that looks like? How do you “show up” for your appointment? 
     - Is there anything else we should know about checking in to virtual appointment?
@@ -70,14 +71,15 @@ Now, I’m going to ask you to think about your very last medical appointment th
       - Filing a Beneficiary Travel Mileage request
   - If yes...
     - I now want to show you a few kiosk screens before I ask more questions about kiosks. _Share my screen and go through a prototype of the main appointment kiosk sign-in and check-in workflow with contact information. After showing them the workflow…_
-      - Does this look similar or different from your experience? How so?
+      - Does this look familiar?
       - Have you ever been asked additional questions compared to what I just showed you when checking-in via the kiosk?
         - What were the questions?
         - What type of appointments were they for?
-      - _Skip if Veteran described a kiosk experience in the intro section._ How would your describe that check-in experience? Was it a good or bad experience? Easy or hard?
+      - _Skip if Veteran described a kiosk experience in the intro section._ How would you describe that check-in experience? Was it a good or bad experience? Easy or hard?
         - What did you like about it?
         - What did you not like about it? 
-    - Have you ever used the kiosk to check-in for a lab? _Show them screens of the lab experience._
+    - Have you ever used the kiosk for something that you didn't have an appointment for?
+    - What about to check-in for a lab? _Show them screens of the lab experience._
       - If yes, 
         - How would you describe that experience?
           - What did you like about it?
@@ -130,5 +132,5 @@ Now, I’m going to ask you to think about your very last medical appointment th
 ## Thank you and closing (2 minutes)
 Well we really appreciate you taking the time to share your thoughts with us and allowing us to learn more about the check-in process today. Your feedback is so helpful to us as we continue to work on improving the check-in experience.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again and enjoy the rest of your day!
 
