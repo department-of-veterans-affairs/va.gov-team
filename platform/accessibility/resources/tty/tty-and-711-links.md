@@ -11,7 +11,7 @@ Follow the same coding and styling patterns for linking telephone numbers on you
 
 Set TTY numbers apart from other phone numbers by:
 - Preceding the number with TTY **or**
-- If your UI pattern typically uses a phone icon for phone numbers, use a TTY icon for 711 and all other TTY-specific phone numbers
+- If your UI pattern typically uses a phone icon for phone numbers, use a TTY icon for 711 and all other TTY-specific phone numbers.
 - The best practice is to use 711 as it does not require a copy change if the office decides to remove their TTY number.
 
 ## Using a TTY
