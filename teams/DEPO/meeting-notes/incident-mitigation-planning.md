@@ -9,6 +9,8 @@ Folks (Mike, Michelle, Dror, perhaps others) have already been discussing interi
 
 
 ## General notes
+
+## Ideas / brainstorming
 - Blue / green deploys
 - Rolling back
 - Visual regression testing
