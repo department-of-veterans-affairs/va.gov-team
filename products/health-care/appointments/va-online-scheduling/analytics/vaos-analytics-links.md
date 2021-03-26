@@ -42,5 +42,5 @@ Exit links from within the app
 ### VAOS for Distribution
 #### Conversion
 From vaccine "start scheduling" to appointment submission
-- GA: https://analytics.google.com/analytics/web/template?uid=_uKH3ZpxTwqmcDnjkY68aQ
+- GA: https://analytics.google.com/analytics/web/template?uid=EsiQR4SvS-eo3f4EwTYZNg
 
