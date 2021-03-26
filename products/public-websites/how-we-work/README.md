@@ -35,8 +35,8 @@ Note: Disability and Education are the most de-centralized, go through VBA VACO 
 
 Product-specific SMEs:
 
-- VA Forms: 
-`@John - Should we just link over to the README on Find a VA Form so we aren't maintaining in two places?`
+- VA Forms
+``@John - Should we just link this section to the contacts section in VA Forms README so we're not maintaining contact names in two places?``
 
   - Brian McCarthy - VHA National Policy Lead, helping forge strategy for modernization of VA forms
   - Diane Huber and Kevin Reid - Office of Information and Technology (OIT), manage legacy forms DB
