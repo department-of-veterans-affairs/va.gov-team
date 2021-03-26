@@ -5,8 +5,8 @@
 #### Attendees:
 - John Hashimoto - Product Owner
 - Marci McGuire - Product Manager
-- Janel Keyes - Has been with VA for 10 years. Was a PCO at VBA in the past.  Did not work with Jen Lee on the MVP.
-- Gail Smith - Has been working in this office for the past 5 years.  Started working with Brian McCarthy on forms about 2 years ago. She publishes forms, can change things on the forms. 
+- Janel Keyes - Deputy Director, VA, VHA - Has been with VA for 10 years. Was a PCO at VBA in the past.  Did not work with Jen Lee on the MVP.
+- Gail Smith - Management Analyst, VA, VHA - Has been working in this office for the past 5 years.  Started working with Brian McCarthy on forms about 2 years ago. She publishes forms, can change things on the forms. 
 
 #### Notes
 - Background of the MVP, enhancements, recent metrics
@@ -22,11 +22,15 @@
     - Discovery for VA forms management Proof of Concept (POC)
  - Ongoing
      - Link to new digital applications as they come online to encourage veterans to self-serve and speed time to outcomes
-     - Paul Schute - Comps
-     - Robert Parks - Chief 
-     - Josh Hardy - include in monthly meetings
+     - Paul Schute - Director of Operational Innovation, VBACO
+     - Robert Parks - Chief, Part 3 Regs & Forms, VBACO
+     - Josh Hardy - VHA Program Specialist - include in monthly meetings
 
 ## 2021-03-24
+### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Missie Vaccaro-Palomaki - Forms Manager, VA Office of Acquisition & Logistics (OAL)
 - Missie Vaccaro is OK with the Lighthouse team getting rid of the duplicate records in their data source. 
 - 10091 - VHA at one time was randomly assigning numbers.  They had a 10-10091 form. _follow up note: That form seems to have since been removed_
 - Forms starting with 10- (VHA) forms are managed by a different forms manager. 
