@@ -1,12 +1,7 @@
 # Training
-- Youtube videos
-    - VAMC orientation
-        - [Session 1: Getting started](https://www.youtube.com/watch?v=33AXrfGff98)
-        - [Session 2: Editing basics](https://www.youtube.com/watch?v=cnePWZ7rHpo)
-        - [Session 3: Health services](https://youtu.be/3sYGplqSbZU)
-        - [Session 4: Facilities](https://youtu.be/YwGYw3Sbo1A)
-        - [Session 5: Detail pages, menus, and revisions](https://youtu.be/_NgnuaCuueU)
-  - [Demo environments](https://youtu.be/H9AVBGhd0Vg)
+- Training videos on [CMS help center](https://prod.cms.va.gov/help/access-training#available-trainings)
+  - VAMC editors series
+  - Demo environments
   - Campaign landing pages (TBD)
   - Vet Centers (TBD)
 
