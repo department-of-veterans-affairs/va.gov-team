@@ -367,6 +367,7 @@ Prep for QA!!
   - Making sure Tressa has reviewed the feature
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
 - Request QA for following sprint pending team's "go"
+- Assist Tressa in finishing contact center guide
 
 **Design**
 
@@ -419,13 +420,11 @@ QA!!
   - Analytics planning
   - Meet with analytics
   - Oversee implementation
-- Assist Tressa in finishing contact center guide
 - Start filling out the ticket for [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
   - Be ready to hold this next sprint 
 
 **Design**
 
-- Finish contact center guide
 
 **QA**
 
@@ -572,7 +571,6 @@ QA!!
 ### My VA redesign
 
 **PM**
-
 
 - Hold launch go/no-go 
   - Only do this if everything is good from UAT. If not, hold off until next sprint.
