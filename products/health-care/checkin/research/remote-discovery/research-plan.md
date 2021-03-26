@@ -65,9 +65,11 @@ One hour sessions<br/>
 Team Availability | Time (EST)
 ------------------|--------------
 April 8, 2021 | 10:30 a.m. - 5 p.m., 5:45 - 8 p.m.
-April 9, 2021 | 10 a.m. - 6 p.m.
+April 9, 2021 | 9 a.m. - 6 p.m.
+April 12, 2021 | 11 a.m. - 5 p.m., 6 - 8 p.m.
+April 13, 2021 | 10 a.m. - 5 p.m., 5:45 - 8 p.m.
 
-Pilot Session: April 2, 2021 | TBD
+Pilot Session: April 2, 2021 | 3:30 - 4:30 p.m.
 
 **Team Roles**
 - Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
