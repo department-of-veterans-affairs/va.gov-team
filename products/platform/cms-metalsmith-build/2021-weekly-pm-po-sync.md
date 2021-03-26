@@ -1,5 +1,33 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 3-26-21
+
+### Topics to discuss
+
+* Content release schedule increase 
+* Broken link validation
+* Tracking conent build times (FE team) 
+
+### Notes
+
+* Content release schedule increase 
+   * Oksana: next frequency promised was 8x/day, but that puts us outside of working outs. Question: what should we do with the next release? Switch to 6x/day? Content releases can be manually triggered at any time anyway
+   * Megan: we can add an 8 AM deploy no problem (or other time after hours) but FE Tools will not be around to troubleshoot it
+   * Broken link conversation is also related 
+   * Mike: CMS support desk is online at 8 am - commitment is not that issues will be resolved by next release but that they will be responded to. 
+   * CMS Tier 1 support can fix some broken links
+* Broken link checking
+   * We warn editors when they're trying to save a node if it has a broken link, but there are some situations where we aren't able to block people
+* Content editor culture and notification system 
+   * Need to set stage for detailed notification system for content editors 
+
+### Action Items
+
+* Megan set up meeting with CMS team to discuss deploy failure expectations and responsibilities 
+* Comms notes
+   * Still iterating on this
+   * Time to respond to issues does not equal time to resolve issues 
+
 ## 3-12-21
 
 ### Topics to discuss
