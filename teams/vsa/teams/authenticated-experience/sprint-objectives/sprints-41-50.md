@@ -385,238 +385,36 @@ Prep for QA!!
 
 ### Preferred medical facility 
 
-**PM**
-
-- Plan for usability test prep
-
-**Design**
-
-- Research plan
-- Convo guide
-
 ### Notification preferences
-
-**PM**
-
-- Plan for usability test prep
-
-**Design**
-
-- Research plan
-- Convo guide
 
 ## Sprint 47 (5/5 - 5/18)
 
 ### My VA redesign
 
-QA!!
-
-**PM**
-
-- Complete release plan and save in direct deposit for edu GitHub folder (template)
-- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md)
-  - Analytics planning
-  - Meet with analytics
-  - Oversee implementation
-- Start filling out the ticket for [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-  - Be ready to hold this next sprint 
-
-**Design**
-
-
-**QA**
-
-- Complete QA
-- Create tickets if there are issues
-
-**FE**
-
-- QA fixes, if applicable
-
 ### Preferred medical facility 
-
-**PM**
-
-- Hold usability test prep review
-
-**Design**
-
-- Recruit for research
-- Conduct research
-
-**FE**
-
-- Begin build
 
 ### Notification preferences
 
 **PM**
-
-- Hold usability test prep review
-
-**Design**
-
-- Recruit for research
-- Conduct research
-
-**FE**
-
-- Begin build
 
 ## Sprint 48 (5/19 - 6/1)
 
 ### My VA redesign
 
-**PM**
-
-- Hold [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
-- Set up meeting with comms to discuss marketing needs
-- Start ticket for [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-
-**Design**
-
-- Accessibility tests for staging review
-- UAT research plan
-- UAT convo guide
-
-**FE**
-
-- Accessibility tests for staging review
-- Prepare any technical documentation required for the [privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-
 ### Preferred medical facility 
 
-**PM**
-
--
-
-**Design**
-
-- Finish research
-- Research write up
-- Update mocks
-
-**FE**
-
-- Continue build
-
 ### Notification preferences
-
-**PM**
-
--
-
-**Design**
-
-- Finish research
-- Research write up
-- Update mocks
-
-**FE**
-
-- Continue build
 
 ## Sprint 49 (6/2 - 6/15)
 
 ### My VA redesign
 
-**PM**
-
-- Submit ticket for [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
-- Hold go/no-go for UAT
-
-**Design**
-
-- UAT recruiting
-- Start UAT
-
-**FE**
-
-- Attend UAT sessions, if started
-
-### Preferred medical facility 
-
-**PM**
-
-- Schedule and hold IA review
-
-**Design**
-
-- IA review
-- Final handoff to FE
-
-**FE**
-
-- Implement updates from testing
-
 ### Notification preferences
-
-**PM**
-
-- Schedule and hold IA review
-
-**Design**
-
-- IA review
-- Final handoff to FE
-
-**FE**
-
-- Implement updates from testing
 
 ## Sprint 50 (6/16 - 6/29)
 
 ### My VA redesign
 
-**PM**
-
-- Hold launch go/no-go 
-  - Only do this if everything is good from UAT. If not, hold off until next sprint.
-- If time, monitor launch to 25%
-
-**Design**
-
-- Finish UAT
-
-**FE**
-
-- Fixes from UAT, if needed
-- If time, flip switch to 25% of users
-
 ### Preferred medical facility 
 
-**PM**
-
-- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
-- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md)
-  - Analytics planning
-  - Meet with analytics 
-  - Oversee implementation
-- Start contact center guide
-
-**QA**
-
-- Conduct QA
-
-**FE**
-
-- Updates from QA
-
 ### Notification preferences
-
-**PM**
-
-- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
-- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md)
-  - Analytics planning
-  - Meet with analytics 
-  - Oversee implementation
-- Start contact center guide
-
-**QA**
-
-- Conduct QA
-
-**FE**
-
-- Updates from QA
