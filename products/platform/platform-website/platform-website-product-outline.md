@@ -19,9 +19,9 @@ _HMW leverage Confluence to improve the info findability for VFS teams?_
   * Designers and content writers
 * Platform Teams
 
-## MEASURING SUCCESS
+## Measuring success
 
-### Key Performance Indicators (KPIs)
+### Key performance indicators (KPIs)
 For the 2020 Q4:
 * VFS sentiment around proposed platform developer documentation
 
@@ -33,16 +33,18 @@ Overall:
 ### Baseline KPI values
 - VFS sentiment around current platform documentation: [MURAL board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1587506427611/4fb63eb007eadec05ce8634499699ff610706a7d)
 
-## ASSUMPTIONS
+## Assumptions
 
 * Building out Confluence will lead to greater self-service and fewer support requests.
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
 * The VSP team will be able to customize Confluence without undue burden.
  
-## SOLUTION APPROACH
-This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritize and group tasks, in order to develop an IA that is easily navigable.
+## Solution approach
 
-With the pilot, we can establish a process of uncovering and understanding VFS developers' task/categorization association, and apply this process to tasks that other practitioners perform. 
+* 2021 Q1: Created landing pages
+* 2020 Q4: Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
+  * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
+  * With the pilot, we established a process of uncovering and understanding VFS developers' task/categorization association. 
 
 ## Launch Dates
 Launch Date: TBD
