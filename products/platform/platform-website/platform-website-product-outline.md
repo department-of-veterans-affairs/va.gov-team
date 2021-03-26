@@ -13,11 +13,13 @@ VSP has created a myriad of documentation to help our customers (i.e. VFS teams)
 _HMW leverage Confluence to improve the info findability for VFS teams?_
 
 ## Personas
-* VFS developers
-* VFS PMs and POs (out of scope for pilot)
-* VFS designers and content writers (out of scope for pilot)
+* VFS team members
+  * Developers
+  * PMs and POs
+  * Designers and content writers
+* Platform Teams
 
-## Measuring Success
+## MEASURING SUCCESS
 
 ### Key Performance Indicators (KPIs)
 For the 2020 Q4:
@@ -28,16 +30,16 @@ Overall:
 * Complexity of support given
 * VSF sentiment around navigating and consuming Confluence content
  
-#### Baseline KPI Values
+### Baseline KPI values
 - VFS sentiment around current platform documentation: [MURAL board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1587506427611/4fb63eb007eadec05ce8634499699ff610706a7d)
 
-## Assumptions
+## ASSUMPTIONS
 
 * Building out Confluence will lead to greater self-service and fewer support requests.
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
 * The VSP team will be able to customize Confluence without undue burden.
  
-## Approach
+## SOLUTION APPROACH
 This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritize and group tasks, in order to develop an IA that is easily navigable.
 
 With the pilot, we can establish a process of uncovering and understanding VFS developers' task/categorization association, and apply this process to tasks that other practitioners perform. 
