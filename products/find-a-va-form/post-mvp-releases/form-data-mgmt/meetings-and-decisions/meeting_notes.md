@@ -3,8 +3,8 @@
 ## 2021-03-26
 
 #### Attendees:
-- John Hashimoto
-- Marci McGuire
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
 - Janel Keyes - Has been with VA for 10 years. Was a PCO at VBA in the past.  Did not work with Jen Lee on the MVP.
 - Gail Smith - Has been working in this office for the past 5 years.  Started working with Brian McCarthy on forms about 2 years ago. She publishes forms, can change things on the forms. 
 
