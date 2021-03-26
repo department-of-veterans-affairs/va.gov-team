@@ -8,8 +8,7 @@ March 2021
 ## Goals	
 
 
-
-1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  \
+1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. 
 
 2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
 
