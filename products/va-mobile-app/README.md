@@ -9,9 +9,10 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Tracey Mulrooney - co-Product Owner, VA
 - Leanna Miller - co-Product Owner, VA
 - Ayush Chakravarty - Product Lead
-- Bess Green - Engagement Lead	
+- Bess Green - Product Lead, Front End Development	
 - Ashley Matthews - Product Manager, Secure Messaging
 - Cat Greim - Program Mgr
+- Erik Breedlove - Program Support	
 
 ### UX
 - Martha Wilkes - Designer, VA
@@ -27,12 +28,10 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Narin Ratana - Engineer, Secure Messaging
 - Patrick Saxton - Mobile Engineer
 - Jayson Perkins - API Engineer
-- Ken Li - QA Engineer
 - John Marchi - Technical Lead	
 - Clayton Matulich - Engineer	
 - Komal Yaseen - Engineer
 - Ken Harrison - QA
-- Erik Breedlove - Program Support	
 
 ## Communications
 - Slack: #va-mobile-app
