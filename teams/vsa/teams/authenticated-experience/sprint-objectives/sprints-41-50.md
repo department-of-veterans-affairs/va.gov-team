@@ -331,7 +331,6 @@ FE
 **PM**
 
 - Revisit long term planning with the team — are we ready to go on hold until VAOS is available?
-- Schedule and hold design intent collab
 - [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
@@ -344,7 +343,6 @@ FE
 **PM**
 
 - Meet with Terry to better understand timeline so we can scope/plan
-- Schedule and hold design intent collab
 - [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
