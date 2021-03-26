@@ -35,7 +35,7 @@ Folks (Mike, Michelle, Dror, perhaps others) have already been discussing interi
 - Blue / green deploys or rollback functionality
     - We do have a way to do rollbacks, but it's not documented super well and not sure if anyone knows about these
     - There's an issue with the way google analytics schemas are architected that means we can't use the rollback functionality
-    - Figure out what about analytics is making rollbacks not possible, or if there's something else making them not possible, and whether it would be a big LOE to get them to work
+    - Figure out what about analytics is making rollbacks not possible, or if there's something else making them not possible, and whether it would be a big LOE to get them to work [slack thread](https://dsva.slack.com/archives/G01M8VD9USC/p1616785866073200)
     - Rollbacks only let you go to previous releases, so if we did a daily release at 3 pm that broke something, it would take us back to previous day so we'd lose everything else that other teams had released.
 - Hotfixes
     - Get a deploy out the door faster, but docs aren't detailed. When should we do this vs not do this? There are risks w/hotfixes. But we could establish process around that for emergencies.
@@ -72,9 +72,12 @@ Folks (Mike, Michelle, Dror, perhaps others) have already been discussing interi
 - Fix feature flags / VA form system to make QA'ing using feature flags easier for QA/demo purposes
 - 2 week feature freeze for both VFS teams and Platform teams
     - Don't ship anything new, work on tech debt or performance functionality
+- 20% ongoing capacity for technical debt (VSP + VFS)
+    - Add missing automated tests to verify feature functionality, refactor unreliable code, write missing documentation for intra-team knowledge
 - FE Engineering Standards and Practices
     - How do the VFS FE engineers do what they do? Is there enough redundancy and knowldege, or is it all silo'd in one person? Sometimes feels like John is the tech manager which doesn't make sense because he's from the product practice.
     - Ideally best practices would be a collaboration between Platform and VFS engineers
+    - VSP [review process](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review) and [guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md) do not cover code quality & standards, and VSP does not have resources to perform this.
     - Continue conversations with Jeff and Dror and Michelle to see if there's any process or meetings etc we could put in place to spread these best practices better
 
 ## Which of these are short term /stop gap ideas we could discuss getting in place within a sprint?
