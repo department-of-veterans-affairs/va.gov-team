@@ -17,6 +17,18 @@
 - Someone has NEVER filed a claim or appeal.
 - Someone has filed at least one  claim or appeal, but all claims and appeals have been closed for MORE than 30 days.
 
+**Error state: Can't load claims or appeals, but no known time when the feature will be back**
+
+If we can't connect to the claims or appeals endpoint we'll show this error in place of the claims and appeals section.
+
+![Claim and appeal status_error_can't load section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20and%20appeal%20status_error_can't%20load%20section.png)
+
+**Error state: Can't load claims or appeals with known time when the feature will be back**
+
+If we can't connect to the claims or appeals endpoint **but** we know when the feature will be back up and running (eg. planned downtime), we'll show this error in place of the claims and appeals section.
+
+![Claim and appeal status_error_can't load section_known downtime](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20and%20appeal%20status_error_can't%20load%20section_known%20downtime.png)
+
 ## States
   
 **State 1: At least 1 claim update in the last 30 days**  
