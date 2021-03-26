@@ -8,6 +8,7 @@ Domo KPI Dashboards - while they're super useful - take a really long time to cr
 **The bad news is:** since the 2 people architecting that infrastructure are the same 2 people who do all the dashboarding and reporting, Domo Dashboarding and Google Analytics Reporting services will be on hold until June.
 
 ## What this means for VFS teams
+- New Domo dashboards and GA reports, and updates to Domo dashboards and GA reports will be paused from April 1 - mid-June 2021 
 - Analytics team members will be available to answer questions during Collab Cycle Office Hours on Wednesdays, 11:30-12pm EST. Pop in if you need help!
 - The Analytics team will continue offering Google Tag Manager implementation services. Use their [issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review%2C+gtm&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) when you need to get new tracking added to your product or feature.
 - You can still go spelunking in Google Analytics. You can even create your own reports and funnels there, [learn how here](https://support.google.com/analytics/answer/1151300?hl=en#zippy=%2Cclick-to-expand-and-learn-more-about-the-report-types).
