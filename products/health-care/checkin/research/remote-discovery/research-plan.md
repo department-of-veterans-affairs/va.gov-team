@@ -58,18 +58,16 @@ Recruit for 12 fulfilled sessions using the following criteria:
 - The participants have Zoom downloaded prior to the session
 
 ## Timeline
-#### Desired Timeline: April 1 - 9, 2021 
+#### Desired Timeline: April 8 - 13, 2021 
 One hour sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
 Team Availability | Time (EST)
 ------------------|--------------
-April 1, 2021 | 10 a.m. - 4:30 p.m., 6:30 - 8 p.m. 
-April 2, 2021 | 10 a.m. - 6 p.m. 
 April 8, 2021 | 10:30 a.m. - 5 p.m., 5:45 - 8 p.m.
 April 9, 2021 | 10 a.m. - 6 p.m.
 
-Pilot Session: Mar. 31, 2021 | 11 a.m. - Noon
+Pilot Session: April 2, 2021 | TBD
 
 **Team Roles**
 - Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
