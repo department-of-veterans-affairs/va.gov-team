@@ -45,13 +45,16 @@ _Include links to Domo or Google Analytics Dashboards/Reports_
 - Tracking the number of automated decisions made compared to the number of people who leave the form due to ineligibility. 
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* Total number NON-LTS STEM denials (Oct '19 - March '20): 3,595 out of 4,680 total applications 
+   *  Denial reason - Ch33 Not Exhausted: 3,028
+ * Total number LTS STEM denials (Oct '20 - March '21): 2,853 out of 4,592 total applications
+   * MORE_THAN_180_DAYS_REMAINING_ENTITLEMENT: 454
+
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
-
 - Objective:
-  - Key result: 
+  - Key result: Veterans 
   - Key result: 
 
 
@@ -84,7 +87,7 @@ Status for normally processed applications could be added, if external systems p
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 
-The decision email will be sent to applicants whose applications are automatically denied, otherwise it will be irrelevent.
+The decision email will be sent to applicants whose applications are automatically denied directing them to check the claim status tool, otherwise it will be irrelevent.
 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
@@ -94,7 +97,7 @@ Education Service will be updated via project briefings and demos
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 04/08/21
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
