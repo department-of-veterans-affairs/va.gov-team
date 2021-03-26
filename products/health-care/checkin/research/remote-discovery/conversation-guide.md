@@ -41,6 +41,9 @@ Now, I’m going to ask you to think about your very last medical appointment th
   - How has checking in for an appointment changed with COVID-19?
     - Did you have to complete a form before entering the facility? If yes, probe on if it was something completed in advance/on their mobile device/paper/something else.
 - Which check-in method do you use most often? This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments. (Note for researcher: there is the “I am here” system as well as a separate solution only available in South Carolina)
+- Do you receive any of your healthcare from outside the VA? 
+  - If yes...
+    - What does the check-in process look like at the other facilities that you go to? How does it compare to the VA's check-in process?
 
 ## Virtual appointments (5 minutes)
 - How many virtual appointments have you had since the beginning of the pandemic/COVID-19?
@@ -62,7 +65,6 @@ Now, I’m going to ask you to think about your very last medical appointment th
       - Main appointment kiosk sign-in/check-in with contact information
       - Checking in for a lab
       - Checking in for pharmacy
-      - Updating your emergency contact 
       - Updating your next of kin
       - Filing a Beneficiary Travel Mileage request
   - If yes...
@@ -80,11 +82,6 @@ Now, I’m going to ask you to think about your very last medical appointment th
           - What did you like about it?
           - What did you not like about it? 
     - Have you ever used the kiosk to check-in for the pharmacy? _Show them screens of the pharmacy experience._
-      - If yes, 
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it?
-    - Have you ever updated your emergency contact via the kiosk? _Show them screens of updating emergency contact._
       - If yes, 
         - How would you describe that experience?
           - What did you like about it?
