@@ -3,7 +3,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.635 seconds.
+Conversion time: 0.78 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Wed Mar 24 2021 12:15:20 GMT-0700 (PDT)
+* Thu Mar 25 2021 17:53:44 GMT-0700 (PDT)
 * Source doc: Research Plan - Customer Support Slack Workflow
 ----->
 
@@ -33,45 +33,61 @@ March 2021
 
 
 
-1. What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support. 
+1.  What product [tool/service/document/process] & Platform team are you doing this research for? This research is in support of Platform’s Customer Support.  \
 
 2. Background: Currently, we don't have a good way to categorize or gather data about support requests. We've started using a google sheet to capture this data to help inform future decisions around team's capacity and roadmaps.
 
+     \
 Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
+
+     \
 If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
 
+
+     \
 These solution options seek to create a standardized way of logging customer support requests by using Slack workflows. 
 
+
     
-The customer support Slack workflow serves a couple of purposes  
 
-1) Create a single destination for VFS teams to go for questions and requests of Platform  
-2) Makes requests/questions for Platform folks that are on-call more clear   
-4) Allows for easy reporting of customer support requests with the ability to download a csv for all forms completed in a Slack channel
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+    The customer support Slack workflow serves a couple of purposes  
 
+
+    1) Create a single destination for VFS teams to go for questions and requests of Platform  
+
+
+    2) Makes requests/questions for Platform folks that are on-call more clear   
+
+
+    4) Allows for easy reporting of customer support requests with the ability to download a csv for all forms completed in a Slack channel
+
+
+
+3. Research questions: 
 *   What are some things that VFS team members reach out for help from Platform support?
 *   If prompted, can VFS team members find the customer support shortcut in Slack? 
-*   Which workflow form (that VFS team members complete) best matches their expectations of getting help?
-*   What is their expectation of what will happen after completing the form?
+*   Which workflow form best matches VFS team members expectations of getting help?
+*   What is a VFS team members expectation of what will happen after completing the form?
 *   Does the workflow form make it easier for Platform to respond to requests? 
 *   Is there any information we can provide to make the Platform response more efficient? 
 
  
+
+
+
 4. Hypothesis: What is your hypothesis for this research?
 
-We hypothesize that:
+    We hypothesize that:
 
-    - Option 1 (topics) will align with the majority of use cases and result in faster help for Platform support staff.
-    - The length of _I need help with_ dropdown will be difficult to scan and make the appropriate selection for VFS team members. 
-    - Platform team members will be able to easily generate a dashboard showing the volume and type of support requests in a given time period.
-
- 	
+*   Option 1 (topics) will align with the majority of use cases and result in faster help for Platform support staff.
+*   The length of **_I need help with_** dropdown will be difficult to scan and make the appropriate selection for VFS team members. 
+*   Platform team members will be able to easily generate a dashboard showing the volume and type of support requests in a given time period.
 
 
 ## Method	
+
 
 
 1. What method of research are you planning? 	
@@ -102,9 +118,8 @@ We hypothesize that:
 
 
 
-1. Participant criteria: What are you looking for in a participant?	
+1. Participant criteria: What are you looking for in a participant?	 \
 (Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
-
 *   10 - 12 VFS participants
     *   4 BE Engineers
     *   4 FE Engineers
@@ -115,30 +130,36 @@ We hypothesize that:
     *   1 Analytics
     *   1 Content Support
     *   1 IA Support
-    
-2. What is your recruitment strategy? 	
-(Usually, it is a Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
+2. What is your recruitment strategy? 	 \
+Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	 \
 We’ll reach out in Slack directly to participants. Will consider [past participation with studies](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416).
 
 
 ## When? 	
 
-1. Timeline: What dates do you plan to do research? 	
+
+
+1. Timeline: What dates do you plan to do research? 	 \
 (Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 
 
-    The research will be conducted between April 5 - 16. 
+    The research will be conducted between April 6 - 16. We will recruit Platform participants for April 6-9 and VFS for April 12-14. 
 
 2. Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 
-    March  28th 
+    March  28th  \
+
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, &lt; 1 hour, up to 2 hours, up to 4 hours) 
 
-    30 minutes 
+    45 minutes  \
 
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
+
+4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	 \
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+    Naomi Marcussen, April 5 12:00 PM EST 
+
 
 
 ## Team Roles	
@@ -147,10 +168,12 @@ Please list the people who will be serving in each role. **Include the primary p
 
 Moderator:	
 
+
+
 *   Research guide writing and task development (usually but not always same as moderator): Naomi Marcussen, Jonathan Nelson 
 *   Participant recruiting & screening: Jonathan  (VFS) & Naomi (VSP) Calendly?
 *   Project point of contact: Jonathan 
-*   Participant(s) for pilot test: TBD
+*   Participant(s) for pilot test:  Naomi Marcussen
 *   Note-takers: Naomi and Rebekah
 *   Observers: James Chasia, Michael Manalo, Rebekah Hickey, Naomi
 
@@ -161,12 +184,12 @@ Moderator:
 
 Project Brief 	
 
-_Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here_ 
+_Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here_ \
 
 
 Convo Guide
 
-_https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/customer-support/conversation-guide.md_
+_[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/customer-support/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/customer-support/conversation-guide.md)_
 
 Synthesis	
 
@@ -174,7 +197,7 @@ _Link to any documents used for synthesis (Mural or Realtimeboard boards, excel 
 
 Lessons Learned	
 
-_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ 
+_Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.	_ \
 
 
 Read-Out/Results	
