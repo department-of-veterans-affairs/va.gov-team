@@ -1,10 +1,10 @@
 # CMS Help Desk overview
 
-#### Mission
+### Mission
 
 The CMS Help Desk will provide support to Users of VA.gov  Content Creators and Content Editors for VA Medical Centers and VA Medical Facilities webpages that are hosted on VA.gov.   The CMS Help Desk will help Users of VA.gov 
 
-#### Getting started
+### Getting Started
 
 [What is a CMS?](https://prod.cms.va.gov/help/what-is-a-cms)
 
@@ -38,13 +38,11 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 Support Channels are VACMSSupport@va.gov and/or the "Contact Help Desk" button on the CMS.
 
-# Here to Help
+Here to Help
 
 [Overview of processes](https://docs.google.com/document/d/1piIkYdFjvcy0_OMlD3oWVj9o6sX3g5ykG0bopGMiHxI/edit#heading=h.113j7shbaqi2)
 
 [Engaging the CMS Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md)
-
-#### Service Level Agreements
 
 [Helpdesk Service Level Agreement](service_level_agreement.md)
 
@@ -52,7 +50,7 @@ Support Channels are VACMSSupport@va.gov and/or the "Contact Help Desk" button o
 
 ### How a User Contacts the Help Desk
 
-##### Support Channels 
+#### Support Channels 
 
 The CMS Help Desk currently offers three methods for Users to create a case and enter the Help Desk Support Queue to have their Issue resolved. 
 
@@ -64,7 +62,7 @@ A javascript widgetized button is embedded on specific pages throughout the CMS 
 
 Users may also create a Case with the Help Desk using pre-existing Slack channels.Tier 1 currently is responsible for the timely and periodic review of the Channels for new Cases; and enters all Cases manually by copying and pasting the relevant data into a new Case in JIRA.There is currently no method that tracks which Slack messages are Cases or have been entered in JIRA or had any action(s)There is currently no metric that measures performance, accurately, of messages involving Cases that flow through this channel.
 
-### **Portal**
+#### **Portal**
 
 Users can create a new Case with the Help Desk using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form.  Slack sends immediate notifications to Tier 1 upon Case creation.  Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager.
 
@@ -96,7 +94,7 @@ This should look something similar to,
 
 
 
-##### Tier 1 Help desk Agents’ Responsibilities
+#### Tier 1 Help desk Agents’ Responsibilities
 
 The Tier 1 Help Desk is responsible for any Issues related to User How-to questions that may include questions about how-to edit, manage, publish, or alter their VA Medical Center’s Public Website, and question about the use any of the CMS’ built-in features such as Password Reset, Governance, Permissions, and Content related features. 
 
@@ -118,7 +116,7 @@ Ensure that all open Tier 1 tickets are resolved appropriately.
 
 Ensure that any Incidents are reported/escalated immediately, and serve as Incident Commander until/unless an appropriate team member takes over that role
 
-##### Tier 2 Responsibilities.
+#### Tier 2 Responsibilities
 
 Tier 2 staff consists of engineers, product owners, and developers. 
 
@@ -130,11 +128,13 @@ Take ownership of Issues that fall within the scope of Tier 2.
 
 Respond immediately to any Incident reported through the Support Channels and serve as Incident Commander as needed.
 
-**The Help desk Manager** Review and revise processes and procedures.
+#### **The Help desk Manager** 
+
+Review and revise processes and procedures.
 
 Provide stakeholders with reports related to the Help Desk’s performance. 
 
-**The Delivery Manager**	
+#### **The Delivery Manager**	
 
 Prioritizes Tier 2 backlog queue.
 
@@ -156,7 +156,7 @@ For any follow-up or clarifying questions Tier 1 may be asked to engage the User
 
 Tier 1 may follow-up independently of Tier 2 and notify the User of any updates until the Issue is resolved. Once the enhancement request is well-understood, the next step is to create a Github ticket, add it to the backlog, and bring it to the attention of the Delivery Manager.
 
-##### Defects
+#### Defects
 
 Tier 1 will escalate all Critical and Non-Critical Defects to Tier 2.Content questions that require assistance from VA staff
 
@@ -164,17 +164,9 @@ Tier 1 will escalate all Critical and Non-Critical Defects to Tier 2.Content que
 
 
 
+### Scope of Support
 
-## what types of issues do we help with? 
-
-[Supported products list, how-we-work overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
- 
-
-Content release issues
-
-
-
-[VA Style Guide](https://design.va.gov/content-style-guide/)
+[Supported Products List](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
 
 
 
@@ -184,55 +176,31 @@ Content release issues
 
 [CMS User Administration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration)
 
-https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/edit#heading=h.s5vy91nn0f0j
-
 [VAMC System Policies Page Training](https://dsva.slack.com/files/U01DQAYJYCC/F01RZGYS65V/vamc_system_policies_page_training-local.pptx)
-
-
 
 [Training Runbook](https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097)
 
-
-
 [VA Onboarding Checklist](https://docs.google.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0)
-
-
 
 [New Account and Training Email Templates](https://docs.google.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3) 
 
-
-
 [Content Types](http://training.demo.ci.cms.va.gov/admin/content-models/content)
-
-
 
 [Content Release How-to](https://prod.cms.va.gov/help/content-release-to-vagov)
 
-
-
 [Canned Answers](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses)
 
-
-
-[Sprint Best Practices](https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l )
-
-
+[Sprint Best Practices](https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l)
 
 [CMS Onboarding Service Blueprint](https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc)
 
-
-
 [GitHub Repository for public facing documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-
-
 
 [Listening Session with VA](https://app.mural.co/t/vagov6717/m/vagov6717/1613420145908/8a8a1b99748bea534e06aca0ba041160341f1139)
 
-
-
 [Campaign Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates )
 
-### Drupal CMS Orientation for VAMC editors
+#### Drupal CMS Orientation for VAMC editors
 
 - [Session 1: Getting started](https://prod.cms.va.gov/help/access-training/session-1-getting-started)
 - [Session 2: Editing basics](https://prod.cms.va.gov/help/session-2-editing-basics)
@@ -240,27 +208,27 @@ https://docs.google.com/document/d/1t-fBvTLoQk-a7P56l1pmOx2NOCsN9FSYZXuTpsRraGc/
 - [Session 4: Facilities](https://prod.cms.va.gov/help/access-training/session-4-facilities)
 - [Session 5: Detail pages, menus, and revisions](https://prod.cms.va.gov/help/access-training/session-5-detail-pages)
 
-### Demo environments training for product teams
+#### Demo environments training for product teams
 
 - [Managing demo environments](https://prod.cms.va.gov/help/how-to-access-and-manage-demo-environments)
 - [Releasing content in the demo environment](https://prod.cms.va.gov/help/how-to-release-content-in-the-demo-environment)
 
 ## Resources
 
-Helpful references to have ready during training sessions.
+Helpful references to have ready during training sessions.  Use this link during CMS orientation to practice editing content in the CMS.
 
-[**CMS training environment** ](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/)
-Use this link during CMS orientation to practice editing content in the CMS.
+[CMS training environment ](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/)
 
 
-### Incidents and Critical Defects
+
+
+### Incidents and Defects
 
 [Incident Response Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
+[Incident Response Contact Information](https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0)
 
 
-Incident Response Contact Information
-https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0
 
 ### CMS Deployments
 
@@ -273,7 +241,7 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 ### Broken links
 
-##### [Broken Links Sync](https://docs.google.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b)
+[Broken Links Sync](https://docs.google.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b)
 
 
 
@@ -289,9 +257,9 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 [About CMS sections](https://prod.cms.va.gov/help/cms-basics/sections)
 
-#### Timely content types
+### Timely content types
 
-##### Event & events list
+#### Event & Events List
 
 [About events content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-events)
 
@@ -303,7 +271,7 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 
 
-#### Story & stories list
+#### Story & Stories List
 
 [About stories content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-stories)
 
@@ -313,7 +281,7 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 
 
-#### News Release & news releases list
+#### News Release & News Releases List
 
 [About news release content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-news-releases)
 
@@ -323,13 +291,13 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 
 
-#### Health services content types
+#### Health Services Content Types
 
-##### Health services list
+#### Health Services List
 
 [How to edit a health services list](https://prod.cms.va.gov/help/how-to-edit-a-health-services-list)
 
-##### VAMC System Health Service
+#### VAMC System Health Service
 
 [How to edit an existing VAMC system health service](https://prod.cms.va.gov/help/edit-vamc-system-health-service)
 
@@ -339,15 +307,13 @@ http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 
 
-# Locations Content Types
+## Locations Content Types
 
-## VAMC System Home Page 
-
-https://prod.cms.va.gov/help/how-to-edit-a-vamc-system
+[VAMC System Home Page](https://prod.cms.va.gov/help/how-to-edit-a-vamc-system) 
 
 
 
-### Alerts and operating statuses
+#### Alerts and Operating Statuses
 
 [About alerts and operating statuses](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/alert-operating-status)
 
@@ -355,7 +321,7 @@ https://prod.cms.va.gov/help/how-to-edit-a-vamc-system
 
 [How to edit a System Banner Alert](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/banner-alert)
 
-### Facilities & Locations
+#### Facilities & Locations
 
 [About facilities and locations content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-locations-content-types)
 
@@ -369,7 +335,7 @@ https://prod.cms.va.gov/help/how-to-edit-a-vamc-system
 
 ## About us pages
 
-### Detail Page
+#### Detail Page
 
 [How to edit Detail Pages — for VAMCs](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/detail-pages)
 
@@ -377,7 +343,7 @@ https://prod.cms.va.gov/help/how-to-edit-a-vamc-system
 
 
 
-### Staff profile & Leadership List
+#### Staff Profile & Leadership List
 
 [How to edit a Staff Profile](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/staff-profiles)
 
@@ -385,7 +351,7 @@ https://prod.cms.va.gov/help/how-to-edit-a-vamc-system
 
 
 
-## VAMC guides
+#### VAMC Guides
 
 [About Veteran-centered design for health care sites](https://prod.cms.va.gov/help/product-guides/vamc/veteran-centered-design)
 
@@ -395,74 +361,57 @@ Learn about the new vision for VA health care sites and how you can support Vete
 
 Find guides on editing VAMC information based on its content type in the CMS.
 
+## Common Resources
 
+[Help Desk Share Drive](https://drive.google.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts)
 
-#### Other Common Questions and Answers?
-
-CMS Common Questions
-https://docs.google.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9
-
-### Common Resources
-
-Help Desk Share Drive
-https://drive.google.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts
-
-
-
-
+[CMS Common Questions](https://docs.google.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9)
 
 ### CMS environments
 
 CMS non-prod Environments (default password drupal8)
-Staging: https://staging.cms.va.gov/ 
-Training: https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/ 
-Tugboat:  https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/tugboat.md
+[Staging](https://staging.cms.va.gov/ )
 
-Prod: https://prod.cms.va.gov/ 
+[Training](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/ )
 
-### CMS Training
+[Tugboat](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/tugboat.md)
 
-https://staging.cms.va.gov/help/access-training
+[Prod](https://prod.cms.va.gov/ )
 
-### CMS Roles and Responsibilities
+[CMS Training](https://staging.cms.va.gov/help/access-training)
 
-https://prod.cms.va.gov/help/cms-basics/roles-and-permissions 
+[CMS Roles and Responsibilities](https://prod.cms.va.gov/help/cms-basics/roles-and-permissions )
 
-### Tier 2 (help from CMS team)
-
-CMS Tier 2 Rotation and Responsibilities
-https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit
-GitHub Tickets for Backlog
-https://docs.google.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0
-Tier 2 Triage for Actionable Items from User Feedback
-https://whimsical.com/product-and-tier-2-triage-for-actionable-items-from-user-feedbac-9wUpPeb6T69NUKDsKY3HqY
-
-
-#### Tier 3 (other teams)
-
-VA Org Chart
-https://docs.google.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0
-
-Tier 1
+### Tier 1
 
 [Tier 1 Help Desk Triage](https://docs.google.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
 
 [Tier 1 Help Desk Product Scope of Support](https://docs.google.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#)
 
-[Help Desk 101](https://docs.google.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75)
+[Help Desk 101](https://docs.google.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75))
+
+### Tier 2
+
+[CMS Tier 2 Rotation and Responsibilities](https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit)
+
+[GitHub Tickets for Backlog](https://docs.google.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0)
+
+[Tier 2 Triage for Actionable Items from User Feedback](https://whimsical.com/product-and-tier-2-triage-for-actionable-items-from-user-feedbac-9wUpPeb6T69NUKDsKY3HqY)
+
+
+### Tier 3
+
+[VA Org Chart](https://docs.google.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0)
+
+
 
 ### Performance and Reporting
 
-[https://docs.google.com/document/d/1RFvF90LNVj7S6hx0MRyp6NlijhMhH1gcxJ9oi-WxHAY/edit#](https://docs.google.com/document/d/1RFvF90LNVj7S6hx0MRyp6NlijhMhH1gcxJ9oi-WxHAY/edit#) 
+[Help Desk Reporting Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/helpdesk_reporting_process.md)
+
+[Pre-Built Reports in JIRA Service Desk](https://va-gov.atlassian.net/jira/servicedesk/projects/VAHELP/reports)
 
 
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/helpdesk_reporting_process.md
+[CMS Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf)
 
-
-
-Pre-Built Reports in JIRA Service Desk
-https://va-gov.atlassian.net/jira/servicedesk/projects/VAHELP/reports
-
-CMS Features
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf
