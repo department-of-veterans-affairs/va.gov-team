@@ -1,4 +1,4 @@
-# CMS Help Desk Overview
+# VA.gov CMS Help Desk Overview
 
 # Mission
 
@@ -378,8 +378,7 @@ During Federal Holiday’s the CMS Help Desk as well as the Product engineers, d
 The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodology) is a critical step in completing a sprint, an opportunity to excite stakeholders, and a chance for developers to show off their work.  The CMS Help Desk staff will attend Sprint Demo’s and document the various product changes and then publish those changes via Release Notes on the va.gov website (page to be determined)  and Github.
 
 ## VA.gov Product Directory
-A spreadsheet that lists which team owns an issue.
-[https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874]
+[A spreadsheet that lists which team owns an issue](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
 
 
 ## Issues that Prevent the Publishing of Content
