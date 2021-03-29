@@ -49,7 +49,7 @@ Overall:
  
 ## Solution approach
 
-2020 Q2: To come.
+2020 Q2: _HMW enable Platform Teams to be responsible for populating and maintaining the Platform Website?  HMW guide Platform Teams to deprecate information on GitHub?_
 
 2021 Q1: Created landing pages
 
