@@ -13,7 +13,7 @@ be behind a feature flag.
 
 ### Results/Issues:
 - **Number of users:** 6
-- **List of bugs/issues found:** TBD
+- **List of bugs/issues found:** None
 
 ## Phase II: Staged Rollout 
 ### Planning
@@ -24,19 +24,19 @@ be behind a feature flag.
 - If all goes well, then go to 100% of users: Estimated date 4/22 (S46)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-**Link to GA Dashboard:** To be added
+
+[Direct deposit for edu GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/UJwvqguWQMqJaGySJWq1VQ/a50123418w177519031p176188361/)
 
 - Successful retrievals/Failed retrievals
 - Successful submissions/Failed submissions
 - Errors 
 - Clicks to edit account information
 
-
 ## Go Live!
 ### Planning:
-**Desired date:** Desired:4/7/21,  Actual: mm/dd/yy
+**Desired date:** Desired:3/30/21 for launch to 10%,  Actual: mm/dd/yy
 
-- [Go /No Go Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+- [Go /No Go Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/product/launch-go-no-go.md)
 
 ### 1-week results:
 Dashboard results for week 1:
