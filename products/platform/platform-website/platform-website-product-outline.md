@@ -11,9 +11,7 @@ The Platform has created a myriad of documentation to help our customers work se
 - Frustrating our customers, and 
 - Potentially results in products on VA.gov that don't meet Platform standards. 
 
-_HMW enable Platform Teams to be responsible for populating and maintaining the Platform Website?_
-
-_HMW guide Platform Teams to deprecate information on GitHub?_
+_Overall: HMW make info to build on the Platform more easily available?_
 
 ## Personas
 * Platform Teams
