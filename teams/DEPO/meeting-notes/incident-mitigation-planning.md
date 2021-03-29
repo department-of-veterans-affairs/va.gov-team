@@ -79,6 +79,16 @@ Folks (Mike, Michelle, Dror, perhaps others) have already been discussing interi
     - Ideally best practices would be a collaboration between Platform and VFS engineers
     - VSP [review process](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review) and [guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md) do not cover code quality & standards, and VSP does not have resources to perform this.
     - Continue conversations with Jeff and Dror and Michelle to see if there's any process or meetings etc we could put in place to spread these best practices better
+- GitHub issue template for manual deploy request:
+    - is change a bug fix or new feature
+    - if bug fix, # of affected users
+    - does change affect content, application, or both?
+    - if application change, is it frontend, backend, or both?
+    - if application change, is it covered by automated tests?
+    - if application change, is it using feature flags?
+    - has change been reviewed in staging or review instance?
+    - we don't close the issue until a Post Mortem has been linked
+
 
 ## Which of these are short term /stop gap ideas we could discuss getting in place within a sprint?
 
