@@ -49,10 +49,15 @@ Overall:
 ## Solution approach
 
 * 2020 Q2: To come.
-* 2021 Q1: Created landing pages
-* 2020 Q4: Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
-  * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
-  * With the pilot, we established a process of uncovering and understanding VFS developers' task/categorization association. 
+
+2021 Q1: Created landing pages
+
+
+2020 Q4: 
+<details>
+Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
+* We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
+* With the pilot, we established a process of uncovering and understanding VFS developers' task/categorization association. 
 
 ## Launch Dates
 Launch Date: TBD
