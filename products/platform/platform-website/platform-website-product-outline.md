@@ -61,6 +61,7 @@ Overall:
   * [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)
 * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
 * With the pilot, we established a process of uncovering and understanding VFS developers' task/categorization association. 
+</details>
 
 ## Launch Dates
 Launch Date: TBD
