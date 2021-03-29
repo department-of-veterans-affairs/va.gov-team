@@ -87,8 +87,8 @@
 | ^/change-address | Records - Change Address |
 | ^/disability/upload-supporting-evidence.\* | Disability - Upload Evidence to Support Claim |
 | ^/disability/how-to-file-claim.\* | Disability - File a Disability Claim for Compensation or Increase |
-| x | Covid-19 Chatbot |
-| x | Direct Deposit |
+| ^/coronavirus-chatbot.* | Covid-19 Chatbot |
+| ^/change-direct-deposit.\* | Direct Deposit |
 | x | Content API (Drupal + GraphQL) |
 | ^.\*-health-care.\* | VAMC |
 | ^/performance-dashboard.\* | Performance Dashboard |
