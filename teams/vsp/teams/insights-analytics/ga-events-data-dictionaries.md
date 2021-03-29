@@ -23,7 +23,7 @@
 | ^/gibill.\* | Education |
 | ^/records/.\* | Records |
 | ^/disability.\* | Disability |
-| ^/claim-or-appeal-status.\* | Disability - Check Claim or Appeal Status |
+| ^/claim-or-appeal-status.\* | Disability |
 | ^/va-payment-history.\* | View Payment History |
 | ^/health-?care.\* | Health Care |
 | ^/healthbenefits.\* | Health Care |
