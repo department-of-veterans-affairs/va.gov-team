@@ -23,7 +23,7 @@ Agenda/Notes
 
 - Action item review
   - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
-  - Would need a new push endpoint or a new nightly sync from Lighthouse.
+  
 - GraphQL/Renaming Fields 
   - Possiblity of doing a nightly pull through GraphQL for both Covid19 (in addtion to the push) and for the larger health services integration
   - Potential issues and the need for renaming/mapping on both sides
@@ -40,6 +40,7 @@ Agenda/Notes
   Action Items 
     - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
     - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
+    - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
 
 ## Monday Mar 22 3:00pm ET
 
