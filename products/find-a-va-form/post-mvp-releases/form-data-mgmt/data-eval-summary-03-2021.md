@@ -4,7 +4,7 @@ Note that some items included in counts may be forms that will be purged, but cu
 | Problem Description    | No Forms (Appx)          | Source of issue |
 |---------|-------------------|-------------------|
 | "Ghost" records in Forms API resulting from forms deleted  prior to use of "deleted" field | 90  | Lighthouse Postgres database |
-|Redundant records resulting from forms being renamed in VA Database while LH was using name as the primary key | 10 | Lighhouse Postgres database
+| Duplicate records resulting from forms being renamed in VA Database while LH was using name as the primary key | 10 | Lighhouse Postgres database |
 | "Related To" info on search page different from detail page | TBD | Find a VA Form front end - fix currently on Staging  |
 | Forms using inconsistent naming conventions - ex SF39 vs SF-85 | All forms should be reviewed  | VA Forms Databaase  |
 | Issue/Revised date does not match date on PDF | TBD | VA Forms Database
