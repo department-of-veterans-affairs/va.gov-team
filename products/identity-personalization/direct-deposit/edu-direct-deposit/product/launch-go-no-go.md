@@ -34,7 +34,7 @@
 **Samara/AJ**: are you ready to monitor analytics data for trends and problems?
 - `yes/no - any notes`
 
-**Samara/AJ**: is the release plan complete and ready to execute against?
+**Samara/AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/product/Release%20Plan.md) complete and ready to execute against?
 - `yes/no - any notes`
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch to 10% of users?
