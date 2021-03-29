@@ -165,6 +165,20 @@ We’re sorry. Something went wrong on our end, and we couldn’t access your ap
 [Schedule and view your appointments]
 
 
+### For if a Claims or Appeals endpoint fails:
+
+**We can't access any claims or appeals information right now**
+
+We’re sorry. Something went wrong on our end. If you have any claims or appeals, you won't be able to access your claims or appeals information right now. Please refresh or try again later.
+
+
+### For if there's downtime on claims/appeals
+
+**We can't access any claims or appeals information right now**
+
+We’re sorry. We’re working to fix some problems with the claims or appeals tool right now and cannot display your information on this page. Please check back after [Month, Date] at [00:00 a.m./p.m. ET].
+
+
 
 
 
