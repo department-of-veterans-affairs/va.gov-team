@@ -27,8 +27,8 @@
 | ^/va-payment-history.\* | View Payment History |
 | ^/health-?care.\* | Health Care |
 | ^/healthbenefits.\* | Health Care |
-| ^/profile.\* | Profile &amp; Records |
-| ^/records.\* | Profile &amp; Records |
+| ^/profile.\* | Records |
+| ^/records.\* | Records |
 | ^/.\*-health-care.\* | Health Care |
 | ^/housing-assistance.\* | Housing Assistance |
 | ^/life-insurance.\* | Life Insurance |
