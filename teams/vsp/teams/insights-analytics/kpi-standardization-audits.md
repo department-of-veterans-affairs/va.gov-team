@@ -9,8 +9,8 @@
  - [Design System Component Tracking](#design-system-component-tracking)
  - [Tracking Form Events](#tracking-form-events)
  - [Search Events](#search-events)
- - [Custom Dimensions for _VA<span />.gov - Production_](#Custom-Dimensions-for-_VA<span-/>.gov---Production_)
- - [Custom Metrics for _VA<span />.gov - Production_](#Custom-Metrics-for-_VA<span-/>.gov---Production_)
+ - [Custom Dimensions for _VA<span />.gov - Production_](#Custom-Dimensions-for-_VA)
+ - [Custom Metrics for _VA<span />.gov - Production_](#Custom-Metrics-for-_VA)
 
 
 ## Tracking Common User Interactions
