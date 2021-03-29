@@ -901,7 +901,6 @@ Back to [Table of Contents](#table-of-contents)
 [Accessibility bug in the Contact facilities Page within the cheetah MVP flow - #21842](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21842)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 [Accessibility bug at the Details link when the homepage refresh flag is on - #21888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21888)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [VoiceOver reads out loud Choose an appointment type when traversing text items in reverse in the cheetah MVP flow - #21871](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21871)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [Accessibility bug in the alert message in the Choose a location page within the cheetah MVP flow - #21867](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21867)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [Accessibility bug at the appointment details page - #21892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21892)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION]: VAOS Appointment Tabs - CONSIDER adding SR-only text to the visual tab labels - #11470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11470)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
@@ -937,8 +936,6 @@ Back to [Table of Contents](#table-of-contents)
 
 A number of issues were sitewide, design system, CMS, and are listed in the [sitewide list](#sitewide) section above. 
 
-- [[SCREENREADER, COGNITION]: Bold text SHOULD be made headings, in this instance - #7770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7770)<br/>
-**Production** | **Opened:** April 8, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [[SCREENREADER, COGNITION]: State abbreviations SHOULD be coded as such - #7808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7808)<br/>
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
 - [[SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users - #7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834)<br/>
