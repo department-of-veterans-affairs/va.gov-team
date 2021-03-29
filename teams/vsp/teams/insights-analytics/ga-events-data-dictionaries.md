@@ -84,7 +84,7 @@
 | ^/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/.\* | Family Member Benefits - Caregiver Application (10-10cg) |
 | ^/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996.\* | Benefits &amp; Memorials - Higher Level Review (20-0996) |
 | ^health-care/get-medical-records.\* | Records - Get Medical Records Online |
-| ^/change-address | Records - Change Address |
+| ^/change-address.\* | Records - Change Address |
 | ^/disability/upload-supporting-evidence.\* | Disability - Upload Evidence to Support Claim |
 | ^/disability/how-to-file-claim.\* | Disability - File a Disability Claim for Compensation or Increase |
 | ^/coronavirus-chatbot.* | Covid-19 Chatbot |
