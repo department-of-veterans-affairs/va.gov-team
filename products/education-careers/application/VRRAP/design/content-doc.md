@@ -176,8 +176,8 @@ Date received
 Your claim was sent to
 
 VA Regional Office
-125 South Main Street
-Muskogee, OK 74401
+P.O. Box 8888
+Muskogee, OK 74402-8888
 
 { end blue box }
 
