@@ -1,0 +1,14 @@
+# Known Find a VA Form Data-Related Issues, March 2021
+Note that some items included in counts may be forms that will be purged, but currently appear in Forms API
+
+| Problem Description    | No Forms (Appx)          | Source of issue |
+|---------|-------------------|-------------------|
+| "Ghost" records in Forms API resulting from forms deleted  prior to use of "deleted" field | 90  | Lighthouse Postgres database
+|Redundant records resulting from forms being renamed in VA Database while LH was using name as the primary key | 10 | Lighhouse Postgres database
+| Forms using inconsistent naming conventions - ex SF39 vs SF-85 | All forms should be reviewed  | VA Forms Databaase  |
+| Issue/Revised date does not match date on PDF | TBD | VA Forms Database
+| *Last Revised On* date before *Issue Date* | 300 | VA Forms Database |
+| Missing *First Issued Date* | 93 | VA Forms Database |
+| *First Issued Date* > 10 yrs | 93 | VA Forms Database |
+| *Last Revised On* date > 10 yrs | 146  | VA Forms Database | 
+| Dates on Forms API do not match with Find a VA Form | TBD | Forms API (needs to use same logic as Find a Form app if data cannot be fixed at source)|
