@@ -1090,7 +1090,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _[Staging review completed by VSA in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21064)_<br/>
 **Open issues**
 
-- [508-defect-1 ❗Launchblocker [COGNITION]: Locations Page - mental health clinics must have discernible text or be removed - #21073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21073)<br/>**Opened:** March 5, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [Health care, headings not properly nested - #21035](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21035)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [Health Care Policies: Headers not properly tagged (template issue) - #20864](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20864)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [KEYBOARD]: VAMC Templates - On this page links must set focus correctly in iOS Safari + VoiceOver - #21067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21067)<br/>**Opened:** March 5, 2021 | **Severity:** _508-defect-2 - **Serious**_
