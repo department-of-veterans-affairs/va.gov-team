@@ -1,7 +1,8 @@
 ## Data Dictionaries  
- - Conteng Groups in GA (Benefit Hubs & Products): https://docs.google.com/document/d/14UmkCQjUsCz_i-1Vl64acdRF45IWcRVm1xTr3gqggRE/edit#gid=0
- - Navigation Events: https://docs.google.com/document/d/190DLTymqnrOKwv9sUz1qSxB3sKTtN5soMK2gAV9Bc6Y/edit#gid=0
- - Medallia Events: https://docs.google.com/document/d/1qV_YL8tGySk37KRyceHnCoC1yeImFF43ptUmxANd_M0/edit#gid=o
+ - [Benefit Hubs Content Grouping](#Benefit-Hubs-Content-Grouping)
+ - [Products Content Grouping](#Products-Content-Grouping)
+ - [Navigation Events](#Navigation-Events)
+ - [Medallia Events](#Medallia-Events)
  - [Tracking Common User Interactions](#tracking-common-user-interactions)
  - [Design System Component Tracking](#design-system-component-tracking)
  - [Tracking Form Events](#tracking-form-events)
@@ -9,6 +10,153 @@
  - [Custom Dimensions](#Custom-Dimensions)
  - [Custom Metrics](#Custom-Metrics)
 
+## Benefit Hubs Content Grouping
+
+| **Pattern {{Page Path}}** | **Output** |
+| --- | --- |
+| ^/track-claims.\* | Disability |
+| ^/disability.\* | Disability |
+| ^/burial.\* | Burials &amp; Memorials |
+| ^/pension.\* | Pension &amp; Fiduciary |
+| ^/education.\* | Education |
+| ^/gi-bill.\* | Education |
+| ^/gibill.\* | Education |
+| ^/records/.\* | Records |
+| ^/disability.\* | Disability |
+| ^/claim-or-appeal-status.\* | Disability - Check Claim or Appeal Status |
+| ^/va-payment-history.\* | View Payment History |
+| ^/health-?care.\* | Health Care |
+| ^/healthbenefits.\* | Health Care |
+| ^/profile.\* | Profile &amp; Records |
+| ^/records.\* | Profile &amp; Records |
+| ^/.\*-health-care.\* | Health Care |
+| ^/housing-assistance.\* | Housing Assistance |
+| ^/life-insurance.\* | Life Insurance |
+| ^/careers-employment.\* | Careers &amp; Employment |
+| ^/service-member-benefits.\* | Service Member Benefits |
+| ^/family-member-benefits.\* | Family Member Benefits |
+
+## Products Content Grouping
+
+| ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
+| --- | --- |
+| ^/records/download-va-letters.\* | Records |
+| ^/records/get-veteran-id-cards.\* | Records |
+| ^/education/apply-for-education-benefits/application/1990/.\* | Education - Education Benefits Application (1990) |
+| ^/education/apply-for-education-benefits/application/1990E/.\* | Education - Transferred Education Benefits (1990e) |
+| ^/education/apply-for-education-benefits/application/1990N/.\* | Education - Call to Service Program (1990n) |
+| ^/education/change-gi-bill-benefits.\* | Education - Change GI Bill School |
+| ^/education/apply-for-education-benefits/application/5490.\* | Education - Eligible dependent benefits (5490) |
+| ^/education/submit-school-feedback.\* | Education - GI Bill Feedback Tool |
+| ^/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994.\* | Education - Veteran Employment Through Technology Education Courses (22-0994, VET TEC) |
+| ^/education/apply-for-education-benefits/application/5495.\* | Education - Change GI Bill school or program for dependents (5495) |
+| ^/education/opt-out-information-sharing/opt-out-form-0993.\* | Education - Opt-Out of Information Sharing (0993) |
+| ^/education/gi-bill/post-9-11/ch-33-benefit.\* | Education - Post 9-11 GI Bill Statement of Benefits |
+| ^/disability/file-disability-claim-form-21-526ez.\* | Claims - Disability Claims (526EZ v2) |
+| ^/gi-bill-comparison-tool.\* | Education - GI Bill Comparison Tool |
+| ^/gi-bill-comparison-tool/profile.\* | Education - GIBCT Profile Viewed |
+| ^/track-claims/your-claims.\* | Claims - Viewed Details |
+| ^/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment.\* | Claims - Auto Allowance and Adaptive Equipment Application (21-4502) |
+| ^/education/apply-for-education-benefits/application/1995.\* | Education - Request for Change of Program (1995) |
+| ^/my-va.\* | Personalized Tools - Saved my Benefits Preferences |
+| ^/profile.\* | Authenticated Experience Profile 2.0 |
+| ^/health-care/apply/application.\* | Health Care - Health Care Application (10-10EZ) |
+| ^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/.\* | Health Care - Medical Device Reordering Tool (2346a) |
+| ^/health-care/secure-messaging.\* | Health Care - Patient Portal: Messaging |
+| ^/health-care/refill-track-prescriptions.\* | Health Care - Patient Portal: Rx Refills |
+| ^/health-care/schedule-view-va-appointments.\* | Health Care - Patient Portal: Health Records Appointments &amp; Scheduling |
+| ^/health-care/view-test-and-lab-results.\* | Health Care - Patient Portal: Lab and Test Results |
+| ^/health-care/apply/application/introduction.\* | Health Care - Patient Portal: Apply for VA Health Care |
+| ^/burials-and-memorials/application/530.\* | Burial &amp; Preneed - Burial Benefits Application (Form 530) |
+| ^/burials-and-memorials/pre-need/form-10007-apply-for-eligibility.\* | Burial &amp; Preneed - Preneed Eligibility (Form 40-10007) |
+| ^/pension/application/527EZ.\* | Pension - Pension Application (Form 527EZ) |
+| ^/discharge-upgrade-instructions/guidance.\* | Discharge - Discharge Upgrade Guidance |
+| ^/records/download-va-letters/letters/letter-list.\* | Discharge - Download a Letter |
+| ^/records/get-veteran-id-cards/apply.\* | Discharge - Veteran ID Card (VIC) |
+| ^/find-locations/facility.\* | Unauthenticated Experience - Facility Details Viewed |
+| ^/search.\* | Unauthenticated Experience - Search |
+| ^/records/get-military-service-records.\* | Records - Request Military Service Records Including DD214 |
+| ^/find-forms/about-form.\* | Unauthenticated Experience {{Find form detail pages}} |
+| ^/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/.\* | Education - Application for STEM Scholarship (22-10203) |
+| ^/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/.\* | Family Member Benefits - Caregiver Application (10-10cg) |
+| ^/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996.\* | Benefits &amp; Memorials - Higher Level Review (20-0996) |
+| ^health-care/get-medical-records.\* | Records - Get Medical Records Online |
+| ^/change-address | Records - Change Address |
+| ^/disability/upload-supporting-evidence.\* | Disability - Upload Evidence to Support Claim |
+| ^/disability/how-to-file-claim.\* | Disability - File a Disability Claim for Compensation or Increase |
+| x | Covid-19 Chatbot |
+| x | Direct Deposit |
+| x | Content API (Drupal + GraphQL) |
+| ^.\*-health-care.\* | VAMC |
+| ^/performance-dashboard.\* | Performance Dashboard |
+| x | Personal Career Planning and Growth (Ch. 36) |
+| ^/privacy-policy.\* | Privacy Policy |
+| ^/resources.\* | Resources &amp; Support |
+| x | Disability Ratings Calculator page |
+
+## Navigation Events
+
+| Pattern {{Event}} | Output | Location Description |
+| --- | --- | --- |
+| ^nav-main.\* | Navigation - Main Page Buttons | Any of the three large buttons located near the bottom of the page under the benefit hubs (ex. blue rectangle with &quot;Find a VA health facility…&quot;) |
+| ^nav-footer.\* | Navigation - Footer - {{Click Text}} | Located under the benefit hubs and CTA buttons/boxes at the bottom of the page |
+| ^nav-404.\* | Navigation - 404 Error | When a user finds a page that no longer exists (ex. &quot;va.gov/hec&quot;) |
+| ^nav-linkslist.\* | Navigation - Link List - {{CJ - Links List - Null Handler - Event Action Label}} | Hyperlinked list located just above the footer (ex. hyper links of benefit hubs located on the home page under the white boxes and photos of vets) |
+| ^nav-sidenav$ | Navigation - Side - {{Click Text}} | Select a sidebar menu (that is not within an expanded menu) on the side of a benefit hub page (ex. See this page: &quot;https://www.va.gov/health-care/about-va-health-benefits/&quot; |
+| ^nav-sidenav-child$ | Navigation - Side - Child {{CJ - Sidenav Dropdown Header - Null Handler}} | Select a sidebar menu option from within an expanded menu on the side of a page (ex. See this page: &quot;https://www.va.gov/cheyenne-health-care/health-services&quot; |
+| ^nav-header-link$ | Navigation - Header - {{Click Text}} - {{Click URL}} | Links that exit to another page rather than expand into menu options, located under the sub-menu options on the main navigation in the header |
+| ^nav-header-top-level$ | Navigation - Header - Open Top Level - {{Click Text}} | Main navigation in the header at the top of the page (ex. &quot;VA Benefits and Health Care&quot; or &quot;About VA&quot;) |
+| ^nav-header-second-level$ | Navigation - Header - Open Second Level - {{Click Text}} | Selecting one of the sub menus from the top level navigation&#39;s drop down (ex. &quot;Health care&quot; or &quot;Disability&quot;) |
+| ^nav-user$ | Navigation - User - {{Navigation User Section - Lookup Table}} | Located on this page after the user has authenticated: www.va.gov/change-direct-deposit/ |
+| ^nav-header-logo | Navigation - Header - Logo | Will be for logo link clicks |
+| ^nav-breadcrumb | Navigation - Breadcrumb - {{Navigation Breadcrumb Section - Lookup Table}} | As you go deeper into pages there will be a trail left at the top of the page showing you what folder/topic you&#39;ve gone into, any of those folder hyperlinks is the breadcrumb menu (ex. selecting the &quot;Home&quot; hyperlinked just above the H1 on this page &quot;https://www.va.gov/change-direct-deposit/&quot;) |
+| ^nav-crisis-header | Navigation - Crisis Modal Clicked - Header | Red floating banner in the top right of the home page above all other menus |
+| ^nav-hub-containers | Navigation - Hub - Containers - {{Click Text}} | Big boxes located on the right of an expanded sub-menu under the main navigation at the top of the page (ex. &quot;COVID-19 vaccines at VA&quot; under VA Benefits and Health Care \&gt; Health care \&gt; far right box) |
+| ^nav-searchresults | Navigation - Search Results - {{Navigation Path}} | Select a menu option from the right rail menu on a /search/ page under &quot;More VA search tools&quot; (ex. &quot;Look up Board of Veterans&#39; Appeals…&quot; |
+| ^nav-zone-one | Navigation - Zone One - {{Navigation Path}} | Hyperlinked text located in the big white boxes near the top of the home page (ex. &quot;Refill and track your prescriptions&quot;) |
+| ^nav-hub-promo | Navigation - Hub - Promo Box - {{Click Text}} | Hyperlinked text in the box to the right of the H1 at the top of a page (ex. On this page it is located under the blue box with a white star: &quot;https://www.va.gov/burials-memorials/&quot;) |
+| ^nav-user-profile-cta | Navigation - Go to Profile - Call-to-Action | Green &quot;Go to your VA.gov profile&quot; button ocated on this page after the user has authenticated: www.va.gov/change-direct-deposit/ |
+| ^nav-hub-rail | Navigation - Hub - Rail - {{Navigation Path}} - {{Click Text}} | Floating menu on the right side of a page (ex. &quot;https://www.va.gov/burials-memorials&quot;) |
+| ^nav-profile-additional-resources$ | Navigation - GIBCT Profile - Additional Resources - {{Click Text}} | Hyperlinks under the menu on the right (ex. Under the video on this page: &quot;https://www.va.gov/gi-bill-comparison-tool./&quot;) |
+| ^nav-accordion-expand | Navigation - Accordion - Expand - {{CJ - Accordion Action}} | Expand one of the sidebar navigation menus within a service hub page (ex. &quot;Get benefits&quot; menu located on the page &quot;https://www.va.gov/health-care/covid-19-vaccine/&quot;) |
+| ^nav-accordion-collapse | Navigation - Accordion - Collapse - {{CJ - Accordion Action}} | Collapseone of the sidebar navigation menus within a service hub page (ex. &quot;Get benefits&quot; menu located on the page &quot;https://www.va.gov/health-care/covid-19-vaccine/&quot;) |
+| ^nav-featured-content-link-click | Navigation - Featured Content - {{CJ - Featured Content - Null Handler - Event Action Label}} | Link to a spotlight story/blog post (ex. &quot;Erie VA employee makes masks... &quot; hyperlinked text near the top of this page: &quot;www.va.gov/erie-health-care/stories/&quot;) |
+| ^nav-secondary-button-click | Navigation - Secondary Button - {{Click Text}} | &quot;See all locations&quot; button under the &quot;Locations&quot; h2 on this page: https://www.va.gov/erie-health-care/ |
+| ^nav-accordion-embedded-link-click | Navigation - Accordion Embedded Link - {{JV - fullAccordionLabel}} - {{CJ - Global - Click URL Null Replace}} | Link located within an accordion menu (ex. Primary care \&gt; Advice nurse \&gt; &quot;Ashtabula County VA Clinic on this page: &quot;www.va.gov/erie-health-care/health-services/&quot;) |
+| ^nav-additionalInfo-expand | Navigation - Additional Info - Expand - {{JS - Global - Additional Info - Header Label}} - {{JS - Global - Additional Info - Component Label}} | Grey box located part way down the copy of the page with a yellow line on the left side and a caution symbol (!) on the top left corner (ex. &quot;How do I get help if I&#39;m homeless… on this page: &quot;https://www.va.gov/careers-employment&quot;) |
+| ^nav-additionalInfo-collapse | Navigation - Additional Info - Collapse - {{JS - Global - Additional Info - Header Label}} - {{JS - Global - Additional Info - Component Label}} | Grey box located part way down the copy of the page with a yellow line on the left side and a caution symbol (!) on the top left corner (ex. &quot;How do I get help if I&#39;m homeless… on this page: &quot;https://www.va.gov/careers-employment&quot;) |
+| ^nav-jumplink-click | Navigation - Jumplink Click - {{Click Text}} | Located on the far top right corner (ex. &quot;Contact us&quot; or &quot;Sign in&quot;) |
+| ^nav-pipe-delimited-list-click | Navigation - Pipe Delimited List - {{DL - pipe-delimited-list-header}} - {{CJ - Global - Click URL Null Replace}} | Hyperlinked text located in the grey banner under the main navigation menu at the top of the home page (ex. &quot;Find VA locations tool&quot;) |
+| nav-promo-banner-(link|link-click) | Navigation - Promo Banner - {{Click Text}} | Promo banner on mission act page |
+| nav-ebenefits-click | Navigation - Click to eBenefits | Green &quot;Go to eBenefits to apply&quot; button (ex. located on this page: &quot;www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment/&quot;) |
+| ^nav-warning-alert-box-content-link-click (Legacy - replaced w/nav-alert-box-link-click) | Navigation - Warning Alert Box - {{DL - alertBoxHeading}} - {{Click Text}} | Selecting any links within an alert box at the top of the screen (ex. &quot;VA&#39;s public health response&quot; inside of the grey alert box at the top of the page with &quot;VA facility and status updates&quot; as the h3 on the home page) |
+| ^nav-paginate-next | Navigation - Paginate - Next | Located at the bottom of the search results on a /search/ page |
+| ^nav-paginate-previous | Navigation - Paginate - Previous | Located at the bottom of the search results on a /search/ page |
+| ^nav-paginate-number | Navigation - Paginate - Number: {{DL - Paginate Page Number}} | Located at the bottom of the search results on a /search/ page |
+| ^nav-info-box-click | Navigation - Info Box Click - {{DL - infoBoxText}} | &quot;Facility notice&quot; blue alert box located under a location result (ex. &quot;Facility notice&quot; under &quot;Abie Abraham VA Clinic&quot; on this page: &quot;https://www.va.gov/butler-health-care/&quot;) |
+| ^nav-health-care-facility-status-click | Navigation - Health Care Facility Status - {{Click Text}} | Link to a clinic location under the &quot;Facility operating statuses&quot; h2 (ex. &quot;Beaver County VA Clinic&quot; on this page: &quot;www.va.gov/pittsburgh-health-care/operating-status/&quot;) |
+| ^nav-tab-click$ | Navigation - Tab Click - {{DL - tab-text}} | (ex. Located on this page: &quot;www.va.gov/health-care/schedule-view-va-appointments/appointments/&quot;) |
+| ^nav-page-tag-click$ | Navigation - Page Content Tag - {{DL - page-tag-category-label}} - {{DL - page-tag-click-label}} | One of the tags located at the bottom of a /resources/ page (ex. &quot;Claims and appeals status&quot; tag on this page: &quot; www.va.gov/resources/claim-status-tool-faqs/&quot;) |
+| ^nav-alert-box-link-click$ | Navigation - Alert Box - Link Click - {{JS - Alert Box Link Click Action}} | Selecting any links within an alert box at the top of the screen (ex. &quot;VA&#39;s public health response&quot; inside of the grey alert box at the top of the page with &quot;VA facility and status updates&quot; as the h3 on the home page) |
+
+## Medallia Events
+
+| Medallia Event | New Name |
+| --- | --- |
+| ShowForm\_Called | survey-show-form-call |
+| Form\_Displayed | survey-start-form |
+| Form\_Next\_Page | survey-next-click |
+| Form\_Back\_Page | survey-back-click |
+| Form\_Close\_Submitted | survey-submit-close |
+| Form\_Close\_No\_Submit | survey-no-submit-close |
+| Feedback\_Submit | survey-submit |
+| Submit\_Feedback | survey--submission |
+| Feedback\_Button\_Clicked | survey-button-click |
+| ThankYou\_Displayed | survey--submission-successful |
+| Invite\_Displayed | survey-invitation-display |
+| Invite\_Accepted | survey-invitation-accept |
+| Invite\_Declined | survey-invitation-decline |
+| Invite\_Skipped | survey-invitation-skip |
 
 ## Tracking Common User Interactions
 As you begin building your product, you may have questions about what types of interactions are already tracked and what might need to be customized for your product. The VSP Analytics-Insights team looks for ways to ensure very common user interactions are tracked globally. 
