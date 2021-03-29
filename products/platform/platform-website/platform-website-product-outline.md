@@ -5,10 +5,11 @@ VA.gov's Platform Website houses platform, team, product, and development inform
 
 ## Problem Statement 
 
-VSP has created a myriad of documentation to help our customers (i.e. VFS teams) work seamlessly and iteratively to build great products.  However, platform documentation is a not easily navigable and frequently not actionable, which:
-- Causes a large support burden for VSP, therefore 
+The Platform has created a myriad of documentation to help our customers work seamlessly and iteratively to build great products.  However, documentation is a not easily navigable and frequently not actionable, which:
+
+- Causes a large support burden for Platform Teams, therefore 
 - Frustrating our customers, and 
-- Potentially resulting in products on VA.gov that don't meet VSP standards. 
+- Potentially results in products on VA.gov that don't meet Platform standards. 
 
 _HMW enable Platform Teams to be responsible for populating and maintaining the Platform Website?_
 
@@ -44,16 +45,16 @@ Overall:
 
 * Building out Confluence will lead to greater self-service and fewer support requests.
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
-* The VSP team will be able to customize Confluence without undue burden.
+* Any given Platform Team will be able to customize Confluence without undue burden.
  
 ## Solution approach
 
-* 2020 Q2: To come.
+2020 Q2: To come.
 
 2021 Q1: Created landing pages
 
+2020 Q4: Piloted using Confluence as a documentation tool, using backend developer information.  _HMW leverage Confluence to improve the info findability for VFS teams?_
 
-2020 Q4: 
 <details>
 Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
 * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
@@ -74,7 +75,7 @@ Link to the following materials as relevant:
 ### Communications
 
 <details>
-Team Name: VSP Content + Information Architecture
+Team Name: Platform Content + Information Architecture
 
 GitHub Label: #content-ia-team
 
