@@ -30,9 +30,19 @@
 - Ideas is to pull Allergies into the Previsit summary as its all part of the meds rec initiative
 - 5-10 meds is typical per patient med list. 
 
-## Immunizzation.
+## Immunizations
 - Covid Vac - clinical reminder is capturing covid - if they have it done elsewhere and it can be entered in the clinical reminder and then it shows in the immunization list in vista
 - don't require documentation and just take the patient verbal saying they got the shot. 
 
 <img
 src="https://lh5.googleusercontent.com/pIHUjrbEOWptf33kGe0nMkxkg1UuHRIdseGvql3izTTZn3TAgvacR5FBrGg8pBXBKEoE1AE20falvrGBAcTa1KqSrTD6J6oqY-jzdmth8R8P293TaCiLG7NFVncXZrJfOQE9q28Y" width="700">
+
+
+## Takeaways
+- Should more discovery research be completed to understand the physician workflow? Particularly the PVS verified PDF to CPRS note to AVS workflow.
+- Talk to Rob about medication images.
+- Should medication compliance really focus on "Not taking" workflow? Should the default be "Taking as prescibed" with an easy way to mark if they aren't in compliance?
+- Check with the med group on the recent standardization of med compliance. Can also talk to PVS/AVS, since they just went through this standardization.
+- Dr. Bryne mentioned that we needed to show facility/prescriber/status. Look into why? Where did that recommendation come from? Check what Lighthouse actually has available. Compare all of that to what the Veterans said that they wanted to see for Medications.
+- Look into medication statuses more. Do we only show "active" medications?
+- Updates to the COVID immunization will need to connect to the clinical reminder. Do we need to connect to another other immunization clinical reminders, such as flu shots?
