@@ -4,9 +4,9 @@ This document lists the call-to-action (CTA) button text used in resources and s
 **Last updated: 03/29/21**
 
 ## Go to
-- [Sign in CTAs](##sign-in-ctas)
-- [Other VA account and profile CTAs](##other-va-account-and-pr)
-- [Education and training CTAs](##education-and-training-ctas)
+- [Sign in CTAs](#sign-in-ctas)
+- [Other VA account and profile CTAs](#other-va-account-and-profile-ctas)
+- [Education and training CTAs](#education-and-training-ctas)
 
 ## Sign in CTAs
 
