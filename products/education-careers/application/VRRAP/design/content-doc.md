@@ -139,7 +139,7 @@ To be eligible for VRRAP, the 3 following statements must be true:
 * You are not currently enrolled in a Federal or State jobs program, nor do you expect to be enrolled in such a program while training until VRRAP.
 * You will not receive unemployment compensation, including any cash benefit received pursuant to the CARES Act, while training under VRRAP.
 
-I attest the statements above are true and accurate to the best of my knowledge and belief. { checkbox }
+I attest the statements above are true and accurate to the best of my knowledge and belief. { radio, yes, no }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
