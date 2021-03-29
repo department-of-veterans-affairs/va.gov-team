@@ -263,7 +263,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[SCREENREADER]: Review example PDF for accessibility - #20134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20134)<br/>**Opened:** February 18, 2021
-- [Research if using Roman numerals with World War II is an accessibility issue and if there is a fix for it - #21959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21959)<br/>**Opened:** March 23, 2021 | **Severity:** 508-defect-enhancement
   
 Back to [Table of Contents](#table-of-contents)
 
