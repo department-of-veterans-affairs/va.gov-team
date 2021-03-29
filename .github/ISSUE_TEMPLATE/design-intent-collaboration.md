@@ -26,7 +26,7 @@ assignees: shiragoodman, allison0034
 - Designer(s) (required): name(s)
 - Product Manager (required): name
 - DEPO Product Lead (recommended): name
-- DEPO Design lead (recommended): name
+- DEPO Design lead (recommended): Ryan Thurwell
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable)
 
