@@ -24,7 +24,7 @@ When new users are added to VA.gov CMS, they are added to specific sections base
 
 `@todo link to user administration policy for each product`.
 
-In this example, a user is associated with all of VBA sections, as well as the Outreach Hub section, allowing them to edit
+In this example, a user is associated with all of VBA sections, as well as the Outreach Hub section, allowing them to edit the Outreach Hub AND everything in every VBA section. 
 
 ![Screenshot of workbench access form](workbench-access-form.png)
 
