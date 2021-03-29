@@ -12,7 +12,7 @@
 
 ## Benefit Hubs Content Grouping
 
-| **Pattern {{Page Path}}** | **Output** |
+| **Page Path (RegEx)** | **Benefit Hub** |
 | --- | --- |
 | ^/track-claims.\* | Disability |
 | ^/disability.\* | Disability |
@@ -40,7 +40,7 @@
 
 ## Products Content Grouping
 
-| **Pattern {{Page Path}}** | **Output** |
+| **Page Path (RegEx)** | **Product Name** |
 | --- | --- |
 | ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
 | ^/records/download-va-letters.\* | Records - Download VA Letters |
@@ -101,7 +101,7 @@
 
 ## Navigation Events
 
-| Pattern {{Event}} | Output | Location Description |
+| Event Name (RegEx) | Event Action Configuration | Location & Interaction Description |
 | --- | --- | --- |
 | ^nav-main.\* | Navigation - Main Page Buttons | Any of the three large buttons located near the bottom of the page under the benefit hubs (ex. blue rectangle with &quot;Find a VA health facility…&quot;) |
 | ^nav-footer.\* | Navigation - Footer - {{Click Text}} | Located under the benefit hubs and CTA buttons/boxes at the bottom of the page |
@@ -148,22 +148,22 @@
 
 ## Medallia Events
 
-| Medallia Event | New Name |
-| --- | --- |
+| Medallia Event | New Name | Event Description 
+| --- | --- | --- | 
 | ShowForm\_Called | survey-show-form-call |
-| Form\_Displayed | survey-start-form |
-| Form\_Next\_Page | survey-next-click |
-| Form\_Back\_Page | survey-back-click |
-| Form\_Close\_Submitted | survey-submit-close |
-| Form\_Close\_No\_Submit | survey-no-submit-close |
-| Feedback\_Submit | survey-submit |
-| Submit\_Feedback | survey--submission |
-| Feedback\_Button\_Clicked | survey-button-click |
-| ThankYou\_Displayed | survey--submission-successful |
-| Invite\_Displayed | survey-invitation-display |
-| Invite\_Accepted | survey-invitation-accept |
-| Invite\_Declined | survey-invitation-decline |
-| Invite\_Skipped | survey-invitation-skip |
+| Form\_Displayed | survey-start-form | When the feedback form is presented to the user
+| Form\_Next\_Page | survey-next-click | When the user navigates to the next page of the survey
+| Form\_Back\_Page | survey-back-click |  When the user navigates to the prior page of the survey
+| Form\_Close\_Submitted | survey-submit-close | When the user closes the form following submission 
+| Form\_Close\_No\_Submit | survey-no-submit-close | When the form is closed without submission 
+| Feedback\_Submit | survey-submit | 
+| Submit\_Feedback | survey--submission | Fires on all submis attempts
+| Feedback\_Button\_Clicked | survey-button-click | Click on the side Feedback button 
+| ThankYou\_Displayed | survey--submission-successful | When the feedback form has been successfully submitted
+| Invite\_Displayed | survey-invitation-display | When the survey modals pops up and is displayed 
+| Invite\_Accepted | survey-invitation-accept | When the user elects to start the form following invitation
+| Invite\_Declined | survey-invitation-decline | When the user elects to not start (close) the form following invitation
+| Invite\_Skipped | survey-invitation-skip | When the user elects to skip start the form following invitation
 
 [Back to Table of Contents](#Data-Dictionaries)
 
