@@ -12,11 +12,11 @@ This document lists the call-to-action (CTA) button text used in resources and s
 
 | CTA text | Relevant articles | Notes |
 | -------- | ------------- | ------------ |
-| Sign in or create an account | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |      
-| Sign in to VA.gov | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |      
-| Sign in to change your address | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |     
-| Sign in to VA.gov with DS Logon | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |     
-| Sign in to change VA direct deposit info | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |   
+| Sign in or create an account | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/), [Change your address on file with VA](https://www.va.gov/resources/change-your-address-on-file-with-va/), [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/), [What your decision review or appeal status means](https://www.va.gov/resources/what-your-decision-review-or-appeal-status-means/) |  |      
+| Sign in to VA.gov | [How to change direct deposit information for VA disability or pension](https://www.va.gov/resources/how-to-change-direct-deposit-information-for-va-disability-or-pension/), [How to get a Premium DS Logon account online](https://www.va.gov/resources/how-to-get-a-premium-ds-logon-account-online/) |  |      
+| Sign in to change your address | [How to change your address in your VA.gov profile](https://www.va.gov/resources/how-to-change-your-address-in-your-vagov-profile/) |  |     
+| Sign in to VA.gov with DS Logon | [DS Logon FAQs](https://www.va.gov/resources/ds-logon-faqs/) |  |     
+| Sign in to change VA direct deposit info | [GI Bill and other VA education benefit payments FAQs](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/) |  |   
 | Get help signing in | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) |  |  
 
 ## Other VA account and profile CTAs
