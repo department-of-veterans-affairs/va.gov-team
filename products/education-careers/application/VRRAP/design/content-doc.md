@@ -5,8 +5,32 @@ Single page solution
 
 ## Intro page
 
+## Form Title: Apply for the Veterans Rapid Retraining Assistance Program (VRRAP) 
 
-### Criteria for eligibility (for info / awareness)
+{ if logged out, informational alert }  
+
+### Save time—and save your work in progress—by signing in before starting your application ###  
+
+When you’re signed in to your VA.gov account:  
+
+* We can prefill part of your application based on your account details.
+* You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the form and you’ll need to start over.  
+
+**Note:** If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.  
+
+Sign in or create an account { button }   
+
+{ end if logged out }  
+
+
+
+### Follow the steps below to apply for this scholarship  
+
+{ subway map }  
+
+#### 1. Determine your eligibility  
+
+**To be eligible for the , you must meet all the requirements below.**  
 
 To be eligible for VRRAP, Veterans must:
 
@@ -20,6 +44,64 @@ To be eligible for VRRAP, Veterans must:
 [ Sign in or create an account ]()  { button }
 
 [Start your application without signing in]()
+
+
+#### 2. Prepare  
+
+**To fill out this application, you’ll need your:**  
+
+* Social Security number  
+* Bank account direct deposit information  
+
+
+**What if I need help filling out my application?** An accredited individual, like a Veterans Service Officer (VSO) or a Veteran representative at your school, can help you fill out this application. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
+
+
+#### 3. Apply
+Complete this education benefits form.
+
+After submitting the form, you’ll get a confirmation message. You can print this page for your records.
+
+#### 4. VA review 
+We usually process claims within 30 days. We’ll let you know by mail if we need more information.  
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)  
+
+#### 5. Decision
+If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
+
+If your application isn't approved, you’ll get a denial letter in the mail.
+
+{ end subway map }  
+
+{ if logged out }  
+
+Sign in or create an account { button } 
+
+[Start your application without signing in]() 
+
+{ end if logged out }  
+
+{ if logged in }  
+
+{ blue informational alert }  
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
+{ end informational alert }  
+
+Start the education application >> { button }  
+
+{ end if logged in }  
+
+{ OMB / Privacy Policy anchor #privacy_policy (link for SCO email https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy )}
+
+Respondent burden: **XX minutes**  
+OMB Control #:   
+Expiration date:  
+[Privacy Act Statement]()  
+
+________________________________________
+
+
 
 ## Form Title:  Apply for the Veterans Rapid Retraining Assistance Program (VRRAP)
 
