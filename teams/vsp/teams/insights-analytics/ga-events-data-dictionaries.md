@@ -95,7 +95,7 @@
 | x | Personal Career Planning and Growth (Ch. 36) |
 | ^/privacy-policy.\* | Privacy Policy |
 | ^/resources.\* | Resources &amp; Support |
-| x | Disability Ratings Calculator page |
+| ^/disability/about-disability-ratings.\* | Disability Ratings Calculator |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
