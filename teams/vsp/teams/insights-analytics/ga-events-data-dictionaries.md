@@ -43,8 +43,8 @@
 | **Pattern {{Page Path}}** | **Output** |
 | --- | --- |
 | ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
-| ^/records/download-va-letters.\* | Records |
-| ^/records/get-veteran-id-cards.\* | Records |
+| ^/records/download-va-letters.\* | Records - Download VA Letters |
+| ^/records/get-veteran-id-cards.\* | Records - VA ID Cards |
 | ^/education/apply-for-education-benefits/application/1990/.\* | Education - Education Benefits Application (1990) |
 | ^/education/apply-for-education-benefits/application/1990E/.\* | Education - Transferred Education Benefits (1990e) |
 | ^/education/apply-for-education-benefits/application/1990N/.\* | Education - Call to Service Program (1990n) |
