@@ -92,7 +92,6 @@ Start the education application >> { button }
 
 { end if logged in }  
 
-{ OMB / Privacy Policy anchor #privacy_policy (link for SCO email https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy )}
 
 Respondent burden: **XX minutes**  
 OMB Control #:   
