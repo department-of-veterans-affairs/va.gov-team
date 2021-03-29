@@ -66,8 +66,8 @@ Team Availability | Time (EST)
 ------------------|--------------
 April 8, 2021 | 10:30 a.m. - 5 p.m., 5:45 - 8 p.m.
 April 9, 2021 | 9 a.m. - 6 p.m.
-April 12, 2021 | 11 a.m. - 5 p.m., 6 - 8 p.m.
-April 13, 2021 | 10 a.m. - 5 p.m., 5:45 - 8 p.m.
+April 12, 2021 | Noon. - 5 p.m., 6 - 8 p.m. (try for no more than 4 sessions on this day)
+April 13, 2021 | Noon - 5 p.m., 5:45 - 8 p.m. (try for no more than 4 sessions on this day)
 
 Pilot Session: April 2, 2021 | 3:30 - 4:30 p.m.
 
@@ -78,7 +78,7 @@ Pilot Session: April 2, 2021 | 3:30 - 4:30 p.m.
 - Project point of contact: Kristen McConnell (kristen.mcconnell@adhocteam.us)
 - Participant(s) for pilot test: TBD
 - Note-takers: Perigean
-- Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Ming Ligh (ming.ligh@va.gov), Stephan Barrs (stephen.barrs@va.gov), Emily Mann (emily.mann1@va.gov), Martha Wilkes (martha.wilkes@va.gov), Meg Peters (meg.peters@va.gov), Leanna Miller (Leanna.usds@gmail.com), Bridget Hapner (bridget@adhocteam.us), Peter Russo (peter.russo@adhocteam.us), Ayush Chakravarty (ayush@adhocteam.us)
+- Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Ming Ligh (ming.ligh@va.gov), Stephan Barrs (stephen.barrs@va.gov), Emily Mann (emily.mann1@va.gov), Martha Wilkes (martha.wilkes@va.gov), Meg Peters (meg.peters@va.gov), Leanna Miller (Leanna.usds@gmail.com), Bridget Hapner (bridget@adhocteam.us), Peter Russo (peter.russo@adhocteam.us), Ayush Chakravarty (ayush@adhocteam.us), Cindy Merrill (cindy.merrill@adhocteam.us)
 
 ### Resources
 - Project Outline
