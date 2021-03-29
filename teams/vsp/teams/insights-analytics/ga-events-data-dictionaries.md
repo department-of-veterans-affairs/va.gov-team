@@ -38,8 +38,9 @@
 
 ## Products Content Grouping
 
-| ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
+| **Pattern {{Page Path}}** | **Output** |
 | --- | --- |
+| ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
 | ^/records/download-va-letters.\* | Records |
 | ^/records/get-veteran-id-cards.\* | Records |
 | ^/education/apply-for-education-benefits/application/1990/.\* | Education - Education Benefits Application (1990) |
