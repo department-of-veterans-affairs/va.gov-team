@@ -149,7 +149,7 @@ Another VA health facility
 
 ## ERRORS
 
-## When we can't detect whether someone has health care or not
+### When we can't detect whether someone has health care or not
 
 **We can't access any health care information right now**
 
