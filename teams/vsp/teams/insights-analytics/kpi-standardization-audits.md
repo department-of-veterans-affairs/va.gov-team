@@ -9,8 +9,8 @@
  - [Design System Component Tracking](#design-system-component-tracking)
  - [Tracking Form Events](#tracking-form-events)
  - [Search Events](#search-events)
- - [Custom Dimensions for _VA<span />.gov - Production_](#Custom-Dimensions-for-_VA)
- - [Custom Metrics for _VA<span />.gov - Production_](#Custom-Metrics-for-_VA)
+ - [Custom Dimensions](#Custom-Dimensions)
+ - [Custom Metrics](#Custom-Metrics)
 
 
 ## Tracking Common User Interactions
@@ -579,7 +579,7 @@ Description/Screenshot of Interaction | DataLayer | Dev Notes
 ------------ | ------------- | -------------
 _When the orientation of the way search results are presented is changed, either with **filtering** or **sorting**_  | `'event': 'onsite-search-results-change',`<br>`'search-query': '10-10EZ', //dynamically populate with the search query`<br>`'search-page-path': '/find-forms', //dynamically populate with where the search occured`<br>`'search-results-change-action-type': 'sort', //dynamically populate with 'sort' or 'filter'`<br>`'search-results-change-action-label': 'newest', //'oldest' //populate according to the text label of user selection indicating the more specific action`<br>`'search-results-pagination-current-page': 1, //populate with the current pagination number`<br>`'search-results-total-count': 999, //populate with the total number of search results`<br>`'search-results-total-pages': 100, //populate with total number of result pages` | - **Pagination of search results is tracked using a seperate taxonomy**
 
-## Custom Dimensions for _VA<span />.gov - Production_
+## Custom Dimensions
 
 Number|Name|Definition|Scope|Active
 --|--|--|--|--
@@ -662,7 +662,7 @@ Number|Name|Definition|Scope|Active
 77|Frequently Asked Question||Hit|true
 78|FAQ Section||Hit|true
 
-## Custom Metrics for _VA<span />.gov - Production_
+## Custom Metrics
 
 Index|Name|Scope|Formatting Type|Active|
 --- |:--- |:--- |:--- |--- |
