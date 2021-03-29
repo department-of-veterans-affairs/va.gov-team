@@ -48,6 +48,7 @@ Overall:
  
 ## Solution approach
 
+* 2020 Q2: To come.
 * 2021 Q1: Created landing pages
 * 2020 Q4: Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
   * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
@@ -80,5 +81,6 @@ Product POCs: Liani Lye, Product Manager
 ### Stakeholders
 <details>
 _What offices/departments are critical to make this initiative successful?_
-* OCTO-DE
+* OCTO-DE Platform Crew (VSP Teams and CMS)
+* OCTO-DE Sitewide Crew (Contact Center and Identity Teams)
 </details>
