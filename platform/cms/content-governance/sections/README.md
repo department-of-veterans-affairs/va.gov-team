@@ -44,4 +44,4 @@ Occasionally, a section may be divided into two, to allow more granular access t
 
 ## Limitations of Sections architecture
 
-`@todo Explain that a user's editorial workflow role is CMS-wide, and not section-specific. For example, a Content reviewer of one VAMC system cannot be a Content publisher of another VAMC system, etc.``
+`@todo Explain that a user's editorial workflow role is CMS-wide, and not section-specific. For example, a Content reviewer of one VAMC system cannot be a Content publisher of another VAMC system, etc.`
