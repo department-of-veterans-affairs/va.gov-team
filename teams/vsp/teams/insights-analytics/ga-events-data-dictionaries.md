@@ -97,6 +97,8 @@
 | ^/resources.\* | Resources &amp; Support |
 | x | Disability Ratings Calculator page |
 
+[Back to Table of Contents](#Data-Dictionaries)
+
 ## Navigation Events
 
 | Pattern {{Event}} | Output | Location Description |
@@ -142,6 +144,8 @@
 | ^nav-page-tag-click$ | Navigation - Page Content Tag - {{DL - page-tag-category-label}} - {{DL - page-tag-click-label}} | One of the tags located at the bottom of a /resources/ page (ex. &quot;Claims and appeals status&quot; tag on this page: &quot; www.va.gov/resources/claim-status-tool-faqs/&quot;) |
 | ^nav-alert-box-link-click$ | Navigation - Alert Box - Link Click - {{JS - Alert Box Link Click Action}} | Selecting any links within an alert box at the top of the screen (ex. &quot;VA&#39;s public health response&quot; inside of the grey alert box at the top of the page with &quot;VA facility and status updates&quot; as the h3 on the home page) |
 
+[Back to Table of Contents](#Data-Dictionaries)
+
 ## Medallia Events
 
 | Medallia Event | New Name |
@@ -160,6 +164,8 @@
 | Invite\_Accepted | survey-invitation-accept |
 | Invite\_Declined | survey-invitation-decline |
 | Invite\_Skipped | survey-invitation-skip |
+
+[Back to Table of Contents](#Data-Dictionaries)
 
 ## Tracking Common User Interactions
 As you begin building your product, you may have questions about what types of interactions are already tracked and what might need to be customized for your product. The VSP Analytics-Insights team looks for ways to ensure very common user interactions are tracked globally. 
@@ -191,8 +197,9 @@ Many basic Interactions are tracked within Google Analytics. Common elements tha
 #### Design System Components
 There are several common navigation elements that use the [Design System components](https://design.va.gov/components). We'll continue building this library with the components and matching Google Analytics navigation elements. These elements will require additional dataLayer code within the front-end. 
 
-## Design System Component Tracking
+[Back to Table of Contents](#Data-Dictionaries)
 
+## Design System Component Tracking
 
 ### Context
 - The design system is the central UX component repository for the VA. It can be found at https://design.va.gov/components/.
@@ -578,6 +585,8 @@ CheckboxGroup.js
   </tr>
 </table>
 
+[Back to Table of Contents](#Data-Dictionaries)
+
 ## Tracking Form Events
 For multi-step veteran forms, VFS teams can implement dataLayer events that will be pushed to Google Analytics based on a set of standard event schema. These events match settings that the Analytics-Insights team has established within Google Tag Manager. 
 
@@ -619,6 +628,8 @@ How to wizard primary CTA is surfaced / visible | `'event': 'howToWizard-cta-dis
 User clicks button to apply now <br> ![image](https://user-images.githubusercontent.com/48527022/93489961-e44a0480-f8d5-11ea-83ba-d94edee335f9.png) | `'event': 'cta-button-click',`<br>`'button-type: 'primary' //populate with the button type`<br>`'button-click-label': //populate with the button label` | Populate with the full primary button click label
 User clicks link to skip how to wizard <br> ![image](https://user-images.githubusercontent.com/48527022/93489251-49512a80-f8d5-11ea-83e5-e2ab93892d28.png) | `'event': 'howToWizard-skip'` | From reading [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/use_cases/business_logic.md#for-all-wizards), sounds like there will be customization around the display properties (link vs h2) <br><br> Keeping this event name generic to account for the customizations of some teams having links vs buttons
 Video Tracking with a **progress bar** | `'event': 'nav-progress-bar-change',`<br>`'progress-bar-type': 'segmented',`<br>`'progress-bar-current-value': //dynamically populate with an integer with each new change the current,`<br>`'progress-bar-max-value': //consistently populate as an integer with the total number of segments, i.e 5,`<br>`'progress-bar-title': //title of progress bar step`<br>`'progress-bar-subtitle': //subtitle of progress bar step`<br>`'enable-analytics': true`
+
+[Back to Table of Contents](#Data-Dictionaries)
 
 ## Search Events
 
@@ -727,6 +738,8 @@ Description/Screenshot of Interaction | DataLayer | Dev Notes
 ------------ | ------------- | -------------
 _When the orientation of the way search results are presented is changed, either with **filtering** or **sorting**_  | `'event': 'onsite-search-results-change',`<br>`'search-query': '10-10EZ', //dynamically populate with the search query`<br>`'search-page-path': '/find-forms', //dynamically populate with where the search occured`<br>`'search-results-change-action-type': 'sort', //dynamically populate with 'sort' or 'filter'`<br>`'search-results-change-action-label': 'newest', //'oldest' //populate according to the text label of user selection indicating the more specific action`<br>`'search-results-pagination-current-page': 1, //populate with the current pagination number`<br>`'search-results-total-count': 999, //populate with the total number of search results`<br>`'search-results-total-pages': 100, //populate with total number of result pages` | - **Pagination of search results is tracked using a seperate taxonomy**
 
+[Back to Table of Contents](#Data-Dictionaries)
+
 ## Custom Dimensions
 
 Number|Name|Definition|Scope|Active
@@ -810,6 +823,8 @@ Number|Name|Definition|Scope|Active
 77|Frequently Asked Question||Hit|true
 78|FAQ Section||Hit|true
 
+[Back to Table of Contents](#Data-Dictionaries)
+
 ## Custom Metrics
 
 Index|Name|Scope|Formatting Type|Active|
@@ -838,3 +853,5 @@ Index|Name|Scope|Formatting Type|Active|
 22|Home Address Suggestion Failures|Hit|Integer|true|
 23|Mailing Address Suggestion Failures|Hit|Integer|true|
 24|Address Override|Hit|Integer|true|
+
+[Back to Table of Contents](#Data-Dictionaries)
