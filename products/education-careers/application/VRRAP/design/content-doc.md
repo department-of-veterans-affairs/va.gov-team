@@ -159,6 +159,8 @@ We usually process claims within **30 days.**
 
 We may contact you if we need more information or documents.
 
+Print this page { button }
+
 { blue box }
 
 Veterans Rapid Retraining Assistance Program
@@ -171,6 +173,20 @@ Confirmation number
 Date received
 { Mon. NN, YYYY }
 
+Your claim was sent to
+Eastern Region
+VA Regional Office
+P.O. Box 4616
+Buffalo, NY 14240-4616
+
 { end blue box }
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.
+
+[Learn more about what happens after you apply]() { link }
 
 [Go back to VA.gov]() { button }
