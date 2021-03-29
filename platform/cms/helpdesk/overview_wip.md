@@ -1,6 +1,6 @@
 # CMS Help Desk Overview
 
-##Mission
+**Mission
 
 The Content Management System Help Desk (VA CMS Help Desk, or just CMS Help Desk) will provide end user support to staff from VA Medical Centers and VA Medical Facilities that utilize the site's various features to publish important information for Veterans to obtain benefits at VA Medical Facilities and VA Medical Centers.  
 
