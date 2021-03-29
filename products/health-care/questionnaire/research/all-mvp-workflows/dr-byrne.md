@@ -24,6 +24,7 @@
 - Typically meds are taking as prescribed but studies show that adherence goes down when a medication is taken multiple times a day
 -  Use verbiage for taking as prescribed to match the verbiage on PVS
 	- Consider adding Unsure option for a choice in Medication adherence as patients should be given the option to say the do not know.  
+	- check with Med group on the exact standardization of compliance
 	- include facility/ prescriber/ status - currently on drill in view. 
 - Medication Reconcile Directive- required to reconcile Active meds, discontinued, expired, over the counter and meds receiving from outside the VA. 
 - Ideas is to pull Allergies into the Previsit summary as its all part of the meds rec initiative
