@@ -92,7 +92,7 @@
 | x | Content API (Drupal + GraphQL) |
 | ^.\*-health-care.\* | VAMC |
 | ^/performance-dashboard.\* | Performance Dashboard |
-| x | Personal Career Planning and Growth (Ch. 36) |
+| ^/careers-employment/.\* | Personal Career Planning and Growth (Ch. 36) |
 | ^/privacy-policy.\* | Privacy Policy |
 | ^/resources.\* | Resources &amp; Support |
 | ^/disability/about-disability-ratings.\* | Disability Ratings Calculator |
