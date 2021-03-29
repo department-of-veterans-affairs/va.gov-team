@@ -53,10 +53,12 @@ Overall:
 
 2021 Q1: Created landing pages
 
-2020 Q4: Piloted using Confluence as a documentation tool, using backend developer information.  _HMW leverage Confluence to improve the info findability for VFS teams?_
+2020 Q4: Piloted using Confluence to increase findability of Platform Website info, using backend developer information.  _HMW leverage Confluence to improve the info findability for VFS teams?_
 
 <details>
-Piloted using Confluence increase findability of Platform Website info, specifically BE developer docs ([site](https://depo-platform-documentation.scrollhelp.site/developer-docs/), [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)).
+* Links:
+  * [VFS-facing website](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+  * [Conf instance](https://vfs.atlassian.net/wiki/spaces/pilot/overview)
 * We identified how VFS developers prioritize and group tasks in order to develop an easily navigable IA.
 * With the pilot, we established a process of uncovering and understanding VFS developers' task/categorization association. 
 
