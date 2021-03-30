@@ -21,6 +21,7 @@ VA Sheduled appointments display one of four reason for appointment:
 
 ![confirmed-va](confirmation-cards/confirmation-scheduled-va.png)
 
+<hr />
 
 **COVID-19 Vaccine Appointments**
 
@@ -28,6 +29,7 @@ It displays facility details
 
 ![confirmed-expresscare](confirmation-cards/confirmation-scheduled-express-care.png)
 
+<hr/ >
 
 ## Requested Confirmation Appointments
 Requested confirmation cards are available through VA request, Community Care request and Express Care request. It displays up to three preferred request dates. Request appointments are differienated with a yellow horizonal bar above the card, a caution icon and "Pending" text
@@ -72,6 +74,8 @@ Dispite being a phone call request, it is annotated as VA APPOINTMENT
 Annotated as VA VIDEO CONNECT
 
 ![requested-va-telehealth](confirmation-cards/confirmation-request-va-telehealth.png)
+
+<hr/ >
 
 ### 2. Community Care Request ###
 
