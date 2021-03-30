@@ -37,6 +37,7 @@ VA requests have three visit types:
  * Phone call
  * Telehealth (through VA video Connect)
 
+<hr />
 
 ### 1. VA Request ###
 
@@ -56,11 +57,15 @@ VA request displays reason for appointment:
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
+<hr />
+
 **b. Phone call**
 
 Dispite being a phone call request, it is annotated as VA APPOINTMENT
 
 ![requested-va-phone](confirmation-cards/confirmation-request-va-phone-call.png)
+
+<hr />
 
 **c. Telehealth**
 
@@ -72,6 +77,12 @@ Annotated as VA VIDEO CONNECT
 
 Community care request have the option of having user select from chose of providers or none at all. In either case, the user selects a preferred language spoken. 
 
-**a. Provider selected**
+**a. Provider Selected**
 
 ![requested-cc-provider](confirmation-cards/confirmation-request-cc-selected-provider.png)
+
+<hr />
+
+**b. No Provider Selected**
+
+![requested-cc-no-provider](confirmation-cards/confirmation-request-cc-no-provider.png)
