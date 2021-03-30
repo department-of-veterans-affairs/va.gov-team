@@ -2,11 +2,11 @@
 
 ## Mission
 
-The Content Management System Help Desk (VA CMS Help Desk, or just CMS Help Desk) will provide end user support to staff from VA Medical Centers and VA Medical Facilities that utilize the site's various features to publish important information for Veterans to obtain benefits at VA Medical Facilities and VA Medical Centers.  
+The Content Management System Help Desk (VA CMS Help Desk, or just CMS Help Desk) provides end user support to staff from VA Medical Centers and VA Medical Facilities that utilize Drupal CMS features to publish important information for Veterans to obtain benefits at VA Medical Facilities and VA Medical Centers.  
 
-The CMS Help Desk provides direct support and analysis of Support Channels to ensure the mission critical goal of CMS User's to publish healthcare information critical to a Veteran's success is not impeded or disrupted by technical issues, user error, or defect of the CMS Platform.
+The CMS Help Desk provides direct support and analysis of Support Channels to ensure that the mission critical goal of CMS Users to publish information critical to a Veteran's success is not impeded or disrupted by technical issues, user error, or defect of the CMS Platform.
 
-This document contains the various procedures, policies, and training resources (some linked to external sites and access will not be granted for all, that is expected and those links will update soon) that will provide a User with a general understanding of how the Help Desk operates and the various procedures and processes that address the internal needs of stakeholders and the external needs of the User. 
+This working document contains various procedures, policies, and training resources to provide an overview of how the Help Desk operates and the various procedures and processes that address the internal needs of stakeholders and the external needs of the User. Some external links are not openly shared.
 
 ## Getting Started
 
@@ -16,31 +16,23 @@ This document contains the various procedures, policies, and training resources 
 
 ### Support Channels
 
-The CMS Help Desk currently offers three methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
+The CMS Help Desk currently offers four methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
 
 ### Widget
 
-A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket at https://va-gov.atlassian.net/servicedesk/customer/portal/3
-
-### Slack
-
-Users may also create a Ticket with the Help Desk using pre-existing Slack channels.Tier 1 currently is responsible for the timely and periodic review of the Channels for new Cases; and enters all Cases manually by copying and pasting the relevant data into a new Ticket in JIRA.There is currently no method that tracks which Slack messages are Cases or have been entered in JIRA or had any action(s)There is currently no metric that measures performance, accurately, of messages involving Cases that flow through this channel.
+A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket at https://va-gov.atlassian.net/servicedesk/customer/portal/3 This is one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
 
 ### Portal
 
-Users can create a new Ticket with the VA.gov CMS Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager.
+Users can create a new Ticket with the VA.gov CMS Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
+
+### Slack
+
+Contractors and VA staff who are already using the VA Digital Services Slack may also create a Ticket with the Help Desk using the **cms-support** Slack channel. Tier 1 currently is responsible for the timely and periodic review of this Channel, and enters all interactions from this channel manually into our ticketing system by copying and pasting relevant information into a new Ticket in JIRA. As there is currently no method that tracks which Slack messages are tickets in JIRA, there is currently no metric that measures performance, accurately, of messages involving Cases that flow through this channel. 
 
 ### Email
 
-The address is a member of a distributed list that is hosted by va.gov.
-
-Tier 1 is responsible for reviewing the mailbox’s incoming e-mail for any new items every 30 minutes between 8 a.m. and 8 p.m. EST.
-
-All new Cases must be manually entered into the JIRA system often by copying and pasting the related content from the email to a new Ticket in JIRA.
-
-There currently is no performance metric that reliably and accurately reports this Support Channel.
-
-The Help Desk is not currently tracking where this email address is being published and shared with Users.
+A distributed email list that is hosted by va.gov is checked by Tier 1 help desk staff. Tier 1 is responsible for reviewing the mailbox’s incoming e-mail for any new items every 30 minutes between 8 a.m. and 8 p.m. EST. All new tickets must be manually entered into the JIRA system often by copying and pasting the related content from the email to a new Ticket in JIRA. There currently is no performance metric that reliably and accurately reports this Support Channel. The Help Desk is not currently tracking where this email address is being published and shared with Users.
 
 There is currently no real-time, automated notification system to alert Tier 1 when a new Ticket is created or a User sends an email to the address.
 
@@ -48,10 +40,12 @@ Once a Ticket enters the Support Channels and is received by Tier 1, Tier 1 is e
 
 Tier 1’s Initial Response is created by using the “Reply to Customer” feature found at the bottom of the Ticket.  Initial Responses should be sent no more than 30 minutes after receiving the User’s request.  Tier 1’s Initial Response will Acknowledge the User’s issue, explain to the User that an initial assessment has been made based on the current description of the issue, ask probing questions to fully understand and align to the urgency of the User's specific situation, and Assure the Help Desk is here to help.  
 
+There is also an available email directly to our help desk ticketing system: support@va-gov.atlassian.net. This address, however, is not currently in use that we know of, although help desk staff would prefer it to the existing va.gov one.
+
 ## VA CMS Help Desk Responsibilities
 ### Tier 1
 
-[Tier 1 Help Desk Triage](https://docs.link-replaced.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
+[Tier 1 Help Desk Triage] (https://docs.link-replaced.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
 
 [Tier 1 Help Desk Product Scope of Support](https://docs.link-replaced.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#)
 
