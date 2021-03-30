@@ -49,8 +49,7 @@
 - [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
 - SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
 - CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
-
-Determine Launch Date: When are we calling launch?  
+ 
 
 Notes/Next Steps:
 Finalize User Training Sessions / on-boarding process --> Launch!
