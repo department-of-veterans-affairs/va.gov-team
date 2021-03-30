@@ -22,7 +22,7 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
- Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Program   | The last segment of the breadcrumb should match the H1 of the page
+ Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program   | The last segment of the breadcrumb should match the H1 of the page
 VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap | Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Program > Apply for VRRAP | This assumes there is no official VA form mumber for this. 
 
 
