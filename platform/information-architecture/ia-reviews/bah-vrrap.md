@@ -40,7 +40,7 @@ VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retr
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  There is a Teamsite currently live that explains the [VRRAP](https://benefits.va.gov/gibill/vrrap.asp).  Recommendation is that VBA continue to use this page for general PR and school participation info, and link over to the new pages within the Education hub for Veteran information.  If this is the approach, no redirect is needed for this page. 
+-  There is a Teamsite page currently live that explains the [VRRAP](https://benefits.va.gov/gibill/vrrap.asp).  Recommendation is that VBA continue to use this page for general PR and school participation info, and link over to the new pages within the Education hub for Veteran information.  If this is the approach, no redirect is needed for this page. 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
