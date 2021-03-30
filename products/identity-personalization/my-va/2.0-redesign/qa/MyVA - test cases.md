@@ -15,7 +15,7 @@
 ### Test cases for "First-time user experience"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|**Tze can create a new user and verify their identity**|
+|LOA3 user has logged-in for the first time after verifying their identity |User is shown links related to filing a claim, applying for healthcare, and applying for education benefits "|**Tze can create a new user and verify their identity**|
 
 
 ### Test cases for "Disability Rating"
@@ -24,12 +24,6 @@
 |User DOES have a disability rating|User will see their disability rating next to their name|**226**|
 |User DOES NOT have a disability rating|User will not see their disability rating next to their name|**10**|
 
-
-### Test cases for "Education Benefits"  
-|Test case|Intended outcome|Staging User|
-|----|----|----|
-|User has started or submited an application for education benefits|User will NOT see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|
-|User DOES NOT have an application for education benefits in-progress|User will see the "Learn how to apply for Education Benefits" link|**TBD**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
@@ -73,6 +67,8 @@ User HAS filed a claim|User does NOT see "Learn how to file a claim for disabili
 User HAS NOT filed a claim|User sees "Learn how to file a claim for disability" link|**10**|
 User HAS NEVER applied for a disability claim|User sees link to "Learn how to file a claim for disability" link then applies, the link disapears, and it becomes a 526 application in-progress|**Tze to recreate using existing user**|
 User receives DD4edu payments|User does NOT see "Apply for education benefits" CTA|**378**|
+|User has started or submited an application for education benefits|User will NOT see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|
+|User DOES NOT have an application for education benefits in-progress|User will see the "Learn how to apply for Education Benefits" link|**TBD**|
 
 
 
