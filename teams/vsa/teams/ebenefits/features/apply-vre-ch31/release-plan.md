@@ -1,4 +1,4 @@
-# PCPG (CH31) - Release Plan
+VRE (CH31) - Release Plan
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
