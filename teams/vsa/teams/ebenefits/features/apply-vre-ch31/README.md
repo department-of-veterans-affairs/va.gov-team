@@ -10,7 +10,7 @@ _(previously Vocational Rehabilitaion and Employment)_
 - Staging VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/vocational-rehabilitation/
 - Staging VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
-- VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
+- VA.gov link (tool page): https://www.va.gov/careers-employment/vocational-rehabilitation/apply/
 
 ## Product Outline
 
