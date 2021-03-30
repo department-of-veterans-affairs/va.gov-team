@@ -31,8 +31,8 @@ VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retr
 
 **Priority** | **Placement** | **Link Destination** | **Description**
 --- | --- | --- | ---
- tbd | Education: left nav |  |  
- tbd | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) |  |  
+ tbd | Education: left nav | [Veteran Rapid Retraining Assistance Program](www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance) |  
+ tbd | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | [Veteran Rapid Retraining Assistance Program](www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance) |  
  tbd | Careers |  |  
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
