@@ -78,8 +78,7 @@ Ex. “You may qualify for extra benefits if you have dependents.” Becomes “
 
 ### Contextual links and buttons
 
-"Learn more" > "Learn more about X"
-"Visit the website" > "Visit the CDC website"
+- Documenting in separate ticket
 
 ### Page titles and H1s
 
@@ -89,7 +88,7 @@ _<_ 52 characters and should clearly describe what the page is about, while inco
 Page title
 H1 + VA.gov
 
-### Consistent language for greater cognitive ease
+### Consistent language for greater cognitive ease (also ties into translation-ready content effort)
 
 Use the simplest words describe something. Then, stick with that. Don't go back and forth to mix things up. If the page feels too repetitive because you're using the same term or phrase over and over, try to find ways to rework the content so you don't have to keep using that phrase rather than coming up with variations on the term or phrase itself.
 
