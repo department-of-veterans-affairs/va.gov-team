@@ -30,7 +30,7 @@
 |----|----|----|
 |User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**226**|
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**Will work with the Claims and Appeals team to get this**|  
-|User has never filed a claim and all claims are closed|User will not see the claim section at all|**10**|
+|User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|
 |Ensure # of claims is accurate|Number of claims is correctly reflected|**226**|
 
 
