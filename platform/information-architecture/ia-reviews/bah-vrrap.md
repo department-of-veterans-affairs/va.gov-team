@@ -8,15 +8,10 @@
 **IA Request:** https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/22142
 
 **On this page:**
-- [User flows](#flows)
 - [IA structure, URLs and breadcrumbs](#ia)
 - [Navigation and entry points](#nav)
 - [Redirects](#redirects)
 - [Open Questions/Meeting notes](#notes)
-
-
-## <a name="flows"></a>User/Page Flows <br>
-*Description of how users will flow through the experience*
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
