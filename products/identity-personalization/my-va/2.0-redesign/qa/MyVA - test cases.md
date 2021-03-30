@@ -47,9 +47,12 @@
 |Ensure # of new messages is accurate|Number of new messages is correctly reflected|**377**|
 |Ensure # of appointments is accurate|Number of upcoming appointments is correctly reflected|**judy.morrison@id.me**|
 
-**Refill and track your prescriptions:** Any user with healthcare will show the static link **(36)**
-**View your VA medical records:** Any user with healthcare will show the static link **(36)**
-**View your lab test results:** Any user with healthcare will show the static link **(36)**
+#### "Health care static links"
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|Refill and track your prescriptions|Any user with healthcare will show the static link|**36**|
+|View your VA medical records| Any user with healthcare will show the static link |**36**|
+|View your lab test results|Any user with healthcare will show the static link| **(36)**|
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 #### "Applications in progress"
