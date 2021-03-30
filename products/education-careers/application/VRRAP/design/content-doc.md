@@ -39,10 +39,6 @@ Sign in or create an account { button }
 * Not be enrolled in any other federal or state employment programs; or
 * Not be in receipt of any unemployment or CARES Act benefits.
 
-[ Sign in or create an account ]()  { button }
-
-[Start your application without signing in]()
-
 
 #### 2. Prepare  
 
