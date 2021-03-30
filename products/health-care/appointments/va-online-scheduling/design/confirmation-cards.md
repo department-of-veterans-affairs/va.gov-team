@@ -22,4 +22,4 @@ It displays facility details and the purpose of the appointmement: New issue, Fo
 
 It displays facility details
 
-![confirmed-express-care](confirmation-cards/cconfirmation-scheduled-express-care.png)
+![confirmed-expresscare](confirmation-cards/confirmation-scheduled-express-care.png)
