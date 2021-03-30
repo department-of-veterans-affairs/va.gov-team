@@ -37,7 +37,7 @@
 
 ## Wednesday, March 31
 
-Outreach Hub feedback and feature requests
+[Outreach Hub feedback and feature requests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
 CLP 
  * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791)
