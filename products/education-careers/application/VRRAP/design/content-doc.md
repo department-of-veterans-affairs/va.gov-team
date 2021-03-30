@@ -123,7 +123,7 @@ This is the personal information we have on file for you.
 
 **Phone & email**
 * Mobile phone number (* Required) { text field, prefilled if present. } 
-* Alternate phone number { text field, prefilled if present }
+* Home phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
 
 
