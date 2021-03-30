@@ -37,7 +37,7 @@
         - **Another tool.**
 - What do we mean by appointment in the MVP list? What about labs, which could just be a walk-in?
   - What about imaging? Are those actual appointments or do they take walk-ins as well? What is the check-in process for imaging?
-  - **ANSWER: Focus on appointments and no walk-ins (they call it queueing). Imaging is its own system, so it is out of scope.**
+  - **ANSWER: Focus on appointments and no walk-ins (they call it queuing). Imaging is its own system, so it is out of scope.**
 - I heard in yesterday’s meeting some dates and I wanted to check what I heard. They said sunsetting is beginning this month with some expectation that something will be released in December. 
   - **ANSWER: The December date I heard is correct.**
 - How solidified is the MVP list?
