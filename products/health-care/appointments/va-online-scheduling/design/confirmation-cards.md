@@ -1,11 +1,11 @@
 # Confirmation Cards
-The following documents all of the different variations of confirmation cards we display on the VAOS confirmation page.
+The following documents all of the different variations of confirmation cards we display on the VAOS confirmation page. 
 
 ## Data Source
 As the user enters the appointment form, the data are stored in the react redux store. The data are collected then displayed in the confirmation page
 
 ## Scheduled Confirmation Appointments
-Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments. 
+Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments. Scheduled cards have a green check and "Confirmed" marked on the card
 
 ### Scheduled Appointments
 Direct schedule offers only in-person appointments at the present time.
@@ -30,7 +30,7 @@ It displays facility details
 
 
 ## Requested Confirmation Appointments
-Requested confirmation cards are available through VA request, Community Care request and Express Care request. It displays up to three preferred request dates. Request appointments are differienated with a yellow horizonal bar above the card.
+Requested confirmation cards are available through VA request, Community Care request and Express Care request. It displays up to three preferred request dates. Request appointments are differienated with a yellow horizonal bar above the card, a caution icon and "Pending" text
 
 VA requests have three visit types:
  * Office visit
@@ -38,9 +38,9 @@ VA requests have three visit types:
  * Telehealth (through VA video Connect)
 
 
-### VA Request ###
+### 1. VA Request ###
 
-**Office visit**
+**a. Office visit**
 
 Annotated as VA APPOINTMENT
 
@@ -56,14 +56,22 @@ VA request displays reason for appointment:
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
-**Phone call**
+**b. Phone call**
 
 Dispite being a phone call request, it is annotated as VA APPOINTMENT
 
 ![requested-va-phone](confirmation-cards/confirmation-request-va-phone-call.png)
 
-**Telehealth**
+**c. Telehealth**
 
 Annotated as VA VIDEO CONNECT
 
 ![requested-va-telehealth](confirmation-cards/confirmation-request-va-telehealth.png)
+
+### 2. Community Care Request ###
+
+Community care request have the option of having user select from chose of providers or none at all. In either case, the user selects a preferred language spoken. 
+
+**a. Provider selected**
+
+![requested-cc-provider](confirmation-cards/confirmation-request-cc-selected-provider.png)
