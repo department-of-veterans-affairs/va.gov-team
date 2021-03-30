@@ -32,6 +32,7 @@
 - [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
 - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
 - [ ] [AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name [#21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)
+- [ ] [AXE-CORE]: LI elements must be contained in an UL or OL [#21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)
 - [ ] Discharge Upgrade Wizard - Problematic PDF Form Link [#21944](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21944)
 - [ ] [AXE-CORE]: ID attribute value must be unique [#21788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21788)
 - [ ] [AXE-CORE]: Outreach hub - Links must have discernible text [#22138](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22138)
