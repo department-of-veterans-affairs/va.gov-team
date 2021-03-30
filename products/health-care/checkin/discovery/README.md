@@ -30,11 +30,11 @@
   - Interesting fact: 40% of check-ins system-wide are done by kiosk. 58% are in-person.
   - If it is the VetLink software what is the plan for the provider portion of the workflow. What will our va.gov solution be connecting to, in order to help facilitate rooming/queuing.
     - **ANSWER: TBD.** 
-      - Four current options:
-        - Leave VetLink active for a while and connect MVP to that. 
-        - Connect to VeText. VeText already did a lot of this work for “I am here?” 
-        - Salesforce. Discussed the work done with the Cleveland Call Centers and how that could be leveraged.
-        - Another tool.
+      - **Four current options:**
+        - **Leave VetLink active for a while and connect MVP to that.**
+        - **Connect to VeText. VeText already did a lot of this work for “I am here?”**
+        - **Salesforce. Discussed the work done with the Cleveland Call Centers and how that could be leveraged.**
+        - **Another tool.**
 - What do we mean by appointment in the MVP list? What about labs, which could just be a walk-in?
   - What about imaging? Are those actual appointments or do they take walk-ins as well? What is the check-in process for imaging?
   - **ANSWER: Focus on appointments and no walk-ins (they call it queueing). Imaging is its own system, so it is out of scope.**
