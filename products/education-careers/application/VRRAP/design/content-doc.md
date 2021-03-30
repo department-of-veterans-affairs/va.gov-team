@@ -1,11 +1,11 @@
-# Veterans Rapid Retraining Assistance Program (VRRAP)
+# Veteran Rapid Retraining Assistance Program (VRRAP)
 
 Single page solution
 
 
 ## Intro page
 
-## Form Title: Apply for the Veterans Rapid Retraining Assistance Program (VRRAP) 
+## Form Title: Apply for the Veteran Rapid Retraining Assistance Program (VRRAP) 
 
 { if logged out, informational alert }  
 
@@ -102,7 +102,7 @@ ________________________________________
 
 
 
-## Form Title:  Apply for the Veterans Rapid Retraining Assistance Program (VRRAP)
+## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
 
 { if logged in, display info alert }
 
@@ -232,7 +232,7 @@ I have read and accept the [privacy policy]() ( * Required) { checkbox }
  
 ## Confirmation page
 
-## Form Title: Apply for the Veterans Rapid Retraining Assistance Program
+## Form Title: Apply for the Veteran Rapid Retraining Assistance Program
 
 #### We've received your application 
 
@@ -244,7 +244,7 @@ Print this page { button }
 
 { blue box }
 
-Veterans Rapid Retraining Assistance Program
+Veteran Rapid Retraining Assistance Program
 
 for { Fname Lname }
 
