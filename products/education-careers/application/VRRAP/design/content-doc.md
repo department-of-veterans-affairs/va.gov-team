@@ -1,8 +1,5 @@
 # Veteran Rapid Retraining Assistance Program (VRRAP)
 
-Single page solution
-
-
 ## Intro page
 
 ## Form Title: Apply for the Veteran Rapid Retraining Assistance Program (VRRAP) 
@@ -104,7 +101,7 @@ This is the personal information we have on file for you.
 
 { end if }
 
-### Applicant information
+### Chapter Title: 1 of 5: Applicant information
   
 * Your first name (*Required) { text field, prefill if present }
 * Your middle name { text field, prefill if present }
@@ -113,7 +110,14 @@ This is the personal information we have on file for you.
 * Social Security number (*Required) { text field, prefill if present }
 * Your date of birth: { prefill if present } (*Required)
 
-### Contact information
+[ Back | Continue ] { buttons }   
+[Finish this application later]()
+
+_________________________________________________
+
+## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
+
+### Chapter Title: 2 of 5: Contact information
 
 **Phone & email**
 * Mobile phone number (* Required) { text field, prefilled if present. } 
@@ -131,11 +135,19 @@ This is the personal information we have on file for you.
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
 
+[ Back | Continue ] { buttons }   
+[Finish this application later]()
 
+____________________________________________________
+
+
+## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
+
+### Chapter Title: 3 of 5: Personal information
 
 { If bank account is on file }
 
-### Direct deposit information { grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+#### Direct deposit information { sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
 This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
 
@@ -198,7 +210,15 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 { end help-text}
 
-## Program Selection
+[ Back | Continue ] { buttons }   
+[Finish this application later]()
+
+____________________________________________________
+
+
+## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
+
+### Chapter Title: 4 of 5: Program selection
 
 * Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
 * What's the name of the program's provider? { free text }
@@ -206,7 +226,27 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 * What is the location of the program (city, state)? { free text }
 * Is the program in-person, online or both? { radio, In-person , Online , "It's both in-person and online" }
 
-### Confirm you're eligible for VRRAP
+[ Back | Continue ] { buttons }   
+[Finish this application later]()
+
+____________________________________________________
+
+
+## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
+
+### Chapter Title: 5 of 5: Review Application
+
+Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
+
+{ Summary Review / Edit functionality  }
+
+* Applicant information { accordion } 
+* Contact information { accordion } 
+* Personal information { accordion } 
+* Program selection { accordion } 
+
+
+#### Confirm you're eligible for VRRAP
 
 To be eligible for VRRAP, the 3 following statements must be true:
 
@@ -220,7 +260,7 @@ I attest the statements above are true and accurate to the best of my knowledge 
 
 I have read and accept the [privacy policy]() ( * Required) { checkbox }
 
-[ Submit form ]() { button } 
+[ Back | Submit application ] { buttons }  
 
 [ Finish this application later ]() { For logged in users only }
  
