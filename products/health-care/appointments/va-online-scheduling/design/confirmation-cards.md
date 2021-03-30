@@ -5,15 +5,19 @@ The following documents all of the different variations of confirmation cards we
 As the user enters the appointment form, the data are stored in the react redux store. The data are collected then displayed in the confirmation page
 
 ## Scheduled Confirmation Appointments
-Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments
+Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments. 
 
 ### Scheduled Appointments
+Direct schedule offers only in-person appointments at the present time.
 
-#### In-person 
 
 **VA Appointments**
 
-It displays facility details and the purpose of the appointmement: New issue, Follow-up/Routine, Medication concern or My reason isn't listed
+VA Sheduled appointments display one of four reason for appointment:
+* New issue
+* Follow-up/Routine 
+*  Medication concern
+* My reason isn't listed
 
 ![confirmed-va](confirmation-cards/confirmation-scheduled-va.png)
 
@@ -26,11 +30,19 @@ It displays facility details
 
 
 ## Requested Confirmation Appointments
-Requested confirmation cards are available through VA request, Community Care request and Express Care request
+Requested confirmation cards are available through VA request, Community Care request and Express Care request. It displays up to three preferred request dates. Request appointments are differienated with a yellow horizonal bar above the card.
 
 **VA Requests** 
+
+To view additional information about the request confirmation, click on the "Show more" link to reveal reason for visit and contact details
 
 VA requests have three visit types:
  * Office visit
  * Phone call
  * Telehealth (through VA video Connect)
+
+VA request displays reason for appointment:
+* New issue
+* Follow-up/Routine 
+*  Medication concern
+* My reason isn't listed
