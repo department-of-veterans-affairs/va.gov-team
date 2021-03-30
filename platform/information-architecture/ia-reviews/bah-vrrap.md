@@ -12,7 +12,7 @@
 - [IA structure, URLs and breadcrumbs](#ia)
 - [Navigation and entry points](#nav)
 - [Redirects](#redirects)
-- [Meeting notes](#notes)
+- [Open Questions/Meeting notes](#notes)
 
 
 ## <a name="flows"></a>User/Page Flows <br>
@@ -22,10 +22,13 @@
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/795a99f0-c065-417e-a6ef-49b98ce5eafc)
+
+
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
- static landing page |   |  Home >  |  |
- form | | Home > | 
+ Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Program   | The last segment of the breadcrumb should match the H1 of the page
+VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap | Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Program > Apply for VRRAP | This assumes there is no official VA form mumber for this. 
 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
@@ -42,7 +45,7 @@
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  
+-  There is a Teamsite currently live that explains the [VRRAP](https://benefits.va.gov/gibill/vrrap.asp).  Recommendation is that VBA continue to use this page for general PR and school participation info, and link over to the new pages within the Education hub for Veteran information.  If this is the approach, no redirect is needed for this page. 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
@@ -51,5 +54,13 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 <hr>
 
-## <a name="notes"></a>Meetings Notes and Background Info
+## <a name="notes"></a>Open Questions & Meetings Notes
+
+3/30/2021 - Open Questions
+- Is there an official VA form number?
+- Does this content belong in education or careers?  Is the program aimed at Veterans that were in the workforce and are now looking for career/job resources?  Or do Veterans see this as education assistance since it is related to education/training programs?
+- What is the plan for the Teamsite page launched: https://benefits.va.gov/gibill/vrrap.asp
+  - Will this page be retired redirected to the new page?  Will it continue to exist for purposes of general announcement and info for schools?
+
+
 
