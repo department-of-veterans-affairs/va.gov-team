@@ -28,13 +28,13 @@
 ### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has started or submited an application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |**Tze to add education benefit application to an existing user**|
-|User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|**TBD**|
+|User has started or submited an application for education benefits|User will NOT see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|
+|User DOES NOT have an application for education benefits in-progress|User will see the "Learn how to apply for Education Benefits" link|**TBD**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have an **open** pension/disability claim|User will see claim information|**226**|
+|User DOES have an **open** pension/disability claim|User will see latest claim information in box and "Manage all claims and appeals" link|**226**|
 |User has open claims or appeal in progress and there has been an update in the past 30 days |User sees the claim update|**Will work with the Claims and Appeals team to get this**| 
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|**Will work with the Claims and Appeals team to get this**|  
 |User has never filed a claim and all claims are closed|User will not see the claim section at all|**10**|
