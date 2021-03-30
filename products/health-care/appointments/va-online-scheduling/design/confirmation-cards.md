@@ -7,7 +7,7 @@ As the user enters the appointment form, the data are stored in the react redux 
 ## Scheduled Confirmation Appointments
 Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments
 
-### Confirmed Appointments
+### Scheduled Appointments
 
 #### In-person 
 
@@ -28,8 +28,9 @@ It displays facility details
 ## Requested Confirmation Appointments
 Requested confirmation cards are available through VA request, Community Care request and Express Care request
 
-**VA Appointments** 
-For VA appointments have three visit types:
+**VA Requests** 
+
+VA requests have three visit types:
  * Office visit
  * Phone call
  * Telehealth (through VA video Connect)
