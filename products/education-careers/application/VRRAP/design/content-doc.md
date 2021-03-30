@@ -140,7 +140,9 @@ This is the personal information we have on file for you.
 
 { If bank account is on file }
 
-### Direct deposit information { sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+### Direct deposit information 
+
+{ sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
 This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
 
