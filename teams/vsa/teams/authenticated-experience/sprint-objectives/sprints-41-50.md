@@ -296,6 +296,7 @@ Design
 FE
 
 - 508-defect-2 [COGNITION]: H1 should match or be included in the page title #19552
+- 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons #19562
 
 ### My VA redesign
 
