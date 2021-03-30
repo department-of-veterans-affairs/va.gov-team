@@ -24,15 +24,13 @@ Sign in or create an account { button }
 
 
 
-### Follow the steps below to apply for this scholarship  
+### Follow the steps below to apply for this program  
 
 { subway map }  
 
 #### 1. Determine your eligibility  
 
-**To be eligible for the , you must meet all the requirements below.**  
-
-To be eligible for VRRAP, Veterans must:
+**To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements below.**  
 
 * Be between ages 22-66;
 * Be unemployed as a result of the COVID-19 pandemic;
