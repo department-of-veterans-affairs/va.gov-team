@@ -1,4 +1,25 @@
 # Meeting Notes
+## 2021-03-26 Lighthouse Database Update Meeting with Premal Shah, Nichole Harris, Mark Viterna
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Premal Shah - Product Manager
+- Nichole Harris - Product Manager, Team Matsumoto (Lighthouse API Support)
+- Mark Viterna - Developer, Intake/Forms API
+
+#### Notes:
+- Purpose of the meeting is to make a  decision about whether the DBQ forms can safely be removed from the Postgres database used by the Forms API
+- John has just heard back from Kayce White and will forward her email to us.  The gist is that the DBQ forms are NOT forms, do not have an OMB number and therefore **should not** appear on the Find a Form search.
+- Premal doesn't have much other background about the "ghost forms" and also clarified that they had already been deleted, but needed to be cleaned up.
+- Nichole - if it's not on the website, should it be shared with the other consumers, like Vet Pro.  
+- Premal clarified that the reason why the links are invalid now is because they have old data that was deleted
+- Premal is leaning toward the API should be consistent with the VA Forms search
+- **DECISION** - the DBQ forms should be removed from the Postgres database.
+- **DECISION** - we are safe to remove the duplicate forms as well (the ones that are NOT in the CMS)
+- We also discussed about whether or not the search improvements should be implemented in the Forms API or on the front end
+- The forms API was initially created for users to know if a form had changed, VA.gov started then using it and is now the biggest user
+- **DECISION** - it shoulds like the other API users could benefit from the same changes we want to implement, so we will work with the Lighthouse team on introducing those changes in the API.
+- Nichole will schedule some time to work with us on how to move forward.
 
 ## 2021-03-26 Lighthouse Database Update Meeting with Robert Parks (VBAVACO), Paul Shute
 
@@ -10,6 +31,7 @@
 - Mark Viterna - Developer, Intake/Forms API
 
 #### Notes:
+- Purpose of the meeting is to discuss which forms can safely be removed from the Postgres database used by the Forms API.
 - High level overview of Forms API
 - DBQ (Disability Benefits Questionnaires) forms overview - if something is a VA Form, that is a very very specific thing. Some VA forms are pamphlets (non-substative forms - not subject to certain rules).  Some forms are controlled. They have to renew everything years, petition to OMB, petition for each renewal and published in the Federal Register twice. 
 - Each form has a very specific version number assigned by OMB, and that can't be tinkered with.  
