@@ -38,7 +38,11 @@ VA requests have three visit types:
  * Telehealth (through VA video Connect)
 
 
-**VA Office Visit Requests**
+### VA Request ###
+
+**Office visit**
+
+Annotated as VA APPOINTMENT
 
 ![requested-va](confirmation-cards/confirmation-request-va-office-visit.png)
 
@@ -52,3 +56,14 @@ VA request displays reason for appointment:
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
+**Phone call**
+
+Dispite being a phone call request, it is annotated as VA APPOINTMENT
+
+![requested-va-phone](confirmation-cards/confirmation-request-va-phone-call.png)
+
+**Telehealth**
+
+Annotated as VA VIDEO CONNECT
+
+![requested-va-telehealth](confirmation-cards/confirmation-request-va-telehealth.png)
