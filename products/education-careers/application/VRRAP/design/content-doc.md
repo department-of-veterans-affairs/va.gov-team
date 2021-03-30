@@ -108,7 +108,7 @@ This is the personal information we have on file for you.
 
 ### Chapter Title: 1 of 2: VRRAP Application
 
-#### Applicant information
+### Applicant information
   
 * Your first name (*Required) { text field, prefill if present }
 * Your middle name { text field, prefill if present }
@@ -117,7 +117,7 @@ This is the personal information we have on file for you.
 * Social Security number (*Required) { text field, prefill if present }
 * Your date of birth: { prefill if present } (*Required)
 
-#### Personal information
+### Personal information
 
 **Phone & email**
 * Mobile phone number (* Required) { text field, prefilled if present. } 
@@ -138,7 +138,7 @@ This is the personal information we have on file for you.
 
 { If bank account is on file }
 
-#### Direct deposit information { sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
+### Direct deposit information { sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
 This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
 
@@ -201,7 +201,7 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 { end help-text}
 
-#### Program selection
+### Program selection
 
 * Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
 * What's the name of the program's provider? { free text }
