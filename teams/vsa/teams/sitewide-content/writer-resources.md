@@ -20,5 +20,34 @@ Here's an example that shows how to link to the h2 **A legacy appeal follows the
 ![image](https://user-images.githubusercontent.com/53535663/113005324-6008f180-9142-11eb-976c-6d59850c3b57.png)
 
 3. Put a # in front of it, then insert it at the end of the page url:
-**https://www.va.gov/decision-reviews/legacy-appeals/#a-legacy-appeal-follows-these-**
+**https://www.va.gov/decision-reviews/legacy-appeals/#a-legacy-appeal-follows-these-**    
+   
+
+**View Tracked Changes in Drupal**\
+In the revisions tab, click an older version you want to compare to. 
+
+![image](https://user-images.githubusercontent.com/53535663/113008180-cf7fe080-9144-11eb-87c7-e93ba642b745.png)
+
+Scroll to the bottom and click the **Compare selected revisions** button. 
+
+![image](https://user-images.githubusercontent.com/53535663/113009064-9eec7680-9145-11eb-9ea7-f2cb1a6b6329.png)
+
+Red and green highlights indicate revisions.
+![image](https://user-images.githubusercontent.com/53535663/113009319-d529f600-9145-11eb-89d2-182ff87761b9.png)
+
+
+**Adding aria labels to phone numbers**\
+1. In **Edit** mode, select the phone number and unlink it. 
+![image](https://user-images.githubusercontent.com/53535663/113010532-e9222780-9146-11eb-96de-99b4d9f3f608.png)
+
+2. Select **Source**
+![image](https://user-images.githubusercontent.com/53535663/113010670-0525c900-9147-11eb-91e6-433a3d218789.png)
+
+3. Add the following href tag, replacing placeholder digits with phone number:
+<a href="tel:18008271000" aria-label="8 0 0. 8 2 7. 1 0 0 0.">800-827-1000</a>
+
+(In the aria label, the dots and spaces tell the screen reader to read the numbers slowly, as a phone number.)
+![image](https://user-images.githubusercontent.com/53535663/113010959-48803780-9147-11eb-88da-c289885c4bc6.png)
+
+
 
