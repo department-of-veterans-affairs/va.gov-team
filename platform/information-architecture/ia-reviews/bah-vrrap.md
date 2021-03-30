@@ -1,13 +1,11 @@
 # IA Design and Recommendations
-**STATUS:**
+**STATUS: IN PROGRESS**
 
-**Team:** 
+**Team:** BAH
 
-**Product/Featue:** 
+**Product/Featue:** Veteran Rapid Retraining Assistance Program (VRRAP)
 
-**Background/Context:**   
-
-**IA Request:** 
+**IA Request:** https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/22142
 
 **On this page:**
 - [User flows](#flows)
@@ -24,13 +22,19 @@
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
+**Page** | **URL** | **Breadcrumb** | **Notes**
+--- | --- | --- | ---
+ static landing page |   |  Home >  |  |
+ form | | Home > | 
+
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
-   |   |   |
+**Priority** | **Placement** | **Link Destination** | **Description**
+--- | --- | --- | ---
+  | Education |  |  |
+  | Careers |  |  |
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
