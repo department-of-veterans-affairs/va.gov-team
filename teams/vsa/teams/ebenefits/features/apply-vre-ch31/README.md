@@ -42,27 +42,28 @@ _(previously Vocational Rehabilitaion and Employment)_
 
 ## Abstract
 
-Claimants can apply for Chapter 31 Veteran Readiness & Employment benefits.
+Claimants can apply for Chapter 31 Veteran Readiness & Employment benefits using VA Form 28-1900.
 
 ## User Problem Statement
 
-As a Veteran or Servicemember I need to understand and apply for CH31 benefits.
+As a Veteran or Servicemember I need to understand and apply for CH31 benefits so that I can get an appointment scheduled with the Veteran Readiness and Employment line of business.
 
 ## Solution Goals
 
 ### User Goals
 
 - **Veterans:** Apply for Veteran Readiness & Employment benefits at the VA.
-- **Field:** Receive a higher volume qualified applicants 
+- **Field:** Receive a higher volume of qualified applicants 
 
 ### Business Goals
 
-- Sunset eBenefits
 - Provide applicants with a brief orientation to increase qualified conversions
+- Provdie a benfit to those eligible Veterans
+- Sunset eBenefits
 
 ## Assumptions
 
-- Product will submit form to VR&E CMS System via custom API
+- Product will submit form to VR&E CMS System via custom API, or to the Veterans eFolder via VBMS.
 
 ## Requirements and Constraints
 
@@ -77,11 +78,12 @@ As a Veteran or Servicemember I need to understand and apply for CH31 benefits.
 
 ## Value Propositions
 ### User Value
-I can apply for CH31 benefits quickly and without mailing in a form or visiting a RO.
+I can apply for CH31 benefits quickly and without mailing in a form or visiting a regional office.
 
 ### Business Value
-1. Sunset EBN
-2. Increase CH31 applications
+- Provide applicants with a brief orientation to increase qualified conversions
+- Provdie a benfit to those eligible Veterans
+- Sunset eBenefits
 
 ### KPIs
 - Conversion rate
@@ -103,6 +105,7 @@ _How will Veterans find this product? How will they know it exists?_
 
 - VR&E performs outreach
 - Veteran personal networks often recommend this program
+- Soft, then hard redirects from eBenefits will be put in place
 
 ---
 ## Results and Recommendations
@@ -128,7 +131,7 @@ April 2021: UAT, Launch requested for April 19, 2021
 - VA Executive Sponsor `*`: Jessica Bland, Alison Rosen
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`: 
-- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov, **Matt Self** - matt.self@va.gov. **Sabrina Mohamed** - sabrina.mohamed@va.gov  
+- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov, **Matt Self** - matt.self@va.gov, **Sabrina Mohamed** - sabrina.mohamed@va.gov  
 - Product Manager: **Jason Wolf** - jwolf@governmentcio.com
 - Designer: **James Adams** - jadams@governmentcio.com
 - Frontend: **Jesse Cohn** - jesse.cohn@adhocteam.us
