@@ -31,8 +31,8 @@ VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retr
 
 **Priority** | **Placement** | **Link Destination** | **Description**
 --- | --- | --- | ---
-  | Education |  |  |
-  | Careers |  |  |
+ tbd | Education |  |  
+ tbd | Careers |  |  
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
