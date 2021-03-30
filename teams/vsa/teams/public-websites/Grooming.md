@@ -33,7 +33,6 @@
 - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
 - [ ] [AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name [#21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)
 - [ ] Discharge Upgrade Wizard - Problematic PDF Form Link [#21944](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21944)
-- [ ] [AXE-CORE]: ID attribute value must be unique [#21788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21788)
 - [ ] [AXE-CORE]: Outreach hub - Links must have discernible text [#22138](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22138)
 - [ ] [CI/CD]: Review coverage of accessibility checks in disability-rating-calculator end-to-end tests
 [#7320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)
