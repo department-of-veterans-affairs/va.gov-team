@@ -1,6 +1,6 @@
 ## LOA1
 
-[LOA1 InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287792_My_VA_LOA1)
+[LOA1 InVision](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032788_My_VA_LOA1)
 
 Verify your identity to access more VA.gov tools and features
 We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information. This helps to keep your information safe, and to prevent fraud and identity theft.
@@ -12,7 +12,7 @@ This one-time process takes about 5-10 minutes.
 
 ## First Time User
 
-[FTUX InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287788_My_VA_FTUX)
+[FTUX InVision](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032787_My_VA_FTUX)
 
 ### My VA
 Welcome to My VA, your personalized guide to the VA benefits and services you’ve earned. You can check the status of your in-progress claims and applications or manage your health care information, like appointments, prescriptions, and messages from your health care team.
