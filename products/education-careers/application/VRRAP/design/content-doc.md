@@ -106,7 +106,9 @@ This is the personal information we have on file for you.
 
 { end if }
 
-### Chapter Title: 1 of 4: Applicant information
+### Chapter Title: 1 of 2: VRRAP Application
+
+#### Applicant information
   
 * Your first name (*Required) { text field, prefill if present }
 * Your middle name { text field, prefill if present }
@@ -115,14 +117,7 @@ This is the personal information we have on file for you.
 * Social Security number (*Required) { text field, prefill if present }
 * Your date of birth: { prefill if present } (*Required)
 
-[ Back | Continue ] { buttons }   
-[Finish this application later]()
-
-_________________________________________________
-
-## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
-
-### Chapter Title: 2 of 4: Personal information
+#### Personal information
 
 **Phone & email**
 * Mobile phone number (* Required) { text field, prefilled if present. } 
@@ -140,15 +135,6 @@ _________________________________________________
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
 
-[ Back | Continue ] { buttons }   
-[Finish this application later]()
-
-____________________________________________________
-
-
-## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
-
-### Chapter Title: 2 of 4: Personal information
 
 { If bank account is on file }
 
@@ -215,15 +201,7 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 { end help-text}
 
-[ Back | Continue ] { buttons }   
-[Finish this application later]()
-
-____________________________________________________
-
-
-## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
-
-### Chapter Title: 3 of 4: Program selection
+#### Program selection
 
 * Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
 * What's the name of the program's provider? { free text }
@@ -239,16 +217,13 @@ ____________________________________________________
 
 ## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
 
-### Chapter Title: 4 of 4: Review application
+### Chapter Title: 2 of 2: Review application
 
 Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
 
 { Summary Review / Edit functionality  }
 
-* Applicant information { accordion } 
-* Personal information { accordion } 
-* Program selection { accordion } 
-
+* VRRAP Application { accordion } 
 
 #### Confirm you're eligible for VRRAP
 
