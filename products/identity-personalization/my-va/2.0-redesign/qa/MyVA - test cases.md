@@ -47,7 +47,7 @@
 |Ensure # of new messages is accurate|Number of new messages is correctly reflected|**377**|
 |Ensure # of appointments is accurate|Number of upcoming appointments is correctly reflected|**judy.morrison@id.me**|
 
-#### "Health care static links"
+#### Static health care links
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |Refill and track your prescriptions|Any user with healthcare will show the static link|**36**|
