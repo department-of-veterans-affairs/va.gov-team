@@ -38,8 +38,7 @@ Ex. A user may not be able to "press" 1 for an extension.
 ### Language that implies placement/direction on screen
 
 - "The information to the left" (also doesn't take into account mobile responsiveness)
-
-**Question:** Forms and eligibility - "the below" - would this make sense to a screen reader?
+- "The requirements listed below" 
 
 ### Idioms
 
@@ -51,7 +50,7 @@ I know we do this in general, though I recently caught a random "Hang in there" 
 
 ### Genuine empathy, not overly friendly, casual, excited, marketing-focused, or excessively formal
 
-These are important distinctions that we should continue to work to clarify.
+These are important distinctions that we should continue to work to clarify for folks.
 
 ### Softening language with subtle changes
 
