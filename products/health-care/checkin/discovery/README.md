@@ -48,3 +48,11 @@
   - **ANSWER: Check out the VetLink folder inside this discovery folder.**
 - I’d like to understand more about the entire ecosystem. Can I get access to any documentation, test environments, or demos of “I am here?” and “Get Care.” I could pair this documentation with findings from user research to pull the “best” ideas from each solution to put into the va.gov solution.
   - **ANSWER: Ming will look into this. She isn’t too sure about “Get Care.” She says it isn’t really released yet. Current Virtual appointments use VCC, which sends an email with a URL to both the provider and the Veteran. She wants to ask Dr. Burns (spelling) at our meeting with him about the virtual workflow more. I asked if these show up in VAOS (because I think I saw some wireframes with them in it). I will talk to the VAOS designer, Peter Russo.**
+
+## Things to think about for MVP
+- E-signature solutions elsewhere in the VA. Traditionally, HIPAA forms need a real signature.
+
+## Non-MVP Check-in Ideas
+- Geo location. Not being able to access check-in until a particular timeframe and in a particular location. Pushing check-in flow.
+- Other systems were looking into taking a picture of insurance card and using that to help auth in.
+- Proxy check-ins?
