@@ -2,10 +2,10 @@
 The following documents all of the different variations of confirmation cards we display on the VAOS confirmation page.
 
 ## Data Source
-As users enter the appointment form, the data are stored in the react redux. The data are collected and displayed in the confirmation page
+As the user enters the appointment form, the data are stored in the react redux store. The data are collected then displayed in the confirmation page
 
 ## Scheduled Confirmation Appointments
-Schedule confirmation cards are available through VA appointment and Express Care appointments
+Schedule confirmation cards are available through VA appointment and COVID-19 vaccine appointments
 
 ### Confirmed Appointments
 
@@ -13,6 +13,13 @@ Schedule confirmation cards are available through VA appointment and Express Car
 
 **VA Appointments**
 
-Facility details available, no note, or note does not start with one of the preset purposes (see next item)
+It displays facility details and the purpose of the appointmement: New issue, Follow-up/Routine, Medication concern or My reason isn't listed
 
 ![confirmed-va](confirmation-cards/confirmation-scheduled-va.png)
+
+
+**COVID-19 Vaccine Appointments**
+
+It displays facility details
+
+![confirmed-express-care](confirmation-cards/cconfirmation-scheduled-express-care.png)
