@@ -33,4 +33,17 @@ Scroll to the bottom and click the **Compare selected revisions** button.
 ![image](https://user-images.githubusercontent.com/53535663/113009064-9eec7680-9145-11eb-9ea7-f2cb1a6b6329.png)
 
 Red and green highlights indicate revisions.
-![image](https://user-images.githubusercontent.com/53535663/113009319-d529f600-9145-11eb-89d2-182ff87761b9.png)
+![image](https://user-images.githubusercontent.com/53535663/113009319-d529f600-9145-11eb-89d2-182ff87761b9.png)/
+
+**Adding Aria Lables to Phone Numbers**\
+In **Edit** mode, select the phone number and unlink it.\
+![image](https://user-images.githubusercontent.com/53535663/113013048-5cc53400-9149-11eb-8369-1ff60c238fc0.png)\
+Select **Source**\
+![image](https://user-images.githubusercontent.com/53535663/113013347-a44bc000-9149-11eb-85a8-72fa2cec299a.png)\
+Add the following href tag, replacing placeholder digits with actual phone number:\
+![image](https://user-images.githubusercontent.com/53535663/113013856-145a4600-914a-11eb-9fbc-d9a1969b8b3f.png)
+(In the aria label, the dots and spaces tell the screen reader to read the numbers slowly, as a phone number.)
+
+
+
+
