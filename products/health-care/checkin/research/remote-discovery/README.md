@@ -1,4 +1,4 @@
-# Check-in (Veteran-facing) Remote Discovery Research: March. 2021
+# Check-in (Veteran-facing) Remote Discovery Research: April 2021
 
 ## Quick links
 
