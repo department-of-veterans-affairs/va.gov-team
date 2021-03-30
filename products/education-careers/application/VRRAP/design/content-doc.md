@@ -1,7 +1,7 @@
 # Veteran Rapid Retraining Assistance Program (VRRAP)
 
 Proposed Tablet/Desktop breadcrumb:
-Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program > Apply for the Veteran Rapid Retraining Assistance Program
+Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program > Apply for VRRAP
 
 Proposed mobile breadcrumb: < Veteran Rapid Retraining Assistance Program
 
@@ -11,7 +11,7 @@ Proposed mobile breadcrumb: < Veteran Rapid Retraining Assistance Program
 
 { if logged out, informational alert }  
 
-### Save time—and save your work in progress—by signing in before starting your application ###  
+### Save time—and save your work in progress—by signing in before starting your application 
 
 When you’re signed in to your VA.gov account:  
 
@@ -81,7 +81,9 @@ Sign in or create an account { button }
 { if logged in }  
 
 { blue informational alert }  
+
 **Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
+
 { end informational alert }  
 
 Start the education application >> { button }  
@@ -90,9 +92,9 @@ Start the education application >> { button }
 
 
 Respondent burden: **XX minutes**  
-OMB Control #:   
-Expiration date:  
-[Privacy Act Statement]()  
+OMB Control #:   TO COME
+Expiration date:  TO COME
+[Privacy Act Statement]()  { modal with Privacy Act content }
 
 ________________________________________
 
@@ -106,7 +108,7 @@ This is the personal information we have on file for you.
 
 { end if }
 
-### Chapter Title: 1 of 2: VRRAP Application
+### Chapter Title: Step 1 of 2: VRRAP Application
 
 ### Applicant information
   
@@ -171,7 +173,7 @@ Thank you for providing your direct deposit information. **This new account won�
 
 We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
 
-* Account type (* Required) { radio, Checking, Savings }
+* Account type (* Required) { Radio: Checking, Savings }
 
 { bank check visual }
 
@@ -203,12 +205,12 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 
 ### Program selection
 
-* Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
+* Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio: yes or no }
 * What's the name of the program's provider? { free text }
 * What's the name of the program? { free text }
 * What city is the program in? { free text }
 * What state is the program in? { free text }
-* Is the program in-person, online or both? { radio, In-person , Online , "It's both in-person and online" }
+* Is the program in-person, online or both? { Radio: In-person , Online , "It's both in-person and online" }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
@@ -218,7 +220,7 @@ ____________________________________________________
 
 ## Form Title:  Apply for the Veteran Rapid Retraining Assistance Program (VRRAP)
 
-### Chapter Title: 2 of 2: Review application
+### Chapter Title: Step 2 of 2: Review application
 
 Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
 
@@ -234,7 +236,7 @@ To be eligible for VRRAP, the 3 following statements must be true:
 * You are not currently enrolled in a Federal or State jobs program, nor do you expect to be enrolled in such a program while training until VRRAP.
 * You will not receive unemployment compensation, including any cash benefit received pursuant to the CARES Act, while training under VRRAP.
 
-I attest the statements above are true and accurate to the best of my knowledge and belief. { radio, yes, no }
+I attest the statements above are true and accurate to the best of my knowledge and belief. { Radio: yes, no }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
@@ -271,7 +273,9 @@ Date received
 Your claim was sent to
 
 VA Regional Office
+
 P.O. Box 8888
+
 Muskogee, OK 74402-8888
 
 { end blue box }
