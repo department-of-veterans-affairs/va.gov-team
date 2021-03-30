@@ -23,3 +23,13 @@ It displays facility details and the purpose of the appointmement: New issue, Fo
 It displays facility details
 
 ![confirmed-expresscare](confirmation-cards/confirmation-scheduled-express-care.png)
+
+
+## Requested Confirmation Appointments
+Requested confirmation cards are available through VA request, Community Care request and Express Care request
+
+**VA Appointments** 
+For VA appointments have three visit types:
+ * Office visit
+ * Phone call
+ * Telehealth (through VA video Connect)
