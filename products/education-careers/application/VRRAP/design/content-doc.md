@@ -206,7 +206,8 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
 * Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio, yes or no }
 * What's the name of the program's provider? { free text }
 * What's the name of the program? { free text }
-* What is the location of the program (city, state)? { free text }
+* What city is the program in? { free text }
+* What state is the program in? { free text }
 * Is the program in-person, online or both? { radio, In-person , Online , "It's both in-person and online" }
 
 [ Back | Continue ] { buttons }   
