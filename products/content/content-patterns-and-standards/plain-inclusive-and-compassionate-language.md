@@ -1,19 +1,19 @@
 # Document purpose
 
-To document the nuances of plain and compassionate language that our content leads use so that other writers and designers can easily follow these patterns.
+To document the nuances of plain, inclusive, and compassionate language that our content leads use so that other writers and designers can easily follow these patterns.
 
 ## General guide for writers
 
 Ask questions for each piece of content you write:
 - Who will read this page?
 - What problem brought them to this content?
-- What related challenges or stresses might they be dealing with? For example, someone looking for information about a health condition might be waiting for results or have been recently diagnosed. Someone looking to plan a burial has just lost a loved one.
-- What questions might they have? You can use SEO research and/or Google's "people also ask" component to get started with this.
+- What related challenges or stresses might they be dealing with? For example, someone searching for information about a health condition might be waiting for results or have been recently diagnosed with a serious illness. Someone planning a burial has just lost someone.
+- What questions might they have? You can use SEO research, VA.gov and Resources and Support search data, and Google's "people also ask" component to get started with this prior to research.
 - How do we balance helping the user solve their specific problem as quickly and easily as possible, while still giving the user all the information they need to make informed actions and learn more if they want to go deeper?
 
 ## Language to avoid
 
-### Language that uses words that implies specific things like sight, walking, etc.
+### Language that uses words that implies a definitive way of how a person will interact with the information or service:
 
 - "View our factsheet (PDF)" > "Download our factsheet (PDF)"
 - "View your benefit status" > "Check your benefit status" or "Review your benefit status"
@@ -24,25 +24,18 @@ Ask questions for each piece of content you write:
 - "Walk to the entrance" > "Go to the entrance"
 - "The email you see here" or "The information you see here" > "This email" or "The information to follow"
 -  Links that read "this page" after a descriptive sentence or two "For more information about this benefit, visit [this page] > Update this link to more a descrptive label or to the title of the page we're linking to. 
-
-- **NOTE:** There are one more tools that are either already existing or far into design that use the word "View." Likely isn't practical at this time to try to change these.
-
-### Language that implies one definitive way of how the user will interact with the site
-
-Ex. A user may not be able to "press" 1 for an extension.
-
 - "Call this number and press 1" > "Call this number and select 1"
 
--  Choose vs. select > Use "select" when asking users to pick an item from a list or a set of options. Use choose when making a decision on 1 thing. 
+**Note on Choose vs. select:** Use "select" when asking users to pick an item from a list or a set of options. Use choose when making a decision on 1 thing. 
 
 ### Language that implies placement/direction on screen
 
 - "The information to the left" (also doesn't take into account mobile responsiveness)
 - "The requirements listed below" 
 
-### Idioms
+### Idioms (also related to translation-ready content standards)
 
-I know we do this in general, though I recently caught a random "Hang in there" on an old page and we removed it. But do we explictly say no idioms in style guide? If no, we need to add.
+We generally avoid obvious idioms. But there are many more subtle idioms that we should document as we find/fix them for reference. Check style guide to make sure we explictly advise avoiding idioms.
 
 ------
 
@@ -59,14 +52,22 @@ These are important distinctions that we should continue to work to clarify for 
 
 ### Person-first language
 
-Already in style guide at: https://design.va.gov/content-style-guide/health-content. However, this is an ever-evolving area, with some people preferring identity-first language, especially when they live with a condition that is lifelong and a key part of defining how they move through the world. 
+We have person-first language documented in our style guide at this time. However, this is an ever-evolving area, with some people preferring identity-first language, especially when they live with a condition that is lifelong and a key part of defining how they move through the world. 
 
 Examples from reading:
  - Many in the Autism community have expressed preferring “Autistic person” or “Autistic individual” over “person with Autism.”
  - Many in the deaf and blind communities have expressed a greater preference for identity-first language as an expression of empowerment.
  - Some people prefer “disabled person” over “person with disabilities.” 
 
-General consensus appears to be that person-first language is good, but we should be continuing to review and checking with people within the communities.
+General consensus appears to be that person-first language is still okay as a general approach (and is still best practice in instances such as "person with cancer" rather than "cancer patient"). But we must continue to review and get feedback from people within these communities.
+
+### Race and ethnicity
+
+- Need to add notes here from research
+
+### Sexual orientation and gender identity
+
+- Need to add notes here based on research sprint learnings
 
 ### Conditional first
 
