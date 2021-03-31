@@ -171,6 +171,8 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 5.  One Veteran asked if there was a place to submit feedback to the VA on the website. When directed to the feedback button on the Facility Locator page, the participant was disappointed in seeing a star rating as his only option. He expected a freeform field where he would be able to type in his feedback.
 
+6. 4 of 8 participants had never used Facility Locator. When asked how they found facility location information, 4 answered Google and one answered search engine.
+
 ## Recommendations
 
 * Don't preselect "VA health" under "Choose a VA facility type" which appears to influence the more common path of "VA health" / "Urgent care" which in turn limits the total choices available to them. By forcing Veteran's to open the menu, it may allow them to see "Urgent care" first. Proceed with "All urgent care" as the defaulted service type option when "Urgent care" is selected, to increase the likelihood of exposure to all available options.
