@@ -42,7 +42,7 @@ Sign in or create an account { button }
 
 #### 1. Determine your eligibility  
 
-**To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements below.**  
+**To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements below:**  
 
 * Be between ages 22-66;
 * Be unemployed as a result of the COVID-19 pandemic;
@@ -102,8 +102,11 @@ Start the education application >> { button }
 
 
 Respondent burden: **XX minutes**  
+
 OMB Control #:   TO COME
+
 Expiration date:  TO COME
+
 [Privacy Act Statement]()  { modal with Privacy Act content }
 
 ________________________________________
