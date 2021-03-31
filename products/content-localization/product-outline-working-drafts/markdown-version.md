@@ -105,10 +105,9 @@ From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with bro
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
 •	Measurements for search and direct traffic to the Spanish pages 
-•	Call center inquiries
 •	Direct user feedback via usability testing
-•	We will include a Medallia survey on translated pages to collect customer feedback. 
-•	Shorter time to market?
+•	Customer feedback via Medallia survey 
+•	Shorter time to publish?
 •	Reduction in translation costs?
 
 From KPI worksheet:
@@ -126,7 +125,7 @@ Objective 1:  Meet Veterans' and their family members' need for Spanish and Taga
 - Key result 4: Customer Engagement (Awaiting DOMO Dashboard)                                                                                                                      
 
 Objective 2: Provide a recommendation for a scalebale solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
-- Key result 1: Improve time to generate and deploy translated content from 4+ weeks to xx days.
+- Key result 1: Improve time to generate and deploy translated content from yy weeks to xx days.
 - NPR/Satisfaction survey
 
 ## Product Requirements 
@@ -137,6 +136,7 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 
 Out of Scope
 - Site-wide roll-out or centralized translation management
+- Non-content pages (ie: forms, VAMCs)
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
 
 Assumptions
@@ -145,13 +145,13 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - Users will be able to find and easily link/toggle to translated content.  
 - Mid-term approach will build new pages in Github 
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
-- An expeditious process for completing internal needs analysis and vetting software solutions/partners by mid-May 20201 (RISKY)
+- An expeditious process for completing internal needs analysis and vetting software solutions/partners by June 2021 (RISKY)
 
 ## Solution Approach
 
 What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on where to call for translation support.
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
@@ -161,6 +161,7 @@ The short and mid-term approaches outlined above are the quickest and simplest s
 What have you explicitly decided to not include in this initial set of functionality, and why? 
 - We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 - We will only support the short and mid-term approaches for a handful of critical pages since the approach we use is resource intensive and not sustainable
+- We wont support translations for non-content pages such as forms since is more complex and may require a different approach.
 
 How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
