@@ -59,6 +59,7 @@ _helps us answer: was it the right bet to build this app natively?_
 _Reducing the feeling of VA being a "black hole" or needing to be persistent to follow up on benefits_
 
 - KR: x% push notification opt in rate and open rate
+
 - KR: Reduce time to respond to requests for additional information
   - KPI: Time to open Secure Message from receiving email or push notification that new message has arrrived
   - KPI: Time to upload more documentation to a claim from receiving email that more info is requested by VA
@@ -68,19 +69,17 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 - Break down silos: Build closer ties between OCTO and OCC/MHV
 
-- Bi-weekly meetings increase visibility into each other's priorities and build trust and open communication channels
+  - Bi-weekly meetings increase visibility into each other's priorities and build trust and open communication channels
 
-- Demonstrate iterative, agile ways of product development to OCC
+- Demonstrate iterative, agile ways of product development to other parts of VA
 
 - Sandbox: The app allows us to test new user flows in a new channel, while consuming the same backend MHV APIs (and in the future, Cerner APIs)
 
-- These might later pave the way for VA.gov to manage the frontend experience of health services for Veterans
-
-- New customer groups: Depending on what we learn from usage behavior, the app may allow VA to engage with groups of Veterans who might not otherwise be interacting with VA online
+- Reach new customer groups: Depending on what we learn from usage behavior, the app may allow VA to engage with groups of Veterans who might not otherwise be interacting with VA online
 
 - Feature differentiation: The mobile app allows us to provide some fundamentally different experiences than we can on websites (biometrics, push notifications, location
 
-- Granular customer behavior data: Amount of data we'll get on the app is much more granular than what exists on MHV etc, teaches us more about how Veterans interact with VA digitally
+- Learn more about our beneficiaries: We expect to gain granular customer behavior data from the app that will teach us more about how Veterans interact with VA digitally
 
 ## How might our goal for the app change over time?
 
