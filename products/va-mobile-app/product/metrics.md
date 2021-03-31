@@ -22,8 +22,8 @@
 
 - KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
 
-### (Next/Later?) Objective [once we have a more splashy app store launch]: All Veterans with smartphones, who consume VA services online, are able to access the app
-
+### (Next/Later?) Objective: All Veterans with smartphones, who consume VA services online, are able to access the app
+_[once we have a more splashy app store launch]_
 - KR: High usage of the app
 
   - KPI: number of app downloads
@@ -46,7 +46,7 @@
 
   - KPI: number of sessions that include visits to both health and benefit features
 
-### Objective: Veterans can seamlessly login to the app (and find the experience easier than authentication on VA.gov or MHV)
+### Objective: Veterans can seamlessly access app features
 
 - KR: X% of users choose to allow biometric login (We hear from Vets how hard it is for them to login, turning on Touch ID or Face ID seems like a good indication that Vets find value in native functionality in the app)
 
@@ -54,13 +54,15 @@
 
   - KPI: Login success rate
 
-### Objective: Vets gain peace of mind by receiving alerts when the status of their benefit or health feature changes
+### Objective: Vets gain peace of mind by using the app
+_Reducing the feeling of VA being a "black hole" or needing to be persistent to follow up on benefits_
 
 - KR: x% push notification opt in rate and open rate
 
   - KPI - push notification opt in rate and open rate
 
-### Objective: Vets can seamlessly interact with VA using affordances unique to a native app
+### [Optional] Objective: Vets can seamlessly interact with VA using affordances unique to a native app
+_ie, were we right that this app being built natively was the right bet?_
 
 - KRs are about use of other native functionality (like, allowing location for Facility Locator, or adding a VAOS appointment to calendar, or uploading a claim file via camera, or sending an SMS via the Crisis Line link, or even clicking to call a phone number directly from the app)
 
