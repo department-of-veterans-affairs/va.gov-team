@@ -58,6 +58,8 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ### Q2 2021 (April – June)
 
+**Goal: Design, research, begin build**
+
 - **PM**: Oversee and manage all work and VSP reviews
 - **Design**: Updates to VA.gov profile; Collaboration with VAOS on how this integrates into the scheduling tool.
 - **Usability testing**: Cross-team effort between auth experience + VAOS to evaluate proposed designs for how users will update their preferred medical facilities.
@@ -66,13 +68,17 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ### Q3 2021 (July - September)
 
+**Goal: Launch preferred medical facility before end of the quarter**
+
 - **PM**: Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
 - **Frontend build**: Finish build if not already done
 - **QA**: Complete QA testing
-- **Design**: Call center guide
-- 
+- **Design**: Review FE build; Call center guide; UAT planning and sessions 
+- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Contact Center Review, Staging Review, Privacy and Security Review, Full Accessibility and 508 Office Audit
 
 ### Q4 2021 (October - December)
+
+- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Post-launch Check-in
 
 ## VA.gov Profile: User roles & permissions
 
