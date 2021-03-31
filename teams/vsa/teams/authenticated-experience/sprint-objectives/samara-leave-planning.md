@@ -48,7 +48,31 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
+### Q2 2021 (April – June)
+
+### Q3 2021 (July - September)
+
+### Q4 2021 (October - December)
+
 ## VA.gov Profile: Preferred medical facility
+
+### Q2 2021 (April – June)
+
+- **PM**: Oversee and manage all work and VSP reviews
+- **Design**: Updates to VA.gov profile; Collaboration with VAOS on how this integrates into the scheduling tool.
+- **Usability testing**: Cross-team effort between auth experience + VAOS to evaluate proposed designs for how users will update their preferred medical facilities.
+- **Frontend build**: Begin build; Finish build if possible
+- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Design intent; IA; Analytics; Midpoint
+
+### Q3 2021 (July - September)
+
+- **PM**: Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
+- **Frontend build**: Finish build if not already done
+- **QA**: Complete QA testing
+- **Design**: Call center guide
+- 
+
+### Q4 2021 (October - December)
 
 ## VA.gov Profile: User roles & permissions
 
