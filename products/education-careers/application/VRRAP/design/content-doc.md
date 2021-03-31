@@ -132,7 +132,6 @@ This is the personal information we have on file for you.
 * Country (* Required) { dropdown, prefilled if present. }
 * Street address (* Required) { text field, prefilled if present. }
 * Street address line 2 { text field, prefilled if present. }
-* Street address line 3 { text field, prefilled if present. }
 * City (* Required) { text field, prefilled if present. } 
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
