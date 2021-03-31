@@ -106,3 +106,5 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 - "A subset of digitally engaged Vets shift preference from VA.gov to VA Mobile app for key transactions": how can we measure this? 
 
 - Relationship to VA.gov: do we cannibalize traffic for some users? Or we might find that it increases digital engagement overall (ie, Vets who interact more on mobile, also interact more on VA.gov and MHV)
+
+![image](https://user-images.githubusercontent.com/7320097/113216231-fecc4580-9249-11eb-9894-8eeb96c8d0f3.png)
