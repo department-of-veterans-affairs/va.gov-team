@@ -40,6 +40,7 @@
 [#7320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)
 - [ ] Medical Records page alert box updates for Cerner+MHV patients [#5390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5390)
 - [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
+- [ ] [MOTION/COGNITION]: Auto-scrolling problematic for users with motion sensitivity or cognitive considerations [#6461](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6461)
  - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
  - [ ] Write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
  - [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support).
