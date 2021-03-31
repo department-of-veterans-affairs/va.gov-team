@@ -91,7 +91,7 @@ The platform has a long term strategy for how to improve this: rearchitect our c
     - has change been reviewed in staging or review instance?
     - we don't close the issue until a Post Mortem has been linked
 - Tests failing in `master` block deployments
-    - Revert all PRs that cause tests to fail in `master` (VFS teams won't like this, but it will keep `master` in deployable state)
+    - Revert all PRs that cause tests to fail in `master` (slows VFS teams velocity, but keeps `master` in deployable state)
     - Require feature branches to be current with `master` before merge (might be impractical given current CI speed)
 
 
