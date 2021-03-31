@@ -20,6 +20,8 @@ In its current state, Secure Messaging functions similarly to email and allows u
 
 Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Veterans have sent a secure message. The Secure Messaging inbox ranks as the third most popular page (653,357 pageviews) on MHV, only after the MHV homepage (2.56M pageviews) and the MHV login page (814,942 pageviews). While the majority of users access MHV from a desktop computer (63%), a significant portion of users are coming from a mobile device (32%) or a tablet (4.8%). 
 
+More on the existing state [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/product/secure-messaging/existing%20state)
+
 ### How do Veterans use secure messaging?
 * Secure Messaging is trusted and often the primary method for veterans and caregivers to communicate with their care team other than in-person visits.
 
@@ -34,7 +36,7 @@ Overall, Secure Messaging is a highly utilized tool. Within 24 months, 1.26M Vet
 
 *“This is my best means of communication with my doctor” - Veteran*
 
-More findings from the Digital Health Modernization Research Readout and the Secure Messaging MVP Usability Testing 
+More findings can be found in the [Digital Health Modernization Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md) and the [Secure Messaging MVP Usability Testing Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/secure-messaging/round-1/research-summary.md)
 
 ## Strategic Bets
 ### Short Term 
