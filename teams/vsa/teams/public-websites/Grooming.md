@@ -30,6 +30,8 @@
 ## Wednesday, March 31, 2021
 ### Discussion Topics/Grooming 
 - [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
+- [ ] sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11)
+[#15244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15244)
 - [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
 - [ ] [AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name [#21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)
 - [ ] Discharge Upgrade Wizard - Problematic PDF Form Link [#21944](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21944)
