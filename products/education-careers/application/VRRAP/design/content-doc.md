@@ -191,13 +191,15 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { bank check visual }
 
-* Bank name (* Required) { text field, prefill if present. }
+* Bank name { text field, prefill if present. }
 *	Bank routing number (No more than 9 digits) (* Required) { text field, prefill if present. }
 *	Bank account number (No more than 17 digits) (* Required) { text field, prefill if present. }
 
 [ Save ]() { button }
 
 { End grey direct deposit card }
+
+I don't want to use direct deposit. { check box }
 
 **Note:** Any updates you make here to your bank account information won't change your existing accounts for VA education or health benefits.
 
@@ -217,7 +219,7 @@ Note: The Department of the Treasury requires us to make electronic payments. If
 
 ### Program selection
 
-* Have you picked a program you'd like to attend using VRRAP? ( * Required) { Radio: yes or no }
+* Have you picked a program you'd like to attend using VRRAP? (* Required) { Radio: yes or no }
 * What's the name of the program's provider? { free text }
 * What's the name of the program? { free text }
 * What city is the program in? { free text }
@@ -272,7 +274,7 @@ Print this page { button }
 
 { blue box }
 
-Veteran Rapid Retraining Assistance Program
+Veteran Rapid Retraining Assistance Program (VRRAP)
 
 for { Fname Lname }
 
