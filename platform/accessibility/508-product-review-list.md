@@ -1202,11 +1202,11 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
+- [VAMC Stories needs valid ARIA attribute - #21890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21890)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: LI elements must be contained in an UL or OL - #21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA attributes must conform to valid values - #21786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21786)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: ID attribute value must be unique - #21788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21788)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Links must have discernible text - #21791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21791)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Claims & Appeals - Progressbar must be updated for axe violation in Applications / Letters / Tests / 01 Authed E2e Spec - #21797](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21797)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
