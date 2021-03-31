@@ -187,19 +187,15 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { End grey direct deposit card }
 
-I don't want to use direct deposit { checkbox, if selected grey direct deposit card disappears. }
-
 **Note:** Any updates you make here to your bank account information won't change your existing accounts for VA education or health benefits.
 
 { help-link } What if I don’t have a bank account?  { end help-link }
 
 { help-text} 
 
-The Department of Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit. 
+The Veterans Benefits Banking Program (VBBP) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
 
-If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard, apply at [www.usdirectexpress.com]() or call [1-800-333-1795](). 
-
-If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.
+To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program.
 
 { collapse help content link }
 
