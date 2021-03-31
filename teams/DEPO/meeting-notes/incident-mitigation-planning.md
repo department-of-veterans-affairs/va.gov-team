@@ -90,6 +90,9 @@ The platform has a long term strategy for how to improve this: rearchitect our c
     - if application change, is it using feature flags?
     - has change been reviewed in staging or review instance?
     - we don't close the issue until a Post Mortem has been linked
+- Tests failing in `master` block deployments
+    - Revert all PRs that cause tests to fail in `master` (VFS teams won't like this, but it will keep `master` in deployable state)
+    - Require feature branches to be current with `master` before merge (might be impractical given current CI speed)
 
 
 ## Which of these are short term /stop gap ideas we could discuss getting in place within a sprint?
