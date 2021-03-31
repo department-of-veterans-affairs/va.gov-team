@@ -312,7 +312,7 @@ FE
 **PM**
 
 - Assist Tressa with contact center guide
-- Thorough review FE build
+- Thorough review of FE build
   - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
 - Submit [analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md) (VSP collab cycle)
   - Regroup with Samara on this first
@@ -321,7 +321,7 @@ FE
 
 - Finish design tickets if they aren't already done
 - Start contact center guide
-- Thorough review FE build
+- Thorough review of FE build
   - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
 
 **FE**
