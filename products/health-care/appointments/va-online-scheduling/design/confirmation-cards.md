@@ -16,7 +16,7 @@ User will see facility detail and one of four reason for appointment:
 * Medication concern
 * My reason isn't listed
 
-It does not however show the type of care user has selected. The example below is for Primary care
+The confirmation card does not show the type of care the user has scheduled for. The example below is for Primary care
 
 ![confirmed-va](confirmation-cards/confirmation-scheduled-va.png)
 
@@ -48,7 +48,7 @@ The example below is for Office visit and displays as VA APPOINTMENT. User has a
 
 ![requested-va](confirmation-cards/confirmation-request-va-office-visit.png)
 
-Click on the "Show more" link to reveal additional information about the request. It toggles from "Show more" to "Show less". Once expanded, it will display reason for visit and contact detail.
+Click on the "Show more" link to reveal additional information about the request. It toggles from "Show more" to "Show less". Once expanded, it will display reason for visit and contact details.
 
 It displays best time be contacted:
 
@@ -56,7 +56,7 @@ It displays best time be contacted:
 * Afternoon
 * Evening
 
-If all three times are selected it will display "Anytime during the day"
+If all three times are selected, it shows "Anytime during the day" under contact details
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
