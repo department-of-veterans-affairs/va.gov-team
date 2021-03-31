@@ -12,25 +12,25 @@
 
 **_Part 1: Does the app provide value to Veterans? Do they enjoy using it? Do they use it a lot?_**
 
-### Objective: Veterans report that they enjoy using the app
+### Objective: Veterans enjoy using the app
 
 - KR: Maintain a high App Store and Google Play star rating (4 stars or above)
 
 - KR: Receive a high (>65%) proportion of positive comments
 
-### Objective: Veterans return to use the app on a recurring basis (indicating they find it valuable)
+
+### Objective: Veterans find value in the app
 
 - KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
 
-### (Next/Later?) Objective: All Veterans with smartphones, who consume VA services online, are able to access the app
-_[once we have a more splashy app store launch]_
-- KR: High usage of the app
+- KR: High usage of the app _[once we have a more splashy app store launch]_
 
   - KPI: number of app downloads
 
   - KPI: daily or monthly active users
 
   - KPI: number of times each feature is used (as an indication of how valuable it is)
+
 
 **_Part 2: Are transactions on the app simpler/faster/easier for Veterans to complete?_**
 
@@ -89,7 +89,7 @@ _ie, were we right that this app being built natively was the right bet?_
 
 - Now - Companion App: Vets who already consume VA services and engage with VA websites find it easier to complete transactions on the mobile app (companion to the website)
 
-- Next - Channel of Choice: Vets who find it easier to manage their benefits on the app will use the app more than they access that same feature on a VA websites (mobile app becomes their preferred channel)
+- Next - Channel of Choice: A subset of Veterans _prefer_ managing their benefits on the app over using VA websites (mobile app becomes their preferred channel). Requires setting up analytics to track individual user's behavior across web and mobile
 
 - Later - Acquisition: Increased engagement by new user group - Vets who do not already interact with VA online begin to use the app (increase the pie of Vets engaging with VA digitally)
 
@@ -99,14 +99,12 @@ _ie, were we right that this app being built natively was the right bet?_
 
 - Do we ever want the app to be a place where Veterans find new benefits?
 
-Areas of consideration:
+- How will user groups change over time?
 
-- User groups: how do they change over time
+- What makes someone more likely to use our app? Are they highly digitally engaged across both web and mobile? Or are we reaching new and different users altogether?
 
-- How do we handle the soft launch aspect - ie, numbers of downloads will be low
+- How do we handle the soft launch aspect - ie, numbers of downloads will be low from the start
 
-- "A subset of digitally engaged Vets shift preference from VA.gov to VA Mobile app for key transactions" is something we want to measure?
+- "A subset of digitally engaged Vets shift preference from VA.gov to VA Mobile app for key transactions": how can we measure this? 
 
-- Relationship to VA.gov: do we cannibalize traffic for some users?
-
-- Or is it something we measure, before optimizing: we might find that it increases digital engagement overall (ie, Vets who interact more on mobile, also interact more on VA.gov and MHV)
+- Relationship to VA.gov: do we cannibalize traffic for some users? Or we might find that it increases digital engagement overall (ie, Vets who interact more on mobile, also interact more on VA.gov and MHV)
