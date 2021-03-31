@@ -11,5 +11,7 @@
 - [P9](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/sessions/p9.md)
 - [P10](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/sessions/p10.md)
 - [P11](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/sessions/p11.md)
+- [P12](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/sessions/p12.md)
+- [P13](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/sessions/p13.md)
 - P12 (Cancelled by moderator)
 - P13 (Cancelled by moderator)
