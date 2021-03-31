@@ -80,7 +80,7 @@ Displays as VA VIDEO CONNECT
 
 ### Community Care Request ###
 
-Community care request have the option of user selecting from chose of providers or none at all  
+Community care request have the option of user selecting from a list of providers or choosing none at all  
 
 **Provider Selected**
 
