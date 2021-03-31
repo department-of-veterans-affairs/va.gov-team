@@ -165,7 +165,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 2.  Veterans like clicking links that directly take them to directions or to make a call, especially when on a mobile device.
 
-3.  Veterans may not distinguish between urgent and emergency care. When asked about past or theoretical urgent care experiences and situations, participants would often describe emergency room visits or emergency situations as they thought through what they did in the past or what they might do in the future.
+3.  Some Veterans did not distinguish between urgent and emergency care. When asked about past or theoretical urgent care experiences and situations, participants would often describe emergency room visits or emergency situations as they thought through what they did in the past or what they might do in the future.
 
 4.  Veterans have favorable opinions of "The Nurseline".
 
