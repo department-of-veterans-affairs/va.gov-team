@@ -183,8 +183,6 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [CMS, components, design system [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict - #7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723)<br/>
 **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-- [sitewide, design system, CMS [AXE-CORE]: Heading levels should increase by one - #7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755)<br/>
-**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark - #7844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7844)<br/>
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [sitewide, design system - 508-defect-3 [COGNITION, MOBILE DESIGN]: Styling SHOULD support reading comprehension - #12680](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12680)<br/>
