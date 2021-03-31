@@ -255,6 +255,9 @@ Before starting first task, one Veteran interjected:
 
 3. Veterans continue to mention how they are now more accustomed to doing Telehealth and now have an expectation of “Zoom appointments” and want to know when this is an option for them. 
 
+4. One participant said he would call the main number vs go to the website for info because the website is "cumbersome to get info. There's no fast track" to answers.
+ 
+
 
 
 ## Recommendations
