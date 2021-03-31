@@ -10,7 +10,7 @@
 
 ## Measures of Success for Veterans
 
-**Part 1: Does the app provide value to Veterans? Do they enjoy using it? Do they use it a lot?**
+**_Part 1: Does the app provide value to Veterans? Do they enjoy using it? Do they use it a lot?_**
 
 ### Objective: Veterans report that they enjoy using the app
 
@@ -32,7 +32,7 @@
 
   - KPI: number of times each feature is used (as an indication of how valuable it is)
 
-**Part 2: Are transactions on the app simpler/faster/easier for Veterans to complete?**
+**_Part 2: Are transactions on the app simpler/faster/easier for Veterans to complete?_**
 
 ### Objective: Vets can more easily complete transactions on the app than in corresponding web experiences
 
