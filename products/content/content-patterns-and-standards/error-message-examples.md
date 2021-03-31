@@ -1,5 +1,9 @@
 ## Examples of error messages
 
+### Notes
+Things to avoid: "click the link below"
+Use this messaging: "we couldn't access your XYZ" (instead of "we couldn't retrieve your XYZ")
+
 ### My VA
 
 **We couldn’t access your appointment information**
