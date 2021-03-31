@@ -132,6 +132,8 @@ OR
 drush user:create Terri.Rorke@va.gov --mail="Terri.Rorke@va.gov" --password="drupal8"
 6. You should see a message like the following:
   [success] Created a new user with uid 1803
+  
+  To just change a password to the default, enter the command: drush user:password user.name@va.gov "drupal8"
 
 ## External resources
 
