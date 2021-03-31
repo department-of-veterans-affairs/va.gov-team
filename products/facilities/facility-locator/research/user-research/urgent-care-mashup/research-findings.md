@@ -94,11 +94,12 @@ Later, when asked how he would have expected to find out he suggested:
 ####  2. ½ of all participants filtered urgent care options by “VA health” or "VA urgent care".
 3 users left the default menu selection of "VA health" unopened and unchanged, choosing "Urgent care" under the service type menu. One participant changed the default facility type menu to "Urgent care" and service type to "VA urgent care." Both paths resulted in participants not seeing any of the community provider options. These same users lacked awareness of the Community urgent care benefit so they would not have known to look for them otherwise. After the second task, which made users change the default menu to "Urgent care"/"All urgent care" and read about the Community urgent care benefit, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
-#### 3. Participants generally understood "Urgent care benefit information" is something they should click. However, some participants had strong reactions to having to read more information, assuming the page wouldn't answer their questions anyway and made assumptions instead.  
+#### 3. Participants generally understood "Urgent care benefit information" is something they should click. 
+However, some participants had strong reactions to having to read more and make sense of VA information pages, assuming the page wouldn't answer their questions anyway so calling would be easier.  
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
-However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. When asked what she might find after clicking the link, one Caretaker responded:
+Some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. When asked what she might find after clicking the link, one Caretaker responded:
 
 >To me 'urgent care benefit information' is just another thing I gotta click into and read, to click out of, to me it'd be a waste of time. [adds that calling is easier] Yeah, it's quicker to get an answer than to read and read and read with someone screaming that their foot hurts. To me it'd be a time waster.
 
