@@ -12,7 +12,7 @@
 
 ## Benefit Hubs Content Grouping
 
-| **Pattern {{Page Path}}** | **Output** |
+| **Pattern {{Page Path}}** | **Benefit Hub** |
 | --- | --- |
 | ^/track-claims.\* | Disability |
 | ^/disability.\* | Disability |
@@ -40,7 +40,7 @@
 
 ## Products Content Grouping
 
-| **Pattern {{Page Path}}** | **Output** |
+| **Pattern {{Page Path}}** | **Product** |
 | --- | --- |
 | ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
 | ^/records/download-va-letters.\* | Records - Download VA Letters |
@@ -101,7 +101,7 @@
 
 ## Navigation Events
 
-| Pattern {{Event}} | Output | Location Description |
+| Pattern {{Event}} | Navigation | Location Description |
 | --- | --- | --- |
 | ^nav-main.\* | Navigation - Main Page Buttons | Any of the three large buttons located near the bottom of the page under the benefit hubs (ex. blue rectangle with &quot;Find a VA health facility…&quot;) |
 | ^nav-footer.\* | Navigation - Footer - {{Click Text}} | Located under the benefit hubs and CTA buttons/boxes at the bottom of the page |
