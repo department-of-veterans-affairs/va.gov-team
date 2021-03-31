@@ -22,18 +22,19 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
- Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program   | The last segment of the breadcrumb should match the H1 of the page
+Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program   | The last segment of the breadcrumb should match the H1 of the page
 VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap | Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program > Apply for VRRAP | This assumes there is no official VA form mumber for this. 
 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Priority** | **Placement** | **Link Destination** | **Description**
---- | --- | --- | ---
- tbd | Education: left nav | [Veteran Rapid Retraining Assistance Program](https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance) |  
- tbd | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | [Veteran Rapid Retraining Assistance Program](https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance) |  
- tbd | Careers |  |  
+**Priority** | **Nav component or Page** | **Placement** | **Link Destination** | **Description**
+--- | --- | --- | --- | ---
+tbd | Education: left nav | Child of "Other VA education benefits"  | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Left nav label should match H1, can be shortened to "Veteran Rapid Retraining Assistance" if H1 is too long. <br> Consider reordering the children of this section to STEM, NCS, VEAP, VRRAP (based on order of appearance on page)
+tbd | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | Place within content of page, may need new section | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Consider creating new section on page for "Non-GI Bill education and training options" (label tbd) that would include VRRAP and VRE.
+tbd | Careers: [Hub page](https://www.va.gov/careers-employment/) |"Get benefits" section | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance | 
+Existing | Careers: [Hub page](https://www.va.gov/careers-employment/) | "Other VA benefits and services" section  | n/a |  Section currently links to [Other educational assistance programs page](https://www.va.gov/education/other-va-education-benefits)
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
