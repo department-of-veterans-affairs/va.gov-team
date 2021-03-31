@@ -1,8 +1,10 @@
-# Mobile App OKRs & Measures of Success
+# Mobile App Measures of Success
 
 ## Overall Bet
 
-**What value does the app provide to Veterans? Our key hypothesis is that a native  mobile app provides value to Veterans by making it easier to complete transactions with VA.**
+What value does the app provide to Veterans? Our big bet is that:
+
+**A native mobile app provides value to Veterans by making it easier to complete transactions with VA.**
 
 *How will we know whether we were right about this bet?*
 
@@ -30,7 +32,7 @@
   - KPI: number of times each feature is used (as an indication of how valuable it is)
 
 
-### Objective: Veterans can more easily complete transactions on the app than in they can in corresponding web experiences
+### Objective: Veterans can more easily complete transactions on the app than they can on desktop or mobile web
 
 - KRs: rate of task completion is on par with or higher than VA.gov or MHV counterpart
 
@@ -55,7 +57,7 @@ _helps us answer: was it the right bet to build this app natively?_
 
   - KPI: Login success rate
 
-### Objective: Vets gain peace of mind by using the app and are empowered to 
+### Objective: Vets gain peace of mind by using the app
 _Reducing the feeling of VA being a "black hole" or needing to be persistent to follow up on benefits_
 
 - KR: x% push notification opt in rate and open rate
@@ -65,11 +67,11 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
   - KPI: Time to upload more documentation to a claim from receiving email that more info is requested by VA
 
 ## Measures of Success for VA
-**What sources of value does the app provide for OCTO and VA?**
+**What sources of value might the app provide for OCTO and VA?**
 
 - Break down silos: Build closer ties between OCTO and OCC/MHV
 
-  - Bi-weekly meetings increase visibility into each other's priorities and build trust and open communication channels
+  - Collaborating increases visibility into each other's priorities and build trust and open communication channels
 
 - Demonstrate iterative, agile ways of product development to other parts of VA
 
@@ -87,7 +89,7 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 - Next - Channel of Choice: A subset of Veterans _prefer_ managing their benefits on the app over using VA websites (mobile app becomes their preferred channel). Requires setting up analytics to track individual user's behavior across web and mobile
 
-- Later - Acquisition: Increased engagement by new user group - Vets who do not already interact with VA online begin to use the app (increase the pie of Vets engaging with VA digitally)
+- Later - User Acquisition: Increased engagement by new user group - Vets who do not already interact with VA online begin to use the app (increase the pie of Vets engaging with VA digitally)
 
 ## Open questions:
 
