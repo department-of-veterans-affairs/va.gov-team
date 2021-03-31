@@ -1,6 +1,6 @@
 # Document purpose
 
-To document the nuances of plain, inclusive, and compassionate language that our content leads use so that other writers and designers can easily follow these patterns.
+To document the nuances of plain, inclusive, and compassionate language that our content leads use so that other writers and designers can easily follow these patterns. Once refined and agreed upon, we'll determine which guidance to add to the official style guide and which to include as supplemental resources.
 
 ## General guide for writers
 
