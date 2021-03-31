@@ -10,8 +10,6 @@
 
 ## Measures of Success for Veterans
 
-**_Part 1: Does the app provide value to Veterans? Do they enjoy using it? Do they use it a lot?_**
-
 ### Objective: Veterans enjoy using the app
 
 - KR: Maintain a high App Store and Google Play star rating (4 stars or above)
@@ -19,7 +17,7 @@
 - KR: Receive a high (>65%) proportion of positive comments
 
 
-### Objective: Veterans find value in the app
+### Objective: Veterans the app valuable enough to download and use
 
 - KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
 
@@ -32,23 +30,26 @@
   - KPI: number of times each feature is used (as an indication of how valuable it is)
 
 
-**_Part 2: Are transactions on the app simpler/faster/easier for Veterans to complete?_**
-
 ### Objective: Vets can more easily complete transactions on the app than in corresponding web experiences
 
 - KRs: rate of task completion is on par with or higher than VA.gov or MHV counterpart
 
-  - KPIs - rate of task completion for all features (for SM: percent of users who begin a message, who then send it; for VAOS: in the future, appointment completion rate in the funnel
+  - KPIs: rate of task completion for all features (for SM: percent of users who begin a message, who then send it; for VAOS: in the future, appointment completion rate in the funnel
 
-- KR - speed of task completion is on par with or higher than VA.gov or MHV counterpart
+- KR: speed of task completion is on par with or higher than VA.gov or MHV counterpart
+  - KPIs:  speed of task completion for features (for SM: time it takes between clicking into the Secure Messaging feature, to send a message?)
 
-### Objective: Vets can manage benefits across VA health and benefit silos in one place
-
+- KR: Vets manage benefits across both health and benefits
   - KPI: number of sessions that include visits to both health and benefit features
 
-### Objective: Veterans can seamlessly access app features
+- KR: Vets take advantage of native functionality in the app
+_ie, was it the right bet to build this app natively?_
+  - KPI: frequency of usage of allowing location services, or adding VAOS appointment to calendar, or using camera for uploading a claime file, or sending an SMS via the VCL link, or clicking to call a help line directly from the app
 
-- KR: X% of users choose to allow biometric login (We hear from Vets how hard it is for them to login, turning on Touch ID or Face ID seems like a good indication that Vets find value in native functionality in the app)
+
+### Objective: Reduce the barriers to entry to accessing authenticated features
+
+- KR: X% of users choose to allow biometric login _(we hear from Vets how hard it is for them to login, turning on Touch ID or Face ID seems like a good indication that Vets find value in native functionality in the app)_
 
 - KR: Login success rate matches or is higher than on VA.gov
 
@@ -59,12 +60,6 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 - KR: x% push notification opt in rate and open rate
 
-  - KPI - push notification opt in rate and open rate
-
-### [Optional] Objective: Vets can seamlessly interact with VA using affordances unique to a native app
-_ie, were we right that this app being built natively was the right bet?_
-
-- KRs are about use of other native functionality (like, allowing location for Facility Locator, or adding a VAOS appointment to calendar, or uploading a claim file via camera, or sending an SMS via the Crisis Line link, or even clicking to call a phone number directly from the app)
 
 ## Measures of Success for VA
 **What sources of value does the app provide for OCTO and VA?**
