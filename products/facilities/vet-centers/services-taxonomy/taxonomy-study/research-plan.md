@@ -48,8 +48,8 @@ This study will be broken up into 6 mini studies, segmented by the following 6 c
 - A - 6-10: Veterans 65+ [Vietnam era Veterans median age is 68 years]
 - B - 6-10: Spouses/partners of Veterans (who have used VA.gov to look up health or benefit information regarding their Veteran spouse/partner's health)
 - C - 6-10: New soldier/active duty service member (3 or less years since joining the military)
-- D - 6-10: ~~3 or less years since discharge/separation from military service~~ Due to difficulty with recruiting, this cohort was changed to Veterans 35-64 with a heavy emphasis on diversity
-- E - 6-10: Veterans with a high school diploma, GED or less education 
+- D - 6-10: ~~3 or less years since discharge/separation from military service~~ Due to difficulty with recruiting this cohort, criteria was changed to Veterans 35-64 with a heavy emphasis on diversity, to have broader demographic representation
+- E - 6-10: Veterans with a high school diploma, GED or less education
 
 **Nice to have:**
 - F - 6-10: Reservists
