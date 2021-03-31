@@ -31,10 +31,12 @@ VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retr
 
 **Priority** | **Nav component or Page** | **Placement** | **Link Destination** | **Description**
 --- | --- | --- | --- | ---
-tbd | Education: left nav | Child of "Other VA education benefits"  | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Left nav label should match H1, can be shortened to "Veteran Rapid Retraining Assistance" if H1 is too long. <br> Consider reordering the children of this section to STEM, NCS, VEAP, VRRAP (based on order of appearance on page)
-tbd | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | Place within content of page, may need new section | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Consider creating new section on page for "Non-GI Bill education and training options" (label tbd) that would include VRRAP and VRE.
-tbd | Careers: [Hub page](https://www.va.gov/careers-employment/) |"Get benefits" section | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance | 
-Existing | Careers: [Hub page](https://www.va.gov/careers-employment/) | "Other VA benefits and services" section  | n/a |  Section currently links to [Other educational assistance programs page](https://www.va.gov/education/other-va-education-benefits)
+n/a | Education: [Hub page](https://www.va.gov/education/) |"Get benefits" section | n/a | Section already links to [Other educational assistance programs page](https://www.va.gov/education/other-va-education-benefits)
+Must | Education: Left nav | Child of "Other VA education benefits"  | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Left nav label should match H1, can be shortened to "Veteran Rapid Retraining Assistance" if H1 is too long. <br> Consider reordering the children of this section to STEM, NCS, VEAP, VRRAP (based on order of appearance on page)
+Must | Education: [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | Place within content of page, may need new section | https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance |  Consider creating new section on page for "Non-GI Bill education and training options" (label tbd) that would include VRRAP and VRE.
+n/a | Careers: [Hub page](https://www.va.gov/careers-employment/) |"Get benefits" section | n/a | Benefit does not live within this hub and should not be included within the primary "Get benefits" section
+n/a | Careers: Left nav | ---  | n/a | Benefit does not live within this hub and should not be included within the left nav
+n/a | Careers: [Hub page](https://www.va.gov/careers-employment/) | "Other VA benefits and services" section  | n/a |  Section currently links to [Other educational assistance programs page](https://www.va.gov/education/other-va-education-benefits)
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
