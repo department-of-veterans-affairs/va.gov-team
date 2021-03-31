@@ -48,7 +48,15 @@ The example below is for Office visit and displays as VA APPOINTMENT. User has a
 
 ![requested-va](confirmation-cards/confirmation-request-va-office-visit.png)
 
-To view additional information about the request confirmation, click on the "Show more" link to reveal reason for visit and contact details.
+Click on the "Show more" link to reveal additional information about the request. It toggles from "Show more" to "Show less". Once expanded, it will display reason for visit and contact detail.
+
+It displays best time be contacted:
+
+* Morning
+* Afternoon
+* Evening
+
+If all three times are selected it will display "Anytime during the day"
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
@@ -72,9 +80,11 @@ Displays as VA VIDEO CONNECT
 
 ### Community Care Request ###
 
-Community care request have the option of having user select from chose of providers or none at all. In either case, the user selects a preferred language spoken. 
+Community care request have the option of user selecting from chose of providers or none at all  
 
 **Provider Selected**
+
+The example below shows provider detail. 
 
 ![requested-cc-provider](confirmation-cards/confirmation-request-cc-selected-provider.png)
 
