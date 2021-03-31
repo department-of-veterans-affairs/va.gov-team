@@ -353,6 +353,7 @@ FE
 - Finish design, if not already done
 - Finalize content, if not already done
 - Work with AJ to submit for the IA review
+- Design documentation for frontend
 
 ### Notification preferences
 
@@ -365,6 +366,7 @@ FE
 - Finish design, if not already done
 - Finalize content, if not already done
 - Work with AJ to submit for the IA review
+- Design documentation for frontend
 
 **FE**
 
