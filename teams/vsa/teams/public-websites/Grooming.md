@@ -45,6 +45,7 @@
  - [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support).
  - [ ] [Discovery] Chatbot - look into COVID chatbot learnings before implementation into R&S (WIP)
  - [ ] WIZARDS: Are they released?  How are we tracking these, in terms of Impact? 
+ - [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
 
 ### Campaign landing page MVP 1.0
