@@ -192,9 +192,11 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { help-text} 
 
-The Veterans Benefits Banking Program (VBBP) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
+The [Veterans Benefits Banking Program (VBBP)](https://veteransbenefitsbanking.org/) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
 
-To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program.
+To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. Once you have direct deposit set up, call the GI Bill Hotline: [888-442-4551]() 
+
+Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative who handles waiver requests. They can answer any questions or concerns you may have.
 
 { collapse help content link }
 
