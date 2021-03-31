@@ -29,7 +29,7 @@ It displays facility details
 
 ![confirmed-expresscare](confirmation-cards/confirmation-scheduled-express-care.png)
 
-<hr/ >
+<hr />
 
 ## Requested Confirmation Appointments
 Requested confirmation cards are available through VA request, Community Care request and Express Care request. It displays up to three preferred request dates. Request appointments are differienated with a yellow horizonal bar above the card, a caution icon and "Pending" text
@@ -41,11 +41,11 @@ VA requests have three visit types:
 
 <hr />
 
-### 1. VA Request ###
+### VA Request ###
 
-**a. Office visit**
+**Office visit**
 
-Annotated as VA APPOINTMENT
+Displays as VA APPOINTMENT
 
 ![requested-va](confirmation-cards/confirmation-request-va-office-visit.png)
 
@@ -61,32 +61,32 @@ VA request displays reason for appointment:
 
 <hr />
 
-**b. Phone call**
+**Phone call**
 
-Dispite being a phone call request, it is annotated as VA APPOINTMENT
+Dispite being a phone call request, it displays as VA APPOINTMENT
 
 ![requested-va-phone](confirmation-cards/confirmation-request-va-phone-call.png)
 
 <hr />
 
-**c. Telehealth**
+**Telehealth**
 
-Annotated as VA VIDEO CONNECT
+Displays as VA VIDEO CONNECT
 
 ![requested-va-telehealth](confirmation-cards/confirmation-request-va-telehealth.png)
 
-<hr/ >
+<hr />
 
-### 2. Community Care Request ###
+### Community Care Request ###
 
 Community care request have the option of having user select from chose of providers or none at all. In either case, the user selects a preferred language spoken. 
 
-**a. Provider Selected**
+**Provider Selected**
 
 ![requested-cc-provider](confirmation-cards/confirmation-request-cc-selected-provider.png)
 
 <hr />
 
-**b. No Provider Selected**
+**No Provider Selected**
 
 ![requested-cc-no-provider](confirmation-cards/confirmation-request-cc-no-provider.png)
