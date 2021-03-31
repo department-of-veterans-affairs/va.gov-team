@@ -13,6 +13,10 @@ Proposed mobile breadcrumb: < Veteran Rapid Retraining Assistance Program
 
 **Note:** Since you're signed in to your account, we can prefill part of your application based on your account details.  You can also save your form in progress and come back later to finish filling it out.
 
+{ end informational alert }
+
+Start the education application { button }
+
 { end if logged in } 
 
 { if logged out, informational alert }  
