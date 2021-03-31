@@ -1,7 +1,7 @@
 ## Examples of error messages
 
 ### Notes
-Things to avoid: "click the link below"
+Things to avoid: "click the link below" <br>
 Use this messaging: "we couldn't access your XYZ" (instead of "we couldn't retrieve your XYZ")
 
 ### My VA
