@@ -17,7 +17,7 @@
 - KR: Receive a high (>65%) proportion of positive comments
 
 
-### Objective: Veterans the app valuable enough to download and use
+### Objective: Veterans find the app valuable enough to download and use
 
 - KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
 
@@ -30,7 +30,7 @@
   - KPI: number of times each feature is used (as an indication of how valuable it is)
 
 
-### Objective: Vets can more easily complete transactions on the app than in corresponding web experiences
+### Objective: Veterans can more easily complete transactions on the app than in they can in corresponding web experiences
 
 - KRs: rate of task completion is on par with or higher than VA.gov or MHV counterpart
 
@@ -43,7 +43,7 @@
   - KPI: number of sessions that include visits to both health and benefit features
 
 - KR: Vets take advantage of native functionality in the app
-_ie, was it the right bet to build this app natively?_
+_helps us answer: was it the right bet to build this app natively?_
   - KPI: frequency of usage of allowing location services, or adding VAOS appointment to calendar, or using camera for uploading a claime file, or sending an SMS via the VCL link, or clicking to call a help line directly from the app
 
 
@@ -55,11 +55,13 @@ _ie, was it the right bet to build this app natively?_
 
   - KPI: Login success rate
 
-### Objective: Vets gain peace of mind by using the app
+### Objective: Vets gain peace of mind by using the app and are empowered to 
 _Reducing the feeling of VA being a "black hole" or needing to be persistent to follow up on benefits_
 
 - KR: x% push notification opt in rate and open rate
-
+- KR: Reduce time to respond to requests for additional information
+  - KPI: Time to open Secure Message from receiving email or push notification that new message has arrrived
+  - KPI: Time to upload more documentation to a claim from receiving email that more info is requested by VA
 
 ## Measures of Success for VA
 **What sources of value does the app provide for OCTO and VA?**
