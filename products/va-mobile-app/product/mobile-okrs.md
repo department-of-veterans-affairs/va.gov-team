@@ -41,7 +41,7 @@ What value does the app provide to Veterans? Our big bet is that:
 - KR: speed of task completion is on par with or higher than VA.gov or MHV counterpart
   - KPIs:  speed of task completion for features (for SM: time it takes between clicking into the Secure Messaging feature, to send a message?)
 
-- KR: Vets manage benefits across both health and benefits
+- KR: Eligible Vets manage benefits across both health and benefits
   - KPI: number of sessions that include visits to both health and benefit features
 
 - KR: Vets take advantage of native functionality in the app
@@ -63,8 +63,8 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 - KR: x% push notification opt in rate and open rate
 
 - KR: Reduce time to respond to requests for additional information
-  - KPI: Time to open Secure Message from receiving email or push notification that new message has arrrived
-  - KPI: Time to upload more documentation to a claim from receiving email that more info is requested by VA
+  - KPI: Time to open Secure Message from receiving email or push notification that new message has arrrived (_note, needs investigation to see whether this is possible to measure_)
+  - KPI: Time to upload more documentation to a claim from receiving email that more info is requested by VA (_note, not possible to measure yet_)
 
 ## Measures of Success for VA
 **What sources of value might the app provide for OCTO and VA?**
