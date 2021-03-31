@@ -9,6 +9,12 @@ Proposed mobile breadcrumb: < Veteran Rapid Retraining Assistance Program
 
 ## Form Title: Apply for the Veteran Rapid Retraining Assistance Program (VRRAP) 
 
+{ if logged in, informational alert }
+
+**Note:** Since you're signed in to your account, we can prefill part of your application based on your account details.  You can also save your form in progress and come back later to finish filling it out.
+
+{ end if logged in } 
+
 { if logged out, informational alert }  
 
 ### Save time—and save your work in progress—by signing in before starting your application 
