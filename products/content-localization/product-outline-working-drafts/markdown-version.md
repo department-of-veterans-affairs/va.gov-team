@@ -38,7 +38,7 @@ Through research, analysis, and stakeholder interviews we will identify and reco
 
 This solution will take into consideration the complexities that product owners, content creators, and local site administrators face with providing high-quality translated information that can be easily kept up to date.
 
-At the conclusion of this project, we will have ~an~ written evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. (Should we also say something about sharing our experience/findings with other government website owners?)
+At the conclusion of this project, we will have a written evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. 
 
 We will also provide a report further detailing the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
 
@@ -48,9 +48,9 @@ Specifically, our objectives are as follows:
 2. Give Veterans clear and concise information on accessing translation services.
 3.	To meet federal/agency requirements for providing translated benefit information.
 4.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
-5.	~Launch an MVP to demonstrate the recommended approach is viable, scalable and sustainable.~
-6.	Research and identify requirements for a scaleable enterprise solution begining with an MVP to prove out approach. This includes:
+5.	Research and identify requirements for a scaleable enterprise solution. This includes:
 a.	Budget estimates
+b. Resource needs
 b.	Process for selecting and on-boarding a software provider for integration with Drupal
 c.	Integration points
 d.	Dependencies
@@ -96,13 +96,11 @@ we will provide Vets access to essential VA content online in their native langu
 
 ## Measuring Success
 
-Baseline Analytics:
-From Jan 1 - March 15, 2021 the total number of Pageviews visiting the Coronavirus FAQs in Spanish was ~700.
+Baseline Analytics:(note: create table)
 
-From March 1 - March 15, 2021 the total number of Pageviews visiting the Covid-19 Vaccine page in Spanish and Tagalog was ~4k.
-
+During March 2021 the total number of pageviews for the Covid-10 and Corona FAQ pages in Spanish and Tagalog were ~7000.
+Jan and Feb 2021 saw ~40k users with browsers set to Spanish visiting VA.gov each month.
 From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~600k. 
-~(more data will be added once we have dashboard set up)~
 
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
