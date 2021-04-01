@@ -3,15 +3,15 @@
 This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
 ## Profile menu design update + unsticking
-- **Release date**: menu design was launched in 2020; menu was unstuck (date forthcoming)
+- **Release date**: menu design was launched in 2020; menu was unstuck 4/1/2021
 - **Impacted pages:** all of profile
 - **Device:** mobile
 - GH issue [19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
 
 ### Research questions
 - Do people see the profile menu with the new design? People didn't see this with the earlier design in the first study.
-- Do people use the back to top button to get back up to the profile menu?
-- Are any UX hurdles encountered since the menu is no longer sticky?
+- Do people encounter usability issues having to get back up to the profile menu? (e.g. do we need the back to top component in profile)
+- Are any other UX hurdles encountered since the menu is no longer sticky?
 
 ## New edit button style
 - **Release date**: TBD
