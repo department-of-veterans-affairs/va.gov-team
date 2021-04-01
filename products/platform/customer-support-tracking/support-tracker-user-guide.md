@@ -1,5 +1,8 @@
 # Platform Support Bot User Guide
 
+Last updated: Dec. 8, 2020
+<br>
+<br>
 The support tracker is a standardized way to log customer support requests in Slack so that VSP can use the data to identify roadmap initiatives.
 
 ## Installing the support bot
