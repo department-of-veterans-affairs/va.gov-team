@@ -103,3 +103,20 @@ The platform has a long term strategy for how to improve this: rearchitect our c
 - dev server so we can see things before they're merged to master
     - review instances / tugboat / or some other solution for previewing and demo'ing and QA'ing.
 - visual regression testing
+
+## 4/1 Notes
+- we have 2 options for QA right now: review instances, and staging
+    - each has limitations and trade offs
+    - staging connects with BE services
+    - there's only one staging, and it's deployed from master branch, and it's CI as in as soon as something is merged into master and the build passes then it gets deployed automatically
+    - today staging is so backed up that merged PRs don't reflect in staging with enough time to review them 
+    - there's no versioning, it's just the most recent successfully built master branch gets deployed. You can see in Jenkins 
+    - Teams should QA in a review instance when you can, and if you can't then use staging with feature toggles
+    - 
+
+
+## Actions
+- Separate content out - 2 sprints
+- Speed up FE Build - 1 sprint
+- Speed up BE Build - 1 sprint
+- Tiered QA pilot on Public Websites using review instances (via SOCKS)
