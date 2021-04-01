@@ -1,7 +1,13 @@
-### Event Log
+### Postmortems
+*Tracking development postmortems related to Search & Discovery Products*
 
-**Postmortems**
-Development Postmortems are kept [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), this is to track any related to Search & Discovery Products
-|**Date**|**Event** |
-|-------------------|--------------------|
-|March 22,2021| [Search results not displaying](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-postmortem-3-22-2021.md) |
+|**Date**|**Product**| **Event** |
+|-------------------|-----------------------------|--------------------|
+|March 22, 2021| Onsite Search | [Search results not displaying](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-postmortem-3-22-2021.md) |
+|Dec 16, 2020 |Onsite Search|[Redirecting to home page / search not completing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/typeahead/portmortems/search-postmortem-12-16-2020.md)|
+
+
+
+
+---
+[VA Postmortem Folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems)
