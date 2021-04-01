@@ -4,7 +4,7 @@
 - GitHub labels: `triage`
 
 ### VSP POCs
-- (Product Manager) [Alex Pappas](https://github.com/alexpappasoddball), `@Alex Pappas` in DSVA Slack
+- (Product Manager) [Andrea Hewitt](https://github.com/andreahewitt-odd), `@AndreaHewitt` in DSVA Slack
 - (Lead Engineer) [Eric Boehs](https://github.com/ericboehs), `@Eric Boehs` in DSVA Slack
 
 See [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/triage-team-charter.md) for further details.
