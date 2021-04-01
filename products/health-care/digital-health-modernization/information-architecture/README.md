@@ -1,4 +1,4 @@
-# Digital Health Modernization (DHM) README: Information Architecture 
+# Digital Health Modernization: Information Architecture 
 
 ## Mapping the health landscape 
 ### Products, people, and systems
