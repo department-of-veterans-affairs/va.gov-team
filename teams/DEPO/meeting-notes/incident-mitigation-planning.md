@@ -112,11 +112,27 @@ The platform has a long term strategy for how to improve this: rearchitect our c
     - today staging is so backed up that merged PRs don't reflect in staging with enough time to review them 
     - there's no versioning, it's just the most recent successfully built master branch gets deployed. You can see in Jenkins 
     - Teams should QA in a review instance when you can, and if you can't then use staging with feature toggles
-    - 
+- Chris said he thought we had better rigour around this stuff
+    - Other govt agencies have more rigour and are super slow and waterfall. Making us nervous that new people at VA come in, hear about these incidents, and they start to raise questions that hinder our ability to keep running this platform. If we need to slow down a little bit to add more precautions, then that may be a valuable trade off but we need to communicate that.
+- QA 
 
 
 ## Actions
-- Separate content out - 2 sprints
-- Speed up FE Build - 1 sprint
-- Speed up BE Build - 1 sprint
-- Tiered QA pilot on Public Websites using review instances (via SOCKS)
+
+Problem 1: One team’s code, when deployed, breaks some other part of VA.gov
+Problem 2: One team's bad automated test breaks the build for everyone
+Problem 3: Workarounds for QA'ing things in a testing environment lead to code getting to prod before it's ready
+
+In the long term
+
+**In the short term, **
+
+- Separate content build out - 2 sprints
+- Speed up FE Build time - 1 sprint (parallelization)
+- Speed up BE Build time - 1 sprint
+- Tiered QA pilot on Public Websites team (using review instances via SOCKS)
+- See how ^ goes, and write-up + message OCTO-DE wide, along w/messaging around slowing down so we don't get shut down
+- Updated documentation about review instances and staging and some low hanging fruit improvements
+- GItHub issues for better out of band deploy tracking, and post-mortem tracking
+- Lock down and publish criteria for out of band deploy
+- More clear post-mortem documentation/template
