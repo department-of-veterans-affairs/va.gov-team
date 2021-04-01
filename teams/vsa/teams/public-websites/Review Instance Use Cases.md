@@ -60,7 +60,8 @@ The challenge is when we want entire apps or large-scale features to be behind f
 4. Asking for off-schedule permission is relatively easy (scary but easy)
 5. Waiting for 5 hours is not optimal (Too Long to apply any needed fixes)
 6. A non-standard format AND location for the required post mortem documentation leads to scariness for teams that haven't done one before.  Process needs to be baked, trained.
-7. Post Mortem Value: Post mortem should be SHORT but PACKED with useful info, action items should be made into tickets immediately imho as otherwise the action items just get lost in the doc that no one looks at afterwards
+7. Post Mortem Value: Post mortem should be SHORT but PACKED with useful info, action items should be made into tickets immediately imho as otherwise the action items just get lost in the doc that no one looks at afterwards.
+8. Back end datasets are not always consistent across environments. There are times when data cannot be synced quickly enough in the Staging environment and is not present on review instances.
 
 ## Interim Solution 
 ### Current process for validating in socks 'DEV' environment: 
