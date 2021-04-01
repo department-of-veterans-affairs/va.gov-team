@@ -164,6 +164,18 @@ Q2 2020
 
 <br>
 
+
+#### Documentation Discovery Sprint
+
+*Megan Kelley, Mikki Northius, Bill Fienberg, Crystabel Reiter, Dan Shank, Rachael Rouche*
+
+Q1 2020
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/fe562436c51e569a74c56bbce9306aa109004b9f/products/platform/platform-website/research/discovery-sprint-12-2019)
+
+<br>
+
+
 #### Developer Experience Needs Finding
 
 *FE Tools: David Brusstar*
