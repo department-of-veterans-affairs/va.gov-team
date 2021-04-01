@@ -43,6 +43,7 @@ Keep pace (remain agile) but ensure safeguards/rails are in place to mitigate of
 7. One long-standing issue we’re painfully aware of on the Facilities team is that the staging API uses a subset of PPMS data, which leads to very different search results for community care providers. That’s not likely to change. (Michael Pelz-Sherman - Facilities Team)
 8. Worth noting: Review instances are difficult for those without engineering backgrounds to get into due to having to configure the SOCKS proxy. This is reducing their value as a development and review tool because some folks have been relying on developers to send updated screenshots or finding other mean to share their early-stage work. (More [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11629))
 9. Stable and reliable review instances would solve a lot of engineer testing problems and requirements, however a clear communication chain has not been established. Who owns these instances? Who fixes them when they break, or ensures they are working properly? Do they operate with a working FE + BE together to test changes that require both environments?
+10. Review instances may not lend themselves to testing on different devices (mobile, tablet).
 
 ## Feature Flag Challenges 
 ### Top level challenges with Feature Flag implimentation: 
@@ -51,7 +52,8 @@ The process of creating & using a feature toggle is:
 2. add/modify feature flags in vets-website (requires at least 1 vets-website PR)
 3. add/use feature flag in React code (e.g. tools like YR, find forms, etc.) (requires at least 1 vets-website PR)
 4. unable to use feature flags in liquid (there are ways, but it's hacky)
-The challenge is when we want entire apps or large-scale features to be behind feature flags, the process above is sufficient (albeit time-consuming).  when we want to make little tweaks or minor improvements, but have those improvements behind feature flags, the process is choking. each PR that is sent up has to run through CI and the order of the PRs have to happen sequentially (they can't happen concurrently) since, for example, step 2 is dependent on step 1 being deployed to vets-api production, etc.
+5. The challenge is when we want entire apps or large-scale features to be behind feature flags, the process above is sufficient (albeit time-consuming).  when we want to make little tweaks or minor improvements, but have those improvements behind feature flags, the process is choking. each PR that is sent up has to run through CI and the order of the PRs have to happen sequentially (they can't happen concurrently) since, for example, step 2 is dependent on step 1 being deployed to vets-api production, etc.
+6. The act of removing the feature flag opens the possibility of inadvertendly introducing defects. 
 
 ## Off Cycle Pain Points 
 ### Challenges with current off-cycle request process:
