@@ -25,13 +25,12 @@
  - [ ] Sitemap Next Steps (Metalsmith Plug in + Non-Canonical URLs)
 
 ***GROOMING***
- - [ ] [POC2] Run 4/10-4/25 (TBD)
- - [ ] [Results Page Redesign] Final design iterations (TBD)
- - [ ] [Results Page Redesign] Meet with Ryan, Meg &  Shawna (TBD)
- - [ ] [Results Page Redesign] Dev Exploration to optimize/rebuild search (TBD)
- - [ ] [Click Tracking for Best Bets] Implementation #22131
- - [ ] [Sitemap] Con't Google Search Console Exploration (#21795)
- - [ ] [Analytics] Due to dashboard delay, acquire GA Reports to focus on Global Search (TBD)
+ - [ ] [POC2] Run 4/10-4/25 [#22497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22497)
+ - [ ] [Results Page Redesign] Final design iterations [#22498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22498)
+ - [ ] [Results Page Redesign] Depo Design Review  [#22500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22500)
+ - [ ] [Results Page Redesign] Dev Exploration to optimize/rebuild search [#22499](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22499)
+ - [ ] [Click Tracking for Best Bets] Implementation [#22131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22131)
+ - [ ] [Analytics] Acquire GA Reports to focus on Global Search [#22501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22501)
 
  ***NEXT STEPS/ACTIONS:***
  - TBD
