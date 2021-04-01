@@ -20,12 +20,12 @@ After Design Intent, when you’re beginning to understand the user flow.
 - Link to or attach user/page flows
 - Link to or attach your content source of truth, including H1s (if separate from prototype/mockup)
 
-## Information Architecture Worksheet (Optional)
+## Information Architecture worksheet:
 *Provide any the following information, as available, to help provide direction and support of your IA.*
 
-**SEO Keywords** - What keywords does the primary audience use when they talk about or search for your content?
-
 **Content/feature placement** - Where do you believe this content and/or feature should live within VA.gov and why?
+
+**Keywords and SEO** - What keywords does the primary audience use when they talk about or search for your content?
 
 **URL(s)** - What are your suggested URLs and why?
 
