@@ -1,6 +1,6 @@
-# What would "V3" of the Platform Website look like at the end of 2021 Q2?
+# How would we build towards "V3" in 2021 Q2?
 
-This doc provides context to make a decison around the scope of Platform Website V3.
+This doc provides context to make a decison around the actions needed to achieve Platform Website V3.
 
 _Authors:_ Liani Lye and Gretchen Maciolek, Platform Team: Content/IA
 
@@ -13,14 +13,14 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 - Product iterations
   - [Pre "Platform Website": The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [V1: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-  - [V2: Persona landing pages](https://va-platform-docs.scrollhelp.site/getting-started/)
+  - [V2: Persona-based landing pages](https://va-platform-docs.scrollhelp.site/getting-started/)
   - [V3: In-progress](https://va-platform-docs.scrollhelp.site/index.html)
 - 2021 Q2 "Develop IA" initiative: [Platform Website — Develop IA for Platform Website #22189](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/22189)
 
 
 ## Context
 
-In 2020 Q4, the Content/IA team piloted an MVP of the Platform Documentation product.  The MVP focused on backend developer documentation. In 2021 Q1, the Content/IA team wants to build "MVP V2."
+In 2021 Q1, the Content team populated the Platform Website with persona-based landing pages.  In 2021 Q3, we aim to have Platform teams begin populating the Platform Website.  To do that, in Q2, the Content team needs to create an IA so Platform Teams know in which Confluence spaces they need to put their information.  This document outlines our the recommended IA.
 
 This decision primarily impacts the scope of the Migrate Initiative.  However, the scope of the Migrate Initiative does have resource implications on the Plan Initiative.
 
