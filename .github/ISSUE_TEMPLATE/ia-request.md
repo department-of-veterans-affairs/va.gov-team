@@ -10,7 +10,7 @@ assignees: mnorthuis, shiragoodman
 Work with VSP Information Architecture experts to finalize the IA of your product for VA.gov
 
 ## When to use this: 
-After Design Intent, when you’re beginning to understand the user flow.
+After you have received a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed. 
 
 ## Requested artifacts:
 *Provide artifacts as available. If not available at the time this issue is created, please add information as it becomes available.*
