@@ -2,7 +2,7 @@
 
 ## Mapping the health landscape 
 ### Products, people, and systems
-In November 2020, we wanted to understand how Veterans think about health care, as well as the fragmented ecosystem Veterans and caregivers must navigate to get health care and disability benefits. This would help us modernize digital health by informing our overall strategy and our product, design, content, and user research thinking. We started by:
+In late 2020, we wanted to understand how Veterans think about health care, as well as the fragmented ecosystem Veterans and caregivers must navigate to get health care and disability benefits. This would help us modernize digital health by informing our overall strategy and our product, design, content, and user research thinking. We started by:
 * Interviewing our partners/stakeholders working on things related to health, and 
 * Mapping [VA's health products, people, and systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
 
