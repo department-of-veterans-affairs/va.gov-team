@@ -32,6 +32,6 @@
 - Develop and refine content (across writers/editors/reviewers) before it is populated into the CLP template via CMS
 - Have a visual reference for each panel -- eliminating some of the confusion encountered in the CMS AX
 - Enable easy copy-paste in the build, leaving only the addition of  "media" elements -- photos, PDFs, video, events -- as the "complex" task in building a CLP.
-
 2. Would like for the front-end UX to be more colorful -- e.g. go back to the blue-white-blue-white alternating backgrounds for the panels.
+3. Would like the ability to share a preview URL to internal VA stakeholders for approval before publish.
 
