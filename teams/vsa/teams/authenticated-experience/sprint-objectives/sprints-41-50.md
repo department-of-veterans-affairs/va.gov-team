@@ -350,7 +350,7 @@ FE
 
 **Design**
 
-- Finish design, if not already done
+- Finish design, if not already done (including any suggested updates from the design intent collab)
 - Finalize content, if not already done
 - Work with AJ to submit for the IA review
 - Design documentation for frontend
@@ -363,7 +363,7 @@ FE
 
 **Design**
 
-- Finish design, if not already done
+- Finish design, if not already done (including any suggested updates from the design intent collab)
 - Finalize content, if not already done
 - Work with AJ to submit for the IA review
 - Design documentation for frontend
