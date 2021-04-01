@@ -13,7 +13,8 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 - Product iterations
   - [Pre "Platform Website": The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [V1: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-  - [V2: Persona landing pages](https://va-platform-docs.scrollhelp.site/index.html)
+  - [V2: Persona landing pages](https://va-platform-docs.scrollhelp.site/getting-started/)
+  - [V3: In-progress](https://va-platform-docs.scrollhelp.site/index.html)
 - 2021 Q1 product initiatives
   - The "Plan" Initiative: [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375)
   - The "Migrate" Initiative: [Documentation Site — Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060)
