@@ -42,6 +42,7 @@ Keep pace (remain agile) but ensure safeguards/rails are in place to mitigate of
 6. Back end datasets are not always consistent across environments. There are times when data cannot be synced quickly enough in the Staging environment and is not present on review instances. (Mark Viterna - Lighthouse Team)
 7. One long-standing issue we’re painfully aware of on the Facilities team is that the staging API uses a subset of PPMS data, which leads to very different search results for community care providers. That’s not likely to change. (Michael Pelz-Sherman - Facilities Team)
 8. Worth noting: Review instances are difficult for those without engineering backgrounds to get into due to having to configure the SOCKS proxy. This is reducing their value as a development and review tool because some folks have been relying on developers to send updated screenshots or finding other mean to share their early-stage work. (More [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11629))
+9. Stable and reliable review instances would solve a lot of engineer testing problems and requirements, however a clear communication chain has not been established. Who owns these instances? Who fixes them when they break, or ensures they are working properly? Do they operate with a working FE + BE together to test changes that require both environments?
 
 ## Feature Flag Challenges 
 ### Top level challenges with Feature Flag implimentation: 
