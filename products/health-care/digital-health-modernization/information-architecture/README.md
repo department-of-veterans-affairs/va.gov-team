@@ -2,7 +2,7 @@
 
 ## Mapping the health landscape 
 ### Products, people, and systems
-We mapped health products, projects, business partners, and...
+We mapped VA's health products, people, and systems.
 
 **Xxxxxx**
 Xxxxx 
