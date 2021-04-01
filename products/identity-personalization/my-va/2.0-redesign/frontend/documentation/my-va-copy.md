@@ -28,26 +28,26 @@ VA benefits you might be interested in
 ### Health care
 With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
 
-{CTA button} 
-Apply for VA health care
+{Link} 
+Learn how to apply for VA health care
 
 ### Disability compensation
 With VA disability benefits, you can get disability compensation for an illness or injury that was caused, or made worse, by your military service.
 
-{CTA button} 
-File a disability claim
+{Link} 
+Learn how to file a VA disability claim
 
-### Education benefits
-VA education benefits help Veterans, service members, and their qualified family members with needs like finding the right school or training program and paying tuition.
+### Education and training
+With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
  
-{CTA button} 
-Apply for education benefits
+ {Link} 
+Learn how to apply for education benefits
 
 
 
 ## A user who has everything
 
-[Everything InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/444258310_My_VA_Desktop)
+[Everything InVision](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)
 
 Your disability rating: 40% service connected 
 
