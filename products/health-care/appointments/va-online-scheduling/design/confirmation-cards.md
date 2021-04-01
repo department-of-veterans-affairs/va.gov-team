@@ -50,13 +50,13 @@ The example below is for Office visit and displays as VA APPOINTMENT. User has a
 
 Click on the "Show more" link to reveal additional information about the request. It toggles from "Show more" to "Show less". Once expanded, it will display reason for visit and contact details.
 
-It displays best time be contacted:
+It displays best time be contacted under contact details:
 
 * Morning
 * Afternoon
 * Evening
 
-If all three times are selected, it shows "Anytime during the day" under contact details
+If all three times are selected, it shows "Anytime during the day"
 
 ![requested-va-show-more](confirmation-cards/confirmation-request-va-office-visit-show-more.png)
 
