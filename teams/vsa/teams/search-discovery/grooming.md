@@ -20,6 +20,7 @@
 
 ***DISCUSSION TOPICS:*** 
 
+ - [ ] Current Deployment Safeguards + Impact
  - [ ] Typeahead Suggestion List Status Update + Next Steps
  - [ ] Search:gov 4/5 Meeting Agenda 
  - [ ] Sitemap Next Steps (Metalsmith Plug in + Non-Canonical URLs)
