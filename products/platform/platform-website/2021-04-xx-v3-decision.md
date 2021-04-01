@@ -17,7 +17,7 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
   - [V3: In-progress](https://va-platform-docs.scrollhelp.site/index.html)
 - 2021 Q1 product initiatives
   - The "Plan" Initiative: [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375)
-  - The "Migrate" Initiative: [Documentation Site — Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060)
+  - The "Develop IA" Initiative: [Platform Website — Develop IA for Platform Website](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/22189)
 - [Service Design's customer segmentation Sprint 44 demo deck](https://docs.google.com/presentation/d/15daYy7HREWQKwyQFPIbdWPX0grFhwbrLasmsnZSSP38/edit#slide=id.p2)
 
 
