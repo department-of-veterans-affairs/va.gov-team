@@ -33,5 +33,5 @@
 - Have a visual reference for each panel -- eliminating some of the confusion encountered in the CMS AX
 - Enable easy copy-paste in the build, leaving only the addition of  "media" elements -- photos, PDFs, video, events -- as the "complex" task in building a CLP.
 
-2. Wants the ability to allow users to sign up for newsletter
+2. Would like for the front-end UX to be more colorful -- e.g. go back to the blue-white-blue-white alternating backgrounds for the panels.
 
