@@ -10,12 +10,6 @@
 
 ### User Testing Session 2 - Tanekwa Bournes, VBA
 
-Minor Tweaks Observations
-
-1. "Enable this page segment" checkbox -- change to "Use this Panel"
-2. What You Can Do Panel needs more required fields -- right now, user can half format and SAVE (see Tanekwa's build in preview)
-3. Where is alt.text for images and video
-
 **Product Iteration Themes**
 
 1. Would like ability to re-arrange the panels
@@ -24,14 +18,20 @@ Minor Tweaks Observations
 
 ### User Testing Session 3 - Bronwynn Emmet, OPIA
 
-Minor Tweaks Observations
-
-1.  Promo -- why calling it a promo -- it's a "story" teaser and link
-2. 
-3. 
-
 **Product Iteration Themes**
 
 1. Audiences -- by specifying, this could be perceived as exclusionary.   (Note: Should we make this Audience section optional?)
 2. Wants the ability to allow users to sign up for newsletter
-3.
+
+
+### User Testing Session 4 - Jessica Austin-Ashley, VHA
+
+**Product Iteration Themes**
+
+1. It would be ideal if we provided a Word doc template that would specify (with visual reference) the content requirements/fields (with character count) for every Panel in the CLP template.  This would allow VA digital comms teams to:
+- Develop and refine content (across writers/editors/reviewers) before it is populated into the CLP template via CMS
+- Have a visual reference for each panel -- eliminating some of the confusion encountered in the CMS AX
+- Enable easy copy-paste in the build, leaving only the addition of  "media" elements -- photos, PDFs, video, events -- as the "complex" task in building a CLP.
+
+2. Wants the ability to allow users to sign up for newsletter
+
