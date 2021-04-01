@@ -22,31 +22,46 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 In 2021 Q1, the Content team populated the Platform Website with persona-based landing pages.  In 2021 Q3, we aim to have Platform teams begin populating the Platform Website.  However, we cannot have simultaneously maintain Platform Website and Home Page MVP, as we would then have two sources of truth re: how to build on the VA.gov Platform.  Here are the options we see in deprecating the Home Page MVP.
 
-
 ## Paths forward
 
-All options would be followed by the release plan outlined in [Documentation Site — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
+All options would be followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
 
-### Option 1 (recommended by the Content/IA team): Create persona-based landing pages with exit page tracking to GH, instead of content transformation
+### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources - targeting end-of-April
 
-Migrate and apply tracking on the viable links from The Home Page MVP, creating landing pages following the personas from the customer segmentation research, to inform product-based IA.
+#### Option 1a (recommended by the Content Team): Move V2's "Designer landing page" and distribute all V1 content amongst V3 content sources
+
+Outcome: The V3 portal page will reflect all content sources contain content.
+
+Steps:
+1. Move the [V2 designer landing page](https://va-platform-docs.scrollhelp.site/getting-started/Designer-guide.970654156.html) to [V3's](https://va-platform-docs.scrollhelp.site/index.html) "Research and Design" content source.
+2. Make sure we have accounted for all links from the Home Page MVP, in V3.  
+3. Add redirect verbiage to the Home Page MVP.
 
 This allows us to:
 
-- **Understand what people are clicking on:** We hypothesize that knowing the info our audience is seeking will allow us to have a better idea of what content to transform.
-- **More thoroughly develop our Plan Initiative:** We hypothesize that going light on the migration will allow us more time to iterate on a Q2-and-beyond plan with VSP PMs.
 
+#### Option 1b: Move V2's "Designer lading page" into a single V3 "Research and Design" content source
 
-_Considerations:_
-- Scroll Viewport landing pages that point to GitHub pages might lead to disjointed reading experience.
-- Because pages will be in GitHub, we don't have a full view of a person's "complete click path," but we can stitch together understanding to inform IA based on that click info along with user interviews/surveys and search queries.
+Outcome: The V3 portal page will reflect a single content sources.
 
-### Option 2: Follow practice area-based IA, migrate all viable content, and transform a subset of documents
+Steps:
+1. Move the [V2 designer landing page](https://va-platform-docs.scrollhelp.site/getting-started/Designer-guide.970654156.html) to [V3's](https://va-platform-docs.scrollhelp.site/index.html) "Research and Design" content source.
+2. Break up the [V1 Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/) into the appropriate [V3](https://va-platform-docs.scrollhelp.site/index.html) content sources. 
+3. Make sure we have accounted for all links from the Home Page MVP, in V3.  
+4. Add redirect verbiage to the Home Page MVP.
+
+This allows us to:
+
+### Option 2: Move the Follow practice area-based IA, migrate all viable content, and transform a subset of documents
 
 Migrate home- and top-level pages from The Home Page MVP.
 
 - **All viable content from The Home Page MVP will be reflected on the Platform Docs MVP2 landing page:** We will be bound by the same practice-based IA, that does not follow the customer segmentation research.
 - **We would not be able to thoroughly develop our Plan Initiative:** The Content/IA team does not have the subject matter expertise in isolation - we would have to rely heavily upon other VSP teams to dedicate time to working with us on content transformation.  Time spent on collaborating with other teams' ICs means time _not_ spent on developing our Q2-and-beyond plan.
+
+### Option 3: Deprecate the Home Page MVP without any redirection
+
+We hypothesize 
 
 ## Decision
 
