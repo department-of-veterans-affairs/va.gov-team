@@ -3,6 +3,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 ## Research Questions
 ### Overall
 * Why do Veterans come to VA.gov? With what goals/tasks in mind?
+* Do Veterans read/notice/click on the banner content on the home page?
 * How do Veterans currently try to find what they’re looking for on VA.gov?
   * What have they looked for recently and how? 
     * Search and/or browse?
