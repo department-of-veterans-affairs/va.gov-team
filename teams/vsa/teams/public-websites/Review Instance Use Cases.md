@@ -39,8 +39,9 @@ Keep pace (remain agile) but ensure safeguards/rails are in place to mitigate of
 3. Off Cycle Deployments: There should be some sort of shortening of the build + ceremony processes for off cycle issues (See off-cycle pain points)
 4. Time on Staging: Time on Staging is not a feasible window for review and validateion. It would be optimal to have at least 24 hours of testing on staging before things get push to production environment. 
 5. Need a Sandbox Environment:  A sandbox environment would allow for more bake time in staging in order to reduce the amount of off-schedule deployments, validate builds and code in depth and ensure safe integration once promoted to production environment. 
-6. Back end datasets are not always consistent across environments. There are times when data cannot be synced quickly enough in the Staging environment and is not present on review instances.
-7. Worth noting: Review instances are difficult for those without engineering backgrounds to get into due to having to configure the SOCKS proxy. This is reducing their value as a development and review tool because some folks have been relying on developers to send updated screenshots or finding other mean to share their early-stage work. (More [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11629))
+6. Back end datasets are not always consistent across environments. There are times when data cannot be synced quickly enough in the Staging environment and is not present on review instances. (Mark Viterna - Lighthouse Team)
+7. One long-standing issue we’re painfully aware of on the Facilities team is that the staging API uses a subset of PPMS data, which leads to very different search results for community care providers. That’s not likely to change. (Michael Pelz-Sherman - Facilities Team)
+8. Worth noting: Review instances are difficult for those without engineering backgrounds to get into due to having to configure the SOCKS proxy. This is reducing their value as a development and review tool because some folks have been relying on developers to send updated screenshots or finding other mean to share their early-stage work. (More [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11629))
 
 ## Feature Flag Challenges 
 ### Top level challenges with Feature Flag implimentation: 
