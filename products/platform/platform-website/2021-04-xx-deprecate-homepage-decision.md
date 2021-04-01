@@ -25,7 +25,7 @@ In 2021 Q1, the Content team populated the Platform Website with persona-based l
 
 ## Paths forward
 
-All options would be followed by the release plan outlined in https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376.
+All options would be followed by the release plan outlined in [Documentation Site — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
 
 ### Option 1 (recommended by the Content/IA team): Create persona-based landing pages with exit page tracking to GH, instead of content transformation
 
