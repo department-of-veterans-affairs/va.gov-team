@@ -1,6 +1,6 @@
 # How would we build towards "V3" in 2021 Q2?
 
-This doc provides context to make a decison around the actions needed to achieve Platform Website V3.
+This doc provides context to make a decison around the actions needed to deprecate the Home Page MVP.
 
 _Authors:_ Liani Lye and Gretchen Maciolek, Platform Team: Content/IA
 
@@ -11,7 +11,7 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/platform-website-product-outline.md)
 - Product iterations
-  - [Pre "Platform Website": The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
+  - [Pre "Platform Website": The old, practice area-based "Home Page MVP"](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [V1: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
   - [V2: Persona-based landing pages](https://va-platform-docs.scrollhelp.site/getting-started/)
   - [V3: In-progress](https://va-platform-docs.scrollhelp.site/index.html)
@@ -20,16 +20,12 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 ## Context
 
-In 2021 Q1, the Content team populated the Platform Website with persona-based landing pages.  In 2021 Q3, we aim to have Platform teams begin populating the Platform Website.  To do that, in Q2, the Content team needs to create an IA so Platform Teams know in which Confluence spaces they need to put their information.  This document outlines our the recommended IA.
-
-This decision primarily impacts the scope of the Migrate Initiative.  However, the scope of the Migrate Initiative does have resource implications on the Plan Initiative.
-
-The goals of all of the following options are to (a) create a comprehensive and trustworthy entry point to Platform Documentation, aka Platform Docs MVP2.  This allows us to (b) retire The Home Page MVP.
+In 2021 Q1, the Content team populated the Platform Website with persona-based landing pages.  In 2021 Q3, we aim to have Platform teams begin populating the Platform Website.  However, we cannot have simultaneously maintain Platform Website and Home Page MVP, as we would then have two sources of truth re: how to build on the VA.gov Platform.  Here are the options we see in deprecating the Home Page MVP.
 
 
 ## Paths forward
 
-Both options would include **Socializing Platform Docs MVP2 to VFS teams:** The Content/IA team socialized The Home Page MVP in early 2020, but usage is still low.  We hypothesize that boosting familiarity and usage of Platform Docs will allow us to see more trends and... (next point)
+All options would be followed by the release plan outlined in https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376.
 
 ### Option 1 (recommended by the Content/IA team): Create persona-based landing pages with exit page tracking to GH, instead of content transformation
 
