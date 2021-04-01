@@ -8,6 +8,8 @@ We wanted to understand how Veterans think about health care, as well as the fra
 
 We found a number of teams working on similar — or the same — functionality, as shown on the map of [products, people and systems](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). For example, both My HealtheVet and the Cerner system have patient portals. Cerner's is called "My VA Health." 
 
-**Xxxxxx**
-Xxxx xxxx
+### User interactions
+Ways to interact with VA for health care. 
+
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1602782394969/9006b3abe87a8028de50c3f089378dfe00269a5b
 
