@@ -5,6 +5,8 @@ Tressa Furner, VSA Authenticated Experience - Interview with Trevor Pierce on Ap
 
 Assistive tech research is the same as non-assitive tech research - you can use the same plan.  There may be some nuance in language in how you frame the task or question for users. 
 
+Example research plan (I will attach when I get this from Trevor)
+
 ### 2. How do we recruit for assistive tech?
 
 Testing for about 5-8 people for assistive tech will work.  Recruiting for inclusive research guidelines can be seen [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/inclusive-research-recommendations.md#guidelines-for-inclusive-research-recruiting)
@@ -31,7 +33,7 @@ No. Screen readers are the main thing that we’ve recruited for, at this time w
 
 A11y can help with dry runs to make sure any tech hiccups are worked out before the test and then the team can run the whole test. 
 
-### 7. Can we do it in staging? Or does this need to be test in production?
+### 7. Can we do it in staging? Or does this need to be tested in production?
 
 If you are testing with **NO** real user information then it can be done in staging.
 
