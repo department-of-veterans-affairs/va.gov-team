@@ -9,7 +9,7 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 ## Platform Documentation artifacts
 
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/platform-website-product-outline.md)
 - Product iterations
   - [Pre-2020-Q4: The old, practice area-based Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [Platform Docs MVP: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
