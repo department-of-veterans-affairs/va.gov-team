@@ -16,6 +16,30 @@
 
 </details>
 
+## April 1 , 2021
+
+***DISCUSSION TOPICS:*** 
+
+ - [ ] Typeahead Suggestion List Status Update + Next Steps
+ - [ ] Search:gov 4/5 Meeting Agenda 
+ - [ ] Sitemap Next Steps (Metalsmith Plug in + Non-Canonical URLs)
+
+***GROOMING***
+ - [ ] [POC2] Run 4/10-4/25 (TBD)
+ - [ ] [Results Page Redesign] Final design iterations (TBD)
+ - [ ] [Results Page Redesign] Meet with Ryan, Meg &  Shawna (TBD)
+ - [ ] [Results Page Redesign] Dev Exploration to optimize/rebuild search (TBD)
+ - [ ] [Click Tracking for Best Bets] Implementation #22131
+ - [ ] [Sitemap] Con't Google Search Console Exploration (#21795)
+ - [ ] [Analytics] Due to dashboard delay, acquire GA Reports to focus on Global Search (TBD)
+
+ ***NEXT STEPS/ACTIONS:***
+ - TBD
+
+
+ ***INITIATIVE STATUS***
+ - *After Grooming PM will add a snapshot of our current initiative status*
+
 ## March 18, 2021
 
 ***DISCUSSION TOPICS:*** 
