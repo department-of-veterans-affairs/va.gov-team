@@ -34,6 +34,7 @@
         - **Leave VetLink active for a while and connect MVP to that.**
         - **Connect to VeText. VeText already did a lot of this work for “I am here?”**
         - **Salesforce. Discussed the work done with the Cleveland Call Centers and how that could be leveraged.**
+        - **VistA Scheduling**
         - **Another tool.**
 - What do we mean by appointment in the MVP list? What about labs, which could just be a walk-in?
   - What about imaging? Are those actual appointments or do they take walk-ins as well? What is the check-in process for imaging?
