@@ -165,6 +165,7 @@ Great. Thank you. We have another prototype that we would love to get your feedb
 
 *   Looking at the two experiences, was there one option that worked better for you? Why? 
 *   After you responded to the Slack workflow, what would you expect to happen next? 
+*   (COMMENT FROM NAOMI) At this point, after you're finished helping someone, if you think that a document could be updated or created to help someone else, would you be willing to note what you found so it could be updated later? 
 *   Any questions for me? 
 
 
