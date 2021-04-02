@@ -19,13 +19,13 @@
 
 ***Priority 2's - for v. 1.0 of CLP***
 
-**3. Add a Newsletter Sign-up feature as an optional Panel or optional component within a Panel**
+**4. Add a Newsletter Sign-up feature as an optional Panel or optional component within a Panel**
 - This would have integration to [GovDelivery](https://admin.govdelivery.com/session/new)
 
-**4. Build logic to support alternating blue/white background**
+**5. Build logic to support alternating blue/white background**
 - This to improve appeal and scannability/readability of CLP
 
-**5. Allow CLP to re-order optional Panels**
+**6. Allow CLP to re-order optional Panels**
 - This to enable more flexible editorial experience
 
 ***Priority 3's - Ice Box***
