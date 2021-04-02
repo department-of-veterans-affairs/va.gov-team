@@ -62,6 +62,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Have you ever seen them in a VA location?
       - If yes, 
         - Why do you prefer other methods for check-in?
+        
   - If no or yes (so everyone)...
     - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks. (Prototype: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm)
       - First, we'll pretend you are checking in for your appointment with your primary care provider. 
@@ -147,13 +148,13 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - What are you thoughts on this workflow? 
         - [Researcher note: you can stop screensharing now.]
   
-- If the Veteran answered yes, they have used the kiosk...  
-  - Have you used the kiosk for anything else that I haven’t asked you about yet?
-    - If yes,
-      - How would you describe that experience?
-        - What did you like about it?
-        - What did you not like about it? 
-  - What would you would like to change about the kiosks?
+  - If the Veteran answered yes, they have used the kiosk...  
+    - Have you used the kiosk for anything else that I haven’t asked you about yet?
+      - If yes,
+       - How would you describe that experience?
+         - What did you like about it?
+          - What did you not like about it? 
+    - What would you would like to change about the kiosks?
 
 ## (Could skip) In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
