@@ -168,7 +168,6 @@ This is the bank account information we have on file for you. We’ll send your 
 
 * Bank routing number: ∙∙∙∙∙0000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 * Bank account number: ∙∙∙∙∙∙∙∙0000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
-* Bank name: { prefill if present }
 
 { end blue sidebar }
 
@@ -195,7 +194,6 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { bank check visual }
 
-* Bank name { text field, prefill if present. }
 *	Bank routing number (No more than 9 digits) (* Required) { text field, prefill if present. }
 *	Bank account number (No more than 17 digits) (* Required) { text field, prefill if present. }
 
