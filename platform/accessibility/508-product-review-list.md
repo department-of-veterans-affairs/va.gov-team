@@ -1212,6 +1212,7 @@ Back to [Table of Contents](#table-of-contents)
 - [[NIGHTWACH E2E]: Claims & Appeals - axeCheck must be updated in Applications / Pensions / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21804](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21804)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Public Websites - axeCheck must be updated in Site / Tests / Home / 00 Required E2e Spec or test converted to Cypress - #21805](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21805)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: VSP Testing Tools Team - Review CMS preview env axe-core injection for potential timing issue - #21866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21866)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [Convert Nightwatch sitemap a11y tests to Cypress - #22443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22443)<br/>**Opened:** March 31, 2021 | **Severity:** 508-enhancement
 
 ---
 
