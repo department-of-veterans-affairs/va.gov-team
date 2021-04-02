@@ -23,42 +23,9 @@ A digital image of your driver's license or passport,
 **or**
 The ability to answer certain questions based on private and public data (like your credit report or mortgage history) to prove you're you
 
-
-
 ## First Time User
 
 [FTUX InVision](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032787_My_VA_FTUX)
-
-### My VA
-Welcome to My VA, your personalized guide to the VA benefits and services you’ve earned. You can check the status of your in-progress claims and applications or manage your health care information, like appointments, prescriptions, and messages from your health care team.
-
-You can also get information about how to apply for and manage other VA benefits you may be eligible for.
-
-Go to your profile
-
-Apply for VA benefits
-
-VA benefits you might be interested in
-
-### Health care
-With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
-
-{Link} 
-Learn how to apply for VA health care
-
-### Disability compensation
-With VA disability benefits, you can get disability compensation for an illness or injury that was caused, or made worse, by your military service.
-
-{Link} 
-Learn how to file a VA disability claim
-
-### Education and training
-With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
- 
- {Link} 
-Learn how to apply for education benefits
-
-
 
 ## A user who has everything
 
@@ -66,79 +33,97 @@ Learn how to apply for education benefits
 
 Your disability rating: 40% service connected 
 
-Go to your profile
+Go to your profile (link)
 
 ### Claims and appeals
 
-- Disability compensation claim received [date]
-- Education benefits claim received [date]
-- Health care benefits claim received [date]
+- Title
+- Date
+- Status 
+- View details (link)
+- Manage all your claims and appeals (link)
+
  
 ### Health care section
 
-- Messages
-- Appointments
-- Prescriptions
- 
- 
-Links under health care cards:
+Appointments
 
-- 2 unread messages.
-- 6 upcoming appointments.
-- 3 prescription refills.
+- Next appointment
+- Date
+- Time
+- Location
+- Schedule and view your appointments (link)
  
-### Manage your health care benefits 
- 
-Links:
+Links in health care section
 
+- You have X unread messages **OR** Send a secure message to your health care team
+- Refill and track your prescriptions
 - Get your lab and test results
-- Get your VA medical record
+- Get your VA medical records
  
 ### Apply for VA benefits
 
-- applications in progress
-- You have no applications in progress
+- Applications in progress
+- Continue your application (link)
+- **OR** You have no applications in progress
 
-{CTA button} 
-Continue your application
 
-VA benefits you might be interested in
-
-### Education benefits
-VA education benefits help Veterans, service members, and their qualified family members with needs like finding the right school or training program and paying tuition.
- 
-{CTA button} 
-Apply for education benefits
+### VA benefits you might be interested in
 
 What benefits does VA offer?
+
+Explore va.gov to learn about the benefits we offer.
+
+▪   Health care 
+▪   Education and training
+▪   Disability compensation
+▪   Careers & employment
+▪   Pension
+▪   Housing assistance
+▪   Burials & memorials
+▪   Life insurance
+▪   Service member benefits
+▪   Family member benefits
+
+#### Health care
+With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
+
+{Link} 
+Learn how to apply for VA health care
+
+#### Disability compensation
+With VA disability benefits, you can get disability compensation for an illness or injury that was caused, or made worse, by your military service.
+
+{Link} 
+Learn how to apply for a VA disability claim
+
+#### Education and training
+With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
+ 
+{Link} 
+Learn how to apply for education benefits
 
 
 ## LOA3 user who has everything but has no updates
 
 [LOA3 InVision](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/443287787_My_VA_No_Updates)
 
+### Claims and appeals
+
+You have no claims or appeals updates in the last 30 days.
+
 ### Health care section
 
 #### Messages
-You have no new messages from your health care team.
+Send a secure message to your health care team. (link)
 
 #### Appointments
 You have no appointments scheduled in the next 30 days.
 
-#### Prescriptions
-You have no prescription refills or updates in progress.
-
 ### Apply for VA benefits
 
-- applications in progress
+#### Applications in progress
 - You have no applications in progress
-
-VA benefits you might be interested in
-
-What benefits does VA offer?
-
-Explore VA.gov to learn about the benefits we offer.
-
 
 ## Cerner
 
@@ -173,9 +158,9 @@ We’re sorry. Something went wrong on our end. If you get health care through V
 
 ### When we can't access appointment information
 
-**We couldn’t access your appointment information**
+**We can't access your appointment information**
 
-We’re sorry. Something went wrong on our end, and we couldn’t access your appointment information. Please try again later or go to the appointments tool:
+We’re sorry. Something went wrong on our end, and we can’t access your appointment information. Please try again later or go to the appointments tool:
 
 [Schedule and view your appointments]
 
