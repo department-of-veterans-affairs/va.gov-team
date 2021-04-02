@@ -3,8 +3,8 @@
 ## TL;DR
 
 ### VAMC
-1) create as blocked in prod with Content creator - VAMC role, which will carry them over to training environment as active during training
-2) activate in prod as Content creator - VAMC when they complete training and Stan gives us the OK
+1) create as blocked in prod with Content creator - VAMC and Content editor roles, which will carry them over to training environment as active during training
+2) activate in prod when they complete training and Stan gives us the OK
 3) add Content publisher role in prod when they are going to dual state (or live?) when Stan gives us the OK.
 See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
