@@ -30,26 +30,30 @@ When you’re signed in to your VA.gov account:
 
 **Note:** If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.  
 
-Sign in or create an account { button }   
+Sign in to start your application { button } 
+
+[Start your application without signing in]() 
 
 { end if logged out }  
 
 
 
-### Follow the steps below to apply for this program  
+### Follow these steps to apply  
 
 { subway map }  
 
-#### 1. Determine your eligibility  
+#### 1. Make sure you're eligible  
 
-**To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements below:**  
+**To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements listed here.** 
 
-* Be between ages 22-66;
-* Be unemployed as a result of the COVID-19 pandemic;
-* Not be eligible for any federal GI Bill program (if eligible for the Post-9/11 GI Bill, they must have transferred their benefits to family members -- thereby having no GI Bill eligibility for themselves);
-* Not be VA rated as totally disabled due to unemployability;
-* Not be enrolled in any other federal or state employment programs; or
-* Not be in receipt of any unemployment or CARES Act benefits.
+**All of these must be true.  You're:**
+
+* Between 22 and 66 years old;
+* Unemployed because of the COVID-19 pandemic;
+* Not eligible for GI Bill or VR&E benefits (or, if you're eligible for the Post-9/11 GI Bill, you've transferred your benefits to a family member);
+* Not rated as totally disabled because you can't work;
+* Not enrolled in a federal or state jobs program;
+* Not receiving unemployment or CARES Act benefits.
 
 
 #### 2. Prepare  
@@ -69,12 +73,12 @@ Complete this education benefits form.
 After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
 #### 4. VA review 
-We usually process claims within 30 days. We’ll let you know by mail if we need more information.  
+We usually make a decision within 30 days. We’ll let you know by mail if we need more information.  
 
 [Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)  
 
 #### 5. Decision
-If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
+If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the registrar's or financial aid office.
 
 If your application isn't approved, you’ll get a denial letter in the mail.
 
@@ -121,7 +125,7 @@ This is the personal information we have on file for you.
 
 { end if }
 
-### Chapter Title: Step 1 of 2: VRRAP Application
+### Chapter Title: Step 1 of 2: VRRAP application
 
 ### Applicant information
   
@@ -156,7 +160,7 @@ This is the personal information we have on file for you.
 
 { sub-head, grey heading box, reference: https://design.va.gov/patterns/form-templates#direct-deposit-form }
 
-This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
+This is the bank account information we have on file for you. We’ll send your housing payment to this account.
 
 { blue sidebar }
 
@@ -201,7 +205,7 @@ We make payments only through direct deposit, also called electronic funds trans
 
 I don't want to use direct deposit. { check box }
 
-**Note:** Any updates you make here to your bank account information won't change your existing accounts for VA education or health benefits.
+**Note:** Any updates you make here to your bank account information won't change existing accounts you've already set up for for your VA education or health care benefits.
 
 { help-link } What if I don’t have a bank account?  { end help-link }
 
@@ -209,22 +213,22 @@ I don't want to use direct deposit. { check box }
 
 The [Veterans Benefits Banking Program (VBBP)](https://veteransbenefitsbanking.org/) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
 
-To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. Once you have direct deposit set up, call the GI Bill Hotline: [888-442-4551]() 
+To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. After you have direct deposit set up, call the GI Bill Hotline at [888-442-4551](). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
 
-Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative who handles waiver requests. They can answer any questions or concerns you may have.
+Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative about waiver requests. They can answer any questions or concerns you may have.
 
 { collapse help content link }
 
 { end help-text}
 
-### Program selection
+### Program information
 
-* Have you picked a program you'd like to attend using VRRAP? (* Required) { Radio: yes or no }
-* What's the name of the program's provider? { free text }
+* Do you know which program you'd like to enroll in? (* Required) { Radio: yes or no }
+* What's the name of the school or training provider? { free text }
 * What's the name of the program? { free text }
-* What city is the program in? { free text }
-* What state is the program in? { free text }
-* Is the program in-person, online or both? { Radio: In-person , Online , "It's both in-person and online" }
+* Which city is the program in? { free text }
+* Which state is the program in? { free text }
+* Is the program in-person, online or both? { Radio: In-person , Online , "Both in-person and online" }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
@@ -236,21 +240,21 @@ ____________________________________________________
 
 ### Chapter Title: Step 2 of 2: Review application
 
-Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
+Please review the information below to make sure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
 
 { Summary Review / Edit functionality  }
 
-* VRRAP Application { accordion } 
+* VRRAP application { accordion } 
 
 #### Confirm you're eligible for VRRAP
 
 To be eligible for VRRAP, the 3 following statements must be true:
 
-* As of the date of this application, you are currently unemployed due to the COVID-19 pandemic.
-* You are not currently enrolled in a Federal or State jobs program, nor do you expect to be enrolled in such a program while training until VRRAP.
-* You will not receive unemployment compensation, including any cash benefit received pursuant to the CARES Act, while training under VRRAP.
+* As of the date of this application, you're currently unemployed due to the COVID-19 pandemic.
+* You're not currently enrolled in a federal or state jobs program, and you don't expect to be enrolled in one while using VRRAP.
+* You won't receive unemployment compensation, including any cash benefit received under the CARES Act, while training using VRRAP.
 
-I attest the statements above are true and accurate to the best of my knowledge and belief. { Radio: yes, no }
+The statements above are true and accurate to the best of my knowledge and belief. { Radio: yes, no }
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
