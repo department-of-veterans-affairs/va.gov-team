@@ -1,16 +1,53 @@
 # Incident Mitigation Plan
 
-## Background / problem
-Our codebase is monolithic and growing! As a result, it’s becoming more and more frequent that:
+## Problem
+
+Our codebase is monolithic and growing every day. As a result, it’s becoming more and more frequent that:
 - One team’s code, when deployed, breaks some other part of VA.gov
 - One team's bad automated test breaks the build for everyone
 - Workarounds for QA'ing things in a testing environment lead to code getting to prod before it's ready
 
-Then teams have to take the time to investigate, resolve, and coordinate an off-cycle deploy, and even when they get a PR for a fix in quickly, they have to wait 1+ hours for the build to run. This has happened a handful of times recently with the Public Website team's code.
+Then teams have to take the time to investigate, resolve, and coordinate an off-cycle deploy, and even when they get a PR for a fix in quickly, they have to wait 1+ hours for the build to run.
 
-The platform has a long term strategy for how to improve this: rearchitect our codebase, implement better isolation, improve our stability, and launch autonomous / anytime deployment. BUT! The soonest element of that long term strategy is at least 6 months away. **So what can we do in the interim to avoid these firedrills? What stop gaps do we need to get in place?**
+## Long term plan:
 
-## General notes
+- **A true testing environment** will enable VFS teams to easily review their work (without relying on review instances or feature toggles) before it goes to production
+    - will reduce # of firedrills that occur because because an error made it to prod
+    - will reduce # of production deployment delay requests because teams need more time to check their work in staging
+  
+- **Code isolation** will prevent one VFS team's work from breaking the build for everyone, and from impacting the larger site.
+    - will reduce # of firedrills that occur because a broken build is blocking everyone
+    - will reduce # of firedrills that occur because one team's code broke another part of the site
+
+- **Autonomous anytime deployment** will remove the need for a daily deploy at all -- VFS teams will be able to release whenever their want on their own.
+    - will remove the need for off-cycle deploys, thus completely ending those firedrills
+
+- **What else?**
+
+But the long term work won't bear fruit for another 6-12 months. So what can we do more immediately to mitigate these firedrills until we reach that better future state?
+
+## Short term plan:
+
+- **Faster FE and BE build time:** will make firedrills less painful when they happen, because fixes will get through faster. It'll also make staging changes render faster once master merges, so teams can use the full window to QA their work prior to the prod deploy. ETA mid April 2021.
+
+- **Content & app isolation:** separating the content build from the vets-website build is the first part of our larger code isolation initiative. This will.... ? ETA mid May. This will prevent content changes from accidentally messing up vets-website, and vice versa and should help with some of the public websites issues we've been seeing.
+
+- **Tiered QA pilot on Public Websites team:** will be a manual slowing down mechanism to more thoroughly check and get sign-off on work prior to merging to master for staging and prod. This should reduce the amount of times we have a firedrill because an issue is found post-deploy. 
+
+- **Extend the "_slow_ down so we don't get _shut_ down" message across OCTO-DE:** using the Public Websites process as a pilot, socialize the need for all VFS teams to take this approach. Getting Chris J to help spread awareness will help with buy-in. We know this is not ideal - if teams had a better testing option, and if they could deploy fixes on their own, we wouldn't need to slow down. But since we're not there yet, we need to rely on manual process in the interim.
+
+- **Updated documentation about review instances and staging** will help VFS teams better understand how they can leverage these options for testing purposes. Neither are ideal, but more clarity may help folks better use them, and thus do better QA -- thus reducing the volume of firedrills that come up because teams weren't ready for the daily deploy, or found an issue that needs fixing post-deploy. 
+ 
+- **GitHub issues for off-cycle deploy requests** will help capture details in one place better, and will act as a prompt for post mortems since we can't close the ticket until the post-mortem has been linked. Taking off cycle deploys more seriously in this way may encourage teams to check their work more thoroughly before merging to master, and thus may reduce the volume of firedrills that come up because of broken stuff post-deploy.
+    - This also includes updating and publishing the criteria for off-cycle deploys
+    - This also includes making the post-mortem template more clear and readily available
+
+---
+
+### Meeting notes 3/25
+
+
+#### General notes
 - We don't have really any QA standards
 - We're light on QA, we have 20 different ways we do automated testing, but we have 1 QA person for all of the teams on the VSA contract
 - This is relec of vets.gov times when teams were scrappy and PMs, engineers, designers would share the QA burden and review their stuff as a part of the ZenHub pipeline before a story would get released
@@ -25,7 +62,7 @@ The platform has a long term strategy for how to improve this: rearchitect our c
 - We do have automated testing abilities to catch the things that have been issues lately, but the tests don't exist. 
     - Well we do, but it's only a smoke test and we need to also have it as a build test
 
-## Ideas / brainstorming
+#### Ideas / brainstorming
 - **Manual process / workaround for "staging" to prevent un-reviewed things from going live**
     - "do not release until X person has seen it and tried it"
     - give OCTO-DE visibility into what is getting deployed
@@ -94,17 +131,12 @@ The platform has a long term strategy for how to improve this: rearchitect our c
     - Revert all PRs that cause tests to fail in `master` (slows VFS teams velocity, but keeps `master` in deployable state)
     - Require feature branches to be current with `master` before merge (might be impractical given current CI speed)
 
-
-## Which of these are short term /stop gap ideas we could discuss getting in place within a sprint?
-
-## Which of these are long term plans already on the roadmap?
-
-## Which of these are long term plans that aren't on a roadmap, but should be evaluated by OCTO-DE as something we should figure out how to do?
+#### Which of these are long term plans that aren't on a roadmap, but should be evaluated by OCTO-DE as a potential idea?
 - dev server so we can see things before they're merged to master
     - review instances / tugboat / or some other solution for previewing and demo'ing and QA'ing.
 - visual regression testing
 
-## 4/1 Notes
+### Meeting Notes 4/1
 - we have 2 options for QA right now: review instances, and staging
     - each has limitations and trade offs
     - staging connects with BE services
@@ -115,24 +147,3 @@ The platform has a long term strategy for how to improve this: rearchitect our c
 - Chris said he thought we had better rigour around this stuff
     - Other govt agencies have more rigour and are super slow and waterfall. Making us nervous that new people at VA come in, hear about these incidents, and they start to raise questions that hinder our ability to keep running this platform. If we need to slow down a little bit to add more precautions, then that may be a valuable trade off but we need to communicate that.
 - QA 
-
-
-## Actions
-
-Problem 1: One team’s code, when deployed, breaks some other part of VA.gov
-Problem 2: One team's bad automated test breaks the build for everyone
-Problem 3: Workarounds for QA'ing things in a testing environment lead to code getting to prod before it's ready
-
-In the long term
-
-**In the short term, **
-
-- Separate content build out - 2 sprints
-- Speed up FE Build time - 1 sprint (parallelization)
-- Speed up BE Build time - 1 sprint
-- Tiered QA pilot on Public Websites team (using review instances via SOCKS)
-- See how ^ goes, and write-up + message OCTO-DE wide, along w/messaging around slowing down so we don't get shut down
-- Updated documentation about review instances and staging and some low hanging fruit improvements
-- GItHub issues for better out of band deploy tracking, and post-mortem tracking
-- Lock down and publish criteria for out of band deploy
-- More clear post-mortem documentation/template
