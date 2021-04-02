@@ -1,4 +1,4 @@
-# How do we deprecate the Home Page in tandem with building out Platform Website V3?
+# When do we deprecate the Home Page in tandem with building out Platform Website V3?
 
 This doc provides context to make a decison around _if_ we deprecate the Home Page MVP in conjunction with building out Platform Website V3.
 
