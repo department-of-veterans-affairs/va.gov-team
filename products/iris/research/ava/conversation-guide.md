@@ -85,7 +85,7 @@ In order to get the most out of this session, I would like to be able to see you
 If you needed to reach out to VA to ask a question about a debt waiver, how would you go about doing that?
 *If necessary, guide them to the “Ask a question online” link. Once the page loads, proceed.*
 
-**Scenario 2 (School Certifying Officials)**
+**Scenario 2 (School Certifying Officials only)**
 *Send them a link via the zoom chat to [https://www.va.gov/](http://www.va.gov)*
 
 If you needed to reach out to VA to ask a question about how to upload a document on behalf of a veteran, how would you go about doing that?
@@ -95,7 +95,7 @@ If you needed to reach out to VA to ask a question about how to upload a documen
 
 As you walk through the process of submitting an inquiry, please think out loud. Let us know of any problems or questions you have. Again, we are not testing your ability to fill out the form, we’re testing whether or not the form is easy to use.
 
-Imagine you accessed this page in order to ask the VA a question in regards to your GI bill.
+Imagine you accessed this page in order to ask the VA a question about (refer to scenario 1 or 2 depending on tester).
 * Can you walk me through how you would submit a question?
 * What is confusing about this inquiry form?
 * What questions do you have on how to fill it out?
