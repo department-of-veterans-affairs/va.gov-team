@@ -99,11 +99,10 @@ We put together a prototype that we would love to get your feedback on.
 
 
 
-*   Let's say you are working as the support person and moderating the #vfs-platform-support Slack channel. I will be acting as the VFS team member and submit the request. Can you show me how you respond and support this request by starting a thread? (Submit form)
+*   Let's say you are working as the support person and moderating the #vfs-platform-support Slack channel. I will be acting as the VFS team member and submit the request. (COMMENT)Would you mind sharing your screen so you can show me how you respond and support this request by starting a thread? (Submit form)
 
 
 ### Things to watch for:
-
 
 
 *   Is the Slack post easily understandable? 
