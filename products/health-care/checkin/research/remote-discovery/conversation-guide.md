@@ -57,7 +57,6 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Is there anything else we should know about checking in to virtual appointment?
 
 ## Kiosk (25 minutes)
-- Prototype to show during this portion of the test: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm
 - _If they didn’t mention a kiosk above, confirm that they have utilized these machines._ Have you ever used one of the check-in kiosk machines at the VA?
   - If no…
     - Have you ever seen them in a VA location?
@@ -84,11 +83,49 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - [Click "Continue"]
         - This screen may show you directions on where to go next, such as what waiting area. [Click "Continue"]
         - Then, you are checked in. 
-        - What are your thoughts about this workflow? I also want to hear about how you current complete this task instead.
+        - What are your thoughts about this workflow? I'm also interested to hear about how you currently complete this task instead.
       - Next, we'll look at checking in for a lab test.
+        - [Click "Lab Check-in" at the bottom of the screen]
+        - [Click "Lab Check-in" button]
+        - You can pick from a few different types of tests that you need that day. [Click "Blood Draw"]
+        - Then, the system will print out a physical ticket for you to take to the waiting room. You would wait until they call the number on the ticket to have your test. [Click "Continue"]
+        - Now, you are checked in for a lab test.
+        - Have you ever had a lab test at the VA? 
+          -  If yes, what was the experience like?
+        - What are your thoughts about this workflow?
       - Now, we'll check in for pharmacy
-      - Updating your next of kin
+        - [Click "Pharmacy Check-in"]
+        - [Click "Pharmacy Check-in"]
+        - You can select what you need from the Pharmacy. [Click "Pick Up Medications"]
+        - Again, the system will print out a physical ticket. You would wait until they call the number on your ticket to be helped at the Pharmacy. [Click "Continue"]
+        - You are all checked in.
+        - Have you ever interacted with the Pharmacy at the VA?
+          - If yes, what was the experience like?
+        - What are your thoughts on this workflow?
+      - Now, we'll update your next of kin
+        - [Click "Updating Next of Kin"]
+        - [Click "Edit" next to Next of Kin]
+        - [Click "Continue"]
+        - [Click "Spouse"]
+        - Now, you updated your Next of Kin.
+        - Have you ever updated your Next of Kin at the VA?
+          - If yes, what was the experience like?
+        - What are you thoughts on this workflow? 
       - Lastly, we'll file a Beneficiary Travel Mileage request
+        - [Click "Beneficiary Travel Mileage"]
+        - Have you ever filed for Beneficary Travel Mileage?
+          - If yes, what was the experience like? [Note if they went to the actual Beneficary Travel office.]
+          - If no, You can file for reimbursement for the miles that you drive to the VA when you have an appointment.
+        - [Click "Last 30 Days"]
+        - [Click anywhere on the calendar]
+        - You can select more than one date to turn in at a time. [Click "Continue"]
+        - [Click "Confirm"]
+        - Now, you'd review that all of these items are true. [Click "Yes"]
+        - And you'd sign the agreement notice. [Click "Yes"]
+        - Then, you would like sign to authorize the application [Click "Continue"]
+        - You application was successful. [Click "Continue"]
+        - What are you thoughts on this workflow? 
+        - [Researcher note: you can stop screensharing now.]
   - If yes...
     - I now want to show you a few kiosk screens before I ask more questions about kiosks. _Share my screen and go through a prototype of the main appointment kiosk sign-in and check-in workflow with contact information. After showing them the workflow…_
       - Does this look familiar?
