@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-# What would "V3" look like at the end 2021 Q2?
+# What would Platform Website's V3 look like at the end 2021 Q2?
 
 This doc provides context to make a decison around the scope of our Platform Website V3.
 
@@ -28,11 +28,7 @@ In 2021 Q1, the Content team populated the Platform Website with persona-based l
 
 All options would be paired with deprecating the Home Page MVP, described in this ["How do we deprecate the Home Page in tandem with building out "V3?"" decision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-04-xx-deprecate-homepage-decision.md).
 
-followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
-
-### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources - targeting end-of-April
-
-#### Option 1a (recommended by the Content Team): Move V2's "Designer landing page" and distribute all V1 content amongst V3 content sources
+### Option 1 (recommended by the Content Team): Move V2's "Designer landing page" and distribute all V1 content amongst V3 content sources
 
 Outcome: The V3 portal page will reflect multiple content sources, all which contain content.
 
@@ -44,7 +40,7 @@ Steps:
 3. Add redirect verbiage to the Home Page MVP.
 
 
-#### Option 1b: Move V2's "Designer lading page" into a single V3 "Research and Design" content source
+### Option 2: Move V2's "Designer lading page" into a single V3 "Research and Design" content source
 
 Outcome: The V3 portal page will reflect a single content sources.
 
@@ -55,11 +51,8 @@ Steps:
 4. Add redirect verbiage to the Home Page MVP.
 
 
-### Option 2: Deprecate the Home Page MVP, without any redirection to the Platform Website
+### Option 3: asdf
 
-After looking at the Home Page MVP's usage data, we cannot confirm that _no one_ uses the site.  
-
-We hypothesize that leaving the Home Page MVP live until we are able to direct to the Platform Website will minimize the possibility that customers cannot find the information they need.
 
 ## Decision
 
