@@ -2,7 +2,7 @@
 
 ## Overview
 
-Currently, we don't have a good way to categorize or gather data about support requests. We've started using a [google sheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit?pli=1#gid=1793382735) to capture this data to help inform future decisions around team's capacity and roadmaps.
+Currently, we don't have a good way to categorize or gather data about support requests. We've started using a [google sheet](https://docs.google.com/spreadsheets/d/1BmFJKmkJsgXaj_kebn16veLVJ5H52wlCjmbpS5JdXKo/edit#gid=769438914) to capture this data to help inform future decisions around team's capacity and roadmaps.
 
 ## Problem Statement
 
