@@ -26,5 +26,6 @@ If we had a standardized way to log customer support requests and all customer-f
 ## Solutions
 
 ### V1 Support Bot
--[Support Tracker User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/support-tracker-user-guide.md)
--[Bot Commands](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/bot-commands.md)
+-[Support Tracker User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/support-tracker-user-guide.md)<br>
+-[Bot Commands](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/bot-commands.md)<br>
+-[Design Doc](https://docs.google.com/document/d/1WD0sRAak8-r4kI85uYl0K6KaVGkAGKWVsH4fbuCsKCc/edit#heading=h.sxwcrifdl3fs)
