@@ -16,9 +16,7 @@
 |LOA3 user has logged-in for the first time after verifying their identity |User is shown links related to filing a claim, applying for healthcare, and applying for education benefits "|**Tze can create a new user and verify their identity**|
 
 
-### Test cases for "Disability Rating"
-
- [Name Tag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
+### Test cases for ["Disability Rating"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
 
 |Test case|Intended outcome|Staging User|
 |----|----|----|
