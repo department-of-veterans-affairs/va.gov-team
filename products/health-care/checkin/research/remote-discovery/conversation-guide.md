@@ -85,10 +85,10 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - This screen may show you directions on where to go next, such as what waiting area. [Click "Continue"]
         - Then, you are checked in. 
         - What are your thoughts about this workflow? I also want to hear about how you current complete this task instead.
-      - Checking in for a lab
-      - Checking in for pharmacy
+      - Next, we'll look at checking in for a lab test.
+      - Now, we'll check in for pharmacy
       - Updating your next of kin
-      - Filing a Beneficiary Travel Mileage request
+      - Lastly, we'll file a Beneficiary Travel Mileage request
   - If yes...
     - I now want to show you a few kiosk screens before I ask more questions about kiosks. _Share my screen and go through a prototype of the main appointment kiosk sign-in and check-in workflow with contact information. After showing them the workflow…_
       - Does this look familiar?
