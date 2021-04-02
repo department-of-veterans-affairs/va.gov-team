@@ -2,7 +2,7 @@
 
 ### Feature/Template Enhancements
 
-***Priority 1's - Must be for MVP launch ***
+***Priority 1's - Required for MVP launch***
 
 **1. Audience tags**
 - Need to make specifying audience tags more rigid -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
@@ -15,7 +15,6 @@
 
 **3. Provide the ability to share a preview of the CLP with internal (VPN) VA stakeholders**
 - This would support stakeholder review and/or approval before publication
-
 
 ***Priority 2's - for v. 1.0 of CLP***
 
