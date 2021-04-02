@@ -26,7 +26,9 @@ In 2021 Q1, the Content team populated the Platform Website with persona-based l
 
 ## Paths forward
 
-All options would be followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
+All options would be paired with deprecating the Home Page MVP, described in this ["How do we deprecate the Home Page in tandem with building out "V3?"" decision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-04-xx-deprecate-homepage-decision.md).
+
+followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
 
 ### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources - targeting end-of-April
 
