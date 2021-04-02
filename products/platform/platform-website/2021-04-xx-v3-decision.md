@@ -39,6 +39,8 @@ Steps:
 2. Break up the [V1 Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/) into the appropriate [V3](https://va-platform-docs.scrollhelp.site/index.html) content sources. 
 3. Add redirect verbiage to the Home Page MVP.
 
+considerations:
+- we might need a designer to develop icons for the content sources in the portal
 
 ### Option 2: Move V2's "Designer lading page" into a single V3 "Research and Design" content source
 
