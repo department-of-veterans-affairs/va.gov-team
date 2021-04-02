@@ -93,13 +93,13 @@ Great. Thank you for sharing those thoughts with us. It’s really important as 
 
 We put together a prototype that we would love to get your feedback on.
 
-- Invite the participant to channel, instruct participants to open Slack and join channel, and share screen
+- Invite the participant to channel, instruct participants to open Slack and join channel, and share screen if comfortable doing so (optional)
 
 - Moderator completes form with either frequent request mentioned in warm-up questions or scenario determined before by previous requested posts 
 
 
 
-*   Let's say you are working as the support person and moderating the #vfs-platform-support Slack channel. I will be acting as the VFS team member and submit the request. (COMMENT)Would you mind sharing your screen? If yes, Great! Can you show me how you respond and support this request by starting a thread? (Submit form)
+*   Let's say you are working as the support person and moderating the #vfs-platform-support Slack channel. I will be acting as the VFS team member and submit the request. I'll be pulling from a list of typical requests that came from real-world situations in the vfs-platform-support channel. We think these are questions your team might respond to. Can you show me how you would respond and support this request by starting a thread? (Submit form)
 
 
 ### Things to watch for:
@@ -117,6 +117,7 @@ We put together a prototype that we would love to get your feedback on.
 
 *   What do you think of responding to this form/post?
 *   Was there enough information provided to respond to the post accurately? 
+*   How did you come up with your response
 *   What was the hardest part? Were there any areas you felt were unclear?
 *   What worked well?
 *   Was there anything missing that would have been helpful?
