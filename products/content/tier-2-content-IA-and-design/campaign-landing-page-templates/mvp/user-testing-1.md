@@ -2,7 +2,7 @@
 
 ### Feature/Template Enhancements
 
-***Priority 1's***
+***Priority 1's - Must be for MVP launch ***
 
 **1. Audience tags**
 - Need to make specifying audience tags more rigid -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
@@ -13,9 +13,26 @@
 - Should we replace the illustrated/wireframe example in each panel with a screenshot image using Mission Act?
 - And/or, should we create a CLP Content template ([example Word doc here](https://docs.google.com/document/d/1fo532_Q9fd5VV_d5E4WVemLDOQANdjJCi-oARStsZ6w/)) which would enable stakeholders to effectively pre-build their CLP in easiest, collaborative way and finalize before the build.
 
-**3. Create more visual guidance within the CLP -- or, alternatively a content build doc template outside the CLP -- to make the build process easier, more intutive**
-- Should we replace the illustrated/wireframe example in each panel with a screenshot image using Mission Act?
+**3. Provide the ability to share a preview of the CLP with internal (VPN) VA stakeholders**
+- This would support stakeholder review and/or approval before publication
 
+
+***Priority 2's - for v. 1.0 of CLP***
+
+**3. Add a Newsletter Sign-up feature as an optional Panel or optional component within a Panel**
+- This would have integration to [GovDelivery](https://admin.govdelivery.com/session/new)
+
+**4. Build logic to support alternating blue/white background**
+- This to improve appeal and scannability/readability of CLP
+
+**5. Allow CLP to re-order optional Panels**
+- This to enable more flexible editorial experience
+
+***Priority 3's - Ice Box***
+
+- Explore implications of allowing the user to make Video a Hero option
+- Consider the addition of a **What's on this Page** Table of Contents component in Panel 1 or 2 with hotlinks
+- Would like the ability to share a preview URL to internal VA stakeholders for approval before publish
 
 ---------------------------
 
