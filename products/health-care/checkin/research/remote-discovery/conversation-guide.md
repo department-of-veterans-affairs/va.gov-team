@@ -58,13 +58,23 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 ## Kiosk (25 minutes)
 - Prototype to show during this portion of the test: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm
-- _If they didn’t mention a kiosk above, confirm that they have utilized these machines. Show a picture of the machine if need be._ Have you ever used one of the check-in kiosk machines at the VA?
+- _If they didn’t mention a kiosk above, confirm that they have utilized these machines._ Have you ever used one of the check-in kiosk machines at the VA?
   - If no…
     - Have you ever seen them in a VA location?
       - If yes, 
         - Why do you prefer other methods for check-in?
     - (Add more detail to this section) I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
-      - Main appointment kiosk sign-in/check-in with contact information
+      - First, we'll pretend you are checking in for your appointment with your primary care provider. 
+        - [Researcher notes: below are the areas of the prototype to click and some points of the prototype point out when clicking]
+        - [Click "Check In to Appointments" button]
+        - You can use your card to verify who you are. [Click "I do not have my VHIC" button] 
+        - Or you can enter your Social Security Number and Date of birth. [Click "Continue" button] 
+        - [Click any year]
+        - [Click any month]
+        - [Click any day]
+        - [Click "Confirm" button]
+        - [Click "Yes" button] 
+        - Sometimes you may have more than one appointment, so you can select the particular appointment you are signing in for here. [Click "Continue" button]
       - Checking in for a lab
       - Checking in for pharmacy
       - Updating your next of kin
@@ -107,7 +117,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What would you would like to change about the kiosks?
 
 
-## (could skip) In-person (5 minutes)
+## (Could skip) In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
   - If yes, 
     - When do you use that method of checking in? Why?
@@ -117,7 +127,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What do you like about checking in via VA staff member? What could be improved?
     - What else should I know about your experience checking in by talking to staff members?
 
-## (could skip) Via text message (“I am here” system) (5 minutes)
+## (Could skip) Via text message (“I am here” system) (5 minutes)
 - _If they didn’t mention text message check-in above,_ Have you ever checked-in via text message (maybe from your car in the parking lot)?
   - If yes, 
     - When do you choose that method of checking in? Why?
