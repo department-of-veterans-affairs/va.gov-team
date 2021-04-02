@@ -30,6 +30,7 @@
 
 - [ ] Text avoids standalone phrases, except in headlines and subheadings.
 - [ ] Text contains no idioms, slang, jargon, or culturally specific information.
+- [ ] Text clarifies technical terms (cookies, software, database, etc.)
 
 | Like this | Not like this |
 |---|---|
