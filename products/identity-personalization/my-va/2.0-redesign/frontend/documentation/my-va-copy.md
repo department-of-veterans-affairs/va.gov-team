@@ -74,16 +74,16 @@ What benefits does VA offer?
 
 Explore va.gov to learn about the benefits we offer.
 
-▪   Health care 
-▪   Education and training
-▪   Disability compensation
-▪   Careers & employment
-▪   Pension
-▪   Housing assistance
-▪   Burials & memorials
-▪   Life insurance
-▪   Service member benefits
-▪   Family member benefits
+Health care 
+Education and training
+Disability compensation
+Careers & employment
+Pension
+Housing assistance
+Burials & memorials
+Life insurance
+Service member benefits
+Family member benefits
 
 #### Health care
 With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
