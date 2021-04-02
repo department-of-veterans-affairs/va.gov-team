@@ -32,7 +32,8 @@ We deprecate the Home Page MVP by mid-April (in two weeks, by EOD 4/16).  _We ar
 
 - **Write alert verbiage once:**  We hypothesize that putting the whole team's effort into consolidiating product lists (ie, defining the IA) will allow us to come away with an agreed-upon list by the end of next week.
 - **Make sure there are no dead ends:**  We hypothesize that leaving the Home Page MVP live until we are able to direct to the Platform Website will minimize the possibility that customers cannot find the information they need.
-  - _Background:_ After looking at the Home Page MVP's usage data, we cannot confirm that _no one_ uses the site.  
+  - _Background:_ After looking at the Home Page MVP's usage data, we cannot confirm that _no one_ uses the site.
+- **We can deliver an equivalent experience to the Home Page:**  We hypothesize that working the Home Page MVP links into an implemented IA will be a better UX.
 
 
 ### Option 2: Deprecate the Home Page MVP, without any redirection to the Platform Website (ASAP)
