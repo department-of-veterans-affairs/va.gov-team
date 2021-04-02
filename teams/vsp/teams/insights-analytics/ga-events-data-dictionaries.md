@@ -14,27 +14,25 @@
 
 | **Page Path (RegEx)** | **Benefit Hub** |
 | --- | --- |
-| ^/track-claims.\* | Disability |
-| ^/disability.\* | Disability |
-| ^/burial.\* | Burials &amp; Memorials |
-| ^/pension.\* | Pension &amp; Fiduciary |
-| ^/education.\* | Education |
-| ^/gi-bill.\* | Education |
-| ^/gibill.\* | Education |
-| ^/records/.\* | Records |
-| ^/disability.\* | Disability |
-| ^/claim-or-appeal-status.\* | Disability |
-| ^/va-payment-history.\* | View Payment History |
-| ^/health-?care.\* | Health Care |
-| ^/healthbenefits.\* | Health Care |
-| ^/profile.\* | Records |
-| ^/records.\* | Records |
-| ^/.\*-health-care.\* | Health Care |
-| ^/housing-assistance.\* | Housing Assistance |
-| ^/life-insurance.\* | Life Insurance |
-| ^/careers-employment.\* | Careers &amp; Employment |
-| ^/service-member-benefits.\* | Service Member Benefits |
-| ^/family-member-benefits.\* | Family Member Benefits |
+| ^/burial.* | Burials &amp; Memorials |
+| ^/pension.* | Pension &amp; Fiduciary |
+| ^/education.* | Education |
+| ^/gi-bill.* | Education |
+| ^/gibill.* | Education |
+| ^/decision-reviews.* | Records |
+| ^/records.* | Records |
+| ^health-care/get-medical-records.* | Records |
+| ^/housing-assistance.* | Housing Assistance |
+| ^/life-insurance.* | Life Insurance |
+| ^/careers-employment.* | Careers &amp; Employment |
+| ^/service-member-benefits.* | Service Member Benefits |
+| ^/family-member-benefits.* | Family Member Benefits |
+| ^/health-?care.* | Health Care |
+| ^/healthbenefits.* | Health Care |
+| ^/.*-health-care.* | Health Care |
+| ^/track-claims.* | Disability |
+| ^/disability.* | Disability |
+| ^/claim-or-appeal-status.* | Disability |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
