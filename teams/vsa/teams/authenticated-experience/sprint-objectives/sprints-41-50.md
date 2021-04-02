@@ -296,7 +296,11 @@ If unblocked by VA Profile:
 
 Any outstanding tickets from sprint 44, plus:
 
-### Profile 
+### Profile
+
+PM
+
+- Review the profile and its documentation to become familiar with it
 
 Design
 
@@ -316,6 +320,7 @@ FE
   - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
 - Submit [analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md) (VSP collab cycle)
   - Regroup with Samara on this first
+- Review the new My VA designs and documentation to become familiar with it
 
 **Design**
 
@@ -326,6 +331,7 @@ FE
 
 **FE**
 
+- Implement LOA1 design (if not already done)
 - Finish build
 
 ### Direct deposit for edu
