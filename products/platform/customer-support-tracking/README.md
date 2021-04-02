@@ -1,71 +1,30 @@
-# Platform Support Tracker  
+# Customer Support Tracking
 
-The support tracker is a standardized way to log customer support requests in Slack so that VSP can use the data to identify roadmap initiatives.
+## Overview
 
-## Installing the support tracker
+Currently, we don't have a good way to categorize or gather data about support requests. We've started using a [google sheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit?pli=1#gid=1793382735) to capture this data to help inform future decisions around team's capacity and roadmaps.
 
-[Follow the instructions located here](https://github.com/department-of-veterans-affairs/va.gov-support-slackbot) to install the tracker in your Slack workspace.
+## Problem Statement
 
-## Support tracker process
+Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
-### **1. Track all support requests in #platform-support**
-When responding to a support request in Slack, add the “*@Support Bot track*” command to the conversation thread. This creates an automatically tracked issue in the [Support Github repo](https://github.com/department-of-veterans-affairs/vsp-support/issues).
-###  **2. Name the support issue**
-Provide a descriptive title to the issue by applying “*@Support Bot title*” 
-### **3. Use category labels** 
-When the request has been answered in the support thread:
+If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
 
-**Apply the “Documentation” category label if:**
+## Who is this for?
 
-The request was not resolved by providing documentation because the documentation does not exist, is not current, or could be in the future resolved with documentation. To add this label, apply “*@Support Bot add category Documentation*”
+- VSP team members
+- Leadership
 
-*The Documentation label provides a way for the documentation and content team to sort issues and prioritize potential work.*
+## Measuring Success
 
-**Apply additional category labels**
+### Key Performance Indicators (KPIs)
 
-To help refine issue and category taxonomy, additional label categories should be applied to issues that cover a topic, service or product. 
-*Examples: PR Review, Platform Newsletter, Design System, Feature Request, Enhancement*
+- % of customer support requests that are automatically logged and tagged.
+- time it takes to compile customer support reports.
+- % of tracked links that go to platform documentation.
 
-You may view already existing category labels by applying “*@Support list categories*” or continue to use “*@Support Bot add category*” to add new.
+## Solutions
 
-### **4. Track links in the thread**
-Applying “*@Support Bot add link*” to the thread will attach any links to documentation or external resources that have been provided in the thread to the Github issue.
-
-### 5. Close the support request
-To mark an issue as resolved in the Slack thread, apply “*@Support Bot resolve*”.
-
-### 6. Add descriptions or additional feedback to the issue 
-If there are additional details that should be provided on the support request that may help inform documentation needs, please add this information to the “**Description**” field on the Github issue itself.
-
-## All available commands
-
-An overview of all commands used by the tracker can be referenced in Slack by applying “*@Support Bot help*”.
-
-**Tracking and Resolving**
-
-*@Support Bot track* => start tracking the thread
-
-*@Support Bot resolve* => stop tracking the thread
-
-**Titles**
-
-*@Support Bot title* => start tracking the thread
-
-**Categories**
-
-*@Support Bot add category* => add a category to the tracked thread.
-
-*@Support Bot list categories* => list the categories added to this tracked thread.
-
-**Links**
-
-*@Support Bot add link* => add a link to the tracked thread.
-
-*@Support Bot list links* => list the links added to this tracked thread.
-
-*@Support Bot remove link* => remove a link from this tracked thread.
-
-## Support tracker help
-[Troubleshooting and FAQs](https://github.com/department-of-veterans-affairs/va.gov-support-slackbot/blob/main/PLAYBOOK.md)
-
-For support and feedback on the tracker, please join the Slack channel #-vsp-support-test.
+### V1 Support Bot
+-[Support Tracker User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/support-tracker-user-guide.md)
+-[Bot Commands](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/bot-commands.md)
