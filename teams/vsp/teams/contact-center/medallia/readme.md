@@ -1,6 +1,6 @@
 ## Medallia User Surveys Overview (WIP)
 
-*Only the Feedback Survey is live in production (as of 4/2/31)*
+*Only the Feedback Survey is live in production (as of 4/2/21)*
 
 **Summary:** Information on VA.gov surveys.
 
