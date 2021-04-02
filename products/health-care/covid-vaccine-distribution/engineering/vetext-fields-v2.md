@@ -34,7 +34,7 @@ Determine what of the original data it still makes sense to send.  If KMI v1 rem
 
 ## Notes and Questions on specific fields:
 * sta3n (and sta6a?) - these fields will be populated with the station number that the new enrollee has been enrolled at. vets-api will perform an MPI lookup prior to sending to vetExt to ensure the user has been registered. For KMI v1 submissions the data should be populated in the same way as it currently is. 
-* authenticated - though both KMI v1 and v2 are now unauthenticated forms, it does not stop a user from accessing them in an authenticated state. I am not currently able to authenticate locally to test this.  I plan to populate the authenticated field for KMI v2 in the same way it is done for KMI v1. 
+* authenticated - though both KMI v1 and v2 are now unauthenticated forms, it does not stop a user from accessing them in an authenticated state. KMI v2 does not confimration of the data entered, even for authenticated users, and thus this field will be set to false for KMI v2 submissions.  
 * vaccine_interest will default to true for v2 submissions
 * We should be able to populate ICN for all new enrollees 
 * Do we need a specific field for ‘enhanced eligibility’ or is the population of applicantType sufficient?  Or should we assign KMI v1 submissions with applicant_type:veteran?  
