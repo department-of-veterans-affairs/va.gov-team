@@ -5,7 +5,7 @@
 Our codebase is monolithic and growing every day. As a result, it’s becoming more and more frequent that:
 - One team’s code, when deployed, breaks some other part of VA.gov
 - One team's bad automated test breaks the build for everyone
-- Workarounds for QA'ing things in a testing environment lead to code getting to prod before it's ready
+- Workarounds for QA'ing work in staging lead to code getting to prod with bugs, or even sometimes before it's supposed to go live
 
 Then teams have to take the time to investigate, resolve, and coordinate an off-cycle deploy, and even when they get a PR for a fix in quickly, they have to wait 1+ hours for the build to run.
 
