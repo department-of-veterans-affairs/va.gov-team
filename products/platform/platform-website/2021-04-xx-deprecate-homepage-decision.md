@@ -1,4 +1,4 @@
-# How would we build towards "V3" in 2021 Q2?
+# How do we deprecate the Home Page in tandem with building out "V3?"
 
 This doc provides context to make a decison around the actions needed to deprecate the Home Page MVP.
 
