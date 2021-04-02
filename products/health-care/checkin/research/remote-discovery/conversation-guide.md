@@ -63,7 +63,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Have you ever seen them in a VA location?
       - If yes, 
         - Why do you prefer other methods for check-in?
-    - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
+    - (Add more detail to this section) I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
       - Main appointment kiosk sign-in/check-in with contact information
       - Checking in for a lab
       - Checking in for pharmacy
