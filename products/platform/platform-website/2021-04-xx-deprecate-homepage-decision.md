@@ -1,6 +1,6 @@
-# How do we deprecate the Home Page in tandem with building out "V3?"
+# How do we deprecate the Home Page in tandem with building out Platform Website V3?
 
-This doc provides context to make a decison around the actions needed to deprecate the Home Page MVP.
+This doc provides context to make a decison around _if_ we deprecate the Home Page MVP in conjunction with building out Platform Website V3.
 
 _Authors:_ Liani Lye and Gretchen Maciolek, Platform Team: Content/IA
 
@@ -24,38 +24,23 @@ In 2021 Q1, the Content team populated the Platform Website with persona-based l
 
 ## Paths forward
 
-All options would be followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan#17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
+All options would be followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan #17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
 
-### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources - targeting end-of-April
+### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources (by mid-April)
 
-#### Option 1a (recommended by the Content Team): Move V2's "Designer landing page" and distribute all V1 content amongst V3 content sources
+We deprecate the Home Page MVP by mid-April (in two weeks).  _We are assuming that deprecating = adding an alert at the top of the Home Page MVP,_ not _somehow making the page throw a 404._  Deprecating in two weeks allows us to:
 
-Outcome: The V3 portal page will reflect multiple content sources, all which contain content.
-
-We hypothesize that providing multiple content sources will allow team members across a single VFS team to have a comprehensive Platform Website reading experience.
-
-Steps:
-1. Move the [V2 designer landing page](https://va-platform-docs.scrollhelp.site/getting-started/Designer-guide.970654156.html) to [V3's](https://va-platform-docs.scrollhelp.site/index.html) "Research and Design" content source.
-2. Break up the [V1 Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/) into the appropriate [V3](https://va-platform-docs.scrollhelp.site/index.html) content sources. 
-3. Add redirect verbiage to the Home Page MVP.
+- **Write alert verbiage once:**  We hypothesize that putting the whole team's effort into consolidiating product lists (ie, defining the IA) will allow us to come away with an agreed-upon list by the end of next week.
+- **Make sure there are no dead ends:**  We hypothesize that leaving the Home Page MVP live until we are able to direct to the Platform Website will minimize the possibility that customers cannot find the information they need.
+  - _Background:_ After looking at the Home Page MVP's usage data, we cannot confirm that _no one_ uses the site.  
 
 
-#### Option 1b: Move V2's "Designer lading page" into a single V3 "Research and Design" content source
+### Option 2: Deprecate the Home Page MVP, without any redirection to the Platform Website (ASAP)
 
-Outcome: The V3 portal page will reflect a single content sources.
+Again, we assume that deprecating = adding an alert at the top of the Home Page MVP, _not_ somehow making the page throw a 404.
 
-Steps:
-1. Move the [V2 designer landing page](https://va-platform-docs.scrollhelp.site/getting-started/Designer-guide.970654156.html) to [V3's](https://va-platform-docs.scrollhelp.site/index.html) "Research and Design" content source.
-2. Break up the [V1 Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/) into the appropriate [V3](https://va-platform-docs.scrollhelp.site/index.html) content sources. 
-3. Make sure we have accounted for all links from the Home Page MVP, in V3.  
-4. Add redirect verbiage to the Home Page MVP.
-
-
-### Option 2: Deprecate the Home Page MVP, without any redirection to the Platform Website
-
-After looking at the Home Page MVP's usage data, we cannot confirm that _no one_ uses the site.  
-
-We hypothesize that leaving the Home Page MVP live until we are able to direct to the Platform Website will minimize the possibility that customers cannot find the information they need.
+* **We will not be able to spend the next two weeks consolidating an IA:**  We will have a split-team focus.
+* **We might have customers who rely upon the Home Page MVP:**  we cannot confirm that _no one_ uses the site, and we want to minimize the possibility that customers cannot find the information they need.
 
 ## Decision
 
