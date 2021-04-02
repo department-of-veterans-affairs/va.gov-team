@@ -31,6 +31,6 @@ If we had a standardized way to log customer support requests and all customer-f
 -[Design Doc](https://docs.google.com/document/d/1WD0sRAak8-r4kI85uYl0K6KaVGkAGKWVsH4fbuCsKCc/edit#heading=h.sxwcrifdl3fs)
 
 ### V2 Slack Workflow
--[Customer Support Service Blueprint v2](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1615245024272/928f05240d372b666b2c5bd394ade834986ab5ca)
+-[Customer Support Service Blueprint v2](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1615245024272/928f05240d372b666b2c5bd394ade834986ab5ca)<br>
 -[Sprint 48 Demo](https://docs.google.com/presentation/d/10Orr5IUF_9hHcx4jXP7HK5YSyxiO2wIgEqmnh-18uu8/edit#slide=id.p2)<br>
 -[Prototype usability test Mural](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1616715691915/158174631e0e0d2affdaa27a9ed066c79732ceb6)<br>
