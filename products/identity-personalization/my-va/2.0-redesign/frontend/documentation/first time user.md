@@ -16,4 +16,4 @@
 
 If someone is a first time user (ie. meets the "show" criteria above), they will see the "Apply for VA benefits section" plus some additional intro copy:
 
-
+![My VA FTUX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/My%20VA%20FTUX%20.jpg)
