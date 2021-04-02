@@ -29,8 +29,8 @@
 | ^/family-member-benefits.* | Family Member Benefits |
 | ^/health-?care.* | Health Care |
 | ^/healthbenefits.* | Health Care |
-| ^/.*-health-care.* | Health Care |
-| ^/track-claims.* | Disability |
+| ^/.\*-health-care.* | Health Care |
+| ^/track-claims.\* | Disability |
 | ^/disability.* | Disability |
 | ^/claim-or-appeal-status.* | Disability |
 
