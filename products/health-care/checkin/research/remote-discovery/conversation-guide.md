@@ -62,6 +62,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Have you ever seen them in a VA location?
       - If yes, 
         - Why do you prefer other methods for check-in?
+  - If no or yes (so everyone)...
     - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks. (Prototype: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm)
       - First, we'll pretend you are checking in for your appointment with your primary care provider. 
         - [Researcher notes: below are the areas of the prototype to click and some points of the prototype point out when clicking]
@@ -83,7 +84,18 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - [Click "Continue"]
         - This screen may show you directions on where to go next, such as what waiting area. [Click "Continue"]
         - Then, you are checked in. 
-        - What are your thoughts about this workflow? I'm also interested to hear about how you currently complete this task instead.
+        - _If the Veteran never used the kiosk_
+          - What are your thoughts about this workflow? I'm also interested to hear about how you currently complete this task instead.
+        - _If the Veteran has experience with the kiosk_
+          - Does this look familiar?
+          - Have you ever been asked additional questions compared to what I just showed you when checking-in via the kiosk?
+            - What were the questions?
+            - What type of appointments were they for?
+            - Have you ever updated your contact information on the kiosk?
+          - _Skip if Veteran described a kiosk experience in the intro section._ How would you describe that check-in experience? Was it a good or bad experience? Easy or hard?
+            - What did you like about it?
+            - What did you not like about it? 
+          - Have you ever used the kiosk for something that you didn't have an appointment for?
       - Next, we'll look at checking in for a lab test.
         - [Click "Lab Check-in" at the bottom of the screen]
         - [Click "Lab Check-in" button]
@@ -92,6 +104,8 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - Now, you are checked in for a lab test.
         - Have you ever had a lab test at the VA? 
           -  If yes, what was the experience like?
+            - What did you like about it?
+            - What did you not like about it? 
         - What are your thoughts about this workflow?
       - Now, we'll check in for pharmacy
         - [Click "Pharmacy Check-in"]
@@ -101,6 +115,8 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - You are all checked in.
         - Have you ever interacted with the Pharmacy at the VA?
           - If yes, what was the experience like?
+            - What did you like about it?
+            - What did you not like about it?
         - What are your thoughts on this workflow?
       - Now, we'll update your next of kin
         - [Click "Updating Next of Kin"]
@@ -110,11 +126,15 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - Now, you updated your Next of Kin.
         - Have you ever updated your Next of Kin at the VA?
           - If yes, what was the experience like?
+            - What did you like about it?
+            - What did you not like about it?
         - What are you thoughts on this workflow? 
       - Lastly, we'll file a Beneficiary Travel Mileage request
         - [Click "Beneficiary Travel Mileage"]
         - Have you ever filed for Beneficary Travel Mileage?
-          - If yes, what was the experience like? [Note if they went to the actual Beneficary Travel office.]
+          - If yes, what was the experience like? [Note if they went to the actual Beneficary Travel office and didn't use the kiosk.]
+            - What did you like about it?
+            - What did you not like about it?
           - If no, You can file for reimbursement for the miles that you drive to the VA when you have an appointment.
         - [Click "Last 30 Days"]
         - [Click anywhere on the calendar]
@@ -126,43 +146,14 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - You application was successful. [Click "Continue"]
         - What are you thoughts on this workflow? 
         - [Researcher note: you can stop screensharing now.]
-  - If yes...
-    - I now want to show you a few kiosk screens before I ask more questions about kiosks. _Share my screen and go through a prototype of the main appointment kiosk sign-in and check-in workflow with contact information. After showing them the workflow…_
-      - Does this look familiar?
-      - Have you ever been asked additional questions compared to what I just showed you when checking-in via the kiosk?
-        - What were the questions?
-        - What type of appointments were they for?
-      - _Skip if Veteran described a kiosk experience in the intro section._ How would you describe that check-in experience? Was it a good or bad experience? Easy or hard?
+  
+-If the Veteran answered yes, they have used the kiosk...  
+  - Have you used the kiosk for anything else that I haven’t asked you about yet?
+    - If yes,
+      - How would you describe that experience?
         - What did you like about it?
         - What did you not like about it? 
-    - Have you ever used the kiosk for something that you didn't have an appointment for?
-    - What about to check-in for a lab? _Show them screens of the lab experience._
-      - If yes, 
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it? 
-    - Have you ever used the kiosk to check-in for the pharmacy? _Show them screens of the pharmacy experience._
-      - If yes, 
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it?
-    - Have you ever updated your next of kin via the kiosk? _Show them screens of updating next of kin._
-      - If yes, 
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it?
-    - Have you ever filed a request for Beneficiary Travel Mileage through the kiosk? _Show them screens of the Beneficiary Travel Mileage experience._
-      - If yes,
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it?
-    - Have you used the kiosk for anything else that I haven’t asked you about yet?
-      - If yes,
-        - How would you describe that experience?
-          - What did you like about it?
-          - What did you not like about it? 
-    - What would you would like to change about the kiosks?
-
+  - What would you would like to change about the kiosks?
 
 ## (Could skip) In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
