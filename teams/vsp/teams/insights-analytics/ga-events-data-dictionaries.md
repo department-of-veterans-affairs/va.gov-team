@@ -59,7 +59,7 @@
 | ^/track-claims/your-claims.\* | Claims - Viewed Details |
 | ^/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment.\* | Claims - Auto Allowance and Adaptive Equipment Application (21-4502) |
 | ^/education/apply-for-education-benefits/application/1995.\* | Education - Request for Change of Program (1995) |
-| ^/my-va.\* | Personalized Tools - Saved my Benefits Preferences |
+| ^/my-va.\* | Personalized Tools - My VA |
 | ^/profile.\* | Authenticated Experience Profile 2.0 |
 | ^/health-care/apply/application.\* | Health Care - Health Care Application (10-10EZ) |
 | ^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/.\* | Health Care - Medical Device Reordering Tool (2346a) |
@@ -90,10 +90,17 @@
 | x | Content API (Drupal + GraphQL) |
 | ^.\*-health-care.\* | VAMC |
 | ^/performance-dashboard.\* | Performance Dashboard |
-| ^/careers-employment/.\* | Personal Career Planning and Growth (Ch. 36) |
+| ^careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/.* | Personal Career Planning and Growth (Ch. 36) |
 | ^/privacy-policy.\* | Privacy Policy |
 | ^/resources.\* | Resources &amp; Support |
-| ^/disability/about-disability-ratings.\* | Disability Ratings Calculator |
+| ^disability/view-disability-rating.* | Disability Ratings Calculator |
+| ^/careers-employment/vocational-rehabilitation/apply/.* | Veteran Readiness and Employment Form CH31 (28-1900)|
+| ^/health-care/covid-19-vaccine/stay-informed/.* | COVID-19 Vaccination |
+| ^covid19screen.* | COVID-19 Screening Tool |
+| ^va-payment-history/.* | Veteran Payment History |
+| ^coronavirus-veteran-frequently-asked-questions.* | COVID-19 FAQs |
+| ^/manage-va-debt/your-debt.* | Debt Management - Manage Your VA Debt |
+| ^manage-va-debt/request-debt-help-5655.* | Debt Management - Financial Status Report (5655) |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
