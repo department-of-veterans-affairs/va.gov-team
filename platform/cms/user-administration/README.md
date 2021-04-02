@@ -1,5 +1,17 @@
 # Create a new CMS user account in prod (CMS team user admins only)
 
+## TL;DR
+
+### VAMC
+1) create as blocked in prod with Content creator - VAMC and Content editor roles, which will carry them over to training environment as active during training
+2) activate in prod as Content creator - VAMC and Content editor when they complete training and Stan gives us the OK
+3) add Content publisher role in prod when they are going to dual state (or live?) when Stan gives us the OK.
+See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
+
+### Anyone who wants access to Benefits Hubs
+Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up
+See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
+
 
 ## Process Overview - Training Needed
 
