@@ -20,6 +20,6 @@ A user signs in and is LOA1. They should see:
 - The Apply for Benefits section.
   - **Note**: For this section, we do not need to attempt logic to tell whether they have any benefits or not, since we won't have access to that info for LOA1 users.
 
-**Please check in with Tressa for final copy.**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 ![LOA1 dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/LOA1%20dashboard.png)
