@@ -82,7 +82,7 @@ Before we look at the prototype, let’s start with a few background questions.
 *   What questions or requests do you typically receive from VFS team members? 
 *   When a VFS team member reaches out to you for support in #vfs-platform-support Slack channel, how do you typically respond to those requests? 
 *   If you are unsure of the answer to a question, what do you typically do? 
-*   What types of questions or requests do you typically receive in the #vfs-platform-support Slack channel? Or from VFS team members? 
+*   (DUPLICATE) What types of questions or requests do you typically receive in the #vfs-platform-support Slack channel? Or from VFS team members? 
 *   What are some roadblocks in providing support to VFS team members?  
 *   (NAOMI COMMENT) Do you currently follow a process when you are on support rotation? 
 
