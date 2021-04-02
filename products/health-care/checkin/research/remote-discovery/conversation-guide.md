@@ -147,7 +147,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - What are you thoughts on this workflow? 
         - [Researcher note: you can stop screensharing now.]
   
--If the Veteran answered yes, they have used the kiosk...  
+- If the Veteran answered yes, they have used the kiosk...  
   - Have you used the kiosk for anything else that I haven’t asked you about yet?
     - If yes,
       - How would you describe that experience?
