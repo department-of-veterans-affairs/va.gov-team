@@ -26,9 +26,9 @@ In 2021 Q1, the Content team populated the Platform Website with persona-based l
 
 All options would be followed by the release plan outlined in [Platform Website — Migrate Homepage MVP documentation to Confluence: Release plan #17376](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/17376).
 
-### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources (by mid-April)
+### Option 1: Deprecate the Home Page MVP -after- we have created a Platform Website with multiple content sources (by EOD 4/16)
 
-We deprecate the Home Page MVP by mid-April (in two weeks).  _We are assuming that deprecating = adding an alert at the top of the Home Page MVP,_ not _somehow making the page throw a 404._  Deprecating in two weeks allows us to:
+We deprecate the Home Page MVP by mid-April (in two weeks, by EOD 4/16).  _We are assuming that deprecating = adding an alert at the top of the Home Page MVP,_ not _somehow making the page throw a 404._  Deprecating in two weeks allows us to:
 
 - **Write alert verbiage once:**  We hypothesize that putting the whole team's effort into consolidiating product lists (ie, defining the IA) will allow us to come away with an agreed-upon list by the end of next week.
 - **Make sure there are no dead ends:**  We hypothesize that leaving the Home Page MVP live until we are able to direct to the Platform Website will minimize the possibility that customers cannot find the information they need.
