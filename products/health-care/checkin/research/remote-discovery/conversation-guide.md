@@ -20,7 +20,7 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 Start recording.
-- I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?”
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?”
 
 Great. Now we're really ready to begin!
 
