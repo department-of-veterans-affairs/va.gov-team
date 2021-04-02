@@ -9,7 +9,7 @@
 See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
 ### Anyone who wants access to Benefits Hubs
-Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up
+Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
 See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
 
 
