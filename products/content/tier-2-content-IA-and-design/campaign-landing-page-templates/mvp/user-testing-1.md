@@ -1,3 +1,15 @@
+## Summarized and Prioritized Findings
+
+### Feature/Template Enhancements
+
+***Priority 1's***
+
+1. Audience tags
+- Need to make selections -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
+
+
+
+
 ### User Testing Session 1 - Tim Hudak, VEO
 
 **Product Iteration Themes**
