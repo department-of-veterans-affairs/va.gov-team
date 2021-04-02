@@ -2,8 +2,6 @@
 
 [MyVA staging users information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
 
- [Name Tag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
-
 ### Test cases for "LOA1 user"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
@@ -19,6 +17,9 @@
 
 
 ### Test cases for "Disability Rating"
+
+ [Name Tag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
+
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a disability rating|User will see their disability rating next to their name|**226**|
