@@ -101,10 +101,10 @@ This the the survey that is used to collect user feedback for specific Veteran F
    - 1 = Very dissatisfied
    - 5 = Very satisfied
 
-**How to add**
+**How to add:**
 
 For this survey to be implemented on your VA.gov page(s), you must request is using 'User Survey - Request Template' in Zenhub. Feedback surveys will only be added proactively for pages with ForeSee feedback surveys currently live on production.
 
-More information on this process can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md). 
+More information on the process for requesting a Medallia user survey can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md). 
 
 ### **Please Note: We are _not_ implementing custom surveys at this time.**
