@@ -6,13 +6,13 @@ Currently, we don't have a good way to categorize or gather data about support r
 
 ## Problem Statement
 
-Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
+Without a better understanding of how Platform teams' time is spent on customer support work, it is difficult to identify areas to focus on to make improvements that reduce the support burden on Platform teams by enabling VFS teams to find answers or get unblocked on their own.
 
 If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
 
 ## Who is this for?
 
-- VSP team members
+- Platform team members
 - Leadership
 
 ## Measuring Success
@@ -21,7 +21,7 @@ If we had a standardized way to log customer support requests and all customer-f
 
 - % of customer support requests that are automatically logged and tagged.
 - time it takes to compile customer support reports.
-- % of tracked links that go to platform documentation.
+- % of support requests resolved by documentaton.
 
 ## Solutions
 
