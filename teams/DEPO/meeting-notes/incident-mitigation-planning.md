@@ -32,7 +32,7 @@ But the long term work won't bear fruit for another 6-12 months. So what can we 
 
 - **Content & app isolation:** separating the content build from the vets-website build is the first part of our larger code isolation initiative. This will.... ? ETA mid May. This will prevent content changes from accidentally messing up vets-website, and vice versa and should help with some of the public websites issues we've been seeing.
 
-- **Tiered QA pilot on Public Websites team:** will be a manual slowing down mechanism to more thoroughly check and get sign-off on work prior to merging to master for staging and prod. This should reduce the amount of times we have a firedrill because an issue is found post-deploy. 
+- **[Tiered QA pilot on Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Review%20Instance%20Use%20Cases.md):** will be a manual slowing down mechanism to more thoroughly check and get sign-off on work prior to merging to master for staging and prod. This should reduce the amount of times we have a firedrill because an issue is found post-deploy. 
 
 - **Extend the "_slow_ down so we don't get _shut_ down" message across OCTO-DE:** using the Public Websites process as a pilot, socialize the need for all VFS teams to take this approach. Getting Chris J to help spread awareness will help with buy-in. We know this is not ideal - if teams had a better testing option, and if they could deploy fixes on their own, we wouldn't need to slow down. But since we're not there yet, we need to rely on manual process in the interim.
 
