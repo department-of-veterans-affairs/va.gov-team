@@ -50,11 +50,14 @@
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 #### "Applications in progress"
+
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, application title and link "Continue your application"|**100**|
 |User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|**369**|
+
 #### "Benefits you may be interested in"
+
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**38**|
@@ -66,10 +69,3 @@ User HAS NEVER applied for a disability claim|User sees link to "Learn how to fi
 User receives DD4edu payments|User does NOT see "Apply for education benefits" CTA|**378**|
 |User has started or submited an application for education benefits|User will NOT see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|
 |User DOES NOT have an application for education benefits in-progress|User will see the "Learn how to apply for Education Benefits" link|**TBD**|
-
-
-
-
-
-
-
