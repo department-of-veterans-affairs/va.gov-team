@@ -11,12 +11,6 @@
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
-### Test cases for "First-time user experience"
-|Test case|Intended outcome|Staging User|
-|----|----|----|
-|LOA3 user has logged-in for the first time after verifying their identity |User is shown links related to filing a claim, applying for healthcare, and applying for education benefits "|**Tze can create a new user and verify their identity**|
-
-
 ### Test cases for ["Disability Rating"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
 
 |Test case|Intended outcome|Staging User|
