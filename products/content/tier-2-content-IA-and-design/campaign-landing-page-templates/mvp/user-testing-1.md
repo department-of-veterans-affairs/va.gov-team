@@ -4,8 +4,14 @@
 
 ***Priority 1's***
 
-1. Audience tags
-- Need to make selections -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
+**1. Audience tags**
+- Need to make specifying audience tags more rigid -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
+- Should we use R&S audiences as selectable options?  Or for now, just limit one word per field?
+- Should we allow the option to not specify "This Page For"? (This, to avoid the "exlusionary" concern)
+
+**2. Create more visual guidance within the CLP -- or, alternatively a content build doc template outside the CLP -- to make the build process easier, more intutive**
+- Should we replace the illustrated/wireframe example in each panel with a screenshot image using Mission Act?
+- And/or, should we create a CLP Content template ([example Word doc here](https://docs.google.com/document/d/1fo532_Q9fd5VV_d5E4WVemLDOQANdjJCi-oARStsZ6w/)) which would enable stakeholders to effectively pre-build their CLP in easiest, collaborative way and finalize before the build.
 
 
 
