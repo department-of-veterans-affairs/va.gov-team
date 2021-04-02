@@ -2,7 +2,8 @@
 
 [MyVA staging users information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
 
-### Test cases for "LOA1 user"
+### Test cases for ["LOA1 user"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
+
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |LOA1 user has not verified their identity|User is shown a prompt to verify their identity|**350**|
