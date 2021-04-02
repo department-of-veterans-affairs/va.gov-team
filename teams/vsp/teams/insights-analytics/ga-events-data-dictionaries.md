@@ -541,7 +541,7 @@ CheckboxGroup.js
    </td>
    <td>Click on a link within the promo banner
    </td>
-   <td><code>'event': 'nav-promo-banner-link-click'</code>
+   <td><code>'event': 'nav-promo-banner-(link|link-click)'</code>
 <p>
 <code>'promo-banner-click-label': //populate according to link click text</code>
 <p>
