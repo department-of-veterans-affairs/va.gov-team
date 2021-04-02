@@ -63,7 +63,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Have you ever seen them in a VA location?
       - If yes, 
         - Why do you prefer other methods for check-in?
-    - (Add more detail to this section) I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
+    - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks.
       - First, we'll pretend you are checking in for your appointment with your primary care provider. 
         - [Researcher notes: below are the areas of the prototype to click and some points of the prototype point out when clicking]
         - [Click "Check In to Appointments" button]
@@ -80,6 +80,11 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - [Click "Edit" next to Home Phone, then click "Continue"]
         - [Click "Edit" next to Email, then click "Continue"]
         - [Click "Continue" button]
+        - You can denote if you have health insurance. [Click "Yes"]
+        - [Click "Continue"]
+        - This screen may show you directions on where to go next, such as what waiting area. [Click "Continue"]
+        - Then, you are checked in. 
+        - What are your thoughts about this workflow? I also want to hear about how you current complete this task instead.
       - Checking in for a lab
       - Checking in for pharmacy
       - Updating your next of kin
