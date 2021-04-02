@@ -19,7 +19,7 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-Start recording.
+Start recording to the cloud.
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?”
 
 Great. Now we're really ready to begin!
@@ -107,7 +107,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What would you would like to change about the kiosks?
 
 
-## In-person (5 minutes)
+## (could skip) In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
   - If yes, 
     - When do you use that method of checking in? Why?
@@ -117,14 +117,14 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What do you like about checking in via VA staff member? What could be improved?
     - What else should I know about your experience checking in by talking to staff members?
 
-## Via text message (“I am here” system) (5 minutes)
+## (could skip) Via text message (“I am here” system) (5 minutes)
 - _If they didn’t mention text message check-in above,_ Have you ever checked-in via text message (maybe from your car in the parking lot)?
   - If yes, 
     - When do you choose that method of checking in? Why?
     - Can you describe how checking-in via text message works?
     - What did you like about that experience? What could be improved?
 
-## Wrap-up questions (4 minutes)
+## (DON'T SKIP IF SHORT ON TIME!) Wrap-up questions (4 minutes)
 - If you had a magic wand and you could check in for your appointment any way you would like, what would that experience look like?
   - What about if you could do all the check-in tasks that you can from the kiosk, but on your cell phone?
   - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone on va.gov?
