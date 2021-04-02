@@ -103,7 +103,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
       - If yes,
         - How would you describe that experience?
           - What did you like about it?
-          - What did you not like about it? I
+          - What did you not like about it? 
     - What would you would like to change about the kiosks?
 
 
@@ -115,7 +115,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What questions do they ask you?
     - What paperwork do you fill out?
     - What do you like about checking in via VA staff member? What could be improved?
-    - What else should know about your experience checking in by talking to staff members?
+    - What else should I know about your experience checking in by talking to staff members?
 
 ## Via text message (“I am here” system) (5 minutes)
 - _If they didn’t mention text message check-in above,_ Have you ever checked-in via text message (maybe from your car in the parking lot)?
@@ -126,7 +126,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 ## Wrap-up questions (4 minutes)
 - If you had a magic wand and you could check in for your appointment any way you would like, what would that experience look like?
-  - What about if you could do all the check-in tasks that you can from kiosk, but on your cell phone?
+  - What about if you could do all the check-in tasks that you can from the kiosk, but on your cell phone?
   - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone on va.gov?
 
 ## Thank you and closing (2 minutes)
