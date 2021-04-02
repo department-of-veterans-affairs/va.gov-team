@@ -57,7 +57,7 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 **State 2: No upcoming appointments**  
 
@@ -97,7 +97,7 @@ In the event that we can not connect to the appointments endpoint to detect whet
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 ![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
 
