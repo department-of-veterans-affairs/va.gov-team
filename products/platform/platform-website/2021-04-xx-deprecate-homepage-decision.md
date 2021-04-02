@@ -45,4 +45,4 @@ Again, we assume that deprecating = adding an alert at the top of the Home Page 
 
 ## Decision
 
-To come.
+ Let’s launch V3 as well as deprecate the Home Page by the end of Sprint 49. 
