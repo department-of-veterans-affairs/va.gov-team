@@ -12,13 +12,6 @@ Account Owner: Jason Woodman @jwoodman5
 
 Medallia Contact: @sarkis 
 
-### Table of Contents
-
-- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/product-outlines/medallia-product-outline.md)
-- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-release-notes.md)
-- [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17925)
-
 ## Available surveys
 
 ### Intercept survey (_not in production yet_)
@@ -101,6 +94,14 @@ This the the survey that is used to collect user feedback for specific Veteran F
    - 1 = Very dissatisfied
    - 5 = Very satisfied
 
+**What is looks like:**
+
+![image](https://user-images.githubusercontent.com/45946766/113457260-3c54de00-93c4-11eb-9617-538f6c9c1384.png)
+
+**Where to see it live:**
+
+Right [here](https://www.va.gov/find-locations) on our VA.gov Find Locations page(s).
+
 **How to add:**
 
 For this survey to be implemented on your VA.gov page(s), you must request is using 'User Survey - Request Template' in Zenhub. Feedback surveys will only be added proactively for pages with ForeSee feedback surveys currently live on production.
@@ -108,3 +109,10 @@ For this survey to be implemented on your VA.gov page(s), you must request is us
 More information on the process for requesting a Medallia user survey can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md). 
 
 ### **Please Note: We are _not_ implementing custom surveys at this time.**
+
+### Additional Resources
+
+- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/product-outlines/medallia-product-outline.md)
+- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-release-notes.md)
+- [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17925)
