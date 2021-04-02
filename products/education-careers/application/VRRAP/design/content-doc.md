@@ -48,12 +48,12 @@ To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you 
 
 **All of these must be true.  You're:**
 
-* Between 22 and 66 years old;
-* Unemployed because of the COVID-19 pandemic;
-* Not eligible for GI Bill or VR&E benefits (or, if you're eligible for the Post-9/11 GI Bill, you've transferred your benefits to a family member);
-* Not rated as totally disabled because you can't work;
-* Not enrolled in a federal or state jobs program;
-* Not receiving unemployment or CARES Act benefits.
+* Between 22 and 66 years old,
+* Unemployed because of the COVID-19 pandemic,
+* Not eligible for GI Bill or VR&E benefits (or, if you're eligible for the Post-9/11 GI Bill, you've transferred your benefits to a family member),
+* Not rated as totally disabled because you can't work,
+* Not enrolled in a federal or state jobs program,
+* Not receiving unemployment or CARES Act benefits
 
 
 #### 2. Prepare  
