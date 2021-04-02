@@ -4,7 +4,7 @@
 
 - [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens/448032788)
 
-**Note**: This mock shows the old design for the "Benefits you might be interested in" section, so please follow [the latest design specs]().
+**Note**: This mock shows the old design for the "Benefits you might be interested in" section, so please follow the latest design specs shown below.
 
 ## When to show the LOA1 state
 
