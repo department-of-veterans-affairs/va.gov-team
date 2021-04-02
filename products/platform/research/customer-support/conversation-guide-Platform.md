@@ -119,6 +119,7 @@ We put together a prototype that we would love to get your feedback on.
 *   Was there enough information provided to respond to the post accurately? 
 *   What was the hardest part? Were there any areas you felt were unclear?
 *   What worked well?
+*   Was there anything missing that would have been helpful?
 
  
 
@@ -154,6 +155,7 @@ Great. Thank you. We have another prototype that we would love to get your feedb
 *   Is there enough information provided to respond to the request accurately? 
 *   Were there any areas you felt were unclear?
 *   Anything that worked well?
+*   Was there anything missing that would have been helpful?
 
 
 ## Post-Task Interview - 5 minutes
