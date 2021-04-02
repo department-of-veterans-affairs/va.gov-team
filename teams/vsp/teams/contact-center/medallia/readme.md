@@ -1,27 +1,27 @@
-## Medallia Overview (WORK IN PROGRESS)
+## Medallia User Surveys Overview (WIP)
 
-*NOT LIVE IN PRODUCTION*
+*Only the Feedback Survey is live in production (as of 4/2/31)*
 
 **Summary:** Information on VA.gov surveys.
 
 ### Account access
 
-DEPO Lead: Jeff Barnes, Kevin Hoffman
+OCTO-**DE** Lead: Chante Lantos-Swett, Kevin Hoffman
 
-Account Owner: Joanne Esteban @joanne
+Account Owner: Jason Woodman @jwoodman5
 
 Medallia Contact: @sarkis 
 
 ### Table of Contents
 
 - [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-rollout.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/product-outlines/medallia-product-outline.md)
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-release-notes.md)
-- [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
+- [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17925)
 
 ## Available surveys
 
-### Intercept survey
+### Intercept survey (_not in production yet_)
 
 This is the main VA.gov survey that collects general website satisfaction and trust feedback. 
 
@@ -78,7 +78,7 @@ This is the main VA.gov survey that collects general website satisfaction and tr
 
 ---
 
-### Always on survey
+### Always on (_Feedback_) survey
 
 This the the survey that is used to collect user feedback for specific Veteran Facing Services.
 
@@ -100,3 +100,11 @@ This the the survey that is used to collect user feedback for specific Veteran F
 3. What is your overall satisfaction with this site?
    - 1 = Very dissatisfied
    - 5 = Very satisfied
+
+**How to add**
+
+For this survey to be implemented on your VA.gov page(s), you must request is using 'User Survey - Request Template' in Zenhub. Feedback surveys will only be added proactively for pages with ForeSee feedback surveys currently live on production.
+
+More information on this process can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md). 
+
+### **Please Note: We are _not_ implementing custom surveys at this time.**
