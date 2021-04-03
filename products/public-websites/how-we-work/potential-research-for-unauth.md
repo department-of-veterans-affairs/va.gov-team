@@ -8,6 +8,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
   * What have they looked for recently and how? 
     * Search and/or browse?
     * Where do they start typically? Google? Facebook?
+    * 4 white quadrants? Topics below the photos? Footer? Header?
   * Do they find what they need? If not, what were they looking for? 
 * What are the biggest pain points?
 * What are the most-asked questions at the VA call center? 
