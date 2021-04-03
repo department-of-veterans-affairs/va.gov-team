@@ -144,4 +144,4 @@ This is our main means of communication with each other. Keep as much conversati
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-
+  
