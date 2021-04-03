@@ -58,29 +58,17 @@ Anyone on the team can create a user story. We work in this repo: https://github
 
 department-of-veterans-affairs / va.gov-team
 
-- For a story to go in the Backlog column and be groomed, it should have:
+- For a story to go in the **"Backlog"** column and be groomed, it should have:
+    - Title that explains the goal in plain language
     - Clear acceptance criteria
     - Definition of done  
-    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-    - All components/steps have been accounted for 
     - Labels: vsa-content-localization
-    - Tie to Epic "Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
+    - Link to Epic "Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
 
 
-    
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
-
-- For a task to go into the **"Backlog"** column, it must have the following:
-   - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
-
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Estimate
-   - Sense of priority (relative to other tickets)
    
+- For a task to go into the **"Ready"** column, it must have the following:
+   - Estimate      
 - During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
 - As they are worked, tickets get moved into **"In Progress"**
 
@@ -97,8 +85,6 @@ department-of-veterans-affairs / va.gov-team
    - Merged to master
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom
    - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -119,21 +105,6 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
-
-## Team Norms
-- We are iterate often and deliver frequently
-- We are respectful, both online and off
-- We turn on cameras as often as possible at meetings / calls
-- We are flexible and intentional in the way we work
-- We communicate often and in public channels
-- We ask questions when they arise
-- We listen without judgement
-- We keep our work simple and clean
-- We validate each others' work
-- We do reviews in independent environments
-- We hold each other accountable
-- We stick to our commitments as best as possible
-- We are respectful of others' time
 
 #### Slack:
 
