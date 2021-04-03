@@ -41,8 +41,7 @@ An online experience that allows Limited English Proficiency (LEP) Veterans and 
 
 ## How we work
 
-<details><summary>Workflow and Cadence/summary>
-<p>
+Workflow and Communications
    
 #### Stand-up
 Check in on people and product progress
