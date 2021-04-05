@@ -288,6 +288,8 @@ Date received
 
 Your claim was sent to
 
+Western Region
+
 VA Regional Office
 
 P.O. Box 8888
