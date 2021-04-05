@@ -25,8 +25,8 @@ assignees: shiragoodman, allison0034
 ## Meeting attendees from requesting team
 - Designer(s) (required): name(s)
 - Product Manager (required): name
-- OCTODE Product Lead (recommended): name
-- OCTODE Design lead (recommended): Ryan Thurlwell
+- DEPO Product Lead (recommended): name
+- DEPO Design lead (recommended): Ryan Thurlwell
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable)
 
