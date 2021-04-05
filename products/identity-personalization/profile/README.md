@@ -32,7 +32,7 @@ Last Updated April 5, 2021
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
-- Business Outcomes
+- [Business Outcomes](#business-outcomes)
 - Measuring Success
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
