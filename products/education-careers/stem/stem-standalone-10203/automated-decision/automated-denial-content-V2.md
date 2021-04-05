@@ -7,7 +7,7 @@
 
 **Submitted on:** Month DD, YYYY
 
-View details > {button}
+View details > { action link }
 
 
 
