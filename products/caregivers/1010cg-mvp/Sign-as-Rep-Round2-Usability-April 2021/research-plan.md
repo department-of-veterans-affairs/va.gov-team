@@ -12,8 +12,8 @@ Designs have been created to support the additional functionality of identifying
 
 The goals of this user research study are to: 
 
-- Test the usability of the updated representative workflow before publication.
-- Test the usability of the "upload a document" feature and understand what types of documents the user would upload.
+- Validate the usability of the updated representative workflow before publication.
+- Test the usability of the "upload a document" content (not the actual update funtionality) and understand what types of documents the user would upload.
 - Determine if the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers is improved.
 
 ### Research questions
