@@ -91,7 +91,7 @@ April 13th, 2021 | 12:00pm - 7:00pm EST
 
 ## Team Roles	
 
-- Moderator: Shawna Hein (shawna@adhocteam.us), Dene Gabaldon ()
+- Moderator: Shawna Hein (shawna@adhocteam.us), Dene Gabaldon (dene.gabaldon@adhocteam.us)
 - Research guide writing and task development: same as moderator
 - Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
