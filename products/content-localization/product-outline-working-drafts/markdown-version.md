@@ -136,8 +136,9 @@ Objective 2: Provide a recommendation for a scalebale solution that will enable 
 
 Out of Scope
 - Site-wide roll-out or centralized translation management
-- Non-content pages (ie: forms, VAMCs)
+- Non-content pages (ie: tools, VAMCs)
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
+- other chanels including notifications, email, snail mail). SK note: this could be a big driver for saving on translation costs - enabling other depts to leverage database)
 
 Assumptions
 Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
@@ -255,4 +256,7 @@ ________________________________________
 
 Placeholder: LEP individuals have meaningful access to important written information. Vital written documents include, but are not limited to, consent and complaint forms; intake and application forms with the potential for important consequences; written notices of rights; notices of denials, losses, or decreases in benefits or services; notice of disciplinary action; signs; and notices advising LEP individuals of free language assistance services. Agencies should proactively translate vital written documents into the frequently encountered languages of LEP groups eligible to be served or likely to be affected by the benefit program or service. Agencies should also put in place processes for handling written communication with LEP individuals in less frequently encountered languages
 A document will be considered vital if it contains information that is critical for obtaining federal services and/or benefits, or is required by law. Vital documents include, for example: applications, consent and complaint forms; notices of rights and disciplinary action; notices advising LEP persons of the availability of free language assistance; prison rulebooks; written tests that do not assess English language competency, but rather competency for a particular license, job, or skill for which English competency is not required; and letters or notices that require a response from the beneficiary or client. For instance, if a complaint form is necessary in order to file a claim with an agency, that complaint form would be vital. Non-vital information includes documents that are not critical to access such benefits and services. Advertisements of federal agency tours and copies of testimony presented to Congress that are available for information purposes would be considered non-vital information.
+Cloud-based technology stores, tracks and manages multilingual content across different enterprise applications allowing continuous, integrated translation in real time. For large, complex translation projects — assuming there are no internet connectivity problems — the best way to handle the volume, continuity and synchronization between several different departments and locations is by managing translation in the cloud.
 
+Cloud-based translation is continuous translation with no down time — unless, again, the internet goes down. Content that is constantly changing needs a dynamic and agile tool to keep up with the increasing demand for round-the-clock translation and distribution.
+A cloud-based translation platform may give companies more control over their content, and keeps corporate information in a single native environment.
