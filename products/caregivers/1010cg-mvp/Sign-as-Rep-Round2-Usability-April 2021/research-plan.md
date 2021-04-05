@@ -1,4 +1,4 @@
-# Research Plan: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, February 2020
+# Research Plan: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, April 2021
 
 ## Background
 
@@ -6,38 +6,37 @@ This study is being conducted by the VSA Caregiver team.
 
 The Caregiver team launched the digitized 10-10CG form October 1, 2020. Currently, the team is adding functionality that allows a Veteran’s legal representative to be identified and documentation (e.g. power of attorney) to be optionally uploaded. Designs have also been updated to surface information around Primary Family Caregiver and Secondary Family Caregivers.
  
-Designs have been created to support the additional functionality of identifying a legal representative. The team hopes to test the understandability, usability, and ease of use of the two representative workflow options and if the suggested changes improve the understanding of Primary Family Caregiver and Secondary Family Caregivers.
+Designs have been created to support the additional functionality of identifying a legal representative. The team hopes to test the understandability, usability, and ease of use of the representative workflow options and if the suggested changes improve the understanding of Primary Family Caregiver and Secondary Family Caregivers.
 
 ## Goals
 
-The goals of this user research study are to determine: 
+The goals of this user research study are to: 
 
-- The usability differences between two representative workflow options.
-- If the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers improved.
+- Test the usability of the updated representative workflow before publication.
+- Test the usability of the "upload a document" feature and understand what types of documents the user would upload.
+- Determine if the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers is improved.
 
 ### Research questions
 
 The research questions we want to address are: 
 
-- Does one of the representative workflow options perform better than the other with regards to understandability, usability, and use of use?
 - Are users confused by any particular aspect of the representative workflow?
 - Does the current representative workflow stop users from completing the form?
 - Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder understanding?
-- Would a user upload a document from their mobile phone or only from a desktop computer?
+- What types of documents does the user plan to upload?
 
 
 Our hypothesis: 
-
-- Testing the two representative workflows will result in a clear choice between the options due to better understandability, usability and user preference.
 
 - Users will be able to navigate through the form relatively easily, but may have issues with the following:
   - the terminology/content might be confusing within the representative workflow
   - the representative workflow might stop users (especially caregivers who are not legal representatives) from completing the form
   - Knowing if a Veteran or caregiver should select the Primary Family Caregiver or Secondary Family Caregiver workflow 
+  - Being prepared with the documents/ knowing what documents to upload if they choose this option
 
 ## Methodology 
 
-A task-based comparison/usability study will be conducted remotely with Zoom using the Perigean contract. This method will allow the team to share high-fidelity wireframe prototypes (desktop and mobile) to answer our research questions and confirm/deny our hypothesis.
+A task-based comparison/usability study will be conducted remotely with Zoom using the Perigean contract. This method will allow the team to share high-fidelity wireframe prototypes (desktop only) to answer our research questions and confirm/deny our hypothesis.
 
 
 ## Participants and Recruitment
@@ -64,6 +63,7 @@ Answer must be yes for 5 participants:
 **Good to have for participants**
 
 - At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
+- At least 1 participant that uses a screen reader
 - 50% women, 50% men.
 - 50% people who identify as an ethnicity/race other Caucasian.
 - At least 1 participant 35 or under and 1 participant over 55.
@@ -75,16 +75,13 @@ Answer must be yes for 5 participants:
 
 **Recruitment requirements**
  
-- Half (6) must have a mobile device and be willing to be complete the test on said device
-- Half of the mobile test participants (3) taking the test on an iOS mobile device
-- Half of the mobile test participants (3) taking the test on an Android mobile device
-- Half (6) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
+- All must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
 
 ## Timeline 
 
-**Desired Timeline: Feb. 16 - 19, 2021**
+**Desired Timeline: April 12 - 16, 2021**
 
 Session length: 1 hour 
 
@@ -115,8 +112,8 @@ Pilot Session: February 12, 2021 | 3:30 - 4:30 pm EST
 Resources	
 
 - Product Brief: (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
-- Conversation Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/conversation-guide.md
+- Conversation Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/conversation-guide.md
 - Synthesis		
 - Read-Out/Results	 	
 - ** Don't forget to add a link to your research folder to the research tracker! 
-- Reviewed and approved by Lauren Alexanderson on: February 9, 2021
+
