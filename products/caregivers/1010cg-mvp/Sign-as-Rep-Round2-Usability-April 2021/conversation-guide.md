@@ -96,8 +96,7 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 - Anything particularly confusing for them?
 - Pay close attention to the representative and document upload sections 
   - What documents would you upload here?
-  - Would you have themn on hand? 
-  - If on mobile, what would you do?
+  - Would you have them on hand? 
 - Make sure to dig in when there's any hesitation into what they are thinking
 - Any confusion understanding primary and secondary caregivers?
 
@@ -120,9 +119,8 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 - _If not addressed in tasks_ 
   -  What documents would you upload here?
   -  Would you have them on hand? 
-  -  If on mobile, what would you do?
   
- -If the legal representative is the same as the primary caregiver, statement of truth boxes that they are signing? (have aignature page ready) 
+ -If the legal representative is the same as the primary caregiver, statement of truth boxes that they are signing? (have signature page ready) 
  
   If time, show an discuss PFC and SFC screens
     -  First ask, What helped them make a choice? 
