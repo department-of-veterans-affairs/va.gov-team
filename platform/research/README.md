@@ -8,7 +8,7 @@ Hello! In this folder, you'll find information specific to how Research works on
 ### Points of contact
 The Research points of contact are: 
 - [Lauren Alexanderson](mailto:lauren.alexanderson@va.gov), @Lalexanderson on Slack 
-- [Alex Taylor](mailto:alex@adhocteam.us), @alextaylor on Slack 
+- [Emily Mann](mailto:emily.mann1@va.gov), @Emily Mann on Slack 
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
