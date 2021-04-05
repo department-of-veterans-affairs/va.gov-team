@@ -29,7 +29,6 @@ Last Updated April 5, 2021
 ### Table of Contents
 
 - [Overview](#overview)
-- [Products/Projects](#productsprojects)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
@@ -61,8 +60,6 @@ Currently, the VA.gov profile supports the following information:
 ## Solution Narrative
 
 ### Current projects
-
-- We are currently working on efforts to add preferred facility information and notification preferences to the profile
 
 |Product/Project| Outline|
 |----|----|
