@@ -12,4 +12,4 @@ Our team’s OKRS are broken out into three different categories.
 # NOW
 ## OBJECTIVE 1: Reduce the burden on Veterans to be persistent in following up on questions
 ### Key Result 1:Reduce the time between communications 
-#### KPI:Time between a provider sending a message -> the user opening the message (pending technical feasibility) 
+* KPI:Time between a provider sending a message -> the user opening the message (pending technical feasibility) 
