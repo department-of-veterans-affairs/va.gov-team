@@ -96,7 +96,7 @@ Sign in or create an account { button }
 
 { blue informational alert }  
 
-**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.   
 
 { end informational alert }  
 
@@ -134,7 +134,7 @@ This is the personal information we have on file for you.
 * Your last name (*Required) { text field, prefill if present }
 * Suffix { dropdown, prefill if present }
 * Social Security number (*Required) { text field, prefill if present }
-* Your date of birth: { prefill if present } (*Required)
+* Your date of birth { prefill if present } (*Required)
 
 ### Personal information
 
@@ -142,7 +142,7 @@ This is the personal information we have on file for you.
 * Mobile phone number (* Required) { text field, prefilled if present. } 
 * Home phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
-
+* Confirm email address (* Required) { text field, prefilled if present. }  
 
 **Mailing address**
 { Address, prefilled if present } 
