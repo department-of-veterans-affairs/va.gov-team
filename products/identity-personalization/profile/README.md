@@ -114,14 +114,14 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 **Q3 2021 (July – September)**
 
-- **Key result**: Add “your medical facilities” information to the VA.gov profile
+- **Key result**: Add preferred medical facilities information to the VA.gov profile.
 
 **Persistent key results**
 
 - Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
 - Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
 
-**Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.
+**Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
 
 **Q3 2021 (July – September)**
 
