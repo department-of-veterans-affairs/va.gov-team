@@ -1,6 +1,6 @@
 **Session Report**
 
-Project : [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates]
+Project : [Campaign Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates)
 
 [Link to Research Goals & Plan]
 
