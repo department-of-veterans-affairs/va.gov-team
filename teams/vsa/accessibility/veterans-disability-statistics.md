@@ -184,3 +184,10 @@ At a time when the rate of suicide among veterans and service members remains al
 
         - Service members who are sexually harassed are at significantly greater risk of sexual assault.
         - 1 in 4 survivors of either sexual assault or sexual harassment/discrimination took steps to leave the military as a result.
+
+
+## Veterans and hearing loss
+
+- As of the close of fiscal year 2014, more than 933,000 Veterans were receiving disability compensation for hearing loss, and nearly 1.3 million received compensation for tinnitus. 
+- In addition, many Veterans score normally on hearing tests but have difficulty understanding speech. This condition, called auditory processing disorder, is often associated with blast exposure.
+- [Source](https://www.research.va.gov/topics/hearing.cfm)
