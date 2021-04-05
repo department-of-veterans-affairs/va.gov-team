@@ -6,7 +6,6 @@ VSA Claims & Appeals
 Christian Valla 03/31/2021 
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/ResearchPlanNOD.md).
-
 Research Goals
 --------------
 
