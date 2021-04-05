@@ -189,4 +189,4 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Screenshots
 
-This is the latest version of the profile:
+![Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/LOA3.png)
