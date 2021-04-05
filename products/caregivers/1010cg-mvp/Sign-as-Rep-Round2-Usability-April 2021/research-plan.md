@@ -39,7 +39,7 @@ A task-based usability study will be conducted in staging, remotely with Zoom us
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit for 6-7 **fulfilled sessions**.  
+We would like to work with Perigean to recruit for 6-7 **fulfilled sessions**. Therefore, we request that 10 sessions be scheduled.  
 
 **Must have for participants**
 
