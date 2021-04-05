@@ -75,7 +75,7 @@ Answer must be yes for 2 participants:
 
 ## Timeline 
 
-**Desired Timeline: April 12 - 16, 2021**
+**Desired Timeline: April 12 - 13th, 2021**
 
 Session length: 45 minutes 
 
