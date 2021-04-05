@@ -208,7 +208,7 @@ The initial feature set will focus on:
 - Facility Locator
 - Veteran Crisis Line
 - Appointments
-- Secure Messaging see MVP feature set [here] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/secure-messaging/SM%20Mobile%20MVP%20Feature%20Recommendations.pdf)
+- Secure Messaging- see MVP feature set [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/secure-messaging/SM%20Mobile%20MVP%20Feature%20Recommendations.pdf)
 ## Document the people who agreed to the design decision
 
 -   Charles Worthington
