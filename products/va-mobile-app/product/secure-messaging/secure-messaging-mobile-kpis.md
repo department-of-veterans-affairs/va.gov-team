@@ -22,5 +22,13 @@ Our main question to answer during this time is 1) do Veterans use Secure Messag
 ### OBJECTIVE 3: Determine Veteran satisfaction with the secure messaging experience on the mobile app
 * Key Result: App store reviews contain positive comments about secure messaging
 
-## Additional product health metrics: 
+### Additional product health metrics: 
+* How often are users leveraging SM features?
+ * Attachments- % of messages sent with an attachment
+ * Folders
+  * % of app users who opened a custom folder
+  * % of users who opened the Sent folder
+
+* How many app users are reaching dead ends in SM?
+ * Account/login issues     
 
