@@ -4,11 +4,11 @@ Project : [Campaign Landing Page](https://github.com/department-of-veterans-affa
 
 # Key Findings
 
-Following are key findings from four beta tests conducted between March  and April 2, 2021:
+Following are key findings from four beta tests conducted with four VA editors between March 10-31, 2021:
 
 1. Images - Aspect ratio easy to skip. Also would be nice to know requirements for dimensions prior to selecting or uploading images into the form. 
 2. Audiences - Some uncertainty about what "audience" meant. Shouldn't be able to just add anything/freeform text. 
-3. "What you can do" Promo - Some confusion about use of the word promo to describe elements within this segment. Also help text seemed to add to confusion more than help it.
+3. "What you can do" Promo - Some confusion about use of the word promo to describe elements within this segment. Also help text seemed to add to confusion more than help it. 
 4. Preview - Some participants expressed desire to have previews along the way (i.e. after building each segment), or they wanted a side-by-side preview like they've seen in other CMS, such as Dreamweaver. Also expressed a desire to have clearer help text to remind them to save, and that they can preview upon saving.
 5. Internal navigation - The form is very long, so would be nice to have a way to go from segment to segment without having to scroll/also to help with wayfinding within the form. Also the nesting of forms within forms was confusing (ex. Downloadable Resources segment). 
 6. FAQs - Why 3 to 10? Some wanted more, some wanted less. 
