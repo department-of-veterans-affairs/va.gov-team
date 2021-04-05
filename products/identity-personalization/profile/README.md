@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated March 5, 2021
+Last Updated April 5, 2021
 
 ### Communications
 - GitHub Label: Profile
@@ -41,17 +41,15 @@ Last Updated March 5, 2021
 
 ## Overview
 
-The VA.gov profile (https://www.va.gov/profile) aims to answer the question — "What does the VA know about me?"
+The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 
-Currently, the VA.gov profile houses people's:
+Currently, the VA.gov profile supports the following information:
 
 - Personal and contact information
 - Military information
-- Direct deposit information (comp & pen only; edu pending)
+- Direct deposit information
 - Account security
-- Connected apps
-
-With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md), the profile will also house "account" information and "Connected apps". Please note that the Connected Apps integration is managed entirely by the Lighthouse team and largely outside the purview of the authenticated experience team.
+- Connected apps (managed by the Lighthouse team)
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
@@ -60,25 +58,28 @@ With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-a
 - **VA Profile**: This is a backend system that was formerly known as Vet360. It came about in 2018 to act as a connector between a bunch of VA backends and frontends, so that veterans could update their info in one place and it would save everywhere (or almost everywhere). The VA Profile team is not part of the OCTO/DEPO contracts. They are an entirely separate team that we work with, and they work with a lot of other teams. 
 - **The VA.gov profile** — The VA.gov profile is a section of VA.gov, which you can view at https://staging.va.gov/profile/personal-information with pretty much any staging user. The VA.gov profile is a **frontend only**; we do not store any information. We rely entirely on [various VA backend systems](#api-calls-and-dependent-systems) to show and save data. VA Profile is only one of them, which we currently use to show and save contact information. 
 
-## Products/Projects
+## Solution Narrative
 
-The profile is a section of VA.gov that houses multiple products/features. Below is a list of different profile-related projects/products that we've worked on. Please use these outlines to get a sense for the individual details for each effort, including OKRs & KPIs:
+### Current projects
+
+- We are currently working on efforts to add preferred facility information and notification preferences to the profile
 
 |Product/Project| Outline|
 |----|----|
-|2018 MVP| [2018 MVP outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md)|
-|Contact information| [Contact information outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)|
-|Direct deposit for comp & pen | [Direct deposit for comp & pen outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
-|Address validation| [Address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)|
+|Direct deposit for edu| [Direct deposit for edu outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md)|
+|Preferred medical facility| [Preferred facility outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) |
+| Commmunications permissions/notifications preferences | [Notification preferences outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) |
+
+### Past projects
+
+|Product/Project| Outline|
+|----|----|
 |Combine profile and account (Profile 2.0)| [Profile 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)|
 |Connected apps | [Connected apps outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps-data/README.md)
-|Direct deposit for edu| [Direct deposit for edu outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md)|
-
-## Solution Narrative
-
-### Current Status
-
-- We are currently working on efforts to add preferred facility information and notification preferences to the profile
+|Address validation| [Address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)|
+|Direct deposit for comp & pen | [Direct deposit for comp & pen outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
+|Contact information| [Contact information outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)|
+|2018 MVP| [2018 MVP outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md)|
 
 ### Timeline
 
