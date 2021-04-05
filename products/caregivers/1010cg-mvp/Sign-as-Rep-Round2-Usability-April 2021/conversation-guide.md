@@ -1,4 +1,4 @@
-# Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, February 2020
+# Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, April 2021
 
 ## Moderator Logistics
 
@@ -11,7 +11,7 @@
 
 ## Project-Specific Setup and Intro - 10 minutes
 
-Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
+Thanks for joining us today! My name is Shawna and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
 
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -22,34 +22,10 @@ Thanks for joining us today! My name is Jonathan and I also have some colleagues
 
 **Talk them through Zoom screen sharing and chat features.
 
-**If mobile participant**
-- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
-    -Great, that helps me troubleshoot with you if we run into any problems.
-    
-_For iPhone:_
-- When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share Content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
-- Tap ‘Share Content’ (Green button at bottom middle of the screen)
-- Tap on Screen
-- Tap Zoom
-- Tap “Start broadcast” . After a count of 3, the entire device screen will be shared into the meeting
-- Tap the red bar at the top of your screen when you are ready to end the share
-- Great, now I can see your phone screen! I'm going to begin now if that's ok with you. We will return to this in a few moments.
-_For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
-
-_For Android:_
-- When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "Chat" and "Share." Any questions?
-- Tap "Share"
-- Tap "Screen"
-- May give a "sensitive info" alert
-- May ask you to give Zoom permission to display over other apps, toggle yes. Then hit the back arrow. 
-- Tap "Start now" (maybe)
-_For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
 
 **I'm going to send you a link in the chat.**
 _ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
-Mobile [include link or links]
-Open prototype in another tab
 Desktop [include link or links]
 Open prototype in another tab
 
