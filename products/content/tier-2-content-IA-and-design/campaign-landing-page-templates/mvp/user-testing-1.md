@@ -15,7 +15,8 @@
 
 **3. Provide the ability to share a preview of the CLP with internal (VPN) VA stakeholders**
 - This would support stakeholder review and/or approval before publication
-
+- Use password-protected approach in staging as we are doing with Mission Act now
+-
 ***Priority 2's - for v. 1.0 of CLP***
 
 **4. Add a Newsletter Sign-up feature as an optional Panel or optional component within a Panel**
@@ -26,12 +27,13 @@
 
 **6. Allow CLP to re-order optional Panels**
 - This to enable more flexible editorial experience
+- Question: Should be able to re-order even the Required Panels
 
 ***Priority 3's - Ice Box***
 
 - Explore implications of allowing the user to make Video a Hero option
 - Consider the addition of a **What's on this Page** Table of Contents component in Panel 1 or 2 with hotlinks
-- Would like the ability to share a preview URL to internal VA stakeholders for approval before publish
+
 
 ---------------------------
 
