@@ -100,6 +100,40 @@ The profile gives us a place to present a consolidated view of what we know abou
 
 We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
 
+## Measuring Success
+
+### Objectives and Key results (OKRs)
+
+*What are the measurable targets you're aiming for that delivers value for Veterans?*
+
+**Objective #1: To be the place where Veterans and other users can review all the information the VA knows about them, and reliably update (or learn how to update) outdated or incorrect information.**
+
+**Q2 2021 (April – June)**
+
+- **Key result**: Finish integrating direct deposit for edu information into the VA.gov profile.
+
+**Q3 2021 (July – September)**
+
+- **Key result**: Add “your medical facilities” information to the VA.gov profile
+
+**Persistent key results**
+
+- Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
+- Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
+
+**Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.
+
+**Q3 2021 (July – September)**
+
+- **Key result**: Launch notification preference settings MVP in the VA.gov profile.
+
+### Key Performance Indicators (KPIs)
+
+*What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes? What are the most important metrics that track with this product/initiative's success?*
+
+- Successful and failed retrievals for all information pulled into the profile.
+- Successful and failed updates of all information pulled into the profile.
+
 ## Solution Narrative
 
 ### Current projects
