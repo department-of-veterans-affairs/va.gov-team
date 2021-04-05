@@ -36,7 +36,7 @@ Ascertain remaining tasks for these features
 
 ### Backend
 - Build a serializer (5)
-- Set up the controller (3)
+- [22611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22611) Set up the controller (3)
 - Set up the model (5)
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
