@@ -38,8 +38,8 @@ OR
 
 ## Meeting attendees from requesting team
 - Product Manager (required): name
-- OCTODE product lead (recommended): name
-- OCTODE Design lead (recommended): Ryan Thurlwell
+- DEPO Product lead (recommended): name
+- DEPO Design lead (recommended): Ryan Thurlwell
 - Anyone else from your team who significantly contributed to the artifacts provided (required): name(s)
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
