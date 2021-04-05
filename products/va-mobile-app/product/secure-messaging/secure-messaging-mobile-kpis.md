@@ -1,6 +1,6 @@
 # Mobile App Secure Messaging KPIs (draft)
 
-# Product North Star Metric (draft)
+# Product North Star Metric 
 * Time between a provider sending a message -> the user opening the message (pending technical feasibility) 
 
 # Objectives + Key Results
