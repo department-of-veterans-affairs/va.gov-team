@@ -208,6 +208,7 @@ The initial feature set will focus on:
 - Facility Locator
 - Veteran Crisis Line
 - Appointments
+- Secure Messaging
 ## Document the people who agreed to the design decision
 
 -   Charles Worthington
@@ -226,7 +227,7 @@ As far as table stakes, we found that there are a set of features that are basic
 
 As far as what users want, our testing indicated that participants were interested in both claims and health features, but overall more interested in health than claims. This is likely for two reasons. First, Veterans may interact with health features over a longer period of time - once a claim is filed and a decision is given, Veterans may stop needing claims features as urgently, depending on the nature of their claim. Second, the people we spoke with were not all actively going through a claim at the point in time when we talked to them.
 
-As far as technical viability for an MVP, we found that there is unique technical complexity with health features such as RX Refill and Secure Messaging that there isn't with claims. For example, these health features are not available in Lighthouse (which isn't a requirement for the mobile app but did make it easier for us to experiment with the claims API because it was available in Lighthouse) and many of the health features are being reimagined as part of the health tools work so it makes sense for the app to wait until that work is complete. 
+As far as technical viability for an MVP, we found that there is unique technical complexity with health features such as RX Refill that there isn't with claims. For example, these health features are not available in Lighthouse (which isn't a requirement for the mobile app but did make it easier for us to experiment with the claims API because it was available in Lighthouse) and many of the health features are being reimagined as part of the health tools work so it makes sense for the app to wait until that work is complete. 
 
 Combining these three takeaways, we decided to include all of the table stakes features in the MVP and focus on claims for the first release. This will let us get something out the door quickly to test its viability and then we can add health features and dive into the technical complexity with more time.
 
