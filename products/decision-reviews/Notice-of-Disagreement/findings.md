@@ -202,15 +202,15 @@ Recommendations
 
 -   Considerations for the Issues eligible for review page: 
 
--   Consider making the drop-down link Why aren’t all my issues listed here more noticeable. 
+-   Consider making the drop-down link Why aren't all my issues listed here more noticeable. 
 
--   Change the copy of the Opt-in note from Legacy Appeals Process to plain language (e.g. new and old appeal process). Simplify and clarify the copy about the opt-in process, and make it consistent with the copy about the opt-in process on the Board Appeals Info page.  
+-   Change the copy of the Opt-in note from Legacy Appeals Process to plain language (e.g. new and old appeal process). Simplify and clarify the copy about the opt-in process, and make it consistent with the copy about the opt-in process on the Board Appeals Info page.
 
--   Due to the incomplete list of issues eligible for Board Appeal, allow veterans to instead manually add the issues they want to appeal to the board. Caveat: if the list of issues in fact shows most of their issues, keeping the list makes sense (we are waiting for more data on this.)  
+-   Due to the incomplete list of issues eligible for Board Appeal, allow veterans to instead manually add the issues they want to appeal to the board. Caveat: if the list of issues in fact shows most of their issues, keeping the list makes sense (we are waiting for more data on this.)  
 
--   Tech discovery - can additional data be pulled from VBS, to provide a complete list with all the veteran’s issues, whether registered or  just pending?  
+-   Tech discovery - can additional data be pulled from VBS, to provide a complete list with all the veteran's issues, whether registered or just pending?  
 
--   Make the copy on the Board review option page consistent with the Board Appels Info page. Simplify language if possible. Add the time estimates to both pages. 
+-   Make the copy on the Board review option page consistent with the Board Appels Info page. Simplify language if possible. Add the time estimates to both pages.
 
 -   Tech discovery: can the time estimates be more granular?
 
