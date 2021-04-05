@@ -11,11 +11,11 @@
 
 ## Project-Specific Setup and Intro - 10 minutes
 
-Thanks for joining us today! My name is Shawna and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
+Thanks for joining us today! My name is Shawna/Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
 
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- You'll be interacting with a prototypes and a demo tool. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- You'll be interacting with a a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - Please talk aloud as you're looking through things. For example, say "now I'd click on this.. what's this?" This helps me understand what's going through your head while using the tool.
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
@@ -27,7 +27,7 @@ Thanks for joining us today! My name is Shawna and I also have some colleagues o
 _ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
 Desktop [include link or links]
-Open prototype in another tab
+Open staging link in another tab
 
 **Backup plan if they cannot figure out how to share screen:**
 
@@ -121,11 +121,6 @@ Wonderful! I have a few questions about what you just saw in the prototype.
   -  Would you have them on hand? 
   
  -If the legal representative is the same as the primary caregiver, statement of truth boxes that they are signing? (have signature page ready) 
- 
-  If time, show an discuss PFC and SFC screens
-    -  First ask, What helped them make a choice? 
-    -  Any confusion? 
-    - Show "surfaced" language  
 
 ## Wrap-up questions - 5 minutes
 
