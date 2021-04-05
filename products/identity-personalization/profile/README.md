@@ -29,6 +29,11 @@ Last Updated April 5, 2021
 ### Table of Contents
 
 - [Overview](#overview)
+- Problem Statement
+- Opportunities 
+- User Outcomes
+- Business Outcomes
+- Measuring Success
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
@@ -56,6 +61,18 @@ Currently, the VA.gov profile supports the following information:
 
 - **VA Profile**: This is a backend system that was formerly known as Vet360. It came about in 2018 to act as a connector between a bunch of VA backends and frontends, so that veterans could update their info in one place and it would save everywhere (or almost everywhere). The VA Profile team is not part of the OCTO/DEPO contracts. They are an entirely separate team that we work with, and they work with a lot of other teams. 
 - **The VA.gov profile** — The VA.gov profile is a section of VA.gov, which you can view at https://staging.va.gov/profile/personal-information with pretty much any staging user. The VA.gov profile is a **frontend only**; we do not store any information. We rely entirely on [various VA backend systems](#api-calls-and-dependent-systems) to show and save data. VA Profile is only one of them, which we currently use to show and save contact information. 
+
+## Problem Statement
+
+*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+
+Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any given department or medical center may have access to different pieces of information. This makes it hard to understand the full picture of what the VA knows about any given Veteran/person.
+
+## Opportunities
+
+*"How might we... _______" statement re-framing the challenge as an opportunity.*
+
+The VA.gov profile aims to solve for this by providing a centralized place that consolidates the information the VA knows about a Veteran/person. The profile should clearly and reliably present the information the VA knows about a Veteran/person and present paths to allow people to update information as needed, whether that is from the profile itself, or whether that requires paths outside of the profile in instances where someone needs to change an official government record.
 
 ## Solution Narrative
 
