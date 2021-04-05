@@ -21,6 +21,10 @@
 
 Agenda/Notes
 
+  - Updates
+    - CMS is now pushing Covid Vaccine service apointment info to Lighthouse. 
+    - CMS has a method to bulk push these services to Lighthouse.
+
   - Action Items 
     - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
     - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
