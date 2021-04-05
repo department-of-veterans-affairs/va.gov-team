@@ -38,8 +38,6 @@ Last Updated March 5, 2021
 - [Screenshots](#screenshots)
 
 ---
- 
-# Executive Summary
 
 ## Overview
 
