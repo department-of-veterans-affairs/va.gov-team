@@ -4,7 +4,7 @@
 * Time between a provider sending a message -> the user opening the message (pending technical feasibility) 
 
 # Objectives + Key Results
-Our team’s OKRS are broken out into three different categories. 
+Our team’s OKRs are broken out into three different categories. 
 * Now- what we are striving to achieve within the mobile app’s first release to the app store 
 * Next- goals we anticipate once we accrue more information and learn how users interact with secure messaging within the mobile app. 
 * Later- future orientated 
