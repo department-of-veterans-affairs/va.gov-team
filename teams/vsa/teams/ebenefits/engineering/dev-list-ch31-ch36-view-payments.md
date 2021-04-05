@@ -35,10 +35,9 @@ Ascertain remaining tasks for these features
 - 508 testing
 
 ### Backend
-- Build a serializer (5)
+- 🔽 Build a serializer (5)
 - [22611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22611) Set up the controller (3)
-- Set up the model (5)
-- Set up a sidekiq job  (3)
+- [22636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22636) Set up the model (5)
 - Set up sentry events  (5)
 - Test submission against environment (5) 
 
