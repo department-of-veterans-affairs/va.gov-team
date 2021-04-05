@@ -26,7 +26,7 @@ Start the education application { button }
 When you’re signed in to your VA.gov account:  
 
 * We can prefill part of your application based on your account details.
-* You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the form and you’ll need to start over.  
+* You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the application and you’ll need to start over.
 
 **Note:** If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.  
 
