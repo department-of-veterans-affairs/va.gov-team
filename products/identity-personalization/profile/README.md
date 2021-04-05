@@ -33,7 +33,7 @@ Last Updated April 5, 2021
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- Measuring Success
+- [Measuring Success](#measuring-success)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
