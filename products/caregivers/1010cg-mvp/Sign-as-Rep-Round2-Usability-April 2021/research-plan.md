@@ -58,11 +58,11 @@ Answer must be yes for 2 participants:
 
 **Good to have for participants**
 
-- At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
+- At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities 
 - At least 1 participant that uses a screen reader
-- 50% women, 50% men.
-- 50% people who identify as an ethnicity/race other Caucasian.
-- At least 1 participant 35 or under and 1 participant over 55.
+- 50% women, 50% men
+- 50% people who identify as an ethnicity/race other Caucasian
+- At least 1 participant 35 or under and 1 participant over 55
 - At least one person that does not have a college degree (to include enlisted Vets)
 - At least one person who lives in a rural or remote area
 
