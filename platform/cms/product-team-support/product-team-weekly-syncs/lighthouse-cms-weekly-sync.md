@@ -30,6 +30,8 @@ Agenda/Notes
     - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
     - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
 
+   - Prioritization?  Additional service data, VetCenter CAPS ?
+
 ## Monday Mar 29 3:00pm ET
 
 Agenda/Notes
