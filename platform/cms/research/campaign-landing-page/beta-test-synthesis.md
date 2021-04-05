@@ -66,9 +66,9 @@ FAQs
 
 ## Discussion
 
-* There were no findings that were so severe that it would require stopping the MVP from being release as is.
-* Even level two findings are not so severe that editors would be rendered unable to complete the task/build a CLP page.
+* There were no findings that were so severe that it would require stopping the MVP from being released as is.
+* The level two findings are not so severe that editors would be rendered unable to complete the task/build a CLP page.
 * Some of the findings are dependent upon product owner and/or business decisions, or supporting business processes.
-* Next recommended steps would be to compare CMS team findings and severity levels with those of the product owner, and to determine technical feasibility and level of effort for those findings that are chosen as candidates beyond MVP
+* Next recommended steps would be to compare CMS team findings and severity levels with those of the product owner, and to determine technical feasibility and level of effort for those findings that are chosen as candidates beyond MVP.
  
 
