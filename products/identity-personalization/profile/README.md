@@ -30,7 +30,7 @@ Last Updated April 5, 2021
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- Opportunities 
+- [Opportunities](#opportunities)
 - User Outcomes
 - Business Outcomes
 - Measuring Success
