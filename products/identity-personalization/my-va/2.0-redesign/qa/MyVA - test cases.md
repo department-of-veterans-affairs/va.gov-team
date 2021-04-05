@@ -6,7 +6,7 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|User has not signed in to VA.gov|User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA.|**any user**|
+|User has not signed in to VA.gov|User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA.|**any user**|[My VA Unauthenticated](https://vsateams.invisionapp.com/share/SH10HT8JCKYM)|
 
 ### Test cases for ["LOA1 user"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
 
