@@ -45,15 +45,23 @@ FAQs
 
 # Key Quotes:
 
-"With these callouts and guided content, it makes it pretty easy for people who aren't in comms to use it."
-"This is really, really solid. I don't think you guys have much more (work) to go on this."
-"I know this is MVP and it'll get more fantastic as it goes."
-"I like how the boxes showed you where the info would go and how it would look, so you're not working in the dark completely."
-“Overall pretty good...for someone who's never created a campaign landing page it was pretty simple...It's (like) copy/paste for someone that doesn't know HTML or (know) the back end of Drupal.”
-"I think this will be very cool. Just a bunch of hurdles until we can get to a cool place."
-"This is not beating up on y'all at all...(I) can tell you put a lot of work into it. For someone that doesn't really know computers, (it) might be confusing."
-"This is cool-this is super cool."
-"I think y'all have done a great job."
+> "With these callouts and guided content, it makes it pretty easy for people who aren't in comms to use it."
+> 
+> "This is really, really solid. I don't think you guys have much more (work) to go on this."
+> 
+> "I know this is MVP and it'll get more fantastic as it goes."
+> 
+> "I like how the boxes showed you where the info would go and how it would look, so you're not working in the dark completely."
+> 
+> “Overall pretty good...for someone who's never created a campaign landing page it was pretty simple...It's (like) copy/paste for someone that doesn't know HTML or (know) the back end of Drupal.”
+> 
+> "I think this will be very cool. Just a bunch of hurdles until we can get to a cool place."
+> 
+> "This is not beating up on y'all at all...(I) can tell you put a lot of work into it. For someone that doesn't really know computers, (it) might be confusing."
+> 
+> "This is cool-this is super cool."
+> 
+> "I think y'all have done a great job."
 
 
 ## Discussion
