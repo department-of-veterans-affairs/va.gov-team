@@ -78,13 +78,27 @@ The VA.gov profile aims to solve for this by providing a centralized place that 
 
 ### Desired user outcomes
 
+*Why would a user want to use this? What should users be able to do/achieve that they couldn't before?*
+
+Instead of wondering whether the VA has the correct information for a given person, they can easily check and confirm this in the VA.gov profile. 
+
+Also, if they see information that is incorrect, it’s quick and easy to update information from the VA.gov profile, much easier than needing to submit a paper form or having to go through a VA medical center to get information updated.
+
 ### Undesired user outcomes
+
+We don’t want to force users to go to the Profile to view/edit information if that doesn’t feel intuitive in some cases, so one risk is that we use the profile as a de facto place for all Veteran information when they don’t anticipate finding it there.
 
 ## Business outcomes
 
-### Desired user outcomes
+### Desired business outcomes
 
-### Undesired user outcomes
+*Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
+
+The profile gives us a place to present a consolidated view of what we know about Veterans and other users instead of silo-ing it in benefit hubs.
+
+### Undesired business outcomes
+
+We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
 
 ## Solution Narrative
 
