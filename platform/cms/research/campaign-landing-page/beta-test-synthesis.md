@@ -25,23 +25,23 @@ Following are the key findings ranked in order of severity, where 1 is considere
 
 ## Level 1
 
-N/A
+* N/A
  
 ## Level 2
 
-Images 
-What you can do Promo 
-Preview 
-Internal navigation 
+* Images 
+* What you can do Promo 
+* Preview 
+* Internal navigation 
 
 ## Level 3
 
-Audiences 
-Order of segments 
+* Audiences 
+* Order of segments 
 
 ## Level 4
 
-FAQs 
+* FAQs 
 
 # Key Quotes:
 
