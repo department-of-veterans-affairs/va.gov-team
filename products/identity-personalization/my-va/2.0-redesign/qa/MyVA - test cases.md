@@ -2,7 +2,7 @@
 
 [MyVA staging users information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
 
-### Test cases for [an unauthenticated user](add link)
+### Test cases for an unauthenticated user
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
