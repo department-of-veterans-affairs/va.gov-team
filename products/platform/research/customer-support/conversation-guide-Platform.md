@@ -42,9 +42,9 @@ _When the participant is ready, begin the session with the following intro_
 
 ### Project-specific setup
 
-- [ ] Step 1 (We will will need either two Slack channels or one channel with both workflows)
+- [ ] Step 1 Support-test-1 https://dsva.slack.com/archives/C01SW21RVLJ/p1617644289003200
 
-- [ ] Step 2
+- [ ] Step 2 Support-test-2 https://dsva.slack.com/archives/C01SF982BAB/p1617645047001400
 
 
 ## Intro - 5 minutes
@@ -128,7 +128,7 @@ We put together a prototype that we would love to get your feedback on.
 
 Great. Thank you. We have another prototype that we would love to get your feedback on.
 
-- Invite participant to channel, instruct participants to open Slack and join channel, and share screen
+- Invite participant to channel, instruct participants to open Slack and join channel, and share screen if you feel comfortable.
 
 - Moderator completes form with either frquencet request mentioned in warm-up questions or scenario determined before by previous requested posts 
 
