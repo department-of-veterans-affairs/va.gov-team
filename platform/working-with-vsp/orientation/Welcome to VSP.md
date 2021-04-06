@@ -14,11 +14,11 @@ You are! Any sprint team building online Veteran-facing experiences is a VFS tea
 
 The Platform is the common infrastructure, technical and non-technical components, and processes that support static and interactive content consumed by Veterans via VA.gov. Major pieces of the Platform include a set of APIs that manage communication between a Veteran user and internal VA resources, an identity and authentication system, the VA.gov Design System, reusable frontend components, a Drupal-based content management system, and an extensive set of documentation and guides.
 
-## How should VFS teams expect to get up and running?
+<!--## How should VFS teams expect to get up and running?-->
 
-Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with the Platform.
+<!--Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with the Platform.-->
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/VSP_Onboarding_Timeline.001.png)
+<!--(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/VSP_Onboarding_Timeline.001.png)-->
 
 ## Working in the open
 
