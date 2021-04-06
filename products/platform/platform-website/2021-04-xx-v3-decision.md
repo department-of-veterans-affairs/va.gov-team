@@ -16,7 +16,9 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
   - [Pre "Platform Website": The old, practice area-based "Home Page MVP"](https://department-of-veterans-affairs.github.io/va.gov-team/)
   - [V1: Backend development documentaton](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
   - [V2: Persona-based landing pages](https://va-platform-docs.scrollhelp.site/getting-started/)
-  - [V3: In-progress](https://va-platform-docs.scrollhelp.site/index.html)
+  - V3: 
+    - [Production site](https://depo-platform-documentation.scrollhelp.site/index.html)
+    - [Sandbox](https://va-platform-docs.scrollhelp.site/index.html)
 - 2021 Q2 "Develop IA" initiative: [Platform Website — Develop IA for Platform Website #22189](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/22189)
 
 
