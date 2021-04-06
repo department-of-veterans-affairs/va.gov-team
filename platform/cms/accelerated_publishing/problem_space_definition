@@ -11,6 +11,12 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   Cost
     *   The technical complexity and opaqueness of the content publishing process requires significant human capital to understand, explain, and execute, thereby creating an excessive cost to taxpayers.
 
+## What do VFS and VSA Engineers want?
+
+*   Add incremental builds -- if one page changes, we only build that page
+*   Find a way to decrease the complexity. This might involve taking a close look at how we could better organize the build steps or it could be finding a different tool that could help us improve the build process.
+*   Resolve broken links blocking builds per CMS team recommendation
+*   Providing better documentation for the GraphQL API with sample queries for traversing entity relationships
 
 ## What have we tried?
 
