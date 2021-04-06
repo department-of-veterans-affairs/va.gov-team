@@ -8,7 +8,9 @@ Cindy Merrill, Senior Researcher, Mar 2021
   * What have they looked for recently and how? 
     * Search and/or browse?
     * Where do they start typically? Google? Facebook?
-    * 4 white quadrants? Topics below the photos? Footer? Header?
+    * 4 white quadrants? Topics below the photos? Footer? Header (mega-menus/dropdowns for benefit hubs)?
+    * Any differences when using desktop vs. mobile?
+    * Any differences between people who have used VA.gov before and those you have not? (recruit for both)
   * Do they find what they need? If not, what were they looking for? 
 * What are the biggest pain points?
 * What are the most-asked questions at the VA call center? 
