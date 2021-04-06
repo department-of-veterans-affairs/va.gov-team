@@ -49,14 +49,14 @@ _When the participant is ready, begin the session with the following intro_
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Platform . 
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Platform support. 
 
 Before we start, a few things I want to mention:
 
 
 
 *   **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-*   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet VFS team’s needs/Platform team’s need. I will not be offended by any opinions you express, and I welcome your feedback.
+*   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet VFS team’s needs and Platform team’s need. I will not be offended by any opinions you express, and I welcome your feedback.
 *   **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will have any permanent effects.
 *   **If for any reason and at any time you want to stop the session, please let me know.**
 *   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -114,7 +114,7 @@ We put together a prototype that we would love to get your feedback on.
 
 
 
-*   What do you think of responding to this form/post?
+*   What do you think of responding to this form?
 *   Was there enough information provided to respond to the post accurately? 
 *   How did you come up with your response
 *   What was the hardest part? Were there any areas you felt were unclear?
@@ -151,7 +151,7 @@ Great. Thank you. We have another prototype that we would love to get your feedb
 
 
 
-*   What do you think of completing this form?
+*   What do you think of responding to this form?
 *   Is there enough information provided to respond to the request accurately? 
 *   Were there any areas you felt were unclear?
 *   Anything that worked well?
@@ -164,7 +164,7 @@ Great. Thank you. We have another prototype that we would love to get your feedb
 
 *   Looking at the two experiences, was there one option that worked better for you? Why? 
 *   After you responded to the Slack workflow, what would you expect to happen next? 
-*   (COMMENT FROM NAOMI) At this point, after you're finished helping someone, if you think that a document could be updated or created to help someone else, would you be willing to add a note in a knowledge base with what you found so that documentation could be updated later? 
+*   At this point, after you're finished helping someone, if you think that a document could be updated or created to help someone else, would you be willing to add a note in a knowledge base with what you found so that documentation could be updated later? 
 *   Any questions for me? 
 
 
