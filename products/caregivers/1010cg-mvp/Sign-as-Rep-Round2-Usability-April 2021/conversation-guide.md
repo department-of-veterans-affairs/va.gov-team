@@ -11,7 +11,7 @@
 
 ## Project-Specific Setup and Intro - 10 minutes
 
-Thanks for joining us today! My name is Shawna/Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about federal benefits that are provided to caregivers of Veterans.
+Thanks for joining us today! My name is Shawna/Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype about VA benefits that are provided to caregivers of Veterans.
 
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -57,7 +57,7 @@ Great. Now we're really ready to begin!
 - Does your caregiver receive any benefits from the VA?
   -If yes, what sort of benefits?
   -Are you/they part of the Program of Comprehensive Assistance for Family Caregivers?
--Do you have more than one caregivers?
+-Do you have more than one caregiver?
   -If yes,  tell me a bit about that relationship?
   -Are they a family member or friend?
 - Do they live with you?
@@ -114,7 +114,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 - I'm going to quickly show you my screen (moderator shares screen with “representative” question)
    - Can you tell me how you decided/knew that you were/weren’t a representative?
-   - _If they were confused when completing this section._ What could we do to improve the information around representatives 
+   - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
    - Can you elaborate on your reasoning for your selection?
 - _If not addressed in tasks_ 
   -  What documents would you upload here?
