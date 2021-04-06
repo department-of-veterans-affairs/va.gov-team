@@ -74,9 +74,9 @@ User is already enrolled in health care|User does NOT see "Learn how to apply fo
 User is NOT enrolled in health care and has NEVER applied for healthcare|User sees "Learn how to apply for healthcare" link, then applies, the link/blurb goes away and it shows as an application in-progress |**Tze to recreate using existing user**|[Applying for health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055980_My_VA_Health_Care)|
 User HAS filed a claim|User sees "Learn how to file a claim for disability" link|**226**|[Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 User HAS NOT filed a claim|User sees "Learn how to file a claim for disability" link|**10**| [no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|
-User receives DD4edu payments|User does NOT see "Apply for education benefits" link|**378**|[recieves education](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449056409_My_VA_Desktop_Recieves_Education)|
+User receives direct deposit for edu payments|User does NOT see "Apply for education benefits" link|**378**|[recieves education](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449056409_My_VA_Desktop_Recieves_Education)|
 |User has started an application for education benefits|User will see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|[Started education benefits app](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055977_My_VA_Education_Application)|
-|User DOES NOT receive DD4edu payments|User will see the "Learn how to apply for Education Benefits" link|**TBD**|[No education benefits](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|User DOES NOT receive direct deposit for edu payments|User will see the "Learn how to apply for Education Benefits" link|**TBD**|[No education benefits](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 
 
 #### Apply for VA benefits links
