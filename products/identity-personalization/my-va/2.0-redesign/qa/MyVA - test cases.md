@@ -12,7 +12,7 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|LOA1 user has not verified their identity and has an application in progress on VA.gov|User is shown a prompt to verify their identity, their application in progress, and the 'Benefits you might be interested in' section (links related to filing a claim, applying for healthcare, and applying for education benefits) |**Tze can add application to user 350**| [LOA1 with applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM)
+|LOA1 user has not verified their identity and has an application in progress on VA.gov|User is shown a prompt to verify their identity, their application in progress, and the 'Benefits you might be interested in' section (links related to filing a claim, applying for healthcare, and applying for education benefits) |**Tze can add application to user 350**| [LOA1 with applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens/448961807)
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and links related to filing a claim, applying for healthcare, and applying for education benefits ('Benefits you might be interested in')|**350**|[LOA1 screen](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032788_My_VA_LOA1)|
 
 
