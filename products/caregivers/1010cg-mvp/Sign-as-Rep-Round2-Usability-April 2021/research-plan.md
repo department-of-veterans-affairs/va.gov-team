@@ -54,7 +54,7 @@ or
 Answer must be yes for 2 participants: 
 
 - Are you a Veteran’s legal representative? 
-  - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. 
+  - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. Being next of kin or being married to the veteran does not automatically constitute legal representation.
 
 **Good to have for participants**
 
