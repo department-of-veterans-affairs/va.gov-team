@@ -35,12 +35,23 @@
 
 </details>
 
+## Wednesday, April 6
+
+CLP
+* Published node for /campaign-mission-act on prod, unpublished events, and prod/staging switch in vets-website 
+* Sync on ongoing research synthesis 
+* Review issues (forthcoming) for CLP request form
+
+Other?
+* 
+
+
 ## Wednesday, March 31
 
 [Outreach Hub feedback and feature requests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
 CLP 
- * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791)
+ * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791) (_moved back_)
 
 ## Wednesday, March 24
 
