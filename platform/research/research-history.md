@@ -14,6 +14,17 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2021
 
+### March 2021
+
+#### March 22 - April 5: Board Appeals (NOD) usability testing
+*Claims and Appeals, Lead Researcher: Christian Valla*
+
+- Number of participants: 7
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
+
+- Keywords: Board Appeals; Notice of Disagreement;
+
 ### February 2021
 
 #### Feb 22 - Feb 26: My VA 2.0 usability testing
