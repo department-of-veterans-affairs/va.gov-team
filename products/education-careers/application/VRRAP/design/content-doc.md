@@ -19,20 +19,13 @@ Start the education application { button }
 
 { end if logged in } 
 
-{ if logged out, informational alert }  
+{ if logged out, informational alert with green side bar }  
 
-### Save time—and save your work in progress—by signing in before starting your application 
+### Please sign in to apply for VRRAP 
 
-When you’re signed in to your VA.gov account:  
+Try signing in with your **DS Logon, My HealtheVet**, or **ID.me** account.  If you don't have any of those accounts, you can create one now.  
 
-* We can prefill part of your application based on your account details.
-* You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the application and you’ll need to start over.
-
-**Note:** If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.  
-
-Sign in to start your application { button } 
-
-[Start your application without signing in]() 
+Sign in or create an account { green button }  
 
 { end if logged out }  
 
@@ -87,8 +80,6 @@ If your application isn't approved, you’ll get a denial letter in the mail.
 { if logged out }  
 
 Sign in or create an account { button } 
-
-[Start your application without signing in]() 
 
 { end if logged out }  
 
