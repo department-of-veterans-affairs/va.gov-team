@@ -27,9 +27,9 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   Used training to mitigate sub-optimal publishing experience
 
 **Successes**
-*   Breaking up monolithic GQL query bought us time for a new solution’
+*   Breaking up monolithic GQL query bought us time for a new solution
 *   GraphQL stability improvements
-*   Monitoring of individual GraphQL queries gave insight into the slowest ones and ways to optimize 
+*   Monitoring individual GraphQL queries identified the slowest queries and opportunities for optimization
 
 
 ## What do we want to achieve?
@@ -40,7 +40,7 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   One person editing one page can't break the content deploy
 *   Seamless publishing experience for editors (no detection of decoupled back end state)
 
- How might we...
+## How might we...
 
 *   allow in-place content editing
 *   give editors the ability to publish content in real-time?
@@ -54,7 +54,7 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   Expected number of businesses / users/ content onboarding to CMS in 2021/22 and max content in the next 5 yrs
 *   Definition of success
 *   Who approves the approach?
-*   If infrastructure cost a limiting factor at any level
+*   Is infrastructure cost a limiting factor at any level?
 *   URL/path changing during build process
 
 
@@ -64,7 +64,7 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   Lack of alignment on the definition of "instant" 
 *   Misalignment on the objective at OCTO-DE level
 *   ATO says no (or it will take too long for change approval)
-*   Lack of resources 
+*   Insufficient resources 
 
 
 ## What does success look like?
@@ -79,108 +79,21 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 ## Who is affected by the problem
 
 **Those who have actions/input**
-<table>
-  <tr>
-   <td><strong>WHO</strong>
-   </td>
-   <td><strong>DETAILS</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Jeff Barnes, Deputy OCTO-DE
-   </td>
-   <td>Initiative Sponsor who will unblock the team at the highest levels if necessary. Not involved day to day
-   </td>
-  </tr>
-  <tr>
-   <td>Rachael Rouche - OCTO-DE | Platform Product Lead
-   </td>
-   <td>Will work with Mike to help prioritize our work across platform crew, including assistance with cross-team dependencies.
-   </td>
-  </tr>
-  <tr>
-   <td>Mike Chelen, OCTO-DE CMS PO/Technical Advisor
-   </td>
-   <td>1. Confirm there are no technical limitations. Document rationale for blockers.
-<p>
-2. Main OCTO-DE POC, will help prioritize our work across platform crew, including assistance with cross-team dependencies.
-<p>
-3. Review / Provide inputs / Sign off on solution. Buy-in.
-   </td>
-  </tr>
-  <tr>
-   <td>Dror Matalon - OCTO-DE Head of Engineering, Platform Co-Lead
-   </td>
-   <td>1. Confirm there are no technical limitations. Document rationale for blockers.
-<p>
-2. Review / Sign off on solution.
-   </td>
-  </tr>
-  <tr>
-   <td>Dave Conlon, OCTO-DE Facilities PO
-   </td>
-   <td>Key/primary stakeholder - OCTO-DE POC for communicating our timelines to Facility Stakeholders/business units. Set expectations for business units.
-   </td>
-  </tr>
-  <tr>
-   <td>Michael Fleet & Demian Ginther  - VSP Leads
-   </td>
-   <td>Review / Provide inputs on solution. Buy-in.
-   </td>
-  </tr>
-  <tr>
-   <td>Stan Gardner + team
-   </td>
-   <td>1. Encourage PAOs and others to participate in research.
-<p>
-2. Bridge for change management.
-   </td>
-  </tr>
-  <tr>
-   <td>ATO POC
-   </td>
-   <td>Approve third-party tools [if any] / Modify ATO - TBD.
-   </td>
-  </tr>
-</table>
-
+|WHO|DETAILS|
+|---|-------|
+|Jeff Barnes, Deputy OCTO-DE|Initiative Sponsor who will unblock the team at the highest levels if necessary. Not involved day to day|
+|Rachael Rouche - OCTO-DE | Platform Product Lead|Will work with Mike to help prioritize our work across platform crew, including assistance with cross-team dependencies.|
+|Mike Chelen, OCTO-DE CMS PO/Technical Advisor|1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Main OCTO-DE POC, will help prioritize our work across platform crew, including assistance with cross-team dependencies. <br>3. Review / Provide inputs / Sign off on solution. Buy-in.|
+|Dror Matalon - OCTO-DE Head of Engineering, Platform Co-Lead|1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Review / Sign off on solution.|
+|Dave Conlon, OCTO-DE Facilities PO|Key/primary stakeholder - OCTO-DE POC for communicating our timelines to Facility Stakeholders/business units. Set expectations for business units.|
+|Michael Fleet & Demian Ginther  - VSP Leads|Review / Provide inputs on solution. Buy-in.|
+|Stan Gardner + team|1. Encourage PAOs and others to participate in research. <br>2. Bridge for change management.|
+|ATO POC|Approve third-party tools [if any] / Modify ATO - TBD.|
 
 **Those who will be impacted**
-
-<table>
-  <tr>
-   <td><strong>WHO</strong>
-   </td>
-   <td><strong>DETAILS</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Centralized CMS editors ie - Beth Potts, Danielle Terry (VA / USDS editors), Randi Hecht
-   </td>
-   <td>Leaders of certain initiatives. Power users whose day to day experience will be greatly improved with this effort.
-<p>
-Most empowered group of editors working on larger content teams who may have more complex needs for communication between individual editors.
-   </td>
-  </tr>
-  <tr>
-   <td>Localized CMS editors (ie Ryan Stubblebine)
-   </td>
-   <td>Our largest group of CMS editors who will need the most amount of support for change management and training.
-<p>
-Ryan is a CMS editor at Pittsburgh VAMC - early adopter, heavily invested in  enhancements/improvements
-   </td>
-  </tr>
-  <tr>
-   <td>Vet Center editors
-   </td>
-   <td>Newest group of editors whose limited contact w/ the CMS may impact change mgmt.
-   </td>
-  </tr>
-  <tr>
-   <td>OPIA Teamsite business owners/editors
-   </td>
-   <td>Selling to them. End customer. Have doubts about adopting CMS.
-   </td>
-  </tr>
-</table>
-
+|WHO|DETAILS|
+|---|-------|
+|Centralized CMS editors ie - Beth Potts, Danielle Terry (VA / USDS editors), Randi Hecht|Leaders of certain initiatives. Power users whose day to day experience will be greatly improved with this effort. <br>Most empowered group of editors working on larger content teams who may have more complex needs for communication between individual editors.|
+|Localized CMS editors (ie Ryan Stubblebine)|Our largest group of CMS editors who will need the most amount of support for change management and training. <br>Ryan is a CMS editor at Pittsburgh VAMC - early adopter, heavily invested in  enhancements/improvements|
+|Vet Center editors|Newest group of editors whose limited contact w/ the CMS may impact change management.|
+|OPIA Teamsite business owners/editors|Selling to them. End customer. Have doubts about adopting CMS.|
