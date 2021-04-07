@@ -43,7 +43,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 - After you checked-in, how did you know where to go next? Where were you directed to go (directly to the doctor’s office area, a central waiting room, or somewhere else)?
 - Which check-in method do you use most often? This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments. (Note for researcher: there is the “I am here” system as well as a separate solution only available in South Carolina)
 - Have you ever had a check-in experience go wrong at the VA?
-  - If so, can you share that experience?
+  - If so, can you share what happened?
 
 ## Virtual appointments (5 minutes)
 - How many virtual appointments have you had since the beginning of the pandemic/COVID-19?
