@@ -60,12 +60,13 @@ Great. Now we're really ready to begin!
 -Do you have more than one caregiver?
   -If yes,  tell me a bit about that relationship?
   -Are they a family member or friend?
-- Do they live with you?
+- Do they live with you? 
+```Is this last question a duplicate of above or part of the more than one piece?``` 
 
 **For Caregivers:**
 - Tell me a little bit about yourself
 - Tell me a bit about the relationship you have with the Veteran?
-- Is the Veteran you are providing caregiving, a family member or friend? 
+- Is the Veteran you are providing caregiving, a family member or friend? ```phrasing on this question is a bit strange. Recommend trying to say that one aloud!``` 
 - Do you receive any benefits from the VA?
   -If yes, what sort of benefits?
   -Are you part of the Program of Comprehensive Assistance for Family Caregivers?
