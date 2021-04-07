@@ -108,7 +108,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### Slack
 
- This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. Channel link: https://dsva.slack.com/archives/C01GCADCMQT
+ - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. Channel link: https://dsva.slack.com/archives/C01GCADCMQT
  
  
 #### PTO
@@ -121,7 +121,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### Github Product Folder
  
- This is where we store any files/documents related to our product work: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization
+- This is where we store any files/documents related to our product work: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization
  
  #### Mural Boards
  
