@@ -8,6 +8,13 @@
 |----|----|----|----|
 |User has not signed in to VA.gov|User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA.|**any user**|[My VA Unauthenticated](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448962033_My_VA_Desktop_Unauthenticated)|
 
+
+### Test cases for [Cerner users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md#alertserrors)
+|Test case|Intended outcome|Staging User|Prototype link|
+|----|----|----|----|
+
+|User is a patient at or is managing health care through a Cerner facility|User should see the title for 'Health care' and then the Cerner alert to help redirect them to the correct place to manage their healthcare|**[ssoissoetesting+mhvcss3@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+
 ### Test cases for ["LOA1 user"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
 
 |Test case|Intended outcome|Staging User|Prototype link|
