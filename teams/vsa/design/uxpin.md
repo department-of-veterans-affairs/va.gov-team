@@ -16,7 +16,7 @@ There are currently 13 paid UXPin licenses, for a maximum of 14 UXPin accounts u
 | 8       | **Megan**  |
 | 9       | **Josh**, Tze |
 |10       | **Kristen** |
-|11       | **Leyda** |
+|11       | **Leyda**, Nick |
 |12       | **Dene** |
 |13       | **Cindy** |
 
