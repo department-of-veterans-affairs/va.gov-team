@@ -122,6 +122,10 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 **Direct deposit KPIs**
 
+[Direct deposit for comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+[Direct deposit for edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/UJwvqguWQMqJaGySJWq1VQ/a50123418w177519031p176188361/)
+
+
 |KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
 |----------|-------------|---------------|----------------|----------------|
 | Comp & pen: % successful retrievals | 97.6%| | | |
