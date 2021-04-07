@@ -24,16 +24,15 @@
 ## Wednesday April 7
 
 * Centralized content - update from CMS team for Policies and Vet Centers - Steve
-* Vet Center content status
-  - Vet Center taxonomy status - Dave
-  - Vet Center regions/zones - Kevin
+* Vet Center content status: quick updates
+  - ~Vet Center taxonomy status - Dave~
+  - ~Vet Center regions/zones - Kevin~
   - Facility services updates - Kevin
   - Minor content model changes incoming (some content may be needed for FE dev) - Kevin
     - "Nearby Mobile Vet Centers" 
     - Facility status for CAPs 
 * Tugboat vs vets-website CI environments for product testing - Michael, Gibran, Steve, Kevin, Dave, Michelle
 * How to handle new facilities, new Health care systems, merged health care systems. - Steve, Dave, Kevin, Michelle
-
 
 ## March 31
 
