@@ -57,6 +57,8 @@ Tressa Furner, VSA Authenticated Experience
 - Screen readers cannot see an image, but can see the ‘alternate text’ - use the tag ‘ alt =‘ associated with an image or image link.  (Says graphic followed by text)
 - Aria text is a message giving instructions. Form labels typically tell you what to do - aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
 - Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map.
+- "See" is a term that is all encompassing for all senses
+- 
 
 ### Who to test
 
@@ -69,6 +71,7 @@ There are different types of people who use screen readers:
 We need to differentiate between low vision vs no vision in research because that will effect how they are using the screen reader.
 
 We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader. 
+
 
 ## Follow up questions
 
