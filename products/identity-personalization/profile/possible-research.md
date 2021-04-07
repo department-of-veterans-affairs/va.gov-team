@@ -50,3 +50,14 @@ This document serves to capture smaller updates we've made to profile that don't
 ### Research questions
 - Is it helpful to people to have this information?
 - Is this sufficient?
+
+## Test left nav, now that it's grown and we have more items
+- **Release date**: TBD
+- **Impacted pages:** profile 
+- **Device:** mobile or desktop
+
+### Research questions
+- Are people able to easily navigate profile using the side nav?
+- Do the navigation labels make sense to people?
+- Do we need to think about grouping some labels?
+- More to come...
