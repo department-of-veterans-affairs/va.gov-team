@@ -2,19 +2,23 @@
 
 ## VSA UXPin Accounts
 
-There are currently 9 paid UXPin licenses, for a maximum of 10 UXPin accounts under our current plan. Each bolded individual below holds a license.
+There are currently 13 paid UXPin licenses, for a maximum of 14 UXPin accounts under our current plan. Each bolded individual below holds a license.
 
 | Account | Partners                |
 |---------|-------------------------|
-| 1       | **Shawna**, Jonathan    |
+| 1       | **Shawna**   |
 | 2       | **Rebecca**, Riley      |
 | 3       | **Tressa**, Cassandra   |
 | 4       | **Kevin**, Christian    |
-| 5       | **Liz/Laurel**, Kristen |
-| 6       | **Jim**, Leyda          |
+| 5       | **Liz** |
+| 6       | **Jim** |
 | 7       | **Martha**, DEPO        |
-| 8       | **Christopher**, Megan  |
+| 8       | **Megan**  |
 | 9       | **Josh**, Tze |
+|10       | **Kristen** |
+|11       | **Leyda** |
+|12       | **Dene** |
+|13       | **Cindy** |
 
 ## Why we're using UXPin
 - UXPin allows us to share detailed specs with our engineers and collaborators more easily, without extra licenses
