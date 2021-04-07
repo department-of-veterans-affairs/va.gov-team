@@ -237,8 +237,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
-- [508-defect-2 [TTY]: VAOS - Appointment cards must have TTY: 711 links for deaf/hard-of-hearing users - #21389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21389)<br/>
-**Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-2 [TTY]: Facility Locator - Search results and facility detail views must have TTY: 711 links for deaf/hard-of-hearing users - #21390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21390)<br/>
 **Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>
