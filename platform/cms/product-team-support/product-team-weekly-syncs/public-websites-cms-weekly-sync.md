@@ -2,7 +2,7 @@
 
 <details><summary>About this meeting</summary>
 
-- Wednesdays 10am ET 
+- Wednesdays 11am ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
@@ -40,6 +40,7 @@
 CLP
 * Published node for /campaign-mission-act on prod, unpublished events, and prod/staging switch in vets-website 
 * Sync on ongoing research synthesis 
+  - [CMS synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/campaign-landing-page/beta-test-synthesis.md)
   - [Product Observations/Prioritized Action Items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.md)
 * [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953)
 
