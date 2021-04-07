@@ -56,7 +56,9 @@ Please refer to the guidance in [Getting Started with the Collaboration Cycle](h
 - [ ] Yes
 - [ ] No
 
-**Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?**
+**Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?**
+
+_Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information._
 - [ ] Yes
 - [ ] No
 
