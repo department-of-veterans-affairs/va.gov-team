@@ -42,9 +42,8 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - Did you have to complete a form before entering the facility? If yes, probe on if it was something completed in advance/on their mobile device/paper/something else.
 - After you checked-in, how did you know where to go next? Where were you directed to go (directly to the doctor’s office area, a central waiting room, or somewhere else)?
 - Which check-in method do you use most often? This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments. (Note for researcher: there is the “I am here” system as well as a separate solution only available in South Carolina)
-- Do you receive any of your healthcare from outside the VA? 
-  - If yes...
-    - What does the check-in process look like at the other facilities that you go to? How does it compare to the VA's check-in process?
+- Have you ever had a check-in experience go wrong at the VA?
+  - If so, can you share that experience?
 
 ## Virtual appointments (5 minutes)
 - How many virtual appointments have you had since the beginning of the pandemic/COVID-19?
@@ -89,6 +88,9 @@ Now, I’m going to ask you to think about your very last medical appointment th
           - What are your thoughts about this workflow? I'm also interested to hear about how you currently complete this task instead.
         - _If the Veteran has experience with the kiosk_
           - Does this look familiar?
+          - Do you go to multiple different VA locations? 
+            - If yes, does the check-in experience differ at each location? 
+              - Is one experience better or worse than the other? Why?
           - Have you ever been asked additional questions compared to what I just showed you when checking-in via the kiosk?
             - What were the questions?
             - What type of appointments were they for?
@@ -174,6 +176,9 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What did you like about that experience? What could be improved?
 
 ## (DON'T SKIP IF SHORT ON TIME!) Wrap-up questions (4 minutes)
+- Do you receive any of your healthcare from outside the VA? 
+  - If yes...
+    - What does the check-in process look like at the other facilities that you go to? How does it compare to the VA's check-in process?
 - If you had a magic wand and you could check in for your appointment any way you would like, what would that experience look like?
   - What about if you could do all the check-in tasks that you can from the kiosk, but on your cell phone?
   - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone on va.gov?
