@@ -134,9 +134,10 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 [My VA vs. Homepage Usage Report for Logged-in Users: Jan 2021 – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&_.useg=builtin1,useroZx0HcxxRpWtuNYX7IFkHA,userTBuj9_dPSF-sBQQO9Srv-g/)
 
-**KPI/metric**: % of logged-in users who visit My VA.
-- Baseline: ~6% of logged-in users interact with My VA per quarter.
-- Baseline: ~13% of logged-in users interact with the homepage per quarter.
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|% of logged-in users who visit My VA| 6%|TBD|TBD|
+|% of logged-in users interact with the homepage| 13% |TBD|TBD|
 
 **Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
 
