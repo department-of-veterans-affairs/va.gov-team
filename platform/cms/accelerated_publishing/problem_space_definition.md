@@ -66,6 +66,10 @@ _As an "Accelerated Publishing" team member, I need to understand the problem sp
 *   ATO says no (or it will take too long for change approval)
 *   Insufficient resources 
 
+## Assumptions
+
+* Drupal and Preview will remain accessible via VA Network only (SOCKS/CAG/LAN)
+
 
 ## What does success look like?
 
