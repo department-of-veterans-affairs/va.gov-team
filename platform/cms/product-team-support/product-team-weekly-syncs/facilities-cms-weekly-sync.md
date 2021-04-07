@@ -27,12 +27,14 @@
 * Vet Center content status: quick updates
   - ~Vet Center taxonomy status - Dave~
   - ~Vet Center regions/zones - Kevin~
-  - Facility services updates - Kevin
-  - Minor content model changes incoming (some content may be needed for FE dev) - Kevin
-    - "Nearby Mobile Vet Centers" 
+  - Facility services updates now happen "inline" on a Vet Center - Kevin
+  - Minor content model changes incoming Thursday April 8 (some content may be needed for FE dev) - Kevin
+    - "Nearby Mobile Vet Centers" on Locations list
     - Facility status for CAPs 
 * Tugboat vs vets-website CI environments for product testing - Michael, Gibran, Steve, Kevin, Dave, Michelle
 * How to handle new facilities, new Health care systems, merged health care systems. - Steve, Dave, Kevin, Michelle
+* If there's time: IA governance update (Dave, Kevin, Steve)
+* Breadcrumbs?
 
 ## March 31
 
