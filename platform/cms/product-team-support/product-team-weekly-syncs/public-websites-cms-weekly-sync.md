@@ -43,8 +43,16 @@ CLP
   - [Product Observations/Prioritized Action Items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.mdw)
 * [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953)
 
+
+* MVP Roll-out plan:
+  - Meet with the four VACO stakeholder groups (VHA, VBA, VEO, OPIA) to:
+  - Provide update on any prioritized changes we plan to make for MVP release and timeline (in April)
+  - Determine if there are 1-2 CLPs that we can launch into production in late April timeframe
+  - Walk through the Analytics/Dashboard set-up
+
 Other
 * [#4952 Action links](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4952) for VRRAP page and beyond. 
+
 
 
 ## Wednesday, March 31
