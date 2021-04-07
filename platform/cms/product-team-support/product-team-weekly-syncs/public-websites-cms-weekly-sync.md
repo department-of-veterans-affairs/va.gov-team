@@ -42,7 +42,13 @@ CLP
 * Sync on ongoing research synthesis 
   - [CMS synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/campaign-landing-page/beta-test-synthesis.md)
   - [Product Observations/Prioritized Action Items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.md)
-* [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953)
+
+CLP audience decisions
+- Update to leverage existing audience terms (CMS team to refine backlog items)
+
+
+* [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953) 
+  * Next steps: John to review  
 
 
 * MVP Roll-out plan:
@@ -54,7 +60,6 @@ CLP
 Other
 * [#4952 Action links](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4952) for VRRAP page and beyond. 
 * Update on Outreach and Events hub enhancements (still in Dave's court?)
-
 
 
 ## Wednesday, March 31
