@@ -6,7 +6,7 @@
 - Marci McGuire, PM
 - Selina Cooper, Content Writer
 - Randi Hecht, Senior Writer
-- Beth Potts
+- Beth Potts, Sitewide Content Lead
 
 ### Notes
 - John gave background
