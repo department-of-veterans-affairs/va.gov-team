@@ -143,12 +143,13 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 [My VA Interactions Report: Jan - March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
-**KPI/metric**: Clicks into tools on My VA.
-- Baseline: ~102K clicks into individual claims this quarter.
-- Baseline: ~77K clicks into View all claims CTA this quarter.
-- Baseline: ~20K clicks into View all appointments CTA this quarter. 
-- Baseline: ~32K clicks into View all messages CTA this quarter. 
-- Baseline: ~20K clicks into View all prescriptions CTA this quarter. 
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|Clicks into individual claims| ~102K clicks|TBD|TBD|
+|Clicks to view all claims | ~77K|TBD|TBD|
+|Clicks to view all appointments| ~20K|TBD|TBD|
+|Clicks to view all messages| ~32K|TBD|TBD|
+|Clicks to view all prescriptions|~20K|TBD|TBD|
 
 **Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
 
