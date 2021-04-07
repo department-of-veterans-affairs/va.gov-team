@@ -19,7 +19,7 @@
 | ^/education.* | Education |
 | ^/gi-bill.* | Education |
 | ^/gibill.* | Education |
-| ^/decision-reviews.* | Records |
+| ^/decision-reviews.* | X |
 | ^/records.* | Records |
 | ^health-care/get-medical-records.* | Records |
 | ^/housing-assistance.* | Housing Assistance |
