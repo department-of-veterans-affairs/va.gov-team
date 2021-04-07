@@ -31,6 +31,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - How do Veterans view this page or content? Its own site? Never seen before? Content same or different from VA.gov home page?
   - Any feedback on the name "Resources & Support"?
   - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
+- See if Veterans want to share content with others. Try out the sharing link to see if Veterans understand it and how to paste the link
 ### Benefit Hubs 
 (focused on the following dropdown links under "VA Benefits and Health Care" at the top of va.gov: Health care, Disability, Education and training, Careers and employment, Pension, Housing assistance, Life insurance, Burials and memorials)
 - Do Veterans use this? Check analytics data and ask Veterans
