@@ -124,6 +124,12 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
 |----------|-------------|---------------|----------------|----------------|
+| Comp & pen: % successful retrievals | 97.6%| | | |
+| Comp & pen: % successful saves | 87.7%*| | | |
+| Edu: % successful retrievals |N/A| | | |
+| Edu: % successful saves |N/A| | | |
+
+*This percentage is due to an error state in BGS that they don't want to get rid of around certain routing numbers having been flagged for fraud in a 2015 fraud ring. While these routing numbers are no longer an issue and the fraud team has recommended removing the error, it still exists and causes a significant amount of failures on VA.gov.
 
 **Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
 
