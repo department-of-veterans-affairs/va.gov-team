@@ -2,8 +2,8 @@
 name: VANotify Business Intake Form
 about: To submit a request with the VANotify 
 title: <Type of Request> from <Team>
-labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming
-assignees: Public Websites, Sitewide content
+labels: vanotify-intake
+assignees: 
 
 ---
 
