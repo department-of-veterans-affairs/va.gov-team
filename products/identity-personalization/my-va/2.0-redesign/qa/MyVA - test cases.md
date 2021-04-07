@@ -12,14 +12,14 @@
 ### Test cases for [Cerner users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md#alertserrors)
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|User is a patient at or is managing health care through a Cerner facility|User should see the title for 'Health care' and then the Cerner alert to redirect them to the correct place|**[ssoissoetesting+mhvcss3@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+|User is a patient at or is managing health care through a Cerner facility|User should see the title for 'Health care' and then the Cerner alert to redirect them to the correct place (Chalmers P. Wylie Veterans Outpatient Clinic should be above the first button)|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
 
 #### Test cases for Cerner buttons
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|Go to My VA Health|Should go to the Spokane-Columbus site|**[ssoissoetesting+mhvcss3@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
-|Go to My Healthevet|Should go to MHV|**[ssoissoetesting+mhvcss3@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+|Go to My VA Health|Should go to My VA Health homepage|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+|Go to My Healthevet|Should go to MHV user dashboard|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
 
 ### Test cases for ["LOA1 user"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
 
