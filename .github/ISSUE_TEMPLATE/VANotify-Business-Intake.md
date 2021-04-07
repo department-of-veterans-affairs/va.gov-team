@@ -1,3 +1,12 @@
+---
+name: VANotify Business Intake Form
+about: To submit a request with the VANotify 
+title: <Type of Request> from <Team>
+labels: vsa-public-websites, vsa, vsa-public-websites-intake, sitewide-content, needs-grooming
+assignees: Public Websites, Sitewide content
+
+---
+
 ## What is the business outcome you are trying to achieve? (required 1-2 sentences) 
 
 
