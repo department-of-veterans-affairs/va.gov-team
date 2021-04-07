@@ -14,7 +14,7 @@ Not sure you’re eligible for VA disability benefits? [Find out if you’re eli
 Answer a few questions to get started.
 
 
-{user flow 1}
+### User flow 1
 
 Are you on active duty right now? 
 
@@ -42,7 +42,7 @@ H1: File for disability compensation with VA Form 21-526EZ
 
 ---------
 
-{User flow 2}
+### User flow 2
 
 Are you on active duty right now? 
 
@@ -72,7 +72,7 @@ H1: File for disability compensation with VA Form 21-526EZ
 
 ------
 
-{user flow 3}
+### User flow 3
 
 Are you on active duty right now? 
 
@@ -102,7 +102,7 @@ H1: File a Benefits Delivery at Discharge claim with VA Form 21-526EZ
 
 
 
-{User flow 4}
+### User flow 4
 
 Are you on active duty right now? 
 
@@ -127,7 +127,7 @@ Based on your separation date, you’re not eligible to file for disability bene
 
 
 
-{User flow 5}
+### User flow 5
 
 Are you on active duty right now? 
 
