@@ -52,6 +52,7 @@ CLP
 
 Other
 * [#4952 Action links](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4952) for VRRAP page and beyond. 
+* Update on Outreach and Events hub enhancements (still in Dave's court?)
 
 
 
