@@ -36,9 +36,9 @@
 
 ### Action Items
 - Update the content request with more details on areas of focus
-- Create a copydeck for the SMEs that, for each field includes
-    - Form name
-    - Draft description
-    - SME
-    - Space for SMEs to add related forms (if applicable).
+- Create a copydeck for the SMEs that, for each form, includes the following fields:
+        - Form name
+        - Draft description
+        - SME
+        - Space for SMEs to add related forms (if applicable).
     - Reconvene with Content team to review updated request.
