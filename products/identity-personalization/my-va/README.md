@@ -159,16 +159,16 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 - Baseline: “disability” search rank this quarter: #8
 - Baseline: “claims” search rank this quarter: #17
 
-This may also have an impact on overall searches on VA.gov.
+This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
--	KPI/metric: Overall searches on WBC VA.gov.
-o	Baseline: “disability rating” search rank this quarter: #11
-o	Baseline: “rating” search rank this quarter: #15
-o	Baseline: “disability” search rank this quarter: #19
+**KPI/metric**: Overall searches on WBC VA.gov.
+- Baseline: “disability rating” search rank this quarter: #9 & #15
+- Baseline: “rating” search rank this quarter: #11
+- Baseline: “disability” search rank this quarter: #21
 
 **Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
 
-My VA Foresee Report
+[My VA Foresee Report](https://cxsuite.foresee.com/client/projects/76647/analytics/respondents)
 
 **KPI**: My VA Average ForeSee score.
 - Baseline: Current My VA score for all time is 3.2.
