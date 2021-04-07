@@ -1,9 +1,10 @@
 # We're moving our docs!
 
-Find the latest version of this page on the [Platform website](https://depo-platform-documentation.scrollhelp.site/infrastructure/Review-Instances.810385495.html).
+Find the latest version of [this page](https://depo-platform-documentation.scrollhelp.site/infrastructure/Review-Instances.810385495.html) on the Platform website.
 
 Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://depo-platform-documentation.scrollhelp.site/infrastructure/Review-Instances.810385495.html) on Slack.
 
+----
 ----
 
 # Reviewing changes in feature branches
