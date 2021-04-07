@@ -1199,7 +1199,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: LI elements must be contained in an UL or OL - #21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Links must have discernible text - #21791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21791)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
