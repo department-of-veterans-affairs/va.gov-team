@@ -125,13 +125,13 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
  
  #### Mural Boards
  
- "Wall of Work" https://app.mural.co/t/vsa8243/m/vsa8243/1616367504180/c04955731b5c072c17ffb0f405f3867287a76931 OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616367504180?sender=uc4dee377db84ad6d775b1680&key=bf67994c-2abf-4e07-98f8-c4b64bfd260a
+-  "Wall of Work" https://app.mural.co/t/vsa8243/m/vsa8243/1616367504180/c04955731b5c072c17ffb0f405f3867287a76931 OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616367504180?sender=uc4dee377db84ad6d775b1680&key=bf67994c-2abf-4e07-98f8-c4b64bfd260a
  
- "Interviews" https://app.mural.co/t/vsa8243/m/vsa8243/1616539522988/53685d4242bcde217d6bd041977cb8dc2f4d44fa OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616539522988?sender=uc4dee377db84ad6d775b1680&key=9ccd117e-f56f-4957-9c63-d8e1455411e0
+-  "Interviews" https://app.mural.co/t/vsa8243/m/vsa8243/1616539522988/53685d4242bcde217d6bd041977cb8dc2f4d44fa OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616539522988?sender=uc4dee377db84ad6d775b1680&key=9ccd117e-f56f-4957-9c63-d8e1455411e0
 
 #### Research
 
-Usability Testing and Research for reference: https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
+- Usability Testing and Research for reference: https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
 
 #### Epics
 
