@@ -1,9 +1,9 @@
 ---
 name: VANotify Business Intake Form
-about: To submit a request with the VANotify 
-title: <Type of Request> from <Team>
+about: To submit a request with the VANotify Team
+title: 
 labels: vanotify-intake
-assignees: 
+assignees: bevnobev
 
 ---
 
