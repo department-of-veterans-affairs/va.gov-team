@@ -96,7 +96,9 @@ In general, we want to sit back and watch them, but if they hesitate you can say
 - Anything particularly confusing for them?
 - Pay close attention to the representative and document upload sections 
   - What documents would you upload here?
-  - Would you have them on hand? 
+  - Do the upload instructions make sense to you?
+  - Do you already have a digital copy of the documents? (explain what this means if necessary)
+  - How do you usually create a digital copy of your paper documents? (prompt with personal scanner, photo, local office store, etc. if hesitation)
 - Make sure to dig in when there's any hesitation into what they are thinking
 - Any confusion understanding primary and secondary caregivers?
 
