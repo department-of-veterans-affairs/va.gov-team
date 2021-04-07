@@ -40,10 +40,10 @@
 CLP
 * Published node for /campaign-mission-act on prod, unpublished events, and prod/staging switch in vets-website 
 * Sync on ongoing research synthesis 
-* Review issues (forthcoming) for CLP request form
+* [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953)
 
-Other?
-* 
+Other
+* [#4952 Action links](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4952) for VRRAP page and beyond. 
 
 
 ## Wednesday, March 31
