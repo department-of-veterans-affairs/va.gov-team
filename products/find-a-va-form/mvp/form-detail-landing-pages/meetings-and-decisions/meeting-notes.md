@@ -41,3 +41,4 @@
     - Draft description
     - SME
     - Space for SMEs to add related forms (if applicable).
+    - Reconvene with Content team to review updated request.
