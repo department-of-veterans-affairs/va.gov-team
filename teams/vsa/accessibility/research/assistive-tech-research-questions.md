@@ -70,6 +70,10 @@ We need to differentiate between low vision vs no vision in research because tha
 
 We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader. 
 
+## Follow up questions
+
+- Can we ask for a screenshare? What's the best way to ask for a screenshare? What if they don't use a monitor?
+
 
 
 
