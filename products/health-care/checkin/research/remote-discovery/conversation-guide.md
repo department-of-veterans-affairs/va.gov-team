@@ -73,6 +73,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - [Click any month]
         - [Click any day]
         - [Click "Confirm" button]
+        - How do you normally sign in?
         - [Click "Yes" button] 
         - Sometimes you may have more than one appointment, so you can select the particular appointment you are signing in for here. [Click "Continue" button]
         - You can update your contact information as well, such as address, home phone and email. [Click "Edit" button next to Address]
