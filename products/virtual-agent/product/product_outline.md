@@ -39,12 +39,46 @@ For Phase 1 we will look for the following high-topic, and draft high-level (una
 - Handling Veteran Crisis scenarios (presenting phone number)
 - Covid Questions
 
+Please Note: We expect many questions to be too complex for a virtual agent to answer. We will surface the best “here is how you can help yourself” response matched to an understood intent.
+
+In Phase 1, the virtual agent will not (always) try to disambiguate a question via extensive conversations with the Veteran. If the virtual agent is not able to answer the Veteran’s question, it will result in a phone number being displayed.
+
+_Virtual Agent Phase 1 Features:
+
+1. Location TBD, somewhere on va.gov 
+2. Free form chat experience to the users
+Greetings & “Chit Chat” dialogues  
+Conversations will be logged for analysis 
+Handling errors in conversations
+System wide technical errors
+Understanding user intents
+Collecting feedback- embedded feedback survey
+
+3. Handing Veteran Crisis scenarios
+Present users the number for Veteran Crisis hotline and disable chatbot if a crisis keyword is used
+
+4. Knowledge Management Content use 
+
+5. Connecting with Covid Chatbot
+Allow users to ask questions about Covid and present a link to go to the Covid Chatbot 
+
+**Phase 2 Approach:**
+- Gather and access feedback from live users to refine our roadmap
+- Connect with a live agent from the chat
+- Partner with LOB’s to identify additional use cases for the Virtual Agent
+- Build features to enable users to authenticate and perform tasks (ie. pay bills, process claims)
 
 
 
 
 
 
+
+
+
+
+
+REST OF DRAFT
 
 
 
