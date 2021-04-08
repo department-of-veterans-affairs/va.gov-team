@@ -1,6 +1,6 @@
 ----
 
-### We're moving our docs! Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/VI/pages/1255276574/Welcome+to+VSP) on the Platform website.
+### We're moving our docs! Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/VI/pages/1255276574/Welcome+to+the+Platform) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
