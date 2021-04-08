@@ -109,7 +109,7 @@ This is how we track the business lines that are reaching out to us, their parti
 ![](images/vaccine_confirmation.png)
 
 ## Find Out More & Get In Touch With Us
-* Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
+* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+miabecker&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBussiness+or+team%5D)
 * Slack - #va-notify
 
 
