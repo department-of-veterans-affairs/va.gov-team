@@ -181,12 +181,12 @@
 | Event Collected | Interaction/Action |
 | --- | --- |
 | ^int-radio-button-option-click$ | Radio Button - {{DL - radio-button-label}} - {{DL - radio-button-option-click-label}} |
-| ^int-(additionalInfo|additional-info)-expand$ | Additional Info - Expand - {{DL - additional-info-triggerText}} |
-| ^int-(additionalInfo|additional-info)-collapse$ | Additional Info - Collapse - {{DL - additional-info-triggerText}} |
+| ^int-(additionalInfo\|additional-info)-expand$ | Additional Info - Expand - {{DL - additional-info-triggerText}} |
+| ^int-(additionalInfo\|additional-info)-collapse$ | Additional Info - Collapse - {{DL - additional-info-triggerText}} |
 | ^int-accordion-expand$ | Accordion - Expand - {{CJ - Accordion Action}} |
 | ^int-accordion-collapse$ | Accordion - Collapse - {{CJ - Accordion Action}} |
 | ^int-checkbox-option-click$ | Checkbox - {{DL - checkbox-label}} - {{DL - checkbox-option-click-label}} |
-| ^int-modal-(click|show)$ | Modal - Click - {{DL - modal-status}} - {{DL - modal-title}} - {{DL - modal-primaryButtonText}} - {{DL - modal-secondaryButtonText}} - {{Click Text}} |
+| ^int-modal-(click\|show)$ | Modal - Click - {{DL - modal-status}} - {{DL - modal-title}} - {{DL - modal-primaryButtonText}} - {{DL - modal-secondaryButtonText}} - {{Click Text}} |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
