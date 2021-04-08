@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/security/Personal-Identifiable-Information-(PII)-guidelines.894271679.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Personally Identifiable Information (PII) Guidelines
 
 This document covers the rules, processes, and requirements for dealing with any personally identifiable information (PII) collected or stored by the VSP platform. These guidelines are intended to protect the privacy and security of VA.gov users and comply with federal privacy regulations.
