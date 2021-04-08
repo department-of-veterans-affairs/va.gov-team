@@ -176,7 +176,7 @@
 
 [Back to Table of Contents](#Data-Dictionaries)
 
-## Medallia Events
+## Interaction Actions
 
 | Event Collected | Interaction/Action |
 | --- | --- |
