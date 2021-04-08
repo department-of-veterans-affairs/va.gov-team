@@ -43,7 +43,7 @@ Please Note: We expect many questions to be too complex for a virtual agent to a
 
 In Phase 1, the virtual agent will not (always) try to disambiguate a question via extensive conversations with the Veteran. If the virtual agent is not able to answer the Veteran’s question, it will result in a phone number being displayed.
 
-_Virtual Agent Phase 1 Features:
+_Virtual Agent Phase 1 Features:_
 
 1. Location TBD, somewhere on va.gov 
 2. Free form chat experience to the users
@@ -130,12 +130,19 @@ _PVA Technical Analysis_
   - Unit testing is just not possible
 
   A unit tests are traditionally the most cost-effective testing tool.
+  
   B May be able to write higher-level / more expensive tests using power automate?
+  
   C expensive and may require dedicated dev effort
+  
   D Downsides to no/few tests:
+  
   E refactoring becomes very difficult and risky.
+  
   F "Simple" bugs can leak through.
+  
   G We might become reliant on manual testing which is expensive and can slow down release cycles.
+  
   H Chances of regression are high.
 
 ## Release Plan
