@@ -799,7 +799,7 @@ _When the orientation of the way search results are presented is changed, either
 | Education - Pursue Teaching Certification | 56 | Hit | User response (either Yes or No) to the persue teaching certification question on the edu-10203 form |
 | Error Key | 57 | Hit | An error occured (for example, 503 internal error if the disability-ratings-list-load-failed event happens on this page: www.va.gov/disability/view-disability-rating/rating/) |
 | Profile Section Saved - SMS Optin and Optout | 58 | User | User who is logged in saved their SMS opt-in and opt-out information |
-| Education - Type of Education | 59 | Hit | No data is being collected |
+| Education - Type of Education | 59 | Hit | **No data is being collected** |
 | Product - Disability Ratings Viewed | 60 | User | Value is set to true when a user views disability ratings |
 | Video Title | 61 | Hit | Title of a video (for example, there is a video titled `How to Help Homeless Veterans on this page: www.va.gov/homeless/) |
 | Product - Health Care VAOS User | 62 | User | A value set to true if a user is logged in as a health care VAOS user |
@@ -814,9 +814,9 @@ _When the orientation of the way search results are presented is changed, either
 | Health Care VAOS - Appointment Type | 71 | Hit | Appointment type (either `confirmed` or `pending`) for a VAOS apointment |
 | Health Care VAOS - Type of Care | 72 | Hit | Answer to the question asking users to `choose the type of care you need`. Options include: `primary care`, `mental health`, `optometry`, `COVID-19 vaccine`, etc. Pages this CD is set: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment |
 | Health Care VAOS - Flow | 73 | Hit | Type of flow for a VAOS request. Options include: `va-request`, `direct`, and `cc-request` |
-| Education - 22-1995 - Exhausted All Benefits | 74 | Hit | No data is being collected |
+| Education - 22-1995 - Exhausted All Benefits | 74 | Hit | **No data is being collected** |
 | Health Care VAOS - Facility Type | 75 | Hit | Facility type a user selects in the VAOS flow. Options incude: `va` or `cc` |
-| Health Care VAOS - Reason for Appointment | 76 | Hit | No data is being collected. Answer to the question asking users to `choose a reason for your appointment`. Options include: `routine or follow-up visit`, `I have a new medical issue`, `I have a concern or question about my medication`, or `My reason isn't listed here`. |
+| Health Care VAOS - Reason for Appointment | 76 | Hit | **No data is being collected**. Answer to the question asking users to `choose a reason for your appointment`. Options include: `routine or follow-up visit`, `I have a new medical issue`, `I have a concern or question about my medication`, or `My reason isn't listed here`. |
 | Frequently Asked Question | 77 | Hit | CD is set to the FAQ question that houses the hyperlink a user clicks on on this page: www.va.gov/coronavirus-veteran-frequently-asked-questions/ (for example: `Should I get a flu shot this year?`) |
 | FAQ Section | 78 | Hit | CD is set to the FAQ section that the user selected a specific question in. For example, this CD would be set to `Coronavirus-specific concerns` if a user were to select a hyperlink under the question, "Should I get a flu shot this year?". |
 | Education - YR - Filter - Contribution Amount | 79 | Hit | Contribution amount CD is set to either `(not set)` or `unlimited` |
@@ -833,7 +833,7 @@ _When the orientation of the way search results are presented is changed, either
 | Component Relative Size | 90 | Hit | CD set to `Small` on this page: www.va.gov/gi-bill-comparison-tool/profile/ |
 | Context Date | 91 | Hit | Set to the context date at this page: www.va.gov/manage-va-debt/your-debt/debt-letters/ |
 | User has connected apps | 92 | User | CD either set to `true` or `false` depending on if a user has connected apps |
-| Unused | 93 | Hit | No data is being collected |
+| Unused | 93 | Hit | **No data is being collected** |
 | Education - Historical School Details | 94 | Hit | String of data including school name, city, and state collected from the edu-1995 form |
 | Global - Dependent Children | 95 | Hit | User indicated `yes` or `no` to having dependent children on the edu-1995 form  |
 | Global - Dependent Parent | 96 | Hit | User indicated `yes` or `no` to having dependent parent on the edu-1995 form  |
@@ -847,8 +847,8 @@ _When the orientation of the way search results are presented is changed, either
 | Education - Field of Study / Degree | 104 | Hit | User indicated field of study and length of time on the form 22-10203 form (for example, `sixMonthsOrLess` or `Computer Science`) |
 | Education - Benefits Remaining | 105 | Hit | User indicated length of time for benefits remaining on the form 22-10203 form. Options include: `sixMonthsOrLess`, `none`, or `moreThanSixMonths` |
 | Health Care VAOS - Express Care Reason | 106 | Hit | CD set to the express care reason a user selects while scheduling an appointment. Options include: `back pain`, joint or muscle pain or minor injury`, etc. Page to schedule an appointment: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-express-care-request/additional-details/ |
-| Health Care VAOS - Express Number of Cards | 107 | Hit | No data is being collected |
-| Health Care VAOS - Upcoming Number of Cards | 108 | Hit | No data is being collected |
+| Health Care VAOS - Express Number of Cards | 107 | Hit | **No data is being collected** |
+| Health Care VAOS - Upcoming Number of Cards | 108 | Hit | **No data is being collected** |
 | Facility Locator Search - Service Type | 109 | Hit | Service type (for example, `UrgentCare` or `Optometrist`) collected from a facility locator search on this page: www.va.gov/facilities/ |
 | Facility Locator Search - Facility Type | 110 | Hit | Facility type (for example, `health` or `pharmacy`) collected from a facility locator search on this page: www.va.gov/facilities/ |
 | Health Care VAOS - Returned Item Type | 111 | Hit | Returned item type (for example, `upcoming` or `video_home`) from the VAOS flow and collected on this page: www.va.gov/health-care/schedule-view-va-appointments/appointments/  |
@@ -864,16 +864,16 @@ _When the orientation of the way search results are presented is changed, either
 | Medallia Feedback UUID | 121 | Session | The UUID for Medallia feedback typically found on this page: www.va.gov/facilities/index.html?XXX |
 | Medallia Survey ID | 122 | Hit | Survey ID for the Medallia survey that is being leveraged |
 | Medallia Survey Status | 123 | Hit | The Medallia survey status is set to either `AlwaysOn`, `Intercept`, or `Invite` and is collected when a user begins a survey |
-| Placeholder - CLP Event Name | 124 | Hit | No data is being collected |
+| Placeholder - CLP Event Name | 124 | Hit | **No data is being collected** |
 | Medallia - Survey Contents | 125 | Hit | String of information collected when a survey is submitted or closed |
 | Education - Facility Code | 126 | Hit | This CD is most commonly set as `(not set)`, however a facility code is captured if a user enters a facility on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
 | Education - Institution ID | 127 | Hit | This CD is most commonly set as `(not set)`, however an institution ID is captured if a user enters the relevant information on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
 | Education - YR - School Search Result Details | 128 | Hit | Set as a long string of information containing a school's details from a school search result (such as city, country, state, etc.) from a search on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
-| Click URL | 129 | Hit | No data is being collected |
+| Click URL | 129 | Hit | **No data is being collected** |
 | Health Care VAOS - Preferred Language | 130 | Hit | When a user changes their preferred language option on this page: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review/. Most commonly this CD is set to `(not set)` |
 | Health Care VAOS - Number of Preferred Providers | 131 | Hit | Set to either `1` or `0` depending on the user's selection of number of preferred providers when a user submits the VAOS form to schedule an appointment here: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review/ |
-| GTM Version Number | 132 | Hit | No data is being collected. CD value is set to the current GTM verison that is running on VA.gov. This is useful for checking historical data and knowing what the GTM configuration was for the period of time being analyzed.  |
-| Component Library Version | 133 | Hit | No data is being collected. |
+| GTM Version Number | 132 | Hit | **No data is being collected**. CD value is set to the current GTM verison that is running on VA.gov. This is useful for checking historical data and knowing what the GTM configuration was for the period of time being analyzed.  |
+| Component Library Version | 133 | Hit | **No data is being collected**. |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
