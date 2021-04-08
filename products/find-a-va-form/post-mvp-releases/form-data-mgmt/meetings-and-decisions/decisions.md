@@ -6,5 +6,3 @@
 ## Duplicate Data Records in Forms API database
 - DECISION - Forms that became orphaned in the Forms API database can safely be removed without causing issues for other users of the Forms.  See [related meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/meetings-and-decisions/meeting_notes.md#2021-03-26-lighthouse-database-update-meeting-with-premal-shah-nichole-harris-mark-viterna) for further details. 
 
-### Background: 
-- 
