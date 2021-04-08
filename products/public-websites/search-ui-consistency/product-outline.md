@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-Currently, search tools such as the main Search page, Find a Form, Resources & Support and Facility Locator all have a different UI styling / components. Our intent is to create UI consistency using the current style guide for all of the listed search tools.
+Currently, search tools such as the main Search page, Find a Form, Resources & Support and Facility Locator all have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.
 
 ## Problem Statement
 Having an inconsistent UI style for each of the search tools creates confusion for veterans. 
