@@ -21,6 +21,12 @@
 
 </details>
 
+## Friday Apr 8
+
+* Policies page training
+* Dual state launches
+* Prod state launch (eg for Erie)
+
 ## Friday Mar 26
 
 * CMS help desk triage - feedback and discussion.
