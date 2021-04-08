@@ -68,14 +68,14 @@ _Phase 2 Approach:_
 - Partner with LOB’s to identify additional use cases for the Virtual Agent
 - Build features to enable users to authenticate and perform tasks (ie. pay bills, process claims)
 
-**Assumptions
+## Assumptions
 
 - We will have access to the Government instance of the cloud and will be using a commercial instance till it is ready- We are assuming the GCC will be ready by June
 - We will build the Virtual Agent learning model using PVA, but we acknowledge there are some technical limitations in regards to version control and automated testing
 - We will launch to a small subset of users for a limited study
 
 
-**Measuring Success
+##  Measuring Success
 
 KPIs depend on the roll-out plan. In an ideal scenario, we would release the POV to about 5% of Va.gov users, and measure the following: 
 
@@ -102,7 +102,7 @@ KPIs depend on the roll-out plan. In an ideal scenario, we would release the POV
   - What types of tasks did users ask the bot to do?
 
 
-**Things we’ve learned
+## Things we’ve learned
 
 _PVA Technical Analysis_
 
