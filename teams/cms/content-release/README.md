@@ -31,6 +31,8 @@ This job is executed synchronously during the `Prerelease Job` in the Auto-Deplo
 
 </details>
 
+TODO - Link to the Amazon S3 bucket info 
+
 Towards the end of the pipeline, the Auto-Deploy issues another separate job under the column labeled `Release then trigger deploy`. This separate job is the [`vagovprod`](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovprod/), which actually populates the va.gov domain server with the contents of the archive. This job is executed asynchronously, which means it isn't well-reflected in the Auto-Deploy dashboard because the Auto-Deploy will complete before Vagovprod is finished. However, as a Content Release is finished only after content is visibly refreshed on va.gov, it is part of the Content Release as a whole. The `vagovprod` job takes roughly three minutes.
 
 <details><summary>The Vagovprod dashboard in Jenkins</summary>
