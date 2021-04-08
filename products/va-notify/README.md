@@ -116,5 +116,5 @@ This is how we track the business lines that are reaching out to us, their parti
 ## Incident Response ##
 Points of contact:
 * Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
-* Project Manager: [Anushya Prasad](mailto://Anushya.Bellur@va.gov)
+* Project Manager: [Tim Radle](mailto://tim.radle@thoughtworks.com)
 * Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
