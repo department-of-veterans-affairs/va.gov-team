@@ -1,7 +1,10 @@
 # Decisions Related to Form Data Management
 
-## Duplicate Data Records
+## Form Detail Pages to receive "When to use" verbiage 2021-04-08
+- DECISION - We are going to ask the Content team to write "When to Use" verbiage for the top 100 searched forms over the past 8 months, and going forward, anything that gets 250 searches a month will have "When to Use" text added.  See [related meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/meetings-and-decisions/meeting_notes.md#2021-04-08-when-to-use-discussion) for further details.
+
+## Duplicate Data Records in Forms API database
+- DECISION - Forms that became orphaned in the Forms API database can safely be removed without causing issues for other users of the Forms.  See [related meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/meetings-and-decisions/meeting_notes.md#2021-03-26-lighthouse-database-update-meeting-with-premal-shah-nichole-harris-mark-viterna) for further details. 
 
 ### Background: 
-- When the Find a VA Form MVP intially launched, there was no mechanism for maintaining a history of deleted documents. In addition, deletes by the VA did not cascade down to the  Forms API, so they ended up orphaned in the Forms API Postgres data source, and continued to appear in search results, but because the PDFs had been removed, the PDF download links would cause a 404 error.  
-- At some point in fall 2019, the VA removed all DBQ forms due to a high incidence of fraud.  Because of this event, ~100 forms remained orphaned in the Postgres data source, causing significant errors.  This event caused the Find a VA Form team to ask the forms DBA manager (Kevin Reid at the time) to add a "Deleted" flag so that we could know that the VA had deleted it vs. it just mysteriously disppearing from the CMS.  We added logic in late 2020 to also display a different message for deleted forms so that the user would know that it was a valid form at one time, vs. making it seem it was an invalid form.
+- 
