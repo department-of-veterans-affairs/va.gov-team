@@ -182,7 +182,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What does the check-in process look like at the other facilities that you go to? How does it compare to the VA's check-in process?
 - If you had a magic wand and you could check in for your appointment any way you would like, what would that experience look like?
   - What about if you could do all the check-in tasks that you can from the kiosk, but on your cell phone?
-  - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone on va.gov?
+  - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone?
 
 ## Thank you and closing (2 minutes)
 Well we really appreciate you taking the time to share your thoughts with us and allowing us to learn more about the check-in process today. Your feedback is so helpful to us as we continue to work on improving the check-in experience.
