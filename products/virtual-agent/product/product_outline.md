@@ -47,31 +47,76 @@ _Virtual Agent Phase 1 Features:
 
 1. Location TBD, somewhere on va.gov 
 2. Free form chat experience to the users
-Greetings & “Chit Chat” dialogues  
-Conversations will be logged for analysis 
-Handling errors in conversations
-System wide technical errors
-Understanding user intents
-Collecting feedback- embedded feedback survey
+a) Greetings & “Chit Chat” dialogues  
+b) Conversations will be logged for analysis 
+c) Handling errors in conversations
+d) System wide technical errors
+e) Understanding user intents
+f) Collecting feedback- embedded feedback survey
 
 3. Handing Veteran Crisis scenarios
-Present users the number for Veteran Crisis hotline and disable chatbot if a crisis keyword is used
+a) Present users the number for Veteran Crisis hotline and disable chatbot if a crisis keyword is used
 
 4. Knowledge Management Content use 
 
 5. Connecting with Covid Chatbot
-Allow users to ask questions about Covid and present a link to go to the Covid Chatbot 
+a) Allow users to ask questions about Covid and present a link to go to the Covid Chatbot 
 
-**Phase 2 Approach:**
+_Phase 2 Approach:_
 - Gather and access feedback from live users to refine our roadmap
 - Connect with a live agent from the chat
 - Partner with LOB’s to identify additional use cases for the Virtual Agent
 - Build features to enable users to authenticate and perform tasks (ie. pay bills, process claims)
 
+**Assumptions
+
+- We will have access to the Government instance of the cloud and will be using a commercial instance till it is ready- We are assuming the GCC will be ready by June
+- We will build the Virtual Agent learning model using PVA, but we acknowledge there are some technical limitations in regards to version control and automated testing
+- We will launch to a small subset of users for a limited study
 
 
+**Measuring Success
+
+KPIs depend on the roll-out plan. In an ideal scenario, we would release the POV to about 5% of Va.gov users, and measure the following: 
+
+- Engagement rates
+
+How many users interact with the new virtual agent?
+
+How many left without interaction?
+
+How many users ask multiple questions in one session? 
+
+How many ask the same question (in variations)  during one session? 
+
+- Satisfaction rates
+
+How many times was the virtual agent able to answer a question? 
+
+How many times was it not able to answer a question?
+
+How do veterans feel about the interaction?  (feedback)
+
+What could be improved? 
+
+Are they likely to use this again? 
+
+- Perceived human-requirements
+
+How many users directly ask to speak with a human (e.g., phone number) ?
+
+How many still want to speak with a human after an interaction? 
+
+How many posed a crisis-related statement/question? 
+
+- Content requests
+
+What are the most asked about topics by users?
+
+What types of tasks did users ask the bot to do?
 
 
+**Things we’ve learned
 
 
 
