@@ -17,7 +17,7 @@ Gretchen: Have all the BE developer docs from V1 been distributed amongst the [P
 Amy: Do all the **GitHub** BE developer docs contain redirects to the [Platform Website](https://depo-platform-documentation.scrollhelp.site/index.html)
 - `yes/no`
 
-Liani: Have we secured a small group of VFS folks for our soft launch?
+Liani: Have we done UAT to verify the redirects are working?
 - `yes/no`
 
 Have we made explicitly clear to BE T how to maintain their documents?
