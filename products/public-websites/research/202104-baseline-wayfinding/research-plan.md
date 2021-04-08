@@ -1,10 +1,33 @@
-# Research Plan for [Team, Product, Date]
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+# Research Plan: Baseline Wayfinding Research on VA.gov 
+ 	
 ## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others in terms of usability successes and pain points. With a better understanding of Veterans' experiences using VA.gov, we can make more informed decisions about priorities for design and research work going forward.   
+
+## Background
+Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not on overall wayfinding. Analytics data indicate where people are clicking on pages, but not whether they're finding the information/services they need. 
+
+This research is for the Public Websites team and the larger Unauthenticated crew, but it may provide insights for the Authenticated teams as well as overall website information architecture.  
+
+This study makes use of the list of Veterans tasks compiled from a variety of sources
+
+## Research questions
+- Why do Veterans come to VA.gov? With what goals/tasks in mind?
+- How do Veterans try to find what they’re looking for on VA.gov?
+  - Where do they typically start? (Google/Facebook/MHV/VA.gov)
+  - What do they typically do on VA.gov?
+    - Search and/or browse?
+    - 4 white quadrants? Topics below the photos? Footer? Header? Mega-menus/benefit hubs?
+    - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
+- Do they find what they're looking for? If not, what was it?
+- What are the pain points?
+- What works well?
+- Are there any differences for desktop vs. mobile users?
+- Do Veterans read/notice/click on the banner content on the home page?
+
+## Hypotheses
+- Veterans just want to find what they’re looking for and don’t want to choose between multiple methods/tools/pages unless it helps them get better results. 
+- Veterans aren't aware of all the current search and browse features on VA.gov. 	
+
 ## Method	
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
@@ -14,6 +37,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
@@ -22,6 +46,8 @@ Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+
+- Any there any differences between people who have used VA.gov before and those you have not? (recruit for both)
 
 *Pro tips for writing recruiting critera:* 
 - If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
