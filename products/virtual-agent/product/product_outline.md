@@ -129,21 +129,21 @@ _PVA Technical Analysis_
   - We should invest some dev effort in giving us the ability to roll back / restore from older versions
   - Unit testing is just not possible
 
-  A unit tests are traditionally the most cost-effective testing tool.
+    A unit tests are traditionally the most cost-effective testing tool.
   
-  B May be able to write higher-level / more expensive tests using power automate?
+    B May be able to write higher-level / more expensive tests using power automate?
   
-  C expensive and may require dedicated dev effort
+    C expensive and may require dedicated dev effort
   
-  D Downsides to no/few tests:
+    D Downsides to no/few tests:
   
-  E refactoring becomes very difficult and risky.
+    E refactoring becomes very difficult and risky.
   
-  F "Simple" bugs can leak through.
+    F "Simple" bugs can leak through.
   
-  G We might become reliant on manual testing which is expensive and can slow down release cycles.
+    G We might become reliant on manual testing which is expensive and can slow down release cycles.
   
-  H Chances of regression are high.
+    H Chances of regression are high.
 
 ## Release Plan
 
