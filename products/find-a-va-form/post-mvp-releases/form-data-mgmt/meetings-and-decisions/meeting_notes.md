@@ -1,4 +1,16 @@
 # Meeting Notes
+
+## 2021-04-08 "When To Use" discussion
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+
+#### Notes:
+- Purpose of the meeting was to determine how many existing forms might benefit from more robust detail pages that include "When To Use" information. 
+- We looked at Google Analytics data for the total number of searches between Jul 1 (first full month the tool launched) and March 1 (Feb was the last full month at the time we'd pulled the data). 
+- DECISION - We are going to do the top 100 for now, and going forward, anything that gets 250 searches a month.
+- We also discussed that moving this data into the CMS would make it much easier for us to manage keyword and key phrase metadata rather than relying on the VA forms managers to do it.
+
 ## 2021-03-26 Lighthouse Database Update Meeting with Premal Shah, Nichole Harris, Mark Viterna
 #### Attendees:
 - John Hashimoto - Product Owner
