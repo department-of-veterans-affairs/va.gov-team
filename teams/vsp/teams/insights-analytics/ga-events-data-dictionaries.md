@@ -879,31 +879,56 @@ _When the orientation of the way search results are presented is changed, either
 
 ## Custom Metrics
 
-Index|Name|Scope|Formatting Type|Active|
---- |:--- |:--- |:--- |--- |
-1|Event Start|Hit|Time|false|
-2|Event Complete|Hit|Time|false|
-3|IDme Login Attempt|Hit|Integer|true|
-4|IDme Login Success|Hit|Integer|true|
-5|MHV Login Attempt|Hit|Integer|true|
-6|MHV Login Success|Hit|Integer|true|
-7|DSLogon Attempt|Hit|Integer|true|
-8|DSLogon Success|Hit|Integer|true|
-9|Education - Count of Programs Saved|Hit|Integer|true|
-10|File Uploads|Hit|Integer|true|
-11|Disability Calculator Rows|Hit|Integer|true|
-12|Unused|Hit|Integer|false|
-13|Unused|Hit|Integer|false|
-14|Unused|Hit|Integer|false|
-15|Unused|Hit|Integer|false|
-16|Unused|Hit|Integer|false|
-17|GIBCT - Profile Benefit Estimate|Hit|Currency (Decimal)|true|
-18|Unused|Hit|Integer|false|
-19|Address Validation Needed|Hit|Integer|true|
-20|Address Suggestion Provided|Hit|Integer|true|
-21|Address Suggestion Used|Hit|Integer|true|
-22|Home Address Suggestion Failures|Hit|Integer|true|
-23|Mailing Address Suggestion Failures|Hit|Integer|true|
-24|Address Override|Hit|Integer|true|
+| Custom Metric Name | Index | Scope | Formatting Typpe | Definition |
+| --- | --- | --- | --- | --- |
+| Event Start | 1 | Hit | Time |  |
+| Event Complete | 2 | Hit | Time |  |
+| IDme Login Attempt | 3 | Hit | Integer | When a user attempts to login via IDme |
+| IDme Login Success | 4 | Hit | Integer | When a user successfully logs in via IDme |
+| MHV Login Attempt | 5 | Hit | Integer | When a user attempts to login via MHV |
+| MHV Login Success | 6 | Hit | Integer | When a user successfully logs in via MHV |
+| DSLogon Attempt | 7 | Hit | Integer | When a user attempts to login via DSLogon |
+| DSLogon Success | 8 | Hit | Integer | When a user successfully logs in via DSLogon |
+| Education - Count of Programs Saved | 9 | Hit | Integer | Occurs with a Vet Tec Completion with the edu-0994 form |
+| File Uploads | 10 | Hit | Integer | When a user uploads a file |
+| Disability Calculator Rows | 11 | Hit | Integer | Number of rows being used in the disability rating calculator found on /disability/about-disability-ratings/ |
+| Unused | 12 | Hit | Integer | - |
+| Unused | 13 | Hit | Integer | - |
+| Unused | 14 | Hit | Integer | - |
+| Unused | 15 | Hit | Integer | - |
+| Unused | 16 | Hit | Integer | - |
+| GIBCT - Profile Benefit Estimate | 17 | Hit | Currency (Decimal) |  |
+| Unused | 18 | Hit | Integer | - |
+| Address Validation Needed | 19 | Hit | Integer | This is triggered with a profile navigation action |
+| Address Suggestion Provided | 20 | Hit | Integer | This is triggered with a profile navigation action |
+| Address Suggestion Used | 21 | Hit | Integer | User leverages an address suggestion when submitting information on their profile |
+| Home Address Suggestion Failures | 22 | Hit | Integer | Can occur when there is a profile save failure |
+| Mailing Address Suggestion Failures | 23 | Hit | Integer | Can occur when there is a profile save failure |
+| Address Override | 24 | Hit | Integer | User does not leverage the address suggestion and instead opts to override and use their own input when submitting information on their profile |
+| Screening Tool Total Results Returned | 25 | Hit | Integer | Number of results displayed on the COVID screening tool |
+| Screening Tool Total Time | 26 | Hit | Time | Time to complete the COVID screening tool |
+| BAM - Quantity Ordered | 27 | Hit | Integer | Used on a form event |
+| STEM Scholarship Criteria Met - Post 911 | 28 | Hit | Integer | Used for if the post-911 eligibility criteria on the STEM Scholarship was met. If met then convert true to `{{JS - Generic - Custom Metric Increment}}` and convert false to `{{Generic Undefined}}`.  |
+| STEM Scholarship Criteria Met - STEM or Teaching | 29 | Hit | Integer | Used for if the STEM or Teaching eligibility criteria on the STEM Scholarship was met. If met then convert true to `{{JS - Generic - Custom Metric Increment}}` and convert false to `{{Generic Undefined}}`.  |
+| STEM Scholarship Criteria Met - Benefits Remaining | 30 | Hit | Integer | Months remaining for edu elegibility criteria use - used in the `Product Ineligibility Alerts` tag.  |
+| Disability - Claim for Spouse | 31 | Hit | Integer | Used in a disability form event to indicate if they are filing a claim for their spouse |
+| Disability - Child Under 18 and Unmarried | 32 | Hit | Integer | Used in a disability form event for if user has a child under 18 and or are unmarried |
+| Disability - Child Attending School | 33 | Hit | Integer | Used in a disability form event for if user has a child attending school |
+| Disability - Divorce Reported | 34 | Hit | Integer | Used in a disability form event for if user reports a divorce |
+| Disability - Step Child Left Household | 35 | Hit | Integer | Used in a disability form event for if user had a step child leave the household |
+| Disability - Death of Dependent or Spouse | 36 | Hit | Integer | Used in a disability form event for if user had a death of a dependent or spouse |
+| Disability - Child Married | 37 | Hit | Integer | Used in a disability form event for if user had a child get married |
+| Disability - Child Stopped Attending School | 38 | Hit | Integer | Used in a disability form event for if user had a child stop attending school |
+| Type Ahead Option Chosen Position | 39 | Hit | Integer | What position (integer) the type ahead option that the user selected was in relative to the list of type ahead options |
+| Search Results Position | 40 | Hit | Integer | What position (integer) the search results option that the user selected was in relative to the list of search results |
+| Search Total Results Returned | 41 | Hit | Integer | Number (integer) of the total results returned from a user's search |
+| Search Results Total Pages Returned | 42 | Hit | Integer | Number (integer) of the total pages of search results returned from a user's search |
+| Search Results Click Page Number | 43 | Hit | Integer | If a user clicks a page number located at the bottom of the results on a search result page |
+| Search Results Top Recommendations Clicks | 44 | Hit | Integer | If a user clicks a search result located in the "Top Recommendations" section of a search results page |
+| Search Performed | 45 | Hit | Integer | If a user performs a search on VA.gov |
+| Medallia Feedback Submission Value | 46 | Hit | Integer |  |
+| Sitewide Search From Header Input | 47 | Hit | Integer | If a user performs a sitewide search on VA.gov via the search bar located in the header |
+| Type Ahead Suggestions Count | 48 | Hit | Integer |  |
+| Unused | 49 | Hit | Integer | - |
 
 [Back to Table of Contents](#Data-Dictionaries)
