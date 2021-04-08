@@ -6,10 +6,10 @@
 ---
 
 Liani: Does the [Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) have a redirect notice?
-- `yes/no`
+- `yes/no` - yes
 
-Amy: Does the "Research and design" content source in the [Platform Website](https://depo-platform-documentation.scrollhelp.site/index.html) contain the erstwhile Designer Landing Page?
-- `yes/no`
+Amy: Does the ["Research and design" content source](https://depo-platform-documentation.scrollhelp.site/research-design/) in the Platform Website contain the erstwhile Designer Landing Page?
+- `yes/no` - yes
 
 Gretchen: Have all the BE developer docs from V1 been distributed amongst the [Platform Website's](https://depo-platform-documentation.scrollhelp.site/index.html) various content sourecs?
 - `yes/no`
