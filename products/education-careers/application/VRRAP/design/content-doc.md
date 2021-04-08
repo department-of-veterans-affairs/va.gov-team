@@ -96,13 +96,22 @@ Start the education application >> { button }
 { end if logged in }  
 
 
-Respondent burden: **XX minutes**  
+Respondent burden: **10 minutes**  
 
-OMB Control #:   TO COME
+OMB Control #:   **TO COME**
 
-Expiration date:  TO COME
+Expiration date: ** TO COME**
 
 [Privacy Act Statement]()  { modal with Privacy Act content }
+
+
+Privacy Act Statement {h3} 
+
+**Privacy Act Notice:** This form under §8006 of Public Law 117-2 (H.R. 1319) authorizes VA to implement the Veteran Rapid Retraining Assistance Program (VRRAP) which provides eligible Veterans impacted by the COVID-19 pandemic with the opportunity to pursue a covered program of education in a high technology - high demand occupation. The responses you submit are considered confidential (38 U.S.C. 5701). VA may disclose the information that you provide, including Social Security numbers (SSN), outside VA if the disclosure is authorized under the Privacy Act, including the routine uses identified in the VA system of records, 58VA21/22/28, Compensation, Pension, Education, and Vocational Rehabilitation and Employment Records - VA, published in the Federal Register. The requested information is considered relevant and necessary to determine maximum benefits under the law. Your obligation to respond is required in order to obtain or retain education benefits. Giving us your SSN account information is voluntary. Refusal to provide your SSN by itself will not result in the denial of benefits. The VA will not deny an individual benefits for refusing to provide his or her SSN unless the disclosure of the SSN is required by Federal Statute of law enacted before January 1, 1975 and still in effect. Any information provided by applicants may be subject to verification through computer matching programs with other agencies.
+ 
+**Respondent Burden:** We need this information to determine your ability to participate in the Veteran Rapid Retraining Assistance Program, 38 U.S.C. 3702 (d) and 38 CFR 36.4344. Title 38, United States Code, allows us to ask for this information. We estimate that you will need an average of 10 minutes to review the instructions, find the information, and complete this form. VA cannot conduct or sponsor a collection of information unless a valid OMB control number is displayed. You are not required to respond to a collection of information if this number is not displayed. Valid OMB control numbers can be located on the OMB Internet Page at [www.reginfo.gov/public/do/PRAMain](). If desired, you can call [800-827-1000]() to get information on where to send comments or suggestions about this form.
+
+{ end modal }
 
 ________________________________________
 
