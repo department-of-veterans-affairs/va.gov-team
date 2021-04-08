@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/VI/pages/1255276574/Welcome+to+VSP) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Welcome to the Veteran-facing Services Platform!
 
 The Platform team is here to give you to the tools, systems, and guidance you need to build online experiences on VA.gov that will improve Veteran's lives. As you develop your product, we’ll be your support team helping you through the VA.gov ecosystem, best practices, and processes, including the iterative cycle of ideation and strategy, user testing, launching code, and measuring results.
