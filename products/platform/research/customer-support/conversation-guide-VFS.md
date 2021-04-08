@@ -104,13 +104,11 @@ We put together a prototype that we would love to get your feedback on.
 
 <h2>Second Task: [Submitting a form through the Slackflow] - 10 minutes</h2>
 
-
+We will let the partipant to flow naturally into task two...However, if needed: 
 
 *   (This may be unneeded) Let's say (take from warm-up questions) aren't working and you need help, and there's a way to get platform support by submitting a form through Slack using lightning bolt icon. Can you show me how you would do that?
 
 <h3>Things to watch for:</h3>
-
-
 
 
 *   Does the participant understand the _I need help with_ options?
@@ -120,7 +118,6 @@ We put together a prototype that we would love to get your feedback on.
 *   Any fields trip them up?
 
 <h3>Followup questions:</h3>
-
 
 
 
@@ -139,8 +136,6 @@ Great. Thank you. We have another prototype that we would love to get your feedb
 So, let’s say (take from warm-up questions) aren't working and you need help, and there's a way to get platform support by submitting a form through Slack using lightning bolt icon. Can you show me how you would do that?
 
 <h3>Things to watch for:</h3>
-
-
 
 
 *   Does the participant understand the _I need help with_ options?
