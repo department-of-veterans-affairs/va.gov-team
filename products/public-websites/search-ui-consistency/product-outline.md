@@ -2,25 +2,26 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Currently, search tools such as the main Search page, Find a Form, Resources & Support and Facility Locator all have a different UI styling / components. Our intent is to create UI consistency using the current style guide for all of the listed search tools.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Having an inconsistent UI style for each of the search tools creates confusion for veterans. 
+In order to improve the UI style for veteratns we need to apply a clear and consistent styling across all tools.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- a consistent UI is a better experience for Veterans
 
 ## Undesired User Outcomes
+
+- createing a consistent UI across all search tools helps decrease confusion for Veterans
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Veterans use the search tools more
+
 
 ## Undesired Business Outcomes
 
