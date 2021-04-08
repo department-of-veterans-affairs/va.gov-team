@@ -5,29 +5,16 @@
 
 ---
 
-Platform: is monitoring and alerting configured and working as expected?
-- `yes/no - any notes`
+Liani: Does the [Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) have a redirect notice?
+- `yes/no`
 
-Platform: is the Product Health Tool updated to track this product data and working as expected?
-- `yes/no - any notes`
+Amy: Does the "Research and design" content source in the [Platform Website](https://depo-platform-documentation.scrollhelp.site/index.html) contain the erstwhile Designer Landing Page?
+- `yes/no`
 
-`Name of responsible team member`: are you ready to monitor analytics data for trends and problems?
-- `yes/no - any notes`
+Gretchen: Have all the BE developer docs from V1 been distributed amongst the [Platform Website's](https://depo-platform-documentation.scrollhelp.site/index.html) various content sourecs?
+- `yes/no`
 
-`Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
-- `yes/no - any notes`
+Amy: Do all the **GitHub** BE developer docs contain redirects to the [Platform Website](https://depo-platform-documentation.scrollhelp.site/index.html)
 
-`Name of responsible team member`: are you confident we can handle the traffic?
-- `yes/no - any notes`
-
-`Name of responsible team member`: is the release plan complete and ready to execute against?
-- `yes/no - any notes`
-
-`Name of responsible team member`: did you see KPI metrics populating from UAT?
-- `yes/no - any notes`
-
-`Name of responsible team member`: are there any Sev1 bugs or accessibility issues outstanding?
-- `yes/no - any notes`
-
-<!--`Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
-- `yes/no - any notes`~-->
+Liani: Have we secured a small group of VFS folks for our soft launch?
+- `yes/no`
