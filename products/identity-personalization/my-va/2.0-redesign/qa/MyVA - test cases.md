@@ -38,10 +38,12 @@
 
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
+
+**NOTE**: The only way to get a claim in the last 30 days is to file a new one for a user, for user 15 the claim willdisappear after April 30 (30 days after March 31) - we will need to make sure we add one before Tze starts testing
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**226**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**Will work with the Claims and Appeals team to get this**| [No updates](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|  
+|User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**15**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**15**| [No updates](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|  
 |User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|[no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|
 
 #### Claims and appeals links
@@ -58,6 +60,7 @@
 |User DOES have unread secure messages|User sees bolded link "You have X unread messages"|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**| [Messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |User DOES NOT have any unread secure messages or no secure messages at all|User sees link "Send a secure message to your healthcare team"|**226**|[No Messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032779_My_VA_Desktop_2_No_Messages)|
 |Ensure # of new messages is accurate|Number of new messages should match the unread messages shown in MHV|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md#secure-messages)** (Should be 3 messages)| [Has messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|Ensure My VA account links to the correct MHV account|Should say 'Welcome, Kristie' at the top|**377**| N/A|
 |User DOES have appointments in the next 30 days|User is shown next appointment ("Date" "Time" "Location/VA Video Connect") and link to "Schedule and view your appointments"|**cecil.morgan@id.me**|[Appointments](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |User DOES NOT have appointments in the next 30 days, but does have future appointments|User sees messaging stating that they do not have appointments in the next 30 days, and link to "Schedule and view your appointments' should be with the other links|**TBD**|[No appts 30 days](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|
 |User DOES NOT have appointments|Link to "Schedule and view your appointments' should be with the other links|**226**|[NO appts](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449052948_My_VA_Desktop_No_Appts_In_30_Days_Copy)|
