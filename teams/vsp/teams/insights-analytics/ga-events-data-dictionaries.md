@@ -782,8 +782,7 @@ _When the orientation of the way search results are presented is changed, either
 | Product Area Used - Recommendations Life Insurance | 39 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Life Insurance product area |
 | Product Area Used - Recommendations Burials | 40 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Burials product area |
 | Product Area Used - Recommendations Family Benefit | 41 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Family Benefit product area |
-| Global - Currently Active Duty | 42 | Hit | User responds yes or no on the edu-0994-submission-successful event label on either the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page or the 	
-<br>www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/review-and-submit/ page |
+| Global - Currently Active Duty | 42 | Hit | User responds yes or no on the edu-0994-submission-successful event label on either the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page or the www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/review-and-submit/ page |
 | Global - Will Be Called to Active Duty | 43 | Hit | User responds no on the edu-0994-sip-form on either the 	
 <br>www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page or www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/confirmation/ page |
 | Education - Education Completed | 44 | Hit | How a user responds to the level of education completed on the edu-0994 form. Option include: (1) some college (2) bachelors degree (3) masters degree (4) associates degree (5) high school diploma or GED (6) other (7) doctoral degree (8) some high school  |
@@ -793,8 +792,7 @@ _When the orientation of the way search results are presented is changed, either
 | Education 22-0994 Made Program Selection | 48 | Hit | User response to the made program question (yes or no) collected on the edu-0994-submission-successful event label on the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page |
 | Education - STEM Scholarship Applicant | 49 | Hit | User response to STEM scholarship question (yes or unanswered) collected with the edu-howToApply-applyNow event label |
 | Profile Section Saved - Direct Deposit | 50 | User | User who is logged in saved their direct deposit information |
-| Health Facility Location | 51 | Hit | Name of hte health facility location that the event/pageview/action is taking place (for example, Pittsburgh on this page: 	
-<br>www.va.gov/pittsburgh-health-care/) |
+| Health Facility Location | 51 | Hit | Name of hte health facility location that the event/pageview/action is taking place (for example, Pittsburgh on this page: www.va.gov/pittsburgh-health-care/) |
 | Health Facility Type | 52 | Hit | This CD is set as `Campus` when a user visits or completes actions on this page:         <br>www.va.gov/careers-employment/vetsuccess-on-campus/  |
 | Global - Preferred Contact Method | 53 | Hit | User response to the preferred contact method on either the edu-1995 form or the edu-10203 form. Options include: (1) email (2) mobile (3) phone (4) mail (5) mobilePhone (6) homePhone |
 | Global - Benefits Used Recently | 54 | Hit | User response to benefits used recently question found on the edu-1995 form, edu-howToApply-formChange event, edu-10203 form, and edu-form-change event. Options include: (1) new (2) update (3) chapter33 (4) stem-scholarship (5) chapter 1606 (6) transferOfEntitlement (7) chapter30 (8) fryScholarship (9) chapter32 |
@@ -858,7 +856,7 @@ _When the orientation of the way search results are presented is changed, either
 | Facility Locator Search - Facility Type | 110 | Hit | Facility type (for example, `health` or `pharmacy`) collected from a facility locator search on this page: www.va.gov/facilities/ |
 | Health Care VAOS - Returned Item Type | 111 | Hit | Returned item type (for example, `upcoming` or `video_home`) from the VAOS flow and collected on this page: www.va.gov/health-care/schedule-view-va-appointments/appointments/  |
 | Health Care VAOS - Returned Number of Items | 112 | Hit | CD is set to an integer matching the number of items of a search on this page:         <br>www.va.gov/health-care/schedule-view-va-appointments/appointments/ |
-| Global - Dependent Debt | 113 | User | CD is set to either `Without Dependent Debt` or `With Dependent Debt` depending on the user's selection on this page:         <br>www.va.gov/manage-va-debt |
+| Global - Dependent Debt | 113 | User | CD is set to either `Without Dependent Debt` or `With Dependent Debt` depending on the user's selection on this page: www.va.gov/manage-va-debt |
 | Type Ahead Options Keyword Selected | 114 | Hit | User selects a type ahead option. The values for this CD are endless. |
 | Type Ahead Options List | 115 | Hit | User views type ahead options list |
 | Phased Out Product | 116 | Session | CD value is set to either `type ahead` or `chapter 36` |
