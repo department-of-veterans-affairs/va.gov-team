@@ -3,6 +3,7 @@
  - [Products Content Grouping](#Products-Content-Grouping)
  - [Navigation Events](#Navigation-Events)
  - [Medallia Events](#Medallia-Events)
+ - [Interaction Actions](#Interaction-Actions)
  - [Tracking Common User Interactions](#tracking-common-user-interactions)
  - [Design System Component Tracking](#design-system-component-tracking)
  - [Tracking Form Events](#tracking-form-events)
@@ -172,6 +173,20 @@
 | Invite\_Accepted | survey-invitation-accept | When the user elects to start the form following invitation
 | Invite\_Declined | survey-invitation-decline | When the user elects to not start (close) the form following invitation
 | Invite\_Skipped | survey-invitation-skip | When the user elects to skip start the form following invitation
+
+[Back to Table of Contents](#Data-Dictionaries)
+
+## Medallia Events
+
+| Event Collected | Interaction/Action |
+| --- | --- |
+| ^int-radio-button-option-click$ | Radio Button - {{DL - radio-button-label}} - {{DL - radio-button-option-click-label}} |
+| ^int-(additionalInfo|additional-info)-expand$ | Additional Info - Expand - {{DL - additional-info-triggerText}} |
+| ^int-(additionalInfo|additional-info)-collapse$ | Additional Info - Collapse - {{DL - additional-info-triggerText}} |
+| ^int-accordion-expand$ | Accordion - Expand - {{CJ - Accordion Action}} |
+| ^int-accordion-collapse$ | Accordion - Collapse - {{CJ - Accordion Action}} |
+| ^int-checkbox-option-click$ | Checkbox - {{DL - checkbox-label}} - {{DL - checkbox-option-click-label}} |
+| ^int-modal-(click|show)$ | Modal - Click - {{DL - modal-status}} - {{DL - modal-title}} - {{DL - modal-primaryButtonText}} - {{DL - modal-secondaryButtonText}} - {{Click Text}} |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
