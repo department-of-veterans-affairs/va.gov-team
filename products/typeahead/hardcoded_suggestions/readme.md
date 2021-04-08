@@ -8,7 +8,8 @@
 ## Creation Guidelines
 
 *Suggestions **must**:
-- produce quality 
+- produce quality results
+- lower case letters 
 
 *Suggestions may **not** include the following:
 - &
