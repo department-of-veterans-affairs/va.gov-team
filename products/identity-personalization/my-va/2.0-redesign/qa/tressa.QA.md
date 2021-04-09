@@ -33,7 +33,7 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|User DOES have a disability rating|User will see their disability rating under their name (Your disability rating: X% service connected>), it should link to the [disability rating overview page](https://staging.va.gov/disability/view-disability-rating/rating)|**226**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|
+|User DOES have a disability rating|User will see their disability rating under their name (Your disability rating: X% service connected>), it should link to the [disability rating overview page](https://staging.va.gov/disability/view-disability-rating/rating)|**226**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|Pass|
 |User DOES NOT have a disability rating|User will NOT see a disability rating under their name |**10**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|
 
 
