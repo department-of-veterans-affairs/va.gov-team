@@ -4,6 +4,7 @@
 
 #### Attendees
 - Marci McGuire, PM for Decision Tools Team
+- Michelle Middaugh, PM for Facilities Team
 - Cassandra Allen, Designer
 - Megan Gayle, Designer
 - Leyda Hughes, Designer
