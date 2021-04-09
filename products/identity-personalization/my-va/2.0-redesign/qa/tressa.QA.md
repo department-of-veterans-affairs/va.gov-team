@@ -104,3 +104,9 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 |Learn how to apply for health care| Links to health care 'how to apply' page|**Tze to recreate using existing user**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
 |Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
 |Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
+
+## Other various bugs
+
+- Claims spinner needs content below it
+- Move ‘Apply for benefits’ dropdown up to be below My VA
+- Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug?
