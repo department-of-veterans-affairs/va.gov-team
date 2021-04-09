@@ -23,13 +23,13 @@ This work was done in a collaborative workshop using [this mural board](https://
 ## What have we tried?
 
 **Actions**
-*   CMS-Export/Transformers
+*   [CMS-Export/Transformers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cms-integration)
 *   Different publish methods by urgency (sitewide alert, vamc alert, and cms content)
 *   Increased content release cadence
 *   Used training to mitigate sub-optimal publishing experience
 
 **Successes**
-*   Breaking up monolithic GQL query bought us time for a new solution
+*   [Breaking up monolithic GQL query](https://github.com/department-of-veterans-affairs/vets-website/pull/15974) bought us time for a new solution
 *   GraphQL stability improvements
 *   Monitoring individual GraphQL queries identified the slowest queries and opportunities for optimization
 
