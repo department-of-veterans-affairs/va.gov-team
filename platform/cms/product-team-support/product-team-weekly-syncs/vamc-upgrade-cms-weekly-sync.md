@@ -27,6 +27,7 @@
 * help desk triage
 * Go-live timeline
 * Validate runbook for Go-live (separate meeting with Facilities)
+* Account creation
 
 ## Friday Apr 8
 
@@ -54,6 +55,7 @@ Training
 * Mobile, Domiciliary and Community Living Center facilities don't work in current product
   * blocking launch for any VAMCs that have these facilities (eg Philadelphia which has a domiciliary)
 * CMS account flows 
+  * PAOs can request accounts that are lesser or equal to theirs 
 
 ## Friday Mar 26
 
