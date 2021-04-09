@@ -70,7 +70,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 
 ## Timeline
 #### Desired Timeline: April 26-29, 2021 
-One-hour sessions with at least **30-minute breaks** in-between 
+One-hour sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
