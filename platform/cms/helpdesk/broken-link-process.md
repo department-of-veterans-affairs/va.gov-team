@@ -60,8 +60,8 @@ So far, we've encountered a few types of broken link causes:
 Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
 1. The page in question
 1. Which link is broken 
-1. What actions we took.
-1. Any recommendations or guesses about what they should do next, if we have them
+1. What actions we (help desk and/or tier 2) took.
+1. Any recommendations or guesses about what the author should do next, if we have them
 
 See a suggested email template below:
 
@@ -86,5 +86,6 @@ See a suggested email template below:
 # Response Timeframe
 The timeframe for an initial slack notification to **#vfs-engineers** should be within 30 minutes at most.
 Total time to fix the issue should be within an hour. If we have reason to think it’ll take longer, we should continue to update **#vfs-engineers**.
+When the issue is resolved, we should also update **#vfs-engineers** to say so.
 
 
