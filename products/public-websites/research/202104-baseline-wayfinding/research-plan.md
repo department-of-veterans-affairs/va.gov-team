@@ -34,9 +34,8 @@ We will also explore analytics data to see where people click on the VA.gov home
 
 # RESUME WORKING HERE........................
  
-2.	Why this method? How does this methodology help you answer your research questions? 	
-
 ## Participants and Recruitment	
+Recruit 16-20 people in order to get 8-10 completed sessions using the following criteria:
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
