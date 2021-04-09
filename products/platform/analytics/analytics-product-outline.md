@@ -4,9 +4,7 @@
 
 ## Overview
 
-The Platform Analytics team seeks to provide analytics as a data platform and analytics 
-
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+The Platform Analytics team seeks to provide analytics as a data platform and educational resources and support for VFS teams to build towards data-informed outcomes.
 
 ## Problem Statement
 
