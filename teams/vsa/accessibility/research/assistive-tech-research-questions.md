@@ -58,7 +58,7 @@ Tressa Furner, VSA Authenticated Experience
 - Aria text is a message giving instructions. Form labels tell you what is required e.g. "first name", "year" whereas Aria text can tell you how to enter it "enter year as 2 digits" 
 - aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
 - Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map without radius ("zoom to x miles" is better than "zoom to level 11"). 
-- Mobile vs desktop: both should be tested because users are using both. VO on iPhone has existed for a dozen years.
+
 
 ### Who to test
 
@@ -72,6 +72,7 @@ We need to differentiate between low vision vs no vision in research because tha
 
 We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader.
 
+Mobile vs desktop: both should be tested because users are using both. VO on iPhone has existed for a dozen years.
 
 #### Other participant considerations
 - "See" is a term that is all encompassing for all senses
