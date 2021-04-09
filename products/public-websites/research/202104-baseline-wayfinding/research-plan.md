@@ -33,8 +33,6 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
-# RESUME WORKING HERE........................
- 
 ## Participants and Recruitment	
 Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using the following criteria:
 
@@ -70,32 +68,30 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
   - If yes, how recently? 
   - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
 
-## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+## When? 
+## Timeline
+#### Desired Timeline: April 26-29, 2021 
+One-hour sessions with at least **30-minute breaks** in-between 
+
+Team Availability | Time (EST)
+------------------|--------------
+April 26, 2021 | Noon - 8 pm
+April 27, 2021 | Noon - 8 pm
+April 28, 2021 | Noon - 3 pm, 5 - 8 pm
+April 29, 2021 | Noon - 8 pm 
+
+Pilot Session: April 22, 2021 | Time TBD
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Moderator:	Cindy Merrill ([cindy.merrill@adhocteam.us])
+- Research guide writing and task development:		Cindy Merrill
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Cindy Merrill ([cindy.merrill@adhocteam.us])
+- Participant(s) for pilot test:	TBD
+- Note-takers:	Perigean
+- Observers:	Brian Lloyd ([blloyd@governmentcio.com]), Meg Peters ([meg.peters@va.gov]), John Hashimoto ([john.hashimoto@va.gov]), Denise Coveyduc ([dcoveyduc@governmentcio.com]), Marci McGuire ([mmcguire@governmentcio.com]), Megan Gayle ([mgayle@governmentcio.com]), Cassandra Allen ([callen@governmentcio.com]), Kelson Adams ([kadams@governmentcio.com]), Nick Sullivan ([nick.sullivan@adhocteam.us]), Shawna Hein ([shawna@adhocteam.us])
+ 
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+- Convervation Guide	
+- Research Findings	
