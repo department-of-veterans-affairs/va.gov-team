@@ -97,11 +97,6 @@ See the [Analytics Product Outline](https://github.com/department-of-veterans-af
 
 </details>
 
-#### Roles
-We have a small, cross-functional & remote team. This means we need to continuously collaborate and keep each other in the loop. 
-
-We use and update the [RACI chart](https://docs.google.com/spreadsheets/d/1JdNPKo9y-4o2c_HaWIne2L6H310fhRn2M51e5NvHdxE/edit#gid=0) for clearer division of responsibilities.
-
 ### Roadmap:
 [Link to Lucidchart Roadmap](https://lucid.app/lucidchart/9b3d2f36-2e90-4b2a-9676-8edb96e9dd42/edit?shared=true&page=I9Ok25vTgODC#)
 
@@ -119,10 +114,17 @@ We use and update the [RACI chart](https://docs.google.com/spreadsheets/d/1JdNPK
 - Reporting Specialist: _Lauren Simpson_
 - Designer/UX Researcher: _Mandy Massengill_
 
+### Roles
 Product Manager: Responsible for planning, commitments/prioritization, and product definition/outcomes 
 Engineering Team Lead: Primarily focused on representing engineering and keeping the team focused and unblocked. Consults with product on work commitments and planning. 
 
-Each team member works on sprint and customer support commitments, communicating with each other, documentation, and escalating any issues to product and the engineering team lead.
+Each team member is responsible for working on sprint and customer support commitments, communicating with each other, documentation, and escalating any issues to product and the engineering team lead.
+
+We have a small, cross-functional & remote team. This means we need to continuously collaborate and keep each other in the loop. 
+
+We use and update the [RACI chart](https://docs.google.com/spreadsheets/d/1JdNPKo9y-4o2c_HaWIne2L6H310fhRn2M51e5NvHdxE/edit#gid=0) for clearer division of responsibilities.
+
+
 
 ---
 
