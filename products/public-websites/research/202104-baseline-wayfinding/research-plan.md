@@ -4,7 +4,7 @@
 The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others. With a better understanding of Veterans' pain points and successes while using VA.gov, we can make more informed decisions about priorities for future design and research work.   
 
 ## Background
-Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not overall wayfinding. Analytics data indicate where people are clicking on pages and what search strings they're using, but not whether they're finding the information/services they're seeking. 
+Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not on overall wayfinding. Analytics data indicate where people are clicking on pages and what search strings they try, but not whether they're finding what they're looking for. 
 
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
@@ -14,7 +14,7 @@ This research is planned within the context of the Public Websites team and the 
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/VA.gov)
   - What do they typically do on VA.gov?
     - Search and/or browse?
-    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer? Header? Mega-menus/Benefit Hubs?
+    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Mega-menus/Benefit Hubs?
     - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
 - Do they find what they're looking for? If not, what was it?
 - What pain points are there?
@@ -28,6 +28,8 @@ This research is planned within the context of the Public Websites team and the 
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom using the Perigean contract. Participants will be asked a series of interview questions about their past usage of the VA.gov site, and then will be given a set of common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
+
+We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse interfaces on the site.
 
 # RESUME WORKING HERE........................
  
