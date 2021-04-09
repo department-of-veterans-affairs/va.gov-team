@@ -12,24 +12,25 @@ This research is planned within the context of the Public Websites team and the 
 - Why do Veterans come to VA.gov? With what goals/tasks in mind?
 - How do Veterans try to find what they’re looking for on VA.gov?
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/VA.gov)
-  - What do they typically do on VA.gov?
-    - Search and/or browse?
-    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Mega-menus/Benefit Hubs?
+  - What do they typically do on VA.gov? What tools have they tried using?
+    - Search (in header) and/or browse?
+    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Benefit Hubs (mega-menu dropdowns)?
     - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
-- Do they find what they're looking for? If not, what was it?
-- What pain points are there?
+- Do they find what they're looking for? If not, what were they looking for?
+- What pain points are there in terms of findability and usage?
 - What works well?
 - Are there any differences for desktop vs. mobile users?
 - Do Veterans read/notice/click on the banner content on the home page?
 
 ## Hypotheses
-- Veterans want to find what they’re looking for and don’t want to choose between multiple methods/tools/pages unless it helps them get better results. 
-- Veterans aren't aware of all the current search and browse features on VA.gov. 	
+- Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
+- Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
+- Veterans aren't aware of all the current search and browse tools on VA.gov. 	
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom using the Perigean contract. Participants will be asked a series of interview questions about their past usage of the VA.gov site, and then will be given a set of common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
+We will conduct remote moderated research sessions via Zoom using the Perigean contract. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
 
-We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse interfaces on the site.
+We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
 # RESUME WORKING HERE........................
  
