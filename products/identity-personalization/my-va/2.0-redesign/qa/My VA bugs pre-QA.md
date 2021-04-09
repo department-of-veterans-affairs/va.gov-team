@@ -1,6 +1,6 @@
 # My VA bugs pre-QA
 
-|Section (Unauthenticated, Cerner, LOA1, Disability rating, Claims and appeals, Health care, Apply for benefits, Other)|Problem (GH issue title)|Issue No.|Reported by|Status (Open/Closed)|Notes|
+|Section (Unauthenticated, Cerner, LOA1, Disability rating, Claims and appeals, Health care, Apply for benefits, Other)|Problem (GH issue title)|Issue No.|Reported by|Status (Open/Closed|Notes|
 |----|----|----|----|----|----|----|
 |Other|My VA Name tag disability rating can wrap poorly|[22899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22899)|Erik|Open| |
 | |My VA name tag needs x-padding|[22898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22898)|Erik|Open| |	
