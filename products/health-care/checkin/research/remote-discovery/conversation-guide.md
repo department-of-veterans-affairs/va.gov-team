@@ -177,6 +177,8 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - When do you choose that method of checking in? Why?
     - Can you describe how checking-in via text message works?
     - What did you like about that experience? What could be improved?
+  - If no,
+    - What do you think about the idea of checking in by using your phone? 
 
 ## (DON'T SKIP IF SHORT ON TIME!) Wrap-up questions (4 minutes)
 - Do you receive any of your healthcare from outside the VA? 
