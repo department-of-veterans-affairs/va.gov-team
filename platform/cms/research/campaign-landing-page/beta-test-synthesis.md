@@ -30,14 +30,14 @@ Following are the key findings ranked in order of severity, where 1 is considere
 ## Level 2
 
 * Images 
-* What you can do Promo 
-* Preview 
+* What you can do Promo [See #4990](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4990)
+* Preview
 * Internal navigation 
 
 ## Level 3
 
-* Audiences 
-* Order of segments 
+* Audiences [See #4989](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4989)
+* Order of segments   [See #4991](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4991)
 
 ## Level 4
 
