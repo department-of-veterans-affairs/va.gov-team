@@ -26,7 +26,7 @@ This research is planned within the context of the Public Websites team and the 
 ## Hypotheses
 - Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
 - Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
-- Veterans aren't aware of all the current search and browse tools on VA.gov. 	
+- Veterans aren't using all of the current search and browse tools on VA.gov. 	
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
@@ -84,7 +84,7 @@ Pilot Session: April 22, 2021 | Time TBD
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:		Cindy Merrill
+- Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	TBD
