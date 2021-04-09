@@ -1,11 +1,3 @@
-----
-
-### We're moving our docs! Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/VI/pages/1246527856/Product+development+checklist) on the Platform website.
-
-### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
-
-----
-
 # Product development checklist
 
 ### Ask yourself the questions below weekly, starting from Day 1.
