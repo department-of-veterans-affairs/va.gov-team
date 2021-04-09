@@ -29,10 +29,10 @@ Following are the key findings ranked in order of severity, where 1 is considere
  
 ## Level 2
 
-* Images 
+* Images [See #4391](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4391)
 * What you can do Promo [See #4990](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4990)
-* Preview
-* Internal navigation 
+* Preview - No CMS issue for this yet. Not reasonable to make this CLP specific. Certain approaches to the Accelerated Publishing may render this more feasible.
+* Internal navigation - Need more info here. 
 
 ## Level 3
 
@@ -41,7 +41,7 @@ Following are the key findings ranked in order of severity, where 1 is considere
 
 ## Level 4
 
-* FAQs 
+* FAQs - no issue for this yet, dependeng on a product decision. 
 
 # Key Quotes:
 
