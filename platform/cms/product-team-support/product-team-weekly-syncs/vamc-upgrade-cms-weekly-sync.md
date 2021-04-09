@@ -23,7 +23,8 @@
 
 ## Friday Apr 8
 
-* ~Policies page training~
+* Policies page training
+  * Jane: Dave and I met on Zoom to discuss Policies training, so we're good on that - we can take it off the agenda to make room for other items. I'll have the Policies training slides updated tomorrow and then get them recorded, captioned and posted in CMS help center early next week.
 * Help desk triage between teams
 * Dual state launches progress and upcoming
 * Prod state launch timeline (eg for Erie)
