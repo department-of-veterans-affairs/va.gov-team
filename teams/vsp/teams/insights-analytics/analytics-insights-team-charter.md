@@ -1,12 +1,12 @@
 # VSP Analytics & Insights Charter
 
 ## Table of Contents
-1. [Why we're here](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#why-were-here)
+1. [Why we're here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#why-were-here)
 
-    a. [Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#responsibilities)
-2. [Who We Are](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#who-we-are)
-3. [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#how-we-work)
-4. [Team Knowledge](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#team-knowledge)
+    a. [Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#responsibilities)
+2. [Who We Are](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#who-we-are)
+3. [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#how-we-work)
+4. [Team Knowledge](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#team-knowledge)
 
 ---
 
