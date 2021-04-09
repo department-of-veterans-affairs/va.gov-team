@@ -7,17 +7,12 @@ The Help Desk should operate according to a Service Level Agreement (SLA) which 
 
 Under the SLA, "business hours" are from 8am to 8pm EST, and during these hours the Help Desk team commits to:
 
-    * respond with a First Response to support requests within a set period of time (<30 minutes for all Priority 1 or 2 Tickets); 
-
-    * resolve tickets within a set period of time:
-
-    * Within 24 business hours or 2 business days for any Priority 1 Ticket;
-
-    * Within 4 weeks for Priority 2 Tickets with consideration that work will need to be planned within "Sprints"; 
-
-    * All other Tickets will be categorized as Priority 3 and will be added to the GitHub Backlog where it will then be prioritized against other Tickets in the Backlog with a goal of resolving the Ticket within 2 weeks - consideration that work will need to be planned within "Sprints" is important for Priority 3 too.
-
-    * Track Help Desk performance across key metrics (suggested: performance against SLA times for first response and resolution, displayed by priority level); 
+   * respond with a First Response to support requests within a set period of time (<30 minutes for all Priority 1 or 2 Tickets); 
+   * resolve tickets within a set period of time:
+   * Within 24 business hours or 2 business days for any Priority 1 Ticket;
+   * Within 4 weeks for Priority 2 Tickets with consideration that work will need to be planned within "Sprints"; 
+   * All other Tickets will be categorized as Priority 3 and will be added to the GitHub Backlog where it will then be prioritized against other Tickets in the Backlog with a goal of resolving the Ticket within 2 weeks - consideration that work will need to be planned within "Sprints" is important for Priority 3 too.
+   * Track Help Desk performance across key metrics (suggested: performance against SLA times for first response and resolution, displayed by priority level); 
 
 # Criteria
 
