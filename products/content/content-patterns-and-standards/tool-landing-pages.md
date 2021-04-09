@@ -75,8 +75,6 @@ Some tools (particularly the health tools) have added eligibility info. Previous
 #### Recommendations
 
 **You can schedule and manage health appointments online if you meet all of these requirements:**
-
-**All of these must be true:**
 -  You're enrolled in VA health care, and
 -  You're scheduling appointments with a VA health facility that uses online scheduling, and
 -  You're registered or you’ve had an appointment at that facility before
