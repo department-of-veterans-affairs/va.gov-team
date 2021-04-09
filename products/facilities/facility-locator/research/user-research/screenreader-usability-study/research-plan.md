@@ -89,12 +89,12 @@ AND
   - At least 1 participant has low vision (not complete blindness)
   - (4) Participants must have a mobile phone device and be willing to be complete the test on said device
 
-### Technical requirements
+#### Technical requirements
 
 - Perigean: please ensure participants have Zoom downloaded prior to the session
 - Participants are willing and prepared to screenshare
 
-#### Secondary criteria / would like to have -
+### Secondary criteria / would like to have -
 
 At least:
 
