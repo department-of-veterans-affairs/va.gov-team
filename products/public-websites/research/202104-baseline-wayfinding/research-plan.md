@@ -69,7 +69,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
   - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
 
 ## Timeline
-#### Desired Timeline: April 26-29, 2021 
+#### Desired Timeline: April 26-30, 2021 
 One-hour sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
@@ -78,6 +78,7 @@ April 26, 2021 | Noon - 8 pm
 April 27, 2021 | Noon - 8 pm
 April 28, 2021 | Noon - 3 pm, 5 - 8 pm
 April 29, 2021 | Noon - 8 pm 
+April 30, 2021 | Noon - 8 pm
 
 Pilot Session: April 22, 2021 | Time TBD
 
