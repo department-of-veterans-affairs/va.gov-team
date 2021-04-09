@@ -146,12 +146,12 @@ This is the personal information we have on file for you.
 
 **Mailing address**
 { Address, prefilled if present } 
-* Country (* Required) { dropdown, prefilled if present. }
-* Street address (* Required) { text field, prefilled if present. }
+* Country { dropdown, prefilled if present. }
+* Street address { text field, prefilled if present. }
 * Street address line 2 { text field, prefilled if present. }
-* City (* Required) { text field, prefilled if present. } 
-* State (* Required) { if USA, dropdown, prefilled if present }
-* Postal code (* Required) { if USA, text field, prefilled if present }
+* City { text field, prefilled if present. } 
+* State { if USA, dropdown, prefilled if present }
+* Postal code { if USA, text field, prefilled if present }
 
 
 { If bank account is on file }
