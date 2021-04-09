@@ -101,38 +101,38 @@ Now, I’m going to ask you to think about your very last medical appointment th
             - What did you not like about it? 
           - Have you ever used the kiosk for something that you didn't have an appointment for?
       - Next, we'll look at checking in for a lab test.
+        - Have you ever had a lab test at the VA? 
+          -  If yes, what was the experience like?
+            - What did you like about it?
+            - What did you not like about it? 
         - [Click "Lab Check-in" at the bottom of the screen]
         - [Click "Lab Check-in" button]
         - You can pick from a few different types of tests that you need that day. [Click "Blood Draw"]
         - Then, the system will print out a physical ticket for you to take to the waiting room. You would wait until they call the number on the ticket to have your test. [Click "Continue"]
         - Now, you are checked in for a lab test.
-        - Have you ever had a lab test at the VA? 
-          -  If yes, what was the experience like?
-            - What did you like about it?
-            - What did you not like about it? 
         - What are your thoughts about this workflow?
       - Now, we'll check in for pharmacy
+        - Have you ever interacted with the Pharmacy at the VA?
+          - If yes, what was the experience like?
+            - What did you like about it?
+            - What did you not like about it?
         - [Click "Pharmacy Check-in"]
         - [Click "Pharmacy Check-in"]
         - You can select what you need from the Pharmacy. [Click "Pick Up Medications"]
         - Again, the system will print out a physical ticket. You would wait until they call the number on your ticket to be helped at the Pharmacy. [Click "Continue"]
         - You are all checked in.
-        - Have you ever interacted with the Pharmacy at the VA?
+        - What are your thoughts on this workflow?
+      - Now, we'll update your next of kin
+        - Have you ever updated your Next of Kin at the VA?
           - If yes, what was the experience like?
             - What did you like about it?
             - What did you not like about it?
-        - What are your thoughts on this workflow?
-      - Now, we'll update your next of kin
         - [Click "Updating Next of Kin"]
         - [Click "Edit" next to Next of Kin]
         - [Click "Continue"]
         - [Click "Spouse"]
         - Now, you updated your Next of Kin.
-        - Have you ever updated your Next of Kin at the VA?
-          - If yes, what was the experience like?
-            - What did you like about it?
-            - What did you not like about it?
-        - What are you thoughts on this workflow? 
+        - What are your thoughts on this workflow? 
       - Lastly, we'll file a Beneficiary Travel Mileage request
         - [Click "Beneficiary Travel Mileage"]
         - Have you ever filed for Beneficary Travel Mileage?
@@ -148,7 +148,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
         - And you'd sign the agreement notice. [Click "Yes"]
         - Then, you would like sign to authorize the application [Click "Continue"]
         - You application was successful. [Click "Continue"]
-        - What are you thoughts on this workflow? 
+        - What are your thoughts on this workflow? 
         - [Researcher note: you can stop screensharing now.]
   
   - If the Veteran answered yes, they have used the kiosk...  
@@ -157,7 +157,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
        - How would you describe that experience?
          - What did you like about it?
           - What did you not like about it? 
-    - What would you would like to change about the kiosks?
+    - What, if anything, would you would like to change about the kiosks?
 
 ## (Could skip) In-person (5 minutes)
 - _If they didn’t mention in-person check-in above,_ Have you ever checked-in by just talking to a VA staff members?
@@ -168,6 +168,8 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What paperwork do you fill out?
     - What do you like about checking in via VA staff member? What could be improved?
     - What else should I know about your experience checking in by talking to staff members?
+  - If no,
+    - What do you think about the idea of checking in from your phone?  
 
 ## (Could skip) Via text message (“I am here” system) (5 minutes)
 - _If they didn’t mention text message check-in above,_ Have you ever checked-in via text message (maybe from your car in the parking lot)?
@@ -183,6 +185,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 - If you had a magic wand and you could check in for your appointment any way you would like, what would that experience look like?
   - What about if you could do all the check-in tasks that you can from the kiosk, but on your cell phone?
   - How would you expect to sign-in, in order to verify who you are, so you can check-in on your cell phone?
+- (if time) Is there anything else about check-in that we haven't talked about that you think I should know?
 
 ## Thank you and closing (2 minutes)
 Well we really appreciate you taking the time to share your thoughts with us and allowing us to learn more about the check-in process today. Your feedback is so helpful to us as we continue to work on improving the check-in experience.
