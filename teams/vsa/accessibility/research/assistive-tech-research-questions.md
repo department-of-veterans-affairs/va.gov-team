@@ -58,7 +58,7 @@ Tressa Furner, VSA Authenticated Experience
 - Aria text is a message giving instructions. Form labels tell you what is required e.g. "first name", "year" whereas Aria text can tell you how to enter it "enter year as 2 digits" 
 - aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
 - Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map without radius ("zoom to x miles" is better than "zoom to level 11"). 
-- Mobile vs desktop: both should be tested because users are using both.
+- Mobile vs desktop: both should be tested because users are using both. VO on iPhone has existed for a dozen years.
 
 ### Who to test
 
