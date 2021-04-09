@@ -9,7 +9,7 @@ Table of Contents
     + [Portal](#portal)
     + [Slack](#slack)
     + [Email](#email)
-- [VA CMS Help Desk Responsibilities](#va-cms-help-desk-responsibilities)
+- [VA Help Desk Responsibilities](#va-cms-help-desk-responsibilities)
    * [Tier 1](#tier-1)
    * [Tier 2](#tier-2)
    * [Tier 3](#tier-3)
@@ -65,17 +65,21 @@ Table of Contents
 			+ [KW](#kw)
 			+ [JH](#jh)
 			+ [HB](#hb)
-- [Government Roles the CMS Help Desk Provides Support to](#government-roles-the-cms-help-desk-provides-support-to)
+- [Government Roles the Help Desk Provides Support to](#government-roles-the-cms-help-desk-provides-support-to)
 	* [VISN to Facilities Index](#visn-to-facilities-index)
   	* [VISN 19:  Veterans Affairs and Veterans Health Administration](#visn-19--veterans-affairs-and-veterans-health-administration)
    
-# CMS Help Desk Overview
+# Help Desk Overview
 ## Mission
-The Content Management System Help Desk (VA CMS Help Desk, or just CMS Help Desk) provides end user support to staff from VA Medical Centers and VA Medical Facilities that utilize Drupal CMS features to publish important information for Veterans to obtain benefits at VA Medical Facilities and VA Medical Centers.  
+The Veterans Administration Content Management System Help Desk (VA CMS Help Desk, or Help Desk) provides user support to personnel within the Veterans Health Administration, Veterans Benefits Administration, and VA National Cemetery Administration that utilize the Drupal CMS features to publish important information for Veterans and their families regarding Veteran benefits.  
 
-The CMS Help Desk provides direct support and analysis of Support Channels to ensure that the mission critical goal of CMS Users to publish information critical to a Veteran's success is not impeded or disrupted by technical issues, user error, or defect of the CMS Platform.
+Information that is published is vital information about benefits afforded to Veterans made available through the VA's vast network.  Editors and Users (or just Users) throughout the VA benefits network will have technical and/or user error, or defect related issues that impede the publishing of information with the CMS and impede the success of the core mission of the VA which is to care for those “who shall have borne the battle” and for their families, caregivers and survivors.  
 
-This working document contains various procedures, policies, and training resources to provide an overview of how the Help Desk operates and the various procedures and processes that address the internal needs of stakeholders and the external needs of the User. Some external links are not openly shared.
+Issues that prevent the mission's success can be resolved with a Ticket for support from the Help Desk which can be raised via one of the Help Desk's Support Channels.  
+
+Users may also have suggestions or feedback critical to improving the efficiency of the CMS by suggesting a new feature or information to improve a current one.  A Ticket with the Help Desk will begin an important exchange of information to allow engineers to analyze and then act on this information.  
+
+This working document contains various procedures and links to policies, and training resources to provide an overview of how the Help Desk operates and the various internal needs of stakeholders as well as the external needs of the CMS User. 
 
 ## Getting Started
 
@@ -85,7 +89,7 @@ This working document contains various procedures, policies, and training resour
 
 ### Support Channels
 
-The CMS Help Desk currently offers four methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
+The Help Desk currently offers four methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
 
 ### Widget
 
@@ -93,7 +97,7 @@ A javascript widget is embedded on specific pages throughout the CMS that allows
 
 ### Portal
 
-Users can create a new Ticket with the VA.gov CMS Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
+Users can create a new Ticket with the VA.gov Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
 
 ### Slack
 
@@ -111,7 +115,7 @@ Tier 1’s Initial Response is created by using the “Reply to Customer” feat
 
 There is also an available email directly to our help desk ticketing system: support@va-gov.atlassian.net. This address, however, is not currently in use that we know of, although help desk staff would prefer it to the existing va.gov one.
 
-## VA CMS Help Desk Responsibilities
+## VA Help Desk Responsibilities
 ### Tier 1
 
 [Tier 1 Help Desk Triage] (https://docs.link-replaced.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
@@ -435,10 +439,10 @@ CMS non-prod Environments (default password drupal8)
 Drupal CMS orientation sessions contain both videos and activities that are required to be completed for access to the Drupal CMS production (live) environment.  User’s username for the production (live) environment will be created and emailed to their va.gov e-mail address when orientation activities are completed.
 
 ## Code Freeze
-During Federal Holiday’s the CMS Help Desk as well as the Product engineers, developers, and owners will implement a “Code Freeze” in which no new updates to the Code or Publishing will occur.  This Freeze process may be altered with the implementation of an immediate publishing framework. 
+During Federal Holiday’s the Help Desk as well as the Product engineers, developers, and owners will implement a “Code Freeze” in which no new updates to the Code or Publishing will occur.  This Freeze process may be altered with the implementation of an immediate publishing framework. 
 
 ## Release Notes
-The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodology) is a critical step in completing a sprint, an opportunity to excite stakeholders, and a chance for developers to show off their work.  The CMS Help Desk staff will attend Sprint Demo’s and document the various product changes and then publish those changes via Release Notes on the va.gov website (page to be determined)  and Github.
+The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodology) is a critical step in completing a sprint, an opportunity to excite stakeholders, and a chance for developers to show off their work.  The Help Desk staff will attend Sprint Demo’s and document the various product changes and then publish those changes via Release Notes on the va.gov website (page to be determined)  and Github.
 
 ## VA.gov Product Directory
 A spreadsheet that lists which team owns an issue.
@@ -502,7 +506,7 @@ VAMC Facility centralized information must be changed in the VA’s National Dat
 #### HB
 	Benefits Hub page
 	
-### Government Roles the CMS Help Desk Provides Support to:
+### Government Roles the Help Desk provides Support to:
 	#### Public Affairs Specialist 
 	#### Director of Public Affairs
 	#### Public Affairs Staff
