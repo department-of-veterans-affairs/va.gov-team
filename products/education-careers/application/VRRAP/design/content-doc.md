@@ -98,9 +98,9 @@ Start the education application >> { button }
 
 Respondent burden: **10 minutes**  
 
-OMB Control #:   **TO COME**
+OMB Control #:   **2900-0885**
 
-Expiration date: **TO COME**
+Expiration date: **October 31, 2021**
 
 [Privacy Act Statement]()  { modal with Privacy Act content }
 
