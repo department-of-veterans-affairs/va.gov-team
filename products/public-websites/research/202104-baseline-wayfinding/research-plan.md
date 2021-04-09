@@ -1,7 +1,7 @@
 # Research Plan: Baseline Wayfinding Research on VA.gov 
  	
 ## Goals	
-The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others. With a better understanding of Veterans' pain points and successes while using VA.gov, we can make more informed decisions about priorities for future design and research work.   
+The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others. With a better understanding of Veterans' pain points and successes while using VA.gov, we can make more informed decisions about priorities for future research and design work in website navigation and tools.   
 
 ## Background
 Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not on overall wayfinding. Analytics data indicate where people are clicking on pages and what search strings they try, but not whether they're finding what they're looking for. 
@@ -29,7 +29,7 @@ This research is planned within the context of the Public Websites team and the 
 - Veterans aren't using all of the current search and browse tools on VA.gov. 	
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
+We will conduct remote moderated research sessions via Zoom. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as wayfinding prompts to explore the live VA.gov website.
 
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
@@ -38,23 +38,23 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 
 ### Must have for participants
 - At least 5 Veterans
-- At least 2 caregivers or family members of a Veteran
+- At least 2 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
 - At least 4 people who plan to use their laptop/desktop for the session
 - At least 4 people who plan to use their smartphone for the session
+- At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
 
 ### Good to have for participants
 - At least 2 people who have never used the VA.gov website before
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
-- At least one person that does not have a college degree (to include enlisted Vets)
-- At least one person that has a college degree (to include officer Vets)
-- At least one person who lives in a rural or remote area
-- At least one person who lives in a major metropolitan area
-- At least one person with a disability rating of 70% or greater
-- At least one participant that has identified cognitive impairments and/or functional disabilities
-- At least one non-native English speaker
-- At least one person who uses assistive technology such as a screen reader, specialized keyboard, or switch
+- At least 1 person that does not have a college degree (to include enlisted Vets)
+- At least 1 person that has a college degree (to include officer Vets)
+- At least 1 person who lives in a rural or remote area
+- At least 1 person who lives in a major metropolitan area
+- At least 1 person with a disability rating of 70% or greater
+- At least 1 participant that has identified cognitive impairments and/or functional disabilities
+- At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
 - Have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
