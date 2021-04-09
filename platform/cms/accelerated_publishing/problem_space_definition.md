@@ -2,6 +2,8 @@
 
 _As an "Accelerated Publishing" team member, I need to understand the problem space in depth before attempting to recommend solutions, so that I can avoid risks and miscommunication down the road._
 
+This work was done in a collaborative workshop using [this mural board](https://app.mural.co/t/vagov6717/m/vagov6717/1617047958544/3dbc389b51891b47d460ae01860a0df4c3316433)
+
 ## What is the business need? What is the problem?
 
 *   Business units not willing to adopt CMS
