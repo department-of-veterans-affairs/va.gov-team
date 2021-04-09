@@ -168,9 +168,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
     - What paperwork do you fill out?
     - What do you like about checking in via VA staff member? What could be improved?
     - What else should I know about your experience checking in by talking to staff members?
-  - If no,
-    - What do you think about the idea of checking in from your phone?  
-
+  
 ## (Could skip) Via text message (“I am here” system) (5 minutes)
 - _If they didn’t mention text message check-in above,_ Have you ever checked-in via text message (maybe from your car in the parking lot)?
   - If yes, 
