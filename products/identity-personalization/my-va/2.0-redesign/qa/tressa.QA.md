@@ -107,6 +107,6 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 
 ## Other various bugs
 
-- Claims spinner needs content below it
-- Move ‘Apply for benefits’ dropdown up to be below My VA
-- Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug?
+- Claims spinner needs content below it 
+- Move ‘Apply for benefits’ dropdown up to be below My VA [#22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)
+- Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug? 
