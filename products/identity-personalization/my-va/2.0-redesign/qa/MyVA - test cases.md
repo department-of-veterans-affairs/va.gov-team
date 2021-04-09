@@ -69,9 +69,11 @@
 #### Static health care links
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|Refill and track your prescriptions|Any user with healthcare will show the static link|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|View your VA medical records| Any user with healthcare will show the static link |**36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|View your lab test results|Any user with healthcare will show the static link| **36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|Schedule and view your appointments|Any user with healthcare will show the static link- should go to VAOS tool|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|'You have X unread messages" or Send a secure message to your health care provider|Any user with healthcare will show the static link- should go to messaging in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|Refill and track your prescriptions|Any user with healthcare will show the static link- should go to prescriptions in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|View your VA medical records| Any user with healthcare will show the static link - should go to medical records content page |**36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|View your lab test results|Any user with healthcare will show the static link-should go to lab and test results content page| **36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 
