@@ -20,6 +20,7 @@ This research is planned within the context of the Public Websites team and the 
 - What pain points are there in terms of findability and usage?
 - What works well?
 - Are there any differences for desktop vs. mobile users?
+- Are there any differences for people who have used VA.gov before vs. haven't used it?
 - Do Veterans read/notice/click on the banner content on the home page?
 
 ## Hypotheses
@@ -28,30 +29,46 @@ This research is planned within the context of the Public Websites team and the 
 - Veterans aren't aware of all the current search and browse tools on VA.gov. 	
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom using the Perigean contract. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
+We will conduct remote moderated research sessions via Zoom. Participants will be asked a series of interview questions about their past usage of the VA.gov site and demonstrate some of what they've done, and then will be given some common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
 
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
 # RESUME WORKING HERE........................
  
 ## Participants and Recruitment	
-Recruit 16-20 people in order to get 8-10 completed sessions using the following criteria:
-1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using the following criteria:
 
-Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+### Must have for participants
+- At least 5 Veterans
+- At least 2 caregivers or family members of a Veteran
+- At least 4 people who plan to use their laptop/desktop for the session
+- At least 4 people who plan to use their smartphone for the session
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+### Good to have for participants
+- At least 2 people who have never used the VA.gov website before
+- At least 1 woman
+- At least 1 person of color
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include officer Vets)
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
+- At least one person with a disability rating of 70% or greater
+- At least one participant that has identified cognitive impairments and/or functional disabilities
+- At least one non-native English speaker
+- At least one person who uses assistive technology such as a screen reader, specialized keyboard, or switch
 
-- Any there any differences between people who have used VA.gov before and those you have not? (recruit for both)
+### Recruitment requirements for ALL participants
+- Have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
+- During the session, be willing to share a browser window showing VA.gov on their computer or mobile device 
+- Have a working microphone on their computer or a mobile device
+- Have Zoom downloaded prior to the session and know how to share their screen
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
-
-2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+### Additional questions to ask in the screener
+- Do you have a mobile phone or tablet? If yes, what type?
+- Have you used the VA.gov website before? 
+  - If yes, how recently? 
+  - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
