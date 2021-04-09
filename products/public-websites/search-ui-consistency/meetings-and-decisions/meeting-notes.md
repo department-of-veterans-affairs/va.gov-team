@@ -18,13 +18,15 @@ Design intent review
 
 #### Notes
 - Brief scope overview
-- Status update from Cassandra 
-    - eaders do need to be updated to have a link underneath per Josh Kim's feedback
+- Cassandra's update
+    - Headers do need to be updated to have a link underneath per Josh Kim's feedback
     - There will be a separate ticket for R&S mobile per John to make it match the other mobile
-- Megan
+
+- Megan's update
     - Adding an underline as well
-    - Has also noticed there's a width difference - if there is no left rail, it's
-- Leyda
+    - Has also noticed there's a width difference
+
+- Leyda's update
     - They did an audit for link styles and buttons
     - They did a review of the Facility Locator - font style differences; pretty minor
     - They probably align the least we well for some of the layout stuff.  Don't use the same form library
@@ -37,12 +39,12 @@ Design intent review
 - Michelle - questions, concerns?
     - Are VAMC pages in scope?  
     - Leyda identified all the buttons that needed to be changed
-    - Link styles - gets a little muddy. It's a decision we need to make. Do they want to 
-    - Would it be reasonable to just do a representative page for VAMC
+    - Link styles - gets a little muddy. It's a decision we need to make. Do they want to update all the VAMC pages?
+    - Marci asked if it would it be reasonable to just do a representative page for VAMC with the various pieces that could potentially appear.
     - Facility locator input field is currently bold.  Style guide is to unbold.
 
 #### Decisions
-- Implementation of the UI changes will be done as each team prioritizes and has bandwidth to roll the changes into their products. 
+- Implementation of the UI changes will be done as each team prioritizes and has bandwidth to roll them into their products. 
 
 #### Action Items
 - Complete Product Outline (Marci)
