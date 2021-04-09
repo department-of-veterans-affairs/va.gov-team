@@ -41,7 +41,7 @@ Following are the key findings ranked in order of severity, where 1 is considere
 
 ## Level 4
 
-* FAQs (no issue for this yet, dependeng on a product decision.)
+* FAQs (no issue for this yet, dependent on a product decision.)
 
 # Key Quotes:
 
