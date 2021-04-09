@@ -56,7 +56,7 @@
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
 |User IS enrolled in healthcare|User sees healthcare section|**377**| [Health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|User IS NOT enrolled in healthcare|User does not see healthcare section. User sees a link to "Apply for health care" in the "Benefits you might be interested in" section|**369**|[No health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032786_My_VA_Desktop_No_Health_Care)
+|User IS NOT enrolled in healthcare|User does not see healthcare section. User sees a link to "Learn how to apply for health care" in the "Benefits you might be interested in" section|**369**|[No health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032786_My_VA_Desktop_No_Health_Care)
 |User DOES have unread secure messages|User sees bolded link "You have X unread messages"|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**| [Messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |User DOES NOT have any unread secure messages or no secure messages at all|User sees link "Send a secure message to your healthcare team"|**226**|[No Messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032779_My_VA_Desktop_2_No_Messages)|
 |Ensure # of new messages is accurate|Number of new messages should match the unread messages shown in MHV|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md#secure-messages)** (Should be 3 messages)| [Has messages](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
@@ -101,6 +101,6 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 |----|----|----|----|
 |What benefits does VA offer?|Opens to a list of links of all the benefits available at VA, each link should link to the benefit overview page|**100**|[Benefits dropdown](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055978_My_VA_FTUX_Dropdown)|
 |Continue your application|Links to the specific unfinished application represented in My VA|**100**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|Learn how to apply for health care| Links to health care 'how to apply' page|**Tze to recreate using existing user**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
+|Learn how to apply for health care| Links to health care 'how to apply' page|**10**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
 |Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
 |Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
