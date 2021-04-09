@@ -64,7 +64,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
         
   - If no or yes (so everyone)...
     - I'm going to show you a series of tasks that can currently be completed on the kiosk. I'm interested in your feedback on them. I'm also interested in hearing how you complete these tasks. (Prototype: https://preview.uxpin.com/c466c519812f0c48fa2c4e0e25d0a9e703dce5b3#/pages/137806822?mode=cvhidm)
-      - First, we'll pretend you are checking in for your appointment with your primary care provider. 
+      - First, we'll pretend you are checking in for your appointment with your primary care provider.  
         - [Researcher notes: below are the areas of the prototype to click and some points of the prototype point out when clicking]
         - [Click "Check In to Appointments" button]
         - You can use your card to verify who you are. [Click "I do not have my VHIC" button] 
