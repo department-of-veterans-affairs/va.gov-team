@@ -29,19 +29,19 @@ Following are the key findings ranked in order of severity, where 1 is considere
  
 ## Level 2
 
-* Images [See #4391](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4391)
-* What you can do Promo [See #4990](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4990)
-* Preview - No CMS issue for this yet. Not reasonable to make this CLP specific. Certain approaches to the Accelerated Publishing may render this more feasible.
-* Internal navigation - Need more info here. 
+* Images ([See #4391](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4391))
+* What you can do Promo ([See #4990](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4990))
+* Preview (No CMS issue for this yet. Not reasonable to make this CLP specific. Certain approaches to the Accelerated Publishing may render this more feasible.)
+* Internal navigation - (Need more info here.)
 
 ## Level 3
 
-* Audiences [See #4989](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4989)
-* Order of segments   [See #4991](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4991)
+* Audiences ([See #4989](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4989))
+* Order of segments ([See #4991](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4991))
 
 ## Level 4
 
-* FAQs - no issue for this yet, dependeng on a product decision. 
+* FAQs (no issue for this yet, dependeng on a product decision.)
 
 # Key Quotes:
 
