@@ -6,27 +6,27 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|User has not signed in to VA.gov|User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA.|**any user**|[My VA Unauthenticated](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448962033_My_VA_Desktop_Unauthenticated)|Need to refresh cache to see My VA link|
+|User has not signed in to VA.gov|User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA.|**any user**|[My VA Unauthenticated](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448962033_My_VA_Desktop_Unauthenticated)|Pass-Need to refresh cache to see My VA link|
 
 
 ### Test cases for [Cerner users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md#alertserrors)
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|User is a patient at or is managing health care through a Cerner facility|User should see the title for 'Health care' and then the Cerner alert to redirect them to the correct place (Chalmers P. Wylie Veterans Outpatient Clinic should be above the first button)|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+|User is a patient at or is managing health care through a Cerner facility|User should see the title for 'Health care' and then the Cerner alert to redirect them to the correct place (Chalmers P. Wylie Veterans Outpatient Clinic should be above the first button)|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|Pass|
 
 #### Test cases for Cerner buttons
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|Go to My VA Health|Should go to My VA Health homepage|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
-|Go to My Healthevet|Should go to MHV user dashboard|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|
+|Go to My VA Health|Should go to My VA Health homepage|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|Pass|
+|Go to My Healthevet|Should go to MHV user dashboard|**[ssoissoetesting+mhvcss4@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md)**|[Cerner alert](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032780_My_VA_Desktop_Cerner_MHV)|Pass|
 
 ### Test cases for ["LOA1 user"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|LOA1 user has not verified their identity and has an application in progress on VA.gov|User is shown a prompt to verify their identity, their application in progress, and the 'Benefits you might be interested in' section (links related to filing a claim, applying for healthcare, and applying for education benefits) |**Tze can add application to user 350**| [LOA1 with applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens/448961807)
-|LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and links related to filing a claim, applying for healthcare, and applying for education benefits ('Benefits you might be interested in')|**350**|[LOA1 screen](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032788_My_VA_LOA1)|
+|LOA1 user has not verified their identity and has an application in progress on VA.gov|User is shown a prompt to verify their identity, their application in progress, and the 'Benefits you might be interested in' section (links related to filing a claim, applying for healthcare, and applying for education benefits) |**Tze can add application to user TBD**| [LOA1 with applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens/448961807)
+|LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and links related to filing a claim, applying for healthcare, and applying for education benefits ('Benefits you might be interested in')|**TBD**|[LOA1 screen](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032788_My_VA_LOA1)|
 
 
 ### Test cases for ["Disability Rating"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
@@ -34,23 +34,23 @@
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
 |User DOES have a disability rating|User will see their disability rating under their name (Your disability rating: X% service connected>), it should link to the [disability rating overview page](https://staging.va.gov/disability/view-disability-rating/rating)|**226**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|Pass|
-|User DOES NOT have a disability rating|User will NOT see a disability rating under their name |**10**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|
+|User DOES NOT have a disability rating|User will NOT see a disability rating under their name |**10**| [Shown in documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)|(NEEDS TICKET) If a user does not have a disability rating it should not show anything - currently showing 'view disability rating'|
 
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 
-**NOTE**: The only way to get a claim in the last 30 days is to file a new one for a user, for user 15 the claim willdisappear after April 30 (30 days after March 31) - we will need to make sure we add one before Tze starts testing
+**NOTE**: The only way to get a claim in the last 30 days is to file a new one for a user, for user 15 the claim will disappear after April 30 (30 days after March 31) - we will need to make sure we add one before Tze starts testing
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**15**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**15**| [No updates](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|  
-|User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|[no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|
+|User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**15**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**226**| [No updates](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|Pass| 
+|User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|[no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|Pass|
 
 #### Claims and appeals links
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|View details (in the specific claims details card)| Link to the specific claim shown on My VA|**15**| [View details](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|Manage all claims and appeals| Link to the main claims and appeals tool page |**15**| [Manage all claims and appeals link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|View details (in the specific claims details card)| Link to the specific claim shown on My VA|**15**| [View details](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
+|Manage all claims and appeals| Link to the main claims and appeals tool page |**15**| [Manage all claims and appeals link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|(NEEDS TICKET)User 226 routed back to MY VA, same with user 15 - this needs to link to the claims and appeals tool page| 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
@@ -80,7 +80,7 @@
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, application title and link "Continue your application"|**100**|[Application in progress](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|**369**|[No applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032781_My_VA_Desktop_Everything_Copy)
+|User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|**369**|[No applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032781_My_VA_Desktop_Everything_Copy)| Pass|
 
 #### "Benefits you may be interested in"
 
@@ -101,12 +101,12 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 |----|----|----|----|----|
 |What benefits does VA offer?|Opens to a list of links of all the benefits available at VA, each link should link to the benefit overview page|**100**|[Benefits dropdown](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055978_My_VA_FTUX_Dropdown)|
 |Continue your application|Links to the specific unfinished application represented in My VA|**100**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|Learn how to apply for health care| Links to health care 'how to apply' page|**Tze to recreate using existing user**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
-|Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
-|Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
+|Learn how to apply for health care| Links to health care 'how to apply' page|**Tze to recreate using existing user**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
+|Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|(NEEDS TICKET)- Needs to link to the 'How to apply for a claim' page, not the claim disability homepage|
+|Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|(NEEDS TICKET)- Needs to link to the 'How to apply for education benefits' page, not the education benefits homepage|
 
 ## Other various bugs
 
-- Claims spinner needs content below it 
-- Move ‘Apply for benefits’ dropdown up to be below My VA [#22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)
-- Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug? 
+- Claims spinner needs content below it
+- Move ‘Apply for benefits’ dropdown up to be below My VA
+- Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug?
