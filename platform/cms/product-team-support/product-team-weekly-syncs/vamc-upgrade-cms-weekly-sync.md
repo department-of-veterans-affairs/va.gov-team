@@ -23,9 +23,11 @@
 
 ## Friday Apr 8
 
-* Policies page training
-* Dual state launches
-* Prod state launch (eg for Erie)
+* ~Policies page training~
+* Help desk triage between teams
+* Dual state launches progress and upcoming
+* Prod state launch timeline (eg for Erie)
+* CMS account flows 
 
 ## Friday Mar 26
 
