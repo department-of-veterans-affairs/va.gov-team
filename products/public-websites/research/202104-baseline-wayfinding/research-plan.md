@@ -68,7 +68,6 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
   - If yes, how recently? 
   - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
 
-## When? 
 ## Timeline
 #### Desired Timeline: April 26-29, 2021 
 One-hour sessions with at least **30-minute breaks** in-between 
@@ -84,14 +83,14 @@ Pilot Session: April 22, 2021 | Time TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	Cindy Merrill ([cindy.merrill@adhocteam.us])
+- Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development:		Cindy Merrill
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Cindy Merrill ([cindy.merrill@adhocteam.us])
+- Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	TBD
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd ([blloyd@governmentcio.com]), Meg Peters ([meg.peters@va.gov]), John Hashimoto ([john.hashimoto@va.gov]), Denise Coveyduc ([dcoveyduc@governmentcio.com]), Marci McGuire ([mmcguire@governmentcio.com]), Megan Gayle ([mgayle@governmentcio.com]), Cassandra Allen ([callen@governmentcio.com]), Kelson Adams ([kadams@governmentcio.com]), Nick Sullivan ([nick.sullivan@adhocteam.us]), Shawna Hein ([shawna@adhocteam.us])
+- Observers:	Brian Lloyd (blloyd@governmentcio.com), Meg Peters (meg.peters@va.gov), John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Marci McGuire (mmcguire@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Cassandra Allen (callen@governmentcio.com), Kelson Adams (kadams@governmentcio.com), Nick Sullivan (nick.sullivan@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
  
 ## Resources	
-- Convervation Guide	
+- Conversation Guide	
 - Research Findings	
