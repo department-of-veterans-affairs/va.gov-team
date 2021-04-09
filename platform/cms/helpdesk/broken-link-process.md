@@ -3,72 +3,68 @@
 ## Broken Link Alerts
 
 ### Slack Alerts
-When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** , notifying **@cmshelpdesk**). This alert follows the format:
+When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** , notifying **@cmshelpdesk**). This alert will move soon to **#vfs-engineers**.
+The notification follows the format:
 
-```264 broken links found in the vagovprod build on 18408-jenkins-use-cms-export http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/18408-jenkins-use-cms-export/12/display/redirect```
+```4 broken links found in the vagovprod build on master
+@cmshelpdesk
+http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/123456/display/redirect
+Page,Broken link
+dir/url-of-page,[a href="/node/1234">Linkname</a>
+dir/url-of-page,[a href="/node/1235">Linkname</a>
+dir/url-of-page,[a href="/node/1236">Linkname</a>
+```
 
-As a general rule we only need to attend to those of these which are a low number of broken links ( <10), and built on either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake), e.g:
-
-```1 broken links found in the vagovprod build on master http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/9848/display/redirect```
+As a general rule the help desk team only needs to attend to alerts which mention either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake).
 
 ### Response
 We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`, then begin triage. 
 In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`. This ensures proper SLA tracking and reporting.
-We may choose to begin a **#cms-team** Slack conversation also that we are looking into the broken link for the team's awareness, and/or to reach out to Tier 2. 
+
+Our initial first response responsibility is to notify the **#vfs-engineers** channel that we are investigating the broken link(s). This must happen within 30 minutes of the notification.
+
+We may also choose to begin a **#cms-team** Slack conversation for the team's awareness, and/or to reach out to Tier 2. 
 
 # Steps to Investigate
+
+### Requesting Tier 2 assistance
+The first responsibility of the help desk is to quickly assess if the problem can be resolved without Tier 2 assistance. When in doubt we should default to requesting assistance — but in some instances we may choose to resolve the issue without help.
+
 ### Finding the problem
-If we click through to the link (we will need SOCKS / network access, and to be signed in to Jenkins), e.g. at http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/9848/display/redirect
+If we look at the initial alert notification, we should see, in this fictional example:
+```4 broken links found in the vagovprod build on master
+@cmshelpdesk
+http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/123456/display/redirect
+Page,Broken link
+dir/url-of-page,[a href="/node/1234">Linkname</a>
+dir/url-of-page,[a href="/node/1235">Linkname</a>
+dir/url-of-page,[a href="/node/1236">Linkname</a>
+```
+There is a list of one or more pairs: first the URL for a page, then a comma, then the details (including URL) for the link. We should be able to visit the indicated node(s) on the prod environment, to see its recent edit history and evaluate the cause of the broken link.
 
-We’ll see a list of build steps. We can CTRL/CMD-F for “broken” to find the broken link. Typically, it will be towards the bottom of the second shell script. The usual format will show the page URL that the link occurs on, then the link URL that’s broken (after `href="`). Often there may be more than one.
+Steps we may wish to take include:
+1. Visiting each page indicated in the alert notification (per above)
+2. Looking at the overall content list to see recently updated nodes
+3. For any node, we can look on the right side for Revisions and Recent Changes to gather context about the person publishing and what happened. We may also want to preview the page, look at the links, and generally troubleshoot by gathering evidence. 
+4. Looking at the user(s) who've recently updated nodes, to see what VISN they're in, and then looking at recently updated nodes for that VISN.
 
-Once we know the URL where the link occurs, we can visit it in prod by copying and pasting the URL into a browser, and it'll show the links warning at the top.
+Note that we should always request Tier 2 assistance unless we feel confident that we can resolve the issue without them.
 
-### Finding the author
-We can look on the right side for Revisions and Recent Changes to gather context about the person publishing and what happened. We may also want to preview the page, look at the links, and generally troubleshoot by gathering evidence. 
+### Common types of known issues, and how to remedy them
+So far, we've encountered a few types of broken link causes:
+- Content being published too soon by non-dual-state editors (so far, this is common, but recent changes to roles may make it uncommon): best fixed by determining content that may need to be Archived. we should be cautious about this, since archiving content that _should_ be published will make things worse instead of better. We should always notify users after the issue is corrected.
+- Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
+- Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
 
-# Remedying the problem
-## Initial triage
-Once we know the broken link, author, and some information about what happened, we can assess:
-1. Is it reasonable to expect that we can contact the author and get them to fix it? 
-- Are there other people (in the section or VAMC) who might be appropriate to contact also?
-2. If not, is it something we know how to fix ourselves? 
-- How certain of the content fix are we?
-3. If not, it’s time to reach out to Tier 2 for assistance. 
-
-## Contacting the author
-Once we know the problem, we can contact the author of the problem content to explain that their broken link is holding up a content release, and ask them to fix the link. This request should include:
+## Contacting the author afterwards
+Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
 1. The page in question
-1. Which link is broken
-1. Any recommendations or guesses about how to fix it, if we have them
+1. Which link is broken 
+1. What actions we (help desk and/or tier 2) took.
+1. Any recommendations or guesses about what the author should do next, if we have them
 
-See a suggested email template in the templates section below.
+See a suggested email template below:
 
-## Fixing it ourselves
-If contacting the author seems impractical, we’ll need to fix the link ourselves. This may be tricky, and it’s probably a good idea to get a second opinion on any changes we make to content (unless it’s obviously a typo-fix kind of situation).
-
-Once we’ve made the change, we should tell the author that we’ve done so using the appropriate email template.
-
-## Email templates
-### Asking the author to fix it
-**Subject/ticket title:**
->Urgent: immediate content fix needed to CMS page
-
-**Message body:**
->Hi name,
->The page that you edited today, page title, has triggered an alert that it contains a broken hyperlink. Since content for the entire website can’t be updated until this is fixed, we’d like your immediate assistance correcting this link. This is extremely time-sensitive, since it is delaying other users’ changes from updating across the entire website. 
-
->The problem hyperlink appears to be: link text which links to https://badurl.whatever.gov. It looks like a better URL would be: https://goodurl.whatever.gov. Is that correct?
-
->Can you please login and correct this hyperlink within the next 20 minutes, so that content releases can move forward? If not, please let us know immediately so that we can take corrective action ourselves. 
-
->Thanks!
-
->_Our name_
-
->VA CMS Help Desk
-
-### Telling the author that we fixed it
 **Subject/ticket title:**
 >We’ve made a content change to your CMS page
 
@@ -87,8 +83,9 @@ Once we’ve made the change, we should tell the author that we’ve done so usi
 >VA CMS Help Desk
 
 
-
 # Response Timeframe
-The timeframe for an initial email to users should be within 30 minutes at most, with a request for the content author that they remedy the problem within an additional 20 minutes at most, so that content releases can continue within the hour. If we have reason to think it’ll take longer, and/or the situation is urgent, we should attempt to correct the problem ourselves, and simply tell the author of the problem content that we’ve done so after the fact. Total time to fix the issue should be within an hour.
+The timeframe for an initial slack notification to **#vfs-engineers** should be within 30 minutes at most.
+Total time to fix the issue should be within an hour. If we have reason to think it’ll take longer, we should continue to update **#vfs-engineers**.
+When the issue is resolved, we should also update **#vfs-engineers** to say so.
 
 
