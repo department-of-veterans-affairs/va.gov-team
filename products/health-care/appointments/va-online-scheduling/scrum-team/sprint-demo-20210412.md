@@ -12,13 +12,13 @@ _(suggested items for presentations added below)_
 ### Welcome / Agenda
 Lauren - No deck. Straight to the good stuff.
 
-### Backend team
+### Backend
 - Brad
   - _COVID clinic report_
 - Corey / AJ
   - _API documentation_
 
-### Frontend team
+### Frontend
 - Jeff
   - _Vaccine appointment on homepage list + cancel message_
   - _Calendar days fix_
@@ -30,7 +30,7 @@ Lauren - No deck. Straight to the good stuff.
 - Tony
   - _TTY_
 
-## Design
+### Design
 - Peter
   - _Homepage Refresh confirmation page idea_
 
