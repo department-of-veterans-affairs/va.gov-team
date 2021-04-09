@@ -55,10 +55,10 @@ Tressa Furner, VSA Authenticated Experience
 
 - Layout doesn’t matter to her at all, the only thing that is important is tab order, keyboard access and percievability by screenreader. 
 - Screen readers cannot see an image, but can see the ‘alternate text’ - use the tag ‘ alt =‘ associated with an image or image link.  (Says graphic followed by text)
-- Aria text is a message giving instructions. Form labels typically tell you what to do - aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
-- Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map.
-- "See" is a term that is all encompassing for all senses
-- 
+- Aria text is a message giving instructions. Form labels tell you what is required e.g. "first name", "year" whereas Aria text can tell you how to enter it "enter year as 2 digits" 
+- aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
+- Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map without radius ("zoom to x miles" is better than "zoom to level 11"). 
+- Mobile vs desktop: both should be tested because users are using both.
 
 ### Who to test
 
@@ -70,8 +70,12 @@ There are different types of people who use screen readers:
 
 We need to differentiate between low vision vs no vision in research because that will effect how they are using the screen reader.
 
-We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader. 
+We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader.
 
+
+#### Other participant considerations
+- "See" is a term that is all encompassing for all senses
+- Don't say "condition", better: "How long has this been the case?" to ask about level of vision
 
 ## Follow up questions
 
