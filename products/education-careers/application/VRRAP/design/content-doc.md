@@ -100,7 +100,7 @@ Respondent burden: **10 minutes**
 
 OMB Control #:   **TO COME**
 
-Expiration date: ** TO COME**
+Expiration date: **TO COME**
 
 [Privacy Act Statement]()  { modal with Privacy Act content }
 
