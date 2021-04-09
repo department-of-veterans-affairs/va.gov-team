@@ -1,4 +1,88 @@
 # Meeting Notes
+## 2021-04-09 Form Matching Logic 
+
+#### Attendees
+- Zach Morel
+- Marci McGuire
+
+#### Notes
+- Zach will get together the logic he wrote for the form name transformation
+- SOCKS - if I get that set up, I can hit their sandbox database with the correct credentials and add to my PGAdmin service.
+
+## 2021-04-09
+
+#### Attendees
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Zach Morel - FE Engineer
+- Premal
+- Nichole Harris - PM for Lighthouse team Matsumoto
+- Mark Viterna - Engineer for Lighhouse team Matsumoto
+- Cristopher Shupp
+- Gregory Bowman
+
+### Notes
+- Nichole asked what things we were doing that we would like to have in the CMS
+- If they were to make a change to the API that overlaps, would it affect us?
+- We explained the challenge we have with search phrases being chopped up into individual words ("direct deposit" becomes "direct" "deposit)
+- With Postgres they could do weighting & ranking
+- Where would that popularity metadata be maintained?  Note - we may not need that
+- Kibana's metrics would update nightly and Mark could roll that in with the data
+- Per Nichole, if there were Form API consumers that had different needs, then they would do that, but we would also take care of us because we are their biggest users.
+- Premal observed that it sounds like a lot of the work would be on the API team, so we could iteratively make changes
+- We need to make sure someone at the VA team can get access to SOX so they can test.  Per John that is the plan to get it in the PMs hands
+- Premal asked what the impact to the Veterans - are they not finding the forms they need?  
+- Marci responded that if they search for a form name, they are in pretty good shape.  If they are searching for key words and phrases, they generally are not getting the results they need.
+
+#### Decisions
+- The Lighthouse team will bake in our logic for the data scrubbing
+- CMS will work with Zach on data scrubbing logic
+- Premal thinks this would still be a priority for them.
+
+#### Action Items
+- Quantify how many searches are not successful
+- Nichole needs to add more to the initiative brief about weighting/scoring
+- Send them a list of all the logic that we've already applied that they need to bake into the CMS
+- If Marci can get SOCKS set up, Mark can get it where she can query the data
+
+## 2021-04-08 "When To Use" discussion
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Zach Morel - FE Engineer
+- Premal - Product Owner
+- Nichole Harris - PM for Lighthouse team Matsumoto
+- Mark Viterna - Engineer for Lighhouse team Matsumoto
+
+<hr>
+
+#### Notes:
+- Purpose of the meeting was to determine how many existing forms might benefit from more robust detail pages that include "When To Use" information. 
+- We looked at Google Analytics data for the total number of searches between Jul 1 (first full month the tool launched) and March 1 (Feb was the last full month at the time we'd pulled the data). 
+- DECISION - We are going to do the top 100 for now, and going forward, anything that gets 250 searches a month.
+- We also discussed that moving this data into the CMS would make it much easier for us to manage keyword and key phrase metadata rather than relying on the VA forms managers to do it.
+
+## 2021-03-26 Lighthouse Database Update Meeting with Premal Shah, Nichole Harris, Mark Viterna
+#### Attendees:
+- John Hashimoto - Product Owner
+- Marci McGuire - Product Manager
+- Premal Shah - Product Manager
+- Nichole Harris - Product Manager, Team Matsumoto (Lighthouse API Support)
+- Mark Viterna - Developer, Intake/Forms API
+
+#### Notes:
+- Purpose of the meeting is to make a  decision about whether the DBQ forms can safely be removed from the Postgres database used by the Forms API
+- John has just heard back from Kayce White and will forward her email to us.  The gist is that the DBQ forms are NOT forms, do not have an OMB number and therefore **should not** appear on the Find a Form search.
+- Premal doesn't have much other background about the "ghost forms" and also clarified that they had already been deleted, but needed to be cleaned up.
+- Nichole - if it's not on the website, should it be shared with the other consumers, like Vet Pro.  
+- Premal clarified that the reason why the links are invalid now is because they have old data that was deleted
+- Premal is leaning toward the API should be consistent with the VA Forms search
+- **DECISION** - the DBQ forms should be removed from the Postgres database.
+- **DECISION** - we are safe to remove the duplicate forms as well (the ones that are NOT in the CMS)
+- We also discussed about whether or not the search improvements should be implemented in the Forms API or on the front end
+- The forms API was initially created for users to know if a form had changed, VA.gov started then using it and is now the biggest user
+- **DECISION** - it shoulds like the other API users could benefit from the same changes we want to implement, so we will work with the Lighthouse team on introducing those changes in the API.
+- Nichole will schedule some time to work with us on how to move forward.
 
 ## 2021-03-26 Lighthouse Database Update Meeting with Robert Parks (VBAVACO), Paul Shute
 
@@ -10,6 +94,7 @@
 - Mark Viterna - Developer, Intake/Forms API
 
 #### Notes:
+- Purpose of the meeting is to discuss which forms can safely be removed from the Postgres database used by the Forms API.
 - High level overview of Forms API
 - DBQ (Disability Benefits Questionnaires) forms overview - if something is a VA Form, that is a very very specific thing. Some VA forms are pamphlets (non-substative forms - not subject to certain rules).  Some forms are controlled. They have to renew everything years, petition to OMB, petition for each renewal and published in the Federal Register twice. 
 - Each form has a very specific version number assigned by OMB, and that can't be tinkered with.  

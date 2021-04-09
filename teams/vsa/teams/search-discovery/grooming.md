@@ -16,6 +16,31 @@
 
 </details>
 
+## April 1 , 2021
+
+***DISCUSSION TOPICS:*** 
+
+ - [ ] Current Deployment Safeguards + Impact
+ - [ ] Typeahead Suggestion List Status Update + Next Steps
+ - [ ] Search:gov 4/5 Meeting Agenda 
+ - [ ] Sitemap Next Steps (Metalsmith Plug in + Non-Canonical URLs)
+ - [ ] Design Iterations - Results Page 
+
+***GROOMING***
+ - [ ] [POC2] Run 4/10-4/25 [#22497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22497)
+ - [ ] [Results Page Redesign] Final design iterations [#22498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22498)
+ - [ ] [Results Page Redesign] Depo Design Review  [#22500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22500)
+ - [ ] [Results Page Redesign] Dev Exploration to optimize/rebuild search [#22499](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22499)
+ - [ ] [Click Tracking for Best Bets] Implementation [#22131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22131)
+ - [ ] [Analytics] Acquire GA Reports to focus on Global Search [#22501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22501)
+
+ ***NEXT STEPS/ACTIONS:***
+ - TBD
+
+
+ ***INITIATIVE STATUS***
+ - *After Grooming PM will add a snapshot of our current initiative status*
+
 ## March 18, 2021
 
 ***DISCUSSION TOPICS:*** 

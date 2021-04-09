@@ -27,6 +27,64 @@
 
 </details>
 
+## Wednesday, March 31, 2021
+### Discussion Topics/Grooming 
+- [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
+- [ ] R&S Mobile Search bar update [Grey Box] [#22438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22438)
+- [ ] sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11)
+[#15244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15244)
+- [ ] [Public Websites Bug] VA.gov T&Cs for MHV login [#20608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20608)
+- [ ] [AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name [#21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)
+- [ ] Discharge Upgrade Wizard - Problematic PDF Form Link [#21944](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21944)
+- [ ] [AXE-CORE]: Outreach hub - Links must have discernible text [#22138](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22138)
+- [ ] [CI/CD]: Review coverage of accessibility checks in disability-rating-calculator end-to-end tests
+[#7320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)
+- [ ] Medical Records page alert box updates for Cerner+MHV patients [#5390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5390)
+- [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
+- [ ] [MOTION/COGNITION]: Auto-scrolling problematic for users with motion sensitivity or cognitive considerations [#6461](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6461)
+ - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+ - [ ] Write standardized docs/procedures on how to build new graphql fragments/queries for new devs. 
+ - [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support).
+ - [ ] [Discovery] Chatbot - look into COVID chatbot learnings before implementation into R&S (WIP)
+ - [ ] WIZARDS: Are they released?  How are we tracking these, in terms of Impact? 
+ - [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+
+
+### Campaign landing page MVP 1.0
+- [Issues] Campaign Landing Page - Round 2 Internal Build Issues [#19981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19981)
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
+ 
+
+Notes/Next Steps:
+Finalize User Training Sessions / on-boarding process --> Launch!
+
+### Resources and Support MVP 1.1
+[MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
+- Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605) (Ice Box)
+- Medallia Implimentation - CSAT PW Ticket [14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302) Analytics Ticket [13774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13774)
+- Search Refinement. 
+- [ ] [DISCOVERY] R&S article ‘Veterans found this article helpful’ feature [#21988](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21988)
+
+Notes/Next Steps: 
+
+### Technical Debt Oppurtunities 
+- [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- a11y office reviewing 508 issues EPIC: Should have something back by Sprint 44. Update: Team is slightly backed up based on several members being OOO.  
+
+Notes/Next Steps: 
+
+### In-Take and Redirect request: 
+- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+
+Notes/Next Steps:  
+
+### Team Clarity Requests: 
+
+### Dad Joke:  
+- What do you call a twitchy Cow? 
+
+
 ## Wednesday, March 19, 2021
 ### Discussion Topics/Grooming 
  - [ ] CLP Staging "This is a test" Banner idea [#21665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21665)
@@ -86,7 +144,7 @@ Notes/Next Steps:
 Notes/Next Steps: 
 
 ### In-Take and Redirect request: 
-- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+
 
 Notes/Next Steps:  
 

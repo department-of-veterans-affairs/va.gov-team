@@ -74,11 +74,11 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| April 5, 2021 | 9 AM to 5 PM |
-| April 6, 2021  | 9 AM to noon |
-| April 7, 2021  | 9 AM to noon |
-| April 8, 2021  | 9 AM to 5 PM |
-| April 9, 2021  | 9 AM to 5 PM |
+| April 12, 2021 | 9 AM to 5 PM |
+| April 13, 2021  | 9 AM to 5 PM |
+| April 14, 2021  | 9 AM to noon|
+| April 15, 2021  | 9 AM to 5 PM |
+| April 16, 2021  | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer

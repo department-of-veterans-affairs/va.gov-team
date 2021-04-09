@@ -17,12 +17,32 @@
 
 </details>
 
+## Monday April 12 3pm ET
+
+* Adding supporting for VCNumber in Facility API, eg as `parent: "VC_0327V"`
+
+## Monday Apr 5 3:00pm ET
+
+Agenda/Notes
+
+  - Updates
+    - CMS is now pushing Covid Vaccine service apointment info to Lighthouse. 
+    - CMS has a method to bulk push these services to Lighthouse.
+
+  - Action Items 
+    - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
+    - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
+    - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
+
+   - Prioritization?  Additional service data, VetCenter CAPS ?
+
 ## Monday Mar 29 3:00pm ET
 
 Agenda/Notes
 
 - Action item review
   - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
+  
 - GraphQL/Renaming Fields 
   - Possiblity of doing a nightly pull through GraphQL for both Covid19 (in addtion to the push) and for the larger health services integration
   - Potential issues and the need for renaming/mapping on both sides
@@ -30,6 +50,16 @@ Agenda/Notes
   - Vaccine service
   - All health services
 - VAST
+- New items
+   - Sync issues:
+      - Facility exists in VAST but is not visitable for veterans. (active is not the appropriate status  ie. 660QD)
+      - Lovel does not exist in vast but is a health facilty.
+      - Human workflow needed with CMS report for buisiness process if a facility is removed from VAST.  It should not be an automated delete or archive.
+  
+  Action Items 
+    - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
+    - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
+    - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
 
 ## Monday Mar 22 3:00pm ET
 

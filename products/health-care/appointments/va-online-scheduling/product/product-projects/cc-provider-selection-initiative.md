@@ -5,11 +5,11 @@
 **Idea:** Create in-app community care provider selection experience that allows for multi-select options for potential community providers based on veteran's location. 
 
 ## Problem Statement
-Veteran's who are community care eligible have the option to seek care with community providers. For some veteran's this is a new option that they discover as part of the VA online scheduling flow. For other Veteran's, this is an optin they know/have used in the past and have a preferred, eligible community care provider in mind. 
+Veterans who are community care eligible have the option to seek care with community providers. For some veterans this is a new option that they discover as part of the VA online scheduling flow. For other Veterans, this is an optin they know/have used in the past and have a preferred, eligible community care provider in mind. 
 
 Right now the VAOS experience for making that provider selection choice is - not great. Because they must select providers that are in the CCN (VA community care network) they are forced to jump out of the VAOS app experience into Facility Locator, find the provider, then proceed to copy/paste the provider information into VAOS. Not cool. 
 
-Likewise, if Veteran's aren't doing this because the cumbersome in the app, the burden is falling on the Schedulers to spend more time triaging community care provider suggestions. 
+Likewise, if Veterans aren't doing this because the cumbersome in the app, the burden is falling on the Schedulers to spend more time triaging community care provider suggestions. 
 
 Additionally, the existing source for community care provider data - Provider Profile Management System (contains the community care providers (PPMS) - has some limitations based on how it's structured and how it performs.
 

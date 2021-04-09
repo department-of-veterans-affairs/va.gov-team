@@ -2,7 +2,7 @@
 name: IA Request
 about: Finalize the IA of your product for VA.gov
 title: IA Request [Team-Name, Feature-Name]
-labels: vsp-product-support, collaboration-cycle, collab-cycle-review
+labels: vsp-product-support, collaboration-cycle, collab-cycle-review, ia
 assignees: mnorthuis, shiragoodman
 
 ---
@@ -10,30 +10,30 @@ assignees: mnorthuis, shiragoodman
 Work with VSP Information Architecture experts to finalize the IA of your product for VA.gov
 
 ## When to use this: 
-After completion of usability/protyping, prior to moving to development
+After you have received a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed. 
 
-## Required Inputs:
-- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+## Requested artifacts:
+*Provide artifacts as available. If not available at the time this issue is created, please add information as it becomes available.*
+
+- Link to product outline 
 - Link to or attach prototype or mockups
-- Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
-- Link to [reseach history masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) showing that you have added your research to the list as applicable
-- Link to or attach your content source of truth/final content including H1s (if separate from prototype/mockup)
+- Link to or attach user/page flows
+- Link to or attach your content source of truth, including H1s (if separate from prototype/mockup)
 
-## Information Architecture Worksheet (Optional)
+## Information Architecture worksheet:
+*Provide any the following information, as available, to help provide direction and support of your IA.*
 
-Provide the following information, as available, to support the final information architecture of your product.
+**Content/feature placement** - Where do you believe this content and/or feature should live within VA.gov and why?
 
-**SEO Keywords** - Provide a list of keywords used by your target audience when they talk about or search for your content
+**Keywords and SEO** - What keywords does the primary audience use when they talk about or search for your content?
 
-**Proposed site map/page structure** - Provide link or image of proposed page structure (if more than one page)
+**URL(s)** - What are your suggested URLs and why?
 
-**Suggested URL(s)** - Provide suggested URLs and any background or rationale
-
-**Suggested entry points** - What is the primary entry point for users to find your new content/tool - consider benefit hub pages, top nav, left nav, footer, profile/account, home page, etc.
+**Primary entry points** - What do you see as the primary entry point for users to find your new content/tool?  
 
 **Crosslinking opportunities** - What additional related areas of the site would links to your content/tool be helpful?
 
-**Redirects/canonical tags** - Will existing pages/tools need to be redirected or canonicalized?
+**Redirects** - Will any existing content and/or tools need to be retired and redirected the new feature?
 
 ## Definition of Done
 - [ ] VFS: Creates issue and provides all required information above

@@ -40,7 +40,7 @@ Much of this is the same as the specs in the health care section:
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 **State 1B: A user who has an in-progress health care, disability, OR education application**  
 
@@ -54,7 +54,7 @@ Much of this is the same as the specs in the health care section:
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 ![Apply for benefits_Getting started_Apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started_Apps%20in%20progress.jpg)
 
@@ -73,7 +73,7 @@ Much of this is the same as the specs in the health care section:
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 **State 3: A user has no applications in progress**  
 

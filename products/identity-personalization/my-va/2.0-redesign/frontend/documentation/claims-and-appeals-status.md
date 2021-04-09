@@ -21,11 +21,15 @@
 
 If we can't connect to the claims or appeals endpoint we'll show this error in place of the claims and appeals section.
 
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
+
 ![Claim and appeal status_error_can't load section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20and%20appeal%20status_error_can't%20load%20section.png)
 
 **Error state: Can't load claims or appeals with known time when the feature will be back**
 
 If we can't connect to the claims or appeals endpoint **but** we know when the feature will be back up and running (eg. planned downtime), we'll show this error in place of the claims and appeals section.
+
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 ![Claim and appeal status_error_can't load section_known downtime](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20and%20appeal%20status_error_can't%20load%20section_known%20downtime.png)
 
@@ -51,7 +55,7 @@ If we can't connect to the claims or appeals endpoint **but** we know when the f
 
 *Copy specs*
 
-- **All final copy is TBD**
+[Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
 ![Multiple claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_multiple%20claims.jpg)
 

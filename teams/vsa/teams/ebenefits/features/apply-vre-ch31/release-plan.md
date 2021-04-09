@@ -1,4 +1,4 @@
-# PCPG (CH31) - Release Plan
+#VRE (CH31) - Release Plan
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -48,7 +48,7 @@ _x% (500 users) (_Recommendation: select a percentage that targets ~500 users, o
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Types of errors logged: TBD  
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ### Stage B: Moderate
@@ -73,11 +73,11 @@ _This feature may increase and/or decrease its percentage of traffic based on Ve
 
 ### Planning:
 - Desired date: **April 19, 2021**
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
+- Post-launch KPI 1: xx Conversion rate, compare directy form, wizard and form, wizard and orientation and form
+- Post-launch KPI 2: xx Volume, pageviews
 - Post-launch KPI 3: xx lorem ipsum
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md]
 
 ### 1-week results:
 - Number of unique users: x

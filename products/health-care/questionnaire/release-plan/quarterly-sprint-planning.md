@@ -3,6 +3,51 @@
 
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
+<details> <summary> Q2 2021 (Apr-Jun)  Sprint 45-?? </summary>
+
+
+## Sprint 47 - Go live Release at Pilot Site
+4/7/2021 - 4/20/2021
+- [Milestone 595](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/595)
+
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Objective Name | -- | # |
+| [FE] Objective Name | -- | # |
+| [BE] Objective Name | -- | # |
+| [Product] Objective Name | -- | # |
+
+## Sprint 45 - Final E2E testing and Collab Cycle sign off 
+4/21/2021 - 5/5/2021
+- [Milestone 594](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/594)
+
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Objective Name | -- | # |
+| [FE] Objective Name | -- | # |
+| [BE] Objective Name | -- | # |
+| [Product] Objective Name | -- | # |
+
+## Sprint 45 - Final development before MVP Go live
+4/7/2021 - 4/20/2021
+- [Milestone 593](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/593)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Checkin Discovery Interviews | -- | # |
+| [FE] Download PDF | -- | # |
+| |[FE]  Clean up | -- | # |
+| [FE] Testing E2E | -- | # |
+| [BE] Production envieonments | -- | # |
+| [BE] Test Data | -- | # |
+| [Product] Collaboration checkpoints | -- | # |
+| [Product] External /Call Center troubleshooting Documentation	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+
+</details>
+
 <details> <summary> Q1 2021 (Jan-Mar)  Sprint 38-44 </summary>
 
 ## Q1 Target Release Launch Summary of Feature Capabilities
@@ -11,20 +56,7 @@
 - [q1-2020-target-launch]()
 
 
-### Not assigned to a sprint 
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [FE]  Accessability | -- | # |
-| [FE]  Clean up | -- | # |
-| [Product] External /Call Center troubleshooting Documentation	| -- |  |
-| [All] Collab Cycle Approvals for Pros 	| -- |  |
-| [UX] Analytics	| -- |  |
-| [Product] Change Management for Implementation 	| -- |  |
-
-
-
-## Sprint 44 - Sprint Theme
+## Sprint 44 - Back end PDF Creation
 3/24/2021 - 4/6/2021
 - [Milestone 464](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/464)
 
@@ -39,7 +71,7 @@
 | [Product] Collaboration checkpoints | -- | # |
 
 
-## Sprint 43 - Sprint Theme
+## Sprint 43 - Lighthouse integration 
 3/10/2021 - 3/23/2021
 - [Milestone 463](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/463)
 

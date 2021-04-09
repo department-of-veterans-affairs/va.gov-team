@@ -70,6 +70,12 @@ Once content and apps have been deployed to dev using the `content_proxy_url` an
   # apps_proxy_url: http://apps.dev.va.gov.s3-website-us-gov-west-1.amazonaws.com
 ```
 
+## Important Note
+
+We check S3 first to see if content exists first, and if not, serve it from EWIS infrastructure.
+
+- [EWIS proxy details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/EWIS/ewis-proxy-details.md)
+
 ## Links
 
 - [Reverse proxy initial clean up](https://github.com/department-of-veterans-affairs/devops/pull/7262)

@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/infrastructure/Review-Instances.810385495.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Reviewing changes in feature branches
 
 If you need to do additional testing and verification outside of local machine testing, you can deploy changes from a branch or pull request (PR). Heroku instances allow you to test changes to static content on the frontend, while review instances allow you to view changes to services or applications on the backend.

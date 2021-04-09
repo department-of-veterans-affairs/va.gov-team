@@ -287,68 +287,100 @@ If unblocked by VA Profile:
 
 ## Sprint 45 (4/7 - 4/20)
 
-### Profile 
+### Priorities
+
+1. Continue with direct deposit for edu launch
+2. Finish My VA design (if not done already) and My VA build
+3. Continue work on preferred facility and communications preferences
+4. Profile tickets
+
+Any outstanding tickets from sprint 44, plus:
+
+### Profile
+
+PM
+
+- Review the profile and its documentation to become familiar with it
 
 Design
 
-- Add email for when someone updates their contact information
+- Create confirmation email for when contact information is updated on VA.gov #8383
 
 FE
 
 - 508-defect-2 [COGNITION]: H1 should match or be included in the page title #19552
+- 508-defect-3 [COGNITION]: Edit and cancel buttons SHOULD be styled as buttons #19562
 
 ### My VA redesign
 
 **PM**
 
 - Assist Tressa with contact center guide
-- Thorough review FE build
+- Thorough review of FE build
   - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
+- Submit [analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-analytics-request.md) (VSP collab cycle)
+  - Regroup with Samara on this first
+- Review the new My VA designs and documentation to become familiar with it
 
 **Design**
 
-- Final handoff to FE
-- Thorough review FE build
-  - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
-- Talk to Trevor about what assistive tech testing would look like
+- Finish design tickets if they aren't already done
 - Start contact center guide
+- Thorough review of FE build
+  - I would recommend going through the My VA use cases doc we are providing to QA and testing as many of those as possible to validate as many design states as possible.
 
 **FE**
 
+- Implement LOA1 design (if not already done)
 - Finish build
 
 ### Direct deposit for edu
 
 **PM**
 
+- Monitor launch to 25%
+- Monitor launch to 50%
+- Let content team know anticipated 100% date so that they can publish the updated content page. #20096
+
+**FE**
+
 - Launch to 25%
 - Launch to 50%
-- Keep eBenefits updated on launch
-- Let content team know anticipated 100% date so that they can publish the updated content page. #20096
 
 ### Preferred medical facility 
 
 **PM**
 
-- Revisit long term planning with the team — are we ready to go on hold until VAOS is available?
-- [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
+- Any necessary coordination with VAOS
+- [Submit for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
 
-- Finish design
-- Plan for IA review
+- Finish design, if not already done (including any suggested updates from the design intent collab)
+- Finalize content, if not already done
+- Work with AJ to submit for the IA review
+- Design documentation for frontend
 
 ### Notification preferences
 
 **PM**
 
-- Meet with Terry to better understand timeline so we can scope/plan
-- [Plan for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
+- [Submit for IA review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-ia-request.md)
 
 **Design**
 
-- Finish design
-- Plan for IA review
+- Finish design, if not already done (including any suggested updates from the design intent collab)
+- Finalize content, if not already done
+- Work with AJ to submit for the IA review
+- Design documentation for frontend
+
+**FE**
+
+- Technical discovery
+
+**BE**
+
+- Finish build, if not already done
 
 ## Sprint 46 (4/21 - 5/4)
 

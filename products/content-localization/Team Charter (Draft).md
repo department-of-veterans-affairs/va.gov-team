@@ -5,7 +5,8 @@
 2. [What we work on](#what-we-work-on)
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
-5. [Team norms](#team-norms)
+5. [Useful Links](#useful-links)
+
 
 ## Guideposts
 
@@ -31,71 +32,43 @@ An online experience that allows Limited English Proficiency (LEP) Veterans and 
 
 ### Team Members:
 - DEPO Product Lead: Danielle Thierry 
-- DEPO Engineering Lead: 
+- DEPO Engineering Lead: Michelle Steigerwalt
 - Team Product Manager: Sharon Kasimow
 - UX/Research: 
 - Front-End Engineering: Fareez Ahmed
+- Consultant: Eunice Garcia
 
 ---
 
 ## How we work
 
-<details><summary>Workflow and Cadence</summary>
-<p>
+Workflow and Communications
    
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 12.30 pm Eastern (Live M, W and F)
-- 15 min
+- Every Mon, Wed and Fri @ 12.30 pm Eastern 
+- 20 min
 - 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
-#### Sprint Planning
-Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Monday of every sprint week @ TBD
-- 1 hour
-- We'll use Github milestones to commit to what's in each sprint
+#### Creating Tickets
+Anyone on the team can create a user story. We work in this repo: https://github.com/department-of-veterans-affairs/va.gov-team / https://github.com/department-of-veterans-affairs/va.gov-team 
 
+department-of-veterans-affairs / va.gov-team
 
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and generate action items.
-
-- 1st Wednesday of every sprint @ TBD
-- 30 min
-
-#### Grooming
-Create, review, estimate, and prioritize backlog items.
-
-- 2nd Wednesday of every sprint, TBD
-- 1 hour
-
-</p>
-</details>
-
-#### Issue Etiquette
-Anyone on the team can create a user story. All are responsible for keeping them up to date.
-
-- For a story to go in the Backlog column and be groomed, it should have:
+- For a story to go in the **"Backlog"** column and be groomed, it should have:
+    - Title that explains the goal in plain language
     - Clear acceptance criteria
     - Definition of done  
-    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-    - All components/steps have been accounted for in the epic
-    
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
+    - Labels: vsa-content-localization
+    - Link to Epic "Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
 
-- For a task to go into the **"Backlog"** column, it must have the following:
-   - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
 
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Estimate
-   - Sense of priority (relative to other tickets)
    
+- For a task to go into the **"Ready"** column, it must have the following:
+   - Estimate      
 - During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
 - As they are worked, tickets get moved into **"In Progress"**
 
@@ -112,8 +85,6 @@ Anyone on the team can create a user story. All are responsible for keeping them
    - Merged to master
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom
    - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -135,28 +106,37 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
 
-## Team Norms
-- We are iterate often and deliver frequently
-- We are respectful, both online and off
-- We turn on cameras as often as possible at meetings / calls
-- We are flexible and intentional in the way we work
-- We communicate often and in public channels
-- We ask questions when they arise
-- We listen without judgement
-- We keep our work simple and clean
-- We validate each others' work
-- We do reviews in independent environments
-- We hold each other accountable
-- We stick to our commitments as best as possible
-- We are respectful of others' time
+#### Slack
 
-#### Slack:
-
-This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
-
+ - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. Channel link: https://dsva.slack.com/archives/C01GCADCMQT
+ 
+ 
 #### PTO
 - Team members will send calendar invites to the rest of team when they have scheduled time off 
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+  
+## Useful Links
 
+#### Github Product Folder
+ 
+- This is where we store any files/documents related to our product work: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization
+ 
+ #### Mural Boards
+ 
+-  "Wall of Work" https://app.mural.co/t/vsa8243/m/vsa8243/1616367504180/c04955731b5c072c17ffb0f405f3867287a76931 OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616367504180?sender=uc4dee377db84ad6d775b1680&key=bf67994c-2abf-4e07-98f8-c4b64bfd260a
+ 
+-  "Interviews" https://app.mural.co/t/vsa8243/m/vsa8243/1616539522988/53685d4242bcde217d6bd041977cb8dc2f4d44fa OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616539522988?sender=uc4dee377db84ad6d775b1680&key=9ccd117e-f56f-4957-9c63-d8e1455411e0
+
+#### Research
+
+- Usability Testing and Research for reference: https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
+- Other Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp
+- Google Translation Assessment: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/google-translate-assessment.md
+- 
+#### Epics
+
+- Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
+- Translation | Covid-19 Related Pages | Spanish & Tagalog https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11599
+- Anchor Tags: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/19813

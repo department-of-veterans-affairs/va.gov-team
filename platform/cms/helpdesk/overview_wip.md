@@ -1,12 +1,85 @@
-# VA.gov CMS Help Desk Overview
+Table of Contents
+=================
 
-# Mission
+- [Mission](#mission)
+  * [Getting Started](#getting-started)
+  * [How a User Contacts the Help Desk](#how-a-user-contacts-the-help-desk)
+    + [Support Channels](#support-channels)
+    + [Widget](#widget)
+    + [Portal](#portal)
+    + [Slack](#slack)
+    + [Email](#email)
+- [VA Help Desk Responsibilities](#va-cms-help-desk-responsibilities)
+   * [Tier 1](#tier-1)
+   * [Tier 2](#tier-2)
+   * [Tier 3](#tier-3)
+   * [The Help Desk Manager](#the-help-desk-manager)
+   * [The Delivery Manager](#the-delivery-manager)
+   * [Types of requests](#types-of-requests)
+- [User How-To or User Error Tickets](#user-how-to-or-user-error-tickets)
+   * [Defects](#defects)
+   * [Content Questions](#content-questions)
+   * [Ticket Classification](#ticket-classification)
+   * [CMS Feature and Content Related Guides](#cms-feature-and-content-related-guides)
+   * [For VA Medical Center Editors](#for-va-medical-center-editors)
+   * [For Product Teams](#for-product-teams)
+   * [Account Creation &amp; Training](#account-creation--training)
+   * [Resources](#resources)
+     + [Incidents and Defects](#incidents-and-defects)
+     + [CMS Deployments](#cms-deployments)
+     + [Broken links](#broken-links)
+     + [Drupal CMS Orientation for VAMC editors](#drupal-cms-orientation-for-vamc-editors)
+     + [Login and account](#login-and-account)
+     + [Event &amp; Events List](#event--events-list)
+     + [Story &amp; Stories List](#story--stories-list)
+     + [News Release &amp; News Releases List](#news-release--news-releases-list)
+     + [Health Services Content Types](#health-services-content-types)
+     + [Health Services List](#health-services-list)
+     + [VAMC System Health Service](#vamc-system-health-service)
+     + [Locations Content Types](#locations-content-types)
+     + [Alerts and Operating Statuses](#alerts-and-operating-statuses)
+     + [Facilities &amp; Locations](#facilities--locations)
+     + [About Us Pages](#about-us-pages)
+     + [Detail Page](#detail-page)
+     + [Staff Profile &amp; Leadership List](#staff-profile--leadership-list)
+     + [VAMC Guides](#vamc-guides)
+- [Performance and Reporting](#performance-and-reporting)
+   * [Self-Service Training for Drupal CMS Access](#self-service-training-for-drupal-cms-access)
+   * [Code Freeze](#code-freeze)
+   * [Release Notes](#release-notes)
+   * [VA.gov Product Directory](#vagov-product-directory)
+   * [Issues that Prevent the Publishing of Content](#issues-that-prevent-the-publishing-of-content)
+   * [Broken Links](#broken-links)
+   * [Previous Issues](#previous-issues)
+     +[If Edit Tab Does Not Appear](#if-edit-tab-does-not-appear)
+       * [If a Page is Not Linking Well but Is Published Under Drupal CMS](#if-a-page-is-not-linking-well-but-is-published-under-drupal-cms)
+       * [What Happens if Published in Error?](#what-happens-if-published-in-error)
+       * [Does Data Migration from TeamSites Delete Data?](#does-data-migration-from-teamsites-delete-data)
+       * [Benefits Hub Landing Page](#benefits-hub-landing-page)
+       * [Editing Forms Results in Page Not Found](#editing-forms-results-in-page-not-found)
+       * [How to Update Contact Info](#how-to-update-contact-info)
+       * [Subject Matter Experts](#subject-matter-experts)
+			+ [SW](#sw)
+			+ [AR](#ar)
+			+ [ZM](#zm)
+			+ [KW](#kw)
+			+ [JH](#jh)
+			+ [HB](#hb)
+- [Government Roles the Help Desk Provides Support to](#government-roles-the-cms-help-desk-provides-support-to)
+	* [VISN to Facilities Index](#visn-to-facilities-index)
+  	* [VISN 19:  Veterans Affairs and Veterans Health Administration](#visn-19--veterans-affairs-and-veterans-health-administration)
+   
+# Help Desk Overview
+## Mission
+The Veterans Administration Content Management System Help Desk (VA CMS Help Desk, or Help Desk) provides user support to personnel within the Veterans Health Administration, Veterans Benefits Administration, and VA National Cemetery Administration that utilize the Drupal CMS features to publish important information for Veterans and their families regarding Veteran benefits.  
 
-The Content Management System Help Desk (VA CMS Help Desk, or just CMS Help Desk) will provide end user support to staff from VA Medical Centers and VA Medical Facilities that utilize the site's various features to publish important information for Veterans to obtain benefits at VA Medical Facilities and VA Medical Centers.  
+Information that is published is vital information about benefits afforded to Veterans made available through the VA's vast network.  Editors and Users (or just Users) throughout the VA benefits network will have technical and/or user error, or defect related issues that impede the publishing of information with the CMS and impede the success of the core mission of the VA which is to care for those “who shall have borne the battle” and for their families, caregivers and survivors.  
 
-The CMS Help Desk provides direct support and analysis of Support Channels to ensure the mission critical goal of CMS User's to publish healthcare information critical to a Veteran's success is not impeded or disrupted by technical issues, user error, or defect of the CMS Platform.
+Issues that prevent the mission's success can be resolved with a Ticket for support from the Help Desk which can be raised via one of the Help Desk's Support Channels.  
 
-This document contains the various procedures, policies, and training resources (some linked to external sites and access will not be granted for all, that is expected and those links will update soon) that will provide a User with a general understanding of how the Help Desk operates and the various procedures and processes that address the internal needs of stakeholders and the external needs of the User. 
+Users may also have suggestions or feedback critical to improving the efficiency of the CMS by suggesting a new feature or information to improve a current one.  A Ticket with the Help Desk will begin an important exchange of information to allow engineers to analyze and then act on this information.  
+
+This working document contains various procedures and links to policies, and training resources to provide an overview of how the Help Desk operates and the various internal needs of stakeholders as well as the external needs of the CMS User. 
 
 ## Getting Started
 
@@ -16,31 +89,23 @@ This document contains the various procedures, policies, and training resources 
 
 ### Support Channels
 
-The CMS Help Desk currently offers three methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
+The Help Desk currently offers four methods for Users to create a Ticket and enter the Help Desk Support Queue to have their Issue resolved.
 
 ### Widget
 
-A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket at https://va-gov.atlassian.net/servicedesk/customer/portal/3
-
-### Slack
-
-Users may also create a Ticket with the Help Desk using pre-existing Slack channels.Tier 1 currently is responsible for the timely and periodic review of the Channels for new Cases; and enters all Cases manually by copying and pasting the relevant data into a new Ticket in JIRA.There is currently no method that tracks which Slack messages are Cases or have been entered in JIRA or had any action(s)There is currently no metric that measures performance, accurately, of messages involving Cases that flow through this channel.
+A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket at https://va-gov.atlassian.net/servicedesk/customer/portal/3 This is one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
 
 ### Portal
 
-Users can create a new Ticket with the VA.gov CMS Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager.
+Users can create a new Ticket with the VA.gov Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
+
+### Slack
+
+Contractors and VA staff who are already using the VA Digital Services Slack may also create a Ticket with the Help Desk using the **cms-support** Slack channel. Tier 1 currently is responsible for the timely and periodic review of this Channel, and enters all interactions from this channel manually into our ticketing system by copying and pasting relevant information into a new Ticket in JIRA. As there is currently no method that tracks which Slack messages are tickets in JIRA, there is currently no metric that measures performance, accurately, of messages involving Cases that flow through this channel. 
 
 ### Email
 
-The address is a member of a distributed list that is hosted by va.gov.
-
-Tier 1 is responsible for reviewing the mailbox’s incoming e-mail for any new items every 30 minutes between 8 a.m. and 8 p.m. EST.
-
-All new Cases must be manually entered into the JIRA system often by copying and pasting the related content from the email to a new Ticket in JIRA.
-
-There currently is no performance metric that reliably and accurately reports this Support Channel.
-
-The Help Desk is not currently tracking where this email address is being published and shared with Users.
+A distributed email list that is hosted by va.gov is checked by Tier 1 help desk staff. Tier 1 is responsible for reviewing the mailbox’s incoming e-mail for any new items every 30 minutes between 8 a.m. and 8 p.m. EST. All new tickets must be manually entered into the JIRA system often by copying and pasting the related content from the email to a new Ticket in JIRA. There currently is no performance metric that reliably and accurately reports this Support Channel. The Help Desk is not currently tracking where this email address is being published and shared with Users.
 
 There is currently no real-time, automated notification system to alert Tier 1 when a new Ticket is created or a User sends an email to the address.
 
@@ -48,14 +113,16 @@ Once a Ticket enters the Support Channels and is received by Tier 1, Tier 1 is e
 
 Tier 1’s Initial Response is created by using the “Reply to Customer” feature found at the bottom of the Ticket.  Initial Responses should be sent no more than 30 minutes after receiving the User’s request.  Tier 1’s Initial Response will Acknowledge the User’s issue, explain to the User that an initial assessment has been made based on the current description of the issue, ask probing questions to fully understand and align to the urgency of the User's specific situation, and Assure the Help Desk is here to help.  
 
-## VA CMS Help Desk Responsibilities
+There is also an available email directly to our help desk ticketing system: support@va-gov.atlassian.net. This address, however, is not currently in use that we know of, although help desk staff would prefer it to the existing va.gov one.
+
+## VA Help Desk Responsibilities
 ### Tier 1
 
-[Tier 1 Help Desk Triage](https://docs.google.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
+[Tier 1 Help Desk Triage] (https://docs.link-replaced.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
 
-[Tier 1 Help Desk Product Scope of Support](https://docs.google.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#)
+[Tier 1 Help Desk Product Scope of Support](https://docs.link-replaced.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#)
 
-[Help Desk 101](https://docs.google.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75)
+[Help Desk 101](https://docs.link-replaced.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75)
 
 The Tier 1 Help Desk is responsible for any Issues related to content publishing or editing that involve How-to questions (how-to edit, manage, publish, or alter VA Medical Center’s pages) and questions about the use any of the CMS’ built-in features such as Password Reset, Governance, Permissions, and Account management.
 
@@ -81,9 +148,9 @@ Ensure that any Incidents are reported/escalated immediately, and serve as Incid
 
 ### Tier 2
 
-[CMS Tier 2 Rotation and Responsibilities](https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit)
+[CMS Tier 2 Rotation and Responsibilities](https://docs.link-replaced.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit)
 
-[GitHub Tickets for Backlog](https://docs.google.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0)
+[GitHub Tickets for Backlog](https://docs.link-replaced.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0)
 
 [Tier 2 Triage for Actionable Items from User Feedback](https://whimsical.com/product-and-tier-2-triage-for-actionable-items-from-user-feedbac-9wUpPeb6T69NUKDsKY3HqY)
 
@@ -102,7 +169,7 @@ Provide 1 engineer, developer, or product owner to rotate every 2 weeks as Tier 
 ### Tier 3  
 <requires refining>
 
-[VA Org Chart](https://docs.google.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0)
+[VA Org Chart](https://docs.link-replaced.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0)
 
 
 ### The Help Desk Manager
@@ -149,7 +216,7 @@ Participants are able to add to the Conversation by replying to Ticket emails th
 
 ### Ticket Classification 
 
-[Labels and Components of JIRA](https://docs.google.com/spreadsheets/d/1iBvqWLLLQ3ROlvGE0_T3WdNIx0j14szYYjEswqmmx5U/edit#gid=0)
+[Labels and Components of JIRA](https://docs.link-replaced.com/spreadsheets/d/1iBvqWLLLQ3ROlvGE0_T3WdNIx0j14szYYjEswqmmx5U/edit#gid=0)
 
 ### CMS Feature and Content Related Guides
 
@@ -166,7 +233,7 @@ Participants are able to add to the Conversation by replying to Ticket emails th
 ### For VA Medical Center Editors
 Support Channels are [VACMSSupport@va.gov](mailto:VACMSSupport@va.gov) and/or the "Contact Help Desk" button on the CMS.
 
-[Overview of processes](https://docs.google.com/document/d/1piIkYdFjvcy0_OMlD3oWVj9o6sX3g5ykG0bopGMiHxI/edit#heading=h.113j7shbaqi2)
+[Overview of processes](https://docs.link-replaced.com/document/d/1piIkYdFjvcy0_OMlD3oWVj9o6sX3g5ykG0bopGMiHxI/edit#heading=h.113j7shbaqi2)
 
 [Engaging the CMS Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md)
 
@@ -190,11 +257,11 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 [VAMC System Policies Page Training](https://dsva.slack.com/files/U01DQAYJYCC/F01RZGYS65V/vamc_system_policies_page_training-local.pptx)
 
-[Training Runbook](https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097)
+[Training Runbook](https://docs.link-replaced.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097)
 
-[VA Onboarding Checklist](https://docs.google.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0)
+[VA Onboarding Checklist](https://docs.link-replaced.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0)
 
-[New Account and Training Email Templates](https://docs.google.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3)
+[New Account and Training Email Templates](https://docs.link-replaced.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3)
 
 ### Resources
 
@@ -202,7 +269,7 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 [Incident Response Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
-[Incident Response Contact Information](https://docs.google.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0)
+[Incident Response Contact Information](https://docs.link-replaced.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0)
 
 #### CMS Deployments
 
@@ -212,7 +279,7 @@ Deployment http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovpr
 
 #### Broken links
 
-[Broken Links Sync](https://docs.google.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b)
+[Broken Links Sync](https://docs.link-replaced.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b)
  
 
 [Content Types](http://training.demo.ci.cms.va.gov/admin/content-models/content)
@@ -221,7 +288,7 @@ Deployment http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovpr
 
 [Canned Answers](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses)
 
-[Sprint Best Practices](https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l)
+[Sprint Best Practices](https://docs.link-replaced.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l)
 
 [CMS Onboarding Service Blueprint](https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc)
 
@@ -339,13 +406,13 @@ Learn about the new vision for VA health care sites and how you can support Vete
 
 Find guides on editing VAMC information based on its content type in the CMS.
 
-[Help Desk Share Drive](https://drive.google.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts)
+[Help Desk Share Drive](https://drive.link-replaced.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts)
 
-[CMS Common Questions](https://docs.google.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9)
+[CMS Common Questions](https://docs.link-replaced.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9)
 
 #### CMS Environments
 
-CMS non-prod Environments
+CMS non-prod Environments (default password drupal8) 
 
 [Staging](https://staging.cms.va.gov/)
 
@@ -372,18 +439,19 @@ CMS non-prod Environments
 Drupal CMS orientation sessions contain both videos and activities that are required to be completed for access to the Drupal CMS production (live) environment.  User’s username for the production (live) environment will be created and emailed to their va.gov e-mail address when orientation activities are completed.
 
 ## Code Freeze
-During Federal Holiday’s the CMS Help Desk as well as the Product engineers, developers, and owners will implement a “Code Freeze” in which no new updates to the Code or Publishing will occur.  This Freeze process may be altered with the implementation of an immediate publishing framework. 
+During Federal Holiday’s the Help Desk as well as the Product engineers, developers, and owners will implement a “Code Freeze” in which no new updates to the Code or Publishing will occur.  This Freeze process may be altered with the implementation of an immediate publishing framework. 
 
 ## Release Notes
-The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodology) is a critical step in completing a sprint, an opportunity to excite stakeholders, and a chance for developers to show off their work.  The CMS Help Desk staff will attend Sprint Demo’s and document the various product changes and then publish those changes via Release Notes on the va.gov website (page to be determined)  and Github.
+The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodology) is a critical step in completing a sprint, an opportunity to excite stakeholders, and a chance for developers to show off their work.  The Help Desk staff will attend Sprint Demo’s and document the various product changes and then publish those changes via Release Notes on the va.gov website (page to be determined)  and Github.
 
 ## VA.gov Product Directory
-[A spreadsheet that lists which team owns an issue](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
+A spreadsheet that lists which team owns an issue.
+[https://docs.link-replaced.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874]
 
 
 ## Issues that Prevent the Publishing of Content
 
-### Broken Links
+### Broken Links**
 Link-checking is part of the website's compilation or build process.  If there is a broken link, content-only deploys cannot occur.  This is because various components of the build process.  Broken Links do not block CMS deployment, broken links blocks content releases. 
 
 ## Previous Issues
@@ -438,10 +506,10 @@ VAMC Facility centralized information must be changed in the VA’s National Dat
 #### HB
 	Benefits Hub page
 	
-### Government Roles the CMS Help Desk Provides Support to:
-#### Public Affairs Specialist 
-#### Director of Public Affairs
-#### Public Affairs Staff
+### Government Roles the Help Desk provides Support to:
+	#### Public Affairs Specialist 
+	#### Director of Public Affairs
+	#### Public Affairs Staff
 
 ## VISN to Facilities Index
 #### VISN 19:  Veterans Affairs and Veterans Health Administration

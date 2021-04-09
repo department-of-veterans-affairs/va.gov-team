@@ -13,6 +13,7 @@ Note that some items included in counts may be forms that will be purged, but cu
 | *First Issued Date* > 10 yrs | 93 | VA Forms Database |
 | *Last Revised On* date > 10 yrs | 146  | VA Forms Database | 
 | Dates on Forms API do not match with Find a VA Form | TBD | Forms API (needs to use same logic as Find a Form app if data cannot be fixed at source)|
+| Some SF (Standard Forms) have a form_type of "non-va" and others have null values | TBD | VA Forms Database |
 # Notes
 - Sense of urgency is coming from Mark - seems he wants to do the cleanup
 - We think we are good to go with removing the ghost records (unless LH needs to retain that data for other users)

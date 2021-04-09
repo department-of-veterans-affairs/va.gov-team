@@ -218,6 +218,10 @@ definitions:
       bddQualified:
         type: "boolean"
         default: false
+      claimSubmissionSource:
+        type: "string"
+      endProductClaimType:
+        type: "string"
   Message:
     type: "object"
     properties:
@@ -533,8 +537,7 @@ definitions:
         type: "string"
         minLength: 6
         maxLength: 80
-        pattern: "^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\\
-          .[A-Za-z]{2,})$"
+        pattern: "^[^\\s@]+@([^\\s@.,]+\\.)+[^\\s@.,]{2,}$"
       currentMailingAddress:
         $ref: "#/definitions/MailingAddress"
       changeOfAddress:
@@ -761,7 +764,6 @@ definitions:
     type: "object"
     required:
     - "center"
-    - "startDate"
     - "treatedDisabilityNames"
     properties:
       center:

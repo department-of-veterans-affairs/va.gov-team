@@ -21,6 +21,32 @@
 
 </details>
 
+## Wednesday April 14
+
+* Tugboat feedback
+* Documentation for VAMC menu / IA governance  
+* Breadcrumbs for Vet Center
+
+## Wednesday April 7
+
+* Centralized content - update from CMS team for Policies and Vet Centers - Steve
+* Vet Center content status: quick updates
+  - Vet Center taxonomy status - Dave
+    - Existing taxons have content
+    - Michelle will double check type of care 
+  - ~Vet Center regions/zones - Kevin~
+  - Facility services updates now happen "inline" on a Vet Center - Kevin
+  - Minor content model changes incoming Thursday April 8 (some content may be needed for FE dev) - Kevin
+    - "Nearby Mobile Vet Centers" on Locations list
+      - Michelle will find a shared Mobile Vet Center for 
+      - Kevin will create issue to prevent duplicate references to MVCs in Nearby.  
+    - Facility status for CAPs 
+      - Michelle will add operating status for these.
+* Tugboat vs vets-website CI environments for product testing - Michael, Gibran, Steve, Kevin, Dave, Michelle
+* How to handle new facilities, new Health care systems, merged health care systems. - Steve, Dave, Kevin, Michelle
+* If there's time: IA governance update (Dave, Kevin, Steve) (screenshots [here](https://github.com/department-of-veterans-affairs/va.gov-cms/pull/4894)
+  * Kev to schedule a Mikki blessing on the POC approach, with real spec in the two config fields.
+
 ## March 31
 
 Centralized content GraphQL

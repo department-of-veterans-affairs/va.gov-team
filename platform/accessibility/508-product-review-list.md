@@ -12,9 +12,9 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   - [Issues by Application](#issues-by-application)
     - [Design System](#design-system)
     - [Forms Library](#forms-library)
-    - [Site-wide](#site-wide)
-    - [Site-wide TTY Review](#site-wide-tty-review)
-    - [Site-wide Content](#site-wide-content)
+    - [Sitewide](#sitewide)
+    - [Sitewide TTY Review](#sitewide-tty-review)
+    - [Sitewide Content](#sitewide-content)
     - [VA Developer Portal](#va-developer-portal)
     - [Outreach and Events](#outreach-and-events)
       - [Open issues](#open-issues)
@@ -161,7 +161,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Site-wide
+### Sitewide
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -183,11 +183,7 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [CMS, components, design system [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict - #7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723)<br/>
 **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-- [sitewide, design system, CMS [AXE-CORE]: Heading levels should increase by one - #7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755)<br/>
-**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark - #7844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7844)<br/>
-**Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-- [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [sitewide, design system - 508-defect-3 [COGNITION, MOBILE DESIGN]: Styling SHOULD support reading comprehension - #12680](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12680)<br/>
 **Opened:** August 20, 2020 | **Severity:** 508-defect-3 - **_Minor_**
@@ -233,7 +229,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Site-wide TTY Review
+### Sitewide TTY Review
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -241,8 +237,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
-- [508-defect-2 [TTY]: VAOS - Appointment cards must have TTY: 711 links for deaf/hard-of-hearing users - #21389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21389)<br/>
-**Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-2 [TTY]: Facility Locator - Search results and facility detail views must have TTY: 711 links for deaf/hard-of-hearing users - #21390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21390)<br/>
 **Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>
@@ -255,7 +249,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Site-wide Content
+### Sitewide Content
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -263,6 +257,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[SCREENREADER]: Review example PDF for accessibility - #20134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20134)<br/>**Opened:** February 18, 2021
+- [Super Epic: Define evolving content standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21101)**Opened:** March 7, 2021
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -1202,10 +1197,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: LI elements must be contained in an UL or OL - #21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: VAMC - ARIA attributes must conform to valid values - #21786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21786)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: ID attribute value must be unique - #21788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21788)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Links must have discernible text - #21791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21791)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Claims & Appeals - Progressbar must be updated for axe violation in Applications / Letters / Tests / 01 Authed E2e Spec - #21797](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21797)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
@@ -1215,6 +1207,7 @@ Back to [Table of Contents](#table-of-contents)
 - [[NIGHTWACH E2E]: Claims & Appeals - axeCheck must be updated in Applications / Pensions / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21804](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21804)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Public Websites - axeCheck must be updated in Site / Tests / Home / 00 Required E2e Spec or test converted to Cypress - #21805](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21805)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: VSP Testing Tools Team - Review CMS preview env axe-core injection for potential timing issue - #21866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21866)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [Convert Nightwatch sitemap a11y tests to Cypress - #22443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22443)<br/>**Opened:** March 31, 2021 | **Severity:** 508-enhancement
 
 ---
 

@@ -3,10 +3,14 @@ Cindy Merrill, Senior Researcher, Mar 2021
 ## Research Questions
 ### Overall
 * Why do Veterans come to VA.gov? With what goals/tasks in mind?
+* Do Veterans read/notice/click on the banner content on the home page?
 * How do Veterans currently try to find what they’re looking for on VA.gov?
   * What have they looked for recently and how? 
     * Search and/or browse?
     * Where do they start typically? Google? Facebook?
+    * 4 white quadrants? Topics below the photos? Footer? Header (mega-menus/dropdowns for benefit hubs)?
+    * Any differences when using desktop vs. mobile?
+    * Any differences between people who have used VA.gov before and those you have not? (recruit for both)
   * Do they find what they need? If not, what were they looking for? 
 * What are the biggest pain points?
 * What are the most-asked questions at the VA call center? 
@@ -23,9 +27,11 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - Do Veterans use this search interface? Check analytics data and ask Veterans
 - Do Veterans use the browsing interface (below the search box)? Check analytics data
 - What is the coverage of the browsing interface vs. the browsing topics on VA.gov?
-- Get feedback on usability--findability, usage, mobile experience, pain points
+- Get feedback on usability--findability, usage, mobile experience, pain points (only way to get to is thru search results or link in footer)
 - How do Veterans view this page or content? Its own site? Never seen before? Content same or different from VA.gov home page?
+  - Any feedback on the name "Resources & Support"?
   - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
+- See if Veterans want to share content with others. Try out the sharing link to see if Veterans understand it and how to paste the link
 ### Benefit Hubs 
 (focused on the following dropdown links under "VA Benefits and Health Care" at the top of va.gov: Health care, Disability, Education and training, Careers and employment, Pension, Housing assistance, Life insurance, Burials and memorials)
 - Do Veterans use this? Check analytics data and ask Veterans
@@ -56,5 +62,5 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - **Baseline research across new products that haven’t been tested**
   - Research on products that support the most important user tasks 
   - Research on mobile as well as desktop
-  - Research on Pittsburgh facilities nav vs. current VA.gov nav
+  - Research on Pittsburgh facilities nav vs. current VA.gov nav per Meg
   - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list), including possible confusion when jump into different content with different navigation/search 

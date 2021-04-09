@@ -1,5 +1,17 @@
 # Create a new CMS user account in prod (CMS team user admins only)
 
+## TL;DR
+
+### VAMC
+1) create as blocked in prod with Content creator - VAMC and Content editor roles, which will carry them over to training environment as active during training
+2) activate in prod when they complete training and Stan gives us the OK
+3) add Content publisher role in prod when they are going to dual state (or live?) when Stan gives us the OK.
+See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
+
+### Anyone who wants access to Benefits Hubs
+Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
+See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
+
 
 ## Process Overview - Training Needed
 
@@ -132,6 +144,8 @@ OR
 drush user:create Terri.Rorke@va.gov --mail="Terri.Rorke@va.gov" --password="drupal8"
 6. You should see a message like the following:
   [success] Created a new user with uid 1803
+  
+  To just change a password to the default, enter the command: drush user:password user.name@va.gov "drupal8"
 
 ## External resources
 

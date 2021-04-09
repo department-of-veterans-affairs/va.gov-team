@@ -12,6 +12,7 @@ As of March 2018, va.gov relies on the following EVSS services, which are availa
   * Education Services: `https://HOSTNAME//wss-education-services-web/rest/education/chapter33/v1`
   * Letter Services: `https://$HOSTNAME/wss-lettergenerator-services-web/rest/letters/v1`
   * PCIU Services: `https://$HOSTNAME/wss-pciu-services-web/rest/pciuServices/v1`
+  * form526 Services
 
 There are a number of EVSS environments, but the ones we care about are
   * INT: `https://int.ebenefits.va.gov` (connects to `dev-api.vets.gov`)
@@ -42,7 +43,10 @@ There are a number of EVSS environments, but the ones we care about are
   * PCIU Services
     * Swagger docs: https://csraciapp6.evss.srarad.com/wss-pciu-services-web/swagger-ui/index.html
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
-    
+  * form526 Services
+    * Swagger docs: [Original](https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=htt[…].gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml) (on VA network), 
+[our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/disability/526ez/engineering/evss-docs/wss-form526-services-web-v2.yaml)
+
 Note that the earlier EVSS services were built with no swagger documentation.
 
 ### EVSS Roadmap

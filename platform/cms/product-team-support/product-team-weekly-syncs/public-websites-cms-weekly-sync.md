@@ -2,7 +2,7 @@
 
 <details><summary>About this meeting</summary>
 
-- Wednesdays 10am ET 
+- Wednesdays 11am ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
@@ -35,12 +35,39 @@
 
 </details>
 
+## Wednesday, April 6
+
+CLP
+* Published node for /campaign-mission-act on prod, unpublished events, and prod/staging switch in vets-website 
+* Sync on ongoing research synthesis 
+  - [CMS synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/campaign-landing-page/beta-test-synthesis.md)
+  - [Product Observations/Prioritized Action Items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.md)
+
+CLP audience decisions
+- Update to leverage existing audience terms (CMS team to refine backlog items)
+
+
+* [#4953 CLP MVP request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953) 
+  * Next steps: John to review  
+
+
+* MVP Roll-out plan:
+  - Meet with the four VACO stakeholder groups (VHA, VBA, VEO, OPIA) to:
+  - Provide update on any prioritized changes we plan to make for MVP release and timeline (in April)
+  - Determine if there are 1-2 CLPs that we can launch into production in late April timeframe
+  - Walk through the Analytics/Dashboard set-up
+
+Other
+* [#4952 Action links](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4952) for VRRAP page and beyond. 
+* Update on Outreach and Events hub enhancements (still in Dave's court?)
+
+
 ## Wednesday, March 31
 
-Outreach Hub feedback and feature requests
+[Outreach Hub feedback and feature requests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
 CLP 
- * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791)
+ * CX survey [#4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791) (_moved back_)
 
 ## Wednesday, March 24
 

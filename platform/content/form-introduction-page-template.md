@@ -133,7 +133,7 @@ This footer appears on the bottom of every page of the form. This content lets u
 
 If you have questions or need help filling out this form, please call our MYVA411 main information line at 800-698-2411[hyperlink] and select 0. We’re here 24/7. 
 
-If you have hearing loss, call TTY: 711[hyperlink}
+If you have hearing loss, call TTY: 711[hyperlink]
 
 
 
