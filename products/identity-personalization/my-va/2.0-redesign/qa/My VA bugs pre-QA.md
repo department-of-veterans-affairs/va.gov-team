@@ -8,7 +8,7 @@
 |	|Refine My VA name tag line leading?|[22895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22895)|Erik|Open| |	
 |	|Benefit Of Interest headline wraps poorly|[22893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22893)|Erik|Open| |	
 |	|My VA shows "undefined" message count when loading secure messages|[22964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22964)|Erik|Open| |
-|Health care|(Pre QA) Incorrect message text when unread messages exist|[22991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22991)|Tressa|Open| |	
-|Health care| (Pre QA) Incorrect message text when no unread messages exist|[22994](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22994)|Tressa|Open| |	
-|Apply for benefits|(Pre QA) "What benefits does VA offer?" menu in wrong location|[22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)|Tressa|Open| |	
+|Health care|(Pre QA) Incorrect message text when unread messages exist|[22991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22991)|Tressa|Open| |
+|Health care| (Pre QA) Incorrect message text when no unread messages exist|[22994](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22994)|Tressa|Open| |
+|Apply for benefits|(Pre QA) "What benefits does VA offer?" menu in wrong location|[22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)|Tressa|Open| |
 |Apply for benefits|(Pre QA) Incorrect section header for "Apply for VA benefits"|[22998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22998)|AJ|Open| |
