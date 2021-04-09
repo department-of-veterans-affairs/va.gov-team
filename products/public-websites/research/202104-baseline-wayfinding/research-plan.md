@@ -1,42 +1,37 @@
 # Research Plan: Baseline Wayfinding Research on VA.gov 
  	
 ## Goals	
-The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others in terms of usability successes and pain points. With a better understanding of Veterans' experiences using VA.gov, we can make more informed decisions about priorities for design and research work going forward.   
+The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others. With a better understanding of Veterans' pain points and successes while using VA.gov, we can make more informed decisions about priorities for future design and research work.   
 
 ## Background
-Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not on overall wayfinding. Analytics data indicate where people are clicking on pages, but not whether they're finding the information/services they need. 
+Since the current VA.gov website was launched in 2018, there hasn't been much user research on the website's overall design. Recent research studies have focused on specific search or browse pages but not overall wayfinding. Analytics data indicate where people are clicking on pages and what search strings they're using, but not whether they're finding the information/services they're seeking. 
 
-This research is for the Public Websites team and the larger Unauthenticated crew, but it may provide insights for the Authenticated teams as well as overall website information architecture.  
-
-This study makes use of the list of Veterans tasks compiled from a variety of sources
+This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
 - Why do Veterans come to VA.gov? With what goals/tasks in mind?
 - How do Veterans try to find what they’re looking for on VA.gov?
-  - Where do they typically start? (Google/Facebook/MHV/VA.gov)
+  - Where do they typically start? (Google/Facebook/MHV/eBenefits/VA.gov)
   - What do they typically do on VA.gov?
     - Search and/or browse?
-    - 4 white quadrants? Topics below the photos? Footer? Header? Mega-menus/benefit hubs?
+    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer? Header? Mega-menus/Benefit Hubs?
     - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
 - Do they find what they're looking for? If not, what was it?
-- What are the pain points?
+- What pain points are there?
 - What works well?
 - Are there any differences for desktop vs. mobile users?
 - Do Veterans read/notice/click on the banner content on the home page?
 
 ## Hypotheses
-- Veterans just want to find what they’re looking for and don’t want to choose between multiple methods/tools/pages unless it helps them get better results. 
+- Veterans want to find what they’re looking for and don’t want to choose between multiple methods/tools/pages unless it helps them get better results. 
 - Veterans aren't aware of all the current search and browse features on VA.gov. 	
 
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
+We will conduct remote moderated research sessions via Zoom using the Perigean contract. Participants will be asked a series of interview questions about their past usage of the VA.gov site, and then will be given a set of common Veteran tasks (pulled from [list compiled here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/Veteran%20Tasks%20on%20VA.gov.xlsx)) as prompts to explore the live VA.gov website.
+
+# RESUME WORKING HERE........................
+ 
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
