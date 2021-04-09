@@ -1,3 +1,5 @@
+# My VA bugs pre-QA
+
 |Section (Unauthenticated, Cerner, LOA1, Disability rating, Claims and appeals, Health care, Apply for benefits, Other)|Problem (GH issue title)|Issue No.|Reported by| User(s) found in |Status (Open/Closed)|Notes|
 |----|----|----|----|----|----|----|
-|Other|My VA Name tag disability rating can wrap poorly|[22899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22899)|Erik|Open||
+|Other|My VA Name tag disability rating can wrap poorly|[22899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22899)|Erik| |Open||
