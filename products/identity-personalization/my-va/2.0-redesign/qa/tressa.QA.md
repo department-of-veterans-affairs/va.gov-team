@@ -100,7 +100,7 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
 |What benefits does VA offer?|Opens to a list of links of all the benefits available at VA, each link should link to the benefit overview page|**100**|[Benefits dropdown](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055978_My_VA_FTUX_Dropdown)|Pass|
-|Continue your application|Links to the specific unfinished application represented in My VA|**100**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||Pass|
+|Continue your application|Links to the specific unfinished application represented in My VA|**100**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
 |Learn how to apply for health care| Links to health care 'how to apply' page|**10**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Pass|
 |Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|(NEEDS TICKET)- Needs to link to the 'How to apply for a claim' page, not the claim disability homepage|
 |Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|(NEEDS TICKET)- Needs to link to the 'How to apply for education benefits' page, not the education benefits homepage|
