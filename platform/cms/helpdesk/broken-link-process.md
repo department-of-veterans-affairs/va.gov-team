@@ -15,7 +15,7 @@ dir/url-of-page,[a href="/node/1235">Linkname</a>
 dir/url-of-page,[a href="/node/1236">Linkname</a>
 ```
 
-As a general rule the help desk team only needs to attend to those of these which are built on either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake).
+As a general rule the help desk team only needs to attend to alerts which mention either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake).
 
 ### Response
 We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`, then begin triage. 
