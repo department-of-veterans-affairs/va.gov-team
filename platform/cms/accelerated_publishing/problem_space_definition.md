@@ -88,9 +88,9 @@ This work was done in a collaborative workshop using [this mural board](https://
 |WHO|DETAILS|
 |---|-------|
 |Jeff Barnes, Deputy OCTO-DE|Initiative Sponsor who will unblock the team at the highest levels if necessary. Not involved day to day|
-|Rachael Rouche - OCTO-DE | Platform Product Lead|Will work with Mike to help prioritize our work across platform crew, including assistance with cross-team dependencies.|
-|Mike Chelen, OCTO-DE CMS PO/Technical Advisor|1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Main OCTO-DE POC, will help prioritize our work across platform crew, including assistance with cross-team dependencies. <br>3. Review / Provide inputs / Sign off on solution. Buy-in.|
-|Dror Matalon - OCTO-DE Head of Engineering, Platform Co-Lead|1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Review / Sign off on solution.|
+|Rachael Rouche - OCTO-DE | Platform Product Lead |Key decision maker|
+|Mike Chelen, OCTO-DE CMS PO/Technical Advisor|Key Decision Maker 1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Main OCTO-DE POC, will help prioritize our work across platform crew, including assistance with cross-team dependencies. <br>3. Review / Provide inputs / Sign off on solution. Buy-in.|
+|Dror Matalon - OCTO-DE Head of Engineering, Platform Co-Lead|Key Decision Maker  1. Confirm there are no technical limitations. Document rationale for blockers. <br>2. Review / Sign off on solution.|
 |Dave Conlon, OCTO-DE Facilities PO|Key/primary stakeholder - OCTO-DE POC for communicating our timelines to Facility Stakeholders/business units. Set expectations for business units.|
 |Michael Fleet & Demian Ginther  - VSP Leads|Review / Provide inputs on solution. Buy-in.|
 |Stan Gardner + team|1. Encourage PAOs and others to participate in research. <br>2. Bridge for change management.|
