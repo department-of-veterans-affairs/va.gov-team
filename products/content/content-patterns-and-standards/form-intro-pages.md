@@ -17,6 +17,7 @@ The full form name.
 
 ### Alert
 If the user is already signed in, the info alert appears (Since you're signed in to your account...)
+
 If the user isn't signed in, the info alert appears (Save time—and save your work in progress—by signing in before starting your application)
 
 ### Subway map 
