@@ -5,6 +5,7 @@ Standardize form intro pages, taking into account the VA.gov style, voice, plain
 
 ### H1
 Maximum character count, with spaces: 70
+
 Order of events: 
 - The CTA starts the H1 (Apply for / File for / Change / Request)
 - The second element is a plain language description of the benefit
