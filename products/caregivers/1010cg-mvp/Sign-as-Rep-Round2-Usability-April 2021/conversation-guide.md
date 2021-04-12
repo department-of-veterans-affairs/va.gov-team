@@ -80,11 +80,11 @@ Now that I understand a little bit more about your background.
 
 **For Veterans:**
 
-Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
 
 **For Caregivers:**
 
-Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
 
 Things to watch for:
 
