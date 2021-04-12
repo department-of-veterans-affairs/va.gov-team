@@ -30,6 +30,7 @@
 ## Wednesday, April 14, 2021
 ### Discussion Topics/Grooming 
 - [ ] Unauth Landing page from Healthcare Questionnaire team [#22530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22530)
+- [ ] Bug: Meta titles on Outreach hub pages are not using standard formatting and style [#23082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23082)
 - [ ] [FE] Build "How do you rate..." page component [#14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302)
 - [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
 - [ ] R&S Mobile Search bar update [Grey Box] [#22438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22438)
