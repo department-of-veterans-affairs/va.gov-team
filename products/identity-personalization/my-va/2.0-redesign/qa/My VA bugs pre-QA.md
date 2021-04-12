@@ -15,3 +15,5 @@
 |Apply for benefits|(Pre QA) "What benefits does VA offer?" menu in wrong location|[22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)|Tressa|Open| |
 |Apply for benefits|(Pre QA) Incorrect section header for "Apply for VA benefits"|[22998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22998)|AJ|Open| |
 |Claims and appeals|(Pre QA) Clicking "Manage all claims and appeals" link re-routes back to My VA|[23015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23015)|Tressa|Open| |
+|Apply for benefits|(Pre QA) "Learn how to file a claim for disability" links to wrong page|[23072](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23072)|Tressa|Open| |
+|Apply for benefits|(Pre QA) "Learn how to apply for education benefits" links to wrong page|[23073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23073)|Tressa|Open| |
