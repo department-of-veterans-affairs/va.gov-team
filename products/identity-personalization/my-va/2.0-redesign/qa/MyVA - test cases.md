@@ -51,7 +51,7 @@
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
 |View details (in the specific claims details card)| Link to the specific claim shown on My VA|**15**| [View details](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|Manage all claims and appeals| Link to the main claims and appeals tool page |**15**| [Manage all claims and appeals link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|Manage all claims and appeals| Link to the main claims and appeals tool page |**15, or any user that can see this section**| [Manage all claims and appeals link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
 |Test case|Intended outcome|Staging User|Prototype link|
