@@ -83,15 +83,15 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, application title and link "Continue your application"|**100**|[Application in progress](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-|User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|**369**|[No applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032781_My_VA_Desktop_Everything_Copy)
+|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, application title and link "Continue your application"|**226, or any user with an app in progress**|[Application in progress](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+|User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|**377**|[No applications](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032781_My_VA_Desktop_Everything_Copy)
 
 #### "Benefits you may be interested in"
 
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**36**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
-User is NOT enrolled in health care and has NEVER applied for healthcare|User sees "Learn how to apply for healthcare" link and blurb|**Tze to recreate using existing user**|[Applying for health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055980_My_VA_Health_Care)|
+User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**36, or any user already enrolled in health care**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+User is NOT enrolled in health care and has NEVER applied for healthcare|User sees "Learn how to apply for healthcare" link and blurb|**Users 272 - 287**|[Applying for health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055980_My_VA_Health_Care)|
 User has started an application for healthcare for the first time, but has not finished the application|The health care blurb/link disappears and the health care application shows as an application in-progress |**Tze to recreate using existing user**|[User started health care application](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
 User HAS filed a claim|User sees "Learn how to file a claim for disability" link|**226**|[Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 User HAS NOT filed a claim|User sees "Learn how to file a claim for disability" link|**377**| [no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|
