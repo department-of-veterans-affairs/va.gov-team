@@ -33,8 +33,8 @@ Follow these content style best practices:
 
 | Word or phrase | Notes/reasoning |
 | -------------- | --------------- |
-| Follow these steps to apply (header above subway map) | We're trying to avoid directional language like "below" if there's another way to say it        |
-|                |                 |
+| **Follow these steps to apply** (header above subway map) | We're trying to avoid directional language like "below" if there's another way to say it. The feedback here was to change the wording and also make that header an H2     |
+| **Make sure you're eligible** (No. 1 on subway map) | We are working to standardize the inclusion of this section here and what the header will be--it may change to simply **Check eligibility**, but for now, since this is in progress, let's keep it as **Make sure you're eligible**.|
 |                |                 |
 |                |                 |
 |                |                 |
@@ -47,4 +47,11 @@ Add content-related notes that came out of research that should inform the messa
 
 ## Other notes
 
-For applications like this one where you can start the application without being signed in, we want to provide that option in the form of a text link that takes the user straight to the first page of the form. Place it under the button: "Sign in to start your application." See the health care intro page for an example. 
+- For applications like this one where you can start the application without being signed in, we want to provide that option in the form of a text link that takes the user straight to the first page of the form. Place it under the button: "Sign in to start your application." See the health care intro page for an example. 
+- I requested that BAH update the phone number in the footer under "Need help?" It was the health care number. We'll need to check back to make sure this feedback was incorporated.
+
+## Edits to be incorporated post-MVP
+
+- **Start your education application** button: To standardize buttons and action links across our forms, change to: **Start your application**
+- Sitewide content is moving toward standardizing more specific language for the main CTA (blue button), so instead of **Sign in or create an account**, we would like to use **Sign in to start your application**.
+- 
