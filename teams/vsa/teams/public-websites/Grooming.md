@@ -42,7 +42,7 @@
  - [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support).
  - [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
-### Team Clarity Requests: (Call out tickets you would like clarity)
+### Team Clarity Requests: (Call out tickets)
 
 ### Dad Joke:  
 - Why was the big cat disqualified from the race?   
