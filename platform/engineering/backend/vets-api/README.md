@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/integrations/Overview.844955712.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Vets API Introduction
 
 Vets.gov's frontend repo(Vets-Website) uses Vets-API as a service layer for all features. To expose new data or systems to Vets-Website, engineers should create an integration in Vets-API. If you would like to expose an existing service's API, without an associated Vets-Website form, save in progress functionality, or prefill, please reach out to the DSVA for additional options.

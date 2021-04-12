@@ -6,42 +6,42 @@ Project : [Campaign Landing Page](https://github.com/department-of-veterans-affa
 
 Following are key findings from four beta tests conducted with four VA editors between March 10-31, 2021:
 
-1. Images - Aspect ratio easy to skip. Also would be nice to know requirements for dimensions prior to selecting or uploading images into the form. 
-2. Audiences - Some uncertainty about what "audience" meant. Shouldn't be able to just add anything/freeform text. 
-3. "What you can do" Promo - Some confusion about use of the word promo to describe elements within this segment. Also help text seemed to add to confusion more than help it. 
-4. Preview - Some participants expressed desire to have previews along the way (i.e. after building each segment), or they wanted a side-by-side preview like they've seen in other CMS, such as Dreamweaver. Also expressed a desire to have clearer help text to remind them to save, and that they can preview upon saving.
-5. Internal navigation - The form is very long, so would be nice to have a way to go from segment to segment without having to scroll/also to help with wayfinding within the form. Also the nesting of forms within forms was confusing (ex. Downloadable Resources segment). 
-6. FAQs - Why 3 to 10? Some wanted more, some wanted less. 
-7. Order of segments - would be good if segments could be reordered. For example, if you wanted to lead with a video segment instead of a static hero image. 
+1. **Images** - Aspect ratio easy to skip. Also would be nice to know requirements for dimensions prior to selecting or uploading images into the form. 
+2. **Audiences** - Some uncertainty about what "audience" meant. Shouldn't be able to just add anything/freeform text. 
+3. **"What you can do" Promo** - Some confusion about use of the word promo to describe elements within this segment. Also help text seemed to add to confusion more than help it. 
+4. **Preview** - Some participants expressed desire to have previews along the way (i.e. after building each segment), or they wanted a side-by-side preview like they've seen in other CMS, such as Dreamweaver. Also expressed a desire to have clearer help text to remind them to save, and that they can preview upon saving.
+5. **Internal navigation** - The form is very long, so would be nice to have a way to go from segment to segment without having to scroll/also to help with wayfinding within the form. Also the nesting of forms within forms was confusing (ex. Downloadable Resources segment). 
+6. **FAQs** - Why 3 to 10? Some wanted more, some wanted less. 
+7. **Order of segments** - would be good if segments could be reordered. For example, if you wanted to lead with a video segment instead of a static hero image. 
 
 # Findings by Severity Level
 
 Following are the key findings ranked in order of severity, where 1 is considered most severe to 4 which is least severe, based on Dumas and Redish's Practical Guide to Usability Testing: 
 
-* Level 1: Prevents Task Completion
-* Level 2: Creates significant delay and frustration
-* Level 3: Problems have a minor effect on usability
-* Level 4: Subtle and possible enhancements/suggestions
+* **Level 1:** Prevents Task Completion
+* **Level 2:** Creates significant delay and frustration
+* **Level 3:** Problems have a minor effect on usability
+* **Level 4:** Subtle and possible enhancements/suggestions
 
 ## Level 1
 
-N/A
+* N/A
  
 ## Level 2
 
-Images 
-What you can do Promo 
-Preview 
-Internal navigation 
+* Images ([See #4391](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4391))
+* What you can do Promo ([See #4990](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4990))
+* Preview (No CMS issue for this yet. Not reasonable to make this CLP specific. Certain approaches to the Accelerated Publishing may render this more feasible.)
+* Internal navigation ([See #4992](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4992))
 
 ## Level 3
 
-Audiences 
-Order of segments 
+* Audiences ([See #4989](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4989))
+* Order of segments ([See #4991](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4991))
 
 ## Level 4
 
-FAQs 
+* FAQs (no issue for this yet, dependent on a product decision.)
 
 # Key Quotes:
 

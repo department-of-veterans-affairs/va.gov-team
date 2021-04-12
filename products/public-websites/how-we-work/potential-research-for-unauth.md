@@ -31,6 +31,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
 - How do Veterans view this page or content? Its own site? Never seen before? Content same or different from VA.gov home page?
   - Any feedback on the name "Resources & Support"?
   - What do Veterans think about a "subscription or RSS feed" model where they could subscribe to content types and get notification when new content is added? 
+- See if Veterans want to share content with others. Try out the sharing link to see if Veterans understand it and how to paste the link
 ### Benefit Hubs 
 (focused on the following dropdown links under "VA Benefits and Health Care" at the top of va.gov: Health care, Disability, Education and training, Careers and employment, Pension, Housing assistance, Life insurance, Burials and memorials)
 - Do Veterans use this? Check analytics data and ask Veterans
@@ -61,5 +62,5 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - **Baseline research across new products that haven’t been tested**
   - Research on products that support the most important user tasks 
   - Research on mobile as well as desktop
-  - Research on Pittsburgh facilities nav vs. current VA.gov nav
+  - Research on Pittsburgh facilities nav vs. current VA.gov nav per Meg
   - Research on detailed content questions from Beth and Danielle (after incremental changes are done; they'll put compile a list), including possible confusion when jump into different content with different navigation/search 

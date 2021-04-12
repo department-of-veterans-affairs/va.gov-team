@@ -1,11 +1,11 @@
-# Assistive Tech research FAQs
-Tressa Furner, VSA Authenticated Experience - Interview with Trevor Pierce on April 1, 2021
+# Assistive Tech research FAQs - Interview with Trevor Pierce on April 1, 2021
+Tressa Furner, VSA Authenticated Experience
 
 ### 1. How does testing with assistive tech work? Do we need a separate research plan?
 
 Assistive tech research is the same as non-assitive tech research - you can use the same plan.  There may be some nuance in language in how you frame the task or question for users. 
 
-Example research plan (I will attach when I get this from Trevor)
+[Example research plan and outline](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/Research/508_Usability_Study)
 
 ### 2. How do we recruit for assistive tech?
 
@@ -42,6 +42,47 @@ A11y can help with dry runs to make sure any tech hiccups are worked out before 
 If you are testing with **NO** real user information then it can be done in staging.
 
 If you **ARE** testing with real user information, then it needs to be done in production. 
+
+# Assistive Tech research FAQs - Interview with Angela Fowler on April 5, 2021
+Tressa Furner, VSA Authenticated Experience
+
+### About Angela
+- life long total blindness
+- uses JAWS and and voiceover on IOS
+- is willing to help with dry runs
+
+### About screenreaders
+
+- Layout doesn’t matter to her at all, the only thing that is important is tab order, keyboard access and percievability by screenreader. 
+- Screen readers cannot see an image, but can see the ‘alternate text’ - use the tag ‘ alt =‘ associated with an image or image link.  (Says graphic followed by text)
+- Aria text is a message giving instructions. Form labels tell you what is required e.g. "first name", "year" whereas Aria text can tell you how to enter it "enter year as 2 digits" 
+- aria messages are also used to retrofit for accessibility. We shouldn’t use as a replacement for HTML. 
+- Maps don’t typically work well with JAWS, it's hard to gauge the level of zoom happening on the map without radius ("zoom to x miles" is better than "zoom to level 11"). 
+
+
+### Who to test
+
+There are different types of people who use screen readers:
+  - No amounts of vision
+  - Small amounts of vision
+  - life-long total blindness
+  - lost vision later in life
+
+We need to differentiate between low vision vs no vision in research because that will effect how they are using the screen reader.
+
+We need to differentiate between life-long total blindness vs lost vision later in life because that will effect the level of comfort with using a screenreader.
+
+Mobile vs desktop: both should be tested because users are using both. VO on iPhone has existed for a dozen years.
+
+#### Other participant considerations
+- "See" is a term that is all encompassing for all senses
+- Don't say "condition", better: "How long has this been the case?" to ask about level of vision
+
+## Follow up questions
+
+- Can we ask for a screenshare? What's the best way to ask for a screenshare? What if they don't use a monitor?
+
+
 
 
 

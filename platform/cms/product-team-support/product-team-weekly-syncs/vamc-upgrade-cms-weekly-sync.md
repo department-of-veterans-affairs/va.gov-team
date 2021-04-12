@@ -21,6 +21,42 @@
 
 </details>
 
+## Friday Apr 15
+
+* any outcome from training meeting from Tuesday 12
+* help desk triage
+* Go-live timeline
+* Validate runbook for Go-live (separate meeting with Facilities)
+* Account creation
+
+## Friday Apr 8
+
+Training
+  * Policies page training
+    * Jane: Dave and I met on Zoom to discuss Policies training, so we're good on that - we can take it off the agenda to make room for other items. I'll have the Policies training slides updated tomorrow and then get them recorded, captioned and posted in CMS help center early next week.
+    * How might we make this more "plug and play" for future Top Task pages? **Kev to review with this in mind** 
+  * Tuesday meeting with everyone who has done training (65 so far)
+    * Jane and Josh attending.
+* Help desk triage between teams
+  * If help desk user doesn't respond after 3 asks, we close out issue.
+  * Jira access is working well 
+* Do we have a help desk satisfaction measure?
+  * It's great if triage is working for us, how is it working for the field?
+  * Two loud voices, one from VISN 4, satisfied - anecdotal.
+  * CMS team will add a backlog item around measuring help desk satisfaction  
+* Dual state launches progress and upcoming
+  * Went well this week.
+  * 4 next week and weeks following, including some big ones (20 facilities)
+* Go-live timeline (eg for Erie)
+  * VHA will be validating 8 times a day publishing in writing to turn off Teamsite
+  * 60 day (or 30-day) countdown will begin once an update is added to carousel on legacy pages (eg https://www.erie.va.gov/)
+  * this 60 day period may start next Thursday (end of May)
+  * Start with 1 in a sprint or week, then scale up to the current pace of dual state (3-4 per week)
+* Mobile, Domiciliary and Community Living Center facilities don't work in current product
+  * blocking launch for any VAMCs that have these facilities (eg Philadelphia which has a domiciliary)
+* CMS account flows 
+  * PAOs can request accounts that are lesser or equal to theirs 
+
 ## Friday Mar 26
 
 * CMS help desk triage - feedback and discussion.

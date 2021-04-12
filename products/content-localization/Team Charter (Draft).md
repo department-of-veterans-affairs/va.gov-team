@@ -5,6 +5,7 @@
 2. [What we work on](#what-we-work-on)
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
+5. [Useful Links](#useful-links)
 
 
 ## Guideposts
@@ -107,21 +108,35 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### Slack
 
- This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. Channel link: https://dsva.slack.com/archives/C01GCADCMQT
+ - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. Channel link: https://dsva.slack.com/archives/C01GCADCMQT
  
- #### Github Product Folder
  
- This is where we store any files/documents related to our product work: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization
- 
- #### Mural Boards
- 
- "Wall of Work" https://app.mural.co/t/vsa8243/m/vsa8243/1616367504180/c04955731b5c072c17ffb0f405f3867287a76931 OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616367504180?sender=uc4dee377db84ad6d775b1680&key=bf67994c-2abf-4e07-98f8-c4b64bfd260a
- 
- "Interviews" https://app.mural.co/t/vsa8243/m/vsa8243/1616539522988/53685d4242bcde217d6bd041977cb8dc2f4d44fa OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616539522988?sender=uc4dee377db84ad6d775b1680&key=9ccd117e-f56f-4957-9c63-d8e1455411e0
-
 #### PTO
 - Team members will send calendar invites to the rest of team when they have scheduled time off 
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
   
+## Useful Links
+
+#### Github Product Folder
+ 
+- This is where we store any files/documents related to our product work: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization
+ 
+ #### Mural Boards
+ 
+-  "Wall of Work" https://app.mural.co/t/vsa8243/m/vsa8243/1616367504180/c04955731b5c072c17ffb0f405f3867287a76931 OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616367504180?sender=uc4dee377db84ad6d775b1680&key=bf67994c-2abf-4e07-98f8-c4b64bfd260a
+ 
+-  "Interviews" https://app.mural.co/t/vsa8243/m/vsa8243/1616539522988/53685d4242bcde217d6bd041977cb8dc2f4d44fa OR Guest Link https://app.mural.co/invitation/mural/vsa8243/1616539522988?sender=uc4dee377db84ad6d775b1680&key=9ccd117e-f56f-4957-9c63-d8e1455411e0
+
+#### Research
+
+- Usability Testing and Research for reference: https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
+- Other Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp
+- Google Translation Assessment: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/google-translate-assessment.md
+- 
+#### Epics
+
+- Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
+- Translation | Covid-19 Related Pages | Spanish & Tagalog https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11599
+- Anchor Tags: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/19813

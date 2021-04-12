@@ -1,4 +1,4 @@
-# Conversation Guide for Ask VA, 2021
+# Conversation Guide for Ask VA, April 2021
 ## Moderator logistics
 * Use #feedback-backchannel in Slack for real-time feedback from observers.
 * Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).

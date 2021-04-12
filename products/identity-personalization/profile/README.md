@@ -102,37 +102,42 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Measuring Success
 
-### Objectives and Key results (OKRs)
-
 *What are the measurable targets you're aiming for that delivers value for Veterans?*
 
 **Objective #1: To be the place where Veterans and other users can review all the information the VA knows about them, and reliably update (or learn how to update) outdated or incorrect information.**
 
-**Q2 2021 (April – June)**
+- **Key result #1**: Finish integrating direct deposit for edu information into the VA.gov profile in **Q2 2021 (April – June)**.
+- **Key result #2**: Add preferred medical facilities information to the VA.gov profile **Q3 2021 (July – September)**.
+- **Key result #3**: Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
+- **Key result #4**: Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
 
-- **Key result**: Finish integrating direct deposit for edu information into the VA.gov profile.
+**Address update KPIs**
 
-**Q3 2021 (July – September)**
+[Address validation report](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
 
-- **Key result**: Add preferred medical facilities information to the VA.gov profile.
+|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
+|----------|-------------|---------------|----------------|----------------|
+|Mailing address: % of successful saves | 95.9%| TBD|TBD|TBD|
+|Home address: % of successful saves | 98.3% | TBD|TBD|TBD|
 
-**Persistent key results**
+**Direct deposit KPIs**
 
-- Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
-- Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
+- [Direct deposit for comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Direct deposit for edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/UJwvqguWQMqJaGySJWq1VQ/a50123418w177519031p176188361/)
+
+
+|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
+|----------|-------------|---------------|----------------|----------------|
+| Comp & pen: % successful retrievals | 97.6%| | | |
+| Comp & pen: % successful saves | 87.7%*| | | |
+| Edu: % successful retrievals |N/A| | | |
+| Edu: % successful saves |N/A| | | |
+
+*This percentage is due to an error state in BGS that they don't want to get rid of around certain routing numbers having been flagged for fraud in a 2015 fraud ring. While these routing numbers are no longer an issue and the fraud team has recommended removing the error, it still exists and causes a significant amount of failures on VA.gov.
 
 **Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
 
-**Q3 2021 (July – September)**
-
-- **Key result**: Launch notification preference settings MVP in the VA.gov profile.
-
-### Key Performance Indicators (KPIs)
-
-*What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes? What are the most important metrics that track with this product/initiative's success?*
-
-- Successful and failed retrievals for all information pulled into the profile.
-- Successful and failed updates of all information pulled into the profile.
+- **Key result**: Launch notification preference settings MVP in the VA.gov profile in **Q3 2021 (July – September)**.
 
 ## Solution Narrative
 

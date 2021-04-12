@@ -42,28 +42,26 @@ _When the participant is ready, begin the session with the following intro_
 <h3>Project-specific setup</h3>
 
 
-- [ ] Step 1 We will will need either two Slack channels or one channel with both workflows)
+- [ ] Step 1 Support-test-1  https://dsva.slack.com/archives/C01SW21RVLJ/p1617644289003200
 
-- [ ] Step 2
+- [ ] Step 2 Support-test-2 https://dsva.slack.com/archives/C01SF982BAB/p1617645047001400
 
 <h2>Intro - 5 minutes</h2>
 
 
-Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Platform . 
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Platform support. 
 
 Before we start, a few things I want to mention:
 
 
-
 *   **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-*   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet VFS team’s needs/Platform team’s need. I will not be offended by any opinions you express, and I welcome your feedback.
+*   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet VFS team’s needs and Platform team’s need. I will not be offended by any opinions you express, and I welcome your feedback.
 *   **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will have any permanent effects.
 *   **If for any reason and at any time you want to stop the session, please let me know.**
 *   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     *   If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 _Start recording._
-
 
 
 *   **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?** 
@@ -74,7 +72,6 @@ _Start recording._
 Before we look at the prototype, let’s start with a few background questions.
 
 
-
 *   What team are you on?
 *   What is your role on the team?
 *   How long have you been working on this project?
@@ -83,13 +80,13 @@ Before we look at the prototype, let’s start with a few background questions.
 *   What kind of questions do you typically ask on the #vfs-platform-support Slack channel? [Take note to be used in tasks]
 *   Can you tell me a little bit about your experience with the #vfs-platform-support channel in Slack? 
 *   Tell me about a time where you could not get your question answered by Platform? 
-*   When else do you do you seek support from #vfs-platform-support? 
+*   When else do you seek support from #vfs-platform-support? 
 *   Do you ask for support in any Slack channels? 
     *   If yes, which ones? 
 
 Great. Thank you for sharing those thoughts with us. It’s really important as we continue to improve our services and support. 
 
-<h2>First Task: [Locate customer support shortcut in Slack ] - 10 minutes</h2>
+<h2>First Task: [Locate customer support shortcut in Slack ] - 5 minutes</h2>
 
 
 We put together a prototype that we would love to get your feedback on.
@@ -97,12 +94,9 @@ We put together a prototype that we would love to get your feedback on.
 - Invite participant to channel, instruct participants to open Slack and join channel, and share screen
 
 
-
 *   Let's say (take from warm-up questions) aren't working and you need help, and there's a way to get platform support by submitting a form through Slack using lightning bolt icon. Can you show me how you would do that?
 
 <h3>Things to watch for:</h3>
-
-
 
 
 *   Can the participant find the appropriate form within the list of shortcuts?
@@ -110,14 +104,11 @@ We put together a prototype that we would love to get your feedback on.
 
 <h2>Second Task: [Submitting a form through the Slackflow] - 10 minutes</h2>
 
-
-
+We will let the partipant to flow naturally into task two...However, if needed: 
 
 *   (This may be unneeded) Let's say (take from warm-up questions) aren't working and you need help, and there's a way to get platform support by submitting a form through Slack using lightning bolt icon. Can you show me how you would do that?
 
 <h3>Things to watch for:</h3>
-
-
 
 
 *   Does the participant understand the _I need help with_ options?
@@ -127,7 +118,6 @@ We put together a prototype that we would love to get your feedback on.
 *   Any fields trip them up?
 
 <h3>Followup questions:</h3>
-
 
 
 
@@ -148,8 +138,6 @@ So, let’s say (take from warm-up questions) aren't working and you need help, 
 <h3>Things to watch for:</h3>
 
 
-
-
 *   Does the participant understand the _I need help with_ options?
 *   Can participants locate the appropriate option?
 *   Which fields does the participant complete?
@@ -157,8 +145,6 @@ So, let’s say (take from warm-up questions) aren't working and you need help, 
 *   Any fields trip them up?
 
 <h3>Followup questions:</h3>
-
-
 
 
 *   What do you think of completing this form?

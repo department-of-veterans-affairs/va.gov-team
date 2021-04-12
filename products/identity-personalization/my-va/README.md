@@ -112,7 +112,71 @@ With this problem solved, what should your business be able to do/achieve that t
  
 ## Measuring Success
 
-[In progress]
+### Really, really long term goals for My VA (10,000 foot view: Multi-year)
+
+To inform our more immediate objectives with My VA in 2021, including the 2.0 launch, we need to keep in mind where we hope My VA will go over time. In the longer term, we’d like My VA to:
+
+-	Be in such great shape that it can replace the homepage as a logged-in user’s main starting point/anchor.
+-	Become a one-stop shop for users’ benefit-related action items, benefit status, and suggestions on how to get more out of their benefits.
+-	Become a place where users can complete quick tasks related their benefits.
+
+### What we can do in the next year to move towards the big, long term goals (1,000 foot view: All of 2021)
+
+This year, we are not going to get My VA to a place where it can replace the homepage for logged-in users, nor is our immediate goal to allow for task completion on My VA, which would require a more mature page than we’re starting with.
+
+However, we can make moves on moving My VA towards the one-stop shop for action items and benefit status by updating My VA so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.
+
+### What we can do in the next  1- 2 quarters (100 foot view: Q2 – Q3 2021)
+
+**Objective: Update My VA so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.**
+
+**Key Result #1** — Usage: Increase % of logged-in users visiting My VA from 6% pre-My VA 2.0 to 8% post-My VA 2.0 by Q3.
+
+[My VA vs. Homepage Usage Report for Logged-in Users: Jan 2021 – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&_.useg=builtin1,useroZx0HcxxRpWtuNYX7IFkHA,userTBuj9_dPSF-sBQQO9Srv-g/)
+
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|% of logged-in users who visit My VA| 6%|TBD|TBD|
+|% of logged-in users interact with the homepage| 13% |TBD|TBD|
+
+**Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
+
+[My VA Interactions Report: Jan - March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
+
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|Clicks into individual claims| ~102K clicks|TBD|TBD|
+|Clicks to view all claims | ~77K|TBD|TBD|
+|Clicks to view all appointments| ~20K|TBD|TBD|
+|Clicks to view all messages| ~32K|TBD|TBD|
+|Clicks to view all prescriptions|~20K|TBD|TBD|
+
+**Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
+
+[My VA Search Report: Jan – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|Search rank for "disability rating” from My VA| #4|TBD|TBD|
+|Search rank for "rating” from My VA| #7|TBD|TBD|
+|Search rank for "disability” from My VA| #8|TBD|TBD|
+|Search rank for "claim” from My VA| #17|TBD|TBD|
+
+This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
+
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|Logged-in search rank for "disability rating” on all VA.gov| #9 & #15|TBD|TBD|
+|Logged-in search rank for "rating” on all VA.gov| #11|TBD|TBD|
+|Logged-in search rank for "disability” on all VA.gov| #21|TBD|TBD|
+
+**Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
+
+[My VA Foresee Report](https://cxsuite.foresee.com/client/projects/76647/analytics/respondents)
+
+|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|----------|-------------|---------------|-------------------|
+|My VA Average ForeSee score| 3.2| TBD | TBD|
 
 ## Solution Narrative
 

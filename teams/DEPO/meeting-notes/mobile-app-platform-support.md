@@ -1,0 +1,11 @@
+From Sept 9, 2020
+
+There’s a VFS team starting work on a new VA Mobile App. Our platform isn’t optimized to facilitate that kind of build today, given that the core use case we’ve been optimizing for is VA.gov feature builds. So, we wanted to share some notes about how DEPO would like to approach supporting them:
+
+1. The number one thing to take away from this message is that while we should plan to leverage our current products, services, and processes to help this team get their product built and launched, **we should not take on extra work to adjust our offering, or provide premium support for this unique use case. Especially if that work would delay your team’s prioritized initiatives.** Err on the side of skipping protocols for this team when they’re difficult to administer, which will put more of the onus of ensuring quality onto their team and their DEPO Lead. Their team is aware that our current offering won’t perfectly suit their needs, and that they may need to do some custom workarounds on their own at times.
+
+Kevin, Dror, and I are here to help make those decisions and provide air cover as needed! Please @ mention me or @vsp-leadership whenever you need that support.
+
+2. The second thing to take away from this message is that we’d like to approach this in kind of an experimental way. Meaning: let’s observe where they encounter friction with our current offering, and [note those things for future consideration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/native-mobile-customer-type/notes.md). Later, when we’re ready to intentionally start optimizing this platform for non-VA.gov VFSs, it’ll be great to have those challenge spots to refer back to.
+
+3. And the third thing is just a side note for awareness - to shed light on where DEPO’s coming from on this approach. “Launch” for the mobile app MVP does not = live in app stores for 100% of users. “Launch” will likely be an app connected to prod services for just a few Veterans within VA — a real MVP! For this reason, we’re comfortable providing a lighter quality enforcement touch for this team, and we’re excited to see how this lean path to MVP launch plays out.

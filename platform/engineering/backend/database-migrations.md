@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Vets-API-Database-Migrations.689832034.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Database Migrations
 
 `vets-api` should not require downtime for database updates. All database modifications must be performant and not negatively affect normal site operation. The Vets engineering team ensures the continued availability of database resources through these documented development patterns and procedures.

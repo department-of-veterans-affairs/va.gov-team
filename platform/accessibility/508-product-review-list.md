@@ -237,8 +237,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
-- [508-defect-2 [TTY]: VAOS - Appointment cards must have TTY: 711 links for deaf/hard-of-hearing users - #21389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21389)<br/>
-**Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-2 [TTY]: Facility Locator - Search results and facility detail views must have TTY: 711 links for deaf/hard-of-hearing users - #21390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21390)<br/>
 **Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>
@@ -1198,10 +1196,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
-- [VAMC Stories needs valid ARIA attribute - #21890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21890)<br/>**Opened:** March 22, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: LI elements must be contained in an UL or OL - #21784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21784)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[AXE-CORE]: VAMC - ARIA attributes must conform to valid values - #21786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21786)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Links must have discernible text - #21791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21791)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**

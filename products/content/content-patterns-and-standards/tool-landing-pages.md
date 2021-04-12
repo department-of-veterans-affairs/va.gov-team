@@ -72,26 +72,12 @@ Include "What type of account do I need to sign in?" as an additional informatio
 
 Some tools (particularly the health tools) have added eligibility info. Previously, we did a sweep through content to make "eligible" a consistent word choice for anything involving eligibility requirements. But it doesn't quite fit with tools. This used to be "Can I use this tool to [do task]?" which really fits better. However, we also want to revisit the use of questions on some of our pages (such as tool pages). And we've talked about whether we need to refer to online tools as "tools" per se.
 
-#### WIP Considerations
+#### Recommendations
 
-**Can I schedule and manage health appointments online?**
-
-You can schedule and manage health appointments online if you meet all of the requirements listed below.
-
-**All of these must be true:**
+**You can schedule and manage health appointments online if you meet all of these requirements:**
 -  You're enrolled in VA health care, and
 -  You're scheduling appointments with a VA health facility that uses online scheduling, and
 -  You're registered or you’ve had an appointment at that facility before
-
-[Find out how to apply for VA health care]
-
-OR
-
-**You can use this tool if you meet all of these requirements:**
-
-- You're enrolled in VA health care, **and**
-- You're scheduling appointments with a VA health facility that uses online scheduling, **and**
-- You're registered or you’ve had an appointment at that facility before
 
 [Find out how to apply for VA health care]
 

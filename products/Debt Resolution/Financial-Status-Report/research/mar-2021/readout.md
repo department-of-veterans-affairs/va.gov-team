@@ -204,12 +204,16 @@ A majority of Veterans expected to receive communication about their request via
   * Alleviate concerns around repossession of vehicles
   * Detail what should qualify as "other assets"
   * Encourage users to include as many expenses as are reasonable
-* Break out Credit Cards from "Installment contracts and other debts" section
 * Update the resolution selection screen to not loop through selected debts
 * Include a "Request number" or "Confirmation number" on the confirmation page
 
 ### Long term:
 
-* Rework all instances of list loops to be more suggestive and defined
-  * Consider 
-* Reimagine scaffolding of Review page with the new one-question-per-page concept \[broader initiative\]
+* Rework all instances of list loops to be more accurately grouped and assistive
+   * Consider providing a list of commonly added items and an ‘other’ option for items that are more specific to that Veteran’s financial situation  
+* Incorporate form status notifications into the Debt Portal’s notification plan
+* Reevaluate the concept of preferred resolutions (e.g. “I want a waiver, if not, a compromise.”
+* Reinvestigation of summary page with the addition of medical copayment debts
+* Reimagine scaffolding of Review page with the new one-question-per-page concept [broader initiative]
+* Break out Credit Cards from “Installment contracts and other debts” section
+

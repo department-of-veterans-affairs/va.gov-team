@@ -1,3 +1,11 @@
+----
+
+### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Requesting Support
 
 VSP is here to assist with many issues that VFS teams might face during the development cycle. If you need assistance from someone on VSP, please post your question or request in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel. 
