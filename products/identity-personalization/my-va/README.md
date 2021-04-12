@@ -139,6 +139,8 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 |% of logged-in users who visit My VA| 6%|TBD|TBD|
 |% of logged-in users interact with the homepage| 13% |TBD|TBD|
 
+Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
+
 **Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
 
 [My VA Interactions Report: Jan - March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
