@@ -1,4 +1,4 @@
-# VA.gov Web and Content Accessibility Testing Plan
+# VA.gov web and content accessibility testing plan
 This document extends, and was created with permission from the VA Mobile Team's [Mobile Accessibility Testing Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/Accessibility%20Test%20Plan.md).
 
 Accessibility is a VSP Platform core requirement for all web applications and static content. The purpose of this document is to outline:
@@ -7,7 +7,15 @@ Accessibility is a VSP Platform core requirement for all web applications and st
 1.	The accessibility tools and materials that will be used during testing
 1.	The testing protocol and steps that will be taken when reviewing the accessibility capabilities in the app
 
-## Section 1: Accessibility Requirements & Approach
+## Section 1: Accessibility requirements in the VSP collaboration cycle
+Teams should consider accessibility from the beginning of their projects. There are three primary things teams must do to launch their product on time:
+
+1. Create an accessibility testing plan for your project (section 2 of this document) 
+2. Read and understand the [accessibility staging review preparation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) document
+3. Conduct [foundational accessibility tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required) before the VSP staging review
+4. Include your completed accessibility test plan with your foundational testing checklist when a staging review is requested
+
+## Section 2: Accessibility requirements by success criteria
 The following items are based on [WCAG 2.1](https://www.w3.org/TR/WCAG21/) Level A and AA success criteria, organized by product function. Each item description reflects the requirement type, the relevant success criteria and implementation requirements. 
 
 - Items that have “Design”/ “Designs” bolded reflect standards that must be facilitated by the design workstream 
