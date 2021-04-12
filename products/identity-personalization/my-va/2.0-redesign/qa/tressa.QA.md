@@ -88,13 +88,13 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**38**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**36**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
 User is NOT enrolled in health care and has NEVER applied for healthcare|User sees "Learn how to apply for healthcare" link and blurb|**Tze to recreate using existing user**|[Applying for health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055980_My_VA_Health_Care)|
-User has started an application for healthcare for the first time, but has not finished the application|The health care blurb/link disappears and the health care application shows as an application in-progress |**Tze to recreate using existing user**|[User started health care application](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
+User has started an application for healthcare for the first time, but has not finished the application|The health care blurb/link disappears and the health care application shows as an application in-progress |**Tze to recreate using existing user**|[User started health care application](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Can't test|
 User HAS filed a claim|User sees "Learn how to file a claim for disability" link|**15**|[Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
 User HAS NOT filed a claim|User sees "Learn how to file a claim for disability" link|**226**| [no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|Pass|
-User receives direct deposit for edu payments|User does NOT see "Apply for education benefits" link|**378**|[recieves education](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449056409_My_VA_Desktop_Recieves_Education)|
-|User has started an application for education benefits|User will see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|[Started education benefits app](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055977_My_VA_Education_Application)|
+User receives direct deposit for edu payments|User does NOT see "Apply for education benefits" link|**378**|[recieves education](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449056409_My_VA_Desktop_Recieves_Education)|Pass|
+|User has started an application for education benefits|User will see the "Learn how to apply for Education Benefits" link |**Tze to add education benefit application to an existing user**|[Started education benefits app](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055977_My_VA_Education_Application)||
 |User DOES NOT receive direct deposit for edu payments|User will see the "Learn how to apply for Education Benefits" link|**226**|[No education benefits](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
 
 
@@ -112,3 +112,5 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 - Claims spinner needs content below it
 - Move ‘Apply for benefits’ dropdown up to be below My VA - **ticket created >** [22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)
 - Went to education benefits page, clicked ‘back’ and it logged me out (did the same for disability compensation), is this a bug?
+- LOA1 'Benefits you might be interested in' never loaded and is a never ending spinner - we might also need an error state for this?
+- Question - user 378 DOES NOT show health care section or benefit blurb - does this mean they've applied and got rejected?
