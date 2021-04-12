@@ -1,3 +1,7 @@
+```diff
+! DRAFT - This document may change as the format is refined
+```
+
 # VA.gov web and content accessibility testing plan
 This document extends, and was created with permission from the VA Mobile Team's [Mobile Accessibility Testing Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/Accessibility%20Test%20Plan.md).
 
@@ -17,11 +21,6 @@ Teams should consider accessibility from the beginning of their projects. There 
 
 ## Section 2: Accessibility requirements by success criteria
 The following items are based on [WCAG 2.1](https://www.w3.org/TR/WCAG21/) Level A and AA success criteria, organized by product function. Each item description reflects the requirement type, the relevant success criteria and implementation requirements. 
-
-- Items that have “Design”/ “Designs” bolded reflect standards that must be facilitated by the design workstream 
-- Items that have “Programmatically” bolded reflect standards that focus on technical implementation 
-- Applicable WCAG 2.1 requirements are also included to reference best practice and may be followed in cases where added implementation scope is minimal.
-- Accessibility standards that relate to non-existent functionality in the app are marked N/A. In the event that the app’s design changes to include relevant functionality, these standards will be candidates to prioritize as requirements. 
 
 | Category | WCAG Success Criteria | Criteria Checklist |
 | --------------- | ---------- | --------------- |
