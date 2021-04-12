@@ -1,4 +1,8 @@
-Accessibility testing plan template
+```diff
+! DRAFT - This document may change as the format is refined
+```
+
+# Accessibility testing plan template
 This is the template file for teams who need to create an accessibility testing plan for their project on VA.gov. 
 
 - Click the **Raw** button to view this document in [GitHub flavored Markdown](https://github.github.com/gfm/)
