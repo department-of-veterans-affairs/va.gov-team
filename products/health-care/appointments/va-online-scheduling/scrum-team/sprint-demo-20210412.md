@@ -7,31 +7,26 @@
   - If you're reviewing a bug, explain the issue and how you found the fix. Throw in any learnings about the space you worked in.
 
 ## Agenda
-_(suggested items for presentations added below)_
 
 ### Welcome / Agenda
 Lauren - No deck. Straight to the good stuff.
 
 ### Backend
 - Brad
-  - _COVID clinic report_
+  - COVID clinic report
 - Corey / AJ
-  - _API documentation_
+  - API Swagger documentation
 
 ### Frontend
 - Jeff
-  - _Vaccine appointment on homepage list + cancel message_
-  - _Calendar days fix_
-  - _Community care appointments from VistA don't load on refresh_
+  - Vaccine appointment on homepage list + cancel message
+  - Calendar days fix
+  - Community care appointments from VistA don't load on refresh
 - Lance 
-  - _Past cancelled Community Care appts_
-  - _Accessibility Clickable Appointment Card_
+  - Past cancelled Community Care appts
+  - Accessibility Clickable Appointment Card
 - Jennie
-  - _Accessibility Details link_
+  - Accessibility Details link
 - Tony
-  - _TTY_
-
-### Design
-- Peter
-  - _Homepage Refresh confirmation page idea_
+  - TTY
 
