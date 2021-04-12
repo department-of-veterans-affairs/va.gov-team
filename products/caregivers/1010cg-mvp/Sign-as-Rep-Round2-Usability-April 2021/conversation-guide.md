@@ -90,6 +90,8 @@ Things to watch for:
 
 In general, we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
 
+If they need a SSN, use 548-79-5555
+
 - Remind participants to think out loud. 
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
