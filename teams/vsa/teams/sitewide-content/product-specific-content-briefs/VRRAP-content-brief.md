@@ -33,12 +33,12 @@ Follow these content style best practices:
 
 | Word or phrase | Notes/reasoning |
 | -------------- | --------------- |
-| **Follow these steps to apply** (header above subway map) | We're trying to avoid directional language like "below" if there's another way to say it. The feedback here was to change the wording and also make that header an H2     |
+| **Follow these steps to apply** (header above subway map) | We're trying to avoid directional language like "below" if there's another way to say it because it may not translate into other languages, and we're moving toward translating more of our pages. The feedback here was to change the wording and also make that header an H2. |
 | **Make sure you're eligible** (No. 1 on subway map) | We are working to standardize the inclusion of this section here and what the header will be--it may change to simply **Check eligibility**, but for now, since this is in progress, let's keep it as **Make sure you're eligible**.|
-|                |                 |
-|                |                 |
-|                |                 |
-|                |                 |
+| "application," not "form" | For cognitive load and translation reasons, it's best to repeat the same word or phrase rather than varying it or paraphrasing |
+| registrar's office | per research online--not at this time in our style guide so noting here |
+| financial aid office | per research online--not at this time in our style guide so noting here |
+| "payment," not "stipend" | plain language |
 
 
 ## Research findings
@@ -57,6 +57,10 @@ Add content-related notes that came out of research that should inform the messa
 •	Not rated as totally disabled because you can’t work, and
 •	Not enrolled in a federal or state jobs programs, and
 •	Not receiving unemployment benefits (including CARES Act benefits)
+- Make sure that under No. 4, the first sentence says, "We usually make a decision within 30 days."
+- "Need help?" info should be on all pages like this:
+Call us at [800-827-1000]. We’re here Monday through Friday, 8:00 a.m to 9:00 p.m ET. If you have hearing loss, call TTY: [711].
+
 
 ## Edits to be incorporated post-MVP
 
@@ -65,4 +69,5 @@ Add content-related notes that came out of research that should inform the messa
 - Add **and** after each bullet in the eligibility information.
 - Instead of "What if I need help filling out my application?" and the content that follows, we'll do this:
 **If you need help filling out your application,** an accredited representative like a Veterans Service Officer (VSO) or a Veteran representative at your school can help you. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
-
+- Under **Apply**, it should say, "Complete this application. After you submit your application, you’ll get a confirmation message. You can print this page for your records.
+In the form itself, change "Applicant information" to "Your information"
