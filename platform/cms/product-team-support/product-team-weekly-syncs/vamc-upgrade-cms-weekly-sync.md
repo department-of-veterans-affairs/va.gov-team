@@ -21,13 +21,15 @@
 
 </details>
 
-## Friday Apr 15
+## Friday Apr 16
 
 * any outcome from training meeting from Tuesday 12
 * help desk triage
 * Go-live timeline
 * Validate runbook for Go-live (separate meeting with Facilities)
 * Account creation
+* Update on any CMS changes or updates that VAMC needs to be aware of that may impact production. (i.e. Removing generic FHS)
+* 
 
 ## Friday Apr 8
 
