@@ -27,6 +27,25 @@
 
 </details>
 
+## Wednesday, April 14, 2021
+### Discussion Topics/Grooming 
+- [ ] Unauth Landing page from Healthcare Questionnaire team [#22530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22530)
+- [ ] [FE] Build "How do you rate..." page component [#14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302)
+- [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
+- [ ] R&S Mobile Search bar update [Grey Box] [#22438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22438)
+- [ ] "Go to MHV" button appearing for a facility from the schedule appts page [#15600](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15600)
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
+ - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+ - [ ] Site Navigation and Mega Menu Opitmization: Improve the veteran experience, but it looks like the mega menu has been continuously patched up since it was first introduced and might merit a full engineering + design rewrite here soon. (Perhaps a combined effort with the Auth team to streamline this effort.  Need to determine timeline and work needed in support).
+ - [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+
+### Team Clarity Requests: (Call out tickets you would like clarity)
+
+### Dad Joke:  
+- Why was the big cat disqualified from the race?   
+
 ## Wednesday, March 31, 2021
 ### Discussion Topics/Grooming 
 - [ ] VA.gov Form Consistency: Resources & Support [#21975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21975) (Groom to see if FE has time to implement)
