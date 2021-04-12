@@ -17,24 +17,59 @@
 
 </details>
 
-## Monday April 12 3pm ET
+## Monday April 19 3pm ET
 
 * Action Items:
-  - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
-  - Lighthouse to investigate pushing of services in bulk. (+11,0000 if doing a bulk push of one service at a time, not an immediate need)
+  - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review) - waiting to check against VC
+  - Lighthouse to investigate pushing of services in bulk. (+11,000 if doing a bulk push of one service at a time, not an immediate need) - no updates
     - Should be only by facility, anticipated load of calls is probably around 2,000
     - CMS would need some fairly heavy rework of its data push to group by facility
     - More than just COVID vaccine send anticpated once VAMC Upgrade is completed at the end of 2021
-  - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
+    - Do we worry about 11,000 or a smaller number now? At what point do we need to worry about bulk services?
+      - Currently fine with just vaccine and maybe one or two more
+      - CMS would like to be aware of any limitations as early as possible
+      - CMS has some throttling ability to help mitigate
+  - Pushing Vet Center CAP would need a new push endpoint or a new nightly sync from Lighthouse. - will need to be prioritized
   - Detailed services returning an empty list rather than a null statement. Any next steps? From a data integrity standpoint a non-issue but Adam would like to go back and clean-up at some point.
-* Q2 priorities 
-  * CAP hours and phone number and address and name
-  * Facility health services 
+    - Noticing automated schema tests not happy so looking to prioritize at some point
+* Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`; or unique CAP ID, in the same way as Facility Status
+  - What would Lighthouse need to accept? prioritize for 4/19/21
+  - There's something in VAST (parent)
+
+
+## Monday April 12 3pm ET
+
+* Action Items:
+  - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review) - waiting to check against VC
+  - Lighthouse to investigate pushing of services in bulk. (+11,000 if doing a bulk push of one service at a time, not an immediate need) - no updates
+    - Should be only by facility, anticipated load of calls is probably around 2,000
+    - CMS would need some fairly heavy rework of its data push to group by facility
+    - More than just COVID vaccine send anticpated once VAMC Upgrade is completed at the end of 2021
+    - Do we worry about 11,000 or a smaller number now? At what point do we need to worry about bulk services?
+      - Currently fine with just vaccine and maybe one or two more
+      - CMS would like to be aware of any limitations as early as possible
+      - CMS has some throttling ability to help mitigate
+  - Pushing Vet Center CAP would need a new push endpoint or a new nightly sync from Lighthouse. - will need to be prioritized
+  - Detailed services returning an empty list rather than a null statement. Any next steps? From a data integrity standpoint a non-issue but Adam would like to go back and clean-up at some point.
+    - Noticing automated schema tests not happy so looking to prioritize at some point
+* Q2 radar
+  * CAP hours and phone number and address and name (don't live anywhere outside of the CMS) - will be prioritized by Lighthouse for Q2
+    - 10 VCs by mid-May (10 services each VC)
+  - Another 60 VCs by ~July (10 services each VC) - will be prioritized by Lighthouse for Q2
+  - Another 240 VCs by ~Sept (10 services each VC)
+    - Only mapping services to main VCs, not CAPs
+  * Facility health services
     * Vet Center
     * VAMC services
-    * Caregiver only?
-* Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`
-
+    * Caregiver only? (Ming has a list)
+      - James: was looking into Caregiver services short-term (early 2022); Drupal long-term; not sure if this is the same data
+      - Need to understand the justification in order to prioritize for both teams
+* Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`; or unique CAP ID, in the same way as Facility Status
+  - What would Lighthouse need to accept? prioritize for 4/19/21
+  - There's something in VAST (parent)
+- Notes
+  - VAMC Upgrade rollout feedback: some VAST data is inaccurate and the timeline/workflow to change is 180 days and inconsistent
+    - VAST feeds VATS (source of data for VAOS)
 
 ## Monday Apr 5 3pm ET
 
