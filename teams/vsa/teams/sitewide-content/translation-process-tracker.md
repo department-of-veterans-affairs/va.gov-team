@@ -11,3 +11,4 @@
 | Copay relief questions for FAQs | 3/23 1 hr | 3/23 | 4/7 | 4/7 .5 hr | 4/7 .5 hr | 3/23 1 hr | 4/7 |
 | Updated vaccine content around new law | 3/20 | 3/22 | 3/24 | 3/24 1.5 hr | 3/24 1.5 hr | 3/22 | 3/25 | 4/6 1 hr |
 | Vaccine updates about Veteran groups eligibility | | 4/2 | 4/7 | 4/7 .5 hr | 4/7 .5 hr | 4/2 | 4/7 | |
+| Vaccine updates around supply | 4/12 | 4/12 |

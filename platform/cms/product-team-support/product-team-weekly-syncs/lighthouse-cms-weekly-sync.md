@@ -19,7 +19,14 @@
 
 ## Monday April 12 3pm ET
 
-* Adding supporting for VCNumber in Facility API, eg as `parent: "VC_0327V"`
+* Q2 priorities 
+  * CAP hours and phone number and address and name
+  * Facility health services 
+    * Vet Center
+    * VAMC services
+    * Caregiver only?
+* Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`
+
 
 ## Monday Apr 5 3:00pm ET
 

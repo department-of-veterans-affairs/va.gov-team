@@ -25,6 +25,7 @@ Lauren - No deck. Straight to the good stuff.
   - _Community care appointments from VistA don't load on refresh_
 - Lance 
   - _Past cancelled Community Care appts_
+  - _Accessibility Clickable Appointment Card_
 - Jennie
   - _Accessibility Details link_
 - Tony

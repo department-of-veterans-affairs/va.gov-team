@@ -147,9 +147,10 @@ _PVA Technical Analysis_
 
 ## Release Plan
 
-Current Launch: July 2021
+Current Launch: June 2021
 
 ## Key Decisions
 
 - Using PVA to build and train our bot
-- Release in the July timeframe based on GCC
+- Release early in order to monitor/test in June
+- PVA in preview mode in May, fully in GCC by June 

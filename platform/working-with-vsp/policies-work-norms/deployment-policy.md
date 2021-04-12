@@ -1,4 +1,4 @@
-*Last updated 2020-10-21*
+*Last updated 2021-04-12*
 
 # Deployment Policies
 
@@ -31,14 +31,14 @@ During holiday release freezes:
 
 The holiday release freeze is in effect during the following dates:
 
-#### 2020
+#### 2021
 
-* 05/25 - **Memorial Day**
-* 07/03 - **Independence Day** (observed)
-* 09/07 - **Labor Day**
+* 05/31 - **Memorial Day**
+* 07/05 - **Independence Day** (observed)
+* 09/06 - **Labor Day**
 * 11/11 - **Veteran's Day**
-* 11/25 - 11/27 - **Thanksgiving**
-* 12/23 - 1/1/2021 - **Winter holiday freeze** (note: *eight business days*)
+* 11/25 - 11/28 - **Thanksgiving** (note: weekend included for clarity)
+* 12/23 - 1/2/2022 - **Winter holiday freeze** (note: *seven business days*, weekends included for clarity)
 
 # Requesting out-of-band deploys
 
