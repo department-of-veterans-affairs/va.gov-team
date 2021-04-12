@@ -1,6 +1,6 @@
-# MyVA Test Cases 
+# My VA Test Cases 
 
-[MyVA staging users information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+[My VA staging users information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
 
 ### Test cases for an unauthenticated user
 
