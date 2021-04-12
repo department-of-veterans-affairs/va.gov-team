@@ -89,6 +89,10 @@ _This feature may increase and/or decrease its percentage of traffic based on Ve
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
+### Check-ins:
+ - Marci for search pge results
+ - Randi for feature togglere removal and content replacement
+
 ### 1-month results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
