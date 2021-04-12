@@ -1,10 +1,18 @@
-# Help Desk Process for Broken Link Resolution
+# Help Desk Process for Broken Link Ticket Resolution
 
-## Broken Link Alerts
+## Overview
+Personnel within the Veterans Health Administration, Veterans Benefits Administration, and VA National Cemetery Administration utilize the Drupal CMS features to publish important information for Veterans and their families regarding Veteran benefits.  Users of the CMS create content that often includes links or hyperlinked information.   When a User publishes content containing links, an automated process begins checking each link and validating the success of the link to load the intended page.  If a link does not load a page it will result in a build failure and prevent one more more Users from being able to Publish content. 
 
-### Slack Alerts
-When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** , notifying **@cmshelpdesk**). This alert will move soon to **#vfs-engineers**.
-The notification follows the format:
+The build failure triggers a Slack alert which notifies Tier 1 and Tier 2 to begin analysis of the Alert to determine the root cause.  
+
+The Help Desk then makes notification to the people associated to the Ticket once the issue has been analyzed and resolved.  
+
+## Alerts
+
+### Handling
+Builds currently occur 8 times during a single day during business hours.  When a build occurs User content is published to the Production server.  Various tasks execute and complete throughout the build process and are validated for success.   Broken Links can cause a build to fail one or more tasks and cause an alert to be sent to the Slack channels (**#cms-helpdesk-bot** , notifying **@cmshelpdesk**).  In the near future it is planned that this Alert will move to another channel,  **#vfs-engineers** 
+
+In Slack notifications the Broken Link Alerts look similar:
 
 ```4 broken links found in the vagovprod build on master
 @cmshelpdesk
@@ -15,58 +23,83 @@ dir/url-of-page,[a href="/node/1235">Linkname</a>
 dir/url-of-page,[a href="/node/1236">Linkname</a>
 ```
 
-As a general rule the help desk team only needs to attend to alerts which mention either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake).
+The Help Desk should take ownership of Alerts with a URL that contains the word `master`, like the example above on line 13.   Master refers to a task involving a change in code, and understanding which part of the code broke the build will be best resolved by Tier 2 or engineers.  
+
+If `Null` is found to have stopped the build with it appear in the log URLs, it triggers the Tier 1 Help Desk's ownership of the issue because null appears in issues related to User's publishing of content.
+
+Null Alerts can look similar or include something like 
+
+```
+cannot read property of 'null'
+```
 
 ### Response
-We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`, then begin triage. 
-In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`. This ensures proper SLA tracking and reporting.
+Upon notification of the Alert, the Tier 1 Help Desk will use the Slack command /jira to create a Service Desk Ticket.   (using `/jira create`) a Jira Service Desk ticket to track this issue.  
 
-Our initial first response responsibility is to notify the **#vfs-engineers** channel that we are investigating the broken link(s). This must happen within 30 minutes of the notification.
+Begin classifying the Ticket as follows:
 
-We may also choose to begin a **#cms-team** Slack conversation for the team's awareness, and/or to reach out to Tier 2. 
+Request Type = `Broken Link`
+Issue Type = `Bug`
+Urgency = 'High'
+
+The above classifications ensure proper SLA tracking and reporting.  Once set, begin the Triage process by posting to the Slack #cms-product-triage channel and to notify the **#vfs-engineers** channel that we are investigating the broken link(s). This must happen within 30 minutes of the notification to meet SLA agreements. 
+
+We may also choose to begin a **#cms-team** Slack conversation for the CMS team's awareness, and/or to reach out to Tier 2. 
 
 # Steps to Investigate
 
 ### Requesting Tier 2 assistance
-The first responsibility of the help desk is to quickly assess if the problem can be resolved without Tier 2 assistance. When in doubt we should default to requesting assistance — but in some instances we may choose to resolve the issue without help.
+The first responsibility of the Tier 1 Help Desk is to analyze what the root cause of the issue could be, whether content or code related.   If any question about whether the issue is code related, Tier 2 engineers should always be engaged to assist in the analysis.  
 
-### Finding the problem
-If we look at the initial alert notification, we should see, in this fictional example:
+### Root Cause Analysis 
+
+Example 1:
+
 ```4 broken links found in the vagovprod build on master
+
 @cmshelpdesk
-http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/123456/display/redirect
-Page,Broken link
-dir/url-of-page,[a href="/node/1234">Linkname</a>
-dir/url-of-page,[a href="/node/1235">Linkname</a>
-dir/url-of-page,[a href="/node/1236">Linkname</a>
+
+1.	http://jenkins.vfs.va.gov/job/testing/job/...
+	...vets-website/job/master/123456/display/redirectPage,Broken link
+2.	dir/url-of-page,[a href="/node/1234">Linkname</a>
+3.	dir/url-of-page,[a href="/node/1235">Linkname</a>
+4.	dir/url-of-page,[a href="/node/1236">Linkname</a>
 ```
+
+The above example of an Alert can be used to kick-off root cause analysis on a broken link.  The example above shows that Line 1 contains the URL of a page;  line 2, 
 There is a list of one or more pairs: first the URL for a page, then a comma, then the details (including URL) for the link. We should be able to visit the indicated node(s) on the prod environment, to see its recent edit history and evaluate the cause of the broken link.
 
+Example 2:
+'''
+<img class="news-img" src alt title width height>
+'''
+
+The above example occurred when an image that was expected was not used.  The "src, alt, title, width, height" metadata for that image was absent and resulted in a Broken Links Alert.
+
 Steps we may wish to take include:
-1. Visiting each page indicated in the alert notification (per above)
-2. Looking at the overall content list to see recently updated nodes
-3. For any node, we can look on the right side for Revisions and Recent Changes to gather context about the person publishing and what happened. We may also want to preview the page, look at the links, and generally troubleshoot by gathering evidence. 
-4. Looking at the user(s) who've recently updated nodes, to see what VISN they're in, and then looking at recently updated nodes for that VISN.
+1. Visit each page indicated in the alert notification (see Example 1)
+1. Visit prod.cms.va.gov/admin/content; in the Overview header click on the title "Updated" to sort the content by newest, descending 
+1. Analyze the list just sorted, look for recently published content for the VISN or Node listed in the Alert
+1. Collect the data for further analysis and comparison to People in Step 5
+1. Alternatively, visit prod.cms.va.gov/admin/people and sort by clicking the Title "Last Accessed" and sort descending
+1. Analyze the list and see if any commonalities exist between Step 3 results and the list. 
 
-Note that we should always request Tier 2 assistance unless we feel confident that we can resolve the issue without them.
+Important:  Always request Tier 2 assistance if any questions as to whether content or code caused the build failure.
 
-### Common types of known issues, and how to remedy them
-So far, we've encountered a few types of broken link causes:
-- Content being published too soon by non-dual-state editors (so far, this is common, but recent changes to roles may make it uncommon): best fixed by determining content that may need to be Archived. we should be cautious about this, since archiving content that _should_ be published will make things worse instead of better. We should always notify users after the issue is corrected.
-- Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
-- Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
+## Contacting the Content User
+Once analysis concludes that the root cause of the issue was content and it is resolved, the Tier 1 Help Desk can contact the User of the published content that caused the build failure.  
 
-## Contacting the author afterwards
-Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
-1. The page in question
-1. Which link is broken 
-1. What actions we (help desk and/or tier 2) took.
-1. Any recommendations or guesses about what the author should do next, if we have them
+It is important that the Help Desk takes the time to educate the User so that the issue does not occur again.  Some key points to include in this education opportunity are:
 
-See a suggested email template below:
+1. The published content that caused the failure
+1. What link drove the issue
+1. Changes to the published content that were made by Tier 1 or Tier 2
+1. Suggestions or tips or training for the User 
+
+An example of what the email communication to the User can look like:
 
 **Subject/ticket title:**
->We’ve made a content change to your CMS page
+>We’ve made a content change to your CMS content
 
 **Message body:**
 >Hi name,
@@ -84,8 +117,12 @@ See a suggested email template below:
 
 
 # Response Timeframe
-The timeframe for an initial slack notification to **#vfs-engineers** should be within 30 minutes at most.
-Total time to fix the issue should be within an hour. If we have reason to think it’ll take longer, we should continue to update **#vfs-engineers**.
-When the issue is resolved, we should also update **#vfs-engineers** to say so.
+Initial slack notification to **#vfs-engineers** = within 30 minutes
+
+Issue resolve = 1 hour 
+
+If > 1 hour, continue to update **#vfs-engineers**
+
+When resolved, update **#vfs-engineers** with the status
 
 
