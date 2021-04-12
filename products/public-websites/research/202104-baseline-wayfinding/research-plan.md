@@ -9,9 +9,10 @@ Since the current VA.gov website was launched in 2018, there hasn't been much us
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
-- Why do Veterans come to VA.gov? With what goals/tasks in mind?
-- How do Veterans try to find what they’re looking for on VA.gov?
-  - Where do they typically start? (Google/Facebook/MHV/eBenefits/VA.gov)
+- Why do Veterans come to the VA? With what goals/tasks in mind?
+- How do Veterans try to find what they’re looking for?
+  - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
+  - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
     - Search (in header) and/or browse?
     - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Benefit Hubs (mega-menu dropdowns)?
@@ -53,6 +54,8 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 1 person who lives in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
 - At least 1 person with a disability rating of 70% or greater
+- At least 1 person with a disability rating of 100% 
+  - (DISCUSS, per Meg's suggestion to get people heavily reliant on VA for disability compensation, might have a cognitive disability)
 - At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
