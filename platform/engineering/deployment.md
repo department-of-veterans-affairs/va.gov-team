@@ -1,5 +1,4 @@
 ----
-
 # We're moving our docs! 
 ### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/infrastructure/Deployment-process.590970953.html) on the Platform website.
 
