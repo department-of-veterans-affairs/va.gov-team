@@ -1,10 +1,12 @@
 Accessibility testing plan template
 This is the template file for teams who need to create an accessibility testing plan for their project on VA.gov. 
 
-- Items that have “Design”/ “Designs” bolded reflect standards that must be facilitated by the design workstream 
-- Items that have “Programmatically” bolded reflect standards that focus on technical implementation 
-- Applicable WCAG 2.1 requirements are also included to reference best practice and may be followed in cases where added implementation scope is minimal.
-- Accessibility standards that relate to non-existent functionality in the app are marked N/A. In the event that the app’s design changes to include relevant functionality, these standards will be candidates to prioritize as requirements. 
+- Click the **Raw** button to view this document in [GitHub flavored Markdown](https://github.github.com/gfm/)
+- Copy everything from the next line starting with **| Category** to the end of the document into a blank file
+  - This file can be in GitHub or on a local machine at this point
+  - The file should be named **YOUR_TEAM-PROJECT-accessibility-testing-plan.md**
+- If your accessibility testing plan is on a local machine, add it to GitHub when you request a collaboration cycle staging review
+- Include a link to your accessibility testing plan in your staging review request issue
 
 | Category | WCAG Success Criteria | Criteria Checklist | Implementation Approach |
 | --------------- | ---------- | --------------- | ------------------------------ |
