@@ -18,7 +18,7 @@ _This list will be updated with links to documentation as needed_
 ## Launch Preparations
 - User Acceptance Testing
 - Internal Communications Plan
-- External Communications Plan
+- External Communications Plan (including static page)
 - Pre-mortem Exercise
 - Tabletop Exercise
 - Launch Dry Run & Go/No Go Decision doc
