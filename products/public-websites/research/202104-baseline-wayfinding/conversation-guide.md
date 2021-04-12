@@ -2,13 +2,15 @@
 
 ## Moderator logistics
 
-*10 min before session: Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")
+*10 min before session: Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
+
 *Check Slack for real-time feedback and questions from observers.*
 
 *5-10 min before session: Sign onto Zoom website as Perigean w/credentials provided and start Zoom meeting*
 
-*Make sure everyone except me and the participant is on mute*
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+*Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
+
+*Make sure everyone is muted except me and the participant*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
 
