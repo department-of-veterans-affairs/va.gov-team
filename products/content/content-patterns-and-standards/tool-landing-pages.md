@@ -92,7 +92,7 @@ We want to now display only the most critical information on the page (ie, can I
 
 Use this short header for accordions component:
 
-**Answers to other questions you may have**
+**Questions about [task]**
 
 ### Future considerations
 
