@@ -12,7 +12,10 @@ We need updated tracking on the following, per our [OKRs & KPIs](https://github.
 
 To confirm:
 
-- Given that the URL of the page is **not** changing, am I correct in assuming we don't need to do anything to continue to track how many logged-in users visit My VA?
+- Given that the URL of the page is **not** changing, am I correct in assuming we don't need to do anything to continue to track the following:
+  - How many logged-in users visit My VA
+  - Searches initiated from this page
+  - Foresee survey scores
 
 ## Dashboard creation
 
