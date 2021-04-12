@@ -88,14 +88,11 @@ The VA.gov approach to accordions has shifted over time. There was a time when w
 
 We want to now display only the most critical information on the page (ie, can I use this tool and potentially other key info for specific products). We'll put the rest in accordions.
 
-Consider for accordion group header:
+#### Recommendations
 
-- Questions about [task]
-- Common questions about [task]
-- Questions you may have about [task]
-- Frequently asked questions about [task]
+Use this short header for accordions component:
 
-Recommend not using "FAQs" due to avoiding acronyms and recent surfacing of screen reader pronunciation. Leaning toward "Common questions" or simply "Question" for brevity. "Questions you may have about..." can be good in certain circumstances, such as the covid-19 vaccine page, where questions may be more sensitive/personal.
+**Answers to other questions you may have**
 
 ### Future considerations
 
