@@ -7,6 +7,8 @@
 
 ----
 
+<details>
+
 # Reviewing changes in feature branches
 
 If you need to do additional testing and verification outside of local machine testing, you can deploy changes from a branch or pull request (PR). Heroku instances allow you to test changes to static content on the frontend, while review instances allow you to view changes to services or applications on the backend.
@@ -132,3 +134,5 @@ The review instance requires a special nginx configuration that intercepts the c
 For implementation-specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_revproxy.conf.j2#L181-L203).
 
 ![Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/review_instance_login_sequence.png)
+
+</details>
