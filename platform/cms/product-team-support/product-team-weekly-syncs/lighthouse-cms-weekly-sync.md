@@ -43,6 +43,7 @@ Agenda/Notes
   - Updates
     - CMS is now pushing Covid Vaccine service apointment info to Lighthouse. 
     - CMS has a method to bulk push these services to Lighthouse.
+    - Timeline to get CAP data populated = mid-May
 
   - Action Items 
     - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
