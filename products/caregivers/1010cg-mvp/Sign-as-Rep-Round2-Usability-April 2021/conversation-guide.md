@@ -26,8 +26,8 @@ Thanks for joining us today! My name is Shawna/Dené and I also have some collea
 **I'm going to send you a link in the chat.**
 _ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
-Desktop [include link or links]
-Open staging link in another tab
+https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
+
 
 **Backup plan if they cannot figure out how to share screen:**
 
