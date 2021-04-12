@@ -19,6 +19,14 @@
 
 ## Monday April 12 3pm ET
 
+* Action Items:
+  - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
+  - Lighthouse to investigate pushing of services in bulk. (+11,0000 if doing a bulk push of one service at a time, not an immediate need)
+    - Should be only by facility, anticipated load of calls is probably around 2,000
+    - CMS would need some fairly heavy rework of its data push to group by facility
+    - More than just COVID vaccine send anticpated once VAMC Upgrade is completed at the end of 2021
+  - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
+  - Detailed services returning an empty list rather than a null statement. Any next steps? From a data integrity standpoint a non-issue but Adam would like to go back and clean-up at some point.
 * Q2 priorities 
   * CAP hours and phone number and address and name
   * Facility health services 
@@ -28,7 +36,7 @@
 * Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`
 
 
-## Monday Apr 5 3:00pm ET
+## Monday Apr 5 3pm ET
 
 Agenda/Notes
 
@@ -38,12 +46,12 @@ Agenda/Notes
 
   - Action Items 
     - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review)
-    - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
+    - Lighthouse to investigate pushing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
     - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
 
    - Prioritization?  Additional service data, VetCenter CAPS ?
 
-## Monday Mar 29 3:00pm ET
+## Monday Mar 29 3pm ET
 
 Agenda/Notes
 
@@ -68,7 +76,7 @@ Agenda/Notes
     - Lighthouse to investigate pusing of services in bulk.   (+11,0000 if doing a bulk push of one service at a time.)
     - Pushing Vet Center CAP Would need a new push endpoint or a new nightly sync from Lighthouse.
 
-## Monday Mar 22 3:00pm ET
+## Monday Mar 22 3pm ET
 
 Agenda/Notes
 
@@ -81,7 +89,7 @@ Agenda/Notes
   - All health services
 - VAST
 
-## Monday Mar 8 3:00pm ET
+## Monday Mar 8 3pm ET
 
 Agenda/Notes
 
