@@ -75,10 +75,13 @@ ________________________________________________________________________________
   - Follow this link -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
   - Select - Sustainment/Operation Credit link
   - Choose VANotify under System/Application Name
+  - Enter your VA Business Line ex. “VBA Comp & Pen” under Program/Project Name
   - Enter 812 as the Cloudkey ID
+  - Enter SPI/Strip# - For VA business lines/product teams using non-IT funding, populate the “SPI/Strip#” field with “Non-IT/Business Line” ex. Non-IT/VHA
   - Enter AWS as the Cloud Provider
   - Enter the dollar amount
   - Enter your Project Manager and Business Owner
+  - *Forms FITARA and 2237 will need to be completed to approve the request.  
 
 
 ## Technical Onboarding Guide
