@@ -65,7 +65,7 @@
 |User DOES have appointments in the next 30 days|User is shown next appointment ("Date" "Time" "Location/VA Video Connect") and link to "Schedule and view your appointments"|**judy.morrison@id.me**|[Appointments](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |User DOES have appointments in the next 30 days|Cross reference VAOS to make sure the actual next appointment is the one that is showing on My VA|**judy.morrison@id.me**|[Appointments](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
 |User DOES NOT have appointments in the next 30 days, but does have future appointments|User sees messaging stating that they do not have appointments in the next 30 days, and link to "Schedule and view your appointments' should be with the other links|**ruben.moreno@id.me**|[No appts 30 days](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|
-|User DOES NOT have appointments|Link to "Schedule and view your appointments' should be with the other links|**226**|[NO appts](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449052948_My_VA_Desktop_No_Appts_In_30_Days_Copy)|
+|User DOES NOT have appointments|Link to "Schedule and view your appointments' should be with the other links|**226**|[NO appts](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449052948_My_VA_Desktop_No_Appts_In_30_Days_Copy)| Pass |
 
 
 #### Static health care links
