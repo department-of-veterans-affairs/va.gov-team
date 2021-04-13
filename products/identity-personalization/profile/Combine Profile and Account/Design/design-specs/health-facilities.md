@@ -1,10 +1,10 @@
 # Health facilities
+`DRAFT`
 
 ## Relevant links
 
 - [Mobile prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006244/simulate/sitemap?mode=i)
 - [Desktop prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i) 
-- [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
 ## Description
 
@@ -31,11 +31,13 @@ This section of profile allows users to review and edit the list of facilities w
 
 ## Copy
 
-`h1` and `nav` item reads: Your VA health facilities
+`h1` and `nav` item reads
+
+> Your VA health facilities
 
 Copy below `h1`:
 
-​	These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/). You can edit this list at any time.
+> These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/). You can edit this list at any time.
 
 
 
