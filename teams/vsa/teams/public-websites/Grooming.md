@@ -41,15 +41,15 @@
 - [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
 
 ## Site Navigation and Mega Menu Opitmization: 
-  ##### Opportunity/Pain Point (i.e. problems) (pan-search on va.gov but can be tailored to your search product e.g. CTRate)
+  ##### Opportunity/Pain Point (i.e. problems)
             1. Continuously patched up since it was first introduced and could merit a full engineering + design rewrite here soon. (Perhaps a combined                       effort with the Auth team to streamline this effort).
             2. 
             3.
-  ##### Solution (i.e. bucket, e.g. algorithm improvements)
+  ##### Solution 
             1. 
             2. 
             3. 
-  ##### Experiments/Tests (e.g. investigate kelson’s search logic)
+  ##### Experiments/Tests 
             1. 
             2. 
             3. 
