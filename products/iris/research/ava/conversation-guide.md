@@ -114,14 +114,15 @@ Imagine you accessed this page in order to ask the VA a question about (refer to
 
 Thank you for working through that. Now we have a few closing questions.
 
+* How did Ask VA compare to what you expected when submitting a question online?
 * Would you use the Ask VA tool we just tested today?
   * Why or why not?	
 * What did you like about Ask VA?
 * What was frustrating about Ask VA?
-* What are your thoughts on the language used in the product during this task?
+* What about the Ask VA form was difficult to understand?
 * Does anything within this product seem out of place or unnecessary to you?
 * Is there anything in this process we didn’t cover today that you think we should know about?
-  * Is there anything we should change?
+* Is there anything we should change?
 
 ## Wrap-up and close
 
