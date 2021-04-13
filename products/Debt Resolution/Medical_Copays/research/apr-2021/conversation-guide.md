@@ -78,6 +78,8 @@ First, I ask you to imagine that you are the Veteran in the following scenario:
 * You are a Veteran who went to a VA medical center in February for a routine checkup. In March, you went back to the VA medical center to hav a few routine tests done and you refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
   * In a word or two, what would you call that piece of mail?
   * What do you expect that mail to include?
+
+[Open [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1618248028269/7aa091d366c1be42973a5a743c0a2d918e586cad)]
 * Next, I'm going to share my screen with you. I've entered in all of the things you mentioned you'd expect to see. How does this order compare to how you'd expect it if it were on a piece of mail or a web page?
   * Awesome, thanks! 
 * Now, I'm going to show you a fake copay statement. There are a few pages to this, so let me know if you need me to scroll to see those.
