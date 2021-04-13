@@ -110,7 +110,7 @@ Some of these may already be part of the originating request, but need validatio
 
 OR
 
-### Method 2 bulk import (even for just one user) into training environment to automatically set their password to drupal8
+### Method 2 bulk import (even for just one user) into training environment to automatically set their password to a standard password
 Follow the Bulk User Import Procedure at https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/user_management.md
 
 OR
@@ -141,11 +141,11 @@ OR
 4. In the line starting with ‘php’, click the ‘Terminal’ link
 5. A command line terminal will pop up
 6. Paste the following command (Make sure to update the email address) and press return:
-drush user:create Terri.Rorke@va.gov --mail="Terri.Rorke@va.gov" --password="drupal8"
+drush user:create _username_ --mail="_emailaddress_" --password="_standardpassword_"
 6. You should see a message like the following:
   [success] Created a new user with uid 1803
   
-  To just change a password to the default, enter the command: drush user:password user.name@va.gov "drupal8"
+  To just change a password to the default, enter the command: drush user:password _user.name@va.gov_ "_standardpassword_"
 
 ## External resources
 
