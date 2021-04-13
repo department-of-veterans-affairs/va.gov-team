@@ -34,7 +34,8 @@ Request Board Appeal Online Form - introduction page |  www.va.gov/decision-revi
 
 **Priority** | **Placement** | **Label** | **Destination** | **Notes**
 --- | --- | --- | --- | ---
- MUST  | Decision reviews - Left nav   | Request a Board Appeal |  www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/  | Link label should match the H1.  Shorten if necessary. 
+ MUST  | Decision reviews - Left nav   | Request a Board Appeal |  www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/  | Link label should match the H1.  Shorten if necessary. Work with sitewide content on implementation of this link. 
+ MUST | [Board Appeals Page](https://www.va.gov/decision-reviews/board-appeal/) | Request a Board Appeal | www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/ | This should be the primary CTA on page. Work with sitewide content on modifications to content and addition of CTA on this page. 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
