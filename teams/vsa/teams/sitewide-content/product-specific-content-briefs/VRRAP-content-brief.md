@@ -67,10 +67,10 @@ Add content-related notes that came out of research that should inform the messa
 •	Not rated as totally disabled because you can’t work, **and** <br>
 •	Not enrolled in a federal or state jobs programs, **and** <br>
 •	Not receiving unemployment benefits (including CARES Act benefits)
-
+-----------------------
 - Make sure that under No. 4, the first sentence says, "We usually make a decision within 30 days."
 - "Need help?" info should be on all pages like this:
------------------------
+
 Call us at [800-827-1000]. We’re here Monday through Friday, 8:00 a.m to 9:00 p.m ET. If you have hearing loss, call TTY: [711].
 
 
