@@ -3,7 +3,7 @@
 <br />
 
 **Testing Upgrades**
-- Updat end to end test 
+- Update end to end test 
 - Add unit tests
 - Add intergration tests
 
@@ -15,4 +15,4 @@
 <br />
 
 **Rewrite any code that is needed**
-- rewrite any code as I complete the above steps 
+- Rewrite any code as I complete the above steps 
