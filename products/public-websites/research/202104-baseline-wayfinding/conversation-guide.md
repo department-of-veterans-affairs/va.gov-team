@@ -25,7 +25,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 Before we start, I want to go over a few things:
 
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome any and all of your feedback.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -99,8 +99,3 @@ Let’s start with a few questions...
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
 Thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
