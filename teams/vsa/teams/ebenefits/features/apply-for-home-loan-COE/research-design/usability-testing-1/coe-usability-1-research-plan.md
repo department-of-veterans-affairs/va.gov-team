@@ -9,7 +9,7 @@
 
 Veterans and service members (and survuving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
 
-The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
+There are several ways a Veteran or service member can apply for and receive a COE. The online Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
 
 ### Goals
 
