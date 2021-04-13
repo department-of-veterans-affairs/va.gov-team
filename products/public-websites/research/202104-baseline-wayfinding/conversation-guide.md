@@ -41,7 +41,8 @@ Let’s start with a few questions...
 - So where do you typically go to get information and benefits from the VA?
   - (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / Other________________________)
 - Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
-  - What did you want to do, and how did you get started?
+  - What did you want to do?
+  - How did you get started?
   - What did you do next?
   - *(If on VA.gov)* Can you share your browser window and show me what you did?
     -  *Task/goal:* 
@@ -50,8 +51,9 @@ Let’s start with a few questions...
     -  *Results:*
     -  *Pain points:*
     -  *Successes:*
-- Can you tell me about *another* time you were wanting to do something with your VA benefits? What did you do? 
-  - What did you want to do, and how did you get started?
+- Can you tell me about *another* time you were wanting to do something with your VA benefits?  
+  - What did you want to do?
+  - How did you get started?
   - What did you do next?
   - *(If on VA.gov)* Can you share your browser window and show me what you did?
     -  *Task/goal:* 
@@ -63,7 +65,7 @@ Let’s start with a few questions...
 - *(If didn't use VA.gov above at all...)* Could you share a blank browser window with me in Zoom? I want you to go to a specific website: VA.gov
   - Have you used this website before? 
   - If so, when was the last time? 
-  - Could you walk me through what were you doing?
+  - Could you walk me through what you did when you used it?
     -  *Task/goal:* 
     -  *Where started:*
     -  *Where else looked/tried:*
@@ -71,16 +73,18 @@ Let’s start with a few questions...
     -  *Pain points:*
     -  *Successes:*
 
-## Task 1: [TASK NAME] - 5 minutes
+## Task X: [TASK NAME] - 5 minutes
 
-- Now I'd like you to pretend that you want to...
+- I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
+  - *(if they say Google, maybe ask if there's a way you might do it from VA.gov)* 
+  - *RECORD navigation path:*
+  - 
 
-
-## Task 2: [TASK NAME] - X minutes
+## Task X: [TASK NAME] - X minutes
 
 - 
 
-## Task 3: [TASK NAME] - X minutes
+## Task X: [TASK NAME] - X minutes
 
 - 
 
