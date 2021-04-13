@@ -27,6 +27,7 @@
 * How's Tugboat going?
 * Documentation for VAMC menu / IA governance
 * Breadcrumbs for Vet Center
+* Default images for facilities? 
 
 ## Wednesday April 7
 
