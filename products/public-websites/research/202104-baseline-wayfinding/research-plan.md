@@ -9,8 +9,7 @@ Since the current VA.gov website was launched in 2018, there hasn't been much us
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
-- Why do Veterans come to the VA? With what goals/tasks in mind?
-- How do Veterans try to find what they’re looking for?
+- How do Veterans accomplish a list of top 10 tasks?
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
