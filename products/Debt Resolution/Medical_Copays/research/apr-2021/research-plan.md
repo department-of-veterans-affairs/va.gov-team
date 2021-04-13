@@ -1,5 +1,3 @@
-# 
-
 # Research Plan for Debt Resolution Team, Debt Portal Medical Copay Enhancement Discovery
 
 As a designer I need to create a research plan to share with my team.
@@ -12,19 +10,21 @@ Debt Resolution Team's Debt Portal Medical Copay Enhancement
 
 ### Background: 
 
-We released "Debt Letters MVP" / Debt Portal ([https://staging.va.gov/manage-va-debt/](https://staging.va.gov/manage-va-debt/)) for a subset of VBA debts in January. It currently includes Compensation, Pension, and some Education debts. We are now looking to enhance the existing tool by including VHA copayments and their corresponding Veteran Patient Statements. Currently, Veterans are able to access the last 6 months of their statements through AccessVA directly or by MyHealtheVet link. Due to some constraints at the beginning of the Debt Portal project, we weren't able to do full discovery, so we'd like to zoom out and validate some of our assumptions about how benefit and health debts should interact, if at all.
+We released "Debt Letters MVP" / Debt Portal ([https://staging.va.gov/manage-va-debt/](https://staging.va.gov/manage-va-debt/)) for a subset of VBA debts in January. It currently includes Compensation, Pension, and some Education debts. We are now looking to enhance the existing tool by including VHA copayments and their corresponding Veteran Patient Statements. Currently, Veterans are able to access the last 6 months of their statements through AccessVA directly or by MyHealtheVet link. Due to some constraints at the beginning of the Debt Portal project, we weren't able to do full discovery, so we'd like to zoom out and validate some of our assumptions about how benefit and health debts should interact, if at all.  
+
+With this research, we want to inform how we should present information from the Veteran Patient Statements on VA.gov.
 
 ### Research questions: 
 
 What question(s) do you hope to be able to answer after completing this research?
 
-* Where do Veterans expect to interact with their VA copayments?
+* Where do Veterans expect to find and interact with their VA copayments?
   * If on MHV or eBenefits, what would they be looking for and where do they expect to find it?
   * If on VA.gov, what would they be looking for and where do they expect to find it?
-* Do Veterans expect to find their statements in their own area on VA.gov or among other VA debts/bills?
+* Do Veterans expect to find all of their money owed to the VA in a single tool?
   * Does their expectation match their ideal?
 * How do Veterans conceptualize the mailed Veteran Patient Statements? As debts, bills, something else?
-* Where do Veterans struggle to interpret their Veteran Patient Statements?
+* How can we improve Veteran Patient Statements?
 * How do Veterans prioritize information on the statements? 
 
 ### Hypotheses: 
@@ -68,8 +68,15 @@ What are you looking for in a participant?
 
 #### Primary criteria / Must have:
 
-* We would like a total of 15 participants scheduled; our goal is to conduct 8 sessions, minimum
-* Participants must be comfortable with discussing their experiences with VA Health Care copayments in the past:
+* 15 participants (for a minimum of 8 completed sessions)
+  * Participants must use VA health care (disqualify those that don't)
+  * Up to 8 participants that pay for their copays
+  * Up to 7 that do not pay for copays
+    1. Up to 4 with a disability rating of 50% or higher
+    2. Up to 4 with secondary insurance that covers copayment
+    3. Any that have asked for financial assistance
+* Participants must be comfortable with discussing their past experiences with VA Health Care copayments.
+* Please screen participants based on these questions:
   * Which of the following describes you?
     1. I use VA health care and pay for copays (Qualify 9 participants)
     2. I use VA health care and do not pay for copays (proceed to next question)
@@ -152,4 +159,5 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 * Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 * Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 * Read-Out/Results
-  * Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.\*\* Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+  * Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
+  * \*\* Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
