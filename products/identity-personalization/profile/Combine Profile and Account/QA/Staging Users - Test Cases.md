@@ -26,7 +26,7 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user|Not able to see Connected Apps section|You'll need to create an account on staging in order to view this and all LOA1 use cases. Do not verify it's identity or add 2FA during the sign up process.|
+|LOA1 user|Not able to see Connected Apps section|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process.**|
 |LOA3 user|(ID verified + 2FA)	Able to see Connected apps section|vets.gov.user+36@gmail.com|
 |User does NOT have connected apps|	User does NOT have connected apps|vets.gov.user+2@gmail.com|
 |User DOES have connected apps|	User DOES have connected apps	|vets.gov.user+1@gmail.com|
@@ -36,7 +36,7 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user|	User is NOT able to see "Military Information" section	|You'll need to create an account on staging in order to view this and all LOA1 use cases. Do not verify it's identity or add 2FA during the sign up process.|
+|LOA1 user|	User is NOT able to see "Military Information" section	|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process.**|
 |LOA3 user| User is (ID verified + 2FA)	Able to see "Military Information" section	|vets.gov.user+36@gmail.com|
 |LOA3 user| User with military info	Military info IS NOT unavailable in DEERS	|vets.gov.user+10@gmail.com|
 |LOA3 user| User with military info	Military info IS available|vets.gov.user+36@gmail.com|
@@ -46,7 +46,7 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user|LOA1 users should not be able to access the user profile|You'll need to create an account on staging in order to view this and all LOA1 use cases. Do not verify it's identity or add 2FA during the sign up process.|
+|LOA1 user|LOA1 users should not be able to access the user profile|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process.**|
 |LOA3 user| User is eligible for comp & pen direct deposit and has 2FA enabled. User should see all Direct Deposit info|vets.gov.user+226@gmail.com|
 |LOA3 user who is eligible for comp & pen direct deposit and has 2FA enabled but has not set up direct deposit|User should see prompt to add bank information|vets.gov.user+202@gmail.com|
 |LOA3 user who receives comp & pen direct deposit who does not have 2FA enabled|This user should see the direct deposit functionality but they should see a gate to add 2FA first|TBD as of 8.11.20|
@@ -59,6 +59,6 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user|can't see personal information|You'll need to create an account on staging in order to view this and all LOA1 use cases. Do not verify it's identity or add 2FA during the sign up process.|
+|LOA1 user|can't see personal information|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process.**|
 |LOA3 user| (ID verified + 2FA)	can see personal information|vets.gov.user+36@gmail.com|	
 |LOA3 user who cant pull up record in MPI|User	Cant see "Personal information" or any other information, they are sent to account security page and shown the MPI alert |Test locally| 
