@@ -45,7 +45,6 @@ Let’s start with a few questions...
   - How did you get started?
   - What did you do next?
   - *(If on VA.gov)* Can you share your browser window and show me what you did?
-    -  *Task/goal:* 
     -  *Where started:*
     -  *Where else looked/tried:*
     -  *Results:*
@@ -56,16 +55,15 @@ Let’s start with a few questions...
   - How did you get started?
   - What did you do next?
   - *(If on VA.gov)* Can you share your browser window and show me what you did?
-    -  *Task/goal:* 
     -  *Where started:*
     -  *Where else looked/tried:*
     -  *Results:*
     -  *Pain points:*
     -  *Successes:*
-- *(If didn't use VA.gov above at all...)* Could you share a blank browser window with me in Zoom? I want you to go to a specific website: VA.gov
+- *(If didn't use VA.gov above at all...)* Could you please share a blank browser window in Zoom with me? I would like you to go to a specific website: VA.gov
   - Have you used this website before? 
   - If so, when was the last time? 
-  - Could you walk me through what you did when you used it?
+  - Could you walk me through what you did when you last used it?
     -  *Task/goal:* 
     -  *Where started:*
     -  *Where else looked/tried:*
@@ -73,29 +71,30 @@ Let’s start with a few questions...
     -  *Pain points:*
     -  *Successes:*
 
-## Task X: [TASK NAME] - 5 minutes
+## Task X: [TASK NAME] - X minutes
+
+- 
+
+## Task X: [TASK NAME] - X minutes
+
+- 
+
+## Task X: [Find a VA location] - 3 minutes
 
 - I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
   - *(if they say Google, maybe ask if there's a way you might do it from VA.gov)* 
-  - *RECORD navigation path:*
+  - *RECORD navigation: Find a VA Location header or footer / Find a VA... blue rectangle / Google / Other__________________________*
   - 
 
-## Task X: [TASK NAME] - X minutes
 
-- 
+## Post-Task Interview - 5 minutes
 
-## Task X: [TASK NAME] - X minutes
-
-- 
-
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
+- What do you *like* about using the VA.gov website?
+- What do you *dislike* about using the VA.gov website?
+- What would you most like to *change* about the VA.gov website?
 - Is there anything else that we haven't talked about that you think I should know? 
 
-## Thank-You and Closing - X minutes
+## Thank You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
