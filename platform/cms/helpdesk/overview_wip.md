@@ -412,7 +412,7 @@ Find guides on editing VAMC information based on its content type in the CMS.
 
 #### CMS Environments
 
-CMS non-prod Environments (default password drupal8) 
+CMS non-prod Environments (default password _______ ) 
 
 [Staging](https://staging.cms.va.gov/)
 
