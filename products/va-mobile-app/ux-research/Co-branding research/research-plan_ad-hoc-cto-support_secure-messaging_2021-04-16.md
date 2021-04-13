@@ -28,13 +28,21 @@ Recruiting through Perigean.
    - All participants must have experience with MHV. 
 3. We’re looking for a wide range of experience with VA services and are also using age as a proxy for identifying War Era segments. Since VA services have changed over time, we want to see responses from various age groups. We think they may have different levels of investment in VA brands based on the length of their relationship with VA.
 
-- 18–24
-- 25–34
-- 35–44
-- 45–54
-- 55–64
-- 65–74
-- 75+
+- Cohort 1 (5 participants age 18–24 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 1 (5 participants age 18–24 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 2 (5 participants age 25–34 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 2 (5 participants age 25–34 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 3 (5 participants age 35–44 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 3 (5 participants age 35–44 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 4 (5 participants age 45–54 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 4 (5 participants age 45–54 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 5 (5 participants age 55–64 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 5 (5 participants age 55–64 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 6 (5 participants age 65–74 ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 6 (5 participants age 65–74 ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 7 (5 participants age 75+ ) - group A - (https://ows.io/os/6vbc0yzh)
+- Cohort 7 (5 participants age 75+ ) - group B - (https://ows.io/os/rgfrzv82)
+
 
 Individual groups of 10 that are A/B split between the branded and unbranded variants.
 
