@@ -41,11 +41,11 @@ To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you 
 
 **All of these must be true.  You're:**
 
-* At least 22 years of age but not more than 66 years of age,
-* Unemployed because of the COVID-19 pandemic,
-* Not eligible for GI Bill or VR&E benefits (or, if you're eligible for the Post-9/11 GI Bill, you've transferred all of your benefits to family members),
-* Not rated as totally disabled because you can't work,
-* Not enrolled in a federal or state jobs program,
+* Between 22 and 66 years old
+* Unemployed because of the COVID-19 pandemic
+* Not eligible for GI Bill or VR&E benefits (or, if you're eligible for the Post-9/11 GI Bill, you've transferred all of your benefits to family members)
+* Not rated as totally disabled because you can't work
+* Not enrolled in a federal or state jobs program
 * Not receiving unemployment benefits (including CARES Act benefits)
 
 
@@ -188,7 +188,7 @@ Thank you for providing your direct deposit information. **This new account won�
 
 ### Direct deposit information
 
-We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
+We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll send your housing payment to this account.
 
 * Account type (* Required) { Radio: Checking, Savings }
 
@@ -226,7 +226,7 @@ Note: The Department of the Treasury requires us to make electronic payments. If
 * What's the name of the program? { free text }
 * Which city is the program in? { free text }
 * Which state is the program in? { free text }
-* Is the program in-person, online or both? { Radio: In-person , Online , "Both in-person and online" }
+* Is the program in-person, online, or both? { Radio: In-person , Online , "Both in-person and online" }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
