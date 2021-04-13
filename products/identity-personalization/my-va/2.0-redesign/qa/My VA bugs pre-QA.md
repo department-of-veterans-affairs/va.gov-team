@@ -12,6 +12,7 @@
 |Health care|(Pre QA) Incorrect message text when no unread messages exist|[22994](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22994)|Tressa|Open| |
 |Health care|(Pre QA) Appointments are not displaying for user when they have one within the next 30 days| [23063](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23063)|Tressa|Open| |
 |Health care|(Pre QA) "You have no appointments scheduled in the next 30 days" message missing| [23064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23064)|Tressa|Open| |
+|Health care|"View your VA medical records" should go straight to MHV| [23134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23134)|Samara|Open| |
 |Claims and appeals|(Pre QA) Clicking "Manage all claims and appeals" link re-routes back to My VA|[23015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23015)|Tressa|Open| |
 |Apply for benefits|(Pre QA) "What benefits does VA offer?" menu in wrong location|[22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)|Tressa|Open| |
 |Apply for benefits|(Pre QA) Incorrect section header for "Apply for VA benefits"|[22998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22998)|AJ|Open| |
