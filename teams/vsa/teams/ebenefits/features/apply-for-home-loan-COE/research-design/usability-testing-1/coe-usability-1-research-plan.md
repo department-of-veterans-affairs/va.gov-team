@@ -12,26 +12,26 @@ Veterans and service members (and survuving spouses) need a VA-issued Certificat
 The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
 
 ### Goals
-<!-- 
-The goal of this usability study is to assess how easily participants locate, understand and can change their direct deposit information. We also want to determine what value users place on having both DD payment types displayed, whether the user receives both types of payments or not.
+
+The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form. 
 
 #### Guiding questions
-- Where on VA.gov do users expect to find direct deposit (DD) information? 
-- How often do users expect to review and/or update their DD information?
-- What barriers prevent users from easily submitting changes to their DD info?
-- How do users react to the two different "categories" of payments--and having to change them separately? 
-- What other features do users expect on the DD screen?
-
+- Where, starting on the VA.gov home page, do users expect to find Certificate of Eligibility (COE) information? 
+- Where does confusing language prevent users from undersanding the form?
+- What barriers prevent users from easily applying for a COE?
+- Where (on VA.gov) do users expect to find their COE after it has been granted?
+- What other features would help users when they apply for a COE?
+<!--
 #### Hypotheses
 - Users may have some difficulty locating their direct deposit information
 - Users will rarely, some occasionally, change their direct deposit information
 - Participants will accept and easily navigate the DD edit function
 - Participants will have some questions/hesitation about **two** distinct Direct Deposit features
 - Users may want more information about the DD change process
-
+-->
 ### Method
-We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the DD-EDU feature (likely to include some protion of Profile). The sessions will be recorded, and observers and notetakers may be in attendance.
-
+We'll engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the COE feature (VA From 26-1880). The prototype is likely to include some facsimile of the landing page. The sessions will be recorded, and observers and notetakers may be in attendance.
+<!--
 #### The process
 - There will be a quick warm-up and introduction to usability testing
 - The user will be aked to navigate to VA.gov 
