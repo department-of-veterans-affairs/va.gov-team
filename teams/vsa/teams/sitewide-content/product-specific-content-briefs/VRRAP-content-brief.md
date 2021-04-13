@@ -13,6 +13,7 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 ## Established content standards for this product/benefit area
 
 **Acronyms**
+
 VR&E: Veteran Readiness and Employment
 
 VRRAP: Veteran Rapid Retraining Assistance Program
