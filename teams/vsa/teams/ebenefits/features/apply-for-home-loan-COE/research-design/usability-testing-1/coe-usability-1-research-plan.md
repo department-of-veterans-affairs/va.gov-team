@@ -6,11 +6,11 @@
 ---
 
 #### Background
-<!-- 
-Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs.
 
-Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently. Management of EDU payments is being migrated from eBenefits to be co-located with the C&P direct deposit feature in VA.gov profile. Users will be able to view and edit their direct deposit information for both types of payments in their profile.
--->
+Veterans and service members (and survuving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
+
+The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
+
 ### Goals
 <!-- 
 The goal of this usability study is to assess how easily participants locate, understand and can change their direct deposit information. We also want to determine what value users place on having both DD payment types displayed, whether the user receives both types of payments or not.
