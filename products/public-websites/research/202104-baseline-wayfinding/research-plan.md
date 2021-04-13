@@ -21,7 +21,7 @@ This research is planned within the context of the Public Websites team and the 
 - What works well?
 - Are there any differences for desktop vs. mobile users?
 - Are there any differences for people who have used VA.gov before vs. haven't used it?
-- Do Veterans read/notice/click on the banner content on the home page?
+- Do Veterans read/notice/click/comment on the banner content on the home page?
 
 ## Hypotheses
 - Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
