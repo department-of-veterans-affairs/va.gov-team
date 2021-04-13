@@ -3,7 +3,7 @@
 ## Quick links
 
 - [Research plan]()
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)
 - [Session notes]()
 - [Research report]()
 - [Participants](#participants)
