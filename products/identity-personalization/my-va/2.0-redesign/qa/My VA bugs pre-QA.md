@@ -20,3 +20,4 @@
 |Apply for benefits|"What benefits does the VA offer?" links all have weird numerical slug|[23132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23132)|Samara|Open| |
 |Apply for benefits|"Health care" block is showing in "Benefits you might be interested in" section after an application has been started|[23128](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23128)|Samara|Open| |
 |Apply for benefits|For LOA1 user, "Benefits you might be interested in" won't load|[23125](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23125)|Samara|Open| |
+|Cerner|Cerner alert should be 2/3 width on desktop|[23133](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23133)|Samara|Open| |
