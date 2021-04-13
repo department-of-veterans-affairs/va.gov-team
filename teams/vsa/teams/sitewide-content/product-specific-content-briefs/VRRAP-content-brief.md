@@ -12,7 +12,11 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 ## Established content standards for this product/benefit area
 
-[list of established terms/phrases/etc]
+**Acronyms**
+VR&E: Veteran Readiness and Employment
+VRRAP: Veteran Rapid Retraining Assistance Program
+VSO: Veterans Service Officer
+COE: Certificate of Eligibility
 
 ## The 5 basics 
 
