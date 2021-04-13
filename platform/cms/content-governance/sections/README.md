@@ -29,17 +29,18 @@ In this example, a user is associated with all of VBA sections, as well as the O
 ![Screenshot of workbench access form](workbench-access-form.png)
 
 
-## Adding new sections
+## Making changes to sections
 
 Sections are managed by CMS users with the "user admin" or "administrator" role, here:
 https://prod.cms.va.gov/admin/structure/taxonomy/manage/administration/overview
+
+Anyone can request a change to a section by [creating an issue on the CMS backlog with Section request template](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=kevwalsh&labels=Section+request%2C+Content+governance&template=cms-section-request.md). 
 
 Sections can be re-organized relatively easily by a user with this role, simply by dragging and dropping using this interface. However, this can have major repercussions for permissions across the site, and is not done lightly.
 
 ![Screenshot sections hierarchy](sections-hierachy-vagov-cms.png)
 
 Occasionally, a section may be divided into two, to allow more granular access to content by different groups of users. For example, VA Forms section could theoretically be divided into "VA Forms VBA" and "VA Forms VHA", to allow discrete access to different groups for different VA Form detail pages. 
-
 
 
 ## Limitations of Sections architecture
