@@ -11,7 +11,6 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 |Test user|Test case|Staging user|
 |----|----|----|
 |LOA1 user| User cannot see the rest of the profile and they are directed to verify their identity first.|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**. |
-|LOA1 user| Does have 2FA (should also be directed to verify identity)|vets.gov.user.555@gmail.com (NOTE:use "." vs "+")|
 |LOA1 user|	Uses does not have 2FA (and should be directed to verify identity)|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**.|
 |LOA1 user|	Should NOT show terms and condtions section at all| You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**.|
 |LOA3 user|	Should see entire profile and that they have verified identity |vets.gov.user+36@gmail.com|
