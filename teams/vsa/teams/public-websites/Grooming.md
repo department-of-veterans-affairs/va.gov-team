@@ -39,6 +39,10 @@
 - [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
 - [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
 - [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
+- [ ] Integrate maintenance banner with pager duty [#10234](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10234)
+- [ ] Resources and support: Too much spacing between bottom of process list and CTA buttons, IE11 [#15501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15501)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571)
 
 ## Site Navigation and Mega Menu Opitmization: 
 What makes a successful Site Navigation experience?  
@@ -69,8 +73,14 @@ What makes a successful benefit hub experience?
             1. 
             2. 
             3. 
+Benefit Hub related Backlog/ICEBOX Tickets: 
+- [ ] Implement left nav design updates, for benefit hubs [#8062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8062)
+- [ ] Determine IA Approach, Redirects, (new) URLs for L4+ Benefit Hubs Updates [#8239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8239)
+- [ ] Consider adding "After you apply" consistently to hub pages [#10773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10773)
+- [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
 
-Future:
+
+## Future/Road Map Items:
 - [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
 
