@@ -1,4 +1,3 @@
-
 # Conversation guide for Debt Resolution Team, Debt Portal Medical Copay Enhancement Discovery
 
 ## Moderator logistics
@@ -17,10 +16,8 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you interact with your VA health care, including your experience with copayments if you get them.
-
-Before we start, a few things I want to mention:
-
+* Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you interact with your VA health care, including your experience with copayments if you get them.
+* Before we start, a few things I want to mention:
 * This entire session should take up to an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear about your experience with VA health care to inform us as we bring copayments online. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
@@ -72,17 +69,18 @@ Before we start, a few things I want to mention:
   * If on VA.gov, what would they be looking for and where do they expect to find it?
 * How do Veterans conceptualize the mailed Veteran Patient Statements? As debts, bills, something else?
 * Do Veterans expect to find their statements in their own area on VA.gov or among other VA debts/bills?
-* Does their expectation match their ideal?
+  * Does their expectation match their ideal?
 
-## VPS Activity - ~25 min
+## VPS Activity - 25 min
 
-* First, I ask you to imagine that you are the Veteran in the following scenario:
-* You are a Veteran who went to a VA hospital in February for a routine checkup and some tests. In March, you had a few routine tests done and refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
+First, I ask you to imagine that you are the Veteran in the following scenario:
+
+* You are a Veteran who went to a VA medical center in February for a routine checkup. In March, you went back to the VA medical center to hav a few routine tests done and you refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
   * In a word or two, what would you call that piece of mail?
   * What do you expect that mail to include?
-* Next, I'm going to share my screen with you and we're going to reorder the things you mentioned by importance.
+* Next, I'm going to share my screen with you. I've entered in all of the things you mentioned you'd expect to see. How does this order compare to how you'd expect it if it were on a piece of mail or a web page?
   * Awesome, thanks! 
-* Now, I'm going to show you a fake copay statement.
+* Now, I'm going to show you a fake copay statement. There are a few pages to this, so let me know if you need me to scroll to see those.
 
 \[Show participant first letter in the sequence\]
 
@@ -97,12 +95,12 @@ Before we start, a few things I want to mention:
   * What do you think will happen if you don't pay by that date?
 * What options do you have to resolve these copay charges?
 * How do you use the description section, where they itemize your charges, if at all?
-* What would you do if you received this exact piece of mail, in your current financial situation?
+* What would you do if you received this exact piece of mail?
 
 \[Show the participant a second letter, where there are no new charges\]
 
 * So let's say you misplaced the letter from before and forgot to pay the bill. A month later, you receive this letter in the mail. 
-* Can you explain to me what is different about this statement compared to the last one we were looking at?
+* Can you tell me what's different about this statement compared to the last one we were looking at?
   * Why do you think that is?
 * What do you think these letters could do better?
 
@@ -127,4 +125,4 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Great, well thank you so much again, and enjoy the rest of your day.
