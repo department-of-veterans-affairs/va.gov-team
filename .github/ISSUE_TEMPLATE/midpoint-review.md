@@ -30,7 +30,7 @@ assignees: andreahewitt-odd, shiragoodman
 ## Meeting attendees from requesting team
 - Product Manager (required): name
 - DEPO Product lead (recommended): name
-- DEPO Design lead (recommended): Ryan Thurlwell
+- DEPO Design lead (required): Ryan Thurlwell
 - Anyone else from your team who significantly contributed to the artifacts provided (required): names
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
