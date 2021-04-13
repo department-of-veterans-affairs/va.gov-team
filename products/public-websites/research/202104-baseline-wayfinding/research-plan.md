@@ -95,5 +95,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers:	Brian Lloyd (blloyd@governmentcio.com), Meg Peters (meg.peters@va.gov), John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Marci McGuire (mmcguire@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Cassandra Allen (callen@governmentcio.com), Kelson Adams (kadams@governmentcio.com), Nick Sullivan (nick.sullivan@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
  
 ## Resources	
-- Conversation Guide	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)	
 - Research Findings	
