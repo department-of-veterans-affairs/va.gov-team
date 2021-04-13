@@ -53,7 +53,7 @@ These solution options seek to create a standardized way of logging customer sup
     2) Makes requests/questions for Platform folks that are on-call more clear   
 
 
-    4) Allows for easy reporting of customer support requests with the ability to download a csv for all forms completed in a Slack channel
+    3) Allows for easy reporting of customer support requests with the ability to download a csv for all forms completed in a Slack channel
 
 
 
