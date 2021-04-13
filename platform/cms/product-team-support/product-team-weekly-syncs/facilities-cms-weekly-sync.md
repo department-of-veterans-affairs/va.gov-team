@@ -30,7 +30,7 @@
 * Documentation for VAMC menu / IA governance
 * Breadcrumbs for Vet Center
 * Default images for facilities?
-* handling links in centralized/wysiwyg content (do we need to open in a new window, and add Analytics (dataLayer) support)
+
 
 ## Wednesday April 7
 
