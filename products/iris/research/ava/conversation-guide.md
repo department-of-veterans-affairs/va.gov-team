@@ -83,7 +83,7 @@ In order to get the most out of this session, I would like to be able to see you
 
 If you needed to reach out to VA to ask a question about a debt waiver (or a claim status), how would you go about doing that?
 *If necessary, guide them to the “Ask a question online” link. Once the page loads, proceed.*
-*Once the participant accesses the correct link, send them the link to the [AVA dev link](https://dvagov-iris-int.dynamics365portals.us/)*
+*Once the participant accesses the correct link, send them the link to the [AVA dev link](https://dvagov-veft-qa.dynamics365portals.us/)*
 
 As you walk through the process of submitting an inquiry, please think out loud. Let us know of any problems or questions you have. Again, we are not testing your ability to fill out the form, we’re testing whether or not the form is easy to use.
 
