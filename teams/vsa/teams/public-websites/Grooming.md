@@ -41,8 +41,24 @@
 - [ ] Header/Footer Subdomain font size issues [#4730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4730)
 
 ## Site Navigation and Mega Menu Opitmization: 
+What makes a successful Site Navigation experience?  
   ##### Opportunity/Pain Point (i.e. problems)
             1. Continuously patched up since it was first introduced and could merit a full engineering + design rewrite here soon. (Perhaps a combined                       effort with the Auth team to streamline this effort).
+            2. 
+            3.
+  ##### Solution 
+            1. 
+            2. 
+            3. 
+  ##### Experiments/Tests 
+            1. 
+            2. 
+            3. 
+
+## Benefit Hub Optimization: 
+What makes a successful benefit hub experience?  
+  ##### Opportunity/Pain Point (i.e. problems)
+            1. 
             2. 
             3.
   ##### Solution 
