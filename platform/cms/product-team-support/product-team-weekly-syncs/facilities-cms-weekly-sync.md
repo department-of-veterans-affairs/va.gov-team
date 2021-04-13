@@ -38,7 +38,7 @@
   - Facility services updates now happen "inline" on a Vet Center - Kevin
   - Minor content model changes incoming Thursday April 8 (some content may be needed for FE dev) - Kevin
     - "Nearby Mobile Vet Centers" on Locations list
-      - Michelle will find a shared Mobile Vet Center for 
+      - Michelle will find a shared Mobile Vet Center for Escanaba
       - Kevin will create issue to prevent duplicate references to MVCs in Nearby.  
     - Facility status for CAPs 
       - Michelle will add operating status for these.
