@@ -45,7 +45,7 @@
 |User DOES have an **open** pension/disability claim, with an update in the last 30 days|User will see latest claim information in box and "Manage all claims and appeals" link|**15**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |Claim that is showing in MyVA matches what is in the claim status tool|Cross reference the claims status tool to make sure the info is correct|**15**| [Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days" and "Manage all claims and appeals" link |**226**| [No updates](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032785_My_VA_Desktop_No_Appts_In_30-_No_Claims)|Pass|  
-|User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|[no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|
+|User has never filed a claim or all claims are closed|User will not see the claim section at all|**10**|[no claims](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032783_My_VA_Desktop_Health_Care_No_Claims)|Pass|
 
 #### Claims and appeals links
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
@@ -105,6 +105,6 @@ User receives direct deposit for edu payments|User does NOT see "Apply for educa
 |----|----|----|----|----|
 |What benefits does VA offer?|Opens to a list of links of all the benefits available at VA, each link should link to the benefit overview page|**100**|[Benefits dropdown](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055978_My_VA_FTUX_Dropdown)|
 |Continue your application|Links to the specific unfinished application represented in My VA|**100**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|Learn how to apply for health care| Links to health care 'how to apply' page|**10**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
+|Learn how to apply for health care| Links to health care 'how to apply' page|**10**|[Health care link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Links to correct location but the url text is incorrect - should say "Learn how to apply for VA health care (Samara creating a ticket)|
 |Learn how to file a claim for disability|Links to disability claim 'how to apply' page| **226**| [Claim link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Failed - created [#23072](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23072)|
 |Learn how to apply for education benefits|Links to education 'how to apply' page| **226**| [Education link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|Failed - created [#23073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23073)|
