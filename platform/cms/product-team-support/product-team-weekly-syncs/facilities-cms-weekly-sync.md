@@ -23,6 +23,8 @@
 
 ## Wednesday April 14
 
+* Policies -> `target types`([Slack convo](https://dsva.slack.com/archives/C0FQSS30V/p1618337427209400))
+* Previewing content
 * Mobile Vet Centers
 * How's Tugboat going?
 * Documentation for VAMC menu / IA governance
