@@ -12,10 +12,10 @@
   - Until secret manager issue/ proxy config for submission is in place, this will be a draft PR
 - Adjust testing environment while testing against external urls
 - Test with Fatjon K. and adjust code and urls accordingly as we gain access
-
-## RO Email list
-Note that the last one, "default," should be used when no other RO can be found
-**RO	Email**
+  
+## RO Email list  
+Note that the last one, "default," should be used when no other RO can be found  
+**RO	Email**  
 301	VRC.VBABOS@va.gov  
 304	VRE.VBAPRO@va.gov  
 306	VRE.VBANYN@va.gov  
