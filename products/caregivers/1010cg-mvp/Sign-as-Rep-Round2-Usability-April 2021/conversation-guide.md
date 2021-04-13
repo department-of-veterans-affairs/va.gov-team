@@ -116,13 +116,16 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 **Representative 
 
-- I'm going to quickly show you my screen (moderator shares screen with “representative” question)
+- I'd like to talk about a specific page now. Can you please click back (twice) which brings us back to the Representative documentation page.
    - Can you tell me how you decided/knew that you were/weren’t a representative?
    - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
    - Can you elaborate on your reasoning for your selection?
 - _If not addressed in tasks_ 
+  -  Let's say that in the future you are the legal representative, I'll have you select- Yes, I want to upload documents now.
   -  What documents would you upload here?
-  -  Would you have them on hand? 
+  -  Do the upload instructions make sense to you?
+  -  Do you already have a digital copy of the documents? (explain what this means if necessary)
+  -  How do you usually create a digital copy of your paper documents? (prompt with personal scanner, photo, local office store, etc. if hesitation)
   
  -If the legal representative is the same as the primary caregiver, statement of truth boxes that they are signing? (have signature page ready) 
 
