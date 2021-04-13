@@ -58,15 +58,19 @@ Add content-related notes that came out of research that should inform the messa
 - For applications like this one where you can start the application without being signed in, we want to provide that option in the form of a text link that takes the user straight to the first page of the form. Place it under the button: "Sign in to start your application." See the health care intro page for an example. 
 - I requested that BAH update the phone number in the footer under "Need help?" It was the health care number. We'll need to check back to make sure this feedback was incorporated.
 - Make sure all these edits were incorporated for the bulleted list (these are Beth's edits and stakeholder edits):
+- 
 **All of these must be true. You’re:**
-•	Between 22 and 66 years old, and
-•	Unemployed because of the COVID-19 pandemic, and
-•	Not eligible for GI Bill or VR&E benefits (or, if you’re eligible for the Post-9/11 GI Bill, you’ve transferred all of your benefits to family members), and
-•	Not rated as totally disabled because you can’t work, and
-•	Not enrolled in a federal or state jobs programs, and
+
+•	Between 22 and 66 years old, **and** <br>
+•	Unemployed because of the COVID-19 pandemic, **and** <br>
+•	Not eligible for GI Bill or VR&E benefits (or, if you’re eligible for the Post-9/11 GI Bill, you’ve transferred all of your benefits to family members), **and** <br>
+•	Not rated as totally disabled because you can’t work, **and** <br>
+•	Not enrolled in a federal or state jobs programs, **and** <br>
 •	Not receiving unemployment benefits (including CARES Act benefits)
+
 - Make sure that under No. 4, the first sentence says, "We usually make a decision within 30 days."
 - "Need help?" info should be on all pages like this:
+- 
 Call us at [800-827-1000]. We’re here Monday through Friday, 8:00 a.m to 9:00 p.m ET. If you have hearing loss, call TTY: [711].
 
 
@@ -78,4 +82,4 @@ Call us at [800-827-1000]. We’re here Monday through Friday, 8:00 a.m to 9:00 
 - Instead of "What if I need help filling out my application?" and the content that follows, we'll do this:
 **If you need help filling out your application,** an accredited representative like a Veterans Service Officer (VSO) or a Veteran representative at your school can help you. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
 - Under **Apply**, it should say, "Complete this application. After you submit your application, you’ll get a confirmation message. You can print this page for your records.
-In the form itself, change "Applicant information" to "Your information"
+- In the form itself, change "Applicant information" to "Your information"
