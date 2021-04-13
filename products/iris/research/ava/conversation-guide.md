@@ -84,6 +84,13 @@ In order to get the most out of this session, I would like to be able to see you
 If you needed to reach out to VA to ask a question about a debt waiver (or a claim status), how would you go about doing that?
 *If necessary, guide them to the “Ask a question online” link. Once the page loads, proceed.*
 
+**Findability Questions**
+*If user finds it*
+* Does this link placement make sense?
+
+*If user does not find it*
+* Can you explain to me why you looked where you did?
+
 *Once the participant accesses the correct link, send them the link to the [AVA dev link](https://dvagov-veft-qa.dynamics365portals.us/)*
 
 **First Impression Questions**
