@@ -1,4 +1,4 @@
-# COVID 2-Way Outreach Initial Message A/B Testing (March 2021)
+# COVID 2-Way Outreach Initial Message A/B Testing (Spring 2021)
 
 Goal: In an effort to improve response rate and schedule rate for COVID vaccine appointments, we are reevaluating the language in the initial outreach message in the COVID 2-Way Direct Scheduling workflow, and testing it against the existing message in small batch tests within a single site. 
 
@@ -133,4 +133,41 @@ B (added VA: Hi, Firstname):
 > More info about COVID-19 vaccines: https://go.usa.gov/xASD8 Send STOP to end messages.
 > 
 
+## April 2, 2021
+Hypothesis: Adding example date / time format to message will increase user confidence, overall response rate, and schedule rate.
 
+### April 2, One site, ~5000 messages per condition.
+
+A (current message):
+>
+> You can now get a COVID-19 vaccine at %FACILITY_NAME%
+>
+> To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%.
+>
+> If you have already received, or are scheduled to receive, the vaccine: Reply VAX 
+> If you do not plan to receive the vaccine: Reply PASS
+
+B (added example date/time):
+>
+> You can now get a COVID-19 vaccine at %FACILITY_NAME%
+>
+> To schedule an appointment, please reply with a DATE & TIME you would be available from %START_DATE% to %END_DATE%. For example, "0900 15 Oct".
+>
+> If you have already received, or are scheduled to receive, the vaccine: Reply VAX 
+> If you do not plan to receive the vaccine: Reply PASS
+> 
+
+**Results:** 
+B performed better than A on scheduling in one step by a statistically significant 188.89%, and performed _insignificantly_ better or worse on all other measures observed.
+
+| **4/2/2021**                              |               |         |          |         |            |
+| ----------------------------------------- | ------------- | ------- | -------- | ------- | ---------- |
+| Two-sided, 95%                            | **A (70)**    | **B (304)**| **power**|**p-value**| **Difference** |
+| **Responses received**                    | 567           | 552        | 19.47%   | 0.7760  | \-4.17%    |
+| \- Responded, scheduled                   | 67            | 68         | 3.40%    | 0.4655  | 1.36%      |
+| \-- Responded, scheduled, one step        | 9             | 26         | 98.57%   | **0.002**| 188.89%   |
+| \- Responded, VAX                         | 353           | 378        | 28.71%   | 0.1684  | 7.08%      |
+| \- Responded, PASS                        | 96            | 71         | 81.23%   | 0.9745  | \-26.04%   |
+| \- Responded, not scheduled, not vax/pass | 51            | 35         | 73.42%   | 0.9585  | \-31.37%   |
+| **No response received**                  | 4433          | 4448       |          |         |            |
+| **Total Messages Sent**                   | 5000          | 5000       |          |         |            |
