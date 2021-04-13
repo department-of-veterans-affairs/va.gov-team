@@ -23,8 +23,9 @@
 
 ## Wednesday April 14
 
-* Tugboat feedback
-* Documentation for VAMC menu / IA governance  
+* Mobile Vet Centers
+* How's Tugboat going?
+* Documentation for VAMC menu / IA governance
 * Breadcrumbs for Vet Center
 
 ## Wednesday April 7
