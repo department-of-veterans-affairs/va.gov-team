@@ -12,8 +12,11 @@
 |Health care|(Pre QA) Incorrect message text when no unread messages exist|[22994](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22994)|Tressa|Open| |
 |Health care|(Pre QA) Appointments are not displaying for user when they have one within the next 30 days| [23063](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23063)|Tressa|Open| |
 |Health care|(Pre QA) "You have no appointments scheduled in the next 30 days" message missing| [23064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23064)|Tressa|Open| |
+|Claims and appeals|(Pre QA) Clicking "Manage all claims and appeals" link re-routes back to My VA|[23015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23015)|Tressa|Open| |
 |Apply for benefits|(Pre QA) "What benefits does VA offer?" menu in wrong location|[22996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22996)|Tressa|Open| |
 |Apply for benefits|(Pre QA) Incorrect section header for "Apply for VA benefits"|[22998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22998)|AJ|Open| |
-|Claims and appeals|(Pre QA) Clicking "Manage all claims and appeals" link re-routes back to My VA|[23015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23015)|Tressa|Open| |
 |Apply for benefits|(Pre QA) "Learn how to file a claim for disability" links to wrong page|[23072](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23072)|Tressa|Open| |
 |Apply for benefits|(Pre QA) "Learn how to apply for education benefits" links to wrong page|[23073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23073)|Tressa|Open| |
+|Apply for benefits|"What benefits does the VA offer?" links all have weird numerical slug|[23132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23132)|Samara|Open| |
+|Apply for benefits|"Health care" block is showing in "Benefits you might be interested in" section after an application has been started|[23128](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23128)|Samara|Open| |
+|Apply for benefits|For LOA1 user, "Benefits you might be interested in" won't load|[23125](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23125)|Samara|Open| |
