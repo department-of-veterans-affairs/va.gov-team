@@ -10,10 +10,10 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user| User cannot see the rest of the profile and they are directed to verify their identity first.|vets.gov.user+350@gmail.com|
+|LOA1 user| User cannot see the rest of the profile and they are directed to verify their identity first.|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**. |
 |LOA1 user| Does have 2FA (should also be directed to verify identity)|vets.gov.user.555@gmail.com (NOTE:use "." vs "+")|
-|LOA1 user|	Uses does not have 2FA (and should be directed to verify identity)|vets.gov.user.555@gmail.com|
-|LOA1 user|	Should NOT show terms and condtions section at all|vets.gov.user+350@gmail.com|
+|LOA1 user|	Uses does not have 2FA (and should be directed to verify identity)|You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**.|
+|LOA1 user|	Should NOT show terms and condtions section at all| You'll need to create an account on staging in order to view this and all LOA1 use cases. **Do not verify it's identity or add 2FA during the sign up process**.|
 |LOA3 user|	Should see entire profile and that they have verified identity |vets.gov.user+36@gmail.com|
 |LOA3 user|	User is not in MPI - we show MVI error that says "We're having trouble matching your information to our Veteran records.  We're sorry. We're having trouble matching your information to our Veteran records, so we can't give you access to tools for managing your health and benefits. If you'd like to use these tools on VA.gov, please contact your nearest VA medical center. Let them know you need to verify the information in your records, and update it as needed. The operator, or a patient advocate, can connect you with the right person who can help.|Test locally|
 |LOA3 user| (ID verified + 2FA)	should see that 2FA has been set up |vets.gov.user+36@gmail.com|
