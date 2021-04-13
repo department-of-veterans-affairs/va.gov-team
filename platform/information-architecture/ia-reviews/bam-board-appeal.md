@@ -1,9 +1,9 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:** BAM1/VSA Claims and Appeals
 
-**Product/Featue:** Decision Reviews - Notice of Disagreement
+**Product/Featue:** Decision Reviews - Request Board Appeal (Notice of Disagreement)
 
 **IA Request:** 
 
