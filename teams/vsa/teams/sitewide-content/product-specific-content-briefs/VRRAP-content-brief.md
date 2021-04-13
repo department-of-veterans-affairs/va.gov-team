@@ -55,6 +55,7 @@ Add content-related notes that came out of research that should inform the messa
 
 ## Other notes
 
+- This doc has sitewide content's edits and a handful of edits from the stakeholder (all in track changes): [VRRAP form edits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/product-specific-content-briefs/VRRAP.form.edits.docx) 
 - For applications like this one where you can start the application without being signed in, we want to provide that option in the form of a text link that takes the user straight to the first page of the form. Place it under the button: "Sign in to start your application." See the health care intro page for an example. 
 - I requested that BAH update the phone number in the footer under "Need help?" It was the health care number. We'll need to check back to make sure this feedback was incorporated.
 - Make sure all these edits were incorporated for the bulleted list (these are Beth's edits and stakeholder edits):
