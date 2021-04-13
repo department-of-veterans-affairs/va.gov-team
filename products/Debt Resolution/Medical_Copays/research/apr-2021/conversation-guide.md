@@ -16,8 +16,10 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
-* Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you interact with your VA health care, including your experience with copayments if you get them.
-* Before we start, a few things I want to mention:
+Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you interact with your VA health care, including your experience with copayments if you get them.
+
+Before we start, a few things I want to mention:
+
 * This entire session should take up to an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear about your experience with VA health care to inform us as we bring copayments online. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
@@ -27,7 +29,7 @@ When the participant is ready, begin the session with the following intro
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-\[Start recording.\]
+Start recording.
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -35,8 +37,10 @@ When the participant is ready, begin the session with the following intro
 
 * Tell me a little bit about how you currently use VA health care.
 * Tell me about your past experiences with VA health care copayments.
-* Do you also use private health insurance?
-  * How do you decide when to use private vs. VA care?
+  * Do you get statements for VA Health Care?
+  * How do you receive them?
+* Do you have any other insurance plans for your health care? (Can prompt private insurance, Medicare/Medicare, TRICARE if they seem unsure)
+  * (If yes) Tell me about how you manage your \_\_\_\_ insurance. (Can prompt about viewing statements/explanation of benefits online, etc.)
 * What sort of communications do you receive from the VA?
   * What would you change about how the VA contacts you?
 
@@ -78,10 +82,7 @@ First, I ask you to imagine that you are the Veteran in the following scenario:
 * You are a Veteran who went to a VA medical center in February for a routine checkup. In March, you went back to the VA medical center to hav a few routine tests done and you refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
   * In a word or two, what would you call that piece of mail?
   * What do you expect that mail to include?
-
-[Open [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1618248028269/7aa091d366c1be42973a5a743c0a2d918e586cad)]
 * Next, I'm going to share my screen with you. I've entered in all of the things you mentioned you'd expect to see. How does this order compare to how you'd expect it if it were on a piece of mail or a web page?
-  * Awesome, thanks! 
 * Now, I'm going to show you a fake copay statement. There are a few pages to this, so let me know if you need me to scroll to see those.
 
 \[Show participant first letter in the sequence\]
@@ -96,14 +97,24 @@ First, I ask you to imagine that you are the Veteran in the following scenario:
   * How much do you need to pay by that date?
   * What do you think will happen if you don't pay by that date?
 * What options do you have to resolve these copay charges?
-* How do you use the description section, where they itemize your charges, if at all?
+  * Which would you choose? Why?
+* Talk to me about the description section.
+  * What does this mean to you?
+  * If you had questions about this, what would you do?
 * What would you do if you received this exact piece of mail?
+* What information stands out to you?
+* What information is most important for you to know?
+* Talk to me about the other pages here \[questions about statement, notice of rights\]
+  * How do you use these?
+  * What information is important for you?
+* What questions do you have about this statement?
 
 \[Show the participant a second letter, where there are no new charges\]
 
 * So let's say you misplaced the letter from before and forgot to pay the bill. A month later, you receive this letter in the mail. 
 * Can you tell me what's different about this statement compared to the last one we were looking at?
   * Why do you think that is?
+* What questions do you have about this statement?
 * What do you think these letters could do better?
 
 \[Go back to the prioritized expectations area\]
@@ -127,4 +138,4 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
-Great, well thank you so much again, and enjoy the rest of your day.
+Great, well thank you so much again, and enjoy the rest of your day!
