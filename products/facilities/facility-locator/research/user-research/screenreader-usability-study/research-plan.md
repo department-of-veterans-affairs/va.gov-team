@@ -89,6 +89,8 @@ AND
   - At least 1 participant has low vision (not complete blindness)
   - (4) Participants must have a mobile phone device and be willing to be complete the test on said device
 
+**Definition of low vision:**  For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night. 
+
 #### Technical requirements
 
 - Perigean: please ensure participants have Zoom downloaded prior to the session
