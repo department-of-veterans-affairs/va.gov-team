@@ -58,7 +58,9 @@ Add content-related notes that came out of research that should inform the messa
 - For applications like this one where you can start the application without being signed in, we want to provide that option in the form of a text link that takes the user straight to the first page of the form. Place it under the button: "Sign in to start your application." See the health care intro page for an example. 
 - I requested that BAH update the phone number in the footer under "Need help?" It was the health care number. We'll need to check back to make sure this feedback was incorporated.
 - Make sure all these edits were incorporated for the bulleted list (these are Beth's edits and stakeholder edits):
+- 
 ---------------------
+
 **All of these must be true. You’re:**
 
 •	Between 22 and 66 years old, **and** <br>
@@ -67,7 +69,9 @@ Add content-related notes that came out of research that should inform the messa
 •	Not rated as totally disabled because you can’t work, **and** <br>
 •	Not enrolled in a federal or state jobs programs, **and** <br>
 •	Not receiving unemployment benefits (including CARES Act benefits)
+
 -----------------------
+
 - Make sure that under No. 4, the first sentence says, "We usually make a decision within 30 days."
 - "Need help?" info should be on all pages like this:
 
