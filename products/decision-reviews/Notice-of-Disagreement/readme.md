@@ -143,16 +143,23 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## OKRs and KPIs
 ## KPIs
 - Number of NOD submissions (input KPI)
-- Time to NOD decision (input KPI)
-- Is there a higher ratio of accepted NOD claims than before (input KPI for part of the ratio)
-- % of "rejected" NOD claims (input KPI)
+- 20% of claims completed online in first month with 5% MoM inclease
+- <15% abandon rate from start of form (is there a save in progress option? 
+- Average time to complete the form
+- Where do Veterans abandon the form
+- Successful vs. Unsuccessful submissions
+
 
 ### Baseline KPIs
-- NOD Submissions: Total NOD EPs established FY 2020 through July. Average: 7k a month
-- NOD ADC: Monthly and FYTD average days pending, through July. 
-- NOD Grant Rates: Grant rates, from PA&I’s monthly AMA Reports website. Average 17.1%
+- NOD Submissions: Total NOD per month
+- CSAT score (monthly or quarterly)
 
-Note: I thought average grant rate for NOD was much higher - where did we hear this?
+
+## Objectives and Key results (OKRs)
+- Objective 1: Make it easy and intuitive for Veterans to submit a decision review online, increasing the number of veterans that request claims appeals. 
+- Key result: Increase number of successful NODs submitted 
+- Key result: Decrease in calls to contact center asking for assistance in filling out form
+
 
 Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/metrics/NOD_FY2020.xlsx
 --- 
