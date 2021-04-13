@@ -14,8 +14,11 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 **Acronyms**
 VR&E: Veteran Readiness and Employment
+
 VRRAP: Veteran Rapid Retraining Assistance Program
+
 VSO: Veterans Service Officer
+
 COE: Certificate of Eligibility
 
 ## The 5 basics 
