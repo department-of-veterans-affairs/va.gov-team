@@ -18,7 +18,7 @@ Headers are used to identify the source of API calls and we routinely monitor th
 
 We ignore unspecified headers (those outside our control). However, it is difficult to know the full area of responsibility since there is not centralized listing for the front end. We continue to stumble across "facilities team owned" (or "facilities team responsible") code scattered across directories. 
 
-The PACT server can be used as Rails server for unit and integration testing but will need to know all the calls and logical expected answers. For PACT to have caught this error, we would have needed a test for the V0 pathway.  There has not been widespread sdoption of PACT and comprehensive coverage will require a thorough analysis of code. 
+The PACT server can be used as Rails server for unit and integration testing but will need to know all the calls and logical expected answers. For PACT to have caught this error, we would have needed a test for the V0 pathway.  There has not been widespread adoption of PACT and comprehensive coverage will require a thorough analysis of code. 
 
 API call impacted: https://api.va.gov/v1/facilities/va?ids=vc_0211V,vc_0233V,vc_0220V,nca_925,vba_311
 
