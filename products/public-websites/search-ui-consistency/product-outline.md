@@ -46,7 +46,7 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 ## Measuring Success
 
 
-### Key Performance Indicators (KPIs)
+### 🚩 Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
