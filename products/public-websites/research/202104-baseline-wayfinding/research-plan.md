@@ -13,8 +13,14 @@ This research is planned within the context of the Public Websites team and the 
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
-    - Search (in header) and/or browse?
-    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Benefit Hubs (mega-menu dropdowns)?
+    - Search (in header)?
+    - Benefit Hubs (mega-menu dropdowns)?
+    - Other header links (About VA, Find a VA Location, Contact us)
+    - 4 white quadrants? 
+    - Topics below the photos? 
+    - 3 red/blue buttons below the topics? 
+    - Links below the 3 red/blue buttons
+    - Footer links? 
     - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
