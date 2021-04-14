@@ -133,7 +133,9 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 - Usability Testing and Research for reference: https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
 - Danielle's write-up: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/content-localization-translation/potential-solution-options.md
-- Other Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp
+- Other Research: 
+-      https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation/coronavirus-mvp
+-      https://github.com/department-of-veterans-affairs/va.gov-team/files/3273454/VA.gov-Spanish-benefits-link-user-research-061019.pdf
 - Google Translation Assessment: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/google-translate-assessment.md
 - 
 #### Epics
