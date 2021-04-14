@@ -30,7 +30,6 @@
 * Tugboat and features flag for Policies page?
 * Documentation for VAMC menu / IA governance
 * Breadcrumbs for Vet Center
-  * [#20922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20922)
 * Default images for facilities?
 
 
