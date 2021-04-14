@@ -48,8 +48,19 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 
 ### 🚩 Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+ - Click through rate
+ - Return visitors
+ - Customer satisfaction
+
+ 
 * _What are the most important metrics that track with this product/initiative's success?_
+- Click through rate increases
+- Return visitor increases
+- Customer satisfaction increases
+- 
 * _Include links to Domo or Google Analytics Dashboards/Reports_
+
+
 * _**Limit 5-6 KPIs per product**__
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
@@ -60,6 +71,8 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+- TBD 
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
@@ -74,14 +87,26 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
+Assumption - creating consistency will build trust and improve users' perception about VA.gov
+Assumption - making calls to action more visible will increase the chances of users clicking on calls to action
+
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
+
+We are going to start by creating consistency between the three specific tools name above.  We have decided to start there because they all fall within the Unauth Portfolio and share the same PO.
+
 - *Why this solution / approach over other solutions / approaches?*
+
+This is a relatively low-risk approach due to the nature of the tools.  It has limited scope vs. a "big bang" approach, and allows other teams to incorporate the changes as they  have bandwidth.
+
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+
+We are not including changes to the sidebar because that has the potential of creating a much larger impact across other products.  Possible sidebar changes will be addressed separately.
+
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
---- 
+Our hope is that the improvements realized with this change will be an impetus for other product teams to incorporate them into their products, and even possibly spur a similar effort for other areasa of VA.gov that can benefit from improved UI consistency.
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
