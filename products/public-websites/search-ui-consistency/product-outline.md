@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-Currently, search tools such as the main Search page, Find a Form, Find a Yellow Ribbon School, Resources & Support, and Facility Locator all have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  A longer-range hope is that these redesigned elements will be incorporated into new VA.gov search tools, and into existing tools as teams have the capacity to do so.
+Currently, search tools such as the main VA.gov Search page (https://www.va.gov/search/?query=search%20term), Find a VA Form (https://www.va.gov/find-forms/), Find a Yellow Ribbon School (https://www.va.gov/education/yellow-ribbon-participating-schools/), and Resources & Support (https://www.va.gov/resources/) have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  We also want to ensure that these changes are vetted by our Design, UI and Accessibility experts so that they inherently adhere to standards when implemented.  A longer-range goal is that these redesigned elements will be incorporated into new VA.gov search tools, as well as existing tools as teams have the capacity to do so.   
 
 ## Problem Statement
 Having an inconsistent UI style for each of the search tools creates confusion for Veterans. 
@@ -88,7 +88,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - tbd
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch?*
+- Each team will implement UI changes as their own priorities and capacity allow.  They will also define their dates for measuring success based on those timelines.
   - 
 ---
 
@@ -97,12 +97,22 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Current Status
 
 ### Key Decisions
-
+- 2021-04-13 - Dave Conlon has de-prioritized this effort for the Facilities team, so the design intent will only involve Decision Tools, Search & Discovery, and Public Websites teams.
+- 2021-04-07 - After discussion with Shira Goodman, a decision was made to have a combined design review, but then each team would manage their own collab cycles for implementation since their priorites and timelines will differ.
+- 2021-04-01 - Marci McGuire will lead the creation of the Product Outline and request a Design Intent Review.
 ---
    
 ## Screenshots
 
 ### Before
+#### VA.gov Global Search (results)
+![image](https://user-images.githubusercontent.com/73354907/114746181-70fa5b00-9d1d-11eb-9e68-447f28d728d3.png)
+
+#### Find a VA Form
+![image](https://user-images.githubusercontent.com/73354907/114748180-a56f1680-9d1f-11eb-9f3a-44b1d3b8be6a.png)
+
+#### Resources and Support
+![image](https://user-images.githubusercontent.com/73354907/114747546-f2062200-9d1e-11eb-8c7c-8ccff9acaf60.png)
 
 ### After
 
@@ -112,10 +122,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: (Decision Tools)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools], (Search & Discovery)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/search-discovery], (Public Websites)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites]
+- GitHub Label:  search-ui-consistency
+- Slack channel: vsa-unauth-portfolio, unless this extends to other areas of VA.gov
+- Product POCs:  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency
 - Stakeholders: 
 
 </details>
@@ -127,9 +137,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - DEPO Lead: John Hashimoto
  - PM: Marci McGuire (Find a VA Form), Brian Lloyd (Resources & Support), Denise Coveyduc (Global Search)
  - Engineering: Zach Morel (Find a VA Form), Nick
- - Research/Design:  Cassandra Allen (Find a VA Form, Resources & Support), Megan Gayle (Global Search)
+ - Research/Design:  Cassandra Allen (Find a VA Form, Resources & Support), Megan Gayle (Global Search), Cindy Merrill (Research)
 
- 
 </details>
 
 
