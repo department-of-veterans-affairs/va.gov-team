@@ -431,17 +431,18 @@ FE
 
 ### Preferred medical facility 
 
-**VAOS should be starting on design**
+**VAOS will be starting on design**
 
 **PM**
 
+- 5/3 planning regroup with VAOS
+- Samara/AJ to talk to Lauren about KPI planning
 - Start working with Liz on list of test cases/test users for the profile
-- Samara to talk to Lauren about KPI planning
 
 **Design**
 
-- Start working with AJ on list of test cases/test users for the profile
 - Collaborate with Peter as needed on design
+- Start working with AJ on list of test cases/test users for the profile (though final test case doc won't be completed this sprint)
 - Start on research plan (though we won't be able to finish this sprint)
 
 ### Notification preferences
