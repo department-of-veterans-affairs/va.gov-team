@@ -43,7 +43,7 @@ Vet Centers
   * similar problems on VAMC product
   * Kev to create issue to investigate Drupal as source of truth for breadcrumbs that do not have menu items, and send to Michelle and Mikki
     * Examples: Events, News releases, all Vet Center content types, Stories, Staff profiles, other content types that don't typically have menu items.
-
+  * Relevant Facilities issue [#20922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20922)
 Policies
 * ~Tugboat and features flag for Policies page~
 
@@ -52,12 +52,12 @@ VAMC
 * ~Default images for facilities~
 * Unpublished facility health services are visible on va.gov if the system health service is published.
   * CMS has issue for enforcing unique content
-  * Facilities team to filter out unpublished facility health service
+  * Facilities team to filter out unpublished facility health service [#23256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23256)
   * VAMC upgrade team to stop the bleeding on dupe content
 
 Phone number component in Drupal
 * Editors are adding "option 8" in the extension field
-* Michelle to create parent epic and Kevin to create a CMS issue that maps to it
+* Michelle to create [parent epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23260 and Kevin to create a CMS issue that maps to it 
 
 Past events page build failures
 * Current hypothesis (not confirmed yet): Archiving all past events
@@ -70,6 +70,7 @@ Past events page build failures
   * if no future events exist, events page says "no events"
   * if no past events exist, past events page builds saying "no past events"
   * if past events exist and then get archived, events page says "no events"
+* Relevant Facilities issue #23258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23258)
 
 VBA facilities
   * Lighthouse list (and therefore Drupal) is inaccurate
