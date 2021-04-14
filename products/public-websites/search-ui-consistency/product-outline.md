@@ -48,15 +48,15 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 
 ### 🚩 Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
- - Click through rate
- - Return visitors
- - Customer satisfaction
+ - Click through rate (GA/Domo)
+ - Return visitors (GA/Domo)
+ - Customer satisfaction (Medallia)
 
  
 * _What are the most important metrics that track with this product/initiative's success?_
-- Click through rate increases
-- Return visitor increases
-- Customer satisfaction increases
+ - Click through rate increases (GA/Domo)
+- Return visitor increases (GA/Domo)
+- Customer satisfaction increases (Medallia)
 - 
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
@@ -87,8 +87,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
-Assumption - creating consistency will build trust and improve users' perception about VA.gov
-Assumption - making calls to action more visible will increase the chances of users clicking on calls to action
+1. Creating consistency will build trust and improve users' perception about VA.gov and increase customer satisfaction
+2. Making calls to action more visible will increase the chances of users clicking on calls to action 
+3. (MOST RISKY) Creating consistency will increase the liklihood that users will return to use the search tools again.  This is highest risk because it is possible that the majority of users only use the tool for one specific instance and don't need to come back.
 
 ## Solution Approach
 
