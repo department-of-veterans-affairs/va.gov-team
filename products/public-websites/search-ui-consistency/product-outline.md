@@ -12,7 +12,7 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 ## Desired User Outcomes
 
 - A consistent UI is a better experience for Veterans, their caregivers, and their advocates as it allows them to form one mental model that carries across each tool that follows the same design pattern.
-- Consistent calls to actions (links, buttons, downloads) enables users to quickly recognize these elements as they are encountered on different tools, provding a more accessible experience for those with congnitive disabilities.
+- Consistent calls to actions (links, buttons, downloads) enables users to quickly recognize these elements as they are encountered on different tools, providing a more accessible experience for those with congnitive disabilities.
 - Users click on calls to action more frequently because they are easier to recognize on the page.
 - Veterans, their caregivers, and their advocates are more quickly and easily able to access the content, forms, documents, facilities, or other resources they need.
 
