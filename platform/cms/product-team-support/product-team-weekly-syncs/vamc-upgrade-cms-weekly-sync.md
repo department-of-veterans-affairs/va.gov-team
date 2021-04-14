@@ -28,6 +28,7 @@
 * Go-live timeline
 * Validate runbook for Go-live (separate meeting with Facilities)
 * Account creation
+* Account Permission - Publishing (e.g. VISN level permissions to publish?)
 * Update on any CMS changes or updates that VAMC needs to be aware of that may impact production. (i.e. Removing generic FHS)
 * 
 
