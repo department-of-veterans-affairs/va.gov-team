@@ -100,7 +100,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/moderated-interviews/conversation-guide-tone-and-name-survey.md	
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
