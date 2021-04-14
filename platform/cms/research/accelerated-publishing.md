@@ -4,15 +4,19 @@ VFS-CMS team, April 2021
 ## Goals
 
 *What product & team are you doing this research for?*
+
 The goal of this study is to understand what kinds of needs, painpoints, or expectations exist among CMS editors that might impact the technical solution for accelerated publishing.
 
 **Background**
 
 *Briefly, what is the background on this product? What would a new person on the team need to know about this product?*
+
 Currently, the technical architecture that supports CMS content being pushed to VA.gov causes a publishing delay. When a CMS editor saves content as published, there is a X hour delay before it goes live on VA.gov. We believe that rearchitecting the deployment process to reduce or eliminate delays will result in a better experience for editors and ultimately, Veterans.
 
 **Research questions**
+
 *What question(s) do you hope to be able to answer after completing this research?*
+
 - How quickly do users expect their content appear on VA.gov after saving as published?
 - What kinds of time pressures exist for various users and products when trying to get their content out there?
 - Where do editors experience confusion or difficulty in the current publishing workflow?
@@ -30,7 +34,7 @@ Currently, the technical architecture that supports CMS content being pushed to 
 
 ## Method
 
-**What method of research are you planning?**
+*What method of research are you planning?*
 
 **User interviews** with a walkthrough of the current publishing workflow. This will help us identify where the users' content goals intersect with the interface as they go through the publishing workflow (Start in edit form > save as published > review proofing page).  
 - Moderated study conducted remotely via Zoom
