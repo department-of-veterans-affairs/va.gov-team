@@ -77,8 +77,8 @@ Let’s start with a few questions...
 - *(if they say call them, ask:)* Is there a way you might do it using VA.gov? 
   - *RECORD navigation: Health care quadrant > Send a secure message / VA Benefits & Health Care > Health care > Send a secure message / Health care link below photos / Search / Other__________________________*
 - What would you do next?
-- Did you find what you were looking for?
-  - *RECORD task success: yes / no
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
  
 ## Task X: [Refill prescription] - 3 minutes
 
