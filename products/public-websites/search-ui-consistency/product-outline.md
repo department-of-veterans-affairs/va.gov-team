@@ -57,7 +57,7 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
  - Click through rate increases (GA/Domo)
 - Return visitor increases (GA/Domo)
 - Customer satisfaction increases (Medallia)
-- 
+
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
 
@@ -89,13 +89,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 1. Creating consistency will build trust and improve users' perception about VA.gov, thereby increasing customer satisfaction.
 2. Making calls to action more visible will increase the chances of users clicking on them, thereby increasing click through rate.
-3. (MOST RISKY) Creating UI consistency will build trust in VA.gov search tools and encourge them to us them again in the future, thereby increasing the percent of return users.  This is highest risk because it is possible that users need the tool for one specific instance and don't need to come back.
+3. (MOST RISKY) Creating UI consistency will build trust in VA.gov search tools and encourge them to us them again in the future, thereby increasing the percent of return users.  This is highest risk because it is possible that users need a tool for one specific circumstance and may never need to come back.
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
 
-We are going to start by creating consistency between the three specific tools name above.  We have decided to start there because they all fall within the Unauth Portfolio and share the same PO.
+We are going to start by creating consistency between the three specific tools listed above.  We have decided to start there because they all fall within the Unauth Portfolio and share the same PO.
 
 - *Why this solution / approach over other solutions / approaches?*
 
@@ -115,10 +115,11 @@ Our hope is that the improvements realized with this change will be an impetus f
 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 ### External Communcation
-These changes should be seamless for end users. 
+These changes should be completely seamless to end users. 
 
 ### Internal Communication
 Internally, the following updates will be needed:
+
      - Release plans will be created as each team does its own implentation for their respective product(s)
      - The [VA Content Style Guide](https://design.va.gov/content-style-guide/) will be updated to reflect the new search component designs
      - The [VA Component Library](https://design.va.gov/components/) will be updated to reflect the new search component designs
