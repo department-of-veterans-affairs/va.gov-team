@@ -58,7 +58,7 @@ VAMC
 
 Phone number component in Drupal
 * Editors are adding "option 8" in the extension field
-* Michelle to create [parent epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23260 and Kevin to create a CMS issue that maps to it 
+* Michelle to create [parent epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23260) and Kevin to create a CMS issue that maps to it 
 
 Past events page build failures
 * Current hypothesis (not confirmed yet): Archiving all past events
