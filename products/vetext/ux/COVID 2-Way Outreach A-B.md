@@ -171,3 +171,17 @@ B performed better than A on scheduling in one step by a statistically significa
 | \- Responded, not scheduled, not vax/pass | 51            | 35         | 73.42%   | 0.9585  | \-31.37%   |
 | **No response received**                  | 4433          | 4448       |          |         |            |
 | **Total Messages Sent**                   | 5000          | 5000       |          |         |            |
+
+
+
+| **4/12/2021**                                 |                               |         |             |         |            |
+| --------------------------------------------- | ----------------------------- | ------- | ----------- | ------- | ---------- |
+| Two-sided, 95%                                | **A (70)**                    | **B (304)** | **power** | **p-value** | **Difference** |
+| **Responses received**                        | 332                           | 372     | 63.06%      | 0.0556  | 12.18%     |
+| \- Responded, scheduled                       | 66                            | 86      | 68.02%      | 0.0501  | 30.46%     |
+| \-- Responded, scheduled, one step (sig w/ 90% conf) | 46                            | 64      | 72.93%      | 0.0415  | 39.28%     |
+| \- Responded, VAX                             | 160                           | 168     | 10.25%      | 0.3223  | 5.12%      |
+| \- Responded, PASS                            | 83                            | 89      | 10.77%      | 0.3192  | 7.36%      |
+| \- Responded, not scheduled, not vax/pass     | 23                            | 29      | 26.71%      | 0.2008  | 26.24%     |
+| **No response received**                      | 3913                          | 3868    |             |         |            |
+| **Total Messages Sent**                       | 4245                          | 4240    |             |         |
