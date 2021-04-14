@@ -5,7 +5,7 @@ VFS-CMS team, April 2021
 
 *What product & team are you doing this research for?*
 
-The goal of this study is to understand what kinds of needs, painpoints, or expectations exist among CMS editors that might impact the technical solution for accelerated publishing.
+The goal of this study is to understand what kinds of needs, painpoints, or expectations exist among CMS editors that might inform the technical solution for accelerated publishing.
 
 **Background**
 
