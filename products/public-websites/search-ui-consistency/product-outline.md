@@ -12,28 +12,33 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 ## Desired User Outcomes
 
 - A consistent UI is a better experience for Veterans, their caregivers, and their advocates as it allows them to form one mental model that carries across each tool that follows the same design pattern.
-- Consistent calls to actions (links, buttons, downloads) enables users to quickly recognize these elements as they are encountered on different tools, providing a more accessible experience for those with congnitive disabilities.
-- Users click on calls to action more frequently because they are easier to recognize on the page.
+- Consistent calls to actions (links, buttons, downloads) enable users to quickly recognize these elements as they are encountered on different tools, providing a more accessible experience for those with cognitive disabilities.
+- Users utilize calls to action more frequently because they are easier to recognize on each affected page.
 - Veterans, their caregivers, and their advocates are more quickly and easily able to access the content, forms, documents, facilities, or other resources they need.
 
 ## Undesired User Outcomes
 
-- Users don't click on calls to action because the iconography or labeling us unclear. 
-- Users don't click on calls to action because their designs do not stand out in the overall page design.
-- Users with disabilities are not afforded an accessible experience due to improperly labeled elements, lack of tags for aural browsers, improper use of elements, improper tagging, or the depednence on color for meaning.
+- Users don't click on calls to action because the iconography or labeling is unclear. 
+- Users don't click on calls to action because the designs do not stand out in the overall page design.
+- Users with disabilities are not afforded an accessible experience due to improperly labeled elements, lack of tags for aural browsers, improper use of elements, improper tagging, or the reliance upon color for meaning.
 - PDF downloads result in errors or confusing messages.
-
 
 ## Desired Business Outcomes
 
 - Veterans, their caregivers, and their advocates use the search tools more.
 - Veterans, their caregivers, and their advocates take advantage of the resources they are searching for.
 - Veterans, their caregivers, and their advocates are less likely to call for support.
+- VSP teams spend less time identifying and documenting accessibility and/or usability issues because they written in a manner that avoids these types of issues:
+     - [#18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)
+     - [#3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)
+     - [#13819](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13819)
+     - [#18395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18395)
+- VSA teams spend less time remediating accessibility and/or usability issues because compliance is already "baked in" when Engineers implement an approved component from the library
 
 
 ## Undesired Business Outcomes
-- Veterans, their caregivers, and their advocates lost trust and confidence in VA.gov search tools.
-- Veterans, their caregivers, and their advocates fail to click calls to action because they are unsure what will happen.
+- Veterans, their caregivers, and their advocates lose trust and confidence in VA.gov search tools after a call to action click produces unexpected results.
+- Veterans, their caregivers, and their advocates do not take desired actions because they are unsure what will result from clicking a CTA.
 - Veterans, their caregivers, and their advocates call in or visit a facility for assistance because they encounter an error or confusing message.
 - Veterans, their caregivers, and their advocates call in or visit a facility for assistance because their search does not yield clear calls to action.
 
