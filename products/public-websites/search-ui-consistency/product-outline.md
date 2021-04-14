@@ -19,7 +19,7 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 ## Undesired User Outcomes
 
 - Users don't click on calls to action because the iconography or labeling is unclear. 
-- Users don't click on calls to action because they are not highly visible within in the overall page design.
+- Users don't click on calls to action because they are not highly visible within the overall page design.
 - Users with disabilities are not afforded an accessible experience due to improperly labeled elements, lack of tags for screen readers, improper use of elements, improper tagging, or the reliance upon color for meaning.
 - PDF downloads result in errors or confusing messages.
 
