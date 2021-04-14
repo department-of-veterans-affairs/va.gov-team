@@ -1,4 +1,4 @@
-# Product Outline Template
+# Search UI Consistency Outline
 ---
 
 ## Overview
