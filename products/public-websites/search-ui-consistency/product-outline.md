@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-Currently, search tools such as the main Search page, Find a Form, Find a Yellow Ribbon School, Resources & Support, and Facility Locator all have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  A longer-range hope is that these new design elements will be incorporated into new search tools, and into existing tools as teams have the capacity to do so.
+Currently, search tools such as the main Search page, Find a Form, Find a Yellow Ribbon School, Resources & Support, and Facility Locator all have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  A longer-range hope is that these redesigned elements will be incorporated into new VA.gov search tools, and into existing tools as teams have the capacity to do so.
 
 ## Problem Statement
 Having an inconsistent UI style for each of the search tools creates confusion for Veterans. 
@@ -124,10 +124,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: John Hashimoto
+ - PM: Marci McGuire (Find a VA Form), Brian Lloyd (Resources & Support), Denise Coveyduc (Global Search)
+ - Engineering: Zach Morel (Find a VA Form), Nick
+ - Research/Design:  Cassandra Allen (Find a VA Form, Resources & Support), Megan Gayle (Global Search)
+
  
 </details>
 
