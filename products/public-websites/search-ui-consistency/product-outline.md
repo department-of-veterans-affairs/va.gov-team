@@ -80,20 +80,31 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
+ All products currently exist.
+
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+### External Communcation
+These changes should be seamless for end users. 
+
+### Internal Communication
+Internally, the following updates will be needed:
+     - Release plans will be created as each team does its own implentation for their respective product(s)
+     - 
+     - Each team will notify Contact Center of upcoming UI changes and update their product's Contact Center documentation and any uses cases that might be impacted. These communications will occur as each team implements the changes.
+     - Each team will work with QA to update screen shots in TestRail
+     - Each team implementing will notify its respective VA stakeholders of upcoming UI changes
 
 ## Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
   - tbd
-- Each team will implement UI changes as their own priorities and capacity allow.  They will also define their dates for measuring success based on those timelines.
+- Each team will implement UI changes as their own team priorities and capacity allow.  They will also define their dates for measuring success based on those timelines.
   - 
 ---
 
 ## Solution Narrative
-
+🚩
 ### Current Status
 
 ### Key Decisions
@@ -126,7 +137,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Label:  search-ui-consistency
 - Slack channel: vsa-unauth-portfolio, unless this extends to other areas of VA.gov
 - Product POCs:  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency
-- Stakeholders: 
+🚩- Stakeholders: 
 
 </details>
 
@@ -146,7 +157,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+🚩_What offices/departments are critical to make this initiative successful?_
  
 </details>
 
