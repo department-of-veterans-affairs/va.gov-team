@@ -39,14 +39,16 @@
 
 * Helpdesk vs Handholding balance for beta users
   * Should CMS helpdesk kickoff start
+* Onboarding users if needed (VBA)
+* Testing content (eg CLP for /campaign-mission-act) for analytics or users off the network
 
 ## Wednesday, April 14
 CLP
 * Audience tags
 * Analytics
-* Communication with 3 test groups
+* Communication with 3 test groups / On-boarding of MVP production users/launches)
   * JHL happy to hear that it's ready to go, will get back
-  * John Dimartino (VBA) will get back
+  * John Dimartino (VBA) will get back. Jessica, Tanekwa.
   * Tim Hudak @ VEO has something they would like to try with, possibly today. 
   * Lauren and Danielle talking to COVID joint task force about a possibility, may be the same as VHA (Vaccine hesitation). OCTO Content team might do the building for JTF.
 * Helpdesk vs Handholding balance
@@ -56,7 +58,6 @@ CLP
   * John and Brian will provide some feedback on the issue.
 * Feedback form
   * CMS team's UX will have a look at [issue #4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791) 
-* On-boarding of MVP production users/launches)
 
 
 ## Wednesday, April 6
