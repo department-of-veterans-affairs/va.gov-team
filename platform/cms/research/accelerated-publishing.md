@@ -26,6 +26,7 @@ Currently, the technical architecture that supports CMS content being pushed to 
 **Hypothesis**
 
 *What is your hypothesis for this research?*
+
 - A significant number of CMS editors expect the application to perform like commercial content publishing applications, such as Wordpress or even Facebook.
 - The current publishing delay is a problem for a significant number of editors working with timely content, such as banner alerts, news releases, or content related to a new policy.
 - The option to schedule publishing would greatly improve some editor's workflow and help them accomplish their content goals.
@@ -47,7 +48,7 @@ Participant criteria: What are you looking for in a participant?
 **User segments**
 In progress, [identified in this mural](https://app.mural.co/t/vagov6717/m/vagov6717/1617047958544/3dbc389b51891b47d460ae01860a0df4c3316433)
 
-**Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.)
+**Primary criteria / Must have** 
 
 - Represents a user segment identified above.
 - Is a current CMS editor who has experience publishing live VA.gov content as part of their job.
@@ -64,11 +65,22 @@ Solicit help from VA product owners identified in the segmentation section.
 When?
 
 ## Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
-- Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
-- Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-- Availability: If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
-- Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
+**Prepare:** When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
+Demo environment available immediately or staging environment if not available. 
+
+**Length of Sessions**
+30 minutes
+
+**Availability** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
+
+TBD
+
+**Pilot** 
+
+*Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?*
+
+TBD
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
