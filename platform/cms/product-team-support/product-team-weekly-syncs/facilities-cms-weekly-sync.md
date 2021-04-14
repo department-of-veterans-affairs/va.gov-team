@@ -23,14 +23,53 @@
 
 ## Wednesday April 14
 
-* Policies -> `target types`([Slack convo](https://dsva.slack.com/archives/C0FQSS30V/p1618337427209400))
-* Previewing content
-* Mobile Vet Centers
-* How's Tugboat going?
-* Tugboat and features flag for Policies page?
+Centralized content
+* ~Policies -> `target types`([Slack convo](https://dsva.slack.com/archives/C0FQSS30V/p1618337427209400))~
+  * As new paragraph types are added to a fetch field, our CI will catch this and CMS team will work with product team (pointing to Michael's work as an example) 
+
+Tugboat and previewing content
+* CORS issue: Fonts working now, but API calls to Facility.
+  * Tugboat URLs are dynamically generated and CORS can't whitelist all of them
+  * Michelle and Kevin will track down Ops issue, Dave could bump this.
+* Liquid template filter converting some links to target=_blank
+  * may be failing based on domain
+  * Michelle and Michael can reproduce and document this
+  * Dave: not a show-stopper
+
+Vet Centers
+* ~Mobile Vet Centers~ 
+* Breadcrumbs for Vet Center and VAMC
+  * Richmond Vet Center is showing as Richmond vet-center
+  * similar problems on VAMC product
+  * Kev to create issue to investigate Drupal as source of truth for breadcrumbs that do not have menu items, and send to Michelle and Mikki
+    * Examples: Events, News releases, all Vet Center content types, Stories, Staff profiles, other content types that don't typically have menu items.
+
+Policies
+* ~Tugboat and features flag for Policies page~
+
+VAMC
 * Documentation for VAMC menu / IA governance
-* Breadcrumbs for Vet Center
-* Default images for facilities?
+* ~Default images for facilities~
+* Unpublished facility health services are visible on va.gov if the system health service is published.
+  * CMS has issue for enforcing unique content
+  * Facilities team to filter out unpublished facility health service
+  * VAMC upgrade team to stop the bleeding on dupe content
+
+Phone number component in Drupal
+* Editors are adding "option 8" in the extension field
+* Michelle to create parent epic and Kevin to create a CMS issue that maps to it
+
+Past events page build failures
+* Current hypothesis (not confirmed yet): Archiving all past events
+* Next steps: 
+  * Kev and Steve to reproduce in Tugboat 
+    * using https://www.va.gov/erie-health-care/events/ for the past events issue
+    * and with a new/vanilla VAMC events page
+  * Clarify how this works with VAMC upgrade team.  
+* AC: 
+  * if no future events exist, events page says "no events"
+  * if no past events exist, past events page builds saying "no past events"
+  * if past events exist and then get archived, events page says "no events"
 
 
 ## Wednesday April 7
