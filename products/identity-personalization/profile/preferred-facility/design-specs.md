@@ -1,5 +1,6 @@
 # Health facilities
-`draft`
+
+`DRAFT`
 
 ## Relevant links
 
@@ -11,11 +12,9 @@
 
 This section of profile allows users to review and edit the list of facilities where they currently receive care.
 
-## When/where to show the notification preferences section
+## When/where to show the health facilities section
 
-**Show**
-
-- We will always show this section.
+- We will show this section to users who have VA health care.
 - Should appear in profile nav immediately after direct deposit (as shown in [desktop mock-ups](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i))
 
 ## Design 
