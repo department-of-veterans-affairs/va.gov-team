@@ -49,15 +49,15 @@
 What makes a successful Site Navigation experience?  
   ##### Opportunity/Pain Point (i.e. problems)
             1. Continuously patched up since it was first introduced and could merit a full engineering + design rewrite here soon. (Perhaps a combined                       effort with the Auth team to streamline this effort).
-            2. 
-            3.
+            2. Possible Design Audit, inconsistencies exist. Does the navigation currently work, does a better design/UX exist for Veterans. 
+            3. Risk exists on potentially working on this and begs the questions on if this is worth the effort into this once we find out what Veteran behaviors             are working on the page.  
   ##### Solution 
             1. 
             2. 
             3. 
   ##### Experiments/Tests 
-            1. 
-            2. 
+            1. Pull in analytics to see what we're tracking in terms of behavioral, who is using the navigational element, main menu.  
+            2. Stability - haven't had to work on the mega menu items for over 2 years.  
             3. 
 
 ## Benefit Hub Optimization: 
