@@ -425,7 +425,7 @@ FE
 **FE**
 
 - Launch to all users #23215
-- Figure out better error labeling for errors on the GA dashboard (Erik might already have
+- Figure out more specific error labeling for errors on the GA dashboard
 
 **BE**
 
