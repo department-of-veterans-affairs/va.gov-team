@@ -35,9 +35,13 @@
 
 </details>
 
-## Wednesday, April 13
-
-
+## Wednesday, April 14
+CLP
+* Audience tags
+* Analytics
+* Request form
+* Feedback form
+* On-boarding of MVP production users/launches)
 
 
 ## Wednesday, April 6
