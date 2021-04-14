@@ -71,11 +71,11 @@
 #### Static health care links
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-|Schedule and view your appointments|Any user with healthcare will show the static link- should go to VAOS tool|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|'You have X unread messages" or Send a secure message to your health care provider|Any user with healthcare will show the static link- should go to messaging in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|Refill and track your prescriptions|Any user with healthcare will show the static link- should go to prescriptions in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|View your VA medical records| Any user with healthcare will show the static link - should go to medical records content page |**36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
-|View your lab test results|Any user with healthcare will show the static link-should go to lab and test results content page| **36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)||
+|Schedule and view your appointments|Any user with healthcare will show the static link- should go to VAOS tool|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|pass|
+|'You have X unread messages" or Send a secure message to your health care provider|Any user with healthcare will show the static link- should go to messaging in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|error trying to connect mhv|
+|Refill and track your prescriptions|Any user with healthcare will show the static link- should go to prescriptions in MHV|**36**| [Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|error trying to connect mhv|
+|View your VA medical records| Any user with healthcare will show the static link - should go to medical records content page |**36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Failed, sends to wrong page [#23134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23134)|
+|View your lab test results|Any user with healthcare will show the static link-should go to lab and test results content page| **36**|[Link](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|error trying to connect mhv|
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 
@@ -90,7 +90,7 @@
 
 |Test case|Intended outcome|Staging User|Prototype link|Found issues|
 |----|----|----|----|----|
-User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**36**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|
+User is already enrolled in health care|User does NOT see "Learn how to apply for healthcare" link|**36**|[Has health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
 User is NOT enrolled in health care and has NEVER applied for healthcare|User sees "Learn how to apply for healthcare" link and blurb|**Tze to recreate using existing user**|[Applying for health care](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055980_My_VA_Health_Care)|
 User has started an application for healthcare for the first time, but has not finished the application|The health care blurb/link disappears and the health care application shows as an application in-progress |**Tze to recreate using existing user**|[User started health care application](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/449055979_My_VA_FTUX)|
 User HAS filed a claim|User sees "Learn how to file a claim for disability" link|**15**|[Has open claim](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/448032782_My_VA_Desktop_Everything)|Pass|
