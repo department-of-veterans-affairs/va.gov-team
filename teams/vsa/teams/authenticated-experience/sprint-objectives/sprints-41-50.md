@@ -384,6 +384,10 @@ FE
 
 ## Sprint 46 (4/21 - 5/4)
 
+### Profile
+
+- What do we have that's still outstanding here?
+
 ### My VA redesign
 
 Prep for QA!!
@@ -395,29 +399,64 @@ Prep for QA!!
   - Reviewing the feature
   - Making sure Tressa has reviewed the feature
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
-- Request QA for following sprint pending team's "go"
+- Request QA for following **second half of this sprint** pending team's "go"
+  - **Note**: This may get moved to sprint 47 pending Tze's availability re: the COVID-19 vaccine.
 - Assist Tressa in finishing contact center guide
 - Submit contact center guide for [contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md) once the contact center guide is done
 
 **Design**
 
 - Finish contact center guide
-- Review feature and give final sign off for QA
+- Attend QA go/no-go
 
 **FE**
 
 - Any updates as needed from pre-QA review
+- Attend QA go/no-go
 
 ### Direct deposit for edu
 
 **PM**
 
 - Launch to 100%
-- Confirm date of retirement of feature on eBenefits
+- Samara to confirm date of retirement of feature on eBenefits
+
+**FE**
+
+- Figure out better error labeling for errors on the GA dashboard
+
+**BE**
+
+- Look into high number of failed retrievals
 
 ### Preferred medical facility 
 
+**VAOS should be starting on design**
+
+**PM**
+
+- Start working with Liz on list of test cases/test users for the profile
+- Samara to talk to Lauren about KPI planning
+
+**Design**
+
+- Start working with AJ on list of test cases/test users for the profile
+- Collaborate with Peter as needed on design
+- Start on research plan (though we won't be able to finish this sprint)
+
 ### Notification preferences
+
+**PM**
+- Samara to do KPI planning
+- Check in with VA Profile on progress re: final list of MVP notifications
+
+**Design**
+
+- Start on research plan
+
+**FE**
+
+- Technical discovery
 
 ## Sprint 47 (5/5 - 5/18)
 
