@@ -71,7 +71,7 @@ Past events page build failures
   * if no future events exist, events page says "no events"
   * if no past events exist, past events page builds saying "no past events"
   * if past events exist and then get archived, events page says "no events"
-* Relevant Facilities issue #23258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23258)
+* Relevant Facilities issue [#23258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23258)
 
 VBA facilities
   * Lighthouse list (and therefore Drupal) is inaccurate
