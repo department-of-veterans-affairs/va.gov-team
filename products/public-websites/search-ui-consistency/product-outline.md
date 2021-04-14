@@ -89,7 +89,8 @@ These changes should be seamless for end users.
 ### Internal Communication
 Internally, the following updates will be needed:
      - Release plans will be created as each team does its own implentation for their respective product(s)
-     - 
+     - The [VA Content Style Guide](https://design.va.gov/content-style-guide/) will be updated to reflect the new search component designs
+     - The [VA Component Library](https://design.va.gov/components/) will be updated to reflect the new search component designs
      - Each team will notify Contact Center of upcoming UI changes and update their product's Contact Center documentation and any uses cases that might be impacted. These communications will occur as each team implements the changes.
      - Each team will work with QA to update screen shots in TestRail
      - Each team implementing will notify its respective VA stakeholders of upcoming UI changes
