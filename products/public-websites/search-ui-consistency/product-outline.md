@@ -88,8 +88,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 1. Creating consistency will build trust and improve users' perception about VA.gov, thereby increasing customer satisfaction.
-2. Making calls to action more visible will increase the chances of users clicking on calls to action thereby increasing click through rate.
-3. (MOST RISKY) Creating consistency will increase the liklihood that users will return to use the search tools again thereby increasing the percent of return users.  This is highest risk because it is possible that users need the tool for one specific instance and don't need to come back.
+2. Making calls to action more visible will increase the chances of users clicking on calls to action, thereby increasing click through rate.
+3. (MOST RISKY) Creating consistency will increase the liklihood that users will return to use the search tools again, thereby increasing the percent of return users.  This is highest risk because it is possible that users need the tool for one specific instance and don't need to come back.
 
 ## Solution Approach
 
