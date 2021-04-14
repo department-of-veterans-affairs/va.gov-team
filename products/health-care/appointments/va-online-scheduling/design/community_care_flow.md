@@ -53,7 +53,7 @@ Once released, users will be able to search for a provider based on their reside
 
 ![calendar_required](community-care-flow/provider_selection.png)
 
-## Language Selection Page (unreleased)
+## Language Selection Page
 
 ![calendar_required](community-care-flow/language_preference.png)
 
