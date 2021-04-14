@@ -386,7 +386,8 @@ FE
 
 ### Profile
 
-- What do we have that's still outstanding here?
+- AJ and Liz to break down #19562 into more manageable tickets
+- As time allows, Liz to start tackling said tickets
 
 ### My VA redesign
 
