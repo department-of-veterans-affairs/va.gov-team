@@ -7,7 +7,7 @@ VSA Product Teams need to provide Use Cases to VSA-QA for test-case development.
 - All Product-Team members:
   - **Product Managers** to plan & coordinate Use-Cases development work.
   - **Designers** to flesh out the Cases' general User journey, and develop supporting Design reference(s).
-  - **Front-End Engineers** to flesh out any UI-behavior/-flow differences between Cases.
+  - **Front-End Engineers** to assist Designer [as needed] in fleshing out any UI-behavior/-flow differences between Cases.
   - IF any Cases require authentication, **Back-End Engineers** to specify Staging test-accounts and develop supporting Staging-API mock-data.
 
 ## Use Cases are NOT Test Cases
