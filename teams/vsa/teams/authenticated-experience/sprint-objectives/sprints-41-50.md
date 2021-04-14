@@ -419,16 +419,17 @@ FE
 
 **PM**
 
-- Launch to 100%
+- Oversee launch to all users #23215
 - Samara to confirm date of retirement of feature on eBenefits
 
 **FE**
 
-- Figure out better error labeling for errors on the GA dashboard
+- Launch to all users #23215
+- Figure out better error labeling for errors on the GA dashboard (Erik might already have
 
 **BE**
 
-- Look into high number of failed retrievals
+- Look into why the failed retrieval rate is so high #23248
 
 ### Preferred medical facility 
 
@@ -458,7 +459,7 @@ FE
 
 **FE**
 
-- Technical discovery
+- Technical discovery #22597
 
 ## Sprint 47 (5/5 - 5/18)
 
