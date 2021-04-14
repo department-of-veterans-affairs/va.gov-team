@@ -43,18 +43,24 @@ Currently, the technical architecture that supports CMS content being pushed to 
 
 ## Participants and Recruitment
 Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
-Please list your participant criteria in two categories-
 
-Primary criteria / Must have - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.)
+**User segments**
+In progress, [identified in this mural](https://app.mural.co/t/vagov6717/m/vagov6717/1617047958544/3dbc389b51891b47d460ae01860a0df4c3316433)
 
-Secondary criteria / Would like to have - what other criteria would strengthen your results?
+**Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.)
 
-Pro tips for writing recruiting critera:
+- Represents a user segment identified above.
+- Is a current CMS editor who has experience publishing live VA.gov content as part of their job.
+- Can meet remotely
 
-If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc.
-What is your recruitment strategy? (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)
+**Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+
+-
+
+**What is your recruitment strategy?** 
+
+Solicit help from VA product owners identified in the segmentation section.
+
 When?
 
 ## Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
