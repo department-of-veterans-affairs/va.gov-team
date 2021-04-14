@@ -71,6 +71,12 @@ Past events page build failures
   * if no past events exist, past events page builds saying "no past events"
   * if past events exist and then get archived, events page says "no events"
 
+VBA facilities
+  * Lighthouse list (and therefore Drupal) is inaccurate
+  * Data cull just happened, field reported many inaccuracies
+  * Dave spoke with Alexis from Field operations about data, this will likely lead to throwing out what's in the CMS and starting from scratch. Big opportunities to build in crosslinks, hierarchies between content and facilities. 
+  * next steps: validate a one-pager about an approach, including naming conventions
+  * this will lead to Drupal being source of truth for Lighthouse and GeoBISL to consume, possibly with new unique identifiers to show hierarchies/relationships
 
 ## Wednesday April 7
 
