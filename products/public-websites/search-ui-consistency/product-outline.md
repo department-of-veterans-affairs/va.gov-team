@@ -28,7 +28,7 @@ In order to improve the UI style for Veterans we need to apply a clear and consi
 - Veterans, their caregivers, and their advocates use the search tools more.
 - Veterans, their caregivers, and their advocates take advantage of the resources they are searching for.
 - Veterans, their caregivers, and their advocates are less likely to call for support.
-- VSP teams spend less time identifying and documenting accessibility and/or usability issues because they written in a manner that includes affordances:
+- VSP teams spend less time identifying and documenting accessibility and/or usability issues because search elements are designed and written in a manner that includes affordances:
      - [#18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)
      - [#3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)
      - [#13819](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13819)
