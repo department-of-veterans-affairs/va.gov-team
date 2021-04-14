@@ -1,7 +1,5 @@
 # Use Cases
 
-**[WORK IN PROGRESS]**
-
 VSA Product Teams need to provide Use Cases to VSA-QA for test-case development.  Read about Use Cases in general, and follow the relevant best practices.
 
 ## Who should read this?
