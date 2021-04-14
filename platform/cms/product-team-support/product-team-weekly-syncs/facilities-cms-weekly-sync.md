@@ -44,6 +44,7 @@ Vet Centers
   * Kev to create issue to investigate Drupal as source of truth for breadcrumbs that do not have menu items, and send to Michelle and Mikki
     * Examples: Events, News releases, all Vet Center content types, Stories, Staff profiles, other content types that don't typically have menu items.
   * Relevant Facilities issue [#20922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20922)
+
 Policies
 * ~Tugboat and features flag for Policies page~
 
