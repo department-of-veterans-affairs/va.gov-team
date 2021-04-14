@@ -56,6 +56,8 @@ So far, we've encountered a few types of broken link causes:
 - Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
 - Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
 
+Tip:  A System Health Service is required for a Facility Health Service to exist.  Broken links can occur if this is not well.
+
 ## Contacting the author afterwards
 Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
 1. The page in question
