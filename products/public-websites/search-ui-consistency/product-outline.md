@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-Currently, search tools such as the main VA.gov Search page (https://www.va.gov/search/?query=search%20term), Find a VA Form (https://www.va.gov/find-forms/), Find a Yellow Ribbon School (https://www.va.gov/education/yellow-ribbon-participating-schools/), and Resources & Support (https://www.va.gov/resources/) have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  We also want to ensure that these changes are vetted by our Design, UI and Accessibility experts so that they inherently adhere to standards when implemented.  A longer-range goal is that these redesigned elements will be incorporated into new VA.gov search tools, as well as existing tools, as teams have the capacity to do so.   
+Currently, search tools such as the main [VA.gov Search page (https://www.va.gov/search/?query=search%20term), Find a VA Form (https://www.va.gov/find-forms/), Find a Yellow Ribbon School (https://www.va.gov/education/yellow-ribbon-participating-schools/), and Resources & Support (https://www.va.gov/resources/) have different UI styling. Our intent is to create UI consistency using the current style guide for all of the listed search tools.  We also want to ensure that these changes are vetted by our Design, UI and Accessibility experts so that they inherently adhere to standards when implemented.  A longer-range goal is that these redesigned elements will be incorporated into new VA.gov search tools, as well as existing tools, as teams have the capacity to do so.   
 
 ## Problem Statement
 Having an inconsistent UI style for each of the search tools creates confusion for Veterans. 
