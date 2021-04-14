@@ -103,8 +103,8 @@ Internally, the following updates will be needed:
   - 
 ---
 
-## Solution Narrative
-🚩
+## 🚩Solution Narrative
+
 ### Current Status
 
 ### Key Decisions
@@ -129,7 +129,7 @@ Internally, the following updates will be needed:
 
 ---
 
-#### Communications
+####🚩 Communications
 
 <details>
 
@@ -153,7 +153,7 @@ Internally, the following updates will be needed:
 </details>
 
 
-#### Stakeholders
+#### 🚩Stakeholders
 
 <details>
  
