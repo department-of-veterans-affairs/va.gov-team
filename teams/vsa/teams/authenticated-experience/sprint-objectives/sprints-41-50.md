@@ -390,7 +390,7 @@ FE
 
 ### My VA redesign
 
-Prep for QA!!
+**Prep for QA for sprint 47!!**
 
 **PM**
 
@@ -461,6 +461,10 @@ Prep for QA!!
 ## Sprint 47 (5/5 - 5/18)
 
 ### My VA redesign
+
+**QA**
+
+- Conduct QA
 
 ### Preferred medical facility 
 
