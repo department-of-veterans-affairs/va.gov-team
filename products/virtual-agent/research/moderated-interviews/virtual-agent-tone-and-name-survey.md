@@ -98,7 +98,7 @@ Please list the people who will be serving in each role. **Include the primary p
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md	
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
