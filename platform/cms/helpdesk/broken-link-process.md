@@ -55,7 +55,8 @@ So far, we've encountered a few types of broken link causes:
 - Content being published too soon by non-dual-state editors (so far, this is common, but recent changes to roles may make it uncommon): best fixed by determining content that may need to be Archived. we should be cautious about this, since archiving content that _should_ be published will make things worse instead of better. We should always notify users after the issue is corrected.
 - Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
 - Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
-
+- Whenever an issue involves a VA Medical Center that is in dual state, just entered dual state, or transitioned away from TeamSites to Drupal, the Slack channel #VSA-VAMC-Upgrade is a great place to ask a question or get direction.   The Product Manager, currently SG, is a good resource for questions related to new dual state or soon-to-be dual state Tickets.
+- 
 ## Contacting the author afterwards
 Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
 1. The page in question
