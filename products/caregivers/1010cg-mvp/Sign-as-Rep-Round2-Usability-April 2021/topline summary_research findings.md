@@ -4,9 +4,9 @@ We talked to 5 participants - 4 caregivers and 1 veteran.
 
 ## **Sign as Rep Feature**
 
-**TLDR; **This redesigned feature worked better than the previous round, although a small improvement can be made. How participants react to the review page and the new representative signature box did not have conclusive findings.
+**TLDR;** This redesigned feature worked better than the previous round, although a small improvement can be made. How participants react to the review page and the new representative signature box did not have conclusive findings.
 
-**Recommendation: **Keep the current design on the question and upload pages, but add a little more information about what "counts" as representative documentation and tweak the copy on the upload page. Consider running more sessions and/or thinking more about the review/signature page keeping in consideration that the prospective Caregiver might also be the POA.
+**Recommendation:** Keep the current design on the question and upload pages, but add a little more information about what "counts" as representative documentation and tweak the copy on the upload page. Consider running more sessions and/or thinking more about the review/signature page keeping in consideration that the prospective Caregiver might also be the POA.
 
 **Details**
 
@@ -30,7 +30,7 @@ We talked to 5 participants - 4 caregivers and 1 veteran.
 
 **TLDR;** These questions still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
 
-**Recommendation: ** Keep the new language, but pick up [this ticket ](https://app.zenhub.com/workspaces/vsa---caregiver-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372)soon to rethink both the structure and copy of the question pages, potentially combining them. 
+**Recommendation:** Keep the new language, but pick up [this ticket ](https://app.zenhub.com/workspaces/vsa---caregiver-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372)soon to rethink both the structure and copy of the question pages, potentially combining them. 
 
 **Details**
 
@@ -46,9 +46,9 @@ We talked to 5 participants - 4 caregivers and 1 veteran.
 
 ## **Veteran Medical Facility Page**
 
-**TLDR; **The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
+**TLDR;** The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
 
-**Recommendation: **Write a ticket to address the issues on this page. See if there is a way we can remove the first question from the form (It is currently not a required section). If not, provide clarity into why we need it and better copy / options.
+**Recommendation:** Write a ticket to address the issues on this page. See if there is a way we can remove the first question from the form (It is currently not a required section). If not, provide clarity into why we need it and better copy / options.
 
 **Details**
 
