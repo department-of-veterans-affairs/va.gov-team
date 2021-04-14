@@ -143,7 +143,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/files/3273454/VA.g
 https://github.com/department-of-veterans-affairs/digital-experience-products/issues/39
 
 - Google Translation Assessment: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/google-translate-assessment.md
-- 
+
 #### Epics
 
 - Enterprise Translation Recommendation: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/22379
