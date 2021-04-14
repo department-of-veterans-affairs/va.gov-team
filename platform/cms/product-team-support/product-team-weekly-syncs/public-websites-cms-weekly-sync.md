@@ -35,12 +35,27 @@
 
 </details>
 
+## April 21
+
+* Helpdesk vs Handholding balance for beta users
+  * Should CMS helpdesk kickoff start
+
 ## Wednesday, April 14
 CLP
 * Audience tags
 * Analytics
-* Request form
+* Communication with 3 test groups
+  * JHL happy to hear that it's ready to go, will get back
+  * John Dimartino (VBA) will get back
+  * Tim Hudak @ VEO has something they would like to try with, possibly today. 
+  * Lauren and Danielle talking to COVID joint task force about a possibility, may be the same as VHA (Vaccine hesitation). OCTO Content team might do the building for JTF.
+* Helpdesk vs Handholding balance
+  * Brian and John will strategize this
+  * CMS help desk team will hold off on CLP kickoff. 
+* [Request form](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4953)
+  * John and Brian will provide some feedback on the issue.
 * Feedback form
+  * CMS team's UX will have a look at [issue #4791](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4791) 
 * On-boarding of MVP production users/launches)
 
 
