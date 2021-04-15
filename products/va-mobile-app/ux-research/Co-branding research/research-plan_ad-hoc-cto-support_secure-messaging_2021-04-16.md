@@ -48,21 +48,21 @@ Individual groups of 10 that are A/B split between the branded and unbranded var
 
 ### E-mail to Participants
 
-Hello Research Participant. 
+Hello <<First Name>>, 
 
-You have been invited to participate in a card sort activity for the Department of Veterans Affairs. Feedback from users like you is crucial to help us build a better product.
+Thank you for agreeing to participate in a card sort activity for the Department of Veterans Affairs. Feedback from people like you is crucial to help us better meet the needs of Veterans and their families.
 
 Please follow the instructions below:
 
-1. Copy the following code: <<Code>>
-2. Click the survey link: <<Survey Link>>
-3. Start the survey. Under the "Code" field, please add the code you received in step 1.
-4. Once you have followed the instructions and finished the survey, no further action is needed.
+1. Click this link and complete the card sort activity. <<card-sort-link>>
+2. At the end of card sort activity there will be a place to enter a code. Come back to this email so you can copy and paste this code into the form. Code: <<participation-code>>
+3. Once you have followed the instructions, entered that code, and clicked the “Submit” button you’re finished and can close the window.
 
 Thank you again for all your support! Please feel free to reach out if you have any questions.
 
 Best,
 The VA Team
+
 
 ### When?
 
