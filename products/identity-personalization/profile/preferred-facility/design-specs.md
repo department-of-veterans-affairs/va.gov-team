@@ -17,6 +17,12 @@ This section of profile allows users to review and edit the list of facilities w
 
 ## Design 
 
+Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-mobile-inital-state.jpg)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-desktop-inital-state.png)
+
 ### Prototypes
 
 - Use prototype links above for latest versions of design.
@@ -31,12 +37,6 @@ This section of profile allows users to review and edit the list of facilities w
   ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/edit-button-spacing.png)
 
 - Everything else in this section pulls from existing patterns in profile or the VA design system.  There aren't any new spacing patterns (aside from above), components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
-
-Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-mobile-inital-state.jpg)
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-desktop-inital-state.png)
 
 ## Copy
 
