@@ -62,7 +62,7 @@ Let’s start with a few questions...
     -  *Successes:*
 - *(If didn't use VA.gov above at all...)* Could you please share a blank browser window in Zoom with me? I would like you to go to a specific website: VA.gov
   - Have you seen this website before? Have you used it before? 
-  - If so, when was the last time? 
+  - *If so:* When was the last time that you used it? 
     - Could you walk me through what you did when you last used it?
       -  *Task/goal:* 
       -  *Where started:*
@@ -70,7 +70,7 @@ Let’s start with a few questions...
       -  *Results:*
       -  *Pain points:*
       -  *Successes:*
-  - If haven't used this website before, why?
+  - *If haven't used this website before:* Why do you not use it?
       -  *didn't know about it / too hard to use / Other___________________
 
 ## Veteran Tasks
