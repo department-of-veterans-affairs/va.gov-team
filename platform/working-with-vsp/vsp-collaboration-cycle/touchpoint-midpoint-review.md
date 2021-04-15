@@ -1,5 +1,6 @@
 # Midpoint Review
-Did we recommend a Midpoint Review? If so, follow the below guidelines to get started.
+Did we recommend a Midpoint Review in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
+
 ## When should I request this touchpoint?
 When you have determined your initial solution approach and have prototypes or mockups ready for usability testing. Before you begin recruiting research participants and scheduling sessions.
 
