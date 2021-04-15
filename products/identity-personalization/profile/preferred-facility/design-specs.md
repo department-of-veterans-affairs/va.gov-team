@@ -16,11 +16,6 @@ This section of profile allows users to review and edit the list of facilities w
 - Should appear in profile nav immediately after direct deposit (as shown in [desktop mock-ups](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i))
 
 ## Design 
-Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-mobile-inital-state.jpg)
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-desktop-inital-state.png)
 
 ### Prototypes
 
@@ -37,6 +32,11 @@ Initial state, before a user has made any edits, desktop and mobile (use links a
 
 - Everything else in this section pulls from existing patterns in profile or the VA design system.  There aren't any new spacing patterns (aside from above), components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
 
+Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-mobile-inital-state.jpg)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-desktop-inital-state.png)
 
 ## Copy
 
@@ -48,7 +48,11 @@ Copy below `h1`:
 
 > These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/). You can edit this list at any time.
 
+FAQ below list:
 
+> How can I add a new facility?
+>
+> (Copy pending approval)
 
 ## States
 
