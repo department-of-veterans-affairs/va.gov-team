@@ -39,7 +39,7 @@ Before we start, I want to go over a few things:
 Let’s start with a few questions...
 
 - So where do you typically go to get information and benefits from the VA?
-  - (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / Other________________________)
+  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / Other________________________)*
 - Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
   - What did you want to do?
   - How did you get started?
