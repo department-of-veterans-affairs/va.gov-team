@@ -1,7 +1,5 @@
 # Health facilities
 
-`DRAFT`
-
 ## Relevant links
 
 - [Mobile prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006244/simulate/sitemap?mode=i)
@@ -26,8 +24,19 @@ This section of profile allows users to review and edit the list of facilities w
 
 ### Specs
 
-- Follow existing patterns for padding + margins from other parts of profile
-- Everything in this section pulls from existing patterns in profile or the VA design system.  There aren't any custom spacing patterns, components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
+- Follow existing patterns for padding + margins from other parts of profile.
+
+- I think this is a new pattern on desktop in that it's 2 columns (value + edit button) instead of 3 in other parts of profile (key + value + edit button).  Please keep 48px of distance between text and the edit button.
+
+  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/edit-button-spacing.png)
+
+- Everything else in this section pulls from existing patterns in profile or the VA design system.  There aren't any new spacing patterns (aside from above), components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
+
+Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-mobile-inital-state.jpg)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/facilities-desktop-inital-state.png)
 
 ## Copy
 
@@ -94,14 +103,20 @@ Display info alert immediately below `h1`, and nothing else.
 
 #### Copy
 
-(Still needs to be approved by content)
+> **We don’t have any current facilities for you in our records.**
+>
+> You may need to register at a facility. Contact your nearest VA facility’s registration office.
+>
+> [Find your nearest VA health facility.](https://www.va.gov/find-locations/)
 
 ### User has deselected all their facilities
 
-Display info alert in place of facility list
+Display copy in place of facility list + note.
 
-Mock-up
+[Mock-up](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138280156/simulate/sitemap?mode=i)
 
 #### Copy
 
-(Still needs to be approved by content)
+> You’re registered at [xx] facilities. But you don’t have any listed as your current facilities right now. You can edit this list to add your current facilities at any time.
+
+[xx] = number of registered facilites
