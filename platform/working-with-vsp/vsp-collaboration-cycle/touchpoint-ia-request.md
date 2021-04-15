@@ -1,6 +1,6 @@
 # Information Architecture (IA) Request
 
-Did we recommend an IA Request in the Collaboration Cycle kick-off issue? If so, follow the below guidelines to get started.
+Did we recommend an IA Request in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 The IA Request should be opened as soon as you receive a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed.  This ensures IA can be discussed and established as early as possible in the design process and allows time for collaboration with any other teams that are identified as needed support for static content and entry points such as Sitewide content or CMS. 
