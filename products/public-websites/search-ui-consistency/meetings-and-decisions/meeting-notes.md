@@ -26,6 +26,7 @@
     - Cassandra purposely picked the longest link 
     - Search term is one of the smallest thing on the page.
     - Cassandra will change the label to "Go to Online Tool"
+    - Point out that the online tool button shifts on hover
 - There is opportunity for these changes to be applied to Yellow Ribbon and other tools as teams have capacity/prioritize
    - Button on YR is green, doesn't have a search icon
 - Form intro inconsistency -  need feedback from Design review - should those be re-displayed when the results are shown?
