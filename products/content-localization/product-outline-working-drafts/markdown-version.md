@@ -150,24 +150,24 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 
 ## Solution Approach
 
-What are you going to build now, and why have you decided to start there? 
+- What are you going to build now, and why have you decided to start there? 
 
 We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
-Why this solution / approach over other solutions / approaches? 
+- Why this solution / approach over other solutions / approaches? 
 The short and mid-term approaches outlined above are the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a long-term solution.
 
-What have you explicitly decided to not include in this initial set of functionality, and why? 
+- What have you explicitly decided to not include in this initial set of functionality, and why? 
 - We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 - We will only support the short and mid-term approaches for a handful of critical pages since the approach we use is resource intensive and not sustainable
 - We wont support translations for non-content pages such as forms since is more complex and may require a different approach.
 
-How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
+- How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 
-What’s Next
+- What’s Next
 - Conduct stakeholder interviews (internal)
 - Research and engage with potential software partners and other agencies within the government
 - Develop a recommendation document that includes technical research and internal stakeholders needs
