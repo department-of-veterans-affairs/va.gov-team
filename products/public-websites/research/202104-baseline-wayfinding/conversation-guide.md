@@ -106,7 +106,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - What would you do next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
-  - 
+  
 ### Task X: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
 - Now that you've updated your bank information for disability compensation, you want your travel to medical appointments to be reimbursed by direct deposit, too. How could you set that up? 
@@ -118,7 +118,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
  
 ### Task X: [Update dependents] - 4 minutes
 
-- Let's pretend that you just got married. How would you tell the VA about your new spouse? (because it might increase your disability compensation) 
+- Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
   - *RECORD navigation: Sign in / Health care quadrant > Disability / VA Benefits & Health Care > Disability / Disability link below photos / Search / Other__________________________* 
 - What would you do next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
