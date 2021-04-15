@@ -28,7 +28,7 @@ This research is planned within the context of the Public Websites team and the 
 - What works well?
 - Are there any differences for desktop vs. mobile users?
 - Are there any differences for users of assistive technology?
-- Are there any differences for people who have cognitive issues, such as TBI or PTSD? **(DISCUSS this addition from Meg)**
+- Are there any differences for people who have cognitive issues, such as TBI or PTSD?
 - Are there any differences for people who have used VA.gov before vs. haven't used it?
 - Do Veterans read/notice/click/comment on the banner content on the home page?
 
@@ -51,7 +51,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 4 people who plan to use their laptop/desktop for the session
 - At least 4 people who plan to use their smartphone for the session
 - At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
-- At least 1 Veteran with cognitive issues such as TBI or PTSD **(DISCUSS this addition from Meg)**
+- At least 2 Veterans with a cognitive disability such as TBI or PTSD 
 
 ### Good to have for participants
 - At least 2 people who have never used the VA.gov website before
@@ -63,8 +63,6 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 1 person who lives in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
 - At least 1 person with a disability rating of 70% or greater
-- At least 1 person with a disability rating of 100% 
-  - **(DISCUSS Meg's suggestion to get people who are heavily reliant on VA for disability compensation, and who might have a cognitive disability)**
 - At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
