@@ -52,7 +52,7 @@ This use case is the simple happy path. A user has an appointment with a questio
 ### Expected Outcome
 The user would be able to access their "Not started" questionnaire from the [To Do section of the questionnaire manager page](https://zpl.io/aXlD9Yg), fill out the questionnaire, submit it, then the completed questionnaire would appear on the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-Wireframes of the page of the actual questionnaire:
+Wireframes of the page of the actual questionnaire (applies to every scenario where the user can fill out the questionnaire):
 1. Introduction (https://zpl.io/2yN8yep)
 2. Veteran information (https://zpl.io/2y4jW1J)
 3. Prepare for your appointment (https://zpl.io/amGKole)
