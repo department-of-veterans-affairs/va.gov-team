@@ -27,8 +27,7 @@ This research is planned within the context of the Public Websites team and the 
 - What pain points are there in terms of findability and usage?
 - What works well?
 - Are there any differences for desktop vs. mobile users?
-- Are there any differences for users of assistive technology?
-- Are there any differences for people who have cognitive issues, such as TBI or PTSD?
+- Are there any differences for people who have disabilities?
 - Are there any differences for people who have used VA.gov before vs. haven't used it?
 - Do Veterans read/notice/click/comment on the banner content on the home page?
 
@@ -43,15 +42,14 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
 ## Participants and Recruitment	
-Ask Perigean to recruit 20-24 people in order to get 12 completed sessions using the following criteria:
+Ask Perigean to recruit 20 people in order to get 12 completed sessions using the following criteria:
 
 ### Must have for participants
-- At least 5 Veterans
-- At least 2 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
-- At least 4 people who plan to use their laptop/desktop for the session
-- At least 4 people who plan to use their smartphone for the session
-- At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
-- At least 4 Veterans with a cognitive disability such as TBI or PTSD 
+- At least 6 Veterans
+- At least 3 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
+- At least 5 people who plan to use their computer for the session
+- At least 5 people who plan to use their smartphone for the session
+- At least 4 people with a disability rating of 70% or greater
 
 ### Good to have for participants
 - At least 2 people who have never used the VA.gov website before
@@ -62,24 +60,23 @@ Ask Perigean to recruit 20-24 people in order to get 12 completed sessions using
 - At least 1 person that has a college degree (to include officer Vets)
 - At least 1 person who lives in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 person with a disability rating of 70% or greater
 - At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
-- Have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
-- During the session, be willing to share a browser window showing VA.gov on their computer or mobile device 
-- Have a working microphone on their computer or a mobile device
+- Have a laptop/desktop or smartphone and be willing to be complete their interview on said laptop/desktop or smartphone
+- During the session, be willing to share a browser window showing VA.gov on their computer or smartphone 
+- Have a working microphone on their computer or smartphone
 - Have Zoom downloaded prior to the session and know how to share their screen
 
 ### Additional questions to ask in the screener
-- Do you have a smartphone or tablet? If yes, what type?
 - Have you used the VA.gov website before? 
   - If yes, how recently? 
-  - If yes, on what device(s)--laptop/desktop computer, tablet, or smartphone? 
+  - If yes, on what device(s)--computer, tablet, or smartphone? 
+- What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
 
 ## Timeline
-#### Desired Timeline: April 26-30, 2021 
+#### Desired Timeline: April 26 - May 4, 2021 
 One-hour sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
@@ -92,7 +89,10 @@ April 30, 2021 | Noon - 8:30 pm
 May 3, 2021 | Noon - 8:30 pm
 May 4, 2021 | Noon - 8:30 pm
 
-Pilot Session: April 22, 2021 | Time TBD
+Pilot Sessions | Time (EST)
+---------------|----------
+April 22, 2021 | TBD
+April 23, 2021 | TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
