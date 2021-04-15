@@ -12,10 +12,9 @@
 - Megan Gayle, Designer for S&D Team
 
 #### Notes
-- They will show the spreadsheet in the design intent review
-- Megan doesn't have all of the states in her comps
-- Point out the differences in the elements that they observed
-- They will also attach this to the design review ticket
+- Megan & Cassandra will show their spreadsheet in the design intent review to set stage for why this is needed
+- Megan doesn't have all of the states in her comps yet
+- Megan & Cassandra will point out the differences in the elements that they observed
 - Megan will share her comps first since it's global search
     - They are not showing the right rail because it's being discontinued
     - The green link text is consistent across Search.gov and cannot be modified.
@@ -27,11 +26,10 @@
     - Cassandra purposely picked the longest link 
     - Search term is one of the smallest thing on the page.
     - Cassandra will change the label to "Go to Online Tool"
-- They will upload to inVision and share that link in the request ticket.
-- There is opportunity for these changes to be applied to Yellow Ribbon
+- There is opportunity for these changes to be applied to Yellow Ribbon and other tools as teams have capacity/prioritize
    - Button on YR is green, doesn't have a search icon
-- Instructions on Find a VA Form - should those be re-displayed when the results are show?
-- Point out lack of consistency in collapsing elements into a menu
+- Form intro inconsistency -  need feedback from Design review - should those be re-displayed when the results are shown?
+- Also point out lack of consistency in collapsing elements into a menu on mobile
 - Intro text should still be displayed on Resources & Support when you initially land on the page
 - R&S Beta banner will display until it hits a certain level of content (75-80% search success rate)
 
