@@ -62,12 +62,10 @@ Let’s start with a few questions...
       -  *Pain points:*
       -  *Successes:*
   - *If haven't used this website before:* Why do you not use it?
-      -  *didn't know about it / too hard to use / ___________________
+      -  *didn't know about it / too hard to use / ___________________*
 
 ## Veteran Tasks
 Now I'm going to ask you to do a number of things that you may or may not have done before. Please do these tasks on your computer or phone as you normally might  if I weren't here. I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
-
-*NOTE TO REVIEWERS: I'm totally open to feedback on the specifics and the ordering of the tasks below, as well as which tasks to drop (given limited time). I tried to incorporate a variety of Veteran tasks that involve varying degrees of exploration of VA.gov. FYI: Text in italics is for the moderator only, not to be said aloud to the participant.*
 
 ### Task 1: [Message doctor] - 4 minutes
 
@@ -125,7 +123,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:* 
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability* 
-    - *Disability link below photos*
+    - *Disability link below photos > Change your VA direct deposit information*
     - *Search > direct deposit > Update Your Direct Deposit Information*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
@@ -154,11 +152,10 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you start?
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:*
-    - *Sign in*
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability*
     - *Disability link below photos*
-    - *Search*
+    - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
@@ -215,7 +212,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 ### Task X: [Go back to school] - 4 minutes
 
-- Pretend that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
+- Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
 - Is this something that you might do or be interested in doing?
 - Have you done this before?
 - How would you start?
