@@ -11,3 +11,4 @@
   - do they understand email/text is also available when they don't have a checkbox to click?
   - do they know how to add that information?
   - do they know how to get back to notification settings once they add info?
+- What words do people use to talk about or search for notification content?
