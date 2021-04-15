@@ -22,8 +22,8 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program   | The last segment of the breadcrumb should match the H1 of the page
-VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap-form-22-1990s | Home > Education and training > Other VA education benefits > Veteran Rapid Retraining Assistance Program > Apply for VRRAP VA Form 22-1990s |  
+Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > [static page H1]   | The last segment of the breadcrumb should match the H1 of the page
+VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap-form-22-1990s | Home > Education and training > Other VA education benefits > [static page H1] > [Form introduction page H1]  |  
 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
