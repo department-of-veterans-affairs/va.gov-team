@@ -72,27 +72,22 @@ Examples of **research with VA.gov users** include:
  - User surveys
  - Card sorting
 
-### Will your work impact content in the: (select all that apply)*
-- [ ] authenticated experience
+### Will your work impact any content in the: (select all that apply)
+- [ ] authenticated experience* 
 - [ ] unauthenticated experience (static content)
+- [ ] neither (no content changes)**
 
 *Please consider entry points may need to be updated. Entry points are often located on unauthenticated static content pages.
+\**Changes to content can include updating content on buttons, links, and labels, changes to headers, reordering content, adding new calls to action, alert boxes, expandable sections, or error messages.
 
-Examples of **not only static content** include:
+**Authenticated experience** is:
+ - Behind a login
  - Changes to a front-end Drupal template
- - Authenticated tools and applications
+ - Tools and applications
 
-Examples of **only static content** include:
- - VA.gov unathenticated static pages, VA Medical Centers (VAMCs), Vet Center pages
-
-### Are you making changes to content?
-- [ ] Yes
-- [ ] No
-
-Examples of **changes to content** include:
- - Migrating or creating a new form, tool, or page
- - Updating content on buttons, links, labels
- - Reordering content, adding new calls to action, alert boxes, expandable sections, or error messages
+**Unauthenticated experience** is:
+ - Not behind a login
+ - Examples include: VA.gov static pages, VA Medical Centers (VAMCs), Vet Center pages
 
 ### Are you making a change to the user flow?
 - [ ] Yes
@@ -114,7 +109,7 @@ Examples of **changes to url, navigation, or entry points** include:
 - [ ] Yes
 - [ ] No
 
-Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics support will still be provided.
+Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics tracking support will still be provided.
 
 ### If yes, then do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 - [ ] Yes
