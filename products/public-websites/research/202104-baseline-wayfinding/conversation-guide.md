@@ -148,6 +148,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 ### Task X: [Veteran ID] - 4 minutes
 
 - You have some home repairs to do, and you plan to buy tools and materials at your local Home Depot store. You heard that they give a discount for Veterans. How can you show that you're a Veteran? 
+  - *(if they say the already have a Veteran ID card:)* Suppose you didn't have such a card. How would you get one?
   - *RECORD navigation: Records quadrant > Get Veteran ID cards / VA Benefits & Health Care > Records > Get Veteran ID cards / Records link below photos / Search  / Other__________________________* 
 
 ### Task X: [Go back to school] - 4 minutes
