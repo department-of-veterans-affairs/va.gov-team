@@ -17,16 +17,16 @@ The full form name.
 
 #### Examples
 
-**Apply for VA education benefits (VA Form 22-1990)**
+**Apply for VA education benefits (VA Form 22-1990)** <br>
 Application for VA Education Benefits
 
-**Apply for the Rogers STEM Scholarship (VA Form 22-10203)**
+**Apply for the Rogers STEM Scholarship (VA Form 22-10203)** <br>
 Application for Edith Nourse Rogers STEM Scholarship
 
-**Request a Higher-Level Review (VA Form 20-0996)**
+**Request a Higher-Level Review (VA Form 20-0996)** <br>
 Decision Review Request: Higher-Level Review
 
-**File for Disability Compensation (VA Form 21-526EZ)**
+**File for Disability Compensation (VA Form 21-526EZ)** <br>
 Application for Disability Compensation and Related Compensation Benefits
 
 ### Alert
