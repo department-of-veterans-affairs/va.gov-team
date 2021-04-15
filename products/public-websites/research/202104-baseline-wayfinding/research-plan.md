@@ -9,7 +9,7 @@ Since the current VA.gov website was launched in 2018, there hasn't been much us
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
-- How do Veterans accomplish a list of 10 common tasks?
+- How do Veterans accomplish a list of common tasks?
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
@@ -26,7 +26,7 @@ This research is planned within the context of the Public Websites team and the 
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
 - What works well?
-- Are there any differences for desktop vs. mobile users?
+- Are there any differences for desktop vs. smartphone users?
 - Are there any differences for people who have disabilities?
 - Are there any differences for people who have used VA.gov before vs. haven't used it?
 - Do Veterans read/notice/click/comment on the banner content on the home page?
@@ -64,7 +64,7 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
-- Have a laptop/desktop or smartphone and be willing to be complete their interview on said laptop/desktop or smartphone
+- Have a computer or smartphone and be willing to be complete their interview on a computer or smartphone
 - During the session, be willing to share a browser window showing VA.gov on their computer or smartphone 
 - Have a working microphone on their computer or smartphone
 - Have Zoom downloaded prior to the session and know how to share their screen
@@ -101,7 +101,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	TBD
-- Note-takers:	Perigean
+- Notetakers:	Perigean
 - Observers:	Brian Lloyd (blloyd@governmentcio.com), Meg Peters (meg.peters@va.gov), John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Marci McGuire (mmcguire@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Cassandra Allen (callen@governmentcio.com), Kelson Adams (kadams@governmentcio.com), Nick Sullivan (nick.sullivan@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
  
 ## Resources	
