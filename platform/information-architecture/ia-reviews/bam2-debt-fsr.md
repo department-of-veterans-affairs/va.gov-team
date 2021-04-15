@@ -22,7 +22,7 @@
 - The online FSR will become another tool available within the "Manage VA Debt" experience.  The form will live as a child to the [Manage VA debt static page](www.va.gov/manage-va-debt/).
 - All content within the current www.va.gov/debtman/ experience will be migrated over.  Some content will be added to the existing [Manage VA debt static page](www.va.gov/manage-va-debt/), and other content will be moved/created within the [Resources and support experience](www.va.gov/resources/). 
 
-![image](https://user-images.githubusercontent.com/20994159/103928399-665a7500-50e1-11eb-9de6-eaa2ac09ea4d.png)
+![image](https://user-images.githubusercontent.com/20994159/114927810-82179a80-9df7-11eb-921a-17a1585d2b3c.png)
 
 
 Page | URL | Breadcrumb | Notes
