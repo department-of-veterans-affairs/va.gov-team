@@ -31,6 +31,8 @@ The following were considered but rejected for MVP
 | 2/18/2021 | Services will be alphabetized for MVP, despite research recommendation to Consider reordering services by priority, leading with Mental health. This could be a significant technical lift so it will be deferred until we have analytics on most frequently opened accordions and understand Drupal capabilities for determining order at facility type level (i.e. different sort orders for VHA vrs Vet Center |
 | 2/18/2021 | Will propose Veteran Connections rather than VA connections so referral to federal,state/local services (outside the VA) can also be listed |
 | 2/18/2022 | Will add home loan assistance and housing benefits bullet within VA/Veteran connections |
+| | Vocational rehabilitation and employment programs to be used only if delivered by VBA representative on site - otherwise, use Veteran connections |
+|| Recreational and creative arts therapy tpo be used only if delivered by qualified staff - otherwise, use Whole health |
 
 
 ### Other Vet Center product decisions
@@ -43,7 +45,7 @@ The following were considered but rejected for MVP
 | 1/6/2021 | We do not want to restrict list of services (ie: Psychology) available for use by Vet Centers but will want to encourage use of default list (TBD) |
 | 2/17/2021 | We will use Escanaba as the coded content prototype because it seems to have the great diversity of locations. This means the content will be entered by the Facilities/CMS teams (rather than by Escanaba staff) so we can use it to test the model. We will use the service content collected by Michelle during interviews with Outreach specialists |
 | 2/18/2020 | Need to add "back to top" feature to  help users traverse the length of pages more easily.  _Update: a new implementation exists in the design system and can be reused for Vet Centers)_|
-| 2/18/2021 | Will add "Appointments" accordion to the 'Prepare for your visit" section to provide another opportunity for Vet Centers to differentiate themselves from VA medical centers and to set realistic expectations for getting seen |
+| 2/18/2021 | Will add "Appointments" accordion to the 'Prepare for your visit" section to provide another opportunity for Vet Centers to differentiate themselves from VA medical centers and to set realistic expectations for being seen |
 | 2/18/2021 | Will not add map plotted with all are location at this time until we validate need |
 | 4/15/2021 | Will use expandable alert design to show operating status details for locations since there is no comprehensive status page or link to detail page |
 
