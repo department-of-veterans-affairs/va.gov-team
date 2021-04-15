@@ -24,7 +24,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -61,20 +61,24 @@ Let’s start with a few questions...
     -  *Pain points:*
     -  *Successes:*
 - *(If didn't use VA.gov above at all...)* Could you please share a blank browser window in Zoom with me? I would like you to go to a specific website: VA.gov
-  - Have you used this website before? 
+  - Have you seen this website before? Have you used it before? 
   - If so, when was the last time? 
-  - Could you walk me through what you did when you last used it?
-    -  *Task/goal:* 
-    -  *Where started:*
-    -  *Where else looked/tried:*
-    -  *Results:*
-    -  *Pain points:*
-    -  *Successes:*
+    - Could you walk me through what you did when you last used it?
+      -  *Task/goal:* 
+      -  *Where started:*
+      -  *Where else looked/tried:*
+      -  *Results:*
+      -  *Pain points:*
+      -  *Successes:*
+  - If haven't used this website before, why?
+      -  *didn't know about it / too hard to use / Other___________________
 
 ## Veteran Tasks
-Now I'm going to ask you to do a number of things that you may or may not have done before. Please try to do them on your computer/device. I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+Now I'm going to ask you to do a number of things that you may or may not have done before. Please try to do them as best you can on your computer/device. I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-### Task X: [Message doctor] - 3 minutes
+*NOTE TO REVIEWERS: I'm totally open to feedback on the specifics and the ordering of the tasks below. I tried to incorporate a variety of Veteran tasks that involve varying degrees of exploration of VA.gov. FYI: Text in italics is for the moderator only, not to be said aloud to the participant.*
+
+### Task X: [Message doctor] - 4 minutes
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
 - *(if they say call them, ask:)* Is there a way you might do it from VA.gov? 
