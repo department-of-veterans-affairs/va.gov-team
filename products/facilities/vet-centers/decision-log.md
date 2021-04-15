@@ -45,4 +45,5 @@ The following were considered but rejected for MVP
 | 2/18/2020 | Need to add "back to top" feature to  help users traverse the length of pages more easily.  _Update: a new implementation exists in the design system and can be reused for Vet Centers)_|
 | 2/18/2021 | Will add "Appointments" accordion to the 'Prepare for your visit" section to provide another opportunity for Vet Centers to differentiate themselves from VA medical centers and to set realistic expectations for getting seen |
 | 2/18/2021 | Will not add map plotted with all are location at this time until we validate need |
+| 4/15/2021 | Will use expandable alert design to show operating status details for locations since there is no comprehensive status page or link to detail page |
 
