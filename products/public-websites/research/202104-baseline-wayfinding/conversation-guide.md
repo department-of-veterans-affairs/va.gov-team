@@ -83,14 +83,6 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
  
-### Task X: [Refill prescription] - 4 minutes
-
-- You just realized that you're running out of a prescription that you take regularly. How would you get more?
-  - *RECORD navigation: Health care quadrant > Refill track Rx / VA Benefits & Health Care > Health care > Refill track Rx / Health care link below photos / Search / Other__________________________*- 
-- What would you do next?
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
-  
 ### Task X: [Track claim status] - 4 minutes
 
 - Say that you've already applied for disability compensation, and you want to find out if your claim has been approved. What could you do?
@@ -99,10 +91,10 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
   
-### Task X: [Go back to school] - 4 minutes
+### Task X: [Appoint a representative to help with your claim--Find form] - 4 minutes
 
-- Pretend that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
-  - *RECORD navigation: Education quadrant > Apply for Educ Benefits / VA Benefits & Health Care > Educ & training / Educ & training link below photos / Search / Other__________________________*
+- Pretend that you just found out that your disability claim was denied and you want to appeal. You know someone who has agreed to help you with that. How would you find the form to fill out to say that you want that person to be your representative?
+  - *RECORD navigation: VA Forms link in footer > search "representative" / Search / Other__________________________*
 - What would you do next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
@@ -115,7 +107,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
   - 
-### Task X: [Travel reimbursement direct deposit] - 4 minutes
+### Task X: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
 - Now that you've updated your bank information for disability compensation, you want your travel to medical appointments to be reimbursed by direct deposit, too. How could you set that up? 
   - *RECORD navigation: Search "direct deposit" / Resources and Support / Other__________________________* 
@@ -141,11 +133,27 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
 
+### Task X: [Refill prescription] - 4 minutes
+
+- You just realized that you're running out of a prescription that you take regularly. How would you get more?
+  - *RECORD navigation: Health care quadrant > Refill track Rx / VA Benefits & Health Care > Health care > Refill track Rx / Health care link below photos / Search / Other__________________________*- 
+- What would you do next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
+  
 ### Task X: [Veteran ID] - 4 minutes
 
 - You have some home repairs to do, and you plan to buy tools and materials at your local Home Depot store. You heard that they give a discount for Veterans. How can you show that you're a Veteran? 
   - *RECORD navigation: Records quadrant > Get Veteran ID cards / VA Benefits & Health Care > Records > Get Veteran ID cards / Records link below photos / Search  / Other__________________________* 
 
+### Task X: [Go back to school] - 4 minutes
+
+- Pretend that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
+  - *RECORD navigation: Education quadrant > Apply for Educ Benefits / VA Benefits & Health Care > Educ & training / Educ & training link below photos / Search / Other__________________________*
+- What would you do next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
+  
 ### Task X: [Home Loan] - 4 minutes
 
 - Pretend that you're considering buying a new home. How can the VA help?
