@@ -313,3 +313,18 @@ Using a single, multilingual CMS (e.g. Drupal, Joomla, WordPress) to manage tran
 Using an RSS translator to import content to a platform where entries can be translated into other languages. Translations are then made available in a separate RSS feed.
 Which approach is best depends on the type of site you run, how many articles you post per day, and how important it is for multilingual content to be integrated with your primary website or language.
 
+Multilingual Content Management Systems
+
+Another approach is to use a multilingual CMS, such as Drupal, Joomla, or WordPress. These systems allow a single post to be associated with translations, which in turn can be displayed adjacent to the original post, or when the user switches to a different language using a language selection menu on the home page.
+
+These translations are not generated automatically, so you need people to create them, and you need to have a system for notifying translators of new articles and changes to articles which have already been translated.
+
+Some CMSs, Drupal especially, are designed to support translations in the core system. This means you can "skin" a post in any number of languages. You might write the original post in English, and then create many child documents in other languages, which the system treats as translations of the original post. So when the user switches the user interface to German, he will see German versions of posts and pages, if they are available.
+Sample Multilingual Publishing Workflow
+
+There are many content management systems and many different plugins for each system that allow you to publish, manage, and organize content in multiple languages. What follows is a sample workflow using WordPress (http://wordpress.org) as a content management system and WPML (http://wpml.org/) as a plugin to manage translations. A guide to WordPress is available at http://en.flossmanuals.net/wordpress.
+
+Setting Up A Parallel Site
+
+If you are building a fairly simple site, with a relatively low volume of posts, and expect other languages to be a minority of your audience, the best approach is to set up a parallel, sister site for each language you seek to support. For example Yoani Sánchez is a popular Cuban blogger who writes in Spanish at http://www.desdecuba.com/generaciony/.  Many of her readers have volunteered to translate her blog posts into over a dozen other languages. Those translations are published on parallel blogs. For example, Japanese translations of Yoani's posts are available at http://desdecuba.com/generaciony_jp/.
+
