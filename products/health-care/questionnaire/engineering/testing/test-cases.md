@@ -148,4 +148,4 @@ This questionnaire should not appear anywhere on the questionnaire manager.
 A user has an upcoming appointment that does not have a questionnaire.
 
 ### Expected Outcome
-This questionnaire should not appear anywhere on the questionnaire manager.
+No questionnaire should not appear anywhere on the questionnaire manager for this appointment.
