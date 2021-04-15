@@ -22,7 +22,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Upcoming Capabilities](#upcoming-capabilities)
 - [See Who We Are Working With](#See-Who-We-Are-Working-With)
 - [Recent Successes](#recent-successes)
-- [Find Out More & Get In Touch With Us](#find-out-more-and-get-in-touch-with-us)
+- [Find Out More & Get In Touch With Us](#find-out-more-&amp;-get-in-touch-with-us)
 - [Incident Response](#incident-response)
 _____________________________________________________________________________________________________________________________________________________________
 
@@ -112,7 +112,7 @@ This is how we track the business lines that are reaching out to us, their parti
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
-## Find Out More and Get In Touch With Us
+## Find Out More & Get In Touch With Us
 * Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+miabecker&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
 * Slack - #va-notify
 
