@@ -9,23 +9,25 @@ Since the current VA.gov website was launched in 2018, there hasn't been much us
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
-- How do Veterans accomplish a list of top 10 tasks?
+- How do Veterans accomplish a list of 10 common tasks?
   - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
-    - Search (in header)?
-    - Benefit Hubs (mega-menu dropdowns)?
+    - Search (in header)
+    - Benefit Hubs (mega-menu dropdowns)
     - Other header links (About VA, Find a VA Location, Contact us)
-    - 4 white quadrants? 
-    - Topics below the photos? 
-    - 3 red/blue buttons below the topics? 
+    - 4 white quadrants
+    - Topics below the photos
+    - 3 red/blue buttons below the topics
     - Links below the 3 red/blue buttons
-    - Footer links? 
-    - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
+    - Footer links 
+    - Resources & Support
+    - Find a Form
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
 - What works well?
 - Are there any differences for desktop vs. mobile users?
+- Are there any differences for users of assistive technology?
 - Are there any differences for people who have used VA.gov before vs. haven't used it?
 - Do Veterans read/notice/click/comment on the banner content on the home page?
 
@@ -60,7 +62,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 1 person who lives in a major metropolitan area
 - At least 1 person with a disability rating of 70% or greater
 - At least 1 person with a disability rating of 100% 
-  - (DISCUSS, per Meg's suggestion to get people heavily reliant on VA for disability compensation, might have a cognitive disability)
+  - (DISCUSS, per Meg's suggestion to get people who are heavily reliant on VA for disability compensation, and who might have a cognitive disability)
 - At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
@@ -71,10 +73,10 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - Have Zoom downloaded prior to the session and know how to share their screen
 
 ### Additional questions to ask in the screener
-- Do you have a mobile phone or tablet? If yes, what type?
+- Do you have a smartphone or tablet? If yes, what type?
 - Have you used the VA.gov website before? 
   - If yes, how recently? 
-  - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
+  - If yes, on what device(s)--laptop/desktop computer, tablet, or smartphone? 
 
 ## Timeline
 #### Desired Timeline: April 26-30, 2021 
