@@ -24,7 +24,7 @@
     - I'll be curious of Josh's feedback on the hover.
     - Cristabell provided the icons.
     - Cassandra purposely picked the longest link 
-    - Search term is one of the smallest thing on the page.
+    - Search term is one of the smallest thing on the page. Any latitude to make the title link smaller so it's not so overwhelming?
     - Cassandra will change the label to "Go to Online Tool"
     - Point out that the online tool button shifts on hover
 - There is opportunity for these changes to be applied to Yellow Ribbon and other tools as teams have capacity/prioritize
