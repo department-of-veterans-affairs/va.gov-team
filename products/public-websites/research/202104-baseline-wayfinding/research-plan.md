@@ -51,7 +51,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 4 people who plan to use their laptop/desktop for the session
 - At least 4 people who plan to use their smartphone for the session
 - At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
-- At least 1 person with cognitive issues such as TBI or PTSD **(DISCUSS this addition from Meg)**
+- At least 1 Veteran with cognitive issues such as TBI or PTSD **(DISCUSS this addition from Meg)**
 
 ### Good to have for participants
 - At least 2 people who have never used the VA.gov website before
