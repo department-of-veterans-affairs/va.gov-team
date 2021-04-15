@@ -15,7 +15,7 @@ Maximum character count, with spaces: 70
 The full form name. <br>
 **Note:** We're no longer using "Equal to"
 
-#### Examples
+### Examples
 
 **Apply for VA education benefits (VA Form 22-1990)** <br>
 Application for VA Education Benefits
