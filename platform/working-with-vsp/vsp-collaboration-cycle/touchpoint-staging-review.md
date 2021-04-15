@@ -1,5 +1,5 @@
 # Staging Review
-Did we recommend a Staging Review? If so, follow the below guidelines to get started.
+Did we recommend a Staging Review in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 Before you begin launch, allowing enough time to implement feedback. This will vary depending on the size of your product.
