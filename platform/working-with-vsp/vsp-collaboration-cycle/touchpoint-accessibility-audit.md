@@ -1,6 +1,6 @@
 # Full Accessibility and 508 Office Audit
 
-Did we recommend a Full Accessibility and 508 Office Audit? If so, follow the below guidelines to get started.
+Did we recommend a Full Accessibility and 508 Office Audit in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 
