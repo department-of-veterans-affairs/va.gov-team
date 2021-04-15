@@ -259,3 +259,57 @@ Cloud-based technology stores, tracks and manages multilingual content across di
 
 Cloud-based translation is continuous translation with no down time — unless, again, the internet goes down. Content that is constantly changing needs a dynamic and agile tool to keep up with the increasing demand for round-the-clock translation and distribution.
 A cloud-based translation platform may give companies more control over their content, and keeps corporate information in a single native environment.
+
+Categories that localization tools fall into include:
+
+- Computer-assisted translation (CAT) tools
+They enable a translator to reuse previously translated content from old projects in new projects. This allows them to translate a high volume of words in a shorter amount of time while maintaining a high level of quality through terminology and style consistency. This is especially handy for localization, as text in a lot of software and web UIs is often the same across platforms and applications. CAT tools are standalone pieces of software though, requiring translators that use them to work locally and merge to a central repository.
+
+
+Machine translation (MT) engines
+MT engines automate the transfer of text from one language to another. MT is broken up into three primary methodologies: rules-based, statistical, and neural (which is the new player). 
+
+Translation management systems (TMS)
+Most TMS tools aim to automate many manual parts of the localization process by including version control system (VCS) integrations, cloud services integrations, project reporting, as well as the standard translation memory and terminology recall features. These tools are most amenable to community localization or translation projects, as they allow large groups of translators and reviewers to contribute to a project. Some also use a WYSIWYG editor to give translators context for their translations. This added context improves translation accuracy and cuts down on the amount of time a translator has to wait between doing the translation and reviewing the translation within the user interface.
+
+
+Terminology management tools
+Localization automation tools
+Localization automation tools facilitate the way you process localization data. This can include text extraction, file format conversion, tokenization, VCS synchronization, term extraction, pre-translation, and various quality checks over common localization standard file formats. In some tool suites, like the Okapi Framework, you can create automation pipelines for performing various localization tasks. This can be very useful for a variety of situations, but their main utility is in the time they save by automating many tasks. They can also move you closer to a more continuous localization process.
+
+Tools to check out
+
+Okapi Framework
+Mojito
+
+
+Translation
+When we use the term "translation" in everyday speech, we typically mean that content in one language is rendered in another so that speakers of the second language can understand it. This usage is quite broad and covers everything from real-time interpretation of the spoken word to translation of a novel for publication in another language.
+
+
+Localisation
+The Localisation Industry Standards Association (LISA) defines localisation as "the process of modifying products or services to account for differences in distinct markets".   Thus it would entail adapting, translating and customising a product for a specific market. This would involve dealing with a specific locale or cultural conventions. By locale, we mean conventions such as sort order, keyboard layout, date, time, number and currency format.
+
+The Difference between Translations and Localisation
+
+Localisation might seem identical or similar to translation. However, the process of localisation is much broader than simply translation. Localisation should ensure that the product provides the local user with the correct local "look-and-feel" while they interact with the product.
+
+
+Aspects of Localisation
+
+Here is a list of some of items that are considering in localisation:
+
+Translation of the product's interface and documentation
+Colours, images, graphics and icons: adapting to cultural and legal requirements
+Rendering (can we display the text correctly, does the new text fit inside the allocated space), fonts (do we have fonts and characters for the language), bi-directional text needed in Arabic and other languages.
+Locale data: how to display dates, time, number, currency and other regional data.
+
+
+Because of this publishers take several different approaches when building multilingual sites. Among the strategies they use are:
+
+Adding automated links to machine translation versions of your content.
+Building separate, parallel sites for each individual language.
+Using a single, multilingual CMS (e.g. Drupal, Joomla, WordPress) to manage translations of original articles.
+Using an RSS translator to import content to a platform where entries can be translated into other languages. Translations are then made available in a separate RSS feed.
+Which approach is best depends on the type of site you run, how many articles you post per day, and how important it is for multilingual content to be integrated with your primary website or language.
+
