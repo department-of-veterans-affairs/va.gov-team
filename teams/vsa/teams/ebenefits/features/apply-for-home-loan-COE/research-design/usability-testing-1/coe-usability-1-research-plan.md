@@ -9,7 +9,7 @@
 
 #### Background
 
-Veterans and service members (and survuving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
+Veterans and service members (and surviving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
 
 There are several ways a Veteran or service member can apply for and receive a COE. The online Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
 
@@ -20,7 +20,7 @@ The goal of this usability study is to assess how easily participants locate and
 #### Guiding questions
 - Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
 - What barriers prevent users from easily applying for a COE?
-- Where does confusing language prevent users from undersanding the form?
+- Where does confusing language prevent users from understanding the form?
 - Where (on VA.gov) do users expect to find their COE after it has been granted?
 - What other features would help users when they apply for a COE?
 
@@ -36,9 +36,9 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Remot
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
-- The user will be aked to navigate to VA.gov 
+- The user will be asked to navigate to VA.gov 
 - The moderator will outline a scenario (use case) for the participant to follow
-- The participant will aske to locate the COE feature
+- The participant be will asked to locate the COE feature
 - After a brief period exploring a path to the COE tool, the users will be provided a link to the COE prototype
 - The user will potentially proceed through review of the form intro and on to complete the form itself
 - There will be a quick Q/A and wrap-up
