@@ -144,23 +144,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
  
-### Task X: [Update dependents] - 4 minutes
-
-- Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
-    - *Health care quadrant > Disability*
-    - *VA Benefits & Health Care > Disability*
-    - *Disability link below photos*
-    - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
-  
-### Task X: [Find a VA location] - 4 minutes
+### Task 6: [Find a VA location] - 4 minutes
 
 - I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
 - Is this something that you might do or be interested in doing?
@@ -177,7 +161,23 @@ Now I'm going to ask you to do a number of things that you may or may not have d
  How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
 
-### Task X: [Get medical records] - 4 minutes
+### Task 7: [Update dependents] - 4 minutes
+
+- Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
+- Is this something that you might do or be interested in doing?
+- Have you done this before?
+- How would you start?
+- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+  - *RECORD navigation:*
+    - *Health care quadrant > Disability*
+    - *VA Benefits & Health Care > Disability*
+    - *Disability link below photos*
+    - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
+- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
+  
+### Task 8: [Get medical records] - 4 minutes
 
 - You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
 - Is this something that you might do or be interested in doing?
@@ -193,7 +193,23 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
 
-### Task X: [Veteran ID] - 4 minutes -- GET DIFFERENT TASK RE LETTERS FROM BRIDGET? 
+### Task 9: [Go back to school] - 4 minutes
+
+- Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
+- Is this something that you might do or be interested in doing?
+- Have you done this before?
+- How would you start?
+- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+  - *RECORD navigation:*
+    - *Education quadrant > Apply for Educ Benefits* 
+    - *VA Benefits & Health Care > Educ & training*
+    - *Educ & training link below photos*
+    - *Search*
+- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
+  
+### Task 10: [Veteran ID] - 4 minutes -- REPLACE WITH DIFFERENT TASK ABOUT LETTERS? 
 
 - You have some home repairs to do, and you plan to buy tools and materials at your local Home Depot store. You heard that they give a discount for Veterans. How can you show that you're a Veteran? 
 - Is this something that you might do or be interested in doing?
@@ -210,23 +226,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
 
-### Task X: [Go back to school] - 4 minutes
-
-- Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
-    - *Education quadrant > Apply for Educ Benefits* 
-    - *VA Benefits & Health Care > Educ & training*
-    - *Educ & training link below photos*
-    - *Search*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
-  
-### Task X: [Home Loan] - 4 minutes
+### Task 11: [Home Loan] - 4 minutes
 
 - Pretend that you're considering buying a new home. How can the VA help?
 - Is this something that you might do or be interested in doing?
