@@ -43,6 +43,11 @@
 
 ## To-Dos
 
+- [ ] Add brief expected-outcomes
+- [ ] Add specific design-prototype links
+- [ ] Add access-instruction(s) w/ test-usernames but NOT passwords
+- [ ] [VSA-QA] Add TestRail test-case links
+
 ## Test Case : Upcoming Appointment, Questionnaire needs to be filled out
 
 ### Description / Use case
