@@ -46,7 +46,23 @@ Recruiting through Perigean.
 
 Individual groups of 10 that are A/B split between the branded and unbranded variants.
 
+### E-mail to Participants
 
+Hello Research Participant. 
+
+You have been invited to participate in a card sort activity for the Department of Veterans Affairs. Feedback from users like you is crucial to help us build a better product.
+
+Please follow the instructions below:
+
+1. Copy the following code: <<Code>>
+2. Click the survey link: <<Survey Link>>
+3. Start the survey. Under the "Code" field, please add the code you received in step 1.
+4. Once you have followed the instructions and finished the survey, no further action is needed.
+
+Thank you again for all your support! Please feel free to reach out if you have any questions.
+
+Best,
+The VA Team
 
 ### When?
 
