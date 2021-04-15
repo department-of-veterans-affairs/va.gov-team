@@ -1,5 +1,5 @@
 # Analytics Request
-Did we recommend an Analytics Request? If so, follow the below guidelines to get started.
+Did we recommend an Analytics Request in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 After you have defined your KPIs and are determining which user interactions would be beneficial to track before you build your product/application.
