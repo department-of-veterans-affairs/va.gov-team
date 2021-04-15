@@ -167,6 +167,13 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
   
+### Task X: [Get medical records] - 4 minutes
+
+- You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
+  - *RECORD navigation: VA Benefits & Health Care > Records > Get your VA medical records / Records quadrant > Get your VA medical records / Records link below photos / Search / Other__________________________* 
+- What would you do next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
 
 ## Post-Task Interview - 5 minutes
 
