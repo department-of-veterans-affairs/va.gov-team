@@ -1,5 +1,5 @@
 # Research Plan Review
-Did we recommend a Research Plan Review? If so, follow the below guidelines to get started.
+Did we recommend an Research Plan Review in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 A week before you plan to conduct user research.
