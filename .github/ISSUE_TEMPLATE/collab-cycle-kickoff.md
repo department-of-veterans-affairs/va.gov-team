@@ -74,7 +74,7 @@ Examples of **research with VA.gov users** include:
 
 ### Will your work impact any content in the: (select all that apply)
 - [ ] authenticated experience* 
-- [ ] unauthenticated experience (static content)
+- [ ] unauthenticated experience
 - [ ] neither (no content changes)**
 
 *Please consider entry points may need to be updated. Entry points are often located on unauthenticated static content pages.
@@ -87,6 +87,7 @@ Examples of **research with VA.gov users** include:
 
 **Unauthenticated experience** is:
  - Not behind a login
+ - 
  - Examples include: VA.gov static pages, VA Medical Centers (VAMCs), Vet Center pages
 
 ### Are you making a change to the user flow?
