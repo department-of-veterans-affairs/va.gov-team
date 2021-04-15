@@ -43,7 +43,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
 ## Participants and Recruitment	
-Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using the following criteria:
+Ask Perigean to recruit 20-24 people in order to get 12 completed sessions using the following criteria:
 
 ### Must have for participants
 - At least 5 Veterans
@@ -51,7 +51,7 @@ Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using
 - At least 4 people who plan to use their laptop/desktop for the session
 - At least 4 people who plan to use their smartphone for the session
 - At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
-- At least 2 Veterans with a cognitive disability such as TBI or PTSD 
+- At least 4 Veterans with a cognitive disability such as TBI or PTSD 
 
 ### Good to have for participants
 - At least 2 people who have never used the VA.gov website before
@@ -84,11 +84,13 @@ One-hour sessions with at least **30-minute breaks** in between
 
 Team Availability | Time (EST)
 ------------------|--------------
-April 26, 2021 | Noon - 8 pm
-April 27, 2021 | Noon - 8 pm
-April 28, 2021 | Noon - 3 pm, 5 - 8 pm
-April 29, 2021 | Noon - 8 pm 
-April 30, 2021 | Noon - 8 pm
+April 26, 2021 | Noon - 8:30 pm
+April 27, 2021 | Noon - 8:30 pm
+April 28, 2021 | Noon - 3 pm, 5 - 8:30 pm
+April 29, 2021 | Noon - 8:30 pm 
+April 30, 2021 | Noon - 8:30 pm
+May 3, 2021 | Noon - 8:30 pm
+May 4, 2021 | Noon - 8:30 pm
 
 Pilot Session: April 22, 2021 | Time TBD
 
