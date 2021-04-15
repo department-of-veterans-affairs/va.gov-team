@@ -14,11 +14,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to ask you some questions about chatbots, your experience with them in general, and what you might expect from one from the VA. 
