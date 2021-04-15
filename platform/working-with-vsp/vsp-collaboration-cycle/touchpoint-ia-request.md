@@ -1,12 +1,12 @@
 # Information Architecture (IA) Request
 
-Did we recommend an IA Request? If so, follow the below guidelines to get started.
+Did we recommend an IA Request in the Collaboration Cycle kick-off issue? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
-After you have received a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed. 
+The IA Request should be opened as soon as you receive a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed.  This ensures IA can be discussed and established as early as possible in the design process and allows time for collaboration with any other teams that are identified as needed support for static content and entry points such as Sitewide content or CMS. 
 
 ## What is the collaboration format?
-Asynchronous collaboration and review
+Asynchronous collaboration and review. 
 
 ## What is the objective of this touchpoint?
 Collaborate with VSP’s Information Architect to finalize where your product/feature will live within the overall VA.gov IA. This includes reviewing entry points, user flows, breadcrumbs, URL, and other key details before developing in staging. 
