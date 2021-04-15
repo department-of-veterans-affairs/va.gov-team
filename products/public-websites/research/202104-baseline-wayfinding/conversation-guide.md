@@ -248,7 +248,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - What would you like to *change* about the VA.gov website?
 - Is there anything else that we haven't talked about that you think I should know? 
 
-## Thank You and Closing - 2 minutes
+## Thank You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
