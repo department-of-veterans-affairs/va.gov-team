@@ -61,7 +61,7 @@ Please refer to the guidance in [Getting Started with the Collaboration Cycle](h
 - [ ] Yes
 - [ ] No
 
-_Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics support will still be provided._
+_Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics tracking support will still be provided._
 
 **If yes, then do you need to capture any other analytics or metrics in addition to what you're currently tracking?**
 - [ ] Yes
