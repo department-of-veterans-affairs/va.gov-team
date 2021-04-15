@@ -28,8 +28,8 @@
 
 ## How to access in Staging 
 - Applies for all scenarios
-- https://staging.va.gov/health-care/health-questionnaires/questionnaires
-  - Currently, all test account return the same data 
+  - https://staging.va.gov/health-care/health-questionnaires/questionnaires
+    - Currently, all test account return the same data 
 - We do have a Drupal page that people can visit and log into their questionnaire manager, but most will go directly from text or email to the link above).
   - Drupal page: https://staging.va.gov/health-care/health-questionnaires/
 
