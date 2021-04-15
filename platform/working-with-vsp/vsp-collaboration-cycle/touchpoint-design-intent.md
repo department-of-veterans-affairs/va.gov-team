@@ -1,5 +1,6 @@
 # Design Intent
-Did we recommend a Design Intent?  If so, follow the below guidelines to get started.
+Did we recommend a Design Intent in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
+
 ## When should I request this touchpoint?
 When you are brainstorming and drafting how you are going to approach your solution. When you have an idea of how to solve the problem.
 ## What is the collaboration format?
