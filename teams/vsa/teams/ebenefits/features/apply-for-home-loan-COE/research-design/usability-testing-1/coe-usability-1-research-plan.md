@@ -19,10 +19,10 @@ The goal of this usability study is to assess how easily participants locate and
 
 #### Guiding questions
 - Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
-- What barriers prevent users from easily applying for a COE?
+- What barriers int the UX and UI prevent users from easily applying for a COE?
 - Where does confusing language prevent users from understanding the form?
-- Where (on VA.gov) do users expect to find their COE after it has been granted?
-- What other features would help users when they apply for a COE?
+- Where (on VA.gov and elsewhere) do users expect to have their COE available after it has been granted?
+- What other features or content would help users when they apply for a COE?
 
 #### Hypotheses
 - Users will initially look for a direct link in the whit quadrant on the home page; many will locate COE landing page after several steps
