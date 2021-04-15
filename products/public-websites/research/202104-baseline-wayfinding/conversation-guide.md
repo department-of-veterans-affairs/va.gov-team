@@ -76,7 +76,7 @@ Let’s start with a few questions...
 ## Veteran Tasks
 Now I'm going to ask you to do a number of things that you may or may not have done before. Please try to do them as best you can on your computer/device. I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-*NOTE TO REVIEWERS: I'm totally open to feedback on the specifics and the ordering of the tasks below. I tried to incorporate a variety of Veteran tasks that involve varying degrees of exploration of VA.gov. FYI: Text in italics is for the moderator only, not to be said aloud to the participant.*
+*NOTE TO REVIEWERS: I'm totally open to feedback on the specifics and the ordering of the tasks below, as well as which tasks to drop (given limited time). I tried to incorporate a variety of Veteran tasks that involve varying degrees of exploration of VA.gov. FYI: Text in italics is for the moderator only, not to be said aloud to the participant.*
 
 ### Task X: [Message doctor] - 4 minutes
 
@@ -137,19 +137,14 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
 
-### Task X: [Refill prescription] - 4 minutes
-
-- You just realized that you're running out of a prescription that you take regularly. How would you get more?
-  - *RECORD navigation: Health care quadrant > Refill track Rx / VA Benefits & Health Care > Health care > Refill track Rx / Health care link below photos / Search / Other__________________________*- 
-- What would you do next?
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
-  
-### Task X: [Veteran ID] - 4 minutes
+### Task X: [Veteran ID] - 4 minutes -- GET DIFFERENT TASK RE LETTERS FROM BRIDGET? 
 
 - You have some home repairs to do, and you plan to buy tools and materials at your local Home Depot store. You heard that they give a discount for Veterans. How can you show that you're a Veteran? 
   - *(if they say they already have a Veteran ID card:)* Suppose you didn't have such a card. How would you get one?
   - *RECORD navigation: Records quadrant > Get Veteran ID cards / VA Benefits & Health Care > Records > Get Veteran ID cards / Records link below photos / Search  / Other__________________________* 
+- What would you do next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
 
 ### Task X: [Go back to school] - 4 minutes
 
