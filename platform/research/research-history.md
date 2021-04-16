@@ -20,7 +20,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 - Number of participants: 7
 
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
