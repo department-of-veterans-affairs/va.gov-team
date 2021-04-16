@@ -150,24 +150,27 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 
 ## Solution Approach
 
-- What are you going to build now, and why have you decided to start there? 
+*What are you going to build now, and why have you decided to start there? 
 
 We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
-- Why this solution / approach over other solutions / approaches? 
+*Why this solution / approach over other solutions / approaches? 
+
 The short and mid-term approaches outlined above are the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a long-term solution.
 
-- What have you explicitly decided to not include in this initial set of functionality, and why? 
+*What have you explicitly decided to not include in this initial set of functionality, and why? 
+
 - We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 - We will only support the short and mid-term approaches for a handful of critical pages since the approach we use is resource intensive and not sustainable
 - We wont support translations for non-content pages such as forms since is more complex and may require a different approach.
 
-- How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?
+
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 
-- What’s Next
+*What’s Next
 - Conduct stakeholder interviews (internal)
 - Research and engage with potential software partners and other agencies within the government
 - Develop a recommendation document that includes technical research and internal stakeholders needs
@@ -233,8 +236,59 @@ ________________________________________
 ## Implementation Info
 
 ________________________________________
-
 ## Technical Decisions
+
+
+________________________________________
+## Technical Considerations/Options
+
+Localization tools fall into the following categories:
+
+- Computer-assisted translation (CAT) tools
+
+These tools enables a translator to reuse previously translated content which allows them to translate a high volume of words in a shorter amount of time while maintaining a high level of quality through terminology and style consistency.  CAT tools are standalone pieces of software though, requiring translators that use them to work locally and merge to a central repository.
+
+
+- Machine translation (MT) engines
+
+MT engines automate the transfer of text from one language to another. MT is broken up into four primary methodologies: Statistical Machine Translation (SMT), Rule-Based Machine Translation (RBMT), Hybrid Machine Translation (HMT)and Neural Machine Translation (NMT).
+
+SMT uses statistical models to associate a word from the source lannguage with a word from the target language. Google Translate is an example of SMT. 
+
+RBMT translates based on grammatical rules.
+
+HMT is a blend of SMT and RBMT.
+
+NMT uses neural netwrok models to develop statisical models and can be "trained" over time.
+
+- Translation management systems (TMS)
+
+TMS tools automate manual parts of the localization process by including version control system (VCS) integrations, cloud services integrations, project reporting, as well as the standard translation memory and terminology recall features. These tools enable large groups of translators and reviewers to contribute to an effort. Some also use a WYSIWYG editor to give translators context for their translations. This added context improves translation accuracy and cuts down on the amount of time a translator has to wait between doing the translation and reviewing the translation within the user interface.
+
+
+- Terminology management tools
+
+- Localization automation tools
+
+Localization automation tools facilitate the way localization data is processed. This can include text extraction, file format conversion, tokenization, VCS synchronization, term extraction, pre-translation, and quality checks . In some tool suites, like the Okapi Framework, you can create automation pipelines for performing various localization tasks. This can be very useful for a variety of situations, but their main utility is in the time they save by automating many tasks. They can also move you closer to a more continuous localization process.
+
+- Options for Translations:
+
+1. Building separate, parallel sites for each individual language
+
+2. Multilingual Content Management Systems
+
+Our current approach has been to use Drupal and allow a single post to be associated with translations, which in turn can be displayed when the user switches to a different language using a language selection menu.
+
+These translations are not generated automatically, so a translation service is required to create the content in other languages along with a a system for notifying translators of new articles and changes to articles which have already been translated. This approach is very manual and 
+not scaleable.
+
+*Some CMSs, Drupal especially, are designed to support translations in the core system. This means you can "skin" a post in any number of languages. You might write the original post in English, and then create many child documents in other languages, which the system treats as translations of the original post. So when the user switches the user interface to German, he will see German versions of posts and pages, if they are available.*
+
+There are plugins for each system that allow you to publish, manage, and organize content in multiple languages. 
+
+3. Translation Management System (TMS) - provide customizable integrations between our CMS and provider's translation management system (eg Smartling).
+
 
 ________________________________________
 ## Product Decisions
@@ -255,49 +309,20 @@ ________________________________________
  ii. https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E1B32CF9E602F287902AD91F1D10DA7D/S1935789320001512a.pdf/public_health_communication_in_time_of_crisis_readability_of_online_covid19_information.pdf 
 
 
-Cloud-based technology stores, tracks and manages multilingual content across different enterprise applications allowing continuous, integrated translation in real time. For large, complex translation projects — assuming there are no internet connectivity problems — the best way to handle the volume, continuity and synchronization between several different departments and locations is by managing translation in the cloud.
-
-Cloud-based translation is continuous translation with no down time — unless, again, the internet goes down. Content that is constantly changing needs a dynamic and agile tool to keep up with the increasing demand for round-the-clock translation and distribution.
-A cloud-based translation platform may give companies more control over their content, and keeps corporate information in a single native environment.
-
-Categories that localization tools fall into include:
-
-- Computer-assisted translation (CAT) tools
-They enable a translator to reuse previously translated content from old projects in new projects. This allows them to translate a high volume of words in a shorter amount of time while maintaining a high level of quality through terminology and style consistency. This is especially handy for localization, as text in a lot of software and web UIs is often the same across platforms and applications. CAT tools are standalone pieces of software though, requiring translators that use them to work locally and merge to a central repository.
 
 
-Machine translation (MT) engines
-MT engines automate the transfer of text from one language to another. MT is broken up into three primary methodologies: rules-based, statistical, and neural (which is the new player). 
-
-Translation management systems (TMS)
-Most TMS tools aim to automate many manual parts of the localization process by including version control system (VCS) integrations, cloud services integrations, project reporting, as well as the standard translation memory and terminology recall features. These tools are most amenable to community localization or translation projects, as they allow large groups of translators and reviewers to contribute to a project. Some also use a WYSIWYG editor to give translators context for their translations. This added context improves translation accuracy and cuts down on the amount of time a translator has to wait between doing the translation and reviewing the translation within the user interface.
-
-
-Terminology management tools
-Localization automation tools
-Localization automation tools facilitate the way you process localization data. This can include text extraction, file format conversion, tokenization, VCS synchronization, term extraction, pre-translation, and various quality checks over common localization standard file formats. In some tool suites, like the Okapi Framework, you can create automation pipelines for performing various localization tasks. This can be very useful for a variety of situations, but their main utility is in the time they save by automating many tasks. They can also move you closer to a more continuous localization process.
-
-Tools to check out
-
-Okapi Framework
-Mojito
-
+## Translation vs Localization
 
 Translation
-When we use the term "translation" in everyday speech, we typically mean that content in one language is rendered in another so that speakers of the second language can understand it. This usage is quite broad and covers everything from real-time interpretation of the spoken word to translation of a novel for publication in another language.
+
+Converting content from the source language to the target language, respecting grammar rules and syntax.
 
 
-Localisation
-The Localisation Industry Standards Association (LISA) defines localisation as "the process of modifying products or services to account for differences in distinct markets".   Thus it would entail adapting, translating and customising a product for a specific market. This would involve dealing with a specific locale or cultural conventions. By locale, we mean conventions such as sort order, keyboard layout, date, time, number and currency format.
+Localization
 
-The Difference between Translations and Localisation
+Adapts messaging to local audiences and addresses cultural as well as non-textual components. Date formats, text length differences and layouts, currency units are all considerations when "localizing" content.
 
-Localisation might seem identical or similar to translation. However, the process of localisation is much broader than simply translation. Localisation should ensure that the product provides the local user with the correct local "look-and-feel" while they interact with the product.
-
-
-Aspects of Localisation
-
-Here is a list of some of items that are considering in localisation:
+Aspects of Localization
 
 Translation of the product's interface and documentation
 Colours, images, graphics and icons: adapting to cultural and legal requirements
@@ -305,26 +330,5 @@ Rendering (can we display the text correctly, does the new text fit inside the a
 Locale data: how to display dates, time, number, currency and other regional data.
 
 
-Because of this publishers take several different approaches when building multilingual sites. Among the strategies they use are:
 
-Adding automated links to machine translation versions of your content.
-Building separate, parallel sites for each individual language.
-Using a single, multilingual CMS (e.g. Drupal, Joomla, WordPress) to manage translations of original articles.
-Using an RSS translator to import content to a platform where entries can be translated into other languages. Translations are then made available in a separate RSS feed.
-Which approach is best depends on the type of site you run, how many articles you post per day, and how important it is for multilingual content to be integrated with your primary website or language.
-
-Multilingual Content Management Systems
-
-Another approach is to use a multilingual CMS, such as Drupal, Joomla, or WordPress. These systems allow a single post to be associated with translations, which in turn can be displayed adjacent to the original post, or when the user switches to a different language using a language selection menu on the home page.
-
-These translations are not generated automatically, so you need people to create them, and you need to have a system for notifying translators of new articles and changes to articles which have already been translated.
-
-Some CMSs, Drupal especially, are designed to support translations in the core system. This means you can "skin" a post in any number of languages. You might write the original post in English, and then create many child documents in other languages, which the system treats as translations of the original post. So when the user switches the user interface to German, he will see German versions of posts and pages, if they are available.
-Sample Multilingual Publishing Workflow
-
-There are many content management systems and many different plugins for each system that allow you to publish, manage, and organize content in multiple languages. What follows is a sample workflow using WordPress (http://wordpress.org) as a content management system and WPML (http://wpml.org/) as a plugin to manage translations. A guide to WordPress is available at http://en.flossmanuals.net/wordpress.
-
-Setting Up A Parallel Site
-
-If you are building a fairly simple site, with a relatively low volume of posts, and expect other languages to be a minority of your audience, the best approach is to set up a parallel, sister site for each language you seek to support. For example Yoani Sánchez is a popular Cuban blogger who writes in Spanish at http://www.desdecuba.com/generaciony/.  Many of her readers have volunteered to translate her blog posts into over a dozen other languages. Those translations are published on parallel blogs. For example, Japanese translations of Yoani's posts are available at http://desdecuba.com/generaciony_jp/.
 
