@@ -60,31 +60,32 @@ User is directed to the prototype.
 - So you've come to this page; what do you do next?
 
 ### Task 1 / Automatic COE scenario / 5 minutes
-User reviews VA Form 26-1880 intro screen.
+User reviews VA Form 26-1880 intro screen, then signs-in to reveal an automatic COE link.
 - Take a look at this screen and describe what you see.
 - If you wanted to apply for a COE, what would you do first?
 - (Participant signs-in) What just happened?
 - What is your next step?
-- If you left this page, what do you think would happen to your COE?
-<!--
+- If you left this page, what do you think would happen to your COE/link?
+
 #### Things to look for:
-- How quickly does the user find the DD info?
-- How do users react to **two** types of DD info on the screen? Why do they thing there are two?
-- Can users quickly locate the "fraud" box at the bottom of the screen?
+- How quickly does the user determine they need to sign-in to access the form?
+- How do users react to the automatic COE notification?
+- What do users expect will happen to the COE/link??
 
 ### Task 2 / Missing info scenario / 5 minutes
-User changes the direct deposit info to a "new" savings account.
-- Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
-- How often have you updated your info? 
-- If this were real information, what would expect to happen after you updated? 
-- How long do you think that would take?
+User goes back to VA Form 26-1880 intro screen, then signs-in with bottom link to advance to the "missing info" intro screen.
+- So sign-in again, but this time use the button below all the process information.
+- What happened here? What's different?
+- What should you do in this case? 
+- Please continue through the form.
 
 #### Things to look for:
-- Do users immediately use the correct edit function (education)?
-- Do users find the inline editing easy-to-use?
-- Do users understand the tell-me-more accordion? Is the info regarding account and routing numbers clear and understandable?
-- Are users satisfied with the success messaging?
-
+- Do users immediately see the "missing info" notice?
+- How do participants feel about this path vs. the automatic COE scenario?
+- Do users expect any further guidance on next steps? how easily/quickly do they proceed to the form?
+- Where in the form flow do users stop or get confused?
+- What language do participant find confusing?
+<!--
 ### Task 3 / Complete 26-1880 / 10 minutes
 User advances to a screen showing only compensation and pension direct deposit info.
 - Take a look at this screen and describe what you see.
