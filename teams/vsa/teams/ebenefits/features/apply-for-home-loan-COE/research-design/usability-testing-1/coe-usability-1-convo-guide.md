@@ -41,7 +41,7 @@ OK, we'll be doing a couple of things today:
 ### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- Here's a scenario: you're looking to buy a new home and a real estate agent told you you'd need a Certificate of Eligibility (COE) from VA.
+- Here's a scenario: you're looking to buy a new home and a lender told you you'd need a Certificate of Eligibility (COE) from VA.
 - You heard there was a way on VA.gov to apply for a COE, where would you look for that?
 - This is the actual home page; you're free to click on anything.
 
@@ -50,15 +50,15 @@ OK, we'll be doing a couple of things today:
 - What interactive elements does the user look for (e.g. menu, links, footer...)?
 - What content/section does the user expect to find COE information and the form itself?
 - Where does the user's search end? Do they make it to the COE landing page?
-<!--
+
 ## Usability tasks
 User is directed to the prototype.
-- I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
-- We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
-- Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
-- For the purpose of this test, we'll go with what we said earlier: you moved changed banks so you need VA to make deposits into your new account.
-- You've come to this page and want to change your direct deposit information; what do you do next?
-
+- I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to COE prototype)
+- We'll be using made-up scenarios that may not really apply to you. We'll be filling-out a small form, and you can type-in anything--fake names and numbers are fine. 
+- Nothing will be submitted because this is a prototype.
+- For the purpose of this test, we'll continue with what we said earlier: you're looking to buy a new home and your lender said you needed a Certificate of Eligibility.
+- So you've come to this page; what do you do next?
+<!--
 ### Task 1 / View direct deposit info / 5 minutes
 User reviews direct deposit information available for one or both payment types.
 - Take a look at this screen and describe what you see.
