@@ -27,7 +27,7 @@ This is a place for us to list other check-in experiences (from other government
 
 ## UPMC COVID Vaccination Check-in
 - Received text message confirming appointment date and time right after scheduling. 
-- Received another text the morning of the appointment with time and location information. There was also a link to a QR code to upon arrival.
+- Received another text the morning of the appointment with time and location information. There was also a link to a QR code to use upon arrival.
 - Once at the location, they didn't actually use the QR code. They only asked for last name.
 
 ## Look into airline check-in examples.
