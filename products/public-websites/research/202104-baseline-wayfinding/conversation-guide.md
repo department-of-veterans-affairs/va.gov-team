@@ -243,8 +243,8 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 ## Post-Task Interview - 5 minutes
 
 - What do you *like* about using the VA.gov website?
-- What do you *dislike* about using the VA.gov website?
-- What would you like to *change* about the VA.gov website?
+- What do you *dislike* about using VA.gov?
+- What would you like to *change* about VA.gov?
 - When you're unable to find what you're looking for on VA.gov, what do you do next? 
 - Is there anything else that we haven't talked about that you think I should know? 
 
