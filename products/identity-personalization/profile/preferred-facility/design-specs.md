@@ -52,7 +52,9 @@ FAQ below list:
 
 > How can I add a new facility?
 >
-> (Copy pending approval)
+> To add a new facility, you'll need to register at the facility first. Contact your nearest VA facility’s registration office to register. After you’ve completed the facility’s registration process, we’ll add the facility to your list.
+>
+> [Find your nearest VA health facility.](https://www.va.gov/find-locations/)
 
 ## States
 
@@ -121,6 +123,4 @@ Display copy in place of facility list + note.
 
 #### Copy
 
-> You’re registered at [xx] facilities. But you don’t have any listed as your current facilities right now. You can edit this list to add your current facilities at any time.
-
-[xx] = number of registered facilites
+> You’re registered at [number] facilities. But you don’t have any listed as your current facilities right now. You can edit this list to add your current facilities at any time.
