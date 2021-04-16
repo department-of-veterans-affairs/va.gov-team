@@ -1,7 +1,26 @@
 # Meeting Notes
 
-## 2021-04-15 Internal Design Review
+## 2021-04-15 Review Comp Updates
 
+### Topic
+Review comps Cassandra updated for Find a VA Form, Resources & Support prior to next week's design intent review
+
+#### Attendees
+- John Hashimoto, PO
+- Marci McGuire, PM for Decision Tools Team
+- Brian Lloyd, PM for Public Websites Team
+- Cassandra Allen, Designer for PW/DT
+
+### Notes
+- Cassandra reviewed the updates she made
+- They are posted in inVision now.
+
+### Action Items
+- Cassandra and Megan will compile a list of questions and include that in the ticket so the reviewers can see ahead of time
+- Marci will insert the inVision links into the body of the ticket
+
+
+## 2021-04-15 Internal Design Review
 
 #### Attendees
 - John Hashimoto, PO
