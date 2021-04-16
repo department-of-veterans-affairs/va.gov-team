@@ -82,29 +82,30 @@ User goes back to VA Form 26-1880 intro screen, then signs-in with bottom link t
 #### Things to look for:
 - Do users immediately see the "missing info" notice?
 - How do participants feel about this path vs. the automatic COE scenario?
-- Do users expect any further guidance on next steps? how easily/quickly do they proceed to the form?
-- Where in the form flow do users stop or get confused?
-- What language do participant find confusing?
-<!--
+- Do users expect any further guidance on next steps? how easily/quickly do they find how to proceed to the form?
+
 ### Task 3 / Complete 26-1880 / 10 minutes
-User advances to a screen showing only compensation and pension direct deposit info.
-- Take a look at this screen and describe what you see.
-- Now **find the direct deposit information for educational payments.** What info is there?
-- If you thought you should also be receiving comp & Pen payments, what can you do?
-- Let's say you know this is right, and you don't get educational payments. How do you feel about the C&P box?
+User continues through the form.
+- We've put some fake information in this form, but in some place you can make changes.
+- You're free to type-in whatever you want--since this is a prototype, it won't submit or change anything in the system.
+- Other questions as sitation dictates...
 
 #### Things to look for:
-- How do users react to the "You don't receive payments" messaging?
-- What alternatives (if any) would users expect when they don't receive one or the other type of payment?
-- Would users gravitate toward the View Payment History link at all?
+- Where in the form flow do users stop or get confused?
+- What language do participant find confusing?
+- What additional info would help uesers and where?
+- What information do participants expect on the confirmation screen?
+- Do participants know what they should do next?
+- Are users satisfied with the various avenues for following-up?
 
 ## Final thoughts
-- Where could you find a record of payments made to you? What other features might be helpful on this screen?
-- What on the site would you do/look at next?
-- How could we make things more clear?
+- Once your COE is issued, how would you like to receive it?
+- If we could store it for you on VA.gov, where would you want that to be?
+- How could we make things easier or more clear?
+- If this was the actual VA.gov site, what would you do next?
 
 ---
--->
+
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here. Is there anything else you'd like us to know--something we didn't cover about the screens we looked at, or VA.gov in general?
 
