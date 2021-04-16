@@ -58,21 +58,19 @@ User is directed to the prototype.
 - Nothing will be submitted because this is a prototype.
 - For the purpose of this test, we'll continue with what we said earlier: you're looking to buy a new home and your lender said you needed a Certificate of Eligibility.
 - So you've come to this page; what do you do next?
-<!--
-### Task 1 / View direct deposit info / 5 minutes
-User reviews direct deposit information available for one or both payment types.
-- Take a look at this screen and describe what you see.
-- Now **find the direct deposit information for educational payments.** What info do you see?
-- Describe what else is on this screen? ...What other payments types do you see?
-- Why do you think there are two sets of payment info?
-- If you thought you were the victim of bank fraud, what can you do?
 
+### Task 1 / Automatic COE scenario / 5 minutes
+User reviews VA Form 26-1880 intro screen.
+- Take a look at this screen and describe what you see.
+- If you wanted to apply for a COE, what would you do first?
+- (Participant signs-in) What just happened?
+<!--
 #### Things to look for:
 - How quickly does the user find the DD info?
 - How do users react to **two** types of DD info on the screen? Why do they thing there are two?
 - Can users quickly locate the "fraud" box at the bottom of the screen?
 
-### Task 2 / Change direct deposit info / 10 minutes
+### Task 2 / Missing info scenario / 5 minutes
 User changes the direct deposit info to a "new" savings account.
 - Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
 - How often have you updated your info? 
@@ -85,7 +83,7 @@ User changes the direct deposit info to a "new" savings account.
 - Do users understand the tell-me-more accordion? Is the info regarding account and routing numbers clear and understandable?
 - Are users satisfied with the success messaging?
 
-### Task 3 / One payment type only / 5 minutes
+### Task 3 / Complete 26-1880 / 10 minutes
 User advances to a screen showing only compensation and pension direct deposit info.
 - Take a look at this screen and describe what you see.
 - Now **find the direct deposit information for educational payments.** What info is there?
