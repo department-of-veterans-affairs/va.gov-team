@@ -226,14 +226,13 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   
 ### Task 11: [Benefit letter] - 4 minutes 
 
-- Your mortgage lender has asked for proof of your income. How can you get a letter to show the income that you receive from the VA?
+- Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
 - Is this something that you might do or be interested in doing?
 - Have you done this before?
 - How would you start?
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *(if they say they already have a Veteran ID card:)* Suppose you didn't have such a card. How would you get one?
   - *RECORD navigation:*
-    - *Records quadrant > Download VA benefit letters* 
+    - *Records quadrant > Download your benefit letters* 
     - *VA Benefits & Health Care > Records > Download your VA benefits letters* 
     - *Records link below photos*
     - *Search* 
