@@ -72,23 +72,12 @@ Examples of **research with VA.gov users** include:
  - User surveys
  - Card sorting
 
-### Will your work impact any content in the: (select all that apply)
-- [ ] authenticated experience* 
-- [ ] unauthenticated experience
-- [ ] neither (no content changes)**
-
-*Please consider entry points may need to be updated. Entry points are often located on unauthenticated static content pages.
-\**Changes to content can include updating content on buttons, links, and labels, changes to headers, reordering content, adding new calls to action, alert boxes, expandable sections, or error messages.
-
-**Authenticated experience** is:
- - Behind a login
- - Changes to a front-end Drupal template
- - Tools and applications
-
-**Unauthenticated experience** is:
- - Not behind a login
- - 
- - Examples include: VA.gov static pages, VA Medical Centers (VAMCs), Vet Center pages
+### Will your work include content changes for: (Select all that apply)
+- [ ] Tools and applications*
+- [ ] Static pages
+- [ ] This work doesn’t involve content changes.
+*For tools and applications, take into account if any content on static page entry points will need updates.
+Content changes could include: updates to buttons, links, labels, headings, reordering content, or adding error messages.
 
 ### Are you making a change to the user flow?
 - [ ] Yes
@@ -106,7 +95,7 @@ Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page
  - Modifying options within core navigation elements (for example, top nav, left nav, home page)
 
-### Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
+### Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
 - [ ] Yes
 - [ ] No
 
