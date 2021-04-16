@@ -34,6 +34,7 @@ Menu governance
 
 * any outcome from training meeting from Tuesday 12
 * help desk triage
+  * Reinforce directing folks to `support@va-gov.atlassian.net`
 * Go-live timeline
 * Validate runbook for Go-live (separate meeting with Facilities)
 * Account creation
