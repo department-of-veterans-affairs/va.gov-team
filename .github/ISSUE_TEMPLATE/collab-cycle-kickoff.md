@@ -76,7 +76,9 @@ Examples of **research with VA.gov users** include:
 - [ ] Tools and applications*
 - [ ] Static pages
 - [ ] This work doesn’t involve content changes.
+
 *For tools and applications, take into account if any content on static page entry points will need updates.
+
 Content changes could include: updates to buttons, links, labels, headings, reordering content, or adding error messages.
 
 ### Are you making a change to the user flow?
