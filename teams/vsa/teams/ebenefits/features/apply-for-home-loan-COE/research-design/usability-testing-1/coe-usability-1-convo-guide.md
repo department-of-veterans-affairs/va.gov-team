@@ -36,21 +36,21 @@ There are a few things I need to mention before we start:
 OK, we'll be doing a couple of things today: 
 - First, well take a quick look at the VA.gov home page to get an idea of where you might look for the new feature
 - Then we'll go to the prototype of the new feature we're testing
-<!--
+
 ## Wayfinding
 ### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- Here's a scenario: you're looking to buy a new home and a real estate agent told you you'd need a Certificate of Eligibility from VA.
-- You heard there was a place on VA.gov that you could update your direct deposit info for your education payments, where would you go to make a change?
+- Here's a scenario: you're looking to buy a new home and a real estate agent told you you'd need a Certificate of Eligibility (COE) from VA.
+- You heard there was a way on VA.gov to apply for a COE, where would you look for that?
 - This is the actual home page; you're free to click on anything.
 
 #### Things to look for:
 - What is the user's thought process?
 - What interactive elements does the user look for (e.g. menu, links, footer...)?
-- What content/section does the user expect to find the educational direct deposit feature?
-- Where does the user's search end? Do they make it to the DD landing page? Do they consider logging-in?
-
+- What content/section does the user expect to find COE information and the form itself?
+- Where does the user's search end? Do they make it to the COE landing page?
+<!--
 ## Usability tasks
 User is directed to the prototype.
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
