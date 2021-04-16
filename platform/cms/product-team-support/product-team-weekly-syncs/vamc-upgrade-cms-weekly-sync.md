@@ -21,6 +21,15 @@
 
 </details>
 
+## Friday Apr 23
+
+* VAMC policies page rollout
+
+Menu governance
+* Pittsburgh menu and IA changes
+* Dual state menu and IA changes
+
+
 ## Friday Apr 16
 
 * any outcome from training meeting from Tuesday 12
