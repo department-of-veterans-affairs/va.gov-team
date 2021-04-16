@@ -43,8 +43,8 @@
 
 ## To-Dos
 
-- [ ] Add brief expected-outcomes
-- [ ] Add specific design-prototype links
+- [X] Add brief expected-outcomes
+- [X] Add specific design-prototype links
 - [ ] Add access-instruction(s) w/ test-usernames but NOT passwords
 - [ ] [VSA-QA] Add TestRail test-case links
 
