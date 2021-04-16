@@ -30,7 +30,9 @@ Mobile and desktop example shows:
 - 1 group (health care)
 - Assortment of notifications that don't have a group defined in the API
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-desktop-edit-mode.png)
 
 ### Prototypes
 
@@ -141,4 +143,3 @@ Display warning alert where email/phone and `update contact info` link would nor
 **In edit mode, replace relevant checkbox with this text:**
 
 > *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
-
