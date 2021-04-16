@@ -209,24 +209,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
   
-### Task 10: [Veteran ID] - 4 minutes -- REPLACE WITH DIFFERENT TASK ABOUT LETTERS? 
-
-- You have some home repairs to do, and you plan to buy tools and materials at your local Home Depot store. You heard that they give a discount for Veterans. How can you show that you're a Veteran? 
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *(if they say they already have a Veteran ID card:)* Suppose you didn't have such a card. How would you get one?
-  - *RECORD navigation:*
-    - *Records quadrant > Get Veteran ID cards* 
-    - *VA Benefits & Health Care > Records > Get Veteran ID cards* 
-    - *Records link below photos*
-    - *Search* 
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
-
-### Task 11: [Home Loan] - 4 minutes
+### Task 10: [Home Loan] - 4 minutes
 
 - Pretend that you're considering buying a new home. How can the VA help?
 - Is this something that you might do or be interested in doing?
@@ -241,11 +224,29 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
   - *RECORD task success: yes / no*
   
+### Task 11: [Benefit letter] - 4 minutes 
+
+- Your mortgage lender has asked for proof of your income. How can you get a letter to show the income that you receive from the VA?
+- Is this something that you might do or be interested in doing?
+- Have you done this before?
+- How would you start?
+- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+  - *(if they say they already have a Veteran ID card:)* Suppose you didn't have such a card. How would you get one?
+  - *RECORD navigation:*
+    - *Records quadrant > Download VA benefit letters* 
+    - *VA Benefits & Health Care > Records > Download your VA benefits letters* 
+    - *Records link below photos*
+    - *Search* 
+- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+  - *RECORD task success: yes / no*
+
 ## Post-Task Interview - 5 minutes
 
 - What do you *like* about using the VA.gov website?
 - What do you *dislike* about using the VA.gov website?
 - What would you like to *change* about the VA.gov website?
+- When you're unable to find what you're looking for on VA.gov, what do you do next? 
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minutes
