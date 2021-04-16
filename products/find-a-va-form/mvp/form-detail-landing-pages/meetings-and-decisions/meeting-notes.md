@@ -1,5 +1,31 @@
 # Meeting Notes
 
+## 2021-04-16 Follow-up Meeting with Content
+
+### Attendees
+- John Hashimoto, PO for Find a VA Form
+- Marci McGuire, PM for Find a VA Form
+- Beth Potts
+- Randi Hecht
+- Selina Cooper
+
+### Notes
+- Ticket - https://github.com/department-of-veterans-affairs/va.gov-team/issues/22726
+- John summarized what we did, how we came up with the list, and how he broke down the forms that need "when to use this form". 
+- We're going to the top 100 forms.
+- 3 batches of 20 forms each; attached to the ticket
+- When to use is the critial info that is missing
+- Related forms - we leave that to the SMEs.  If they happen to know what the related forms are, we'll let them add that.
+- Copy for the forms can sometimes be found on the Federal Register
+- Selina put content into Drupal, but someone else came up with the actual copy.
+- For helpful links, Jen and Laura wrote those.  We can use those helpful links as canned.
+- John and Marci will do the legwork for getting it reviewed by the SMEs.
+- John may send the initial one and then I may do the follow-up emails.
+- Be prepared for several rounds of back-and-forth.  Some of the SMEs will provide feedback.  Some will edit in a way that makes it no longer plain language so that it needs more Content edits.
+- Within VBA, we'd need to group them by Pension, Disability, etc.  Maybe we also organize the docs by the type of doc (pension, disability, housing).
+- We will take a crack at it.  Refer to the mega-menu on the left.
+- John and Marci can add some of the canned helpful links so the Content team can review
+
 ## 2021-04-07 Content Updates Meeting
 ### Attendees
 - John Hashimoto, PO
