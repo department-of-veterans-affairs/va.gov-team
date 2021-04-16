@@ -64,6 +64,8 @@ User reviews VA Form 26-1880 intro screen.
 - Take a look at this screen and describe what you see.
 - If you wanted to apply for a COE, what would you do first?
 - (Participant signs-in) What just happened?
+- What is your next step?
+- If you left this page, what do you think would happen to your COE?
 <!--
 #### Things to look for:
 - How quickly does the user find the DD info?
