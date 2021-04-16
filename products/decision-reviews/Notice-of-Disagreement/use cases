@@ -10,8 +10,10 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
 <details>
 <summary></summary>
   
-- [Authenticated user would like to file a decision review digitally](#use-case-a) 
+- [Authenticated user would like to file a decision review digitally with evidence submission](#use-case-a) 
 - [Authenticated user would like a representative to file a claims appeal electronically](#use-case-b)
+- [Authenticated user would like to file a decision review digitally, selecting direct board review option](#use-case-d)
+- [Authenticated user would like a representative to file a claims appeal electronically, selecting hearing with judge board review option ](#use-case-d)
 
 
 </details>
@@ -20,9 +22,9 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
 
 * **An authenticated user would like to file a decision review **
   - An authenticated user on the Request A Board Appeal page is either homeless or not
-  - From list of known issues, user selects (or writes in) issue(s) for review 
+  - From list of known issues, user selects issue(s) for review 
   - Check the opt-in button
-  - Request board review option
+  - Request board review option (evidence submission)
   - Option to submit additonal evidence
   - Review submission
   - Check privacy policy
@@ -41,7 +43,7 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   - If the user answers yes, they have a representative, then they enter the rep's name
   - Select issues eligible for review or add
   - Check the opt-in button
-  - Request board review option
+  - Request board review option (direct review)
   - Optio to submit additonal evidence 
   - Review submission
   - Check privacy policy
@@ -55,11 +57,37 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
 
 ## Use Case C
 
-* **Description**
-  - lorem ipsum
+*  **An authenticated user would like to file a decision review **
+  - An authenticated user on the Request A Board Appeal page is either homeless or not
+  - From list of known issues, user selects issue(s) for review 
+  - Check the opt-in button
+  - Request board review option (direct)
+  - Option to submit additonal evidence
+  - Review submission
+  - Check privacy policy
+  - Submit
+  
 
 * **Link to designs**
-  - lorem ipsum
+  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+  
+  ## Use Case D
+
+* **Authenticated user would like to file a decision review **
+  - If the user answers yes, they have a representative, then they enter the rep's name
+  - From list of known issues, user selects issue(s) for review
+  - Check the opt-in button
+  - Request board review option (hearing with judge)
+  - Review submission
+  - Check privacy policy
+  - Submit
+
+* **Link to designs**
+  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+
