@@ -23,8 +23,7 @@
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
 Static landing page | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance  |  Home > Education and training > Other VA education benefits > [static page H1]   | The last segment of the breadcrumb should match the H1 of the page
-VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap-form-22-1990s | Home > Education and training > Other VA education benefits > [static page H1] > [Form introduction page H1]  |  
-
+VRRAP form | www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/apply-for-vrrap-form-22-1990s | Home > Education and training > Other VA education benefits > [static page H1] > Apply for VRRAP with VA Form 22-1990s  |  Final segment of breadcrumb is/may be different from the H1 of the form in order to reduce redundancy and to ensure it includes the form number.
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
