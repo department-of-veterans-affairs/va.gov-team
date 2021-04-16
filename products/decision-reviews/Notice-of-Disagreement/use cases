@@ -10,7 +10,7 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
 <details>
 <summary></summary>
   
-- [Authenticated user would like to file a claims appeal electronically](#use-case-a) 
+- [Authenticated user would like to file a decision review digitally](#use-case-a) 
 - [Authenticated user would like a representative to file a claims appeal electronically](#use-case-b)
 
 
@@ -18,14 +18,12 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
 
 ## Use Case A
 
-* **An authenticated user would like to file a claims appeal **
+* **An authenticated user would like to file a decision review **
   - An authenticated user on the Request A Board Appeal page is either homeless or not
-  - If homeless, then
-  - If not, then
-  - Select issues eligible for review or add
+  - From list of known issues, user selects (or writes in) issue(s) for review 
   - Check the opt-in button
   - Request board review option
-  - Submit additonal evidence or not
+  - Option to submit additonal evidence
   - Review submission
   - Check privacy policy
   - Submit
@@ -44,6 +42,10 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   - Select issues eligible for review or add
   - Check the opt-in button
   - Request board review option
+  - Optio to submit additonal evidence 
+  - Review submission
+  - Check privacy policy
+  - Submit
 
 * **Link to designs**
   - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
