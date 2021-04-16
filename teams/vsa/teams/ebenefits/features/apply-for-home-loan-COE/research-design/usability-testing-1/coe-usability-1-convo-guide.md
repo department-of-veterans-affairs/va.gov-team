@@ -88,12 +88,12 @@ User goes back to VA Form 26-1880 intro screen, then signs-in with bottom link t
 User continues through the form.
 - We've put some fake information in this form, but in some place you can make changes.
 - You're free to type-in whatever you want--since this is a prototype, it won't submit or change anything in the system.
-- Other questions as sitation dictates...
+- Other questions as situation dictates...
 
 #### Things to look for:
 - Where in the form flow do users stop or get confused?
 - What language do participant find confusing?
-- What additional info would help uesers and where?
+- What additional info would help users and where?
 - What information do participants expect on the confirmation screen?
 - Do participants know what they should do next?
 - Are users satisfied with the various avenues for following-up?
