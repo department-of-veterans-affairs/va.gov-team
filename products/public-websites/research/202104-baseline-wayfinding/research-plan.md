@@ -26,9 +26,10 @@ This research is planned within the context of the Public Websites team and the 
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
 - What works well?
-- Are there any differences for desktop vs. smartphone users?
-- Are there any differences for people who have disabilities?
-- Are there any differences for people who have used VA.gov before vs. haven't used it?
+- What differences are there for desktop *vs.* smartphone users?
+- What differences are there for people who have cognitive disabilities?
+- What differences are there for people who use screen readers?
+- What differences are there for people who have used VA.gov before *vs.* haven't used it?
 - Do Veterans read/notice/click/comment on the banner content on the home page?
 
 ## Hypotheses
@@ -49,18 +50,19 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - At least 3 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
 - At least 5 people who plan to use their computer for the session
 - At least 5 people who plan to use their smartphone for the session
-- At least 4 people with a disability rating of 70% or greater
+- At least 4 people with a cognitive disability (e.g., PTSD, TBI, ADHD, etc.)
+- At least 3 participants over 60
 
 ### Good to have for participants
+- At least 2 people who use a screen reader
 - At least 2 people who have never used the VA.gov website before
+- At least 2 people of color
 - At least 1 woman
-- At least 1 person of color
-- At least 1 participant 35 or under and 1 participant over 55
-- At least 1 person that does not have a college degree (to include enlisted Vets)
-- At least 1 person that has a college degree (to include officer Vets)
-- At least 1 person who lives in a rural or remote area
+- At least 1 participant 35 or under
+- At least 2 people who don't have a college degree (to include enlisted Veterans)
+- At least 1 person that has a college degree (to include officer Veterans)
+- At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
