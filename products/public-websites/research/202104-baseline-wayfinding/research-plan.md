@@ -50,7 +50,7 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - At least 3 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
 - At least 5 people who plan to use their computer for the session
 - At least 5 people who plan to use their smartphone for the session
-- At least 4 people with a cognitive disability (e.g., PTSD, TBI, ADHD, etc.)
+- At least 4 people with a cognitive disability (e.g., TBI)
 - At least 3 participants over 60
 
 ### Good to have for participants
