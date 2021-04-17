@@ -242,52 +242,8 @@ ________________________________________
 ________________________________________
 ## Technical Considerations/Options
 
-Localization tools fall into the following categories:
-
-- Computer-assisted translation (CAT) tools
-
-These tools enables a translator to reuse previously translated content which allows them to translate a high volume of words in a shorter amount of time while maintaining a high level of quality through terminology and style consistency.  CAT tools are standalone pieces of software though, requiring translators that use them to work locally and merge to a central repository.
 
 
-- Machine translation (MT) engines
-
-MT engines automate the transfer of text from one language to another. MT is broken up into four primary methodologies: Statistical Machine Translation (SMT), Rule-Based Machine Translation (RBMT), Hybrid Machine Translation (HMT)and Neural Machine Translation (NMT).
-
-SMT uses statistical models to associate a word from the source lannguage with a word from the target language. Google Translate is an example of SMT. 
-
-RBMT translates based on grammatical rules.
-
-HMT is a blend of SMT and RBMT.
-
-NMT uses neural netwrok models to develop statisical models and can be "trained" over time.
-
-- Translation management systems (TMS)
-
-TMS tools automate manual parts of the localization process by including version control system (VCS) integrations, cloud services integrations, project reporting, as well as the standard translation memory and terminology recall features. These tools enable large groups of translators and reviewers to contribute to an effort. Some also use a WYSIWYG editor to give translators context for their translations. This added context improves translation accuracy and cuts down on the amount of time a translator has to wait between doing the translation and reviewing the translation within the user interface.
-
-
-- Terminology management tools
-
-- Localization automation tools
-
-Localization automation tools facilitate the way localization data is processed. This can include text extraction, file format conversion, tokenization, VCS synchronization, term extraction, pre-translation, and quality checks . In some tool suites, like the Okapi Framework, you can create automation pipelines for performing various localization tasks. This can be very useful for a variety of situations, but their main utility is in the time they save by automating many tasks. They can also move you closer to a more continuous localization process.
-
-- Options for Translations:
-
-1. Building separate, parallel sites for each individual language
-
-2. Multilingual Content Management Systems
-
-Our current approach has been to use Drupal and allow a single post to be associated with translations, which in turn can be displayed when the user switches to a different language using a language selection menu.
-
-These translations are not generated automatically, so a translation service is required to create the content in other languages along with a a system for notifying translators of new articles and changes to articles which have already been translated. This approach is very manual and 
-not scaleable.
-
-*Some CMSs, Drupal especially, are designed to support translations in the core system. This means you can "skin" a post in any number of languages. You might write the original post in English, and then create many child documents in other languages, which the system treats as translations of the original post. So when the user switches the user interface to German, he will see German versions of posts and pages, if they are available.*
-
-There are plugins for each system that allow you to publish, manage, and organize content in multiple languages. 
-
-3. Translation Management System (TMS) - provide customizable integrations between our CMS and provider's translation management system (eg Smartling).
 
 
 ________________________________________
