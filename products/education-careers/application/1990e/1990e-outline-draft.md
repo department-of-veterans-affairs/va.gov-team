@@ -52,8 +52,8 @@ Used by dependents applying to use the benefits of a sponsor servicemember who h
     -   The date your training will begin
 -   Direct deposit
     - Account type
-    - Account number
-    - Routing number
+    - Bank routing number
+    - Bank account number
 -   Personal information
     - Address
     - Email address
@@ -62,6 +62,38 @@ Used by dependents applying to use the benefits of a sponsor servicemember who h
     - How would you prefer to be contacted if VA has questions about your application?
 -   Review/Submit
 
+______________________________________
+
+#### Chapter Title: Step 8 of 8: Review application
+
+
+{ Summary Review / Edit functionality  }
+
+* Applicant information
+* Benefits eligibility
+* Sponsor information
+* Education history
+* Employment history
+* School selection
+* Personal information
+
+
+**By submitting this form** you certify that:
+
+- All statements in this application are true and correct to the best of your knowledge and belief
+
+{ If "Are you on full-time duty in the Armed Forces?" = "Yes" }
+
+- As an active duty servicemember, you have consulted with an Education Service Officer (ESO) regarding your education program
+
+{ end - if "Are you on full-time duty in the Armed Forces?" = "Yes" }
+
+
+**Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+I have read and accept the [privacy policy](). (* Required) { check box }
+
+[ Back | Submit Application ] { buttons } [Finish this application later.]()
 
 ________________________________________
 
