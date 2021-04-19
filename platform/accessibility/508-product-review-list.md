@@ -420,9 +420,7 @@ Back to [Table of Contents](#table-of-contents)
 #### Debt Letters MVP
 
 **Audit status:** _[VSA Staging Review completed on August 4, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12166)_<br/>
-**Open issues**
-
-- [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
+**No open issues**
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -660,9 +658,7 @@ Back to [Table of Contents](#table-of-contents)
 ---
 #### Map Enhancement
 
-**Open issues**
-
-- [Search this area of the map button: behavior and refactor - #21958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21958)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-enhancement
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
