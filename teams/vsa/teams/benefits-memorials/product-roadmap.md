@@ -23,7 +23,7 @@ Updated April 2021
 |Project or enhancement|Status|
 |----|----|
 |Benefits Delivery at Discharge | Complete |
-|Notice of Disagreement | Complete|
+|Higher Level Review | Complete|
 |TBD | - |
 |TBD | - |
 |TBD | - |
