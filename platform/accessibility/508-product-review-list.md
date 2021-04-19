@@ -76,6 +76,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Estimate Your Benefits](#gi-bill-estimate-your-benefits)
       - [GI Bill Section 103](#gi-bill-section-103)
       - [GI Bill STEM Standalone Form](#gi-bill-stem-standalone-form)
+      - [GI Bill STEM Automated Decision](#gi-bill-stem-automated-decision)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [VAOS Express Care Appointments](#vaos-express-care-appointments)
     - [COVID-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
@@ -878,6 +879,21 @@ Back to [Table of Contents](#table-of-contents)
 
 ---
 
+### GI Bill STEM Automated Decision
+
+**Audit status:** _VSP [staging review completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22544) week of March 29, 2021_<br/>
+**Open issues**
+
+- [[COGNITION]: STEM Automated Decision - Content should be simplified for usability - #22585](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22585)<br/>**Opened:** April 2, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [[DOCUMENTS]: STEM Automated Decision - PDFs must be reviewed for accessibility - #22588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22588)<br/>**Opened:** April 2, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [[COGNITION]: STEM Automated Decision - Consider shortening the accessible labels for downloadable PDFs - #22593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22593)<br/>**Opened:** April 2, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [[COGNITION]: STEM Automated Decision - Consider moving the TTY phone number above the location link in right rail - #22595](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22595)<br/>**Opened:** April 2, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [[COGNITION]: STEM Automated Decision - Consider adding an aria-describedby to the inside/outside US parentheticals - #22599](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22599)<br/>**Opened:** April 2, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
+
 ### VFS Veterans Affairs Online Scheduler (VAOS)
 
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
@@ -1176,6 +1192,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
+- [[AXE-CORE]: Outreach & Events - Links must have discernible text - #23206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23206)<br/>**Opened:** April 14, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
