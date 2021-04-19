@@ -487,8 +487,11 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-1 ❗ Launchblocker: File for Debt resolution, Select payroll deduction, Unlabeled link and other feedback - #22888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22888)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-1 — **_Critical_**
 - [508-defect-1 ❗ Launchblocker - Debt Resolution, form certification not working - #22892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22892)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-1 — **_Critical_**
 - [508-defect-2 [AXE, SCREENREADER]: Wizard, link's aria-describedby ID does not exist on the page - #22729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22729)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508 Defect 2: Feedback on error messages when reentering emails - #22907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22907)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-3 [COGNITION]: Wizard, "Request help with VA Form 5655" should be written and styled as a link - #22730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22730)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
 - [508-defect-3 [COGNITION]: Wizard, links should be styled as links - #22733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22733)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508 Defect 3, listing assets, method for indicating an asset isn't owned is unclear - #22910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22910)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508 Defect 3, form validation, able to enter dates which a reasonable person - #22909](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22909)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
 
 
 Back to [Table of Contents](#table-of-contents)
