@@ -966,10 +966,12 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### Find a VA Form Post-Launch MVP
 
-**Audit status:** _Staging review completed by VSA, January 13, 2020._<br/>
+**Audit status:** _[Staging review completed by VSA, January 13, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19229)._<br/>
 
 **Open issues**
 
+- [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP, COGNITION]: Groups of form elements MUST have group labels (e.g. <fieldset> and <legend>) - #18568](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18568)<br/>**Opened:**January 14, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-1 ❗ [SEMANTIC MARKUP, COGNITION]: Error message MUST be semantically linked and persistent to the year input field - #18578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18578)<br/>**Opened:**January 14, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [508-defect-2 [COGNITION]: Links MUST NOT rely on color - #18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION]: Links SHOULD be styled as links - 18395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18395)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-3 - **Minor**_ 
 
