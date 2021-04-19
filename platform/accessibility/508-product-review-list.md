@@ -90,6 +90,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Eastern Oklahoma VA Medical Center](#eastern-oklahoma-va-medical-center)
       - [Salt Lake City VA Medical Center](#salt-lake-city-va-medical-center)
       - [Sheridan VA Medical Center](#sheridan-va-medical-center)
+      - [Erie VA Medical Center](#erie-va-medical-center)
     - [App Directory](#app-directory)
     - [COVID-19 Keep Me Informed](#covid-19-keep-me-informed)
     - [COVID-19 Keep Me Informed Family and Caregivers](#covid-19-keep-me-informed-family-and-caregivers)
@@ -1148,6 +1149,22 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2: Addresses of mental health facilities are missing on make an appointment - #21477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21477)<br/>**Opened:** March 12, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-3 [COGNITION, SCREENREADER] Template issue, link text is unclear on Health Services - #21320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21320)<br/>**Opened:** March 10, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
 - [508-defect-3 [SCREENREADER] Headings are improperly nested on the main page - #21480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21480)<br/>**Opened:** March 12, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Erie VA Medical Center
+
+**Audit status:** _[Staging review completed by VSA week of April 5, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22735)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER] Missing and unlinked numbers - #22159](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22159)<br/>**Opened:** March 25, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2: Operating status, breadcrumb only contains the current page - #22228](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22228)<br/>**Opened:** March 26, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [Defect-level-2: Register for care, address of facility is missing - #22311](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22311)<br/>**Opened:** March 29, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-4, health services, list under "mental health care" not complete. - #22304](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22304)<br/>**Opened:** March 29, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [508-defect-4: health services, duplicate links for Erie VA Medical Center - #22306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22306)<br/>**Opened:** March 29, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+
 
 Back to [Table of Contents](#table-of-contents)
 
