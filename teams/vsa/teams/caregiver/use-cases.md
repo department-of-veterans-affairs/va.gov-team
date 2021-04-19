@@ -12,15 +12,15 @@ Link to product outline: [Product Outline](https://github.com/department-of-vete
 - As of April 2021, we are now adding the ability to upload representation documentation.
 
 ## Use Cases
-| Use Case | Veteran | PFC | SFC - 1 | SFC - 2 | POA | Description                   |
-|----------|---------|-----|---------|---------|-----|-------------------------------|
-| A        | X       | X   |         |         |     | Vet + PFC                     |
-| B        | X       | X   | X       |         |     | Vet + PFC + SFC1              |
-| C        | X       | X   | X       | X       |     | Vet + PFC + SFC1 + SFC2       |
-| D        | X       |     | X       |         |     | Vet + SFC1                    |
-| E        | X       |     | X       | X       |     | Vet + SFC1 + SFC2             |
-| F        | X       | X   |         |         | X   | Vet + PFC + POA               |
-| G        | X       | X   | X       |         | X   | Vet + PFC + SFC1 + POA        |
-| H        | X       | X   | X       | X       | X   | Vet + PFC + SFC1 + SFC2 + POA |
-| I        | X       |     | X       |         | X   | Vet + SFC1 + POA              |
-| J        | X       |     | X       | X       | X   | Vet + SFC1 + SFC 2 + POA      |
+| Use Case | Vet | PFC | SFC1 | SFC2 | POA | Description                   |
+|:--------:|:---:|:---:|:----:|:----:|:---:|-------------------------------|
+|     A    |  X  |  X  |      |      |     | Vet + PFC                     |
+|     B    |  X  |  X  |   X  |      |     | Vet + PFC + SFC1              |
+|     C    |  X  |  X  |   X  |   X  |     | Vet + PFC + SFC1 + SFC2       |
+|     D    |  X  |     |   X  |      |     | Vet + SFC1                    |
+|     E    |  X  |     |   X  |   X  |     | Vet + SFC1 + SFC2             |
+|     F    |  X  |  X  |      |      |  X  | Vet + PFC + POA               |
+|     G    |  X  |  X  |   X  |      |  X  | Vet + PFC + SFC1 + POA        |
+|     H    |  X  |  X  |   X  |   X  |  X  | Vet + PFC + SFC1 + SFC2 + POA |
+|     I    |  X  |     |   X  |      |  X  | Vet + SFC1 + POA              |
+|     J    |  X  |     |   X  |   X  |  X  | Vet + SFC1 + SFC 2 + POA      |
