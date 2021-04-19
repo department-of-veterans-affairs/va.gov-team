@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated March 16, 2021
+Last Updated April 19, 2021
 
 ## POCs
 
@@ -55,7 +55,7 @@ The VA is ramping up their digital communications efforts, specifically through 
 - Veterans will be able to update how they want to receive different types of communications from the VA.
 - Since this is integrated through VA Profile, those preferences will be consumable across the VA. So, that means that veterans should only have to update these preferences in one place — either the VA.gov profile, through a call center, etc — and that info should get updated everywhere.
 
-## KPIs
+## Measuring success
 
 We'll need to set up baseline metrics on:
 
@@ -78,6 +78,8 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **December 2020**: Clarifying technical details and timelines with VA Profile.
 - **January 2021**: Backend integration begins; full definition of MVP outlined.
 - **February 2021**: Backend integration continues as we wait for API access from Terry; Team meets with Terry to discuss governance and group filtering.
+- **March 2021**: Design begins
+- **April 2021**: Initia design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
 
 ## Product Decisions
 
