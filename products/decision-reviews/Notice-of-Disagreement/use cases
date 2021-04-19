@@ -1,4 +1,4 @@
-# Product Use Cases Template
+# NoD Use Cases
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
@@ -32,10 +32,10 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   
 
 * **Link to designs**
-  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
+  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+  - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
 
 ## Use Case B
 
@@ -50,10 +50,10 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   - Submit
 
 * **Link to designs**
-  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
+  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+  - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
 
 ## Use Case C
 
@@ -69,10 +69,10 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   
 
 * **Link to designs**
-  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
+  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+  - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
   
   ## Use Case D
 
@@ -86,8 +86,8 @@ Link to product outline: [Notice of Disagreement](https://github.com/department-
   - Submit
 
 * **Link to designs**
-  - [https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page]
+  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - [https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182]
+  - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
 
