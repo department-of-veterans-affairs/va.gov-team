@@ -39,6 +39,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [686 Form](#686-form)
       - [Chapter 36](#chapter-36)
       - [View Payments](#view-payments)
+      - [Chapter 31](#chapter-31)
     - [VFS Education](#vfs-education)
       - [Colmery Act Opt Out](#colmery-act-opt-out)
       - [Education Feedback Tool](#education-feedback-tool)
@@ -505,7 +506,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _[Full a11y review started January 25, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15386)_<br/>
 **Open issues**
-Note: many of these were transferred from the original staging review
 
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #17004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17004)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Checkbox selections MUST be clear to the user on the review information page - #16997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16997)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
@@ -533,7 +533,32 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
+#### Chapter 31
 
+**Audit status:** _[VSA staging review completed the week of March 29, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22653)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER]: Wizard remediation - #22988](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22988)<br/>**Opened:** April 9, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker [SCREENREADER, COGNITION]: Step 2 of 4, legend must be the first child of the fieldset so it can be announced - #22876](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22876)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [SCREENREADER]: Information between form fields will not be discoverable to screen reader users - #22878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22878)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [HEADINGS, COGNITION]: Review page, headings should be logically ordered and consistently used - #22880](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22880)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [HEADINGS, COGNITION]: Headings should be logically ordered - #22883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22883)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [SCREEN READER]: Create a "results" slide upon ending the VR&E orientation - #22660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22660)<br/>**Opened:** April 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [KEYBOARD]: Focus should be placed on the h3 when navigating backwards to the first slide in the VR&E Orientation slideshow - #22663](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22663)<br/>**Opened:** April 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [sitewide 508-defect-2 [COGNITION, KEYBOARD]: Focus MUST not be hidden by the sticky profile menu - #22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [COGNITION]: Ch31 home, links must not rely on color - #22827](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22827)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [HEADINGS, AXE-CORE]: Apply page, heading levels should only increase by one - #22845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22845)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [HEADINGS, AXE-CORE]: Eligibility page, heading levels should only increase by one - #22837](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22837)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [sitewide defect-level-3 [FOCUS]: When closing the "in this section" menu, focus should be placed back on the "in this section" button - #22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Ch31 home, lists should be announced as lists in VoiceOver - #22831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22831)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Introduction page, links should be styled and written as links - #22846](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22846)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION] Eligibility page, links should be styled as links - #22840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22840)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Review page, it's not clear if a user has not selected a time - #22881](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22881)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-4 [COGNITION]: Reword or design the education math problem on step 2 of 4 - #22874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22874)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-4 — **_Trivial_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
 ### VFS Education
 
 #### Colmery Act Opt Out
