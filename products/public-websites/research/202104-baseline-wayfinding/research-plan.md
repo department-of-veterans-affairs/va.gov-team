@@ -93,8 +93,8 @@ May 4, 2021 | Noon - 8:30 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-April 22, 2021 | TBD
-April 23, 2021 | TBD
+April 21, 2021 | 2 pm
+April 22 or 23, 2021 | TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
