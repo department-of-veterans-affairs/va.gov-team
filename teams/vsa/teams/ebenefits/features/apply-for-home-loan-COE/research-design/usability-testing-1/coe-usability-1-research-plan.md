@@ -5,8 +5,6 @@
 
 ---
 
-`Work-in-progress`
-
 #### Background
 
 Veterans and service members (and surviving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
@@ -83,8 +81,8 @@ Recruit for 6 fulfilled sessions using the following criteria:
 | April X  | 9 AM to Noon |
 | April X  | 9 AM to 5 PM |
 
-- Schedule sessions as 60-minute blocks
-- Please leave 30 minutes between sessions 
+- Schedule sessions as 30-minute blocks
+- Please leave at least 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
 
 ### Team members
@@ -108,9 +106,9 @@ Recruit for 6 fulfilled sessions using the following criteria:
 - Others -- Pending
 
 ### Resources
-- [Project brief]()
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE)
 
-- [Conversation guide]() (In-progress)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
 
 - [Session notes]() (Available at conclusion of research)
 
@@ -120,11 +118,11 @@ Recruit for 6 fulfilled sessions using the following criteria:
 
 ### References
 
-- [Mockups]()
+- [Mockups](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/comment/sitemap,comments)
 
-- [Prototype]()
+- [Prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/simulate/sitemap?mode=f)
 
-- [Feature flow diagrams]()
+- [Feature flow diagrams](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/)
  
 ---
 
