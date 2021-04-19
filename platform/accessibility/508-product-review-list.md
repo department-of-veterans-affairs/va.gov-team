@@ -96,6 +96,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Search Typeahead](#search-typeahead)
     - [COVID-19 Vaccine Trial Registry](#covid-19-vaccine-trial-registry)
     - [VSA Content Localization](#vsa-content-localization)
+    - [VSA Document Localization](#vsa-document-localization)
       - [VSA Translations Spanish Corona](#vsa-translations-spanish-corona)
     - [VSP Automation](#vsp-automation)
       - [Nightwatch](#nightwatch)
@@ -334,9 +335,11 @@ Back to [Table of Contents](#table-of-contents)
 ---
 #### Discharge Wizard
 
+**Audit status:** _[VSA staging review completed the week of March 29, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22569)_
 **Open issues**
 
-- [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [Defect-level-3 [SCREEN READER]: File for disability compensation wizard contingent information presented not spoken by screen readers - #22612](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22612)<br/>**Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
+- [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -1204,6 +1207,14 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - 18696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18696)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
   
 
+Back to [Table of Contents](#table-of-contents)
+
+#### VSA Document Localization
+
+**Open issues**
+
+- [508-defect-1❗️[SCREEN READER, PDF]: 10-10ez Spanish pdf must have Spanish as its selected primary language - #22651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22651)<br/>**Opened:** April 4, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+  
 Back to [Table of Contents](#table-of-contents)
 
 ---
