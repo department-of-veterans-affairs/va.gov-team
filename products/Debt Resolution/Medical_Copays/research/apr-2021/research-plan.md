@@ -78,10 +78,10 @@ What are you looking for in a participant?
 * Participants must be comfortable with discussing their past experiences with VA Health Care copayments.
 * Please screen participants based on these questions:
   * Which of the following describes you?
-    1. I use VA health care and pay for copays (Qualify 9 participants)
+    1. I use VA health care and pay for copays (Qualify 8 participants)
     2. I use VA health care and do not pay for copays (proceed to next question)
     3. I do not use VA health care (Disqualify)
-  * Why do you not pay for copayment charges? (Qualify 6 total)
+  * Why do you not pay for copayment charges? (Qualify 7 total)
     1. My disability rating is 50% or higher (Qualify up to 4)
     2. My secondary insurance covers my copayment (Qualify up to 4)
     3. I asked for financial assistance (Qualify if available)

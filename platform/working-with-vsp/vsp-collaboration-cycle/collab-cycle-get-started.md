@@ -81,4 +81,8 @@ Examples of **research with VA.gov users** include:
 
 ### Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
 ### If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
-We ask these questions to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary. 
+
+We ask these questions to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
+
+**Please note that Domo is on Pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics support will still be provided.**
+

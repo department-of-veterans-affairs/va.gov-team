@@ -150,24 +150,27 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 
 ## Solution Approach
 
-What are you going to build now, and why have you decided to start there? 
+*What are you going to build now, and why have you decided to start there? 
 
 We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
-Why this solution / approach over other solutions / approaches? 
+*Why this solution / approach over other solutions / approaches? 
+
 The short and mid-term approaches outlined above are the quickest and simplest solution that allows us to start providing translated content while conducting research and gathering data to help inform a long-term solution.
 
-What have you explicitly decided to not include in this initial set of functionality, and why? 
+*What have you explicitly decided to not include in this initial set of functionality, and why? 
+
 - We're not including Drupal integration for Corona/Covid work because we don't have the resources to support the work.
 - We will only support the short and mid-term approaches for a handful of critical pages since the approach we use is resource intensive and not sustainable
 - We wont support translations for non-content pages such as forms since is more complex and may require a different approach.
 
-How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)? 
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?
+
 - We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 
-What’s Next
+*What’s Next
 - Conduct stakeholder interviews (internal)
 - Research and engage with potential software partners and other agencies within the government
 - Develop a recommendation document that includes technical research and internal stakeholders needs
@@ -233,8 +236,15 @@ ________________________________________
 ## Implementation Info
 
 ________________________________________
-
 ## Technical Decisions
+
+
+________________________________________
+## Technical Considerations/Options
+
+
+
+
 
 ________________________________________
 ## Product Decisions
@@ -255,7 +265,26 @@ ________________________________________
  ii. https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E1B32CF9E602F287902AD91F1D10DA7D/S1935789320001512a.pdf/public_health_communication_in_time_of_crisis_readability_of_online_covid19_information.pdf 
 
 
-Cloud-based technology stores, tracks and manages multilingual content across different enterprise applications allowing continuous, integrated translation in real time. For large, complex translation projects — assuming there are no internet connectivity problems — the best way to handle the volume, continuity and synchronization between several different departments and locations is by managing translation in the cloud.
 
-Cloud-based translation is continuous translation with no down time — unless, again, the internet goes down. Content that is constantly changing needs a dynamic and agile tool to keep up with the increasing demand for round-the-clock translation and distribution.
-A cloud-based translation platform may give companies more control over their content, and keeps corporate information in a single native environment.
+
+## Translation vs Localization
+
+Translation
+
+Converting content from the source language to the target language, respecting grammar rules and syntax.
+
+
+Localization
+
+Adapts messaging to local audiences and addresses cultural as well as non-textual components. Date formats, text length differences and layouts, currency units are all considerations when "localizing" content.
+
+Aspects of Localization
+
+Translation of the product's interface and documentation
+Colours, images, graphics and icons: adapting to cultural and legal requirements
+Rendering (can we display the text correctly, does the new text fit inside the allocated space), fonts (do we have fonts and characters for the language), bi-directional text needed in Arabic and other languages.
+Locale data: how to display dates, time, number, currency and other regional data.
+
+
+
+

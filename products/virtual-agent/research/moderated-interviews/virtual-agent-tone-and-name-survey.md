@@ -11,11 +11,12 @@ This product will be hosted on VA.gov as a virtual agent, colloquially known as 
 
 **3. Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
-We want to learn if veterans will prefer a more anthropormorhic chatbot with a friendlier personality and name, or if a more professional, service driven, generic named chat bot like, VA, would better serve their needs. We also hope to learn about the likelihood of veterans adopting a chatbot as their primary way to find information on VA.gov.
+We want to learn if veterans and other users will prefer a more anthropomorhic chatbot with a friendlier personality and name, or if a more professional, service driven, generic named chat bot like, VA or Omni, would better serve their needs. We also hope to learn about the likelihood of veterans adopting a chatbot as their primary way of contacting the VA.
 
 **4. Hypothesis: What is your hypothesis for this research?** 
 
-As a veteran myself, I hypothesize that a professional, polite and service driven tone using existing plain language content from VA.gov will be preferred, and that whether it has a name or not is secondary to the quality of serice it provides. It needs to be helpful or else it doesn't matter what it is called. 	
+As a veteran myself, I hypothesize that a professional, polite and service driven tone using existing plain language content from VA.gov will be preferred, and that whether it has a name or not is secondary to the quality of serice it provides. It needs to be helpful, open and inviting or else it doesn't matter what it is called. 	
+
 ## Method	
 **1.	What method of research are you planning?** 	
   
@@ -66,7 +67,7 @@ Please list your participant criteria in two categories-
 **1.	Timeline: What dates do you plan to do research?** 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
 
-April 21-28, 2021
+April 26-30, 2021
 
 **2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)**
 
@@ -74,17 +75,17 @@ Not testing anything, only interviewing to gather info/opinions on chatbots.
 
 **3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.**
 
-30 minutes with 15 minute buffer.
+45 minutes with 15 minute buffer.
 
 **4.	Availability: If applicable, when would you like sessions scheduled?** *Please list exact dates and times in EASTERN Standard Time*. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 
-Wednesday, 4/21 9-5pm; Thursday, 4/22 9-12pm, 1-2:30pm, 3:45-5pm, Friday, 4/23 9-10am, 11-2pm, 3-5pm, Monday, 4/26 9-1pm, 2-5pm; Tuesday, 4/27 9-12:30pm, 2-3pm; Wednesday, 4/28 9-5pm
+Monday, 4/26 9-1pm, 2-5pm; Tuesday, 4/27 9-12:30pm, 2-3pm; Wednesday, 4/28 9-5pm; Thrusday, 4/29 9-4pm; Friday, 4/30 9-10am, 12-2pm, 3-5pm
 
 10 minutes between sessions
 
 **5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Unsure what this means or if it adheres to us.
+4/21; Luciana Morais and Rachel Murray
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -92,8 +93,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator):	Shane Strassberg
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Shane Strassberg
-- Participant(s) for pilot test:	
-- Note-takers: Rachel Murray or Shane Strassberg
+- Participant(s) for pilot test: Veterans	
+- Note-takers: Rachel Murray or Shane Strassberg, and other Thoughtworks team members
 - Observers: Luciana Morais; luciana.morais@va.gov, Katie Ho; kho@thoughtworks.com, Shahrukh Shamshair; sshamsha@thoughtworks.com
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	

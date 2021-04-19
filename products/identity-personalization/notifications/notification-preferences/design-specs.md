@@ -1,7 +1,5 @@
 # Notification preferences
 
-`draft`
-
 ## Relevant links
 
 - [Mobile prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i)
@@ -26,6 +24,16 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 
 ## Design 
 
+Mobile and desktop example shows:
+
+- Read mode
+- 1 group (health care)
+- Assortment of notifications that don't have a group defined in the API
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-desktop-edit-mode.png)
+
 ### Prototypes
 
 - Use prototype links above for latest versions of design.
@@ -42,11 +50,11 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 
 Copy below `h1`:
 
-> We’ll send notifications to the email address and mobile number in your profile: 
+> We’ll use the contact information from your profile to send notifications: 
 > ​**user email**
-> ​**user phone**
+> ​**user mobile phone**
 >
-> [Update your contact information] - (link text to profile personal and contact info section)
+> [Update your contact information](/profile/personal-information)
 
 Copy for notification types, channels, groups, and settings will come through VA Profile's API.
 
@@ -103,12 +111,35 @@ Display warning alert where email/phone and `update contact info` link would nor
 
 ### No contact info on file
 
+- Display info background only alert immediately below `h1`
+- Hide notifications + groups
+
 #### Copy
 
-Awaiting copy approval
+> We don’t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
 
 ### Partial contact info (missing email or phone)
 
+- Display the contact information we do have
+
+- Display info background only alert immediately below the "**Note:...**" 
+
+- Alert should reference the contact information that's missing
+
+  - Mobile phone number
+
+  - Email address
+
+[Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
+
 #### Copy
 
-Awaiting copy approval
+**Alert Copy**
+
+> If you’d like to get notifications by [missing channel], add your [missing contact info] to your profile.
+>
+> [Update your contact information] (/profile/personal-information)
+
+**In edit mode, replace relevant checkbox with this text:**
+
+> *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*

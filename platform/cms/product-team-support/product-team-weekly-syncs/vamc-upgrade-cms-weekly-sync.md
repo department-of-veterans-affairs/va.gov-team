@@ -21,16 +21,46 @@
 
 </details>
 
+## Friday Apr 23
+
+* VAMC policies page rollout
+
+Menu governance
+* Pittsburgh menu and IA changes
+* Dual state menu and IA changes
+
+
 ## Friday Apr 16
 
 * any outcome from training meeting from Tuesday 12
-* help desk triage
+  * Went well, walked PAOs through a lot of issues they were having
+  * All attendees were active on prod and had completed training
+  * May step up to once a week
+  * Stan producing an artifact, and meeting was recorded.  
+  * What is the right flavor of artifact to pull insights from
+    * What can we learn about training (improving videos)
+    * What can we learn about editorial experience
+    * What can we learn for product iterations
+  * Next one is April 27
+* Help desk triage
+* Reinforce directing folks to `support@va-gov.atlassian.net`
+  * When emails are sent directly, reply with a `TO:` to this email address
+  * Update signatures on va.gov email to include support email address
+  * We're trying to kill off `vacmssupport@va.gov` email address, so remove where we see it
+  * Lisa and Stan to check on emails
+  * Do we need to update users or any other artifacts that have the old email address
 * Go-live timeline
-* Validate runbook for Go-live (separate meeting with Facilities)
+* Validate runbook for Go-live (separate meeting with Facilities) 
+  * Stan will set up. 
 * Account creation
 * Account Permission - Publishing (e.g. VISN level permissions to publish?)
+  * A few PAOs have VISN level responsibilities
+  * Eg at VISN 21, a publisher has access at VISN level, but should have access only to certain VAMCs
+  * Lisa to update Ero about Sections needs for these folks
+  * VAMC dual state rollout can try to group these together 
 * Update on any CMS changes or updates that VAMC needs to be aware of that may impact production. (i.e. Removing generic FHS)
-* 
+  * 
+
 
 ## Friday Apr 8
 

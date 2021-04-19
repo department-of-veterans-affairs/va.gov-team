@@ -14,11 +14,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to ask you some questions about chatbots, your experience with them in general, and what you might expect from one from the VA. 
@@ -46,15 +41,15 @@ Before we start, a few things I want to mention:
 3. How do you normally find information you need on VA.gov?
 4. Have you ever used a chatbot or virtual agent online?
 5. Can you describe your experience using this bot?
-6. Based on your experience, and on a 1-5 scale, do you think this bot was helpful to answer your questions or accomplish your task?
+6. Based on your experience, and on a 1-5 scale, where 1 is not at all helpful, and 5 is very helpful, do you think this bot was helpful to answer your questions or accomplish your task? 
 7. From 0-100%, how confident were you in the bots responses?
-8. Based on your experience, and on a 1-5 scale were you satisfied with the service of this bot?
+8. Based on your experience, and on a 1-5 scalewhere 1 is not at all satisfied, and 5 is very satisfied, were you satisfied with the service of this bot?
 9. Based on your experience, would you use a chatbot again to help answer questions or accomlish a task?
 10. Have you had experience using the coronavirus chatbot on VA.gov?
 11. If yes, please describe your experience. 
-12. Based on your experience, and on a 1-5 scale, do you think this bot was helpful to answer your questions or accomplish your task?
+12. Based on your experience, and on a 1-5 scale, where 1 is not at all helpful, and 5 is very helpful, do you think this bot was helpful to answer your questions or accomplish your task?
 13. From 0-100%, how confident were you in the bots responses?
-14. Based on your experience, and on a 1-5 scale were you satisfied with the service of this bot?
+14. Based on your experience, and on a 1-5 scale, where 1 was not at all satisfied, and 5 was very satisfied, were you satisfied with the service of this bot?
 15. If the VA were to build a more general chatbot for VA.gov, what type of conversational tone would you prefer it have?
 16. Should a VA chatbot have a human or human-like name? Please describe why or why not.
 17. If it should have a name, what should it be that would be representative for all veterans, care-takers, and family-members who would interact with it?

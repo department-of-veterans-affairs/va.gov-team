@@ -28,24 +28,40 @@ Recruiting through Perigean.
    - All participants must have experience with MHV. 
 3. We’re looking for a wide range of experience with VA services and are also using age as a proxy for identifying War Era segments. Since VA services have changed over time, we want to see responses from various age groups. We think they may have different levels of investment in VA brands based on the length of their relationship with VA.
 
-- Cohort 1 (5 participants age 18–24 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 1 (5 participants age 18–24 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 2 (5 participants age 25–34 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 2 (5 participants age 25–34 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 3 (5 participants age 35–44 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 3 (5 participants age 35–44 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 4 (5 participants age 45–54 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 4 (5 participants age 45–54 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 5 (5 participants age 55–64 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 5 (5 participants age 55–64 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 6 (5 participants age 65–74 ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 6 (5 participants age 65–74 ) - group B - (https://ows.io/os/rgfrzv82)
-- Cohort 7 (5 participants age 75+ ) - group A - (https://ows.io/os/6vbc0yzh)
-- Cohort 7 (5 participants age 75+ ) - group B - (https://ows.io/os/rgfrzv82)
+- Cohort 1 (5 participants age 18–24 ) - group A - 
+- Cohort 1 (5 participants age 18–24 ) - group B - 
+- Cohort 2 (5 participants age 25–34 ) - group A - 
+- Cohort 2 (5 participants age 25–34 ) - group B - 
+- Cohort 3 (5 participants age 35–44 ) - group A - 
+- Cohort 3 (5 participants age 35–44 ) - group B - 
+- Cohort 4 (5 participants age 45–54 ) - group A - 
+- Cohort 4 (5 participants age 45–54 ) - group B - 
+- Cohort 5 (5 participants age 55–64 ) - group A - 
+- Cohort 5 (5 participants age 55–64 ) - group B - 
+- Cohort 6 (5 participants age 65–74 ) - group A - 
+- Cohort 6 (5 participants age 65–74 ) - group B - 
+- Cohort 7 (5 participants age 75+ ) - group A - 
+- Cohort 7 (5 participants age 75+ ) - group B -
 
 
 Individual groups of 10 that are A/B split between the branded and unbranded variants.
 
+### E-mail to Participants
+
+Hello <<First Name>>, 
+
+Thank you for agreeing to participate in a card sort activity for the Department of Veterans Affairs. Feedback from people like you is crucial to help us better meet the needs of Veterans and their families.
+
+Please follow the instructions below:
+
+1. Click this link and complete the card sort activity. <<card-sort-link>>
+2. At the end of card sort activity there will be a place to enter a code. Come back to this email so you can copy and paste this code into the form. Code: <<participation-code>>
+3. Once you have followed the instructions, entered that code, and clicked the “Submit” button you’re finished and can close the window.
+
+Thank you again for all your support! Please feel free to reach out if you have any questions.
+
+Best,
+The VA Team
 
 
 ### When?

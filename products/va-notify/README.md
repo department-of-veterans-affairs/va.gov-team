@@ -22,7 +22,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Upcoming Capabilities](#upcoming-capabilities)
 - [See Who We Are Working With](#See-Who-We-Are-Working-With)
 - [Recent Successes](#recent-successes)
-- [Find Out More & Get In Touch With Us](#Find-Out-More-&-Get-In-Touch-With-Us)
+- [Find Out More &amp; Get In Touch With Us](#find-out-more--get-in-touch-with-us)
 - [Incident Response](#incident-response)
 _____________________________________________________________________________________________________________________________________________________________
 
