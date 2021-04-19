@@ -10,6 +10,8 @@
 - Increase in the number of online applications
 - Less time to complete an application
 - Fewer dropoffs/incomplete applications
+- More returns and submissions of saved applications
+- Greater user understanding of what and why information is asked for in the application
 
 ## Undesired User Outcomes
 - Longer time to apply
@@ -49,26 +51,28 @@
 
 ### Objectives and Key results (OKRs)
 
-- Objective: More Veterans apply for health care online
+- Objective: More eligible Veterans apply for health care online
   - Key result: Number of applications increase
   - Key result: Proportion of applications submitted online vs. in person increases 
 
 ---
 
 ## Assumptions
-- If we make the online health care application easier, fewer Veterans will feel uncomfortable applying online.
+- If we make the online health care application:
+  - More user friendly 
+  - Give clearer explanation of required information + why it is required
+  -  Provide reminders for authenticated users who have saved application, but not returned to it
+-  then more Veterans will complete the health care application online.
 
 ## Solution Approach
 
-- As of 10/2020, we're going to focus on:
+- As of 04/2021-05/2021, we're going to focus on:
    - Understanding what Veteran pain points are with the current application process (research and discovery)
-   - Updating the UI to meet VA.gov design & accessibility standards
-   - Adding a question distinguishing between mailing & residential addressses
+   - Gain insight on offline workarounds used by VA staff who process applications
    - Updating any content around the health care application pages that may be a source of confusion
-   - Updating the questions on the online form to align with the new 10-10EZ
-- As of 11/2020, we're going to focus on:
-   - Validating assumptions regarding usage of the online form pre- and during COVID
-   - Using that research to guide whether to focus our Q1 efforts on the form itself or how Veterans get to the form. 
+   - Understanding what methods can be used to prompt authenticated users to return to the application after save/exit
+- As of 05/2020, we're going to focus on:
+   - Testing design and content iterations based on research discovery to improve user experience
 
 --- 
 
@@ -152,7 +156,7 @@
  - DEPO Lead: Ming, Danielle
  - PM: Alayna
  - Engineering: Justin, Kevin
- - Research/Design: Jonathan
+ - Research/Design: Dené
  
 </details>
 
