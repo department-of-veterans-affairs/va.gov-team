@@ -57,14 +57,13 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 ## Measuring success
 
-We'll need to set up baseline metrics on:
+These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
 
-- How many preferences are updated
-- Successful loading of people's preferences in the profile
-- Successful saves
-- Errors
+**Objective: Present Veterans with a consolidated display of all notification types and settings available through VA.gov, and allow them to easily update their preferences.**
 
-It would be nice to have metrics on how this affects paper correspondence, but this has historically not been possible to get. 
+- **Key result #1: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).**
+- **Key result #2: Establish a baseline metric for % of successful retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).**
+- **Key result #3: Establish a baseline metric for % of successful saves of notification preference information (assumes late Q3 or early Q4 launch).**
 
 # Implementation Info
 
