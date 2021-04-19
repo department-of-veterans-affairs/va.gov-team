@@ -21,6 +21,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VSA Authenticated Experience](#vsa-authenticated-experience)
       - [Address Validation](#address-validation)
       - [Benefits Recommendations](#benefits-recommendations)
+      - [Profile 2.0](#profile-20)
     - [VSA Benefits and Memorials](#vsa-benefits-and-memorials)
       - [526v2 All Claims](#526v2-all-claims)
       - [Discharge Wizard](#discharge-wizard)
@@ -310,6 +311,27 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
 **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Profile 2.0
+
+**Audit status:** _[VSA completed a full 508 audit the week of April 12, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23168)_<br/>
+**Open issues:**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER]: Text reminders checkbox alert MUST be announced to screen reader users and should be persistent - #23168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23168)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker [SCREEN READER, COGNITION] Unable to update address, phone number and email address. Silent error messages. - #23252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23252)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [COGNITION]: H1 should match or be included in the page title - #19552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19552)<br/>**Opened:** February 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2: Add information buttons must not rely on color - #23159](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23159)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [SCREENREADER]: The text reminders checkbox label should be descriptive - #23169](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23169)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXE-CORE]: Autocomplete attribute must be used correctly for home address/mailing address checkbox - #23173](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23173)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXE CORE]: Heading should not be focusable while within the mobile profile menu button - #23254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23254)<br/>**Opened:** April 14, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [COGNITION]: Edit, cancel, and remove buttons SHOULD be styled as buttons - #19562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562)<br/>**Opened:** February 5, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [SCREENREADER]: International support information should programmatically describe the number field - #23162](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23162)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Links should be styled as links, connected apps - #23171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23171)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Link text should make sense when taken out of context in the disconnect alert on connected apps - #23436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23436)<br/>**Opened:** April 19, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
