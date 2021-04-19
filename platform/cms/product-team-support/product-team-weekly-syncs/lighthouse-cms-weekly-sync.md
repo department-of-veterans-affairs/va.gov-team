@@ -22,6 +22,28 @@
 * Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`; or unique CAP ID, in the same way as Facility Status
   - What would Lighthouse need to accept? prioritize for 4/19/21
   - There's something in VAST (parent)
+  - CMS challenge: finding the relationship between VCs (e.g. VCNumber = 327 for Greensboro Vet Center, Spindale Outstation, and Greensboro Mobile Vet Center)
+  - Exists in VAST (is this the source of truth?) but not available in the Facility API (should it?)
+  - Problem we're tring to solve = trying to find a data source to show parent/child relationship
+    - Dave is unsure of the accuraby of the data in VAST so hesitatnt to use them as the sourve of truth
+    - Don't know if it's acitively being used and maintained
+    - Upcoming meeting with VAST may provide clarity
+    - Don't put any effort into this until we have more information
+    - Question in the short term: how should Lighthouse handle new CAP site IDs? newly CMS generated IDs
+      - Lighthouse would need to set up a new push/pull system to include IDs
+      - CMS would want to keep the structure of the payload as similar to what's existing for services
+- Upcoming VAST meeting coordination
+  - Scheduled for Web, 4/21
+  - Goal of the meeting: to understand what VAST collects and why so CMS can communicate to users cohesively; understanding how there may be gaps in the way the field uses VAST (specifically around mobile facilities; e.g. mobile bus location schedules)
+  - Questions for VAST:
+    - How do they turn on/off Facility closure info (temporary closure, permanent closure, planned)?
+    - How can we leverage to teach the field to manage correctly?
+    - Clarity on the VCNumber field, how it's being used, is it being maintained?
+- Facility status disconnects
+  - Lighthouse currently implementing a fix, should be resolved
+  - CMS to manage what to do with that info
+- Dave out next 2 Mondays
+- Detailed services: discussions ongoing around fields being classified as null or not null
 * Action Items:
   - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review) - no update as of 4/12
   - Lighthouse to investigate pushing of services in bulk. (+11,000 if doing a bulk push of one service at a time, not an immediate need) - no update as of 4/12
