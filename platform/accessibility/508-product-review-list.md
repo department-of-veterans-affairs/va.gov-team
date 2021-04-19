@@ -147,8 +147,6 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
 **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-- [[SCREENREADER]: JAWS + Chrome enables focus mode when we focus breadcrumb UL on page load - #319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319)<br/>
-**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[IMPROVEMENT]: STEM Standalone - CONSIDER using a higher resolution image for the personal check in Step 5 - #12343](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
 **Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
@@ -203,8 +201,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [sitewide, forms 508-defect-3 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading - #9218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9218)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
-**Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [Implement utility class for removing gold outline during focus - #457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457)<br/>
 **Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
