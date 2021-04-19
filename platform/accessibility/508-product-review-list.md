@@ -90,7 +90,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Salt Lake City VA Medical Center](#salt-lake-city-va-medical-center)
       - [Sheridan VA Medical Center](#sheridan-va-medical-center)
     - [App Directory](#app-directory)
-    - [COVID-19 Vaccine Prep Tool](#covid-19-vaccine-prep-tool)
+    - [COVID-19 Keep Me Informed](#covid-19-keep-me-informed)
+    - [COVID-19 Keep Me Informed Family and Caregivers](#covid-19-keep-me-informed-family-and-caregivers)
     - [VSA Search and Discovery](#vsa-search-and-discovery)
       - [Search Typeahead](#search-typeahead)
     - [COVID-19 Vaccine Trial Registry](#covid-19-vaccine-trial-registry)
@@ -1134,7 +1135,26 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### COVID-19 Vaccine Prep Tool
+### COVID-19 Keep Me Informed Family and Caregivers
+
+**Audit status:** _[VSA staging review completed week of March 29, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22249)_<br/>
+**Open issues**<br/>
+
+- [508-defect-1 ❗️ Launchblocker [SCREENREADER]: Focus must be managed for single-page applications - #22292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22292)<br/>**Opened:** March 29, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2 [SCREENREADER]: Error messages must be announced when tabbing through fields - #22298](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22298)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [SCREEN READER]: Notes should be programatically linked with aria-describedby to their relevant fields - #22303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22303)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [HEADINGS]: "What you should know" on the sign up page should be a heading level 2 - #22280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22280)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [SCREENREADER]: Location of medical centers are not being announced by VoiceOver on step 5 of 6 - #22337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22337)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION, SCREENREADER]: Edit and update page buttons SHOULD have accessible labels on Review screen - #22339](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22339)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [HEADINGS]: Headings must be ordered logically on Step 1 of 5: Make sure you’re eligible - #22326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22326)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-3 [COGNITION]: "Sign up now" link should be styled as a link using the Action Link component - #22282](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22282)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [508-defect-3 [COGNITION, SEMANTIC MARKUP]: Link text should make sense when taken out of context - #22283](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22283)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-3 - **Moderate**_
+- [508-defect-4 [SEMANTIC MARKUP]: Use P for paragraphs, not SPAN - #22293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22293)<br/>**Staging** | **Opened:** March 29, 2021 | **Severity:** _508-defect-4 - **Trivial**_
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### COVID-19 Keep Me Informed
 
 **Audit status:** _VSP [staging review underway](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16987) week of December 7, 2020_<br/>
 **Open issues**<br/>
