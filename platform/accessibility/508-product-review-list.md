@@ -896,9 +896,7 @@ Back to [Table of Contents](#table-of-contents)
 
 
 **Open issues**
-- [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
-- [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -942,11 +940,9 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[#14432 508-defect-2 COGNITION]: The page MUST specify the language](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-- [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_
 - [Undo temporary fix after axe-core package is updated. - #21878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21878)<br/>**Opened:** March 22, 2021 | **Severity:** _508-defect-4 - **Trivial**_ 
 
 Back to [Table of Contents](#table-of-contents)
@@ -959,10 +955,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [COGNITION]: Links MUST NOT rely on color - #18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [508-defect-2 [COGNITION]: Find Form Results - Spanish content must include a lang="ES" attribute for proper pronunciation with assistive technology - #18434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [sitewide 508-defect-2 [COGNITION, SCREENREADER]: Pagination SHOULD use meaningful landmarks and aria techniques - 18398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18398)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION]: Links SHOULD be styled as links - 18395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18395)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-3 - **Minor**_ 
-- [508-defect-4 [SCREENREADER]: Purely presentational content should not be announced to screen reader users - 18438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18438)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-4 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
 
