@@ -33,7 +33,7 @@
       - Lighthouse would need to set up a new push/pull system to include IDs
       - CMS would want to keep the structure of the payload as similar to what's existing for services
 - Upcoming VAST meeting coordination
-  - Scheduled for Web, 4/21
+  - Scheduled for Wed, 4/21
   - Goal of the meeting: to understand what VAST collects and why so CMS can communicate to users cohesively; understanding how there may be gaps in the way the field uses VAST (specifically around mobile facilities; e.g. mobile bus location schedules)
   - Questions for VAST:
     - How do they turn on/off Facility closure info (temporary closure, permanent closure, planned)?
