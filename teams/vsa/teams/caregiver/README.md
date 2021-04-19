@@ -5,22 +5,19 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 
 ### Slack Channels
 - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver) (Collabortion with other VSA teams)
-- [#vsa-caregiver-core](https://dsva.slack.com/channels/vsa-caregiver-core) (Team collaboration)
-- [#vsa-caregiver-updates](https://dsva.slack.com/channels/vsa-caregiver-updates) (Communication with stakeholders)
 
 
 ### Github Labels
-- `caregivers`
+- `#vsa-caregiver`
 
 
 ### Points of Contact 
 
-- VA Product: CC Gong
+- OCTO-DE Product: Ming Ligh
 - Product Management:  Alayna Abel
-- Front-End Engineering: Justin Linn 
+- Front-End Engineering: TBD 
 - Back-End Engineering: Kevin Mircovich
-- Research and Deisgn: Jonathan Nelson
-- Content Writing: Patrick Sanders
+- Research and Design: Dené Galbadón 
 
 ### Key Documents
 
