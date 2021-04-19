@@ -33,6 +33,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Debt Letters MVP](#debt-letters-mvp)
       - [Debt Letters Iteration Two](#debt-letters-iteration-two)
       - [Higher Level Review](#higher-level-review)
+      - [Debt Resolution Online FSR Form](#debt-resolution-online-fsr-form)
     - [VSA eBenefits](#vsa-ebenefits)
       - [Direct Deposit](#direct-deposit)
       - [Rated Disabilities](#rated-disabilities)
@@ -450,6 +451,22 @@ Back to [Table of Contents](#table-of-contents)
 
 - [Work-in-progress 508-defect-1 [COGNITION, SEMANTIC MARKUP]: Form field instructions MUST be associated with inputs or buttons - #16261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16261)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [508-defect-2 [COGNITION, SCREEN READER, MOBILE]: Mobile and screen reader users SHOULD know there is relevant info after the call-to-action button - #16182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16182)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
+
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+#### Debt Resolution Online FSR Form
+
+**Audit status:** _[VSA Staging Review completed week of April 5, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22685)_<br/>
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER]: Wizard remediation - #22725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22725)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker: File for Debt resolution, Select payroll deduction, Unlabeled link and other feedback - #22888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22888)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker - Debt Resolution, form certification not working - #22892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22892)<br/>**Opened:** April 7, 2021 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [AXE, SCREENREADER]: Wizard, link's aria-describedby ID does not exist on the page - #22729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22729)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [COGNITION]: Wizard, "Request help with VA Form 5655" should be written and styled as a link - #22730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22730)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [COGNITION]: Wizard, links should be styled as links - #22733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22733)<br/>**Opened:** April 6, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
 
 
 Back to [Table of Contents](#table-of-contents)
