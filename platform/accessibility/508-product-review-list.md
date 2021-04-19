@@ -1199,6 +1199,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _Staging review by VSA on January 18, 2021_<br/>
 **Open issues**
 
+- [508-defect-1❗️[SCREEN READER]: Lang attribute must be accurate within the "in this section" subnavigation - #22518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22518)<br/>**Opened:** March 31, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [508-defect-2 [SCREENREADER, KEYBOARD]: Complementary information should be contained in an aside - 18694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18694)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - 18696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18696)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
   
