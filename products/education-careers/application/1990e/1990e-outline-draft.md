@@ -78,11 +78,19 @@ ______________________________________
 * Personal information
 
 
+{ If "Are you on full-time duty in the Armed Forces?" = "No" }
+
+**By submitting this form** you certify that all statements in this application are true and correct to the best of your knowledge and belief.
+
+{ end - If "Are you on full-time duty in the Armed Forces?" = "No" }
+
+
+
+{ If "Are you on full-time duty in the Armed Forces?" = "Yes" }
+
 **By submitting this form** you certify that:
 
 - All statements in this application are true and correct to the best of your knowledge and belief
-
-{ If "Are you on full-time duty in the Armed Forces?" = "Yes" }
 
 - As an active duty servicemember, you have consulted with an Education Service Officer (ESO) regarding your education program
 
