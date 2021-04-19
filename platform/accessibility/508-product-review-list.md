@@ -453,11 +453,17 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Direct Deposit
 
-**Audit status:** Staging review started February 5, 2021<br/>
+**Audit status:** _[VSA Staging review started February 5, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19495)_<br/>
 **Open issues**
 
-- [508-defect-2 [COGNITION]: H1 should match or be included in the page title - #19552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19552)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-3 [COGNITION]: Edit buttons SHOULD be styled as buttons - #19562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562)<br/>**Staging** | **Opened:** February 5, 2021 | **Severity:** 508-defect-3 — **_Minor_**
+- [508-defect-2 [COGNITION, SEMANTIC MARKUP]: Form field instructions should be descriptive and MUST be associated with inputs and buttons - #19961](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19961)<br/>**Opened:** February 15, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [sitewide 508-defect-2 [RESPONSIVE]: Expanded profile menu MUST be navigable on zoom - #19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)<br/>**Opened:** February 10, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [COGNITION]: H1 should match or be included in the page title - #19552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19552)<br/>**Opened:** February 5, 2021 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [COGNITION]: Edit buttons SHOULD be styled as buttons - #19562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562)<br/>**Opened:** February 5, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-3 [SCREENREADER]: Semantic lists should only be used for lists - #19618](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)<br/>**Opened:** February 8, 2021 | **Severity:** 508-defect-3 — **_Moderate_**
+- [508-defect-4 [COGNITION]: Text on image should not blur on zoom - #19613](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19613)<br/>**Opened:** February 8, 2021 | **Severity:** 508-defect-4 — **_Trivial_**
+
+- [508-defect-4 [COGNITION]: Help text should describe the field instead of being a part of the label - #19616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19616)<br/>**Opened:** February 8, 2021 | **Severity:** 508-defect-4 — **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
