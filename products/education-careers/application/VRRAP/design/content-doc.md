@@ -150,7 +150,7 @@ This is the personal information we have on file for you.
 * Street address { text field, prefilled if present. }
 * Street address line 2 { text field, prefilled if present. }
 * City { text field, prefilled if present. } 
-* State { if USA, dropdown, prefilled if present }
+* State / Province / Region { if USA, dropdown, prefilled if present }
 * Postal code { if USA, text field, prefilled if present }
 
 
