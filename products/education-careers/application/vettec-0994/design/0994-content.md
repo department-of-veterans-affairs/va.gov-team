@@ -335,7 +335,6 @@ This is the bank account information we have on file for you. We’ll send your 
 * **{ Checking/Savings } Account** { prefill if present } 
 * Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 * Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
-* Bank name: { prefill if present }
 
 [ Update Account ] { button }
 
@@ -354,7 +353,6 @@ We make payments only through direct deposit, also called electronic funds trans
 
 { bank check visual }
 
-* Bank name { text field }
 *	Bank routing number (No more than 9 digits) (* Required) { text field }
 *	Bank account number (No more than 17 digits) (* Required) { text field }
 
