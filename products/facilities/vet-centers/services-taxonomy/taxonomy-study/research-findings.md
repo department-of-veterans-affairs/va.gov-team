@@ -336,7 +336,11 @@ Participants were asked: Anything else that you think that the VA should know ab
 # Appendix
 
 [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-plan.md)
+
 [Study layout](https://app.mural.co/t/vsa8243/m/vsa8243/1615484762327/0a1d9d3a4e906166357a07521fd3d3eb958f4567)
+
 [Cohort tracker](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/ETKjHeHErG5Lsn6cJ3ZQFP8Ba2MqaYCSNgJ0M8VnhIUgsA?e=St3YE1)
+
 [Card Sort Synthesis Spreadsheet](https://docs.google.com/spreadsheets/d/1xR0nEGIu4K5axTCVXUQdEyiVtcic_zgKzcq1FG7cRNI/edit?usp=sharing)
+
 [Question responses synthesis](https://airtable.com/shrAC18S413d1NXjM)
