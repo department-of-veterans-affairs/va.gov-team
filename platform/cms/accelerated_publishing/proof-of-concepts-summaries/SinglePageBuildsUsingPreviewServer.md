@@ -10,6 +10,7 @@ The Preview Server then is an opportunity to actually _publish_ a page as well. 
 ### Pros
 - Relatively low unknowns
 - Simple architecture
+- Maintains static architecture
 - Bypasses the overhead of a Jenkins job - No Docker container setup, Git checkout, GitHub releases, various other small updates.
 - Potentially, presents an opportunity to architect the the Preview Server as a CRUD server that manipulates the HTML "cache" in S3 on behalf of the CMS. Like our own "Gatsby Cloud".
 
