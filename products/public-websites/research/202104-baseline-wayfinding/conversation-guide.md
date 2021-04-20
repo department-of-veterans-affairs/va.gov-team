@@ -92,6 +92,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:* 
     - *Health care quadrant > Send a secure message*
     - *VA Benefits & Health Care > Health care > Send a secure message*
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Health care link below photos*
     - *Search*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -108,6 +109,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:*
     - *Disability quadrant > Check your claim or appeal status* 
     - *VA Benefits & Health Care > Disability > Check claim/appeal status*
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos*
     - *Search*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -122,7 +124,8 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you start?
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:* 
-    - *VA Forms link in footer > search "representative"* 
+    - *VA forms link in footer > search "representative"* 
+    - *(phone) More VA resources > VA forms*
     - *Search*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
@@ -138,6 +141,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:* 
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability* 
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos > Change your VA direct deposit information*
     - *Search > direct deposit > Update Your Direct Deposit Information*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -153,7 +157,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:*
     - *Search "direct deposit"* 
-    - *Resources and Support* 
+    - *Resources and Support in footer* 
   - *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
@@ -169,6 +173,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *(if they say Google, ask how they would do it. Then ask:)* Is there a way you might do it using VA.gov?
   - *RECORD navigation:*
     - *Find a VA Location header / footer* 
+    - *(phone) Menu at top > Find a VA Location*
     - *Find a VA health facility... blue rectangle* 
     - *Search*
     - *Google*
@@ -186,6 +191,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:*
     - *Records quadrant > Download your benefit letters* 
     - *VA Benefits & Health Care > Records > Download your VA benefits letters* 
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Records link below photos*
     - *Search* 
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -202,8 +208,9 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - How would you start?
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:* 
-    - *VA Benefits & Health Care > Records > Get your VA medical records* 
     - *Records quadrant > Get your VA medical records*
+    - *VA Benefits & Health Care > Records > Get your VA medical records* 
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Records link below photos*
     - *Search* 
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -220,6 +227,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:*
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability*
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos*
     - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -235,6 +243,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:*
     - *VA Benefits & Health Care > Housing assistance > About VA home loan types* 
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Housing assistance link below photos* 
     - *Search* 
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
@@ -251,6 +260,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
   - *RECORD navigation:*
     - *Education quadrant > Apply for Educ Benefits* 
     - *VA Benefits & Health Care > Educ & training*
+    - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Educ & training link below photos*
     - *Search*
 - Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
