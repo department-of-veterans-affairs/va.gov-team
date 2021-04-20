@@ -59,7 +59,7 @@ class SLOReporter
 
     # Dumb hack for waiting until the last board is loaded
     browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
-    sleep 5
+    sleep 50
 
     remove_elements_from_page
 
@@ -95,6 +95,7 @@ rescue Selenium::WebDriver::Error::WebDriverError
   exit 1
 end
 
+Watir.default_timeout = 120
 options = Selenium::WebDriver::Firefox::Options.new
 
 begin
@@ -129,66 +130,61 @@ system "mkdir -p tmp/screenshots"
 
 spinner.success('Ready for capture!')
 
-begin
-  browser.goto GRAFANA_BASE_URL
-  browser.window.resize_to(1440, 1440)
+browser.goto GRAFANA_BASE_URL
+browser.window.resize_to(1440, 1440)
+if browser.link(visible_text: /Sign in with GitHub/).exists?
+  browser.link(visible_text: /Sign in with GitHub/).click
+end
 
+overview = 'tmp/screenshots/all-overview.png'
+availability = 'tmp/screenshots/availability-overview.png'
+browser.link(visible_text: /All/).click
+backends = browser.execute_script(
+  "return Array.from(document.querySelectorAll('.variable-value-dropdown a > span:last-of-type')).map(e => e.innerText).filter(String)"
+).drop(1)
+browser.div(visible_text: /haproxy Backend/).click
+
+if !File.exists?(overview) || !File.exists?(availability)
   # Quick copy/paste job from above SLOReporter class to capture the overview boards
   browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
-  sleep 15
+  sleep Watir.default_timeout
 
   css_selector = '.sidemenu, .navbar, .submenu-controls'
   browser.execute_script(
     "[...document.querySelectorAll('#{css_selector}')].map(e => {e.parentNode.removeChild(e)})"
   )
 
-  overview = 'tmp/screenshots/tmp-all-overview.png'
-  browser.screenshot.save overview
-  $threads << Thread.new do
-    system "pngcrush -reduce -brute #{overview} 'tmp/screenshots/all-overview.png'"
-    system "rm #{overview}"
+  overview_tmp = 'tmp/screenshots/tmp-all-overview.png'
+  unless File.exists? overview
+    browser.screenshot.save overview_tmp
+    $threads << Thread.new do
+      system "pngcrush -reduce -brute #{overview_tmp} '#{overview}'"
+      system "rm #{overview_tmp}"
+    end
   end
 
   browser.link(visible_text: /All - Details/).click
   browser.link(visible_text: /Availability Grid/).click
-  sleep 10
+  sleep Watir.default_timeout
+  bad_backends = %w[arcgis_back gsa_api_back iam_ssoe_oauthe_back iam_ssoe_sts_back lighthouse_gateway_back]
+  bad_backends.each do |backend|
+    gradient = 'linear-gradient(120deg, rgb(29, 29, 29), rgb(51, 51, 51))'
+    browser.execute_script(
+      %{[...document.querySelectorAll("span")]} +
+       %{.filter(e => e.textContent.includes("N/A"))} +
+       %{.forEach(e => e.parentElement.parentElement.parentElement.parentElement.style.backgroundImage = '#{gradient}')}
+    )
+  end
 
-  availability = 'tmp/screenshots/tmp-availability-overview.png'
-  browser.screenshot.save availability
-  $threads << Thread.new do
-    system "pngcrush -reduce -brute #{availability} 'tmp/screenshots/availability-overview.png'"
-    system "rm #{availability}"
+  availability_tmp = 'tmp/screenshots/tmp-availability-overview.png'
+  unless File.exists? availability
+    browser.screenshot.save availability_tmp
+    $threads << Thread.new do
+      system "pngcrush -reduce -brute #{availability_tmp} '#{availability}'"
+      system "rm #{availability_tmp}"
+    end
   end
 end
-
-# TODO: This should use a service catalog or something not hard-coded.
-backends = %w[api_vet360_back
-              appeals_back
-              arcgis_back
-              bgs_back
-              central-mail_back
-              emis_back
-              eoas_back
-              es_back
-              evss_back
-              gids_back
-              govdelivery_back
-              hca_ee_back
-              health_apis_back
-              idme_back
-              lighthouse_apis_back
-              loan_guaranty_back
-              mdt_back
-              mhv_back
-              mvi_back
-              okta_back
-              pagerduty_back
-              ppms_back
-              salesforce-gibft_back
-              search-gov_back
-              va_mobile_back
-              vbms_back
-              vha-access_back]
 
 backends.each do |backend|
   spinner = TTY::Spinner.new("[:spinner] Capturing dashboard screenshot for #{backend}...", format: :pulse_3)
