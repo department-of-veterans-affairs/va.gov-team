@@ -188,3 +188,46 @@ Words most used in user generated labels:
 - Participants value this service but the label should focus on what Veterans will be connected to instead of conveying that the service is about “connecting”. What mattered most was learning about the benefits and services are available to them and how to get them. 
 
 - Explain the “community” aspect in the description.
+
+## Secondary Findings
+
+### Testing “Mental health care”
+
+This label tested well in previous studies with Veterans who’d been screened for having participated in Mental health care. In this study, we wanted to know if “Mental health care” would resonate with a broader audience.
+
+VERDICT: HIGH CONFIDENCE
+
+Words most used in user generated labels:
+
+1. (21) included “mental”
+2. (19) included “health”
+3. (16) used “mental health”
+4. (6) included “emotions”, “emotional”
+5. (4) included “support”
+6. (3) included “therapy”
+
+#### Recommendations
+
+    Mental health care” - OK to use
+    
+- Repeat high priority symptoms from PTSD (see PTSD recommendation)
+
+### Testing “PTSD care”
+
+In a previous study, Veterans told us that they want to see services labeled and described with symptoms rather than by clinical diagnosis, this came up most often in the context of PTSD. Participants explained that, early in their mental health care journey, they wouldn’t have yet had the vocabulary to connect their lived experience with the words presented in the current VA service; they would not have assumed they had PTSD.
+
+In this study, we wanted to know from a broader audience, what words and symptoms were most associated with PTSD.
+
+Participants were asked what words or symptoms they associate most with PTSD” [Q #7]:
+
+Responses were analyzed by word frequency and by theme. Anxiety was the #1 symptom. “inability to control or cope” and “sleep” were top themes.
+
+#### Recommendations
+
+    “PTSD care”  - OK to use
+
+- Use symptoms in plain language. Work with a clinician to incorporate more symptoms but translate them into plain language, and in verb form, whenever possible.
+
+- Add common PTSD symptoms to “Mental health care”.
+
+- Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md): “small”, “safe”, “intimate”, “confidential”, etc. to combat: “big”, “intimidating”, “bureaucratic” in describing how it’s delivered at a Vet Center.
