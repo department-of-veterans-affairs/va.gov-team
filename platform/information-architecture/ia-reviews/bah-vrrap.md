@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: COMPLETED 4/2/2021**
+**STATUS: COMPLETED 4/2/2021, UPDATED 4/20/2021**
 
 **Team:** BAH
 
@@ -45,7 +45,8 @@ n/a | Careers: Left nav | ---  | n/a | Benefit does not live within this hub and
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  There is a Teamsite page currently live that explains the [VRRAP](https://benefits.va.gov/gibill/vrrap.asp).  Recommendation is that VBA continue to use this page for general PR and school participation info, and link over to the new pages within the Education hub for Veteran eligibility information and how to apply.  If this is the approach, no redirect is needed for this page. 
+-  **Update 4/20/2021** - VBA has created a separate page for the [school information](https://benefits.va.gov/gibill/vrrap_educational_institutions.asp), this leaves the remaining content on the legacy [VRRAP page](https://benefits.va.gov/gibill/vrrap.asp) as all Veteran-facing content. That legacy page should therefore be redirected to our new VA.gov page. 
+<br> ~There is a Teamsite page currently live that explains the [VRRAP](https://benefits.va.gov/gibill/vrrap.asp).  Recommendation is that VBA continue to use this page for general PR and school participation info, and link over to the new pages within the Education hub for Veteran eligibility information and how to apply.  If this is the approach, no redirect is needed for this page.~ 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
