@@ -16,6 +16,7 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 -	Notice of Disagreement is title capped.
 -	Use “Decision Notice” rather than “Decision Letter”
 -	When shortening the “Board of Appeals” to “the Board,” cap the B
+-	We don't talk about it in terms of "eligibility" to request a Board Appeal; instead follow the language on the static Board Appeals page: https://www.va.gov/decision-reviews/board-appeal/, which is "Can I request a Board Appeal.
 
 ## The 5 basics 
 
@@ -72,5 +73,5 @@ Stakeholders: It probably doesn't make sense to keep this on the screen where th
 
 ## Other notes
 
-- Sitewide content is starting to set some new standards for intro pages and labels. We’ll be adding a first step to the subway map of the intro page: Check eligibility. 
+- Sitewide content is starting to set some new standards for intro pages and labels. We’ll be adding a first step to the subway map of the intro page: Check eligibility. But in this case, as I noted above in "Established content standards," we don't talk about it in terms of being eligible. So for No. 1 in the subway map, we're going with: Make sure you can request a Board Appeal
 - 
