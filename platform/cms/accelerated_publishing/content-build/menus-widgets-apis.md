@@ -18,9 +18,13 @@ The _MegaMenu_ refers to the main website navigation, just under the logo at the
 4. The MegaMenu data is written into the body of all HTML pages in the [header template](https://github.com/department-of-veterans-affairs/vets-website/blob/c55bdb03b39ce99ef48690038f82b0da2cfd0a13/src/site/includes/header.html#L87), which is used by all modernized VA.gov pages. The data is available under the global `window` object.
 5. During startup, the MegaMenu data is grabbed from the `window` object and passed to the [MegaMenu React component](https://github.com/department-of-veterans-affairs/vets-website/blob/c55bdb03b39ce99ef48690038f82b0da2cfd0a13/src/platform/site-wide/index.js#L49).
 
-
 ### Sidebars
+There are many types of sidebars, but in general the data flow for sidebars is as follows -
 
+1. The front-end build fetches the various datasets representing sidebars from the CMS using GraphQL queries. For instance, [this file](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/drupal/graphql/navigation-fragments/facilitySidebar.nav.graphql.js) contains the GraphQL queries used to fetch the sidebars of the VAMC sections.
+2. After receiving the CMS response data, the front-end build executes logic to define the relationships between pages and the sidebars. For instance, the relationship between the [VAMC pages and the VAMC sidebars](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/drupal/page.js#L232) is formed by bridging the `fieldOffice.entity.entityLabel` of a VAMC page with the `name` property on a sidebar.
+3. The CMS data is processed through the templates either by [serializing the sidebar data into the page](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/navigation/facility_sidebar_nav.drupal.liquid#L14) (in the case of the VAMC pages) or by processing the data into HTML through a [template](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/navigation/sidebar_nav.drupal.liquid) (in the case of the benefit hubs.)
+4. During startup, the sidebar data is grabbed from the `window` object and passed to the [SideNav component](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/platform/site-wide/index.js#L50). If no data for the sidenav is found (which the case for the benefit hub pages), the component does not render.
 
 ## Widgets
 A _widget_ is a special type of Drupal paragraph that largely serves to set up a DOM element for a React component to bind to and start up on the page. Ultimately, they are useful when there is a block of interactivity on a page that is otherwise static content in the CMS.
