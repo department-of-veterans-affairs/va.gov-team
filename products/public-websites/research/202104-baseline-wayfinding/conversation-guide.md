@@ -56,14 +56,17 @@ Let’s start with a few questions...
   - What did you want to do?
   - How did you get started?
   - What did you do next?
-  - *(If on VA.gov)* Can you share your browser window and show me what you did?
+  - *(If on VA.gov)* Can you share a browser window in Zoom and show me what you did?
+    - *(If using a screen reader)*: Did you see a checkbox that says "Share computer sound"? Please make sure it's checked so I'll be able to hear your screen reader.
     -  *Where started:*
     -  *Where else looked/tried:*
     -  *Results:*
     -  *Pain points:*
     -  *Successes:*
 
-- *(If didn't use VA.gov above...)* Could you please share a blank browser window in Zoom with me? I would like you to go to a specific website: VA.gov
+- *(If didn't use VA.gov above...)* Could you please share a blank browser window in Zoom with me? 
+  - *(If using a screen reader)*: Did you see a checkbox that says "Share computer sound"? Please make sure it's checked so I'll be able to hear your screen reader.
+  - I would like you to go to a specific website: VA.gov
   - Have you seen this website before? Have you used it before? 
   - *If so:* When was the last time that you used it? 
     - Could you walk me through what you did when you last used it?
