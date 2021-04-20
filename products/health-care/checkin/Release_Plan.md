@@ -16,7 +16,7 @@
 
 ### Planning:
 
- - Number of users: Under 50. Limited to primary care patients seeing Dr. John Byrne at the Loma Linda VAMC
+- Number of users: under 50 per month. Limited to primary care patients seeing Dr. John Byrne at the Loma Linda VAMC
 - Pilot users will be notified to fill out questionnaire via text or email which contains a link to questionnaire
 
 ## Go Live!
