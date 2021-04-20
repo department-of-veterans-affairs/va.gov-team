@@ -23,6 +23,7 @@ Cindy Merrill, Senior Researcher, Mar 2021
   - *My hypothesis: Veterans just want to find what they’re looking for, and don’t want to choose from multiple ways to search unless it helps them get better results.*
 - Get feedback on usability of search--findability, usage, pain points
 - Get feedback on usability of search results
+- (new) Get feedback on typeahead suggestions when typing search queries (understandable as suggestions, not options that you have to select from?)
 ### Resources & Support
 - Do Veterans use this search interface? Check analytics data and ask Veterans
 - Do Veterans use the browsing interface (below the search box)? Check analytics data
