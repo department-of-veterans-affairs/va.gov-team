@@ -1,4 +1,7 @@
-## Summary
+# Single-page builds using the preview server
+This document outlines a strategy for performing single-page publishes by leveraging the preview server. Rather than doing full site builds like the Content Build, the preview server performs single-page builds in order to generate a preview of unpublished changes. If we are able to ensure the accuracy of a page preview with that of the existing live site, we could also use the preview server to perform the publish operation as well, which would be nearly real time.
+
+## Technical summary
 The Preview Server is used by editors to see their changes on the website as a standalone page with any unpublished revisions. 
 
 For instance, if you visit `http://prod.cms.va.gov/health-care/` in the CMS, click `Preview`, you will be navigated to  `http://preview-prod.vfs.va.gov/preview?nodeId=67`. This is the same as `www.va.gov/health-care/`, plus any unpublished revisions.
