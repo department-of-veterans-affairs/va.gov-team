@@ -199,9 +199,9 @@ Words most used in user generated labels:
 
 
 
-## Secondary Findings
+# Secondary Findings
 
-### Testing “Mental health care”
+## Testing “Mental health care”
 
 This label tested well in previous studies with Veterans who’d been screened for having participated in Mental health care. In this study, we wanted to know if “Mental health care” would resonate with a broader audience.
 
@@ -222,7 +222,7 @@ Words most used in user generated labels:
     
 - Repeat high priority symptoms from PTSD (see PTSD recommendation)
 
-### Testing “PTSD care”
+## Testing “PTSD care”
 
 In a previous study, Veterans told us that they want to see services labeled and described with symptoms rather than by clinical diagnosis, this came up most often in the context of PTSD. Participants explained that, early in their mental health care journey, they wouldn’t have yet had the vocabulary to connect their lived experience with the words presented in the current VA service; they would not have assumed they had PTSD.
 
@@ -241,3 +241,35 @@ Responses were analyzed by word frequency and by theme. Anxiety was the #1 sympt
 - Add common PTSD symptoms to “Mental health care”.
 
 - Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md): “small”, “safe”, “intimate”, “confidential”, etc. to combat: “big”, “intimidating”, “bureaucratic” in describing how it’s delivered at a Vet Center.
+
+## Card sort analysis
+
+Overall, services categorization varied widely but themes centered around care and support services. “Care” was the most repeated word used in category labels. However, 8 of 17 cards presented in the activity also included “care” in the label, likely biasing responses.  
+“Mental” was the second most popular word used which reinforces confidence in “Mental health care” as a service label.
+
+ 
+1. “Care” - 195 times (Note: 8 of 17 cards presented included “care” in the label). Outperformed with participants 25-64. used slightly more than “mental” by those without college education
+
+2. “Mental” - 87 times (Note: 1 card presented included “mental” in the label). Used by 5/10 Veterans 65+ cohort. Not used in 35-64 Veteran cohort 
+
+3. “Support” - 80 times
+
+4. “Service(s)” - 78 times
+
+5. “Counseling” - 53 times (Note: 2 of 17 cards presented included “counseling” in the label)
+
+6. 10 participants created categories that included “mental health” word pairing
+
+
+#### Categorization Recommendations
+
+- Name services and categories according to 
+  - what Veterans want help with
+  - what they are likely to search for
+  - what Vet Centers can provide, regardless of delivery mechanism
+    - e.g. Is communicating “Referral services” important to a Veteran
+ - Consider collapsing category groupings so that long lists can be easily scanned
+- Use well-understood terms as category labels to help Veterans understand the overall type of care available at a Vet center, e.g.
+  - “Transition counseling services” vs “Counseling services”
+- Consider “Underrepresented Veterans we serve” or “We help all Veterans” to include minority, LGBTQ, women and homeless as well as a high level explanation of eligibility.
+
