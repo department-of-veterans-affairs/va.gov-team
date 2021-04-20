@@ -101,3 +101,90 @@ While no participant mentioned setting, nor used the term “non-therapeutic” 
 
 - Veterans have an expectation of “assistance”, “help”, with “how-to” with everything from how to dress for an interview, how to write a resume to navigating GI Bill benefits.
 
+
+
+### 2. Participants will interpret “Transition counseling” to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.   
+
+    Mostly true
+
+Participants were asked to define “Transition counseling” [Q #4, 6]:
+
+Most participants’ descriptions included concepts that echoed the current working description and understood that this service could span many areas of a person’s life. However, only (1) participant specified “Mental health care” type of counseling.  When other participants used the word “counseling”(10), they used it more broadly to encompass career, educational and benefit counseling.
+
+
+#### Recommendations
+
+    “Transition counseling”  - OK to use
+    
+- Participants’ ideas of what Transition counseling would offer closely matched the working definition and of what Vet Centers offers more generally.  Since responses were generally positive and hopeful descriptions, there is an opportunity for the phrase, or a variation of it, e.g. “Transition counseling center” to be emphasized and used to clarify the purpose and objective of Vet Centers. This could help reduce the expectation of medical care to be offered, which has been a consistent misconception uncovered in previous research studies. 
+
+
+### 3. Participants will interpret “Whole health” to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
+
+    Mostly true, but beware
+    
+Participants were asked to define “Whole health”  [Q #5]:
+
+(29) participants understood the term to mean beyond but inclusive of physical health care. For Vet Centers this could mean reinforcing the misconception that a Veteran could obtain primary care in the realm weight loss or nutritional health care if this is not made more obvious. Participants used words like “holistic” and gave activity examples like many of those offered by Vet Centers. Participants did not describe the concept of “individualized care” or used the words “values”, “needs” and “goals” in their descriptions.
+
+- (29) participants (69%) incorporated some form of social/emotional or mental health care descriptor.  20 used the word “mental”.
+- (19) used words like “holistic”, “every”, “integrative”, “total” to explain care beyond traditional, physical medical care
+- (14) responses included fitness concepts like “diet”, “exercise” and “nutrition”
+- (4) included “spiritual”, 1 “soul”
+- (2) mentioned social concepts “groups”, “recreation”, “volunteer”
+- (2) included career or financial concepts, “financial health”, “job”
+
+Words used most in user generated labels:
+
+1. 8 - “activities”
+2. 7 - “relax”, “relaxation”, or “relaxing”
+3. 7 - “health” or “healthy”,
+4. 6 - “stress”
+5. 5 - “relief”
+6. 4 - “therapy”
+7. 3 - “self”
+8. 3 - “care”
+9. 3 - “coping”
+10. 3 - “recreation”
+
+
+
+#### Recommendations
+
+    “Whole health”  - Use with caution
+    
+- Avoid or use with very with clear messaging that this does not include primary care. It would be advisable for this service name to be used only after the website can better differentiate itself from medical facilities. 
+
+- However, since the term was well understood by participants, it could instead be used in a description to label classes and activity examples that crossover between clear cut categories. Another option is to create a new label from words that Veterans used and understood, “recreational activities”, or “relaxation programs”.
+
+
+
+### 4. Participants will interpret “Veteran connections” to mean  a service that includes helping Veterans navigate the VA, by helping them to connect to VA and community resources. 
+
+    False
+    
+In a preceding study participants were asked to define “Veteran connections” which participants struggled to do. To understand how participants might label the service themselves, they were presented with the current working description and asked to form a one to two word label for it.
+
+Participant generated labels did not contain “connect” or “connection”, “community”.
+
+Participants used words found in the description to come up with a label, fixating mostly on those relating to getting help with obtaining and navigating VA Benefits. 
+Words most used in user generated labels:
+
+1. 18 - “benefit” or “benefits”
+2. 14 - “VA”
+3. 6 - “navigation” or “navigating”
+4. 5 - “assistance”
+5. 5 - “help”
+6. 3 - “information”
+7. 2 - “support”
+8. 2 - “access”
+
+#### Recommendations
+
+    “Veteran connections” - Rename
+    
+- Change label to “Navigating VA benefits”, “Veteran services help”, or something similar.
+
+- Participants value this service but the label should focus on what Veterans will be connected to instead of conveying that the service is about “connecting”. What mattered most was learning about the benefits and services are available to them and how to get them. 
+
+- Explain the “community” aspect in the description.
