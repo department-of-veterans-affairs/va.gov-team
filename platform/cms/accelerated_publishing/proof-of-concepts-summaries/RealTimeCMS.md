@@ -14,6 +14,9 @@ As mentioned, two strategies have been proposed where real-time CMS access to ce
 1. __"Coupled" Drupal__ - After a user navigates to a page on the website, the CMS itself renders HTML by processing that request, performing any required database operations, then uses Twig PHP templates to render the page for the user. A key advantage of this approach is that it is the most conventional way for a Drupal instance to operate.
 2. __Decoupled/Headless Drupal__ - After a user navigates to a page on the website, the user lands on React application, which then fetches data from the CMS and uses the response data to render the page. A key advantage of this approach is that it leverages React, a proven and popular tool for front-end engineering.
 
+## Time estimate
+Many sprints!
+
 ## Pros
 - Ensures real-time publishing by eliminating the front-end build
 - Presents opportunity to simplify the CMS integration of the project
