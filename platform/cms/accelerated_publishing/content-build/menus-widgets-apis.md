@@ -23,7 +23,55 @@ The _MegaMenu_ refers to the main website navigation, just under the logo at the
 
 
 ## Widgets
+A _widget_ is a special type of Drupal paragraph that largely serves to set up a DOM element for a React component to bind to and start up on the page. Ultimately, they are useful when there is a block of interactivity on a page that is otherwise static content in the CMS.
 
+<details><summary>The form an editor uses to add a React widget</summary>
+  
+![CMS menu for adding a React widget](../images/react-widget.png)
+  
+</details>
+
+The most important field is the __Widget Type__. This is the unique identifier for the widget, which will be used to form the relationship with the corresponding front-end React code. These fields are then processed through the [React Widget template](https://github.com/department-of-veterans-affairs/vets-website/blob/1c1e54f76f2984a6fbe40246c21aa1d220ac52d2/src/site/paragraphs/react_widget.drupal.liquid), which shows a loading indicator before the React code is ready. 
+
+The complexity of these widgets can range from very simple to very complex. Examples include -
+
+<details><summary>Call-to-action (CTA) Widget</summary>
+This is the most common type of widget. It renders as a banner that prompts the user to sign in to use a tool. 
+
+![screenshot of a CTA widget](../images/cta.png)
+
+</details>
+
+<details><summary>Save-in-progress (SIP) Widget</summary>
+This would render as a prompt for a user to continue their application if they had one saved already.
+  
+![screenshot of a save-in-progress widget](../images/sip.png)
+</details>
+
+<details><summary>Wizard</summary>
+Small widget that prompts the user with a list of questions to help guide them to the correct form.
+  
+![screenshot of the wizard widget in the education section](../images/wizard.png)
+</details>
+
+<details><summary>Disability Rating Calculator</summary>
+Located at https://www.va.gov/disability/about-disability-ratings/
+  
+![The disability rating calculator](../images/disability-rating-calculator.png)
+
+</details>
+<details><summary>Find Forms Search Sidget</summary>
+A search tool that is surrounded by static content. The API behind it is covered in the APIs section of this document.
+
+</details>
+
+A front-end engineer must register the widget-type in the [static-pages application code](https://github.com/department-of-veterans-affairs/vets-website/blob/1c1e54f76f2984a6fbe40246c21aa1d220ac52d2/src/applications/static-pages/widgetTypes.js) and execute their widget initialization function inside of the [static pages entry script](https://github.com/department-of-veterans-affairs/vets-website/blob/1c1e54f76f2984a6fbe40246c21aa1d220ac52d2/src/applications/static-pages/static-pages-entry.js).
+
+## APIs
+In some cases, data from the CMS is used to power APIs.
+
+### Find Forms
+The Find Forms application refers to the [search tool for VA forms](https://www.va.gov/find-forms/). Its historical data flow is very complex, with that history [documented extensively](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form).
 
 ## The Homepage Banner
 _The homepage banner is not backed by CMS data. Since this is such a common misconception, it is included in this document anyway._
