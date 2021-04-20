@@ -68,7 +68,7 @@ Stakeholders: The Veteran will need a way to indicate which benefit they're seek
 Stakeholders: How can we make sure the user is clear that when they use this feature, they're adding an issue they don't see there that they already have received a decision on. 
 They need to know that they can't just add an issue they'd like to see there.
 
-**5/ 1 of 4: “We encourage you to work with your representative to decide which of the following options is best for you.” 
+**5/ 1 of 4: “We encourage you to work with your representative to decide which of the following options is best for you.”**
 Stakeholders: It probably doesn't make sense to keep this on the screen where the user selects a board review option, because they're already in progress with the form.
 
 ## Other notes
