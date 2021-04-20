@@ -38,11 +38,11 @@ One of the more critical pieces of assistance Veterans need is to have strong re
 
 ## User Problem Statement
 
-As a Veteran in need of representation, I need to see who my current represetantive is so that I can contact them.
+As a Veteran in need of legal representation, I need to see who my current represetantive is so that I can contact them.
 
 _AND/OR_
 
-As a Veteran in need of representation, I need to be able to search through a validated list to select the right represetnative for me; based on location, referral, exptertise or other so that I can get the specific help I need.
+As a Veteran in need of legal representation, I need to be able to search through a validated list to select the right represetnative for me; based on location, referral, exptertise or other so that I can get the specific help I need.
 
 _AND/OR_
 
