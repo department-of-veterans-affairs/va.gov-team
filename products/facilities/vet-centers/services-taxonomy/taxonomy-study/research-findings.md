@@ -77,11 +77,9 @@ Disability rating 50%+ (not captured for most) | 4
 Rural or remote (not captured for most) | 5
 
 
-# Findings
+# Findings by hypothesis
 
-### Findings by hypothesis - 1
-
-#### Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
+### 1. Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
     **Somewhat true**
 
