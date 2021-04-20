@@ -79,6 +79,8 @@ Rural or remote (not captured for most) | 5
 
 # Findings by hypothesis
 
+## “Education and training”
+
 ### 1. Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
     Somewhat true
@@ -103,7 +105,9 @@ While no participant mentioned setting, nor used the term “non-therapeutic” 
 
 
 
-### 2. Participants will interpret “Transition counseling” to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.   
+### 2. “Transition counseling” 
+
+### Participants will interpret “Transition counseling” to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.   
 
     Mostly true
 
@@ -119,7 +123,9 @@ Most participants’ descriptions included concepts that echoed the current work
 - Participants’ ideas of what Transition counseling would offer closely matched the working definition and of what Vet Centers offers more generally.  Since responses were generally positive and hopeful descriptions, there is an opportunity for the phrase, or a variation of it, e.g. “Transition counseling center” to be emphasized and used to clarify the purpose and objective of Vet Centers. This could help reduce the expectation of medical care to be offered, which has been a consistent misconception uncovered in previous research studies. 
 
 
-### 3. Participants will interpret “Whole health” to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
+## 3. “Whole health”  
+
+### Participants will interpret “Whole health” to mean a personalized health plan that focuses on an individual's values, needs and goals rather than their illnesses or conditions. 
 
     Mostly true, but beware
     
@@ -159,7 +165,9 @@ Words used most in user generated labels:
 
 
 
-### 4. Participants will interpret “Veteran connections” to mean  a service that includes helping Veterans navigate the VA, by helping them to connect to VA and community resources. 
+## 4. “Veteran connections”
+
+### Participants will interpret “Veteran connections” to mean  a service that includes helping Veterans navigate the VA, by helping them to connect to VA and community resources. 
 
     False
     
@@ -188,6 +196,8 @@ Words most used in user generated labels:
 - Participants value this service but the label should focus on what Veterans will be connected to instead of conveying that the service is about “connecting”. What mattered most was learning about the benefits and services are available to them and how to get them. 
 
 - Explain the “community” aspect in the description.
+
+
 
 ## Secondary Findings
 
