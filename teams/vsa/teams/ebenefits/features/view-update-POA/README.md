@@ -34,11 +34,19 @@
 
 ## Abstract
 
-TBD
+One of the more critical pieces of assistance Veterans need is to have strong representation  at the VA.  The VA's Office of General Counsel has a list of accredited or certified individuals or groups that are best qualified to help Veterans in various tasks.  This fature allows the Veteran to **View**, **search** and **request** a repreresntative be engaged with them.  This is often called "Power of attorney (POA)" but since that is more of a function of a represetnative we try not to call it that.
 
 ## User Problem Statement
 
-TBD
+As a Veteran in need of representation, I need to see who my current represetantive is so that I can contact them.
+
+_AND/OR_
+
+As a Veteran in need of representation, I need to be able to search through a validated list to select the right represetnative for me; based on location, referral, exptertise or other so that I can get the specific help I need.
+
+_AND/OR_
+
+As a Veteran in need of legal representation, I need to be able to submit a 21-22a form to initiate the request process so that I can be fully represented.
 
 ## Solution Goals
 
@@ -48,7 +56,7 @@ TBD
 
 ### Business Goals
 
-- Needs discovery
+- In discovery
 
 ## Assumptions
 
@@ -59,7 +67,7 @@ TBD
 ## Requirements and Constraints
 
 - A logged in LOA3-proofed Veteran should be able to submit a 21-22 or 21-22a.
-- Is it necessary that the forms be PDFed and uploaded to eFolder? Need research.
+- Is it necessary that the forms be PDFed and uploaded to eFolder? Most liekly
 - TODO: Add more
 
 ## Solution Approach
@@ -90,6 +98,9 @@ TBD
 **March 24, 2020**  
 - Kickoff with platform  
 
+**April 20, 2021**
+- Design intent
+
 ## Solution Narrative
 - TBD
 
@@ -98,9 +109,9 @@ TBD
 - VA Executive Sponsor `*`:
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
-- Product Manager `*`: 
-- Design Lead: 
-- Eng Lead:
+- Product Manager `*`: Jason Wolf
+- Design Lead: Jim Adams
+- Eng Lead: Kathleen Crawford
 - VA Web Comms Partner:
 - VA Contact Center Partner(s):
 - Production Testing Partner(s):
