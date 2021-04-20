@@ -1,4 +1,4 @@
-# Feature Outline: Loan Guaranty Application
+# Feature Outline: Loan Guaranty Application (Certificate of Eligibility)
 ```diff
 - WIP
 ```
@@ -7,7 +7,7 @@
 - Team Name: eBenefits
 - GitHub Label: vsa-ebenefits
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
-- Product POCs: Steve Kovacs & Jason Wolf
+- Product POCs: Matt Self, Sabrina Mohamed & Jason Wolf
 - Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
 #### Team Members  
