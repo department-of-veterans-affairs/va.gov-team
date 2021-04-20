@@ -62,7 +62,7 @@ Veterans with no college education | 17
 Reservists| 3
 
 
-DEMOGRAPHICS |
+DEMOGRAPHICS | -
 ------|------- 
 Female | 15
 Participants of color | 12
