@@ -83,7 +83,7 @@ Rural or remote (not captured for most) | 5
 
 Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
-**Somewhat true**
+   **Somewhat true**
 
 Participants were asked to define “Education and training”  [Q #4, 6]:
 
