@@ -14,6 +14,8 @@
 
 *Open a standalone browser window to VA.gov*
 
+*Do not disturb on so no notifications*
+
 *Make sure everyone is muted except me and the participant*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
