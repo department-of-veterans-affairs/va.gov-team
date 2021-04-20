@@ -3,6 +3,9 @@ Currently, the process we know as the Content Build generates the entire website
 
 Potentially, we could add support for "incremental builds" to the Content Build, which would mean to rebuild only a subset of the website. Ideally, an incremental build would determine and build only the pages of the website that have actually been edited since the previous incremental build. Alternatively, perhaps we could add support to rebuild only pages under `/pittsburgh-health-care/` when an editor with access to that area of the site issues a publish.
 
+## Time requirements
+Too many unknowns to say currently
+
 ## Pros
 - Conceptually just adds a feature to the existing Content Build rather than overhauling the project
 - Still a static website
