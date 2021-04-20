@@ -1,5 +1,5 @@
 # DRAFT: Check-in Remote Discovery Research, April 2021
-Discovery Readout
+Discovery Readout <br/>
 Lead researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
 
 ## Background and Goals
