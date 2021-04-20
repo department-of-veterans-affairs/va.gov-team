@@ -93,11 +93,20 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 - **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
 
+|KPI/metric|Baseline: Q1 Jan - Mar 2021|Post-launch: Q4 Oct - Dec 2021| Post-launch: Q1 Jan - Mar 2022|
+|----------|-------------|---------------|-------------------|
+|Drop-off rate from the facilities page| TBD|TBD|TBD|
+
 **Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
 
 - **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
 - **Key result #2**: Establish a baseline metric for % of successful retrievals of preferred medical facilities by end of Q4 (assumes late Q3 or early Q4 launch).
 - **Key result #3**: Establish a baseline metric for % of successful saves of preferred medical facilities information (assumes late Q3 or early Q4 launch).
+
+|KPI/metric|Establish Baseline: Q4 October - December 2021|Post-launch: Q1 Jan - Mar 2022| Post-launch: Q2 Apr - June 2022|
+|----------|-------------|---------------|-------------------|
+|% of successful retreivals| TBD|TBD|TBD|
+|% of successful saves| TBD |TBD|TBD|
 
 # Implementation Info
 
