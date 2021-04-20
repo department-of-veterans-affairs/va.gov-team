@@ -68,7 +68,8 @@ Table of Contents
 - [Government Roles the Help Desk Provides Support to](#government-roles-the-cms-help-desk-provides-support-to)
 	* [VISN to Facilities Index](#visn-to-facilities-index)
   	* [VISN 19:  Veterans Affairs and Veterans Health Administration](#visn-19--veterans-affairs-and-veterans-health-administration)
-   
+- [Daily Shift Updates](#daily-shift-updates)
+
 # Help Desk Overview
 ## Mission
 The Veterans Administration Content Management System Help Desk (VA CMS Help Desk, or Help Desk) provides user support to personnel within the Veterans Health Administration, Veterans Benefits Administration, and VA National Cemetery Administration that utilize the Drupal CMS features to publish important information for Veterans and their families regarding Veteran benefits.  
@@ -514,3 +515,6 @@ VAMC Facility centralized information must be changed in the VA’s National Dat
 ## VISN to Facilities Index
 #### VISN 19:  Veterans Affairs and Veterans Health Administration
 <more to add later if value exists for the data>
+	
+## Daily Shift Update
+Using the Slack channels ```CMS-Team``` and ```#proj-vagov-helpdesk``` for Agile 6 and Civic Actions instances respectively, post an overview of shift activities so that continuity is maintained between shifts.  Be sure to include as much detail as possible so that the next help desk person is aware of any important meeting information that was not previously attended to or any relevant important information received while on shift. 
