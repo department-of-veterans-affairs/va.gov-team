@@ -31,7 +31,7 @@ A _widget_ is a special type of Drupal paragraph that largely serves to set up a
   
 </details>
 
-The most important field is the __Widget Type__. This is the unique identifier for the widget, which will be used to form the relationship with the corresponding front-end React code. These fields are then processed through the [React Widget template](https://github.com/department-of-veterans-affairs/vets-website/blob/1c1e54f76f2984a6fbe40246c21aa1d220ac52d2/src/site/paragraphs/react_widget.drupal.liquid), which shows a loading indicator before the React code is ready. 
+There are a few text fields for defining things like the message shown while loading, but the most important field is the __Widget Type__. This is the unique identifier for the widget, which will be used to form the relationship with the corresponding front-end React code. These fields are then processed through the [React Widget template](https://github.com/department-of-veterans-affairs/vets-website/blob/1c1e54f76f2984a6fbe40246c21aa1d220ac52d2/src/site/paragraphs/react_widget.drupal.liquid), which shows a loading indicator before the React code is ready. 
 
 The complexity of these widgets can range from very simple to very complex. Examples include -
 
@@ -75,6 +75,13 @@ In some cases, data from the CMS is used to power APIs.
 
 ### Find Forms
 The Find Forms application refers to the [search tool for VA forms](https://www.va.gov/find-forms/). Its historical data flow is very complex, with that history [documented extensively](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form).
+
+At the time of writing, the data flow is as follows -
+
+1. In the CMS, a [nightly migration](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/migrations-forms.md) is executed to fetch data from the VA Forms legacy database. The VA Forms database provides key fields such as form names and form PDF URLs, while the CMS houses additional fields to complement that data, such as a description and online tool URL.
+2. In a separate [migration](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/modules/va_forms/app/workers/va_forms/form_reloader.rb), the Lighthouse Forms API issues a [GraphQL query](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/modules/va_forms/config/graphql_query.txt) to fetch the forms data from the CMS.
+3. A separate Vets-API [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/app/controllers/v0/forms_controller.rb) exposes the Lighthouse Forms API to requests from va.gov. This is done because requests to the Lighthouse Forms API requires a secret key, which cannot be exposed to the browser.
+4. Finally, the forms data is surfaced from the APIs [forms route](https://api.va.gov/v0/forms) for the Find Forms tool to leverage.
 
 ## The Homepage Banner
 _The homepage banner is not backed by CMS data. Since this is such a common misconception, it is included in this document anyway._
