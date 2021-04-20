@@ -44,5 +44,23 @@ Secondary goals:
 
 4. Participants will interpret "Veteran connections" to mean a service that includes helping Veterans navigate the VA, by helping them to connect to VA and community resources.
 
+## Methodology
+
+An unmoderated card sorting exercise was conducted; 17 services (cards) were asked to be sorted. This activity was accompanied by 7 fill-in-the-blank questions about some of the services. 
+
+The study was divided into 6 mini studies, segmented by distinct demographic cohorts.
+To mitigate biasing the responses, two tests were created with a re-ordering of questions. The two tests were distributed among the 6 studies. However, all questions were asked before the card sorting exercise. 
+
+## Who participated?
+
+RECRUITING COHORTS | 41 Total 
+-----|-------
+Veterans ages 65+ | 11 
+New soldier or Veterans ages 35-64 | 25 
+Spouse or family of a Veteran | 9 
+Veterans with no college education | 17
+Reservists| 3
+
+
 
 
