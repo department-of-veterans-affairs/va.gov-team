@@ -7,6 +7,46 @@
 
 #### Background
 
+### Goals
+
+#### Guiding questions
+
+#### Hypotheses
+
+### Method
+We'll engage in moderated usability testing conducted remotely using Zoom. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Participants will be recruited using Perigean. These users will be provided a link to the View Dependents prototype. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
+
+#### The process
+- There will be a quick warm-up and introduction to usability testing
+- The user will be asked to navigate to VA.gov 
+- The moderator will outline a scenario (use case) for the participant to follow
+- Users will be provided a link to the View Dependent prototype
+- If time allows, the participant may be given additional "tasks"
+- There will be a quick Q/A and wrap-up
+
+### Participants and recruitment
+
+Recruit for 6 fulfilled sessions using the following criteria:
+
+**Must have for participants**
+- Participants must receive some type of VA payments
+- At least 1 woman of color
+- At least 1 participant 55 or older
+- At least one person that does not have a college degree (to include enlisted Veterans)
+- At least one person with a disability rating of 80% or greater
+
+**Good to have for participants**
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person that has a college degree (to include of officer Veterans)
+- At least one person who lives in a major metropolitan area
+
+**Please consider**
+- At least one person who lives in a rural or remote area
+
+**Recruitment requirements**
+- The participants have Zoom downloaded prior to the session
+- The participants know how to screenshare
+
 #### When
 
 #### Testing sessions
