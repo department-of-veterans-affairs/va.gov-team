@@ -20,6 +20,7 @@ As mentioned, two strategies have been proposed where real-time CMS access to ce
 - As a bonus, presents opportunity for real-time search experiences of CMS data. This would be useful for apps like Find a VA Form and Resources
 
 ## Cons
+- Very large architectural change and project refactor
 - No longer a static website - we now have to worry about downtime, maintenance, latency, infrastructure, etc.
 - Page renders will not be as fast as current website
 - ATO
