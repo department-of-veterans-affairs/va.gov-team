@@ -11,12 +11,11 @@
 - Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
 #### Team Members  
-**Jason Wolf** - jwolf@governmentcio.com  
-**James Adams** - jadams@governmentcio.com  
-**Jesse Cohn** - jesse.cohn@adhocteam.us  
-**Micah Chiang** - micah@adhocteam.us  
-**Kathleen Crawford** - kcrawford@governmentcio.com  
-**Derek Dyer** - ddyer@governmentcio.com  
+**Jason Wolf**  
+**James Adams**   
+**Jesse Cohn**   
+**Micah Chiang**  
+**Kathleen Crawford**  
 
 ---
 
