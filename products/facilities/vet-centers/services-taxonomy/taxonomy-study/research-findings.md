@@ -63,15 +63,15 @@ Reservists| 3
 
 
 DEMOGRAPHICS |
- 
+------|------- 
 Female | 15
 Participants of color | 12
- - White/Caucasian | 25
- - Black/African American | 5
- - American Indian/Alaska native | 3
- - Asian | 3
- - Hispanic/Latino | 2
- - Undisclosed | 4
+White/Caucasian | 25
+Black/African American | 5
+American Indian/Alaska native | 3
+Asian | 3
+Hispanic/Latino | 2
+Undisclosed | 4
 Cognitive Impairment (not captured for most)| 2
 Disability rating 50%+ (not captured for most) | 4
 Rural or remote (not captured for most) | 5
