@@ -60,8 +60,11 @@ Located at https://www.va.gov/disability/about-disability-ratings/
 ![The disability rating calculator](../images/disability-rating-calculator.png)
 
 </details>
-<details><summary>Find Forms Search Sidget</summary>
+
+<details><summary>Find Forms Search Widget</summary>
 A search tool that is surrounded by static content. The API behind it is covered in the APIs section of this document.
+
+![The find forms search widget](../images/find-forms.png)
 
 </details>
 
