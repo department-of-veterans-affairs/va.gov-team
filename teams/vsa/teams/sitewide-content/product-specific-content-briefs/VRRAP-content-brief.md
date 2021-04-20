@@ -64,7 +64,7 @@ Add content-related notes that came out of research that should inform the messa
 
 **All of these must be true. You’re:**
 
-•	Between 22 and 66 years old, **and** <br>
+•	At least 22 years old, but not older than 66, **and** <br>
 •	Unemployed because of the COVID-19 pandemic, **and** <br>
 •	Not eligible for GI Bill or VR&E benefits (or, if you’re eligible for the Post-9/11 GI Bill, you’ve transferred all of your benefits to family members), **and** <br>
 •	Not rated as totally disabled because you can’t work, **and** <br>
