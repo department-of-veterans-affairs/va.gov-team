@@ -79,7 +79,7 @@ Rural or remote (not captured for most) | 5
 
 # Findings
 
-### Findlings by hypothesis - 1
+### Findings by hypothesis - 1
 
 Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
@@ -89,4 +89,17 @@ Participants were asked to define “Education and training”  [Q #4, 6]:
 
 While no participant mentioned setting, nor used the term “non-therapeutic” in their in their descriptions, there was a high expectation of getting “assist(ance)”(7), with “benefits”(5), “resources”(5), “help”(4)  to understand “how-to” acquire training and education. (6) mentioned help with GI Bill benefits. (5) mentioned “Voc Rehab” programs more frequently than those related to actual classes and workshops; “career”(3), “certifications”(3), “courses”(3), “programs”(3), “skills”(3), “trade”(3). 
 
+#### Recommendation by hypothesis - 1
+
+    “Education and training”  - OK to use
+
+- Communicating “non-therapeutic” and the setting is not important.  This is a description of Vet Center facilities and not specifically of this service.
+
+- Setting the right expectations about the type of classes, workshops, and certification(s) Veterans would be able to learn about is more important.
+
+- Many participants mentioned assessment of skills to help them navigate career paths. If this is available, include it. Veterans don’t know what they don’t know and would like to know the best options for them. 
+
+- “apprenticeships” and on-the-job training opportunities were mentioned multiple times.
+
+- Veterans have an expectation of “assistance”, “help”, with “how-to” with everything from how to dress for an interview, how to write a resume to navigating GI Bill benefits.
 
