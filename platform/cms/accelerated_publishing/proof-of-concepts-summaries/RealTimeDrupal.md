@@ -1,1 +1,0 @@
-# Couple Drupal model
