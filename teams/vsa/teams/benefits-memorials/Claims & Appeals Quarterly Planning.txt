@@ -1,0 +1,69 @@
+﻿Claims & Appeals Quarterly Planning Q2 - 2021
+
+
+Quarter 1 Accomplishments
+* BDD launch (1st week December, 100% Feb)
+* HLR launch
+* Misc. 526 Bug Fix
+* Claims Status Tool bug fix
+* Letters bug fix
+* 526 PTSD research
+
+
+Metrics
+* 
+
+Goals
+1. Release MVP - NOD 
+2. Original claims form 526ez - Iteration 3 (research and design work first, while Anna (and new engineer) tackle bugs). We prioritize from there.
+   1. Enhancements (based on Kevin’s data, research starting now)
+   2. Look for errors
+   3. Error remediation
+      1. Bugs in sentry
+      2. Veteran survey (research?)
+      3. Call center feedback (we need to establish methodology for handling call center issues)
+   4. 2 forms that aren’t launched
+   5. PTSD issue implementation
+   6. Form changes
+   7. Accessibility issues
+3. Claims Status Tool (3rd quarter) (mobile team working on this for mobile devices)
+   1. Another team working on metrics
+   2. Research has revealed some bugs and issues we want to address
+   3. Data integrity
+   4. Content / messaging
+   5. Improving user experience (full redesign or additional data availability)
+   6. We need good test users
+   7. Data sources / discovery
+      1. We pull from 2 APIs and only 1 is documented
+      2. Take sample of prod data
+      3. Have Matt lean on EVSS to document API (Anna providing url)
+      4. End to end test systems - Cypress transition
+4. Letters
+   1. Assess errors
+5. Burials
+   1. Assess errors
+6. Documentation (at the end of NOD and post to GitHub)
+   1. Why we made decisions
+7. Outliers: 
+   1. HLR iteration 2
+      1. Test users, make decision dates dynamic (currently set to expire in a year)
+      2. Accessibility issues
+      3. Supporting Legacy Appeal Opt-ins
+   2. NOD iteration 2
+      1. Uploading supporting evidence after the fact
+8. Celebrate releases!!!! 
+
+
+
+
+Constraints
+* Staffing
+* Contact center support
+   * Initially, dedicate a month to addressing issues and hopefully this will reduce
+   * Anna can train other engineers and we will then rotate support
+   * Have contact center add labels to tickets (1 ticket per issue)
+
+
+
+
+Agreed upon project list:
