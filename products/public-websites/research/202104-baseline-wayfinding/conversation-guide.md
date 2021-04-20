@@ -41,7 +41,7 @@ Before we start, I want to go over a few things:
 
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
   - *(on a phone)* You will be asked to select what you'd like to share. Please select "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
-- Great, now I can see your screen! Thank you for your patience in figuring this out.
+  - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
