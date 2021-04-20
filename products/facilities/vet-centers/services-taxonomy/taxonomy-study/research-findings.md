@@ -79,9 +79,9 @@ Rural or remote (not captured for most) | 5
 
 # Findings by hypothesis
 
-## “Education and training”
+## 1. “Education and training”
 
-### 1. Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
+### Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
     Somewhat true
 
@@ -105,7 +105,7 @@ While no participant mentioned setting, nor used the term “non-therapeutic” 
 
 
 
-### 2. “Transition counseling” 
+## 2. “Transition counseling” 
 
 ### Participants will interpret “Transition counseling” to mean a broad range of services that help Veterans transition to civilian life, like helping them connect with mental health services and education and career counseling.   
 
