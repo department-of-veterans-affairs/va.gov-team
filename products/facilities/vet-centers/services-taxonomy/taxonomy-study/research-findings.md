@@ -54,7 +54,7 @@ To mitigate biasing the responses, two tests were created with a re-ordering of 
 ## Who participated?
 
 RECRUITING COHORTS | 41 Total 
------|-------
+----------|-------
 Veterans ages 65+ | 11 
 New soldier or Veterans ages 35-64 | 25 
 Spouse or family of a Veteran | 9 
