@@ -3,6 +3,8 @@
 
 `James Adams, designer`
 
+`Work-in-progress`
+
 ---
 
 #### Background
@@ -10,6 +12,13 @@
 ### Goals
 
 #### Guiding questions
+Various "removal" scenarios considered for usability testing:
+
+- Divorce (spouse)
+- Death of dependent (spouse, child or parent)
+- Child marries (child)
+- Child stopped attending school (child)
+- (Potentially) Remove stepchild
 
 #### Hypotheses
 
