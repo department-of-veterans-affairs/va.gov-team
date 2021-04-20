@@ -21,7 +21,7 @@ The Preview Server then is an opportunity to actually _publish_ a page as well. 
 
 ### Cons
 - Need to ensure parity with live website. Currently pages rendered from the preview server differ slightly from the live website.
-- Does not simplify the Content Build - process remains very complex 
+- Does not simplify the Content Build - process remains very complex and prone to errors.
 - The Preview Server still uses a monolithic GraphQL query that is slow and sometimes times out. We need to fix this - it needs to be refactored and optimized the same way as the Content Build's GraphQL queries so that it is also lightning fast. __This is very doable but I would need 1-2 days of solid focus time.__
 - We _might_ need to consider ways to centralize certain menu configs into `.json` files if we are worried about inconsistencies if a section menu is edited then a single page in that section it published - it would get the updated menu before the rest of the section.
 
