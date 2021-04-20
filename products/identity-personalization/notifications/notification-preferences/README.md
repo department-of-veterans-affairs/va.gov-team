@@ -63,6 +63,13 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 - **Key result #1**: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).
 - **Key result #2**: Establish a baseline metric for % of successful retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).
+
+
+|KPI/metric|Establish Baseline: Q4 October - December 2021|Post-launch: Q1 Jan - Mar 2022| Post-launch: Q2 Apr - June 2022|
+|----------|-------------|---------------|-------------------|
+|% of successful retreivals| TBD|TBD|TBD|
+|% of successful saves| TBD |TBD|TBD|
+
 - **Key result #3**: Establish a baseline metric for % of successful saves of notification preference information (assumes late Q3 or early Q4 launch).
 
 # Implementation Info
