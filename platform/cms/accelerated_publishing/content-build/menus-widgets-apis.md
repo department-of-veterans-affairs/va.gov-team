@@ -85,6 +85,17 @@ At the time of writing, the data flow is as follows -
 
 This [diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/forms-data-flow-Q3-2020.pdf) helps illustrate the data flow.
 
+### Resources search
+The Resources search refers to a search tool dedicated to the Resources [section](https://www.va.gov/resources/) of the website. It is used to perform a search across the Resources library of articles.
+
+At this time, the Resources search tool does not have its own API. Instead, it uses a client-side search that operates by using a local JSON file as its data source, which is generated during the front-end build. This solution is considered temporary and will be replaced once the Resources library has grown larger.
+
+The data flow is as follows -
+
+1. The Resources section of the website is composed of many types of articles, which translates into many types of GraphQL queries. For instance, the [NodeQA](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/drupal/graphql/nodeQa.graphql.js) is a type of Resources article. All of these GraphQL queries are executed during the front-end build.
+2. A [custom Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/plugins/create-resources-and-support-section.js#L428) iterates through the list of CMS articles to form a new dataset, which is written into a dedicated [JSON](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/plugins/create-resources-and-support-section.js#L419).
+3. The React application [downloads the JSON](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/applications/resources-and-support/hooks/useArticleData.js#L20) file to uses as its data source for searches.
+
 ## The Homepage Banner
 _The homepage banner is not backed by CMS data. Since this is such a common misconception, it is included in this document anyway._
 
