@@ -85,9 +85,19 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 - This should reduce veteran-reported pain points.
 - This is a good, albeit small, step in rolling MHV functionality into VA.gov.
 
-## KPIs
+## Measuring success
 
-- Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
+
+**Objective #1: Improve overall experience with appointment scheduling.**
+
+- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+
+**Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
+
+- **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
+- **Key result #2**: Establish a baseline metric for % of successful retrievals of preferred medical facilities by end of Q4 (assumes late Q3 or early Q4 launch).
+- **Key result #3**: Establish a baseline metric for % of successful saves of preferred medical facilities information (assumes late Q3 or early Q4 launch).
 
 # Implementation Info
 
