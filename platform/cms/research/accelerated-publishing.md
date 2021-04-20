@@ -18,16 +18,17 @@ Currently, the technical architecture that supports CMS content being pushed to 
 *What question(s) do you hope to be able to answer after completing this research?*
 
 - How quickly do users expect their content appear on VA.gov after saving as published?
-- What kinds of time pressures exist for various users and products when trying to get their content out there?
+- What kinds of time pressures exist for various users and products when trying to get their content out there? (For example, deadline pressures from stakeholders, the need to get timely content to Veterans, emergency situations.) 
 - Where do editors experience confusion or difficulty in the current publishing workflow?
-- How do the proofing page and preview features enhance or impede the current publishign workflow?
-- Would a scheduled publishing feature change users' needs for accelerating publishing? 
+- How do the proofing page and preview features enhance or impede the current publishing workflow?
+- Would a scheduled publishing feature change the extent of users' needs for accelerating publishing? 
 
 **Hypothesis**
 
 *What is your hypothesis for this research?*
 
 - A significant number of CMS editors expect the application to perform like commercial content publishing applications, such as Wordpress or even Facebook.
+- Despite good training, the "decoupled" idea and the idea of a delay is difficult to retain for many editors.
 - The current publishing delay is a problem for a significant number of editors working with timely content, such as banner alerts, news releases, or content related to a new policy.
 - The option to schedule publishing would greatly improve some editor's workflow and help them accomplish their content goals.
 - The CMS application's proofing page and preview features only partially mitigate the need for better system feedback in the interface.
