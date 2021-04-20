@@ -78,3 +78,14 @@ Rural or remote (not captured for most) | 5
 
 
 # Findings
+
+## Findlings by hypothesis - 1.
+
+Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
+
+**Somewhat true**
+
+Participants were asked to define “Education and training”  [Q #4, 6]:
+
+While no participant mentioned setting, nor used the term “non-therapeutic” in their in their descriptions, there was a high expectation of getting “assist(ance)”(7), with “benefits”(5), “resources”(5), “help”(4)  to understand “how-to” acquire training and education. (6) mentioned help with GI Bill benefits. (5) mentioned “Voc Rehab” programs more frequently than those related to actual classes and workshops; “career”(3), “certifications”(3), “courses”(3), “programs”(3), “skills”(3), “trade”(3). 
+
