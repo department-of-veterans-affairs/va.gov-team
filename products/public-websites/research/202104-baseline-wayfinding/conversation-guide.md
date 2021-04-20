@@ -36,6 +36,16 @@ Before we start, I want to go over a few things:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+## Screen sharing instructions (if needed)
+- In the Zoom application on your phone or computer, you'll see a few buttons at the bottom. In the middle is a green button that says Share (phone) or Share Screen (computer). If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
+  - *(on a phone)* You will be asked to select what you'd like to share. Please select "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
+
 ## Warm-up Questions - 10 minutes
 
 Let’s start with a few questions...
