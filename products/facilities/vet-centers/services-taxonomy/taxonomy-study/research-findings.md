@@ -79,7 +79,7 @@ Rural or remote (not captured for most) | 5
 
 # Findings
 
-## Findlings by hypothesis - 1.
+### Findlings by hypothesis - 1
 
 Participants will interpret “Education and training” to mean services like workshops and classes in a non-therapeutic setting.  
 
