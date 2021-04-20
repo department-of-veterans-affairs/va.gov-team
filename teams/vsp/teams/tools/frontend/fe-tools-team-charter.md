@@ -5,15 +5,16 @@
 ## Who we are
 
 ### Team Members:
-- Product Manager: @Megan Kelley
-- Frontend engineering lead: @Dan Shank
-- Frontend engineer: @eugene_doan
-- Frontend engineer: @Tim Wright
-- Frontend engineer: @Jhonny Gonzalez
-- Frontend engineer: @Bill Fienberg
-- Frontend engineer: @Chris Alexander
-- Frontend engineer: @Theo Bentum
-- Frontend engineer: @Katy Bowman
+- Product Manager: Megan
+- Frontend engineering lead: Tim
+- Frontend engineer: Eugene
+- Frontend engineer: Jhonny
+- Frontend engineer: Katy
+- Frontend engineer: Chris A
+- Frontend engineer: Theo 
+- Frontend engineer: Oseas
+- Frontend engineer: Calvin
+- Frontend engineer: Alex
 
 ---
 
