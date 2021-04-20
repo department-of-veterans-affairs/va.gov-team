@@ -100,7 +100,7 @@ The data flow is as follows -
 2. A [custom Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/plugins/create-resources-and-support-section.js#L428) iterates through the list of CMS articles to form a new dataset, which is written into a dedicated [JSON](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/site/stages/build/plugins/create-resources-and-support-section.js#L419).
 3. The React application [downloads the JSON](https://github.com/department-of-veterans-affairs/vets-website/blob/900b03495c07dbcf470cbd464d568f2229c8d3bc/src/applications/resources-and-support/hooks/useArticleData.js#L20) file to uses as its data source for searches.
 
-## The Homepage Banner
+## Homepage Banner
 _The homepage banner is not backed by CMS data. Since this is such a common misconception, it is included in this document anyway._
 
 The data flow for the homepage banner is as follows -
