@@ -7,7 +7,7 @@ The Jenkins job behind a Content Release is the same job that is executed during
 
 <details><summary>The Auto-Deploy dashboard in Jenkins</summary>
 
-![Screenshot of the Auto-Deploy dashboard](./images/jenkins-auto-deploy.png)
+![Screenshot of the Auto-Deploy dashboard](../images/jenkins-auto-deploy.png)
 
 </details>
 
@@ -17,7 +17,7 @@ A step inside of the Auto-Deploy, its column labeled in the Auto-Deploy dashboar
 
 This job is executed synchronously during the `Prerelease Job` in the Auto-Deploy.
 
-![Screenshot of the Content Only Build dashboard](./images/jenkins-content-only.png)
+![Screenshot of the Content Only Build dashboard](../images/jenkins-content-only.png)
 
 </details>
 
@@ -27,7 +27,7 @@ Towards the end of the pipeline, the Auto-Deploy issues another separate job und
 
 This job is executed asynchronously during the `Release then trigger deploy` job in the Auto-Deploy.
 
-![Screenshot of the Content Only Build dashboard](./images/jenkins-vagovprod.png)
+![Screenshot of the Content Only Build dashboard](../images/jenkins-vagovprod.png)
 
 </details>
 
@@ -38,7 +38,7 @@ As said previously, a Content Release uses the same Jenkins build job as the Ful
 
 The `use_latest_release` parameter being set to `true` is what defines this Auto-Deploy job as a Content Release.
 
-![Screenshot of the Auto-Deploy job with use_latest_release set to true](./images/jenkins-content-release.png)
+![Screenshot of the Auto-Deploy job with use_latest_release set to true](../images/jenkins-content-release.png)
 
 </details>
 
