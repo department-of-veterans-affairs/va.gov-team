@@ -77,3 +77,4 @@ Disability rating 50%+ (not captured for most) | 4
 Rural or remote (not captured for most) | 5
 
 
+# Findings
