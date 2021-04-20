@@ -268,8 +268,75 @@ Overall, services categorization varied widely but themes centered around care a
   - what they are likely to search for
   - what Vet Centers can provide, regardless of delivery mechanism
     - e.g. Is communicating “Referral services” important to a Veteran
- - Consider collapsing category groupings so that long lists can be easily scanned
+  - Consider collapsing category groupings so that long lists can be easily scanned
 - Use well-understood terms as category labels to help Veterans understand the overall type of care available at a Vet center, e.g.
   - “Transition counseling services” vs “Counseling services”
 - Consider “Underrepresented Veterans we serve” or “We help all Veterans” to include minority, LGBTQ, women and homeless as well as a high level explanation of eligibility.
 
+## Comments from participants
+
+Participants were asked: Anything else that you think that the VA should know about how services are labeled or described?
+
+> “I tried to label them as close to how I feel, having experienced most of the listed issues encountered by all Veterans.” A-13
+
+> “I think the LGBT label should be updated to LGBTQ, and I think that there should be a label for Domestic Violence/Abuse” –B1
+
+> “Yes. The VA should know about Veterans who are Elderly and to set up a program to have someone check on them and to make sure that they are receiving all of their benefits.” –D2
+
+> “do not have so much on the page that it takes a while to load.  I have limited connectivity and most times the pages will not load correctly, or at all, because there is too much on the page such as illustrations, messages, scroll bars, etc... Have a link or something to just a simple page.” –D6
+
+> “Simple yet focused.  I think fewer groups is better.” –D7
+
+> “Please have all VA BS on one web site. VA.gov” –D8
+
+> “services for spouses and families of veterans , especially veterans transitioning back from deployments..i am a viet nam vet.. WE GOT NOTHING” –E10
+
+> “I did not care to separate women, minority, and LGBT veterans into different groups but had a hard time coming up with a a category that encompassed all.” –E12
+
+> “I think making a clinic a carbon copy of a DOD clinic could help veterans better understand what some things are.” –F3
+
+# Recommendations summary
+
+- “Education and training”  - OK to use
+  - Eliminate “non-therapeutic” and “setting” mentions.
+  - Set expectations about the specific resources that a Veteran can get connected to: 
+    - type of classes, workshops; e.g. resume writing, how to dress for an interview
+    - education types: trade certification(s), college
+    - assessment of skills
+    - apprenticeships and on-the-job training
+    - “how-to” navigate GI Bill benefits
+
+- “Transition counseling” - OK to use
+   - Capitalize on this term to clarify the purpose and objective of Vet Centers 
+
+- “Whole health” - Use with caution
+  - Avoid or use with very with clear messaging that this does not include primary care.
+
+- “Veteran connections” - Rename
+  - Change label to “Navigating VA benefits”, “Veteran services help”, or something similar.
+  - Explain the “community” aspect in the description.
+
+- “Mental health care” - OK to use
+  - Incorporate lowest common denominator symptoms from PTSD (see PTSD recommendation)
+
+- “PTSD care”  - OK to use
+  - Incorporate symptoms in plain language. Work with a clinician to include more symptoms.
+  - Add common PTSD symptoms to “Mental health care”.
+  - Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md).
+
+- Categorization: Name services and categories according to 1) what Veterans want help with, 2) what they are likely to search for, 3) what Vet Centers can provide, regardless of delivery mechanism.
+
+# Next Steps
+
+- Share findings with stakeholders and discuss with team:
+  - Recommendations
+  - Highest priority needs for MVP
+- Work with stakeholders and content team to refine and iterate on Vet Center website copy and services taxonomy.
+
+# Appendix
+
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-plan.md)
+[Study layout](https://app.mural.co/t/vsa8243/m/vsa8243/1615484762327/0a1d9d3a4e906166357a07521fd3d3eb958f4567)
+[Cohort tracker](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/ETKjHeHErG5Lsn6cJ3ZQFP8Ba2MqaYCSNgJ0M8VnhIUgsA?e=St3YE1)
+[Card Sort Synthesis Spreadsheet](https://docs.google.com/spreadsheets/d/1xR0nEGIu4K5axTCVXUQdEyiVtcic_zgKzcq1FG7cRNI/edit?usp=sharing)
+[Question responses synthesis](https://airtable.com/shrAC18S413d1NXjM)
