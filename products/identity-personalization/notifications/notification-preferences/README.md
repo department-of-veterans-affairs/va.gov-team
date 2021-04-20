@@ -61,9 +61,9 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 **Objective: Present Veterans with a consolidated display of all notification types and settings available through VA.gov, and allow them to easily update their preferences.**
 
-- **Key result #1: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).**
-- **Key result #2: Establish a baseline metric for % of successful retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).**
-- **Key result #3: Establish a baseline metric for % of successful saves of notification preference information (assumes late Q3 or early Q4 launch).**
+- **Key result #1**: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).
+- **Key result #2**: Establish a baseline metric for % of successful retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).
+- **Key result #3**: Establish a baseline metric for % of successful saves of notification preference information (assumes late Q3 or early Q4 launch).
 
 # Implementation Info
 
