@@ -81,7 +81,9 @@ At the time of writing, the data flow is as follows -
 1. In the CMS, a [nightly migration](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/migrations-forms.md) is executed to fetch data from the VA Forms legacy database. The VA Forms database provides key fields such as form names and form PDF URLs, while the CMS houses additional fields to complement that data, such as a description and online tool URL.
 2. In a separate [migration](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/modules/va_forms/app/workers/va_forms/form_reloader.rb), the Lighthouse Forms API issues a [GraphQL query](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/modules/va_forms/config/graphql_query.txt) to fetch the forms data from the CMS.
 3. A separate Vets-API [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/app/controllers/v0/forms_controller.rb) exposes the Lighthouse Forms API to requests from va.gov. This is done because requests to the Lighthouse Forms API requires a secret key, which cannot be exposed to the browser.
-4. Finally, the forms data is surfaced from the APIs [forms route](https://api.va.gov/v0/forms) for the Find Forms tool to leverage.
+4. Finally, the forms data is surfaced by the [Vets-API forms route](https://api.va.gov/v0/forms) for the Find Forms tool to leverage.
+
+This [diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/forms-data-flow-Q3-2020.pdf) helps illustrate the data flow.
 
 ## The Homepage Banner
 _The homepage banner is not backed by CMS data. Since this is such a common misconception, it is included in this document anyway._
