@@ -14,7 +14,7 @@ This research is planned within the context of the Public Websites team and the 
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
     - Search (in header)
-    - Benefit Hubs (mega-menu dropdowns)
+    - Benefit Hubs (mega-menu dropdowns in header under "VA Benefits and Health Care")
     - Other header links (About VA, Find a VA Location, Contact us)
     - 4 white quadrants
     - Topics below the photos
