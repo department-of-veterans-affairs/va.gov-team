@@ -66,6 +66,13 @@
 
 ## Solution Approach
 
+- As of 10/2020, we're going to focus on:
+ - Updating the UI to meet VA.gov design & accessibility standards
+ - Adding a question distinguishing between mailing & residential addressses
+ - Updating the questions on the online form to align with the new 10-10EZ
+- As of 11/2020, we're going to focus on:
+   - Validating assumptions regarding usage of the online form pre- and during COVID
+   - Using that research to guide whether to focus our Q1 efforts on the form itself or how Veterans get to the form.
 - As of 04/2021-05/2021, we're going to focus on:
    - Understanding what Veteran pain points are with the current application process (research and discovery)
    - Gain insight on offline workarounds used by VA staff who process applications
