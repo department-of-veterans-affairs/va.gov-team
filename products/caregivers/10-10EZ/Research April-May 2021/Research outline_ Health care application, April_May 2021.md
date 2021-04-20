@@ -1,6 +1,6 @@
-Research outline: Health care application, April/May 2021
+# Research outline: Health care application, April/May 2021
 
-# Goals:
+## Goals:
 
 The goals of research are to:
 
@@ -12,7 +12,7 @@ The goals of research are to:
 
 * Update design/content to improve the user experience and improve the conversation rate of qualified health care applicants.
 
-# Research Outline:
+## Research Outline:
 
 1. Discovery with 3-5 subject-matter experts (SME) 
 
