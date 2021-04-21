@@ -4,11 +4,12 @@
 
 *Review participant list for participant name and screener question responses*
 
-*10 min before session: Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
+**10 min before session**: 
+- *Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
 
-- *Also share summary of participant demographic info*
+- *Share brief summary of participant demographic info*
 
-*5-10 min before session: Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
+**5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
@@ -18,11 +19,11 @@
 
 *Make sure everyone is muted except me and the participant*
 
-*When the participant is ready, turn on your camera and begin session with the intro*
-
 *ADMIT any observers from the waiting room*
 
-*CHECK SLACK for real-time feedback and questions from observers.*
+*When the participant is ready, turn on your camera and begin session with the intro*
+
+*CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
 
@@ -48,7 +49,7 @@ Before we start, I want to go over a few things:
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 ## Warm-up Questions - 10 minutes
 
