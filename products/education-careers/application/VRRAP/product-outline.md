@@ -47,7 +47,7 @@ How might we allow Veterans to apply for VRRAP benefits -- following VA.gov styl
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+* _**Limit 5-6 KPIs per product**_
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
@@ -63,9 +63,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: Applications
   - Key result: More than 17,250 eligible Veterans have applied for the VRRAP program 
   - Key result: Less than (**50% of applicants**) are ineligible because they don't meet basic criteria
-  - 
- 
- - Objective: Exhaustion of benefits
+
+
+- Objective: Exhaustion of benefits
   - Key result: 17,000 (or more) Veterans have received the benefit
   - Key result: $386M of funding has been depleted
 
@@ -96,7 +96,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - NLT 4/30/21
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
