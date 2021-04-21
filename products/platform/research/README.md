@@ -65,6 +65,9 @@ Below you can find links to research conducted by VSP. If you've done research, 
 ------
 ### Upcoming Research
 
+- Top Task - Engineering - Service Design
+
+- Survey - BE Tools
 
 - Support workflow - Service Design
 
@@ -80,6 +83,13 @@ Below you can find links to research conducted by VSP. If you've done research, 
 
 
 ### Completed Research
+
+#### Testing Tools Baseline Survey
+*Testing Tools: Joe Tice*
+Q1 2021
+Research folder
+
+<br>
 
 #### Platform Documentation Research
 
