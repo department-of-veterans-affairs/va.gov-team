@@ -17,6 +17,12 @@
 
 </details>
 
+## Monday April 26 3pm ET
+
+If a Vet Center or VAMC staff finds an issue with the data coming through Facilities API, what should they do?  Multiple data sets... Access to care, Mental health care contacts, VAST. 
+* Triage document for data - who to contact for different data scenarios.  
+* Is all the Vet Center data from VAST? 
+
 ## Monday April 19 3pm ET
 
 * Adding support for VCNumber in Facility API, eg as `parent: "VC_0327V"`; or unique CAP ID, in the same way as Facility Status
