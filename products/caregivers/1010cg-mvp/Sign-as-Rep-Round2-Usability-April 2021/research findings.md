@@ -23,7 +23,6 @@ We conducted 5 remote moderated usability sessions via Zoom using the Perigean c
 - 3 Primary Caregivers 
 
 - Gender:
-  - Male: 0
   - Female: 5
 
 - Device used during study:
@@ -87,24 +86,24 @@ Because the question now centers around asking to upload legal representative do
 
 - "Seems like this is repetitive, as I already clicked the link to apply."
 - *In regards to Primary Caregiver question:* "If you're having someone apply for caregiver, of course you are applying for the benefits. Why else apply or be recognized? *In regards to Secondary Family Caregiver:* "Maybe if there is a way to have Primary and Secondary together to explain the differences so I know right off the bat what I'm applying for. I don't know if everyone gets a Secondary Caregiver."
-- *In regards to Secondary Family Caregiver:* "Is this for an additional Caregiver or am I called a Secondary Caregiver?" *Opened the more info accordion and seemed to understand the difference, but confused as to why this queation is on the Primary Caregiver application:* "Maybe should have a second application for Secondary Caregiver."
+- *In regards to Secondary Family Caregiver:* "Is this for an additional Caregiver or am I called a Secondary Caregiver?" *Opened the more info accordion and seemed to understand the difference, but confused as to why this question is on the Primary Caregiver application:* "Maybe should have a second application for Secondary Caregiver."
 
 ### The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
 - "Which kind, Primary Care? Specialty?"
-- "When it comes to recent medical care- What's the reason behind that? What does where the veteran is receiving medical care have to do with the Caregiver application? The VA already has access to this informaiton. That doesn't affect the Caregiver role/eligibility. Do I put in physical therapy or VA or telehealth? The clinic connection (VA facility) seems relevant- those are the people that call you. That makes sense because the coordinator is the one who helps with this application."
+- "When it comes to recent medical care- What's the reason behind that? What does where the veteran is receiving medical care have to do with the Caregiver application? The VA already has access to this information. That doesn't affect the Caregiver role/eligibility. Do I put in physical therapy or VA or telehealth? The clinic connection (VA facility) seems relevant- those are the people that call you. That makes sense because the coordinator is the one who helps with this application."
 
 
 ## Additional Insights
-* Many Caregivers live with the Veteran and/or use their contact information in place of the Veteran's, in the future it might be nice to consider having a checkbox to select same address, phone, and email to avoid writing the same thing twice.
+* Many Caregivers live with the Veteran and/or use their contact information in place of the Veteran's, in the future it might be nice to consider having a checkbox to select the same address, phone, and email to avoid writing the same thing twice.
 
 * Learn more about who qualifies as a Primary/Secondary Caregiver (additional info component)
 
     * The same people (relations) are listed for both Primary and Secondary, thus this does not help people understand the difference.
 
-    * The list does not match the dropdown list that the user must use to select relationship of Caregiver to Veteran.
+    * The list does not match the dropdown list that the user must use to select the relationship of Caregiver to Veteran.
 
 * One participant expressed concern about the Social Security number showing fully on the Review page as she often uses public computers.
-- "I would close it (review accordion) immediately if I saw my Social Security number and address appear on the screen."
+    * "I would close it (review accordion) immediately if I saw my Social Security number and address appear on the screen."
 
 ## Recommendations
 * Implement upload documentation question
@@ -115,7 +114,7 @@ Because the question now centers around asking to upload legal representative do
 
 In the future
 * Keep the new language for Primary/Secondary Caregiver, but improve the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information about what each role entails and what the benefits are for each.
-* Medical facility questions- consider putting them on own page or clarifying language about what is required or optional.
+* Medical facility questions- consider putting them on their own page or clarifying language about what is required or optional.
 
 ## Next Steps
 
@@ -126,14 +125,14 @@ Explore options for the representative signature box
 
 ## Appendix
 ### Conversation guide
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/conversation-guide.md)
 
 ### Interview transcripts
-[Session nores](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/session-notes) 
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/session-notes) 
 
 ### Pages and applications used
 [Staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/conversation-guide.md)
 - [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/Research%20readout.pdf)
