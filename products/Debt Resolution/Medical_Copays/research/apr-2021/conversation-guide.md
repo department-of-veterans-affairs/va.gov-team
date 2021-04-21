@@ -23,8 +23,8 @@ Before we start, a few things I want to mention:
 * This entire session should take up to an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear about your experience with VA health care to inform us as we bring copayments online. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
-  * First, I'll start by asking you a few questions about how you interact with VA health care. During this part of the session, I will ask you to share your screen so I can follow along with you. I can give you instructions on how to share your screen if you need them!
-  * For the second half of the session, we'll be looking at some fake copayment statements similar to ones you might have previously received in the mail. We want to learn what parts of these statements work for you, and areas that could be improved. 
+  * First, I'll start by asking you a few questions about how you interact with VA health care. I'll ask you to share your screen so I can follow along with you. I can give you instructions on how to share your screen if you need them!
+  * For the second half of the session, I'll send you a link to look at some fake copayment statements similar to ones you might have previously received in the mail. We want to learn what parts of these statements work for you, and areas that could be improved. 
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -46,8 +46,7 @@ Start recording.
 
 ## Interview (Wayfinding) - 20 minutes
 
-* Let's say you've received a letter in the mail about money you owe to the VA, but you've misplaced it, what would you do?
-* What would you do to find information about money you might owe the VA?
+* Imagine you received a letter in the mail about owing money to the VA, but you've misplaced it, what would you do?
   * Is there some other way you'd prefer to find this information?
 * (If they haven't mentioned one of the online formats) Let's imagine there's a place online where you can access this information. Tell me what that looks like for you. 
 * MyHealtheVet
@@ -63,10 +62,10 @@ Start recording.
   * Talk to me about how you'd find that information
   * (If they mention logging in, ask if they'd be comfortable signing in)
   * What keywords are you expecting to see?
-* Let's say you had an appointment at your local VA medical center and want to see the charges for your care. What would you do to find that information?
+* Let's say you had an appointment at your local VA medical center and want to see the charges for your visit. What would you do to find that information?
   * How does this experience compare finding information about money you owe to the VA?
 
-**Things to watch for**
+Things to watch for
 
 * Where do Veterans expect to interact with their VA copayments?
   * If on MHV or eBenefits, what would they be looking for and where do they expect to find it?
@@ -77,16 +76,16 @@ Start recording.
 
 ## VPS Activity - 25 min
 
-First, I ask you to imagine that you are the Veteran in the following scenario:
+Alright, I want you to imagine that you are in the following scenario:
 
 * You are a Veteran who went to a VA medical center in February for a routine checkup. In March, you went back to the VA medical center to hav a few routine tests done and you refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
   * In a word or two, what would you call that piece of mail?
   * What do you expect that mail to include?
-* Next, I'm going to share my screen with you. I've entered in all of the things you mentioned you'd expect to see. How does this order compare to how you'd expect it if it were on a piece of mail or a web page?
-* Now, I'm going to show you a fake copay statement. There are a few pages to this, so let me know if you need me to scroll to see those.
+* I'm going to send you a link in the chat. Since you're sharing your screen, there should be a bar at the top, hover over the "More" icon, then open Chat in the dropdown. Go ahead and click that link when you're ready.
 
-\[Show participant first letter in the sequence\]
+\[Send link in chat: [https://preview.uxpin.com/a0f7710002cf5f0d104c63ea77f2c7112f0853f0\#/pages/138400205/simulate/no-panels?mode=i](https://preview.uxpin.com/a0f7710002cf5f0d104c63ea77f2c7112f0853f0#/pages/138400205/simulate/no-panels?mode=i)\] 
 
+* This is a fake copay statement. There are 4 pages here, and you can flip between the pages by clicking the little green arrows. 
 * How familiar are you with this letter from the VA?
 * What are/were your first impressions of this letter?
 * Can you tell me what you owe, based on this letter?
@@ -100,28 +99,25 @@ First, I ask you to imagine that you are the Veteran in the following scenario:
   * Which would you choose? Why?
 * Talk to me about the description section.
   * What does this mean to you?
+  * How would you normally interact with this section of the letter?
   * If you had questions about this, what would you do?
 * What would you do if you received this exact piece of mail?
-* What information stands out to you?
 * What information is most important for you to know?
 * Talk to me about the other pages here \[questions about statement, notice of rights\]
-  * How do you use these?
+  * How would you use these?
   * What information is important for you?
 * What questions do you have about this statement?
 
-\[Show the participant a second letter, where there are no new charges\]
+---
 
+* Go ahead and scroll down to the bottom of the letter until you see a blue button that says "Task 2" and click on it.
 * So let's say you misplaced the letter from before and forgot to pay the bill. A month later, you receive this letter in the mail. 
 * Can you tell me what's different about this statement compared to the last one we were looking at?
   * Why do you think that is?
 * What questions do you have about this statement?
 * What do you think these letters could do better?
 
-\[Go back to the prioritized expectations area\]
-
-* Now that we've looked at these letters, I want to go back to where we prioritized information. Would you make any changes or additions?
-
-**Things to watch for:**
+Things to watch for:
 
 * Where do Veterans struggle to interpret their Veteran Patient Statements?
 * How do Veterans prioritize information on the statements?
