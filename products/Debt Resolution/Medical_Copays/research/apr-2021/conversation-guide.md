@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-Start recording.
+[Start recording.]
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -65,8 +65,7 @@ Start recording.
 * Let's say you had an appointment at your local VA medical center and want to see the charges for your visit. What would you do to find that information?
   * How does this experience compare finding information about money you owe to the VA?
 
-Things to watch for
-
+**Things to watch for**
 * Where do Veterans expect to interact with their VA copayments?
   * If on MHV or eBenefits, what would they be looking for and where do they expect to find it?
   * If on VA.gov, what would they be looking for and where do they expect to find it?
@@ -107,9 +106,7 @@ Alright, I want you to imagine that you are in the following scenario:
   * How would you use these?
   * What information is important for you?
 * What questions do you have about this statement?
-
----
-
+--
 * Go ahead and scroll down to the bottom of the letter until you see a blue button that says "Task 2" and click on it.
 * So let's say you misplaced the letter from before and forgot to pay the bill. A month later, you receive this letter in the mail. 
 * Can you tell me what's different about this statement compared to the last one we were looking at?
@@ -117,8 +114,7 @@ Alright, I want you to imagine that you are in the following scenario:
 * What questions do you have about this statement?
 * What do you think these letters could do better?
 
-Things to watch for:
-
+**Things to watch for:**
 * Where do Veterans struggle to interpret their Veteran Patient Statements?
 * How do Veterans prioritize information on the statements?
 
