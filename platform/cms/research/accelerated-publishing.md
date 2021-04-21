@@ -65,7 +65,11 @@ Solicit help from VA product owners identified in the segmentation section.
 
 When?
 
-## Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
+## Timeline: 
+
+What dates do you plan to do research? 
+TBD
+
 
 **Prepare:** When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
 Demo environment available immediately or staging environment if not available. 
