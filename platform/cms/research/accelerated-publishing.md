@@ -21,9 +21,9 @@ Currently, the technical architecture that supports CMS content being pushed to 
 - What kinds of pressure do users experience that impact when they need their content to go live on VA.gov? (e.g. stakeholders, etc)
 - How does delayed publishing currently impact users' work?
 - If the publishing delay were reduced to 30, 20, or 10 minutes, what kind of impact would editors expect on their work?
-- Where do editors experience confusion or difficulty in the current publishing workflow?
+- What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing?
 - How do the proofing page and preview features enhance or impede the current publishing workflow?
-- Would a scheduled publishing feature mitigate users' needs for accelerating publishing? 
+- Might a scheduled publishing feature mitigate users' needs for accelerating publishing? 
 
 **Hypothesis**
 
