@@ -82,7 +82,7 @@ ________________________________________________________________________________
   - Enter the dollar amount
   - Enter your Project Manager and Business Owner
 
-*Forms FITARA and 2237 will need to be completed to approve the request.*
+*FITARA Approval and Form 2237 will need to be completed to approve the request.*
 
 
 ## Technical Onboarding Guide
