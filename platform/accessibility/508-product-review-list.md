@@ -318,7 +318,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Profile 2.0
 
-**Audit status:** _[VSA completed a full 508 audit the week of April 12, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23168)_<br/>
+**Audit status:** _[VSA completed a full 508 audit the week of April 12, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15247)_<br/>
 **Open issues:**
 
 - [508-defect-1 ❗ Launchblocker [SCREENREADER]: Text reminders checkbox alert MUST be announced to screen reader users and should be persistent - #23168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23168)<br/>**Opened:** April 13, 2021 | **Severity:** 508-defect-1 — **_Critical_**
