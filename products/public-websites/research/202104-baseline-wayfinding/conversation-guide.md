@@ -6,9 +6,9 @@
 
 *10 min before session: Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
 
-*Check Slack for real-time feedback and questions from observers.*
+- *Also share summary of participant demographic info*
 
-*5-10 min before session: Sign onto Zoom website as Perigean w/credentials provided and start Zoom meeting*
+*5-10 min before session: Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
@@ -19,6 +19,10 @@
 *Make sure everyone is muted except me and the participant*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
+
+*ADMIT any observers from the waiting room*
+
+*CHECK SLACK for real-time feedback and questions from observers.*
 
 ## Intro - 5 minutes
 
@@ -50,7 +54,9 @@ Before we start, I want to go over a few things:
 
 Let’s start with a few questions...
 
-- So where do you typically go to get information and benefits from the VA?
+- *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
+
+- Where do you typically go to get information and benefits from the VA?
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 - Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
   - What did you want to do?
@@ -80,192 +86,184 @@ Let’s start with a few questions...
       -  *didn't know about it / too hard to use / ___________________*
 
 ## Veteran Tasks
-Now I'm going to ask you to do a number of things that you may or may not have done before. Please do these tasks on your computer or phone as you normally might  if I weren't here. I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+Now I'm going to ask you to do a number of things that you may or may not have done before. Please do these tasks on your computer or phone as you normally might if I weren't here. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
+
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Message doctor] - 4 minutes
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+  - *NOTE if they say they don't do this*
+  - *(if they don't start on VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:* 
     - *Health care quadrant > Send a secure message*
     - *VA Benefits & Health Care > Health care > Send a secure message*
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Health care link below photos*
     - *Search*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
+- Have you done this task before?
  
 ### Task 2: [Track claim status] - 4 minutes
 
 - Say that you've already applied for disability compensation, and you want to find out if your claim has been approved. What could you do?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Disability quadrant > Check your claim or appeal status* 
     - *VA Benefits & Health Care > Disability > Check claim/appeal status*
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos*
     - *Search*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
   
 ### Task 3: [Appoint a representative to help with your claim--Find form] - 4 minutes
 
 - Pretend that you just found out that your disability claim was denied and you want to appeal. You know someone who has agreed to help you with that. How would you find the form to fill out to say that you want that person to be your representative?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+- *NOTE if they say they don't do this*
+  - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:* 
     - *VA forms link in footer > search "representative"* 
-    - *(phone) More VA resources > VA forms*
+    - *(phone) More VA resources > VA forms > Form 21-22a*
     - *Search*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
   
 ### Task 4: [Update direct deposit] - 4 minutes
 
 - Imagine that you just changed your bank. How would you update this information with the VA so that your disability compensation payments will go to your new bank instead of your old one?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:* 
+- *RECORD navigation:* 
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability* 
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos > Change your VA direct deposit information*
     - *Search > direct deposit > Update Your Direct Deposit Information*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
   
 ### Task 5: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
 - Now that you've updated your bank information for disability compensation, you want your travel to medical appointments to be reimbursed by direct deposit, too. How could you set that up? 
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
   - *RECORD navigation:*
     - *Search "direct deposit"* 
     - *Resources and Support in footer* 
+    - *(phone) Contact Us > Resources and Support*
   - *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
  
 ### Task 6: [Find a VA location] - 4 minutes
 
 - I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *(if they say Google, ask how they would do it. Then ask:)* Is there a way you might do it using VA.gov?
+- *(if they say Google, ask how they would do it. Then ask:)* Is there a way you might do it using VA.gov?
   - *RECORD navigation:*
     - *Find a VA Location header / footer* 
     - *(phone) Menu at top > Find a VA Location*
     - *Find a VA health facility... blue rectangle* 
     - *Search*
     - *Google*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
 
 ### Task 7: [Get benefit letter] - 4 minutes 
 
 - Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Records quadrant > Download your benefit letters* 
     - *VA Benefits & Health Care > Records > Download your VA benefits letters* 
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Records link below photos*
     - *Search* 
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
 
 ## IF TIME, more Veteran tasks to do...
 
 ### Task 8: [Get medical records] - 4 minutes
 
 - You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:* 
+- *RECORD navigation:* 
     - *Records quadrant > Get your VA medical records*
     - *VA Benefits & Health Care > Records > Get your VA medical records* 
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Records link below photos*
     - *Search* 
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
 
 ### Task 9: [Update dependents] - 4 minutes
 
 - Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Health care quadrant > Disability*
     - *VA Benefits & Health Care > Disability*
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Disability link below photos*
     - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
   
 ### Task 10: [Get a Home Loan] - 4 minutes
 
 - Pretend that you're considering buying a new home. How can the VA help?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *VA Benefits & Health Care > Housing assistance > About VA home loan types* 
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Housing assistance link below photos* 
     - *Search* 
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
   
 ### Task 11: [Go back to school] - 4 minutes
 
 - Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
-- Is this something that you might do or be interested in doing?
-- Have you done this before?
-- How would you start?
+- *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Education quadrant > Apply for Educ Benefits* 
     - *VA Benefits & Health Care > Educ & training*
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
     - *Educ & training link below photos*
     - *Search*
-- Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? 
-  - *RECORD task success: yes / no*
+- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no*
+- Have you done this task before?
 
 ## Post-Task Interview - 5 minutes
 
@@ -275,7 +273,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 - When you're unable to find what you're looking for on VA.gov, what do you do next? 
 - Is there anything else that we haven't talked about that you think I should know? 
 
-## Thank You and Closing - 1 minutes
+## Thank You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
