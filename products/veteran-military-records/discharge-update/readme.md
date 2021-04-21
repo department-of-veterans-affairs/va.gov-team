@@ -40,9 +40,12 @@ Page delivers customized content based on reason Veteran wants to upgrade discha
 ## Historic Info
 - All GitHub tickets related to Discharge Upgrade Tool: https://github.com/department-of-veterans-affairs/vets.gov-team/labels/discharge%20tool
 
+
 ### Timeline
 - Project was requested in April 2017 and temporarily cancelled in May 2017
-- GitHub Label: discharge tool
+- MVP launched Jan 22, 2018
+- Decision Tools team took ownership in April 2021
+- Original GitHub Label: discharge tool
 - Former Slack channels: #dischargeupdate(https://dsva.slack.com/channels/dischargeupdate), [#griffins-team](https://dsva.slack.com/channels/griffins-team)
 - Keywords: Discharge, Discharge Update, Discharge Upgrade, Discharge Wizard
 - Product POCs: 
