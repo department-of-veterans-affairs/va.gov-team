@@ -23,7 +23,9 @@
 
 ## Wednesday April 21
 
-Policies cutover runbook - Michelle will connect with Kevin on this
+- [#5053 Policies cutover runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
+
+
 
 ## Wednesday April 14
 
