@@ -55,17 +55,22 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. The redesigned "question page" where participants answered if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
-2. The upload document page was fairly self-explanatory to most users. Participants who said they were representatives said they would have their documentation readily available.
-3. The redesigned signature page caused confusion and wrong information (name) input.
-4. The questions to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
-5. The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
+1. The redesigned "question page" where participants answer if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
+2. On the document "question page, participants wanted more guidance about what "counted" as a representative document, and would have liked more details and examples.
+3. The upload document page was fairly self-explanatory to most users. Participants who said they were representatives said they would have their documentation readily available.
+4. The redesigned signature page caused confusion and wrong information (name) input.
+5. The questions to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
+6. The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues. 
 
 
 ## Details of Findings
 
-### The redesigned "question page" where participants answered if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
-Because the question now centers around asking to upload legal representative documents or not, it did not create a barrier for those participants who did not have POA documents or POA itself. Some participants were confused as to what qualifies as a legal representative document and would have liked more details. This did not create a barrier for form completion though. One participant who has a Medical POA answered "yes." Two participants who have a Medical POA answered "no."
+### The redesigned "question page" where participants answer if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
+Because the question now centers around asking to upload legal representative documents or not, it did not create a barrier for those participants who did not have Power of Attorney (POA) documents or POA itself. 
+
+### On the document "question page," participants wanted more guidance about what "counted" as a representative document, and would have liked more details and examples. 
+On the document "question page," one participant who has a Medical POA answered "Yes" and two participants who have a Medical POA answered "No".
+
 - “Probably say no because I wouldn't know what it is asking for...Would it need to be the VA's version of this? or POA of all things? I have Medical POA through the VA.” 
 
 - “Does a Medical POA count?"
@@ -106,7 +111,7 @@ Because the question now centers around asking to upload legal representative do
     * "I would close it (review accordion) immediately if I saw my Social Security number and address appear on the screen."
 
 ## Recommendations
-* Implement upload documentation question
+* Implement upload documentation question into the workflow
 
 * Add additional content/example to help users understand what qualifies as a legal representative document
 
@@ -114,14 +119,14 @@ Because the question now centers around asking to upload legal representative do
 
 In the future
 * Keep the new language for Primary/Secondary Caregiver, but improve the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information about what each role entails and what the benefits are for each.
-* Medical facility questions- consider putting them on their own page or clarifying language about what is required or optional.
+* Consider putting medical facilities question on their own page or clarifying language about what is required or optional.
 
 ## Next Steps
 
-Upload page
-- Implement copy tweaks
+* Upload page
+  - Implement copy tweaks
 
-Explore options for the representative signature box
+* Explore options for the representative signature box
 
 ## Appendix
 ### Conversation guide
