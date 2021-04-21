@@ -261,7 +261,7 @@ Overall, services categorization varied widely but themes centered around care a
 6. 10 participants created categories that included “mental health” word pairing
 
 
-#### Categorization Recommendations
+#### Categorization and naming recommendations
 
 - Name services and categories according to 
   - what Veterans want help with
