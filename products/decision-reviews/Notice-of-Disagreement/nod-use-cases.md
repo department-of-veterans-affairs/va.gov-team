@@ -6,6 +6,8 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 Link to product outline: [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/readme.md)
 
+Link to HLR Test User Info doc: https://dsva.slack.com/files/UN2J9UE1L/F01BTMV0RDX/hlr_test_user_info.docx
+
 ## Contents
 <details>
 <summary></summary>
