@@ -11,7 +11,7 @@ The goal of this study is to understand what kinds of needs, painpoints, or expe
 
 *Briefly, what is the background on this product? What would a new person on the team need to know about this product?*
 
-Currently, the technical architecture that supports CMS content being pushed to VA.gov causes a publishing delay. When a CMS editor saves content as published, there is a X hour delay before it goes live on VA.gov. We believe that rearchitecting the deployment process to reduce or eliminate delays will result in a better experience for editors and ultimately, Veterans.
+Currently, the technical architecture that supports CMS content being pushed to VA.gov causes a publishing delay. When a CMS editor saves content as published, there is a 1 hour delay before it goes live on VA.gov. The CMS team is currently exploring how to rearchitect the deployment process to reduce or eliminate delays. We believe that better understanding the needs and painpoints for CMS editors across the VA ecosystem will help inform a technical solution that improves CMS editor's work. 
 
 **Research questions**
 
