@@ -17,23 +17,26 @@ Currently, the technical architecture that supports CMS content being pushed to 
 
 *What question(s) do you hope to be able to answer after completing this research?*
 
-- How quickly do users currently expect/understand that their content will appear on VA.gov after saving as published?
+- How quickly do users currently understand that their content will appear on VA.gov after saving as published?
 - What kinds of pressure do users experience that impact when they need their content to go live on VA.gov? (e.g. stakeholders, etc)
-- How does delayed publishing currently impact users' work?
+- How does the current hourly publishing timeline impact users' work?
 - If the publishing delay were reduced to 30, 20, or 10 minutes, what kind of impact would editors expect on their work?
-- What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing?
+- What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing? (For example, do people understand whether their content saved successfully in the CMS? Do people know how to find out if/when it went live? What if there is a deployment problem?)
 - How do the proofing page and preview features enhance or impede the current publishing workflow?
-- Might a scheduled publishing feature mitigate users' needs for accelerating publishing? 
+- To what degree would a scheduled publishing feature alleviate pressuer or painpoints in the publishing process? 
+- For users who have permission to publish banner alerts and facility operating statuses: do they understand the unique publication process and timeline for this content and is it working for their content's needs?
+- For users who have permission to manually release content: do they understand the unique publication process and timeline for this feature and is it working for their content's needs?
+- How often/how much does the weekday limitations of our current publishing process impact editors' content needs? Of those who are impacted, how many have access to manual deploys, and to what extent does this help?
 
 **Hypothesis**
 
 *What is your hypothesis for this research?*
 
 - A significant number of CMS editors expect the application to publish instantly, similar to their experience with commercial content publishing applications, such as Wordpress or social media platforms.
-- Despite good training, the "decoupled" idea and the idea of a delay may be difficult to retain for many editors.
-- The current publishing delay may be a problem for a significant number of editors working with timely content, such as banner alerts, news releases, or content related to a new policy.
+- Despite good training, it may be difficult for editors to retain understanding of how the current publication process and timeline work and why.
+- The current publishing delay may be a problem for a significant number of editors working with timely content, such as news releases, events, stories, or content related to a new policy.
 - The option to schedule publishing would greatly improve some editor's workflow and help them accomplish their content goals.
-- The CMS application's proofing page and preview features do not provide adequate system feedback in the interface.
+- There currently isn't any way for editors to verify the publishing status of their content (is it live yet?) nor is there any indication of what to do next after saving as published, and may be negatively impacting users confidence or understanding of the current publishing process.
 
 
 ## Method
