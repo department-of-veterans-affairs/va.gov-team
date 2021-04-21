@@ -94,9 +94,8 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 ### Task 1: [Message doctor] - 4 minutes
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-  - *NOTE if they say they don't do this*
-  - *(if they don't start on VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:* 
+- *NOTE if they say they don't do this*
+- *(if they don't start on VA.gov, ask:)* Could you please go to VA.gov and show me what you would do?  - *RECORD navigation:* 
     - *Health care quadrant > Send a secure message*
     - *VA Benefits & Health Care > Health care > Send a secure message*
     - *(phone) Menu at top > VA Benefits & Health Care > ...*
@@ -127,8 +126,8 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 
 - Pretend that you just found out that your disability claim was denied and you want to appeal. You know someone who has agreed to help you with that. How would you find the form to fill out to say that you want that person to be your representative?
 - *NOTE if they say they don't do this*
-  - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:* 
+- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
+- *RECORD navigation:* 
     - *VA forms link in footer > search "representative"* 
     - *(phone) More VA resources > VA forms > Form 21-22a*
     - *Search*
@@ -158,11 +157,11 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - Now that you've updated your bank information for disability compensation, you want your travel to medical appointments to be reimbursed by direct deposit, too. How could you set that up? 
 - *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Search "direct deposit"* 
     - *Resources and Support in footer* 
     - *(phone) Contact Us > Resources and Support*
-  - *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
+- *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
@@ -174,7 +173,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *NOTE if they say they don't do this*
 - *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
 - *(if they say Google, ask how they would do it. Then ask:)* Is there a way you might do it using VA.gov?
-  - *RECORD navigation:*
+- *RECORD navigation:*
     - *Find a VA Location header / footer* 
     - *(phone) Menu at top > Find a VA Location*
     - *Find a VA health facility... blue rectangle* 
