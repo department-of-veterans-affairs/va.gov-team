@@ -20,10 +20,13 @@ Currently, the technical architecture that supports CMS content being pushed to 
 - How quickly do users currently understand that their content will appear on VA.gov after saving as published?
 - What kinds of pressure do users experience that impact when they need their content to go live on VA.gov? (e.g. stakeholders, etc)
 - How does the current hourly publishing timeline impact users' work?
-- If the publishing delay were reduced to 30, 20, or 10 minutes, what kind of impact would editors expect on their work?
-- What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing? (For example, do people understand whether their content saved successfully in the CMS? Do people know how to find out if/when it went live? What if there is a deployment problem?)
+- If the publishing delay were reduced to 30, 20, or 10 minutes, to what extent would that improve any negative impacts on editor's work?
+- What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing? 
+    - Do people understand whether their content saved successfully in the CMS? 
+    - Do people know how to find out if/when it went live? 
+    - Do editors understand what's happening when a deployment fails? Do they know what to do about it?
 - How do the proofing page and preview features enhance or impede the current publishing workflow?
-- To what degree would a scheduled publishing feature alleviate pressuer or painpoints in the publishing process? 
+- To what degree would a scheduled publishing feature alleviate pressure or painpoints in the publishing process? 
 - For users who have permission to publish banner alerts and facility operating statuses: do they understand the unique publication process and timeline for this content and is it working for their content's needs?
 - For users who have permission to manually release content: do they understand the unique publication process and timeline for this feature and is it working for their content's needs?
 - How often/how much does the weekday limitations of our current publishing process impact editors' content needs? Of those who are impacted, how many have access to manual deploys, and to what extent does this help?
@@ -33,19 +36,21 @@ Currently, the technical architecture that supports CMS content being pushed to 
 *What is your hypothesis for this research?*
 
 - A significant number of CMS editors expect the application to publish instantly, similar to their experience with commercial content publishing applications, such as Wordpress or social media platforms.
-- Despite good training, it may be difficult for editors to retain understanding of how the current publication process and timeline work and why.
+- Despite good training, it may be difficult for editors to retain understanding of how the current publication process and timeline works and why.
 - The current publishing delay may be a problem for a significant number of editors working with timely content, such as news releases, events, stories, or content related to a new policy.
 - The option to schedule publishing would greatly improve some editor's workflow and help them accomplish their content goals.
-- There currently isn't any way for editors to verify the publishing status of their content (is it live yet?) nor is there any indication of what to do next after saving as published, and may be negatively impacting users confidence or understanding of the current publishing process.
+- There currently isn't any way for editors to verify the publishing status of their content (is it live yet?) nor is there any indication of what to do next after saving as published. This gap in our interface may be negatively impacting users confidence or understanding of the current publishing process.
 
 
 ## Method
 
 *What method of research are you planning?*
 
-**User interviews** with a walkthrough of the current publishing workflow. This will help us identify where the users' content goals intersect with the interface as they go through the publishing workflow (Start in edit form > save as published > review proofing page).  
+**User interviews** with a walkthrough of the current publishing workflow. This will help us identify where the users' content goals intersect with the interface as they go through the publishing workflow.
 - Moderated study conducted remotely via Zoom
-- We will test the current interface with additional interview questions to understand the users's context and content goals.
+User interview with the following areas of focus:
+- Background/context questions: what kind of content do they work with and how does it relate to publishing process
+- Walkthrough of publishing workflow: Edit form of content pertinent to the editor's work > save as published > review proofing page
 
 
 ## Participants and Recruitment
