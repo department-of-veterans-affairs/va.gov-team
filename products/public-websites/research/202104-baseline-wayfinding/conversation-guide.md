@@ -104,7 +104,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
  
 ### Task 2: [Track claim status] - 4 minutes
 
@@ -120,7 +119,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
   
 ### Task 3: [Appoint a representative to help with your claim--Find form] - 4 minutes
 
@@ -134,7 +132,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
   
 ### Task 4: [Update direct deposit] - 4 minutes
 
@@ -150,7 +147,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
   
 ### Task 5: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
@@ -165,7 +161,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
  
 ### Task 6: [Find a VA location] - 4 minutes
 
@@ -182,7 +177,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
 
 ### Task 7: [Get benefit letter] - 4 minutes 
 
@@ -198,7 +192,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
 
 ## IF TIME, more Veteran tasks to do...
 
@@ -216,7 +209,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
 
 ### Task 9: [Update dependents] - 4 minutes
 
@@ -232,7 +224,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
   
 ### Task 10: [Get a Home Loan] - 4 minutes
 
@@ -247,7 +238,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
   
 ### Task 11: [Go back to school] - 4 minutes
 
@@ -263,7 +253,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- Have you done this task before?
 
 ## Post-Task Interview - 5 minutes
 
