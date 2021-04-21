@@ -29,11 +29,11 @@ Currently, the technical architecture that supports CMS content being pushed to 
 
 *What is your hypothesis for this research?*
 
-- A significant number of CMS editors expect the application to perform like commercial content publishing applications, such as Wordpress or even Facebook.
-- Despite good training, the "decoupled" idea and the idea of a delay is difficult to retain for many editors.
-- The current publishing delay is a problem for a significant number of editors working with timely content, such as banner alerts, news releases, or content related to a new policy.
+- A significant number of CMS editors expect the application to publish instantly, similar to their experience with commercial content publishing applications, such as Wordpress or social media platforms.
+- Despite good training, the "decoupled" idea and the idea of a delay may be difficult to retain for many editors.
+- The current publishing delay may be a problem for a significant number of editors working with timely content, such as banner alerts, news releases, or content related to a new policy.
 - The option to schedule publishing would greatly improve some editor's workflow and help them accomplish their content goals.
-- The CMS application's proofing page and preview features only partially mitigate the need for better system feedback in the interface.
+- The CMS application's proofing page and preview features do not provide adequate system feedback in the interface.
 
 
 ## Method
