@@ -66,15 +66,15 @@ Below you can find links to research conducted by VSP. If you've done research, 
 ### Upcoming Research
 
 
-#### Design System - Storybook - Design System
+- Support workflow - Service Design
 
-#### Support workflow - Service Design
+- Form Dashboard Template - Insights & Analytics 
 
-#### Form Dashboard Template - Insights & Analytics 
+- Design System - Storybook - Design System
 
-#### Orientation - Product Support
+- Orientation - Product Support
 
-#### Monitoring Tools - OPS
+- Monitoring Tools - OPS
 
 <br>
 
