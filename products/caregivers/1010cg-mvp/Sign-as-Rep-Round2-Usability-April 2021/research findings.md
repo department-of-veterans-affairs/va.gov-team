@@ -1,5 +1,5 @@
 # DRAFT Caregiver, Sign as a Representative Research Findings
-**Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
+**Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
 Shawna Hein (shawna@adhocteam.us), Dené Gabaldón (dene.gabaldon@adhocteam.us), 04/20/2021
 
@@ -14,13 +14,14 @@ The goals of this user research study are to:
 
 ## Research Methodology 
 
-We conducted 5 remote moderated usability sessions via Zoom using the Perigean contract. This method allowed us to conduct a task-based usability test in staging to assess if the sign as a representative workflow is easily usable by Caregivers and Veterans. 
+We conducted 5 remote moderated usability sessions via Zoom using the Perigean contract. This method allowed us to conduct a task-based usability test in staging to assess if Caregivers and Veterans can easily navigate through the sign as a representative workflow.
 
 ### Who we talked to
 
 - 1 Veteran who has a Primary Caregiver
 - 1 Veteran who is also a Primary Caregiver (assists husband who is a Veteran) 
 - 3 Primary Caregivers 
+
 - Gender:
   - Male: 0
   - Female: 5
@@ -32,7 +33,7 @@ We conducted 5 remote moderated usability sessions via Zoom using the Perigean c
 - Age:
   - 25-34: 2
   - 35-44: 1
-  - Unknown: 0 
+  - Unknown: 2 
 
 - Education:
   - Some college (no degree): 1
@@ -58,61 +59,62 @@ The research questions we sought to address:
 1. The redesigned "question page" where participants answered if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
 2. The upload document page was fairly self-explanatory to most users. Participants who said they were representatives said they would have their documentation readily available.
 3. The redesigned signature page caused confusion and wrong information (name) input.
-4. The question to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
+4. The questions to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
 5. The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
 
 
 ## Details of Findings
 
 ### The redesigned "question page" where participants answered if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
-Because the question now centers around wanting to upload legal representative documents or not, it did not create a barrier for those participants who did not have POA documents or POA itself. Some participants were confused as to what qualifies as a legal representative document and would have liked more details. This did not create a barrier for completion though. One participant who has a Medical POA answered "yes." Two participants who have a Medical POA answered "no."
+Because the question now centers around asking to upload legal representative documents or not, it did not create a barrier for those participants who did not have POA documents or POA itself. Some participants were confused as to what qualifies as a legal representative document and would have liked more details. This did not create a barrier for form completion though. One participant who has a Medical POA answered "yes." Two participants who have a Medical POA answered "no."
 - “Probably say no because I wouldn't know what it is asking for...Would it need to be the VA's version of this? or POA of all things? I have Medical POA through the VA.” 
 
 - “Does a Medical POA count?"
 
 ### The upload document page was fairly self-explanatory to most users. Participants who said that they are representatives said they would have their documentation readily available.
 
-- “I would upload this document right now. I have all of this saved on Google drive and could screenshot it or download pdf (if on phone). I think most caregivers I know have this document on hand.” 
+- “I would upload this document right now. I have all of this saved on Google drive and could screenshot it or download pdf (if on phone). I think most Caregivers I know have this document on hand.” 
 
 - “I fill out a lot of forms on mobile. I can access my documents with Google Drive."
 
 ### The redesigned signature page caused confusion and wrong information (name) input.
- One participant who saw the representative box signed the veteran’s name instead of her own when it asked for the Representative’s signature. She found it strange that she was being asked to enter her name twice on the signature page (once as Representative, once as Primary Caregiver). Another participant hesitated slightly at the Representative’s signature box, and asked if she would sign the Veteran’s name or her own, before deciding to sign with her own name.
+ One participant who saw the representative box signed the Veteran’s name instead of her own when it asked for the Representative’s signature. Another participant found it strange that she was being asked to enter her name twice on the signature page (once as Representative, once as Primary Caregiver). Another participant hesitated slightly at the Representative’s signature box, and asked if she would sign the Veteran’s name or her own, before deciding to sign with her own name.
 
 - “If I'm the Primary Caregiver, why am I reading and certifying twice? I would scratch all of that. I'm either giving consent for myself or on behalf of my Veteran. Or there is a random third party?"
-- “Would I sign his [Veteran's] name? I would sign mine, right? I've always been told to sign my name for him." 
+- “Would I sign his (Veteran's) name? I would sign mine, right? I've always been told to sign my name for him." 
 
 ###  The question to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
 
 - "Seems like this is repetitive, as I already clicked the link to apply."
-- *In regards to Primary Caregiver question:* "If you're having someone apply for caregiver, of course you are applying for the benefits. Why else apply or be recognized? *In regards to Secondary Family Caregiver:* 
-"Maybe if there is a way to have Primary and Secondary together to explain the differences so I know right off the bat what I'm applying for. I don't know if everyone gets a Secondary Caregiver."
+- *In regards to Primary Caregiver question:* "If you're having someone apply for caregiver, of course you are applying for the benefits. Why else apply or be recognized? *In regards to Secondary Family Caregiver:* "Maybe if there is a way to have Primary and Secondary together to explain the differences so I know right off the bat what I'm applying for. I don't know if everyone gets a Secondary Caregiver."
+- *In regards to Secondary Family Caregiver:* "Is this for an additional Caregiver or am I called a Secondary Caregiver?" *Opened the more info accordion and seemed to understand the difference, but confused as to why this queation is on the Primary Caregiver application:* "Maybe should have a second application for Secondary Caregiver."
 
 ### The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues.
 - "Which kind, Primary Care? Specialty?"
-- "When it comes to Recent medical care- What's the reason behind that? What does where the veteran is receiving medical care have to do with the Caregiver application? VA already has access to this informaiton. That doesn't affect the Caregiver role/eligibility. Do I put in physical therapy or VA or telehealth? The clinic connection [VA facility] seems relevant- those are the people that call you. That makes sense - because the coordinator is the one who helps with application."
+- "When it comes to recent medical care- What's the reason behind that? What does where the veteran is receiving medical care have to do with the Caregiver application? The VA already has access to this informaiton. That doesn't affect the Caregiver role/eligibility. Do I put in physical therapy or VA or telehealth? The clinic connection (VA facility) seems relevant- those are the people that call you. That makes sense because the coordinator is the one who helps with this application."
 
 
 ## Additional Insights
-* Many Caregivers live with the Veteran or use their contact information in place of the Veteran's, in the future it might be nice to consider having a checkbox to select same address to avoid writing the same thing twice.
+* Many Caregivers live with the Veteran and/or use their contact information in place of the Veteran's, in the future it might be nice to consider having a checkbox to select same address, phone, and email to avoid writing the same thing twice.
 
-* "Learn more about who qualifies as a Primary/Secondary Caregiver"
+* Learn more about who qualifies as a Primary/Secondary Caregiver (additional info component)
 
-    * The same people are listed for both, thus does not help people understand the difference between Primary and Secondary.
+    * The same people (relations) are listed for both Primary and Secondary, thus this does not help people understand the difference.
 
-    * The "Learn more" list does not match the list in the dropdown when selecting the relation of Caregiver to Veteran.
+    * The list does not match the dropdown list that the user must use to select relationship of Caregiver to Veteran.
 
-* One participant expressed concern about the Social Security number showing fully on the Review page. (Often uses public computers)
+* One participant expressed concern about the Social Security number showing fully on the Review page as she often uses public computers.
+- "I would close it (review accordion) immediately if I saw my Social Security number and address appear on the screen."
 
 ## Recommendations
-* Implement documentation question
+* Implement upload documentation question
 
-* Add additional content/example to help user understand what qualifies as a legal representative document
+* Add additional content/example to help users understand what qualifies as a legal representative document
 
 * Explore more options for the signature page
 
 In the future
-* Keep the new language for Primary/Secondary Caregiver, but in the near future prioritize improving the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information on what each role entails and what the benefits for each are.
+* Keep the new language for Primary/Secondary Caregiver, but improve the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information about what each role entails and what the benefits are for each.
 * Medical facility questions- consider putting them on own page or clarifying language about what is required or optional.
 
 ## Next Steps
@@ -126,12 +128,10 @@ Explore options for the representative signature box
 ### Conversation guide
 
 ### Interview transcripts
-
-### Tools used for Synthesis
-e.g. mural boards, etc.  
+[Session nores](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/session-notes) 
 
 ### Pages and applications used
-Link to prototypes or pages that were tested
+[Staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research-plan.md)
