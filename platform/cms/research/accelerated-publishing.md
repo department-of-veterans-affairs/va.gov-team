@@ -19,7 +19,7 @@ Currently, the technical architecture that supports CMS content being pushed to 
 
 - How quickly do users currently understand that their content will appear on VA.gov after saving as published?
 - What kinds of pressure do users experience that impact when they need their content to go live on VA.gov? (e.g. stakeholders, etc)
-- How does the current hourly publishing timeline impact users' work?
+- How does the current hourly publishing timeline impact users' work? To what extent (how much content/how often/what level of negative impact?)
 - If the publishing delay were reduced to 30, 20, or 10 minutes, to what extent would that improve any negative impacts on editor's work?
 - What painpoints in the current publishing workflow may be compounding our editor's experience of delayed publishing? 
     - Do people understand whether their content saved successfully in the CMS? 
