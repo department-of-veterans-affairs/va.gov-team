@@ -25,7 +25,7 @@
 
 * VAMC policies page rollout
 * Loading (Story/News release) Listing pages with place holder
-*
+* Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
 
 Menu governance
 * Pittsburgh menu and IA changes
