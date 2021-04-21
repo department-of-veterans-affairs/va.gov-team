@@ -24,6 +24,8 @@
 ## Friday Apr 23
 
 * VAMC policies page rollout
+* Loading (Story/News release) Listing pages with place holder
+*
 
 Menu governance
 * Pittsburgh menu and IA changes
