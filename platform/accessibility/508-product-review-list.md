@@ -240,14 +240,18 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues**
   
 - [[EPIC]: Review TTY calls to action and links for consistent message and behavior - #19962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19962)<br/>**Opened:** February 15, 2021
-- [508-defect-2 [TTY]: Facility Locator - Search results and facility detail views must have TTY: 711 links for deaf/hard-of-hearing users - #21390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21390)<br/>
-**Opened:** March 10, 2021 | **Severity:** _508-defect-2 - **_Serious_**
-- [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>
+- [[TTY]: Facility Locator - Search results and facility detail views should have TTY: 711 links for deaf/hard-of-hearing users - #21390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21390)<br/>
+**Opened:** March 10, 2021 | **Severity:** _508-defect-3 - **_Moderate_**
+- [[TTY]: VAMC - Locations should have TTY: 711 links for deaf/hard-of-hearing users - #23578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23578)<br/>
+**Opened:** April 21, 2021 | **Severity:** _508-defect-3 - **_Moderate_**
+- [[COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>
 **Opened:** January 7, 2021 | **Severity:** _508-defect-4 - **_Minor_**
-- [508-defect-4 [TTY]: Consider a review for inclusive language in landing page TTY call to action - #20527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20527)<br/>
+- [[TTY]: Consider a review for inclusive language in landing page TTY call to action - #20527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20527)<br/>
 **Opened:** February 26, 2021 | **Severity:** _508-defect-4 - **_Minor_**
-- [TTY Content Language - #20308](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20308)<br/>
+- [[TTY]: Content Language - #20308](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20308)<br/>
 **Opened:** February 24, 2021 | **Severity:** _508-defect-4 - **_Minor_**
+- [[TTY]: Consider creating an SVG for the universal TTY icon to use with our long-form call to action - #23579](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23579)<br/>
+**Opened:** April 21, 2021 | **Severity:** _508-enhancement_
   
 Back to [Table of Contents](#table-of-contents)
 
