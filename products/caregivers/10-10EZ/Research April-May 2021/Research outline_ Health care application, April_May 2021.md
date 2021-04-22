@@ -14,7 +14,7 @@ The goals of research are to:
 
 ## Research Outline:
 
-1. [Discovery interviews with 4-6 subject-matter experts (SMEs)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/1:1%20research-plan.md)
+1. [Discovery interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/1:1%20research-plan.md) with 4-6 subject-matter experts (SMEs)
 
 2. Discovery interviews with end users who have not completed the 10-10EZ
 
