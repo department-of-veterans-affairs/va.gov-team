@@ -19,6 +19,7 @@ User goals, business goals, and assumptions are listed in the [product outline](
 
 This section of profile is heavily linked to VAOS, and they're redesigning their flow to account for this new feature in profile.  The majority of the flow lies within VAOS, so this study will be led by the VAOS team.  Our team will provide research support in the following ways:
 
+- Provide prototype for profile
 - Contributing to research plan and conversation guide
 - Facilitating and note taking for some sessions
 - Collaborating on synthesis
