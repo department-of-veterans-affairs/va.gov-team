@@ -18,7 +18,6 @@ Last Updated March 16, 2021
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Carnetta Scruggs| MHV lead | Carnetta.Scruggs@va.gov |
@@ -116,6 +115,7 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **October 2020**: Initial discovery.
 - **November 2020**: Begin backend integration.
 - **December 2020**: Finish backend integration.
+- **April 2021**: Initial designs completed. Ready for research.
 
 ## Product Decisions
 
