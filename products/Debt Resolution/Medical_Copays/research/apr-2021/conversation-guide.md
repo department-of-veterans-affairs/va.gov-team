@@ -64,6 +64,7 @@ Before we start, a few things I want to mention:
   * What keywords are you expecting to see?
 * Let's say you had an appointment at your local VA medical center and want to see the charges for your visit. What would you do to find that information?
   * How does this experience compare finding information about money you owe to the VA?
+* Would you expect to find information about money you owe to the VA in one location?
 
 **Things to watch for**
 * Where do Veterans expect to interact with their VA copayments?
