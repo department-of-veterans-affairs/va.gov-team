@@ -65,6 +65,44 @@ Phone number: {phone number}
 (Link) Cancel request
 
 
+### VA Direct
+
+(H1) {appointment date} at {appointment time}
+
+Your appointment has been scheduled and is confirmed.
+
+(Link) View your appointments
+
+(Link) New appointment
+
+
+VA appointment
+
+{Facility name}
+
+{Address line 1}
+
+{Address line 2}
+
+(Link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: (link) {phone number}
+
+TTY: (link) 711
+
+Your reason for your visit
+
+{Reason}: {Booking note}
+
+(Link) Add to calendar
+
+(Link) Print)
+
+(Link) Cancel appointment
+
+
 ### Community Care Request
 
 (H1) Pending {type of care} appointment
