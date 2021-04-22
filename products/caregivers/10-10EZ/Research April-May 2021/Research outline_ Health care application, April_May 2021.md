@@ -2,7 +2,7 @@
 
 ## Goals:
 
-The goals of research are to:
+The overarching goals of research are to:
 
 * Better understand why Veterans start the application, but don’t complete it.
 
