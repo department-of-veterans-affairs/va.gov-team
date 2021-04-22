@@ -1,4 +1,4 @@
-# Research Plan: VSA Caregiver, Discovery phase of Health Care application 10-10EZ, part 1 (subject matter experts), April 2021
+# Research Plan: VSA Caregiver, Discovery phase of Health Care application 10-10EZ, part 2 (end users), April-May 2021
 
 ## Background
 
@@ -7,72 +7,91 @@ This research is to be conducted on the Health Care Application (10-10EZ) by the
 Live: (https://www.va.gov/health-care/apply/application/introduction)
 Staging: (https://staging.va.gov/health-care/apply/application/introduction)
 
-The purpose of this discovery phase of research is to gain a broad understanding of why people start the Health Care Application form, but do not complete it and to start to explore ways of increasing qualified submissions. The data gathered through the Health Care application’s Analytics will serve as a foundation for creating this research plan.
+The purpose of this discovery phase of research is to gain a broad understanding of why people start the VA Health Care Application form, but do not complete it. As the first form to become digitized on VA.gov, we want to better understand the impact digitization has had on end users (behavioral changes, new/different challenges, what’s easier/ more difficult), and explore ways to improve qualified application submission rates.
 
-We understand that sometimes a digital application experience can leave out real-world context and offline workarounds. We would like to begin the discovery phase of research by talking to subject-matter experts (SMEs) to better understand how they help applicants work through sections of the application that are particularly difficult, what workarounds are used, and to explore possible ways to make specific sections of the application easier. We also want to gain context of the transition from the paper application to the digital option. 
+The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as our foundation for creating this research plan. Specifically, the Analytics show high drop-off rates in sections that relate to income and finances (9.95% Annual income, 7.92% Spouse income, 5.33% Financial disclosure), and we’d like to better understand this from a perspective of the actual people who have been deterred by these questions. Additionally, we will use context from our initial [subject-matter expert interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/1:1%20research-plan.md) that will take place prior to this research.
+
+Using the results from this discovery phase of research, further research will be conducted on specific sections of the application form.
+
 
 
 ## Goals
 
 The goals of this user research study are to: 
 
-- Better understand SME perspective on why Veterans start the application, but don’t complete it.
-- Gain insight from SMEs who process applications or help Veterans complete applications in regards to workarounds they have found successful ways of working through barriers with applicants.
-- Gain understanding of how paper to digital transformation changed how SMEs process applications.
-- Better understand SME perspective on areas of potential improvement for the digital form.
+- Better understand why some Veterans choose to not apply for healthcare benefits.
+- Better understand why Veterans start the application, but don’t complete it.
+- Gain human understanding behind the sections that the analytics show high drop-off rates.
+- Better understand context, environmental factors, and user behaviors, and feelings about the Health Care application.
+- Run a general check of the application’s usability and the users’ understanding of the content and why they must provide the information that it asks for.
+
 
 
 ### Research questions
 
 The research questions we want to address are: 
 
-- How has processing applications changed (in whatever role SME is) since the digital version became available?
-- What outside factors does the digital form overlook? Perhaps special handling methods used before the form was digital that the digital form doesn’t account for.
-- Online forms innately create different obstacles/less flexibility than paper/in-person experiences/processing.
-- How do SMEs help applicants work through sections of the form that the data has shown to be roadblocks?
-- What are ways that we can improve these sections for the users?
-- What methods do SMEs think can be used to remind users who have saved an application, but have not completed it?
-- What do SMEs hear from Veterans about the form?
+- What experiences (personal, social, and medical) bring the user to fill out the application?
+  - What other places did the user consider/ turn to for healthcare (outside of the VA).
+- How well does the introduction prepare users to understand what they need in order to apply?
+- Within the application form, what section(s) stop users from completing the form?
+- Does the task analysis reflect similar drop-off points as the analytics?
+- Why do financial sections have the highest drop-off rate?
+  - Does the user understand why financial information must be provided?
+- What outside factors does the current form overlook? 
+
+Our hypothesis:
+
+- Veterans don’t complete the form because they found a different source of health care (outside of the VA).
+- Veterans don’t complete the form because they are unclear as to what information to provide in specific sections (mainly sections related to finances).
+- Veterans don’t complete the form because they don’t have information readily available (mainly sections related to finances).
+- Veterans don’t complete the form because they feel uncomfortable disclosing certain information.
+- Online forms innately create different obstacles/less flexibility than paper/in-person experiences.
+
 
 
 ## Methodology 
 
-### Qualitative 1:1 interviews 
-Qualitative Interviews will be conducted remotely with Zoom. Qualitative interviews explore the views, experiences, beliefs and/or motivations of individuals. Remote observers and note takers will be in attendance.
-- Interviews will be conducted with VA staff (HEC team, VSO team or community advocates) who process or help Veterans complete Health Care applications submitted both in paper and/or online format.
-- Walkthrough of application with some participatory design discussions about key identified high drop-off rate sections.
+### Task analysis + contextual interview
+A task analysis with Veterans or Veteran POAs will be conducted remotely with Zoom. Remote observers and note-takers will be in attendance.
+- Each Veteran task analysis will include a short contextual interview before and after to allow for open-ended discussion about specific sections and to gather further context.
+
 
 
 
 ## Participants and Recruitment
 
-We would like to interview 4-6 subject matter experts (VA staff or volunteers) who have experience processing or helping Veterans complete VA Health Care applications submitted both online and/or with paper. Ideally, they experienced the transition from paper to online form.
+We would like to work with Perigean to recruit remote users. We would like to interview 5-7 Veterans or POAs. 
 
 **Must have for participants**
 
-All participants must be yes to one of the following questions:
+All participants must:
 
-- Do you have experience processing the Veteran Health Care application after submission? (must recruit at least 2)
-- Do you have experience helping/advising Veterans complete the Health Care application? (must recruit at least 3)
+- Be a Veteran or POA of a Veteran 
+- Not currently have Health Care through the VA 
+- Have access to a laptop/desktop and be willing to complete the test on said laptop/desktop
+- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
-Answer must be yes for 2 participants: 
-
-- Did you experience the transition from the paper Health Care application to the digitized option?
 
 **Participant pool should in diverse in**
 
-- Type of facility works at (large hospital, small clinic and urban vs. rural)
-- Amount of applications handles (a few a month vs. hundreds)
-- Years of experience; experience handling paper vs. digital
+- Branch of service
+- Gender (30% or more women)
+- Race
+- Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
+- Geography
+- Density (rural)
+- Veterans with a disability rating of 80% or higher representative of applicant demographics
+
 
 
 ## Timeline 
 
-**Desired Timeline: April 27 - May 3, 2021**
+**Desired Timeline: May 5 - May 7, 2021**
 
-Session length: 45 minutes 
-
-Please leave 15 minutes in between each session.
+Session length: 1 hour
+Please leave 15 minutes in between each session
+Notetaking: Please designate someone from Perigean to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
