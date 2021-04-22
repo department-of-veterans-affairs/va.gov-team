@@ -24,6 +24,11 @@
 ## Friday Apr 23
 
 * VAMC policies page rollout
+  * What's the first VAMC to go past dual state? Responsive web editor? Candidate for the trial
+  * Look at list of pages that have been edited and by who.
+  * How many of these pages have had their local content edited
+  * What's the cloning procedure
+  * Add this to Stan's go live runbook. 
 * Loading (Story/News release) Listing pages with place holder
 * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
 
