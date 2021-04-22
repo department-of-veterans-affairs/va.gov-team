@@ -1,4 +1,4 @@
-# VSP Analytics & Insights Charter
+# Platform Analytics & Insights Charter
 
 ## Table of Contents
 1. [Why we're here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#why-were-here)
