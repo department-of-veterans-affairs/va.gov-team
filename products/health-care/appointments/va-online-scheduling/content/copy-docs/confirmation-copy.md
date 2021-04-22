@@ -1,11 +1,5 @@
 # Confirmation Copy Doc
 
-- [Current](#current)
-- [Homepage Refresh Toggle](#homepage-refresh-toggle)
-  * [VA Request](#va-request)
-  * [Community Care Request](#community-care-request)
-  * [VVC (Telehealth) Request](#vvc--telehealth--request)
-
 ---
 
 ## Current
@@ -16,44 +10,96 @@ _to be added_
 
 ## Homepage Refresh Toggle
 
-### VA Request
+### VA or VVC Request
 
 (H1) Pending {type of care} appointment
 
-Your appointment request has been submittted. We're reviewing your request. A scheduler will contact you to schedule the first available appointment. You don't have to do anything right now.
+Your appointment request has been submitted. We will review your request and contact you to schedule the first available appointment.
 
-(Button) View your appointments
-(Button) New appointment
+(Link) View your appointments
 
-_{existing appointment details}_
+(Link) New appointment
 
-(Button) Cancel request
+
+VA appointment
+
+{Facility name}
+
+{Address line 1}
+
+{Address line 2}
+
+(Link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: (link) {phone number}
+
+TTY: (link) 711
+
+Preferred type of appointment
+
+{modality preference}
+
+Your preferred date and time
+
+{Preferred date & time 1}
+
+{Preferred date & time 2}
+
+{Preferred date & time 3}
+
+Your reason for your visit
+
+{Reason}: {Booking note}
+
+Your contact details
+
+Email: {email address}
+
+Phone number: {phone number}
+
+{best times to call}
+
+
+(Link) Cancel request
 
 
 ### Community Care Request
 
 (H1) Pending {type of care} appointment
 
-Your appointment request has been submittted. We're reviewing your request. A scheduler will contact you to schedule the first available appointment. You don't have to do anything right now.
+Your appointment request has been submitted. We will review your request and contact you to schedule the first available appointment.
 
-(Button) View your appointments
-(Button) New appointment
+(Link) View your appointments
 
-_{existing appointment details}_
-
-(Button) Cancel request
+(Link) New appointment
 
 
-### VVC (Telehealth) Request
+Preferred community care provider
 
-(H1) Pending {type of care} appointment
+{Provider name}
 
-Your appointment request has been submittted. We're reviewing your request. A scheduler will contact you to schedule the first available appointment. You don't have to do anything right now.
+Your preferred date and time
 
-(Button) View your appointments
-(Button) New appointment
+{Preferred date & time 1}
 
-_{existing appointment details}_
+{Preferred date & time 2}
 
-(Button) Cancel request
+{Preferred date & time 3}
+
+Your reason for your visit
+
+{Booking note}
+
+Your contact details
+
+Email: {email address}
+
+Phone number: {phone number}
+
+{best times to call}
+
+
+(Link) Cancel request
 
