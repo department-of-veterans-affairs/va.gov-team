@@ -67,7 +67,7 @@ We would like to work with Perigean to recruit remote users. We would like to in
 
 All participants must:
 
-- Be a Veteran or POA of a Veteran 
+- Be a Veteran or POA of a Veteran (at least 1 POA)
 - Not currently have Health Care through the VA 
 - Have access to a laptop/desktop and be willing to complete the test on said laptop/desktop
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
