@@ -4,18 +4,32 @@ Standardize form intro pages, taking into account the VA.gov style, voice, plain
 ## Content components
 
 ### H1
-Maximum character count, with spaces: 70
 
-#### Order of events 
-- The CTA starts the H1 (Apply for / File for / Change / Request)
-- The second element is a plain language description of the benefit
-- The third element is the form number in parentheses
+#### H1 for pages with a wizard
 
-### Subhead
-The full form name. <br>
-**Note:** We're no longer using "Equal to"
+##### Wizard state
+Use the plain language CTA for the task. Maximum character count (with spaces) 52 characters.
 
-### Examples
+**Example:**
+Apply for VA health care
+
+##### Form page after refresh
+Use the plain language CTA followed by the VA Form # in parentheses. Maximum character count (with spaces) = 70 characters.
+
+**Example:**
+Apply for VA health care (VA Form 10-10EZ)
+
+#### H1 for pages without a wizard
+Use the plain language CTA followed by the VA Form # in parentheses. Maximum character count (with spaces) = 70 characters.
+
+**Example:**
+Apply for VA health care (VA Form 10-10EZ)
+
+### Subhead beneath H1
+Use the full official form name. **Note:** We're no longer using "Equal to."
+
+**Apply for VA health care (VA Form 10-10EZ)**<br>
+Enrollment Application for Health Benefits
 
 **Apply for VA education benefits (VA Form 22-1990)** <br>
 Application for VA Education Benefits
@@ -28,6 +42,8 @@ Decision Review Request: Higher-Level Review
 
 **File for Disability Compensation (VA Form 21-526EZ)** <br>
 Application for Disability Compensation and Related Compensation Benefits
+
+------
 
 ### Alert
 If the user is already signed in, the info alert appears (Since you're signed in to your account...)
