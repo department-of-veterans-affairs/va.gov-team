@@ -31,7 +31,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or task.
+- **This entire session should take about an hour.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -225,35 +225,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
   
-### Task 10: [Get a Home Loan] - 4 minutes
-
-- Pretend that you're considering buying a new home. How can the VA help?
-- *NOTE if they say they don't do this*
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-- *RECORD navigation:*
-    - *VA Benefits & Health Care > Housing assistance > About VA home loan types* 
-    - *(phone) Menu at top > VA Benefits & Health Care > ...*
-    - *Housing assistance link below photos* 
-    - *Search* 
-- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
-  
-### Task 11: [Go back to school] - 4 minutes
-
-- Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
-- *NOTE if they say they don't do this*
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-- *RECORD navigation:*
-    - *Education quadrant > Apply for Educ Benefits* 
-    - *VA Benefits & Health Care > Educ & training*
-    - *(phone) Menu at top > VA Benefits & Health Care > ...*
-    - *Educ & training link below photos*
-    - *Search*
-- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
-
 ## Post-Task Interview - 5 minutes
 
 - What do you *like* about using the VA.gov website?
