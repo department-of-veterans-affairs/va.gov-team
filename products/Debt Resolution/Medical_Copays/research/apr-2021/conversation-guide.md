@@ -48,6 +48,8 @@ Before we start, a few things I want to mention:
 
 * Imagine you received a letter in the mail about owing money to the VA, but you've misplaced it, what would you do?
   * Is there some other way you'd prefer to find this information?
+
+* Next, I'm going to ask you to share your screen so I can follow along with you. There should be a green button at the bottom of your Zoom screen that says "Share Screen" - just click that, select your screen, and hit share.
 * (If they haven't mentioned one of the online formats) Let's imagine there's a place online where you can access this information. Tell me what that looks like for you. 
 * MyHealtheVet
   * Talk to me about how you'd find that information
