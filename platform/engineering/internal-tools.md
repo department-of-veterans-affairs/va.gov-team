@@ -1,5 +1,8 @@
 # Internal tools access
 
+### :warning: Please read before beginning this document:
+This document later describes a step that has the user attempt to reach a private repository. It is important that you check with your team leadership and ensure you have been added to the Department of Veterans Affairs GitHub organization as well as your team's respective GitHub team in order to view the contents of the private repository. If you are still unable to reach the DevOps repository after verifying with leadership or your GitHub team has been newly created, please reach out for Operations support in the #vfs-platform-support channel within the DSVA Slack workspace.
+
 This document describes tools available internally to developers working on the Veteran-facing Services Platform and configuration required to access them. You'll need access to these tools if you need:
 
 * Build logs and details from Jenkins (linked to from GitHub PRs for each project)
