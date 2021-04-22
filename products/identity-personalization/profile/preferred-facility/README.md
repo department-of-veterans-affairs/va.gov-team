@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated March 16, 2021
+Last Updated April 22, 2021
 
 ## POCs
 
@@ -115,7 +115,8 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **October 2020**: Initial discovery.
 - **November 2020**: Begin backend integration.
 - **December 2020**: Finish backend integration.
-- **April 2021**: Initial designs completed. Ready for research.
+- - **December 2020**: Design begins.
+- **April 2021**: Initial designs completed. Beginning collaborative research effort with VAOS team.
 
 ## Product Decisions
 
