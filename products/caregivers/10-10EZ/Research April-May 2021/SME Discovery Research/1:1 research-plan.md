@@ -28,9 +28,9 @@ The research questions we want to address are:
 
 - How has processing applications changed (in whatever role SME is) since the digital version became available?
 - What outside factors does the digital form overlook? Perhaps special handling methods used before the form was digital that the digital form doesn’t account for.
-- Online forms innately create different obstacles/less flexibility than paper/in-person experiences/processing.
+  - Online forms innately create different obstacles/less flexibility than paper/in-person experiences/processing.
 - How do SMEs help applicants work through sections of the form that the data has shown to be roadblocks?
-- What are ways that we can improve these sections for the users?
+  - What are ways that we can improve these sections for the users?
 - What methods do SMEs think can be used to remind users who have saved an application, but have not completed it?
 - What do SMEs hear from Veterans about the form?
 
