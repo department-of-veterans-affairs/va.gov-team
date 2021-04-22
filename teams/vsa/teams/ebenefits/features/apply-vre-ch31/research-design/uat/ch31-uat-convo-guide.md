@@ -53,9 +53,9 @@ OK, please share your screen, and we'll get started.
 
 - Please open a new tab in your browser, go to [CH31 landing page link]().
 - To complete this form, would you like to log in?
-  - [ ] **UAT item:** After login, intro screen allows access.
+  - [ ] **UAT item:** After login, intro screen allows access
 - (If login fails for any reason) It seems there's a problem logging-in; you'll need to log in to be able to see the form.
-  - If the user can not log in, end the session.
+  - If the user can not log in, end the session
 - Review the information on the landing screen. Is this the right form for you?
   - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
@@ -63,20 +63,20 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** User navigates orientation to form button (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the steps to apply for CH31 benefits. 
-  - [ ] **UAT item:** User clicks green button to enter form.   
+  - [ ] **UAT item:** User clicks green button to enter form  
 - Review/enter claimant information.
   - [ ] **UAT item:** Screen presents correct user data
 - Review/enter contact information.
   - [ ] **UAT item:** Address, phone and email are pre-filled
   - [ ] **UAT item:** User makes any necessary corrections and proceeds
 - User selects applicant description.
-  - [ ] **UAT item:** Selections branch workflow properly
-  - [ ] **UAT item:** User can backtrack through form as needed.
-- Review information enter in this form
+  - [ ] **UAT item:** Selections branch form-flow properly
+  - [ ] **UAT item:** User can backtrack through form as needed
+- Review information enter in this form.
   - [ ] **UAT item:** Accordions are present and contain correct information.
   - [ ] **UAT item:** Edit function allows corrections
-- Review privacy statement and submit the form
-  - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
+- Review privacy statement and submit the form.
+  - [ ] **UAT item:** Form submits and user is presented with confirmation screen
 
 ## Wrap-up
 That is the end of what we're testing. Do you have any questions or comments about the form or the process?
