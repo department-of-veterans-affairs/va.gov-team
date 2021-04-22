@@ -96,6 +96,7 @@ Alright, I want you to imagine that you are in the following scenario:
   * What do you think will happen if you don't pay by that date?
 * What options do you have to resolve these copay charges?
   * Which would you choose? Why?
+* What would you do if you needed assistance paying?
 * Talk to me about the description section.
   * What does this mean to you?
   * How would you normally interact with this section of the letter?
