@@ -13,16 +13,18 @@ X UAT sessions were conducted from X to X 2021. X of X users participated. X maj
 | UAT item | P1 | P2 | P3 | P4 | P5 | P6 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | After login, intro screen allows access | -- | -- | -- | -- | -- | -- |
-| Direct deposit information link appears in left-hand navigation | -- | -- | -- | -- | -- | -- |
-| User navigates to Direct deposit screen | -- | -- | -- | -- | -- | -- |
-| User confirms payment type(s) are correct (EDU, C&P, both) | -- | -- | -- | -- | -- | -- |
-| User confirms bank info looks accurate | -- | -- | -- | -- | -- | -- |
-| Unpopulated form opens | -- | -- | -- | -- | -- | -- |
-| Screen accepts user input | -- | -- | -- | -- | -- | -- |
-| Confimation modal shows | -- | -- | -- | -- | -- | -- |
-| Success message shows | -- | -- | -- | -- | -- | -- |
-| User confirms bank info looks accurate | -- | -- | -- | -- | -- | -- |
-| User confirms email received | -- | -- | -- | -- | -- | -- |
+| User navigates wizard to reveal orientation (optional) | -- | -- | -- | -- | -- | -- |
+| User clicks form link to advance straight to the form intro screen | -- | -- | -- | -- | -- | -- |
+| User navigates orientation to reveal orientation (optional) | -- | -- | -- | -- | -- | -- |
+| User clicks form link to advance straight to the form intro screen | -- | -- | -- | -- | -- | -- |
+| User clicks green button to enter form | -- | -- | -- | -- | -- | -- |
+| Screen presents correct user data | -- | -- | -- | -- | -- | -- |
+| Address, phone and email are pre-filled | -- | -- | -- | -- | -- | -- |
+| User makes any necessary corrections and proceeds | -- | -- | -- | -- | -- | -- |
+| Selections branch workflow properly | -- | -- | -- | -- | -- | -- |
+| Accordions are present and contain correct information | -- | -- | -- | -- | -- | -- |
+| Edit function allows corrections | -- | -- | -- | -- | -- | -- |
+| Form submits and user is presented with confirmation screen | -- | -- | -- | -- | -- | -- |
 
 -- = Did not occur in testing/Participant did not show
 
