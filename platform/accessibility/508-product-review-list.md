@@ -980,9 +980,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
 
-**Open issues**
-
-- [[COGNITION]: VAOS Appointment Tabs - CONSIDER adding SR-only text to the visual tab labels - #11470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11470)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
