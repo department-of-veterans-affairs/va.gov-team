@@ -28,10 +28,10 @@ You'll be using a new feature we have on VA.gov: VA form 28-1900. This is the on
   - If the user is not one of the above, end the session.
 - Do you (or your sponsor) have a disability rating?
   - If the user is not one of the above, end the session.
-- Do you want to log in to VA.gov to complete the form?
+- We'll need to log into VA.gov to complete the form.
   - Can you confirm for me that you have an ID.me account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
-  - If the user can not remember or retrieve their login credentials, they must complete the form unauthenticated.
+  - If the user can not remember or retrieve their login credentials, end the session.
 - During this call, I'll be helping you submit a form to apply for CH31 benefits. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form with me?
   - If not end the session.
 
@@ -54,8 +54,8 @@ OK, please share your screen, and we'll get started.
 - Please open a new tab in your browser, go to [CH31 landing page link]().
 - To complete this form, would you like to log in?
   - [ ] **UAT item:** After login, intro screen allows access.
-- (If login fails for any reason) It seems there's a problem logging-in; would you like to continue without logging-in?  
-  - [ ] **UAT item:** user proceeds unauthenticated 
+- (If login fails for any reason) It seems there's a problem logging-in; you'll need to log in to be able to see the form.
+  - If the user can not log in, end the session.
 - Review the information on the landing screen. Is this the right form for you?
   - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
