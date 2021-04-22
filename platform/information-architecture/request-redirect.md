@@ -13,9 +13,10 @@ All redirects will be routed through Content and IA team for validation and then
 - Readily answer any questions during the vetting and implementation process
 - Validate redirect in production and close the ticket
 
-### Responsibility of Content and IA team
+### Responsibility of VSP IA
 - Ensure that the the destination URLs are accurate based on agreed IA decisions
 - Ensure that all known legacy URLs are accounted for
+- Review analytics and SEO data if necessary (although rare, in some cases a redirect may not be needed)
 - Validate if there are any existing redirects that need to be updated
 - Ensure redirect is properly documented in IA documentation
 - Assign to proper implementation team
