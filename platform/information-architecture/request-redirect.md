@@ -39,7 +39,7 @@ All redirects will be routed through Content and IA team for validation and then
 
 2. VSP IA will review the request for accuracy and ensure it is properly documented, then assign it to implementation team.
 
-3. Implementation team will implement the redirects and notify everyone on the issue once deployed.
+3. Implementation team will implement the redirects - per the noted timing and instructions - and notify everyone on the issue once deployed.
 
 4. VSP IA and/or requesting team will validate in production and close issue. 
 
