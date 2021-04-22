@@ -49,8 +49,8 @@ relatively minimal, but quickly grows as the form becomes more complex. This is
 largely due to the library bloat outlined above.
 
 ##### And more!
-If we need to outline more problems encountered with the current library, we can
-definitely do so. For now, I digress.
+There are many other problems introduced by the existing forms library, but for
+now, I digress.
 
 ### High Level Design
 Formulate will be a modular library consisting of helper functions and
