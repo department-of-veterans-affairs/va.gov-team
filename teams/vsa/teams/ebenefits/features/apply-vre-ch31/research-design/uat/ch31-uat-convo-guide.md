@@ -60,7 +60,7 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the VR&E orientation. Does this provide a better understanding of VR&E benefits?
-  - [ ] **UAT item:** User navigates wizard to form button (optional)
+  - [ ] **UAT item:** User navigates orientation to form button (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the steps to apply for CH31 benefits. 
   - [ ] **UAT item:** User clicks green button to enter form.   
