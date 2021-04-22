@@ -25,6 +25,7 @@ All redirects will be routed through Content and IA team for validation and then
 - Size and schedule the request based on the requested launch date
 - Communicate any technical concerns to everyone on the ticket
 - Communicate any timing concerns to everyone on the ticket
+- Implement appropriate redirects per the instructions of the requesting team
 - Communicate when redirect has been deployed so teams can validate
 
 ### Process
