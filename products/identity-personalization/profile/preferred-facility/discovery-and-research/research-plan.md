@@ -3,11 +3,11 @@
 
 ## Goals	
 
-### What product & team are you doing this research for?	
+### Product & team
 
 Profile "My VA health facilities", Authenticated Experience
 
-### Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+### Background
 
 The VAOS (online scheduling) tool allows veterans to make an appointment at all of the facilities at which they're registered, but veterans are frustrated because being registered at a facility does not mean they are currently receiving care there. Veterans are still considered registered at facilities where they used to receive — but no longer receive — care, and at some facilities for reasons other than having ever been a patient. Therefore, veterans see facilities in VAOS that they don't go to, and they do not understand why they are being asked to make appointments at facilities they don't go to. This has resulted in a considerable amount of complaints. 
 
