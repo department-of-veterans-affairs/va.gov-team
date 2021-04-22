@@ -7,7 +7,7 @@ This research is to be conducted on the Health Care Application (10-10EZ) by the
 Live: (https://www.va.gov/health-care/apply/application/introduction)
 Staging: (https://staging.va.gov/health-care/apply/application/introduction)
 
-The purpose of this discovery phase of research is to gain a broad understanding of why people start the Health Care Application form, but do not complete it and to start to explore ways of increasing qualified submissions. The data gathered through the Health Care application’s Analytics will serve as a foundation for creating this research plan.
+The purpose of this discovery phase of research is to gain a broad understanding of why people start the Health Care Application form, but do not complete it and to start to explore ways of increasing qualified submissions. The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as a foundation for creating this research plan.
 
 We understand that sometimes a digital application experience can leave out real-world context and offline workarounds. We would like to begin the discovery phase of research by talking to subject-matter experts (SMEs) to better understand how they help applicants work through sections of the application that are particularly difficult, what workarounds are used, and to explore possible ways to make specific sections of the application easier. We also want to gain context of the transition from the paper application to the digital option. 
 
