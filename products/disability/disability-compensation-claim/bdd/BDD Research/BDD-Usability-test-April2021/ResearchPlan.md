@@ -68,11 +68,9 @@ We would like to interview 8 participants.
 
 Primary criteria / Must have: 
 
--   All Participants must be Veterans (separated from active duty). 
-
 -   All participants must have submitted a claim with the VA in the past.
 
--   50% or more must have submitted (or planning to do so within the next 4 months) a claim through the BDD program. 
+-   50% or more must have submitted (or planning to do so within the next 4 months) a claim through the BDD program (active service member). 
 
 -   Participants must be on a laptop or desktop computer (mobile or tablet will not work) during the interview.
 
