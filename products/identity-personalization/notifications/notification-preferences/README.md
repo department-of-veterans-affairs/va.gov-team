@@ -18,7 +18,6 @@ Last Updated April 19, 2021
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
