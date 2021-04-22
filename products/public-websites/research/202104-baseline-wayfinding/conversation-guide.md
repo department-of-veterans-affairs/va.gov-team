@@ -193,8 +193,6 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
 
-## IF TIME, more Veteran tasks to do...
-
 ### Task 8: [Get medical records] - 4 minutes
 
 - You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
