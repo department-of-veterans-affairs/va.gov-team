@@ -93,3 +93,10 @@ Link to HLR Test User Info doc: https://dsva.slack.com/files/UN2J9UE1L/F01BTMV0R
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
 
+
+* **Access NOD:
+- Go to https://staging.va.gov/decision-reviews/board-appeal/request-board-review-form-10182
+- Log into any of the HLR test users (https://dsva.slack.com/archives/C5AGLBNRK/p1601069669025200?thread_ts=1601069567.024300&cid=C5AGLBNRK)
+- Design: https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866
+- Note: It's still a WIP and we're missing a page - if the Veteran chooses "Hearing with a Veterans Law Judge" the next page will ask the type of hearing: virtual, video conference or central office.
+
