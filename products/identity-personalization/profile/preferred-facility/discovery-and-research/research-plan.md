@@ -15,7 +15,7 @@ Our MVP will add functionality to VA.gov profile to allow veterans to set their 
 
 User goals, business goals, and assumptions are listed in the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
 
-### Our approach
+### Our research approach
 
 This section of profile is heavily linked to VAOS, and they're redesigning their flow to account for this new feature in profile.  The majority of the flow lies within VAOS, so this study will be led by the VAOS team.  Our team will provide research support in the following ways:
 
