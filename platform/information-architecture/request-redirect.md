@@ -30,11 +30,11 @@ All redirects will be routed through Content and IA team for validation and then
 ### Process
 
 1. Create an issue using the "Redirect Request" template **at least 2 weeks prior to desired launch date**
-  - Add name of page(s) to be redirected into title the issue "Redirect Request: [name of page/description of pages]"
-  - Include the date redirects need to be implemented by
-  - Include background and reason for redirect request
-  - Document the current URL(s) and where the URL(s) should be redirected to.  
-  - Add any special instructions (i.e. this should be a temporary redirect, not permanent)
+    - Add name of page(s) to be redirected into title the issue "Redirect Request: [name of page/description of pages]"
+    - Include the date redirects need to be implemented by
+    - Include background and reason for redirect request
+    - Document the current URL(s) and where the URL(s) should be redirected to.  
+    - Add any special instructions (i.e. this should be a temporary redirect, not permanent)
 
 2. VSP IA will review the request for accuracy and ensure it is properly documented, then assign it to implementation team.
 
