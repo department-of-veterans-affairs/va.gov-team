@@ -1,4 +1,4 @@
-# [Draft] Research outline: Health care application, April/May 2021
+# [Draft] Research outline: Health care application 10-10EZ, April/May 2021
 
 ## Goals:
 
@@ -14,11 +14,9 @@ The goals of research are to:
 
 ## Research Outline:
 
-1. Discovery with 3-5 subject-matter experts (SME) 
+1. [Discovery interviews with 4-6 subject-matter experts (SMEs)] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/1:1%20research-plan.md)
 
-2. Discovery with end users who have not completed the 10-10EZ
-
-    1. Combined or Separate - Discovery with [authenticated users who save, but don’t return](https://docs.google.com/document/d/1l9JzWh1g_PyPJDurogTTDeemgx2a5o_Xn7kMrbv4Fbg/edit#) and submit application
+2. Discovery interviews with end users who have not completed the 10-10EZ
 
 3. Focus group with SMEs
 
