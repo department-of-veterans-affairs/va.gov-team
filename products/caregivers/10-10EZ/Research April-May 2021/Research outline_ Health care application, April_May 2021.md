@@ -22,7 +22,7 @@ The overarching goals of research are to:
 
 [DESIGN]
 
-4. Design ideation- [quick usability tests](https://docs.google.com/document/d/1I3IfrZmMAgozO_5r-nIwGSw0_4IZiNmx8SuSS-RieaU/edit#) on specific redesigned sections *(repeat as necessary)*
+4. Design ideation- quick usability tests on specific redesigned sections *(repeat as necessary)*
 
 
 ### Example process below (not necessarily indicative of actual calendar days).
