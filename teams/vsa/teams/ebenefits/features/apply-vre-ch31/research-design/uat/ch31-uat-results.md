@@ -21,7 +21,7 @@ X UAT sessions were conducted from X to X 2021. X of X users participated. X maj
 | Screen presents correct user data | -- | -- | -- | -- | -- | -- |
 | Address, phone and email are pre-filled | -- | -- | -- | -- | -- | -- |
 | User makes any necessary corrections and proceeds | -- | -- | -- | -- | -- | -- |
-| Selections branch workflow properly | -- | -- | -- | -- | -- | -- |
+| Selections branch form-flow properly | -- | -- | -- | -- | -- | -- |
 | Accordions are present and contain correct information | -- | -- | -- | -- | -- | -- |
 | Edit function allows corrections | -- | -- | -- | -- | -- | -- |
 | Form submits and user is presented with confirmation screen | -- | -- | -- | -- | -- | -- |
