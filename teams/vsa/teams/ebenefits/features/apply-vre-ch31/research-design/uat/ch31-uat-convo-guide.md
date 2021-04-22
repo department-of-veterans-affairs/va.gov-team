@@ -49,6 +49,8 @@ OK, please share your screen, and we'll get started.
 
 ## UAT testing of 28-1900
 
+`Revised to remove unauthenticated and video tasks`
+
 - Please open a new tab in your browser, go to [CH31 landing page link]().
 - To complete this form, would you like to log in?
   - [ ] **UAT item:** After login, intro screen allows access.
@@ -58,21 +60,15 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the VR&E orientation. Does this provide a better understanding of VR&E benefits?
-  - [ ] **UAT item:** User navigates wizard to reveal videos (optional)
-  - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
-  - Review the VR&E videos. Which of these do you feel best apply to you?
   - [ ] **UAT item:** User navigates wizard to form button (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the steps to apply for CH31 benefits. 
-  - [ ] **UAT item:** (Authenticated) User clicks green button to enter form.   
-  - [ ] **UAT item:** (Unauthenticated) User clicks text link to enter form.
+  - [ ] **UAT item:** User clicks green button to enter form.   
 - Review/enter claimant information.
-  - [ ] **UAT item:** (Authenticated) Screen presents correct user data
-  - [ ] **UAT item:** (Unauthenticated) User enters personal info
+  - [ ] **UAT item:** Screen presents correct user data
 - Review/enter contact information.
-  - [ ] **UAT item:** (Authenticated) Address, phone and email are pre-filled
-  - [ ] **UAT item:** (Authenticated) User makes any necessary corrections and proceeds
-  - [ ] **UAT item:** (Unauthenticated) User enters contact info
+  - [ ] **UAT item:** Address, phone and email are pre-filled
+  - [ ] **UAT item:** User makes any necessary corrections and proceeds
 - User selects applicant description.
   - [ ] **UAT item:** Selections branch workflow properly
   - [ ] **UAT item:** User can backtrack through form as needed.
