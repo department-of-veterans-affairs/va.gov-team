@@ -56,7 +56,6 @@ now, I digress.
 Formulate will be a modular library consisting of helper functions and
 components to aid in the rapid development of forms on VA.gov. These functions
 and components will be **split into sub-modules** for:
-- [State management](#sub-module-state-management)
 - [Building form pages](#sub-module-form-page-builder)
 - [Routing](#sub-module-routing)
 - [Save-in-progress](#sub-module-save-in-progress)
@@ -98,24 +97,6 @@ navigability, I've added some specific heading descriptors to this section:
 **Discussion:** Is breaking the library up into sub-modules and helpers a
 helpful mental model?
 
-#### Sub-module: State management
-A state manager provides the context to its children for setting and getting
-form state. This will be the only sub-module required by other sub-modules.
-
-The state management functions will be provided to its children through [React
-context](https://reactjs.org/docs/context.html).
-
-The default manager will be `ReduxManager` which will store state in Redux.
-
-**Responsibilities:**
-- Setting and retrieving form state
-  - User input
-  - Validation errors
-    - This is important to prevent routing and submission if there are
-      validation errors
-- Storing the form schema as JSON schema
-  - This will be optional
-
 #### Sub-module: Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
@@ -124,7 +105,6 @@ form. In particular, it will:
   - Form title, page title, progress bar, back / continue buttons, etc.
 - Prevent progress through the form if there are validation errors on the
   current page
-  - As with all form state, the error state is retrieved from the state manager
 
 To accomplish this, there will be three primary components in the routing
 sub-module:
@@ -219,26 +199,12 @@ may include:
 - `<ArrayOf/>`
 
 These components will be responsible for:
-- Interfacing with the state manager for setting and retrieving form state
-  - User data
-  - Validation errors errors
 - Interfacing with the route manager _if present_ for route path substitutions
   in its data path
   - The route manager is responsible for the translation
   - See below for details
 - Calling validation functions
 - Displaying validation errors
-- When a schema is present in the state manager, checking it to ensure
-  that the data for the field in the schema is appropriate for the form builder
-  component
-  - For example, a `<NumberInput data="age" />` would check the schema to make
-    sure that the `schema.age.type` is `number` or `integer`
-  - If the type is wrong, it will throw an error
-    - **Discussion:** Ideally, this would be a compile-time check that we can
-      then shake out of the production build, but I don't know how we can make
-      this check happen at compile time, and I don't know how to not ship the
-      type checking code to client browsers and still ensure the checking
-      happens in CI.
 
 ##### Data paths
 Each form page builder component must accept a string data path `data` property.
@@ -334,8 +300,6 @@ can't think of anything that isn't unnecessarily heavy.
 
 #### Sub-module: Save-in-progress
 Things to mention:
-- How it'll jack into the state manager's state
-  - Loading a form—how?
 - How it'll handle data migrations
   - Because the fundamental problem of changing a form after the data has been
     saved is still there
@@ -343,7 +307,7 @@ Things to mention:
 #### Helper: Review page
 This will be an optional page included in the `Router`'s `pageList` if desired.
 The default review page provided by Formulate will attempt to render the correct
-chapters and pages based on the state in the state manager.
+chapters and pages.
 
 **Discussion:** How? In particular, how do we keep this separate from the
 routing? (If we can't, then we can't, but we should start by trying to keep it
@@ -429,9 +393,8 @@ N/A
   bug
   - If I give on input field the data path of `password` and another of
     `password.confirm`, for example
-  - **Possible solution:** The answer here may be to pass the form schema to the
-    `StateManager` and have each input field check to make sure that the data
-    path passed to it matches an appropriate data type for the field
+  - **Possible solution:** The answer here may be to somehow check all the
+    inputs against the form schema to ensure they're a match.
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order
