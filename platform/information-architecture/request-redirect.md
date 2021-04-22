@@ -35,6 +35,7 @@ All redirects will be routed through Content and IA team for validation and then
 - Include the date redirects need to be implemented by
 - Include background and reason for redirect request
 - Document the current URL(s) and where the URL(s) should be redirected to.  
+- Add any special instructions (i.e. this should be a temporary redirect, not permanent)
 
 2. VSP IA will review the request for accuracy and ensure it is properly documented, then assign it to implementation team.
 
