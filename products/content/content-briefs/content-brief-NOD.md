@@ -51,6 +51,8 @@ Add content-related notes that came out of research that should inform the messa
 
 ## Notes from stakeholders
 
+**INITIAL FEEDBACK FROM 3/2021**
+
 **1/ Informational (static) page**
 Stakeholders: They wanted to look at the opt-in language in the blue box. Rewrite it. Possibly not include it here at all.
 Beth's direction: Since opt-in is addressed in the form itself, that may be enough. We'd want to confirm all this with the stakeholders, but my recommendation is that we remove it. 
@@ -70,6 +72,18 @@ They need to know that they can't just add an issue they'd like to see there.
 
 **5/ 1 of 4: “We encourage you to work with your representative to decide which of the following options is best for you.”**
 Stakeholders: It probably doesn't make sense to keep this on the screen where the user selects a board review option, because they're already in progress with the form.
+
+**Content-specific feedback from call with Robin/Kevin and stakholders on 4/16/21**
+
+- Asking for representative’s name - preference on this screen is to let user know they can specify an org as opposed to a specific name.
+- What is being appealed (area of disagreement)? Add functionality to make or enter selection, preferably a checkbox of handful of known options. 
+
+**Notes from an email on 4/20/21**
+
+This will inform content revisions around whether to include opt-in messaging and how to frame it:
+- It's a legal requirement to opt in to the new appeals process if the Veteran has a legacy appeal and wants to switch to AMA. That's the only way to get a review under the new decision review process.
+- Opting in should generally mean a faster review and decision than the Veteran would get in the legacy system. 
+- We need to have reference to opting in on the form.
 
 ## Other notes
 
