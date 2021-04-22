@@ -34,7 +34,8 @@ Link to HLR Test User Info doc: https://dsva.slack.com/files/UN2J9UE1L/F01BTMV0R
   
 
 * **Link to designs**
-  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page
+  - https://vsateams.invisionapp.com/share/8Y10I6K7DU9R#/screens/447558866_NOD_-_Info_Page 
+  - No design screens unique to case: access staging environment and essentially use that as reference.
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - https://staging.va.gov/decision-reviews/board-appeal/request-notice-of-disagreement-form-10182
