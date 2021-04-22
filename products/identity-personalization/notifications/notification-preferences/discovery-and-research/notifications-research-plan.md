@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, Notification Settings, June 2020
+# Research Plan for Authenticated Experience, Notification Settings, June 2021
 
 ## Goals	
 
