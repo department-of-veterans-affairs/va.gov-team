@@ -6,24 +6,22 @@
 When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** , notifying **@cmshelpdesk**). This alert will move soon to **#vfs-engineers**.
 The notification follows the format:
 
-```4 broken links found in the vagovprod build on master
+```4 broken links found in the vagovprod build
 @cmshelpdesk
-http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/123456/display/redirect
+http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/123456/display/redirect
 Page,Broken link
 dir/url-of-page,[a href="/node/1234">Linkname</a>
 dir/url-of-page,[a href="/node/1235">Linkname</a>
 dir/url-of-page,[a href="/node/1236">Linkname</a>
 ```
 
-As a general rule the help desk team only needs to attend to alerts which mention either `master` (in which case a code review or being blocked) or `null` (in which case a content release is at stake).
-
 ### Response
-We will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`, then begin triage. 
-In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`. This ensures proper SLA tracking and reporting.
+Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered in **#vfs-platform-builds** we will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`. 
 
-Our initial first response responsibility is to notify the **#vfs-engineers** channel that we are investigating the broken link(s). This must happen within 30 minutes of the notification.
+In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`.  This ensures proper SLA tracking and reporting.  
 
-We may also choose to begin a **#cms-team** Slack conversation for the team's awareness, and/or to reach out to Tier 2. 
+Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notificatwkion.  Additionally, communicating the issue in **#cms-support.  we ** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
+Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.   
 
 # Steps to Investigate
 
@@ -32,9 +30,9 @@ The first responsibility of the help desk is to quickly assess if the problem ca
 
 ### Finding the problem
 If we look at the initial alert notification, we should see, in this fictional example:
-```4 broken links found in the vagovprod build on master
+```4 broken links found in the vagovprod build
 @cmshelpdesk
-http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/master/123456/display/redirect
+http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/123456/display/redirect
 Page,Broken link
 dir/url-of-page,[a href="/node/1234">Linkname</a>
 dir/url-of-page,[a href="/node/1235">Linkname</a>
@@ -73,19 +71,15 @@ See a suggested email template below:
 >The page that you edited today, page title, triggered an alert that it contained a broken hyperlink. Since content for the entire website couldn’t be updated until this was fixed, we took the liberty of correcting this link so that it wouldn’t prevent other users’ changes from updating across the entire website.
 
 >The problem hyperlink was: link text which linked to https://badurl.whatever.gov. We corrected it to: https://goodurl.whatever.gov. Please double-check the page to make sure that this is correct.
-
 >Let us know if you have any questions.
-
 >Thanks!
-
 >_Our name_
-
 >VA CMS Help Desk
-
 
 # Response Timeframe
 The timeframe for an initial slack notification to **#vfs-engineers** should be within 30 minutes at most.
 Total time to fix the issue should be within an hour. If we have reason to think it’ll take longer, we should continue to update **#vfs-engineers**.
 When the issue is resolved, we should also update **#vfs-engineers** to say so.
 
-
+# Related Procedures
+Tier 1 and Tier 2 both have office hour requirements and other procedures directly impacted by this document and can be found here https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit
