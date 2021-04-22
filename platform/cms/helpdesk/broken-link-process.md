@@ -20,7 +20,7 @@ Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  O
 
 In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`.  This ensures proper SLA tracking and reporting.  
 
-Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notificatwkion.  Additionally, communicating the issue in **#cms-support.  we ** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
+Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notificatwkion.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
 Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.   
 
 # Steps to Investigate
