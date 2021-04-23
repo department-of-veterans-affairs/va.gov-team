@@ -41,7 +41,7 @@ Before we start, a few things I want to mention:
 7. Can you describe your experience using this bot?
 8. How confident were you in the bots responses?
 9. Based on your experience, describe your satisfaction level with the service of this bot? Was it helpful to answer your questions or accomplish your task?
-10. Based on your experience, would you use a chatbot again to help answer questions or accomlish a task? Why or why not?
+10. Based on your experience, would you use a chatbot again to help answer questions or accomplish a task? Why or why not?
 11. Over the past year, have you used the coronavirus chatbot on VA.gov? If yes, please describe your experience.
 12. How confident were you in the bots responses?
 13. Based on your experience, describe your satisfaction level with the service of this bot? Was it helpful to answer your questions or accomplish your task?
