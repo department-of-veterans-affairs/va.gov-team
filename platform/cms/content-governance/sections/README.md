@@ -8,7 +8,7 @@ All content on the site is required to be associated with one section, and only 
 
 Each CMS user is also associated with a section, or multiple section.
 
-Sections are organized into a hierarchy that represents the goverance hierarchy of all content on VA.gov CMS. At the top of the hierarchy are the 3 Administrations (NCA, VBA, and NHA, plus DEPO and "Veterans Affairs", for VACO content.)
+Sections are organized into a hierarchy that represents the goverance hierarchy of all content on VA.gov CMS. At the top of the hierarchy are the 3 Administrations (NCA, VBA, and VHA, plus DEPO and "Veterans Affairs", for primarily OPIA content.)
 
 Editors can edit content associated to a specific section under three circumstances:
 
