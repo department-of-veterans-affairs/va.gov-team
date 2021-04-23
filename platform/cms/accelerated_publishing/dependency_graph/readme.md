@@ -9,3 +9,4 @@ This page contains a list of different parts of the front end and how it could b
 * Forms
 * Resources (Q/A)
 * Homepage Banner
+* Images/Videos (Assets)
