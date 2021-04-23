@@ -245,11 +245,13 @@ To test your proxy connectivity, the best option is to run the following command
 
 You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the SOCKS proxy server is running. You can run `$ nc -z 127.0.0.1 2001` as a first step.
 
-### Connecting your browser to the proxy
-There are two alternatives to connecting your browser to the proxy.
+### Connecting your network to the proxy
+There are two alternatives to connecting your PC's network to the proxy. (Mac OS users only):
 
-1. Install SwitchyOmega: browser extension that will let you use the proxy just for certain domains
-1. Use the `socks.sh` script: a script will set up OSX with a system-level proxy - this is useful for those who want to use Safari, or who don't want to use browser extensions
+1. Use the `socks.sh` script: a script will set up OSX with a system-level proxy
+1. Install an app called [CoreTunnel](https://coretunnel.app/) that does the same thing as the `socks.sh` script in a more user-friendly way. See this [video](https://www.youtube.com/watch?v=fSuN9LhkB5o) for setup instructions.
+
+For Windows users, or those who don't mind being limited to Chrome and Firefox, the following option is also available:
 
 #### Set up SwitchyOmega for Chrome & Firefox
 
