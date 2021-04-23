@@ -75,10 +75,10 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 
 | Field | Copy |
 | ----- | ---- |
-| Title | VA Video Connect appointment at {facility} |
+| Title | VA Video Connect appointment |
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
-| Location | {facility address} |
+| Location |  |
 | Description/Notes | Join this video with a VA-provided device<br>You’ll be meeting with {name of provider}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to VAOS homepage}>” |
 
 
@@ -154,9 +154,9 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 
 | Field | Copy |
 | ----- | ---- |
-| Title | VA Video Connect appointment at {facility} |
+| Title | VA Video Connect appointment |
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
-| Location | {facility address} |
+| Location |  |
 | Description/Notes | Join this video with a VA-provided device<br>You’ll be meeting with {name of provider}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to appt details page}>” |
 
