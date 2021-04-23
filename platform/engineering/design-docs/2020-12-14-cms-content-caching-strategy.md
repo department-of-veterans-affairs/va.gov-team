@@ -78,19 +78,19 @@ drupal
 ```
 
 The function performs the following steps:
-0. Fetch Drupal data with the GraphQL query.
+1. Fetch Drupal data with the GraphQL query.
    - This leverages the content build's Drupal API client (`src/site/stages/build/drupal/api.js`) and the build options helpers (`src/site/stages/build/options`) to set default values for that API client.
    - Gathering build options automatically sends a request to the CMS for feature flags and generates that file on disk at `/tmp/.cache/localhost/drupal/feature-flags.json`.
 1. Generate a tarball in memory and store the retrieved data as `pages.json`.
    - While the content build typically creates the cache on disk, there is a [512 MB limit](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html) for temporary disk storage in the Lambda environment.
    - Since there is more space in memory (3008 MB for functions in Gov Cloud, but 10 GB in other regions), the cache will be built in memory before uploading to S3.
-2. Store `feature-flags.json` as itself in the tarball.
-3. Parse the CMS URLs (internal ALB URL or `*.cms.va.gov`) in `pages.json` using regex.
+1. Store `feature-flags.json` as itself in the tarball.
+1. Parse the CMS URLs (internal ALB URL or `*.cms.va.gov`) in `pages.json` using regex.
    - This will work similarly to the content build pipeline step of downloading Drupal assets.
    - To avoid running out of memory from having too many files open at once, we limit the number of concurrent downloads to 10 for now.
    - Assets are downloaded into the `downloads` directory, separated into either `files` or `img` based on the file suffix.
-4. Close the tarball for writing and compress it.
-5. Upload the archived and compressed cache to the bucket.
+1. Close the tarball for writing and compress it.
+1. Upload the archived and compressed cache to the bucket.
    - For `master`, the key is `content-cache/master/content.tar.gz`.
    - For feature branches, the key is `content-cache/<hash>/content.tar.gz`, where the hash is the checksum of the source ZIP file.
 
