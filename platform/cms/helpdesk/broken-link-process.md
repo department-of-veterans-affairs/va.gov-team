@@ -83,4 +83,4 @@ Total time to fix the issue should be within an hour. If we have reason to think
 When the issue is resolved, we should also update **#vfs-engineers** to say so.
 
 # Related Procedures
-Tier 1 and Tier 2 both have office hour requirements and other procedures directly impacted by this document and can be found here https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit
+Tier 1 and Tier 2 both have office hour requirements and other procedures defined in the [SLA](./service_level_agreement.md#help-desk-service-level-agreement-sla).
