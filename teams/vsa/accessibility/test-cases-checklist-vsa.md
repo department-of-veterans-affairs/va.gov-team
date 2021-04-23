@@ -1,4 +1,4 @@
-# VSA accessibility test cases checklist
+# Test Cases Checklist for VSA Teams
 
 Here is Markdown that you may add to your Staging Review request template. 
 
