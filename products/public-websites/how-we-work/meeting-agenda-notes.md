@@ -10,6 +10,7 @@
   - UPDATE: Tier 1-Tier 3 classification in AC
 - Medallia Implementation - how do we use access and leverage the data?
 - Analytics/KPIs/DOMO Dashboard
+- Design Consistency (Design System, Sketch files)
 - User Research/Testing 
   - Veteran top tasks - Cindy
   - A/B testing rate article- PW
