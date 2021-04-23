@@ -200,12 +200,17 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 
 #### Sub-module: Form page builder
 Formulate will leverage Formik for much of the form page building. It will
-**re-export Formik components** where it makes sense and **provide input
-wrappers** using the design system for common input types.
+**re-export Formik components** where it makes sense and **provide light
+wrappers for Formik input fields** using design system components.
 
 In addition to simple wrappers, Formulate will use Formik to provide more
 complex fields such as file upload which may be imported and used in
 applications.
+
+##### Why not just use Formik directly?
+It should be possible to use Formik directly without any issues. The form page
+builder sub-module intends to make using the design system with Formik simpler.
+
 #### Sub-module: Save-in-progress
 Things to mention:
 - How it'll handle data migrations
