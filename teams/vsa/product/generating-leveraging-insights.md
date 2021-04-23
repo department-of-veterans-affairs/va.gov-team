@@ -5,8 +5,8 @@
 - Cadence: Monthly / as needed following launches
 - Attendees:/Participants: PM + Team + OCTO-DE Lead + OCTO-DE/VSA Leads, Optional for others
 - Guidance: 
-Template: [Template] Impact Review: <Product/Initiative/Feature>  
-Example: Impact Review: Covid-19 Translations
+  - Template: [[Template] Impact Review: <Product/Initiative/Feature>](https://docs.google.com/presentation/d/1JGRSGCX8jyOTUGgNBKG1uDKyEikl26vNsl4d5M71qAU/edit)  
+  - Example: [Impact Review: Covid-19 Translations](https://docs.google.com/presentation/d/1T5VxP3CjHZBAeqnzPnG1KMGR9PYJy2my_vePcsOBGJI/edit#slide=id.g7a08253fe7_0_0)
 - Outcome: Teams have a better sense of their impact and how products might iterate
 - Output: Summary of the initiative—problem, hypotheses, results, and recommendations
 ##### Product Analytics Reviews
@@ -14,7 +14,7 @@ Example: Impact Review: Covid-19 Translations
 - Cadence: weekly/biweekly, monthly as agreed upon by team
 - Attendees:/Participants: PM & Team + OCTO-DE Lead
 - Guidance: 
-Template: Product Analytics Review Template 
+  - Template: [Product Analytics Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/product-analytics-review-template.md) 
 - Outcome: the team has a better understanding of how their products perform and opportunities to pursue
 - Output: Product documentation updates, future sprint objectives, backlog epics
 #### Dimension - Prioritization
@@ -24,8 +24,8 @@ Template: Product Analytics Review Template
 - Attendees:/Participants: PM & Team + OCTO-DE Lead & Crew Chief
 - Guidance: 
 Quarterly planning is not focused on defining specific bets. Rather, it’s a dedicated point-in-time for the team to prioritize specific outcomes 
-Template: OKR Template (make a copy) 
-Example: Q3 2020 Facilities Team Roadmap 
+  - Template: [OKR Template (make a copy)](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit) 
+  - Example: [Q3 2020 Facilities Team Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/3q-facilities-team-roadmap.md) 
 - Outcome: team has a consistent understanding of priorities and success
 - Output: list of prioritized objectives and measurable targets 
 ##### Define success and associated metrics before initiative kickoff
@@ -33,10 +33,10 @@ Example: Q3 2020 Facilities Team Roadmap
 - Cadence: Weekly/Biweekly/Monthly as determined by team
 - Attendees:/Participants: PM & Team + OCTO-DE Lead
 - Guidance: 
-Template: va.gov-team Product Outline Template 
-Example: Product Outline: VA Mobile App MVP
-Example: Product Outline Debt Resolution - FSR
-Example: Product Outline My VA  
+  - Template: [va.gov-team Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md#measuring-success) 
+  - Example: [Product Outline: VA Mobile App MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/product%20outline.md#measuring-success)
+  - Example: [Product Outline Debt Resolution - FSR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md#measuring-success)
+  - Example: [Product Outline My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)  
 - Outcome: team has a consistent understanding what it looks like to solve the problem they prioritize
 - Output: Complete Product Outline
 ##### Data analysis/discovery sprint objectives and tasks 
@@ -45,8 +45,8 @@ Example: Product Outline My VA
 - Attendees:/Participants: PM & Team + OCTO-DE Lead
 - Guidance: 
 Use other tools (e.g. Product Analytics Reviews) as triggers to this exercise
-Template: Analytics Discovery Issue Template
-Example: [DISCOVERY] VAMC analytics #20006 
+  - Template: [Analytics Discovery Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=discovery%2C+research&template=analytics-discovery.md&title=Analytics+Discovery+-+%5BProduct%2FInitiative%2FObservation%5D)
+  - Example: [[DISCOVERY] VAMC analytics #20006](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20006) 
 - Outcome: Team makes a habit of prioritizing data analysis as part of their day-to-day 
 - Output: Sprint objectives, epics, stories
 #### Dimension - Structured analysis / Standardization
@@ -55,15 +55,15 @@ Example: [DISCOVERY] VAMC analytics #20006
 - Cadence:  Weekly/Biweekly
 - Attendees:/Participants:  PMs & Team
 - Guidance: 
-Template: Team of Teams Protocol
-Example: March 16 Team of Teams
+  - Template: [Team of Teams Protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Team%20of%20Teams%20Protocol%203-2-21.pptx)
+  - Example: [March 16 Team of Teams](https://dsva.slack.com/archives/CE4304QPK/p1616202930007500)
 - Outcome: Shared understanding of measurable impact and progress
 - Output: ToT / Sprint Demo slides
 ##### Standardized metrics
 - Summary: Consistent KPIs for the variety of VA.gov products 
 - Cadence:  When defining/Iterating a product
 - Attendees:/Participants: PMs & Team + OCTO-DE Lead
-- Guidance: VA.gov Platform Analytics KPI Framework 
+- Guidance: [VA.gov Platform Analytics KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) 
 - Outcome: VA.gov products measure success consistently
 - Output: Standardized KPIs across our product portfolio
 ##### Product Analytics Reviews
@@ -74,18 +74,18 @@ See above
 - Cadence: Updated as needed
 - Attendees:/Participants: PMs & Team + OCTO-DE Lead
 - Guidance: 
-##### Product Analytics Review Template 
-va.gov-team Product Outline Template 
+  - [Product Analytics Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/product-analytics-review-template.md) 
+  - [va.gov-team Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md#solution-narrative) 
 - Outcome: Teams have a better understanding of their impact over time
 - Output: List of key decisions (and trade-offs) and experiment results and conclusions publicly available. This may be a subset of the product outline. 
-Training/Brown bags/Workshops
+##### Training/Brown bags/Workshops
 - Summary: Team-driven learning sessions 
 - Cadence:  As needed
 - Attendees:/Participants: PMs 
 - Guidance: 
 PMs choose a format they’re comfortable with that fosters the robust conversation 
-Example: Collaboration Cycle v.2 
-Example: VSA Product Strategy Framework 
+  - Example: [Collaboration Cycle v.2](https://docs.google.com/presentation/d/1uhadsA1D0lvjL5LI15UVRnOplNvFt6t4ggT4hw0NZWE/edit#slide=id.gc34a3e701b_0_0) 
+  - Example: [VSA Product Strategy Framework](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1) 
 - Outcome:  PMs learn from one another on topics related to measuring success and incorporating qualitative and quantitative insights
 - Output: Workshop or presentation on a specific topic with interactive components and opportunities for open discussion
 
