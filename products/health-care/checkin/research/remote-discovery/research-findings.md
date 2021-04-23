@@ -55,22 +55,34 @@ Bachelor’s: 3
 - in-person medical appointment at a VA facility within the last 6 months.
 - in-person medical appointment at a VA facility before COVID.
 
-We also looked for participants with a variety of experiences using different check-in methods, such as virtual appointments, kiosk, via a staff member, and text messaging. We were successful in talking to participants with experiences in all the methods except text messaging.
+We also looked for participants with a variety of experiences using different check-in methods, such as virtual appointments, kiosk, via a staff member, and text messaging. We were successful in talking to participants with experiences in all the methods except text messaging.<br/>
 
 We did recruit non-sighted users, but they were all no shows to their research timeslots.
 
 ## Research Findings
 
 ### Key Findings
-- Talking to VA staff members was the most preferred and used check-in method for in-person appointments.
-- Checking-in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
+- Talking to VA staff members was the most preferred and used currently available check in method for in-person appointments.
+- Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
 - Using a kiosk is quick and easy as long as the machine isn’t turned off or broken.
-- Kiosks can be used to…
-  - check-in for medical appointments, lab tests, and pharmacy
-  - update contact and next of kin information
-  - file Beneficiary Travel Mileage
+- When verifying their identity at the kiosk, more Veterans utilized their VHIC card than entered their SSN and date of birth.
+- More participants received their medications by mail and used the kiosk to check in for lab tests than other methods.
+- Talking to a staff member to update their contact or next of kin information was the most cited method.
+- Kiosks were the most mentioned method to file for beneficiary travel mileage.
+- Lab workflows vary from facility to facility. The most mentioned process was when the Veteran received a ticket, then the number on the ticket is called.
+- For lab tests, digital check-in solutions are preferred, wait time vary, and sometimes orders are missing.
+- Pharmacy workflows vary greatly from facility to facility.
+- At the pharmacy, wait times are long, digital check-in solutions are preferred, and sometimes orders are missing.
+- Most participants never updated their contact or next of kin information before. Even the participants who had experience updating this information talked about these tasks in a separate manner from check-in.
+- Veterans have multiple options when filing for beneficiary travel mileage: kiosk, travel office, online, and automatic reimbursement.
+- Veterans reported abandoning their attempts to file for travel mileage due to difficulties with multiple filing methods.
+- Overall, checking in for virtual appointments was described as a pleasant and very quick experience.
+- When asked about check-in experiences at other health care systems, Veteran unanimously wished those system had check in processes like the VA.
+- Digital (particularly mobile phone solutions) and in-person options are both extremely valuable to different types of Veterans.
+- Most Veterans were interested in a light-weight way of verifying their identity when checking in, such as the last 4 digits of their social security number and/or date of birth.
+- Half of the participants were interested in receiving notifications letting them know that they could now check in.
 
-### Talking to VA staff members was the most preferred and used check-in method for in-person appointments.
+### Talking to VA staff members was the most preferred and used currently available check in method for in-person appointments.
 11 participants total.
 
 **In-person**
@@ -86,7 +98,7 @@ We did recruit non-sighted users, but they were all no shows to their research t
 0 - have used
 (1 - heard about)
 
-### Checking-in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
+### Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
 **Benefits**
 - Human interaction
   - “I like the human interaction, because I don’t get it elsewhere.”
@@ -98,12 +110,13 @@ We did recruit non-sighted users, but they were all no shows to their research t
 - Bad customer service experiences (4 Veterans)
   - “They act like we are imposing...it is insulting and demeaning.”
   - “They seem to be on the phone all the time, so you stand and wait to ask questions.”
-  - “There are a lot of people standing around talking and it’s like they are more important than us.”
+  - “Once in awhile they look around and see someone standing there, but they don’t do anything.”
   - “How they speak to people is condescending.”
 - Lines/wait time to check-in
 
 - A lot about Veterans just like to chat with these staff members.
 - To add to the bad customer service experiences, some Veterans were redirected to the kiosk after waiting in line to talk to a staff member.
+- Even 4 Veterans, who used a kiosk to check-in, reported that they approached a staff member for directions once done at the kiosk.
 - Some Veterans were also mismatched to appointments and records.
   - A male Veteran was scheduled for an OBGYN appointment.
   - One Veteran was told that they didn’t have an appointment that day, but they went home and reviewed their reminders. They did have an appointment.
@@ -125,13 +138,26 @@ We did recruit non-sighted users, but they were all no shows to their research t
 
 Veterans who liked the kiosk did tend to be younger or more tech-savvy older Veterans.
 
-Digital and in-person options are both extremely valuable to different types of Veterans.
+- The above benefits and pain points apply to general kiosk usage and using the kiosk to check in for medical appointments, such as primary care or cardiology. 
+  - Most of the Veterans who used the kiosks have seen the insurance screen and didn’t really have anything to say about it.
+    - One Veteran did comment that they always have to see a staff member, because they mark that they have insurance through their work.
 
-### Kiosks can be used to…
-- check-in for medical appointments, lab tests, and pharmacy
-- update contact and next of kin information
-- file Beneficiary Travel Mileage
+### When verifying their identity at the kiosk, more Veterans utilized their VHIC card than entered their SSN and date of birth.
+9 participants total
 
+- Used VHIC card: 6
+  - It's easy.
+  - "I have it on me; it's the only time I have ever used it."
+
+- Entered SSN/DOB: 3
+  - "I don't have a card."
+
+One Veteran has used both methods.
+
+### More  participants received their medications by mail and used the kiosk to check in for lab tests than other methods
+|---|---|---|
+| Task | Method Used | # of participants|
+| Lab tests | Kiosk | 5 |
 
 
 
