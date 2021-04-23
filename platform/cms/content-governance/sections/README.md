@@ -46,3 +46,23 @@ Occasionally, a section may be divided into two, to allow more granular access t
 ## Limitations of Sections architecture
 
 `@todo Explain that a user's editorial workflow role is CMS-wide, and not section-specific. For example, a Content reviewer of one VAMC system cannot be a Content publisher of another VAMC system, etc.`
+
+
+__What: User roles__ determine what tasks they can do in the CMS – “permissions.” 
+
+__Where: “Sections”__ determine product access – which content they can make changes to.  
+
+
+- Users have to be assigned both a user role and a section.* (*Except for “global” admin type of users like content admins and CMS administrators.)
+
+- Users can have multiple sections.
+
+- Users cannot be assigned different user roles per Section. 
+
+Summary: Whatever user role (or set of roles) you have for one section, you will have the SAME user role permissions for ALL the sections you have access to. Example: you can’t be Publisher in the Outreach section, and only an Editor in a VBA benefits sections. You're either a Publisher for both of those sections or an Editor for both. 
+
+
+
+
+
+
