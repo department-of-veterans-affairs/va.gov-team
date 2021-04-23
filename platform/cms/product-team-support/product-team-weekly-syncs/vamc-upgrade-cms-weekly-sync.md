@@ -29,14 +29,14 @@
   * How many of these pages have had their local content edited
   * What's the cloning procedure
   * Adding this to VAMC runbooks
-* Loading (Story/News release) Listing pages with placeholder
-* Update on archiving facilities (Steve)
-  * Facilities can be archived, but the FE defect that lets unpublished facility services go to prod was breaking this, because the links were still appearing within the System health service accordions.
 * Menu governance (Kevin)
   * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
   * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
-  * Pittsburgh menu and IA changes
-  * Dual state menu and IA changes
+  * Set up some co-working next week on Pittsburgh menu and IA changes 
+  * Dual state menu and IA changes 
+* Loading (Story/News release) Listing pages with placeholder
+* Update on archiving facilities (Steve)
+  * Facilities can be archived, but the FE defect that lets unpublished facility services go to prod was breaking this, because the links were still appearing within the System health service accordions.
 
 
 ## Friday Apr 16
