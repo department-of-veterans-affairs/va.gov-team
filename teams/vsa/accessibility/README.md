@@ -97,11 +97,7 @@ The following list is a set of resources to help you do your work and answer que
 
 * [Accessibility Beyond Compliance Learning Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions#learning-sessions)
 
-* [Disability Considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/disability-considerations.md)
-
-* [Inclusive Design Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-design-guidelines.md)
-
-* [Examples of Assistive Tech](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md_)
+* [Inclusive Design Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/inclusive-design-guidelines.md)
 
 * [Additional VSA Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
@@ -125,9 +121,3 @@ The following list is a set of resources to help you do your work and answer que
 * [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 * [WUHCAG WCAG Checklist - a plain language interpretation of the W3C guidelines](https://www.wuhcag.com/wcag-checklist/)
-
-
-## VSA Accessibility Dashboard
-
-The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Josh if you don't have access and would like to review.
-
