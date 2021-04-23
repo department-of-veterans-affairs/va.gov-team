@@ -199,113 +199,13 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 **TODO:** Fill this in...
 
 #### Sub-module: Form page builder
-The form page builder sub-module will be composed of components and functions
-which engineers can use to rapidly build forms. Example form builder components
-may include:
-- `<TextInput/>`
-- `<NumberInput/>`
-- `<ArrayOf/>`
+Formulate will leverage Formik for much of the form page building. It will
+**re-export Formik components** where it makes sense and **provide input
+wrappers** using the design system for common input types.
 
-These components will be responsible for:
-- Interfacing with the route manager _if present_ for route path substitutions
-  in its data path
-  - The route manager is responsible for the translation
-  - See below for details
-- Calling validation functions
-- Displaying validation errors
-
-##### Data paths
-Each form page builder component must accept a string data path `data` property.
-This path must be dot notation as used by [Lodash's get
-function](https://lodash.com/docs/4.17.15#get) with some exceptions outlined
-below. The data path will point to a part of the form data which the component
-will modify with the user input.
-
-When a form builder component is used to modify form data with a variable data
-path, such as the index of an array item when iterating through all items in the
-array, data path substitution will be used to connect the component to a single
-field in the form data. There are two types of data path substitution:
-- Absolute substitution
-- Relative substitution
-
-###### Absolute data path substitution
-A data path may contain matching angle brackets `<>` to denote absolute
-substitution.
-
-The entire substitution definition (e.g. `<childCount>`) will be replaced by
-the data for the substitution path (e.g. `childCount`) in the route path
-definition (e.g. `/path/to/children/:childCount/name`).
-
-Take the following extended example:
-- The root URL for the application is `/my-application`
-- The form data for `childCount` is 5 because the user has entered that they
-  have five children
-- The current page URL is `/my-application/path/to/children/2/name`
-- The current route definition is `/path/to/children/:childCount/name`
-- The page contains a form page builder component:
-    ```jsx
-    <TextField title="First name" path="children.<childCount>.name.first" />
-    ```
-
-The absolute substitution matches the `<childCount>` from the data path to the
-`:childCount` from the route path definition. It then substitutes the
-`<childCount>` in the field's data path with the `2` from the URL. The computed
-data path then becomes `children.2.name.first` which can be used to set the form
-data for the third child's first name.
-
-###### Relative data path substitution
-A data path may contain square brackets `[]` to denote relative substitution.
-
-During relative data path substitution, the square brackets will be replaced
-with the index of the array. For example, the data path `path.to.array[].foo`
-may be computed as `path.to.array.2.foo` for a form builder component.
-
-Take the following extended example:
-- The root URL for the application is `/my-application`
-- The form data for `ptsd.incidents` is an array of N incidents which we don't have a
-  definite count for
-- The current page URL is `/my-application/ptsd/incidents/3/description`
-- The current route definition is `/ptsd/incidents/:ptsd.incidents/description`
-- The page contains a form page builder component:
-    ```jsx
-    <TextField
-      title="Please describe what happened"
-      path="ptsd.incidents[].description" />
-    ```
-
-The relative substitution matches `pdst.incidents[]` to the `:ptsd.incidents` in
-the route path definition. It then substitutes the incident number for `[]` in
-the data path. The computed data path then becomes
-`ptsd.incidents.3.description`.
-
-**By using relative path substitution, the data paths are shorter.** The
-equivalent absolute path substitution would be
-`ptsd.incidents.<ptsd.incidents>.description`.
-
-**Note:** Relative path substitution _only_ works with arrays.
-
-**TODO:** Figure out how this works with list loops on the same page. How do we
-do data substitution outside of the route?
-
-**TODO:** Figure out where to put the next paragraph...and clean it up.
-
-For list loops, the `<ListLoop>` component (name TBD) will perform data
-substitution on all its form page builder components' data paths. To do this, it
-will recursively iterate over all its children, searching for form page builder
-components, and substitute them with exact clones, where the `path` prop
-contains the modified `path`.
-
-##### A note on validation
-Validation will be run on the `onBlur` event for clean inputs and on the
-`onChange` event for dirty inputs. When any validation is run, the validation
-will be run on all dirty inputs to ensure a later field doesn't invalidate an
-earlier one.
-
-This will be up to the implementation of each form input field to manage.
-
-**Discussion:** Ideally, this is centralized, but what might that look like? I
-can't think of anything that isn't unnecessarily heavy.
-
+In addition to simple wrappers, Formulate will use Formik to provide more
+complex fields such as file upload which may be imported and used in
+applications.
 #### Sub-module: Save-in-progress
 Things to mention:
 - How it'll handle data migrations
