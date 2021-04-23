@@ -22,6 +22,7 @@
 If a Vet Center or VAMC staff finds an issue with the data coming through Facilities API, what should they do?  Multiple data sets... Access to care, Mental health care contacts, VAST. 
 * Triage document for data - who to contact for different data scenarios.  What is the right escalation path?
 * Is all the Vet Center data from VAST? 
+* Can we just send all editors to Lighthouse if they find issues? 
 
 ## Monday April 19 3pm ET
 
