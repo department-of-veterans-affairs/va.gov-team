@@ -1,6 +1,9 @@
 # Insights Toolkit
 
 ### _How might we improve our ability to leverage quantitative data and generate insights?_
+
+_Have a recommendation? Open a PR and assign @mickinsahni or a fellow PM for review._
+
 ---
 
 ### Highest impact solutions
