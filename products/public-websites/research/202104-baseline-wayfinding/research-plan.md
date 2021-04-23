@@ -109,3 +109,6 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)	
 - Research Findings	
+
+## Approvals
+*Plan reviewed and approved by Lauren Alexanderson on April 19, 2021*
