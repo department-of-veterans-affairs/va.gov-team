@@ -1,4 +1,4 @@
-# Veterans disability statistics
+# Disability statistics of Veterans
 
 * Approximately 40% of American Veterans have an identified disability, but there are likely many more that are not identified, in part due to the military culture.
 
