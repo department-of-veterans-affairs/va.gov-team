@@ -149,26 +149,6 @@ _None_
 1. Provide callbacks to navigate forward and backward through the list of
    computed routes
 
-###### Terminology
-**Note:** This needs a lot of clean up. Suggestions?
-
-- Route parameter
-  - A path of the route definition which points to form data.
-  - Take the example `/path/to/children/:my.children/name`. Here, `:my.children` is a
-    route parameter which points to the form data at `my.children`.
-- Route defininition
-  - The path to the page.
-  - This may or may not have route parameters which are used to compute the
-    actual routes.
-  - Take the example `/path/to/children/:my.children/name`. If the user entered
-    `3` in the field with `data="my.children"`, the router would turn this route
-    definition into the following computed paths:
-    - `/path/to/children/0/name`
-    - `/path/to/children/1/name`
-    - `/path/to/children/2/name`
-- Computed route
-  - The path to the page _without_ any route parameters.
-
 ##### Component: `Chapter`
 **Purpose:**
 The **optional** `Chapter` component will be used to render the VA.gov "chrome"
