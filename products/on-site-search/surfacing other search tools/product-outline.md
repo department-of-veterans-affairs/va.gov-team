@@ -38,10 +38,6 @@ The search results page currently uses the right rail pattern for search tools. 
 
 ### 🚩 Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
- - Click through rate (GA/Domo)
- - Return visitors (GA/Domo)
- - Customer satisfaction (Medallia)
-
  
 * _What are the most important metrics that track with this product/initiative's success?_
 - Decrease Paging (average number of search pages a user viewed)
@@ -112,16 +108,51 @@ Secondary links:
 - [Yellow Ribbon Schools](https://www.va.gov/education/yellow-ribbon-participating-schools/)
 - [VA Jobs](https://www.vacareers.va.gov/job-search/index.asp)
 
-## Usage Data to determine which search tool links should be included
-A.) [Search Tool Comparison - Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/GZ-V2ZRcSl6LWnxJxnr2NQ/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210410&1681-table.plotKeys=%5B%5D&1681-table.rowCount=10/)
-[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-809722003)
+## Usage Data to determine which search tool links should be included (Apr 1, 2020 - Apr 1 2021)
 
-B.) [Current Right Rail Links - Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210401&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Navigation%20-%20Search%20Results%20-%20More%20VA%20Search%20Tools%22,0%5D%5D/)
-[[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-805226952)
+**A.) [Search Tool Comparison - Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/GZ-V2ZRcSl6LWnxJxnr2NQ/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210410&1681-table.plotKeys=%5B%5D&1681-table.rowCount=10/)
+[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-809722003)**
 
-C.) Pageviews for other search tools
+<img width="717" alt="Screen Shot 2021-04-14 at 2 21 50 PM" src="https://user-images.githubusercontent.com/5553542/115915971-1ad69780-a442-11eb-902b-ecd34962c8c3.png">
 
-D.) Search term
+
+**B.) [Current Right Rail Links - Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210401&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Navigation%20-%20Search%20Results%20-%20More%20VA%20Search%20Tools%22,0%5D%5D/)
+[[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-805226952)**
+
+<img width="455" alt="Screen Shot 2021-04-14 at 2 22 33 PM" src="https://user-images.githubusercontent.com/5553542/115915991-21fda580-a442-11eb-8298-080bd55f0348.png">
+
+
+**C.) Pageviews for other search tools**
+
+| Search tool | Page Views | 
+|----------|-------------|
+| [Find a VA Location](https://www.va.gov/find-locations/)  |     4,456,234        |
+| [Find a Form](https://www.va.gov/find-forms/)       |     3,615,141        |
+| [GI Comparison Tool](https://www.va.gov/gi-bill-comparison-tool/)  |      2,270,903        |
+| [Find Locations](https://www.va.gov/directory/guide/home.asp)   |      1,053,065        |
+| [Yellow Ribbon Schools](https://www.va.gov/education/yellow-ribbon-participating-schools/)  |      858,593        |
+| [VSO Search](http://www.ebenefits.va.gov/ebenefits/vso-search/)  |      171,121        |
+| [Resources and Support](https://www.va.gov/resources/)   |     107,687        |
+| [Publications](https://www.va.gov/vapubs/)  |     77,649        |
+| [Grave Locator](https://gravelocator.cem.va.gov/)  |     7,422        |
+| [BVA Appeals](https://www.index.va.gov/search/va/bva.jsp), [WARMS](https://www.index.va.gov/search/va/va_adv_search.jsp?SQ=www.benefits.va.gov/warms),  [VA Jobs](https://www.vacareers.va.gov/job-search/index.asp)  |     Not being tracked on GA   |
+
+
+**D.) Search term**
+
+| Contains the word | Total unique searches | 
+|----------|-------------|
+| Forms   |     493,487        |
+| Jobs    |     31,764        |
+| Grave  |      15,058        |
+| Location   |      14,696    |
+| VSO  |      9,436    |
+| BVA  |      2,804       |
+| Publication    |     1,230      |
+| Gi bill comparison   |     879       |
+| WARMS  |     669        |
+| Yellow ribbon school  |     323   |
+
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
