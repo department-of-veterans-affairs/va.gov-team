@@ -165,8 +165,8 @@ _None_
 ##### Component: `Chapter`
 **Purpose:**
 The **optional** `Chapter` component will be used to render the VA.gov "chrome"
-for multi-page forms which have multiple chapters. This "chrome" includes
-rendering the form title, current chapter name, and progress bar.
+for multi-page forms which have multiple chapters. This "chrome" includes the
+form title, current chapter name, and progress bar.
 
 **Usage requirements:**
 - `Chapter` may only be a child of `Router`
