@@ -24,7 +24,10 @@
 ## Friday Apr 23
 
 * Help desk triage updates
+  * Flagging/labeling: triage channel when action needed.  Treat other emails as "FYSA". 
+  * CMS team will continue to gather materials in one place so systemic analysis can be done generating canned help desk responses, improvements to UI, training. 
 * VAMC policies page rollout (Kevin)
+  * Background: FE is ready to go. Form is ready to go. 
   * What's the first VAMC to go past dual state? Is there one with a highly responsive editor? Thsi would be a good candidate for the trial rollout next week.
   * Look at list of Top Task pages that have been edited and by who.
   * How many of these pages have had their local content edited
