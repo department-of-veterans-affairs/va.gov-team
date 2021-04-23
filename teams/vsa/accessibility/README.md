@@ -42,7 +42,7 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 
 #### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
-* Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md)).
+* Define inclusive research strategies.
 * Define goals and strategies for including people with disabilities (consider specific KPIs).
 * Document gaps as potential risks to inform future research.
 
@@ -62,7 +62,7 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 * Ensure foundational accessibility testing is complete ahead of reviews. | [Read about VSP-required foundational accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
 
 
-#### [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/qa)
+#### QA
 * Use QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard.
 * Define accessibility and 508 compliance QA processes for both before and after deployment.
 
@@ -74,24 +74,24 @@ Information coming soon!
 
 ### VSA accessibility reviews
 
-In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md).
+In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md).
 
 ### Accessibility resources
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
 
 * Learn about [accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) for research, design, product, and engineering
 
-* To request a VSP Collaboration Cycle Staging Review, this [accessibility test cases checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md) may make the request process easier for your team.
+* To request a VSP Collaboration Cycle Staging Review, this [accessibility test cases checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/test-cases-checklist-vsa.md) may make the request process easier for your team.
 
 * [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
-* [VSA Accessibility Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+* [VSA Accessibility Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md)
 
 * [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
 
-* [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/WCAG-Checklist.md#wcag-checklist) - Section 508 (WCAG 2.0) plus 2.1, 2.2, etc.
+* [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/WCAG-Checklist.md) - Section 508 (WCAG 2.0) plus 2.1, 2.2, etc.
 
-* [Dev Accessibility Audit Review Step-by-Step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md)
+* [Dev Accessibility Audit Review Step-by-Step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/development/accessibility-dev-review-step-by-step.md)
 
 * [VSA A11yChamps Training Program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#vsa-a11ychamps-program)
 
