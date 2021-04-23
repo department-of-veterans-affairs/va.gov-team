@@ -23,17 +23,11 @@ None
     - [#vsa-bam](https://dsva.slack.com/channels/vsa-bam)2
         - [#9860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9860) in Staging, Opened: June 8, 2020, one page impacted
 
-1. Leaflet-Mapbox [SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard
-
-    - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
-        - [#6911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911) in Production, Opened 03/16/20
 
 ## 508-defect-2
 
 1. CMS, components, design system [KEYBOARD] Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav, breadcrumbs, and sidebar nav conflict
 
-    - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities) 
-        - [#4215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4215) in Production, Opened: December 12, 2019, main & secondary nav issue
     - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) 
         - [#7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723) in Production, Opened: April 7, 2020, 10 pages impacted
         - [#6368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368) in Production, Opened: March 2, 2020, 2 pages impacted
@@ -41,8 +35,6 @@ None
         
 1. sitewide, design system, CMS [AXE-CORE] Heading levels SHOULD increase by one  - alert headings
 
-    - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
-        - [#7244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244) in Production, Opened: March 26, 2020
     - [#vsa-bam](https://dsva.slack.com/channels/vsa-bam)2
         - From a recent spot check, there will be a number of these, when their staging review comes in.
     - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
