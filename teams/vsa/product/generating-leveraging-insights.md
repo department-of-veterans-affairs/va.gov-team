@@ -22,7 +22,7 @@
 - **Output:** Product documentation updates, future sprint objectives, backlog epics
 #### Dimension - Prioritization
 ##### Quarterly Planning
-- Summary: Team reviews progress against objectives and measurable targets and adjusts priorities accordingly. Ideal situation is the team constantly evaluating progress 
+- **Summary:** Team reviews progress against objectives and measurable targets and adjusts priorities accordingly. Ideal situation is the team constantly evaluating progress 
 - **Cadence:** Quarterly basis (but team should be in regular flow of evaluating progress/priorities)
 - **Attendees/Participants:** PM & Team + OCTO-DE Lead & Crew Chief
 - **Guidance:**  
@@ -61,7 +61,7 @@ Use other tools (e.g. Product Analytics Reviews) as triggers to this exercise
   - Template: [Team of Teams Protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Team%20of%20Teams%20Protocol%203-2-21.pptx)
   - Example: [March 16 Team of Teams](https://dsva.slack.com/archives/CE4304QPK/p1616202930007500)
 - **Outcome:** Shared understanding of measurable impact and progress
-- Output: ToT / Sprint Demo slides
+- **Output:** ToT / Sprint Demo slides
 ##### Standardized metrics
 - **Summary:** Consistent KPIs for the variety of VA.gov products 
 - **Cadence:**  When defining/Iterating a product
