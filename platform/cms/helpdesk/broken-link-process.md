@@ -3,7 +3,7 @@
 ## Broken Link Alerts
 
 ### Slack Alerts
-When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** , **#vfs-platform-builds**, notifying **@cmshelpdesk**)
+When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** notifying **@cmshelpdesk**)
 
 The notification follows the format:
 
