@@ -11,6 +11,8 @@ https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
 
 **Problem Statement**
 
+Epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/19337
+
 Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. Someone seeking a llink to a specific FAQ would need to go into the 'inspect' element in their browser to find the link; most users won't bother to do that, even if they know how.
 
 So when a vet, caregiver or customer service representative wants to direct someone to a specific question/answer on the Coronavirus FAQ page, they can only share a link at the page level leaving it up to the recipient to navigate through the long list of information to find the specific content they seek. This can be frustrating and time-consuming.
