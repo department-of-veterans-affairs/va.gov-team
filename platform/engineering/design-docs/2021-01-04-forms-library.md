@@ -86,6 +86,7 @@ components for:
 - TypeScript
 - [`api-extractor`](https://api-extractor.com/pages/overview/intro/)
 - [React router](https://reactrouter.com/)
+- [Formik](https://formik.org/)
 
 The following sections outline the various parts of the systems. To aid in
 navigability, I've added some specific heading descriptors to this section:
