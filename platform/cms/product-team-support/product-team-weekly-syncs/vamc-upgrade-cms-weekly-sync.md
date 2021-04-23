@@ -23,18 +23,20 @@
 
 ## Friday Apr 23
 
-* VAMC policies page rollout
-  * What's the first VAMC to go past dual state? Responsive web editor? Candidate for the trial
-  * Look at list of pages that have been edited and by who.
+* VAMC policies page rollout (Kevin)
+  * What's the first VAMC to go past dual state? Is there one with a highly responsive editor? Thsi would be a good candidate for the trial rollout next week.
+  * Look at list of Top Task pages that have been edited and by who.
   * How many of these pages have had their local content edited
   * What's the cloning procedure
-  * Add this to Stan's go live runbook. 
-* Loading (Story/News release) Listing pages with place holder
-* Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
-
-Menu governance
-* Pittsburgh menu and IA changes
-* Dual state menu and IA changes
+  * Adding this to VAMC runbooks
+* Loading (Story/News release) Listing pages with placeholder
+* Update on archiving facilities (Steve)
+  * Facilities can be archived, but the FE defect that lets unpublished facility services go to prod was breaking this, because the links were still appearing within the System health service accordions.
+* Menu governance (Kevin)
+  * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
+  * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
+  * Pittsburgh menu and IA changes
+  * Dual state menu and IA changes
 
 
 ## Friday Apr 16
