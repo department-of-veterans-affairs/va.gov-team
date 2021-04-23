@@ -5,7 +5,7 @@
 **Status:** Draft | **In Review** | Approved  
 **Approvers:**
 - [ ] Tim Wright
-- [ ] Demian Ginther
+- [x] Demian Ginther
 - [ ] Michael Fleet
 - [ ] Dror Matalon
 
@@ -49,24 +49,59 @@ The goals of that change would be to prevent similar issues and to better suppor
 
 ### High Level Design
 
-Content will be cached in S3 with a constant key such as `latest.tar.bz2` instead of an ever-changing hash-based key.
+Content for builds on `master` are cached in S3 with a key such as `content-cache/master/content.tar.gz` instead of an ever-changing hash-based key.
 
-An Amazon Web Services (AWS) Lambda function will pull the content from Drupal and sync the cache periodically (ideally every 10 minutes).
+An Amazon Web Services (AWS) Lambda function pulls the content from Drupal and sync the cache periodically (every 5 minutes).
+- The function is versioned so that branches that have modified the query for the content can access the corresponding data.
+- Feature branches that change the query have their builds cache content to `content-cache/<function_source_hash>/content.tar.gz`.
+- The hash in the S3 key corresponds to the checksum of the function source.
 
-The function will be versioned so that branches that have modified the query for the content can access the corresponding data.
-
-Local development environments, review instances, GitHub Actions, and any other systems would be able to start using this new cache as needed.
+Local development environments, review instances, GitHub Actions, and any other systems can use this cache as needed.
 
 ## Specifics
 
 ### Detailed Design
 
-Using parts of the current Drupal API client code in the `vets-website` repo, the Lambda function will be built with Webpack.
+#### Lambda Function
 
-As part of continuous integration (CI), the function will be zipped and uploaded to AWS in S3 (or ECR) as the function source.
+Using parts of the current Drupal API client code in the `vets-website` repo, the Lambda function is built with Webpack.
+
+It downloads the Drupal data into the following directory structure. This matches the cache that's created in `.cache/<buildtype>/drupal` from content builds.
+
+```
+drupal
+|__ downloads           // Assets, split into images and other files.
+|  |__ files
+|  |__ img
+|__ feature-flags.json  // Feature flags set in Drupal.
+|__ pages.json          // JSON data retrieved from the GraphQL query.
+```
+
+The function performs the following steps:
+0. Fetch Drupal data with the GraphQL query.
+   - This leverages the content build's Drupal API client (`src/site/stages/build/drupal/api.js`) and the build options helpers (`src/site/stages/build/options`) to set default values for that API client.
+   - Gathering build options automatically sends a request to the CMS for feature flags and generates that file on disk at `/tmp/.cache/localhost/drupal/feature-flags.json`.
+1. Generate a tarball in memory and store the retrieved data as `pages.json`.
+   - While the content build typically creates the cache on disk, there is a [512 MB limit](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html) for temporary disk storage in the Lambda environment.
+   - Since there is more space in memory (3008 MB for functions in Gov Cloud, but 10 GB in other regions), the cache will be built in memory before uploading to S3.
+2. Store `feature-flags.json` as itself in the tarball.
+3. Parse the CMS URLs (internal ALB URL or `*.cms.va.gov`) in `pages.json` using regex.
+   - This will work similarly to the content build pipeline step of downloading Drupal assets.
+   - To avoid running out of memory from having too many files open at once, we limit the number of concurrent downloads to 10 for now.
+   - Assets are downloaded into the `downloads` directory, separated into either `files` or `img` based on the file suffix.
+4. Close the tarball for writing and compress it.
+5. Upload the archived and compressed cache to the bucket.
+   - For `master`, the key is `content-cache/master/content.tar.gz`.
+   - For feature branches, the key is `content-cache/<hash>/content.tar.gz`, where the hash is the checksum of the source ZIP file.
+
+#### Continuous Integration
+
+As part of continuous integration (CI), the function source is zipped and uploaded to AWS in S3 (or ECR) as the function source.
 - Build the function and zip it.
-- Get the checksum or hash of the zipped file.
-- Store the zipped file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
+- Get the checksum or hash of the ZIP file.
+- Store the ZIP file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
+
+The S3 key will be `vetsgov-website-builds-s3-upload/content-cache/master/function.zip` on the `master` branch. Feature branches will replace `master` in that key with the checksum of the ZIP file.
 
 Check the [list of function aliases](https://docs.aws.amazon.com/lambda/latest/dg/API_ListAliases.html) for an alias matching the checksum.
 If an alias doesn't exist yet for the checksum:
@@ -89,11 +124,10 @@ Once the content build is separated into the `content-build` repo, they will be 
 Handler source code, bundling, and upload (`vets-website`):
 - Lambda function: `src/platform/lambdas/content-cache.js`
 - Webpack: `config/webpack.content-cache.js`
-- GitHub Actions: `.github/workflows/content-build.yml`
-- Function upload script: `scripts/upload-content-cache.sh`
+- GitHub Actions: `.github/workflows/continuous-integration.yml`
 
 The Lambda function will be provisioned in the `devops` repo.
-- Terraform: `terraform/environments/global/lambda.tf`
+- Terraform: `terraform/environments/dsva-vagov-utility/lambda.tf`
 
 ### Testing Plan
 
@@ -121,7 +155,7 @@ Once the data is cached, it can be downloaded and used to build content. That bu
 
 ### Caveats
 
-To be determined.
+There are no known caveats at this time.
 
 ### Security Concerns
 
@@ -135,18 +169,11 @@ There are no privacy concerns as no user data is involved.
 
 ### Open Questions and Risks
 
-Will the function need to be provisioned in a VPC that can communicate with the Drupal server? If so, which one?
-- Without specifying a VPC, a Lambda function is created in the default Amazon VPC, which is not private.
-- It will likely need to live in a private VPC that can connect to the Drupal server. The utility VPC might be the appropriate one.
-
 What's the appropriate frequency to update the content cache?
-- Currently considering 10 minutes, because the local download of the data with SOCKS proxy seemed to take roughly 11 minutes.
-- Since the function should be able to directly connect to the Drupal server, it should take less time than local development.
-- If it turns out to take much less time, we can dial up the frequency to 5 minutes or under.
-
-Will the runtime for the Lambda incur a large cost?
-- Downloading the content can take over 10 minutes in local development, but that's through the SOCKS proxy.
-- If the function runs on the magnitude of 5 minutes, is that short enough?
+- Previously considered 10 minutes, because the local download of the data with SOCKS proxy seemed to take roughly 11 minutes.
+- Since the function should be able to directly connect to the Drupal server, it takes less time than local development.
+- From testing the prototype, it takes much less time (a little more than 2 minutes), so it seems that 5 minutes would be feasible.
+- This can be reduced further if teams find it valuable to have more frequent updates.
 
 How do we want to manage the bucket storing the function source?
 - Do we want to periodically clean out old functions?
@@ -154,9 +181,20 @@ How do we want to manage the bucket storing the function source?
 - As we anticipate the release of more content, there may be many changes to the function over time.
 - We do not currently clean up the bucket for the `vets-website` builds, and that certainly occupies more space by many orders of magnitude.
 
+Is it worth implementing the cache for feature branches if we're able to run a content build without it?
+- It's possible to configure a self-hosted runner in GitHub Actions to allow the build to access the Drupal server directly.
+  - In that case, the cache would not be the only means of building content.
+- Having a cache for every branch would be less valuable than for `master`.
+  - Large cost in resources and maintenance to scale the updates across all branches.
+  - Directly pulling content makes more sense (and is a lighter process) for active development in branches that change the query.
+- What are the implications for review instances (or other use cases) if they always reflect content from the GraphQL query that's in `master` and not from branches?
+- Perhaps content can still be cached by directly putting it in S3 with a key that corresponds to the checksum of the changed function source.
+  - This would be instead of uploading a new version of the function and invoking that version of the function.
+  - Essentially, this changes the hash key for the content from (A) the GraphQL query string to (B) the generated caching function source code.
+- The work for implementing versioning for the function should involve decisions to resolve these questions.
+
 ### Work Estimates
 
-- Prototype the function to validate that it can download the Drupal content (5 pts)
 - Implement versioning for the function (5 pts)
 - Validate the cached content and versioning logic (3 pts)
 - Use the new cache to run the content build in GitHub Actions (2 pts)
@@ -164,13 +202,13 @@ How do we want to manage the bucket storing the function source?
 
 ### Alternatives
 
-#### Setting up a Terraform configuration for the Lambda function in the `devops` repo.
+#### Setting up a Terraform configuration for the Lambda function source in the `devops` repo.
 
-The function has dependencies on parts of the content build, so it would be cumbersome to integrate into the `devops` repo.
+The function source has dependencies on parts of the content build, so it would be cumbersome to integrate into the `devops` repo.
 
 #### Using Serverless Framework or Terraform to publish the Lambda function in the `vets-website` repo.
 
-Since we're provisioning a single function under the ownership of the FE Tools team for now, it seems unnecessary to leverage frameworks like Serverless or Terraform. 
+Since we're provisioning a single function under the ownership of the FE Tools team for now, it seems unnecessary to leverage frameworks like Serverless or Terraform.
 
 There are some very specific versioning rules in the design that may not be straightforward to implement within these frameworks.
 
@@ -182,5 +220,6 @@ The content caching workflow should be moved to the `content-build` repo when th
 
 Date | Revisions Made | Author
 -----|----------------|--------
+April 23, 2021 | Updated after completing prototype. | Eugene Doan
 March 8, 2021 | Completed first draft for review. | Eugene Doan
 March 5, 2021 | Initial draft | Eugene Doan
