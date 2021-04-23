@@ -6,7 +6,7 @@ _Have a recommendation? Open a PR and assign @mickinsahni or a fellow PM for rev
 
 ---
 
-### Highest impact solutions
+
 #### Dimension - Reflection
 ##### VSA Impact Reviews 	
 - **Summary:** Regular review and discussion of the impact of launched bets
