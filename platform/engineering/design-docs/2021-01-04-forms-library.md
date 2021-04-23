@@ -80,11 +80,9 @@ Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
 
 Additionally, the library will provide a number of helper functions and
 components for:
-- Field **data** validation
-  - The contents of the field which the user inputs
-- Field **type** validation
-  - The type of the field compared to the JSON schema for the form
+- Field data validation
 - Submission validation
+  - Ensure the form data conforms to a JSON schema
 - Building a review page
 
 ## Specifics
