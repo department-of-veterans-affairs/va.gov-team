@@ -88,7 +88,7 @@ Secondary criteria / Would like to have: 
 
 When?
 
--   Timeline: The timeline for this study: April 28 to May 3, 2021.
+-   Timeline: The timeline for this study: April 28 to May 3, 2021. Test days: 28, 29 April and 4, 5 May. 
 
 -   Prepare: When will the thing you are testing be ready? April 22th, 2021.
 
