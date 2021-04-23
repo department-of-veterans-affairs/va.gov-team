@@ -1,4 +1,4 @@
-## How do we improve our ability to leverage quantitative data and generate insights?
+## How might we improve our ability to leverage quantitative data and generate insights?
 ---
 
 ## Highest impact solutions
