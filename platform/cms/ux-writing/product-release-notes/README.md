@@ -1,4 +1,4 @@
-# Product release notes
+# CMS announcements
 
 The CMS team will be putting out regular communications that help both technical and non-technical users understand how ongoing improvements to the CMS will impact their work.
 
@@ -13,7 +13,7 @@ The CMS team will be putting out regular communications that help both technical
 - No notifications
 - Nothing about why, audience affected, etc.
 
-**🍩 Value of new, user-friendly release notes**
+**🍩 Value of new, user-friendly CMS announcements**
 
 - Lets CMS users know about changes that will affect their day to day work
 - Gives CMS users and other stakeholders insight into where the product is headed
@@ -27,6 +27,15 @@ The CMS team will be putting out regular communications that help both technical
 [Slack blog: A little thing about release notes](https://slackhq.com/a-little-thing-about-release-notes)
 
 ## What gets a release note?
+
+**Types of release notes**
+* "New & improved" announcements - for new features or enhancements
+* "Fixed it" announcements - for fixes for bugs that are annoying or noticiable, but aren't critical blockers to users' work.
+* Publishing alerts - for deployment issues that impact an editor's ability to push their content live on VA.gov
+* CMS outages - for when the site is totally down.
+* Critical defects - for really serious bugs that block people's work.
+
+## FAQs
 
 **Q: Should the thing I'm working on be mentioned in the CMS product release notes?**
 
