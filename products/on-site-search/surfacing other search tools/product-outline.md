@@ -6,6 +6,7 @@ Increasing visibility of other VA search tools after a user conducts a search.
 
 ## Problem Statement
 As a user, I do not always find what I am looking for using global search and I am unaware of other search tools offered on VA.gov that may provide me with more targeted results that are better suited to my needs. 
+
 The search results page currently uses the right rail pattern for search tools. The design system council has deprecated the [right rail component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/160#issuecomment-679126217) because of visibility issues. We need to find a different pattern for surfacing these tools.
  
 ## Desired User Outcomes
