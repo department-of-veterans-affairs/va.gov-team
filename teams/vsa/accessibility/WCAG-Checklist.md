@@ -59,9 +59,9 @@ The Section 508 criteria listed here **do not** map directly to the VSP 508-defe
 
 * **508-defect-0 :exclamation:️ Potentially Harmful.** — Must be fixed immediately.
 * **508-defect-1 :exclamation:️ Critical.** — Must be fixed before launch.
-* **508-defect-2 — :warning: Serious.** — Should be fixed in 1-2 sprints post-launch.
-* **508-defect-3 — :warning: Minor.** — Should be fixed in 1-3 sprints post-launch.
-* **508-defect-4 — :heavy_check_mark: Trivial.** — Consider fixing or exploring in 2-4 sprints post-launch.
+* **508-defect-2 — :warning: Serious.** — Should be fixed within a month after launch.
+* **508-defect-3 — :warning: Minor.** — Should be fixed within a month after launch
+* **508-defect-4 — :heavy_check_mark: Trivial.** — Consider fixing or exploring post-launch when time allows.
 
 Severity levels indicate the human impact for prioritization. So, there could be a must that is a 508-defect-4 if the implementation isn't going to have much human impact.
 
