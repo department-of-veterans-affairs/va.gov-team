@@ -1,4 +1,4 @@
-# ~~ WIP Research Plan for Acclerated Publishing discovery ~~
+#Research Plan for Acclerated Publishing discovery
 VFS-CMS team, April 2021
 
 ## Goals
