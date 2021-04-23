@@ -1,4 +1,6 @@
-## How might we improve our ability to leverage quantitative data and generate insights?
+# Insights Toolkit
+
+### _How might we improve our ability to leverage quantitative data and generate insights?_
 ---
 
 ### Highest impact solutions
