@@ -56,9 +56,9 @@ now, I digress.
 Formulate will be a modular library consisting of helper functions and
 components to aid in the rapid development of forms on VA.gov. These functions
 and components will be **split into sub-modules** for:
-- [Building form pages](#sub-module-form-page-builder)
 - [Routing](#sub-module-routing)
-- [Save-in-progress](#sub-module-save-in-progress)
+- [Building form pages](#sub-module-form-page-builder)
+- [Save in progress](#sub-module-save-in-progress)
 
 **Each sub-module will be independent.** If a form doesn't need the multi-page
 routing, the team building it simply won't use the routing sub-module. Likewise,
