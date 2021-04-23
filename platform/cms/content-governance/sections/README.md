@@ -20,7 +20,7 @@ Most CMS users (such as VAMC or Vet Center editors) only have one section in whi
 
 ## Managing access to sections
 
-When new users are added to VA.gov CMS, they are added to specific sections based on criteria outlined in a product's [User administration](../../user-administration/) policy. For example, an editor of a VAMC system will be added to their respective VAMC section. A VISN web master would typically have access to a parent section.
+When new users are added to VA.gov Drupal CMS, they are added to specific sections based on criteria outlined in a product's [User administration](../../user-administration/) policy. For example, an editor of a VAMC system will be added to their respective VAMC section. A VISN web master would typically have access to a parent section (and therefore all the VAMCs within that VISN level section).
 
 `@todo link to user administration policy for each product`.
 
