@@ -93,9 +93,9 @@ PMs choose a format they’re comfortable with that fosters the robust conversat
 ## Methodology
 The VSA Product Practice conducted an internal workshop series. The goal of this workshop was to discover ways to improve our ability to leverage quantitative data to generate quantitative insights. 
 Over the course of multiple 45 min sessions, we: 
-Agreed on the problem statement
-Defined pain points
-Discussed and prioritized How Might We statements
-Sketched and shared our solution ideas
-Generated and discussed solution assumptions
-Prioritized solution ideas 
+1. Agreed on the problem statement
+1. Defined pain points
+1. Discussed and prioritized How Might We statements
+1. Sketched and shared our solution ideas
+1. Generated and discussed solution assumptions
+1. Prioritized solution ideas 
