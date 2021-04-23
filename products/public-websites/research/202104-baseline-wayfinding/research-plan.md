@@ -111,4 +111,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research Findings	
 
 ## Approvals
-*Plan reviewed and approved by Lauren Alexanderson on April 19, 2021*
+Plan reviewed and approved by Lauren Alexanderson on April 19, 2021
