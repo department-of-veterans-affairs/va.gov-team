@@ -30,6 +30,7 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 - Github labels: `508/Accessibility`
 
 #### VSA Accessibility Specialist Contacts
+- Angela Fowler, @AngelaFowler82 in Slack, @AngelaFowler82 in Github, Angela.Fowler@adhocteam.us
 - Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
 ### How does accessibility fit into our product lifecycle?
