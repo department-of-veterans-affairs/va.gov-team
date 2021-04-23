@@ -1,7 +1,7 @@
 ## How might we improve our ability to leverage quantitative data and generate insights?
 ---
 
-## Highest impact solutions
+### Highest impact solutions
 #### Dimension - Reflection
 ##### VSA Impact Reviews 	
 - **Summary:** Regular review and discussion of the impact of launched bets
@@ -92,8 +92,8 @@ PMs choose a format they’re comfortable with that fosters the robust conversat
 - **Outcome:**  PMs learn from one another on topics related to measuring success and incorporating qualitative and quantitative insights
 - **Output:** Workshop or presentation on a specific topic with interactive components and opportunities for open discussion
 
-# Appendix
-## Situation
+## Appendix
+### Situation
 VSA teams work on products that help Veterans discover, apply for, track, and manage their benefits. \
 These are forms, content, and search-driven products. As a result, how teams measure success differs across product types. \
 We know the ability to make product decisions using qualitative and quantitative data is a core competency for PMs and product teams.\
@@ -101,7 +101,7 @@ These decisions are the results of insights drawn from user patterns, pain point
 Achieving measurable outcomes for Veterans and others is the result of acting upon informed product decisions. 
 
 
-## Methodology
+### Methodology
 The VSA Product Practice conducted an internal workshop series. The goal of this workshop was to discover ways to improve our ability to leverage quantitative data to generate quantitative insights. 
 Over the course of multiple 45 min sessions, we: 
 1. Agreed on the problem statement
