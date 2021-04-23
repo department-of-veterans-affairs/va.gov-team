@@ -28,7 +28,7 @@ Goals
 Research questions
 ------------------
 
--   What usability issues and pain points exist in the Board Appeals prototype?
+-   What usability issues and pain points exist in the 526 form?
 
 -   Can users go through the form with ease and no blockers?
 
