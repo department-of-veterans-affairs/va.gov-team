@@ -1,8 +1,8 @@
 ```diff
-! DRAFT
+! DRAFT, v2.0 is currently in writing and will provide more actionable guidance
 ```
 
-# Inclusive Research Recommendations
+# Inclusive Research Recommendations v1.0
 
 With over 19 million Veterans as of 2020 [(1)](https://www.va.gov/vetdata/veteran_population.asp), there are many folks from a variety of backgrounds using VA.gov’s products. Having such a large user base gives us the opportunity to recruit a diverse range of participants to ensure accessibility and inclusivity are at the forefront of the tools we build.
 
