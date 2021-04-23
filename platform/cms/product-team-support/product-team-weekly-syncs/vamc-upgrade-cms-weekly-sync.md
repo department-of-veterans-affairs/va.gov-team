@@ -23,6 +23,7 @@
 
 ## Friday Apr 23
 
+* Help desk triage updates
 * VAMC policies page rollout (Kevin)
   * What's the first VAMC to go past dual state? Is there one with a highly responsive editor? Thsi would be a good candidate for the trial rollout next week.
   * Look at list of Top Task pages that have been edited and by who.
