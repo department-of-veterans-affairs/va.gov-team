@@ -16,7 +16,7 @@ Editors can edit content associated to a specific section under three circumstan
 1. Their CMS user account is associated to a parent section (or grand-parent, or great-grandparent, etc) of the content.
 1. Their CMS user account has "Content admin" or "Administrator" role (which bypass all Section settings).
 
-Most CMS users (such as VAMC or Vet Center editors) only have one section in which they can create or edit content. Others may have access to multiple, individual sections. Because sections are organized hierarchically, editing access permissions cascade from top to bottom. For example, an editor who has access to the VHA section has access to all sections nested underneath, including the Health Care Benefits Hub, all Vet Centers, and all VAMC facilities. But CMS users with access to a specific VAMC System such as VA Seattle health care" may not add content to its ancestor "Veterans Health Administration" Section, or edit belonging to it.
+Most CMS users (such as VAMC or Vet Center editors) only have one section in which they can create or edit content. Others may have access to multiple, individual sections. Because sections are organized hierarchically, editing access permissions cascade from top to bottom. For example, an editor who has access to the VHA section has access to all sections nested underneath, including the Health Care Benefits Hub, all Vet Centers, and all VAMC facilities. But CMS users with access to a specific VAMC System such as VA Seattle health care" may not add content to higher 'parent' level  "Veterans Health Administration" Section content, or edit belonging to it.
 
 ## Managing access to sections
 
