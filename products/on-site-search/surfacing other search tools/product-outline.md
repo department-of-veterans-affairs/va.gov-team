@@ -99,9 +99,11 @@ A way to increase awareness and access to other VA search tools while using glob
 - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
 
 ## Other search tool links to include
+
 Primary links:
 - [Find a Form](https://www.va.gov/find-forms/)
 - [Resources and Support](https://www.va.gov/resources/)
+
 Secondary links:
 - [Find a VA Location](https://www.va.gov/find-locations/)
 - [BVA Appeals](https://www.index.va.gov/search/va/bva.jsp)
