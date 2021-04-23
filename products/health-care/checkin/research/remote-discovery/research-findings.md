@@ -85,18 +85,18 @@ We did recruit non-sighted users, but they were all no shows to their research t
 ### Talking to VA staff members was the most preferred and used currently available check in method for in-person appointments.
 11 participants total.
 
-**In-person**
-7 - preferred method
-11 - have used
+- **In-person**
+  - 7: preferred method
+  - 11: have used
 
-**Kiosk**
-4 - preferred method
-10 - have used
+- **Kiosk**
+  - 4: preferred method
+  - 10: have used
 
-**Text Message**
-0 - preferred method
-0 - have used
-(1 - heard about)
+- **Text Message**
+  - 0: preferred method
+  - 0: have used
+  - (1 - heard about)
 
 ### Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
 **Benefits**
@@ -155,9 +155,16 @@ Veterans who liked the kiosk did tend to be younger or more tech-savvy older Vet
 One Veteran has used both methods.
 
 ### More  participants received their medications by mail and used the kiosk to check in for lab tests than other methods
-|---|---|---|
-| Task | Method Used | # of participants|
+| Task | Method Used | # of participants |
+| --- | --- | --- |
 | Lab tests | Kiosk | 5 |
+| Lab tests | Staff member | 3 |
+| Lab tests | Ticket machine, then staff member | 1 |
+| Lab tests | Computer | 1 |
+| Pharmacy | Mail (2 use MyHealtheVet to request refills) | 7 |
+| Pharmacy | Kiosk | 2 |
+| Pharmacy | Staff member | 2 |
+| Ticket machine | 2 | 
 
 
 
