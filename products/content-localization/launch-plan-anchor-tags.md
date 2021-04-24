@@ -92,9 +92,4 @@ Any UX changes necessary based on the logs, or feedback on user challenges, or V
 If yes, what: lorem ipsum
 Post-launch Questions
 
-To be completed once you have gathered your initial set of data, as outlined above.
 
-How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-What qualitative feedback have you gathered from users or other stakeholders, if any?
-Which of the assumptions you listed in your product outline were/were not validated?
-How might your product evolve now or in the future based on these results?
