@@ -10,50 +10,20 @@ Planning:
 
 Results:
 
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Number of users: 
+- Number of bugs identified / fixed: 
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-- If yes, what: lorem ipsum
+- If yes, what: 
 
 
 # Phase II: Staged Rollout (also known as unmoderated production testing)
 
-Do I need a staged rollout?
-
-Yes, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-This change does not add substantial new functionality to VA.gov
-This change does not impact user flows through tasks
-This change does not affect traffic to backend services
-Example: a change to a page's text content could skip staged rollout
-
-Example: a minor visual redesign to a page that doesn't affect user flows could skip staged rollout
-
-Example: adding a new field to an existing form could skip staged rollout
-
-Example: a new feature on an existing application that creates new backend traffic needs staged rollout
-
-Example: a significant change to how users navigate an existing form needs staged rollout
-
-Example: a feature that will route significantly more users (and therefore more backend traffic) to an existing application needs staged rollout
-
-Exceptions
-
-Right now, feature toggles are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-Feature type	Possible with feature toggles?
-New feature in existing application	Yes
-New application	Yes
-Static content changes	Doable but tricky
-URL redirects	No
-Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 Planning
 
-Desired date range: [mm/dd/yy - mm/dd/yy]
-How will you make the product available in production while limiting the number of users who can find/access it: [lorem ipsum]
+- Desired date range: [05/03/2021 - 05/31/2021
+- How will you make the product available in production while limiting the number of users who can find/access it: [lorem ipsum]
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [use your KPIs to help guide this. It could be things like abandonment rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 Links to dashboard(s) showing "success criteria" metrics: [link here]
 The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs.
