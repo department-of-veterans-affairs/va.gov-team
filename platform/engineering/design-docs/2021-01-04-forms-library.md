@@ -348,6 +348,7 @@ current release. This is a great place to speculate on potential features and
 performance improvements._
 
 - Code splitting
+- "Array pages" on objects, where the URL contains object property names
 
 ### Revision History
 _The table below should record the major changes to this document. You don't
