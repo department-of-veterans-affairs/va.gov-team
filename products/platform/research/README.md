@@ -73,6 +73,8 @@ Below you can find links to research conducted by VSP. If you've done research, 
 
 - Form Dashboard Template - Insights & Analytics 
 
+- Autonomous Deployment Discovery (previously called App Isolation) - FE Tools 
+
 - Design System - Storybook - Design System
 
 - Orientation - Product Support
