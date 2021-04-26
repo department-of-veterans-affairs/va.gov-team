@@ -68,9 +68,22 @@ We would like to work with Perigean to recruit remote users. We would like to in
 All participants must:
 
 - Be a Veteran or POA of a Veteran (at least 1 POA)
-- Not currently have Health Care through the VA 
+- Left service in the last 5 years (minimum half of participants)
 - Have access to a laptop/desktop and be willing to complete the test on said laptop/desktop
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+
+All participants must be yes to one of the following qualifications:
+
+- Started the Health Care application (10-10EZ) in the last 6 months, but did not complete it.
+
+or
+
+- Is currently considering (or has in the past) applying for healthcare through the VA.
+
+or
+
+- Applied for VA healthcare in the last 6 months.  
+
 
 
 **Participant pool should in diverse in**
@@ -81,7 +94,7 @@ All participants must:
 - Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
 - Geography
 - Density (rural)
-- Veterans with a disability rating of 80% or higher representative of applicant demographics
+- Veterans with a disability rating of 50% or higher representative of applicant demographics
 
 
 
