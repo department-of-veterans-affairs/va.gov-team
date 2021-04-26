@@ -28,30 +28,25 @@ assignees: shiragoodman, allison0034
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Sketches
-- Lo-fi mockups
+- Whiteboard sketch or other lo-fi prototypes or mockups
+- User flow
 - Content Brief (if available/applicable)
+- Any other artifacts you have so far
 
 ## Meeting attendees from requesting team
 - Designer(s) (required): name(s)
 - Product Manager (required): name
 - OCTO-DE Product Lead (recommended): name
-- OCTO-DE Design lead (required): Ryan Thurlwell
+- OCTO-DE Design Lead (required): Ryan Thurlwell
 - Non-platform content, IA, accessibility, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable): name(s)
 
 ## Scheduling
-### Would you like this review to be asynchronous? 
-
-Please refer to the Design Intent guidance for the difference between a synchronous meeting and an asynchronous review.
-- [ ] Yes
-- [ ] No
 
 ### What is your preferred time slot per the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? 
 **Date/time:**
  
 Please note:
-- Time slots are required for both synchronous meetings and asynchronous reviews.
 - All times are shown in ET. 
 - Available time slots are indicated with [CALENDAR BLOCK]. 
 - When you reserve a time slot, the reserved meeting will show up alongside the [CALENDAR BLOCK]. 
