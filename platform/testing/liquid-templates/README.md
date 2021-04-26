@@ -48,21 +48,6 @@ This technique can be used to generate tests of varying complexity, ranging from
 ### `axeCheck(container)`
 `axeCheck()` takes the `HTML` document returned by `renderHTML()` and returns an array of accessibility violations.
 
-### DOM Testing Library
-
-To perform queries using the [DOM Testing Library](https://testing-library.com/), simply import the queries or functions you want to use. Example:
-```
-import { getByText } from '@testing-library/dom';
-```
-
-From the [Dom Testing Library docs](https://testing-library.com/docs/queries/about): "All of the queries exported by DOM Testing Library accept a container as the first argument."
-
-In the Liquid Template Testing Framework examples found below, the `HTML` document generated is assigned to a variable called `container` in the `spec.js` files. Use this variable as the first argument to the imported DOM Testing Library functions, like this:
-
-```
-const node = getByText(container, '3500 Ludington Street');
-```
-
 #### Disabled Axe Checks
 
 The following Axe Checks are disabled:
@@ -178,6 +163,21 @@ A smoke test was created to ensure `axe-core` is picking up the expected violiat
 The liquid template for the smoke test is located at `src/site/layouts/liquid_template_axe_check_smoke_test.drupal.liquid`. `axe-core` currently reports 6 violations on this page.
 
 The spec file and fixture is in the `src/site/layouts/tests/liquid_template_axe_check_smoke_test` directory.
+
+### DOM Testing Library
+
+To perform queries using the [DOM Testing Library](https://testing-library.com/), simply import the queries or functions you want to use. Example:
+```
+import { getByText } from '@testing-library/dom';
+```
+
+From the [Dom Testing Library docs](https://testing-library.com/docs/queries/about): "All of the queries exported by DOM Testing Library accept a container as the first argument."
+
+In the Liquid Template Testing Framework examples found below, the `HTML` document generated is assigned to a variable called `container` in the `spec.js` files. Use this variable as the first argument to the imported DOM Testing Library functions, like this:
+
+```
+const node = getByText(container, '3500 Ludington Street');
+```
 
 ## Rendered `HTML` Is Saved to Disk
 For convenience, the `HTML` that's generated from each `liquid` template is automatically saved to `src/site/tests/html` when tests are executed so the `HTML` can be inspected when writing tests. These files are gitignored.
