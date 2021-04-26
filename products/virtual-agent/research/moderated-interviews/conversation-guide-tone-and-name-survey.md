@@ -49,6 +49,7 @@ Before we start, a few things I want to mention:
 15. What type of conversational tone should it have? Please describe why this would be important to you.
 16. Should a VA chatbot have a human or human-like name? Please describe why or why not.
 17. If it should have a name, what should it be that would be representative for all veterans, care-takers, and family-members who would interact with it? No worries if you can't think of one on the spot.
+18. Where on VA.gov would you expect to find the bot to begin a conversation?
 
 
 ## Thank-You and Closing - 5 minutes
