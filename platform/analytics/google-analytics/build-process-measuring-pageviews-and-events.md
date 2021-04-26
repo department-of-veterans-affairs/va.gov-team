@@ -76,6 +76,7 @@ The naming convention for products begins with these prefixes:
 |GIBCT| `gibct-`|
 |Health Care Applications | `hca-`, `vaos-` |
 |Health Records| `health-record-` |
+|Interaction| `int-` |
 |Navigation | `nav-` |
 |Pensions|`pensions-`|
 |Post 9-11 Benefits Status| `post911-`|
