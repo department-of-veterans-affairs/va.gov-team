@@ -46,7 +46,7 @@ To support our React-based single page apps, we have turned on reporting of Hist
 
 ### Overview: 
 
-We also send custom event tracking from our JavaScript to report on user actions, like downloads, successful or failed form submissions, etc. Since Event tracking is more customized than the pageview tracking it relies on defining and instrumenting a dataLayer event. We are also able to send other non-PII values, like `errorKeys` into Google Analytics for further measurement.
+We also send custom event tracking via JavaScript to report on user actions like downloads, successful or failed form submissions, _etc_. Since Event tracking is more customized than the pageview tracking, it relies on defining and instrumenting a dataLayer event. We are also able to send other non-PII/PHI values like `errorKeys` into Google Analytics for further measurement.
 
 During the Discovery phase, your VFS team should have worked with Analytics-Insights to define the key performance indicators you'd like to track. In the build phase, we will work with you to define these requirements for Event Tracking. 
 
@@ -69,9 +69,9 @@ Within Google Tag Manager, we would define a more readable format for an Event C
 The code snippets takes on a format like `window.dataLayer.push({ event: 'vets-custom-event'})`. Here is the process we take to implement this tracking. 
 
 1. Analytics-Insights will guide you in the naming convention. 
-1. FE teams will implement this into code.  There is a [helper function that can be used](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/monitoring/record-event.js).
-1. In parallel, we update Google Tag Manager to pick up these events. We define an Event Category, Event Action, and Event Label that translates the dataLayer event into a more readable format for Google Analytics users. 
-1. Once the code is on staging, we will QA that it is working correctly. 
+2. FE teams will implement this into code.  There is a [helper function that can be used](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/monitoring/record-event.js).
+3. In parallel, we update Google Tag Manager to pick up these events. We define an Event Category, Event Action, and Event Label that translates the dataLayer event into a more readable format for Google Analytics users. 
+4. Once the code is on staging, we will QA that it is working correctly. 
 
 The naming convention for products begins with these prefixes:
 
