@@ -6,8 +6,7 @@
 - Lauren - Agenda (no deck)
 
 ### Backend
-- {Name}
-  - {Topic}
+None
 
 ### Frontend
 - Jennie
