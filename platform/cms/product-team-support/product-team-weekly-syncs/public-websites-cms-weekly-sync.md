@@ -37,6 +37,7 @@
 
 ## April 21
 
+* Review new (optional) audience field widget.
 * Helpdesk vs Handholding balance for beta users
   * Should CMS helpdesk kickoff start
 * Onboarding users if needed (VBA)
