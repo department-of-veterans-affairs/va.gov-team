@@ -3,9 +3,9 @@
 Planning:
 
 - Desired date range or test duration: 30 days
-- Desired number of users: n/a (normal monthly usage/user)
+- Desired number of users: 50k
 - How you'll recruit the right production test users: n/a
-- How you'll conduct the testing: use of flipper feature to phase roll-out (10%, 25%, 50%, 100%)
+- How you'll conduct the testing: use of flipper feature to phase roll-out starting at 10%, 25%, 50%, 100%
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: page will be live in prod
 
 Results:
