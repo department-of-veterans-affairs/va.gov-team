@@ -31,7 +31,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about an hour.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or task.
+- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -53,7 +53,7 @@ Before we start, I want to go over a few things:
 
 ## Warm-up Questions - 10 minutes
 
-Let’s start with a few questions...
+Let’s start with a few questions...          *(Veteran / Caregiver; Phone / Computer; Notetaker: ______________)*
 
 - *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
 
@@ -224,7 +224,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *RECORD task success: yes / no*
   
 ## Post-Task Interview - 5 minutes
-
+-*Type into #feedback-backchannel: "Any questions you want me to ask?"*
 - What do you *like* about using the VA.gov website?
 - What do you *dislike* about using VA.gov?
 - What would you like to *change* about VA.gov?
