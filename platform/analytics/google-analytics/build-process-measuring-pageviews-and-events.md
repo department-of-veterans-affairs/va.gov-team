@@ -20,11 +20,11 @@ Google Tag Manager also has version controls, which allows us to rollback any tr
 
 ## Pageviews
 
-_Overview:_ 
+### Overview:
 
 Pageviews is one of the core metrics measured by Google Analytics. Within Google Tag Manager, we have a basic pageview tag that sends data to our Non-Production or Production Google Analytics properties on page load. 
 
-_Example_: 
+### Example:
 
 For example, within their visit to the site, a user comes to our homepage, goes to `/health-care/`, and then back to the homepage, Google Analytics will record the activity like so: 
 
@@ -34,7 +34,7 @@ For example, within their visit to the site, a user comes to our homepage, goes 
 | Veteran visits www.va.gov/health-care | 1 Pageview | 
 | Veteran returns to homepage | Records a 2nd pageview for the homepage|
 
-_Instrumentation by Engineering:_
+### Instrumentation by Engineering:
 
 For normal pageview tracking that happens on page load, engineers will not need to implement any further tracking since Google Tag Manager will handle the pageview. 
 
@@ -44,18 +44,27 @@ To support our React-based single page apps, we have turned on reporting of Hist
 
 ## Event Tracking
 
-_Overview:_ 
+### Overview: 
 
 We also send custom event tracking from our JavaScript to report on user actions, like downloads, successful or failed form submissions, etc. Since Event tracking is more customized than the pageview tracking it relies on defining and instrumenting a dataLayer event. We are also able to send other non-PII values, like `errorKeys` into Google Analytics for further measurement.
 
 During the Discovery phase, your VFS team should have worked with Analytics-Insights to define the key performance indicators you'd like to track. In the build phase, we will work with you to define these requirements for Event Tracking. 
 
-_Example:_
+### Example:
 
-Your VFS team is building a new feature for the Profile page and wants to track how many times users submitted an information change for this section. You would structure this event like `window.dataLayer.push({ event: 'profile-transaction'})`. Within Google Tag Manager, we would define a more readable format for an Event Category of "Transactions", Event Action of "Profile Saved", and an Event Label of "profile-transaction". 
+Your VFS team is building a new feature for the Profile page and wants to track how many times users submitted an information change for this section. You would structure this event like: 
+
+```js
+window.dataLayer.push({
+  event: 'profile-transaction',
+  'profile-section': 'edu-direct-deposit-information',
+  'profile-addressSuggestionUsed': 'no',
+});
+```
+Within Google Tag Manager, we would define a more readable format for an Event Category of "Transactions", Event Action of "EDU Direct Deposit Information", and an Event Label of "profile-transaction". 
 
 
-_Instrumentation:_
+### Instrumentation:
 
 The code snippets takes on a format like `window.dataLayer.push({ event: 'vets-custom-event'})`. Here is the process we take to implement this tracking. 
 
