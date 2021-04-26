@@ -174,11 +174,48 @@ A `Page` is the required wrapper around form page contents.
 A `Page` may be the child of either `Router` directly or `Chapter`.
 
 **Responsibilities:**
+- Pass parts of the route manager React context to its child as props
+  - For an example usage, see [below](#functionality-array-pages)
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
 
 ##### Functionality: Array pages
-**TODO:** Fill this in...
+Array pages are one or more pages that are looped through in a form flow, once
+for each item in the array they are for. To help understand the nuances of array
+pages, consider the following example:
+
+```jsx
+<Page
+  path="/marriages/:marriageIndex/foo"
+  pathParams={{
+    marriageIndex: 'marriages'
+  }}>
+  {({ formData, pathParams }) => (
+    <FieldArray
+      name="marriages"
+      render={arrayHelpers => (
+        <Field name={`marriages.${pathParams.marriageIndex}.name.first`}
+      )}
+    />
+  )}
+</Page>
+```
+
+For array pages to work we need a couple core things:
+- The path for the page
+- The data for the current item in the array
+
+To get these pieces, `Page` will accept the `path` and `pathParams` props.
+
+`path` will be the URL within the application and must (for array pages) contain
+URL parameters (term pending). URL parameters must be the only token between
+`/`s or at the end of the URL. For example, `/:index/foo` and `/:index` are
+valid path parameters. `/my-:index-item` is an invalid path parameter.
+
+`pathParams` will be an object whose keys map to the path parameters and whose
+values map to the path to the data in the form data. In the above example, the
+`pathParams` will assign `:marriageIndex` in the URL a number based in the
+current item in the `marriages` array.
 
 #### Sub-module: Form page builder
 Formulate will leverage Formik for much of the form page building. It will
