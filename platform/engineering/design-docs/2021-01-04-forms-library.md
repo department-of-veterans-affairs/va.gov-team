@@ -132,10 +132,11 @@ _None_
 1. Provide the route manager as a React context to its children which may be
    used to:
     - Directly modify the routes at runtime by custom components if needed
-    - Compute the data path for form builder components with route path data
-      substitution
-      - See [data paths](#data-paths) for more information
-1. Build a list of the route definitions from its children's `path` props
+    - Access the full form data
+      - This is because each page is a separate Formik form, so the `Router` is
+        responsible for stitching all these individual forms together into one
+        cohesive experience
+1. Build a list of routes from its children's `path` props
     - `Page`s nested in `Chapter`s will have their paths prefixed with the
       `Chapter` path
     - For example:
@@ -145,7 +146,8 @@ _None_
       </Chapter>
       ```
       This will result in a path definition of `/personal-information/name`
-1. Build a list of computed routes
+1. Re-compute this list before each page navigation (below)
+    - This ensures any data changes that might affect the routes are captured
 1. Provide callbacks to navigate forward and backward through the list of
    computed routes
 
