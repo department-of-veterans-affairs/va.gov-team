@@ -48,7 +48,41 @@ To support our React-based single page apps, we have turned on reporting of Hist
 
 We also send custom event tracking via JavaScript to report on user actions like downloads, successful or failed form submissions, _etc_. Since Event tracking is more customized than the pageview tracking, it relies on defining and instrumenting a dataLayer event. We are also able to send other non-PII/PHI values like `errorKeys` into Google Analytics for further measurement.
 
-During the Discovery phase, your VFS team should have worked with Analytics-Insights to define the key performance indicators you'd like to track. In the build phase, we will work with you to define these requirements for Event Tracking. 
+During the Discovery phase, your VFS team should have worked with Analytics-Insights to define the key performance indicators you'd like to track. In the build phase, we will work with you to define these requirements for Event Tracking. The good news is that many interactions automatically generate Google Analytics events:
+
+
+#### Component Library
+
+The component-library is an npm package of reusable components used on va.gov.  Many of these components are programmed to emit a CustomEvent during certain interactions.  va.gov listens for these events and pushes a corresponding event to the dataLayer, which then triggers an event in Google Tag Manager.
+
+For example, the AlertBox component calls the dispatchAnalyticsEvent helper function, which emits a CustomEvent on the document.body element.   The listener on va.gov matches the componentName and action in the analyticsEvents lookup table to get an event like  'nav-alert-box-link-click'.  The rest of the fields in the CustomEvent's details are given a prefix of the componentName (kebab format) and sent along with the event. 
+
+##### Other important things:
+
+*   Some components are opt-out and you need to add a disableAnalytics param to the component to disable analytics.
+*   Others (specifically form controls) are opt-in.  Due to the risk of PII/PHI, you must add an enableAnalytics flag to these components to get the CustomEvent to emit.
+*   We try to match the names of the additional params to their component counterparts.  this.props.label would be label while this.props.options label would be optionLabel.
+*   There's a lot of boilerplate in the unit tests for these in the component-library, so use the helper function if possible.
+*   Helpful links:
+
+    *   https://design.va.gov/components/
+    *   https://github.com/department-of-veterans-affairs/component-library/
+    *   https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/component-library-analytics-setup.js
+    *   https://github.com/department-of-veterans-affairs/component-library/blob/master/src/helpers/analytics.js
+    *   https://github.com/department-of-veterans-affairs/component-library/blob/master/src/helpers/test-helpers.js
+
+
+#### Forms System
+
+There are several analytics events baked into actions in the forms-system.  If you look in the primary actions.js file, you will see dataLayer pushes (via helper function recordEvent) for submission, successful submission, and others.  Keep in mind you will need to use a product prefix we have allowed in GTM.
+
+
+#### Static Sites pages
+
+Static content (such as Drupal content) on va.gov is run through an application called static-pages.  Because most of these pages can not use components from the component-library, we have implemented several application-wide event listeners for things like CTA buttons, Action Links, and other.  These can be found in this directory.
+
+One important development is the transition of the component-library from React components to web components.  These new web components should be able to be used in static pages.
+
 
 ### Example:
 
