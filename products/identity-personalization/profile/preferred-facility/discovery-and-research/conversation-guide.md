@@ -40,12 +40,15 @@ Try to move a bit slower than you normally would on a website and talk me throug
 
    **Q: Since we're not really testing whether or not they can find it in this internal test, I think it's okay to lead them there. If not - how can I word this so that I don't lead them? The navigation label will be "my VA health facilities"**
   
-  *A: Looks like the prototype defaults to this facilities section, is that intended? If not, and you want to start them elsewhere on the profile and have them go to the facilities section:I would go with something like "how  would you look at where you've received care?" or "how would you see what VA locations you've gone to?"*
+  *A: Looks like the prototype defaults to this facilities section, is that intended? If not, and you want to start them elsewhere on the profile and have them go to the facilities section: I would go with something like "how  would you look at where you've received care?" or "how would you see what VA locations you've gone to?"*
    *Alternately, for something lightweight like this, you could just drop them on to the facilities section, and then just make sure to have a more robust flow when doing the combo study with VAOS.*
+   
+   **Add:** Talk to me about why you think these facilities are listed here? (or something to the effect to get at if they understand the list is facilties that they are registered at/have gone to, etc). Not needed if there is past research that demonstrates people understand this.
 
 3. Can you show me how you would make changes to this list? 
 
 *Consider if relevant to the functionality of the prototype/goals: "How would you add a VA location that's not here?" (get's at link at the bottom "how to add a new facility")*
+
 **Add:** What do you expect will happen once you've made changes?
 
 4. Now that you've saved some changes, talk me through what you see on this page.
