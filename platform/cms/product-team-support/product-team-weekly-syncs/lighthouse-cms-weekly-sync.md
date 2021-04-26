@@ -17,13 +17,32 @@
 
 </details>
 
+## Monday May 3 3pm ET
+
+ - How long should archived CAP data be available to Vets, and in what form?
+
+
 ## Monday April 26 3pm ET
 
 - If a Vet Center or VAMC staff finds an issue with the data coming through Facilities API, what should they do?  Multiple data sets... Access to care, Mental health care contacts, VAST. 
   - Triage document for data - who to contact for different data scenarios.  What is the right escalation path?
   - Is all the Vet Center data from VAST? 
   - Can we just send all editors to Lighthouse if they find issues? 
+
+Outcome
+ - Since Lighthouse is the "middle man" and has all the stakeholder data, it makes sense for users to reach out to Lighthouse if there are data issues
+ - Send users to helpdesk system: 
+   - To: api@va.gov 
+   - Subject line: "Facility data"
+   - Body: 
+     - Something like: [Describe issue with facility data... which field is wrong and how should it be corrected. ] (the clearer the report, the faster the resolution) 
+     - Facility ID and Name 
 - Any updates / to do items from the VAST meeting?
+  - No one from VAST was there. 
+- CAP data
+  - CAPs come and go regularly... it will not be a one-time data transfer.
+
+
 - Action Items:
   - Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review) - no update as of 4/12
   - Lighthouse to investigate pushing of services in bulk. (+11,000 if doing a bulk push of one service at a time, not an immediate need) - no update as of 4/12
