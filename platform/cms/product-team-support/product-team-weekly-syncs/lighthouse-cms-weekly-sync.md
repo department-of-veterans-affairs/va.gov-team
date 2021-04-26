@@ -19,8 +19,9 @@
 
 ## Monday May 3 3pm ET
 
+CAP data
  - How long should archived CAP data be available to Vets, and in what form?
-
+ - IDs. 12 characters max, referencing the "parent" Vet Center ID, and appending up . [vcparentID][cap][99]
 
 ## Monday April 26 3pm ET
 
