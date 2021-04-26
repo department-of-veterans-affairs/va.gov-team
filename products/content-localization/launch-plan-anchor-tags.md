@@ -22,9 +22,9 @@ Results:
 
 Planning
 
-- Desired date range: [05/03/2021 - 05/31/2021
-- How will you make the product available in production while limiting the number of users who can find/access it: 
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [use your KPIs to help guide this. It could be things like abandonment rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+- Desired date range: 05/03/2021 - 05/31/2021
+- How will you make the product available in production while limiting the number of users who can find/access it: flipper feature
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 1.5 CTR for links
 - Links to dashboard(s) showing "success criteria" metrics: [link here]
 
 
