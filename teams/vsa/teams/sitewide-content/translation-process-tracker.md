@@ -15,3 +15,4 @@
 | Vaccine updates for Janssen pause | 4/13 | 4/13 (sent to both translation teams |
 | Debt question for Tagalog FAQs page | | 4/14 |
 | Janssen update in blue box | 4/26 | 4/26 |
+| Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 |
