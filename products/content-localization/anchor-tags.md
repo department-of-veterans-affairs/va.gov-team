@@ -64,7 +64,7 @@ To determine whether our experiment is delivering value to users, we will initia
 
 To measure feature engagement, we will look at:
 - CTR for anchor links
-- Number of links shared vs 
+- Number of links shared 
 - Number of page views originating from a shared link
  
 **Assumptions**
@@ -83,15 +83,12 @@ _What have you explicitly decided to not include in this initial set of function
 
 _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
 
-- To make the solution scale site-wide we will need to ……
- 
+
 **Go-to-market Strategy**
 
 _How are Veterans and others using this product going to know it exists?_
 
 - Will coordinate with contact center leads and provide training materials.
-
-- Anything else?
 
 _What marketing, outreach, or communications are necessary for this product to be successful?_
 
@@ -103,13 +100,13 @@ Launch Dates
 
 Target Launch Date
 
-- tbd
+- May 3, 2021
 
 Actual Launch Date
 - tbd
 
 _What date will you evaluate impact after launch?_
-- 30 days? 60 days?
+- 30 days
  
 Screenshots (to be added)
 
