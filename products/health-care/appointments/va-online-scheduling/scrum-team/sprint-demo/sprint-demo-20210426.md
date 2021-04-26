@@ -10,8 +10,8 @@
   - {Topic}
 
 ### Frontend
-- {Name}
-  - {Topic}
+- Jennie
+  - #23478 update design and state changes on appointment list cards
 
 ## Rules of engagement
 - Camera on - let's be a real audience for our presenters.
