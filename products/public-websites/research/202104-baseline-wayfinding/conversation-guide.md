@@ -132,7 +132,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat (va.gov/find-forms). 
+- *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat *(va.gov/find-forms)*. 
   - *(if they can't see the chat...)* Look at the Zoom controls on the far right side, and you'll see three dots labelled More. Click/tap on them and select "Chat". Now you should see the chat window open and see the URL there.
   - Can you try using this page to help with the task?
   - How would you expect to get to this page from va.gov?
@@ -165,7 +165,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no*
-- *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat (va.gov/resources). 
+- *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat *(va.gov/resources)*. 
   - *(if they can't see the chat...)* Look at the Zoom controls on the far right side, and you'll see three dots labelled More. Click/tap on them and select "Chat". Now you should see the chat window open and see the URL there.
   - Can you try using this page to help with the task?
   - How would you expect to get to this page from va.gov? 
