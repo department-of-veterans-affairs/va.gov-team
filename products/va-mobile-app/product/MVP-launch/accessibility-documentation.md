@@ -1224,6 +1224,7 @@ Stats as of April 8th, 2021
 
 
 #### Spreadsheet
+(snapshot as of 4/22/21)
 
 
 <table>
