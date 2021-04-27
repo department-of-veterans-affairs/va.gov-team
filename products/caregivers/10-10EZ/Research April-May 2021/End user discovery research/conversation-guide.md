@@ -51,7 +51,7 @@ Great. Now we're really ready to begin!
 - Tell me a little about yourself 
 - Do you currently have healthcare benefits through the VA or through another provider?
 - Tell me a little bit about how you chose this healthcare option?
-  -  Did any experiences (personal, social, and medical) influence this decision?
+  -  What experiences (personal, social, and medical) influenced this decision?
   -  What other places did you consider for healthcare (outside of the VA).
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
   - Do you have any lasting impressions of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
@@ -63,12 +63,13 @@ Now that I understand a little bit more about your background.
 
 Let's look at the screen that I have shared with you. Put yourself back to the moment that you arrived at this screen to apply for benefits in the past. (or if has never applied- you arrive here with the intention of applying for benefits.) https://staging.va.gov/health-care/apply/application/introduction  Go ahead and talk me through what you would do upon arriving at this page. 
 
-If the participant immediately moves to click on "start you application..." button, I will ask them if they usually read this intro page, even if no, continue with the following questions.
+If the participant immediately moves to click on "start your application..." button, I will ask them if they usually read this intro page, even if no, continue with the following questions.
 
 - Please read the entire page and let me know if any questions come to mind.
 - After participant reads and initial questions are noted:
-  - Of the listed requirements, is there anything that you would not have on-hand or would need to prepare before starting this application?
-  - Do you any additional thoughts or questions? 
+  - What do you think of the listed requirements? 
+  - Is there anything that you would not have on-hand or would need to prepare before starting this application?
+  - Do you have any additional thoughts or questions? 
 
 
 
@@ -84,7 +85,7 @@ If they need a SSN, use 548-79-5555
 
 - Remind participants to think out loud. 
 - Any hiccups? Do they know all the information?
-- Any fields trip them up?
+- Any fields trip them up? Why?
 - Anything particularly confusing for them?
 - Pay close attention to sections that the [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show to be high drop-off points
   - Personal information
@@ -93,7 +94,7 @@ If they need a SSN, use 548-79-5555
   - Spouse
   - Annual income
 - Make sure to dig in when there's any hesitation into what they are thinking
-- On sections that cause pause- ask the participant, Do you understand why this information is being requested?
+- On sections that cause pause- ask the participant, "why is this information being requested?"
 - Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause
     - What resources would you use to overcome blockers?
 
