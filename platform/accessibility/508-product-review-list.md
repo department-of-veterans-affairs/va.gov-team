@@ -1318,6 +1318,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
+- [[AXE-CORE]: Find Forms - Description lists must have valid markup - #23851](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23851)<br/>**Opened:** April 27, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
