@@ -4,7 +4,7 @@ _This list will be updated with links to documentation as needed_
 ## VA Reviews & Sign offs
 
 - [x] [Pre-launch Accessibility Review](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/product/MVP-launch)
-  - 4/21/21 Martha Wilkes and Meli Manak presented a11y audit report (linked above) to 508 office
+  - 4/21/21 Martha Wilkes and Meli Manak presented accessibility docs (linked above) to 508 office
   - 4/22/21 Martha Wilkes confirmed that full 508 audit can happen post-launch
 - [ ] Contact Center Review
 - [ ] Privacy & Security Review
