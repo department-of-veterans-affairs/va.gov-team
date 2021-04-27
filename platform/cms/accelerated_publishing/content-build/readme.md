@@ -51,6 +51,9 @@ These parameters are passed to and processed throughout the [Auto-Deploy script]
 Tracing further, the [Content Only Build](https://github.com/department-of-veterans-affairs/devops/blob/c46c02e05728902c5a4109671a388d76fb98d2af/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy#L1428) will execute the [`Jenkinsfile.content` in vets-website](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content#L22), which contains the logic for executing the vets-website static website generator. This will result in a new archive of the latest vets-website release rebuilt to contain the latest content from the CMS.
 
 ## The Content Build
+
+[Content Build Diagram](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/platform/cms/accelerated_publishing/content-build/content-build.svg) ([edit diagram](https://app.diagrams.net/?src=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/platform/cms/accelerated_publishing/content-build/content-build.svg))
+
 The _Content Build_ refers to a specific process in the front-end repo that executes the vets-website static site generator. The _Content Build_ is usually summarized as a task to generate everything on the website that isn't a standalone React app.
 
 The tool behind the static website generator is [Metalsmith](https://metalsmith.io/). In general, Metalsmith is a simple library that accepts a local directory of content as an input (in the case of vets-website, the original input is a sibling GitHub repository named vagov-content, which contains Markdown file), processes that original input throughout some steps known as "plugins", and then outputs the resultant directory of static HTML and other assets to the file system.
