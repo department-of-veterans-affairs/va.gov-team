@@ -1,4 +1,4 @@
-# [Draft] Research outline: Health care application 10-10EZ, April/May 2021
+# Research outline: Health care application 10-10EZ, April/May 2021
 
 ## Goals:
 
