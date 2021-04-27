@@ -167,7 +167,7 @@ _None_
 1. Provide callbacks to navigate forward and backward through the list of
    computed routes
 
-##### Component: `Chapter`
+##### `Chapter` Component
 **Purpose:**
 The **optional** `Chapter` component will be used to render the VA.gov "chrome"
 for multi-page forms which have multiple chapters. This "chrome" includes the
@@ -182,7 +182,7 @@ form title, current chapter name, and progress bar.
 - Render the chapter title and progress bar
 - Render the child `Page`s
 
-##### Component: `Page`
+##### `Page` Component
 **Purpose:**
 A `Page` is the required wrapper around form page contents.
 
