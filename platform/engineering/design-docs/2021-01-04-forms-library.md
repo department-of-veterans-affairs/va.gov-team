@@ -108,19 +108,35 @@ helpful mental model?
 #### Sub-module: Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
-- Create routes for each page
+- Manage routes for each page
 - Render each page wrapped in the chrome appropriate for navigation
   - Form title, page title, progress bar, back / continue buttons, etc.
 - Prevent progress through the form if there are validation errors on the
   current page
+- Manage the form data
+  - Each individual page is essentially its own mini-form; the router stitches
+    all the data together into a single cohesive experience
 
-To accomplish this, there will be three primary components in the routing
+To accomplish this, there will be four primary pieces in the routing
 sub-module:
-- `Router`
-- `Chapter`
-- `Page`
+- State management React context
+- `Router` component
+- `Chapter` component
+- `Page` component
 
-##### Component: `Router`
+##### State Management React Context
+This React context will be used internally within Formulate. It will:
+- Hold the form data gathered on the form pages
+- Hold the form routes
+- Provide functions for:
+  - Accessing and manipulating the form state
+  - Accessing and manipulating the list of routes
+  - Navigating through the form
+  
+It will be provided by the `Router` component and consumed by `Page` and
+`Chapter`.
+
+##### ``Router` Component
 **Purpose:**
 The `Router` is at the heart of the routing sub-module. It will hold the routes
 and components to render at each route.
@@ -129,7 +145,7 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Provide the route manager as a React context to its children which may be
+1. Provide the state management React context to its children which may be
    used to:
     - Directly modify the routes at runtime by custom components if needed
     - Access the full form data
