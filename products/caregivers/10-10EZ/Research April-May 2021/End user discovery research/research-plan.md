@@ -61,7 +61,7 @@ A task analysis with Veterans or Veteran POAs will be conducted remotely with Zo
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit for 6-7 fulfilled remote sessions. Therefore, we request that 10 sessions be scheduled."
+We would like to work with Perigean to recruit for 6-7 fulfilled remote sessions. Therefore, we request that 10 sessions be scheduled.
 
 **Must have for participants**
 
