@@ -244,7 +244,17 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 There are two alternatives to connecting your PC's network to the proxy. (Mac OS users only):
 
 1. Use the [socks.sh script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks): this will set up OSX with a system-level proxy
-1. Install an app called [CoreTunnel](https://coretunnel.app/) that does the same thing as the `socks.sh` script in a more user-friendly way. See this [video](https://www.youtube.com/watch?v=fSuN9LhkB5o) for setup instructions.
+1. Install an app called [CoreTunnel](https://coretunnel.app/) that does the same thing as the `socks.sh` script in a more user-friendly way. See this [video](https://www.youtube.com/watch?v=fSuN9LhkB5o) for setup instructions. 
+
+Here is a summary:
+
+    1. Download CoreTunnel from the [App Store](https://apps.apple.com/us/app/core-tunnel/id1354318707). Launch CoreTunnel.
+    2. Add Private Key (`~/.ssh/id_rsa_vagov`) in Preferences (if not found automatically)
+    3. Make sure Enable Core Helper is checked under Advanced (this may require a separate download)
+    4. Add CoreTunnel to your Login Items in System Preferences / Users so it launches automatically when you log into your Mac
+    5. Click + to add a connection: Name= VA, host=socks, Forwarding=Dynamic, port=2001
+    6. Click "automatically connect on startup"
+    7. Configure your WiFi and Ethernet Network connections in system preferences / Network / Advanced. Select Automaic Proxy Configuration and enter the following URL for the Proxy Configuration File: https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/scripts/socks/proxy.pac
 
 For Windows users, or those who don't mind being limited to Chrome and Firefox, the following option is also available:
 
