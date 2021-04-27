@@ -23,6 +23,7 @@
 
 ## Wednesday, April 28
 
+- Policies - status on releasing hardened content 
 - Defects caused by missing expected data
   - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
   - Content, such as [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
