@@ -21,6 +21,10 @@
 
 </details>
 
+## Wednesday, April 28
+- Meta tags for VAMC - implementing change
+  - pros/cons for hard coding into FE on overriding in CMS
+
 ## Wednesday April 21
 
 - [#5053 Policies cutover runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
