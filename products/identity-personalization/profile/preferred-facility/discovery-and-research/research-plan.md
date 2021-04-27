@@ -1,4 +1,4 @@
-# Research Plan for Profile "My VA health facilities", June 2021
+# Research Plan for Profile "My VA health facilities", May 2021
 
 ## Goals	
 
@@ -8,9 +8,9 @@ Profile "My VA health facilities", Authenticated Experience
 
 ### Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-The VAOS (online scheduling) tool allows veterans to make an appointment at all of the facilities at which they're registered, but veterans are frustrated because being registered at a facility does not mean they are currently receiving care there. Veterans are still considered registered at facilities where they used to receive — but no longer receive — care, and at some facilities for reasons other than having ever been a patient. Therefore, veterans see facilities in VAOS that they don't go to, and they do not understand why they are being asked to make appointments at facilities they don't go to. This has resulted in a considerable amount of complaints. 
+The VAOS (online scheduling) tool allows Veterans to make an appointment at all of the facilities at which they're registered, but Veterans are frustrated because being registered at a facility does not mean they are currently receiving care there. Veterans are still considered registered at facilities where they used to receive — but no longer receive — care, and at some facilities for reasons other than having ever been a patient. Therefore, Veterans see facilities in VAOS that they don't go to, and they do not understand why they are being asked to make appointments at facilities they don't go to. This has resulted in a considerable amount of complaints. 
 
-Our MVP will add functionality to VA.gov profile to allow veterans to set their facility preferences, which will in turn inform the list of options veterans see when they use VAOS to schedule an appointment online.
+Our MVP will add functionality to VA.gov profile to allow Veterans to set their facility preferences, which will in turn inform the list of options Veterans see when they use VAOS to schedule an appointment online.
 
 User goals, business goals, and assumptions are listed in the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
 
@@ -29,7 +29,8 @@ We'll run our research in two parts:
 
 #### 1. Internal study
 
-Does our solution present any usability hurdles?
+- Does our solution present any usability hurdles?
+- How do people understand this section of profile outside of the VAOS context?
 
 #### 2. External study
 
@@ -56,7 +57,8 @@ We'll re-validate the above questions, and hope to gain insights to these:
 ### Our hypothesis for this research study
 
 - Labeling this section "My VA health facilities" will align with how Veterans think about their facilities.
-- People will understand how to edit their list of facilities, but will at first be confused about why boxes are already checked.  This confusion will be easily overcome and it won't be a major usability hurdle.
+- People will understand how to edit their list of facilities
+- At first, people will be confused about why boxes are already checked.  This confusion will be easily overcome and it won't be a major usability hurdle.
 - People who come from VAOS will understand this section of profile, what the facilities in their list are.
 - People who have no VAOS context will be less confident about what this section of profile is, but will figure it out without much difficulty.
 - *More coming pending VAOS flow*
@@ -65,7 +67,7 @@ We'll re-validate the above questions, and hope to gain insights to these:
 
 ### What method of research are you planning? 	
 
-Both studies will be a moderated usability study with a high-fidelity clickable prototype.  
+Both studies will be a moderated usability study with a high-fidelity clickable prototype.  Our internal study will be 15 minutes or less.  Our external study will be 30-45 minutes.
 
 #### Why?
 
