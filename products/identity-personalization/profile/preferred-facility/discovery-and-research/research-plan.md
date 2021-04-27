@@ -79,7 +79,7 @@ For our internal study, we'll use Zoom.  The VAOS team will be managing the exte
 
 #### What?
 
-We'll test a [UX Pin prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241?mode=i).
+We'll test a [UX Pin prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241?mode=i) for desktop view, since the desktop layout is new (2 columns instead of 3) and we want to be sure people understand that the `edit` button unlocks the whole group.
 
 
 
