@@ -10,7 +10,7 @@
 
 ### Project-specific setup
 
-- Open desktop prototype in tab (https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
+- Open [desktop prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i) in tab 
 
 ## Intro 
 
