@@ -3,6 +3,8 @@
 [Working document for most up to date version](https://docs.google.com/document/d/1jkylJgqzQWVTpQ04uPIEmitzDfWTNw6S381eny-ZS88/edit#heading=h.pnd3s21fyjov)
 
 _last updated 4/25/21_
+_This version of the document was shared with 508 office on 4/22/21_
+
 # Part I | VA.gov Mobile Accessibility Testing Plan 
 
 Link: [Our Broader Accessibility Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/Accessibility%20Test%20Plan.md)
