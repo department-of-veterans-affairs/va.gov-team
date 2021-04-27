@@ -54,7 +54,24 @@ Great. Now we're really ready to begin!
   -  What experiences (personal, social, and medical) influenced this decision?
   -  What other places did you consider for healthcare (outside of the VA).
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
-  - Do you have any lasting impressions of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
+
+**If yes, has already fully filled out and submitted form**
+- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
+  -  Did they seek any help in completing the form?
+  -  Do they remember how long the form took you to fill out?
+  - Did you save the form and return to it?
+    - If so, did you receive any reminders to return and complete it?
+  -  What happened after you submitted the form?
+     -  Do you remember how long it took to hear back on the status of your application? 
+     -  Were you contacted and asked to submit additional information?
+
+**If yes, has partially filled out but not submitted form**
+- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
+  -  Did they seek any help in completing the form?
+  -  DO you remember what section you stopped at and why?
+  - Did you save the form?
+    - Have you received any reminders to return and complete it?
+  -  Do you plan to return to complete the form? (why or why not?)
 
 
 ## Health Care application introduction page - 10 minutes
@@ -97,6 +114,7 @@ If they need a SSN, use 548-79-5555
 - On sections that cause pause- ask the participant, "why is this information being requested?"
 - Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause
     - What resources would you use to overcome blockers?
+- What do expect to happen next?
 
 ## Post task questions - 10 minutes
 
