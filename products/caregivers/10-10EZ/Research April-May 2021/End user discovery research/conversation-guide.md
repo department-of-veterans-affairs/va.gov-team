@@ -59,7 +59,7 @@ Great. Now we're really ready to begin!
 - Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
   -  Did they seek any help in completing the form?
   -  Do they remember how long the form took you to fill out?
-  - Did you save the form and return to it?
+  - Did you save the form and return to it or fill it out in one sitting?
     - If so, did you receive any reminders to return and complete it?
   -  What happened after you submitted the form?
      -  Do you remember how long it took to hear back on the status of your application? 
@@ -68,7 +68,7 @@ Great. Now we're really ready to begin!
 **If yes, has partially filled out but not submitted form**
 - Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
   -  Did they seek any help in completing the form?
-  -  DO you remember what section you stopped at and why?
+  -  Do you remember what section you stopped at and why?
   - Did you save the form?
     - Have you received any reminders to return and complete it?
   -  Do you plan to return to complete the form? (why or why not?)
