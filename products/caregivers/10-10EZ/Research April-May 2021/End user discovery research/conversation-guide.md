@@ -20,7 +20,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 
-**Talk them through Zoom screen sharing and chat features.
+**Talk them through Zoom screen sharing and chat features.**
 
 
 **I'm going to send you a link in the chat.**
@@ -66,8 +66,8 @@ Let's look at the screen that I have shared with you. Put yourself back to the m
 If participant immediately moves to click on "start you appplication..." button, I will ask them if they usually read this intro page, even if no, continue with the following quesions.
 
 - Please read the entire page and let me know if any questions come to mind.
-- After participant reads and initial questions are noted, Do you have a solid understanding what information will be asked for in the application?
-  - Do you have this information readily available?
+- After participant reads and initial questions are noted:
+  - Of the listed requirements, is there anything that you would not have on-hand or would need to prepare before starting this application?
   - Do you any additional thoughts or questions? 
 
 
@@ -93,8 +93,9 @@ If they need a SSN, use 548-79-5555
   - Spouse
   - Annual income
 - Make sure to dig in when there's any hesitation into what they are thinking
-- On sections that cause pause- ask the participant if they understand why this information is being requested
-- Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause.
+- On sections that cause pause- ask the participant, Do you understand why this information is being requested?
+- Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause
+    - What resources would you use to overcome blockers?
 
 ## Post task questions - 10 minutes
 
@@ -103,10 +104,12 @@ Wonderful! I have a few questions about your experience filling out this form.
 **Overall 
 
 - What did you think of the overall experience in completing this form?
-- What was the hardest part of completing the form? Were there any areas you felt were unclear? 
+- Did you feel unprepared to answer any specific section/s?
+    - Is there anything you wish you knew/ or that would have prepared you more for filling out this form?
+- What was the hardest part of completing the form? 
 - What worked well? 
 - If someone you knew was going to use this form to apply for VA Health Care, what advice would you give them?
-- Is there anything you wish you knew/ or that would have prepared you more for filling out this form?
+
 
 
 ## Wrap-up questions - 5 minutes
