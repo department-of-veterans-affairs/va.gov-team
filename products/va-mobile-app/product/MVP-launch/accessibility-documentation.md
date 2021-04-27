@@ -1,8 +1,8 @@
-# Accessibility Documentation - VA Mobile App App Store Release
+# Accessibility Documentation - VA Mobile App 
+**App Store Release**
 
-[Most up to date info is in TestRail](https://dsvavsp.testrail.io/index.php?/projects/overview/29)
+[Most up to date info on accessibility testing is in TestRail](https://dsvavsp.testrail.io/index.php?/projects/overview/29)
 
-_last updated 4/25/21_
 _This version of the document was shared with 508 office on 4/22/21_
 
 # Part I | VA.gov Mobile Accessibility Testing Plan 
