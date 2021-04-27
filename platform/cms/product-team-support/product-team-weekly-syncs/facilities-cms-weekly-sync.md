@@ -22,8 +22,11 @@
 </details>
 
 ## Wednesday, April 28
-- Meta tags for VAMC - implementing change
-  - pros/cons for hard coding into FE on overriding in CMS
+- Meta tags for VAMC 
+  - Design guide update
+  - Implementing change
+    - pros/cons for hard coding into FE on overriding in CMS
+- Default for Type of care attribute
 
 ## Wednesday April 21
 
