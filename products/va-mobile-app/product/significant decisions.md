@@ -335,6 +335,7 @@ We considered hardware and OS mantenance issues more heavily than a larger user 
 We started with the thought of supporting API 21, which would cover most users from GA analysis.
 ## When, or under what conditions, would you recommend revisiting this design decision?
 This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS.
+
 # Decision 7: Device Testing Matrix
 ## Describe the problem you are trying to solve.
 The VA Mobile App will need to test builds and UI accross a wide rage of screen sizes and operating system versions. We will need to decide what real devices are needed for testing.
@@ -417,12 +418,9 @@ Since the app is meant for users to get personalized task done quickly, not to b
 ## When, or under what conditions, would you recommend revisiting this design decision?
 This decision should be revisited once the MHV flow is able to be tested and confirmed to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. If VA.gov changes their access policies, the app should consider changing as well.
 
-# Decision 9: Including Secure Messaging 
-This decision is trying to determine the feature set for the app store release of the VA Mobile app. The secure messaging infrastructure required that we leverage a new API, which was unfamiliar and needed us to engage with the Office of Connected Care and the MyHealtheVet infrastructure.
-Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions
-
+# Decision 9: Include Secure Messaging for App Store Launch
 ## What did you decide on?
-After discussing feature sets with stakeholders and assessing multiple major messaging services, we decided include secure messaging with key features on the mobile app for app store release.
+After discussing feature sets with Veterans and stakeholders, as well as assessing the technical APIs available from the MHV team, we decided include a version of secure messaging with key features on the mobile app for app store release.
 
 ## Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (Product Owner)
@@ -439,11 +437,11 @@ We ultimately saw that an app without secure messaging may have been a fairly na
 ## When, or under what conditions, would you recommend revisiting this design decision?
 After app store release, once we have additional usage data, bug fixes, and UX feedback, we should revisit the approach to secure messaging within the app.
 
-# Decision 11: Release Process
+# Decision 10: App Store release to be in May/June
 We are working to determine waht release will look like for the VA mobile app in Apple and Google app stores. How do we release, and what kind of visibility is required?
 
 ## What did you decide on?
-We expected that there would be a quiet release in May. However, the VA MObile APp work has become significantly more visible to a wider swath of stakeholders since March/April, which has changed our approach. We now hope to extend user acceptance testing and ramp up efforts to strengthen our initial release and reduce risks of any performance problems.
+We expected that there would be a quiet release in May. However, the VA mobile app work has become significantly more visible to a wider swath of stakeholders since March/April, which has changed our approach. We now hope to extend user acceptance testing and ramp up efforts to strengthen our initial release and reduce risks of any performance problems.
 
 ## Document the people who agreed to the design decision (and their roles on the project)
 - Leanna Miller (Product Owner)
@@ -460,8 +458,10 @@ The alternative was to launch with no publicity and do so earlier, and take on t
 ## When, or under what conditions, would you recommend revisiting this design decision?
 We are constantly revisiting this decision as we come closer to our general launch date, and our findings from user acceptance testing (UAT) will largely inform our approach to app store release.
 
-# Decision 12: Approaching Co-branding through UX Research
-We are trying to address user expectations around waht features in teh app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheVet (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding teh VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
+# Open Questions, with decisions pending:
+
+# Decision 11: Should we co-brand parts of the app?
+We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheVet (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
 
 ## What did you decide on?
 We are still working towards a decision, that will be informed by the data that we receive from the study.
@@ -481,7 +481,7 @@ TBA
 We will review this decision upon app store release and additional testing of this language in both the Google Play Store (where we can A/B test language about the app in the app store).
 
 
-# Decision 13: Load Testing
+# Decision 12: Do we need to conduct load testing?
 This question is trying to anticipate the ambiguity of our user volume at the time of app store launch. There are no key constraints to the load testing process other than the lack of historical data about VA mobile app usage under the current market conditions.
 
 ## What did you decide on?
