@@ -233,6 +233,16 @@ values map to the path to the data in the form data. In the above example, the
 `pathParams` will assign `:marriageIndex` in the URL a number based in the
 current item in the `marriages` array.
 
+
+##### Helper: Review page
+This will be an optional page included in the `Router`. The default review page
+provided by Formulate will attempt to render the correct chapters and pages. The
+`Router` will accept a `reviewPage` render prop which will default to one
+provided by Formulate. To exclude a review page from a multi-page form, the
+developer may assign the `reviewPage` prop to `null`.
+
+**TODO:** How will we get the view state for each page into the `ReviewPage`?
+
 #### Sub-module: Form page builder
 Formulate will leverage Formik for much of the form page building. It will
 **re-export Formik components** where it makes sense and **provide light
@@ -321,20 +331,6 @@ _None_
 **TODO:** Things to talk about:
 - Purpose of data migrations (briefly)
 - Form versioning in the SiP meta data
-
-#### Helper: Review page
-This will be an optional page included in the `Router`'s `pageList` if desired.
-The default review page provided by Formulate will attempt to render the correct
-chapters and pages.
-
-**Discussion:** How? In particular, how do we keep this separate from the
-routing? (If we can't, then we can't, but we should start by trying to keep it
-separate.)
-
-**Idea:** Maybe something to do with using the schema in conjunction with the
-page to identify which "display" component to use and what data paths there on
-the page. There'd be a standard for basically all primitivve types with the
-option to override.
 
 #### Helper: Submission validation
 Compare the form data against a JSON schema.
