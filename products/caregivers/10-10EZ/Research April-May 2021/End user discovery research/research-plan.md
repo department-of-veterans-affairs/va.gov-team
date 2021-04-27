@@ -9,7 +9,7 @@ Staging: (https://staging.va.gov/health-care/apply/application/introduction)
 
 The purpose of this discovery phase of research is to gain a broad understanding of why people start the VA Health Care Application form, but do not complete it. As the first form to become digitized on VA.gov, we want to better understand the impact digitization has had on end users (behavioral changes, new/different challenges, what’s easier/ more difficult), and explore ways to improve qualified application submission rates.
 
-The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as our foundation for creating this research plan. We would like to better understand from a human factors perspective what are the blockers, why they are occuring and begin to understand what ways these can be mitigated to improve the qualified submission rate of the Health Care application.
+The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as our foundation for creating this research plan. We would like to better understand from a human factors perspective what are the blockers, why they are occuring, and begin to understand what ways these can be mitigated to improve the qualified submission rate of the Health Care application.
 
 Using the results from this discovery phase of research, further research will be conducted on specific sections of the application form.
 
