@@ -1,6 +1,6 @@
-# Accessibility Documentation - VA Mobile App App Store Release (Working document)
+# Accessibility Documentation - VA Mobile App App Store Release
 
-[Working document for most up to date version](https://docs.google.com/document/d/1jkylJgqzQWVTpQ04uPIEmitzDfWTNw6S381eny-ZS88/edit#heading=h.pnd3s21fyjov)
+[Most up to date info is in TestRail](https://dsvavsp.testrail.io/index.php?/projects/overview/29)
 
 _last updated 4/25/21_
 _This version of the document was shared with 508 office on 4/22/21_
