@@ -1,4 +1,4 @@
-# Research Plan: VSA Caregiver, Discovery phase of Health Care application 10-10EZ, part 2 (end users), April-May 2021
+# Research Plan: VSA Caregiver, Discovery phase of Health Care application 10-10EZ, End users, April-May 2021
 
 ## Background
 
@@ -9,7 +9,7 @@ Staging: (https://staging.va.gov/health-care/apply/application/introduction)
 
 The purpose of this discovery phase of research is to gain a broad understanding of why people start the VA Health Care Application form, but do not complete it. As the first form to become digitized on VA.gov, we want to better understand the impact digitization has had on end users (behavioral changes, new/different challenges, what’s easier/ more difficult), and explore ways to improve qualified application submission rates.
 
-The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as our foundation for creating this research plan. Specifically, the Analytics show high drop-off rates in sections that relate to income and finances (9.95% Annual income, 7.92% Spouse income, 5.33% Financial disclosure), and we’d like to better understand this from a perspective of the actual people who have been deterred by these questions. Additionally, we will use context from our initial [subject-matter expert interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/1:1%20research-plan.md) that will take place prior to this research.
+The data gathered through the Health Care application’s [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) will serve as our foundation for creating this research plan. Specifically, the Analytics show high drop-off rates in sections that relate to income and finances (9.95% Annual income, 7.92% Spouse income, 5.33% Financial disclosure), and we’d like to better understand this from a perspective of the actual people who have been deterred by these questions.
 
 Using the results from this discovery phase of research, further research will be conducted on specific sections of the application form.
 
