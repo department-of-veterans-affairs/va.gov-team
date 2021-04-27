@@ -119,24 +119,11 @@ form. In particular, it will:
 
 To accomplish this, there will be four primary pieces in the routing
 sub-module:
-- State management React context
 - `Router` component
 - `Chapter` component
 - `Page` component
 
-##### State Management React Context
-This React context will be used internally within Formulate. It will:
-- Hold the form data gathered on the form pages
-- Hold the form routes
-- Provide functions for:
-  - Accessing and manipulating the form state
-  - Accessing and manipulating the list of routes
-  - Navigating through the form
-  
-It will be provided by the `Router` component and consumed by `Page` and
-`Chapter`.
-
-##### ``Router` Component
+##### `Router` Component
 **Purpose:**
 The `Router` is at the heart of the routing sub-module. It will hold the routes
 and components to render at each route.
@@ -145,10 +132,8 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Provide the state management React context to its children which may be
-   used to:
-    - Directly modify the routes at runtime by custom components if needed
-    - Access the full form data
+1. Pass the form data to the child `Chapter` and `Page` components
+    - They'll use this as the page's [`initialValues`](https://formik.org/docs/api/formik#initialvalues-values)
       - This is because each page is a separate Formik form, so the `Router` is
         responsible for stitching all these individual forms together into one
         cohesive experience
@@ -166,6 +151,9 @@ _None_
     - This ensures any data changes that might affect the routes are captured
 1. Provide callbacks to navigate forward and backward through the list of
    computed routes
+    - The function to navigate to the next page will also be responsible for
+      running validation, preventing progress if there are validation errors,
+      and updating the form data upon success
 
 ##### `Chapter` Component
 **Purpose:**
