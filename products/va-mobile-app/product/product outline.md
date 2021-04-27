@@ -64,12 +64,12 @@ To determine whether our app is delivering value to users, we will initially be 
 
 Our baseline KPI values come from VA.gov and MHV statistics on usage and transaction times. Our current goal is to match those transaction times in the mobile app store at release.
 
-### Objectives and Key results (OKRs)
+### Themes for Key Metrics
 
 1. Findability
 - Downloads
 - Logins
-- # of appearances in app store searches before and after SEO
+- number of appearances in app store searches before and after SEO
 
 2. Ease of Use
 - Adoption of biometrics
@@ -90,6 +90,7 @@ Our baseline KPI values come from VA.gov and MHV statistics on usage and transac
 - Internal app store mechanisms
 - Accessibility reviews
 
+[Objectives & Key Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/mobile-okrs.md)
 
 ---
 
