@@ -87,7 +87,7 @@ We'll test a [UX Pin prototype](https://preview.uxpin.com/2c99ba26116e28b032d83e
 
 #### What are you looking for in a participant?	  
 
-For our internal study, we'd like to recruit co-workers who are also Veterans. The VAOS team will be managing the external study (docs linked below).
+For our internal study, we'd like to recruit 5 co-workers, ideally who are Veterans. The VAOS team will be managing the external study (docs linked below).
 
 #### What is your recruitment strategy? 	
 
