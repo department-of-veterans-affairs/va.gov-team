@@ -301,7 +301,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
                      
-  - Have already earned a STEM degree and are pursuing a clinical training program for healthcare professionals
+  - Have already earned a STEM degree and are pursuing a covered clinical training program for healthcare professionals
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
 
@@ -313,7 +313,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
                      
-  - Have already earned a STEM degree and are pursuing a clinical training program for healthcare professionals  
+  - Have already earned a STEM degree and are pursuing a covered clinical training program for healthcare professionals  
 
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
