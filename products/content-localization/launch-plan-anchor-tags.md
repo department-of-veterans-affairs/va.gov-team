@@ -7,7 +7,7 @@ Planning:
 - How you'll recruit the right test users: Users don't need to be logged in or have a specific profile to use this feature. Therefore, we are going to launch this behind a feature flag and have members of the team test before we roll out to production.
 - How you'll conduct the testing: use of flipper feature to test internally on staging and then roll-out at 100% to production.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: on staging.va.gov (hidden in prod)
-- Note: if any launch-gating issues are discovered during testing, we will fixe and re-test for 1-2 days. Once we reach the point of no launch-gating items, we will move on to release to the production environment.
+- Note: if any launch-gating issues are discovered during testing, we will fix and re-test for 1-2 days. Once we reach the point of no launch-gating items, we will move on to release to the production environment.
 
 Results:
 
