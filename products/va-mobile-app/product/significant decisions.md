@@ -32,13 +32,13 @@ While our user research surfaced other pain points Veterans experience while int
 
 
 
-# Decision 1: Should the VA build a flagship mobile app?
+## Decision 1: Yes, the VA should build a flagship mobile app
 
-## What did you decide on?
-Yes. After a four-week discovery sprint, followed by 10-weeks of research and validation, VA decided to move forward with building a native mobile app. The alternatives were to not build an app, or build one that isn’t native (such as a PWA or hybrid app).
+### What did you decide on?
+After a four-week discovery sprint, followed by 10-weeks of research and validation, VA decided to move forward with building a native mobile app. The alternatives were to not build an app, or build one that isn’t native (such as a PWA or hybrid app).
 
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 
 User Interviews:
 -  Revealed painpoints for Veterans that a mobile app is uniquely positioned to solve (see section above)
@@ -74,34 +74,34 @@ Technical Research
 -   Experiments with login and accessing APIs demonstrated that it will be possible to leverage existing VA functionality on a mobile app. For example, a mobile app could authenticate using a VA OAuth server and then have access to endpoints that use the same authentication.
     
 
-## What other options did you consider?
+### What other options did you consider?
 
 -   Not building any new mobile apps
     
 -   Improving responsive web experience of existing VA websites
     
 
-## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
 The decision to build an app should be revisited as features are released and metrics are evaluated to determine whether a mobile app is uniquely meeting user needs. For example, the most simplistic measure of this will be if users are not downloading the app, or downloading and removing it. More specific KPIs will be determined as features evolve and these should be monitored closely to ensure the app is adding value.
 
   
 
 
-# Decision 2: How should a VA mobile app be built?
+## Decision 2: A VA mobile app be built using React Native
 
-## What did you decide on?
+### What did you decide on?
 
 VA should build the mobile app using primarily React Native
 
-## Document the people who agreed to the design decision
+### Document the people who agreed to the design decision
 
 -   Charles Worthington
     
 -   Clarice Chan
     
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 
 React Native was chosen because it expedites development and deployment to both iOS and Android platforms, uses similar skillsets to web-based React (as used on VA.gov), and allows the level of UX that Veterans desire.
 
@@ -123,18 +123,18 @@ Based on our user research, it was clear that the app will have custom features 
 Similar skillsets are required for React Native and React, which would make the potential transition for VA.gov developers easier. Developers also enjoyed working in the platform and found it easy to deploy the app to both Android and iOS devices. Using React Native would only require one codebase, whereas a fully native app would require two (one Android and one iOS), effectively doubling the amount of developer effort.
 
   
-
+#
 ## What other options did you consider?
 
 Alternative Approaches and Frameworks:
 
-###   Fully native: Applications are built using the tools and languages provided by the platforms
+#### Fully native: Applications are built using the tools and languages provided by the platforms
     
   -   iOS
     
   -   Android
     
-###   Cross Platform; Applications are built from one codebase that abstracts the device capabilities. The advantage here is that one team can build one app to be delivered to both app stores (iOS and Android).
+#### Cross Platform; Applications are built from one codebase that abstracts the device capabilities. The advantage here is that one team can build one app to be delivered to both app stores (iOS and Android).
         
   -   Xamarin
     
@@ -142,13 +142,13 @@ Alternative Approaches and Frameworks:
   
   -   React Native (our choice for the MVP)
     
-###   Hybrid; Applications are built using familiar web development tools, and the app runs as a web app within a native app wrapper. Hybrid apps containing a JavaScript-runtime are built and submitted to the app stores. An example is the Twitter mobile app, which uses much of the same UI components as twitter.com.
+#### Hybrid; Applications are built using familiar web development tools, and the app runs as a web app within a native app wrapper. Hybrid apps containing a JavaScript-runtime are built and submitted to the app stores. An example is the Twitter mobile app, which uses much of the same UI components as twitter.com.
     
   -   Ionic
        
   -   Flutter
     
-###   PWA (Progressive Web App); Not actually a mobile app at all, but rather a web application that runs in the mobile browser and can be “pinned” to the device home screen to look like an app. A popular example is app.starbucks.com.
+#### PWA (Progressive Web App); Not actually a mobile app at all, but rather a web application that runs in the mobile browser and can be “pinned” to the device home screen to look like an app. A popular example is app.starbucks.com.
 
   -   Ionic
     
@@ -189,13 +189,13 @@ We evaluated frameworks within each approach by considering:
   
 
 
-## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
 This decision to use React Native should be revisited as features become more complex. With more customization and upgrades, it is likely the VA will reach a point where a rebuild is required, and the app would be re-built in iOS and Android using native technologies like Swift and Kotlin.
 
-# Decision 3: Initial Feature Set for MVP
+## Decision 3: Initial Feature Set for MVP
 
-## What did you decide on?
+### What did you decide on?
 The initial feature set will focus on: 
 - Accessibility
 - Onboarding
@@ -209,13 +209,13 @@ The initial feature set will focus on:
 - Veteran Crisis Line
 - Appointments
 - Secure Messaging- see MVP feature set [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/secure-messaging/SM%20Mobile%20MVP%20Feature%20Recommendations.pdf)
-## Document the people who agreed to the design decision
+### Document the people who agreed to the design decision
 
 -   Charles Worthington
     
 -   Clarice Chan
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 
 There were three deciding factors to this decision:
 
@@ -231,7 +231,7 @@ As far as technical viability for an MVP, we found that there is unique technica
 
 Combining these three takeaways, we decided to include all of the table stakes features in the MVP and focus on claims for the first release. This will let us get something out the door quickly to test its viability and then we can add health features and dive into the technical complexity with more time.
 
-## What other options did you consider?
+### What other options did you consider?
 
 There is a wide range of features that we considered but the most significant features that we considered but did NOT include in the MVP are:
 
@@ -241,32 +241,32 @@ There is a wide range of features that we considered but the most significant fe
 
 We opted not to include them because of their (1) technical complexity and (2) the ongoing health tools work.
 
-## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
 - If the timeline for the MVP is extended and we are able to build additional health features
 - If usability testing demonstrates that users simply will not adopt an MVP that does not include health features
 
 
-# Decision 4: Use SSOe OAuth for authentication 
+## Decision 4: Use SSOe OAuth for authentication 
 _Note: Implementation details relating to the decision is under review in [this PR](https://github.com/department-of-veterans-affairs/va.gov-team/pull/12482)_
 
-## Describe the problem this decision is trying to solve.
+### Describe the problem this decision is trying to solve.
 The VA mobile app needs to authenticate users. What mechanism should the app use for sign in?
 
-## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+### Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
 - Mobile apps are well suited to using OAuth for anuthetication
 - There are two readily available OAuth servers in the VA.gov domain: Okta (via Lighthouse) and SSOe
 
-## What did you decide on?
+### What did you decide on?
 The VA mobile app will use SSOe OAuth to authenticate users into the app.
  
-## What other options did you consider?
+### What other options did you consider?
 - Okta OAuth
 - VA.gov / SAML approach 
 
 See initial set of options [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/tech-research/20200319%20Login%20Recommendations.md)
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 1. **Mobile-specific:** OAuth is a standard authentication method for mobile apps that is flexible, whereas SAML was not created with modern mobile apps in mind and lacks flexibility for non-web applications.
 
 2. **Cost:** Okta has a cost per-user, and given we expect the population of users who will use the app will be large (more akin to the number of users that use VA.gov than the number of users that connect VA.gov to third-party apps), we expect that cost could be high.
@@ -275,75 +275,81 @@ See initial set of options [here](https://github.com/department-of-veterans-affa
 
 4. **VA trends and momentum:** There has been a year-long effort to migrate VA.gov to SSOe for authentication and given the mobile app aligns most closely with VA.gov (rather than third-party consumers such as Apple Health), SSOe seemed like the appropriate direction for the mobile to go.
 
-## Document the people who agreed to the design decision (and their roles on the project).
+### Document the people who agreed to the design decision (and their roles on the project).
 We are continuing to socialize this decision and awaiting a designated Tech Lead from VA, so for now we have gotten approval from:
 
 - Michael Fleet (VSP Tech Lead)
 - John Paul Ashenfelter (VSP Tech Lead)
 
 
-## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 - If VA.gov changes their authentication mechanism, the mobile app will most likely need to change as well.
 - If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond only using OAuth.
 
 
-# Decision 5: Build Mobile API inside of vets-api
+## Decision 5: Build Mobile API inside of vets-api
 
-## Describe the problem this decision is trying to solve.
+### Describe the problem this decision is trying to solve.
 The VA Mobile app needs an API. Since VA.gov is powered by vets-api and VSP, it seems like a natural fit for the mobile app to be powered by APIs in the same space.
 
-## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+### Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
 - many backend integrations are already configured in vets-api, building them separately would be time-consuming
 - VSP is in place for just this type of work
 - the API must be versioned to support multiple app releases with ongoing features and improvements
 - every app release creates a virtual "api version" that must remain operational until that app version is sunsetted (which should be a long time into the future to support users with old devices)
 
-## What did you decide on?
+### What did you decide on?
 - we will build the mobile API inside of vets-api, under the `/mobile` namespace
 
-## What other options did you consider?
+### What other options did you consider?
 We considered several other options, briefly listed here, from most to least practical:
 1. connect the mobile app to VA.gov endpoints in-place, adding versioning to retain backwards-compatibility
 2. building a GraphQL (or GraphQL-like) endpoint to handle flexible requests from mobile apps (and VA.gov)
 3. build a mobile API _outside_ and _in front of_ vets-api, proxying the VA.gov responses to mobile
 4. build a mobile API separately from vets-api, re-building all the backend integrations
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 Availability of backend intwgrations, as well as support from the VSP team to build inside of vets-api
 
-## Document the people who agreed to the design decision (and their roles on the project).
+### Document the people who agreed to the design decision (and their roles on the project).
 ([design doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-08-17-mobile-api-design-doc.md) is still in Draft phase)
 - Andrew Gunsch
 - John Paul Ashenfelter
 - Michael Fleet
 
-## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 We feel like this decision will be rather permanent, as much as the VSP is permanent. If mobile app usage increases to a point that vets-api can not handle, then we could consider extracting the mobile api presentation layer into a separate project, possibly similar to option 4 above.
 
 
-# Decision 6: Mobile OS Support: which mobile operating systems will the app run on?
+## Decision 6: Mobile OS Support: which mobile operating systems will the app run on?
 When building a mobile app, minimum OS compatibility must be selected. Supporting older operating systems allows more potential users to be able to run the app, but also may cause support issues as older hardware and unsupported operating systems need to be maintained.
 Supporting only newer operating systems reduces the maintenance complexity of the app, but also reduces the number of people who may install the app. A balance must be achieved here.
-## What did you decide on?
+
+### What did you decide on?
 - iOS: support version 12 (previos), 13 (current), and 14 (beta, to be released in October 2020)
 - Android: support API version 26 and above
-## Document the people who agreed to the design decision (and their roles on the project)
+
+### Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (DEPO)
-## What was the deciding factor for your decision?
+
+### What was the deciding factor for your decision?
 We considered hardware and OS mantenance issues more heavily than a larger user base. By accepting more users with older OS's, we will also be accepting more maintenance issues. Also noted was that many folks keep older Android devices for web browsing only, so the GA stats may be skewed older.
-## What other options did you consider?
+
+### What other options did you consider?
 We started with the thought of supporting API 21, which would cover most users from GA analysis.
-## When, or under what conditions, would you recommend revisiting this design decision?
+
+### When, or under what conditions, would you recommend revisiting this design decision?
 This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS.
 
-# Decision 7: Device Testing Matrix
-## Describe the problem you are trying to solve.
+## Decision 7: Device Testing Matrix
+
+### Describe the problem you are trying to solve.
 The VA Mobile App will need to test builds and UI accross a wide rage of screen sizes and operating system versions. We will need to decide what real devices are needed for testing.
 
-## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+### Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
 The VA mobile app will be on Android devices with Android Operating System (OS) 26+ and on iOS devices OS version 12+. We will need to find an array of devices that hit all of these OSes as well as hit a large number of viewport sizes. The goal is to maximize the cross sections of these constraints with the least number of devices. 
 
-## What did you decide on?
+### What did you decide on?
 VA Mobile app team has decided to use the following real devices for testing: 
 
 | OS      | DEVICE                     | SCREEN SIZE |
@@ -360,27 +366,27 @@ VA Mobile app team has decided to use the following real devices for testing:
 
 These devices should cover the range of OSes and screen sizes to maximize the opportunity to fix any resolution or OS issues within the app before release. 
 
-## Document the people who agreed to the design decision (and their roles on the project)
+### Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (VA DEPO)
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 - Test devices should cover all of the current OS versions the app is targeting
 - Test devices should cover the widest array of screen viewport sizes possible
 - Test devices should not need to be rooted or jailbroken to load the target OS. It should have received the update from the phone vendor, not the user
 - For Android, even though the highest used devices were Samsung, it is important for VA to test devices from other companies as well (Motorola, Google and LG)
 
-## What other options did you consider?
+### What other options did you consider?
 A device at 320x658 was searched for to find the bottom-end of screen widths, but no devices we found were avaiable on Android version 26+. We decided to move these resolution tests to an emulated device and to add the Samsung Galaxy S7 to pick up the 360x640 resoltion sizes. 
 
-## When, or under what conditions, would you recommend revisiting this design decision?
+### When, or under what conditions, would you recommend revisiting this design decision?
 Recommendation to revisit this matrix any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. **Basically once or twice a year.** Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing.
 
 
 
-# Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed to use the app
+## Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed to use the app
 Users can sign in using their account from one of three supported identity providers (DSLogon, ID.me, MHV). An account's level of verification determines their LOA classification: LOA1 (unverified), LOA2 (verified), LOA3 (fully verified with ID-proofing and/or MFA). We need to decide the minimum LOA required to allow access to the credentialed areas of the app.
 
-## What did you decide on?
+### What did you decide on?
 LOA3.
 
 _Note: vets-api considers "LOA2" and "LOA3" to be equal for the purposes of access control._
@@ -399,10 +405,10 @@ Table of sign-in types
 
 We are considering adding some messaging on the login screen to set expectations with users before they enter the sign in flow.
 
-## Document the people who agreed to the design decision (and their roles on the project)
+### Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (VA DEPO)
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 There were multiple factors that led to this decision:
 - The SSOe OAuth flow (and VA Access pages) define these rules. The mobile team does not have strict control over that process or the ability to make major changes to the process. SSOe does not allow LOA1 users to exit the sign in flow.
 - DSLogon no longer supports LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3. This helps us.
@@ -410,98 +416,100 @@ There were multiple factors that led to this decision:
 
 Since the app is meant for users to get personalized task done quickly, not to browse documents or submit forms, there is currently no reason to design for LOA1 users.
 
-## What other options did you consider?
+### What other options did you consider?
 - Allow LOA1 users into the app, but restrict them from viewing personal information. This would require in-app ID-proofing to keep the app from being worthless to the LOA1 cohort. In-app ID-proofing was deemed to be a moderate lift, and the frustrating experience of LOA1 users was also considered: excitement in discovering the app, high effort sign-in process, only to be presented with no personal info and being asked to "do more". Allowing LOA1 is also a high-lift for the IAM team to modify SSOe OAuth service.
 
 - Only allow DSLogon and ID.me LOA3 users. This was discounted because it would prevent the high numbers of MHV users from accessing the app. 
 
-## When, or under what conditions, would you recommend revisiting this design decision?
+### When, or under what conditions, would you recommend revisiting this design decision?
 This decision should be revisited once the MHV flow is able to be tested and confirmed to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. If VA.gov changes their access policies, the app should consider changing as well.
 
-# Decision 9: Include Secure Messaging for App Store Launch
-## What did you decide on?
+## Decision 9: Include Secure Messaging for App Store Launch
+### What did you decide on?
 After discussing feature sets with Veterans and stakeholders, as well as assessing the technical APIs available from the MHV team, we decided include a version of secure messaging with key features on the mobile app for app store release.
 
-## Document the people who agreed to the design decision (and their roles on the project)
+### Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (Product Owner)
 - Ayush Chakravarty (Product Manager)
 - Ashley Matthews (Product Manager, Secure Messaging)
 - Martha Wilkes (Designer)
 
-## What other options did you consider?
+### What other options did you consider?
 The alternative was to focus on claims and appeals, without including secure messaging and instead including it in later iterations of the app.
 
-## Deciding Factor
+### Deciding Factor
 We ultimately saw that an app without secure messaging may have been a fairly narrow feature set for our broader veteran target user base.
 
-## When, or under what conditions, would you recommend revisiting this design decision?
+### When, or under what conditions, would you recommend revisiting this design decision?
 After app store release, once we have additional usage data, bug fixes, and UX feedback, we should revisit the approach to secure messaging within the app.
 
-# Decision 10: App Store release to be in May/June
+## Decision 10: App Store release to be in May/June
 We are working to determine waht release will look like for the VA mobile app in Apple and Google app stores. How do we release, and what kind of visibility is required?
 
-## What did you decide on?
+### What did you decide on?
 We expected that there would be a quiet release in May. However, the VA mobile app work has become significantly more visible to a wider swath of stakeholders since March/April, which has changed our approach. We now hope to extend user acceptance testing and ramp up efforts to strengthen our initial release and reduce risks of any performance problems.
 
-## Document the people who agreed to the design decision (and their roles on the project)
+### Document the people who agreed to the design decision (and their roles on the project)
 - Leanna Miller (Product Owner)
 - Bridget Hapner (Design Lead)
 - Ayush Chakravarty (Product Lead)
 - Ashley Matthews (Product Manager)
  
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 The increased visibility and excitement in the VA Mobile App led the team to appraoch this more carefully.
 
-## What other options did you consider?
+### What other options did you consider?
 The alternative was to launch with no publicity and do so earlier, and take on the rsik that accompanies limited testing. We would anticipate more bugs and user issues after app store release, which would have been too risky given the current stakeholder climate.
 
-## When, or under what conditions, would you recommend revisiting this design decision?
+### When, or under what conditions, would you recommend revisiting this design decision?
 We are constantly revisiting this decision as we come closer to our general launch date, and our findings from user acceptance testing (UAT) will largely inform our approach to app store release.
 
-# Open Questions, with decisions pending:
-
-# Decision 11: Should we co-brand parts of the app?
-We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheVet (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
-
-## What did you decide on?
-We are still working towards a decision, that will be informed by the data that we receive from the study.
-
-## Document the people who agreed to the design decision (and their roles on the project)
-- Leanna Miller (Product Owner)
-- Ayush Chakravarty (Product Manager)
-- Alex Taylor (Design Lead)
-
-## What was the deciding factor for your decision?
-The data from our study will determine the best path forward, to either brand with MHV features or to abstain from such branding entirely, whichever benefits Veterans' experience more.
-
-## What other options did you consider?
-TBA
-
-## When, or under what conditions, would you recommend revisiting this design decision?
-We will review this decision upon app store release and additional testing of this language in both the Google Play Store (where we can A/B test language about the app in the app store).
-
-
-# Decision 12: Do we need to conduct load testing?
+## Decision 12: Do we need to conduct load testing?
 This question is trying to anticipate the ambiguity of our user volume at the time of app store launch. There are no key constraints to the load testing process other than the lack of historical data about VA mobile app usage under the current market conditions.
 
-## What did you decide on?
+### What did you decide on?
 We opted to limit our load testing since our estimated user count (at a maximum of about 5,000 users) is relatively low for beginners, and per our conversations with Dror Matalon, engineering director, even if our user volume were three orders of magnitude higher, we would still not require load testing given the existing infrastructure. 
 
-## Document the people who agreed to the design decision (and their roles on the project)
+### Document the people who agreed to the design decision (and their roles on the project)
 - Leanna Miller (Product Owner)
 - Ayush Chakravarty (Product Manager)
 - Alastair Dawson (Developer)
 - Jonathan Julian (Engineering Lead)
 - Dror Matalon (Engineering Director)
 
-## What was the deciding factor for your decision?
+### What was the deciding factor for your decision?
 The update from the VA Engineering Director, Dror Matalon, confirmed that we did not require load testing given the estimates of user volume.
 
-## What other options did you consider?
+### What other options did you consider?
 The other option was to conduct load testing./
 
-## When, or under what conditions, would you recommend revisiting this design decision?
+### When, or under what conditions, would you recommend revisiting this design decision?
 As our user base grows, we will certainly revisit the decision to not do load testing. Specifically, if usage grows by an order of magnitude more than expected, we will begin preparations to do load testing.
+
+# Open Questions, with decisions pending:
+
+## Decision 11: Should we co-brand parts of the app?
+We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheV#et (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
+
+### What did you decide on?
+We are still working towards a decision, that will be informed by the data that we receive from the study.
+
+### Document the people who agreed to the design decision (and their roles on the project)
+- Leanna Miller (Product Owner)
+- Ayush Chakravarty (Product Manager)
+- Alex Taylor (Design Lead)
+
+### What was the deciding factor for your decision?
+The data from our study will determine the best path forward, to either brand with MHV features or to abstain from such branding entirely, whichever benefits Veterans' experience more.
+
+### What other options did you consider?
+TBA
+
+### When, or under what conditions, would you recommend revisiting this design decision?
+We will review this decision upon app store release and additional testing of this language in both the Google Play Store (where we can A/B test language about the app in the app store).
+
+
+
 
 ------------------------------
 # Other Decisions we need to elaborate on:
