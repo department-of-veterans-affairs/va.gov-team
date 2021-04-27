@@ -61,7 +61,7 @@ A task analysis with Veterans or Veteran POAs will be conducted remotely with Zo
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit remote users. We would like to interview 5-7 Veterans or POAs. 
+We would like to work with Perigean to recruit remote users. We would like to schedule interviews with 8-12 Veterans or POAs. 
 
 **Must have for participants**
 
