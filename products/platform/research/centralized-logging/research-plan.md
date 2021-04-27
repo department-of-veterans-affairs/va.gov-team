@@ -1,43 +1,46 @@
 # Research Plan for VSP Ops, Centralized Logging, Q2 2021
 
 ## Goals	
-1. What product [tool/service/document/process] & VSP team are you doing this research for? VSP Operations team.  Usabiliy testing & feedback on implementation of centralized logging initially in staging environments. More info: https://github.com/department-of-veterans-affairs/va.gov-team/issues/17389
+1. What product [tool/service/document/process] & VSP team are you doing this research for? VSP Operations team.  Usabiliy testing & feedback on implementation of centralized logging initially in staging environments. 
+More info: https://github.com/department-of-veterans-affairs/va.gov-team/issues/17389
 	
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-Get feedback from VFS engineers on: 
-- Can you get to the critical info you need w/o Ops help?
-- Is there info missing from the logs that you can’t access?
-Potential Success Metrics
-- # of Loki users vs AWS Cloud Watch
-- # of related support requests
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? Get feedback from VFS engineers on: 
+* Can you get to the critical info you need w/o Ops help?
+* Is there info missing from the logs that you can’t access?
+Potential Success Metrics:
+* Number of Loki users vs AWS Cloud Watch
+* Number of related support requests
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
-
 ## Method	
-What method of research are you planning? 	
+1. What method of research are you planning? 	
 Sample Methodologies: Directed interviews; ethnographic interviews; contextual inquiry; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes;
-Also mention: in-person moderated, remote moderated, remote unmoderated
+Also mention: in-person moderated, remote moderated, remote unmoderated	
 
-  	
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (Zoom, GoToMeeting, etc.)*	
+
 4.	What will you be testing? *(Tool, process, design, documentation, etc. Provide links if possible.)* 	
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
 (Mention: Number of participants, practice areas, VFS team, VFS product. Please keep in mind that we have a limited number of VFS teams, and we should avoid going to the same people and teams back-to-back.)
+
 2.	What is your recruitment strategy? 	
 (Usually it is a Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	
+
 ## When? 	
 1.	Timeline: What dates do you plan to do research? Early May
+
 2.	Prepare: When will the thing you are testing be ready? Early May 2021 	
-4.      Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-5.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
-6.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+3.      Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
+4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
