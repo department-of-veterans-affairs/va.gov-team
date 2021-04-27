@@ -101,7 +101,7 @@ If they need a SSN, use 548-79-5555
 
 Wonderful! I have a few questions about your experience filling out this form.
 
-**Overall 
+**Overall** 
 
 - What did you think of the overall experience in completing this form?
 - Did you feel unprepared to answer any specific section/s?
