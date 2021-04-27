@@ -178,19 +178,18 @@ A `Page` is the required wrapper around form page contents.
 A `Page` may be the child of either `Router` directly or `Chapter`.
 
 **Responsibilities:**
-- If a `render` prop is passed, render it
-  - This is used to bypass the default `<Formik>` render
-- If no `render` prop is passed
+- If no `overrideFormik` prop is passed
   - Render a
   [`<Formik>`](https://formik.org/docs/api/formik#initialvalues-values)
   component and pass it some default props for `initialValues`, `validate`, and
   `onSubmit`
-  - **TODO:** talk about the anonymous function component in the example below;
-    basically it's the same props passed to both the `render` prop or the child
-    of the default-rendered `Formik`
-  - **TODO:** Figure out whether we need to always require that function
-    component or if we can also support not having that passthrough layer
+- Render the children, passing them the extra props for form state
   - For an example usage, see [below](#functionality-array-pages)
+  - **Caveat:** This means when the children of `Page` are a collection of
+    `<Field>`s (or similar) instead of the functional component in the example
+    below, they'll all have "extra" props for the form context
+    - This is the simplest way to support both simple and complex form pages,
+      but may be subject to change later if we can figure out a better way
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
 
