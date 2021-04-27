@@ -53,7 +53,7 @@ Before we start, I want to go over a few things:
 
 ## Warm-up Questions - 10 minutes
 
-Let’s start with a few questions...          *(Veteran / Caregiver; Phone / Computer; Notetaker: ______________)*
+Let’s start with a few questions...          *(Veteran / Caregiver / confirm? Phone / Computer)*
 
 - *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
 
@@ -244,3 +244,10 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
 Thank you so much again, and enjoy the rest of your day!
+
+## After Session 
+- Click "End" on zoom website
+- Download recordings
+- Download notes
+- Debrief to my spreadsheet
+
