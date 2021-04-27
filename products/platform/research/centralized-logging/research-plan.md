@@ -1,11 +1,17 @@
 # Research Plan for VSP Ops, Centralized Logging, Q2 2021
 
 ## Goals	
-1. What product [tool/service/document/process] & VSP team are you doing this research for? (VSP teams: Product Support, Content & IA, Insights & Analytics, Operations, Service Design, Front-End Tools, Back-End Tools, Identity, Design System, Testing Team, Contact Center Team)
+1. What product [tool/service/document/process] & VSP team are you doing this research for? VSP Operations team.  Usabiliy testing & feedback on implementation of centralized logging initially in staging environments. More info: https://github.com/department-of-veterans-affairs/va.gov-team/issues/17389
 	
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+Get feedback from VFS engineers on: 
+- Can you get to the critical info you need w/o Ops help?
+- Is there info missing from the logs that you can’t access?
+Potential Success Metrics
+- # of Loki users vs AWS Cloud Watch
+- # of related support requests
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
@@ -27,12 +33,11 @@ Also mention: in-person moderated, remote moderated, remote unmoderated
 2.	What is your recruitment strategy? 	
 (Usually it is a Slack message directly to the team or team members. Contact the Design Lead if you need help getting in touch with anyone.)	
 ## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+1.	Timeline: What dates do you plan to do research? Early May
+2.	Prepare: When will the thing you are testing be ready? Early May 2021 	
+4.      Length of Sessions: How long do you estimate each session will be? (This helps with scheduling) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
+5.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
+6.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need help finding someone to take notes for you, contact the Design Lead** 	
@@ -41,7 +46,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening:	
 - Project point of contact:	
 - Participant(s) for pilot test:	
-- Note-takers:	
+- Note-takers:	Rebekah Hickey
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
