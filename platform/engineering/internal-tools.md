@@ -248,7 +248,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 ### Connecting your network to the proxy
 There are two alternatives to connecting your PC's network to the proxy. (Mac OS users only):
 
-1. Use the `socks.sh` script: a script will set up OSX with a system-level proxy
+1. Use the [socks.sh script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks): this will set up OSX with a system-level proxy
 1. Install an app called [CoreTunnel](https://coretunnel.app/) that does the same thing as the `socks.sh` script in a more user-friendly way. See this [video](https://www.youtube.com/watch?v=fSuN9LhkB5o) for setup instructions.
 
 For Windows users, or those who don't mind being limited to Chrome and Firefox, the following option is also available:
