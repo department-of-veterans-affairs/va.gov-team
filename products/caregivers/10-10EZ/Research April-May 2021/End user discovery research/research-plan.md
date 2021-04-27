@@ -32,7 +32,7 @@ The goals of this user research study are to:
 The research questions we want to address are: 
 
 - What experiences (personal, social, and medical) bring the user to fill out the application?
-  - What other places did the user consider/ turn to for healthcare (outside of the VA).
+  - What other places did the user consider/ turn to for healthcare (outside of the VA)?
 - How well does the introduction prepare users to understand what they need in order to apply?
 - Within the application form, what section(s) stop users from completing the form?
 - Does the task analysis reflect similar drop-off points as the analytics?
@@ -104,6 +104,7 @@ or
 
 Session length: 1 hour
 Please leave 15 minutes in between each session
+
 Notetaking: Please designate someone from Perigean to take notes
 
 Team Availability | Time (EST)
