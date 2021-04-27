@@ -22,15 +22,16 @@
 </details>
 
 ## Wednesday, April 28
+
+- Defects caused by missing expected data
+  - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
+  - Content, such as [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
+- Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
 - Meta tags for VAMC 
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE on overriding in CMS
 - Default for Type of care attribute
-- Defects caused by missing expected data
-  - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
-  - Content, such as [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
-- Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
   
 ## Wednesday April 21
 
