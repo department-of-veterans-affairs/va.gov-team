@@ -4,10 +4,13 @@ _This list will be updated with links to documentation as needed_
 ## VA Reviews & Sign offs
 
 - Accessibility Review
+  - 4/21/21 Martha Wilkes and Meli Manak presented a11y audit report (linked above) to 508 office
+  - 4/22/21 Martha Wilkes confirmed that full 508 audit can happen post-launch
 - Contact Center Review
 - Privacy & Security Review
 - Content Review
 - ATO
+  - 4/27/21 all materials submitted to Chris Johnston for review
 
 ## Materials needed for Apple & Google app stores
 - User-facing materials (written)
@@ -32,3 +35,4 @@ _This list will be updated with links to documentation as needed_
 - Contact Center protocol for App Store monitoring & flagging
 - Post-launch analytics reporting
 
+  
