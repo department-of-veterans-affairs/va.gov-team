@@ -464,7 +464,7 @@ The alternative was to launch with no publicity and do so earlier, and take on t
 ### When, or under what conditions, would you recommend revisiting this design decision?
 We are constantly revisiting this decision as we come closer to our general launch date, and our findings from user acceptance testing (UAT) will largely inform our approach to app store release.
 
-## Decision 12: Do we need to conduct load testing?
+## Decision 11: Do we need to conduct load testing?
 This question is trying to anticipate the ambiguity of our user volume at the time of app store launch. There are no key constraints to the load testing process other than the lack of historical data about VA mobile app usage under the current market conditions.
 
 ### What did you decide on?
@@ -488,7 +488,7 @@ As our user base grows, we will certainly revisit the decision to not do load te
 
 # Open Questions, with decisions pending:
 
-## Decision 11: Should we co-brand parts of the app?
+## Decision 12: Should we co-brand parts of the app?
 We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheV#et (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
 
 ### What did you decide on?
