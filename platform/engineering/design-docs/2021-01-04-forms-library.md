@@ -154,6 +154,8 @@ _None_
     - The function to navigate to the next page will also be responsible for
       running validation, preventing progress if there are validation errors,
       and updating the form data upon success
+1. Accept an `autoSaveForm` prop and pass it to the `Chapter` and `Page`
+   components to use when creating a `Formik` form for the page
 
 ##### `Chapter` Component
 **Purpose:**
@@ -245,10 +247,80 @@ It should be possible to use Formik directly without any issues. The form page
 builder sub-module intends to make using the design system with Formik simpler.
 
 #### Sub-module: Save-in-progress
-Things to mention:
-- How it'll handle data migrations
-  - Because the fundamental problem of changing a form after the data has been
-    saved is still there
+Pieces of the save-in-progress are:
+- `SaveInProgress` component
+  - Adds `SiPIndicator` to each page
+  - Auto-saves the form
+- `SiPIndicator` component
+  - Allows users to manually save the form
+  - Shows the form save state (saved, saving, error, etc.)
+- Re-usable `FormSaved` component
+  - To be used in a `<Page overrideFormik path="/form-saved">`
+- Data migration functionality
+
+##### Component: `SaveInProgress`
+**Purpose:** This is the primary component for enabling the save in progress
+functionality for a form.
+
+**Usage requirements:**
+This component must be wrap the `Router` or `Formik` components so we can pass
+an `autoSaveForm` prop to it to be hooked into `Formik`'s `handleChange`
+callback.
+
+**Responsibilities:**
+- Add the `SiPIndicator` to the bottom of each form page
+- Auto-save the form when form data is updated
+- Pass an `autoSaveForm` prop to its children
+- Save the form when `autoSaveForm` is called
+
+**Usage example:**
+```jsx
+<SaveInProgress>
+  {autoSaveForm => (
+    <Formik handleChange={autoSaveForm} />
+  )}
+</SaveInProgress>
+```
+
+##### Component: `SiPIndicator`
+**TODO:** Rename this thing. Ideas?
+
+**Purpose:** To indicate when the form has been auto-saved and to provide a link
+to save and exit the form.
+
+**Usage requirements:**
+This must appear as a descendant of `SaveInProgress`.
+
+**Responsibilities:**
+- Call an API endpoint to save the form data
+- Navigate to `/form-saved`
+
+**Location on the page:** This component will appear at the bottom of every page
+except for those it is configured not to. The default routes which it will not
+appear will be:
+- `/introduction`
+- `/review-and-submit`
+- `/confirmation`
+- `/form-saved`
+
+**A note on usage:** The primary usage of this component is internal to
+Formulate, used by `SaveInProgress`, but it may be used separately if desired.
+
+##### Component: `FormSaved`
+**Purpose:** To make the common `/form-saved` route easy to add to an
+application.
+
+**Usage requirements:**
+_None_
+
+**Responsibilities:**
+- Render some text
+- Render a link to continue the form
+
+##### Data migrations
+**TODO:** Things to talk about:
+- Purpose of data migrations (briefly)
+- Form versioning in the SiP meta data
 
 #### Helper: Review page
 This will be an optional page included in the `Router`'s `pageList` if desired.
