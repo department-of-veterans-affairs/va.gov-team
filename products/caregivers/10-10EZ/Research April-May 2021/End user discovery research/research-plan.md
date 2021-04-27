@@ -102,8 +102,7 @@ or
 
 **Desired Timeline: May 4 - May 6, 2021**
 
-Session length: 1 hour
-Please leave 15 minutes in between each session
+Session length: 1 hour. Please leave 15 minutes in between each session
 
 Notetaking: Please designate someone from Perigean to take notes
 
