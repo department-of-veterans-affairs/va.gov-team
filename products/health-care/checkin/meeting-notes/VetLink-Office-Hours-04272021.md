@@ -1,5 +1,5 @@
-April 27, 2021 
-VetLink Open Office Hours
+# VetLink Open Office Hours
+April 27, 2021
 
 - Shawn Adams announced the phasing out of Vetlink and the new product to all the current people using Vetlink.
   - Let everyone know that it will be available on the VA digital front door as a mobile solution.
