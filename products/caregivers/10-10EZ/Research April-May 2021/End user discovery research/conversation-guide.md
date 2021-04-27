@@ -53,7 +53,7 @@ Great. Now we're really ready to begin!
 - Tell me a little bit about how you chose this healthcare option?
   -  Did any experiences (personal, social, and medical) bring influence this decision?
   -  What other places did you consider for healthcare (outside of the VA).
-- (If not already clear) Have you ever filled out the VA Health Care application either partially or fully?
+- (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
   - Do you have any lasting impressions of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
 
 
