@@ -64,7 +64,7 @@ If you apply and you're not eligible, your application will be denied.
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
   * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification.   
   [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf) 
-  * You've already earned a STEM graduate or undergraduate degree and are pursuing a clinical training program for healthcare professionals.   
+  * You've already earned a STEM graduate or undergraduate degree and are pursuing a covered clinical training program for healthcare professionals.   
   [See eligible degree programs]() 
 
 
