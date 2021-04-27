@@ -94,7 +94,7 @@ Reference Material
 ### Product POCs: 
 
 - Jesse House - Product Manager for Platform Operations (Ad Hoc)
-- Demian Ginther - Engineering Lead for Platform Operations (Ad Hoc)
+- Demian Ginther - Team Lead for Platform Operations (Ad Hoc)
 
 ### Stakeholders
 
