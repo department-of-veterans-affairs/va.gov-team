@@ -114,7 +114,7 @@ If they need a SSN, use 548-79-5555
 - On sections that cause pause- ask the participant, "why is this information being requested?"
 - Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause
     - What resources would you use to overcome blockers?
-- What do expect to happen next?
+- What do you expect to happen next?
 
 ## Post task questions - 10 minutes
 
