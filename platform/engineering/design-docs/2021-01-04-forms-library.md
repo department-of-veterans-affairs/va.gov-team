@@ -198,7 +198,7 @@ pages, consider the following example:
     <FieldArray
       name="marriages"
       render={arrayHelpers => (
-        <Field name={`marriages.${pathParams.marriageIndex}.name.first`}
+        <Field name={`marriages.${pathParams.marriageIndex}.name.first`} />
       )}
     />
   )}
