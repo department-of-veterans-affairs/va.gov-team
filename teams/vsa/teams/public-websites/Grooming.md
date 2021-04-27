@@ -43,6 +43,7 @@
 - [ ] Design Feedback - Staging Review [Public Website, Campaign Landing Page / Trust (VEO)] [#23843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23843)
 - [ ] Front end Tools "content build Seperation" - https://dsva.slack.com/archives/C5HP4GN3F/p1617738055063600
 - [ ] CLP Redirect Request: VA.gov/trust [#23783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23783)
+- [ ] [Tech-Debt] Back to Top Component [#23878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23878)
 - [ ] Bug: Meta titles on Outreach hub pages are not using standard formatting and style [#23082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23082)
 - [ ] [AXE-CORE]: Outreach & Events - Links must have discernible text [#23206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23206)
 - [ ] [FE] Build "How do you rate..." page component [#14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302)
