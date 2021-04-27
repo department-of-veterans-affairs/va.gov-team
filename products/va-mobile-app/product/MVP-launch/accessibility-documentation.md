@@ -1073,11 +1073,7 @@ Accessibility is a major requirement for the VA Mobile App and requires addition
 
 ## Tracking Requirements
 
-While the 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Testing Protocol"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Testing Protocol](#heading=h.603d6synk3k1) helps guide requirements and the overall testing process, we have also built in feature-specific accessibility requirements into the frontend backlog to guide frontend development activities. At the feature level, this typically includes specifying accessibility labels, roles, states, and content headers. Just like any other functional requirement, these are defined as individual build requirements so that they are developed and tested to specification. Ultimately, these requirements (or “Acceptance Criteria”) are translated into test cases to guide manual testing. 
+While the Testing Protocolhelps guide requirements and the overall testing process, we have also built in feature-specific accessibility requirements into the frontend backlog to guide frontend development activities. At the feature level, this typically includes specifying accessibility labels, roles, states, and content headers. Just like any other functional requirement, these are defined as individual build requirements so that they are developed and tested to specification. Ultimately, these requirements (or “Acceptance Criteria”) are translated into test cases to guide manual testing. 
 
 
 ## Example | Backlog ticket with feature-level accessibility requirements
