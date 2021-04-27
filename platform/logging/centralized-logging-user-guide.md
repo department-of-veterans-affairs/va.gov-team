@@ -84,6 +84,8 @@ To recap, the above image is showing us:
 - From all revproxy instances, that…
 - Contain `"Error"` over the past 12hrs
 
+**NOTE:** You can also transform your logs in the query as well, see [HERE](https://grafana.com/blog/2020/10/28/loki-2.0-released-transform-logs-as-youre-querying-them-and-set-up-alerts-within-loki/) for more info, and check back for additional examples and resources coming soon. 
+
 **Step 4: Advanced, statistical queries**
 
 _TBD - Coming soon!_
