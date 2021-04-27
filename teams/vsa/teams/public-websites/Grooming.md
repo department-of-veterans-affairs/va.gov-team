@@ -37,6 +37,7 @@
 ### Discussion Topics/Grooming 
 
 - [ ] DSL maintenance downtime [#23796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23796) 
+- [ ] CLP/Trust Staging Review Punch List [#23856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23856)
 - [ ] Front end Tools "content build Seperation" - https://dsva.slack.com/archives/C5HP4GN3F/p1617738055063600
 - [ ] CLP Redirect Request: VA.gov/trust [#23783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23783)
 - [ ] Bug: Meta titles on Outreach hub pages are not using standard formatting and style [#23082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23082)
