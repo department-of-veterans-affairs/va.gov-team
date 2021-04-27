@@ -3,10 +3,10 @@
 Planning:
 
 - Desired date range or test duration: 30 days
-- Desired number of users: 50k
+- Desired number of users: 10k
 - How you'll recruit the right production test users: n/a
-- How you'll conduct the testing: use of flipper feature to phase roll-out starting at 10%, 25%, 50%, 100%
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: page will be live in prod
+- How you'll conduct the testing: use of flipper feature to test internally and then roll-out at 100% 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: via socks access or staging.va.gov
 
 Results:
 
@@ -23,7 +23,7 @@ Results:
 Planning
 
 - Desired date range: 05/03/2021 - 05/31/2021
-- How will you make the product available in production while limiting the number of users who can find/access it: flipper feature
+- How will you make the product available in production while limiting the number of users who can find/access it: n/a
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 1.5 CTR for links
 - Links to dashboard(s) showing "success criteria" metrics: [link here]
 
