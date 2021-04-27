@@ -100,7 +100,7 @@ or
 
 ## Timeline 
 
-**Desired Timeline: May 5 - May 7, 2021**
+**Desired Timeline: May 4 - May 6, 2021**
 
 Session length: 1 hour
 Please leave 15 minutes in between each session
@@ -109,8 +109,12 @@ Notetaking: Please designate someone from Perigean to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
-TBD | TBD
-TBD | TBD
+May 4, 2021       | 9:00am - 7:00pm EST
+May 5, 2021       | 9:00am - 2:30pm EST
+May 6, 2021       | 9:00am - 7:00pm EST
+
+
+Pilot Session: May 3, 2021 | TBD (anytime between 2:00pm-6:00pm EST)
 
 
 ## Team Roles	
