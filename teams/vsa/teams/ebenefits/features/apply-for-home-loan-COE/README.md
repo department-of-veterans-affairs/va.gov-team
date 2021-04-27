@@ -11,11 +11,11 @@
 - Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
 #### Team Members  
-**Jason Wolf**  
-**James Adams**   
-**Jesse Cohn**   
-**Micah Chiang**  
-**Kathleen Crawford**  
+Jason Wolf    
+James Adams     
+Jesse Cohn     
+Micah Chiang    
+Kathleen Crawford   
 
 ---
 
