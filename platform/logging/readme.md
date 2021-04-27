@@ -19,5 +19,3 @@ Logs on VSP are currently viewable in AWS Cloudwatch. For access, [file a ticket
 ### Point of contact
 
 * Slack channel: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
-
-------
