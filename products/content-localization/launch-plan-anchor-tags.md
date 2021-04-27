@@ -4,7 +4,7 @@ Planning:
 
 - Desired date range or test duration: 30 days
 - Desired number of users: 10k
-- How you'll recruit the right production test users: n/a
+- How you'll recruit the right production test users: Users don't need to be logged in or have a specific profile to use this feature. Therefore, we are going to launch this behind a feature flag and have members of the team test before we roll out to propduction.
 - How you'll conduct the testing: use of flipper feature to test internally and then roll-out at 100% 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: via socks access or staging.va.gov
 
