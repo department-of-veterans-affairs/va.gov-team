@@ -1,8 +1,8 @@
 # Accessibility Documentation - VA Mobile App App Store Release (Working document)
 
-[Working document](https://docs.google.com/document/d/1jkylJgqzQWVTpQ04uPIEmitzDfWTNw6S381eny-ZS88/edit#heading=h.pnd3s21fyjov)
+[Working document for most up to date version](https://docs.google.com/document/d/1jkylJgqzQWVTpQ04uPIEmitzDfWTNw6S381eny-ZS88/edit#heading=h.pnd3s21fyjov)
 
-
+_last updated 4/25/21_
 # Part I | VA.gov Mobile Accessibility Testing Plan 
 
 Link: [Our Broader Accessibility Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/Accessibility%20Test%20Plan.md)
