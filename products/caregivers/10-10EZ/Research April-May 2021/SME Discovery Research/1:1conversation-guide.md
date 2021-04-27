@@ -84,7 +84,7 @@ Why do you think these sections in particular create barriers?
 What happens after a Veteran submits this form?
 - In your experience, do Veterans usually know what to expect after submitting this form?
 
-## Post task questions - 10 minutes
+## Post task questions - 5 minutes
 
 Wonderful! I have a few questions about your experience filling out this form.
 
