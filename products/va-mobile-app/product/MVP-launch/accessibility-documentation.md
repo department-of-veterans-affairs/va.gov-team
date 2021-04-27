@@ -2758,44 +2758,7 @@ Stats as of April 8th, 2021
 
 
 ## Remediate
-
-_(WIP conditional to current test results)_
+- We'll be addressing any failures identified in TestRail
 
 
 ## 508 Office Handoff
-
-
-
-*   link to store if after launch
-
-
-## Pre Launch installation: 
-
-
-### iOS
-
-
-
-1. Share Name and email address roaster with the Adhoc team
-    1. **Path One**: Download the Test Flight app via the App Store and redeem code
-    2. **Path Two**: Open the email from “TestFlight” with the subject line Ad Hoc LLC has invited you to test VA Mobile and you should see a link that you can click that should download and launch the app.
-2. You should see VA Mobile and be able to open the app from Test Flight
-
-
-###  Android APK
-
-
-
-1. Since we are not in the app store, the process is a bit different from iOS. You will need to download the link in the next step.
-2. LINK[: https://drive.google.com/file/d/1RXRvOU3kyBRHM1IitlenJmS8ek7yMkZq/view?usp=sharing](https://drive.google.com/file/d/1RXRvOU3kyBRHM1IitlenJmS8ek7yMkZq/view?usp=sharing)
-3.  Once the file has downloaded to your phone (this might take a few minutes), open it and select Install.
-4. You may need to change your phone’s security settings to allow the app to successfully install. Turn on "Allow from this source" to allow installation. 
-5. Now it's installed. You should see it where you access your phone's apps. It will be labeled VA Mobile with an Android icon.
-
-
-## Test accounts
-
-
-## App Store Links
-
-(_conditional to launch)_
