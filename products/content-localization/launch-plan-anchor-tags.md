@@ -1,4 +1,4 @@
-# Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+# Phase I: moderated staging environment testing (also known as User Acceptance Testing, or UAT)
 
 Planning:
 
