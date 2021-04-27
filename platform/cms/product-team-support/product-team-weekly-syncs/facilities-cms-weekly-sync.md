@@ -27,7 +27,11 @@
   - Implementing change
     - pros/cons for hard coding into FE on overriding in CMS
 - Default for Type of care attribute
-
+- Defects caused by missing expected data
+  - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
+  - Content, such as [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
+- Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
+  
 ## Wednesday April 21
 
 - [#5053 Policies cutover runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
