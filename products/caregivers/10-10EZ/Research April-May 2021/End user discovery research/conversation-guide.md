@@ -51,7 +51,7 @@ Great. Now we're really ready to begin!
 - Tell me a little about yourself 
 - Do you currently have healthcare benefits through the VA or through another provider?
 - Tell me a little bit about how you chose this healthcare option?
-  -  Did any experiences (personal, social, and medical) bring influence this decision?
+  -  Did any experiences (personal, social, and medical) influence this decision?
   -  What other places did you consider for healthcare (outside of the VA).
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
   - Do you have any lasting impressions of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
@@ -63,7 +63,7 @@ Now that I understand a little bit more about your background.
 
 Let's look at the screen that I have shared with you. Put yourself back to the moment that you arrived at this screen to apply for benefits in the past. (or if has never applied- you arrive here with the intention of applying for benefits.) https://staging.va.gov/health-care/apply/application/introduction  Go ahead and talk me through what you would do upon arriving at this page. 
 
-If participant immediately moves to click on "start you appplication..." button, I will ask them if they usually read this intro page, even if no, continue with the following quesions.
+If the participant immediately moves to click on "start you application..." button, I will ask them if they usually read this intro page, even if no, continue with the following questions.
 
 - Please read the entire page and let me know if any questions come to mind.
 - After participant reads and initial questions are noted:
