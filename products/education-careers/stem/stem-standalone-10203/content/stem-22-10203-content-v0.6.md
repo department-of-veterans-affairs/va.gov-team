@@ -232,6 +232,17 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 - Yes  
 - No  
 
+{ if YES display a checkmark for the "Undergrad STEM..." question on the next page }  
+
+{ if NO, display clinical training question }  
+
+Do you have a STEM undergraduate or graduate degree and are now pursuing a covered clinical training program for healthcare professionals? (*Required) 
+
+[See eligible programs]().  { radio buttons }  
+
+- Yes  
+- No  
+
 { if YES, display a checkmark for the "Undergrad STEM..." question on the next page}  
 
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
@@ -275,13 +286,29 @@ Form 22-10203
 { display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
 
 __Your responses:__  
-:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-:heavy_check_mark:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
+:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+
+:heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application
+
+:heavy_check_mark:  Are either:
+
+  - Enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
+                     
+  - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
+                     
+  - Have already earned a STEM degree and are pursuing a clinical training program for healthcare professionals
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-:heavy_multiplication_x:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of using all your benefits when you submit your application  
+
+:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application
+
+:heavy_multiplication_x:  Are either:
+
+  - Enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
+                     
+  - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
+                     
+  - Have already earned a STEM degree and are pursuing a clinical training program for healthcare professionals  
 
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
@@ -317,11 +344,11 @@ Form 22-10203
 
 ### Chapter Title:  3 of 6: Program details
 
-#### STEM degree and school details { Sub-head }  
+#### STEM degree and school or training institution details { Sub-head }  
 
   - What's the name of your STEM degree? (*Required) { text field }  
 
-  - What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
+  - What’s the name of the school or training institution where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
 
   - Country (*Required) { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }   
 
@@ -330,13 +357,13 @@ Form 22-10203
   - State (*Required)  { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
 
 
-#### Your school ID and contact details  { Sub-head } 
+#### Your school or training institution ID and contact details  { Sub-head } 
 
 These details will help us review your application faster, but aren't required. 
 
-  - Your school student ID number { Text field }  
+  - Your school or training institution student ID number { Text field }  
 
-  - Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
+  - Your school or training institution email address (This email address usually ends with .edu) { Text field with email address validation }  
   
 { blue background alert }  
 
@@ -430,39 +457,52 @@ Form 22-10203
 
 #### Direct deposit { sub-head }  
 
-We make payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
+{ If bank account is on file }
 
-{ visual aid of check }  
+This is the bank account information we have on file for you.
 
-Account type (*Required) { radio button }  
+**Payment information**
+* **{ Checking/Savings } Account** { prefill if present } 
+* Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 
-* Checking  
-* Savings  
+[ Update account information ] { button }
 
-Bank routing number (*Required) {text field}  
 
-Bank account number (*Required) {text field}  
+{ If no bank account on file }
 
-I don’t want to use direct deposit { checkbox } { If checked, Account type, Bank routing number, and Bank account number fields will not be required and will be collapsed. }  
+We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. 
+
+* Account type (* Required) { Radio buttons - Checking, Savings }
+
+{ bank check visual }
+
+*	Bank's 9-digit routing number (* Required) { text field }
+*	Bank account number (* Required) { text field }
+
+[ Save ] { button }
+
+{ end if no bank account on file }
+
+I don't want to use direct deposit { check box, if selected direct deposit information disappears }  
 
 **Note:** Any bank account information you enter here will apply to your other Veteran benefits, including compensation, pension, and Benefits for Certain Children with Disabilities (Chapter 18) payments.  
 
 Information entered here won’t change your existing accounts for VA education or health benefits.
 
-{ additional info component }
+{ help-link } What if I don’t have a bank account?  { end help-link }
 
-What if I don't have a bank account or don't want to use direct deposit? 
+{ help-text} 
 
-The Department of the Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
+The Veterans Benefits Banking Program (VBBP) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
 
-If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:  
+To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. 
 
-* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or**  
-* Call [800-333-1795]()  
+Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative who handles waiver requests. They can answer any questions or concerns you may have.
 
-If you choose not to enroll, you’ll need to call the Department of the Treasury at [888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
+{ collapse help content link }
 
-{ end additional info component }
+{ end help-text}
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
@@ -486,6 +526,24 @@ Please review the information below to ensure that it’s correct before you sub
 * Program details { accordion } 
 * Military details { accordion } 
 * Personal information { accordion } 
+
+{ If "Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?" = "No" }
+
+**By submitting this form** you certify that all statements in this application are true and correct to the best of your knowledge and belief.
+
+{ end - If "Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?" = "No" }
+
+
+
+{ If "Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?" = "Yes" }
+
+**By submitting this form** you certify that:
+
+- All statements in this application are true and correct to the best of your knowledge and belief
+
+- As an active duty servicemember, you have consulted with an Education Service Officer (ESO) regarding your education program
+
+{ end - if "Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?" = "Yes" }
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)    
 
