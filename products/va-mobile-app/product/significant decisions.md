@@ -32,7 +32,7 @@ While our user research surfaced other pain points Veterans experience while int
 
 
 
-## Decision 1: Yes, the VA should build a flagship mobile app
+## Decision 1: The VA should build a flagship mobile app
 
 ### What did you decide on?
 After a four-week discovery sprint, followed by 10-weeks of research and validation, VA decided to move forward with building a native mobile app. The alternatives were to not build an app, or build one that isn’t native (such as a PWA or hybrid app).
