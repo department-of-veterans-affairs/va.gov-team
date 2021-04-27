@@ -116,7 +116,7 @@ TBD | TBD
 
 - Moderator: Dene Gabaldon (dene.gabaldon@adhocteam.us)
 - Research guide writing and task development: same as moderator
-- Participant recruiting & screening: TBD
+- Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
-- Note-takers:TBD
+- Note-takers: Perigean
 - Observers: Alayna Abel (alayna@adhocteam.us), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
