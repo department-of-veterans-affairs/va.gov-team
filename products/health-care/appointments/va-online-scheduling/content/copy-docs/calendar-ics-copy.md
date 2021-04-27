@@ -79,7 +79,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location |  |
-| Description/Notes | Join this video meeting using a device provided by VA<br>You’ll be meeting with {name of provider} |
+| Description/Notes | Join this video meeting using a device provided by VA<br><br>You’ll be meeting with {name of provider} |
 
 
 ## Homepage Refresh
@@ -158,5 +158,5 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location |  |
-| Description/Notes | Join this video meeting using a device provided by VA<br>You’ll be meeting with {name of provider} |
+| Description/Notes | Join this video meeting using a device provided by VA<br><br>You’ll be meeting with {name of provider} |
 
