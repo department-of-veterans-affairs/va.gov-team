@@ -12,7 +12,7 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
-###  2021
+### April 2021
 
 
 #### April 26 - April 30: Virtual Agent interviews
@@ -23,6 +23,15 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
+
+#### April 8 - 13: Check-in (Veteran-facing) Remote Discovery Research
+*Healthcare Experience, Lead Researcher: Kristen McConnell*
+
+- Number of participants: 11
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery)
+
+- List of keywords: Veterans, appointments, check-in, pre-check in, virtual appointments, kiosk, staff members, text message check-in, digital check-in, medical appointments, lab tests, pharmacy, contact information, next of kin, insurance, beneficiary travel mileage
 
 
 ### March 2021
