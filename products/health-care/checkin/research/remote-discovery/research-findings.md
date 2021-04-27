@@ -1,13 +1,13 @@
-# DRAFT: Check-in Remote Discovery Research, April 2021
+#Check-in Remote Discovery Research, April 2021
 Discovery Readout <br/>
 Lead researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
 
 ## Background and Goals
 
 ### Background
-Our goal is to improve the Veteran check-in process for medical appointments by providing a digital option on va.gov.
+Our goal is to improve the Veteran check-in process for medical appointments by providing a digital option on mobile and/or va.gov.
 
-This research is to understand Veterans’ feelings, pain points, and value-gained by using the current ecosystem of check-in methods for medical appointments. There is a particular emphasis on understanding the current kiosk method, because it is being replaced by a digital check-in solution on va.gov. However, feedback from all check-in methods will inform the digital check-in solution.
+This research is to understand Veterans’ feelings, pain points, and value-gained by using the current ecosystem of check-in methods for medical appointments. There is a particular emphasis on understanding the current kiosk method, because it is being replaced by a digital check-in solution on mobile and/or va.gov. However, feedback from all check-in methods will inform the digital check-in solution.
 
 ### Research Questions
 - How do Veterans feel when interacting with each check-in method (focus heavily on kiosk workflows)?
@@ -28,7 +28,7 @@ This research is to understand Veterans’ feelings, pain points, and value-gain
 ## Methodology
 
 ### Method and detailed research questions
-We conducted 11 remote moderated tests via Zoom using the Perigean contract. The Veterans will be asked a series of interview questions about their check-in experiences. Certain visuals will be presented in order to facilitate discussions on particular kiosk-based check-in workflows and methods.
+We conducted 11 remote moderated tests via Zoom using the Perigean contract. The Veterans were asked a series of interview questions about their check-in experiences. Certain visuals were presented in order to facilitate discussions on particular kiosk-based check-in workflows and methods.
 
 The complete conversation guide with all the detailed research questions asked can be found on the [VA’s GitHUB](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/conversation-guide.md).
 
@@ -62,30 +62,40 @@ We did recruit non-sighted users, but they were all no shows to their research t
 ## Research Findings
 
 ### Key Findings
-- Talking to VA staff members was the most preferred and used currently available check in method for in-person appointments.
+#### Appointment check-in
+- Checking in with a VA staff member was the most preferred and used method among the currently available methods for in-person appointments.
 - Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
 - Using a kiosk is quick and easy as long as the machine isn’t turned off or broken.
-- When verifying their identity at the kiosk, more Veterans utilized their VHIC card than entered their SSN and date of birth.
-- More participants received their medications by mail and used the kiosk to check in for lab tests than other methods.
-- Talking to a staff member to update their contact or next of kin information was the most cited method.
-- Kiosks were the most mentioned method to file for beneficiary travel mileage.
-- Lab workflows vary from facility to facility. The most mentioned process was when the Veteran received a ticket, then the number on the ticket is called.
-- For lab tests, digital check-in solutions are preferred, wait time vary, and sometimes orders are missing.
-- Pharmacy workflows vary greatly from facility to facility.
-- At the pharmacy, wait times are long, digital check-in solutions are preferred, and sometimes orders are missing.
+- When verifying their identity at the kiosk, more Veterans utilized their VHIC card and entered their date of birth than entered their SSN and date of birth.
 - Most participants never updated their contact or next of kin information before. Even the participants who had experience updating this information talked about these tasks in a separate manner from check-in.
+- Updating contact or next of kin information was mostly completed by speaking with staff members.
+
+#### Non-appointment check-in
+- More participants received their medications by mail and used the kiosk to check-in for lab tests than other methods.
+- Lab workflows vary from facility to facility. The most mentioned process is when the Veteran received a ticket and the number on the ticket is called.
+- Pharmacy workflows vary greatly from facility to facility.
+- At the lab and pharmacy, digital check-in solutions are preferred, wait time vary, and sometimes orders are missing.
+
+#### Beneficiary travel mileage
+- Beneficiary travel mileage was most often filed via kiosks.
 - Veterans have multiple options when filing for beneficiary travel mileage: kiosk, travel office, online, and automatic reimbursement.
 - Veterans reported abandoning their attempts to file for travel mileage due to difficulties with multiple filing methods.
-- Overall, checking in for virtual appointments was described as a pleasant and very quick experience.
-- When asked about check-in experiences at other health care systems, Veteran unanimously wished those system had check in processes like the VA.
-- Digital (particularly mobile phone solutions) and in-person options are both extremely valuable to different types of Veterans.
-- Most Veterans were interested in a light-weight way of verifying their identity when checking in, such as the last 4 digits of their social security number and/or date of birth.
-- Half of the participants were interested in receiving notifications letting them know that they could now check in.
 
-### Talking to VA staff members was the most preferred and used currently available check in method for in-person appointments.
+#### Virtual and other health system appointments
+- Overall, checking in for virtual appointments was described as a pleasant and very quick experience.
+- Veterans unanimously wished other health systems had check-in processes like the VA. Check-in at other health systems took longer, involved more questions, required more paperwork, and lacked the variety of check-in methods.
+
+#### Feedback on the future with digital solutions
+- Digital (particularly mobile phone solutions) and in-person options are both extremely valuable to different types of Veterans.
+- Most Veterans were interested in a lightweight way of verifying their identity when checking in, such as the last 4 digits of their social security number and/or date of birth.
+- Half of the participants were interested in receiving notifications letting them know they could now check-in.
+
+### Appointment check-in
+
+#### Checking in with a VA staff member was the most preferred and used method among currently available methods for in-person appointments.
 11 participants total.
 
-- **In-person**
+- **Staff member**
   - 7: preferred method
   - 11: have used
 
@@ -94,11 +104,10 @@ We did recruit non-sighted users, but they were all no shows to their research t
   - 10: have used
 
 - **Text Message**
-  - 0: preferred method
   - 0: have used
-  - (1 - heard about)
+  - (1 - heard about it)
 
-### Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
+#### Checking in with a VA staff member can offer valuable human interactions for Veterans, but Veterans are sometimes made to feel unimportant or insulted during these interactions.
 **Benefits**
 - Human interaction
   - “I like the human interaction, because I don’t get it elsewhere.”
@@ -117,12 +126,8 @@ We did recruit non-sighted users, but they were all no shows to their research t
 - A lot about Veterans just like to chat with these staff members.
 - To add to the bad customer service experiences, some Veterans were redirected to the kiosk after waiting in line to talk to a staff member.
 - Even 4 Veterans, who used a kiosk to check-in, reported that they approached a staff member for directions once done at the kiosk.
-- Some Veterans were also mismatched to appointments and records.
-  - A male Veteran was scheduled for an OBGYN appointment.
-  - One Veteran was told that they didn’t have an appointment that day, but they went home and reviewed their reminders. They did have an appointment.
-  - When checking-in it was determined the Veterans record was incorrect, their SSN was correct, but the name associated with the account was incorrect. 
 
-### Using a kiosk is quick and easy as long as the machine isn’t turned off or broken. 
+#### Using a kiosk is quick and easy as long as the machine isn’t turned off or broken. 
 **Benefits**
 - Quick and easy
   - “I don’t think it could be any easier.”
@@ -142,7 +147,7 @@ Veterans who liked the kiosk did tend to be younger or more tech-savvy older Vet
   - Most of the Veterans who used the kiosks have seen the insurance screen and didn’t really have anything to say about it.
     - One Veteran did comment that they always have to see a staff member, because they mark that they have insurance through their work.
 
-### When verifying their identity at the kiosk, more Veterans utilized their VHIC card than entered their SSN and date of birth.
+#### When verifying their identity at the kiosk, more Veterans utilized their VHIC card and entered their date of birth than entered their SSN and date of birth.
 9 participants total
 
 - Used VHIC card: 6
@@ -152,9 +157,26 @@ Veterans who liked the kiosk did tend to be younger or more tech-savvy older Vet
 - Entered SSN/DOB: 3
   - "I don't have a card."
 
-One Veteran has used both methods.
+#### Most participants had never updated their contact or next of kin information before. Even the participants who had experience updating this information talked about these tasks in a separate manner from check-in.
+- Quote that summarizes a lot of the feedback: “My next of kin hasn’t changed in forever.”
+- Contact information was updated more often than next of kin.
+- If needed, many participants stating that updating this information via digital methods would be convenient. 
+  - They were mostly talking about updating online, but a few participants meant via a kiosk.
+  - Other participants saw this as too many clicks to do on a kiosk.
 
-### More participants received their medications by mail and used the kiosk to check in for lab tests than other methods
+#### Updating contact or next of kin information was mostly completed by speaking with staff members.
+| Task | Method Used | # of participants |
+| --- | --- | --- |
+| Contact information | Staff member | 3 |
+| Contact information | MyHealtheVet | 2 |
+| Contact information | Phone call | 1 |
+| Next of kin | Staff member | 1 |
+| Next of kin | Kiosk | 1 |
+| Next of kin | MyHealtheVet | 1 |
+
+### Non-appointment check-in
+
+#### More participants received their medications by mail and used the kiosk to check in for lab tests than other methods.
 | Task | Method Used | # of participants |
 | --- | --- | --- |
 | Lab tests | Kiosk | 5 |
@@ -166,60 +188,26 @@ One Veteran has used both methods.
 | Pharmacy | Staff member | 2 |
 | Pharmacy | Ticket machine | 2 | 
 
-### Talking to a staff member to update their contact or next of kin information was the most cited method.
-| Task | Method Used | # of participants |
-| --- | --- | --- |
-| Contact information | Staff member | 3 |
-| Contact information | MyHealtheVet | 2 |
-| Contact information | Phone call | 1 |
-| Next of kin | Staff member | 1 |
-| Next of kin | Kiosk | 1 |
-| Next of kin | MyHealtheVet | 1 |
-
-
-### Kiosks were the most mentioned method to file for beneficiary travel mileage.
-| Task | Method Used | # of participants |
-| --- | --- | --- |
-| Beneficiary travel mileage | Kiosk | 4 |
-| Beneficiary travel mileage | Paper at the travel office | 2 |
-| Beneficiary travel mileage | Website | 1 |
-| Beneficiary travel mileage | Filed automatically | 1 | 
-
-
-### Lab workflows vary from facility to facility. The most mentioned process was when the Veteran receives a ticket, then the number on the ticket is called. 
+#### Lab workflows vary from facility to facility. The most mentioned process is when the Veteran receives a ticket and the number on the ticket is called. 
 
 - Workflows
   - 1
-    - Check-in at kiosk or with staff member, then receive a ticket with a number on it
-    - Number called complete the actual lab tests
+    - Checked in at kiosk or with staff member, then received a ticket with a number on it
+    - Number called to complete the actual lab tests
   - 2
-    - Check-in at kiosk or with staff member
-    - Name called to tell them why you are there
-    - Name called again to complete the actual lab tests
+    - Checked in at kiosk or with staff member
+    - Number called to tell them why you are there
+    - Number called again to complete the actual lab tests
   - 3
-    - Check-in at kiosk or with staff member
-    - Name called complete the actual lab tests
+    - Checked in at kiosk or with staff member
+    - Name called to complete the actual lab tests
   - 4
-    - Check-in at a computer
-    - Name called complete the actual lab tests
+    - Checked in at a computer
+    - Name called to complete the actual lab tests
 
 Veterans thought there were too many steps in that Workflow #2, which translated to the waiting at the lab for too long.
 
-### For lab tests, digital check in solutions are preferred, wait times vary, and sometimes orders are missing.
-- Benefits
-  - The ticketing system was deemed easy and appropriate by most participants.
-    - “The number was big and the type was large.”
-  - Kiosks work well when there is a line at in-person check in.
-  - Fast
-- Pain points
-  - 3 participants mentioned that the orders never transferred from their provider’s office to the lab. 
-    - The Veterans would wait for the lab to contact the provider’s office to get the orders. 
-    - On a positive note, this seemed to be a quick process.
-  - Long wait time
-
-The participant with PTSD found digital solutions appropriate for lab, pharmacy, and travel mileage, but not medical appointments, such as primary care or mental health.
-
-### Pharmacy workflows vary greatly from facility to facility. 
+#### Pharmacy workflows vary greatly from facility to facility. 
 - Workflows
   - 1
     - Took a number from a ticketing machine (non-kiosk)
@@ -231,70 +219,81 @@ The participant with PTSD found digital solutions appropriate for lab, pharmacy,
   - 2
     - Called in prescription ahead of time
     - Took a number
-    - Picked up the script when called
+    - Picked up the medication when called
     - For workflow #2, the Veteran found out that they could have skipped waiting for their number to be called. They could have gone directly to the window, since they were only picking up. The Veterans wished there was better signage about that, so they wouldn’t have had to wait.
   - 3
-    - Wait in line to talk to a staff member
+    - Waited in line to talk to a staff member
     - Called up by name or notified via a monitor in the waiting area when medications were ready
   - 4
-    - The private room to talk to the pharmacist had an indicator on the door. Red meant the room was occupied.
-    - Veterans just enter the room when the indicator is green.
+    - The private room to talk to the pharmacist had an indicator on the door (Red meant the room was occupied.)
+    - Veterans just entered the room when the indicator is green
 
-### At the pharmacy, wait times are long, digital check-in solutions are preferred, and sometimes orders are missing.
+#### At the lab and pharmacy, digital check-in solutions are preferred, wait times vary, and sometimes orders are missing.
 - Benefits
   - The ticketing system was deemed easy and appropriate by most participants.
+    - “The number was big and the type was large.”
     - “It keeps it orderly.”
+  - Kiosks work well when there is a line at in-person check-in.
+  - Fast
 - Pain points
-  - Long wait time
-  - Sometimes orders were never transferred from the provider’s office to the pharmacy. 
-    - The Veterans would wait for the pharmacy to contact the provider’s office to get the orders. 
+  - Sometimes orders never transferred from their provider’s office to the lab or pharmacy. 
+    - The Veterans would wait for the lab/pharmacy to contact the provider’s office to get the orders. 
     - On a positive note, this seemed to be a quick process.
+  - Long wait time (particularly pharmacy)
+- The participant with PTSD found digital solutions appropriate for lab, pharmacy, and travel mileage, but not medical appointments, such as primary care or mental health.
 
-### Most participants never updated their contact or next of kin information before. Even the participants who had experience updating this information talked about these tasks in a separate manner from check in.
-- Quote that summarizes a lot of the feedback: “My next of kin hasn’t changed in forever.”
-- Contact information was updated more often than next of kin.
-- If needed, many participants stating that updating this information via digital methods would be convenient. 
-    - They were mostly talking about updating online, but a few participants meant via a kiosk.
-    - Other participants saw this as too many clicks to do on a kiosk.
+### Beneficiary travel mileage
 
-### Veterans have multiple options when filing for beneficiary travel mileage: kiosk, travel office, online, and automatic reimbursement.
+#### Beneficiary travel mileage is most often filed via kiosks.
+| Task | Method Used | # of participants |
+| --- | --- | --- |
+| Beneficiary travel mileage | Kiosk | 4 |
+| Beneficiary travel mileage | Paper at the travel office | 2 |
+| Beneficiary travel mileage | Website | 1 |
+| Beneficiary travel mileage | Filed automatically | 1 | 
 
+
+#### Veterans have multiple options when filing for beneficiary travel mileage: kiosk, travel office, online, and automatic reimbursement.
 - Workflows
   - 1
     - Used the kiosk
-    - Sometimes told to see a staff member at the end.
+    - Sometimes told to see a staff member at the end
   - 2
-    - Goes to the travel office
-    - Fills out the paper form
+    - Went to the travel office
+    - Filled out the paper form
   - 3
-    - Fills out online.
+    - Filled out form online
   - 4
-    - Told that reimbursement was automatically filed following the appointment.
+    - Told that reimbursement was automatically filed following the appointment
 
 Some Veterans never fill it out. They live very close to the facility. Some were told that they were ineligible, because they lived so close.
 
 The Veteran who was told that reimbursement was automatically had yet to receive it. It was for a very recent appointment. They said that automatic reimbursement was listed in some paperwork they received.
 
-### Veterans reported abandoning their attempts to file for travel mileage due to difficulties with multiple filing methods.
+#### Veterans reported abandoning their attempts to file for travel mileage due to difficulties with multiple filing methods.
 - Questions on the online form were confusing or instructions weren’t clear.
   - “I wondered if I provided the right information.”
 - 2 Veterans mentioned abandoning the kiosk workflow when it told them that they needed to speak with a staff member.
 - Other Veterans said they won’t go to the travel office to file, because it can be in a different building.
 - While the kiosk workflow was considered fast and convenient, the kiosk were often not working.
 
-### Overall, checking in for virtual appointments was described as a pleasant and very quick experience.
+### Virtual and other health system appointments
+
+#### Overall, checking in for virtual appointments was described as a pleasant and very quick experience.
 - For video appointments, Veterans mostly “checked in” by clicking a link in an email.
-- For phone call appointments, Veterans mostly stated that they providers called them.
+- For phone call appointments, Veterans mostly stated that their providers called them.
 - For 4 Veterans, a staff member, such as a nurse, called them right before their appointment to ask them questions about pain level, suicidal thoughts, and more.
 
-### When asked about check in experiences at other health care systems, Veteran unanimously wished those systems had check in processes like the VA.
-- Veterans with experience at other health systems explained that their check in processes were much more complicated than the VAs.
-  - They took longer, asked more questions, and involved more paperwork.
+#### Veterans unanimously wished other health systems had check-in processes like the VA. Check-in at other health systems took longer, involved more questions, required more paperwork, and lacked the variety of check-in methods.
+- VVeterans with experience at other health systems explained that their check-in processes were much more complicated than VA’s.
+  - They took longer, involved more questions, and required more paperwork.
   - These differences were the reason one Veteran stated “I choose to use the VA.” 
-- Veterans liked the variety of check in methods available at the VA.
-- Multiple Veterans did think checking for other insurance policies and answering COVID questions should be a part of the pre-check in workflow.
+- Veterans liked the variety of check-in methods available at the VA.
+- Multiple Veterans did think checking for other insurance policies and answering COVID questions should be a part of the workflow prior to check-in.
 
-### Digital (particularly mobile phone solutions) and in-person options are both extremely valuable to different types of Veterans. 
+### Feedback on the future with digital solutions
+
+#### Digital (particularly mobile phone solutions) and in-person options are both extremely valuable to different types of Veterans. 
 | Preferred check in method | # of participants |
 | --- | --- |
 | Mobile phone (general) | 5 |
@@ -304,11 +303,11 @@ The Veteran who was told that reimbursement was automatically had yet to receive
 | Staff member | 3 |
 
 - Three Veterans wanted the ability to complete as many tasks as possible ahead of time from home on their computers.
-- Two Veterans, who were interested in a mobile phone solution,  were worried about the cell reception and WiFi, in order to check-in via a mobile phone.
+- Two Veterans interested in checking in with a mobile phone were worried about the cell reception and WiFi.
 - 2 Veterans wanted a confirmation that the staff received their check-in.
 - **Note:** Preferred method here was asked at the end of sessions. Veterans were also allowed to specific more than one preferred method.
 
-### Most Veterans were interested in a light-weight way of verifying their identity when checking in, such as the last 4 digits of their social security number and/or date of birth.
+#### Most Veterans were interested in a lightweight way of verifying their identity when checking in, such as the last 4 digits of their social security number and/or date of birth.
 | Preferred check in method | # of participants |
 | --- | --- |
 | Last 4 digits of their social security number and/or date of birth* | 5 |
@@ -317,12 +316,43 @@ The Veteran who was told that reimbursement was automatically had yet to receive
 | VHIC card | 1 |
 * One Veteran suggested name instead of date of birth.
 
-### Half of the participants were interested in receiving notifications letting them know that they could now check in.
+#### Half of the participants were interested in receiving notifications letting them know that they could now check in.
 - The number of Veterans interested in different notification types varied.
   - Text: 3
   - Email: 2
   - Push notification: 2
-    - One Veteran was interested in either a text or push notification.
+- One Veteran was interested in either a text or push notification.
 
 ## Recommendations and Next Steps
--TBD
+### Recommendations
+- A variety of check-in methods need to be available to accommodate the variety of Veteran types and reduce lines/wait times to check-in.
+  - A digital solution (mobile or web) will be welcomed by many Veterans, especially those who are technologically savvy or don’t like to talk to someone.
+  - Checking in with a staff member is important for some Veterans, those who don’t get a lot of human interaction and/or like the personal connection.
+- A digital solution is required that is available at VA facilities but doesn’t require the Veteran to bring their own mobile phone.
+  - This will assist the large group of Veterans who don’t have/don’t like to use a mobile phone, yet don’t like to talk to staff members. (These interactions cause anxiety for certain Veterans.)
+  - This will also provide a digital option if the cell reception or WiFi availability is minimal.
+  - This will reduce lines/wait times to check-in.
+- The check-in workflow should remain simple; this simplicity is a key reason why Veteran enjoy the current check-in processes. To maintain this simplicity, we recommend the following for the new digital solution:
+  - Keep authentication lightweight, such as last name, last 4 of SSN, and/or phone number.
+  - Move the contact and next of kin workflows out of check-in on the day of the appointment and into a pre-check in workflow that is completed a week to a few days prior to the appointment.
+  - Show the Veteran confirmation they really are checked in, eliminating the Veteran’s concern that staff won’t know they are sitting in the waiting room.
+
+### Preliminary Veteran check-in flow
+- **Pre-check in**
+  - Confirm appointment
+  - Verify & update contact information
+  - Verify & update next of kin information
+  - Indicate any insurance information changes
+  - Complete forms or paperwork needed for appointments (e.g. Release of Information)
+- **Check-in**
+  - Indicate arrival for appointment
+- **Post appointment** 
+  - Link to Patient Satisfaction Survey (TBD)
+  - Link to Beneficiary Travel
+ 
+### Next steps
+- Present in-person observation research.
+- Usability study of new check-in workflows.
+- Wireframe the pre-check in workflow.
+- Explore on-site solutions that don’t require Veterans to use their own mobile phone, but who still want to check-in digitally.
+- Complete more discovery research on non-appointment workflows.
