@@ -58,12 +58,14 @@ If you apply and you're not eligible, your application will be denied.
 
 * **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
+* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+
 * **STEM degree:** 
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
   * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification.   
-  [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
-
-* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+  [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf) 
+  * You've already earned a STEM graduate or undergraduate degree and are pursuing a clinical training program for healthcare professionals.   
+  [See eligible degree programs]() 
 
 
 #### 2. Prepare  
@@ -217,6 +219,19 @@ Form 22-10203
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
+About how much of your education benefit do you have left? (*Required) 
+
+[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
+
+- More than 6 months
+- 6 months or less
+- None. I've used all of my education benefit.
+
+{ if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
+
+{ if "More than 6 months", display an "x" for the "Have used all of your education benefits..." bullet on STEM eligibility summary page } 
+
+
 Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) 
 
 [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }    
@@ -247,21 +262,11 @@ Do you have a STEM undergraduate or graduate degree and are now pursuing a cover
 
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
-About how much of your education benefit do you have left? (*Required) 
+ 
 
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
+{If not STEM undergrad or not pursuing teaching certification or not pursuing clinical training program – will be noted in STEM eligibility summary page }  
 
-- More than 6 months
-- 6 months or less
-- None. I've used all of my education benefit.
-
-{ if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
-
-{ if "More than 6 months", display an "x" for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
-
-{If not STEM undergrad or not pursuing teaching certification – will be noted in STEM eligibility summary page }  
-
-{ if user is ineligible due to not meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification, more than 6 months benefits) CONTINUE to STEM eligibility summary page; if eligible, continue to "STEM degree and school details" page. }  
+{ if user is ineligible due to not meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification or not pursuing clinical training program, more than 6 months benefits) CONTINUE to STEM eligibility summary page; if eligible, continue to "STEM degree and school details" page. }  
 
 [ Back | Continue ] { buttons } [
 
