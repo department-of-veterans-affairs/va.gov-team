@@ -30,7 +30,7 @@ _This list will be updated with links to documentation as needed_
 ## Monitoring, Alerting, Reporting
 - [ ] Monitoring & Alerting (Tools & Slack integration)
 - [ ] KPI implementation in Firebase
-- Plan for Managing Versioning
+- [ ] Plan for Managing Versioning
 - [ ] Incident Response protocol
 - [ ] Contact Center protocol for App Store monitoring & flagging
 - [ ] Post-launch analytics reporting plan
