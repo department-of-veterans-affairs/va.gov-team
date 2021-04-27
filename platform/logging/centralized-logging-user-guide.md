@@ -10,6 +10,8 @@ Loki aims to solve these problems by leveraging technologies developed in other 
 
 Here’s a high-level diagram showing the basic architecture of the Platform's centralized logging solution:
 
+![](./loki-overview.png)
+
 ## Loki Details for All Developers
 
 ### How to view logs in Loki
@@ -20,10 +22,11 @@ To view logs in Grafana collected by Loki, simply:
 
 - Login to the [VFS Grafana instance](http://grafana.vfs.va.gov) (SOCKS or VA VPS required)
 - Go to Explore (the little compass icon), and,,,
-- Select the respective Loki environment as a data source (see image below)
+- Select the respective Loki environment as a data source _(see image below)_
+![](./loki-select-data-source.png)
 - You will now see a query interface for slicing, dicing, and analyzing your log files!
 
-**NOTE:** If an environment isn’t visible, that means that it’s likely not ready… yet (see Loki Instances below for status)
+**NOTE:** If an environment isn’t visible, that means that it’s likely not ready… yet _(request additional info or support in #vfs-platform-support)_
 
 ### How to query and analyze log data in Loki
 
@@ -33,18 +36,20 @@ In order to understand how to slice and dice your logs, you’ll first need to u
 
 _To do this, try the following:_
 
-- Log into Grafana (remember SOCKS needed)
+- Log in to Grafana (remember SOCKS needed)
 - Go to Explore (the little compass icon)
 - Select the respective Loki data source
 - Click `“Log labels”` to See how ALL the data is structured and organized
   - **NOTE:** Most people will find the `app` label to be the most useful
 
 - Now you should see some data: 
+![](./loki-get-familiar.png)
 
   - The image above is showing ALL of the log data for the `app` (or label) that has been selected
   - The bar graph at the top is showing the rate of log messages for a particular label
   - The lines below (at the top of the image) are individual log messages
-  - Try clicking on a specific message to see additional details, including extracted fields and other labels that are tagged onto that specific message
+  - Try clicking on a specific message to see additional details, including extracted fields and other labels that are tagged onto that specific message _(see image below)_
+  ![](./loki-log-details.png)
 
 **Step 2: Try some basic data manipulation**
 
@@ -70,7 +75,8 @@ _As an example,_ if we want to see only the web-server logs for the reverse prox
 _As another example,_ if we want to look for something a bit more specific:
 
 - Errors are a common thing to look for, so… 
-- By appending a simple operator to our query `(|= “thingy”)`, we can search for errors in the revproxy's access logs: `{app="revproxy",filename="/var/log/nginx/access.log"} |= "Error"`
+- By appending a simple operator to our query `(|= “thingy”)`, we can search for errors in the revproxy's access logs: `{app="revproxy",filename="/var/log/nginx/access.log"} |= "Error"` _(see image below)_
+![](./loki-example-revproxy.png)
 
 To recap, the above image is showing us:
 
