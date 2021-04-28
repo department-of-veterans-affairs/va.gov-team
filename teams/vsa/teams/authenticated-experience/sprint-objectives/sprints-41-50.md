@@ -467,7 +467,7 @@ FE
 
 **PM**
 
-- Meet with analytics team if needed/available
+- Check in on analytics — Do they need anything from us? Any updates? #23336
 - Begin filling out ticket for [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
 - Begin filling out ticket for [privacy review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
 
