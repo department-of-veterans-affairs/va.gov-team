@@ -237,7 +237,7 @@ Once the script is running, you can put it in the background by typing `control-
 
    `ssh socks-va -D 2001 -N &`
 
-#### from _outside_ the VA network:
+#### From _outside_ the VA network:
 
    `ssh socks -D 2001 -N &`
 
