@@ -40,12 +40,24 @@
 
 
 * Prep for "Veteran trust in VA" launch http://preview-prod.vfs.va.gov/preview?nodeId=18299
-  * Outcomes from Staging review?
+  * Tim would love Friday, John would Publish. Some missing pieces being worked on this week. Traffic won't be driven at first. Decision later today about timing. 
+* Outcomes from Staging review? 
+  * No blockers for Veteran trust campaign 
 * Review new (optional) audience field widget at https://pr5143-ii6l0ozrcxmdfu2c3fkwla2hsgqtvh0i.ci.cms.va.gov/node/18299/edit 
   * Review of editorial experience.
   * Template should check for values here before printing it. Also, how does this affect the rest of this page segment layout?
   * when should we merge this? when this gets released to CMS Prod, we'll need to re-assign taxonomy terms to existing CLPs, including the Trust campaign.  
   * "Veterans", "Family Members and Friends", and "Caregivers" will probably need to become: "All Veterans", "Family members and caregivers". No "Friends."
+  * Next steps: 
+    * Next Wednesday regroup to clarify the release of CMS/FE code
+    * async Kelson and Steve and Kevin can think about if feature flags are needed  
+  * Governance 
+    * John will speak with Beth about Audience vocabularies [non-beneficiaries](https://prod.cms.va.gov/admin/structure/taxonomy/manage/audience_non_beneficiaries/overview) and [beneficiares]( https://prod.cms.va.gov/admin/structure/taxonomy/manage/audience_beneficiaries/overview) 
+    * Talk about next steps May 5
+* CLP for Vaccine Hesitance
+  * Danielle working on copy, expect to launch in May
+  * Update on this next week.
+  * Content will be managed by content team
 * Helpdesk vs Handholding balance for beta users
   * When should CMS helpdesk kickoff start?
 * Onboarding users if needed (VBA)
