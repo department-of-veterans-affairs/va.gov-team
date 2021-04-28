@@ -204,8 +204,8 @@ total 80
 drwx------   8 jeremybritt  staff    256 Aug  6 11:27 .
 drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
 -rw-r--r--   1 jeremybritt  staff   5804 Aug  6 11:50 config
--rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vetsgov
--rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vetsgov.pub
+-rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_va
+-rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_va.pub
 ```
 
 2. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
