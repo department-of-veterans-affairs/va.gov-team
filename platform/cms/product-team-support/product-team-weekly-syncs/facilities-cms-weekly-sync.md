@@ -28,14 +28,15 @@
 * Meta tags for VAMC 
   - Design guide update
   - Implementing change
-    - pros/cons for hard coding into FE on overriding in CMS
+    - pros/cons for hard coding into FE or overriding in CMS
 
 ## Wednesday, April 28
 
 - Defects caused by missing expected data
   - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
   - Content, such as 
-    - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
+    - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404) 
+      - New issue for to consider default headers [#23974](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23974)
     - Unpublished facility health services on prod [#23470, in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23470)
     - Draft location #23481.
   - **Action:** Followup cross-team principle about where and when to be defensive about missing data (eg links, phone numbers, images)
@@ -54,7 +55,7 @@
 
 - Default for Type of care attribute
   - Type of care is optional, unsure what the default should be if empty... "Other services"?
-  - Michelle creating issue to track this 
+  - Michelle creating issue to track this -> [#23975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23975) 
 
 ## Wednesday April 21
 
