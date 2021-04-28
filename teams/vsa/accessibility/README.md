@@ -1,6 +1,6 @@
 # VSA Accessibility 
 
-In this folder, you'll find information specific to how 508 Accessibility works on VA.gov.
+In this folder, you'll find accessibility guidance specific to VSA teams.
 
 <hr/>
 
@@ -12,28 +12,30 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 ## Table of Contents
 
-* [Communication channels](#communication-channels)
+* [Contacting accessibility (a11y) specialists](#contacting-a11y-specialists)
 
-* [How does accessibility fit into our product lifecycle?](#how-does-accessibility-fit-into-our-product-lifecycle)
+* [On-boarding](#on-boarding)
 
-* [VSA accessibility on-boarding](#vsa-accessibility-on-boarding)
+* [Accessibility in the product lifecycle](#accessibility-in-the-product-lifecycle)
 
-* [VSA accessibility reviews](#vsa-accessibility-reviews)
+* [Review process](#review-process)
 
-* [Accessibility resources](#accessibility-resources)
-
-* [VSA Accessibility Dashboard](#vsa-accessibility-dashboard)
+* [Resources](#resources)
 
 
-### Communication channels
+### Contacting A11y Specialists
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
+
+### On-boarding
+
+Documentation coming soon!
 
 #### VSA Accessibility Specialist Contacts
 - Angela Fowler, @AngelaFowler82 in Slack, @AngelaFowler82 in Github, Angela.Fowler@adhocteam.us
 - Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
-### How does accessibility fit into our product lifecycle?
+### Accessibility in the product lifecycle
 
 #### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
 * Define accessibility as a business requirement from the start.
@@ -68,16 +70,12 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 * Define accessibility and 508 compliance QA processes for both before and after deployment.
 
 
-### VSA accessibility on-boarding
-
-Information coming soon!
-
-
-### VSA accessibility reviews
+### Review Process
 
 In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md).
 
-### Accessibility resources
+### Resources
+
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
 
 * Learn about [accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) for research, design, product, and engineering
