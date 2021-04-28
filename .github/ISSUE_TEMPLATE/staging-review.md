@@ -53,4 +53,4 @@ Please note:
 - Please select a time slot at least 4 business days from request date.
 
 ## Additional information
-Please refer to the [VSP Collaboration Cycle README](https://docs.google.com/document/d/1_1gGJW6Go0Kk-H5jttDbQIZrcbKTst9gSZnXKVdeQSg/edit?usp=sharing) on Github for more information about the Collaboration Cycle.
+Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
