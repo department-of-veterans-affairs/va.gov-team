@@ -1,7 +1,7 @@
 
 # Check-in
 
-## Refined High-level Workflow after Initial Veteran Discovery 
+## Refined High-level Scope Workflow after Initial Veteran Discovery 
 ![Preliminary-Veteran-check-in-flow](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
 
 ## Kickoff – Veteran-Facing Capabilities Preliminary Scope
