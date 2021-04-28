@@ -43,6 +43,7 @@
   * Outcomes from Staging review?
 * Review new (optional) audience field widget at https://pr5143-ii6l0ozrcxmdfu2c3fkwla2hsgqtvh0i.ci.cms.va.gov/node/18299/edit 
   * Review of editorial experience.
+  * Template should check for values here before printing it. Also, how does this affect the rest of this page segment layout?
   * when should we merge this? when this gets released to CMS Prod, we'll need to re-assign taxonomy terms to existing CLPs, including the Trust campaign.  
   * "Veterans", "Family Members and Friends", and "Caregivers" will probably need to become: "All Veterans", "Family members and caregivers". No "Friends."
 * Helpdesk vs Handholding balance for beta users
