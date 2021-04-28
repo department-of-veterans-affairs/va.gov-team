@@ -465,20 +465,6 @@ FE
 
 ### My VA redesign
 
-**QA**
-
-- Conduct QA
-
-### Preferred medical facility 
-
-### Notification preferences
-
-**PM**
-
-## Sprint 48 (5/19 - 6/1)
-
-### My VA redesign
-
 **PM**
 
 - Meet with analytics team if needed/available
@@ -524,7 +510,7 @@ FE
 
 **FE** 
 
-- Tech discovery if it didn't happen
+- Tech discovery if it didn't happen #22597
 - If tech discovery did happen, start build
 
 ### Direct deposit
@@ -545,16 +531,8 @@ FE
 
 - If time, high priority accessibility tickets
 
+## Sprint 48 (5/19 - 6/1)
+
 ## Sprint 49 (6/2 - 6/15)
 
-### My VA redesign
-
-### Notification preferences
-
 ## Sprint 50 (6/16 - 6/29)
-
-### My VA redesign
-
-### Preferred medical facility 
-
-### Notification preferences
