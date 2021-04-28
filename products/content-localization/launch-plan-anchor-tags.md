@@ -11,8 +11,8 @@ Planning:
 
 Results:
 
-- Number of users: 
-- Number of bugs identified / fixed: 
+- Number of users: 4
+- Number of bugs identified / fixed: 8 (see ticket # https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23920 
 - Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 - If yes, what: 
