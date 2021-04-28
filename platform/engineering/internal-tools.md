@@ -218,24 +218,19 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from both [inside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34) and [outside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28) the VA network.
 
->**Note:** The first time you connect to the proxy, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
-
-
-#### From inside VA network
-
-Run the following command:
-
-   `ssh socks-va -D 2001 -N &`
-   
-#### From outside VA network
-
 Run the following command:
    
+   `ssh socks -D 2001 -N`
+   
+>**Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will have to enter "yes" at the prompt for the first / initial connection.
+
+Once the script is running, you can put it in the background by typing `control-z`. In the future you can add an ampersand after the command to keep it running in the background:
+
    `ssh socks -D 2001 -N &`
 
 ## Test and use the SOCKS proxy
 
-Use the following steps to verify that the proxy connection is working, and to configure your browser to use the proxy connection. Note that the proxy only allows access to our internal tools, not to the internet at large. So you need to configure your browser to either use the proxy only for `vfs.va.gov` domain (as described below for Chrome), enable/disable the proxy connection as needed, or use a separate browser for accessing the internal tools vs. for general use.
+Use the following steps to verify that the proxy connection is working:
 
 ### Curl
 
