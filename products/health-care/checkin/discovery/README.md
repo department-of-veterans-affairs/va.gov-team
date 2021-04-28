@@ -1,10 +1,10 @@
 
-# Kickoff 
+# Check-in
 
 ## Refined High-level Workflow after Initial Veteran Discovery 
 ![Preliminary-Veteran-check-in-flow](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
 
-## Preliminary Scope – Veteran-Facing Capabilities
+## Kickoff – Veteran-Facing Capabilities Preliminary Scope
 
 ### MVP
 - Ability to check in for appointments
