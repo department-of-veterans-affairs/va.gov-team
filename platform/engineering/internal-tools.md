@@ -214,30 +214,24 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
     * If your key doesn't seem to be working, ask for help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel
 
 
-#### Accessing SOCKS proxy _from VA network_
+#### Accessing the SOCKS proxy 
 
-The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from the VA network - see [Line 34 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34).
+The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from both [inside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34) and [outside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28) the VA network.
 
-1. Run the following command:
+>**Note:** The first time you connect to the proxy, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
+
+
+##### From inside VA network
+
+Run the following command:
 
    `ssh socks-va -D 2001 -N &`
    
-> **Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
+##### From outside VA network
 
-1. Follow the instructions below to test and use the SOCKS proxy.
-
-#### Accessing SOCKS proxy _from the internet_
-
-The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from outside the VA network - see [Line 28 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28).
-
-1. Run the following command:
+Run the following command:
    
    `ssh socks -D 2001 -N &`
-   
->**Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
-
-1. Follow the instructions below to test and use the SOCKS proxy.
-
 
 ## Test and use the SOCKS proxy
 
