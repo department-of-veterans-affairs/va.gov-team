@@ -1,8 +1,8 @@
 # CMS Content Caching Strategy
 
 **Author(s):** Eugene Doan  
-**Last Updated:** March 8, 2021  
-**Status:** Draft | **In Review** | Approved  
+**Last Updated:** April 28, 2021  
+**Status:** **Draft** | In Review | Approved  
 **Approvers:**
 - [ ] Tim Wright
 - [x] Demian Ginther
@@ -220,6 +220,7 @@ The content caching workflow should be moved to the `content-build` repo when th
 
 Date | Revisions Made | Author
 -----|----------------|--------
+April 28, 2021 | Reverted to draft status to close. | Eugene Doan
 April 23, 2021 | Updated after completing prototype. | Eugene Doan
 March 8, 2021 | Completed first draft for review. | Eugene Doan
 March 5, 2021 | Initial draft | Eugene Doan
