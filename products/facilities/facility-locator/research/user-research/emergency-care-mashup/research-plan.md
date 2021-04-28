@@ -8,10 +8,10 @@ The goal of this study is to validate the usability and design of new facility l
 - What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
 - What information do Veterans need/want for community emergency care (in VA network) locations?
 - Do Veterans need to distinguish between these location types in a single list?
-- Do veterans want to filter by facility type, VA/non-VA?
-- Would veterans click to learn more about community emergency care benefits? 
-- Do veterans find labels such as those indicating emergency care service/facility type helpful when finding/selecting an emergency care location?
-- What information does a veteran find helpful in preparing to go to a emergency care facility?
+- Do Veterans want to filter by facility type, VA/non-VA?
+- Would Veterans click to learn more about community emergency care benefits? 
+- Do Veterans find labels such as those indicating emergency care service/facility type helpful when finding/selecting an emergency care location?
+- What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
 #### Hypothesis 
 - Veterans will understand how to find an emergency care location.
