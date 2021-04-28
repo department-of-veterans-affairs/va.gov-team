@@ -9,6 +9,7 @@
  - [Search Events](#search-events)
  - [Custom Dimensions](#Custom-Dimensions)
  - [Custom Metrics](#Custom-Metrics)
+ - [VA.gov Campaign Tracking - UTM Parameters](#VA.gov-Campaign-Tracking---UTM-Parameters)
 
 ## Benefit Hubs Content Grouping
 
@@ -853,5 +854,38 @@ Index|Name|Scope|Formatting Type|Active|
 22|Home Address Suggestion Failures|Hit|Integer|true|
 23|Mailing Address Suggestion Failures|Hit|Integer|true|
 24|Address Override|Hit|Integer|true|
+
+[Back to Table of Contents](#Data-Dictionaries)
+
+## VA.gov Campaign Tracking - UTM Parameters
+
+Link to the SharePoint updated Campaign Tracker: [https://dvagov.sharepoint.com/sites/VAgovCampaignTracker](https://dvagov.sharepoint.com/sites/VAgovCampaignTracker)
+
+### Campaign UTM Sources
+
+| **GA Source** | **Description** |
+| --- | --- |
+| govdelivery | Emails that are sent out via govdelivery |
+| facebook | Links that are housed on Facebook |
+| twitter | Links that are housed on Twitter |
+| instagram | Links that are housed on Instagram |
+| google | Ads that are surfaced on Google |
+| bing | Ads that are surfaced on Bing |
+| Newsletter | Links within a specific newsletter |
+| VEText | Links that are sent via VETtext |
+
+### Campaign UTM Mediums
+
+| **GA Medium** | **Description** |
+| --- | --- |
+| cpc | PPC or CPC paid ad placements (note: AdWords and Bing automatically add UTM tags to ads) |
+| display | Banners and other paid, visual advertising served on sites outside of Adwords such as social &amp; video sites; usually purchased as CPM (note: Google Display Network auto tags links) |
+| email | Email marketing campaigns and staff email signature lines (note: many platforms allow or enforce auto tagging, consult with vendor and configure in tool settings) |
+| offline | Offline marketing in print and broadcast mediums via unique vanity URLs or QR codes |
+| other | All other links placed via alternative methods not listed (examples may include Partners, Mobile Apps, Syndications, Widgets, or RSS) |
+| pr | Press releases distributed via PR syndication, like PRNewswire that point back to vets.gov |
+| referral | Generic for referral mediums |
+| social | Owned &amp; earned traffic from social media &amp; YouTube profiles, posts, and discussions, for paid social advertising use &quot;cpc&quot; or &quot;display&quot; |
+| va-network | Links originating from va.gov and other associated Veteran&#39;s Affairs websites |
 
 [Back to Table of Contents](#Data-Dictionaries)
