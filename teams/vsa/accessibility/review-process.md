@@ -27,7 +27,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
     * [Addressing design issues](#addressing-design-issues)
     
-    * [What is the accessibility specialist looking for during design reviews](#what-is-the-accessibility-specialist-looking-for-during-design-reviews)
+    * [What do we look for during a design review?](#what-do-we-look-for-during-a-design-review?)
     
     * [Accessibility design collaboration](#accessibility-design-collaboration)
     
@@ -58,7 +58,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
   - Pre-usability Testing Design Review
   - Design QA Review Checkpoint
   - [Design Issues Documentation](#design-issues-documentation)
-  - [What is the accessibility specialist looking for during design](#what-is-the-accessibility-specialist-looking-for-during-design)
+  - [What do we look for in a design review](#what-is-the-accessibility-specialist-looking-for-during-design)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
 - [Development Reviews](#development-reviews)
   - Design-Development Intent Checkpoint
@@ -79,6 +79,8 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 <!-- * [VSP Accessibility Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/89faefbdb1e7ce1c783a8cda1aafe9bf7cb0a3b5/platform/accessibility/vsp-508-review-process.md)
  -->
  
+ <hr/>
+ 
  ## Small projects
 For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message your VSA accessibility specialist (Josh or Angela) in Slack to set up an informal async or call review.
  
@@ -94,15 +96,15 @@ For small projects that are only a few days of work, there's no need to go throu
 
 Collaborate with us when crafting your product outline at the start of the project to ensure accessibility is baked in from the start of the process. Doing so will likely reduce the amount of defect tickets and remediation work later in the collaboration cycle.
 
-Pair the product outline with written [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md#product-use-cases-template).
+[Pair the product outline with written use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md#product-use-cases-template).
 
-If you have the bandwidth, please reference the [accessibility testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/product/test-plan.md).
+If you have the bandwidth, please [reference the accessibility testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/product/test-plan.md).
 
 <hr>
 
 ## Design reviews
 
-See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) official checkpoints for medium-to-large projects.
+[See VSP Collaboration Cycle official checkpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) for medium-to-large projects.
 
 Collaborate with us early and often to ensure research plans and designs are inclusive and accessible to Veterans. Feel free to informally reach out to us in your team's Slack channel, by direct message, or tagging us in any relevant github issues and PRs. 
 
