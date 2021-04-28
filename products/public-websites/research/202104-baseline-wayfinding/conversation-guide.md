@@ -103,7 +103,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
  
 ### Task 2: [Track claim status] - 4 minutes
 
@@ -118,7 +118,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
 ### Task 3: [Appoint a representative to help with your claim--Find form] - 4 minutes
 
@@ -131,7 +131,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 - *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat *(va.gov/find-forms)*. 
   - *(if they can't see the chat...)* Look at the Zoom controls on the far right side, and you'll see three dots labelled More. Click/tap on them and select "Chat". Now you should see the chat window open and see the URL there. *(Or just read them the URL.)*
   - Can you try using this page to help with the task?
@@ -150,7 +150,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search > direct deposit > Update Your Direct Deposit Information*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
 ### Task 5: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
@@ -164,7 +164,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 - *(if they struggled...)* I'd like you to go to another page, which I've put the link to in the chat *(va.gov/resources)*. 
   - *(if they can't see the chat...)* Look at the Zoom controls on the far right side, and you'll see three dots labelled More. Click/tap on them and select "Chat". Now you should see the chat window open and see the URL there. *(Or just read them the URL.)*
   - Can you try using this page to help with the task?
@@ -184,7 +184,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Google*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 
 ### Task 7: [Get benefit letter] - 4 minutes 
 
@@ -199,7 +199,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search* 
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 
 ### Task 8: [Get medical records] - 4 minutes
 
@@ -214,7 +214,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search* 
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 
 ### Task 9: [Update dependents] - 4 minutes
 
@@ -229,7 +229,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
