@@ -219,6 +219,12 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from both [inside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34) and [outside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28) the VA network.
 
 Run the following command:
+
+#### from _inside_ the VA network:
+
+   `ssh socks-va -D 2001 -N`
+
+#### from _outside_ the VA network:
    
    `ssh socks -D 2001 -N`
    
