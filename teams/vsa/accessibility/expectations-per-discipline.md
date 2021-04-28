@@ -1,4 +1,4 @@
-VSA Accessibility Expectations & Resources Per Discipline
+VSA Accessibility Expectations & Resources Per Discipline (DRAFT)
 ==============================
 
 Why these processes, now?
