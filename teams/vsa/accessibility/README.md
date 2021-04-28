@@ -23,35 +23,35 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 * [Resources](#resources)
 
 
-### Contacting A11y Specialists
+## Contacting A11y Specialists
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
 - Angela's accessibility and screen reader office hours on Fridays 11:30-12:30 EST (message us for an invite)
 
-#### VSA Accessibility Specialist Contacts
+### VSA Accessibility Specialist Contacts
 - Angela Fowler, @AngelaFowler82 in Slack, @AngelaFowler82 in Github, Angela.Fowler@adhocteam.us
 - Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
-### On-boarding
+## On-boarding
 
 Documentation coming soon!
 
-### Accessibility in the Product Lifecycle
+## Accessibility in the Product Lifecycle
 
-#### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
+### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
 * Define accessibility as a business requirement from the start.
 * Ensure the team has sufficient accessibility expertise.
 * Plan for inclusive research.
 * Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance.
 
 
-#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
+### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
 * Define inclusive research strategies.
 * Define goals and strategies for including people with disabilities (consider specific KPIs).
 * Document gaps as potential risks to inform future research.
 
 
-#### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
+### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
 * Define how to help teams develop empathy for the diverse range of users, such as race, socio-economics, technology challenged, and people with disabilities.
 * Document interaction behavior, and ensure it is accessible.
 * Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, and focus management.
@@ -59,23 +59,23 @@ Documentation coming soon!
 * Use inclusive, accessible prototyping tools, such as Adobe XD and coded prototypes.
 
 
-#### [Development](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/development)
+### [Development](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/development)
 * Establish e2e tests that include the axe checks.
 * Ensure engineers know how to customize tests to ensure hidden and dynamic content is also evaluated.
 * Define workflow processes to evaluate 508 compliance and accessibility throughout development.
 * Ensure foundational accessibility testing is complete ahead of reviews. | [Read about VSP-required foundational accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
 
 
-#### QA
+### QA
 * Use QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard.
 * Define accessibility and 508 compliance QA processes for both before and after deployment.
 
 
-### Review Process
+## Review Process
 
 In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md).
 
-### Resources
+## Resources
 
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
 
