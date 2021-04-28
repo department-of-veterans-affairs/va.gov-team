@@ -40,6 +40,7 @@
 
 
 * Prep for "Veteran trust in VA" launch http://preview-prod.vfs.va.gov/preview?nodeId=18299
+  * Outcomes from Staging review?
 * Review new (optional) audience field widget at https://pr5143-ii6l0ozrcxmdfu2c3fkwla2hsgqtvh0i.ci.cms.va.gov/node/18299/edit 
   * Review of editorial experience.
   * when should we merge this? when this gets released to CMS Prod, we'll need to re-assign taxonomy terms to existing CLPs, including the Trust campaign.  
