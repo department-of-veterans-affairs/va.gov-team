@@ -2,13 +2,9 @@
 
 In this folder, you'll find accessibility guidance specific to VSA teams.
 
-<hr/>
-
 **[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
 
 We'd like to know if the documentation is meeting your needs, and welcome your feedback!
-
-<hr/>
 
 ## Table of Contents
 
