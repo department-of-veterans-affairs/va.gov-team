@@ -38,6 +38,7 @@
 
 - [ ] DSL maintenance downtime [#23796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23796) 
 - [ ] CLP/Trust Staging Review Punch List [#23856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23856)
+- [ ] [Campaign Landing Page MVP Release] VA Trust CLP - Site Navigation Links [#23913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23913)
 - [ ] Accessibility Feedback for Staging Review [Public Website, Campaign Landing Page / Trust (VEO)]
 [#23784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23784)
 - [ ] Design Feedback - Staging Review [Public Website, Campaign Landing Page / Trust (VEO)] [#23843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23843)
