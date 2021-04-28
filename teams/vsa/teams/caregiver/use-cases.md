@@ -9,10 +9,10 @@ Link to product outline: [Product Outline](https://github.com/department-of-vete
 - PFC: Primary family caregiver
 - SFC: Secondary family caregiver
 - Each application must have a Veteran. There can be up to one PFC and up to two SFCs.
-- As of April 2021, we are now adding the ability to upload representation documentation.
+- As of April 2021, we are now adding the ability to upload representation (POA) documentation.
 
 ## Use Cases
-| Use Case | Vet | PFC | SFC1 | SFC2 | POA | Description                   |
+| Use Case | Vet | PFC | SFC1 | SFC2 | POA | Description*                  |
 |:--------:|:---:|:---:|:----:|:----:|:---:|-------------------------------|
 |     A    |  X  |  X  |      |      |     | Vet + PFC                     |
 |     B    |  X  |  X  |   X  |      |     | Vet + PFC + SFC1              |
@@ -24,3 +24,8 @@ Link to product outline: [Product Outline](https://github.com/department-of-vete
 |     H    |  X  |  X  |   X  |   X  |  X  | Vet + PFC + SFC1 + SFC2 + POA |
 |     I    |  X  |     |   X  |      |  X  | Vet + SFC1 + POA              |
 |     J    |  X  |     |   X  |   X  |  X  | Vet + SFC1 + SFC 2 + POA      |
+
+
+### Sign-as-Rep (POA) feature flow
+
+![Caregiver-POA-Flow.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/Caregiver-PoA-Flow.png)
