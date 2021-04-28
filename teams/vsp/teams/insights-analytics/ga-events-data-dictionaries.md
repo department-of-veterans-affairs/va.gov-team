@@ -9,7 +9,7 @@
  - [Search Events](#search-events)
  - [Custom Dimensions](#Custom-Dimensions)
  - [Custom Metrics](#Custom-Metrics)
- - [VA.gov Campaign Tracking - UTM Parameters](#VA.gov-Campaign-Tracking)
+ - [VA.gov Campaign Tracking UTM Parameters](#VA.gov-Campaign-Tracking-UTM-Parameters)
 
 ## Benefit Hubs Content Grouping
 
@@ -857,7 +857,7 @@ Index|Name|Scope|Formatting Type|Active|
 
 [Back to Table of Contents](#Data-Dictionaries)
 
-## VA.gov Campaign Tracking - UTM Parameters
+## VA.gov Campaign Tracking UTM Parameters
 
 Link to the SharePoint updated Campaign Tracker: [https://dvagov.sharepoint.com/sites/VAgovCampaignTracker](https://dvagov.sharepoint.com/sites/VAgovCampaignTracker)
 
