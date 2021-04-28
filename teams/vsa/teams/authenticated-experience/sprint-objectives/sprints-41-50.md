@@ -479,9 +479,71 @@ FE
 
 ### My VA redesign
 
+**PM**
+
+- Meet with analytics team if needed/available
+- Begin filling out ticket for [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+- Begin filling out ticket for [privacy review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+
+**Design**
+
+- Accessibility tests for staging review
+- UAT research plan
+- UAT convo guide
+
+**FE**
+
+- Accessibility tests for staging review
+- Technical docs for privacy and security review
+- If time/needed, start on QA fixes
+
+**QA**
+
+- Conduct QA #23242
+
 ### Preferred medical facility 
 
+**PM**
+
+- Coordinate on ticketing and meetings with Lauren Ernest as needed
+- Determine whether VAOS is ready for design intent and IA review
+
+**Design**
+
+- Work with Peter on design as needed
+- Run mini research study
+
 ### Notification preferences
+
+**Design**
+
+- Content review to finalize items and groups
+  - Share these with VANotify and VEText for concurrence
+  - Share back to VA Profile team
+- IA review #23286
+
+**FE** 
+
+- Tech discovery if it didn't happen
+- If tech discovery did happen, start build
+
+### Direct deposit
+
+- Continue to monitor analytics
+
+### Profile
+
+**PM**
+
+- Work with Liz to compile and send a list of latest updates to the mobile team
+
+**Design**
+
+- If time, any high priority accessibility or other profile updates
+
+**FE**
+
+- If time, high priority accessibility tickets
 
 ## Sprint 49 (6/2 - 6/15)
 
