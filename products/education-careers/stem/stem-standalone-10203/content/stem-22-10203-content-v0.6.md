@@ -476,7 +476,7 @@ This is the bank account information we have on file for you.
 
 { If no bank account on file }
 
-We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. 
+We make payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds. 
 
 * Account type (* Required) { Radio buttons - Checking, Savings }
 
