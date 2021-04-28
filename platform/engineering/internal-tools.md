@@ -232,6 +232,13 @@ Run the following command:
 
 Once the script is running, you can put it in the background by typing `control-z`. In the future you can add an ampersand after the command to keep it running in the background:
 
+
+#### from _inside_ the VA network:
+
+   `ssh socks-va -D 2001 -N &`
+
+#### from _outside_ the VA network:
+
    `ssh socks -D 2001 -N &`
 
 ## Test and use the SOCKS proxy
