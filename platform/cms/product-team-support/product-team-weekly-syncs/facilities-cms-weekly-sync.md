@@ -23,7 +23,7 @@
 
 ## Wednesday, April 28
 
-- Vet Center FAQs - Centralized content
+- Vet Center FAQs and Vet Center Featured Content - Centralized content
 - Policies - status on releasing hardened content 
 - Defects caused by missing expected data
   - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
