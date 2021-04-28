@@ -26,16 +26,17 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 ### Contacting A11y Specialists
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
-
-### On-boarding
-
-Documentation coming soon!
+- Angela's accessibility and screen reader office hours on Fridays 11:30-12:30 EST (message us for an invite)
 
 #### VSA Accessibility Specialist Contacts
 - Angela Fowler, @AngelaFowler82 in Slack, @AngelaFowler82 in Github, Angela.Fowler@adhocteam.us
 - Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
-### Accessibility in the product lifecycle
+### On-boarding
+
+Documentation coming soon!
+
+### Accessibility in the Product Lifecycle
 
 #### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
 * Define accessibility as a business requirement from the start.
