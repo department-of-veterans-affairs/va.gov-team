@@ -214,20 +214,20 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
     * If your key doesn't seem to be working, ask for help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel
 
 
-#### Accessing the SOCKS proxy 
+### Start the SOCKS proxy 
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from both [inside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34) and [outside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28) the VA network.
 
 >**Note:** The first time you connect to the proxy, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
 
 
-##### From inside VA network
+#### From inside VA network
 
 Run the following command:
 
    `ssh socks-va -D 2001 -N &`
    
-##### From outside VA network
+#### From outside VA network
 
 Run the following command:
    
