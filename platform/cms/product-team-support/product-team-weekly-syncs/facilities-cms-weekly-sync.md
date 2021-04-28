@@ -25,13 +25,14 @@
 
 - Defects caused by missing expected data
   - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
-  - Content, such as [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
-  - 
+  - Content, such as 
+    - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
+    - Unpublished facility health services on prod [#23256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23256)
 - Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
+- Policies - status on releasing hardened content 
 - Vet Center FAQs and Vet Center Featured Content - Centralized content
   - [#5159](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5159) Short term solution for Vet Centers, will require FE followup
   - [#5160](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5160) Longer term solution to allow for more complex Centralized content.
-- Policies - status on releasing hardened content 
 - Breadcrumbs: when to use array vs derive from url?
 - Meta tags for VAMC 
   - Design guide update
