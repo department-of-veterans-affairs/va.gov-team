@@ -21,24 +21,40 @@
 
 </details>
 
+## Wednesday, May 5
+
+* Nightwatch 
+* Breadcrumbs: when to use array vs derive from url?
+* Meta tags for VAMC 
+  - Design guide update
+  - Implementing change
+    - pros/cons for hard coding into FE on overriding in CMS
+
 ## Wednesday, April 28
 
 - Defects caused by missing expected data
   - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
   - Content, such as 
     - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404)
-    - Unpublished facility health services on prod [#23256? just closed, maybe another issue?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23256)
+    - Unpublished facility health services on prod [#23470, in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23470)
+    - Draft location #23481.
+  - **Action:** Followup cross-team principle about where and when to be defensive about missing data (eg links, phone numbers, images)
+    - Make the page fail, not the broken link?
+    - Filter via GraphQL?
 - Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
+  - Nightwatch will start failing build starting May 11 for issues like this
+  - CMS help desk may be able to resolve some of these issues in a way thatt reduces this in the future, by teaching editors as we go
+  - CMS and other teams could identify ways of reducing issues in CKeditor or elsewhere
+  - We can add items to Training backlog 
+  - Monthly review of new issues that have arisen? 
 - Policies - status on releasing hardened content 
 - Vet Center FAQs and Vet Center Featured Content - Centralized content
   - [#5159](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5159) Short term solution for Vet Centers, will require FE followup
   - [#5160](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5160) Longer term solution to allow for more complex Centralized content.
-- Breadcrumbs: when to use array vs derive from url?
-- Meta tags for VAMC 
-  - Design guide update
-  - Implementing change
-    - pros/cons for hard coding into FE on overriding in CMS
+
 - Default for Type of care attribute
+  - Type of care is optional, unsure what the default should be if empty... "Other services"?
+  - Michelle creating issue to track this 
 
 ## Wednesday April 21
 
