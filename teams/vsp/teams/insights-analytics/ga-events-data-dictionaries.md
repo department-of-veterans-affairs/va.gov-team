@@ -3,6 +3,7 @@
  - [Products Content Grouping](#Products-Content-Grouping)
  - [Navigation Events](#Navigation-Events)
  - [Medallia Events](#Medallia-Events)
+ - [Interaction Actions](#Interaction-Actions)
  - [Tracking Common User Interactions](#tracking-common-user-interactions)
  - [Design System Component Tracking](#design-system-component-tracking)
  - [Tracking Form Events](#tracking-form-events)
@@ -13,96 +14,103 @@
 
 ## Benefit Hubs Content Grouping
 
-| **Pattern {{Page Path}}** | **Benefit Hub** |
+| **Page Path (RegEx)** | **Benefit Hub** |
 | --- | --- |
+| ^/burial.* | Burials &amp; Memorials |
+| ^/pension.* | Pension &amp; Fiduciary |
+| ^/education.* | Education |
+| ^/gi-bill.* | Education |
+| ^/gibill.* | Education |
+| ^/decision-reviews.* | X |
+| ^/records.* | Records |
+| ^health-care/get-medical-records.* | Records |
+| ^/housing-assistance.* | Housing Assistance |
+| ^/life-insurance.* | Life Insurance |
+| ^/careers-employment.* | Careers &amp; Employment |
+| ^/service-member-benefits.* | Service Member Benefits |
+| ^/family-member-benefits.* | Family Member Benefits |
+| ^/health-?care.* | Health Care |
+| ^/healthbenefits.* | Health Care |
+| ^/.\*-health-care.* | Health Care |
+| ^/track-claims/your-stem-claims | Education
 | ^/track-claims.\* | Disability |
-| ^/disability.\* | Disability |
-| ^/burial.\* | Burials &amp; Memorials |
-| ^/pension.\* | Pension &amp; Fiduciary |
-| ^/education.\* | Education |
-| ^/gi-bill.\* | Education |
-| ^/gibill.\* | Education |
-| ^/records/.\* | Records |
-| ^/disability.\* | Disability |
-| ^/claim-or-appeal-status.\* | Disability |
-| ^/va-payment-history.\* | View Payment History |
-| ^/health-?care.\* | Health Care |
-| ^/healthbenefits.\* | Health Care |
-| ^/profile.\* | Records |
-| ^/records.\* | Records |
-| ^/.\*-health-care.\* | Health Care |
-| ^/housing-assistance.\* | Housing Assistance |
-| ^/life-insurance.\* | Life Insurance |
-| ^/careers-employment.\* | Careers &amp; Employment |
-| ^/service-member-benefits.\* | Service Member Benefits |
-| ^/family-member-benefits.\* | Family Member Benefits |
+| ^/disability.* | Disability |
+| ^/claim-or-appeal-status.* | Disability |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
 ## Products Content Grouping
 
-| **Pattern {{Page Path}}** | **Product** |
+| **Page Path (RegEx)** | **Product Name** |
 | --- | --- |
-| ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
-| ^/records/download-va-letters.\* | Records - Download VA Letters |
-| ^/records/get-veteran-id-cards.\* | Records - VA ID Cards |
-| ^/education/apply-for-education-benefits/application/1990/.\* | Education - Education Benefits Application (1990) |
-| ^/education/apply-for-education-benefits/application/1990E/.\* | Education - Transferred Education Benefits (1990e) |
-| ^/education/apply-for-education-benefits/application/1990N/.\* | Education - Call to Service Program (1990n) |
-| ^/education/change-gi-bill-benefits.\* | Education - Change GI Bill School |
-| ^/education/apply-for-education-benefits/application/5490.\* | Education - Eligible dependent benefits (5490) |
-| ^/education/submit-school-feedback.\* | Education - GI Bill Feedback Tool |
-| ^/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994.\* | Education - Veteran Employment Through Technology Education Courses (22-0994, VET TEC) |
-| ^/education/apply-for-education-benefits/application/5495.\* | Education - Change GI Bill school or program for dependents (5495) |
-| ^/education/opt-out-information-sharing/opt-out-form-0993.\* | Education - Opt-Out of Information Sharing (0993) |
-| ^/education/gi-bill/post-9-11/ch-33-benefit.\* | Education - Post 9-11 GI Bill Statement of Benefits |
-| ^/disability/file-disability-claim-form-21-526ez.\* | Claims - Disability Claims (526EZ v2) |
-| ^/gi-bill-comparison-tool.\* | Education - GI Bill Comparison Tool |
-| ^/gi-bill-comparison-tool/profile.\* | Education - GIBCT Profile Viewed |
-| ^/track-claims/your-claims.\* | Claims - Viewed Details |
-| ^/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment.\* | Claims - Auto Allowance and Adaptive Equipment Application (21-4502) |
-| ^/education/apply-for-education-benefits/application/1995.\* | Education - Request for Change of Program (1995) |
-| ^/my-va.\* | Personalized Tools - Saved my Benefits Preferences |
 | ^/profile.\* | Authenticated Experience Profile 2.0 |
-| ^/health-care/apply/application.\* | Health Care - Health Care Application (10-10EZ) |
-| ^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/.\* | Health Care - Medical Device Reordering Tool (2346a) |
-| ^/health-care/secure-messaging.\* | Health Care - Patient Portal: Messaging |
-| ^/health-care/refill-track-prescriptions.\* | Health Care - Patient Portal: Rx Refills |
-| ^/health-care/schedule-view-va-appointments.\* | Health Care - Patient Portal: Health Records Appointments &amp; Scheduling |
-| ^/health-care/view-test-and-lab-results.\* | Health Care - Patient Portal: Lab and Test Results |
-| ^/health-care/apply/application/introduction.\* | Health Care - Patient Portal: Apply for VA Health Care |
+| ^/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996.\* | Benefits &amp; Memorials - Higher Level Review (20-0996) |
 | ^/burials-and-memorials/application/530.\* | Burial &amp; Preneed - Burial Benefits Application (Form 530) |
 | ^/burials-and-memorials/pre-need/form-10007-apply-for-eligibility.\* | Burial &amp; Preneed - Preneed Eligibility (Form 40-10007) |
-| ^/pension/application/527EZ.\* | Pension - Pension Application (Form 527EZ) |
+| ^/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment.\* | Claims - Auto Allowance and Adaptive Equipment Application (21-4502) |
+| ^/disability/file-disability-claim-form-21-526ez.\* | Claims - Disability Claims (526EZ v2) |
+| ^/track-claims/your-claims.\* | Claims - Viewed Details |
+| x | Content API (Drupal + GraphQL) |
+| ^/coronavirus-chatbot.\* | Covid-19 Chatbot |
+| ^coronavirus-veteran-frequently-asked-questions.\* | COVID-19 FAQs |
+| ^covid19screen.\* | COVID-19 Screening Tool |
+| ^/health-care/covid-19-vaccine/stay-informed/.\* | COVID-19 Vaccination |
+| ^manage-va-debt/request-debt-help-5655.\* | Debt Management - Financial Status Report (5655) |
+| ^/manage-va-debt/your-debt.\* | Debt Management - Manage Your VA Debt |
+| ^/change-direct-deposit.\* | Direct Deposit |
+| ^/disability/how-to-file-claim.\* | Disability - File a Disability Claim for Compensation or Increase |
+| ^/disability/upload-supporting-evidence.\* | Disability - Upload Evidence to Support Claim |
+| ^disability/view-disability-rating.\* | Disability - Ratings Calculator |
 | ^/discharge-upgrade-instructions/guidance.\* | Discharge - Discharge Upgrade Guidance |
 | ^/records/download-va-letters/letters/letter-list.\* | Discharge - Download a Letter |
 | ^/records/get-veteran-id-cards/apply.\* | Discharge - Veteran ID Card (VIC) |
+| ^/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/.\* | Education - Application for STEM Scholarship (22-10203) |
+| ^/education/apply-for-education-benefits/application/1990N/.\* | Education - Call to Service Program (1990n) |
+| ^/education/change-gi-bill-benefits.\* | Education - Change GI Bill School |
+| ^/education/apply-for-education-benefits/application/5495.\* | Education - Change GI Bill school or program for dependents (5495) |
+| ^/education/apply-for-education-benefits/application/1990/.\* | Education - Education Benefits Application (1990) |
+| ^/education/apply-for-education-benefits/application/5490.\* | Education - Eligible dependent benefits (5490) |
+| ^/gi-bill-comparison-tool.\* | Education - GI Bill Comparison Tool |
+| ^/education/submit-school-feedback.\* | Education - GI Bill Feedback Tool |
+| ^/gi-bill-comparison-tool/profile.\* | Education - GIBCT Profile Viewed |
+| ^/education/how-to-apply.\* | Education - How to Apply for GI Bill and Benefits |
+| ^/education/opt-out-information-sharing/opt-out-form-0993.\* | Education - Opt-Out of Information Sharing (0993) |
+| ^/education/gi-bill/post-9-11/ch-33-benefit.\* | Education - Post 9-11 GI Bill Statement of Benefits |
+| ^/education/apply-for-education-benefits/application/1995.\* | Education - Request for Change of Program (1995) |
+| ^/education/apply-for-education-benefits/application/1990E/.\* | Education - Transferred Education Benefits (1990e) |
+| ^/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994.\* | Education - Veteran Employment Through Technology Education Courses (22-0994, VET TEC) |
+| ^/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/.\* | Family Member Benefits - Caregiver Application (10-10cg) |
+| ^/health-care/apply/application.\* | Health Care - Health Care Application (10-10EZ) |
+| ^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/.\* | Health Care - Medical Device Reordering Tool (2346a) |
+| ^/health-care/apply/application/introduction.\* | Health Care - Patient Portal: Apply for VA Health Care |
+| ^/health-care/schedule-view-va-appointments.\* | Health Care - Patient Portal: Health Records Appointments &amp; Scheduling |
+| ^/health-care/view-test-and-lab-results.\* | Health Care - Patient Portal: Lab and Test Results |
+| ^/health-care/secure-messaging.\* | Health Care - Patient Portal: Messaging |
+| ^/health-care/refill-track-prescriptions.\* | Health Care - Patient Portal: Rx Refills |
+| ^/pension/application/527EZ.\* | Pension - Pension Application (Form 527EZ) |
+| ^/performance-dashboard.\* | Performance Dashboard |
+| ^careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/.\* | Personal Career Planning and Growth (Ch. 36) |
+| ^/my-va.\* | Personalized Tools - My VA |
+| ^/privacy-policy.\* | Privacy Policy |
+| ^/change-address.\* | Records - Change Address |
+| ^/records/download-va-letters.\* | Records - Download VA Letters |
+| ^health-care/get-medical-records.\* | Records - Get Medical Records Online |
+| ^/records/get-military-service-records.\* | Records - Request Military Service Records Including DD214 |
+| ^/records/get-veteran-id-cards.\* | Records - VA ID Cards |
+| ^/resources.\* | Resources &amp; Support |
 | ^/find-locations/facility.\* | Unauthenticated Experience - Facility Details Viewed |
 | ^/search.\* | Unauthenticated Experience - Search |
-| ^/records/get-military-service-records.\* | Records - Request Military Service Records Including DD214 |
-| ^/find-forms/about-form.\* | Unauthenticated Experience {{Find form detail pages}} |
-| ^/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/.\* | Education - Application for STEM Scholarship (22-10203) |
-| ^/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/.\* | Family Member Benefits - Caregiver Application (10-10cg) |
-| ^/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996.\* | Benefits &amp; Memorials - Higher Level Review (20-0996) |
-| ^health-care/get-medical-records.\* | Records - Get Medical Records Online |
-| ^/change-address.\* | Records - Change Address |
-| ^/disability/upload-supporting-evidence.\* | Disability - Upload Evidence to Support Claim |
-| ^/disability/how-to-file-claim.\* | Disability - File a Disability Claim for Compensation or Increase |
-| ^/coronavirus-chatbot.* | Covid-19 Chatbot |
-| ^/change-direct-deposit.\* | Direct Deposit |
-| x | Content API (Drupal + GraphQL) |
+| ^/find-forms/about-form.\* | Unauthenticated Experience - {{Find form detail pages}} |
 | ^.\*-health-care.\* | VAMC |
-| ^/performance-dashboard.\* | Performance Dashboard |
-| ^/careers-employment/.\* | Personal Career Planning and Growth (Ch. 36) |
-| ^/privacy-policy.\* | Privacy Policy |
-| ^/resources.\* | Resources &amp; Support |
-| ^/disability/about-disability-ratings.\* | Disability Ratings Calculator |
+| ^va-payment-history/.\* | Veteran Payment History |
+| ^/careers-employment/vocational-rehabilitation/apply/.\* | Veteran Readiness and Employment Form CH31 (28-1900) |
+| ^/track-claims/your-stem-claims.* | Education - Automated Denial STEM Claims
 
 [Back to Table of Contents](#Data-Dictionaries)
 
 ## Navigation Events
 
-| Pattern {{Event}} | Navigation | Location Description |
+| Event Name (RegEx) | Event Action Configuration | Location & Interaction Description |
 | --- | --- | --- |
 | ^nav-main.\* | Navigation - Main Page Buttons | Any of the three large buttons located near the bottom of the page under the benefit hubs (ex. blue rectangle with &quot;Find a VA health facility…&quot;) |
 | ^nav-footer.\* | Navigation - Footer - {{Click Text}} | Located under the benefit hubs and CTA buttons/boxes at the bottom of the page |
@@ -133,7 +141,8 @@
 | ^nav-additionalInfo-collapse | Navigation - Additional Info - Collapse - {{JS - Global - Additional Info - Header Label}} - {{JS - Global - Additional Info - Component Label}} | Grey box located part way down the copy of the page with a yellow line on the left side and a caution symbol (!) on the top left corner (ex. &quot;How do I get help if I&#39;m homeless… on this page: &quot;https://www.va.gov/careers-employment&quot;) |
 | ^nav-jumplink-click | Navigation - Jumplink Click - {{Click Text}} | Located on the far top right corner (ex. &quot;Contact us&quot; or &quot;Sign in&quot;) |
 | ^nav-pipe-delimited-list-click | Navigation - Pipe Delimited List - {{DL - pipe-delimited-list-header}} - {{CJ - Global - Click URL Null Replace}} | Hyperlinked text located in the grey banner under the main navigation menu at the top of the home page (ex. &quot;Find VA locations tool&quot;) |
-| nav-promo-banner-(link\|link-click) | Navigation - Promo Banner - {{Click Text}} | Promo banner on mission act page |
+| ^nav-promo-banner-link-click | Navigation - Promo Banner - {{DL - promo-banner-type}} - {{DL - promo-banner-target}} - {{DL - promo-banner-target}} - {{DL - promo-banner-text}} | Promo banner DS standardized 
+| ^nav-promo-banner-link$ | Navigation - Promo Banner - {{Click Text}} | Promo banner event (legacy)
 | nav-ebenefits-click | Navigation - Click to eBenefits | Green &quot;Go to eBenefits to apply&quot; button (ex. located on this page: &quot;www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment/&quot;) |
 | ^nav-warning-alert-box-content-link-click (Legacy - replaced w/nav-alert-box-link-click) | Navigation - Warning Alert Box - {{DL - alertBoxHeading}} - {{Click Text}} | Selecting any links within an alert box at the top of the screen (ex. &quot;VA&#39;s public health response&quot; inside of the grey alert box at the top of the page with &quot;VA facility and status updates&quot; as the h3 on the home page) |
 | ^nav-paginate-next | Navigation - Paginate - Next | Located at the bottom of the search results on a /search/ page |
@@ -149,22 +158,36 @@
 
 ## Medallia Events
 
-| Medallia Event | New Name |
-| --- | --- |
+| Medallia Event | New Name | Event Description 
+| --- | --- | --- | 
 | ShowForm\_Called | survey-show-form-call |
-| Form\_Displayed | survey-start-form |
-| Form\_Next\_Page | survey-next-click |
-| Form\_Back\_Page | survey-back-click |
-| Form\_Close\_Submitted | survey-submit-close |
-| Form\_Close\_No\_Submit | survey-no-submit-close |
-| Feedback\_Submit | survey-submit |
-| Submit\_Feedback | survey--submission |
-| Feedback\_Button\_Clicked | survey-button-click |
-| ThankYou\_Displayed | survey--submission-successful |
-| Invite\_Displayed | survey-invitation-display |
-| Invite\_Accepted | survey-invitation-accept |
-| Invite\_Declined | survey-invitation-decline |
-| Invite\_Skipped | survey-invitation-skip |
+| Form\_Displayed | survey-start-form | When the feedback form is presented to the user
+| Form\_Next\_Page | survey-next-click | When the user navigates to the next page of the survey
+| Form\_Back\_Page | survey-back-click |  When the user navigates to the prior page of the survey
+| Form\_Close\_Submitted | survey-submit-close | When the user closes the form following submission 
+| Form\_Close\_No\_Submit | survey-no-submit-close | When the form is closed without submission 
+| Feedback\_Submit | survey-submit | 
+| Submit\_Feedback | survey--submission | Fires on all submis attempts
+| Feedback\_Button\_Clicked | survey-button-click | Click on the side Feedback button 
+| ThankYou\_Displayed | survey--submission-successful | When the feedback form has been successfully submitted
+| Invite\_Displayed | survey-invitation-display | When the survey modals pops up and is displayed 
+| Invite\_Accepted | survey-invitation-accept | When the user elects to start the form following invitation
+| Invite\_Declined | survey-invitation-decline | When the user elects to not start (close) the form following invitation
+| Invite\_Skipped | survey-invitation-skip | When the user elects to skip start the form following invitation
+
+[Back to Table of Contents](#Data-Dictionaries)
+
+## Interaction Actions
+
+| Event Collected | Interaction/Action |
+| --- | --- |
+| ^int-radio-button-option-click$ | Radio Button - {{DL - radio-button-label}} - {{DL - radio-button-option-click-label}} |
+| ^int-(additionalInfo\|additional-info)-expand$ | Additional Info - Expand - {{DL - additional-info-triggerText}} |
+| ^int-(additionalInfo\|additional-info)-collapse$ | Additional Info - Collapse - {{DL - additional-info-triggerText}} |
+| ^int-accordion-expand$ | Accordion - Expand - {{CJ - Accordion Action}} |
+| ^int-accordion-collapse$ | Accordion - Collapse - {{CJ - Accordion Action}} |
+| ^int-checkbox-option-click$ | Checkbox - {{DL - checkbox-label}} - {{DL - checkbox-option-click-label}} |
+| ^int-modal-(click\|show)$ | Modal - Click - {{DL - modal-status}} - {{DL - modal-title}} - {{DL - modal-primaryButtonText}} - {{DL - modal-secondaryButtonText}} - {{Click Text}} |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
@@ -230,17 +253,6 @@ on the amount of time VFS and VSP teams spend in implementing the data layer and
   - `MonthYear`
   - `Date`
 - While these components have been reviewed by the VSP Identity team, it is still at the responsibility of the VFS team to conduct a security review before data collection of these components can begin.
-
-
-### Component Embed Schedule
-| Component Name | Tentative Sprint | Tentative Dates
-| ------------- | ------------------- | -----------
-_QA Testing of Buttons_ <br><br>_Begin implementation of [Additional Info,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/additionalinfo/)_ _[Alert Boxes,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/alertbox/)_ _[Modals](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/modal/)_| 44 | 1/20/2021-2/3/2021
- _QA Testing of Additional Info, Alert Boxes, Modals_ <br><br> _Begin implementation of_ _[Promo Banner,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/promobanner/) [Progress Bar,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/progressbar/) [Loading Indicator](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/loadingindicator/)_| 45 |	2/3/2021-2/17/2021
- _QA Testing of Promo Banner, Progress bar, Loading Indicator_ <br><br> _Begin implementation of [Breadcrumbs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/breadcrumbs/)_ | 46 | 2/17/2021-3/3/2021
- _QA Testing + Deployment of design system components to-date, and identify event taxonomy + duplication cleanup where necessary_ | 47 | 3/3/2021-3/17/2021
- _Begin implementation of_ _Form Controls( [text box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/textarea/), [select box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/select/), [check box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/checkbox/), [radio buttons](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/radiobuttons/))_, _[Accordions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/collapsiblepanel/), [Pagination, ](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/pagination/) Side Nav_ <br><br> _QA testing of Form Controls( text box, select box, check box, radio buttons), Accordions, Pagination, Side Nav)_ <br><br> _HARDENING_ | 48 | 3/17/2021-3/31/2021
-
 
 ### Specification
 
@@ -548,7 +560,7 @@ CheckboxGroup.js
    </td>
    <td>Click on a link within the promo banner
    </td>
-   <td><code>'event': 'nav-promo-banner-link-click'</code>
+   <td><code>'event': 'nav-promo-banner-(link|link-click)'</code>
 <p>
 <code>'promo-banner-click-label': //populate according to link click text</code>
 <p>
@@ -743,117 +755,197 @@ _When the orientation of the way search results are presented is changed, either
 
 ## Custom Dimensions
 
-Number|Name|Definition|Scope|Active
---|--|--|--|--
-1|Internal User||User|true
-2|Product Area Used - Health Care|Distinguish users who have ever completed at least one transaction in the Health Care product area|User|true
-3|Product Area Used - Benefits|Distinguish users who have ever completed at least one transaction in the Benefits product area|User|true
-4|Product Area Used - Education|Distinguish users who have ever completed at least one transaction in the Education product area|User|true
-5|Product Area Used - Other|Distinguish users who have ever completed at least one transaction in the Other product area|User|true
-6|Product Used - Education Forms||User|true
-7|Product Used - Health Care Application||User|true
-8|Product Used - Claims/Appeals Tracker||User|true
-9|Product Used - Secure Messaging||User|true
-10|Product Used - Rx Refills||User|true
-11|Product Used - VA Letters||User|true
-12|Product Used - Post 9/11 GI Bill Status||User|true
-13|Product Used - Facility Locator||User|true
-14|Product Used - GIBCT||User|true
-15|Product Used - Health Records||User|true
-16|Product Used - Burial Forms||User|true
-17|Product Used - Pension Forms||User|true
-18|Product Used - VIC||User|true
-19|Product Used - Pre-need Burial Application||User|true
-20|Product Used - Discharge Upgrade||User|true
-21|Logged In||Session|true
-22|LOA Level||Session|true
-23|Telephone Contact||User|true
-24|Product Used - Dashboard||User|true
-25|Product Used - Profile||User|true
-26|Product Used - Account||User|true
-27|LOA Level - User||User|false
-28|LOA Level - Hit||Hit|false
-29|completingForm||Session|true
-30|Modernized Content||Hit|true
-31|Product Used - Recommendations||User|true
-32|Product Area Used - Recommendations Health Care||User|true
-33|Product Area Used - Recommendations Disability||User|true
-34|Product Area Used - Recommendations Appeals||User|true
-35|Product Area Used - Recommendations Education||User|true
-36|Product Area Used - Recommendations Careers||User|true
-37|Product Area Used - Recommendations Pension||User|true
-38|Product Area Used - Recommendations Housing||User|true
-39|Product Area Used - Recommendations Life Insurance||User|true
-40|Product Area Used - Recommendations Burials||User|true
-41|Product Area Used - Recommendations Family Benefit||User|true
-42|Global - Currently Active Duty||Hit|true
-43|Global - Will Be Called to Active Duty||Hit|true
-44|Education - Education Completed||Hit|true
-45|Global - Salary||Hit|true
-46|Education 22-0994 Applied Past Benefits||Hit|true
-47|Education 22-0994 Currently Working Industry||Hit|true
-48|Education 22-0994 Made Program Selection||Hit|true
-49|Education - STEM Scholarship Applicant||Hit|true
-50|Profile Section Saved - Direct Deposit||User|true
-51|Health Facility Location||Hit|true
-52|Health Facility Type||Hit|true
-53|Global - Preferred Contact Method||Hit|true
-54|Global - Benefits Used Recently||Hit|true
-55|Education - Enrolled in Undergrad STEM||Hit|true
-56|Education - Pursue Teaching Certification||Hit|true
-57|Error Key||Hit|true
-58|Profile Section Saved - SMS Optin and Optout||User|true
-59|Placeholder - Event Number||Hit|false
-60|Product - Disability Ratings Viewed||User|true
-61|Video Title||Hit|true
-62|Product - Health Care VAOS User||User|true
-63|Product Area Used - Disability||User|true
-64|Education - Benefit Update||Hit|true
-65|Education - Benefit Claim for Self||Hit|true
-66|Education - National Call to Service||Hit|true
-67|Education - Applicant is Vet Tec||Hit|true
-68|Education - Sponsor Transferred Benefits||Hit|true
-69|Education - Receiving Sponsor Benefits||Hit|true
-70|Education - Sponsor Available||Hit|true
-71|Health Care VAOS - Appointment Type||Hit|true
-72|Health Care VAOS - Type of Care||Hit|true
-73|Health Care VAOS - Flow||Hit|true
-74|Education - 22-1995 - Exhausted All Benefits||Hit|true
-75|Health Care VAOS - Facility Type||Hit|true
-76|Health Care VAOS - Reason for Appointment||Hit|false
-77|Frequently Asked Question||Hit|true
-78|FAQ Section||Hit|true
+| Custom Dimension Name | Index | Scope | Definition |
+| --- | --- | --- | --- |
+| Internal User | 1 | User |  |
+| Product Area Used - Health Care | 2 | User |  |
+| Product Area Used - Benefits | 3 | User | Distinguish users who have ever completed at least one transaction in the Benefits product area |
+| Product Area Used - Education | 4 | User | Distinguish users who have ever completed at least one transaction in the Education product area |
+| Product Area Used - Other | 5 | User | Distinguish users who have ever completed at least one transaction in the Other product area |
+| Product Used - Education Forms | 6 | User | - |
+| Product Used - Health Care Application | 7 | User | - |
+| Product Used - Claims/Appeals Tracker | 8 | User | - |
+| Product Used - Secure Messaging | 9 | User | - |
+| Product Used - Rx Refills | 10 | User | - |
+| Product Used - VA Letters | 11 | User | - |
+| Product Used - Post 9/11 GI Bill Status | 12 | User | - |
+| Product Used - Facility Locator | 13 | User | - |
+| Product Used - GIBCT | 14 | User | - |
+| Product Used - Health Records | 15 | User | - |
+| Product Used - Burial Forms | 16 | User | - |
+| Product Used - Pension Forms | 17 | User | - |
+| Product Used - VIC | 18 | User | - |
+| Product Used - Pre-need Burial Application | 19 | User | - |
+| Product Used - Discharge Upgrade | 20 | User | - |
+| Logged In | 21 | Session | Distinguish users who have logged in |
+| LOA Level | 22 | Session | Level of authorization - collected right after a user logs in  |
+| Telephone Contact | 23 | User | User's phone contact information collected after a user logs in |
+| Product Used - Dashboard | 24 | User | - |
+| Product Used - Profile | 25 | User | - |
+| Product Used - Account | 26 | User | - |
+| LOA Level - User | 27 | User | Level of authorization - collected right after a user logs in  |
+| LOA Level - Hit | 28 | Hit | Level of authorization - collected right after a user logs in  |
+| completingForm | 29 | Session | User completes a form, such as at www.va.gov/education/submit-school-feedback/school-information |
+| Modernized Content | 30 | Hit | Distinguish web pages that have been updated to the modernized design |
+| Product Used - Recommendations | 31 | User | - |
+| Product Area Used - Recommendations Health Care | 32 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Health Care product area |
+| Product Area Used - Recommendations Disability | 33 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Disability product area |
+| Product Area Used - Recommendations Appeals | 34 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Appeals product area |
+| Product Area Used - Recommendations Education | 35 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Education product area |
+| Product Area Used - Recommendations Careers | 36 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Careers product area |
+| Product Area Used - Recommendations Pension | 37 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Pension product area |
+| Product Area Used - Recommendations Housing | 38 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Housing product area |
+| Product Area Used - Recommendations Life Insurance | 39 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Life Insurance product area |
+| Product Area Used - Recommendations Burials | 40 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Burials product area |
+| Product Area Used - Recommendations Family Benefit | 41 | User | Distinguish users who have ever completed at least one transaction in the Recommendations Family Benefit product area |
+| Global - Currently Active Duty | 42 | Hit | User responds yes or no on the edu-0994-submission-successful event label on either the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page or the www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/review-and-submit/ page |
+| Global - Will Be Called to Active Duty | 43 | Hit | User responds no on the edu-0994-sip-form on either the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page or www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/confirmation/ page |
+| Education - Education Completed | 44 | Hit | How a user responds to the level of education completed on the edu-0994 form. Option include: (1) some college (2) bachelors degree (3) masters degree (4) associates degree (5) high school diploma or GED (6) other (7) doctoral degree (8) some high school  |
+| Global - Salary | 45 | Hit | How a user responds to the salary range question on the edu-0994 form. Option include: (1) more than 75k (2) 50k to 75k (3) 35k to 50k (4) 20k to 35k (5) less than 20k |
+| Education 22-0994 Applied Past Benefits | 46 | Hit | User response to the applied past benefits question (yes or no) collected on the edu-0994-submission-successful event label on the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page |
+| Education 22-0994 Currently Working Industry | 47 | Hit | User response to the currently working industry question (yes or no) collected on the edu-0994-submission-successful event label on the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page |
+| Education 22-0994 Made Program Selection | 48 | Hit | User response to the made program question (yes or no) collected on the edu-0994-submission-successful event label on the www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/review-and-submit/ page |
+| Education - STEM Scholarship Applicant | 49 | Hit | User response to STEM scholarship question (yes or unanswered) collected with the edu-howToApply-applyNow event label |
+| Profile Section Saved - Direct Deposit | 50 | User | User who is logged in saved their direct deposit information |
+| Health Facility Location | 51 | Hit | Name of hte health facility location that the event/pageview/action is taking place (for example, Pittsburgh on this page: www.va.gov/pittsburgh-health-care/) |
+| Health Facility Type | 52 | Hit | This CD is set as `Campus` when a user visits or completes actions on this page:         <br>www.va.gov/careers-employment/vetsuccess-on-campus/  |
+| Global - Preferred Contact Method | 53 | Hit | User response to the preferred contact method on either the edu-1995 form or the edu-10203 form. Options include: (1) email (2) mobile (3) phone (4) mail (5) mobilePhone (6) homePhone |
+| Global - Benefits Used Recently | 54 | Hit | User response to benefits used recently question found on the edu-1995 form, edu-howToApply-formChange event, edu-10203 form, and edu-form-change event. Options include: (1) new (2) update (3) chapter33 (4) stem-scholarship (5) chapter 1606 (6) transferOfEntitlement (7) chapter30 (8) fryScholarship (9) chapter32 |
+| Education - Enrolled in Undergrad STEM | 55 | Hit | User response (either Yes or No) to the enrolled in undergrad STEM question on the edu-10203 form |
+| Education - Pursue Teaching Certification | 56 | Hit | User response (either Yes or No) to the persue teaching certification question on the edu-10203 form |
+| Error Key | 57 | Hit | An error occured (for example, 503 internal error if the disability-ratings-list-load-failed event happens on this page: www.va.gov/disability/view-disability-rating/rating/) |
+| Profile Section Saved - SMS Optin and Optout | 58 | User | User who is logged in saved their SMS opt-in and opt-out information |
+| Education - Type of Education | 59 | Hit | **No data is being collected** |
+| Product - Disability Ratings Viewed | 60 | User | Value is set to true when a user views disability ratings |
+| Video Title | 61 | Hit | Title of a video (for example, there is a video titled `How to Help Homeless Veterans on this page: www.va.gov/homeless/) |
+| Product - Health Care VAOS User | 62 | User | A value set to true if a user is logged in as a health care VAOS user |
+| Product Area Used - Disability | 63 | User | Distinguish users who have ever completed at least one transaction in the Disability product area |
+| Education - Benefit Update | 64 | Hit | User updates their benefits within the education benefit hub (values for this CD include (1) new (2) update (3) stem-scholarship) |
+| Education - Benefit Claim for Self | 65 | Hit | User's response to the question of if they are filling out the benefit claim for themselves. Options include: (1) yes (2) no (3) unanswered  |
+| Education - National Call to Service | 66 | Hit | User's response to the question of national call to service. Options include: (1) yes (2) no (3) unanswered. Found on this page: www.va.gov/education/eligibility/ as well as this page: www.va.gov/education/how-to-apply/ |
+| Education - Applicant is Vet Tec | 67 | Hit | User's response to the question of vet tec. Options include: (1) yes (2) no (3) unanswered. Found on this page: www.va.gov/education/eligibility/ as well as this page: www.va.gov/education/how-to-apply/ |
+| Education - Sponsor Transferred Benefits | 68 | Hit | User's response to the question of sponsor transfer benefits. Options include: (1) yes (2) no (3) unanswered. Found on this page: www.va.gov/education/eligibility/ as well as this page: www.va.gov/education/how-to-apply/ |
+| Education - Receiving Sponsor Benefits | 69 | Hit | User's response to the question of receiving sponsor benefits. Options include: (1) yes (2) no (3) unanswered. Found on this page: www.va.gov/education/eligibility/ as well as this page: www.va.gov/education/how-to-apply/ |
+| Education - Sponsor Available | 70 | Hit | User's response to the question of sponsor available. Options include: (1) yes (2) no (3) unanswered. Found on this page: www.va.gov/education/eligibility/ as well as this page: www.va.gov/education/how-to-apply/ |
+| Health Care VAOS - Appointment Type | 71 | Hit | Appointment type (either `confirmed` or `pending`) for a VAOS apointment |
+| Health Care VAOS - Type of Care | 72 | Hit | Answer to the question asking users to `choose the type of care you need`. Options include: `primary care`, `mental health`, `optometry`, `COVID-19 vaccine`, etc. Pages this CD is set: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment |
+| Health Care VAOS - Flow | 73 | Hit | Type of flow for a VAOS request. Options include: `va-request`, `direct`, and `cc-request` |
+| Education - 22-1995 - Exhausted All Benefits | 74 | Hit | **No data is being collected** |
+| Health Care VAOS - Facility Type | 75 | Hit | Facility type a user selects in the VAOS flow. Options incude: `va` or `cc` |
+| Health Care VAOS - Reason for Appointment | 76 | Hit | **No data is being collected**. Answer to the question asking users to `choose a reason for your appointment`. Options include: `routine or follow-up visit`, `I have a new medical issue`, `I have a concern or question about my medication`, or `My reason isn't listed here`. |
+| Frequently Asked Question | 77 | Hit | CD is set to the FAQ question that houses the hyperlink a user clicks on on this page: www.va.gov/coronavirus-veteran-frequently-asked-questions/ (for example: `Should I get a flu shot this year?`) |
+| FAQ Section | 78 | Hit | CD is set to the FAQ section that the user selected a specific question in. For example, this CD would be set to `Coronavirus-specific concerns` if a user were to select a hyperlink under the question, "Should I get a flu shot this year?". |
+| Education - YR - Filter - Contribution Amount | 79 | Hit | Contribution amount CD is set to either `(not set)` or `unlimited` |
+| Education - YR - Filter - Number Of Students | 80 | Hit | Contribution amount CD is set to either `(not set)` or `unlimited` |
+| Education - School Name | 81 | Hit | CD is set to the school name entered into the text box "Enter full school name" found on this page: https://www.va.gov/education/yellow-ribbon-participating-schools/. Many of the `Education - School Name` CD entries are set to `(not set)` |
+| Education - School State | 82 | Hit | CD is set to the state entered into the box "State or territory" found on this page: https://www.va.gov/education/yellow-ribbon-participating-schools/. Many of the `Education - School Name` CD entries are set to `(not set)` |
+| Education - School City | 83 | Hit | CD is set to the city entered into the box "City" found on this page: https://www.va.gov/education/yellow-ribbon-participating-schools/. Many of the `Education - School Name` CD entries are set to `(not set)` |
+| [old] Education - YR - # of Search Results | 84 | Hit | CD is set to an integer matching the number of search results of a search on this page: www.va.gov/education/yellow-ribbon-participating-schools/ |
+| VAOS Facility ID | 85 | Hit | Facility ID of the facility selected during the VAOS flow |
+| Product Name | 86 | Hit | Product name set in the `bam-form-change` event label on this page: www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346 |
+| Product IDs | 87 | Hit | Product ID set in the `bam-form-change` event label on this page: www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346 |
+| Product IDs - Failed | 88 | Hit | Product ID failed on the order form 2346 |
+| Partial Form Submission Failed | 89 | Hit | CD set to `1` if order form 2346 fails for being only partially complete |
+| Component Relative Size | 90 | Hit | CD set to `Small` on this page: www.va.gov/gi-bill-comparison-tool/profile/ |
+| Context Date | 91 | Hit | Set to the context date at this page: www.va.gov/manage-va-debt/your-debt/debt-letters/ |
+| User has connected apps | 92 | User | CD either set to `true` or `false` depending on if a user has connected apps |
+| Unused | 93 | Hit | **No data is being collected** |
+| Education - Historical School Details | 94 | Hit | String of data including school name, city, and state collected from the edu-1995 form |
+| Global - Dependent Children | 95 | Hit | User indicated `yes` or `no` to having dependent children on the edu-1995 form  |
+| Global - Dependent Parent | 96 | Hit | User indicated `yes` or `no` to having dependent parent on the edu-1995 form  |
+| Global - Married | 97 | Hit | User indicated `yes` or `no` to being married on the edu-1995 form  |
+| Global - Direct Deposit Change Method | 98 | Hit | User indicated `noChange`, `startUpdate`, or `stop` to direct deposit change method on the edu-1995 form  |
+| Global - Direct Deposit Account Type | 99 | Hit | User indicated `checking`, `savings`, or `none` to direct deposit account type on either the edu-1995 form or the edu-10203 form |
+| Global - Service Before 1978 | 100 | Hit | User indicated `yes` or `no` to serving before 1978 on the edu-1995 form  |
+| Global - Service Branches | 101 | Hit | User indicated branch served in such as `army` or `navy`on the edu-1995 form  |
+| Global - Service Start Dates | 102 | Hit | CD set to the date entered as the user's/vet's service start date on the edu-1995 form |
+| Global - Service End Dates | 103 | Hit | CD set to the date entered as the user's/vet's service end date on the edu-1995 form |
+| Education - Field of Study / Degree | 104 | Hit | User indicated field of study and length of time on the form 22-10203 form (for example, `sixMonthsOrLess` or `Computer Science`) |
+| Education - Benefits Remaining | 105 | Hit | User indicated length of time for benefits remaining on the form 22-10203 form. Options include: `sixMonthsOrLess`, `none`, or `moreThanSixMonths` |
+| Health Care VAOS - Express Care Reason | 106 | Hit | CD set to the express care reason a user selects while scheduling an appointment. Options include: `back pain`, joint or muscle pain or minor injury`, etc. Page to schedule an appointment: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-express-care-request/additional-details/ |
+| Health Care VAOS - Express Number of Cards | 107 | Hit | **No data is being collected** |
+| Health Care VAOS - Upcoming Number of Cards | 108 | Hit | **No data is being collected** |
+| Facility Locator Search - Service Type | 109 | Hit | Service type (for example, `UrgentCare` or `Optometrist`) collected from a facility locator search on this page: www.va.gov/facilities/ |
+| Facility Locator Search - Facility Type | 110 | Hit | Facility type (for example, `health` or `pharmacy`) collected from a facility locator search on this page: www.va.gov/facilities/ |
+| Health Care VAOS - Returned Item Type | 111 | Hit | Returned item type (for example, `upcoming` or `video_home`) from the VAOS flow and collected on this page: www.va.gov/health-care/schedule-view-va-appointments/appointments/  |
+| Health Care VAOS - Returned Number of Items | 112 | Hit | CD is set to an integer matching the number of items of a search on this page:         <br>www.va.gov/health-care/schedule-view-va-appointments/appointments/ |
+| Global - Dependent Debt | 113 | User | CD is set to either `Without Dependent Debt` or `With Dependent Debt` depending on the user's selection on this page: www.va.gov/manage-va-debt |
+| Type Ahead Options Keyword Selected | 114 | Hit | User selects a type ahead option. The values for this CD are endless. |
+| Type Ahead Options List | 115 | Hit | User views type ahead options list |
+| Phased Out Product | 116 | Session | CD value is set to either `type ahead` or `chapter 36` |
+| Type Ahead Option Chosen Position | 117 | Hit | CD value is set to the position of the type ahead option that the user selected (either `1`, `2`, `3`, `4`, `5`, or `(not set)`) |
+| HLR - Same Office Requested | 118 | Hit | CD value is set to either `yes` or `no` based on the user's selection on the 20-0996 form |
+| HLR - Informal Conference Requested | 119 | Hit | CD value is set to either `yes`, `yes-with-rep`, or `no` based on the user's selection on informal conference requested the 20-0996 form |
+| Search Results Type | 120 | Hit | CD value is set to the search result type (`title`, `pdf`, `cta`, etc.) a user selects when completing a search on any search page ( /search/, /find forms/, /yellow-ribbon-participating-schools/, etc.) |
+| Medallia Feedback UUID | 121 | Session | The UUID for Medallia feedback typically found on this page: www.va.gov/facilities/index.html?XXX |
+| Medallia Survey ID | 122 | Hit | Survey ID for the Medallia survey that is being leveraged |
+| Medallia Survey Status | 123 | Hit | The Medallia survey status is set to either `AlwaysOn`, `Intercept`, or `Invite` and is collected when a user begins a survey |
+| Placeholder - CLP Event Name | 124 | Hit | **No data is being collected** |
+| Medallia - Survey Contents | 125 | Hit | String of information collected when a survey is submitted or closed |
+| Education - Facility Code | 126 | Hit | This CD is most commonly set as `(not set)`, however a facility code is captured if a user enters a facility on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
+| Education - Institution ID | 127 | Hit | This CD is most commonly set as `(not set)`, however an institution ID is captured if a user enters the relevant information on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
+| Education - YR - School Search Result Details | 128 | Hit | Set as a long string of information containing a school's details from a school search result (such as city, country, state, etc.) from a search on the page: www.va.gov/education/yellow-ribbon-participating-schools/ |
+| Click URL | 129 | Hit | **No data is being collected** |
+| Health Care VAOS - Preferred Language | 130 | Hit | When a user changes their preferred language option on this page: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review/. Most commonly this CD is set to `(not set)` |
+| Health Care VAOS - Number of Preferred Providers | 131 | Hit | Set to either `1` or `0` depending on the user's selection of number of preferred providers when a user submits the VAOS form to schedule an appointment here: www.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review/ |
+| GTM Version Number | 132 | Hit | **No data is being collected**. CD value is set to the current GTM verison that is running on VA.gov. This is useful for checking historical data and knowing what the GTM configuration was for the period of time being analyzed.  |
+| Component Library Version | 133 | Hit | **No data is being collected**. |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
 ## Custom Metrics
 
-Index|Name|Scope|Formatting Type|Active|
---- |:--- |:--- |:--- |--- |
-1|Event Start|Hit|Time|false|
-2|Event Complete|Hit|Time|false|
-3|IDme Login Attempt|Hit|Integer|true|
-4|IDme Login Success|Hit|Integer|true|
-5|MHV Login Attempt|Hit|Integer|true|
-6|MHV Login Success|Hit|Integer|true|
-7|DSLogon Attempt|Hit|Integer|true|
-8|DSLogon Success|Hit|Integer|true|
-9|Education - Count of Programs Saved|Hit|Integer|true|
-10|File Uploads|Hit|Integer|true|
-11|Disability Calculator Rows|Hit|Integer|true|
-12|Unused|Hit|Integer|false|
-13|Unused|Hit|Integer|false|
-14|Unused|Hit|Integer|false|
-15|Unused|Hit|Integer|false|
-16|Unused|Hit|Integer|false|
-17|GIBCT - Profile Benefit Estimate|Hit|Currency (Decimal)|true|
-18|Unused|Hit|Integer|false|
-19|Address Validation Needed|Hit|Integer|true|
-20|Address Suggestion Provided|Hit|Integer|true|
-21|Address Suggestion Used|Hit|Integer|true|
-22|Home Address Suggestion Failures|Hit|Integer|true|
-23|Mailing Address Suggestion Failures|Hit|Integer|true|
-24|Address Override|Hit|Integer|true|
+| Custom Metric Name | Index | Scope | Formatting Typpe | Definition |
+| --- | --- | --- | --- | --- |
+| Event Start | 1 | Hit | Time |  |
+| Event Complete | 2 | Hit | Time |  |
+| IDme Login Attempt | 3 | Hit | Integer | When a user attempts to login via IDme |
+| IDme Login Success | 4 | Hit | Integer | When a user successfully logs in via IDme |
+| MHV Login Attempt | 5 | Hit | Integer | When a user attempts to login via MHV |
+| MHV Login Success | 6 | Hit | Integer | When a user successfully logs in via MHV |
+| DSLogon Attempt | 7 | Hit | Integer | When a user attempts to login via DSLogon |
+| DSLogon Success | 8 | Hit | Integer | When a user successfully logs in via DSLogon |
+| Education - Count of Programs Saved | 9 | Hit | Integer | Occurs with a Vet Tec Completion with the edu-0994 form |
+| File Uploads | 10 | Hit | Integer | When a user uploads a file |
+| Disability Calculator Rows | 11 | Hit | Integer | Number of rows being used in the disability rating calculator found on /disability/about-disability-ratings/ |
+| Unused | 12 | Hit | Integer | - |
+| Unused | 13 | Hit | Integer | - |
+| Unused | 14 | Hit | Integer | - |
+| Unused | 15 | Hit | Integer | - |
+| Unused | 16 | Hit | Integer | - |
+| GIBCT - Profile Benefit Estimate | 17 | Hit | Currency (Decimal) |  |
+| Unused | 18 | Hit | Integer | - |
+| Address Validation Needed | 19 | Hit | Integer | This is triggered with a profile navigation action |
+| Address Suggestion Provided | 20 | Hit | Integer | This is triggered with a profile navigation action |
+| Address Suggestion Used | 21 | Hit | Integer | User leverages an address suggestion when submitting information on their profile |
+| Home Address Suggestion Failures | 22 | Hit | Integer | Can occur when there is a profile save failure |
+| Mailing Address Suggestion Failures | 23 | Hit | Integer | Can occur when there is a profile save failure |
+| Address Override | 24 | Hit | Integer | User does not leverage the address suggestion and instead opts to override and use their own input when submitting information on their profile |
+| Screening Tool Total Results Returned | 25 | Hit | Integer | Number of results displayed on the COVID screening tool |
+| Screening Tool Total Time | 26 | Hit | Time | Time to complete the COVID screening tool |
+| BAM - Quantity Ordered | 27 | Hit | Integer | Used on a form event |
+| STEM Scholarship Criteria Met - Post 911 | 28 | Hit | Integer | Used for if the post-911 eligibility criteria on the STEM Scholarship was met. If met then convert true to `{{JS - Generic - Custom Metric Increment}}` and convert false to `{{Generic Undefined}}`.  |
+| STEM Scholarship Criteria Met - STEM or Teaching | 29 | Hit | Integer | Used for if the STEM or Teaching eligibility criteria on the STEM Scholarship was met. If met then convert true to `{{JS - Generic - Custom Metric Increment}}` and convert false to `{{Generic Undefined}}`.  |
+| STEM Scholarship Criteria Met - Benefits Remaining | 30 | Hit | Integer | Months remaining for edu elegibility criteria use - used in the `Product Ineligibility Alerts` tag.  |
+| Disability - Claim for Spouse | 31 | Hit | Integer | Used in a disability form event to indicate if they are filing a claim for their spouse |
+| Disability - Child Under 18 and Unmarried | 32 | Hit | Integer | Used in a disability form event for if user has a child under 18 and or are unmarried |
+| Disability - Child Attending School | 33 | Hit | Integer | Used in a disability form event for if user has a child attending school |
+| Disability - Divorce Reported | 34 | Hit | Integer | Used in a disability form event for if user reports a divorce |
+| Disability - Step Child Left Household | 35 | Hit | Integer | Used in a disability form event for if user had a step child leave the household |
+| Disability - Death of Dependent or Spouse | 36 | Hit | Integer | Used in a disability form event for if user had a death of a dependent or spouse |
+| Disability - Child Married | 37 | Hit | Integer | Used in a disability form event for if user had a child get married |
+| Disability - Child Stopped Attending School | 38 | Hit | Integer | Used in a disability form event for if user had a child stop attending school |
+| Type Ahead Option Chosen Position | 39 | Hit | Integer | What position (integer) the type ahead option that the user selected was in relative to the list of type ahead options |
+| Search Results Position | 40 | Hit | Integer | What position (integer) the search results option that the user selected was in relative to the list of search results |
+| Search Total Results Returned | 41 | Hit | Integer | Number (integer) of the total results returned from a user's search |
+| Search Results Total Pages Returned | 42 | Hit | Integer | Number (integer) of the total pages of search results returned from a user's search |
+| Search Results Click Page Number | 43 | Hit | Integer | If a user clicks a page number located at the bottom of the results on a search result page |
+| Search Results Top Recommendations Clicks | 44 | Hit | Integer | If a user clicks a search result located in the "Top Recommendations" section of a search results page |
+| Search Performed | 45 | Hit | Integer | If a user performs a search on VA.gov |
+| Medallia Feedback Submission Value | 46 | Hit | Integer |  |
+| Sitewide Search From Header Input | 47 | Hit | Integer | If a user performs a sitewide search on VA.gov via the search bar located in the header |
+| Type Ahead Suggestions Count | 48 | Hit | Integer |  |
+| Unused | 49 | Hit | Integer | - |
 
 [Back to Table of Contents](#Data-Dictionaries)
 
