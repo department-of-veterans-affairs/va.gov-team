@@ -9,7 +9,7 @@
  - [Search Events](#search-events)
  - [Custom Dimensions](#Custom-Dimensions)
  - [Custom Metrics](#Custom-Metrics)
- - [VA.gov Campaign Tracking - UTM Parameters](#VA.gov-Campaign-Tracking---UTM-Parameters)
+ - [VA.gov Campaign Tracking - UTM Parameters](#VA.gov-Campaign-Tracking)
 
 ## Benefit Hubs Content Grouping
 
