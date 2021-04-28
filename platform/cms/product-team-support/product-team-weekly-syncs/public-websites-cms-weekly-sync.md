@@ -35,13 +35,15 @@
 
 </details>
 
-## April 21
 
-* Review new (optional) audience field widget.
+## April 28
+
+
+* Review new (optional) audience field widget at https://pr5143-ii6l0ozrcxmdfu2c3fkwla2hsgqtvh0i.ci.cms.va.gov/node/18299/edit 
+* Prep for Veteran-trust-in VA launch http://preview-prod.vfs.va.gov/preview?nodeId=18299 
 * Helpdesk vs Handholding balance for beta users
-  * Should CMS helpdesk kickoff start
+  * When should CMS helpdesk kickoff start?
 * Onboarding users if needed (VBA)
-* Testing content (eg CLP for /campaign-mission-act) for analytics or users off the network
 
 ## Wednesday, April 14
 CLP
