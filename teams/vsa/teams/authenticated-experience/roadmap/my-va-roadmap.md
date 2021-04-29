@@ -14,6 +14,7 @@
 |----|----|----|----|----|----|
 |**My VA redesign**| Finish design; user testing; FE build | QA; pre-launch; launch | — | — |— |
 |**My VA post-launch experiments**| — | Planning | Run experiments | — |— |
+|**User roles & permissions**| - | - | Collab with identity team; details TBD | TBD | TBD |
 
 ## Completed projects
 
