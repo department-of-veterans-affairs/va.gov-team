@@ -1,5 +1,5 @@
 
-## PROJECT BRIEF
+## IDEA BRIEF
 
 
 ### Project Name
