@@ -474,8 +474,9 @@ FE
 **Design**
 
 - Accessibility tests for staging review
-- UAT research plan
-- UAT convo guide
+- UAT research plan, if not already done
+- UAT convo guide, if not already done
+- If UAT work is not already done, start thinking around [post-launch experiments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/samara-leave-planning.md#designer-priority-run-experiments-on-how-we-can-better-elevate-action-items)
 
 **FE**
 
@@ -530,6 +531,10 @@ FE
 **FE**
 
 - If time, high priority accessibility tickets
+
+### Backend work
+
+- Lihan may me able to help the identity team with user roles and permissions discovery. TBD. Working with Christine Dillman on this.
 
 ## Sprint 48 (5/19 - 6/1)
 
