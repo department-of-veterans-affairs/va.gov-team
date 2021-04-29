@@ -64,7 +64,7 @@ If you apply and you're not eligible, your application will be denied.
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
   * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification.   
   [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf) 
-  * You've already earned a STEM graduate or undergraduate degree and are pursuing a covered clinical training program for healthcare professionals.   
+  * You've already earned a STEM undergraduate or graduate degree and are pursuing a covered clinical training program for healthcare professionals.   
   [See covered training programs]() 
 
 
@@ -219,19 +219,6 @@ Form 22-10203
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
-About how much of your education benefit do you have left? (*Required) 
-
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
-
-- More than 6 months
-- 6 months or less
-- None. I've used all of my education benefit.
-
-{ if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
-
-{ if "More than 6 months", display an "x" for the "Have used all of your education benefits..." bullet on STEM eligibility summary page } 
-
-
 Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) 
 
 [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }    
@@ -262,7 +249,17 @@ Do you have a STEM undergraduate or graduate degree and are now pursuing a cover
 
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
- 
+About how much of your education benefit do you have left? (*Required) 
+
+[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
+
+- More than 6 months
+- 6 months or less
+- None. I've used all of my education benefit.
+
+{ if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
+
+{ if "More than 6 months", display an "x" for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
 
 {If not STEM undergrad or not pursuing teaching certification or not pursuing clinical training program – will be noted in STEM eligibility summary page }  
 
@@ -313,7 +310,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
                      
-  - Have already earned a STEM degree and are pursuing a covered clinical training program for healthcare professionals  
+  - Have already earned a STEM undergraduate or graduate degree and are pursuing a covered clinical training program for healthcare professionals  
 
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
@@ -349,7 +346,7 @@ Form 22-10203
 
 ### Chapter Title:  3 of 6: Program details
 
-#### STEM degree and school or training institution details { Sub-head }  
+#### STEM degree and institution details { Sub-head }  
 
   - What's the name of your STEM degree? (*Required) { text field }  
 
@@ -362,13 +359,13 @@ Form 22-10203
   - State (*Required)  { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
 
 
-#### Your school or training institution ID and contact details  { Sub-head } 
+#### Your student ID and contact details  { Sub-head } 
 
 These details will help us review your application faster, but aren't required. 
 
-  - Your school or training institution student ID number { Text field }  
+  - Your student ID number { Text field }  
 
-  - Your school or training institution email address (This email address usually ends with .edu) { Text field with email address validation }  
+  - Your student email address (This email address usually ends with .edu) { Text field with email address validation }  
   
 { blue background alert }  
 
@@ -464,7 +461,7 @@ Form 22-10203
 
 { If bank account is on file }
 
-This is the bank account information we have on file for you.
+This is the bank account information we have on file for you.  This is where we'll send your payments.
 
 **Payment information**
 * **{ Checking/Savings } Account** { prefill if present } 
