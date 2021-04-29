@@ -10,11 +10,11 @@ assignees: andreahewitt-odd, shiragoodman
 ## Steps to complete Midpoint Review 
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
 - [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @vsp-product-support-members.
-- [ ] VSP: Schedule meeting with VSP reviewers and VFS team attendees (listed below).
-- [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below and ensure VSP reviewers have appropriate access to secured applications.
-- [ ] VSP: Create feedback tickets and link to the Midpoint Review ticket (if no feedback, please comment stating that). 
-- [ ] VFS: Respond to VSP feedback tickets.
-- [ ] VSP: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061). 
+- [ ] Platform: Schedule meeting with Collaboration Cycle reviewers and VFS team attendees (listed below).
+- [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below and ensure Collaboration Cycle reviewers have appropriate access to secured applications.
+- [ ] Platform: Create feedback tickets and link to the Midpoint Review ticket (if no feedback, please comment stating that). 
+- [ ] VFS: Respond to feedback tickets.
+- [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061). 
 - [ ] VFS: Close this ticket when the review is complete.
 
 
