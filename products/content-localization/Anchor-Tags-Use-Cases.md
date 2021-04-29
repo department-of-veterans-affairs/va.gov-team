@@ -25,7 +25,7 @@ Link to product outline: Anchor Tags https://github.com/department-of-veterans-a
 
 Description: clicking a second copy link icon within 10 second of clicking the first
 
-     - Upon clicking another icon (within 10 seconds of the first), the previously clicked on "Link copied" message should immediately revert to the default state
+   - Upon clicking another icon (within 10 seconds of the first), the previously clicked on "Link copied" message should immediately revert to the default state
 
 Link to designs: see Use Case A
 
@@ -33,10 +33,20 @@ Instructions to access in Staging (or Prod for Drupal) see Use Case A
 
 ## Use Case C
 
-Description
+Description: The URL anchor path uses the anchor text and a unique ID#
+
+- User pastes the copied link into their choice of medium - email, SMS, etc.
+- The URL uses the page URL plus # path based on the partial text of the heading and a unique ID#. 
+- Like this: .gov/coronavirus-veteran-frequently-asked-questions/#are-va-national-cemeteries-ope-37235
 
 Link to designs: see Use Case A
 
 Instructions to access in Staging (or Prod for Drupal): see Use Case A
 
+## Use Case D
+
+Description: Recipient clicks on the shared link and it takes them to the deep content. If it's an accordion, the accordion is open on landing. 
+ 
+ -
+ 
 
