@@ -11,8 +11,8 @@ The VA is recruiting blind/partially blind Veterans for a new study. If you have
 AND
 
 - Be totally or partially blind due to:
-- An acquired vision-related disability
-- A congenital vision-related disability
+   - An acquired vision-related disability
+   - A congenital vision-related disability
 
 ## About the research session:
 
