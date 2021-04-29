@@ -336,7 +336,7 @@ This is the bank account information we have on file for you. We’ll send your 
 * Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 * Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 
-[ Update Account ] { button }
+[ Update account information ] { button }
 
 { Success alert for users who click Update Account, make any changes, then click Save }
 
