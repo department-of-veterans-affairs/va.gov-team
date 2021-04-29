@@ -16,7 +16,7 @@ This research is planned within the context of the Public Websites team and the 
     - Search (in header)
     - Benefit Hubs (mega-menu dropdowns in header under "VA Benefits and Health Care")
     - Other header links (About VA, Find a VA Location, Contact us)
-    - 4 white quadrants
+    - "Top 4" boxes
     - Topics below the photos
     - 3 red/blue buttons below the topics
     - Links below the 3 red/blue buttons
