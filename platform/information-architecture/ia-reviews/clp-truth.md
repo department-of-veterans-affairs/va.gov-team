@@ -28,7 +28,10 @@ Campaign landing page   | TBD ~www.va.gov/veteran-trust-in-va/~  | n/a  |  Templ
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Destination | Description  
+**No entry points will be added to the core site for pages utilizing the CLP template. Traffic will be directed to these pages via campaign communications.**
+
+
+~Priority~ | ~Placement~ | ~Destination~ | ~Description~  
 --- | --- | --- | ---
 ~Consider~ | ~Top Nav - About VA menu~ | ~www.va.gov/veteran-trust-in-va/~ | ~A link could be considered for the "Learn about VA" column.  Recommended placement there would be as the 4th option, just after "VA plans, budget, and performance".  <br>Links added to the top nav must be approved by appropriate OCTO-DE stakeholders.~
 ~Consider~ | ~Top Nav - About VA menu promo spot~ | ~www.va.gov/veteran-trust-in-va/~ | ~The promo spot could be utilized to highlight the campaign and provide quick access to the CLP.  <br>Promo spot changes must be approved by appropriate OCTO-DE stakeholders.~
