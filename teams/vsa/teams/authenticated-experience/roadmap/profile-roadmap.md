@@ -48,8 +48,8 @@ These are considered high priority because other teams are actively planning dev
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Add email confirmation for address updates |Auth experience | 2020 | This would be added for security reasons since fraudsters may try to change people's addresses as part of hacking direct deposit info|
-|Link to DD214 info from Military information section of the profile| Auth exp| 2020| "DD214" is a top search term from the profile, indicating people expect to find this information here |
-|Add contact info FAQ| Auth exp | 2.19.21 | This would be a really easy update we should have and could knock out quickly. [Ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)|
+|Link to DD214 info from Military information section of the profile| Auth exp| 2020| "DD214" is a top search term from the profile, indicating people expect to find this information here. [Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11053) |
+|Add contact info FAQ| Auth exp | 2.19.21 | This would be a really easy update we should have and could knock out quickly. [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)|
 
 
 #### Additional projects and requests
