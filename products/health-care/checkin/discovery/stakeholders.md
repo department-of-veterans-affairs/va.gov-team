@@ -60,7 +60,7 @@
 - Martha Wilkes - VA Accessibility Champion
 - Josh Kim - VSA Specialist
 - Angela Fowler - VSA Specialist
-- Trevor - VSP Specialist
+- Trevor Pierce - VSP Specialist
 - Meli Manak - Mobile app UX, with focus on accessibility
 
 ## va.gov Product Teams
