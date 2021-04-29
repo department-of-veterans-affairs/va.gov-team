@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: COMPLETE 04/26/2021**
+**STATUS: COMPLETE 04/26/2021, UPDATED 04/29/2021**
 
 **Product/Featue:**  CLP - VA Veteran Truth
 
@@ -21,7 +21,7 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Campaign landing page   | www.va.gov/veteran-trust-in-va/  | n/a  |  Template does not have a breadcrumb. 
+Campaign landing page   | TBD ~www.va.gov/veteran-trust-in-va/~  | n/a  |  Template does not have a breadcrumb. 
 
 
 
@@ -30,9 +30,9 @@ Campaign landing page   | www.va.gov/veteran-trust-in-va/  | n/a  |  Template do
 
 Priority | Placement | Destination | Description  
 --- | --- | --- | ---
-Consider | Top Nav - About VA menu | www.va.gov/veteran-trust-in-va/ | A link could be considered for the "Learn about VA" column.  Recommended placement there would be as the 4th option, just after "VA plans, budget, and performance".  <br>Links added to the top nav must be approved by appropriate OCTO-DE stakeholders.
-Consider | Top Nav - About VA menu promo spot | www.va.gov/veteran-trust-in-va/ | The promo spot could be utilized to highlight the campaign and provide quick access to the CLP.  <br>Promo spot changes must be approved by appropriate OCTO-DE stakeholders.
-Consider | Footer |  www.va.gov/veteran-trust-in-va/  | The very bottom 2 lines of the footer include a number required gov links as well as broad VA links.  They are listed in alpha order.  This option could be labeled something like "Veteran Trust" and listed in proximity to the dashboard and portrait project links. <br>Links added to the footer must be approved by appropriate OCTO-DE stakeholders.  
+~Consider~ | ~Top Nav - About VA menu~ | ~www.va.gov/veteran-trust-in-va/~ | ~A link could be considered for the "Learn about VA" column.  Recommended placement there would be as the 4th option, just after "VA plans, budget, and performance".  <br>Links added to the top nav must be approved by appropriate OCTO-DE stakeholders.~
+~Consider~ | ~Top Nav - About VA menu promo spot~ | ~www.va.gov/veteran-trust-in-va/~ | ~The promo spot could be utilized to highlight the campaign and provide quick access to the CLP.  <br>Promo spot changes must be approved by appropriate OCTO-DE stakeholders.~
+~Consider~ | ~Footer~ |  ~www.va.gov/veteran-trust-in-va/~  | ~The very bottom 2 lines of the footer include a number required gov links as well as broad VA links.  They are listed in alpha order.  This option could be labeled something like "Veteran Trust" and listed in proximity to the dashboard and portrait project links. <br>Links added to the footer must be approved by appropriate OCTO-DE stakeholders.~  
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -57,3 +57,12 @@ www.va.gov/trust | www.va.gov/veteran-trust-in-va/ | This is an additional redir
 
 ## <a name="notes"></a>Meetings Notes and Background Info
 
+04/29/2021 - Convo with Meg and Jen
+- CLPs should not be linked to from global navigation elements. Going forward, no entry points will be recommended, the requesting stakeholder will be responsibe for driving traffic via campaign communication messages. 
+  - Above recommendations will be updated to remove the entry point recommendations
+  - Related convo/task: IA will be working on documenting standards and guidelines for global navigation elements to be integrated with design.va.gov.  The ability to add items to global nav components will require that the request 1) falls into the guidelines for the component and 2) has appropriate approval from OCTO IA lead and OPIA. 
+- Agreed that all CLP pages should be placed within a section in the IA, rather than at the root level.  The team will brainstorm the appropriate URL/sub-directory labeling for these pages; Meg to communicate the final decision. Page name will be based on the H1. 
+  -  Above documented URL for this particular CLP will be modifed based on the determined sub-directory label.
+- Vanity URL guidelines will need to be enforced to ensure that vanity URLs 1) are properly structured and selected and 2) do not impede on core content.
+  - Will need to follow up on requested vanity URLs above
+  - Related convo/task: Review and update vanity URL guidelines to reflect any exceptions based on CLP needs (i.e. capitalization)
