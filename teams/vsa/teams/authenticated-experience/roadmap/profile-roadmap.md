@@ -48,7 +48,7 @@ These are considered high priority because other teams are actively planning dev
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Add email confirmation for address updates |Auth experience | 2020 | This would be added for security reasons since fraudsters may try to change people's addresses as part of hacking direct deposit info|
-|Add contact info FAQ| Auth exp | 2.19.21 | This would be a really easy update we should have and could knock out quickly. [Ticket here](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/20221)|
+|Add contact info FAQ| Auth exp | 2.19.21 | This would be a really easy update we should have and could knock out quickly. [Ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)|
 
 
 #### Additional projects and requests
