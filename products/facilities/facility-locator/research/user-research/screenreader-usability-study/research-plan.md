@@ -1,6 +1,6 @@
 # Facility Locator Screenreader Usability Study 
-## Research Plan - Draft
-#### April 2021 Discovery 
+## Research Plan
+#### May 2021 Discovery 
 
 Background 
 
