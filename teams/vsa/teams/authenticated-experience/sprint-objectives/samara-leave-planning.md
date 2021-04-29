@@ -105,4 +105,10 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ## VA.gov Profile: User roles & permissions
 
-**When will we have insight into when this work is kicking off and what is required for this team?**
+Things we need to figure out:
+
+- When will this work start? Will it start while Samara is on maternity leave (Q3)? Or will the auth. experience team not be involved until Q4?
+- How can we ensure that the user roles & permissions work can start without taking the auth. experience team away from current projects and committments but also doesn't hold up user roles & permissions work?
+- Does the auth. experience team need to help with discovery?
+- Who is defining MVP features for the profile and My VA dashboard re: new user roles & permissions?
+- Long-term maintenance: how do we enhance and grow the profile and My VA dashboard for both veterans and a new user type?
