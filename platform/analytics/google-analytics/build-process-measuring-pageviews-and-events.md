@@ -70,7 +70,7 @@ For example, the AlertBox component calls the dispatchAnalyticsEvent helper func
     *   https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/component-library-analytics-setup.js
     *   https://github.com/department-of-veterans-affairs/component-library/blob/master/src/helpers/analytics.js
     *   https://github.com/department-of-veterans-affairs/component-library/blob/master/src/helpers/test-helpers.js
-
+* https://github.com/department-of-veterans-affairs/va.gov-team/blob/ga-event-label-consolidation/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking
 
 #### Forms System
 
