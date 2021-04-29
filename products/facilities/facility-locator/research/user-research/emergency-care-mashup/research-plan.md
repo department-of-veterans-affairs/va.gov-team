@@ -3,20 +3,24 @@
 ## Goals
 The goal of this study is to validate the usability and design of new facility locator search result cards which combine VA emergency care and community emergency care service types.
 
+#### Hypothesis
+
+- Veterans want to search for a single list, containing both VA and community emergency care options
+- Veterans understand they can go to any local emergency room, not just those in the results list
+- Veterans understand that the Facility Locator list contains "in-network" emergency care facilities, rather than a comprehensive list 
+- The facility type label "In-network emergency care" helps Veterans understand the results list is not comprehensive
+- The facility type lable "In-network emergency care" does not introduce confusion about other facility types
+- Veterans understand how to learn more about community care emergency benefit (explained elsewhere)
+
 #### Research questions
 
 - What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
 - What information do Veterans need/want for community emergency care (in VA network) locations?
-- Do Veterans need to distinguish between these location types in a single list?
-- Do Veterans want to filter by facility type, VA/non-VA?
+- Can Veretans distinguish between these location types in a single list?
+- Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
 - Would Veterans click to learn more about community emergency care benefits? 
 - Do Veterans find labels such as those indicating emergency care service/facility type helpful when finding/selecting an emergency care location?
 - What information does a Veteran find helpful in preparing to go to a emergency care facility?
-
-#### Hypothesis 
-- Veterans will understand how to find an emergency care location.
-- Veterans will want to filter emergency care locations by facility type, VA/non-VA to inform their decision.
-- Veterans will understand how to prepare for a visit to an emergency care facility.
 
 ## Method
 
