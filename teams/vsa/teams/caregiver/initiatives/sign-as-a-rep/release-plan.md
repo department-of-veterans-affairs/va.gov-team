@@ -5,8 +5,8 @@
 | Status |                Stage               | Date Planned | Actual Date |
 |:------:|:----------------------------------:|:------------:|:-----------:|
 |        | Document upload and attachment complete  | 4/30/2021    |             |
-|        | [Document upload testing with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23618)      | 4/29/2021    |  5/5/2021      |
-|        | Frontend development complete      | 4/30/2021    |             |
+|        | [Document upload testing with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23618)      |5/5/2021    |      |
+|        | Frontend development complete      | 5/7/2021    |             |
 |        | Backend development complete       | 4/30/2021    |             |
 |        | Caregiver Program team reviewed    | 5/5/2021     |             |
 |        | [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23970) passed              | 5/6/2021     |             |
@@ -25,3 +25,7 @@
 - Capture signature and apply it to the PDF that gets sent
 ### Out of scope
 - Sending a POA indication flag will follow the release
+
+
+### Justin PTO
+- May 12 - May 14th
