@@ -543,7 +543,7 @@ Please review the information below to ensure that it’s correct before you sub
 
 - All statements in this application are true and correct to the best of your knowledge and belief
 
-- As an active duty servicemember, you have consulted with an Education Service Officer (ESO) regarding your education program
+- As an active-duty service member, you have consulted with an Education Service Officer (ESO) regarding your education program
 
 { end - if "Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?" = "Yes" }
 
