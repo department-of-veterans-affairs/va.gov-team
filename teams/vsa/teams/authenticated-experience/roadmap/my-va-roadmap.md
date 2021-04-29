@@ -11,9 +11,9 @@
 ### Projected timelines for current projects
 
 |Project|Q1 2021|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
-|----|----|----|----|----|----|----|
-|**My VA redesign**| Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
-|**My VA post-launch experiments**| — | Planning | Run experiments | — |
+|----|----|----|----|----|----|
+|**My VA redesign**| Finish design; user testing; FE build | QA; pre-launch; launch | — | — |— |
+|**My VA post-launch experiments**| — | Planning | Run experiments | — |— |
 
 ## Completed projects
 
