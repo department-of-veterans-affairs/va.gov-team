@@ -36,6 +36,7 @@ Instructions to access in Staging (or Prod for Drupal) see Use Case A
 Description: The URL anchor path uses the anchor text and a unique ID#
 
 - User pastes the copied link into their choice of medium - email, SMS, etc.
+- Upon pasting the copied link into an application such as email, Slack, Facebook etc., the link will display as a hyperlink URL
 - The URL uses the page URL plus # path based on the partial text of the heading and a unique ID#. 
 - Like this: .gov/coronavirus-veteran-frequently-asked-questions/#are-va-national-cemeteries-ope-37235
 
@@ -53,7 +54,7 @@ Description: Recipient clicks on the shared link and it takes them to the deep c
  
  Description: Alignment and placement
  
- - The copy link icon should appear at the bottonm of each answer in a Q/A 
+ - The copy link icon should appear at the end of each answer in a Q/A 
  - When space permits, the "Link copied" text will appear to the right of the icon and the top of the boxes will be aligned.
  - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon overlapping the h3 
 
@@ -63,4 +64,11 @@ Description: Recipient clicks on the shared link and it takes them to the deep c
  Description: Screen Readers
  
  - The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy [How can I stay informed about COVID-19 vaccines at VA] sharable link”.
+
+
+## Use Case G
+
+Description: Mobile
+
+- The link copy function and behavior is identical on desktop and mobile, excluding a hover state for mobile.
 
