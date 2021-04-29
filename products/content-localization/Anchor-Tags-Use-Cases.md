@@ -15,7 +15,7 @@ Link to product outline: Anchor Tags https://github.com/department-of-veterans-a
      - A user mouses over the the copy link icon 
      - In hover state the background of the icon changes from white to dark gray
      - Upon clicking the icon a "Link copied" message is displayed for 10 seconds
-     - After 10 seconds text disappears and link icon reverts back to original white background (default state)
+     - After 10 seconds text disappears and link icon reverts back to original white background (default state) simultaneously
      
 - Link to designs: https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
 
