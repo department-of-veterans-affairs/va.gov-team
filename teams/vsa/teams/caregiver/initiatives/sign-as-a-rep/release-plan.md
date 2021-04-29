@@ -1,3 +1,7 @@
+# Sign as a Representative Release Plan
+
+## Schedule
+
 | Status |                Stage               | Date Planned | Actual Date |
 |:------:|:----------------------------------:|:------------:|:-----------:|
 |        | Frontend development complete      | 4/30/2021    |             |
@@ -9,3 +13,8 @@
 |        | Launch to 10% of users             | 5/10/2021    |             |
 |        | Launch to 50% of users             | 5/12/2021    |             |
 |        | Launch to 100% of users            | 5/17/2021    |             |
+
+
+
+## Notes
+- Sending a POA indication flag will follow the release
