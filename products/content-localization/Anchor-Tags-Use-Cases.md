@@ -25,21 +25,16 @@ Link to product outline: Anchor Tags https://github.com/department-of-veterans-a
 
 Description: clicking a second copy link icon withion 10 second of clicking the first
 
-lorem ipsum
-Link to designs
+Link to designs: see Use Case A
 
-lorem ipsum
-Instructions to access in Staging (or Prod for Drupal) (Note: credentials should be stored in sensitive repos only)
+Instructions to access in Staging (or Prod for Drupal) see Use Case A
 
-lorem ipsum
-Use Case C
+## Use Case C
 
 Description
 
-lorem ipsum
-Link to designs
+Link to designs: see Use Case A
 
-lorem ipsum
-Instructions to access in Staging (or Prod for Drupal) (Note: credentials should be stored in sensitive repos only)
+Instructions to access in Staging (or Prod for Drupal): see Use Case A
 
-lorem ipsum
+
