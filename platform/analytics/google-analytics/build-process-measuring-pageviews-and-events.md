@@ -56,6 +56,7 @@ During the Discovery phase, your VFS team should have worked with Analytics-Insi
 The component-library is an npm package of reusable components used on va.gov.  Many of these components are programmed to emit a CustomEvent during certain interactions.  va.gov listens for these events and pushes a corresponding event to the dataLayer, which then triggers an event in Google Tag Manager.
 
 For example, the AlertBox component calls the dispatchAnalyticsEvent helper function, which emits a CustomEvent on the document.body element.   The listener on va.gov matches the componentName and action in the analyticsEvents lookup table to get an event like  'nav-alert-box-link-click'.  The rest of the fields in the CustomEvent's details are given a prefix of the componentName (kebab format) and sent along with the event. 
+If you're a FE developer wanting to get an idea of the data/metadata automatically collected for a specific design system component -- check out the "With Analytics" labeled components in [Storybook](design.va.gov/storybook), execute the `monitorEvents(document.body, 'component-library-analytics')` in the console and expand the `detail` properties in the `CustomEvent` object
 
 ##### Other important things:
 
