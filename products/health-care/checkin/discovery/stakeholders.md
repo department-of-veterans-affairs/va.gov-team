@@ -48,7 +48,6 @@
 ## VANotify
 **VA notificaiton system that deals mostly with email. Works together with VeText**
 - Beverly Nelson - Product Owner
-- 
 
 ## Mobile app
 - Ayush Chakravarty - Product Manager
