@@ -4,7 +4,7 @@
 
 | Status |                Stage               | Date Planned | Actual Date |
 |:------:|:----------------------------------:|:------------:|:-----------:|
-|        | Documemt upload and attachment complete  | 4/30/2021    |             |
+|        | Document upload and attachment complete  | 4/30/2021    |             |
 |        | [Document upload testing with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23618)      | 4/29/2021    |  5/5/2021      |
 |        | Frontend development complete      | 4/30/2021    |             |
 |        | Backend development complete       | 4/30/2021    |             |
