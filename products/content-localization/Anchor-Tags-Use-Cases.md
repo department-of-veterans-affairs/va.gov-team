@@ -45,7 +45,9 @@ Instructions to access in Staging (or Prod for Drupal): see Use Case A
 
 ## Use Case D
 
-Description: Recipient clicks on the shared link and it takes them to the deep content. If it's an accordion, the accordion is open on landing. 
+Description: Recipient clicks on the shared link and it takes them to the deep content
+
+- Shareable link takes user to the title of the accordion which is defaulted to open
  
  ## Use Case E
  
@@ -53,8 +55,12 @@ Description: Recipient clicks on the shared link and it takes them to the deep c
  
  - The copy link icon should appear at the bottonm of each answer in a Q/A 
  - When space permits, the "Link copied" text will appear to the right of the icon and the top of the boxes will be aligned.
- - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon over page text
+ - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon overlapping the h3 
 
 
+ ## Use Case F
  
+ Description: Screen Readers
+ 
+ - The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy [How can I stay informed about COVID-19 vaccines at VA] sharable link”.
 
