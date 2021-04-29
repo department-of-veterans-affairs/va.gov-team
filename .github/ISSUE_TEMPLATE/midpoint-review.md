@@ -27,13 +27,6 @@ assignees: andreahewitt-odd, shiragoodman
 - Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)) (if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
 - Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) for QA practice area review
 
-## Meeting attendees from requesting team
-- Product Manager (required): name
-- DEPO Product lead (recommended): name
-- DEPO Design lead (required): Ryan Thurlwell
-- Anyone else from your team who significantly contributed to the artifacts provided (required): names
-- Content, IA, accessibility, and QA specialists (if applicable): name(s)
-
 ## Scheduling
 Would you like this review to be asynchronous? Please refer to the Midpoint Review guidance for the difference between a synchronous meeting and an asynchronous review.
 - [ ] Yes
@@ -47,6 +40,14 @@ Please note:
 - Available time slots are indicated with [CALENDAR BLOCK]. 
 - When you reserve a time slot, the reserved meeting will show up alongside the [CALENDAR BLOCK]. 
 - Please select a time slot at least 2 business days from request date.
+
+## Meeting attendees from requesting team*
+\*Only required for synchronous meetings.
+- Product Manager (required): name
+- DEPO Product lead (recommended): name
+- DEPO Design lead (required): Ryan Thurlwell
+- Anyone else from your team who significantly contributed to the artifacts provided (required): names
+- Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Additional information
 Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
