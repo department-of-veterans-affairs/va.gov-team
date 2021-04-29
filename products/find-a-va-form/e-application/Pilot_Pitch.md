@@ -3,16 +3,22 @@
 
 
 ### Project Name
-Find a Form - e-Application/Signature Pilot Project
+Find a Form - e-Application/e-Signature Test Pilot
 
 ### Problem Statement / How Might We statements
-How might we make it easier for Veterans and their caretakers to apply for benefits without the complicatons of using a paper form?
+How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a paper form?
 
 ### What Sprint Teams Are Associated with this Discovery? 
-* Decision Tools
+* Decision Tools (Find a Form)
+
+### Background 
+
+Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction, which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+
+
 
 ### Discovery Sprint Roles
-See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
+
 
 * Product Lead:
 * Discovery Sprint Lead:
