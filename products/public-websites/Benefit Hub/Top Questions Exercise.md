@@ -6,7 +6,7 @@ Intent: PM/PO to review Benefit hub Home page and Health Care (Hub) and collect 
 
 </details>
 
-<details><summary>Oppurtunities</summary>
+<details><summary>Opportunities</summary>
   
 
 </details>
