@@ -75,3 +75,7 @@
 - Samara Strauss: VA OCTO - VA PO
 - Anastasia Jakabcin - Product Manager
 - Tressa Furner - UX
+
+### Public Websites
+**Unauthenicated experience on the website. Can create pages marketing the check-in system.**
+- Brian Lloyd - Product Manager
