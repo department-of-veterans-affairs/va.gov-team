@@ -80,9 +80,9 @@ For a complete list of our existing forms library events, please see our documen
 
 #### Static Sites pages
 
-Static content (such as Drupal content) on va.gov is run through an application called static-pages.  Because most of these pages can not use components from the component-library, we have implemented several application-wide event listeners for things like CTA buttons, Action Links, and other.  These can be [found in this directory](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/static-pages/analytics).  We also have added several events [into several Liquid templates](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/breadcrumbs.drupal.liquid) used by the static pages.
+Static content (such as Drupal content) on va.gov is run through an application called static-pages.  Because most of these pages can not use components from the component-library, we have implemented several application-wide event listeners for things like CTA buttons and Action Links.  These can be [found in this directory](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/static-pages/analytics).  We also have added several events [into several Liquid templates](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/breadcrumbs.drupal.liquid) used by the static pages.
 
-One important development is the transition of the component-library from React components to web components.  These new web components should be able to be used in static pages.
+One important development is the transition of the component-library from React components to [web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components).  These new web components should be able to be used in static pages.
 
 
 ### Example:
