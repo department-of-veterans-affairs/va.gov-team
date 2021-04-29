@@ -17,7 +17,7 @@ Have test cases been loaded into test rail?
 Is the feature complete on staging?
 - `yes/no - any notes`
 
-Have we resovled all of our "pre-QA" findings?
+Have we resolved all of our "pre-QA" findings?
 - `yes/no - any notes`
 
 Have we received sign-off on IA?
