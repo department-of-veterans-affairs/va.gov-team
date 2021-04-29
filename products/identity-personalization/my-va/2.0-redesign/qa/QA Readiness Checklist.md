@@ -1,14 +1,14 @@
 # `My VA` QA Go / No Go 
 ## `04/29/2021`
 
-## Decision: `Continue launch / Pause / Pivot`
+## Decision: `Continue to QA / Pause / Pivot`
 
 ---
 
 Have we submitted the request for QA?
 - `yes/no - any notes`
 
-Have we submitted test cases?
+Does Tze have everything he needs, i.e. have we submitted test cases, provided staging credentials, etc.?
 - `yes/no - any notes`
 
 Have test cases been loaded into test rail?
