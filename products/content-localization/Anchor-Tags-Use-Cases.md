@@ -13,10 +13,11 @@ Link to product outline: Anchor Tags https://github.com/department-of-veterans-a
 - Description: clicking the copy link icon
 
      - A user clicks on the copy link icon 
+     
 - Link to designs: https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
 
-lorem ipsum
-Instructions to access in Staging (or Prod for Drupal) (Note: credentials should be stored in sensitive repos only)
+- Instructions to access in Staging (or Prod for Drupal) https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
+
 
 lorem ipsum
 Use Case B
