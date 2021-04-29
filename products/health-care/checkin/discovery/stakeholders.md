@@ -2,7 +2,7 @@
 
 ## VSIP IPT Working Group
 **Stakeholder group for the project. Standing meeting on Monday.**
-- Rebecca Rudoplh
+- Rebecca Rudolph
 - Angela Wilt
 - Cheryl Wills
 - Christian Govich
