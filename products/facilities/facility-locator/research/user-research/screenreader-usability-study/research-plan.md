@@ -75,11 +75,14 @@ Sessions will combine:
 (All) Participants must:
 
 - Primarily use a screen reader to interact with websites as specified by the following:
-  - 1 JAWs user
-  - 1 voice over user
-  - 1 voice over user - mobile
-  - 1 NVDS user
-  - 1 talkback (Android) user
+  - Built-in voice over provided by mobile phone, tablet or desktop computer device
+  - 1 JAWS user
+  - 1 NVDA user
+  - 1 TalkBack (Android) user
+ 
+[**Note for Perigean:** ]
+ - Please ask participant what screen reader technology they will use for the session and include in participant tracker
+ - Please get participant acknowledgement that there may be up to 4 off-camera, observers present during the research session, including the facilitator. 
 
 AND
 
@@ -93,8 +96,9 @@ AND
 
 #### Technical requirements
 
-- Perigean: please ensure participants have Zoom downloaded prior to the session
-- Participants are willing and prepared to screenshare
+[**Note for Perigean:** ]
+ - Please ensure participants have Zoom downloaded prior to the session
+ - Please ensure participants are willing and prepared to screenshare
 
 ### Secondary criteria / would like to have -
 
@@ -115,22 +119,23 @@ At least:
 
 [Preliminary dates]
 
-- Study dates: April 21 - April 30, 2021
-- Pilot session: will be held on Monday, April 19, 2021
+- Study dates: May 19 - 27, 2021
+- Pilot session: will be held on Mon, May 17, 2021
 - Session length: 1 hour
 
 #### Availability: Time in Eastern
-- Wed 4/21: 8a, 10a, 12p
-- Thu 4/22:  8a, 10a, 12p
-- Fri 4/23:  8a, 10a, 12p
-- Mon 4/26:  8a, 10a, 12p
-- Tue 4/27: 8a, 10a, 12p
-- Wed 4/28: 8a, 10a, 12p
-- Thu 4/29: 8a, 10a, 12pp
+- Wed 5/19: 8a, 10a, 12p
+- Thu 5/20:  8a, 10a, 12p
+- Fri 5/21:  8a, 10a
+- Mon 5/24: 12p
+- Tue 5/25: 8a, 10a, 12p
+- Wed 5/26: 8a, 10a, 12p
+- Thu 5/27: 8a, 10a, 12p
 
 ## Team Roles
 
 - Moderator: Leyda Hughes leyda.hughes@adhocteam.us
+- Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us
 - Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
@@ -139,9 +144,10 @@ At least:
 Participant(s) for pilot test: 
 - michelle.middaugh@adhocteam.us
 - angela.fowler@adhocteam.us
+- josh.kim@adhocteam.us
 
 
 #### Observers (*include in Slack Channel):
-- *Dave Conlon david.conlon@va.gov
-- *Michelle Middaugh michelle.middaugh@adhocteam.us
-- Notetaker (perigean)
+- *Dave Conlon: david.conlon@va.gov
+- *Michelle: Middaugh michelle.middaugh@adhocteam.us
+- Notetaker: (perigean)
