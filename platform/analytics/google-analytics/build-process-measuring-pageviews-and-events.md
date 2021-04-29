@@ -76,7 +76,7 @@ If you're a FE developer wanting to get an idea of the data/metadata automatical
 #### Forms System
 
 There are several analytics events baked into actions in the forms-system.  If you look in the primary actions.js file, you will see dataLayer pushes (via helper function recordEvent) for submission, successful submission, and others.  Keep in mind you will need to use a product prefix we have allowed in GTM.
-
+For a complete list of our existing forms library events, please see our documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-form-events.md). 
 
 #### Static Sites pages
 
