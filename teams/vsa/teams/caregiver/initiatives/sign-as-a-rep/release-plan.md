@@ -17,4 +17,10 @@
 
 
 ## Notes
+
+### In scope for MVP release in production (to Veterans)
+- Content changes
+- Document upload and attachement to application
+- Capture signature and apply it to the PDF that gets sent
+### Out of scope
 - Sending a POA indication flag will follow the release
