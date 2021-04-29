@@ -11,11 +11,10 @@
 
 ### Projected timelines for current projects & enhancements
 
-|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
-|----|----|----|----|----|----|----|
-|**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
-|**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | On hold due to resourcing | Design; testing; FE build; QA | Pre-launch; launch | — |
-|**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | ? |
+|Project|Q1 2021|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
+|----|----|----|----|----|----|
+|**Preferred facility for VA.gov profile**| Begin design towards end of quarter | Design; testing; FE build; QA | Pre-launch; launch | — |
+|**VA Profile: Notification preferences**| Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | - |
 
 ## Completed projects & enhancements
 
