@@ -16,10 +16,10 @@ AND
 
 ## About the research session:
 
-- The study will consist of testing web pages while using your screen reader from your personal device in a Zoom video conference where you will be asked to share your device’s screen. 
-- You will not be required to be on-camera for this study. 
-- All participants who complete a study will receive a thank-you gift for your time. All participants who complete a study will receive a thank-you gift for your time. 
+- The study will consist of testing web pages while using your screen reader from your personal device in a Zoom video conference.
+- You will not be required to be on-camera during the study session but you will required to share your device’s screen via Zoom.  
+- Participants who complete a study session will receive a thank-you gift for their time. 
 
-If you are interested in participating, please call Shannon Housel at: 540-513-8510
+### If you are interested in participating, please call Shannon Housel at: 540-513-8510
 
 For more information about Veteran user experience research studies, you may visit https://veteranusability.us/
