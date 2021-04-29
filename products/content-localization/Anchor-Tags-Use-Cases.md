@@ -47,6 +47,8 @@ Instructions to access in Staging (or Prod for Drupal): see Use Case A
 
 Description: Recipient clicks on the shared link and it takes them to the deep content. If it's an accordion, the accordion is open on landing. 
  
- -
+ ## Use Case E
+ 
+ Description: 
  
 
