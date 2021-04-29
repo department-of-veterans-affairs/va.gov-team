@@ -15,10 +15,13 @@
 ### Test cases for initial list
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
+| TK | TK | TK | TK |
+
 
 ### Test cases for editing and saving facilities list
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
+| TK | TK | TK | TK |
 
 ### Test cases for errors/warnings
 |Test case|Intended outcome|Staging User|Prototype link|
