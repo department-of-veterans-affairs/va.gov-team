@@ -77,8 +77,6 @@ The goals are:
 
 VA.gov Proposed Online Form WIP (e.g. the Front-Door)
 
-<img width="459" alt="harrassment_platform_4" src="https://user-images.githubusercontent.com/63107147/116579210-29a8c880-a8e0-11eb-8732-b7d523bdf9ee.png">
-
 <img width="581" alt="harrassment_platform_3" src="https://user-images.githubusercontent.com/63107147/116579223-2e6d7c80-a8e0-11eb-8184-7f2d7ae7fb1f.png">
 
 <img width="362" alt="harrassment_platform_5" src="https://user-images.githubusercontent.com/63107147/116579243-32999a00-a8e0-11eb-952e-a6fc31eb886e.png">
