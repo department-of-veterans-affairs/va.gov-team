@@ -90,6 +90,8 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 **Objective #1: Improve overall experience with appointment scheduling.**
 
+**Note**: This KR is pending final designs from the VAOS team. We'll refine further as we have them.
+
 - **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
 
 |KPI/metric|Baseline: Q1 Jan - Mar 2021|Post-launch: Q4 Oct - Dec 2021| Post-launch: Q1 Jan - Mar 2022|
