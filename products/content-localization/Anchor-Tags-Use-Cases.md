@@ -49,6 +49,12 @@ Description: Recipient clicks on the shared link and it takes them to the deep c
  
  ## Use Case E
  
- Description: 
+ Description: Alignment and placement
+ 
+ - The copy link icon should appear at the bottonm of each answer in a Q/A 
+ - When space permits, the "Link copied" text will appear to the right of the icon and the top of the boxes will be aligned.
+ - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon over page text
+
+
  
 
