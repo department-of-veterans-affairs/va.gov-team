@@ -23,8 +23,9 @@
 - Content changes
 - Document upload and attachement to application
 - Capture signature and apply it to the PDF that gets sent
-### Out of scope
+### Out of scope (but fast follow)
 - Sending a POA indication flag will follow the release
+- Improve document upload error states
 
 
 ### Justin PTO
