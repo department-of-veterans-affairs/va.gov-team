@@ -15,6 +15,7 @@
 |----|----|----|----|----|----|
 |**Preferred facility for VA.gov profile**| Begin design towards end of quarter | Design; testing; FE build; QA | Pre-launch; launch | — |
 |**VA Profile: Notification preferences**| Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | - |
+|**User roles & permissions**| - | Potentially assist identity team with some discovery | Collab with identity team; details TBD | TBD | TBD |
 
 ## Completed projects & enhancements
 
