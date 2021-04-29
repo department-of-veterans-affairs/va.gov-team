@@ -12,7 +12,7 @@ This is the first opportunity for OCTO-DE Practice Area leads and Platform to vi
 
 VFS teams can expect feedback on the user experience and overall design, and guidance on how to meet VA.gov standards.
 
-Both OCTO-DE and Platform use this meeting to gain an early undestanding of the product/feature, including the goals/direction of the product, the intended user flow, and the overall scope of the initaitive. 
+Both OCTO-DE and Platform use this meeting to gain an early understanding of the product/feature, including the goals/direction of the product, the intended user flow, and the overall scope of the initaitive. 
  
 ## How do I request this touchpoint?
 VFS Product Manager submits a [Design Intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+allison0034&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=design-intent-collaboration.md&title=Design+intent+%5BTeam+Name+-+Feature+Name%5D). 
@@ -32,24 +32,23 @@ Platform brings (when applicable):
   - Product
   - Analytics
   - OCTO-DE Practice Areas Leads
-  - Sitewide Content representative
 
 ## What artifacts do I provide?
 VFS provides: 
 - A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub va.gov-team/products folder)
 - An explanation of the problem you’re trying to solve
-- Whiteboard sketch or other lo-fi prototypes or mockups
+- Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flow
-- Content Brief (if applicable)
+- Content brief (if applicable)
 - Any other artifacts you have so far
 
 ## What is the outcome of this touchpoint?
 Platform reviewers will document their feedback, if applicable, in a GitHub ticket. Tickets will be made available to VFS teams no later than EOD the next business day following the meeting. In addition, OCTO-DE/Platform may:
 
- -  recommend applicable Design System components and/or patterns
- -  identify needs for creating/updating Design System components and/or patterns
- -  identify needs for creating/updating VA.gov standards
- -  share relevant insights/flows/examples from other VA.gov work
- -  identify your product as a candidate for experimental design
- -  encourage early engagement with other impacted teams
- -  escalate early accessibility concerns
+ -  Recommend applicable Design System components and/or patterns
+ -  Identify needs for creating/updating Design System components and/or patterns
+ -  Identify needs for creating/updating VA.gov standards
+ -  Share relevant insights/flows/examples from other VA.gov work
+ -  Identify your product as a candidate for experimental design
+ -  Encourage early engagement with other teams this work might impact
+ -  Escalate early accessibility concerns
