@@ -10,11 +10,11 @@ assignees: shiragoodman, allison0034
 ## Steps to complete Design Intent Collaboration
 - [ ] VFS Product Manager or Designer: Create this issue and fill in your team and feature name in the title. 
 - [ ] VFS: Link to this issue once created in #design in Slack; tag @vsp-product-support-members.
-- [ ] VSP: Schedule meeting with VSP reviewers and VFS team attendees (listed below).
+- [ ] Platform: Schedule meeting with Platform reviewers and VFS team attendees (listed below).
 - [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below.
-- [ ] VSP: After meeting is held, create feedback tickets and link to the Design Intent ticket (if no feedback, please comment stating that).
-- [ ] VFS: Respond appropriately to VSP feedback tickets.
-- [ ] VSP: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+- [ ] Platform: After meeting is held, create feedback tickets and link to the Design Intent ticket (if no feedback, please comment stating that).
+- [ ] VFS: Respond appropriately to Platform feedback tickets.
+- [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 
 ## Questions
 ### Has your product been reviewed by the OCTO-DE Design Lead?
@@ -24,13 +24,13 @@ assignees: shiragoodman, allison0034
 - [ ] Yes*
 - [ ] No
 
-\*If yes, please be sure to include your Content Brief (if available) and any other relevant artifacts
+\*If yes, please be sure to include your Content brief (if available) and any other relevant artifacts
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Whiteboard sketch or other lo-fi prototypes or mockups
+- Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flow
-- Content Brief (if available/applicable)
+- Content brief (if available)
 - Any other artifacts you have so far
 
 ## Meeting attendees from requesting team
@@ -38,7 +38,7 @@ assignees: shiragoodman, allison0034
 - Product Manager (required): name
 - OCTO-DE Product Lead (recommended): name
 - OCTO-DE Design Lead (required): Ryan Thurlwell
-- Non-platform content, IA, accessibility, and QA specialists (if applicable): name(s)
+- VFS content, IA, accessibility, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable): name(s)
 
 ## Scheduling
