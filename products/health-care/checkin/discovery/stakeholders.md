@@ -39,11 +39,11 @@
 - Kennon Hulett: Product Manager
 - Julia Synder: UX 
 - Shane Elliott: OCTO - technical expert
-- Rob Burkin - engineering, built alot of VeText
+- Rob Burkin: VA Engineering
 
 ## VetLink
 **Currently Veteran-facing and staff-facing kiosk/check-in system**
-- Shawn Adams: VA OVAC - important to running of VetLink
+- Shawn Adams: VA OVAC
 
 ## VANotify
 **VA notificaiton system that deals mostly with email. Works together with VeText**
