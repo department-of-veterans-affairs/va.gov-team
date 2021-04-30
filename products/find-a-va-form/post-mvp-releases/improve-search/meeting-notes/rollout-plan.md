@@ -7,7 +7,9 @@
 - Mark Viterna
 
 ## Platform Touchpoints and Related Tasks
-![image](https://user-images.githubusercontent.com/73354907/116728329-c4bea280-a9b3-11eb-84cd-ad4724815ee1.png)
+																								
+![image](https://user-images.githubusercontent.com/73354907/116729974-de60e980-a9b5-11eb-87f9-dbfc3a131400.png)
+
 
 ## Notes
 
