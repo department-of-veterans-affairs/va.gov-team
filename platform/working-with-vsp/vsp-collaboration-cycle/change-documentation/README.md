@@ -1,3 +1,12 @@
+### April 16, 2021
+
+- **Collaboration Cycle Kickoff issue template has been updated** Based off of findings during the first month of the new template in place, the following changes have been made:
+   - Examples and/or additional information has been added to the template to help provide context around the question being asked.
+   - The questions have been numbered so they're easier to identify (now that there is additional verbiage) and easier to reference.
+   - The questions have been reordered to improve the flow.
+   - The Analytics question will still be asked, however Domo support is on pause until June 2021.
+   - The content and static content questions have been combined and modified for clarity.
+
 ### February 19, 2021
 
 - **Asynchronous Collaboration Cycle Kickoff will replace the Project Kickoff meeting.** Instead of having a Project Kickoff meeting, we’ll ask VFS teams to review the guidance in [Getting Started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md). This guidance will walk VFS teams through a list of questions to determine what level of support, which practice areas, and which touchpoints are needed for their work. If a team doesn’t know the answer to a question, then it’s too early for them to engage with the Collaboration Cycle. Once teams begin building or iterating on their product, they should submit a [Collaboration Cycle Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D) ticket. This is an asynchronous step and should happen later than a Project Kickoff did.  
