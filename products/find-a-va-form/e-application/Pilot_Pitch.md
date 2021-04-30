@@ -29,7 +29,7 @@ An e-Signature solution should provide the following benefits:
 
 - Legally binding signature
 - Can support multiple signatures (e.g. Veteran and Spouse, Dependents, Attorney) 
-- Application can be submitted without completion of Required fields 
+- Application can not be submitted without completion of Required fields 
 - Attachments can be included for supporting documents
 - Can automatically add up loan amounts and use of funds amounts to take the burden off the applicant
 - Allows user to save and return later to complete process
