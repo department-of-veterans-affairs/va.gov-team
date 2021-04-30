@@ -84,6 +84,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research)
 - List of keywords: Global Search, Find a Form, Find a Facility, On-site Search
 
+#### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
+
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
