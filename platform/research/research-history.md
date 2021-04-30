@@ -24,6 +24,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+
 #### April 8 - 13: Check-in (Veteran-facing) Remote Discovery Research
 *Healthcare Experience, Lead Researcher: Kristen McConnell*
 
@@ -36,6 +37,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### March 2021
 
+
 #### March 22 - April 5: Board Appeals (NOD) usability testing
 *Claims and Appeals, Lead Researcher: Christian Valla*
 
@@ -44,6 +46,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
 
 - Keywords: Board Appeals; Notice of Disagreement;
+
+#### March 18 - April 9 2021 : Vet Center Services Taxonomy Study
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 41
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 ### February 2021
 
