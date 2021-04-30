@@ -60,15 +60,17 @@ To release the CLP to a wider VA digital comms user base -- enabling the tool to
   - the VACO leads will retain publish rights, to ensure every CLP is reviewed for quality before it is released into production
 - For this phase:
   - The URL must be set dynamically (e.g. via H1)
+  - The placement of the CLP within the VA.gov site IA will be <?>
   - Set-up of the CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.
   - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM). 
-  - There will be no Platform review before publication
+  - There will be no VA.gov Platform or Product review before publication
 
 **Considerations**
 - Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
 - Will there be any VA.gov and VACO leads governance (a throttle) -- e.g.,request and light Platform review before publication? 
   - Or, will VACO lead teams have the ability to request access for more editor/users?
 - Will the URL be dynamically generated?
+- How will positioning of the CLP within the VA.gov site IA be determined? (e.g. case-by-case or in a Campaign subsection w/in each Benefit hub?)
 - Training requirements: 
   - CMS proficiency
   - Adherence to the design/UX principles
