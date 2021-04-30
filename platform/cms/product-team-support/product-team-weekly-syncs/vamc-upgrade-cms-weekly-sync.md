@@ -23,9 +23,17 @@
 
 ## Friday April 30
 
-* Pause on VAMC launches
-* Policies page launch for Butler and beyond
 * Help desk
+  * Staffing changes -> Reduced capacity, SLA changing to 9am to 5pm ET.
+  * VAMC upgrade team will help set expectations that responses will not be immediate. 
+  * CMS team will be communicating to users
+  * Weekly meetings for VAMC editors to focus on common issues, working towards a community of practice and FAQs.
+  * VAMC support email is now auto-forwarding to Jira, and we are responding from Jira instead of email.
+* Pause on VAMC launches
+  * Tentative: Finger Lakes (very unique) and Hudson Valley, Central Iowa and St Cloud 
+* Policies page launch for Butler and beyond
+  * Only VISN 4 and 19 have links from Prepare for your visit accordion to the old Policies page. 
+  * Broken links reports––forward to VAMC upgrade team. 
 * Menu governance (Kevin)
   * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
   * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
