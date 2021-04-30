@@ -6,7 +6,7 @@
    - **Platform reviewers will no longer be writing feedback tickets prior to the meeting.** Platform reviewers will now be given the opportunity to hear reasoning behind the design decisions as well as OCTO-DE input prior to creating feedback tickets for VFS teams. This change will allow for improved efficiency with Platform reviewers and less re-writing and editing of tickets post-meeting. Instead...
    - **Feedback tickets will be made available to VFS teams no later than EOD the next business day following the meeting.**
    - **Design Intent issue template has been updated.** A couple additional questions have been added to the template to ask about engagement with OCTO-DE Design Lead and Sitewide Content team. This will help Platform understand the current state and status or the product.
-
+   - **Content feedback will no longer be provided.** Since it is likely that Design Intent is too early for content feedback, and content guidance will be communicated by the Sitewide Content team, Platform will not be providing content feedback at Design Intent. Exceptions may be made if the product is an iteration or if Sitewide Content will not be supporting the product/team.
 
 ### April 16, 2021
 
