@@ -1,8 +1,8 @@
 
-## IDEA BRIEF
+## DISCOVERY SPRINT BRIEF
 
 
-### Project Name
+### Initiative Name
 Find a Form - e-Application/e-Signature Test Pilot
 
 ### Problem Statement / How Might We statements
@@ -13,12 +13,33 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 
 ### Background 
 
-Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction, which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+
+More details about the Docusign Federal Government initiative here:
+
+https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
 
 
+**Benefits of e-Signature solution
+
+An e-Signature solution should provide the following benefits:
+
+- Legally binding signature
+- Can support multiple signatures (e.g. Veteran and Spouse, Dependents, Attorney) 
+- Application can be submitted without completion of Required fields 
+- Attachments can be included for supporting documents
+- Can automatically add up loan amounts and use of funds amounts to take the burden off the applicant
+- Allows user to save and return later to complete process
+- Is Secure, encrypted in transit and in rest
+- Success metrics would include:
+  - Evidence of user preference over standard digital download and email/fax
+  - Reduced "error rate" in submitted documents
+  - Faster speed to outcomes
+
+
+**
 
 ### Discovery Sprint Roles
-
 
 * Product Lead: John Hashimoto
 * Product Manager: Marci McGuire
@@ -30,8 +51,8 @@ Docusign has an Enterprise License Agreement with VA to digitize many of the VA'
 * SME: Janel Keyes
 
 ### Stakeholders
-* VA business owner:
-* Stakeholders who will be involved or interviewed:
+* VA business owner: Janel Keyes
+* Stakeholders who will be involved or interviewed: TBD
 
 
 ## DISCOVERY PLANNING
