@@ -20,9 +20,6 @@ VA.gov currently has two authentication processes for Veterans. One of these pro
 
 
 
-SAML Response Rate Metric
-	The metrics are creation flow:
-Obtain SAML Request and Response Logs:
-Run an AWS CLI Cloudwatch script:
+...more to follow...
 
 
