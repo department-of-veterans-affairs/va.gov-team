@@ -14,5 +14,5 @@
 | Vaccine updates around supply | 4/12 | 4/12 | 4/14 | 4/14 .5 hr | 4/14 .5 hr | 4/14 1 hr | 4/15 |
 | Vaccine updates for Janssen pause | 4/13 | 4/13 (sent to both translation teams |
 | Debt question for Tagalog FAQs page | | 4/14 |
-| Janssen update in blue box | 4/26 | 4/26 |
+| Janssen update in blue box | 4/26 | 4/26 | 4/30 |
 | Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 |
