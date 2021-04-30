@@ -1,5 +1,25 @@
 # Meeting Notes
 
+## 2021-04-30 Follow-up Meeting with Content
+
+### Attendees
+- John Hashimoto, PO for Find a VA Form
+- Marci McGuire, PM for Find a VA Form
+- Beth Potts
+- Randi Hecht
+- Selina Cooper
+
+### Notes
+- John gave an overview of the new request breakdown (3 batches)
+- We have now got the info about which SME it might go back to.
+- First two are 15-ish. Last one is closer to 30.
+- Dates are not hard and fast.  
+- Content team has to see what else comes up in the meantime that is an emergency.
+- Going forward we'll do detail pages that get searched 200 times a month.  There's not a lot of volume work to be done after this.  
+- If they happen to know the best SME for different areas, Beth will let us know.
+- Marci will manage getting the copy approved.
+- Beth advised we should contact the SME and cc the comms team for awareness.
+
 ## 2021-04-16 Follow-up Meeting with Content
 
 ### Attendees
