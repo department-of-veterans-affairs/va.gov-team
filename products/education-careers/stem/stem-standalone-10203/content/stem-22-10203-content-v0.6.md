@@ -60,11 +60,9 @@ If you apply and you're not eligible, your application will be denied.
 
 * **STEM degree:** 
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
-
-    [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
   * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**    
   * You've already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for healthcare professionals.   
-    [See covered training programs]() 
+  [See eligible degree and clinical training programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
 
 * **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) 
 
@@ -240,7 +238,7 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 
 Do you have a STEM bachelor's or graduate degree and are now pursuing a covered clinical training program for healthcare professionals? (*Required) 
 
-[See covered training programs]().  { radio buttons }  
+[See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }  
 
 - Yes  
 - No  
