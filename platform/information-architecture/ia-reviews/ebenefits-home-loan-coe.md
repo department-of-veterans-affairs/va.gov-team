@@ -36,6 +36,7 @@ Apply for COE online form | /housing-assistance/home-loans/apply-for-coe-form-26
 
 Priority | Placement | Destination | Description
 --- | --- | --- | ---
+Must | Top nav > Housing assistance flyout | www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | Add appropriate link label (i.e. "Apply now for your COE") in the "Get home loan benefits" column  <br>Place after the "How to apply" option - will be the 4th and last option in that column.  <br> Work with Sitewide content team to finalize and implement.  
 Must  |  [Housing assistance hub page](https://www.va.gov/housing-assistance)  | www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | Add appropriate link label (i.e. "Apply now for your COE") and teaser text under the "Get VA home loan benefits" section of the hub page.  <br>Place after the "How to apply" option.  <br> Work with Sitewide content team to finalize and implement.  
 Must | [Housing assistance left nav](https://www.va.gov/housing-assistance/home-loans/) | www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | Add appropriate link label (i.e. "Apply now for your COE") as a child of "VA-backed home loans" option.  <br>Place after the "How to apply" option.  <br> Work with Sitewide content team to finalize and implement.  
 
