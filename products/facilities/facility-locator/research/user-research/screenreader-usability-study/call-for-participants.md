@@ -5,7 +5,7 @@ The VA is recruiting blind/partially blind Veterans for a new study. If you have
 
  - JAWS
  - NVDA
- - Built-in voice over provided by your mobile phone, tablet or desktop computer device
+ - VoiceOver on iPhone, macOS, or other apple devices
  - TalkBack (Android devices)
 
 AND
@@ -13,6 +13,8 @@ AND
 - Be totally or partially blind due to:
    - An acquired vision-related disability
    - A congenital vision-related disability
+
+Note: All experience levels with screen readers are welcome from first time users to experts.
 
 ## About the research session:
 
