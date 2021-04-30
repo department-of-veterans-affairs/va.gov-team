@@ -101,13 +101,21 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 **Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
 
 - **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
-- **Key result #2**: Establish a baseline metric for % of successful retrievals of preferred medical facilities by end of Q4 (assumes late Q3 or early Q4 launch).
-- **Key result #3**: Establish a baseline metric for % of successful saves of preferred medical facilities information (assumes late Q3 or early Q4 launch).
+- **Key result #2**: Establish a baseline metric for how many users have updated their facility preferences by end of Q4 (assumes late Q3 or early Q4 launch).
+  - **Note**: This metric will need to consider users who have health care vs. users who do not, plus changes that happen in both the VAOS tool AND the profile. 
 
-|KPI/metric|Establish Baseline: Q4 October - December 2021|Post-launch: Q1 Jan - Mar 2022| Post-launch: Q2 Apr - June 2022|
+|KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|-------------------|
-|% of successful retreivals| TBD|TBD|TBD|
-|% of successful saves| TBD |TBD|TBD|
+|# of users who have updated their facility preferences|TBD|TBD|TBD|
+
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of facility preferences.
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of facility preferences.
+
+|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|-------------------|
+|% of successful retreivals|TBD|TBD|TBD|
+|% of successful saves|TBD|TBD|TBD|
+
 
 # Implementation Info
 
