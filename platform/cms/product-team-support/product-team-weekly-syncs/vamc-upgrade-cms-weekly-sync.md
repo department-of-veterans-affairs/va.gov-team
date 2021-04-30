@@ -21,6 +21,13 @@
 
 </details>
 
+## Friday April 30
+
+* Pause on VAMC launches
+* Policies page launch for Butler and beyond
+* Help desk
+* TBD
+
 ## Friday Apr 23
 
 * Help desk triage updates
