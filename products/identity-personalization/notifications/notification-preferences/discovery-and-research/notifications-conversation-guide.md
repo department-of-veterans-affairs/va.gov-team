@@ -13,9 +13,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes.  We have a team working on a new section of your VA.gov profile that will help you manage notifications from the VA.  Today, I'd like to hear your thoughts about notifications, and get your feedback on this new section of the site.
-
-**provide definition/context of what we're talking about with notifications**
+Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes.  We have a team working on a new section of your VA.gov profile that will help you manage email and text notifications from the VA.  During our session today, I'd like to hear your thoughts about notifications, and get your feedback on this new section of the site. Also, I want to make the distinction that we're not talking about mobile push notifications or reminders you get from an app - our conversation will be specific to notifications you get via email or through an SMS text message.
 
 Before we start, a few things I want to mention:
 
