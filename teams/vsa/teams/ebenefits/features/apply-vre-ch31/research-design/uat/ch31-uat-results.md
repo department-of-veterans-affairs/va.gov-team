@@ -27,12 +27,15 @@ X UAT sessions were conducted from X to X 2021. X of X users participated. X maj
 | Edit function allows corrections | ? | -- | -- | -- | -- | -- |
 | Form submits and user is presented with confirmation screen | ? | -- | -- | -- | -- | -- |
 
--- = Did not occur in testing/Participant did not show
-✔ = occurred as expected
-? = Did not observe result 
+-- = Did not occur in testing/Participant did not show  
+✔ = occurred as expected  
+? = Did not observe result  
 
 ## Specific Notes
 **P1**
+
+**P2**
+No show
 
 ## Conclusion
 UAT was successful. The wizard, orientation and form preformed well; participants were uniformly satisfied with the appearance and function of the tool. X potential areas to address are:
