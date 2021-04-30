@@ -42,7 +42,7 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 - Talk to me about turning notifications on or off - how do you go about doing that?
 - What kinds of notifications do you currently get from VA? How do you get them?
 - What kinds of VA notifications would be helpful to you that you aren't currently getting?
-- 
+- As far as you know, do you have a contact email address or mobile number saved in your profile? Why or why not?
 
 ### Things to watch for
 
