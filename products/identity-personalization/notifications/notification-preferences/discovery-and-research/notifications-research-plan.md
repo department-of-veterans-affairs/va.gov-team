@@ -39,8 +39,6 @@ See our [MVP definition](https://github.com/department-of-veterans-affairs/va.go
 - Having to go to the contact info section to update email or phone number will not be ideal, but it will be acceptable.
 - People will know how to get back to notification settings after updating their contact information.
 
-
-
 ## Method	
 
 ### What method of research are you planning? 	
@@ -75,7 +73,7 @@ Recruit for 10 fulfilled sessions using the following criteria:
   - be Veterans or primary caregivers
   - have logged into VA.gov **and** used text messaging in the last 6 months. 
 
-**Assuming we go 50/50**
+(**Assuming we go 50/50 on devices** )
 
 - Half of the participants must be able to participate from a laptop/desktop device
 - Half of the participants must be able to participate from a mobile device
@@ -87,19 +85,21 @@ Recruit for 10 fulfilled sessions using the following criteria:
 
 ### Good to have for participants
 
-- At least 1 woman
-- At least 1 person of color
-- At least 1 participant 35 or under and 1 participant over 55
+- At least 3 women
+- At least half of the participants identify as a person of color
+- At least 2 participants under 30 and 2 participants over 55
 - At least one person that does not have a college degree (to include enlisted Vets)
 - At least one person that has a college degree (to include of officer Vets)
 - At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
 - At least one person with a disability rating of 70% or greater
+- At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### Recruitment requirements
 
 - All must have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
 - The participants have Zoom downloaded prior to the session
+- The participants know how to screen share
 
 ### What is your recruitment strategy? 	
 
