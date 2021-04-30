@@ -1,4 +1,4 @@
-# Conversation Guide: Facility Locator - Screen reader, Usability Test - V2
+# Conversation Guide: Facility Locator - Screen reader, Usability Test
 
 **May 2021**<br>
 
