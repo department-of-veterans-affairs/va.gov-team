@@ -53,18 +53,23 @@ Description: Recipient clicks on the shared link and it takes them to the deep c
  
  ## Use Case E
  
- Description: Alignment and placement
+ Description: Alignment and placement (for accordion content)
  
- - The copy link icon should appear at the end of each answer in a Q/A 
+ - The copy link icon should appear inside the accordion, at the end of the answer/accordion text
+
+
+ Description: Alignment and placement (for H3 content that's not inside an accordion)
+ 
+ - The copy link icon should appear at the end of the heading text.
  - When space permits, the "Link copied" text will appear to the right of the icon and the top of the boxes will be aligned.
- - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon overlapping the h3 
+ - When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon, overlapping the h3 text.
 
 
  ## Use Case F
  
  Description: Screen Readers
  
- - The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy [How can I stay informed about COVID-19 vaccines at VA] sharable link”.
+ - The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy a sharable link to [How can I stay informed about COVID-19 vaccines at VA]”
 
 
 ## Use Case G
