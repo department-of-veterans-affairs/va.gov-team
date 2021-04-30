@@ -48,7 +48,7 @@ Instructions to access in Staging (or Prod for Drupal): see Use Case A
 
 Description: Recipient clicks on the shared link and it takes them to the deep content
 
-- Shareable link takes user to the title of the accordion which is defaulted to open
+- Shareable link takes user to the header text of the deep linked content. If the content is inside an accordion, it is defaulted to open when the user lands on the page via the link. 
  
  ## Use Case E
  
