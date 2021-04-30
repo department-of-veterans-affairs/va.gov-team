@@ -18,6 +18,7 @@ The Preview Server then is an opportunity to actually _publish_ a page as well. 
 - Maintains static website architecture
 - Bypasses the overhead of a Jenkins job - No Docker container setup, Git checkout, GitHub releases, various other small updates.
 - Potentially, presents an opportunity to architect the the Preview Server as a CRUD server that manipulates the HTML "cache" in S3 on behalf of the CMS. Like our own "Gatsby Cloud".
+- Potential improvements to the Preview functionality itself for editors
 
 ### Cons
 - Need to ensure parity with live website. Currently pages rendered from the preview server differ slightly from the live website.
