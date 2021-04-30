@@ -20,13 +20,14 @@ Docusign has an Enterprise License Agreement with VA to digitize many of the VA'
 ### Discovery Sprint Roles
 
 
-* Product Lead:
-* Discovery Sprint Lead:
-* Engineer:
-* Designer:
-* Researcher:
-* Other people from the Sprint Team:
-* SME:
+* Product Lead: John Hashimoto
+* Product Manager: Marci McGuire
+* Discovery Sprint Lead: TBD
+* Engineer: Zach Morel
+* Designer: Cassandra Allen
+* Researcher: Cindy Merrill
+* Other people from the Sprint Team: 
+* SME: Janel Keyes
 
 ### Stakeholders
 * VA business owner:
