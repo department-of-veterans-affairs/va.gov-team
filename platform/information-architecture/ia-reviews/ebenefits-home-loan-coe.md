@@ -20,14 +20,13 @@
 - The Housing assistance hub has 2 separate areas - one for home loans and the other for housing grants - making the structure of this hub slightly different than other benefit hubs.  Rather than the typical 3 spoke structure (get, manage, resources), this hub is broken into 2 spokes to separate the 2 different benefit types under housing assistance. Under those 2 spokes, the options/content pages are then ordered based on the get/manage/resources structure, but not labeled as so.  
 - A static content page about this benefit already exists, but currently directs users to eBenefits to apply. With this work the static page will be updated appropriately and will direct users to the new online form on VA.gov. 
 - The new form will be nested under the [Home loans page](https://www.va.gov/housing-assistance/home-loans/) at the same level as all other home loans pages.
-- 
+- The diagram below does not represent all pages within this section, only the general hierarchy and key pages impacted. 
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/64a2a16e-355a-48b8-96b7-62e2f685960e)
 
 
 Page | URL | Full Breadcrumb* | Notes
 --- | --- | --- | ---
-[Home loans static landing page](https://www.va.gov/housing-assistance/home-loans/)   | no change  | no change   |   This is an existing page. No URL or breadcrumb changes needed, only content updates as detailed by Sitewide Content team.  
 Apply for COE online form | /housing-assistance/home-loans/apply-for-coe-form-26-1880 | Home > Housing assistance > VA-backed home loans > [Online form H1] | The final segment of the breadcrumb should be an exact match to the H1 of the /introduction page of the form. 
 
 *Note: The full breadcrumb, as shown within the desktop experience, is provided above. The mobile experience has a varied pattern to the breadcrumb, and only shows 1 segment, the parent page.  
