@@ -6,8 +6,11 @@
 - Marci McGuire
 - Mark Viterna
 
-## Notes
+## Platform Touchpoints and Related Tasks
 ![image](https://user-images.githubusercontent.com/73354907/116728329-c4bea280-a9b3-11eb-84cd-ad4724815ee1.png)
+
+## Notes
+
 - Zach and Mark discussed doing a feature flag
 - It's ready as soon as Zach can implement a feature flag
 - When might Zach be able to implement a Feature Flag?  As soon as the API pull request is merged and he sees the key.
