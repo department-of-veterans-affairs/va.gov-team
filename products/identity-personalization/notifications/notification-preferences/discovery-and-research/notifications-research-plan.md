@@ -61,46 +61,64 @@ Zoom
 
 ### What will you be testing?
 
-A UXPin prototype 
+We'll test with a [UXPin prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages//simulate/sitemap?mode=i).
 
-**Q: test on desktop or mobile? I can see merits to both.  I normally test with 5-8 participants; we could expand the study a bit and do 5 on each device, or perhaps 4 on each would be sufficient? Would love your thoughts.**
+**Q: test on desktop or mobile, or both?  Previous studies we've run had 5-8 participants; we could expand the study a bit and do 5 on each device, or maybe 4 on each would be sufficient? Would love your thoughts.**
 
 ## Participants and Recruitment	
 
-### What are you looking for in a participant?	  
+Recruit for 10 fulfilled sessions using the following criteria:
 
-We'd like to talk to 10 Veterans who have a logged into VA.gov and used text messaging in the last 6 months.
+### Must have for participants
 
-Screener question
+- All participants must: 
+  - be Veterans or primary caregivers
+  - have logged into VA.gov **and** used text messaging in the last 6 months. 
 
-Have you used text messaging on a mobile phone in the last 6 months? Answer should be yes.	
+**Assuming we go 50/50**
 
-Have you logged into VA.gov in the last 6 months? Answer should be yes.
+- Half of the participants must be able to participate from a laptop/desktop device
+- Half of the participants must be able to participate from a mobile device
 
-Please list your participant criteria in two categories-
+#### Additional questions to ask in the screener
 
-1. **Primary criteria / Must have**
+- Have you used text messaging on a mobile phone in the last 6 months? *Answer should be yes.*	
+- Have you logged into VA.gov in the last 6 months? *Answer should be yes.*
 
-   
+### Good to have for participants
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+- At least 1 woman
+- At least 1 person of color
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include of officer Vets)
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
+- At least one person with a disability rating of 70% or greater
 
-*Pro tips for writing recruiting critera:* 
+### Recruitment requirements
 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+- All must have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
+- The participants have Zoom downloaded prior to the session
 
-2.	What is your recruitment strategy? 	
-   We will draw from 
+### What is your recruitment strategy? 	
 
-## When? 	
+We will leverage Perigean's services to recruit participants.
 
-1.	Timeline: What dates do you plan to do research? 	
-   (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3.	Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+## Timeline
+
+#### Desired Timeline: May 17-19, 2021 
+
+30 minute sessions<br/>
+**Schedule at least 15 minute breaks in-between sessions.**
+
+| Team Availability | Time (EST)                                                   |
+| ----------------- | ------------------------------------------------------------ |
+| May 17, 2021      | 9 a.m. - 4:30 p.m., 7:30pm - 8:30 p.m.                       |
+| May 18, 2021      | 9 a.m. - 4:30 p.m., 7:30pm - 8:30 p.m.                       |
+| May 19, 2021      | 9 a.m. - 4:30 p.m. (try for no more than 4 sessions on this day) |
+
+Pilot Session: targeting May 13, 2021 | Time TBD
 
 ## Team Roles	
 
@@ -118,6 +136,7 @@ Please list the people who will be serving in each role.
 
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) 	
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
+- [Prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages//simulate/sitemap?mode=i)
 - Synthesis - to come
 - Lessons Learned - to come
 - Read-Out/Results - to come
