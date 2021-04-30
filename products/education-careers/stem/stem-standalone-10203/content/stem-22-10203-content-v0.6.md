@@ -63,7 +63,7 @@ If you apply and you're not eligible, your application will be denied.
 
     [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
   * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**    
-  * You've already earned a STEM undergraduate or graduate degree and are pursuing a covered clinical training program for healthcare professionals.   
+  * You've already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for healthcare professionals.   
     [See covered training programs]() 
 
 * **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) 
@@ -238,7 +238,7 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 
 { if NO, display clinical training question }  
 
-Do you have a STEM undergraduate or graduate degree and are now pursuing a covered clinical training program for healthcare professionals? (*Required) 
+Do you have a STEM bachelor's or graduate degree and are now pursuing a covered clinical training program for healthcare professionals? (*Required) 
 
 [See covered training programs]().  { radio buttons }  
 
@@ -298,7 +298,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
                      
-  - Have already earned a STEM degree and are pursuing a covered clinical training program for healthcare professionals
+  - Have already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for healthcare professionals
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
 
@@ -310,7 +310,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are pursuing a teaching certification, **or**
                      
-  - Have already earned a STEM undergraduate or graduate degree and are pursuing a covered clinical training program for healthcare professionals  
+  - Have already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for healthcare professionals  
 
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
