@@ -13,7 +13,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
-*Open a standalone browser window to VA.gov, va.gov/find-forms, and va.gov/resources (so can copy URL into chat if needed)*
+*Open a standalone browser window to VA.gov, va.gov/find-forms, and va.gov/resources (so can copy URL into chat or share my screen)*
 
 *Do Not Disturb ON so no notifications*
 
