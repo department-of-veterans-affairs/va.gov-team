@@ -4,18 +4,18 @@
 
 *Review participant list for participant name and screener question responses*
 
-**10 min before session**: 
+**10-15 min before session**: 
 - *Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
 
 - *Share brief summary of participant demographic info*
 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
-*Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
+- *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
 *Open a standalone browser window to VA.gov, va.gov/find-forms, and va.gov/resources (so can copy URL into chat if needed)*
 
-*Do not disturb on so no notifications*
+*Do Not Disturb ON so no notifications*
 
 *Make sure everyone is muted except me and the participant*
 
