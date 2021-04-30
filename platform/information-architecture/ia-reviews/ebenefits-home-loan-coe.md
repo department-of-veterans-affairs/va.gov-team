@@ -32,7 +32,7 @@ Apply for COE online form | /housing-assistance/home-loans/apply-for-coe-form-26
 *Note: The full breadcrumb, as shown within the desktop experience, is provided above. The mobile experience has a varied pattern to the breadcrumb, and only shows 1 segment, the parent page.  
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+*The primary entry points and changes to global navigation.*
 
 Priority | Placement | Destination | Description
 --- | --- | --- | ---
