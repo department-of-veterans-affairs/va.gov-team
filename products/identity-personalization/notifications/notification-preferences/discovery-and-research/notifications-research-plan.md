@@ -12,84 +12,76 @@ Profile notification settings, Authenticated Experience
 
 The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.
 
-See our [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for more details
+See our [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for more details.
 
 ### Questions we hope to be able to answer through this research
 
-#### What expectations do Veterans have about managing notifications?
-
-- Where?
-- How?
-- When?
-- Unsubscribe, enable/disable
-
-#### What kind of notifications do people expect to be able to receive from the VA?
-
-- What notifications are they not getting that they wish they did?
-- What words do people use to talk about or search for notification content?
-
-#### Are we providing sufficient contextual information?
-
-- Do the groups make sense?
-- Do people know what the notifications actually are?
-- Do they understand their current settings?
-
-#### Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
-
-#### Do people expect to be able to update their contact info right here on the page?
-
-#### If someone is missing a phone or email from their profile, do they understand how to make updates so they can get notifications to that channel?
-
-- If someone has partial contact info on file:
-  - do they understand email/text is also available when they don't have a checkbox to click?
-  - do they know how to add that information? Does our updated treatment (new copy + button) of this hinder their UX in any way?
-  - do they know how to get back to notification settings once they add info?
-
-#### Do we need more content?
-
-- How do people expect to be able to discover notifications they're not currently opted in to?
-- What kind of static content support makes sense for this section of profile?
-
-#### Questions about the API....
-
-- There will be more questions here once we see it in action
-
-
+1. What expectations do Veterans have about managing notifications?
+2. What kind of notifications do people expect to be able to receive from the VA?
+3. What words do people use to talk about or search for notification content?
+4. How do people expect to be able to discover notifications they're not currently opted in to?
+5. Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
+6. Are we providing sufficient contextual information through group and notification names?
+7. Do people expect to be able to update their contact info right here on the page?
+8. How do people feel about sharing their contact email address and mobile number with VA?
+9. If someone has partial contact info (missing a phone or email from their profile), do they understand how to make updates so they can get notifications to that channel?
+10. Does a person with partial contact info they understand email/text is also available when they don't have a checkbox to click?
+11. Do they know how to get back to notification settings once they add info?
+12. What kind of static content support makes sense for this section of profile?
+13. Questions about the API likely to come once we see it in action....
 
 ### Our hypothesis for this research study
 
-- Veterans will be able to intuitively navigate our design and 
+- People will expect to be able to manage notifications from their profile.
+- People expect to be able to discover notifications they're not opted into via channels outside their profile - VAMC/call center interactions, campaigns, etc.
+- Our solution will allow people to intuitively manage their notification settings.
+- The group and notification names will be easily understood.
+- Having to go to the contact info section to update email or phone number will not be ideal, but it will be acceptable.
+- People will know how to get back to notification settings after updating their contact information.
 
 
 
 ## Method	
 
-1. What method of research are you planning? 	
+### What method of research are you planning? 	
 
-   This will be a remote moderated usability test with high-fidelity prototypes.	
+This will be a remote moderated usability test with a high-fidelity prototype.	
 
-2. Why this method? How does this methodology help you answer your research questions? 
+### Why this method?
 
-   Starting people on the screen with partial contact information will help us evaluate our overall design, plus:
+A remote study will allow us to test with participants around the country. Testing with a high-fidelity prototype will provide insights to our research questions before investing time in engineering.  We'll start people a screen with partial contact information to help us evaluate our overall design, and help us understand:
 
-   - if our solution for partial contact info works for people **(WHAT PERCENTAGE OF PROFILES ARE MISSING THIS INFORMATION?)**
-   - If people expect to be able to edit/update contact information right on the page
-   - If people can get back to notification settings after they've updated their profile
+- if our solution for partial contact info works for people
+- If people expect to be able to edit/update contact information right on the page
+- If people can get back to notification settings after they've updated their contact information
 
-3. Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+### Where are you planning to do your research? 
 
-4. What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
+Zoom
 
-5. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+### What will you be testing?
+
+A UXPin prototype 
+
+**Q: test on desktop or mobile? I can see merits to both.  I normally test with 5-8 participants; we could expand the study a bit and do 5 on each device, or perhaps 4 on each would be sufficient? Would love your thoughts.**
 
 ## Participants and Recruitment	
 
-1.	Participant criteria: What are you looking for in a participant?	  
-   (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+### What are you looking for in a participant?	  
+
+We'd like to talk to 10 Veterans who have a logged into VA.gov and used text messaging in the last 6 months.
+
+Screener question
+
+Have you used text messaging on a mobile phone in the last 6 months? Answer should be yes.	
+
+Have you logged into VA.gov in the last 6 months? Answer should be yes.
 
 Please list your participant criteria in two categories-
 
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+1. **Primary criteria / Must have**
+
+   
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
@@ -99,7 +91,7 @@ Please list your participant criteria in two categories-
 - Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
 
 2.	What is your recruitment strategy? 	
-   (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+   We will draw from 
 
 ## When? 	
 
@@ -112,27 +104,20 @@ Please list your participant criteria in two categories-
 
 ## Team Roles	
 
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role. 
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-  **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Moderator:	Tressa Furner and Liz Lantz
+- Research guide writing and task development (usually but not always same as moderator):	Liz Lantz	
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
+- Participant(s) for pilot test:	TBD
+- Note-takers:	TBD
+- Observers:	TBD
 
 ## Resources	
 
-- Project Brief: 	
-  *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-  *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-  *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-  *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](
+- [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) 	
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
+- Synthesis - to come
+- Lessons Learned - to come
+- Read-Out/Results - to come
