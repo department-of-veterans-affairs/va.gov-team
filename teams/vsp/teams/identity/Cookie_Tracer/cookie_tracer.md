@@ -16,7 +16,8 @@ VA.gov currently has two authentication processes for Veterans. One of these pro
 8. VA.gov consumes the cookie tracking information from the ISAM and records this as a SAML response. 
 9. The combination of every request and response is then matched up to calculate the “SAML Response Rate.” More specifically, an identifier from the SAML request is matched up with an identifier from the SAML response via the cookie tracker. 
     1. If a SAML response identifier cannot be found to match the SAML request, then we annotate this as a “missing response.” We measure the matches overtime to determine the “SAML Response Rate”. 
-![SAML Cookie Tracker (1)](https://user-images.githubusercontent.com/71290526/116725325-c8502a80-a9af-11eb-821b-c6bbb836b311.png)
+![SAML Cookie Tracker (2)](https://user-images.githubusercontent.com/71290526/116739664-ef175c80-a9c1-11eb-91bd-838561531dda.png)
+
 
 
 SAML Response Rate Metric
