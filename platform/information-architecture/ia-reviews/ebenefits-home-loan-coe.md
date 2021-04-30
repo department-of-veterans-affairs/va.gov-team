@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 04/30/2021**
 
 **Team:** VSA - eBenefits
 
