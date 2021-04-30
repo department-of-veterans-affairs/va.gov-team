@@ -16,45 +16,71 @@ See our [MVP definition](https://github.com/department-of-veterans-affairs/va.go
 
 ### Questions we hope to be able to answer through this research
 
-- What kind of notifications do people expect to be able to receive from the VA?
-- Where do people expect to be able to manage notifications?
-- What notifications are people currently receiving from the VA?
-- What notifications are they not getting that they wish they did?
-- Does our "edit per group" pattern introduce any usability hurdles?
-- Do people understand that `checked` = notifications on and `unchecked` = notifications off?
-- Do people understand the groupings? 
-- Are the checkbox labels sufficiently explicit?
-- What expectations do people have around "unsubscribe from all" or "enable/disable" functionality?
-- Will people be confused about why some notifications have 2 channels and others have 1?
+#### What expectations do Veterans have about managing notifications?
 
+- Where?
+- How?
+- When?
+- Unsubscribe, enable/disable
+
+#### What kind of notifications do people expect to be able to receive from the VA?
+
+- What notifications are they not getting that they wish they did?
 - What words do people use to talk about or search for notification content?
 
-- What kind of static content support makes sense for this section of profile?
+#### Are we providing sufficient contextual information?
 
-- Is the preview text (On: emails, text) meaningful and helpful?
+- Do the groups make sense?
+- Do people know what the notifications actually are?
+- Do they understand their current settings?
+
+#### Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
+
+#### Do people expect to be able to update their contact info right here on the page?
+
+#### If someone is missing a phone or email from their profile, do they understand how to make updates so they can get notifications to that channel?
 
 - If someone has partial contact info on file:
-
   - do they understand email/text is also available when they don't have a checkbox to click?
-  - do they know how to add that information?
+  - do they know how to add that information? Does our updated treatment (new copy + button) of this hinder their UX in any way?
   - do they know how to get back to notification settings once they add info?
 
-  
+#### Do we need more content?
 
-### Our hypothesis for this research
+- How do people expect to be able to discover notifications they're not currently opted in to?
+- What kind of static content support makes sense for this section of profile?
+
+#### Questions about the API....
+
+- There will be more questions here once we see it in action
+
+
+
+### Our hypothesis for this research study
+
+- Veterans will be able to intuitively navigate our design and 
 
 
 
 ## Method	
 
-1.	What method of research are you planning? 	
-   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-   - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+1. What method of research are you planning? 	
 
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.	If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+   This will be a remote moderated usability test with high-fidelity prototypes.	
+
+2. Why this method? How does this methodology help you answer your research questions? 
+
+   Starting people on the screen with partial contact information will help us evaluate our overall design, plus:
+
+   - if our solution for partial contact info works for people **(WHAT PERCENTAGE OF PROFILES ARE MISSING THIS INFORMATION?)**
+   - If people expect to be able to edit/update contact information right on the page
+   - If people can get back to notification settings after they've updated their profile
+
+3. Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+
+4. What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
+
+5. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
 ## Participants and Recruitment	
 
