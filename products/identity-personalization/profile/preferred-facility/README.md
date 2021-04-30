@@ -105,8 +105,8 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
   - **Note**: This metric will need to consider users who have health care vs. users who do not, plus changes that happen in both the VAOS tool AND the profile. 
 
 |KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
-|----------|-------------|---------------|-------------------|
-|# of users who have updated their facility preferences|TBD|TBD|TBD|
+|----------|-------------|---------------|
+|# of users who have updated their facility preferences|TBD|TBD|
 
 - **Key result #3**: Maintain at least a 95% success rate for retrievals of facility preferences.
 - **Key result #4**: Maintain at least a 95% success rate for successful saves of facility preferences.
