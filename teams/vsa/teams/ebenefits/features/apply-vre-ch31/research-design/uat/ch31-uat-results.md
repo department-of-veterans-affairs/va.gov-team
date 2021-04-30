@@ -1,4 +1,5 @@
-# Results of user acceptance testing (UAT) for VA Form-28-1900 (Chapter 31) / production environment
+# Results of user acceptance testing (UAT) for VA Form-28-1900 
+### (Chapter 31) / production environment
 **VSA eBenefits Team | April 2021**
 
 `Jason Wolf, moderator`
@@ -12,23 +13,26 @@ X UAT sessions were conducted from X to X 2021. X of X users participated. X maj
 
 | UAT item | P1 | P2 | P3 | P4 | P5 | P6 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| After login, intro screen allows access | -- | -- | -- | -- | -- | -- |
-| User navigates wizard to reveal orientation (optional) | -- | -- | -- | -- | -- | -- |
+| After login, intro screen allows access | ✔ | -- | -- | -- | -- | -- |
+| User navigates wizard to reveal orientation (optional) | ✔ | -- | -- | -- | -- | -- |
 | User clicks form link to advance straight to the form intro screen | -- | -- | -- | -- | -- | -- |
-| User navigates orientation to reveal orientation (optional) | -- | -- | -- | -- | -- | -- |
+| User navigates orientation to reveal orientation (optional) | ✔ | -- | -- | -- | -- | -- |
 | User clicks form link to advance straight to the form intro screen | -- | -- | -- | -- | -- | -- |
-| User clicks green button to enter form | -- | -- | -- | -- | -- | -- |
-| Screen presents correct user data | -- | -- | -- | -- | -- | -- |
-| Address, phone and email are pre-filled | -- | -- | -- | -- | -- | -- |
-| User makes any necessary corrections and proceeds | -- | -- | -- | -- | -- | -- |
-| Selections branch form-flow properly | -- | -- | -- | -- | -- | -- |
-| Accordions are present and contain correct information | -- | -- | -- | -- | -- | -- |
-| Edit function allows corrections | -- | -- | -- | -- | -- | -- |
-| Form submits and user is presented with confirmation screen | -- | -- | -- | -- | -- | -- |
+| User clicks green button to enter form | ✔ | -- | -- | -- | -- | -- |
+| Screen presents correct user data | ✔ | -- | -- | -- | -- | -- |
+| Address, phone and email are pre-filled | ✔ | -- | -- | -- | -- | -- |
+| User makes any necessary corrections and proceeds | ✔ | -- | -- | -- | -- | -- |
+| Selections branch form-flow properly | ✔ | -- | -- | -- | -- | -- |
+| Accordions are present and contain correct information | ✔ | -- | -- | -- | -- | -- |
+| Edit function allows corrections | ? | -- | -- | -- | -- | -- |
+| Form submits and user is presented with confirmation screen | ? | -- | -- | -- | -- | -- |
 
 -- = Did not occur in testing/Participant did not show
-
+✔ = occurred as expected
 ? = Did not observe result 
+
+## Specific Notes
+**P1**
 
 ## Conclusion
 UAT was successful. The wizard, orientation and form preformed well; participants were uniformly satisfied with the appearance and function of the tool. X potential areas to address are:
