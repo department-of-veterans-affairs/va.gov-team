@@ -35,7 +35,7 @@ VFS provides:
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Link to the tool or feature  in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
-- Staging test user information (if applicable)
+- Link to [test user information, passwords, and tasks](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md) in the va.gov-team-sensitive repo (if applicable)
 - Link to content brief (if applicable)
 - Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
 - Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) for QA practice area review
