@@ -28,7 +28,6 @@ See our [MVP definition](https://github.com/department-of-veterans-affairs/va.go
 10. Does a person with partial contact info they understand email/text is also available when they don't have a checkbox to click?
 11. Do they know how to get back to notification settings once they add info?
 12. What kind of static content support makes sense for this section of profile?
-13. Questions about the API likely to come once we see it in action....
 
 ### Our hypothesis for this research study
 
@@ -100,6 +99,7 @@ Recruit for 10 fulfilled sessions using the following criteria:
 - All must have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screen share
+- Note that our prototype isn't compatible with assistive technology
 
 ### What is your recruitment strategy? 	
 
@@ -109,7 +109,7 @@ We will leverage Perigean's services to recruit participants.
 
 #### Desired Timeline: May 17-19, 2021 
 
-30 minute sessions<br/>
+45 minute sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
 | Team Availability | Time (EST)                                                   |
@@ -128,8 +128,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator):	Liz Lantz	
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-- Participant(s) for pilot test:	TBD
-- Note-takers:	TBD
+- Participant(s) for pilot test:	Brian Lloyd, blloyd@governmentcio.com
+  - Note-takers:	TBD
 - Observers:	TBD
 
 ## Resources	
