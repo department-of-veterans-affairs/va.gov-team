@@ -80,7 +80,7 @@ For this task, under the 'Facility type' menu, I'd like you to choose 'In-networ
 Open the 'Service type' menu, talk me through what the different options mean to you.
    - What does 'All in-network emergency care' mean to you?
    - What does 'VA emergency care' mean to you? 
-   - What does 'Community emergency care' mean to you?
+   - What does 'In-network community emergency care' mean to you?
 Does this distinction matter to you? 
    - What matters about the distinction?
 
@@ -96,7 +96,6 @@ Go ahead and click the blue 'Search' button for me.
 
 Can you talk me through what you see on this page, after clicking the blue 'Search' button?
   - [Yellow alert] What does this mean to you?
-  - [Blue info alert] What does this mean to you?
 
 What would be your thought process for making a choice from this list of results?
 
@@ -106,7 +105,7 @@ Open the 'Service type' menu, and select 'VA emergency care', then click the blu
   - Tell me about what you see in this results list.
   - Does the distinction between this results list, and the previous results list, matter to you?
 
-Open the 'Service type' menu, and select 'Community emergency care', then click the blue 'Search' button.
+Open the 'Service type' menu, and select 'In-network community emergency care', then click the blue 'Search' button.
   - Tell me about what you see in this results list.
   - Does the distinction between this results list, and the previous results list, matter to you?
 
