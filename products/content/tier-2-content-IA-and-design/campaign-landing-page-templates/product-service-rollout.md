@@ -41,9 +41,9 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 - OPIA: Bronwyn Emmet
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
-**Request and Publishing Model:** 
+**MVP Request and Publishing Model (April-June 2021):** 
 
-<img width="1103" alt="Screen Shot 2021-03-05 at 12 44 33 PM" src="https://user-images.githubusercontent.com/63107147/110153109-9b690800-7db0-11eb-820a-cf4835cab0a5.png">
+<img width="1102" alt="Screen Shot 2021-04-30 at 8 27 35 AM" src="https://user-images.githubusercontent.com/63107147/116695052-0a687480-a98e-11eb-817b-e57fecefb48a.png">
 
 
 
