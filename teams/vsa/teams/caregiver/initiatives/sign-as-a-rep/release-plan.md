@@ -24,7 +24,7 @@
 - Document upload and attachement to application
 - Capture signature and apply it to the PDF that gets sent
 ### Out of scope (but fast follow)
-- Sending a POA indication flag will follow the release
+- Sending a POA indication flag
 - Improve document upload error states
 
 
