@@ -494,7 +494,7 @@ Information entered here won’t change your existing accounts for VA education 
 
 { help-text} 
 
-The Veterans Benefits Banking Program (VBBP) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
+The [Veterans Benefits Banking Program (VBBP)](https://veteransbenefitsbanking.org/) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
 
 To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. 
 
