@@ -26,7 +26,11 @@
 * Pause on VAMC launches
 * Policies page launch for Butler and beyond
 * Help desk
-* TBD
+* Menu governance (Kevin)
+  * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
+  * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
+  * Set up some co-working next week on Pittsburgh menu and IA changes 
+  * Dual state menu and IA changes 
 
 ## Friday Apr 23
 
