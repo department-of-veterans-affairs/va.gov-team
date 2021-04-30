@@ -60,7 +60,8 @@ Zoom
 
 We'll test with a [UXPin prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages//simulate/sitemap?mode=i).
 
-**Q: test on desktop or mobile, or both?  Previous studies we've run had 5-8 participants; we could expand the study a bit and do 5 on each device, or maybe 4 on each would be sufficient? Would love your thoughts.**
+**Q: I'm not sure whether we should test on desktop or mobile, or both?  I don't have any significant concerns about either one that would push me one way or the other.  Previous studies we've run had 5-8 participants; we could expand the study a bit and do 5 on each device, or maybe 4 on each would be sufficient? I think the research questions would benefit from a prototype that is as close to the real thing as possible, which means I need to figure out how to create states in UX Pin. I've heard it's tedious and time consuming, so we may be forced to choose only one in the interest of time/effort. **
+**Would love your thoughts.**
 
 ## Participants and Recruitment	
 
