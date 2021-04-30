@@ -68,8 +68,8 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 |# of profiles with mobile phone saved in VA Profile backend|7,759,973/15,329,217 profiles (50.6%)|TBD|TBD|TBD|
 |# of profiles with email addresses saved in VA Profile backend|6,367,462/15,329,217 profiles (41.5%)|TBD|TBD|TBD|
 
-- **Key result #3**: Maintain at least a 95% success rate for retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).
-- **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information (assumes late Q3 or early Q4 launch).
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of notification preferences.
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information.
 
 |KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|-------------------|
