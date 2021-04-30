@@ -58,16 +58,23 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
 
-**Objective: Present Veterans with a consolidated display of all notification types and settings available through VA.gov, and allow them to easily update their preferences.**
+**Objective: Allow Veteran's to easily customize how they communicate with the VA.**
 
 - **Key result #1**: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).
-- **Key result #2**: Establish a baseline metric for % of successful retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).
-- **Key result #3**: Establish a baseline metric for % of successful saves of notification preference information (assumes late Q3 or early Q4 launch).
+- **Key result #2**: Increase the number of mobile phone numbers and email addresses added to VA Profile by 15% each.
 
-|KPI/metric|Establish Baseline: Q4 October - December 2021|Post-launch: Q1 Jan - Mar 2022| Post-launch: Q2 Apr - June 2022|
+|KPI/metric|Baseline as of 4/30/21| Baseline immediately before launch (date TBD) |% of profiles with this info at the end of Q4 2021 (Oct - Dec) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|--------------|--------------|
+|% of people with mobile phone saved in VA Profile backend|TBD|TBD|TBD|TBD|
+|% of people with email addresses saved in VA Profile backend|TBD|TBD|TBD|TBD|
+
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of notification preferences by end of Q4 (assumes late Q3 or early Q4 launch).
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information (assumes late Q3 or early Q4 launch).
+
+|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|-------------------|
-|% of successful retreivals| TBD|TBD|TBD|
-|% of successful saves| TBD |TBD|TBD|
+|% of successful retreivals|TBD|TBD|TBD|
+|% of successful saves|TBD|TBD|TBD|
 
 # Implementation Info
 
