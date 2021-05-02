@@ -52,7 +52,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 
-All data will be available via Vets API integration. Data work is being done by a different team that will aggregate all the disparate systems into a micro services layer integrated into Vets API. 
+All data will be available via Vets API integration. Data work is being done by a different team that will aggregate all the disparate systems into a micro services layer integrated into Vets API. VetText has existing functionality that will be leveraged - at this time the technical integration is the biggest unknown and risk. The risk will decrease as Vets API migration gets underway.
 
 ## Solution Approach
 
@@ -62,6 +62,8 @@ The MV will focus on check product only. Future iterations will include day of a
 **Potential Future Iterations**
 Will focus on day of and post visit functionality
 ![116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg (1280×720)](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
+
+
 --- 
 ## Go-to-market Strategy
 A Pilot site will be chosen, following the Clipboard methodology. Once the site is chosen that group of Veterans will be a pilot group where the Kiosk will be replaced with digital check-in.
@@ -92,3 +94,11 @@ Veteran research and onsite Kiosk  Research has been completed.
 ## Screenshots
 
 ### Before
+
+
+
+
+
+
+
+
