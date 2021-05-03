@@ -135,7 +135,7 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 - Increased utilization of Vet Center services (?)
 - Increased understanding of Vet Center services (scroll depth, expansion)
 - Rank in Google search
-- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Ouotreach Specialists** 
+- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Outreach Specialists** 
    - (in-bound) Referral source is tracked nationally (how did you hear of us?) (NSS)
    - Not all Vet Centers capture call data (can be standardized)
 
