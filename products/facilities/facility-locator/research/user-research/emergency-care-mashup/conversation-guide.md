@@ -40,7 +40,7 @@ Before we start, a few things I want to mention:
 
 * Can you tell me a little about your service history?
 * Have you visited the VA for healthcare in the past year?
-    * If yes: can you tell me about that?
+    * If yes: can you tell me about that experience?
 
 ## Usability Test - 25 minutes
 
@@ -56,9 +56,11 @@ I ask that you think out loud as much as possible, as we go through the prototyp
 
 ### PROTOTYPE: Facility Locator
 #### Questions:
+
 - Are you familiar with, or have you ever used VA.gov's location finder? 
     - If yes: how long ago, what were you doing? What was that experience like?
     - If no: how do you go about finding information about VA locations?
+
 - Have you ever visited an emergency care clinic in the past (VA or non-VA)?
     - If yes, can you tell me about that?
     - (VA/non-VA location? Why that one? How did you find it?)
@@ -66,16 +68,17 @@ I ask that you think out loud as much as possible, as we go through the prototyp
 
 ### Scenario
 #### Directions:
+
 I'm going to walk us through a scenario and have you perform a couple tasks. 
 Again, this is only a prototype so some things might not work as expected. 
 As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
 
-I'd like you to imagine that you live in Denver, CO. You are coming to this site because you would like to learn more about the locations closest to you that offer emergency care services.
+I'd like you to imagine that you live in Denver, CO. You are coming to this site because you would like to learn more about the closest locations that offer emergency care services.
 
 
 ### Task 1
 
-#### PROTOTYPE: User selects a facility type
+#### PROTOTYPE: User selects different facility types
 #### Questions:
 
 For this task, under the 'Facility type' menu, I'd like you to choose 'In-network emergency care'.
@@ -86,47 +89,40 @@ Open the 'Service type' menu, talk me through what the different options mean to
    - What does 'All in-network emergency care' mean to you?
    - What does 'VA emergency care' mean to you?
    - What does 'In-network community emergency care' mean to you?
+
 Does this distinction matter to you?
    - What matters about the distinction?
 
-Open the 'Service type' menu, and click the "All in-network emergency care' option.
-Go ahead and click the blue 'Search' button for me.
-
-[click 'Search' button]
-
 ### Task 2
 
-#### PROTOTYPE: Search results
+#### PROTOTYPE: Open-ended search results
 #### Questions:
 
-Can you talk me through what you see on this page, after clicking the blue 'Search' button?
-  - (Yellow alert) What does this mean to you?
+Let's say you want to perform a search for nearby locations that have emergency care services.
+  - (Point out steps, probe throught process)
+  - Can you walk me through that process?
 
-What would be your thought process for making a choice from this list of results?
+Based on the results of your search, what is important to you when choosing a location from this list?
 
-Given the scenario, that you think you might be experiencing an emergency health situation, what is important to you when choosing from this list?
-
-Open the 'Service type' menu, and select 'VA emergency care', then click the blue 'Search' button.
-  - Tell me about what you see in this results list.
-  - Does the distinction between this results list, and the previous results list, matter to you?
-
-Open the 'Service type' menu, and select 'In-network community emergency care', then click the blue 'Search' button.
+Let's say you want to search for [All / VA / Community locations] in your area.
+  - (Point out steps, probe throught process)
+  - Can you walk me through the process?
   - Tell me about what you see in this results list.
   - Does the distinction between this results list, and the previous results list, matter to you?
 
 ### Scenario
-Here's another scenario: you may not think you are experiencing an immediate emergency, but you want to learn more about your benefits at community care locations.
 
+
+
+#### PROTOTYPE: 
 #### Questions:
 
-Given the results of your search options, how might you go about learning that information?
-  - [Blue alert within community results]
-  - [Point out alert, if not noticed] What does this mean to you?
 
 ## Post-Task Interview - 5 minutes
 
 I have just a couple more questions before we finish up:
 
+- 
 - Can you think of anything that would make this website easier for you to use next time?
 - Is there anything that I haven't asked you that you think that I should know?
 - Any questions for me? 
