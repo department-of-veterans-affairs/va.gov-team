@@ -1,6 +1,6 @@
 ## Collaboration Cycle - Change Log
 
-### April 30, 2021
+### May 3, 2021
  - **Process changes for Design Intent touchpoint.** The Platform team recognized that the meeting output was not consistent. Platform and OCTO-DE had different expectations of the meeting purpose/objective. The following changes have been put in place to address these inconsistencies:
    - **Asynchronous reviews will no longer be supported.** The Design Intent meeting is intended to be a collaboration between the VFS team, Platform, and OCTO-DE. Collaboration cannot take place if the meeting is asynchronous. 
    - **Platform reviewers will no longer be writing feedback tickets prior to the meeting.** Platform reviewers will now be given the opportunity to hear reasoning behind the design decisions as well as OCTO-DE input prior to creating feedback tickets for VFS teams. This change will allow for improved efficiency with Platform reviewers and less re-writing and editing of tickets post-meeting. Instead...
