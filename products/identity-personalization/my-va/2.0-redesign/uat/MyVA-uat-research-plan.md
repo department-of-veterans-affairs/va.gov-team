@@ -105,6 +105,8 @@ My VA has many details in each section that we need to test, so I have broken ou
 
 We would like **10** total participants.
 
+- We will need **5** participants who currently have a disability rating. (This may or may not overlap with users who have claims/appeals and/or health care) Please confirm this prior to sessions.
+
 - We will need **5** participants who are eligible/currently recieve health care from the VA. Please confirm this prior to sessions.
 
 - We will need **5** participants who have active claims or appeals. Please confirm this prior to sessions. 
@@ -157,7 +159,6 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - Tressa Furner (tressa.furner@adhocteam.us)
 - Samara Strauss (samara.strauss@va.gov)
 - Erik Hansen (erik@adhocteam.us)
-- Lihan Li (lihan@adhocteam.us)
 - Ana Jakabcin (ana@adhocteam.us)
 
 ## Resources
