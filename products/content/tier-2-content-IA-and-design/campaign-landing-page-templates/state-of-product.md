@@ -100,6 +100,8 @@ The template requirements are:
 
 - The canonical URL will be set by the H1 with hyphens of the CLP -- e.g. increasing-access-to-health-care-with-the-mission-act
 - CLPs will sit in a new directory -- e.g., /initiatives/H1
+- Vanity URLs/Redirects should not be overly broad -- more guidance here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/vanity-url-guidelines.md
+- Site Linking guidelines: The global navigation should not be used for site links to a CLP
 
 
 ### Product Dashboard
