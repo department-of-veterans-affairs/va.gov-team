@@ -15,9 +15,10 @@
 
 ## De-couple from Lighthouse
 - How Forms data processing works now: https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md
-- We looked at it at and determined it was not the right solution because…
+- We looked at it at and determined it was not the right solution -- at this time -- because…
   - Per Elijah Lynn: The CMS cannot technically accept any incoming public external traffic right now, because it is in a specific PROD network (vagov-prod vpc) that doesn't have an internet gateway (to allow the traffic in). We would need to move the CMS to a different VPC and change things up a bit, including public DNS and public TLS certificates (or passthrough with Lighthouse). That is non-trivial (not impossible though). A bunch more detail I haven't included, to keep this answer more brief. 
   - Per Nick Sullivan: It makes sense to me, but to restate, right now relying directly on the CMS for a data source is not technically feasible. If it were, we would've done it already (much simpler.) But in some of the restructuring we are considering in #content-release-engineering it could become possible
+  - Question for CMS/Tech team: What are the pros/cons of de-coupling FaF from Lighthouse and what is LOE?
 - Not now because it would involve CMS effort, and they don't have bandwidth
 - Timing - searching solution is better in Lighthouse 
 - Lighthouse can handle the load better and we can handle a more sophisticated search
