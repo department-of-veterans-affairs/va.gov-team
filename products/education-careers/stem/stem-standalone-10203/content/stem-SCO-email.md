@@ -27,7 +27,16 @@ If the student already has an undergraduate degree and is seeking a teaching cer
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 - Name of STEM program of degree conferred: 
 - 6-digit CIP Code of degree conferred: 
-- Is the student currently enrolled in a program leading to a teaching certification?: 
+- Is the student currently enrolled in a program leading to a teaching certification?:
+
+##### If the applicant is in a clinical training program for healthcare professionals
+If the student already has a bachelor's or graduate degree and is enrolled in a clinical training program, please provide the following: 
+- Has the student earned a bachelor’s or graduate degree in an approved STEM program?:  
+([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
+- Name of STEM program of degree conferred: 
+- 6-digit CIP Code of degree conferred: 
+- Is the student currently enrolled in a covered clinical training program for health care professionals?
+- ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 
 **A reply is requested as soon as possible, preferably within 14 days**. Please submit your response to [STEM.VBABUF@va.gov]. If we don’t receive a response, we won’t be able to process the student’s application for the Rogers STEM Scholarship, and we may follow up for the required information. 
 
