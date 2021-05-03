@@ -24,9 +24,8 @@ My VA has many details in each section that we need to test, so I have broken ou
 **General**
 
 - Is My VA loading all sections when it should be? (LOA3)
-- Is My VA NOT showing when it's NOT supposed to be? (LOA1, Can't match records)
+- Is My VA NOT showing when it's NOT supposed to be? (Can't match records)
 - Can a user get to My VA from the VA.gov homepage? (from main nav link and through user dropdown link)
-- If a user is a patient at a cerner location, does the correct alert show in place of the health care section?
 
 **Disability rating/Nametag**
 
@@ -105,11 +104,11 @@ My VA has many details in each section that we need to test, so I have broken ou
 
 We would like **10** total participants.
 
-- We will need **5** participants who currently have a disability rating. (This may or may not overlap with users who have claims/appeals and/or health care) Please confirm this prior to sessions.
-
 - We will need **5** participants who are eligible/currently recieve health care from the VA. Please confirm this prior to sessions.
 
 - We will need **5** participants who have active claims or appeals. Please confirm this prior to sessions. 
+
+- At least **3** participants must currently have a disability rating. (This may or may not overlap with users who have claims/appeals and/or health care) Please confirm this prior to sessions.
 
 - All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
 
