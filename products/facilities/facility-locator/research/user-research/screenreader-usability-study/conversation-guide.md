@@ -30,9 +30,10 @@ _For iPhone:_
 - OK great. To confirm, were you able to download and set up the Zoom application on your phone ahead of this meeting?
 
 - **If yes**
-- We'd like to send you a zoom link for you to open on your phone so you can join this meeting. We can send this to you by email [read email], by text, or through zoom's built in chat feature. Do you have a preference?  
+- We'd like to send you a zoom link for you to open on your phone so you can join this meeting. We can send this to you by email [read email] or by text. Do you have a preference?  
 - [Send through Veteran's preferred communication channel]
-- When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. Since you have already joined by video, feel free to tap "don't allow" for both. You will then be asked to join audio. Please tap "No audio."
+- When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. We only need your audio for this session, so please tap "Allow" for the microphone prompt. Feel free to tap "Don't Allow" for video permissions if you are not comfortable having your face on camera.
+- You will then be asked to join audio. Please tap "Join audio."
 - Once you're in the call, please find the "Share content" button. It will be at the bottom center of your app. Double tap that button and then double tap "Screen." Then, find the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
 - Great, now I can see your phone screen!
 - If you need to stop sharing during this session you can click 'Stop Broadcast'
