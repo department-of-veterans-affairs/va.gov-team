@@ -10,7 +10,7 @@
 
 ## Search Improvements
 - We're iteratively improving search - we have solved one of the biggest pain points, which is the way in which users format the form number.  In solving that, we've addressed 76% of searches.
-- Now we're working on improving keyword-based matches and ordering them by relevance.  These searches without a specific form number account for 24% of searches.
+- Now we're working on improving keyword-based matches and ordering them by relevance.  Inquiries without a specific form number account for 24% of searches.
 - Our initial approach was to add logic to the front end in order to avoid creating additional dependencies on the Forms API.  While researching and designing this approach,  we encountered the following:
     - Multi-word search terms are broken apart within the Forms API logic and then searched by each individual word using "or" logic vs "and" logic.  This limitation prevents us from to conducting full-phrase searches such as "direct deposit" or "power of attorney" from the front end.
     - The fields in which terms were searched is pre-determined by the Forms API (form number and description), and we are unable to influcence this from the front end.  in order to search additional fields (such as *When to Use This Form* or *Administration*.
