@@ -33,8 +33,12 @@ Vet Pro is an application built by Panoramic Software, which is used by VSOs and
 - We agreed to re-visit in the fall - Janel doesn't currently have bandwidth; Josh is taking extended OOO
 - CMS doesn't have bandwidth; they are focused on other projects
 - What would be the goals of the POC
-    - Content rigidity/data hygiene
-    - Put the content back in the hands of the content manager
-     - Extend beyond VHA, adding NCA (National Cemetery Admin), others into the mix
+    - System-enforced name formatting rules
+    - Data hygiene
+    - Give forms experts control of forms content
+    - New keyword column would improve our ability to search by related words that may not appear in the form name
+    - Extend beyond VHA, VBA, add NCA (National Cemetery Admin), others into the mix
     - What is the value to the Veteran and their caretakers?
-      - More forms are more findable 
+        - "One-stop shop" for all VA Forms regardless of Administration
+        - Ability to conduct fruitful search with broader terminology
+        - Streamlined forms management is likely to increase the liklihood that form data will be kept current and more accurate
