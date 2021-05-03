@@ -56,7 +56,7 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** After login, intro screen allows access
 - (If login fails for any reason) It seems there's a problem logging-in; you'll need to log in to be able to see the form.
   - If the user can not log in, end the session
-- Review the information on the landing screen. Is this the right form for you?
+- Review the information on the intro screen. Is this the right form for you?
   - [ ] **UAT item:** User navigates wizard to reveal orientation (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the VR&E orientation. Does this provide a better understanding of VR&E benefits?
