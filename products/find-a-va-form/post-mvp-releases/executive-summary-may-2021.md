@@ -3,16 +3,16 @@
 - 491 total forms
 - 446 forms with at least a minimal detail page
 - 46 with detail pages containing maximum amount of content
-- Average of X forms added per week - (**Note** - We need a means of obtaining a reliable count of newly-added records; we cannot rely on the "Issue Date
- that the forms managers enters. CMS modified dates are also unreliable because they update each time a form is updated (not just added).
-- Out of those, we publish and average of X detail pages
+- Average of X forms added per week - (**Note** - We need a means of obtaining a reliable count of newly-added records; we cannot rely on the *Issue Date*
+ the forms managers enter. CMS modified dates are also unreliable because they update each time a form is changed (not just added).
+- Out of those, we publish and average of X detail pages [*number??*]
 - Our current model for Detail pages is: We only add custom content of any type for the detail page if the Form receives more than 200 queries per month on average.
 
 ## Search Improvements
-- We're iteratively improving search - we have solved one of the biggest pain points, which is the format of the form number.  In solving that, we've addressed 76% of search issues related to searching by form number.
-- Now we're working on ranking matches and ordering them by relevance, which account for 24% of searches that use keywords without a form number.
-- Our initial approach was to add logic in the front end to avoid creating additional dependencies on the Forms API.  While researching and designing this approach,  we encountered the following:
-    - Multi-word search terms are broken apart within the Forms API logic and then searched by each individual word.  This limitation prevents us from to conducting full-phrase searches such as for "direct deposit" or "power of attorney" from the front end.
+- We're iteratively improving search - we have solved one of the biggest pain points, which is the way in which users format the form number.  In solving that, we've addressed 76% of searches.
+- Now we're working on improving keyword-based matches and ordering them by relevance.  These searches without a specific form number account for 24% of searches.
+- Our initial approach was to add logic to the front end in order to avoid creating additional dependencies on the Forms API.  While researching and designing this approach,  we encountered the following:
+    - Multi-word search terms are broken apart within the Forms API logic and then searched by each individual word using "or" logic vs "and" logic.  This limitation prevents us from to conducting full-phrase searches such as "direct deposit" or "power of attorney" from the front end.
     - The fields in which terms were searched is pre-determined by the Forms API (form number and description), and we are unable to influcence this from the front end.  in order to search additional fields (such as *When to Use This Form* or *Administration*.
 
 ## De-couple from Lighthouse
