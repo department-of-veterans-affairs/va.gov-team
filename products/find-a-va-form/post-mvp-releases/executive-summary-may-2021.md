@@ -3,7 +3,8 @@
 - 491 total forms
 - 446 forms with at least a minimal detail page
 - 46 with detail pages containing maximum amount of content
-- Average of X forms added per week - (**Note** Need reliable count from API records; we cannot rely on the dates the forms managers enter. CMS dates are also not reliable because they update each time a form is updated (not just added).
+- Average of X forms added per week - (**Note** - We need a means of obtaining a reliable count of newly-added records; we cannot rely on the "Issue Date
+ that the forms managers enters. CMS modified dates are also unreliable because they update each time a form is updated (not just added).
 - Out of those, we publish and average of X detail pages
 - Our current model for Detail pages is: We only add custom content of any type for the detail page if the Form receives more than 200 queries per month on average.
 
