@@ -38,6 +38,7 @@ Vet Pro is an application built by Panoramic Software, which is used by VSOs and
     - Give forms experts control of forms content
     - New keyword column would improve our ability to search by related words that may not appear in the form name
     - Extend beyond VHA, VBA, add NCA (National Cemetery Admin), others into the mix
+    - Simpler troubleshooting with fewer systems in the mix
     - What is the value to the Veteran and their caretakers?
         - "One-stop shop" for all VA Forms regardless of Administration
         - Ability to conduct fruitful search with broader terminology
