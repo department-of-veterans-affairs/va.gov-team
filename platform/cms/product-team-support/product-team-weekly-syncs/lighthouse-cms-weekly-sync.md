@@ -31,7 +31,7 @@ CAP data
  - How long should archived CAP data be available to Vets, and in what form?
  - IDs. 12 characters max, referencing the "parent" Vet Center ID, and appending an increment up to 99. [vcparentID][cap][99]
 
-(Time available) Questions on Real-time API access via Lighthouse
+(Time available) Questions on Real-time API access via Lighthouse for Accelerated Publishing initiative
  - Intro/background
  - Can Lighthouse proxy API requests to another backend, or must data always be pushed to Lighthouse?
  - Can Lighthouse provide keyless access for public data? (How do rate limits play in)
