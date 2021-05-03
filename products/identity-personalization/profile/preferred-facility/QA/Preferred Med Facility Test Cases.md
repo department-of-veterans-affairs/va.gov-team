@@ -11,9 +11,9 @@
 ### Test cases for facilities read view
 |Test case|Intended outcome|Staging User|Prototype link|
 |----|----|----|----|
-| All faciliites are marked as current  | All registered facilities are displayed, no reference to "other registered facilities"  | TK | TK |
-| Some faciliites are marked as current  | Only facilities marked as current are displayed, copy below list references other facilities marked as current.  Number of other facilities + number of current facilities should equal total number registered facilities for user.  | TK | TK |
-| User clicks edit button | User goes to read view  | TK | TK |
+| All facilities are marked as current  | All registered facilities are displayed, no reference to "other registered facilities"  | TK | TK |
+| Some facilities are marked as current  | Only facilities marked as current are displayed, copy below list references other facilities marked as current.  Number of other facilities + number of current facilities should equal total number registered facilities for user.  | TK | TK |
+| User clicks edit button | User goes to edit view  | TK | TK |
 
 ### Test cases for facilities edit view
 |Test case|Intended outcome|Staging User|Prototype link|
