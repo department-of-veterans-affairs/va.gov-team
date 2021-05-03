@@ -1,5 +1,15 @@
 # Meeting Notes
 
+## 2021-05-03 Discuss opening items remaining from Design Intent Review
+- Horizontal rule placement
+- Treatment of headings in search results
+- Form number in front of the link (or not)
+- Reducing amount of content above search fields
+- When/how we should address the search field itself:
+    - Having a magnifying glass on button (global search, R&S) vs. not (Find VA Form)
+    - Inconsistent spacing between text field & button
+    - R&S button that stays inactive until three characters are entered, others are always active
+
 ## 2021-04-15 Review Comp Updates
 
 ### Topic
