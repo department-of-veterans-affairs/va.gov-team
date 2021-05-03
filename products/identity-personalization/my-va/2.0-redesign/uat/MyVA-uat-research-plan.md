@@ -97,7 +97,7 @@ My VA has many details in each section that we need to test, so I have broken ou
 
 4.	**What will you be testing?**
 
-- We will be testing the new profile functionality on production (beta).
+- We will be testing the new My VA functionality on production (beta).
 
 ## Participants and Recruitment
 
