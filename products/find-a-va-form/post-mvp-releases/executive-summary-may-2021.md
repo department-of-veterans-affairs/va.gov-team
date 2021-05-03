@@ -1,7 +1,8 @@
 # Find a VA Form Executive Summary May 2021
 ## Current State of the Product
-- X total forms
-- X forms with detail pages
+- 491 total forms
+- 446 forms with at least a minimal detail page
+- 46 with detail pages containing maximum amount of content
 - Average of X forms added per week
 - Out of those, we publish and average of X detail pages
 
