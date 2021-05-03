@@ -26,7 +26,7 @@ We need to get the ID(s) of the QR that what to delete
 
 1. sign into staging.va.gov with user `va.api.user+idme.101@gmail.com`
 2. open a new tab, and go to `https://staging-api.va.gov/health_quest/v0/questionnaire_responses?source=1008882029V851792`
-3. The `entry` property is a list of Questionnaire responses. We care about the `resource.id` property
+3. The `entry` property is a list of Questionnaire Responses. We care about the `resource.id` property. You can use your answers to find the Questionnaire Response you want to delete.
 4. Save the id(s) for step 2
 
 ## 2 - Delete QR
@@ -36,7 +36,7 @@ We need to get the ID(s) of the QR that what to delete
 1. Get the QR id from step 1
 2. Open POSTMAN and import the [curl command](#curl-request) below
 3. Replace `${API_KEY}` with the real API_KEY in the headers
-4. Replace `${questionnaire_response_id}` in the URL
+4. Replace `${questionnaire_response_id}` in the URL with the id you found in step 1.
 
 ### curl request
 
@@ -44,3 +44,7 @@ We need to get the ID(s) of the QR that what to delete
 curl --location --request DELETE 'https://sandbox-api.va.gov/services/pgd/v0/sandbox-data/r4/QuestionnaireResponse/${questionnaire_response_id}' \
 --header 'apikey: ${API_KEY}'
 ```
+
+### API KEY
+
+The api will be sent through a more secure method by request only.
