@@ -22,7 +22,7 @@
   - Per Nick Sullivan: It makes sense to me, but to restate, right now relying directly on the CMS for a data source is not technically feasible. If it were, we would've done it already (much simpler.) But in some of the restructuring we are considering in #content-release-engineering it could become possible
   - _Question for CMS/Tech team: What are the pros/cons of de-coupling FaF from Lighthouse and what is LOE?_
 - Not now because it would involve CMS effort, and they don't have bandwidth
-- Timing - searching solution is better in Lighthouse 
+- Timing - searching solution can be made more efficient and scalable though Lighthouse since they have direct access to the database.
 - Lighthouse can handle the load better and we can handle a more sophisticated search
     - Note from Nichole - No I did not reach out to Tina Skelly, thought maybe we could do that together since a decision really should be made for both the API external consumers and for the VA forms search (maybe the same decision).
 Vet Pro is an application built by Panoramic Software, which is used by VSOs and Veterans to submit benefit claims. It includes a form search page which uses the LH forms API similarly to how the VA.gov search page does except that it is a little more integrated as a next step with submitting the forms for benefit claims immediately after. 
