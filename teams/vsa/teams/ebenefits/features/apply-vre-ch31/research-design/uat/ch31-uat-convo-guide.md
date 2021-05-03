@@ -17,8 +17,8 @@ Good morning/afternoon and thank you for joining us today.
 I have a few things I need to mention before we start:
 - The session should take about 20 to 30 minutes for the form itself, but it could take longer if you decide to go thorought the orientation portion; in either case, you can stop any point--just let me know. 
 - If something is confusing, or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
-- In this call you'll be entering or reviewing personal information.
 - We will be using a live VA form--the 28-1900. You are not obligated to complete this form--it won't be sent to VA to until you go all the way through and click the submit button.
+- We'll come back ot this in a moment, but in this call you'll be entering or reviewing personal information.
 
 ## Screening
 OK, let's get started.
@@ -40,7 +40,7 @@ Today we're going to observe you completing VA Form 28-1900. We're not recording
 
 To help with any possible questions or concern you have, I may be able to offer real-time assistance with this online form.
 
-OK, the last questions are about your computer and browser.
+OK, last questions:
 - Can you tell me what type of computer you are using today?
   - We ask because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
 - Can you tell me which web browser you are using? Are you OK using Chrome?
@@ -52,7 +52,7 @@ OK, please share your screen, and we'll get started.
 `Revised to remove unauthenticated and video tasks`
 
 - Please open a new tab in your browser, go to [CH31 landing page link]().
-- To complete this form, would you like to log in?
+- To complete this form, we'll need you to log in?
   - [ ] **UAT item:** After login, intro screen allows access
 - (If login fails for any reason) It seems there's a problem logging-in; you'll need to log in to be able to see the form.
   - If the user can not log in, end the session
