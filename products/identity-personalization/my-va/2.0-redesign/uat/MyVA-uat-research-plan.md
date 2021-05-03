@@ -38,7 +38,7 @@ My VA has many details in each section that we need to test, so I have broken ou
 **Claims and appeals**
 
 - If a user is LOA3 and has active claims, is the claims and appeals section displayed?
-- If a user is LOA1 or has NO active claims, is the claims and appeals section NOT displayed?
+- If a user is LOA3 and has NO active claims, is the claims and appeals section NOT displayed?
 - If the claims section is loading, is the correct spinner/content displayed?
 - If the claims section loads for too long, is the correct messaging displayed?
 - Is the correct/most recent claim being displayed in the grey box?
