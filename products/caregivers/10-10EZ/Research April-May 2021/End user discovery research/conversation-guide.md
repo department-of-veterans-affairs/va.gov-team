@@ -111,7 +111,7 @@ If they need a SSN, use 548-79-5555
   - Spouse
   - Annual income
 - Make sure to dig in when there's any hesitation into what they are thinking
-- On sections that cause pause- ask the participant, "why is this information being requested?"
+- On sections that cause pause- ask the participant, "How do you think this information will be used?"
 - Pay special attention to how participants say that they would (or hypothetically would) work through questions that give them pause
     - What resources would you use to overcome blockers?
 - (After submission) What do you expect to happen next?
