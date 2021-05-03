@@ -37,6 +37,9 @@ CAP data
  - How long should archived CAP data be available to Vets, and in what form?
  - IDs. 12 characters max, referencing the "parent" Vet Center ID, and appending an increment up to 99. [vcparentID][cap][99]
 
+Accelerated Publishing initiative
+
+
 ## Monday April 26 3pm ET
 
 - If a Vet Center or VAMC staff finds an issue with the data coming through Facilities API, what should they do?  Multiple data sets... Access to care, Mental health care contacts, VAST. 
