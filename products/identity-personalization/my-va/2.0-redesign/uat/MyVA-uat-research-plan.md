@@ -9,11 +9,11 @@ This UAT will be conducted by the authenticated experience team for the new My V
 
 The [My VA redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) effort aims to:
 
-1. Reduce redundancy — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
-2. Elevate personally relevant information — Users should more easily be able to scan/evaluate their information.
-3. Scale gracefully — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
-4. Prioritize wayfinding — We should make it easy for users to find the My VA dashboard.
-5. Effectively use visual space — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
+- **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
+- **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
+- **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
+- **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
+- **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
 We have wrapped up QA for this re-design on staging, and we are preparing for UAT.
 
