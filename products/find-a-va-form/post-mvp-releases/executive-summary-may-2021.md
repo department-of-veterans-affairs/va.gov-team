@@ -3,7 +3,7 @@
 - 491 total forms
 - 446 forms with at least a minimal detail page
 - 46 with detail pages containing maximum amount of content
-- Average of X forms added per week
+- Average of X forms added per week - need reliable count from API records; we cannot rely on the dates the forms managers enter.
 - Out of those, we publish and average of X detail pages
 
 ## Search Improvements
