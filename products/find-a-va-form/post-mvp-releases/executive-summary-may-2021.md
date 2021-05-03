@@ -41,4 +41,4 @@ Vet Pro is an application built by Panoramic Software, which is used by VSOs and
     - What is the value to the Veteran and their caretakers?
         - "One-stop shop" for all VA Forms regardless of Administration
         - Ability to conduct fruitful search with broader terminology
-        - Streamlined forms management is likely to increase the liklihood that form data will be kept current and more accurate
+        - Streamlined forms management increases the liklihood that form data will be more accurate and up-to-date
