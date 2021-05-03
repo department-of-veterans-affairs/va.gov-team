@@ -499,7 +499,7 @@ FE
 - Work with Peter to make sure design *and copy* is finished
 - Liz to run mini study
 - IA review for this work
-- Start collab with Peter on convo guide for research
+- Collab with Peter on convo guide for research
 
 ### Notification preferences
 
