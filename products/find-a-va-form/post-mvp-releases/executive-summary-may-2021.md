@@ -8,7 +8,7 @@
 ## Search Improvements
 - We're iteratively improving search - we have solved one of the biggest pain points, which is the format of the form number.  In solving that, we've solved probably X? of the search issues [what is that number?]
 - Now we're working on ranking/matching
-- We tried this….
+- Our initial approach would have inserted matching logic into the front-end to avoid creating new dependencies on the Forms API & Lighthouse team. 
 
 ## De-couple from Lighthouse
 - We looked at it at and determined it was not the right solution because…
