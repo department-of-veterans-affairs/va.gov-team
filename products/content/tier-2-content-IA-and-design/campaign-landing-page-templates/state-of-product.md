@@ -100,8 +100,8 @@ The template requirements are:
 
 -	CLPs will have a home within a dedicated section of the va.gov IA - this will no longer vary from CLP to CLP. This changes supports the approach that all CLPs are meant to be temporary and not evergreen, and not to be intermingled within the core site. The label for this section is TBD for now. (i.e. /campaign, /initiative, /info, etc)
 - The final slug of the URL will be based on the H1 of the CLP, utilizing rules already implemented within the CMS (i.e. special characters are stripped, all words separated by dashes, etc). URLs cannot be modified by stakeholders and should be locked down once the page is published - at that point if the H1 changes, the URL will not change.
-•	Vanity URLs will be used as needed, and the requesting party should indicate their preferred vanity URL. All vanity URLs must meet our URL standards and our vanity URL requirements. Vanity URLs will need to be reviewed and approved.  More guidance here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/vanity-url-guidelines.md
-•	No entry points will be recommended for CLPs, all traffic will be driven from the marketing campaign efforts and/or through the vanity URL.
+- Vanity URLs will be used as needed, and the requesting party should indicate their preferred vanity URL. All vanity URLs must meet our URL standards and our vanity URL requirements. Vanity URLs will need to be reviewed and approved.  More guidance here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/vanity-url-guidelines.md
+- No entry points will be recommended for CLPs, all traffic will be driven from the marketing campaign efforts and/or through the vanity URL.
 (Note: The global navigation should not be used for site links to a CLP)
 
 
