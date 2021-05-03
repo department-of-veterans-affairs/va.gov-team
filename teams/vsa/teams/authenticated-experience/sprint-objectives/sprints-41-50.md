@@ -493,12 +493,13 @@ FE
 **PM**
 
 - Coordinate on ticketing and meetings with Lauren Ernest as needed
-- Determine whether VAOS is ready for design intent and IA review
 
 **Design**
 
-- Work with Peter on design as needed
-- Run mini research study
+- Work with Peter to make sure design *and copy* is finished
+- Liz to run mini study
+- IA review for this work
+- Start collab with Peter on convo guide for research
 
 ### Notification preferences
 
