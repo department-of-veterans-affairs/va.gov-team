@@ -33,3 +33,5 @@ Vet Pro is an application built by Panoramic Software, which is used by VSOs and
     - Content rigidity/data hygiene
     - Put the content back in the hands of the content manager
      - Extend beyond VHA, adding NCA (National Cemetery Admin), others into the mix
+    - What is the value to the Veteran and their caretakers?
+      - More forms are more findable 
