@@ -10,7 +10,7 @@
 
 ### Project-specific setup
 
-- Open [desktop prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i) in tab 
+- Open [desktop prototype](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i) in tab
 
 ## Intro 
 
@@ -34,19 +34,16 @@ Try to move a bit slower than you normally would on a website and talk me throug
 
 *Begin on facilities page*
 
-1. From here, can you tell me what you'd expect to find in each section of profile? 
+1. Talk to me about why you think these facilities are listed here.
 
-2. Talk to me about why you think these facilities are listed here.
-
-3. Can you show me how you would make changes to this list? 
-4. What do you expect will happen once you've made changes?
-5. Now that you've saved some changes, talk me through what you see on this page.
-6. How would you add a VA location that's not here?
+2. Can you show me how you would make changes to this list? 
+3. What do you expect will happen once you've made changes?
+4. Now that you've saved some changes, talk me through what you see on this page.
+5. How would you add a VA location that's not here?
 
 ### Things to watch for:
 
 - Is “Your VA health facilities” meaningful or do we need to consider another name for this section of profile?
-- Do people understand the edit button unlocks the whole group?
 - Generally, do people understand how to edit their list? Did anyone think the `edit` button would only apply to the first facility in their list?
 - Did it confuse people that unselecting a facility marks it as not current?
 - How do people understand the message “Note: You're registered at 4 other facilities where you've received care in the past....”?
