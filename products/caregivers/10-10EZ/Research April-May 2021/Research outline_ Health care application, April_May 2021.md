@@ -22,7 +22,7 @@ The overarching goals of research are to:
     - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/conversation-guide.md)
   
 
-3. Collaborative design workshop with SMEs
+3. [Participatory design workshop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/SME%20Discovery%20Research/participatory-design.md) with SMEs
 
 [DESIGN]
 
