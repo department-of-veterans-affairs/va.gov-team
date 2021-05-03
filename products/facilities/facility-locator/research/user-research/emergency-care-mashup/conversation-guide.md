@@ -62,7 +62,7 @@ I ask that you think out loud as much as possible, as we go through the prototyp
     - If no: how do you go about finding information about VA locations?
 
 - Have you ever visited an emergency care clinic in the past (VA or non-VA)?
-    - If yes, can you tell me about that?
+    - If yes: can you tell me about that?
     - (VA/non-VA location? Why that one? How did you find it?)
     - (What is your understanding of your benefit coverge in the event of an emergency?)
 
@@ -75,11 +75,30 @@ As you work through the tasks I'd like you to think out loud and narrate what yo
 
 I'd like you to imagine that you live in Denver, CO. You are coming to this site because you would like to learn more about the closest locations that offer emergency care services.
 
-
 ### Task 1
 
-#### PROTOTYPE: User selects different facility types
+#### PROTOTYPE: Open-ended search results
 #### Questions:
+
+Perform a search for nearby locations that have emergency care services.
+  - (Point out steps, probe throught process):
+  - Can you walk me through that process?
+  - Tell me about what you see in this results list.
+
+Based on the results of your search, what is important to you when choosing a location from this list?
+
+Let's say you want to search for [All / VA / Community locations] in your area.
+  - (Point out steps, probe throught process):
+  - Can you walk me through the process?
+  - Tell me about what you see in this results list.
+  - Does the distinction between this results list, and the previous results list, matter to you?
+
+### Task 2
+
+#### PROTOTYPE: User understands the different search options
+#### Questions:
+
+What does the distinction between 'Facility type' and 'Service type' mean to you?
 
 For this task, under the 'Facility type' menu, I'd like you to choose 'In-network emergency care'.
   - When you see the phrase 'In-network', what does that mean to you?
@@ -90,29 +109,12 @@ Open the 'Service type' menu, talk me through what the different options mean to
    - What does 'VA emergency care' mean to you?
    - What does 'In-network community emergency care' mean to you?
 
-Does this distinction matter to you?
+Does the distinction between 'Service type' options matter to you?
    - What matters about the distinction?
-
-### Task 2
-
-#### PROTOTYPE: Open-ended search results
-#### Questions:
-
-Let's say you want to perform a search for nearby locations that have emergency care services.
-  - (Point out steps, probe throught process)
-  - Can you walk me through that process?
-
-Based on the results of your search, what is important to you when choosing a location from this list?
-
-Let's say you want to search for [All / VA / Community locations] in your area.
-  - (Point out steps, probe throught process)
-  - Can you walk me through the process?
-  - Tell me about what you see in this results list.
-  - Does the distinction between this results list, and the previous results list, matter to you?
 
 ### Scenario
 
-
+Here's one more scenario: [TBD - actual emergency?]
 
 #### PROTOTYPE: 
 #### Questions:
@@ -122,7 +124,6 @@ Let's say you want to search for [All / VA / Community locations] in your area.
 
 I have just a couple more questions before we finish up:
 
-- 
 - Can you think of anything that would make this website easier for you to use next time?
 - Is there anything that I haven't asked you that you think that I should know?
 - Any questions for me? 
