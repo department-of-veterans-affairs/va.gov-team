@@ -10,9 +10,9 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a notetaker and two of my teammates assisting me on this call. I can tell you a little more about who we are first too if that makes a difference.
+Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a notetaker and two of my teammates assisting me on this call including an accessibility specialist [name] should you need any help with technology during the session. I can tell you a little more about who we are first too if you'd like.
 
-I'm a website designer and research and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the pages we're building. In this study we want to learn how we can improve VA.gov for blind and visually impaired Veterans. 
+I'm a website designer and researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the pages we're building. Today, we want to learn how we can improve VA.gov for blind Veterans and Veterans with low vision.
 
 Before we get started, I want to give you an idea of what this call will be like:
 
@@ -20,23 +20,27 @@ Before we get started, I want to give you an idea of what this call will be like
 - We'll start the session with a couple warm up questions.
 - Then, we'll be reviewing parts of the VA.gov website together.
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
+- You also have the right to leave this session at any time should you feel uncomfortable with continuing.
 - In this session, I'll be having you share your Zoom screen so that I can follow along and I'll help you through that. 
 - First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
     - Great, that helps me troubleshoot with you if we run into any problems.
 
 _For iPhone:_
 
-- OK great.  When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, this will activate a few buttons at the bottom. Audio, Video, Share screen, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share screen." Any questions?
-- Tap ‘Share screen’ (Green button at bottom middle of the screen)
-- It will give you some options, choose "Screen"
-- You should get a page that says "screen broadcast"
-- Zoom should be checked, if not, please select it and tap "Start broadcast"
-- It should start counting down as it starts to share (Zoom uses the phone's recording software to share)
-- If you need to stop sharing during this session you can click 'Stop Broadcast'
-- Great, now I can see your phone screen! 
-_For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
+- OK great. To confirm, were you able to download and set up the Zoom application on your phone ahead of this meeting?
 
-_For Android:_
+- **If yes**
+- We'd like to send you a zoom link for you to open on your phone so you can join this meeting. We can send this to you by email [read email], by text, or through zoom's built in chat feature. Do you have a preference?  
+- [Send through Veteran's preferred communication channel]
+- When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. Since you have already joined by video, feel free to tap "don't allow" for both. You will then be asked to join audio. Please tap "No audio."
+- Once you're in the call, please find the "Share content" button. It will be at the bottom center of your app. Double tap that button and then double tap "Screen." Then, find the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
+- Great, now I can see your phone screen!
+- If you need to stop sharing during this session you can click 'Stop Broadcast'
+- We'll send links to your preferred [email or text] for the websites we'll be asking you to visit.
+
+- **If no, go to backup plan**
+
+_For Android:_ **Needs custom accessibility script**
 - OK great. When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
 - Tap "Share"
 - Tap "Screen"
@@ -47,7 +51,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 
 **Backup plan if they cannot figure out how to share screen:**
-
+- [Instructions on talk out loud activity, we need to rely on the participant to explain what is happening and what their pain points are]
 
 
 ## Recording permission
@@ -112,11 +116,11 @@ Imagining this situation,
 
 #### Scenario Set up
 
-As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. And because it is just a prototype, it may not function quite as a normal website would.
+**Josh: This script should be updated to match a real web page, not a prototype** As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. And because it is just a prototype, it may not function quite as a normal website would.
 
 Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
-I'll give you a second to take the page in. [limit to a quick scan]
+I'll give you a second to take the page in. [limit to a quick scan] **Josh: folks may naturally scan the page as screen reader users via the rotor or elements list. We'll need to give them more than a second to take it in and not make this a time-based activity**
 
 #### TASK 1a - one-on-one
 
