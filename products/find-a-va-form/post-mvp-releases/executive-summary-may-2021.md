@@ -2,6 +2,9 @@
 ## Current State of the Product
 - 491 total forms
 - 446 forms with at least a minimal detail page
+  - the vast majority of these are published automatically with Name/Title, Subtitle, Related To, Form Last Updated, Download link and generical Helpful Links)
+<img width="663" alt="Screen Shot 2021-05-03 at 2 51 37 PM" src="https://user-images.githubusercontent.com/63107147/116919407-39e1e000-ac1f-11eb-8471-8811d87e7fdb.png">
+
 - 46 with detail pages containing maximum amount of content
 - Average of X forms added per week - (**Note** - We need a means of obtaining a reliable count of newly-added records; we cannot rely on the *Issue Date*
  the forms managers enter. CMS modified dates are also unreliable because they update each time a form is changed (not just added).
