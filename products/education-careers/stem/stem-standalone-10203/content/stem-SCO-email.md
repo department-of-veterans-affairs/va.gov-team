@@ -23,15 +23,15 @@ If the student is currently enrolled in an undergraduate program, please provide
 
 ##### If the applicant is a teaching certificate candidate
 If the student already has an undergraduate degree and is seeking a teaching certification, please provide the following: 
-- Has the student earned a bachelor’s degree in an approved STEM program?:  
+- Has the student earned a bachelor’s degree in an approved STEM program?  
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 - Name of STEM program of degree conferred: 
 - 6-digit CIP Code of degree conferred: 
-- Is the student currently enrolled in a program leading to a teaching certification?:
+- Is the student currently enrolled in a program leading to a teaching certification?
 
 ##### If the applicant is in a clinical training program for healthcare professionals
 If the student already has a bachelor's or graduate degree and is enrolled in a clinical training program, please provide the following: 
-- Has the student earned a bachelor’s or graduate degree in an approved STEM program?:  
+- Has the student earned a bachelor’s or graduate degree in an approved STEM program?  
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 - Name of STEM program of degree conferred: 
 - 6-digit CIP Code of degree conferred: 
