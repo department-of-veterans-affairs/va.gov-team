@@ -15,6 +15,8 @@
 - Not now because it would involve CMS effort, and they don't have bandwidth
 - Timing - searching solution is better in Lighthouse 
 - Lighthouse can handle the load better and we can handle a more sophisticated search
+    - Note from Nichole - No I did not reach out to Tina Skelly, thought maybe we could do that together since a decision really should be made for both the API external consumers and for the VA forms search (maybe the same decision).
+Vet Pro is an application built by Panoramic Software, which is used by VSOs and Veterans to submit benefit claims. It includes a form search page which uses the LH forms API similarly to how the VA.gov search page does except that it is a little more integrated as a next step with submitting the forms for benefit claims immediately after. 
 
 ## Find a Form POC
 - Brian McCarthy's gone
