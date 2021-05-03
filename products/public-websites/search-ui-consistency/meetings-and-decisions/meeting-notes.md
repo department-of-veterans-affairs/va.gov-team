@@ -24,7 +24,7 @@
 - When/how we should address the search field itself:
     - Having a magnifying glass on button (global search, R&S) vs. not (Find VA Form)
     - Inconsistent spacing between text field & button
-         - Spacing in Find a VA form will be different because it has sort
+         - Spacing in Find a VA form will be different because it has sort option that the others don't.
     - R&S button that stays inactive until three characters are entered, others are always active
     - Ryan is fine making the search consistent, but not removing the gray box because it directly affects the mobile experience on Resources & Support - he'a also fine with making the button fully active on R&S. 
 - The collaspsed search at the top - Josh asked Ryan if that could possibly be managed by focus control.  
@@ -33,6 +33,7 @@
  - H1s and breadcrumbs - Mikki saw there were some changes from the last time.
     - One thing to be cautious of - in R&S, you are going to get the search results on a separate page. Global search redirects back to the home page. 
     - On Find a VA Form, parameters are added, but the H1 never changes.  Josh and Mikki will discuss later.
+        - On mobile it should only show Home
 
 ## 2021-04-15 Review Comp Updates
 
