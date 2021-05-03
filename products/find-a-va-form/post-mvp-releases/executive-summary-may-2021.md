@@ -8,8 +8,8 @@
 - Our current model for Detail pages is: We only add custom content of any type for the detail page if the Form receives more than 200 queries per month on average.
 
 ## Search Improvements
-- We're iteratively improving search - we have solved one of the biggest pain points (representing what percentage of overall search queries?), which is the format of the form number.  In solving that, we've solved probably X? of the search issues [what is that number?]
-- Now we're working on ranking matches and ordering them by relevance (what percentage of search queries does this impact?)
+- We're iteratively improving search - we have solved one of the biggest pain points, which is the format of the form number.  In solving that, we've addressed 76% of search issues related to searching by form number.
+- Now we're working on ranking matches and ordering them by relevance, which account for 24% of searches that use keywords without a form number.
 - Our initial approach was to add logic in the front end to avoid creating additional dependencies on the Forms API, and we encountered the following:
     - Multi-word search terms are "deconstructed" within the Forms API logic, making it impossible for us to pass in phrases such as "direct deposit" or "power of attorney".
 
