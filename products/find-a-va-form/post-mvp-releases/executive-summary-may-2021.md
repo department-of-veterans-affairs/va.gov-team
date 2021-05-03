@@ -5,6 +5,7 @@
 - 46 with detail pages containing maximum amount of content
 - Average of X forms added per week - need reliable count from API records; we cannot rely on the dates the forms managers enter.
 - Out of those, we publish and average of X detail pages
+- Our current model for Detail pages is: We only add custom content of any type for the detail page if the Form receives more than 200 queries per month on average.
 
 ## Search Improvements
 - We're iteratively improving search - we have solved one of the biggest pain points (representing what percentage of overall search queries?), which is the format of the form number.  In solving that, we've solved probably X? of the search issues [what is that number?]
