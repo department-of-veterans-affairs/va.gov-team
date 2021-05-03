@@ -25,7 +25,29 @@
 
 </details>
 
+
+## Monday May 17 3pm ET
+
+* VAST meeting outcome
+
+## Monday May 10 3pm ET
+
+Vet Center CAP data and questions
+* When a Vet Center editor archives a Vet Center CAP, CMS will keep the data in archived (unpublished) form. Related questions: 
+  * CMS will push this content update to Lighthouse. 
+  * How long should CAP data archived in the CMS be available to Vets, and in what form? (Question for Dave)
+  * What happens if the CAP is archived, then re-activated with the same ID?
+  * Should the CMS be the place where CAPs are gradually closed, or is that best managed by Lighthouse / Facility Locator?
+
 ## Monday May 3 3pm ET
+
+Triage for incorrect data sourced via Facilities API 
+* First user was forward to api@va.gov last week.
+* next sprint for CMS: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5180
+
+VAST meeting: was it rescheduled?
+* May 12 
+  * May lead to some longer term roadmaps for Lighthouse/CMS collaboration
 
 CAP data
  - How long should archived CAP data be available to Vets, and in what form?
