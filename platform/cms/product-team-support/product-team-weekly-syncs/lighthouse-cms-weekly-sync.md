@@ -27,6 +27,12 @@
 
 ## Monday May 3 3pm ET
 
+Triage for incorrect data sourced via Facilities API 
+* First user was forward to api@va.gov last week.
+* next sprint for CMS: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5180
+
+VAST meeting: was it rescheduled? 
+
 CAP data
  - How long should archived CAP data be available to Vets, and in what form?
  - IDs. 12 characters max, referencing the "parent" Vet Center ID, and appending an increment up to 99. [vcparentID][cap][99]
