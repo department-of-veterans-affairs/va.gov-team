@@ -7,8 +7,8 @@
 - Out of those, we publish and average of X detail pages
 
 ## Search Improvements
-- We're iteratively improving search - we have solved one of the biggest pain points, which is the format of the form number.  In solving that, we've solved probably X? of the search issues [what is that number?]
-- Now we're working on ranking matches and ordering them by relevance
+- We're iteratively improving search - we have solved one of the biggest pain points (representing what percentage of overall search queries?), which is the format of the form number.  In solving that, we've solved probably X? of the search issues [what is that number?]
+- Now we're working on ranking matches and ordering them by relevance (what percentage of search queries does this impact?)
 - Our initial approach was to add logic in the front end to avoid creating additional dependencies on the Forms API, and we encountered the following:
     - Multi-word search terms are "deconstructed" within the Forms API logic, making it impossible for us to pass in phrases such as "direct deposit" or "power of attorney".
 
