@@ -36,6 +36,14 @@
 </details>
 
 
+
+## May 5
+
+CLP 
+* Audience_tags epic now complete. [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4898]
+* [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives`
+
+
 ## April 28
 
 
