@@ -34,21 +34,20 @@ Before we start, a few things I want to mention:
 Before we look at the prototype, I'd like to talk to you about notifications.
 
 - Tell me about any email or text notifications you've received recently.
-- What kinds of notifications do you currently get from VA? ~Are those emails or text messages?~
+- What kinds of notifications do you currently get from VA? 
   - How do you receive them?
 - What kinds of VA notifications would be helpful to you that you aren't currently getting? 
   - Where would you expect to find out about them?
 - What kind of contact information do you have saved in your profile? 
-  - Why ~do/don't you have a contact email address or mobile number?~ did/didn't you chose to include that infomation?
--  How do you manage your notifications? 
-  - ~What prompts you to go into "manage mode"?~ Aim for more plain language, consider: What makes you manage them? 
+  - Why did/didn't you chose to include that information?
+- How do you manage your notifications? 
+  - What makes you manage them? 
   - Where do you go to do this?
 - Let's talk about turning notifications on or off - 
   - When do you need to do this? 
   - How do you go about doing that?
-- ~How do you find out about new notifications available to you?~ awkward phrasing, consider instead what I added to the VA notifications bullet above, and see if that is getting at the intent behind this question. or consider instead: *Let's say you wanted to get notified about VA offerings, where would you expect to find out what things you can get notified about?* (or something to that tune)
-  - ~Do you ever seek them out?~  What's an instance where you might want to get more notifications from the VA?
-- What devices do you normally use ~to do complete this type of task~ to do things on your VA Profile/VA.gov?
+- What's an instance where you might want to get more notifications from the VA?
+- What devices do you normally use to do things on your VA Profile/VA.gov?
 
 ### Things to watch for
 
@@ -73,14 +72,14 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.  Example profile does not have an email address on file.*: add desktop links
+*Participant should be on notification settings page of profile.  Example profile does not have an email address on file.*: add desktop links  [UPDATE PROTOTYPE]
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
 - What can you do on this page?
 - What notifications are you currently signed up for? 
   - prod at notification groups if they don't mention it themselves: What types of things will you be notified about? 
-- Based on what you see here, how are you getting notifications for American Legion Events?
+- Based on what you see here, how are you getting notifications for scheduled payments? [UPDATE PROTOTYPE]
 
 
 ### Things to watch for
@@ -111,10 +110,12 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 4: Update contact information - 5 minutes
 
-*Prompt if needed - participant may do this on their own:*
+*Prompt if needed - participant may do this on their own (need to refine this question):*
 Imagine that **(email notifications)** are really important to you.  Show me how you'd go about setting that up so you could get that notification.
 
-Consider instead: Let's say you wanted to add your email address so you could get email notifications. How would you do that? 
+OR
+
+Let's say you wanted to add your email address so you could get email notifications. How would you do that? 
 
 
 ### Things to watch for
@@ -126,13 +127,9 @@ Consider instead: Let's say you wanted to add your email address so you could ge
 
 ## Task 5: Add email notification - 5 minutes
 
-- Now that you have an email address, how would you sign up to also get email updates on your medications?
+Do you see any other ways you can be notified about the same thing?  Why don't you think so?
 
-~Do you see any other ways you can be notified about the same thing?  Why don't you think so?~
-
-**Q: With this second question, I'm trying to evaluate if people understand why some notifications only have one channel, and if that causes any frustration when that's the case. Would love some help phrasing this in a way that's not leading and can help us get to this information. I'd like to avoid having them click through every group until they find one - plus it would be a lot of work in the prototype to set that up so it feels realistic. **
-
-A: I may be missing the context on this, but I'm guessing some of the non-health notifications, like the 526 are email only, and can't do text updates. In that case, you could ask the participant something like "How would you change how you get notified about your 526 process", and then follow up with "What are your thoughts on the option(s) here", and dig in more with "why do you think these are the option(s)?". I agree, the wording if a little awkward, and reading the task as is, I'm not clear on where in the prototype or what exactly you're aiming to test right now.
+**With this second question, I'm trying to evaluate if people understand why some notifications only have one channel, and if that causes any frustration when that's the case. Need to update the prototype and refine once I go through it**
 
 ### Things to watch for
 
@@ -142,10 +139,10 @@ A: I may be missing the context on this, but I'm guessing some of the non-health
 ## Post-Task Interview - 4 minutes
 
 - Tell me how that overall experience aligns with your expectations for managing notifications.
-- ~Would you expect to see transactional notifications here? Example: Say you called a VA help number and the rep sent an email after the call to serve as a record of your conversation.~ this feels leading and I'm not sure on the intent behind the question. Consider instead: What notifications would you expect to see here that you didn't?
+- What notifications would you expect to see here that you didn't?
 - Any questions for me? 
 
-## Thank-You and Closing - 1 minute
+## Thank-You and closing - 1 minute
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
