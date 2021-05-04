@@ -49,6 +49,7 @@ Great. Now we're really ready to begin!
 ## Warm-up Questions - 10 minutes
 
 - Tell me a little about yourself 
+- How many years has it been since you left the service?
 - Do you currently have healthcare benefits through the VA or through another provider?
 - Tell me a little bit about how you chose this healthcare option?
   -  What experiences (personal, social, and medical) influenced this decision?
