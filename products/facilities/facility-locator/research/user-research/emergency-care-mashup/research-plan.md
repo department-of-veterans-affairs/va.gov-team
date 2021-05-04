@@ -52,6 +52,7 @@ Participant Criteria:
 ## Timeline
 
 Study dates: *TBD*
+
 Session length: 45 minutes
 
 Date | Time
