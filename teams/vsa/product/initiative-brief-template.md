@@ -18,7 +18,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 * Which Veteran/organizational segments are most affected by the problem?
 * Where does this problem affect the Veteran journey?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this outcome further DE's mission and goals?
+* How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
 
 
 ### Evidence of the problem
@@ -117,10 +117,9 @@ Address risks related to usability, value to users, feasibility/implementation, 
 <details>
 
 - Team Name: 
-- GitHub Label: 
+- GitHub Label(s): 
 - Slack channel: 
 - Product POCs:
-- Stakeholders: 
 
 </details>
 
@@ -129,8 +128,9 @@ Address risks related to usability, value to users, feasibility/implementation, 
 *What offices/departments are critical to make this initiative successful?*
 
 <details>
- 
-*test*
+  
+- Office/Department:
+- Contact(s): 
  
 </details>
 
