@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated April 5, 2021
+Last Updated May 4, 2021
 
 ### Communications
 - GitHub Label: Profile
@@ -21,7 +21,6 @@ Last Updated April 5, 2021
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie | FE Engineer| shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 ---
