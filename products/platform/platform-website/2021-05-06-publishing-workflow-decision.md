@@ -11,7 +11,7 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/platform-website-product-outline.md)
 - Platform Website
-    - [Scroll Viewport site](https://depo-platform-documentation.scrollhelp.site/index.html)
+    - [Public site](https://depo-platform-documentation.scrollhelp.site/index.html)
     - [Scroll Viewport admin console](https://vfs.atlassian.net/wiki/plugins/servlet/ac/com.k15t.scroll.scroll-viewport/k15t-vpc-overview-page)
 - This rec is for the [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23799) called "Publish guidelines re: how to contribute to the Platform Website (Develop guidelines)"
   - The work above is part of the 2021 Q2 "Develop guidelines" initiative: Platform Website — Develop migration, publishing, and maintenance guidelines for Platform Teams https://github.com/department-of-veterans-affairs/va.gov-team/issues/22190
