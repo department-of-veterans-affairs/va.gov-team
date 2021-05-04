@@ -57,7 +57,7 @@ for a in aws_results['results']:
         ismessedup = True
         print("\n\n ..error processing isrequest boolean....",row,"\n\n")
 
-dfut = pd.merge(df1_request, df1_response, how='outer', on=['ID_samlrequestid', 'transaction_id'], indicator=True)#, validate='one_to_one')
+dfut = pd.merge(df1_request, df1_response, how='outer', on=['ID_samlrequestid', 'transaction_id'], indicator=True)
 print(dfut.head())
 datename = str(datetime.today())
 startfn = str(datetime.fromtimestamp(start))
