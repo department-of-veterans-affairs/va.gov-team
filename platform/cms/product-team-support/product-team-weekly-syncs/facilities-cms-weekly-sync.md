@@ -25,13 +25,16 @@
 
 * Nightwatch 
   * Upcoming meeting with Testing Tools team to discuss implications 
-* Vet Center centralized content (FAQs and Nat'l featured content)
+* Vet Center 
+  * centralized content (FAQs and Nat'l featured content)
+  * training for national editors
+  * Breadcrumbs: when to use array vs derive from url?
+VAMC 
 * Policies Page rollout (quick report)
 * Meta tags for VAMC 
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
-* Breadcrumbs: when to use array vs derive from url?
 
 
 ## Wednesday, April 28
