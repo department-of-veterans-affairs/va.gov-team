@@ -13,8 +13,8 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 - Platform Website
     - [Scroll Viewport site](https://depo-platform-documentation.scrollhelp.site/index.html)
     - Confluence instance - LINK TO COME
-- This is for the [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23799) called Publish guidelines re: how to contribute to the Platform Website (Develop guidelines)
-  - The above ticket is part of the 2021 Q2 "Develop guidelines" initiative: Platform Website — Develop migration, publishing, and maintenance guidelines for Platform Teams https://github.com/department-of-veterans-affairs/va.gov-team/issues/22190
+- This rec is for the [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23799) called "Publish guidelines re: how to contribute to the Platform Website (Develop guidelines)"
+  - The work above is part of the 2021 Q2 "Develop guidelines" initiative: Platform Website — Develop migration, publishing, and maintenance guidelines for Platform Teams https://github.com/department-of-veterans-affairs/va.gov-team/issues/22190
 
 
 ## Context
