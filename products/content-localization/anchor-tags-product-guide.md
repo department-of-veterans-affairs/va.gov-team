@@ -1,6 +1,6 @@
 All product guides should be created and saved as a word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A complete product guide will include the following:
 
-Table of Contents:
+## Table of Contents:
 
 This is the roadmap to each portion of your writing. Please inclue the following sections in your table of contents and link each to its corresponding location in the Product Guide:
 
@@ -9,20 +9,17 @@ User Access
 Navigation
 Functionality
 Major Issues and Error Messages
-Product Overview:
 
-This is a brief description of the product. Please include a couple of sentences of what the product is, how it works, and who it is for.
+## Product Overview:
 
 Today, question/answer links are not generated in a way that's easily accessible by users. So when a Veteran, caregiver or customer service representative wants to direct someone to a specific question/answer on a page, they can only share a link at the page level leaving it up to the recipient to navigate through what can be a long list of information to find the specific content they seek. This can be frustrating and time-consuming.
 
 The goal of this experiment is to make it quick and painless to share specific content contained within a page and the Corona FAQ page will be used for this pilot: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ 
 
+## User Access:
 
+Log-on and/or accounts are not required. Any visitors can use this feature.
 
-
-User Access:
-
-User access refers to what types of users can use your product. Please indicate whether the user has to have a certain type of VA.gov account (i.e. LOA1 vs. LOA3 vs. no account needed) to use the product. You can also describe any additional requirements or criteria a user must meet in order to use your product successfully.
 Navigation:
 
 This section should describe how the user finds the product on VA.gov. If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
