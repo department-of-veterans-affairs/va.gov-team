@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-*Initiatives are hypotheses the team has for achieving a particular outcome. 
+*Initiatives are opportunities to achieve a particular outcome. 
 There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs.* 
 
 ## Outcome Summary
