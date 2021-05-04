@@ -113,7 +113,7 @@ Five additional locations were chosen with the intent of filling any gaps in rep
  | Added Jan 2021 | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
  | Added Jan 2021 | Cincinnati, OH | Erika.Reynolds@va.gov|   |
  | Added Jan 2021 | Great Falls, MT | Richard.Ferry@va.gov |  |
- | Added Jan 2021 | ~Sacramento~ Concord, CA | Joseph.Moglia@va.gov |   |
+ | Added Jan 2021 | (Sacramento) Replaced by Concord, CA on 5/4/21 | Joseph.Moglia@va.gov | Proximity to another Vet Center. Conford replaced Sacramento due to Joe moving to Concord location  |
 
 ### Not in scope
 
