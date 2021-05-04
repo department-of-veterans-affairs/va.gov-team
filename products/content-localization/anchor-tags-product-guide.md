@@ -18,12 +18,16 @@ The goal of this experiment is to make it quick and painless to share specific c
 
 ## User Access:
 
-Log-on and/or accounts are not required. Any visitors can use this feature.
+Log-on and/or accounts are not required. Any visitor will be able to use this feature.
 
 ## Navigation:
 
 This section should describe how the user finds the product on VA.gov. If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
 URL and screenshot if a link to your product is shown on the VA.gov homepage: SK
+
+From the Homepage: https://www.va.gov/ 
+
+![image](https://user-images.githubusercontent.com/74627978/117061885-b8f31900-acf0-11eb-9352-9cb52d5cf6be.png)
 
 
 ## Functionality:
