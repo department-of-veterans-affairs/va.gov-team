@@ -2,6 +2,8 @@
 ```diff
 - WIP
 ```
+## Locations
+- Staging: https://staging.va.gov/housing-assistance/home-loans/apply-lgy-form-1880/introduction
 
 #### Communications
 - Team Name: eBenefits
