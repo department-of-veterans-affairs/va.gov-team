@@ -41,8 +41,9 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
+- _Include links to Domo or Google Analytics Dashboards/Reports_
+
 
 <!--
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
@@ -52,7 +53,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 -->
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+*Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits.*
 
 <!--
 ### Objectives and Key results (OKRs)
