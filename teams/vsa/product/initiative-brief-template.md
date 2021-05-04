@@ -2,13 +2,12 @@
 ---
 
 ## Overview
-*Initiatives are hypotheses the team has for achieving a particular outcome. \
-There is a one:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. 
+*Initiatives are hypotheses the team has for achieving a particular outcome. 
+There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs.* 
 
 ## Outcome Summary
-*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." \
+*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
 Include the measurable outcome (i.e. metric) you're trying to improve.*
---> 
 
 ## Problem Statement
 *Describe the challenge / pain point you seek to address.:* 
