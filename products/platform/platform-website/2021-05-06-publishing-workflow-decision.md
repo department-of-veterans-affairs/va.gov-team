@@ -23,9 +23,9 @@ The Content Team is writing roles and responsiblity and publishing workflow guid
 
 ## Paths forward
 
-### Option 1 
+### Option 1: Include Platform PMs in tthe publishing workflow
 
-#### Option 1a (recommendation): Immediately include Platform PMs in the publishing workflow
+#### Option 1a (recommendation): Include them immediately
 
 Add PMs to the `scroll-viewport-admins` Confluence user group right away.  This allows the us to:
 
@@ -43,7 +43,7 @@ Considerations
 - Cons: Our IA and guidelines are still incomplete/rough around the edges. Letting a bunch of publishers in ASAP might be a little chaotic
 
 
-#### Option 1b: Include PMs in the publishing workflow _later_ (perhaps mid/end of Q3)
+#### Option 1b: Include them later (perhaps mid/end of Q3)
 
 Add PMs to the `scroll-viewport-admins` Confluence user group after we go through a few reps with the guidance.  This allows the us to:
 
