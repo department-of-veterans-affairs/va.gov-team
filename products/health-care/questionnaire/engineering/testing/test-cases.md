@@ -6,40 +6,40 @@
   - [How to access in Staging](#how-to-access-in-staging)
   - [Assumptions](#assumptions)
   - [To-Dos](#to-dos)
-  - [Test Case : Upcoming Appointment, Questionnaire needs to be filled out](#test-case--upcoming-appointment-questionnaire-needs-to-be-filled-out)
+  - [Test Case A: Upcoming Appointment, Questionnaire needs to be filled out](#test-case--upcoming-appointment-questionnaire-needs-to-be-filled-out)
     - [Description / Use case](#description--use-case)
     - [Expected Outcome](#expected-outcome)
-  - [Test Case : Upcoming Appointment, Questionnaire is still in progress](#test-case--upcoming-appointment-questionnaire-is-still-in-progress)
+  - [Test Case B: Upcoming Appointment, Questionnaire is still in progress](#test-case--upcoming-appointment-questionnaire-is-still-in-progress)
     - [Description / Use case](#description--use-case-1)
     - [Expected Outcome](#expected-outcome-1)
-  - [Test Case : Completed questionnaire for a future appointment](#test-case--completed-questionnaire-for-a-future-appointment)
+  - [Test Case C: Completed questionnaire for a future appointment](#test-case--completed-questionnaire-for-a-future-appointment)
     - [Description / Use Case](#description--use-case-2)
     - [Expected Outcome](#expected-outcome-2)
-  - [Test Case : Cancelled Appointment with an In-progress questionnaire](#test-case--cancelled-appointment-with-an-in-progress-questionnaire)
+  - [Test Case D: Cancelled Appointment with an In-progress questionnaire](#test-case--cancelled-appointment-with-an-in-progress-questionnaire)
     - [Description / Use Case](#description--use-case-3)
     - [Expected Outcome](#expected-outcome-3)
-  - [Test Case : Cancelled Future Appointment with a Completed questionnaire](#test-case--cancelled-future-appointment-with-a-completed-questionnaire)
+  - [Test Case E: Cancelled Future Appointment with a Completed questionnaire](#test-case--cancelled-future-appointment-with-a-completed-questionnaire)
     - [Description / Use Case](#description--use-case-4)
     - [Expected Outcome](#expected-outcome-4)
-  - [Test Case : Cancelled appointment no questionnaire response](#test-case--cancelled-appointment-no-questionnaire-response)
+  - [Test Case F: Cancelled appointment no questionnaire response](#test-case--cancelled-appointment-no-questionnaire-response)
     - [Description / Use Case](#description--use-case-5)
     - [Expected Outcome](#expected-outcome-5)
     - [JSON Overrides](#json-overrides)
-  - [Test Case : Not Completed Questionnaire for a past appointment](#test-case--not-completed-questionnaire-for-a-past-appointment)
+  - [Test Case G: Not Completed Questionnaire for a past appointment](#test-case--not-completed-questionnaire-for-a-past-appointment)
     - [Description / Use Case](#description--use-case-6)
     - [Expected Outcome](#expected-outcome-6)
     - [JSON Overrides](#json-overrides-1)
-  - [Test Case : Completed Questionnaire for a past appointment](#test-case--completed-questionnaire-for-a-past-appointment)
+  - [Test Case H: Completed Questionnaire for a past appointment](#test-case--completed-questionnaire-for-a-past-appointment)
     - [Description / Use Case](#description--use-case-7)
     - [Expected Outcome](#expected-outcome-7)
-  - [Test Case : Completed Questionnaire for a canceled appointment in the past](#test-case--completed-questionnaire-for-a-canceled-appointment-in-the-past)
+  - [Test Case I: Completed Questionnaire for a canceled appointment in the past](#test-case--completed-questionnaire-for-a-canceled-appointment-in-the-past)
     - [Description / Use Case](#description--use-case-8)
     - [Expected Outcome](#expected-outcome-8)
-  - [Test Case : Not Completed Questionnaire for a canceled appointment in the past](#test-case--not-completed-questionnaire-for-a-canceled-appointment-in-the-past)
+  - [Test Case J: Not Completed Questionnaire for a canceled appointment in the past](#test-case--not-completed-questionnaire-for-a-canceled-appointment-in-the-past)
     - [Description / Use Case](#description--use-case-9)
     - [Expected Outcome](#expected-outcome-9)
     - [JSON Overrides](#json-overrides-2)
-  - [Test Case : Use has an appointment in the future with no Questionnaire](#test-case--use-has-an-appointment-in-the-future-with-no-questionnaire)
+  - [Test Case K: Use has an appointment in the future with no Questionnaire](#test-case--use-has-an-appointment-in-the-future-with-no-questionnaire)
     - [Description / Use Case](#description--use-case-10)
     - [Expected Outcome](#expected-outcome-10)
     - [JSON Overrides](#json-overrides-3)
@@ -67,7 +67,7 @@
 - [ ] Add access-instruction(s) w/ test-usernames but NOT passwords
 - [ ] [VSA-QA] Add TestRail test-case links
 
-## Test Case : Upcoming Appointment, Questionnaire needs to be filled out
+## Test Case A: Upcoming Appointment, Questionnaire needs to be filled out
 
 ### Description / Use case
 
@@ -84,7 +84,7 @@ Wireframes of the page of the actual questionnaire (applies to every scenario wh
 3. Prepare for your appointment (<https://zpl.io/amGKole>)
 4. Confirmation (<https://zpl.io/anjMj4k>)
 
-## Test Case : Upcoming Appointment, Questionnaire is still in progress
+## Test Case B: Upcoming Appointment, Questionnaire is still in progress
 
 ### Description / Use case
 
@@ -94,7 +94,7 @@ A user has an appointment with a questionnaire in the future and started to fill
 
 The user would be able to access their "In-progress" questionnaire from the [To Do section of the questionnaire manager page](https://zpl.io/aXlD9Yg), fill out the questionnaire (same wireframes links as the first test case, submit it, then the completed questionnaire would appear on the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF of their questionnaire responses.
 
-## Test Case : Completed questionnaire for a future appointment
+## Test Case C: Completed questionnaire for a future appointment
 
 ### Description / Use Case
 
@@ -104,7 +104,7 @@ A user has an appointment with a questionnaire, and the user has completed the q
 
 The user would be able to access their completed questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-## Test Case : Cancelled Appointment with an In-progress questionnaire
+## Test Case D: Cancelled Appointment with an In-progress questionnaire
 
 ### Description / Use Case
 
@@ -114,7 +114,7 @@ A user has an appointment in the future that is canceled. The user has already s
 
 The user would be able to access their "Canceled" questionnaire from the [To Do section of the questionnaire manager page](https://zpl.io/aXlD9Yg). Their in-progress answers are available to view via a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) with their in-progress responses.
 
-## Test Case : Cancelled Future Appointment with a Completed questionnaire
+## Test Case E: Cancelled Future Appointment with a Completed questionnaire
 
 ### Description / Use Case
 
@@ -124,7 +124,7 @@ A user has an appointment in the future that is canceled. The user has already f
 
 The user would be able to access their "Canceled" questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-## Test Case : Cancelled appointment no questionnaire response
+## Test Case F: Cancelled appointment no questionnaire response
 
 ### Description / Use Case
 
@@ -141,7 +141,7 @@ This questionnaire should not appear anywhere on the questionnaire manager.
 | see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
 | load a cancelled appointment with no data | GET /health_quest/v0/questionnaire_manager| [JSON](./json/cancelled.future.appointment.json) |
 
-## Test Case : Not Completed Questionnaire for a past appointment
+## Test Case G: Not Completed Questionnaire for a past appointment
 
 ### Description / Use Case
 
@@ -158,7 +158,7 @@ This questionnaire should not appear anywhere on the questionnaire manager.
 | see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
 | load a past appointment with no response | GET /health_quest/v0/questionnaire_manager| [JSON](./json/past.appointment.json) |
 
-## Test Case : Completed Questionnaire for a past appointment
+## Test Case H: Completed Questionnaire for a past appointment
 
 ### Description / Use Case
 
@@ -168,7 +168,7 @@ A user has filled out a questionnaire for an appointment in the past.
 
 The user would be able to access their completed questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-## Test Case : Completed Questionnaire for a canceled appointment in the past
+## Test Case I: Completed Questionnaire for a canceled appointment in the past
 
 ### Description / Use Case
 
@@ -178,7 +178,7 @@ A user has filled out a questionnaire for an appointment in the past, but the ap
 
 The user would be able to access their "Canceled" questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-## Test Case : Not Completed Questionnaire for a canceled appointment in the past
+## Test Case J: Not Completed Questionnaire for a canceled appointment in the past
 
 ### Description / Use Case
 
@@ -195,7 +195,7 @@ This questionnaire should not appear anywhere on the questionnaire manager.
 | see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
 | load a cancelled appointment in the past  with no data | GET /health_quest/v0/questionnaire_manager| [JSON](./json/cancelled.past.appointment.json) |
 
-## Test Case : Use has an appointment in the future with no Questionnaire
+## Test Case K: Use has an appointment in the future with no Questionnaire
 
 ### Description / Use Case
 
