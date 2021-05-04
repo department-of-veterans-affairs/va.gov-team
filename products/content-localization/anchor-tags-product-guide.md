@@ -18,14 +18,11 @@ The goal of this experiment is to make it quick and painless to share specific c
 
 ## User Access:
 
-Log-on and/or accounts are not required. Any visitor will be able to use this feature.
+Users do not need to be signed into use this feature. The feature is available for a user, whether or not they have a VA.gov account.
 
 ## Navigation:
 
-This section should describe how the user finds the product on VA.gov. If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
-URL and screenshot if a link to your product is shown on the VA.gov homepage: SK
-
-From the Homepage: https://www.va.gov/ 
+URL and screenshot from the VA.gov homepage: https://www.va.gov/ 
 
 ![image](https://user-images.githubusercontent.com/74627978/117061885-b8f31900-acf0-11eb-9352-9cb52d5cf6be.png)
 
@@ -33,15 +30,9 @@ From the Homepage: https://www.va.gov/
 ## Functionality:
 
 This section will go over the actual functionality of your product. Depending on the complexity of your product, this section will be the longest part of your product guide. We know it is difficult to point out every single feature of the product, particularly for an application, but please provide as much detail as possible because it helps contact center agents better address veteran questions. If your product has different stages or sections, we recommend breaking this section into subsections to cover the different parts of your product (i.e. wizards, different sections of an application, etc).
-Major Issues and Error Messages
 
-Error messages or alerts SPECIFIC to your product are an important tool for contact center representatives trying to triage an issue. Please provide screenshots and descriptions of ALL error or warning messages that are specific to your product. For each of these error messages, please provide the following:
 
-Screenshot of the error message
-Explanation of what might be causing the problem
-Suggestions for what might resolve the error message.
-If available, please include any known work arounds.
-Below are examples of a well created product guides.
+
 
 https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
 https://github.com/department-of-veterans-affairs/va.gov-team/files/4245076/GI.Bill.Comparison.Tool.Product.guide.docx
