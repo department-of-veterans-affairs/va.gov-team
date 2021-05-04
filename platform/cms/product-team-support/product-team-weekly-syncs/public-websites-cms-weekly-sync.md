@@ -42,6 +42,10 @@
 CLP 
 * Audience_tags epic now complete. [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4898]
 * [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives`
+* Trust CLP launch
+* Vaccine hesitancy update
+
+
 
 
 ## April 28
