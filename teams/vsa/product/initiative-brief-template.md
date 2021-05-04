@@ -94,7 +94,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - 
 ---
 
 ## Solution Narrative
