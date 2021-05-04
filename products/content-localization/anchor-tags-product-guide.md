@@ -20,14 +20,13 @@ The goal of this experiment is to make it quick and painless to share specific c
 
 Log-on and/or accounts are not required. Any visitors can use this feature.
 
-Navigation:
+## Navigation:
 
 This section should describe how the user finds the product on VA.gov. If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
-URL and screenshot if a link to your product is shown on the VA.gov homepage
-URL and screenshot if a link to your product is shown in a benefits hub
-URL and screenshot if your product can be accessed by a another feature like the VA profile.
-You do not need to list out all access points for your product but please provide details for the most relevant pathways.
-Functionality:
+URL and screenshot if a link to your product is shown on the VA.gov homepage: SK
+
+
+## Functionality:
 
 This section will go over the actual functionality of your product. Depending on the complexity of your product, this section will be the longest part of your product guide. We know it is difficult to point out every single feature of the product, particularly for an application, but please provide as much detail as possible because it helps contact center agents better address veteran questions. If your product has different stages or sections, we recommend breaking this section into subsections to cover the different parts of your product (i.e. wizards, different sections of an application, etc).
 Major Issues and Error Messages
