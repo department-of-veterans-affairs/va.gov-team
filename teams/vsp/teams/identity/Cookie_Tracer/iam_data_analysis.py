@@ -45,7 +45,7 @@ df_something = df_trevorsquestion.loc[df_trevorsquestion['Trevors_column'] == 'l
 df_some_ip = df_something['transaction_id'].value_counts()
 print("\n\n*****",df_some_ip.head(10))
 print("\n*********va request has response and matches iam requests:*********\n",df_trevorsquestion['Trevors_column'].value_counts())
-#df_something.to_csv("va_reqresp_missing_request_in_IAM.csv", index = False)
+df_something.to_csv("va_reqresp_missing_request_in_IAM.csv", index = False)
 
 #printing csvs
 #df_iam_va_finalresults.to_csv(outputfilename, index = False)
