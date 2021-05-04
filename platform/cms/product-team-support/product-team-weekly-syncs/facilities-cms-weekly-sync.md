@@ -24,6 +24,9 @@
 ## Wednesday, May 5
 
 * Nightwatch 
+  * Upcoming meeting with Testing Tools team to discuss implications 
+* Vet Center centralized content (FAQs and Nat'l featured content)
+* Policies Page rollout (quick report)
 * Breadcrumbs: when to use array vs derive from url?
 * Meta tags for VAMC 
   - Design guide update
