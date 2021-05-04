@@ -1,9 +1,9 @@
-### Current State
+# Current State
 VA.gov currently has two authentication processes for Veterans. One of these processes is a single sign-on (SSO) solution which facilitates a Veteran to be able to login to VA.gov with three different credential providers, DSLogon, MyHealtheVet, and ID.me. The SSO solution currently is offered on a random basis to 30% of all Veterans who attempt to login to VA.gov. There is also an option for a Veteran to login at one of these partner sites, DSLogon or MyHealtheVet, then go to VA.gov and continue to be logged in instead of needing to re-enter their credentials. The key metric to measure the Veteran login experience is the “SAML Response Rate.” This metric determines if a Veteran is able to complete the [login flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization.md). 
 
 The standard login flow of a user, followed by a link to the technical view of the architecture: (User browser -> local ISP -> Azure F5 -> TIC (Azure) -> several load balancers -> “post to eauth” -> eauth (IAM) -> CSP -> eauth -> browser/api/vets-website) [Technical Architecture of va.gov](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/TechnicalArchitectureOverview.md).
 
-### Goals
+# Goals
 1. Gain confidence that the technical VA.gov login components are operating correctly.
 2. Ensure SAML requests and responses are being sent, received, and logged at each of the required junction points.
     1. User/broswer -> VA.gov -> ISAM -> ID.me -> ISAM -> VA.gov -> User/browser
@@ -25,11 +25,11 @@ The standard login flow of a user, followed by a link to the technical view of t
 6. MHV: TBD
 7. DSLogon: TBD
 
-### Results
+# Results
 Analysis of VA.gov SAML Requests and Responses with the newly implemented vagov_saml_prod cookie:
 ![Screen Shot 2021-05-04 at 5 01 34 PM](https://user-images.githubusercontent.com/71290526/117069454-7b938900-acfa-11eb-8afc-bc7d37c12c76.png)
 
-### SAML Response Rate Flow
+# SAML Response Rate Flow
   The expected SAML cookie tracker flow [reference image below]:
 1. Veteran clicks on the sign-in button on VA.gov. This button opens a modal that presents the Veteran with the three login options. 
 1. Once they click on any of these methods, a SAML request is created within the VA.gov API and logged on our backend servers (running in AWS). 
@@ -49,7 +49,7 @@ Analysis of VA.gov SAML Requests and Responses with the newly implemented vagov_
 ![SAML Cookie Tracker (2)](https://user-images.githubusercontent.com/71290526/116739664-ef175c80-a9c1-11eb-91bd-838561531dda.png)
 
 
-### SAML Response Rate Metric
+# SAML Response Rate Metric
 The metric creation flow:
 1. Obtain logs from va.gov infrastructure
     1. Parse 24 hours of vets-api logs from AWS Cloudwatch Log Group `dsva-vagov-prod/srv/vets-api/src/log/vets-api-server.log`, example [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/cookie_tracer_vagov.py).
@@ -78,7 +78,7 @@ The metric creation flow:
           1. create a sub dataframe that contains requests found in va.gov that did not have a match in the IAM requests dataset (left_only) 
           > va_iam_request_missing_total = va_iam_request_merge.loc[va_iam_request_merge['_merge'] == 'left_only']
 
-### Query AWS Logs for SSOe Events
+# Query AWS Logs for SSOe Events
 Things to know before:
   * aws cloudwatch insights (aws console) limits you to 10k results per query, if the query were to take longer than 15 minutes it times-out and what you get back if the query would result in more than 10k is sketchy/not reliable
   * `get_query_results` (python boto3 cli for cloudwatch logs) doesn’t have a paginator so this doesn’t alleviate the 10k result limit issue.
@@ -86,21 +86,21 @@ Things to know before:
   * AWS Athena cloudwatch connector has issues with logs that dont look exactly the same with each event (think of columns needing to match) so even with grok pattern matching we haven’t been successful because there is no "make this column NULL if 0 matches found and move onto the next column"
   * Grafana Loki is planned to be released to production in June, all future analysis of these types of events should shift to Loki rather than using unreliable scripts and Athena.
 
-#### AWS cli query:
+## AWS cli query:
   1. Setup your terminal to run aws cli commands, examples in this [file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/cookie_tracer_vagov.py). [aws-vault](https://github.com/99designs/aws-vault) is an excellent aws credential storage solution. Also recommend the setup of a python virtual environment to ensure all your dependencies are set up correctly.
   1. Within [this script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/cookie_tracer_vagov.py) substitute the foldername variable with the directory you want the resulting va.gov saml request and response matching logs to go to, along with the start and end variables with the appropriate query datetimes. The query time should be kept to no longer than two hour chunks. For longer analysis it is recommended that you use a script like [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/file_merger.py) to combine the csv files. 
   1. All data analysis after the AWS cli queries are completed are within the scope of the SAML Response Rate Metric section of this document.
 
-### Next Steps
-#### Questions for IAM:
+# Next Steps
+## Questions for IAM:
   1. How do csp of CAC get transaction_id and samlrequest_ids?
       1. These identifiers are being used with other partners than va.gov.
   1. How confident are you that splunk is keeping all saml log events?
       1. Fairly confident, work being done on 5/6/21 to confirm this.
-#### Questions for ID.me:
+## Questions for ID.me:
   1. Do you record the va.gov saml transaction_id and/or saml_request_id within your logs to assist with measuring the va.gov login experience?
       1. No
-#### Questions for VA.gov Identity Team
+## Questions for VA.gov Identity Team
   1. At what point of the login process do we generate the rails log that contains the transaction ID
       1. When we call ‘auth new’
   1. Do we have 1 transaction id per request or 1 saml request id per request?
@@ -110,5 +110,5 @@ Things to know before:
   1. Perform statistical analysis of missing responses based on browser user agent
       1. Add full log not just requests
 
-#### Innovation
+## Innovation
 Develop ability within va.gov logs to trace success of a given user. This would require some form of login step recording prior to authentication being completed, but it could end up helping to detect specific users who are having repeated issues that are otherwise lost in the sea of random network errors.
