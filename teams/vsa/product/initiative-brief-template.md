@@ -3,7 +3,7 @@
 
 ## Overview
 *Initiatives are opportunities to achieve a particular outcome. 
-There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs.* 
+There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiatives to continuously iterate.* 
 
 ## Outcome Summary
 *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
