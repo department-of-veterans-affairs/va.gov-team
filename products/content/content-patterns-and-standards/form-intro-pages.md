@@ -1,4 +1,6 @@
-# Goal THIS DOCUMENT IS IN PROGRESS
+## _THIS DOCUMENT IS IN PROGRESS_
+
+# Goal 
 Standardize form intro pages, taking into account the VA.gov style, voice, plain language, and accessibility standards. Share the defined the content components, labels, and messaging for the intro page with designers so they have specific guidance when working on new forms. 
 
 ## Content components
