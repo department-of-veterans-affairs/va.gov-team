@@ -27,7 +27,7 @@ This document will focus on Vet Center detail page enhancement
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#key-links)
 
 ### User Journey
-- Vet Centers are community-based counseling centers which provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members and their families. 
+- Vet Centers are community-based counseling centers that provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members,  and their families. 
 - Vet Centers guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. 
 - Vet Center benefits never expire so Veterans can be engaged in services off/on or continuously throughout the journey. 
 
