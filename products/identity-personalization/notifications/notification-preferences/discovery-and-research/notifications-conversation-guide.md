@@ -78,8 +78,9 @@ Imagine you heard the VA had recently started giving people the option to get te
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
 - What can you do on this page?
-- What notifications are you currently signed up for?
-- Based on what you see here, how will you get notifications for American Legion Events?
+- What notifications are you currently signed up for? 
+  - prod at notification groups if they don't mention it themselves: What types of things will you be notified about? 
+- Based on what you see here, how are you getting notifications for American Legion Events?
 
 
 ### Things to watch for
@@ -96,7 +97,6 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 2. *After saving:* Now that you've made some changes, take a look at the screen. Is this what you expected?
 
-3. How would you sign up to also get email updates on your medications?
 
    *Note: since the example profile doesn't have an email saved yet, there will be text in place of a checkbox for any notifications that have emails available.*
 
@@ -112,9 +112,10 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 ## Task 4: Update contact information - 5 minutes
 
 *Prompt if needed - participant may do this on their own:*
-Imagine that **(email notification)** is really important to you.  Show me how you'd go about setting that up so you could get that notification.
+Imagine that **(email notifications)** are really important to you.  Show me how you'd go about setting that up so you could get that notification.
 
-_Consider instead:_ Let's say your phone number (or email address) was wrong (or you needed to add it), how would you fix it? <-- _can update to reflect whatever content ends up in the final prototype, aim is to figure out how they would handle updating or adding contact info from here_
+Consider instead: Let's say you wanted to add your email address so you could get email notifications. How would you do that? 
+
 
 ### Things to watch for
 
@@ -125,7 +126,7 @@ _Consider instead:_ Let's say your phone number (or email address) was wrong (or
 
 ## Task 5: Add email notification - 5 minutes
 
-- Now that you have an email address, how would you you set up that notification now?
+- Now that you have an email address, how would you sign up to also get email updates on your medications?
 
 ~Do you see any other ways you can be notified about the same thing?  Why don't you think so?~
 
