@@ -1,3 +1,7 @@
+## This page has been moved and is no longer maintained. [See the Platform Operational Docs for the most up to date version](https://vfs.atlassian.net/wiki/spaces/AP/pages/1392444560/Guidance+for+Sprint+Objectives).
+
+---
+
 # Sprint Objectives Rules of Engagement
 
 There are a handful of key goals for VSP Sprint Objectives:
