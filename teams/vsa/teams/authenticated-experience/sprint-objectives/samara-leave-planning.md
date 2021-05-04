@@ -106,10 +106,15 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ## VA.gov Profile: User roles & permissions
 
-Things we need to figure out:
+### Q2 2021 (April - June)
 
-- When will this work start? Will it start while Samara is on maternity leave (Q3)? Or will the auth. experience team not be involved until Q4?
-- How can we ensure that the user roles & permissions work can start without taking the auth. experience team away from current projects and committments but also doesn't hold up user roles & permissions work?
-- Does the auth. experience team need to help with discovery?
-- Who is defining MVP features for the profile and My VA dashboard re: new user roles & permissions?
-- Long-term maintenance: how do we enhance and grow the profile and My VA dashboard for both veterans and a new user type?
+What we know so far:
+
+- According to Christine Dillman, the MVP use case is for dependents and the functionality they need is to view their benefit letter.
+- They are going to start scoping this feature on 5.5.21, including all discovery work that is needed.
+- It is unclear what the expectations are or will be for the profile and My VA dashboard. It is also unclear who defines that.
+- However, we can likely get Lihan in this quarter to help with discovery and integration work.
+
+### Q3 2021 (July - September)
+
+- We'll hopefully have greater clarity on how this work will impact our team in this quarter soon.
