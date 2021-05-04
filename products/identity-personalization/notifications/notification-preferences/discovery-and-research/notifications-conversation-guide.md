@@ -34,18 +34,21 @@ Before we start, a few things I want to mention:
 Before we look at the prototype, I'd like to talk to you about notifications.
 
 - Tell me about any email or text notifications you've received recently.
-- Tell me how you manage those notifications. 
-  - What prompts you to go into "manage mode"? 
+- What kinds of notifications do you currently get from VA? ~Are those emails or text messages?~
+  - How do you receive them?
+- What kinds of VA notifications would be helpful to you that you aren't currently getting? 
+  - Where would you expect to find out about them?
+- What kind of contact information do you have saved in your profile? 
+  - Why ~do/don't you have a contact email address or mobile number?~ did/didn't you chose to include that infomation?
+-  How do you manage your notifications? 
+  - ~What prompts you to go into "manage mode"?~ Aim for more plain language, consider: What makes you manage them? 
   - Where do you go to do this?
-- How do you find out about new notifications available to you?
-  - Do you ever seek them out?
 - Let's talk about turning notifications on or off - 
-  - when do you need to do this? 
-  - how do you go about doing that?
-- What kinds of notifications do you currently get from VA? Are those emails or text messages?
-- What kinds of VA notifications would be helpful to you that you aren't currently getting?
-- What kind of contact information do saved in your profile? 
-  - Why do/don't you have a contact email address or mobile number?
+  - When do you need to do this? 
+  - How do you go about doing that?
+- ~How do you find out about new notifications available to you?~ awkward phrasing, consider instead what I added to the VA notifications bullet above, and see if that is getting at the intent behind this question. or consider instead: *Let's say you wanted to get notified about VA offerings, where would you expect to find out what things you can get notified about?* (or something to that tune)
+  - ~Do you ever seek them out?~  What's an instance where you might want to get more notifications from the VA?
+- What devices do you normally use ~to do complete this type of task~ to do things on your VA Profile/VA.gov?
 
 ### Things to watch for
 
@@ -70,9 +73,14 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.  Example profile does not have an email address on file.*: add desktop and mobile links
+*Participant should be on notification settings page of profile.  Example profile does not have an email address on file.*: add desktop links
 
-Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here. 
+Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
+
+- What can you do on this page?
+- What notifications are you currently signed up for?
+- Based on what you see here, how will you get notifications for American Legion Events?
+
 
 ### Things to watch for
 
@@ -86,9 +94,9 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 1. Thank you, all of that is helpful for our team.  Now, please go ahead and see if you can sign up for text updates on your medications. 
 
-2. *After saving:* Now that you've made some changes, take a look at the screen. How does this line up with what you expected?
+2. *After saving:* Now that you've made some changes, take a look at the screen. Is this what you expected?
 
-3. See if you can find any email notifications to sign up for.
+3. How would you sign up to also get email updates on your medications?
 
    *Note: since the example profile doesn't have an email saved yet, there will be text in place of a checkbox for any notifications that have emails available.*
 
@@ -106,6 +114,8 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 *Prompt if needed - participant may do this on their own:*
 Imagine that **(email notification)** is really important to you.  Show me how you'd go about setting that up so you could get that notification.
 
+_Consider instead:_ Let's say your phone number (or email address) was wrong (or you needed to add it), how would you fix it? <-- _can update to reflect whatever content ends up in the final prototype, aim is to figure out how they would handle updating or adding contact info from here_
+
 ### Things to watch for
 
 - How did the participant become aware that they were missing contact information?
@@ -115,11 +125,13 @@ Imagine that **(email notification)** is really important to you.  Show me how y
 
 ## Task 5: Add email notification - 5 minutes
 
-Now that you have an email address, see if you can set up that notification.
+- Now that you have an email address, how would you you set up that notification now?
 
-Do you see any other ways you can be notified about the same thing?  Why don't you think so?
+~Do you see any other ways you can be notified about the same thing?  Why don't you think so?~
 
 **Q: With this second question, I'm trying to evaluate if people understand why some notifications only have one channel, and if that causes any frustration when that's the case. Would love some help phrasing this in a way that's not leading and can help us get to this information. I'd like to avoid having them click through every group until they find one - plus it would be a lot of work in the prototype to set that up so it feels realistic. **
+
+A: I may be missing the context on this, but I'm guessing some of the non-health notifications, like the 526 are email only, and can't do text updates. In that case, you could ask the participant something like "How would you change how you get notified about your 526 process", and then follow up with "What are your thoughts on the option(s) here", and dig in more with "why do you think these are the option(s)?". I agree, the wording if a little awkward, and reading the task as is, I'm not clear on where in the prototype or what exactly you're aiming to test right now.
 
 ### Things to watch for
 
@@ -129,8 +141,7 @@ Do you see any other ways you can be notified about the same thing?  Why don't y
 ## Post-Task Interview - 4 minutes
 
 - Tell me how that overall experience aligns with your expectations for managing notifications.
-- Would you expect to see transactional notifications here? Example: Say you called a VA help number and the rep sent an email after the call to serve as a record of your conversation.
-- What devices do you normally use to do complete this type of task?
+- ~Would you expect to see transactional notifications here? Example: Say you called a VA help number and the rep sent an email after the call to serve as a record of your conversation.~ this feels leading and I'm not sure on the intent behind the question. Consider instead: What notifications would you expect to see here that you didn't?
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
