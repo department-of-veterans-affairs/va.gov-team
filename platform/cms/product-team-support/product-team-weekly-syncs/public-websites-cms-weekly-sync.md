@@ -45,9 +45,9 @@ CLP
 * Trust CLP launch
 * Vaccine hesitancy update
 
-Resources and support Sections update
-
-
+Resources and support
+* Sections update
+* New process for requesting changes to Sections
 
 
 ## April 28
