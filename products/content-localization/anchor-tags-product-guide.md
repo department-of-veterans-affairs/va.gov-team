@@ -31,7 +31,21 @@ URL and screenshot from the VA.gov homepage: https://www.va.gov/
 
 This section will go over the actual functionality of your product. Depending on the complexity of your product, this section will be the longest part of your product guide. We know it is difficult to point out every single feature of the product, particularly for an application, but please provide as much detail as possible because it helps contact center agents better address veteran questions. If your product has different stages or sections, we recommend breaking this section into subsections to cover the different parts of your product (i.e. wizards, different sections of an application, etc).
 
+ The copy icon will be visible at the end of each question
+ Upon hovering, the square enclosing the icon will change color to help users understand that the icon is actionable
+ Once clicked, the text "Link copied" is displayed next to the icon for 10 seconds
+ On click/tap when using a screen reader, the screen reader will announce the "Link copied" text and keep the focus on the button
+ The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy [How can I stay informed about COVID-19 vaccines at VA] sharable link”.
+ When the button + text cannot be displayed to the right of the button (because there is not enough room to the right of the button), it displays to the left, overlapping the h3
+Desktop View (linking to an accordion):
 
+ The copy icon will be visible at the end of each answer in a Q/A.
+ Upon hovering, the square enclosing the icon will change color to help users understand that the icon is actionable
+ Once clicked, the text "Link copied" is displayed next to the icon for 10 seconds
+ On click/tap when using a screen reader, the screen reader will announce the "Link copied" text and keep the focus on the button
+ The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy [How can I stay informed about COVID-19 vaccines at VA] sharable link”.
+ When the button + text cannot be displayed to the right of the icon/button (because there is not enough room to the right of the button), it displays to the left, overlapping the h3
+ Shareable link takes user to the title of the accordion which is defaulted to open
 
 
 https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
