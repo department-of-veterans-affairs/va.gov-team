@@ -1,11 +1,9 @@
 # Initiative Brief Template
 ---
 
-<!--
 ## Overview
 *Initiatives are hypotheses the team has for achieving a particular outcome. \
-There is a one:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. \
-*
+There is a one:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. 
 
 ## Outcome Summary
 *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." \
