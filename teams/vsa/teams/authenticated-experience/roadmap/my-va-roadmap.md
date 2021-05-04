@@ -1,19 +1,20 @@
 # My VA roadmap
 
-**Updated March 2021**
+**Updated April 2021**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | FE build |
+|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | QA |
 
 ### Projected timelines for current projects
 
-|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
-|----|----|----|----|----|----|----|
-|**My VA redesign**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
-|**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements | — |
+|Project|Q1 2021|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
+|----|----|----|----|----|----|
+|**My VA redesign**| Finish design; user testing; FE build | QA; pre-launch; launch | — | — |— |
+|**My VA post-launch experiments**| — | Planning | Run experiments | — |— |
+|**User roles & permissions**| - | - | Collab with identity team; details TBD | TBD | TBD |
 
 ## Completed projects
 

@@ -1,4 +1,4 @@
-# VSP Analytics & Insights Charter
+# Platform Analytics & Insights Charter
 
 ## Table of Contents
 1. [Why we're here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#why-were-here)
@@ -324,7 +324,7 @@ This is our main means of communication with each other. Keep as much conversati
 
 ## Team Knowledge
 **VFS Facing Documentation**
-- [Analytics Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md)
+- [Analytics Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/analytics-playbook.md)
 - [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
 - [Google Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics)
 - [Google Analytics Cheat Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md)

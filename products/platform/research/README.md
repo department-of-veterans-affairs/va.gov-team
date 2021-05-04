@@ -8,7 +8,9 @@ You can contact any of the following about research or adding your reach here:
 
 - [James Chasia](mailto:james.chasia@adhocteam.us), @James on Slack
 - [Naomi Marcussen](mailto:naomi.marcussen@oddball.io), @Naomi Marcussen on Slack 
-- [Andrea Chappelear](mailto:andrea.chappelear@adhoc.team), @Andrea Chappelear on Slack 
+- [Rebekah Hickey](mailto:rebekah.hickey@adhoc.team), @Rebekah Hickey on Slack 
+- [Jonathan Nelson](mailto:jonathan.nelson@adhoc.team), @Jonathan Nelson on Slack 
+- [Michael Manalo](mailto:mmanalo@thesocompany.com), @Michael Manalo on Slack
 
 <br>
 
@@ -65,18 +67,33 @@ Below you can find links to research conducted by VSP. If you've done research, 
 ------
 ### Upcoming Research
 
-#### Design System - Storybook - Design System
+- Top Task - Engineering - Service Design
 
-#### Designer User Journey Workshop - Service Design
+- Survey - BE Tools
 
-#### Orientation - Product Support
+- Support workflow - Service Design
 
-#### Monitoring Tools - OPS
+- Form Dashboard Template - Insights & Analytics 
+
+- Autonomous Deployment Discovery (previously called App Isolation) - FE Tools 
+
+- Design System - Storybook - Design System
+
+- Orientation - Product Support
+
+- Monitoring Tools - OPS
 
 <br>
 
 
 ### Completed Research
+
+#### Testing Tools Baseline Survey
+*Testing Tools: Joe Tice*
+Q1 2021
+Research folder
+
+<br>
 
 #### Platform Documentation Research
 

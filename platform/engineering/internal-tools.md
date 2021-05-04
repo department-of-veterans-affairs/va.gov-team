@@ -1,5 +1,8 @@
 # Internal tools access
 
+### :warning: Please read before beginning this document:
+This document later describes a step that has the user attempt to reach a private repository. It is important that you check with your team leadership and ensure you have been added to the Department of Veterans Affairs GitHub organization as well as your team's respective GitHub team in order to view the contents of the private repository. If you are still unable to reach the DevOps repository after verifying with leadership or your GitHub team has been newly created, please reach out for Operations support in the #vfs-platform-support channel within the DSVA Slack workspace.
+
 This document describes tools available internally to developers working on the Veteran-facing Services Platform and configuration required to access them. You'll need access to these tools if you need:
 
 * Build logs and details from Jenkins (linked to from GitHub PRs for each project)
@@ -201,8 +204,8 @@ total 80
 drwx------   8 jeremybritt  staff    256 Aug  6 11:27 .
 drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
 -rw-r--r--   1 jeremybritt  staff   5804 Aug  6 11:50 config
--rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vetsgov
--rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vetsgov.pub
+-rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_va
+-rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_va.pub
 ```
 
 2. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
@@ -211,34 +214,36 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
     * If your key doesn't seem to be working, ask for help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel
 
 
-#### Accessing SOCKS proxy _from VA network_
+### Start the SOCKS proxy 
 
-The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from the VA network - see [Line 34 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34).
+The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from both [inside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34) and [outside](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28) the VA network.
 
-1. Run the following command:
+Run the following command:
+
+#### from _inside_ the VA network:
+
+   `ssh socks-va -D 2001 -N`
+
+#### from _outside_ the VA network:
+   
+   `ssh socks -D 2001 -N`
+   
+>**Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will have to enter "yes" at the prompt for the first / initial connection.
+
+Once the script is running, you can put it in the background by typing `control-z`. In the future you can add an ampersand after the command to keep it running in the background:
+
+
+#### from _inside_ the VA network:
 
    `ssh socks-va -D 2001 -N &`
-   
-> **Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
 
-1. Follow the instructions below to test and use the SOCKS proxy.
+#### From _outside_ the VA network:
 
-#### Accessing SOCKS proxy _from the internet_
-
-The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from outside the VA network - see [Line 28 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28).
-
-1. Run the following command:
-   
    `ssh socks -D 2001 -N &`
-   
->**Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
-
-1. Follow the instructions below to test and use the SOCKS proxy.
-
 
 ## Test and use the SOCKS proxy
 
-Use the following steps to verify that the proxy connection is working, and to configure your browser to use the proxy connection. Note that the proxy only allows access to our internal tools, not to the internet at large. So you need to configure your browser to either use the proxy only for `vfs.va.gov` domain (as described below for Chrome), enable/disable the proxy connection as needed, or use a separate browser for accessing the internal tools vs. for general use.
+Use the following steps to verify that the proxy connection is working:
 
 ### Curl
 
@@ -248,11 +253,22 @@ To test your proxy connectivity, the best option is to run the following command
 
 You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the SOCKS proxy server is running. You can run `$ nc -z 127.0.0.1 2001` as a first step.
 
-### Connecting your browser to the proxy
-There are two alternatives to connecting your browser to the proxy.
+### Connecting your network to the proxy
+#### Mac OSX Only
+There are two alternatives to connecting your PC's network to the proxy:
 
-1. Install SwitchyOmega: browser extension that will let you use the proxy just for certain domains
-1. Use the `socks.sh` script: a script will set up OSX with a system-level proxy - this is useful for those who want to use Safari, or who don't want to use browser extensions
+1. Use the [socks.sh script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks): this will set up OSX with a system-level proxy
+1. Install an app called [CoreTunnel](https://coretunnel.app/) that does the same thing as the `socks.sh` script in a more user-friendly way. See this [video](https://www.youtube.com/watch?v=fSuN9LhkB5o) for setup instructions.
+Summary:
+    1. Download CoreTunnel from the [App Store](https://apps.apple.com/us/app/core-tunnel/id1354318707). Launch CoreTunnel.
+    2. Add Private Key (`~/.ssh/id_rsa_vagov`) in Preferences (if not found automatically)
+    3. Make sure Enable Core Helper is checked under Advanced (this may require a separate download)
+    4. Add CoreTunnel to your Login Items in System Preferences / Users so it launches automatically when you log into your Mac
+    5. Click + to add a connection: Name= VA, host=socks, Forwarding=Dynamic, port=2001
+    6. Click "automatically connect on startup"
+    7. Configure your WiFi and Ethernet Network connections in system preferences / Network / Advanced. Select Automaic Proxy Configuration and enter the following URL for the Proxy Configuration File: https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/scripts/socks/proxy.pac
+
+For Windows users, or those who don't mind being limited to Chrome and Firefox, the following option is also available:
 
 #### Set up SwitchyOmega for Chrome & Firefox
 

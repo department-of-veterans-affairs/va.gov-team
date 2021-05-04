@@ -1,6 +1,7 @@
 ----
 
-### We're moving our docs! Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/test-release/Using-review-instances-to-preview-changes.590774288.html) on the Platform website.
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/test-release/Using-review-instances-to-preview-changes.590774288.html) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
@@ -131,3 +132,4 @@ The review instance requires a special nginx configuration that intercepts the c
 For implementation-specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_revproxy.conf.j2#L181-L203).
 
 ![Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/review_instance_login_sequence.png)
+

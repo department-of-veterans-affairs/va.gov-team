@@ -1,6 +1,6 @@
 # Contact Center Review
 
-Did we recommend a Contact Center Review? If so, follow the below guidelines to get started.
+Did we recommend a Contact Center Review in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 At least 4 weeks prior to launch or unmoderated testing for a brand-new service, or at least 2 weeks prior to launch or unmoderated testing for a new feature in an existing service. 

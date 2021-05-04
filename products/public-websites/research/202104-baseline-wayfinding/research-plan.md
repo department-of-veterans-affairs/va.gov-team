@@ -9,19 +9,28 @@ Since the current VA.gov website was launched in 2018, there hasn't been much us
 This research is planned within the context of the Public Websites team and the larger Unauthenticated crew, but it may also provide insights for the Authenticated teams and overall website information architecture.  
 
 ## Research questions
-- Why do Veterans come to VA.gov? With what goals/tasks in mind?
-- How do Veterans try to find what they’re looking for on VA.gov?
-  - Where do they typically start? (Google/Facebook/MHV/eBenefits/VA.gov)
+- How do Veterans accomplish a list of common tasks?
+  - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
+  - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
-    - Search (in header) and/or browse?
-    - 4 white quadrants? Topics below the photos? Buttons below the topics? Footer links? Header links? Benefit Hubs (mega-menu dropdowns)?
-    - Resources & Support? Find a Form? Find a Location? Find Yellow Ribbon school?
+    - Search (in header)
+    - "VA Benefits and Health Care" dropdown in header
+    - Other header links (About VA, Find a VA Location, Contact us)
+    - "Top 4" boxes
+    - Topics below the photos
+    - 3 red/blue buttons below the topics
+    - Links below the 3 red/blue buttons
+    - Footer links 
+    - Resources & Support
+    - Find a Form
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
 - What works well?
-- Are there any differences for desktop vs. mobile users?
-- Are there any differences for people who have used VA.gov before vs. haven't used it?
-- Do Veterans read/notice/click on the banner content on the home page?
+- What differences are there for desktop *vs.* smartphone users?
+- What differences are there for people who have cognitive disabilities?
+- What differences are there for people who use screen readers?
+- What differences are there for people who have used VA.gov before *vs.* haven't used it?
+- Do Veterans read/notice/click/comment on the banner content on the home page?
 
 ## Hypotheses
 - Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
@@ -34,53 +43,59 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 We will also explore analytics data to see where people click on the VA.gov home page and compare usage statistics across the different search and browse tools on the site.
 
 ## Participants and Recruitment	
-Ask Perigean to recruit 16-20 people in order to get 10 completed sessions using the following criteria:
+Ask Perigean to recruit 20 people in order to get 12 completed sessions using the following criteria:
 
 ### Must have for participants
-- At least 5 Veterans
-- At least 2 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
-- At least 4 people who plan to use their laptop/desktop for the session
-- At least 4 people who plan to use their smartphone for the session
-- At least 2 people who use assistive technology such as a screen reader, specialized keyboard, or switch
+- At least 6 Veterans
+- At least 3 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
+- At least 5 people who plan to use their computer for the session
+- At least 5 people who plan to use their smartphone for the session
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 3 participants over 60
 
 ### Good to have for participants
+- At least 2 people who use a screen reader
 - At least 2 people who have never used the VA.gov website before
+- At least 2 people of color
 - At least 1 woman
-- At least 1 person of color
-- At least 1 participant 35 or under and 1 participant over 55
-- At least 1 person that does not have a college degree (to include enlisted Vets)
-- At least 1 person that has a college degree (to include officer Vets)
-- At least 1 person who lives in a rural or remote area
+- At least 1 participant 35 or under
+- At least 2 people who don't have a college degree (to include enlisted Veterans)
+- At least 1 person that has a college degree (to include officer Veterans)
+- At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 person with a disability rating of 70% or greater
-- At least 1 participant that has identified cognitive impairments and/or functional disabilities
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
-- Have a laptop/desktop or mobile device and be willing to be complete their interview on said laptop/desktop or mobile device
-- During the session, be willing to share a browser window showing VA.gov on their computer or mobile device 
-- Have a working microphone on their computer or a mobile device
+- Have a computer or smartphone and be willing to be complete their interview on a computer or smartphone
+- During the session, be willing to share a browser window showing VA.gov on their computer or smartphone 
+- Have a working microphone on their computer or smartphone
 - Have Zoom downloaded prior to the session and know how to share their screen
 
 ### Additional questions to ask in the screener
-- Do you have a mobile phone or tablet? If yes, what type?
 - Have you used the VA.gov website before? 
   - If yes, how recently? 
-  - If yes, on what device(s)--laptop/desktop computer, tablet, or phone? 
+  - If yes, on what device(s)--computer, tablet, or smartphone? 
+- What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
 
 ## Timeline
-#### Desired Timeline: April 26-30, 2021 
-One-hour sessions with at least **30-minute breaks** in between 
+#### Desired Timeline: April 26 - May 5, 2021 
+**One-hour** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-April 26, 2021 | Noon - 8 pm
-April 27, 2021 | Noon - 8 pm
-April 28, 2021 | Noon - 3 pm, 5 - 8 pm
-April 29, 2021 | Noon - 8 pm 
-April 30, 2021 | Noon - 8 pm
+April 26, 2021 | Noon - 8:30 pm
+April 27, 2021 | Noon - 8:30 pm
+April 28, 2021 | Noon - 3 pm, 5 - 8:30 pm
+April 29, 2021 | Noon - 8:30 pm 
+April 30, 2021 | Noon - 8:30 pm
+May 3, 2021 | Noon - 8:30 pm
+May 4, 2021 | Noon - 8:30 pm
+Mat 5, 2021 | Noon - 2:30 pm, 4:30 - 8:30 pm
 
-Pilot Session: April 22, 2021 | Time TBD
+Pilot Sessions | Time (EST)
+---------------|----------
+April 21, 2021 | 2 pm
+April 22, 2021 | 2 pm
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -89,9 +104,12 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	TBD
-- Note-takers:	Perigean
-- Observers:	Brian Lloyd (blloyd@governmentcio.com), Meg Peters (meg.peters@va.gov), John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Marci McGuire (mmcguire@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Cassandra Allen (callen@governmentcio.com), Kelson Adams (kadams@governmentcio.com), Nick Sullivan (nick.sullivan@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
+- Notetakers:	Perigean
+- Observers:	Brian Lloyd (blloyd@governmentcio.com), Meg Peters (meg.peters@va.gov), John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Marci McGuire (mmcguire@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Cassandra Allen (callen@governmentcio.com), Kelson Adams (kadams@governmentcio.com), Nick Sullivan (nick.sullivan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Jeff Barnes (jeffrey.barnes4@va.gov)
  
 ## Resources	
-- Conversation Guide	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)	
 - Research Findings	
+
+## Approvals
+Plan reviewed and approved by Lauren Alexanderson on April 19, 2021

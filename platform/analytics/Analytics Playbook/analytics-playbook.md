@@ -436,6 +436,7 @@ As you get more comfortable setting KPIs, we suggest that while you plan for you
 ## Re-evaluate
 
 Some questions you can ask while re-evaluating:
+*   Did this metric lead you to your next product question or decision? 
 *   Were you able to accurately measure this metric? 
 *   Did this metric inform you if your outcome/objective was met or was healthy?
 

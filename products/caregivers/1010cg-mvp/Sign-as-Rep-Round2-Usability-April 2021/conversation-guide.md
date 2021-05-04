@@ -80,15 +80,17 @@ Now that I understand a little bit more about your background.
 
 **For Veterans:**
 
-Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
 
 **For Caregivers:**
 
-Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
 
 Things to watch for:
 
 In general, we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
+
+If they need a SSN, use 548-79-5555
 
 - Remind participants to think out loud. 
 - Any hiccups? Do they know all the information?
@@ -114,13 +116,16 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 **Representative 
 
-- I'm going to quickly show you my screen (moderator shares screen with “representative” question)
+- I'd like to talk about a specific page now. Can you please click back (twice) which brings us back to the Representative documentation page.
    - Can you tell me how you decided/knew that you were/weren’t a representative?
    - _If they were confused when completing this section._ What could we do to improve the information around representatives? 
    - Can you elaborate on your reasoning for your selection?
 - _If not addressed in tasks_ 
+  -  Let's say that in the future you are the legal representative, I'll have you select- Yes, I want to upload documents now.
   -  What documents would you upload here?
-  -  Would you have them on hand? 
+  -  Do the upload instructions make sense to you?
+  -  Do you already have a digital copy of the documents? (explain what this means if necessary)
+  -  How do you usually create a digital copy of your paper documents? (prompt with personal scanner, photo, local office store, etc. if hesitation)
   
  -If the legal representative is the same as the primary caregiver, statement of truth boxes that they are signing? (have signature page ready) 
 

@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated March 16, 2021
+Last Updated April 19, 2021
 
 ## POCs
 
@@ -18,7 +18,6 @@ Last Updated March 16, 2021
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
@@ -55,16 +54,27 @@ The VA is ramping up their digital communications efforts, specifically through 
 - Veterans will be able to update how they want to receive different types of communications from the VA.
 - Since this is integrated through VA Profile, those preferences will be consumable across the VA. So, that means that veterans should only have to update these preferences in one place — either the VA.gov profile, through a call center, etc — and that info should get updated everywhere.
 
-## KPIs
+## Measuring success
 
-We'll need to set up baseline metrics on:
+These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
 
-- How many preferences are updated
-- Successful loading of people's preferences in the profile
-- Successful saves
-- Errors
+**Objective: Allow Veteran's to easily customize how they communicate with the VA.**
 
-It would be nice to have metrics on how this affects paper correspondence, but this has historically not been possible to get. 
+- **Key result #1**: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).
+- **Key result #2**: Increase the number of profiles that have mobile phone numbers and email addresses by 15% each. [April 2021 baseline report from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/data/VA%20Profile%20PowerBI%20Report%2011%20Current%20Contact%20Info%20Report.pptx)
+
+|KPI/metric|Baseline as of 4/30/21| Baseline immediately before launch (date TBD) |% of profiles with this info at the end of Q4 2021 (Oct - Dec) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|--------------|--------------|
+|# of profiles with mobile phone saved in VA Profile backend|7,759,973/15,329,217 profiles (50.6%)|TBD|TBD|TBD|
+|# of profiles with email addresses saved in VA Profile backend|6,367,462/15,329,217 profiles (41.5%)|TBD|TBD|TBD|
+
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of notification preferences.
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information.
+
+|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|-------------------|
+|% of successful retreivals|TBD|TBD|TBD|
+|% of successful saves|TBD|TBD|TBD|
 
 # Implementation Info
 
@@ -78,6 +88,8 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **December 2020**: Clarifying technical details and timelines with VA Profile.
 - **January 2021**: Backend integration begins; full definition of MVP outlined.
 - **February 2021**: Backend integration continues as we wait for API access from Terry; Team meets with Terry to discuss governance and group filtering.
+- **March 2021**: Design begins
+- **April 2021**: Initia design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
 
 ## Product Decisions
 

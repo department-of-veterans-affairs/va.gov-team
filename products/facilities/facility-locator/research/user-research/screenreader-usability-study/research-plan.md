@@ -1,6 +1,6 @@
 # Facility Locator Screenreader Usability Study 
-## Research Plan - Draft
-#### April 2021 Discovery 
+## Research Plan
+#### May 2021 Discovery 
 
 Background 
 
@@ -38,7 +38,7 @@ Can Veterans, with low to no vision, who use keyboard, voice and/or other assist
 - Do they want to interact with the map?
   - If so, can they interact with the map easily?
 - Are the context changes clearly communicated?
-- Do the pins provide adequate information about the location?
+- Do the pins provide adequate information about the location? [I tested this on VoiceOver iOS, they just announce "Tab A, Tab B, etc- not the location itself. Interesting note, folks need to go through all the tabs first before getting access to the zoom in and out buttons.]
 - Can the map be navigated in a logical order?
 
 #### Search results
@@ -59,7 +59,7 @@ Sessions will combine:
 
 - Directed interviewing to understand participant's context and experience with assistive technology and other websites that they use currently
 - Usability testing with task analysis of searches conducted on Google and Facility locator.
-- 1-hour sessions will be remotely moderated via Zoom.
+- 1-hour sessions will be remotely moderated via Zoom. **Recommend at least 1.5 hours, ideally 2 hour blocks. 1 hour will not be enough time to run through the full study.**
 - Participants will share their phone or desktop screen. 
 
 
@@ -75,60 +75,67 @@ Sessions will combine:
 (All) Participants must:
 
 - Primarily use a screen reader to interact with websites as specified by the following:
-  - 1 JAWs user
-  - 1 voice over user
-  - 1 voice over user - mobile
-  - 1 NVDS user
-  - 1 talkback (Android) user
+  - 1 VoiceOver macbook or mac user
+  - 1 VoiceOver iPhone or iPad user
+  - 1 JAWS user
+  - 1 NVDA user
+  - 1 TalkBack (Android) user
+ 
+[**Note for Perigean:** ]
+ - Please ask participant what screen reader technology they will use for the session and include in participant tracker
+ - Please ask participants if they would be comfortable with 4 off-camera, observers present during the research session, including the facilitator OR if they would prefer a more private session with just one facilitator and one accessibility specialist.
+ - Please ask participant what method of text communication they'd prefer the most during the session (to send and open links) e.g. text message, email, or zoom chat.
 
 AND
 
 - Have the low to no vision as specified by the following
   - At least 4 participants have an acquired vision-related disability
+  - At least 1 advanced screen reader user and 1 beginner screen reader user
   - At least 1 participant has a congenital vision-related disability
   - At least 1 participant has low vision (not complete blindness)
   - (4) Participants must have a mobile phone device and be willing to be complete the test on said device
 
+**Definition of low vision:**  For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night. 
+
 #### Technical requirements
 
-- Perigean: please ensure participants have Zoom downloaded prior to the session
-- Participants are willing and prepared to screenshare
+[**Note for Perigean:** ]
+ - Please ensure participants have Zoom downloaded prior to the session
+ - Please ensure participants are willing and prepared to screenshare
 
 ### Secondary criteria / would like to have -
 
-At least:
+At least: **Josh: updated based on VA statistics for marginalized groups**
 
-- 2 females
-- 2 participant of color
-- 1 participant 35 or under
-- 1 participant 36 - 45
-- 1 participant 46 - 55
-- 1 participant 56 or over
-- 1 participant that does not have a college degree
-- 1 participants living in a rural or remote area
-- 1 participant living in a major metropolitan area
-- 1 participant living in an urban area
+- 4 participants over the age of 56
+- 4 participants with a cognitive disability
+- 2 participants of color
+- 2 participants living in a rural or remote area
+- 2 participants with no college degree or professional certificates
+- 1 female
+
 
 ## Timeline 
 
 [Preliminary dates]
 
-- Study dates: April 21 - April 30, 2021
-- Pilot session: will be held on Monday, April 19, 2021
+- Study dates: May 19 - 27, 2021
+- Pilot session: will be held on Mon, May 17, 2021
 - Session length: 1 hour
 
-#### Availability: Time in Eastern
-- Wed 4/21: 8a, 10a, 12p
-- Thu 4/22:  8a, 10a, 12p
-- Fri 4/23:  8a, 10a, 12p
-- Mon 4/26:  8a, 10a, 12p
-- Tue 4/27: 8a, 10a, 12p
-- Wed 4/28: 8a, 10a, 12p
-- Thu 4/29: 8a, 10a, 12pp
+#### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
+- Wed 5/19: 8a, 10a, 12p
+- Thu 5/20:  8a, 10a, 12p
+- Fri 5/21:  8a, 10a
+- Mon 5/24: 12p
+- Tue 5/25: 8a, 10a, 12p
+- Wed 5/26: 8a, 10a, 12p
+- Thu 5/27: 8a, 10a, 12p
 
 ## Team Roles
 
 - Moderator: Leyda Hughes leyda.hughes@adhocteam.us
+- Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us
 - Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
@@ -137,9 +144,10 @@ At least:
 Participant(s) for pilot test: 
 - michelle.middaugh@adhocteam.us
 - angela.fowler@adhocteam.us
+- josh.kim@adhocteam.us
 
 
 #### Observers (*include in Slack Channel):
-- *Dave Conlon david.conlon@va.gov
-- *Michelle Middaugh michelle.middaugh@adhocteam.us
-- Notetaker (perigean)
+- *Dave Conlon: david.conlon@va.gov
+- *Michelle: Middaugh michelle.middaugh@adhocteam.us
+- Notetaker: (perigean)

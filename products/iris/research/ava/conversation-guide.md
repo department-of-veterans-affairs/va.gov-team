@@ -79,23 +79,29 @@ In order to get the most out of this session, I would like to be able to see you
 
 ## Usability Tasks - Submitting an Inquiry
 
-**Scenario 1**
 *Send them a link via the zoom chat to [https://www.va.gov/](http://www.va.gov)*
 
-If you needed to reach out to VA to ask a question about a debt waiver, how would you go about doing that?
+If you needed to reach out to VA to ask a question about a debt waiver (or a claim status), how would you go about doing that?
 *If necessary, guide them to the “Ask a question online” link. Once the page loads, proceed.*
 
-**Scenario 2 (School Certifying Officials only)**
-*Send them a link via the zoom chat to [https://www.va.gov/](http://www.va.gov)*
+**Findability Questions**
+*If user finds it*
+* Does this link placement make sense?
 
-If you needed to reach out to VA to ask a question about how to upload a document on behalf of a veteran, how would you go about doing that?
-*If necessary, guide them to the “Ask a question online” link. Once the page loads, proceed.*
+*If user does not find it*
+* Can you explain to me why you looked where you did?
 
-**Guide for Both Scenarios**
+*Once the participant accesses the correct link, send them the link to the [AVA dev link](https://dvagov-veft-qa.dynamics365portals.us/)*
+
+**First Impression Questions**
+
+* What questions do you have about the content on this page?
+* Does anything need explained?
+* Does anything need added or removed?
 
 As you walk through the process of submitting an inquiry, please think out loud. Let us know of any problems or questions you have. Again, we are not testing your ability to fill out the form, we’re testing whether or not the form is easy to use.
 
-Imagine you accessed this page in order to ask the VA a question about (refer to scenario 1 or 2 depending on tester).
+Imagine you accessed this page in order to ask the VA a question about (refer to scenario decided upon).
 * Can you walk me through how you would submit a question?
 * What is confusing about this inquiry form?
 * What questions do you have on how to fill it out?
@@ -111,26 +117,19 @@ Imagine you accessed this page in order to ask the VA a question about (refer to
 * Were there any errors in the users submission?
 * Was the user able to successfully use the “Look Up Modal” features?
 
-## Logging In
-*Send the user the link to the Ask VA login prototype*
-
-PUT THE LOGIN QUESTIONS HERE
-I’m not sure of the order (test login first, then the form or the other way around). 
-* We could have them test logging in or walk through that, get their expectations on logging in, then have them fill out the form logged out
-* Or could have them fill out the form the form unauthenticated, then test the login experience and ask how they think logging in would change the experience.
-
 ## Follow Up Questions
 
 Thank you for working through that. Now we have a few closing questions.
 
+* How did Ask VA compare to what you expected when submitting a question online?
 * Would you use the Ask VA tool we just tested today?
   * Why or why not?	
 * What did you like about Ask VA?
 * What was frustrating about Ask VA?
-* What are your thoughts on the language used in the product during this task?
+* What about the Ask VA form was difficult to understand?
 * Does anything within this product seem out of place or unnecessary to you?
 * Is there anything in this process we didn’t cover today that you think we should know about?
-  * Is there anything we should change?
+* Is there anything we should change?
 
 ## Wrap-up and close
 

@@ -17,20 +17,11 @@
 
 - If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
 
-### My VA 2.0 project KPI tracking
+### PM priority: My VA 2.0 project KPI tracking
 
 -	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
 
-### Run usability testing on My VA in production
-
-**When**: Post-launch; Should take no more than 1 month
-
-**Objectives**: 
--	Assess usability of the tool with veterans’ real information.
--	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
--	Post-testing, determine next steps and how improvements might fit into roadmap.
-
-### Run experiment(s) on how we can better elevate action items
+### Designer priority: Run experiment(s) on how we can better elevate action items
 
 **When**: Post-launch; May take the full quarter
 
@@ -41,6 +32,16 @@
 
 -	Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy.
 -	The debt management team has been reaching out to us since spring 2021 about adding a debt-related notification to My VA. This could be something to consider in any experiments or updates.
+-	We already have two notifications on the dashboard — "You have X unread messages" and claim status updates. These could also be good starting points.
+
+### If time: Run usability testing on My VA in production
+
+**When**: If time in Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
+
+**Objectives**: 
+-	Assess usability of the tool with veterans’ real information.
+-	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
+-	Post-testing, determine next steps and how improvements might fit into roadmap.
 
 ### Q4 2021 (October - December)
 
@@ -105,4 +106,10 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ## VA.gov Profile: User roles & permissions
 
-**When will we have insight into when this work is kicking off and what is required for this team?**
+Things we need to figure out:
+
+- When will this work start? Will it start while Samara is on maternity leave (Q3)? Or will the auth. experience team not be involved until Q4?
+- How can we ensure that the user roles & permissions work can start without taking the auth. experience team away from current projects and committments but also doesn't hold up user roles & permissions work?
+- Does the auth. experience team need to help with discovery?
+- Who is defining MVP features for the profile and My VA dashboard re: new user roles & permissions?
+- Long-term maintenance: how do we enhance and grow the profile and My VA dashboard for both veterans and a new user type?

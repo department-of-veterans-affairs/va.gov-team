@@ -46,3 +46,18 @@
   - Made a successful connection test to the API
   - As expected, the API provides communication groups, type, and channel
   - All the text is going to come via the API to ensure consistency anywhere it's used, so we won't be providing that. For example, if someone is considering their preferences for appointment reminders, if the API provides the text "Healthcare appointment reminders" we could not change that to "Reminders for upcoming healthcare appointments".
+
+#### Comparative analysis
+
+Reviewed notification settings sections of several websites and apps including: Citibank, Bank of America, USAA, Blue Cross Blue Shield, MyChart, Github, Facebook, and Amazon
+
+**Notable findings **
+
+- Section is most commonly  labeled `Notification settings` or `Communication preferences`
+- Came across several instances of inputs side-by-side in a horizontal, tabular layout.  This goes against a11y best practices and our VA.gov style guidelines for [checkboxes](https://design.va.gov/components/form-controls#guidance-3) and [radio inputs](https://design.va.gov/components/form-controls#guidance-4).
+- A toggle instead of a checkbox or radio button is common.  Considered this, but decided against using for our MVP since it introduces complexities:
+  -  New component for VA.gov, not available in design system (more approvals/reviews likely required)
+  - Toggles present a11y issues that add complexity to our MVP and usability testing plan
+- Sites with many notification options (threshold was about 10+) organize notifications within a collapsed group
+  -  Clicking on the group expands an accordion (Amazon, MyChart, CitiCards, Facebook)
+  - It was 50/50 whether there was a save button or autosave feature.  Autosave usually had toggles instead of other inputs

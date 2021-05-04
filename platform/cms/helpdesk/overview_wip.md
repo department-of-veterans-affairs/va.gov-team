@@ -68,6 +68,8 @@ Table of Contents
 - [Government Roles the Help Desk Provides Support to](#government-roles-the-cms-help-desk-provides-support-to)
 	* [VISN to Facilities Index](#visn-to-facilities-index)
   	* [VISN 19:  Veterans Affairs and Veterans Health Administration](#visn-19--veterans-affairs-and-veterans-health-administration)
+
+- [Governance](#governance)
    
 # Help Desk Overview
 ## Mission
@@ -412,7 +414,7 @@ Find guides on editing VAMC information based on its content type in the CMS.
 
 #### CMS Environments
 
-CMS non-prod Environments (default password drupal8) 
+CMS non-prod Environments (default password _______ ) 
 
 [Staging](https://staging.cms.va.gov/)
 
@@ -474,7 +476,7 @@ Go to the Main Content page and filter by “Benefits hub landing page” in ord
 Check user permissions.
 
 ### How to Update Contact Info
-VAMC Facility centralized information must be changed in the VA’s National Database.  Instructions can be found at https://vaww.va.gov/WEBCOM/VAMCFacilityLocationUpdates.asp
+VAMC Facility centralized information must be changed in the VA’s National Database.  Instructions can be accessed only while connected to the internal VA network at https://vaww.va.gov/WEBCOM/VAMCFacilityLocationUpdates.asp
 
 ## Subject Matter Experts
 #### SW
@@ -514,3 +516,9 @@ VAMC Facility centralized information must be changed in the VA’s National Dat
 ## VISN to Facilities Index
 #### VISN 19:  Veterans Affairs and Veterans Health Administration
 <more to add later if value exists for the data>
+	
+## Governance
+	Pages throughout the CMS are built dynamically by the "Front End" code.  Defects or changes to the code can affect how pages are built and any change request or defect should be communicated through Slack using the appropriate governance for the page affected:
+	#cms-product-triage
+	#vsa-public-websites
+	#vsa-facilities

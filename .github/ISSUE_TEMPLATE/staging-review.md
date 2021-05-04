@@ -26,7 +26,7 @@ assignees: andreahewitt-odd, Shiragoodman
 - Link to the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 -  Staging test-user information (if applicable)
 -  Link to content brief (if applicable)
--  Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
+-  Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
@@ -39,7 +39,7 @@ OR
 ## Meeting attendees from requesting team
 - Product Manager (required): name
 - DEPO Product lead (recommended): name
-- DEPO Design lead (recommended): Ryan Thurlwell
+- DEPO Design lead (required): Ryan Thurlwell
 - Anyone else from your team who significantly contributed to the artifacts provided (required): name(s)
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
@@ -53,4 +53,4 @@ Please note:
 - Please select a time slot at least 4 business days from request date.
 
 ## Additional information
-Please refer to the [VSP Collaboration Cycle README](https://docs.google.com/document/d/1_1gGJW6Go0Kk-H5jttDbQIZrcbKTst9gSZnXKVdeQSg/edit?usp=sharing) on Github for more information about the Collaboration Cycle.
+Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.

@@ -33,7 +33,7 @@ _List of products within your team's perview - make sure the list of products he
 
 ### Team Members:
 
-- Team Product Manager: Andrea Hewitt (interim)
+- Team Product Manager: Jeff Dunn
 - BE Dev Lead: Eric Boehs
 - BE Dev Engineer: Lindsey Hattamer
 - BE Dev Engineer: Travis Hilton

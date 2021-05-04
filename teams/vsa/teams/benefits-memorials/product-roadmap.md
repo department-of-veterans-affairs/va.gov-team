@@ -7,7 +7,7 @@ Updated April 2021
 | 526 Enhancements |  Discovery|
 |Benefits Delivery at Discharge| Launched  |
 | Higher Level Review | Launched |
-|Notice of Disagreement| Launched |
+|Notice of Disagreement| Underway |
 | Claims Status Tool | Not started  |
 
 
@@ -23,7 +23,7 @@ Updated April 2021
 |Project or enhancement|Status|
 |----|----|
 |Benefits Delivery at Discharge | Complete |
-|Notice of Disagreement | Complete|
+|Higher Level Review | Complete|
 |TBD | - |
 |TBD | - |
 |TBD | - |

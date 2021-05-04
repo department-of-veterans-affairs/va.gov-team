@@ -1,7 +1,11 @@
 # Accessibility post-launch audit processes
 Post-launch audit processes are designed to evaluate applications and static content using a wider set of devices than the [accessibility staging review](./staging-review-processes.md). The post-launch audit is the last evaluation before requesting a VA 508 office quick test.
 
-You should [file a "Full Accessibility & 508 Office Audit" issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) when your application is relatively code-stable in production. Ideally all issues identified during the staging review have been fixed ahead of the post-launch audit request.
+You should [file a "Full Accessibility & 508 Office Audit" issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) when your application is relatively code-stable in production. All accessibility defects that were identified at Staging Review must be fixed before requesting a full audit.* 
+
+**Note:** This touchpoint should be scheduled as early as possible.
+
+_* VSP understands that other teams may be accountable for fixing the defects identified at Staging Review. These defects are exempt and will not block a team from scheduling this touchpoint._
 
 ## How The post-launch audit is different from a staging review
 The post-launch audit will focus on manual testing with mobile and assistive technology:

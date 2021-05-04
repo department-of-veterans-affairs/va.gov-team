@@ -16,6 +16,20 @@
 
 </details>
 
+## April 15 , 2021
+
+***DISCUSSION TOPICS:*** 
+
+ - [ ] POC2 Analytics
+ - [ ] Results Metadata Descriptions 
+ - [ ] Acronymns
+
+***GROOMING***
+ - [ ] Search.gov Front End #21793
+
+ ***NEXT STEPS/ACTIONS:***
+ - TBD
+
 ## April 1 , 2021
 
 ***DISCUSSION TOPICS:*** 

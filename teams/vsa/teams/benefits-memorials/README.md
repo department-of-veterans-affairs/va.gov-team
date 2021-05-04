@@ -91,7 +91,6 @@ First line is always Matt and Ronnie. However, our channel #vsa-claims-appeals i
 |DSVA Product Manager   |Matt Self                           |matt.self@va.gov                |
 |Team Product Manager   |Veronica Henry                      |vhenry@governmentcio.com        |
 |Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
-|Back-End Engineer      |Ed Mangimelli                       |ed.mangimelli@adhocteam.us      |
 |Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
 |Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
 |Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |

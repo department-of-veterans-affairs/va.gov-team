@@ -61,6 +61,8 @@ Examples from reading:
 
 General consensus appears to be that person-first language is still okay as a general approach (and is still best practice in instances such as "person with cancer" rather than "cancer patient"). But we must continue to review and get feedback from people within these communities.
 
+- **Note:** Need to address person-first language that I'm noticing in things like footer links and taxonomy (ie, "homeless Veterans" instead of "Veterans experiencing homelessness" and "Minority Veterans").
+
 ### Race and ethnicity
 
 - Need to add notes here from research

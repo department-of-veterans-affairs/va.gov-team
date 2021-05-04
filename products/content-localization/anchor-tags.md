@@ -11,6 +11,8 @@ https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
 
 **Problem Statement**
 
+Epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/19337
+
 Today, question/answer links are not automatically generated in a way that's easily accessible by visitors to the Coronavirus FAQs page. Someone seeking a llink to a specific FAQ would need to go into the 'inspect' element in their browser to find the link; most users won't bother to do that, even if they know how.
 
 So when a vet, caregiver or customer service representative wants to direct someone to a specific question/answer on the Coronavirus FAQ page, they can only share a link at the page level leaving it up to the recipient to navigate through the long list of information to find the specific content they seek. This can be frustrating and time-consuming.
@@ -27,7 +29,7 @@ Undesired User Outcomes
 
 - Adding an icon and feature that users don’t engage with
 - Causing confusion with the introduction of a new icon and feature
-- 
+
 
 Desired Business Outcomes
 
@@ -62,7 +64,7 @@ To determine whether our experiment is delivering value to users, we will initia
 
 To measure feature engagement, we will look at:
 - CTR for anchor links
-- Number of links shared vs 
+- Number of links shared 
 - Number of page views originating from a shared link
  
 **Assumptions**
@@ -81,15 +83,12 @@ _What have you explicitly decided to not include in this initial set of function
 
 _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
 
-- To make the solution scale site-wide we will need to ……
- 
+
 **Go-to-market Strategy**
 
 _How are Veterans and others using this product going to know it exists?_
 
 - Will coordinate with contact center leads and provide training materials.
-
-- Anything else?
 
 _What marketing, outreach, or communications are necessary for this product to be successful?_
 
@@ -101,13 +100,13 @@ Launch Dates
 
 Target Launch Date
 
-- tbd
+- May 3, 2021
 
 Actual Launch Date
 - tbd
 
 _What date will you evaluate impact after launch?_
-- 30 days? 60 days?
+- 30 days
  
 Screenshots (to be added)
 

@@ -21,13 +21,85 @@
 
 </details>
 
-## Friday Apr 15
+## Friday May 7
+* Help desk
+* Issue, when facility is removed in VAST/deleted, how do we remove facility from CMS?
+*   Example:  Elizabeth VA Clinic in (Elizabeth, NJ) VA New Jersey health care (VISN 2)
+*   
+
+
+## Friday April 30
+
+* Help desk
+  * Staffing changes -> Reduced capacity, SLA changing to 9am to 5pm ET.
+  * VAMC upgrade team will help set expectations that responses will not be immediate. 
+  * CMS team will be communicating to users
+  * Weekly meetings for VAMC editors to focus on common issues, working towards a community of practice and FAQs.
+  * VAMC support email is now auto-forwarding to Jira, and we are responding from Jira instead of email.
+* Pause on VAMC launches
+  * Tentative: Finger Lakes (very unique) and Hudson Valley, Central Iowa and St Cloud 
+* Policies page launch for Butler and beyond
+  * Only VISN 4 and 19 have links from Prepare for your visit accordion to the old Policies page. 
+  * Broken links reports––forward to VAMC upgrade team. 
+* Menu governance (Kevin)
+  * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
+  * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
+  * Set up some co-working next week on Pittsburgh menu and IA changes 
+  * Dual state menu and IA changes 
+
+## Friday Apr 23
+
+* Help desk triage updates
+  * Flagging/labeling: triage channel when action needed.  Treat other emails as "FYSA". 
+  * CMS team will continue to gather materials in one place so systemic analysis can be done generating canned help desk responses, improvements to UI, training. 
+* VAMC policies page rollout (Kevin)
+  * Background: FE is ready to go. Form is ready to go. 
+  * What's the first VAMC to go past dual state? Is there one with a highly responsive editor? Thsi would be a good candidate for the trial rollout next week.
+  * Look at list of Top Task pages that have been edited and by who.
+  * How many of these pages have had their local content edited
+  * What's the cloning procedure
+  * Adding this to VAMC runbooks
+* Menu governance (Kevin)
+  * New restrictions on menu options for non-content admins, launching next week. (Kevin will do a quick demo)
+  * Setting up "Programs" and "Research" detail pages as (Menu Disabled) and archived until site releases them to load new pages.
+  * Set up some co-working next week on Pittsburgh menu and IA changes 
+  * Dual state menu and IA changes 
+* Loading (Story/News release) Listing pages with placeholder
+* Update on archiving facilities (Steve)
+  * Facilities can be archived, but the FE defect that lets unpublished facility services go to prod was breaking this, because the links were still appearing within the System health service accordions.
+
+
+## Friday Apr 16
 
 * any outcome from training meeting from Tuesday 12
-* help desk triage
+  * Went well, walked PAOs through a lot of issues they were having
+  * All attendees were active on prod and had completed training
+  * May step up to once a week
+  * Stan producing an artifact, and meeting was recorded.  
+  * What is the right flavor of artifact to pull insights from
+    * What can we learn about training (improving videos)
+    * What can we learn about editorial experience
+    * What can we learn for product iterations
+  * Next one is April 27
+* Help desk triage
+* Reinforce directing folks to `support@va-gov.atlassian.net`
+  * When emails are sent directly, reply with a `TO:` to this email address
+  * Update signatures on va.gov email to include support email address
+  * We're trying to kill off `vacmssupport@va.gov` email address, so remove where we see it
+  * Lisa and Stan to check on emails
+  * Do we need to update users or any other artifacts that have the old email address
 * Go-live timeline
-* Validate runbook for Go-live (separate meeting with Facilities)
+* Validate runbook for Go-live (separate meeting with Facilities) 
+  * Stan will set up. 
 * Account creation
+* Account Permission - Publishing (e.g. VISN level permissions to publish?)
+  * A few PAOs have VISN level responsibilities
+  * Eg at VISN 21, a publisher has access at VISN level, but should have access only to certain VAMCs
+  * Lisa to update Ero about Sections needs for these folks
+  * VAMC dual state rollout can try to group these together 
+* Update on any CMS changes or updates that VAMC needs to be aware of that may impact production. (i.e. Removing generic FHS)
+  * 
+
 
 ## Friday Apr 8
 

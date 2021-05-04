@@ -384,9 +384,14 @@ FE
 
 ## Sprint 46 (4/21 - 5/4)
 
+### Profile
+
+- AJ and Liz to break down #19562 into more manageable tickets
+- As time allows, Liz to start tackling said tickets
+
 ### My VA redesign
 
-Prep for QA!!
+**Prep for QA for sprint 47!!**
 
 **PM**
 
@@ -395,58 +400,145 @@ Prep for QA!!
   - Reviewing the feature
   - Making sure Tressa has reviewed the feature
   - Talking with Erik and Sandra to make sure we are 100% going to be ready for QA
-- Request QA for following sprint pending team's "go"
+- Request QA for following **second half of this sprint** pending team's "go"
+  - **Note**: This may get moved to sprint 47 pending Tze's availability re: the COVID-19 vaccine.
 - Assist Tressa in finishing contact center guide
 - Submit contact center guide for [contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-contact-center-review.md) once the contact center guide is done
 
 **Design**
 
 - Finish contact center guide
-- Review feature and give final sign off for QA
+- Attend QA go/no-go
 
 **FE**
 
 - Any updates as needed from pre-QA review
+- Attend QA go/no-go
 
 ### Direct deposit for edu
 
 **PM**
 
-- Launch to 100%
-- Confirm date of retirement of feature on eBenefits
+- Oversee launch to all users #23215
+- Samara to confirm date of retirement of feature on eBenefits
+
+**FE**
+
+- Launch to all users #23215
+- Figure out more specific error labeling for errors on the GA dashboard
+
+**BE**
+
+- Look into why the failed retrieval rate is so high #23248
 
 ### Preferred medical facility 
 
+**VAOS will be starting on design**
+
+**PM**
+
+- 5/3 planning regroup with VAOS
+- Samara/AJ to talk to Lauren about KPI planning
+- Start working with Liz on list of test cases/test users for the profile
+
+**Design**
+
+- Collaborate with Peter as needed on design
+- Start working with AJ on list of test cases/test users for the profile (though final test case doc won't be completed this sprint)
+- Start on research plan (though we won't be able to finish this sprint)
+
 ### Notification preferences
+
+**PM**
+- Samara to do KPI planning
+- Check in with VA Profile on progress re: final list of MVP notifications
+
+**Design**
+
+- Start on research plan
+
+**FE**
+
+- Technical discovery #22597
 
 ## Sprint 47 (5/5 - 5/18)
 
 ### My VA redesign
 
-### Preferred medical facility 
+**PM**
 
-### Notification preferences
+- Check in on analytics — Do they need anything from us? Any updates? #23336
+- Begin filling out ticket for [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+- Begin filling out ticket for [privacy review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+
+**Design**
+
+- Accessibility tests for staging review
+- UAT research plan, if not already done
+- UAT convo guide, if not already done
+- If UAT work is not already done, start thinking around [post-launch experiments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/samara-leave-planning.md#designer-priority-run-experiments-on-how-we-can-better-elevate-action-items)
+
+**FE**
+
+- Accessibility tests for staging review
+- Technical docs for privacy and security review
+- If time/needed, start on QA fixes
+
+**QA**
+
+- Conduct QA #23242
+
+### Preferred medical facility 
 
 **PM**
 
-## Sprint 48 (5/19 - 6/1)
+- Coordinate on ticketing and meetings with Lauren Ernest as needed
 
-### My VA redesign
+**Design**
 
-### Preferred medical facility 
+- Work with Peter to make sure design *and copy* is finished
+- Liz to run mini study
+- IA review for this work
+- Collab with Peter on convo guide for research
 
 ### Notification preferences
+
+**Design**
+
+- Content review to finalize items and groups
+  - Share these with VANotify and VEText for concurrence
+  - Share back to VA Profile team
+- IA review #23286
+
+**FE** 
+
+- Tech discovery if it didn't happen #22597
+- If tech discovery did happen, start build
+
+### Direct deposit
+
+- Continue to monitor analytics
+
+### Profile
+
+**PM**
+
+- Work with Liz to compile and send a list of latest updates to the mobile team
+
+**Design**
+
+- If time, any high priority accessibility or other profile updates
+
+**FE**
+
+- If time, high priority accessibility tickets
+
+### Backend work
+
+- Lihan may me able to help the identity team with user roles and permissions discovery. TBD. Working with Christine Dillman on this.
+
+## Sprint 48 (5/19 - 6/1)
 
 ## Sprint 49 (6/2 - 6/15)
 
-### My VA redesign
-
-### Notification preferences
-
 ## Sprint 50 (6/16 - 6/29)
-
-### My VA redesign
-
-### Preferred medical facility 
-
-### Notification preferences

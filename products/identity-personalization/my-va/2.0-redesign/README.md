@@ -302,9 +302,13 @@ The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the lis
 
 - [My VA use cases MURAL board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 - [My VA data points spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
-- My VA InVision documentation 
+- My VA InVision documentation V1 
   - [Desktop](https://vsateams.invisionapp.com/share/RNZWCZBXZJ6#/screens/443777220)
   - [Mobile](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/screens/443913926_My_VA_Mobile_Icons)
+
+- My VA InVision documentation V2 
+  - [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM)
+  - [Mobile](https://vsateams.invisionapp.com/share/GC10HT8RSMQN)
 
 ### Screenshots
 

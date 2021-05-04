@@ -12,9 +12,31 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
-###  2021
+### April 2021
+
+
+#### April 26 - April 30: Virtual Agent interviews
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 7
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+
+- List of keywords: Veterans, Virtual Agent, Chatbot
+
+
+#### April 8 - 13: Check-in (Veteran-facing) Remote Discovery Research
+*Healthcare Experience, Lead Researcher: Kristen McConnell*
+
+- Number of participants: 11
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery)
+
+- List of keywords: Veterans, appointments, check-in, pre-check in, virtual appointments, kiosk, staff members, text message check-in, digital check-in, medical appointments, lab tests, pharmacy, contact information, next of kin, insurance, beneficiary travel mileage
+
 
 ### March 2021
+
 
 #### March 22 - April 5: Board Appeals (NOD) usability testing
 *Claims and Appeals, Lead Researcher: Christian Valla*
@@ -24,6 +46,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
 
 - Keywords: Board Appeals; Notice of Disagreement;
+
+#### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 41
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 ### February 2021
 
@@ -63,6 +91,12 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants: 10
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research)
 - List of keywords: Global Search, Find a Form, Find a Facility, On-site Search
+
+#### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
 *VA Online Scheduling, Lead Researcher: Peter Russo*

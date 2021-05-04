@@ -4,7 +4,9 @@
 `James Adams, designer`
 
 ---
-<!--
+
+`Work-in-progress`
+
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
@@ -12,23 +14,24 @@
 - **Note:** These sessions will be recorded
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is direct deposit for educational payments.
+Good morning/afternoon and thank you for joining us today. I'm Jim, and with me are a few colleagues who are helping-out by observing and taking notes. We're part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the Certificate of Eligibility for VA-backed home loans.
 
 There are a few things I need to mention before we start:
-- The session should take about 30 minutes. But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
-- We're not testing **you** in any way--there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
-- Please say what's on your mind--good and bad. I will not be offended by any opinions you express.
-- Today we'll be working with a prototype of a feature we're developing. Most things we're testing will work, but a lot of what you see isn't functional. But because we're using prototypes, none of your actions will affect your account or any VA information.
-- We'd like to record this session. This'll give us a record to use for note-taking. We'll store the recording on a private drive, and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
+- The session should take about 30 minutes. But you can end it at any time--just let me know. We have quite a few things to cover, so I may break-in occasionally and move us to the next item.
+- We're not testing **you** in any way--so there are no right or wrong answers. We need to hear your thoughts and ideas about what we show you so that we can make improvements to the tool we're working on.
+- So please say what's on your mind--good and bad. I won't be offended by any opinions you express.
+- Today we'll be working with a prototype. It's not the "real thing," but most things we're testing will work. We'll have you walk through the tool and enter information, but because we're using prototypes, none of your actions will affect your account or any VA data.
+- We'd like to record this session. This'll give us a reference for note-taking. We'll store the recording on a private drive, and we'll delete it when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - I'll ask "on the record" once the recording starts.
-- OK, now that I'm recording, do I have your permission to record this session?
+- (Start recording) OK now, do I have your permission to record this session?
 
 ## Warm-up
-- Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
-- Do you receive direct deposit payments (of any kind) from VA?
-- (If "yes") How did you set up your direct deposit? if you had to change it, what was that experience like?
-- (if "no") How do you receive payments from VA?
-- How often do you visit the eBenefits site? How about VA.gov?
+- Please tell us a little bit about yourself? Maybe start with your service experience...
+- Have you applied for a VA-backed loan before?
+- (If "yes") How did that go, what was your experience?
+- (if "no") What do you know about VA home loan benefits?
+- What do you know about a VA Certificate of Eligibility?
+- What VA sites have you used in the past? What did you do there?
 
 OK, we'll be doing a couple of things today: 
 - First, well take a quick look at the VA.gov home page to get an idea of where you might look for the new feature
@@ -38,69 +41,71 @@ OK, we'll be doing a couple of things today:
 ### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- Here's a scenario: you moved changed banks so you need VA to make deposits into your new account.
-- You heard there was a place on VA.gov that you could update your direct deposit info for your education payments, where would you go to make a change?
+- Here's a scenario: you're looking to buy a new home and a lender told you you'd need a Certificate of Eligibility (COE) from VA.
+- You heard there was a way on VA.gov to apply for a COE, where would you look for that?
 - This is the actual home page; you're free to click on anything.
 
 #### Things to look for:
 - What is the user's thought process?
 - What interactive elements does the user look for (e.g. menu, links, footer...)?
-- What content/section does the user expect to find the educational direct deposit feature?
-- Where does the user's search end? Do they make it to the DD landing page? Do they consider logging-in?
+- What content/section does the user expect to find COE information and the form itself?
+- Where does the user's search end? Do they make it to the COE landing page?
 
 ## Usability tasks
 User is directed to the prototype.
-- I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
-- We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
-- Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
-- For the purpose of this test, we'll go with what we said earlier: you moved changed banks so you need VA to make deposits into your new account.
-- You've come to this page and want to change your direct deposit information; what do you do next?
+- I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to COE prototype)
+- We'll be using made-up scenarios that may not really apply to you. We'll be filling-out a small form, and you can type-in anything--fake names and numbers are fine. 
+- Nothing will be submitted because this is a prototype.
+- For the purpose of this test, we'll continue with what we said earlier: you're looking to buy a new home and your lender said you needed a Certificate of Eligibility.
+- So you've come to this page; what do you do next?
 
-### Task 1 / View direct deposit info / 5 minutes
-User reviews direct deposit information available for one or both payment types.
+### Task 1 / Automatic COE scenario / 5 minutes
+User reviews VA Form 26-1880 intro screen, then signs-in to reveal an automatic COE link.
 - Take a look at this screen and describe what you see.
-- Now **find the direct deposit information for educational payments.** What info do you see?
-- Describe what else is on this screen? ...What other payments types do you see?
-- Why do you think there are two sets of payment info?
-- If you thought you were the victim of bank fraud, what can you do?
+- If you wanted to apply for a COE, what would you do first?
+- (Participant signs-in) What just happened?
+- What is your next step?
+- If you left this page, what do you think would happen to your COE/link?
 
 #### Things to look for:
-- How quickly does the user find the DD info?
-- How do users react to **two** types of DD info on the screen? Why do they thing there are two?
-- Can users quickly locate the "fraud" box at the bottom of the screen?
+- How quickly does the user determine they need to sign-in to access the form?
+- How do users react to the automatic COE notification?
+- What do users expect will happen to the COE/link??
 
-### Task 2 / Change direct deposit info / 10 minutes
-User changes the direct deposit info to a "new" savings account.
-- Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
-- How often have you updated your info? 
-- If this were real information, what would expect to happen after you updated? 
-- How long do you think that would take?
-
-#### Things to look for:
-- Do users immediately use the correct edit function (education)?
-- Do users find the inline editing easy-to-use?
-- Do users understand the tell-me-more accordion? Is the info regarding account and routing numbers clear and understandable?
-- Are users satisfied with the success messaging?
-
-### Task 3 / One payment type only / 5 minutes
-User advances to a screen showing only compensation and pension direct deposit info.
-- Take a look at this screen and describe what you see.
-- Now **find the direct deposit information for educational payments.** What info is there?
-- If you thought you should also be receiving comp & Pen payments, what can you do?
-- Let's say you know this is right, and you don't get educational payments. How do you feel about the C&P box?
+### Task 2 / Missing info scenario / 5 minutes
+User goes back to VA Form 26-1880 intro screen, then signs-in with bottom link to advance to the "missing info" intro screen.
+- So sign-in again, but this time use the button below all the process information.
+- What happened here? What's different?
+- What should you do in this case? 
+- Please continue through the form.
 
 #### Things to look for:
-- How do users react to the "You don't receive payments" messaging?
-- What alternatives (if any) would users expect when they don't receive one or the other type of payment?
-- Would users gravitate toward the View Payment History link at all?
+- Do users immediately see the "missing info" notice?
+- How do participants feel about this path vs. the automatic COE scenario?
+- Do users expect any further guidance on next steps? how easily/quickly do they find how to proceed to the form?
+
+### Task 3 / Complete 26-1880 / 10 minutes
+User continues through the form.
+- We've put some fake information in this form, but in some place you can make changes.
+- You're free to type-in whatever you want--since this is a prototype, it won't submit or change anything in the system.
+- Other questions as situation dictates...
+
+#### Things to look for:
+- Where in the form flow do users stop or get confused?
+- What language do participant find confusing?
+- What additional info would help users and where?
+- What information do participants expect on the confirmation screen?
+- Do participants know what they should do next?
+- Are users satisfied with the various avenues for following-up?
 
 ## Final thoughts
-- Where could you find a record of payments made to you? What other features might be helpful on this screen?
-- What on the site would you do/look at next?
-- How could we make things more clear?
+- Once your COE is issued, how would you like to receive it?
+- If we could store it for you on VA.gov, where would you want that to be?
+- How could we make things easier or more clear?
+- If this was the actual VA.gov site, what would you do next?
 
 ---
--->
+
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here. Is there anything else you'd like us to know--something we didn't cover about the screens we looked at, or VA.gov in general?
 

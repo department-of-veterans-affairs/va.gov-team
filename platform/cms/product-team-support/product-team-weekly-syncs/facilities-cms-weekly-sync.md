@@ -21,11 +21,113 @@
 
 </details>
 
+## Wednesday, May 5
+
+* Nightwatch 
+  * Upcoming meeting with Testing Tools team to discuss implications 
+* Vet Center 
+  * centralized content (FAQs and Nat'l featured content)
+  * training for national editors
+  * Breadcrumbs: when to use array vs derive from url?
+VAMC 
+* Policies Page rollout (quick report)
+* Meta tags for VAMC 
+  - Design guide update
+  - Implementing change
+    - pros/cons for hard coding into FE or overriding in CMS
+
+
+## Wednesday, April 28
+
+- Defects caused by missing expected data
+  - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
+  - Content, such as 
+    - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404) 
+      - New issue for to consider default headers [#23974](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23974)
+    - Unpublished facility health services on prod [#23470, in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23470)
+    - Draft location #23481.
+  - **Action:** Followup cross-team principle about where and when to be defensive about missing data (eg links, phone numbers, images)
+    - Make the page fail, not the broken link?
+    - Filter via GraphQL?
+- Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
+  - Nightwatch will start failing build starting May 11 for issues like this
+  - CMS help desk may be able to resolve some of these issues in a way thatt reduces this in the future, by teaching editors as we go
+  - CMS and other teams could identify ways of reducing issues in CKeditor or elsewhere
+  - We can add items to Training backlog 
+  - Monthly review of new issues that have arisen? 
+- Policies - status on releasing hardened content 
+- Vet Center FAQs and Vet Center Featured Content - Centralized content
+  - [#5159](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5159) Short term solution for Vet Centers, will require FE followup
+  - [#5160](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5160) Longer term solution to allow for more complex Centralized content.
+
+- Default for Type of care attribute
+  - Type of care is optional, unsure what the default should be if empty... "Other services"?
+  - Michelle creating issue to track this -> [#23975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23975) 
+
+## Wednesday April 21
+
+- [#5053 Policies cutover runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
+
+
+
 ## Wednesday April 14
 
-* Tugboat feedback
-* Documentation for VAMC menu / IA governance  
-* Breadcrumbs for Vet Center
+Centralized content
+* ~Policies -> `target types`([Slack convo](https://dsva.slack.com/archives/C0FQSS30V/p1618337427209400))~
+  * As new paragraph types are added to a fetch field, our CI will catch this and CMS team will work with product team (pointing to Michael's work as an example) 
+
+Tugboat and previewing content
+* CORS issue: Fonts working now, but API calls to Facility.
+  * Tugboat URLs are dynamically generated and CORS can't whitelist all of them
+  * Michelle and Kevin will track down Ops issue, Dave could bump this.
+* Liquid template filter converting some links to target=_blank
+  * may be failing based on domain
+  * Michelle and Michael can reproduce and document this
+  * Dave: not a show-stopper
+
+Vet Centers
+* ~Mobile Vet Centers~ 
+* Breadcrumbs for Vet Center and VAMC
+  * Richmond Vet Center is showing as Richmond vet-center
+  * similar problems on VAMC product
+  * Kev to create issue to investigate Drupal as source of truth for breadcrumbs that do not have menu items, and send to Michelle and Mikki
+    * Examples: Events, News releases, all Vet Center content types, Stories, Staff profiles, other content types that don't typically have menu items.
+  * Relevant Facilities issue [#20922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20922)
+
+Policies
+* ~Tugboat and features flag for Policies page~
+
+VAMC
+* Documentation for VAMC menu / IA governance
+* ~Default images for facilities~
+* Unpublished facility health services are visible on va.gov if the system health service is published.
+  * CMS has issue for enforcing unique content
+  * Facilities team to filter out unpublished facility health service [#23256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23256)
+  * VAMC upgrade team to stop the bleeding on dupe content
+
+Phone number component in Drupal
+* Editors are adding "option 8" in the extension field
+* Michelle to create [parent epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23260) and Kevin to create a CMS issue that maps to it 
+
+Past events page build failures
+* Current hypothesis (not confirmed yet): Archiving all past events
+* Next steps: 
+  * Kev and Steve to reproduce in Tugboat 
+    * using https://www.va.gov/erie-health-care/events/ for the past events issue
+    * and with a new/vanilla VAMC events page
+  * Clarify how this works with VAMC upgrade team.  
+* AC: 
+  * if no future events exist, events page says "no events"
+  * if no past events exist, past events page builds saying "no past events"
+  * if past events exist and then get archived, events page says "no events"
+* Relevant Facilities issue [#23258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23258)
+
+VBA facilities
+  * Lighthouse list (and therefore Drupal) is inaccurate
+  * Data cull just happened, field reported many inaccuracies
+  * Dave spoke with Alexis from Field operations about data, this will likely lead to throwing out what's in the CMS and starting from scratch. Big opportunities to build in crosslinks, hierarchies between content and facilities. 
+  * next steps: validate a one-pager about an approach, including naming conventions
+  * this will lead to Drupal being source of truth for Lighthouse and GeoBISL to consume, possibly with new unique identifiers to show hierarchies/relationships
 
 ## Wednesday April 7
 
@@ -38,7 +140,7 @@
   - Facility services updates now happen "inline" on a Vet Center - Kevin
   - Minor content model changes incoming Thursday April 8 (some content may be needed for FE dev) - Kevin
     - "Nearby Mobile Vet Centers" on Locations list
-      - Michelle will find a shared Mobile Vet Center for 
+      - Michelle will find a shared Mobile Vet Center for Escanaba
       - Kevin will create issue to prevent duplicate references to MVCs in Nearby.  
     - Facility status for CAPs 
       - Michelle will add operating status for these.

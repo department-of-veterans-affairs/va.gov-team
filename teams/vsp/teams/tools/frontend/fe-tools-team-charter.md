@@ -5,15 +5,16 @@
 ## Who we are
 
 ### Team Members:
-- Product Manager: @Megan Kelley
-- Frontend engineering lead: @Dan Shank
-- Frontend engineer: @eugene_doan
-- Frontend engineer: @Tim Wright
-- Frontend engineer: @Jhonny Gonzalez
-- Frontend engineer: @Bill Fienberg
-- Frontend engineer: @Chris Alexander
-- Frontend engineer: @Theo Bentum
-- Frontend engineer: @Katy Bowman
+- Product Manager: Megan
+- Frontend engineering lead: Tim
+- Frontend engineer: Eugene
+- Frontend engineer: Jhonny
+- Frontend engineer: Katy
+- Frontend engineer: Chris A
+- Frontend engineer: Theo 
+- Frontend engineer: Oseas
+- Frontend engineer: Calvin
+- Frontend engineer: Alex
 
 ---
 
@@ -117,7 +118,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
 - Attend other meetings
   - FE Tools team meetings (standup, sprint planning, retro) = required
   - Stakeholder meetings (design system council, CMS meetings, meetings with other VSP PMs) = required
-  - VSP meetings (all hands, demo, retro) = strongly encouraged. If you can't make it, you're expected to let another team member know.
+  - VSP meetings (all hands, demo, retro) = encouraged. If you aren't going to make it, you're expected to let another team member know.
   - Engineering meetings (VFS<> VSP and FE sync) = optional, but if you don't find these valuable let FE Tools Lead or VSP Eng Lead know! 
 - Schedule meetings strategically
   - Whenever possible, stack meetings together with other meetings

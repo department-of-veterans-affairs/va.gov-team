@@ -50,6 +50,9 @@
 
 [Discovery interviews topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-topline-summary.md)
 
+[Usability testing research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md)
+
+[Usability testing conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
 
 #### Existing web pages
 
@@ -71,6 +74,10 @@
 
 ### Prototype Changelog
 
+**April 15, 2021**
+- Received some content feedback
+**April 1, 2021**
+- Incorporated stakeholder feedback
 **March 23, 2021**
 - Initial concept prototype available
 

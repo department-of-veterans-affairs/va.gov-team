@@ -1,132 +1,104 @@
+# Healthcare Experience - CheckIn MVP
 
-# Healthcare Experience - Checkin Product Outline
 
 ## Overview
-
-Our goal is to improve the Veteran check-in process for medical appointments by providing a digital option on va.gov.
+This product and mobile app which will be developed by a different team allows the Veteran to check in using a mobile device on va.gov or via text for their VA medical appointment. 
 
 ## Problem Statement
+Currently VA medical facilities have a kiosk that are utilized by the Veterans to check fo medical appointments when they arrive. These Kiosks are being sun-setted in CY 2022. The purpose of this product is to: 
 
-TBD
+ 1. Replace the functionality of the Kiosk 
+ 2. Put in place infrastructure for an end-to end solution for Veteran digital experience with VA health services, as this is a POC for consolidating data from disparate systems into a seamless solution 
 
-- How might we 
-- How might we 
-- How might we 
-- How might we 
+ 
+## Desired User Outcomes
 
-## Research Key Findings - Pain Points
+ - Easy to use check-in UX that Veterans want to use instead of face-to-face check-in
+ - EZ and fast authentication to check-in for medical appointments
 
-|     | Veteran                                                                                                                                                                                                                                                   | Care Team                                                                                                                                                                                                                   |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | |  |
-| 1.  | TBD                                                                                                                                                    | TBD                                                                                                                                                                           |
-| 2.  | TBD                                                                                                                                           | TBD                                                                                                                                                    |
-| 3.  | TBD                                                                                                                                             | TBD                                                                                                                                        |
-| 4.  | TBD                                                                                                                                                                                       | TBD                                                                                                                                                                 |
-| 5.  | TBD                                                                                                                                                                                    | TBD                                                                                                                                                               |
-| 6.  | TBD                                                                                                                                          |
+## Undesired User Outcomes
 
+ - An experience that is inferior or harder to use then  the current physical Kiosks 
+ - Increase in face-to-face interactions
 
-## Unmet Needs/Desired Outcomes (user stories)
+## Desired Business Outcomes
 
-### Veteran
+ - Ability to eliminate physical Kiosks resulting in savings for the VA
+ - Setting foundation for unified digital  healthcare experience 
 
-### Clinician
+## Undesired Business Outcomes
 
-### Initiatives
+ - Increased face to face interactions
 
-| Initiative Name                                                                                                                                                                                | Status   | Availability |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------- |
-|    | Discover | [Q1 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research)|
-| TBD Name - MVP | Discover | [Q2 2021]()                           |
+---
+## Measuring Success
 
-### Features
+### Key Performance Indicators (KPIs)
 
+ While this MVP will be a pilot, the long term KPIs will be: 
 
-| Features Name                                                                                                                                                                                | Status   | Availability (Q1-Q4 / 1H- 2H / Vision |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------- |
+ - Percentage of Veterans who chose digital check-in vs. face-to-face interaction
+ - Time to check in vs. Physical kiosks
 
+#### Baseline KPI Values
+* Pending 
 
-## Measure Success
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-| Mission/Vision                                                                                                                    | North Star                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Our Mission is to deliver personalized experiences that support collaboration and create a seamless health and well-being journey | 1. Optimize Care- # Veterans leveraging pre-visit intake information in their care visits   |
-| Our Vision is to meet users where they are and empower them with tools that exceed expectations                                   | 2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry |
+ - Number of Veterans who use digital check-in vs. face to face in Pilot 
 
-Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+---
 
-### OKR's
+## Assumptions
 
-**Objective/Job To Be Done:** 
-
-**Signal:** 
-
-**Key Results Focus:** Save Time and Optimize Care
-
-- Personal Experience - exceed expectations
-- Collaboration - empower partnership
-- Seamless Journey - meet users where they are
-
-**Personal Experience**
-
-**Collaboration**
-
-**Seamless Journey**
-
-## Hypothesis & assumptions
-The VA kiosks are a familiar, simple experience for Veterans. Experience with the other methods will vary.
-Authentication could be a pain point for Veterans within the new check-in workflow due to how they currently authenticate when using a kiosk.
-The kiosks are not accessible for Veterans, who are non-sighted.
-
-#### Value Propositions
-
-
-## Assumptions and Risks
-
-- Administrative Software the registration clerks use today will not be availalbe any longer and a replacement is not identified.  This will impact the checkin process as there is no system to talk to as of now for the status to be sent.  In addition to all technical requirements the workflow or system will have
-- Workflow will be in new Mobile Framework app and on VA.gov so tech feasability for transitioning questionnaires into the check flow potentially needed.
-- Authentication for Veterans today via kiosk and reception desk is their insurance card scanned and if no insurance card they enter their SSN.  Will need to figure ou the identity/authentication requireents as neither of these are used or can be used on va.gov. ie. SSN
-- e-Signatures of consent forms with handwritting requirements are unknown.
-- Checkin workflow will be launced from VAOS appointment on VA.gov
+All data will be available via Vets API integration. Data work is being done by a different team that will aggregate all the disparate systems into a micro services layer integrated into Vets API. VetText has existing functionality that will be leveraged - at this time the technical integration is the biggest unknown and risk. The risk will decrease as Vets API migration gets underway.
 
 ## Solution Approach
 
-- _What are you going to build now, and why have you decided to start there?_
-- _Why this solution / approach over other solutions / approaches?_
-- _What have you explicitly decided to not include in this initial set of functionality, and why?_
-- _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
-- _ROI_
+**MVP**
+The MV will focus on check product only. Future iterations will include day of and post visit functionality
 
-## Target Release Plan
-
-### Solution Narrative
-
-- [Quarterly Sprint Planning - Solution Narrative by Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
+**Potential Future Iterations**
+Will focus on day of and post visit functionality
+![116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg (1280×720)](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
 
 
-| Now                                                                                                                                                                           | Next                                                                                                                                                                          | Later (6+ months)                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  |  |  |
-
-[See Roadmap for detailed release plan strategy]()
-
+--- 
 ## Go-to-market Strategy
+A Pilot site will be chosen, following the Clipboard methodology. Once the site is chosen that group of Veterans will be a pilot group where the Kiosk will be replaced with digital check-in.
 
-- _add a generic statement for markeitng and then use roadmap link to each quarter go to market strategy for specific releases._
-- _How are Veterans and others using this product going to know it exists?_
-- _What marketing, outreach, or communications are necessary for this product to be successful?_
+- [Link to Release Plan]There is no release plan at this time.
 
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch?*
+  - 
+---
 
+## Solution Narrative
+
+A Veteran will receive a text and email linking them to an easy to use check-in UI. A Veteran can also chose to text - I am here using their mobile device. Once that is done, the VA medical facility will be notified (via existing backend systems) that teh Veteran has checked in 
+
+### Current Status
+
+Veteran research and onsite Kiosk  Research has been completed. 
+
+### Key Decisions
+
+---
+   
 ## Screenshots
 
-**Example pre-visit intake/screener digital and paper forms**
+### Before
 
 
-## Meet the Team and Get in Touch
 
-- Team Name: [Healthcare Experience - Questionnaires](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md)
-- GitHub Label: vsa-healthcare-exp
-- Slack channel: [#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
-- [HealthCare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
+
+
+
+
 

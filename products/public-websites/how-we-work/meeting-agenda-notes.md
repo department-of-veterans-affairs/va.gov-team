@@ -1,5 +1,22 @@
 ## Meeting Agenda & Notes
 
+### 4/23 Biweekly Sync
+
+**Agenda Items**
+
+- [Roadmap and Priorities check-in](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad)
+- Code Review/Validation and Deployment Process
+  - UPDATE: Socks for PM/PO/Design reviews 
+  - UPDATE: Tier 1-Tier 3 classification in AC
+- Medallia Implementation - how do we use access and leverage the data?
+- Analytics/KPIs/DOMO Dashboard
+- Design Consistency (Design System, Sketch files)
+- User Research/Testing 
+  - Veteran top tasks - Cindy
+  - A/B testing rate article- PW
+  - Find a Form mobile search
+- Search collaboration session #2
+
 ### 3/30 Biweekly Sync
 
 **Agenda Items**

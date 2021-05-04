@@ -250,7 +250,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### CChapter Title: Step 5 of 7: Program selection
+#### Chapter Title: Step 5 of 7: Program selection
  
 Now we’ll gather information about the training program you’re interested in attending. 
 
@@ -329,33 +329,38 @@ ________________________________________
 
 { If bank account is on file }
 
-This is the bank account information we have on file for you. We’ll pay your housing stipend to this account.
+This is the bank account information we have on file for you. We’ll send your housing payment to this account.
 
 **Payment information**
-* **Checking Account** { prefill if present } 
+* **{ Checking/Savings } Account** { prefill if present } 
 * Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
-* Account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 
-[ Update Account ] { button }
+[ Update account information ] { button }
 
 { Success alert for users who click Update Account, make any changes, then click Save }
 
-Thank you for providing your direct deposit information. **This new account won’t be updated right away.** We'll deposit your housing stipend into this account if your VET TEC application is approved.
+Thank you for providing your direct deposit information. **This new account won’t be updated right away.** We'll send your housing payment to this account if your VET TEC application is approved.
 
 { End alert message } 
 
 
 { If no bank account on file }
 
-We don’t have your bank information on file. Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
+We make payments only through direct deposit, also called electronic funds transfer (EFT). Please provide your direct deposit information below. We’ll send your housing payment to this account.
 
-**Update bank account**
-* Account type { pre-fill: radio, Checking, Savings }
-*	Bank routing number (9 digits at the lower left of your check). { text field, prefill if present. }
-*	Account number { text field, prefill if present. }
+* Account type (* Required) { Radio buttons - Checking, Savings }
+
+{ bank check visual }
+
+*	Bank routing number (No more than 9 digits) (* Required) { text field }
+*	Bank account number (No more than 17 digits) (* Required) { text field }
 
 [ Save ] { button }
 
+{ end if no bank account on file }
+
+I don't want to use direct deposit { check box, if selected direct deposit information disappears }
 
 **Note:** Any updates you make here to your bank account information will apply to your other Veteran benefits, including compensation, pension, and education. Updates here won’t change accounts on file for your VA health benefits.
 
@@ -363,11 +368,9 @@ We don’t have your bank information on file. Please provide your direct deposi
 
 { help-text} 
 
-The Department of Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit. 
+The Veterans Benefits Banking Program (VBBP) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. 
 
-If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard, apply at [www.usdirectexpress.com]() or call [1-800-333-1795](). 
-
-If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.
+Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative who handles waiver requests. They can answer any questions or concerns you may have.
 
 { collapse help content link }
 
@@ -391,6 +394,24 @@ ________________________________________
 * Work experience
 * Program selection
 * Personal information
+
+{ If "Are you on full-time duty in the Armed Forces?" = "No" }
+
+**By submitting this form** you certify that all statements in this application are true and correct to the best of your knowledge and belief.
+
+{ end - If "Are you on full-time duty in the Armed Forces?" = "No" }
+
+
+
+{ If "Are you on full-time duty in the Armed Forces?" = "Yes" }
+
+**By submitting this form** you certify that:
+
+- All statements in this application are true and correct to the best of your knowledge and belief
+
+- As an active-duty service member, you have consulted with an Education Service Officer (ESO) regarding your education program
+
+{ end - if "Are you on full-time duty in the Armed Forces?" = "Yes" }
 
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)

@@ -43,8 +43,9 @@ Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/iss
 - **GitHub issues for off-cycle deploy requests** will help capture details in one place better, and will act as a prompt for post mortems since we can't close the ticket until the post-mortem has been linked. Taking off cycle deploys more seriously in this way may encourage teams to check their work more thoroughly before merging to master, and thus may reduce the volume of firedrills that come up because of broken stuff post-deploy.
     - This also includes updating and publishing the criteria for off-cycle deploys
     - This also includes making the post-mortem template more clear and readily available
-- **Research feasibility of review instance access via VPN (instead of SOCKS)**: would do away with the complexity of setting up SOCKS so PMs and stakeholders can more easily look at feature changes. [GitHub issue for feasibility research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22545).
 
+- **Resolving flaky unit tests** will help prevent failing tests from blocking the build for everyone. 
+- 
 ---
 
 ### Meeting notes 3/25

@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated March 16, 2021
+Last Updated April 22, 2021
 
 ## POCs
 
@@ -18,7 +18,6 @@ Last Updated March 16, 2021
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Carnetta Scruggs| MHV lead | Carnetta.Scruggs@va.gov |
@@ -85,9 +84,38 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 - This should reduce veteran-reported pain points.
 - This is a good, albeit small, step in rolling MHV functionality into VA.gov.
 
-## KPIs
+## Measuring success
 
-- Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
+
+**Objective #1: Improve overall experience with appointment scheduling.**
+
+**Note**: This KR is pending final designs from the VAOS team. We'll refine further as we have them.
+
+- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+
+|KPI/metric|Baseline: Q1 Jan - Mar 2021|Post-launch: Q4 Oct - Dec 2021| Post-launch: Q1 Jan - Mar 2022|
+|----------|-------------|---------------|-------------------|
+|Drop-off rate from the facilities page| TBD|TBD|TBD|
+
+**Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
+
+- **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
+- **Key result #2**: Establish a baseline metric for how many users have updated their facility preferences by end of Q4 (assumes late Q3 or early Q4 launch).
+  - **Note**: This metric will need to consider users who have health care vs. users who do not, plus changes that happen in both the VAOS tool AND the profile. 
+
+|KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|
+|# of users who have updated their facility preferences|TBD|TBD|
+
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of facility preferences.
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of facility preferences.
+
+|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|-------------------|
+|% of successful retreivals|TBD|TBD|TBD|
+|% of successful saves|TBD|TBD|TBD|
+
 
 # Implementation Info
 
@@ -97,6 +125,8 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 - **October 2020**: Initial discovery.
 - **November 2020**: Begin backend integration.
 - **December 2020**: Finish backend integration.
+- - **December 2020**: Design begins.
+- **April 2021**: Initial designs completed. Beginning collaborative research effort with VAOS team.
 
 ## Product Decisions
 

@@ -1,6 +1,6 @@
 # Post-launch Check-in
 
-Did we recommend a Post-launch Check-in? If so, follow the below guidelines to get started.
+Did we recommend a Post-Launch Check-In in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.
 
 ## When should I request this touchpoint?
 

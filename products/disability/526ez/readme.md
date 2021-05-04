@@ -37,7 +37,7 @@
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
 - Product manager: Veronica Henry (vhenry@governmentcio.com)
 - Design and Research: Kevin Stachura (kstachura@governmentcio.com), Christian Valla (cvalla@governmentcio.com)
-- Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), Ed Mangimelli (ed.mangimelli@adhocteam.us)
+- Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), 
 - Contact center partner: Chante Lantos-Swett, Sylvia Palmer & Brenda Torres Hill
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a

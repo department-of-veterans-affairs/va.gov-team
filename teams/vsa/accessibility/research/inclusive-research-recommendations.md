@@ -1,8 +1,8 @@
 ```diff
-! DRAFT
+! DRAFT, v2.0 is currently in writing and will provide more actionable guidance
 ```
 
-# Inclusive Research Recommendations
+# Inclusive Research Recommendations v1.0
 
 With over 19 million Veterans as of 2020 [(1)](https://www.va.gov/vetdata/veteran_population.asp), there are many folks from a variety of backgrounds using VA.gov’s products. Having such a large user base gives us the opportunity to recruit a diverse range of participants to ensure accessibility and inclusivity are at the forefront of the tools we build.
 
@@ -22,29 +22,27 @@ You can view this [Veterans disability statistics resource](https://github.com/d
 
 ## Guidelines for inclusive research recruiting
 
-There are some baseline characteristics to ensure a diverse range of Veteran participants in your research. These characteristics may need to be adjusted depending on the individual study (e.g. A study for a hearing aid battery re-ordering form may want to recruit at least one person with a cochlear implant). Consider adding these recruiting requirements to your study (in the secondary requirements section):
+There are some baseline characteristics to ensure minimum representation of Veteran participants in your research. These characteristics may need to be adjusted depending on the individual study (e.g. A study for a hearing aid battery re-ordering form may want to recruit at least one person with a cochlear implant). The numbers as well may need to be increased given the size of the study. We've provided these secondary recommendations for a study size of 8: 
 
-- At least 1 woman
+- At least 4 smartphone users (at least 50% of Veterans are primarily smartphone users)
 
-- At least 1 person of color
+- At least 4 Veterans above the age of 60 (50% of Veterans are over the age of 60)
 
-- At least 1 participant 35 or under and 1 participant over 55
+- At least 2 people with identified cognitive and/or learning disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
-- At least one person that does not have a college degree (to include enlisted Vets)
+- At least 2 people of color (30% of Veterans are people of color)
 
-- At least one person that has a college degree (to include of officer Vets)
+- At least 2 people who live in a rural or remote area (25% of Veterans live in a rural area, but this has been estimated as high as 45%)
 
-- At least one person who lives in a rural or remote area
+- At least 2 people without a degree or certifications (25% of Veterans do not have a degree or certifications, less than 50% of Veterans have a degree)
 
-- At least one person who lives in a major metropolitan area
+- At least 1 woman (10% of Veterans are women)
 
-- At least one person with a disability rating of 70% or greater
+- At least 1 person with a disability rating of 70% or greater
 
-- At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+- Consider including at least 1 person who uses a screen reader
 
-- Consider including at least one non-native English speaker
-
-- Consider including at least one person who uses assistive technology (AT), if your study can accommodate them; specialized keyboards, switches, and hearing aids are examples of AT that may be generally included
+- Consider including at least 1 non-native English speaker
 
 If the study requires screensharing, request that Perigean confirm:
 
