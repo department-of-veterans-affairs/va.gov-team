@@ -13,7 +13,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 --> 
 
 ## Problem Statement
-*Describe the challenge / pain point you seek to address. 
+*Describe the challenge / pain point you seek to address.:* 
 * What is the problem?
 * Which Veteran/organizational segments are most affected by the problem?
 * Where does this problem affect the Veteran journey?
@@ -22,7 +22,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 
 
 ### Evidence of the problem
-*Describe the qualitative and quantitative data to support this problem. 
+*Describe the qualitative and quantitative data to support this problem.* 
 
 <!--
 ## Desired User Outcomes
@@ -43,17 +43,16 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ---
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
+* *Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
 * _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
 
+<!--
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
 | KPI      |             |                    |                    |        |
 | KPI      |             |                    |                    |        |
+-->
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -113,6 +112,7 @@ Address risks related to usability, value to users, feasibility/implementation, 
 ---
 
 #### Communications
+*Where will you be primarily discuss this initiative?*
 
 <details>
 
@@ -124,23 +124,13 @@ Address risks related to usability, value to users, feasibility/implementation, 
 
 </details>
 
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
 
 #### Stakeholders
+*What offices/departments are critical to make this initiative successful?*
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+*test*
  
 </details>
 
