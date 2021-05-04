@@ -1,3 +1,5 @@
+# PIVOTED AWAY FROM MAKING THIS DECISION
+
 # WORK IN PROGRESS
 
 # What would Platform Website's V3 look like at the end 2021 Q2?
