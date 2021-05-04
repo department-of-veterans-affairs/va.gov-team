@@ -42,12 +42,12 @@ We completed remote, moderated interviews and "usability tests" of current state
 
 When asked what they'd do after misplacing their statement, Veterans would:
 
-1. Call VA (7)
-  1. VA facility (4)
-  2. VA hotline (3)
-2. Search online (4)
-3. Wait for another letter to show up (2), or 
-4. Go to their VA facility in person (1)  
+- Call VA (7)
+    - VA facility (4)
+    - VA hotline (3)
+- Search online (4)
+- Wait for another letter to show up (2), or 
+- Go to their VA facility in person (1)  
 
 #### Veterans often rely on the portals they use most frequently when searching for copayment details online.
 
@@ -98,8 +98,6 @@ Several Veterans stated that they would look for a section on the homepage with 
 * "Money owed" (1)
 * "Pay Copay" (1)
 * "Payment" (1)
-
-## 
 
 ### Do Veterans expect to find all of their money owed to the VA in a single tool?
 
