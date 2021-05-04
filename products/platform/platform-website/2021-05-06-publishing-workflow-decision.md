@@ -1,6 +1,6 @@
 # Should Platform PMs be a part of Platform Website publishing workflow?
 
-This doc provides context to make a decison around _if we should or shouldn't_ include Platform PMs in the Platform Website's publishing workflow.  In this discussion, "publishing workflow" means taking a draft page and making it live (viewable by VFS teams and the general public) on the Platform Website.
+This doc provides context to make a decison around _if we should or shouldn't_ include Platform PMs in the Platform Website's publishing workflow.
 
 _Authors:_ Liani Lye and Gretchen Maciolek, Platform Team: Content/IA
 
@@ -20,6 +20,8 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 ## Context
 
 The Content Team is writing roles and responsiblity and publishing workflow guidance.  Here are the options we see REGARDING XYZ.
+
+In this discussion, "publishing workflow" means taking a draft page and making it live (viewable by VFS teams and the general public) on the Platform Website.
 
 ## Paths forward
 
