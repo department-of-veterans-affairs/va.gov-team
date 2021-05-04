@@ -39,8 +39,9 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 3 minutes
 
 * Can you tell me a little about your service history?
-* Have you visited the VA for healthcare in the past year?
+* Have you received any emergency care in the past year?
     * If yes: can you tell me about that experience?
+    * If yes: can you tell me why you decided on that particular location?
 
 ## Usability Test - 25 minutes
 
@@ -111,14 +112,6 @@ Open the 'Service type' menu, talk me through what the different options mean to
 
 Does the distinction between 'Service type' options matter to you?
    - What matters about the distinction?
-
-### Scenario
-
-Here's one more scenario: [TBD - actual emergency?]
-
-#### PROTOTYPE: 
-#### Questions:
-
 
 ## Post-Task Interview - 5 minutes
 
