@@ -3,19 +3,29 @@
 
 <!--
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+*Initiatives are hypotheses the team has for achieving a particular outcome. \
+There is a one:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. \
+*
+
+## Outcome Summary
+*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." \
+Include the measurable outcome (i.e. metric) you're trying to improve.*
 --> 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+*Describe the challenge / pain point you seek to address. 
+* What is the problem?
+* Which Veteran/organizational segments are most affected by the problem?
+* Where does this problem affect the Veteran journey?
+* Why do you think the problem is occurring? Other reasons why this might be occurring?
+* How does this outcome further DE's mission and goals?
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
 
 ### Evidence of the problem
-*Describe the qualitative and quantitative data to support 
+*Describe the qualitative and quantitative data to support this problem. 
 
+<!--
 ## Desired User Outcomes
-
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
@@ -28,7 +38,7 @@
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-
+-->
 
 ---
 ## Measuring Success
@@ -48,20 +58,22 @@
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
+<!--
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
   - Key result: 
   - Key result: 
-
+-->
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+*Your Discovery (next section) should describe how you'll validate these assumptions.\
+Address risks related to usability, value to users, feasibility/implementation, and *
 
-## Solution Approach
+## Discovery
 
 - *What are you going to build now, and why have you decided to start there?*
 - *Why this solution / approach over other solutions / approaches?*
@@ -73,9 +85,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-## Launch Dates
+## Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
