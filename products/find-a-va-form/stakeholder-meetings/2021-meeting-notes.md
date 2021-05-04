@@ -1,6 +1,13 @@
 # 2021 Stakeholder Meeting Notes
 
 ## 2021-05-04 Meeting with Kayce White VBAVACO
+
+### Attendees
+- Kayce White
+- Nichole Harris
+- John Hashiomoto
+- Marci McGuire
+
 - Discussion about updates
 - Kayce doesn't mind providing updates or info, but she wants it to be as up to date as possible.
 - There are some APIs and some consumers of the forms who have hard-coded logic around the forms. 
@@ -31,8 +38,8 @@
 - The web admin people - some of the forms get updated when there's no change on their end.
 - Kayce 8940- Says 10/29/2020 - she knows that form has not been updated in two years.  Nobody can make a change to a form without coming through her.
 - Revision date doesn't necessarily mean version date.  She would not be opposed to having a version date field, which would be the month and year (in the lower-left corner of the form)
-- va.gov/find-forms/ - 850 forms that VBA owns reference the old web site that doesn't.  They were not told that a new URL was going to be created - - va.gov/vaforms/ (was probably changed to improve search engine ranking)
-- This is not a big deal.
+- va.gov/find-forms/ - 850 forms that VBA owns reference the old web site that doesn't.  They were not told that a new URL was going to be created - - va.gov/vaforms/ (was probably changed to improve search engine ranking). This is not a big deal.
+- Kayce will provide us with a list of all the VCOs.  They may tell us what's coming, but they don't necessarily need other people to know yet because it could change.
 
 ## 2021-04-09 Monthly Stakeholder Meeting
 
