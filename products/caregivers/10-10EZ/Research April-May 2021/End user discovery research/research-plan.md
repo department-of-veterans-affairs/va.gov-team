@@ -111,9 +111,11 @@ Team Availability | Time (EST)
 May 4, 2021       | 9:00am - 7:00pm EST
 May 5, 2021       | 9:00am - 2:30pm EST
 May 6, 2021       | 11:30am - 7:00pm EST
+May 10, 2021       | 9:00am - 6:00pm EST
+May 12, 2021       | 11:30am - 6:00pm EST
 
 
-Pilot Session: May 3, 2021 | TBD (anytime between 2:00pm-6:00pm EST)
+Pilot Session: May 3, 2021 | 4:00pm EST)
 
 
 ## Team Roles	
