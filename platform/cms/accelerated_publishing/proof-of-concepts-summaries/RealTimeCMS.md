@@ -34,7 +34,7 @@ Many sprints!
 <summary>
 
 ### Description
-As discussed in #5138, the aim of this task is to determine roadblocks and difficulty of implementing [VA Design System](https://design.va.gov/) (aka Formation) in a Drupal theme for use in a fully coupled CMS solution.
+As discussed in [#5138](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5138), the aim of this task is to determine roadblocks and difficulty of implementing [VA Design System](https://design.va.gov/) (aka Formation) in a Drupal theme for use in a fully coupled CMS solution.
 
 <details>
 
