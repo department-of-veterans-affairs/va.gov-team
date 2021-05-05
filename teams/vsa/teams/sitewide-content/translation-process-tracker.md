@@ -16,4 +16,4 @@
 | Debt question for Tagalog FAQs page | | 4/14 |
 | Janssen update in blue box | 4/26 | 4/26 | 4/30 | 4/30 .5 hr | 4/30 .5 hr | | 4/30 | 5/3-no changes |
 | Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 |
-| Added sentence to Janssen alert | 5/3 | 5/3 |
+| Added sentence to Janssen alert | 5/3 | 5/3 | 5/5 |
