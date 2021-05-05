@@ -47,7 +47,10 @@ CLP
 
 Resources and support
 * Sections update
-* New process for requesting changes to Sections
+* Related: New process for requesting changes to Sections
+
+Outreach Hub
+* Clarify user admin policy (approval of new accounts)
 
 
 ## April 28
