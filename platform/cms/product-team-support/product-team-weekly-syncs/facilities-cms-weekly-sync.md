@@ -36,7 +36,7 @@
 VAMC 
 * Policies Page rollout (quick report)
 * Meta tags for VAMC 
-  - Design guide update
+  - Design guide update - [requested in #441](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/441)
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
 
