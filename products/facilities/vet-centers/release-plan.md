@@ -1,24 +1,29 @@
-# Vet Center Release Plan 
+# Vet Center Release Plan (WIP)
+
+Limiting the nuumber of Veterans based on profile or user type is not possible because Vet Center pages are part of the **unauthenicated** VA.gov experience. Phases will instead be defined by the number of Vet Centers that are creating and publishing content to new pages on VA.gov. Veteran volume will be naturally restrained by the limited nmber of available pages and the geographic relevance to a subset of potential visitors. 
 
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: MVP
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: Targeting a soft launch for mid-May
+- Desired number of Vet Center locations - 10 
+- Selection of pilot locations
+  - Originally, 5 locations were chosen - reresenting each of the 5 Vet Center regions. An additional 5 locations were chosen to ensure a diverse group of sites, representing possible variations in facilities, staffing and external factors.
+  - Criteria is documented in the [MVP Participants section of the product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#mvp-participants)
+- Product access without making it live on VA.gov
+  - Content will be entered during training by an Outreach specialist at each of the pilot locations, based on a content deck which was prepared and seeded by Dave Conlon and Michelle Middaugh.
+  - Outreach specialists will not have publishing permissions due to the risk of creating broken links by publishing one page without the others.
 
 ### Results:
-- Number of users: x
+- Number of users: 10 + 3 national editors (and backups)
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase II: Staged Rollout 
 
 ### Do I need a staged rollout?
 
