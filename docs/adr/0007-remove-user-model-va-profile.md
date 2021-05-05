@@ -1,4 +1,4 @@
-# 8. remove user model va_profile
+# 7. remove user model va_profile
 
 Date: 2021-05-04
 
