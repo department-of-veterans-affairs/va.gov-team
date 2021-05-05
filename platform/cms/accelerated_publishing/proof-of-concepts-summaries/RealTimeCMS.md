@@ -92,3 +92,41 @@ https://web-gni0ie6qqhptaqjc8o8xfqe8qft5jga4.ci.cms.va.gov
 ![image](https://user-images.githubusercontent.com/2404547/116461033-c1051180-a835-11eb-9d14-d8f7793c1bb4.png)
 ![image](https://user-images.githubusercontent.com/2404547/116461468-48eb1b80-a836-11eb-8e76-2fb6218d8b95.png)
 ![image](https://user-images.githubusercontent.com/2404547/116461487-4e486600-a836-11eb-8f9d-3bb15bacb07a.png)
+
+## Content type templating POC findings
+### Process
+Logic / theme treatment is handled primarily by custom field (and a couple/few block) templates in conjunction with reusable component includes. 
+
+### Shortcuts / Things to address _if_ we go coupled
+- Table of contents block isn't smart. Will need to create logic that adds unique id's to each h2, and then builds corresponding anchors in TOC.
+- Will need to create a series of node bundle templates, instead of adding exclusion / inclusion logic in generic site page.html.twig template.
+- Will need to add logic to components to exclude/include headers and descriptions from form fields - for this POC, a few fields have been modified in config.
+- Will need to create a variables file for breakpoints, and other theme elements. This POC _primarily_ addresses desktop experience.
+
+### Time investment
+Hubs page = **30 hrs**. Much of this time was spent creating reusable components, and trial and error (figuring out what works, what can be most easily extended, etc.).
+Vet center = **20 hrs**. Was able to reuse components and lessons learned from Hubs implementation.
+
+### Takeaways
+Initial time investment to create a reusable library of elements / components / things will greatly improve delivery times. Two or three developers putting in a week of planning and code (in the beginning) would really help the effort. This said, most content types could probably be themed in 20 hours (using my experience on VC type / knowing that development time will decrease as more reusable patterns are created).
+44 content types x 20 hours = 880 hours. Two devs working this in tandem = 440 linear hours. So, 11 weeks without _any_ distractions / meetings, so probably safe to assume 14 linear weeks. 
+**Tldr: Two devs fulltime might be able to pull this off in 3.5 months.**
+
+### Test environment links
+https://pr5202-2bmbsyxy2depdzdnmgjlfbzh49sepb4h.ci.cms.va.gov
+https://pr5202-2bmbsyxy2depdzdnmgjlfbzh49sepb4h.ci.cms.va.gov/health-care
+https://pr5202-2bmbsyxy2depdzdnmgjlfbzh49sepb4h.ci.cms.va.gov/escanaba-vet-center
+
+### Video (Hub page)
+https://www.loom.com/share/db99563fd4d94620b7ad3120cc9d593f
+
+### Screenshots (Vet Center)
+![image](https://user-images.githubusercontent.com/2404547/117141141-331caf80-ad7c-11eb-80d4-35becb906487.png)
+![image](https://user-images.githubusercontent.com/2404547/117141156-3748cd00-ad7c-11eb-8f22-d4bce3fa08fa.png)
+![image](https://user-images.githubusercontent.com/2404547/117141168-3b74ea80-ad7c-11eb-8419-59c51f886961.png)
+![image](https://user-images.githubusercontent.com/2404547/117141184-40399e80-ad7c-11eb-93a2-4af5ced7ca61.png)
+![image](https://user-images.githubusercontent.com/2404547/117141202-4465bc00-ad7c-11eb-8dad-c16f24a879f5.png)
+![image](https://user-images.githubusercontent.com/2404547/117141216-47f94300-ad7c-11eb-9f49-7198350adf84.png)
+![image](https://user-images.githubusercontent.com/2404547/117141228-4c256080-ad7c-11eb-9c64-782f3180a55d.png)
+
+
