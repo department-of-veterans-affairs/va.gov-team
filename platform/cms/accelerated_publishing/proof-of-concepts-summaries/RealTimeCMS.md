@@ -28,8 +28,11 @@ Many sprints!
 - Page renders will not be as fast as current website
 - ATO
 
-## Coupled Proof of Concept Findings
+## Coupled Proof of Concept Findings: VA Design System Drupal Theme
+
+
 <summary>
+
 ### Description
 As discussed in #5138, the aim of this task is to determine roadblocks and difficulty of implementing [VA Design System](https://design.va.gov/) (aka Formation) in a Drupal theme for use in a fully coupled CMS solution.
 
