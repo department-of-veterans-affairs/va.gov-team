@@ -29,6 +29,21 @@
 
 ### Mockups Changelog
 
+**May 5, 2021**
+- Implemented feedback from Deisgn Intent review
+- On the **modal**
+   - Present modal with "alert" formatting
+   - Change header to: "Please make sure your dependents are correct"
+   - Change P text to: "Our records show the following dependents on your VA benefits. We need to make sure 
+our records are right so your benefits pay is correct. If you skip this for now, we’ll ask you again later."
+   - Remove additional info accordion and all subordinate content
+   - Move primary button to left
+   - Change primary button label to: "My dependents are correct"
+   - Change secondary button to: "I need to change my dependents"
+   - Remove DOB from gray cards
+   - Remove "Relationship" label from gray cards
+   - No error states within the modal itself
+
 **January 22, 2021**
 - New View Dependents layout showing "grey card" variation of "remove" formlet 
 
