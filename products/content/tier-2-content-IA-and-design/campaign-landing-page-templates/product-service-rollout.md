@@ -36,7 +36,7 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 
 **MVP VACO Teams & Leads**
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
-- VBA Digital Strategy Team (Benefits): Sandy Tadeo (Acting Chief), Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
+- VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
 - VEO: Tim Hudek
 - OPIA: Bronwyn Emmet
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
