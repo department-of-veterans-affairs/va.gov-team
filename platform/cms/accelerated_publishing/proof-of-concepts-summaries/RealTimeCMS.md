@@ -99,7 +99,17 @@ https://web-gni0ie6qqhptaqjc8o8xfqe8qft5jga4.ci.cms.va.gov
 ![image](https://user-images.githubusercontent.com/2404547/116461468-48eb1b80-a836-11eb-8e76-2fb6218d8b95.png)
 ![image](https://user-images.githubusercontent.com/2404547/116461487-4e486600-a836-11eb-8f9d-3bb15bacb07a.png)
 
-## Content type templating POC findings
+</details>
+</summary>
+
+
+## Coupled Proof of Concept Findings: Template migration LoE
+
+<summary>
+To determine approximate level of effort for migrating existing Metalsmith templates into Drupal Twig template system for coupled CMS architecture.
+Ticket: [#5137](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5137)
+
+<details>
 
 ### Process
 Logic / theme treatment is handled primarily by custom field (and a couple/few block) templates in conjunction with reusable component includes. 
