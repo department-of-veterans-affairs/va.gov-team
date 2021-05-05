@@ -36,6 +36,10 @@
 </details>
 
 
+## May 12
+
+
+
 
 ## May 5
 
@@ -58,6 +62,7 @@ Resources and support
 Outreach Hub
 * Clarify user admin policy (approval of new accounts)
   * Doug Webb requested accounts for 2 users to create content in Outreach Hub
+    * Move this discussion to Slack to make a decision about these users.
   * Next steps: 
     * Create a list of all Outreach Hub **ACTION for CMS team**
     * Compare to how VAMC product and Vet Center handles this **John and Dave**
