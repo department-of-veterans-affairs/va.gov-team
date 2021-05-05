@@ -37,17 +37,17 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 15 parti
 Participant Criteria:
 
 - **Must have:**
- - Enrolled in VA healthcare
- - Has visited an emergency care clinic in the last two years
- - Laptop or desktop computer
- - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
+    - Enrolled in VA healthcare
+    - Has visited an emergency care clinic in the last two years
+    - Laptop or desktop computer
+    - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
 
 - **Good to have:**
- - All genders
- - A mix of rural and urban
- - Veterans & Caregivers
- - At least 1 participant 35 or under and 1 participant over 55
- - At least one person with cognitive disabilities
+    - All genders
+    - A mix of rural and urban
+    - Veterans & Caregivers
+    - At least 1 participant 35 or under and 1 participant over 55
+    - At least one person with cognitive disabilities
 
 ## Timeline
 
