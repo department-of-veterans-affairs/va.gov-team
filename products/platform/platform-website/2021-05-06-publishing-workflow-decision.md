@@ -2,7 +2,7 @@
 
 This doc provides context to make a decison around _if we should or shouldn't_ include Platform PMs in the Platform Website's publishing workflow.
 
-_Authors:_ Liani Lye and Gretchen Maciolek, Platform Team: Content/IA
+_Authors:_ Liani Lye, Platform Team: Content/IA
 
 _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
