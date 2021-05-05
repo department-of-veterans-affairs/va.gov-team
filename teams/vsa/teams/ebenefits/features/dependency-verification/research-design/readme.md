@@ -9,7 +9,8 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Dependents Verification mockups | [Adobe XD](https://xd.adobe.com/view/9a75a359-e0e2-4411-b235-60c3dddb4e6e-cf26/) | Get text from mock | January 19, 2021 | [Changelog](#mockups-changelog) |
+| Dependents Verification OLD mockups | [Adobe XD](https://xd.adobe.com/view/9a75a359-e0e2-4411-b235-60c3dddb4e6e-cf26/) | Get text from mock | January 19, 2021 | 
+| Dependents Verification NEW mockups | [Adobe XD](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/) | Get text from mock | May 5, 2021 | [Changelog](#mockups-changelog) |
 
 
 
