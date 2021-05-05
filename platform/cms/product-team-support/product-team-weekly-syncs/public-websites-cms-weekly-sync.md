@@ -41,10 +41,15 @@
 
 CLP 
 * Audience_tags epic now complete. [#4898]([https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4898)
-* [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives`
-* Trust CLP launch
-* Vaccine hesitancy update
+* [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives` - candidate for next sprint.
+* Current CLPS in motion
+  * Trust CLP launch - on pause for now. 
+  * Vaccine hesitancy update
+  * Pride
 * Mission Act demo
+  * GA work is done
+  * Still useful for Demo purposes as a live prototype
+  * Unpublishing then we can use Preview from now for live prototype  
 
 Resources and support
 * Sections update
@@ -52,6 +57,11 @@ Resources and support
 
 Outreach Hub
 * Clarify user admin policy (approval of new accounts)
+  * Doug Webb requested accounts for 2 users to create content in Outreach Hub
+  * Next steps: 
+    * Create a list of all Outreach Hub **ACTION for CMS team**
+    * Compare to how VAMC product and Vet Center handles this **John and Dave**
+    * Follow-up in next meeting.
 
 Audience vocabularies
 * Jen Lee will govern the audience vocabularies, if any requests for changes come in.
