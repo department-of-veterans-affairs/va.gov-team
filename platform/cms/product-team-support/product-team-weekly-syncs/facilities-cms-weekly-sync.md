@@ -31,6 +31,7 @@
   * Nearby Vet Centers is a problem for MVP
     * 290 Vet Centers, ~20 Outstations, and ~70 MVCs are all unpublished, and if they are chosen as "Nearby" the FE won't build them (assuming it's filtering out unpublished content)
      * Should FE allow unpublished Vet Centers, Outstations, and MVCs to go out on the Locations page, even if they are unpublished?
+     * [Issue to change logic #24312](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24312)
   * Breadcrumbs: when to use array vs derive from url?
 VAMC 
 * Policies Page rollout (quick report)
