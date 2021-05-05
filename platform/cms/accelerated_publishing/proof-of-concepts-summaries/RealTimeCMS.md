@@ -28,9 +28,12 @@ Many sprints!
 - Page renders will not be as fast as current website
 - ATO
 
-## Coupled Prood of Concept Findings
+## Coupled Proof of Concept Findings
+<summary>
 ### Description
-As discussed in #5138 , the aim of this task is to determine whether https://design.va.gov/ / Formation can be used (practically) in a coupled Drupal build system.
+As discussed in #5138, the aim of this task is to determine roadblocks and difficulty of implementing [VA Design System](https://design.va.gov/) (aka Formation) in a Drupal theme for use in a fully coupled CMS solution.
+
+<details>
 
 ### Process
 To make the above determination, I installed the following projects:
@@ -94,6 +97,7 @@ https://web-gni0ie6qqhptaqjc8o8xfqe8qft5jga4.ci.cms.va.gov
 ![image](https://user-images.githubusercontent.com/2404547/116461487-4e486600-a836-11eb-8f9d-3bb15bacb07a.png)
 
 ## Content type templating POC findings
+
 ### Process
 Logic / theme treatment is handled primarily by custom field (and a couple/few block) templates in conjunction with reusable component includes. 
 
@@ -129,4 +133,5 @@ https://www.loom.com/share/db99563fd4d94620b7ad3120cc9d593f
 ![image](https://user-images.githubusercontent.com/2404547/117141216-47f94300-ad7c-11eb-9f49-7198350adf84.png)
 ![image](https://user-images.githubusercontent.com/2404547/117141228-4c256080-ad7c-11eb-9c64-782f3180a55d.png)
 
-
+</details>
+</summary>
