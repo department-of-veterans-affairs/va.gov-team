@@ -30,7 +30,6 @@ Many sprints!
 
 ## Coupled Proof of Concept Findings: VA Design System Drupal Theme
 
-
 <summary>
 
 ### Description
@@ -104,6 +103,8 @@ https://web-gni0ie6qqhptaqjc8o8xfqe8qft5jga4.ci.cms.va.gov
 
 
 ## Coupled Proof of Concept Findings: Template migration LoE
+
+### Description
 
 <summary>
 To determine approximate level of effort for migrating existing Metalsmith templates into Drupal Twig template system for coupled CMS architecture.
