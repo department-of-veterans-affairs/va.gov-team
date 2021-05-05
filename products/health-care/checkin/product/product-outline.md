@@ -1,34 +1,36 @@
-# Healthcare Experience - CheckIn MVP
+# Healthcare Experience - Check-in MVP
 
 
 ## Overview
-This product and mobile app which will be developed by a different team allows the Veteran to check in using a mobile device on va.gov or via text for their VA medical appointment. 
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. This development team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in via va.gov as well as possibly via a VA-owned digital device within waiting areas. This team will also spearhead the coordination with other product teams, such as VeText, VAOS, MyVA, and the mobile app, in order to implement the full ecosystem.
 
 ## Problem Statement
-Currently VA medical facilities have a kiosk that are utilized by the Veterans to check fo medical appointments when they arrive. These Kiosks are being sun-setted in CY 2022. The purpose of this product is to: 
+Currently, VA medical facilities have a kiosk that are utilized by the Veterans to check-in for medical appointments when they arrive. These Kiosks are being sun-setted in CY 2022. The purpose of this product is to: 
 
  1. Replace the functionality of the Kiosk 
- 2. Put in place infrastructure for an end-to end solution for Veteran digital experience with VA health services, as this is a POC for consolidating data from disparate systems into a seamless solution 
+ 2. Put in place infrastructure for an end-to end solution for Veteran digital check-in experience with VA health services, as this is a POC for consolidating data from disparate systems into a seamless solution 
 
  
 ## Desired User Outcomes
 
  - Easy to use check-in UX that Veterans want to use instead of face-to-face check-in
+ - Improve wait times between arrival and completion of check-in
  - EZ and fast authentication to check-in for medical appointments
 
 ## Undesired User Outcomes
 
- - An experience that is inferior or harder to use then  the current physical Kiosks 
+ - An experience that is inferior or harder to use then the current physical Kiosks 
+ - Increasing wait times between arrival and completion of check-in
  - Increase in face-to-face interactions
 
 ## Desired Business Outcomes
 
  - Ability to eliminate physical Kiosks resulting in savings for the VA
- - Setting foundation for unified digital  healthcare experience 
+ - Setting foundation for unified digital healthcare experience 
 
 ## Undesired Business Outcomes
 
- - Increased face to face interactions
+ - Increased face-to-face interactions
 
 ---
 ## Measuring Success
@@ -57,16 +59,16 @@ All data will be available via Vets API integration. Data work is being done by 
 ## Solution Approach
 
 **MVP**
-The MV will focus on check product only. Future iterations will include day of and post visit functionality
+The MVP will first focus on day of the appointment check-in product only.
 
 **Potential Future Iterations**
-Will focus on day of and post visit functionality
+Will focus on pre-check in (week before) and post visit functionality
 ![116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg (1280×720)](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
 
 
 --- 
 ## Go-to-market Strategy
-A Pilot site will be chosen, following the Clipboard methodology. Once the site is chosen that group of Veterans will be a pilot group where the Kiosk will be replaced with digital check-in.
+A Pilot site will be chosen (possibly Martinsburg, West Virginia). Once the site is chosen that group of Veterans will be a pilot group where the Kiosk will be replaced with digital check-in.
 
 - [Link to Release Plan]There is no release plan at this time.
 
@@ -81,11 +83,11 @@ A Pilot site will be chosen, following the Clipboard methodology. Once the site 
 
 ## Solution Narrative
 
-A Veteran will receive a text and email linking them to an easy to use check-in UI. A Veteran can also chose to text - I am here using their mobile device. Once that is done, the VA medical facility will be notified (via existing backend systems) that teh Veteran has checked in 
+A Veteran will receive a text and email linking them to an easy to use check-in UI. A Veteran can also chose to text - I am here using their mobile device. Once that is done, the VA medical facility will be notified (via existing backend systems) that the Veteran has checked in. 
 
 ### Current Status
 
-Veteran research and onsite Kiosk  Research has been completed. 
+Veteran and onsite (Veteran and staff) research has been completed. 
 
 ### Key Decisions
 
