@@ -1,6 +1,6 @@
 # Vet Center Release Plan (WIP)
 
-Limiting the nuumber of Veterans based on profile or user type is not possible because Vet Center pages are part of the **unauthenicated** VA.gov experience. Phases will instead be defined by the number of Vet Centers that are creating and publishing content to new pages on VA.gov. Veteran volume will be naturally restrained by the limited nmber of available pages and the geographic relevance to a subset of potential visitors. 
+Limiting the nuumber of Veterans based on profile or user type is not possible because Vet Center pages are part of the **unauthenticated** VA.gov experience. Phases will instead be defined by the number of Vet Centers that are creating and publishing content to new pages on VA.gov. Veteran volume will be naturally restrained by the limited nmber of available pages and the geographic relevance to a subset of potential visitors. 
 
 
 ## Phase I: MVP
