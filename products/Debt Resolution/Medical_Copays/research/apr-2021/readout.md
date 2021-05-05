@@ -211,3 +211,12 @@ When asked what amount would be due by the due date,
 * Several Veterans expected to see information related to their insurance contributions in the context of a copay bill. 
 * Several participants were not aware of their resolution options outside of paying, and would like to see that information emphasized. 
 * Several participants have struggled with receiving bills from community care providers and not being able to resolve them easily.
+
+## Recommendations 
+
+* Combine VHA copays and VBA debts into the same product 
+* Allow for navigation to the tool from the various online portals and hubs on VA.gov
+* Work with VHA to discover if we’re able to pass data that allows us to show a history of past bills so Veterans have more context about their copay charges
+* Connect with the payment history tool’s team to share findings and brainstorm how the two tools could interact
+* Provide a bridge to resolution for community care bills that are misassigned
+
