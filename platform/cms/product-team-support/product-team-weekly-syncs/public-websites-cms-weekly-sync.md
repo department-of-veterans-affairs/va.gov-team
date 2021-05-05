@@ -44,6 +44,7 @@ CLP
 * [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives`
 * Trust CLP launch
 * Vaccine hesitancy update
+* Mission Act demo
 
 Resources and support
 * Sections update
@@ -52,6 +53,8 @@ Resources and support
 Outreach Hub
 * Clarify user admin policy (approval of new accounts)
 
+Audience vocabularies
+* Jen Lee will govern the audience vocabularies, if any requests for changes come in.
 
 ## April 28
 
