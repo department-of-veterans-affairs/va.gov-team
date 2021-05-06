@@ -37,9 +37,11 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 * Can you tell me a little about your service history?
-* Have you visited any location in the last year, after experiencing what you thought was an emergency?
-    * If yes: can you tell me about that experience there?
+* Have you visited any facility in the last year, after experiencing what you thought was an emergency?
+    * If yes: can you tell me about your experience there?
     * If yes: can you tell me why you decided on that particular location?
+    * How did you find out about that specific location?
+    * Can you tell me about your understanding of your benefit coverge in the event of an emergency?
 
 ## Usability Test - 30 minutes
 
@@ -59,11 +61,6 @@ I ask that you think out loud as much as possible, as we go through the prototyp
 - Are you familiar with, or have you ever used VA.gov's location finder? 
     - If yes: how long ago, what were you doing? What was that experience like?
     - If no: how do you go about finding information about VA locations?
-
-- Have you ever visited an emergency care clinic in the past (VA or non-VA)?
-    - If yes: can you tell me about that?
-    - (VA/non-VA location? Why that one? How did you find it?)
-    - (What is your understanding of your benefit coverge in the event of an emergency?)
 
 ### Scenario
 #### Directions:
