@@ -36,37 +36,27 @@ Folks in the `scroll-viewport-admins` Confluence user group have publishing powe
 Grant PMs publishing power right away.  This allows the us to:
 
 - **Empower Platform teams to self-serve by creating and publishing their own docs:**  We hypothesize that allowing self-service will allow more autonomous and timely maintenance of Platform Website content.
+  - _More detail:_  The need to release information on the Platform Website outweighs the need for rigorous QA and strict editorial control.  The Content Team does not have enough people power to enforce rigorous QA and strict editorial control.
 
-_Considerations:_
+_Future consequences:_
 - The Content team would need to:
   - Tease apart the types of trainings we are hosting: How to audit your content, How to contribute to the PW, and now How to publish content
   - Specify the minimum quality bar; examples:
     - Using "Platform" instead of "VSP"
     - Defining when to use numbered vs bulleted lists
-
-the need to have things out quickly outweighs the need for editorial control
-we don't have enough people on the content team to be super rigorous about qa and editorial control
-
-
-before we have specific training, we'd have to tune the dial of 
-we'd have to set the bar for minimum - Platform instead of VSP, are the numbers actaully sequential or should we have a bullet list
-the person who hits teh "SVP publish button" isn't necesary the person who does the QA
-
-- Pros: as soon as teams have their guidelines, they can be self-sufficient in creating and publishing their docs
-- Cons: Our IA and guidelines are still incomplete/rough around the edges. Letting a bunch of publishers in ASAP might be a little chaotic
-
+  - Clarity that the person who clicks the "publish" button isn't necessarily on the hook for conducting the minimum QA
 
 #### Option 1b: Include them _later_ (perhaps mid/end of Q3)
 
-Add PMs to the `scroll-viewport-admins` Confluence user group after we go through a few reps with the guidance.  This allows the us to:
+Grant PMs publishing power _after_ we iron out all the kinks in the guidance.  This allows the us to:
 
-- **Surface initial concerns/issues with structure or publishing guidelines before letting more people loose in the admin console**: We hypothesize 
-- Cons: teams have to wait to be fully self-service for (incomplete sentence)
+- **Surface initial concerns/issues with structure or publishing guidelines before letting more people loose in the admin console**: This takes a sequential, waterfall approach to development.
+
 
 ### Option 2: Never have PMs be part of the publishing workflow
 
-- Pros: Not many… Content team would have visibility into changes being made and could flag quality/editorial concerns 
-- Cons: Teams can’t self-serve to publish. We could be a bottleneck. We’d have to work out a regular content “deployment” schedule and support it (e.g., someone from our team publishes daily at 3PM)
+The Content team holds sole publishing power.  This allows us to enforce rigorous QA and maintain strict editorial control.
+- _More detail:_ We would have visibility into changes being made and could flag quality/editorial concerns.  However, this comes at the expense of being a bottleneck to Platform teams' ability to write/release information to VFS teams.  To mitigate this bottleneck risk, the Content Team would have to work out and maintain a regular content “deployment” schedule, which would very likely come at the expense of future initiative work.
 
 
 ## Decision
