@@ -34,7 +34,7 @@ Planning:
 Desired date: mid-May
 Post-launch KPI 1: 1.5 ctr of link icons, per page
 
-##1-week results:##
+## 1-week results:
 
 Number of unique users: 
 
@@ -47,7 +47,7 @@ Any UX changes necessary based on the logs, or feedback on user challenges, or V
 If yes, what: 
 
 
-##1-month results:##
+## 1-month results:
 
 Number of unique users: 
 
@@ -58,6 +58,6 @@ Types of errors logged:
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 If yes, what: 
 
-Post-launch Questions
+## Post-launch Questions
 
 
