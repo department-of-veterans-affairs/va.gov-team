@@ -15,10 +15,10 @@
 
 ## Do you plan to bring this to an upcoming content office hours session?
 
-- [ ] Yes, benefit content office hours
-- [ ] Yes, chatbot content office hours
-- [ ] Yes, health  content office hours
-- [ ] Yes, unauth office hours
+- [ ] Yes, benefit content office hours (Thursdays, 3:00 p.m. to 3:45 p.m. ET)
+- [ ] Yes, chatbot content office hours (Fridays, 2:00 p.m. to 3:00 p.m. ET)
+- [ ] Yes, health  content office hours (Thursdays, 11:00 a.m. to 11:30 a.m. ET)
+- [ ] Yes, unauth office hours (Mondays, 11:00 a.m. to 11:30 a.m. ET)
 - [ ] No, but I'd like to schedule time to talk about this request
 - [ ] No
 
