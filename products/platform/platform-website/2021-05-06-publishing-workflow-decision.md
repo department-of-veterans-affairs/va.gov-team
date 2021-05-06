@@ -15,18 +15,19 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
     - [Scroll Viewport admin console](https://vfs.atlassian.net/wiki/plugins/servlet/ac/com.k15t.scroll.scroll-viewport/k15t-vpc-overview-page)
 - This rec is for the [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23799) called "Publish guidelines re: how to contribute to the Platform Website (Develop guidelines)"
   - The ticketed work is part of the 2021 Q2 ["Develop guidelines" initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22190): Platform Website — Develop migration, publishing, and maintenance guidelines for Platform Teams #22190
-- [2021 Jan decision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md#option-1-recommended-by-the-contentia-team-continue-using-scroll-viewport-with-confluence-cloud) to use Scroll Viewport to maintain greater control over the publishing workflow
 
 
 ## Context
 
-The Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.  A section of the guidance outlines how to turn a draft page into a publicly viewable one on the Platform Website (aka "publishing," which is a sub-step of the publishing workflow).
+In 2021 Jan, [OCTO-DE and the Content Team decided to use Scroll Viewport](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md#option-1-recommended-by-the-contentia-team-continue-using-scroll-viewport-with-confluence-cloud) to, in part, maintain greater control over the publishing workflow.
+
+Now, the Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.  A section of the guidance outlines how to turn a draft page into a publicly viewable one on the Platform Website (aka the act of "publishing," which is a sub-step of the publishing workflow).  To finish writing publishing instructions, we need to determine who on the Platform is able to publish documents.
 
 ## Paths forward
 
-### Option 1: Include Platform PMs in tthe publishing workflow
+### Option 1: Include Platform PMs in the publishing workflow
 
-#### Option 1a (recommendation): Include them immediately
+#### Option 1a (recommendation): Include them _immediately_
 
 Add PMs to the `scroll-viewport-admins` Confluence user group right away.  This allows the us to:
 
@@ -51,7 +52,7 @@ the person who hits teh "SVP publish button" isn't necesary the person who does 
 - Cons: Our IA and guidelines are still incomplete/rough around the edges. Letting a bunch of publishers in ASAP might be a little chaotic
 
 
-#### Option 1b: Include them later (perhaps mid/end of Q3)
+#### Option 1b: Include them _later_ (perhaps mid/end of Q3)
 
 Add PMs to the `scroll-viewport-admins` Confluence user group after we go through a few reps with the guidance.  This allows the us to:
 
