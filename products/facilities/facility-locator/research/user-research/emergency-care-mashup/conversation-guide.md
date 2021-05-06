@@ -116,7 +116,7 @@ Does the distinction between 'Service type' options matter to you?
 
 I have just a couple more questions before we finish up:
 
-- Can you think of anything that would make this website easier for you to use next time?
+- If you could change one thing on this site to make searching for locations easier, what would that be? (If anything):
 - Is there anything that I haven't asked you that you think that I should know?
 - Any questions for me? 
 
