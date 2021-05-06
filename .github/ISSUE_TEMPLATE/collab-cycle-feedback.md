@@ -36,5 +36,5 @@ assignees: ''
 - Add your feedback
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
-  - **Usability Testing Prep**: VFS PM, yourself (optional)
+  - **Midpoint Review**: VFS PM, yourself (optional)
   - **Staging Review**: VFS PM, yourself (optional)
