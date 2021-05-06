@@ -2,7 +2,7 @@
 name: Ops Issue Template
 about: For filing issues.
 title: ''
-labels: ''
+labels: 'operations, devops, needs-grooming'
 assignees: ''
 
 ---
