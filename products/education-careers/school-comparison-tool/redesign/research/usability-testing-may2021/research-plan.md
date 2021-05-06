@@ -71,8 +71,14 @@ Please list your participant criteria in two categories-
 3. Length of Sessions: How long do you estimate each session will be? 
 - 45 minute sessions
 
-5.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-6.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**.
+
+- Tues, May 25:  9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 2:15 - 3 PM
+- Wed, May 26: 9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 2:15 - 3 PM
+- Thurs, May 27: 9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 3:15 - 4 PM
+
+
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
  - May 21st, 2021
 	
 ## Team Roles	
