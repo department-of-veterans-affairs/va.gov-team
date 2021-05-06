@@ -1,4 +1,3 @@
-All product guides should be created and saved as a word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A complete product guide will include the following:
 
 ## Table of Contents:
 
