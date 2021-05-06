@@ -15,6 +15,7 @@
   - Replace connect() with hooks 
   - Surface eligibility enrollment data to vets-website
   - VAOS Service Integration (GET Patient Metadata) 
+  - VAOS Service Integration (GET Appointments)
 
 - Corey
   - VAOS Service Integration (GET Clinics)
@@ -47,11 +48,14 @@
   - Bug roundup from staging and Sentry pass
   - Clean up Community Care appointment and request transform
   - Create functions to fetch VATS settings in Location service
+  - Refactor eligibility to work better with VAOS service approach
 
 - Lance
   - Add Cypress tests to cover both contact facilities page variations in vaccine flow
   - Cheetah code reference clean-up
   - Replace connect() with hooks
+  - Appointment request confirmation (Homepage Refresh)
+  - Come up with better approach for organizing Cypress mock data setup
   
 
 ## Rules of engagement
