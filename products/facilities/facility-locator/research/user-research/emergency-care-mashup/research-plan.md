@@ -74,4 +74,4 @@ Please list the people who will be serving in each role.
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
 - Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us)
-- OCC Observers: *TBD*
+- OCC Observers: *(Michelle Midaugh TBD)*
