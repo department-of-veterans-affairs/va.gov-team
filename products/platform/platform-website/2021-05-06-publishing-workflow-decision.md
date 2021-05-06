@@ -61,3 +61,11 @@ Add PMs to the `scroll-viewport-admins` Confluence user group after we go throug
 ## Decision
 
 To come.
+
+
+notes with Amy:
+- PMs to do QA
+  - avoiding common publishing errors re: not screwing uup someone else's stuff (workflow, COnf oreiented)
+  - basics of Conf, how to use the templates, how to use spaces
+  - style guide
+  - not willy nilly, YOU are the point person for collaborating with us
