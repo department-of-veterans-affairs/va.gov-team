@@ -58,6 +58,10 @@ Grant PMs publishing power _after_ we iron out all the kinks in the guidance.  T
 The Content team holds sole publishing power.  This allows us to enforce rigorous QA and maintain strict editorial control.
 - _More detail:_ We would have visibility into changes being made and could flag quality/editorial concerns.  However, this comes at the expense of being a bottleneck to Platform teams' ability to write/release information to VFS teams.  To mitigate this bottleneck risk, the Content Team would have to work out and maintain a regular content “deployment” schedule, which would very likely come at the expense of future initiative work.
 
+### Option 3: Have everyone be able to publish (raised in 5/6 sync)
+- We don't know if there is a limit to the size of `scroll-viewport-admins`
+- Even if someone in the Scroll Viewport admin group does accidentally change a blueprint, it doesn't have the same scope of consequences as messing up VA.gov
+- 
 
 ## Decision
 
