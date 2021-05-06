@@ -1,5 +1,5 @@
 # VAOS Sprint 38 (a & b) Demo
-
+---
 ## Agenda
 
 ### Welcome
@@ -57,6 +57,11 @@
   - Appointment request confirmation (Homepage Refresh)
   - Come up with better approach for organizing Cypress mock data setup
   
+### Design
+
+- Peter
+
+---
 
 ## Rules of engagement
 - Camera on - let's be a real audience for our presenters.
