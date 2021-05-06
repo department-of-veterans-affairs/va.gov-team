@@ -56,16 +56,21 @@ Study dates: Mon 5/17 - Fri 5/21
 Session length: 1 hours
 
 Date | Time
------|------
+-----|-----
+5/17 | 9am - 10am, 12pm - 1pm, 2pm - 3pm
+5/18 | 3pm - 5pm
+5/19 | 9am - 11am, 1pm - 3pm
+5/20 | 9am - 11am, 1pm - 5pm
 
+A pilot session will be held *[TBD]*
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 - Moderator: Nick Osmanski (nick.osmanski@amida.com)
 - Research guide writing and task development: Nick Osmanski (nick.osmanski@amida.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Nick Osmanski	
+- Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
 - Participant(s) for pilot test: *TBD*
 - Note-takers: Perigean 
-- Observers: 
+- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us)
 - OCC Observers: *TBD*
