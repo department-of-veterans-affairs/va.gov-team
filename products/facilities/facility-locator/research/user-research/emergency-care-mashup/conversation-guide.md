@@ -35,15 +35,14 @@ Before we start, a few things I want to mention:
 
 * **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-
-## Warm-up Questions - 3 minutes
+## Warm-up Questions - 5 minutes
 
 * Can you tell me a little about your service history?
-* Have you received any emergency care in the past year?
-    * If yes: can you tell me about that experience?
+* Have you received any emergency care at any location in the past year?
+    * If yes: can you tell me about that experience there?
     * If yes: can you tell me why you decided on that particular location?
 
-## Usability Test - 25 minutes
+## Usability Test - 30 minutes
 
 I'm going to share a link to a prototype here in the zoom chat window for you to click on. 
 Then I'll want you to share your screen so that I can follow along and see what you see.
@@ -74,14 +73,14 @@ I'm going to walk us through a scenario and have you perform a couple tasks.
 Again, this is only a prototype so some things might not work as expected. 
 As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
 
-I'd like you to imagine that you live in Denver, CO. You are coming to this site because you would like to learn more about the closest locations that offer emergency care services.
+In this scenario, let's imagine that you live near Denver, CO, and that in the past, you experienced a situation where you needed immediate care. You are coming to this site because you would like to learn more about the locations closest to you, should you experience something similar in the future.
 
 ### Task 1
 
 #### PROTOTYPE: Open-ended search results
 #### Questions:
 
-Perform a search for nearby locations that have emergency care services.
+I would like you to perform a search for locations that would be relevant to you.
   - (Point out steps, probe throught process):
   - Can you walk me through that process?
   - Tell me about what you see in this results list.
