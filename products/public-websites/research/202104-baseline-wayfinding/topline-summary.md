@@ -28,7 +28,11 @@ In this research study, wayfinding on VA.gov is being measured in terms of parti
 If not all of the above tasks are easy to do from the VA.gov home page, there may be opportunities for improvement in navigation (which will be covered in the full research report).
 
 ## Participants
-We talked to **13 Veterans**, including one who was also a caregiver for another Veteran. One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
+We talked to **13** participants:
+- 12 Veterans, including one who was also a caregiver for another Veteran
+- 1 family member of a Veteran
+
+One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
 
 ## Usability Successes
 
