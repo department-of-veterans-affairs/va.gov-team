@@ -7,7 +7,6 @@ Product Overview
 User Access
 Navigation
 Functionality
-Major Issues and Error Messages
 
 ## Product Overview:
 
@@ -58,7 +57,7 @@ URL and screenshot from the VA.gov homepage: https://www.va.gov/
  - When the button + text cannot be displayed to the right of the button (because there is not enough room to the right of the button), it displays to the left, overlapping the h3
 
 
- 
+ ** Make word doc
 
 https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
 https://github.com/department-of-veterans-affairs/va.gov-team/files/4245076/GI.Bill.Comparison.Tool.Product.guide.docx
