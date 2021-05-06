@@ -25,5 +25,5 @@ _Notes around work that is happening, if applicable_
 
 ---
 ### Reminders
-- [ ] Please attach your team label and any other appropriate label(s) 
+- [ ] Please attach your team label and any other appropriate label(s) (operations, devops, and needs-grooming will automatically be applied as part of the template)
 - [ ] Please connect to an epic
