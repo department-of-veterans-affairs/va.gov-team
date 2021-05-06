@@ -55,14 +55,12 @@ Study dates: Mon 5/17 - Fri 5/20
 
 Session length: 1 hour
 
-Time between consecutive sessions: 15 minutes
-
 Date | Time
 -----|-----
 5/17 | 9am - 10am, 12pm - 1pm, 2pm - 3pm
-5/18 | 3pm - 5pm
-5/19 | 9am - 11am, 1pm - 3pm
-5/20 | 9am - 11am, 1pm - 5pm
+5/18 | 3pm - 4pm
+5/19 | 9am - 10am, 12pm - 1pm, 2pm - 3pm
+5/20 | 9am - 10am, 12pm - 1pm, 2pm - 3pm, 4pm - 5pm
 
 A pilot session will be held *[TBD]*
 
