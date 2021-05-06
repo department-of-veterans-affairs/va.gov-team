@@ -18,7 +18,7 @@ We talked to **13 Veterans**, including one who was also a caregiver for another
 1. All participants were able to successfully complete 3 of the 9 tasks, and most completed 2 more of the tasks.
 1. Most participants used the links in the "top 4" boxes extensively.
 1. All of the 5 participants who were shown the *Resources and support* page were able to use it to complete the relevant task.
-1. 2 participants noticed typeahead prompts while searching and used them.
+1. Two participants noticed typeahead prompts while searching and used them.
 1. Half of the participants used the links in the left nav on content pages.
 1. The VA.gov home page worked well with a screen reader.
 
@@ -31,6 +31,6 @@ We talked to **13 Veterans**, including one who was also a caregiver for another
 1. Calling the VA is what many participants say they do if they can't find what they're looking for, but many try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments.
 1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
 1. Half of the participants never scrolled down past the row of images on the home page.
-1. 4 participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative").
-1. 3 participants complained about the COVID banner alert they kept seeing.
-1. 1 older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
+1. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative").
+1. Three participants complained about the COVID banner alert they kept seeing.
+1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
