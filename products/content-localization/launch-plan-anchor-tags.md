@@ -32,6 +32,7 @@ Go Live!
 Planning:
 
 Desired date: mid-May
+
 Post-launch KPI 1: 1.5 ctr of link icons, per page
 
 ## 1-week results:
@@ -39,7 +40,6 @@ Post-launch KPI 1: 1.5 ctr of link icons, per page
 Number of unique users: 
 
 Post-launch KPI 1 actual: 
-
 
 Types of errors logged: 
 
