@@ -32,6 +32,11 @@ We talked to **13** participants:
 - 12 Veterans, including one who was also a caregiver for another Veteran
 - 1 family member of a Veteran
 
+Participants were on a variety of devices:
+- 8 on a desktop/laptop computer
+- 4 on a smartphone
+- 1 on a tablet
+
 One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
 
 ## Usability Successes
@@ -57,10 +62,10 @@ One of the sessions was cut short due to technology issues, so most of the findi
 1. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
 1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
 1. Half of the participants never scrolled down past the row of images on the home page.
-1. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative").
 1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
 
 ### Content
+1. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative").
 1. Three participants complained about the COVID banner alert they kept seeing.
 
 ### Other
