@@ -1,6 +1,6 @@
 # Should Platform PMs be a part of Platform Website publishing workflow?
 
-This doc provides context to make a decison around _if we should or shouldn't_ include Platform PMs in the Platform Website's publishing workflow.
+This doc provides context to make a decison around _including or excluding_ Platform PMs in the Platform Website's publishing workflow.
 
 _Authors:_ Liani Lye, Platform Team: Content/IA
 
@@ -15,11 +15,14 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
     - [Scroll Viewport admin console](https://vfs.atlassian.net/wiki/plugins/servlet/ac/com.k15t.scroll.scroll-viewport/k15t-vpc-overview-page)
 - This rec is for the [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23799) called "Publish guidelines re: how to contribute to the Platform Website (Develop guidelines)"
   - The ticketed work is part of the 2021 Q2 ["Develop guidelines" initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22190): Platform Website — Develop migration, publishing, and maintenance guidelines for Platform Teams #22190
+- [2021 Jan decision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md#option-1-recommended-by-the-contentia-team-continue-using-scroll-viewport-with-confluence-cloud) to use Scroll Viewport to maintain greater control over the publishing workflow
 
 
 ## Context
 
-The Content Team is writing roles and responsiblity and publishing workflow guidance.  Here are the options we see REGARDING XYZ.
+The Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.
+
+writing roles and responsiblity and publishing workflow guidance.  Here are the options we see REGARDING XYZ.
 
 In this discussion, "publishing workflow" means taking a draft page and making it live (viewable by VFS teams and the general public) on the Platform Website.
 
