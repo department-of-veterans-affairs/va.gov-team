@@ -40,6 +40,13 @@ Considerations
 - We'd have to do additional trainings with the PMs, esp since we said that we wanted to greater control over the publishing workflow in the [2021 Jan Scroll Viewport rec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md)
 - We'd have to be specific about where draft pages can live so they don't get mixed up
 
+the need to have things out quickly outweighs the need for editorial control
+we don't have enough people on the content team to be super rigorous about qa and editorial control
+
+
+before we have specific training, we'd have to tune the dial of 
+we'd have to set the bar for minimum - Platform instead of VSP, are the numbers actaully sequential or should we have a bullet list
+the person who hits teh "SVP publish button" isn't necesary the person who does the QA
 
 - Pros: as soon as teams have their guidelines, they can be self-sufficient in creating and publishing their docs
 - Cons: Our IA and guidelines are still incomplete/rough around the edges. Letting a bunch of publishers in ASAP might be a little chaotic
