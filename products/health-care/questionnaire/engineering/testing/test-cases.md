@@ -12,37 +12,39 @@
   - [Test Case B: Upcoming Appointment, Questionnaire is still in progress](#test-case-b-upcoming-appointment-questionnaire-is-still-in-progress)
     - [Description / Use case](#description--use-case-1)
     - [Expected Outcome](#expected-outcome-1)
+    - [JSON Overrides](#json-overrides)
   - [Test Case C: Completed questionnaire for a future appointment](#test-case-c-completed-questionnaire-for-a-future-appointment)
     - [Description / Use Case](#description--use-case-2)
     - [Expected Outcome](#expected-outcome-2)
+    - [JSON Overrides](#json-overrides-1)
   - [Test Case D: Cancelled Appointment with an In-progress questionnaire](#test-case-d-cancelled-appointment-with-an-in-progress-questionnaire)
     - [Description / Use Case](#description--use-case-3)
     - [Expected Outcome](#expected-outcome-3)
+    - [JSON Overrides](#json-overrides-2)
   - [Test Case E: Cancelled Future Appointment with a Completed questionnaire](#test-case-e-cancelled-future-appointment-with-a-completed-questionnaire)
     - [Description / Use Case](#description--use-case-4)
     - [Expected Outcome](#expected-outcome-4)
+    - [JSON Overrides](#json-overrides-3)
   - [Test Case F: Cancelled appointment no questionnaire response](#test-case-f-cancelled-appointment-no-questionnaire-response)
     - [Description / Use Case](#description--use-case-5)
     - [Expected Outcome](#expected-outcome-5)
-    - [JSON Overrides](#json-overrides)
+    - [JSON Overrides](#json-overrides-4)
   - [Test Case G: Not Completed Questionnaire for a past appointment](#test-case-g-not-completed-questionnaire-for-a-past-appointment)
     - [Description / Use Case](#description--use-case-6)
     - [Expected Outcome](#expected-outcome-6)
-    - [JSON Overrides](#json-overrides-1)
+    - [JSON Overrides](#json-overrides-5)
   - [Test Case H: Completed Questionnaire for a past appointment](#test-case-h-completed-questionnaire-for-a-past-appointment)
     - [Description / Use Case](#description--use-case-7)
     - [Expected Outcome](#expected-outcome-7)
-  - [Test Case I: Completed Questionnaire for a canceled appointment in the past](#test-case-i-completed-questionnaire-for-a-canceled-appointment-in-the-past)
+    - [JSON Overrides](#json-overrides-6)
+  - [Test Case J: Not Completed Questionnaire for a canceled appointment in the past](#test-case-j-not-completed-questionnaire-for-a-canceled-appointment-in-the-past)
     - [Description / Use Case](#description--use-case-8)
     - [Expected Outcome](#expected-outcome-8)
-  - [Test Case J: Not Completed Questionnaire for a canceled appointment in the past](#test-case-j-not-completed-questionnaire-for-a-canceled-appointment-in-the-past)
+    - [JSON Overrides](#json-overrides-7)
+  - [Test Case K: Use has an appointment in the future with no Questionnaire](#test-case-k-use-has-an-appointment-in-the-future-with-no-questionnaire)
     - [Description / Use Case](#description--use-case-9)
     - [Expected Outcome](#expected-outcome-9)
-    - [JSON Overrides](#json-overrides-2)
-  - [Test Case K: Use has an appointment in the future with no Questionnaire](#test-case-k-use-has-an-appointment-in-the-future-with-no-questionnaire)
-    - [Description / Use Case](#description--use-case-10)
-    - [Expected Outcome](#expected-outcome-10)
-    - [JSON Overrides](#json-overrides-3)
+    - [JSON Overrides](#json-overrides-8)
 
 ## How to access in Staging
 
@@ -94,6 +96,13 @@ A user has an appointment with a questionnaire in the future and started to fill
 
 The user would be able to access their "In-progress" questionnaire from the [To Do section of the questionnaire manager page](https://zpl.io/aXlD9Yg), fill out the questionnaire (same wireframes links as the first test case, submit it, then the completed questionnaire would appear on the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF of their questionnaire responses.
 
+### JSON Overrides
+
+| what you will see | api call  | json to use |
+| ---- | --------  | ----------- |
+| see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
+| set that appointment to in-progress status | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.in.progress.appointment.json) |
+
 ## Test Case C: Completed questionnaire for a future appointment
 
 ### Description / Use Case
@@ -103,6 +112,13 @@ A user has an appointment with a questionnaire, and the user has completed the q
 ### Expected Outcome
 
 The user would be able to access their completed questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
+
+### JSON Overrides
+
+| what you will see | api call  | json to use |
+| ---- | --------  | ----------- |
+| see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
+| set that appointment to complete status | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.completed.appointment.json) |
 
 ## Test Case D: Cancelled Appointment with an In-progress questionnaire
 
@@ -114,6 +130,13 @@ A user has an appointment in the future that is canceled. The user has already s
 
 The user would be able to access their "Canceled" questionnaire from the [To Do section of the questionnaire manager page](https://zpl.io/aXlD9Yg). Their in-progress answers are available to view via a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) with their in-progress responses.
 
+### JSON Overrides
+
+| what you will see | api call  | json to use |
+| ---- | --------  | ----------- |
+| see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
+| set that appointment to complete in-progress and cancelled | GET /health_quest/v0/questionnaire_manager| [JSON](json/up.coming.cancelled.in.progress.appointment.json) |
+
 ## Test Case E: Cancelled Future Appointment with a Completed questionnaire
 
 ### Description / Use Case
@@ -123,6 +146,13 @@ A user has an appointment in the future that is canceled. The user has already f
 ### Expected Outcome
 
 The user would be able to access their "Canceled" questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
+
+### JSON Overrides
+
+| what you will see | api call  | json to use |
+| ---- | --------  | ----------- |
+| see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
+| set that appointment to complete completed and cancelled | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.cancelled.completed.appointment.json) |
 
 ## Test Case F: Cancelled appointment no questionnaire response
 
@@ -168,15 +198,12 @@ A user has filled out a questionnaire for an appointment in the past.
 
 The user would be able to access their completed questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
 
-## Test Case I: Completed Questionnaire for a canceled appointment in the past
+### JSON Overrides
 
-### Description / Use Case
-
-A user has filled out a questionnaire for an appointment in the past, but the appointment was canceled.
-
-### Expected Outcome
-
-The user would be able to access their "Canceled" questionnaire from the [Completed section of the questionnaire manager page](https://zpl.io/2y4XrMJ) with a button to "View and print questions." The button would open a PDF (Wireframe of PDF [page 1](https://zpl.io/VOlMez8) and [page 2](https://zpl.io/VQ6o5Y5)) of their questionnaire responses.
+| what you will see | api call  | json to use |
+| ---- | --------  | ----------- |
+| see 1 upcoming | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.appointment.json) |
+| set that appointment to complete completed and in the past | GET /health_quest/v0/questionnaire_manager| [JSON](./json/up.coming.cancelled.completed.appointment.json) |
 
 ## Test Case J: Not Completed Questionnaire for a canceled appointment in the past
 
