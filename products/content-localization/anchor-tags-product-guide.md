@@ -26,6 +26,14 @@ URL and screenshot from the VA.gov homepage: https://www.va.gov/
 
 ![image](https://user-images.githubusercontent.com/74627978/117061885-b8f31900-acf0-11eb-9352-9cb52d5cf6be.png)
 
+![image](https://user-images.githubusercontent.com/74627978/117226603-fafc8780-ade2-11eb-98ee-b5cda6b01aa0.png)
+
+![image](https://user-images.githubusercontent.com/74627978/117226609-018aff00-ade3-11eb-8b23-aad0a7a5eea7.png)
+
+![image](https://user-images.githubusercontent.com/74627978/117226652-19628300-ade3-11eb-9956-0595bad136c0.png)
+
+![image](https://user-images.githubusercontent.com/74627978/117226657-1ebfcd80-ade3-11eb-8768-40ac4f36f1a4.png)
+
 
 ## Functionality:
 
