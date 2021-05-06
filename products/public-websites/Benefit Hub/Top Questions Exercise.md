@@ -3,24 +3,29 @@ Intent: PM/PO to review Benefit hub Home page and Health Care (Hub) and collect 
 
 ## PO Questions (Product/Scale/Scope Viewpoint)
 <details><summary>Top Questions</summary>
+
 - Home Page
    - What percentage of VA.gov users begin enter the site via HP vs. Side Door?
    - Whe
 - Benefit Hubs
   - TBD
+- Bullet 
 </details>
-
 
 
 <details><summary>Opportunities</summary>
   
+- Bullet
 
 </details>
 
 
 <details><summary>Pain Points</summary>
 
+- Bullet 
+
 </details>
+
 
 
 
