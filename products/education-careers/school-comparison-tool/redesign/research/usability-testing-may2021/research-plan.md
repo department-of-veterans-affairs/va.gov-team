@@ -1,55 +1,93 @@
 # Research Plan for Search Functionality for CT Redesign
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+As a designer I need to create a research plan to share with my team.	
+
 ## Goals	
 1. What product & team are you doing this research for?	
+
+ - Booz Allen research for Education Service / OIT
+
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+
+- The Booz Allen team has been working on a re-design of the GI Bill Comparison Tool.  Initial designs for the tool were created and tested in a prior iteration.  Due to several struggles that users encountered during testing, the team completely re-designed many of the pages and is now conducting a new round of usability testing to assess the new design.
+
+
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+4. Hypothesis: What is your hypothesis for this research? 
+ - Since many of the designs have been simplified in the new design, researchers believe that users will be able to effectively search for schools using both name and location searches.
+ 	
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - Remote moderated usability testing in a staging environment
   	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+2.	Why this method? How does this methodology help you answer your research questions? 
+- Remote moderated usability testing will allow us to observe how users interact with the search functionality. We will be able to see what the user looks at, clicks on and how they expect the functionality to work. It also allows researchers to ask questions about what the user is thinking as they are completing the tasks to gain better insight into their thoughts, actions and expectations.
+
+
+3.	Where are you planning to do your research? 
+ - Online using Zoom
+
+4.	What will you be testing?
+
+- We will be testing the design, content and flow of the screens.
+
+
+5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+
+ - Zoom
+
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+ - Recruit 12 participants
 
 Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+1. **Primary criteria / Must have** 
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+- Military status:
+    - 2 spouses
+    - 3 children
+    - 7 Veterans
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+- VA Benefit requirement:
+   - 50% using Chapter 33 Post-9/11 benefits
+   - 50% using VR&E or Chapter 30 Montgomery Bill
+
+2. **Secondary criteria / Would like to have** 
+
+- Age range: 16 - 65
+- Gender: Mix
+- Geography: Geographically dispersed across USA
 
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+ - Recruitment will be performed by Perigean Technologies	
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+- May 25-27, 2021
+ 	
+2.	Prepare: When will the thing you are testing be ready?
+ - May 20th, 2021
+	
+3. Length of Sessions: How long do you estimate each session will be? 
+- 45 minute sessions
+
+5.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+6.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+ - May 21st, 2021
+	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator:	Jen Jones; 843.214.6081; jones_jennifer2@bah.com
+- Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
+- Participant recruiting & screening:	Perigean Technologies
+- Project point of contact:	Jen Jones
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Note-takers:	Amy Knox knox_amy@bah.com; Emma Waters waters_emma@bah.com;
+- Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Will McCormack mccormack_will@bah.com; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com; Laurel Lawrence Lawrence_laurie@bah.com
+	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
