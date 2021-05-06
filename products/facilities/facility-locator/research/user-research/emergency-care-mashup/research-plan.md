@@ -62,7 +62,7 @@ Date | Time
 5/19 | 9am - 10am, 12pm - 1pm, 2pm - 3pm
 5/20 | 9am - 10am, 12pm - 1pm, 2pm - 3pm, 4pm - 5pm
 
-A pilot session will be held *[TBD]*
+A pilot session will be held Thursday 5/13 at 10:00 AM.
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
