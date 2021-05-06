@@ -25,7 +25,7 @@ In this research study, wayfinding on VA.gov is being measured in terms of parti
 1. Share VA medical history with a doctor outside the VA (get your VA medical records)
 1. Tell the VA about your new spouse (add dependent)
 
-Since not all of the above tasks turned out to be easy to do from the VA.gov home page, there may be opportunities for improvement in navigation (which will be covered in the full research report). The full report will also include which parts of the home page were most/least used, and any differences in mobile *vs.* desktop users.
+Since not all of the above tasks turned out to be easy to do from the VA.gov home page, there may be opportunities for improvement in navigation (which will be covered in the full research report). The full report will also include which parts of the home page were most/least used in the research sessions and analytics data, and any differences in mobile *vs.* desktop users.
 
 ## Participants
 We talked to **13** participants:
