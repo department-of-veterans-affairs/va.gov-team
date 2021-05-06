@@ -21,7 +21,9 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 In 2021 Jan, [OCTO-DE and the Content Team decided to use Scroll Viewport](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md#option-1-recommended-by-the-contentia-team-continue-using-scroll-viewport-with-confluence-cloud) to, in part, maintain greater control over the publishing workflow.
 
-Now, the Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.  A section of the guidance outlines how to turn a draft page into a publicly viewable one on the Platform Website (aka the act of "publishing," which is a sub-step of the publishing workflow).  To finish writing publishing instructions, we need to determine who on the Platform is able to publish documents.
+Now, the Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.  A section of the guidance outlines how to turn a draft page into a publicly viewable one on the Platform Website (aka the act of "publishing," which is a sub-step of the publishing workflow).  
+
+To finish writing publishing instructions, we need to determine who on the Platform is able to publish documents.
 
 ## Paths forward
 
