@@ -23,7 +23,7 @@ Results:
 
 Planning
 
-- Desired date range: 05/03/2021 - 05/31/2021
+- Desired date range: 05/18/2021 - 05/31/2021
 - How will you make the product available in production while limiting the number of users who can find/access it: n/a
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: n/a since we are rolling out to prod at 100% of users after resolving all issues found during UAT staging test.
 
@@ -31,7 +31,7 @@ Go Live!
 
 Planning:
 
-Desired date: 5/3/21
+Desired date: mid-May
 Post-launch KPI 1: 1.5 ctr of link icons, per page
 
 ##1-week results:##
