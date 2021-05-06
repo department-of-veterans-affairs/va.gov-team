@@ -24,6 +24,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+#### April 12 - 13: 1010-CG Round 2 Sign as Representative Usability Testing
+*Caregiver Team, Lead Researcher: Shawna Hein, Dené Gabaldon*
+
+- Number of participants: 5
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
+
+- List of keywords: veterans, caregivers, representative, POA, upload
 
 #### April 8 - 13: Check-in (Veteran-facing) Remote Discovery Research
 *Healthcare Experience, Lead Researcher: Kristen McConnell*
