@@ -54,6 +54,7 @@ Participant Criteria:
 Study dates: Mon 5/17 - Fri 5/21
 
 Session length: 1 hours
+Time between consecutive sessions: 15 minutes
 
 Date | Time
 -----|-----
