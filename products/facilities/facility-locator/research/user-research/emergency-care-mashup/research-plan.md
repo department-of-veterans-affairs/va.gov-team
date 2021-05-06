@@ -71,7 +71,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Nick Osmanski (nick.osmanski@amida.com)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
-- Participant(s) for pilot test: *TBD*
+- Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
 - Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us)
 - OCC Observers: *TBD*
