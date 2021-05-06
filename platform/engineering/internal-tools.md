@@ -192,10 +192,10 @@ The next steps are going to create a `~/.ssh/config` file. If you already have a
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
     * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a>
     * Right click and save the resulting file to ~/.ssh/config, or alternately,
-    * copy the entire URL of the new tab and from within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy`): `curl -o ~/.ssh/config $URL`. 
+    * copy the entire URL of the new tab and from within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy`): `curl -o ~/.ssh/config "$URL"`.
 
 ```
-❯ curl -o ~/.ssh/config https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy
+❯ curl -o ~/.ssh/config "https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy"
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  5804  100  5804    0     0  15602      0 --:--:-- --:--:-- --:--:-- 15602
