@@ -45,7 +45,7 @@ OK,let's get started.
 OK, please share your screen, and then we will get started. 
 
 
-## Navigating to My VA - ~1 minute
+## Navigating to My VA - 2 minutes
 
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and login.
 
@@ -100,7 +100,7 @@ OK, please share your screen, and then we will get started.
 - Okay great, let's head back to your My VA page. Go ahead and click 'Manage all claims and appeals'. 
   - [ ] **UAT TASK:** Takes user to claims tool page.
 
-## Health care - 3 min 
+## Health care - 5 min 
 
 *if a user does NOT have health care*
   - [ ] **UAT TASK:** The health care section does not show.
@@ -171,7 +171,7 @@ OK, please share your screen, and then we will get started.
 - And let's go back to your My VA page. Now if you could click on 'Get your VA medical records'. 
   - [ ] **UAT TASK:** Takes user to va.gov medical records page.
 
-## Apply for VA benefits - 3 min 
+## Apply for VA benefits - 2 min 
 
 - Great! Let's move on to the 'Apply for VA benefits' section. Go ahead and click on the 'What benefits does VA offer?' dropdown.
   - [ ] **UAT TASK:** Dropdown works correctly.
@@ -183,6 +183,7 @@ OK, please share your screen, and then we will get started.
 
 - Okay next, we'll take a look at the 'Applications in progress' section. Does this look correct to you?
   - [ ] **UAT TASK:** Applications in progress information is being pulled in correctly.
+  - [ ] **UAT TASK:** If a user has no applications in progress, the correct messaging is displayed.
 
 *if a user has applications in progress*
 
@@ -192,6 +193,36 @@ OK, please share your screen, and then we will get started.
 
 - Okay great, let's head back to your My VA page.
 
+### Benefits you might be interested in
+
+- Let's look at the 'Benefits you might be interested in' section.
+  - [ ] **UAT TASK:** Benefits you might be interested in is displaying correctly depending on what benefits the user has.
+
+*if a user has no health care*
+
+- Go ahead and click on 'Learn how to apply for VA health care'.
+  - [ ] **UAT TASK:** Links to the learn how to apply for VA health care page.
+
+*All users*
+
+- Go ahead and click on 'Learn how to file a VA disability claim'.
+  - [ ] **UAT TASK:** Links to the learn how to file a claim page.
+
+*If a user does NOT receive education payments*
+
+- Go ahead and click on 'Learn how apply for VA education benefits'.
+  - [ ] **UAT TASK:** Links to the learn how to apply for a education benefits page.
+
+## Post-Task Interview - 1 minutes
+
+  - Do you have any feedback on what we looked at today?
+  - Do you have any questions for me?
+
+## Thank-You and Closing - 1 minutes
+
+Well we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.
 
 
+Any questions before we sign off?
 
+Great, well thank you so much again, and enjoy the rest of your day!
