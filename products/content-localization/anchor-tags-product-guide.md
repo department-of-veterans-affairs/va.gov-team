@@ -50,7 +50,6 @@ URL and screenshot from the VA.gov homepage: https://www.va.gov/
 
 ## Functionality:
 
-This section will go over the actual functionality of your product. Depending on the complexity of your product, this section will be the longest part of your product guide. We know it is difficult to point out every single feature of the product, particularly for an application, but please provide as much detail as possible because it helps contact center agents better address veteran questions. If your product has different stages or sections, we recommend breaking this section into subsections to cover the different parts of your product (i.e. wizards, different sections of an application, etc).
 
  - The copy icon will be visible at the end of each question
  - Upon hovering (on desktop), the square enclosing the icon will change color to help users understand that the icon is actionable
