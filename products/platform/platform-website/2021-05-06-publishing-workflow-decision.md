@@ -25,22 +25,24 @@ Now, the Content Team is explaining the Confluence and Scroll Viewport publishin
 
 To finish writing publishing instructions, we need to determine who on the Platform is able to publish documents.
 
+Folks in the `scroll-viewport-admins` Confluence user group have publishing power.
+
 ## Paths forward
 
 ### Option 1: Include Platform PMs in the publishing workflow
 
 #### Option 1a (recommendation): Include them _immediately_
 
-Add PMs to the `scroll-viewport-admins` Confluence user group right away.  This allows the us to:
+Grant PMs publishing power right away.  This allows the us to:
 
-they don't have to act as publishers immediately, tthey can have a transition period
+- **Empower Platform teams to self-serve by creating and publishing their own docs:**  We hypothesize that allowing self-service will allow more autonomous and timely maintenance of Platform Website content.
 
-- **Empower Platform teams to self-serve by creating and publishing their own docs:**  We hypothesize that...
-  - Content Team not a bottleneck, faster maintenance of Platform Website
-
-Considerations
-- We'd have to do additional trainings with the PMs, esp since we said that we wanted to greater control over the publishing workflow in the [2021 Jan Scroll Viewport rec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-website/2021-01-29-scroll-viewport-decision.md)
-- We'd have to be specific about where draft pages can live so they don't get mixed up
+_Considerations:_
+- The Content team would need to:
+  - Tease apart the types of trainings we are hosting: How to audit your content, How to contribute to the PW, and now How to publish content
+  - Specify the minimum quality bar; examples:
+    - Using "Platform" instead of "VSP"
+    - Defining when to use numbered vs bulleted lists
 
 the need to have things out quickly outweighs the need for editorial control
 we don't have enough people on the content team to be super rigorous about qa and editorial control
