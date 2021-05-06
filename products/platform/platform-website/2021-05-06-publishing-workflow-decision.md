@@ -20,11 +20,7 @@ _Decision maker:_ Rachael Roueche, Platform OCTO-DE lead
 
 ## Context
 
-The Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.
-
-writing roles and responsiblity and publishing workflow guidance.  Here are the options we see REGARDING XYZ.
-
-In this discussion, "publishing workflow" means taking a draft page and making it live (viewable by VFS teams and the general public) on the Platform Website.
+The Content Team is explaining the Confluence and Scroll Viewport publishing workflow in our [Create a new Platform website page](https://vfs.atlassian.net/wiki/spaces/~369451595/pages/1397194792/Create+a+new+Platform+website+page) guidance.  A section of the guidance outlines how to turn a draft page into a publicly viewable one on the Platform Website (aka "publishing," which is a sub-step of the publishing workflow).
 
 ## Paths forward
 
