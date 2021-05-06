@@ -28,7 +28,6 @@ Before we start, a few things I want to mention:
   * You cannot do anything wrong. I will not be offended by any opinions you express, and I welcome your feedback.
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-  * If no: *[TBD?]*
 * **If for any reason and at any time you want to stop the session, please let me know.**
 
 ### START RECORDING TO THE CLOUD
