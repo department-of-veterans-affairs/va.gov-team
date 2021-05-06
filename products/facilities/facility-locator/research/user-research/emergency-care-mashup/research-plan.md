@@ -53,7 +53,8 @@ Participant Criteria:
 
 Study dates: Mon 5/17 - Fri 5/20
 
-Session length: 1 hours
+Session length: 45 minutes
+
 Time between consecutive sessions: 15 minutes
 
 Date | Time
@@ -73,5 +74,4 @@ Please list the people who will be serving in each role.
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us)
-- OCC Observers: *(Michelle Midaugh TBD)*
+- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us), *Office of Community Care* stakeholders
