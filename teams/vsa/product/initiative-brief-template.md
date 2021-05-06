@@ -2,7 +2,7 @@
 #### Overview
 *Initiatives are opportunities to achieve a particular outcome. 
 There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs, which describe iterations.* 
-*Examples:*
+ *Examples:*
  - *Product: On-site Search | Initiative: Type-ahead*
  - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
  - *Product: Disability Claims | Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
