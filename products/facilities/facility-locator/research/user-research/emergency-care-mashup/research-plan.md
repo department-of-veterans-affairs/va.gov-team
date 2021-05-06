@@ -51,7 +51,7 @@ Participant Criteria:
 
 ## Timeline
 
-Study dates: Mon 5/17 - Fri 5/21
+Study dates: Mon 5/17 - Fri 5/20
 
 Session length: 1 hours
 Time between consecutive sessions: 15 minutes
