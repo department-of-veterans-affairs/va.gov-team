@@ -26,5 +26,4 @@ _Notes around work that is happening, if applicable_
 ---
 ### Reminders
 - [ ] Please attach your team label and any other appropriate label(s) 
-- [ ] Please attach the needs grooming tag if needed
 - [ ] Please connect to an epic
