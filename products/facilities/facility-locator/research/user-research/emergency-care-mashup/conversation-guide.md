@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 * Can you tell me a little about your service history?
-* Have you received any emergency care at any location in the past year?
+* Have you visited any location in the last year, after experiencing what you thought was an emergency?
     * If yes: can you tell me about that experience there?
     * If yes: can you tell me why you decided on that particular location?
 
