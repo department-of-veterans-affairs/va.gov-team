@@ -25,7 +25,7 @@ Planning
 
 - Desired date range: 05/03/2021 - 05/31/2021
 - How will you make the product available in production while limiting the number of users who can find/access it: n/a
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: N/A since we are rolling out to prod at 100% of users after resolving all issues found during UAT staging test.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: n/a since we are rolling out to prod at 100% of users after resolving all issues found during UAT staging test.
 
 Go Live!
 
@@ -34,22 +34,29 @@ Planning:
 Desired date: 5/3/21
 Post-launch KPI 1: 1.5 ctr of link icons, per page
 
-1-week results:
+##1-week results:##
 
-Number of unique users: x
-Post-launch KPI 1 actual: xx lorem ipsum
-Types of errors logged: lorem ipsum
+Number of unique users: 
+
+Post-launch KPI 1 actual: 
+
+
+Types of errors logged: 
+
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-If yes, what: lorem ipsum
+If yes, what: 
 
 
-1-month results:
+##1-month results:##
 
-Number of unique users: x
-Post-launch KPI 1 actual: xx lorem ipsum
-Types of errors logged: lorem ipsum
+Number of unique users: 
+
+Post-launch KPI 1 actual: 
+
+Types of errors logged: 
+
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-If yes, what: lorem ipsum
+If yes, what: 
 
 Post-launch Questions
 
