@@ -51,12 +51,12 @@ Participant Criteria:
 
 ## Timeline
 
-Study dates: *TBD*
+Study dates: Mon 5/17 - Fri 5/21
 
-Session length: 45 minutes
+Session length: 1 hours
 
 Date | Time
------|-------
+-----|------
 
 
 ## Team Roles	
@@ -67,5 +67,5 @@ Please list the people who will be serving in each role.
 - Project point of contact: Nick Osmanski	
 - Participant(s) for pilot test: *TBD*
 - Note-takers: Perigean 
-- Observers: *TBD*
+- Observers: 
 - OCC Observers: *TBD*
