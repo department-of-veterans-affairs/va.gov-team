@@ -21,7 +21,7 @@ In this research study, wayfinding on VA.gov is being measured in terms of parti
 1. Update your bank information for disability compensation payments (change direct deposit)
 1. Set up your travel to medical appointments to be reimbursed by direct deposit (direct deposit for VA travel pay reimbursement)
 1. Find nearest VA hospital to a city you're planning to visit (find a VA location)
-1. Get a document that shows the income you receive from the VA (download benefit letter)
+1. Get a document that shows the income you receive from the VA (download benefit letter or payment history)
 1. Share VA medical history with a doctor outside the VA (get your VA medical records)
 1. Tell the VA about your new spouse (add dependent)
 
@@ -42,7 +42,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
 ## Usability Successes
 
 ### Wayfinding
-1. All participants were able to successfully complete 3 of the 9 tasks (#1, 2, 4), and most completed 2 more of the tasks (#6, 9).
+1. All participants were able to successfully complete 3 of the 9 tasks (#1, 2, 4), and most completed 3 more of the tasks (#6, 7, 9).
 1. Most participants used the links in the "top 4" boxes extensively.
 1. Half of the participants used the links in the left nav on content pages.
 
@@ -55,7 +55,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
 ## Usability Issues
 
 ### Wayfinding
-1. Some participants were unable to successfully complete 4 of the tasks (#3, 5, 7, 8), 2 of which were completed by very few participants (#3, 7). 
+1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3 form to appoint representative). 
 1. The VA.gov home page is long, and many people stay focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. 
 1. No participants started with site search (in the header of the home page), but some went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* at first, but once they found it, a few used it in later tasks.
 1. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
