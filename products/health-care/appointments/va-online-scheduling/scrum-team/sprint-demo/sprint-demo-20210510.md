@@ -6,11 +6,6 @@
 - Lauren - Agenda (no deck)
 
 ### Backend
-- AJ
-  - Review instances of {strict: false} on schema validation across VAOS
-  - VAOS controllers returning 401 exceptions that are not tied to VAMF errors
-  - VAOS Service Integration (GET Available Slots) 
-
 - Brad
   - Replace connect() with hooks 
   - Surface eligibility enrollment data to vets-website
