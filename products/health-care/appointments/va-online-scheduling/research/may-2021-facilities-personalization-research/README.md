@@ -8,6 +8,6 @@ This research is a collaboration between VAOS and the Authenticated Experience t
 ## Resources
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-plan.md)
-- [Conversation guide](#)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md)
 - [Prototype](#)
 
