@@ -2,7 +2,7 @@
 
 ## Headline
 
-### Blind Veterans Needed for Paid Study
+### Blind Veterans Needed for Study
 #### We want to know how to make VA.gov work better for you
 
 
