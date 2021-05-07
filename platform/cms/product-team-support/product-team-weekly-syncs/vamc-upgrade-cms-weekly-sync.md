@@ -22,10 +22,10 @@
 </details>
 
 ## Friday May 7
-* Help desk
-* Issue, when facility is removed in VAST/deleted, how do we remove facility from CMS?
-*   Example:  Elizabeth VA Clinic in (Elizabeth, NJ) VA New Jersey health care (VISN 2)
-*   
+* Help desk triage
+* Policies page runbook [#5053](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
+* When facility is removed in VAST/deleted, how do we remove facility from CMS?
+  * Example:  Elizabeth VA Clinic in (Elizabeth, NJ) VA New Jersey health care (VISN 2)
 
 
 ## Friday April 30
