@@ -1,6 +1,6 @@
 # Practice leadership workshop brief
 
-## Problem statement
+## Problem space brief
 
 5/6/2021
 
