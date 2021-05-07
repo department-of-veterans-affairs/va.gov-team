@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**  
+**STATUS: COMPLETE 05/07/2021**  
 
 **Team:** Authenticated experience
 
@@ -20,16 +20,20 @@
 
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
-Profile: Your health facilities  | www.va.gov/profile/xxxxx  | Home > Profile: [H1]   | The final segment of the breadcrumb should pull in the H1 of the page (i.e. Profile: Your VA health facilities).  Final H1s are determined by the content team.  | 
+Profile: Your health facilities  | www.va.gov/profile/facilities/  | Home > Profile: [H1]   | The final segment of the breadcrumb should pull in the H1 of the page (i.e. Profile: Your VA health facilities).  Final H1s are determined by the content team.  | 
 
+Notes: 
+- I chose to keep the URL short and simple since 1) this is an authenticated page that does need search optimization 2) I don't know how this feature will grow over time in terms of types of facilities and 3) using "your" in the URL doesn't provide any significant benefit. 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Entry point | Label | Destination | Placement and description
 --- | --- | --- | --- | ---
-Must | [Profile](https://staging.va.gov/profile/personal-information) - Left nav | Match H1 of page | www.va.gov/profile/xxxxxxx| Place option immediately after "Direct deposit information"
+Must | [Profile](https://staging.va.gov/profile/personal-information) - Left nav | Match H1 of page | www.va.gov/profile/facilities/ | Place option immediately after "Direct deposit information"
+Must | VAOS form | --- | www.va.gov/profile/facilities/ |  Work with the VAOS team to determine where and how to best link to this feature within the scheduling flows, without negatively impacting the user's ability to complete their task.   
 
+- Given this feature of profile is pretty targeted to the VAOS flows, I did not recommend any additional entry points.  An article in Resources and support could be created, but this feature feels pretty specific to the online scheduling user flow, and not necessarily something someone would be seeking outside of that flow.  That said, and R&S article wouldn't hurt anything, it would just create more visibility to it. 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -47,4 +51,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ## <a name="notes"></a>Meetings Notes and Background Info
+
+
+
 
