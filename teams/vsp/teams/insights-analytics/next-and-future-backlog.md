@@ -21,5 +21,5 @@ improving our data collection, quality, and integrity in the short and long term
 - [ ] Identify and determine most common query parameters on VA.gov and determine their feasability --> work to pahse-out in order to simplify our cardinality over time
 - [ ] Discovery around heat mapping and session recording tools to supplement what GA is not great at
 - [ ] Integrate Google Search Console and Bing Webmaster Tools into BigQuery
-- [ ] Investigate why we’re still seeing pages UTM parameters within URLs with anchors -- allowAnchor is enabled by default yet we’re still seeing `utm_campaign` within some page URLs
+- [ ] Investigate why we’re still seeing pages with UTM parameters within URLs with anchors -- allowAnchor is enabled by default yet we’re still seeing `utm_campaign` within some page URLs
 
