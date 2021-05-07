@@ -1,1 +1,0 @@
-See attached Word doc
