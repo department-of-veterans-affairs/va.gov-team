@@ -28,8 +28,10 @@ Search Results and Filters:
 
 Location search
 - What do users think of the location search?
-- What do users think of the autocomplete for location search?
+- Do users find the autocomplete helpful for location search?
+    - If not, what would make suggestions more useful?
 - How do users engage with the map and list view?
+- What do users think of the interaction between the map and list view?
 - What do users think of the radius option?  
 - Are users interested in the "Use my current location" option?
 
