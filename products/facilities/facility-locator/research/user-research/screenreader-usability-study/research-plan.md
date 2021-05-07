@@ -59,7 +59,7 @@ Sessions will combine:
 
 - Directed interviewing to understand participant's context and experience with assistive technology and other websites that they use currently
 - Usability testing with task analysis of searches conducted on Google and Facility locator.
-- 1.5 hour sessions will be remotely moderated via Zoom.
+- 1.5 hour sessions will be remotely moderated via Zoom. Perigean please allow up to 2 hours for technical difficulties.
 - Participants will share their phone or desktop screen. 
 
 
@@ -100,6 +100,7 @@ AND
 #### Technical requirements
 
 [**Note for Perigean:** ]
+ - Ensure participant has a working screen that can be shared
  - Please ensure participants have Zoom downloaded prior to the session
  - Please ensure participants are willing and prepared to screenshare
 
@@ -121,7 +122,7 @@ At least: **Josh: updated based on VA statistics for marginalized groups**
 
 - Study dates: May 19 - 27, 2021
 - Pilot session: will be held on Mon, May 17, 2021
-- Session length: **1.5 hours** 
+- Session length: **1.5 hours** Perigean please allow up to 2 hours for technical difficulties.
 
 #### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
 - Wed 5/19: 8a, 10a, 12p
