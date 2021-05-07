@@ -83,3 +83,4 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138665581/simulate/no-panels?mode=i
 
+[Notes/synthesis doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/discovery-and-research/health-facilities-internal-study-notes.xlsx)
