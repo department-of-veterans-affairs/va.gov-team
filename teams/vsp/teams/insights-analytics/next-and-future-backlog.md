@@ -6,7 +6,7 @@ data platform for VA.gov
 - With Google Analytics still serving as the primary data source for our KPI Dashboarding, it is imperative we continuously analyze and strategize means for 
 improving our data collection, quality, and integrity in the short and long term
 
-### List
+### Items to Consider
 
 - [ ] Completely deprecate our OPIA Property 
 - [ ] Delete all remaining test production views
