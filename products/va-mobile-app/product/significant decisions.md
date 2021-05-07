@@ -510,9 +510,48 @@ The other option was to conduct load testing./
 ### When, or under what conditions, would you recommend revisiting this design decision?
 As our user base grows, we will certainly revisit the decision to not do load testing. Specifically, if usage grows by an order of magnitude more than expected, we will begin preparations to do load testing.
 
+
+## Decision 12: App Store Testing and Distribution Groups
+Once the apps are in the Google and Apple stores under the VA banner, we will need a structured way to distribute the app and specific app builds to different, disparate groups associated with the applications.
+
+### What did you decide on?
+In order to allow developers to have QA builds that may not have full functionality, but also ensure that stakeholders can see finished product, we will have multiple distribution lanes in each of the stores. The lanes are as follows:
+
+#### **Internal Team**
+The internal teams on Apple and Google will not be used unless the leads need access to every build version. This will alleviate the need to make a specific build for a group and then immediately make a new build for the internal team to use. 
+
+#### **Development Team**
+This group consists of all the engineers, UX, product and QA people on the active development team. This lane will receive scheduled builds two or three times a week, or more as needed. These builds will be automated from the tip of the development branch and may or may not include incomplete/non-functioning features. Users that are not on the immediate development team can be added to the VA Stakeholders group (below) to avoid the frequent updates this group will receive. 
+
+#### **VA Stakeholders**
+This group will have any of the VA or Ad Hoc personnel that would like to see the demo builds on their devices. This group will receive releases on the morning of demo days that are from a proscribed commit on develop. This will allow the stakeholders to see demonstrated capabilities, while minimizing the updates necessary to see the builds. It also reduces the likelihood that a non-functioning/not yet complete feature gets shared and creates confusion. 
+
+#### **VA Production Testers**
+This group will consist of VA Employees that are Veterans and who are helping through some form of long-lasting User Acceptance Testing (UAT). This group will receive updates as needed or as requested from the product team. 
+
+#### **Ad Hoc Production Testers**
+This group will consist of Ad Hoc Employees that are Veterans and who are helping through some form of long-lasting User Acceptance Testing (UAT). This group will receive updates as needed or as requested from the product team. These will be the same builds as the *VA Production Testers* above.
+
+#### **UAT Groups and On-Demand Groups**
+We will have the ability to spin up UAT groups and ad hoc groups whenever we want. When we create these groups, the team should review what the group is for, if it can be wrapped into another group and what sort of automation needs the group will require. This should be done with a Git Hub ticket to ensure a paper trail for all the testing groups. 
+
+### Document the people who agreed to the design decision (and their roles on the project)
+- Leanna Miller, Product Owner
+- Ayush Chakravarty, Product Lead
+- Patrick Saxton, Mobile Engineering Lead
+
+### What was the deciding factor for your decision?
+Deciding factors were ease of use, how to ensure anyone that wanted a build receives the most appropriate version for their needs/position on the project, and least segmentation.
+
+### What other options did you consider?
+We considered maintaining the Internal team the same as in the Ad Hoc store.
+
+### When, or under what conditions, would you recommend revisiting this design decision?
+6 months and/or if there are issues with automation and distribution.
+
 # Open Questions, with decisions pending:
 
-## Decision 12: Should we co-brand parts of the app?
+## Decision X: Should we co-brand parts of the app?
 We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheV#et (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
 
 ### What did you decide on?
