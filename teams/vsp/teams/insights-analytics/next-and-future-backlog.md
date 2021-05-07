@@ -23,6 +23,6 @@ improving our data collection, quality, and integrity in the short and long term
 - [ ] Integrate Google Search Console and Bing Webmaster Tools into BigQuery
 - [ ] Investigate why we’re still seeing pages with UTM parameters within URLs with anchors -- allowAnchor is enabled by default yet we’re still seeing `utm_campaign` within some page URLs
 
-Description of Item | Advantages / Wins | Level of Effort 
+Description of Item | Advantages / Wins | Level of Effort | Scope Description 
 | -- | -- | -- | -- | 
 Completely deprecate our OPIA Property | Free-up utilzation for more important events / hit | Low | Coordination with Josh Tuscher to confirm no one is using this data <br> delete tags in GTM 
