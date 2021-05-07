@@ -59,7 +59,7 @@ Sessions will combine:
 
 - Directed interviewing to understand participant's context and experience with assistive technology and other websites that they use currently
 - Usability testing with task analysis of searches conducted on Google and Facility locator.
-- 1-hour sessions will be remotely moderated via Zoom. **Recommend at least 1.5 hours, ideally 2 hour blocks. 1 hour will not be enough time to run through the full study.**
+- 1.5 hour sessions will be remotely moderated via Zoom.
 - Participants will share their phone or desktop screen. 
 
 
