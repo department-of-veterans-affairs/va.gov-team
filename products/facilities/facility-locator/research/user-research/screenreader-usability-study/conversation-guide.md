@@ -2,6 +2,8 @@
 
 **May 2021**<br>
 
+This conversation guide will be updated soon - [please refer to this Google draft](https://docs.google.com/document/d/1KKLmlwHv7M-tOd05kPhWC7jPOMNomH3iWc43zIPnakg/edit?usp=sharing). 
+
 ### Session Prep
 
 - [ ] Notifications off
