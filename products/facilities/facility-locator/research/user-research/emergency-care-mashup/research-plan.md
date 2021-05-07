@@ -72,4 +72,5 @@ Please list the people who will be serving in each role.
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, *Office of Community Care* stakeholders
+- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh
+- OCC Observers: Tobie Wethington, Michael Johnson, Sean E Stevens, Holly Shryock
