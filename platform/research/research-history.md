@@ -24,6 +24,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+#### April 22 - April 18: Medical Copayment Debt Portal Enhancement Discovery
+*Debt Resolution, Research Leads: Rebecca Walsh, Riley Orr
+
+- Number of participants: 11
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021) 
+- List of keywords: Veterans, Veterans Health Administration, Veteran Patient Statements, copays, health care, debt, financial assistance, Pay.gov 
+
 #### April 12 - 13: 1010-CG Round 2 Sign as Representative Usability Testing
 *Caregiver Team, Lead Researcher: Shawna Hein, Dené Gabaldon*
 
