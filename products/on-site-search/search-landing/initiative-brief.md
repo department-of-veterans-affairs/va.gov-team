@@ -1,4 +1,4 @@
-# Initiative Brief 
+# Initiative Brief - Search Landing Page
 
 ## Outcome Summary
 
@@ -23,6 +23,7 @@ Establish a landing page for search so that any users who search for va.gov/sear
 ## Evidence of the problem
 *Describe the qualitative and quantitative data to support this problem.* 
    - (let's add a quicktime video showing the redirect)
+   - va.gov/search usage metrics- [GA report](https://analytics.google.com/analytics/web/?authuser=1#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210430&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.landingPagePath%22,%22BW%22,%22www.va.gov~2Fsearch~2F%22,0%5D%5D&explorer-table.rowCount=250/)
 
 ## Desired User Outcomes
 - *Why would a user want to use this?*
