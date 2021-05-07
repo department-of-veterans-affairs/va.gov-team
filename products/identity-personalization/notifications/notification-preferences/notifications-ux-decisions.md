@@ -22,8 +22,11 @@ Document UX decisions for the MVP and our rationale for making these decisions.
 Attendees: Liz Lantz, Samara Strauss, Erik Hansen
 
 If a user is opted into text messages or email notifications, and deletes their associated contact information, we will:
-- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. In the read view, this means they'll see that those notifications are turned off; in edit view, they won't have inputs to opt-in/out of notifications.
-- We'll update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notificaitons anymore.  Because of complexities around the various ways people receive notificaitons at VA, outside of VA Profile, we shouldn't say that they defintiely will NOT receive these notifications.
+- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
+  - In the read view, this means they'll see that those notifications are turned off
+  - In edit view, they won't have inputs to opt-in/out of notifications.
+- We'll update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notificaitons anymore.  
+  - Because of complexities around the various ways people receive notifications at VA, outside of VA Profile, we shouldn't say that they defintiely will NOT receive these notifications.
 
 If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
 - display all the notifications and options as if they had not ever deleted their information. We'll check with VA Profile in our next sync whether or not they will actually receive notifications at this new email/phone number automatically.
