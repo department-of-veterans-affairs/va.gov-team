@@ -11,8 +11,34 @@ As a designer I need to create a research plan to share with my team.
 - The Booz Allen team has been working on a re-design of the GI Bill Comparison Tool.  Initial designs for the tool were created and tested in a prior iteration.  Due to several struggles that users encountered during testing, the team completely re-designed many of the pages and is now conducting a new round of usability testing to assess the new design.
 
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+
+General:
+- What do users think of the search interface?
+- What types of searches are users interested in running?
+- What challenges do users have with the new interface (if any)?
+
+Search Results and Filters:
+- Do users think their search results are relevant?
+- What do users think of the layout and information on the search results cards?
+- What do users think of the placement of the filters?
+- Do users believe the available filters are useful?
+    - If so, which ones?
+    - Are any filters missing?
+
+Location search
+- What do users think of the location search?
+- What do users think of the autocomplete for location search?
+- How do users engage with the map and list view?
+- What do users think of the radius option?  
+- Are users interested in the "Use my current location" option?
+
+Estimate your benefits:
+- Do user notice the benefit controls?
+- Do users interact with the controls if settings aren't accurate?
+
+
+5. Hypothesis: What is your hypothesis for this research? 
  - Since many of the designs have been simplified in the new design, researchers believe that users will be able to effectively search for schools using both name and location searches.
  	
 ## Method	
