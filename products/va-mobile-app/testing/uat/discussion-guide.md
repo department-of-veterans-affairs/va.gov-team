@@ -219,7 +219,7 @@ Next can you go to Secure Messaging?
 
 (If user indicated they DO NOT use Secure Messaging):
 - [ ] *If a user doesn’t have an MHV identifier, do they see the appropriate screen blocking access to the feature?*
-[Skip to Open Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/testing/uat#open-feedback-5-minutes)
+[Skip to Open Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/discussion-guide.md#open-feedback-5-minutes)
 
 (If user indicated they use Secure Messaging):
 
