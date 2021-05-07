@@ -1,5 +1,10 @@
 # VA Mobile App Operations and Incident Response 
 
+### Procedures
+* [Mobile Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/Mobile%20Incident%20Response%20Playbook.md)
+* [VSP Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
+* [Security Incident Procedure](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/Emergency%20Operating%20Procedures.md#SecurityIncident)
+
 ### Dashboards and Tools
 
 Tool | Access | Purpose
@@ -10,13 +15,7 @@ Tool | Access | Purpose
 [AWS Logs](https://console.amazonaws-us-gov.com/cloudwatch/home?region=us-gov-west-1#logsV2:log-groups/log-group/dsva-vagov-staging$252Fsrv$252Fvets-api$252Fsrc$252Flog$252Fvets-api-server.log) | AWS | Logs
 [PagerDuty](https://dsva.pagerduty.com/incidents) | SaaS account | Alerts, downtime management
 
-### Procedures
-* [VSP Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
-* [Security Incident Procedure](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/Emergency%20Operating%20Procedures.md#SecurityIncident)
-
 ### External Dependencies
-
-[External Service Integrations](https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations)
 
  Mobile App Feature | External Dependency 
  --- | --- 
@@ -29,8 +28,21 @@ Tool | Access | Purpose
  Secure Messaging | [MHV](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/My%20Healthe%20Vet.md)
  Appointments | [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md#incident-escalation)
  
+ [Other External Service Integrations](https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations)<br/>
  _Note that some of these external service integration documents have not been vetted recently_
  
- ### Slack channels
+ ### Key Slack channels
  
- DSVA Slack: #oncall, #vfs-platform-support
+ DSVA Slack: #va-mobile-app, #oncall, #vfs-platform-support
+
+### Personnel
+If you need to escalate an issue beyond the immediate team, these are the relevant personnel (effective May 2021):
+Role | Person | Contact Mechanism 
+--- | --- | ---
+Product Owner | Leanna Miller | DSVA Slack
+Information System Owner (ISO) | Chris Johnston | DSVA Slack
+Information System Security Officer (ISSO) | Griselda Gallegos | VA Email, phone
+Privacy Officer | Rita Grewal | VA Email, phone
+
+These contacts (other than mobile product owner) are documented officially here: [ATO Incident Response contact information](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/2020%20Docs/incident_response.md#40-contact-information)
+
