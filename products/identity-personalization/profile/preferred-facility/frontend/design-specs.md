@@ -46,7 +46,7 @@ Initial state, before a user has made any edits, desktop and mobile (use links a
 
 Copy below `h1`:
 
-> These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/). You can edit this list at any time.
+> These are the facilities you go to for care. We may use this information when you [schedule an appointment online](https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment). You can edit this list at any time.
 
 FAQ below list:
 
