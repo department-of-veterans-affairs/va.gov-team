@@ -33,6 +33,7 @@ Priority | Entry point | Label | Destination | Placement and description
 Must | [Profile](https://staging.va.gov/profile/personal-information) - Left nav | Match H1 of page | www.va.gov/profile/facilities/ | Place option immediately after "Direct deposit information"
 Must | VAOS form | --- | www.va.gov/profile/facilities/ |  Work with the VAOS team to determine where and how to best link to this feature within the scheduling flows, without negatively impacting the user's ability to complete their task.   
 
+- The VAOS team is most familiar with the various flows within the online scheduling tool.  They should propose the best placement of a link to this feature from within their tool. 
 - Given this feature of profile is pretty targeted to the VAOS flows, I did not recommend any additional entry points.  An article in Resources and support could be created, but this feature feels pretty specific to the online scheduling user flow, and not necessarily something someone would be seeking outside of that flow.  That said, and R&S article wouldn't hurt anything, it would just create more visibility to it. 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
