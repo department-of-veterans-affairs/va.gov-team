@@ -5,16 +5,16 @@
 (for use in public posting)
 
 A. 
-### Call for study participants:
-#### Blind Veterans, help us make VA.gov work better for you.
+### Title: Call for study participants:
+#### Subtitle: Blind Veterans, help us make VA.gov work better for you.
 
 B. 
-### Research Recruitment:
-#### Are you a blind Veteran? If so, we want to know how to make VA.gov work better for you.
+### Title: Research Recruitment:
+#### Subtitle: Are you a blind Veteran? If so, we want to know how to make VA.gov work better for you.
 
 C. 
-### Calling blind Veterans: 
-#### We want to know how to make VA.gov work better for you.
+### Title: Calling blind Veterans: 
+#### Subtitle: We want to know how to make VA.gov work better for you.
 
 
 [BODY COPY]
