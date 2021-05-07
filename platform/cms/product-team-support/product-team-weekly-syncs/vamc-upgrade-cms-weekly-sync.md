@@ -24,6 +24,11 @@
 ## Friday May 7
 * Help desk triage
 * Policies page runbook [#5053](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053)
+  * No re-launching existing Policies pages until VHA comms go out, with a link to training
+  * Watching out for broken links in th 
+* CMS Sprint 32
+  * Facility services migration 
+  * VAMC 10 and 15 scaffolding 
 * When facility is removed in VAST/deleted, how do we remove facility from CMS?
   * Example:  Elizabeth VA Clinic in (Elizabeth, NJ) VA New Jersey health care (VISN 2)
 
