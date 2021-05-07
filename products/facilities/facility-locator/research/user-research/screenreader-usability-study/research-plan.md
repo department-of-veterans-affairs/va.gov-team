@@ -121,7 +121,7 @@ At least: **Josh: updated based on VA statistics for marginalized groups**
 
 - Study dates: May 19 - 27, 2021
 - Pilot session: will be held on Mon, May 17, 2021
-- Session length: 1 hour
+- Session length: **1.5 hours** 
 
 #### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
 - Wed 5/19: 8a, 10a, 12p
