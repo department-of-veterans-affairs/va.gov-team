@@ -34,6 +34,14 @@
 -	The debt management team has been reaching out to us since spring 2021 about adding a debt-related notification to My VA. This could be something to consider in any experiments or updates.
 -	We already have two notifications on the dashboard — "You have X unread messages" and claim status updates. These could also be good starting points.
 
+**Potential plan**
+
+- Short discovery on how action items are surfaced on other websites/tools. There may already be some good documentation on this from Liz's initial My VA discovery.
+- Low-fi sketching/mockups: Iterate on a few ideas. Also think about how or if this might change the current design, and in what ways.
+- Figure out best method for testing — is it usability testing? Click testing? Moderated or unmoderated?
+- Run research.
+- Write up and recommendations for potential implementation into the My VA experience.
+
 ### If time: Run usability testing on My VA in production
 
 **When**: If time in Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
