@@ -9,7 +9,7 @@ The goal of this study is to validate the usability and design of new facility l
 - Veterans understand they can go to any local emergency room, not just those in the results list
 - Veterans understand that the Facility Locator list contains "in-network" emergency care facilities, rather than a comprehensive list 
 - The facility type label "In-network emergency care" helps Veterans understand the results list is not comprehensive
-- The facility type lable "In-network emergency care" does not introduce confusion about other facility types
+- The facility type label "In-network emergency care" does not introduce confusion about other facility types
 - Veterans understand how to learn more about community care emergency benefit (explained elsewhere)
 
 #### Research questions
