@@ -1,23 +1,9 @@
 # Veteran User Experience Research Studies - Invitation to Participate 
 
-## HEADLINE IDEAS
+## HEADLINE
 
-(for use in public posting)
-
-### A. 
-
-#### Call for study participants:
-##### Blind Veterans, help us make VA.gov work better for you.
-
-### B. 
- 
-#### Research Recruitment:
-##### Are you a blind Veteran? If so, we want to know how to make VA.gov work better for you.
-
-### C. 
-
-#### Calling blind Veterans: 
-##### We want to know how to make VA.gov work better for you.
+### Blind Veterans Needed for Paid Study
+#### We want to know how to make VA.gov work better for you
 
 
 ## BODY COPY
@@ -40,7 +26,7 @@ Note: All experience levels with screen readers are welcome from first time user
 ## About the research session:
 
 - The study will consist of testing web pages while using your screen reader from your personal device in a Zoom video conference.
-- You will not be required to be on-camera during the study session but you will be required  to share your device’s screen via Zoom.  
+- You will not be required to be on-camera during the study session but you will be required to share your device’s screen via Zoom.  
 - Participants who complete a study session will receive a thank-you gift for their time. 
 
 #### If you are interested in participating, please call Shannon Housel at: 540-513-8510
