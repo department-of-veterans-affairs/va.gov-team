@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**  
+**STATUS: COMPLETE**  
 
 **Team:** Authenticated experience
 
