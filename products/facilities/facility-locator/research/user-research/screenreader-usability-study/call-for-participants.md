@@ -1,5 +1,22 @@
 # Veteran User Experience Research Studies - Invitation to Participate 
 
+[HEADLINE IDEAS]
+(for use in public posting)
+
+A. 
+### Call for study participants:
+#### Blind Veterans, help us make VA.gov work better for you.
+
+B. 
+### Research Recruitment:
+#### Are you a blind Veteran? If so, we want to know how to make VA.gov work better for you.
+
+C. 
+### Calling blind Veterans: 
+#### We want to know how to make VA.gov work better for you.
+
+
+[BODY COPY]
 
 The VA is recruiting blind/partially blind Veterans for a new study. If you have an acquired or congenital vision-related disability, the VA would like to understand how it can improve its websites for you. To qualify for this study, you must use one of the following assistive technologies (screen readers) for browsing the internet on a mobile phone, tablet or desktop computer device:
 
