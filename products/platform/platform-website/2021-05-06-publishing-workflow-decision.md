@@ -53,7 +53,7 @@ Grant PMs publishing power _after_ we iron out all the kinks in the guidance.  T
 - **Surface initial concerns/issues with structure or publishing guidelines before letting more people loose in the admin console**: This takes a sequential, waterfall approach to development.
 
 
-### Option 2: Never have PMs be part of the publishing workflow
+### Option 2: Only have the Content Team be involved in publishing
 
 The Content team holds sole publishing power.  This allows us to enforce rigorous QA and maintain strict editorial control.
 - _More detail:_ We would have visibility into changes being made and could flag quality/editorial concerns.  However, this comes at the expense of being a bottleneck to Platform teams' ability to write/release information to VFS teams.  To mitigate this bottleneck risk, the Content Team would have to work out and maintain a regular content “deployment” schedule, which would very likely come at the expense of future initiative work.
