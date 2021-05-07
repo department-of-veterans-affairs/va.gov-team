@@ -71,9 +71,10 @@
 ### Use Case E
 
 #### Sorting List of Search Results
+**Note** the relevance option was added to the existing sorting use case on 5/7/2021.
 
 * **Description:** 
-  - When a user is presented with a list of search results, they can use the **Sort By feature** to sort them by Form Last Updated date.
+  - When a user is presented with a list of search results, they can use the **Sort By feature** to sort them by Form Last Updated date, alphabetically, or by relevance.
 
 * **Link to designs:** 
   -  prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b0086df2-db66-42e9-b202-2f790435e7c3?hints=off
