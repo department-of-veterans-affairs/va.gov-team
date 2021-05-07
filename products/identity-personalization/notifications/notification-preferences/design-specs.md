@@ -54,7 +54,7 @@ Copy below `h1`:
 > ​**user email**
 > ​**user mobile phone**
 >
-> [Update your contact information](/profile/personal-information)
+> [Update your contact information](va.gov/profile/personal-information)
 
 Copy for notification types, channels, groups, and settings will come through VA Profile's API.
 
