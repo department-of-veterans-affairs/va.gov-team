@@ -94,7 +94,7 @@ Go ahead and open the VA app and tap the sign in button.
 ### Signing in 
 Please sign into the app with your username and password. If you'd like to stop screen sharing while doing this, please feel free to do so. I will stop the recording when you are entering your username and password. 
  
-[Optional, if the keyboard hides]: Just so you know, the keyboard is not showing, so we cannot see your password. 
+(Optional, if the keyboard hides): Just so you know, the keyboard is not showing, so we cannot see your password. 
 
 Things to watch for:
 
@@ -173,10 +173,10 @@ Things to watch for:
 ### Appointments
 Next I'd like to look at the Appointments. Please go to the Health Care section and then to Appointments.
 
-[If user indicated they DO NOT use Appointments]:
+(If user indicated they DO NOT use Appointments):
 - [ ] If a user does not have health records at VA, do they see the correct screen (unenrolled message)?
 
-[If user indicated they DO use Appointments]:
+(If user indicated they DO use Appointments):
 - Please take a moment to look at your upcoming appointments. 
     - [ ] Do they look right?
 - Please take a moment to look at your past appointments. 
@@ -194,10 +194,10 @@ Things to watch for:
 ### Claims
 Next I'd like to look at the Claims.
 
-[If user indicated they DO NOT use Claims]:
+(If user indicated they DO NOT use Claims):
 - [ ] *If a user has never used claims, do they see the correct screen (unenrolled message)?*
 
-[If user indicated they have current or past claims]:
+(If user indicated they have current or past claims):
 - Please take a moment to look at your open claims and appeals. 
     - [ ] Do they look right?
 - Please take a moment to look at your closed claims and appeals. 
@@ -217,11 +217,11 @@ Things to watch for:
 ### Secure Messaging
 Next can you go to Secure Messaging?
 
-[If user indicated they DO NOT use Secure Messaging]:
+(If user indicated they DO NOT use Secure Messaging):
 - [ ] *If a user doesn’t have an MHV identifier, do they see the appropriate screen blocking access to the feature?*
-[Skip to Open Feedback]
+[Skip to Open Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/testing/uat#open-feedback-5-minutes)
 
-[If user indicated they use Secure Messaging]:
+(If user indicated they use Secure Messaging):
 
 #### Inbox
 - Please take a moment to look at your messages in your inbox. 
@@ -290,4 +290,3 @@ I'd like to learn from you a bit about how you feel about everything we've talke
 That’s all the questions I have for you today. Do you have any last questions for me?
 
 We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works for Veterans like you. Enjoy the rest of your day!
- 
