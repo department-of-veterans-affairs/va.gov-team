@@ -54,7 +54,7 @@ Copy below `h1`:
 > ​**user email**
 > ​**user mobile phone**
 >
-> [Update your contact information](va.gov/profile/personal-information)
+> [Update your contact information](/profile/personal-information)
 
 Copy for notification types, channels, groups, and settings will come through VA Profile's API.
 
@@ -127,7 +127,7 @@ Display warning alert where email/phone and `update contact info` link would nor
 - Alert should reference the contact information that's missing
 
   - Mobile phone number
-  - Email address
+- Email address
 - In edit mode, the channel corresponding to the missing contact info should be replaced with text. Do not display a disabled checkbox.
 
 [Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
@@ -143,3 +143,21 @@ Display warning alert where email/phone and `update contact info` link would nor
 **In edit mode, replace relevant checkbox with this text:**
 
 > *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
+
+
+
+### User opted into notifications deletes their associated contact information
+
+`draft, need to update once finalized`
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, we will:
+
+- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
+  - In the read view, this means they'll see that those notifications are turned off
+  - In edit view, they won't have inputs to opt-in/out of notifications.
+- We'll update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notificaitons anymore.  
+  - Because of complexities around the various ways people receive notifications at VA, outside of VA Profile, we shouldn't say that they defintiely will NOT receive these notifications.
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
+
+- display all the notifications and options as if they had not ever deleted their information. We'll check with VA Profile in our next sync whether or not they will actually receive notifications at this new email/phone number automatically.
