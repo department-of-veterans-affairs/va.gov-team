@@ -3,7 +3,7 @@
 ## Goals
 The goal of this study is to validate the usability and design of new facility locator search result cards which combine VA emergency care and community emergency care service types.
 
-#### Hypothesis
+#### Hypotheses
 
 - Veterans want to search for a single list, containing both VA and community emergency care options
 - Veterans understand they can go to any local emergency room, not just those in the results list
