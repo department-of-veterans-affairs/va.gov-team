@@ -37,11 +37,12 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 * Can you tell me a little about your service history?
-* Have you visited any facility in the last year, after experiencing what you thought was an emergency?
+* Have you ever experienced what you thought was an emergency that required a visit to any facility?
     * If yes: can you tell me about your experience there?
+    * If yes: what kind of facility was it (VA/non-VA)?
     * If yes: can you tell me why you decided on that particular location?
     * How did you find out about that specific location?
-    * Can you tell me about your understanding of your benefit coverge in the event of an emergency?
+    * Can you tell me about your understanding of your VA benefit coverge in the event of an emergency?
 
 ## Usability Test - 30 minutes
 
@@ -53,14 +54,15 @@ Then I'll want you to share your screen so that I can follow along and see what 
 
 Since this is only a prototype some links and features will work but most won't. 
 I ask that you think out loud as much as possible, as we go through the prototype.
-
+If you have any questions, feel free to ask them at any time.
 
 ### PROTOTYPE: Facility Locator
 #### Questions:
 
-- Are you familiar with, or have you ever used VA.gov's location finder? 
+- Are you familiar with, or have you ever used VA.gov's location finder?
     - If yes: how long ago, what were you doing? What was that experience like?
     - If no: how do you go about finding information about VA locations?
+    - Yes/no: Do you see yourself using this tool in the future? (Why might you use it?)
 
 ### Scenario
 #### Directions:
@@ -80,6 +82,7 @@ I would like you to perform a search for locations that would be relevant to you
   - (Point out steps, probe throught process):
   - Can you walk me through that process?
   - Tell me about what you see in this results list.
+  - (Do they notice 'urgent' vs 'emergency'? Why did they chose one over the other?)
 
 Based on the results of your search, what is important to you when choosing a location from this list?
 
@@ -88,6 +91,7 @@ Let's say you want to search for [All / VA / Community locations] in your area.
   - Can you walk me through the process?
   - Tell me about what you see in this results list.
   - Does the distinction between this results list, and the previous results list, matter to you?
+  - (Do they notice 'urgent' vs 'emergency'? Why did they chose one over the other?)
 
 ### Task 2
 
@@ -101,11 +105,7 @@ For this task, under the 'Facility type' menu, I'd like you to choose 'In-networ
   - When you see "emergency care", what kinds of facilities might you expect to see in the search results?
 
 Open the 'Service type' menu, talk me through what the different options mean to you.
-   - What does 'All in-network emergency care' mean to you?
-   - What does 'VA emergency care' mean to you?
-   - What does 'In-network community emergency care' mean to you?
-
-Does the distinction between 'Service type' options matter to you?
+   - Does the distinction between 'Service type' options matter to you?
    - What matters about the distinction?
 
 ## Post-Task Interview - 5 minutes
