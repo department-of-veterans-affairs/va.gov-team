@@ -26,7 +26,7 @@ The goal of this study is to validate the usability and design of new facility l
 
 Remote, moderated usability testing will be used to gain feedback on the design of facility locator search result that will combine cards for VA emergency care and community emergency care. The study will validate that the new designs will allow:
  - participants to understand all of the emergency care facility options available to them.
- - validate that the new design would sufficiently inform them about emergency care benefits.
+ - validate that the new design would sufficiently inform them about community care emergency benefits.
 
 We will be testing a [UXPin prototype] via Zoom. These sessions will include a short interview with the participant.
 
