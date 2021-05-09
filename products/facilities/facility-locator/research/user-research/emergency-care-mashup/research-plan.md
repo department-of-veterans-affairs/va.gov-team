@@ -79,7 +79,7 @@ Please list the people who will be serving in each role.
 - Observers: Michelle Middaugh, Gibran Rodriguez\*, Michael Pelz-Sherman\*, Dave Conlon\*
 - OCC Observers: Tobie Wethington, Michael Johnson, Sean E Stevens, Holly Shryock
 
-\* (Usually busy, and will observe when/if available; not necessary to add to research channel)
+\* (Usually busy, and will observe when/if available; not necessary to add to Slack research channel initially)
 
 ## Resources
 
