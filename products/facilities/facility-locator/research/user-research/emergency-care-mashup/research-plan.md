@@ -11,6 +11,7 @@ The goal of this study is to validate the usability and design of new facility l
 - The facility type label "In-network emergency care" helps Veterans understand the results list is not comprehensive
 - The facility type label "In-network emergency care" does not introduce confusion about other facility types
 - Veterans understand how to learn more about community care emergency benefit (explained elsewhere: https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
+- Participants will understand what to do in case of emergency.
 
 #### Research questions
 
@@ -18,8 +19,7 @@ The goal of this study is to validate the usability and design of new facility l
 - What information do Veterans need/want for community emergency care (in VA network) locations?
 - Can Veterans distinguish between these location types in a single list?
 - Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
-- Would Veterans click to learn more about community emergency care benefits? 
-- Do Veterans find labels such as those indicating emergency care service/facility type helpful when finding/selecting an emergency care location?
+- Would Veterans click to learn more about community emergency care benefits?
 - What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
 ## Method
@@ -38,7 +38,6 @@ Participant Criteria:
 
 - **Must have:**
     - Enrolled in VA healthcare
-    - Has visited an emergency care clinic in the last two years
     - Laptop or desktop computer
     - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
 
@@ -72,5 +71,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh
+- Observers: Michelle Middaugh, Gibran Rodriguez\*, Michael Pelz-Sherman\*, Dave Conlon\*
 - OCC Observers: Tobie Wethington, Michael Johnson, Sean E Stevens, Holly Shryock
+
+\* (Usually busy, and will observe when/if available; not necessary to add to research channel)
