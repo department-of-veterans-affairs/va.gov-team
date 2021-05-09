@@ -7,7 +7,7 @@
 - [ ] Notifications off
 - [ ] Turn off "Entry/Exit Chimes" (if applicable)
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
+- [ ] [UXPin Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages//simulate/no-panels?mode=i)
 
 ## Intro - 5 minutes
 
