@@ -3,6 +3,8 @@
 ##### Table of Contents
 1. Initial Ticket Review, Cleanup & Triage
 2. Data Layer Specification / Design 
+3. Google Tag Manager and GA Configuration
+4. QA Testing + Publishing 
 
 
 ## 1. Initial Ticket Review, Cleanup & Triage
@@ -106,11 +108,79 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 #### Where GTM Config Changes Should Not Be Necessary
 - Unless the team is requesting additional customization outside of what is already collected as part of our design system standardization, there should not need to be any data layer changes for any design system components used and listed [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking)
 
+### Where Additional GA configuration May Be Necessary
+
+##### Forms
+- [ ] When a new form is implemented, in order for the VFS team to be able to leverage the funnel visualization report within Google Analytics, a `Destination` goal must be implemented
+   - [ ] The destination goal should be implemented within the proper proper Google Analytics view that most closely fits their product, for example, if a new health care form, the goal should be implemented within the Health Care Modernized View in **BOTH** Production and Non-Production views. 
+   - [ ] Ensure the goal is implemented using `RegEx` matching and does not restrict any query parameters that may be included within the URL, i.e `^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/introduction.*
+   - [ ] Ensure the Goal ID and set ID are matched in both non-production and production 
+- [ ] If the team had additional customization implemented, ensure custom dimensions and the proper scope have been implemented in both non-production and production and have been made active according _(GTM should also reflect this)_
 
 
+##### Misc
+- [ ] If a new Information Architecture is implemented as part of a product roll-out it may be necessary to create a new Google Aanlytics view
+   - [ ] _As of this writing, Careers & Employment, Service Member Benefits & Family Member Benefits views should be implemented in an upcoming release_
+   - [ ] _Ensure proper Google Analytics filters are applied to properly segment the traffic_
+- [ ]  If **a reporting request**, it may be necessary to setup a segment and/or sequence segment for folks to segment the user traffic as necessary
+- [ ]  If **a reporting request**, and there is an issue with high cardinality, consider creating an unsampled report
+- [ ]  If there are query parameters that would create very high cardinality AND/OR **risk PII INGESTION** they may need to be included in `Excluded URL query parameters`
+   - [ ] If the data is necessary and not PII, consider repurposing to custom dimension or hashing if PII
+   - [ ] Excluded Query parameters should be added to all of the following views in **BOTH** Non-Production and Production: 
+         - [ ] `WBC - VA.gov Modernized View`
+         - [ ] Relevant product views
+         - [ ] `va.gov - Test View`
+         - [ ] `Exclude Internal Dept. of VA ISP - VA.gov Production`
+         - [ ] `va.gov - Unfiltered view`
+- [ ]  If a `true` or `false` boolean value scenario, consider utilizing a custom metric with a value of 1 in lieu of a custom dimension
+- [ ]  If an expansion of cross-domain tracking, consider updating the `Referral Exclusion List`
 
-### Before closing any tracking ticket
-- QA of both the data layer 
 
-| Description of Interaction | Data Layer Screenshot | Tag Screenshot | Data Layer Test Status | Tag Test Status 
-| -- | -- | -- | -- | -- |
+-----------------------------
+## 4. QA Testing
+
+### Process 
+- [ ] #1 CARDINAL RULE: **NO QA, NO CLOSURE** 
+   - [ ] _Not to be taken lightly...absolutely no ticket should be closed without QA, it is our duty and responsibility to test both the data layer and GTM tagging with every request_
+- [ ] Following your GTM implementation and implementation of the data layer, it is the original ticket owner's responsibility to: 
+   - [ ] _Shift the ticket to `VSP - Revew QA` column_
+   - [ ] _Unassign themselves and assign the appropriate team member with capacity for QA_
+   - [ ] _Document within a GH comment tagging the team member and calling out any adhoc complex testing that needs to take place / writing out the test cases clearly_
+   - [ ] _It is alright if the original ticket owner **QA's the data layer**, but another team member should **ALWAYS** QA the GTM tagging before closing_
+- [ ] At times the data layer QA and GTM QA may happen at very different times due to volume & capacity, but ideally both can be tackled at the same time for efficiency purposes
+- [ ] Some resemeblance of the following QA test template should be utilized and documented within **every** ticket: 
+
+| Description & Screenshot of Interaction | Data Layer Screenshot | GTM Tag Screenshot | DL Test Status | GTM TEST Status | Test Notes 
+| -- | -- | -- | -- | -- | -- |
+_Click on X with test user Y_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **PASS** | ✔️ **PASS** | _i.e Custom Dimension value 123 has correct dynamical value_
+_Specific interaction goes here_ | _Screenshot IMG_ | _Screenshot IMG_ | ⚠️ **DOES NOT PASS** | ✔️ **PASS** | _i.e Custom Dimension value 123 has correct dynamical value_
+_Loading indicator displayed_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **PASS** | ✔️ **PASS** | 
+
+
+### Testing To-Dos, Tips, & Considerations
+- [ ] If a test case **DOES NOT PASS** next steps have clearly been identified and documented with the relevant team member and/or VFS developer to reach closusre
+- [ ] Ensure testing that requires specific test users for [specific test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md) are leveraged 
+    - [ ] _Ensure the test users used are documented for reuse_
+    - [ ] _Ensure you have a clear understanding of what attributes a test user has, and what functoinality should / should not occur as a result -- this is often documented along with the user account_
+    - [ ] _Be sure to ask product owners if there is specific test users for a given application that represent Veterans with specific user attributes that need to be considered_
+- [ ] Think about other areas of the application local and site wide that may be affected from your testing, and call those out and/or document where appropriate
+    - [ ] _REMEMBER: Just because you're testing 1 specific use case and that use case works, that doesn't mean there aren't other areas of the site that are not affected_
+- [ ] Ensure sure your test case descriptions clearly articulate the test case for both techical and non-technical readers to understand
+- [ ] Ensure test cases are reflective of the full user journey / experience and KPIs the team is looking to capture
+- [ ] Ensure screenshots clearly identify all testable components, using multiple within a single grid row if necessary 
+- [ ] Use boxes, arrows, and highlighters where necessary to showcase specific components that need attention
+- [ ] Ensure any custom dimensions / metrics are tested  and clearly documented
+
+### CHECKLIST BEFORE CLOSING ANY TICKET
+- [ ] QA of both the data layer and tagging has been documented
+- [ ] Content grouping has been updated & tested at both the benefit hub and product level 
+- [ ] Any **NEW** data layer specification that has been added has been reflected in our event data dictionary for future reuse
+     - [ ] _Open a PR to our event labels documentation for review with the relevant changes_
+- [ ] Custom dimensions have been made active and index numbers are accurate
+- [ ] Google Analytics annotation has been written and applied to the appropriate GA views
+- [ ] GTM workspace has the necessary GH ticket number and the description provides context as to what was implemented
+- [ ] Publish has pushed to all environments from the "bottom up" -- first dev, staging, and then production
+- [ ] If a design system component interaction, ensure the component library version and event source has been passed with the event
+- [ ] If any additional communication / downstream communication is necessary -- it's been documented before closing 
+
+
