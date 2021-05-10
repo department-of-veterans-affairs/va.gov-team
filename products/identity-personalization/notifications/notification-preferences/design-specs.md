@@ -144,9 +144,19 @@ Display warning alert where email/phone and `update contact info` link would nor
 
 > *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
 
+### User deletes their associated contact information
 
+Update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notifications anymore.  
 
-### User opted into notifications deletes their associated contact information
+[Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
+
+#### Copy
+
+**Alert copy**
+
+> This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
+
+### User who is opted into notifications deletes their associated contact information
 
 `draft, need to update once finalized`
 
@@ -155,8 +165,6 @@ If a user is opted into text messages or email notifications, and deletes their 
 - treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
   - In the read view, this means they'll see that those notifications are turned off
   - In edit view, they won't have inputs to opt-in/out of notifications.
-- We'll update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notificaitons anymore.  
-  - Because of complexities around the various ways people receive notifications at VA, outside of VA Profile, we shouldn't say that they defintiely will NOT receive these notifications.
 
 If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
 
