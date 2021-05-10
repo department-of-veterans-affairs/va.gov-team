@@ -81,6 +81,7 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 
 ### Forms Process
 - Kayce has created flowcharts - she will send to us.
+- Workgroup and Systems implmentation adds time to the normal 9-12 months 
 
 ### OMB Forms Process
 - Five phases
@@ -94,7 +95,7 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 
 ### Possible Ways We Can Help Them
 - Troubleshoot/test new/updated forms for potential issues
-- 
+- Figure out a way for us to provide announcements on upcoming/recent changes
 
 ### Other Notes
 - Forms is ramping up; a lot more will be coming
