@@ -30,11 +30,7 @@
   - Move mock data into individual tests
 
 - Kevin
-  - Update vaccine flow single facility available view to match regular appointment flow 
-  - Weekend Appts Do Not Display for Primary Care or Specialty Care clinics bug 
-  - Replace connect() with hooks  
-  - Add canceler info to appointment details
-  - Direct schedule confirmation (Homepage Refresh)
+  - none
 
 - Jeff
   - Replace connect() with hooks
