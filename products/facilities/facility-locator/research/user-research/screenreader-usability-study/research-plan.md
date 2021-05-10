@@ -57,10 +57,10 @@ Can Veterans, with low to no vision, who use keyboard, voice and/or other assist
 
 Sessions will combine: 
 
-- Directed interviewing to understand participant's context and experience with assistive technology and other websites that they use currently
-- Usability testing with task analysis of searches conducted on Google and Facility locator.
-- 1.5 hour sessions will be remotely moderated via Zoom. Perigean please allow up to 2 hours for technical difficulties.
-- Participants will share their phone or desktop screen. 
+- Directed interviewing to understand participant's context, experience with assistive technology and other websites that they use currently.
+- Usability testing with task analysis of searches conducted on Facility locator and their preferred search tool.
+- 2 hour sessions will be remotely moderated via Zoom. Extended session length allows for technical difficulties and more time consuming task completion via screen reader.
+- Participants will share their device's screen. 
 
 
 ## Participants and Recruitment 
@@ -83,7 +83,7 @@ Sessions will combine:
  
 [**Note for Perigean:** ]
  - Please ask participant what screen reader technology they will use for the session and include in participant tracker
- - Please ask participants if they would be comfortable with 4 off-camera, observers present during the research session, including the facilitator OR if they would prefer a more private session with just one facilitator and one accessibility specialist.
+ - Please ask participants if they would be comfortable with 4 off-camera, observers present during the research session (including the facilitator) OR if they require a more private session with just 2 observers (one facilitator and one accessibility specialist).
  - Please ask participant what method of text communication they'd prefer the most during the session (to send and open links) e.g. text message, email, or zoom chat.
 
 AND
@@ -118,11 +118,11 @@ At least: **Josh: updated based on VA statistics for marginalized groups**
 
 ## Timeline 
 
-[Preliminary dates]
+[Preliminary dates - needs updating]
 
 - Study dates: May 19 - 27, 2021
 - Pilot session: will be held on Mon, May 17, 2021
-- Session length: **1.5 hours** Perigean please allow up to 2 hours for technical difficulties.
+- Session length: **2 hours** 
 
 #### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
 - Wed 5/19: 8a, 10a, 12p
