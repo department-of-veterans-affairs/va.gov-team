@@ -101,6 +101,7 @@ Office
 - Forms is ramping up; a lot more will be coming
 - 🔴 Let Kayce know about the form I saw that had bad alignment - reach out to the PCO for the business line and 
 - Let Janel about 10-10CG - the fillables overlap in section 1
+- They may not be aware that users cannot save the form.
 - 🔴 Send Kayce the info about Adobe LiveCycle support.  She did not know about the issues with the XFA format.
 - She has no other way to get forms drafted other than OAF.  Kayce just creates a draft in Word, and she turns that into OAF and they draft it into whatever they are supposed to draft.  Kayce will be our Liason to OAF until they say otherwise.
 
