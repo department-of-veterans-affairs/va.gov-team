@@ -22,6 +22,10 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 - We will always show this section.
 - Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i))
 
+## URL
+
+URL for this section should [www.va.gov/profile/notifications](http://www.va.gov/profile/notifications) as noted in the [IA recommendations document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-profile-notifications.md).
+
 ## Design 
 
 Mobile and desktop example shows:
