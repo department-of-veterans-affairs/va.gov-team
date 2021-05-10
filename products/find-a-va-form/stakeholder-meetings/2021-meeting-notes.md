@@ -24,7 +24,7 @@
 - VA Clearance Office is out of VACO proper Maribel and Dorothy work with the Federal Register and OMB
 - List down to VHA is VBA.  The four at the top (Nancy, Yvette, Moneke, Karl) do all of VBA, but they own these three forms -  10206, 10207 and 10208 
 
-### General Forms Information
+### Form Numbering and Managers
 - Forms starting with 10- is VHA - their person who upload forms to the web site, Kayce is not sure who that is.  She can forward us the info. 
 - VBA - broken down into different business lines (all prefixes start in 20's)
 - Office of Admin Review (OAR) - 20- (0995 and 0996 were recently updated; they also own 0998) - Shireen Lackey and Alphonso Bruce.  Form 10182 has no prefix.  10207 or 10208 - Kayce can help with
@@ -70,6 +70,7 @@ Office
 - The ones on VA.gov are required for the public to have.  They are specifically just for the use of the agency.
 - Expiration date is just an indicator to Kayce that it needs to be looked at.  They still accept them after their expiration date.  An extension is to extend its viability beyond the current expieration date (usually 3 years)
 - The OMB number is a control number that never changes as long as a form exists BUT multiple forms that are grouped together can have the same control number.
+- FL Forms are really old; they are generally batch printed and mailed out.
 
 ### Form Content
 - Date in the bottom left is the month and date OMB approved it
