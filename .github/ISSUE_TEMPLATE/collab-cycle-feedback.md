@@ -29,7 +29,7 @@ assignees: ''
 
 **Consider:**
 
-## VSP directions
+## Platform directions
 - Update "Issue Title"
 - Link to collab cycle touchpoint meeting epic
 - Add to the Feedback pipeline on the Platform Product Support board
