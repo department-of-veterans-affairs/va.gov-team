@@ -18,3 +18,4 @@
 | Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 |
 | Added sentence to Janssen alert | 5/3 | 5/3 | 5/5 | 5/5 .5 hr | 5/5 .5 hr | | 5/5 |
 | VRRAP question on FAQs | 5/5 | 5/6 |
+| New vaccine updates for eligibility and safety | 5/10 | 5/10 |
