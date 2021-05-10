@@ -15,25 +15,16 @@
   - #23478 update design and state changes on appointment list cards
   
 - Tony
-  - Add heading to how to cancel message in appointment details
-  - ~~Simplify transformed format of in person VA appointments~~
-  - ~~Simplify transformed data format for VA and CC requests~~
-  - ~~Replace connect() with hooks~~
-  - ~~Move mock data into individual tests~~
-
-- Kevin
-  - None
+  - Calendar ICS file details
 
 - Jeff
-  - Update direct schedule confirmation pages
+  - Update direct schedule confirmation pages (demo for Kevin)
   - Announce appointment list preference change to screen reader
   - [Unenrolled POC] Set up scaffolding
   - Create functions to fetch VATS settings in Location service
   - Refactor eligibility to work better with VAOS service approach
 
-- Lance
-  - None
-  
+
 ---
 
 ## Rules of engagement
