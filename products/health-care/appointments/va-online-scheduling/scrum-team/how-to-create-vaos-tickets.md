@@ -19,7 +19,7 @@ For all new VAOS tickets:
 ---
 
 ## Accessibility Issues, Questions, or Recommendations
-Beyond the 508 and VSP audits, our team may identify accessibility issues or recommendations.
+Beyond the 508 and VSP audits, our team may identify accessibility issues or recommendations. Group similar violations in one ticket (e.g. color contrast issues on multiple pages can be in one ticket and listed out in the description).
 - In the 'Template' dropdown, select the VAOS Accessibility issue template
   - ![zh-choose-accessibility-template](https://user-images.githubusercontent.com/72046525/112038259-db91ef80-8aff-11eb-9c71-b44db6b932ce.jpg)
 - Fill out all required sections
