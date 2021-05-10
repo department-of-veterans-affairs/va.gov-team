@@ -38,7 +38,8 @@ Vet Center CAP data and questions
   * How long should CAP data archived in the CMS be available to Vets, and in what form? (Question for Dave)
   * What happens if the CAP is archived, then re-activated with the same ID?
   * Should the CMS be the place where CAPs are gradually closed, or is that best managed by Lighthouse / Facility Locator?
-* [CMS GraphQL documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/graph_ql.md) for Lighthouse engineer. [Platform Build Pipeline info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/platform/cms-metalsmith-build/product-outline.md)
+
+[CMS GraphQL documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/graph_ql.md) for Lighthouse engineer. [Platform Build Pipeline info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/platform/cms-metalsmith-build/product-outline.md)
 
 ## Monday May 3 3pm ET
 
