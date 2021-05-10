@@ -60,7 +60,7 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 - Since 4 of 5 participants incorrectly assumed the list was sorted chronologically, we should add text above the list to communicate how it is sorting to minimize the cognitive effort required to process long lists.  
 
-- We need to update our research questions and conversation guide for our VAOS study to dig in to some of the findings we uncovered.  We should
+- We need to update our research questions and conversation guide for our VAOS study to dig in to some of the findings we uncovered.  We should:
 
   - Further evaluate if people have questions about the scope of the edits to their list (finding 2).  We'll add this to our research with VAOS.  If needed, we can add a heading to provide more clarity.
   - Evaluate expectations around the `schedule an appointment online` link. If needed, we can make that language more specific.
