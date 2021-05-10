@@ -101,7 +101,7 @@ Several Veterans stated that they would look for a section on the homepage with 
 
 ### Do Veterans expect to find all of their money owed to the VA in a single tool?
 
-#### Veterans overwhelmingly expected to find all money owed to VA within a single tool despite the various approaches they took while finding that tool.
+#### Veterans overwhelmingly expected to find all money owed together despite the various approaches they took while finding that tool.
 
 While discussing what they'd expect to find when looking for money they owed to VA, Veterans:
 
@@ -114,7 +114,7 @@ Quotes:
 * "I'd expect to contact one VA organization and be able to pay all of my VA debts."
 * "So like if you have any payments you owe, I would think regardless what they were for they'd be in some central location."
 
-#### Veterans expected to see all money owed to VA and all money received from VA in the same location. 
+#### Veterans expected to see money owed to VA and money received from VA in one place.
 
 * Multiple gravitated towards the 'View your payment history' links under the disability and education hubs on the homepage (4)  
 
