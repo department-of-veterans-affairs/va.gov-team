@@ -30,7 +30,7 @@
   - Create functions to fetch VATS settings in Location service
   - Refactor eligibility to work better with VAOS service approach
 
-- Lance
+- Lance - NONE
   - Add Cypress tests to cover both contact facilities page variations in vaccine flow
   - Cheetah code reference clean-up
   - Replace connect() with hooks
