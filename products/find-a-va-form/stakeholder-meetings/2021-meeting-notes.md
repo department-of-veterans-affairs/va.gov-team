@@ -60,9 +60,19 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 ![image](https://user-images.githubusercontent.com/73354907/117685394-e70aaa00-b183-11eb-9829-e9b08457dffe.png)
 
 ### Tier Definitions of Changes for Forms
-- Tier 1 - Clarification (ie changes to content already within a form) - No OMB
-- Tier 2 - Non-Substantive Changes (i.e., formatting) - No OMB
+- Tier 1 - Clarification (ie changes to content already within a form) - No OMB (no version date change)
+- Tier 2 - Non-Substantive Changes (i.e., formatting) - No OMB (no version date change)
 - Tier 3 - Substantive Changes (i.e., new content or removal of content) - OMB needed
+- OMB only cares about a change to the burden or cost to government.
+
+### Form Content
+- Date in the bottom left is the month and date OMB approved it
+- Form number is in the bottom left in a larger typeface
+- Version date is NOT the same as last update.  Version date is ONLY month/year.  
+
+### Optical Character Recognition (OCR info)
+- OCR has been included in forms for 6 years.  Kayce and Nancy Kessenger originally added them.  This is where things are broken down into little blue boxes per character.
+
 
 ### Forms Process
 - Kayce has created flowcharts - she will send to us.
