@@ -14,7 +14,7 @@ As a designer I need to create a research plan to share with my team.
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
 General:
-- What do users think of the search interface?
+- Can users effectively interact with the search interface?
 - What types of searches are users interested in running?
 - What challenges do users have with the new interface (if any)?
 
@@ -84,6 +84,7 @@ Military status of participants:
 - VA Benefit requirement:
    - 50% using Chapter 33 Post-9/11 benefits
    - 50% using VR&E or Chapter 30 Montgomery Bill
+       - No more than 3 Chapter 30 Montgomery Bill participants
 
 2. **Secondary criteria / Would like to have** 
 
