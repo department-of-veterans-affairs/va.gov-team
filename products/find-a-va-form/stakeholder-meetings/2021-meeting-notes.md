@@ -51,10 +51,7 @@ Death Related - NCA
 VACO - HR related, general specific forms that are not benefit-related, hospital or death related
 
 ![image](https://user-images.githubusercontent.com/73354907/117684535-166ce700-b183-11eb-9558-6d953f0fb1ef.png)
-
-
 ![image](https://user-images.githubusercontent.com/73354907/117684489-094ff800-b183-11eb-911c-e4ac2266092d.png)
-
 ![image](https://user-images.githubusercontent.com/73354907/117685099-998e3d00-b183-11eb-9c80-df5e28c80733.png)
 ![image](https://user-images.githubusercontent.com/73354907/117685254-be82b000-b183-11eb-9913-d383874cd8a9.png)
 ![image](https://user-images.githubusercontent.com/73354907/117685394-e70aaa00-b183-11eb-9829-e9b08457dffe.png)
@@ -62,8 +59,17 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 ### Tier Definitions of Changes for Forms
 - Tier 1 - Clarification (ie changes to content already within a form) - No OMB (no version date change)
 - Tier 2 - Non-Substantive Changes (i.e., formatting) - No OMB (no version date change)
-- Tier 3 - Substantive Changes (i.e., new content or removal of content) - OMB needed
-- OMB only cares about a change to the burden or cost to government.
+- Tier 3 - Substantive Changes (i.e., new content, removal of content or put through as an extension) - OMB needed
+- OMB only cares about a change to the burden or cost to government. Version date is changed to when OMB approves.
+
+### General Form Info
+- Forms that don't ask questions are not controlled by OMB.  They don't get updated very often.  If they are updated, the month and year will reflect when it's revised.
+- Internal VA site includes ALL forms
+- VBA has 850 forms
+- All VA-wide there are 1500-1600 forms
+- The ones on VA.gov are required for the public to have.  They are specifically just for the use of the agency.
+- Expiration date is just an indicator to Kayce that it needs to be looked at.  They still accept them after their expiration date.  An extension is to extend its viability beyond the current expieration date (usually 3 years)
+- The OMB number is a control number that never changes as long as a form exists BUT multiple forms that are grouped together can have the same control number.
 
 ### Form Content
 - Date in the bottom left is the month and date OMB approved it
@@ -73,20 +79,29 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 ### Optical Character Recognition (OCR info)
 - OCR has been included in forms for 6 years.  Kayce and Nancy Kessenger originally added them.  This is where things are broken down into little blue boxes per character.
 
-
 ### Forms Process
 - Kayce has created flowcharts - she will send to us.
-- 
-#### OMB Forms Process
+
+### OMB Forms Process
 - Five phases
 - 9-12 months beginning to end.  Some can take 18+ months. One took 4 years (15 pages)
+- Nancy, Moneke, etc. are Kayce's drafters
+- OMB Desk Officer - OMB is under the White House, officer is a lawyer.
+
+### Upcoming Changes
+- They can usually give us a 90-day heads up that a form is going to be updated.
+
+
+### Possible Ways We Can Help Them
+- Troubleshoot/test new/updated forms for potential issues
+- 
 
 ### Other Notes
 - Forms is ramping up; a lot more will be coming
 - 🔴 Let Kayce know about the form I saw that had bad alignment - reach out to the PCO for the business line and 
 - Let Janel about 10-10CG - the fillables overlap in section 1
 - 🔴 Send Janel the info about Adobe LiveCycle support.  She did not know about the issues with the XFA format.
-- She has no other way to get forms drafted other than OAF.  Kayce just creates a draft in Word, and she turns that into OAF and they draft it into whatever they are supposed to draft. 
+- She has no other way to get forms drafted other than OAF.  Kayce just creates a draft in Word, and she turns that into OAF and they draft it into whatever they are supposed to draft.  Kayce will be our Liason to OAF until they say otherwise.
 
 <hr>
 
