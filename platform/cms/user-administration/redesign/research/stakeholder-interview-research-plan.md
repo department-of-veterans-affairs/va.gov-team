@@ -102,12 +102,12 @@ We are excluding the following products whose needs are currently covered elsewh
 - Cemetary  
 
 #### Primary criteria / Must have
-*What absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.)*
 
 - Has the authority to set user admin policy for their product
 - Has the authority to review and approver cms access for their product
 
 #### Secondary criteria / Would like to have
+
 *What other criteria would strengthen your results?*
 
 Also interested in folks who are not the product owner/manager, but may have user admin duities delegated to them by the PO/PM.
@@ -120,12 +120,7 @@ Reach out directly in Slack to relevant participants.
 
 CMS team sprint 34
 
-Timeline: 
-*What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
-
-Length of Sessions: How long do you estimate each session will be? 
-
-*(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+**Length of Sessions:**
 
 30 to 45 minutes.
 
