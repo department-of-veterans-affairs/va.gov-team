@@ -26,6 +26,28 @@
 </summary>
 
 </details>
+## Wednesday, April 12, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] [Campaign Landing Page Production MVP] - Vaccine Confidence #23704
+- [ ] [Campaign Landing Page Production MVP] - Pride & Discharge Upgrades #24350
+- [ ] Mobile Search Research Discussion (Recommendation for user feedback on Mobile R&S Search)
+- [ ] Use initial capitals in meta title tags in RS per style guide #24383
+- [ ] [Discovery] HP COVID banner and accessibility/ScreenReader #24199
+- [ ] Sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11) #15244
+- [ ] - [ ] 508-defect-3 [SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users [#7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834) 
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Resources and support: Too much spacing between bottom of process list and CTA buttons, IE11 [#15501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15501)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571)
+- [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521) 
+- [ ] 
 
 ## Wednesday, April 28, 2021
 
