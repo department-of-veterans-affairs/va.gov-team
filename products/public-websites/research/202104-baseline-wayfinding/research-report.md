@@ -124,7 +124,8 @@ Put together initial recommendations here based on your findings. Review with yo
 Next steps here
 
 ## Appendix
-### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)
+### Conversation guide
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md
 
 
 ### Interview notes
