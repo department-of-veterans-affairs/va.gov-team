@@ -21,19 +21,21 @@ General:
 Search Results and Filters:
 - Do users think their search results are relevant?
 - What do users think of the layout and information on the search results cards?
-- What do users think of the placement of the filters?
+- Are users able to find and effectively engage with the filters?
 - Do users believe the available filters are useful?
     - If so, which ones?
     - Are any filters missing?
 
 Location search
-- What do users think of the location search?
+- Are users able to effectively utilize the location search?
 - Do users find the autocomplete helpful for location search?
     - If not, what would make suggestions more useful?
 - How do users engage with the map and list view?
-- What do users think of the interaction between the map and list view?
-- What do users think of the radius option?  
+- Do users understand the interaction between the map and list view?
+- Are users interested in using the radius option?
+- Can users effectively use the radius option?
 - Are users interested in the "Use my current location" option?
+   - If so, are they able to find the functionality?
 
 Estimate your benefits:
 - Do user notice the benefit controls?
