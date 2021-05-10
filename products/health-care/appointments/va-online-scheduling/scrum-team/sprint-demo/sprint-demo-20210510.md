@@ -7,10 +7,8 @@
 
 ### Backend
 - Brad
-  - Replace connect() with hooks 
   - Surface eligibility enrollment data to vets-website
-  - VAOS Service Integration (GET Patient Metadata) 
-  - VAOS Service Integration (GET Appointments)
+  - VAOS Service Integration
 
 ### Frontend
 - Jennie
