@@ -49,12 +49,8 @@ Office
      - Board of Veterans Affairs 
      - Death Related - NCA
      - VACO - HR related, general specific forms that are not benefit-related, hospital or death related
+![image](https://user-images.githubusercontent.com/73354907/117714935-a02dac00-b1a5-11eb-9a18-d7056b7982d3.png)
 
-![image](https://user-images.githubusercontent.com/73354907/117684535-166ce700-b183-11eb-9558-6d953f0fb1ef.png)
-![image](https://user-images.githubusercontent.com/73354907/117684489-094ff800-b183-11eb-911c-e4ac2266092d.png)
-![image](https://user-images.githubusercontent.com/73354907/117685099-998e3d00-b183-11eb-9c80-df5e28c80733.png)
-![image](https://user-images.githubusercontent.com/73354907/117685254-be82b000-b183-11eb-9913-d383874cd8a9.png)
-![image](https://user-images.githubusercontent.com/73354907/117685394-e70aaa00-b183-11eb-9829-e9b08457dffe.png)
 
 ### Tier Definitions of Changes for Forms
 - Tier 1 - Clarification (ie changes to content already within a form) - No OMB (no version date change)
