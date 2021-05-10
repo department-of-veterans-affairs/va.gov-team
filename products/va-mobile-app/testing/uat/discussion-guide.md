@@ -53,7 +53,7 @@ I can walk you through setting up the app on your iPhone. As a heads up, I will 
 - First, we need to send an email to you to invite you to test. I have sent an invitation to the email address [participant’s email address]. Do you have access to that email address on your phone right now? 
 - Next, download the Test Flight app via the App Store. We have invited you to test the app using the app Test Flight. 
 - Great. Please go to your [email address] inbox. 
-- Then, open the email from “TestFlight” with the subject line “Ad Hoc LLC has invited you to test VA Mobile”. You should see a link that you can click that should download and launch the app.
+- Then, open the email from “TestFlight” with the subject line “US Department of Veterans Affairs (VA) has invited you to test VA Mobile App”. You should see a link that you can click that should download and launch the app.
 - You should see VA Mobile and be able to open the app from Test Flight
 
 #### Google Play: Use if the participant is using an Android
