@@ -7,6 +7,7 @@
 ### Session Prep
 
 - [ ] Notifications off
+- [ ] Use headphones (prevents SR from echoing back to participant)
 - [ ] Enable screen sharing in Zoom
 - [ ] Manage waiting room feature in Zoom
 
