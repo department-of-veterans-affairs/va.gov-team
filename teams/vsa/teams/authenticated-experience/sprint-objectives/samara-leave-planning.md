@@ -9,19 +9,9 @@
 - Finish My VA 2.0 build
 - My VA 2.0 [VSP pre-launch collab points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)
 - My VA UAT
-- (Hopefully) My VA 2.0 phased launch begins
+- My VA 2.0 phased launch begins
 
-### Q3 2021 (July - September)
-
-### My VA 2.0 launch
-
-- If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
-
-### PM priority: My VA 2.0 project KPI tracking
-
--	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
-
-### Designer priority: Run experiment(s) on how we can better elevate action items
+### Run experiment(s) on how we can better elevate action items
 
 **When**: Post-launch; May take the full quarter
 
@@ -42,9 +32,19 @@
 - Run research.
 - Write up and recommendations for potential implementation into the My VA experience.
 
-### If time: Run usability testing on My VA in production
+### Q3 2021 (July - September)
 
-**When**: If time in Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
+### My VA 2.0 launch
+
+- If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
+
+### My VA 2.0 project KPI tracking
+
+-	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
+
+### Run usability testing on My VA in production
+
+**When**: Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
 
 **Objectives**: 
 -	Assess usability of the tool with veterans’ real information.
