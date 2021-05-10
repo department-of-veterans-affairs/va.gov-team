@@ -16,10 +16,10 @@
   
 - Tony
   - Add heading to how to cancel message in appointment details
-  - Simplify transformed format of in person VA appointments
-  - Simplify transformed data format for VA and CC requests
-  - Replace connect() with hooks
-  - Move mock data into individual tests
+  - ~~Simplify transformed format of in person VA appointments~~
+  - ~~Simplify transformed data format for VA and CC requests~~
+  - ~~Replace connect() with hooks~~
+  - ~~Move mock data into individual tests~~
 
 - Kevin
   - None
