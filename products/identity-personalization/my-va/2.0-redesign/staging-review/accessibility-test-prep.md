@@ -1,5 +1,7 @@
 # My VA - Accessibility Staging Reivew Prep
 
+For additional reference see [Accessibility staging review prepartion documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
+
 ## Foundational Accessibility Tests
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |------------------ |
