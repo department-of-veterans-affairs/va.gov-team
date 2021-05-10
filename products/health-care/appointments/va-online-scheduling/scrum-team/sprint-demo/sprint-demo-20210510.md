@@ -39,9 +39,6 @@
   - Appointment request confirmation (Homepage Refresh)
   - Come up with better approach for organizing Cypress mock data setup
   
-### Design
-
-- Peter
 
 ---
 
