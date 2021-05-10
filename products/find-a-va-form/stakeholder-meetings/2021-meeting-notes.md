@@ -59,8 +59,20 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 ![image](https://user-images.githubusercontent.com/73354907/117685254-be82b000-b183-11eb-9913-d383874cd8a9.png)
 ![image](https://user-images.githubusercontent.com/73354907/117685394-e70aaa00-b183-11eb-9829-e9b08457dffe.png)
 
+### Tier Definitions of Changes for Forms
+- Tier 1 - Clarification (ie changes to content already within a form) - No OMB
+- Tier 2 - Non-Substantive Changes (i.e., formatting) - No OMB
+- Tier 3 - Substantive Changes (i.e., new content or removal of content) - OMB needed
 
-### Meeting Notes
+### Forms Process
+- Kayce has created flowcharts - she will send to us.
+- 
+#### OMB Forms Process
+- Five phases
+- 9-12 months beginning to end.  Some can take 18+ months. One took 4 years (15 pages)
+
+
+### Other Notes
 - Forms is ramping up; a lot more will be coming
 
 <hr>
