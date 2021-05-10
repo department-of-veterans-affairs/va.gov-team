@@ -47,7 +47,17 @@
 - [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
 - [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
 - [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521) 
-- [ ] 
+
+## Future/Road Map Items:
+- [ ] Proposed: VA.gov Secure Online Harassment Reporting Tool [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/read-me.md#proposed-vagov-secure-online-harassment-reporting-tool)
+- [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+- [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+- [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- Have heard of the band 1023MB? 
 
 ## Wednesday, April 28, 2021
 
