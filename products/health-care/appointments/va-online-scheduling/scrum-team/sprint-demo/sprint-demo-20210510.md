@@ -33,11 +33,8 @@
   - Update direct schedule confirmation pages
 
 - Jeff
-  - Replace connect() with hooks
   - Announce appointment list preference change to screen reader
   - [Unenrolled POC] Set up scaffolding
-  - Bug roundup from staging and Sentry pass
-  - Clean up Community Care appointment and request transform
   - Create functions to fetch VATS settings in Location service
   - Refactor eligibility to work better with VAOS service approach
 
