@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
-Liz Lantz, May 7, 2021
+Liz Lantz, May 10, 2021
 
 View the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/discovery-and-research/conversation-guide.md) and [project brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md).
 
@@ -14,11 +14,11 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 ## Findings
 
-1. All participants easily understood that the facilities listed on the page were places where a Veteran had received care.
+1. All participants understood the facility list to be places where a Veteran had received health care.
 
-2. All participants expected that unchecking the checkbox would remove a facility from their list.
+2. All participants expected that unchecking the checkbox would remove a facility from the list.
 
-3. All participants understood the "**Note:...**" copy that appeared after removing a facility from their list.
+3. All participants understood the content* that appeared after removing a facility from the list.
 
 4. 2 participants were initially unsure if edits to their list were limited to just their profile, or their broader VA record.
 
@@ -28,7 +28,7 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
    This may have been due to how the prototype was wired up, since only one configuration of checkboxes (out of more than 12 possible outcomes) would be correctly displayed after clicking the `update` button. 
 
-   Once they saw the "**Note:...**" copy replacing the facility they unchecked, the edit outcome made sense to them. 
+   Once they saw the content* replacing the facility they unchecked, the outcome after making edits made sense to them. 
 
 5. 4 of 5 people assumed the facility list was sorted chronologically based on when they had gone to the facilities. One of those participants also commented that they expected to see facilities delineated by type.
 
@@ -56,7 +56,7 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 ## Recommendations
 
-- Our study shows there were no major usability issues, and people easily navigated our design to update their list of facilites. We should move forward with our overall design pattern for the study with VAOS.
+- Our study shows there were no major usability issues, and people easily navigated our design to update the list of facilites. We should move forward with our overall design pattern for the study with VAOS.
 
 - Since 4 of 5 participants incorrectly assumed the list was sorted chronologically, we should add text above the list to communicate how it is sorting to minimize the cognitive effort required to process long lists.  
 
@@ -66,13 +66,13 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
   - Evaluate expectations around the `schedule an appointment online` link. If needed, we can make that language more specific.
   - See if there are additional data points around facilities that would make sense to include here.
 
-- Learn more about the scenario where someone registers with a facility but doesn't yet see the facility listed in their profile. We should understand the timeline between a person registering at a facility and it becoming a part of their MPI data. The VAOS study can proceed regardless of having this information, but we should have the following questions resolved so we can evaluate any solutions to address them in a subsequent round of usability testing:
+-  We should understand the timeline between a person registering at a facility and it becoming a part of their MPI data. This will inform how we might provide a good UX for the scenario where someone registers with a facility but doesn't yet see the facility listed in their profile. The VAOS study can proceed regardless of having this information, but we should have the following questions answered so we can evaluate any solutions to address them in a subsequent round of usability testing:
 
   - How long does it take for new facility registration to reflect in MPI
   - Is the timeline different if they register by phone or in person? 
   - Does it vary by facility?
 
-  If a significant delay is possible, we can update the language in/around that FAQ to answer this question for Veterans.
+  If we learn there could be a delay for a user in this scenario, we can update the language in/around that FAQ to answer this question for Veterans.
 
 - We need to re-evaluate if the logic we planned to use to show/hide this section of profile still makes sense, given the new use case we uncovered (finding 6).  You could be in the system but not actively receiving care, which means you might not be able to do things like schedule an appointment online. The VAOS study can proceed without answers to this question.  Before we release our MVP, we'll need to determine:
 
@@ -84,3 +84,8 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138665581/simulate/no-panels?mode=i
 
 [Notes/synthesis doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/discovery-and-research/health-facilities-internal-study-notes.xlsx)
+
+
+
+*Content:  "**Note: **You're registered at 1 other facility where you've received care in the past. You can edit this list to add that facility at any time."
+
