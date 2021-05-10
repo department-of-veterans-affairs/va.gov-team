@@ -8,7 +8,7 @@ View the [conversation guide](https://github.com/department-of-veterans-affairs/
 
 ## Overview
 
-We're building a new section of profile to allow Veterans to set their facility preferences, which will in turn inform the list of options Veterans see when they use VAOS to schedule an appointment online.  Prior to conducting a collaborative study with the VAOS team, we did some usability testing to validate our overall design and get insights into how Veterans understand this section of profile outside of the VAOS context.
+We're building a new section of profile to add functionality to VA.gov profile to allow Veterans to set their facility preferences, which will in turn inform the list of options Veterans see when they use VAOS to schedule an appointment online.  Prior to conducting a collaborative study with the VAOS team, we wanted to do some usability testing to validate our overall design and get insights into how Veterans understand this section of profile outside of the VAOS context.
 
 We ran 5 moderated sessions on Zoom with internal colleagues who are also Veterans.
 
@@ -58,11 +58,13 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 - Our study shows there were no major usability issues, and people easily navigated our design to update the list of facilites. We should move forward with our overall design pattern for the study with VAOS.
 
-- Since 4 of 5 participants incorrectly assumed the list was sorted chronologically, we should add text above the list to communicate how it is sorting to minimize the cognitive effort required to process long lists.  
+- Since 4 of 5 participants incorrectly assumed the list was sorted chronologically, we should add text above the list to communicate how it is sorting to minimize the cognitive effort required to process long lists. 
+
+- We should explore making the impacts of editing the facility list more clear. If people think unchecking a facility will unregister them from that facility, they may not use this tool, making it unusable. 
 
 - We need to update our research questions and conversation guide for our VAOS study to dig in to some of the findings we uncovered.  We should:
 
-  - Further evaluate if people have questions about the scope of the edits to their list (finding 2).  We'll add this to our research with VAOS.  If needed, we can add a heading to provide more clarity.
+  - Evaluate if people still have questions about the scope of the edits to their list (finding 2) after we make changes.  We'll add this to our research with VAOS. 
   - Evaluate expectations around the `schedule an appointment online` link. If needed, we can make that language more specific.
   - See if there are additional data points around facilities that would make sense to include here.
 
