@@ -29,7 +29,7 @@
 ## Monday May 17 3pm ET
 
 * VAST meeting outcome
-* GraphQL documentation for Lighthouse engineer
+* [GraphQL documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/graph_ql.md) for Lighthouse engineer
 
 ## Monday May 10 3pm ET
 
