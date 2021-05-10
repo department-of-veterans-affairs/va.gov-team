@@ -9,12 +9,12 @@
 
 #### Team Members
 
-| Team Member  | Slack         |
-|--------------|---------------|
-| Amy Cesal    | @amy cesal    |
-| Ben McGrady  | @ben mcgrady  |
-| Brian Martin | @brian martin |
-| Jon Wehausen | @jon wehausen |
+| Team Member    | Slack          |
+|----------------|----------------|
+| Chloe Brown    | @chloe brown   |
+| Jason Cavnar   | @jason cavnar  |
+| Brian Martin   | @brian martin  |
+| Lauren Simpson | @chloe simpson |
 
 
 ---
@@ -96,14 +96,31 @@ Satisfaction
 - Customer Sentiment
 
 ### OKRs
-O: Improve Data Quality: VFS teams use task completion in their success measurements to measure service completion.
+**Q4 2020**
+
+**O: Improve Data Quality:** VFS teams use task completion in their success measurements to measure service completion.
+
 KR: Publish standard queries for time to complete tasks metrics for 3 additional products.
+
+Result: 🌀 2 (VAOS, View Payment History)
+
 KR: Increase new funneling conversions to 3 additional products.
 
-O: Increase Product Stickiness: Increase active dashboard usage. 
+Result: ✔️ 3 (VAOS, 10203, & HCA)
+
+**O: Increase Product Stickiness:** Increase active dashboard usage. 
+
 KR: 100% of products launching through the Collaboration Cycle have quality KPIs set.
+
+Result: N/A
+
 KR: Increase product KPIs tracked in Domo to 2.
+
+Result: ✔️ 3 (Vaccine Registry, 10203, Profile 2.0)
+
 KR: Increase average weekly product KPIs shared in Team of Teams to 4 teams
+
+Result: 🌀 Avg. 3.75 teams sharing metrics, 23.44% of VFS teams
 
 ---
 
