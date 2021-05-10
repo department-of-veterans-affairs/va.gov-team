@@ -30,7 +30,7 @@
   - Move mock data into individual tests
 
 - Kevin
-  - none
+  - Update direct schedule confirmation pages
 
 - Jeff
   - Replace connect() with hooks
