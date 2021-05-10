@@ -50,8 +50,8 @@ Vet Center CAP data and questions
 How might graphQL support the needs to supply service data to lighthouse? 
 * [CMS GraphQL documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/graph_ql.md). 
 * Example implementation: [Platform Build Pipeline info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/platform/cms-metalsmith-build/product-outline.md)
-
-
+* Research question: are there advantages to using GraphQL over the existing push approach. 
+* Follow-up questions: #cms-support channel in DSVA slack.
 
 ## Monday May 3 3pm ET
 
