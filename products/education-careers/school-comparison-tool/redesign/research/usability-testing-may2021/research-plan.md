@@ -71,7 +71,12 @@ Estimate your benefits:
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** 
 
-- Military status:
+Participants should either:
+- Have started attending school in Fall 2020 or Spring 2021
+- Be looking to start school in 2021
+
+
+Military status of participants:
     - 2 spouses
     - 3 children
     - 7 Veterans
