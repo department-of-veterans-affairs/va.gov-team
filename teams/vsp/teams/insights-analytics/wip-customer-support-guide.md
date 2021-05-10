@@ -1,7 +1,11 @@
-## Google Tag Manager Customer Support Guide 
+# Google Tag Manager Customer Support Guide 
+
+##### Table of Contents
+1. Initial Ticket Review, Cleanup & Triage
+2. Data Layer Specification / Design 
 
 
-### 1. Initial Ticket Review, Cleanup & Triage
+## 1. Initial Ticket Review, Cleanup & Triage
 #### _BEFORE you start any hands-on work on a GH ticket, be sure the following have been executed..._
 
 - [ ] Start Toggl time entry for ticket number using our convention
@@ -21,21 +25,89 @@
    - [ ] **`bug`**: _For any request that is a FIX (tracking was previously working as expected and/or an implementation request has already created and closed and something needs to be revisited_
    - [ ] **`blocked`**: _For any request that becomes BLOCKED for any reason: technical, non-technical
        - _Also shift to **BLOCKED** column on board and leave a comment for WHY the ticket is blocked, CC relevant team members in tag_
-   - [ ] **`bigquery`**: _For any request that will involve BigQuery work
+   - [ ] **`bigquery`**: _For any request that will involve BigQuery work_
    - [ ] **`documentation`**: _For any request that is PRIMARILY documentation involved
    - [ ] **`needs-data-layer-spec`**: _For any request that is awaiting delivery of a data layer specification and/or requires custom data layer design/delivery to VFS devs
-   - [ ] 
 - [ ] Ensure the ticket has been applied to one of three of our relevant project boards: [Tracking & Access Board](https://github.com/department-of-veterans-affairs/va.gov-team/projects/20), [Dashboarding and Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/projects/32), [Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/projects/31)
-
-
-
-### Before setting a NEW Data Layer Specification 
-- [ ] Review and identify Key Performance Indicators (KPIs) from product documentation
+- [ ] If you have capacity, assign the ticket to yourself or assign the relevant person, OR call out during next grooming / planning session for assignment discussion
+   - [ ] _At this time it's also a good idea to comment @ the stakeholder letting them know you will review this during next planning / grooming_
+- [ ] Add sprint label if applicable
+- [ ] Review and identify Key Performance Indicators (KPIs) from product documentation and/or wireframes
     -  _Verify you have a clear and precise understanding of their KPIs/success metrics and subsequently recognize the products/apps/tools/components that need tracking in order to fulfill their KPI in order to create better efficiency for 
       delivering a KPI dashboard in the future_
     - _If needed, setup a meeting to walkthrough the product/app/tool and answer any questions and/or document questions in GH ticket and tag @ relevant personnel to confirm any clarifying questions_
     - _If no product documentation is provided and a meeting is not possible, ensure at the very least items/components/areas of the application that need tracking have been identified within the ticket_ 
- 
+
+ ---------------------------------------------------
+
+## 2. Data Layer Specification / Design
+### _AFTER above step 1 (review, cleanup, triage) steps have been executed..._
+
+### General 
+- Almost every ticket will more than likely need _some_ data layer specification provided, that said now with our [design system standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking), some will require much less custom `recordEvent` pushes than others based on the amount of customization requested
+- Nonethless, when a data layer specification is supplied, a comment should be left clearly calling out the specification for VFS developers to implement with a tag to the appropriate developer (reference [VFS roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit#gid=0) if unsure from ticket)
+- One of the first things that is good to identify is whether the page is a static page or not AND if it's available within staging currently -- this will help identify how much of the app will automatically be tracked, see sections below for each scenario
+- The following table should serve as a reference for documenting the data layer: 
+
+| Description & Screenshot of Interaction | Data Layer Event | Dev Notes 
+| -- | -- | -- |
+_Click on X_ | `'event': 'event-goes-here'` | _Any notes the developer should be aware of or specific instructions go here_
+_Specific interaction goes here_ | `'event': 'event-name-goes-here',`<br>`'data-layer-variable-here': 'value here'` | _Specify an example value or description of how to dynamically populate if not obvious_
+_Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUTOMATICALLY TRACKED WITH DESIGN SYSTEM -- set `disableAnayltics` to false to enable analytics
+
+### If the product/app/tool IS NOT yet available within staging...
+
+###### Forms
+- [ ] If the product is a **new forms library form**: indicate to VFS dev via a GH comment the [standardized forms system / forms library events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-form-events.md) should be utilized and supply a relevant product prefix
+    - [ ] _Reference existing product prefixes within our event dictionary and concatenate the new form name as part of the prefix, i.e `disability-21-686c-`_
+    - [ ] _Be sure to use suggest the more product prefixes where capable or introduce a new one if not, these can be found within GTM within the `Form Event Occurred` trigger_
+    - [ ] _Teams can certainly use their own product prefixes if they wish, but if there is opportunity to further consolidate to avoid GTM changes, please suggest them do so_
+- [ ] If the team is requesting additional customization, allocate a data layer variable to collect the relevant data
+    - [ ] _Determine if there is first an already existing generic data layer variable that can be resused_
+
+###### API Calls
+- [ ] If the team is looking to track API calls, we should aim to leverage our event `EV - Product-Based API Calls` event as much as possible
+    - [ ] _Reference existing product prefix documentation as well_
+- [ ] Propose an event structure that is the minimal amount of hits while still fulfilling their KPIs
+    - [ ] _As an example, teams such as Authenticated Experience have used API call events both at the start and successful call...this is more than likely not necessary_
+    - [ ] _More than likely, a successful and failed API call event will do the trick_
+    - [ ] _If teams are looking to capture **product API errors**, instruct them to use a secondary `error-key` data layer variable to give context to what error occured. The error key should follow a syntax of `<error_code>_DESCRIPTION_OF_ERROR`, i.e `403_FORBIDDEN`...the codes and description will vary based on error codes returned for the product and a re flexible_
+
+##### How To Wizards
+- [ ] How to wizards will start to roll out with mostly all new forms moving forward, reference our [How to Wizard events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-how-to-wizards.md) and instruct devs to implement
+     - [ ] _At some point we should look to bake these in similarly to our forms library tracking_
+
+##### Search
+- [ ] Our search tracking should be standardized across VA.gov, when a new search product is introduced supply our [search data layer specification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#search-events)
+
+##### Drupal Content + Design System Components
+-  [ ] If you **know the product will be leveraging design system components**, call out the item within the data layer specificaion but let the VFS developer analytics will already be tracked according to the design system
+-  [ ] If you **know the product is going to be a Drupal page and will not be using design system components**, go ahead and document the data layer specification ahead of time per other guidelines and conventions
+
+##### If the product/app/tool IS already available within staging...
+- [ ] If the page is a Drupal page, it could have some event listeners already deployed but more than likely not and proceed with documenting the data layer
+- [ ] If the page is an app page, do a quick preview mode audit of the page to determine which components they're interested in are already tracked. Call these out as part of the data layer specification 
+    - [ ] If the components that need tracking are any of our "opt-in" components (i.e Form Controls, Progress Bar, and/or Loading Indicator), inform the developer within the developer notes this will just be a matter of setting the `disableAnalytics` flag to `false`
+- [ ] Otherwise, reference specific application specifications where appropriate above
+
+ ---------------------------------------------------
+
+## 3. Google Tag Manager and GA Configuration
+### _Can be executed after step 2 and data layer is being implemented_
+
+##### Forms
+- [ ] If a new form is introduced with no prior prefix, add new prefix to the `Form Event Occurred` trigger and `Form - Action` lookup table
+   - [ ] _Form actions should be generic to reflect the product or benefit hub where appropriate_
+   - [ ] _Be sure the exception within the trigger is updated if there is also a product API call event with a similar prefix added_
+- [ ] Otherwise, no GTM changes should be necessary if the team is not implementing any further customization upon submission
+- [ ] If the team is requesting additional customization upon submission, create a new data layer variable if needed and include in form tag
+
+
+#### Where GTM Config Changes Should Not Be Necessary
+- Unless the team is requesting additional customization outside of what is already collected as part of our design system standardization, there should not need to be any data layer changes for any design system components used and listed [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking)
+
+
+
 
 ### Before closing any tracking ticket
 - QA of both the data layer 
