@@ -10,7 +10,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 EBN dashboard: sqa.eauth.va.gov/ebenefits/apply  
 User EBN dashboard: sqa.eauth.va.gov/ebenefits/profile  
 
-| Feature                                             | Portfolio     | Launch Status | Redirect Status    | --       | --    | Notes 
+| Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | --       | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov        | --        | --        | --
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | --        | --        | --
