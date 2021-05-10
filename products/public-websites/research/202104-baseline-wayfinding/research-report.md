@@ -54,16 +54,15 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 ## Details of Findings
-
-###Usage of the home page overall
-
-###Mobile vs. Desktop differences
-
-###Navigation
-
-###Tasks
-
 List details of each finding in top findings here, with supporting quotes when possible.
+
+Usage of the home page overall
+
+Mobile vs. desktop differences
+
+Navigation successes and issues
+
+Tasks success rates and ratings
 
 Difficulty with 3 tasks...
 3. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (form 21-22a)
