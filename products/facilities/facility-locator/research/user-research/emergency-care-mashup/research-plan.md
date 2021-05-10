@@ -76,10 +76,8 @@ Please list the people who will be serving in each role.
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Michelle Middaugh, Gibran Rodriguez\*, Michael Pelz-Sherman\*, Dave Conlon\*
+- Observers: Michelle Middaugh, Gibran Rodriguez, Michael Pelz-Sherman, Dave Conlon
 - OCC Observers: Tobie Wethington, Michael Johnson, Sean E Stevens, Holly Shryock
-
-\* (Usually busy, and will observe when/if available; not necessary to add to Slack research channel initially)
 
 ## Resources
 
