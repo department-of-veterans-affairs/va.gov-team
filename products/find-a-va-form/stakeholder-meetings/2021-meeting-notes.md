@@ -1,4 +1,69 @@
+
 # 2021 Stakeholder Meeting Notes
+
+## 2021-05-04 *Form Fundamentals* Meeting with Kayce White VBAVACO
+
+### Attendees
+- Kayce White
+- Marci McGuire
+- Zach Morel
+
+### About Kayce
+- Has been working with forms for 8 years
+- Robert Parks is Casey's chief
+- Tends to train new forms managers
+- PCO - Publication Control Officer - Kayce's title.  She's also a Program Manager
+
+### Questions I have
+- Who is able to run the "sync" that creates a new CSV file for the merge?
+- Any plans to create online forms for all of the forms out there?
+- You mentioned 800 forms - we have a little less than 500.  Are the rest internal?
+
+### Roles and Who We Need to Work With
+- Kayce will send us her list of contacts
+- VA Clearance Office is out of VACO proper Maribel and Dorothy work with the Federal Register and OMB
+- List down to VHA is VBA.  The four at the top (Nancy, Yvette, Moneke, Karl) do all of VBA, but they own these three forms -  10206, 10207 and 10208 
+
+### General Forms Information
+Forms starting with 10- is VHA - their person who upload forms to the web site, Kayce is not sure who that is.  She can forward us the info. 
+VBA - broken down into different business lines (all prefixes start in 20's)
+Office of Admin Review (OAR) - 20- (0995 and 0996 were recently updated; they also own 0998) - Shireen Lackey and Alphonso Bruce.  Form 10182 has no prefix.  10207 or 10208 - Kayce can help with
+Compensation Service (21- prefix) - 10206 - FOYA form is one.  Kayce White, Nicole Hayes (backup), Robert Parks (Chief)
+Pension (21P- prefix) and Fiduciary Service (21PF - prefix)  Some of theirs also start with 21- because they forgot to put the P.  If it's obvious pension, it's them.  For now, check with Kayce
+Education (22- prefix)
+Office
+VHA - (10- prefix)
+VACO - 
+20- forms are used by multiple lines of business.  Nancy Kessinger knows more than anyone.  It's either owned by her or she knows who owns it.
+22- Education
+25 - OTED - doesn't have any forms yet
+26 - Loan Guaratny
+27 - Email all three of them if you have questions
+28 - Veterans Readiness and Employment
+29 - Insurance
+10 - Reach out to Janel Keyes first
+BVA - Sue Hamlin
+VACO - Brian Mano & Missy Vaccaro
+NCA - Cynthia Harvey
+If a form has no prefix, it will probably belong to BVA, VACO or NCA
+Board of Veterans Affairs 
+Death Related - NCA
+VACO - HR related, general specific forms that are not benefit-related, hospital or death related
+
+![image](https://user-images.githubusercontent.com/73354907/117684535-166ce700-b183-11eb-9558-6d953f0fb1ef.png)
+
+
+![image](https://user-images.githubusercontent.com/73354907/117684489-094ff800-b183-11eb-911c-e4ac2266092d.png)
+
+![image](https://user-images.githubusercontent.com/73354907/117685099-998e3d00-b183-11eb-9c80-df5e28c80733.png)
+![image](https://user-images.githubusercontent.com/73354907/117685254-be82b000-b183-11eb-9913-d383874cd8a9.png)
+![image](https://user-images.githubusercontent.com/73354907/117685394-e70aaa00-b183-11eb-9829-e9b08457dffe.png)
+
+
+### Meeting Notes
+- Forms is ramping up; a lot more will be coming
+
+<hr>
 
 ## 2021-05-04 Meeting with Kayce White VBAVACO
 
@@ -8,7 +73,7 @@
 - John Hashiomoto
 - Marci McGuire
 
-- Discussion about updates
+###  Discussion about updates
 - Kayce doesn't mind providing updates or info, but she wants it to be as up to date as possible.
 - There are some APIs and some consumers of the forms who have hard-coded logic around the forms. 
 - LH was thinking about building it.  Maybe it makes sense to have the link near the form on the web site near the search.
@@ -40,6 +105,8 @@
 - Revision date doesn't necessarily mean version date.  She would not be opposed to having a version date field, which would be the month and year (in the lower-left corner of the form)
 - va.gov/find-forms/ - 850 forms that VBA owns reference the old web site that doesn't.  They were not told that a new URL was going to be created - - va.gov/vaforms/ (was probably changed to improve search engine ranking). This is not a big deal.
 - Kayce will provide us with a list of all the VCOs.  They may tell us what's coming, but they don't necessarily need other people to know yet because it could change.
+
+<hr>
 
 ## 2021-04-09 Monthly Stakeholder Meeting
 
