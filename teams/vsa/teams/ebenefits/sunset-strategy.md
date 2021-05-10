@@ -6,9 +6,9 @@
 
 ## Features Status for eBenefits
 
-_Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal quarters (Q2 = Jan, Feb, Mar 2020, etc.)_
-EBN dashboard: sqa.eauth.va.gov/ebenefits/apply
-User EBN dashboard: sqa.eauth.va.gov/ebenefits/profile
+_Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal quarters (Q2 = Jan, Feb, Mar 2020, etc.)_  
+EBN dashboard: sqa.eauth.va.gov/ebenefits/apply  
+User EBN dashboard: sqa.eauth.va.gov/ebenefits/profile  
 
 | Feature                                             | Portfolio     | Launch Status | Redirect Status    | --       | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
