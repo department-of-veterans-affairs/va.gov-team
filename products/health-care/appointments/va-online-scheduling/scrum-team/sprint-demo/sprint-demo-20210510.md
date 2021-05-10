@@ -12,9 +12,6 @@
   - VAOS Service Integration (GET Patient Metadata) 
   - VAOS Service Integration (GET Appointments)
 
-- Corey
-  - VAOS Service Integration (GET Clinics)
-
 ### Frontend
 - Jennie
   - #23478 update design and state changes on appointment list cards
