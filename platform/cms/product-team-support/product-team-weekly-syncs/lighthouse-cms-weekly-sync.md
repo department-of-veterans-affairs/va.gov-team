@@ -29,6 +29,7 @@
 ## Monday May 17 3pm ET
 
 * VAST meeting outcome
+* GraphQL documentation for Lighthouse engineer
 
 ## Monday May 10 3pm ET
 
