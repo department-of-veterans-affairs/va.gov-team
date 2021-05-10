@@ -25,30 +25,30 @@
 - List down to VHA is VBA.  The four at the top (Nancy, Yvette, Moneke, Karl) do all of VBA, but they own these three forms -  10206, 10207 and 10208 
 
 ### General Forms Information
-Forms starting with 10- is VHA - their person who upload forms to the web site, Kayce is not sure who that is.  She can forward us the info. 
-VBA - broken down into different business lines (all prefixes start in 20's)
-Office of Admin Review (OAR) - 20- (0995 and 0996 were recently updated; they also own 0998) - Shireen Lackey and Alphonso Bruce.  Form 10182 has no prefix.  10207 or 10208 - Kayce can help with
-Compensation Service (21- prefix) - 10206 - FOYA form is one.  Kayce White, Nicole Hayes (backup), Robert Parks (Chief)
-Pension (21P- prefix) and Fiduciary Service (21PF - prefix)  Some of theirs also start with 21- because they forgot to put the P.  If it's obvious pension, it's them.  For now, check with Kayce
-Education (22- prefix)
+- Forms starting with 10- is VHA - their person who upload forms to the web site, Kayce is not sure who that is.  She can forward us the info. 
+- VBA - broken down into different business lines (all prefixes start in 20's)
+- Office of Admin Review (OAR) - 20- (0995 and 0996 were recently updated; they also own 0998) - Shireen Lackey and Alphonso Bruce.  Form 10182 has no prefix.  10207 or 10208 - Kayce can help with
+- Compensation Service (21- prefix) - 10206 - FOYA form is one.  Kayce White, Nicole Hayes (backup), Robert Parks (Chief)
+- Pension (21P- prefix) and Fiduciary Service (21PF - prefix)  Some of theirs also start with 21- because they forgot to put the P.  If it's obvious pension, it's them.  For now, check with Kayce
+- Education (22- prefix)
 Office
-VHA - (10- prefix)
-VACO - 
-20- forms are used by multiple lines of business.  Nancy Kessinger knows more than anyone.  It's either owned by her or she knows who owns it.
-22- Education
-25 - OTED - doesn't have any forms yet
-26 - Loan Guaratny
-27 - Email all three of them if you have questions
-28 - Veterans Readiness and Employment
-29 - Insurance
-10 - Reach out to Janel Keyes first
-BVA - Sue Hamlin
-VACO - Brian Mano & Missy Vaccaro
-NCA - Cynthia Harvey
-If a form has no prefix, it will probably belong to BVA, VACO or NCA
-Board of Veterans Affairs 
-Death Related - NCA
-VACO - HR related, general specific forms that are not benefit-related, hospital or death related
+- VHA - (10- prefix)
+- VACO - 
+- 20- forms are used by multiple lines of business.  Nancy Kessinger knows more than anyone.  It's either owned by her or she knows who owns it.
+- 22- Education
+- 25 - OTED - doesn't have any forms yet
+- 26 - Loan Guaratny
+- 27 - Email all three of them if you have questions
+- 28 - Veterans Readiness and Employment
+- 29 - Insurance
+- 10 - Reach out to Janel Keyes first
+- BVA - Sue Hamlin
+- VACO - Brian Mano & Missy Vaccaro
+- NCA - Cynthia Harvey
+- If a form has no prefix, it will probably belong to BVA, VACO or NCA
+     - Board of Veterans Affairs 
+     - Death Related - NCA
+     - VACO - HR related, general specific forms that are not benefit-related, hospital or death related
 
 ![image](https://user-images.githubusercontent.com/73354907/117684535-166ce700-b183-11eb-9558-6d953f0fb1ef.png)
 ![image](https://user-images.githubusercontent.com/73354907/117684489-094ff800-b183-11eb-911c-e4ac2266092d.png)
