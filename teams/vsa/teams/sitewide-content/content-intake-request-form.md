@@ -10,8 +10,8 @@
 | :-- | :-- |
 | **New unauthenticated VA.gov page (such as a static landing page to support a new app/tool)** | At project kickoff |
 | **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 1 full sprint in advance (so we can work it into our next sprint). |
-| **Writing support for app/tool** | At project kickoff | 
-| **Editing support for app/tool or other writing/editing support** | For multiple screens: At least 1 full sprint in advance (so we can work it into our next sprint). <br> For very small needs (like an error message): At least 2 days in advance | 
+| **Writing support for an app/tool** | At project kickoff | 
+| **Editing support for an app/tool or other writing/editing support** | For multiple screens: At least 1 full sprint in advance (so we can work it into our next sprint). <br> For very small needs (like an error message): At least 2 days in advance | 
 
 ## About your content support needs
 
