@@ -57,60 +57,21 @@ Samara should be back at this point, during which we will discuss the status of 
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
-### Q2 2021 (April – June)
-
-**Goal: Get final details from VA Profile, design, build**
-
-**Note**: This is dependent on VA Profile being ready and getting us the things we need. We need final groups, items (notifications), and content in order to finish the research convo guide, conduct usability testing, and to move on to QA and the rest of the pre-launch checklist. Additionally, we need time before research for the content and IA teams to review the actual groups/notifications and provide feedback to VA Profile. All of this may affect the final timeline.
-
-- **PM**: Work with Terry and Mike on VA Profile as necessary; Oversee and manage all work and VSP reviews
-- **Design**: Updates to VA.gov profile; VSP reviews; Start planning research
-- **Frontend build**: Build
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Design Intent, Information Architecture (IA) Request
-
-### Q3 2021 (July - September)
-
-**Goal: If possible, launch MVP of communication permissions (notification preferences)**
+- **Q2 2021 (April – June) goal**: Get final details from VA Profile, design, build
+- **Q3 2021 (July - September) goal**: Launch MVP of communication permissions (notification preferences)
+- **Q4 2021 (October - December) goal**: Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
 **Note**: This is dependent on VA Profile being ready and getting us the things we need.
 
-- **PM**: Work with Terry and Mike on VA Profile as necessary; Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
-- **Design**: Finish research planning; Run research; Contact center guide; UAT planning and research
-- **QA**: QA testing
-- **Frontend build**: Updates to build as necessary
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Research Plan Review, Analytics Request, Midpoint Review. Contact Center Review, Staging Review, Privacy and Security Review, Full Accessibility and 508 Office Audit
-
-### Q4 2021 (October - December)
-
-**Goal: Launch if not launched in Q3**
-
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Post-launch Check-in
+[Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
 ## VA.gov Profile: Preferred medical facility
 
-### Q2 2021 (April – June)
+- **Q2 2021 (April – June) goal**: Design,research, begin build
+- **Q3 2021 (July - September) goal**: Launch preferred medical facility functionaity before end of the quarter
+- **Q4 2021 (October - December) goal**: Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
-**Goal: Design, research, begin build**
-
-- **PM**: Collaborate with Lauren Ernest on VAOS as necessary; Oversee and manage all work and VSP reviews
-- **Design**: Updates to VA.gov profile; Collaboration with VAOS on how this integrates into the scheduling tool; VSP reviews
-- **Usability testing**: Cross-team effort between auth experience + VAOS to evaluate proposed designs for how users will update their preferred medical facilities.
-- **Frontend build**: Begin build; Finish build if possible
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Design Intent, Information Architecture (IA) Request, Research Plan Review, Analytics Request, Midpoint Review
-
-### Q3 2021 (July - September)
-
-**Goal: Launch preferred medical facility before end of the quarter**
-
-- **PM**: Collaborate with Lauren Ernest on VAOS as necessary; Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
-- **Frontend build**: Finish build if not already done
-- **QA**: Complete QA testing
-- **Design**: Review FE build; Call center guide; UAT planning and sessions 
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Contact Center Review, Staging Review, Privacy and Security Review, Full Accessibility and 508 Office Audit
-
-### Q4 2021 (October - December)
-
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Post-launch Check-in
+[Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
 ## VA.gov Profile: User roles & permissions
 
