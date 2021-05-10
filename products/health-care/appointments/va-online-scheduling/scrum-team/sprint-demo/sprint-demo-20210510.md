@@ -18,9 +18,6 @@
 ### Frontend
 - Jennie
   - #23478 update design and state changes on appointment list cards
-  - Explore converting a page component to React-Redux's useSelector and useDispatch hooks
-  - Replace connect() with hooks
-  - Add facility info to vaccine submission
   
 - Tony
   - Add heading to how to cancel message in appointment details
