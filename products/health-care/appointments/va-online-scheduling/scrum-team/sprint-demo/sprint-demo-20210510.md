@@ -22,9 +22,10 @@
   - Move mock data into individual tests
 
 - Kevin
-  - Update direct schedule confirmation pages
+  - None
 
 - Jeff
+  - Update direct schedule confirmation pages
   - Announce appointment list preference change to screen reader
   - [Unenrolled POC] Set up scaffolding
   - Create functions to fetch VATS settings in Location service
