@@ -8,7 +8,7 @@ View the [conversation guide](https://github.com/department-of-veterans-affairs/
 
 ## Overview
 
-We're building a new section of profile to add functionality to VA.gov profile to allow Veterans to set their facility preferences, which will in turn inform the list of options Veterans see when they use VAOS to schedule an appointment online.  Prior to conducting a collaborative study with the VAOS team, we wanted to do some usability testing to validate our overall design and get insights into how Veterans understand this section of profile outside of the VAOS context.
+We're building a new section of profile to allow Veterans to set their facility preferences, which will in turn inform the list of options Veterans see when they use VAOS to schedule an appointment online.  Prior to conducting a collaborative study with the VAOS team, we did some usability testing to validate our overall design and get insights into how Veterans understand this section of profile outside of the VAOS context.
 
 We ran 5 moderated sessions on Zoom with internal colleagues who are also Veterans.
 
