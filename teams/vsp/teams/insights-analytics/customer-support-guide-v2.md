@@ -1,4 +1,4 @@
-# Google Tag Manager Customer Support Guide 
+# Google Tag Manager Customer Support Guide v2
 
 ##### Table of Contents
 1. Initial Ticket Review, Cleanup & Triage
