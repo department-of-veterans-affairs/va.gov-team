@@ -3,7 +3,7 @@
 ## My VA
 
 - **Q2 2021 (April – June) goal**: Finish build; QA; VSP reviews; UAT; Begin phased launch of My VA 2.0; Run experiment on elevating action items
-- **Q3 2021 (July - September) goal**: Complete launch; Monitor analytics; *Maybe usability testing? Maybe run another experiment? Maybe figure out how to implement findings from initial experiment?**
+- **Q3 2021 (July - September) goal**: Complete launch; Monitor analytics; *Maybe usability testing? Maybe run another experiment or figuring out how to implement findings from initial experiment? Maybe start on My VA for new user type?**
 - **Q4 2021 (October - December) goal**: Determine next steps after Samara gets back
 
 ### Run experiment(s) on how we can better elevate action items
