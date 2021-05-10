@@ -31,6 +31,19 @@ Intent: PM/PO to review Benefit hub Home page and Health Care (Hub) and collect 
 
 ## PM Questions (Veteran/Product Viewpoint)
 <details><summary>Top Questions</summary>
+How Relevant are the "top tasks" in the "top 4" boxes? 
+
+
+What visit behaviors do we really know about when visiting VA.gov?  Purposeful, browsing, learning? 
+
+
+How much is the "top nav" being used?  Hypothesis is that visitors rarely use this function due to "top 4" presence.  Could this be streamlined based on lack of activitiy/relevancy? 
+
+
+Are top tasks being overlooked?  i.e. Dependents/Deers, Harrasment Reporting, etc.
+
+
+Could a custom visit experience be achieved on the unauth VA.gov pages via Cookies.  Fast link from last visit, quick action button set, perhaps users could set thier own "top 4" on via browser actions.  
 
 </details>
 
