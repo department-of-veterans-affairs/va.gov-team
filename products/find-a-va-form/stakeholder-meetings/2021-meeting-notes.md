@@ -81,9 +81,12 @@ VACO - HR related, general specific forms that are not benefit-related, hospital
 - Five phases
 - 9-12 months beginning to end.  Some can take 18+ months. One took 4 years (15 pages)
 
-
 ### Other Notes
 - Forms is ramping up; a lot more will be coming
+- 🔴 Let Kayce know about the form I saw that had bad alignment - reach out to the PCO for the business line and 
+- Let Janel about 10-10CG - the fillables overlap in section 1
+- 🔴 Send Janel the info about Adobe LiveCycle support.  She did not know about the issues with the XFA format.
+- She has no other way to get forms drafted other than OAF.  Kayce just creates a draft in Word, and she turns that into OAF and they draft it into whatever they are supposed to draft. 
 
 <hr>
 
