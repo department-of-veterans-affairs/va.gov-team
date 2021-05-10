@@ -2,14 +2,9 @@
 
 ## My VA
 
-### Q2 2021 (April – June)
-
-### My VA 2.0 launch
-
-- Finish My VA 2.0 build
-- My VA 2.0 [VSP pre-launch collab points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)
-- My VA UAT
-- My VA 2.0 phased launch begins
+- **Q2 2021 (April – June) goal**: Finish build; QA; VSP reviews; UAT; Begin phased launch of My VA 2.0; Run experiment on elevating action items
+- **Q3 2021 (July - September) goal**: Complete launch; Monitor analytics; *Maybe usability testing? Maybe run another experiment? Maybe figure out how to implement findings from initial experiment?**
+- **Q4 2021 (October - December) goal**: Determine next steps after Samara gets back
 
 ### Run experiment(s) on how we can better elevate action items
 
@@ -32,12 +27,6 @@
 - Run research.
 - Write up and recommendations for potential implementation into the My VA experience.
 
-### Q3 2021 (July - September)
-
-### My VA 2.0 launch
-
-- If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
-
 ### My VA 2.0 project KPI tracking
 
 -	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
@@ -50,10 +39,6 @@
 -	Assess usability of the tool with veterans’ real information.
 -	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
 -	Post-testing, determine next steps and how improvements might fit into roadmap.
-
-### Q4 2021 (October - December)
-
-Samara should be back at this point, during which we will discuss the status of My VA work at this point and determine the right paths forward.
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
