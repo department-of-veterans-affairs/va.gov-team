@@ -28,6 +28,7 @@
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
+* Sort order for services  
 
 ## Wednesday, May 5
 
