@@ -1,7 +1,7 @@
 # Initiative Brief Template
 #### Overview
 *Initiatives are opportunities to achieve a particular outcome. 
-There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs, which describe iterations.* 
+There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs.* 
  *Examples:*
  - *Product: On-site Search | Initiative: Type-ahead*
  - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
@@ -84,14 +84,21 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
+## Prioritization
+*Describe and prioritize the competing solutioin ideas the team develops as a result of i
+
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+
+### Timeline
+
 - [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-## Initiative Launch Dates
+#### Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
