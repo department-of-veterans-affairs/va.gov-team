@@ -18,6 +18,11 @@
 *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
 Include the measurable outcome (i.e. metric) you're trying to improve.*
 
+### Related product(s)
+*Identify VA.gov product(s) this initiative affects.*
+
+- Product | [Link to product outline](#)
+
 ## Problem Statement
 *Describe the challenge / pain point you seek to address.:* 
 * What is the problem?
@@ -29,11 +34,6 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 
 ### Evidence of the problem
 *Describe the qualitative and quantitative data to support this problem.* 
-
-### Related product(s)
-*Identify VA.gov product(s) this initiative affects.*
-
-- Product | [Link to product outline](#)
 
 <!--
 ## Desired User Outcomes
