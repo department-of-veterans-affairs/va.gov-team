@@ -14,7 +14,7 @@ By default, the people that you have specified in your research plan will receiv
 
 ### VA stakeholders:
 
-VA stakeholders and team members with va.gov email addresses who receive Google calendar meeting invitations, will not reliably receive any updates or cancellations to meetings. One way to prevent scheduling issues is to create a signup sheet (see example signup sheet) with embedded Zoom meeting links that can be kept up to date. This has the added benefit of letting you control the number of participants that can join any given session. Note: VA stakeholders may not be able to access Google Suite apps so Sheets may not be the best choice.
+VA stakeholders and team members with va.gov email addresses who receive Google calendar meeting invitations, will not reliably receive any updates or cancellations to meetings. One way to prevent scheduling issues is to create a signup sheet [(see example signup sheet)](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/Eaq_oEAlyOVGt-oYrxRd_UYBruMEo4cVtKC1wRqrVTChCA?e=dHaQBc) with embedded Zoom meeting links that can be kept up to date. This has the added benefit of letting you control the number of participants that can join any given session. Note: VA stakeholders may not be able to access Google Suite apps so Sheets may not be the best choice.
 
 We recommend the following process when inviting observers:
 
