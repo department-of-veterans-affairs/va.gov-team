@@ -103,7 +103,7 @@ As part of our broader Vet Center discovery work, we will be conducting a round 
 
 **Veteran Sessions:** For anyone interested in observing, we have created a sign-up sheet with 2 slots for each available session. This is to help control the number of observers per session which can feel overwhelming to Veterans so we try to cap at 6 which will include a note taker and a few members of the product team. Zoom links for each session will be added and linked from this sign-up sheet as soon as they are scheduled. This spreadsheet will be kept up-to-date for the life of the study.
 
-**Sign up spreadsheet:** [If you'd like to observe, add your name to an available slot on this sign up sheet.]()
+**Sign up spreadsheet:** [If you'd like to observe, add your name to an available slot on this sign up sheet.](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/Eaq_oEAlyOVGt-oYrxRd_UYBruMEo4cVtKC1wRqrVTChCA?e=dHaQBc)
    
  
 **Observer instructions:**
