@@ -548,7 +548,7 @@ Any outstanding project work from last sprint, plus:
 - Hold staging review
 - Hold privacy and security review  
 - Meet with communications folks (Leslie Byford); 
-- **If time/deoendencies allow**: Hold UAT go/no-go (dependencies: QA fixes, scheduling of reviews, required fixes coming out of reviews)
+- **If time/dependencies allow**: Hold UAT go/no-go (Dependencies: QA fixes, scheduling of reviews, required fixes coming out of reviews)
 
 **Design** 
 
