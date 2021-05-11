@@ -1,5 +1,5 @@
 
-#  VSP Content Collaboration Cycle review tracking
+#  Platform Collaboration Cycle content review tracking
 
 Below is a list of final and in-progress VSP content work. If your team/work is not listed below and it should be, please reach out to the VSP Product Support team.
 
