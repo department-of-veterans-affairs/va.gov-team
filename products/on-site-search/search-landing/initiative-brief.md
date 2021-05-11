@@ -30,19 +30,14 @@ https://user-images.githubusercontent.com/72393866/117478542-4b7ffc00-af2d-11eb-
 
 
 
-
+<!--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
 ## Undesired User Outcomes
-
-
 ## Desired Business Outcomes
-
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
 ## Undesired Business Outcomes
 -->
 
