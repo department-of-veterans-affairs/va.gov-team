@@ -26,6 +26,9 @@
 - A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented.
 - We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples.
 - Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask.
+- For the first draft, we don't need to get into the Search.gov typography since it's an anomoly.  
+- Make a generic for your most bare-bones search results page and strip out everything specific to Search.gov (green type, top recommendations, right rail)
+
 
 ### What Should be Included in the Pattern(s)
 - Breadcrumbs
