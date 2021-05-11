@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Our goal is to help veterans navigate to relevant content more quickly by providing them with typeahead suggestions that match their characters that they type. These suggestions will ideally offer relevant queries that they can select to surface up relevant results.
 
 
 ## How It Works
@@ -22,6 +22,10 @@
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+ 
+Veterans are currently searching for a wide variety of topics that don't always showcase good results aligned to their query. Offering them typeahead suggestions will allow them to quickly get to results they are looking for. 
+
+Suggestions are created using a combination of 1) A hardcoded list of VA specific actions and activities and 2) based on top VA.gov user queries.
  
  
 ## Desired User Outcomes
