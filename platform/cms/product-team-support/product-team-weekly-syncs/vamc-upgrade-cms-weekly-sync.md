@@ -21,6 +21,12 @@
 
 </details>
 
+## Friday May 14
+* Help desk triage
+* 10 or less broken links?  Are they still listed for purposes of fixing them?
+* Mobile, Domiciliary, Community Living Center (CLC)
+
+
 ## Friday May 7
 * Help desk triage
   * Continue to use #cms-product-triage channel and mention @stan and @lisa to get their attention. 
@@ -33,7 +39,7 @@
   * VAMC 10 and 15 scaffolding 
 * When facility is removed in VAST/deleted, how do we remove facility from CMS?
   * Example:  Elizabeth VA Clinic in (Elizabeth, NJ) VA New Jersey health care (VISN 2)
-* Mobile, Domiciliary, Community Living Center (CLC)
+* 
   * attributes that come out of VAST? Mobile for sure. Some of the domiliciary and CLC but not all.  
   * Some CLCs are stand-alone facilities, or could be a building on an existing campus. 
   * Mobile is now a boolean on VAMC facility content type
