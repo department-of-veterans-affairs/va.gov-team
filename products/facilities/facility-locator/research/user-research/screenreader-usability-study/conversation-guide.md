@@ -18,7 +18,7 @@ I'm a website designer and researcher and as a team we work on making improvemen
     - If no:
     - Is there anything we can do to make you feel more comfortable?
 
-*get verbal confirmation or end session
+**get verbal confirmation or end session**
     - If yes:
 
 Thank you, we’re excited to talk with you today.
