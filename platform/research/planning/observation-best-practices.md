@@ -44,7 +44,7 @@ If you know a participant has experienced trauma ahead of time, we recommend rea
 - Choice:
    - Let participants know that they can choose to stay off camera if they prefer
 
-For more guidelines and checklists to prepare for trauma informed research, please reference our inclusive research guidelines [future link to markdown file]().
+For more guidelines and checklists to prepare for trauma informed research, please reference our [inclusive research guidelines - future link to markdown file]().
 
 ### People who use assistive technology (AT)
 
