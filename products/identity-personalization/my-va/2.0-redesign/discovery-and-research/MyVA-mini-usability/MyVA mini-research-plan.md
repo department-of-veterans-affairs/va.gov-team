@@ -17,7 +17,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 ### Our approach
 
-We will conduct an internal mini-usability study to validate overall design, discover any major pain points and potentially get some insights for some future functionality on My VA. All sessions will be run via Zoom on staging.
+We will conduct an internal mini-usability study to validate overall design, discover any major pain points and potentially get some insights for some future functionality on My VA. All sessions will be run via Zoom on production using a feature flag.
 
 ### Questions we hope to be able to answer
 
@@ -35,7 +35,7 @@ We will conduct an internal mini-usability study to validate overall design, dis
 
 ### What method of research are you planning? 	
 
-This internal study will be about 15-20 min. We will be testing on staging.
+This internal study will be moderated sessions via Zoom. Each will be about 15-20 min. 
 
 #### Why?
 
@@ -43,7 +43,7 @@ This approach will allow us to test using users *real data* prior to launch.  Us
 
 #### Where?
 
-For our internal study, we'll use Zoom. 
+We will be testing on production using a feature flag via Zoom.
 
 #### What?
 
