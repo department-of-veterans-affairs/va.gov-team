@@ -78,21 +78,19 @@ Before we start, a few things I want to mention:
 
 You recently moved to a new city, Evanston Illinois. You had one appointment at the VA health facility there, and would like to find out where else you are registered for VA health care. [Stay away from "registered" language here?]
 
-#### Task
+#### Task - manage facilities in Profile
 
 *Start on VA.gov home page*
 
 Where would you find all the facilities you have received VA health care in the past?
 
-
-#### Task
+#### Task - schedule an appointment
 
 *On Your VA health facilities page*
 
 Say you are only interested in scheduling appointments at VA facilities in Evanston, IL right now. What would you do here to reflect that?
 
-
-#### Task
+#### Task - schedule by phone
 
 *On modified VA facilites list*
 
@@ -104,14 +102,13 @@ While you're looking at this list you remember you need to schedule a mental hea
 
 You decide to schedule a follow-up eye appointment as well. How would you do that?
 
-
 ## Scheduling-first flow
 
 ### Scenario
 
 You recently moved to a new city, Evanston Illinois. You're interested in scheduling a follow-up visit with your primary care doctor. 
 
-#### Task
+#### Task - save a facility
 
 *Starting on VA.gov home* 
 
@@ -120,12 +117,12 @@ How would you schedule a primary care appointment online from here?
 **Follow up questions**
 - What do you expect "Save your facility" would do?
 
-#### Task
+#### Task - manage facilities in Profile
 
 *Starting on confirmation page*
 You decide you want to schedule a mental health appointment on the same day at the same facility. How would you do that from here?
 
-#### Task
+#### Task - call facility
 
 *Starting on confirmation page*
 You decide you want to schedule an eye and vision care appointment on the same day at the same facility as your other two appointments. How would you do that from here?
