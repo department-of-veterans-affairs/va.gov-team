@@ -15,18 +15,30 @@
 
 ## Why we're here
 
-### North Star:
-_Lorem ipsum_
+### OCTO North Stars and Goals
+- Increase the usage and throughput of VA Services
+  - Veterans can apply for all benefits online
+  - Veterans can find an authoritative source of info
+  - Users can update their personal info easily
+  - Veterans can manage health services online
+- Decrease the time spent waiting for an outcome
+  - Logged-in users can track applications online
+  - Logged in users have a personalized experience, with relevant and time-saving features
+  - Uses can update their personal info instantly
+- 🌟**Increase the quality and reliabilty of VA Services**
+  - Veterans can trust the security, accuracy, and relevancy of VA.gov
+  - VFS teams can build and deploy high-quality products for Veterans on the Platform
 
 ### Product Suite (if applicable): 
 Unauthenticated Experience for VA.gov
 
 ### Team Mission Statement:
-Provides Veterans, family members, caregivers, service members and other audiences access to the tools they need to make decisions about services to which they are entitled.
+*Provide Veterans, family members, caregivers, service members and other audiences access to the tools they need to make decisions about services to which they are entitled.*
 
 ### Product Portfolio:
-*Find a VA Form
-*Yellow Ribbon Participating Schools Tool
+- Find a VA Form
+- Yellow Ribbon Participating Schools Tool
+- Discharge Upgrade Wizard
 
 ### Responsibilities:
 1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to [scope TBD]
