@@ -6,7 +6,7 @@ labels: 'vsa-qa'
 assignees: 'tlei123'
 
 ---
-\[**Product Managers**: Open this ticket **at least 2 Sprints** before you expect a Platform Staging Review of this Product/Feature.  Then:
+\[**Product Managers**: Open this ticket **at least 4 weeks** before you expect a Platform Staging Review of this Product/Feature.  Then:
 - Replace title's **[Product/Feature]** with your actual product/feature name.
 - Add yourself to Assignees
 - Fill-out sections below.]
