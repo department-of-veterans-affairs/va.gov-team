@@ -360,7 +360,8 @@ of Formulate.
 
 All documentation will be located within the Formulate repo in the `docs/`
 directory. It is essential that documentation and code live side-by-side so the
-documentation may be updated at the same time as the code.
+documentation may be updated at the same time as the code. Additionally, keeping
+all the documentation in `docs/` allows us to serve it simply using GitHub Pages.
 
 #### Tutorials
 Tutorials will serve as the entry point for learning how to use Formulate.
