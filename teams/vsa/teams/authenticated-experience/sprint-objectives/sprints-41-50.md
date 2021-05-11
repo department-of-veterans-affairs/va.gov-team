@@ -539,7 +539,7 @@ FE
 
 ## Sprint 48 (5/19 - 6/1)
 
-Any outstanding work from last sprint, plus:
+Any outstanding project work from last sprint, plus:
 
 ### My VA
 
