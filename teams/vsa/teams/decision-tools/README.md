@@ -80,7 +80,11 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Labels: 
+  - Team label: `vsa-decision-tools` (add to all issues)
+  - Find a VA Form label: `dt-find-va-form`
+  - Find a Yellow Ribbon School label: `dt-yellow-ribbon`
+  - Discharge Upgrade Wizard lable:  `dt-discharge-upgrade-wizard`
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
