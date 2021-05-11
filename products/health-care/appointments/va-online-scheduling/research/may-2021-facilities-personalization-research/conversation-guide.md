@@ -82,19 +82,19 @@ You recently moved to a new city, Evanston Illinois. You had one appointment at 
 
 *Start on VA.gov home page*
 
-Where would you find all the facilities you have received VA health care in the past?
+Where would you find out which VA facilities you currently receive health care?
 
 #### Task - schedule an appointment
 
 *On Your VA health facilities page*
 
-Say you are only interested in scheduling appointments at VA facilities in Evanston, IL right now. What would you do here to reflect that?
+Say you only scheduling appointments at the two VA clinics in Illinois these days. What would you do here to reflect that?
 
 #### Task - schedule by phone
 
 *On modified VA facilites list*
 
-While you're looking at this list you remember you need to schedule a mental health appointment. How would you do that from here?
+While you're looking at this list you remember that you need to schedule a mental health appointment at the Evanston VA. How would you do that from here?
 
 #### Task
 
