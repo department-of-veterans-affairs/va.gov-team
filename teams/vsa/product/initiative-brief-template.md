@@ -99,6 +99,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 --- 
 
+## Collaboration Cycle
+*Use for any Collab Cycle tracking, questions.*
+
+- Kickoff ticket
+
+---
+
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
@@ -112,13 +119,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - tbd
 - *Actual Launch Date* 
   - tbd
----
-
-## Collaboration Cycle
-*Use for any Collab Cycle tracking, question*
-
-- Kickoff ticket
-
 ---
 
 <!--
