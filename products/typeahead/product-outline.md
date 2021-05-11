@@ -97,7 +97,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
   - TBD
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-  - We decided not to bold the suggestion because [search.gov](http://search.gov/) does not allow the typed word to be in the middle of a suggestion. For more information, review this [typeahead improvements presentation  ](https://docs.google.com/presentation/d/1re7s91M3Yi-qdXMXyvmMBiTIWbFczn6bZAM_zDN4CgA/edit?usp=sharing)
+  - We decided not to bold the typed word because [search.gov](http://search.gov/) only allows the typed word to appear at the beginning of the suggestion. It is recommended that the emphasis (text in bold) should be on the suggestion when the typed word is always shown first. For more information, review this [typeahead improvements presentation  ](https://docs.google.com/presentation/d/1re7s91M3Yi-qdXMXyvmMBiTIWbFczn6bZAM_zDN4CgA/edit?usp=sharing)
  -  *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
     - Additional typeahead suggestions will be added over time to align with user objectives
     - Evaluation of queries that resulted in no typeahead suggestions in order to identify the need for typeahead suggestions and or content gaps
