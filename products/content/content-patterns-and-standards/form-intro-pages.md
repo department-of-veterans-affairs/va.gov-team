@@ -73,8 +73,8 @@ Here's what you'll need to apply:
 
 ***Note:** If your list requires explanatory text, bold the first few words of each bullet that indicate the document or information type. Example:*
 
-•	**Social Security numbers** for you, your spouse, and your qualified dependents
-•	**Your military discharge papers** (DD214 or other separation documents)
+•	**Social Security numbers** for you, your spouse, and your qualified dependents <br>
+•	**Your military discharge papers** (DD214 or other separation documents) <br>
 •	**Insurance information** for all insurance companies that cover you. This includes any coverage provided through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
 
 ***Note:** If some of the information is optional, include a note to explain this. Example:*
