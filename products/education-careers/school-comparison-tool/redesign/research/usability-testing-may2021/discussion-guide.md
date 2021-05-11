@@ -81,7 +81,7 @@ _Prompt_
 
 ## Second Task: Expand search - X minutes
 
-- You found some good opportunities in San Antonio, but you know that Austin is just northeast of San Antonio and would be a manageable commute - particularly any programs that were in the southern part of the city.  How would you use the Comparison Tool to see if there were any programs offered in the south  
+- You found some good opportunities in San Antonio, but you know that Austin is northeast of San Antonio and might be a manageable commute - particularly any programs that were in the southern part of the city.  How would you use the Comparison Tool to see if there were any programs offered in the southern part of Austin?  
 
 
 ### Things to watch for:
