@@ -21,7 +21,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - - - 
 
 ## Initial Findings
-_Add ~5 or so top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
+_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
 **Finding #1**
