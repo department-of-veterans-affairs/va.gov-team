@@ -9,9 +9,9 @@
 
 *Use this space to describe your content need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
 
-## When do you need help by?
+## When does this content work need to be done?
 
-*What's the ETA for the app/tool launch or the date when you need this request completed?*
+*In addition to the date you need this content work to be done, please let us know the ETA for the app/tool launch.*
 
 ## Do you plan to bring this to an upcoming content office hours session?
 
@@ -32,5 +32,9 @@
 -	Designer: 
 -	FE engineer: 
 -	Product/team Slack channel:
+
+## Links to related tickets
+
+*Please include here a link to the epic, or other relevant tickets, for this product work.*
 
 **Note:** Once you’ve submitted this ticket, please post a link to this issue in the [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) Slack channel and tag @RLHecht.	
