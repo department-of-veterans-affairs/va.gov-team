@@ -1,6 +1,30 @@
 # Meeting Notes
 
+## 2021-05-11 Design Office Hours - Attending to Clarify Design Pattern Request
 ### Attendees
+- Ryan Thurlwell
+- Shawna Hein
+- Marci McGuire
+- Megan Gayle
+- Cassandra Allen 
+
+### Questions We Need Answered
+- Pattern for Search AND Results together or two seperate patterns?
+
+### What Should be Included in the Pattern(s)
+- Breadcrumbs
+- Title
+- Instructions
+- Form fieldset
+- Search field/button
+- Result count
+- Sorting (if applicable)
+- HRs
+- Result "chunks"
+- Pagination
+- Division between search component and any content that appears after it (like Frequently Used VA Forms)
+
+### General Notes
 
 ## 2021-05-03 Discuss opening items remaining from Design Intent Review
 - Horizontal rule placement
