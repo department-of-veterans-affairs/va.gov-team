@@ -34,7 +34,7 @@
 - When we submit our pattern for design.va.gov, we can 
 
 
-### What Should be Included in the Pattern(s)
+### What Should be Included in the Pattern
 - Breadcrumbs
 - Title
 - Instructions
