@@ -12,8 +12,20 @@
 - Riley Orr
 - Naomi Marcussen
 
-### Questions We Need Answered
-- Pattern for Search AND Results together or two seperate patterns?
+### Notes
+- Marci showed a screen shot with the components , and asked if that was correct
+- Ryan said that is exactly what would be included
+- Ryan provided additional context around the difference between styles and patterns with a real-world example
+- We are creating the "single source of truth" for search
+- We are creating a pattern with possible extensions like sub-headers
+- Ryan typically creates a minimal version and a maximum version
+- Minimum version has all required components that must be there
+- Maximum version has additional components that are optional if they apply to a particular tool
+- You don't have to say specific spacing, but you should give a particular order
+- Ryan also shared an example with us, and said we could also look at the ones already in the [Design System design.va.gov](https://design.va.gov/patterns/).  
+- A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented.
+- We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples.
+- Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask.
 
 ### What Should be Included in the Pattern(s)
 - Breadcrumbs
