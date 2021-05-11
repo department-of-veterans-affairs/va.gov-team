@@ -15,8 +15,7 @@ The Facilities team wants the Facility Locator to be easy to use with assistive 
  
 ## Research Questions 
 
-Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
-
+- Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
 - Do they have access to all functionality?
 - Can they distinguish the interactive elements?
 - What are the pain points?
