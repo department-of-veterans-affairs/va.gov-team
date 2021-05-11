@@ -100,10 +100,34 @@ While you're looking at this list you remember you need to schedule a mental hea
 
 #### Task
 
+*TBD* 
+
+You decide to schedule a follow-up eye appointment as well. How would you do that?
 
 
+## Scheduling-first flow
 
 ### Scenario
 
-You recently moved to a new city, Evanston Illinois. You're interested in scheduling a follow-up visit with your primary care doctor.
+You recently moved to a new city, Evanston Illinois. You're interested in scheduling a follow-up visit with your primary care doctor. 
+
+#### Task
+
+*Starting on VA.gov home* 
+
+How would you schedule a primary care appointment online from here?
+
+**Follow up questions**
+- What do you expect "Save your facility" would do?
+
+#### Task
+
+*Starting on confirmation page*
+You decide you want to schedule a mental health appointment on the same day at the same facility. How would you do that from here?
+
+#### Task
+
+*Starting on confirmation page*
+You decide you want to schedule an eye and vision care appointment on the same day at the same facility as your other two appointments. How would you do that from here?
+
 
