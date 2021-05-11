@@ -13,25 +13,24 @@
 - Naomi Marcussen
 
 ### Notes
-- Marci showed a screen shot with the components , and asked if that was correct
-- Ryan said that is exactly what would be included
+- Marci showed a screen shot with the components she believes should be included in the pattern (image is shown below)
+- Ryan advised that is exactly what would be included
 - Ryan provided additional context around the difference between styles and patterns with a real-world example
 - We are creating the "single source of truth" for search
-- We are creating a pattern with possible extensions like sub-headers
+- We are creating a "base" pattern with possible extensions like sub-headers
 - Ryan typically creates a minimal version and a maximum version
-- Minimum version has all required components that must be there
+- Minimum version has all required components that *must* be there
 - Maximum version has additional components that are optional if they apply to a particular tool
-- You don't have to say specific spacing, but you should give a particular order
-- Ryan also shared an example with us, and said we could also look at the ones already in the [Design System design.va.gov](https://design.va.gov/patterns/).  
-- A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented.
-- We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples.
-- Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask.
-- For the first draft, we don't need to get into the Search.gov typography since it's an anomoly.  
+- It's not necessary to include details like specific spacing, but you should give a particular order that the components must appear in
+- Ryan also shared an example with us, and said we could also look at the ones already in the [Design System design.va.gov](https://design.va.gov/patterns/)
+- A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented
+- We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples
+- Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask
+- For the first draft, we don't need to get into the Search.gov typography since it's an anomoly
 - Make a generic for your most bare-bones search results page and strip out everything specific to Search.gov (green type, top recommendations, right rail)
-- Take a stab at documenting accessibility, then ping Josh to review and make any recommendations on edits.
+- Take a stab at documenting accessibility, then ping Josh to review and make any recommendations on edits
 - Designers are not expected to provide code recommendations
-- We don't need to have a developer add the code either.  Storybook is where the code will be kept.
-- When we submit our pattern for design.va.gov, we can 
+- We don't need to have a developer add the code as part of this exercise.  Storybook is where the code will be kept.
 
 
 ### What Should be Included in the Pattern
@@ -42,11 +41,11 @@
 - Search field/button
 - Result count
 - Sorting (if applicable)
-- HRs
-- Result "chunks"
+- HRs above/below/between results
+- Result information "chunks"
 - Pagination
 - Division between search component and any content that appears after it (like Frequently Used VA Forms)
-- Everything highlighted in the screen shot below
+- Above components are highlighted in the screen shot below
 
 ![image](https://user-images.githubusercontent.com/73354907/117867432-5eb10580-b266-11eb-87ef-af295dc9cbce.png)
 
