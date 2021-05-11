@@ -18,7 +18,7 @@
 *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
 Include the measurable outcome (i.e. metric) you're trying to improve.*
 
-### Related product(s)
+**Related product(s)**
 *Identify VA.gov product(s) this initiative affects.*
 
 - Product | [Link to product outline](#)
