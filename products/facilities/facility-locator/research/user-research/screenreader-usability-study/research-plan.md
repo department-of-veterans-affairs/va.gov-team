@@ -113,21 +113,21 @@ At least:
 [**Note for Perigean: Please ask participant the following questions and include responses in participant tracker** ]
  
 1. Would you be comfortable with 4 off-camera, observers present during the research session (including the facilitator)?
-##### If no,
-   - would you be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist). [MUST RECEIVE CONSENT FOR EITHER OPTION]
-3. Do you have a device from which you can join a Zoom meeting?
+- If no,
+    - would you be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist). [MUST RECEIVE CONSENT FOR EITHER OPTION]
+2. Do you have a device from which you can join a Zoom meeting?
      - Is Zoom already installed on this device? 
      - Is this a computer, tablet or phone 
      - Mac or Windows?
      - iOS or Android?
      - What browser will you use?
      - Do you use a screen magnifier on this device?
-4. Do you have a screen reader on this device? [must be yes]
+3. Do you have a screen reader on this device? [must be yes]
      - What kind of screen reader do you use?
      - How long have you been using it?
      - Do you know your screen reader's verbosity setting? High, medium, low?
-5. Are there any other assistive technologies that you use?
-6. What method of text communication they'd prefer the most during the session (to send and open website links) e.g. text message, email, or zoom chat?
+4. Are there any other assistive technologies that you use?
+5. What method of text communication they'd prefer the most during the session (to send and open website links) e.g. text message, email, or zoom chat?
 
 ## Timeline 
 
