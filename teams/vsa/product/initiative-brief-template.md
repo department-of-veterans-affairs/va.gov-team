@@ -2,10 +2,16 @@
 #### Overview
 *Initiatives are opportunities to achieve a particular outcome. 
 There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs.* 
- *Examples:*
+
+
+<details>
+ <Summary>Examples:</Summary>
+ 
  - *Product: On-site Search | Initiative: Type-ahead*
  - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
  - *Product: Disability Claims | Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
+ 
+ </details>
 ---
 
 ## Outcome Summary
@@ -28,6 +34,11 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Desired User Outcomes
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+### Related product(s)
+*Identify VA.gov product(s) this initiative affects.*
+
+- Product | [Link to product outline](#)
 
 ## Undesired User Outcomes
 
