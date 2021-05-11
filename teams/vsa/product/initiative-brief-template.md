@@ -1,7 +1,6 @@
 # Initiative Brief Template
 #### Overview
-*Initiatives are opportunities to achieve a particular outcome. 
-There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs.* 
+*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs.* 
 
 
 <details>
