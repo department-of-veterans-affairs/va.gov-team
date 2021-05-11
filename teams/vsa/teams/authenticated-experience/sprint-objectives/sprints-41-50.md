@@ -539,6 +539,8 @@ FE
 
 ## Sprint 48 (5/19 - 6/1)
 
+Any outstanding work from last sprint, plus:
+
 ### My VA
 
 **PM**
@@ -563,6 +565,53 @@ No immediate My VA 2.0 redesign tasks. Tressa can move on to action items explor
 **BE**
 
 - If needed, any documentation for, or work that comes out of, the privacy and security review
+
+### Notification preferences (communications permissions)
+
+**PM**
+
+- Check in with VA Profile as necessary
+- Work with Liz to put test case documentation together
+- Prep for [midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
+
+
+**Design**
+
+- Work with AJ to put together test case documentation
+- Work on research plan and convo guide if time
+
+**FE**
+
+- Start build
+
+### Preferred facility
+
+**PM**
+
+- Coordinate on ticketing and to-dos with Lauren Ernest as needed
+- Prep for [midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
+- Work with frontend to break down tickets for build
+
+**Design**
+
+- Work with Peter to recruit for and run research
+- Update FE documentation if there were copy changes as a result of review with content and IA
+
+**FE**
+
+- Technical discovery
+- Break down tickets for build
+
+### Profile 
+
+Only do this work if people have time.
+
+- Tackle any of the urgent accessibility requests first.
+- If there's not time for anything else, that's OK. We can always put work back into the backlog in favor of moving along project work.
+
+### Backend work
+
+- TBD. Hoping to get Lihan on user roles & permissions work this sprint. If not, we can talk to Jeff about him helping another team.
 
 ## Sprint 49 (6/2 - 6/15)
 
