@@ -1,6 +1,6 @@
 # Initiative Brief Template
 #### Overview
-*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. Can be used as product documentation for the Collaboration Cycle.* 
+*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.* 
 
 
 <details>
