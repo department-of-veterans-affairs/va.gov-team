@@ -1,5 +1,6 @@
 # eBenefits Migration Design
-This directory will house subdirectories for eBenefits screens and features migrating to VA.gov. This is the initial arrangement of materials -- it is a work in progress and will change as the needs of the project becomes clearer. Currently, these subdirectories include:
+
+### Features
 - Disabilities (Rated Disabilities)
 - Dependents
 
@@ -21,9 +22,17 @@ This directory will house subdirectories for eBenefits screens and features migr
 ### Feature Migration Approach
 
 1. Analyze existing feature
-2. Conduct research on existing feature
-3. Synthesize analysis and research into lo-fi sketches and flows
-4. Take synthesis to design crit (development should be able to start working with the sketches here)
-5. Improve fidelity of sketches
-6. Conduct usability
-7. Present designs for launch crit
+2. Conduct discovery research on existing feature
+3. Synthesize analysis and research into lo-fi screens and flows
+4. Present synthesis/lo-fi visuals at design review
+5. Improve fidelity of screens and flows
+6. Provide content for sitewide review
+7. Present refined mockups at mid-point review
+8. Conduct usability testing
+9. Refine/finaize screens and flows
+10. Review feature in staging
+11. Second usability testing round
+12. Review feature in production (if possible)
+13. Conduct user acceptance testing
+
+
