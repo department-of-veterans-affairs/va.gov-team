@@ -7,6 +7,10 @@
 - Marci McGuire
 - Megan Gayle
 - Cassandra Allen 
+- Allison Christman
+- Rebecca Walsh
+- Riley Orr
+- Naomi Marcussen
 
 ### Questions We Need Answered
 - Pattern for Search AND Results together or two seperate patterns?
@@ -23,6 +27,10 @@
 - Result "chunks"
 - Pagination
 - Division between search component and any content that appears after it (like Frequently Used VA Forms)
+- Everything highlighted in the screen shot below
+
+![image](https://user-images.githubusercontent.com/73354907/117867432-5eb10580-b266-11eb-87ef-af295dc9cbce.png)
+
 
 ### General Notes
 
