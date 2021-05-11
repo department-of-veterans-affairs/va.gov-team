@@ -52,7 +52,7 @@
 - [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
 - [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
 
-**Reminder: I will be PTO and out of pocket on Thursday and Friday (20th Wedding Anniversary).  
+**Reminder: I will be PTO and out of pocket on Thursday and Friday (20th Wedding Anniversary)**  
 
 ## Future/Road Map Items:
 - [ ] Proposed: VA.gov Secure Online Harassment Reporting Tool [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/read-me.md#proposed-vagov-secure-online-harassment-reporting-tool)
