@@ -95,7 +95,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ## Prioritization
-*Describe and prioritize the competing solution ideas the team develops as a result of discovery.*
+*Describe and prioritize the competing hypotheses the team develops as a result of discovery accounting for effort, impact, value.*
 
 --- 
 
