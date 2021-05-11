@@ -1,10 +1,17 @@
-```diff
-- WIP - Subject to change
-```
 
 # Decision Tools Team Charter
 
+## Who we are
+
+### Team Members:
+- DSVA Product Lead: John Hashimoto
+- Team Product Manager: Marci McGUire
+- Senior Engineer : Zach Morel
+- Design (Shared): Cassandra Allen
+- Research (Shared): Cindy Merrill
+
 ---
+
 
 ## Why we're here
 
@@ -31,14 +38,6 @@ _Link to agile roadmap_
 
 ---
 
-## Who we are
-
-### Team Members:
-- DSVA Product Lead: John Hashimoto
-- Team Product Manager: Marci McGUire
-- Senior Engineer : Zach Morel
-
----
 
 ## How we work
 
@@ -88,6 +87,20 @@ For an issue to go into the Current Sprint column, it must have the following (c
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+
+#### Acceptance Criteria
+- Tier 1
+  - Must be validated in Review via SOCKS by PO + PM + (if UX) Design Lead
+  - Ticket Verbiage: Validation of AC items are required by PO + PM + Design Lead prior to promotion to Staging or Prod Environment. 
+  - Approval will be triggered by a comment in ticket and act as a trigger for staging/prod release.  
+- Tier 2
+  - Must be validated in Review via SOCKS by PM or PO 
+  - Ticket Verbiage: Validation of AC items are required by PO or PM prior to promotion to Staging or Prod Environment. 
+  - Approval will be triggered by a comment in ticket which will act as a trigger for staging/prod release.
+- Tier 3 e.g. bugs, 508 issues
+  - No Review/SOCKS validation necessary
+  - Validation — Accessibility and Analytics only tickets go through our standard staging process (since PM/POs can’t validate those)
+  - Ticket Verbiage: Validation of AC items are suggested but not required by PO or PM, once fix has been applied please ensure safe monitoring practice and validation with any applicable cross functional team as applicable.
 
 #### Team Norms
 _Update as you see fit! These are some starter norms for you to consider_
