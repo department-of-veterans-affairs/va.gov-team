@@ -76,9 +76,30 @@ Before we start, a few things I want to mention:
 
 ### Scenario
 
-You recently moved to a new city, Evanston Illinois. You had one appointment at the VA health facility there....[TBD]
+You recently moved to a new city, Evanston Illinois. You had one appointment at the VA health facility there, and would like to find out where else you are registered for VA health care. [Stay away from "registered" language here?]
 
 #### Task
+
+*Start on VA.gov home page*
+
+Where would you find all the facilities you have received VA health care in the past?
+
+
+#### Task
+
+*On Your VA health facilities page*
+
+Say you are only interested in scheduling appointments at VA facilities in Evanston, IL right now. What would you do here to reflect that?
+
+
+#### Task
+
+*On modified VA facilites list*
+
+While you're looking at this list you remember you need to schedule a mental health appointment. How would you do that from here?
+
+#### Task
+
 
 
 
