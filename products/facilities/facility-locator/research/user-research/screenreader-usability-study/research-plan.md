@@ -113,8 +113,7 @@ At least:
 [**Note for Perigean: Please ask participant the following questions and include responses in participant tracker** ]
  
 1. Would you be comfortable with 4 off-camera, observers present during the research session (including the facilitator)       
-
-- If no, would they be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist). [MUST RECEIVE CONSENT FOR EITHER OPTION]
+    - If no, would they be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist). [MUST RECEIVE CONSENT FOR EITHER OPTION]
 3. Do you have a device from which you can join a Zoom meeting?
      - Is Zoom already installed on this device? 
      - Is this a computer, tablet or phone 
