@@ -30,15 +30,15 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ### Evidence of the problem
 *Describe the qualitative and quantitative data to support this problem.* 
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
 ### Related product(s)
 *Identify VA.gov product(s) this initiative affects.*
 
 - Product | [Link to product outline](#)
+
+<!--
+## Desired User Outcomes
+- *Why would a user want to use this?*
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
 
@@ -55,8 +55,9 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
-- _Include links to Domo or Google Analytics Dashboards/Reports_
+*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
+
+- KPI | Target | Link to data source
 
 
 <!--
@@ -96,7 +97,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ## Prioritization
-*Describe and prioritize the competing solutioin ideas the team develops as a result of i
+*Describe and prioritize the competing solution ideas the team develops as a result of discovery.*
 
 --- 
 
@@ -117,11 +118,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What date will you evaluate impact after launch?*
 ---
 
+## Collaboration Cycle
+
+
+---
+
+<!--
 ## Solution Narrative
 
 ### Current Status
 
-### Key Decisions
+### Key Decisions 
+-->
 
 ---
    
