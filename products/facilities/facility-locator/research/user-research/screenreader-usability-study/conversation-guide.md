@@ -1,8 +1,5 @@
-# Conversation Guide: Facility Locator - Screen reader, Usability Test
-
-**May 2021**<br>
-
-### Conversation guide WIP - [please refer to this Google docs draft](https://docs.google.com/document/d/1KKLmlwHv7M-tOd05kPhWC7jPOMNomH3iWc43zIPnakg/edit?usp=sharing). 
+# Facility Locator - Screen reader, Usability Test
+## Conversation Guide - May 2021 Discovery 
 
 ### Session Prep
 
