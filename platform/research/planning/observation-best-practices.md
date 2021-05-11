@@ -32,7 +32,7 @@ We recommend the following process when inviting observers:
 
 ### People who have experienced trauma
 
-You may not know if a participant has experienced trauma, but we know that many Veterans _have_ experienced trauma and this may impact their willingness to be recorded or observed, even after they have consented.  Be prepared to incorporate trauma informed best practices in your session. Be flexible and help your participant feel safe, in control, and give them choices when being observed in research sessions. Stay calm and understanding. 
+You may not know if a participant has experienced trauma, but we know that many Veterans _have_ experienced trauma and this may impact their willingness to be recorded or observed, even after they have consented.  Be prepared to incorporate [trauma informed best practices - future link to markdown file]() in your session. Be flexible and help your participant feel safe, in control, and give them choices when being observed in research sessions. Stay calm and understanding. 
 
 If you know a participant has experienced trauma ahead of time, we recommend reaching out to a health care expert or an accessibility specialist to help you plan your study.
 
@@ -44,7 +44,7 @@ If you know a participant has experienced trauma ahead of time, we recommend rea
 - Choice:
    - Let participants know that they can choose to stay off camera if they prefer
 
-For more guidelines and checklists to prepare for trauma informed research, please reference our inclusive research guidelines [future link to markdown file].
+For more guidelines and checklists to prepare for trauma informed research, please reference our inclusive research guidelines [future link to markdown file]().
 
 ### People who use assistive technology (AT)
 
@@ -65,7 +65,7 @@ We recommend limiting to 3 people, when possible, with a maximum of 5:
 1. In your research plan ‘must have’ requirements, specify that participants will need to be informed about the observers and that they must express consent to being observed as part of the participation agreement (this is not standard practice on non-assistive tech studies).
 2. At the start of each session, you must again ask for participant’s permission, if it is OK with them for observers to be part of the session, vs. just informing them that your teammates are taking notes and observing.
 
-For more guidelines and checklists to prepare for research with assistive technology, please reference our inclusive research guidelines [future link to markdown file].
+For more guidelines and checklists to prepare for research with assistive technology, please reference our inclusive research guidelines [future link to markdown file]().
 
 ## Observer Instruction Examples
 
