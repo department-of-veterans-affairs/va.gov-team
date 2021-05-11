@@ -17,6 +17,7 @@
 
 -   Search.gov  [Type-Ahead suggestions API](https://open.gsa.gov/api/searchgov-suggestions/)
 
+
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
@@ -96,6 +97,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  -  *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
     - Additional typeahead suggestions will be added over time to align with user objectives
     - Evaluation of queries that resulted in no typeahead suggestions in order to identify the need for typeahead suggestions and or content gaps
+    - Expand acronym using VA acronym list to improve clarity
+    - Remove State references from suggestions unless typed directly from user
+    - Add typeahead to results page refinement search
+    - Hover over suggestions fill out search input
+    - Improving Suggestion Quality
+         a)Enhance Fault Tolerance for spelling mistakes (eg “goverment”)
+         b)Don't allow plural/singular terms in same suggestion set
+         c)Explore ways to improve the algorithm search.gov uses to establish suggestions (decrease weighting of frequently searched for terms, establish a blacklist to remove terms that we don't want to appear)
     
 
 
