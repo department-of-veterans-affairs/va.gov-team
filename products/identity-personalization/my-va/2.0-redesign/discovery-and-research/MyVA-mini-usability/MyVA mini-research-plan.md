@@ -35,7 +35,7 @@ We will conduct an internal mini-usability study to validate overall design, dis
 
 ### What method of research are you planning? 	
 
-This internal study will be moderated sessions via Zoom. Each will be about 15-20 min. 
+This internal study will be moderated sessions on mobile via Zoom. Each will be about 15-20 min. 
 
 #### Why?
 
@@ -45,7 +45,4 @@ This approach will allow us to test using users *real data* prior to launch.  Us
 
 We will be testing on production using a feature flag via Zoom.
 
-#### What?
-
-We'll test using staging on mobile devices.
 
