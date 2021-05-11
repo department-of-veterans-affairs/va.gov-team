@@ -11,8 +11,9 @@
 
 ### Style Guidance Links
 - [VA.gov Design System](https://design.va.gov/)
+- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
+- [VA Design Library Sketch file]()
 - [USDS Design System](https://designsystem.digital.gov/)
-- [Personalization 2.0 Summary/Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0)
 
 ### Review Processes Links
 - [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
@@ -35,4 +36,4 @@
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
 
-
+## 
