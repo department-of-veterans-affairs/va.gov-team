@@ -6,7 +6,7 @@
 |:------:|:----------------------------------:|:------------:|:-----------:|
 |        | Document upload and attachment complete  | 5/3/2021    | 5/2/2021 (Backend only)            |
 |        | [Document upload testing with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23618)      |5/5/2021    |Moved to 5/10      |
-|        | [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/260) passed | 5/6/2021     | Scheduled for 5/11            |
+|        | [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/260) passed | 5/6/2021     | Passed on 5/11            |
 |        | Frontend development complete      | 5/7/2021    |             |
 |        | Backend development complete       | 5/7/2021    |             |
 |        | Caregiver Program team reviewed    | 5/12/2021     |             |
