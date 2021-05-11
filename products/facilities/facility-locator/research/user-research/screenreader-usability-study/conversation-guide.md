@@ -20,7 +20,7 @@ If no:
 
 - **Is there anything we can do to make you feel more comfortable?**
 
-#### Get verbal confirmation or end session
+#### [Get verbal confirmation or end session]
 
 If yes:
 
