@@ -16,11 +16,11 @@ I'm a website designer and researcher and as a team we work on making improvemen
 
 - **Are you comfortable proceeding with this session?**
     - If no:
-    - Is there anything we can do to make you feel more comfortable?
+    - **Is there anything we can do to make you feel more comfortable?**
 
-**Get verbal confirmation or end session**
+#### Get verbal confirmation or end session
 
-- If yes:
+  - If yes:
 
 Thank you, we’re excited to talk with you today.
 
