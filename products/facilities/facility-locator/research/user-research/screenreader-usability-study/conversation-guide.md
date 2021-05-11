@@ -104,20 +104,108 @@ _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/arti
 
 Thank you for working through that with us.
 
-So, to get us started and to get to know each other a little bit, again I'm a website designer and researcher. I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times but I'll do my best.  
+We can get started with some questions. So, as a website designer and researcher I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times but feel free to stop and correct me at any time. 
 
-- Can you tell me briefly about yourself, anything you’d like me to know is fine.
+- Can you tell me briefly about yourself? Anything you’d like me to know is fine.
 - Can you describe to me how you use your screen reader?"
 
 Thank you for sharing that.
 
+## Discovery - Internet searching for a location
 
-Thanks for sharing that. 
+During our time together, we'll mostly be focused on finding VA locations online. 
+
+- Can you tell me of a recent time when you used the internet to find the location of a place that you needed to visit?
+   - What devices or technology did you use? 
+   - [probe if needed, specific app or website?]
+
+- Could you tell me about the last time you searched for a VA location?
+   - If yes, how did you go about finding it?
+   - How was that experience?
+   - What could have been better?
+
+- Have you ever used the VA.gov website?
+   - If yes, can you tell me briefly about the last time you used VA.gov?
+   - What could have been better?
+
 
 ## TASKS
 
+### Task 1: Getting to ‘Find a VA location’
+
+Next, I'm going to ask you to complete a task. 
+
+1. Could you please find your nearest VA?
+
+- If they use, Google, ask them: 
+   - Why?
+   - Can you show me how you do that?
+- Follow up with “How about on VA.gov, how might you find your nearest VA?”
+   - Can you show me how you do that?
+- If user needs help: 
+   - Direct them to “visit link: Find VA location”
+   - Have them click
+
+2. Let’s stop here for a moment. 
+   - How was finding that link for you?
+   - Was that different from what you expected?
+
+_Things to look for:_
+- What screen reader shortcuts did they use? 
+   - E.g. elements list, rotor, navigating by heading vs. navigating by tab
+
+### Task 2: Using ‘Find a VA location’ near current location
+
+[SEARCH]
+
+Next, I'm going to walk us through a scenario. I’d like you to imagine that you’ve just moved to where you live today and you’re looking for a dermatologist at your nearest VA. You can pretend that you don’t know where that is.	
+
+3. How might you do that on this page?	
+   - Can you try that now?
+   - How does this search experience work for you?
+   - What could be improved?
+
+_Things to look for:_
+- Does the participant enable their location [if available at time of study]?
+- Can the participant easily manipulate the inputs and dropdown menus
+- Does the participant encounter a type-ahead
+   - If so, what, if any, problems do they encounter?
+
+
+[RESULTS]
+
+4. Can you talk me through the location options? 
+   - How does this listing work for you?
+   - What could be improved?
+
+_Things to look for:_
+- Does the participant use the list or map
+- Can the participant navigate backward and forward easily, no keyboard traps?
+- Is navigation order logical to the participant?
+
+### Task 3: Using ‘Find a VA location’ to plan ahead
+
+Next, I'm going to walk us through a different scenario. Imagine you are planning a trip and you’d like to know what the closest VA hospital would be from where you’ll be staying. It can be somewhere you’ve visited in the past, if that’s easier.
+
+5. How might you do that on this page?	
+   - Can you try that now?
+   - How did this search experience work for you?
+   - What could be improved in this scenario?
+
+_If participant did NOT interact with the map/list_
+
+6. I’d like to point out the map/list feature to you	
+   - Did you notice this feature?
+   - Is there a reason that you didn’t use this feature?
+   - What could be improved to make this more useful?
+
 
 ## Post-Task Interview
+
+7. Are there any features or functionality missing for you on this page?
+   - Why? Why here?
+8. Are there any websites or apps that work well for you that do a better job of finding locations or searching?
+9. If you had a magic wand and could fix one thing about the features you interacted with today, what would it be?
 
 Those are all the questions that I had for you today. 
 
@@ -126,6 +214,6 @@ Those are all the questions that I had for you today.
 
 ## Thank-You and Closing 
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members. Shannon/Brian/Matthew will be following up with you directly.
 
 Great, well thank you so much again, and enjoy the rest of your day!
