@@ -11,7 +11,7 @@
 
 ## When do you need help by?
 
-*What's the ETA for the app/tool launch or the date when you need this request completed? Our team's capacity will determine which sprint the work falls into.*
+*What's the ETA for the app/tool launch or the date when you need this request completed?*
 
 ## Do you plan to bring this to an upcoming content office hours session?
 
@@ -22,15 +22,15 @@
 - [ ] No, but I'd like to schedule time to talk about this request
 - [ ] No
 
-**Note:** If we think we can help better in a collaborative session, we may ask you to bring this to office hours or set up a separate time.
+**Note:** If we think this work requires a collaborative session with you, we may ask you to bring it to office hours or set up a separate time to meet.
 
 ## About your team
 
 - Team name: 
--	DEPO product owner: 
+-	OCTO-DE product owner: 
 -	Product manager: 
 -	Designer: 
 -	FE engineer: 
--	Product/team Slack channel
+-	Product/team Slack channel:
 
 **Note:** Once you’ve submitted this ticket, please post a link to this issue in the [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) Slack channel and tag @RLHecht.	
