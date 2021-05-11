@@ -1,33 +1,40 @@
 # Release Plan 
----
+
 
 ## Phase I: Typeahead POC Release
 
 ### Planning:
-- Desired date range or test duration: [December 23, 2020 - January 31, 2021] or [duration]
-- Desired number of users: %5 of all VA.gov users
+- Desired date range or test duration: [December 23, 2020 - January 31, 2021] 
+- Desired number of users: 5% of all VA.gov users
 - How you'll recruit the right production test users: Users will be selected at random
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Feature will be available on Staging for all users. Research Sessions and testing will use the Staging environment to access the feature. 
 
 ### Results:
-- Number of users: TBD
-- Number of bugs identified / fixed: 2/2
-- Was the data submitted (if any) easy for VA to process?: YES - a Domo dashboard will be established to review typeahead data metrics
+Findings are inconclusive due to Search.gov defect, [see details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896#issuecomment-795647840). As a result we have created a hardcoded list of typeahead suggestions and established POC2 to evaluate the feature.  
 
 
-## Phase II: Typeahead 1.0 Release
-
--
-
-
+## Phase II: Typeahead POC 2
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Desired date range or test duration: [April 12, 2021 to (minimum April 25, 2021. Will continue as we validate data] 
+- Desired number of users: 35% of all VA.gov users
+- How you'll recruit the right production test users: Users will be selected at random
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Feature will be available on Staging for all users. Research Sessions and testing will use the Staging environment to access the feature. 
 
+### Results:
+- TBD (Results are currently being validated . Upon review of the data collected we discovered further exploration that is required. Working with the analytics team we have identified the implementation of domo was not as expected and we are working to resolve as of May 11. Findings will be summarized and included once available. 
+
+## Phase III: Typeahead 1.0 Release
+
+### Planning:
+-  Targeting May 18, 2021- Launch to 100% of VA.gov users
+- User Set: All VA.gov search traffic 
+
+
+
+
+
+### Results:
 
 ### 1-week results:
 - Number of unique users: x
