@@ -6,12 +6,11 @@
 
 Learn from VA product stakeholders about how they understand the current CMS user admin process for their product, identify gaps, and explore incoming opportunities and threats to inform the governance structure and service design of the CMS user admin service.
 
-
 ## Background
 
 *Briefly, what is the background on this product? What would a new person on the team need to know about this product?*
 
-Currently the CMS team manages user accounts on an ad hoc basis, granting new accounts, changing account permissions, and offboarding users when requests come in. This often involves a lot of back and forth to understand who can verify an account request, what level of permissions to assign, and what other requirements (such as training) might be involved. As the number of CMS users has scaled, increasingly our team (and especially our help desk) has struggled with the lack of structure and cross-product consistency for account governance and service process.
+Currently the CMS team manages user accounts on an ad hoc basis, granting new accounts with appropriate roles and Sections, changing account permissions, and offboarding users when requests come in. This can involve a lot of back and forth to understand who can verify an account request, what level of permissions to assign, and what other requirements (such as training) might be involved. As the number of CMS users has scaled, increasingly our team (and especially our help desk) has struggled with the lack of structure and cross-product consistency for account governance and service process.
 
 We believe that redesigning a user admin service should start with undestanding how VA stakeholders understand their role in the account approval process and product user admin policy, and understand any constraints or requirements to refining these items. 
 
@@ -38,7 +37,6 @@ We believe that redesigning a user admin service should start with undestanding 
 - How do VA stakeholders describe their current experience with the CMS user admin service?
 - To what extent are VA stakeholders currently involved in new account requests, account verification, and offboarding?
 
-
 **User admin governance**
 
 - Does OCTODE have the resources/roles in place necessary for governing user administration for their products? 
@@ -53,16 +51,15 @@ We believe that redesigning a user admin service should start with undestanding 
 - Besides training, do VA stakeholders have other criteria that must be met for granting new cms accounts for their product? 
 - When a member of thier product team leaves their position, who is in charge of their offboarding? 
 
-
 ## Hypothesis
 
 *What is your hypothesis for this research?*
 
-- VA product owners and people serving as the product's user admin would benefit from a more clearly defined process for requesting and verifying user accounts, resulting in CMS onboarding that gets their team members in the system and creating content sooner.
+- VA product owners and people serving as each product's user admin would benefit from a clearly defined process for requesting and verifying user accounts, resulting in CMS onboarding that gets their team members in the system and managing content sooner.
 - Conveying the security benefits of a well-defined account offboarding plan may help VA product owners see the value of collaborating with the CMS team on this process.
-- While a single user admin role may suffice for many centralized / OCTODE level products, some products with a lot of decentralized/field editors, like VAMCs, may benefit from an additional section-based user admins who can help approve accounts. 
+- While a single user admin role may suffice for many centralized / OCTODE level products, some products with a lot of decentralized/field editors, like VAMCs, may benefit from an additional section-based user admins who can help approve accounts.
    - For example, the Benefits Hubs product might only need a single role for approving account requests and permissions, while VAMCs might need one product-level role for creating + maintaining the user admin policy, and another set of roles - one per VAMC system - who can verify new account request and permissions.
-- While standardizing the process steps for user admin will help streamline our service, each product will need to customize some aspects of their own user admin policy to meet the unique needs.
+- We can solve for a diversity of product governance and user admin needs with a standardized set of processes and tools, linked by a consistent language. 
 
 ## Method
 
@@ -93,6 +90,7 @@ We are looking to get input from at least one relevant stakeholder for each prod
 - Banners and alerts
 - Vet Center
 
+Some stakeholders will speak to more than one of these products. 
 
 We are excluding the following products whose needs are currently covered elsewhere: 
 
@@ -114,11 +112,11 @@ Also interested in folks who are not the product owner/manager, but may have use
 
 
 ### What is your recruitment strategy?
-Reach out directly in Slack to relevant participants.
+Reach out directly in Slack to relevant participants, and by email where necessary.
 
 ## When?
 
-CMS team sprint 34
+CMS team sprint 34: June 7-18 2021.
 
 **Length of Sessions:**
 
