@@ -94,6 +94,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 	- POC Details for reference:
 	   - [**Typeahead POC**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896): Dec 23-Jan 31 : 5% of users -   [Findings inconclusive due to Search.gov defect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896#issuecomment-795647840)
       - **[Typeahead POC2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)** - April 12-25, 2021 : 35% of VA.gov users (Findings TBS)
+ - [**Search usability research findings**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)
 - *Why this solution / approach over other solutions / approaches?*
   - TBD
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
