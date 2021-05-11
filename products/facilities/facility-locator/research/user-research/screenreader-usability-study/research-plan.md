@@ -148,7 +148,7 @@ At least:
 
 - Moderator: Leyda Hughes leyda.hughes@adhocteam.us
 - Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us
-- Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us
+- Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us, Josh Kim josh.kim@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
 - Notetaker: Perigean
