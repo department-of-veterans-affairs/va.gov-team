@@ -39,7 +39,7 @@ We believe that redesigning a user admin service should start with undestanding 
 
 **User admin governance**
 
-- Does OCTODE have the resources/roles in place necessary for governing user administration for their products? 
+- Does OCTODE have the resources/roles in place necessary for governing CMS user administration for their products? 
 - Are there one or more people in each product positioned to serve as a user administrator?
    - Where user administator = someone capable of collaborating with the CMS team to establish user admin policy and verify day-to-day incoming account requests (new user/permission change/offboard)?  
 - Which products would benefit from a secondary user admin role to manage day-to-day verification requests for a given section?
@@ -49,7 +49,7 @@ We believe that redesigning a user admin service should start with undestanding 
 
 - What kinds of risks do VA stakeholders anticipate to their product if account permissions, training requirements, or offboarding criteria aren't structured and enforced?
 - Besides training, do VA stakeholders have other criteria that must be met for granting new cms accounts for their product? 
-- When a member of thier product team leaves their position, who is in charge of their offboarding? 
+- When a member of their product team leaves their position, who is in charge of their offboarding? 
 
 ## Hypothesis
 
