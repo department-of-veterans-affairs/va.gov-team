@@ -93,7 +93,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 	- Typeahead is a commonly uses feature for search experiences. We have conducted two POCs in advance of moving forward with Typeahead 1.0 (100% launch)
 	- POC Details for reference:
 	   - [**Typeahead POC**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896): Dec 23-Jan 31 : 5% of users -   [Findings inconclusive due to Search.gov defect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896#issuecomment-795647840)
-      - **[Typeahead POC2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)** - April 12-25, 2021 : 35% of VA.gov users (Findings TBS)
+      - **[Typeahead POC2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21316)** - April 12-25, 2021 : 35% of VA.gov users (Findings TBD)
  - [**Search usability research findings**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)
 - *Why this solution / approach over other solutions / approaches?*
   - TBD
