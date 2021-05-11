@@ -7,7 +7,6 @@ Thank you for joining us today. My name is [Bridget/Jen/Melissa] and I also have
 Do you have any questions so far?
 
 - Once the app is up and running, I will ask you to sign in using your own username and password. I expect setting up the app and signing in to take a lot of our time today, and I appreciate your patience working through these steps with me in advance.
-- If at any point something isn’t working, I have the app on my phone, and we can look at it together there. 
 
 Does this all sound ok so far?
 
