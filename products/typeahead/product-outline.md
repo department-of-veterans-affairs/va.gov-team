@@ -111,7 +111,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
          b)Don't allow plural/singular terms in same suggestion set
          c)Explore ways to improve the algorithm search.gov uses to establish suggestions (decrease weighting of frequently searched for terms, establish a blacklist to remove terms that we don't want to appear)
     
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
+- Initiative | [Link to Initiative Brief](#)
+
+--- 
 
 --- 
 
