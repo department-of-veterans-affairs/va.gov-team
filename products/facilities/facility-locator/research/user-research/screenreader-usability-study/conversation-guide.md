@@ -15,12 +15,14 @@ Thanks for joining us today! My name is Leyda. Before we begin, I want to make s
 I'm a website designer and researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to learn how we can improve VA.gov for blind Veterans and Veterans with low vision.
 
 - **Are you comfortable proceeding with this session?**
-    - If no:
-    - **Is there anything we can do to make you feel more comfortable?**
+
+If no:
+
+- **Is there anything we can do to make you feel more comfortable?**
 
 #### Get verbal confirmation or end session
 
-  - If yes:
+If yes:
 
 Thank you, we’re excited to talk with you today.
 
