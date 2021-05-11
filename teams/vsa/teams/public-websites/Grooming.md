@@ -40,6 +40,7 @@
 - [ ] Mobile Search Research Discussion (Recommendation for user feedback on Mobile R&S Search)
 - [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383)
 - [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521) 
+- [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
 - [ ] [Discovery] HP COVID banner and accessibility/ScreenReader [#24199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24199)
 - [ ] Sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11) [#15244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15244)
 - [ ] 508-defect-3 [SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users [#7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834) 
