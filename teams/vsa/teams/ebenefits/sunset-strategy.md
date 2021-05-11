@@ -71,7 +71,8 @@ User EBN dashboard: sqa.eauth.va.gov/ebenefits/profile
 
 | Service                                             | Notes 
 | --------------------------------------------------- | -----
-| dependents                                          | May be deprecated as part of 686c work
+| rated_disabilities                                  | ready for deprecation
+| dependents                                          | May be deprecated once 686c is launched
 | disability_compensation_form                        | Needs migration plan
 | gi_bill_status                                      | Needs migration plan
 | intent_to_file                                      | Matching BGS service
