@@ -20,7 +20,7 @@ I'm a website designer and researcher and as a team we work on making improvemen
 
 **Get verbal confirmation or end session**
 
-    - If yes:
+- If yes:
 
 Thank you, we’re excited to talk with you today.
 
