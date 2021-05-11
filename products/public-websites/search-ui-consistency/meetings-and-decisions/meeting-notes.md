@@ -28,6 +28,10 @@
 - Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask.
 - For the first draft, we don't need to get into the Search.gov typography since it's an anomoly.  
 - Make a generic for your most bare-bones search results page and strip out everything specific to Search.gov (green type, top recommendations, right rail)
+- Take a stab at documenting accessibility, then ping Josh to review and make any recommendations on edits.
+- Designers are not expected to provide code recommendations
+- We don't need to have a developer add the code either.  Storybook is where the code will be kept.
+- When we submit our pattern for design.va.gov, we can 
 
 
 ### What Should be Included in the Pattern(s)
