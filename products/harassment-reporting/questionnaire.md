@@ -1,4 +1,8 @@
 ## Office of Resolution Management, Diversity & Inclusion (ORMDI): Harassment Prevention
+Summary: The Office of Resolution Management, Diversity and Inclusion (ORDMI) is the office in-charge VA Wide for processing complaints from Veterans and Employees for alleged Civil Rights Violations as well as for Harassment, Reasonable Accommodations, and other inappropriate behaviors while on a VA Site.
+
+In response to Section 5303 of the Deborah Sampson Act which is part of the Megabus Bill that was passed in January, and new congressional demands for action, a team of Presidential Innovation Fellows (PIFs) is scoping the feasibility of creating a secure, online reporting tool on VA.gov that would enable Veterans and VA employees to report alleged incidents about violations from Veterans and VA employees which occur while on a VA Site.
+
 
 ### Public Websites Team: What do we need to know? 
 
