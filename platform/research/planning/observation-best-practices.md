@@ -87,7 +87,7 @@ Hi Everyone,
  
 We're kicking off Vet Center usability research again. As with our previous Vet Center studies, we would like to invite you to observe with us. We have limited spaces so that we don’t overwhelm our veterans so we have included observing details and a sign-up link below. 
  
-- - - 
+---
  
 STUDY DETAILS:
  
