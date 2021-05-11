@@ -125,6 +125,9 @@ Please let me know if you have any questions and thank you for participating in 
 Thank you, 
  
 [name] 
+
 [title] 
+
 [email]
+
 [phone]
