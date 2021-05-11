@@ -76,7 +76,7 @@ Assess and update workload for remainder of sprint
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-
+- Tier 1, Tier 2 or Tier 3 change designation
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
@@ -88,7 +88,7 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-#### Acceptance Criteria
+#### Acceptance Criteria Based on Tier of Effort
 - Tier 1
   - Must be validated in Review via SOCKS by PO + PM + (if UX) Design Lead
   - Ticket Verbiage: Validation of AC items are required by PO + PM + Design Lead prior to promotion to Staging or Prod Environment. 
