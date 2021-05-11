@@ -192,7 +192,11 @@ Next, I'm going to walk us through a different scenario. Imagine you are plannin
    - How did this search experience work for you?
    - What could be improved in this scenario?
 
-_If participant did NOT interact with the map/list_
+_Things to look for:_
+- Did the participant notice the 'clear input' button? 
+- Did the participant use the 'clear input' button? 
+
+[If participant did NOT interact with the map/list]
 
 6. I’d like to point out the map/list feature to you	
    - Did you notice this feature?
