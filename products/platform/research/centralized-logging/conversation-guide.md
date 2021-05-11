@@ -74,12 +74,8 @@ We put together a user guide that we would love to get your feedback on _[chat p
 *   Let's say (take from warm-up questions) and  you want to view log files. 
 *   You landed on this page. 
 *   (Especially if a first time user) What are your overall impressions of the guide? 
-*   Can you show me how you would access logs in Loki/Grafana? 
-
 
 ### Things to watch for:
-
-
 
 *   Does the participant understand what Loki is? 
 *   Is the information understandable? 
@@ -89,9 +85,7 @@ We put together a user guide that we would love to get your feedback on _[chat p
 
 ## Second Task: [View Loki logs in Grafana] - 10 minutes
 
-Observe how the participant will utilize Loki to access logs 
-
-
+Great. Thank you. Can you show me how you would access logs in Loki/Grafana and find your application's error logs? 
 
 *   Did you find the information you needed? 
     *   What would you do next? (_Applies to either response, but especially when user says they did not find the info they needed so we can see if they return to the user guide or ask Platform for support.)_
