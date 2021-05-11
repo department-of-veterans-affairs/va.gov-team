@@ -1,7 +1,7 @@
 # Facility Locator - Screen reader, Usability Test
 ## Research Plan - May 2021 Discovery 
 
-Background 
+#### Background 
 
 The Facilities team wants the Facility Locator to be easy to use with assistive technology so the search experience is an equitable experience for all Veterans. Recent changes have been made to resolve accessibility defects and implement two new usability features ("find my location" and "clear field"). 
 
