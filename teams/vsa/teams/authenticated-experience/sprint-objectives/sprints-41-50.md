@@ -539,6 +539,31 @@ FE
 
 ## Sprint 48 (5/19 - 6/1)
 
+### My VA
+
+**PM**
+
+- Hold staging review
+- Hold privacy and security review  
+- Meet with communications folks (Leslie Byford); 
+- **If time/deoendencies allow**: Hold UAT go/no-go (dependencies: QA fixes, scheduling of reviews, required fixes coming out of reviews)
+
+**Design** 
+
+No immediate My VA 2.0 redesign tasks. Tressa can move on to action items exploration instead:
+
+- Discovery: how can we better elevate action items?
+- Begin exploration of how we can elevate action items
+
+**FE**
+
+- QA fixes
+- If applicable this sprint, fixes coming out of the staging and privacy and security reviews
+
+**BE**
+
+- If needed, any documentation for, or work that comes out of, the privacy and security review
+
 ## Sprint 49 (6/2 - 6/15)
 
 ## Sprint 50 (6/16 - 6/29)
