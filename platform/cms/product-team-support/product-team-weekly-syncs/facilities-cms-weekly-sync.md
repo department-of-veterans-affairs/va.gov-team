@@ -29,6 +29,7 @@
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
 * Sort order for services  
+* (Note: we noticed the field name for the local service description for Vet Centers is incorrect on the mural - can you update it, please?)
 
 ## Wednesday, May 5
 
