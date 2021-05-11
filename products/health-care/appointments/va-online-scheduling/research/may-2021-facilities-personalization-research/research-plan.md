@@ -46,11 +46,13 @@ We believe that Veterans will find value in seeing which facilities they recentl
 | How do Veterans think about facilities where they currently receive care, compared to those where they are registered? | - Where do you generally receive VA care? <br> - Where are you registered to receive care? <br> - (If they don't know) How would you expect to find out where you're registered? |
 | How often do Veterans go to different facilities for the same type of care? Different types of care? | Do you go to the same facility for all of your medical appointments? |
 
-| Research question | Concept test question | Section |
-| ----------------- | --------------------- | ------- |
-| Does a Veteran see value in the ability to manually control which facilities where they currently receive care? Or do they expect VA to "just know" this information? | | Profile-first / Facility list |
+| Research question | Concept test question | Section | Notes |
+| ----------------- | --------------------- | ------- | ----- |
+| Does a Veteran see value in the ability to manually change the facilities where they currently receive care? Or do they expect VA to "just know" this information? | | Profile-first / Facility list | |
 | How might a Veteran expect to use facility information outside of scheduling? | In what situations would you want to know this information, outside of scheduling appointments? | Profile-first / Facility list |
 | Do Veterans expect to be able to manage facilities in their list when scheduling? | | VAOS-first - Facility selection pages |
+| Do Veterans understand the "My VA facilities" section outside of the VAOS context | | Profile-first - MY VA facilities" |
+
 
 
 
