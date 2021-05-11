@@ -29,16 +29,11 @@
 - Tracey Mulrooney
 - William Rountree
 
-## Staff-facing/backend portion of Check-in
-- Tracey Mulrooney: VA OCTO, USDS - VA PO 
-- Shane Elliott: OCTO - technical expert
-- Steve Eaton
-
 ## VeText
 **The backend will be built off of this system. VeText holds all the business logic for notifications, controls text message functionality, and runs the "I am here" check-in solution.**
 - Kennon Hulett: Product Manager
 - Julia Synder: UX 
-- Shane Elliott: OCTO - technical expert
+- Shane Elliott: OCTO
 - Rob Burkin: VA Engineering
 
 ## VetLink
