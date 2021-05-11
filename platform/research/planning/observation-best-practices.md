@@ -56,7 +56,7 @@ We recommend limiting to 3 people, when possible, with a maximum of 5:
 - 1 notetaker 
 - 1 accessibility specialist (in the case of AT studies)
 
-- - -
+– – –
 
 - 1 observer (2 max, if necessary)
 	
