@@ -30,7 +30,7 @@
 - William Rountree
 
 ## VeText
-**The backend will be built off of this system. VeText holds all the business logic for notifications, controls text message functionality, and runs the "I am here" check-in solution.**
+**The backend integrations will be built off of this system. VeText holds all the business logic for notifications, controls text message functionality, and runs the "I am here" check-in solution.**
 - Kennon Hulett: Product Manager
 - Julia Synder: UX 
 - Shane Elliott: OCTO
