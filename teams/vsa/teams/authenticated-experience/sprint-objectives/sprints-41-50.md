@@ -547,7 +547,7 @@ Any outstanding project work from last sprint, plus:
 
 - Hold staging review
 - Hold privacy and security review  
-- Meet with communications folks (Leslie Byford); 
+- Meet with communications folks (Leslie Byford)
 - **If time/dependencies allow**: Hold UAT go/no-go (Dependencies: QA fixes, scheduling of reviews, required fixes coming out of reviews)
 
 **Design** 
@@ -555,7 +555,7 @@ Any outstanding project work from last sprint, plus:
 No immediate My VA 2.0 redesign tasks. Tressa can move on to action items exploration instead:
 
 - Discovery: how can we better elevate action items?
-- Begin exploration of how we can elevate action items
+- Begin sketches/exploration of how we can elevate action items
 
 **FE**
 
@@ -573,7 +573,6 @@ No immediate My VA 2.0 redesign tasks. Tressa can move on to action items explor
 - Check in with VA Profile as necessary
 - Work with Liz to put test case documentation together
 - Prep for [midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
-
 
 **Design**
 
