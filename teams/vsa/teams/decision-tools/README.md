@@ -3,15 +3,13 @@
 
 ## Who we are
 
-### Team Members:
-- DSVA Product Lead: John Hashimoto
-- Team Product Manager: Marci McGUire
-- Senior Engineer : Zach Morel
-- Design (Shared): Cassandra Allen
-- Research (Shared): Cindy Merrill
-
----
-
+| **Team Members**    |                      |   |
+|-----------------|----------------------|---|
+| John Hashimoto  | OCTO-DE Product Lead |<img src="https://user-images.githubusercontent.com/73354907/117847699-97de7b00-b250-11eb-9b16-08f1f9b76249.png" width="100" height="100">  |
+| Marci McGuire   | Product Manager      | <img src="https://user-images.githubusercontent.com/73354907/117847771-ac227800-b250-11eb-8de5-59ebbde77386.png" width="100" height="100"> |
+| Zach Morel      | Senior Engineer      | <img src="https://user-images.githubusercontent.com/73354907/117847739-a2991000-b250-11eb-8ca7-18e272580ba2.png" width="100" height="100"> |
+| Cassandra Allen | Designer             |<img src="https://ca.slack-edge.com/T03FECE8V-U016ZSZLKC7-20232e3f3253-512" width="100" height="100"> |
+| Cindy Merrill   | Research             | <img src="https://user-images.githubusercontent.com/73354907/117847860-bc3a5780-b250-11eb-8bc3-112ca83d863e.png" width="100" height="100">|
 
 ## Why we're here
 
