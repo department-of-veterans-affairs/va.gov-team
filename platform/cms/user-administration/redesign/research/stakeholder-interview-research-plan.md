@@ -1,4 +1,4 @@
-# ~~~WIP~~~ Research Plan for User admin service - stakeholder interview research plan
+# Research Plan for User admin service - stakeholder interview research plan
 
 *VFS-CMS team, May 2021*
 
