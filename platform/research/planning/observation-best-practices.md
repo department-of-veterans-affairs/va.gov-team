@@ -83,13 +83,13 @@ For more guidelines and checklists to prepare for research with assistive techno
 
 #### Sample email to send to stakeholder observers:
  
-Hi Everyone, 
+**Hi Everyone,**
  
-We're kicking off Vet Center usability research again. As with our previous Vet Center studies, we would like to invite you to observe with us. We have limited spaces so that we don’t overwhelm our veterans so we have included observing details and a sign-up link below. 
+**We're kicking off Vet Center usability research again. As with our previous Vet Center studies, we would like to invite you to observe with us. We have limited spaces so that we don’t overwhelm our veterans so we have included observing details and a sign-up link below.**
  
 – – –
  
-STUDY DETAILS:
+**STUDY DETAILS:**
  
 As part of our broader Vet Center discovery work, we will be conducting a round of usability research sessions starting next week with Veterans. 
  
@@ -116,7 +116,7 @@ As part of our broader Vet Center discovery work, we will be conducting a round 
  - If you have a **Zoom profile photo, please remove it** for the session.
  - If you have questions/comments for the researcher during the sessions, you can (privately) message in the zoom chat window, however, please note that it can be highly distracting to field messages while moderating. 
  - Be aware that it is common for research sessions to end if participants are ‘no shows’ after a few minutes of waiting time. We have scheduled 16 sessions with the goal of completing between 7-9. 
- - Sessions should include no more than 6 team members at a time 
+ - Sessions should include no more than 6 team members at a time. [Note to researcher: adjust as needed]
  - Please do not share the session signup sheet with anyone. Instead, please let me know if there is anyone else that I should invite and I would be happy to do so.
  - Session times are listed in **Eastern time.**  
  
