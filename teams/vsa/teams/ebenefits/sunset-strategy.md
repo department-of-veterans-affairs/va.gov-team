@@ -71,7 +71,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 
 | Service                                             | Notes 
 | --------------------------------------------------- | -----
-| rated_disabilities                                  | ready for deprecation
+| rated_disabilities                                  | Ready for deprecation
 | dependents                                          | May be deprecated once 686c is launched
 | disability_compensation_form                        | Needs migration plan
 | gi_bill_status                                      | Needs migration plan
