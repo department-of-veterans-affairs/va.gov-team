@@ -3,7 +3,7 @@
 ## Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the [prototype link](https://adhoc.invisionapp.com/share/N2109V5G3M4Z) available
+- [ ] Have the [prototype link](TBD) available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
@@ -12,11 +12,11 @@
 
 ## Intro - 5 minutes   
 
-Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We're looking to understand veteran's needs around scheduling COVID-19 vaccinations. Today, I'd like to hear about your experience with managing appointments, and go through a prototype of this tool and get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We're looking to understand Veteran's how Veterans choose VA health facilities. Today, I'd like to hear about your experience with getting health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [TBD].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
@@ -24,7 +24,7 @@ Before we start, a few things I want to mention:
 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- We like to use recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
     
 *Start recording.*
@@ -52,15 +52,19 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - 5 minutes
 
-- Where do you receive health care? [OR maybe] Do you go to the same place for all of your medical appointments?
+- Think about where you receive health care whether VA or not. 
+
+- Do you go to the same place for all of your medical appointments?
 
 - IF ALL VA Do you go outside of VA for healthcare? 
- - YES - Where?
+ - IF YES - Where?
 
 - Have you changed where you receive VA health care recently?
 
 - Do you have other options for where to receive care? 
    - YES why do you go to (facility you mentioned)?
+
+-
 
 - Where are you currently registered to receive care?
 - (If they don't know) How would you expect to find out where you're registered?
@@ -72,9 +76,13 @@ Before we start, a few things I want to mention:
 
 ### Scenario
 
-You recently moved to a new city, Evanston Illinois. You registered at the VA there, and when you did, you were surprised when they mentioned that you are registered at a lot of different facilties. You want to find out where else you're registered, so you log into your account on VA.gov.
+You recently moved to a new city, Evanston Illinois. You had one appointment at the VA health facility there....[TBD]
+
+#### Task
+
+
 
 ### Scenario
 
-You recently moved to a new city, Evanston Illinois. You registered at the VA there, and you're interested in scheduling a primary care visit.
+You recently moved to a new city, Evanston Illinois. You're interested in scheduling a follow-up visit with your primary care doctor.
 
