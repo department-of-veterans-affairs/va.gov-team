@@ -39,7 +39,7 @@
 ## May 12
 
 
-* user admin for Outreach Hub
+* TBD
 
 ## May 5
 
