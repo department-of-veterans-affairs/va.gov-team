@@ -43,7 +43,7 @@ The pages our users created:
 - Guided them to benefit information and recommendations.
 - Minimized content that wasn't specific to them.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p14.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/session-notes/p14.png)
 
 *Example of a page created in our user session. User created a personalized homepage with dedicated section linking off to other pages (education page shown as example)*.
 
@@ -110,7 +110,7 @@ In the Personalization 2.0 research, we learned about the [importance of an onbo
 
 The prototype's content prioritization and layout aligns with [what we saw on private sector dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-do-sites-organize-different-types-of-content-within-a-single-logged-in-homepagedashboard-view) as well; it emphasizes tasks, provides a summary or snapshot of information, clearly communications updates, and links users to more detailed information.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-cropped.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-cropped.png)
 
 *Blue sky prototype shown in our user sessions.*
 
@@ -122,7 +122,7 @@ When designing their personalized pages, [participants in our research study exp
 
 In our comparative analysis, we saw that [this mix of links and widgets is common on task-based dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples). We also saw that participants were influenced by other patterns, such as [task-based drop down menus]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#what-appears-as-a-widget-vs-text-link-vs-something-else) that we saw on private sector sites.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p9.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/session-notes/p9.png)
 
 *Example of page created by participant in our session who created dropdown menus inspired by their banking experience.*
 
@@ -155,7 +155,7 @@ When we gave the prompt to imagine they could get updates right on their pages, 
 
 In our comparative analysis, we saw [new information displayed in the top portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-are-sites-implementing-alerts-and-notifications) of logged-in homepages, often in a dedicated notification center. Some examples also included notifications right on the dashboard itself. The blue sky prototype primarily had notifications right on the homepage, which Veterans found helpful.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
 
 *Detail of in-line notification style shown in blue sky prototype.*
 
