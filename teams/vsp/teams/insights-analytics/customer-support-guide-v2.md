@@ -1,11 +1,12 @@
 # Google Analytics & Tag Manager Customer Support Guide v2
 
-### Table of Contents
-1. [Initial Ticket Review, Cleanup, and Triage](#1-initial-ticket-review-cleanup-and-triage)
-2. [Data Layer Specification / Design](#2-data-layer-specification--design)
-3. [Google Tag Manager and GA Configuration](#3-google-tag-manager-and-ga-configuration)
-4. [QA Testing and Publishing](#4-qa-testing-and-publishing)
-
+## Table of Contents
+### 1. [Initial Ticket Review, Cleanup, and Triage](#1-initial-ticket-review-cleanup-and-triage)
+### 2. [Data Layer Specification / Design](#2-data-layer-specification--design)
+### 3. [Google Tag Manager and GA Configuration](#3-google-tag-manager-and-ga-configuration)
+### 4. [QA Testing and Publishing](#4-qa-testing-and-publishing)
+-----------------------------
+<br>
 
 ## 1. Initial Ticket Review, Cleanup, and Triage
 #### 🔴 _BEFORE you start any hands-on work on a GH ticket, be sure the following have been executed..._
