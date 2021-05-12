@@ -10,9 +10,7 @@ The purpose of this research is to get a baseline understanding of how the curre
 
 ## Research Methodology 
 
-Description of method chosen
-
-In this research study, wayfinding on VA.gov is being measured in terms of participants' success in doing the following set of typical Veteran tasks:
+We conducted remote moderated research sessions via Zoom on April 26 - May 5, 2021. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks:
 1. Ask your VA doctor a followup question (send a secure message)
 1. Find out if your disability claim has been approved (track claim status)
 1. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (form 21-22a Appointment of Individual As Claimant's Representative)
@@ -23,7 +21,7 @@ In this research study, wayfinding on VA.gov is being measured in terms of parti
 1. Share VA medical history with a doctor outside the VA (get your VA medical records)
 1. Tell the VA about your new spouse (add dependent)
 
-
+We also explored analytics data to see where people click on the VA.gov home page, and we compared these usage statistics with observations from the research sessions.
 
 ### Who we talked to
 
@@ -36,10 +34,36 @@ Participants were on a variety of devices:
 - 4 on a smartphone
 - 1 on a tablet
 
-One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
-### Research Questions
+Participant demographics:
+- 9 had no college degree; 4 had a degree
+- 7 lived in rural/remote locations; 6 in major metro areas
+- 6 were age 55-64 or older; 1 was under 35
+- 4 were people of color
+- 3 were female
+- 3 had a cognitive disability
+- 2 had never used VA.gov before
+- 1 used a screen reader
 
-Research questions here
+One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
+
+### Research Questions
+- How do Veterans accomplish a list of common tasks?
+  - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
+  - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
+  - What do they typically do on VA.gov? What tools have they tried using?
+- Do they find what they're looking for? If not, what were they looking for?
+- What pain points are there in terms of findability and usage?
+- What works well?
+- What differences are there for desktop *vs.* smartphone users?
+- What differences are there for people who have cognitive disabilities?
+- What differences are there for people who use screen readers?
+- What differences are there for people who have used VA.gov before *vs.* haven't used it?
+- Do Veterans read/notice/click/comment on the banner content on the home page?
+
+### Hypotheses
+- Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
+- Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
+- Veterans aren't using all of the current search and browse tools on VA.gov. 	
 
 ## Key Findings
 The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
@@ -56,13 +80,18 @@ The 5-10 top findings from your study should be listed here. Write your findings
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
 
-Usage of the home page overall
+### Wayfinding successes and issues
+navigation, accessibility issues
 
-Mobile vs. desktop differences
+### Task success rates and ratings
 
-Navigation successes and issues
+### Other usability successes and issues
 
-Tasks success rates and ratings
+### Usage of the home page
+
+### Mobile vs. desktop differences
+
+-----------------
 
 Difficulty with 3 tasks...
 3. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (form 21-22a)
