@@ -2,7 +2,7 @@
 
 
 ### Veteran Tools Platform (VTP)
-[See image for where we're going](../images/where-things-are.png)
+[See image for where we're going](where-things-are.png)
 
 External teams **working on the VTP** should only have to remember these locations:
 
