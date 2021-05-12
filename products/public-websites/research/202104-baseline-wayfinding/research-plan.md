@@ -90,7 +90,7 @@ April 29, 2021 | Noon - 8:30 pm
 April 30, 2021 | Noon - 8:30 pm
 May 3, 2021 | Noon - 8:30 pm
 May 4, 2021 | Noon - 8:30 pm
-Mat 5, 2021 | Noon - 2:30 pm, 4:30 - 8:30 pm
+May 5, 2021 | Noon - 2:30 pm, 4:30 - 8:30 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
