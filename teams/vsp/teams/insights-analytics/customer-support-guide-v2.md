@@ -1,14 +1,14 @@
 # Google Analytics & Tag Manager Customer Support Guide v2
 
-##### Table of Contents
+### Table of Contents
 1. [Initial Ticket Review, Cleanup, and Triage](#1-initial-ticket-review-cleanup-and-triage)
 2. [Data Layer Specification / Design](#2-data-layer-specification--design)
 3. [Google Tag Manager and GA Configuration](#3-google-tag-manager-and-ga-configuration)
 4. [QA Testing and Publishing](#4-qa-testing-and-publishing)
 
 
-### 1. Initial Ticket Review, Cleanup, and Triage
-#### _BEFORE you start any hands-on work on a GH ticket, be sure the following have been executed..._
+## 1. Initial Ticket Review, Cleanup, and Triage
+#### 🔴_BEFORE you start any hands-on work on a GH ticket, be sure the following have been executed..._
 
 - [ ] Start Toggl time entry for ticket number using our convention
 - [ ] Modify (and save) the GH ticket title and/or description if not enough context is provided as to the product/app/tool needing analytics service
@@ -43,7 +43,7 @@
  ---------------------------------------------------
 
 ## 2. Data Layer Specification / Design
-### _AFTER above step 1 (review, cleanup, triage) steps have been executed..._
+### 🔴 _AFTER above step 1 (review, cleanup, triage) steps have been executed..._
 
 ### General 
 - Almost every ticket will more than likely need _some_ data layer specification provided, that said now with our [design system standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking), some will require much less custom `recordEvent` pushes than others based on the amount of customization requested
@@ -57,7 +57,7 @@ _Click on X_ | `'event': 'event-goes-here'` | _Any notes the developer should be
 _Specific interaction goes here_ | `'event': 'event-name-goes-here',`<br>`'data-layer-variable-here': 'value here'` | _Specify an example value or description of how to dynamically populate if not obvious_
 _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUTOMATICALLY TRACKED WITH DESIGN SYSTEM -- set `disableAnayltics` to false to enable analytics
 
-### If the product/app/tool IS NOT yet available within staging...
+### 🔴 If the product/app/tool IS NOT yet available within staging...
 
 ###### Forms
 - [ ] If the product is a **new forms library form**: indicate to VFS dev via a GH comment the [standardized forms system / forms library events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-form-events.md) should be utilized and supply a relevant product prefix
@@ -86,7 +86,7 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 -  [ ] If you **know the product will be leveraging design system components**, call out the item within the data layer specificaion but let the VFS developer analytics will already be tracked according to the design system
 -  [ ] If you **know the product is going to be a Drupal page and will not be using design system components**, go ahead and document the data layer specification ahead of time per other guidelines and conventions
 
-##### If the product/app/tool IS already available within staging...
+##### 🔴 If the product/app/tool IS already available within staging...
 - [ ] If the page is a Drupal page, it could have some event listeners already deployed but more than likely not and proceed with documenting the data layer
 - [ ] If the page is an app page, do a quick preview mode audit of the page to determine which components they're interested in are already tracked. Call these out as part of the data layer specification 
     - [ ] If the components that need tracking are any of our "opt-in" components (i.e Form Controls, Progress Bar, and/or Loading Indicator), inform the developer within the developer notes this will just be a matter of setting the `disableAnalytics` flag to `false`
@@ -140,7 +140,7 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 ## 4. QA Testing and Publishing
 
 ### Process 
-- [ ] #1 CARDINAL RULE: **NO QA, NO CLOSURE** 
+- [ ] ❗ #1 CARDINAL RULE: **NO QA, NO CLOSURE** 
    - [ ] _Not to be taken lightly...absolutely no ticket should be closed without QA, it is our duty and responsibility to test both the data layer and GTM tagging with every request_
 - [ ] Following your GTM implementation and implementation of the data layer, it is the original ticket owner's responsibility to: 
    - [ ] _Shift the ticket to `VSP - Revew QA` column_
