@@ -8,7 +8,7 @@ The goal of this internal research study is to quickly understand if we are gene
 
 Based on past user interviews, we know people come to VA.gov to see information that is relevant to them and to complete tasks specific to their benefits. Users do not want to see links, suggestions or information that doesn't apply to them personally on their dashboard.
 
-Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. The MyVA dashboard aims to surface the status and the most recent update to a users health care information, claims information, and any applications in progress. Users should also be able to quickly and easily reach the tools that allow them to manage this information. 
+Our goal is to create a new My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the existing My VA dashboard. The MyVA dashboard aims to surface the status and the most recent update to a users health care information, claims information, and any applications in progress. Users should also be able to quickly and easily reach the tools that allow them to manage this information. 
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
@@ -44,5 +44,9 @@ This approach will allow us to test using users *real data* prior to launch.  Us
 #### Where?
 
 We will be testing on production using a feature flag via Zoom.
+
+#### Who?
+
+We will be recruiting internally (Ad Hoc/GCIO) for veterans who work on the VA contract. I am aiming to get a minimum of 5 participants, 8 would be ideal.
 
 
