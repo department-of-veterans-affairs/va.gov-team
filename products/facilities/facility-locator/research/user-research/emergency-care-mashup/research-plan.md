@@ -65,6 +65,8 @@ Date | Time
 5/18 | 3pm - 4pm
 5/19 | 9am - 10am, 12pm - 1pm, 2pm - 3pm
 5/20 | 9am - 10am, 12pm - 1pm, 2pm - 3pm, 4pm - 5pm
+5/24 | 1pm - 2pm, 3pm - 4pm
+5/25 | 10am - 11am, 3pm - 4pm
 
 A pilot session will be held Thursday 5/13 at 10:00 AM.
 
