@@ -28,8 +28,15 @@
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
+  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement. Michelle **
 * Sort order for services  
+  * **Post MVP editorial experience change to reflect product's sort and groupings for Vet Center services (currently enforced on the FE), and remove the sort handles**
 * (Note: we noticed the field name for the local service description for Vet Centers is incorrect on the mural - can you update it, please?) DONE
+* Centralized content and FAQs. 
+  *  Now functional va-accordion fork will proceed for  Vet Center. Michelle will schedule a followup about component ownership and tech debt around "FAQ section" component.
+  *  Add documentation to https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/content-model-centralized-content.md for graphqlification / filters and "rules of engagement" for iterating on existing component templates, pointing to an example from `va-accordion`. 
+* Vet Center runbook
+  * 
 
 ## Wednesday, May 5
 
