@@ -67,6 +67,9 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 - Keeping the scope as bare as possible gets the most benefit to the most Veterans the soonest.
 - A list of future functionality is being considered in the Epic (#19595)
 
+## Product Decisions
+- Here we will add all of the decisions we make about how the product will be implimented
+
 ## KPIs
 - Desired outcomes are accurate renderings of  automatic eligibilty screenings, and for those eligible, a strong conversion number
 --- 
