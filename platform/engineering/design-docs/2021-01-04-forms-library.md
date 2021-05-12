@@ -122,6 +122,7 @@ sub-module:
 - `Router` component
 - `Chapter` component
 - `Page` component
+- `Route` component
 
 ##### `Router` Component
 **Purpose:**
@@ -195,6 +196,21 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
 
+##### `Route` Component
+The `Route` will be re-exported from `react-router-dom`. The purpose of
+re-exporting is twofold:
+- Simplifies imports
+- Ensures only one version of `react-router-dom` is used
+
+**Why not just use `Page`?**
+The `Chapter` and `Page` components are meant to be used to define pages where
+the user may enter data. These pages are sequential and have back and continue
+buttons. `Route`s are used for pages in the application that live outside that
+form flow. These pages may include:
+- `/introduction`
+- `/form-saved`
+- `/error`
+
 ##### Functionality: Array pages
 Array pages are one or more pages that are looped through in a form flow, once
 for each item in the array they are for. To help understand the nuances of array
@@ -265,7 +281,7 @@ Pieces of the save-in-progress are:
   - Allows users to manually save the form
   - Shows the form save state (saved, saving, error, etc.)
 - Re-usable `FormSaved` component
-  - To be used in a `<Page overrideFormik path="/form-saved">`
+  - To be used in a `<Route path="/form-saved">`
 - Data migration functionality
 
 ##### Component: `SaveInProgress`
