@@ -12,7 +12,7 @@
 ## Intro - 5 minutes
 
 Thanks for joining us today! 
-My name is [NAME] and I also have some colleagues on the line observing and taking notes. 
+My name is Nick and I also have some colleagues on the line observing and taking notes. 
 Today we're going to talk about finding healthcare on the VA.gov website.
 
 Before we start, a few things I want to mention:
