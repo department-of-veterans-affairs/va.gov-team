@@ -134,3 +134,6 @@ The following team members should be added to the corresponding meetings:
   - You may close the ticket when the Definition of Done is completed.
   - Please leave a comment on the work being completed within the ticket before closing.
   - Please collaborate with the requester so that we have acknowledgement that they received the services they needed. A response is not necessary in the ticket, but we do need a comment from the person working on the ticket that they have spoken with the requester. (i.e. "We're closing this issue, but please let us know if you need anything else."). If your work is completed and the requester has not responded by the next Planning or Grooming session, we will close the ticket during Planning or Grooming.
+
+### Process Specifics
+- For more detailed steps and procedures on Google Tag Manager and Google Analytics customer support processes, please see [version 2 of this document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md). 
