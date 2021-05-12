@@ -22,7 +22,7 @@
 - [ ] No, but I'd like to schedule time to talk about this request
 - [ ] No
 
-**Note:** If we think this work requires a collaborative session with you, we may ask you to bring it to office hours or set up a separate time to meet.
+**Note:** If we think this work would benefit from a collaborative session with you, we may ask you to bring it to office hours or set up a separate time to meet.
 
 ## About your team
 
