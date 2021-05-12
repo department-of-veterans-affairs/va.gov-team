@@ -64,7 +64,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 
 | Field | Copy |
 | ----- | ---- |
-| Title | VA Video Connect appointment at {ATLAS facility} |
+| Title | VA Video Connect appointment at an ATLAS facility |
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location | {ATLAS facility address} |
@@ -143,7 +143,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 
 | Field | Copy |
 | ----- | ---- |
-| Title | VA Video Connect appointment at {ATLAS facility} |
+| Title | VA Video Connect appointment at an ATLAS facility |
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location | {ATLAS facility address} |
