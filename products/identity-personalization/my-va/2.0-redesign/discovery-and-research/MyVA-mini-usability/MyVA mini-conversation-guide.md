@@ -33,14 +33,16 @@ Before we start, a few things I want to mention:
 2. Do you currently, or have you ever, filed a claim or appeal with the VA?
 3. If you were to login to a personalized space on the VA, what are the top actions you'd want to take when managing your benefits?
 
-## Questions
+## Screenshare
 
-- We'll be starting today on the My VA page, so go ahead and click on My VA in the top right hand corner in the main navigation.
+- I'll have you log in to VA.gov. We'll be starting today on the My VA page, so go ahead and click on My VA in the top right hand corner in the main navigation. Feel free to take a look at the page and then if you feel comfortable, share your screen with me. If you need help at all, I'm happy to help.
+
+## Questions
 
 **ALL PARTICIPANTS**
 
 1. Talk to me about what you see on this page and what you can do here.
-  - If you need to make a change to [section] how would you do that?
+  - If you needed to make a change to [section] how would you do that?
 3. What would you use this page for?
 4. What would make this page more useful to you?
 5. What is confusing about this page?
