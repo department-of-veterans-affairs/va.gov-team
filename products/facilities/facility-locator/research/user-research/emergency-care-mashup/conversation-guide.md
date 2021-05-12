@@ -67,7 +67,7 @@ If you have any questions, feel free to ask them at any time.
 ### Scenario
 #### Directions:
 
-I'm going to walk us through a scenario and have you perform a couple tasks. 
+I'm going to walk us through a scenario and have you perform some tasks. 
 Again, this is only a prototype so some things might not work as expected. 
 As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
 
