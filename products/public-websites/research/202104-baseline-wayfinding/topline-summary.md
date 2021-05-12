@@ -10,6 +10,7 @@ This topline summary is a high level, top-of-mind summary of trends observed in 
 **The goal of this document is as follows:**
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from the team/stakeholders and determine specific directions to pursue as we analyze the data
+ - To jump start synthesis by quickly organizing high level themes
 
 ## Introduction
 The purpose of this research is to get a baseline understanding of how the current VA.gov website is being used by Veterans and others. With a better understanding of Veterans' pain points and successes while using VA.gov, we can make more informed decisions about priorities for future research and design work in website navigation and tools.
