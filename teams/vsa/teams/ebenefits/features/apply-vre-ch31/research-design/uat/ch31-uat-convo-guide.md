@@ -51,7 +51,7 @@ OK, please share your screen, and we'll get started.
 
 `Revised to remove unauthenticated and video tasks`
 
-- Please open a new tab in your browser, go to [CH31 landing page link]().
+- Please open a new tab in your browser, go to [CH31 landing page link](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/).
 - To complete this form, we'll need you to log in?
   - [ ] **UAT item:** After login, intro screen allows access
 - (If login fails for any reason) It seems there's a problem logging-in; you'll need to log in to be able to see the form.

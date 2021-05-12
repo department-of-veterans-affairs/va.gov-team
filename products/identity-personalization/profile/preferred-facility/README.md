@@ -90,19 +90,23 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 **Objective #1: Improve overall experience with appointment scheduling.**
 
-**Note**: This KR is pending final designs from the VAOS team. We'll refine further as we have them.
-
-- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15% by allowing people to save the facilities at which they current;y receive care. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
 
 |KPI/metric|Baseline: Q1 Jan - Mar 2021|Post-launch: Q4 Oct - Dec 2021| Post-launch: Q1 Jan - Mar 2022|
 |----------|-------------|---------------|-------------------|
 |Drop-off rate from the facilities page| TBD|TBD|TBD|
 
+- **Key result #2**: Establish baseline metric for how many people save a facility as part of their scheduling experience.
+
+|KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|
+|# of users who save a facility as part of their scheduling experience|TBD|TBD|
+
 **Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
 
 - **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
-- **Key result #2**: Establish a baseline metric for how many users have updated their facility preferences by end of Q4 (assumes late Q3 or early Q4 launch).
-  - **Note**: This metric will need to consider users who have health care vs. users who do not, plus changes that happen in both the VAOS tool AND the profile. 
+- **Key result #2**: Establish a baseline metric for how many users have updated their facility preferences from the profile by end of Q4 (assumes late Q3 or early Q4 launch).
+  - **Note**: This metric will need to consider users who have health care vs. users who do not. 
 
 |KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|

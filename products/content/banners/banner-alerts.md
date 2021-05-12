@@ -136,4 +136,4 @@ __Design notes:__
 ~6. The default state on page load is expanded~
 ~7. It pushes all content below it downward on the page (it does not overlay)~
 
-Note:
+Note: TBD

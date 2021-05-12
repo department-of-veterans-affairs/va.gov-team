@@ -1,7 +1,7 @@
 ## _THIS DOCUMENT IS IN PROGRESS_
 
 # Goal 
-Standardize form intro pages, taking into account the VA.gov style, voice, plain language, and accessibility standards. Share the defined the content components, labels, and messaging for the intro page with designers so they have specific guidance when working on new forms. 
+Standardize form intro pages, taking into account the VA.gov style, voice, plain language, and accessibility standards. Share the defined content components, labels, and messaging for the intro page with designers so they have specific guidance when working on new forms. 
 
 ## Content components
 
@@ -73,8 +73,8 @@ Here's what you'll need to apply:
 
 ***Note:** If your list requires explanatory text, bold the first few words of each bullet that indicate the document or information type. Example:*
 
-•	**Social Security numbers** for you, your spouse, and your qualified dependents
-•	**Your military discharge papers** (DD214 or other separation documents)
+•	**Social Security numbers** for you, your spouse, and your qualified dependents <br>
+•	**Your military discharge papers** (DD214 or other separation documents) <br>
 •	**Insurance information** for all insurance companies that cover you. This includes any coverage provided through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
 
 ***Note:** If some of the information is optional, include a note to explain this. Example:*

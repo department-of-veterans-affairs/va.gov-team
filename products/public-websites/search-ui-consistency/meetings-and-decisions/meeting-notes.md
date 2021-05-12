@@ -1,6 +1,57 @@
 # Meeting Notes
 
+## 2021-05-11 Design Office Hours - Attending to Clarify Design Pattern Request
 ### Attendees
+- Ryan Thurlwell
+- Shawna Hein
+- Marci McGuire
+- Megan Gayle
+- Cassandra Allen 
+- Allison Christman
+- Rebecca Walsh
+- Riley Orr
+- Naomi Marcussen
+
+### Notes
+- Marci showed a screen shot with the components she believes should be included in the pattern (image is shown below)
+- Ryan advised that is exactly what would be included
+- Ryan provided additional context around the difference between styles and patterns with a real-world example
+- We are creating the "single source of truth" for search
+- We are creating a "base" pattern with possible extensions like sub-headers
+- Ryan typically creates a minimal version and a maximum version
+- Minimum version has all required components that *must* be there
+- Maximum version has additional components that are optional if they apply to a particular tool
+- It's not necessary to include details like specific spacing, but you should give a particular order that the components must appear in
+- Ryan also shared an example with us, and said we could also look at the ones already in the [Design System design.va.gov](https://design.va.gov/patterns/)
+- A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented
+- We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples
+- Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask
+- For the first draft, we don't need to get into the Search.gov typography since it's an anomoly
+- Make a generic example for your most bare-bones search results page and strip out everything specific to Search.gov (green type, top recommendations, right rail)
+- Take a stab at documenting accessibility, then ping Josh to review and make any recommendations on edits
+- Designers are not expected to provide code recommendations
+- We don't need to have a developer add the code as part of this exercise.  Storybook is where the code will be kept.
+
+
+### What Should be Included in the Pattern
+- Breadcrumbs
+- Title
+- Instructions
+- Form fieldset
+- Search field/button
+- Result count
+- Sorting (if applicable)
+- HRs above/below/between results
+- Result information "chunks"
+- Pagination
+- Division between search component and any content that appears after it (like Frequently Used VA Forms)
+- Above components are highlighted in the screen shot below
+
+![image](https://user-images.githubusercontent.com/73354907/117873042-5c05de80-b26d-11eb-8311-f0a1d75a4ed1.png)
+
+
+
+### General Notes
 
 ## 2021-05-03 Discuss opening items remaining from Design Intent Review
 - Horizontal rule placement

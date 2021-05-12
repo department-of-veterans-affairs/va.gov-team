@@ -38,8 +38,11 @@
 
 ## May 12
 
-
-* user admin for Outreach Hub
+CLP
+* No collab reviews will be required.  
+* The PW team will need to provide assistance for Cloning, Analytics/Dashboard (and UTM) and any vanity URL redirect requests.
+* What CMS-realted feature enhancements will we tackle (if prioritized by PO)? [Working List here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.md)
+* How will use and on-boarding of CLP be managed? We have more directional context on this — so will need to firm up in the coming weeks. [Will draw from the Service-Roll Out Plan working draft here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
 
 ## May 5
 

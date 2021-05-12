@@ -6,8 +6,8 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 ## Team
 
 ### Product, Project, and Program Management
-- Tracey Mulrooney - co-Product Owner, VA
-- Leanna Miller - co-Product Owner, VA
+- Leanna Miller - Product Owner, VA
+- Travis Newby - Engineering, VA
 - Ayush Chakravarty - Product Lead
 - Bess Green - Product Lead, Front End Development	
 - Ashley Matthews - Product Manager, Secure Messaging

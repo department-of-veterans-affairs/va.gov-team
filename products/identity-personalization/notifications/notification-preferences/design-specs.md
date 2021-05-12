@@ -22,6 +22,10 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 - We will always show this section.
 - Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i))
 
+## URL
+
+URL for this section should [www.va.gov/profile/notifications](http://www.va.gov/profile/notifications) as noted in the [IA recommendations document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-profile-notifications.md).
+
 ## Design 
 
 Mobile and desktop example shows:
@@ -127,7 +131,7 @@ Display warning alert where email/phone and `update contact info` link would nor
 - Alert should reference the contact information that's missing
 
   - Mobile phone number
-  - Email address
+- Email address
 - In edit mode, the channel corresponding to the missing contact info should be replaced with text. Do not display a disabled checkbox.
 
 [Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
@@ -143,3 +147,29 @@ Display warning alert where email/phone and `update contact info` link would nor
 **In edit mode, replace relevant checkbox with this text:**
 
 > *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
+
+### User deletes their associated contact information
+
+Update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notifications anymore.  
+
+[Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
+
+#### Copy
+
+**Alert copy**
+
+> This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
+
+### User who is opted into notifications deletes their associated contact information
+
+`draft, need to update once finalized`
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, we will:
+
+- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
+  - In the read view, this means they'll see that those notifications are turned off
+  - In edit view, they won't have inputs to opt-in/out of notifications.
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
+
+- display all the notifications and options as if they had not ever deleted their information. We'll check with VA Profile in our next sync whether or not they will actually receive notifications at this new email/phone number automatically.

@@ -1,8 +1,7 @@
-# Facility Locator Screenreader Usability Study 
-## Research Plan
-#### May 2021 Discovery 
+# Facility Locator - Screen reader, Usability Test
+## Research Plan - May 2021 Discovery 
 
-Background 
+#### Background 
 
 The Facilities team wants the Facility Locator to be easy to use with assistive technology so the search experience is an equitable experience for all Veterans. Recent changes have been made to resolve accessibility defects and implement two new usability features ("find my location" and "clear field"). 
 
@@ -57,10 +56,10 @@ Can Veterans, with low to no vision, who use keyboard, voice and/or other assist
 
 Sessions will combine: 
 
-- Directed interviewing to understand participant's context and experience with assistive technology and other websites that they use currently
-- Usability testing with task analysis of searches conducted on Google and Facility locator.
-- 1-hour sessions will be remotely moderated via Zoom. **Recommend at least 1.5 hours, ideally 2 hour blocks. 1 hour will not be enough time to run through the full study.**
-- Participants will share their phone or desktop screen. 
+- Directed interviewing to understand participant's context, experience with assistive technology and other websites that they use currently.
+- Usability testing with task analysis of searches conducted on Facility locator and their preferred search tool.
+- 2 hour sessions will be remotely moderated via Zoom. Extended session length allows for technical difficulties and more time consuming task completion via screen reader.
+- Participants will share their device's screen. 
 
 
 ## Participants and Recruitment 
@@ -80,11 +79,6 @@ Sessions will combine:
   - 1 JAWS user
   - 1 NVDA user
   - 1 TalkBack (Android) user
- 
-[**Note for Perigean:** ]
- - Please ask participant what screen reader technology they will use for the session and include in participant tracker
- - Please ask participants if they would be comfortable with 4 off-camera, observers present during the research session, including the facilitator OR if they would prefer a more private session with just one facilitator and one accessibility specialist.
- - Please ask participant what method of text communication they'd prefer the most during the session (to send and open links) e.g. text message, email, or zoom chat.
 
 AND
 
@@ -100,12 +94,13 @@ AND
 #### Technical requirements
 
 [**Note for Perigean:** ]
+ - Ensure participant has a working screen that can be shared
  - Please ensure participants have Zoom downloaded prior to the session
  - Please ensure participants are willing and prepared to screenshare
 
 ### Secondary criteria / would like to have -
 
-At least: **Josh: updated based on VA statistics for marginalized groups**
+At least: 
 
 - 4 participants over the age of 56
 - 4 participants with a cognitive disability
@@ -114,14 +109,34 @@ At least: **Josh: updated based on VA statistics for marginalized groups**
 - 2 participants with no college degree or professional certificates
 - 1 female
 
+## Technology Checklist
+[**Note for Perigean: Please ask participant the following questions and include responses in participant tracker** ]
+ 
+1. Would you be comfortable with 4 off-camera, observers present during the research session (including the facilitator)?
+   - If no:
+   - Would you be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist)?
+   - [MUST RECEIVE CONSENT FOR EITHER OPTION]
+2. Do you have a device from which you can join a Zoom meeting?
+     - Is Zoom already installed on this device? 
+     - Is this a computer, tablet or phone 
+     - Mac or Windows?
+     - iOS or Android?
+     - What browser will you use?
+     - Do you use a screen magnifier on this device?
+3. Do you have a screen reader on this device? [must be yes]
+     - What kind of screen reader do you use?
+     - How long have you been using it?
+     - Do you know your screen reader's verbosity setting? High, medium, low?
+4. Are there any other assistive technologies that you use?
+5. What method of text communication they'd prefer the most during the session (to send and open website links) e.g. text message, email, or zoom chat?
 
 ## Timeline 
 
-[Preliminary dates]
+[Preliminary dates - needs updating]
 
 - Study dates: May 19 - 27, 2021
 - Pilot session: will be held on Mon, May 17, 2021
-- Session length: 1 hour
+- Session length: **2 hours** 
 
 #### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
 - Wed 5/19: 8a, 10a, 12p
@@ -136,7 +151,7 @@ At least: **Josh: updated based on VA statistics for marginalized groups**
 
 - Moderator: Leyda Hughes leyda.hughes@adhocteam.us
 - Accessibility specialists: angela.fowler@adhocteam.us, josh.kim@adhocteam.us
-- Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us
+- Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us, Josh Kim josh.kim@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
 - Notetaker: Perigean

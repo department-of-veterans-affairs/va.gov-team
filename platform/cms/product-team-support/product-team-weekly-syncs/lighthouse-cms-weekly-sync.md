@@ -34,10 +34,24 @@
 
 Vet Center CAP data and questions
 * When a Vet Center editor archives a Vet Center CAP, CMS will keep the data in archived (unpublished) form. Related questions: 
-  * CMS will push this content update to Lighthouse. 
-  * How long should CAP data archived in the CMS be available to Vets, and in what form? (Question for Dave)
+  * CMS will push this content update to Lighthouse. **ACTION: Needs CMS issue**
+  * How long should CAP data archived in the CMS be available to Vets, and in what form? Should the CMS be the place where CAPs are gradually closed, or is that best managed by Lighthouse / Facility Locator?
+(Questions for Dave).
+    * Dave: It shouldn't be. Within one business day, it should disappear from Facility Locator. Facility Status in CMS may indicate impending closure, or closure. Facility Status can be "closed" but the CAP can remain published in CMS.
+    * Archived in CMS = Deleted in Lighthouse. 
   * What happens if the CAP is archived, then re-activated with the same ID?
-  * Should the CMS be the place where CAPs are gradually closed, or is that best managed by Lighthouse / Facility Locator?
+    * **Lighthouse should be able to re-open a CAP with the same ID.**
+  * **Action: CMS issue for content lifecycle documentation for CAPs, including Lighthouse dependencies**.
+  * When to kick off this cross-team epic for pushing CAPs into Lighthouse, and providing CAPs to customers like Facility Locator? 
+    * Dave: We will have data from 10 Vet Centers at end of May, then 50. Where does this fit into Lighthouse priorities? 
+    * Josh: When the data becomes available from CMS we'll want to make available via Lighthouse
+    * Steve: We can mockup what the push will look like **Action: CMS issue, Sprint 33 (end of May) or 34.**
+
+How might graphQL support the needs to supply service data to lighthouse? 
+* [CMS GraphQL documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/f4341c29ad8e998de1dac2fca0b749cdef15c923/READMES/graph_ql.md). 
+* Example implementation: [Platform Build Pipeline info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/platform/cms-metalsmith-build/product-outline.md)
+* Research question: are there advantages to using GraphQL over the existing push approach. 
+* Follow-up questions: #cms-support channel in DSVA slack.
 
 ## Monday May 3 3pm ET
 

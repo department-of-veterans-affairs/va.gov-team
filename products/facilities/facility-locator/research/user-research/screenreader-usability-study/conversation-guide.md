@@ -1,200 +1,215 @@
-# Conversation Guide: Facility Locator - Screen reader, Usability Test
+# Facility Locator - Screen reader, Usability Test
+## Conversation Guide - May 2021 Discovery 
 
-**May 2021**<br>
-
-### Session Prep
+#### Session Prep
 
 - [ ] Notifications off
+- [ ] Use headphones (prevents SR from echoing back to participant)
 - [ ] Enable screen sharing in Zoom
 - [ ] Manage waiting room feature in Zoom
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a notetaker and two of my teammates assisting me on this call including an accessibility specialist [name] should you need any help with technology during the session. I can tell you a little more about who we are first too if you'd like.
+Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a notetaker and two of my teammates assisting me on this call including an accessibility specialist [name] should you need any help with technology during the session. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-I'm a website designer and researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the pages we're building. Today, we want to learn how we can improve VA.gov for blind Veterans and Veterans with low vision.
+I'm a website designer and researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to learn how we can improve VA.gov for blind Veterans and Veterans with low vision.
 
-Before we get started, I want to give you an idea of what this call will be like:
+- **Are you comfortable proceeding with this session?**
 
-- This entire session should take about an hour.
+If no:
+
+- **Is there anything we can do to make you feel more comfortable?**
+
+#### [Get verbal confirmation or end session]
+
+If yes:
+
+Thank you, we’re excited to talk with you today.
+
+I want to give you an idea of what this call will be like:
+
+- The entire session should take between an hour and a half.  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. Feel free to let me know if you need a break at any time.
 - We'll start the session with a couple warm up questions.
 - Then, we'll be reviewing parts of the VA.gov website together.
-- Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- You also have the right to leave this session at any time should you feel uncomfortable with continuing.
-- In this session, I'll be having you share your Zoom screen so that I can follow along and I'll help you through that. 
-- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
-    - Great, that helps me troubleshoot with you if we run into any problems.
+- Throughout the session, I may ask you about your thoughts and opinions about the pages or features but there are no right or wrong answers. We're not testing you. We're actually testing the website to see how we can make it better for all Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question.
+- In this session, I'll be having you share your Zoom screen so that I can follow along and I'll help you through that.
+- Note to moderator: [If sending links during the session, ask before recording begins to avoid capturing PII information:] 
+    - We may send you links to go to during the session. Do you have a communication preference? (if desktop, email/zoom chat; if mobile, email/text -- Zoom chat not recommended since it’s a bit unwieldy on a screen reader, especially for mobile users) 
+- Finally, this session will be recorded to ensure that I capture your opinions accurately. I personally destroy this recording after I analyze it, and none of your comments will be attributed to you directly.
 
-_For iPhone:_
+## Recording permission
 
-- OK great. To confirm, were you able to download and set up the Zoom application on your phone ahead of this meeting?
+- **Are you comfortable if I record my screen and audio as we talk today?**
+    - If yes:
+     - Once I start recording, I will ask you once again so that the confirmation is captured in the recording.
 
-- **If yes**
-- We'd like to send you a zoom link for you to open on your phone so you can join this meeting. We can send this to you by email [read email] or by text. Do you have a preference?  
+[Start recording to the Cloud]
+
+- I have started recording. So, I'd like to confirm:
+- Are you comfortable if I record my screen and audio as we talk today?"
+
+## Tech set-up
+
+Next, I want to make sure your technology is ready to go for this session. 
+- Did you receive the checklist for our session from Shannon or Brian? 
+- We will quickly run through that right now.
+
+Checklist:
+- Are you using a computer or mobile phone during our session today? 
+- Mac or Windows? 
+- iOS or Android?
+- Do you have Zoom installed? 
+- Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+- What browser are you using today?
+- Do you have a screen reader on this device?
+- What kind of screen reader do you use?
+- How long have you been using it?
+- Are you using a screen magnifier today?
+- Are there any other assistive technologies that you use?
+- Do you know your screen reader's verbosity setting? High, medium, low?
+
+
+_[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+**For those joined by iPhone and Zoom already**
+
+
+**If YES**
+[SKIP TO SCREEN SHARE INSTRUCTIONS]
+
+**NO: Help participant join with device**
+- I'm going to send you a zoom link [by format specified] for you to open on your phone so you can join this meeting.  
 - [Send through Veteran's preferred communication channel]
 - When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. We only need your audio for this session, so please tap "Allow" for the microphone prompt. Feel free to tap "Don't Allow" for video permissions if you are not comfortable having your face on camera.
 - You will then be asked to join audio. Please tap "Join audio."
-- Once you're in the call, please find the "Share content" button. It will be at the bottom center of your app. Double tap that button and then double tap "Screen." Then, find the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
-- Great, now I can see your phone screen!
-- If you need to stop sharing during this session you can click 'Stop Broadcast'
-- We'll send links to your preferred [email or text] for the websites we'll be asking you to visit.
+- Once you're in the call...
+
+## Screen sharing set-up
+
+_[SCREEN SHARE INSTRUCTIONS - NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+
 
 - **If no, go to backup plan**
 
-_For Android:_ **Needs custom accessibility script**
-- OK great. When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
-- Tap "Share"
-- Tap "Screen"
-- May give a "sensitive info" alert
-- May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
-- Tap "Start now" (maybe)
-_For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
+_[For Android: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+
+_For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
 
 
 **Backup plan if they cannot figure out how to share screen:**
 - [Instructions on talk out loud activity, we need to rely on the participant to explain what is happening and what their pain points are]
 
 
-## Recording permission
-
-[USER IS SHARING]
-
-Great! Thanks for working through that with me. 
-
-Finally, this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
-
-**Are you comfortable if I record my screen and audio as we talk today?** 
-
- - If yes: 
- 
-**Once I start recording, I will ask you once again so that the confirmation is captured in the recording.** 
-
-###### Start recording to the Cloud
-
-- **I have started recording.** So, I'd like to confirm:
-
-Are you comfortable if I record my screen the audio as we talk today?" 
-
 
 ## Warm-up Questions 
 
-So, to get us started 
+Thank you for working through that with us.
 
-- Can you tell me briefly about your service history?
+We can get started with some questions. So, as a website designer and researcher I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times but feel free to stop and correct me at any time. 
 
-Thanks for sharing that. 
+- Can you tell me briefly about yourself? Anything you’d like me to know is fine.
+- Can you describe to me how you use your screen reader?"
 
-### Counseling service familiarity
+Thank you for sharing that.
 
-For the purpose of this session, we'll be mostly focused on 
-  
-  - Are you familiar with mental health or counseling services that the VA provides?
+## Discovery - Internet searching for a location
 
-If yes:
-  - can you tell me, briefly, about the services that you are familiar with?
-  - have you participated in any of these services?
-  
-Thank you for sharing that. 
-  
-### Internet search scenario questions
- 
-I'm going to give you a scenario to consider. 
+During our time together, we'll mostly be focused on finding VA locations online. 
 
-I'd like you to imagine that you've been going through a rough time. You're considering talking to a professional, maybe for some one on one counseling or maybe group counseling. In this scenario, imagine that this is something that you haven't done before so you're not really sure what type of resources are available to you. You decide to start your search on the internet.
+- Can you tell me of a recent time when you used the internet to find the location of a place that you needed to visit?
+   - What devices or technology did you use? 
+   - [probe if needed, specific app or website?]
 
-Imagining this situation,
+- Could you tell me about the last time you searched for a VA location?
+   - If yes, how did you go about finding it?
+   - How was that experience?
+   - What could have been better?
 
- - Can you talk me through how you might go about finding information like this on the internet?
- - Where would you search?
- - What words would you use to get you this type of information?
- 
- Ok, thank you for considering that. I'd like you to keep this scenario in mind for the next part.
- 
- ## Task #1 - Find Individual counseling services
- 
+- Have you ever used the VA.gov website?
+   - If yes, can you tell me briefly about the last time you used VA.gov?
+   - What could have been better?
 
 
+## TASKS
 
-#### Scenario Set up
+### Task 1: Getting to ‘Find a VA location’
 
-**Josh: This script should be updated to match a real web page, not a prototype** As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. And because it is just a prototype, it may not function quite as a normal website would.
+Next, I'm going to ask you to complete a task. 
 
-Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
+1. Could you please find your nearest VA?
 
-I'll give you a second to take the page in. [limit to a quick scan] **Josh: folks may naturally scan the page as screen reader users via the rotor or elements list. We'll need to give them more than a second to take it in and not make this a time-based activity**
+- If they use, Google, ask them: 
+   - Why?
+   - Can you show me how you do that?
+- Follow up with “How about on VA.gov, how might you find your nearest VA?”
+   - Can you show me how you do that?
+- If user needs help: 
+   - Direct them to “visit link: Find VA location”
+   - Have them click
 
-#### TASK 1a - one-on-one
+2. Let’s stop here for a moment. 
+   - How was finding that link for you?
+   - Was that different from what you expected?
+
+_Things to look for:_
+- What screen reader shortcuts did they use? 
+   - E.g. elements list, rotor, navigating by heading vs. navigating by tab
+
+### Task 2: Using ‘Find a VA location’ near current location
+
+[SEARCH]
+
+Next, I'm going to walk us through a scenario. I’d like you to imagine that you’ve just moved to where you live today and you’re looking for a dermatologist at your nearest VA. You can pretend that you don’t know where that is.	
+
+3. How might you do that on this page?	
+   - Can you try that now?
+   - How does this search experience work for you?
+   - What could be improved?
+
+_Things to look for:_
+- Does the participant enable their location [if available at time of study]?
+- Can the participant easily manipulate the inputs and dropdown menus
+- Does the participant encounter a type-ahead
+   - If so, what, if any, problems do they encounter?
 
 
-Given this scenario, imagine that you're 
+[RESULTS]
 
-- Can you tell me if that type of care or service is available here at the Orlando Vet Center?
-- Talk me through where you would expect to see that type of care?
-- If you wanted more information what would be your next step?
+4. Can you talk me through the location options? 
+   - How does this listing work for you?
+   - What could be improved?
 
-[narrate what the user did]
+_Things to look for:_
+- Does the participant use the list or map
+- Can the participant navigate backward and forward easily, no keyboard traps?
+- Is navigation order logical to the participant?
 
-- Tell me what's going through your mind
-- If yes, 
-   - How did this line up with your expectations 
-- If no,    
-   - Would it go by any other name?
-- What could be improved about the way this information is presented?
+### Task 3: Using ‘Find a VA location’ to plan ahead
+
+Next, I'm going to walk us through a different scenario. Imagine you are planning a trip and you’d like to know what the closest VA hospital would be from where you’ll be staying. It can be somewhere you’ve visited in the past, if that’s easier.
+
+5. How might you do that on this page?	
+   - Can you try that now?
+   - How did this search experience work for you?
+   - What could be improved in this scenario?
+
+_Things to look for:_
+- Did the participant notice the 'clear input' button? 
+- Did the participant use the 'clear input' button? 
+
+[If participant did NOT interact with the map/list]
+
+6. I’d like to point out the map/list feature to you	
+   - Did you notice this feature?
+   - Is there a reason that you didn’t use this feature?
+   - What could be improved to make this more useful?
 
 
-
-#### Things to watch for:
-
-- Where does the participant first click?
-
-- Does the participant know they can expand the accordions?
- 
-
- ## Task #2 - Understanding alternative locations
-
-For the next task I'd like for you to imagine that you say you're curious to know if the Orlando Vet Center has other locations.
-
-- What would your guess be based on the information provided?
-- Talk me through where you would expect to see that type of information?
-
-[Prompt user to navigate to the locations page if user has not navigated on their own]
-
-- In your own words, how would you describe the relationship between...
-
- ## Task #3 - Navigating back to main
-
-Let's imagine that you're interested in one of the services at the main location. 
-
-**Prompt:**  Go ahead and navigate to the main page for me.
-
-#### Things to watch for:
-
-• How does the participant navigate? Back button, breadcrumb, Linked location name?
-
-**Ready to visit?**
-
-Imagining that you're interested in one of the services at this location:
-
-- What would be your next step?
-
- 
-
-## General website questions
-
-We're almost done. I just have a few more questions left.
-
- - In your own words, how would you describe 
- 
-## Task #4 - Navigating to VA.gov
-
-Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
-
-- How would you do that?
-
-#### Things to watch for:
-• 
- 
 ## Post-Task Interview
+
+7. Are there any features or functionality missing for you on this page?
+   - Why? Why here?
+8. Are there any websites or apps that work well for you that do a better job of finding locations or searching?
+9. If you had a magic wand and could fix one thing about the features you interacted with today, what would it be?
 
 Those are all the questions that I had for you today. 
 
@@ -203,6 +218,6 @@ Those are all the questions that I had for you today.
 
 ## Thank-You and Closing 
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members. Shannon/Brian/Matthew will be following up with you directly.
 
 Great, well thank you so much again, and enjoy the rest of your day!

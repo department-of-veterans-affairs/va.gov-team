@@ -1,16 +1,30 @@
 # Initiative Brief Template
 #### Overview
-*Initiatives are opportunities to achieve a particular outcome. 
-There is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs; a product outline has multiple initiative briefs, which describe iterations.* 
-*Examples:*
- - *Product: On-site Search | Initiative: Type-ahead*
- - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims | Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
+*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.* 
+
+
+<details>
+ <Summary>Examples:</Summary>
+ 
+ - *Product: On-site Search* 
+   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md)*
+ - *Product: VA.gov Profile*
+   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
+ - *Product: Disability Claims*
+   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
+ 
+ </details>
+ 
 ---
 
 ## Outcome Summary
 *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
 Include the measurable outcome (i.e. metric) you're trying to improve.*
+
+**Related product(s)**\
+*Identify VA.gov product(s) this initiative affects.*
+
+- Product | [Link to product outline](#)
 
 ## Problem Statement
 *Describe the challenge / pain point you seek to address.:* 
@@ -30,8 +44,6 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
-
-
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
@@ -44,8 +56,9 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
-- _Include links to Domo or Google Analytics Dashboards/Reports_
+*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
+
+- KPI | Target | Link to data source
 
 
 <!--
@@ -70,7 +83,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions/Risks
-*Your Discovery (next section) should describe how you'll validate these items. Address risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
+*Your Discovery (next section) should describe how you'll validate these items. Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
 - Usability: 
 - Value: 
 - Feasibility:
@@ -84,26 +97,38 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
+## Prioritization
+*Describe and prioritize the competing hypotheses the team develops as a result of discovery accounting for effort, impact, value, confidence.*
+
 --- 
+
+## Collaboration Cycle
+*Use for any Collab Cycle tracking, questions.*
+
+- Kickoff ticket
+
+---
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+### Timeline
+
 - [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-## Initiative Launch Dates
+#### Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch?*
 ---
 
+<!--
 ## Solution Narrative
-
 ### Current Status
-
-### Key Decisions
+### Key Decisions 
+-->
 
 ---
    

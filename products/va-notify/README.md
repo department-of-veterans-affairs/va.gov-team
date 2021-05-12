@@ -104,7 +104,15 @@ ________________________________________________________________________________
 
 
 ## See Who We Are Working With
-This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
+* 526EZ (Application for Disability Compensation and Related Compensation Benefits) Email Confirmation - Sent automatically upon submission
+* Covid KMI (Keep Me Informed) Update for Veterans and Non-Veterans Beneficiaries - Sent periodically after sign up on va.gov
+* Covid KMI Email Sign-up Confirmation for Veterans and Non-Veterans Beneficiaries - Sent automatically upon sign up
+* Rx Pharmacy Shipment Update Pilot Text Message -  Sent upon shipment of prescriptions only for Asheville and Denver VAMCs however we are working on expansion nationally, text messagewill come from a local number currently
+* Debt Management Center - "You have new information" email - automatically sent after the Veteran calls the DMC for an update or information on their Debt status as well as may be sent if there is information in their account
+Lighthouse
+* Direct Deposit Email Confirmation - automatically sent when the Veteran updates their direct deposit account information on va.gov.
+* Application Connect & Disconnection from VA account - sent when the Veteran allows an app to access their health information and vice versa on va.gov.
+
 
 
 ## Recent Successes

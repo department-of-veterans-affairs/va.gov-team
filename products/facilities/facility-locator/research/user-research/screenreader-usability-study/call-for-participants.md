@@ -1,5 +1,12 @@
 # Veteran User Experience Research Studies - Invitation to Participate 
 
+## Headline
+
+### Blind Veterans Needed for Study
+#### We want to know how to make VA.gov work better for you
+
+
+## Body Copy
 
 The VA is recruiting blind/partially blind Veterans for a new study. If you have an acquired or congenital vision-related disability, the VA would like to understand how it can improve its websites for you. To qualify for this study, you must use one of the following assistive technologies (screen readers) for browsing the internet on a mobile phone, tablet or desktop computer device:
 
@@ -19,7 +26,7 @@ Note: All experience levels with screen readers are welcome from first time user
 ## About the research session:
 
 - The study will consist of testing web pages while using your screen reader from your personal device in a Zoom video conference.
-- You will not be required to be on-camera during the study session but you will be required  to share your device’s screen via Zoom.  
+- You will not be required to be on-camera during the study session but you will be required to share your device’s screen via Zoom.  
 - Participants who complete a study session will receive a thank-you gift for their time. 
 
 #### If you are interested in participating, please call Shannon Housel at: 540-513-8510

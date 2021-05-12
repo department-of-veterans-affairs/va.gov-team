@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 VEText is a platform for sending SMS messages to Veterans. These messages can be either one way or interactive. It was developed to lower no-show rates for Veterans’ health appointments by a team at the VA Loma Linda Healthcare system and rolled out nationally in 2018. 
 
@@ -7,7 +7,7 @@ While its primary use case is operational messaging, VEText’s interaction with
 In 2020 the VEText team moved to the OCTO to give it a national scope, and is now managed and supported by OCTO staff and contractors.
 
 
-================
+---
 
 # Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
@@ -19,8 +19,18 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 **William “Andy” Mccarty** | VA OCTO | Software Developer | Java / Middleware SQL / Jack of All Trades
 **Paras Shah** | Government CIO (DocMe360) | Advisor, VA Digital Notifications | Product Manager for Notifications Ecosystem
 **Justin Wowk** | Government CIO (DocMe360) | Project Manager | Process Management / BI / Analytics
+**Kennon Hulett** | Ad Hoc | Senior Product Manager |
+**Julia Snyder** | Ad Hoc | Senior UX Designer |
+**Kevin Duensing** | Ad Hoc | Software Engineer |
 
-================
+
+# Communication Channels & Additional Documentation
+- Slack: #notifications-vetext
+- [Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
+
+
+
+---
 
 # Projects
 
@@ -51,7 +61,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |[**Open Slot Management (OSM)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20655)|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
 
 
-================
+---
 
 # Pain Points (02/21)
 

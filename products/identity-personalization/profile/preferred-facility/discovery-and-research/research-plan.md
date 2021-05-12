@@ -2,7 +2,7 @@
 
 ## Goals	
 
-### What product & team are you doing this research for?	
+### What product & team are you doing this research for?
 
 Profile "My VA health facilities", Authenticated Experience
 
@@ -41,16 +41,16 @@ We'll re-validate the above questions, and hope to gain insights to these:
   - How do people understand this section of profile outside of the VAOS context?
 - Why is it valuable to Veterans to be able to manage these facilities in their profile?
 - How might they expect this information to be used outside of scheduling?
-- Do people understand why the facilities in their list are there?
-- Does the information we're displaying in the list provide sufficient context?
-
+- What types of appointments do Veterans expect to be able to make if they click on "schedule an appointment online"?
+- Do Veterans understand why the facilities in their list are there?
+- Do Veterans understand the impacts of editing their lists?
+- Is the information about each facility in the list sufficient?
+- Do people understand how the facilities are sorted?
 - Do people encounter any usability problems or confusion when going from VAOS to profile?
 
   - If a person marks a facility as preferred or current in VAOS, and then visits their profile, do they understand why their facility list has a facility marked as current and others are hidden?
   - If a Veteran leaves VAOS to update their profile, what expectations do they have for going back to schedule their appointment?
-
   - More questions once we see the VAOS flow...
-
 - Do we need any static content pages to support this section of profile?
 - **Bonus question to move from here to the conversation guide, if we test on mobile:** Are people easily able to navigate the profile now that the menu doesn't stick to the top of the page?
 
@@ -101,15 +101,15 @@ The VAOS team will be managing the external study (docs linked below).
 
 ## Team Roles	
 
-This applies to the internal study only:
+**This applies to the internal study only:**
 
 - Moderator:	Liz Lantz
 - Research guide writing and task development (usually but not always same as moderator):	Liz Lantz
 - Participant recruiting & screening:	Liz Lantz
 - Project point of contact:	Liz Lantz
-- Participant(s) for pilot test:	TBD
-- Note-takers:	TBD
-- Observers:	TBD
+- Participant(s) for pilot test:	Brian Lloyd
+- Note-takers:	Liz Lantz
+- Observers:	Auth experience team members
 
 ## Resources	
 

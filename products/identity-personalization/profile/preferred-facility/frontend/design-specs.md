@@ -15,6 +15,10 @@ This section of profile allows users to review and edit the list of facilities w
 - We will show this section to users who have VA health care.
 - Should appear in profile nav immediately after direct deposit (as shown in [desktop mock-ups](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i))
 
+## URL
+
+URL for this section should be [www.va.gov/profile/facilities/](http://www.va.gov/profile/facilities/) as noted in the [IA recommendations doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-profile-your-facilities.md#ia-structure-urls-and-breadcrumbs-).
+
 ## Design 
 
 Initial state, before a user has made any edits, desktop and mobile (use links above for latest versions):
@@ -124,3 +128,4 @@ Display copy in place of facility list + note.
 #### Copy
 
 > You’re registered at [number] facilities. But you don’t have any listed as your current facilities right now. You can edit this list to add your current facilities at any time.
+

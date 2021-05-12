@@ -21,24 +21,53 @@
 
 </details>
 
-## Wednesday, May 5
 
-* Nightwatch 
-  * Upcoming meeting with Testing Tools team to discuss implications 
-* Vet Center 
-  * centralized content (FAQs and Nat'l featured content)
-  * training for national editors
-  * Nearby Vet Centers is a problem for MVP
-    * 290 Vet Centers, ~20 Outstations, and ~70 MVCs are all unpublished, and if they are chosen as "Nearby" the FE won't build them (assuming it's filtering out unpublished content)
-     * Should FE allow unpublished Vet Centers, Outstations, and MVCs to go out on the Locations page, even if they are unpublished?
-     * [Issue to change logic #24312](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24312)
-  * Breadcrumbs: when to use array vs derive from url?
-VAMC 
-* Policies Page rollout (quick report)
+## Wednesday May 12
+
 * Meta tags for VAMC 
-  - Design guide update - [requested in #441](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/441)
+  - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
+* Sort order for services  
+* (Note: we noticed the field name for the local service description for Vet Centers is incorrect on the mural - can you update it, please?) DONE
+
+## Wednesday, May 5
+
+Report-back from nightwatch meeting
+ * Builds will continue to go out May 12, despite any lingering a11y issues
+ * Next steps: TBD, on Testing Tools team.
+ * A couple of outstanding Facilities issues... aria tag.
+ * CMS working on some duplication issues
+ * There are also _duplicate_ issue 
+
+VAMC 
+ * Policies Page rollout (quick report on [#5053](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053) 
+
+Vet Center 
+  * centralized content (FAQs and Nat'l featured content)
+  * training for national editors May 13 1pm ET
+  * training for local editors week of May 20 or 27? Factors:
+    * FE readiness? Centralized content and Staging review.
+    * Enough turnaround time from dry run
+    * Giving notice
+    * Decision: coming this Monday May 10. Make local editor training a stretch goal for Sprint 32, if not beginning of Sprint 33. 
+  * Vet Center Launch
+    * Given that VCs require bulk publishing (facilities plus Locations list plus Services), they should not be launched by the editors. VC editors should not receive Publisher role until after their VC is launched. 
+    * Bulk publishing will be done by Dave or Michelle TBD for MVP. 
+    * Should "In review" be used in the workflow? TBD. 
+  * Nearby Vet Centers is a problem for MVP
+    * 290 Vet Centers, ~20 Outstations, and ~70 MVCs are all unpublished, and if they are chosen as "Nearby" the FE won't build them (assuming it's filtering out unpublished content)
+    * Unpublished Vet Centers, Outstations, and MVCs currently show on the Locations page.
+    * Facilities FE issue post-MVP to change this to check if published, then show from Drupal, if not, get data from Lighthouse. 
+    * CMS issue to icebox to set up a content moderation workflow specific to products that still in development, to prevent accidental publishing. 
+  * Breadcrumbs: when to use array vs derive from url?
+    * Breadcrumb data needs to come from CMS.
+      * In many cases, CMS produces data with its menu system, and produces an array including Menu items labels and links.
+      * But some products (and some content types) do not have menu items in the content layer: Vet Center, certain VAMC content types (Stories, Events, News releases, Staff profiles).
+      * CMS epic is necessary for solving for a variety of scenarios 
+      * There will be follow-up FE once that's in place. 
+  * When "Type of care" is empty for a health service added to a Vet Center, display under "Other services."
+
 
 
 ## Wednesday, April 28

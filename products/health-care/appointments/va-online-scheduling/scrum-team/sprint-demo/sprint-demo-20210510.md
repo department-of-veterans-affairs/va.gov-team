@@ -1,21 +1,31 @@
 # VAOS Sprint 38 (a & b) Demo
-
+---
 ## Agenda
 
 ### Welcome
 - Lauren - Agenda (no deck)
 
 ### Backend
-- {Name}
-  - {Topic}
+- Brad
+  - Surface eligibility enrollment data to vets-website
+  - VAOS Service Integration
 
 ### Frontend
 - Jennie
   - #23478 update design and state changes on appointment list cards
   
-- {Name}
-  - {Topic}
-  
+- Tony
+  - Calendar ICS file details
+
+- Jeff
+  - Update direct schedule confirmation pages (demo for Kevin)
+  - Announce appointment list preference change to screen reader
+  - [Unenrolled POC] Set up scaffolding
+  - Create functions to fetch VATS settings in Location service
+  - Refactor eligibility to work better with VAOS service approach
+
+
+---
 
 ## Rules of engagement
 - Camera on - let's be a real audience for our presenters.

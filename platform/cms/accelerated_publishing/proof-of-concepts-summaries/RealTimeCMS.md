@@ -109,6 +109,7 @@ https://web-gni0ie6qqhptaqjc8o8xfqe8qft5jga4.ci.cms.va.gov
 <summary>
 To determine approximate level of effort for migrating existing Metalsmith templates into Drupal Twig template system for coupled CMS architecture.
 Ticket: [#5137](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5137)
+POC codebase: https://github.com/ethanteague/va.gov-cms/tree/VACMS-5137-bhub-poc-et
 
 <details>
 
