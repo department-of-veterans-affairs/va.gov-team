@@ -4,16 +4,16 @@
 
 ***Priority 1's - Required for MVP launch***
 
-**1. Audience tags**
+**1. Audience tags** DONE! early May 2021
 - Need to make specifying audience tags more rigid -- currently, those are free-form leading too unexpected outcomes (e.g. authors adding multiple audiences in one field -- e.g. *Spouses, Children and any one who cares for a Veteran*
 - Should we use R&S audiences as selectable options?  Or for now, just limit one word per field?
 - Should we allow the option to not specify "This Page For"? (This, to avoid the "exlusionary" concern)
 
-**2. Create more visual guidance within the CLP -- or, alternatively a content build doc template outside the CLP -- to make the build process easier, more intutive**
+**2. Create more visual guidance within the CLP -- or, alternatively a content build doc template outside the CLP -- to make the build process easier, more intutive** DONE - template in Microsoft word.
 - Should we replace the illustrated/wireframe example in each panel with a screenshot image using Mission Act?
 - And/or, should we create a CLP Content template ([example Word doc here](https://docs.google.com/document/d/1fo532_Q9fd5VV_d5E4WVemLDOQANdjJCi-oARStsZ6w/)) which would enable stakeholders to effectively pre-build their CLP in easiest, collaborative way and finalize before the build.
 
-**3. Provide the ability to share a preview of the CLP with internal (VPN) VA stakeholders**
+**3. Provide the ability to share a preview of the CLP with internal (VPN) VA stakeholders** DONE, preview works within network. 
 - This would support stakeholder review and/or approval before publication
 - Use password-protected approach in staging as we are doing with Mission Act now
 -
@@ -31,8 +31,15 @@
 
 ***Priority 3's - Ice Box***
 
+- Allow CMS-managed PDFs in "Downloadable Resources" segment
 - Explore implications of allowing the user to make Video a Hero option
 - Consider the addition of a **What's on this Page** Table of Contents component in Panel 1 or 2 with hotlinks
+
+
+See also [CMS team synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/campaign-landing-page/beta-test-synthesis.md) that focus more on editorial experience. 
+
+
+
 
 
 ---------------------------
