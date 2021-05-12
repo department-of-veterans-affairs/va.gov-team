@@ -60,7 +60,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Description/Notes | You need to join this video meeting from:<br>{facility}<br>{address}<br>{phone number}<br><br>You’ll be meeting with {name of provider}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to VAOS homepage}>” |
 
 
-### VA Video Connect at ATLAS
+### VA Video Connect at ATLAS location
 
 | Field | Copy |
 | ----- | ---- |
@@ -68,7 +68,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location | {ATLAS facility address} |
-| Description/Notes | Join this video meeting from this ATLAS (non-VA) location:<br>{ATLAS facility}<br>{ATLAS address}<br>Your appointment code is {appt. code}. Use this code to find your appointment on the computer at {ATLAS location}.<br><br>You’ll be meeting with {name of provider} |
+| Description/Notes | Join this video meeting from this ATLAS (non-VA) location:<br>{ATLAS address}<br>Your appointment code is {appt. code}. Use this code to find your appointment on the computer at {ATLAS location}.<br><br>You’ll be meeting with {name of provider} |
 
 
 ### VA Video Connect on VA device
@@ -139,7 +139,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Description/Notes | You need to join this video meeting from:<br>{facility}<br>{address}<br>{phone number}<br><br>You’ll be meeting with {name of provider}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to appt details page}>” |
 
 
-### VA Video Connect at ATLAS
+### VA Video Connect at ATLAS location
 
 | Field | Copy |
 | ----- | ---- |
@@ -147,7 +147,7 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Start | {appointment date} {appointment time} |
 | End | {appointment date} {appointment time + duration} |
 | Location | {ATLAS facility address} |
-| Description/Notes | Join this video meeting from this ATLAS (non-VA) location:<br>{ATLAS facility}<br>{ATLAS address}<br>Your appointment code is {appt. code}. Use this code to find your appointment on the computer at {ATLAS location}.<br><br>You’ll be meeting with {name of provider} |
+| Description/Notes | Join this video meeting from this ATLAS (non-VA) location:<br>{ATLAS address}<br>Your appointment code is {appt. code}. Use this code to find your appointment on the computer at {ATLAS location}.<br><br>You’ll be meeting with {name of provider} |
 
 
 ### VA Video Connect on VA device
