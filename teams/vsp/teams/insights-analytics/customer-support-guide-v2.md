@@ -1,13 +1,13 @@
 # Google Analytics & Tag Manager Customer Support Guide v2
 
 ##### Table of Contents
-1. Initial Ticket Review, Cleanup & Triage
+1. [Initial Ticket Review, Cleanup, and Triage](#initial-ticket-review-cleanup-and-triage)
 2. Data Layer Specification / Design 
 3. Google Tag Manager and GA Configuration
 4. QA Testing + Publishing 
 
 
-## 1. Initial Ticket Review, Cleanup & Triage
+### 1. Initial Ticket Review, Cleanup, and Triage
 #### _BEFORE you start any hands-on work on a GH ticket, be sure the following have been executed..._
 
 - [ ] Start Toggl time entry for ticket number using our convention
