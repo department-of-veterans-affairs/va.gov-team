@@ -21,7 +21,7 @@ _This list will be updated with links to documentation as needed_
 - [ ] Builds uploaded & approved by Apple & Google
 
 ## Launch Preparations
-- [ ] User Acceptance Testing
+- [ ] [User Acceptance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)
 - [ ] Internal Communications Plan
 - [ ] External Communications Plan (including static page)
 - [ ] Pre-mortem Exercise
