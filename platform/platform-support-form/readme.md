@@ -7,5 +7,5 @@
 <h3 >Documentation</h3>
 <p>User guide </p>
 <h3 >Point of contact</h3>
-<p>[#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+Platform Service Design Team
 
