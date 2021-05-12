@@ -50,7 +50,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever used the GI Bill Comparison Tool before?
     - If yes, what did you use it for?
 
-## First Task: Location Search - 20 minutes
+## Initial Take - 5 minutes ##
+This is the GI Bill Comparison Tool, which allows you to see what education benefits you can receive at various institutions.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
+
+## First Task: Location Search - 15 minutes
 
 - Let's say you recently moved just outside of **San Antonio, TX** and you're curious what education options are available to you. You aren't sure what you want to study, but wanted to see what was in the area.  How would you use the Comparison Tool to see what opportunities are available in your area?  
 
@@ -89,10 +92,11 @@ _Prompt_ To help narrow down your search, you're interested in institutions that
  - How did you think that went?
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding educational institutions?
  - What do you think of how the map showed your results?
+ - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
 
-## Third Task: Find a Campus - 10 minutes
+## Third Task: Find a Campus - 5 minutes
 
-- Before you moved to San Antonio, you took a few classes at ECPI University and were close to completing an Associate's degree.  You want to see if there is a campus in your area so you can finish your degree.  How would you use the Comparison Tool to determine if ECPI has a campus in your area? 
+- Before you moved to San Antonio, you took a few classes at **ECPI University** and were close to completing an Associate's degree.  You want to see if there is a campus in your area so you can finish your degree.  How would you use the Comparison Tool to determine if **ECPI University** has a campus in your area? 
 
 ### Things to watch for:
 
