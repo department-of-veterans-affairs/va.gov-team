@@ -337,8 +337,7 @@ Compare the form data against a JSON schema.
 
 
 ### Code Location
-Formulate will live in its own repo. The documentation for it will be located at
-`docs/` by the code.
+Formulate will live in its own repo.
 
 ### Documentation
 Formulate documentation will follow the [diataxis framework](https://diataxis.fr/).
