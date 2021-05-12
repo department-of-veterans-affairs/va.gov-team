@@ -84,3 +84,6 @@ Please list the people who will be serving in each role.
 
 * [UXPin Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages//simulate/no-panels?mode=i)
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/conversation-guide.md)
+
+
+*Reviewed and approved by Lauren Alexanderson on 05/12/2021*
