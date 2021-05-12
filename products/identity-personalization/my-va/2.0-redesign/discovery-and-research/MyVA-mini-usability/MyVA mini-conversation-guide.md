@@ -39,6 +39,43 @@ Before we start, a few things I want to mention:
 
 ## Questions
 
+**IF A USER HAS DISABILITY RATING**
+
+Okay great, from here you are looking to see what your disability rating is.
+
+1. Can you walk me through how you would do that?
+2. No need to click on it, but what would you expect to happen if you clicked on the disability rating link?
+3. Was it easy or hard to find your disability rating? Why?
+
+**IF A USER HAS CLAIMS**
+
+1. You're looking to see your most recent claim update, how would you do that?
+2. You're looking to see all of your current claims and appeals and you've just landed on this page. Can you walk me through how you'd do that?
+3. What's the most important thing we could tell you about your claims and appeals?
+4. What is confusing about this section?
+
+**IF A USER HAS HEALTH CARE**
+
+1. From here, if you wanted to schedule an a visit with your doctor at the VA, what would you do?
+2. How many new secure messages from your doctor do you have?
+3. What's the most important thing we could tell you about your health care?
+4. What information is missing in this section?
+5. What is confusing about this section?
+
+**IF A USER DOES NOT HAVE HEALTH CARE**
+
+1. From here, if you were interested in applying for VA health care, how would you do that?
+
+**APPLY FOR VA BENEFITS SECTION (ALL USERS)**
+
+1. Imagine you are interested in applying for additional VA benefits, how would you do that?
+2. Why do you think the benefits in the 'Benefits you might be interested' section are showing vs some other ones?
+3. What's the most important thing we could tell you about your benefits?
+4. What information is missing in this section?
+5. What is confusing about this section?
+
+### Time permitting
+
 **ALL PARTICIPANTS**
 
 1. Talk to me about what you see on this page and what you can do here.
@@ -48,21 +85,6 @@ Before we start, a few things I want to mention:
 5. What is confusing about this page?
 6. What is missing on this page?
 7. Do you have any additional thoughts or questions for me?
-
-### Time permitting
-
-**IF A USER HAS CLAIMS**
-
-1. You're looking to see all of your current claims and appeals and you've just landed on this page. Can you walk me through how you'd do that?
-2. What's the most important thing we could tell you about your claims and appeals?
-3. What is confusing about this section?
-
-**IF A USER HAS HEALTH CARE**
-
-1. From here, if you wanted to schedule an a visit with your doctor at the VA, what would you do?
-2. How many new secure messages from your doctor do you have?
-3. What's the most important thing we could tell you about your health care?
-4. What is confusing about this section?
 
 
 ### Things to watch for:
