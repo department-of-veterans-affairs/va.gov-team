@@ -9,9 +9,9 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/) | No text | TBD | --- |
-| Concept Mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/comment/sitemap,comments) | Using prototype screens | TBD | --- |
-| Prototype | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/simulate/sitemap?mode=f) | Set to full screen | TBD | --- |
+| Feature Flow Diagrams | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/) | No text | 4/19 | --- |
+| Concept Mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/comment/sitemap,comments) | Using prototype screens | 5/12 | --- |
+| Prototype | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/simulate/sitemap?mode=f) | Set to full screen | 5/12 | --- |
 
 #### Collaboration cycle touchpoints
 
