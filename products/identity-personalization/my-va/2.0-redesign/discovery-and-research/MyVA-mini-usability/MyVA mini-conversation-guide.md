@@ -39,6 +39,9 @@ Before we start, a few things I want to mention:
 
 ## Questions
 
+1. Talk to me about what you see on this page and what you can do here.
+  - If you needed to make a change to [section] how would you do that?
+
 **IF A USER HAS DISABILITY RATING**
 
 Okay great, from here you are looking to see what your disability rating is.
@@ -74,17 +77,20 @@ Okay great, from here you are looking to see what your disability rating is.
 4. What information is missing in this section?
 5. What is confusing about this section?
 
+**ALL PARTICIPANTS**
+
+1. What met your expectations about this page?
+2. What did NOT meet your expectations about this page?
+
 ### Time permitting
 
 **ALL PARTICIPANTS**
 
-1. Talk to me about what you see on this page and what you can do here.
-  - If you needed to make a change to [section] how would you do that?
-3. What would you use this page for?
-4. What would make this page more useful to you?
-5. What is confusing about this page?
-6. What is missing on this page?
-7. Do you have any additional thoughts or questions for me?
+1. What would you use this page for?
+2. What would make this page more useful to you?
+3. What is confusing about this page?
+4. What is missing on this page?
+5. Do you have any additional thoughts or questions for me?
 
 
 ### Things to watch for:
