@@ -34,7 +34,7 @@ Currently OAuth tokens for VA.gov will not work within Lighthouse's OAuth scope.
 **Answer:** We have no data on future access at the moment.  We only see anyone who is currently accredited publically.    
 
 ## OGC Data and How to Get It
-It was requested for an API to be created by OGC for better management of their data and a Saleforce implementation was considered but that never came to fruition.  Representative data on the OGC accreditation site (https://www.va.gov/ogc/apps/accreditation/index.asp) is simply downloaded based on parameters selected.  THese files are initally downlaoded as *.asp files but can be opened in Excel.
+It was requested for an API to be created by OGC for better management of their data and a Saleforce implementation was considered but that never came to fruition.  Representative data on the OGC accreditation site (https://www.va.gov/ogc/apps/accreditation/index.asp) is simply downloaded based on parameters selected.  These files are initally downloaded as *.asp files but can be opened in Excel.
 
 In total there are at least 30,000 entities.
 
