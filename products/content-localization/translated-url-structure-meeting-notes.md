@@ -1,17 +1,18 @@
 Discussion re: URL Structure for Translated Pages
 
 •	Today we use the following URL structure for our Corona FAQ and Covid-19 pages:
-o	https://www.va.gov/coronavirus-veteran-frequently-asked-uestions-esp/
-o	https://www.va.gov/coronavirus-veteran-frequently-asked-questions-tag/ 
-o	https://www.va.gov/health-care/covid-19-vaccine-esp/ 
-o	https://www.va.gov/health-care/covid-19-vaccine-tag/ 
+- https://www.va.gov/coronavirus-veteran-frequently-asked-uestions-esp/
+-	https://www.va.gov/coronavirus-veteran-frequently-asked-questions-tag/ 
+-	https://www.va.gov/health-care/covid-19-vaccine-esp/ 
+-	https://www.va.gov/health-care/covid-19-vaccine-tag/ 
+-	
 •	Some options for Language Assistance and Resource Pages include (note: “support” is now “assistance”)
-o	www.va.gov/spanish-language-assistance-and-resources
-o	www.va.gov/espanol-language-assistance-and-resources/
-o	www.va.gov/apoyo-y-recursos-en-espanol/ (would need translation validation)
-o	Mozilla guidelines uses international language codes (“es” for Spanish)
-	www.va.gov/es-support-and-resources/
-	www.va.gov/support-and-resources-es/ 
+- www.va.gov/spanish-language-assistance-and-resources
+- www.va.gov/espanol-language-assistance-and-resources/
+-	www.va.gov/apoyo-y-recursos-en-espanol/ (would need translation validation)
+- Mozilla guidelines uses international language codes (“es” for Spanish)
+     -	www.va.gov/es-support-and-resources/
+     -	www.va.gov/support-and-resources-es/ 
 •	Guiding principles:
 o	URLs should closely match H1s
 o	Use plain language
