@@ -1,8 +1,11 @@
-# Customer support guidelines
+# Customer Support General Guidelines
 
 *Who this is for:* This documentation is to support VSP Analytics & Insights with guidelines as they work through customer support requests.
 
 Resources: Please see the [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md) for prioritization and the [team RACI sheet](https://docs.google.com/spreadsheets/d/1JdNPKo9y-4o2c_HaWIne2L6H310fhRn2M51e5NvHdxE/edit#gid=0) for specific responsibilities.
+
+### 🔴  For more detailed steps and procedures on Google Tag Manager and Google Analytics customer support processes, **please see [version 2 of this document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md).**
+
 
 ---
 
