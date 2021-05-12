@@ -2,7 +2,7 @@
 
 ## Background
 
-The current Facility Locator tool does not contain an 'emergency care' option. The new option "In-network emergency care" is being added to the 'Facility type' search dropdown. Additional search options are being added to the 'Service type' dropdown, returning results that include a combined list of VA and non-VA locations, as well as separate VA, and non-VA, results lists.
+The current Facility Locator tool does not contain an 'emergency care' option. The new option "In-network emergency care" is being added to the 'Facility type' search dropdown. "In-network" refers only to VA locations and community partners, and "in-network" search results are not comprehensive: there may be additional facilities that do not appear in the list. Additional search options are being added to the 'Service type' dropdown, returning results that include a combined list of VA and non-VA locations, as well as separate VA, and non-VA, results lists.
 
 ## Goals
 The goal of this study is to validate the usability and design of new facility locator search results that will combine cards for VA emergency care and community emergency care. The study will validate that the new designs will allow:
@@ -14,8 +14,7 @@ The goal of this study is to validate the usability and design of new facility l
 
 - Veterans want to search for a single list, containing both VA and community emergency care options
 - Veterans understand they can go to any local emergency room, not just those in the results list
-- Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and may not represent all emergency options available to them.
-- The facility type label "In-network emergency care" helps Veterans understand the results list is not comprehensive
+- Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 - The facility type label "In-network emergency care" does not introduce confusion about other facility types
 - Veterans understand how to learn more about community care emergency benefit (explained elsewhere: https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
 - Participants will understand what to do in case of emergency.
