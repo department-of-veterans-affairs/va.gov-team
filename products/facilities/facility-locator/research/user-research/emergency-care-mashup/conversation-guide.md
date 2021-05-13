@@ -17,7 +17,9 @@ Today we're going to talk about finding healthcare on the VA.gov website.
 
 Before we start, a few things I want to mention:
 
-* **This entire session should take about 45 minutes**.
+* **This entire session should take about 45 minutes, but if we take less or a little more time, that's totally fine**.
+* **There is no need to turn on your video - audio only is fine**
+
 * **First, I'll ask you a few warm up questions to get us started**.
 * **Then, I'll be sharing a link to a prototype and ask you to share your screen. We'll look at a protoype together and I will ask you questions about it**.
   * This is a demo tool that may not function exactly the way you expect
@@ -48,6 +50,7 @@ Before we start, a few things I want to mention:
 
 I'm going to share a link to a prototype here in the zoom chat window for you to click on. 
 Then I'll want you to share your screen so that I can follow along and see what you see.
+Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
 
 ### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
@@ -95,18 +98,32 @@ Let's say you want to search for [All / VA / Community locations] in your area.
 
 ### Task 2
 
-#### PROTOTYPE: User understands the different search options
+#### PROTOTYPE: User understands the specific search options
 #### Questions:
 
-What does the distinction between 'Facility type' and 'Service type' mean to you?
+When you see the searh heading, 'Facilty type', what does this mean to you?
 
 For this task, under the 'Facility type' menu, I'd like you to choose 'In-network emergency care'.
   - When you see the phrase 'In-network', what does that mean to you?
   - When you see "emergency care", what kinds of facilities might you expect to see in the search results?
+  - [Open 'Facility type' menu] When you see "urgent care" what kinds of facilities might you expect to see in the search results?
+  - What the distinction between 'emergency care' and 'urgent care' mean to you?
+
+When you see the search heading, 'Service type', what does this mean to you?
+
+[Set the 'Facility type' to 'In-network emergency care']
 
 Open the 'Service type' menu, talk me through what the different options mean to you.
    - Does the distinction between 'Service type' options matter to you?
    - What matters about the distinction?
+
+[When a list contains community partners & their benefit notices]:
+
+Based on your search results, if you wanted to learn more about your benefits at a particular location, how might you do that?
+
+[Point out community partner benefit notice]:
+
+When you see this notice, what does this mean to you?
 
 ## Post-Task Interview - 5 minutes
 
