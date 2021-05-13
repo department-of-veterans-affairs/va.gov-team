@@ -9,7 +9,7 @@ For additional reference see [Accessibility staging review prepartion documentat
 |Axe scans included in end-to-end (e2e) tests | [read more about e2e tests with axe checks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)|  |  |
 | Color tests for proper contrast and colorblindness | [read more about contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)|Yes|Passed|Tressa Furner|
 | Content zoomed to 200%, 300%, 400% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)|Yes, Firefox, chrome, safari  | Passed - [known error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24647)  | Tressa Furner|
-| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)|  |  |
+| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)|Yes  |Pass  |Tressa Furner|
 
 ## Advanced Accessibility Tests
 
