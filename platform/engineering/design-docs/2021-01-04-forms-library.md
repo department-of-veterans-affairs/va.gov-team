@@ -445,7 +445,7 @@ development builds similar to React. Mistakes it will attempt to catch include:
   - This is probably because the name (path to the data) is incorrect
 - Missing or invalid props
 
-#### Context debugger
+#### Debugger object
 In development mode, the `Router` will attach a `Formulate` object to `window`.
 From the browser console, engineers will be able to call functions on
 `window.Formulate` to:
