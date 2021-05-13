@@ -14,11 +14,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Jen and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding schools on the GI Bill Comparison Tool. 
@@ -92,6 +87,7 @@ _Prompt_ To help narrow down your search, you're interested in institutions that
  - How did you think that went?
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding educational institutions?
  - What do you think of how the map showed your results?
+ - For you personally, how far would you be willing to commute to go to school?
  - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
 
 ## Third Task: Find a Campus - 5 minutes
@@ -107,6 +103,7 @@ _Prompt_ To help narrow down your search, you're interested in institutions that
 ### Upon task completion:
  - How did you think that went?
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding educational institutions?
+ - How do you think these results were sorted?
  
 
 ## Thank-You and Closing - X minutes
