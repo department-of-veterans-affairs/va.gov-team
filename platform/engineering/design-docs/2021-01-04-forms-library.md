@@ -446,6 +446,11 @@ is a great place to put tips and recipes for debugging. If this section grows
 too large, the mechanisms can be summarized here and individual tips can be
 moved to another document._
 
+Formulate will try to catch developer mistakes by emitting console logs in
+development builds similar to React. Mistakes it will attempt to catch include:
+- `FieldReview` components with no associated form data
+  - This is probably because the name (path to the data) is incorrect
+
 ### Caveats
 <!--
 Gotchas, differences between the design and implementation, other potential
