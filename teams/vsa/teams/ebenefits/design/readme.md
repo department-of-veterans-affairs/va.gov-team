@@ -1,19 +1,66 @@
 # eBenefits Migration Design
 
 ### Features
-- Rated Disabilities
-- View Dependents
-- View Payments
-- VA Form 21-686c/674 (Add/remove dependents)
-- VA Form 28-8832 (Chapter 36/PCPG)
-- VA Form 28-1900 (Chapter 31/VR&E)
-- VA form 21-0538 (Dependency Verification)
-- More...
 
-### Content Guidance Links
+| Feature | AKA | Status |
+| :--- | :--- | :--- |
+| Rated Disabilities | | First iteration in production |
+| View Dependents | | First iteration in production |
+| View Payments | Payment History | First iteration in production |
+| VA Form 21-686c/674 | Add/remove dependents | In development |
+| VA Form 28-8832 | Chapter 36/PCPG | First iteration in production |
+| VA Form 28-1900 | Chapter 31, CH31, VR&E | First iteration in production |
+| VA form 21-0538 | Dependency Verification | In development |
+| VA Form 26-1880 | Certificate of Eligibility, COE, LGY | Developmrnt started |
+| VA Form 21-22/a | Appoint Representative, POA | In design |
+| Search for Representative | | In design |
+| View Representative | | In design |
+| Change Direct Deposit (Education) | DD-EDU | In production |
+
+---
+
+## Disciplines
+
+### Research
+
+### Design
+- [VA.gov Design System](https://design.va.gov/)
+- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
+- [VA Design Library Sketch file]()
+- [USDS Design System](https://designsystem.digital.gov/)
+
+### Content
 - [Content Writing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
 - [Messaging Directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 - [Error Standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Content%20Style%20Guide.md)
+
+### Accessibility (Section 508)
+
+---
+
+## Process
+
+### Collaboration cycle
+
+---
+
+## Team
+
+#### Team members
+
+- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
+- Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
+- Micah Chiang | micah@adhocteam.us -- Frontend engineer
+- Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
+- James Adams | jadams@governmentcio.com -- Designer
+- Matt Self | matt.self2@va.gov -- Product Owner
+- Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
+
+---
+
+<!--
+### Content Guidance Links
+
 
 ### Style Guidance Links
 - [VA.gov Design System](https://design.va.gov/)
@@ -25,6 +72,7 @@
 - [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 - [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
 - [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
+-->
 
 ### Feature Migration Approach
 
