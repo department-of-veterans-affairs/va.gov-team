@@ -608,7 +608,6 @@ system to address their needs._
 
 ### Future Work
 
-- Code splitting
 - "Array pages" on objects, where the URL contains object property names
 
 ### Revision History
