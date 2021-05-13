@@ -1,7 +1,7 @@
 # Research Report from Baseline Wayfinding on VA.gov (April-May, 2021)
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
 
-Cindy Merrill (cindy.merrill@adhocteam.us), 05/13/2021
+Cindy Merrill (cindy.merrill@adhocteam.us), 05/18/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-plan.md).
 
@@ -95,6 +95,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
     1. To change direct deposit: "Top 4" box Disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online ==> *Consider adding "Update direct deposit" link to the "top 4" boxes.*
     2. To change direct deposit: "Top 4" box Records > Change your address > Change your VA direct deposit and contact information
     3. For proof of income: Over half of participants went to "View your payment history". Is there a way to show proof of income from the payment history page? One participant said that "Benefits letters" wasn't the right place to go. Another participant thought that "View payment history" sounded like what they paid the VA, not what the VA paid them.
+    4. For message doctor: One participant was confused about why they would message their doctor from VA.gov when they know they have to go to MHV to do this, as their doctor's office told them. They didn't realize that they could do this from VA.gov.
+    5. One participant went to the facility locator to find their doctor's office phone number or contact them online. Later they found secure messaging in the "top 4" box.
+
 
 1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** This was true for both mobile and desktop users. One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
     1. Most participants (77%) didn't find the *Resources and support* page on their own, though about half managed to find the travel reimbursement direct deposit article via browsing or searching from the VA.gov home page. The participants who were shown this page wanted easier access to it from the top of the home page.
