@@ -3,7 +3,7 @@
 | Artifact | Link | Notes |
 |------------------|-----------------|-----------------|
 | Product Outline | [Project Outline: My VA Dashboard 2.0 Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) | |
-| Release plan | | |
+| Release plan | DRAFT [My VA Dashboard 2.0 Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Release-Plan.md) | |
 | Tool/feature in staging |[staging.va.gov/my-va](https://staging.va.gov/my-va/) | |
 | Test user info |[My VA test cases and users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md) | |
 | Content brief (if applicable)| NA | |
