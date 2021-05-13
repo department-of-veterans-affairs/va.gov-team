@@ -590,7 +590,13 @@ supplied in a React context.
 
 #### Milestone: Do something with Save in Progress
 
-#### Documentation
+#### Milestone: Tutorials
+
+#### Milestone: How-to guides
+
+#### Milestone: API reference
+
+#### Milestone: Explanations
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as
