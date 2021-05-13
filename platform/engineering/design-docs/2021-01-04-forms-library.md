@@ -293,7 +293,7 @@ builder sub-module intends to make using the design system with Formik simpler.
 Pieces of the save-in-progress are:
 - `SaveInProgress` component
   - Adds `SiPIndicator` to each page
-  - Auto-saves the form
+  - Provides functions to save and load the form
 - `SiPIndicator` component
   - Allows users to manually save the form
   - Shows the form save state (saved, saving, error, etc.)
@@ -306,24 +306,19 @@ Pieces of the save-in-progress are:
 functionality for a form.
 
 **Usage requirements:**
-This component must be wrap the `Router` or `Formik` components so we can pass
-an `autoSaveForm` prop to it to be hooked into `Formik`'s `handleChange`
-callback.
+This component must be wrap the `Router` or `Formik` components so we can pass a
+`saveForm` prop to it to be hooked into `Formik`'s `handleChange` callback.
 
 **Responsibilities:**
 - Add the `SiPIndicator` to the bottom of each form page
 - Auto-save the form when form data is updated
-- Pass an `autoSaveForm` prop to its children
-- Save the form when `autoSaveForm` is called
-
-**Usage example:**
-```jsx
-<SaveInProgress>
-  {autoSaveForm => (
-    <Formik handleChange={autoSaveForm} />
-  )}
-</SaveInProgress>
-```
+- Pass a `saveForm` prop to its children
+  - Save the form when `saveForm` is called
+- Pass a `loadForm` prop to its children
+  - Call the supplied endpoint with the supplied arguments
+  - Set the form data to the form data in the result
+  - Perform any data migrations applicable
+  - Navigate to the page supplied by the result
 
 ##### Component: `SiPIndicator`
 **TODO:** Rename this thing. Ideas?
