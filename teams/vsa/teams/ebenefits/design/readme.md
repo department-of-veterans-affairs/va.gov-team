@@ -1,6 +1,6 @@
 # eBenefits Migration Design
 
-### Features
+## Features
 
 | Feature | AKA | Status |
 | :--- | :--- | :--- |
