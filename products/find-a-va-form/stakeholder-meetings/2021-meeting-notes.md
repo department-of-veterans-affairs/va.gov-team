@@ -1,5 +1,28 @@
-
 # 2021 Stakeholder Meeting Notes
+
+## 2021-05-13 Monthly Meeting with Find a VA Form Stakeholders
+### Attendees
+- John Hashimoto
+- Marci McGuire
+
+### Metrics related to slide deck
+#### Pageviews
+- Overall pageviews on VA.gov - down 1.40%
+- myhealthevet down 6%
+- eBenefits pageviews down 4%
+- Facilities down 32%
+- Bounce rate across VA.gov - 42%
+
+#### Browsers used (Re: PDF instructions to use IE)
+- Chrome (49%)
+- Edge (20%)
+- Safari (18%)
+- Internet Explorer (8%)
+- Firefox (3%)
+
+
+
+<hr>
 
 ## 2021-05-04 *Form Fundamentals* Meeting with Kayce White VBAVACO
 
