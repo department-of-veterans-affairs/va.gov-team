@@ -35,6 +35,8 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
+- What is your military status (e.g. Veteran, child, spouse)?
+
 - Are you currently using or have you ever used your education benefits?
      - If yes, which benefit are you using?
          - When did you start school? Where did you go?
