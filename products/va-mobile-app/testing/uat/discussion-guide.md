@@ -21,11 +21,7 @@ Great. Before we start, there are a few more things I want to mention:
 - When you are signed into the app, it will display your Appointment, Secure Messaging, Claims and Appeal, and VA.gov Profile information if you have it. I will ask you to navigate to different sections of the app to ensure data you may have in these areas is loading as expected. For example, I will ask you to do things like confirm that your personal information like date of birth, your Direct Deposit information, or things like your Secure Messages are correct. And since you will be sharing your phone we may see other personal things like other app notifications you have set (for example if you get any text messages and your email). 
     - Are you comfortable sharing your screen with your personal information such as (birth date, address, health info) on it today with us on this call? 
     - Do you have any questions about this?
-- If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time.
-- Lastly, I would like to record our conversation. We ask to record because it allows us to go back after our call and confirm that we have captured what you have said accurately. The recordings are not shared with anyone outside of this call, and we delete them a few weeks after the session. As I mentioned earlier, I will have you share your screen at various times and ask you to show us how you manage benefits online. This means that the information on your screen would be part of the recording. 
-    - Do you have any questions about this?
-    - Are you ok if we record today?
-        - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
+- If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time. 
 
 Those are all the logistics. Do you have any questions for me before we get started?
 
