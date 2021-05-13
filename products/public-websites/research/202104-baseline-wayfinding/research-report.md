@@ -84,17 +84,19 @@ The 5-10 top findings from your study should be listed here. Write your findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
 3. Most participants used the links in the "top 4" boxes extensively, finding them useful to complete the tasks.
-4. Half of the participants used the links in the left nav on content pages. These participants were all desktop users, not mobile. 
+4. Half of the participants (all desktop users, not mobile) used the links in the left nav on content pages. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MHV, which has only a small number of options at the top of the home page.
 
 ### Wayfinding Issues
 1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA).  **Navigation paths to complete the tasks were not always straightforward**, which helps explain why not everyone was successful. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
     1. For travel reimbursement direct deposit: 2 people were looking for a link about travel in the "top 4" Health care box or under VA Benefits and Health Care dropdown > Health care. ==> *Consider adding "Travel pay reimbursement" to both locations under health care and/or disability.*
     1. For travel reimbursement direct deposit: 2 people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. 
+    1. For medical records: 3 people missed the CTA at the top of the page and got confused by Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. 2 people thought that medical records would be under health care (not records). ==> Consider adding medical records to the health care "top 4" box.
     1. To change direct deposit: "Top 4" box Disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online ==> *Consider adding "Update direct deposit" link to the "top 4" boxes.*
     2. To change direct deposit: "Top 4" box Records > Change your address > Change your VA direct deposit and contact information
     3. For proof of income: Over half of participants went to "View your payment history". Is there a way to show proof of income from the payment history page? One participant said that "Benefits letters" wasn't the right place to go. Another participant thought that "View payment history" sounded like what they paid the VA, not what the VA paid them.
-    4. For message doctor: One participant was confused about why they would message their doctor from VA.gov when they know they have to go to MHV to do this, as their doctor's office told them. They didn't realize that they could do this from VA.gov.
-    5. One participant went to the facility locator to find their doctor's office phone number or contact them online. Later they found secure messaging in the "top 4" box.
+    4. For add dependent: A third of participants looked in Family Member Benefits (a topic below the pictures) or the "top 4" Records box. ==> *Consider adding "add dependent" to the "top 4" Records box and on the Family Member Benefits page.*  
+    5. For find VA location: 2 participants never found the facility locator and instead used site search instead. One typed "Knoxville" and got no relevant results; the other searched "VA in Cincinnati OH" and found results.
+    6. For message doctor: One participant was confused about why they would message their doctor from VA.gov when they know they have to go to MHV to do this, as their doctor's office told them. They didn't realize that they could do this from VA.gov. One participant went to the facility locator to find their doctor's office phone number or contact them online. Later they found secure messaging in the "top 4" box.
 
 
 1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** This was true for both mobile and desktop users. One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
@@ -145,16 +147,21 @@ Difficulty with 3 tasks...
 
 
 ## Additional Insights
-1. Calling the VA is what many participants say they do if they can't find what they're looking for, but many try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments.
+1. Over half of participants said that if they can't find what they're looking for, they would call the VA. However, they try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. SUMMARIZE WHO THEY SAY THEY'D CALL AT THE VA, AND WHAT ELSE THEY'D DO (GOOGLE).
 
 
 ## Recommendations
 Below are some initial recommendations based on research findings to be discussed and revised with the team: 
 1. Because many people aren't finding the Find a Form page and the Resources & Support page links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
-1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are travel pay reimbursement, update direct deposit...
-1. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
-1. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle.
-1. Proof of income in the form of benefit letters should be possible to get to from the View payment history page, as well as from site searches for "income" or "proof of income". 
+1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are the following:
+    1. Travel pay reimbursement (add to health care box)
+    2. Update direct deposit (add to records box?)
+    3. Medical records (add to the health care box, in addition to Records)
+    4. Update dependents (add to records box and also on the Family Member Benefits page)
+    5. Appoint representative (add to disability box)
+3. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
+4. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle.
+5. Proof of income in the form of benefit letters should be possible to get to from the View payment history page, as well as from site searches for "income" or "proof of income". 
 
 ## Next Steps
 Next steps here
