@@ -76,6 +76,11 @@ vaos-community-care-path-started |
 vaos-community-care-submission |
 vaos-community-care-submission-failed |
 vaos-community-care-submission-successful |
+vaos-covid19-path-started |
+vaos-covid19-start-scheduling-button-clicked |
+vaos-covid19-submission |
+vaos-covid19-submission-failed |
+vaos-covid19-submission-successful |
 vaos-direct-path-started |
 vaos-direct-submission |
 vaos-direct-submission-failed |
