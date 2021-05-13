@@ -24,10 +24,6 @@ Note: if any launch-gating issues are discovered during testing, we will fix and
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: n/a since we are rolling out to prod at 100% of users after resolving all issues found during UAT staging test.
 - Go Live!
 
-Planning:
-
-Desired date: June 1, 2021
-
 Post-launch KPI 1: 
 
 ### 1-week results:
