@@ -82,12 +82,13 @@ The 5-10 top findings from your study should be listed here. Write your findings
 ### Wayfinding successes 
 navigation, accessibility issues
 
-1. All participants were able to successfully complete 3 of the 9 tasks (#1, 2, 4), and most completed 3 more of the tasks (#6, 7, 9).
-1. Most participants used the links in the "top 4" boxes extensively.
-1. Half of the participants used the links in the left nav on content pages.
+1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
+![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
+3. Most participants used the links in the "top 4" boxes extensively.
+4. Half of the participants used the links in the left nav on content pages.
 
 ### Wayfinding Issues
-1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3). Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
+1. *Some participants were unable to successfully complete 3 of the tasks* (#3, 5, 8), the first of which was completed without any assistance by only 1 participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
     1. THEN LIST PLACES THEY LOOKED FOR THINGS AND REASONS THEY GOT STUCK (for all 3 tasks, and others, too).
     1. 
 1. The VA.gov home page is long, and many participants stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
