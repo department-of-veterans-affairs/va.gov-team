@@ -4,7 +4,7 @@
 ---
 
 **Samara: Is the release plan complete and ready to execute against?**
-- DRAFT [My VA Dashboard 2.0 Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Release-Plan.md
+- DRAFT [My VA Dashboard 2.0 Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Release-Plan.md)
 
 **Tressa: Are the research plan and conversation guide for UAT complete?**
 - Answer:
