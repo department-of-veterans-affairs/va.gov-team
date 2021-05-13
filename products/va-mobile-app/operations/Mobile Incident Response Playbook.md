@@ -11,6 +11,10 @@ Issues will come to our attention through a variety of channels:
 - Escalation from VA contact centers (help desks)
 - Escalation from other VA teams
 
+Our team does not have a standing 24/7 on-call rotation. We may receive escalations from VSP's on-call staff, and per their procedures we may be added to PagerDuty as an escalation team.  
+
+At critical junctures such as initial launch and after major releases, we may institute "business hours on-call", where we assign rotating responsibility for monitoring our observability tools and triaging issues during the working day. 
+
 ### Acknowledging the Incident
 It's important to acknowledge the incident through whatever channel it arrived - whether assigning the incident in PagerDuty or responding to an email escalation. Once you acknowledge an incident, you are responsible for following up on it by either starting the response process or handing it off to somebody who is in a better position to do so. 
 
