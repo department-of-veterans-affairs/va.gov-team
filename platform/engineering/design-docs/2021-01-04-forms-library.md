@@ -320,6 +320,17 @@ This component must be wrap the `Router` or `Formik` components so we can pass a
   - Perform any data migrations applicable
   - Navigate to the page supplied by the result
 
+**Usage example: With Router**
+```jsx
+<SaveInProgress dataMigrations={arrayOfMigrations}>
+  {({ saveForm, loadForm }) => (
+    <Router saveForm={saveForm} loadForm={loadForm}>
+      ...
+    </Router>
+  )}
+</SaveInProgress>
+```
+
 ##### Component: `SiPIndicator`
 **TODO:** Rename this thing. Ideas?
 
