@@ -437,19 +437,22 @@ future aspirations._
 N/A
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's
-important to think about what tools you can provide to make debugging problems
-easier. Sometimes it's unclear whether the problem is in your system at all, so
-a mechanism for isolating a particular interaction and examining it to see if
-your system behaved as expected is very valuable. Once a system is in use, this
-is a great place to put tips and recipes for debugging. If this section grows
-too large, the mechanisms can be summarized here and individual tips can be
-moved to another document._
 
+#### Development logs
 Formulate will try to catch developer mistakes by emitting console logs in
 development builds similar to React. Mistakes it will attempt to catch include:
 - `FieldReview` components with no associated form data
   - This is probably because the name (path to the data) is incorrect
+- Missing or invalid props
+
+#### Context debugger
+In development mode, the `Router` will attach a `Formulate` object to `window`.
+From the browser console, engineers will be able to call functions on
+`window.Formulate` to:
+- See all the form data
+- Set data for individual fields
+- Override the entire form data
+- See the list of routes
 
 ### Caveats
 <!--
