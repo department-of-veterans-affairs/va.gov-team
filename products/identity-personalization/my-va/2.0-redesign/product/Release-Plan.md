@@ -4,7 +4,7 @@
 ### Planning:
 - **Desired date range or test duration:** Exact dates TBD (ideally 5/19 - 6/1)
 - **UAT Go/No go:** TBD, ~week of 5/24 
-   - [Hold UAT Go/No-Go #24702](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24701)
+   - [Hold UAT Go/No-Go #24701](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24701)
    - [My VA 2.0: UAT Go/No-Go](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/UAT-go-no-go.md) 
 - **Desired number of users:** 10 total, 5 who receive or are currently eligible to receive health care from VA, 5 who have active claims or appeals; 3 of these 10 need to have a disability rating
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
