@@ -400,7 +400,6 @@ order.
 #### Helper: Submission validation
 Compare the form data against a JSON schema.
 
-
 ### Code Location
 Formulate will live in its own repository.
 
@@ -642,6 +641,7 @@ system to address their needs._
 ### Future Work
 
 - "Array pages" on objects, where the URL contains object property names
+- Lazy loading data migration functions
 
 ### Revision History
 
