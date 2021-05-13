@@ -78,16 +78,31 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
 
-### Wayfinding successes and issues
+### Wayfinding successes 
 navigation, accessibility issues
+
+1. All participants were able to successfully complete 3 of the 9 tasks (#1, 2, 4), and most completed 3 more of the tasks (#6, 7, 9).
+1. Most participants used the links in the "top 4" boxes extensively.
+1. Half of the participants used the links in the left nav on content pages.
+
+### Wayfinding Issues
+1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3 form to appoint representative). 
+1. The VA.gov home page is long, and many people stay focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. 
+1. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
+1. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
+1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
+1. A third of the participants never scrolled down past the row of images on the home page.
+
+1. No participants started with site search (in the header of the home page), but some went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* at first, but once they found it, a few used it in later tasks.
+
+1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
 
 ### Task success rates and ratings
 
 ### Other usability successes and issues
 
-### Usage of the home page
+### Usage of the home page in research and analytics
 
 ### Mobile vs. desktop differences
 
@@ -108,42 +123,22 @@ Difficulty with 3 tasks...
 - 2 people were looking for medical records under health care, not records (maybe add a second link?)
 - 2 people thought you couldn't send your VA medical records to an outside doctor or not sure how to do
 
-### Usability Successes
+### Other Usability Successes
 
-#### Wayfinding
-1. All participants were able to successfully complete 3 of the 9 tasks (#1, 2, 4), and most completed 3 more of the tasks (#6, 7, 9).
-1. Most participants used the links in the "top 4" boxes extensively.
-1. Half of the participants used the links in the left nav on content pages.
-
-#### Content
-1. All of the 5 participants who were shown the *Resources and support* page were able to use it to complete the relevant task. (See Usability Issue #4 below, which describes the difficulty in finding this page.)
+1. All of the 5 participants who were shown the *Resources and support* page were able to use it to complete the relevant task. 
 1. Two participants noticed typeahead prompts while searching and used them.
 1. The VA.gov home page worked well with a screen reader.
 
 
-### Usability Issues
+### Other Usability Issues
 
-#### Wayfinding
-1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3 form to appoint representative). 
-1. The VA.gov home page is long, and many people stay focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. 
-1. No participants started with site search (in the header of the home page), but some went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* at first, but once they found it, a few used it in later tasks.
-1. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
-1. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
-1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
-1. Half of the participants never scrolled down past the row of images on the home page.
-1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
-
-#### Content
 1. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative").
 1. Three participants complained about the COVID banner alert they kept seeing.
 
-#### Other
-1. Calling the VA is what many participants say they do if they can't find what they're looking for, but many try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments.
-
-
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+1. Calling the VA is what many participants say they do if they can't find what they're looking for, but many try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments.
+
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
