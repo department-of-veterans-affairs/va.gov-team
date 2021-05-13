@@ -4,7 +4,7 @@
 ### Planning:
 - **Desired date range or test duration:** Exact dates TBD (ideally 5/19 - 6/1)
 - **UAT Go/No go:** TBD, ~week of 5/24
-- **Desired number of users:** 10, 5 who receive or are currently eligible to receive health care from VA, 5 who have active claims or appeals; 3 of these 10 need to have a disability rating
+- **Desired number of users:** 10 total, 5 who receive or are currently eligible to receive health care from VA, 5 who have active claims or appeals; 3 of these 10 need to have a disability rating
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will
