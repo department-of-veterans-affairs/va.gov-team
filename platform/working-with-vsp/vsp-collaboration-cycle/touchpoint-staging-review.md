@@ -8,7 +8,7 @@ Before you begin launch, allowing enough time to implement feedback. This will v
 Synchronous 30-minute meeting
 
 ## What is the objective of this touchpoint?
-Get feedback on your completed build before rolling out to users. VSP will identify any launch-blocking issues that must be addressed prior to launch.
+Get feedback on your completed build before rolling out to users. Platform will identify any launch-blocking issues that must be addressed prior to launch.
 
 ## How do I request this touchpoint?
 VFS Product Manager submits a [Staging Review ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+Shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+staging-review%2C+collab-cycle-review&template=staging-review.md&title=Staging+Review+%5BTeam+Name+-+Feature+Name%5D).
@@ -19,15 +19,15 @@ VFS brings:
    - DEPO product lead (recommended)
    - Anyone else from your team who significantly contributed to the artifacts provided (required)
    - Content, IA, accessibility, and QA specialists (if applicable)
-   - 
-VSP brings (when applicable):
+   
+Platform brings (when applicable):
    - Design
    - Accessibility
    - Content
    - QA
    - Product
    - Information architecture
-   - VSP’s DEPO co-leads
+   - Platform’s DEPO co-leads
    - Analytics (optional)
 
 ## What artifacts do I provide?
@@ -37,7 +37,7 @@ VFS provides:
 - Link to the tool or feature  in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 - Link to [test user information, passwords, and tasks](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md) in the va.gov-team-sensitive repo (if applicable)
 - Link to content brief (if applicable)
-- Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or elsewhere) 
+- Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
 - Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) for QA practice area review
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail for QA practice area review
 - Review the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
@@ -60,10 +60,10 @@ OR
 - List of known issues (with links to tickets when applicable)
 - Please provide these artifacts at least **4 days before the scheduled review meeting**.
 
-VSP brings:
+Platform brings:
 
 - Feedback on the artifacts from the following practice areas: design, accessibility, content, QA, I/A (and optional: product, analytics, engineering).
 
 
 ## What is the outcome of this touchpoint?
-VSP reviewers document their feedback in a GitHub ticket. VSP will escalate critical issues if necessary to ensure they are addressed prior to launch. VSP will identify launch-blocking accessibility issues and provide assistance, if requested, in getting issues resolved.
+Platform reviewers document their feedback in a GitHub ticket. Platform will escalate critical issues if necessary to ensure they are addressed prior to launch. We'll identify launch-blocking accessibility issues and provide assistance, if requested, in getting issues resolved.
