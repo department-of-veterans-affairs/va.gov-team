@@ -14,10 +14,7 @@ I’m a website designer and researcher working as part of the Digital Services 
 
 Research sessions are typically conducted over Zoom where participants test out prototypes or different areas of VA.gov and Veterans give us feedback on how we can improve the pages to make them work better for them. Veterans receive a thank you gift after their participation.
  
-
-This is the [recruitment firm that we work with](https://veteranusability.us/) to make sure personal data is handled appropriately and not directly by designers and researchers. Since the registration link on this website is not accessible yet, we have phone registration available and I have a study information written that I can share with you that you can circulate if you’re able to help us connect with blind Veterans. Please let me know if you have any questions or concerns.
-
- 
+Interested Veterans can register by phone. Additional information about the studies can be provided to circulate as you help us connect with blind Veterans. Please let me know if you have any questions or concerns.
 
 Can you help?
 
