@@ -87,8 +87,10 @@ navigation, accessibility issues
 1. Half of the participants used the links in the left nav on content pages.
 
 ### Wayfinding Issues
-1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3 form to appoint representative). 
-1. The VA.gov home page is long, and many people stay focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. 
+1. Some participants were unable to successfully complete 3 of the tasks (#3, 5, 8), one of which was completed by very few participants (#3). Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
+    1. THEN LIST PLACES THEY LOOKED FOR THINGS AND REASONS THEY GOT STUCK (for all 3 tasks, and others, too).
+    1. 
+1. The VA.gov home page is long, and many participants stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
 1. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
 1. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
 1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
