@@ -372,7 +372,7 @@ to account for it. Examples include:
 
 The goal of migrations is to bring the saved data of an old version of the form
 up to match the new version of the form.
-  
+
 A `dataMigrations` prop may be passed to the `SaveInProgress` component.
 `dataMigrations` must be an array of functions. Each function will be called
 with the form data and metadata, either from the API request or a previous
