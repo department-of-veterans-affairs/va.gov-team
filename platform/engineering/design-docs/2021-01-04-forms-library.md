@@ -429,9 +429,9 @@ Architecture decisions and other explanations for decisions made for the
 library will live in `docs/explanations/`.
 
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written,
-this section should be updated to reflect the current state of testing and
-future aspirations._
+Automated unit and integration tests will be written to ensure the components
+and functions in Formulate work independently and together. Any changes to the
+API of these components and functions will break the tests.
 
 ### Logging
 N/A
