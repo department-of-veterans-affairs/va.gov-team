@@ -481,10 +481,106 @@ N/A
     inputs against the form schema to ensure they're a match.
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order
-that you think they should be done, and estimate roughly how much time you
-expect it each milestone to take. Ideally each milestone will take one week or
-less._
+
+#### Milestone: Scaffold the project
+First, we have to prepare the library for development.
+
+**Prerequisites:** _None_
+
+**Tasks:**
+- Create the repo
+- Enable branch protection and code owners
+- Set up the TypeScript build process
+- Set up the testing tools
+- Set up `eslint` and `prettier`
+- Set up linting pre-commit hook
+
+**Estimate:** 1 day
+
+#### Milestone: Create the form builder fields
+This milestone is centered around getting the fields to look and feel like
+VA.gov fields.
+
+**Prerequisites:**
+- Scaffold the project
+
+**Tasks:**
+- Re-export Formik components such as `Formik` and `Form`
+- Build input fields
+  - Text box
+  - Text area
+  - Checkbox
+  - Radio group
+  - Select box
+  - File input
+  
+**Estimate:** < 1 week
+
+#### Milestone: Routing with chapters and pages
+Here, we build `Router`, `Chapter`, and `Page`. By the end, it should be
+possible to navigate between pages.
+
+**Prerequisites:**
+- Scaffold the project
+
+**Tasks:**
+- Build the `Router` with barebones `Chapter`, and `Page` components
+- Use the `Chapter` and `Page` in `Router` to construct routes for the
+  application
+- Handle navigation forward and backward through the form
+
+**Estimate:** < 1 week
+
+#### Milestone: Pass data through the form
+Once we have multiple pages in a form, we need to keep data that the user
+entered on a previous form and allow future pages to access it.
+
+**Prerequisites:**
+- Routing with chapters and pages
+
+**Tasks:**
+- Create the React context to hold form state
+- Provide the context in `Router`
+
+**Estimate:** < 1 day
+
+#### Milestone: Add visual chrome
+Forms on VA.gov have a certain look and feel. This is where we add the title,
+progress bar, and other visual elements to `Chapter` and `Page`
+
+**Prerequisites:**
+- Pass data through the form
+
+**Tasks:**
+- Add the total number of chapters to the form state context
+- Add the form title to the form state context
+- Display the title on every page
+- Display the segmented progress bar on each page
+
+**Estimate:** 2 days
+
+#### Milestone: Build review page components
+We can make building the review page less painful by building some good default
+components and being mindful of the developer experience.
+
+**Prerequisites:** None, but it might be easier to test after the form state is
+supplied in a React context.
+
+**Tasks:**
+- Build the field review component
+  - Will make an intelligent guess on what the output should be based on the
+    data type
+- Build the page review component
+  - Will accept field names and render field review components for each
+  - Will accept field review component overrides
+- Build the chapter review component
+  - Will accept a list of pages, each with an edit and review component
+
+**Estimate:** 1 - 2 weeks
+
+#### Milestone: Do something with Save in Progress
+
+#### Documentation
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as
