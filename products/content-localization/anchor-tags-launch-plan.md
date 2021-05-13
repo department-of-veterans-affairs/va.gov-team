@@ -47,7 +47,7 @@ Post-launch KPI 1: 1.5 ctr of link icons, per page
 - Types of errors logged: 
 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-If yes, what: 
+     - If yes, what: 
 
 
 ## 1-month results:
