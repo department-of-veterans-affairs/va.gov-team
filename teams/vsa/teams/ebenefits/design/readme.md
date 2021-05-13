@@ -17,8 +17,6 @@
 | View Representative | | In design |
 | Change Direct Deposit (Education) | DD-EDU | In production |
 
----
-
 ## Disciplines
 
 ### Research
@@ -36,13 +34,9 @@
 
 ### Accessibility (Section 508)
 
----
-
 ## Process
 
 ### Collaboration cycle
-
----
 
 ## Team
 
@@ -56,8 +50,6 @@
 - James Adams | jadams@governmentcio.com -- Designer
 - Matt Self | matt.self2@va.gov -- Product owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product co-owner
-
----
 
 <!--
 ### Content Guidance Links
@@ -90,5 +82,3 @@
 11. Second usability testing round
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
-
-## 
