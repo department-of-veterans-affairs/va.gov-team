@@ -10,7 +10,7 @@ The purpose of this research is to get a baseline understanding of how the curre
 
 ## Research Methodology 
 
-We conducted remote moderated research sessions via Zoom on April 26 - May 5, 2021. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks:
+We conducted remote moderated research sessions via Zoom on April 26 - May 5, 2021. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks (goal in parentheses):
 1. Ask your VA doctor a followup question (send a secure message)
 1. Find out if your disability claim has been approved (track claim status)
 1. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (form 21-22a Appointment of Individual As Claimant's Representative)
@@ -84,7 +84,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
 3. Most participants used the links in the "top 4" boxes extensively, finding them useful to complete the tasks.
-4. Half of the participants used the links in the left nav on content pages.
+4. Half of the participants used the links in the left nav on content pages. These participants were all desktop users, not mobile. 
 
 ### Wayfinding Issues
 1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
@@ -94,14 +94,17 @@ The 5-10 top findings from your study should be listed here. Write your findings
 1. **Navigation paths to complete the tasks were not always straightforward**, which helps explain why not everyone was successful. Here are some of the paths, along with some suggestions for improving them:
     1. To change direct deposit: "Top 4" box Disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online ==> *Consider adding "Update direct deposit" link to the "top 4" boxes.*
     2. To change direct deposit: "Top 4" box Records > Change your address > Change your VA direct deposit and contact information
+    3. For proof of income: Over half of participants went to "View your payment history". Is there a way to show proof of income from the payment history page? One participant said that "Benefits letters" wasn't the right place to go. Another participant thought that "View payment history" sounded like what they paid the VA, not what the VA paid them.
 
-1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
-4. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
-5. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
-6. Half of the participants never opened the *VA Benefits and Health Care* dropdown. 
-7. A third of the participants never scrolled down past the row of images on the home page.
+1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** This was true for both mobile and desktop users. One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
+    1. Most participants (77%) didn't find the *Resources and support* page on their own, though about half managed to find the travel reimbursement direct deposit article via browsing or searching from the VA.gov home page. The participants who were shown this page wanted easier access to it from the top of the home page.
+    1. Most participants (69%) didn't find the *Find a VA form* page on their own, but once they were shown it, they wanted easier access to it from the top of the home page.
+    1. Half of the participants never opened the *VA Benefits and Health Care* dropdown. 
+    1. A third of the participants never scrolled down past the row of images on the home page; they stopped as if it were the bottom of the page. TBD: COMPARE THIS WITH ANALYTICS DATA. ==> *Consider moving the row of images down to the actual bottom of the page.*
 
-1. No participants started with site search (in the header of the home page), but some went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* at first, but once they found it, a few used it in later tasks.
+1. No participants started with site search (in the header of the home page), but about half went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* in the header at first, but once they found it, a few used it in later tasks.
+    1. "It is an option of last resort. When all else fails, use the search function." (p16)
+    1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*. --> *Consider adding a search box next to the word* Search *in the header to make it more visible.*
 
 1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
 2. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
@@ -146,7 +149,11 @@ Difficulty with 3 tasks...
 
 ## Recommendations
 Below are some initial recommendations based on research findings to be discussed and revised with the team: 
-1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are travel pay reimbursement, update direct deposit
+1. Because many people aren't finding the Find a Form page and the Resources & Support page links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
+1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are travel pay reimbursement, update direct deposit...
+1. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
+1. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle.
+1. Proof of income in the form of benefit letters should be possible to get to from the View payment history page, as well as from site searches for "income" or "proof of income". 
 
 ## Next Steps
 Next steps here
