@@ -62,7 +62,7 @@ If you have any questions, feel free to ask them at any time.
 - Are you familiar with, or have you ever used VA.gov's location finder?
     - If yes: how long ago, what were you doing? What was that experience like?
     - If no: how do you go about finding information about VA locations?
-    - Yes/no: Do you see yourself using this tool in the future? (Why might you use it?)
+    - Yes/no: Why might, or why might not, you use this tool in the future?
 
 ### Scenario
 #### Directions:
