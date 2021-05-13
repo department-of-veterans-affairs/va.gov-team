@@ -11,4 +11,4 @@
 | QA Test Plan in TestRail with test results | [Test plan](https://dsvavsp.testrail.io/index.php?/plans/view/1799) [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/5&group_by=cases:section_id&group_order=asc&display_deleted_cases=0&group_id=1069)| |
 | [Coverage for References]((https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary Defects](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail| [Coverage for References Cases Report](https://dsvavsp.testrail.io/index.php?/reports/view/224) [Summary Defects Report](https://dsvavsp.testrail.io/index.php?/reports/view/225) | |
 | Certify [accessibility test checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/staging-review/accessibility-test-prep.md) is complete | | |
-| Known/open issues | | |
+| Known/open issues | [#24645](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24645) [#24646](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24646) [#24647](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24647) | |
