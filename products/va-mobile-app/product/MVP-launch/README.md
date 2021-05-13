@@ -34,7 +34,7 @@ _This list will be updated with links to documentation as needed_
 - [ ] KPI implementation in Firebase
 - [ ] Plan for Managing Versioning
 - [ ] [Incident Response protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/README.md)
-- [ ] Contact Center protocol for App Store monitoring & flagging
+- [ ] App Store monitoring & flagging protocol
 - [ ] Post-launch analytics reporting plan
 
   
