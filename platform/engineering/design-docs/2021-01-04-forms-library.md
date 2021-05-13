@@ -341,8 +341,10 @@ to save and exit the form.
 This must appear as a descendant of `SaveInProgress`.
 
 **Responsibilities:**
+- Display a link to save and exit the form
 - Call an API endpoint to save the form data
 - Navigate to `/form-saved`
+- Accept a list of paths to not display the link on
 
 **Location on the page:** This component will appear at the bottom of every page
 except for those it is configured not to. The default routes which it will not
