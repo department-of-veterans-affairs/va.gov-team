@@ -385,6 +385,7 @@ of Formulate.
   - How to make array pages
   - How to make single-page list loops
   - How to build a custom field
+  - How to write a data migration
 - [Reference documentation](https://diataxis.fr/reference/) tooling
   - See[Reference documentation](#reference-documentation) below
 - [Explanations](https://diataxis.fr/explanation/)
