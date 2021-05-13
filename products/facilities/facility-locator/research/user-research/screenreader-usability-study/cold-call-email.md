@@ -22,7 +22,7 @@ This is a [recent video that talks about our general process](https://govmatters
 
  
 
-This is the [recruitment firm that we work with]((https://veteranusability.us/)) to make sure personal data is handled appropriately and not directly by designers and researchers. Since the registration link on this website is not accessible yet, we have phone registration available and I have a study information written that I can share with you that you can circulate if you’re able to help us connect with blind Veterans. Please let me know if you have any questions or concerns.
+This is the [recruitment firm that we work with](https://veteranusability.us/) to make sure personal data is handled appropriately and not directly by designers and researchers. Since the registration link on this website is not accessible yet, we have phone registration available and I have a study information written that I can share with you that you can circulate if you’re able to help us connect with blind Veterans. Please let me know if you have any questions or concerns.
 
  
 
