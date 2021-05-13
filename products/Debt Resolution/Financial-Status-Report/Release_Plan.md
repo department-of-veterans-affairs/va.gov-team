@@ -1,20 +1,14 @@
 Release Plan Online FSR Form and Debtman Rewrite 
 
-**Important Dates**
-
- 1. Research Findings Presentation 4/8
- 2. Production QA - 4/6 
- 3. Internal va.gov Staging Review 4/8 (allow 1 sprint to fix 508 bugs, rework from usability) 
- 4. Final Content Review - To be scheduled 
 
 **Release Plan**
 
-Date - TBD 
+Date - 5/17/2021
 
 **Soft Release** 
- 1. -3 days Final Go/No-go meeting
- 2. Prod release happens between 3-4PM ET 
- 3. Drupal pages published (Landing page) - PW 
+ 1. Feature flags flipped 
+ 2. Prod release happens between 2-3PM ET Craig to notify content team that release was successful 
+ 3. Drupal pages published (Landing page) - Danielle _ Team - Leah to notify Jill everythign is in production 
  4. DMC adds banner announcing "new experience" with URL 
  5. +1 week Evaluate visitors/ FSR forms filled out on line 
  
