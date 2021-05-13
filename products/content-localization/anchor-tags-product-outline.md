@@ -2,7 +2,7 @@
  
 **Overview**
 
- Hypothesis: Veterans, caretakes, VA departments (ie: contact center, VA media) will share more content if they are able to share more deep content.
+ Hypothesis: Veterans, caretakers, VA departments (ie: contact center, VA media) will share more content if they are able to share more deep content.
 
 By adding shareable anchor links / deeplinks to a heavily trafficked page we can launch quickly and determine whether we meet user’s needs and should deploy more widely across warrants VA.gov. The Coronavirus FAQ page is both highly trafficked and has a lengthy list of FAQs:
 
