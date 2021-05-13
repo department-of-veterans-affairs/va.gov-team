@@ -32,7 +32,7 @@ Instructions to access in Staging (or Prod for Drupal):
 
 Description:
 
-Link to designs: see Use Case A
+Link to designs: 
 
 Instructions to access in Staging (or Prod for Drupal): 
 
