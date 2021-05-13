@@ -1,5 +1,6 @@
 # IA Review and Recommendations
 **STATUS: COMPLETE 11/20/2020**
+Update 05/13/2021 - Updated flows, see notes
 
 **Team:** Health care experience
 
@@ -42,7 +43,7 @@ Questionnaire | www.va.gov/health-care/health-questionnaires/questionnaires/answ
 
 
 1. The static page and sign in process are bypassed if the user is already authenticated. 
-2. When linking directly to a questionnaire, if user is not authenticated, an unauth view of the requested questionnaire is displayed, users are then prompted to sign in and are either sent to the questionnaire to complete/continue or to the questionnaire list page if the questionnaire is no longer available/valid.  
+2. When linking directly to a questionnaire, if user is not authenticated, ~an unauth view of the requested questionnaire is displayed,~ users are prompted to sign in and are either sent to the questionnaire to complete/continue or to the questionnaire list page if the questionnaire is no longer available/valid.  
   - The desired future state is that the links within the emails and texts will take users directly to a specific questionnaire rather than the list page, thereby following the same flow as direct external link (i.e. bookmark).
   
 
@@ -73,7 +74,19 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 <hr>
 
-### Meetings Notes and Background Info
+### Meeting Notes and Decisions
+
+5/13/2021 - Staging review
+- User flow denoted by #2 in flows above was not implemented.  Notes from the developer: 
+  This is for the unauthenticated flow, where if a user would leave a questionnaire that they bookmarked, left the page, and came back.
+
+> TL;DR; It ended not being needed/possible, so we punted on that for future iterations.
+> 
+> Long story:
+> 
+> After a user leaves the site, the data for the appointment and questionnaire is no longer client side. Even for an un-authenticated form, we would have to load data to display the appointment details (what type of questionnaire, the facility, the appointment details, etc.).
+> 
+> To load the data to display the form in the correct state (new vs. returning) and the correct appointment details, we need to know which patient is visiting the questionnaire. We do not know the patient that is visiting if the user is not authenticated. We decided that if the user is not logged in to redirect to the login process and then to the questionnaire page. For the pilot, we assume a small number of questionnaires for a user, so the overhead of finding their questionnaire was low.
 
 10/9/2020 - Usability testing prep for pre-visit questionnaire
 - initially only for primary care
