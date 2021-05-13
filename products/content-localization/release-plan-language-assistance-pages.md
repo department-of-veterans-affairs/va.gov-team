@@ -10,23 +10,24 @@ Note: if any launch-gating issues are discovered during testing, we will fix and
 Results:
 
 Number of users: 4
-Number of bugs identified / fixed: 8 (see ticket # https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23920
+Number of bugs identified / fixed: 
 Types of errors logged:
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 If yes, what:
+
 Phase II: Prod Rollout (also known as unmoderated production testing)
 Planning
 
-Desired date range: 05/18/2021 - 05/31/2021
+Desired date range: 05/31/2021 - 06/02/2021
 How will you make the product available in production while limiting the number of users who can find/access it: n/a
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: n/a since we are rolling out to prod at 100% of users after resolving all issues found during UAT staging test.
 Go Live!
 
 Planning:
 
-Desired date: mid-May
+Desired date: June 1, 2021
 
-Post-launch KPI 1: 1.5 ctr of link icons, per page
+Post-launch KPI 1: 
 
 1-week results:
 
