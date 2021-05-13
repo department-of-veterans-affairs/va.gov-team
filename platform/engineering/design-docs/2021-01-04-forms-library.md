@@ -361,10 +361,34 @@ _None_
 - Render a link to continue the form
 
 ##### Data migrations
-**TODO:** Things to talk about:
-- Purpose of data migrations (briefly)
-- Form versioning in the SiP meta data
+When a form in production needs to be changed in a way that will affect the
+user's ability to complete the form accurately, a data migration may be written
+to account for it. Examples include:
+- Validation for a field changes
+- An existing field was previously not required but now is
+- A new required field is added
+- A new page is added
+- A field is removed
 
+The goal of migrations is to bring the saved data of an old version of the form
+up to match the new version of the form.
+  
+A `dataMigrations` prop may be passed to the `SaveInProgress` component.
+`dataMigrations` must be an array of functions. Each function will be called
+with the form data and metadata, either from the API request or a previous
+migration function. Metadata will include:
+- Form version when the data was saved
+- The page URL when the form was saved
+
+Each function must return the new form data and metadata. If multiple migration
+functions must be run, the result of an earlier migration will be passed to the
+next migration in the array.
+
+Migrations are run during the `loadForm` function. It will check the form
+version in the metadata against the length of the `dataMigrations` array. If the
+latter is greater, all migrations after the saved form version will be called in
+order.
+    
 #### Helper: Submission validation
 Compare the form data against a JSON schema.
 
