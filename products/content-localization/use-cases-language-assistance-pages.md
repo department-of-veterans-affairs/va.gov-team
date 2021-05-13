@@ -31,15 +31,11 @@ Instructions to access in Staging (or Prod for Drupal):
 ### Use Case C
 
 Description:
-Like this: 
+
 Link to designs: see Use Case A
 
 Instructions to access in Staging (or Prod for Drupal): 
 
 ### Use Case D
 
-Description: 
-
-Description: Screen Readers should announce content in the translated language of the page
-
-The accessible label will contain relevant, content specific titles for the screen reader to announce
+Description: The links and labels will be accessible and support screen readers in the given language of each page 
