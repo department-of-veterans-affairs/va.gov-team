@@ -39,7 +39,7 @@ Questionnaire | www.va.gov/health-care/health-questionnaires/questionnaires/answ
 *How users will navigate to and flow through the proposed experience.  Includes the primary entry points and changes to global navigation elements.*
 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/bb31a656-b6c0-4ab1-9aea-bfc2776893ba)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/e02b4439-fb70-4a4a-82ae-fc02aabc0c33)
 
 
 1. The static page and sign in process are bypassed if the user is already authenticated. 
