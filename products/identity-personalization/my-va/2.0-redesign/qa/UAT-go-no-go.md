@@ -1,4 +1,4 @@
-# My VA 2.0: UAT Go/No-go | mm.dd.yy
+# My VA 2.0: UAT Go/No-Go | mm.dd.yy
 
 ## Decision: ___
 ---
