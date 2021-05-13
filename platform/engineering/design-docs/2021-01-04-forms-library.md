@@ -447,13 +447,15 @@ too large, the mechanisms can be summarized here and individual tips can be
 moved to another document._
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential
+<!--
+Gotchas, differences between the design and implementation, other potential
 stumbling blocks for users or maintainers, and their implications and
 workarounds. Unless something is known to be tricky ahead of time, this section
-will probably start out empty._
+will probably start out empty.
 
-_Rather than deleting it, it's recommended that you keep this section with a
-simple place holder, since caveats will almost certainly appear down the road._
+Rather than deleting it, it's recommended that you keep this section with a
+simple place holder, since caveats will almost certainly appear down the road.
+-->
 
 _To be determined._
 
@@ -591,17 +593,11 @@ section will inform readers of alternative solutions so they can find the best
 system to address their needs._
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the
-current release. This is a great place to speculate on potential features and
-performance improvements._
 
 - Code splitting
 - "Array pages" on objects, where the URL contains object property names
 
 ### Revision History
-_The table below should record the major changes to this document. You don't
-need to add an entry for typo fixes, other small changes or changes before
-finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|----------
