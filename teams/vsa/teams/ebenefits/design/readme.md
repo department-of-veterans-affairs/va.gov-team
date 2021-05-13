@@ -40,7 +40,7 @@
 
 ## Team
 
-#### Team members
+### Team members
 
 - Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
@@ -50,6 +50,9 @@
 - James Adams | jadams@governmentcio.com -- Designer
 - Matt Self | matt.self2@va.gov -- Product owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product co-owner
+
+### Resources
+- [Zenhubboard](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125,66304117)
 
 <!--
 ### Content Guidance Links
