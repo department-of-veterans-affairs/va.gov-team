@@ -30,7 +30,8 @@ Instructions to access in Staging (or Prod for Drupal):
 
 ### Use Case C
 
-Description:
+Description: Breadcrumbs, left nav, header and footer - all in english?
+back link from PDF/Factsheets?
 
 Link to designs: 
 
