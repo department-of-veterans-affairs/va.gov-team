@@ -80,32 +80,33 @@ The 5-10 top findings from your study should be listed here. Write your findings
 ## Details of Findings
 
 ### Wayfinding successes 
-navigation, accessibility issues
 
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
-3. Most participants used the links in the "top 4" boxes extensively.
+3. Most participants used the links in the "top 4" boxes extensively, finding them useful to complete the tasks.
 4. Half of the participants used the links in the left nav on content pages.
 
 ### Wayfinding Issues
-1. *Some participants were unable to successfully complete 3 of the tasks* (#3, 5, 8), the first of which was completed without any assistance by only 1 participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
-    1. THEN LIST PLACES THEY LOOKED FOR THINGS AND REASONS THEY GOT STUCK (for all 3 tasks, and others, too).
+1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA). Here are some ways that participants got stuck:
+    1. For travel reimbursement direct deposit: 2 people were looking for a link about travel in the "top 4" Health care box or under VA Benefits and Health Care dropdown > Health care. ==> *Consider adding "Travel pay reimbursement" to both locations under health care and/or disability.*
+    1. For travel reimbursement direct deposit: 2 people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. 
     1. 
-1. The VA.gov home page is long, and many participants stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
-1. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
-1. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
-1. Half of the participants never opened the *VA Benefits and Health Care* dropdown.
-1. A third of the participants never scrolled down past the row of images on the home page.
+1. **Navigation paths to complete the tasks were not always straightforward**, which helps explain why not everyone was successful. Here are some of the paths, along with some suggestions for improving them:
+    1. To change direct deposit: "Top 4" box Disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online ==> *Consider adding "Update direct deposit" link to the "top 4" boxes.*
+    2. To change direct deposit: "Top 4" box Records > Change your address > Change your VA direct deposit and contact information
+
+1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
+4. Most participants didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching.
+5. Most participants didn't find the *Find a VA form* page on their own, but once they saw it, they wanted easier access to it from the top of the home page.
+6. Half of the participants never opened the *VA Benefits and Health Care* dropdown. 
+7. A third of the participants never scrolled down past the row of images on the home page.
 
 1. No participants started with site search (in the header of the home page), but some went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* at first, but once they found it, a few used it in later tasks.
 
 1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
-
-### Task success rates and ratings
+2. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
 
 ### Other usability successes and issues
-
-### Usage of the home page in research and analytics
 
 ### Mobile vs. desktop differences
 
@@ -144,7 +145,8 @@ Difficulty with 3 tasks...
 
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+Below are some initial recommendations based on research findings to be discussed and revised with the team: 
+1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are travel pay reimbursement, update direct deposit
 
 ## Next Steps
 Next steps here
