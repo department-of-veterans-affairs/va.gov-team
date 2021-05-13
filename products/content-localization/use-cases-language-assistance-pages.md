@@ -11,15 +11,18 @@ The purpose of this document is for designers, PMs, and engineers to align early
 
 Description: new link in footer is visible and clickable from all device types/OSs 
 
-
 Link to footer design for language assistance (desktop and mobile):
 - https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23305 
 
-Instructions to access in Staging (or Prod for Drupal) https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
+Instructions to access in Staging (or Prod for Drupal):
+- TBD
 
-Use Case B
+### Use Case B
 
-Description: clicking a second copy link icon within 10 second of clicking the first
+Description: clicking the link for "Espanol", "Tagalog" and "Other languages" takes user to the appropriate page
+- Espanol URL:TBD
+- Tagalog URL:TBD
+- Other languages URL: TBD
 
 Upon clicking another icon (within 10 seconds of the first), the previously clicked on "Link copied" message should immediately revert to the default state
 Link to designs: see Use Case A
