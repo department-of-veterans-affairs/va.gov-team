@@ -250,14 +250,31 @@ values map to the path to the data in the form data. In the above example, the
 current item in the `marriages` array.
 
 
-##### Helper: Review page
-This will be an optional page included in the `Router`. The default review page
-provided by Formulate will attempt to render the correct chapters and pages. The
-`Router` will accept a `reviewPage` render prop which will default to one
-provided by Formulate. To exclude a review page from a multi-page form, the
-developer may assign the `reviewPage` prop to `null`.
+##### Review page
+To keep Formulate simple, it will not build the review page automatically. It
+will be the responsibility of each form to create its own review page. This
+decision is subject to change, but as of the time of this writing, I can't think
+of a way to automatically build the review page and accomplish all of the
+following:
+- The chapters are divided correctly
+- The pages are divided correctly
+- Each page uses the same edit mode as it was found in the form flow
+- Each page uses a review mode that displays each field on the page in a data
+  table with the appropriate label and value
+- Each field in the review mode may be overridden when the label or value need
+  to be changed for better UX
+- Each page may or may not have a review mode
 
-**TODO:** How will we get the view state for each page into the `ReviewPage`?
+Instead, Formulate will supply components to aid engineers in rapidly building
+review pages. These components will include:
+
+- `FormReview`
+- `ChapterReview`
+- `PageReview`
+- `FieldReview`
+
+**TODO:** Figure out how submission validation plays in here. How do we run all
+validation on all pages?
 
 #### Sub-module: Form page builder
 Formulate will leverage Formik for much of the form page building. It will
