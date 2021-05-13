@@ -32,4 +32,4 @@ Can you help?
 
 Sincerely,
 
- [name]
+ [name/contact info]
