@@ -1,21 +1,19 @@
-Anchor Tags Use Cases
+## Language Assistance and Resource Pages - Use Cases
 Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline.
 
 The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on. Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc
 
-Link to product outline: Anchor Tags https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/anchor-tags.md
+- Link to product outline: 
 
-Contents
+## Contents
 
-Use Case A
+### Use Case A
 
-Description: successful engagement with the copy link icon
+Description: new link in footer is visible and clickable from all device types/OSs 
 
-A user mouses over the the copy link icon
-In hover state the background of the icon changes from white to dark gray
-Upon clicking the icon a "Link copied" message is displayed for 10 seconds
-After 10 seconds text disappears and link icon reverts back to original white background (default state) simultaneously
-Link to designs: https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
+
+Link to footer design for language assistance (desktop and mobile):
+- https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23305 
 
 Instructions to access in Staging (or Prod for Drupal) https://staging.va.gov/coronavirus-veteran-frequently-asked-questions/#como-puedo-seguir-informado-e-27876
 
