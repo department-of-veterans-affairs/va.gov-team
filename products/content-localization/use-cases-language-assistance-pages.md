@@ -20,50 +20,26 @@ Instructions to access in Staging (or Prod for Drupal):
 ### Use Case B
 
 Description: clicking the link for "Espanol", "Tagalog" and "Other languages" takes user to the appropriate page
-- Espanol URL:TBD
-- Tagalog URL:TBD
+- Espanol URL: TBD
+- Tagalog URL: TBD
 - Other languages URL: TBD
 
-Upon clicking another icon (within 10 seconds of the first), the previously clicked on "Link copied" message should immediately revert to the default state
+Link to designs: TBD
+
+Instructions to access in Staging (or Prod for Drupal):
+
+### Use Case C
+
+Description:
+Like this: 
 Link to designs: see Use Case A
 
-Instructions to access in Staging (or Prod for Drupal) see Use Case A
+Instructions to access in Staging (or Prod for Drupal): 
 
-Use Case C
+### Use Case D
 
-Description: The URL anchor path uses the anchor text and a unique ID#
+Description: 
 
-User pastes the copied link into their choice of medium - email, SMS, etc.
-Upon pasting the copied link into an application such as email, Slack, Facebook etc., the link will display as a hyperlink URL
-The URL uses the page URL plus # path based on the partial text of the heading and a unique ID#.
-Like this: .gov/coronavirus-veteran-frequently-asked-questions/#are-va-national-cemeteries-ope-37235
-Link to designs: see Use Case A
+Description: Screen Readers should announce content in the translated language of the page
 
-Instructions to access in Staging (or Prod for Drupal): see Use Case A
-
-Use Case D
-
-Description: Recipient clicks on the shared link and it takes them to the deep content
-
-Shareable link takes user to the header text of the deep linked content.
-If the content is inside an accordion, it is defaulted to open when the user lands on the page via the link.
-Use Case E
-
-Description: Alignment and placement (for accordion content)
-
-The copy link icon should appear inside the accordion, at the end of the answer/accordion text
-Description: Alignment and placement (for H3 content that's not inside an accordion)
-
-The copy link icon should appear at the end of the heading text.
-When space permits, the "Link copied" text will appear to the right of the icon and the top of the boxes will be aligned.
-When there is not enough space to the right of an icon, the "Link copied" text will appear to the left of the icon, overlapping the h3 text.
-Use Case F
-
-Description: Screen Readers
-
-The accessible label will contain relevant, content specific titles for the screen reader to announce, e.g. “Copy a sharable link to [How can I stay informed about COVID-19 vaccines at VA]”
-Use Case G
-
-Description: Mobile
-
-The link copy function and behavior is identical on desktop and mobile, excluding a hover state for mobile.
+The accessible label will contain relevant, content specific titles for the screen reader to announce
