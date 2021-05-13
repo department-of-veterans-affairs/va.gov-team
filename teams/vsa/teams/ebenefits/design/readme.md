@@ -28,9 +28,8 @@
 - [USDS Design System](https://designsystem.digital.gov/)
 
 ### Content
-- [Content Writing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-- [Messaging Directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
-- [Error Standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Content%20Style%20Guide.md)
+- [Content writing](https://design.va.gov/content-style-guide/)
+- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
 
