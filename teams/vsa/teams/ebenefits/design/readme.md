@@ -1,8 +1,14 @@
 # eBenefits Migration Design
 
 ### Features
-- Disabilities (Rated Disabilities)
-- Dependents
+- Rated Disabilities
+- View Dependents
+- View Payments
+- VA Form 21-686c/674 (Add/remove dependents)
+- VA Form 28-8832 (Chapter 36/PCPG)
+- VA Form 28-1900 (Chapter 31/VR&E)
+- VA form 21-0538 (Dependency Verification)
+- More...
 
 ### Content Guidance Links
 - [Content Writing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
