@@ -626,7 +626,30 @@ supplied in a React context.
 
 **Estimate:** 1 - 2 weeks
 
-#### Milestone: Do something with Save in Progress
+#### Milestone: Write the save in progress functions
+This milestone is to build the functions for saving and loading the form.
+
+**Prerequisites:**
+- Scaffold the project
+
+**Tasks:**
+- Write the `safeForm` function
+- Write the `loadForm` function
+  - Include the data migration functionality
+
+**Estimate:** 1 - 2 weeks
+
+#### Milestone: Write the save in progress components
+**Prerequisites:**
+- Write the save in progress functions
+
+**Tasks:**
+- Write the following components
+  - `SaveInProgress`
+  - `SiPIndicator`
+  - `FormSaved`
+  
+**Estimate:** 2 weeks
 
 #### Milestone: Tutorials
 Tutorials are an essential part for successful adoption of the library. The
