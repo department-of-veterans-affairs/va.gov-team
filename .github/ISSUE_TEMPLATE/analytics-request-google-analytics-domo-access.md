@@ -24,6 +24,7 @@ Please check the analytics tools you need access to:
 - [ ] Google Analytics
 - [ ] Domo
 - [ ] (Platform Teams only) BigQuery
+
 _Please list any additional requirements, if any._
 
 Once you receive access, you should receive a confirmation email directly from Google or Domo.
