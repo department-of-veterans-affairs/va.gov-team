@@ -18,3 +18,9 @@ Date - 5/17/2021
 2. Debtman URL redirect to /manage-va-debt
 3. Test redirects in prod 
 4. Set up DMC team in Domo 
+
+ **Roll-back Plan ** 
+ 
+ 1. Flip feature flag
+ 2. Remove Links from content to FSR
+ 
