@@ -327,27 +327,4 @@ CheckboxGroup.js
 <code>'promo-banner-type': //populate according to banner type (icon) in component`</code>
    </td>
   </tr>
-  <tr>
-   <td>Sidenav
-   </td>
-   <td>
-   </td>
-   <td>
-    Click on a sidenav link
-   </td>
-   <td><code>'event': 'nav-sidenav' //consistently populate for side navs</code>
-<p>
-<code>'sidenav-click-action': //'expand', 'collapse', 'click-through'</code>
-<p>
-<code>'sidenav-click-label': //populate according to sidenav clicked on</code>
-<p>
-<code>'sidenav-click-level': //number representing the indentation level of the navigation level clicked on</code>
-<p>
-<code>'sidenav-parent-label': //label of next 1-level higher parent, undefined if is parent</code>
-<p>
-<code>'sidenav-accordion-header': //label of the collapsible accordion header</code>
-<p>
-<code>'sidenav-section-title': //h4 in design system docs`</code>
-   </td>
-  </tr>
 </table>
