@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 *FITARA Approval and Form 2237 will need to be completed to approve the request.*
 
-
+Clear [here](https://github.com/department-of-veterans-affairs/va.gov-team/products/va-notify/VANotify Cloud Credit Purchase SOP.pdf) for the SOP
 ## Technical Onboarding Guide
 * [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 * Staging URL: https://staging.api.notifications.va.gov
