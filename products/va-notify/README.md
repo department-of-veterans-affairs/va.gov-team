@@ -72,7 +72,7 @@ ________________________________________________________________________________
 <br>
 
  To assign credits to VANotify, please follow these steps:
-  -  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for detailed instructions, or 
+  -  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for detailed instructions.
   - Link in the pdf -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
 
 
