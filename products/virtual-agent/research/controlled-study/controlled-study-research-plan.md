@@ -1,4 +1,4 @@
-DRAFT - NOT YET FINAL FORM
+Plese note this document is in draft form and has NOT been submitted to Perigean.
 
 
 # Research Plan for [VA-Virtual Agent, Virtual Agent, 5/16/2021]
@@ -36,14 +36,10 @@ We want to conduct research to answer qualitative feedback about our product whi
 The purpose of our proof of value is to learn what people are asking information about or tasks they want to complete, what language they use, how they interact with the product and how to build the chatbot.  As such, the focus is on understanding general usage and mental models rather than specific hypotheses we are looking for data to validate or refute. 
 
 
-
 ## Method
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
 
-
-Remote Unmoderated
+Remote unmoderated
 
 We would like to conduct an unmoderated controlled study where participants are invited to participate in the study by email and are sent a link to the chatbot on Staging.va.gov, a feedback link as well as a validation code.  
 
@@ -71,7 +67,6 @@ We will be gathering feedback on the product at staging.va.gov/virtual-agent
 
 We plan to use Optimal Workshop to capture feedback
 
-
 ## Participants and Recruitment	TO UPDATE
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
@@ -80,14 +75,17 @@ Please list your participant criteria in two categories-
 
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
+
+TBD
+
+
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+n/a
 
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+
+- Perigean
 
 ## When?
 
@@ -106,7 +104,6 @@ There is no set length of session as users will click on a link and we will be m
 **4.	Availability: If applicable, when would you like sessions scheduled?**
 
 June 1st to June 8th.  As this is unmoderated, we won’t require scheduling of sessions (to confirm)
-
 
 
 ## Team Roles
