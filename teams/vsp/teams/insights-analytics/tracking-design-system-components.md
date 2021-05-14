@@ -27,15 +27,13 @@ on the amount of time VFS and VSP teams spend in implementing the data layer and
   - `RadioButton`
 - While these components have been reviewed by the VSP Identity team, it is still at the responsibility of the VFS team to conduct a security review before data collection of these components can begin.
 
+### High Volume Components
 
-### Component Embed Schedule
-| Component Name | Tentative Sprint | Tentative Dates
-| ------------- | ------------------- | -----------
-_QA Testing of Buttons_ <br><br>_Begin implementation of [Additional Info,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/additionalinfo/)_ _[Alert Boxes,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/alertbox/)_ _[Modals](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/modal/)_| 44 | 1/20/2021-2/3/2021
- _QA Testing of Additional Info, Alert Boxes, Modals_ <br><br> _Begin implementation of_ _[Promo Banner,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/promobanner/) [Progress Bar,](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/progressbar/) [Loading Indicator](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/loadingindicator/)_| 45 |	2/3/2021-2/17/2021
- _QA Testing of Promo Banner, Progress bar, Loading Indicator_ <br><br> _Begin implementation of [Breadcrumbs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/breadcrumbs/)_ | 46 | 2/17/2021-3/3/2021
- _QA Testing + Deployment of design system components to-date, and identify event taxonomy + duplication cleanup where necessary_ | 47 | 3/3/2021-3/17/2021
- _Begin implementation of_ _Form Controls( [text box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/textarea/), [select box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/select/), [check box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/checkbox/), [radio buttons](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/radiobuttons/))_, _[Accordions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/collapsiblepanel/), [Pagination, ](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/pagination/) Side Nav_ <br><br> _QA testing of Form Controls( text box, select box, check box, radio buttons), Accordions, Pagination, Side Nav)_ <br><br> _HARDENING_ | 48 | 3/17/2021-3/31/2021
+Several components are disabled by default due to the high volume of hits they would generate site-wide.  These components have an `enableAnalaytics` parameter that will enable the analytics events.  These components are:
+
+- `LoadingIndicator`
+- `ProgressBar`
+- `SegmentedProgressBar`
 
 
 ### Specification
@@ -70,7 +68,7 @@ _QA Testing of Buttons_ <br><br>_Begin implementation of [Additional Info,](http
   <tr>
    <td>Accordions
    </td>
-   <td>CollapsiblePanel.js
+    <td><code>&lt;va-accordion&gt;</code> web component only (NOT CollapsiblePanel.js)
    </td>
    <td>Click to expand/collapse accordions
    </td>
@@ -139,20 +137,6 @@ _QA Testing of Buttons_ <br><br>_Begin implementation of [Additional Info,](http
 <code>'breadcrumb-totalLevels': //total number of click levels</code>
 <p>
 <code>'breadcrumb-mobile-first-enabled': //boolean for if the mobile first prop is used`</code>
-   </td>
-  </tr>
-  <tr>
-   <td>Featured Content
-   </td>
-   <td>
-   </td>
-   <td>Click on a featured content link
-   </td>
-   <td><code>'event': 'nav-featured-content-link-click' //consistently populate for all featured content link clicks</code>
-<p>
-<code>'featured-content-heading': //dynamically populate according to the header of the featured content</code>
-<p>
-<code>'featured-content-click-label': //dynamically populate according to the link label</code>
    </td>
   </tr>
   <tr>
@@ -267,20 +251,6 @@ CheckboxGroup.js
 <code>'date-date': //dynamically populates with the date selected</code>
 <p>
 <code>'date-required': //dynamically populates with boolean true or false, true if date is required</code>
-   </td>
-  </tr>
-  <tr>
-   <td>Form Controls - <em>MonthYear</em>
-   </td>
-   <td>MonthYear.js
-   </td>
-   <td>Select and click away from a MonthYear field selection
-   </td>
-   <td><code>'event': 'int-monthyear-input',</code>
-<p>
-<code>'monthyear-label': //dynamically populates with the entire label </code>
-<p>
-<code>'monthyear-date': //dynamically populates with the date value </code>
    </td>
   </tr>
   <tr>
