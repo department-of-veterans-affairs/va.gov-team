@@ -1,27 +1,52 @@
-TO BE CUSTOMIZED
+Please note this document is in draft form and has NOT been submitted to Perigean.
 
-# Research Plan for [Team, Product, Date]
+# Research Plan for Virtual Agent, 5/x/2021 - TO UPDATE
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
 ## Goals	TO UPDATE
 
 1. What product & team are you doing this research for?	
 
+This research is for the VA-Virtual Agent team for the Virtual Agent product. 	
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
+This product will be hosted on VA.gov as a virtual agent, colloquially known as a chatbot, to assist and answer veteran questions on all topics currently located on VA.gov. It is part of the larger Omnni-Channel strategy to provide veterans easier and self-serving access to their care and benefits.	
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
+We want to conduct research to answer qualitative feedback about our product which tie into our success metrics for the product, including questions such as:
+
+- What assistive technology do you use and for what tasks?
+- What were you trying to do using the chatbot and why?
+- Was there anything special about how you used the phrasing/language you used? 
+- Did you experience any errors and if so what did you do to correct them, if anything?
+- When did you stop interacting with the chatbot and why? At any point were you frustrated, overwhelmed or otherwise felt negative with the bot? 
+- Did the chatbot have the appropriate conversational tone?
+- Did you feel confident in the bot’s responses?
+- Was it easy to understand?
+- What’s something you liked about it?
+- What’s something that could be improved in the product?
+- Based on your experience, would you use this chatbot again to help answer questions or accomplish a task? Why or why not and when?
+- Any other feedback?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
+The purpose of our proof of value is to learn what people are asking information about or tasks they want to complete, what language they use, how they interact with the product and how to build the chatbot.  As such, the focus is on understanding general usage and mental models rather than specific hypotheses we are looking for data to validate or refute.  We do want to explore a number of hypotheses, including:
+
 ## Method	TO UPDATE
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
+
+We would like to conduct directed interviews and observation with the product.  While we are aware of some accessibility challenges in the product we’re using to make the chatbot, we would like to observe users with the product directly to understand if we are capturing all the problems and how severe they are.
+
 2.	Why this method? How does this methodology help you answer your research questions? 	
+
+We want to interview and observe because we want to:
+
+- Understand how participants are using the chatbot - what tasks they’re trying to complete,, how they interact with the chatbot and how they correct errors, if they sign into va.gov, etc. through observation
+- Observe what language they use when
+- Identify problems they experience and which we need to resolve especially with assistive technology
+
 
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
 
