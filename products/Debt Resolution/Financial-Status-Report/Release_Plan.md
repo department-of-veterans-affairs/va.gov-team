@@ -8,7 +8,7 @@ Date - 5/17/2021
 **Soft Release** 
  1. Feature flags flipped 
  2. Prod release happens between 2-3PM ET Craig to notify content team that release was successful 
- 3. Drupal pages published (Landing page) - Danielle _ Team - Leah to notify Jill everythign is in production 
+ 3. Drupal pages published (Landing page) - Danielle + Team - Leah to notify Jill everythign is in production 
  4. DMC adds banner announcing "new experience" with URL 
  5. +1 week Evaluate visitors/ FSR forms filled out on line 
  
