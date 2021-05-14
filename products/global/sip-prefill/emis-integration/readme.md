@@ -1,8 +1,7 @@
 # eMIS Integration
 As of September 2018, Vets.gov integrates with the eMIS v1 webservices. 
 
-eMIS has a v2 webservice with additional fields and information available. See the [v2 documents](eMIS_Documents/v2) for more information. 
-
+eMIS has a v2 webservice with additional fields and information available. See the [v2 documents](emis-documents/v2) for more information. 
 
 ## ATO/MOU/PIA Status
 - MOU - completed, submitted, approved, signed, filed ([PDF](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/assets/VetsGov%20ISAMOUs/Vets.gov%20VA%20VRS%20MOU%20ISA%2020170501.pdf))
