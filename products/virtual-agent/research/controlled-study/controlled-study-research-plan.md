@@ -1,7 +1,6 @@
 Plese note this document is in draft form and has NOT been submitted to Perigean.
 
-
-# Research Plan for [VA-Virtual Agent, Virtual Agent, 5/16/2021]
+# Research Plan for Virtual Agent, 5/x/2021  TO UPDATE
 As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.	
 
 ## Goals
