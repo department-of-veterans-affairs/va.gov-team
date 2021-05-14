@@ -47,10 +47,8 @@ Participant demographics:
 One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
 
 ### Research Questions
-- How do Veterans accomplish a list of common tasks?
-  - Where do they typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
-  - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
-  - What do they typically do on VA.gov? What tools have they tried using?
+- Where do Veterans typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
+- What do they typically do on VA.gov? What tools have they tried using?
 - Do they find what they're looking for? If not, what were they looking for?
 - What pain points are there in terms of findability and usage?
 - What works well?
@@ -61,9 +59,12 @@ One of the sessions was cut short due to technology issues, so most of the findi
 - Do Veterans read/notice/click/comment on the banner content on the home page?
 
 ### Hypotheses
-- Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
-- Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
-- Veterans aren't using all of the current search and browse tools on VA.gov. 	
+1. Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
+    1. LIKELY TRUE: Participants in this study were focused on the tasks they were asked to do and weren't looking for different tools. Participants that were shown *Find a Form* and *Resources and Support* were enthusiastic about them because it made their task easier to do.
+1. Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
+    1. LIKELY TRUE: Participants didn't talk about where information is stored and didn't realize that search results from *Find a VA Location*, *Find a Form*, and *Resources and Support* came from different places. The idea of what content is in what repository is not relevant to the Veteran's task at hand.
+3. Veterans aren't using all of the current search and browse tools on VA.gov. 	
+    1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the VA Benefits and Health Care dropdown, some didn't use Find a VA Location, and many didn't use anylinks below the row of pictures.
 
 ## Key Findings
 The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
@@ -84,7 +85,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
 1. **All participants were able to successfully complete 3 of the 9 tasks** (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
 3. **Most participants used the links in the "top 4" boxes extensively**, finding them useful to complete the tasks.
-4. Half of the participants (all desktop users, not mobile) used the links in the left nav on content pages. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MHV, which has only a small number of options at the top of the home page.
+4. Half of the participants (who were all desktop users, not mobile) used the links in the left nav on content pages. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MHV, which has only a small number of options at the top of the home page.
 
 ### Wayfinding Issues
 1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, how to set up direct deposit for VA travel pay reimbursement, and how to share VA medical history with a doctor outside the VA).  **Navigation paths to complete the tasks were not always straightforward**, which helps explain why not everyone was successful. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
@@ -103,7 +104,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
     1. Most participants (69%) didn't find the *Find a VA form* page on their own, but once they were shown it, they wanted easier access to it from the top of the home page to the right of Find a VA Location or under Menu (for mobile). 
     1. Half of the participants never opened the *VA Benefits and Health Care* dropdown. *"Oh wow, I didn't even know they had this!" (p17).*
     1. A third of the participants never scrolled down past the row of images on the home page; they stopped as if it were the bottom of the page. One participant who did eventually scroll said *"I usually won't scroll all the way to the bottom of a page" (p16)* but did in this case while trying to do one of the tasks. ==> *Consider moving the row of images down to the actual bottom of the page.*
-        2. TBD: COMPARE THIS WITH ANALYTICS DATA. 
+        ***2. TBD: COMPARE THIS WITH ANALYTICS DATA.***
 1. No participants started with site search (in the header of the home page), but about half went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* in the header at first, but once they found it, a few used it in later tasks.
     1. "It is an option of last resort. When all else fails, use the search function." (p16)
     1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*. --> *Consider adding a search box next to the word* Search *in the header to make it more visible.*
@@ -133,7 +134,8 @@ Below are visualizations showing where research participants using mobile device
 ### Differences by Participant Category
 - **Mobile vs. desktop**: There were *no any major differences in research results between mobile and desktop users*, as users on both kinds of devices spent much of their time on the "top 4" boxes. The big difference is the interaction required to reach other links: mobile users have to tap the "Menu" button in the header before they can see the VA Benefits and Health Care megamenu and Find a VA Location. Of the 5 mobile users in this research, 3 used the Menu button and seemed comfortable doing so. The other 2 mobile users did not use the "Menu" button during the research sessions, and it is unknown whether they noticed it or not. The footer on mobile has accordians to access VA Forms, Resources and support, and Find a VA Location links, but none of the mobile research participants scrolled down to the footer to see this. 
 - **Cognitive disability**: 3 participants were reported to have a cognitive disability, but this was not confirmed during the research sessions. *No significant differences* in task performance were observed between these individuals and the others, although one of them was among the four participants overall who had difficulty typing concise search queries and correctly spelling the words in them. A different participant with a cognitive disability finished fewer tasks than many other participants, but that was probably due to their tendency to talk in detail about their experiences with the VA and focus less on the research tasks.
-- **Screen reader**: The one participant who used a screen reader completed fewer tasks than many other participants because *listening to their screen reader read text aloud resulted in slower navigation*.   
+- **Screen reader**: The one participant who used a screen reader completed fewer tasks than many other participants because *listening to their screen reader read text aloud resulted in slower navigation*. 
+- **Hadn't used VA.gov before**: Only 2 participants had never used VA.gov before, and there were *no notable differences* in their interactions with the website as compared to the other participants.
 
 ### Non-Wayfinding Successes
 
@@ -150,15 +152,20 @@ Below are visualizations showing where research participants using mobile device
     3. One participant corrected their spelling of "reimbursement" when they saw a red underline (from the browser), clicked on it, and then chose the correct spelling.
     4. One participant searched for "spouse" but didn't see the add dependent form in the search results.
     5. One participant didn't try the search box at first because they didn't have the form number and didn't realize that you could enter keywords instead.
-3. Three participants complained about the COVID banner alert they kept seeing.
+3. **Three participants complained about the COVID banner alert they kept seeing**, one of which said they wanted to be able to close it to get it out of the way. Three participants acknowledged the alert but didn't comment on it. The other participants didn't say anything about it.
     4. *"Yuck! Don't want to keep seeing it because I already hear about it constantly from the VA" (p8)*
     5. *"Can't wait for the COVID popups to stop" (p19, who uses a screen reader)*. Their screen reader was reading the alert aloud every time they opened the page so couldn't ignore it.
 6. One participant expected that changing their direct deposit information would update it for all types of VA payments (e.g., disability, retirement, travel reimbursement) at once. This currently isn't the case for at least disability and travel reimbursement.
 7. One participant saw a "your browser is out of date" error message while waiting for search results. Nick Sullivan's interpretation is that the participant's browser was waiting for this JS to load: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed. Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
 
 ## Additional Insights
+1. When participants were asked where they typically go **to get information and benefits from the VA, over half said that they go to VA.gov**, a third go to MyHealtheVet, 2 call the VA, and 1 person said they search on google.
 1. 83% of participants said that **if they can't find what they're looking for, they would call the VA** (800 number, a regional number, VSO, or a clinic). However, they try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. **Half of the participants said they would use google search** to help, and 2 said they might go to a VA facility to ask.
 3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?
+4. In addition to the specific issues described above, there were a few **additional pain points** mentioned by some of the participants:
+    5. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
+    6. Signing in
+    7. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, indicating that you're unable to accomplish your goal on just one website. (Wasn't this a stated goal of VA.gov?)
 
 
 ## Recommendations
@@ -194,13 +201,14 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 
 ### Interview notes
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding/notes
 
 ### Tools used for Synthesis
-spreadsheets
+LINK synthesis and analytics spreadsheets 
 
 ### Pages and applications used
-Link to prototypes or pages that were tested
+[VA.gov](VA.gov)
 
 ### Other supporting documents created
-e.g., user flows, personas, etc.
+LINK home page visualization presentation
 
