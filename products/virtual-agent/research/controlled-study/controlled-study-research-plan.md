@@ -3,7 +3,7 @@ TO BE CUSTOMIZED
 # Research Plan for [Team, Product, Date]
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
-## Goals	
+## Goals	TO UPDATE
 
 1. What product & team are you doing this research for?	
 
@@ -16,7 +16,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
-## Method	
+## Method	TO UPDATE
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
   - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
@@ -32,7 +32,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
 
-## Participants and Recruitment	
+## Participants and Recruitment	TO UPDATE
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
@@ -49,7 +49,7 @@ Please list your participant criteria in two categories-
 2.	What is your recruitment strategy? 	
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
 
-## When? 	
+## When? 	TO UPDATE
 
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
@@ -67,7 +67,7 @@ Please list your participant criteria in two categories-
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
 
-## Team Roles	
+## Team Roles	TO UPDATE
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
@@ -79,7 +79,7 @@ Please list the people who will be serving in each role. **Include the primary p
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
 
-## Resources	
+## Resources	TO UPDATE
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Convo Guide	
