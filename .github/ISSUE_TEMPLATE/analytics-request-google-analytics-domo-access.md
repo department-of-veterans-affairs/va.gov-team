@@ -25,6 +25,8 @@ Please check the analytics tools you need access to:
 - [ ] Domo
 _Please list any additional requirements, if any._
 
+Once you receive access, you should receive a confirmation email directly from Google or Domo.
+
 ## Date Required
 _Please share the date you require access._
 
