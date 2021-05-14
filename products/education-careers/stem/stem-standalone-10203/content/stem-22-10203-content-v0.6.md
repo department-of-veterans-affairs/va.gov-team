@@ -37,11 +37,11 @@ Sign in or create an account { button }
 { yellow warning alert }  
 **You may not be eligible** 
 
-To be eligible for the Rogers STEM Scholarship, you must have less than 6 months of Post-9/11 GI Bill benefits left when you submit your application.  
+You must have less than 6 months left of Post-9/11 GI Bill benefits when you submit your application.
 
-Our entitlement system shows you have the following benefits remaining: **NN months, NN days**  
+Our system shows you have **NN months, NN days** remaining of GI Bill benefits.
 
-If you apply and you're not eligible, your application will be denied.   
+If you apply now, your application will be denied.   
 
 { end warning alert }    
 
@@ -314,9 +314,9 @@ __Your responses:__
 
 **Your remaining education benefits**  
 
-Our entitlement system shows that you have more than 6 months of education benefits remaining. You should apply when you have less than 6 months of entitlement left.  
+You must have less than 6 months left of Post-9/11 GI Bill benefits when you submit your application. Our system shows you have **7 months, 0 days** remaining of GI Bill benefits.  
 
-Months you have left to use: **NN months, NN days**   
+If you apply now, your application will be denied.  
 
 { end yellow warning alert }  
 
