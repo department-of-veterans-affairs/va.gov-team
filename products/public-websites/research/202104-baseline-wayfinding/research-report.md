@@ -98,7 +98,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
     6. For message doctor: One participant was confused about why they would message their doctor from VA.gov when they know they have to go to MHV to do this, as their doctor's office told them. They didn't realize that they could do this from VA.gov. One participant went to the facility locator to find their doctor's office phone number or contact them online. Later they found secure messaging in the "top 4" box.
 
 
-1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** This was true for both mobile and desktop users. One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. SHOW VISUALIZATION PICS, INCL. HOW CONSISTENT W/ANALYTICS DATA
+1. **The VA.gov home page is long, and a majority of participants (both mobile and desktop) stayed focused on only one part of it (usually the "top 4" boxes), mostly not looking at anything else on the page.** This was true for both mobile and desktop users, which is also consistent with analytics data (for detailed visualizations, see "Where People Click" below). One participant on a smartphone stayed focused on the VA Benefits and Health Care dropdown. 
     1. Most participants (77%) didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching from the VA.gov home page. The participants who were shown this page wanted easier access to it from the top of the home page near the *Sign in* button or under Menu (for mobile).
     1. Most participants (69%) didn't find the *Find a VA form* page on their own, but once they were shown it, they wanted easier access to it from the top of the home page to the right of Find a VA Location or under Menu (for mobile). 
     1. Half of the participants never opened the *VA Benefits and Health Care* dropdown. *"Oh wow, I didn't even know they had this!" (p17).*
@@ -112,7 +112,23 @@ The 5-10 top findings from your study should be listed here. Write your findings
 2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form. She recommends fixing it so it is easily findable as on google.com. 
 3. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
 
-### Wayfinding Differences by Participant Category
+### Where People Click 
+Below are visualizations showing the desktop and mobile versions of the VA.gov home page, along with the main areas labeled and important links highlighted.
+![desktop-areas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-areas.png)
+![desktop-links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-links.png)
+![mobile-areas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-areas.png)
+![mobile-links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-links.png)
+
+Below are visualizations showing where research participants using computers (desktop or laptop) clicked, where analytics data shows clicks, and a comparison of the two.
+![desktop-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-research.png)
+![desktop-analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-analytics.png)
+![desktop-compare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-compare.png)
+
+Below are visualizations showing where research participants using mobile devices (smartphones or tables) clicked, where analytics data shows clicks, and a comparison of the two.
+![mobile-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-research.png)
+![mobile-analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-analytics.png)
+![mobile-compare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/moblile-compare.png)
+
 
 
 ### Non-Wayfinding Successes
