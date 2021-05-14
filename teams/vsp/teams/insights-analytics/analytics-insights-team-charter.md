@@ -239,6 +239,8 @@ All work should be validated as defined by the acceptance criteria. Each ticket'
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager on the DSVA Slack and ask for help to work it into the sprint.
 
+*Collaboration Cycle*: Our team provides analytics services and customer support for quality assurance in the Platform Collaboration Cycle. You can read more about the Collaboration Cycle [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md#the-collaboration-cycle-process).
+
 *Prioritizing*
 
 - Ensure that we are putting VFS teams and Veteran Facing Services first. In an effort to provide excellent customer support, reply to Slack messages within a general 2 hour time frame. This can be a threaded response, as in "We should be able to take a look tomorrow. Could you please submit this as a GH issue using this template: [link]?" [Platform Slack message with customer service message](https://dsva.slack.com/archives/CJRQ85PQB/p1564606636087800).
