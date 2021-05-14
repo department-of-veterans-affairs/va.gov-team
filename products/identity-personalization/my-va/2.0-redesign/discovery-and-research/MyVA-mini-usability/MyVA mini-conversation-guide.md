@@ -23,10 +23,6 @@ Before we start, a few things I want to mention:
 - **Please go slower than you normally would and if you could talk aloud about what you are doing, that would be great.** 
 - **In this study we'll be looking at your REAL information - if at anytime you feel uncomfortable screensharing, please let me know and we can stop.** 
 
-## Screenshare
-
-- I'll have you log in to VA.gov, and then share your screen with me. If you need help at all, I'm happy to help.
-
 ## Warm up Questions
 
 1. Do you currently, or have you ever, received any benefits from the VA?
