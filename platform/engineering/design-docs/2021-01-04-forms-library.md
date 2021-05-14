@@ -400,6 +400,12 @@ order.
 #### Helper: Submission validation
 Compare the form data against a JSON schema.
 
+**TODO:** Figure out how to display the results of this. It's not exactly useful
+if we can't display the results. Then there's the question of getting the JSON
+schema to match the validation in the form flow.
+
+Maybe this isn't a production thing. Maybe this is just a developer aid. But how?
+
 ### Code Location
 Formulate will live in its own repository.
 
