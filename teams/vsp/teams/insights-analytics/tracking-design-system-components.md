@@ -129,23 +129,18 @@ Several components are disabled by default due to the high volume of hits they w
    <td>TextInput.js
 <p>
 TextArea.js
-<p>
-NumberInput.js
    </td>
    <td>Input and click away from text box
    </td>
-   <td><pre lang="js">'event': 'int-textbox-input' //consistently populate for text box inputs
-'textinput-label': //dynamically populate according to the label of the text box
-'textinput-field-value': //dynamically populate with the user input text
-'textinput-type': //dynamically populate according to the text prop variable
-'textinput-required': //dynamically populates with boolean true or false, true if text input is required</pre>
+   <td><pre lang="js">'event': 'int-text-input-blur' //consistently populate for text box inputs
+'text-input-label': //dynamically populate according to the label of the text box
+'text-input-value': //dynamically populate with the user input text</pre>
 <p>
 <strong><em>Substitute these variables for TextArea.js</em></strong>
 <p>
-<pre lang="js">'textarea-label': //dynamically populate according to the label of the text area
-'textarea-field-value': //dynamically populate with the user input text
-'textarea-required': //dynamically populates with boolean true or false, true if text area is required
-'textarea-type': //dynamically populate according to the text prop variable</pre>
+<pre lang="js">'event': 'int-text-area-blur' //consistently populate for text box inputs
+'text-area-label': //dynamically populate according to the label of the text area
+'text-area-value': //dynamically populate with the user input text</pre>
    </td>
   </tr>
   <tr>
@@ -178,7 +173,8 @@ CheckboxGroup.js
 <p>
 <strong><em>Substitute these variables for CheckboxGroup.js</em></strong>
 <p>
-<pre lang="js">'checkboxgroup-options-label': //dynamically populates with the label of the selected checkbox
+<pre lang="js">'event': 'int-checkbox-group-option-click'
+'checkbox-group-optionLabel': //dynamically populates with the label of the selected checkbox
 'checkbox-group-label: //dynamically populates with the label of the checkbox group presented to the user
 'checkbox-group-required': //dynamically populates with boolean true or false, true if checkboxgroup is required</pre>
    </td>
@@ -192,8 +188,7 @@ CheckboxGroup.js
    </td>
    <td><pre lang="js">'event': 'int-radio-button-option-click', //consistently populate for all radio button toggles
 'radio-button-label': //dynamically populate according to the radio button label for the group presented to the user
-'radio-button-option-click-label': //dynamically populate according to the radio button option selected label
-'radio-button-options-label: //dynamically populates according to the radio button options array
+'radio-button-optionLabel': //dynamically populate according to the radio button option selected label
 'radio-button-required: //dynamically populates with boolean true or false, true if radio button is required</pre>
    </td>
   </tr>
