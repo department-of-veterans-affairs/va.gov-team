@@ -23,13 +23,17 @@
 
 ## Friday May 14
 * Help desk triage
+  * Lots of issues to work through, eg new Dermatology. Heavy this week, same week that Help desk team went down from 3 to 0. 
 * Facility health services migration
-* Four draft pages for every VAMC (/work-with-us/internships-fellowships, /work-with-us/doing-business-with-us, /programs, /research). What's the timelnie on creating these? Since these are the only pages eligible to have child menu items, would be ideal to have them in place before the announcement and documentation about the menu changes.
+* Four draft pages for every VAMC (/work-with-us/internships-fellowships, /work-with-us/doing-business-with-us, /programs, /research). What's the timeline on creating these? Since these are the only pages eligible to have child menu items, would be ideal to have them in place before the announcement and documentation about the menu changes.
+  * VAMC team to ensure all these pages on each system, in Draft or Published state. VAMCs that don't want it (eg Butler, or one in 19) will know that it's optional. 
+  * CMS team won't merge or announce menu lockdown until these pages are there.
 * Upcoming change: Facility health service selectors #4923 /  PR #5328
-* Pittsburgh IA
 * PAOs are adding System and Facility Health services, but Taxonomy is not in CMS.(Consider ideas for a Work around until this can be resolved?)
+  * Stan Lisa and Dave documenting the content strategy of the health services, and the CMS UX for managing health services can leverage that. 
 * 10 or less broken links?  Are they still listed for purposes of fixing them?
 * Mobile, Domiciliary, Community Living Center (CLC)
+* Pittsburgh IA
 
 ## Friday May 7
 * Help desk triage
