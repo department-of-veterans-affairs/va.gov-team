@@ -27,8 +27,16 @@ Findings are inconclusive due to Search.gov defect, [see details](https://github
 ## Phase III: Typeahead 1.0 Release
 
 ### Planning:
--  Targeting May 18, 2021- Launch to 100% of VA.gov users
-- User Set: All VA.gov search traffic 
+-  Planning to conduct a phased roll out to VA.gov search traffic:
+    -  Monday, May 17, 2021 - Increase to 50%  
+        - Followed by evaluation to ensure we are not hitting any rate overages
+    -  Tuesday, May 18, 2021 - Increase to 65% 
+        -  Followed by evaluation to ensure we are not hitting any rate overages
+    -  Wednesday, May 19, 2021 - Increase to 80% 
+       -  Followed by evaluation to ensure we are not hitting any rate overages
+    -  Thursday, May 20, 2021 - Increase to 100%
+       -  Search & Discovery team will continue to monitor the rates at which we are hitting the search.gov API. If there is ANY concern that we are reaching the overage rates we will decide if rolling back to 80% is needed or if Search.gov needs to further increases our rate limits. 
+
 
 
 
