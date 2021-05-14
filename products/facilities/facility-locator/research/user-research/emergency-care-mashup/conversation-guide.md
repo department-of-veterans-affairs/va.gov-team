@@ -50,9 +50,11 @@ Before we start, a few things I want to mention:
 
 I'm going to share a link to a prototype here in the zoom chat window for you to click on. 
 Then I'll want you to share your screen so that I can follow along and see what you see.
-Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
 Are you already familiar with the process of sharing your screen?
+
  * [If no: ask if they're on a laptop/desktop - then share Kristen's slides]
+
+Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
 
 ### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
