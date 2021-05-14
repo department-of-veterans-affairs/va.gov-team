@@ -102,28 +102,29 @@ The 5-10 top findings from your study should be listed here. Write your findings
     1. Most participants (77%) didn't find the *Resources and support* page on their own, though about half found the travel reimbursement direct deposit article via browsing or searching from the VA.gov home page. The participants who were shown this page wanted easier access to it from the top of the home page near the *Sign in* button or under Menu (for mobile).
     1. Most participants (69%) didn't find the *Find a VA form* page on their own, but once they were shown it, they wanted easier access to it from the top of the home page to the right of Find a VA Location or under Menu (for mobile). 
     1. Half of the participants never opened the *VA Benefits and Health Care* dropdown. *"Oh wow, I didn't even know they had this!" (p17).*
-    1. A third of the participants never scrolled down past the row of images on the home page; they stopped as if it were the bottom of the page. TBD: COMPARE THIS WITH ANALYTICS DATA. ==> *Consider moving the row of images down to the actual bottom of the page.*
-
+    1. A third of the participants never scrolled down past the row of images on the home page; they stopped as if it were the bottom of the page. One participant who did eventually scroll said *"I usually won't scroll all the way to the bottom of a page" (p16)* but did in this case while trying to do one of the tasks. ==> *Consider moving the row of images down to the actual bottom of the page.*
+        2. TBD: COMPARE THIS WITH ANALYTICS DATA. 
 1. No participants started with site search (in the header of the home page), but about half went there when they were unable to find any relevant links elsewhere on the home page. Some participants said that they didn't notice *Search* in the header at first, but once they found it, a few used it in later tasks.
     1. "It is an option of last resort. When all else fails, use the search function." (p16)
     1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*. --> *Consider adding a search box next to the word* Search *in the header to make it more visible.*
 
 1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they could read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (1 age 75 or older, 1 65-74, and 3 55-64). 
-2. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
+2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form. She recommends fixing it so it is easily findable as on google.com. 
+3. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
 
-### Mobile vs. desktop differences
+### Wayfinding Differences by Participant Category
 
 
-### Other Usability Successes
+### Non-Wayfinding Successes
 
 1. All 5 participants who were shown the ***Resources and support* page** were able to use it to complete the relevant task by browsing topics or searching on the page. 
 1. Two participants noticed **typeahead prompts** while searching and used them. One typed "loans" and then selected "loan eligibility"; the other typed "add spouse" and then selected "dependent".
 1. The VA.gov home page **worked well with a screen reader**. *"This is user friendly for a screen reader...not a lot of graphics...works pretty good" (p19).*
 
 
-### Other Usability Issues
+### Non-Wayfinding Issues
 
-1. Four participants had a lot of **difficulty searching on the *Find a VA form* page** because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that the didn't get any relevant search results, perhaps because they're accustomed to Google's success with long wordy and misspelled queries.
+1. Four participants had a lot of **difficulty searching on the *Find a VA form* page** because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that the didn't get any relevant search results, perhaps because they're accustomed to Google's success with long wordy and misspelled queries. To be successful at searching on this page, you need to choose not too many words for the search query *and* spell them correctly.
     1. Search queries that didn't work: "assign a representive", "assign a representative", "va representative for appeals", "how do I get a representative for va assistance", "representative for claim", "representative for claim filing", "representative for claim appeal"
     2. Search queries that *did* work: “assign representative”, "disability representative", "representative appeal"
     3. One participant corrected their spelling of "reimbursement" when they saw a red underline (from the browser), clicked on it, and then chose the correct spelling.
@@ -133,7 +134,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
     4. *"Yuck! Don't want to keep seeing it because I already hear about it constantly from the VA" (p8)*
     5. *"Can't wait for the COVID popups to stop" (p19, who uses a screen reader)*. Their screen reader was reading the alert aloud every time they opened the page so couldn't ignore it.
 6. One participant expected that changing their direct deposit information would update it for all types of VA payments (e.g., disability, retirement, travel reimbursement) at once. This currently isn't the case for at least disability and travel reimbursement.
-
+7. One participant saw a "your browser is out of date" error message while waiting for search results. Nick Sullivan's interpretation was that the participant's browser was waiting for this JS: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed. Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
 
 ## Additional Insights
 1. Over half of participants said that **if they can't find what they're looking for, they would call the VA**. However, they try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. SUMMARIZE WHO THEY SAY THEY'D CALL AT THE VA, AND WHAT ELSE THEY'D DO (GOOGLE).
@@ -158,8 +159,9 @@ Below are some initial recommendations based on research findings to be discusse
     2. Search only on the first few words of a long search query
     3. Add typeahead suggestions when entering a search query 
     4. Add some fixed links per search query (e.g., a search for "spouse" should return the form to add/update dependents)
-5. Consider making the COVID banner alert on the home page dismissable (as it is on other content pages) to reclaim screen real estate and stop annoying Veterans. Also, accessibility expert Josh Kim recommends making the alert less annoying to screen reader users by changing the current *aria-live* attribute from *assertive* (interrupts user actions) to *polite*, which tells the screen reader to wait until the user is done to announce updates.
+5. Consider making the COVID banner alert on the home page dismissable (as it is on other content pages) to reclaim screen real estate and stop annoying Veterans. Also, accessibility specialist Josh Kim recommends making the alert less annoying to screen reader users by changing the current *aria-live* attribute from *assertive* (interrupts user actions) to *polite*, which tells the screen reader to wait until the user is done to announce updates.
 6. Consider increasing the font size of the links in the "top 4" boxes from the current 16px to 19px, which is the current recommendation (though not required) for older users, per Josh Kim and our peers (including Gov.uk, NHS, Health Literacy Online), because many of our users are older. We could conduct more research on the VA.gov home page with people age 55-64 or older.
+7. Consider revising the site search box to make it easier to find while using a screen reader by...GET DETAILS FROM ANGELA
 
 ## Next Steps
 Next steps here
