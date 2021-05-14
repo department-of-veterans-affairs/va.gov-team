@@ -4,13 +4,14 @@
 ### Attendees
 - John Hashimoto
 - Marci McGuire
-- Robert Parks
+- Robert Parks, Chief, Part 3 Regulations & Forms staff (VBAVACO)
+- Ming Ligh (PO - Caregiver)
 - Adrienne Hooten VBA
 - Moneke Stevens, VBA
 - Yvette Allmond, VBA
 - Nicole Hayes, VBA
 - Takekwa Barnes, VBA
-- Ming Ligh (PO - Caregiver)
+
 
 ### Notes
 - Janel, Nancy were not in attendence today
