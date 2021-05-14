@@ -21,6 +21,14 @@
 
 </details>
 
+## Friday May 21
+* Help desk triage
+* Office hours May 25
+* Status of 4 required pages
+* Facility health services migration
+* Mobile, Domiciliary, Community Living Center (CLC)
+* Pittsburgh IA
+
 ## Friday May 14
 * Help desk triage
   * Lots of issues to work through, eg new Dermatology. Heavy this week, same week that Help desk team went down from 3 to 0. 
@@ -32,8 +40,7 @@
 * PAOs are adding System and Facility Health services, but Taxonomy is not in CMS.(Consider ideas for a Work around until this can be resolved?)
   * Stan Lisa and Dave documenting the content strategy of the health services, and the CMS UX for managing health services can leverage that. 
 * 10 or less broken links?  Are they still listed for purposes of fixing them?
-* Mobile, Domiciliary, Community Living Center (CLC)
-* Pittsburgh IA
+
 
 ## Friday May 7
 * Help desk triage
