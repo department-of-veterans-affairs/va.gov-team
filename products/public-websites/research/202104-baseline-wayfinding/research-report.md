@@ -111,8 +111,6 @@ The 5-10 top findings from your study should be listed here. Write your findings
 1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes.
 2. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
 
-### Other usability successes and issues
-
 ### Mobile vs. desktop differences
 
 
@@ -120,16 +118,17 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 1. All of the 5 participants who were shown the *Resources and support* page were able to use it to complete the relevant task. 
 1. Two participants noticed typeahead prompts while searching and used them. One typed "loans" and then selected "loan eligibility"; the other typed "add spouse" and then selected "dependent".
-1. The VA.gov home page worked well with a screen reader.
+1. The VA.gov home page worked well with a screen reader. *"This is user friendly for a screen reader...not a lot of graphics...works pretty good" (p19).*
 
 
 ### Other Usability Issues
 
-1. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that the didn't get any relevant search results, perhaps because they're accustomed to Google's success with long wordy and misspelled queries.
+1. Four participants had a lot of **difficulty searching on the *Find a VA form* page** because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that the didn't get any relevant search results, perhaps because they're accustomed to Google's success with long wordy and misspelled queries.
     1. Search queries that didn't work: "assign a representive", "assign a representative", "va representative for appeals", "how do I get a representative for va assistance", "representative for claim", "representative for claim filing", "representative for claim appeal"
     2. Search queries that *did* work: “assign representative”, "disability representative", "representative appeal"
     3. One participant corrected their spelling of "reimbursement" when they saw a red underline (from the browser), clicked on it, and then chose the correct spelling.
     4. One participant searched for "spouse" but didn't see the add dependent form in the search results.
+    5. One participant didn't try the search box at first because they didn't have the form number and didn't realize that you could enter keywords instead.
 3. Three participants complained about the COVID banner alert they kept seeing.
 
 
