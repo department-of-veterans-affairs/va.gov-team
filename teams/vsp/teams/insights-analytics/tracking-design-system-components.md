@@ -21,13 +21,10 @@ on the amount of time VFS and VSP teams spend in implementing the data layer and
 - That said, there are several components that by default do **NOT** collect metadata by default due to the nature of how these components are often used for PII-related inputs, those components are: 
   - `TextInput`
   - `TextArea`
-  - `NumberInput`
   - `Select`
   - `Checkbox`
   - `CheckboxGroup`
   - `RadioButton`
-  - `MonthYear`
-  - `Date`
 - While these components have been reviewed by the VSP Identity team, it is still at the responsibility of the VFS team to conduct a security review before data collection of these components can begin.
 
 
