@@ -26,8 +26,7 @@ This document serves to capture smaller updates we've made to profile that don't
 - **Release date**: TBD
 - **Impacted pages:** personal and contact information
 - **Device:** mobile or desktop
-- GH issue [13246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13246)
-
+- GH issue [13246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13246)and 
 ### Research questions
 - Is it clear to people that we don't handle international phone numbers?
 
@@ -42,10 +41,11 @@ This document serves to capture smaller updates we've made to profile that don't
 - Is this sufficient?
 
 ## Add FAQ around what departments get updated when a veteran updates their contact info
-- **Release date**: TBD
+- **Release date**: 4/15/2021
 - **Impacted pages:** profile (possibly just personal and contact information, TBD at time of writing)
 - **Device:** mobile or desktop
-- GH Issue [#20221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20221)
+- GH Issue [#20221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20221) and [#23376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)
+
 
 ### Research questions
 - Is it helpful to people to have this information?
