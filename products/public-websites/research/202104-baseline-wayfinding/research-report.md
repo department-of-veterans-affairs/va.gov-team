@@ -81,9 +81,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 ### Wayfinding successes 
 
-1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
+1. **All participants were able to successfully complete 3 of the 9 tasks** (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9).
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
-3. Most participants used the links in the "top 4" boxes extensively, finding them useful to complete the tasks.
+3. **Most participants used the links in the "top 4" boxes extensively**, finding them useful to complete the tasks.
 4. Half of the participants (all desktop users, not mobile) used the links in the left nav on content pages. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MHV, which has only a small number of options at the top of the home page.
 
 ### Wayfinding Issues
@@ -108,8 +108,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
     1. "It is an option of last resort. When all else fails, use the search function." (p16)
     1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*. --> *Consider adding a search box next to the word* Search *in the header to make it more visible.*
 
-1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they could read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (1 age 75 or older, 1 65-74, and 3 55-64). 
-2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form. She recommends fixing it so it is easily findable as on google.com. 
+1. **Two accessibility issues were encountered.**
+    1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they could read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (1 age 75 or older, 1 65-74, and 3 55-64). 
+    2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form. She recommends fixing it so it is easily findable as on google.com. 
 3. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov ("easier to sign in [first] because it will ask me to later", p11). This participant was asked to proceed without signing in. (Does signing in affect navigation in any way, other than changing the link on the right in the header?) 
 
 ### Where People Click 
@@ -129,7 +130,10 @@ Below are visualizations showing where research participants using mobile device
 ![mobile-analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-analytics.png)
 ![mobile-compare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/moblile-compare.png)
 
-
+### Differences by Participant Category
+- **Mobile vs. desktop**: There were *no any major differences in research results between mobile and desktop users*, as users on both kinds of devices spent much of their time on the "top 4" boxes. The big difference is the interaction required to reach other links: mobile users have to tap the "Menu" button in the header before they can see the VA Benefits and Health Care megamenu and Find a VA Location. Of the 5 mobile users in this research, 3 used the Menu button and seemed comfortable doing so. The other 2 mobile users did not use the "Menu" button during the research sessions, and it is unknown whether they noticed it or not. The footer on mobile has accordians to access VA Forms, Resources and support, and Find a VA Location links, but none of the mobile research participants scrolled down to the footer to see this. 
+- **Cognitive disability**: 3 participants were reported to have a cognitive disability, but this was not confirmed during the research sessions. *No significant differences* in task performance were observed between these individuals and the others, although one of them was among the four participants overall who had difficulty typing concise search queries and correctly spelling the words in them. A different participant with a cognitive disability finished fewer tasks than many other participants, but that was probably due to their tendency to talk in detail about their experiences with the VA and focus less on the research tasks.
+- **Screen reader**: The one participant who used a screen reader completed fewer tasks than many other participants because *listening to their screen reader read text aloud resulted in slower navigation*.   
 
 ### Non-Wayfinding Successes
 
@@ -177,7 +181,7 @@ Below are some initial recommendations based on research findings to be discusse
     4. Add some fixed links per search query (e.g., a search for "spouse" should return the form to add/update dependents)
 5. Consider making the COVID banner alert on the home page dismissable (as it is on other content pages) to reclaim screen real estate and stop annoying Veterans. Also, accessibility specialist Josh Kim recommends making the alert less annoying to screen reader users by changing the current *aria-live* attribute from *assertive* (interrupts user actions) to *polite*, which tells the screen reader to wait until the user is done to announce updates.
 6. Consider increasing the font size of the links in the "top 4" boxes from the current 16px to 19px, which is the current recommendation (though not required) for older users, per Josh Kim and our peers (including Gov.uk, NHS, Health Literacy Online), because many of our users are older. We could conduct more research on the VA.gov home page with people age 55-64 or older.
-7. Consider revising the site search box to make it easier to find while using a screen reader by...GET DETAILS FROM ANGELA
+7. Consider revising the site search box to make it easier to find quickly while using a screen reader by coding search as a landmark (per Josh Kim and Angela Fowler).
 
 ## Next Steps
 Next steps here
