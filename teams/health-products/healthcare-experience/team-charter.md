@@ -31,8 +31,7 @@ Healthcare Experience - Veteran (person/consumer of health)
 ### Product Portfolio:
  1. Healthecare - Questionnaires/Intake forms
  	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
- 2. _coming soon_ 
- 3. _coming soon_ 
+ 2. Check-in Experience
 
 ---
 
