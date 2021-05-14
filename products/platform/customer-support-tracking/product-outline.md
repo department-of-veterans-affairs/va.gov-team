@@ -50,7 +50,7 @@ VSP team members and Leadership.
 
 ## Launch Dates
 
-- TBD
+- May 2021
 
 ------
 
@@ -64,7 +64,7 @@ VSP team members and Leadership.
 - Team Name: Service Design Team
 - GitHub Label: service-design
 - Slack channel: #vsp-service-design
-- Product POCs: James Chasia, Andrea Chappelear
+- Product POCs: James Chasia, Rebekah Hickey, Jonathan Nelson
 
 ### Stakeholders
 
