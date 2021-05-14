@@ -4,6 +4,22 @@
 ### Attendees
 - John Hashimoto
 - Marci McGuire
+- Robert Parks
+- Adrienne Hooten VBA
+- Moneke Stevens, VBA
+- Yvette Allmond, VBA
+- Nicole Hayes, VBA
+- Takekwa Barnes, VBA
+- Ming Ligh (PO - Caregiver)
+
+### Notes
+- Janel, Nancy were not in attendence today
+- Are there VHA people invited, or are they just not showing up?
+- 2-pronged approach with PDF issues - how to save/format & some user insructions
+- Yvette - Missy and some other folks should be involved.
+- There is a direct relationship with Adobe
+- Is this meeting long enough? Always feels rushed to me.  Maybe we should have a quartely meeting for planning that is separate from this?
+- Stressed importance of keeping PDF names the same so we don't lose our important search engine ranking that drives so much of our traffic.
 
 ### Metrics related to slide deck
 #### Pageviews
