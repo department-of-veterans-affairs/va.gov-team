@@ -41,3 +41,26 @@ Phone number: {phone number}
 
 #### Confirmed - Upcoming
 
+#### Past
+
+(H1) {appointment date and time}
+
+This appointment occurred in the past.
+
+Community care
+
+{Provider name}
+
+{Provider address}
+
+(link) Directions
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Booking note}
+
+(link) Print
