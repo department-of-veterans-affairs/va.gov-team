@@ -21,7 +21,7 @@ Before we start, a few things I want to mention:
 * **There is no need to turn on your video - audio only is fine**
 
 * **First, I'll ask you a few warm up questions to get us started**.
-* **Then, I'll be sharing a link to a prototype and ask you to share your screen. We'll look at a protoype together and I will ask you questions about it**.
+* **Then, I'll be sharing a link to a prototype and ask you to share your screen. We'll look at a protoype together and I will ask you questions about it**
   * This is a demo tool that may not function exactly the way you expect
   * Some areas of the prototype will be clickable, and some will not. 
   * Since it's a demo, none of your actions will affect your actual VA information or benefits.
@@ -51,6 +51,8 @@ Before we start, a few things I want to mention:
 I'm going to share a link to a prototype here in the zoom chat window for you to click on. 
 Then I'll want you to share your screen so that I can follow along and see what you see.
 Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
+Are you already familiar with the process of sharing your screen?
+ * [If no: ask if they're on a laptop/desktop - then share Kristen's slides]
 
 ### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
