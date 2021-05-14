@@ -6,8 +6,8 @@
 
 ## Guideposts
 
-### **VA.gov North Star**
-Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
+### **OCTO-DE**
+[Mission, Vision, Goals, Outcomes](https://dsva.slack.com/archives/CE4304QPK/p1615244948078900)
 
 ### **VSA North Star**
 Impact Rate - % of launched initiatives with measurable improvement for Veterans.
