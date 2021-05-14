@@ -12,6 +12,7 @@
 - eBenefits pageviews down 4%
 - Facilities down 32%
 - Bounce rate across VA.gov - 42%
+- Downloading locally is not a sure fix.  The user must have Adobe Acrobat Reader installed and set as the operating system's default.  Mac (Mac OS 11.5% and iOS 11.5% of our users in April), for example, uses its own reader unless that default is changed. This is the modern equivalent of the "best on Netscape" from circa 1995.
 
 #### Browsers used (Re: PDF instructions to use IE)
 - Chrome (49%)
@@ -19,8 +20,6 @@
 - Safari (18%)
 - Internet Explorer (8%)
 - Firefox (3%)
-
-
 
 <hr>
 
