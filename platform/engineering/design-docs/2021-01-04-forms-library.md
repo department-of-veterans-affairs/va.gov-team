@@ -629,12 +629,71 @@ supplied in a React context.
 #### Milestone: Do something with Save in Progress
 
 #### Milestone: Tutorials
+Tutorials are an essential part for successful adoption of the library. The
+smoother we can make the first few steps, the better.
+
+**Prerequisites:**
+- Create the form builder fields
+- Routing with chapters and pages
+- Pass data through the form
+
+**Tasks:**
+- Write the `Getting Started` tutorial
+  - This covers the basics of spinning up a form with no routing
+  - We should leverage the Formik documentation heavily here and mention the
+    things we do differently, like grouping the field labels with the field
+- Write the `Building a multi-page form` tutorial
+  - Covers routing
+  - Points to the how-to guides at the end
+
+**Estimate:** 2 weeks
 
 #### Milestone: How-to guides
+The real meat of the documentation consist of these guides that focus on
+accomplishing discreet tasks.
+
+**Prerequisites:**
+- Create the form builder fields
+- Routing with chapters and pages
+- Pass data through the form
+
+**Tasks:**
+- Write the following guides
+  - How to build a review page
+  - How to make array pages
+  - How to make single-page list loops
+  - How to build a custom field
+  - How to write a data migration
+
+**Estimate:** 3 - 4 weeks
 
 #### Milestone: API reference
+This API reference documentation will be generated automatically. The goal is to
+provide a detailed description of how to use each component and function in the
+library, both internal and external.
+
+**Prerequisites:**
+- Scaffold the project
+
+**Tasks:**
+- Initialize and customize the `api-documenter` configuration
+- Generate the API documentation in a GitHub action
+- Commit the modified documentation in a GitHub action on the `master` branch
+  using [`git-auto-commit-action`](https://github.com/stefanzweifel/git-auto-commit-action)
+
+**Estimate:** 1 week
 
 #### Milestone: Explanations
+This section will hold explanations for decisions made for the library. They may
+be simple decision records or in-depth technical explanations.
+
+**Prerequisites:** _None_
+
+**Tasks:**
+- Write the explanation for why the routing module stores form state in a React
+  context
+
+**Estimate:** 2 days
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as
