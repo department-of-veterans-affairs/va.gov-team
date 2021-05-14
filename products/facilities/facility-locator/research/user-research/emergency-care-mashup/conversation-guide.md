@@ -40,10 +40,10 @@ Before we start, a few things I want to mention:
 
 * Can you tell me a little about your service history?
 * Have you ever experienced what you thought was an emergency that required a visit to any facility?
-    * If yes: can you tell me about your experience there?
+    * If yes: can you tell me about your experience at that location?
     * If yes: what kind of facility was it (VA/non-VA)?
     * If yes: can you tell me why you decided on that particular location?
-    * How did you find out about that specific location?
+    * If yes: How did you find out about that specific location?
     * Can you tell me about your understanding of your VA benefit coverge in the event of an emergency?
 
 ## Usability Test - 30 minutes
