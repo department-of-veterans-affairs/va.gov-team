@@ -72,19 +72,10 @@ ________________________________________________________________________________
 <br>
 
  To assign credits to VANotify, please follow these steps:
-  - Follow this link -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
-  - Select - Sustainment/Operation Credit link
-  - Choose VANotify under System/Application Name
-  - Enter your VA Business Line ex. “VBA Comp & Pen” under Program/Project Name
-  - Enter 812 as the Cloudkey ID
-  - Enter SPI/Strip# - For VA business lines/product teams using non-IT funding, populate the “SPI/Strip#” field with “Non-IT/Business Line” ex. Non-IT/VHA
-  - Enter AWS as the Cloud Provider
-  - Enter the dollar amount
-  - Enter your Project Manager and Business Owner
+  -  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for detailed instructions, or 
+  - Link in the pdf -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
 
-*FITARA Approval and Form 2237 will need to be completed to approve the request.*
 
-Clear [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for the SOP
 ## Technical Onboarding Guide
 * [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 * Staging URL: https://staging.api.notifications.va.gov
