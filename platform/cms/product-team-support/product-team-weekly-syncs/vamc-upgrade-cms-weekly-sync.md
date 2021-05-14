@@ -23,9 +23,11 @@
 
 ## Friday May 14
 * Help desk triage
+* Facility health services migration
+* Four draft pages for every VAMC (/work-with-us/internships-fellowships, /work-with-us/doing-business-with-us, /programs, /research). What's the timelnie on creating these? Since these are the only pages eligible to have child menu items, would be ideal to have them in place before the announcement and documentation about the menu changes.
+* Upcoming change: Facility health service selectors #4923 /  PR #5328
 * 10 or less broken links?  Are they still listed for purposes of fixing them?
 * Mobile, Domiciliary, Community Living Center (CLC)
-
 
 ## Friday May 7
 * Help desk triage
