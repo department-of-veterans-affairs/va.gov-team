@@ -2,7 +2,7 @@
 - WIP - Subject to change
 ```
 
-# **VSA Benefits and Memorials Team 2 Charter**
+# **VSA Debt Resolution**
 
 ## Guideposts
 
@@ -10,35 +10,20 @@
 Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
 
 ### **VSA North Star**
-Impact Rate
+Impact Rate - % of launched initiatives with measurable improvement for Veterans.
 
 ### Team Mission Statement:
-To provide the ability for Veteran to complete their whole DLC orders online on line at VA.gov (previously Forms: 2345 & 2346).
-
-### Team Vision:
-Increase Veteran's over-all customer satifaction when ordering items from the Denver Logistic Center. 
-
-### Team North Star:
-Number of online DLC orders
+To help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
 
 ## What we work on
 
 ### **Product Line** 
-Benefits and Memorial Services
+Benefits Tools Crew
 
 ### **Product Portfolio**
   - [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
-  - Certification of Eligibility Process 
-  - Certificate of Eligibility Process 1990
-  - GI Bill applicant Experience
-  - GI Bill statement of Benefits
-  - GI Bill COmparison Tool
-
-### **Responsibilities**
-TBD
-
-### **Roadmap**
-[Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Benefits%20and%20Memorials%202%20Road%20Map%20v3.png)
+  - Debt Portal
+  - Financial Status Report (FSR)
 
 ### **Team Members**
 
