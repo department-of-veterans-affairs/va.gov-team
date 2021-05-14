@@ -72,6 +72,7 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
 [**Access Request**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo)
 
 - VFS Use: To request access to Google Analytics and/or Domo.
+  - [Read here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-tools/domo-internal-faq.md) for how to provision Domo access.
 
 [**General Analytics Request**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-general-request-template.md&title=General+Analytics+Request+for+%5Bperson+or+team%5D)
 
