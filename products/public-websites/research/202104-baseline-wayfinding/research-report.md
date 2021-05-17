@@ -145,32 +145,32 @@ Below are visualizations showing where research **participants using mobile devi
 
 ### Non-Wayfinding Issues
 
-1. Four participants had a lot of **difficulty searching on the *Find a VA form* page** because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that the didn't get any relevant search results, perhaps because they're accustomed to Google's success with long wordy and misspelled queries. To be successful at searching on this page, you need to choose not too many words for the search query *and* spell them correctly.
+1. Four participants had a lot of **difficulty searching on the *Find a VA form* page** because they included too many words in the search query and/or misspelled a key word in the query ("representative"). In all of these cases, participants seemed surprised that they didn't get any relevant search results, perhaps because they're accustomed to Google's success with long and/or misspelled queries. To be successful at searching on the *Find a VA Form* page, you need to choose not too many words for the search query *and* spell them correctly.
     1. Search queries that didn't work: "assign a representive", "assign a representative", "va representative for appeals", "how do I get a representative for va assistance", "representative for claim", "representative for claim filing", "representative for claim appeal"
     2. Search queries that *did* work: “assign representative”, "disability representative", "representative appeal"
     3. One participant corrected their spelling of "reimbursement" when they saw a red underline (from the browser), clicked on it, and then chose the correct spelling.
-    4. One participant searched for "spouse" but didn't see the add dependent form in the search results.
+    4. One participant searched for "spouse" but the "add dependent" form wasn't in the search results.
     5. One participant didn't try the search box at first because they didn't have the form number and didn't realize that you could enter keywords instead.
 3. **Three participants complained about the COVID banner alert they kept seeing**, one of which said they wanted to be able to close it to get it out of the way. Three participants acknowledged the alert but didn't comment on it. The other participants didn't say anything about it.
-    4. *"Yuck! Don't want to keep seeing it because I already hear about it constantly from the VA" (p8)*
-    5. *"Can't wait for the COVID popups to stop" (p19, who uses a screen reader)*. Their screen reader was reading the alert aloud every time they opened the page so couldn't ignore it.
-6. One participant expected that changing their direct deposit information would update it for all types of VA payments (e.g., disability, retirement, travel reimbursement) at once. This currently isn't the case for at least disability and travel reimbursement.
-7. One participant saw a "your browser is out of date" error message while waiting for search results. Nick Sullivan's interpretation is that the participant's browser was waiting for this JS to load: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed. Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
+    1. *"Yuck! Don't want to keep seeing it because I already hear about it constantly from the VA" (p8).*
+    1. *"Can't wait for the COVID popups to stop" (p19, who uses a screen reader)*. Their screen reader was reading the alert aloud every time they opened the page, and so they couldn't ignore it.
+6. One participant expected that changing their direct deposit information would update it for all types of VA payments (e.g., disability, retirement, travel reimbursement) at once. This currently isn't the case because at least disability and travel reimbursement have to be updated in different places.
+7. One participant saw a "your browser is out of date" error message while waiting for search results. Nick Sullivan's interpretation is that the participant's browser was waiting for this JS to load: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed, assuming it's not a rare random occurrence; Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
 
 ## Additional Insights
-1. When participants were asked where they typically go **to get information and benefits from the VA, over half said that they go to VA.gov**, a third go to MyHealtheVet, 2 call the VA, and 1 person said they search on google.
-1. 83% of participants said that **if they can't find what they're looking for, they would call the VA** (800 number, a regional number, VSO, or a clinic). However, they try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. **Half of the participants said they would use google search** to help, and 2 said they might go to a VA facility to ask.
-3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?
+1. When participants were asked where they typically go **to get information and benefits from the VA, over half said that they go to VA.gov**, a third go to MyHealtheVet, two people call the VA, and one person said they search on google.
+1. 83% of participants said that **if they can't find what they're looking for online, they would call the VA** (800 number, a regional number, VSO, or a clinic). However, they try to avoid this because of the inconveniences of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. **Half of the participants said they would use google search** to help, and two said they might go to a VA facility to ask.
+3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message on his phone. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> *Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?*
 4. In addition to the specific issues described above, there were a few **additional pain points** mentioned by some of the participants:
     1. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
     1. Signing in
-    1. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, indicating that you're unable to accomplish your goal on just one website. (Wasn't this a stated goal of VA.gov?)
+    1. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, and so you're unable to accomplish your task on just one website. (Wasn't this a stated goal of VA.gov?)
 
 
 ## Recommendations
 Below are some *initial* recommendations based on research findings to be discussed and revised with the team: 
-1. Because many people aren't finding the Find a Form page and the Resources & Support page links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
-1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each. Additional links to consider are the following:
+1. Because many people aren't finding the *Find a Form* and *Resources & support* links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
+1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each box. Additional links to consider are the following:
     1. Travel pay reimbursement (add to Health care box)
     2. Update direct deposit (add to Records box)
     3. Medical records (add to the Health care box, in addition to Records)
@@ -178,24 +178,23 @@ Below are some *initial* recommendations based on research findings to be discus
     5. Appoint representative (add to Disability box)
     6. VA forms (add to Disability box)
 3. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
-4. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle.
-5. Proof of income in the form of benefit letters should be possible to get to from the View payment history page, as well as from site searches for "income" or "proof of income". 
+4. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle of the page.
+5. Consider making it possible to get proof of income in the form of benefit letters from the View payment history page, as well as from site searches for "income" or "proof of income". 
 6. Work on improving the *Find a Form* search. Marci is working with Lighthouse to improve the search logic. Kelson has had success improving the search logic of *Resources and support*. Consider some of the following:
-    1. Strip out articles (e.g., "a") from search queries
-    2. Search only on the first few words of a long search query
-    3. Add typeahead suggestions when entering a search query 
+    1. Remove articles and other helper words (e.g., "a", "the", "how do I") from search queries before searching
+    2. Search on only the first few words of a long search query
+    3. Provide typeahead suggestions for common search queries while entering a search query 
     4. Add some fixed links per search query (e.g., a search for "spouse" should return the form to add/update dependents)
 5. Consider making the COVID banner alert on the home page dismissable (as it is on other content pages) to reclaim screen real estate and stop annoying Veterans. Also, accessibility specialist Josh Kim recommends making the alert less annoying to screen reader users by changing the current *aria-live* attribute from *assertive* (interrupts user actions) to *polite*, which tells the screen reader to wait until the user is done to announce updates.
 6. Consider increasing the font size of the links in the "top 4" boxes from the current 16px to 19px, which is the current recommendation (though not required) for older users, per Josh Kim and our peers (including Gov.uk, NHS, Health Literacy Online), because many of our users are older. We could conduct more research on the VA.gov home page with people age 55-64 or older.
 7. Consider revising the site search box to make it easier to find quickly while using a screen reader by coding search as a [landmark role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Search_role) (per Josh Kim and Angela Fowler).
-8. Investigate the JS https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA that didn't load, causing a "your browser is out of date" error message while waiting for search results. 
-9. Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?
-10. Consider additional user research on the following:
-    1. The home page header if add new links to Forms, Resources or Help (Shawna has additional ideas, which are what?)
-    2. Older users to assess current font size/readability 
+8. Investigate the JS https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA that didn't load, causing a "your browser is out of date" error message instead of search results. 
+9. Consider adding an article to *Resources and support* about two-factor authentication. See if it's possible to use to select a photo to authenticate like eBenefits does.
+10. Consider additional user research on the home page header if add new links to Forms, Resources or Help. (Shawna also has additional ideas; add them here?
 
 ## Next Steps
 - Discuss findings and recommendations with the team
+- Prioritize recommendations and create tickets 
 
 ## Appendix
 ### Conversation guide
