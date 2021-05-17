@@ -40,7 +40,7 @@ Before we start, a few things I want to mention:
 
 * Can you tell me a little about your service history?
 * Have you ever experienced something that required an immediate visit to any health facility?
-    * If yes: can you tell me about your experience at that location?
+    * If yes: can you tell me about your experience at that location? [Looking for the facility itself, not necessarily procedures they went through]
     * If yes: what kind of facility was it (VA/non-VA)?
     * If yes: can you tell me why you decided on that particular location?
     * If yes: How did you find out about that specific location?
