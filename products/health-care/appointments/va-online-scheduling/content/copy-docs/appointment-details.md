@@ -85,6 +85,30 @@ You shared these details about your concern
 
 (link) Cancel appointment
 
+#### Confirmed-Upcoming Vaccine
+
+(H1) {appointment date} at {appointment time}
+
+COVID-19 vaccine
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Add to calendar
+
+(link) Print
+
+(link) Cancel appointment
+
 #### Upcoming-Canceled
 
 (H1) {appointment date} at {appointment time}
@@ -108,6 +132,10 @@ TTY: 711
 You shared these details about your concern
 
 {Reason}: {Booking note}
+
+#### VA Alerts
+
+##### Vaccine Cancel
 
 ### Community Care
 
