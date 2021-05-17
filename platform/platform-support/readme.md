@@ -4,4 +4,4 @@ To get help from someone on the Platform, use the Slack workflow in the #vfs-pla
 <h3 >Documentation</h3>
 <p>User guide </p>
 <h3 >Point of contact</h3>
-Go to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and select Need help from Platform?
+Go to <a href='https://dsva.slack.com/channels/vfs-platform-support'>#vfs-platform-support</a> and select <strong>Need help from Platform?</strong>
