@@ -10,10 +10,10 @@ The purpose of this research is to get a baseline understanding of how the curre
 
 ## Research Methodology 
 
-We conducted remote moderated research sessions via Zoom on April 26 - May 5, 2021. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks (goal in parentheses):
+We conducted remote moderated research sessions via Zoom on **April 26 - May 5, 2021**. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks (goal in parentheses):
 1. Ask your VA doctor a followup question (send a secure message)
 1. Find out if your disability claim has been approved (track claim status)
-1. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (form 21-22a Appointment of Individual As Claimant's Representative)
+1. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (find form 21-22a Appointment of Individual As Claimant's Representative)
 1. Update your bank information for disability compensation payments (change direct deposit)
 1. Set up your travel to medical appointments to be reimbursed by direct deposit (direct deposit for VA travel pay reimbursement)
 1. Find nearest VA hospital to a city you're planning to visit (find a VA location)
@@ -44,7 +44,7 @@ Participant demographics:
 - 2 had never used VA.gov before
 - 1 used a screen reader
 
-One of the sessions was cut short due to technology issues, so most of the findings come from only 12 of the sessions.
+One of the sessions was cut short due to technology issues, so most of the findings came from only 12 of the sessions.
 
 ### Research Questions
 - Where do Veterans typically start? (Google/Facebook/MHV/eBenefits/contact center call or email/VA.gov)
@@ -60,18 +60,18 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 ### Hypotheses
 1. Veterans are focused on what they’re looking for and don’t want to navigate multiple tools unless it helps them get better results.
-    1. LIKELY TRUE: Participants in this study were focused on the tasks they were asked to do and weren't looking for different tools. Participants that were shown *Find a Form* and *Resources and Support* were enthusiastic about them because it made their task easier to do.
+    1. LIKELY TRUE: Participants in this study were focused on the tasks they were asked to do and weren't seeking different tools. Participants that were shown *Find a Form* and *Resources and support* were enthusiastic about them because it made their task easier to do.
 1. Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
-    1. LIKELY TRUE: Participants didn't talk about where information is stored and didn't realize that search results from *Find a VA Location*, *Find a Form*, and *Resources and Support* came from different places. The idea of what content is in what repository is not relevant to the Veteran's task at hand.
+    1. LIKELY TRUE: Participants didn't talk about where information is stored and didn't realize that search results from *Find a VA Location*, *Find a Form*, and *Resources and support* came from different places. The idea of what content is in what repository is not relevant to the Veteran's task at hand.
 3. Veterans aren't using all of the current search and browse tools on VA.gov. 	
-    1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the VA Benefits and Health Care megamenu, some didn't use Find a VA Location, and many didn't use anylinks below the row of pictures.
+    1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the VA Benefits and Health Care megamenu, some didn't use Find a VA Location, and many didn't use any links below the row of pictures.
 
 ## Key Findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9), but the other 3 tasks had lower success rates because the navigation paths weren't straightforward (#3, 5, 8--form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).
 2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and for the most part didn't look at anything else on the page. These findings were consistent with analytics data.
 3. No participants started with site search, but about half went there when they were unable to find any relevant links elsewhere on the home page.
 4. A few accessibility issues were encountered, including font readability, site search findability with screen readers, and banner alert notification to screen readers. 
-5. There were no significant differences in wayfinding results for mobile vs. desktop users, participants with or without a cognitive disability, or people familiar vs. not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because hearing text read aloud is slower than visually scanning.
+5. There were no significant differences in wayfinding results for mobile *vs.* desktop users, participants with *vs.* without a cognitive disability, or people familiar *vs.* not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because hearing text read aloud is slower than visually scanning.
 6. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query.
 7. Three participants complained about the COVID banner alert they kept seeing, including one using a screen reader.
 
@@ -84,13 +84,13 @@ One of the sessions was cut short due to technology issues, so most of the findi
 ![task-summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/task-summary.png)
 3. **Most participants used the links in the "top 4" boxes extensively**, finding them useful to complete the tasks.
 4. The VA.gov home page **worked well with a screen reader**. *"This is user friendly for a screen reader...not a lot of graphics...works pretty good" (p19).*
-5. Half of the participants (who were all desktop users, not mobile) **used the links in the left nav on content pages**. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MyHealtheVet (MHV), which has only a small number of options at the top of the home page.
+5. Half of the participants (all desktop users, not mobile) **used the links in the left nav on content pages**. However, there was one person who thought that there were *too many options* on the content pages with all the left nav links; this person preferred the interface for MyHealtheVet (MHV), which has only a small number of clear options at the top of the home page.
 
 ### Wayfinding Issues
-1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).  **Navigation paths to complete these tasks were not straightforward**, which helps explain why not everyone was successful. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
-    3. For form to appoint representative: Two participants looked for forms in the "top 4" disability or records boxes. 
-    1. For travel reimbursement direct deposit: 2 people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. 4 people were looking for a link about travel in the "top 4" Health care box or under VA Benefits and Health Care megamenu > Health care. ==> *Consider adding "Travel pay reimbursement" to both locations under health care and/or disability.*
-    1. For medical records: 3 people missed the CTA at the top of the page and got confused by Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. 2 people thought that medical records would be under health care (not records). ==> Consider adding medical records to the health care "top 4" box.
+1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).  **Navigation paths to complete these tasks were not straightforward**, which helps explain why many people couldn't completed them. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
+    1. For form to appoint representative: Two participants looked for forms in the "top 4" disability or records boxes. 
+    1. For travel reimbursement direct deposit: 2 people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. 4 people were looking for a link about travel in the "top 4" health care box or under *VA Benefits and Health Care* megamenu > Health care. ==> *Consider adding "Travel pay reimbursement" to "top 4" boxes and VA Benefits and Health Care megamenu under health care and/or disability.*
+    1. For medical records: 3 people missed the CTA at the top of the page and got confused by Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. 2 people thought that medical records would be under health care (not records). ==> *Consider adding medical records to the health care "top 4" box.*
     1. To change direct deposit: "Top 4" box Disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online. "Top 4" box Records > Change your address > Change your VA direct deposit and contact information. ==> *Consider adding "Update direct deposit" link to the "top 4" boxes.*
      3. For proof of income: Over half of participants went to "View your payment history". Is there a way to show proof of income from the payment history page? One participant said that "Benefits letters" wasn't the right place to go. Another participant thought that "View payment history" sounded like what they paid the VA, not what the VA paid them.
     4. For add dependent: A third of participants looked in Family Member Benefits (a topic below the pictures) or the "top 4" Records box. ==> *Consider adding "add dependent" to the "top 4" Records box and on the Family Member Benefits page.*  
