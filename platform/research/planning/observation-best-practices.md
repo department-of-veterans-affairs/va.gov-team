@@ -7,6 +7,7 @@
 * [Internal observer instructions](#internal-observer-instructions)
 * [Stakeholder observer instruction](#stakeholder-observer-instruction)
 * [People with disabilities or who have experienced trauma](#people-with-disabilities-or-who-have-experienced-trauma)
+* [Observing assistive technology (AT) studies](#observing-assistive-technology-(AT)-studies)
 
 <hr>
 
@@ -15,6 +16,8 @@
 In general, your whole team should be invited as observers to sessions. This increases empathy and enables a shared understanding of your users' experience with your product.
 
 In most cases, we also recommend inviting your relevant VA stakeholders to observe sessions. This does not apply to studies targeted toward folks with disabilities, more detail provided below.
+
+<hr> 
 
 ## How to invite observers
 
@@ -41,6 +44,8 @@ We recommend the following process when inviting observers:
 
 ## Observer Instruction Examples
 
+<hr> 
+
 ### Internal observer instructions
 
 #### Example A: Sample instructions to send to observers specified in Research Plan:
@@ -50,6 +55,8 @@ We recommend the following process when inviting observers:
 - If you have a Zoom profile photo, please remove it for the session.
 - You can communicate with me in a new thread I will create in DSVA #feedback-backchannel. Here I will look for questions that you want to ask the participant, and also possibly for technical help if I get stuck during the session. I won’t be reading the channel during the entire session because I’ll be focusing on the participant, but you can use it to communicate with the other observers and share your thoughts. This is also where I’ll communicate if the participant is early, late, or a no-show.
 - Jot down your observations/takeaways from the session, which you can share directly with the facilitator and/or in the optional team debrief meeting later in the day.
+
+<hr> 
 
 ### Stakeholder observer instruction
 
@@ -110,7 +117,9 @@ Thank you,
 
 When planning observation, its important to understand that we don't often know a Veteran's context. For example, you may not know if a participant has experienced trauma or has a disability that may impact their willingness to be observed or fully participate in all research activities. For more guidelines and checklists to prepare for trauma informed research, please reference our [inclusive research guidelines - future link to markdown file]().
 
-### People who use assistive technology (AT)
+<hr> 
+
+### Observing assistive technology (AT) studies
 
 For people with disabilities, especially those with acquired disabilities, it may be uncomfortable to discuss the nature of their disability in a group setting. Whenever possible, aim for the least number of participants as possible.
 
