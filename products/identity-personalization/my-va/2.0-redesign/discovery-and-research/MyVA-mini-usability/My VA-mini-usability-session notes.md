@@ -74,5 +74,40 @@ Would not use a mobile phone to complete online applications.
 
 ## (P5) - 5.17.2021, 2 ET
 
+**From Liz**
+- Interested in knowing what benefits are available him - unfamiliar beyond education benefits
+- First clicked on the additional info component
+- "This is exactly what I wanted to see"
+- "This is useful, but if you already know who I am then you may already know if I pre-qualify for any of these. Otherwise this is exactly what I'd expect to see"
+- There's not a good visual separation between the sections
+
 
 ## (P6) - 5.17.2021, 3:30 ET
+
+**From Liz**
+- Interested in knowing what benefits are available him - unfamiliar beyond education benefits
+- First clicked on the additional info component
+- "This is exactly what I wanted to see"
+- "This is useful, but if you already know who I am then you may already know if I pre-qualify for any of these. Otherwise this is exactly what I'd expect to see"
+- There's not a good visual separation between the sections
+- 
+
+
+
+------
+
+- Has benefits 
+- Top action items: "I use eBenefits quite a bit and that was my original starting point" described himself as old school
+  - Typically look at my rating and my payment history to validate quite a bit. You never know if you're going to get some payments sent back. I validate my claims if there are any claims open I'll look at that.
+  - Interesting to think about how to help people used to eBenefits onboard to MyVA, if they have different considerations from people who are just generally new to VA (probably have already thought about that)
+- Easily understood health care action items
+- What's important to see? 
+  - He could see a younger Veteran about how many claims he has pending, if the claims are scheduled, I don't even know if that would show up in here
+- "That's one of the things I like about eBenefits is that it's a one stop shop. I can literally do everything I need to do in 10 minutes and then I'll be done."
+- Thinks the benefit suggestions at the bottom of the page are because they're the most "highly trafficked"
+- Likes the disability rating in the header; wasn't sure what to expect if he clicked on it. 
+  - Another participant also commented that they didn't know where they'd go if they clicked on the disability rating link, I think it was P1. 
+- Payment history is missing, from his perspective
+- Expressed interest in being able to customize his banner w/ favorite links
+
+
