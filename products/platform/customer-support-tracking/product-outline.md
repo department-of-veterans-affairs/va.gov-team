@@ -6,9 +6,9 @@ Currently, we don't have a good way to categorize or gather data about support r
 
 ## Problem Statement
 
-Without better understanding how VSP teams' time is spent on customer support requests, we don't know what areas we could focus on to make improvements that reduce the support burden on Platform teams.
+Without better understanding how Platform teams' time is spent on customer support requests, we don't know what areas we could focus on to make improvements that reduce the support burden on Platform teams.
 
-If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
+If we had a standardized way to track customer support requests in Slack, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work on their own.
 
 ## Personas
 
@@ -18,15 +18,15 @@ VSP and Platform team members, OCTO-DE.
 
 ### Key Performance Indicators (KPIs)
 
-- % of customer support requests that are automatically logged and tagged.
+- % of customer support requests that are automatically tracked and categorized by team.
 - time it takes to compile customer support reports.
-- % of tracked links that go to platform documentation.
+- % of support requests resolved by documentation.
 
 ------
 
 ## Assumptions
 
-- By creating a standardized process for tracking customer support requests across VSP teams, we expect to identify “problem areas” with high burdens of manual support to be prioritized in future VSP initiatives.
+- By creating a standardized process for tracking customer support requests across Platform teams, we expect to identify “problem areas” with high burdens of manual support to be prioritized in future Platform initiatives.
 
 ## Solution Approach
 
