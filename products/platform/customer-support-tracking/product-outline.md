@@ -55,7 +55,7 @@ VSP team members and Leadership.
 
 ## Reference Material
 
-- Release Plan
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23267)
 - Any product health or success dashboards
 
 ### Communications
