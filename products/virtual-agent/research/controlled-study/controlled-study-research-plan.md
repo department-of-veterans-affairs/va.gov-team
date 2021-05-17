@@ -1,5 +1,3 @@
-Please note this document is in draft form and has NOT been submitted to Perigean.
-
 # Research Plan for Virtual Agent, 5/17/2021
 As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.	
 
@@ -163,7 +161,7 @@ Week of 5/21: Luciana Morais, Shane Strassburg, Rachel M. Murray, Katie Ho
 ## Resources
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md 
-- Conversation Guide	
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/controlled-study/controlled-study-conversation-guide.md 
+- Conversation Guide:
+Not needed as unmoderated controlled study
 - Read-Out/Results	
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research
