@@ -38,6 +38,8 @@ VFS and Platform team members, OCTO-DE.
 - [Support Tracker User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/support-tracker-user-guide.md)<br>
 
 ### Slack Workflow
+- Goal is to automate tracking of support request volume and make it easier to categorize support requests by topic.
+- [Workshop with leadership](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1595345884110/4e5232bc91ce503ede9ef7035d264083166f8bd6?sender=jameschasia4977)
 -[Platform Support Workflow](https://lucid.app/lucidchart/invitations/accept/inv_ac24da2e-ea1e-4e1a-96d1-a76d7870d27c)<br>
 
 
