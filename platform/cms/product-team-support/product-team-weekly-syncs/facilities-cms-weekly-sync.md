@@ -21,6 +21,10 @@
 
 </details>
 
+## Wednesday May 12
+* Orphan staff profiles 
+  - profiles appear on the sitemap and in Google alerts even if not linked 
+  - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
 
 ## Wednesday May 12
 
