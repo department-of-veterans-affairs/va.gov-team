@@ -51,6 +51,7 @@ _Note: Example is for illustrative purposes only. Please don’t plan vacations 
   - _We’re going to organize and categorize the places we might like to visit-
   - _We’re going to research housing on VRBO and Airbnb_
   - _We’re going to use Splitwise to manage expenses_
+- [Additional examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)
 
 ### References
 - [SCQA - A Framework For Defining Problems & Hypotheses - StrategyU](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/)
