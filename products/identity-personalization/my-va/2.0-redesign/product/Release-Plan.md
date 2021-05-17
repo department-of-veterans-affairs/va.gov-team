@@ -21,11 +21,10 @@ be behind a feature flag.
 
 ## Phase II: Staged Rollout 
 ### Planning
-**Desired date range:**
-- 10% of users (1 week), Dates: 
-- 25% of users (1 week), Dates: 
-- 50% of users (1 week), Dates: 
-- If all goes well, then go to 100% of users: Estimated date ...
+**Desired date range:** 
+- 25% of users (1 week), Dates: week of 6/14 
+- 50% of users (1 week), Dates: week of 6/21
+- If all goes well, then go to 100% of users: week of 6/28
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Analytics to track as part of initial My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/analytics/analytics-to-track.md)
