@@ -40,18 +40,17 @@ _When might you use the template?:_
 - _Decreasing the time it takes for content to be published on VA.gov_
 
 ### Example
-_Note: Example is for illustrative purposes only. Please don’t plan vacations this way unless you really want to._
-
-- _We visit a new city every summer…_
-- _But recently, the size of our group’s gotten bigger…_
-- _And it’s harder to find room/board that meets our needs…_
-- _Not to mention expenses..._
-- _How do we find a place to stay that has all of the amenities we want within our budget?_
-- _Answer_
-  - _We’re going to organize and categorize the places we might like to visit-
-  - _We’re going to research housing on VRBO and Airbnb_
-  - _We’re going to use Splitwise to manage expenses_
-- [Additional examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)
+- [Examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)
+- Another example _Note: Example is for illustrative purposes only. Please don’t plan vacations this way unless you really want to._
+  - _We visit a new city every summer…_
+  - _But recently, the size of our group’s gotten bigger…_
+  - _And it’s harder to find room/board that meets our needs…_
+  - _Not to mention expenses..._
+  - _How do we find a place to stay that has all of the amenities we want within our budget?_
+  - _Answer_
+    - _We’re going to organize and categorize the places we might like to visit-
+    - _We’re going to research housing on VRBO and Airbnb_
+    - _We’re going to use Splitwise to manage expenses_
 
 ### References
 - [SCQA - A Framework For Defining Problems & Hypotheses - StrategyU](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/)
