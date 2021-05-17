@@ -72,7 +72,7 @@ We will be gathering feedback on the product at staging.va.gov/virtual-agent
 
 We plan to use Optimal Workshop to capture feedback.
 
-## Participants and Recruitment	TO UPDATE
+## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?	  
 
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
