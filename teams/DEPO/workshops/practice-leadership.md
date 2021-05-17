@@ -1,5 +1,7 @@
 # Practice leadership workshop brief
 
+The purpose of this workshop is not to devise a solution to this problem, but rather to identify gaps and where OCTO-DE needs to put together strategy/vision to solve.
+
 ## Problem space brief
 
 5/6/2021
@@ -28,6 +30,8 @@ We have a handful of highly skilled individuals on the OCTO-DE side who are expe
 - is this the way it's supposed to be right now: OCTO-DE Product Owner has final say, and in disagreement cases it gets escalated to Crew Chief.
 - as a VFS OCTO-DE Lead, sometimes I want to be able to push back on VA stakeholders who want to ship something just to ship, by saying "no look we can't bc we don't have platform approval"
 - w/CEDAR coming there'll be more teams, and thus more ppl doing work. Now is time to figure out what things CTO's office etc need to be responsible for vs, what are we willing to cede to contractors?
+- Will never be able to outsource "why we do design in this way" convos w/stakeholders
+- Might need to find a way to start doing IA-focused research and continuing to audit/eval a11y of our components etc
 
 ## How might we...
 _...define what kind of practice leadership responsibilities are needed in our ecosystem, what is needed for someone to be **successful** at those responsibilities, in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, where those responsibilities may overlap, conflict with, or compliment Collab Cycle responsibilities, and thus where we have gaps that OCTO-DE will need to figure out how to fill?_
