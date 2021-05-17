@@ -23,12 +23,15 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
 - Does a list of form questions exists?  Could we review (size and scope)
   - A code prototype created by Joshua Farrar, PIF detailed at ORDMI, is available as a Pull Request attached to the `vets-website` project.  This prototype speaks specifically to the harassment case, and would simply need relatively straightforward modifications. 
   
-- Marketing Initiative in support of form launch?  Where and what are is the expected site/form traffic load to consider?
 - Can we get linked to applicable Governance / Laws driving this initiative?
+  - Section 5303 of the Deborah Sampson Act (P.L. 116-315), requires VA to implement a comprehensive anti-harassment and anti-sexual assault policy. In 2018, the VA found that one in four women veterans and VA employees reported experiencing sexual harassment or assault at the VA, and a 2020 GAO report identified “inconsistent and incomplete” workplace sexual harassment policies at the VA. While there are policies and reporting mechanisms in place for VA employees reporting sexual harassment from other employees,
+there were no comparable policies, centralized reporting mechanisms, or resources for VA beneficiaries who are sexually harassed or assaulted by VA employees or on VA property. 
+
 - Who will provide content? 
 - What's the current reporting process for Veterans?
 - Are we keeping the Veteran reporting form seperate from that of the Employee reporting form?
 - Should this be modeled after existing reporting tools offered by the Military Service Branches i.e. Army SHARP program? 
+- - Marketing Initiative in support of form launch?  Where and what are is the expected site/form traffic load to consider?
 </details>
   
   
