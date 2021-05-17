@@ -68,7 +68,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 ## Key Findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9), but the other 3 tasks had lower success rates because the navigation paths weren't straightforward (#3, 5, 8--form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).
-2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and mostly didn't looking at anything else on the page. These findings were consistent with analytics data.
+2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and for the most part didn't look at anything else on the page. These findings were consistent with analytics data.
 3. No participants started with site search, but about half went there when they were unable to find any relevant links elsewhere on the home page.
 4. A few accessibility issues were encountered, including font readability, site search findability with screen readers, and banner alert notification to screen readers. 
 5. There were no significant differences in wayfinding results for mobile vs. desktop users, participants with or without a cognitive disability, or people familiar vs. not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because hearing text read aloud is slower than visually scanning.
