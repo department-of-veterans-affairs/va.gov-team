@@ -4,6 +4,32 @@
 
 ## Homepage Refresh Toggle
 
+### VA
+
+#### Upcoming-Canceled
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
 ### Community Care
 
 #### Pending
@@ -41,7 +67,7 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 
 #### Upcoming-Confirmed
 
-(H1) {appointment date and time}
+(H1) {appointment date} at {appointment time}
 
 Community care
 
