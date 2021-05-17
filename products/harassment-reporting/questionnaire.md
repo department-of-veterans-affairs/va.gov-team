@@ -28,10 +28,14 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
 there were no comparable policies, centralized reporting mechanisms, or resources for VA beneficiaries who are sexually harassed or assaulted by VA employees or on VA property. 
 
 - Who will provide content? 
+  - ORDMI
 - What's the current reporting process for Veterans?
-- Are we keeping the Veteran reporting form seperate from that of the Employee reporting form?
+  - 
+- Are we keeping the Veteran reporting form separate from that of the Employee reporting form?
+  - 
 - Should this be modeled after existing reporting tools offered by the Military Service Branches i.e. Army SHARP program? 
-- - Marketing Initiative in support of form launch?  Where and what are is the expected site/form traffic load to consider?
+  -
+- Marketing Initiative in support of form launch?  Where and what are is the expected site/form traffic load to consider?
 </details>
   
   
