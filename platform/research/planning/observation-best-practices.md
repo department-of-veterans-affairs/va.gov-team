@@ -39,10 +39,9 @@ We recommend the following process when inviting observers:
 4. Email your observers with confirmation of their signup time and the list of observer instructions. 
    - Include the Zoom links specific for each time slot in case there are any problems accessing the calendar invite. (Remind them again not to forward the email.)
 
+<hr> 
 
 ## Observer Instruction Examples
-
-<hr> 
 
 ### Internal observer instructions
 
@@ -115,7 +114,6 @@ Thank you,
 
 When planning observation, its important to understand that we don't often know a Veteran's context. For example, you may not know if a participant has experienced trauma or has a disability that may impact their willingness to be observed or fully participate in all research activities. For more guidelines and checklists to prepare for trauma informed research, please reference our [inclusive research guidelines - future link to markdown file]().
 
-<hr> 
 
 ### Observing assistive technology (AT) studies
 
