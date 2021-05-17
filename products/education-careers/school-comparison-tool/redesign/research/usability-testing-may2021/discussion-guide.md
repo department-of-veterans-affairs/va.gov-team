@@ -50,9 +50,24 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Initial Take - 5 minutes ##
 This is the GI Bill Comparison Tool, which allows you to see what education benefits you can receive at various institutions.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
 
-## First Task: Location Search - 15 minutes
+## First Task: Find a Campus - 5 minutes
 
-- Let's say you recently moved just outside of **San Antonio, TX** and you're curious what education options are available to you. You aren't sure what you want to study, but wanted to see what was in the area.  How would you use the Comparison Tool to see what opportunities are available in your area?  
+- You've recently moved to **San Antonio, Texas**. Prior to moving, you took a few classes at **ECPI University** and were close to completing a certificate.  You want to see if there is a campus in your area so you can finish your degree.  How would you use the Comparison Tool to determine if **ECPI University** has a campus in your area? 
+
+### Things to watch for:
+
+- Which search option does the user attempt to use (name or location)?
+- Does the participant use the autocomplete?
+- How does the user attempt to search/filter results? 
+
+### Upon task completion:
+ - How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of seeing if ECPI had a campus in your area?
+ - How do you think these results were sorted?
+
+## Second Task: Location Search - 15 minutes
+
+- You aren't sure if ECPI is the right choice for you, but you think there might be other education options available to you in **San Antonio**. How would you use the Comparison Tool to see what education opportunities are available in your area?  
 
 ### Things to watch for:
 
@@ -73,9 +88,9 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of searching for educational institutions by location?
  
 
-## Second Task: Map Utilization - 10 minutes
+## Third Task: Map Utilization - 10 minutes
 
-- You found some good opportunities in San Antonio, but you know that Austin is northeast of San Antonio and might have some additional options.  How would you use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
+- You found some good opportunities in San Antonio, but you know that there might be additional options in Austin, Texas.  How would you use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
 
 _Prompt_ To help narrow down your search, you're interested in institutions that participate in the Yellow Ribbon program.  How might you go about narrowing down the list of search results? 
 
@@ -91,21 +106,6 @@ _Prompt_ To help narrow down your search, you're interested in institutions that
  - What do you think of how the map showed your results?
  - For you personally, how far would you be willing to commute to go to school?
  - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
-
-## Third Task: Find a Campus - 5 minutes
-
-- Before you moved to San Antonio, you took a few classes at **ECPI University** and were close to completing an Associate's degree.  You want to see if there is a campus in your area so you can finish your degree.  How would you use the Comparison Tool to determine if **ECPI University** has a campus in your area? 
-
-### Things to watch for:
-
-- Which search option does the user attempt to use (name or location)?
-- Does the participant use the autocomplete?
-- How does the user attempt to search/filter results? 
-
-### Upon task completion:
- - How did you think that went?
- - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding educational institutions?
- - How do you think these results were sorted?
  
 
 ## Thank-You and Closing - X minutes
