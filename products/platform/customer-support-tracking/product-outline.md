@@ -18,7 +18,8 @@ VFS and Platform team members, OCTO-DE.
 
 ### Key Performance Indicators (KPIs)
 
-- % of customer support requests that are automatically tracked and categorized by team.
+- % of customer support requests that are automatically tracked.
+- % of customer support requests that are categorized by topic and team.
 - time it takes to compile customer support reports.
 - % of support requests resolved by documentation.
 
