@@ -28,8 +28,8 @@ I have a few things I need to mention before we start:
 OK, let's get started.
 
 You'll be using a new feature we moved from eBenefits to VA.gov: View Payment History. I have a few questions to make sure this tool will work for you:
-- I need to confirm: do you receive C&P or EDU payments from VA?
-  - If the user does not receive C&P or EDU payments from VA, end the session.
+- I need to confirm: do you receive compensation & pension or education payments from VA?
+  - If the user does not receive compensation & pension or education payments from VA, end the session.
 - Can you confirm for me that you have an ID.me account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
   - If the user can not remember or retrieve their login credentials, end the session.
