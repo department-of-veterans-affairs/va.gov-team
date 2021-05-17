@@ -3,16 +3,21 @@
 <hr> 
 
 * [Who should observe](#who-should-observe)
+* [How to invite observers](#how-to-invite-observers)
+* [Observer instruction examples](#observer-instruction-examples)
+* [Internal observer instructions example](#example-a)
+* [Stakeholder observer instructions example](#example-b)
+* [People with disabilities or who have experienced trauma](#people-with-disabilities-or-who-have-experienced-trauma)
 
 <hr>
 
-## Who should observe?
+## Who should observe
 
 In general, your whole team should be invited as observers to sessions. This increases empathy and enables a shared understanding of your users' experience with your product.
 
 In most cases, we also recommend inviting your relevant VA stakeholders to observe sessions. This does not apply to studies targeted toward folks with disabilities, more detail provided below.
 
-## How to invite observers?
+## How to invite observers
 
 ### People specified in Research Plan: 
 
@@ -34,44 +39,6 @@ We recommend the following process when inviting observers:
 4. Email your observers with confirmation of their signup time and the list of observer instructions. 
    - Include the Zoom links specific for each time slot in case there are any problems accessing the calendar invite. (Remind them again not to forward the email.)
 
-## People with disabilities or who have experienced trauma
-
-### People who have experienced trauma
-
-You may not know if a participant has experienced trauma, but we know that many Veterans _have_ experienced trauma and this may impact their willingness to be recorded or observed, even after they have consented.  Be prepared to incorporate [trauma informed best practices - future link to markdown file]() in your session. Be flexible and help your participant feel safe, in control, and give them choices when being observed in research sessions. Stay calm and understanding. 
-
-If you know a participant has experienced trauma ahead of time, we recommend reaching out to a health care expert or an accessibility specialist to help you plan your study.
-
-- Safety: 
-   - Explain who you, who the observers are, what you’re doing and why
-- Control:
-   - Allow participants to opt out of being observed, understanding that this may mean taking notes from the recording.
-   - If your participant has opted out of being observed and does not consent to being recorded ask if they would be comfortable if your notetaker remains in the session as this will be the only record of the session.
-- Choice:
-   - Let participants know that they can choose to stay off camera if they prefer
-
-For more guidelines and checklists to prepare for trauma informed research, please reference our [inclusive research guidelines - future link to markdown file]().
-
-### People who use assistive technology (AT)
-
-For people with disabilities, especially those with acquired disabilities, it may be uncomfortable to discuss the nature of their disability in a group setting. Whenever possible, aim for the least number of participants as possible.
-
-We recommend limiting to 3 people, when possible, with a maximum of 5:
-
-- 1 facilitator 
-- 1 notetaker 
-- 1 accessibility specialist (in the case of AT studies)
-
-  – – –
-
-- 1 observer (2 max, if necessary)
-	
-#### Researcher To-dos:
-
-1. In your research plan ‘must have’ requirements, specify that participants will need to be informed about the observers and that they must express consent to being observed as part of the participation agreement (this is not standard practice on non-assistive tech studies).
-2. At the start of each session, you must again ask for participant’s permission, if it is OK with them for observers to be part of the session, vs. just informing them that your teammates are taking notes and observing.
-
-For more guidelines and checklists to prepare for research with assistive technology, please reference our inclusive research guidelines [future link to markdown file]().
 
 ## Observer Instruction Examples
 
@@ -137,3 +104,30 @@ Thank you,
 [email]
 
 [phone]
+
+<hr>
+
+## People with disabilities or who have experienced trauma
+
+When planning observation, its important to understand that we don't often know a Veteran's context. For example, you may not know if a participant has experienced trauma or has a disability that may impact their willingness to be observed or fully participate in all research activities. For more guidelines and checklists to prepare for trauma informed research, please reference our [inclusive research guidelines - future link to markdown file]().
+
+### People who use assistive technology (AT)
+
+For people with disabilities, especially those with acquired disabilities, it may be uncomfortable to discuss the nature of their disability in a group setting. Whenever possible, aim for the least number of participants as possible.
+
+We recommend limiting to 3 people, when possible, with a maximum of 5:
+
+- 1 facilitator 
+- 1 notetaker 
+- 1 accessibility specialist (in the case of AT studies)
+
+  – – –
+
+- 1 observer (2 max, if necessary)
+	
+#### Researcher To-dos:
+
+1. In your research plan ‘must have’ requirements, specify that participants will need to be informed about the observers and that they must express consent to being observed as part of the participation agreement (this is not standard practice on non-assistive tech studies).
+2. At the start of each session, you must again ask for participant’s permission, if it is OK with them for observers to be part of the session, vs. just informing them that your teammates are taking notes and observing.
+
+For more guidelines and checklists to prepare for research with assistive technology, please reference our inclusive research guidelines [future link to markdown file]().
