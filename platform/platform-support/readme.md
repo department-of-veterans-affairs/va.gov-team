@@ -4,7 +4,7 @@ To get help from someone on the Platform, use the Slack workflow in the #vfs-pla
 
 ### Documentation
 
-[User guide](https://vfs.atlassian.net/wiki/spaces/SUP/pages/1439138197/Getting+help+from+the+Platform+in+Slack)
+[User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)
 
 ### Point of contact
 
