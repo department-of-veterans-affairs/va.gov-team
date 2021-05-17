@@ -30,7 +30,7 @@ The secondary users are:
 Our desired outcomes are as follows:
 
 - VFS teams can **set** metrics:
-  - North Star metrics and KPIs - so that they understand what success means for their products and how to measure that success; so that they can product data-informed definitions of product success and goals
+  - North Star metrics and KPIs - so that they understand what success means for their products and how to measure that success; so that they can produce data-informed definitions of product success and goals
   - Leading indicators - so that they can move the needle on their success metrics so that they can understand what to look out for it outcomes are not being met
 - VFS teams can **track** their data: 
   - so that they can get frictionless access to accurate, trustworthy, and up-to date data relevant to their products
