@@ -34,7 +34,7 @@ Email: {Email address
 
 Phone number: {phone number}
 
-{Best times to call note}
+Call {Best times to call "morning", "afternoon", or "evening"}
 
 (Link) Cancel request
 
@@ -90,3 +90,20 @@ You shared these details about your concern
 {Booking note}
 
 (link) Print
+
+#### Community Care Variations
+
+The copy below may be used in place of some copy above based on the data available.
+
+##### No Provider Preferences
+
+Preferred community care provider
+
+No provider selected
+
+##### No Booking Note
+
+You shared these details about your concern
+
+_tbd copy_
+
