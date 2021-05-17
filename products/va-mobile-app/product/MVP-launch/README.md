@@ -25,7 +25,7 @@ _This list will be updated with links to documentation as needed_
 - [ ] Internal Communications Plan
 - [ ] External Communications Plan (including static page)
 - [X] [Pre-mortem Exercise](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MVP-launch/Launch-Risk-Mitigation-Strategies.md)
-- [X] Tabletop Exercise
+- [X] [Tabletop Exercise](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/mobile-app/Mobile%20Launch%20Tabletop%20Exercise%205_12_2021.pdf)
 - [ ] Launch Dry Run & Go/No Go Decision doc
 
 
