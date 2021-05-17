@@ -31,7 +31,7 @@ VFS and Platform team members, OCTO-DE.
 
 ## Solution Approach
 
-### Pilot Support Bot
+### Support Bot Pilot 
 - Goal is to reduce friction for VSP team members in logging support requests in the spreadsheet.
 - After the spike, we will test the Slack app prototype to determine what gaps remain.
 - Doing a [spike](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787) VSP Engineering on a very simple Slack app for tracking support requests in collaboration. 
