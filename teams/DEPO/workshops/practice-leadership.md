@@ -23,6 +23,8 @@ We have a handful of highly skilled individuals on the OCTO-DE side who are expe
 - Have to rework content after such a wide variety of touchpoints: SWC, research findings, Stakeholder reviews, after collab cycle reviews. And this all happens before Staging Review.
 - 
 
+**TBD how to categorize**
+- we staff practice areas differently, but have same expectations of practice leads. Like we have tons of designers, a good amount of researchers, hardly any accessibility people, no content writers, and no IA people, but we have one practice lead for each of those areas - expectations will need to be different.
 
 ## How might we...
 _...define what kind of practice leadership responsibilities are needed in our ecosystem, what is needed for someone to be **successful** at those responsibilities, in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, where those responsibilities may overlap, conflict with, or compliment Collab Cycle responsibilities, and thus where we have gaps that OCTO-DE will need to figure out how to fill?_
