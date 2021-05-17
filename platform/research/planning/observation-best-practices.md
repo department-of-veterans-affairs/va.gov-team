@@ -4,9 +4,8 @@
 
 * [Who should observe](#who-should-observe)
 * [How to invite observers](#how-to-invite-observers)
-* [Observer instruction examples](#observer-instruction-examples)
-* [Internal observer instructions example](#example-a)
-* [Stakeholder observer instructions example](#example-b)
+* [Internal observer instructions](#internal-observer-instructions)
+* [Stakeholder observer instruction](#stakeholder-observer-instruction)
 * [People with disabilities or who have experienced trauma](#people-with-disabilities-or-who-have-experienced-trauma)
 
 <hr>
@@ -42,9 +41,9 @@ We recommend the following process when inviting observers:
 
 ## Observer Instruction Examples
 
-### Example A: Instructions to send to observers specified in Research Plan
+### Internal observer instructions
 
-#### Sample instructions to send to internal observers:
+#### Example A: Sample instructions to send to observers specified in Research Plan:
 
 - Please join a few minutes early. If you arrive late, I may not see your request to be admitted from the waiting room.
 - Please keep your video and sound off in the Zoom session, and change your name to “Observer”. 
@@ -52,9 +51,9 @@ We recommend the following process when inviting observers:
 - You can communicate with me in a new thread I will create in DSVA #feedback-backchannel. Here I will look for questions that you want to ask the participant, and also possibly for technical help if I get stuck during the session. I won’t be reading the channel during the entire session because I’ll be focusing on the participant, but you can use it to communicate with the other observers and share your thoughts. This is also where I’ll communicate if the participant is early, late, or a no-show.
 - Jot down your observations/takeaways from the session, which you can share directly with the facilitator and/or in the optional team debrief meeting later in the day.
 
-### Example B: Email Invitation to VA stakeholders
+### Stakeholder observer instruction
 
-#### Sample email to send to stakeholder observers:
+#### Example B: Sample email Invitation to VA stakeholders:
  
 **Hi Everyone,**
  
