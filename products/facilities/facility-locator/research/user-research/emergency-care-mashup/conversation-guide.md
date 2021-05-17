@@ -78,6 +78,8 @@ I'm going to walk us through a scenario and have you perform some tasks.
 Again, this is only a prototype so some things might not work as expected. 
 As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
 
+[Questions?]
+
 In this scenario, let's imagine that you live near Denver, CO, and that in the past, you experienced a situation where you needed immediate care. You are coming to this site because you would like to learn more about the locations closest to you, should you experience something similar in the future.
 
 ### Task 1
