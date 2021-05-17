@@ -160,7 +160,7 @@ Below are visualizations showing where research **participants using mobile devi
 ## Additional Insights
 1. When participants were asked where they typically go **to get information and benefits from the VA, over half said that they go to VA.gov**, a third go to MyHealtheVet, two people call the VA, and one person said they search on google.
 1. 83% of participants said that **if they can't find what they're looking for online, they would call the VA** (800 number, a regional number, VSO, or a clinic). However, they try to avoid this because of the inconveniences of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. **Half of the participants said they would use google search** to help, and two said they might go to a VA facility to ask.
-3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message on his phone. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> *Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?*
+3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message on his phone. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> *Consider adding an article to Resources and Support about two-factor authentication. Is it possible to use to select a photo to authenticate like eBenefits does?*
 4. In addition to the specific issues described above, there were a few **additional pain points** mentioned by some of the participants:
     1. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
     1. Signing in
@@ -171,7 +171,7 @@ Below are visualizations showing where research **participants using mobile devi
 Below are some *initial* recommendations based on research findings to be discussed and revised with the team: 
 1. Because many people aren't finding the *Find a Form* and *Resources & support* links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
 1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each box. Additional links to consider are the following:
-    1. Travel pay reimbursement (add to Health care box)
+    1. Travel pay reimbursement (add to Health care box and *VA Benefits and Health Care* megamenu under health care and/or disability)
     2. Update direct deposit (add to Records box)
     3. Medical records (add to the Health care box, in addition to Records)
     4. Update dependents (add to Records box and also on the Family Member Benefits page)
@@ -190,7 +190,7 @@ Below are some *initial* recommendations based on research findings to be discus
 7. Consider revising the site search box to make it easier to find quickly while using a screen reader by coding search as a [landmark role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Search_role) (per Josh Kim and Angela Fowler).
 8. Investigate the JS https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA that didn't load, causing a "your browser is out of date" error message instead of search results. 
 9. Consider adding an article to *Resources and support* about two-factor authentication. See if it's possible to use to select a photo to authenticate like eBenefits does.
-10. Consider additional user research on the home page header if add new links to Forms, Resources or Help. (Shawna also has additional ideas; add them here?
+10. Consider additional user research on the home page header if add new links to Forms, Resources or Help. (Shawna also has additional ideas; if any are relevant, ADD THEM HERE)
 
 ## Next Steps
 - Discuss findings and recommendations with the team
@@ -206,10 +206,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 ### Tools used for Synthesis
 LINK synthesis and analytics spreadsheets 
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Baseline%20Wayfinding%20notes%20%26%20data%20analysis%20(1).xlsx)
+[Home page click analytics spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/VA.gov%20home%20page%20link%20click%20events.xlsx)
+[Home page click visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(3).pptx)
 
 ### Pages and applications used
-[VA.gov](VA.gov)
+[VA.gov](http://va.gov/)
 
-### Other supporting documents created
-LINK home page visualization presentation--final slides
 
