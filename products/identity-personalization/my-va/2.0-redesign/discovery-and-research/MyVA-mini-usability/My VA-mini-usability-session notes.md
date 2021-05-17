@@ -62,7 +62,7 @@ N/A - he easily understood everything on the page (that doesn't mean he liked it
 - On MHV secure messaging: "messaging who? This is a mess. I would not use this. I would be frustrated."
 - "One of my biggest complaints with the VA is all the words. You know, things like this (while on MHV) - the things I'm going to press and do should be at the top of the screen."
 - Perceived the crisis banner to have negative implications. "Talk to the veterans crisis line now" - it's all big and read and scary. People who are [not in crisis? I think that's what he said?] would be scared to click on that - there's an implication. It's a big scary red banner that I would never click on."
-Would not use a mobile phone to complete online applications.
+- Would not use a mobile phone to complete online applications.
 - "I could never imagine myself trying to apply for anything over my cell phone"
 
 
