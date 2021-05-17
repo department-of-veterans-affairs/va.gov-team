@@ -55,8 +55,8 @@ Okay great, from here you are looking to see what your disability rating is.
 
 **IF A USER HAS HEALTH CARE**
 
-1. From here, if you wanted to schedule an a visit with your doctor at the VA, what would you do?
-2. How many new secure messages from your doctor do you have?
+1. From here, if you wanted to set up a time to visit with your doctor at the VA, what would you do?
+2. How many new messages from your doctor do you have?
 3. What's the most important thing we could tell you about your health care?
 4. What information is missing in this section?
 5. What is confusing about this section?
