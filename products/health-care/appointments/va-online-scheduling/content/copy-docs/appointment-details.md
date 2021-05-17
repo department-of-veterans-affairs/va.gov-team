@@ -57,7 +57,7 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 
 
 
-#### Confirmed-Upcoming
+#### Confirmed-Future
 
 (H1) {appointment date} at {appointment time}
 
@@ -85,7 +85,7 @@ You shared these details about your concern
 
 (link) Cancel appointment
 
-#### Confirmed-Upcoming Vaccine
+#### Confirmed-Future Vaccine
 
 (H1) {appointment date} at {appointment time}
 
@@ -109,7 +109,7 @@ TTY: 711
 
 (link) Cancel appointment
 
-#### Upcoming-Canceled
+#### Canceled-Future
 
 (H1) {appointment date} at {appointment time}
 
@@ -132,6 +132,26 @@ TTY: 711
 You shared these details about your concern
 
 {Reason}: {Booking note}
+
+#### Canceled-Future Vaccine
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+COVID-19 vaccine
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
 
 #### VA Alerts
 
@@ -172,7 +192,7 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 (Link) Cancel request
 
 
-#### Confirmed-Upcoming
+#### Confirmed-Future
 
 (H1) {appointment date} at {appointment time}
 
