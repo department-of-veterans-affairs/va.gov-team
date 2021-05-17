@@ -1,5 +1,11 @@
 # Observation Best Practices
 
+<hr> 
+
+* [Who should observe](#who-should-observe)
+
+<hr>
+
 ## Who should observe?
 
 In general, your whole team should be invited as observers to sessions. This increases empathy and enables a shared understanding of your users' experience with your product.
