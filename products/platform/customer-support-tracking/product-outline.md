@@ -18,10 +18,9 @@ VFS and Platform team members
 
 ### Key Performance Indicators (KPIs)
 
-- % of customer support requests that are automatically tracked.
-- % of customer support requests that are categorized by topic and team.
+- for adoption: % of customer support requests that are automatically tracked.
 - time it takes to compile customer support reports.
-- % of support requests resolved by documentation.
+- % of support requests resolved by documentation (dependent on future enhancements).
 
 ------
 
