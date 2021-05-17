@@ -1,4 +1,4 @@
-# My VA Dashboard 2.0 Release Plan (Draft)
+# My VA Dashboard 2.0 Release Plan
 
 ## Phase I: UAT
 ### Planning:
