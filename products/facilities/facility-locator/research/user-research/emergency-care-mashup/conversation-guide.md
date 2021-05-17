@@ -18,7 +18,7 @@ Today we're going to talk about finding healthcare on the VA.gov website.
 Before we start, a few things I want to mention:
 
 * **This entire session should take about 45 minutes, but if we take less or a little more time, that's totally fine**.
-* **There is no need to turn on your video - audio only is fine**
+* **There is no need to turn on your camera - audio only is fine**
 
 * **First, I'll ask you a few warm up questions to get us started**.
 * **Then, I'll be sharing a link to a prototype and ask you to share your screen. We'll look at a protoype together and I will ask you questions about it**
