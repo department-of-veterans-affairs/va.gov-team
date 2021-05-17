@@ -3,7 +3,7 @@ name: Public Website Intake Form
 about: To file request with the VSA Public Websites
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming
-assignees: Public Websites
+assignees: Public Websites, @brianalloyd
 
 ---
 
@@ -94,4 +94,4 @@ What's the ETA for the app/tool launch or the date when you need this request co
 - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
 #### Definition of Done
-* Request ticket is closed and implementation tickets created as needed - **If you have content requests, please fill out the content intake request form**
+* Request ticket is closed and implementation tickets created as needed - **If you have content requests, please fill out the content [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)**
