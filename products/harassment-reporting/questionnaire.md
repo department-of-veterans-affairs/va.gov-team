@@ -49,11 +49,10 @@ there were no comparable policies, centralized reporting mechanisms, or resource
 
 
 
-- Do we have a list of 
 - What program is the E2(Squared) program?  How do we tie in from a technical prospective?
 - Where do submissions go to in the E2 database? New section?  
 - Does Form copy (to Veterans) and submission success email need to be part of the form workflow? 
-- Does we have a webmail service for forms?  
+- Do we have a webmail service for forms? (Where should this link to?)  
 - Do we want to verify who is putting in these requests?  I.e. PPI needed to submitt request and tie back to Veterans. 
 - Location and Webpage (VA.gov) and approvals needed.  Will this be evergreen content?  
 </details>
