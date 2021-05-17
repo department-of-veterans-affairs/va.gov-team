@@ -131,7 +131,7 @@ We recommend limiting to 3 people, when possible, with a maximum of 5:
 	
 #### Researcher To-dos:
 
-1. In your research plan ‘must have’ requirements, specify that participants will need to be informed about the observers and that they must express consent to being observed as part of the participation agreement (this is not standard practice on non-assistive tech studies).
+1. In your research plan ‘must have’ requirements, specify that participants will need to be informed about the observers and that they must express consent to being observed as part of the participation agreement (**this is NOT standard practice on non-assistive tech studies**).
 2. At the start of each session, you must again ask for participant’s permission, if it is OK with them for observers to be part of the session, vs. just informing them that your teammates are taking notes and observing.
 
 For more guidelines and checklists to prepare for research with assistive technology, please reference our inclusive research guidelines [future link to markdown file]().
