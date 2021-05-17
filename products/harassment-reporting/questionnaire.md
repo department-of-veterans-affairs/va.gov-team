@@ -20,6 +20,10 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
 
 - Timeline for implementation
   - As far as timing, Leadership is hoping to launch MVP1 no later than September 2021.  As we have all said, the long pole here is the backend.
+
+- What is the scope of MVP1?
+ - 
+
 - Does a list of form questions exists?  Could we review (size and scope)
   - A code prototype created by Joshua Farrar, PIF detailed at ORDMI, is available as a Pull Request attached to the `vets-website` project.  This prototype speaks specifically to the harassment case, and would simply need relatively straightforward modifications. 
   
