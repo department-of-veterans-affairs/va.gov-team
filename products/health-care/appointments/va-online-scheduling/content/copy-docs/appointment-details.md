@@ -6,6 +6,34 @@
 
 ### VA
 
+#### Upcoming-Confirmed
+
+(H1) {appointment date} at {appointment time}
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+(link) Add to calendar
+
+(link) Print
+
+(link) Cancel appointment
+
 #### Upcoming-Canceled
 
 (H1) {appointment date} at {appointment time}
