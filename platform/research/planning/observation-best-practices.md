@@ -1,7 +1,5 @@
 # Observation Best Practices
 
-<hr> 
-
 * [Who should observe](#who-should-observe)
 * [How to invite observers](#how-to-invite-observers)
 * [Internal observer instructions](#internal-observer-instructions)
