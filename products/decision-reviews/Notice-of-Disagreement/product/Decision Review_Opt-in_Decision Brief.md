@@ -3,7 +3,7 @@
 - Veterans may submit an appeal to VA if they disagree with the outcome of a claim 
 - The legacy mechanism is called an “appeal”
 - As a result of the Appeals Modernization Act (AMA)<sup>1</sup>, Veterans may now submit “Decision Reviews”
-- Notice of Disagreement (NoD) or “Board Appeal” is one of three Decision Review pathways available.
+- Notice of Disagreement (NoD), or “Board Appeal," is one of three Decision Review pathways available.
 - As VA transitions from the legacy appeal process to new decision review processes, Veterans _may_ have the choice to opt into the new process
 - The opt in is dependent on the circumstances of the claim they’re requesting an appeal on.
 
@@ -23,7 +23,7 @@ How might we help Veterans make a more informed decision about how they will req
   - Evidence this will work:
   - Advantages:
   - Disadvantages:
-2. Release NoD with language to help Veterans understand
+2. Release NoD with language to help Veterans understand the difference in opt-in eligibility.
   - Assumptions:
   - Evidence this will work:
   - Advantages:
