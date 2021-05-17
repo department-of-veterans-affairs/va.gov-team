@@ -48,7 +48,7 @@ _When might you use the template?:_
   - _Not to mention expenses..._
   - _How do we find a place to stay that has all of the amenities we want within our budget?_
   - _Answer_
-    - _We’re going to organize and categorize the places we might like to visit-
+    - _We’re going to organize and categorize the places we might like to visit_
     - _We’re going to research housing on VRBO and Airbnb_
     - _We’re going to use Splitwise to manage expenses_
 
