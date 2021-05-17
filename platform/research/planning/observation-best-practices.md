@@ -7,7 +7,7 @@
 * [Internal observer instructions](#internal-observer-instructions)
 * [Stakeholder observer instruction](#stakeholder-observer-instruction)
 * [People with disabilities or who have experienced trauma](#people-with-disabilities-or-who-have-experienced-trauma)
-* [Observing assistive technology (AT) studies](#observing-assistive-technology-(AT)-studies)
+* [Observing assistive technology (AT) studies](#observing-assistive-technology-AT-studies)
 
 <hr>
 
