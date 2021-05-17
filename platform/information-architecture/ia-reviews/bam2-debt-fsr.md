@@ -36,8 +36,11 @@ Resources and support content pages | --- | --- | These pages will be defined an
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
 Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  www.va.gov/manage-va-debt/request-debt-help-5655/ | Link label determined by writer.
+Must | [View your debt debt page](www.va.gov/manage-va-debt/your-debt/) | www.va.gov/manage-va-debt/request-debt-help-5655/ | Update section on "How to get financial help" to link to new resource pages
+Should | [View your debt debt page](www.va.gov/manage-va-debt/your-debt/) | www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to the FSR in the "How to get financial help" section.  
 Should | [Find form tool](https://www.va.gov/find-forms/) | www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to online tool in search results. Use standard CTA and label. 
 Should | [Find form tool detail page for 5655](https://www.va.gov/find-forms/about-form-5655/) |  www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to online tool on form detail page. Use standard CTA and label. 
+Consider | [View your debt debt page](www.va.gov/manage-va-debt/your-debt/) | www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to the FSR in the individual debt details. 
 Consider | [Records hub page](www.va.gov/records/) | www.va.gov/manage-va-debt/ | Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
 Consider | Records top nav | www.va.gov/manage-va-debt/ | Recommendation: Move the "Request military records" option to the "Get records" column after the home loan COE option.  Add this option to "Manage your VA debt" to the "Manage" column after the view payments option.  
 Consider | Records left nav | www.va.gov/manage-va-debt/ |  Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
