@@ -32,7 +32,8 @@
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
-  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement. Michelle **
+  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement.
+  - Facilities team: Add filter to VAMC Meta tags [#24796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24796)
 * Sort order for services  
   * **Post MVP editorial experience change to reflect product's sort and groupings for Vet Center services (currently enforced on the FE), and remove the sort handles**
 * (Note: we noticed the field name for the local service description for Vet Centers is incorrect on the mural - can you update it, please?) DONE
