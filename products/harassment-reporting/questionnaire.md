@@ -8,9 +8,21 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
 
 <details><summary>General / Programatics</summary>
 
-  
+- What is being asked of the VA.gov team for this effort?
+  - Access to dev environment to build the front-end experience
+  - Some resources to collaborate on the front-end 
+    - Light collaboration on the Dev side with Joshua for landing page and webform as required; advice/help finding SMEs as needed with data storage location for webform data
+    - Research/Testing 
+      -  Navigation and Design for Home/Main pages ->landing page->to log-in-> to web form
+      -  Web Form Design and Flow 
+    - On Product side -  minimize to what you feel is required given scope (I can help chase things down on my side)
+      - Definitely need help getting the Administrations to change their main page and VA.GOV Home page to fit navigation recommendation so we have some uniformity
+
+- Timeline for implementation
+  - As far as timing, Leadership is hoping to launch MVP1 no later than September 2021.  As we have all said, the long pole here is the backend.
 - Does a list of form questions exists?  Could we review (size and scope)
-- Timeline for implimentation
+  - A code prototype created by Joshua Farrar, PIF detailed at ORDMI, is available as a Pull Request attached to the `vets-website` project.  This prototype speaks specifically to the harassment case, and would simply need relatively straightforward modifications. 
+  
 - Marketing Initiative in support of form launch?  Where and what are is the expected site/form traffic load to consider?
 - Can we get linked to applicable Governance / Laws driving this initiative?
 - Who will provide content? 
