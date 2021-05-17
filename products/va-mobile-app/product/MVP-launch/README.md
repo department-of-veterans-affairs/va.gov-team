@@ -24,8 +24,8 @@ _This list will be updated with links to documentation as needed_
 - [ ] [User Acceptance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)
 - [ ] Internal Communications Plan
 - [ ] External Communications Plan (including static page)
-- [ ] Pre-mortem Exercise
-- [ ] Tabletop Exercise
+- [X] [Pre-mortem Exercise](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MVP-launch/Launch-Risk-Mitigation-Strategies.md)
+- [X] Tabletop Exercise
 - [ ] Launch Dry Run & Go/No Go Decision doc
 
 
