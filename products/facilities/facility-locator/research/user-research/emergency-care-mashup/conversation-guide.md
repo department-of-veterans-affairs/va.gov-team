@@ -39,7 +39,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 * Can you tell me a little about your service history?
-* Have you ever experienced what you thought was an emergency that required a visit to any facility?
+* Have you ever experienced something that required an immediate visit to any health facility?
     * If yes: can you tell me about your experience at that location?
     * If yes: what kind of facility was it (VA/non-VA)?
     * If yes: can you tell me why you decided on that particular location?
@@ -59,7 +59,7 @@ Please make sure to close any email, or other personal information you may have 
 ### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
 
-Since this is only a prototype some links and features will work but most won't. 
+Since this is only a prototype some links and features will work but most won't.
 I ask that you think out loud as much as possible, as we go through the prototype.
 If you have any questions, feel free to ask them at any time.
 
@@ -86,16 +86,14 @@ In this scenario, let's imagine that you live near Denver, CO, and that in the p
 #### Questions:
 
 I would like you to perform a search for locations that would be relevant to you.
-  - (Point out steps, probe throught process):
-  - Can you walk me through that process?
+  - (Can you walk me through that process?)
   - Tell me about what you see in this results list.
   - (Do they notice 'urgent' vs 'emergency'? Why did they chose one over the other?)
 
 Based on the results of your search, what is important to you when choosing a location from this list?
 
 Let's say you want to search for [All / VA / Community locations] in your area.
-  - (Point out steps, probe throught process):
-  - Can you walk me through the process?
+  - (Can you walk me through the process?)
   - Tell me about what you see in this results list.
   - Does the distinction between this results list, and the previous results list, matter to you?
   - (Do they notice 'urgent' vs 'emergency'? Why did they chose one over the other?)
