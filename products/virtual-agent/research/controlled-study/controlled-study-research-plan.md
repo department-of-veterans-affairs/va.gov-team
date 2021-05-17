@@ -143,7 +143,6 @@ There is no set length of session. However, we would prefer if participants spen
 
 There is no set length of session. However, we would prefer if participants spend at least 10 minutes trying the virtual agent.
 
-
 **5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
 Week of 5/21: Luciana Morais, Shane Strassburg, Rachel M. Murray, Katie Ho
@@ -156,7 +155,7 @@ Week of 5/21: Luciana Morais, Shane Strassburg, Rachel M. Murray, Katie Ho
 - Participant recruiting & screening: Perigean
 - Project point of contact: Shane Strassberg
 - Participant(s) for pilot test: Veterans, caregivers, family members
-- Observers: Luciana Morais (luciana.morais@va.gov), Katie Ho (kho@thoughtworks.com), Ian Santarinala (ian.santarinala@thoughtworks.com)
+- Observers: Luciana Morais (luciana.morais@va.gov), Katie Ho (kho@thoughtworks.com), Ian Santarinala (ian.santarinala@thoughtworks.com), Rachel M. Murray (rachel.murray@thoughtworks.com).  
 
 ## Resources
 - Project Brief: 	
