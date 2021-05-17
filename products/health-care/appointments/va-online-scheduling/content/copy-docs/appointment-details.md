@@ -6,7 +6,58 @@
 
 ### VA
 
-#### Upcoming-Confirmed
+#### Request-Pending
+
+(H1) Pending {type of care} appointment
+
+The time and date of this appointment are still to be determined.
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+Preferred type of appointment
+
+{in person, phone, or telehealth}
+
+Preferred date and time
+
+{Preferred date & time #1}
+
+{Preferred date & time #2}
+
+{Preferred date & time #3}
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+Your contact details
+
+Email: {Email address}
+
+Phone number: {phone number}
+
+Call {Best times to call "morning", "afternoon", or "evening"}
+
+(Link) Cancel request
+
+
+#### Request-Canceled
+
+
+
+#### Confirmed-Upcoming
 
 (H1) {appointment date} at {appointment time}
 
@@ -60,7 +111,7 @@ You shared these details about your concern
 
 ### Community Care
 
-#### Pending
+#### Request-Pending
 
 (H1) Pending {type of care} appointment
 
@@ -84,7 +135,7 @@ You shared these details about your concern
 
 Your contact details
 
-Email: {Email address
+Email: {Email address}
 
 Phone number: {phone number}
 
@@ -93,7 +144,7 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 (Link) Cancel request
 
 
-#### Upcoming-Confirmed
+#### Confirmed-Upcoming
 
 (H1) {appointment date} at {appointment time}
 
@@ -121,7 +172,7 @@ Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment.
 
-#### Past
+#### Confirmed-Past
 
 (H1) {appointment date and time}
 
