@@ -39,7 +39,33 @@ Phone number: {phone number}
 (Link) Cancel request
 
 
-#### Confirmed - Upcoming
+#### Upcoming-Confirmed
+
+(H1) {appointment date and time}
+
+Community care
+
+{Provider name}
+
+{Provider address}
+
+(link) Directions
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Booking note}
+
+(link) Add to calendar
+
+(link) Print
+
+Need to make changes?
+
+Contact this facility if you need to reschedule or cancel your appointment.
 
 #### Past
 
