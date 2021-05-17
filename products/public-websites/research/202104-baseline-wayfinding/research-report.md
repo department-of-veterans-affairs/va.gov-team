@@ -68,10 +68,10 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 ## Key Findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9), but the other 3 tasks had lower success rates because the navigation paths weren't straightforward (#3, 5, 8--form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).
-2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and mostly didn't looking at anything else on the page. Most participants didn't find *Resources and support* or *Find a VA form*, and only half of the participants ever opened the *VA Benefits and Health Care* megamenu. These findings were consistent with analytics data, as well.
+2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and mostly didn't looking at anything else on the page. These findings were consistent with analytics data.
 3. No participants started with site search, but about half went there when they were unable to find any relevant links elsewhere on the home page.
 4. A few accessibility issues were encountered, including font readability, site search findability with screen readers, and banner alert notification to screen readers. 
-5. There were no significant differences in wayfinding results for mobile vs. desktop users, participants with or without a cognitive disability, or people familiar vs. not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because reading all text aloud is slower than visually scanning.
+5. There were no significant differences in wayfinding results for mobile vs. desktop users, participants with or without a cognitive disability, or people familiar vs. not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because hearing text read aloud is slower than visually scanning.
 6. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query.
 7. Three participants complained about the COVID banner alert they kept seeing, including one using a screen reader.
 
@@ -180,7 +180,7 @@ Below are some *initial* recommendations based on research findings to be discus
 3. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
 4. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle.
 5. Proof of income in the form of benefit letters should be possible to get to from the View payment history page, as well as from site searches for "income" or "proof of income". 
-6. Work on improving the Find a Form search. Marci is working with Lighthouse to improve the search logic. Kelson has had success improving the search logic of Resources and support. Consider some of the following:
+6. Work on improving the *Find a Form* search. Marci is working with Lighthouse to improve the search logic. Kelson has had success improving the search logic of *Resources and support*. Consider some of the following:
     1. Strip out articles (e.g., "a") from search queries
     2. Search only on the first few words of a long search query
     3. Add typeahead suggestions when entering a search query 
