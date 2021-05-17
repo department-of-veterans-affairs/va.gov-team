@@ -31,18 +31,13 @@ VFS and Platform team members, OCTO-DE.
 
 ## Solution Approach
 
+### Pilot Support Bot
 - Doing a [spike](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787) VSP Engineering on a very simple Slack app for tracking support requests in collaboration. 
 - Goal is to reduce friction for VSP team members in logging support requests in the spreadsheet.
 - After the spike, we will test the Slack app prototype to determine what gaps remain.
-
-[Draft Engineering Design Doc](https://docs.google.com/document/d/1WD0sRAak8-r4kI85uYl0K6KaVGkAGKWVsH4fbuCsKCc/edit?usp=sharing)
-
-### V1 Support Bot
 -[Support Tracker User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/support-tracker-user-guide.md)<br>
--[Bot Commands](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/customer-support-tracking/v1-support-bot/bot-commands.md)<br>
--[Design Doc](https://docs.google.com/document/d/1WD0sRAak8-r4kI85uYl0K6KaVGkAGKWVsH4fbuCsKCc/edit#heading=h.sxwcrifdl3fs)
 
-### V2 Slack Workflow
+### Slack Workflow
 -[Platform Support Workflow](https://lucid.app/lucidchart/invitations/accept/inv_ac24da2e-ea1e-4e1a-96d1-a76d7870d27c)<br>
 
 
