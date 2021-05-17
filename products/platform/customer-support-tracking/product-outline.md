@@ -12,7 +12,7 @@ If we had a standardized way to track customer support requests in Slack, we cou
 
 ## Personas
 
-VFS and Platform team members, OCTO-DE.
+VFS and Platform team members
 
 ## Measuring Success
 
