@@ -67,15 +67,13 @@ One of the sessions was cut short due to technology issues, so most of the findi
     1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the VA Benefits and Health Care megamenu, some didn't use Find a VA Location, and many didn't use anylinks below the row of pictures.
 
 ## Key Findings
-The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
-
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9), but the other 3 tasks had lower success rates because the navigation paths weren't straightforward (#3, 5, 8--form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).
-2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and mostly didn't looking at anything else on the page. Most participants didn't find *Resources and support* or *Find a VA form*, and only half of the participants ever opened the *VA Benefits and Health Care* megamenu.
+2. A majority of participants (both mobile and desktop) stayed focused on only one part of the VA.gov home page--usually the "top 4" boxes--and mostly didn't looking at anything else on the page. Most participants didn't find *Resources and support* or *Find a VA form*, and only half of the participants ever opened the *VA Benefits and Health Care* megamenu. These findings were consistent with analytics data, as well.
 3. No participants started with site search, but about half went there when they were unable to find any relevant links elsewhere on the home page.
 4. A few accessibility issues were encountered, including font readability, site search findability with screen readers, and banner alert notification to screen readers. 
 5. There were no significant differences in wayfinding results for mobile vs. desktop users, participants with or without a cognitive disability, or people familiar vs. not with VA.gov. For screen readers, VA.gov worked well, although wayfinding takes longer because reading all text aloud is slower than visually scanning.
-6. Finding six--difficulty searchingon Find a VA Form
-7. Finding seven--COVID banner alert
+6. Four participants had a lot of difficulty searching on the *Find a VA form* page because they included too many words in the search query and/or misspelled a key word in the query.
+7. Three participants complained about the COVID banner alert they kept seeing, including one using a screen reader.
 
 
 ## Details of Findings
@@ -164,9 +162,9 @@ Below are visualizations showing where research participants using mobile device
 1. 83% of participants said that **if they can't find what they're looking for, they would call the VA** (800 number, a regional number, VSO, or a clinic). However, they try to avoid this because of long hold times, people unable to answer their questions, and frequent transfers to other people/departments. **Half of the participants said they would use google search** to help, and 2 said they might go to a VA facility to ask.
 3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. ==> Consider adding an article to Resources and Support about 2FA. Is it possible to use to select a photo to authenticate like eBenefits does?
 4. In addition to the specific issues described above, there were a few **additional pain points** mentioned by some of the participants:
-    5. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
-    6. Signing in
-    7. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, indicating that you're unable to accomplish your goal on just one website. (Wasn't this a stated goal of VA.gov?)
+    1. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
+    1. Signing in
+    1. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, indicating that you're unable to accomplish your goal on just one website. (Wasn't this a stated goal of VA.gov?)
 
 
 ## Recommendations
