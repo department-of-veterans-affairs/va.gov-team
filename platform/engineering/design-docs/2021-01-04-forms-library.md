@@ -475,7 +475,6 @@ Notice how in the first example, the function must be called with the value
 after all optional error message override functions, but in the second example,
 Formik calls the function with the value for the field itself.
 
-
 **Use the field value in the message:**
 ```js
 const validateField = fromSchema('path')
@@ -484,13 +483,48 @@ const validateField = fromSchema('path')
 
 ##### Caveat
 This field-level validation doesn't ensure that the form data submitted to the
-API matches the same shape as the JSON schema defines.
+API matches the same shape as the JSON schema defines. A mismatch in the shape
+of the form data and the schema is assumed to be a developer mistake.
 
-**TODO:** Figure out how to use the page-level validation function to easily
-ensure the object shapes are correct. I think we can pass it all the data for
-the form and a configuraiton object for overwriting the default error messages
-per field. I think it'll have something to do with parsing the `jsonschema`
-`ValidationError` `path`...and potentially other properties.
+To clarify, take the following example:
+**Schema**
+```json
+{
+  "type": "object",
+  "properties": {
+    "email": { "type": "string" },
+    "email-confirmation": { "type": "string" },
+  }
+}
+```
+
+**Data**
+```js
+{
+  email: {
+    original: "foo@bar.com",
+    confirmation: "foo@bar.com"
+  }
+}
+```
+Formulate will not deliberately catch mistakes like this, but it should be
+reasonably difficult to make these mistakes when using the `fromSchema`
+validation since the field's `name` property should likely match the schema path
+used in validation.
+
+Implementing such a mistake would look something like this using the
+`fromSchema` validation:
+```jsx
+<StringField
+  name="email-confirmation"
+  validation={fromSchema('email.confirmation')} />
+```
+
+**Discussion:** Is not ensuring the shape of the data matches the schema a
+reasonable boundary for the library to stop at?
+
+**Discussion:** What tools might Formulate give to developers to help catch
+these kinds of data shape mismatch mistakes?
 
 ### Code Location
 Formulate will live in its own repository.
