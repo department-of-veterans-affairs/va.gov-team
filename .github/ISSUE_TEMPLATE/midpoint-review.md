@@ -32,7 +32,7 @@ Would you like this review to be asynchronous? Please refer to the Midpoint Revi
 - [ ] Yes
 - [ ] No
  
-What is your preferred time slot per the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? **date/time**
+What is your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? **date/time**
  
 Please note:
 - Time slots are required for both synchronous meetings and asynchronous reviews.
@@ -50,4 +50,4 @@ Please note:
 - Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Additional information
-Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
