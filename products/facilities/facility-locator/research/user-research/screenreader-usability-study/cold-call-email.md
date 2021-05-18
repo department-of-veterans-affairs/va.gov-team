@@ -9,9 +9,9 @@
 Hello [Name],
 
  
-My name is [Name] and I help the Department of Veterans Affairs (VA) build tools for Veterans. We regularly run feedback studies to make sure we build tools that work for all Veterans.
+My name is [Name] and I help the Department of Veterans Affairs (VA) improve VA.gov for Veterans. We regularly run feedback studies to make sure we build features and functionality that work for all Veterans.
 
-We’re looking for blind and low vision Veterans who would like to participate in giving us feedback. Can you help connect us to Veterans that be interested?
+We’re looking for blind and low vision Veterans who would like to participate in giving us feedback. Can you help connect us to Veterans that would be interested?
 
 Here’s some more information on how giving feedback on VA tools works:
 
