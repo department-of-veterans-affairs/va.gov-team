@@ -123,13 +123,18 @@ Open the 'Service type' menu, talk me through what the different options mean to
    - Does the distinction between 'Service type' options matter to you?
    - What matters about the distinction?
 
-[When a list contains community partners & their benefit notices]:
+[Click search button]
+
+Tell me what you see
 
 Based on your search results, if you wanted to learn more about your benefits at a particular location, how might you do that?
 
-[Point out community partner benefit notice]:
+[Point out things they don't notice]
 
-When you see this notice, what does this mean to you?
+- Emergency alert
+- Blue info notice in results
+- Map markers
+- etc.
 
 ## Post-Task Interview - 5 minutes
 
