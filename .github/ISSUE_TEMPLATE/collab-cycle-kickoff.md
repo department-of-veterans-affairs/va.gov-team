@@ -12,8 +12,8 @@ assignees: andreahewitt-odd, shiragoodman
 - [ ] VFS: Answer the questions below.
 - [ ] VFS: Link to this issue once created in vfs-platform-support in Slack; tag @vsp-product-support-members.
 - [ ] VFS: Attach any available artifacts.
-- [ ] VSP: Review the responses and comment in ticket with recommended touchpoints and practice area involvement.
-- [ ] VSP: Add project/feature to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+- [ ] Platform: Review the responses and comment in ticket with recommended touchpoints and practice area involvement.
+- [ ] Platform: Add project/feature to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 - [ ] VFS: Close this ticket when all steps above are completed.
 
 ## Artifacts (if available)
@@ -110,4 +110,4 @@ Please note that Domo is on pause until end of June. See [here](https://github.c
 
 
 ## Additional information
-Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) on Github for more information about the Collaboration Cycle.
