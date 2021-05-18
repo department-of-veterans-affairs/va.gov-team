@@ -31,6 +31,7 @@
 * Dry run for Vet Center launch
 * Tugboat user stories for Facilities for Vet Center
 * Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
+  -  Facilities team: remove falllback logic [#24175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24175)
 * Orphan staff profiles 
   - profiles appear on the sitemap and in Google alerts even if not linked 
   - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
