@@ -20,11 +20,11 @@ assignees: shiragoodman, allison0034
 ### Has your product been reviewed by the OCTO-DE Design Lead?
 - [ ] Yes
 - [ ] No
-### Has your team met with Sitewide Content for content support?
+### Has your team met with the Sitewide Content team for content support?
 - [ ] Yes*
 - [ ] No
 
-\*If yes, please be sure to include your Content brief (if available) and any other relevant artifacts
+\*If yes, please be sure to include your Content brief (if available) and any other relevant content artifacts
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
@@ -43,7 +43,7 @@ assignees: shiragoodman, allison0034
 
 ## Scheduling
 
-### What is your preferred time slot per the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? 
+### What is your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? 
 **Date/time:**
  
 Please note:
@@ -53,5 +53,5 @@ Please note:
 - Please select a time slot at least 2 business days from request date.
 
 ## Additional information
-Please refer to the [VSP Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
 
