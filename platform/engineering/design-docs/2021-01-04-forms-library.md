@@ -364,7 +364,7 @@ _None_
 When a form in production needs to be changed in a way that will affect the
 user's ability to complete the form accurately, a data migration may be written
 to account for it. Examples include:
-- Validation for a field changes
+- The validation for a field changes
 - An existing field was previously not required but now is
 - A new required field is added
 - A new page is added
