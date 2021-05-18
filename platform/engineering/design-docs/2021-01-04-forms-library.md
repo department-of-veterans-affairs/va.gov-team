@@ -57,15 +57,15 @@ now, I digress.
 Formulate will be a modular library consisting of helper functions and
 components to aid in the rapid development of forms on VA.gov. These functions
 and components can be conceptualized as **sub-modules** for:
-- [Building form pages](#sub-module-form-page-builder)
+- [Building form pages](#form-page-builder)
   - Wrappers for Formik components using the design system
   - Re-exporting necessary Formik components
-- [Routing](#sub-module-routing)
+- [Routing](#routing)
   - Simple set-up for using Formik across multiple pages
   - Components for rendering the standard form "chrome"
   - Looping through a series of pages per item in an array
   - Conditionally-rendered pages
-- [Save in progress](#sub-module-save-in-progress)
+- [Save in progress](#save-in-progress)
   - Manual save
   - Auto save
   - Data migrations
@@ -83,7 +83,7 @@ Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
 Additionally, the library will provide a number of helper functions and
 components for:
 - Field-level schema validation
-- [Building a review page](#helper-json-schema-validation)
+- [Building a review page](#json-schema-validation)
 
 ## Specifics
 
@@ -95,17 +95,7 @@ components for:
 - [React router](https://reactrouter.com/)
 - [Formik](https://formik.org/)
 
-The following sections outline the various parts of the systems. To aid in
-navigability, I've added some specific heading descriptors to this section:
-- `Sub-module:` These describe sub-modules
-- `Helper:` These describe development aids for building forms
-  - Common components, functions, variables, etc. which can be used by engineers
-    to rapidly build forms and maintain UX consistency across VA.gov
-
-**Discussion:** Is breaking the library up into sub-modules and helpers a
-helpful mental model?
-
-#### Sub-module: Routing
+#### Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
 - Manage routes for each page
@@ -276,7 +266,7 @@ review pages. These components will include:
 **TODO:** Figure out how submission validation plays in here. How do we run all
 validation on all pages?
 
-#### Sub-module: Form page builder
+#### Form page builder
 Formulate will leverage Formik for much of the form page building. It will
 **re-export Formik components** where it makes sense and **provide light
 wrappers for Formik input fields** using design system components.
@@ -289,7 +279,7 @@ applications.
 It should be possible to use Formik directly without any issues. The form page
 builder sub-module intends to make using the design system with Formik simpler.
 
-#### Sub-module: Save-in-progress
+#### Save-in-progress
 Pieces of the save-in-progress are:
 - `SaveInProgress` component
   - Adds `SiPIndicator` to each page
@@ -397,7 +387,7 @@ version in the metadata against the length of the `dataMigrations` array. If the
 latter is greater, all migrations after the saved form version will be called in
 order.
     
-#### Helper: JSON schema validation
+#### JSON schema validation
 To ensure the data sent from the front end matches data expected on the back
 end, the client and API must share a common schema. Forms on VA.gov have used
 the [JSON schema](https://json-schema.org) specification for this.
