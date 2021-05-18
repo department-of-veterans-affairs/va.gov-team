@@ -21,6 +21,7 @@ Note there is a double dash `--` in submission events.
 | Form Starts                | Form Start - Call-to-action to **Sign In** to start form                                    | `login-link-clicked-cta-form`         |
 | Form Starts                | Form Start - Begin form button after successful sign in                                     | `login-successful-start-form`        |
 | Form Saves and Submissions | Form Saves - Event is triggered for auto form saves                                         | `<product>-sip-form-saved`          |
+| Form Saves and Submissions | Form Saves - Event is triggered for auto form loads                                         | `<product>-sip-form-loaded`          |
 | Form Saves and Submissions | Form Prefill Failures - Tracks when form prefill cannot be retrieved                        | `<product>-sip-form-prefill-failed` |
 | Form Saves and Submissions | Form Submission - Measure the form submission; Success and failures are measured distinctly | `<product>--submission`             |
 | Form Saves and Submissions | Form Submission Successful - Triggered when the form has been successfully submitted        | `<product>--submission-successful`  |
