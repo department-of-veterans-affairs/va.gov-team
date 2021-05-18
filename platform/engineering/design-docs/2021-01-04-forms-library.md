@@ -149,7 +149,11 @@ _None_
       - This is because each page is a separate Formik form, so the `Router` is
         responsible for stitching all these individual forms together into one
         cohesive experience
-1. Build a list of routes from its children's `path` props
+1. Build a list of routes for the form flow from `Chapter` and `Page`
+   components' `path` props
+    - **Important:** `Route`s define valid routes in a form, but those pages
+      live "outside" the normal form flow; these are used for pages such as
+      `/form-saved` and `/error`
     - `Page`s nested in `Chapter`s will have their paths prefixed with the
       `Chapter` path
     - For example:
