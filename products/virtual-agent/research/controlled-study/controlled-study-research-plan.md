@@ -1,5 +1,6 @@
 # Research Plan for Virtual Agent, 5/17/2021
-As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.	
+
+As a researcher I want to create a research plan so Perigean can recruit the correct users for our research study.	
 
 ## Goals
 
