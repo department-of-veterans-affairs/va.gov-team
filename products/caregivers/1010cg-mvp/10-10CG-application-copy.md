@@ -267,6 +267,7 @@ They can be the Veteran's:
 - Other relative
 
 Yes
+
 No
 
 [<<Back]   [Continue>>]
