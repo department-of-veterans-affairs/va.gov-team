@@ -258,8 +258,8 @@ They can be the Veteran's:
 - Friend or neighbor
 - Other relative
 
-Yes
-No
+- Yes
+- No
 
 [<<Back]   [Continue>>]
 
@@ -332,33 +332,237 @@ Would you like to apply for benefits for another Secondary Family Caregiver?
 
 [<<Back]   [Continue>>]
 
-## Step 2 of 5: Primary Family Caregiver applicant information
+## Step 4 of 6: Secondary Family Caregiver's (2) applicant information
 
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666484/simulate/sitemap?mode=i)
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666488/simulate/sitemap?mode=i)
 
-**Health care coverage**
+Secondary  Family Caregiver’s (2) first name(*Required)
 
-Does the Primary Family Caregiver applicant have health care coverage, such as Medicaid, Medicare, CHAMPVA, Tricare, or private insurance?(*Required)
-- Yes
-- No
+Secondary  Family Caregiver’s (2) middle name
+
+Secondary Family Caregiver’s (2) last name(*Required)
+
+Secondary Family Caregiver’s (2) Social Security number or tax identification number
+
+Secondary Family Caregiver’s (2) date of birth(*Required)
+
+Month   Day   Year
+
+Secondary Family Caregiver’s (2) sex
+- Female
+- Male
 
 [<<Back]   [Continue>>]
 
-## Step 3 of 5: Secondary Family Caregiver applicant information
 
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666485/simulate/sitemap?mode=i)
+**Contact information**
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666489/simulate/sitemap?mode=i)
 
-Learn more about who qualifies as a Secondary Family Caregiver _(more info)_
-Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Secondary Family Caregiver generally serves as a backup to the Primary Family Caregiver.
-They can be the Veteran's:
-- Parent
+Secondary Family Caregiver’s (2) current street address(*Required)
+
+Street address line 2
+
+City(*Required)
+
+State(*Required) _(dropdown)_
+
+Postal code(*Required)
+
+Secondary Family Caregiver’s (2) primary telephone number (including area code)(*Required)
+
+Secondary Family Caregiver’s (2) alternate telephone number (including area code)
+
+Secondary Family Caregiver’s (2) email address
+
+Re-enter Secondary Family Caregiver’s (2) email address
+
+What is the Secondary Family Caregiver’s (2)relationship to the Veteran?(*Required) _dropdown)_
 - Spouse
-- Son or daughter
-- Stepfamily member
-- Grandchild
-- Significant other
-- Friend or neighbor
-- Other relative
+- Father
+- Mother
+- Son
+- Daughter
+- Brother
+- Sister
+- Significant Other
+- Relative - Other
+- Friend/Neighbor
+- Granchild
 
-Yes
-No
+[<<Back]   [Continue>>]
+
+## Step 5 of 6: Representative document
+
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666490/simulate/sitemap?mode=i)
+
+Some family caregivers are also the Veteran’s legal representative. These representatives have the legal authority to make certain decisions for the Veteran.
+
+Here's what you should know:
+
+- You can still continue with this application to apply for the program even if you’re not the Veteran’s legal representative.
+- If you are the Veteran’s legal representative, you can upload a document to show your legal status now. If you don't upload your document now, we'll ask you to provide it later.
+
+Do you have a legal representative document you’d like to share with us?
+- Yes. I want to upload my document now.
+- Yes. But I'll provide my document later.
+- No. I don't have this document.
+
+What type of document does a legal representative need? _(more info)_
+To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
+- Power of attorney,**or**
+- Legal guardianship order,**or**
+- Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
+
+Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
+
+# If Yes. I want to upload my document now. 
+
+## Step 5 of 6: Representative document
+
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666491/simulate/sitemap?mode=i)
+
+**Upload your legal representative document**(*Required)
+
+You’ll need to scan your document onto the device you’re using to submit this application, such as your computer, tablet, or mobile phone. You can upload your document from there.
+
+Guidelines for uploading a file:
+
+- You can upload a .pdf, .jpeg, or .png file
+- Your file should be no larger than 25MB
+
+A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow internet connection.
+
+What type of document does a legal representative need? _(more info)_
+
+To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
+- Power of attorney,**or**
+- Legal guardianship order,**or**
+- Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
+
+Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
+
+[Upload]
+
+[<<Back]   [Continue>>]
+
+## Step 6 of 6: Review Application
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666511/simulate/sitemap?mode=i)
+
+_(Review accordions)_
+
+# If Veteran signing
+
+Please review information entered into this application. The Veteran and each family caregiver applicant must sign the appropriate section.
+
+**Veteran’s statement of truth**
+
+I certify that I give consent to the individual(s) named in this application to perform personal care services for me upon being approved as Primary and/or Secondary Family Caregivers in the Program of Comprehensive Assistance for Family Caregivers.
+
+I have read and accept theprivacy policy. _(link)_. 
+ 
+Veteran's full name (*Required)
+ 
+ _(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
+ 
+ # If Veteran signing
+
+Please review information entered into this application. The Representative and each family caregiver applicant must sign the appropriate section.
+
+**Veteran's statement of truth**
+**Signed by the Veteran’s legal representative on behalf of the Veteran.**
+I certify that I give consent to the individual(s) named in this application to perform personal care services for me (or if the Veteran’s Representative, the Veteran) upon being approved as a Primary and/or Secondary Family Caregiver(s) in the Program of Comprehensive Assistance for Family Caregivers.
+
+I have read and accept the privacy policy. _(link)_
+
+Enter your name to sign as the Veteran’s representative (*Required)
+
+On behalf of
+
+_(Veteran's name)_
+
+_(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
+
+**Primary Family Caregiver applicant's statement of truth**
+
+I certify that I am at least 18 years of age.
+
+I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Primary Family Caregiver.
+
+I agree to perform personal care services as the Primary Family Caregiver for the Veteran named on this application.
+
+I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Primary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45.
+
+I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs.
+
+I have read and accept the privacy policy. _(link)_
+
+Primary Family Caregiver applicant’s full name (*Required)
+
+_(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
+
+**Secondary Family Caregiver applicant’s statement of truth** _(if applicable)_
+I certify that I am at least 18 years of age.
+
+I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver.
+
+I agree to perform personal care services as the Secondary Family Caregiver for the Veteran named on this application.
+
+I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Secondary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45.
+
+I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs.
+
+I have read and accept the privacy policy. _(link)_
+
+Secondary Family Caregiver applicant’s full name (*Required)
+
+_(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
+
+**Secondary Family Caregiver (2) applicant’s statement of truth** _(if applicable)_
+I certify that I am at least 18 years of age.
+
+I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver.
+
+I agree to perform personal care services as the Secondary Family Caregiver for the Veteran named on this application.
+
+I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Secondary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45.
+
+I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs.
+
+I have read and accept theprivacy policy.
+
+Secondary Family Caregiver (2) applicant’s full name (*Required)
+
+_(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
+
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or providing incorrect information. (See 18 U.S.C. 1001)
+
+[<<Back]   [Submit application>>]
+
+## You've successfully submitted your application
+[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666521/simulate/sitemap?mode=i)
+
+Once we’ve reviewed your application, a Caregiver Support Coordinator will contact you to discuss next steps.
+
+**Application for the Program of Comprehensive Assistance for Family Caregivers (VA Form 10-10CG)**
+
+For Veteran: _Veteran name_
+
+**Date received**
+
+_date_
+
+[Print this page]
+
+
+**What happens after I apply?**
+
+If we need you to provide more information or documents, we will contact you.
+
+A member of the Caregiver Support Program team at the medical center where the Veteran plans to receive care will contact you to discuss the application process and next steps in determining eligibility. If you aren’t eligible for PCAFC you may be eligible for the Program of General Caregiver Support Services (PGCSS). 
+
+If you have questions about your application, what to expect next, or if you are interested in learning more about the supports and services available to support Veterans and caregivers, you may contact the VA Caregiver Support Line at 855-260-3274 or visit www.va.caregiver.gov.
+
+[Go back to VA.gov]
+
+
+
