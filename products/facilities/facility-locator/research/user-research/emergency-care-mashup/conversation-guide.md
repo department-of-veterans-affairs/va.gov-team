@@ -131,6 +131,10 @@ Based on your search results, if you wanted to learn more about your benefits at
 
 [Point out things they don't notice]
 
+(Tell me what you see)
+(Do you notice anything else?)
+(I'd like to point out something specific)
+
 - Emergency alert
 - Blue info notice in results
 - Map markers
