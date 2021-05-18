@@ -23,7 +23,7 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
 - 2 users had disability ratings 
 - 1 mobile, 5 desktop
 
-## Findings and recommendations
+## Findings and correlating recommendations
 
 1. Users easily understood how to use the page and what the page was for. 
 2. Users were easily able to complete tasks in all sections.
@@ -50,12 +50,25 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
  - **Recommendation**: We may want to explore ways to elevate benefits that the VA offers on the dashboard - this work might simultaneously add more value to a user who does NOT have claims or health care.  
 
 
+## Recommendations
+
+1. We need to explore how to implement notifications - this was validated in this study.
+2. We need to explore ways to make the dashboard more valuable to users who do NOT have claims or health care.  We may also need to do additonal research around this to understand what that specific type of user would be looking to do from their dashboard. 
+3. We may want to explore ways to elevate benefits that the VA offers on the dashboard - this work might simultaneously add more value to a user who does NOT have claims or health care. 
 
 
+## Functinality that users mentioned wanting (and the number of users who said it)
 
+-  Notifications (6/6)
+-  Payment history (3/6)
+-  Customizeable dashboard (3/6)
+-  Dependent information (1/6)
 
 ## Things to think about
 
 - Do users want to see sections that have no updates for them? Is the 'no update' update important? (i.e. if all of a users claims are closed, is it important to them to see that they have no claims?)
 - Would it be useful to think through how to help people who are onboarding from eBenefits vs a person who is completely new to the VA? Do those need to be different experiences?
   >"That's one of the things I like about eBenefits is that it's a one stop shop. I can literally do everything I need to do in 10 minutes and then I'll be done."
+- Do we fully understand all of the health care and claims use cases? Even in this small study, we had 2 interesting health care use cases, it might be interesting to dive into that a little more.
+- How do we make a dashboard more useful to people who don't have health care or claims? What would they use a dashboard for?
+- How do we test with real data earlier on in a project?
