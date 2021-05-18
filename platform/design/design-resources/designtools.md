@@ -4,29 +4,29 @@
 
 ## Communication
 NO Google Drive allowed. Like, for real. 
-- **Slack**: All conversations about products should take place in the appropriate DSVA product channel, not a private DM, an AdHoc only, or DSVA only channel. 
+- **Slack**: All conversations about products should take place in the appropriate product channel. Don't use private DM, contractor only, or VA only channels unless there is a **really** good reason. 
   - Bring any design questions for your fellow designers to the [#design](https://dsva.slack.com/channels/design) channel. 
   - Bring any research questions to the [#vetsdotgov-research](https://dsva.slack.com/channels/vetsdotgov-research) channel. 
 - **GitHub**: Both for code and for storing #allthethingz. This is our knowledge management system too, so document everything!   - Your research process should be documented end-to-end in a [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) stored in your product folder. When you're done with research, add your study & the link to your research folder to the [Research History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)     
 - Your [design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design) should also be documented in your product folder; upload and store design files, link to prototypes and templates.  
-- **Zoom.com**: We conduct our meetings on [zoom.us/j/178649656](https://zoom.us/j/178649656). If you need to use the design channel at times when we don't have meetings check with Emily Waggoner.
+- **Zoom.com**: We conduct our weekly meetings on Zoom. Naomi Marcussen or Kevin Hoffman will post the link weekly.
 
 ## Mockups, wireframes, sketches
-_*Most* should be available through Adhoc or VA (ask your UX Lead)_
-- **Sketch**: We use Sketch to design. There is a Sketch pattern library (see links below). Don't create new patterns without checking with the manager of the design system (currently: Jared Cunha and Emily Waggoner). 
-- Creative Cloud (subscription, monthly fee on your own)
+_Ask your UX Lead about access to these tools_
+- **Sketch**: We use Sketch to design. There is a [Sketch pattern library](https://design.va.gov/documentation/code-and-design). If you find you aren't able to get the job done with existing patterns, check with the manager of the design system (currently: Ryan Thurlwell). 
+- _Creative Cloud_ (subscription, monthly fee on your own)
   - Photoshop
   - Illustrator
   - XD
-  - In Design
+  - InDesign
 
 ## Prototyping
-- Pen and Paper
+- Pen and Paper totally works!
 - Keynote / Powerpoint
   - fast but low-fidelity
 - InVision (Free!)
   - good for mobile
-  - account admin is Alex Taylor
+  - account admin is Nancy Smith
 - HTML/CSS (Free!)
   - for higher fidelity prototypes that will become applications
 - Mural (for brainstorming, mapping, and comparative analysis)
@@ -35,8 +35,7 @@ _*Most* should be available through Adhoc or VA (ask your UX Lead)_
 ## Front-End frameworks
 - Foundation
 - US Web Design Standards
-- Pattern Library
-- VA styleguide
+- [VA styleguide & Pattern Library](design.va.gov)
   - A combination of Foundation, USWDS and our internal style 
 
 ## Print
