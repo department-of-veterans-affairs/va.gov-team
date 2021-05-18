@@ -11,6 +11,8 @@
 
 ## Intro - 5 minutes
 
+[Speak slowly and clearly]
+
 Thanks for joining us today! 
 My name is Nick, I'm a designer working on the VA.gov site, and I also have some colleagues on the line observing and taking notes. 
 Today we're going to talk about finding healthcare on the VA.gov website.
