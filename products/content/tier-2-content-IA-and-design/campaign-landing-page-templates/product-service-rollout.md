@@ -62,8 +62,12 @@ To release the CLP to a wider VA digital comms user base -- enabling the tool to
   - The URL must be set dynamically (e.g. via H1) with hyphens
   - The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
   - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages.
-  - Set-up of the CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.
-  - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM). 
+  - Determing what is a CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.  We will hold a session with each to walk through the process and governance.   Our guidance:
+    - CLPs are temporary.
+    - Temporary clp’s need to drive traffic TO benefits or tools or products, not the other direction.
+    - Temporary clp’s can be seasonal or recurring or somehow temporary (like flu season 2020, flu season 2021) but not duplicative of evergreen content.
+    - Ideally, temporary clp’s are used to do targeted messaging to targeted audiences -- e.g. Flu Vaccines for Female Veterans
+ - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM), vanity URLs. 
   - There will be no VA.gov Platform or Product review before publication
   - The Public Websites team will be the primary POC (as product owner) and is responsible for:
     - Intake of the request form 
