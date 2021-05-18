@@ -38,6 +38,8 @@
 ## May 19
 
 CLP 
+* 🎉 Launch! Any updates/insights?
+* Pride & Vaccine campaigns
 * New URL pattern is implemented via [#2383](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2383)
 
 React Widgets 
