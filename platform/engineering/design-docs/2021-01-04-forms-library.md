@@ -143,8 +143,9 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Pass the form data to the child `Chapter` and `Page` components
-    - They'll use this as the page's [`initialValues`](https://formik.org/docs/api/formik#initialvalues-values)
+1. Provide a React context with the form state
+    - `Page` will use this as the page's
+      [`initialValues`](https://formik.org/docs/api/formik#initialvalues-values)
       - This is because each page is a separate Formik form, so the `Router` is
         responsible for stitching all these individual forms together into one
         cohesive experience
@@ -158,15 +159,14 @@ _None_
       </Chapter>
       ```
       This will result in a path definition of `/personal-information/name`
-1. Re-compute this list before each page navigation (below)
+1. Re-compute the list of routes before each page navigation (below)
     - This ensures any data changes that might affect the routes are captured
-1. Provide callbacks to navigate forward and backward through the list of
-   computed routes
+1. Provide callbacks in the React context to navigate forward and backward
+   through the list of computed routes
     - The function to navigate to the next page will also be responsible for
       running validation, preventing progress if there are validation errors,
       and updating the form data upon success
-1. Accept an `autoSaveForm` prop and pass it to the `Chapter` and `Page`
-   components to use when creating a `Formik` form for the page
+1. Accept the `saveForm` and `loadForm`props and pass them to the React context
 
 ##### `Chapter` Component
 **Purpose:**
