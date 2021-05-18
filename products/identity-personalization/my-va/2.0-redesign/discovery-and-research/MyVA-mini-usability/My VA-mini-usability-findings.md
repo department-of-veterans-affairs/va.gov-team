@@ -58,6 +58,7 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
 1. We need to explore how to implement notifications - this was validated in this study.
 2. We need to explore ways to make the dashboard more valuable to users who do NOT have claims or health care.  We may also need to do additonal research around this to understand what that specific type of user would be looking to do from their dashboard. 
 3. We may want to explore ways to elevate benefits that the VA offers on the dashboard - this work might simultaneously add more value to a user who does NOT have claims or health care. 
+4. Overall, we need to continue iterating on the dashboard and exploring ways to make it more useful for Veterans. 
 
 
 ## Functinality that users mentioned wanting (and the number of users who said it)
