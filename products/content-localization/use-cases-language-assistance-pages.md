@@ -33,10 +33,7 @@ Instructions to access in Staging (or Prod for Drupal):
 
 Description: The new pages (Spanish, Tagalog and Other Languages) will be created in Drupal and include 
 - Breadcrumbs to go back to prior page (including after clicking a link FROM the new pages)
-
-
-left nav, header and footer - all in english?
-back link from PDF/Factsheets?
+- Header/Footer in English (no left nav)
 
 Link to designs: see above
 
