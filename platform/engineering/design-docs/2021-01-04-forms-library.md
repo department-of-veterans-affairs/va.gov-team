@@ -95,6 +95,8 @@ components for:
 - [React router](https://reactrouter.com/)
 - [Formik](https://formik.org/)
 
+The following sections outline the various parts of the system.
+
 #### Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
