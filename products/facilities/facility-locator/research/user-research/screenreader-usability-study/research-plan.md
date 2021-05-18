@@ -7,7 +7,7 @@ The Facilities team wants the Facility Locator to be easy to use with assistive 
 
 ## Goals
 
-- Establish foundational knowledge of Veterans Facility Locator search experience while using assistive technology on desktop and mobile
+- Establish foundational knowledge of Veterans Facility Locator search experience while using assistive technology
 - Understand how search experience expectations might differ on mobile vs desktop
 - Identify pain points for Veterans using assistive tech to search for facilities
 - Validate recent keyboard navigation and voiceover changes
@@ -17,7 +17,7 @@ The Facilities team wants the Facility Locator to be easy to use with assistive 
 - Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
   - Can they easily perform a search?
   - Can they easily consume results?
-  - Does Facility Locator need to be improved to offer an equitable experience? If so, how?
+  - Does Facility Locator need to be change or evolve to offer an equitable experience? If so, how?
   
 
 ## Method 
