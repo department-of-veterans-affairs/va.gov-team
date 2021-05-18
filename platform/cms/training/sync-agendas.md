@@ -1,9 +1,9 @@
 ### **May 19, 2021**
 
 Agenda
-* Vet Center training for local editors
-* VAMC Office Hours, Tuesday, May 25, 1pm ET - Topics to hightlight with VAMC editors
-* 
+* Vet Center training for local editors, Monday, May 24, 2:30 to 4:00 p.m. ET. Anything help desk needs to know in advance of getting these editors going?
+* VAMC Office Hours, Tuesday, May 25, 1:00 to 2:30 p.m. ET, Jane to facilitate, Lisa to take upgrade questions - Topics to hightlight with VAMC editors?
+
 
 ### **February 24, 2021**
 
