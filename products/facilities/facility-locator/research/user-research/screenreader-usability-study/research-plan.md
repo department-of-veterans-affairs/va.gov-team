@@ -100,20 +100,20 @@ At least:
 
 ## Timeline 
 
-[Preliminary dates - needs updating]
+[Preliminary dates - Blocked by recruiting]
 
-- Study dates: May 19 - 27, 2021
-- Pilot session: will be held on Mon, May 17, 2021
+- Study dates: ~~May 19 - 27, 2021
+- Pilot session: will be held on ~~Mon, May 17, 2021
 - Session length: **2 hours** 
 
 #### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
-- Wed 5/19: 8a, 10a, 12p
-- Thu 5/20:  8a, 10a, 12p
-- Fri 5/21:  8a, 10a
-- Mon 5/24: 12p
-- Tue 5/25: 8a, 10a, 12p
-- Wed 5/26: 8a, 10a, 12p
-- Thu 5/27: 8a, 10a, 12p
+- ~~Wed 5/19: 8a, 10a, 12p~~ 
+- ~~Thu 5/20:  8a, 10a, 12p
+- ~~Fri 5/21:  8a, 10a
+- ~~Mon 5/24: 12p
+- ~~Tue 5/25: 8a, 10a, 12p
+- ~~Wed 5/26: 8a, 10a, 12p
+- ~~Thu 5/27: 8a, 10a, 12p
 
 ## Team Roles
 
