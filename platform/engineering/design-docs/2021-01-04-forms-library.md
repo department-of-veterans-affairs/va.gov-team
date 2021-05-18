@@ -71,9 +71,10 @@ and components can be conceptualized as **sub-modules** for:
   - Data migrations
 
 **Each sub-module will be independent.** If a form doesn't need the multi-page
-routing, the team building it simply won't use the routing sub-module. Likewise,
-if a form needs more complex routing, the team building it can opt to roll their
-own, but still reap the benefits of using the rest of the system.
+routing, the team building it simply won't use the routing sub-module, and it
+won't be included in their application bundle. Likewise, if a form needs more
+complex routing, the team building it can opt to roll their own, but still reap
+the benefits of using the rest of the system.
 
 _Note: "sub-modules" here refer to independent parts of a larger system and have
 nothing to do with [Git
