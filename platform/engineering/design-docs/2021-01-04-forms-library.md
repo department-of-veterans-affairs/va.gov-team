@@ -124,10 +124,15 @@ form. In particular, it will:
 
 To accomplish this, there will be four primary pieces in the routing
 sub-module:
-- `Router` component
-- `Chapter` component
-- `Page` component
-- `Route` component
+- [`Router` component](#router-component)
+- [`Chapter` component](#chapter-component)
+- [`Page` component](#page-component)
+- [`Route` component](#route-component)
+
+Additionally, to accommodate some common patterns on VA.gov form applications,
+Formulate will provide:
+- [Helpers for building array pages](#functionality-array-pages)
+- [Helpers for buliding the review page](#review-page)
 
 ##### `Router` Component
 **Purpose:**
