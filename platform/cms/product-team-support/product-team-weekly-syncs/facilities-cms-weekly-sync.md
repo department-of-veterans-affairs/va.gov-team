@@ -22,6 +22,10 @@
 </details>
 
 ## Wednesday May 12
+* Vet Center training and adding users
+* Menu governance
+* Tugboat user stories for Facilities for Vet Center
+* Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
 * Orphan staff profiles 
   - profiles appear on the sitemap and in Google alerts even if not linked 
   - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
@@ -32,7 +36,7 @@
   - Design guide update
   - Implementing change
     - pros/cons for hard coding into FE or overriding in CMS
-  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement.
+  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement. [#5339](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5339)**
   - Facilities team: Add filter to VAMC Meta tags [#24796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24796)
 * Sort order for services  
   * **Post MVP editorial experience change to reflect product's sort and groupings for Vet Center services (currently enforced on the FE), and remove the sort handles**
