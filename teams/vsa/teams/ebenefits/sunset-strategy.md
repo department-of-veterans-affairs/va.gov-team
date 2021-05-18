@@ -22,7 +22,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Pension Automation: Dependency Claims               | vsa-ebenefits | In testing        | --        | -- | -- | New USB priority as of Q4, inflates scope of Modify Dependents
 | View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Messaging with link to app on VA.gov        | --        | -- | No stakeholder POC
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | **(COMPELETE 01042020)**        | Full redirect to [app](va.gov.education/how-to-apply)        | --        | -- | -Jan 4 2021 launch via LoB request
-| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Currently in phase release      | No redirect in place yet        | --        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
+| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Currently in phase release      | Banner messaging        | --        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
 | Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | --        | -- | -- | New VRE business requirement as of Q4
 | Update Direct Deposit (EDU)                         | vsa-authd-exp | **(COMPELETE)**  | -- | -- | -- | BGS Integration, new research
 | View My Documents                                   | vsa-bam-2     | --        | --        | --        | -- | Partially complete in Claim Status Tool, requires research on deltas
