@@ -34,7 +34,6 @@ If the student already has a bachelor's or graduate degree and is enrolled in a 
 - Has the student earned a bachelor’s or graduate degree in an approved STEM program?  
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 - Name of STEM program of degree conferred: 
-- 6-digit CIP Code of degree conferred: 
 - Is the student currently enrolled in a covered clinical training program for health care professionals?
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 
