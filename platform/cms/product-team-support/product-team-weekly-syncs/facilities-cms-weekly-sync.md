@@ -23,6 +23,7 @@
 
 ## Wednesday May 12
 * Vet Center training and adding users
+* React widget audit
 * Menu governance
 * Tugboat user stories for Facilities for Vet Center
 * Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
