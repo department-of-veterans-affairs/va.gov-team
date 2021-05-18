@@ -227,8 +227,8 @@ form flow. These pages may include:
 
 ##### Functionality: Array pages
 Array pages are one or more pages that are looped through in a form flow, once
-for each item in the array they are for. To help understand the nuances of array
-pages, consider the following example:
+per item in the array. To help understand the nuances of array pages, consider
+the following example:
 
 ```jsx
 <Page
@@ -259,9 +259,9 @@ URL parameters (term pending). URL parameters must be the only token between
 valid path parameters. `/my-:index-item` is an invalid path parameter.
 
 `pathParams` will be an object whose keys map to the path parameters and whose
-values map to the path to the data in the form data. In the above example, the
-`pathParams` will assign `:marriageIndex` in the URL a number based in the
-current item in the `marriages` array.
+values map to the path to the form data. In the above example, the `pathParams`
+will assign `:marriageIndex` in the URL a number based in the current item in
+the `marriages` array.
 
 
 ##### Review page
