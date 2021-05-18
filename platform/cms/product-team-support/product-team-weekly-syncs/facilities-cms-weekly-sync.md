@@ -25,6 +25,7 @@
 * Vet Center training and adding users
 * React widget audit
 * Menu governance
+* Dry run for Vet Center launch
 * Tugboat user stories for Facilities for Vet Center
 * Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
 * Orphan staff profiles 
@@ -46,7 +47,7 @@
   *  Now functional va-accordion fork will proceed for  Vet Center. Michelle will schedule a followup about component ownership and tech debt around "FAQ section" component.
   *  Add documentation to https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/content-model-centralized-content.md for graphqlification / filters and "rules of engagement" for iterating on existing component templates, pointing to an example from `va-accordion`. 
 * Vet Center runbook
-  * 
+
 
 ## Wednesday, May 5
 
