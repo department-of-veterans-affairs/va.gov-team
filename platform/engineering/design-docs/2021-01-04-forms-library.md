@@ -186,17 +186,16 @@ form title, current chapter name, and progress bar.
 
 ##### `Page` Component
 **Purpose:**
-A `Page` is the required wrapper around form page contents.
+A `Page` is used to define the path for a page and render its form contents and
+the normal page chrome.
 
 **Usage requirements:**
 A `Page` may be the child of either `Router` directly or `Chapter`.
 
 **Responsibilities:**
 - If no `overrideFormik` prop is passed
-  - Render a
-  [`<Formik>`](https://formik.org/docs/api/formik#initialvalues-values)
-  component and pass it some default props for `initialValues`, `validate`, and
-  `onSubmit`
+  - Render a [`<Formik>`](https://formik.org/docs/api/formik) component and pass
+    it some default props for `initialValues`, `validate`, and `onSubmit`
 - Render the children, passing them the extra props for form state
   - For an example usage, see [below](#functionality-array-pages)
   - **Caveat:** This means when the children of `Page` are a collection of
