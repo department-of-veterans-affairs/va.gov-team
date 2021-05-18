@@ -8,49 +8,17 @@ The Facilities team wants the Facility Locator to be easy to use with assistive 
 ## Goals
 
 - Establish foundational knowledge of Veterans Facility Locator search experience while using assistive technology on desktop and mobile
-- Understand how industry standards impact Veteran search experience expectations
 - Understand how search experience expectations might differ on mobile vs desktop
 - Identify pain points for Veterans using assistive tech to search for facilities
 - Validate recent keyboard navigation and voiceover changes
  
 ## Research Questions 
 
-Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
-
-- Do they have access to all functionality?
-- Can they distinguish the interactive elements?
-- What are the pain points?
-
-#### Search box
-
-- Is the search box easy to navigate? 
-  - (Forward and back, no keyboard traps)
-- How could the typeahead search field be improved? 
-  - (Facility type = Community care providers)
-- Do they understand how to enable their location?
-- Do they understand how to clear inputs?
-- Do error messages provide adequate support? 
-  - (in particular, when searches return no results due to the radius limit)
-
-#### Map
-
-- Do they want to interact with the map?
-  - If so, can they interact with the map easily?
-- Are the context changes clearly communicated?
-- Do the pins provide adequate information about the location? [I tested this on VoiceOver iOS, they just announce "Tab A, Tab B, etc- not the location itself. Interesting note, folks need to go through all the tabs first before getting access to the zoom in and out buttons.]
-- Can the map be navigated in a logical order?
-
-#### Search results
-
-- How many results are expected?
-- For searches with a high number of results (ie: community pharmacy), is the number of tab stops/information presented appropriately?
-- Are results presented in logical reading order?
-- Can the result list be navigated in a logical order?
-- Can the Veteran navigate easily between the results and map?
-- Do Veterans using assistive tech on a mobile device prefer to view results on the map or in a list?
-- Does the information presented for a given facility match expectations?
-- Does the Veteran understand how to find more detailed information about the facilities returned?
-- What online maps/searches do these participants find easiest to use/why?
+- Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
+  - Can they easily perform a search?
+  - Can they easily consume results?
+  - Does Facility Locator need to be improved to offer an equitable experience? If so, how?
+  
 
 ## Method 
 
