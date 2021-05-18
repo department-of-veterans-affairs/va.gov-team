@@ -31,14 +31,15 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
   > "I usually check my disability rating and my payment history - so that's a big win."
 
 4. All users stated that they would expect to see notifications on this page.
-  >"I want to see anything that I have upcoming."
-  >"I'd like to know if there's anything that I need to do, or if I'm missing anything."
-  >"I'd just want to know what my top 'action items' are."
+  > "I want to see anything that I have upcoming."
+  > "I'd like to know if there's anything that I need to do, or if I'm missing anything."
+  > "I'd just want to know what my top 'action items' are."
 
   - **Recommendation**: We know from previous studies that this is something users want on their dashboard. We plan to start working on figuring out the notification functionality next. This study definitely validated the need for this work. 
 
 5. Users who were both enrolled in health care and were actively using VA health care found My VA to be useful (even if they did not have any claims).
-  > "This seems like a good jumping off point, and it seems really useful.'
+  > "This seems like a good jumping off point, and it seems really useful.' 
+  
   > "I'm so excited to see all of these links in one place, it's usually so difficult to try to get things done"
 
 6. Users who were NOT enrolled in health care and had NO claims, did not find the page to be especially useful. Many of these users expressed they would not use My VA. A few of these users felt that the dashboard wasn't personalized enough.
