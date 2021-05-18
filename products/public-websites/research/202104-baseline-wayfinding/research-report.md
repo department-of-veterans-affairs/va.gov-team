@@ -64,7 +64,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
 1. Veterans don't care where the information they're looking for is stored, as long as they are able to find it.
     1. LIKELY TRUE: Participants didn't talk about where information is stored and didn't realize that search results from *Find a VA Location*, *Find a Form*, and *Resources and support* came from different places. The idea of what content is in what repository is not relevant to the Veteran's task at hand.
 3. Veterans aren't using all of the current search and browse tools on VA.gov. 	
-    1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the VA Benefits and Health Care megamenu, some didn't use Find a VA Location, and many didn't use any links below the row of pictures.
+    1. DEFINITELY TRUE: Most participants were focused on the "top 4" boxes most of the time, with limited exploration of the header and links below. Many participants didn't use the *VA Benefits and Health Care* megamenu, some didn't use *Find a VA Location*, and many didn't use any links below the row of pictures.
 
 ## Key Findings
 1. All participants were able to successfully complete 3 of the 9 tasks (#2, 1, 4), and most completed 3 more of the tasks (#6, 7, 9), but the other 3 tasks had lower success rates because the navigation paths weren't straightforward (#3, 5, 8--form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).
@@ -111,11 +111,11 @@ One of the sessions was cut short due to technology issues, so most of the findi
         1. *Consider moving the row of images down to the actual bottom of the page.*
 1. **No participants started with site search (in the header of the home page), but about half went there when they were unable to find any relevant links elsewhere on the home page.** Some participants said that they didn't notice *Search* in the header at first, but once they found it, a few used it in later tasks.
     1. *"It is an option of last resort. When all else fails, use the search function." (p16)*
-    1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*.
-        1. *Consider adding a search box next to the word* Search *in the header to make it more visible.*
+    1. One participant never used site search because they didn't notice it in the header. They readily used the search box in *Find a Form* and *Resources and Support*, which is visible without clicking.
+        1. *To make site search more visible, consider adding a search box in the header and/or just above or below the "top 4" boxes.*
 
 1. **Two accessibility issues were encountered:**
-    1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they were able to read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (1 age 75 or older, 1 65-74, and 3 55-64). 
+    1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they were able to read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (one age 75 or older, one 65-74, and three 55-64). 
     2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form instead of seeing it in the landmarks list (as on google.com). 
 3. One participant (and also a pilot participant who was a Veteran) **wanted to sign in first** when they opened VA.gov *("easier to sign in [first] because it will ask me to later", p11)*. This participant was asked to proceed without signing in.  
 
@@ -174,7 +174,7 @@ Below are visualizations showing where research **participants using mobile devi
 
 
 ## Recommendations
-Below are some *initial* recommendations based on research findings to be discussed and revised with the team: 
+Below are some *preliminary* recommendations based on research findings to be discussed and revised with the team: 
 1. Because many people aren't finding the *Find a Form* and *Resources & support* links in the footer, consider providing additional links in the header where more people will see it (i.e., "VA Forms", "Resources" or "Help").  
 1. Since people spend so much time looking at links in the "top 4" boxes, consider adding additional links and/or a "View more" link in each box. Additional links to consider are the following:
     1. Travel pay reimbursement (add to Health care box and *VA Benefits and Health Care* megamenu under health care and/or disability)
