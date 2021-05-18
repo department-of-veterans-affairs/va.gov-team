@@ -207,10 +207,14 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 - Prevent navigation if there are validation errors
 
 ##### `Route` Component
+**Purpose:**
 The `Route` will be re-exported from `react-router-dom`. The purpose of
 re-exporting is twofold:
 - Simplifies imports
 - Ensures only one version of `react-router-dom` is used
+
+**Usage requirements:**
+- `Route` may only be a child of `Router`
 
 **Why not just use `Page`?**
 The `Chapter` and `Page` components are meant to be used to define pages where
