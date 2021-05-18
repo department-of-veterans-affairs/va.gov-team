@@ -7,6 +7,7 @@ Below is a list of final and in-progress VSP content work. If your team/work is 
 
 Team | Project | Content review stage | Notes 
 --- | --- | --- | --- 
+Authenticated Experience | My VA | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24858<br>
 BAH | GI Bill comparison tool redesign | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/18949
 BAH | STEM automated denial | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/22441 
 BAH | STEM Scholarship expanded eligibility | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24283 
@@ -27,8 +28,9 @@ eBenefits | Chapt 36 Career Guidance | Staging review  | https://app.zenhub.com/
 eBenefits | Payment History | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/17434 <br> 
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> 
 eBenefits | Education direct deposit | Staging review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/19963
+Facilities | Vet Centers | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24857
 Thoughtworks (Team orchid) | IRIS/Contact Us form | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/16657 <br>
-Thoughtworks  | Virtual chatbot | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/23611<br>
+Thoughtworks  | Virtual chatbot | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/23611 **and** https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24698<br>
 VAOS | Vaccine distribution | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24101   
 Wizards | 526 Disability | Staging review | https://github.com/department-of-veterans-affairs/va.gov-team/issues/22474
 
