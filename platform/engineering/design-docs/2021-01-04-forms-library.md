@@ -11,8 +11,9 @@
 Create a simple, flexible forms library which can be used either in whole or in
 part by application teams building any kind of form on VA.gov.
 
-The intended audience of this document is VSP front end engineers and
-application teams building forms on VA.gov.
+The intended audience of this document is
+- Front end engineers building the library
+- Application teams who may use it to build forms on VA.gov
 
 ### Background
 We currently have a library which application teams use to build form
