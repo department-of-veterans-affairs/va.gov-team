@@ -3,6 +3,28 @@ This document provides guidance about how to respond to incidents such as outage
 
 The VA Mobile App has a unique frontend client, and some of its own API endpoints, but it shares most of its backend infrastructure and upstream dependencies with VA.gov. It also falls under the VA.gov Authority to Operate. Therefore our team is accountable to align with the VA.gov incident response process. 
 
+## Incident Response Rubric
+This rubric acts as a high-level decision tree for how urgently to respond to an incident, whether to escalate, and if so, to whom. 
+
+0. **Use your best judgement. Don't be afraid to reach out for help.**
+
+1. **Is the issue unique to the mobile app, or is it affecting VA.gov as well?**<br/>
+  Check the #oncall and #vfs-platform-support channels. If VSP staff are aware of and addressing the incident you can stand by and make yourself available for escalation of any mobile-specific questions. You should keep tabs on the overall response and make sure it is addressed in a reasonable time frame.
+
+2. **Is this a critical security incident?**<br/>
+  Per the VA.gov incident response playbook "if at any point during your evaluation you determine that the system has been compromised by a third party, that there is a leak of personally identifiable information, or that the system is under attack". Such an incident warrants an immediate response, including informing our product owner (first) and information system owner. You should also escalate the issue to one or more of the mobile app team engineering leads. 
+  
+3. **Is the incident due to an outage or issue with an upstream dependency?**<br/>
+  Outages caused by one of our dependencies are still significant, and you should still assess the impact. But isolating the cause as being because a dependency adjusts your response. You may want to follow the procedure to set a maintenance window on the upstream service, which will create user-visible warnings in the app about temporary loss of functionality. And you may need to escalate the issue to the team responsible for the upstream service. If you need to escalate to another VA team, inform the mobile app product owner and CC them on all communications with other teams.
+  
+4. **What is the impact? Widespead, or only a few users? Impacting the entire app, or only one feature or subset of a feature?**<br/>
+  An issue affecting all users or a significant percentage of users, or affecting all parts of the app, warrants a more immediate response, and you should notify our product owner. A more isolated issue can be triaged and prioritized appropriately -- somewhere between "fix it tomorrow" and "incorporate into our normal development cycle."
+  
+### Summary - When To Notify Product Owner
+1. Security/information breach
+2. Affecting a significant number of users
+3. When we need to engage with another team to resolve
+
 ## Detecting Issues
 Issues will come to our attention through a variety of channels:
 - Automated alerts communicated via PagerDuty or Slack
