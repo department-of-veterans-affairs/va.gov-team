@@ -200,7 +200,7 @@ Below are some *initial* recommendations based on research findings to be discus
 
 ## Next Steps
 - Discuss findings and recommendations with the team
-- Prioritize recommendations and create tickets 
+- Prioritize recommendations, conduct an ideation session, and create tickets 
 
 ## Appendix
 ### Conversation guide
