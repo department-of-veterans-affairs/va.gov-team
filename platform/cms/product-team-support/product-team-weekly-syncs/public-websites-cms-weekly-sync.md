@@ -35,6 +35,22 @@
 
 </details>
 
+## May 19
+
+CLP 
+* New URL pattern is implemented via [#2383](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2383)
+
+React Widgets 
+* [#2919 CMS epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919) and [#2920 Audit](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2920)
+* [#24849 Refactor CTA helpers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24849)
+
+Alerts on homepage and beyond
+
+
+Resources & support
+
+
+
 
 ## May 12
 
