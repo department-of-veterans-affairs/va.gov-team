@@ -15,7 +15,7 @@
 | Vaccine updates for Janssen pause | 4/13 | 4/13 (sent to both translation teams |
 | Debt question for Tagalog FAQs page | | 4/14 |
 | Janssen update in blue box | 4/26 | 4/26 | 4/30 | 4/30 .5 hr | 4/30 .5 hr | | 4/30 | 5/3-no changes |
-| Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 |
+| Reworked FAQs page for accesibility and all in accordions | 4/26 | 4/26 | 5/18 |
 | Added sentence to Janssen alert | 5/3 | 5/3 | 5/5 | 5/5 .5 hr | 5/5 .5 hr | | 5/5 |
 | VRRAP question on FAQs | 5/5 | 5/6 |
 | New vaccine updates for eligibility and safety | 5/10 | 5/10 |
