@@ -265,17 +265,17 @@ the `marriages` array.
 
 ##### Review page
 To keep Formulate simple, it will not build the review page automatically. It
-will be the responsibility of each form to create its own review page. This
+will be the responsibility of the engineers to build the review page. This
 decision is subject to change, but as of the time of this writing, I can't think
-of a way to automatically build the review page and accomplish all of the
-following:
+of a way to automatically build the review page and meet all of the following
+requirements:
 - The chapters are divided correctly
 - The pages are divided correctly
-- Each page uses the same edit mode as it was found in the form flow
-- Each page uses a review mode that displays each field on the page in a data
-  table with the appropriate label and value
+- The edit mode for each page is identical to the page in the form flow
+- The review mode for each page displays each field on the page in a data table
+  with the appropriate label and value
 - Each field in the review mode may be overridden when the label or value need
-  to be changed for better UX
+  to be changed for a better user experience
 - Each page may or may not have a review mode
 
 Instead, Formulate will supply components to aid engineers in rapidly building
