@@ -195,6 +195,8 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 - If no `overrideFormik` prop is passed
   - Render a [`<Formik>`](https://formik.org/docs/api/formik) component and pass
     it some default props for `initialValues`, `validate`, and `onSubmit`
+  - If the save-in-progress React context is available, `Page` will use it to
+    auto-save the form
 - Render the children, passing them the extra props for form state
   - For an example usage, see [below](#functionality-array-pages)
   - **Caveat:** This means when the children of `Page` are a collection of
