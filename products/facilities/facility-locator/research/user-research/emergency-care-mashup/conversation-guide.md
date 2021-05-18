@@ -60,6 +60,7 @@ Please make sure to close any email, or other personal information you may have 
 
 ### MODERATOR SHARES LINK TO PROTOTYPE
 [Desktop Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
+
 [Mobile Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138234260/simulate/no-panels?mode=i)
 
 Since this is only a prototype some links and features will work but most won't.
