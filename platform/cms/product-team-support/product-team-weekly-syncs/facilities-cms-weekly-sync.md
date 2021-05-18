@@ -21,7 +21,10 @@
 
 </details>
 
-## Wednesday May 12
+
+
+
+## Wednesday May 19
 * Vet Center training and adding users
 * React widget audit
 * Menu governance
@@ -31,6 +34,7 @@
 * Orphan staff profiles 
   - profiles appear on the sitemap and in Google alerts even if not linked 
   - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
+* 10 facility limit?
 
 ## Wednesday May 12
 
