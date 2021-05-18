@@ -1,22 +1,15 @@
 # Initiative Brief Template
 #### Overview
-*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. Can be used as product documentation for the Collaboration Cycle. * 
-
 
 <details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search | Initiative: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md)*
- - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims | Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
+ <Summary>Product: Disability Claims | Initiative: Original Claims, PTSD)</Summary> 
  </details>
  
 ---
 
 ## Outcome Summary
-*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
-Include the measurable outcome (i.e. metric) you're trying to improve.*
+Eliminate redundant and triggering language in Original Claims Form 526, thereby increasing submissions reducing claims adjudication time.  
+
 
 **Related product(s)**\
 *Identify VA.gov product(s) this initiative affects.*
@@ -24,16 +17,12 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 - Product | [Link to product outline](#)
 
 ## Problem Statement
-*Describe the challenge / pain point you seek to address.:* 
-* What is the problem?
-* Which Veteran/organizational segments are most affected by the problem?
-* Where does this problem affect the Veteran journey?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
+
+Although the questions presented through the user interview process are the same questions that are found on VA Form 21-0781 and 0781a, asking the Veteran to relive some of the most traumatic events of their life can be problematic when they aren’t also supported by clinical staff or personnel that can address issues that arise while recounting these events. 
 
 
 ### Evidence of the problem
-*Describe the qualitative and quantitative data to support this problem.* 
+One of the challenges that we’ve encountered/witnessed through usability testing with Veterans and Service members is that the type of questions we’re currently asking in the user interview process can be triggering for Veterans. 
 
 <!--
 ## Desired User Outcomes
@@ -43,8 +32,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Undesired User Outcomes
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+ Improve Veterans’ experience filing PTSD claims through our VA.gov claim submission product.
 
 ## Undesired Business Outcomes
 -->
@@ -55,18 +43,12 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ### Key Performance Indicators (KPIs)
 *Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
 
-- KPI | Target | Link to data source
+- Number of submissions | 10% increase | *[Link to data source] (https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210222&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.filter=disability-526EZ--submission-successful&explorer-graphOptions.selected=analytics.nthWeek/)*
 
 
-<!--
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
--->
 
 #### Baseline KPI Values
-*Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits.*
+Average of 38k / month
 
 <!--
 ### Objectives and Key results (OKRs)
@@ -142,10 +124,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Claims & Appeals
+- GitHub Label(s): vsa-claims-appeals
+- Slack channel: vsa-claims-appeals
+- Product POCs: Ronnie Henry, Kevin Stachura, Robin Garrison, Anna Carey, Christian Valla, Asha Gross
 
 </details>
 
@@ -155,7 +137,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO
+- Contact(s): Matt Self, Paul Shute
  
 </details>
