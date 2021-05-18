@@ -88,10 +88,11 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 ### Wayfinding Issues
 1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).  **Navigation paths to complete some of these tasks were not straightforward**. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
+    1. When asked at the end of the session what they didn't like about VA.gov, almost half of the participants said that it was **difficult to find what they needed**, especially when what you want to do isn't in the "top 4" boxes. *"A lot of things I can't find" (p1)*.    
     1. For form to appoint representative: Two participants looked for forms in the "top 4" disability or records boxes. 
-    1. For travel reimbursement direct deposit: Two people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. Four people were looking for a link about travel in the "top 4" health care box or under *VA Benefits and Health Care* megamenu > Health care. 
+    3. For travel reimbursement direct deposit: Two people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. Four people were looking for a link about travel in the "top 4" health care box or under *VA Benefits and Health Care* megamenu > Health care. 
         1. *Consider adding "Travel pay reimbursement" to "top 4" boxes and VA Benefits and Health Care megamenu under health care and/or disability.*
-    3. For medical records: 3 people missed the CTA at the top of the page and got confused by Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. Two people thought that medical records would be under health care (not records). 
+    4. For medical records: 3 people missed the call to action button under "Please sign in to view your VA medical records" and got confused by the content about the Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. Two people thought that medical records would be under health care (not records). 
         1. *Consider adding medical records to the health care "top 4" box.*
     5. To change direct deposit: "Top 4" box disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online. "Top 4" box records > Change your address > Change your VA direct deposit and contact information. 
         1. *Consider adding "Update direct deposit" link to the "top 4" boxes.*
@@ -168,9 +169,8 @@ Below are visualizations showing where research **participants using mobile devi
 3. One participant who lives in a rural/remote area and doesn't have cell coverage in his house said that every time he wants to log in, he has to stand outside for 5-12 minutes waiting to receive an authentication text message on his phone. He said that his banks and credit card companies all allow authentication via email and asked why the VA isn't doing that. We advised him to download the ID.me authenticator app for **two-factor authentication**. 
     1. *Consider adding an article to Resources and Support about two-factor authentication. Is it possible to use to select a photo to authenticate like eBenefits does?*
 5. In addition to the specific issues described above, there were a few **additional pain points** mentioned by some of the participants:
-    1. ***"A lot of things I can't find" (p1)*, especially when what you want to do isn't in the "top 4" boxes**. Almost half of the participants mentioned this at the end of the session when asked what they didn't like about VA.gov.
     1. Signing in
-    1. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, and so you're unable to accomplish your task on just one website. (Wasn't this a stated goal of VA.gov?)
+    1. Needing to go back and forth between VA.gov and eBenefits because one links to the other and back, and so you're unable to accomplish your task on just one website. 
 
 
 ## Recommendations
