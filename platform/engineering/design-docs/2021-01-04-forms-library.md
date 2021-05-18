@@ -397,14 +397,100 @@ version in the metadata against the length of the `dataMigrations` array. If the
 latter is greater, all migrations after the saved form version will be called in
 order.
     
-#### Helper: Submission validation
-Compare the form data against a JSON schema.
+#### Helper: JSON schema validation
+To ensure the data sent from the front end matches data expected on the back
+end, the client and API must share a common schema. Forms on VA.gov have used
+the [JSON schema](https://json-schema.org) specification for this.
 
-**TODO:** Figure out how to display the results of this. It's not exactly useful
-if we can't display the results. Then there's the question of getting the JSON
-schema to match the validation in the form flow.
+While Formik has [built-in support for
+`Yup`](https://formik.org/docs/guides/validation#validationschema) schemas,
+these are JavaScript-only and not easily shareable with the API. As such, we
+will continue to support JSON schema by writing a function which can be used
+while creating the [validate
+function](https://formik.org/docs/guides/validation#validate) for each page or
+field.
 
-Maybe this isn't a production thing. Maybe this is just a developer aid. But how?
+The JSON schema validation function will accept a JSON schema and return a
+closure which can be used to validate individual fields against the schema. This
+closure will also have chainable functions which may be used to override the default
+error messages.
+
+Formulate will use the [`jsonschema`](https://github.com/tdegrunt/jsonschema)
+package to perform the JSON schema validation due to its
+[popularity](https://www.npmjs.com/package/jsonschema), [small
+size](https://bundlephobia.com/result?p=jsonschema@1.4.0), and [parseable
+result](https://github.com/tdegrunt/jsonschema#results).
+
+Each [JSON schema validation
+keyword](https://json-schema.org/draft/2020-12/json-schema-validation.html#rfc.section.6)
+will have a default error message and a corresponding function to override that
+default. This function will accept either a string or a function that's passed
+the value of the field as a parameter. (See below for an example.)
+
+##### Usage
+**Setup:**
+```js
+// schema-validation.js
+import loadSchema from 'formulate/schema-validation';
+import jsonSchema from '@department-of-veterans-affairs/vets-json-schema/my-form-schema.json';
+
+const fromSchema = loadSchema(jsonSchema);
+
+export fromSchema;
+```
+
+**Single validate function for the page:**
+```js
+import fromSchema from '../schema-validation';
+
+const validate = values => {
+  const errors = {};
+  
+  const passwordErrorMessage = fromSchema('password'), // Path to schema
+    .minLength("This, uh, isn't very safe...") // Optional error message overrides
+    .pattern('Please follow the pattern, will you?') // Chaned message override functions
+    (values.password); // Data entered in the form
+  if (passwordErrorMessage) errors.password = passwordErrorMessage;
+}
+```
+
+**[Validate a single field:](https://formik.org/docs/guides/validation#field-level-validation)**
+```jsx
+import fromSchema from '../schema-validation';
+import { StringField } from 'formulate';
+
+const ThisPage = () => (
+  <>
+    <StringField
+      name="name.first"
+      validate={fromSchema('name.first').pattern("Please enter your _real_ name.")} />
+    <StringField
+      name="name.last"
+      validate={fromSchema('name.last')} />
+  </>
+)
+```
+
+Notice how in the first example, the function must be called with the value
+after all optional error message override functions, but in the second example,
+Formik calls the function with the value for the field itself.
+
+
+**Use the field value in the message:**
+```js
+const validateField = fromSchema('path')
+  .maxLength(value => `You entered ${value.length} characters, which is too many.`);
+```
+
+##### Caveat
+This field-level validation doesn't ensure that the form data submitted to the
+API matches the same shape as the JSON schema defines.
+
+**TODO:** Figure out how to use the page-level validation function to easily
+ensure the object shapes are correct. I think we can pass it all the data for
+the form and a configuraiton object for overwriting the default error messages
+per field. I think it'll have something to do with parsing the `jsonschema`
+`ValidationError` `path`...and potentially other properties.
 
 ### Code Location
 Formulate will live in its own repository.
