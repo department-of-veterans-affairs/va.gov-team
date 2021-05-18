@@ -290,7 +290,7 @@ review pages. These components will include:
 validation on all pages?
 
 #### Save-in-progress
-Pieces of the save-in-progress are:
+Pieces of the save-in-progress sub-module are:
 - `SaveInProgress` component
   - Adds `SiPIndicator` to each page
   - Provides functions to save and load the form
