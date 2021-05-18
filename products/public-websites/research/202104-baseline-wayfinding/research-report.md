@@ -88,11 +88,11 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 ### Wayfinding Issues
 1. **Many participants were unable to successfully complete 3 of the tasks** (#3, 5, 8), the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA).  **Navigation paths to complete some of these tasks were not straightforward**. Here are some of the navigation paths and places where people got stuck, along with some suggestions for improving them:
-    1. When asked at the end of the session what they didn't like about VA.gov, almost half of the participants said that it was **difficult to find what they needed**, especially when what you want to do isn't in the "top 4" boxes. *"A lot of things I can't find" (p1)*.    
+    1. When asked at the end of the session what they didn't like about VA.gov, almost half of the participants said that it was **difficult to find what you need, especially when it isn't in the "top 4" boxes**. *"A lot of things I can't find" (p1)*.    
     1. For form to appoint representative: Two participants looked for forms in the "top 4" disability or records boxes. 
     3. For travel reimbursement direct deposit: Two people who found the [VA travel pay reimbursement page](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) didn't notice the "Learn how to set up direct deposit for VA travel pay reimbursement" link. Four people were looking for a link about travel in the "top 4" health care box or under *VA Benefits and Health Care* megamenu > Health care. 
         1. *Consider adding "Travel pay reimbursement" to "top 4" boxes and VA Benefits and Health Care megamenu under health care and/or disability.*
-    4. For medical records: 3 people missed the call to action button under "Please sign in to view your VA medical records" and got confused by the content about the Veterans Health Information Exchange and opting out. 2 people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. Two people thought that medical records would be under health care (not records). 
+    4. For medical records: 3 people missed the call to action button under "Please sign in to view your VA medical records" and got confused by the content about the Veterans Health Information Exchange and opting out. Two people thought you couldn't get your VA medical records to an outside doctor or didn't know how to do that. Two people thought that medical records would be under health care (not records). 
         1. *Consider adding medical records to the health care "top 4" box.*
     5. To change direct deposit: "Top 4" box disability > View your payment history > What should I do if I need to change my direct deposit or contact information? Change your information online. "Top 4" box records > Change your address > Change your VA direct deposit and contact information. 
         1. *Consider adding "Update direct deposit" link to the "top 4" boxes.*
@@ -183,7 +183,7 @@ Below are some *initial* recommendations based on research findings to be discus
     4. Update dependents (add to Records box and also on the Family Member Benefits page)
     5. Appoint representative (add to Disability box)
     6. VA forms (add to Disability box)
-3. Consider adding a search box next to the word *Search* in the header to make it more visible. Also, the search box that opens when you click should be wider so that long search strings don't scroll off the end.
+3. To make site search more visible, consider adding a search box next to the word *Search* in the header and/or just above or below the "top 4" boxes. Also, the search box should be wider so that long search strings don't scroll off the end (which was observed during research sessions).
 4. Consider moving the row of images down to the actual bottom of the page so it doesn't give a false "bottom of the page" signal in the middle of the page.
 5. Consider making it possible to get proof of income in the form of benefit letters from the View payment history page, as well as from site searches for "income" or "proof of income". 
 6. Work on improving the *Find a Form* search. Marci is working with Lighthouse to improve the search logic. Kelson has had success improving the search logic of *Resources and support*. Consider some of the following:
