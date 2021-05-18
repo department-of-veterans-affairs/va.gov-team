@@ -292,15 +292,15 @@ validation on all pages?
 
 #### Save-in-progress
 Pieces of the save-in-progress sub-module are:
-- `SaveInProgress` component
+- [`SaveInProgress` component](#component-saveinprogress)
   - Adds `SiPIndicator` to each page
   - Provides functions to save and load the form
-- `SiPIndicator` component
+- [`SiPIndicator` component](#component-sipindicator)
   - Allows users to manually save the form
   - Shows the form save state (saved, saving, error, etc.)
-- Re-usable `FormSaved` component
+- [Re-usable `FormSaved` component](#component-formsaved)
   - To be used in a `<Route path="/form-saved">`
-- Data migration functionality
+- [Data migration functionality](#data-migrations)
 
 ##### Component: `SaveInProgress`
 **Purpose:** This is the primary component for enabling the save in progress
@@ -321,7 +321,7 @@ This component must be wrap the `Router` or `Formik` components so we can pass a
     - Set the form data to the form data in the result
     - Perform any data migrations applicable
     - Navigate to the page supplied by the result
-- Accept a `dataMigrations` prop to be used with `loadForm`
+- Accept a [`dataMigrations`](#data-migrations) prop to be used with `loadForm`
 
 ##### Component: `SiPIndicator`
 **TODO:** Rename this thing. Ideas?
