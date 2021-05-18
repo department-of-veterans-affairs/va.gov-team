@@ -111,7 +111,7 @@ Veterans, caretakers and family members prefer service-driven conversational ton
 [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/moderated-interviews/conversation-guide-tone-and-name-survey.md)
 
 ### Interview transcripts
-Folder 
+[Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/moderated-interviews/transcripts) 
 
 ### Pages and applications used
 Pages tested: https://staging.va.gov/virtual-agent/ 
