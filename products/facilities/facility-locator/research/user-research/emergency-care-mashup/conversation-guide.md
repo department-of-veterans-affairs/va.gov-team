@@ -54,7 +54,7 @@ I'm going to share a link to a prototype here in the zoom chat window for you to
 Then I'll want you to share your screen so that I can follow along and see what you see.
 Are you already familiar with the process of sharing your screen?
 
- * [If no: ask if they're on a laptop/desktop - then share Kristen's slides]
+ * [If no: ask if they're on a laptop/desktop/mobile - then share Kristen's slides]
 
 Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
 
