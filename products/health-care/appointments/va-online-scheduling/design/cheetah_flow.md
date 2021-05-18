@@ -15,6 +15,7 @@
 3. Received dose page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/received-dose`
 
 ![received-dose](cheetah-flow/received_dose_page.png)
+![received-dose-validation](cheetah-flow/received_dose_page_validation.png)
 
 4. Contact facilities (if already had a dose) `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-facilities`
 
@@ -23,6 +24,7 @@
 5. Facilities `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/facility`
 
 ![facilities](cheetah-flow/facilities_page.png)
+![facilities-validation](cheetah-flow/facilities_page_validation.png)
 
 Facilities sorted by current location
 
@@ -59,6 +61,8 @@ No clinics message (heading is an h3):
 9. Contact page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-info`
 
 ![contact-info](cheetah-flow/contact_info_page.png)
+![contact-info-validation-null](cheetah-flow/contact_info_page_validation_null.png)
+![contact-info-validation](cheetah-flow/contact_info_page_validation.png)
 
 10. Review page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/review`
 
