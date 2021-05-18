@@ -68,6 +68,10 @@ N/A - he easily understood everything on the page (that doesn't mean he liked it
 
 ## (P3) - 5.17.2021, 12 ET
 
+**IS NOT enrolled in health care, but IS registered at VA facilities (health care does show up for him) - but hardly ever uses it, no claims**
+
+
+
 
 ## (P4) - 5.17.2021, 12:30 ET
 
@@ -83,6 +87,11 @@ N/A - he easily understood everything on the page (that doesn't mean he liked it
 
 
 ## (P6) - 5.17.2021, 3:30 ET
+
+**IS enrolled in health care, uses it often, has disability rating, no current claims**
+
+He really like the header with his name and branch of service.
+
 
 **From Liz**
 - Currently has benefits with the VA
