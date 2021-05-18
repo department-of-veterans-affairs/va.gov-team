@@ -28,29 +28,18 @@
   - **KPI** - Foresee app rating data
   - **KPI** -[VA Mobile rating and feedback](https://veteran.apps.va.gov/feedback-web/v1/?appId=85870ADC-CC55-405E-9AC3-976A92BBBBEE)
   - **KPI** - Qualitative feedback collection from VA Mobile feedback source
+
+[Foresee score in Domo](https://va-gov.domo.com/page/1769944412/kpis/details/1790805848)
   
-### OBJECTIVE 3:  Improve impact of site configuration/conditional checks on scheduling completion and appointment cancellation rates. 
+### OBJECTIVE 3:  Decrease confusion in the online scheduling and appointment management process. 
 - **KR** -  Decrease user dropoff by 5%
   - **KPI** - Failed eligibility events and their impact on Veteran schedule completion rate
-  - **KPI** - Which failed eligibility events are impacts Veterans the most
-  - **KPI** - Total cancellations
-  - **KPI** - Successful cancellations
-  - **KPI** - Total cancellations failed
+  - **KPI** - Which failed eligibility events impact Veterans the most
+- **KR** -  Decrease number of vaos-eligibility-supported-facilities-failed events 
 
-### OBJECTIVE 4: Improve retention of Veterans using VAOS
-- **KR** - Increase VAOS user retention by 10% based on a 8 week retention rate
-  - **KPI** - # and frequency of Veterans returning to VAOS
-  - **KPI** - # of Veterans who schedule an appointment ongoing
+[Failed eligibility events in Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22BW%22,%22vaos-eligibility%22,0%5D%5D/)
 
-### OBJECTIVE 5 [still WIP] : Improve visibility into application and BE services/resources performance
-- **KR** - 
-  - **KPI** - Error events in GA
-  - **KPI** - Latency
-  - **KPI** - Prod errors/bug volume
-  - **KPI** - Success/failure rate per scheduling type (VA Request, CC Request, Self Schedule)
-  - **KPI** - Success/failure rate of cancellations
-
-### [Stretch Goal/still WIP] OBJECTIVE 6: Decrease # of call center support tickets created about VAOS
+### [Stretch Goal/still WIP] OBJECTIVE: Decrease # of call center support tickets created about VAOS
 - **KR** - N/A
   - **KPI** # of call center requests for VAOS
   - **KPI** # of support tickets created / resolved for VAOS
