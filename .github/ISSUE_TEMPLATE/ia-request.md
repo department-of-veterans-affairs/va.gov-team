@@ -7,10 +7,10 @@ assignees: mnorthuis, shiragoodman
 
 ---
 ## What this is:
-Work with VSP Information Architecture experts to finalize the IA of your product for VA.gov
+Work with Platform Information Architecture experts to finalize the IA of your product for VA.gov
 
 ## When to use this: 
-After you have received a response to your Collaboration Cycle kick-off ticket that indicates Information Architect Request is needed. 
+After you have received a response to your Collaboration Cycle kickoff ticket that indicates Information Architect Request is needed. 
 
 ## Requested artifacts:
 *Provide artifacts as available. If not available at the time this issue is created, please add information as it becomes available.*
@@ -37,7 +37,7 @@ After you have received a response to your Collaboration Cycle kick-off ticket t
 
 ## Definition of Done
 - [ ] VFS: Creates issue and provides all required information above
-- [ ] VSP: Completes final IA feedback/recommendation
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+- [ ] Platform: Completes final IA feedback/recommendation
+- [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
 - [ ] VFS: Closes issue once all IA feedback/recommendations are implemented
 
