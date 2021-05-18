@@ -196,7 +196,7 @@ Below are some *preliminary* recommendations based on research findings to be di
 7. Consider revising the site search box to make it easier to find quickly while using a screen reader by coding search as a [landmark role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Search_role) (per Josh Kim and Angela Fowler).
 8. Investigate the JS https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA that didn't load, causing a "your browser is out of date" error message instead of search results. 
 9. Consider adding an article to *Resources and support* about two-factor authentication. See if it's possible to use to select a photo to authenticate like eBenefits does.
-10. Consider additional user research on the home page header if add new links to Forms, Resources or Help. (Shawna also has additional ideas; if any are relevant, ADD THEM HERE)
+10. Consider conducting further user research on the VA.gov header and potential redesigns on mobile and desktop (especially if add new links to Forms, Resources or Help) to make sure that the most useful links are visible and others are not. 
 
 ## Next Steps
 - Discuss findings and recommendations with the team
