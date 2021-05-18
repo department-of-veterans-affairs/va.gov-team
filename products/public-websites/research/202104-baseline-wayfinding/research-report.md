@@ -25,7 +25,7 @@ We also explored analytics data to see where people click on the VA.gov home pag
 
 ### Who we talked to
 
-We talked to **13** participants:
+We talked to **13 participants**:
 - 12 Veterans, including one who was also a caregiver for another Veteran
 - 1 family member of a Veteran
 
@@ -108,10 +108,10 @@ One of the sessions was cut short due to technology issues, so most of the findi
     1. *"It is an option of last resort. When all else fails, use the search function." (p16)*
     1. One participant never used site search because they didn't notice it in the header. They readily used the search box, which is visible without clicking, in *Find a Form* and *Resources and Support*. --> *Consider adding a search box next to the word* Search *in the header to make it more visible.*
 
-1. **Two accessibility issues were encountered.**
+1. **Two accessibility issues were encountered:**
     1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they were able to read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (1 age 75 or older, 1 65-74, and 3 55-64). 
     2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form instead of seeing it in the landmarks list (as on google.com). 
-3. One participant (and also a pilot participant who was a Veteran) wanted to sign in first when they opened VA.gov *("easier to sign in [first] because it will ask me to later", p11)*. This participant was asked to proceed without signing in.  
+3. One participant (and also a pilot participant who was a Veteran) **wanted to sign in first** when they opened VA.gov *("easier to sign in [first] because it will ask me to later", p11)*. This participant was asked to proceed without signing in.  
 
 ### Where People Click 
 Below are visualizations showing the desktop and mobile versions of the VA.gov home page, along with the main areas labeled and important links highlighted.
@@ -205,10 +205,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding/notes
 
 ### Tools used for Synthesis
-LINK synthesis and analytics spreadsheets 
-[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Baseline%20Wayfinding%20notes%20%26%20data%20analysis%20(1).xlsx)
-[Home page click analytics spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/VA.gov%20home%20page%20link%20click%20events.xlsx)
-[Home page click visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(3).pptx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Baseline%20Wayfinding%20notes%20%26%20data%20analysis%20(1).xlsx)
+- [Home page click analytics spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/VA.gov%20home%20page%20link%20click%20events.xlsx)
+- [Home page click visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(3).pptx)
 
 ### Pages and applications used
 [VA.gov](http://va.gov/)
