@@ -70,16 +70,51 @@ N/A - he easily understood everything on the page (that doesn't mean he liked it
 
 **IS NOT enrolled in health care, but IS registered at VA facilities (health care does show up for him) - but hardly ever uses it, no claims**
 
+Overall, he understood the page and how to use it. He said he doesn't use va.gov very often and is fairly frustrated with how things are run. 
 
+**Easily understood:**
+
+- How to use the page
+- Navigate to other pages
+- How to get to appointments
+
+**Didn't understand:**
+
+N/A - he easily understood everything on the page (that doesn't mean he liked it)
+
+**Things of note:**
+
+- Participant mentioned wanting to see notifications somewhere on the page - he would like to see any action items that he had.
+- Wanted it to be more personalized to him - he felt like it wasn't really that useful and that it should show benefits that he is eligible for.
+- Talked about home loans, maybe seeing some financial information on the dashboard 
 
 
 ## (P4) - 5.17.2021, 12:30 ET
 
+**IS enrolled in health care, uses health care but not regularly, no claims**
+
+Overall, she liked the page and was excited to see health care links all in one place. She liked how clean and simple the design was. 
+
+**Easily understood:**
+
+- How to use the page
+- Navigate to other pages
+- How to get to appointments
+- Apply for benefits section
+
+**Didn't understand:**
+
+N/A - she easily understood everything on the page
+
+**Things of note:**
+
+- She mentioned wanting to see notifications on the page - specifically things related to health care. (Check-in, appointment reminders, action items related to benefits)
+- She also mentioned wanting to see her enrollment status in health care - so she could make sure she could still use it. She was unsure how that worked. 
 
 ## (P5) - 5.17.2021, 2 ET
 
 **From Liz**
-- Interested in knowing what benefits are available him - unfamiliar beyond education benefits
+- Interested in knowing what benefits are available to him - unfamiliar beyond education benefits
 - First clicked on the additional info component
 - "This is exactly what I wanted to see"
 - "This is useful, but if you already know who I am then you may already know if I pre-qualify for any of these. Otherwise this is exactly what I'd expect to see"
@@ -91,6 +126,22 @@ N/A - he easily understood everything on the page (that doesn't mean he liked it
 **IS enrolled in health care, uses it often, has disability rating, no current claims**
 
 He really like the header with his name and branch of service.
+
+**Easily understood:**
+
+- How to use the page
+- Navigate to other pages
+- How to get to appointments
+- Apply for benefits section
+
+**Things of note:**
+
+- He mentioned multiple times how much he liked having the disability rating on the page "That's a big win"
+- He wanted to be able to customize the page to exactly what he needed.
+- He wanted a place to see his payment history. 
+- He wanted a place to see dependent information.
+
+*Note - think about onboarding between ebenefits and MyVA vs a person who is completely new to My VA
 
 
 **From Liz**
