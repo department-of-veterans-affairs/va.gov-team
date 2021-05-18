@@ -1,9 +1,8 @@
-Please note this document is in draft form and has NOT been submitted to Perigean.
+# Research Plan for Virtual Agent Disability Interviews, 5/18/2021
 
-# Research Plan for Virtual Agent, 5/x/2021 - TO UPDATE
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.
 
-## Goals	TO UPDATE
+## Goals
 
 1. What product & team are you doing this research for?	
 
@@ -11,7 +10,7 @@ This research is for the VA-Virtual Agent team for the Virtual Agent product.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-This product will be hosted on VA.gov as a virtual agent, colloquially known as a chatbot, to assist and answer veteran questions on all topics currently located on VA.gov. It is part of the larger Omnni-Channel strategy to provide veterans easier and self-serving access to their care and benefits.	
+The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s) to be determined. Ultimately, the virtual agent’s goal is to provide responses based on existing Va.gov content. This project is part of the larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information. 
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
@@ -32,30 +31,50 @@ We want to conduct research to answer qualitative feedback about our product whi
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
-The purpose of our proof of value is to learn what people are asking information about or tasks they want to complete, what language they use, how they interact with the product and how to build the chatbot.  As such, the focus is on understanding general usage and mental models rather than specific hypotheses we are looking for data to validate or refute.  We do want to explore a number of hypotheses, including:
+The focus is on understanding general usage and mental models rather than validating a specific hypothesis. However, we are curious about the following assumptions: 
 
-## Method	TO UPDATE
+- Participants who require assistive technology such as screen readers or rate the experience negatively; we also want to understand what problems occur and how severe they are
+- Participants may search for resources related to disability
+- Participants may become frustrated or rate the experience negatively when they can’t identify language to make the chatbot ‘work’.
+
+Since we are also conducting a controlled study of the chatbot we will be looking at the hypotheses from that study, including:
+
+- More Veterans will attempt to find information that requires authentication (e.g., claims-status). 
+- We will see a high number of questions that the bot has not yet been trained to answer. 
+- There is a niche-market for this product. We wonder if:
+    - Caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
+    - Veterans who may be seeking anonymity (e.g., LGBTQ+, housing or food insecurity, mental-health crisis) may be more comfortable utilizing this tool over speaking with a human. 
+    - Veterans will attempt to sign in order to use the bot for their specific information.
+    - Veterans will want the chatbot to transfer their conversation directly to a human agent. 
+    - Veterans will expect that the chatbot cannot answer in depth questions. 
+
+
+## Method
 1.	What method of research are you planning? 	
 
-We would like to conduct directed interviews and observation with the product.  While we are aware of some accessibility challenges in the product we’re using to make the chatbot, we would like to observe users with the product directly to understand if we are capturing all the problems and how severe they are.
+We would like to conduct direct interviews with observation of the product.  While we are aware of some accessibility challenges in the product we’re using to make the chatbot, we would like to observe users with the product directly to understand if we are capturing all the problems and how severe they are.
 
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
-We want to interview and observe because we want to:
+We want to interview and observe so that we can:
 
-- Understand how participants are using the chatbot - what tasks they’re trying to complete,, how they interact with the chatbot and how they correct errors, if they sign into va.gov, etc. through observation
-- Observe what language they use when
-- Identify problems they experience and which we need to resolve especially with assistive technology
-
+- Identify problems they experience while utilizing assistive technology. 
+- Learn in what ways any disability can impact chatbot usage. 
+- Understand how participants are using the chatbot - what tasks they’re trying to complete, how they interact with the chatbot and how they correct errors.
+- If they try to sign into va.gov prior to engaging with the chatbot. 
+- Observe what language they use when engaging with the chatbot. 
 
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
 
+Online, Perigean's Zoom
 
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 
+We will be gathering feedback on the product at staging.va.gov/virtual-agent
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
+Perigean's Zoom
 
 ## Participants and Recruitment	TO UPDATE
 1.	Participant criteria: What are you looking for in a participant?	  
@@ -66,6 +85,12 @@ Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+
+
+
+
+
+
 
 *Pro tips for writing recruiting critera:* 
 - If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
