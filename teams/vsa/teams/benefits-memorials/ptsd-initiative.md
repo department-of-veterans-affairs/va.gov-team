@@ -114,11 +114,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+![Current PTSD questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/images/Ptsd1.png "PTSD 526")
+
+![Current PTSD questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/images/PTSD2.png "PTSD 526")
+
+![Current PTSD questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/images/PTSD3.png "PTSD 526")
+
+![Current PTSD questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/images/PTSD4.png "PTSD 526")
 
 ### After
 
 ---
-
 #### Communications
 *Where will you be primarily discuss this initiative?*
 
