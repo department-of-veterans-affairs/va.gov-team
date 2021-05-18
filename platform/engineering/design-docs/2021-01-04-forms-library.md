@@ -97,6 +97,19 @@ components for:
 
 The following sections outline the various parts of the system.
 
+#### Form page builder
+Formulate will leverage Formik for much of the form page building. It will
+**re-export Formik components** where it makes sense and **provide light
+wrappers for Formik input fields** using design system components.
+
+In addition to simple wrappers, Formulate will use Formik to provide more
+complex fields such as file upload which may be imported and used in
+applications.
+
+##### Why not just use Formik directly?
+It should be possible to use Formik directly without any issues. The form page
+builder sub-module intends to make using the design system with Formik simpler.
+
 #### Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
@@ -267,19 +280,6 @@ review pages. These components will include:
 
 **TODO:** Figure out how submission validation plays in here. How do we run all
 validation on all pages?
-
-#### Form page builder
-Formulate will leverage Formik for much of the form page building. It will
-**re-export Formik components** where it makes sense and **provide light
-wrappers for Formik input fields** using design system components.
-
-In addition to simple wrappers, Formulate will use Formik to provide more
-complex fields such as file upload which may be imported and used in
-applications.
-
-##### Why not just use Formik directly?
-It should be possible to use Formik directly without any issues. The form page
-builder sub-module intends to make using the design system with Formik simpler.
 
 #### Save-in-progress
 Pieces of the save-in-progress are:
