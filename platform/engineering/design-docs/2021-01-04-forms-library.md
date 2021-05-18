@@ -167,7 +167,6 @@ _None_
     - This ensures any data changes that might affect the routes are captured
 1. Provide callbacks in the React context to navigate forward and backward
    through the list of computed routes
-1. Accept the `saveForm` and `loadForm`props and pass them to the React context
 
 ##### `Chapter` Component
 **Purpose:**
@@ -311,25 +310,15 @@ This component must be wrap the `Router` or `Formik` components so we can pass a
 
 **Responsibilities:**
 - Add the `SiPIndicator` to the bottom of each form page
-- Auto-save the form when form data is updated
-- Pass a `saveForm` prop to its children
-  - Save the form when `saveForm` is called
-- Pass a `loadForm` prop to its children
-  - Call the supplied endpoint with the supplied arguments
-  - Set the form data to the form data in the result
-  - Perform any data migrations applicable
-  - Navigate to the page supplied by the result
-
-**Usage example: With Router**
-```jsx
-<SaveInProgress dataMigrations={arrayOfMigrations}>
-  {({ saveForm, loadForm }) => (
-    <Router saveForm={saveForm} loadForm={loadForm}>
-      ...
-    </Router>
-  )}
-</SaveInProgress>
-```
+- Provide a React context with the following
+  - `saveForm` function
+    - Save the form when `saveForm` is called
+  - `loadForm` function
+    - Call the supplied endpoint with the supplied arguments
+    - Set the form data to the form data in the result
+    - Perform any data migrations applicable
+    - Navigate to the page supplied by the result
+- Accept a `dataMigrations` prop to be used with `loadForm`
 
 ##### Component: `SiPIndicator`
 **TODO:** Rename this thing. Ideas?
