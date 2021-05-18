@@ -167,9 +167,6 @@ _None_
     - This ensures any data changes that might affect the routes are captured
 1. Provide callbacks in the React context to navigate forward and backward
    through the list of computed routes
-    - The function to navigate to the next page will also be responsible for
-      running validation, preventing progress if there are validation errors,
-      and updating the form data upon success
 1. Accept the `saveForm` and `loadForm`props and pass them to the React context
 
 ##### `Chapter` Component
