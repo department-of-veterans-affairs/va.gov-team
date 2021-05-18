@@ -20,7 +20,7 @@ To fill out this application, the Veteran and each family caregiver applicant wi
 
 Download VA form 10-10CG(PDF) (934KB) _(link)_
 
-What if I have questions or need help filling out the form?
+**What if I have questions or need help filling out the form?**
 
 If you have a question or need help, you can contact us in any of these ways:
 - Call us at855-488-8440and ask for help filling out the form
@@ -28,6 +28,7 @@ If you have a question or need help, you can contact us in any of these ways:
 - Contact the VA National Caregiver Support Line by calling855-260-3274
 
 What's a Caregiver Support Coordinator? _(more info)_
+
 A Caregiver Support Coordinator is a clinical professional who connects Veteran caregivers with VA and community resources that offer supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and specialize in caregiving issues.
 
 **2. Apply**
@@ -36,7 +37,7 @@ Please remember, whether you’re the Veteran or a family caregiver, you’ll ne
 
 Each time the Veteran wants to add a new family caregiver, the Veteran and the new caregiver will need to submit a new application. There can only be 1 Primary and up to 2 Secondary Family Caregivers at any one time.
 
-Note: If the Veteran isn’t enrolled in VA health care or is currently on active duty with a medical discharge, they’ll need to fill out an Application for Health _(link)_ Benefits (VA Form 10-10EZ).
+**Note:** If the Veteran isn’t enrolled in VA health care or is currently on active duty with a medical discharge, they’ll need to fill out an Application for Health _(link)_ Benefits (VA Form 10-10EZ).
 
 **3. Next steps**
 
@@ -49,18 +50,23 @@ You may also be eligible for the Program of General Caregiver Support Services (
 [Start your application]
 
 Respondent burden: 15 minutes
+
 OMB Control #: 2900-0768
+
 Expiration date: 04/30/2024
+
 Privacy Act Statement _link_
 
 **Need help?**
 
-You can call the VA Caregiver Support Line at855-260-3274. We’re here Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET.
+You can call the VA Caregiver Support Line at 855-260-3274. We’re here Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET.
 
-You can also call our main VA information line at855-488-8440if you have questions about completing your application, or you can contact your local Caregiver Support Coordinator.
+You can also call our main VA information line at 855-488-8440 if you have questions about completing your application, or you can contact your local Caregiver Support Coordinator.
 
-Use our online Caregiver Support Coordinator search tool
-If this form isn't working right for you, please call us at800-698-2411.
+Use our online Caregiver Support Coordinator search tool _(link)_
+
+If this form isn't working right for you, please call us at 800-698-2411.
+
 If you have hearing loss, call TTY:711.
 
 
@@ -79,11 +85,12 @@ Veteran’s last name (*Required)
 Veteran’s Social Security number or tax identification number (*Required)
 
 Why is this required? _(more info)_
+
 We need the Veteran’s Social Security number or tax identification number to process the application when it’s submitted online, but it’s not a requirement to apply for the program.
 
 Veteran’s date of birth (*Required)
 
-Month   Day   Year
+Month   Day   Year _(dropdown)_
 
 Veteran’s sex
 - Female
@@ -107,7 +114,7 @@ City (*Required)
 
 State (*Required) _dropdown_
 
-Postal code(*Required)
+Postal code (*Required)
 
 Veteran’s primary telephone number (including area code)(*Required)
 
@@ -138,7 +145,7 @@ Please select the VA medical center or clinic where the **Veteran receives or pl
 
 A Caregiver Support Coordinator at this VA medical center will review your application.
 
-State(*Required) _(dropdown)_
+State (*Required) _(dropdown)_
 
 VA medical center(*Required) _(dropdown)_
 
@@ -163,6 +170,7 @@ They can be the Veteran's:
 - Other relative
 
 Yes
+
 No
 
 [<<Back]   [Continue>>]
@@ -177,13 +185,13 @@ Primary Family Caregiver’s first name(*Required)
 
 Primary Family Caregiver’s middle name
 
-Primary Family Caregiver’s last name(*Required)
+Primary Family Caregiver’s last name (*Required)
 
 Primary Family Caregiver’s Social Security number or tax identification number
 
-Primary Family Caregiver’s date of birth(*Required)
+Primary Family Caregiver’s date of birth (*Required)
 
-Month   Day   Year
+Month   Day   Year _(dropdown)_
 
 Primary Family Caregiver’s sex
 - Female
@@ -201,7 +209,7 @@ Primary Family Caregiver’s current street address(*Required)
 
 Street address line 2
 
-City(*Required)
+City (*Required)
 
 State(*Required) _(dropdown)_
 
@@ -258,8 +266,8 @@ They can be the Veteran's:
 - Friend or neighbor
 - Other relative
 
-- Yes
-- No
+Yes
+No
 
 [<<Back]   [Continue>>]
 
@@ -269,7 +277,7 @@ They can be the Veteran's:
 
 Please complete the following information about the Secondary Family Caregiver.
 
-Secondary  Family Caregiver’s first name(*Required)
+Secondary  Family Caregiver’s first name (*Required)
 
 Secondary  Family Caregiver’s middle name
 
@@ -279,7 +287,7 @@ Secondary Family Caregiver’s Social Security number or tax identification numb
 
 Secondary Family Caregiver’s date of birth(*Required)
 
-Month   Day   Year
+Month   Day   Year _(dropdown)_
 
 Secondary Family Caregiver’s sex
 - Female
@@ -297,11 +305,11 @@ Secondary Family Caregiver’s current street address(*Required)
 
 Street address line 2
 
-City(*Required)
+City (*Required)
 
-State(*Required) _(dropdown)_
+State (*Required) _(dropdown)_
 
-Postal code(*Required)
+Postal code (*Required)
 
 Secondary Family Caregiver’s primary telephone number (including area code)(*Required)
 
@@ -311,7 +319,7 @@ Secondary Family Caregiver’s email address
 
 Re-enter Secondary Family Caregiver’s email address
 
-What is the Secondary Family Caregiver’s relationship to the Veteran?(*Required) _dropdown)_
+What is the Secondary Family Caregiver’s relationship to the Veteran? (*Required) _dropdown)_
 - Spouse
 - Father
 - Mother
@@ -336,17 +344,17 @@ Would you like to apply for benefits for another Secondary Family Caregiver?
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666488/simulate/sitemap?mode=i)
 
-Secondary  Family Caregiver’s (2) first name(*Required)
+Secondary  Family Caregiver’s (2) first name (*Required)
 
 Secondary  Family Caregiver’s (2) middle name
 
-Secondary Family Caregiver’s (2) last name(*Required)
+Secondary Family Caregiver’s (2) last name (*Required)
 
 Secondary Family Caregiver’s (2) Social Security number or tax identification number
 
-Secondary Family Caregiver’s (2) date of birth(*Required)
+Secondary Family Caregiver’s (2) date of birth (*Required)
 
-Month   Day   Year
+Month   Day   Year _(dropdown)_
 
 Secondary Family Caregiver’s (2) sex
 - Female
@@ -358,15 +366,15 @@ Secondary Family Caregiver’s (2) sex
 **Contact information**
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666489/simulate/sitemap?mode=i)
 
-Secondary Family Caregiver’s (2) current street address(*Required)
+Secondary Family Caregiver’s (2) current street address (*Required)
 
 Street address line 2
 
-City(*Required)
+City (*Required)
 
-State(*Required) _(dropdown)_
+State (*Required) _(dropdown)_
 
-Postal code(*Required)
+Postal code (*Required)
 
 Secondary Family Caregiver’s (2) primary telephone number (including area code)(*Required)
 
@@ -376,7 +384,7 @@ Secondary Family Caregiver’s (2) email address
 
 Re-enter Secondary Family Caregiver’s (2) email address
 
-What is the Secondary Family Caregiver’s (2)relationship to the Veteran?(*Required) _dropdown)_
+What is the Secondary Family Caregiver’s (2)relationship to the Veteran? (*Required) _dropdown)_
 - Spouse
 - Father
 - Mother
@@ -408,6 +416,7 @@ Do you have a legal representative document you’d like to share with us?
 - No. I don't have this document.
 
 What type of document does a legal representative need? _(more info)_
+
 To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
 - Power of attorney,**or**
 - Legal guardianship order,**or**
@@ -421,7 +430,7 @@ Note: Being a Veteran’s closest family member or next of kin doesn’t mean yo
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666491/simulate/sitemap?mode=i)
 
-**Upload your legal representative document**(*Required)
+**Upload your legal representative document** (*Required)
 
 You’ll need to scan your document onto the device you’re using to submit this application, such as your computer, tablet, or mobile phone. You can upload your document from there.
 
@@ -464,7 +473,7 @@ Veteran's full name (*Required)
  
  _(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
  
- # If Veteran signing
+ # If Veteran's REpresentative is signing
 
 Please review information entered into this application. The Representative and each family caregiver applicant must sign the appropriate section.
 
