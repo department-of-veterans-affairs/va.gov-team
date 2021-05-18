@@ -263,7 +263,6 @@ values map to the path to the form data. In the above example, the `pathParams`
 will assign `:marriageIndex` in the URL a number based in the current item in
 the `marriages` array.
 
-
 ##### Review page
 To keep Formulate simple, it will not build the review page automatically. It
 will be the responsibility of each form to create its own review page. This
