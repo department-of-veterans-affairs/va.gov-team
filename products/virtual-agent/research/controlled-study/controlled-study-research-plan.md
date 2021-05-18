@@ -52,6 +52,8 @@ We would like to conduct an unmoderated controlled study where participants are 
 
 After using the application, participants click on the link to capture feedback (likely on Optimal Workshop) and then enter in a validation code (likely on Optimal Workshop) so we can track who has participated and so participants can be compensated.  
 
+We have some additional instructions to add to the screener you send out with participants.  We’re revising that text, which will essentially walk them through the process and talk about the importance of feedback, that they should spend at least 10 minutes using it etc.  While recruiting can start, we hope to have that email finished to send out to confirmed participants.
+
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
 An unmoderated study prevents bias. We need Veterans to engage with the virtual agent in as close to a realistic setting as possible, so that we can learn how they actually interact with a virtual agent when no one is providing support or guiding their thoughts. 
@@ -74,6 +76,8 @@ We plan to use Optimal Workshop to capture feedback.
 1.	Participant criteria: What are you looking for in a participant?	  
 
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+
+We require 100 participants, with 10 participants in each pods or segment:
 
 Veterans:
 
@@ -111,8 +115,8 @@ Marginalized populations:
 
 For technology requirements:
 
-- Login: no login requirements
-- Device: Has used computers and internet
+- Login: no login requirements.  
+- Device: Has used computers and Internet; we will be having users test on their desktop/laptop where possible
 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
@@ -133,15 +137,13 @@ We would like to start the research on June 1st and run it until 100 participant
 
 Yes, the product will be ready at staging.va.gov/virtual-agent. 
 
-We have some additional instructions to add to the screener you send out with participants.  We’re revising that text, which will essentially walk them through the process and talk about the importance of feedback etc.  While recruiting can start, we hope to have that email finished to send out to confirmed participants.
-
-**3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.**
+**3. Length of Sessions**
 
 There is no set length of session. However, we would prefer if participants spend at least 10 minutes trying the virtual agent.
 
 **4.	Availability: If applicable, when would you like sessions scheduled?**
 
-There is no set length of session. However, we would prefer if participants spend at least 10 minutes trying the virtual agent.
+To start on June 1st and to end when reliable data for 100 participants is met. 
 
 **5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
