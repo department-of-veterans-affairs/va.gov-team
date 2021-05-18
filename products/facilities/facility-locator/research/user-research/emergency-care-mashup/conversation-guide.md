@@ -59,7 +59,8 @@ Are you already familiar with the process of sharing your screen?
 Please make sure to close any email, or other personal information you may have open in any tabs, before sharing your screen.
 
 ### MODERATOR SHARES LINK TO PROTOTYPE
-[UXPin Link](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
+[Desktop Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i)
+[Mobile Prototype](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138234260/simulate/no-panels?mode=i)
 
 Since this is only a prototype some links and features will work but most won't.
 I ask that you think out loud as much as possible, as we go through the prototype.
