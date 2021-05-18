@@ -32,7 +32,9 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
 
 4. All users stated that they would expect to see notifications on this page.
   > "I want to see anything that I have upcoming."
+  
   > "I'd like to know if there's anything that I need to do, or if I'm missing anything."
+  
   > "I'd just want to know what my top 'action items' are."
 
   - **Recommendation**: We know from previous studies that this is something users want on their dashboard. We plan to start working on figuring out the notification functionality next. This study definitely validated the need for this work. 
