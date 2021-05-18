@@ -116,7 +116,6 @@ Approximately 45 minutes sessions, with a 30 minute buffer in between.
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 A few days before June 1st - Luciana Morais and Katie Ho  **TO UPDATE**
 
-
 ## Team Roles
 
 - Moderator: Shane Strassberg; shane.strassberg@omb.eop.gov
@@ -125,8 +124,16 @@ A few days before June 1st - Luciana Morais and Katie Ho  **TO UPDATE**
 - Project point of contact: Shane Strassberg
 - Participant(s) for pilot test: Veterans, caregivers, family members
 - Note-takers: Rachel Murray or Shane Strassberg, and other Thoughtworks team members
-- Observers: Luciana Morais (luciana.morais@va.gov), Katie Ho (kho@thoughtworks.com), Ian Santarinala (ian.santarinala@thoughtworks.com)
-Kevin Hoffman (kevin.hoffman1@va.gov), 
+- Observers: 
+    - Luciana Morais (luciana.morais@va.gov), 
+    - Ian Santarinala (ian.santarinala@thoughtworks.com)
+    - Katie Ho (kho@thoughtworks.com)
+    - Kevin Hoffman (kevin.hoffman1@va.gov), 
+    - Chris Beard (Christopher.Beard1@va.gov)
+    - Kateleigh Clark (Kateleigh.Clark@va.gov)
+    - Melody Laishram (Melody.Laishram@va.gov)
+    - Patrick Onesty (patrick.onesty@va.gov)
+
 
 
 ## Resources	
