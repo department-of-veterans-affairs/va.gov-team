@@ -483,8 +483,10 @@ const validateField = fromSchema('path')
 
 ##### Caveat
 This field-level validation doesn't ensure that the form data submitted to the
-API matches the same shape as the JSON schema defines. A mismatch in the shape
-of the form data and the schema is assumed to be a developer mistake.
+API matches the same shape as the JSON schema defines. Because a mismatch in the
+shape of the form data and corresponding schema has nothing to do with what the
+user entered, this is a developer mistake and should be caught by developers and
+not user-facing validation errors.
 
 To clarify, take the following example:
 **Schema**
