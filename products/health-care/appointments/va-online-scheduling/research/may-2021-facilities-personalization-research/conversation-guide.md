@@ -1,236 +1,453 @@
-# Conversation Guide - Facilities personalization [DRAFT]
+Conversation Guide - Facilities personalization [DRAFT]
+=======================================================
 
-## Moderator logistics
+Moderator logistics
+-------------------
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the prototype link available
-    - [ ] [Profile first flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
-    - [ ] [Scheduling first flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
-- [ ] Update the Zoom sharing section
+- [ ] Have the prototype link available:
+    - [ ] [Opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
+    - [ ] [Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
+- [ ] Update the Zoom participant sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-- [ ] Check your screensharing setup
+- [ ] Check your screen sharing setup
 - [ ] When the participant is ready, begin the session with the following intro:
 
-## Intro - 5 minutes   
+Intro - 5 minutes
+-----------------
 
 Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We're looking to understand Veteran's how Veterans choose VA health facilities. Today, I'd like to hear about your experience with getting health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [TBD].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+-   This entire session should take about [TBD]. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+-   In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
-- **You'll be interacting with a demo tool.** It may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+-   You'll be interacting with a demo tool. It may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+-   If for any reason and at any time you want to stop the session, please let me know.
 
-- We like to use recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-    
+-   We like to use recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
+
+-   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+-   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-- First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
+-   First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
 
-    - Great, that helps me troubleshoot with you if we run into any problems.
-    
-**If phone:**
-- OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
+-   Great, that helps me troubleshoot with you if we run into any problems.
 
-- First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
+If phone:
 
-- Ok, tap anywhere on the screen to go back to the Zoom application.
+-   OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
 
-- Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
+-   First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
 
-**If can't share**
-- Backup plan if they cannot figure out how to share screen:
+-   Ok, tap anywhere on the screen to go back to the Zoom application.
 
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
-[Share your screen]. Can you confirm if you can see my screen?
+-   Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
 
-## Warm-up Questions
+If can't share
+
+-   Backup plan if they cannot figure out how to share screen:
+
+-   Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
+
+Warm-up Questions (all participants)
+------------------------------------
 
 Today we're interested in learning about the places Veterans receive health care.
 
 So where do you currently receive health care, VA or otherwise?
-- Do you have other options for where to receive care? 
-   - YES why do you go to (facility you mentioned)?
-   - YES why do you go to other locations?
-   - NO would you like other options? If so, why?
 
-- Have you changed where you receive VA health care recently?
+-   Do you have other options for where to receive care?
 
-*Listen for: 
- What are the reasons they go to different locations?
- Any language around preferences - what do they like, and how do they describe it
- Any mention of "registered" facilities*
+    -   If YES: why do you go to (facility you mentioned)?
 
-## Concept test intro
+    -   If YES: why do you go to other locations?
+
+    -   If NO: would you like other options? If so, why?
+
+-   Have you ever changed where you receive VA health care? 
+
+    -   If yes, when?
+
+-   How many different VA locations have you gone to for care?
+
+*Listen for:*
+
+-   What are the reasons they go to different locations? 
+
+-   Any language around preferences - what do they like, and how do they describe it 
+
+-   Any mention of "registered" facilities
+
+Concept test intro (all participants)
+-------------------------------------
 
 Thank you, that's very helpful!
 
 Now I'd like to switch gears and get your thoughts on the demo tool I talked about earlier.
 
-*Ask to screen share*
+*Ask participant to screen share.*
 
-## Scenario 1 - profile - first flow (50% of participants)
+Scenario 1 - opt-out flow (50% of participants)
+-----------------------------------------------
 
-[Prototype - profile-first flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
+[Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
 
-You recently moved to a new city, Evanston Illinois. You had one appointment at the VA health facility there, and would like to find out where else you are registered for VA health care. [Stay away from "registered" language here?]
+You recently moved to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
 
-### Task 1 - find facilities list in Profile
+### Task 1 - review facility list in VAOS
+
+*Start on VA.gov home page.*
+
+Using VA.gov, show me how you would set up a Primary Care visit with your new doctor in Evanston.
+
+**PAUSE on VAOS facilities page**
+
+-   What is this page asking you to do?
+
+-   What facilities would you expect to see here if you were doing this in real life and this was based on your information?
+
+    -   Why would you expect to see those there?
+
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar in real life?
+
+    -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
+
+*If needed:* click the link with the dashed underline, then click the Profile link.
+
+*Watch for:*
+
+-   Where do they expect to go first?
+
+-   Any challenges to navigating the profile?
+
+-   Any challenges navigating to the Your VA Health Facilities section via the profile navigation?
+
+-   When they list the facilities they'd expect to see there if they were doing it in real life:
+
+    -   Do they list EVERYWHERE they're registered?
+
+    -   OR only the places they currently receive care?
+
+### Task 2 - review facility list in Profile
+
+*Start on Profile - Your VA health facilities*
+
+- What is this page telling you?
+
+- How would you use the information in this list?
+
+    - What do you think the VA is using this information for?
+
+- What do you think "Edit" does?
+
+- If this was your list of facilities, what would be listed?
+
+    - Tell me about a time you might have wanted to change that list.
+
+- How would you get a facility in your list that isn't currently there?
+
+*Watch for:*
+
+-   Do they naturally connect this with the list they saw in VAOS?
+
+-   Does the edit functionality meet their expectations?
+
+-   What did they think about how the list is sorted?
+
+-   Any comments about the "schedule appointment" link.
+
+### Task 3 - manage facilities in Profile
+
+*Start on Profile - Your VA health facilities*
+
+Back to our fictional scenario, let's say you are only planning on going to Evanston and Lakeside clinics for right now. 
+
+- If this was real life and this was your list of facilities, would you do anything here?
+
+- Let's say you do want to make this list reflect your current situation. How would you do that here?
+
+*After changing the list:*
+
+- What do you think this change did?
+
+- If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+
+*Watch for:*
+
+-   Did editing the list do what they expected it to do?
+
+-   Are they able to easily make the facility changes?
+
+-   Any confusion around "unchecking" to mark a facility as not current?
+
+-   Did they understand what happened to the facilities they unchecked? 
+
+### Task 4 - schedule an appointment
+
+*Start on Profile -Your VA health facilities (updated)*
+
+- Now that you've changed your facilities, you want to schedule that primary care appointment. How would you do that from here?
+
+**PAUSE on VAOS facilities page**
+
+- Tell me about this page.
+
+**CONTINUE Finish scheduling**
+
+*Watch for:*
+
+-   Do they expect to be able to schedule appointments from Profile?
+
+-   Do they find the link at the top?
+
+-   Do they try to take other paths before the link?
+
+-   Do they connect "Your VA health facilities" in VAOS with the same list in Profile?
+
+-   How do they feel about the facilities list 
+
+*Follow-up questions (if not answered during run-through):*
+
+-   (Choose facility page)
+
+-   What is the "Your VA health facilities" section showing?
+
+-   What about the "Recently visited" section?
+
+-   What are your thoughts about these options?
+
+-   What's confusing about this page?
+
+-   What's helpful, if anything?
+
+### Task 5 - schedule by phone
+
+*Start on VAOS - confirmation page*
+
+While you're looking at this list you remember that you also need to make an eye care appointment at the Evanston VA. 
+
+- How would you do that from here?
+
+*Watch for:*
+
+-   Do they find the "New appointment" link?
+
+-   How do they react when their facility isn't listed?
+
+*Follow-up questions (if not answered during run-through):*
+
+-   Why wasn't your saved facility showing in the list? 
+
+-   (On phone list) What would you do next?
+
+### Task 6 - find facilities list in Profile
 
 *Start on VA.gov home page*
 
-Where would go to find out which facilities the VA thinks you currently receive health care?
+- Finally, how would you find your list of facilities from here?
+
+- Is this where you expected to find that list?
 
 *Watch for:*
-* Where do they expect to go first?
-* Any challenges to navigating the profile
-* Does the edit function surprise them/is it unexpected?
 
-*Follow up questions (if not answered during run-through):*
-* Tell me about this list of facilities - what do you think they are for?
-* Does it feel like anything is missing from this list? Facilities or other information?
-* If this was your list of facilities, what would be listed?
-   * Tell me about a time you might have wanted to change that list.
-* What do you expect "Edit" to do?
+-   Any navigation challenges
 
-### Task - manage facilities in Profile
+-   Did they connect that list with their profile?
 
-As we said, you recently moved to Evanston Illinois. Let's say you currently only schedule appointments at the Evanston and Lakeside VA clinics. How would you make this list reflect that?
+Scenario 2 - opt-in flow (50% of participants)
+----------------------------------------------
 
-*Watch for:
-* Are they able to easily make the facility changes?
+[Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
 
-*Follow-up questions (if not answered during run-through):* 
-* Did the edit button do what you expected?
-* What do you think this change did?
-* If this was your list of facilities, can you think of a situation where you'd like to change them in this way?
+You recently moved to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
 
-### Task  - schedule an appointment
+### Task 1 - save a facility
 
-*On Your VA health facilities page*
+*Starting on VA.gov home*
 
-Back to our fictional scenario, imagine that, while looking at this list, you remember you need to schedule a check-up with your regular VA doctor at the Evanston Clinic. How would you do that?
+Using VA.gov, how would you set up a Primary Care visit with your new doctor in Evanston?
+
+**PAUSE on (or return to) VAOS facilities page**
+
+-   What is this page asking you to do?
+
+-   What facilities would you expect to see here if you were doing this in real life and this was based on your information?
+
+    -   Why would you expect to see those there?
+
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar in real life?
+
+    -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
+
+**CONTINUE to save facility**
 
 *Watch for:*
-* Do they expect to be able to schedule appointments from here?
-* Do they find the link at the top? 
-* Do they try to take other paths before the link?
-* Do they connect "Your VA Health Vacilities" in VAOS with the same list in Profile?
+
+-   Any challenges to finding the scheduling link from home
+
+-   Expectations around "Save facility" page
+
+-   Any indication that they notice the facility list only shows those that allow online scheduling
+
+-   When they list the facilities they'd expect to see there if they were doing it in real life:
+
+    -   Do they list EVERYWHERE they're registered? 
+
+    -   OR only the places they currently receive care?
 
 *Follow-up questions (if not answered during run-through):*
-* (Choose facility page)
-    * What are the two facilities in "Your VA Health Facilities" showing?
-    * What about the "Recently visited" section?
-    * Thinking about your own experience finding a facility when scheduling, what would change if you had these options?
-    * What's confusing about this page, if anything?
-    * What's helpful?
 
-### Task - schedule by phone
+-   What did you expect "Save your facility" would do?
 
-*On modified VA facilites list*
+-   If you wanted to see your saved facilities at some point in the future, where would you go to find them?
 
-While you're looking at this list you remember that you need to schedule an eye appointment at the Evanston VA. How would you do that from here?
-
-*Watch for*
-* Frustration
-
-*Follow-up questions (if not answered during run-through):*
-    * Why wasn't your saved facility showing in the list?
-    * (On phone list) What would you do next?
-
-## Scenario 2 - scheduling-first flow (50% of participants)
-
-[Prototype - Scheduling first flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
-
-You recently moved to a new city, Evanston Illinois. You're interested in scheduling a follow-up visit with your primary care doctor. 
-
-### Task - save a facility
-
-*Starting on VA.gov home* 
-
-How would you schedule a primary care appointment online from here?
-
-*Watch for*
-* Any challenges to finding scheduling link from home
-* Expectations around "Save facility" page
-
-*Follow-up questions (if not answered during run-through):*
-* Facility list - imagine this was your list of facilities - which would you expect to see here?
-* What do you expect "Save your facility" would do?
-
-### Task - schedule at saved facilities
+### Task 2 - schedule at saved facilities
 
 *Starting on confirmation page*
 
-Back to our fictional scenario, imagine that you want to schedule mental a health appointment at the Evanston Clinic on the same day so you can get a couple of appointments done at once. How would you do that from here?
+Back to our fictional scenario, imagine that you want to see your mental health provider at the Evanston Clinic on the same day so you don't have to make multiple trips. 
 
-*Watch for*
-* Do they connect "save a facility" with the facilities that show on this page?
-
-*Follow-up questions (if not answered during run-through):*
- (Choose facility page)
-    * What is the facility in "Your VA Health Facilities" showing?
-    * What about the "Recently visited" section?
-    * Thinking about your own experience finding a facility when scheduling, what would change if you had these options?
-    * What's confusing about this page, if anything?
-    * What's helpful?
-
-### Task - manage facilities in Profile
-
-*Starting on confirmation page*
-
-As we said, you recently moved to Evanston Illinois. Let's say you currently schedule appointments at the Evanston and Lakeside VA clinics, and you'd like to update your saved facilities to include Lakeside. How would you expect to do that?
+- How would you do that from here?
 
 *Watch for:*
-* Where, or at what point in the process, do they expect to be able to make the changes?
-* Does the path to profile make sense
-* Are they able to easily make the facility changes?
-* Does the edit function surprise them/is it unexpected?
 
-*Follow up questions (if not answered during run-through):*
-* Tell me about this list of facilities - what do you think they are for?
-* Does it feel like anything is missing from this list? Facilities or other information?
-* If this was your list of facilities, what would be listed?
-   * Tell me about a time you might have wanted to change that list.
-* * Did the edit button do what you expected?
-* What do you think this change did?
-* If this was your list of facilities, can you think of a situation where you'd like to change them in this way?
+-   Do they connect "save a facility" with the facilities that show on this page?
 
+*Follow-up questions (if not answered during run-through): *
 
-### Task - schedule by phone
+On the "Choose a facility" page:
+
+-   What is the "Your VA health facilities" section showing?
+
+-   What about the "Recently visited" section?
+
+-   What are your thoughts about these options?
+
+-   What's confusing about this page?
+
+-   What's helpful, if anything?
+
+### Task 3 - review facility list in Profile
+
+*Start on confirmation page*
+
+Earlier we talked about saving facilities and your expectations around that.  
+
+- From here, can you show me how you'd find your list of facilities? 
+
+*on Profile - Your VA health facilities*
+
+- What is this page telling you?
+
+- How would you use the information in this list?
+
+    -   What do you think the VA is using this information for?
+
+- What do you think "Edit" does?
+
+- If this was your list of facilities, what would be listed?
+
+   -   Tell me about a time you might have wanted to change that list.
+
+How would you get a facility in your list that isn't currently there?
+
+*Watch for:*
+
+-   Do they naturally connect this with the list they saw in VAOS?
+
+-   Does the edit functionality meet their expectations?
+
+-   What did they think about how the list is sorted?
+
+-   Any comments about the "schedule appointment" link.
+
+### Task 4 - manage facilities in profile
+
+*Start on Profile - Your VA health facilities*
+
+- If this was real life and this was your list of facilities, would you do anything here?
+
+- Let's say you do want to make this list reflect your current situation. How would you do that here?
+
+*After changing the list:*
+
+- What do you think this change did?
+
+- If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+
+*Watch for:*
+
+-   Did editing the list do what they expected it to do?
+
+-   Are they able to easily make the facility changes?
+
+-   Any confusion around "unchecking" to mark a facility as not current?
+
+-   Did they understand what happened to the facilities they unchecked? 
+
+### Task 5 - schedule by phone
 
 *Starting on Profile facilities page*
 
-Back to our imaginary scenary, you decide you want to schedule an eye and vision care appointment on the same day and at the same facility as your other two appointments. How would you do that from here?
+Back to our imaginary scenario, you decide you want to schedule an eye and vision care appointment on the same day and at the same facility as your other two appointments. How would you do that from here?
 
 *Watch for*
-* Frustration
+
+-   Do they find the "New appointment" link?
+
+-   How do they react when their facility isn't listed?
 
 *Follow-up questions (if not answered during run-through):*
-    * Why wasn't your saved facility showing in the list?
-    * (On phone list) What would you do next?
 
-## Wrap-up questions
+-   Why wasn't your saved facility showing in the list? 
+
+-   (On phone list) What would you do next?
+
+### Task 6 - find facilities list in Profile
+
+*Start on VA.gov home page*
+
+- Finally, how would you find the list of facilities from here?
+
+    - Is this where you expected to find that list?
+
+*Watch for:*
+
+-   Any navigation challenges
+
+-   Did they connect that list with their profile?
+
+Wrap-up questions (all participants)
+------------------------------------
+
+- Tell me about the difference between being registered at a facility and receiving care at a facility.
+
+    - (If they don't know what registered means) Just to help us understand how to use that word better, what would you guess it means? There are no wrong answers.
+    
+    - *After answer* When you first go to a facility, the VA notes that you receive care there. [Fill this out a bit]
 
 Do you know at which facilities you're currently registered to receive VA care?
-* (If they don't know) How would you expect to find out where you're registered?
-* (If they don't know what registered means [TBD])
+
+-   (If they don't know) How would you expect to find out where you're registered?
 
 
-## Thank-You and Closing
+
+Thank-You and Closing
+---------------------
 
 Thank you for working through that with me. I just have a few more questions before we break:
 
-* Is there any other feedback you would like to share?
-* Do you have any other questions for me?
+-   Is there any other feedback you would like to share?
+
+-   Do you have any other questions for me?
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
