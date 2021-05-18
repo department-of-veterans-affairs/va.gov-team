@@ -121,3 +121,43 @@ The search product can be found in the header of dev, staging, and production en
 - recommended results
 
 
+## Content Sources 
+
+|**Content Source**         |**Metadata**         |**Additional Details**| 
+|-----------------------|------------------------------|------------------------------|
+|Drupal (CMS)    "Modernized Content"         |[metatags.drupal.liquid](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/metatags.drupal.liquid) |Initiated in 2019,Majority of all va.gov content, Slack Channel: #csm-support  |
+|Teamsite "Legacy Content"            |[metatags.liquid](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/metatags.liquid) |TBD |
+|[GH Content](https://github.com/department-of-veterans-affairs/vagov-content)             |TBD |this template in particular is used to inject meta properties throughout the whole site and injected in the [header.html](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/header.html) 
+|Generated During Build (Derived from GH Content or Drupal)             |TBD |ex: sitemap xml, [sign on page](https://www.va.gov/resources/tag/sign-in/), application pages such as [find a location](https://www.va.gov/find-locations), |
+|React application - FE Project Vets Website|Detail |Detail |
+|Forms API             |TBD |Takes data from the VA forms database and merges it with additional metadata from Drupal (CMS) |
+
+
+
+# [Search.Gov Information](https://search.gov/)
+
+
+ 
+
+## Analytics
+<img width="2183" alt="Sample Monthly Report" src="https://user-images.githubusercontent.com/72393866/118717844-91be4080-b7f4-11eb-889b-1351d539af1d.png">
+
+*Description of Data elements from Monthly Reports* 
+ 1. **Queries with No Results:** Queries conducted that month that had zero search results presented to users
+ 2. **Queries with Low Click Thrus:** Queries conducted that month that did not trigger a user to click on a result; resulting in a low click thru rate 
+ 3. **Module:**  The modules are the different components of our search experience. Each module loads when there are relevant search results to display. Each module has a code, and you’ll see these codes in the Download Details csv files. - more information on each can be found on our [search.gov](http://search.gov/) site, under the Search Features. [https://search.gov/manual/module-codes.html](https://search.gov/manual/module-codes.html) [https://search.gov/manual/site-launch-guide.html#add-features](https://search.gov/manual/site-launch-guide.html#add-features)
+ 4. **Impressions:** Search.gov counts an impression anytime that module appears in the returned search results.
+ 5. **Clicks:** TBD
+ 6. **Your CTR:** TBD
+ 7. **Average CTR:** These are system-wide averages across sites that use Search.gov, not metrics for your specific site.
+ 8. **i14y Documents:** TBD
+ 9. **Best Bets Text:** TBD
+ 10. **Video Results (You Tube):** TBD
+ 11. **Tweets:** TBD
+ 12. **Health Topics:** TBD
+ 13. **Jobs:** TBD
+ 14. **Total:** TBD
+ 15. **Download Top Queries:** TBD 
+
+## Indexing + Relevance
+- [Indexing FAQs](https://search.gov/blog/searchgov-faqs-indexing.html)
