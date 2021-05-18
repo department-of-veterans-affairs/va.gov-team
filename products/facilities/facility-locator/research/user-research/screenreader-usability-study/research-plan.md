@@ -100,7 +100,7 @@ At least:
 
 ## Timeline 
 
-[Preliminary dates - Blocked by recruiting]
+[Preliminary dates - **BLOCKED BY RECRUITING DELAYS]
 
 - Study dates: ~~May 19 - 27, 2021~~
 - Pilot session: will be held on ~~Mon, May 17, 2021~~
