@@ -22,7 +22,11 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
   - As far as timing, Leadership is hoping to launch MVP1 no later than September 2021.  As we have all said, the long pole here is the backend.
 
 - What is the scope of MVP1?
- - 
+  - VA.gov Public Websites Team will commit to the following:
+    - Research/Cindy
+       - Landscape/competitive research (e.g. how other federal agencies position this as a Web resource and tool -- e.g. https://www.safehelpline.org/) Note: ORDMI PIFs have compiled upfront info.
+       - Veteran and employee user testing research of (a) Web experience -- e.g. where is the link at VA.gov? What content and resources are available? and (b) Web Form experience (including questions and after-submission) 
+    - Design - build of InDesign prototype(s) for user testing
 
 - Does a list of form questions exists?  Could we review (size and scope)
   - A code prototype created by Joshua Farrar, PIF detailed at ORDMI, is available as a Pull Request attached to the `vets-website` project.  This prototype speaks specifically to the harassment case, and would simply need relatively straightforward modifications. 
