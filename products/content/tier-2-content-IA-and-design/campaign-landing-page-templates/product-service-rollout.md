@@ -69,16 +69,12 @@ To release the CLP to a wider VA digital comms user base -- enabling the tool to
     - Ideally, temporary clp’s are used to do targeted messaging to targeted audiences -- e.g. Flu Vaccines for Female Veterans
  - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM), vanity URLs. 
   - There will be no VA.gov Platform or Product review before publication
-  - The Public Websites team will be the primary POC (as product owner) and is responsible for:
     - Intake of the request form 
     - Setting up the cloned site (or can the VACO leads do?)
     - Getting analytics dashboard setup via ticket
     - Getting UTMs established via ticket and worksheet
     - Getting vanity URL redirect(s) established and deployed via ticket
-- What is a CLP?
-  - Temporary clp’s need to drive traffic TO benefits or tools or products, not the other direction.
-  - Temporary clp’s can be seasonal or recurring or somehow temporary (like flu season 2020, flu season 2021) but not duplicative of evergreen content.
-  - Ideally, temporary clp’s are used to do targeted messaging to targeted audiences -- e.g. Flu Vaccines for Female Veterans
+ - There will be no VA.gov Platform or Product review before publication
 
 **Considerations**
 - Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
