@@ -24,5 +24,6 @@ Vets API polls PagerDuty for relevant maintenance windows, and the mobile API ag
   * Post in the #va-mobile-app channel to inform the mobile app team of the maintenance window. 
 4. Continue to monitor the issue with the feature or external service. If service is confirmed to be restored, cancel the maintenance window to restore functionality to users. Alterantively if the issue persists, extend the maintenance window as needed. 
 
-
+# Service Directory
+For the available PagerDuty Services, see the [External Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/README.md#external-dependencies) table.
 
