@@ -327,7 +327,8 @@ This component must be wrap the `Router` or `Formik` components so we can pass a
 to save and exit the form.
 
 **Usage requirements:**
-This must appear as a descendant of `SaveInProgress`.
+This must appear as a descendant of `SaveInProgress` since it uses the React
+context provided by that component to save the form.
 
 **Responsibilities:**
 - Display a link to save and exit the form
