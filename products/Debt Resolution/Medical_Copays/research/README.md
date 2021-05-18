@@ -13,6 +13,3 @@
   - [3/4 - Ortega](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03042021Ortega.md)
   - [3/5 - Adcock](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03052021Adcock.md)
   - [3/5 - Andrews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03052021Andrews.md)
-
-## Discovery research (March 2021)
-Pending HRC interviews
