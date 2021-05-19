@@ -18,16 +18,16 @@ How might we help Veterans make a more informed decision about how they will req
 ## Potential Answer(s)
 1. Lighthouse updates their Claims API to help us distinguish between claims eligible for Decision Reviews and those that are not
   - Assumptions:
-    - Time
-    - Feasibility
+    - Time: Approximately 1 month (2 sprints)
+    - Feasibility: fair
   - Evidence this will work:
-  - Advantages:
-  - Disadvantages:
+  - Advantages: complete removal of confusing opt-in language
+  - Disadvantages: Discovery and development time. Untested solution.
 2. Release NoD with language to help Veterans understand the difference in opt-in eligibility.
-  - Assumptions:
+  - Assumptions: We have viable language alternative
   - Evidence this will work:
-  - Advantages:
-  - Disadvantages:
+  - Advantages: Faster MVP
+  - Disadvantages: Language may still be confusing for veterans
 
 <sup>1</sup> https://benefits.va.gov/benefits/appeals.asp
 
