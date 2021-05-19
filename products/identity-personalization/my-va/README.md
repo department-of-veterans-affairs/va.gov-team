@@ -189,8 +189,45 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ### Key Decisions
 
 -	In October 2020, [we determined that My VA and the logged-in homepage would continue to live side-by-side](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot) and that My VA would not replace the logged-in homepage at this time. The reasoning was three-fold: first, we hypothesized that people would still want access to the current homepage when they were logged in. Second, since many teams at the VA have input into the homepage, we were concerned that this might result in content that was not personally relevant to Veterans showing up on their My VA dashboards. Finally, the team was not confident in our ability to support two different versions (logged-in/logged-out) of the homepage at the same URL at this time.
+
+## Development
+
+### How to Access and Test
+
+[Staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+[Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md)
+
+### Where we get our data
+
+The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the list of what is included as part of the My VA 2.0 redesign and what systems we rely on to get that information:
+
+**Disability rating**
+
+- **We show**: Overall disability rating
+- **Parent tool**: [View your VA disability ratings](https://www.va.gov/disability/view-disability-rating/)
+
+**Claim status**
+
+- **We show**: Most recently updated claim; Overall number of open claims
+- **Parent tool**: [Claim status tool](https://www.va.gov/claim-or-appeal-status/)
+
+**Secure messages (health care)**
+
+- **We show**: Total unread messages
+- **Parent tool**: [MHV secure messaging tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight)
+
+**Appointments (health care)**
+
+- **We show**: Next appointment; Total upcoming appointments
+- **Parent tool**: [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/)
+
+**Applications in progress**
+
+- **We show**: Benefit applications people have started on VA.gov but have not completed
+- **Parent tool**: All benefit applications on VA.gov
  
 ## Screenshots
 
-### Before
-### After
+### Version 1.0
+
+### Version 2.0
