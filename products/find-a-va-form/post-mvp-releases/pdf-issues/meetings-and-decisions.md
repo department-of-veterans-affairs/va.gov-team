@@ -1,8 +1,36 @@
 # Meetings and Attendees
 
-## 2021-05-19 PDF Meeting with VA and Adobe
+## 2021-05-19 PDF Meeting Recap 
+### Attendees
 - John Hashitmoto
-- Marci Mcguire
+- Marci McGuire
+
+### Notes
+- We are an Adobe shop
+- Moving back to Acroforms is a step
+- VHA - Josh Hardy, Janel Keyes, Frances O'Donnell
+- NCA - Cynthia Harvey-Pryor
+1) VA uses Adobe Forms Manager (XFA)
+2) They want digital signature to be more pervasive
+- Won't render in a browser; have to download it
+3) We will add help text I will draft the message. 
+- Maybe this is a good case for "help text"? 
+- We will want to test this to make sure people are seeing this message
+- In her next available slot, we can ask Cindy to test this
+- Maybe we have Cassandra design both? 
+- How will we test?  Interactive prototypes (Cindy is the expert)
+- Yellow Ribbon - how many people are clicking on it?  How many refinements without clicking? 
+- I will follow up with the teams who are doing pre-fill to find out how they are doing that; we will provide that info to Robert at Adobe.
+- Find out more about latest version of Chrome will not download PDFs from other domains (cross-domain)
+- Assume we will put these instructions on every page.
+
+### Takeaways
+- John will reach out to Janel at VHA to find out if they are also using Adobe Experience Manager; not NCA yet
+
+## 2021-05-19 PDF Meeting with VA and Adobe
+### Attendees
+- John Hashitmoto
+- Marci McGuire
 - Yvette Allmond VBA
 - Nancy Kessinger VBA
 - Moneke Stephens VBA
