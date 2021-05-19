@@ -1,6 +1,6 @@
 # Discussion Guide for Mobile App MVP UAT
 ## Introduction & Logistics (5 minutes)
-Thank you for joining us today. My name is [Bridget/Jen/Melissa]. So to give you some background, the VA has built a mobile app, and today we’d like to test it with you. I will be your guide to see if sign in works and that your information is displaying correctly. I also want to introduce [ENGINEER]. They are going to follow along and jump in if something doesn't work as expected and need to get some further info to fix it. I also have a few other colleagues on the line observing and taking notes. 
+Thank you for joining us today. My name is [Bridget/Jen/Melissa]. To give you some background, the VA has built a mobile app, and today we’d like to test it with you. I will be your guide to see if sign in works and that your information is displaying correctly. I also want to introduce [ENGINEER]. They are going to follow along and jump in if something doesn't work as expected and need to get some further info to fix it. I also have a few other colleagues on the line observing and taking notes. 
 
 - I am going to ask you to share your phone screen on Zoom. I don't expect that you have done this before, and I will walk you through each step to screen share.
 
