@@ -38,10 +38,10 @@ OR
 
 ## Meeting attendees from requesting team
 - Product Manager (required): name
-- DEPO Product lead (recommended): name
-- DEPO Design lead (required): Ryan Thurlwell
+- OCTO-DE Product lead (recommended): name
+- OCTO-DE Design lead (required): Ryan Thurlwell
 - Anyone else from your team who significantly contributed to the artifacts provided (required): name(s)
-- Content, IA, accessibility, and QA specialists (if applicable): name(s)
+- VFS Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Scheduling
 What is your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York)? **date/time**
