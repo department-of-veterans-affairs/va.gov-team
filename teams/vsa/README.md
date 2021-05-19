@@ -26,9 +26,9 @@
 - Program Management: André Zwilling
 - Product Management:  Mickin Sahni 
 - Design: Shawna Hein 
-- Engineering: Paul Short
+- Engineering: Jeff Thompson
 - Operations: Yana Roy
-- Accessibility: Jennifer Strickland
+- Accessibility: Josh Kim, Angela Fowler
 - QA: Tze-chiu Lei
 
 ### Teams
