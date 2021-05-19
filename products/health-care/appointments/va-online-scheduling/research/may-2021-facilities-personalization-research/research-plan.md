@@ -168,5 +168,8 @@ Team Roles
 -   Participant(s) for pilot test: [TBD]
 -   Note-takers: Perigean
 -   Observers:
-    -   [Lauren Ernest](mailto:lauren.ernest@adhocteam.us) - liz.lantz@adhocteam.us
-    -   Samara Strauss - samara.strauss@va.gov
+    -   [Lauren Ernest](mailto:lauren.ernest@adhocteam.us) - lauren.ernest@adhocteam.us
+    -   [Samara Strauss](mailto:samara.strauss@va.gov) - samara.strauss@va.gov
+    -   [AJ](mailto:ana@adhocteam.us) — ana@adhocteam.us
+    -   [Erik](mailto:erik@adhocteam.us) — erik@adhocteam.us
+    -   [Lihan](mailto:lihan@adhocteam.us) — lihan@adhocteam.us
