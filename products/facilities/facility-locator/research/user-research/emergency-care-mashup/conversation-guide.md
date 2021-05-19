@@ -140,7 +140,7 @@ Based on your search results, if you wanted to learn more about your benefits at
 - Emergency alert
 - Blue info notice in results
 - Map markers
-- etc.
+- [Do they have suggestions for search options in the dropdown?]
 
 ## Post-Task Interview - 5 minutes
 
