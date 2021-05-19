@@ -17,91 +17,83 @@ Last updated May 19, 2021
 
 ## Overview
 
+Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. We've heard this in multiple studies, including in [Liz's 2020 discovery work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-care-about-anything-they-have-in-flight-whether-that-is-education-or-other-benefits), [usability testing on initial My VA 2.0 explorations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#details-of-findings), [usability testing on the final My VA 2.0 prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and Tressa's recent ["mini usability" study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md).
 
+However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
-## Desired User Outcomes
+As a Veteran, I need to know if the VA needs something from me in order for me to receive or manage my benefits.
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Opportunities 
 
-## Undesired User Outcomes
+We can fix this by doing a better job of elevating action items on VA.gov, whether that is on My VA or another section/page (eg. the nav, a new section, etc).
 
+## User Outcomes
 
-## Desired Business Outcomes
+### Desired User Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Veterans will be able to find and complete necessary tasks more quickly.
+- As a result, Veterans may receive benefits or other outcomes more quickly.
 
-## Undesired Business Outcomes
+### Undesired User Outcomes
 
+- Confusion or lack of syncing between on-site notifications/action items and email, text, or mail communications (data integrity).
+
+## Business Outcomes
+
+### Desired Business Outcomes
+
+- We'll potentially have a consolidated place to elevate action items on VA.gov, so everything isn't so silo'd.
+- It will be easier for teams to get necessary action items in front of users than it is now.
+
+### Undesired Business Outcomes
+
+- This becomes another point of confusion if it isn't sync'd with the email/text communications we have going out.
 
 ---
 ## Measuring Success
 
-
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- **Objective**: Explore how we can effectively elevate Veterans' action items on VA.gov. 
+  - **Key result**: Veterans validate potential solutions through user research and testing.
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+
+- Veterans expect to see action items at the very top of their screen.
+- Veterans expect action items to appear in a notification menu in the main nav.
 
 ## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+ 
+We plan to conduct a few sprints of discovery to learn more about how we could elevate action items and some approaches we might take on VA.gov. This will likely include the following: 
+ 
+- Comparative analysis of how action items are surfaced on other websites/tools. There may already be some good documentation on this from Liz's initial My VA discovery.
+- Low-fi sketching/mockups: Iterate on a few ideas, keeping in mind how or if this might change the current design, and in what ways.
+- Figuring out the best method for testing our hypotheses with Veterans — is it usability testing? Click testing? Moderated or unmoderated?
+- Running research.
+- Writing up and recommendations for potential implementation into the My VA experience.
 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+- This is a discovery effort that will help us determine if or how we want to pursue this work on VA.gov. Based on our findings, we'll determine whether formal design/build are the right next steps.
+
 
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - 
+
+- We hope to have this work completed early in Q3 (July - September) of 2021.
+
 ---
 
 ## Solution Narrative
 
-### Current Status
+- **May 2021**: Kickoff discovery effort.
+- **June 2021**: Exporations, research planning, and testing with Veterans.
+- **July 2021**: Wrap work and make recommendations.
 
 ### Key Decisions
 
@@ -112,38 +104,3 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Before
 
 ### After
-
----
-
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
-
