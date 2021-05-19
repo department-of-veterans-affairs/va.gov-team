@@ -2,13 +2,22 @@
 
 ## My VA
 
-- **Q2 2021 (April – June) goal**: Finish build; QA; VSP reviews; UAT; Begin phased launch of My VA 2.0; Run experiment on elevating action items
-- **Q3 2021 (July - September) goal**: Complete launch; Monitor analytics; *Maybe usability testing? Maybe run another experiment or figuring out how to implement findings from initial experiment? Maybe start on My VA for new user type?**
+### Q2 2021 (April – June) goals
+
+- **My VA 2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
+- [Run experiment on elevating action items]()
+
+### Q3 2021 (July - September) goals*
+
+- **My VA 2.0 redesign**: Complete launch
+- Monitor post-launch analytics
+  - [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
+
 - **Q4 2021 (October - December) goal**: Determine next steps after Samara gets back
 
-### Run experiment(s) on how we can better elevate action items
+#### Run experiment(s) on how we can better elevate action items
 
-**When**: Post-launch; May take the full quarter
+**When**: End of Q2 and early Q3
 
 **Objectives**:
 - Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
@@ -26,19 +35,6 @@
 - Figure out best method for testing — is it usability testing? Click testing? Moderated or unmoderated?
 - Run research.
 - Write up and recommendations for potential implementation into the My VA experience.
-
-### My VA 2.0 project KPI tracking
-
--	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
-
-### Run usability testing on My VA in production
-
-**When**: Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
-
-**Objectives**: 
--	Assess usability of the tool with veterans’ real information.
--	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
--	Post-testing, determine next steps and how improvements might fit into roadmap.
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
