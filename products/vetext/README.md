@@ -59,24 +59,3 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |[**VEText Portal**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20765)|The UI that VA Health Center administrators interact with to initiate VEText messages. 
 |[**I Am Here (IMH)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20664)| Allows veterans to check in for medical appointments via text message.
 |[**Open Slot Management (OSM)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20655)|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
-
-
----
-
-# Pain Points (02/21)
-
-VEText is a victim of its own success. A talented close-knit team created a stable, versatile tool for one specific purpose. 
-
-This tool was successful and showed potential so it was elevated to OCTO. Add that to the team’s unique domain knowledge of VA infrastructure, they now find themselves with an ever-growing list of potential applications of both the VEText tool and applications like AVS.
-
-The team works quickly in shorthand with high fidelity, so it has adapted quickly without accompanying structure. 
-
-The VEText team has incredible **momentum** but needs to build the **velocity** necessary to meet increasing demand.  
-
-A few of the areas identified:
-
-+ **Compromised developer bandwidth.** Time and energy is taken from development to triage support and feature requests, manually process data and field incoming requests for new applications.
-+ **Lack of documentation.** Decisions are made across communication channels and verbally in meetings. There is no clear paper trail for product decisions or scope changes, or for future product development plans.
-+ **Opaque development.** The product development team works in continuous releases in a git instance separate from existing OCTO development structures in the VA. This works well for the existing team but poses a barrier for any incoming developers, and the lack of redundancy poses a risk if any of the existing developers leave the project. 
-+ **Reactive feature prioritization.** Development focus is determined by stakeholder needs on the fly. New uses or feature ideas are either identified by OCTO or surfaced through support channels without an overarching roadmap. As a result, feature requests from “Squeaky Wheels” among VA administrators are acted upon quickly, but consistent feedback channels that would provide a larger view of how veterans are interacting with the tools is lacking.
-+ **Function over usability.** The speed at which the tool has been adopted has required prioritized feature development over usability concerns, causing common end user errors for both Veterans and staff. Focusing development on overall usability earlier in the process will reduce burden on users and the product team.
