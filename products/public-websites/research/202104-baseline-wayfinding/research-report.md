@@ -42,7 +42,7 @@ Participant demographics:
 - 3 were female
 - 3 had a cognitive disability
 - 2 had never used VA.gov before
-- 1 used a screen reader
+- 1 used a screen reader (with advanced level of experience)
 
 One of the sessions was cut short due to technology issues, so most of the findings came from 12 of the sessions.
 
@@ -116,7 +116,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
 
 1. **Two accessibility issues were encountered:**
     1. One older participant (81 years old) had difficulty reading the font of the links in the "top 4" boxes, which they thought was because the links were blue and small. In contrast, they were able to read the headers in the "top 4" boxes (larger font) and the text on content pages (black in color). There were no spontaneous comments about font readability from the other older participants (one age 75 or older, one 65-74, and three 55-64). 
-    2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler) said that site search wasn't easy to find because you have to specifically look for a form instead of seeing it in the landmarks list (as on google.com). 
+    2. One pilot test participant who uses a screen reader (accessibility specialist Angela Fowler and lifelong screen reader user) said that site search wasn't easy to find because you have to specifically look for a form instead of seeing it in the landmarks list (as on google.com). 
 3. One participant (and also a pilot participant who was a Veteran) **wanted to sign in first** when they opened VA.gov *("easier to sign in [first] because it will ask me to later", p11)*. This participant was asked to proceed without signing in.  
 
 ### Where People Click 
@@ -139,7 +139,7 @@ Below are visualizations showing where research **participants using mobile devi
 
 ### Differences by Participant Categories
 - **Mobile vs. desktop**: There were *no major differences in research results between mobile and desktop users*, as users on both kinds of devices spent much of their time on the "top 4" boxes. The big difference between mobile and desktop is the interaction required to reach other links: mobile users have to tap the "Menu" button in the header before they can see the *VA Benefits and Health Care* megamenu and *Find a VA Location*. Of the 5 mobile users in this research, 3 used the Menu button and seemed comfortable doing so. The other 2 mobile users did not use the "Menu" button during the research sessions, and it is unknown whether they noticed it or not. The footer on mobile has accordians to access *VA Forms, Resources and support,* and *Find a VA Location* links, but none of the mobile research participants scrolled down to the footer to see this. 
-- **Cognitive disability**: 3 participants were reported to have a cognitive disability, but this was not confirmed during the research sessions. *No significant differences* in task performance were observed between these individuals and the others, although one of them was among the four participants overall who had difficulty typing concise search queries and correctly spelling the words in them. A different participant with a cognitive disability finished fewer tasks than many other participants, but that was likely due to their tendency to talk in detail about their experiences with the VA and focus less on completing the research tasks.
+- **Cognitive disability**: 3 participants were reported to have a cognitive disability, but this was not confirmed during the research sessions. *No significant differences* in task performance were observed between these individuals and the others, although one of them was among the four participants overall who had difficulty typing concise search queries and correctly spelling the words in them. A different participant with a cognitive disability finished fewer tasks than many other participants, but that was likely due to their tendency to talk in detail about their experiences with the VA and focus less on completing the research tasks. Note that these 3 participants are unlikely to represent a full spectrum of cognitive disabilities, including major reading or problem-solving disabilities or attention disabilities in a natural environment with more distractions (see more information about the [diversity of cognitive disabilities](https://webaim.org/articles/cognitive/)).
 - **Screen reader**: The one participant who used a screen reader completed fewer tasks than many other participants because *listening to their screen reader read text aloud resulted in slower navigation*. 
 - **Hadn't used VA.gov before**: Only 2 participants had never used VA.gov before, and there were *no notable differences* in their interactions with the website when compared to the other participants.
 
@@ -161,7 +161,7 @@ Below are visualizations showing where research **participants using mobile devi
     1. *"Yuck! Don't want to keep seeing it because I already hear about it constantly from the VA" (p8).*
     1. *"Can't wait for the COVID popups to stop" (p19, who uses a screen reader)*. Their screen reader was reading the alert aloud every time they opened the page, and so they couldn't ignore it.
 6. One participant expected that changing their direct deposit information would update it for all types of VA payments (e.g., disability, retirement, travel reimbursement) at once. This currently isn't the case because at least disability and travel reimbursement have to be updated in different places.
-7. One participant saw a "your browser is out of date" error message while waiting for search results. Nick Sullivan's interpretation is that the participant's browser was waiting for this JS to load: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed, assuming it's not a rare random occurrence; Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
+7. One participant saw a "your browser is out of date" error message while waiting for global/site search results. Nick Sullivan's interpretation is that the participant's browser was waiting for this JavaScript to load: https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA. This problem should be fixed, assuming it's not a rare random occurrence; Nick and Marci have seen it before. During the session, going back and resubmiting the search resolved the problem.
 
 ## Additional Insights
 1. When participants were asked where they typically go **to get information and benefits from the VA, over half said that they go to VA.gov**, a third go to MyHealtheVet, two people call the VA, and one person said they search on google.
