@@ -93,7 +93,6 @@ An example of a completed request template can be found [here](https://github.co
 - [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
-- [ ] VFS team completes brief [Platform Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 
 ## Definition of Done
