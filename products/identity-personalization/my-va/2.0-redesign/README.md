@@ -217,6 +217,8 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
 - **January 2021**: Designs completed; Frontend build begins; Copy work begins; Staging use cases put together
 - **February 2021**: InVision prototypes finalized; Frontend build continues; Usability test prep review; Usability testing
 - **March 2021**: Final design updates; Build continues
+- **April 2021**: Build finishes; Call center guide work
+- **May 2021**: QA; Pre-launch checklist; Mini-usability study with real veterans and real data
 
 ## Discovery
 
