@@ -1,5 +1,55 @@
 # Meetings and Attendees
 
+## 2021-05-19 PDF Meeting with VA and Adobe
+- John Hashitmoto
+- Marci Mcguire
+- Yvette Allmond VBA
+- Nancy Kessinger VBA
+- Moneke Stephens VBA
+- Emily Timmerman
+- Robert Chandler, Adobe
+
+## Notes
+- John gave a quick overview of the Find a VA Form tool
+- John gave a background of the issues we've been seeing
+- Is our current guidance correct?  Are there some subleties missing? 
+- Robert touts XFA as a great technology
+- I explained the issues we're seeing with forms that have signatures
+- Robert asked if we are using signatures
+- Acroform - created with Acrobat
+- We would want to understand 
+- Allmond - said they are using extensions
+- When you reader extend the PDF, the person would need to download it and use Adobe Reader to actually sign that. 
+- There are a couple of different kinds of signatures - does it have to be certificate back, or electronic? Once you've download the PDF locally, if it's reader extended, you can open in Acrobat and sign it.  If you open it through the browser, the browser support for that is spotty; especially when you talk about different browsers. 
+- Chrome is no longer supporting the extension that allows you to save it.  But you could save it in Reader if it's been extended.
+- Reader is free.  There is no license requirement for the user.
+- We will provide some help text on the product that is browser-based. 
+- Emily - for the XFA forms in Chrome - is the requirement that they have to download?  Robert - typically, to be able to save the PDF is to download it locally. 
+- How should a PDF that will be used for pre-fill be created?  
+- Yvette confirmed that forms managers used AEM (Adobe Experience Manager to update the forms).  If the office requests to add the signature field - they use the Designer to create signature field. 
+- John - is adding the signature field going to be more and more part of the forms? 
+- Is XFA the only mechanism for adding a digital signature?  No, it can be done with Acrobat, but the problem is not with the client, but with the browser.
+- Once you're moving to a web-based data collection tool, you may think about signature in that regard.  In that case, XFA is going to assist there.
+- Is there any way we can determine which forms are AcroForms vs. XFA? Robert looks for a certain syntax in the form itself.  He'll use a configuration to open each one. The other is through the properties - you can visualize how it was created.
+- Yvette - when you mention AcroForms vs. XFA
+- Acrobat can be used to read or author
+
+
+### Recap 
+- Not really anything that can be done with the creation of the forms themselves that will make the front-end experience easier.
+- XFA is the standard for VA Forms Managers, and that is the standard they are going forward with.
+- We will need to provide some type of guidance on VA.gov to address downloading PDF forms.
+
+## Action Items 
+- Follow up with Robert about how the prefill is being done
+
+## Find a VA Form browser usage
+Chrome (49%)
+Edge (20%)
+Safari (18%)
+Internet Explorer (8%)
+Firefox (3%)
+
 ## 2021-05-13 PDF Issues Meeting with Ming
 
 ### Attendees
