@@ -307,7 +307,7 @@ Pieces of the save-in-progress sub-module are:
 functionality for a form.
 
 **Usage requirements:**
-This component must be wrap the `Router` or `Formik` components so we can pass a
+This component must wrap the `Router` or `Formik` components so we can pass a
 `saveForm` prop to it to be hooked into `Formik`'s `handleChange` callback.
 
 **Responsibilities:**
