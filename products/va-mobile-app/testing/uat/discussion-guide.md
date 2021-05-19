@@ -1,27 +1,24 @@
 # Discussion Guide for Mobile App MVP UAT
 ## Introduction & Logistics (5 minutes)
-Thank you for joining us today. My name is [Bridget/Jen/Melissa] and I also have some colleagues on the line observing and taking notes. The VA has built a mobile app, and today I’d like to test it with you to ensure that you can sign in and see your information correctly. 
-- Since the app is not yet launched, it's not yet in the app store where you might typically download an app. So you are able test the app on your own phone during our conversation today, I will walk you through set up steps. 
-    - I don't expect that you have done this before, and I can walk you through each step via screen share.
+Thank you for joining us today. My name is [Bridget/Jen/Melissa]. So to give you some background, the VA has built a mobile app, and today we’d like to test it with you. I will be your guide to see if sign in works and that your information is displaying correctly. I also want to introduce [ENGINEER]. They are going to follow along and jump in if something doesn't work as expected and need to get some further info to fix it. I also have a few other colleagues on the line observing and taking notes. 
 
-Do you have any questions so far?
+- I am going to ask you to share your phone screen on Zoom. I don't expect that you have done this before, and I will walk you through each step to screen share.
 
-- Once the app is up and running, I will ask you to sign in using your own username and password. I expect setting up the app and signing in to take a lot of our time today, and I appreciate your patience working through these steps with me in advance.
+- I will also walk you through installing the app on your phone. Once the app is up and running I will ask you to sign in using your own username and password. 
+
+- I expect setting up the app and signing in to take a lot of our time today, and I appreciate your patience working through these steps with me in advance.
 
 Does this all sound ok so far?
 
 Great. Before we start, there are a few more things I want to mention:
 
 - Our conversation should take a little under an hour.
-- We’re going to ask you to download and install an app on your phone.
-- I will not be offended by any opinions you express - please be as honest as you feel comfortable being. My goal is to help VA build the most useful, usable mobile app we can.  Although the main goal today is to verify the app is showing correct information, we will have time at the end and I want to hear any feedback you have.
-- I'm going to ask you to share your screen with me, and sign in using your username and password. 
-    - Do you have your username and password ready to sign in? 
-        - If not, can you access them quickly?
+- As I mentioned we're going to ask you to download and install an app on your phone.
 - When you are signed into the app, it will display your Appointment, Secure Messaging, Claims and Appeal, and VA.gov Profile information if you have it. I will ask you to navigate to different sections of the app to ensure data you may have in these areas is loading as expected. For example, I will ask you to do things like confirm that your personal information like date of birth, your Direct Deposit information, or things like your Secure Messages are correct. And since you will be sharing your phone we may see other personal things like other app notifications you have set (for example if you get any text messages and your email). 
     - Are you comfortable sharing your screen with your personal information such as (birth date, address, health info) on it today with us on this call? 
     - Do you have any questions about this?
 - If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time. 
+- Again, the main goal today is to verify the app we built is showing correct information. However, if we have time at the end and we want to hear any feedback you have. We will not be offended by any opinions you express. 
 
 Those are all the logistics. Do you have any questions for me before we get started?
 
