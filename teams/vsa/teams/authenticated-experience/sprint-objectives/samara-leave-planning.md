@@ -31,9 +31,17 @@
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
-- **Q2 2021 (April – June) goal**: Get final details from VA Profile, design, build
-- **Q3 2021 (July - September) goal**: Launch MVP of communication permissions (notification preferences)
-- **Q4 2021 (October - December) goal**: Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
+### Q2 2021 (April – June) goal
+
+- Get final details from VA Profile, design, build
+
+### Q3 2021 (July - September) goal
+
+- Launch MVP of communication permissions (notification preferences)
+
+### Q4 2021 (October - December) goal
+
+- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
 **Note**: This is dependent on VA Profile being ready and getting us the things we need.
 
@@ -41,9 +49,17 @@
 
 ## VA.gov Profile: Preferred medical facility
 
-- **Q2 2021 (April – June) goal**: Design,research, begin build
-- **Q3 2021 (July - September) goal**: Launch preferred medical facility functionaity before end of the quarter
-- **Q4 2021 (October - December) goal**: Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
+### Q2 2021 (April – June) goal
+
+- Design,research, begin build
+
+### Q3 2021 (July - September) goal
+
+- Launch preferred medical facility functionaity before end of the quarter
+
+### Q4 2021 (October - December) goal
+
+- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
 [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
