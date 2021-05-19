@@ -184,9 +184,10 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 ## Solution Narrative
 
-### Current Status
+### Initiatives
 
--	[The My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) is currently undergoing final design updates and frontend build. 
+-	[The My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) is set to launch June 2021.
+-	Discovery on [how to elevate action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#readme) is set to begin May 2021. 
 
 ### Key Decisions
 
