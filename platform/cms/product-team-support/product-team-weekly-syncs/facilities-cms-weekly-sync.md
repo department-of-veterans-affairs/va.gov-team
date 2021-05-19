@@ -45,7 +45,7 @@ VAMC
   * CMS issue: Improve User guide and training for VAMC Detail pages. 
   * CMS issue: Improve VAMC Detail Page (remove certain paragraph types). 
 * Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
-  -  Facilities team: remove fallback logic [#24175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24175)
+  -  Facilities team: remove fallback logic [#24899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#24899)
   -  Discuss Cheyenne issue with VAMC upgrade
   -  CMS issue to add a service location retroactively #5387, and moving forward in migrations #5273
 * Orphan staff profiles 
