@@ -23,6 +23,7 @@
 
 ## Friday May 21
 * Help desk triage
+* Blobby facility health service content that hasn't been hardened and is on the chopping block (eg Cheyenne, scope of problem unknown)
 * Office hours May 25
 * Status of 4 required pages
 * Facility health services migration
