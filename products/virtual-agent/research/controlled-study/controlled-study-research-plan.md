@@ -65,7 +65,7 @@ A couple of things to know:
 - We will be able to read what you type to the chatbot, so please do not type any personal information that can be used to identify you.
 - When you are done, please click on the link in this email, which will take you to a page where you can provide feedback. Feel free to be as honest as possible on what your experience was like with the product.
 
-Thank you for participating, and thank you for your service. 
+Thank you for participating!
 
 
 2.	Why this method? How does this methodology help you answer your research questions? 	
