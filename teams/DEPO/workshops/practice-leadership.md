@@ -38,6 +38,24 @@ _...define what kind of practice leadership responsibilities are needed in our e
 
 ---
 
+## 3-bucket design strategy
+
+**policy**
+- memo for Charles and Chris to review next week ideally
+- 5 design policies: 1) for VA.gov must use DS 2) - 5) this is the process and the process for when you need to go outside of DS
+
+**tooling**
+- everybody using sketch for teams and having access to it
+- so all work is in same sketch for team's instance so everyone can see each others' work
+
+**process**
+- design.va.gov lets you run experiments, but what are VFS teams are responsible for?
+- example: John's team designed new experiences for search, ryan got the design to where he was happy, and this process clarifies how to document why this is the way it is, what did you test, etc.
+
+^ this affects design from a Ryan perspective, in that he'll be in CC, but the goal w/sketch for teams was to move reviews to asynchronous so can just give comments there. could be same for early a11y reviews. potentially for content as well. haven't talked w/meg or mikki about it yet. strategy was designed in mind for async review option for anybody (whether product support, practice leads, etc). No prescription on who should be in ther giving comments and what the process shoudl be, but the goal of Ryan + Kevin is to create a platform for visibility of design work across va.gov so you don't have to chase or Slack design in process.
+
+---
+
 ## workshop ideas
 - what problems were practice leads put in place to solve?
 - what do folks *think* they're accountable for?
