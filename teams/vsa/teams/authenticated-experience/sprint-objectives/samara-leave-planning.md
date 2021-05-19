@@ -1,5 +1,9 @@
 # Long term planning for Samara's maternity leave
 
+### [Long term planning spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx)
+
+This is my best estimate on things as of when I go on leave, but please please PLEASE feel free to adjust based on how things shake out in reality. This is meant to be a guide, not a mandate.
+
 ## Q2 2021 (April – June) goals
 
 **Samara will be out at the end of this quarter**.
@@ -50,16 +54,12 @@
 - UAT
 - Launch MVP of communication permissions (notification preferences)
 
-**Note**: This work is dependent on VA Profile, VANotify, and VEText meeting their own milestones. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
-
 ### VA.gov Profile: Preferred medical facility
 
 - Complete build
 - QA and all pre-launch checklist items
 - UAT
 - Launch preferred medical facility functionaity before end of the quarter
-
-**Note**: This is a cross-team effort with VAOS. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
 ### VA.gov Profile: User roles & permissions
 
