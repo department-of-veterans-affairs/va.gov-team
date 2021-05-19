@@ -67,10 +67,18 @@ The goals are:
 
 - Proposed System Architecture of Front End Portal and Federated System (with new and existing platforms)
 [example Federated Systems.pdf](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313817/example.Federated.Systems.pdf)
-- Draft Business Requirements
+- Draft Business Requirements (Last updated 5/12/2021)
 [REVISED 04_13_2021 Draft Business Requirements.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313831/REVISED.04_13_2021.Draft.Business.Requirements.xlsx)
+- ORDMI PIFs: VA Cultural Health Initiative
+[DIVAC Harassment_4_22_final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511053/DIVAC.Harassment_4_22_final.pdf)
+- ORDMI PIFs: Proposed Web to Datastore Flows
+[05_13_2021 Flow.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511058/05_13_2021.Flow.pdf)
+- ORDMI PIFs: Proposed Service Design
+[03_11_2021 Propsed TO BE Service Experience Design (draft).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511063/03_11_2021.Propsed.TO.BE.Service.Experience.Design.draft.pdf)
+
 - SEC. 5303. ANTI-HARASSMENT AND ANTI-SEXUAL ASSAULT POLICY OF DEPARTMENT OF VETERANS AFFAIRS.
 [5303 Breakdown.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313832/5303.Breakdown.xlsx)
+
 
 - VA OIG Web Page and Link to Report Wrongdoing - https://www.va.gov/oig/
 
