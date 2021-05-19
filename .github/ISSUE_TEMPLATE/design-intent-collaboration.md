@@ -15,6 +15,7 @@ assignees: shiragoodman, allison0034
 - [ ] Platform: After meeting is held, create feedback tickets and link to the Design Intent ticket (if no feedback, please comment stating that).
 - [ ] VFS: Respond appropriately to Platform feedback tickets.
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+- [ ] VFS: Close this ticket when all steps above are completed.
 
 ## Questions
 ### Has your product been reviewed by the OCTO-DE Design Lead?
