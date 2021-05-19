@@ -263,6 +263,10 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
   - [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM)
   - [Mobile](https://vsateams.invisionapp.com/share/GC10HT8RSMQN)
 
+### Development
+
+[Please see the main My VA product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#how-to-access-and-test).
+
 ### Screenshots
 
 ### Before
