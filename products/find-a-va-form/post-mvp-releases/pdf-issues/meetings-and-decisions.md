@@ -10,7 +10,7 @@
 - Moving back to Acroforms is a step backward from the direct the VA is taking
 - VHA - Josh Hardy, Janel Keyes, Frances O'Donnell
 - NCA - Cynthia Harvey-Pryor
-- **VA uses Adobe Forms Manager (XFA)**
+- **VA uses Form Designer, which is part of Adobe Experience Manager(XFA)**
 - **They want digital signature to be more pervasive**
 - Won't render in a browser; have to download it
 - **We will add info instructing users to download; I will draft the message for Content**
