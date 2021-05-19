@@ -65,7 +65,7 @@ The goals are:
 - Proposed System Architecture of Front End Portal and Federated System (with new and existing platforms)
 [example Federated Systems.pdf](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313817/example.Federated.Systems.pdf)
 - Draft Business Requirements (Last updated 5/12/2021)
-[REVISED 04_13_2021 Draft Business Requirements.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313831/REVISED.04_13_2021.Draft.Business.Requirements.xlsx)
+[REVISED 05_12_2021 Draft Business Requirements (2).xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511091/REVISED.05_12_2021.Draft.Business.Requirements.2.xlsx)
 - ORDMI PIFs: VA Cultural Health Initiative
 [DIVAC Harassment_4_22_final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511053/DIVAC.Harassment_4_22_final.pdf)
 - ORDMI PIFs: Proposed Web to Datastore Flows
