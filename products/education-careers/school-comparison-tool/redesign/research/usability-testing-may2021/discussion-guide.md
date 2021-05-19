@@ -47,8 +47,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever used the GI Bill Comparison Tool before?
     - If yes, what did you use it for?
 
-## Initial Take - 5 minutes ##
-This is the GI Bill Comparison Tool, which allows you to see what education benefits you can receive at various institutions.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
+## Initial Take - 2 minutes ##
+This is the GI Bill Comparison Tool, which allows you to see what education benefits you can receive at various institutions.  Do you have any initial thoughts or questions before we get started?
 
 ## First Task: Find a Campus - 5 minutes
 
@@ -77,15 +77,15 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 - Does the user notice the "Update housing and tuition" accordion?
 
 ### Upon task completion:
-- What do you think of the view you see here?
+- How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of searching for educational institutions by location?
+
+- What do you think of how results are displayed?
 - What education options do you see here?
 - How do you think the search results were sorted?
 - What information would be important to you if you were choosing where to take training?
 - Do you think these benefit estimates are correct for your situation?
 - Was there any other information you were expecting to see?
-
-- How did you think that went?
- - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of searching for educational institutions by location?
  
 
 ## Third Task: Map Utilization - 10 minutes
