@@ -53,7 +53,20 @@ We would like to conduct an unmoderated controlled study where participants are 
 
 After using the application, participants click on the link to capture feedback (likely on Optimal Workshop) and then enter in a validation code (likely on Optimal Workshop) so we can track who has participated and so participants can be compensated.  
 
-We have some additional instructions to add to the screener you send out with participants.  We’re revising that text, which will essentially walk them through the process and talk about the importance of feedback, that they should spend at least 10 minutes using it etc.  While recruiting can start, we hope to have that email finished to send out to confirmed participants.
+_The instructions to send to confirmed participants:_
+
+Thank you for participating in this study. We know your time is valuable, and your feedback will help us build better products to serve you. We are exploring how a virtual agent/chatbot may help you find answers on Va.gov. To help us understand this, we created a prototype for you to test. 
+
+A couple of things to know: 
+
+- This is a prototype, an early version of the product. Some features may not work perfectly. 
+- Please interact with the chatbot - only. Other links, buttons and/or forms will be available to you, but we only need your input on the chatbot. 
+- Spend at least 10 minutes engaging (asking questions, reading responses etc.) with the chatbot. 
+- We will be able to read what you type to the chatbot, so please do not type any personal information that can be used to identify you.
+- When you are done, please click on the link in this email, which will take you to a page where you can provide feedback. Feel free to be as honest as possible on what your experience was like with the product.
+
+Thank you for participating, and thank you for your service. 
+
 
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
