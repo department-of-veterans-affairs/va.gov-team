@@ -93,10 +93,9 @@ An example of a completed request template can be found [here](https://github.co
 - [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
-- [ ] VFS team completes brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+- [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated

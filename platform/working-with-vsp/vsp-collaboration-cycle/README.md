@@ -1,8 +1,8 @@
-# VSP Collaboration Cycle
+# Platform Collaboration Cycle
 
-The VSP Collaboration Cycle is where VSP reviewers provide support and guidance to VFS teams to help ensure the products they are building on VA.gov meet platform standards.  
+The Platform Collaboration Cycle is where Platform reviewers provide support and guidance to VFS teams to help ensure the products they are building on VA.gov meet platform standards.  
 
-VSP provides guidance in Design, Content, Information Architecture, QA, and Accessibility practice areas. Teams should engage with the Collaboration Cycle when they begin building or iterating on their VA.gov content and/or product. 
+The Platform provides guidance in Design, Content, Information Architecture, QA, and Accessibility practice areas. Teams should engage with the Collaboration Cycle when they begin building or iterating on their VA.gov content and/or product. 
 
 ## Table of contents
 - [The Collaboration Cycle process](#the-collaboration-cycle-process)
@@ -24,10 +24,10 @@ When you’re ready to start the Collaboration Cycle process, submit our kickoff
 
 [Collaboration Cycle Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D)
 
-Once submitted, VSP will comment on the ticket with the recommended Collaboration Cycle touchpoints, as well as what practice areas will be involved in your reviews. Those recommended touchpoints will also be added to our tracking spreadsheet (linked below) for reference. 
+Once submitted, we'll comment on the ticket with the recommended Collaboration Cycle touchpoints, as well as what practice areas will be involved in your reviews. Those recommended touchpoints will also be added to our tracking spreadsheet (linked below) for reference. 
 
 ### 3. Prepare for and schedule your touchpoints
-When you’re ready to schedule your recommended touchpoints, review the guidelines outlined in each of the touchpoints below to prepare. Then use our VSP Collaboration Meeting Calendar (linked below) to find a time.  
+When you’re ready to schedule your recommended touchpoints, review the guidelines outlined in each of the touchpoints below to prepare. Then use our Platform Collaboration Meetings Calendar (linked below) to find a time.  
 
 Guidance for each touchpoint:
    
@@ -44,18 +44,18 @@ Guidance for each touchpoint:
 
 ## Resources
 
-[**VSP Collaboration Meetings Calendar**](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York)
+[**Platform Collaboration Meetings Calendar**](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York)
 
 On this calendar, you will see:
 
-- Available days and times  for scheduling a touchpoint with VSP (indicated by "CALENDAR BLOCK")
+- Available days and times for scheduling a touchpoint with Platform (indicated by "CALENDAR BLOCK")
 - Already scheduled Collaboration Cycle touchpoints
 - Design Office Hours
 - Collaboration Cycle Office Hours
 
 [**Platform Collaboration Point Tracker**](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
 
-This is VSP's source of truth for which Collaboration Cycle touchpoints are recommended for each product. This spreadsheet includes links to Github tickets as well as Zoom recordings. This spreadsheet is not editable by VFS teams, so if you notice anything is missing, please let us know!
+This is Platform's source of truth for which Collaboration Cycle touchpoints are recommended for each product. This spreadsheet includes links to Github tickets as well as Zoom recordings. This spreadsheet is not editable by VFS teams, so if you notice anything is missing, please let us know!
 
 ## Practice areas supported by the Collaboration Cycle
 #### Design
@@ -100,8 +100,8 @@ This is VSP's source of truth for which Collaboration Cycle touchpoints are reco
 
 ## Contact us
 - First time working with us? Review the guidance in [Getting started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md#questions-about-your-product). If you’re able to answer all the questions, then submit a Github [Collaboration Cycle Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D) ticket to find out which touchpoints we recommend for your product.
-- Ready to schedule a touchpoint? Follow the guidance for each touchpoint under [VSP Collaboration Cycle Touchpoints](#3-prepare-for-and-schedule-your-touchpoints).
-- Have a question about one of our practice areas? Come to our weekly Collaboration Cycle Office Hours listed in the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York).
+- Ready to schedule a touchpoint? Follow the guidance for each touchpoint under [Platform Collaboration Cycle Touchpoints](#3-prepare-for-and-schedule-your-touchpoints).
+- Have a question about one of our practice areas? Come to our weekly Collaboration Cycle Office Hours listed in the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York).
 - Need immediate assistance? Reach out to @vsp-product-support-members on the [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel.
 
 ## Change history

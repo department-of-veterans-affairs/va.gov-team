@@ -8,7 +8,7 @@ When the product is in staging and before you begin rollout, allowing enough tim
 Asynchronous review. A synchronous 30-minute meeting may be requested.
 
 ## What is the objective of this touchpoint?
-Ensure your feature meets VSP's privacy and security standards.
+Ensure your feature meets Platform's privacy and security standards.
 
 ## How do I request this touchpoint?
 VFS Lead Engineer or Product Manager submits a [Privacy and Security Review ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new?assignees=f1337%2C+joeniquette&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=privacy-and-security-review.md&title=Readiness+Review+%5BTeam-Name%2C+Feature-Name%5D) in va.gov-team-sensitive repository.
@@ -17,10 +17,10 @@ VFS Lead Engineer or Product Manager submits a [Privacy and Security Review tick
 VFS brings:
 - Lead engineer (required)
 - Product manager (required)
-- DEPO product lead (required)
+- OCTO-DE product lead (required)
 - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
 
-VSP brings:
+Platform brings:
 - Engineering experts (Michael Fleet and/or Joe Niquette, others as needed)
 
 ## What artifacts do I provide?
@@ -39,9 +39,9 @@ VFS provides:
 - Review the guidance on [hosting a security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/hosting-a-security-review.md)
 
 ## What is the outcome of this touchpoint?
-VSP provides a list in a Github ticket of concrete action items that need to be addressed before product rollout. 
+Platform provides a list in a Github ticket of concrete action items that need to be addressed before product rollout. 
 
 When the VFS team has completed action items, they should assign the Security Review ticket back to @Michael Fleet, who will confirm completion and close out the issue, signaling approval of the Privacy and Security review.
 
-If no issues are raised during the Privacy and Security review, then VSP will approve the product for launch. 
+If no issues are raised during the Privacy and Security review, then Platform will approve the product for launch. 
 

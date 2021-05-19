@@ -12,11 +12,11 @@ assignees: jwoodman5, kimberley2019, starlow00
 ## What this form is for
 Use this template to request a Contact Center review of your product.
 
-Please review the Self service Product Guide Template [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md) and the Contact Center Review How to [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
+Please review the Self-service Product Guide Template [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md) and the Contact Center Review How to [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
  
 
 ## Description
-*Please provide the name(s) of your product and a high level description of your product.*
+*Please provide the name(s) of your product and a high-level description of your product.*
 
 ### Launch Date
 *Please provide the launch or rollout date and details.*
@@ -37,6 +37,6 @@ Please review the Self service Product Guide Template [link](https://github.com/
 
 
 ## Acceptance Criteria
-- [ ] VSP Contact Center QA has been completed 
-- [ ] VSP Contact Center sends artifacts to appropriate contact centers
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+- [ ] Platform: Contact Center QA has been completed 
+- [ ] Platform: Contact Center sends artifacts to appropriate contact centers
+- [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated

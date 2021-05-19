@@ -1,12 +1,12 @@
 # Getting started with the Collaboration Cycle 
-Before engaging with the Collaboration Cycle, please review the guidance and questions below to help VSP determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it’s too early for you to engage with the Collaboration Cycle.
+Before engaging with the Collaboration Cycle, please review the guidance and questions below to help Platform determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it’s too early for you to engage with the Collaboration Cycle.
 
 **Are you ready to engage with the Collaboration Cycle?**
 
-If yes, then a VFS Product Manager should submit a ticket for an asynchronous [Collaboration Cycle Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D). VSP will respond in the GitHub ticket with the recommended Collaboration Cycle touchpoints, as well as any other additional information the team should know.
+If yes, then a VFS Product Manager should submit a ticket for an asynchronous [Collaboration Cycle Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D). We'll respond in the GitHub ticket with the recommended Collaboration Cycle touchpoints, as well as any other additional information the team should know.
 
 ## Questions about your product
-These questions will help VSP learn more about your product and determine which practice areas and touchpoints are needed for your work.
+These questions will help Platform learn more about your product and determine which practice areas and touchpoints are needed for your work.
 
 ### 1. Will your work result in visible changes to the user experience?
 
@@ -66,7 +66,7 @@ Examples of **changes to the user flow** include:
  - Adding a new section to a form 
  - Moving from a wizard to one thing per page form model
 
-### 7. Are there any changes to urls, navigation or entry points?
+### 7. Are there any changes to urls, navigation, or entry points?
 
 Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page

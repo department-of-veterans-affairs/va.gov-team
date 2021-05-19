@@ -43,7 +43,7 @@ VFS provides:
 - Any other artifacts you have so far
 
 ## What is the outcome of this touchpoint?
-Platform reviewers will document their feedback, if applicable, in a GitHub ticket. Tickets will be made available to VFS teams no later than EOD the next business day following the meeting. In addition, OCTO-DE/Platform may:
+Platform reviewers will document their feedback, if applicable, in a GitHub ticket. Feedback tickets will be made available to VFS teams no later than EOD the next business day following the meeting. In addition, OCTO-DE/Platform may:
 
  -  Recommend applicable Design System components and/or patterns
  -  Identify needs for creating/updating Design System components and/or patterns
