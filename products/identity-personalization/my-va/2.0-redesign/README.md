@@ -249,53 +249,6 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 - Users still win with a newly designed dashboard, so we're not leaving them behind.
 - The logged in experience will continue to evolve. This is not an end game, and there are a lot of ways in which I think we can take this initial approach and continue to improve how people log in and manage their benefits.
 
-## Development
-
-### How to Access and Test
-
-[Staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
-[Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/MyVA%20-%20test%20cases.md)
-
-### API Calls and Dependent Systems
-
-The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the list of what is included as part of the My VA 2.0 redesign and what systems we rely on to get that information:
-
-**Disability rating**
-
-- **We show**: Overall disability rating
-- **Parent tool**: [View your VA disability ratings](https://www.va.gov/disability/view-disability-rating/)
-- **System that supplies this info**: [What VA system/database do we get this from?]
-
-**Claim status**
-
-- **We show**: Most recently updated claim; Overall number of open claims
-- **Parent tool**: [Claim status tool](https://www.va.gov/claim-or-appeal-status/)
-- **System that supplies this info**: [What VA system/database do we get this from?]
-
-**Secure messages (health care)**
-
-- **We show**: Latest message; Total unread messages
-- **Parent tool**: [MHV secure messaging tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight)
-- **System that supplies this info**: [What VA system/database/integration do we get this from?]
-
-**Appointments (health care)**
-
-- **We show**: Next appointment; Total upcoming appointments
-- **Parent tool**: [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/)
-- **System that supplies this info**: [What VA system/database/integration do we get this from?]
-
-**Prescription refills (health care)**
-
-- **We show**: Latest refill update for prescriptions with a status of **Active: Submitted** or **Active: Refill in process**; Total number of prescriptions with a status of **Active: Submitted** or **Active: Refill in process**
-- **Parent tool**: [MHV prescriptions tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills)
-- **System that supplies this info**: [What VA system/database/integration do we get this from?]
-
-**Applications in progress**
-
-- **We show**: Benefit applications people have started on VA.gov but have not completed
-- **Parent tool**: All benefit applications on VA.gov
-- **System that supplies this info**: VA.gov saved-in-progress applications
-
 ## Design
 
 ### Important docs
@@ -326,3 +279,4 @@ The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the lis
 
 ### After
 
+![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
