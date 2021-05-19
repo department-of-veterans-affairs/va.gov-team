@@ -14,6 +14,7 @@
 - **They want digital signature to be more pervasive**
 - Won't render in a browser; have to download it
 - **We will add info instructing users to download; I will draft the message for Content**
+   - IRS: https://www.irs.gov/forms-pubs/trouble-downloading-pdf-files
 - Maybe this is a good case for "help text"? 
 - We will want to test this to make sure people are seeing this message
 - In her next available slot, we can ask Cindy to test this
