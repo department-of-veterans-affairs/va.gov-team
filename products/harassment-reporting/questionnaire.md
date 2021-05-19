@@ -71,7 +71,8 @@ there were no comparable policies, centralized reporting mechanisms, or resource
   - People who currently handle harassment complaints? (e.g., VA HR, mental health counselors, call center representatives)
   - People who have made harassment complaints?
   - People who counsel people have been affected by harassment? 
-- Can you share the conceptual service blueprint that you've done?
+- Can you share the conceptual service blueprint that you've done? 
+  - Is it [03_11_2021 Propsed TO BE Service Experience Design (draft).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511063/03_11_2021.Propsed.TO.BE.Service.Experience.Design.draft.pdf)
 - Can you share the form prototype that Josh put together?
 - What do you already know about the Veteran/employee experience around harassment? How different for Veterans vs. VA employees? Have you created a journey map? 
 - What suggestions do you have for a landscape analysis? (i.e., large health care systems, government agencies)
