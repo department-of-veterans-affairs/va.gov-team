@@ -127,9 +127,13 @@ form. In particular, it will:
 To accomplish this, there will be four primary pieces in the routing
 sub-module:
 - [`Router` component](#router-component)
+  - Holds form state and manages routes
 - [`Chapter` component](#chapter-component)
+  - Optional component to render some additional chrome and prefix page paths
 - [`Page` component](#page-component)
+  - Renders the page contents with the back and continue buttons
 - [`Route` component](#route-component)
+  - Adds a route outside of the sequential form flow
 
 Additionally, to accommodate some common patterns on VA.gov form applications,
 Formulate will provide:
