@@ -68,6 +68,11 @@ A couple of things to know:
 Thank you for participating!
 
 
+LINK TO OPTIMAL WORKSHOP: 
+
+https://adhoc.optimalworkshop.com/questions/4t5k723z 
+
+
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
 An unmoderated study prevents bias. We need Veterans to engage with the virtual agent in as close to a realistic setting as possible, so that we can learn how they actually interact with a virtual agent when no one is providing support or guiding their thoughts. 
