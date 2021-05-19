@@ -1,6 +1,6 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated March 23, 2021
+Last updated May 19, 2021
 
 ## Communications
 
@@ -168,9 +168,7 @@ The following design goals came out of the [Personalization 2.0 strategy from 20
 
 ## OKRs & KPIs
 
-Work in progress can be found here
-
-https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
+[Please see the product outline for My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
 
 --- 
 
