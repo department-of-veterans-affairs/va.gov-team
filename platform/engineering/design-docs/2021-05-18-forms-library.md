@@ -32,10 +32,12 @@ change anything in the form. When new features for individual forms are needed,
 a change to the underlying library is required. This creates significant bloat
 in the library and makes it difficult to modify.
 
-##### Inflexibility
+##### Tightly-coupled systems
 Often, an application team will want to tweak an aspect of a form, but the only
-way to do that is by modifying the underlying library. See also [Library
-bloat](#library-bloat) above.
+way to do that is by modifying the underlying library. The system-level autonomy
+in individual forms is very limited.
+
+See also [Library bloat](#library-bloat) above.
 
 ##### Steep learning curve
 The book _Good Services_ sets forth a couple of relevant service design
