@@ -46,6 +46,7 @@ This is my best estimate on things as of when I go on leave, but please please P
 - Options for additional work:
   - **Option A**: Scope out an MVP for elevating action items; do additional discovery, design, and research if necesary; and start build.
   - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info and education info keep coming up repeatedly in research).
+  - **Option C**: If the user roles and permissions work is well defined and requires work from our team, Tressa might need to help out with that instead. Kevin will need to help the team determine this.
  
 ### VA.gov Profile: Communications permissions (notification preferences)
 
