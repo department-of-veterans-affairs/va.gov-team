@@ -1,4 +1,5 @@
-# Observation Best Practices
+# Observation Best Practices DRAFT
+** currently in review phase, not finalalized by platform**
 
 * [Who should observe](#who-should-observe)
 * [How to invite observers](#how-to-invite-observers)
