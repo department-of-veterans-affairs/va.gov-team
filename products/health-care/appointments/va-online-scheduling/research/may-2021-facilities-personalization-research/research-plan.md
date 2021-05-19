@@ -161,7 +161,7 @@ Team Roles
 
 -   Moderators: 
     -   [Peter Russo](mailto:peter.russo@adhocteam.us) - (510) 529 9874 - <peter.russo@adhocteam.us>
-    -   [Liz Lantz](mailto:liz.lantz@adhocteam.us) - liz.lantz@adhocteam.us
+    -   [Liz Lantz](mailto:liz.lantz@adhocteam.us) - (843) 898-4463 - liz.lantz@adhocteam.us
 -   Research guide writing and task development: Peter Russo, [Liz Lantz](mailto:liz.lantz@adhocteam.us)
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Peter Russo
