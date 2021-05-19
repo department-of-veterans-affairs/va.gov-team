@@ -14,6 +14,7 @@ assignees: 1Copenut, shiragoodman, noahgelman
 - [ ] Platform: Create sub-issues attached to this epic with findings. Audits are performed on a first-come-first-serve basis and are scheduled with each biweekly sprint
 - [ ] VFS: Coordinate with the VA 508 Office to address accessibility findings
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
+- [ ] VFS: Close this ticket when all steps above are completed.
 
 ## Artifacts
 - Access information for the tool or feature in staging. Do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository
