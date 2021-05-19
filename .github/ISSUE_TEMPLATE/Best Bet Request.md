@@ -28,7 +28,7 @@ assignees: <Search & Discovery Team Members/PO + PM>
    
         > date/time
  
- ### Complete corresponding section:
+ ### Please provide the following information:
 
  - [ ] Specify the **Headline** for the Best Bet *(@DanielleThierryUSDSVA or @bethpotts)
 
@@ -53,6 +53,7 @@ assignees: <Search & Discovery Team Members/PO + PM>
 > Examples: https://www.va.gov/find-locations?facilityType=health&serviceType=Covid19Vaccine_
 
         > enter url
+       
 
 
 
@@ -62,6 +63,12 @@ assignees: <Search & Discovery Team Members/PO + PM>
 Please provide a brief description of the initiative and supporting information for the creation of a best bet.  
 > ****Example:*** "The VA is working closely with the Centers for Disease Control and Prevention (CDC) and other federal partners to provide COVID-19 vaccines to Veterans and VA health care personnel. The Find a Facility tool has just added [COVID vaccine as a search category](https://www.va.gov/find-locations?facilityType=health&serviceType=Covid19Vaccine)and we want to create a Best Bet to ensure veterans seeking looking information are aware of this new tool feature."**
 
+###  Completion Dates
+ *Do you have any target  dates we should be aware of?*
+   
+        > date/time
+ 
+ ### Please provide the following information:
  - [ ] Identify the Best Bet requiring changes
 
         > associated best bet
