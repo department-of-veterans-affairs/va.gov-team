@@ -21,6 +21,7 @@ How might we help Veterans understand the opt-in process for a Board Appeal and 
 
 ## Potential Answer(s)
 1. **Lighthouse updates their Claims API to help us distinguish between claims eligible for Decision Reviews and those that are not**
+  - Scope:
   - Assumptions:
     - Time: Approximately 1 month (2 sprints)
     - [Technical] Feasibility: fair
@@ -30,6 +31,7 @@ How might we help Veterans understand the opt-in process for a Board Appeal and 
   - Advantages: complete removal of confusing opt-in language
   - Disadvantages: Discovery and development time. Untested solution.
 2. **Release NoD with language to help Veterans understand the difference in opt-in eligibility.**
+  - Scope:
   - Assumptions: 
     - Value to users: We have viable language alternative
     - [Technical] Feasibility: 
