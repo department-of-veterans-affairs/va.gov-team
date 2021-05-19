@@ -15,14 +15,13 @@
 
 ### VA.gov Profile: Preferred medical facility
 
-- Design,research, begin build
+- Design, research, begin build
 
 ### VA.gov Profile: User roles & permissions
 
-- According to Christine Dillman, the MVP use case is for dependents and the functionality they need is to view their benefit letter.
-- They are going to start scoping this feature on 5.5.21, including all discovery work that is needed.
-- It is unclear what the expectations are or will be for the profile and My VA dashboard. It is also unclear who defines that.
-- However, we can likely get Lihan in this quarter to help with discovery and integration work.
+- MVP picked: Showing benefit letters to dependents.
+- The identity team needs to define the user stories and flows that are required for the MVP.
+- Lihan will help out with backend work.
 
 ## Q3 2021 (July - September) goals
 
@@ -50,7 +49,9 @@
 
 ### VA.gov Profile: User roles & permissions
 
-- We'll hopefully have greater clarity on how this work will impact our team in this quarter soon.
+- If it was not done in Q2, the identity team needs to define the user stories and flows for the MVP and communicate these to the auth experience team.
+- Based on these user flows, we will determine what, if any, updates need to happen to the VA.gov profile and My VA dashboard as a result.
+  -  **Note**: You do not have to be a Veteran to have a profile or dashboard. Currently, anyone can log in and see a profile and dashboard even if they aren't a Veteran. Create an account in prod and try it for yourself! I say this because **the user roles and permissions work might not require profile and My VA work**. Please let legitimate user flows/stories guide whether we need to make updates to these sections at this time. 
 
 ## Q4 2021 (October - December) goal
 
@@ -62,11 +63,13 @@
 
 ### VA.gov Profile: Communications permissions (notification preferences)
 
-- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
+- Launch this work if it didn't launch in Q3
+- [Monitor analytics and track metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences#measuring-success)
 
 ### VA.gov Profile: Preferred medical facility
 
-- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
+- Launch this work if it didn't launch in Q3
+- [Monitor analytics and track metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/preferred-facility#measuring-success)
 
 ### VA.gov Profile: User roles & permissions
 
