@@ -1,13 +1,13 @@
 # VA.gov profile roadmap
 
-**Updated April 2021**
+**Updated May 2021**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Design |
-| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Design; Backend implementation |
+|[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Design; Usability testing |
+| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Design; Frontend implementation |
 
 ### Projected timelines for current projects & enhancements
 
@@ -15,12 +15,13 @@
 |----|----|----|----|----|----|
 |**Preferred facility for VA.gov profile**| Begin design towards end of quarter | Design; testing; FE build; QA | Pre-launch; launch | — |
 |**VA Profile: Notification preferences**| Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | - |
-|**User roles & permissions**| - | Potentially assist identity team with some discovery | Collab with identity team; details TBD | TBD | TBD |
+|**User roles & permissions**| - | Potentially assist identity team with some discovery | Collab with identity team; Determine if any updates are needed for MVP | TBD | TBD |
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Status|
 |----|----|
+|[Add contact info FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)| Launched April 2021|
 |[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Launch completed April 2021 |
 |[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launch completed October 2020|
 |[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020||
@@ -41,16 +42,12 @@ These are considered high priority because other teams are actively planning dev
 |Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary profile updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |
 |Integrate MHV profile data points into VA.gov profile | MHV | 2.10.21 | MHV would like to point all of their users to VA.gov instead of maintaining their own profile. Active converstions with VA.gov and VA Profile are beginning Feb 2021. |
 
-
 #### Easy enhancements we could knock out when we have time 
-
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Add email confirmation for address updates |Auth experience | 2020 | This would be added for security reasons since fraudsters may try to change people's addresses as part of hacking direct deposit info. [Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383)|
 |Link to DD214 info from Military information section of the profile| Auth exp| 2020| "DD214" is a top search term from the profile, indicating people expect to find this information here. [Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11053) |
-|Add contact info FAQ| Auth exp | 2.19.21 | This would be a really easy update we should have and could knock out quickly. [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)|
-
 
 #### Additional projects and requests
 
