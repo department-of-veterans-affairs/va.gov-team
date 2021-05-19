@@ -24,6 +24,7 @@
 # Implementation Information
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
+- [Product Decisions](#product-decisions)
 - [Team](#team)
 - [Resources and Documentation](#resources-and-documentation)
 - [Screenshots](#screenshots)
@@ -103,6 +104,8 @@ TBD
 
 ## Solution Narrative
 - TBD
+
+## Product Decisions
 
 ## Team
 
