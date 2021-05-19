@@ -5,7 +5,16 @@
 ### Q2 2021 (April – June) goals
 
 - **My VA 2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
-- [Run experiment on elevating action items]()
+- Run experiment(s) on how we can better elevate action items
+  - **When**: End of Q2 and early Q3
+  - **Objectives**: Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
+  - **Additional info**: Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy. The debt management team has been reaching out to us since spring 2021 about adding a debt-related notification to My VA. This could be something to consider in any experiments or updates. Or, we already have two notifications on the dashboard — "You have X unread messages" and claim status updates. These could also be good starting points.
+  - **Potential plan**
+    - Short discovery on how action items are surfaced on other websites/tools. There may already be some good documentation on this from Liz's initial My VA discovery.
+    - Low-fi sketching/mockups: Iterate on a few ideas. Also think about how or if this might change the current design, and in what ways.
+    - Figure out best method for testing — is it usability testing? Click testing? Moderated or unmoderated?
+    - Run research.
+    - Write up and recommendations for potential implementation into the My VA experience.
 
 ### Q3 2021 (July - September) goals*
 
@@ -14,27 +23,6 @@
   - [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
 
 - **Q4 2021 (October - December) goal**: Determine next steps after Samara gets back
-
-#### Run experiment(s) on how we can better elevate action items
-
-**When**: End of Q2 and early Q3
-
-**Objectives**:
-- Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
-
-**Additional info**: 
-
--	Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy.
--	The debt management team has been reaching out to us since spring 2021 about adding a debt-related notification to My VA. This could be something to consider in any experiments or updates.
--	We already have two notifications on the dashboard — "You have X unread messages" and claim status updates. These could also be good starting points.
-
-**Potential plan**
-
-- Short discovery on how action items are surfaced on other websites/tools. There may already be some good documentation on this from Liz's initial My VA discovery.
-- Low-fi sketching/mockups: Iterate on a few ideas. Also think about how or if this might change the current design, and in what ways.
-- Figure out best method for testing — is it usability testing? Click testing? Moderated or unmoderated?
-- Run research.
-- Write up and recommendations for potential implementation into the My VA experience.
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
