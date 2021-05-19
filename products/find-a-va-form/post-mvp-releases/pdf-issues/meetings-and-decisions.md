@@ -7,13 +7,13 @@
 
 ### Notes
 - We are an Adobe shop
-- Moving back to Acroforms is a step
+- Moving back to Acroforms is a step backward from the direct the VA is taking
 - VHA - Josh Hardy, Janel Keyes, Frances O'Donnell
 - NCA - Cynthia Harvey-Pryor
-1) VA uses Adobe Forms Manager (XFA)
-2) They want digital signature to be more pervasive
+- **VA uses Adobe Forms Manager (XFA)**
+- **They want digital signature to be more pervasive**
 - Won't render in a browser; have to download it
-3) We will add help text I will draft the message. 
+- **We will add info instructing users to download; I will draft the message for Content**
 - Maybe this is a good case for "help text"? 
 - We will want to test this to make sure people are seeing this message
 - In her next available slot, we can ask Cindy to test this
