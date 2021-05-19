@@ -3,3 +3,4 @@ When a veteran is applying for disability benefits (form 21-526EZ on VA.gov), ea
 This number is not considered PII and would be quite helpful in troubleshooting why a veteran can not progress in the form or sees an error message when they submit. 
 
 `*` we may refer to the “application ID number” as the “In-progress form id” internally
+![application_id_screenshot.png](application_id_screenshot.png)
