@@ -17,7 +17,7 @@ VFS Lead Engineer or Product Manager submits a [Privacy and Security Review tick
 VFS brings:
 - Lead engineer (required)
 - Product manager (required)
-- DEPO product lead (required)
+- OCTO-DE product lead (required)
 - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
 
 Platform brings:
