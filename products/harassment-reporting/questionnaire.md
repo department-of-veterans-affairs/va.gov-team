@@ -66,7 +66,18 @@ there were no comparable policies, centralized reporting mechanisms, or resource
   
   
   
-- Questions List
+- What use cases are in scope, and what information do you have on them? (e.g., sexual harassment, sexual assault, racial/civil rights violations, bullying)
+- Who has Perdita's team talked to and what did they learn? 
+  - People who currently handle harassment complaints? (e.g., VA HR, mental health counselors, call center representatives)
+  - People who have made harassment complaints?
+  - People who counsel people have been affected by harassment? 
+- Can you share the conceptual service blueprint that you've done?
+- Can you share the form prototype that Josh put together?
+- What do you already know about the Veteran/employee experience around harassment? How different for Veterans vs. VA employees? Have you created a journey map? 
+- What suggestions do you have for a landscape analysis? (i.e., large health care systems, government agencies)
+  - HHS? 
+  - DMV (state government)?
+  - Kaiser? Providence? Legacy?
 </details>
 
 
