@@ -158,7 +158,9 @@ VA medical center(*Required) _(dropdown)_
 Would you like to apply for benefits for a Primary Family Caregiver?(*Required)
 
 Learn more about who qualifies as a Primary Family Caregiver? _(more info)_
+
 Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran.
+
 They can be the Veteran's:
 - Parent
 - Spouse
@@ -255,7 +257,9 @@ Does the Primary Family Caregiver applicant have health care coverage, such as M
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666485/simulate/sitemap?mode=i)
 
 Learn more about who qualifies as a Secondary Family Caregiver _(more info)_
+
 Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Secondary Family Caregiver generally serves as a backup to the Primary Family Caregiver.
+
 They can be the Veteran's:
 - Parent
 - Spouse
@@ -482,7 +486,9 @@ Veteran's full name (*Required)
 Please review information entered into this application. The Representative and each family caregiver applicant must sign the appropriate section.
 
 **Veteran's statement of truth**
+
 **Signed by the Veteran’s legal representative on behalf of the Veteran.**
+
 I certify that I give consent to the individual(s) named in this application to perform personal care services for me (or if the Veteran’s Representative, the Veteran) upon being approved as a Primary and/or Secondary Family Caregiver(s) in the Program of Comprehensive Assistance for Family Caregivers.
 
 I have read and accept the privacy policy. _(link)_
@@ -514,6 +520,7 @@ Primary Family Caregiver applicant’s full name (*Required)
 _(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
 
 **Secondary Family Caregiver applicant’s statement of truth** _(if applicable)_
+
 I certify that I am at least 18 years of age.
 
 I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver.
@@ -531,6 +538,7 @@ Secondary Family Caregiver applicant’s full name (*Required)
 _(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
 
 **Secondary Family Caregiver (2) applicant’s statement of truth** _(if applicable)_
+
 I certify that I am at least 18 years of age.
 
 I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver.
@@ -552,6 +560,7 @@ _(checkbox)_ I certify the information above is correct and true to the best of 
 [<<Back]   [Submit application>>]
 
 ## You've successfully submitted your application
+
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666521/simulate/sitemap?mode=i)
 
 Once we’ve reviewed your application, a Caregiver Support Coordinator will contact you to discuss next steps.
