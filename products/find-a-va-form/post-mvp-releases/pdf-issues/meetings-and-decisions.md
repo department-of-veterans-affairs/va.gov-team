@@ -12,16 +12,16 @@
 ## Notes
 - John gave a quick overview of the Find a VA Form tool
 - John gave a background of the issues we've been seeing
-- Is our current guidance correct?  Are there some subleties missing? 
-- Robert touts XFA as a great technology
+- John asked if our current guidance is correct?  Are there some subleties missing? 
+- Robert stated XFA is a great technology; glad they are using
 - I explained the issues we're seeing with forms that have signatures
 - Robert asked if we are using signatures
 - Acroform - created with Acrobat
 - We would want to understand 
-- Allmond - said they are using extensions
+- Yvette - confirmed they are using extensions
 - When you reader extend the PDF, the person would need to download it and use Adobe Reader to actually sign that. 
 - There are a couple of different kinds of signatures - does it have to be certificate back, or electronic? Once you've download the PDF locally, if it's reader extended, you can open in Acrobat and sign it.  If you open it through the browser, the browser support for that is spotty; especially when you talk about different browsers. 
-- Chrome is no longer supporting the extension that allows you to save it.  But you could save it in Reader if it's been extended.
+- **Chrome is no longer supporting the extension that allows you to save it.**  But you could save it in Reader if it's been extended.
 - Reader is free.  There is no license requirement for the user.
 - We will provide some help text on the product that is browser-based. 
 - Emily - for the XFA forms in Chrome - is the requirement that they have to download?  Robert - typically, to be able to save the PDF is to download it locally. 
