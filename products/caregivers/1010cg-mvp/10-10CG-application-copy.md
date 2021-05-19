@@ -23,9 +23,9 @@ Download VA form 10-10CG(PDF) (934KB) _(link)_
 **What if I have questions or need help filling out the form?**
 
 If you have a question or need help, you can contact us in any of these ways:
-- Call us at855-488-8440and ask for help filling out the form
-- Use the onlineCaregiver Support Coordinator locatorto find a coordinator at your nearest VA health care facility
-- Contact the VA National Caregiver Support Line by calling855-260-3274
+- Call us a t855-488-8440and ask for help filling out the form
+- Use the online Caregiver Support Coordinator locator to find a coordinator at your nearest VA health care facility
+- Contact the VA National Caregiver Support Line by calling 855-260-3274
 
 What's a Caregiver Support Coordinator? _(more info)_
 
@@ -55,7 +55,7 @@ OMB Control #: 2900-0768
 
 Expiration date: 04/30/2024
 
-Privacy Act Statement _link_
+Privacy Act Statement (_link_)
 
 **Need help?**
 
@@ -112,7 +112,7 @@ Street address line 2
 
 City (*Required)
 
-State (*Required) _dropdown_
+State (*Required) _(dropdown)_
 
 Postal code (*Required)
 
@@ -426,8 +426,8 @@ Do you have a legal representative document you’d like to share with us?
 What type of document does a legal representative need? _(more info)_
 
 To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
-- Power of attorney,**or**
-- Legal guardianship order,**or**
+- Power of attorney, **or**
+- Legal guardianship order, **or**
 - Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
 
 Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
@@ -452,8 +452,8 @@ A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large f
 What type of document does a legal representative need? _(more info)_
 
 To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
-- Power of attorney,**or**
-- Legal guardianship order,**or**
+- Power of attorney, **or**
+- Legal guardianship order, **or**
 - Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
 
 Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
