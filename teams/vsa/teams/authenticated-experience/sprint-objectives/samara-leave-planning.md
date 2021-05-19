@@ -11,11 +11,14 @@
  
 ### VA.gov Profile: Communications permissions (notification preferences)
 
-- Get final details from VA Profile, design, build
+- Work with VANotify/VEText to define items and groups
+- Design and research
+- Start build
 
 ### VA.gov Profile: Preferred medical facility
 
-- Design, research, begin build
+- Design and research
+- Begin build
 
 ### VA.gov Profile: User roles & permissions
 
@@ -37,12 +40,16 @@
 
 ### VA.gov Profile: Communications permissions (notification preferences)
 
+- Complete build
+- QA and all pre-launch checklist items
 - Launch MVP of communication permissions (notification preferences)
 
 **Note**: This work is dependent on VA Profile, VANotify, and VEText meeting their own milestones. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
 ### VA.gov Profile: Preferred medical facility
 
+- Complete build
+- QA and all pre-launch checklist items
 - Launch preferred medical facility functionaity before end of the quarter
 
 **Note**: This is a cross-team effort with VAOS. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
