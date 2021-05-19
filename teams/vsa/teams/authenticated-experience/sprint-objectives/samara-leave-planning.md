@@ -67,7 +67,7 @@ This is my best estimate on things as of when I go on leave, but please please P
 - Based on these user flows, we will determine what, if any, updates need to happen to the VA.gov profile and My VA dashboard as a result.
   -  **Note**: You do not have to be a Veteran to have a profile or dashboard. Currently, anyone can log in and see a profile and dashboard even if they aren't a Veteran. Create an account in prod and try it for yourself! I say this because **the user roles and permissions work might not require profile and My VA work**. Please let legitimate user flows/stories guide whether we need to make updates to these sections at this time. 
 
-## Q4 2021 (October - December) goal
+## Q4 2021 (October - December) goals
 
 **Samara will be back at the beginning of this quarter**.
 
