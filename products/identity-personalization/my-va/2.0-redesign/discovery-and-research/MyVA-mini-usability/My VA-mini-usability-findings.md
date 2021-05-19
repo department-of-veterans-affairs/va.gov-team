@@ -58,6 +58,8 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
 -  Notifications (6/6)
 -  Payment history (3/6)
 -  Customizeable dashboard (3/6)
+  - One user said he wanted to be able to choose 'hot links' to get to things that he used the most. When asked what those were, he said he'd want and easy way to see his payment history, and options around dependent information.
+  - One user said he'd like to be able to choose what financial information shows on his page.  
 -  Dependent information (1/6) 
 
 
@@ -76,4 +78,6 @@ We ran 6 moderated sessions on Zoom with internal colleagues who are also Vetera
   - One user who is not enrolled in health care, but IS registered at some VA health facilities so he see health care.
   - One user is enrolled in health care, hasn't used it in a while, so she is unsure of her status
 - How do we make a dashboard more useful to people who don't have health care or claims? What would they use a dashboard for?
+- Do we *actually* need a customizeable dashboard? Or will that resolve once we can provide a more personalized experience?
 - How do we test with real data earlier on in a project?
+
