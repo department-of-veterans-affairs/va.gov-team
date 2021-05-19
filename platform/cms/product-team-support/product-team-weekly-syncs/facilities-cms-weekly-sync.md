@@ -25,17 +25,40 @@
 
 
 ## Wednesday May 19
+
+Vet Center
 * Vet Center training and adding users
-* React widget audit
-* Menu governance
-* Dry run for Vet Center launch
-* Tugboat user stories for Facilities for Vet Center
+  * 8 out of 10 outreach specialists confirmed, 2:30pm-4pm ET Monday, will be using Training environment (tugboat) so unaffected by prod deploy at 3:30pm ET. Joe and Troy will not attend.
+  * Vet Center Directors? Facilities team will take this as an action item. But 8 is already a good number for training. We may want to _consider_ a 2nd training for directors. Would be a later sprint.
+  * Next 60 Vet Centers: start with a kickoff with a content deck, headsup about training, will include directors. 
+  * 10 editors are publishers on prod as editor, will be unblocked after training, and permissions elevated only after content is bulk published by Facilities team. 
+* Dry run for Vet Center launch - not neeeded, it's been done repeatedly with Escanaba on Tugboat
+* Tugboat user stories for Facilities for Vet Center. 
+  * Tugboat support requests via #cms-support 
+
+VAMC
+* React widget audit report (#2920 CMS)
+  * VAMC upgrade team has report on broken widgets for existing VAMC sites
+  * Facilities meeting with Public Weblic websites about ownership
+  * CMS issue to remove React widget from VAMC Detail page content type post-hardening of Medical Records, Pharmacy, and Make an appointment. 
+  * CMS issue: Rename "Detail page" to "VAMC Detail Page". 
+  * CMS issue: Improve User guide and training for VAMC Detail pages. 
+  * CMS issue: Improve VAMC Detail Page (remove certain paragraph types). 
 * Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
-  -  Facilities team: remove falllback logic [#24175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24175)
+  -  Facilities team: remove fallback logic [#24175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24175)
+  -  Discuss Cheyenne issue with VAMC upgrade
+  -  CMS issue to add a service location retroactively #5387, and moving forward in migrations #5273
 * Orphan staff profiles 
-  - profiles appear on the sitemap and in Google alerts even if not linked 
+  - profiles appear on the sitemap and in Google alerts even if not linked (eg from Leadership)
   - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
-* 10 facility limit?
+  - CMS epic: Tools to support stand-alone vs not-standalone stafff profiles 
+    - Discovery issue to work with Facilities to determine implications for various parts of product (mini-profiles, leadership page, etc).
+* 10 facility limit
+  * eg Minneapolis in dual state
+  * Atlanta and Florida have 20+
+* Menu governance #2427 runbook
+
+
 
 ## Wednesday May 12
 
