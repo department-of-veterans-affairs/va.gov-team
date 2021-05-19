@@ -27,7 +27,7 @@ When you’re ready to start the Collaboration Cycle process, submit our kickoff
 Once submitted, we'll comment on the ticket with the recommended Collaboration Cycle touchpoints, as well as what practice areas will be involved in your reviews. Those recommended touchpoints will also be added to our tracking spreadsheet (linked below) for reference. 
 
 ### 3. Prepare for and schedule your touchpoints
-When you’re ready to schedule your recommended touchpoints, review the guidelines outlined in each of the touchpoints below to prepare. Then use our Platform Collaboration Meeting Calendar (linked below) to find a time.  
+When you’re ready to schedule your recommended touchpoints, review the guidelines outlined in each of the touchpoints below to prepare. Then use our Platform Collaboration Meetings Calendar (linked below) to find a time.  
 
 Guidance for each touchpoint:
    
