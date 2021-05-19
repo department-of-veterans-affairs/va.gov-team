@@ -2,6 +2,8 @@
 
 ## Q2 2021 (April – June) goals
 
+**Samara will be out at the end of this quarter**.
+
 ### My VA
 
 - **2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
@@ -32,7 +34,9 @@
 - It is unclear what the expectations are or will be for the profile and My VA dashboard. It is also unclear who defines that.
 - However, we can likely get Lihan in this quarter to help with discovery and integration work.
 
-## Q3 2021 (July - September) goals*
+## Q3 2021 (July - September) goals
+
+**Samara will be out for most of this quarter**.
 
 ### My VA
 
@@ -59,6 +63,8 @@
 - We'll hopefully have greater clarity on how this work will impact our team in this quarter soon.
 
 ## Q4 2021 (October - December) goal
+
+**Samara will be back at the beginning of this quarter**.
 
 ### My VA
 
