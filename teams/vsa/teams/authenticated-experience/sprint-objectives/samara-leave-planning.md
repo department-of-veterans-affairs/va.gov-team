@@ -1,10 +1,10 @@
 # Long term planning for Samara's maternity leave
 
-## My VA
+## Q2 2021 (April – June) goals
 
-### Q2 2021 (April – June) goals
+### My VA
 
-- **My VA 2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
+- **2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
 - Run experiment(s) on how we can better elevate action items
   - **Objectives**: Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
   - **Additional info**
@@ -17,7 +17,24 @@
     - Run research.
     - Write up and recommendations for potential implementation into the My VA experience.
 
-### Q3 2021 (July - September) goals*
+### VA.gov Profile: Communications permissions (notification preferences)
+
+- Get final details from VA Profile, design, build
+
+### VA.gov Profile: Preferred medical facility
+
+- Design,research, begin build
+
+### VA.gov Profile: User roles & permissions
+
+- According to Christine Dillman, the MVP use case is for dependents and the functionality they need is to view their benefit letter.
+- They are going to start scoping this feature on 5.5.21, including all discovery work that is needed.
+- It is unclear what the expectations are or will be for the profile and My VA dashboard. It is also unclear who defines that.
+- However, we can likely get Lihan in this quarter to help with discovery and integration work.
+
+## Q3 2021 (July - September) goals*
+
+### My VA
 
 - **My VA 2.0 redesign**: Complete launch
 - [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
@@ -25,55 +42,36 @@
   - **Option A**: Scope out an MVP for elevating action items, and start build.
   - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info; education info; other benefit info, etc).
 
-### Q4 2021 (October - December) goal
-
-- Determine next steps after Samara gets back
-
-## VA.gov Profile: Communications permissions (notification preferences)
-
-### Q2 2021 (April – June) goal
-
-- Get final details from VA Profile, design, build
-
-### Q3 2021 (July - September) goal
+### VA.gov Profile: Communications permissions (notification preferences)
 
 - Launch MVP of communication permissions (notification preferences)
 
-### Q4 2021 (October - December) goal
+**Note**: This work is dependent on VA Profile, VANotify, and VEText meeting their own milestones. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
 
-- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
-
-**Note**: This is dependent on VA Profile being ready and getting us the things we need.
-
-[Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
-
-## VA.gov Profile: Preferred medical facility
-
-### Q2 2021 (April – June) goal
-
-- Design,research, begin build
-
-### Q3 2021 (July - September) goal
+### VA.gov Profile: Preferred medical facility
 
 - Launch preferred medical facility functionaity before end of the quarter
 
-### Q4 2021 (October - December) goal
+**Note**: This is a cross-team effort with VAOS. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
+
+### VA.gov Profile: User roles & permissions
+
+- We'll hopefully have greater clarity on how this work will impact our team in this quarter soon.
+
+## Q4 2021 (October - December) goal
+
+### My VA
+
+- Determine next steps after Samara gets back
+
+### VA.gov Profile: Communications permissions (notification preferences)
 
 - Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
-[Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
+### VA.gov Profile: Preferred medical facility
 
-## VA.gov Profile: User roles & permissions
+- Launch this work if it didn't launch in Q3; Otherwise, monitor analytics
 
-### Q2 2021 (April - June)
+### VA.gov Profile: User roles & permissions
 
-What we know so far:
-
-- According to Christine Dillman, the MVP use case is for dependents and the functionality they need is to view their benefit letter.
-- They are going to start scoping this feature on 5.5.21, including all discovery work that is needed.
-- It is unclear what the expectations are or will be for the profile and My VA dashboard. It is also unclear who defines that.
-- However, we can likely get Lihan in this quarter to help with discovery and integration work.
-
-### Q3 2021 (July - September)
-
-- We'll hopefully have greater clarity on how this work will impact our team in this quarter soon.
+- TBD
