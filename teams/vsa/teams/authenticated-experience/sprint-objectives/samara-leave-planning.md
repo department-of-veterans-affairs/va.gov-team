@@ -20,10 +20,14 @@
 ### Q3 2021 (July - September) goals*
 
 - **My VA 2.0 redesign**: Complete launch
-- Monitor post-launch analytics
-  - [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
+- [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
+- Options for additional work:
+  - **Option A**: Scope out an MVP for elevating action items, and start build.
+  - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info; education info; other benefit info, etc).
 
-- **Q4 2021 (October - December) goal**: Determine next steps after Samara gets back
+### Q4 2021 (October - December) goal
+
+- Determine next steps after Samara gets back
 
 ## VA.gov Profile: Communications permissions (notification preferences)
 
