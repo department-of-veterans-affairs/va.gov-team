@@ -10,7 +10,7 @@ assignees: Public Websites, brianalloyd
 ## Why you're here 
 
 ### Engineering support for:
-- Redirects that have **first been vetted by the Platform Product Support team**
+- Redirects that have **first been vetted by the Platform Product Support team**. [Redirect Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=vsp-product-support%2C+ia&template=redirect-request.md&title=Redirect+Request)
 - REACT sign-in widgets or feature flags (flipper)
 - Other engineering support from the Public Websites Team
 
@@ -44,7 +44,7 @@ Please submit all engineering requests **at least 1 full sprint in advance** (so
 
 - [ ] **New URL or redirect requests**
    * **Have you vetted this request by the Platform Product Support team?:** 
-     - < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
+     - < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on Platform Product Support. [Redirect Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=vsp-product-support%2C+ia&template=redirect-request.md&title=Redirect+Request)
    * **Link to redirect request ticket:** 
      - < Github issue link >
    
