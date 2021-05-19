@@ -6,7 +6,6 @@
 
 - **My VA 2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
 - Run experiment(s) on how we can better elevate action items
-  - **When**: End of Q2 and early Q3
   - **Objectives**: Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
   - **Additional info**
     - Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy. 
