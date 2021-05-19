@@ -28,7 +28,7 @@ How might we help Veterans understand the opt-in process for a Board Appeal and 
     - Organizational Viability/Constraints:
     - Value to users: 
   - Evidence this will work:
-  - Advantages: complete removal of confusing opt-in language
+  - Advantages: will not even show opt-in to some users (if user has no legacy issues), allowing users to see what issues may be legacy/need to be opted-in, in context to the opt-in checkbox and instructions
   - Disadvantages: Discovery and development time. Untested solution.
 2. **Release NoD with language to help Veterans understand the difference in opt-in eligibility.**
   - Scope:
@@ -39,7 +39,7 @@ How might we help Veterans understand the opt-in process for a Board Appeal and 
     - Value to users: 
   - Evidence this will work:
   - Advantages: Faster MVP
-  - Disadvantages: Language may still be confusing for veterans
+  - Disadvantages: Users who do not need to opt-in will still be asked to do so, language and lack of context will likely be confusing to veterans - this may result in drop-offs, calls to VA, need for assistance, etc (as was discovered in testing)
 
 <sup>1</sup> https://benefits.va.gov/benefits/appeals.asp
 
