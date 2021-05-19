@@ -341,9 +341,11 @@ Would you like to apply for benefits for another Secondary Family Caregiver?
 
 [<<Back]   [Continue>>]
 
-## Step 4 of 6: Secondary Family Caregiver's (2) applicant information
+## Step 4 of 6: Secondary Family Caregiver (2) applicant information
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666488/simulate/sitemap?mode=i)
+
+Please complete the following information about the Secondary Family Caregiver (2).
 
 Secondary  Family Caregiver’s (2) first name (*Required)
 
@@ -363,6 +365,7 @@ Secondary Family Caregiver’s (2) sex
 
 [<<Back]   [Continue>>]
 
+## Step 4 of 6: Secondary Family Caregiver (2) applicant information
 
 **Contact information**
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666489/simulate/sitemap?mode=i)
