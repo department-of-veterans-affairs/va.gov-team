@@ -16,7 +16,7 @@ VFS Product Manager submits a [Staging Review ticket](https://github.com/departm
 ## Who attends this touchpoint?
 VFS brings:
    - Product manager (required)
-   - DEPO product lead (recommended)
+   - OCTO-DE product lead (recommended)
    - Anyone else from your team who significantly contributed to the artifacts provided (required)
    - Content, IA, accessibility, and QA specialists (if applicable)
    
@@ -27,7 +27,7 @@ Platform brings (when applicable):
    - QA
    - Product
    - Information architecture
-   - Platform’s DEPO co-leads
+   - Platform’s OCTO-DE co-leads
    - Analytics (optional)
 
 ## What artifacts do I provide?
