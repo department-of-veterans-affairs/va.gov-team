@@ -276,7 +276,7 @@ No
 
 [<<Back]   [Continue>>]
 
-## Step 3 of 5: Secondary Family Caregiver applicant information
+## Step 3 of 5: Secondary Family Caregiver applicant information _(if applicable)_
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666486/simulate/sitemap?mode=i)
 
@@ -345,7 +345,7 @@ Would you like to apply for benefits for another Secondary Family Caregiver?
 
 [<<Back]   [Continue>>]
 
-## Step 4 of 6: Secondary Family Caregiver (2) applicant information
+## Step 4 of 6: Secondary Family Caregiver (2) applicant information _(if applicable)_
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666488/simulate/sitemap?mode=i)
 
@@ -369,7 +369,7 @@ Secondary Family Caregiver’s (2) sex
 
 [<<Back]   [Continue>>]
 
-## Step 4 of 6: Secondary Family Caregiver (2) applicant information
+## Step 4 of 6: Secondary Family Caregiver (2) applicant information 
 
 **Contact information**
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666489/simulate/sitemap?mode=i)
@@ -432,7 +432,7 @@ To show that you’re the Veteran’s legal representative, you’ll need to upl
 
 Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
 
-# If Yes. I want to upload my document now. 
+# (If Yes. I want to upload my document now.) 
 
 ## Step 5 of 6: Representative document
 
@@ -467,7 +467,7 @@ Note: Being a Veteran’s closest family member or next of kin doesn’t mean yo
 
 _(Review accordions)_
 
-# If Veteran signing
+# (If Veteran signing)
 
 Please review information entered into this application. The Veteran and each family caregiver applicant must sign the appropriate section.
 
@@ -481,7 +481,7 @@ Veteran's full name (*Required)
  
  _(checkbox)_ I certify the information above is correct and true to the best of my knowledge and belief.(*Required)
  
- # If Veteran's REpresentative is signing
+ # (If Veteran's Representative is signing)
 
 Please review information entered into this application. The Representative and each family caregiver applicant must sign the appropriate section.
 
