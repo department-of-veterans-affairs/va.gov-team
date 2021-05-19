@@ -6,7 +6,11 @@
 
 ### My VA
 
-- **2.0 redesign**: Finish build; QA; VSP reviews; UAT; Begin phased launch
+- **2.0 redesign**
+  - Finish build
+  - QA and VSP reviews
+  - UAT
+  - Begin phased launch
 - [Run experiment(s) on how we can better elevate action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery)
  
 ### VA.gov Profile: Communications permissions (notification preferences)
@@ -32,7 +36,8 @@
 
 ### My VA
 
-- **My VA 2.0 redesign**: Complete launch
+- **My VA 2.0 redesign**
+  - Complete phased launch
 - [Track My VA 2.0 project KPIs for 3 month post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
 - Options for additional work:
   - **Option A**: Scope out an MVP for elevating action items, and start build.
@@ -42,6 +47,7 @@
 
 - Complete build
 - QA and all pre-launch checklist items
+- UAT
 - Launch MVP of communication permissions (notification preferences)
 
 **Note**: This work is dependent on VA Profile, VANotify, and VEText meeting their own milestones. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
@@ -50,6 +56,7 @@
 
 - Complete build
 - QA and all pre-launch checklist items
+- UAT
 - Launch preferred medical facility functionaity before end of the quarter
 
 **Note**: This is a cross-team effort with VAOS. [Here is the estimated long term plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx). Please feel free to adjust as necessary given reality as time goes on.
