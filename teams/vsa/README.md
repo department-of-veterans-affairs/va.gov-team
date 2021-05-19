@@ -6,13 +6,13 @@
 ### Slack Channels
 - #vsa
 - [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
-- [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
+- [#vsa-claims-appeals](https://dsva.slack.com/channels/vsa-claims-appeals)
 - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
-- [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
+- [#vsa-debt](https://dsva.slack.com/channels/vsa-debt)
 - [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
 - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
 - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
-- [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
+- [#vsa-ebn-migration](https://dsva.slack.com/channels/vsa-ebn-migration)
 - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
 - [#vsa-product](https://dsva.slack.com/channels/vsa-product) (product management-specific)
 - [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)
