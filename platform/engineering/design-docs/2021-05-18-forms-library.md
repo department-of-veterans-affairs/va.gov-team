@@ -183,7 +183,9 @@ _None_
 **Responsibilities:**
 1. Provide a [React Context](https://reactjs.org/docs/context.html) with the
    form state
-    - `Page` will use this as the page's
+    - When the user navigates to a new page, the page state will be deeply
+      merged with the form state in the React Context
+    - `Page` will use the form data from the form state as the page's
       [`initialValues`](https://formik.org/docs/api/formik#initialvalues-values)
       - This is because each page is a separate Formik form, so the `Router` is
         responsible for stitching all these individual forms together into one
@@ -206,6 +208,10 @@ _None_
     - This ensures any data changes that might affect the routes are captured
 1. Provide callbacks in the React Context to navigate forward and backward
    through the list of computed routes
+    - The functions for navigating forward and backward will merge page state
+      into the form state in the React Context
+    - The function to navitate forward will prevent navigation if there are
+      validation errors
 
 ##### `Chapter` Component
 **Purpose:**
