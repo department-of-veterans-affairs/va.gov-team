@@ -27,7 +27,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Participants feel that obtaining healthcare through the VA should be easier**
-- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application is intended to disqualify them and would like this application to be simpler. Some POAs find the questions about Service history particularly difficult to find the answers to, especially when the Veteran has congnitive/PTSD/TBI- related injuries.
+- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application is intended to disqualify them and would like this application to be simpler. Some POAs find the questions about Service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries.
 > Quote (if relevant)
 
 
