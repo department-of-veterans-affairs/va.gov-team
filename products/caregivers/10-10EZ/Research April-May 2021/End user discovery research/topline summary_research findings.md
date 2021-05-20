@@ -51,12 +51,12 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 > Quote (if relevant)
 
 
-**Medicaid and Medicare related questions**
-- Many participants did not know how to answer these questions (even when reading the more information component). Some wished they could answer, "I don't know." Some said they would have to stop and research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
+**Medicaid and Medicare related questions don't provide enough details**
+- Many participants did not know how to answer these questions (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
 > Quote (if relevant)
 
 
-**Preferred method of communication**
+**There is uncertainty about how the applicant will be contacted and a desire to be able to specify preffered contact method**
 - Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
 > Quote (if relevant)
 
