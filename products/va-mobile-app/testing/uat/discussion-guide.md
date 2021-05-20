@@ -20,7 +20,7 @@ Great. Before we start, there are a few more things I want to mention:
     - Are you comfortable sharing your screen with your personal information such as (birth date, address, health info) on it today with us on this call? 
     - Do you have any questions about this?
 - If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time. 
-- Again, the main goal today is to verify the app we built is showing correct information. However, if we have time at the end and we want to hear any feedback you have. We will not be offended by any opinions you express. 
+- Again, the main goal today is to verify the app we built is showing correct information. However, if we have time at the end we want to hear any feedback you have. We will not be offended by any opinions you express. 
 
 Those are all the logistics. Do you have any questions for me before we get started?
 
