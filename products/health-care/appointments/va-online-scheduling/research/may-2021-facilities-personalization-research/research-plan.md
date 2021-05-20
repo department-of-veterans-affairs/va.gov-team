@@ -1,5 +1,5 @@
-Facilities personalization research plan [DRAFT]
-================================================
+Facilities personalization research plan
+=========================================
 
 Goals
 -----
