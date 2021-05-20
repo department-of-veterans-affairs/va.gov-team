@@ -29,7 +29,6 @@ In general, participants found the 10-10EZ's length acceptable, but confusion an
 
 **Participants feel that obtaining healthcare through the VA should be easier**
 - Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application are intented to disqualify them.
-- These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
 
@@ -70,7 +69,6 @@ In general, participants found the 10-10EZ's length acceptable, but confusion an
 
 **Opportunities in content**
 - Some information is redunant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. People are unsure about what information to provide in some financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more obvious information about this.
-- These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
 
