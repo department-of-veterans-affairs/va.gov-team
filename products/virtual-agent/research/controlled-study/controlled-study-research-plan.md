@@ -18,20 +18,18 @@ We hope to gather the following qualitative insights:
 
 - Was the chatbot able to answer your questions overall?
 - How many questions were given accurate responses?
-- Did the chatbot’s response correctly match your intent? 
+- Did the chatbot’s response correctly match your intent?
 - If the chatbot wasn’t able to answer your question, how did that make you feel?
-- Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to not sign in and just ask general questions (i.e. location of VA facility)?
+- Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to NOT to sign in and just ask general questions (i.e. location of VA facility)? 
 - After reading the response, did you have the information you needed to take the next step to complete your task?
-
-
-VOICE TONE QUESTIONS
+- How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
+- How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
+- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses (where you given the right link, was your question answered in the text of the response, etc)
 - Do you trust that the responses you received from the chatbot are accurate
-
-
 - Based on your experience today, are you willing to to use the chatbot again?
-- How often do you speak with a VA support agent to help you resolve an issue? 
+- How often do you speak with a VA support agent to help you resolve an issue?
 - What sort of issues do you look to resolve with a VA support agent?
-- How can a chatbot help (you) reduce how often you call the VA?
+- How can a chatbot help you reduce how often you call the VA?
 - Do you have any other feedback you'd like to share?
 
 4. Hypothesis: What is your hypothesis for this research? 	
