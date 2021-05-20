@@ -94,6 +94,7 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 - You found some good opportunities in San Antonio, but you know that there might be additional options in Austin, Texas.  Could you talk me through how you would use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
 
 _Prompt_ Let's say when you performed this search, there were a lot of results.  What factors would be important to you in narrowing down your search to find the right place for you?  
+- Would you be able to narrow down your results here on the tool?
 
 
 ### Things to watch for:
