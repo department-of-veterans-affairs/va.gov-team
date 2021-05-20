@@ -73,7 +73,7 @@ there were no comparable policies, centralized reporting mechanisms, or resource
 - Can you share the conceptual service blueprint that you've done? 
   - Is it [03_11_2021 Propsed TO BE Service Experience Design (draft).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511063/03_11_2021.Propsed.TO.BE.Service.Experience.Design.draft.pdf)? If so, could you walk us through it?
 - Can you share the form prototype that Josh put together?
-- What do you already know about the Veteran experience around harassment? (besides reporting being either face-to-face or by phone) 
+- What do you already know about the Veteran experience around harassment (besides reporting being either face-to-face or by phone)? Pain points? Successes?
 - What suggestions do you have for a landscape analysis? (i.e., large health care systems, government agencies)
   - HHS? DoD/Armed services?
   - DMV (state government)?
