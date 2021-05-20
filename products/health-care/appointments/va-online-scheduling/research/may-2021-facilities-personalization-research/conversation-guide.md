@@ -82,9 +82,9 @@ So where do you currently receive health care, VA or otherwise?
 
 -   How many different VA locations have you gone to for care?
 
-    -   If more than one: why do you go to some of the other locations?
+    -   If more than one: why do you go to some of the other locations? ```comment: This question works well if they are going to multiple facilities currently, but if they say that they have gone to more than one location b/c they moved or something in the question before this, this question doesn't make sense. However, it might be worth asking them directly in a separate question if they currently go to more than one VA facility for care. Be preapred - You may get answers like CBOCs and main facilities, which isn't quite what you're looking for. ```
 
-    -   Does anything stop you from going to a different location that might be better suited to your needs?
+    -   Does anything stop you from going to a different location that might be better suited to your needs? ```comment: Are you looking for VA specific here, or all health care? May need to specify.``` 
 
 _Listen for:_ 
 
@@ -114,27 +114,27 @@ Scenario 1 - opt-out flow (50% of participants)
 
 [Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
 
-You recently moved to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
+*Last year*, you moved to a new city, Evanston Illinois _from Seattle_. You're interested in setting up a follow-up visit with your primary care doctor there. ```comment: see suggested addition of 'last year' and  'Seattle.' In this question you may need to establish that they have already been to a primary care doctor. My first read on this was ' if i just moved, i won't have a doctor there.' Additionally since they will see Evanston and Seattle in this list, you should set that up for them.```
 
 ### Task 1 - review facility list in VAOS
 
-*Start on VA.gov home page*
+*Start on VA.gov home page* ```comment: what is your plan if they do not go to VAOS?```
 
-Using VA.gov, show me how you would set up a Primary Care visit with your new doctor in Evanston.
+Using VA.gov, show me how you would set up a Primary Care visit with your ~new~ doctor in Evanston.
 
 **PAUSE on VAOS facilities page**
 
 -   What is this page asking you to do?
 
--   What facilities would you expect to see here if you were doing this in real life and this was based on your information?
+-   What facilities would you expect to see here if this was based on your information? ```Comment: i'm struggling with phrasing on this question. Cut the "in real life".```
 
-    -   Why would you expect to see those there?
+    -   Why would you expect to see those ```facilities``` _here_? 
 
--   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar in real life?
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced this at the VA, i.e. when you moved and changed facilities? ```Cut "in real life" - this is their real life, and that is why you are talking to them. May need to add a bit more context to the "this" in the "have you ever experienced this at VA?"``` 
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
 
-_If needed:_ click the link with the dashed underline, then click the Profile link.
+_If needed:_ click the link with the dashed underline, then click the Profile link. 
 
 _Watch for:_
 
@@ -162,11 +162,11 @@ _Watch for:_
 
 -   What do you think "Edit" does?
 
--   If this was your list of facilities, what would be listed?
+-   If this was your list of facilities, which facilities would be listed?
 
--   How would you get a facility in your list that isn't currently there?
+-   How would you add a facility in your list that isn't currently there?
 
-    -   Thinking about your current facilities, have you ever run into a similar situation where this might have been helpful?
+    -   Thinking about your current facilities, have you ever run into a similar situation when being able to edit your facility list might have been helpful?
 
 _Watch for:_
 
@@ -184,7 +184,7 @@ _Watch for:_
 
 Back to our fictional scenario, let's say you are only planning on going to Evanston and Lakeside clinics for right now. 
 
--   If this was real life and this was your list of facilities, would you do anything here?
+-   If this was your list of facilities, would you do anything here?
 
 -   Let's say you do want to make this list reflect your current situation. How would you do that here?
 
@@ -289,7 +289,7 @@ Scenario 2 - opt-in flow (50% of participants)
 
 [Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
 
-You recently moved to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
+Last year, you moved to a new city, Evanston Illinois from Seattle, Washington. You're interested in setting up a follow-up visit with your primary care doctor there.
 
 ### Task 1 - save a facility
 
@@ -301,11 +301,11 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
 -   What is this page asking you to do?
 
--   What facilities would you expect to see here if you were doing this in real life and this was based on your information?
+-   What facilities would you expect to see here if this was based on your information?
 
     -   Why would you expect to see those there?
 
--   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar in real life?
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar (see changes above)?
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
 
@@ -325,7 +325,7 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
 -   Any indication that they notice the facility list only shows those that allow online scheduling
 
--   When they list the facilities they'd expect to see there if they were doing it in real life:
+-   When they list the facilities they'd expect to see there if they were doing it :
 
     -   Do they list EVERYWHERE they're registered? 
 
@@ -393,7 +393,7 @@ Earlier we talked about saving facilities and your expectations around that. Can
 
 _Start on Profile - Your VA health facilities_
 
--   If this was real life and this was your list of facilities, would you do anything here?
+-   If this was your list of facilities, would you do anything here?
 
 -   Let's say you do want to make this list reflect your current situation. How would you do that here?
 
