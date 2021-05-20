@@ -6,7 +6,7 @@ Last Updated May 19, 2021
 The mobile app has a big scope that cuts across features from VA.gov and My HealtheVet and across benefits, health care, and other engagement with VA like viewing and editing the VA.gov profile. This scope of our app and this round of UAT also includes signing in. Our primary goal in conducting pre-launch UAT is to ensure data is displaying accurately and our features are usable and working as expected. 
 
 ## Decision: We will focus on data accuracy 
-We will not be testing the completion of tasks (i.e. things like sending a Secure Message, uploading a file to a claim, editing Profile information, and canceling an Appointment are not things we are specifically asking participants to do).** 
+We will not be testing the completion of tasks (i.e. things like sending a Secure Message, uploading a file to a claim, editing Profile information, and canceling an Appointment are not things we are specifically asking participants to do). We will focus on testing sign in and if data is displaying accurately and as expected across the scope of the app. 
 
 ## Decision: We will do both internal and external UAT
 
