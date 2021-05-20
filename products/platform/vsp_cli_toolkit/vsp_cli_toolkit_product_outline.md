@@ -127,19 +127,14 @@ Future iterations will allow for other teams on VSP to contribute to this toolki
 
 ### Communications
 
-<details>
-
 - Team Name: Backend Tools
 - GitHub Label: tools-be
 - Slack channel: #vsp-tools-be
-- Product POCs: Alex Pappas
+- Product POCs: Jeff Dunn
 - Lead Developer: Lindsey Hattamer
 
-</details>
 
 ### Stakeholders
 
 - Engineering Lead: Michael Fleet
 - DEPO Lead: Dror Matalon
-  
-</details>
