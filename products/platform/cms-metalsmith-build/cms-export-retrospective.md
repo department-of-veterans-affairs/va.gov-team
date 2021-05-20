@@ -7,7 +7,7 @@ _Bullets are quotes from CMS Export retrospective, but not all retro cards are q
 ### Thorough documentation of decisions, justification, alternatives explored, and approvers is important in any initiative. These records become more crucial on cross-team and time-boxed initiatives.
 
 * _“Hard to find documentation about the super team itself — what decisions were made and why, what alternatives were considered and how thoroughly, etc”_
-* _“Project Management changed hands, context lost”
+* _“Project Management changed hands, context lost”_
 * _“The Super Team did not resolve in consensus between all engineers - how could that have been made clearer?_”
 
 ### Familiarize yourself with the sunk cost fallacy. Re-evaluate progress quarterly (at minimum). Actively opt in to pursuing the same solution or re-assess pivoting to potential alternatives.
