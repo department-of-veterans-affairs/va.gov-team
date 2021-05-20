@@ -52,8 +52,38 @@ relatively minimal, but quickly grows as the form becomes more complex. This is
 largely due to the library bloat outlined above.
 
 ##### And more!
-There are many other problems introduced by the existing forms library, but for
-now, I digress.
+There are many other problems with the current forms library that could be
+written about at length, but to save space, we can group the bullet points into
+a few categories. The following lists are by no means comprehensive.
+
+**Assumptions made by the library**
+- The whole application is a form
+- Must have an introduction page
+  - The first path in the form must be the introduction page
+- Must have a review page
+- Must have sequential pages determined ahead of time
+  - VAOS, for example, makes external calls to determine what the next page
+    the user needs to see is
+- Must have a schema
+
+**Building a form from a single configuration**
+- Code splitting becomes problematic because everything is centralized
+- It's a very [complicated interface](#steep-learning-curve)
+
+**Building a form from a schema**
+- The schema to build the form fields must sometimes differ from the validation
+  schema, which means data transformation functions are required
+  - The 21-526EZ form is a prime example of this because of its complexity
+- Again, the [learning curve](#steep-learning-curve) gets in the way of rapid
+  progress on more complicated forms
+  - Engineers have to learn the interface for making dynamic changes through
+    hooks provided in the `uiSchema` instead of using standard React conventions
+- Using external services to determine which fields to render is cumbersome
+  - Rather than conditionally rendering the fields, engineers must generate a
+    schema
+- Paring `schema` and `uiSchema` makes sharing reusable patterns awkward
+  - Implementation details such as the data paths are baked into the
+    definitions of these reusable patterns
 
 ### High Level Design
 Formulate will be a modular library consisting of helper functions and
