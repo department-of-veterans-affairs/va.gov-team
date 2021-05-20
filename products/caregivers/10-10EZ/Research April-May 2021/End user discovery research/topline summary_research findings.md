@@ -63,7 +63,7 @@ In general, participants found the 10-10EZ's length acceptable, but confusion an
 
 
 **Opportunities in design**
-- Multiple participants expressed that they liked having the timeline at the top of the page to give them a proper completion time expectation as they worked through it, but felt confusion in that multiple pages had the same step number and that the timeline bar didn't progress consistently. People appreciate the more information component, but it also can create confusion depending on its placement- sometimes people don't see it, think it is the question, or don't automatically seek it out when they are confused about a question.
+- Multiple participants expressed that they liked having the timeline at the top of the page to give them a proper completion time expectation as they worked through it, but felt confusion in that multiple pages had the same step number and that the timeline bar didn't progress consistently. People appreciate the more information component, but it also can create confusion depending on its placement- sometimes people don't see it, think it is the question, or don't automatically seek it out when they are confused about a question. Should look into ways to simplify the application.
 > Quote (if relevant)
 
 
