@@ -59,7 +59,7 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - At least 2 people of color
 - At least 1 woman
 - At least 1 participant 35 or under
-- At least 2 people who don't have a college degree (to include enlisted Veterans)
+- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
