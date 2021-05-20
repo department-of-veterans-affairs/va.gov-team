@@ -1,10 +1,11 @@
-VA.gov content brief for housing Va home load COE 
-Created by the VA.gov sitewide content team for the [Team name] team on [date].
+# VA.gov content brief for housing Va home load COE 
 
-Questions about this brief?
+Created by the VA.gov sitewide content team for the benefits team on 5/20/21.
 
-Ask us in our slack channel: #va-sitewide-content
-Read about the purpose of a content brief
+**Questions about this brief?**
+
+Ask us in our slack channel: #va-sitewide-content <br>
+Read about the purpose of a content brief <br>
 Overview
 Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. This brief will help your team create content for your product that aligns with the VA.gov voice and content standards. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. We’ll work with your team to update it as we go.
 
