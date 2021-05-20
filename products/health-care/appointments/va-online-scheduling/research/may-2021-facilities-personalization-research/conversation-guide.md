@@ -1,5 +1,5 @@
-Conversation Guide - Facilities personalization [DRAFT]
-=======================================================
+Conversation Guide - Facilities personalization
+===============================================
 
 Moderator logistics
 -------------------
