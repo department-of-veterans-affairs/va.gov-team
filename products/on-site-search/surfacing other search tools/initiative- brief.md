@@ -1,4 +1,4 @@
-# Surfacing Other Search Tools Product Outline
+# Initiative Brief: Surfacing Other Search Tools 
 ---
 
 ## Overview
