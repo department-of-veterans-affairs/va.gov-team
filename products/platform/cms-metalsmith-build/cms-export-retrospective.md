@@ -34,7 +34,7 @@ _Bullets are quotes from CMS Export retrospective, but not all retro cards are q
 
 ### Product Owners must set technically realistic requirements given resource constraints and be willing to engage in conversations about trade offs and prioritization in good faith.
 
-* _“Solution was expected to be implemented in 3 months, and publish time goal was under 1 minute. This was far too short, especially after it was determined to disband daily scrum. Incremental publishing was far too risky to compete in that time frame.”_
+* _“Solution was expected to be implemented in 3 months, and publish time goal was under 1 minute. This was far too short, especially after it was determined to disband daily scrum. Incremental publishing was far too risky to complete in that time frame.”_
 * _“It was really hard to push back on VA.”_
 
 ## Purpose of this document
