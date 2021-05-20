@@ -16,19 +16,23 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 We hope to gather the following qualitative insights: 
 
-- Was the chatbot able to answer their question?
-- Did the chatbot’s response correctly match the Veteran’s intent? 
-- How did they feel when the chatbot was unable to answer their question? 
-- Do they expect the chatbot to answer authenticated (e.g., personalized) questions or unauthenticated (high-level) questions?
-- Was the response sufficient enough for the Veteran to take immediate action toward completing their task? 
-- How did they feel about the voice, tone, and quality of the response they received? 
-- Did the chatbot feel trustworthy? 
-- How often are Veterans willing to re-engage with the chatbot after an initial interaction? 
-- What kind of language (e.g., terminology, sentiment, length of phrasing) did Veterans commonly use to engage with the chatbot? 
-- Did they try to speak to a human agent? 
-- Was there anything confusing or frustrating to them? 
-- What sort of features and capabilities are they looking for in a chatbot? 
-- Can they see themselves using this tool, or do they think it’s a better fit for someone else? 
+- Was the chatbot able to answer your questions overall?
+- How many questions were given accurate responses?
+- Did the chatbot’s response correctly match your intent? 
+- If the chatbot wasn’t able to answer your question, how did that make you feel?
+- Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to not sign in and just ask general questions (i.e. location of VA facility)?
+- After reading the response, did you have the information you needed to take the next step to complete your task?
+
+
+VOICE TONE QUESTIONS
+- Do you trust that the responses you received from the chatbot are accurate
+
+
+- Based on your experience today, are you willing to to use the chatbot again?
+- How often do you speak with a VA support agent to help you resolve an issue? 
+- What sort of issues do you look to resolve with a VA support agent?
+- How can a chatbot help (you) reduce how often you call the VA?
+- Do you have any other feedback you'd like to share?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
