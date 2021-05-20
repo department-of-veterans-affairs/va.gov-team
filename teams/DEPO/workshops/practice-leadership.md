@@ -23,6 +23,7 @@ We have a handful of highly skilled individuals on the OCTO-DE side who are expe
 
 **VFS team pain**
 - Have to rework content after such a wide variety of touchpoints: SWC, research findings, Stakeholder reviews, after collab cycle reviews. And this all happens before Staging Review.
+- It's a bit of a blocker to have one person reviewing all the research plans
 - 
 
 **TBD how to categorize**
@@ -32,6 +33,12 @@ We have a handful of highly skilled individuals on the OCTO-DE side who are expe
 - w/CEDAR coming there'll be more teams, and thus more ppl doing work. Now is time to figure out what things CTO's office etc need to be responsible for vs, what are we willing to cede to contractors?
 - Will never be able to outsource "why we do design in this way" convos w/stakeholders
 - Might need to find a way to start doing IA-focused research and continuing to audit/eval a11y of our components etc
+- want a research ops lead who consults when teams are putting together research plans, and to maintain our process and say "ok we've grown, let's rethink how we do synthesis or how we share our research"
+- working on a research revamp this quarter, but sure we'll need more of that in the future -- can see research ops being a full time job for at least one person maybe more
+- would love to see more research quality checks in the collab cycle
+- the research ops person doesn't have to be octo-de / usds, but want a really great researcher in that role. could still be that octo sponsor though for collab / questions / oversight if needed. there's a lot of day to day stuff that would be great for someone to truly own.
+- would be great to have some structure for research side in design intent
+
 
 ## How might we...
 _...define what kind of practice leadership responsibilities are needed in our ecosystem, what is needed for someone to be **successful** at those responsibilities, in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, where those responsibilities may overlap, conflict with, or compliment Collab Cycle responsibilities, and thus where we have gaps that OCTO-DE will need to figure out how to fill?_
@@ -59,4 +66,6 @@ _...define what kind of practice leadership responsibilities are needed in our e
 ## workshop ideas
 - what problems were practice leads put in place to solve?
 - what do folks *think* they're accountable for?
-- 
+- maybe follow-up on the individual stuff -- is this the kind of job you want to be doing?
+- individual convos (not group) around: if we were to hire for these which would we want to do that for?
+- workshop: focus more on parameters around what the needs are and what a practice lead role would look like and what kind of support that would require
