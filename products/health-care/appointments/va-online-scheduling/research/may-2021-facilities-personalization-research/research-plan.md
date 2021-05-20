@@ -158,14 +158,14 @@ Availability (all times in ET/GMT-05):
 
 | Date | Available times |
 | :--- | :-------------- |
-| Wed 05/26 | 6am-9pm |
-| Thu 05/27 | 6am-9pm |
-| Fri 05/28 | 6am-9pm |
+| Wed 05/26 | 6am-7am, 8am-9pm |
+| Thu 05/27 | 6am-7am, 8am-9pm |
+| Fri 05/28 | 6am-7am, 8am-9pm |
 | Mon 05/31 | None/Memorial Day |
-| Tue 06/01 | 6am-9pm |
-| Wed 06/02 | 6am-9pm |
-| Thu 06/03 | 6am-9pm |
-| Fri 06/04 | 6am-9pm |
+| Tue 06/01 | 6am-7am, 8am-9pm |
+| Wed 06/02 | 6am-7am, 8am-9pm |
+| Thu 06/03 | 6am-7am, 8am-9pm |
+| Fri 06/04 | 6am-7am, 8am-9pm |
 
 Each session will be 1 hour with a buffer of 15 minutes between sessions.
 
