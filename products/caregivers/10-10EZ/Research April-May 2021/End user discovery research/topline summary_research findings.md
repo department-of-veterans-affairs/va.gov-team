@@ -31,22 +31,22 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 > Quote (if relevant)
 
 
-**Participants wish that there was more information about why information is requested and transparency on how it will be used to make a decision on their VA Healthcare application**
-- Many participants felt uncertain as to why some of the questions were asked, specifically around financial disclosure, spouse and dependent information, military service, and current VA compensation. Some participants indicated that these questions felt invasive, they worried about their privacy, and they didn't understand the relevancy for receiving health care benefits. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application.
+**Participants wish that there was more information about why specific information is requested and would like transparency on how the information will be used to make a decision about their VA Healthcare application**
+- Many participants felt uncertain as to why some of the questions were asked, specifically around financial disclosure, spouse and dependent information, military service, and current VA compensation. Some participants indicated that these questions felt invasive, they worried about their privacy, and they didn't understand the relevancy for receiving health care benefits. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application. Many participants said that they would be more likely to complete the application if they knew why the information was being requested and how it could help them get VA health care.
 > Quote (if relevant)
 
 
 **Participants worry that their answers to some questions could automatically disqualify them from VA Healthcare**
-- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving healthcare benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. These were specifically around military service history, current VA compensation, and financial disclosure.
+- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving healthcare benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure.
 > Quote (if relevant)
 
 
 **Service history section causes confusion**
-- This page leads many participants to believe that they must have one of these qualifying factors or that they will be disqualified from VA Healthcare. The information architecture of this page also causes categorization confusion and participants wonder what the list is. Some participants wonder why there is more recent events listed.
+- This page leads many participants to believe that they must have one of these qualifying factors or that they will be disqualified from VA Healthcare. The information architecture of this page also causes categorization confusion and participants wonder what the list is and how it will be used. Some participants wonder why there are not more recent events/situations listed.
 > Quote (if relevant)
 
 
-**Financial disclosure and household information section caused the most confusion**
+**The financial disclosure and household information section was the most likely to be stated as the hardest part of the application**
 - Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for healthcare.
 > Quote (if relevant)
 
