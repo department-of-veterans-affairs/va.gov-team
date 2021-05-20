@@ -59,7 +59,7 @@ This mix of generative and evaluative will help us:
 Hypotheses
 ----------
 
-We believe that Veterans will understand that "saving a facility" (language still TBD) in VAOS means they will be able to choose that facility more easily the next time they schedule.
+We believe that Veterans will understand that "saving" a facility in VAOS means they will be able to choose that facility more easily the next time they schedule.
 
 We believe that Veterans will find value in being able to manually control which facilities they currently go to.
 
