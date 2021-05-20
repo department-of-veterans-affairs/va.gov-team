@@ -23,7 +23,7 @@ _Bullets are quotes from CMS Export retrospective, but not all retro cards are q
 
 * _“We were really focused on the user experience of editors, and publishing time. We sacrificed the developer experience.”_
 * _“The dev experience was considered in that theoretically it would be easier to maintain a few transformers if you had to modify them. But it wasn’t considered the initial creation which is a lot of effort.”_
-* _“it was exhausting to do things both ways — graphQL and CMS Export.”
+* _“It was exhausting to do things both ways — graphQL and CMS Export.”_
 
 ### All initiatives must have clear, documented responsibility and accountability across contracts and teams. All affected contracts and teams should sign off on the documented ownership.
 
