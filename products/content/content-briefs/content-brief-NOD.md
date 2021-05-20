@@ -87,5 +87,6 @@ This will inform content revisions around whether to include opt-in messaging an
 
 ## Other notes
 
-- Sitewide content is starting to set some new standards for intro pages and labels. We’ll be adding a first step to the subway map of the intro page: Check eligibility. But in this case, as I noted above in "Established content standards," we don't talk about it in terms of being eligible. So for No. 1 in the subway map, we're going with: Make sure you can request a Board Appeal
-- 
+- Sitewide content is starting to set some new standards for intro pages and labels. We’ll be adding a first step to the subway map of the intro page: Check eligibility. But in this case, as I noted above in "Established content standards," we don't talk about it in terms of being eligible. So for No. 1 in the subway map, we're going with: ~Make sure you can request a Board Appeal~ Check to be sure you can request a Board Appeal.
+- Here are the 3 subway map headers: Check to be sure you can request a Board Appeal / Gather your information / Start your request
+- I reworked other parts of the intro page according to new style standards. They include bringing eligibility into the subway map and removing the last 2 steps that aren't steps the Veteran takes. The info from those is about what happens after you apply. We're trying out an additional info element within the third subway step that will unfurl to provide the info about what happens after you apply.
