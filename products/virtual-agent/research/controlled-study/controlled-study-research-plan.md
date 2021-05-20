@@ -26,10 +26,10 @@ We hope to gather the following qualitative insights:
 - How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
 - How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses (where you given the right link, was your question answered in the text of the response, etc)
 - Do you trust that the responses you received from the chatbot are accurate
-- Based on your experience today, are you willing to to use the chatbot again?
 - How often do you speak with a VA support agent to help you resolve an issue?
 - What sort of issues do you look to resolve with a VA support agent?
 - How can a chatbot help you reduce how often you call the VA?
+- Based on your experience today, are you willing to to use the chatbot again?
 - Do you have any other feedback you'd like to share?
 
 4. Hypothesis: What is your hypothesis for this research? 	
