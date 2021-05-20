@@ -69,7 +69,7 @@ In general, participants found the 10-10EZ's length acceptable, but rather, conf
 
 
 **Opportunities in content**
-- Some information is redunant (name, social security number), some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency
+- Some information is redunant (name, social security number), some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency. People are unsure about what information to provide in financial disclosure, what qualifies as a dependent, Finally some participants expressed concern about security and privacy, especially around uploading their discharge paperwork.
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
