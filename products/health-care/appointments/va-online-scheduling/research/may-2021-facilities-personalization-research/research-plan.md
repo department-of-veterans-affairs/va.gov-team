@@ -187,3 +187,6 @@ Team Roles
     -   Ana Jakabcin - <ana@adhocteam.us>
     -   Erik Hansen - <erik@adhocteam.us> 
     -   Lihan - <lihan@adhocteam.us>
+    -   Jeff Balboni - <jeff@adhocteam.us>
+    -   Kam Karshenas - <kam@adhocteam.us>
+    -   Ariel Nerbovig - <ariel.nerbovig@adhocteam.us>
