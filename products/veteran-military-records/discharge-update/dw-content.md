@@ -96,7 +96,7 @@ If you have a DD215 and want an updated DD214, click the **Get Started** button 
 1. My discharge is honorable or general under honorable conditions, and I want only my narrative reason for discharge, separation code, or re-enlistment code changed.
 2. My discharge is not honorable or under honorable conditions.
 
-**_If Q1 = 1, 2, 3, 4, 6, or 7, then show:_**
+**_If Q1 = 1, 2, 4, 6, or 7, then show:_**
 
 _%% This is not shown for transgender case (b/c we know they want to change name, so Q1b would be yes every time) or for DD214/215 option (b/c we know the change they want is within the DRB's bounds, so Q1b is not binding)%%_
 
