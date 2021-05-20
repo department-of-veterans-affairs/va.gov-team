@@ -169,7 +169,7 @@ Availability (all times in ET/GMT-05):
 
 Each session will be 1 hour with a buffer of 15 minutes between sessions.
 
-The Pilot session will be [time and tester TBD].
+The Pilot session will be Friday, May 21 from 11am-12pm ET. (We don't need Perigean to set up the Pilot session.)
 
 Team Roles
 ----------
@@ -180,7 +180,6 @@ Team Roles
     -   Research guide writing and task development: Peter Russo, [Liz Lantz](mailto:liz.lantz@adhocteam.us)
     -   Participant recruiting & screening: Perigean
     -   Project point of contact: Peter Russo
-    -   Participant(s) for pilot test: [TBD]
     -   Note-takers: Perigean
 -   Observers:
     -   [Lauren Ernest](mailto:lauren.ernest@adhocteam.us) - <lauren.ernest@adhocteam.us>
