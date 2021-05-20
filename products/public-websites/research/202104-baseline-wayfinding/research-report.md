@@ -21,7 +21,7 @@ We conducted remote moderated research sessions via Zoom on **April 26 - May 5, 
 1. Share VA medical history with a doctor outside the VA (get your VA medical records)
 1. Tell the VA about your new spouse (add dependent)
 
-We also explored analytics data to see where people click on the VA.gov home page, and we compared these usage statistics with observations from the research sessions.
+We also explored analytics data to see where people click and how far they scroll on the VA.gov home page, and we compared these usage statistics with observations from the research sessions.
 
 ### Who we talked to
 
