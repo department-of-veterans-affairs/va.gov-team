@@ -67,7 +67,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Opportunities in content**
-- The bif takeway is the need to simplify questions and provide details on how the provided information will be used to make a decision about the health care application. Some information is redundant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. Some participants find some of the questions unclear especially around financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
+- The big takeway in regards to content is the need to simplify questions and provide details on how the provided information will be used to make a decision about the health care application. Some information is redundant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. Some participants find some of the questions unclear especially around financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
 > Quote (if relevant)
 
 
