@@ -80,11 +80,13 @@ So where do you currently receive health care, VA or otherwise?
 
     -   If YES: why?
 
+- Have you gone to more than one *VA location* for care?
+
+    - IF YES - Why have you gone to some of the other locations?
+
 -   How many different VA locations have you gone to for care?
 
-    -   If more than one: why do you go to some of the other locations? ```comment: This question works well if they are going to multiple facilities currently, but if they say that they have gone to more than one location b/c they moved or something in the question before this, this question doesn't make sense. However, it might be worth asking them directly in a separate question if they currently go to more than one VA facility for care. Be preapred - You may get answers like CBOCs and main facilities, which isn't quite what you're looking for. ```
-
-    -   Does anything stop you from going to a different location that might be better suited to your needs? ```comment: Are you looking for VA specific here, or all health care? May need to specify.``` 
+    -   If more than one: why do you go to some of the other locations? 
 
 _Listen for:_ 
 
@@ -114,11 +116,11 @@ Scenario 1 - opt-out flow (50% of participants)
 
 [Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
 
-*Last year*, you moved to a new city, Evanston Illinois _from Seattle_. You're interested in setting up a follow-up visit with your primary care doctor there. ```comment: see suggested addition of 'last year' and  'Seattle.' In this question you may need to establish that they have already been to a primary care doctor. My first read on this was ' if i just moved, i won't have a doctor there.' Additionally since they will see Evanston and Seattle in this list, you should set that up for them.```
+Last year, you moved from Seattle to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor in Evanston. 
 
 ### Task 1 - review facility list in VAOS
 
-*Start on VA.gov home page* ```comment: what is your plan if they do not go to VAOS?```
+*Start on VA.gov home page*
 
 Using VA.gov, show me how you would set up a Primary Care visit with your ~new~ doctor in Evanston.
 
@@ -126,15 +128,15 @@ Using VA.gov, show me how you would set up a Primary Care visit with your ~new~ 
 
 -   What is this page asking you to do?
 
--   What facilities would you expect to see here if this was based on your information? ```Comment: i'm struggling with phrasing on this question. Cut the "in real life".```
+-   What facilities would you expect to see here if this was based on your information?
 
-    -   Why would you expect to see those ```facilities``` _here_? 
+    -   Why would you expect to see those facilities _here_? 
 
--   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced this at the VA, i.e. when you moved and changed facilities? ```Cut "in real life" - this is their real life, and that is why you are talking to them. May need to add a bit more context to the "this" in the "have you ever experienced this at VA?"``` 
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced this at the VA, i.e. when you moved and changed facilities?
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
 
-_If needed:_ click the link with the dashed underline, then click the Profile link. 
+_If needed:_ click the link with the dashed underline, then click the Profile link.
 
 _Watch for:_
 
@@ -144,7 +146,7 @@ _Watch for:_
 
 -   Any challenges navigating to the Your VA Health Facilities section via the profile navigation?
 
--   When they list the facilities they'd expect to see there if they were doing it in real life:
+-   When they list the facilities they'd expect to see there:
 
     -   Do they list EVERYWHERE they're registered?
 
