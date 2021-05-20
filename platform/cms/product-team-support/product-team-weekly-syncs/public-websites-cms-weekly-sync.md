@@ -40,6 +40,8 @@
 CLP 
 * 🎉 Launch! Any updates/insights?
 * Pride & Vaccine campaigns
+  * Vaccines not deploying this week, Danielle said definitely next week. 
+  * Pride: plan to launch June 1. Danielle working with John Santos from OPIA. Plan is to link to Discharge tool but it may be too dated, and the campaign will be cancelled. Jane will proceed with training assuming it's going forward. 
 * New URL pattern is implemented via [#2383](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2383)
 
 React Widgets 
@@ -47,7 +49,7 @@ React Widgets
 * [#24849 Refactor CTA helpers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24849)
 
 Alerts on homepage and beyond
-
+* Kevin will create epic with a discovery issue candidate for Sprint 33 or 34. 
 
 Resources & support
 
