@@ -86,13 +86,14 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 - What information would be important to you if you were choosing where to take training?
 - Do you think these benefit estimates are correct for your situation?
 - Was there any other information you were expecting to see?
+- For you personally, how far would you be willing to commute to go to school?
  
 
-## Third Task: Map Utilization - 10 minutes
+## Third Task: Map Utilization - 5 minutes
 
-- You found some good opportunities in San Antonio, but you know that there might be additional options in Austin, Texas.  How would you use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
+- You found some good opportunities in San Antonio, but you know that there might be additional options in Austin, Texas.  Could you talk me through how you would use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
 
-_Prompt_ To help narrow down your search, you're interested in institutions that participate in the Yellow Ribbon program.  How might you go about narrowing down the list of search results? 
+_Prompt_ Let's say when you performed this search, there were a lot of results.  What factors would be important to you in narrowing down your search to find the right place for you?  
 
 
 ### Things to watch for:
@@ -101,10 +102,7 @@ _Prompt_ To help narrow down your search, you're interested in institutions that
 - Does the user try to enter any additional search criteria into the search fields?
 
 ### Upon task completion:
- - How did you think that went?
- - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding educational institutions?
  - What do you think of how the map showed your results?
- - For you personally, how far would you be willing to commute to go to school?
  - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
  
 
