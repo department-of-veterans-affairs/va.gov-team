@@ -164,27 +164,6 @@ Things to watch for:
     - [ ] *Does the information offered for the benefit letter look right to the user?*
 - [ ] *Are letters downloading successfully?*
 
-### Appointments
-Next I'd like to look at the Appointments. Please go to the Health Care section and then to Appointments.
-
-(If user indicated they DO NOT use Appointments):
-- [ ] If a user does not have health records at VA, do they see the correct screen (unenrolled message)?
-
-(If user indicated they DO use Appointments):
-- Please take a moment to look at your upcoming appointments. 
-    - [ ] Do they look right?
-- Please take a moment to look at your past appointments. 
-    - [ ] Do they look right?
-- Please load your appointments from this year. 
-    - [ ] Do they look right?
-- Please click into one of your upcoming (or past) appointments
-    - [ ] Does the information on this screen look right? 
-
-Things to watch for:
-- [ ] *If there are any canceled appointments, are they displaying in the upcoming list and listed as canceled?*
-- [ ] *If a user has NO upcoming appointments, do they see the correct empty state message?*
-- [ ] *If a user has NO past appointments within a certain date range, do they see the correct empty state message?*
-
 ### Claims
 Next I'd like to look at the Claims.
 
@@ -207,7 +186,28 @@ Things to watch for:
 - [ ] *If either appeals OR claims aren't loading, does the user see the appropriate error message and UI beneath that error message?*
 - [ ] *If a user is on Step 3 AND has file requests, do they see a CTA to begin the upload process?*
     - [ ] *When they tap to begin the upload process, do they see a list of their file requests displaying?*
- 
+
+### Appointments
+Next I'd like to look at the Appointments. Please go to the Health Care section and then to Appointments.
+
+(If user indicated they DO NOT use Appointments):
+- [ ] If a user does not have health records at VA, do they see the correct screen (unenrolled message)?
+
+(If user indicated they DO use Appointments):
+- Please take a moment to look at your upcoming appointments. 
+    - [ ] Do they look right?
+- Please take a moment to look at your past appointments. 
+    - [ ] Do they look right?
+- Please load your appointments from this year. 
+    - [ ] Do they look right?
+- Please click into one of your upcoming (or past) appointments
+    - [ ] Does the information on this screen look right? 
+
+Things to watch for:
+- [ ] *If there are any canceled appointments, are they displaying in the upcoming list and listed as canceled?*
+- [ ] *If a user has NO upcoming appointments, do they see the correct empty state message?*
+- [ ] *If a user has NO past appointments within a certain date range, do they see the correct empty state message?*
+
 ### Secure Messaging
 Next can you go to Secure Messaging?
 
@@ -266,7 +266,7 @@ Things to watch for:
 - [ ] *Is the Compose a Message form coming up?*
 - [ ] *Did the contact list look accurate?*
 - [ ] *If a user doesn’t have anyone in their contacts list do they see “Can’t match you with a provider” error instead of form?*
-- [ ] *Can the user add an attachment to their new message?*
+- [ ] *Can the user add an attachment to their new message?* 
 
 ## Open feedback (5 minutes)
 Thank you for letting me ask you to get around the app! Now I’d love to hear any feedback you have for us.
