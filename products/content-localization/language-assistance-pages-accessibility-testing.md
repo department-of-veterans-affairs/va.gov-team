@@ -1,13 +1,9 @@
-# [Your Product's Name Here]
+# Language Assistance and Resource Pages
 
-[Preview, staging, or production link]()
+[https://staging.va.gov]()
 
 ## All Login Information
-| Email                         | Password | 
-| ----------------------------- | ---------- |
-| vets.gov.user+9997@gmail.com   | password9997 | 
-| vets.gov.user+9998@gmail.com   | password9998 | 
-| vets.gov.user+9999@gmail.com   | password9999 | 
+- pages are un-authenticated
 
 ## Staging User 9997
 
