@@ -538,7 +538,7 @@ of Formulate.
   - How to build a custom field
   - How to write a data migration
 - [Reference documentation](https://diataxis.fr/reference/) tooling
-  - See[Reference documentation](#reference-documentation) below
+  - See [Reference documentation](#reference-documentation) below
 - [Explanations](https://diataxis.fr/explanation/)
   - Why keep form state in a React context for multi-page forms?
 
