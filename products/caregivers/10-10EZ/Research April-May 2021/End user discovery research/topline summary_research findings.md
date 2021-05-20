@@ -19,7 +19,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - - - 
 
 ## Initial Findings
-In general, participants seemed to find the 10-10EZ's length acceptable, but confusion and potential drop-offs seem likely caused by question wording, IA, and design details, outlined below.
+In general, participants seemed to find the 10-10EZ's length acceptable, but research indicates confusion, that could lead to drop-offs, caused by question wording, IA, and design details, outlined below.
 
 **There is general confusion as to the difference between VA benefits**
 - Many participants demonstrated confusion as to the difference between Healthcare, disability, and family benefits. This research showed indications that Veterans (and POAs) view VA benefits all as one and don't necessarily distinguish one from another when filling out an application. This leads to applicants' uncertainty as to which form they have/will fill out, and what benefits will be gained from that application. Additionally, it causes frustration when filling out an application as they feel that it is redundant and that the VA should already have a lot of the information on file, including military service information and financial information.
