@@ -37,6 +37,10 @@
     - Sorting English before Spanish
     - Ignoring "VA" and "form"
 
+### Action items (Marci)
+- Determine what our target refinement rate is and let Nichole know
+- Determine what the delta is between Find a VA Form, Global Search & Resources & Support
+
 ## 2021-04-13 Meeting with Lighthouse Re: Weighting Logic
 
 ### Attendees
