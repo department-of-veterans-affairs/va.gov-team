@@ -27,7 +27,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Participants feel that obtaining healthcare through the VA should be easier**
-- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application are intented to disqualify them, and would like this application to be simpler.
+- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application are intended to disqualify them, and would like this application to be simpler.
 > Quote (if relevant)
 
 
@@ -37,7 +37,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Participants worry that their answers to some questions could automatically disqualify them from VA Healthcare**
-- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving healthcare benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disquslified anyway. These were specifically around military service history, current VA compensation, and financial disclosure.
+- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving healthcare benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. These were specifically around military service history, current VA compensation, and financial disclosure.
 > Quote (if relevant)
 
 
@@ -57,7 +57,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Preferred method of communication**
-- Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participnats expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
+- Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
 > Quote (if relevant)
 
 
@@ -67,7 +67,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Opportunities in content**
-- Some information is redunant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. People are unsure about what information to provide in some financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more obvious information about this.
+- Some information is redundant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. People are unsure about what information to provide in some financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more obvious information about this.
 > Quote (if relevant)
 
 
