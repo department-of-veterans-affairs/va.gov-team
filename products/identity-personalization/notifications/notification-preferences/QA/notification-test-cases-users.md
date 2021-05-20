@@ -10,10 +10,10 @@
 
 ### Test cases for notifications all views
 
-| Test case                                    | Intended outcome | Staging User | Prototype link |
-| -------------------------------------------- | ---------------- | ------------ | -------------- |
-| User navigates to notification settings page |                  | TK           | TK             |
-|                                              |                  |              |                |
+| Test case                                    | Intended outcome                               | Staging User | Prototype link |
+| -------------------------------------------- | ---------------------------------------------- | ------------ | -------------- |
+| User navigates to notification settings page |                                                | TK           | TK             |
+| User is not enrolled in health care          | Should not see group titled "Your health care" | TK           | n/a            |
 
 ### Test cases for notifications read view
 
