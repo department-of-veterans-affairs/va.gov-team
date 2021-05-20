@@ -35,8 +35,8 @@ Participants were on a variety of devices:
 - 1 on a tablet
 
 Participant demographics:
-- 9 had no college degree; 4 had a degree
-- 7 lived in rural/remote locations; 6 in major metro areas
+- 7 had no post-high school degree or training
+- 7 lived in rural/remote locations
 - 6 were age 55-64 or older; 1 was under 35
 - 4 were people of color
 - 3 were female
