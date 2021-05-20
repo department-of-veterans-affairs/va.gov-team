@@ -109,7 +109,7 @@ Let's say you want to search for [All / VA / Community locations] in your area.
 #### PROTOTYPE: User understands the specific search options
 #### Questions:
 
-When you see the searh heading, 'Facilty type', what does this mean to you?
+When you see the search heading, 'Facilty type', what does this mean to you?
 
 For this task, under the 'Facility type' menu, I'd like you to choose 'In-network emergency care'.
   - When you see the phrase 'In-network', what does that mean to you?
