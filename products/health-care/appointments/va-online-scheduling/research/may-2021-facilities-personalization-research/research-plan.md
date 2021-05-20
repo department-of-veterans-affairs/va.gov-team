@@ -9,7 +9,9 @@ Our overall goal is to improve completion of the VA facility selection step. We 
 Our research goals are:
 
 -   Discover Veteran needs around facility selection when scheduling that will help us personalize this experience
+
 -   Better understand how Veterans think and talk about facilities so we can use similar language and models.
+
 -   Learn what Veterans know about the registration process.
 
 ### What product & team are you doing this research for?
@@ -17,6 +19,7 @@ Our research goals are:
 This research is a collaboration between two products/teams:
 
 -   Profile "My VA health facilities", Authenticated Experience
+
 -   Facilities page, VA Online Scheduling
 
 ### Background
@@ -36,17 +39,21 @@ Our goal for the interview is to learn how participants think about their facili
 Our goal for the concept test is to get a better understanding of their mental model of their facilities, and test the usability and potential value of two workflows:
 
 -   [Opt out of facilities in Profile](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2) - participants will review a list of facilities in the profile and be asked to remove facilities that they no longer go to.
+
 -   [Opt in to facilities from VAOS](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703) - participants will save a facility they select while scheduling.
 
 We'll test each flow with half of our participants. All participants will be asked the same interview questions, and both flows will test:
 
 -   A situation where the participant has set their facility preferences but we can't display the facility they selected
+
 -   Navigation between the Profile and VAOS
+
 -   Editing the list of facilities
 
 This mix of generative and evaluative will help us:
 
 -   Better understand Veterans needs and language around scheduling at facilities they prefer.
+
 -   Make decisions about our approach to interactions that will support the experience plan that comes out of this research.
 
 Hypotheses
@@ -65,7 +72,9 @@ We believe Veterans will understand how to edit their list of facilities.
 We believe that Veterans will understand why all of their facilities are selected.
 
 We believe that Veterans who view the facilities list will understand what the facilities in the list represent:
+
 -   If presented the context of VAOS
+
 -   If they find the list organically
 
 Research questions
@@ -123,8 +132,9 @@ We would like 10-12 total participants for this study. We will split these into 
 ### Secondary criteria
 
 -   Veteran has received VA health care from VA facilities in different states
--   Screener question: Have you received VA health care from facilities in different states?
+    -   Screener question: Have you received VA health care from facilities in different states?
 -   Veteran has used VA health care for 5+ years.
+
 -   Follow the guidelines for inclusive recruiting:
     -   At least 1 woman
     -   At least 1 person of color
@@ -135,24 +145,29 @@ We would like 10-12 total participants for this study. We will split these into 
     -   At least one person who lives in a major metropolitan area
     -   At least one person with a disability rating of 70% or greater
     -   At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
-    -   If possible:
-        -   Include at least one non-native English speaker
-        -   Include at least one person who uses assistive technology (AT), if your study can accommodate them; specialized keyboards, switches, and hearing aids are examples of AT that may be generally included
+-   If possible:
+    -   Include at least one non-native English speaker 
+    -   Include at least one person who uses assistive technology (AT), if your study can accommodate them; specialized keyboards, switches, and hearing aids are examples of AT that may be generally included
 
 When?
 -----
 
-We plan to start this research on [TBD]. The prototype will be ready to test at some point on the week of the [TBD].
+We plan to start this research on Wednesday, May 26th. The prototype will be ready to test at some point on the week of the 24th.
 
-Availability (all times in ET/GMT-05)
+Availability (all times in ET/GMT-05):
 
-[TBD]
+| Date | Available times |
+| :--- | :-------------- |
+| Wed 05/26 | 6am-9pm |
+| Thu 05/27 | 6am-9pm |
+| Fri 05/28 | 6am-9pm |
+| Mon 05/31 | None/Memorial Day |
+| Tue 06/01 | 6am-9pm |
+| Wed 06/02 | 6am-9pm |
+| Thu 06/03 | 6am-9pm |
+| Fri 06/04 | 6am-9pm |
 
-Date [TBD]
-
-Available times
-
-Each session will be [TBD] with a buffer of 15 minutes between sessions.
+Each session will be 1 hour with a buffer of 15 minutes between sessions.
 
 The Pilot session will be [time and tester TBD].
 
@@ -161,15 +176,15 @@ Team Roles
 
 -   Moderators: 
     -   [Peter Russo](mailto:peter.russo@adhocteam.us) - (510) 529 9874 - <peter.russo@adhocteam.us>
-    -   [Liz Lantz](mailto:liz.lantz@adhocteam.us) - (843) 898-4463 - liz.lantz@adhocteam.us
--   Research guide writing and task development: Peter Russo, [Liz Lantz](mailto:liz.lantz@adhocteam.us)
--   Participant recruiting & screening: Perigean
--   Project point of contact: Peter Russo
--   Participant(s) for pilot test: [TBD]
--   Note-takers: Perigean
+    -   [Liz Lantz](mailto:liz.lantz@adhocteam.us) - (843-898-4463) - liz.lantz@adhocteam.us
+    -   Research guide writing and task development: Peter Russo, [Liz Lantz](mailto:liz.lantz@adhocteam.us)
+    -   Participant recruiting & screening: Perigean
+    -   Project point of contact: Peter Russo
+    -   Participant(s) for pilot test: [TBD]
+    -   Note-takers: Perigean
 -   Observers:
-    -   [Lauren Ernest](mailto:lauren.ernest@adhocteam.us) - lauren.ernest@adhocteam.us
-    -   [Samara Strauss](mailto:samara.strauss@va.gov) - samara.strauss@va.gov
-    -   [AJ](mailto:ana@adhocteam.us) — ana@adhocteam.us
-    -   [Erik](mailto:erik@adhocteam.us) — erik@adhocteam.us
-    -   [Lihan](mailto:lihan@adhocteam.us) — lihan@adhocteam.us
+    -   [Lauren Ernest](mailto:lauren.ernest@adhocteam.us) - <lauren.ernest@adhocteam.us>
+    -   Samara Strauss - <samara.strauss@va.gov>
+    -   Ana Jakabcin - <ana@adhocteam.us>
+    -   Erik Hansen - <erik@adhocteam.us> 
+    -   Lihan - <lihan@adhocteam.us>
