@@ -40,7 +40,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 - Desired date range: _\[06/02/21 - 06/08/21\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: error rate < 5%.
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
@@ -51,8 +51,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: 1 (_minimum 2 hours_)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% (
 
 #### Results:
 - Number of unique users: x
@@ -82,7 +82,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: 05/24/21
+- Desired date: 06/10/21
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
@@ -91,9 +91,10 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 
 ### 1-week results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
+- Post-launch KPI 1 actual: Number of NOD submissions
+- Post-launch KPI 2 actual: 20% of claims completed online in first month with 5% MoM inclease
+- Post-launch KPI 3 actual: Where do Veterans abandon the form
+- Post-launch KPI 4 actual: Successful vs. Unsuccessful submissions
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -101,9 +102,10 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 
 ### 1-month results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
+- Post-launch KPI 1 actual: Number of NOD submissions
+- Post-launch KPI 2 actual: 20% of claims completed online in first month with 5% MoM inclease
+- Post-launch KPI 3 actual: Where do Veterans abandon the form
+- Post-launch KPI 4 actual: Successful vs. Unsuccessful submissions
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
