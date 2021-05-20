@@ -27,7 +27,7 @@ _Bullets are quotes from CMS Export retrospective, but not all retro cards are q
 
 ### All initiatives must have clear, documented responsibility and accountability across contracts and teams. All affected contracts and teams should sign off on the documented ownership.
 
-* _“From the beginning it seems like there wasn’t a clear solution that everyone agreed on. The transformer solution was considered acceptable by some and an abomination by others.”
+* _“From the beginning it seems like there wasn’t a clear solution that everyone agreed on. The transformer solution was considered acceptable by some and an abomination by others.”_
 * _“High level team organization. There didn’t seem to be a driving force to help unite teams.”_
 * _“Lots of miscommunication about who owned what (current and future states of ownership)”_
 * _“Superteam was disbanded from daily standups. Should have been kept together, working across teams on daily basis.”_
