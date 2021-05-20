@@ -56,7 +56,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 > Quote (if relevant)
 
 
-**There is uncertainty about how the applicant will be contacted and a desire to be able to specify preffered contact method**
+**There is uncertainty about how the applicant will be contacted and a desire to be able to specify preferred contact method**
 - Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
 > Quote (if relevant)
 
