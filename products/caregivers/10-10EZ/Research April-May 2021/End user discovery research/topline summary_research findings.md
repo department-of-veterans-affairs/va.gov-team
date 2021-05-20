@@ -28,7 +28,7 @@ In general, participants found the 10-10EZ's length acceptable, but confusion an
 
 
 **Participants feel that obtaining healthcare through the VA should be easier**
-- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application are intented to disqualify them.
+- Reiterating from above finding, many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some participants feel that the amount of detail the questions ask in the application are intented to disqualify them, and would like this application to be simpler.
 > Quote (if relevant)
 
 
