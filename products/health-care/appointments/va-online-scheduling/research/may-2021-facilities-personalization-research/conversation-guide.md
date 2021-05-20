@@ -17,11 +17,11 @@ Moderator logistics
 Intro - 5 minutes
 -----------------
 
-Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We're looking to understand Veteran's how Veterans choose VA health facilities. Today, I'd like to hear about your experience with getting health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo/Liz Lantz and I also have some colleagues on the line observing and taking notes. We're looking to understand how Veterans choose VA health facilities. Today, I'd like to hear about your experience with getting health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
--   This entire session should take about [TBD]. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+-   This entire session should take about one hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 -   In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 
 -   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-*Start recording.*
+Start recording.
 
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -43,7 +43,11 @@ Before we start, a few things I want to mention:
 
 If phone:
 
--   OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
+-   OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. 
+
+-   If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show.
+
+-   The buttons are Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". The ones that will be important for us today are "chat" and "share content." Any questions?
 
 -   First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
 
@@ -72,13 +76,17 @@ So where do you currently receive health care, VA or otherwise?
 
     -   If NO: would you like other options? If so, why?
 
--   Have you ever changed where you receive VA health care? 
+-   Have you ever changed where you receive VA health care?
 
-    -   If yes, when?
+    -   If YES: why?
 
 -   How many different VA locations have you gone to for care?
 
-*Listen for:*
+    -   If more than one: why do you go to some of the other locations?
+
+    -   Does anything stop you from going to a different location that might be better suited to your needs?
+
+_Listen for:_ 
 
 -   What are the reasons they go to different locations? 
 
@@ -93,7 +101,13 @@ Thank you, that's very helpful!
 
 Now I'd like to switch gears and get your thoughts on the demo tool I talked about earlier.
 
-*Ask participant to screen share.*
+As I mentioned, some areas of the demo tool will be clickable, and some will not. Some things may not work as expected. If anything catches you by surprise, please let me know as we're going through the tool.
+
+*Ask to screen share*
+
+Thanks!
+
+What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 Scenario 1 - opt-out flow (50% of participants)
 -----------------------------------------------
@@ -104,7 +118,7 @@ You recently moved to a new city, Evanston Illinois. You're interested in settin
 
 ### Task 1 - review facility list in VAOS
 
-*Start on VA.gov home page.*
+*Start on VA.gov home page*
 
 Using VA.gov, show me how you would set up a Primary Care visit with your new doctor in Evanston.
 
@@ -120,9 +134,9 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
 
-*If needed:* click the link with the dashed underline, then click the Profile link.
+_If needed:_ click the link with the dashed underline, then click the Profile link.
 
-*Watch for:*
+_Watch for:_
 
 -   Where do they expect to go first?
 
@@ -140,21 +154,21 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
 *Start on Profile - Your VA health facilities*
 
-- What is this page telling you?
+-   What is this page telling you?
 
-- How would you use the information in this list?
+-   How would you use the information in this list?
 
-    - What do you think the VA is using this information for?
+    -   What do you think the VA is using this information for?
 
-- What do you think "Edit" does?
+-   What do you think "Edit" does?
 
-- If this was your list of facilities, what would be listed?
+-   If this was your list of facilities, what would be listed?
 
-    - Tell me about a time you might have wanted to change that list.
+-   How would you get a facility in your list that isn't currently there?
 
-- How would you get a facility in your list that isn't currently there?
+    -   Thinking about your current facilities, have you ever run into a similar situation where this might have been helpful?
 
-*Watch for:*
+_Watch for:_
 
 -   Do they naturally connect this with the list they saw in VAOS?
 
@@ -170,17 +184,21 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
 Back to our fictional scenario, let's say you are only planning on going to Evanston and Lakeside clinics for right now. 
 
-- If this was real life and this was your list of facilities, would you do anything here?
+-   If this was real life and this was your list of facilities, would you do anything here?
 
-- Let's say you do want to make this list reflect your current situation. How would you do that here?
+-   Let's say you do want to make this list reflect your current situation. How would you do that here?
 
-*After changing the list:*
+_After changing the list:_
 
-- What do you think this change did?
+-   What do you think this change did?
 
-- If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+    -   What's unclear about what this change did, if anything?
 
-*Watch for:*
+    -   What's helpful about being able to make this change, if anything?
+
+-   If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+
+_Watch for:_
 
 -   Did editing the list do what they expected it to do?
 
@@ -194,47 +212,53 @@ Back to our fictional scenario, let's say you are only planning on going to Evan
 
 *Start on Profile -Your VA health facilities (updated)*
 
-- Now that you've changed your facilities, you want to schedule that primary care appointment. How would you do that from here?
+-   Now that you've changed your facilities, you want to schedule that primary care appointment. How would you do that from here?
 
 **PAUSE on VAOS facilities page**
 
-- Tell me about this page.
+-   Tell me about this page.
 
 **CONTINUE Finish scheduling**
+
+Follow-up questions (if not answered during run-through):
+
+-   Choose facility page:
+
+    -   What is the "Your VA health facilities" section showing?
+
+    -   What about the "Recently visited" section?
+
+    -   What are your thoughts about these options?
+
+    -   What's confusing about this page?
+
+    -   What's helpful, if anything?
 
 *Watch for:*
 
 -   Do they expect to be able to schedule appointments from Profile?
 
--   Do they find the link at the top?
+    -   Do they find the link at the top?
 
--   Do they try to take other paths before the link?
+    -   Do they try to take other paths before the link?
 
 -   Do they connect "Your VA health facilities" in VAOS with the same list in Profile?
 
 -   How do they feel about the facilities list 
 
-*Follow-up questions (if not answered during run-through):*
-
--   (Choose facility page)
-
--   What is the "Your VA health facilities" section showing?
-
--   What about the "Recently visited" section?
-
--   What are your thoughts about these options?
-
--   What's confusing about this page?
-
--   What's helpful, if anything?
-
 ### Task 5 - schedule by phone
 
 *Start on VAOS - confirmation page*
 
-While you're looking at this list you remember that you also need to make an eye care appointment at the Evanston VA. 
+While you're looking at this list you remember that you also need to make an eye care appointment at the Evanston VA. 
 
-- How would you do that from here?
+-   How would you do that from here?
+
+*Follow-up questions (if not answered during run-through):*
+
+-   What was different about the list of facilities that time?
+
+-   (On phone list) What would you do next?
 
 *Watch for:*
 
@@ -242,23 +266,21 @@ While you're looking at this list you remember that you also need to make an eye
 
 -   How do they react when their facility isn't listed?
 
-*Follow-up questions (if not answered during run-through):*
-
--   Why wasn't your saved facility showing in the list? 
-
--   (On phone list) What would you do next?
-
 ### Task 6 - find facilities list in Profile
 
-*Start on VA.gov home page*
+_Start on VA.gov home page_
 
-- Finally, how would you find your list of facilities from here?
+-   Finally, how would you find your list of facilities from here?
 
-- Is this where you expected to find that list?
+-   Now, show me what you'd do if you wanted to update your address.
 
 *Watch for:*
 
--   Any navigation challenges
+-   Was the list where they expected it?
+
+-   Were there any navigation challenges?
+
+    -   Specifically moving around the Profile using the mobile menu.
 
 -   Did they connect that list with their profile?
 
@@ -273,7 +295,7 @@ You recently moved to a new city, Evanston Illinois. You're interested in settin
 
 *Starting on VA.gov home*
 
-Using VA.gov, how would you set up a Primary Care visit with your new doctor in Evanston?
+Using VA.gov, show me how you would set up a Primary Care visit with your new doctor in Evanston.
 
 **PAUSE on (or return to) VAOS facilities page**
 
@@ -289,6 +311,12 @@ Using VA.gov, how would you set up a Primary Care visit with your new doctor in 
 
 **CONTINUE to save facility**
 
+*Follow-up questions (if not answered during run-through):*
+
+-   What did you expect "Save your facility" would do?
+
+-   If you wanted to see your saved facilities at some point in the future, where would you go to find them?
+
 *Watch for:*
 
 -   Any challenges to finding the scheduling link from home
@@ -303,25 +331,15 @@ Using VA.gov, how would you set up a Primary Care visit with your new doctor in 
 
     -   OR only the places they currently receive care?
 
-*Follow-up questions (if not answered during run-through):*
-
--   What did you expect "Save your facility" would do?
-
--   If you wanted to see your saved facilities at some point in the future, where would you go to find them?
-
 ### Task 2 - schedule at saved facilities
 
 *Starting on confirmation page*
 
-Back to our fictional scenario, imagine that you want to see your mental health provider at the Evanston Clinic on the same day so you don't have to make multiple trips. 
+Back to our fictional scenario, imagine that you want to see your mental health provider at the Evanston Clinic on the same day so you don't have to make multiple trips. 
 
-- How would you do that from here?
+-   How would you do that from here?
 
-*Watch for:*
-
--   Do they connect "save a facility" with the facilities that show on this page?
-
-*Follow-up questions (if not answered during run-through): *
+*Follow-up questions (if not answered during run-through):*
 
 On the "Choose a facility" page:
 
@@ -331,33 +349,35 @@ On the "Choose a facility" page:
 
 -   What are your thoughts about these options?
 
--   What's confusing about this page?
+    -   What's confusing about this page?
 
--   What's helpful, if anything?
+    -   What's helpful, if anything?
+
+*Watch for:*
+
+-   Do they connect "save a facility" with the facilities that show on the new page?
 
 ### Task 3 - review facility list in Profile
 
 *Start on confirmation page*
 
-Earlier we talked about saving facilities and your expectations around that.  
-
-- From here, can you show me how you'd find your list of facilities? 
+Earlier we talked about saving facilities and your expectations around that. Can you show me how you'd find your list of facilities? 
 
 *on Profile - Your VA health facilities*
 
-- What is this page telling you?
+-   What is this page telling you?
 
-- How would you use the information in this list?
+-   How would you use the information in this list?
 
     -   What do you think the VA is using this information for?
 
-- What do you think "Edit" does?
+-   What do you think "Edit" does?
 
-- If this was your list of facilities, what would be listed?
+-   If this was your list of facilities, what would be listed?
 
-   -   Tell me about a time you might have wanted to change that list.
+-   How would you get a facility in your list that isn't currently there?
 
-How would you get a facility in your list that isn't currently there?
+    -   Thinking about your current facilities, have you ever run into a similar situation where this might have been helpful?
 
 *Watch for:*
 
@@ -371,19 +391,23 @@ How would you get a facility in your list that isn't currently there?
 
 ### Task 4 - manage facilities in profile
 
-*Start on Profile - Your VA health facilities*
+_Start on Profile - Your VA health facilities_
 
-- If this was real life and this was your list of facilities, would you do anything here?
+-   If this was real life and this was your list of facilities, would you do anything here?
 
-- Let's say you do want to make this list reflect your current situation. How would you do that here?
+-   Let's say you do want to make this list reflect your current situation. How would you do that here?
 
-*After changing the list:*
+_After changing the list:_
 
-- What do you think this change did?
+-   What do you think this change did?
 
-- If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+    -   What's unclear about what this change did, if anything?
 
-*Watch for:*
+    -   What's helpful about being able to make this change, if anything?
+
+-   If this was your list of facilities, can you think of a situation where you'd like to change them in this kind of way?
+
+_Watch for:_
 
 -   Did editing the list do what they expected it to do?
 
@@ -395,50 +419,56 @@ How would you get a facility in your list that isn't currently there?
 
 ### Task 5 - schedule by phone
 
-*Starting on Profile facilities page*
+_Starting on Profile facilities page_
 
-Back to our imaginary scenario, you decide you want to schedule an eye and vision care appointment on the same day and at the same facility as your other two appointments. How would you do that from here?
+Back to our imaginary scenario, you decide you want to schedule an eye and vision care appointment on the same day and at the same facility as your other two appointments. 
 
-*Watch for*
+-   How would you do that from here?
 
--   Do they find the "New appointment" link?
-
--   How do they react when their facility isn't listed?
-
-*Follow-up questions (if not answered during run-through):*
+_Follow-up questions (if not answered during run-through): _
 
 -   Why wasn't your saved facility showing in the list? 
 
 -   (On phone list) What would you do next?
 
+_Watch for:_
+
+-   Do they find the "New appointment" link?
+
+-   How do they react when their facility isn't listed?
+
 ### Task 6 - find facilities list in Profile
 
-*Start on VA.gov home page*
+_Start on VA.gov home page_
 
-- Finally, how would you find the list of facilities from here?
+-   Finally, how would you find the list of facilities from here?
 
-    - Is this where you expected to find that list?
+-   Now, show me what you'd do if you wanted to update your address.
 
-*Watch for:*
+_Watch for:_
 
--   Any navigation challenges
+-   Was the list where they expected it?
+
+-   Were there any navigation challenges?
+
+    -   Specifically moving around the Profile using the mobile menu.
 
 -   Did they connect that list with their profile?
 
 Wrap-up questions (all participants)
 ------------------------------------
 
-- Tell me about the difference between being registered at a facility and receiving care at a facility.
+-   Tell me about the difference between being registered at a facility and receiving care at a facility.
 
-    - (If they don't know what registered means) Just to help us understand how to use that word better, what would you guess it means? There are no wrong answers.
-    
-    - *After answer* When you first go to a facility, the VA notes that you receive care there. [Fill this out a bit]
+    -   _(If they don't know what registered means)_ Just to help us understand how to use that word better, what would you guess it means? There are no wrong answers.
 
-Do you know at which facilities you're currently registered to receive VA care?
+    -  _ After answer:_ When you first go to a facility, the VA notes that you receive care there. [Fill this out a bit]
 
--   (If they don't know) How would you expect to find out where you're registered?
+-   Do you know at which facilities you're currently registered to receive VA care?
 
+    -   (If they don't know) How would you expect to find out where you're registered?
 
+    -   Would this be useful to you?
 
 Thank-You and Closing
 ---------------------
