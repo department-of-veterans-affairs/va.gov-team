@@ -31,16 +31,18 @@ Location search
 - Do users find the autocomplete helpful for location search?
     - If not, what would make suggestions more useful?
 - How do users engage with the map and list view?
-- Do users understand the interaction between the map and list view?
 - Are users interested in using the radius option?
 - Can users effectively use the radius option?
-- Are users interested in the "Use my current location" option?
-   - If so, are they able to find the functionality?
+
 
 Estimate your benefits:
 - Do user notice the benefit controls?
 - Do users interact with the controls if settings aren't accurate?
 
+Future investigation (unable to test due to functionality limitations):
+- Do users understand the interaction between the map and list view?
+- Are users interested in the "Use my current location" option?
+   - If so, are they able to find the functionality?
 
 5. Hypothesis: What is your hypothesis for this research? 
  - Since many of the designs have been simplified in the new design, researchers believe that users will be able to effectively search for schools using both name and location searches.
