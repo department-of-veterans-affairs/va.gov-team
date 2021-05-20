@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
+- Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/archives/C5AGLBNRK)
 - Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/decision-reviews/board-appeal/
 - Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
@@ -205,11 +205,11 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 - Product Manager: Veronica Henry 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Robin Garrison, Ed Mangimelli
+- Engineers: Anna Carey, Robin Garrison, Asha Gross
 
 ## Incident Response
-- Primary POCs (Veronica Henry, Matt Self, John Hashimoto)
-- Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Primary POCs (Veronica Henry, Matt Self)
+- Engineering POCs (Anna Carey, Robin Garrison)
 - Dashboards:
   - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
   - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
