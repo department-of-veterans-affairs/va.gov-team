@@ -69,17 +69,12 @@ Ok, it seems like we're having some trouble getting the app up on your screen. I
 ## Warm Up (5 minutes)
 Looks like we’re finally up and running. That was a lot. Thanks for hanging in there while we got set up. Before we get started I have a few questions before we explore the app. 
 -  Have you ever used VA.gov? 
-    - When was the last time you used it? What did you do? 
+    - What did use it for? 
 - Do you use VA health care? 
     - If yes: Have you ever used My HealtheVet? 
-        - When was the last time you used it? What did you do?
         - Do you use Secure Messaging? 
-            - Do you remember the last time you used it?
         - Do you use VA for appointments? 
-            - Do you know what types of appointments you have (VA hospital/clinic, Community Care, Community Based Outpatient Care (CBOC), Lab, COVID). 
-            - Do you know if you have current or past appointments?
 - Have you ever filed a claim with the VA?
-    - Do you remember when that was?
 - Have you ever visited your profile on VA.gov?
 - Do you have direct deposit information on file with VA for compensation & pension benefits?
 
