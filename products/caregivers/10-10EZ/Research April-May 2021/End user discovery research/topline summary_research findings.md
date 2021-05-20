@@ -23,7 +23,7 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 **There is general confusion as to the difference between VA benefits**
 - Many participants demonstrated confusion as to the difference between Healthcare, disability, and family benefits. This research showed indications that Veterans (and POAs) view VA benefits all as one and don't necessarily distinguish one from another when filling out an application. This leads to applicants' uncertainty as to which form they have/will fill out, and what benefits will be gained from that application. Additionally, it causes frustration when filling out an application as they feel that it is redundant and that the VA should already have a lot of the information on file, including military service information and financial information.
-> _(upon finishing application)_  "I arrived here [review page] thinking that this was the VA benefits application."
+> _(Upon finishing application)_  "I arrived here [review page] thinking that this was the VA benefits application."
 > "I was denied for VA Healthcare so then I applied for VA disability and was automatically enrolled in healthcare."
 
 **Participants feel that obtaining healthcare through the VA should be easier**
