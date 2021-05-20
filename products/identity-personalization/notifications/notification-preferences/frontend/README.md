@@ -30,9 +30,9 @@ URL for this section should [www.va.gov/profile/notifications](http://www.va.gov
 
 Mobile and desktop example shows:
 
-- Read mode
-- 1 group (health care)
-- Assortment of notifications that don't have a group defined in the API
+- Read mode, edit mode
+- MVP groups
+- Notification items and corresponding channels
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
 
@@ -62,8 +62,54 @@ Copy below `h1`:
 
 Copy for notification types, channels, groups, and settings will come through VA Profile's API.
 
-- Until we have groups in the API, section heading in gray box for notifications should read Notifications [as shown here](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138171974/comment/sitemap?mode=i).
-- Once we have groups, any notifications that do not have a group assigned will go into an "Other notifications" section, as shown throughout mock-ups.
+## Use cases
+
+### No contact info on file
+
+- Display info background only alert immediately below `h1`
+- Hide notifications + groups
+
+#### Copy
+
+> We don’t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
+
+### Partial contact info (missing email or phone)
+
+- Display the contact information we do have in the section under the `h1`
+
+- Display info background only alert immediately below the "**Note:...**" 
+
+- Alert should reference the contact information that's missing
+
+  - Mobile phone number
+- Email address
+- In edit mode, the channel corresponding to the missing contact info should be replaced with text. Do not display a disabled checkbox.
+
+[Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
+
+#### Copy
+
+**Alert Copy**
+
+> If you’d like to get notifications by [missing channel], add your [missing contact info] to your profile.
+>
+> [Update your contact information] (/profile/personal-information)
+
+**In edit mode, replace relevant checkbox with this text:**
+
+> *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
+
+### User who is opted into notifications deletes their associated contact information
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, we will:
+
+- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
+  - In the read view, this means they'll see that those notifications are turned off
+  - In edit view, they won't have inputs to opt-in/out of notifications.
+
+If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
+
+- display all the notifications and options as if they had not ever deleted their information. We'll check with VA Profile in our next sync whether or not they will actually receive notifications at this new email/phone number automatically.
 
 ## States
 
@@ -113,63 +159,19 @@ Display warning alert where email/phone and `update contact info` link would nor
 
 > We’re sorry. We can’t access your contact information at this time. We’re working to fix this problem. Please check back soon.
 
-### No contact info on file
 
-- Display info background only alert immediately below `h1`
-- Hide notifications + groups
 
-#### Copy
+## Updates to profile personal and contact information section
 
-> We don’t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
+- Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  
 
-### Partial contact info (missing email or phone)
+  [Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
 
-- Display the contact information we do have in the section under the `h1`
+  #### Copy
 
-- Display info background only alert immediately below the "**Note:...**" 
+  **Alert copy**
 
-- Alert should reference the contact information that's missing
+  > This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
 
-  - Mobile phone number
-- Email address
-- In edit mode, the channel corresponding to the missing contact info should be replaced with text. Do not display a disabled checkbox.
-
-[Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
-
-#### Copy
-
-**Alert Copy**
-
-> If you’d like to get notifications by [missing channel], add your [missing contact info] to your profile.
->
-> [Update your contact information] (/profile/personal-information)
-
-**In edit mode, replace relevant checkbox with this text:**
-
-> *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
-
-### User deletes their associated contact information
-
-Update copy in our confirmation alert so that when they delete their contact information, they'll see content letting them know they may not receive notifications anymore.  
-
-[Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
-
-#### Copy
-
-**Alert copy**
-
-> This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
-
-### User who is opted into notifications deletes their associated contact information
-
-`draft, need to update once finalized`
-
-If a user is opted into text messages or email notifications, and deletes their associated contact information, we will:
-
-- treat them as if they're not getting notifications regardless of the data VA Profile is sending back. 
-  - In the read view, this means they'll see that those notifications are turned off
-  - In edit view, they won't have inputs to opt-in/out of notifications.
-
-If a user is opted into text messages or email notifications, and deletes their associated contact information, **and then adds new information later**, we will:
-
-- display all the notifications and options as if they had not ever deleted their information. We'll check with VA Profile in our next sync whether or not they will actually receive notifications at this new email/phone number automatically.
+- Remove the text in the mobile number section that lets users know whether or not they're receiving health notifications
+- Remove the checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
