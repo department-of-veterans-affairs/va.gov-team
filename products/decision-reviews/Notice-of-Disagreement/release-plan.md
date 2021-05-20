@@ -83,10 +83,10 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 
 ### Planning:
 - Desired date: 06/10/21
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Post-launch KPI 1 actual: Number of NOD submissions
+- Post-launch KPI 2 actual: 20% of claims completed online in first month with 5% MoM inclease
+- Post-launch KPI 3 actual: Where do Veterans abandon the form
+- Post-launch KPI 4 actual: Successful vs. Unsuccessful submissions
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
