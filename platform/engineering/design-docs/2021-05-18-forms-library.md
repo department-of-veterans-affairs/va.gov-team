@@ -181,7 +181,8 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Provide a React context with the form state
+1. Provide a [React Context](https://reactjs.org/docs/context.html) with the
+   form state
     - `Page` will use this as the page's
       [`initialValues`](https://formik.org/docs/api/formik#initialvalues-values)
       - This is because each page is a separate Formik form, so the `Router` is
@@ -203,7 +204,7 @@ _None_
       This will result in a path definition of `/personal-information/name`
 1. Re-compute the list of routes before each page navigation (below)
     - This ensures any data changes that might affect the routes are captured
-1. Provide callbacks in the React context to navigate forward and backward
+1. Provide callbacks in the React Context to navigate forward and backward
    through the list of computed routes
 
 ##### `Chapter` Component
@@ -233,13 +234,13 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 - If no `overrideFormik` prop is passed
   - Render a [`<Formik>`](https://formik.org/docs/api/formik) component and pass
     it some default props for `initialValues`, `validate`, and `onSubmit`
-  - If the save-in-progress React context is available, `Page` will use it to
+  - If the save-in-progress React Context is available, `Page` will use it to
     auto-save the form
 - Render the children, passing them the extra props for form state
   - For an example usage, see [below](#functionality-array-pages)
   - **Caveat:** This means when the children of `Page` are a collection of
     `<Field>`s (or similar) instead of the functional component in the example
-    below, they'll all have "extra" props for the form context
+    below, they'll all have "extra" props for the form state
     - This is the simplest way to support both simple and complex form pages,
       but may be subject to change later if we can figure out a better way
 - Render the form navigation buttons "Back" and "Continue"
@@ -351,7 +352,7 @@ This component must be wrap the `Router` or `Formik` components so we can pass a
 **Responsibilities:**
 - Add the `SiPIndicator` to the bottom of each form page
 - Accept a list of paths to not display `SiPIndicator`
-- Provide a React context with the following
+- Provide a React Context with the following
   - `saveForm` function
     - Save the form when `saveForm` is called
   - `loadForm` function
@@ -369,7 +370,7 @@ to save and exit the form.
 
 **Usage requirements:**
 This must appear as a descendant of `SaveInProgress` since it uses the React
-context provided by that component to save the form.
+Context provided by that component to save the form.
 
 **Responsibilities:**
 - Display a link to save and exit the form
@@ -578,7 +579,7 @@ of Formulate.
 - [Reference documentation](https://diataxis.fr/reference/) tooling
   - See[Reference documentation](#reference-documentation) below
 - [Explanations](https://diataxis.fr/explanation/)
-  - Why keep form state in a React context for multi-page forms?
+  - Why keep form state in a React Context for multi-page forms?
 
 All documentation will be located within the Formulate repo in the `docs/`
 directory. It is essential that documentation and code live side-by-side so the
@@ -739,8 +740,8 @@ entered on a previous form and allow future pages to access it.
 - Routing with chapters and pages
 
 **Tasks:**
-- Create the React context to hold form state
-- Provide the context in `Router`
+- Create the React Context to hold form state
+- Provide the Context in `Router`
 
 **Estimate:** < 1 day
 
@@ -752,8 +753,8 @@ progress bar, and other visual elements to `Chapter` and `Page`
 - Pass data through the form
 
 **Tasks:**
-- Add the total number of chapters to the form state context
-- Add the form title to the form state context
+- Add the total number of chapters to the form state React Context
+- Add the form title to the form state React Context
 - Display the title on every page
 - Display the segmented progress bar on each page
 
@@ -764,7 +765,7 @@ We can make building the review page less painful by building some good default
 components and being mindful of the developer experience.
 
 **Prerequisites:** None, but it might be easier to test after the form state is
-supplied in a React context.
+supplied in a React Context.
 
 **Tasks:**
 - Build the field review component
@@ -866,7 +867,7 @@ be simple decision records or in-depth technical explanations.
 
 **Tasks:**
 - Write the explanation for why the routing module stores form state in a React
-  context
+  Context
 
 **Estimate:** 2 days
 
