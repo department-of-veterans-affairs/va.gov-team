@@ -102,7 +102,7 @@ We require 100 participants, with 10 participants in each pods or segment:
 
 Veterans:
 
-Segment #1: 10 participants who are female Veterans
+Segment #1: 10 participants who are female Veterans  
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
 Segment #2: 10 participants who are Male Veterans
