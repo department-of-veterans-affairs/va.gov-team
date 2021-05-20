@@ -58,6 +58,7 @@ a few categories. The following lists are by no means comprehensive.
 
 **Assumptions made by the library**
 - The whole application is a form
+- The form is broken into chapters and pages
 - Must have an introduction page
   - The first path in the form must be the introduction page
 - Must have a review page
@@ -145,6 +146,7 @@ builder sub-module intends to make using the design system with Formik simpler.
 #### Routing
 This sub-module will be responsible for the user navigating through a multi-page
 form. In particular, it will:
+- Present the form broken down into chapters and pages
 - Manage routes for each page
 - Render each page wrapped in the chrome appropriate for navigation
   - Form title, page title, progress bar, back / continue buttons, etc.
