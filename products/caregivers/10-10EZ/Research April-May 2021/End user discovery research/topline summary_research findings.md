@@ -55,12 +55,13 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **The financial disclosure and household information section was the most likely to be stated as the hardest part of the application**
-- Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for healthcare.
+- Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for healthcare. Additionally the dependent section cause confusion as to what qualifies as a dependent and for those that the dependent is their child, the "When did they become your dependent?" question is confusing.
 > "Oh geeze. Oh jesus....Now I need to call my tax man...It should say what box to refer to on my tax form or just let me upload it."  _(In regards to financial disclosure and dependents information)_
 > Will my financial information impact the health coverage I receive?"
 > "When I filled this out in the past, I had to call my husband, he didn't have the paperwork with him so I had to save the form and finish it at home with the kids running around."
 > "What is a dependent defined? My spouse? I also finance my spouse's parents, but they live in the Phillipines, do they count or do I have to go by the IRS definition?"
 > In regards to net income: "Does a house count?"
+> "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
 
 
 **Medicaid and Medicare related questions don't provide enough details**
@@ -84,5 +85,6 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 - The big takeway in regards to content is the need to simplify questions and provide details on how the provided information will be used to make a decision about the health care application. Some information is redundant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. Some participants find some of the questions unclear especially around financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
 > "Feels like a lot of government gobbly goop."
 > "I would like to know how all this information is used and what security measures are taken. My husband is reallly concerned about security, he wouldn't upload his DD214."
+> In regards to previous year's deductables, "It yes you or your spouse. Does it mean and? Does a deductable qualify?"
 
 
