@@ -10,6 +10,9 @@ We are using Google Play for Android and Test Flight for iOS. We will add partic
 ## Note taking
 We will not be recording, and will take a thorough approach to note taking to document issues and bugs. We will have 2 dedicated note takers per session: 1 person logging each item as pass or fail, and 1 person writing other notes.
 
+## Observing
+We will follow the usual observing rules and post reminders of observer instructions before each session. We will designate a couple folks in addition to the moderator (Ashley and the designated backend observer) as people who might come off mute and participate in the session. Ashley may help with distribution related issues, and a backend engineer should feel empowered to speak up to ask for detail on an issue they are observing.  
+
 
 ## Issue tracking approach 
 
