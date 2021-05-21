@@ -19,7 +19,7 @@
 
 ### Do I need a staged rollout?
 
-**Yes**
+**No.**
 
 
 
@@ -51,7 +51,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 1 (_minimum 2 hours_)
+- Length of time: N/A
 - Percentage of Users (and roughly how many users do you expect this to be): 10% (
 
 #### Results:
@@ -61,14 +61,30 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: moderate
+### Stage B: N/A
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
-#### Planning
+#### Rollout Plan
 
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+1. Notify Public Websites team - site is ready to go live
+2. Turn off feature toggles
+3. Landing page live
+4. Monitor Google Analytics and Grafana/Sentry for errors
+
+#### Rollback Plan
+
+1. Ask Public Websites to unpublish 
+2. Turn off feature flags
+
+#### Marketing Plan
+
+1. Develop a brochure
+2. Meet with VSOs and Board to socialize
+3. Engage "find a form" team (open ticket)
+4. Engage search team
+5. Banners?
+
 
 #### Results:
 - Number of unique users: x
