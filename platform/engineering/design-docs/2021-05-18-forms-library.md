@@ -394,6 +394,12 @@ This component must wrap the `Router` or `Formik` components so we can pass a
     - Perform any data migrations applicable
     - Navigate to the page supplied by the result
 - Accept a [`dataMigrations`](#data-migrations) prop to be used with `loadForm`
+- Accept a `postLoad` function which will be run after data migration and before
+  re-routing to the return URL in the saved form metadata
+  - This may be used to call an external service (e.g. to fetch the latest rated
+    disabilities) and modify either the form data or metadata as needed (e.g. to
+    reroute to the rated disabilities selection page, if the SiP disabilities
+    don't match the data most recently fetched from the upstream service)
 
 ##### Component: `SiPIndicator`
 **TODO:** Rename this thing. Ideas?
