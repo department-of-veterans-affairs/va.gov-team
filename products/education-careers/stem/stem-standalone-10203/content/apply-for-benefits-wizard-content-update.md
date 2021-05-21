@@ -18,7 +18,7 @@
 * **STEM degree:** 
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
   * You've already earned a STEM bachelor’s degree and are working toward a teaching certification, **or**    
-  * You've already earned a STEM bachelor's or graduate degree and are enrolled in covered clinical training program for health care professionals.   
+  * You've already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for health care professionals.   
   [See eligible degree and clinical training programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
 
 * **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)    
