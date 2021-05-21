@@ -152,7 +152,7 @@ We would like 10-12 total participants for this study. We will split these into 
 When?
 -----
 
-We plan to start this research on Wednesday, May 26th. The prototype will be ready to test at some point on the week of the 24th.
+We plan to start this research on Wednesday, May 26th. The prototype will be ready to test at some point on the week of the 24th. 
 
 Availability (all times in ET/GMT-05):
 
@@ -160,14 +160,14 @@ Availability (all times in ET/GMT-05):
 | :--- | :-------------- |
 | Wed 05/26 | 6am-7am, 8am-9pm |
 | Thu 05/27 | 6am-7am, 8am-9pm |
-| Fri 05/28 | 6am-7am, 8am-9pm |
+| Fri 05/28 | 6am-7am, 1pm-9pm |
 | Mon 05/31 | None/Memorial Day |
 | Tue 06/01 | 6am-7am, 8am-9pm |
 | Wed 06/02 | 6am-7am, 8am-9pm |
 | Thu 06/03 | 6am-7am, 8am-9pm |
 | Fri 06/04 | 6am-7am, 8am-9pm |
 
-Each session will be 1 hour with a buffer of 15 minutes between sessions.
+Each session will be 1 hour with a buffer of 15 minutes between sessions.  Ideally, we'd like to schedule no more than 5 participants per day, while minimizing the amount of days over which we spread the study.
 
 The Pilot session will be Friday, May 21 from 11am-12pm ET. (We don't need Perigean to set up the Pilot session.)
 
