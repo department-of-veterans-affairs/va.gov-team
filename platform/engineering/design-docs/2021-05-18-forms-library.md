@@ -407,6 +407,9 @@ Context provided by that component to save the form.
 
 **Responsibilities:**
 - Display a link to save and exit the form
+- Display the form save state
+  - Saved, loading, error, etc.
+- Display the saved form ID if available (returned from the API request)
 - Call an API endpoint to save the form data
 - Navigate to `/form-saved`
 
