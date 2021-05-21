@@ -5,6 +5,7 @@ labels: content-ia-team, documentation-support
 assignees: gmaciolek
 
 ---
+
 ### Description
 
 
@@ -14,7 +15,5 @@ assignees: gmaciolek
 
 
 
-
-We'll follow up within 3 business days to let you know if we have questions or need more information. 
 
 
