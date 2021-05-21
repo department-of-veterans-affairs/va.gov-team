@@ -243,14 +243,44 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
   - If the save-in-progress React Context is available, `Page` will use it to
     auto-save the form
 - Render the children, passing them the extra props for form state
+  - Extra props include `formData` and `pathParams`
   - For an example usage, see [below](#functionality-array-pages)
-  - **Caveat:** This means when the children of `Page` are a collection of
-    `<Field>`s (or similar) instead of the functional component in the example
-    below, they'll all have "extra" props for the form state
-    - This is the simplest way to support both simple and complex form pages,
-      but may be subject to change later if we can figure out a better way
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
+
+**A note on cloning children**
+To pass the form state to `Page`'s children, it will clone all its children and
+pass the form state props along with the child's given props. Implementation
+will look something like the following:
+```js
+const newChildren = React.Children.map(
+  this.props.children,
+  child => React.cloneElement(child, { formData, pathParams }));
+```
+
+This means developers can create form pages in a couple different ways. 
+
+_Using the form state:_
+```jsx
+<Page>
+  {({ formData, pathParams }) => (/* Use the form state to render the correct fields */)}
+</Page
+```
+
+_Not using the form state:_
+```jsx
+<Page>
+  <StringField name="foo" />
+  <StringField name="bar" />
+</Page
+```
+
+In the above example, both `StringField`s will have the following props:
+- `name`
+- `formData`
+- `pathParams`
+
+The form state props `formData` and `pathParams` will simply go unused.
 
 ##### `Route` Component
 **Purpose:**
