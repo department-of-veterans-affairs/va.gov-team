@@ -30,7 +30,7 @@ If the student already has an undergraduate degree and is seeking a teaching cer
 - Is the student currently enrolled in a program leading to a teaching certification?
 
 ##### If the applicant is in a clinical training program for health care professionals
-If the student already has a bachelor's or graduate degree and is enrolled in a clinical training program, please provide the following: 
+If the student already has a bachelor's or graduate degree and is pursuing a clinical training program, please provide the following: 
 - Has the student earned a bachelor’s or graduate degree in an approved STEM program?  
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
 - Name of STEM program of degree conferred: 
