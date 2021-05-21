@@ -172,7 +172,7 @@ This iteration connected the search page to the form details pages
 ------
 ## Architecture
 ### Data Flow Diagram
- <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png?raw=true
 
 ### Drupal CMS Forms Migration Documentation
 [Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
