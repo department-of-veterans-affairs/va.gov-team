@@ -20,7 +20,7 @@ We currently have a library which application teams use to build form
 applications on VA.gov. It employs a configuration-based approach to rapidly
 build forms in a consistent way.
 
-To distinquish the new forms library from the old in this document, this new
+To distinguish the new forms library from the old in this document, this new
 forms library will be called **Formulate**.
 
 #### Problems
@@ -170,7 +170,7 @@ sub-module:
 Additionally, to accommodate some common patterns on VA.gov form applications,
 Formulate will provide:
 - [Helpers for building array pages](#functionality-array-pages)
-- [Helpers for buliding the review page](#review-page)
+- [Helpers for building the review page](#review-page)
 
 ##### `Router` Component
 **Purpose:**
@@ -210,7 +210,7 @@ _None_
   through the list of computed routes
   - The functions for navigating forward and backward will merge page state
     into the form state in the React Context
-  - The function to navitate forward will prevent navigation if there are
+  - The function to navigate forward will prevent navigation if there are
     validation errors
 
 ##### `Chapter` Component
@@ -761,7 +761,7 @@ possible to navigate between pages.
 - Scaffold the project
 
 **Tasks:**
-- Build the `Router` with barebones `Chapter`, and `Page` components
+- Build the `Router` with bare-bones `Chapter`, and `Page` components
 - Use the `Chapter` and `Page` in `Router` to construct routes for the
   application
 - Handle navigation forward and backward through the form
@@ -822,7 +822,7 @@ This milestone is to build the functions for saving and loading the form.
 - Scaffold the project
 
 **Tasks:**
-- Write the `safeForm` function
+- Write the `saveForm` function
 - Write the `loadForm` function
   - Include the data migration functionality
 
