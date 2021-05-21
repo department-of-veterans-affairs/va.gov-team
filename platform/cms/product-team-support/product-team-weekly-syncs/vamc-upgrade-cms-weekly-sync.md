@@ -24,12 +24,16 @@
 ## Friday May 21
 * Help desk triage
   - High touch user management
-* Blobby facility health service content that hasn't been hardened and is on the chopping block (eg Cheyenne, scope of problem unknown)
 * Office hours May 25
-* Status of 4 required pages
-* Facility health services migration
+* Facility health services 
+  * migration
+  * Blobby facility health service content that hasn't been hardened and is on the chopping block (eg Cheyenne, scope of problem unknown)
+* Menu lockdown
+  * Review runbook
+  * Status of required pages
+  * Malstructured menus
+  * Missing menu items
 * Mobile, Domiciliary, Community Living Center (CLC)
-* Pittsburgh IA
 
 ## Friday May 14
 * Help desk triage
