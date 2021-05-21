@@ -382,7 +382,7 @@ Pieces of the save-in-progress sub-module are:
 functionality for a form.
 
 **Usage requirements:**
-This component must be wrap the `Router` or `Formik` components so we can pass a
+This component must wrap the `Router` or `Formik` components so we can pass a
 `saveForm` prop to it to be hooked into `Formik`'s `handleChange` callback.
 
 **Responsibilities:**
@@ -613,7 +613,7 @@ of Formulate.
   - How to build a custom field
   - How to write a data migration
 - [Reference documentation](https://diataxis.fr/reference/) tooling
-  - See[Reference documentation](#reference-documentation) below
+  - See [Reference documentation](#reference-documentation) below
 - [Explanations](https://diataxis.fr/explanation/)
   - Why keep form state in a React Context for multi-page forms?
 
