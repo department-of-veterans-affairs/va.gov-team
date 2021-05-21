@@ -1,4 +1,4 @@
-# How to display a MAS appointment
+# How to display a MAS v1 appointment
 
 There are a few broad types of appointments that come through MAS.
 
