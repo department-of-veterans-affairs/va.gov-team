@@ -84,11 +84,11 @@ there were no comparable policies, centralized reporting mechanisms, or resource
 
 <details><summary>Design Questions</summary>
  
-Do you have examples of harassment forms where you like the UX?
-I'd like to understand the end to end process of submitting harassment reports for Veterans.
-What are the current pain points if any?
-Are users submitting on mobile or desktop?
-I'd like to see the coneptual blue print and Josh's form prototype
+- Do you have examples of harassment forms where you like the UX?
+- I'd like to understand the end to end process of submitting harassment reports for Veterans.
+- What are the current pain points if any?
+- Are users submitting on mobile or desktop?
+- I'd like to see the coneptual blue print and Josh's form prototype
 
 
 
