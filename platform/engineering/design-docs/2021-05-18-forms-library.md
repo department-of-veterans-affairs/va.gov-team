@@ -325,9 +325,11 @@ For array pages to work we need a couple core things:
 To get these pieces, `Page` will accept the `path` and `pathParams` props.
 
 `path` will be the URL within the application and must (for array pages) contain
-URL parameters (term pending). URL parameters must be the only token between
-`/`s or at the end of the URL. For example, `/:index/foo` and `/:index` are
-valid path parameters. `/my-:index-item` is an invalid path parameter.
+path parameters. A path parameter must be the only token in the URL segment
+(between `/`s or at the end of the URL). For example, `/:index/foo` and
+`/:index` are valid path parameters. `/my-:index-item` is an invalid path
+parameter. The name of the path parameter may be anything, but it must start
+with a `:`.
 
 `pathParams` will be an object whose keys map to the path parameters and whose
 values map to the path to the form data. In the above example, the `pathParams`
