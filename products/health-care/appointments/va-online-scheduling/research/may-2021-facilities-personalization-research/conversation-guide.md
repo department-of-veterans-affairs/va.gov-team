@@ -6,8 +6,8 @@ Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
 - [ ] Have the prototype link available:
-    - [ ] [Opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
-    - [ ] [Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
+    - [ ] [Opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)
+    - [ ] [Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669704)
 - [ ] Update the Zoom participant sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
@@ -17,7 +17,7 @@ Moderator logistics
 Intro - 5 minutes
 -----------------
 
-Thanks for joining us today! My name is Peter Russo/Liz Lantz and I also have some colleagues on the line observing and taking notes. We're looking to understand how Veterans choose VA health facilities. Today, I'd like to hear about your experience with getting health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo/Liz Lantz and I also have some colleagues on the line observing and taking notes. We're looking to understand how Veterans choose where they go for health care. Today, I'd like to hear about your experience with finding health care at VA health facilities, and go through a prototype of an online scheduling tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 -   If for any reason and at any time you want to stop the session, please let me know.
 
--   We like to use recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
+-   Finally, we like to use recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
 
 -   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
@@ -64,7 +64,7 @@ If can't share
 Warm-up Questions (all participants)
 ------------------------------------
 
-Today we're interested in learning about the places Veterans receive health care.
+We're interested in learning about the places Veterans receive health care.
 
 So where do you currently receive health care, VA or otherwise?
 
@@ -105,7 +105,9 @@ Now I'd like to switch gears and get your thoughts on the demo tool I talked abo
 
 As I mentioned, some areas of the demo tool will be clickable, and some will not. Some things may not work as expected. If anything catches you by surprise, please let me know as we're going through the tool.
 
-*Ask to screen share*
+We'll walk through sharing your screen. Then I'll send you a link to the demo tool.
+
+*After prototype is open*
 
 Thanks!
 
@@ -116,13 +118,13 @@ Scenario 1 - opt-out flow (50% of participants)
 
 [Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
 
-Last year, you moved from Seattle to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor in Evanston. 
+Last year, you moved from Seattle to a new city, Evanston, Illinois. You're interested in setting up a follow-up visit with your primary care doctor in Evanston. 
 
 ### Task 1 - review facility list in VAOS
 
 *Start on VA.gov home page*
 
-Using VA.gov, show me how you would set up a Primary Care visit with your ~new~ doctor in Evanston.
+Using VA.gov, show me how you would set up a Primary Care visit with your doctor in Evanston.
 
 **PAUSE on VAOS facilities page**
 
@@ -132,9 +134,13 @@ Using VA.gov, show me how you would set up a Primary Care visit with your ~new~ 
 
     -   Why would you expect to see those facilities _here_? 
 
--   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced this at the VA, i.e. when you moved and changed facilities?
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced something like this at the VA, i.e. when you moved and changed facilities?
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
+
+**CONTINUE**
+
+Let's continue. Say you don't want to see that Seattle facility in this list anymore. What would you do?
 
 _If needed:_ click the link with the dashed underline, then click the Profile link.
 
@@ -162,7 +168,7 @@ _Watch for:_
 
     -   What do you think the VA is using this information for?
 
--   What do you think "Edit" does?
+-   What do you think "Editing your list" does?
 
 -   If this was your list of facilities, which facilities would be listed?
 
@@ -214,7 +220,7 @@ _Watch for:_
 
 *Start on Profile -Your VA health facilities (updated)*
 
--   Now that you've changed your facilities, you want to schedule that primary care appointment. How would you do that from here?
+-   So now, let's say you want to make that primary care visit we started earlier. How would you do that from here?
 
 **PAUSE on VAOS facilities page**
 
@@ -270,11 +276,20 @@ While you're looking at this list you remember that you also need to make an eye
 
 ### Task 6 - find facilities list in Profile
 
-_Start on VA.gov home page_
+_Start on Call to schedule page_
 
--   Finally, how would you find your list of facilities from here?
+-   Please scroll to the bottom of this page and click the box to continue.
+
+-   How would you find your list of facilities starting from the VA.gov home page?
+
+*If needed*
+- Click "Kim"
+- Click Profile
+- Click "Your Profile menu"
+- Click "Your VA Health Facilities"
 
 -   Now, show me what you'd do if you wanted to update your address.
+
 
 *Watch for:*
 
@@ -289,15 +304,15 @@ _Start on VA.gov home page_
 Scenario 2 - opt-in flow (50% of participants)
 ----------------------------------------------
 
-[Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
+[Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669704)
 
-Last year, you moved to a new city, Evanston Illinois from Seattle, Washington. You're interested in setting up a follow-up visit with your primary care doctor there.
+Last year, you moved from Seattle, Washington to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
 
 ### Task 1 - save a facility
 
 *Starting on VA.gov home*
 
-Using VA.gov, show me how you would set up a Primary Care visit with your new doctor in Evanston.
+Using VA.gov, show me how you would set up a Primary Care visit with your doctor in Evanston.
 
 **PAUSE on (or return to) VAOS facilities page**
 
@@ -305,13 +320,17 @@ Using VA.gov, show me how you would set up a Primary Care visit with your new do
 
 -   What facilities would you expect to see here if this was based on your information?
 
-    -   Why would you expect to see those there?
+    -   Why would you expect to see those facilities _here_? 
 
--   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you experienced something similar (see changes above)?
+-   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced something like this at the VA, i.e. when you moved and changed facilities?
 
     -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
 
 **CONTINUE to save facility**
+
+- Tell me about this screen
+
+- *If needed* Save evanston and continue.
 
 *Follow-up questions (if not answered during run-through):*
 
@@ -341,9 +360,9 @@ Back to our fictional scenario, imagine that you want to see your mental health 
 
 -   How would you do that from here?
 
-*Follow-up questions (if not answered during run-through):*
+**PAUSE on Choose a facility page**
 
-On the "Choose a facility" page:
+What is this page telling you?
 
 -   What is the "Your VA health facilities" section showing?
 
@@ -355,6 +374,10 @@ On the "Choose a facility" page:
 
     -   What's helpful, if anything?
 
+**CONTINUE**
+
+Please finish scheduling the appointment.
+
 *Watch for:*
 
 -   Do they connect "save a facility" with the facilities that show on the new page?
@@ -363,7 +386,11 @@ On the "Choose a facility" page:
 
 *Start on confirmation page*
 
-Earlier we talked about saving facilities and your expectations around that. Can you show me how you'd find your list of facilities? 
+Earlier we talked about saving facilities and your expectations around that. Can you show me how you'd find your list of saved facilities? 
+
+*If needed*
+
+- Click "Manage VA health facilities*
 
 *on Profile - Your VA health facilities*
 
@@ -397,7 +424,7 @@ _Start on Profile - Your VA health facilities_
 
 -   If this was your list of facilities, would you do anything here?
 
--   Let's say you do want to make this list reflect your current situation. How would you do that here?
+Let's say you regularly go to the Lakeside VA Clinic. How would you show that here?
 
 _After changing the list:_
 
