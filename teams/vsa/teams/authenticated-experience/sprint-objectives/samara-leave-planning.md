@@ -71,18 +71,19 @@ Once the backend build is complete...
 
 - **Who**: Liz or Tressa, depending on who is available; Oversight from Kevin Hoffman.
 - **When**: Beginning of July. This should be about two sprints — one for planning and recruiting; one for research and summary.
-- **What**: User research that will help define what a dependents user role MVP would look like on VA.gov.
+- **What**: User research that will help define what a dependent user role MVP would look like on VA.gov.
 
 It is an OCTO/VA.gov priority that a new user role exist on VA.gov before the end of the year. While our team is not solely responsible for this work, I have volunteered us to help out with some initial discovery so someone (Kevin?) can define what a dependent user role MVP might look like. The research our team does will inform that.
 
-In terms of what we might need as part of this research, here are some initial thoughts:
+In terms of research objectives, here are some initial thoughts:
 
 **Goals**
 
-- Assess what dependents do online to manage their relationship with the VA.
+- Assess what dependents do online to manage their relationship with the VA (could be on sites other than VA.gov).
 - Be able to define dependents' top priorities.
-- Understand what data currently gets pulled into VA.gov for dependents even though there isn't an actual user role defined. 
+- Understand what data currently gets pulled into VA.gov for dependents even though there isn't an actual user role defined. This may involve having a dependent show you their account and asking to see different sections of the site.
   - **Example** Direct deposit for edu information is pulled into the VA.gov profile for dependents already because the data is correlated with people in MPI/BGS and is not bound by a user type. Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)? 
+- Understand how someone gets correlated as a dependent in the VA ecosystem. This is likely something we can learn more about through the eBenefits migration team (Jason Wolf), so likely not something we'd ask dependents about.
 
 ## Q4 2021 (October - December) goals
 
