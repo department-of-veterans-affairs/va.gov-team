@@ -20,6 +20,8 @@ To fill out this application, the Veteran and each family caregiver applicant wi
 
 Download VA form 10-10CG(PDF) (934KB) _(link)_
 
+**Note:** A legal representative, or someone with power of attorney, can fill out this application on behalf of the Veteran. They’ll need to sign the application. They'll also have a chance to submit documentation to show their status as a legal representative.
+
 **What if I have questions or need help filling out the form?**
 
 If you have a question or need help, you can contact us in any of these ways:
