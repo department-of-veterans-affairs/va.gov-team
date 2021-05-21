@@ -36,14 +36,14 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
 #### April 26 - May 5: Baseline Wayfinding on VA.gov
-*Public Websites, Lead Researcher: Cindy Merrill
+*Public Websites, Lead Researcher: Cindy Merrill*
 
 - Number of participants: 13 (8 desktop, 5 mobile; 1 screenreader user)
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding) 
 - List of keywords: Veterans, wayfinding, VA.gov home page, site search, Find a VA Form, Resources and Support, accessibility
 
 #### April 22 - April 18: Medical Copayment Debt Portal Enhancement Discovery
-*Debt Resolution, Research Leads: Rebecca Walsh, Riley Orr
+*Debt Resolution, Research Leads: Rebecca Walsh, Riley Orr*
 
 - Number of participants: 11
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021) 
