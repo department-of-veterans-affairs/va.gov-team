@@ -213,7 +213,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding/notes
 
 ### Tools used for Synthesis
-- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Baseline%20Wayfinding%20notes%20%26%20data%20analysis%20(1).xlsx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Baseline%20Wayfinding%20notes%20%26%20data%20analysis%20(2).xlsx)
 - [Home page click analytics spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/VA.gov%20home%20page%20link%20click%20events.xlsx)
 - [Home page click visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(3).pptx)
 
