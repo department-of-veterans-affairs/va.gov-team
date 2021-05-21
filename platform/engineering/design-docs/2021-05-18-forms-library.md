@@ -497,8 +497,9 @@ result](https://github.com/tdegrunt/jsonschema#results).
 Each [JSON schema validation
 keyword](https://json-schema.org/draft/2020-12/json-schema-validation.html#rfc.section.6)
 will have a default error message and a corresponding function to override that
-default. This function will accept either a string or a function that's passed
-the value of the field as a parameter. (See below for an example.)
+default. This function will accept either a string, React component, or a
+function that's passed the value of the field as a parameter. The function must
+return either a string or React component. (See below for an example.)
 
 ##### Usage
 **Setup:**
