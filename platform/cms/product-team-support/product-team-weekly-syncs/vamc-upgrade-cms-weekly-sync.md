@@ -22,13 +22,24 @@
 </details>
 
 ## Friday May 21
+
 * Help desk triage
   - High touch user management
+    - VAMC upgrade team putting together a presentation about the overall product philosphy / content strategy, "do this / don't do that" approach
+    - VHA Digital Comms will take ownership of this, Dave will work with them.
+    - This presentation could get folded into the training, but not until at least July.
+    - Will start "lo-fi" to tell this story, then iterate.
+    - Lisa, Josh, Jane to meet.
 * Office hours May 25
+  - Jane will join, some common issues that can be raised like broken links, copy/paste Outlook/email links
 * Facility health services 
-  * migration
+  * Migration VISN 8 & 7 - Steve reviewing, if questions-->Lisa. This blocks dual state for VISN 8. Data for 8 will be prioritized.
   * Blobby facility health service content that hasn't been hardened and is on the chopping block (eg Cheyenne, scope of problem unknown)
-* Menu lockdown
+    - VAMC upgrade team - Check "main locations" for VISN 19 VAMCs, to see if there is data hiddenin the blobby field that should be manually moved to the hardened content model. Eg. https://www.va.gov/cheyenne-health-care/locations/wheatland-va-mobile-clinic/ (compare Cardiology that is based on blobby vs Primary Care that is using Service Locations fields)
+* Dual state launch
+  * VISN 2 finished next week (1 VAMC)
+  * VISN 8 blocked by migration. 
+* Menu lockdown / Enforce IA design [#2427](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427)
   * Review runbook
   * Status of required pages
   * Malstructured menus
