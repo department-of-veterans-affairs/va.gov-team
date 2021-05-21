@@ -596,6 +596,14 @@ Implementing such a mistake would look something like this using the
   validation={fromSchema('email.confirmation')} />
 ```
 
+A simple solution is to use a variable for both name and validation:
+```jsx
+const emailConfPath = 'email-confirmation';
+<StringField
+  name={emailConfPath}
+  validation={fromSchema(emailConfPath)} />
+```
+
 **Discussion:** Is not ensuring the shape of the data matches the schema a
 reasonable boundary for the library to stop at?
 
