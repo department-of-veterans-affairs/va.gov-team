@@ -35,11 +35,11 @@
 | Decision Tools | Find a VA Form | Search results sorting | Feb 11, 2021 | yes | Allows users to sort seach results alphabetically or by date |
 | Claims & Appeals | Decision Reviews - HLR | Higher Level Reviews - 100% | Mar 3, 2021 | no | Allows Veterans to submit Decision Reviews via the Higher Level Review pathway |
 | Facilities | VAMC | Policies page - hardened content | Apr 19, 2021 | yes | Create policy page content once, publish everywhere (COPE) -> ensures consistency and efficiency, decreases risk of editors introducing new defects |
-| Search & Discovery | On-site Search | Type-ahead Search PoC2 | May 20, 2021 | yes | Reported release on 4/13/21 Team of Teams (Still at 35%) |
 | Auth Experience | VA.gov Profile | Direct Deposit for Education | Apr 21, 2021 | yes | Allow Veterans to manage their Direct Deposit information for education benefits |
-| Content & Localization | TBD, maybe Design System | Anchor Tags | May 18, 2021 | yes | Provide users deep links to relevant VA.gov content for easy sharing |
+| Facilities | Facility Locator | Map accessibility/usability (Phase 2) | May 13, 2021 | yes | Features: opt into geolocation from search, merge/sort order for urgent care mash-up, clear field feature, field validation/error messaging, accessibility for "search this area of the map" |
 | Public Websites | Campaign Landing Page (CLP) | Initial CLP campaign (VEO - Trust) | May 14, 2021 | no | Launch of the first campaign to use Campaign Landing Pages focused on Veteran Trust in VA |
 | Debt Resolution | Financial Status Report (FSR) | Financial Status Report (FSR) | May 17, 2021 | no | Allow Veterans to submit the Financial Status Report |
 | Debt Resolution | Debt Portal | Debt Portal Content Updates  + Retirement of /debtman | May 17, 2021 | yes | Provide Veterans updated Debt Management content and a new Resources page. Retire va.gov/debtman |
-| Facilities | Facility Locator | Map accessibility/usability (Phase 2) | May 13, 2021 | yes | Features: opt into geolocation from search, merge/sort order for urgent care mash-up, clear field feature, field validation/error messaging, accessibility for "search this area of the map" |
 | eBenefits | Chapter 31 | Launch Chapter 31 benefit on VA.gov | May 17, 2021 | no | Allow Veterans to apply for VR&E benefits and services to help them explore employment options and address training needs. |
+| Content & Localization | TBD, maybe Design System | Anchor Tags | May 18, 2021 | yes | Provide users deep links to relevant VA.gov content for easy sharing |
+| Search & Discovery | On-site Search | Type-ahead Search PoC2 | May 20, 2021 | yes | Provide users type-ahead suggestions on VA.gov search |
