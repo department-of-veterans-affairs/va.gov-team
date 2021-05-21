@@ -72,14 +72,17 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.  Example profile does not have an email address on file.*: add desktop links  [UPDATE PROTOTYPE]
+*Participant should be on notification settings page of profile.  Example profile does not have an email address on file: add desktop links  [UPDATE PROTOTYPE]
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
 - What can you do on this page?
+- What is your impression of the way the page is organized?
 - What notifications are you currently signed up for? 
-  - prod at notification groups if they don't mention it themselves: What types of things will you be notified about? 
-- Based on what you see here, how are you getting notifications for scheduled payments? [UPDATE PROTOTYPE]
+  - prod at notification groups if they haven't already mentioned it: What types of things will you be notified about? 
+- Based on what you see here, how are you getting notifications for scheduled payments?
+- Where will VA send you notifications, based on what you see here? 
+  - What would you do if that was an old phone number?
 
 
 ### Things to watch for
@@ -92,49 +95,52 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
-1. Thank you, all of that is helpful for our team.  Now, please go ahead and see if you can sign up for text updates on your medications. 
-
-2. *After saving:* Now that you've made some changes, take a look at the screen. Is this what you expected?
-
-
-   *Note: since the example profile doesn't have an email saved yet, there will be text in place of a checkbox for any notifications that have emails available.*
+1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
+2. **If needed:** While you're here making this change, I'd like to pause and ask you a couple of questions.
+   - You got here by clicking edit - how does what happened line up with what you expected to happen?
+   - How are you able to receive the notifications you see here? Why do you think that is?
+   - How would you get text messages for appointment reminders?
+3. *After saving:* Now that you've made some changes, take a look at the screen. Is this what you expected?
 
 ### Things to watch for
 
 - Does our "edit per group" pattern introduce any usability hurdles?
 - Do people understand that `checked` = notifications on and `unchecked` = notifications off?
 - Are the checkbox labels sufficiently explicit?
-- How did the participant find a notification with emails? Was it difficult for them to find it?
+- Did the participant understand the copy explaining that a notification was only available via email?
+- Did the participant get confused as to why some notifications have 2 channels and others have one?
 - Did the "If you'd like to receive email notifications..." copy make sense to the participant?
-- Did the participant get confused as to why some notifications have text and email, and others only have text?
 
-## Task 4: Update contact information - 5 minutes
+## Task 4: Update contact information and sign up for email notifications - 8 minutes
 
-*Prompt if needed - participant may do this on their own (need to refine this question):*
-Imagine that **(email notifications)** are really important to you.  Show me how you'd go about setting that up so you could get that notification.
+Imagine that COVID updates are really important to you.  Show me how you'd go about setting that up so you could get that notification.
 
-OR
+If needed, prompt user to go back to notification settings to complete sign up task after adding their email address:
 
-Let's say you wanted to add your email address so you could get email notifications. How would you do that? 
+- At this point, are you signed up for COVID updates? 
+  - If yes - how do you know?
+  - If no - go ahead and show me how you'd sign up from here.
+
+Now that you've added an email address, talk me through what you see on this page.
 
 
 ### Things to watch for
 
+- Was the participant confused by the missing edit button for the email-only notification group?
 - How did the participant become aware that they were missing contact information?
 - Did they expect to be able to edit their contact information right here on this page?
 - Which link did they click on to navigate to the personal/contact information section of the site (first instance of `Update your contact information`, alert instance of `Update your contact information`, or via profile navigation?
 - Did they get frustrated that they were not able to edit contact info right in the page?
+- Were they able to get back to notification settings without any major hurdles?
+- Did they notice that places that previously said "add your email address" are now replaced with a status?
 
-## Task 5: Add email notification - 5 minutes
+## Task 6: Remove personal information - 2 minutes
 
-Do you see any other ways you can be notified about the same thing?  Why don't you think so?
-
-**With this second question, I'm trying to evaluate if people understand why some notifications only have one channel, and if that causes any frustration when that's the case. Need to update the prototype and refine once I go through it**
+Now I'd like you to imagine you changed your mind, and don't want the VA to email any notifications again. How would you remove the email address you added?
 
 ### Things to watch for
 
-- Were they able to get back to notification settings without any major hurdles?
-- What were their thoughts regarding why some had 1 channel and others had 2?
+- Did the participant experience any confusion removing their contact information?
 
 ## Post-Task Interview - 4 minutes
 
