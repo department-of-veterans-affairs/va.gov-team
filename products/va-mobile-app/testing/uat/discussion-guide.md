@@ -53,15 +53,13 @@ I can walk you through setting up the app on your iPhone. As a heads up, I will 
 #### Google Play: Use if the participant is using an Android
 I can walk you through setting up the app on your Android phone: 
 
-First, we would need your email address that is associated with your Google play store account. Is this email: [XXX] the same email address you use for your Google Play Store?
+First, I'm going to send you a link from the google play store in Zoom. Do you mind going into the chat button to retrieve it?
+    - Android: https://play.google.com/store/apps/details?id=gov.va.mobileapp
+    - Web: https://play.google.com/apps/testing/gov.va.mobileapp
 
-- **[if NO]** Ok, let's locate your email address associated with the account. Open your Google Play Store app and find your account icon on the top right corner within the search bar. Click on the icon to find your account information. [Then follow if YES instructions]
-- **[if YES]** Great, we have sent you an invite to your email address. Please go to your email app inbox to retrieve the invite.
-- Ok, open the email from "Android App testing-Google…" from Google Play Store. You should see the button that says "become a tester." 
-- Please click on that. This button will now download the app onto your Android.
-- **[If they are having trouble getting the email]** It looks like you are having trouble locating the email; I have dropped a link from the google play store in Zoom. Do you mind going into the chat button to retrieve it?
-    - Link: https://play.google.com/store/apps/details?id=us.adhocteam.alpha.vamobile
-- When completed testing, you can opt-out by reverting to the email invite to opt-out of the program
+- **[if Pergiean email is different then Google Play email]** Ok, let's locate your email address associated with the account. Open your Google Play Store app and find your account icon on the top right corner within the search bar. Tap on the icon to find your account information. Ok I am going to have [Ashley/Melissa/Bridget/Jen] who is on the call set up that email address.
+
+Ok if you can tap the Install button the app will install.
 
 #### Backup plan if they can’t share screen or get app installed on phone:
 Ok, it seems like we're having some trouble getting the app up on your screen. I appreciate your effort to try though. So we’ll wrap up early. Thank you for your time today, we appreciate your willingness to spend time speaking with us. 
@@ -274,8 +272,13 @@ I'd like to learn from you a bit about how you feel about everything we've talke
     - If yes, how would it change?
 - Let's imagine again you are talking to a friend who is also a Veteran about this app and you’re telling them about it. What would you say about it?
 - Let's say you could add 1 more thing to this app - what would you add? Why?
- 
+
+#### Google Play
+Finally, can we go back to the Google Play store? Since the app is still being developed I am going to have you uninstall it.
+
 ## Wrap Up (2 minutes)
 That’s all the questions I have for you today. Do you have any last questions for me?
 
 We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works for Veterans like you. Enjoy the rest of your day!
+
+
