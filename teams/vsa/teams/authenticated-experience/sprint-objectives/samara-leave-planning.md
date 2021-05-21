@@ -21,7 +21,7 @@ This is my best estimate on things as of when I go on leave, but please please P
 
 - Work with VANotify/VEText to define items and groups
 - Design and research
-- Start build
+- Start frontend build
 
 ### VA.gov Profile: Preferred medical facility
 
@@ -51,9 +51,12 @@ This is my best estimate on things as of when I go on leave, but please please P
 ### VA.gov Profile: Communications permissions (notification preferences)
 
 - Complete build
-- QA and all pre-launch checklist items
-- UAT
-- Launch MVP of communication permissions (notification preferences)
+
+**On hold while VANotify and VA Profile complete their integration. Current estimate for that is some time in August.**
+
+Once the backend build is complete...
+
+- QA and pre-launch checklist items
 
 ### VA.gov Profile: Preferred medical facility
 
@@ -64,10 +67,22 @@ This is my best estimate on things as of when I go on leave, but please please P
 
 ### VA.gov Profile: User roles & permissions
 
-- If it was not done in Q2, the identity team needs to define the user stories and flows for the MVP and communicate these to the auth experience team.
-- Based on these user flows, we will determine what, if any, updates need to happen to the VA.gov profile and My VA dashboard as a result.
-  -  **Note**: You do not have to be a Veteran to have a profile or dashboard. Currently, anyone can log in and see a profile and dashboard even if they aren't a Veteran. Create an account in prod and try it for yourself! I say this because **the user roles and permissions work might not require profile and My VA work**. Please let legitimate user flows/stories guide whether we need to make updates to these sections at this time. 
-- If work is required from our team, it may start this quarter.  
+**Dependents user roles research**
+
+- **Who**: Liz or Tressa, depending on who is available; Oversight from Kevin Hoffman.
+- **When**: Beginning of July. This should be about two sprints — one for planning and recruiting; one for research and summary.
+- **What**: User research that will help define what a dependents user role MVP would look like on VA.gov.
+
+It is an OCTO/VA.gov priority that a new user role exist on VA.gov before the end of the year. While our team is not solely responsible for this work, I have volunteered us to help out with some initial discovery so someone (Kevin?) can define what a dependent user role MVP might look like. The research our team does will inform that.
+
+In terms of what we might need as part of this research, here are some initial thoughts:
+
+**Goals**
+
+- Assess what dependents do online to manage their relationship with the VA.
+- Be able to define dependents' top priorities.
+- Understand what data currently gets pulled into VA.gov for dependents even though there isn't an actual user role defined. 
+  - **Example** Direct deposit for edu information is pulled into the VA.gov profile for dependents already because the data is correlated with people in MPI/BGS and is not bound by a user type. Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)? 
 
 ## Q4 2021 (October - December) goals
 
@@ -79,7 +94,9 @@ This is my best estimate on things as of when I go on leave, but please please P
 
 ### VA.gov Profile: Communications permissions (notification preferences)
 
-- Launch this work if it didn't launch in Q3
+- Any VSP pre-launch checklist items not completed in Q3
+- UAT
+- Launch MVP of communication permissions (notification preferences)
 - [Monitor analytics and track metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences#measuring-success)
 
 ### VA.gov Profile: Preferred medical facility
@@ -89,4 +106,4 @@ This is my best estimate on things as of when I go on leave, but please please P
 
 ### VA.gov Profile: User roles & permissions
 
-- TBD
+- TBD based on user roles research and definition of dependents MVP.
