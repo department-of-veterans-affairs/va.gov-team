@@ -1,5 +1,33 @@
 # Discharge Upgrade Wizard 2021 Content Updates - Meetings and Decisions
 
+## 2021-05-21 Meeting with Kayla Williams regarding content updates
+
+### Attendees
+- John Hashimoto, PO
+- Marci McGuire, PM
+- Zach Morel, FE Engineer
+- Margarete Ashmore, CIV OSD OUSD P-R (USA) (pronounced Margaret)
+
+### Notes
+- Go-live for the Campaign Landing Page (CLP) is June 1.
+- John gave some background - working with Kayla Williams on Discharge Upgrade Campaign Landing Page.  Learned from Kayla that some updates may be needed simply because it hasn't been freshened up in a while.  Air Force has its own portal
+- How many updates are needed? Some aren't a big deal
+   - DD Form 149 is not the right 149; a new one was issued a few years ago
+   - A couple broken links
+   - A couple of mailing addresses are incorrect
+   - Mostly low-hanging fruit
+   - All the web sites for the services and the Coast Guard are updated already.  It may be less of a list to just point the Campaign Landing Pages to the seperate portals.
+   - In a little while, there will be a Discharge Appeal board
+   - Is the wizard still needed? 
+   - Landing page would have links to the Coast Guard, Landing Page, etc would be better than the wizard?  Margarete thinks it will be.  However, the Air Force is the best.  Navy is getting ready to go to a Portal.  Army's has the info, but doesn't look pretty.
+   - Marci agrees that given the timeline, pointing the CLP to the respective portals make sense, but not sure what we do in the case of a portal that is not ready.  There is also the question of the certificate issue the Air Force has.
+   - For Air Force, the PDF we were linking to
+   - Kayla said that for the CLP, we'd point to the various branches/services.  We just want to be sure we're sending them to an actual page that will render.  If Margarete can send us links for the CLPs, we can vet those from outside the VA/MIL networks.
+   - If we can also get the new DD 149 link, any corrections, updates, we'll take a look.  We haven't made a definitive decision. 
+   - Are we in effect no longer going to send people to our wizard, but rather send them to the respective portals.
+   - 
+
+
 ## 2021-05-20 Meeting with Kayla Williams regarding content updates
 
 ### Attendees
