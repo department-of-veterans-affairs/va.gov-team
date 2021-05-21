@@ -41,6 +41,8 @@ Appointments in the future:
 
 Video appointments have their own set of types with different rules. As a shorthand, `vvsAppointment` refers to `appointment.vvsAppointments[0]`.
 
+Video appointments where `vvsAppointment.appointmentKind` is `STORE_FORWARD` or `NO-VA-ID` are not shown.
+
 ### Clinic based 
 
 Clinic based appointments are video appointments where `vvsAppointment.appointmentKind` is `CLINIC_BASED`. They are sourced from `TMP`.
