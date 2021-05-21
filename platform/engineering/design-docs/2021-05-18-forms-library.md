@@ -313,12 +313,7 @@ the following example:
     marriageIndex: 'marriages'
   }}>
   {({ formData, pathParams }) => (
-    <FieldArray
-      name="marriages"
-      render={arrayHelpers => (
-        <Field name={`marriages.${pathParams.marriageIndex}.name.first`} />
-      )}
-    />
+    <Field name={`marriages.${pathParams.marriageIndex}.name.first`} />
   )}
 </Page>
 ```
