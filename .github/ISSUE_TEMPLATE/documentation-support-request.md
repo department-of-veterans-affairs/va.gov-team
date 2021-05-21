@@ -5,7 +5,16 @@ labels: content-ia-team, documentation-support
 assignees: gmaciolek
 
 ---
-### What is your request, question, comment, or issue?
-We'll follow up with you within 3 business days and let you know if we have questions or need more information. 
+### Description
+
+<!-- (REQUIRED) What is the issue/request? -->
+
+
+### Relevant URLs 
+
+
+
+
+We'll follow up within 3 business days to let you know if we have questions or need more information. 
 
 
