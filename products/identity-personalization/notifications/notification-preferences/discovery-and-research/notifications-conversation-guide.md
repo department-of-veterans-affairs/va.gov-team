@@ -61,7 +61,7 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 ## Task 1: Navigate to notification settings - 2 minutes
 
-*Send link to prototype, starts on homepage*
+*Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i
 
 Imagine you heard the VA had recently started giving people the option to get text updates on their medications. From here, show me where you would go to set that up for yourself.
 
