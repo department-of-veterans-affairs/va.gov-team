@@ -30,8 +30,7 @@ This is my best estimate on things as of when I go on leave, but please please P
 
 ### VA.gov Profile: User roles & permissions
 
-- MVP picked: Showing benefit letters to dependents.
-- The identity team needs to define the user stories and flows that are required for the MVP.
+- MVP picked: Dependents user role.
 - Lihan will help out with backend work.
 
 ## Q3 2021 (July - September) goals
@@ -44,7 +43,7 @@ This is my best estimate on things as of when I go on leave, but please please P
   - Complete phased launch
 - [Track My VA 2.0 project KPIs for 3 months post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
 - Options for additional work:
-  - **Option A**: Scope out an MVP for elevating action items; do additional discovery, design, and research if necesary; and start build.
+  - **Option A**: Scope out an MVP for elevating action items; do additional discovery, design, and research if necesary; start build.
   - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info and education info keep coming up repeatedly in research).
   - **Option C**: If the user roles and permissions work is well defined and requires work from our team, Tressa might need to help out with that instead. Kevin will need to help the team determine this.
  
