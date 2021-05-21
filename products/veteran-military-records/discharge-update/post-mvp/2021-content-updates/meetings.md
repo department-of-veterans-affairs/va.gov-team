@@ -36,7 +36,8 @@
 - I mentioned that there is no choice for 1992 itself. 
 - Within the past 15 years is one reveiew.  
 - We will start working on corrections over the next week. 
-- They are also starting to go through the forms themselves.  Since they are collecting a lot of PII, they have to go through OMB for updates.  Both expire in 2022.  There will probably be new ones in 2022/2023.  
+- They are also starting to go through the forms themselves.  Since they are collecting a lot of PII, they have to go through OMB for updates.  Both expire in 2022.  There will probably be new ones in 2022/2023.
+- Google Analytics for last 30 days:  
 ![image](https://user-images.githubusercontent.com/73354907/119149285-60738980-ba1b-11eb-8117-5f84d4a9adc1.png)
 
 
