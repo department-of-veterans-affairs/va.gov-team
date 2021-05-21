@@ -25,7 +25,18 @@
    - Kayla said that for the CLP, we'd point to the various branches/services.  We just want to be sure we're sending them to an actual page that will render.  If Margarete can send us links for the CLPs, we can vet those from outside the VA/MIL networks.
    - If we can also get the new DD 149 link, any corrections, updates, we'll take a look.  We haven't made a definitive decision. 
    - Are we in effect no longer going to send people to our wizard, but rather send them to the respective portals.
-   - 
+   - Margarete can talk to the board's people and they can connect her to whoever is appropriate.
+   - Margarete also stated that, having an 80 year old father, totally online is not going to work for everyone.  The old-fashioned mailing it in would also be good.
+   - Short-term we may fix things, then point everyone from the landing page.
+   - Next would be the long term-strategy.  Retire the wizard? A hybrid/transitional strategy. 
+   - Most important is for us to get corrections done. 
+   - Wizard questions is a branch/tree structure.  We have good documentation from the team that built it from DOD.  If some of the wizard logic is off, then that is where the real work is.  Margarete when through it and got a few things, but she is also talking with the board to get some other feedback.  One thing that is out of date is the really what they've done with the personal appearance. Now it's virtual and there is no travel. There is some wording that she wants to run by the board to make sure they all agree.  For the Discharge Review Board - wording also needs to be updated related to intimate partner violence. 
+   - Where things are changing here and there, it's hard to keep a wizard updated. Congress was having yearly changes. Those changes are nefarious; don't all happen the same day/month/year.
+   - Plus would be taking some of that off the VA and working out the kinks.  The VA becomes the hybrid because
+   - I mentioned that there is no choice for 1992 itself. 
+   - Within the past 15 years is one reveiew.  
+   - We will start working on corrections over the next week. 
+   - They are also starting to go through the forms themselves.  Since they are collecting a lot of PII, they have to go through OMB for updates.  Both expire in 2022.  There will probably be new ones in 2022/2023.  
 
 
 ## 2021-05-20 Meeting with Kayla Williams regarding content updates
