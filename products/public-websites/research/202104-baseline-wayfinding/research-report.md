@@ -182,7 +182,7 @@ Below are some *preliminary* recommendations based on research findings to be di
     3. Medical records (add to the Health care box, in addition to Records)
     4. Update dependents (add to Records box and also on the Family Member Benefits page)
     5. Appoint representative (add to Disability box)
-    6. VA forms (add to Disability box)
+    6. VA forms (add to Disability box) *-- Rejected by team because forms apply across VA, not just Disability* 
 3. To make site search more visible, consider adding a search box next to the word *Search* in the header and/or just above or below the "top 4" boxes. 
     1. Also, consider making the search box wider so that long search strings don't scroll off the end (which was observed during research sessions).
     1. Is site search indexing all of the content accessible via *Find a Form*, *Resources & support*, and *Find a VA Location*? Should make sure they show up in the search results so we can ensure that we are returning all relevant results from VA.gov.
@@ -201,8 +201,8 @@ Below are some *preliminary* recommendations based on research findings to be di
 13. Consider conducting further user research on the VA.gov header and potential redesigns on mobile and desktop (especially if add new links to Forms, Resources or Help) to make sure that the most useful links are visible and others are not. 
 
 ## Next Steps
-- Discuss findings and recommendations with the team
-- Prioritize recommendations, conduct an ideation session, and create tickets 
+- Categorize recommendations by product/sitewide team, and discuss with each team
+- Prioritize recommendations, conduct ideation session(s), and create tickets 
 
 ## Appendix
 ### Conversation guide
