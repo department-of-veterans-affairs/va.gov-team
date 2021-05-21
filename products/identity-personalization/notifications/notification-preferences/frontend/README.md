@@ -76,14 +76,17 @@ Copy for notification types, channels, groups, and settings will come through VA
 ### Partial contact info (missing email or phone)
 
 - Display the contact information we do have in the section under the `h1`
-
 - Display info background only alert immediately below the "**Note:...**" 
-
 - Alert should reference the contact information that's missing
 
-  - Mobile phone number
-- Email address
-- In edit mode, the channel corresponding to the missing contact info should be replaced with text. Do not display a disabled checkbox.
+  - Mobile phone number or
+  - Email address
+- In read mode:
+  - If all the notifications in a group have *only* the missing channel, hide the edit button
+  - Replace the on/off status message with text.
+- In edit mode:
+  - The channel corresponding to the missing contact info should be replaced with text. 
+  - Do not display a disabled checkbox.
 
 [Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
 
@@ -91,13 +94,17 @@ Copy for notification types, channels, groups, and settings will come through VA
 
 **Alert Copy**
 
-> If you’d like to get notifications by [missing channel], add your [missing contact info] to your profile.
+> To get notifications by [missing channel], first add your [missing contact info] to your profile.
 >
 > [Update your contact information] (/profile/personal-information)
 
+**In read mode, replace status information with:**
+
+> To get these notifications, first add your [missing contact info] to your profile. 
+
 **In edit mode, replace relevant checkbox with this text:**
 
-> *If you’d like to receive notifications by [missing channel], first add your [missing contact info] to your profile.*
+> Want to get these notifications by email? First add your email address to your profile. 
 
 ### User who is opted into notifications deletes their associated contact information
 
@@ -158,8 +165,6 @@ Display warning alert where email/phone and `update contact info` link would nor
 #### Copy
 
 > We’re sorry. We can’t access your contact information at this time. We’re working to fix this problem. Please check back soon.
-
-
 
 ## Updates to profile personal and contact information section
 
