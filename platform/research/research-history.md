@@ -12,13 +12,35 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
-### April 2021
+
 
 
 #### April 26 - April 30: Virtual Agent interviews
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
 - Number of participants: 7
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+
+- List of keywords: Veterans, Virtual Agent, Chatbot
+
+
+### June 2021
+
+#### June (date to be confirmed) Virtual Agent persons with a disability interviews
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 10
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+
+- List of keywords: Veterans, Virtual Agent, Chatbot
+
+
+#### June 1st: Virtual Agent Proof of Concept 
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 100
 
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
 
