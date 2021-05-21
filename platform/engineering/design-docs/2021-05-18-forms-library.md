@@ -513,7 +513,7 @@ import fromSchema from '../schema-validation';
 const validate = values => {
   const errors = {};
   
-  const passwordErrorMessage = fromSchema('password'), // Path to schema
+  const passwordErrorMessage = fromSchema('password') // Path to schema
     .minLength("This, uh, isn't very safe...") // Optional error message overrides
     .pattern('Please follow the pattern, will you?') // Chaned message override functions
     (values.password); // Data entered in the form
