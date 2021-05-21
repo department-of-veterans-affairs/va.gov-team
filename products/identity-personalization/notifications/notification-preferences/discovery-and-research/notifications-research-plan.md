@@ -1,7 +1,5 @@
 # Research Plan for Authenticated Experience, Notification Settings, June 2021
 
-`DRAFT`
-
 ## Goals	
 
 ### What product & team are you doing this research for?	
@@ -29,14 +27,20 @@ See our [MVP definition](https://github.com/department-of-veterans-affairs/va.go
 11. Do they know how to get back to notification settings once they add info?
 12. What kind of static content support makes sense for this section of profile?
 
+We're also working on improvements to our user experience for removing contact information, so we'll include one question about that to evaluate during the final task in our sessions:
+
+Do Veterans experience any usability hurdles when removing contact information from their profile?
+
 ### Our hypothesis for this research study
 
 - Veterans will expect to be able to manage notifications from their profile.
 - Veterans expect to be able to discover notifications they're not opted into via channels outside their profile - VAMC/call center interactions, campaigns, etc.
 - Our solution will allow Veterans to intuitively manage their notification settings.
 - The group and notification names will be easily understood.
+- Our content and design will help Veterans understand why they can only manage notifications for the contact information they have on file.
 - Having to go to the contact info section to update email or phone number will not be ideal, but it will be acceptable.
 - Veterans will know how to get back to notification settings after updating their contact information.
+- Veterans will be able to intuitively remove contact information without experiencing major usability hurdles.
 
 ## Method	
 
@@ -107,11 +111,11 @@ We will leverage Perigean's services to recruit participants.
 45 minute sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
-| Team Availability | Time (EST) |
-| ----------------- | ---------- |
-| June 7, 2021      | TBD        |
-| June 8, 2021      | TBD        |
-| June 9, 2021      | TBD        |
+| Team Availability | Time (EST)             |
+| ----------------- | ---------------------- |
+| June 7, 2021      | 6-7am, 9am-5pm         |
+| June 8, 2021      | 6-7am, 9-11am, 2pm-5pm |
+| June 9, 2021      | 6-7am, 9am-5pm         |
 
 Pilot Session: June 3, 2021 | Time TBD
 
