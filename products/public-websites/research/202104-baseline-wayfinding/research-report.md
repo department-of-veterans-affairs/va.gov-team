@@ -1,7 +1,7 @@
 # Research Report from Baseline Wayfinding on VA.gov (April-May, 2021)
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
 
-Cindy Merrill (cindy.merrill@adhocteam.us), 05/18/2021
+Cindy Merrill (cindy.merrill@adhocteam.us), 05/21/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-plan.md).
 
