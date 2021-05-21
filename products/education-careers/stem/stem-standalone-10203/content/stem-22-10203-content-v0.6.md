@@ -61,7 +61,7 @@ If you apply now, your application will be denied.
 * **STEM degree:** 
   * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
   * You've already earned a STEM bachelor’s degree and are working toward a teaching certification, **or**    
-  * You've already earned a STEM bachelor's or graduate degree and are enrolled in covered clinical training program for health care professionals.   
+  * You've already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for health care professionals.   
   [See eligible degree and clinical training programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
 
 * **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) 
@@ -236,7 +236,7 @@ Do you have a STEM undergraduate degree and are now working toward a teaching ce
 
 { if NO, display clinical training question }  
 
-Do you have a STEM bachelor's or graduate degree and are now enrolled in a covered clinical training program for health care professionals? (*Required) 
+Do you have a STEM bachelor's or graduate degree and are now pursuing a covered clinical training program for health care professionals? (*Required) 
 
 [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }  
 
@@ -294,7 +294,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are working toward a teaching certification, **or**
                      
-  - Have already earned a STEM bachelor's or graduate degree and are enrolled in a covered clinical training program for health care professionals
+  - Have already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for health care professionals
   
 :heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application
 
@@ -306,7 +306,7 @@ __Your responses:__
                      
   - Have already earned a STEM bachelor’s degree and are working toward a teaching certification, **or**
                      
-  - Have already earned a STEM bachelor's or graduate degree and are enrolled in a covered clinical training program for health care professionals  
+  - Have already earned a STEM bachelor's or graduate degree and are pursuing a covered clinical training program for health care professionals  
 
 :heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application
 
