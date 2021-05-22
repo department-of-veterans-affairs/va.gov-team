@@ -324,8 +324,6 @@ Using VA.gov, show me how you would set up a Primary Care visit with your doctor
 
 -   Let's say you don't expect that you'll return to that Seattle facility again because it's so far away. Have you ever experienced something like this at the VA, i.e. when you moved and changed facilities?
 
-    -   If these were your facilities and you saw one in a city you hadn't lived in for 10 years, what would you do?
-
 **CONTINUE to save facility**
 
 - Tell me about this screen
@@ -358,7 +356,7 @@ Using VA.gov, show me how you would set up a Primary Care visit with your doctor
 
 Back to our fictional scenario, imagine that you want to see your mental health provider at the Evanston Clinic on the same day so you don't have to make multiple trips. 
 
--   How would you do that from here?
+-   How would you do that?
 
 **PAUSE on Choose a facility page**
 
@@ -386,7 +384,7 @@ Please finish scheduling the appointment.
 
 *Start on confirmation page*
 
-Earlier we talked about saving facilities and your expectations around that. Can you show me how you'd find your list of saved facilities? 
+Can you show me how you'd find your list of saved facilities? 
 
 *If needed*
 
@@ -400,7 +398,7 @@ Earlier we talked about saving facilities and your expectations around that. Can
 
     -   What do you think the VA is using this information for?
 
--   What do you think "Edit" does?
+-   What do you think "Editing your facility" does?
 
 -   If this was your list of facilities, what would be listed?
 
