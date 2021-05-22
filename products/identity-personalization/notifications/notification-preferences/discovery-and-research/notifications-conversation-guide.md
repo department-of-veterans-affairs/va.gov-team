@@ -72,14 +72,14 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.  Example profile does not have an email address on file: add desktop links  [UPDATE PROTOTYPE]
+*Participant should be on notification settings page of profile. 
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
 - What can you do on this page?
 - What is your impression of the way the page is organized?
 - What notifications are you currently signed up for? 
-  - prod at notification groups if they haven't already mentioned it: What types of things will you be notified about? 
+  - Prod at notification groups if they haven't already mentioned it: What types of things will you be notified about? 
 - Based on what you see here, how are you getting notifications for scheduled payments?
 - Where will VA send you notifications, based on what you see here? 
   - What would you do if that was an old phone number?
@@ -96,7 +96,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
 1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
-2. **If needed:** While you're here making this change, I'd like to pause and ask you a couple of questions.
+2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
    - You got here by clicking edit - how does what happened line up with what you expected to happen?
    - How are you able to receive the notifications you see here? Why do you think that is?
    - How would you get text messages for appointment reminders?
@@ -121,7 +121,7 @@ If needed, prompt user to go back to notification settings to complete sign up t
   - If yes - how do you know?
   - If no - go ahead and show me how you'd sign up from here.
 
-Now that you've added an email address, talk me through what you see on this page.
+Now that you've added an email address to your profile, talk me through what you see on this notifications page.
 
 
 ### Things to watch for
