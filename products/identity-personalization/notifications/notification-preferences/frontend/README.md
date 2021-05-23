@@ -28,11 +28,7 @@ URL for this section should [www.va.gov/profile/notifications](http://www.va.gov
 
 ## Design 
 
-Mobile and desktop example shows:
-
-- Read mode
-- edit mode
-- Note that these examples don't include the MVP notifications or groups.  Those will come through the API.  Use the links above for the latest designs.
+Examples:
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
 
