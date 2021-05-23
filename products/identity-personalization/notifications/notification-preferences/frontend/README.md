@@ -2,8 +2,9 @@
 
 ## Relevant links
 
-- [Mobile prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i)
-- [Desktop prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i) 
+- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i)
+- [Desktop designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i) 
+- [Desktop prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i); flow includes adding in missing contact information
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
 ## Description
@@ -97,7 +98,9 @@ Copy for notification types, channels, groups, and settings will come through VA
   - The channel corresponding to the missing contact info should be replaced with text. 
   - Do not display a disabled checkbox.
 
-[Mock-up, using missing email as example](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i). The edit button in the last group is interactive so you can see the edit state as well.
+[Static mock-up with notes](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/139109897?mode=i)
+
+[Interactive mock-up, using missing email as example](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i). The edit button in the last group is interactive so you can see the edit state as well.
 
 #### Copy
 
