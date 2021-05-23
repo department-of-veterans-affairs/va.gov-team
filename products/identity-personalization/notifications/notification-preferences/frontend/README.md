@@ -30,23 +30,31 @@ URL for this section should [www.va.gov/profile/notifications](http://www.va.gov
 
 Mobile and desktop example shows:
 
-- Read mode, edit mode
-- MVP groups
-- Notification items and corresponding channels
+- Read mode
+- edit mode
+- Note that these examples don't include the MVP notifications or groups.  Those will come through the API.  Use the links above for the latest designs.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-desktop-edit-mode.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-edit-mode-desktop.png)
 
 ### Prototypes
 
-- Use prototype links above for latest versions of design.
+- Use prototype links above for latest versions of the prototype.
 - Check the documentation tab on the top right side of the prototype for screen-by-screen notes. Not all screens have documentation; orange dot indicates a screen has dev notes.
 
 ### Specs
 
+#### Layout / Components
+
 - Follow existing patterns for padding + margins from other parts of profile
 - Everything in this section pulls from existing patterns in profile or the VA design system.  There aren't any custom spacing patterns, components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
+
+#### Accessibility
+
+- Edit, update, and cancel buttons should all have unique aria-labels e.g. "update Applications, claims, decision reviews, and appeals notifications" instead of just "update"
+- Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify by text, checkbox, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
+- Lists should be used in read view so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
 
 ## Copy
 
@@ -55,7 +63,8 @@ Mobile and desktop example shows:
 Copy below `h1`:
 
 > We’ll use the contact information from your profile to send notifications: 
-> ​**user email**
+>
+> **user email**
 > ​**user mobile phone**
 >
 > [Update your contact information](/profile/personal-information)
@@ -69,14 +78,18 @@ Copy for notification types, channels, groups, and settings will come through VA
 - Display info background only alert immediately below `h1`
 - Hide notifications + groups
 
+[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278598/specification/sitemap?mode=i)
+
 #### Copy
 
-> We don’t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
+> We don‘t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
+
+
 
 ### Partial contact info (missing email or phone)
 
 - Display the contact information we do have in the section under the `h1`
-- Display info background only alert immediately below the "**Note:...**" 
+- Display info background only alert immediately below the "update your contact information link"
 - Alert should reference the contact information that's missing
 
   - Mobile phone number or
@@ -88,7 +101,7 @@ Copy for notification types, channels, groups, and settings will come through VA
   - The channel corresponding to the missing contact info should be replaced with text. 
   - Do not display a disabled checkbox.
 
-[Mock-up, using missing mobile number and edit mode as example](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278597/simulate/sitemap?mode=i)
+[Mock-up, using missing email as example](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i). The edit button in the last group is interactive so you can see the edit state as well.
 
 #### Copy
 
@@ -128,13 +141,14 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ### **Successful save**
 
-Display a success background-only alert immediately after the `h1`, same behavior as what we do in direct deposit
+- Display a success background-only alert immediately after the `h1`, same behavior as what we do in direct deposit.
+- Save alert must be announced to screen reader users via `aria-live`. This may be tricky to implement if there is a timer that causes it to disappear. Let's talk to Josh about that. It currently disappears in other areas of the profile; he might bring that up as part of the audit currently in progress as of 4/8/21.
 
 [Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138069327/comment/sitemap?mode=i)
 
 #### Copy
 
-> We’ve updated your notification settings
+> We’ve updated your notification settings.
 
 ### VA Profile API GET failure (can't load any data about notifications)
 
@@ -150,7 +164,7 @@ Display error alert immediately after `h1`
 
 Display error alert after last `fieldset` and before update/cancel buttons
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080510/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138111406/specification/sitemap?mode=i)
 
 #### Copy
 
@@ -160,7 +174,7 @@ Display error alert after last `fieldset` and before update/cancel buttons
 
 Display warning alert where email/phone and `update contact info` link would normally be
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080511/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138111408/specification/sitemap?mode=i)
 
 #### Copy
 
@@ -168,7 +182,11 @@ Display warning alert where email/phone and `update contact info` link would nor
 
 ## Updates to profile personal and contact information section
 
-- Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  
+- Remove the text in the mobile number section that lets users know whether or not they're receiving health notifications
+
+- Remove the checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
+
+- `Pending usability test in June 2021` Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  
 
   [Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
 
@@ -178,5 +196,3 @@ Display warning alert where email/phone and `update contact info` link would nor
 
   > This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
 
-- Remove the text in the mobile number section that lets users know whether or not they're receiving health notifications
-- Remove the checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
