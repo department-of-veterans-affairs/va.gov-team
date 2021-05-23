@@ -31,7 +31,7 @@ URL for this section should [www.va.gov/profile/notifications](http://www.va.gov
 
 Examples:
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-mobile-edit-mode.png.jpg)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-edit-mode-mobile.jpg)
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-edit-mode-desktop.png)
 
