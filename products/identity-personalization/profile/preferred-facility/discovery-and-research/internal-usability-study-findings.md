@@ -3,6 +3,7 @@
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
 Liz Lantz, May 10, 2021
+Updated May 23, 2021
 
 View the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/discovery-and-research/conversation-guide.md) and [project brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md).
 
@@ -75,11 +76,17 @@ We ran 5 moderated sessions on Zoom with internal colleagues who are also Vetera
   - Does it vary by facility?
 
   If we learn there could be a delay for a user in this scenario, we can update the language in/around that FAQ to answer this question for Veterans.
+  
+  **Update, 5/23/2021**: [From Danny Read in Slack](https://dsva.slack.com/archives/GM5JJ5388/p1620758554022000): there is NO delay in the updating of the VA MPI with the new VistA site, it is a real-time interaction between the VA MPI and VistA Registration process.  If something happens with communication there could be a delay because that identity is put into a queue and there is a background job that runs on an interval (10 min currently) but it could be longer if comms are down between that site and VA MPI but in most cases it should be immediate.
+
+Given this, I don't think we need to do anything special to solve for this use case.
 
 - We need to re-evaluate if the logic we planned to use to show/hide this section of profile still makes sense, given the new use case we uncovered (finding 6).  You could be in the system but not actively receiving care, which means you might not be able to do things like schedule an appointment online. The VAOS study can proceed without answers to this question.  Before we release our MVP, we'll need to determine:
 
   - What is the VAOS UX for a person who fits this use case?
   - Do we still want to show this section to users who have health care but can't use VAOS?
+
+**Update, 5/23/2021**: A user can still get into the scheduling flow; appointment schedulers would handle any issues w/ them having an appointment.    Our team is using the same logic as VAOS to determine health care, so we don't have to worry about different experiences in each of our products. We don't need to make any updates; I recommend moving forward with our plans as-is.
 
 ### Pages and applications used
 
