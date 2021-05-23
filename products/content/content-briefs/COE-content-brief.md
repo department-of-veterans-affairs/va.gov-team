@@ -1,4 +1,4 @@
-# VA.gov content brief for housing Va home load COE 
+# VA.gov content brief for housing VA home loan COE 
 
 Created by the VA.gov sitewide content team for the benefits team on 5/20/21.
 
