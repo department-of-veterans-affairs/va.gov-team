@@ -1,6 +1,5 @@
 # COE Design Doc
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
 **Status:** Draft
