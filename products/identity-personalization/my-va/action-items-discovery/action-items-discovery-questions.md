@@ -23,6 +23,7 @@ To help us figure this out, we'd like to better understand:
 
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
 - [Clinical reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md)
+- VAOS notifications research (not documented yet)
 
 ## Questions I have
 
