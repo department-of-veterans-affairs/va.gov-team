@@ -37,6 +37,16 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | Location | {CC address} |
 | Description/Notes | You have a health care appointment with a community care provider. Please don’t go to your local VA health facility.<br>{CC address}<br>{CC phone number}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to VAOS homepage}” |
 
+### Community Care - no provider info
+
+| Field | Copy |
+| ----- | ---- |
+| Title | Community care appointment |
+| Start | {appointment date} {appointment time} |
+| End | {appointment date} {appointment time + duration} |
+| Location |   |
+| Description/Notes | This appointment is scheduled with a community care provider. Please don't go to your local VA health facility.<br><br>[Sign in to VA.gov] to get details about this appointment="{link to appt details page}” |
+
 
 ### VA Video Connect at home
 
@@ -115,6 +125,16 @@ Content for ICS files when users select "Add to Calendar" from their appointment
 | End | {appointment date} {appointment time + duration} |
 | Location | {CC address} |
 | Description/Notes | You have a health care appointment with a community care provider. Please don’t go to your local VA health facility.<br>{CC address}<br>{CC phone number}<br><br>[Sign in to VA.gov] to get details about this appointment="{link to appt details page}” |
+
+### Community Care - no provider info
+
+| Field | Copy |
+| ----- | ---- |
+| Title | Community care appointment |
+| Start | {appointment date} {appointment time} |
+| End | {appointment date} {appointment time + duration} |
+| Location |   |
+| Description/Notes | This appointment is scheduled with a community care provider. Please don't go to your local VA health facility.<br><br>[Sign in to VA.gov] to get details about this appointment="{link to appt details page}” |
 
 
 ### VA Video Connect at home
