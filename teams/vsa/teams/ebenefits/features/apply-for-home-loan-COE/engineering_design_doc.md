@@ -24,6 +24,9 @@ Since the Veteran's process for viewing thier COE currently depends on the eBene
 - If they have not been approved, tell the Veteran why they were not approved for a COE
 - If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information
 
+### Considerations
+- A siginificant portion of the backend work is being taken on by the LGY team but this team will need to be aware of the reseults fro mthat wrok to accurately reflect the Veteran's next step to copmlete a successfull form 1880.
+
 <!---
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
