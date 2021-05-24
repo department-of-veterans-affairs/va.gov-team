@@ -15,8 +15,8 @@ Ideally, once Test Plan/Cases are mature and Product/Feature is stable/testable 
 
 ### Important timings
 
-- **At least 2 Sprints (4 weeks) before opening VSP Staging Review request-ticket**: Product Manager (PM) opens [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan).
-- **At least 1 Sprint (2 weeks) before scheduling VSP Staging Review meeting**: PM notifies VSA-QA to schedule QA test-runs -- VSP requires all artifacts to be ready for review at least 4 days before the meeting.
+- **At least 3 Sprints (6 weeks) before opening VSP Staging Review request-ticket**: Product Manager (PM) opens [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan).
+- **At least 1 Sprint (2 weeks) before scheduling VSP Staging Review meeting**: PM notifies VSA-QA to schedule QA test-runs -- VSP requires all artifacts to be ready for review at least 4 workdays before the meeting.
 
 ### Important Product-Team artifacts
 
@@ -32,13 +32,13 @@ These artifacts should be ready before opening VSA-QA Test Plan ticket:
 
 #### Matrix flowchart
 
-![Flowchart](images/vsa-qa-manual-ui-testing-process-flow-200323.png)
+![Flowchart](images/vsa-qa-process-flow-manual-ui-2021-05.png)
 
 #### Flow steps
 
 The required steps of the VSA-QA Process are as follows:
 
-1. At beginning of Build phase, **minimum 2 sprints (4 weeks) before requesting [VSP Staging Review][vsp-stg-rvw]**, **VSA Product-Team PM opens a [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)** to signal/start of test-planning:
+1. At beginning of Build phase, **minimum 3 sprints (6 weeks) before requesting [VSP Staging Review][vsp-stg-rvw]**, **VSA Product-Team PM opens a [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)** to signal/start of test-planning:
     - Add self (PM) to Assignees
     - Add links to relevant Product/feature tickets/docs:
         - Outline
@@ -65,7 +65,7 @@ NOTE: Depending on Staging Review urgency and VSA-QA staffing/capacity, Product-
     2. QA executes Test Runs, and logs any defects discovered, and generates QA artifacts for VSP QA reviewer.
     
 1. **PM requests Staging Review**:
-    - Open a Staging Review ticket, requesting meeting to be scheduled **2 workdays after** completion of QA Test Runs above.  VSP-QA requires VSA-QA artifacts to be ready at least 2 workdays before the meeting, in order to have proper QA-feedback prepared.
+    - Open a Staging Review ticket, requesting meeting to be scheduled **2 workdays after** completion of QA Test Runs above.  VSP-QA requires VSA-QA artifacts to be ready at least 4 workdays before the meeting, in order to have proper QA-feedback prepared.
 
 1. **QA reports test-results**:
     - Once test runs are completed, QA generates [TestRail reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#artifact-inputs-7)
