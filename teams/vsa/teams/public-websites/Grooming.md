@@ -26,6 +26,25 @@
 </summary>
 
 </details>
+## Wednesday, May 26, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] [Campaign Landing Page Production MVP] - Pride & Discharge Upgrades [#24350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24350)
+- [ ] [Site Services Maintenance Notification] DSLogon May 29-30 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
+- [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
+- [ ] Migrate Homepage Banner to Drupal [#25038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25038) 
+- [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+- [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Resources and support: Too much spacing between bottom of process list and CTA buttons, IE11 [#15501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15501)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571)
+- [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
 
 ## Wednesday, May 12, 2021
 
