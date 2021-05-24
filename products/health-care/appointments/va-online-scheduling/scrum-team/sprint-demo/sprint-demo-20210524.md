@@ -22,11 +22,6 @@
   - [Move cancel logic into appointment service file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23819)
   - [508-defect-4 [COGNITION]: Telephone number on the Review your appointment details screen should be formatted for content and semantics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24172)
 
-- AJ
-  - [New VAOS - Record VCR Cassettes for     get '/locations/:location_id/clinics'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25017)
-  - [New VAOS - Record VCR Cassettes for available appointment slots end-point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24806)
-  - [New VAOS - Record VCR Cassettes for clinics end-point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24581)
-
 - Kevin
   - [Refresh-past appointment detail messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24914)
   - [Update vaccine flow breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24206)
