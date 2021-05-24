@@ -19,7 +19,7 @@ Great. Before we start, there are a few more things I want to mention:
 - When you are signed into the app, it will display your Appointment, Secure Messaging, Claims and Appeal, and VA.gov Profile information if you have it. I will ask you to navigate to different sections of the app to ensure data you may have in these areas is loading as expected. For example, I will ask you to do things like confirm that your personal information like date of birth, your Direct Deposit information, or things like your Secure Messages are correct. And since you will be sharing your phone we may see other personal things like other app notifications you have set (for example if you get any text messages and your email). 
     - Are you comfortable sharing your screen with your personal information such as (birth date, address, health info) on it today with us on this call? 
     - Do you have any questions about this?
-- We have captions turned on for this session, so you may see the text across your screen. 
+- **[OPTIONAL: IF CAPTIONS ARE ON]:** We have captions turned on for this session, so you may see the text across your screen. 
     - Are you comfortable with captions being on?
 - If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time. 
 - Again, the main goal today is to verify the app we built is showing correct information. However, if we have time at the end we want to hear any feedback you have. We will not be offended by any opinions you express. 
@@ -56,8 +56,8 @@ I can walk you through setting up the app on your iPhone. As a heads up, I will 
 I can walk you through setting up the app on your Android phone: 
 
 First, I'm going to send you a link from the google play store in Zoom. Do you mind going into the chat button to retrieve it?
-    - Android: https://play.google.com/store/apps/details?id=gov.va.mobileapp
-    - Web: https://play.google.com/apps/testing/gov.va.mobileapp
+- Android: https://play.google.com/store/apps/details?id=gov.va.mobileapp
+- Web: https://play.google.com/apps/testing/gov.va.mobileapp
 
 - **[if Pergiean email is different then Google Play email]** Ok, let's locate your email address associated with the account. Open your Google Play Store app and find your account icon on the top right corner within the search bar. Tap on the icon to find your account information. Ok I am going to have [Ashley/Melissa/Bridget/Jen] who is on the call set up that email address.
 
