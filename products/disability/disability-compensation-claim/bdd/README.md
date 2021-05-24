@@ -20,6 +20,7 @@ To be eligible for BDD, Service members must:
 - File their claim between 180 and 90 days prior to separation
 - Provide a copy of their service treatment record
 - Be available for 45 days from the date the claim is submitted to attend VA exams
+
 The following issues and conditions are excluded from BDD:
 - Service members who do not meet the requirements above,
 - Claims requiring case management, such as Service members who:
