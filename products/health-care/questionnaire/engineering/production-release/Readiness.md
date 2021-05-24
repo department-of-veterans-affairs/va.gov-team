@@ -17,9 +17,12 @@
 - [ ] Confirm that production PGD and HealthAPI has the necessary data(Questionnaire/Appointments/Organization/Location/User resources) for the Loma Linda patients
 
 ## Vetext/VA-Notify checklist
-- [ ] Ensure that the Vetext team has provided the Lighthouse team with the necessary public/private key pairs for the production environment
 - [ ] Ensure production configuration(data and network) has been established prior to going live
 - [ ] Ensure that the email and text template has been delivered and hooked up in the production environment
+
+## Pre Visit Summary (PVS)
+- [ ] Ensure that the PVS team has provided the Lighthouse team with the necessary public/private key pairs for the production environment
+- [ ] Ensure production configuration(data and network) has been established prior to going live
 
 ## Loma Linda/Jerry L Pettis integration checklist
 - [ ] Ensure that the PVS system is operational and communicating with the Lighthouse's production environment
