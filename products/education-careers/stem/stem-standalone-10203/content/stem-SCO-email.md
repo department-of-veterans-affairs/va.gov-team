@@ -21,7 +21,7 @@ If the student is currently enrolled in an undergraduate program, please provide
 - Credit hours completed toward STEM program (specify semester or quarter): 
 - Required credit hours for STEM program (specify semester or quarter):
 
-Note:  If student is enrolled in a dual degree program, at least one of the degrees must include an undergraduate degree in an approved STEM field.  For dual degree programs, please provide the total credit hours required for the dual degree program as well as the credits completed toward the dual degree program when responding above.
+Note:  If the student is enrolled in a dual degree program, at least one of the degrees must include an undergraduate degree in an approved STEM field.  For dual degree programs, please provide the total credit hours required for the dual degree program as well as the credits completed toward the dual degree program when responding above.
 
 ##### If the applicant is a teaching certificate candidate
 If the student already has an undergraduate degree and is seeking a teaching certification, please provide the following: 
