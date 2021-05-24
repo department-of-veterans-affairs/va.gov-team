@@ -23,6 +23,7 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 - If they have not been approved, tell the Veteran why they were not approved for a COE
 - If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information
 
+<!---
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
 
@@ -82,11 +83,5 @@ _This section contains alternative solutions to the stated objective, as well as
 
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+-->
 
-### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
-
-Date | Revisions Made | Author
------|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
