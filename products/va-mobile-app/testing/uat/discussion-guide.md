@@ -4,6 +4,14 @@ Thank you for joining us today. My name is [Bridget/Jen/Melissa]. To give you so
 
 Any questions so far?
 
+Great, I have a couple questions for you:
+- What type of device did you use to join this Zoom call today?
+    - If not mobile: Can you join from a mobile device?
+
+- Do you have your username and password that you use for VA websites handy?
+    - If not: Can you access them easily? We will need you to sign in with your own username and password for today’s conversation. 
+
+
 - I am going to ask you to share your phone screen on Zoom. I don't expect that you have done this before, and I will walk you through each step to screen share.
 
 - I will also walk you through installing the app on your phone. Once the app is up and running I will ask you to sign in using your own username and password. 
@@ -16,9 +24,12 @@ Great. Before we start, there are a few more things I want to mention:
 
 - Our conversation should take a little under an hour.
 - As I mentioned we're going to ask you to download and install an app on your phone.
-- When you are signed into the app, it will display your Appointment, Secure Messaging, Claims and Appeal, and VA.gov Profile information if you have it. I will ask you to navigate to different sections of the app to ensure data you may have in these areas is loading as expected. For example, I will ask you to do things like confirm that your personal information like date of birth, your Direct Deposit information, or things like your Secure Messages are correct. And since you will be sharing your phone we may see other personal things like other app notifications you have set (for example if you get any text messages and your email). 
-    - Are you comfortable sharing your screen with your personal information such as (birth date, address, health info) on it today with us on this call? 
+- We are testing an app that will let Veterans sign in and do things like send secure messages, check claims status, view appointments, view direct deposit & contact information, and download letters. To test this we’d like you to try these features out signed in as you. We’d like you to share screen with us here in Zoom as you do this. This will mean those of us on the call will follow along as you view your information. None of your data that we see will be shared with anyone else outside of this call. But it will help us to understand what is working (or broken) before we release the app. 
+    - Are you okay with that?
     - Do you have any questions about this?
+        - Ok, thank you for confirming that you are comfortable with this.
+    - If yes: Great. And since you will be sharing your phone screen with us, we may see other things like text messages or push notifications that pop up on your screen while you are sharing with us. 
+        - Are you okay with that?
 - If for any reason and at any time you change your mind and want to stop the session, please let me know. This is a voluntary session, and you can stop at any time. 
 - Again, the main goal today is to verify the app we built is showing correct information. However, if we have time at the end we want to hear any feedback you have. We will not be offended by any opinions you express. 
 
