@@ -8,7 +8,7 @@ NOTE: This documentation here is VSA-QA's adaptation & supplement of [VSP's Qual
 
 Content here will grow over time.  Below are links to our currently-available docs/tools/info:
 
-[Process](vsa-qa-process.md) (Manual UI testing for Platform Staging Review)
+[Process (Manual-UI testing)](vsa-qa-process.md) (for VSP Staging Review)
 
 [Capacity & Tasks](vsa-qa-tasks-capacity.md)
 
