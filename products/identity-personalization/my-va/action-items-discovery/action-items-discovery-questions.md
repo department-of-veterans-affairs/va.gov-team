@@ -14,7 +14,7 @@ To help us figure this out, we'd like to better understand:
 - What are the most important action items for users?
 - What are the least important action items for users?
 - How do people expect to see these action items?
-  - How do people expect their action itemts to be ordered?
+  - How do people expect their action items to be ordered?
   - Do people expect to see action items in sections or in an 'action item hub'?
 - How do users expect to be able to resolve these action items?
 - Will people come to My VA to see their notifications? 
