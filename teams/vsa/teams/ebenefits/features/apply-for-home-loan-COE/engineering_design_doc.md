@@ -4,7 +4,7 @@ _Replace the previous line with the the title of your project or component and r
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
 **Status:** Draft
-**Approvers:** 
+- **Approvers:** 
 - Jason Wolf [ ]
 - Jesse Cohn [ ]
 - Micah Chiang [ ]
