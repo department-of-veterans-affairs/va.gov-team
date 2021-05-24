@@ -19,7 +19,9 @@ If the student is currently enrolled in an undergraduate program, please provide
 - Name of STEM program student is enrolled in: 
 - 6-digit CIP Code for the program:
 - Credit hours completed toward STEM program (specify semester or quarter): 
-- Required credit hours for STEM program (specify semester or quarter): 
+- Required credit hours for STEM program (specify semester or quarter):
+
+Note:  If student is enrolled in a dual degree program, at least one of the degrees must include an undergraduate degree in an approved STEM field.  For dual degree programs, please provide the total credit hours required for the dual degree program as well as the credits completed toward the dual degree program when responding above.
 
 ##### If the applicant is a teaching certificate candidate
 If the student already has an undergraduate degree and is seeking a teaching certification, please provide the following: 
@@ -36,6 +38,8 @@ If the student already has a bachelor's or graduate degree and is pursuing a cli
 - Name of STEM program of degree conferred: 
 - Is the student currently pursuing a covered clinical training program for health care professionals?
 ([Programs approved for the Rogers STEM Scholarship](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf))
+- Total length of clinical training program (in months or years):
+- Amount of clinical traiing program completed to date (in months or years):
 
 **A reply is requested as soon as possible, preferably within 14 days**. Please submit your response to [STEM.VBABUF@va.gov]. If we don’t receive a response, we won’t be able to process the student’s application for the Rogers STEM Scholarship, and we may follow up for the required information. 
 
