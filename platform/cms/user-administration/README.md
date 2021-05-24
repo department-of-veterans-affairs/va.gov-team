@@ -1,17 +1,46 @@
-# Create a new CMS user account in prod (CMS team user admins only)
+# How to create a new CMS user account in prod 
+*For CMS team user admins only*
 
-## TL;DR
+## General process
+1. **Receive** new account request
+2. **Acknowledge** request
+3. **Evaluate** request if any of the below is missing or unclear:
+   -  VA digital product and/or section
+   -  Role: Editor, publisher, content admin
+   -  Do they have network access? (Folks who are remote/ or contractors will need CAG or some other means of accessing the network first).
+   -  Name of person who can verify the users's permissions and what training or other criteria must be met before the account is approved. (See next section for verifiers by product).
+4. **Investigate** by following up with the requester if any information is missing.
+5. **Verify** request 
+   - Contact verifier to approve the sections and roles.
+   - Confirm the training or other criteria necessary to approve the account.
+6. **Set up** verified account
+   - If training is required: add user in prod but set account to *blocked*. The account permissions you create in prod will show up in the training environment, but they will be automatically set to active in that environment. 
+   - VAMC accounts: create as blocked in prod with Content creator - VAMC and Content editor roles.
+7. **Confirm** (or reject) CMS account request
+  - Send confirmation that account was verified
+  - Include next steps and training assignment (if applicable)
+8. **Approve** the account. 
+   - Once the user has completed training and passed any additional criteria, their account is considered approved.
+   - Set the account to *active* in prod to complete
+   - VAMC: Wait until Stan has given the OK (this usually occurs when the VAMC or VISN goes into dual-state or live), then add the publisher role and set to active in prod.
+     
+  
+## CMS account verification
 
-### VAMC
-1) create as blocked in prod with Content creator - VAMC and Content editor roles, which will carry them over to training environment as active during training
-2) activate in prod when they complete training and Stan gives us the OK
-3) add Content publisher role in prod when they are going to dual state (or live?) when Stan gives us the OK.
-See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
+**VAMC**
+- Person to contact for verification: Stan Gardner
+- How to reach them: Slack
+- Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
-### Anyone who wants access to Benefits Hubs
-Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
-See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
+**Benefits hubs**
+- Person to contact for verification: Randi Hecht and Danielle Thierry
+- How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
+- Reference: See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
 
+
+
+
+----
 
 ## Process Overview - Training Needed
 
