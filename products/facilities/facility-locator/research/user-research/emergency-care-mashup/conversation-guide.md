@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
     * If yes: what kind of facility was it (VA/non-VA)?
     * If yes: can you tell me why you decided on that particular location?
     * If yes: How did you find out about that specific location?
-    * Can you tell me about your understanding of your VA benefit coverge in the event of an emergency?
+    * Can you tell me about how your VA benefit coverge works, in the event of an emergency?
 
 ## Usability Test - 30 minutes
 
