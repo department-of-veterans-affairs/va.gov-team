@@ -56,11 +56,21 @@ For more info, check out:
 
 ## Timeline 
 
-* October 2019: SuperTeam was formed with members from CMS, VSP, and VFS teams.
-* November 2019: SuperTeam disbanded
-* 2020: Teams worked toward implementing the CMS Export approach (CMS, then VSP, then VFS)
-* February 2021: Risk was identified that existing architecture would hit scalability limits somewhere between 4k-12k nodes, and the timeline for CMS Export implementation was potentially too long to meet the short term node scalability needs.
-* February 2021: Public Websites team parallelized GraphQL, significantly improving scalability of content releases [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/15974).
-* February 2021: Decision was made to pivot away from CMS Export approach. 
-* April 2021: CMS Export retrospective met with all SuperTeam participants and key personnel from throughout the initiative.
-* May 2021: This doc was created by Megan K to summarize learnings discussed in retro.
+| Date | Event | Reference |
+| --- | --- | --- |
+| Oct - Nov 2019 | Super Team authorized for 2 sprints with members from CMS, VSP, and VFS teams. | [Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2019-11-superteam-draft-charter.md) |
+| Feb 2020 | CMS Export epic created | [Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5989) |
+| Jan 2021 | CMS Export status: pipeline implemented only in dev env, transformers code incomplete | [RFC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165) |
+| Jan 2021 | CMS Export status: pipeline implemented only in dev env, transformers code incomplete | [RFC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165) |
+| Jan 2021 | CMS Export benchmarks show poor scaling performance | [Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18592) |
+| Jan 2021 | GQL benchmarks show build failure at =<13k nodes | [Benchmark](https://docs.google.com/spreadsheets/d/1enwIGvEyGLVCLIHeRWXrp-ggDsnss8dyxSK4Bvxx4Mw/edit#gid=682480522) |
+| Jan 2021 | VAMC Rollout is projected to exceed 13k nodes by mid-April | [Roadmap](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=0&range=M13)
+| Feb 2021 | Refactor of monolithic GQL query | [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/15974)
+| Feb 2021 | GQL multiquery successfully bencmarked to 14k nodes | [Benchmark](https://docs.google.com/spreadsheets/d/1enwIGvEyGLVCLIHeRWXrp-ggDsnss8dyxSK4Bvxx4Mw/edit#gid=1540963105&range=G18:I18)
+| Feb 2021 | EOL CMS Export | [RFC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)
+| Mar 2021 | CMS team scales Drupal infrastructure | 
+| Mar 2021 | FE Tools optimizes downstream GQL build | [Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20763)
+| Mar 2021 | FE Tools implements automated content-only builds | [Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18845)
+| Mar 2021 | GQL multiquery successfully benchmarked to >=35k nodes | [Benchmark](https://docs.google.com/spreadsheets/d/1enwIGvEyGLVCLIHeRWXrp-ggDsnss8dyxSK4Bvxx4Mw/edit#gid=1569583465)
+| Apr 2021 | CMS Export retrospective met with all Super Team participants and key personnel from throughout the initiative | |
+| May 2021 | This doc created to summarize learnings discussed in retro (author: Megan K) | |
