@@ -32,7 +32,7 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 
 We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
 
-####Back End
+###Back End
 
 Since an endpoint exists already that handles much of the logic for deciding approval status we simply need to create an endpoint for the front end to hit that will
   - receive the call from the front end
@@ -44,7 +44,7 @@ Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status
 **Unanswered question** what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`
 
 
-####Front End
+###Front End
 
 We need to build a UI that will alow the user to see if they have been approved for a COE AND also download tht COE in a PDF. The front end will
   
