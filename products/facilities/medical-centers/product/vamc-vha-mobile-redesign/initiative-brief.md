@@ -13,6 +13,11 @@ Although mobile clinics are very different than physical clinics in service offe
 ## Problem Statement
 
 _What is the problem?_
+
+The VMAC MVP detail page was designed with fixed locations offering multiple services in mind. As systems have rolled out nationwide, we realized there are other types of facilities - 
+- _mobile_ locations offering multiple services (mobile clinics)
+- fixed locations offering _one/minimal_ services (domiliciaries and community living centers) 
+
 The information displayed for mobile locations is misleading, incomplete and/or inaccurate. Our Veterans deserve better. We need to reimagine the appropriate experience for mobile detail pages within the VAMC product.
 -The current VAMC page displays one address, which is probably where it is parked overnight - rather than representing the various locations where services are delivered/available.
 - The current VAMC page displays one set of hours - which may not represent true availability.
