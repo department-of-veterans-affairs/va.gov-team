@@ -1,15 +1,15 @@
 # COE Design Doc
 
-**Author(s):** Jesse Cohn 
-**Last Updated:** 5/24/21  
-**Status:** Draft
+**Author(s):** Jesse Cohn  
+**Last Updated:** 5/24/21   
+**Status:** Draft 
 
 **Approvers:** 
-- Jason Wolf [ ]
-- Jesse Cohn [ ]
-- Micah Chiang [ ]
-- Jim Adams [ ]
-- Kathleen Crawford [ ]
+- [ ] Jason Wolf  
+- [ ] Jesse Cohn  
+- [ ] Micah Chiang  
+- [ ] Jim Adams  
+- [ ] Kathleen Crawford  
 
 _The intended audience for this document are software engineers, but it should make sense to anyone familiar with software development._
 
