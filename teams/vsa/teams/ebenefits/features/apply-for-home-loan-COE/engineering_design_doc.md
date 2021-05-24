@@ -1,15 +1,15 @@
 # COE Design Doc
 
-**Author(s):** Jesse Cohn  
-**Last Updated:** 5/24/21   
-**Status:** Draft 
+**Author(s):** Jesse Cohn 
+**Last Updated:** 5/24/21  
+**Status:** Draft
 
 **Approvers:** 
-- [ ] Jason Wolf  
-- [ ] Jesse Cohn  
-- [ ] Micah Chiang  
-- [ ] Jim Adams  
-- [ ] Kathleen Crawford  
+- Jason Wolf [ ]
+- Jesse Cohn [ ]
+- Micah Chiang [ ]
+- Jim Adams [ ]
+- Kathleen Crawford [ ]
 
 _The intended audience for this document are software engineers, but it should make sense to anyone familiar with software development._
 
@@ -24,11 +24,39 @@ Since the Veteran's process for viewing thier COE currently depends on the eBene
 - If they have not been approved, tell the Veteran why they were not approved for a COE
 - If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information
 
-### Considerations
-- A siginificant portion of the backend work is being taken on by the LGY team but this team will need to be aware of the reseults fro mthat wrok to accurately reflect the Veteran's next step to copmlete a successfull form 1880.
 
-<!---
-### High Level Design
+### High Level Engineering Spec
+To build the COE applicaiton and achieve the objectives mentioned above we need a few distict pieces of functionality which will be shown in greater detail later. Let's go objective by objective.
+
+` - If they have been approved, allow Veterans to download their fully filled out COE as a PDF`
+
+We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
+
+<details><summary>Back End</summary>
+Since an endpoint exists already that handles much of the logic for deciding approval status we simply need to create an endpoint for the front end to hit that will
+  - receive the call from the front end
+  - using the profile data make a call to the LGY service
+  - pass the returned data from the LGY service to the front end
+  
+Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
+  
+** Unanswered question ** what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`
+</details>
+
+<details><summary>Front End</summary>
+We need to build a UI that will alow the user to see if they have been approved for a COE AND also download tht COE in a PDF. The front end will
+  - send a call to the back end
+  - based on the data returned from the back end tell the user if they are eligible for a COE
+  - If the user IS approved for a COE, give them a link to download it
+  
+** Question ** How do we `give them a link to download` the COE
+  
+** Answer ** We have been given a second service from LGY that provides the PDF version of the COE.
+  
+** Uanswered question ** Can the back end get both the eligibility AND a link to the pdf version of the COE so that the front end only needs to make one call?
+</details>
+
+<!--
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
 
 _A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
