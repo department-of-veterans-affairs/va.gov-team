@@ -142,7 +142,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Before
 
+[See this in Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?wid=0-1621864313237)
+
+![image](https://user-images.githubusercontent.com/4960080/119375373-bb5de880-bc88-11eb-9b3f-005c999cd7e7.png)
+
 ### After
+
+[Mural board exploration](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?wid=0-1621870530451)
+
+![image](https://user-images.githubusercontent.com/4960080/119375859-51920e80-bc89-11eb-9328-d6789938840e.png)
 
 ---
 
