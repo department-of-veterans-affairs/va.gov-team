@@ -12,7 +12,7 @@ This section of profile allows users to review and edit the list of facilities w
 
 ## When/where to show the health facilities section
 
-- We will show this section to users who have VA health care.
+- We will show this section to users who have VA health care, using the same logic we use in My VA.
 - Should appear in profile nav immediately after direct deposit (as shown in [desktop mock-ups](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006241/simulate/sitemap?mode=i))
 
 ## URL
@@ -42,6 +42,8 @@ Initial state, before a user has made any edits, desktop and mobile (use links a
 
 - Everything else in this section pulls from existing patterns in profile or the VA design system.  There aren't any new spacing patterns (aside from above), components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
 
+- Focus should be circular when going between edit and read modes.
+
 ## Copy
 
 `h1` and `nav` item reads
@@ -50,7 +52,9 @@ Initial state, before a user has made any edits, desktop and mobile (use links a
 
 Copy below `h1`:
 
-> These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/). You can edit this list at any time.
+> These are the facilities you go to for care. We may use this information when you [schedule an appointment online](va.gov/health-care/schedule-view-va-appointments/appointments/) at certain facilities. You can edit this list at any time.
+>
+> **Note:** Editing the list in your profile won’t delete or change your facility registrations.
 
 FAQ below list:
 
@@ -71,17 +75,27 @@ FAQ below list:
 
 Display a success background-only alert immediately after the `h1`, same behavior as what we do in direct deposit
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138069327/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138016196/simulate/no-panels?mode=i)
 
 #### Copy
 
 > We’ve updated the list of facilities where you currently receive health care.
 
+### User has facilities that are not marked as current
+
+Under the list of facilities list, include content so user knows they have facilities that are not displayed in the list.  We'll need to make sure the language accounts for 1 and multiples
+
+[Mock-up](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006250?mode=i)
+
+#### Copy
+
+> **Note:** 
+
 ### Facilites endpoint failure (can't load any data about facilities)
 
-Display error alert immediately after `h1`
+Display error alert immediately after `h1` in place of all other content
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080509/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006249/simulate/no-panels?mode=i)
 
 #### Copy
 
@@ -99,7 +113,7 @@ Use existing copy.
 
 Display error alert after last `fieldset` and before update/cancel buttons
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080510/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/2c99ba26116e28b032d83eb4f636b448c9bde2b2#/pages/138006245/simulate/no-panels?mode=i)
 
 #### Copy
 
