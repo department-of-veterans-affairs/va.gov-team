@@ -42,16 +42,29 @@ Examples:
 
 ### Specs
 
-#### Layout / Components
-
-- Follow existing patterns for padding + margins from other parts of profile
-- Everything in this section pulls from existing patterns in profile or the VA design system.  There aren't any custom spacing patterns, components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
-
 #### Accessibility
 
 - Edit, update, and cancel buttons should all have unique aria-labels e.g. "update Applications, claims, decision reviews, and appeals notifications" instead of just "update"
 - Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify by text, checkbox, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
 - Lists should be used in read view so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
+
+#### Content
+
+List things in alphabetical order:
+
+- Notification groups should be listed alphabetically
+- Notification items should be listed alphabetically within each group
+- In edit mode, `notify by email` should come before `notify by text`
+
+#### Layout / Components
+
+- Follow existing patterns for padding + margins from other parts of profile
+
+- I think this is a new pattern on desktop in that it's 2 columns (value + edit button) instead of 3 in other parts of profile (key + value + edit button).  Please keep 48px of distance between text and the edit button (example shown is from a different section of profile, but same concept applies).
+
+  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/edit-button-spacing.png)
+
+- Everything in this section pulls from existing patterns in profile or the VA design system.  There aren't any custom spacing patterns, components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
 
 ## Copy
 
