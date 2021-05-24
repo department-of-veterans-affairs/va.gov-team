@@ -14,3 +14,5 @@ During the video, your team will walk though the primary flows of the product, u
 
 
 If neither Contact Center POCs are available, the video can still be created by the team and sent to the [#vsp-contact-center-support](https://dsva.slack.com/channels/vsp-contact-center-support) Slack channel for review.
+
+[Further upload instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/product-management/demo-video-creation-process.md)  
