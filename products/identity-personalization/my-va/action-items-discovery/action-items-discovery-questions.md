@@ -21,12 +21,6 @@ To help us figure this out, we'd like to better understand:
 ## Past research
 
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
-- [Brand consolidation research (2018)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research)
-  - [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203%20Research%20Readout.pptx)
-  - [April 2018 deck 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203b%20Research%20Readout.pptx)
-  - [September 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
-  - [October 1, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-6/Brand%20Consolidation%20Research%20Summary%2010-1-2018_study%206%20only.pptx)
-  - [October 25, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx)
 - My VA research
   - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
 
