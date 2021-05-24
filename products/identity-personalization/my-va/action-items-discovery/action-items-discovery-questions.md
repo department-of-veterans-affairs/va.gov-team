@@ -1,4 +1,5 @@
 # My VA - Action Items: Discovery questions and research review
+Tressa Furner, Authenticated Experience, May 24, 2021
 
 [Action Item Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/README.md)
   
@@ -21,7 +22,7 @@ To help us figure this out, we'd like to better understand:
 ## Past research
 
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
-- [Clinical reminders]
+- [Clinical reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md)
 
 ## Questions I have
 
@@ -64,7 +65,7 @@ To help us figure this out, we'd like to better understand:
 ## Next steps
 
 - Audit of va.gov and how we are currently doing on-page notifications (if this exists anywhere)
-- Collab with other teams working on notifications/action items (health care & debt resolutions)
+- Collab with other teams working on notifications/action items (health care & debt resolutions...maybe VAOS?)
 - Comparative analysis
 - Rough sketches
 
