@@ -32,7 +32,8 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 
 We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
 
-<details><summary>Back End</summary>
+**Back End**
+
 Since an endpoint exists already that handles much of the logic for deciding approval status we simply need to create an endpoint for the front end to hit that will
   - receive the call from the front end
   - using the profile data make a call to the LGY service
@@ -40,21 +41,23 @@ Since an endpoint exists already that handles much of the logic for deciding app
   
 Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
   
-** Unanswered question ** what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`
-</details>
+**Unanswered question** what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`
 
-<details><summary>Front End</summary>
+
+**Front End**
+
 We need to build a UI that will alow the user to see if they have been approved for a COE AND also download tht COE in a PDF. The front end will
-  - send a call to the back end
-  - based on the data returned from the back end tell the user if they are eligible for a COE
-  - If the user IS approved for a COE, give them a link to download it
   
-** Question ** How do we `give them a link to download` the COE
+- send a call to the back end
+- based on the data returned from the back end tell the user if they are eligible for a COE
+- If the user IS approved for a COE, give them a link to download it
   
-** Answer ** We have been given a second service from LGY that provides the PDF version of the COE.
+Question - How do we `give them a link to download` the COE?
   
-** Uanswered question ** Can the back end get both the eligibility AND a link to the pdf version of the COE so that the front end only needs to make one call?
-</details>
+Answer - We have been given a second service from LGY that provides the PDF version of the COE.
+  
+**Uanswered question** Can the back end get both the eligibility AND a link to the pdf version of the COE so that the front end only needs to make one call?
+
 
 <!--
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
