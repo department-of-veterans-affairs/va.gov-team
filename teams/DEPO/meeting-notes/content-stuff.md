@@ -1,0 +1,40 @@
+The first 15 min will be focused on hearing from Beth and Danielle about how the pilot is going. What has happened, what’s going well, what has been tough, what have you learned?
+
+- goal of the service model was to support designers in content creation for forms, so the end result better met our standards, and to improve content quality. 
+- 2 months ago, started suite-specific office hours, and have created a handful of content briefs
+- doesn't feel like a content brief is needed for everything
+- have found designers embrace collab, appreciate feedback
+- designers want more of it, more 1:1 time and separate meetings, office hours weren't enough
+- varies from designer to designer, people want to work differently, so not one rigid process to suit everyone
+- running a lot of things, so it always feels like ah what's going on this week
+- w/one suite, starting a Friday/Monday check-in asking designers to give me a look at what's going on next week - do you need something big, etc? have tried it for 2 weeks, and designers are engaging well. helps me go into the weekend knowing there's one big thing and three little things coming, rather than going into office hours not knowing
+- might merge some office hours into each other if it turns out there are a lot of 1:1s needed. working well for myself and designers
+- w/other suite we check in during office hours on what's going on, and decide then what extra meetings we need
+- it's high touch
+- we're able to accomplish some things in meetings, and need to go think through strategy offline sometimes too, rolling with whatever works
+- the intake form now has a section about "do you think you need more info than office hours?"
+- have been iterating and refining interactions w/designers, purpose of this meeting is refining interaction w/Peggy as well and make sure we're addressing concerns here and things are working well for everbody
+
+---
+
+The next 45 min will be reserved for ideation around two opportunities for improvement that have been identified in recent conversations: 
+
+1)	Part of the purpose of the midpoint review is for VFS teams to get feedback before going into usability testing, so it’s important for them to get a content review then (this is in response to the idea that midpoint reviews could be more of a check in for advice as opposed to a review). How might we make it so that SWC-collab’d content gets a review prior to usability testing?
+
+2)	Both teams have reported feeling like there has been a divergence from the collaborative nature they used to share – and they miss it! The folks on the Collab Cycle side feel the onus is often on them to ask for information, and they sometimes don’t know what they don’t know. How might we get Product Support more transparency into the status of SWC content, and into standards/patterns-related work that’s starting up or nearing launch (like the new form into template)?
+
+3) 
+- PG: content brief is the most unclear area for me
+- PG: what's the criteria for whether a team needs one, and how will product support know that? we ask for the content brief as an artifact in our touch points, but it seems like most teams don't know about it or what it's for
+- BP: i'm using the brief more than designers, PMs don't seem conscious of the doc. Could peggy ask Beth/Danielle instead of the product team for that artifact?
+- BP: unsure how useful the brief will be to designers. do they use it now, or are they relying on our meetings? the brief is not meant to be something the team creates or updates. so maybe the brief should come from SWC instead of VFS teams, and then the question is how do we get that to product support?
+- SG: where are the content briefs stored? maybe if we knew the location, we can just go grab from there.
+- BP: they're in the content folder in GitHub, I'll point Peggy to where I'm saving them. Can have Danielle put hers in the same folder.
+- PG: I think I know where they are, but there was only 1 there. 
+- DT: haven't started a content brief yet, bc haven't been w/any projects from the beginning yet, but have a couple that are starting.
+- PG: we ask for the briefs in our cc templates, so maybe we need to change that if most teams won't have that.
+- PG: what's the critera for/for not creating a brief? how do you determine a project that does/does not need one?
+- DT: first criteria was "new projects", but the iteration of the content brief will be dependent upon what we learn. We'll have to figure it out as we go since it's a new concept. Part of the brief has tips for the designers, pointing out key, simple things, as well as product-specific content notes. It'll take time to see how much value there is in capturing that in a content brief. Might actually go back and create one retro-actively for the FSR, bc the stakeholders changed their mind significantly on language, and that's the kind of thing we want to capture
+- 
+
+
