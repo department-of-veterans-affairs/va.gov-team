@@ -10,7 +10,7 @@ The purpose of this research is to get a baseline understanding of how the curre
 
 ## Research Methodology 
 
-We conducted remote moderated research sessions via Zoom on **April 26 - May 5, 2021**. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks (goal in parentheses):
+We conducted hour-long remote moderated research sessions via Zoom on **April 26 - May 5, 2021**. Participants were asked about their past usage of the VA.gov site, and then were given some common Veteran tasks as wayfinding prompts to explore the live VA.gov website. Wayfinding was assessed in terms of participants' success in doing the following typical Veteran tasks (goal in parentheses):
 1. Ask your VA doctor a followup question (send a secure message)
 1. Find out if your disability claim has been approved (track claim status)
 1. Find the form to fill out to say that you want someone to be your representative in your disability claim appeal (find form 21-22a Appointment of Individual As Claimant's Representative)
