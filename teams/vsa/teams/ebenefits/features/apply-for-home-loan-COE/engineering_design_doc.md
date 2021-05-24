@@ -71,6 +71,19 @@ If the LGY service can tell us why the Veteran was `ineligible` or `unable to de
 
 </details>
 
+<details><summary>If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information</summary>
+
+> Once we have informed the Veteran that they were determined to be `inelibilbe` or `unable to determine` based on LGY not having some information, we need to show the Veteran a form that allows us to provide LGY with the missing information.
+  
+### Back End
+An endpoint will need to be set up to
+- Recieve a form submission from the Front End
+- Send the data to LGY
+  
+### Front End
+We will use the Form System to create a form that hides and shows fields based on the data returned from LGY on what infromation they are missing. That form will then pass the data on submit to the back end to be sent to LGY.
+<details>
+
 ## Detailed Design
 
 ### Assumptions
