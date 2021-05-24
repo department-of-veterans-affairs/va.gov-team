@@ -3,6 +3,7 @@
 Table of Contents
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering_design_doc.md#background) 
 - [High Level Engineering Spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering_design_doc.md#high-level-engineering-spec)
+- [Detailed Design]()
 
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
@@ -32,9 +33,9 @@ Since the Veteran's process for viewing thier COE currently depends on the eBene
 ## High Level Engineering Spec
 To build the COE applicaiton and achieve the objectives mentioned above we need a few distict pieces of functionality which will be shown in greater detail later. Let's go objective by objective.
 
-` - If they have been approved, allow Veterans to download their fully filled out COE as a PDF`
+<details><summary>If they have been approved, allow Veterans to download their fully filled out COE as a PDF</summary>
 
-We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
+  We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
 
 ### Back End
 
@@ -53,19 +54,20 @@ We need to build a UI that will alow the user to see if they have been approved 
 - send a call to the back end
 - based on the data returned from the back end tell the user if they are eligible for a COE
 - If the user IS approved for a COE, give them a link to download it
+  
+</details>
 
 
-<!--
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
+                 
 
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
+## Detailed Design
 
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+### Assumptions
+- The LGY service will return to us WHY the Veteran was determined to be `ineligible`
+- If the Veteran was determined to be `ineligible` or `unable to determine` because of missing information, the LGY service will return to us what data is missing
 
-## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
-### Detailed Design
+
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
 
 _This is a great place to put APIs, communication protocols, file formats, and the like._
