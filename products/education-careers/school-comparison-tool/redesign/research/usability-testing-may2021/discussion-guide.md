@@ -91,7 +91,7 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 
 ## Third Task: Map Utilization - 5 minutes
 
-- You found some good opportunities in San Antonio, but you know that there might be additional options in Austin, Texas.  Could you talk me through how you would use the Comparison Tool to see all the training opportunities offered in both San Antonio and Austin?
+- You've looked at training opportunities in **Austin** and **San Antonio** separately, but want to see all of those results at the same time.  Could you talk me through how you would use the Comparison Tool to see all the training opportunities offered in both **San Antonio** and **Austin**?
 
 _Prompt_ Let's say when you performed this search, there were a lot of results.  What factors would be important to you in narrowing down your search to find the right place for you?  
 - Would you be able to narrow down your results here on the tool?
@@ -106,7 +106,13 @@ _Prompt_ Let's say when you performed this search, there were a lot of results. 
  - What do you think of how the map showed your results?
  - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
  - For you personally, how far would you be willing to commute to go to school?
- 
+
+
+### Alternate Questions
+- When you are conducting searches online, do you ever use the map functionality?
+- If yes, what are you typically looking for?
+- Which sites are you visiting?
+- What do you like about those sites?  Any frustrations?
 
 ## Thank-You and Closing - X minutes
 
