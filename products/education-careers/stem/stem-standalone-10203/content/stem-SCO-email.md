@@ -2,7 +2,7 @@
 
 Dear VA School Certifying Official, 
 
-A student enrolled at your school has applied for the Edith Nourse Rogers STEM Scholarship.  The student will also receive a copy of this letter. We can't make a formal determination on the student’s eligibility for the STEM Scholarship until we receive the following information from you. 
+A student enrolled at your school or training facility has applied for the Edith Nourse Rogers STEM Scholarship.  The student will also receive a copy of this letter. We can't make a formal determination on the student’s eligibility for the STEM Scholarship until we receive the following information from you. 
 
 #### Rogers STEM Scholarship Applicant
 
