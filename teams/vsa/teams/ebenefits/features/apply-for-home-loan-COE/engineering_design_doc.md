@@ -56,9 +56,18 @@ We need to build a UI that will alow the user to see if they have been approved 
 - If the user IS approved for a COE, give them a link to download it
   
 </details>
+      
+<details><summary>If they have not been approved, tell the Veteran why they were not approved for a COE</summary>
+> Once the LGY service returns data that the Veteran is either `ineligible` or `unable to determine` we need to tell the Veteran this.
+> It would also be nice if we can tell the Veteran why they were determined to be `ineligible` or `unable to determine` but we are not sure if the LGY service can do this
+  
+### Back End
+If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then the back end will need to pass that data to the front end, hopefully in the same call made in the previous objective.
+  
+### Front End
+If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then we will need to show the user this reason in an AlertBox as well as what they can do about it.
 
-
-                 
+</details>
 
 ## Detailed Design
 
@@ -66,7 +75,7 @@ We need to build a UI that will alow the user to see if they have been approved 
 - The LGY service will return to us WHY the Veteran was determined to be `ineligible`
 - If the Veteran was determined to be `ineligible` or `unable to determine` because of missing information, the LGY service will return to us what data is missing
 
-
+<!--
 
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
 
