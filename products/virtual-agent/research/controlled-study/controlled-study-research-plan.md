@@ -29,7 +29,7 @@ We hope to gather the following qualitative insights:
 - How often do you speak with a VA support agent to help you resolve an issue?
 - What sort of issues do you look to resolve with a VA support agent?
 - How can a chatbot help you reduce how often you call the VA?
-- Based on your experience today, are you willing to to use the chatbot again?
+- Based on your experience today, are you willing to use the chatbot again?
 - Do you have any other feedback you'd like to share?
 
 4. Hypothesis: What is your hypothesis for this research? 	
