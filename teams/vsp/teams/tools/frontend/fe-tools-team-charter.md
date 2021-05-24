@@ -14,7 +14,6 @@
 - Frontend engineer: Theo 
 - Frontend engineer: Oseas
 - Frontend engineer: Calvin
-- Frontend engineer: Alex
 
 ---
 
