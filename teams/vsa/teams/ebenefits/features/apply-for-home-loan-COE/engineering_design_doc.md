@@ -40,9 +40,11 @@ Since an endpoint exists already that handles much of the logic for deciding app
   - pass the returned data from the LGY service to the front end
   
 Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
-  
-**Unanswered question** what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`
 
+<details><summary>what do we do if LGY returns `ineligible`? What do we do on the front end if it returns `unable to determine`</summary>
+This is yet unanswered. If you have the answer, feel free to enlighten us.
+</details>
+ 
 
 ### Front End
 
