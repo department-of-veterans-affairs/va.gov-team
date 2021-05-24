@@ -56,6 +56,15 @@ We need to build a UI that will alow the user to see if they have been approved 
 - based on the data returned from the back end tell the user if they are eligible for a COE
 - If the user IS approved for a COE, give them a link to download it
 
+```flow
+st=>start: Start
+op=>operation: Call to Back End
+cond=>condition: Veteran Is Approved?
+
+cond(yes)->Show an alert box that the veteran is approved with a link to download COE
+cond(no)->Show an alert that the veteran is not approved and why
+```
+
 <details><summary>How do we "give them a link to download" the COE?</summary>
 We have been given a second service from LGY that provides the PDF version of the COE.
 </details>
