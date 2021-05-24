@@ -51,7 +51,7 @@
 ### Team Clarity Requests: (Call out tickets)
 
 ### Dad Joke:  
-- What did the ocean say to the beach?  
+- What did the ocean say to the beach?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
 
 ## Wednesday, May 12, 2021
 
