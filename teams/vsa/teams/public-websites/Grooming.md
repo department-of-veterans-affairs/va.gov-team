@@ -48,6 +48,11 @@
 - [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
 - [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
 
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- What did the ocean say to the beach?  
+
 ## Wednesday, May 12, 2021
 
 ### Key Grooming Factors:
@@ -527,3 +532,6 @@ Notes/Next Steps:
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke Answers: 
+May 26: Thanks for all the sediment.
