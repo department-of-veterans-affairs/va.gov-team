@@ -3,23 +3,24 @@
 
 ## General process
 1. **Receive** new account request
-2. **Acknowledge** request
-3. **Evaluate** request if any of the below is missing or unclear:
+   - Make sure there's an existing JIRA ticket for the request, or create a new one.
+3. **Acknowledge** request
+4. **Evaluate** request if any of the below is missing or unclear:
    -  VA digital product and/or section
    -  Role: Editor, publisher, content admin
    -  Do they have network access? (Folks who are remote/ or contractors will need CAG or some other means of accessing the network first).
    -  Name of person who can verify the users's permissions and what training or other criteria must be met before the account is approved. (See next section for verifiers by product).
-4. **Investigate** by following up with the requester if any information is missing.
-5. **Verify** request 
+5. **Investigate** by following up with the requester if any information is missing.
+6. **Verify** request 
    - Contact verifier to approve the sections and roles.
    - Confirm the training or other criteria necessary to approve the account.
-6. **Set up** verified account
+7. **Set up** verified account
    - If training is required: add user in prod but set account to *blocked*. The account permissions you create in prod will show up in the training environment, but they will be automatically set to active in that environment. 
    - VAMC accounts: create as blocked in prod with Content creator - VAMC and Content editor roles.
-7. **Confirm** (or reject) CMS account request
+8. **Confirm** (or reject) CMS account request
   - Send confirmation that account was verified
   - Include next steps and training assignment (if applicable)
-8. **Approve** the account. 
+9. **Approve** the account. 
    - Once the user has completed training and passed any additional criteria, their account is considered approved.
    - Set the account to *active* in prod to complete
    - VAMC: Wait until Stan has given the OK (this usually occurs when the VAMC or VISN goes into dual-state or live), then add the publisher role and set to active in prod.
@@ -30,11 +31,13 @@
 **VAMC**
 - Person to contact for verification: Stan Gardner
 - How to reach them: Slack
+- Training required? Yes.
 - Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
 **Benefits hubs**
 - Person to contact for verification: Randi Hecht and Danielle Thierry
 - How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
+- Training required? No. (Public Websites team typically does their own training).
 - Reference: See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
 
 
