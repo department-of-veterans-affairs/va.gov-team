@@ -18,7 +18,7 @@ In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit C
 Check your screensharing setup and share permissions for participants.
 When the participant is ready, begin the session with the following intro
 ## Project-specific setup
-•	Mural board prepped
+-	Mural board prepped
 ## Intro - 5 minutes
 Hi everyone, thank you all so much for taking time out of your day to talk with us. I'm [name], I'll be guiding our conversation today. A few of my colleagues are on the call to take notes and listen in.
 
@@ -39,11 +39,11 @@ Let's start with a quick round of introductions, you all might know each other, 
 
 Intro activity using mural (moderator/notetaker drives)
 - Go around and introduce yourself, name, role, pronouns if you’d like to share them.
--	In one word, how would you describe:
-  -	..
-  -	..
-  -	The process of checking in Veterans to your facility
-  -	The process of queuing and tracking patients through their appointments and services at your facility
+- In one word, how would you describe:
+    - ..
+    - ..
+    - The process of checking in Veterans to your facility
+    - The process of queuing and tracking patients through their appointments and services at your facility
 ## Task Intro - 2 minutes
 Okay, now we're going to dive into it.
 
