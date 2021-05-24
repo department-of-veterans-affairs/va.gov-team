@@ -21,8 +21,7 @@ To help us figure this out, we'd like to better understand:
 ## Past research
 
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
-- My VA research
-  - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
+- [Clinical reminders]
 
 ## Questions I have
 
