@@ -58,7 +58,9 @@ We need to build a UI that will alow the user to see if they have been approved 
 </details>
       
 <details><summary>If they have not been approved, tell the Veteran why they were not approved for a COE</summary>
+  
 > Once the LGY service returns data that the Veteran is either `ineligible` or `unable to determine` we need to tell the Veteran this.
+  
 > It would also be nice if we can tell the Veteran why they were determined to be `ineligible` or `unable to determine` but we are not sure if the LGY service can do this
   
 ### Back End
