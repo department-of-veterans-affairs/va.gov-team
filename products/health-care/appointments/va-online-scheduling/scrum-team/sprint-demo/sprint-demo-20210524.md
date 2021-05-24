@@ -32,15 +32,6 @@
   - [Remove all Express Care code and logic from appointment list pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23718)
   - [Cheetah-Update facility phone number to covid scheduling line](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22394)
 
-- Brad
-  - [Investigate VAOS app toggle history (Production)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24735)
-  - [VAOS Service Integration (GET /facilities)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24363)
-  - [VAOS Service Integration (GET /scheduling/configurations)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24351)
-
-- Corey
-  - [New VAOS - Record VCR Cassettes for patient-metadata end-point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24591)
-  - [Create feature flags for VAOS service integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23692)
-
 - Jennie
   - [Homepage Refresh-required foundational accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24020)
   - [Replace connect() with hooks in DateTimeSelectPage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23407)
