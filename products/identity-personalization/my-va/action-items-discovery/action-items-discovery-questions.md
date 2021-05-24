@@ -37,16 +37,35 @@ To help us figure this out, we'd like to better understand:
 - How are we handling 'action items' elsewhere on the site? (if anywhere) Is the current approach on VA.gov working (if any)?
 - What specific things in each section are important for users? 
 
+## Potential Action items 
+
 ### Section breakdown
 
 #### Disability Rating
+- Status change to disability rating
+- Any appointments related to disability rating (can we determine if an appointment is for this?)
 
 #### Claims
+- Status change
+- VA needs additional information for claim/appeals
 
 #### Health care
+- Clinical updates (flu shot reminders etc)
+- Appointment check in
+- Prescription refills
+- New messages
+- New test results
+- Any status changes to health care
 
 #### Benefits
+- Status changes
+- VA needs additional info on applcations
+- Eligibility (not possible from a technical standpoint)
+- Dependent benefits changes
 
 #### Payment/Financial (future feature)
+- Status changes
+- VA owes user
+- User owes VA
 
 
