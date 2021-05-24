@@ -22,13 +22,6 @@
   - [Move cancel logic into appointment service file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23819)
   - [508-defect-4 [COGNITION]: Telephone number on the Review your appointment details screen should be formatted for content and semantics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24172)
 
-- Kevin
-  - [Refresh-past appointment detail messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24914)
-  - [Update vaccine flow breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24206)
-  - [508-defect-4 [COGNITION]: Consider rewriting instructions on the Choose a clinic screen for clarity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24171)
-  - [Homepage Refresh-recommended foundational accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24021)
-  - [Replace connect() with hooks in TypeOfCarePage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23409)
-
 - Lance
   - [Remove add to calendar link for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24913)
   - [Remove cancel appointment link for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24903)
