@@ -1,7 +1,7 @@
 # COE Design Doc
 
 Table of Contents
-- [Background]() 
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering_design_doc.md#background) 
 - [High Level Engineering Spec]()
 
 **Author(s):** Jesse Cohn 
