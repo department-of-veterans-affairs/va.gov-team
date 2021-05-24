@@ -12,6 +12,8 @@ What value does the app provide to Veterans? Our big bet is that:
 
 ## Measures of Success for Veterans
 
+**All KPIs tracked in spreadsheet [here](https://docs.google.com/spreadsheets/d/1G-Ru00IIEVCeMbYMqWVDTLO0f4WDdVrchPp0dIHM1N4/edit#gid=1172783502)**
+
 ### Objective: Veterans enjoy using the app
 
 - KR: Maintain a high App Store and Google Play star rating (4 stars or above)
