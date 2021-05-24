@@ -35,6 +35,8 @@
 ## Ops checklist
 - [ ] Ensure that network connectivity between vets-website, vets-api, Lighthouse, VA-Notify is operational
 - [ ] Ensure that on-call pager duty is setup
+- [ ] Set up Grafana dashboard and alerts
+- [ ] Set up project in Sentry (if not done already)
 
 ## Platform checklist
 - [ ] On-call team member during production verification/testing
@@ -43,3 +45,13 @@
 ## Engineering Risks
 - [ ] Data availability and integrity
 - [ ] No access to production PII/PHI when troubleshooting potential issues
+
+## User support checklist
+- [ ] Service desk tiers and escalation methods defined
+- [ ] Job aid available for front line staff to help patients with technical issues
+- [ ] User support information communicated to Loma Linda staff
+
+## Analytics checklist
+- [ ] Set up GA dashboard to view product metrics
+- [ ] If necessary, write Cloudwatch Insight query for vets-api logs
+
