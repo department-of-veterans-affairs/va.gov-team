@@ -1,5 +1,9 @@
 # COE Design Doc
 
+Table of Contents
+- [Background]() 
+- [High Level Engineering Spec]()
+
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
 **Status:** Draft
@@ -25,7 +29,7 @@ Since the Veteran's process for viewing thier COE currently depends on the eBene
 - If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information
 
 
-### High Level Engineering Spec
+## High Level Engineering Spec
 To build the COE applicaiton and achieve the objectives mentioned above we need a few distict pieces of functionality which will be shown in greater detail later. Let's go objective by objective.
 
 ` - If they have been approved, allow Veterans to download their fully filled out COE as a PDF`
