@@ -4,10 +4,12 @@ _Replace the previous line with the the title of your project or component and r
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
 **Status:** **Draft**
-**Approvers:** Jason Wolf [ ], Jesse Cohn [ ], Micah Chiang [ ], Jim Adams [ ], Kathleen Crawford [ ]
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
-
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
+**Approvers:** 
+- Jason Wolf [ ]
+- Jesse Cohn [ ]
+- Micah Chiang [ ]
+- Jim Adams [ ]
+- Kathleen Crawford [ ]
 
 _You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
 
@@ -19,15 +21,14 @@ _The intended audience for this document is software engineers, but it should ma
 
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
-
-### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
+Veterans need asssistance in getting a home loan, first step is to check for eligibility to get one through the VA. Ideally they should be able to get one online and find out quickly what their next steps are based on their specific information. This eligibility is provided through a Certificate of Eligibility, otherwise known as a COE.
 
-_Do **NOT** describe the solution here. That goes in High Level Design._
+### Objectives
+- If they have been approved, allow Veterans to download their fully filled out COE as a PDF
+- If they have not been approved, tell the Veteran why they were not approved for a COE
+- If they have not been approved based on missing information, allow the Veteran to fill out a form to submit the missing information
 
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
