@@ -69,7 +69,7 @@ Once the backend build is complete...
 **Dependents user roles research**
 
 - **Who**: Liz or Tressa, depending on who is available; Oversight from Kevin Hoffman.
-- **When**: Beginning of July. This should be about two sprints — one for planning and recruiting; one for research and summary.
+- **When**: Middle of July (Sprint 52). This should be about two sprints — one for planning and recruiting; one for research and summary.
 - **What**: User research that will help define what a dependent user role MVP would look like on VA.gov.
 
 It is an OCTO/VA.gov priority that a new user role exist on VA.gov before the end of the year. While our team is not solely responsible for this work, I have volunteered us to help out with some initial discovery so someone (Kevin?) can define what a dependent user role MVP might look like. The research our team does will inform that.
