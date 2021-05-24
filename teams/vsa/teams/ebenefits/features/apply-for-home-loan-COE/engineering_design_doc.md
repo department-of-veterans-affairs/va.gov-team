@@ -82,7 +82,7 @@ An endpoint will need to be set up to
   
 ### Front End
 We will use the Form System to create a form that hides and shows fields based on the data returned from LGY on what infromation they are missing. That form will then pass the data on submit to the back end to be sent to LGY.
-<details>
+</details>
 
 ## Detailed Design
 
