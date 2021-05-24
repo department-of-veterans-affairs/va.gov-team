@@ -36,6 +36,7 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - What is your military status (e.g. Veteran, child, spouse)?
+    - If Veteran, which branch of service?
 
 - Are you currently using or have you ever used your education benefits?
      - If yes, which benefit are you using?
@@ -52,13 +53,13 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 
 ## First Task: Find a Campus - 5 minutes
 
-- You've recently moved to **San Antonio, Texas**. Prior to moving, you took a few classes at **ECPI University** and were close to completing a certificate.  You want to see if there is a campus in your area so you can finish your degree.  How would you use the Comparison Tool to determine if **ECPI University** has a campus in your area? 
+- You've recently moved to **San Antonio, Texas**. Prior to moving, you took a few classes at **ECPI University** and you want to see if there is a campus in your area.  How would you use the Comparison Tool to determine if **ECPI University** has a campus in your area? 
 
 ### Things to watch for:
 
 - Which search option does the user attempt to use (name or location)?
 - Does the participant use the autocomplete?
-- How does the user attempt to search/filter results? 
+- Does the user attempt to search/filter results? 
 
 ### Upon task completion:
  - How did you think that went?
@@ -67,26 +68,25 @@ This is the GI Bill Comparison Tool, which allows you to see what education bene
 
 ## Second Task: Location Search - 15 minutes
 
-- You aren't sure if ECPI is the right choice for you, but you think there might be other education options available to you in **San Antonio**. How would you use the Comparison Tool to see what education opportunities are available in your area?  
+- You aren't sure if ECPI is the right choice for you, but you've heard that there are some good on-the-job training opportunities in **Austin**. How would you use the Comparison Tool to see what on-the-job training options are available in **Austin, Texas**?  
 
 ### Things to watch for:
 
-- Does the user click on Search by location or try to use the Search by name option?
 - What search criteria format does the participant use (city, "city, state", "use my current location" etc)?
 - Does the participant use the autocomplete?
 - Does the user notice the "Update housing and tuition" accordion?
+- Does the user interact with the filters?
 
 ### Upon task completion:
 - How did you think that went?
- - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of searching for educational institutions by location?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding on-the-job training in Austin?
 
 - What do you think of how results are displayed?
-- What education options do you see here?
 - How do you think the search results were sorted?
 - What information would be important to you if you were choosing where to take training?
+- What types of education options do you think you can find on the Comparison Tool?
 - Do you think these benefit estimates are correct for your situation?
 - Was there any other information you were expecting to see?
-- For you personally, how far would you be willing to commute to go to school?
  
 
 ## Third Task: Map Utilization - 5 minutes
@@ -105,6 +105,7 @@ _Prompt_ Let's say when you performed this search, there were a lot of results. 
 ### Upon task completion:
  - What do you think of how the map showed your results?
  - What do you think of the filters offered?  Which ones would you use?  Are there any you wouldn't use?
+ - For you personally, how far would you be willing to commute to go to school?
  
 
 ## Thank-You and Closing - X minutes
