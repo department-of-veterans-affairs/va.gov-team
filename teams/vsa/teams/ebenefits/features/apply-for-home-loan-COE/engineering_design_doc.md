@@ -35,7 +35,7 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 
 <details><summary>If they have been approved, allow Veterans to download their fully filled out COE as a PDF</summary>
 
-  We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
+> We need to be able to check if the Veteran is approved for a COE and then allow them to download a PDF version of that COE. Thankfully the LGY team has provided us with an endpoint that can handle all of the checking as well as handle creation of the PDF, we just need to build the back end and UI needed to utilize them.
 
 ### Back End
 
