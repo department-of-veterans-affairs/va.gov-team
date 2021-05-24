@@ -20,6 +20,7 @@
   - [Convert mocks to use platform's Node mock api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24437)
   - [Vaccine scheduling-remove conditional care type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24285)
   - [Move cancel logic into appointment service file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23819)
+  - [508-defect-4 [COGNITION]: Telephone number on the Review your appointment details screen should be formatted for content and semantics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24172)
 
 - AJ
   - [New VAOS - Record VCR Cassettes for     get '/locations/:location_id/clinics'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25017)
@@ -52,20 +53,10 @@
   - [New VAOS - Record VCR Cassettes for patient-metadata end-point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24591)
   - [Create feature flags for VAOS service integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23692)
 
-- Lauren
-  - [508-defect-4 [COGNITION]: Telephone number on the Review your appointment details screen should be formatted for content and semantics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24172)
-
-- 1Copenut
-  - [508-defect-2 [HEADINGS, COGNITION]: Headings must not look like regular body text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24162)
-
 - Jennie
   - [Homepage Refresh-required foundational accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24020)
   - [Replace connect() with hooks in DateTimeSelectPage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23407)
-
-- Unassigned
-  - [Setup VAOS service mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23774)
-  - [Create api request wrappers for VAOS service endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23763)
-  - [Come up with better approach for organizing Cypress mock data setup](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21678)
+  - [508-defect-2 [HEADINGS, COGNITION]: Headings must not look like regular body text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24162)
 
 - Tony
   - [Appointment details (Refresh) calendar file updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23607)
