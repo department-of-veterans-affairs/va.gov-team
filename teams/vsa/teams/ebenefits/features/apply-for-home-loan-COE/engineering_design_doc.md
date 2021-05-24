@@ -41,12 +41,6 @@ Since an endpoint exists already that handles much of the logic for deciding app
   
 Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
 
-#### FAQ
-
-<details><summary>what do we do if LGY returns "ineligible"? What do we do on the front end if it returns "unable to determine"</summary>
-This is yet unanswered. If you have the answer, feel free to enlighten us.
-</details>
- 
 
 ### Front End
 
@@ -55,23 +49,6 @@ We need to build a UI that will alow the user to see if they have been approved 
 - send a call to the back end
 - based on the data returned from the back end tell the user if they are eligible for a COE
 - If the user IS approved for a COE, give them a link to download it
-
-```flow
-st=>start: Start
-op=>operation: Call to Back End
-cond=>condition: Veteran Is Approved?
-
-cond(yes)->Show an alert box that the veteran is approved with a link to download COE
-cond(no)->Show an alert that the veteran is not approved and why
-```
-
-<details><summary>How do we "give them a link to download" the COE?</summary>
-We have been given a second service from LGY that provides the PDF version of the COE.
-</details>
-  
-<details><summary>Can the back end get both the eligibility AND a link to the pdf version of the COE so that the front end only needs to make one call?</summary>
-This is yet unanswered. If you have the answer, feel free to enlighten us.
-</details>
 
 
 <!--
