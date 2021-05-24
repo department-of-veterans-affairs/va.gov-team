@@ -63,7 +63,7 @@ To help us figure this out, we'd like to better understand:
 
 ## Next steps
 
-- Audit of va.gov and how they are currently doing on-page notifications (if this exists anywhere)
+- Audit of va.gov and how we are currently doing on-page notifications (if this exists anywhere)
 - Collab with other teams working on notifications/action items (health care & debt resolutions)
 - Comparative analysis
 - Rough sketches
