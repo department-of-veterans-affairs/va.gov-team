@@ -85,7 +85,8 @@ Next let's move on to how staff communicate about where the Veteran is in their 
 ## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this experience for both staff and Veterans.
 - Lastly, are there other folks from your site who weren’t in this conversation whose perspective would differ from yours?
--	Would your site be open to a site visit?
--	Any questions for me?
+- Would your site be open to a site visit?
+- Any questions for me?
+
 Great, well thank you so much again, and enjoy the rest of your day!
 
