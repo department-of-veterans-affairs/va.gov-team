@@ -16,7 +16,7 @@
 </details>
 
 <details><summary>Parking lot</summary>
-- Discuss Roadmapping Events and Finalzie for the team. 
+None
 </details>
    
 <details><summary>Relevant PubWeb product backlogs and docs</summary>
