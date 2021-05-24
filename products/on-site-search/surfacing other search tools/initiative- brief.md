@@ -332,12 +332,15 @@ As seen in Wayfinding Baseline usability study conducted in April and May, 2021,
  - 22% Resources & Support
  - 11% Find a Facility + (56% on header) = 66% total
 
+<img width="892" alt="Screen Shot 2021-05-24 at 11 56 58 AM" src="https://user-images.githubusercontent.com/72393866/119409144-d9414280-bcb4-11eb-9ffe-a32546237268.png">
+
 
 A slight increase in usage was seen for Find a Forms but overall the results were confirmed in Google Analytics data from 3/24/2021- 04/24/2021.
 We can see:
  - 20K Find a form
  - 4K Resources & Support
  - 3K Find a facility
+<img width="908" alt="Screen Shot 2021-05-24 at 5 24 42 PM" src="https://user-images.githubusercontent.com/72393866/119409206-f37b2080-bcb4-11eb-8e48-bf19b9c905dc.png">
 
 ## Prioritization
 
@@ -460,7 +463,7 @@ We can see:
   
   
 
-#### 🚩Stakeholders
+#### �Stakeholders
 
 _What offices/departments are critical to make this initiative successful?_
 
