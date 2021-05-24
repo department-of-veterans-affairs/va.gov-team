@@ -62,4 +62,11 @@ To help us figure this out, we'd like to better understand:
 - VA owes user
 - User owes VA
 
+## Next steps
+
+- Audit of va.gov and how they are currently doing on-page notifications (if this exists anywhere)
+- Collab with other teams working on notifications/action items (health care & debt resolutions)
+- Comparative analysis
+- Rough sketches
+
 
