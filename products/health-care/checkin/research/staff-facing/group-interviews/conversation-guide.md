@@ -37,7 +37,7 @@ __Start recording.__
 ## Warm-up Questions - 10 minutes
 Let's start with a quick round of introductions, you all might know each other, but my colleagues and I don't know you
 
-Intro activity using mural (moderator/notetaker drives)
+Intro activity using mural (notetaker drives)
 - Go around and introduce yourself, name, role, pronouns if you’d like to share them.
 - In one word, how would you describe:
     - ..
@@ -52,21 +52,25 @@ Here is a simplified outline of Veteran check in, and Veteran tracking . This wi
 Let's start on the left. The Veteran arrives onsite for an appointment or unscheduled service. 
 -	What are the options at your facility for Veterans to check in? (listen for IMH, Kiosk, Clerk)
   -	Possible follow up prompts / make sure to cover:
+      -	How does your role/tasks to complete change (if at all) based upon the check in method? 
       -	Differences between walk-in and scheduled check-in?
       - Different for lab / pharm / enrollment office?
       - Why are these the options in place? Was anything else considered?
       - From a staff perspective, which of these works best/worst for you? why? 
-      - When are identity / insurance / contact info etc verified?
+      - When are identity / insurance / contact info / next of kin etc verified?
+            - How often is it verified? Why is it important to verify it that often?
+            - How is this information used by yourself or others?
       - Changed w/ COVID?
+      - If you could change one thing about the check-in process, what would it be?
 - How do staff know that Veterans are checked in? (listen for VEText, VETlink, VSE, VistA)
   -	Possible follow up prompts / make sure to cover:
       - Who needs to know Veteran is checked in? Do they all find out the same way?
-      -	Do those staff have VSE open?
-_ How do staff communicate to Veterans when they are ready for their appointment or services?
+      - __Do those staff have VSE open?__
+- How do staff communicate to Veterans when they are ready for their appointment or services?
   - Follow ups / look out for:
       - From a staff perspective, which of these works best/worst for you? why? 
       - What about for low-vision and non-hearing veterans?
-•	Anything important about check-in that we haven’t discussed?
+- Anything important about check-in that we haven’t discussed?
 ## Second Task: Patient Tracking - 15 minutes
 Next let's move on to how staff communicate about where the Veteran is in their appointment or service?
 -	What are the ways staff at your facility communicate about where in the process the Veteran is?
@@ -79,13 +83,13 @@ Next let's move on to how staff communicate about where the Veteran is in their 
     -	Changed w/ COVID?
 - Anything important about patient-tracking that we haven’t discussed?
 ## Post-Task Interview - 10 minutes
-- What worries do you have about the Kiosk & Vet link software going away? 
-- What worries do you all have about any new check-in process that is made available in its place? 
-- What's the worst idea you can think of for checking Veterans in for their appointments?
+- What capabilities of the kiosk and VetLink software would you say MUST be included within the new system (the items that can’t be removed)?
+- What worries do you have about the Kiosk & Vet link software going away and a new check-in process/system being available in its place? 
+- If you had a magic wand and could design check-in anyway that you wanted, what would that check-in process look like?
 ## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this experience for both staff and Veterans.
-- Lastly, are there other folks from your site who weren’t in this conversation whose perspective would differ from yours?
-- Would your site be open to a site visit?
+- Lastly, are there other folks from your site who weren’t in this conversation who have a different perspective that we should to talk to?
+- Would your site be open to a site visit, where a researcher from our team observes check-in in person?
 - Any questions for me?
 
 Great, well thank you so much again, and enjoy the rest of your day!
