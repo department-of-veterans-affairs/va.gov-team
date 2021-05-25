@@ -62,6 +62,7 @@ A couple of things to know:
 
 - This is a prototype, an early version of the product. Some features may not work perfectly. 
 - Please interact with the chatbot - only. Other links, buttons and/or forms will be available to you, but we only need your input on the chatbot. 
+- Please use a browser like Chrome, Firefox and Safair and IE11
 - Spend at least 10 minutes engaging (asking questions, reading responses etc.) with the chatbot. 
 - We will be able to read what you type to the chatbot, so please do not type any personal information that can be used to identify you.
 - When you are done, please click on the link in this email, which will take you to a page where you can provide feedback. Feel free to be as honest as possible on what your experience was like with the product.
@@ -95,42 +96,43 @@ We require 100 participants, with 10 participants in each pods or segment:
 
 Veterans:
 
-Segment #1: 10 participants who are female Veterans  (URL)
+Segment #1: 10 participants who are female Veterans  (https://adhoc.optimalworkshop.com/questions/4t5k723z )
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
-Segment #2: 10 participants who are Male Veterans (URL)
+Segment #2: 10 participants who are Male Veterans (https://adhoc.optimalworkshop.com/questions/4t5k723z-0 )
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
 Non-Veterans:
 
-Segment #3: 10 participants who are people close to Veterans (URL)
+Segment #3: 10 participants who are people close to Veterans (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0 )
 - Can be female caretakers, male caretaker or family members (i.e. dependents)
 
 Usage related segments:
 
-- Segment #4: 10 participants who are new to va.gov (2 years or less) (URL)
+- Segment #4: 10 participants who are new to va.gov (2 years or less) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0 )
 
-- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year) (URL)
+- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0 )
 
-- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly) (URL)
+- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0 )
 
 Location:
 
-- Segment #7: 10 participants who live in urban centers (URL)
+- Segment #7: 10 participants who live in urban centers (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0)
 
-- Segment #8: 10 participants who live in suburban or rural areas (URL)
+- Segment #8: 10 participants who live in suburban or rural areas (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0 )
 
 Marginalized populations:
 
-- Segment #9: 10 participants who identify as LGBTQ+  (URL)
+- Segment #9: 10 participants who identify as LGBTQ+  (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0)
 
-- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).  (URL)
+- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).  (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0-0)
 
 
 For technology requirements:
 
 - Login: no login requirements.  
 - Device: Has used computers and Internet; we will be having users test on their desktop/laptop where possible
+- Browser: Using a browser like Chrome, Firefox and Safair and IE11
 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
@@ -180,3 +182,17 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 Not needed as unmoderated controlled study
 - Read-Out/Results	
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research
+
+- Links for Optimal Workshop
+
+Segment 1: https://adhoc.optimalworkshop.com/questions/4t5k723z
+Segment 2: https://adhoc.optimalworkshop.com/questions/4t5k723z-0 
+Segment 3: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0 
+Segment 4: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0 
+Segment 5: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0 
+Segment 6: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0 
+Segment 7: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0 
+Segment 8: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0 
+Segment 9: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0 
+Segment 10: https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0-0 
+
