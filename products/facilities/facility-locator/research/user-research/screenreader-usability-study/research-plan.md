@@ -124,19 +124,19 @@ At least:
 - Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us, Josh Kim josh.kim@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
-- **Notetaker: Perigean
+- **Notetaker: Perigean**
 
-Participant(s) for pilot test: 
+**Participant(s) for pilot test:**
 - Michelle Middaugh: michelle.middaugh@adhocteam.us
 - Angela Fowler: angela.fowler@adhocteam.us
 - Josh Kim: josh.kim@adhocteam.us
 
-Slack Channel:
+**Slack Channel:** Please include the following individuals in the study Slack Channel
 - Leyda Hughes leyda.hughes@adhocteam.us
 - Dave Conlon: david.conlon@va.gov
 - Michelle Middaugh: michelle.middaugh@adhocteam.us
 - Angela Fowler: angela.fowler@adhocteam.us
 - Josh Kim: josh.kim@adhocteam.us
 
-Observers:
+**Observers:**
 - Will be invited directly by the researchers
