@@ -53,12 +53,13 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 
 **Service history section causes confusion**
+
 The service history page causes confusion for two main reasons:
  - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA Health care. 
 
 > _On service history page_ "Since none of these apply to me, I would be worried this would disqualify me." _When asked if it would deter from finishing form_ "It might, yes."
 
- - The information architecture of this page also causes categorization confusion and participants wonder what the list is and how it will be used. Some participants wonder why there are not more recent events/situations listed.
+ - The information architecture of this page also causes categorization confusion. Most participants wonder what the list (category) is and how it will be used. Some participants wonder why there are not more recent events/situations listed.
 
 > "What do these have to do with health care?"
 
@@ -83,7 +84,7 @@ The service history page causes confusion for two main reasons:
 
 
 **Preferred facility question does not provide optimal UX or transparency**
-- For Veterans that live in a state with many facilities, selecting a VA medical facility took time and caused some confusion. The list is not in alphabetical order thus participants had to read each one in order to make their section. Many participants expressed that they were not sure which one to choose, especially those who were not regularly visiting a VA center or clinic. The "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
+- For Veterans that live in a state with many facilities, selecting a VA medical facility took time and caused some confusion. The list is not in alphabetical order thus participants had to read each one in order to make their selection. Many participants expressed that they were not sure which one to choose, especially those who don't regularly visit a VA center or clinic. The "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
 
 **Medicaid and Medicare related questions don't provide enough details**
 - Many participants did not know if they qualified for Medicaid or Medicare (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
@@ -98,7 +99,7 @@ The service history page causes confusion for two main reasons:
 
 
 **Opportunities in design**
-- In general research shows the need to streamline/simplify the application. Additionally, participants would like more visual confirmation that their information is correct and being received. The form asks for name, birthdate, and SSN twice, and this causes some participants to think that they made a mistake (all research was conducted on the unauthenticated experience). Multiple participants expressed that they liked having the timeline at the top of the page to give them a proper completion time expectation as they worked through the application, but felt confusion in that multiple pages had the same step numbers and that the timeline bar didn't progress consistently. People appreciate the more information component, but it also can create confusion depending on its placement- sometimes people don't see it, think it is the question, or don't automatically seek it out when they need more information about a question. 
+- In general research shows the need to streamline/simplify the application. Additionally, participants would like more visual confirmation that their information is correct and being received. The form asks for name, birthdate, and SSN twice, and this causes some participants to think that they made a mistake (all research was conducted on the unauthenticated experience). Multiple participants expressed that they like having the timeline at the top of the page to give them a proper completion time expectation as they worked through the application, but felt confusion in that multiple pages had the same step numbers and that the timeline bar didn't progress consistently. People appreciate the more information component, but it also can create confusion depending on its placement- sometimes people don't see it, think it is the question, or don't automatically seek it out when they need more information about a question. 
 > Participant pauses on second time form asks for birthdate and Social Secuirty number [unauthenticated experience] , asked what they are thinking there: "I was just wondering if I made a mistake."
 
 > _On Medicaid page_ In regards to the learn more component: "I would say, yes I want to learn more...Why is it asking me for the start date...this would make me lose confidence in the whole thing."
@@ -107,11 +108,11 @@ The service history page causes confusion for two main reasons:
 
 
 **Opportunities in content**
-- The big takeaway in regards to content is the need to simplify questions and provide details on how the provided information will be used to make a decision about the health care application. Some information is redundant (name, social security number). Some language needs to be rewritten in plain language, providing more details (without adding mental burden) can provide transparency as to why and how the information is used. Some participants find some of the questions unclear especially around financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
+- The big takeaway in regards to content is the need to simplify questions and provide details on how the provided information will be used to make a decision about the health care application. Some information is redundant (name, social security number). Some language needs to be rewritten in plain language and some needs more details (without adding mental burden) to provide transparency as to why and how the information is used. Some participants find some of the questions unclear especially around financial disclosure questions, including what qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
 > "Feels like a lot of government gobbly goop."
 
 > "I would like to know how all this information is used and what security measures are taken. My husband is really concerned about security, he wouldn't upload his DD214."
 
-> In regards to previous year's deductibles, "It yes you or your spouse. Does it mean and? Does a deductible qualify?"
+> In regards to previous year's deductibles, "It asks amount for you or your spouse [paid in non-reimbursable medical expenses this year]. Does it mean 'and'? Does a deductible qualify?"
 
 
