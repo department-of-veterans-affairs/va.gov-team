@@ -24,7 +24,7 @@ Hi everyone, thank you all so much for taking time out of your day to talk with 
 
 I’ll give a bit of background on why we want to talk to you all and then tell you a bit about what this hour is going to look like. So, the team I'm working with is looking at how VA medical centers and CBOCs currently handle checking Veterans in and tracking Veteran through their appointment or services. As you know, the kiosk tool and VetLink software that many sites use are going away in the next year, and we are talking to staff as well as Veterans to make sure that what is built in its place meets the needs of everyone involved. 
 
-What I'm hoping we will do today is have a conversation about how check in and patient tracking work at your facility, what’s working and what’s not working. I know you are all involved at different levels and different points in the process, I want to hear about each of your perspectives. I expect there to be some differences or disagreement, and that is actually really helpful. The purpose of this conversation is not to reach any sort of consensus. 
+What I'm hoping we will do today is have a conversation about how check in and patient tracking work at your facility, what’s working and what’s not working. I know you are all involved at different levels and different points in the process, I want to hear about each of your perspectives. I expect there to be differences in your perspectives, and that is actually really helpful. The purpose of this conversation is not to reach any sort of consensus. 
 
 Before we start, a few things I want to mention:
 - This entire session should take about 60 min. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -51,19 +51,20 @@ Here is a simplified outline of Veteran check in, and Veteran tracking . This wi
 ## First Task: Check-In - 15 minutes
 Let's start on the left. The Veteran arrives onsite for an appointment or unscheduled service. 
 -	What are the options at your facility for Veterans to check in? (listen for IMH, Kiosk, Clerk)
-  -	Possible follow up prompts / make sure to cover:
-      -	How does your role/tasks to complete change (if at all) based upon the check in method? 
-      -	Differences between walk-in and scheduled check-in?
-      - Different for lab / pharm / enrollment office?
-      - Why are these the options in place? Was anything else considered?
-      - From a staff perspective, which of these works best/worst for you? why? 
-      - When are identity / insurance / contact info / next of kin etc verified?
+    - Possible follow up prompts / make sure to cover:
+        - How does your role/tasks to complete change (if at all) based upon the check in method? 
+        - Differences between walk-in and scheduled check-in?
+        - Different for lab / pharm / enrollment office?
+        - Why are these the options in place? Was anything else considered?
+        - From a staff perspective, which of these works best/worst for you? why? 
+        - When are identity / insurance / contact info / next of kin etc verified?
             - How often is it verified? Why is it important to verify it that often?
             - How is this information used by yourself or others?
-      - Changed w/ COVID?
-      - If you could change one thing about the check-in process, what would it be?
+        - Changed w/ COVID?
+        - If you could change one thing about the check-in process, what would it be?
 - How do staff know that Veterans are checked in? (listen for VEText, VETlink, VSE, VistA)
   -	Possible follow up prompts / make sure to cover:
+      - What tools do staff use to manage Veteran check-in?
       - Who needs to know Veteran is checked in? Do they all find out the same way?
       - __Do those staff have VSE open?__
 - How do staff communicate to Veterans when they are ready for their appointment or services?
@@ -71,6 +72,7 @@ Let's start on the left. The Veteran arrives onsite for an appointment or unsche
       - From a staff perspective, which of these works best/worst for you? why? 
       - What about for low-vision and non-hearing veterans?
 - Anything important about check-in that we haven’t discussed?
+- From what we've talked about regarding check-in, what is most important to each of you?
 ## Second Task: Patient Tracking - 15 minutes
 Next let's move on to how staff communicate about where the Veteran is in their appointment or service?
 -	What are the ways staff at your facility communicate about where in the process the Veteran is?
@@ -82,10 +84,11 @@ Next let's move on to how staff communicate about where the Veteran is in their 
     -	Differences between walk-in and scheduled check-in?
     -	Changed w/ COVID?
 - Anything important about patient-tracking that we haven’t discussed?
+- From what we've talked about regarding check-in, what is most important to each of you?
 ## Post-Task Interview - 10 minutes
 - What capabilities of the kiosk and VetLink software would you say MUST be included within the new system (the items that can’t be removed)?
 - What worries do you have about the Kiosk & Vet link software going away and a new check-in process/system being available in its place? 
-- If you had a magic wand and could design check-in anyway that you wanted, what would that check-in process look like?
+- If you could design check-in anyway that you wanted, what would that check-in process look like?
 ## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this experience for both staff and Veterans.
 - Lastly, are there other folks from your site who weren’t in this conversation who have a different perspective that we should to talk to?
