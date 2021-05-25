@@ -103,9 +103,8 @@ At least:
 ### Times below in Eastern 
 
 - Study dates: June 8 - 17, 2021
-- Pilot session #1 - Mobile: Thursday, June 3, 5-6:30pm 
-- Pilot session #2 - Desktop: Monday, June 7, 2-3:30pm 
 - Session length: **2 hours** 
+- Pilot session - Mobile & Desktop: Thursday, June 3, 4-6pm 
 
 #### Participant session times
 
