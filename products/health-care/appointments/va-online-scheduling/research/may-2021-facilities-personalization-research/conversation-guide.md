@@ -7,7 +7,7 @@ Moderator logistics
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
 - [ ] Have the prototype link available:
     - [ ] [Opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)
-    - [ ] [Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669704)
+    - [ ] [Opt-in flow](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)
 - [ ] Update the Zoom participant sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
@@ -116,7 +116,7 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 Scenario 1 - opt-out flow (50% of participants)
 -----------------------------------------------
 
-[Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
+[Prototype - opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)
 
 Last year, you moved from Seattle to a new city, Evanston, Illinois. You're interested in setting up a follow-up visit with your primary care doctor in Evanston. 
 
@@ -304,7 +304,7 @@ _Start on Call to schedule page_
 Scenario 2 - opt-in flow (50% of participants)
 ----------------------------------------------
 
-[Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669704)
+[Prototype - Opt-in flow](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)
 
 Last year, you moved from Seattle, Washington to a new city, Evanston Illinois. You're interested in setting up a follow-up visit with your primary care doctor there.
 
