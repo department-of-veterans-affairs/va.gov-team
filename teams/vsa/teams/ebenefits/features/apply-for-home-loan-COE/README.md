@@ -3,7 +3,7 @@
 - WIP
 ```
 ## Locations
-- Staging: https://staging.va.gov/housing-assistance/home-loans/apply-lgy-form-1880/introduction
+- Staging: http://staging.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880/introduction
 
 #### Communications
 - Team Name: eBenefits
