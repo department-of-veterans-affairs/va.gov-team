@@ -16,20 +16,35 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 We hope to gather the following qualitative insights: 
 
-- The chatbot answered my questions accurately a) All of the time; b) Most of the time, c) Some of the time; d) The chatbot did not answer any of my questions accurately; e) I don't know.
-- The chatbot understood what I was trying to ask a) Yes; b) No; c) Somewhat 
-- If the chatbot wasn’t able to answer your question, how did that make you feel?
-- The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
-- Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to NOT to sign in and just ask general questions (i.e. location of VA facility)? 
-- After reading the response, did you have the information you needed to take the next step to complete your task?
-- How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
-- How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
-- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
-- How often do you speak with a VA help desk/contact center to help you resolve an issue? Daily, several times a week, weekly, monthly, every few months, yearly
-- What were some of the reasons you have called a VA help desk/contact center in the past?
-- How can a chatbot help you reduce how often you call the VA?
-- Based on your experience today, are you willing to use the chatbot again?
-- Do you have any other feedback you'd like to share?
+1. The chatbot answered my questions accurately a) All of the time; b) Most of the time, c) Some of the time; d) The chatbot did not answer any of my questions accurately; e) I don't know.
+
+2. The chatbot understood what I was trying to ask a) Yes; b) No; c) Somewhat 
+
+3. After reading the response, did you have the information you needed to take the next step to complete your task?
+
+4. If the chatbot wasn’t able to answer your question, how did that make you feel?
+
+5. The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
+
+6. Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to NOT to sign in and just ask general questions (i.e. location of VA facility)? 
+
+7. After reading the response, did you have the information you needed to take the next step to complete your task?
+
+8. How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
+
+9. How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
+
+10. How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
+
+11. How often do you speak with a VA help desk/contact center to help you resolve an issue? Daily, several times a week, weekly, monthly, every few months, yearly
+
+12. What were some of the reasons you have called a VA help desk/contact center in the past?
+
+13. How can a chatbot help you reduce how often you call the VA?
+
+14. Based on your experience today, are you willing to use the chatbot again?
+
+15. Do you have any other feedback you'd like to share?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
