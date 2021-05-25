@@ -111,7 +111,7 @@ One of the sessions was cut short due to technology issues, so most of the findi
         1. *Consider moving the row of images down to the actual bottom of the page.*
 1. **No participants started with site search (in the header of the home page), but about half went there when they were unable to find any relevant links elsewhere on the home page.** Some participants said that they didn't notice *Search* in the header at first, but once they found it, a few used it in later tasks.
     1. *"It is an option of last resort. When all else fails, use the search function." (p16)*
-    1. One participant never used site search because they didn't notice it in the header. They readily used the search box in *Find a Form* and *Resources and Support*, which is visible without clicking.
+    1. A third of the participants (31%) never used site search, maybe because they didn't notice it in the header. At least one participant who didn't use site search readily used the search box in *Find a Form* and *Resources and Support*, which is visible without clicking.
         1. *To make site search more visible, consider adding a search box in the header and/or just above or below the "top 4" boxes.*
 
 1. **Two accessibility issues were encountered:**
