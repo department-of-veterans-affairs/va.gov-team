@@ -60,8 +60,9 @@ If you're a FE developer wanting to get an idea of the data/metadata automatical
 
 ##### Other important things:
 
-*   Some components are opt-out and you need to add a disableAnalytics param to the component to disable analytics.
-*   Others (specifically form controls) are opt-in.  Due to the risk of PII/PHI, you must add an enableAnalytics flag to these components to get the CustomEvent to emit.
+*   Some components are opt-out and you need to add a disableAnalytics param to the component to disable analytics.  These are: Accordions, Additional Info, Alert Boxes, Breadcrumbs, Modal, Pagination, Promo Banner.
+*   Others (specifically form controls) are opt-in.  Due to the risk of PII/PHI, you must add an enableAnalytics flag to these components to get the CustomEvent to emit.  These are:  Text Box, Text Area, Select Box, Checkbox, Checkbox Group, and Radio Button.
+*   Some components are extremely high input and are opt-in to prevent massive amounts of events.  These are Progress Bar, Segmented Progress Bar, Loading Indicator. 
 *   We try to match the names of the additional params to their component counterparts.  this.props.label would be label while this.props.options label would be optionLabel.
 *   There's a lot of boilerplate in the unit tests for these in the component-library, so use the helper function if possible.
 *   Helpful links:
