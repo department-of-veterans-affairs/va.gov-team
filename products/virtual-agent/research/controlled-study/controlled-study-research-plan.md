@@ -16,18 +16,17 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 We hope to gather the following qualitative insights: 
 
-- Was the chatbot able to answer your questions overall?
-- How many questions were given accurate responses?
-- Did the chatbot’s response correctly match your intent?
+- The chatbot answered my questions accurately a) All of the time; b) Most of the time, c) Some of the time; d) The chatbot did not answer any of my questions accurately; e) I don't know.
+- The chatbot understood what I was trying to ask a) Yes; b) No; c) Somewhat 
 - If the chatbot wasn’t able to answer your question, how did that make you feel?
+- The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
 - Would you sign into va.gov so that you could ask sensitive questions like your benefits status, or would you prefer to NOT to sign in and just ask general questions (i.e. location of VA facility)? 
 - After reading the response, did you have the information you needed to take the next step to complete your task?
 - How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
 - How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
-- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses (where you given the right link, was your question answered in the text of the response, etc)
-- Do you trust that the responses you received from the chatbot are accurate
-- How often do you speak with a VA support agent to help you resolve an issue?
-- What sort of issues do you look to resolve with a VA support agent?
+- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
+- How often do you speak with a VA help desk/contact center to help you resolve an issue? Daily, several times a week, weekly, monthly, every few months, yearly
+- What were some of the reasons you have called a VA help desk/contact center in the past?
 - How can a chatbot help you reduce how often you call the VA?
 - Based on your experience today, are you willing to use the chatbot again?
 - Do you have any other feedback you'd like to share?
@@ -96,36 +95,36 @@ We require 100 participants, with 10 participants in each pods or segment:
 
 Veterans:
 
-Segment #1: 10 participants who are female Veterans  
+Segment #1: 10 participants who are female Veterans  (URL)
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
-Segment #2: 10 participants who are Male Veterans
+Segment #2: 10 participants who are Male Veterans (URL)
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
 Non-Veterans:
 
-Segment #3: 10 participants who are people close to Veterans
+Segment #3: 10 participants who are people close to Veterans (URL)
 - Can be female caretakers, male caretaker or family members (i.e. dependents)
 
 Usage related segments:
 
-- Segment #4: 10 participants who are new to va.gov (2 years or less) 
+- Segment #4: 10 participants who are new to va.gov (2 years or less) (URL)
 
-- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year)
+- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year) (URL)
 
-- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
+- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly) (URL)
 
 Location:
 
-- Segment #7: 10 participants who live in urban centers
+- Segment #7: 10 participants who live in urban centers (URL)
 
-- Segment #8: 10 participants who live in suburban or rural areas
+- Segment #8: 10 participants who live in suburban or rural areas (URL)
 
 Marginalized populations:
 
-- Segment #9: 10 participants who identify as LGBTQ+ 
+- Segment #9: 10 participants who identify as LGBTQ+  (URL)
 
-- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).
+- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).  (URL)
 
 
 For technology requirements:
