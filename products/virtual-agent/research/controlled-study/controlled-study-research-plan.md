@@ -62,7 +62,7 @@ A couple of things to know:
 
 - This is a prototype, an early version of the product. Some features may not work perfectly. 
 - Please interact with the chatbot - only. Other links, buttons and/or forms will be available to you, but we only need your input on the chatbot. 
-- Please use a browser like Chrome, Firefox and Safair and IE11
+- Please use a browser like Chrome, Firefox and Safari and NOT IE11
 - Spend at least 10 minutes engaging (asking questions, reading responses etc.) with the chatbot. 
 - We will be able to read what you type to the chatbot, so please do not type any personal information that can be used to identify you.
 - When you are done, please click on the link in this email, which will take you to a page where you can provide feedback. Feel free to be as honest as possible on what your experience was like with the product.
@@ -132,8 +132,7 @@ For technology requirements:
 
 - Login: no login requirements.  
 - Device: Has used computers and Internet; we will be having users test on their desktop/laptop where possible
-- Browser: Using a browser like Chrome, Firefox and Safair and IE11
-
+- Browser: Using a browser like Chrome, Firefox and Safari - no IE11 users
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
