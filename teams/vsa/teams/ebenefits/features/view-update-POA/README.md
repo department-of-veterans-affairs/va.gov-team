@@ -73,7 +73,22 @@ As a Veteran in need of legal representation, I need to be able to submit a 21-2
 
 ## Solution Approach
 
-- TBD
+- Search Representative
+  - The Search Representative application is an integral part of the overall suite of representative work eBenefits will be managing. This application consists of the following features: 
+      - A step by step form that allows the uesr to input their search parameters
+      - A results page that displays all data retrieved from an API request that used the search parameters
+  - Proposed solution is to leverage [SchemaForm](https://react-jsonschema-form.readthedocs.io/en/latest/) outside of the vets-website formbuilder. Historically, the formbuilder is constrained to the configuration of a single config file and is limited by several things, most notably the inability to reliably access data from the vets-website redux store.
+  - Using SchemaForm on its own would afford us the flexibility of:
+      - Reading from, and writing to, the redux store whenever we wish
+      - Managing our own application routing
+      - Handling api requests in our own way.
+  - Examples of SchemaForm used outside of the vets-website formbuilder:
+    - [VAOS](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/vaos)
+    - [Manage Dependents](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/view-dependents/manage-dependents/containers/ManageDependentsApp.jsx)
+    - [Coronavirus Vaccine](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/coronavirus-vaccination/components/Form.jsx)
+  - Highlevel diagram of schemaform usage and react routes:
+    ![Search Rep architecture overview](https://user-images.githubusercontent.com/15097156/119543243-71dfcd00-bd5e-11eb-90c6-af62b158d85e.png)
+
 
 ## Value Propositions
 
