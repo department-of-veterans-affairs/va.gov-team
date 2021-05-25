@@ -65,6 +65,8 @@ Phone number: {phone number}
 (Link) Cancel request
 
 
+---
+
 ### VA Direct
 
 (H1) {appointment date} at {appointment time}
@@ -102,6 +104,8 @@ Your reason for your visit
 
 (Link) Cancel appointment
 
+
+---
 
 ### Community Care Request
 
