@@ -22,7 +22,7 @@
 
 ## Phase II: Prod Rollout (also known as unmoderated production testing)
 
-- Desired date range: 05/31/2021 - 06/02/2021
+- Desired date range:  06/07/2021 - 06/10/2021
 - How will you make the product available in production while limiting the number of users who can find/access it: 
      - n/a
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
