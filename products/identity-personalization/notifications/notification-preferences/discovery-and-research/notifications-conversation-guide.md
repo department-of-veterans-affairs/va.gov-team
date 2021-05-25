@@ -63,7 +63,7 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 *Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i
 
-Imagine you heard the VA had recently started giving people the option to get text updates on their medications. From here, show me where you would go to set that up for yourself.
+Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
 
 ### Things to watch for
 
@@ -97,7 +97,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
 2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
-   - You got here by clicking edit - how does what happened line up with what you expected to happen?
+   - You got here by clicking edit - is that what you expected?
    - How are you able to receive the notifications you see here? Why do you think that is?
    - How would you get text messages for appointment reminders?
 3. *After saving:* Now that you've made some changes, take a look at the screen. Is this what you expected?
@@ -138,9 +138,13 @@ Now that you've added an email address to your profile, talk me through what you
 
 Now I'd like you to imagine you changed your mind, and don't want the VA to email any notifications again. How would you remove the email address you added?
 
+Now that you’ve removed your email, what do you expect to happen with your notifications?
+
 ### Things to watch for
 
+- Did the participant make any comments about the edit / remove buttons?
 - Did the participant experience any confusion removing their contact information?
+- What does the participant expect to happen if they've opted into notifications but then remove contact information?
 
 ## Post-Task Interview - 4 minutes
 
