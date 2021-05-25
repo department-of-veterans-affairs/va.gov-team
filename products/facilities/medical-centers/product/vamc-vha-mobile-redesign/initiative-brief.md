@@ -147,15 +147,36 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Before
 
+**Locations page**
+<details>
+ <summary> Locations page examples </summary>
+ 
+ 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/pittsburgh-health-care-locations-example.png)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/cheyenne-health-care-locations-example.png)
+
+ </details>
+
+**Detail page**
+
 [See this in Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?wid=0-1621864313237)
 
 ![image](https://user-images.githubusercontent.com/4960080/119375373-bb5de880-bc88-11eb-9b3f-005c999cd7e7.png)
 
 ### After
 
+**Locations page**
+
+[UX Pin design](https://preview.uxpin.com/fd54ec2443e9812dfc2a26fe5ec10e7cde590ecc#/pages/138984288/simulate/no-panels?mode=i)
+
+**Detail page**
+
 [Mural board exploration](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?wid=0-1621870530451)
 
 ![image](https://user-images.githubusercontent.com/4960080/119378791-a6835400-bc8c-11eb-91c3-2a984800378e.png)
+
+
 
 ---
 
