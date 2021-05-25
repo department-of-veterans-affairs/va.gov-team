@@ -22,7 +22,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 In general, participants seemed to find the 10-10EZ's length acceptable, but research indicates confusion, that could lead to drop-offs, caused by question wording, information architecture, and design details, outlined below.
 
 **Most Veterans do not differentiate the nomenclature of the VA benefits and health care, they are all "VA benefits" to them**
-- Many participants demonstrated confusion as to the difference between Healthcare, disability, and family benefits. This research showed that Veterans (and POAs) don't always differentiate between the various benefits' nomenclature. Additionally the application information pages look very similar, thus do not provide visual cues for differentiation. Applicants have uncertainty as to which form they have/will fill out and what benefits will be gained from that application. 
+- Many participants demonstrated confusion as to the difference between health care, disability, and family benefits. This research showed that Veterans (and POAs) don't always differentiate between the various benefits' nomenclature. Additionally, the application information pages look very similar, thus do not provide visual cues for differentiation. This confusion causes applicants to have uncertainty as to which form they have/will fill out and what benefits will be gained from that application. 
 
 > _(Upon finishing application)_  "I arrived here [review page] thinking that this was the VA benefits application."
 
@@ -34,27 +34,27 @@ In general, participants seemed to find the 10-10EZ's length acceptable, but res
 
 > "Why do I have to fill out the military service history and upload a DD214, doesn't the VA already have this information...from the military?"
 
-**Participants worry that their answers to some questions could automatically disqualify them from VA Healthcare**
-- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving healthcare benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure.
+**Participants worry that their answers to some questions could automatically disqualify them from VA Health care**
+- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving health care benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure.
 >  _On financial disclosure page_ "I wish it was more clear about the income threshold, I would be worried that I don't qualify."
 
 >  _On current VA benefits page_ Selects: I don't receive any VA pay... "Does this mean I don't qualify?" 
 
 
-**Participants wish that there was more information about why specific information is requested and would like transparency on how the information will be used to make a decision about their VA Healthcare application**
+**Participants wish that there was more information about why specific information is requested and would like transparency on how the information will be used to make a decision about their VA Health care application**
 - Many participants felt uncertain as to why some of the questions were asked, specifically around financial disclosure, spouse and dependent information, military service, and current VA compensation. Some participants indicated that these questions felt invasive, they worried about their privacy, and they didn't understand the relevancy for receiving health care benefits. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application. Many participants said that they would be more likely to complete the application if they knew why the information was being requested and how it could help them get VA Health care.
 > "We are focused on the end result, 'do we qualify?' so it would help us to understand how this information is used."
 
 > "Why is it asking for my marriage date? It's starting to feel like a truth test."
 
-> "What does my spouse's income have to do with my VA Healthcare? I'm applying for me, not them. This is too nosy, I would say that I am not married." _(participant is married)_
+> "What does my spouse's income have to do with my VA Health care? I'm applying for me, not them. This is too nosy, I would say that I am not married." _(participant is married)_
 
 > "When there are so many questions it feels like they are trying to discourage people from filling out the form - do all these questions even matter?"
 
 
 **Service history section causes confusion**
-- The service history page causes confusion for two main reasons:
- - Many participants believe that if none of these apply to them that they could be disqualified from VA Health care. 
+The service history page causes confusion for two main reasons:
+ - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA Health care. 
 
 > _On service history page_ "Since none of these apply to me, I would be worried this would disqualify me." _When asked if it would deter from finishing form_ "It might, yes."
 
