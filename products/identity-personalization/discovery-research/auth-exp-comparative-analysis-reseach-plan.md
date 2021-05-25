@@ -27,23 +27,20 @@ Research Questions
 
 ### Profile
 
--   Are there any common sections of a user profile we don't have that could be useful to Veterans?
-
 -   How do sites encourage profile completeness?
-
 -   How do sites handle removing/deleting profile information? 
-
--   What nav/section labels are used for sections of profile where people can manage their notifications?
+-   How do our nav/section labels align with other sites?
+-   Are there any common sections of a user profile we don't have that could be useful to Veterans?
 
 ### Profile VS Dashboard
 
--   What information should live on a profile? 
+-   What information lives on a profile? 
 
--   What information should live on a dashboard?
+-   What information lives on a dashboard?
 
 ### Dashboard
 
--   What information are people looking for on a dashboard?
+-   What information are people used to seeing on a dashboard?
 
 -   What is a typical layout on a user dashboard?
 
@@ -53,7 +50,7 @@ Research Questions
 
 -   How do sites make a dashboard feel personalized?
 
-### Notifications
+### Action items
 
 -   What action items are most typically shown?
 
@@ -70,7 +67,9 @@ Research Questions
 Method
 ------
 
-We'll conduct a comparative analysis primarily on sites in government, banking, student loans, and insurance industries since they serve as a good model for the VA.gov use cases.  We'll include Google and Reddit since Veterans reference using these sites in research studies.  Specifically, these are the sites we'll look at. We won't be looking at apps for this round of research.
+We'll conduct a comparative analysis and divide the work by our respective design areas. Liz will focus on personalization and profile research questions. Tressa will focus on dashboard and action item research questions.
+
+We'd like to focus primarily on sites in government, banking, student loans, and insurance industries since they serve as a good model for the VA.gov use cases.  We'll include a few sites outside of these sectors since we've heard Veteran's mention them repeatedly in research studies.  For this initial round of research, we'll limit the scope to desktop and mobile versions of sites (not apps).
 
 #### Manage benefits, claims, view history
 
