@@ -52,7 +52,7 @@ This will be a 30-45 minute remote moderated usability test with a high-fidelity
 
 A remote study will allow us to test with participants around the country. Testing with a high-fidelity prototype will provide insights to our research questions before investing time in engineering.  We'll start people a screen with partial contact information to help us evaluate our overall design, and help us understand:
 
-- if our solution for partial contact info works for Veterans 
+- If our solution for partial contact info works for Veterans 
 - If Veterans expect to be able to edit/update contact information right on the page
 - If Veterans can get back to notification settings after they've updated their contact information
 
