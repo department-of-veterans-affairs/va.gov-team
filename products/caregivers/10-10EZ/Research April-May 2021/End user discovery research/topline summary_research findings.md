@@ -1,4 +1,4 @@
-#10-10EZ Discovery Research - Topline Summary
+# 10-10EZ Discovery Research - Topline Summary
 
 Prepared by: Dené Gabaldón, Caregiver Team
 
