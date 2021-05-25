@@ -23,6 +23,10 @@
 
 
 
+## Wednesday May 26
+Vet Center Director training
+Using API for online scheduling information
+Inventory of VAMC components- ownership conversation with Public websites
 
 ## Wednesday May 19
 
