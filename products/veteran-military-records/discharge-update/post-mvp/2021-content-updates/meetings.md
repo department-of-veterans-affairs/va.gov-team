@@ -1,6 +1,29 @@
 # Discharge Upgrade Wizard 2021 Content Updates - Meetings and Decisions
 
-## 2021-05-21 Meeting with Margarete Ashmore regarding content updates
+## 2021-05-25 Meeting with Beth Potts
+
+### Attendees
+- Beth Potts, PO
+- Marci McGuire, PM
+- Danielle Thierry
+- John Hashimoto
+
+### Notes
+- Looked at the Discharge Upgrade Wizard
+- Each branch has two places you can land on
+- We looked at the Air Force page for DD 149
+- DoD wants any instructions provided should be provided via the portal
+- Beth looked at the portal link
+- Danielle and John had an idea - if you go to the Discharge Upgrade landing page on VA.gov - the CLP doesn't allow for 5 different links to 5 different 
+- We eliminate the wizard, and we take them to the portals. 
+- Instead of the button, we'd have Army, Navy, Air Force, Marines, Coast Guard links
+- The CLP doesn't lend itself to five equally important links.
+- I agree, but think we should mock something up and run it by Kayla and Margarete.
+- I'll create a clean content ticket with the links that Margarete provided.
+- DECISION: We're going to leave the PDF links as-is (no download instructions for now)
+- DECISION: We're going to update the wizard with the new addresses that Margarete sent, but we are NOT going to add portal links since AF still has a cert issue
+
+## 2021-05-21 meeting regarding content updates
 
 ### Attendees
 - John Hashimoto, PO
