@@ -9,7 +9,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 The goals of this user research study are to: 
 
-- Better understand why some Veterans choose to not apply for healthcare benefits.
+- Better understand why some Veterans choose to not apply for health care benefits.
 - Better understand why Veterans start the application, but don’t complete it.
 - Gain human understanding behind the sections that the analytics show high drop-off rates.
 - Better understand context, environmental factors, and user behaviors, and feelings about the Health Care application.
@@ -54,6 +54,25 @@ We conducted 1 pilot + 8 participant remote moderated task analysis and contextu
   - Rural: 2
   - Unknown: 1
 
+- Has VA Health care:
+  - Yes, applied more than 6 months ago: 7
+  - Yes, applied less than 6 months ago: 1
+  - Doesn't think so/unsure: 1 (This Veteran receives health care through military retirement) 
+
+**Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested the following recruitment, due to a general confusion of health care benefits separate from other benefits, most of our participants did not meet these specifications:
+ 
+ All participants must be yes to one of the following qualifications:
+
+  - Started the Health Care application (10-10EZ) in the last 6 months, but did not complete it.
+or
+
+  - Is currently considering (or has in the past) applying for healthcare through the VA.
+or
+
+  - Applied for VA healthcare in the last 6 months.
+
+
+
 
 ### Research Questions
 
@@ -69,7 +88,21 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. k 
+**General**
+1. Most Veterans do not differentiate the nomenclature of the VA benefits and health care, they are all "VA benefits" to them.
+2. Participants feel that the VA should already have much of the information that the VA Health care application requests.
+3. Participants worry that their answers to some questions could automatically disqualify them from VA Health care.
+4. The majority of participants say that they would be more likely to answer sensitive questions and be more understanding of the effort to answer the questions if there was transparency as to why the question is being asked and how it will be used to determine their VA Health care eligibility.
+5. There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact method.
+6. The form progress is unclear. This is due to the inconsistent progress bar advancement and use of same titles on multiple pages.
+7. There is a need to rewrite many questions in plain language and to provide more explanation of the questions.
+8. There is a need to rethink the hierarchy flow and ensure that only required questions are asked, including creating more dependencies. 
+
+**Specific sections**
+1. Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and causing fear of inelgibility.
+2. The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclarity of what the questions were asking, how their responses would impact their application.
+3. Preferred facility question does not provide optimal UX especially for applicants who have many facilities in their state. Additionally, the "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
+4. Medicaid and Medicare related questions don't provide enough details for the participants to confidently provide answers.
 
 
 ## Details of Findings
