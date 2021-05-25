@@ -39,17 +39,17 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 
 ### Back End
 
-Since an endpoint exists already that handles much of the logic for deciding approval status we simply need to create an endpoint for the front end to hit that will
+> Since an endpoint exists already that handles much of the logic for deciding approval status we simply need to create an endpoint for the front end to hit that will
   - receive the call from the front end
   - using the profile data make a call to the LGY service
   - pass the returned data from the LGY service to the front end
   
-Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
+> Initial api call from VA.gov to LGY requires ICN and EDIPI, and returns a status of `eligible`, `ineligible`, or `unable to determine`.
 
 
 ### Front End
 
-We need to build a UI that will alow the user to see if they have been approved for a COE AND also download tht COE in a PDF. The front end will
+> We need to build a UI that will alow the user to see if they have been approved for a COE AND also download tht COE in a PDF. The front end will
   
 - send a call to the back end
 - based on the data returned from the back end tell the user if they are eligible for a COE
