@@ -15,7 +15,7 @@ assignees: andreahewitt-odd, Shiragoodman
 - [ ] VFS: At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VFS: Verify that access information has been provided for the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 - [ ] Platform: Create feedback tickets and link to the Staging Review ticket (if no feedback, please comment stating that). 
-- [ ] VFS: Respond to VSP feedback tickets.
+- [ ] VFS: Respond to Platform feedback tickets.
 - [ ] VFS: Update this ticket with the product’s launch date after it has gone live.
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 - [ ] VFS: Close this ticket when the review is complete.
