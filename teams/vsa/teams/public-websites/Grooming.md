@@ -38,7 +38,8 @@ None
 - [ ] Research Solution and Ideation Reviews [#24898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24898)
 - [ ] [Site Services Maintenance Notification] DSLogon May 29-30 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
 - [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
-- [ ] Migrate Homepage Banner to Drupal [#25038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25038) 
+- [ ] Migrate Homepage Banner to Drupal [#25038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25038)
+- [ ] Update Webpage from Claims & Appeals [#24996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24996) 
 - [ ] [FE] Conditional Rendering in CMS [#24002](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24002) 
 - [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
 - [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
