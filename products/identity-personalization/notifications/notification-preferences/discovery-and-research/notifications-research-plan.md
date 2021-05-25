@@ -6,7 +6,7 @@
 
 Profile notification settings, Authenticated Experience
 
-### Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+### Background 	
 
 The VA is ramping up their digital communications efforts, specifically through email and text. As a result, Veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.
 
@@ -66,7 +66,7 @@ We'll test with a [UXPin prototype](https://preview.uxpin.com/bb87d0fa61a32938a4
 
 ## Participants and Recruitment	
 
-Recruit for 8 fulfilled sessions using the following criteria:
+Please schedule 12 participants for 8 fulfilled sessions using the below criteria. Once we hit 8 sessions, we will cancel the remaining participants.
 
 ### Must have for participants
 
@@ -87,7 +87,7 @@ Recruit for 8 fulfilled sessions using the following criteria:
 - At least half of the participants identify as a person of color
 - At least 2 participants under 30 and 2 participants over 55
 - At least one person that does not have a college degree (to include enlisted Vets)
-- At least one person that has a college degree (to include of officer Vets)
+- At least one person that has a college degree (to include officer Vets)
 - At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
 - At least one person with a disability rating of 70% or greater
@@ -106,18 +106,18 @@ We will leverage Perigean's services to recruit participants.
 
 ## Timeline
 
-#### Desired Timeline: June 7-9, 2021 
+#### Desired Timeline: June 14-16, 2021 
 
 45 minute sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
-| Team Availability | Time (EST)             |
-| ----------------- | ---------------------- |
-| June 7, 2021      | 6-7am, 9am-5pm         |
-| June 8, 2021      | 6-7am, 9-11am, 2pm-5pm |
-| June 9, 2021      | 6-7am, 9am-5pm         |
+| Team Availability | Time (EST)      |
+| ----------------- | --------------- |
+| June 14, 2021     | 9am-5pm         |
+| June 15, 2021     | 9-11am, 2pm-5pm |
+| June 16, 2021     | 9am-5pm         |
 
-Pilot Session: June 3, 2021 | Time TBD
+Pilot Session: June 11, 2021 | Time TBD
 
 ## Team Roles	
 
