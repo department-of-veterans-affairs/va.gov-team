@@ -95,7 +95,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
-1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
+1. Thank you, all of that is really helpful for our team.  Now, please go ahead and sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
 2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
    - You got here by clicking edit - is that what you expected?
    - How are you able to receive the notifications you see here? Why do you think that is?
@@ -134,7 +134,7 @@ Now that you've added an email address to your profile, talk me through what you
 - Were they able to get back to notification settings without any major hurdles?
 - Did they notice that places that previously said "add your email address" are now replaced with a status?
 
-## Task 6: Remove personal information - 2 minutes
+## Task 5: Remove personal information - 2 minutes
 
 Now I'd like you to imagine you changed your mind, and don't want the VA to email any notifications again. How would you remove the email address you added?
 
