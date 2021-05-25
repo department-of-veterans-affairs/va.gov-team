@@ -124,38 +124,27 @@ Pilot Session: June 11, 2021 | Time TBD
 Please list the people who will be serving in each role. 
 
 - Moderator:	Tressa Furner and Liz Lantz
-
 - Research guide writing and task development:	Liz Lantz
-
 - Participant recruiting & screening:	Perigean
-
 - Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-
 - Participant(s) for pilot test:	TBD
-
 - Note-takers:	TBD
-
 - Observers:	
-
   - Samara Strauss - samara.strauss@va.gov
-
   - Ana Jakabcin - ana@adhocteam.us
-
   - Erik Hansen - erik@adhocteam.us
-
   - Lihan Li- lihan@adhocteam.us
-
   - Tressa Furner - tressa.furner@adhocteam.us
-
   - Maria Becker - Maria.becker@thoughtworks.com
-
   - Todd Stanich - todd.stanich@thoughtworks.com
-
   - Paras Shah - paras@docme360.com
-
   - Terry Bazemore - tbazemore@meetveracity.com
 
-    
+**Please include the following information in the calendar invite for observers:**
+
+> Please plan on joining the session *prior* to the scheduled start time.  After the session begins, the moderator may not be able to admit observers.  When you join, please keep your camera off, your microphone muted, and change your name to "observer".  If you have questions during the session, please post them in #feedback-backchannel on Slack.
+
+
 
 ## Resources	
 
