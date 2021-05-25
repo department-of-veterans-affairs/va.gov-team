@@ -100,20 +100,22 @@ At least:
 
 ## Timeline 
 
-[Preliminary dates - **BLOCKED BY RECRUITING DELAYS**]
+### Times below in Eastern 
 
-- Study dates: ~~May 19 - 27, 2021~~
-- Pilot session: will be held on ~~Mon, May 17, 2021~~
+- Study dates: June 8 - 17, 2021
+- Pilot session #1 - Mobile: Thursday, June 3, 5-6:30pm 
+- Pilot session #1 - Desktop: Monday, June 7, 2-3:30pm 
 - Session length: **2 hours** 
 
-#### Availability: Time in Eastern **Josh: may be interested in spacing out times a bit more in case some sessions run over**
-- ~~Wed 5/19: 8a, 10a, 12p~~ 
-- ~~Thu 5/20:  8a, 10a, 12p~~
-- ~~Fri 5/21:  8a, 10a~~
-- ~~Mon 5/24: 12p~~
-- ~~Tue 5/25: 8a, 10a, 12p~~
-- ~~Wed 5/26: 8a, 10a, 12p~~
-- ~~Thu 5/27: 8a, 10a, 12p~~
+#### Participant session times
+
+- Tuesday, June 8, 12:30-2:30pm
+- Wednesday, June 9, 9-11am, 1-3pm
+- Thursday, June 10, 9-11am, 1-3pm
+- Monday, June 14, 9-11am, 2-4pm
+- Wednesday, June 16, 9-11am, 1-3pm
+- Thursday, June 17, 9-11am
+
 
 ## Team Roles
 
@@ -122,14 +124,19 @@ At least:
 - Research guide writing and task development: Leyda Hughes leyda.hughes@adhocteam.us, Josh Kim josh.kim@adhocteam.us
 - Project point of contact: Leyda Hughes leyda.hughes@adhocteam.us
 - Participant recruiting & screening: Perigean
-- Notetaker: Perigean
+- **Notetaker: Perigean
 
 Participant(s) for pilot test: 
 - Michelle Middaugh: michelle.middaugh@adhocteam.us
 - Angela Fowler: angela.fowler@adhocteam.us
 - Josh Kim: josh.kim@adhocteam.us
 
-Observers:
+Slack Channel:
+- Leyda Hughes leyda.hughes@adhocteam.us
 - Dave Conlon: david.conlon@va.gov
 - Michelle Middaugh: michelle.middaugh@adhocteam.us
-- Additional observers will be invited directly by the researchers
+- Angela Fowler: angela.fowler@adhocteam.us
+- Josh Kim: josh.kim@adhocteam.us
+
+Observers:
+- Will be invited directly by the researchers
