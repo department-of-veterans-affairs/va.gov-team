@@ -96,7 +96,7 @@ Strictly Online
 
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 
-We will be gathering feedback on the product at staging.va.gov/virtual-agent
+We will be gathering feedback on the product at staging.va.gov/virtual-agent-study/
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
@@ -197,7 +197,7 @@ We would like to start the research on June 1st and run it until 100 participant
 
 **2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)**
 
-Yes, the product will be ready at staging.va.gov/virtual-agent. 
+Yes, the product will be ready at staging.va.gov/virtual-agent-study/
 
 **3. Length of Sessions**
 
