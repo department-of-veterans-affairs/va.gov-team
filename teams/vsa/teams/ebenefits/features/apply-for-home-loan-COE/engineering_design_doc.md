@@ -91,7 +91,7 @@ We will use the Form System to create a form that hides and shows fields based o
 - If the Veteran was determined to be `ineligible` or `unable to determine` because of missing information, the LGY service will return to us what data is missing
 
 ### Code Location
-vets-website/src/applications/lgy/coe
+`vets-website/src/applications/lgy/coe`
 
 ### Testing Plan
 As with other applications on VA.gov we will unit test each state of each component as well as e2e test each path through the application
