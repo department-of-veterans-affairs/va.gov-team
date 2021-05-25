@@ -195,7 +195,7 @@ Objective:
 
 
 
-
+---
   
 
 ## Discovery + Approach
@@ -227,7 +227,13 @@ Objective:
 
  - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
 
-  
+## Hypotheses/Bets for Consideration
+
+1)
+2)
+3)
+4)
+
 
 ## Other search tool links to include
 
