@@ -96,36 +96,68 @@ We require 100 participants, with 10 participants in each pods or segment:
 
 Veterans:
 
-Segment #1: 10 participants who are female Veterans  (https://adhoc.optimalworkshop.com/questions/4t5k723z )
+Segment #1: 10 participants who are female Veterans 
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
-Segment #2: 10 participants who are Male Veterans (https://adhoc.optimalworkshop.com/questions/4t5k723z-0 )
+Segment #2: 10 participants who are Male Veterans 
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
 Non-Veterans:
 
-Segment #3: 10 participants who are people close to Veterans (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0 )
+Segment #3: 10 participants who are people close to Veterans 
 - Can be female caretakers, male caretaker or family members (i.e. dependents)
 
 Usage related segments:
 
-- Segment #4: 10 participants who are new to va.gov (2 years or less) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0 )
+- Segment #4: 10 participants who are new to va.gov (2 years or less) 
 
-- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0 )
+- Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year)
 
-- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly) (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0 )
+- Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly) 
 
 Location:
 
-- Segment #7: 10 participants who live in urban centers (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0)
+- Segment #7: 10 participants who live in urban centers 
 
-- Segment #8: 10 participants who live in suburban or rural areas (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0 )
+- Segment #8: 10 participants who live in suburban or rural areas 
 
 Marginalized populations:
 
-- Segment #9: 10 participants who identify as LGBTQ+  (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0)
+- Segment #9: 10 participants who identify as LGBTQ+  
 
-- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).  (https://adhoc.optimalworkshop.com/questions/4t5k723z-0-0-0-0-0-0-0-0-0)
+- Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).  
+
+- Links for Optimal Workshop:
+- 
+Segment #1: 10 participants who are female Veterans.:  
+https://adhoc.optimalworkshop.com/questions/chatbot1 
+
+Segment #2: 10 participants who are Male Veterans
+https://adhoc.optimalworkshop.com/questions/chatbot2 
+
+Segment #3: 10 participants who are people close to Veterans
+https://adhoc.optimalworkshop.com/questions/chatbot3 
+
+Segment #4: 10 participants who are new to va.gov (2 years or less) 
+https://adhoc.optimalworkshop.com/questions/chatbot4 
+
+Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year)
+https://adhoc.optimalworkshop.com/questions/chatbot5 
+
+Segment #6: 10 participants who are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
+https://adhoc.optimalworkshop.com/questions/chatbot6 
+
+Segment #7: 10 participants who live in urban centers
+https://adhoc.optimalworkshop.com/questions/chatbot7
+
+Segment #8: 10 participants who live in suburban or rural areas
+https://adhoc.optimalworkshop.com/questions/chatbot8 
+
+Segment #9: 10 participants who identify as LGBTQ+ 
+https://adhoc.optimalworkshop.com/questions/chatbot9 
+
+Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service).
+https://adhoc.optimalworkshop.com/questions/chatbot10 
 
 
 For technology requirements:
