@@ -52,10 +52,11 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 
 (Link) Cancel request
 
+---
 
 #### Request-Canceled
 
-
+---
 
 #### Confirmed-Future
 
@@ -84,6 +85,8 @@ You shared these details about your concern
 (link) Print
 
 (link) Cancel appointment
+
+---
 
 #### Confirmed-Future Vaccine
 
