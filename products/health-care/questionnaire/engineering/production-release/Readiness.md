@@ -28,12 +28,12 @@
 - [ ] Ensure production configuration(data and network) has been established prior to going live
 - [ ] Ensure that the email and text template has been delivered and hooked up in the production environment
 
-## Pre Visit Summary (PVS)
+## Pre Visit Summary (PVS) (@stephenBarrs)
 
 - [ ] Ensure that the PVS team has provided the Lighthouse team with the necessary public/private key pairs for the production environment
 - [ ] Ensure production configuration(data and network) has been established prior to going live
 
-## Loma Linda/Jerry L Pettis integration checklist
+## Loma Linda/Jerry L Pettis integration checklist (@stephenBarrs)
 
 - [ ] Ensure that the PVS system is operational and communicating with the Lighthouse's production environment
 
