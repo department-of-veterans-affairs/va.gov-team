@@ -104,5 +104,24 @@ We will used Google Analytics to monitor the application as well as install Sent
 
 ### Front End
 
+Since we develop our apps in React and Redux our application will be built using React components in a composition pattern and using Redux for state management. We have a couple general guidelines that we have used in the past and have served us well so we will continue using them here, those guidelines are -
+
+- **Use as simple of a component as we can for the task at hand** - We try to mainly use functional components and keep stateful components to a minimum
+- **Use a container component to manage data flow** - Placing most logic in parent components seems to simplify the architecture
+
+
+Components (WIP)
+
+| Name      | Purpose | Type |
+| ----------- | ----------- | ----------- |
+| App      | House all components for application | Stateful |
+| RequiredLoginView | Require login to view the page | Platform Component |
+ 
+
+
+
+
+
+
 
 
