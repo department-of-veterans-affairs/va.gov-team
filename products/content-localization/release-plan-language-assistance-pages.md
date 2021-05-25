@@ -26,7 +26,7 @@
 - How will you make the product available in production while limiting the number of users who can find/access it: 
      - feature flag
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
-     - no gating issues uncovered after 48 hours in production
+     - no gating issues uncovered after 48 hours in production at 25%, 50% (and then full roll-out at 100%).
 - Go Live!
 
 Post-launch KPI 1: 
