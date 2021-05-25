@@ -58,6 +58,8 @@ _Note: If you do have a VA-issued laptop, you can also use CAG, but the Citrix s
     - Enter the directory where the OpenSC PKCS #11 driver is located:
 
           /usr/lib/x86_64-linux-gnu/pkcs11/opensc-pkcs11.so
+    - If it shows an error that is ok.
+    - You should now see the module listed on the left side, select it and click "Log in" and enter your PIN.
 
 
 1. Install [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html)
@@ -66,10 +68,10 @@ _Note: If you do have a VA-issued laptop, you can also use CAG, but the Citrix s
 
         sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/cacerts
 
-1. Continue from step 4 above using Firefox
+1. Continue from [step 5 above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/accessing-va-network-without-va-laptop.md#steps) using Firefox
 
 References:
-- [Firefox Config](https://piv.idmanagement.gov/engineering/firefox/)
+- [Firefox Config](https://piv.idmanagement.gov/engineering/firefox/) ([source](https://github.com/GSA/piv-guides/blob/staging/_engineering/01_firefox.md))
 - [Citrix Certificates](https://askubuntu.com/questions/302188/certificate-error-when-using-citrix-receiver)
 
 ## Troubleshooting
