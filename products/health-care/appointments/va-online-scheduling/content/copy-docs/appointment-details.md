@@ -112,6 +112,8 @@ TTY: 711
 
 (link) Cancel appointment
 
+---
+
 #### Canceled-Future
 
 (H1) {appointment date} at {appointment time}
@@ -136,6 +138,8 @@ You shared these details about your concern
 
 {Reason}: {Booking note}
 
+---
+
 #### Canceled-Future Vaccine
 
 (H1) {appointment date} at {appointment time}
@@ -156,9 +160,13 @@ Main phone: {phone number}
 
 TTY: 711
 
+---
+
 #### VA Alerts
 
 ##### Vaccine Cancel
+
+---
 
 ### Community Care
 
@@ -194,6 +202,7 @@ Call {Best times to call "morning", "afternoon", or "evening"}
 
 (Link) Cancel request
 
+---
 
 #### Confirmed-Future
 
@@ -223,6 +232,8 @@ Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment.
 
+---
+
 #### Confirmed-Past
 
 (H1) {appointment date and time}
@@ -247,6 +258,8 @@ You shared these details about your concern
 
 (link) Print
 
+---
+
 #### Community Care Variations
 
 The copy below may be used in place of some copy above based on the data available.
@@ -256,6 +269,8 @@ The copy below may be used in place of some copy above based on the data availab
 Preferred community care provider
 
 No provider selected
+
+---
 
 ##### No Booking Note
 
