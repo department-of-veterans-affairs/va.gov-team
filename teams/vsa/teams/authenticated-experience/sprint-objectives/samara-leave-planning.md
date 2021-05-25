@@ -78,11 +78,15 @@ In terms of research objectives, here are some initial thoughts:
 
 **Goals**
 
-- Assess what dependents do online to manage their relationship with the VA (could be on sites other than VA.gov).
 - Be able to define dependents' top priorities.
-- Understand what data currently gets pulled into VA.gov for dependents even though there isn't an actual user role defined. This may involve having a dependent show you their account and asking to see different sections of the site.
-  - **Example** Direct deposit for edu information is pulled into the VA.gov profile for dependents already because the data is correlated with people in MPI/BGS and is not bound by a user type. Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)? 
-- Understand how someone gets correlated as a dependent in the VA ecosystem. This is likely something we can learn more about through the eBenefits migration team (Jason Wolf), so likely not something we'd ask dependents about.
+  - The initially proposed MVP was that a dependent should be able to sign on and view their benefit letter. Do they care about this? Is this a good MVP? What is the most important thing a dependent needs to do?
+- From this research, be able to define what a dependent user role MVP would look like on VA.gov.
+
+**Additional Thoughts**
+
+- One way to better understand dependent's top priorities is to assess what they already do online to manage their relationship with the VA (could be on sites other than VA.gov).
+- We'll likely also want to quickly look into dependents' VA.gov accounts to asses what data they can already see and what they can't. For example, we  know from direct deposit for edu UAT that depedents can already see this information in their profile without any additional work from us. Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)? 
+- We should also make sure we understand how someone gets correlated as a dependent in the VA ecosystem. This is likely something we can learn more about through the eBenefits migration team (Jason Wolf), so likely not something we'd ask dependents about.
 
 ## Q4 2021 (October - December) goals
 
