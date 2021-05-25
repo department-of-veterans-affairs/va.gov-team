@@ -447,7 +447,7 @@ You’ll need to scan your document onto the device you’re using to submit thi
 Guidelines for uploading a file:
 
 - You can upload a .pdf, .jpeg, or .png file
-- Your file should be no larger than 25MB
+- Your file should be no larger than 10MB
 
 A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow internet connection.
 
