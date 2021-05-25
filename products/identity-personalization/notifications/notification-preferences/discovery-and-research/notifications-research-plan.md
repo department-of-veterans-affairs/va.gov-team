@@ -131,6 +131,7 @@ Please list the people who will be serving in each role.
 - Note-takers:	TBD
 - Observers:	
   - Samara Strauss - samara.strauss@va.gov
+  - Beverly Nelson - beverly.nelson@va.gov 
   - Ana Jakabcin - ana@adhocteam.us
   - Erik Hansen - erik@adhocteam.us
   - Lihan Li- lihan@adhocteam.us
