@@ -71,6 +71,10 @@ General consensus appears to be that person-first language is still okay as a ge
 
 - Need to add notes here based on research sprint learnings
 
+### Experiencing homelessness
+
+- Shifting to more respectful, compassionate language here. Double checking with SMEs. Have updated in coronavirus FAQs and communicated to some product teams. Would like to update in footer, do a more complete audit for wording, and add to style guide.
+
 ### Conditional first
 
 We follow this as a content principle, but I don't know that it actually made it into the first iteration of the style guide. It should be in there.
