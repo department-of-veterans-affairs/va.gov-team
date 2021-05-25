@@ -70,6 +70,7 @@ General consensus appears to be that person-first language is still okay as a ge
 ### Sexual orientation and gender identity
 
 - Need to add notes here based on research sprint learnings
+- Note from LGBT working group: VEO is conducting research with Veterans. Will be changing the current VA language of "LGBT and related identities." Will add update when available.
 
 ### Experiencing homelessness
 
