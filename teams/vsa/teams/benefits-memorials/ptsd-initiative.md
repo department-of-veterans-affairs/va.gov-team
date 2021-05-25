@@ -1,9 +1,7 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
- <Summary>Product: Disability Claims | Initiative: Original Claims, PTSD)</Summary> 
- </details>
+Product: Disability Claims | Initiative: Original Claims, PTSD
  
 ---
 
