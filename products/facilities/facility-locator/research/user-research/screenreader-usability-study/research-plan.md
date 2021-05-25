@@ -46,16 +46,17 @@ Sessions will combine:
   - 1 VoiceOver macbook or mac user
   - 1 JAWS user
   - 1 NVDA user
-  - 1 TalkBack (Android) user
+  - 1 TalkBack (Android) phone user
 
 AND
 
-- Have the low to no vision as specified by the following
+- (4) Participants must have a mobile phone device and be willing to be complete the test on said device
+- Have the low to no vision as specified by the following:
   - At least 4 participants have an acquired vision-related disability
   - At least 1 advanced screen reader user and 1 beginner screen reader user
   - At least 1 participant has a congenital vision-related disability
   - At least 1 participant has low vision (not complete blindness)
-  - (4) Participants must have a mobile phone device and be willing to be complete the test on said device
+
 
 **Definition of low vision:**  For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night. 
 
