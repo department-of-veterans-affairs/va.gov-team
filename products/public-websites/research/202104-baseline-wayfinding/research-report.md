@@ -128,9 +128,9 @@ Below are visualizations showing the desktop and mobile versions of the VA.gov h
 ![mobile-links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-links.png)
 
 Below are visualizations showing where research **participants using computers (desktop or laptop) clicked**, where analytics data show clicks, and a comparison of the two.
-![desktop-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-research.png)
+![desktop-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-research2.png)
 ![desktop-analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-analytics.png)
-![desktop-compare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-compare.png)
+![desktop-compare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/desktop-compare2.png)
 
 Below are visualizations showing where research **participants using mobile devices (smartphones or tables) clicked**, where analytics data show clicks, and a comparison of the two.
 ![mobile-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/images/mobile-research.png)
