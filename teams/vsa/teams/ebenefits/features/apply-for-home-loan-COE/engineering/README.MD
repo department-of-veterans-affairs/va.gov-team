@@ -3,7 +3,7 @@
 Table of Contents
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering#background) 
 - [High Level Engineering Spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering/README.MD#high-level-engineering-spec)
-- [Detailed Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering_design_doc.md#detailed-design)
+- [Detailed Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering/README.MD#detailed-design)
 
 **Author(s):** Jesse Cohn 
 **Last Updated:** 5/24/21  
