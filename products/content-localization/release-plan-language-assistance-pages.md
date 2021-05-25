@@ -10,7 +10,7 @@
      - use of flipper feature to test internally on staging and then pahsed roll-out to production.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: 
      - on staging.va.gov (hidden in prod)
--  Note: if any launch-gating issues are discovered during testing, we will fix and re-test for 1-2 days. Once we reach the point of no launch-gating items, we will move on to release to the production environment.
+-  Note: if any launch-gating issues are discovered during testing, we will fix and re-test for 1-2 days. Once we reach the point of no launch-gating items, we will move on to phased release to the production environment.
 
 ### Results:
 
