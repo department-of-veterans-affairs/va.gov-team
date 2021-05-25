@@ -91,7 +91,7 @@ The service history page causes confusion for two main reasons:
 > "I wish I could answer 'I don't know' because if I put 'no' then I would think it would be on my record and I would be disqualified from getting it, but I don't know if I am."
 
 
-**There is uncertainty about how the applicant will receive updates on their application staus and a desire to be able to specify preferred contact method**
+**There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact method**
 - Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted about the status of their application. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
 > _After application submission_ When asked what they expect to happen next, "I would like to receive an email rather than mail [like previous experience], but I didn't input an email because it's not required and it didn't say communication could be through this."
 
