@@ -145,6 +145,8 @@ Please list the people who will be serving in each role.
 
   - Lihan Li- lihan@adhocteam.us
 
+  - Tressa Furner - tressa.furner@adhocteam.us
+
   - Maria Becker - Maria.becker@thoughtworks.com
 
   - Todd Stanich - todd.stanich@thoughtworks.com
