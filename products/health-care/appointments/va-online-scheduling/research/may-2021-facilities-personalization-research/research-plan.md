@@ -38,9 +38,9 @@ Our goal for the interview is to learn how participants think about their facili
 
 Our goal for the concept test is to get a better understanding of their mental model of their facilities, and test the usability and potential value of two workflows:
 
--   [Opt out of facilities in Profile](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2) - participants will review a list of facilities in the profile and be asked to remove facilities that they no longer go to.
+-   [Opt out of facilities in Profile](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675) - participants will review a list of facilities in the profile and be asked to remove facilities that they no longer go to.
 
--   [Opt in to facilities from VAOS](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703) - participants will save a facility they select while scheduling.
+-   [Opt in to facilities from VAOS](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185) - participants will save a facility they select while scheduling.
 
 We'll test each flow with half of our participants. All participants will be asked the same interview questions, and both flows will test:
 
