@@ -42,8 +42,8 @@ Sessions will combine:
 (All) Participants must:
 
 - Primarily use a screen reader to interact with websites as specified by the following:
-  - 1 VoiceOver macbook or mac user
   - 1 VoiceOver iPhone or iPad user
+  - 1 VoiceOver macbook or mac user
   - 1 JAWS user
   - 1 NVDA user
   - 1 TalkBack (Android) user
