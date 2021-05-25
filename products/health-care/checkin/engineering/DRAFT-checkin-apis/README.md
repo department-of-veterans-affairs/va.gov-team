@@ -1,5 +1,7 @@
 # Documentation for DRAFT Check In APIs
 
+<a name="documentation-for-api-endpoints"></a>
+
 ---
 
 While this document is in a draft state, it is intended to facilitate communication between teams.
@@ -15,7 +17,6 @@ version of these endpoints.
 
 ---
 
-<a name="documentation-for-api-endpoints"></a>
 ## Documentation for API Endpoints
 
 All URIs are relative to *http://localhost:3000*
@@ -39,8 +40,10 @@ All URIs are relative to *http://localhost:3000*
 | *PrecheckinApi*   | [**precheckin**](Apis/PrecheckinApi.md#precheckin)                                 | **GET** /pre-checkins                                | Gets a list of pre-checkin items                    |
 | *VetextApi*       | [**comeIn**](Apis/VetextApi.md#comein)                                             | **POST** /come-in                                    | Notify the patient that they can enter the building |
 | *VetextApi*       | [**imh**](Apis/VetextApi.md#imh)                                                   | **GET** /i-am-here                                   | Gets a list of veterans who are ready to come in    |
+| *WorkflowsApi*    | [**addPatient**](Apis/WorkflowsApi.md#addpatient)                                  | **POST** /workflows/{workflowId}/patients            | Adds a patient to a workflow                        |
 | *WorkflowsApi*    | [**getWorkflow**](Apis/WorkflowsApi.md#getworkflow)                                | **GET** /workflows/{id}                              | Gets a workflow                                     |
 | *WorkflowsApi*    | [**getWorkflowPatient**](Apis/WorkflowsApi.md#getworkflowpatient)                  | **GET** /workflows/{workflowId}/patients/{patientId} | find a patient in a workflow                        |
+| *WorkflowsApi*    | [**getWorkflowPatients**](Apis/WorkflowsApi.md#getworkflowpatients)                | **GET** /workflows/{workflowId}/patients             | Gets patients in a workflow                         |
 | *WorkflowsApi*    | [**postWorkflow**](Apis/WorkflowsApi.md#postworkflow)                              | **POST** /workflows/{id}                             | Creates a workflow                                  |
 | *WorkflowsApi*    | [**setStatusForPatient**](Apis/WorkflowsApi.md#setstatusforpatient)                | **PUT** /workflows/{id}/actions/change-status        | change status of patient in workflow                |
 | *WorkflowsApi*    | [**workflowClear**](Apis/WorkflowsApi.md#workflowclear)                            | **DELETE** /workflows/{id}/actions/clear             | clear all patients from workflow                    |

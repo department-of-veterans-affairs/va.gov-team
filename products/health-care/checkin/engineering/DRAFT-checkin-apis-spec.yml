@@ -16,6 +16,11 @@ info:
 servers:
   - url: http://localhost:3000
 paths:
+  # Questions:
+  ## 1. Does the API need to provide a way to manage the queue (at first)? E.g. Does a nurse need a way to re-order the list of patients waiting on the 'nurse' phase?
+  ##    Or can they just do things "out of order"? E.g. 3 patients, A B C, ordered and waiting on nurse. A & B are not ready, so nurse needs to call C. Can the nurse
+  ##    just call C and move them on to the next phase? Or does the nurse need to take the extra step of re-ordering (C = 1, A = 2, B = 3) the patients, and then calling them?
+  ## 2. Is there a 1-1 mapping between Clinic and workflow? Can a clinic have more than 1 workflow?
   /i-am-here:
     get:
       tags:
@@ -128,6 +133,64 @@ paths:
           description: "OK"
         "404":
           description: "Not Found"
+  /workflows/{workflowId}/patients:
+    get:
+      tags:
+        - "workflows"
+      summary: "Gets patients in a workflow"
+      description: "Returns a list of patients in a workflow"
+      operationId: "getWorkflowPatients"
+      parameters:
+        - in: path
+          required: true
+          name: workflowId
+          schema:
+            type: string
+        # Will likely need some query params to filter here
+      responses:
+        "200":
+          description: "OK"
+          content:
+            application/json:
+              schema:
+                properties:
+                  patients:
+                    type: array
+                    items:
+                      properties:
+                        id:
+                          type: number
+                        name:
+                          type: string
+                        workflowState:
+                          type: string
+        "404":
+          description: "Not Found"
+    post:
+      tags:
+        - "workflows"
+      summary: "Adds a patient to a workflow"
+      description: ""
+      operationId: "addPatient"
+      parameters:
+        - in: path
+          required: true
+          name: workflowId
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              properties:
+                patientId:
+                  type: string
+      responses:
+        "200":
+          description: "OK"
+        "404":
+          description: "Not Found"
+
   # need a way for someone to find a workflow to setup for kiosk/workstation
   # if we use a clinics route here, it's easy (organizationally) to CRUD workflows for clinics
   /clinics/{sta3n}/workflows:
