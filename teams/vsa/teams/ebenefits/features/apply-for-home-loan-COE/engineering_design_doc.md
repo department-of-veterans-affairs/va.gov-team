@@ -64,10 +64,10 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 > It would also be nice if we can tell the Veteran why they were determined to be `ineligible` or `unable to determine` but we are not sure if the LGY service can do this
   
 ### Back End
-If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then the back end will need to pass that data to the front end, hopefully in the same call made in the previous objective.
+> If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then the back end will need to pass that data to the front end, hopefully in the same call made in the previous objective.
   
 ### Front End
-If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then we will need to show the user this reason in an AlertBox as well as what they can do about it.
+> If the LGY service can tell us why the Veteran was `ineligible` or `unable to determine then we will need to show the user this reason in an AlertBox as well as what they can do about it.
 
 </details>
 
@@ -76,12 +76,14 @@ If the LGY service can tell us why the Veteran was `ineligible` or `unable to de
 > Once we have informed the Veteran that they were determined to be `inelibilbe` or `unable to determine` based on LGY not having some information, we need to show the Veteran a form that allows us to provide LGY with the missing information.
   
 ### Back End
-An endpoint will need to be set up to
+  
+> An endpoint will need to be set up to
+  
 - Recieve a form submission from the Front End
 - Send the data to LGY
   
 ### Front End
-We will use the Form System to create a form that hides and shows fields based on the data returned from LGY on what infromation they are missing. That form will then pass the data on submit to the back end to be sent to LGY.
+> We will use the Form System to create a form that hides and shows fields based on the data returned from LGY on what infromation they are missing. That form will then pass the data on submit to the back end to be sent to LGY.
 </details>
 
 ## Detailed Design
