@@ -86,7 +86,7 @@ The service history page causes confusion for two main reasons:
 **Preferred facility question does not provide optimal UX or transparency**
 - For Veterans that live in a state with many facilities, selecting a VA medical facility took time and caused some confusion. The list is not in alphabetical order thus participants had to read each one in order to make their selection. Many participants expressed that they were not sure which one to choose, especially those who don't regularly visit a VA center or clinic. The "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
 
-**Medicaid and Medicare related questions don't provide enough details**
+**Medicaid and Medicare related questions don't provide enough details for participants to confidently provide answers**
 - Many participants did not know if they qualified for Medicaid or Medicare (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
 > "I wish I could answer 'I don't know' because if I put 'no' then I would think it would be on my record and I would be disqualified from getting it, but I don't know if I am."
 
