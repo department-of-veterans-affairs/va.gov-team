@@ -42,7 +42,16 @@ Follow these content style best practices:
 
 ## Research findings
 
-
+### 5.25.21 notes from research
+- People want to know: Why we're asking each question? How we're going to use this?
+- People don't know what qualifies for the different fields (spouse, parents, dependents, reimburseable expenses, etc.)  
+- People are scared that the way they answer a question will automatically disqualify them. Specific to the military service section (it's just a long list of situations), if they get military compensation, financial disclosure (wish I knew exactly what the threshold is), whole household information section.  
+- People want more information about their privacy (for example, how is my DD214 upload protected)
+- On intro page
+  - people seem to like the prepare (list of things to gather)
+  - people liked that there was a mention of dental and vision benefits
+  - people didn't really mention the expectations after applying; they cared about that at the end
+  - people's first instinct (more than half) was to click the top button  
 
 ## Notes from stakeholders
 
