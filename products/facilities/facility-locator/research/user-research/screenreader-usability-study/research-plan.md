@@ -125,12 +125,11 @@ At least:
 - Notetaker: Perigean
 
 Participant(s) for pilot test: 
-- michelle.middaugh@adhocteam.us
-- angela.fowler@adhocteam.us
-- josh.kim@adhocteam.us
+- Michelle Middaugh: michelle.middaugh@adhocteam.us
+- Angela Fowler: angela.fowler@adhocteam.us
+- Josh Kim: josh.kim@adhocteam.us
 
-
-#### Observers (*include in Slack Channel):
-- *Dave Conlon: david.conlon@va.gov
-- *Michelle: Middaugh michelle.middaugh@adhocteam.us
-- Notetaker: (perigean)
+Observers:
+- Dave Conlon: david.conlon@va.gov
+- Michelle Middaugh: michelle.middaugh@adhocteam.us
+- Additional observers will be invited directly by the researchers
