@@ -274,7 +274,7 @@ Usage data presents various interpretations and therefore the following links ma
 
 **B.) [Current Right Rail Links - Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210401&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Navigation%20-%20Search%20Results%20-%20More%20VA%20Search%20Tools%22,0%5D%5D/)
 
-[[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-805226952)**
+[GH ticket with clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20168#issuecomment-805226952)**
 
   
 
@@ -324,8 +324,8 @@ Usage data presents various interpretations and therefore the following links ma
   
   ## Search Tool Usage
 As seen in Search usability study in January and February, 2021, we know that:
-80% were able to locate Find a Facility
-30% were able to locate Find a Form
+ - 80% were able to locate Find a Facility
+ - 30% were able to locate Find a Form
   
 As seen in Wayfinding Baseline usability study conducted in April and May, 2021, we can see that users have an overall low click rate on the search tools when they are located in the footer. We can see on Desktop:
  - 33% Find a Form
