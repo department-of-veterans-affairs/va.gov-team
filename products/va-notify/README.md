@@ -89,9 +89,8 @@ ________________________________________________________________________________
 
 
 ## Upcoming Capabilities
- * Feb 2021 - Multiple Provider Integration & Delivery Statuses
- * Feb-March 2021 - Self Service Portal
- * Work Starting April 2021 - VA Profile / VA.Gov Integrated Preferences
+ * Self Service Portal
+ * VA Profile / VA.Gov Integrated Preferences
 
 
 ## See Who We Are Working With
