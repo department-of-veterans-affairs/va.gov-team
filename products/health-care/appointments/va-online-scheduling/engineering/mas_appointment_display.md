@@ -1,4 +1,4 @@
-# How to display a MAS v1 appointment
+# How VAOS displays a MAS v1 appointment
 
 There are a few broad types of appointments that come through MAS.
 
@@ -19,7 +19,7 @@ This is the logic to detect those types:
 - If none of the above are true, it's an **in person VA appointment**
 
 General notes:
-- Always prefer using top level properties on `appointment` as opposed to properties on items in `vvsAppointments` or `vdsAppointments`.
+- We always prefer using top level properties on `appointment` as opposed to properties on items in `vvsAppointments` or `vdsAppointments`. MAS does some work to pull up properties associated with patients, which is normally what we want to use.
 - `appointment.facilityId` is the `sta3n` id (or VistA site id).
 - `appointment.sta6aid` is the id of the actual appointment location, based on the `facilityId` and `appointment.clinicId`.
 
@@ -43,22 +43,25 @@ Video appointments have their own set of types with different rules. As a shorth
 
 Video appointments where `vvsAppointment.appointmentKind` is `STORE_FORWARD` or `NO-VA-ID` are not shown.
 
+- `STORE_FORWARD` appointments are diagnostic test appointments
+- `NO_VA_ID` appointments are for patients who aren't enrolled and won't show up through VAOS
+
 ### Clinic based 
 
 Clinic based appointments are video appointments where `vvsAppointment.appointmentKind` is `CLINIC_BASED`. They are sourced from `TMP`.
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id `appointment.facilityId`.
-- Location: use facilities api data associated with `appointment.sta6aid`
+  - Displayed in timezone of facility with id `appointment.facilityId`.
+- Location: Facilities api data associated with `appointment.sta6aid`
   - Using `appointment.facilityId` is misleading, as this is the VistA site for the appointment, but not necessarily the actual location a patient will need to visit
-- Clinic name: show `appointment.clinicFriendlyName` or `vdsAppointment.clinic.name`
+- Clinic name: `appointment.clinicFriendlyName` or `vdsAppointment.clinic.name`
 - Video link: Not shown
-- Providers: `vvsAppointment.providers`
-  - Unclear if this is populated for this type of video appointment)
-- Duration: `vvsAppointment.duration`
-- Status: `vvsAppointment.status.code`
-   - VVS defaults this to `FUTURE`, unclear it TMP sets this value
+- Providers: `vvsAppointment.providers`, if they exist
+    - Unclear if this is populated for this type of video appointment)
+- Status: Use `vvsAppointment.status.code` to determine if appointment should be marked as cancelled
+    - Date is used to mark appointment as in the past 
+    - VVS defaults this to `FUTURE`, unclear it TMP sets this value
 - Booking notes: Not shown
 - Cancelable: No
 
@@ -68,17 +71,15 @@ At home appointments are video appointments where `vvsAppointment.appointmentKin
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id of `appointment.facilityId`.
-- Location: Do not show physical location
+  - Displayed in timezone of facility with id of `appointment.facilityId`.
+- Location: Not shown
   - VAOS directs users to cancel at facility associated with `appointment.facilityId`, but that is the VistA site, not necessarily the location of a provider associated with the appointment
-- Clinic name: Not shown
+- Clinic name: Not available
 - Video link: `vvsAppointment.patients[0].virtualMeetingRoom.url`
   - Link is only enabled 30 minutes before the appointment time and up to 4 hours after.
-  - TODO: does this work for `MOBILE_ANY`?
-- Providers: `vvsAppointment.providers`
+- Providers: `vvsAppointment.providers`, if they exist
   - Unclear if this is populated for `MOBILE_ANY`
-- Duration: `vvsAppointment.duration`
-- Status: Not shown. Can use date to mark appointment as in the past
+- Status: Not shown. Date is used to mark appointment as in the past
    - Cancelled video appointments are not returned
    - VVS defaults `vvsAppointment.status.code` to `FUTURE`, unclear it TMP sets this value
 - Instructions: Text based on `vvsAppointment.instructionsTitle`
@@ -92,15 +93,14 @@ VA device appointments are video appointments where `vvsAppointment.appointmentK
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id `appointment.facilityId`.
-- Location: Do not show physical location
+  - Displayed in timezone of facility with id `appointment.facilityId`.
+- Location: Not shown
   - VAOS directs users to cancel at facility associated with `appointment.facilityId`, but that is the VistA site, not necessarily the location of a provider associated with the appointment
 - Clinic name: Not shown
-- Video link: Do not show, show message about using provided VA device
+- Video link: Not shown, message about using provided VA device shown instead
 - Providers: `vvsAppointment.providers`
   - Unclear if this is populated for this type of video appointment)
-- Duration: `vvsAppointment.duration`
-- Status: Not shown. Can use date to mark appointment as in the past
+- Status: Not shown. Date is used to mark appointment as in the past
    - Unclear how appointments are cancelled
    - VVS defaults `vvsAppointment.status.code` to `FUTURE`, unclear it TMP sets this value
 - Booking notes: Not shown
@@ -112,13 +112,12 @@ These are VistA appointments that are not phone or community care.
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id `appointment.facilityId`.
-- Location: use facilities api data associated with `appointment.sta6aid`
+  - Displayed in timezone of facility with id `appointment.facilityId`.
+- Location: Facilities api data associated with `appointment.sta6aid`
   - Using `appointment.facilityId` is misleading, as this is the VistA site for the appointment, but not necessarily the actual location a patient will need to visit
 - Clinic name: show `appointment.clinicFriendlyName` or `vdsAppointment.clinic.name`
 - Video link: Not shown
 - Providers: Not shown
-- Duration: `vdsAppointment.appointmentLength`
 - Status: Marked as cancelled if status is one of
   - CANCELLED BY CLINIC
   - CANCELLED BY PATIENT
@@ -135,13 +134,12 @@ These are VistA appointments that have `appointment.phoneOnly` set to true.
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id `appointment.facilityId`.
-- Location: use facilities api data associated with `appointment.sta6aid`
+  - Displayed in timezone of facility with id `appointment.facilityId`.
+- Location: Facilities api data associated with `appointment.sta6aid`
   - Using `appointment.facilityId` is misleading, as this is the VistA site for the appointment, but not necessarily the actual location a patient will need to visit
 - Clinic name: show `appointment.clinicFriendlyName` or `vdsAppointment.clinic.name`
 - Video link: Not shown
 - Providers: Not shown
-- Duration: `vdsAppointment.appointmentLength`
 - Status: Marked as cancelled if status is one of
   - CANCELLED BY CLINIC
   - CANCELLED BY PATIENT
@@ -149,20 +147,19 @@ These are VistA appointments that have `appointment.phoneOnly` set to true.
   - CANCELLED BY CLINIC & AUTO-REBOOK
 - COVID-19 vaccine: Not shown
 - Booking notes: Not shown (can't be self-scheduled)
-- Cancelable: yes
+- Cancelable: Yes
 
 ## Community care
 
-These are VistA appointments that have `appointment.communityCare` set to true.
+These are VistA appointments that have `appointment.communityCare` set to true. This is basically a stub for tracking purposes. They are not returned in MAS and we do not want to show these if possible.
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
-  - Display in timezone of facility with id `appointment.facilityId`.
+  - Displayed in timezone of facility with id `appointment.facilityId`.
 - Location: Not shown
 - Clinic name: Not shown
 - Video link: Not shown
 - Providers: Not shown
-- Duration: `vdsAppointment.appointmentLength`
 - Status: Marked as cancelled if status is one of
   - CANCELLED BY CLINIC
   - CANCELLED BY PATIENT
