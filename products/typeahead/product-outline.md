@@ -1,4 +1,4 @@
-# Product Outline Template - Typeahead
+# Product Outline - Typeahead
 ---
 
 ## Overview
