@@ -29,3 +29,15 @@ Here is an article about how [gov.uk tested their task list.](https://designnote
 **Screenshot**
 
 ![Health care task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-item-screenshots/va-audit/Screen%20Shot%202021-05-26%20at%209.23.11%20AM.png)
+
+## Mobile App - Notifications
+
+For the mobile app MVP the team has opted not to include push notifications - they will be working on personalized notifications in the future. In their [most recent research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/research-summary.md#we-heard-consistency-across-top-requested-features) 
+
+> The other top request was notifications. For many of the current and future features participants indicated wanting to get notifications. Notifications were cited for appointment reminders, change in claim status, updates in claim document processing, any action needed for a claim or appeal, and COVID vaccine readiness. When talking about health features that could be in the app, participants referenced notifications too, for example getting notified that lab work is ready or that a prescription needs refilled. People are interested in notifications from VA in general, across claims and health care.
+
+> “Will this app have push notification with change of claim status? I would like to have that, because right now it's a guessing game...It would be helpful if we knew right away if there was something we needed to do or there was a change in status.” - P2 (screenshare)
+
+## VAOS - Notifications
+
+This team likely will have the most overlap with what we're working on - they started doing some initial research around notifications and what that specifically looks like related to appointments. They had to stop their work due to other demands, but they have some interesting things to share that I will drop in this doc once Peter Russo (the designer on VAOS) shares what he has with me. 
