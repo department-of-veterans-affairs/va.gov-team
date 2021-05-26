@@ -22,6 +22,10 @@
 
 </details>
 
+## June 2
+
+* Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
 
 ## Wednesday May 26
 
