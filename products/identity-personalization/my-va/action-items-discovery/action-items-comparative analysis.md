@@ -16,8 +16,8 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 This comparative analysis aimed to observe the following:
 
-- What are the types of action items that people expect to see?
-- How to sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
+- What are the types of action items that that sites show?
+- How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
 - How do sites let/help users resolve action items? Is there an action item log? 
 - How do sites visually prioritize action items?
 - How do sites determine what is an important action item to a user? 
@@ -26,18 +26,31 @@ This comparative analysis aimed to observe the following:
 
 - [UK.gov to do checklist]()
 - [State Farm]()
-
-
+- Carefirst
+- Chase
+- Geico
+- My Chart
+- USAA
+- Bank of America
+- FAFSA
+- Zions Bank
 
 ## Takeaways
 
 This comparative analysis aimed to observe the following:
 
-### What are the types of action items that people expect to see?
+### What are the types of action items that sites show?
 
-This was difficult to assess in just a comparative analysis since many of the sites we had ask other people to log in.  
+The content of the action items and how the action items were displayed varied by site, but all of the action items on the sites observed fell intwo 4 main categories.
 
-### How to sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
+1. If something is due (time-sensitive)
+2. Missing information
+3. Status changes
+4. Things the company/site wanted the user to know
+
+### How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
+
+
 ### How do sites let/help users resolve action items? Is there an action item log? 
 ### How do sites visually prioritize action items?
 ### How do sites determine what is an important action item to a user? 
