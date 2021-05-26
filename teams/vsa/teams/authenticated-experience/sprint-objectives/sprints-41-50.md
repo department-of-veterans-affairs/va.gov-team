@@ -655,6 +655,7 @@ Any outstanding project work from last sprint, plus:
 - Redux actions and reducers #24863
 - High-level tests for FE #24864
 - Create FE implementation tickets #25046
+- Additional FE work that comes out of ticket creation
 
 ### Preferred facility
 
