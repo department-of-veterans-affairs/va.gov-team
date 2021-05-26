@@ -4,13 +4,18 @@
 `James Adams, designer`
 
 ---
+
+### Background
+
+Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dpendents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, leaving school and a few other circustances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
+
+To short circuit this issue, the eBenefits team has created an intercept modal resiing o the View Dependents page. Veterans must log in to see this screen, and when they navigate to the dependents page, a check will occur against a notification date. The modal will prompt the Veteran to review the VA record of their dependents, and will be asked to add or remove dependents if necessary.
+
+### Goals
+
+The goal of this usability study is to determine the efectiveness of the intercept modal in prompting users to confirm or change their dependents. Secondarily, we want to gauge user acceptance of this notification method, as well as how easily users locate the "add" and "remove" dependents features.Lastly, we want to determine if the text presented is clear and if the user understands what their next steps are.
+
 <!--
-#### Background
-
-Veterans and service members (and surviving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
-
-There are several ways a Veteran or service member can apply for and receive a COE. The online Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
-
 ### Goals
 
 The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form. 
