@@ -11,6 +11,7 @@
 - Sam Suddath
 - Cindy Merrill
 - Cassandra Allen
+- Megan Gayle
 
 ### Agenda
  We'll return to our Mural board and decide on a few viable options to explore further.  
