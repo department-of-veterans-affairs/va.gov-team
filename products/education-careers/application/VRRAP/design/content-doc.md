@@ -55,7 +55,7 @@ Also, at the time you apply for VRRAP you can't be eligible for any of these oth
 * [Survivors’ and Dependents’ Educational Assistance (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/)
 * [Veterans’ Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/)
 
-**Note:** You can get VRRAP benefits if you were at one time eligible for the Post-9/11 GI Bill but have transferred all of your benefits to family members.
+**Note:** You can get VRRAP benefits if you were eligible for the Post-9/11 GI Bill at one time but have transferred all of those benefits to family members.
 
 #### 2. Prepare  
 
