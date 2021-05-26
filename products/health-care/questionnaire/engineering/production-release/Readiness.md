@@ -25,17 +25,17 @@
 
 ## Vetext/VA-Notify checklist
 
-- [ ] Ensure production configuration(data and network) has been established prior to going live
+- [ ] Ensure production configuration (data and network) has been established prior to going live
 - [ ] Ensure that the email and text template has been delivered and hooked up in the production environment
 
 ## Pre Visit Summary (PVS) (@stephenBarrs)
 
-- [ ] Ensure that the PVS team has provided the Lighthouse team with the necessary public/private key pairs for the production environment
-- [ ] Ensure production configuration(data and network) has been established prior to going live
+- [ ] Ensure that the PVS team has provided the Lighthouse team with the necessary public/private key pairs for the production environment (@stephenBarrs)
+- [ ] Ensure production configuration(data and network) has been established prior to going live (@stephenBarrs)
 
 ## Loma Linda/Jerry L Pettis integration checklist (@stephenBarrs)
 
-- [ ] Ensure that the PVS system is operational and communicating with the Lighthouse's production environment
+- [ ] Ensure that the PVS system is operational and communicating with the Lighthouse's production environment (@stephenBarrs)
 
 ## Facilities API checklist
 
@@ -61,11 +61,15 @@
 
 ## User support checklist
 
-- [ ] Service desk tiers and escalation methods defined
-- [ ] Job aid available for front line staff to help patients with technical issues
-- [ ] User support information communicated to Loma Linda staff
+- [ ] Service desk tiers and escalation methods defined (@kristenmcconnell)
+- [ ] Job aid available for front line staff to help patients with technical issues (@kristenmcconnell)
+- [ ] User support information communicated to Loma Linda staff (@batemapf)
 
 ## Analytics checklist
 
-- [ ] Set up GA dashboard to view product metrics
+- [ ] Set up GA dashboard to view product metrics (@stephenBarrs)
 - [ ] If necessary, write Cloudwatch Insight query for vets-api logs
+
+## Evaluation checklist
+- [ ] Questions we'd like clinic staff to ask patients (@kristenmcconnell)
+- [ ] Process for collecting and organizing feedback collected from patients (@kristenmcconnell)
