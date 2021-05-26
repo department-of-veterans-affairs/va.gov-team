@@ -29,6 +29,20 @@ This comparative analysis aimed to observe the following:
 
 
 
+## Takeaways
+
+This comparative analysis aimed to observe the following:
+
+### What are the types of action items that people expect to see?
+
+This was difficult to assess in just a comparative analysis since many of the sites we had ask other people to log in.  
+
+### How to sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
+### How do sites let/help users resolve action items? Is there an action item log? 
+### How do sites visually prioritize action items?
+### How do sites determine what is an important action item to a user? 
+
+
 ## Site examples
 
 ### State Farm
