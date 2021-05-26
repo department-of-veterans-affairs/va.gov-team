@@ -42,6 +42,18 @@
 
 ## May 26
 
+* Outreach Hub editors 
+ - Keep John informed.  Is Tim Hudak is the gatekeeper? John will contact Tim and include Rachel Kauff. Will bring up publications governance. 
+ - We can't cut of access to Publications in that product right now, so onboarding / training can speak to that.  
+ - Until we develop training materials [#5292](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5292) onboarding is more handholding.  
+* CLP feedback from VEO 
+  * Very favorable
+  * No really new feedback, but mentioned a few items: media library (more stock images?), reordering segments, more rich text. 
+* Next CLP
+  * Next Tuesday 9am, John Santos / OPIA, working with Danielle.
+  * Getting some guidance around imagery: license some imagery. 
+* CLP Hero image
+  * Brian and John will schedule a followup looking at design, responsiveness, cropping, etc
 
 ## May 19
 
