@@ -23,11 +23,17 @@ Establish a landing page for search so that any users who search for va.gov/sear
 ## Evidence of the problem
 *Describe the qualitative and quantitative data to support this problem.* 
  
-   - va.gov/search usage metrics- [GA report](https://analytics.google.com/analytics/web/?authuser=1#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210430&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.landingPagePath%22,%22BW%22,%22www.va.gov~2Fsearch~2F%22,0%5D%5D&explorer-table.rowCount=250/)
-
-
+*Qualitative Data:*
+- A search landing page does not currently exist and as a result users are redirected back to the homepage 
 https://user-images.githubusercontent.com/72393866/117478542-4b7ffc00-af2d-11eb-9351-d287ab62d908.mov
 
+ 
+*Quantitative Data:*
+ - Between January 1, 2021 and May 25,2021- 77,942 sessions have tried to search for va.gov/search with an overall bounce rate of 31.16%
+ - *Source:* Google Analytics va.gov/search usage metrics- [GA report](https://analytics.google.com/analytics/web/?authuser=1#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210430&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.landingPagePath%22,%22BW%22,%22www.va.gov~2Fsearch~2F%22,0%5D%5D&explorer-table.rowCount=250/)
+
+
+<img width="2082" alt="Screen Shot 2021-05-26 at 2 18 35 PM" src="https://user-images.githubusercontent.com/72393866/119711247-4e378800-be2d-11eb-8c47-fcc396028aa2.png">
 
 
 <!--
@@ -90,7 +96,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan for this Search Landing Page Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/release%20plan.md)
 
 ## Initiative Launch Dates
 - *Target Launch Date*
@@ -106,12 +112,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Key Decisions
 
+|Date| Decision |
+|--|--|
+| TBD |  John Hashimoto has reviewed this initiative brief and agrees that the Search & Discovery team will move forward with this initiative|
 ---
    
 ## Screenshots
 
 ### Before
-
+(Search Landing page currently does not exist and therefore there is no before screenshot)
 ### After
 
 ---
@@ -124,7 +133,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Search & Discovery
 - GitHub Label(s):  vsa-search-discovery
 - Slack channel: #va-search
-- Product POCs:
+
 
 </details>
 
@@ -134,7 +143,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: There are no specific VA offices/departments associated with this initiative
+- Contact(s): John Hashimoto
  
 </details>
