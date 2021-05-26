@@ -17,7 +17,7 @@ The goals of this user research study are to:
 
 ## Research Methodology 
 
-We conducted 1 pilot + 8 participant remote moderated task analysis and contextual interview discovery sessions via Zoom using the Perigean contract. This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assses the sections that [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
+We conducted 1 pilot + 8 participant remote moderated task analysis and contextual interview discovery sessions via Zoom using the Perigean contract. This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
 
 ### Who we talked to (including pilot participant)
 
@@ -41,7 +41,7 @@ We conducted 1 pilot + 8 participant remote moderated task analysis and contextu
   - Unknown: 1 
 
 - Education:
-  - High schoold degree or equivalent: 1
+  - High school degree or equivalent: 1
   - Some college (no degree): 1
   - Associate's degree: 2
   - Bachelor's degree: 1
@@ -89,7 +89,7 @@ The research questions we sought to address:
 ### Hypotheses
 
 1. Veterans don’t complete the form because they found a different source of health care (outside of the VA).
-    1. LIKELY NOT TRUE: The participants that we talked to came to the VA health care because of a change in life circumstance, leaving military, loss of job, increase in affect of service-related health condition, etc. thus they were specifically seeking VA health care, not just health insurance in general.
+    1. LIKELY NOT TRUE: The participants that we talked to came to the VA health care because of a change in life circumstance, leaving military, loss of job, increased impact of service-related health condition, etc. thus they were specifically seeking VA health care, not just health insurance in general.
 2. Veterans don’t complete the form because they are unclear as to what information to provide in specific sections (mainly sections related to finances).
     1. LIKELY TRUE: The majority of participants named the household information (which includes the financial information) as the hardest part. Multiple participants said that they would have to ask another person for help (spouse, tax preparer, VSO, etc.). Others said that they would have to guess because they had questions about the specific meaning of the question.
 3. Veterans don’t complete the form because they don’t have information readily available (mainly sections related to finances).
@@ -103,14 +103,14 @@ The research questions we sought to address:
 
 **General**
 1. Participants feel that the VA should already have much of the information that the VA Health care application requests.
-2. Participants worry that their answers to some questions could automatically disqualify them from VA Health care. The majority of participants say that they would be more likely to answer sensitive questions, be more understanding of the effort to answer the questions, and worry less about automatic disqualification if there was transparency as to why the question is being asked and how it will be used to determine their VA Health care eligibility.
-3. There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact method.
+2. Participants worry that their answers to some questions could automatically disqualify them from VA Health care. The majority of participants say that they would be more likely to answer sensitive questions, be more understanding of the effort to answer the questions, and worry less about automatic disqualification if there was transparency as to why the question is being asked, and how it will be used to determine their VA Health care eligibility.
+3. There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact methods.
 4. There is a need to rewrite many questions in plain language and to provide more explanation of the questions.
 5. There is a need to rethink the hierarchy flow and ensure that only required questions are asked, including creating more dependencies. 
 
 **Specific sections**
-1. Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and fear of inelgibility.
-2. The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclarity of what the questions were asking, how their responses would impact their application.
+1. Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and fear of ineligibility.
+2. The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclear what the questions were asking, and how their responses would impact their application.
 3. Preferred facility question does not provide optimal UX especially for applicants who have many facilities in their state. Additionally, the "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
 4. Medicaid and Medicare related questions don't provide enough details for the participants to confidently provide answers.
 
@@ -135,7 +135,7 @@ The research questions we sought to address:
 
 > "When there are so many questions it feels like they are trying to discourage people from filling out the form - do all these questions even matter?"
 
-### There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact method.
+### There is uncertainty about how the applicant will receive updates on their application status and a desire to be able to specify preferred contact methods.
 - Since the email and phone number are not required and the application does not ask the applicant to specify a preferred contact method, participants were uncertain by what means they would be contacted about the status of their application. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
 > _After application submission_ When asked what they expect to happen next, "I would like to receive an email rather than mail [like previous experience], but I didn't input an email because it's not required and it didn't say communication could be through this."
 
@@ -148,12 +148,12 @@ The research questions we sought to address:
 > "I would like to know how all this information is used and what security measures are taken. My husband is really concerned about security, he wouldn't upload his DD214."
 
 ### There is a need to rethink the hierarchy flow and ensure that only required questions are asked, including creating more dependencies.
-- The flow should be examined to find ways to reduce the respondent burden. Automatic qualifiying factoes, one question per page, and more questions that are dependencies can all be considered. 
+- The flow should be examined to find ways to reduce the respondent burden. Automatic qualifying factors, one question per page, and more questions that are dependencies can all be considered. 
 > "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
 
 ## Key Findings - Section specific
 
-### Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and fear of inelgibility.
+### Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and fear of ineligibility.
 The service history page causes confusion for two main reasons:
  - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA Health care. 
 
@@ -167,7 +167,7 @@ The service history page causes confusion for two main reasons:
 
 > When asked how they think this information will be used. "Maybe this will be used to determine my treatment plan?"
 
-### The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclarity of what the questions were asking, how their responses would impact their application.
+### The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclear what the questions were asking, and how their responses would impact their application.
 - Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for health care. Additionally, the dependent section causes confusion as to what qualifies as a dependent and for those that the dependent is their child, the "When did they become your dependent?" question is confusing.
 
 > "Oh geeze. Oh jesus....Now I need to call my tax man...It should say what box to refer to on my tax form or just let me upload it."  _(In regards to financial disclosure and dependents information)_
@@ -254,7 +254,7 @@ The service history page causes confusion for two main reasons:
 4. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
   1. Order of questions
   2. Headings on page - also an accessibility issue
-  3. Explore automatic qualifiers (Veternas who have automatically qualifying factors will not have to fill out the entire form)
+  3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
   4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
 ### Design
