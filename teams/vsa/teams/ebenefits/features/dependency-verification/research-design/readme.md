@@ -24,7 +24,9 @@
 [TBD]() `Will add links to Platform work`
 
 ### Research
-[TBD]() `Will add links to Platform work`
+`Will add links to Platform work`
+
+[Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1) 
 
 ---
 
