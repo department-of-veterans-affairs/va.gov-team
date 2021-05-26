@@ -229,7 +229,7 @@ Objective:
 
 ## Hypotheses/Bets for Consideration
 
-1)
+1) Users will want to enter a search term first, then "filter" results.
 2)
 3)
 4)
