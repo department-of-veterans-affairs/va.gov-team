@@ -614,4 +614,72 @@ Only do this work if people have time.
 
 ## Sprint 49 (6/2 - 6/15)
 
+Any outstanding project work from last sprint, plus:
+
+### My VA
+
+**PM**
+
+- UAT go/no-go
+
+**Design** 
+
+- Tressa out 6/10 - 6/17 
+- Attend UAT go/no-go
+- UAT recruiting **Don't schedule sessions until Tressa is back from leave**
+- Plan discovery for how can we better elevate action items #24967
+- Explore designs/sketches for how we can elevate action items #24970
+
+**FE**
+
+- Any outstanding fixes if still needed
+
+### Notification preferences (communications permissions)
+
+**PM**
+
+- Hold midpoint review
+- Help with ticket creation as needed #25046
+
+**Design**
+
+- Attend midpoint review
+- Any required updates coming out of the midpoint review
+- Recruit for research
+- Start research if time
+
+**FE**
+
+- Attend midpoint review
+- Redux actions and reducers #24863
+- High-level tests for FE #24864
+- Create FE implementation tickets #25046
+
+### Preferred facility
+
+**PM**
+
+- Coordinate on ticketing and to-dos with Lauren Ernest as needed
+- Hold Midpoint review?
+- Help with FE ticket creation as needed #25043
+
+**Design**
+
+- Work with Peter on research summary
+- Update designs as needed
+- Update FE documentation as needed
+
+**FE**
+
+- Technical discovery #24559
+- Create FE implementation tickets #25043
+
+### Profile 
+
+Only do profile work if people have time. Is there a ticket or two for Taylor to get his feet wet?
+
+### Backend work
+
+TBD. Will see if Lihan still has user roles & permissions work this sprint. If not, we can talk to Jeff about him helping another team.
+
 ## Sprint 50 (6/16 - 6/29)
