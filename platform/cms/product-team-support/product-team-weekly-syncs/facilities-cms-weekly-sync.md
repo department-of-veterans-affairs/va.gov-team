@@ -32,22 +32,22 @@
 **Vet Center**
 1. Vet Center Director training
 
- * Dave had conversation with Jessica. "Just watching videos" didn't resonate for the first MVPs.  
- * Michelle to work with Jane about a couple possible dates for live presentation, trying to get the most people, and the rest can watch videos. 
- * Ideally 2-3 weeks out.
+* Dave had conversation with Jessica. "Just watching videos" didn't resonate for the first MVPs.  
+* Michelle to work with Jane about a couple possible dates for live presentation, trying to get the most people, and the rest can watch videos. 
+* Ideally 2-3 weeks out.
 
 2. District 5 next: 70 Vet Centers, PT 
 
- * Jessica getting contact info
- * Kickoff meeting first, then
- * Training in about a month (late June). Not live training. CMS team will adjust training videos between now and then. 
- * Some kind of support structure (eg office hours) 
+* Jessica getting contact info
+* Kickoff meeting first, then
+* Training in about a month (late June). Not live training. CMS team will adjust training videos between now and then. 
+* Some kind of support structure (eg office hours) 
 
 3. MVP Vet Center
 
- * Retro on the entire process with 10 MVP users June 14th.
- * Email went out to Outreach Specialists say "your account is active on Prod but you don't have publisher access yet, we'll review and bulk publish"
- * Michelle to follow up with a timebox for them. 
+* Retro on the entire process with 10 MVP users June 14th.
+* Email went out to Outreach Specialists say "your account is active on Prod but you don't have publisher access yet, we'll review and bulk publish"
+* Michelle to follow up with a timebox for them. 
 
 4. Switch to fetch Vet Center data from Lighthouse data when unpublished in the CMS
 
@@ -55,16 +55,16 @@
 **VAMC**
 1. Type of Care sorting: How to sort now that we are not using taxonomy weights?
 
-  * Option 1: hardcoding, like it was handled in Vet Center 
-  * Option 2: CMS adds a weight attribute to the Type of Care attributes, and made available in a similar way that was used for entity field fetch ("subfield").
-  * What is the value of having weight in the CMS when we have multiple weights for different products? 
-    * If we add or remove a type of care, the FE wouldn't be able to catch it. 
-  * Facilities team will look at an approach to this and prioritization of CMS weight value will be determined later.  
+* Option 1: hardcoding, like it was handled in Vet Center 
+* Option 2: CMS adds a weight attribute to the Type of Care attributes, and made available in a similar way that was used for entity field fetch ("subfield").
+* What is the value of having weight in the CMS when we have multiple weights for different products? 
+  * If we add or remove a type of care, the FE wouldn't be able to catch it. 
+* Facilities team will look at an approach to this and prioritization of CMS weight value will be determined later.  
 
 2. Type of Care testing
 
-  * Tugboat targetting a content-build branch to test
-  * Use https://prod.cms.va.gov/vha-health-services as a data audit
+* Tugboat targetting a content-build branch to test
+* Use https://prod.cms.va.gov/vha-health-services as a data audit
 
 3. Inventory of VAMC components- ownership conversation with Public websites
   
