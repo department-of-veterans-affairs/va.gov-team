@@ -46,7 +46,8 @@ We hope to gather the following qualitative insights:
 
 15. Do you have any other feedback you'd like to share?
 
-4. Hypothesis: What is your hypothesis for this research? 	
+
+Hypothesis: What is your hypothesis for this research? 	
 
 The focus of this study is to understand general usage and mental models rather than validate a specific hypothesis. However, we are exploring the following assumptions:
 
