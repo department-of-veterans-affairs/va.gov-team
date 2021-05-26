@@ -56,7 +56,7 @@ VAMC
 * Orphan staff profiles 
   - profiles appear on the sitemap and in Google alerts even if not linked (eg from Leadership)
   - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
-  - CMS epic: Tools to support stand-alone vs not-standalone stafff profiles 
+  - CMS epic: Tools to support stand-alone vs not-standalone stafff profiles **[#5450](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450)**
     - Discovery issue to work with Facilities to determine implications for various parts of product (mini-profiles, leadership page, etc).
 * 10 facility limit
   * eg Minneapolis in dual state
