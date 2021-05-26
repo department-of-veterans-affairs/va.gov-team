@@ -6,12 +6,35 @@ Our goal is to help veterans navigate to relevant content more quickly by provid
 
 
 ## How It Works
+- Up to 5 suggestions are presented to a user after they have typed 3 characters or more in the query input box.
 
--   Suggestions are derived from the searches performed on the VA.gov website.
--   Up to five suggestions related to VA.gov visitors’ search terms are returned and are updated in near real time.
--   A given term/phrase must be searched 5 times in a 24 hour period to appear as a suggestion. Suggestions then remain for a 30-day period. Certain queries will not appear as suggestions for privacy and security purposes.
--   If you VA.gov wants a specific term to always appear as a suggestion, we will need to collaborate with the Search.gov team, which will manually input and whitelist the term. The recommendation is to use this for hard to spell terms, particularly long ones and alphanumeric form titles.
--   Search.gov's implementation of type-ahead does support fuzzy string matching to help with typos.
+- Suggestions are derived using two methods:
+
+1) **Search Algorithm** that leverages the searches performed on VA.gov website.
+     - A given term/phrase must be searched 5 times in a 24-hour period to appear as a suggestion.
+     - If a suggestion does not meet those requirements, then it will be removed from the circulation after 30-day period.
+     - Certain queries will not appear as suggestions for privacy and security purposes. (e.g., Names, SIN, etc.)
+     - Terms related to geographical locations will not appear including cities and states.
+
+2. A **hardcoded list of specific terms** curated to align with VA topics. Terms that are added to this list include:
+   - hard to spell terms, particularly long ones (benefits, government)
+   - alphanumeric form titles (10-10ez)
+   - common veteran tasks
+   - top va.gov searches (benefits)
+   - best bets (e.g., Covid-19 vaccine)
+   - promoting va content to aid in wayfinding (e.g., Find a form or how do I?)
+
+- The 5 suggestions that are presented to users are selected from the suggestion database (combination of both the algorithm terms and the hardcoded terms).
+
+- The suggestions are ranked using the following rules:
+   - Use query to find ALL possible matches
+   - Sorted list by hardcoded/canned suggestion
+   - Remove any hardcoded suggestions from the algorithm list 
+   - Then by algorithm / non-canned suggestion
+   - Sort by best match (still preserving the above order)
+   - Take the top 5
+
+- Search.gov's implementation of type-ahead does support fuzzy string matching to help with typos.
 
 ## API Calls and Dependent Systems
 
