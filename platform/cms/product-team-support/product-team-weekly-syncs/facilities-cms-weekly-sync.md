@@ -28,7 +28,8 @@
 * Vet Center Director training
 * Using API for online scheduling information
 * Inventory of VAMC components- ownership conversation with Public websites
-
+* Type of Care testing
+ 
 ## Wednesday May 19
 
 Vet Center
