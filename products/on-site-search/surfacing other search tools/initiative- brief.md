@@ -230,7 +230,7 @@ Objective:
 ## Hypotheses/Bets for Consideration
 
 1) Users will want to enter a search term first, then "filter" results.
-2)
+2) Selecting another search tool is similar to filtering and refining results.
 3)
 4)
 
