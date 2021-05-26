@@ -24,4 +24,63 @@ This comparative analysis aimed to observe the following:
 
 ## Sites reviewed
 
-- [UK.gov to do checklist](https://design-system.service.gov.uk/patterns/task-list-pages/)
+- [UK.gov to do checklist]()
+- [State Farm]()
+
+
+
+## Site examples
+
+### State Farm
+
+![State farm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
+
+### Carefirst
+
+![Carefirst notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/carefirst-notifications.png)
+
+### Chase
+
+![Chase bank dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
+
+![Chase bank notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-widget-pay-card.png)
+
+### Geico
+
+![Geico dashboard/alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/geico-desktop-dashboard-welcome.png)
+
+![Geico notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/GEICO.3-Logged-In_Dashboard2.jpeg)
+
+### My Chart
+
+![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
+
+![mychart upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/my-chart-upcoming-visits.png)
+
+### USAA
+
+![USAA- messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
+
+![USAA notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/usaa-user-has-notifications.png)
+
+### Bank of America
+
+![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-dashboard.png)
+
+![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-alerts.png)
+
+### FAFSA
+
+![FAFSA checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-dashboard-home.png)
+
+![FAFSA checklist expanded](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-dashboard-to-do-expanded.png)
+
+![FAFSA other to do items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-what-you-can-do-while-status-pending.png)
+
+
+### Zions bank
+
+![Zions bank alerts and messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/zions-bank-alerts-messages.png)
+
+
+
