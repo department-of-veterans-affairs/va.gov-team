@@ -241,12 +241,13 @@ The service history page causes confusion for two main reasons:
 
 1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility removing any question that is not required by the program team (if any)
 2. Rewrite any question/choices that caused confusion (including updating the gender question and simplifying introduction page)
-3. Update the flow 
+3. Create content "source of truth"
+4. Update the flow 
   1. Explore automatic qualification
   2. Explore making more questions dependent on applicants' answers
   3. Update order putting emotionally difficult questions near the beginning and ensuring other questions are chunked based on Veteran heuristics
-4. Design one question per page with space for additional information
-5. Conduct A/B testing with 1 question per page and current flow
+5. Design one question per page with space for additional information
+6. Conduct A/B testing with 1 question per page and current flow
 
 ### Development
 1. Explore ways to remove the repeated name, birthdate, and Social Security number for the unauthenticated experience
