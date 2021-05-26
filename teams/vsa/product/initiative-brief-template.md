@@ -97,8 +97,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
+## Hypotheses/Bets for Consideration
+*Describe the competing solution hypotheses as a result of discovery.*
+
 ## Prioritization
-*Describe and prioritize the competing hypotheses the team develops as a result of discovery accounting for effort, impact, value, confidence.*
+*Prioritize the competing hypotheses the team develops accounting for effort, impact, value, confidence.*
 
 --- 
 
