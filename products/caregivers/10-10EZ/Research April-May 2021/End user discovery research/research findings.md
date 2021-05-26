@@ -240,7 +240,7 @@ The service history page causes confusion for two main reasons:
 ## Next Steps
 
 1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility removing any question that is not required by the program team (if any)
-2. Rewrite any question/choices that caused confusion (including updating the gender question and simplifying introduction page)
+2. Rewrite any question/choices that caused confusion (including updating the gender, preferred contact, and simplifying introduction page)
 3. Create content "source of truth"
 4. Update the flow 
   1. Explore automatic qualification
