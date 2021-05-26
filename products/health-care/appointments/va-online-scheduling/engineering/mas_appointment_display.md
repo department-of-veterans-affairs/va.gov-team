@@ -64,6 +64,7 @@ Clinic based appointments are video appointments where `vvsAppointment.appointme
     - VVS defaults this to `FUTURE`, unclear it TMP sets this value
 - Booking notes: Not shown
 - Cancelable: No
+- Cancel directions: Facilities api data associated with `appointment.sta6aid`
 
 ### At home
 
@@ -86,6 +87,8 @@ At home appointments are video appointments where `vvsAppointment.appointmentKin
    - VAOS switches between two sets of instructions depending on the `instructionsTitle` value.
    - There are text instructions in the appointment that are not suited to displaying on the web
 - Cancelable: no
+- Cancel directions: Facilities api data associated with `appointment.facilityId`, if it exists
+   - No facility id for MOBILE_ANY appointments
 
 ### VA device
 
@@ -105,6 +108,7 @@ VA device appointments are video appointments where `vvsAppointment.appointmentK
    - VVS defaults `vvsAppointment.status.code` to `FUTURE`, unclear it TMP sets this value
 - Booking notes: Not shown
 - Cancelable: No
+- Cancel directions: Facilities api data associated with `appointment.facilityId`, if it exists
 
 ## In person VA
 
@@ -127,6 +131,7 @@ These are VistA appointments that are not phone or community care.
 - Booking notes: Not shown unless starts with VAOS reason string
   - Self scheduled appointments start with a set of reason strings, VAOS will display booking notes when the notes start with one of those strings
 - Cancelable: Yes, if not COVID-19 vaccine
+- Cancel directions: Facilities api data associated with `appointment.sta6aid`, if COVID-19 vaccine
 
 ## Phone appointments
 
@@ -148,6 +153,7 @@ These are VistA appointments that have `appointment.phoneOnly` set to true.
 - COVID-19 vaccine: Not shown
 - Booking notes: Not shown (can't be self-scheduled)
 - Cancelable: Yes
+- Cancel directions: None shown
 
 ## Community care
 
@@ -168,3 +174,4 @@ These are VistA appointments that have `appointment.communityCare` set to true. 
 - COVID-19 vaccine: Not shown
 - Booking notes: Not shown (can't be self-scheduled)
 - Cancelable: No
+- Cancel directions: Facilities api data associated with `appointment.sta6aid`
