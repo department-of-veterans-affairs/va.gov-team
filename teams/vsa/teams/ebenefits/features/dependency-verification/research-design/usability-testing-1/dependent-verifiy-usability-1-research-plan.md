@@ -103,8 +103,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- James Adams | jadams@governmentcio.com -- Designer
-<!-- - Matt Self | matt.self2@va.gov -- Product Co-Owner -->
+- James Adams | jadams@governmentcio.com -- Designer<!-- - Matt Self | matt.self2@va.gov -- Product Co-Owner -->
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
 - Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
