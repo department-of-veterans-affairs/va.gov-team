@@ -83,11 +83,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions/Risks
-*Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
-- Usability Risks: 
-- Value Risks: 
-- [Technical] Feasibility Risks:
-- Organizational Viability Risks:
+*Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*
+
+- **Value Risks** (will people use it): 
+  - .
+- **Usability Risks** (can people figure out how to use it):
+  - .
+- **[Technical] Feasibility Risks** (can we build it with available tech/skills):
+  - .
+- **Viability Risks/Constraints** (will there be a positive organizational impact):
+  - .
 
 ## Discovery
 *Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions/risks.*
@@ -166,3 +171,5 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  
 </details>
 
+---
+<sup>1</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
