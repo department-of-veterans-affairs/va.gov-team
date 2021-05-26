@@ -3,6 +3,14 @@
 ## 2021-05-26 Part 3
 
 ### Attendees
+- John Hashimoto
+- Brian Lloyd
+- Denise Coveyduc
+- Marci McGuire
+- Kelson Adams
+- Sam Suddath
+- Cindy Merrill
+- Cassandra Allen
 
 ### Agenda
  We'll return to our Mural board and decide on a few viable options to explore further.  
