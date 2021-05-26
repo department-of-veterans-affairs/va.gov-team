@@ -12,7 +12,7 @@ Our goal is to help veterans navigate to relevant content more quickly by provid
 
 1) **Search Algorithm** that leverages the searches performed on VA.gov website.
      - A given term/phrase must be searched 5 times in a 24-hour period to appear as a suggestion.
-     - If a suggestion does not meet those requirements, then it will be removed from the circulation after 30-day period.
+     - If a suggestion does not meet those requirements, then it will be removed from circulation after a 30-day period.
      - Certain queries will not appear as suggestions for privacy and security purposes. (e.g., Names, SIN, etc.)
      - Terms related to geographical locations will not appear including cities and states.
 
