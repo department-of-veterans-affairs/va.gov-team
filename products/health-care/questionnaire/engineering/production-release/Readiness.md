@@ -63,6 +63,10 @@
 - [ ] Process for collecting and organizing feedback collected from patients (@kristenmcconnell)
 - [ ] Communicate this infor to Loma Linda staff (@kristenmcconnell)
 
+## Platform checklist
+ - [ ] Let Platform / Collaboration Cycle people know that we're launching this pilot (@corey)
+ - [ ] Complete any (reasonable) pre-lauch Collaboration Cycle activities (@corey)
+
 ----
 
 ## Engineering Risks
