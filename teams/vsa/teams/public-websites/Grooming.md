@@ -36,7 +36,7 @@ None
 
 - [ ] [Campaign Landing Page Production MVP] - Pride & Discharge Upgrades [#24350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24350)
 - [ ] Research Solution and Ideation Reviews [#24898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24898)
-- [ ] [Site Services Maintenance Notification] DSLogon May 29-30 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
+- [ ] [Site Services Maintenance Notification] DSLogon June 5-6 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
 - [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
 - [ ] Migrate Homepage Banner to Drupal [#25038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25038)
 - [ ] Update Webpage from Claims & Appeals [#24996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24996) 
