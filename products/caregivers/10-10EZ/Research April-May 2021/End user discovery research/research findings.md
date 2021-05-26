@@ -244,18 +244,33 @@ The service history page causes confusion for two main reasons:
 
 ## Recommendations
 
-* Content and flow
+### Information Architecture (IA) and flow
 1. Implement one question per page
-2. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility.
-3. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
+2. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility
+3. Clarify how the Veteran will be notified with application status updates
+  1.  Explore e-mail validation link
+  2.  Explore e-mail confirmation on submission
+  3.  Explore preferred contact option
+4. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
   1. Order of questions
   2. Headings on page - also an accessibility issue
   3. Explore automatic qualifiers (Veternas who have automatically qualifying factors will not have to fill out the entire form)
   4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
-* Design
+### Design
 1. Define how to include content that gives more details on the questions and explains how the question is used to determine application eligibility
-2. 
+2. Redesign the gender question to reflect updated content
+3. Explore progress bar and heading title options to provide clearer progression
+
+### Copywriting
+1. Rewrite confusing questions in plain language
+2. Provide more details on how to answer the questions
+3. Mitigate fear of being automatically disqualified
+
+### Development
+1. Explore ways to implement VA Facility locator
+2. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
+3. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
 
 ## Next Steps
 
