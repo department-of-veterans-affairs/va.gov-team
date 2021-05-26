@@ -228,6 +228,7 @@ The service history page causes confusion for two main reasons:
 1. Rewrite confusing questions in plain language
 2. Provide more details on how to answer the questions
 3. Mitigate fear of being automatically disqualified
+4. Determine if a supporting guide is necessary
 
 ### Development
 1. Explore ways to implement VA Facility locator
