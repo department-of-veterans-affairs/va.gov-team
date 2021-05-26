@@ -624,9 +624,10 @@ Any outstanding project work from last sprint, plus:
 
 **Design** 
 
-- Tressa out 6/10 - 6/17 
+**Tressa out 6/10 - 6/17** 
+
 - Attend UAT go/no-go
-- UAT recruiting **Don't schedule sessions until Tressa is back from leave**
+- UAT recruiting — **Don't schedule sessions until Tressa is back from leave**
 - Plan discovery for how can we better elevate action items #24967
 - Explore designs/sketches for how we can elevate action items #24970
 
