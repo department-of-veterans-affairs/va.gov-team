@@ -83,14 +83,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions/Risks
-*Your Discovery (next section) should describe how you'll validate these items. Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
+*Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
 - Usability Risks: 
 - Value Risks: 
 - [Technical] Feasibility Risks:
 - Organizational Viability Risks:
 
 ## Discovery
-*Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions.*
+*Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions/risks.*
 
 - *What are you going to build now, and why have you decided to start there?*
 - *Why this solution / approach over other solutions / approaches?*
