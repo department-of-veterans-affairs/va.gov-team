@@ -37,7 +37,7 @@ Sign in or create an account { green button }
 
 #### 1. Make sure you're eligible  
 
-To be eligible for the Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements listed here. 
+To be eligible for Veteran Rapid Retraining Assistance Program (VRRAP), you must meet all the requirements listed here. 
 
 **All of these must be true.  You're:**
 
