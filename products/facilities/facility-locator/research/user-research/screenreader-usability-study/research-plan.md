@@ -58,11 +58,11 @@ AND
   - At least 1 participant has low vision (not complete blindness)
 
 
-**Definition of low vision:**  For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night. 
+**Definition of low vision:**  For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night. 
 
 #### Technical requirements
 
-[**Note for Perigean:** ]
+[**Note to Perigean:** ]
  - Ensure participant has a working screen that can be shared
  - Please ensure participants have Zoom downloaded prior to the session
  - Please ensure participants are willing and prepared to screenshare
@@ -78,26 +78,42 @@ At least:
 - 2 participants with no college degree or professional certificates
 - 1 female
 
-## Technology Checklist
-[**Note for Perigean: Please ask participant the following questions and include responses in participant tracker** ]
- 
-1. Would you be comfortable with 4 off-camera, observers present during the research session (including the facilitator)?
-   - If no:
+## Screener
+
+[**Note to Perigean: Please ask candidates the following questions. For qualifying paricipants, please include responses in the participant tracker** ]
+
+### Conversation guide for Perigean intake call
+
+We’re going to ask you some questions about your disability as this study is hoping to listen to a diverse group of people with different needs. If you don’t feel comfortable answering, please let us know at any point and we can pause or end the call.
+
+- Can you describe your disability? 
+- Did you have it from birth or did you acquire it later in life?
+- Do you use a screen reader? [MUST BE YES. If so, continue]
+
+#### Observation consent
+
+- Would you be comfortable with 4 up to off-camera, observers present during the research session (including the facilitator)?
+  - If no:
    - Would you be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist)?
-   - [MUST RECEIVE CONSENT FOR EITHER OPTION]
-2. Do you have a device from which you can join a Zoom meeting?
+
+[MUST RECEIVE CONSENT. If so, continue]
+
+#### Technology Checklist
+ 
+1. Do you have a device from which you can join a Zoom meeting?
      - Is Zoom already installed on this device? 
      - Is this a computer, tablet or phone 
      - Mac or Windows?
      - iOS or Android?
      - What browser will you use?
      - Do you use a screen magnifier on this device?
-3. Do you have a screen reader on this device? [must be yes]
-     - What kind of screen reader do you use?
+2. Do you use your screen reader on this device? [must be yes]
+     - What kind of screen reader do you use? 
+      - (e.g. NVDA, JAWS, built-in voiceover on mac/phone, TalkBalk on Android) 
      - How long have you been using it?
-     - Do you know your screen reader's verbosity setting? High, medium, low?
-4. Are there any other assistive technologies that you use?
-5. What method of text communication they'd prefer the most during the session (to send and open website links) e.g. text message, email, or zoom chat?
+3. Are there any other assistive technologies that you use?
+     - How long have you been using it?
+4. What method of text communication they'd prefer the most during the session (to send and open website links) e.g. text message, email, or zoom chat?
 
 ## Timeline 
 
