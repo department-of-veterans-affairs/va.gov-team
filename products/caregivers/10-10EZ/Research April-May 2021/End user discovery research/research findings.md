@@ -17,7 +17,7 @@ The goals of this user research study are to:
 
 ## Research Methodology 
 
-We conducted 1 pilot + 8 participant remote moderated task analysis and contextual interview discovery sessions via Zoom using the Perigean contract. This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
+We conducted 1 pilot + 8 participant approximately 1 hour, remote, moderated task analysis and contextual interview discovery sessions via Zoom using the Perigean contract. This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
 
 ### Who we talked to (including pilot participant)
 
