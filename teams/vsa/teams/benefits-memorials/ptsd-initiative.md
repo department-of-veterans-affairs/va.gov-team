@@ -60,10 +60,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions/Risks
-- Usability: Post-launch usability testing
-- Value: Simplified, shorter form, gain customer trust as we will demonstrate knowledge of their service, improved customer satisfaction
-- Feasibility: Dependency upon availability of VADIR data
-- Viability: Initial discussions indicate data is available, integration discussions pending. 
+*Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*
+
+- **Usability Risks** (can people figure out how to use it): 
+  - Post-launch usability testing
+- **Value Risks** (will people use it): 
+  - Simplified, shorter form, gain customer trust as we will demonstrate knowledge of their service, improved customer satisfaction
+- **[Technical] Feasibility Risks** (can we build it with available tech/skills): 
+  - Dependency upon availability of VADIR data
+- **Viability Risks/Constraints** (will there be a positive organizational impact): 
+  - Initial discussions indicate data is available, integration discussions pending. 
 
 ## Discovery
 *Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions.*
@@ -144,3 +150,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Contact(s): Matt Self, Paul Shute
  
 </details>
+
+---
+<sup>1</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
