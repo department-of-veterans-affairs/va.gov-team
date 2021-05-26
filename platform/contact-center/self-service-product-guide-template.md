@@ -54,6 +54,7 @@ All product guides should be created and saved as a word document. You will need
 - Similar to the Clickable Table of Contents, there should be a Clickable Table of Figures that includes a list of all complete figure captions in sequential order. Each caption should link back to the bookmarked figure caption in the body text. Placement of this at the end of the document is ideal. 
 
      
+     
      Below are examples of a well created product guides.
      
      - https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
