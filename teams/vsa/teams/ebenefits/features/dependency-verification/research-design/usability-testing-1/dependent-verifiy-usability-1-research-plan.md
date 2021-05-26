@@ -13,12 +13,17 @@ To short circuit this issue, the eBenefits team has created an intercept modal r
 
 ### Goals
 
-The goal of this usability study is to determine the efectiveness of the intercept modal in prompting users to confirm or change their dependents. Secondarily, we want to gauge user acceptance of this notification method, as well as how easily users locate the "add" and "remove" dependents features.Lastly, we want to determine if the text presented is clear and if the user understands what their next steps are.
+The goal of this usability study is to determine the efectiveness of the intercept modal in prompting users to confirm or change their dependents. Secondarily, we want to gauge user acceptance of this notification method, as well as how easily users locate the "add" and "remove" dependents features. Last, we want to determine if the text presented is clear and helpful, and if the user understands what their next steps are.
+
+
+#### Guiding questions
+- What are users reactions to the appearance of the intercept modal? Do they understand what is happening?
+- Why do users think they're being asked to confirm their dependents? Do they know what could happen if their dependents are wrong?
+- What do users think happens when they click and choose the "confirm" path?
+- Can users identify their options when they click and choose the "change" path?
+- What do users expect will happen when they choose to remove a dependent? Add a dependent?
 
 <!--
-### Goals
-
-The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form. 
 
 #### Guiding questions
 - Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
