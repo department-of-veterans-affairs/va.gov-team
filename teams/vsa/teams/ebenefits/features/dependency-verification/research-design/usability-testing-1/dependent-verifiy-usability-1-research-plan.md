@@ -54,17 +54,19 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Users
 -->
 ### Participants and recruitment
 
-Recruit for 6 fulfilled sessions using the following criteria:
+Recruit for 5 fulfilled sessions using the following criteria:
+
+**Critical participant critertia**
+- Participants must receive VA compensation payments
 
 **Must have for participants**
-- Participants must receive some type of VA payments
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
 - At least one person with a disability rating of 80% or greater
 
 **Good to have for participants**
-- At least 1 participant 35 or under and 1 participant over 55
+- At least 1 participant under 35
 - At least one person that has a college degree (to include of officer Veterans)
 - At least one person who lives in a major metropolitan area
 
@@ -110,9 +112,9 @@ Recruit for 6 fulfilled sessions using the following criteria:
 - Others -- Pending
 
 ### Resources
-- [Project brief]()
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification)
 
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md)
 
 - [Session notes]() (Available at conclusion of research)
 
@@ -122,11 +124,11 @@ Recruit for 6 fulfilled sessions using the following criteria:
 
 ### References
 
-- [Mockups]()
+- [Mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/screen/a6e29c96-2964-497f-befc-23dcd9620651)
 
 - [Prototype]()
 
-- [Feature flow diagrams]()
+- [Feature flow diagrams](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/)
  
 ---
 
