@@ -229,15 +229,36 @@ The service history page causes confusion for two main reasons:
 2. Provide more details on how to answer the questions
 3. Mitigate fear of being automatically disqualified
 4. Determine if a supporting guide is necessary
+5. Simplify Introduction page
 
 ### Development
-1. Explore ways to implement VA Facility locator
-2. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
-3. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
+1. Explore ways to remove the repeated name, birthdate, and Social Security number for the unauthenticated experience
+2. Explore ways to implement VA Facility locator API
+3. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
+4. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
 
 ## Next Steps
 
-* TBD
+1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility removing any question that is not required by the program team (if any)
+2. Rewrite any question/choices that caused confusion (including updating the gender question and simplifying introduction page)
+3. Update the flow 
+  1. Explore automatic qualification
+  2. Explore making more questions dependent on applicants' answers
+  3. Update order putting emotionally difficult questions near the beginning and ensuring other questions are chunked based on Veteran heuristics
+4. Design one question per page with space for additional information
+5. Conduct A/B testing with 1 question per page and current flow
+
+### Development
+1. Explore ways to remove the repeated name, birthdate, and Social Security number for the unauthenticated experience
+2. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
+3. Explore ways to implement VA Facility locator API
+4. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
+5. Research the implementation of e-mail validation link and e-mail submission confirmation
+6. After content and design is updated, make sure that all headings are labeled correctly (1,2,3,etc.)
+
+###  In the future
+* Explore how to update progress bar and headings
+
 
 ## Appendix
 ### Conversation guide
