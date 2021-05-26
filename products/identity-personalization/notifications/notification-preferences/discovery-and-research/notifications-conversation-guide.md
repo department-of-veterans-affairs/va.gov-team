@@ -1,7 +1,5 @@
 # Conversation Guide for Profile, Notification Settings
 
-`DRAFT`
-
 ## Moderator logistics
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
@@ -29,35 +27,26 @@ Before we start, a few things I want to mention:
 
 - **I've started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 3 minutes
 
 Before we look at the prototype, I'd like to talk to you about notifications.
 
 - Tell me about any email or text notifications you've received recently.
+  - Did you choose to receive those?
+  - Can you tell me about a time you've needed to update settings for those notifications? 
+    - Where do you go to manage them?
 - What kinds of notifications do you currently get from VA? 
   - How do you receive them?
 - What kinds of VA notifications would be helpful to you that you aren't currently getting? 
   - Where would you expect to find out about them?
-- What kind of contact information do you have saved in your profile? 
-  - Why did/didn't you chose to include that information?
-- How do you manage your notifications? 
-  - What makes you manage them? 
-  - Where do you go to do this?
-- Let's talk about turning notifications on or off - 
-  - When do you need to do this? 
-  - How do you go about doing that?
-- What's an instance where you might want to get more notifications from the VA?
-- What devices do you normally use to do things on your VA Profile/VA.gov?
 
 ### Things to watch for
 
-- Where do people go to manage notifications?
+- Where/how do people go to manage notifications (in their profile, exclusively via the channel itself)?
 - At what point do they manage notifications? 
 - What words do people use to talk about or search for notification content?
 - How do people find out about new notifications?
-- What expectations do people have regarding turning notifications on or off?
 - What VA notifications are they not getting that they wish they did?
-- Why don't people have complete profile information?
 
 ## Task 1: Navigate to notification settings - 2 minutes
 
@@ -77,12 +66,12 @@ Imagine you heard the VA had recently started giving people the option to get te
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
 - What can you do on this page?
-- What is your impression of the way the page is organized?
 - What notifications are you currently signed up for? 
   - Prod at notification groups if they haven't already mentioned it: What types of things will you be notified about? 
 - Based on what you see here, how are you getting notifications for scheduled payments?
 - Where will VA send you notifications, based on what you see here? 
   - What would you do if that was an old phone number?
+- What is your impression of the way the page is organized?
 
 
 ### Things to watch for
@@ -95,7 +84,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
-1. Thank you, all of that is really helpful for our team.  Now, please go ahead and sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
+1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
 2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
    - You got here by clicking edit - is that what you expected?
    - How are you able to receive the notifications you see here? Why do you think that is?
@@ -134,7 +123,7 @@ Now that you've added an email address to your profile, talk me through what you
 - Were they able to get back to notification settings without any major hurdles?
 - Did they notice that places that previously said "add your email address" are now replaced with a status?
 
-## Task 5: Remove personal information - 2 minutes
+## Task 6: Remove personal information - 2 minutes
 
 Now I'd like you to imagine you changed your mind, and don't want the VA to email any notifications again. How would you remove the email address you added?
 
