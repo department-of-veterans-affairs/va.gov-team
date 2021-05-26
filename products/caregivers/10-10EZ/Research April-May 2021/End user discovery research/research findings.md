@@ -78,7 +78,7 @@ or
 
 The research questions we sought to address: 
 - What experiences (personal, social, and medical) bring the user to fill out the application?
-  - What other places did the user consider/ turn to for healthcare (outside of the VA)?
+  - What other places did the user consider/ turn to for health care (outside of the VA)?
 - How well does the introduction prepare users to understand what they need in order to apply?
 - Within the application form, what section(s) stop users from completing the form?
 - Does the task analysis reflect similar drop-off points as the analytics?
@@ -115,9 +115,7 @@ The research questions we sought to address:
 4. Medicaid and Medicare related questions don't provide enough details for the participants to confidently provide answers.
 
 
-## Details of Findings
-
-**General**
+## Key Findings - General
 
 ### Participants feel that the VA should already have much of the information that the VA Health care application requests
 - Many participants said that they felt frustration that they had to provide similar information for various VA applications. Many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some POAs find the questions about service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries. 
@@ -153,7 +151,7 @@ The research questions we sought to address:
 - The flow should be examined to find ways to reduce the respondent burden. Automatic qualifiying factoes, one question per page, and more questions that are dependencies can all be considered. 
 > "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
 
-**Specific sections**
+## Key Findings - Section specific
 
 ### Service history section information architecture provides no indication of the relationship of the items on this list, thus causing confusion when choosing answers and fear of inelgibility.
 The service history page causes confusion for two main reasons:
@@ -245,22 +243,23 @@ The service history page causes confusion for two main reasons:
 * Some participants found the way that the page advances from one to the next jarring and were unsure if their information input had been accepted.
 
 ## Recommendations
-* Implement upload documentation question into the workflow
 
-* Add additional content/example to help users understand what qualifies as a legal representative document
+* Content and flow
+1. Implement one question per page
+2. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility.
+3. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
+  1. Order of questions
+  2. Headings on page - also an accessibility issue
+  3. Explore automatic qualifiers (Veternas who have automatically qualifying factors will not have to fill out the entire form)
+  4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
-* Explore more options for the signature page
-
-In the future
-* Keep the new language for Primary/Secondary Caregiver, but improve the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information about what each role entails and what the benefits are for each.
-* Consider putting medical facilities question on their own page or clarifying language about what is required or optional.
+* Design
+1. Define how to include content that gives more details on the questions and explains how the question is used to determine application eligibility
+2. 
 
 ## Next Steps
 
-* Upload page
-  - Implement copy tweaks
-
-* Explore options for the representative signature box
+* TBD
 
 ## Appendix
 ### Conversation guide
