@@ -135,6 +135,7 @@ Please list the people who will be serving in each role.
   - Ana Jakabcin - ana@adhocteam.us
   - Erik Hansen - erik@adhocteam.us
   - Lihan Li- lihan@adhocteam.us
+  - Taylor Mitchell - tmitchell@governmentcio.com
   - Tressa Furner - tressa.furner@adhocteam.us
   - Maria Becker - Maria.becker@thoughtworks.com
   - Todd Stanich - todd.stanich@thoughtworks.com
