@@ -61,7 +61,10 @@ An example of a completed request template can be found [here](https://github.co
     
     - [Provide relevant dates here]
 
-- Typical Website Interactions to Track
+- Please provide website interactions to Track
+
+
+    _Design System components are automatically tracked. [Read more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/build-process-measuring-pageviews-and-events.md#other-important-things) to see which Design System components are opt in or opt out. You do not need to specify on this ticket which components you are tracking unless you are opting in._
 
     - *Conversions - Understanding the User Flow:* _Provide URLs that are part of the application from introduction page to successful form completion; conditional pages that are visible depending on an applicant's answer should be marker accordingly._
     
