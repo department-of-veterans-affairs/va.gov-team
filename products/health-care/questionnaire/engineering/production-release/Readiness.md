@@ -38,8 +38,8 @@
 
 ## Facilities API checklist
 
-- [ ] Ensure that HealthQuest in production has permission to call the Facilities API in production (@dillo)
-- [ ] Check if we need any credentials or extra configuration settings for the production release (@dillo)
+- [x] Ensure that HealthQuest in production has permission to call the Facilities API in production (@dillo - see [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1622049112053700))
+- [x] Check if we need any credentials or extra configuration settings for the production release (@dillo - see [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1622049112053700)
 
 ## Ops checklist
 
