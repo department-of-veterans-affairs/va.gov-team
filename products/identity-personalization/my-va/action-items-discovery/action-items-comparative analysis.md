@@ -48,12 +48,29 @@ The content of the action items and how the action items were displayed varied b
 3. Status changes
 4. Things the company/site wanted the user to know
 
+Most sites had a designated section for 'upcoming events' that were not included in the notification section. 
+
 ### How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
 
+There was a variety of ways that action items were highlighted. 
+
+- Right-hand tiled navigation, 
+- part of the nametag - a small alert bell icon with either a number or indicator (is this accessible?)
+- integrated into the page by section with an indicator (this was often in addition to the alert icon)
 
 ### How do sites let/help users resolve action items? Is there an action item log? 
+
+- Most sites didn't have a way to resolve the action items... I need to research this more - what happens when you click on a notification?
+- Some used an 'X' in the corner of the notification to delete
+
 ### How do sites visually prioritize action items?
+
+- Banks highlight if something is due outside of the actual notification center - often on the dashboard/homepage (using a red dot/indicator with some small details)
+- If it's a notification center, most action items are the same 'visual weight'. If it's really important it's brought to the top
+
 ### How do sites determine what is an important action item to a user? 
+
+- This needs more research
 
 
 ## Site examples
