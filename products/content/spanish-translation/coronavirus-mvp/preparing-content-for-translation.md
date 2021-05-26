@@ -7,6 +7,7 @@
 - [ ] Text is written in sentence casing.
 - [ ] Text uses the Oxford comma.
 - [ ] Text uses active voice.
+- [ ] Text reflects singular context and nuance throughout the text.
 
 | Like this | Not like this |
 |---|---|
