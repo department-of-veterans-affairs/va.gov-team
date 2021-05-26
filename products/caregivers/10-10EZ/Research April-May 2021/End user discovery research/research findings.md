@@ -169,7 +169,7 @@ The service history page causes confusion for two main reasons:
 
 ### The household information section (includes financial disclosure information) was the most likely to be stated as the hardest part of the application, stemmed by uncertainty on how to find the requested information, unclarity of what the questions were asking, how their responses would impact their application.
 - Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for health care. Additionally, the dependent section causes confusion as to what qualifies as a dependent and for those that the dependent is their child, the "When did they become your dependent?" question is confusing.
-- 
+
 > "Oh geeze. Oh jesus....Now I need to call my tax man...It should say what box to refer to on my tax form or just let me upload it."  _(In regards to financial disclosure and dependents information)_
 
 > Will my financial information impact the health coverage I receive?"
