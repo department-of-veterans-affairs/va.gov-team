@@ -191,44 +191,6 @@ The service history page causes confusion for two main reasons:
 - Many participants did not know if they qualified for Medicaid or Medicare (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
 > "I wish I could answer 'I don't know' because if I put 'no' then I would think it would be on my record and I would be disqualified from getting it, but I don't know if I am."
 
-### Service history section causes confusion
-
-The service history page causes confusion for two main reasons:
- - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA Health care. 
-
-> _On service history page_ "Since none of these apply to me, I would be worried this would disqualify me." _When asked if it would deter from finishing form_ "It might, yes."
-
- - The information architecture of this page also causes categorization confusion. Most participants wonder what the list (category) is and how it will be used. Some participants wonder why there are not more recent events/situations listed.
-
-> "What do these have to do with health care?"
-
-> "These seem outdated. I'm looking for something having to do with Iraq."
-
-> When asked how they think this information will be used. "Maybe this will be used to determine my treatment plan?"
-
-
-### The financial disclosure and household information section was the most likely to be stated as the hardest part of the application**
-- Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions are asking for. Many participants also felt trepidation about how the information would be used and its impact on their qualification for health care. Additionally, the dependent section causes confusion as to what qualifies as a dependent and for those that the dependent is their child, the "When did they become your dependent?" question is confusing.
-> "Oh geeze. Oh jesus....Now I need to call my tax man...It should say what box to refer to on my tax form or just let me upload it."  _(In regards to financial disclosure and dependents information)_
-
-> Will my financial information impact the health coverage I receive?"
-
-> "When I filled this out in the past, I had to call my husband, he didn't have the paperwork with him so I had to save the form and finish it at home with the kids running around."
-
-> "What is a dependent defined? My spouse? I also finance my spouse's parents, but they live in the Philippines, do they count or do I have to go by the IRS definition?"
-
-> In regards to net income: "Does a house count?"
-
-> "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
-
-
-### Preferred facility question does not provide optimal UX or transparency**
-- For Veterans that live in a state with many facilities, selecting a VA medical facility took time and caused some confusion. The list is not in alphabetical order thus participants had to read each one in order to make their selection. Many participants expressed that they were not sure which one to choose, especially those who don't regularly visit a VA center or clinic. The "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
-
-### Medicaid and Medicare related questions don't provide enough details for participants to confidently provide answers**
-- Many participants did not know if they qualified for Medicaid or Medicare (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
-> "I wish I could answer 'I don't know' because if I put 'no' then I would think it would be on my record and I would be disqualified from getting it, but I don't know if I am."
-
 
 ## Additional Insights
 * Most Veterans do not differentiate the nomenclature of the VA benefits and health care, they are all "VA benefits" to them. Additionally there are no distinguishing visual cues.
