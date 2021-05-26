@@ -93,7 +93,7 @@ To build the COE applicaiton and achieve the objectives mentioned above we need 
 - If the Veteran was determined to be `ineligible` or `unable to determine` because of missing information, the LGY service will return to us what data is missing
 
 ### Code Location
-`vets-website/src/applications/lgy/coe`
+[vets-website/src/applications/lgy/coe](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe)
 
 ### Testing Plan
 As with other applications on VA.gov we will unit test each state of each component as well as e2e test each path through the application
@@ -112,12 +112,6 @@ Since we develop our apps in React and Redux our application will be built using
 - **Use a container component to manage data flow** - Placing most logic in parent components seems to simplify the architecture
 
 
-Components (WIP)
-
-| Name      | Purpose | Type |
-| ----------- | ----------- | ----------- |
-| App      | House all components for application | Stateful |
-| RequiredLoginView | Require login to view the page | Platform Component |
  
 
 
