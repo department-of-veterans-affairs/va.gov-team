@@ -1,6 +1,10 @@
 # My VA action items: VA.gov audit
 Tressa Furner, Authenticated Experience, May 2021
 
+## Findings
+
+1. In my research I haven't found any on-page notifications or anything that is the exact use case that we are looking to implement on My VA. There could potentially be some design cues from some of the health care work - but the fundamental use is different. 
+
 ## Debt Resolution - 'Next steps'
 
 The debt resolution team briefly worked on including a 'next steps' section in the debt cards. 
