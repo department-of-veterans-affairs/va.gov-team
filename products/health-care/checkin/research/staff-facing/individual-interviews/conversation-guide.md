@@ -31,8 +31,9 @@ __Start recording.__
 -	In one word, how would you describe:
   -	The process of checking in Veterans to your facility
   - The process of queuing and tracking patients through their appointments and services at your facility
-_For these tasks: stick to questions that are relevant to the participant’s role._
-## First Task: Check-In - 20 minutes
+_For these tasks: stick to questions that are relevant to the participant’s role, ie for Admins, skip to Task 3, for on-the-ground staff, focus on Tasks 1 & 2._
+
+## 1) Check-In - 20 minutes
 -	How do Veterans check in at your clinic / site / department?
 -	Can you walk me through how each of these works?
 -	What tools do you have open to manage patients as they come in? 
@@ -42,11 +43,21 @@ _For these tasks: stick to questions that are relevant to the participant’s ro
 -	[where does the current system succeed, fail]
 ## Things to watch for:
 -	
-## Second Task: Patient Tracking - 20 minutes
+## 2) Patient Tracking - 20 minutes
 -	What are the ways staff in your department communicate about where in the process the Veteran is?
 -	Can you walk me through each of the options of tracking a Veteran through their appointment?
   -	…
 -	[Rating how well current system works for their role?]
+-	[where does the current system succeed, fail]
+## Things to watch for:
+- 
+
+## 3) Admin Level - 20 minutes
+-	Can you tell me about how check-in works at your site?
+-	What about check-in is important to you in your role?
+-	Can you tell me about how staff at your site track a Veteran throughout their appointment or services?
+- What about the system to track Veterans is important to you given your role?
+-	[From your perspective, how well current system works for their role?]
 -	[where does the current system succeed, fail]
 ## Things to watch for:
 -	
