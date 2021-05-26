@@ -662,7 +662,7 @@ Any outstanding project work from last sprint, plus:
 **PM**
 
 - Coordinate on ticketing and to-dos with Lauren Ernest as needed
-- Hold Midpoint review?
+- Hold Midpoint review
 - Help with FE ticket creation as needed #25043
 
 **Design**
