@@ -49,7 +49,7 @@
 * Email went out to Outreach Specialists say "your account is active on Prod but you don't have publisher access yet, we'll review and bulk publish"
 * Michelle to follow up with a timebox for them. 
 
-4. Switch to fetch Vet Center data from Lighthouse data when unpublished in the CMS
+4. Switch to fetch Vet Center data from Lighthouse data when unpublished in the CMS (Issue to clean up code after full roll-put - [#25329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25328)
 
 
 **VAMC**
@@ -60,6 +60,7 @@
 * What is the value of having weight in the CMS when we have multiple weights for different products? 
   * If we add or remove a type of care, the FE wouldn't be able to catch it. 
 * Facilities team will look at an approach to this and prioritization of CMS weight value will be determined later.  
+* Change in logic for Vet Centers (post-MVP) [#25330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25330)
 
 2. Type of Care testing
 
