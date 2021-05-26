@@ -56,7 +56,7 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
+*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports.*
 
 - KPI | Target | Link to data source
 
