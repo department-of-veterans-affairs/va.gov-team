@@ -22,7 +22,6 @@
 | Public Websites | Resources and Support | Resources and Support MVP 1.0 | Nov 4, 2020 | no | Help specific user segments find more information about the benefits journey and ancillary VA.gov tasks |
 | Facilities | Facility Locator | Phase 1 Map enhancements (Limit search to 500 miles) | Dec 21, 2020 | yes | Reduce time to return and improve relevancy of facility search results |
 | Facilities | Facility Locator | Single search query for PPMS | Dec 21, 2020 | yes | Increase response time for community care and community pharmacy searches. |
-| Search & Discovery | On-Site Search | Type-ahead Search PoC - 5% roll-out | Dec 21, 2020 | yes | Search suggestions to users. Rolled back eventually |
 | Claims & Appeals | Disability Claims Tool-526 | BDD Launch | Dec 22, 2020 | yes | Allow Active Duty Service members to file for disability compensation benefits  prior to discharge. |
 | Debt Resolution | VA.gov Debt Portal | Debt Portal Launch | Jan 4, 2021 | no | Allows Veterans to see all debt obligations. |
 | eBenefits | Chapter 36 | Launch Apply for Personalized Career Planning & Guidance (CH36) on VA.gov | Jan 5, 2021 | no | Help Veterans more easily apply for career counseling services |
