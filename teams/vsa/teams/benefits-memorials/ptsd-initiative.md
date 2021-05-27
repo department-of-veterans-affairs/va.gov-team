@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Form 526 - PTSD Related Form Updates
 #### Overview
 
 Product: Disability Claims | Initiative: Original Claims, PTSD
@@ -22,18 +22,21 @@ Although the questions presented through the user interview process are the same
 ### Evidence of the problem
 One of the challenges that we’ve encountered/witnessed through usability testing with Veterans and Service members is that the type of questions we’re currently asking in the user interview process can be triggering for Veterans. 
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Removal of triggering questions.
+- Veterans should be able to complete and submit their disability claims without delay and triggering known stressors. 
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Incomplete / unavailable data, sufficient to pre-populate form.
 
- Improve Veterans’ experience filing PTSD claims through our VA.gov claim submission product.
+## Desired Business Outcomes
+- Improve Veterans’ experience filing PTSD claims through our VA.gov claim submission product.
 
 ## Undesired Business Outcomes
--->
+- Insufficient data to pass along to claims adjudicators.
+
+## Hypothesis
+ - Have confirmed availability of VADIR data. Current solution: eMIS. Solution under development by VA Profile team expected late summer/early fall. We should be able to access the eMIS data now and switch over to the new solution when it becomes available. We have engaged with the correct contacts on each team. 
 
 ---
 ## Measuring Success
@@ -42,7 +45,7 @@ One of the challenges that we’ve encountered/witnessed through usability testi
 *Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
 
 - Number of submissions | 10% increase | *[Link to data source](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210222&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.filter=disability-526EZ--submission-successful&explorer-graphOptions.selected=analytics.nthWeek/)*
-
+  - Research and analytics suggests form drop-off where the PTSD related questions are asked.
 
 
 #### Baseline KPI Values
@@ -63,9 +66,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*
 
 - **Usability Risks** (can people figure out how to use it): 
+  - Pre-launch usability testing
+  - Pre-launch user acceptance testing
   - Post-launch usability testing
 - **Value Risks** (will people use it): 
   - Simplified, shorter form, gain customer trust as we will demonstrate knowledge of their service, improved customer satisfaction
+  - Form time completion should be reduced
 - **[Technical] Feasibility Risks** (can we build it with available tech/skills): 
   - Dependency upon availability of VADIR data
 - **Viability Risks/Constraints** (will there be a positive organizational impact): 
