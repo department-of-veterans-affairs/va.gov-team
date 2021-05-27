@@ -166,6 +166,24 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Current Status
 
 ### Key Decisions
+***Downshift Implementation***
+Our current implementation of Typeahead has a couple key requirements that resulted in our implementation choices.
+
+- we need to be able to track the suggestions a user receives, what their query is, and whether they used the suggestions presented
+- we need to meet accessibility standards for usability.
+The original proposed implementation for Typeahead was to use a Datalist, however this component does not allow for custom event handlers, which did not meet many of our analytics requirements for this feature.
+
+As a result, we had two options:
+
+- The first was to create a custom component to be owned and maintained by va.gov to implement typeahead in such a way that would meet analytics and accessibility requirements
+- The second was to use the 3rd party component DownShift, which had previously been used on VA.gov for a typeahead experience.
+Due to this product being a POC, the decision was made to use Downshift, rather than sped the time required to build a custom component from scratch, saving us a LOT of time in approvals and streamlining the release process.
+
+However, Downshift lacks a large number of customization options, and obfuscates a lot of functionality from the developer (certain elements can't have event listeners added to them, or cannot be interacted with from outside of the component). It is because of these quirks that many of the "Nice to have" features are not an option for us currently.
+
+Additionally, because the downshift component hides a lot of its interior elements, there are some functionalities that might "flake out" due to the component loading, such as focusing the input field on clicking the search menu button.
+
+There are talks about creating a unified sitewide search, and as part of that process a more robust "custom" typeahead component would be designed and built that would allow for many of these features to exist. 
 
 ---
    
