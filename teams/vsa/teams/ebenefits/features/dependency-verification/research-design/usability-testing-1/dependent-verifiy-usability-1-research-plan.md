@@ -31,7 +31,7 @@ The goal of this usability study is to determine the efectiveness of the interce
 - Users will expect the "remove" feature will just "delete" the removed dependent--but they likely will accept the formlet feature; users will expect the 'add" feature to request information about the new dependent
 
 ### Method
-We'll engage in moderated usability testing conducted remotely using Zoom. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Participants will be recruited using Perigean. These users will be provided links to a starting point (page) from which they will trigget the Dependency Verification modal. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
+We'll engage in moderated usability testing conducted remotely using Zoom. Participants will be recruited using Perigean. These users will be provided links to a starting point (page) from which they will trigger the Dependency Verification modal. Users will be given open-ended "tasks" set forth in the conversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
@@ -76,6 +76,8 @@ Recruit for 5 fulfilled sessions using the following criteria:
 #### Testing sessions
 
 **Pilot sessions** | Dates/times TBD
+
+`There will be two pilot sessions`
 
 **Team availability**
 | Dates | Times (EDT) |
