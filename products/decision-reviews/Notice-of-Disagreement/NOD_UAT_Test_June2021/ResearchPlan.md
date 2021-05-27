@@ -124,4 +124,4 @@ June 9, 2021, 11 AM to 5 PM
 
 ### Resources
 
-Conversation guide
+Conversation guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/NOD_UAT_Test_June2021/Convoguide.md
