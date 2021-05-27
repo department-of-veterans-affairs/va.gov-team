@@ -8,7 +8,7 @@ assignees: Public Websites, brianalloyd
 ---
 
 
-# Banner intake request template
+# Public Websites Banner Intake Request Form
 
 ## Description
 
@@ -46,4 +46,4 @@ Choose one of the following and make sure you fill out at least the required det
 
 ## Stakeholders
 
-Who specifically should we communicate with when building + deploying the banner?
+Who specifically should we communicate with when building + deploying the banner?  Please provide relevant contact details and desired slack details for forward communication.
