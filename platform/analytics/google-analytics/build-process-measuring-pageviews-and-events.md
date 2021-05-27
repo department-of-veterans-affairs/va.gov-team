@@ -132,3 +132,4 @@ The naming convention for products begins with these prefixes:
 |Terms and Conditions | `terms-` |
 |VA Letters| `letter-`|
 |Veteran ID Card| `vic-`|
+|Request a Board Appeal| `10182-board-appeal-`
