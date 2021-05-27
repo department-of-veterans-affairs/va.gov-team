@@ -42,6 +42,7 @@ This is my best estimate on things as of when I go on leave, but please please P
 - **My VA 2.0 redesign**
   - Complete phased launch
 - [Track My VA 2.0 project KPIs for 3 months post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
+  - The reports you need are linked from the product outline above. Just be sure to adjust dates accordingly.
 - Options for additional work:
   - **Option A**: Scope out an MVP for elevating action items; do additional discovery, design, and research if necesary; start build.
   - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info and education info keep coming up repeatedly in research).
