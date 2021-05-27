@@ -54,7 +54,8 @@ User goes to prototype link
 * For the purpose of this test, we'll have you use a prototype. 
 * Now I have a link in chat to the page we're testing; **please click on it.** (Clicks on link to View Dependents prototype )
 
-### Task 1 -  Identify dependents  - 1 minute     `I think we would need a landing page to start this task on… or is there some other way to word this that makes it clear to the participant that they have navigated to the view dependents screen already?`
+### Task 1 -  Identify dependents  - 1 minute     
+`I think we would need a landing page to start this task on… or is there some other way to word this that makes it clear to the participant that they have navigated to the view dependents screen already?`
 * If you wanted to be sure that your dependents were covered on your account, where would you check?
 * Can you tell me the names of the dependents on this account?
 
