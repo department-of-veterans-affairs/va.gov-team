@@ -146,7 +146,7 @@ The search product can be found in the header of dev, staging, and production en
  1. **Queries with No Results:** Queries conducted that month that had zero search results presented to users
  2. **Queries with Low Click Thrus:** Queries conducted that month that did not trigger a user to click on a result; resulting in a low click thru rate 
  3. **Module:**  The modules are the different components of our search experience. Each module loads when there are relevant search results to display. Each module has a code, and you’ll see these codes in the Download Details csv files. - more information on each can be found on our [search.gov](http://search.gov/) site, under the Search Features. [https://search.gov/manual/module-codes.html](https://search.gov/manual/module-codes.html) [https://search.gov/manual/site-launch-guide.html#add-features](https://search.gov/manual/site-launch-guide.html#add-features)
- 4. **Impressions:** Search.gov counts an impression anytime that module appears in the returned search results.
+ 4. **Impressions:** Search.gov counts an impression anytime that module appears in the returned search results. We are currently only rendering i14y Documents and Best Bets.
  5. **Clicks:** TBD
  6. **Your CTR:** TBD
  7. **Average CTR:** These are system-wide averages across sites that use Search.gov, not metrics for your specific site.
