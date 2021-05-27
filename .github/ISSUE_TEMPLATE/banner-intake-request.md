@@ -25,8 +25,8 @@ Choose one of the following and make sure you fill out at least the required det
   - `title`: [What will the title of the homepage banner be?]
   - `content`: [What will the content of the homepage banner be? Feel free to use HTML if desired.]
  
- Visual Example:
- ![image](https://user-images.githubusercontent.com/70410912/119869662-be054b80-bedd-11eb-98dc-11ec71032670.png)
+Visual Example:
+![image](https://user-images.githubusercontent.com/70410912/119869662-be054b80-bedd-11eb-98dc-11ec71032670.png)
 
   
 - [ ] Maintenance Banner
@@ -35,7 +35,11 @@ Choose one of the following and make sure you fill out at least the required det
   - `expiresAt`: [What is the exact time we should stop showing it? e.g. 24 hours AFTER it starts showing]
   - `title`: [What is the title? _Default_: 'Site maintenance']
   - `content`: [What is the content? _Default_: "We’re working on VA.gov right now. If you have trouble signing in or using tools, check back after we're finished. Thank you for your patience."]
+ 
+Visual Example:
+![image (2)](https://user-images.githubusercontent.com/70410912/119874350-bbf1bb80-bee2-11eb-80a3-a21991c9e8a8.png)
 
+ 
   __Optional Details:__
   - `warning startsAt`: [Do you want to show a warning before the downtime happens? If so, how much time before we show the maintenance banner should we show the warning? e.g. 12 hours BEFORE it starts showing]
   - `warning title`: [What should the warning title be? _Default_: 'Upcoming site maintenance']
