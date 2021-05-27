@@ -59,20 +59,7 @@ We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using t
   - Yes, applied less than 6 months ago: 1
   - Doesn't think so/unsure: 1 (This Veteran receives health care through military retirement) 
 
-**Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested the following recruitment, due to a general confusion of health care benefits separate from other benefits, most of our participants did not meet these specifications:
- 
- All participants must be yes to one of the following qualifications:
-
-  - Started the Health Care application (10-10EZ) in the last 6 months, but did not complete it.
-or
-
-  - Is currently considering (or has in the past) applying for healthcare through the VA.
-or
-
-  - Applied for VA healthcare in the last 6 months.
-
-
-
+**Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested recruitment of participants who had not previously completed the 10-10EZ, due to no-shows and participant confusion of health care benefits separate from other benefits during recruitment screening, 7 of our participants already receive VA Health care, 1 participant had just applied in the last 6 months, and 1 participant was uncertain if they have VA Health care - receives health care through military retirement and thought also had some VA benefits.
 
 ### Research Questions
 
