@@ -24,6 +24,10 @@ Choose one of the following and make sure you fill out at least the required det
   - `expiresAt`: [What is the exact time we should stop showing it? e.g. 24 hours AFTER it starts showing]
   - `title`: [What will the title of the homepage banner be?]
   - `content`: [What will the content of the homepage banner be? Feel free to use HTML if desired.]
+ 
+ Visual Example:
+ ![image](https://user-images.githubusercontent.com/70410912/119869662-be054b80-bedd-11eb-98dc-11ec71032670.png)
+
   
 - [ ] Maintenance Banner
   **Required Details:**
@@ -43,6 +47,10 @@ Choose one of the following and make sure you fill out at least the required det
   - `expiresAt`: [What is the exact time we should stop showing it? e.g. 24 hours AFTER it starts showing]
   - `link url`: [The URL where a user is navigated to if they click the promo banner.]
   - `content`: [The text on the promo banner announcement.]
+ 
+Visual Example:
+![image (1)](https://user-images.githubusercontent.com/70410912/119869734-d2494880-bedd-11eb-9b0b-8bce727ec7a1.png)
+
 
 ## Stakeholders
 
