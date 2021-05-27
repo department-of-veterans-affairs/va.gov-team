@@ -17,8 +17,6 @@ Also, feel free to let me know if there’s someone else that you think we shoul
 Looking forward to hearing from you.
 
 
-## Closing:
-
 Regards,
 
 [name/contact info]
