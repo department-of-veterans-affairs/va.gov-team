@@ -197,36 +197,36 @@ The service history page causes confusion for two main reasons:
 
 ## Recommendations
 
-### Information Architecture (IA) and flow
-1. Implement one question per page
-2. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility
-3. Clarify how the Veteran will be notified with application status updates
-  1.  Explore e-mail validation link
-  2.  Explore e-mail confirmation on submission
-  3.  Explore preferred contact option
-4. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
-  1. Order of questions
-  2. Headings on page - also an accessibility issue
+### Transparency
+1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility, providing explanations for questions that the research and analytics show to be the most troublesome for applicants.
+2. Explore progress bar and heading title options to provide clearer progression
+3. Mitigate fear of being automatically disqualified
+
+### Reduced burden
+1. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
+  1. Order of questions should be chunked according to Veterans' mental model
+  2. Headings on page should be properly labeled for screen reader accessibility 
   3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
   4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
-### Design
-1. Define how to include content that gives more details on the questions and explains how the question is used to determine application eligibility
-2. Redesign the gender question to reflect updated content
-3. Explore progress bar and heading title options to provide clearer progression
-
-### Copywriting
-1. Rewrite confusing questions in plain language
-2. Provide more details on how to answer the questions
-3. Mitigate fear of being automatically disqualified
-4. Determine if a supporting guide is necessary
+2. Rewrite confusing questions in plain language
+3. Explore ways to better implement VA Facility locator
+4. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
 5. Simplify Introduction page
 
-### Development
-1. Explore ways to remove the repeated name, birthdate, and Social Security number for the unauthenticated experience
-2. Explore ways to better implement VA Facility locator
-3. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
-4. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
+### Trust
+1. Clarify how the Veteran will be notified with application status updates
+  1.  Explore e-mail validation link
+  2.  Explore e-mail confirmation on submission
+  3.  Explore preferred contact option
+
+2. Provide security and privacy information within the Military Service and Household Information sections
+
+### Accessibility
+1. Redesign the gender question 
+2. Make sure that all button and link treatment and behavior is correct
+3. Make sure headings are correctly labeled
+4. Rewrite confusing questions in plain language
 
 ## Next Steps
 
