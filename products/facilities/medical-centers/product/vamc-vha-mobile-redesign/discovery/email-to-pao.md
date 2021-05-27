@@ -2,21 +2,26 @@
 
 ## Subject: 
 
-Available for a Zoom chat?
+Internal Research Regarding Mobile Clinics
 
 ## Body:
 
-Hello [Name],
+Hello [Name], 
 
-I work with Dave Conlon on the VA.gov Facilities product team. We’re in the process of preparing to redesign Mobile Clinic websites and as with all our product improvement initiatives, we first want to learn from the people who manage and use them everyday. We’re looking to spend about an hour learning about Mobile Clinics and what an ideal new website would look like for you. 
+I work with Dave Conlon on the VA.gov Facilities product team. We’re preparing to redesign mobile clinic websites and as with all our product improvement initiatives, we like to start with research first. We want to learn from people who manage and work with mobile clinics every day. 
 
-Are you available at any of the times below to hop on Zoom with us for a chat? If, not let me know when would be a good time.
+What we’re looking to learn:
 
-Also, feel free to let me know if there’s someone else that you think we should talk to.
+- Which Veteran populations use your mobile clinic(s)
+- How Veterans learn about hours, locations, etc. today
+- Services provided by your mobile clinic 
+- Appointments, scheduling and eligibility 
+- Website improvements that you'd like to see
+
+Are you available next week to chat for about an hour?  Also, let me know if there’s someone else that you think would be better suited to help us answer these questions.
 
 Looking forward to hearing from you.
 
-
-Regards,
+Thank you for your help,
 
 [name/contact info]
