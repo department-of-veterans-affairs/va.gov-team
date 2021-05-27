@@ -8,12 +8,14 @@ The purpose of this workshop is not to _resolve_ the problem space described bel
 
 We have a handful of highly skilled individuals on the OCTO-DE side who are experts in a given field (notably content, accessibility, IA, design, and research) and whom we look to as the protectors of those practices on VA.gov. The term "practice lead" came about organically, grassroots-style, as a way to describe and wrap heads around these people and their role here, however there was never an intentional OCTO-DE creation of this role nor a conscious accepting of this role by these individuals. There's never been any explicit definition of what it means to have this role - what the expectations and responsibilities are, what the needs are for success, and really whether it's indeed these peoples' role at all. All of this results in mismatched understandings of what practice leads and Collab Cycle members or VFS Teams or VA.gov members at large expect of each other, and has been the source of much confusion and frustration.
 
+---
+
 ## How might we...
 _...define a) what kind of practice leadership responsibilities are needed in our ecosystem, b) what's needed for someone to be **successful** at those responsibilities, c) in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, and d) thus where we have gaps that OCTO-DE will need to figure out how to fill?_
 
 ---
 
-### Examples of the pain points this causes:
+## Examples of the pain points this causes:
 
 **Practice lead pain:**
 - Practice leads are being put in an arbitration position: a VFS team builds a thing that doesn't meet our standards, and we look to the practice leads to be the enforcers. But often the folks that this gets escalated to have neither the bandwidth, nor the desire, nor the explicit mandate to play that role.
@@ -31,42 +33,45 @@ _...define a) what kind of practice leadership responsibilities are needed in ou
 - Have to rework content after a wide variety of touchpoints: SWC, research findings, Stakeholder reviews, after collab cycle reviews. And this all happens before Staging Review.
 - It's a bit of a blocker to have just one person reviewing all the research plans
 
-**Other general notes from folks**
+### Other general notes from folks
 - We staff practice areas differently, but have same expectations of practice leads. Like we have tons of designers, a good amount of researchers, hardly any accessibility people, no content writers, and no IA people, but we have one practice lead for each of those areas - expectations will need to be different.
 - We have officially stated that the OCTO-DE Product Owner has final say, and in disagreement cases it gets escalated to Crew Chief (not the practice lead).
 - W/CEDAR coming there'll be more VFS teams, and thus more ppl doing work. Now is time to figure out what things CTO's office etc need to be responsible for vs, what are we willing to cede to contractors?
 - Will never be able to outsource "why we do design in this way" convos w/stakeholders to contractors
 
----
+**3-bucket design strategy**
 
-## 3-bucket design strategy
-
-**policy**
+Policy
 - memo for Charles and Chris to review next week ideally
 - 5 design policies: 1) for VA.gov must use DS 2) - 5) this is the process and the process for when you need to go outside of DS
 
-**tooling**
+Tooling
 - everybody using sketch for teams and having access to it
 - so all work is in same sketch for team's instance so everyone can see each others' work
 
-**process**
+Process
 - design.va.gov lets you run experiments, but what are VFS teams are responsible for?
 - example: John's team designed new experiences for search, ryan got the design to where he was happy, and this process clarifies how to document why this is the way it is, what did you test, etc.
 
 ^ this affects design from a Ryan perspective, in that he'll be in CC, but the goal w/sketch for teams was to move reviews to asynchronous so can just give comments there. could be same for early a11y reviews. potentially for content as well. haven't talked w/meg or mikki about it yet. strategy was designed in mind for async review option for anybody (whether product support, practice leads, etc). No prescription on who should be in ther giving comments and what the process shoudl be, but the goal of Ryan + Kevin is to create a platform for visibility of design work across va.gov so you don't have to chase or Slack design in process.
 
----
-
-## workshop ideas
+**Workshop ideas**
 - what problems were practice leads put in place to solve?
 - what do folks *think* they're accountable for?
 - maybe follow-up on the individual stuff -- is this the kind of job you want to be doing?
 - individual convos (not group) around: if we were to hire for these which would we want to do that for?
 - workshop: focus more on parameters around what the needs are and what a practice lead role would look like and what kind of support that would require
 
-## placeholder "wants"
+**Placeholder "wants"**
 - Want a research ops lead who consults when teams are putting together research plans, and to maintain our process and say "ok we've grown, let's rethink how we do synthesis or how we share our research"
 - Working on a research revamp this quarter, but sure we'll need more of that in the future -- can see research ops being a full time job for at least one person maybe more
 - The research ops person doesn't have to be octo-de / usds, but want a really great researcher in that role. could still be that octo sponsor though for collab / questions / oversight if needed. there's a lot of day to day stuff that would be great for someone to truly own.
 - Would be great to have some structure for research side in design intent
 
+---
+
+## Workshop goals / desired outcomes
+- lorem
+
+## Questions the workshop should answer
+- lorem
