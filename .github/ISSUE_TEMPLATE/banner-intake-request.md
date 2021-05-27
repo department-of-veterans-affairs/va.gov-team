@@ -12,7 +12,7 @@ assignees: Public Websites, brianalloyd
 
 ## Description
 
-[Write a brief description with the context of the request. Feel free to add any additional info here if you need to.]
+[Provide a brief description for this request. Please add any additional details here that will help our team understand the request]
 
 ## What do you need?
 
