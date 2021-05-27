@@ -13,9 +13,9 @@
 
 ### Test Cases
 1. User should click each of the 3 hyperlinks (Spanish, Tagalog, Other languages) and link to the appropriate page:
-- Spanish: TBD
-- Tagalog: TBD
-- Othe languages: TBD
+- Spanish: http://www.va.gov/asistencia-y-recursos-en-espanol 
+- Tagalog: https://www.va.gov/tagalog-wika-mapagkukunan-at-tulong
+- Other languages: https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/
 <hr/>
 
 ### Test Cases
