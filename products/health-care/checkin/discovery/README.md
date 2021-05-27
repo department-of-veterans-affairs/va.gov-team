@@ -60,4 +60,5 @@
 - Geo location. Not being able to access check-in until a particular timeframe and in a particular location. Pushing check-in flow.
 - Other systems were looking into taking a picture of insurance card and using that to help auth in.
 - Proxy check-ins?
+- Biometrics
 - Connection to wayfinding.
