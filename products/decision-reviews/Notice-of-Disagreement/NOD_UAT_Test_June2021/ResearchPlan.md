@@ -93,53 +93,20 @@ Please allow 30 minutes between sessions.
 
 Please schedule max 2 participants the first test day (June 2, 2021)
 
-All dates and times TBD
-
-|
 
 Dates
 
- |
-
 Times (EST)
 
- |
-|
+June 2, 2021, noon to 4 PM
 
-June 2, 2021
+June 4, 2021, 11AM to 5 PM
 
- |
+June 8, 2021, 11 AM to 5 PM
 
-noon to 4 PM
+June 9, 2021, 11 AM to 5 PM
 
- |
-|
-
-June 4, 2021
-
- |
-
-11AM to 5 PM
-
- |
-|
-
-June 8, 2021
-
- |
-
-11 AM to 5 PM
-
- |
-|
-
-June 9, 2021
-
- |
-
-11 AM to 5 PM
-
- |
+ 
 
 ### Team members/roles
 
