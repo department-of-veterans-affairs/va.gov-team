@@ -16,6 +16,19 @@
 
 </details>
 
+## May 27, 2021
+
+***DISCUSSION TOPICS:*** 
+
+- Review of Epics
+   - [SD] Type Ahead 1.0 #17558
+   - [SD] Surfacing VA Search Tools #20402
+   - [SD] Search Landing Page	#24333
+   - [SD] Sitewide Search Reorganization and Improvements #22977
+   - Search UI consistency #21055
+- Housekeeping of our Backlog/Icebox as needed
+
+
 ## April 15 , 2021
 
 ***DISCUSSION TOPICS:*** 
