@@ -49,20 +49,35 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Hypotheses & Answers
 
-**Finding #1**
-- More details on Finding #1
+**Veterans want to search for a single list, containing both VA and community emergency care options**
+- More details
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
 
-**Finding #2**
-- More details on Finding #2
+**Veterans understand they can go to any local emergency room, not just those in the results list**
+- More details
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
 
-**Finding #3**
-- More details on Finding #3
+**Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them**
+- More details
+- These details could be key words, actions, or test outcomes
+> Quote (if relevant)
+
+**The facility type label "In-network emergency care" does not introduce confusion about other facility types**
+- More details
+- These details could be key words, actions, or test outcomes
+> Quote (if relevant)
+
+**Veterans understand how to learn more about community care emergency benefit [explained elsewhere](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)**
+- More details
+- These details could be key words, actions, or test outcomes
+> Quote (if relevant)
+
+**Participants will understand what to do in case of emergency**
+- More details
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
