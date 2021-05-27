@@ -348,6 +348,9 @@ We can see:
  - 3K Find a facility
 <img width="908" alt="Screen Shot 2021-05-24 at 5 24 42 PM" src="https://user-images.githubusercontent.com/72393866/119409206-f37b2080-bcb4-11eb-8e48-bf19b9c905dc.png">
 
+## Resources & Support Usage Data
+- VA.gov users are often navigating to resources and support in search of forms. The following data shows that the top search terms are related to form. This is further evidence that the various search experiences should ...
+
 ## Prioritization
 
 *Describe and prioritize the competing hypotheses the team develops as a result of discovery accounting for effort, impact, value, confidence.*
