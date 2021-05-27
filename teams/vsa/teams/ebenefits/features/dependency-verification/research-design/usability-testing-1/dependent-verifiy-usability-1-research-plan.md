@@ -18,40 +18,34 @@ The goal of this usability study is to determine the efectiveness of the interce
 
 #### Guiding questions
 - What are users reactions to the appearance of the intercept modal? Do they understand what is happening?
-- Why do users think they're being asked to confirm their dependents? Do they know what could happen if their dependents are wrong?
+- Why do participants think they're being asked to confirm their dependents? Do they know what could happen if their dependents list is not up to date?
 - What do users think happens when they click and choose the "confirm" path?
-- Can users identify their options when they click and choose the "change" path?
+- Can participants identify their options when they click and choose the "change" path?
 - What do users expect will happen when they choose to remove a dependent? Add a dependent?
 
-<!--
-
-#### Guiding questions
-- Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
-- How do users feel about the "automatic COE" feature; what are their expections about it future availability (access, printing, download)?
-- What barriers int the UX and UI prevent users from easily applying for a COE?
-- Where does confusing language prevent users from understanding the form?
-- Where (on VA.gov and elsewhere) do users expect to have their COE available after it has been granted?
-- What other features or content would help users when they apply for a COE?
-
 #### Hypotheses
-- Users will initially look for a direct link in the whit quadrant on the home page; many will locate COE landing page after several steps
-- The form itself will be relatively easy for users to navigate
-- Biographical, contact and service language will be clear to most users; the language around loan options and COE intent will be somewhat confusing
-- Users will expect their COE to be available in various ways: physical letter, email, printed, and/or within an authenticated profile/dashboard
-- Users will ask for directly available information (chat, direct phone, lookups) about the COE, lenders and /or realtors
+- Users will be unsure about the appearance and purpose of the modal
+- Participants will generally understand why VA is asking about their dependents; they will likely know the financial ramifications of being over- or under-paid by VA.
+- Users may not be aware that they submitted and actual form when they "confirm," but they will understand they've "let VA know" their dependent are correct
+- Participants will likely be able to locate and understand the "remove" dependent feature; they may a slightly harder time finding the "add" feature
+- Users will expect the "remove" feature will just "delete" the removed dependent--but they likely will accept the formlet feature; users will expect the 'add" feature to request information about the new dependent
 
 ### Method
-We'll engage in moderated usability testing conducted remotely using Zoom. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the COE feature (VA From 26-1880). The prototype is likely to include some facsimile of the landing page. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
+We'll engage in moderated usability testing conducted remotely using Zoom. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Participants will be recruited using Perigean. These users will be provided links to a starting point (page) from which they will trigget the Dependency Verification modal. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
-- The user will be asked to navigate to VA.gov 
-- The moderator will outline a scenario (use case) for the participant to follow
-- The participant be will asked to locate the COE feature
-- After a brief period exploring a path to the COE tool, the users will be provided a link to the COE prototype
-- The user will potentially proceed through review of the form intro and on to complete the form itself
+- The participant be given a landing page as a "starting point" for the intercept modal
+- The moderator will outline a "confirm" dependents scenario (use case) for the participant to follow
+- The user will trigger the modal, then review the info presented
+- The user will then proceed via "confirmation" to the View Dependents screen
+- The moderator will prompt the user to explore next steps
+- Next, the user will be given a (second) "change" dependents scenario (use case)
+- The user will trigger the modal again, then review the info presented
+- The user will then proceed via "change dependents" to the View Dependents screen
+- The moderator will prompt the user to explore next steps within the "change" scenario
 - There will be a quick Q/A and wrap-up
--->
+
 ### Participants and recruitment
 
 Recruit for 5 fulfilled sessions using the following criteria:
