@@ -682,6 +682,6 @@ Only do profile work if people have time. Is there a ticket or two for Taylor to
 
 ### Backend work
 
-TBD. Will see if Lihan still has user roles & permissions work this sprint. If not, we can talk to Jeff about him helping another team.
+Lihan will continue working with the identity team on user roles & permissions work this sprint. 
 
 ## Sprint 50 (6/16 - 6/29)
