@@ -21,6 +21,7 @@ Although PVA allows for a quick start, we don't think it offers enough long-term
 |Testability | 👍  | 👍  |
 |Learning curve| 👎  | 👍  |
 |Understandable by non-developers | 👎 | 👍 |
+|Reporting | 👎👍 | 👎👍 |
 
 # Microsoft Bot Framework
 - Pro: Code-based, so you can theoretically do anything
