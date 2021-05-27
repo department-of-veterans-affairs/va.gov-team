@@ -29,7 +29,7 @@
 | Caregiver | Caregiver | Background processing on the 10-10CG | Jan 11, 2021 | yes | Moved PDF generation and attachment to a background job. Reduced average submission response time by 0.94 seconds |
 | Facilities | Facility Locator | Covid 19 Vaccine Search on Facility Locator | Jan 13, 2021 | yes | v1: Veterans can search for facilities offering COVID-19 vaccine services, v.2 Veterans can view service details for vaccine services |
 | VA Medical Center Sites | VAMC | One touch and done (VAMC Modernization) - Erie | Jan 19, 2021 | no | Began roll-out of post-Pittsburgh VA medical center digital experiences |
-| Decision Tools | Find VA Form | Find VA Form Search iteration 1 | Jan 21, 2021 | yes | Ignore certain terms e.g. "form" |
+| Decision Tools | Find VA Form | Find VA Form Search iteration 1 | Jan 21, 2021 | yes | Ignore certain terms e.g. "form" and better handling of form name search variations. |
 | Content & Localization | VA.gov Translation Service | Covid FAQs Spanish Translation | Jan 22, 2021 | no | Close the gap between LEP Veterans/family members and critical Covid information |
 | Caregiver | Health care Application (1010ez) | Health care application (1010ez) - Distinguish Mailing/Home Addresses | Jan 25, 2021 | yes | Allows Veterans to enter distinct addresses on the 10-10EZ, to improve communication outcomes. |
 | Decision Tools | Yellow Ribbon Search | Tool tips to help improve search terms | Feb 11, 2021 | yes | Provides Veterans with suggestions to improve their search results |
