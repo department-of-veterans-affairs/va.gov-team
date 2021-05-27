@@ -1,3 +1,13 @@
+---
+name: Public Website Banner Intake Request Form
+about: To file request with the VSA Public Websites
+title: <Type of Request> from <Team>
+labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming
+assignees: Public Websites, brianalloyd
+
+---
+
+
 # Banner intake request template
 
 ## Description
