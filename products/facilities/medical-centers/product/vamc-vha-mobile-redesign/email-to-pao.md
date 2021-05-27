@@ -2,7 +2,7 @@
 
 ## Subject: 
 
-Available for a phone chat?
+Available for a Zoom chat?
 
 ## Body:
 
