@@ -109,7 +109,7 @@ The research questions we sought to address:
 
 ### Participants feel that the VA should already have much of the information that the VA Health care application requests.
 - Many participants said that they felt frustration that they had to provide similar information for various VA applications. Many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some POAs find the questions about service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries. 
-> "I file my taxes online, can't it just pull my tax information like the FAFSA does?
+> "I file my taxes online, can't it just pull my tax information like the FAFSA does?"
 
 > "Why do I have to fill out the military service history and upload a DD214, doesn't the VA already have this information...from the military?"
 
@@ -138,7 +138,7 @@ The research questions we sought to address:
 > "I would like to know how all this information is used and what security measures are taken. My husband is really concerned about security, he wouldn't upload his DD214."
 
 ### Participants only want to answer questions that are relevant to them and their situation.
-- The flow should be examined to find ways to reduce the respondent burden. Automatic qualifying factors, one question per page, and more questions that are dependencies can all be considered. 
+- Participants were frustrated by having to answer irrelevant questions. They also were frustrated by having to fill in information that felt nonsensical, such as when biological children became dependents or providing income for adult children. 
 > "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
 
 ## Key Findings - Section specific
@@ -237,7 +237,7 @@ The service history page causes confusion for two main reasons:
 
 ### Development
 1. Explore ways to remove the repeated name, birthdate, and Social Security number for the unauthenticated experience
-2. Explore ways to implement VA Facility locator API
+2. Explore ways to better implement VA Facility locator
 3. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
 4. Make sure that all button and link treatment and behavior is correct (in collaboration with design)
 
