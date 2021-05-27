@@ -17,7 +17,7 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 - Product Management:  Chris Dyer
 - Front-End Engineering: Dat Tran 
 - Back-End Engineering: Kevin Mircovich
-- Research and Design: Dené Galbadón 
+- Research and Design: Dené Gabaldón
 
 ### Key Documents
 
