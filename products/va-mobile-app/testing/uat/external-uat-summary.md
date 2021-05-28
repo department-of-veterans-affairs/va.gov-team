@@ -163,7 +163,7 @@ Consider using a primary button at the end of the form instead of _Save_ action 
 
 ---
 
-### Feature  Suggestions
+### Feature Suggestions
 
 #### RX list
 
