@@ -27,10 +27,13 @@ Lots of VAMC system product changes happening
 
 **Menu lockdown**
 
+Menu items missing
+* No "live report" yet, but the latest as of May 28:  
+
 Incoming menu UX changes in the coming weeks
-* Menus on all node view screens (Eg [Saranac Lake VA Clinic](https://pr5468-sbfhan6rl6jarzcwkrvrpqghxnub9jsh.ci.cms.va.gov/albany-health-care/locations/saranac-lake-va-clinic))
+* Menu items will be required on VAMC Detail Pages ... we may merge this sooner than later. 
+* New feature! Menus on all node view screens (Eg [Saranac Lake VA Clinic](https://pr5468-sbfhan6rl6jarzcwkrvrpqghxnub9jsh.ci.cms.va.gov/albany-health-care/locations/saranac-lake-va-clinic))
 * No weight or description fields on Menu settings 
-* Menu items will be required on VAMC Detail Pages 
 * "Detail Page" content type will be renamed "VAMC Detail Page"
 * Does VAMC upgrade team ever rewrite menu item titles? See [#5469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5469) 
 * Does VAMC upgrade team ever uncheck "Enable in menu" checkbox? We placed it here a long time ago but would like to remove it from normal editors, who should never uncheck it.  Content admins can still disable menu items (keeps them in the UI) on the menu admin screen. [See #5470](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5470)
