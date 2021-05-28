@@ -21,6 +21,32 @@
 
 </details>
 
+## Friday May 28
+
+**Menu lockdown**
+
+
+
+Incoming menu UX changes in the coming weeks
+* Menus on all node view screens (Eg [Saranaic Lake VA Clinic](https://pr5468-sbfhan6rl6jarzcwkrvrpqghxnub9jsh.ci.cms.va.gov/albany-health-care/locations/saranac-lake-va-clinic)
+* No weight or description fields on Menu settings
+* Menu items will be required on VAMC Detail Pages
+* "Detail Page" content type will be renamed "VAMC Detail Page"
+* Eligible parents have changed a bit, we've added `work-with-us/jobs-and-careers` and `work-with-us/volunteer-or-donate` as eligible parents
+* Can the full caps for breadcrumbs be cleaned up as part of launch? 
+
+Pittsburgh IA updates happening next week
+* [Full list of redirects](https://airtable.com/shrf9O0nAUavSJjI7) to be added next week
+* No changement (per VHA) 
+
+**Policies page**
+
+
+**Help desk triage**
+
+
+
+
 ## Friday May 21
 
 * Help desk triage
