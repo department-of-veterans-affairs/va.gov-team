@@ -10,3 +10,12 @@ The following resources were added to AWS to facility the single page publish PO
 * Preview Server: http://preview-dev.vfs.va.gov/preview
 
 ![image](https://user-images.githubusercontent.com/121603/120035192-2d596900-bfcc-11eb-9b2b-ef7a534094e5.png)
+
+## Lambda function deploy process
+
+The source code for the lambda function is stored in the content-build repostiory at https://github.com/department-of-veterans-affairs/content-build/blob/1bd449c5fff6a2042843f81baf2ec13c49d646b3/src/platform/lambdas/single-page-build.js, current in PR: https://github.com/department-of-veterans-affairs/content-build/pull/177
+
+1. When a new commits is pushed a Github Action runs: https://github.com/department-of-veterans-affairs/content-build/blob/1bd449c5fff6a2042843f81baf2ec13c49d646b3/.github/workflows/single-page-build.yml
+1. Use webpack to compile a single javascript page: https://github.com/department-of-veterans-affairs/content-build/blob/1bd449c5fff6a2042843f81baf2ec13c49d646b3/config/webpack.single-page-build.js
+1. Compress the javascript page and put on s3: `vetsgov-website-builds-s3-upload/single-page-build/master/function.zip`
+1. Tell the lambda function to publish a new version using the new code from s3.
