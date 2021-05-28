@@ -29,7 +29,7 @@ Who is this request for?
 
 - [Insert Name(s)]
 
-    _Send Slack message to DSVA Slack Channel, `#VFS-Platform-Support`, that includes: email address(es) for user(s) requesting data and link to this Github issue._
+    _Send Slack message to DSVA Slack Channel, `#VFS-Platform-Support`, that includes: email address(es) for user(s) requesting data, link to this Github issue, and tag `@platform-analytics`._
     
 - What team/project is this work for?
 
