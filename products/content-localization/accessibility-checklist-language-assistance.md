@@ -1,4 +1,4 @@
-### Staging Review Process doc: 
+## Staging Review Process doc: 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required
 
 Checklist of the recommended and required accessibility tests have been completed by FE (Fareez Ahmed) for this effort.
