@@ -25,14 +25,17 @@
 
 **1. Policies page**
 
-Timing of comms from VHA about new Policies pages
+Timing of comms from VHA about new Policies pages.
+
+* Training: https://prod.cms.va.gov/help/access-training/session-5-detail-pages
+* On VAMC upgrade team to take this across the line (archive old and change URL alias to add `-old`, publish new at `/policies`, and update Prepare for your visit accordion link where necessary). 
 
 **2. Menu lockdown**
 
 Epic [#2427](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427)
 
 Menu items content issues
-* Malstructrured menus fixed!
+* Malstructured menus fixed!
 * issues with `<nolink>` fixed!
 * As of as of late May 28 [198 Detail Pages missing menu items](https://airtable.com/shrjv5gb1dLELE7FS), down from 233 on May 24. No "live report" yet. Not sure if this is a blocker for CMS team, but the URLs for these will get _worse_ after when we merge our menu work, so this will be a blocker for full launch for these products. 
 
@@ -52,15 +55,25 @@ Incoming menu UX changes in the coming weeks which we will be announcing
   * -health-care/programs (66)
   * -health-care/research (68)
 * Can the full caps for `<nolink>` menu items breadcrumbs be cleaned up as part of dual state launch? They are great for VAMC upgrade team but bad for PAOs. 
-* All VAMC upgrade team members must now be content admins, because otherwise they are shut out of menu editing. CMS team doesn't currently offer "content admin training", but Lisa and Stan have been content admins all along. Great power, great responsibility yadda yadda. 
+  * VAMC upgrade team tech debt to 
+  * Rolling forward: Sentence case.
+  * CMS team could reduce the list of options based on Section choice (string matching) #5471
+  * CMS team could update past content
+* All VAMC upgrade team members must now be content admins, because otherwise they are shut out of menu editing. CMS team doesn't currently offer "content admin training", but Lisa and Stan have been content admins all along. Great power, great responsibility yadda yadda.
+  * VAMC upgrade team and Dave will discuss 
+  * Content_publisher will soon lose cloning and content release trigger.
+* Health service migration 
+  * VISN 7 and 8 health services on prod by Wednesday EOD, possibly sooner. 
+
+
+CMS team action items 
+* Debug /node/add/vamc-policies doesn't autopopulate menu item title
+* Estimate some migration stories for Care coordinator and Top task pages 
 
 
 Pittsburgh IA updates happening next week
 * [Full list of redirects](https://airtable.com/shrf9O0nAUavSJjI7) to be added next week
 * No change management (per VHA) 
-
-Content release permissions
-* Will only be available to content_admins starting soon.
 
 **3. Preventing duplicate content**
 
@@ -69,10 +82,23 @@ Content release permissions
 3. Only one of each top task page per VAMC system (so far, just Policies)
 4. Only one Operating Status page per VAMC system
 
-
 **4. Help desk triage**
 
+* Access to JIRA etc OK? 
+  * Back to normal, but access via Citrix can be an issue. 
+  * VAMC help desk team will tag both emails 
+* Elevating user from Hudson Valley? 
+  * Dual state, completed training 
 
+
+**5. Training**
+
+Some users (at least one, possibly more) are completing Training 5 only then saying their done. 
+ * Dave will communicate this to VHA HQ
+ * Others are just turning on the training and letting it run
+
+PAOs needing hand-holding
+ * We have data on tickets per user that we can use to see who's who.
 
 
 ## Friday May 21
