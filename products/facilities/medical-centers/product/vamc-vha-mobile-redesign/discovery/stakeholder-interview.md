@@ -1,5 +1,6 @@
 # Stakeholder Discovery
 
+[DRAFT]
 
 
 
@@ -19,7 +20,7 @@
 - Are you solely responsible for this or do you share responsibilities with others?
 - 
 
-Mind dump
+## Mind dump
 How does a schedule get created?
 Does the schedule change?
 What causes schedule changes?
