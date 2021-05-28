@@ -209,8 +209,22 @@ It should be possible to use Formik directly without any issues. The form page
 builder sub-module intends to make using the design system with Formik simpler.
 
 ##### Validation
-TODO: Explain validation in detail or link to the Formik documentation.
-TODO: Don't forget to handle focus.
+One of the benefits the current forms library provides is field validation.
+Error messages appear only on fields that have been touched or on all fields
+after page navigation is attempted.
+
+Formulate will use the baked-in validation handling from Formik. See [When Does
+Validation
+Run](https://formik.org/docs/guides/validation#when-does-validation-run) and
+[Form Submission:
+Validation](https://formik.org/docs/guides/form-submission#validation) for more
+details on how Formik handles validation. For an example of when validation
+runs, you can find examples using `ErrorMessage` on codesandbox.io such as [this
+one](https://codesandbox.io/s/olql6q2m1q).
+
+In addition to displaying error messages on touched fields, when form submission
+occurs (including during page navigation), Formulate will focus on the first
+field with an error message.
 
 #### Routing
 This sub-module will be responsible for the user navigating through a multi-page
