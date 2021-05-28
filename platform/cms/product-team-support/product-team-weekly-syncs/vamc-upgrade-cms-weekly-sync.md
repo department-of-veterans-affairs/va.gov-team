@@ -27,23 +27,26 @@ Lots of VAMC system product changes happening
 
 **Menu lockdown**
 
+Epic [#2427](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427)
+
 Menu items missing
 * No "live report" yet, but the latest as of May 28:  
 
 Incoming menu UX changes in the coming weeks
-* Menu items will be required on VAMC Detail Pages ... we may merge this sooner than later. 
 * New feature! Menus on all node view screens (Eg [Saranac Lake VA Clinic](https://pr5468-sbfhan6rl6jarzcwkrvrpqghxnub9jsh.ci.cms.va.gov/albany-health-care/locations/saranac-lake-va-clinic))
+* Menu items will be required on VAMC Detail Pages 
 * No weight or description fields on Menu settings 
 * "Detail Page" content type will be renamed "VAMC Detail Page"
 * Does VAMC upgrade team ever rewrite menu item titles? See [#5469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5469) 
 * Does VAMC upgrade team ever uncheck "Enable in menu" checkbox? We placed it here a long time ago but would like to remove it from normal editors, who should never uncheck it.  Content admins can still disable menu items (keeps them in the UI) on the menu admin screen. [See #5470](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5470)
-* Eligible parents have changed a bit, we've added `work-with-us/jobs-and-careers` and `work-with-us/volunteer-or-donate` to the list of eligible parents that are will be going out in the coming week or two.
-  * -health-care/work-with-us/internships-and-fellowships
-  * -health-care/work-with-us/doing-business-with-us
-  * -health-care/work-with-us/jobs-and-careers
-  * -health-care/work-with-us/volunteer-or-donate
-  * -health-care/programs
-  * -health-care/research  
+* We'll be resetting all URLs for Detail pages to "Generate automatic URL alias". Many have had this unchecked because the URL alias had to be generated. 
+* Eligible parents have changed a bit, we've added `work-with-us/jobs-and-careers` and `work-with-us/volunteer-or-donate` to the list of eligible parents that are will be going out in the coming week or two. Here are the numbers so far on prod. Goal was to have these pages created by the time our announcement goes out, which could next week... looks like we're pretty close. 
+  * -health-care/work-with-us/internships-and-fellowships (91)
+  * -health-care/work-with-us/doing-business-with-us (45)
+  * -health-care/work-with-us/jobs-and-careers (89)
+  * -health-care/work-with-us/volunteer-or-donate (89)
+  * -health-care/programs (66)
+  * -health-care/research (68)
 * Can the full caps for `<nolink>` menu items breadcrumbs be cleaned up as part of dual state launch? They are great for VAMC upgrade team but bad for PAOs. 
 * All VAMC upgrade team members must now be content admins, because otherwise they are shut out of menu editing. CMS team doesn't currently offer "content admin training", but Lisa and Stan have been content admins all along. Great power, great responsibility yadda yadda. 
 
