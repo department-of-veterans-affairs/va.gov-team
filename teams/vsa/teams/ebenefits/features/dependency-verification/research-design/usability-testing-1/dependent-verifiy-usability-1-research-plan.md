@@ -99,12 +99,14 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- James Adams | jadams@governmentcio.com -- Designer<!-- - Matt Self | matt.self2@va.gov -- Product Co-Owner -->
+- James Adams | jadams@governmentcio.com -- Designer
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
 - Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
 - Observers -- various as available
 - Others -- Pending
+
+<!-- - Matt Self | matt.self2@va.gov -- Product Co-Owner -->
 
 ### Resources
 - [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification)
