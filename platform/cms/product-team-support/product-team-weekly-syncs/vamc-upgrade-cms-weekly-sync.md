@@ -25,19 +25,27 @@
 
 **Menu lockdown**
 
-
-
 Incoming menu UX changes in the coming weeks
 * Menus on all node view screens (Eg [Saranaic Lake VA Clinic](https://pr5468-sbfhan6rl6jarzcwkrvrpqghxnub9jsh.ci.cms.va.gov/albany-health-care/locations/saranac-lake-va-clinic)
 * No weight or description fields on Menu settings
 * Menu items will be required on VAMC Detail Pages
 * "Detail Page" content type will be renamed "VAMC Detail Page"
 * Eligible parents have changed a bit, we've added `work-with-us/jobs-and-careers` and `work-with-us/volunteer-or-donate` as eligible parents
+  * -health-care/work-with-us/internships-and-fellowships
+  * -health-care/work-with-us/doing-business-with-us
+  * -health-care/work-with-us/jobs-and-careers
+  * -health-care/work-with-us/volunteer-or-donate
+  * -health-care/programs
+  * -health-care/research  
 * Can the full caps for breadcrumbs be cleaned up as part of launch? 
+* All VAMC upgrade team members must now be content admins, because otherwise they are shut out of menu editing. CMS team doesn't currently offer "content admin training", but Lisa and Stan have been content admins all along. Great power, great responsibility yadda yadda. 
 
 Pittsburgh IA updates happening next week
 * [Full list of redirects](https://airtable.com/shrf9O0nAUavSJjI7) to be added next week
 * No changement (per VHA) 
+
+Content release permissions
+* Will only be available to content_admins starting soon.
 
 **Policies page**
 
