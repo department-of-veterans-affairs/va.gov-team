@@ -11,7 +11,27 @@ We have a handful of highly skilled individuals on the OCTO-DE side who are expe
 ---
 
 ## How might we...
-_...define a) what kind of practice leadership responsibilities are needed in our ecosystem, b) what's needed for someone to be **successful** at those responsibilities, c) in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, and d) thus where we have gaps that OCTO-DE will need to figure out how to fill?_
+_...define come to an agreed upon understanding of what roles we **need** and what the responsibilities are of those roles, so that we can proceed 
+
+a) what kind of practice leadership responsibilities are needed in our ecosystem, b) what's needed for someone to be **successful** at those responsibilities, c) in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, and d) thus where we have gaps that OCTO-DE will need to figure out how to fill?_
+
+---
+
+## Workshop goals / desired outcomes
+- Understand the full gamut of what our VA.gov ecosystem needs from practice leadership
+- Understand what the current individuals in these roles _want_ to be spending their time on (and what they don't want to be spending their time on)
+- Understand what gaps we need to fill
+- Ideate around how to fill those gaps
+
+## Questions the workshop should answer
+- What do VFS teams expect from practice leads today?
+- What do Collab Cycle members expect from practice leads today?
+- What does OCTO-DE expect from practice leads today?
+- What work do the practice leads do today that they weren't expecting to?
+- What things are practice leads doing today that they believe should be done by someone else? (and is that a different existing entity, or a net new role?)
+- In what ways do the current practice leads feel blocked?
+- What would practice leads like to be doing that they don't have bandwidth for today?
+- What does support look like for the current people in the practice lead roles to be able to execute on their visions / plans / initiatives?
 
 ---
 
@@ -67,11 +87,3 @@ Process
 - Working on a research revamp this quarter, but sure we'll need more of that in the future -- can see research ops being a full time job for at least one person maybe more
 - The research ops person doesn't have to be octo-de / usds, but want a really great researcher in that role. could still be that octo sponsor though for collab / questions / oversight if needed. there's a lot of day to day stuff that would be great for someone to truly own.
 - Would be great to have some structure for research side in design intent
-
----
-
-## Workshop goals / desired outcomes
-- lorem
-
-## Questions the workshop should answer
-- lorem
