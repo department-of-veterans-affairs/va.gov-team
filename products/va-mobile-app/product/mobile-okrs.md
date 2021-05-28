@@ -8,6 +8,8 @@ What value does the app provide to Veterans? Our big bet is that:
 
 *How will we know whether we were right about this bet?*
 
+This bet and the measures of success will change over time; the metrics below are for 
+
 ---
 
 ## Measures of Success for Veterans
@@ -96,6 +98,8 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 ## How might our goal for the app change over time?
 
+![image](https://user-images.githubusercontent.com/7320097/113216231-fecc4580-9249-11eb-9894-8eeb96c8d0f3.png)
+
 - Now - Companion App: Vets who already consume VA services and engage with VA websites find it easier to complete transactions on the mobile app (companion to the website)
 
 - Next - Channel of Choice: A subset of Veterans _prefer_ managing their benefits on the app over using VA websites (mobile app becomes their preferred channel). Requires setting up analytics to track individual user's behavior across web and mobile
@@ -118,4 +122,4 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 - Relationship to VA.gov: do we cannibalize traffic for some users? Or we might find that it increases digital engagement overall (ie, Vets who interact more on mobile, also interact more on VA.gov and MHV)
 
-![image](https://user-images.githubusercontent.com/7320097/113216231-fecc4580-9249-11eb-9894-8eeb96c8d0f3.png)
+
