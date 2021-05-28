@@ -34,9 +34,9 @@ Health Products
 ### Team Members:
 - DEPO Product Lead: Ming Ligh
 - DEPO Engineering Lead: Mike Chelen
-- Team Product Manager: Alayna Abel
-- UX/Research: Jonathan Nelson
-- Front-End Engineering: Justin Linn
+- Team Product Manager: Chris Dyer
+- UX/Research: Dené Gabaldón
+- Front-End Engineering: Dat Tran
 - Back-End Engineering: Kevin Mircovich
 
 ---
