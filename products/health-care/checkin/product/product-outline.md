@@ -78,7 +78,7 @@ A Pilot site will be chosen (possibly Martinsburg, West Virginia). Once the site
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - 
+  - tbd
 ---
 
 ## Solution Narrative
