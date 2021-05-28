@@ -57,40 +57,39 @@ This topline summary is a high level, top of mind summary of trends found in the
 ## Hypotheses & Answers
 
 **Veterans want to search for a single list, containing both VA and community emergency care options**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- Likely
+- Most participants seemed to choose "All in-network" before other options, but some appreciated the specific VA and VA community partners distinction
+> [P10] "I see in network stuff...then you get to the centers with limited services and hours like clinics. It puts all the information right here, that is good."
 
 
 **Veterans understand they can go to any local emergency room, not just those in the results list**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- Likely
+- From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
+> [P2] "Going to the ER is still covered 100% from VA, even if I'm not able to get to the VA itself."
 
 
 **Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- True
+- Nearly all participants recognized "in-network" as meaning only connected to the VA, including explicity VA facilities.
+> [P4] "If I'm on a VA website, I would want everything to be in-network unless I choose otherwise"
 
 **The facility type label "In-network emergency care" does not introduce confusion about other facility types**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- False
+- While nearly all participants expressed understanding of the phrase "in-network", it's presence in the Facility type dropdown did introduce confusion.
+> [P5] "In-network emergency care, to me that is a stumbling block...I would wnat to hit 'Emergency care', then have the explanation."
 
 **Veterans understand how to learn more about community care emergency benefit [explained elsewhere](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- Unlikely
+- While most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize access to more information present in the search results.
+> [P11] "The blue info notice means I can go there [the physical location]...they will accept Veteran's insurance."
 
 **Participants will understand what to do in case of emergency**
-- More details
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- True
+- From personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention.
+> [P6] "Common sense if you have an emergency call 911."
 
 ## Other Findings
 
-**Other finding #1**
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+**Participants' first choice under the Facility type dropdown**
+- Most participants' first choice was the "Urgent care" option, based on the scenario prompt ("immediate care"), or from personal association with the kinds of services offered at urgent care facilities.
+- The next most popular choice was the "VA health" option, where participants seemed to like its all-inclusiveness, and then selected specifics under the "Service type" dropdown.
