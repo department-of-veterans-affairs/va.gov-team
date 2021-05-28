@@ -14,24 +14,33 @@ What value does the app provide to Veterans? Our big bet is that:
 
 **All KPIs tracked in spreadsheet [here](https://docs.google.com/spreadsheets/d/1G-Ru00IIEVCeMbYMqWVDTLO0f4WDdVrchPp0dIHM1N4/edit#gid=1172783502)**
 
-### Objective: Veterans enjoy using the app
+### In-App Objective: Veterans can and will more easily complete actions on the app compared to other veteran-facing platforms.
 
-- KR: Maintain a high App Store and Google Play star rating (4 stars or above)
+- KR: Establish a baseline for the uptake of services
+  - Utilization of profile, secure messaging, claims, appointments, and letters
+ 
+- KR: Equal or lower transaction times compared to VA.gov key transactions
+  - Screen-time to transaction copletion on profile, SM, claims, appointments, letters (time) 
 
-- KR: Receive a high (>65%) proportion of positive comments
+
+### App Objective: Veterans can access their authenticated experience quickly and easily on the mobile app.
+
+- KR: Establish baseline biometric uptake
+  - KPI: Biometric login opt-in rate
+
+- KR: Increase login success rates compared to VA.gov
+-   KPI: Login start-success rate
 
 
-### Objective: Veterans find the app valuable enough to download and use
+### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
 
-- KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
+-KR: We are placed in app store
+  - App store approvals
+  - Downloads
 
-- KR: High usage of the app _[once we have a more splashy app store launch]_
+- KR: We have approval from VSP and OCTO stakeholders
+  - Approvals from VSP and OCTO stakeholders
 
-  - KPI: number of app downloads
-
-  - KPI: daily or monthly active users
-
-  - KPI: number of times each feature is used (as an indication of how valuable it is)
 
 
 ### Objective: Veterans can more easily complete transactions on the app than they can on desktop or mobile web
