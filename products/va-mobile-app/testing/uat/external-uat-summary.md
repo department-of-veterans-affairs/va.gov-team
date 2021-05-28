@@ -20,10 +20,11 @@ We recruited 12 and spoke to 5 participants who can be described as follows:
 
 Here, the issues found are summarized and the relevant follow up ticket is linked. We did not note any issues that had previously come up in our [internal UAT testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/internal-uat-summary.md). **We are keeping close track of issues found in a Google Sheet that is accessible to internal team members. Please reference the internal Google Sheet and/or the related ZenHub tickets for the most recent information about an issue. This document serves to document issue findings but will not be updated as issues are resolved.**
 
-This section is broken into 3 parts:
-- Critical and High Issues
-- Medium and Low Issues
-- Future Improvements and Feature Suggestions
+This section is broken into 4 parts:
+- [Critical and High Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#critical-and-high-issues)
+- [Medium and Low Issues]()
+- [Future Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#future-improvements)
+- [Feature Suggestions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#feature-suggestions)
 
 
 ### Critical and High Issues
