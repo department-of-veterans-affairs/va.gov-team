@@ -43,7 +43,7 @@ An example of a completed request template can be found [here](https://github.co
 - Who is this request for?
 
     - [Insert Name(s)]
-    _Provide any relevant contact information and link this issue to the insights team on the DSVA Slack Channel: `#VFS-Platform-Support`._
+    _Provide any relevant contact information and link this issue on the DSVA Slack Channel: `#VFS-Platform-Support` and tag `@platform-analytics`._
     
 - What team/project is this work for?
     _this adds context for the data_
