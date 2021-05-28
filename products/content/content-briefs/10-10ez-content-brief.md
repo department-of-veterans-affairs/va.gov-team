@@ -1,6 +1,6 @@
 # VA.gov content brief for 10-10EZ
 
-**Created by the VA.gov sitewide content team for the .**
+**Created by the VA.gov sitewide content team for the 10-10EZ team on 5-25-21.**
 
 **Questions about this brief?**
 - Ask us in our slack channel: #va-sitewide-content
@@ -11,7 +11,7 @@
 Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. This brief will help your team create content for your product that aligns with the VA.gov voice and content standards. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. We’ll work with your team to update it as we go.
 
 ## Established content standards for this product/benefit area
- on the static Board Appeals page: https://www.va.gov/decision-reviews/board-appeal/, which is "Can I request a Board Appeal.
+
 
 ## The 5 basics 
 
@@ -47,14 +47,15 @@ Follow these content style best practices:
 - People don't know what qualifies for the different fields (spouse, parents, dependents, reimburseable expenses, etc.)  
 - People are scared that the way they answer a question will automatically disqualify them. Specific to the military service section (it's just a long list of situations), if they get military compensation, financial disclosure (wish I knew exactly what the threshold is), whole household information section.  
 - People want more information about their privacy (for example, how is my DD214 upload protected)
-- On intro page
-  - people seem to like the prepare (list of things to gather)
-  - people liked that there was a mention of dental and vision benefits
-  - people didn't really mention the expectations after applying; they cared about that at the end
-  - people's first instinct (more than half) was to click the top button  
+- On intro page:
+  - People seem to like the prepare (list of things to gather)
+  - People liked that there was a mention of dental and vision benefits
+  - People didn't really mention the expectations after applying; they cared about that at the end
+  - People's first instinct (more than half) was to click the top button  
 
 ## Notes from stakeholders
 
 
 ## Other notes
-- New style for H1 is: Plain language CTA | New style for subhead is: Official form name (VA Form ####)
+- New style for H1 is: Plain language CTA: Apply for VA health care
+- New style for subhead is: Official form name (VA Form ####): 
