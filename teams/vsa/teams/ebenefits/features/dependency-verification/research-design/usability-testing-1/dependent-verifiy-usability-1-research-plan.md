@@ -7,13 +7,13 @@
 
 ### Background
 
-Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dpendents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, leaving school and a few other circustances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
+Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dependents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, children leaving school and a few other circmustances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
 
-To short circuit this issue, the eBenefits team has created an intercept modal resiing o the View Dependents page. Veterans must log in to see this screen, and when they navigate to the dependents page, a check will occur against a notification date. The modal will prompt the Veteran to review the VA record of their dependents, and will be asked to add or remove dependents if necessary.
+To short circuit this issue, the eBenefits team has created an intercept modal residing on the View Dependents page. Veterans must log in to see this screen, and when they navigate to the dependents page, a check will occur against a notification date. The modal will prompt the Veteran to review the VA record of their dependents, and will be asked to add or remove dependents if necessary.
 
 ### Goals
 
-The goal of this usability study is to determine the efectiveness of the intercept modal in prompting users to confirm or change their dependents. Secondarily, we want to gauge user acceptance of this notification method, as well as how easily users locate the "add" and "remove" dependents features. Last, we want to determine if the text presented is clear and helpful, and if the user understands what their next steps are.
+The goal of this usability study is to determine the effectiveness of the intercept modal in prompting users to confirm or change their dependents. Secondarily, we want to gauge user acceptance of this notification method, as well as how easily users locate the "add" and "remove" dependents features. Last, we want to determine if the text presented is clear and helpful, and if the user understands what their next steps are.
 
 
 #### Guiding questions
@@ -50,7 +50,7 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 
 Recruit for 5 fulfilled sessions using the following criteria:
 
-**Critical participant critertia**
+**Critical participant criteria**
 - Participants must receive VA compensation payments
 
 **Must have for participants**
