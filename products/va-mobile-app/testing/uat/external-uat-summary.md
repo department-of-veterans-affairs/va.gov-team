@@ -22,7 +22,7 @@ Here, the issues found are summarized and the relevant follow up ticket is linke
 
 This section is broken into 4 parts:
 - [Critical and High Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#critical-and-high-issues)
-- [Medium and Low Issues]()
+- [Medium and Low Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#medium-and-low-issues)
 - [Future Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#future-improvements)
 - [Feature Suggestions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md#feature-suggestions)
 
@@ -160,6 +160,8 @@ Re-consider where font scaling is not enabled in the app (e.g Header, Toolbar Na
 #### Address Update/Edit
 
 Consider using a primary button at the end of the form instead of _Save_ action in the upper right of screen. One participant who tried to add their address had trouble finding Save action.
+
+---
 
 ### Feature  Suggestions
 
