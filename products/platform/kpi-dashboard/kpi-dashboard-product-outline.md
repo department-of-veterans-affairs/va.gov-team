@@ -14,7 +14,7 @@
 | Chloe Brown    | @chloe brown   |
 | Jason Cavnar   | @jason cavnar  |
 | Brian Martin   | @brian martin  |
-| Lauren Simpson | @chloe simpson |
+| Lauren Simpson | @lauren simpson |
 
 
 ---
