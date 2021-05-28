@@ -23,9 +23,11 @@
 
 ## Friday May 28
 
-Lots of VAMC system product changes happening
+**1. Policies page**
 
-**Menu lockdown**
+Timing of comms from VHA about new Policies pages
+
+**2. Menu lockdown**
 
 Epic [#2427](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427)
 
@@ -60,17 +62,15 @@ Pittsburgh IA updates happening next week
 Content release permissions
 * Will only be available to content_admins starting soon.
 
-**Preventing duplicate content**
+**3. Preventing duplicate content**
 
 1. Only one facility health service per system health service per facility  
 2. Only one of each "list" content type per system (News releases, Events, Stories, Leadership, Locations, Health Services)
 3. Only one of each top task page per VAMC system (so far, just Policies)
 4. Only one Operating Status page per VAMC system
 
-**Policies page**
 
-
-**Help desk triage**
+**4. Help desk triage**
 
 
 
