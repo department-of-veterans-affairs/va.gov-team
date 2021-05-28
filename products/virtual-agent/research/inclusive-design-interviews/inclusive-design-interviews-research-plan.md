@@ -1,4 +1,4 @@
-# Research Plan for Virtual Agent Inclusive Design Interviews, 5/18/2021
+# Research Plan for Virtual Agent Inclusive Design Interviews, 6/x/2021
 
 As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.
 
@@ -14,20 +14,23 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-We want to conduct research to answer qualitative feedback about our product which tie into our success metrics for the product, including questions such as:
+A large percentage of Veterans live with a disability, including auditory disabilities, cognitive, learning, and neurological disabilities, PTSD, physical disabilities, speech disabilities and visual impairment.  We also know there are accessiblity challenges with chatbots as well as with the current chatbot built on Power Virtual Agent. We want to conduct research to understand the use of chatbots by Veterans and capture qualitative feedback about our product, including:
 
-- What assistive technology do you use and for what tasks?
-- What were you trying to do using the chatbot and why?
-- Was there anything special about how you used the phrasing/language you used? 
-- Did you experience any errors and if so what did you do to correct them, if anything?
-- When did you stop interacting with the chatbot and why? At any point were you frustrated, overwhelmed or otherwise felt negative with the bot? 
-- Did the chatbot have the appropriate conversational tone?
-- Did you feel confident in the bot’s responses?
-- Was it easy to understand?
-- What’s something you liked about it?
-- What’s something that could be improved in the product?
-- Based on your experience, would you use this chatbot again to help answer questions or accomplish a task? Why or why not and when?
-- Any other feedback?
+- What assistive technology do Veterans use and for what tasks for va.gov
+- How Veterans normally contact the VA and how often and why
+- Do Veterans sign into va.gov - why or why not
+- How Veterans normally find information on va.gov
+- How often Veterans speak with a VA help desk/contact center
+- Have Veterans ever used a chatbot or virtual agent online
+- Have Veterans used the coronavirus chatbot on VA.gov
+- Did the chatbot we created answer questions accurately
+- Did the chatbot we created understand what participant were trying to ask
+- Did participants have the information needed to take the next step to complete the tas
+- If the chatbot wasn’t able to answer questions, how did that make participants feel
+- How do participants feel about the voice, tone, quality of the responses
+- Can a chatbot help reduce how often they contact the VA
+- Would participants be willing to use the chatbot again
+
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
@@ -48,11 +51,12 @@ Since we are also conducting a controlled study of the chatbot we will be lookin
     - Veterans will want the chatbot to transfer their conversation directly to a human agent. 
     - Veterans will expect that the chatbot cannot answer in depth questions. 
 
-
 ## Method
 1.	What method of research are you planning? 	
 
-We would like to conduct direct interviews with observation of the product.  While we are aware of some accessibility challenges in the product we’re using to make the chatbot, we would like to observe users with the product directly to understand if we are capturing all the problems and how severe they are.
+We would like to conduct direct interviews with observation of the product.  
+
+We are aware of some of the accessibility challenges in the product but would like to observe users with the product directly to understand more about these problems how severe they are and also gain feedback on the product itself.
 
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
@@ -84,7 +88,7 @@ Perigean's Zoom
 We are looking for 10 Veterans who have experiences with any of the following:
 
 - Auditory disabilities
-- Cognitive, learning, and neurological disabilities - autism, adhd, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning (such as learning, problem-solving, judgment, PTSD)
+- Cognitive, learning, and neurological disabilities - autism, adhd, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning (such as learning, problem-solving, judgment)
 - Physical (i.e. motor) disabilities
 - Speech disabilities
 - Visual impairment
@@ -103,18 +107,18 @@ Perigean
 
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 
-Yes, the product will be ready at staging.va.gov/virtual-agent.
+Yes, the product will be ready at staging.va.gov/virtual-agent-study.
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 
-Approximately 45 minutes sessions, with a 30 minute buffer in between.
+Approximately 30 minutes sessions, with a 30 minute buffer in between.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 
 **TO UPDATE**
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-A few days before June 1st - Luciana Morais and Katie Ho  **TO UPDATE**
+**TO UPDATE** - Luciana Morais and Katie Ho  **TO UPDATE**
 
 ## Team Roles
 
@@ -133,8 +137,6 @@ A few days before June 1st - Luciana Morais and Katie Ho  **TO UPDATE**
     - Kateleigh Clark (Kateleigh.Clark@va.gov)
     - Melody Laishram (Melody.Laishram@va.gov)
     - Patrick Onesty (patrick.onesty@va.gov)
-
-
 
 ## Resources	
 
