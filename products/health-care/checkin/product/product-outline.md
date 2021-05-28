@@ -58,6 +58,9 @@ All data will be available via Vets API integration. Data work is being done by 
 
 ## Solution Approach
 
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the Initiative Brief Template*
+
 **MVP**
 The MVP will first focus on day of the appointment check-in product only.
 
@@ -65,6 +68,8 @@ The MVP will first focus on day of the appointment check-in product only.
 Will focus on pre-check in (week before) and post visit functionality
 ![116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg (1280×720)](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
 
+
+- Initiative | Link to Initiative Brief
 
 --- 
 ## Go-to-market Strategy
