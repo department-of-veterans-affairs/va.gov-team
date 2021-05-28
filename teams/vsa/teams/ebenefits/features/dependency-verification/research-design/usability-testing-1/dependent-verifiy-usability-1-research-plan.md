@@ -40,7 +40,7 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 - The user will trigger the modal, then review the info presented
 - The user will then proceed via "confirmation" to the View Dependents screen
 - The moderator will prompt the user to explore next steps
-- Next, the user will be given a new "change" dependents scenario (use case)
+- Next, the user will return to the starting screen, and will be given a new "change" dependents scenario (use case)
 - The user will trigger the modal again, then review the info presented
 - The user will then proceed via "change dependents" to the View Dependents screen
 - The moderator will prompt the user to explore next steps within the "change" scenario
