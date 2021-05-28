@@ -52,7 +52,8 @@ For more info, check out:
 * [Documented decision for pivoting away from CMS Export](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)
 * [CMS Super Team draft charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2019-11-superteam-draft-charter.md)
 * [Notes about previous and future architecture states and work distribution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2020-01-drupal-publishing-current-future-states.md) 
-* [CMS Export overview/status update from Dec 2020](https://vfs.atlassian.net/l/c/0T4A217E) 
+* [CMS Export overview/status update from Dec 2020](https://vfs.atlassian.net/l/c/0T4A217E)
+* [CMS Export retrospective issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20325)
 
 ## Timeline 
 
