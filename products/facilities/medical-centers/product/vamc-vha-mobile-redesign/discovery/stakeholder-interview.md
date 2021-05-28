@@ -1,4 +1,7 @@
-# Questions
+# Stakeholder Discovery
+
+
+
 
 ## About the Stakeholder
 
@@ -15,3 +18,9 @@
 - What does success look like for you?
 - Are you solely responsible for this or do you share responsibilities with others?
 - 
+
+Mind dump
+How does a schedule get created?
+Does the schedule change?
+What causes schedule changes?
+How schedule changes get communicated?
