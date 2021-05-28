@@ -32,7 +32,8 @@ Incoming menu UX changes in the coming weeks
 * No weight or description fields on Menu settings 
 * Menu items will be required on VAMC Detail Pages 
 * "Detail Page" content type will be renamed "VAMC Detail Page"
-* Does VAMC upgrade team ever uncheck "Enable in menu" checkbox? We placed it here a long time ago but would like to remove it from normal editors, who should never uncheck it.  Content admins can still disable menu items (keeps them in the UI) on the menu admin screen. 
+* Does VAMC upgrade team ever rewrite menu item titles? See [#5469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5469) 
+* Does VAMC upgrade team ever uncheck "Enable in menu" checkbox? We placed it here a long time ago but would like to remove it from normal editors, who should never uncheck it.  Content admins can still disable menu items (keeps them in the UI) on the menu admin screen. [See #5470](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5470)
 * Eligible parents have changed a bit, we've added `work-with-us/jobs-and-careers` and `work-with-us/volunteer-or-donate` to the list of eligible parents that are will be going out in the coming week or two.
   * -health-care/work-with-us/internships-and-fellowships
   * -health-care/work-with-us/doing-business-with-us
