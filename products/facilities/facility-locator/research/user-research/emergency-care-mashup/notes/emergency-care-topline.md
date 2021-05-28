@@ -1,7 +1,5 @@
 # Emergency care mashup - Topline Summary
 
-// [Synthesis in progress]
-
 Prepared by: Nick Osmanski, VSA Facilities
 
 [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-plan.md)
@@ -16,7 +14,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 **The goal of this document is:**
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
- - To jump start synthesis by quickly organizing high level themes 
 
 - - - 
 
@@ -24,28 +21,38 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **What information do Veterans need/want from the Facility Locator search results when seeking emergency care?**
 
-- text line
-
+- Most participants expressed a desire for clear benefits information and procedures to be associated with search results.
+- Most participants emphasized the importance of finding the closest location.
+- A few participants expressed desire for an explicit list of available services per location in search results.
+- Some participant wanted search results to include all available (out-of-network) facilities,  and emphasized proximity as the main factor in choosing a location.
 
 **What information do Veterans need/want for community emergency care (in VA network) locations?**
 
-- text line
+- Nearly all participants wanted clearer and more easily accessible information about their benefits at community partners to be present in search results.
 
 **Can Veterans distinguish between these location types in a single list?**
 
-- text line
+- Most participants noticed the blue info alert associated with community partners, but it was unclear if they knew it was *only* associated with community partners.
+- Some participants quickly distinguished between location types by noticing the blue info alert associated with community partner results, and the presence of "VA" in the title of VA facilities.
 
 **Do Veterans understand that there are more locations available, than are present in the "in-network" results list?**
 
-- text line
+- Most participants understood that "in-network" meant VA and VA partner facilities, and that the search results reflected this.
+- As a result of personal experience, most participants expressed awareness that they could visit any emergency facility.
+- One participant expressed a desire for a more explicit "out-of-network" search option, to include non VA facilities.
 
 **Would Veterans click to learn more about community emergency care benefits?**
 
-- text line
+- Only two participants out of eight clicked on the blue info alert.
+- Most participants noticed the alert, but either did not intuitively recognize it as access to additional information about their benefits, or were simply unwilling to click it during the demo.
 
 **What information does a Veteran find helpful in preparing to go to a emergency care facility?**
 
-- text line
+- Participants had a range of responses, including:
+     - A clear understanding of services offered at the location
+     - Clear and easily accessible benefits information
+     - Clear and easily accessible information on the procedure for applying for benefits
+     - Reviews of the facility
 
 ## Hypotheses & Answers
 
