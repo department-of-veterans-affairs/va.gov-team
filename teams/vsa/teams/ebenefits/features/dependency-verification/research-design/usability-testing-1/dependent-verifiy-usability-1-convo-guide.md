@@ -29,14 +29,13 @@ There are a few things I need to mention before we start:
 
 * OK, now that I'm recording, do I have your permission to record this session?
 
-## Warm-up Questions - 5 minutes
+## Warm-up questions - 5 minutes
 * Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
-* Have you used eBenefits to add or remove dependents?
-* (If user has disability rating) Would you mind telling us what your disability rating is?
-* How often do you visit the eBenefits site? How about VA.gov?
+* Have you ever had to add or remove a dependent from your VA benefits? How did you do that?
+* How often do you use the eBenefits site? How about VA.gov?
 * **Now we're ready to start.** OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen" - just click that, select your screen, and hit share.
 
-
+<!--
 ## Wayfinding - 3 minutes
 ### User screenshares 
 * Before we go to the prototype we're testing, we'll take a quick look at VA.gov
@@ -47,7 +46,7 @@ There are a few things I need to mention before we start:
 #### Things to look for:
 * What is the user's thought process?
 * What interactive elements does the user look for (e.g. menu, links, footer...)?
-* What content/section does the user expect to have career and education benefits?
+* What content/section does the user expect to have career and education benefits?  -->
 
 ## Usability tasks
 User goes to prototype link
@@ -64,16 +63,14 @@ User goes to prototype link
 * Why do users think they are being asked to confirm their dependents?
 * What is the users’ perception of what the modal is telling them and what options are available?
 
-
-### Task 2 - Update Dependents  - 3 minutes
+### Task 2 - Locate update dependents  - 3 minutes
 * Imagine that, as you look at this list, you realize that this list is not correct.
 * How would you update your dependents? 
 
 #### Things to look for:
 * Do users identify the “continue” button as a way to make updates?
 
-
-### Task 3 - Remove a dependent / 2 minutes
+### Task 3 - Remove a dependent - 2 minutes
 * Imagine that your child aged out of benefits a few months ago.
 * How would you notify the VA that {name from prototype} should no longer be on your account? 
 * Probe after they choose a path: Why is it important to update your dependents?
@@ -85,8 +82,7 @@ User goes to prototype link
 * Do users understand what could happen if their dependents are wrong?
 * What do users expect will happen after they remove a dependent? 
 
-
-### Task 4 - Add a dependent / 2 minutes
+### Task 4 - Add a dependent - 2 minutes
 * Imagine that you now have a step-child living with you and you would like to see if they can receive benefits.
 * How would you notify the VA that you have a new dependent?
 * Probe after they finish task: - What would you expect to happen now?
@@ -95,8 +91,7 @@ User goes to prototype link
 * Does the user find the “add dependent” button?
 * What do users expect will happen after they add a dependent? 
 
-
-### Task 5 - Alt Path from Modal / 2 minutes
+### Task 5 - Alt path from Modal / 2 minutes
 * Let’s return to that screen where you were first presented with a list of dependents. 
 * What would you do here if this list was correct?
 * Probe if not answered in previous tasks:
@@ -104,9 +99,6 @@ User goes to prototype link
 
 #### Things to look for:
 * What does the user expect to happen when they click the “no change” button?
-
-
-
 
 ## Final thoughts
 * If this were an actual application, what would expect to happen next?
@@ -121,5 +113,3 @@ Looks like we covered everything on my list. (ALT) Looks like we're at (time), s
 
 ## Closing
 Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
-
----
