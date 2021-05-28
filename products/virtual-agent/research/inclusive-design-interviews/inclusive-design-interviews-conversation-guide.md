@@ -24,20 +24,76 @@ The VA acknowledges that a large percentage of Veterans live with a disability o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 min.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this interview, we want to hear your honest opinions.** We are not testing your ability to use technology or chatbots. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **If for any reason and at any time you want to stop the interview, please let me know.** 
+- This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- In this interview, we want to hear your honest opinions about how you interact with va.gov and its products to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- If for any reason and at any time you want to stop the interview, please let me know.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*  - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Questions
+## Background
+
+_About you_
+
+- What assistive technology do you use and for what tasks? Are there things you can’t do with assistive technology in terms of va.gov you’d like to be able to?
+
+- What other resources do you use to help you complete tasks when dealing with the VA 
+    - Non-VA staff - family member, other Veterans…?
+    - VA staff - help desk, etc. VA facility
+    - Other
+
+
+_Your relationship with the VA and finding info_
+
+- How do you normally contact the VA and how often? What channels (phone, email etc.)
+
+- Do you always sign in? Please describe why or why you do or don't.
+
+- How do you normally find information you need on VA.gov?
+
+- How often do you speak with a VA help desk/contact center to help you resolve an issue? Daily, several times a week, weekly, monthly, every few months, yearly
+
+- What were some of the reasons you called a VA help desk/contact center?
+
+- Have you ever used a chatbot or virtual agent online? If yes, do you remember which one? If no, any particular reason why?
+
+- Over the past year, have you used the coronavirus chatbot on VA.gov? If yes, please describe your experience.
 
 
 
 
+## Product demo
 
+
+
+**This section TBD**
+
+
+
+- Did the chatbot answer your questions accurately? 
+    a) All of the time; b) Most of the time, c) Some of the time; d) The chatbot did not answer any of my questions accurately; e) I don't know.
+
+-Did the chatbot understand what you were trying to ask 
+    a) Yes; b) No; c) Somewhat 
+
+- After reading the response, did you have the information you needed to take the next step to complete your task?
+    a) Yes; b) No; c) Somewhat 
+
+- If the chatbot wasn’t able to answer your question, how did that make you feel?
+
+- The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? 
+    a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know.
+
+- How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
+
+- How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
+
+- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
+
+- Based on your experience today, are you willing to use the chatbot again?
+
+- Do you have any other feedback you'd like to share?
 
 
 ## Thank-You and Closing
