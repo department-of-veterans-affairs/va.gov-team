@@ -50,7 +50,7 @@ Incoming menu UX changes in the coming weeks
 
 Pittsburgh IA updates happening next week
 * [Full list of redirects](https://airtable.com/shrf9O0nAUavSJjI7) to be added next week
-* No changement (per VHA) 
+* No change management (per VHA) 
 
 Content release permissions
 * Will only be available to content_admins starting soon.
