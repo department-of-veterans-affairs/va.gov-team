@@ -37,29 +37,6 @@ Start recording.
 
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
--   First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
-
--   Great, that helps me troubleshoot with you if we run into any problems.
-
-If phone:
-
--   OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. 
-
--   If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show.
-
--   The buttons are Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". The ones that will be important for us today are "chat" and "share content." Any questions?
-
--   First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
-
--   Ok, tap anywhere on the screen to go back to the Zoom application.
-
--   Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
-
-If can't share
-
--   Backup plan if they cannot figure out how to share screen:
-
--   Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
 
 Warm-up Questions (all participants)
 ------------------------------------
@@ -106,6 +83,28 @@ Now I'd like to switch gears and get your thoughts on the demo tool I talked abo
 As I mentioned, some areas of the demo tool will be clickable, and some will not. Some things may not work as expected. If anything catches you by surprise, please let me know as we're going through the tool.
 
 We'll walk through sharing your screen. Then I'll send you a link to the demo tool.
+
+-   First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
+
+-   Great, that helps me troubleshoot with you if we run into any problems.
+
+**If phone:**
+
+-   OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. 
+
+-   If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show.
+
+-   The buttons are Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". The ones that will be important for us today are "chat" and "share content." Any questions?
+
+-   First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
+
+-   Ok, tap anywhere on the screen to go back to the Zoom application.
+
+-   Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
+
+**If can't share**
+
+-   Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
 
 *After prototype is open*
 
