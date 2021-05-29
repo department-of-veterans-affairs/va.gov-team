@@ -495,7 +495,7 @@ Wrap-up questions (all participants)
 
     -   (If they don't know) How would you expect to find out where you're registered?
 
-    -   Would this be useful to you?
+- Thinking back to everything you've seen today, would this be useful to you?
 
 Thank-You and Closing
 ---------------------
