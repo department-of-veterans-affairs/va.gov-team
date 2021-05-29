@@ -112,6 +112,10 @@ Thanks!
 
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
+[Jump to Scenario 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md#scenario-1---opt-out-flow-50-of-participants)
+
+[Jump to Scenario 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md#scenario-2---opt-in-flow-50-of-participants)
+
 Scenario 1 - opt-out flow (50% of participants)
 -----------------------------------------------
 
