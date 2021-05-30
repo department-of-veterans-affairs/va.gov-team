@@ -1,10 +1,3 @@
-# Conversation Guide for usability testing of Dependents Verification
-**VSA eBenefits Team | June 2021**
-
-`Candy Clark, designer/researcher`
-
----
-
 # Dependency verification usability testing conversation guide
 **VSA eBenefits Team | May 2021**
 
