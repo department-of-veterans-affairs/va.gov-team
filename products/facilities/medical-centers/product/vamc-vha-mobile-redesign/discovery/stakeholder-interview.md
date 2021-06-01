@@ -27,8 +27,10 @@
 - How long have you had one?
 - What has your mobile clinic been used for?
   - Has this changed from before the pandemic? During the pandemic?
-- Is the mobile clinic shared among VISNs, regions, districts?
 - Does the mobile clinic always come back to the same location; does it have a home base?
+- Are mobile clinics wheelchair accessible?
+- Are there transportation services available to Veterans, like DAV vans or shuttle services, for Veterans to get to a mobile clinic?
+- Do mobile clinics have their own phone number or are calls routed to another phone number?
 
 ## Users
 - Who uses mobile clinics? 
@@ -52,7 +54,9 @@
 
 Today VA.gov links to a very simple page. [Show local webpage]
 
-If you had a magic wand and could completely redesign this page, what would itlook like?
+- If you had a magic wand and could completely redesign this page, what would it look like?
+- If you could change only one thing, what would it be?
+- If you had to guess, what are the top three things that a Veteran would want to see on this page?
 
 ## Mobile clinics 
 
