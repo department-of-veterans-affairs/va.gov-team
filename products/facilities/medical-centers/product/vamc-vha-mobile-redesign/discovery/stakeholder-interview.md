@@ -1,9 +1,5 @@
 # Stakeholder Discovery
 
-[DRAFT]
-
-
-
 ## About the Stakeholder
 - Name: 
 - Title:
