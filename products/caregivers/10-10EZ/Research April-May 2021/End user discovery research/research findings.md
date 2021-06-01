@@ -1,4 +1,4 @@
-# [DRAFT] Caregiver, 10-10EZ Discovery research findings
+# Caregiver, 10-10EZ Discovery research findings
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 05/20/2021
