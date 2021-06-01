@@ -264,4 +264,4 @@ The service history page causes confusion for two main reasons:
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md)
-- [Research Findings Presentation PDF]
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf)
