@@ -8,15 +8,16 @@ Requesting mobile clinic information for webpage redesign
 
 Hello [Name], 
 
-I work with Dave Conlon on the VA.gov Facilities product team. We’re preparing to redesign mobile clinic webpages and as with all our product improvement initiatives, we like to start with research first. We want to learn from people who manage and work with mobile clinics every day. 
+I work on the VA.gov Facilities digital product team. We’re preparing to redesign mobile clinic webpages and as with all our product improvement initiatives, we like to start with research first. For this effort, we’d like to talk with people who manage and work with mobile clinics every day so that we can focus on the most impactful improvements. 
 
-What we’re looking to learn:
+Some of the things that we want to learn:
 
 - Which Veteran populations use your mobile clinic(s)
-- How Veterans learn about hours, locations, etc. today
-- Services provided by your mobile clinic 
-- Appointments, scheduling and eligibility 
-- Webpage improvements that you'd like to see
+- How do Veterans learn about mobile clinic hours, locations, etc. today
+- What services are provided by your mobile clinic 
+- What does eligibility look like and how are appointments scheduled? 
+- What webpage improvements would you like to see on this page:
+
 
 Are you available next week to chat for about an hour?  Also, let me know if there’s someone else that you think would be better suited to help us answer these questions.
 
