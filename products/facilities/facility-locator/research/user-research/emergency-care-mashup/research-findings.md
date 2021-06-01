@@ -3,7 +3,7 @@
 # Facility Locator - Emergency Mashup Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Facilities**<br>
 
-Nicholas Osmanski (nicholas.osmanski@va.gov), MM/DD/YYYY
+Nicholas Osmanski (nick.osmanski@amida.com), MM/DD/YYYY
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-plan.md).
 ## Research Goals 
