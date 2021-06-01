@@ -36,7 +36,7 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
 
-#### May 5-17: 10-10EZ Discovery** 
+#### May 5-17: 10-10EZ Discovery 
 *Caregivers, Research Lead: Dené Gabaldón*
 
 - Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
