@@ -115,7 +115,7 @@ Veterans:
 Segment #1: 10 participants who are female Veterans 
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
-Segment #2: 10 participants who are Male Veterans 
+Segment #2: 10 participants who are male Veterans 
 - For this demographic, aim for an equal number of participants across age brackets and conflicts/periods of service - so Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.
 
 Non-Veterans:
