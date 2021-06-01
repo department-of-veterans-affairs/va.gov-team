@@ -92,7 +92,7 @@ We’re going to ask you some questions about your disability as this study is h
 
 #### Observation consent
 
-- Would you be comfortable with 4 up to off-camera, observers present during the research session (including the facilitator)?
+- Would you be comfortable with up to 4 off-camera, observers present during the research session (including the facilitator)?
   - If no:
    - Would you be comfortable with a more private session with just 2 observers (one facilitator and one accessibility specialist)?
 
