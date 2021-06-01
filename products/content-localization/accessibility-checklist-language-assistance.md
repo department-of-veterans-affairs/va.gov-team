@@ -5,21 +5,21 @@ Checklist of the recommended and required accessibility tests have been complete
 
 ## Foundational accessibility tests (required)
 
-[]Axe scans in daily development - read more about the axe browser plugin
+[x]Axe scans in daily development - read more about the axe browser plugin
 
-[]Axe scans included in end-to-end (e2e) tests - read more about e2e tests with axe checks
+[x]Axe scans included in end-to-end (e2e) tests - read more about e2e tests with axe checks
 
-[]Color tests for proper contrast and colorblindness - read more about contrast and colorblindness
+[x]Color tests for proper contrast and colorblindness - read more about contrast and colorblindness
 
-[]Content zoomed to 200%, 300%, 400% - read more about zoomed layouts
+[x]Content zoomed to 200%, 300%, 400% - read more about zoomed layouts
 
-[]Keyboard navigation - read more about navigating with the keyboard
+[x]Keyboard navigation - read more about navigating with the keyboard
 
 ## Accessibility tests (recommended)
 
-[]Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - read more about getting started with screen readers. Teams are encouraged to conduct their own 
+[x]Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - read more about getting started with screen readers. Teams are encouraged to conduct their own 
 screen reader tests as part of the software development lifecycle (SDC). DEPO Platform acknowledges this testing is aspirational.
 
-[]Axe-coconut scans in daily development - read more about the axe-coconut experimental plugin
+[x]Axe-coconut scans in daily development - read more about the axe-coconut experimental plugin
 
-[]WAVE tool spot checks - read more about the WebAIM WAVE tool
+[x]WAVE tool spot checks - read more about the WebAIM WAVE tool
