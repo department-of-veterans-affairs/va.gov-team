@@ -45,7 +45,6 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] PM, Designers, FE devs: Request 508 intro with @ Trevor Pierce in Slack
 - [ ] PM and Engineers: Request QA intro with @ Peter Hill in Slack
 - [ ] PM and Engineering Lead: Request ATO intro with @ Faith Owusu-Sekyere in Slack
-- [ ] Full team: Request KPI workshop with analytics team with @ Joanne Esteban in Slack
 
 
 ## Notes:
