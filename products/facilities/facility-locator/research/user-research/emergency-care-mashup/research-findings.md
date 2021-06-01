@@ -23,6 +23,7 @@ A remote, via Zoom, moderated task-based usability study was conducted between M
 - 1 caregiver
 - 3 urban, and 6 rural participants
 - 1 transgender, 6 male, and 2 female participants
+- 4 age 35 - 44, 3 aged 55 - 64, 1 age 65 - 74, and 1 age unknown 
 
 ### Research Questions
 
