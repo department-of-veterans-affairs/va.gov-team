@@ -1,7 +1,7 @@
 # IA Design and Recommendations
 **STATUS: NOT STARTED**
 
-**Team:** Health care experience
+**Team:** Health care experience <br>
 **Product/Featue:** Appointment Check-in
 
 **IA Request:** 
