@@ -209,10 +209,11 @@ The service history page causes confusion for two main reasons:
     3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
     4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
-2. Rewrite confusing questions in plain language
+2. Rewrite confusing questions in plain language (also improves accessibility)
 3. Explore ways to better implement VA Facility locator
 4. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
-5. Simplify Introduction page
+5. Find out if it is possible to eliminate repeated questions for the unauthenticated experience
+6. Simplify Introduction page
 
 ### Trust
 1. Clarify how the Veteran will be notified with application status updates
@@ -226,7 +227,6 @@ The service history page causes confusion for two main reasons:
 1. Explore 1 question per page (also reduces burden)
 2. Make sure that all button and link treatment and behavior is correct
 3. Make sure headings are correctly labeled
-4. Rewrite confusing questions in plain language
 
 ## Next Steps
 
