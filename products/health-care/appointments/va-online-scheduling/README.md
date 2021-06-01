@@ -46,7 +46,7 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 ## What We're Working On
 
 - COVID-19 vaccine scheduling
-- [VAOS homepage refresh](/homepage-refresh-initiative-2021.md)
+- [VAOS homepage refresh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/48097f1c1a996bbfde3f937e6591bf0f5ec05250/products/health-care/appointments/va-online-scheduling/initiatives/homepage-refresh/homepage-refresh-initiative-2021.md)
 - Integration with VAMF vaos-service
 
 ## Product Documentation
