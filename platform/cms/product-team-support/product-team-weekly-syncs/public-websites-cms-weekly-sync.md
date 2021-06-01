@@ -37,8 +37,9 @@
 
 ## June 1
 
-* VAMC redirects #25044 / #5132 
-
+* VAMC redirects #25044 / #5132 / 
+* `og:image` for CLP and beyond (can we pick one other product/content type?)
+* image derivatives in story teasers on CLP
 
 ## May 26
 
