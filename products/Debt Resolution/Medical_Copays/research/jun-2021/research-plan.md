@@ -45,7 +45,7 @@ Online, through Zoom
 
 #### What will you be testing? 
 
-UXPin Prototype
+[UXPin Prototype](https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349#/pages/139236640/simulate/sitemap?mode=i)
 
 ## Participants and Recruitment
 
@@ -74,6 +74,14 @@ What are you looking for in a participant?
     3. I asked for financial assistance (Qualify if available)
     4. None of the above (Qualify if available)
 * Please confirm participants have Zoom downloaded prior to the session and they know how to screen share
+* Note:
+   * For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
+
+   * For this session, we are unable to include people with significant vision loss.
+
+   * For this session, we are unable to include people who use magnification tools.
+
+   * The prototype beinng testing is in UXPin; this study requires using the latest version of Chrome, Firefox, and Safari. Internet Explorer and Edge are not supported.
 
 #### Secondary criteria / Would like to have
 
@@ -86,7 +94,6 @@ What are you looking for in a participant?
 * At least one person who lives in a major metropolitan area
 * At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 * At least one non-native English speaker
-* At least one person who uses assistive technology (AT) such as specialized keyboards
 
 ## When?
 
@@ -98,7 +105,7 @@ What are you looking for in a participant?
 
 ### When will the thing you are testing be ready?
 
-May 28
+June 1
 
 ### Length of Sessions: How long do you estimate each session will be? 
 
