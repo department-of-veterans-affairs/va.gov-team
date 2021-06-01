@@ -204,10 +204,10 @@ The service history page causes confusion for two main reasons:
 
 ### Reduced burden
 1. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
-  1. Order of questions should be chunked according to Veterans' mental model
-  2. Headings on page should be properly labeled for screen reader accessibility 
-  3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
-  4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
+    1. Order of questions should be chunked according to Veterans' mental model
+    2. Headings on page should be properly labeled for screen reader accessibility 
+    3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
+    4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
 2. Rewrite confusing questions in plain language
 3. Explore ways to better implement VA Facility locator
@@ -216,14 +216,14 @@ The service history page causes confusion for two main reasons:
 
 ### Trust
 1. Clarify how the Veteran will be notified with application status updates
-  1.  Explore e-mail validation link
-  2.  Explore e-mail confirmation on submission
-  3.  Explore preferred contact option
+    1.  Explore e-mail validation link
+    2.  Explore e-mail confirmation on submission
+    3.  Explore preferred contact option
 
 2. Provide security and privacy information within the Military Service and Household Information sections
 
 ### Accessibility
-1. Explore 1 question per page (also reduced burden)
+1. Explore 1 question per page (also reduces burden)
 2. Make sure that all button and link treatment and behavior is correct
 3. Make sure headings are correctly labeled
 4. Rewrite confusing questions in plain language
@@ -234,9 +234,9 @@ The service history page causes confusion for two main reasons:
 2. Rewrite any question/choices that caused confusion (including updating the gender, preferred contact, and simplifying introduction page)
 3. Create content "source of truth"
 4. Update the flow 
-  1. Explore automatic qualification
-  2. Explore making more questions dependent on applicants' answers
-  3. Update order putting emotionally difficult questions near the beginning and ensuring other questions are chunked based on Veteran heuristics
+    1. Explore automatic qualification
+    2. Explore making more questions dependent on applicants' answers
+    3. Update order putting emotionally difficult questions near the beginning and ensuring other questions are chunked based on Veteran heuristics
 5. Design one question per page with space for additional information
 6. Conduct A/B testing with 1 question per page and current flow
 
