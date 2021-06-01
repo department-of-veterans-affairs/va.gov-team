@@ -37,7 +37,7 @@
 
 ## June 1
 
-* VAMC redirects [PW #25044](https://github.com/department-of-veterans-affairs/va.gov-team/25044) / [CMS #5132](https://github.com/department-of-veterans-affairs/va.gov-cms/5132) / [Devops #9286](https://github.com/department-of-veterans-affairs/devops/pull/9286)
+* VAMC Pittsburgh redirects [PW #25044](https://github.com/department-of-veterans-affairs/va.gov-team/25044) / [CMS #5132](https://github.com/department-of-veterans-affairs/va.gov-cms/5132) / [Devops #9286](https://github.com/department-of-veterans-affairs/devops/pull/9286)
 * `og:image` for CLP and beyond (can we pick one other product/content type?)
 * image derivatives in story teasers on CLP
 
