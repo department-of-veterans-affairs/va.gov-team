@@ -20,10 +20,19 @@ Or, use your current location
 
 Please select where you’d like to have your appointment. (*Required)
 
+_non-Cerner location_
 
 {Facility name}<br>
 {City, ST}<br>
 {Distance} miles
+
+
+_Cerner location_
+
+{Facility name}<br>
+{City, ST}<br>
+{Distance} miles<br>
+Schedule online at My VA Health
 
 ---
 
