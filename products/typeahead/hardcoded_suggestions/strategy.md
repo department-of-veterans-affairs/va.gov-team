@@ -29,8 +29,9 @@ In an effort to enhance the effectiveness of typeahead continued monitoring and 
     - *ACTIONABLE:* terms that have potential to generate a new and valuable typeahead suggestion - worth exploring further
     - *NOT ACTIONABLE:* terms that are unlikely to generate a valuable typeahead suggestion and therefore no further action required (e.g. Spelling Mistakes, Finger Fumbles, character strings)
     
-2.  **EXPANSION:** Actionable queries will then be reviewed in more depth with the goal to identify terms that could expanded the list of typeahead suggestions for users. As actionable terms are being reviewed the following questions will be used as guideposts. 
+2.  **EXPANSION:** Actionable queries will then be reviewed in more depth with the goal to identify terms that could expanded the list of typeahead suggestions for users. As actionable terms are being reviewed the following questions will be used as guideposts. <br/> 
  *- What related terms are already included on the hardcoded list?*
+ 
 3. **ADDITION:** Terms may be added to the hardcoded list when they meet the following criteria:
     - *Does the term generate a relevant search result within the top 4 results?*
     - *must be all lower case*
