@@ -223,10 +223,11 @@ The service history page causes confusion for two main reasons:
 2. Provide security and privacy information within the Military Service and Household Information sections
 
 ### Accessibility
-1. Redesign the gender question 
-2. Make sure that all button and link treatment and behavior is correct
-3. Make sure headings are correctly labeled
-4. Rewrite confusing questions in plain language
+1. Explore 1 question per page (also reduced burden)
+2. Redesign the gender question 
+3. Make sure that all button and link treatment and behavior is correct
+4. Make sure headings are correctly labeled
+5. Rewrite confusing questions in plain language
 
 ## Next Steps
 
