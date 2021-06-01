@@ -23,7 +23,7 @@ _This list will be updated with links to documentation as needed_
 ## Launch Preparations
 - [ ] [User Acceptance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)
 - [ ] Internal Communications Plan
-- [X] [External Communications Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MVP-launch/soft-launch-press-feedback-prep.md)
+- [X] [External Communications Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/soft-launch-press-feedback-prep.md)
 - [ ] Static Page
 - [X] [Pre-mortem Exercise](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/soft-launch-press-feedback-prep.md)
 - [X] [Tabletop Exercise](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/mobile-app/Mobile%20Launch%20Tabletop%20Exercise%205_12_2021.pdf)
