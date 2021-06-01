@@ -25,7 +25,7 @@ Download VA form 10-10CG(PDF) (934KB) _(link)_
 **What if I have questions or need help filling out the form?**
 
 If you have a question or need help, you can contact us in any of these ways:
-- Call us a t855-488-8440and ask for help filling out the form
+- Call us at 855-488-8440and ask for help filling out the form
 - Use the online Caregiver Support Coordinator locator to find a coordinator at your nearest VA health care facility
 - Contact the VA National Caregiver Support Line by calling 855-260-3274
 
