@@ -5,23 +5,77 @@
 
 
 ## About the Stakeholder
-
 - Name: 
 - Title:
-- Mobile clinic(s) name(s):
-  - How many? 
 - Location (region/system):
 
 ## Role & Responsibilities 
-
+- What's the most challenging aspact of managing mobile clinics?
 - Can you tell me about your role?
-- Top 3 responsibilities as it relates to Mobile Clinics?
+- Your top 3 responsibilities as it relates to Mobile Clinics?
 - What does success look like for you?
-- Are you solely responsible for this or do you share responsibilities with others?
-- 
+- Are you solely responsible for this or do you share the management of mobile clinics with others?
+- What's the most challenging aspect of managing mobile clinics?
 
-## Mind dump
-How does a schedule get created?
-Does the schedule change?
-What causes schedule changes?
-How schedule changes get communicated?
+### If time permits:
+- With regards to managing mobile clinic operations, how does decisionmaking vary at: 
+  - your local health system level:
+  - VISN level:
+  - district level:
+  - region level:
+  - national:
+
+## About Mobile Clinics
+- Mobile clinic(s) name(s):
+  - How many? 
+- Type of vehicle
+- How long have you had one?
+- What has your mobile clinic been used for?
+  - Has this changed from before the pandemic? During the pandemic?
+- Is the mobile clinic shared among VISNs, regions, districts?
+- Does the mobile clinic always come back to the same location; does it have a home base?
+
+## Users
+- Who uses mobile clinics? 
+- How do they make an appointment?
+  - Are any services walk-in?
+- How do Veterans learn about your mobile clinic services?
+- What do Veterans complain about?
+
+## Scheduling
+- What does the schedule of a mobile clinic look like?
+- How does a schedule get created?
+  - Who is involved?  
+- What tools are used to accomplish this?
+- How far in advance are schedules created?
+  - Does the schedule change?
+  - What causes schedule changes?
+- How do schedule changes get communicated?
+
+## Webpage
+- Do you use any online tools for communicating mobile clinic services, schedules or events?
+
+Today VA.gov links to a very simple page. [Show local webpage]
+
+If you had a magic wand and could completely redesign this page, what would itlook like?
+
+## Mobile clinics
+[Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
+
+Montrose 1 VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_620QA
+
+Columbia VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_544HK
+
+Chillicothe VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_538QA
+
+Cheyenne VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_442QF
+
+Puget Sound VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_663Hk
+
+Texas Valley Coastal Bend VA Mobile Clinic
+https://www.va.gov/find-locations/facility/vha_740QA
