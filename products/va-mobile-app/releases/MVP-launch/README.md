@@ -18,6 +18,7 @@ _This list will be updated with links to documentation as needed_
 - [X] User-facing materials (written)
 - [X] User-facing materials (visual)
 - [X] Information submitted to Apple & Google to approve (privacy details, contact info)
+  - 6/1/21 submitted
 - [ ] Builds uploaded & approved by Apple & Google
 
 ## Launch Preparations
