@@ -6,7 +6,6 @@
 - Location (region/system):
 
 ## Role & Responsibilities 
-- What's the most challenging aspact of managing mobile clinics?
 - Can you tell me about your role?
 - Your top 3 responsibilities as it relates to Mobile Clinics?
 - What does success look like for you?
