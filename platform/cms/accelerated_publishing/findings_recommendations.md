@@ -24,18 +24,25 @@ The team has created a (DRAFT) [recommendation matrix](https://docs.google.com/s
 
 ## Recommendation
 
-The CMS team recommends proceeding with the Single Page Publishing approach as an interim solution, for the following reasons:
+If starting a new project, the CMS team would recommend one of the Real-Time CMS solutions (or possibly a hybridized approach) as the most scalable and forward-looking solution. Under the current constraints, the CMS team recommends implementing the Single Page Publishing approach as an interim solution. Our recommendation is made for the following reasons:
 
 - The lift to prove content parity is far lower, since existing code is used to render the content and no template rewriting is required
 - No ATO modifications are required
 - An iterative implementation approach is possible, allowing:
-   - a short timeframe to initial implementation (A working PoC for a single content type is already implemented)
+   - a short timeframe to initial implementation (A working PoC for a single content type has already been implemented)
    - the team to focus on the highest-value use cases
    - no single "launch day cutover" is required
    - small chunks of work may be practically estimated and allow selection for greatest value
+- Some of the effort involved will also benefit the existing full site build (e.g. direct publishing of static assets)
 - The amount of content in the CMS may be continued to be scaled
 
-We believe that implementing Single Page Publishing will resolve immediate Editor pain points and allow content to be continued to scaled, providing breathing room to implement a long-term solution.
+We believe that implementing Single Page Publishing will resolve immediate Editor pain points and allow content to be continued to scaled, providing breathing room to implement a long-term solution as time & resources are available.
+
+## Risks
+
+- Continuing to invest resources in the current build system (vs. Real-Time CMS)
+- Maintaining an additional build system
+- Timeline implications of Accelerated Publishing team downsizing
 
 ## Next steps
 
