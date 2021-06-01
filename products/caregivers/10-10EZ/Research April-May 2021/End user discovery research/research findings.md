@@ -119,7 +119,7 @@ The research questions we sought to address:
 > _After application submission_ "I wish they let me choose my preferred contact- I don't know if it will come by phone, email, etc...I expect notification of receipt, when it's under review, timeline updates, if they need anything..."
 
 ### Participants noted that questions were hard to understand and they wanted plain language explanations.
-- The application’s language is not written plainly and does not provide any explanation on how to answer questions. Participants want to know why and how the information is used. Participants had the least clarity around household information, financial questions and who qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork and would like more information provided about this, especially on the military service upload discharge papers page.
+- The application’s language is not written plainly and does not provide any explanation on how to answer questions. Participants want to know why and how the information is used. Participants had the least clarity around household information, financial questions and who qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork.
 > "Feels like a lot of government gobbly goop."
 
 > "I would like to know how all this information is used and what security measures are taken. My husband is really concerned about security, he wouldn't upload his DD214."
