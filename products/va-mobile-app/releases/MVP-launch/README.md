@@ -15,13 +15,13 @@ _This list will be updated with links to documentation as needed_
   - 4/27/21 all materials submitted to Chris Johnston for review
 
 ## Materials needed for Apple & Google app stores
-- [ ] User-facing materials (written)
-- [ ] User-facing materials (visual)
-- [ ] Information submitted to Apple & Google to approve (privacy details, contact info)
+- [X] User-facing materials (written)
+- [X] User-facing materials (visual)
+- [X] Information submitted to Apple & Google to approve (privacy details, contact info)
 - [ ] Builds uploaded & approved by Apple & Google
 
 ## Launch Preparations
-- [ ] [User Acceptance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)
+- [X] [User Acceptance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)
 - [ ] Internal Communications Plan
 - [X] [External Communications Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/soft-launch-press-feedback-prep.md)
 - [ ] Static Page
@@ -31,10 +31,11 @@ _This list will be updated with links to documentation as needed_
 
 
 ## Monitoring, Alerting, Reporting
-- [ ] Monitoring & Alerting (Tools & Slack integration)
+- [X] Monitoring & Alerting (Tools & Slack integration)
+  - #va-mobile-app-analytics 
 - [ ] KPI implementation in Firebase
 - [ ] Plan for Managing Versioning
-- [ ] [Incident Response protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/README.md)
+- [X] [Incident Response protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/README.md)
 - [ ] App Store monitoring & flagging protocol
 - [ ] Post-launch analytics reporting plan
 
