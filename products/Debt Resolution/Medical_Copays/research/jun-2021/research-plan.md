@@ -101,7 +101,7 @@ What are you looking for in a participant?
 
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
 
-* Jun 9 - Jun 15
+* Jun 10 - Jun 15
 
 ### When will the thing you are testing be ready?
 
