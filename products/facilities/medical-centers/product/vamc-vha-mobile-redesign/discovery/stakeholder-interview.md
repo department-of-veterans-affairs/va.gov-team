@@ -80,6 +80,9 @@ https://www.va.gov/find-locations/facility/vha_663Hk
 Texas Valley Coastal Bend VA Mobile Clinic
 https://www.va.gov/find-locations/facility/vha_740QA
 
+
+### Notes:
+
 Copy the following onto outreach emails:
 - jeffrey.grandon@va.gov
 - steve.tokar2@va.gov
