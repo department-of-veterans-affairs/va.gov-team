@@ -15,15 +15,23 @@ The goal of this study is to validate the usability and design of the new facili
 
 ## Research Methodology 
 
-Description of method chosen
+A remote, via Zoom, moderated task-based usability study was conducted between May 17th - May 25th, 2021. Participants were asked to describe their thought processes during an open-ended facility locator search task. Participatants were also asked specific questions about individual search options and elements on the facility locator page. Note-takers and observers were also in attendance.
 
 ### Who we talked to
 
-Description of who was spoken to.
+- 8 Veterans
+- 1 caregiver
+- 3 urban, and 6 rural participants
+- 1 transgender, 6 male, and 2 female participants
 
 ### Research Questions
 
-Research questions here
+- What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
+- What information do Veterans need/want for community emergency care (in VA network) locations?
+- Can Veterans distinguish between these location types in a single list?
+- Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
+- Would Veterans click to learn more about community emergency care benefits?
+- What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
 ## Key Findings
 The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
