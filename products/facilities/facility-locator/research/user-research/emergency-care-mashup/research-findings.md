@@ -8,7 +8,10 @@ Nicholas Osmanski (nick.osmanski@amida.com), MM/DD/YYYY
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-plan.md).
 ## Research Goals 
 
-Description of research goals
+The goal of this study is to validate the usability and design of the new facility locator emergency care search options and results:
+ - participants to understand all of the emergency care facility options available to them
+ - validate that the new design would sufficiently inform them about community care emergency benefits
+ - participants to understand what "in-network" means in terms of VA and non-VA community partners
 
 ## Research Methodology 
 
