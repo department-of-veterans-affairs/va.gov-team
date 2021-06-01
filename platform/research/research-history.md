@@ -35,6 +35,15 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+
+#### May 5-17: 10-10EZ Discovery** 
+*Caregivers, Research Lead: Dené Gabaldón*
+
+- Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research) 
+- List of keywords: Veterans, POA, health care, application
+
+
 #### April 26 - May 5: Baseline Wayfinding on VA.gov
 *Public Websites, Lead Researcher: Cindy Merrill*
 
