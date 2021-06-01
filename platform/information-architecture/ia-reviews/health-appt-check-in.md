@@ -51,29 +51,33 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ## <a name="notes"></a>Meetings Notes and Background Info
 
-6/1/20201 - Regroup with Kristen, Meg and Danielle
-- Phase 1 - Check-in
-  - Usability end of June, primarily happy path
-  - When arriving for an appointment, Veteran will scan code from poster and send text to notify facility that they have arrived
-  - Link to check-in process is texted back (structure of URL?)
-  - Veteran clicks on link in text to be directed to VA.gov check-in page
-  - New authentication process LoROTA, identifies user based on mobile phone number
-    - Will give them their appointment details based on their phone nbr
-    - If they want to do anything else they will need to log in
-	- What to do with breadcrumb, header, footer in this experience of partially identified?
-    - Potentially no breadcrumb, or just "Home"
-    - Maybe no header or a reduced header![image](https://user-images.githubusercontent.com/20994159/120376843-f80d8d80-c2e1-11eb-9cc0-fc289d7290a3.png)
-   - Error scenarios???
-     - unrecognized mobile phone number, too early/too late, does URL in text expire, etc. 
-- Phase 2 - Pre-check-in process 
-  - starting summer 2021
-  - Email with link to a pre-check in page that lists forms and tasks to be done
-    - Items may vary per appointment and depending on last time they were there
-    - Would include health questionnaire(s) if not complete
-  - Discussing LoROTA for this as well
-  - This may also eventually be hooked up to the check-in process if they have not completed some/any of their pre-check in tasks
--  Mobile app team will be picking this work up as well
-  -  VA.gov will go first
+**6/1/20201 - Regroup with Kristen, Meg and Danielle**
 
-5/6/2021 - Design intent
+Phase 1 - Check-in
+- Usability end of June, primarily happy path
+- When arriving for an appointment, Veteran will scan code from poster and send text to notify facility that they have arrived
+- Link to check-in process is texted back (structure of URL?)
+- Veteran clicks on link in text to be directed to VA.gov check-in page
+- New authentication process LoROTA, identifies user based on mobile phone number
+  - Will give them their appointment details based on their phone nbr
+  - If they want to do anything else they will need to log in
+  - What to do with breadcrumb, header, footer in this experience of partially identified?
+    - Potentially no breadcrumb, or just "Home"
+    - Maybe no header or a reduced header
+- Error scenarios??? - unrecognized mobile phone number, too early/too late, does URL in text expire, etc. 
+
+Phase 2 - Pre-check-in process 
+- starting summer 2021
+- Email with link to a pre-check in page that lists forms and tasks to be done
+  - Items may vary per appointment and depending on last time they were there
+  - Would include health questionnaire(s) if not complete
+- Discussing LoROTA for this as well
+- This may also eventually be hooked up to the check-in process if they have not completed some/any of their pre-check in tasks
+Mobile app team will be picking this work up as well
+-  VA.gov will go first
+
+**5/6/2021 - Design intent**
 - IA Feedback ticket here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/24354
+- Big questions revolve around
+  - New light weight authentication process for identifying person to associate them with an appointment for check-in
+  - Bigger IA question around how this (if this) integrates with VAOS or if it is its own experience
