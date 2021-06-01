@@ -49,6 +49,12 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 - [VAOS homepage refresh](/homepage-refresh-initiative-2021.md)
 - Integration with VAMF vaos-service
 
+## Product Documentation
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-fe-roadmap.md)
+- [Objectives & Key Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-kpis.md)
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
+
+
 ## Who We Work With
 
 - VA Business Owners:
