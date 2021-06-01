@@ -8,7 +8,7 @@ Requesting mobile clinic information for webpage redesign
 
 Hello [Name], 
 
-I work on the VA.gov Facilities digital product team. We’re preparing to redesign mobile clinic webpages and as with all our product improvement initiatives, we like to start with research first. For this effort, we’d like to talk with people who manage and work with mobile clinics every day so that we can focus on the most impactful improvements. 
+I work on the VA.gov Facilities digital product team. We’re preparing to redesign mobile clinic webpages and as with all our product improvement initiatives, we like to start with research first. For this effort, we’d like to talk with people who manage and work with mobile clinics so that we can focus on the most impactful improvements. 
 
 Some of the things that we want to learn:
 
