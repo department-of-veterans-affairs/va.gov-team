@@ -71,9 +71,9 @@ TBD.  If you normally use assistive technology to access the Web, please feel fr
 
 (These questions below are consistent with the controlled study list)
 
--Did the chatbot answer your questions accurately? 
+- Did the chatbot answer your questions accurately? 
 
--Did the chatbot understand what you were trying to ask 
+- Did the chatbot understand what you were trying to ask 
 
 - After reading the response, did you have the information you needed to take the next step to complete your task?
 
