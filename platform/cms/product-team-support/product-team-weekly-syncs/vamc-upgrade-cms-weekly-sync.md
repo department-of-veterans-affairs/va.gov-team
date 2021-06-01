@@ -21,6 +21,10 @@
 
 </details>
 
+## June 4
+
+* GovDelivery may be enabled soon - do not send emails when adding the Dual State banners
+
 ## Friday May 28
 
 **1. Policies page**
