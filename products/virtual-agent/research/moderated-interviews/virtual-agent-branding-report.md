@@ -38,9 +38,13 @@ As a veteran myself, I hypothesize that a professional, polite and service drive
 [a]
 * Vets, care-takers and family members want communication between the VA and them to be personable, curious and empathetic.
 
+> [When] in person, they can see I'm a female, generally get a more soft response. It’s not always what I want--sometimes soothing, sometimes demeaning. In emails it doesn’t really matter, but I want to be addressed right.  Automatically makes me angry they couldn’t take the 3 seconds. They’re obviously not looking at the rest of my chart.
+
 2. Current use of VA channels
 * If they already have an account, they generally sign in to have a more personable and tailored experience.
    * This hints that Vets will assume the chatbot can provide the same personal experience if they are signed into their account on the website.
+
+> Yes - always [sign in]. To me it means I'm looking at things specifically geared to me. Going to va.gov is like a 1-800 number, if you don't have a purpose you’re going to be lost. 
 
 3. Participants overwhelmingly used chatbots (94%) and would use one again despite often having a mixed experience and lacking confidence in the responses. 
    * One person who had not used a chatbot was because they preferred speaking with an actual human due to low expectations of chatbots.
@@ -55,6 +59,10 @@ As a veteran myself, I hypothesize that a professional, polite and service drive
 
 7. Naming may require a compromise. The VA can provide a name for context, like VA chatbot, so it is clear Vets are not speaking with an actual person, but still be able to use a conversational tone that is not dry or bureaucratic. 
 
+> I never thought about it, but more like a human-like name, so it will make me feel like I'm talking to a human. A name I recognize will make me feel more comfortable to use it.
+
+> I don’t think it’s necessary. I think the expectation of chat is that a bot is going to be the first part of it and if they can’t answer it they go to a live person - Fred, Sam, Julie.  
+
 8. An emerging expectation with Omni-channel ramifications is that Vets increasingly want a personalized experience regardless of the channel it started in. They don’t want to retell their story or the reason why they are interacting with the VA that particular day if they start with a chatbot then move the conversation over to a live agent.
 
 
@@ -62,6 +70,8 @@ As a veteran myself, I hypothesize that a professional, polite and service drive
 
 1. Because Vets share a lot of personal info with the VA, they expect that info to be readily available to VA customer reps regardless if it is in-person, over the phone or through automated digital channels to streamline communication. They shouldn't have to retell their story everytime they interact with the VA.
    - This hints that a chatbot should "know" their story, and that it should be able to ask empathetic questions to help Vets find the info they need or get them the help they need based on their story.
+
+> The big thing is if’ i’m speaking about my care, i want them to have access to my records, i’m just spinning a wheel when talking to someone. I’m service connected, rated on x y z and trying to get a prescription, but we need to start tests etc. - why can’t you look at my history and see it’s there and start from there rather than reinventing the wheel every single time to talk to the VA. (P14)
    
 2. More frequent visitors generally have health care reasons as the purpose for going to the website.
    - The less frequent users would probably benefit more from using the chatbot to quickly find information, as opposed to Vets who already know where they need to go on the website.
@@ -73,11 +83,15 @@ As a veteran myself, I hypothesize that a professional, polite and service drive
 
 4. Expectations for chatbots to provide nuance accurate responses is generally low. This creates an opportunity to exceed expectations for the VA chatbot.
 
+> In the end I’m typically able to resolve the problem, but not always via chatbot. Acts as an intermediary before talking to a person. 
+
 5. The general expectation is that a chatbot should be able to direct you to the right information faster than using a search engine. It should provide more context than a basic search results list, i.e., if they need a form it can get it for them quickly and either be able to fill in online or download from the chat window. 
 
 6. Most expect a VA chatbot to provide personal information about benefits, health care, prescriptions, etc., and be able to service their needs in those areas, i.e., "fill my prescription" should allow a user to fulfill this need through the chatbot. 
 
 7. Most want a professional but friendly tone that projects confidence but can also display humility when it is wrong or inaccurate.
+
+> [Tone should be] helpful, like an usher or concierge. Something that’s able to ask questions of a veteran that’s not computer literate. People like my father want someone to talk to him. Chatbot [should] break down what’s being input, then prompt and ask questions from there, like a child.
 
 8. Related to tone, it should be service-driven since the Vet community is broad, spanning multiple generations, and therefore different levels of tech-usage.
 
