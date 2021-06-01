@@ -47,14 +47,15 @@
   - What causes schedule changes?
 - How do schedule changes get communicated?
 
-## Webpage
+## Webpage discussion
 - Do you use any online tools for communicating mobile clinic services, schedules or events?
 
 Today VA.gov links to a very simple page. [Show local webpage]
 
 If you had a magic wand and could completely redesign this page, what would itlook like?
 
-## Mobile clinics
+## Mobile clinics 
+
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
 
 Montrose 1 VA Mobile Clinic
