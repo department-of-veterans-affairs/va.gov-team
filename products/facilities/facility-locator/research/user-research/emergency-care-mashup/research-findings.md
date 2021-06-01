@@ -9,9 +9,9 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 ## Research Goals 
 
 The goal of this study is to validate the usability and design of the new facility locator emergency care search options and results:
- - participants to understand all of the emergency care facility options available to them
- - validate that the new design would sufficiently inform them about community care emergency benefits
- - participants to understand what "in-network" means in terms of VA and non-VA community partners
+ - Participants to understand all of the emergency care facility options available to them
+ - Validate that the new design would sufficiently inform them about community care emergency benefits
+ - Participants to understand what "in-network" means in terms of VA and non-VA community partners
 
 ## Research Methodology 
 
