@@ -48,6 +48,13 @@ _Note: If you do have a VA-issued laptop, you can also use CAG, but the Citrix s
 1. Install OpenSC
 
         sudo apt install opensc
+        
+    Confirm your card reader is detected
+
+        opensc-tool -l
+        # Detected readers (pcsc)
+        Nr.  Card  Features  Name
+        0    Yes             ACS ACR 38U-CCID 00 00
 
 1. Load security device in Firefox
 
@@ -60,6 +67,7 @@ _Note: If you do have a VA-issued laptop, you can also use CAG, but the Citrix s
           /usr/lib/x86_64-linux-gnu/pkcs11/opensc-pkcs11.so
     - If it shows an error that is ok.
     - You should now see the module listed on the left side, select it and click "Log in" and enter your PIN.
+     ![image](https://user-images.githubusercontent.com/63597655/120368808-841eb580-c2e0-11eb-97ce-c7f6570579eb.png)
 
 
 1. Install [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html)
