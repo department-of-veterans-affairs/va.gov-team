@@ -56,7 +56,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 - If you had a magic wand and could completely redesign this page, what would it look like?
 - If you could change only one thing, what would it be?
-- If you had to guess, what are the top three things that a Veteran would want to see on this page?
+- If you had to guess, what are the top three things that a Veteran or caregiver would want to see on this page?
 
 ## Mobile clinics 
 
