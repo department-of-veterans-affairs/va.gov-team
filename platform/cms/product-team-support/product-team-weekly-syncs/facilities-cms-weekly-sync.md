@@ -24,11 +24,20 @@
 
 ## June 2
 
+**Vet Center** 
+* Vet Center launches
 
-* Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+**VAMC**
+
+IA 
+* Menu lockdown updae
 * /about/reporting page as a parent for VAMC reporting content like Legionella and Water quality monitoring
+
+Other
 * Validation of VAMC type of care implementation
-* Product triage user story 
+* Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
+**Product triage**
   * **As a** Tier 1/2/3 help desk responder **i want** a report of known issues (feature requests and defects) across the va.gov-cms and va.gov-repo, for [the VAMC product] [the Vet Center product][some other product] **so that** i can track resolution, and add additional information, and so that i don’t have to treat Slack as the repository of product information. 
 
 
