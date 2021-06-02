@@ -74,7 +74,7 @@ f) Participants had a range of responses, the most notable included: a clear und
 ### Hypotheses
 
 i) **Likely:** 
-  - Most participants seemed to choose "All in-network" before other options, and prefer the list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction.
+  - Most participants seemed to choose "All in-network" before other options, and prefered a list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction.
 
 ii) **Likely:** 
   - From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
