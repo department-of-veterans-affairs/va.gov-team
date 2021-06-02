@@ -1,6 +1,6 @@
 # User Acceptance Testing
 
-Last Updated May 19, 2021
+Last Updated June 2, 2021
 
 ## Goals of pre-launch UAT
 The mobile app has a big scope that cuts across features from VA.gov and My HealtheVet and across benefits, health care, and other engagement with VA like viewing and editing the VA.gov profile. This scope of our app and this round of UAT also includes signing in. Our primary goal in conducting pre-launch UAT is to ensure data is displaying accurately and our features are usable and working as expected. 
@@ -16,9 +16,9 @@ We will not be testing the completion of tasks (i.e. things like sending a Secur
   - [Internal UAT Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/internal-uat-summary.md)
 
 
-- **External UAT:** We will recruit formally via Perigean following more specific criteria, like using VA benefits and health care and spanning credential types. We will do this after we have completed internal UAT and remediated big issues we found in internal UAT. Dates: May 24 - May 27. 
+- **External UAT:** We recruited via Perigean following more specific criteria, like using VA benefits and health care and spanning credential types. We did this after completing internal UAT and remediating high and critical issues found internally. We conducted sessions from May 24 - May 27. 
 
-  - We are keeping track of **External pre-launch UAT** in [this ZenHub ticket](https://app.zenhub.com/workspaces/va-mobile-app-5f205eac3155a2000f422ecb/issues/department-of-veterans-affairs/va.gov-team/24111). 
+  - We kept track of **External pre-launch UAT** in [this ZenHub ticket](https://app.zenhub.com/workspaces/va-mobile-app-5f205eac3155a2000f422ecb/issues/department-of-veterans-affairs/va.gov-team/24111). 
   - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/research-plan.md)
   - [Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/discussion-guide.md)
   - [External UAT Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/uat/external-uat-summary.md)
