@@ -58,9 +58,9 @@ vi) Participants will understand what to do in case of emergency
 
 ### Research Questions
 
-a) Most participants emphasized the importance of finding the closest location, and some were explicit about wanting non-VA locations to be present in search results, in case they were closer than VA locations. Most participants expressed a desire for clear benefits information.
+a) Participants fell into three main categories: a desire for information about the specific services provided at each location, a desire to see the closest facility whether in-network or out-of-network, and a desire for more information about the benefits procedure at specific locations.
 
-b) Most participants wanted clearer and more easily accessible information about their benefits at community partners to be present in search results.
+b) Most participants wanted clearer and more easily accessible information about their benefits at community partners to be accessible via search results.
 
 c) It was unclear if most participants were able to quickly distinguish between VA locations and community partners in the results list. Some participants did note the distinction, based on the presence of the blue info alert for community partners, and the presence of "VA" in the title of VA facilities.
 
@@ -72,7 +72,7 @@ f) Participants had a range of responses, the most notable included: a clear und
 
 ### Hypotheses
 
-i) Likely: most participants seemed to choose "All in-network" before other options, but some appreciated the specific VA and VA community partners distinction.
+i) Likely: most participants seemed to choose "All in-network" before other options, but some noted the specific VA and VA community partners distinction.
 
 ii) Likely: from personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
 
@@ -89,6 +89,18 @@ vi) True: from personal experience, and not necessarily information in the searc
 ### Research Questions Details
 
 a) What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
+
+> [P1] "There should be an option that says, 'learn more about what the facility offers'...click on that to learn more"
+
+> [P6] "It would be nice to have something to each with the services offered to be hyper linked to each one."
+
+> [P4] "If I need emergency care then I may be willing to go somewhere that is out of network."
+
+> [P11] "If someone is in an emergency then they may want to go to the closest place regardless of [it being] in VA's network"
+
+> [P14] "I would look more at distance if it were an emergency."
+
+> 
 
 b) What information do Veterans need/want for community emergency care (in VA network) locations?
 
