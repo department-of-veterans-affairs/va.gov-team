@@ -63,7 +63,7 @@ Privacy Act Statement (_link_)
 
 You can call the VA Caregiver Support Line at 855-260-3274. We’re here Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET.
 
-You can also call 855-488-8440 if you have questions about completing your application, or you can contact your local Caregiver Support Coordinator.
+You can also call 855-488-8440 if you have questions about completing your application, or contact your local Caregiver Support Coordinator.
 
 Use our online Caregiver Support Coordinator search tool _(link)_
 
