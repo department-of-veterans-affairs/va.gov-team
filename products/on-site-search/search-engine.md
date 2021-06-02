@@ -9,4 +9,4 @@
 | Elastic Search | TBD   | TBD   |
 | Yetz           | TBD   | TBD   |
 | Quarelly       | TBD   | TBD   |
-| Algolia        | TBD   | TBD   |
+| [Algolia](https://www.algolia.com/)        | TBD   | TBD   |
