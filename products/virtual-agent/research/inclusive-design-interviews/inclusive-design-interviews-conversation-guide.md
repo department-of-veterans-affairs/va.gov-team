@@ -1,4 +1,4 @@
-# Inclusive Design Interviews
+# Inclusive Design Interviews with Caregivers Conversation Guide
 
 ## Moderator logistics
 
@@ -17,8 +17,6 @@
 ## Intro
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to ask you some questions about chatbots, your experience with them in general, and what you might expect from one from the VA. 
-
-The VA acknowledges that a large percentage of Veterans live with a disability or conditions like PTSD, so it’s important for us to understand your experiences as we work with you to design better products.  So we’re here today to ensure that the products we’re working on will help Veterans like yourself and be as accessible as possible.
 
 Before we start, a few things I want to mention:
 
