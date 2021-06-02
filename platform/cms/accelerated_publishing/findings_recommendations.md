@@ -24,7 +24,7 @@ The team has created a (DRAFT) [recommendation matrix](https://docs.google.com/s
 
 ## Recommendation
 
-If starting a new project, the CMS team would recommend one of the Real-Time CMS solutions (or possibly a hybridized approach) as the most scalable and forward-looking solution. Under the current constraints, the CMS team recommends implementing the Single Page Publishing approach as an interim solution. Our recommendation is made for the following reasons:
+If starting a new project, the CMS team would recommend one of the Real-Time CMS solutions (or possibly a hybridized approach) as the most scalable and forward-looking solution. However, under the current constraints, **the CMS team recommends implementing the Single Page Publishing approach as an interim solution.** Our recommendation is made for the following reasons:
 
 - The lift to prove content parity is far lower, since existing code is used to render the content and no template rewriting is required
 - No ATO modifications are required
