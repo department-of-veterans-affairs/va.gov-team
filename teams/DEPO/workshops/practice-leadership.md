@@ -22,6 +22,8 @@ a) what kind of practice leadership responsibilities are needed in our ecosystem
 - Understand what the current individuals in these roles _want_ to be spending their time on (and what they don't want to be spending their time on)
 - Understand what gaps we need to fill
 - Ideate around how to fill those gaps
+- Prioritization of needs for each group (VFS teams have this top priority need but it's the lowest in priority for OCTO practice leads)
+- Role definition
 
 ## Questions the workshop should answer
 - What do VFS teams expect from practice leads today?
@@ -43,7 +45,18 @@ a) what kind of practice leadership responsibilities are needed in our ecosystem
 - Practice leads have ideas for ways to improve the culture of their craft across the organization, but don't have team members to actually implement (like the recent a11y proposal).
 - The research practice lead does all of the collab cycle reviews for VFS research, in addition to another completely separate full time job
 - The size of the org has grown a lot, but we haven't revamped practice area operations to suit our new bigger-org needs.
-- More TBD
+- Nobody has ever told me what's expected of me, took the approach of confirming priorities with chris when something's changing or need input (this is what I'm working on does this sound good?). Have never talked about collab cycle or supporting VFS teams. Was told my job was Gobal IA, and soon realized that everyone has a different idea of what IA means and even leadership doesn't understand what IA does. It's organizing information and there's a lot of overlap with UX, it's not just nav or URLs.
+- The health  need has grown really big and has been taking up the most of my time. Have been stretched really thin, and am getting pulled into this or that.
+- There's very little IA expertise at VA, and teams are doing one thing and they're trying to do more big picture thinking but don't have the authority or global knowledge necessary for that.
+- No documented standards, and defining them is a big effort. Mikki laid a good foundation, but there's still so much to be done to integrate them into the right place for teams to use.
+- Need an OCTO-side IA to focus on the standards, actually need a bunch of IAs w/discreet focus areas.
+- No team to help me with IA-led initiatives. We're asked to define big rocks, but I can define things and do the user research, and have submitted 2 different proposals for testing and redesigning the home page, but haven't gotten any support for anything. For sitewide big rocks for IA and content, we need Mikki and other folks (FE, visual design) to work on that with us.
+- Even if got that support right now, wouldn't  be able to do much. And don't have any time outside of 
+- Also have the enforcer role, get pulled into complex things on which I have no background and am expected to make recommendations.
+- Totally burned out, but yet have made no progress on big rocks. We set these goals and communicated what we needed to achieve them, but we haven't gotten any support/staffing etc for any of that and yet are still expected to report out on progress. 
+- Thought the crews would start to organize how we operate as an organization, but instead the contract teams are still just building stuff all over the place willy nilly and IA-wise just saying "how do I plug this in, and this, and this?." The site's getting more and more fragmented, we're doing feature bloat instead of strategic evolution. Why is it a priority to just ship more new things, as opposed to having a priority around a cohesive, intentional experience, taking the time to weave things together?
+- 
+
 
 **Collab cycle member pain:**
 - Collab Cycle members often fill in the gap in implementation help when a VFS team doesn't have the appropriate skills, and when the practice lead doesn't have the bandwidth. It's taxing to have to either pick up that extra work because they want to be helpful, or alternatively explain that essentially there's no one to help and the team's out of luck.
@@ -82,8 +95,11 @@ Process
 - individual convos (not group) around: if we were to hire for these which would we want to do that for?
 - workshop: focus more on parameters around what the needs are and what a practice lead role would look like and what kind of support that would require
 
+
 **Placeholder "wants"**
 - Want a research ops lead who consults when teams are putting together research plans, and to maintain our process and say "ok we've grown, let's rethink how we do synthesis or how we share our research"
 - Working on a research revamp this quarter, but sure we'll need more of that in the future -- can see research ops being a full time job for at least one person maybe more
 - The research ops person doesn't have to be octo-de / usds, but want a really great researcher in that role. could still be that octo sponsor though for collab / questions / oversight if needed. there's a lot of day to day stuff that would be great for someone to truly own.
 - Would be great to have some structure for research side in design intent
+- We need dedicated IAs for helping VFS teams. For defining IA standards and coordinating with collab cycle IA. Collab cycle IA to monitor and enforce, the glue between the VFS teams, see what's going out, what's crashing, conflicting. Big Rocks IA for navigation system and slimming down the benefit hubs. And we need a health IA. If we just have me and Mikki, there's a lot that doesn't get done.
+
