@@ -13,7 +13,7 @@ The goal of this study is to validate the usability and design of the new facili
  - Validate that the design sufficiently informs participants about community care emergency benefits
  - Participants to understand what "in-network" means in terms of VA and non-VA community partners
 
-## Research Methodology 
+## Methodology 
 
 A remote, via Zoom, moderated task-based usability study was conducted between May 17th - May 25th, 2021. Participants were asked to describe their thought processes during an open-ended facility locator search task. Participatants were also asked specific questions about individual search options and elements on the facility locator page. Note-takers and observers were also in attendance.
 
