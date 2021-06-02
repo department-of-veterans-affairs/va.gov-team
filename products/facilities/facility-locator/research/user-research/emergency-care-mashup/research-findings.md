@@ -41,7 +41,7 @@ e) Would Veterans click to learn more about community emergency care benefits?
 
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
-### Additional Hypotheses
+### Hypotheses
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
