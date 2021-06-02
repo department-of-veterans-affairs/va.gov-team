@@ -210,7 +210,7 @@ The service history page causes confusion for two main reasons:
 ### Reduced burden
 1. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
     1. Order of questions should be chunked according to Veterans' mental model
-    2. Headings on page should be properly labeled to reflect application prgression
+    2. Headings on page should be properly labeled to reflect application progression
     3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
     4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
