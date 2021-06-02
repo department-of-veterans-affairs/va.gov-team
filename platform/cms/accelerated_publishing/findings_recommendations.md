@@ -24,7 +24,9 @@ The team has created a (DRAFT) [recommendation matrix](https://docs.google.com/s
 
 ## Recommendation
 
-If starting a new project, the CMS team would recommend one of the Real-Time CMS solutions (or possibly a hybridized approach) as the most scalable and forward-looking solution. However, under the current constraints, **the CMS team recommends implementing the Single Page Publishing approach as an interim solution.** Our recommendation is made for the following reasons:
+If the CMS team was to build a publishing solution from scratch, we would recommend one of the Real-Time CMS solutions (or possibly a hybridized approach) as the most scalable and forward-looking solution. **However, under the current constraints** **the CMS team recommends implementing the Single Page Publishing approach as an interim solution.** We believe that implementing Single Page Publishing will resolve immediate Editor pain points and allow content to be continued to scaled, providing breathing room to implement a long-term solution as time & resources are available.
+
+After detailed consideration of all options, our recommendation is based on these key findings:
 
 - The lift to prove content parity is far lower, since existing code is used to render the content and no template rewriting is required
 - No ATO modifications are required
@@ -36,7 +38,6 @@ If starting a new project, the CMS team would recommend one of the Real-Time CMS
 - Some of the effort involved will also benefit the existing full site build (e.g. direct publishing of static assets)
 - The amount of content in the CMS may be continued to be scaled
 
-We believe that implementing Single Page Publishing will resolve immediate Editor pain points and allow content to be continued to scaled, providing breathing room to implement a long-term solution as time & resources are available.
 
 ## Risks
 
