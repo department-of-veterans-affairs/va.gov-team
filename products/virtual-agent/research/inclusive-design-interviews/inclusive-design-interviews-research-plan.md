@@ -14,22 +14,24 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-A large percentage of Veterans live with a disability, including auditory disabilities, cognitive, learning, and neurological disabilities, PTSD, physical disabilities, speech disabilities and visual impairment.  We also know there are accessiblity challenges with chatbots as well as with the current chatbot built on Power Virtual Agent. We want to conduct research to understand the use of chatbots by Veterans and capture qualitative feedback about our product, including:
+- Who are they providing care for
+- What are the challenges the Veteran is experiencing (i.e type of disability)
+- How caregivers normally find information on va.gov
+- Do caregivers sign into va.gov (using Veteran’s info) - why or why not
+- When someone can’t find how to do something on va.gov, what do they do
+    - Non-VA: Veterans, social media etc.
+    - VA: help desk, etc. VA facility, VSO
+    - Other
 
-- What assistive technology do Veterans use and for what tasks for va.gov
-- How Veterans normally contact the VA and how often and why
-- Do Veterans sign into va.gov - why or why not
-- How Veterans normally find information on va.gov
-- How often Veterans speak with a VA help desk/contact center
-- Have Veterans ever used a chatbot or virtual agent online
-- Have Veterans used the coronavirus chatbot on VA.gov
-- Did the chatbot we created answer questions accurately
-- Did the chatbot we created understand what participant were trying to ask
-- Did participants have the information needed to take the next step to complete the tas
-- If the chatbot wasn’t able to answer questions, how did that make participants feel
-- How do participants feel about the voice, tone, quality of the responses
-- Can a chatbot help reduce how often they contact the VA
-- Would participants be willing to use the chatbot again
+- What channels do they use to contact the VA, why do they choose that channel and how often do they use it?
+- What are common challenges they’re trying to solve?
+- What are challenges they experience when contacting the VA and when do they switch to another channel and why
+- How often caregivers speak with a VA help desk/contact center
+- What was the process to resolve the problem and did it get resolved?
+- Have caregivers ever used a chatbot or virtual agent online?
+- Did caregivers used the coronavirus chatbot on VA.gov - why or why not
+- What functionality would caregivers find valuable in a chatbot
+- What content (questions and topics) would caregivers find valuable in a chatbot and what language would the expect
 
 
 4. Hypothesis: What is your hypothesis for this research? 	
@@ -54,19 +56,11 @@ Since we are also conducting a controlled study of the chatbot we will be lookin
 ## Method
 1.	What method of research are you planning? 	
 
-We would like to conduct direct interviews with observation of the product.  
-
-We are aware of some of the accessibility challenges in the product but would like to observe users with the product directly to understand more about these problems how severe they are and also gain feedback on the product itself.
+We would like to conduct direct interviews with caregivers.
 
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
-We want to interview and observe so that we can:
-
-- Identify problems they experience while utilizing assistive technology. 
-- Learn in what ways any disability can impact chatbot usage. 
-- Understand how participants are using the chatbot - what tasks they’re trying to complete, how they interact with the chatbot and how they correct errors.
-- If they try to sign into va.gov prior to engaging with the chatbot. 
-- Observe what language they use when engaging with the chatbot. 
+We want to interview caregivers so that we can answer our research questions.
 
 3.	Where are you planning to do your research
 
@@ -85,14 +79,19 @@ Perigean's Zoom
 
 1. **Primary criteria / Must have** 
 
-We are looking for 10 Veterans who have experiences with any of the following:
+We are looking for caregivers of disabled Veterans who:
+use va.gov frequently
+are ‘power users’ - i.e. the Veteran they are a caregiver of uses VA healthcare, they file claims on behalf of a Veteran, have a home loan or use GI Bill etc.
+
+By disability we refer to Veterans who have experiences with any of the following:
 
 - Auditory disabilities
-- Cognitive, learning, and neurological disabilities - autism, adhd, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning (such as learning, problem-solving, judgment)
+- Cognitive, learning, and neurological disabilities - autism, adhd, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning (such as learning, problem-solving, judgment
 - Physical (i.e. motor) disabilities
 - Speech disabilities
 - Visual impairment
 - PTSD, TBI or MST
+
 
 2.	What is your recruitment strategy? 	
 
