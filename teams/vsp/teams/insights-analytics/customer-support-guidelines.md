@@ -73,6 +73,7 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
 
 - VFS Use: To request access to Google Analytics and/or Domo.
   - GA access: add folks to the account level, and provide Collaboration rights.
+    - For security purposes, please do not provide access to personal gmail accounts. All GA access should be given to business and VA.gov emails. Users with VA.gov emails will need to create a Google account if they don't already have one and link their account to their VA.gov email. User instructions are located [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-access-to-google-analytics). 
   - [Read here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-tools/domo-internal-faq.md) for how to provision Domo access.
 
 [**General Analytics Request**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-general-request-template.md&title=General+Analytics+Request+for+%5Bperson+or+team%5D)
