@@ -1,4 +1,4 @@
-# Research Plan for Virtual Agent Inclusive Design Interviews, 6/2/2021
+# Research Plan for Virtual Agent Inclusive Design Interviews with Caregivers, 6/2/2021
 
 As a researcher I want to create a research plan so Perigean can recruit the right users for our research study.
 
