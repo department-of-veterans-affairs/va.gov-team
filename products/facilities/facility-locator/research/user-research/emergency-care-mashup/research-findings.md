@@ -139,6 +139,8 @@ f) What information does a Veteran find helpful in preparing to go to a emergenc
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
+
+
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
