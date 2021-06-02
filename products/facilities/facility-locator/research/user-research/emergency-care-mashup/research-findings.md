@@ -86,13 +86,33 @@ vi) True: from personal experience, and not necessarily information in the searc
 
 ## Details of Findings
 
-### Research Questions
+### Research Questions Details
 
-a) 
+a) What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
 
-### Hypotheses
+b) What information do Veterans need/want for community emergency care (in VA network) locations?
 
+c) Can Veterans distinguish between these location types in a single list?
 
+d) Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
+
+e) Would Veterans click to learn more about community emergency care benefits?
+
+f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
+
+### Hypotheses Details
+
+i) Veterans want to search for a single list, containing both VA and community emergency care options.
+
+ii) Veterans understand they can go to any local emergency room, not just those in the results list.
+
+iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
+
+iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
+
+v) Veterans understand how to learn more about [community care emergency benefit](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
+
+vi) Participants will understand what to do in case of emergency
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
