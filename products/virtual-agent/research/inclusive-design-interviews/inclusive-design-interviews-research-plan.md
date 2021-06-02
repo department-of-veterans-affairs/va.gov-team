@@ -15,43 +15,36 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
 - Who are they providing care for
+    - For what type of disability (i.e psychological, cognitive, physical, auditory, visual) 
+    - The type of care (i.e physical, emotional, financial)
+    - The frequency of care (i.e daily, check-ins, monthly)
+    - Where care is provided (i.e. home, hospice, living assistance, nursing home)
+    - If help is provided (i.e. family members, health aid) 
+
 - What are the challenges the Veteran is experiencing (i.e type of disability)
 - How caregivers normally find information on va.gov
-- Do caregivers sign into va.gov (using Veteran’s info) - why or why not
-- When someone can’t find how to do something on va.gov, what do they do
-    - Non-VA: Veterans, social media etc.
-    - VA: help desk, etc. VA facility, VSO
-    - Other
+    - Do caregivers sign into va.gov (using Veteran’s info) - why or why not
+    - When someone can’t find how to do something on va.gov, what do they do
+      - Non-VA: Veterans, social media etc.
+      - VA: help desk, etc. VA facility, VSO
+      - Other
 
-- What channels do they use to contact the VA, why do they choose that channel and how often do they use it?
-- What are common challenges they’re trying to solve?
-- What are challenges they experience when contacting the VA and when do they switch to another channel and why
 - How often caregivers speak with a VA help desk/contact center
-- What was the process to resolve the problem and did it get resolved?
 - Have caregivers ever used a chatbot or virtual agent online?
 - Did caregivers used the coronavirus chatbot on VA.gov - why or why not
 - What functionality would caregivers find valuable in a chatbot
 - What content (questions and topics) would caregivers find valuable in a chatbot and what language would the expect
 
-
 4. Hypothesis: What is your hypothesis for this research? 	
 
 The focus is on understanding general usage and mental models rather than validating a specific hypothesis. However, we are curious about the following assumptions: 
 
-- Participants who require assistive technology such as screen readers or rate the experience negatively; we also want to understand what problems occur and how severe they are
-- Participants may search for resources related to disability
-- Participants may become frustrated or rate the experience negatively when they can’t identify language to make the chatbot ‘work’.
+- Caretakers of disabled Veterans may benefit from a chatbot that can provide them with fast information to help them make a decision quickly. 
+- Caretakers who are novice VA.gov users may also be new to the role of caretaker, and may be looking for information to help them get up to speed, and may want help acquiring the benefits that are available for their Veteran. 
+- Caretakers who are comfortable with VA.gov, may be looking for personalized information about their Veteran (i.e. appointment confirmations)
+- Not all caretakers provide 100% assistance for their Veterans. Some caretakers may need fast and on-the-go information that they can screenshot or share quickly with their Veteran, who can then complete the task on their own.
+- Caretakers may only end up caretakers after the death of a family Veteran, and may be looking for burial-related benefits. 
 
-Since we are also conducting a controlled study of the chatbot we will be looking at the hypotheses from that study, including:
-
-- More Veterans will attempt to find information that requires authentication (e.g., claims-status). 
-- We will see a high number of questions that the bot has not yet been trained to answer. 
-- There is a niche-market for this product. We wonder if:
-    - Caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
-    - Veterans who may be seeking anonymity (e.g., LGBTQ+, housing or food insecurity, mental-health crisis) may be more comfortable utilizing this tool over speaking with a human. 
-    - Veterans will attempt to sign in order to use the bot for their specific information.
-    - Veterans will want the chatbot to transfer their conversation directly to a human agent. 
-    - Veterans will expect that the chatbot cannot answer in depth questions. 
 
 ## Method
 1.	What method of research are you planning? 	
@@ -80,8 +73,8 @@ Perigean's Zoom
 1. **Primary criteria / Must have** 
 
 We are looking for caregivers of disabled Veterans who:
-use va.gov frequently
-are ‘power users’ - i.e. the Veteran they are a caregiver of uses VA healthcare, they file claims on behalf of a Veteran, have a home loan or use GI Bill etc.
+- use va.gov frequently
+- are ‘power users’ - i.e. the Veteran they provide care to use VA healthcare, they file claims on behalf of a Veteran, have a home loan or use GI Bill etc.
 
 By disability we refer to Veterans who have experiences with any of the following:
 
@@ -92,7 +85,6 @@ By disability we refer to Veterans who have experiences with any of the followin
 - Visual impairment
 - PTSD, TBI or MST
 
-
 2.	What is your recruitment strategy? 	
 
 Perigean
@@ -102,11 +94,11 @@ Perigean
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
 
-**TO UPDATE**
+June 14-18
 
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 
-Yes, the product will be ready at staging.va.gov/virtual-agent-study.
+We will not be directly testing a product. 
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 
