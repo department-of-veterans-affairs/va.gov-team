@@ -19,30 +19,62 @@
 * Breadcrumb cross-team spike 
  * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot Feb 3)
 5. Using API for online scheduling information
+6. Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
 
 </details>
+
+## June 9
+
+* Review helpdesk issues that have arisen
 
 ## June 2
 
 **Vet Center** 
 * Vet Center launches
+  * Michelle and Dave working on MVP runbook for first 10
+  * Criteria: content review - alignment with content intent, no wordsmithing. 
+  * Check-in on Monday, temperature check
+  * Can we look at activity by Vet Center editors? 
+    * Jane can look at content changes and user activity
+    * Google analytics by role?
+  * 6 of 10 users have been logged in since week sometime
+  * Sprint 35: 140 user accounts for District 5 (2 per Vet Center)
+    * Sprint 34: Jane can generate a XLS template to send to Jessica end of week of June 7
+    * Name, Email, Vet Center association
+    * District 5 will have 4 weeks to complete their content
+
 
 **VAMC**
 
 IA 
-* Menu lockdown updae
-* /about/reporting page as a parent for VAMC reporting content like Legionella and Water quality monitoring
+* Menu lockdown update
 
 Other
 * Validation of VAMC type of care implementation
+  * CMS team can go ahead and [remove the parent items](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4768) (content change), with QA on Tugboat 
 * Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
+
+Staff profile content type
+* What help text is needed if any, right now
+* Image Resolution - different needs for different contexts
+* A bio should be the trigger for stand-alone page
+* Vet Center may want to use only first name
+* CMS can add a boolean for bio field, and two bio fields can be made dependent on that. FE can build based on boolean field being true. 
+
+
 
 **Product triage**
   * **As a** Tier 1/2/3 help desk responder **i want** a report of known issues (feature requests and defects) across the va.gov-cms and va.gov-repo, for [the VAMC product] [the Vet Center product][some other product] **so that** i can track resolution, and add additional information, and so that i don’t have to treat Slack as the repository of product information. 
+  * FE Defects, eg
     * Stories where FE requires image but CMS does not 
     * VAMC Locations list pages missing locations
     * Archived facility health services showing on prod
- 
+  * Feature requests, eg
+    * i want to add an event to a Vet Center
+  *  
+
 
 ## Wednesday May 26
 
