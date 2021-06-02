@@ -12,12 +12,12 @@ The goals of this user research study are to:
 - Better understand why some Veterans choose to not apply for health care benefits.
 - Better understand why Veterans start the application, but don’t complete it.
 - Gain human understanding behind the sections that the analytics show high drop-off rates.
-- Better understand context, environmental factors, and user behaviors, and feelings about the Health Care application.
+- Better understand context, environmental factors, and user behaviors, and feelings about the Health care application.
 - Run a general check of the application’s usability and the users’ understanding of the content and why they must provide the information that it asks for.
 
 ## Research Methodology 
 
-We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using the Perigean contract. Each moderated session was approximately 1 hour long, in which we asked participants to talk about their health care application experience while asking them to complete a 10-10EZ.  This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
+We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using the Perigean contract. Each moderated session was approximately 1 hour long, in which we asked participants to talk about their health care application experience while asking them to complete a 10-10EZ.  This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health care application in staging, and assess the sections that [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
 
 ### Who we talked to (including pilot participant)
 
