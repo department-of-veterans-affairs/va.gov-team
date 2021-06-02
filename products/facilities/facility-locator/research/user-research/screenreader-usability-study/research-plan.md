@@ -119,7 +119,7 @@ We’re going to ask you some questions about your disability as this study is h
 
 ### Times below in Eastern 
 
-- Study dates: June 8 - 17, 2021
+- Study dates: June 8 - 25, 2021
 - Session length: **2 hours** 
 - Pilot session - Mobile & Desktop: Thursday, June 3, 4-6pm 
 
