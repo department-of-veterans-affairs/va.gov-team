@@ -29,6 +29,8 @@
 # What is LoROTA Light?
 LoROTA Light is a subset of LoROTA with the primary difference being that instead of passing an encrypted string containing sensitive data as a unique identifier, a simple UUID is passed. 
 
+- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_Light_Sequence.png)
+
 ## Why use LoROTA Light?
 ### Applications that use LoROTA Light do so for one reason:
 1. The uniqueness of a LoROTA encrypted string can be used to verify that the a user moving between modalities (i.e. text message to web) is the same user.
