@@ -35,11 +35,27 @@
 
 </details>
 
+## June 8 
+
+[kevin may be out for this]
+
+
 ## June 1
 
 * VAMC Pittsburgh redirects [PW #25044](https://github.com/department-of-veterans-affairs/va.gov-team/25044) / [CMS #5132](https://github.com/department-of-veterans-affairs/va.gov-cms/5132) / [Devops #9286](https://github.com/department-of-veterans-affairs/devops/pull/9286)
+  * Kev content fixes will go out at 11am ET content release
+  * Kelson and Jeremy will roll out redirects 11:30am 
+
+CLP
 * `og:image` for CLP and beyond (can we pick one other product/content type?)
+  * CMS issue to start speccing `og:image` for VAMC facility and CLP, using 2:1 1024x512 
 * image derivatives in story teasers on CLP
+* survey going out to John Santos
+* Brian and John will be outlining the future of the governance of CLP post-MVP... is a request form needed for that? 
+
+Outreach hub
+* John meeting with Jean and Tim next week
+
 
 ## May 26
 
