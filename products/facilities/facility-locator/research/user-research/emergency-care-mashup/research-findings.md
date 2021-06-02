@@ -40,9 +40,25 @@ e) Would Veterans click to learn more about community emergency care benefits?
 
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
+### Additional Hypotheses
+
+i) Veterans want to search for a single list, containing both VA and community emergency care options.
+
+ii) Veterans understand they can go to any local emergency room, not just those in the results list.
+
+iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
+
+iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
+
+v) Veterans understand how to learn more about [community care emergency benefit](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
+
+vi) Participants will understand what to do in case of emergency
+
 ## Key Findings
 
-a) Most participants expressed a desire for clear benefits information. Most participants also emphasized the importance of finding the closest location, and some were explicit about wanting non-VA locations to be present in search results, in case they were closer than VA locations.
+### Research Questions
+
+a) Most participants emphasized the importance of finding the closest location, and some were explicit about wanting non-VA locations to be present in search results, in case they were closer than VA locations. Most participants expressed a desire for clear benefits information.
 
 b) Most participants wanted clearer and more easily accessible information about their benefits at community partners to be present in search results.
 
@@ -54,9 +70,29 @@ e) Only two participants clicked on the blue info alert present in search result
 
 f) Participants had a range of responses, the most notable included: a clear understanding of available services at the facility, clear and easily accessible benefits information, and the distance to the location.
 
+### Hypotheses
+
+i) Likely: most participants seemed to choose "All in-network" before other options, but some appreciated the specific VA and VA community partners distinction.
+
+ii) Likely: from personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
+
+iii) Likely: most participants recognized "in-network" as meaning only connected to the VA, including explicity VA facilities.
+
+iv) False: it's presence in the "Facility type" and "Service type" dropdowns did introduce confusion.
+
+v) Unlikely: while most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize access to more information present in the search results.
+
+vi) True: from personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention.
+
 ## Details of Findings
 
+### Research Questions
+
 a) 
+
+### Hypotheses
+
+
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
