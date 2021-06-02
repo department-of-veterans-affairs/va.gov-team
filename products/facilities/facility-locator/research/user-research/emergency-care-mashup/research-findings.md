@@ -74,22 +74,22 @@ f) Participants had a range of responses, the most notable included: a clear und
 ### Hypotheses
 
 i) **Likely:** 
-  - Most participants seemed to choose "All in-network" before other options, and prefered a list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction.
+  - Most participants seemed to choose "All in-network" before other options, and prefered a list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction. Two participants felt that "Service type" options were redundant.
 
 ii) **Likely:** 
   - From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
 
 iii) **Likely:** 
-  - Most participants recognized "in-network" as meaning only connected to the VA, including explicity VA facilities.
+  - Most participants recognized "in-network" as meaning VA and VA community partners.
 
 iv) **False:** 
-  - It's presence in the "Facility type" and "Service type" dropdowns did introduce confusion.
+  - It's presence in the "Facility type" and "Service type" dropdowns did introduce confusion in a few participants.
 
 v) **Unlikely:** 
-  - While most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize access to more information present in the search results.
+  - While most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize it access to more information.
 
 vi) **True:**
-  - From personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention.
+  - From personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention at any facility.
 
 ## Details of Findings
 
@@ -139,31 +139,75 @@ f) What information does a Veteran find helpful in preparing to go to a emergenc
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
+> [P6] "I don't know why I would exclude a VA facility...I don't know if I would go to the last one, because to get this info I would just click all in-network."
 
+> [P2] "It seems like it's redundant, but for a specific purpose - you may not get many results if you chose third [in-network community care] option."
 
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 
+> [P2]"If I am on a VA website, it is anything that is covered by the government...not including third party facilities."
+
+> [P4] "I would assume that all results...would be in-network."
+
 iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
+
+> [P4] "I would change in-network to ER."
+
+> [P5] "Does in-network mean Medicare and how does the VA dovetail?", "To me that was confusing...I don't know what that means. Does that only mean VA or you can go to the rural clinic but you have to call? That is not clear at all," "...in-network emergency care, to me that is a stumbling block...I would want to hit emergency care, then have the explanation."
+
+> [P14] "I would probably be a little confused. Is it all together? Is it any VA facility choice program that will work with the VA?"
 
 v) Veterans understand how to learn more about [community care emergency benefit](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
 
+> [P1] "How would I learn more about my benefits and the types of care that a facility offers...I don't see a way to do that", ""I would just call...the patient advocate. They know what is offered at the center."
+
+> [P2] "...it seem[s] like somewhere you can go to get more info."
+
+> [P10] "I would call the number to talk to the person...I just thought it [blue alert] was information, nothing that would give me [more] information."
+
+> [P11] "The blue info notice means I can go there...they will accept Veteran's insurance."
+
 vi) Participants will understand what to do in case of emergency
+
+> [P2] "...ER is still covered 100%...even if I'm not able to get to the VA."
+
+> [P4] "But if I go to a non-VA center then I'm supposed to call ahead to get approval...unless it's life or death."
+
+> [P6] "Common sense if you have an emergency, call 911."
+
+> [P14] "I can always take him to the hospital, but there are issues..."
 
 ## Additional Insights
 
 - Most partictipant's first choice during the open-ended search task was "Urgent Care" under the "Facility type" dropdown (5/9)
   - "VA Health" under the "Facility type" dropdown was the second most picked first-choice option (3/9)
 
+- For most participants, the main distinction between "urgent" and "emergency" seemed to non-life threatening out-patient emergencies, vs potentially life-threatening in-patient emergencies.
+  
+  > [P1] "Urgent care means you need care in that moment, but it's not a matter of life or death. Emergency care is a matter of life or death."
+
+  > [P2] "I think the fine line difference is whether it's life or death."
+
+- Very few participants pointed out the yellow emergency alert, and one participant stated that she noticed the blue info alert in the search results before the yellow.
+
+  > [P5] "[referecing yellow alert]...it's fine, but the blue caught my eye faster."
+
 ## Recommendations
 
 [Initial recommendations - may change]
 
 - Change "In-network emergency care" to "Emergency care"
+  - Veterans can choose VA or community partners under "Service type"
+- Make the blue info link more recognizable as a call to action
+  - Change text to "Learn more about your benefits"
+- [Likely not possible?] Add an explicit lable for VA/non-VA facilities in search results
+- 
 
 ## Next Steps
-Next steps here
+
+- Update design spec with recommendations
 
 ## Appendix
 ### Conversation guide
@@ -171,12 +215,12 @@ View the [Conversation Guide](https://github.com/department-of-veterans-affairs/
 
 ### Interview transcripts
 
+[Convert to .md]
+
 ### Tools used for Synthesis
-e.g. mural boards, etc.  
+
+[Participant findings spreadsheet]
 
 ### Pages and applications used
-Link to prototypes or pages that were tested
 
-### Other supporting documents created
-e.g. user flows, personas, etc.
 
