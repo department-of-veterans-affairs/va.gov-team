@@ -584,9 +584,9 @@ If we need you to provide more information or documents, we will contact you.
 
 A member of the Caregiver Support Program team at the medical center where the Veteran plans to receive care will contact you to discuss the application process and next steps in determining eligibility. If you aren’t eligible for PCAFC you may be eligible for the Program of General Caregiver Support Services (PGCSS). 
 
-If you have questions about your application, what to expect next, or if you are interested in learning more about the supports and services available to support Veterans and caregivers, you may contact the VA Caregiver Support Line at 855-260-3274 or visit www.va.caregiver.gov.
+If you have questions about your application, what to expect next, or if you are interested in learning more about the supports and services available to support Veterans and caregivers, you may contact the VA Caregiver Support Line at 855-260-3274 or visit www.caregiver.va.gov.
 
-[Go back to VA.gov]
+[Go back to VA.gov](https://www.va.gov/)
 
 
 
