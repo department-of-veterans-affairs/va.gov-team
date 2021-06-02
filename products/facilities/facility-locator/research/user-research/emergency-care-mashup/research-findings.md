@@ -29,20 +29,26 @@ A remote, via Zoom, moderated task-based usability study was conducted between M
 ### Research Questions
 
 a) What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
+
 b) What information do Veterans need/want for community emergency care (in VA network) locations?
+
 c) Can Veterans distinguish between these location types in a single list?
+
 d) Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
+
 e) Would Veterans click to learn more about community emergency care benefits?
+
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
 ## Key Findings
 
 a) Most participants expressed a desire for clear benefits information and procedures. Participants also emphasized the importance of finding the cloest location.
+
 b) Most participants emphasized the importance of finding the closest available facility.
+
 c) It was unclear if participants were able to quickly distinguish between VA locations and community partners in the results list.
+
 d) It was unclear if participants recognized that the results list was not comprehensive.
-- Most participants recognized that "in-network" meant VA locations or community partners, and that search results would reflect this.
-- Most participants noticed, but did not click on, the community care benefits info alert present in search results.
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
