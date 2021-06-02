@@ -1,5 +1,46 @@
 # Discharge Upgrade Wizard 2021 Content Updates - Meetings and Decisions
 
+## 2021-06-01 Meeting with Margarete Ashmore and John Santos
+- John Hashimoto, PO
+- Marci McGuire, PM
+- Margarete Ashmore
+- John Santos
+
+### Notes
+- Congratulations to John Santos on the Pride landing page launch
+- We are referencing the Word document that Mararete sent last week (about 8 changes listed)
+- I asked about the reference to the Kurto memo at the very end - Margarete thinks we already have this on the site
+- In talking to the board, they didn't coordinate that, a lot of was along the lines of managing expectations. 
+- John mentioned that we would have one of our content experts review/make suggestions that we would then talk with Margarete about
+- John Santos said that the major thing is that we make it as easy to read as possible (legalese to plain English)
+- If we have a local contact at the VA that we can reach out to, that would be perfect.
+- This is ultimately a DoD process.
+- Reality is that transgender is not going to be given liberal consideration unless they have another diagnosis that falls under the liberal consideration
+- Is there a timeframe after service 
+- PTSD does not have to be related to combat
+- Maybe we can clarify that bit.  Especially for trans folks may be considering upgrading through that.  Maybe PTSD due to military experience, and then it all becomes related to each other
+- Maybe we can clarify that the TBI and PTSD does not have to be combat-related
+- In general if someone is discharged due to a mental health condition, that is an honorable
+- John Santos is looking at the Discharge Upgrade FAQs - can we clarify a Discharge Process Review?  That is a VA process.  We can look back and see where that text came from.
+- We'll still have the Air Force path of the wizard.  I pointed out that the Air Force review board is going to take them through another questionnaire.  John Santos said maybe we explain that "hey, you may be asked some of these questions again.  Please be patient."
+- We can also clarify in the wizard that this is NOT a VA process; it's a DoD process.
+- Does DoD have any type of "customer care"?  Per Margarete, they don't.  The board members do something else as a job, they do board review ad-hoc almost like a town council.
+- Margarete is our point of contact, but not to publish on the website.
+
+### Decisions
+- Wizard still plays an important role? 
+- Margarete thinks that is true.
+- John also thinks this is true.
+
+### Action Items
+- John Santos is looking at the Discharge Upgrade FAQs - can we clarify a Discharge Process Review?  That is a VA process.  We can look back and see where that text came from.
+- John S and Kayla should review the FAQs and let us know of changes that we needed
+- John S and Margarete should go offline and discuss any other changes that are needed
+- John Santos and Kayla will go through the Wizard page by page and make it more VA centric and will also incorporate the informatino that Margarete provided, but not ncessarily hold their hand through a process that we can't control.
+- We should also ask the DoD to review the verbiage and determine which parts are best left for DoD.
+- **Next Steps** John/Kayla --> John/Margarete/DoD Review --> Final list of edits --> Content will review --> May be another review.
+- John Santos would like some contact information so that he can reach out with any questions.
+
 ## 2021-05-25 Meeting with Beth Potts
 
 ### Attendees
