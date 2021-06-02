@@ -10,9 +10,13 @@ This research is for the VA-Virtual Agent team for the Virtual Agent product.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s) to be determined. Ultimately, the virtual agent’s goal is to provide responses based on existing Va.gov content. This project is part of the larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information. 
+The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s) to be determined. Ultimately, the virtual agent’s goal is to provide responses based on existing Va.gov content to enable and encourage self service behaviors. This project is part of the larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information. 
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+
+We understand that a large percentage of Veterans live with disabilities, and that certain disabilities can prevent Veterans from using a chatbot efficiently. In order to prevent biases in our research, we must include voices from this segment of the VA population. Therefore, we want to speak with caretakers of disabled Veterans to understand how a chatbot may help them care for their Veteran, or help their Veteran care for themselves. Currently, our virtual agent/chatbot prototype is not (yet) 508 compliant, so speaking with caretakers, and not directly with disabled Veterans, will help us avoid frustration and unfairness in our research process. 
+
+We plan to ask questions such as:
 
 - Who are they providing care for
     - For what type of disability (i.e psychological, cognitive, physical, auditory, visual) 
@@ -21,8 +25,8 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
     - Where care is provided (i.e. home, hospice, living assistance, nursing home)
     - If help is provided (i.e. family members, health aid) 
 
-- What are the challenges the Veteran is experiencing (i.e type of disability)
-- How caregivers normally find information on va.gov
+- What are common challenges they’re trying to solve?
+- How caregivers normally find information on va.gov - channels, why do they choose that channel and how often they use it
     - Do caregivers sign into va.gov (using Veteran’s info) - why or why not
     - When someone can’t find how to do something on va.gov, what do they do
       - Non-VA: Veterans, social media etc.
@@ -31,7 +35,7 @@ The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s)
 
 - How often caregivers speak with a VA help desk/contact center
 - Have caregivers ever used a chatbot or virtual agent online?
-- Did caregivers used the coronavirus chatbot on VA.gov - why or why not
+- Did caregivers use the coronavirus chatbot on VA.gov - why or why not
 - What functionality would caregivers find valuable in a chatbot
 - What content (questions and topics) would caregivers find valuable in a chatbot and what language would the expect
 
@@ -44,7 +48,6 @@ The focus is on understanding general usage and mental models rather than valida
 - Caretakers who are comfortable with VA.gov, may be looking for personalized information about their Veteran (i.e. appointment confirmations)
 - Not all caretakers provide 100% assistance for their Veterans. Some caretakers may need fast and on-the-go information that they can screenshot or share quickly with their Veteran, who can then complete the task on their own.
 - Caretakers may only end up caretakers after the death of a family Veteran, and may be looking for burial-related benefits. 
-
 
 ## Method
 1.	What method of research are you planning? 	
@@ -61,7 +64,7 @@ Online, Perigean's Zoom
 
 4.	What will you be testing?
 
-We will be gathering feedback on the product at staging.va.gov/virtual-agent
+We will not be testing anything, but the product we have been working on is at  staging.va.gov/virtual-agent-study
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 
@@ -72,7 +75,7 @@ Perigean's Zoom
 
 1. **Primary criteria / Must have** 
 
-We are looking for caregivers of disabled Veterans who:
+We are looking for 5 caregivers of disabled Veterans who:
 - use va.gov frequently
 - are ‘power users’ - i.e. the Veteran they provide care to use VA healthcare, they file claims on behalf of a Veteran, have a home loan or use GI Bill etc.
 
@@ -106,10 +109,16 @@ Approximately 30 minutes sessions, with a 30 minute buffer in between.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 
-**TO UPDATE**
+Monday 9-12, 1-6
+Tuesday 9-12, 1-6
+Wednesday 9-12, 1-6
+Thursday 9-12, 1-6
+Friday 9-12, 1-6
+
+Please ensure there is at least ½ hour between interviews.
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-**TO UPDATE** - Luciana Morais and Katie Ho  **TO UPDATE**
+June 10th (approximately) - Luciana Morais or Katie Ho
 
 ## Team Roles
 
