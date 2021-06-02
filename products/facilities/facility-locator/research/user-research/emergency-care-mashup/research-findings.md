@@ -152,6 +152,8 @@ vi) Participants will understand what to do in case of emergency
 
 [Initial recommendations - may change]
 
+- Change "In-network emergency care" to "Emergency care"
+
 ## Next Steps
 Next steps here
 
