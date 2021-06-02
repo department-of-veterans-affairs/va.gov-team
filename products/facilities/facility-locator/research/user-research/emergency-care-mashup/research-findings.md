@@ -101,17 +101,33 @@ a) What information do Veterans need/want from the Facility Locator search resul
 
 > [P14] "I would look more at distance if it were an emergency."
 
-> 
-
 b) What information do Veterans need/want for community emergency care (in VA network) locations?
+
+> [P1] "How would I learn more about my benefits...I don't see a way to do that."
+
+> [P5] "[You] can't go to them unless you are already authorized. [If you] believe you can go there directly you will get a bill."
+
+> [P11] "I would also choose that to see if other community care providers are covered through the VA before traveling farther to another VA location."
 
 c) Can Veterans distinguish between these location types in a single list?
 
+> [P4] "I don't know why two of the results have [blue info alert] and the other two don't...I just realized the bottom two are VA."
+
+> [P11] "It also says that the top two are in-network...if I were too far from a VA hospital then I could go to one of [these]."
+
 d) Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
+
+> [P4] "It's weird there is only an in-network emergency care and not also out-of-network emergency care"
 
 e) Would Veterans click to learn more about community emergency care benefits?
 
+> [P2] "...[referencing info alert] seems more like an information section than an alert...seem[s] like somewhere you can go to get more info."
+
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
+
+> [P6] "...services offered to by hyper linked on each one...I would like a link here."
+
+> [P4] "I would do a quick search for review...I would rather go to a civilian hospital...normally better care."
 
 ### Hypotheses Details
 
@@ -128,10 +144,13 @@ v) Veterans understand how to learn more about [community care emergency benefit
 vi) Participants will understand what to do in case of emergency
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+
+- Most partictipant's first choice during the open-ended search task was "Urgent Care" under the "Facility type" dropdown (5/9)
+  - "VA Health" under the "Facility type" dropdown was the second most picked first-choice option (3/9)
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+
+[Initial recommendations - may change]
 
 ## Next Steps
 Next steps here
