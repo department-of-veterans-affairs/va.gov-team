@@ -29,8 +29,6 @@
 # What is LoROTA Light?
 LoROTA Light is a subset of LoROTA with the primary difference being that instead of passing an encrypted string containing sensitive data as a unique identifier, a simple UUID is passed. 
 
-- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_Light_Sequence.png)
-
 ## Why use LoROTA Light?
 ### Applications that use LoROTA Light do so for one reason:
 1. The uniqueness of a LoROTA encrypted string can be used to verify that the a user moving between modalities (i.e. text message to web) is the same user.
@@ -38,6 +36,8 @@ LoROTA Light is a subset of LoROTA with the primary difference being that instea
 ## An Example Use Case:
 ### What is Check In Experience?
 - Check In Experience (near term MVP) is a VA.gov product that will allow a Veteran with an appointment to check in for that appointment from va.gov. 
+
+- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_Light_Sequence.png)
 
 ### How might Check In Experience use LoROTA Light?
 The Check In Experience workflow begins with the Veteran sending an SMS text message to VeText indicating that they are in the clinic and ready to check in. VeText sends a SMS response containing a link to VA.gov Check In Experience that includes a LoROTA Light UUID. When the Veteran clicks the link, the VA.gov Check In Experience page loads. The current scope of this product is to display minimal appointment data and a `Check In` button.  This workflow mimics a pattern established by VeText and the `I Am Here` application, with the primary difference being the change in modality from SMS to Web. When the `Check In` button is clicked and the request received by VeText, the UUID is invalidated. 
