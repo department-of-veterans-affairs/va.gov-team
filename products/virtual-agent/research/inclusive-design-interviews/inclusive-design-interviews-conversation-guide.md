@@ -33,7 +33,27 @@ Before we start, a few things I want to mention:
 ## Questions
 
 
-
+- Who they provide care for
+    - For what type of disability (i.e psychological, cognitive, physical, auditory, visual) 
+    - The type of care (i.e physical, emotional, financial)
+    - The frequency of care (i.e daily, check-ins, monthly)
+    - Where care is provided (i.e. home, hospice, living assistance, nursing home)
+    - If help is provided (i.e. family members, health aid) 
+- What are common challenges they’re trying to solve?
+- How caregivers normally find information on va.gov - channels, why do they choose that channel and how often they use it
+- Do caregivers sign into va.gov (using Veteran’s info) - why or why not
+- What do they do when they can’t find the information they need on VA.gov? 
+    - Non-VA: Veterans, social media etc.
+    - VA: help desk, etc. VA facility, VSO
+    - Other
+
+- What are challenges they experience when contacting the VA and when do they switch to another channel and why
+- How often caregivers speak with a VA help desk/contact center
+- What was the process to resolve the problem and did it get resolved?
+- Have caregivers ever used a chatbot or virtual agent online?
+- Did caregivers used the coronavirus chatbot on VA.gov - why or why not
+- What functionality would caregivers find valuable in a chatbot
+- What content (questions and topics) would caregivers find valuable in a chatbot and what language would the expect
 - Do you have any other feedback you'd like to share?
 
 
