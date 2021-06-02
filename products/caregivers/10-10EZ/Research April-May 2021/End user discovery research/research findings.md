@@ -17,7 +17,7 @@ The goals of this user research study are to:
 
 ## Research Methodology 
 
-We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using the Perigean contract. Each moderated session was approximately 1 hour long, in which we asked participants to talk about their health care application experience while asking them to complete a 10-10EZ.  This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
+We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using the Perigean contract. Each moderated session was approximately 1 hour long, in which we asked participants to talk about their health care application experience while asking them to complete a 10-10EZ.  This method allowed us to explore the usability, potential drop-off points, and general sentiment around the 10-10EZ Health Care application in staging, and assess the sections that [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) show high drop-off rates as well as general usability of the application.
 
 ### Who we talked to (including pilot participant)
 
@@ -54,12 +54,15 @@ We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using t
   - Rural: 2
   - Unknown: 1
 
-- Has VA Health care:
-  - Yes, applied more than 6 months ago: 7
+- Has VA health care:
   - Yes, applied less than 6 months ago: 1
-  - Doesn't think so/unsure: 1 (This Veteran receives health care through military retirement) 
+  - Yes, applied more than 5 years ago: 1
+  - Yes, not sure when applied (more than 1 year): 5
+  - Thinks yes/unsure: 1
+  - Thinks no/unsure: 1 
 
-**Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested recruitment of participants who had not previously completed the 10-10EZ, due to no-shows and participant confusion of health care benefits separate from other benefits during recruitment screening, 7 of our participants already receive VA Health care, 1 participant had just applied in the last 6 months, and 1 participant was uncertain if they have VA Health care - receives health care through military retirement and thought also had some VA benefits.
+
+**Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested recruitment of participants who had not previously completed the 10-10EZ, due to no-shows and participant confusion of health care benefits separate from other benefits during recruitment screening, 7 of our participants already receive VA health care, 1 participant had just applied in the last 6 months, and 1 participant was uncertain if they have VA health care - receives health care through military retirement and thought also had some VA benefits.
 
 ### Research Questions
 
@@ -77,7 +80,7 @@ The research questions we sought to address:
 ## Key Findings
 
 **General**
-1. Participants feel that the VA should already have much of the information that the VA Health care application requests.
+1. Participants feel that the VA should already have much of the information that the VA health care application requests.
 2. Participants want more transparency on why questions are asked and how that will affect their eligibility.
 3. Participants were  unsure how they will receive updates on their application status.
 4. Participants noted that questions were hard to understand and they wanted plain language explanations
@@ -94,17 +97,19 @@ The research questions we sought to address:
 
 ## Key Findings - General
 
-### Participants feel that the VA should already have much of the information that the VA Health care application requests.
-- Many participants said that they felt frustration that they had to provide similar information for various VA applications. Many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some POAs find the questions about service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries. 
+### Participants feel that the VA should already have much of the information that the VA health care application requests.
+- Many participants said that they felt frustration that they had to provide similar information for various VA applications. Many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some POAs find the questions about service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries that hinder their memory of service dates, paperwork location, and desire to discuss topics.. 
+
+**Note:** This research was conducted unauthenticated, thus participants didn’t have the experience of having some pre-filled fields that an authenticated applicant would have.
 > "I file my taxes online, can't it just pull my tax information like the FAFSA does?"
 
 > "Why do I have to fill out the military service history and upload a DD214, doesn't the VA already have this information...from the military?"
 
 ### Participants want more transparency on why questions are asked and how that will affect their eligibility.
-- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving health care benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure. All participants expressed that they wished that there was more transparency about how their answers would impact their health care eligibility. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application. Many participants said that they would be more likely to complete the application if they knew why the information was being requested and how it could help them get VA Health care.
+- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving health care benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure. All participants expressed that they wished that there was more transparency about how their answers would impact their health care eligibility. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application. Many participants said that they would be more likely to complete the application if they knew why the information was being requested and how it could help them get VA health care.
 > "We are focused on the end result, 'do we qualify?' so it would help us to understand how this information is used."
 
-> "What does my spouse's income have to do with my VA Health care? I'm applying for me, not them. This is too nosy, I would say that I am not married." _(participant is married)_
+> "What does my spouse's income have to do with my VA health care? I'm applying for me, not them. This is too nosy, I would say that I am not married." _(participant is married)_
 
 >  _On financial disclosure page_ "I wish it was more clear about the income threshold, I would be worried that I don't qualify."
 
@@ -132,7 +137,7 @@ The research questions we sought to address:
 
 ### Participants didn’t understand how the Service History section choices were organized, thus causing confusion when choosing answers and fear of ineligibility.
 The service history page causes confusion for two main reasons:
- - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA Health care. 
+ - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA health care. 
 
 > _On service history page_ "Since none of these apply to me, I would be worried this would disqualify me." _When asked if it would deter from finishing form_ "It might, yes."
 
@@ -198,14 +203,14 @@ The service history page causes confusion for two main reasons:
 ## Recommendations
 
 ### Transparency
-1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility, providing explanations for questions that the research and analytics show to be the most troublesome for applicants.
+1. Clarify that each question is necessary and be able to answer how it is used to determine VA health care eligibility, providing explanations for questions that the research and analytics show to be the most troublesome for applicants.
 2. Explore progress bar and heading title options to provide clearer progression
 3. Mitigate fear of being automatically disqualified
 
 ### Reduced burden
 1. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
     1. Order of questions should be chunked according to Veterans' mental model
-    2. Headings on page should be properly labeled for screen reader accessibility 
+    2. Headings on page should be properly labeled to reflect application prgression
     3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
     4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
 
@@ -226,11 +231,11 @@ The service history page causes confusion for two main reasons:
 ### Accessibility
 1. Explore 1 question per page (also reduces burden)
 2. Make sure that all button and link treatment and behavior is correct
-3. Make sure headings are correctly labeled
+3. Headings on page should be properly labeled for screen reader accessibility 
 
 ## Next Steps
 
-1. Clarify that each question is necessary and be able to answer how it is used to determine VA Health care eligibility removing any question that is not required by the program team (if any)
+1. Clarify that each question is necessary and be able to answer how it is used to determine VA health care eligibility removing any question that is not required by the program team (if any)
 2. Rewrite any question/choices that caused confusion (including updating the gender, preferred contact, and simplifying introduction page)
 3. Create content "source of truth"
 4. Update the flow 
