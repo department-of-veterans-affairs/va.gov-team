@@ -73,17 +73,17 @@ f) Participants had a range of responses, the most notable included: a clear und
 
 ### Hypotheses
 
-i) Likely: most participants seemed to choose "All in-network" before other options, and some noted the usefulness of the VA and VA community partners distinction.
+i) **Likely:** most participants seemed to choose "All in-network" before other options, and prefer the list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction.
 
-ii) Likely: from personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
+ii) **Likely:** from personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
 
-iii) Likely: most participants recognized "in-network" as meaning only connected to the VA, including explicity VA facilities.
+iii) **Likely:** most participants recognized "in-network" as meaning only connected to the VA, including explicity VA facilities.
 
-iv) False: it's presence in the "Facility type" and "Service type" dropdowns did introduce confusion.
+iv) **False:** it's presence in the "Facility type" and "Service type" dropdowns did introduce confusion.
 
-v) Unlikely: while most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize access to more information present in the search results.
+v) **Unlikely:** while most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize access to more information present in the search results.
 
-vi) True: from personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention.
+vi) **True:** from personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention.
 
 ## Details of Findings
 
