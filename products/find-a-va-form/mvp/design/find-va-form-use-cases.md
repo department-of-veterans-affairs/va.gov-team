@@ -8,7 +8,7 @@
   - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.
 
 * **Link to designs:** 
-  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
 
 * **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
@@ -26,7 +26,7 @@
   - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
 
 * **Link to designs:** 
-  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
 
 * **Instructions to access in Staging:**
   - https://staging.va.gov/find-forms/
@@ -43,7 +43,7 @@
   - When a user searches for a form that was once valid, but has since been deleted/deprecated, an alert is displayed to indicate deleted form.
 
 * **Link to designs:** 
-  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/deleted-form.png
+  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/deleted-form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -60,7 +60,7 @@
   - When a user searches for a VA form that is not valid, and was not valid in the past, an alert is displayed to indicate invalid search.
 
 * **Link to designs:** 
-  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/invalid-form.png
+  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/invalid-form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -74,11 +74,17 @@
 **Note** the relevance option was added to the existing sorting use case on 5/7/2021.
 
 * **Description:** 
-  - When a user is presented with a list of search results, they can use the **Sort By feature** to sort them by Form Last Updated date, alphabetically, or by relevance.
+  - When a user is presented with a list of search results, they can use the **Sort By feature** to change the order of results. Options presented include:
+       - Best Match (Note: this should be the default sort order)
+       - Most Popular
+       - Ascending (A-Z)
+       - Descending (Z-A)
+       - Last Updated (newest)
+       - Last Updated (oldest)
 
 * **Link to designs:** 
-  -  prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b0086df2-db66-42e9-b202-2f790435e7c3?hints=off
-  -  mobile prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b5bcf931-4c82-42b3-9a11-cca84dfcedb8?hints=off
+  -  🌟**update** prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b0086df2-db66-42e9-b202-2f790435e7c3?hints=off
+  -  🌟**update** mobile prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b5bcf931-4c82-42b3-9a11-cca84dfcedb8?hints=off
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
