@@ -62,24 +62,41 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
 
-Montrose 1 VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_620QA
+1. Montrose 1 VA Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_620QA
+    - In dual state? Yes
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-1-va-mobile-clinic/
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-2-va-mobile-clinic/
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
 
-Columbia VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_544HK
+2. ~~Columbia VA Mobile Clinic~~ **OFF LIMITS**
+  - https://www.va.gov/find-locations/facility/vha_544HK
 
-Chillicothe VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_538QA
+2. Chillicothe VA Mobile Clinic
+  - https://www.va.gov/find-locations/facility/vha_538QA
+  - In dual state? [No](https://www.va.gov/chillicothe-health-care/)
 
-Cheyenne VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_442QF
+3. Cheyenne VA Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_442QF
+    - In dual state? Yes
+    - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
 
-Puget Sound VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_663Hk
+4. Puget Sound VA Mobile Clinic
+  - https://www.va.gov/find-locations/facility/vha_663Hk
+  - In dual state? No
 
-Texas Valley Coastal Bend VA Mobile Clinic
-https://www.va.gov/find-locations/facility/vha_740QA
+5. ~~Texas Valley Coastal Bend VA Mobile Clinic~~ **OFF LIMITS**
+  - https://www.va.gov/find-locations/facility/vha_740QA
+  - In dual state? [No](https://www.va.gov/texas-valley-health-care/) 
 
+5. Phoenix VA Mobile Clinic
+  - https://www.va.gov/find-locations/facility/vha_644QB
+  - In dual state? [No](https://www.va.gov/phoenix-health-care/)
+
+6. Long Beach VA Mobile clinic
+  - Cannot find on Facility Locator or VAMC - links below don't work
+  - https://www.va.gov/long-beach-health-care/
+  - https://www.va.gov/find-locations/facility/vha_600QB
 
 ### Notes:
 
