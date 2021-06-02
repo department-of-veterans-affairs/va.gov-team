@@ -1,5 +1,5 @@
 # Facility Locator - Screen reader, Usability Test
-## Research Plan - May 2021 Discovery 
+## Research Plan - June 2021 Discovery 
 
 #### Background 
 
