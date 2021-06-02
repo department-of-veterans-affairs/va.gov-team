@@ -37,9 +37,11 @@ A remote, via Zoom, moderated task-based usability study was conducted between M
 
 ## Key Findings
 
-- Most participants expressed a desire for clear benefits information and procedures to be associated with search results.
+- Most participants expressed a desire for clear benefits information and procedures.
   - A few participants expressed desire for an explicit list of available services per location in search results.
-  - Some participants wanted search results to include all available (out-of-network) facilities, and emphasized proximity as the main factor in choosing a location, even if they were not in-network.
+- Most participants emphasized the importance of finding the closest location.
+  - Some participants wanted search results to include all available (out-of-network) facilities
+- 
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
