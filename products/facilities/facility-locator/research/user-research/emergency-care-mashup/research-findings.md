@@ -56,7 +56,7 @@ vi) Participants will understand what to do in case of emergency
 
 ## Key Findings
 
-**Research Questions**
+### Research Questions
 
 a) Most participants emphasized the importance of finding the closest location, and some were explicit about wanting non-VA locations to be present in search results, in case they were closer than VA locations. Most participants expressed a desire for clear benefits information.
 
@@ -70,7 +70,7 @@ e) Only two participants clicked on the blue info alert present in search result
 
 f) Participants had a range of responses, the most notable included: a clear understanding of available services at the facility, clear and easily accessible benefits information, and the distance to the location.
 
-**Hypotheses**
+### Hypotheses
 
 i) Likely: most participants seemed to choose "All in-network" before other options, but some appreciated the specific VA and VA community partners distinction.
 
@@ -86,7 +86,7 @@ vi) True: from personal experience, and not necessarily information in the searc
 
 ## Details of Findings
 
-**Research Questions Details**
+### Research Questions Details
 
 a) What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
 
@@ -100,7 +100,7 @@ e) Would Veterans click to learn more about community emergency care benefits?
 
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
-**Hypotheses Details**
+### Hypotheses Details
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
