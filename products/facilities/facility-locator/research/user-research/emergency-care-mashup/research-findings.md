@@ -42,13 +42,17 @@ f) What information does a Veteran find helpful in preparing to go to a emergenc
 
 ## Key Findings
 
-a) Most participants expressed a desire for clear benefits information and procedures. Participants also emphasized the importance of finding the cloest location.
+a) Most participants expressed a desire for clear benefits information. Most participants also emphasized the importance of finding the closest location, and some were explicit about wanting non-VA locations to be present in search results, in case they were closer than VA locations.
 
-b) Most participants emphasized the importance of finding the closest available facility.
+b) Most participants wanted clearer and more easily accessible information about their benefits at community partners to be present in search results.
 
-c) It was unclear if participants were able to quickly distinguish between VA locations and community partners in the results list.
+c) It was unclear if most participants were able to quickly distinguish between VA locations and community partners in the results list. Some participants did note the distinction, based on the presence of the blue info alert for community partners, and the presence of "VA" in the title of VA facilities.
 
-d) It was unclear if participants recognized that the results list was not comprehensive.
+d) Most participants recognized that "in-network" search results contained only VA and VA partners, but it was unclear if most participants understood that "out-of-network" locations would not appear in the search results. Some participants were explicit about wanting to see "out-of-network" locations in the search results.
+
+e) Only two participants clicked on the blue info alert present in search results. Most participants noticed the alert, but either did not intuitively recognize it as access to additional information about benefits, or were simply unwilling to click it during the demo.
+
+f) Participants had a range of responses, the most notable included: a clear understanding of available services at the facility, clear and easily accessible benefits information, and the distance to the location.
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
