@@ -26,6 +26,7 @@
 
 * Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
 * /about/reporting page as a parent for VAMC reporting content like Legionella and Water quality monitoring
+* Validation of VAMC type of care implementation
 
 ## Wednesday May 26
 
