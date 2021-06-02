@@ -39,7 +39,10 @@ Other
 
 **Product triage**
   * **As a** Tier 1/2/3 help desk responder **i want** a report of known issues (feature requests and defects) across the va.gov-cms and va.gov-repo, for [the VAMC product] [the Vet Center product][some other product] **so that** i can track resolution, and add additional information, and so that i don’t have to treat Slack as the repository of product information. 
-
+    * Stories where FE requires image but CMS does not 
+    * VAMC Locations list pages missing locations
+    * Archived facility health services showing on prod
+ 
 
 ## Wednesday May 26
 
