@@ -55,7 +55,8 @@ e) Only two participants clicked on the blue info alert present in search result
 f) Participants had a range of responses, the most notable included: a clear understanding of available services at the facility, clear and easily accessible benefits information, and the distance to the location.
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+
+a) 
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
