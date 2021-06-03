@@ -1,4 +1,4 @@
-# Facility Locator - Emergency Mashup Research Findings 
+# Facility Locator - Emergency Care Mashup Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Facilities**<br>
 
 Nicholas Osmanski (nick.osmanski@amida.com), 06/03/2021
