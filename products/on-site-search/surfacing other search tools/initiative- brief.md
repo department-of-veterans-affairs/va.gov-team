@@ -349,7 +349,11 @@ We can see:
 <img width="908" alt="Screen Shot 2021-05-24 at 5 24 42 PM" src="https://user-images.githubusercontent.com/72393866/119409206-f37b2080-bcb4-11eb-8e48-bf19b9c905dc.png">
 
 ## Resources & Support Usage Data
-- VA.gov users are often navigating to resources and support in search of forms. The following data shows that the top search terms are related to form. This is further evidence that the various search experiences should ...
+- VA.gov users can be seen navigating to resources and support to look for forms. The following data (screenshot below) shows that the top search term for the month of May 2021 was for form dd214. This further evidence supports the findings that the various search experiences are not easily discovered and users are not sure wehre to go to find what they are looking for. Data captured using [Resources and Support Usage Report](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20210501&_u.date01=20210531&explorer-table.secSegmentId=analytics.searchStartPage&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.searchStartPage%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/) in Google Analytics. 
+
+![image](https://user-images.githubusercontent.com/72393866/120655523-c2d37d80-c450-11eb-98d3-e25e6898b71b.png)
+
+
 
 ## Prioritization
 
