@@ -135,6 +135,8 @@ i) Veterans want to search for a single list, containing both VA and community e
 
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
+> [P2] "...ER is still covered 100%...even if I'm not able to get to the VA."
+
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 
 > [P2]"If I am on a VA website, it is anything that is covered by the government...not including third party facilities."
