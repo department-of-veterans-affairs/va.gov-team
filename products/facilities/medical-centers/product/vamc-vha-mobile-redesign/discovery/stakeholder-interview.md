@@ -90,27 +90,27 @@ Today VA.gov links to a very simple page. [Show local webpage]
 ### TBD
 
 Long Beach VA Mobile clinic
-    - Cannot find on Facility Locator or VAMC 
-    - links below don't work
-    - https://www.va.gov/long-beach-health-care/
-    - https://www.va.gov/find-locations/facility/vha_600QB
+   - Cannot find on Facility Locator or VAMC 
+   - links below don't work
+   - https://www.va.gov/long-beach-health-care/
+   - https://www.va.gov/find-locations/facility/vha_600QB
 
 ### OFF LIMITS
 
 Texas Valley Coastal Bend VA Mobile Clinic 
 
-    - https://www.va.gov/find-locations/facility/vha_740QA
-    - In dual state? [No](https://www.va.gov/texas-valley-health-care/)
+   - https://www.va.gov/find-locations/facility/vha_740QA
+   - In dual state? [No](https://www.va.gov/texas-valley-health-care/)
     
 Houston VA mobile clinic
 
-    - https://www.va.gov/find-locations/facility/vha_580QB
-    - In dual state? **Yes**
-    - https://www.va.gov/houston-health-care/
+   - https://www.va.gov/find-locations/facility/vha_580QB
+   - In dual state? **Yes**
+   - https://www.va.gov/houston-health-care/
 
 Columbia VA Mobile Clinic
  
-    - https://www.va.gov/find-locations/facility/vha_544HK
+   - https://www.va.gov/find-locations/facility/vha_544HK
 
 
 
