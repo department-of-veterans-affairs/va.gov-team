@@ -1,5 +1,5 @@
 # Research plan for user acceptability testing (UAT) for Form 21-686c / staging environment
-**VSA eBenefits Team | August 2020**
+**VSA eBenefits Team | June 2021**
 
 `James Adams, designer/researcher`
 
@@ -93,35 +93,34 @@ Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 
 #### eBenefits Team Availability
 
-Please allow 30 minutes between sessions.
-
+**Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| September 14, 2020 | 9 AM to 5 PM |
-| September 15, 2020 | 9 AM to 5 PM |
-| September 16, 2020 | 9 AM to Noon |
-| September 17, 2020 | 9 AM to 5 PM |
-| September 18, 2020 | 9 AM to 5 PM |
-| W E E K - T W O |  |
-| September 21, 2020 | 9 AM to 5 PM |
-| September 23, 2020 | 9 AM to noon |
-| September 24, 2020 | 9 AM to 5 PM |
-| September 25, 2020 | Noon to 5 PM |
+| June X | 9 AM to 5 PM |
+| June X | 9 AM to Noon |
+| June X | 9 AM to Noon |
+| June X | 9 AM to 5 PM |
+| June X | 9 AM to Noon |
+| June X | 9 AM to 5 PM |
+
+- Schedule sessions as 30-minute blocks
+- Please leave at least 30 minutes between sessions 
 
 ### Team members
-- James Adams | jadams@governmentcio.com -- Moderator, designer
-- Steve Kovacs | steve.kovacs@va.gov -- DSVA lead
+- Candy Clark | cclark@governmentcio.com -- Moderator, designer
 - Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
-- Derek Dyer | ddyer@governmentcio.com -- Backend engineer
-- Micah Chiang | micha@adhocteam.us) -- Frontend engineer
+- Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- Perigean -- Participant recruiting & screening
+- James Adams | jadams@governmentcio.com -- Designer
+- Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
+- Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
 - Observers -- various as available
+- Others -- Pending
 
 ### Resources
-[Conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-convo-guide.md)
 
 ---
 
