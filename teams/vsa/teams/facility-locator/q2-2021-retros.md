@@ -27,3 +27,11 @@
 
 </details>
 
+<details>
+<summary> Sprint 48, ending June 1, 2021 </summary>
+
+![Sprint 48 Retro board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2048%20retro.PNG)
+
+</details>
+
+
