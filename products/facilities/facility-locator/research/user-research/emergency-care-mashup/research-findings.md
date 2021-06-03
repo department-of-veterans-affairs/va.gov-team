@@ -178,7 +178,7 @@ vi) Participants will understand what to do in case of emergency
 - Most partictipant's first choice during the open-ended search task was "Urgent Care" under the "Facility type" dropdown (5/9)
   - "VA Health" under the "Facility type" dropdown was the second most picked first-choice option (3/9)
 
-- For most participants, the main distinction between "urgent" and "emergency" seemed to non-life threatening out-patient emergencies, vs potentially life-threatening in-patient emergencies.
+- For most participants, the main distinction between "urgent" and "emergency" seemed to be non-life threatening out-patient emergencies, vs potentially life-threatening in-patient emergencies.
   
   > [P1] "Urgent care means you need care in that moment, but it's not a matter of life or death. Emergency care is a matter of life or death."
 
@@ -192,7 +192,7 @@ vi) Participants will understand what to do in case of emergency
 
 [Initial recommendations - may change]
 
-- Change "In-network emergency care" to "Emergency care"
+- Change "In-network emergency care" under Facility type, to "Emergency care"
   - Veterans can choose VA or community partners under "Service type"
 - Make the blue info link more recognizable as a call to action
   - Change text to "Learn more about your benefits"
