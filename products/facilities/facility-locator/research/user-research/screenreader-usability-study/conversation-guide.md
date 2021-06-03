@@ -85,17 +85,34 @@ _[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuY
 - You will then be asked to join audio. Please tap "Join audio."
 - Once you're in the call...
 
-## Screen sharing set-up
+## Screen sharing set-up - VoiceOver iOS (Mobile and Tablet) using web app
 
-_[SCREEN SHARE INSTRUCTIONS - NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+_[SCREEN SHARE INSTRUCTIONS](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+ - Swipe to or find the "Share content" button and double tap it. 
+ - A menu will appear. Swipe to the first option "Screen” and double tap it. 
+ - Swipe to the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
+ - If you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
 
 - **If no, go to backup plan**
 
-_[For Android: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+_[For Android:](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+
+
+## Screen sharing set-up - TalkBack, Android using web app
+
+ - Swipe to find the “share button” and double tap it. 
+ - A menu will appear with a list of items. Swipe until you find “screen” and double tap it. 
+ - You’ll be asked if you want to start recording or casting with Zoom. 
+ - Swipe to “start now” and double tap it.
+ - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to “display over other apps.” Swipe until you find “Zoom” in the list and double tap it. Continue swiping to find “Allow display over other apps” and confirm it is “off.” Double tap it to turn it on.
+ - Return to your home screen and the screen share should begin.
+ - If you need to stop sharing during the session, you can find the “stop share” button at any time at the bottom left corner of your screen (press your finger down and drag it to the bottom left corner, it will be by “share audio” and “announcements”). You can also open the zoom app and find the “stop share” button where the “share” butto
+
+_[SCREEN SHARE INSTRUCTIONS](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+
 
 _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
-
 
 **Backup plan if they cannot figure out how to share screen:**
 - [Instructions on talk out loud activity, we need to rely on the participant to explain what is happening and what their pain points are]
