@@ -2,14 +2,14 @@
 
 ## vets-website app checklist
 
-- [ ] Enable the feature toggle in the production environment (@mdewey)
-- [ ] Check VA.gov internal search result (@mdewey)
-- [ ] Check new form release criteria (@mdewey)
-- [ ] Make sure route is not organically discoverable (no-index / robots.txt etc..) (@mdewey)
+- [x] Enable the feature toggle in the production environment (@mdewey)
+- [x] Check VA.gov internal search result (@mdewey)
+- [x] Check new form release criteria (@mdewey)
+- [x] Make sure route is not organically discoverable (no-index / robots.txt etc..) (@mdewey)
 
 ## vets-api app checklist
 
-- [ ] Check hqva_mobile configuration settings in the production Settings and DevOps YAML files and make sure all the values for the keys are production values (@dillo)
+- [x] Check hqva_mobile configuration settings in the production Settings and DevOps YAML files and make sure all the values for the keys are production values (@dillo)
 - [x] Check that the production public/private key for Lighthouse has been installed in Credstash- Ops (@dillo)
 - [x] Check that monitoring and error reporting are in place in production (@dillo)
 
@@ -43,25 +43,25 @@
 
 ## Ops checklist
 
-- [ ] Determine who needs to be notified by PagerDuty and configure as such (@mark)
+- [x] Determine who needs to be notified by PagerDuty and configure as such (@mark)
 - [ ] Set up Grafana dashboard and alerts (are there existing health checks for Lighthouse / LH PGD?) (@batemapf)
 - [x] Set up project in Sentry (if not done already) (@dillo)
 - [x] Confirm ability / pathway to access prod environment during testing and rollout (i.e. SSH into box; access CloudWatch logs) (@stephen)
 
 ## User support checklist
 
-- [ ] Service desk tiers and escalation methods defined (@kristenmcconnell)
-- [ ] Job aid available for front line staff to help patients with technical issues (@kristenmcconnell)
-- [ ] User support information communicated to Loma Linda staff (@kristenmcconnell)
+- [x] Service desk tiers and escalation methods defined (@kristenmcconnell)
+- [x] Job aid available for front line staff to help patients with technical issues (@kristenmcconnell)
+- [x] User support information communicated to Loma Linda staff (@kristenmcconnell)
 
 ## Analytics checklist
 
 - [x] Set up GA dashboard to view product metrics (@stephenBarrs)
 
 ## Evaluation checklist
-- [ ] Questions we'd like clinic staff to ask patients (@kristenmcconnell)
-- [ ] Process for collecting and organizing feedback collected from patients (@kristenmcconnell)
-- [ ] Communicate this infor to Loma Linda staff (@kristenmcconnell)
+- [x] Questions we'd like clinic staff to ask patients (@kristenmcconnell)
+- [x] Process for collecting and organizing feedback collected from patients (@kristenmcconnell)
+- [x] Communicate this infor to Loma Linda staff (@kristenmcconnell)
 
 ## Platform checklist
  - [ ] Let Platform / Collaboration Cycle people know that we're launching this pilot (@corey)
@@ -71,6 +71,6 @@
 
 ## Engineering Risks
 
-- [ ] Data availability and integrity
-- [ ] No access to production PII/PHI when troubleshooting potential issues
+- [ ] Data availability and integrity - minimal 
+- [ ] No access to production PII/PHI when troubleshooting potential issues - still issue for all
 
