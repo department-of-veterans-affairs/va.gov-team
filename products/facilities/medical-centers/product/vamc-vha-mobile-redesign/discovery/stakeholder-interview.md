@@ -87,16 +87,16 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/find-locations/facility/vha_644QB
     - In dual state? [No](https://www.va.gov/phoenix-health-care/)
 
- ~~Texas Valley Coastal Bend VA Mobile Clinic **OFF LIMITS**
+ ~~Texas Valley Coastal Bend VA Mobile Clinic~~ **OFF LIMITS**
     - https://www.va.gov/find-locations/facility/vha_740QA
     - In dual state? [No](https://www.va.gov/texas-valley-health-care/)
     
- ~~Houston VA mobile clinic **OFF LIMITS**
+ ~~Houston VA mobile clinic~~ **OFF LIMITS**
     - https://www.va.gov/find-locations/facility/vha_580QB
     - In dual state? **Yes**
     - https://www.va.gov/houston-health-care/
 
- ~~Columbia VA Mobile Clinic **OFF LIMITS**
+ ~~Columbia VA Mobile Clinic~~ **OFF LIMITS**
     - https://www.va.gov/find-locations/facility/vha_544HK
 
  ~~Long Beach VA Mobile clinic
