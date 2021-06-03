@@ -114,49 +114,43 @@ All sites observed made it clear that a user could click on a link in the notifi
 
 ### What happens if there are NO action items?
 
-
-Unrelated 
-
+The observed sites all handled fairly similarly. A simple message stating that there are no action items, paired with no red dot/indicator present on the page. 
 
 ## Site examples
 
-### State Farm
+### Bank of America
 
-![State farm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
+Bank of America handles action items with an activiy center that lives on the right-rail of the screen. It's broken up into sections, and any section that has an action item has an indicator + number.  If any of these blocks are clicked on, it opens within the right rail menu with 1-2 action items, and in order to see all the action items a user must click 'view all'.
+
+Though clunky, this design works well to quickly elevate action items as well as advertise things that Bank of America wants to get in front of the user. 
+
+Bank or America has another way to time sensitive action items - specifically if a payment is due. There is a large red statement with a few details about the payment on the dashboard, in addition to the indicator next to 'bill pay' in the activity center.
+
+Overall, this design works pretty well for elevating action items. There isn't really a clear hierarchy within the activity center - but the large 'payment due' does add weight to paying bills. 
+
+![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-dashboard.png)
+
+![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-alerts.png)
 
 ### Carefirst
+
+Carefirst utilized the alert bell icon within the navigation. They have also separated messages from notifications. If the icon is clicked, it opens a dropdown with a list of notifications, each with a link to 'view details' or the option to delete the notification. They also include the date within the notification.
+
+This is a simple and clean way to handle notifications. However, there does not seem to be a way to elevate time-sensitive notifications - which may be because of the limited way we observed carefirst. 
 
 ![Carefirst notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/carefirst-notifications.png)
 
 ### Chase
 
+
+
 ![Chase bank dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
 
 ![Chase bank notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-widget-pay-card.png)
 
-### Geico
+### Facebook
 
-![Geico dashboard/alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/geico-desktop-dashboard-welcome.png)
-
-![Geico notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/GEICO.3-Logged-In_Dashboard2.jpeg)
-
-### My Chart
-
-![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
-
-![mychart upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/my-chart-upcoming-visits.png)
-
-### USAA
-
-![USAA- messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
-
-![USAA notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/usaa-user-has-notifications.png)
-
-### Bank of America
-
-![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-dashboard.png)
-
-![Bank of america dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Bank-of-america-alerts.png)
+![Facebook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/facebook-notifications.png)
 
 ### FAFSA
 
@@ -165,6 +159,31 @@ Unrelated
 ![FAFSA checklist expanded](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-dashboard-to-do-expanded.png)
 
 ![FAFSA other to do items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-what-you-can-do-while-status-pending.png)
+
+### Fedloan
+
+![Fedloan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Fedloan.png)
+
+### Gov.uk
+
+![gov.uk](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/gov.uk.png)
+
+### My Chart
+
+![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
+
+![mychart upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/my-chart-upcoming-visits.png)
+
+### State Farm
+
+![State farm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
+
+
+### USAA
+
+![USAA- messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
+
+![USAA notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/usaa-user-has-notifications.png)
 
 
 ### Zions bank
