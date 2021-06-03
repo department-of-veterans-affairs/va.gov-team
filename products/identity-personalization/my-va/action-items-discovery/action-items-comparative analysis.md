@@ -138,7 +138,7 @@ Overall, this design works pretty well for elevating action items. There isn't r
 
 Carefirst utilized the alert bell icon within the navigation. They have also separated messages from notifications. If the icon is clicked, it opens a dropdown with a list of notifications, each with a link to 'view details' or the option to delete the notification. They also include the date within the notification.
 
-This is a simple and clean way to handle notifications. However, there does not seem to be a way to elevate time-sensitive notifications - which may be because of the limited way we observed carefirst. 
+This is a simple and clean way to handle notifications. However, there does not seem to be a way to elevate time-sensitive notifications - which may be because of the limited way we observed Carefirst. 
 
 ![Carefirst notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/carefirst-notifications.png)
 
@@ -156,7 +156,9 @@ Using multiple places to elevate a time sensitive and important action seems to 
 
 Facebook is an extremely different use case than the other sites observed, but they have a couple interesting things that I'd like to point out. 
 
-All of their notifications live in one notification hub. The important parts of the notification are bolded, like names/dates/suggestions for things to do. 
+- All of their notifications live in one notification hub. The important parts of the notification are bolded, like names/dates/suggestions for things to do.
+- Facebook includes a timestamp with their notifications.
+- The indicator that a notification has not been viewed is very clear (a large blue dot within the notification) 
 
 Overall, I don't think how facebook handles notifications can directly translate to My VA, but maybe some of the language around their notifications could be mimicked. 
 
@@ -188,15 +190,19 @@ Gov.uk has done a very interesting job of managing a to-do list. It's clear, cle
 
 ### My Chart
 
-The landing page/dashboard of My Chart is just a running list of action items/reminders all in one place. This seems like a very simple and effective approach, and also seems like something that could work really well on My VA. Each action item/reminder is given hierarchy by the icon associated with it and the language used (this is not shown in the screenshot - this is based of my experience). This is the only site that did not utilize a 'view all' type of functionality - it's unclear when the running list stops.
+The landing page/dashboard of My Chart is just a running list of action items/reminders all in one place. This seems like a very simple and effective approach, and also seems like something that could work really well on My VA. Each action item/reminder is given hierarchy by the icon associated with it and the language used (this is not shown in the screenshot - this is based of my experience). Resolving action items is handled based on the type of item. If it's a new message and user clicks into it, it disappears from the homepage. Upcoming appointments, and time sensitive things always remain on the homepage until they pass/are fulfilled.
+
+This is the only site that did not utilize a 'view all' type of functionality - it's unclear when the running list stops.
 
 If a user wants a screenshot of a specific part of their health care, they can open the menu and go to a specific page with more information. There is no alerts or indicators anywhere on the page, if a user is on the 'homepage' then they can easily see all of their action items. 
+
+*This is unrelated to action items - but My Chart does a really great job of relaying upcoming appointments (shown in the third screenshot)*
 
 ![mychart dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My%20chart%20dashboard.png)
 
 ![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
 
-![mychart upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/my-chart-upcoming-visits.png)
+![mychart upcoming visits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Mychart-upcoming-visits.png)
 
 ### State Farm
 
