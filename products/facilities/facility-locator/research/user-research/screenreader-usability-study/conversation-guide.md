@@ -9,7 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
-* [Screen sharing - iOS](#screen-sharing-iOS)
+* [Screen sharing-iOS](#screen-sharing-iOS)
 
 ## Intro - 3 minutes
 
