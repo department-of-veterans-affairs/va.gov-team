@@ -25,8 +25,8 @@ This comparative analysis aimed to observe the following:
 
 ## Sites reviewed
 
-- Bank of America
-- Carefirst
+- [Bank of America](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-items-comparative%20analysis.md#bank-of-america)
+- [Carefirst]
 - Chase
 - Facebook
 - FAFSA
