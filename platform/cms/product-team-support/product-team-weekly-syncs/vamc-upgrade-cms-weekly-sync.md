@@ -24,6 +24,8 @@
 ## June 4
 
 * GovDelivery may be enabled soon - do not send emails when adding the Dual State banners
+* White glove service
+* Help desk follow-up with VHA Digital Media reporter
 
 ## Friday May 28
 
