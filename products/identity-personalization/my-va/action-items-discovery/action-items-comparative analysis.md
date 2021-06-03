@@ -41,36 +41,60 @@ This comparative analysis aimed to observe the following:
 
 ### What are the types of action items that sites show?
 
-The content of the action items and how the action items were displayed varied by site, but all of the action items on the sites observed fell intwo 4 main categories.
+The content of the action items and how the action items were displayed varied by site, but all of the action items on the sites observed fell into 4 main categories.
 
 1. If something is due (time-sensitive)
 2. Missing information
 3. Status changes
 4. Things the company/site wanted the user to know
 
-Most sites had a designated section for 'upcoming events' that were not included in the notification section. 
+Most sites had a designated section for 'upcoming events' that were not included in the notification/checklist section. 
 
 ### How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
 
 There was a variety of ways that action items were highlighted. 
 
-- Right-hand tiled navigation, 
-- part of the nametag - a small alert bell icon with either a number or indicator (is this accessible?)
-- integrated into the page by section with an indicator (this was often in addition to the alert icon)
+- Right-hand tiled 'activity center'.  This has numerous blocks with various different types of alerts. This approach also utilized an alert icon with a number.  
+- Integrated into the nametag/header. This was shown as an alert icon with either a number or indicator (i.e. a red dot). When clicked on it would open a dropdown with a list of alerts/action items.
+  - *Question: Is this approach accessible?*    
+- Integrated into the page using an indicator (red dot/icon) in a specific section. (this was often in addition to the alert icon in the header)
+- Alerts section. This was either a section on-page or separate page on the site with its own dedicated 'tab' in the navigation. This would open up the alerts 'hub'. This 'hub' was often tied with messages as well.
+- Checklist approach. This approach had a separate section for action items, broken into dropdown sections with links. Some sites made this personalized (gov.uk), some made the checklist as more of a generic list of links grouped by different use cases (Federal Student Aid).
+- All sections broken out into a side navigation with specific alerts living in each specific section.
+
+#### Takeaways
+
+- The most common implementation was tied between a dedicated alerts section (either on-page at the top of the page or in its own separate page) OR an alerts icon with a dropdown listing action items. 
+- Most approaches utilize either an icon or number to indicate users action/attention is needed
+- If action items live on-page, they live at the top - above the fold. They are typically in the nametag/navigation or in a dedicated section.
 
 ### How do sites let/help users resolve action items? Is there an action item log? 
 
-- Most sites didn't have a way to resolve the action items... I need to research this more - what happens when you click on a notification?
+Overall, most sites didn't have a way to resolve the action items on the page. 
+
+The one exception to this is specific to banks - if something is due and gets paid then the red dot/indicator/alert will disappear from that specific section.  Depending on the page structure, if there is a notification center, the actual notification about the debt will also disappear if the debt has been paid. Most banks had a dedicated 'bill pay' section, separate from an alert center. There was always a log of transactions available. 
+
 - Some used an 'X' in the corner of the notification to delete
+
+#### Takeaways
+
+- The most common implementation was tied between a dedicated alerts section (either on-page at the top of the page or in its own separate page) OR an alerts icon with a dropdown listing action items. 
+- Most approaches utilize either an icon or number to indicate users action/attention is needed
+- If action items live on-page, they live at the top - above the fold. They are typically in the nametag/navigation or in a dedicated section.
 
 ### How do sites visually prioritize action items?
 
 - Banks highlight if something is due outside of the actual notification center - often on the dashboard/homepage (using a red dot/indicator with some small details)
-- If it's a notification center, most action items are the same 'visual weight'. If it's really important it's brought to the top
+- If it's a notification center, most action items are the same 'visual weight'. If it's really important it's brought to the top with a different color/icon to elevate its importance.
 
 ### How do sites determine what is an important action item to a user? 
 
 - This needs more research
+
+### Additional questions to explore
+
+- What happens if there are NO action items?
+- Do sites resolve action items  
 
 
 ## Site examples
