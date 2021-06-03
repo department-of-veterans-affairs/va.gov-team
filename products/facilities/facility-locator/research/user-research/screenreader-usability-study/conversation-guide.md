@@ -11,6 +11,7 @@
 * [Tech set-up](#tech-set-up)
 * [Screen sharing](#screen-sharing)
 * [Warm-up questions](#warm-up-questions)
+* [Discovery](#discovery)
 * [Task 1](#task-1)
 * [Task 2](#task-2)
 * [Task 3](#task-3)
