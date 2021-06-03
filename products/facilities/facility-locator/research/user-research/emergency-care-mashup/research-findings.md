@@ -18,25 +18,25 @@ A remote, via Zoom, moderated task-based usability study was conducted between M
 ### Who we talked to
 
 - 9 total participants
-  - 8 Veterans
-  - 1 Non Veteran caregiver
-  - 1 with identified cognitive disabilities
-  - Ethnicities:
-    - 2 Hispanic, Latino, or Spanish Origin
-    - 6 White or Caucasian
-    - 1 unknown
-  - Rural vs urban:
-    - 3 urban
-    - 6 rural participants
-  - Genders:
-    - 1 transgender
-    - 6 male
-    - 2 female
-  - Age ranges:
-    - 4 age 35 - 44
-    - 3 aged 55 - 64
-    - 1 age 65 - 74
-    - 1 age unknown 
+- 8 Veterans
+- 1 Non Veteran caregiver
+- 1 with identified cognitive disabilities
+- Ethnicities:
+  - 2 Hispanic, Latino, or Spanish Origin
+  - 6 White or Caucasian
+  - 1 unknown
+- Rural vs urban:
+  - 3 urban
+  - 6 rural participants
+- Genders:
+  - 1 transgender
+  - 6 male
+  - 2 female
+- Age ranges:
+  - 4 age 35 - 44
+  - 3 aged 55 - 64
+  - 1 age 65 - 74
+  - 1 age unknown 
 
 ## Research Findings
 
