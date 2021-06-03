@@ -70,7 +70,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
 
  ~~Columbia VA Mobile Clinic~~ **OFF LIMITS**
-    ~~- https://www.va.gov/find-locations/facility/vha_544HK
+    - https://www.va.gov/find-locations/facility/vha_544HK
 
 2. Chillicothe VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_538QA
