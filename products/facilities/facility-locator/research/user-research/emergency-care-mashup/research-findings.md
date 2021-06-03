@@ -1,9 +1,7 @@
-// [Synthesis in progress] //
-
 # Facility Locator - Emergency Mashup Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Facilities**<br>
 
-Nicholas Osmanski (nick.osmanski@amida.com), MM/DD/YYYY
+Nicholas Osmanski (nick.osmanski@amida.com), 06/03/2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-plan.md).
 ## Research Goals 
@@ -144,6 +142,8 @@ iii) Veterans understand that the Facility Locator list contains "in-network" VA
 > [P4] "I would assume that all results...would be in-network."
 
 iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
+
+- Participants understood the specific phrase "in-network" but juxtaposed with other "Facility type" options, it introduced confusion.
 
 > [P4] "I would change in-network to ER."
 
