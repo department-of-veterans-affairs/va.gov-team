@@ -75,7 +75,10 @@ _[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuY
 
 
 **If YES**
+
 [SKIP TO SCREEN SHARE SET-UP INSTRUCTIONS]
+
+SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)
 
 **NO: Help participant join with device**
 
@@ -87,7 +90,6 @@ _[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuY
 
 ## Screen sharing set-up - VoiceOver iOS (Mobile and Tablet) using web app
 
-_[SCREEN SHARE INSTRUCTIONS](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
  - Swipe to or find the "Share content" button and double tap it. 
  - A menu will appear. Swipe to the first option "Screen” and double tap it. 
  - Swipe to the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
@@ -115,6 +117,7 @@ _[SCREEN SHARE INSTRUCTIONS](https://docs.google.com/document/d/1JykfpcZuYz9UZ1k
 _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
 
 **Backup plan if they cannot figure out how to share screen:**
+
 - [Instructions on talk out loud activity, we need to rely on the participant to explain what is happening and what their pain points are]
 
 
