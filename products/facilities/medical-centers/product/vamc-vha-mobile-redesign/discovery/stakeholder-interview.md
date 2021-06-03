@@ -94,7 +94,8 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - In dual state? [No](https://www.va.gov/phoenix-health-care/)
  
  ~~Long Beach VA Mobile clinic~~
-    - Cannot find on Facility Locator or VAMC - links below don't work
+    - Cannot find on Facility Locator or VAMC 
+    - links below don't work
     - https://www.va.gov/long-beach-health-care/
     - https://www.va.gov/find-locations/facility/vha_600QB
 
