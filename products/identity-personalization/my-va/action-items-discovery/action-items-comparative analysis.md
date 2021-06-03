@@ -187,7 +187,11 @@ Gov.uk has done a very interesting job of managing a to-do list. It's clear, cle
 
 ### My Chart
 
-My Chart is
+The landing page/dashboard of My Chart is just a running list of action items/reminders all in one place. This seems like a very simple and effective approach, and also seems like something that could work really well on My VA. Each action item/reminder is given hierarchy by the icon associated with it and the language used (this is not shown in the screenshot - this is based of my experience). This is the only site that did not utilize a 'view all' type of functionality - it's unclear when the running list stops.
+
+If a user wants a screenshot of a specific part of their health care, they can open the menu and go to a specific page with more information. There is no alerts or indicators anywhere on the page, if a user is on the 'homepage' then they can easily see all of their action items. 
+
+![mychart dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My%20chart%20dashboard.png)
 
 ![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
 
