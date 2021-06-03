@@ -25,15 +25,16 @@ This comparative analysis aimed to observe the following:
 
 ## Sites reviewed
 
-- [UK.gov to do checklist]()
-- [State Farm]()
+- Bank of America
 - Carefirst
 - Chase
-- Geico
-- My Chart
-- USAA
-- Bank of America
+- Facebook
 - FAFSA
+- Fedloan
+- Gov.uk
+- My Chart
+- [State Farm]()
+- USAA
 - Zions Bank
 
 ## Takeaways breakdown
