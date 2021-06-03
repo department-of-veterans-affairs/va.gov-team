@@ -98,15 +98,18 @@ Long Beach VA Mobile clinic
 ### OFF LIMITS
 
 Texas Valley Coastal Bend VA Mobile Clinic 
+
     - https://www.va.gov/find-locations/facility/vha_740QA
     - In dual state? [No](https://www.va.gov/texas-valley-health-care/)
     
 Houston VA mobile clinic
+
     - https://www.va.gov/find-locations/facility/vha_580QB
     - In dual state? **Yes**
     - https://www.va.gov/houston-health-care/
 
 Columbia VA Mobile Clinic
+ 
     - https://www.va.gov/find-locations/facility/vha_544HK
 
 
