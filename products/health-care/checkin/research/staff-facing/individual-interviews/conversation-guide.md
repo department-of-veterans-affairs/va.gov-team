@@ -35,7 +35,7 @@ _For these tasks: stick to questions that are relevant to the participant’s ro
 We will focus on check-in to start:
 - How do Veterans check in at your clinic / site / department?
     - Can you walk me through how each of these options works?
-    - What are the differences between walk-in and scheduled check in?
+    - Does your site see both Vets by appointment and walk-in?
     - Is there a check-in method that you prefer in your role as a [MSA/PSA/Clerk,etc]
 -	What tools do you have open on your screen to manage patients as they come in? 
     - Can you show me your screen so I can see how you do this? **Need to check about HIPAA for screen share**
@@ -48,6 +48,7 @@ We will focus on check-in to start:
           - What went wrong? Who did you ask?
     - Aside from checking Veterans in for their appointments, what else are you juggling during a normal work day?
     - Are there any other tools not on your computer that you use to manage check-in?
+    - What does your work station look like - do you have multiple monitors, etc?
 You can stop screen sharing now if you like.
 -	How do you support Veterans who are hard of hearing or deaf during check-in?
     - How do you support Veterans who are blind or have limited vision?
@@ -57,7 +58,7 @@ You can stop screen sharing now if you like.
     - What happens during the check in process if a patient is late for their appointment? 
 -	How do patient no-shows impact the check in process?
 - How has Covid impacted the check in process?
-- What type of work arounds have you created to help you with the check-in process?
+- What type of work-arounds have you created to help you with the check-in process?
 ## 1b) Check-in Recap
 - Overall, what do you like about how you currently check in a Veteran?
 - What do you dislike about how you currently check in a Veteran?
@@ -67,16 +68,18 @@ You can stop screen sharing now if you like.
 ## Things to watch/listen for:
 -	What is system driven/automatic? What requires manual intervention from staff?
 - How do they determine whether Veterans need to bring insurance?
+- How do they determine whether to review next of kin or contact information?
 - How do they intervene when Veterans encounter issues checking in?
 - How does the check in process differ for Non-Veterans (family members, others), if relevant at all?
 - How do medical and clinic sheets factor into the check in process?
 - How do they handle check-ins for urgent requests?
 - When they need help with a check in tool, what do they do?
 ## 2a) Patient Tracking - 20 minutes
+- What is the typical process a Veteran goes through during a visit to your clinic?
+- Who is involved in each step of the process?
 -	What are the ways staff in your department communicate about where in the process the Veteran is?
     -	Can you walk me through each of the options of tracking a Veteran through their appointment?
     - Can you share your screen so I can see how you do this?
-      - What is the typical process for a patient to go through at your site?
         - How does your site handle bottlenecks that occur through the process? 
         - How do you know when a patient is ready for the next step?
         - How do you know which patient is next in the queue?
@@ -105,7 +108,7 @@ You can stop sharing your screen now.
 - How may shift changes impact patient tracking?
 
 ## 3) Admin Level - 20 minutes
--	Can you tell me about how check-in works at your site?
+-	How does check-in work at your site?
     -	What about check-in is important to you in your role?
       - How do you access the information you need about check-in?
       - What are you looking for in that information?
@@ -122,7 +125,8 @@ You can stop sharing your screen now.
 - How do virtual visits impact your site, if at all?
 - How does your site handle bottlenecks that may occur?
 - When staff need help with a tool (for check in or patient tracking), what do they do?
--	[From your perspective, how well current system works for their role?]
+- What concerns would you have about Vets checking-in before they are physically on site versus allowing check-in to occur X minutes (maybe 10-20 minutes) before the scheduled appointment time?
+-	[From your perspective, how well does the current system works for your role?]
 -	[where does the current system succeed, fail]
 ## Things to watch/listen for:
 -	How could the current systems impact admin-level reporting to adjust:
@@ -132,7 +136,7 @@ You can stop sharing your screen now.
     - Organizational processes at this site?
 ## Post-Task Interview - 5 minutes
 -	What capabilities of the kiosk and VetLink software (or current check-in system) would you say MUST be included within the new system (the items that can’t be removed)?
--	What worries do you have about the Kiosk & Vet link software going away and a new check-in process/system being available in its place?
+-	What worries do you have about the Kiosk & VetLink software going away and a new check-in process/system being available in its place?
 -	If you could design check-in anyway that you wanted, what would that check-in process look like?
 ## Thank-You and Closing - 2 minutes
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this experience for both staff and Veterans.
