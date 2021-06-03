@@ -14,7 +14,7 @@
 * [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md) 
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. My name is {NAME} and I have a few colleagues on the line with us. They are here to help me out by observing and taking notes. We're part of a team with the Department of Veterans Affairs that's moving some features off the old eBenefits site and over to VA.gov. To do that, we really want to learn what Veterans need to improve their online experience, and how we can make VA.gov more useful. Today, we're looking at how you view and update your dependents.
+Good morning/afternoon and thank you for joining us today. My name is (Give your name) and I have a few colleagues on the line with us. They are here to help me out by observing and taking notes. We're part of a team with the Department of Veterans Affairs that's moving some features off the old eBenefits site and over to VA.gov. To do that, we really want to learn what Veterans need to improve their online experience, and how we can make VA.gov more useful. Today, we're looking at how you view and update your dependents.
 
 There are a few things I need to mention before we start:
 * The session should take about 30 minutes, but you can end it at any point--just let me know. 
