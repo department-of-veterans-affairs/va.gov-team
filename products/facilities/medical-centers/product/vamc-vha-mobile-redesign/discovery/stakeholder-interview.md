@@ -70,7 +70,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
 
 2. ~~Columbia VA Mobile Clinic~~ **OFF LIMITS**
-    - https://www.va.gov/find-locations/facility/vha_544HK
+    ~~- https://www.va.gov/find-locations/facility/vha_544HK
 
 2. Chillicothe VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_538QA
@@ -83,20 +83,20 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 4. Puget Sound VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_663Hk
-    - In dual state? No
+    - In dual state? [No](https://www.va.gov/puget-sound-health-care/)
 
 5. ~~Texas Valley Coastal Bend VA Mobile Clinic~~ **OFF LIMITS**
-    - https://www.va.gov/find-locations/facility/vha_740QA
-    - In dual state? [No](https://www.va.gov/texas-valley-health-care/) 
+    ~~- https://www.va.gov/find-locations/facility/vha_740QA~~
+    ~~- In dual state? [No](https://www.va.gov/texas-valley-health-care/)~~ 
 
 5. Phoenix VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_644QB
     - In dual state? [No](https://www.va.gov/phoenix-health-care/)
  
-6. Long Beach VA Mobile clinic
-    - Cannot find on Facility Locator or VAMC - links below don't work
-    - https://www.va.gov/long-beach-health-care/
-    - https://www.va.gov/find-locations/facility/vha_600QB
+6. ~~Long Beach VA Mobile clinic~~
+    ~~- Cannot find on Facility Locator or VAMC - links below don't work~~
+    ~~- https://www.va.gov/long-beach-health-care/~~
+    ~~- https://www.va.gov/find-locations/facility/vha_600QB~~
 
 ### Notes:
 
