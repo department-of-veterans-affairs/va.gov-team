@@ -64,8 +64,8 @@
 - [x] Communicate this infor to Loma Linda staff (@kristenmcconnell)
 
 ## Platform checklist
- - [ ] Let Platform / Collaboration Cycle people know that we're launching this pilot (@corey)
- - [ ] Complete any (reasonable) pre-lauch Collaboration Cycle activities (@corey)
+ - [x] Let Platform / Collaboration Cycle people know that we're launching this pilot (@corey)
+ - [x] Complete any (reasonable) pre-lauch Collaboration Cycle activities (@corey)
 
 ----
 
