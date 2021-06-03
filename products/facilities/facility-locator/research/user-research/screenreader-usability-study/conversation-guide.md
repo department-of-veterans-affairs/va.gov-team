@@ -10,7 +10,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a notetaker and two of my teammates assisting me on this call including an accessibility specialist [name] should you need any help with technology during the session. I can tell you a little more about who we are and what we’re doing before we go any further.
+Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a few of my teammates assisting me on this call including a note taker and an accessibility specialist, [name], should we need any help with technology during our session. I can tell you a little more about who we are and what we’re doing before we go any further.
 
 I'm a website designer and researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to learn how we can improve VA.gov for blind Veterans and Veterans with low vision.
 
@@ -28,13 +28,14 @@ Thank you, we’re excited to talk with you today.
 
 I want to give you an idea of what this call will be like:
 
-- The entire session should take between an hour and a half.  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. Feel free to let me know if you need a break at any time.
+- The entire session should take between an hour and a half and two hours.  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. Feel free to let me know if you need a break at any time.
 - We'll start the session with a couple warm up questions.
-- Then, we'll be reviewing parts of the VA.gov website together.
+- Then, we'll be visiting parts of the VA.gov website together.
 - Throughout the session, I may ask you about your thoughts and opinions about the pages or features but there are no right or wrong answers. We're not testing you. We're actually testing the website to see how we can make it better for all Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question.
-- In this session, I'll be having you share your Zoom screen so that I can follow along and I'll help you through that.
-- Note to moderator: [If sending links during the session, ask before recording begins to avoid capturing PII information:] 
-    - We may send you links to go to during the session. Do you have a communication preference? (if desktop, email/zoom chat; if mobile, email/text -- Zoom chat not recommended since it’s a bit unwieldy on a screen reader, especially for mobile users) 
+- In this session, I'll be having you share your Zoom screen so that I can follow along and we'll help you through that.
+- We may send you links to go to during the session. Do you have a communication preference? 
+    - if desktop, email/zoom chat
+    - if mobile, email/text 
 - Finally, this session will be recorded to ensure that I capture your opinions accurately. I personally destroy this recording after I analyze it, and none of your comments will be attributed to you directly.
 
 ## Recording permission
@@ -50,15 +51,15 @@ I want to give you an idea of what this call will be like:
 
 ## Tech set-up
 
-Next, I want to make sure your technology is ready to go for this session. 
-- Did you receive the checklist for our session from Shannon or Brian? 
-- We will quickly run through that right now.
+Next, I want to make sure your technology is ready to go for this session. Shannon may have gone over a list of technical questions when you registered.
+- I'm going to quickly run through those again just to make sure I have the right information.
 
 Checklist:
 - Are you using a computer or mobile phone during our session today? 
 - Mac or Windows? 
 - iOS or Android?
-- Do you have Zoom installed? 
+   - If not joined by Zoom already:
+   - Do you have Zoom installed? 
 - Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
 - What browser are you using today?
 - Do you have a screen reader on this device?
@@ -74,9 +75,10 @@ _[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuY
 
 
 **If YES**
-[SKIP TO SCREEN SHARE INSTRUCTIONS]
+[SKIP TO SCREEN SHARE SET-UP INSTRUCTIONS]
 
 **NO: Help participant join with device**
+
 - I'm going to send you a zoom link [by format specified] for you to open on your phone so you can join this meeting.  
 - [Send through Veteran's preferred communication channel]
 - When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. We only need your audio for this session, so please tap "Allow" for the microphone prompt. Feel free to tap "Don't Allow" for video permissions if you are not comfortable having your face on camera.
@@ -104,10 +106,11 @@ _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/arti
 
 Thank you for working through that with us.
 
-We can get started with some questions. So, as a website designer and researcher I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times but feel free to stop and correct me at any time. 
+We can get started with some questions. So, as a website designer and researcher I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times so feel free to stop and correct me at any time. 
 
 - Can you tell me briefly about yourself? Anything you’d like me to know is fine.
-- Can you describe to me how you use your screen reader?"
+- Can you describe to me how you use your screen reader?
+    -  multiple devices?
 
 Thank you for sharing that.
 
@@ -140,7 +143,7 @@ Next, I'm going to ask you to complete a task.
 - If they use, Google, ask them: 
    - Why?
    - Can you show me how you do that?
-- Follow up with “How about on VA.gov, how might you find your nearest VA?”
+- Follow up with: “How about on VA.gov, how might you find your nearest VA?”
    - Can you show me how you do that?
 - If user needs help: 
    - Direct them to “visit link: Find VA location”
