@@ -79,6 +79,8 @@ This time, imagine that some time has passed, maybe a year or so. During the pas
 User is again given the link to the starting page in the VA.gov staging environment. 
 * If you can go back to the link in chat; **please click on it.** (Clicks on link to landing page)
 
+`Made changes to here -- JA`
+
 #### Things to look for:
 * Do users identify the “add or remove dependents” button as a way to make updates?
 * Do users understand what could happen if their dependents are wrong?
