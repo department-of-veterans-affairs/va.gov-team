@@ -9,7 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
-* [Screen sharing set-up ](#screen-sharing-set-up )
+* [Screen sharing - iOS](#screen-sharing-iOS)
 
 ## Intro - 3 minutes
 
@@ -91,7 +91,8 @@ SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9U
 - You will then be asked to join audio. Please tap "Join audio."
 - Once you're in the call...
 
-## Screen sharing set-up - VoiceOver iOS (Mobile and Tablet) using web app
+## Screen sharing - iOS
+### VoiceOver iOS (Mobile and Tablet) using web app
 
  - Swipe to or find the "Share content" button and double tap it. 
  - A menu will appear. Swipe to the first option "Screen” and double tap it. 
