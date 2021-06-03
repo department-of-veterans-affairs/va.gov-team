@@ -20,7 +20,8 @@ This comparative analysis aimed to observe the following:
 - How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
 - How do sites let/help users resolve action items? Is there an action item log? 
 - How do sites visually prioritize action items?
-- How do sites determine what is an important action item to a user? 
+- How can users take action on important action items?
+- What happens if there are NO action items?
 
 ## Sites reviewed
 
@@ -35,7 +36,7 @@ This comparative analysis aimed to observe the following:
 - FAFSA
 - Zions Bank
 
-## Takeaways
+## Takeaways breakdown
 
 This comparative analysis aimed to observe the following:
 
@@ -52,7 +53,7 @@ Most sites had a designated section for 'upcoming events' that were not included
 
 ### How do sites display action items? Where do they live in relation to the rest of the content on the page (in navigation, in sections or in a 'hub')?
 
-There was a variety of ways that action items were highlighted. 
+There was a variety of ways that action items were highlighted. They are listed below.  
 
 - Right-hand tiled 'activity center'.  This has numerous blocks with various different types of alerts. This approach also utilized an alert icon with a number.  
 - Integrated into the nametag/header. This was shown as an alert icon with either a number or indicator (i.e. a red dot). When clicked on it would open a dropdown with a list of alerts/action items.
@@ -61,12 +62,16 @@ There was a variety of ways that action items were highlighted.
 - Alerts section. This was either a section on-page or separate page on the site with its own dedicated 'tab' in the navigation. This would open up the alerts 'hub'. This 'hub' was often tied with messages as well.
 - Checklist approach. This approach had a separate section for action items, broken into dropdown sections with links. Some sites made this personalized (gov.uk), some made the checklist as more of a generic list of links grouped by different use cases (Federal Student Aid).
 - All sections broken out into a side navigation with specific alerts living in each specific section.
+- Within a message bot. Fidelity had a message bot open on the page with notification information. Notifications did not live anywhere else on the page. 
 
 #### Takeaways
 
-- The most common implementation was tied between a dedicated alerts section (either on-page at the top of the page or in its own separate page) OR an alerts icon with a dropdown listing action items. 
+- The most common implementation was tied between a dedicated alerts section (either on-page at the top of the page or in its own separate page) OR an alerts icon with a dropdown listing action items. Either of the approaches would likely work for My VA - but I am unsure if the alerts icon/dropdown combo is accessible. 
 - Most approaches utilize either an icon or number to indicate users action/attention is needed
-- If action items live on-page, they live at the top - above the fold. They are typically in the nametag/navigation or in a dedicated section.
+- If messaging is available, then almost always the sites observed separated out messaging and alerts. I'd like to do a little more research aroudn what constitutes as a message and what constitutes as a notification. 
+- Often time in financial institutions, 'Bill pay' was also separated out into it's own section. 
+- The financial institutions almost always combined alerts AND messaging. This was interesting because often the messaging centers weren't actually for correspondence, but typically that is where financial statements lived. Thinking of My VA, it might be difficult to have an alerts AND messages section since currently we only have messaging in health care, but it might be something to consider when we implement some financial information on My VA. 
+
 
 ### How do sites let/help users resolve action items? Is there an action item log? 
 
@@ -74,33 +79,43 @@ Overall, most sites didn't have a way to resolve the action items on the page.
 
 The one exception to this is specific to banks - if something is due and gets paid then the red dot/indicator/alert will disappear from that specific section.  Depending on the page structure, if there is a notification center, the actual notification about the debt will also disappear if the debt has been paid. Most banks had a dedicated 'bill pay' section, separate from an alert center. There was always a log of transactions available. 
 
-- Some used an 'X' in the corner of the notification to delete
+A few sites did allow notifications to be dismissed with an 'X' in the corner of the notification to remove it from the dashboard.
+
+For sites like Carefirst with a notification icon that opens in a left hand nav, if a notification is clicked then the information about that notification automatically populates in the main portion of the page. *Note: Carefirst uses a 'view details' link to view information - which is likely more accessible*
+
+In the sites observed, if a user wanted to take action on a notification, they could click directly on the notification and it would take them directly to a screen to resolve whatever action needed to happen. If a user returned to the notification, there was an indication that they had already viewed that specific notification. For example in Carefirst - if a user clicks on 'View details' then the color of the link changes from blue to purple. 
 
 #### Takeaways
 
-- The most common implementation was tied between a dedicated alerts section (either on-page at the top of the page or in its own separate page) OR an alerts icon with a dropdown listing action items. 
-- Most approaches utilize either an icon or number to indicate users action/attention is needed
-- If action items live on-page, they live at the top - above the fold. They are typically in the nametag/navigation or in a dedicated section.
+- All approaches (except the checklist approach) utilize either an icon or number to indicate users action/attention is needed. 
+- It's important to have a way to 'view all' or view an action item log. Most commonly this lived on a separate page. 
 
 ### How do sites visually prioritize action items?
 
-The only action items that 
+In the sites observed the type of action item that is always prioritized is any that are time sensitive. For example, if something is due at Bank of America, there is a large 'Payment due' on the dashboard with some details about the payment IN ADDITION to that due payment showing up in the notification center under 'bill pay'. 
 
-- Banks highlight if something is due outside of the actual notification center - often on the dashboard/homepage (using a red dot/indicator with some small details)
-- If it's a notification center, most action items are the same 'visual weight'. If it's really important it's brought to the top with a different color/icon to elevate its importance.
+If there is a notification center, all action items are the same 'visual weight' except for time sensitive ones. If it's really important it's brought to the top with a different color/icon to elevate its importance.
+
+Many sites only showed 2-4 notifications at at time, if a user wanted to see all notifications they would need to click 'View all'
 
 #### Takeaways
 
 - Action items are prioritized by time-sensitivity. If something is due, that goes to the top and has more visual weight using color and (sometimes) an icon.
+- Users don't have access to a log immediately, if they want to see all notificationst they need to click 'view all'. 
 
-### How do sites determine what is an important action item to a user? 
+### How can users take action on important action items?
 
-- This needs more research
+All sites observed made it clear that a user could click on a link in the notification to take action.  Some sites made the link the content of the notification (Bank of America), others had the link separate from the actual notification information (Bank of America Bill Pay). If it was a bill, or something was due they used more actionable language in the links like 'Pay bill now'. If it was a notification that did not need immediate reaction then the language was a bit more passive, like 'View details'
 
-### Additional questions to explore
+#### Takeaways
 
-- What happens if there are NO action items?
-- Do sites resolve action items  
+- Language is important when helping users take action - if it's time sensitive then the language needs to be more actionable. 
+
+
+### What happens if there are NO action items?
+
+
+Unrelated 
 
 
 ## Site examples
