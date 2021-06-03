@@ -31,7 +31,10 @@ A remote, via Zoom, moderated task-based usability study was conducted between M
 
 a) What information do Veterans need/want from the Facility Locator search results when seeking emergency care?
 
-  - Participants fell into three main categories: a desire for information about the specific services provided at each location, a desire to see the closest facility whether in-network or out-of-network, and a desire for more information about the benefits procedure at specific locations.
+  - Participants fell into three main categories: 
+    - A desire for information about the specific services provided at each location
+    - A desire to see the closest facility whether in-network or out-of-network
+    - A desire for more information about the benefits procedure at specific locations.
 
 b) What information do Veterans need/want for community emergency care (in VA network) locations?
 
@@ -39,33 +42,39 @@ b) What information do Veterans need/want for community emergency care (in VA ne
 
 c) Can Veterans distinguish between these location types in a single list?
 
-  - It was unclear if most participants were able to quickly distinguish between VA locations and community partners in the results list. Some participants did note the distinction, based on the presence of the blue info alert for community partners, and the presence of "VA" in the title of VA facilities.
+  - It was unclear if most participants were able to quickly distinguish between VA locations and community partners in the results list. 
+  - Some participants did note the distinction, based on the presence of the blue info alert for community partners, and the presence of "VA" in the title of VA facilities.
 
 d) Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
 
-  - Most participants recognized that "in-network" search results contained only VA and VA partners, but it was unclear if most participants understood that "out-of-network" locations would not appear in the search results. Some participants were explicit about wanting to see "out-of-network" locations in the search results.
+  - Most participants recognized that "in-network" search results contained only VA and VA partners, but it was unclear if most participants understood that "out-of-network" locations would not appear in the search results. 
+  - Some participants were explicit about wanting to see "out-of-network" locations in the search results.
 
 e) Would Veterans click to learn more about community emergency care benefits?
 
-  - Only two participants clicked on the blue info alert present in search results. Most participants noticed the alert, but either did not intuitively recognize it as access to additional information about benefits, or were simply unwilling to click it during the demo.
+  - Only two participants clicked on the blue info alert present in search results. 
+  - Most participants noticed the alert, but either did not intuitively recognize it as access to additional information about benefits, or were simply unwilling to click it during the demo.
 
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
-  - Participants had a range of responses, the most notable included: a clear understanding of available services at the facility, clear and easily accessible benefits information, and the distance to the location.
+  - Participants had a range of responses, including: 
+    - A clear understanding of available services at the facility
+    - Clear and easily accessible benefits information
+    - Distance to the location.
 
 ### Hypotheses
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
-  -  **Likely:** Most participants seemed to choose "All in-network" before other options, and prefered a list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction. Two participants felt that "Service type" options were redundant.
+  -  **Mostly true:** Most participants seemed to choose "All in-network" before other options, and prefered a list that contained as many results as possible. Some noted the usefulness of the VA and VA community partners distinction. Two participants felt that "Service type" options were redundant.
 
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
-  - **Likely:** From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
+  - **Mostly true:** From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
 
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 
-  - **Likely:** Most participants recognized "in-network" as meaning VA and VA community partners.
+  - **Mostly true:** Most participants recognized "in-network" as meaning VA and VA community partners.
 
 iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
 
@@ -73,7 +82,7 @@ iv) The facility type label "In-network emergency care" does not introduce confu
 
 v) Veterans understand how to learn more about [community care emergency benefit](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
 
-  - **Unlikely:** While most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize it access to more information.
+  - **Mostly false:** While most participants noticed the blue info alert associated with community partners, only two out of eight clicked on the link. Some participants stated that they would call the facility or a patient advocate to learn more, and most did not seem to recognize it access to more information.
 
 vi) Participants will understand what to do in case of emergency
 
