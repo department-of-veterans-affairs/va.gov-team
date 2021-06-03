@@ -101,6 +101,7 @@ Many sites only showed 2-4 notifications at at time, if a user wanted to see all
 #### Takeaways
 
 - Action items are prioritized by time-sensitivity. If something is due, that goes to the top and has more visual weight using color and (sometimes) an icon.
+- If an action item is very important, there are reminders in multiple places on the page, including 1-2 that are not buried in a notification center.
 - Users don't have access to a log immediately, if they want to see all notificationst they need to click 'view all'. 
 
 ### How can users take action on important action items?
@@ -142,7 +143,9 @@ This is a simple and clean way to handle notifications. However, there does not 
 
 ### Chase
 
+Chase has a much more sophisticated approach. The indicators that they used are much smaller, almost easy to miss. The notification icon is a flag within the navigation with a small indicator - when clicked on, it opens a panel displaying payments that are due. They are similar to Bank of America in the fact that they elevate payments that are due on the dashboard (in two places, in the an alert at the top as well as in the box about credit card information) as well as in the notifications center
 
+Using multiple places to elevate a time sensitive and important action seems to be an effective way to get a users attention.
 
 ![Chase bank dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
 
@@ -150,9 +153,17 @@ This is a simple and clean way to handle notifications. However, there does not 
 
 ### Facebook
 
+Facebook is an extremely different use case than the other sites observed, but they have a couple interesting things that I'd like to point out. 
+
+All of their notifications live in one notification hub. The important parts of the notification are bolded, like names/dates/suggestions for things to do. 
+
+Overall, I don't think how facebook handles notifications can directly translate to My VA, but maybe some of the language around their notifications could be mimicked. 
+
 ![Facebook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/facebook-notifications.png)
 
 ### FAFSA
+
+FAFSA is a much less personalized approach to action items. They have all use cases broken out into check lists, a user could select which one they are and see a list of links to help them make sure they have everything done. This seems fairly vague, and not that helpful when it comes to action items that are time-sensitive. However, this might be an interesting way to approach a first-time user experience.
 
 ![FAFSA checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/FAFSA-dashboard-home.png)
 
@@ -162,13 +173,21 @@ This is a simple and clean way to handle notifications. However, there does not 
 
 ### Fedloan
 
+Fedloan has a dedicated alerts section that lives at the top of the page. They have also combined alerts and messages into one 'hub', with the total number of alerts at the top of the section. It seems the most important thing has been called out in a large yellow box - this does not seem to be time sensitive, rather something that is more in the interest of Fedloan. 
+
+Overall, this seems a bit confusing to me - there were three things listed in the section, but due to the lack of hierarchy and layout I was unsure if what was displayed were the notifications or if those were just messages from Fedloan.
+
 ![Fedloan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/Fedloan.png)
 
 ### Gov.uk
 
+Gov.uk has done a very interesting job of managing a to-do list. It's clear, clean, concise and has tested well with users. The healthcare team is looking at using something along these lines. This exact design may not be best used in My VA, but there are definitely aspects that could be followed. Making sure the user knows exactly what is done and what is due is very important, and Gov.uk has done a great job of that. 
+
 ![gov.uk](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/gov.uk.png)
 
 ### My Chart
+
+My Chart is
 
 ![mychart menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/My-chart-menu.png)
 
@@ -176,10 +195,18 @@ This is a simple and clean way to handle notifications. However, there does not 
 
 ### State Farm
 
+State farm has an interesting 'user navigation' that is separate from the main navigation. This seems like a very clear way to elevate top tasks while also elevating action items (the alert bell icon + red dot indicator) If clicked, it opens a right hand menu with a list of action items for the user. 
+
+State farm has also implemented showing time-sensitive action items in multiple places on the dashboard. Their approach is easy to understand very clean and simple, while elevating time sensitive items.
+
 ![State farm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
 
 
 ### USAA
+
+USAA approached alerts in a very interesting way. They do not have a dedicated alerts center or hub - however they do have a messages icon with a red dot indicator. They also have indicators within the menu so users will know to go check that specific section.
+
+This doesn't lend itself well to any time-sensitive action items (again, they may have something like this but we just didn't capture it in our research). 
 
 ![USAA- messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
 
@@ -187,6 +214,8 @@ This is a simple and clean way to handle notifications. However, there does not 
 
 
 ### Zions bank
+
+Zions bank has also combined alerts and messages into a singular separate page within the main navigation. Unfortunately in the screenshot provided for Zions Bank, there are no new alerts or messages- but this is a great example of how to handle if there are no new updates for a user.
 
 ![Zions bank alerts and messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/dashboard-action-items/zions-bank-alerts-messages.png)
 
