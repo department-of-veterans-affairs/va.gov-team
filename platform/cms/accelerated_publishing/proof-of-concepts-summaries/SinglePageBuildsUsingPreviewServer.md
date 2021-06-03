@@ -8,7 +8,12 @@ For instance, if you visit `http://prod.cms.va.gov/health-care/` in the CMS, cli
 
 The Preview Server does this by operating essentially as a floating Metalsmith build - it is a Node.js server that fetches pages from the CMS using GraphQL via the `nodeId` query parameter then passes it through its own Metalsmith pipeline (separate from the Content Build but shares most code with it), then finally returns the resultant HTML page to the editor's browser. Basically, it can render a page on-the-fly instead of doing a full Content Build via Jenkins.
 
-The Preview Server then is an opportunity to actually _publish_ a page as well. For instance, instead of returning an HTML page to the user's browser, the Preview Server could possibly upload the HTML page to S3, along with any required files. 
+The Preview Server then is an opportunity to actually _publish_ a page as well. For instance, instead of returning an HTML page to the user's browser, the Preview Server could possibly upload the HTML page to S3, along with any required files.
+
+### PoC Architecture
+
+A technical summary and architectural diagram of the WIP PoC is available here:
+[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/single_page_publish_poc.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/single_page_publish_poc.md)
 
 ### Time estimate
 2-3 sprints
