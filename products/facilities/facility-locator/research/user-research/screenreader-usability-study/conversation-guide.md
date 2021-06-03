@@ -9,7 +9,12 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
-* [TalkBack](#talkback)
+* [Screen sharing](#screen-sharing)
+* [Warm-up questions](#warm-up-questions)
+* [Task 1](#task-1)
+* [Task 2](#task-2)
+* [Task 3](#task-3)
+* [Post-task Interview](#post-task-interview)
 
 ## Intro - 3 minutes
 
@@ -91,7 +96,8 @@ SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9U
 - You will then be asked to join audio. Please tap "Join audio."
 - Once you're in the call...
 
-## Screen sharing - iOS
+## Screen sharing
+
 ### VoiceOver iOS (Mobile and Tablet) using web app
 
  - Swipe to or find the "Share content" button and double tap it. 
@@ -105,7 +111,6 @@ SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9U
 _[For Android:](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
 
 
-## TalkBack
 ### Screen sharing set-up - TalkBack, Android using web app
 
  - Swipe to find the “share button” and double tap it. 
@@ -139,7 +144,9 @@ We can get started with some questions. So, as a website designer and researcher
 
 Thank you for sharing that.
 
-## Discovery - Internet searching for a location
+## Discovery 
+
+### Internet searching for a location
 
 During our time together, we'll mostly be focused on finding VA locations online. 
 
@@ -159,7 +166,9 @@ During our time together, we'll mostly be focused on finding VA locations online
 
 ## TASKS
 
-### Task 1: Getting to ‘Find a VA location’
+### Task 1
+
+#### Getting to ‘Find a VA location’
 
 Next, I'm going to ask you to complete a task. 
 
@@ -182,7 +191,8 @@ _Things to look for:_
 - What screen reader shortcuts did they use? 
    - E.g. elements list, rotor, navigating by heading vs. navigating by tab
 
-### Task 2: Using ‘Find a VA location’ near current location
+### Task 2
+#### Using ‘Find a VA location’ near current location
 
 [SEARCH]
 
@@ -211,7 +221,8 @@ _Things to look for:_
 - Can the participant navigate backward and forward easily, no keyboard traps?
 - Is navigation order logical to the participant?
 
-### Task 3: Using ‘Find a VA location’ to plan ahead
+### Task 3
+#### Using ‘Find a VA location’ to plan ahead
 
 Next, I'm going to walk us through a different scenario. Imagine you are planning a trip and you’d like to know what the closest VA hospital would be from where you’ll be staying. It can be somewhere you’ve visited in the past, if that’s easier.
 
