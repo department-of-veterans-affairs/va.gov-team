@@ -229,10 +229,18 @@ Objective:
 
 ## Hypotheses/Bets for Consideration
 
-1) Users will want to enter a search term first, then "filter" results.
-2) Selecting another search tool is similar to filtering and refining results.
-3)
-4)
+1) Create a left-hand nav for all search tools
+-Users will want to enter a search term first, then "filter" results.
+-Selecting another search tool is similar to filtering and refining results.
+-Utilizes recognized design pattern used elsewhere on VA.gov
+2) Expanding Search Input field “Super Search” - Ryan Concept 
+-Similar to benefits hub drop down popup
+-Could add: Most recent searches if authenticated
+-How would that interact with the existing typeahead experience?
+3) Typeahead Enhancements “Search Intent” (eg. Routed Query) [Requires exploration]
+-Match query to filter by intent and make search recommendation  - i.e. form numbers, location (using db of locations)
+-Could be confusing to users if that isn’t what they meant to search for. 
+
 
 
 ## Other search tool links to include
