@@ -8,6 +8,8 @@
 - [ ] Enable screen sharing in Zoom
 - [ ] Manage waiting room feature in Zoom
 
+* [Tech set-up](#tech-set-up)
+
 ## Intro - 3 minutes
 
 Thanks for joining us today! My name is Leyda. Before we begin, I want to make sure that you're comfortable with there being a few of my teammates assisting me on this call including a note taker and an accessibility specialist, [name], should we need any help with technology during our session. I can tell you a little more about who we are and what we’re doing before we go any further.
