@@ -188,8 +188,6 @@ vi) Participants will understand what to do in case of emergency
 
   > [P5] "[referecing yellow alert]...it's fine, but the blue caught my eye faster."
 
-- Rural participants seemed more likely
-
 ## Recommendations
 
 [Initial recommendations - may change]
