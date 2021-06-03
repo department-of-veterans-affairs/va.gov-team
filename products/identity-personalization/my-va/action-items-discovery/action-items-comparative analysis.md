@@ -84,8 +84,14 @@ The one exception to this is specific to banks - if something is due and gets pa
 
 ### How do sites visually prioritize action items?
 
+The only action items that 
+
 - Banks highlight if something is due outside of the actual notification center - often on the dashboard/homepage (using a red dot/indicator with some small details)
 - If it's a notification center, most action items are the same 'visual weight'. If it's really important it's brought to the top with a different color/icon to elevate its importance.
+
+#### Takeaways
+
+- Action items are prioritized by time-sensitivity. If something is due, that goes to the top and has more visual weight using color and (sometimes) an icon.
 
 ### How do sites determine what is an important action item to a user? 
 
