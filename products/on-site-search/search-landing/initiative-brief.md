@@ -6,6 +6,8 @@
 
 Establish a landing page for search so that any users who search for va.gov/search or any zero result queries that come from redirect pages are presented with a landing page where they can initiate their search query. 
 
+[Search Landing Page - Comparative Analysis](https://docs.google.com/spreadsheets/d/17xYNtg4agv-fHwVy2yJojVugRPBLGlZOv9SO4Joz434/edit?usp=sharing)
+
 ## Problem Statement
 *Describe the challenge / pain point you seek to address.:* 
 * What is the problem?
