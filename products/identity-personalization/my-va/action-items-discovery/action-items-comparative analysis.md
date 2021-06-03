@@ -37,7 +37,7 @@ This comparative analysis aimed to observe the following:
 - [USAA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-items-comparative%20analysis.md#usaa)
 - [Zions Bank](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-items-comparative%20analysis.md#zions-bank)
 
-## Takeaways breakdown
+## Takeaways
 
 This comparative analysis aimed to observe the following:
 
@@ -116,7 +116,7 @@ All sites observed made it clear that a user could click on a link in the notifi
 
 ### What happens if there are NO action items?
 
-The observed sites all handled fairly similarly. A simple message stating that there are no action items, paired with no red dot/indicator present on the page. 
+The observed sites all handled this fairly similarly. A simple message stating that there are no action items, paired with no red dot/indicator present on the page. 
 
 ## Site examples
 
