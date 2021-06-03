@@ -9,7 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
-* [Screen sharing-iOS](#screen-sharing-iOS)
+* [TalkBack](#talkback)
 
 ## Intro - 3 minutes
 
@@ -105,7 +105,8 @@ SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9U
 _[For Android:](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
 
 
-## Screen sharing set-up - TalkBack, Android using web app
+## TalkBack
+### Screen sharing set-up - TalkBack, Android using web app
 
  - Swipe to find the “share button” and double tap it. 
  - A menu will appear with a list of items. Swipe until you find “screen” and double tap it. 
