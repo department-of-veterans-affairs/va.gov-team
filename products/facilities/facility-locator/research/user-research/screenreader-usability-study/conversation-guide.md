@@ -9,6 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
+* [Screen sharing set-up ](#screen-sharing-set-up )
 
 ## Intro - 3 minutes
 
