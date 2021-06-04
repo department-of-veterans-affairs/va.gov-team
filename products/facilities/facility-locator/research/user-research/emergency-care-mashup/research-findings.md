@@ -99,7 +99,7 @@ v) Veterans understand how to learn more about [community care emergency benefit
 
 vi) Participants will understand what to do in case of emergency
 
-  - **True:** From personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention at any facility.
+  - **Mostly false:** From personal experience, and not necessarily information in the search results, most participants knew to immediately find medical attention at any facility.
 
 ## Details & Quotes
 
