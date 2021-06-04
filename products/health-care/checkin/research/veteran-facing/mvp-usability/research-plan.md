@@ -108,10 +108,8 @@ June 11
 Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
 * Wed, June 23; 9 am - 1 pm ET, 5 - 7 pm ET
-* Thu, Jun 24; 9 am - Noon EST, 3 - 5 pm ET
-* Fri, Jun 25; 9 - 10 am EST, 1 - 2 pm ET, 3:30 - 5 pm ET
-* Mon, Jun 14; 9:30 - 12 pm EST
-* Tue, Jun 15; 9:30 - 4:30pm EST
+* Thu, Jun 24; 9 am - 12:30 EST, 1:30 - 5 pm ET
+* Fri, Jun 25; 9 - 10:30 am EST, Noon - 2 pm ET, 3:30 - 5 pm ET
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
