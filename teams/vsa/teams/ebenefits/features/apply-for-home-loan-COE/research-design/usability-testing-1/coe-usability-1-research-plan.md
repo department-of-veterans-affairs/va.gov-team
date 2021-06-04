@@ -69,21 +69,30 @@ Recruit for 6 fulfilled sessions using the following criteria:
 
 #### Testing sessions
 
-**Pilot session** | Date/time TBD
+**Pilot session (Two)** 
+
+| Dates | Times (EDT) |
+| --- | --- |
+| June 10 | 1 PM |
+| June 17 | 1 PM |
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| April X | 9 AM to 5 PM |
-| April X  | N/A |
-| April X  | 9 AM to Noon |
-| April X  | 9 AM to 5 PM |
-| April X  | 9 AM to Noon |
-| April X  | 9 AM to 5 PM |
+| June 14 | 9 AM to 5 PM |
+| June 15 | 9 AM to Noon |
+| June 16 | N/A |
+| June 17 | 9 AM to 5 PM |
+| June 18 | 9 AM to 5 PM |
+| June 21 | 9 AM to 5 PM |
+| June 22 | 9 AM to Noon |
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
+
+**Please have Perigean available for note-taking if possible.**
+Note template pending; will send prior to first session.
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
@@ -91,8 +100,8 @@ Recruit for 6 fulfilled sessions using the following criteria:
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- Matt Self | matt.self2@va.gov -- Product Co-Owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
+- - Candy Clark | cclark@governmentcio.com -- Moderator, designer
 - Kelli.Deinarowicz@va.gov
 - Erin.Griffiths1@va.gov
 - Daniel.Stenavich@va.gov
