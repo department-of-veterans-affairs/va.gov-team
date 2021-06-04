@@ -4,32 +4,7 @@
   
 
 #### Overview
-
-*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.*
-
-  
-  
-
-<details>
-
-<Summary>Examples:</Summary>
-
-- *Product: On-Site Search*
-
-- *Initiatives: Typeahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md)*
-
-- *Product: VA.gov Profile*
-
-- *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
-
-- *Product: Disability Claims*
-
-- *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
-
-</details>
-
-  
-  
+ 
 
 ## Description
 
