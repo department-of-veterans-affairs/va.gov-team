@@ -1,4 +1,4 @@
-# Inclusive Design Interviews with Caregivers Conversation Guide
+# Virtual Agent interviews with Veterans with a disability Conversation Guide, 6/4/2021
 
 ## Moderator logistics
 
@@ -22,6 +22,7 @@ Before we start, a few things I want to mention:
 
 - This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this interview, we want to hear your honest opinions about how you interact with va.gov and its products to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- We’re also going to have you talk outloud during the product testing part - so feel free to share what you’re thinking about what you’re seeing in the product.
 - If for any reason and at any time you want to stop the interview, please let me know.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
