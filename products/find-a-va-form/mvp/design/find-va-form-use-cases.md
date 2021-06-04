@@ -8,7 +8,7 @@
   - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.
 
 * **Link to designs:** 
-  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+  - 🌟**update** PDF prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
 
 * **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
@@ -26,7 +26,7 @@
   - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
 
 * **Link to designs:** 
-  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+  - 🌟**update** PDF prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
 
 * **Instructions to access in Staging:**
   - https://staging.va.gov/find-forms/
@@ -256,3 +256,8 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 40.	https://prod.cms.va.gov/find-forms/about-form-10-10ezr \[[6107](http://preview-prod.vfs.va.gov/preview?nodeId=6107)] \[[QA-env link](http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-10ezr?_format=static_html)] (A)
 41.	https://prod.cms.va.gov/find-forms/about-form-21-0779 \[[6065](http://preview-prod.vfs.va.gov/preview?nodeId=6065)] \[[QA-env link](http://forms.demo.ci.cms.va.gov/find-forms/about-form-21-0779?_format=static_html)] (B)
 
+# Historic Information
+## Links to old mockups
+  -  prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b0086df2-db66-42e9-b202-2f790435e7c3?hints=off
+  -  mobile prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b5bcf931-4c82-42b3-9a11-cca84dfcedb8?hints=off
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
