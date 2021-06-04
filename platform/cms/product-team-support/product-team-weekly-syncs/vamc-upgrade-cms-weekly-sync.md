@@ -23,9 +23,13 @@
 
 ## June 4
 
+* Help desk
+  * White glove service
+  * Help desk follow-up with VHA Digital Media reporter
 * GovDelivery may be enabled soon - do not send emails when adding the Dual State banners
-* White glove service
-* Help desk follow-up with VHA Digital Media reporter
+* Menu items for all Detail pages
+* Facility health service migrations
+
 
 ## Friday May 28
 
