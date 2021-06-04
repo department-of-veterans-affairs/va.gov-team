@@ -124,7 +124,7 @@ Objective 1:  Meet Veterans' and their family members' need for Spanish and Taga
 - Key result 3: Satisfaction rating for translated content (Awaiting Medallia)
 - Key result 4: Customer Engagement                                                                                                                      
 
-Objective 2: Provide a recommendation for a scalebale solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
+Objective 2: Provide a recommendation for a scalable solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
 - Key result 1: Improve time to generate and deploy translated content from yy weeks to xx days.
 - NPR/Satisfaction survey
 
@@ -138,7 +138,7 @@ Out of Scope
 - Site-wide roll-out or centralized translation management
 - Non-content pages (ie: tools, VAMCs)
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
-- other chanels including notifications, email, snail mail). SK note: this could be a big driver for saving on translation costs - enabling other depts to leverage database)
+- Other channels including notifications, email, snail mail (SK note: this could be a big driver for saving on translation costs - enabling other depts to leverage database)
 
 Assumptions
 Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
@@ -146,13 +146,13 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - Users will be able to find and easily link/toggle to translated content.  
 - Mid-term approach will build new pages in Github 
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
-- An expeditious process for completing internal needs analysis and vetting software solutions/partners by June 2021 (RISKY)
+- An expeditious process for completing internal needs analysis and vetting software solutions/partners by Sept 2021 
 
 ## Solution Approach
 
 *What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a navigational link from the homepage to newly created in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and will also rovide information on how to access translation support and file discrimination complaints.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
@@ -179,7 +179,7 @@ ________________________________________
 ## Go-to-Market Strategy
 How are Veterans and others using this product going to know it exists? 
 
-We'll need to reach specific audiences who may need content translated into Spanish (see below)
+- We'll need to reach specific audiences who may need content translated into Spanish (see below)
 
 What marketing, outreach, or communications are necessary for this product to be successful? 
 
@@ -193,9 +193,11 @@ Target & Actual Launch Dates
 - Target: January 20, 2021 for coronavirus FAQs page (Spanish) 
 - Actual: January 22, 2021 for coronavirus FAQs page 
 - Actual: March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
+- Target: June 7th for Language Assistance and Resource pages
+- Actual: June ...
 
 What date will you evaluate impact after launch?
-- Updated: 3 months post launch (mid-April 2021)
+- Updated: 3 months post launch 
 ________________________________________
 
 ## For Reference
