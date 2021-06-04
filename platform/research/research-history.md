@@ -16,14 +16,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2021
 
-#### June (date to be confirmed) Virtual Agent persons with a disability interviews
+#### June 14th: Virtual Agent Veterans with a disability interviews
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
-- Number of participants: 10
+- Number of participants: 2
 
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/inclusive-design-interviews)
 
-- List of keywords: Veterans, Virtual Agent, Chatbot
+- List of keywords: Veterans, Virtual Agent, Chatbot, Disabled, Visual impairment, Accessibility
 
 
 #### June 1st: Virtual Agent Proof of Concept 
@@ -31,7 +31,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 - Number of participants: 100
 
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/controlled-study)
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
