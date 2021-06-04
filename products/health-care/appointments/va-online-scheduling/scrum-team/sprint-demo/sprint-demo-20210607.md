@@ -40,6 +40,12 @@
   - [Replace connect() with hooks in ConfirmationPage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23413)
   - [Replace connect() with hooks in project cheetah index](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23411)
   - [508-defect-4 [COGNITION]: Telephone number on the Review your appointment details screen should be formatted for content and semantics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24172)
+  - [Atlas Past Appt Not Displaying Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25613)
+  - [Atlas Appointments Not Displaying Provider Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25601)
+  - [VVC @Home Need to Make Changes Not Showing Facility Phone Number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25598)
+  - [Update vaccine dead end with walk-in info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25388)
+  - [Atlas Appointments Missing Facility - No Way for Vet to Know Facility to Contact to Cancel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25087)
+  - [Refresh-CC past detail updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24754)
 
 - Jennie
   - [Vaccine scheduling-Staging Review Design Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25478)
