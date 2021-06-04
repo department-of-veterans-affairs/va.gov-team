@@ -21,10 +21,10 @@ Thanks for joining us today! My name is \[NAME\] and I also have some colleagues
 Before we start, a few things I want to mention:
 
 * This entire session should take no longer than 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-* In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts on a possible new way to check-in. I will not be offended by any opinions you express, and I welcome your feedback.
+* In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts on a possible new way to let your doctor know that you have arrived for your appointment. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
-  * First, I'll start by asking you a few questions about your past experience check-in for VA medical appointments.
-  * For the second half of the session, I'll send you a link to a prototype that one of our teams created to explain a new way to check-in. 
+  * First, I'll start by asking you a few questions about your past experiences.
+  * For the second half of the session, I'll send you a link to a prototype that one of our teams created to explain a new way to let your doctor know that you have arrived. 
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -37,7 +37,7 @@ Start recording.
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
 * Can you describe checking in for that medical appointment?
-  * Overall, how would you describe that check-in experience? Was it a good or bad experience? Easy or hard?
+  * Overall, how would you describe that experience? Was it a good or bad experience? Easy or hard?
     * What did you like about it?
     * What did you not like about it?
 * You checked in via [the method they mentioned in the previous question], but is that the method that you use most often?
@@ -59,9 +59,9 @@ Alright, I want you to pretend that you have a VA medical appointment today. You
   * What would you do next after viewing this poster?
   * Is there anything missing?
 
-Now, lets pretend that you decided to check-in by texting "I am here." Click "I am here" to move onto the next part of the prototype.
+Now, lets pretend that you decided to text "I am here." Click "I am here" to move onto the next part of the prototype.
 
-_Once on the text message screen._ Ok. Now, check-in.
+_Once on the text message screen._ Ok. Now, how would you continue to let your doctor know that you are here for your appointment?
 
 Things to watch for:
 
