@@ -8,7 +8,7 @@
   - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.
 
 * **Link to designs:** 
-  - 🌟**update** PDF prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
+  - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
 
 * **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
@@ -26,7 +26,7 @@
   - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
 
 * **Link to designs:** 
-  - 🌟**update** PDF prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
+  - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
 
 * **Instructions to access in Staging:**
   - https://staging.va.gov/find-forms/
