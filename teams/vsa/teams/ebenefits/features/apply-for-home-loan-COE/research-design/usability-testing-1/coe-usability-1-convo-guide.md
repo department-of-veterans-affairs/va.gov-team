@@ -1,11 +1,9 @@
 # Certificate of eligibility (COE) usability testing conversation guide
-**VSA eBenefits Team | April 2021**
+**VSA eBenefits Team | June 2021**
 
 `James Adams, designer`
 
 ---
-
-`Work-in-progress`
 
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
@@ -111,3 +109,5 @@ Looks like we covered everything on my list. (ALT) Looks like we're at (time), s
 
 ## Closing
 Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+
+---
