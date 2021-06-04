@@ -102,6 +102,8 @@ During March 2021 the total number of pageviews for the Covid-10 and Corona FAQ 
 Jan and Feb 2021 saw ~40k users with browsers set to Spanish visiting VA.gov each month.
 From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~600k. 
 
+To determine whether the Language Assistance and Resource pages is delivering value to users, we will initially be most interested in KPIs related to engagement and whether they mirror TBD. The volume of users is not of key concern since we know the population of LEP Veterans and family members/caretkakers is relatively small compared to the English speaking population.
+
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
 •	Measurements for search and direct traffic to the Spanish pages 
