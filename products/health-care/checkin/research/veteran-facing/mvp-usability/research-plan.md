@@ -17,13 +17,16 @@ With this round of research, we are looking to test the usability and design of 
 What question(s) do you hope to be able to answer after completing this research?
 
 * Do Veterans understand how to check-in via their mobile device?
-* How do Veterans feel about the proposed check-in solution, particularly the multiple modalities utilized (poster, text, then website)?
+* How do Veterans feel about the proposed check-in solution, particularly the multiple modalities utilized (text, then website)?
 * What appointment information are Veterans expecting to review, in order to complete check-in?
 * Once check-in is complete, do Veterans understand what will happen/what they should do next?
 
 ### Hypotheses: 
 
 * Veterans will be able to complete check-in on their mobile device.
+* Due to our authentication method, Veterans will have no problems jumping from text to website to complete check-in.
+* Since Veterans are at the VA facility, they only need a few pieces of appointment information during the check-in process.
+* Veterans will have enough information to know what to do next or where to go if they do have questions.
 
 ## Method
 
