@@ -1,5 +1,5 @@
 # Certificate of eligibility (COE) usability testing research plan
-**VSA eBenefits Team | April 2021**
+**VSA eBenefits Team | June 2021**
 
 `James Adams, designer`
 
