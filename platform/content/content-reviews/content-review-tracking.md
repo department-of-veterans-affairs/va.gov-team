@@ -19,6 +19,7 @@ eBenefits |COE | Midpoint review | https://app.zenhub.com/workspaces/platform---
 Facilities | Vet Centers | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24857
 Thoughtworks  | Virtual chatbot | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/23611 **and** https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24698<br>
 VAOS | Vaccine distribution | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24101   
+VAOS | Direct schedule flow | pre-staging | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/25326
 Wizards | 526 Disability | Staging review | https://github.com/department-of-veterans-affairs/va.gov-team/issues/22474
 
 
