@@ -18,19 +18,17 @@ With this round of research, we are looking to test a lower-fidelity prototype o
 
 What question(s) do you hope to be able to answer after completing this research?
 
-* Are Veterans able to locate the new Copayments tool easily? 
-* Are Veterans able to navigate between financial tools easily?
-* Do Veterans understand how to use the Copayments tool?
-* Do Veterans understand the details of their copayment bills?
+* Do Veterans understand how their bills contribute to a balance for each facility?
+* Do Veterans understand how to view and resolve their bills?
+* Are Veterans able to find all of the relevant information they need about their debt?
 * Do Veterans understand their options for resolving their bills?
 
 ### Hypotheses: 
 
-* Veterans will try to navigate to the copayment tool using search or by clicking through the health care quadrant. 
-* Veterans may find the link to the tool to be hidden.
-* Add hypothesis about how Veterans see the difference between Copayments Tool and Debt Portal Tool.  e.g "Veterans will understand that this tool is specifically for managing and paying health care copayment debts".
-* Add hypothesis about understanding details of bill
-* Add hypothesis about understanding options for resolution, eg. requesting waiver/using FSR form
+* Veterans may be confused by multiple facilities having balances
+* Veterans may miss the simpler link for viewing their debt details, then be confused why the wizard doesn't show more information about their debt
+* Veterans will be able to find the right information
+* Veterans will be able to find and understand their options, but Veterans may be frustrated with the wizard
 
 ## Method
 
