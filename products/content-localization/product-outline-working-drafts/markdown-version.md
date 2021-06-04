@@ -197,6 +197,7 @@ Target & Actual Launch Dates
 - Actual: June ...
 
 What date will you evaluate impact after launch?
+
 - Updated: 3 months post launch 
 ________________________________________
 
@@ -232,7 +233,7 @@ Content Translation Process: https://github.com/department-of-veterans-affairs/v
 ### Team
  - Team Name: Content & Localization
  - GitHub Label: 
- - Slack channel: 
+ - Slack channel: #vsa-content-localization
 
 ________________________________________
 ## Implementation Info
