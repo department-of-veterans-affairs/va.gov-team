@@ -9,6 +9,7 @@
 
 * **Link to designs:** 
   - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
+  - Mobile prototype: https://vsateams.invisionapp.com/console/share/8Y10IE2JN2J4
 
 * **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
@@ -27,6 +28,7 @@
 
 * **Link to designs:** 
   - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
+  - Mobile prototype: https://vsateams.invisionapp.com/console/share/8Y10IE2JN2J4
 
 * **Instructions to access in Staging:**
   - https://staging.va.gov/find-forms/
