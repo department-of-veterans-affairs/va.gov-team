@@ -83,7 +83,7 @@ i) Veterans want to search for a single list, containing both VA and community e
 
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
-  - **Mostly true:** From personal experience, most participants seemed to be aware of this, and not necessarily because of anything on the facility locator page.
+  - **Mostly false:** From personal experience, most participants seemed to be aware of this, but not necessarily because of anything on the facility locator page.
 
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 
