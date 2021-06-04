@@ -33,7 +33,7 @@ Start recording.
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 7 minutes
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
 * Can you describe checking in for that medical appointment?
@@ -45,7 +45,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 * Have you ever had a check-in experience go wrong at the VA?
   * If so, can you share what happened?
 
-## Usability
+## Usability - 15 minutes
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
@@ -79,16 +79,23 @@ I'm going to have us start the prototype again, so I can ask questions about par
 **Your appointment**
 * Is this what you were expecting?
 * Can you explain to me what we're looking at?
+* Is there anything missing?
 
-## Post-Task Interview - 3 minutes
+**Confirmation page**
+* Is this what you were expecting?
+* Is there anything missing?
+* What would you do next?
 
-* 
+
+## Post-Task Interview - 5 minutes
+* Now that you've seen the whole check-in experience, what are your impressions of the experience?
+* If you could change one thing about the experience, what would it be? 
 * Do you have any other thoughts on what we talked about today?
 * Any questions for me?
 
 ## Thank-You and Closing - 2 minutes
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans, so thank you for your time.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on check-in and make sure it really works for Veterans, so thank you for your time.
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
