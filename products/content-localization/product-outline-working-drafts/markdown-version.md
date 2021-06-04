@@ -232,7 +232,7 @@ Content Translation Process: https://github.com/department-of-veterans-affairs/v
 
 ### Team
  - Team Name: Content & Localization
- - GitHub Label: 
+ - GitHub Label: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization 
  - Slack channel: #vsa-content-localization
 
 ________________________________________
