@@ -33,7 +33,7 @@ Start recording.
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions - 7 minutes
+## Warm-up Questions - 5 minutes
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
 * Can you describe checking in for that medical appointment?
@@ -45,7 +45,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 * Have you ever had a check-in experience go wrong at the VA?
   * If so, can you share what happened?
 
-## Usability - 15 minutes
+## Usability - 13 minutes
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
