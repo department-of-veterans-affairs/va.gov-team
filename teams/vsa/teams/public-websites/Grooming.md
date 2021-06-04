@@ -27,6 +27,24 @@ None
 
 </details>
 
+## Wednesday, June 9, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] 508-defect-1, sitewide [FOCUS]: Mobile menu does not trap focus [#25659](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25659)
+- [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed [#25661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25661)
+- [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239) 
+- [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383) 
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- How do robots eat guacamole?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+
 ## Wednesday, May 26, 2021
 
 ### Key Grooming Factors:
@@ -536,4 +554,4 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-May 26: Thanks for all the sediment.
+June 9: With Computer Chips.
