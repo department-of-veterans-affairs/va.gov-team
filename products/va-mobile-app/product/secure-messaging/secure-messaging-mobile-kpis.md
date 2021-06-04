@@ -1,4 +1,4 @@
-# Mobile App Secure Messaging KPIs (draft)
+# Mobile App Secure Messaging KPIs 
 
 ## Product North Star Metric 
 * Time between a provider sending a message -> the user opening the message (pending technical feasibility) 
@@ -37,4 +37,22 @@ Our main question to answer during this time is 1) do Veterans use Secure Messag
 
 * How many app users are reaching dead ends in SM?
   * Account/login issues     
+
+## Next
+
+### OBJECTIVE 4: Improve the rate of task completion within Secure Messaging on the app.  
+* Key Result: Decrease the average time it takes to create a new message 
+   * KPI: Time to create a new message from start to send 
+
+### OBJECTIVE 5: Increase the number of Veterans who successfully connect with their healthcare teams 
+* Key Result: Increase the number of Veterans who use secure messaging on the mobile app. 
+  * KPI: Percentage of mobile app users who have opened their inbox
+  * KPI: Number of users sending messages in both the app and the web
+
+
+## Later
+### OBJECTIVES 6: Make the mobile app the preferred channel for secure messaging. 
+### OBJECTIVES 7: Reach new secure messaging app users who are not using secure messaging on the web. 
+### OBJECTIVES 8: Reduce the need for Veterans to jump from one health tool to another when creating a secure message 
+
 
