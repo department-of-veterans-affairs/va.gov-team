@@ -23,7 +23,7 @@ What question(s) do you hope to be able to answer after completing this research
 
 ### Hypotheses: 
 
-* 
+* Veterans will be able to complete check-in on their mobile device.
 
 ## Method
 
