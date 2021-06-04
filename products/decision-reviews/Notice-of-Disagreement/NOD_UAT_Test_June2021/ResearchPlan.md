@@ -65,7 +65,10 @@ Must have for participants:
 
 -   The participants need to be Veterans (separated from active duty) 
 
--   They need to have at hand their (working) VA login credentials.
+-   They need to have at hand their (working) VA login credentials. 
+
+Examples: Do you have a DSLogon Premium, a MHV premium, or ID.me identity verified account?
+(if they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that? -- hopefully they'll tell you something like "I click on the MHV button" or "I click on the DS Logon button")).
 
 -   They need to have an existing claim decision that they would like to appeal to the Board of Veteran Appeals.
 
