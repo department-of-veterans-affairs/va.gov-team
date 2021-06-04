@@ -133,9 +133,9 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/usability-testing-may2021/discussion-guide.md	
 - Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1621873180899/9430c6401d3caf812d21462194f9252821518e08 	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
