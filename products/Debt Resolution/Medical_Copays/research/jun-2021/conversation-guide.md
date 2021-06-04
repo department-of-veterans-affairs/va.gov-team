@@ -1,3 +1,5 @@
+# 
+
 # Conversation guide for Debt Resolution Team, Medical Copayments Usability
 
 ## Moderator logistics
@@ -46,23 +48,26 @@ Start recording.
 
 ## Usability
 
-Alright, I want you to imagine that you are in the following scenario:
-
-* You are a Veteran who went to the Cedar Park VA Medical Center in April for a routine checkup. In May, you went back to that medical center to have a few routine tests done and you refilled your medication. Today, a couple weeks later, you received a piece of mail detailing your VA healthcare charges.
-  * In a word or two, what would you call that piece of mail?
 * I'm going to send you a link in Zoom's chat feature. Go ahead and click that link when you're ready.
 
 \[Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349\#/pages/139236640/simulate/no-panels?mode=i\] 
 
-* What we're looking at now is a tool on VA.gov. Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know.
-* Can you tell me what this tool would provide you?
-* What would be your next step from here, to view those copayment bills?
-* What would you expect to see once you sign in?
+What we're looking at now is a potential tool on VA.gov. Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know. If something doesn't work the way you expect, let me know what you expected it to do. 
+
+### Landing page
+
+* What could you use this tool for? 
+* What's an example of when you might use this tool?
+  * Let's say you recently had a few appointments and refilled your medication, and now you want to check if you owe anything. What would be your next step from here?
+  * What would you expect to see once you sign in?
 * Go ahead and click sign in. You won't need to use your real account to sign in.
-* Can you explain to me what we're looking at here?
-  * Is there anything here that stands out to you as unusual about this page?
-  * Is there anything you're unsure about?
-  * Is there anything missing?
+
+### Bill overview
+
+* What  are we looking at here?
+  * What stands out to you about this page?
+  * What are your thoughts?
+  * What is missing?
 * If you were looking to take care of an outstanding bill from the Cedar Park VA Medical Center, what would your next step be?
   * \[If 'view bill details'\]
     * What do you expect to see there?
@@ -76,14 +81,14 @@ Alright, I want you to imagine that you are in the following scenario:
 ### Bill Detail Page
 
 * Is this what you were expecting?
-* Can you explain to me what we're looking at?
-* Can you tell me what you owe, based on this page?
+* What are we looking at?
+* What do you owe, based on what you see on this page?
 * When do you need to pay by?
 * How much do you need to pay by that date?
 * What do you think will happen if you don't pay by that date?
 * Talk to me about the charges you see here.
   * What does this mean to you?
-  * How would you normally interact with this information?
+  * How would you normally do with this information?
   * If you had questions about these charges, what would you do?
 * What do you think your options are to settle this debt?
 * Do you have any questions about this page?
@@ -91,14 +96,12 @@ Alright, I want you to imagine that you are in the following scenario:
 
 ### Wizard
 
-* Can you explain to me what we're looking at?
-* Can you tell me how this compares to your expectations?
+* What are we looking at?
+* How does this compare to your expectations?
+* Let's say you want to request financial help for the bill you received from the Cedar Park VA Medical Center. 
+  * What would you do next?
 
-Let's say you want to request financial help for the bill you received from the Cedar Park VA Medical Center. 
-
-* What would you do next?
-
-\[Once they navigate to the card linking to the FSR\]
+### FSR card
 
 * Talk to me about the information you see here.
   * What does this mean to you?
