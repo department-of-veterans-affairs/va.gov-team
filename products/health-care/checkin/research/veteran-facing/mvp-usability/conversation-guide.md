@@ -61,7 +61,7 @@ Alright, I want you to pretend that you have a VA medical appointment today. You
 
 Now, lets pretend that you decided to text "I am here." Click "I am here" to move onto the next part of the prototype.
 
-_Once on the text message screen._ Ok. Now, how would you continue to let your doctor know that you are here for your appointment?
+_Once on the text message screen._ Ok. Now, what would you do next?
 
 Things to watch for:
 
