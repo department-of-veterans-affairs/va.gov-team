@@ -29,7 +29,7 @@
 * GovDelivery may be enabled soon - do not send emails when adding the Dual State banners
 * Menu items for all Detail pages
 * Facility health service migrations
-
+* Policies Page
 
 ## Friday May 28
 
