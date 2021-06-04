@@ -49,20 +49,36 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
-* I'm going to send you a link in Zoom's chat feature, so you'll be able to see the poster. Go ahead and click that link when you're ready.
+* I'm going to send you a link in Zoom's chat feature, so you'll be able to see the poster. Go ahead and click that link when you're ready. Since what you will be reviewing is a prototype not everything will be clickable. If there's anything that you want to know more about or unsure about, let me know.
 
 [Send link in chat: TBD] 
 
+**Poster**
 * Can you explain to me what we're looking at here?
   * What are your thoughts about what the poster is asking you to do?
-  * 
+  * What would you do next after viewing this poster?
+  * Is there anything missing?
 
-* Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know.
+Now, lets pretend that you decided to check-in by texting "I am here." Click "I am here" to move onto the next part of the prototype.
 
+_Once on the text message screen._ Ok. Now, check-in.
 
 Things to watch for:
 
-* ????
+* Were they able to successfully complete the task?
+* Were there any points of confusion?
+* Were there any comments about jumping from a text message to a website?
+* Did they expect to see any additional information on the your appointment or confirmation pages?
+
+I'm going to have us start the prototype again, so I can ask questions about particular pages.
+
+**Text Message**
+* Would you make any changes to this text messaging portion of check-in?
+* What do you think about starting in a text message, then finishing check-in on va.gov?
+
+**Your appointment**
+* Is this what you were expecting?
+* Can you explain to me what we're looking at?
 
 ## Post-Task Interview - 3 minutes
 
