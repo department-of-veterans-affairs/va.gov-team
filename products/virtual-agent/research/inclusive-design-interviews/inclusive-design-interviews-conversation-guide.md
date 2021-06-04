@@ -31,28 +31,59 @@ Before we start, a few things I want to mention:
 
 ## Questions
 
+Basic info
 
-- Who they provide care for
-    - For what type of disability (i.e psychological, cognitive, physical, auditory, visual) 
-    - The type of care (i.e physical, emotional, financial)
-    - The frequency of care (i.e daily, check-ins, monthly)
-    - Where care is provided (i.e. home, hospice, living assistance, nursing home)
-    - If help is provided (i.e. family members, health aid) 
-- What are common challenges they’re trying to solve?
-- How caregivers normally find information on va.gov - channels, why do they choose that channel and how often they use it
-- Do caregivers sign into va.gov (using Veteran’s info) - why or why not
-- What do they do when they can’t find the information they need on VA.gov? 
-    - Non-VA: Veterans, social media etc.
-    - VA: help desk, etc. VA facility, VSO
-    - Other
+- How do you normally find information on va.gov - what channels, why do they choose that channel and how often they use it
+    - Do you sign into va.gov (using Veteran’s info) - why or why not?
+    - What do you do when you can’t find the information you need on VA.gov? 
 
-- What are challenges they experience when contacting the VA and when do they switch to another channel and why
-- How often caregivers speak with a VA help desk/contact center
-- What was the process to resolve the problem and did it get resolved?
-- Have caregivers ever used a chatbot or virtual agent online?
-- Did caregivers used the coronavirus chatbot on VA.gov - why or why not
-- What functionality would caregivers find valuable in a chatbot
-- What content (questions and topics) would caregivers find valuable in a chatbot and what language would the expect
+- How often do you speak with a VA help desk/contact center? What were some of the reasons you have called a VA help desk/contact center in the past?
+- Have you ever used a chatbot or virtual agent online - why or why not? What were you doing on it?
+- Did you use the Coronavirus chatbot on VA.gov - why or why not?
+- What assistive technology do you use to interact with the Internet?
+
+Product interaction
+
+_Purpose: to understand if they experience the challenges we’ve identified with the chatbot we built_
+
+We’re now going to have you interact with the product we’ve built.  Before we get started, can you confirm any assistive technology is enabled. We’re putting a link in the Zoom chat window - if you click on the ‘Chat’ icon you should see something that says staging.va.gov/virtual-agent-study.  Go ahead and click on the link and we’ll get started.
+
+(Read what the disclaimer says outloud) 
+
+Now you’ll see the chatbot window.  We’d like you to interact with the chatbot and afterwards we’ll chat about the experience.  
+Think of a recent time when you wanted to find out something - some piece of information or a task to complete - on va.gov or to contact the VA.
+
+We’re going to have you go ahead and try and find an answer to that question or tasks using the chatbot.  We want you to ask some of the questions or tasks you’d like to do and try to use the bot for as long as you can.  Feel free to click on links or anything you would normally.  
+
+Remember to talk out loud as you’re interacting with the chatbot, and when you’re done, let us know.
+
+What to observe:
+
+- [KEYBOARD]: Links in the chat log must be keyboard focused
+- [COGNITION]: Links must be announced to screen readers as links. Currently being announced as "messages" or just text 
+- SCREENREADER]: New messages must be announced consistently across assistive technology software
+- [SCREENREADER]: Content should not be repeated when users are navigating through the chat messages 
+- [COGNITION]: Screen reader text for timestamps should match visual timestamps 
+- [COGNITION]: The chat messages should not have screen reader only information between the end of chat message and text input 
+- [PLAIN LANGUAGE]: The bot should have an active voice, and not talk about itself in third person 
+- [SEMANTIC HTML]: Chatbot should be in a labelled region for screen reader navigation 
+- [SEMANTIC HTML]: Consider simplifying the HTML for each list item for better clarity 
+
+_Closing questions_
+
+Now that we tested the product, we’d like to understand your experience.
+
+- Did the chatbot answer your questions accurately?
+- Did it understand what you were trying to ask?
+- After reading the response, did you have the information you needed to take the next step to complete your task?
+- If the chatbot wasn’t able to answer your question, how did that make you feel?
+- The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
+- How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
+- How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
+- How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
+- What content (questions and topics) would you find valuable in a chatbot and what language would the expect
+- How can a chatbot help you reduce how often you call the VA? 
+- Based on your experience today, are you willing to use the chatbot again?
 - Do you have any other feedback you'd like to share?
 
 
@@ -60,7 +91,4 @@ Before we start, a few things I want to mention:
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to design a VA chatbot and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
