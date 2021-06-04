@@ -64,7 +64,35 @@ We conducted 1 pilot + 8 participant remote task-based sessions via Zoom using t
 
 **Note:** Though our [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research-plan.md) requested recruitment of participants who had not previously completed the 10-10EZ, due to no-shows and participant confusion of health care benefits separate from other benefits during recruitment screening, 7 of our participants already receive VA health care, 1 participant had just applied in the last 6 months, and 1 participant was uncertain if they have VA health care - receives health care through military retirement and thought also had some VA benefits.
 
-### Research Questions
+### Who this study excludes (table doesn't include pilot participant)
+This research may not meet the needs of the following marginalized Veteran groups:
+- Age 55-64+
+- Cognitive Disability
+- Mobile user
+- People of color
+- Assistive tech user
+- Transgender
+- Veterans abroad
+
+
+| Category            | Target | Study | Total | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---------------------|--------|-------|-------|---|---|---|---|---|---|---|---|
+| Age 55-64+ ❗       | 50%    | 38%   | 3     | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |
+| Cog. Disability❗   | 50%    | 0%    | 0     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Mobile user ❗      | 50%    | 25%   | 2     | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+| People of color ❗  | 30%    | 25%   | 2     | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| Rural               | 25%    | 25%   | 2     | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| No degree           | 25%    | 25%   | 2     | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Women               | 10%    | 50%   | 4     | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 |
+| Assistive tech user ❗ | 10%    | 0%    | 0     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native American     | 10%    | 25%   | 2     | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| Transgender ❗      | 10%    | 0%    | 0     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| POA                 | 10%    | 38%   | 3     | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 |
+| Veterans abroad ❗  | 10%    | 0%    | 0     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+
+## Research Questions
 
 The research questions we sought to address: 
 - What experiences (personal, social, and medical) bring the user to fill out the application?
