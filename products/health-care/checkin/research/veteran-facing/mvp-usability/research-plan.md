@@ -54,10 +54,10 @@ What are you looking for in a participant?
 #### Primary criteria / Must have:
 
 * 15 participants (for a minimum of 8 completed sessions)
-  * Participants must use VA health care AND had a VA medical appointment within the last year (disqualify those that don't)
+  * Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
   * Participants must be willing to complete the the study via a mobile device (disqualify those that aren't)
 * Please screen participants based on these questions:
-  * Does the following statement describe you? I use VA health care AND had a VA medical appointment within the last year.
+  * Does the following statement describe you? I use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
     1. Yes (Qualify)
     2. No (Disqualify)
   * Are you willing and able to complete this study on your mobile device?
