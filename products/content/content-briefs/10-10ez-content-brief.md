@@ -40,7 +40,7 @@ Follow these content style best practices:
 |                |                 |
 
 
-## Research findings
+## Research findings & working session notes
 
 ### 5.25.21 notes from research
 - People want to know: Why we're asking each question? How we're going to use this?
@@ -52,6 +52,19 @@ Follow these content style best practices:
   - People liked that there was a mention of dental and vision benefits
   - People didn't really mention the expectations after applying; they cared about that at the end
   - People's first instinct (more than half) was to click the top button  
+
+### 6.4.21 notes
+
+- Went over the reworked intro page to fit new content patterns. Agree with noting dental and vision benefits briefly in intro since people noted liking knowing this, but we don't want to add a bunch of extra info in the main body copy.
+- Some folks don't understand what they're applying for. Can even think they're applying for disability benefits. Consider adding a brief mention in the intro about what VA health care is.
+- We want to be mindful of the fear that some folks have about eligibility (ie, if I answer one question wrong, will I be automatically disqualified?). For example, we may want to include a note about how if your income changes, your priority group can be reconsidered.
+- We want to balance being transparent with not having too many distractions. In usability testing, people who understand the additional information component like it, but some folks get confused about what these are. We'd love to test some different approaches (such as including additional info components with each step vs. including a bucket of accordions). The image below shows an example of the accordion approach. We also want to think about other ways to make this component more clear: Labeling, info icon, etc.
+![image](https://user-images.githubusercontent.com/62957278/120834482-0f8e8580-c531-11eb-9018-7a1ed7f71924.png)
+- We want to split out the optional info (income, expenses) in the preparation step. We need to wait for the business line to determine if income not needed in certain cases at all.
+- We don't want to link off to other pages for more info (ie, eligibility, priority group, other insurance, after you apply) from this page because we don't want to confuse people or send them away from the application. We think we'll add these links on the confirmation screen.  
+
+
+
 
 ## Notes from stakeholders
 
