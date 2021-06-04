@@ -23,13 +23,19 @@
 
 ## June 4
 
-* Help desk
-  * White glove service
-  * Help desk follow-up with VHA Digital Media reporter
-* GovDelivery may be enabled soon - do not send emails when adding the Dual State banners
+* GovDelivery may be enabled soon - do not send emails when adding the Dual State banners. 
 * Menu items for all Detail pages
-* Facility health service migrations
 * Policies Page
+  * VAMC upgrade team will delete the old Policies page before creting the new one, which will then take the /policies URL. Reach out if we need to go the URL alias editing route. 
+  * Linkit defect has been fixed
+* Help desk
+  * White glove service - where one on one is being requested from one user to both VAMC upgrade and CMS team, for items that are in the training. Jane will send list of issues to Dave to consider escalation. Jane, Josh Stan, Lisa will document history. 
+  * Supplemental training - look to August/September.
+  * Help desk follow-up with VHA Digital Media reporter  
+    * Items from Justin W should be routed to Stan. He's been charged by VHA Digital Media to do QA work. Justin is only there for 3 months. 
+* Facility health service migrations
+  * Health service names changed (taxonomy terms), and migrations stopped working. Eg Blind and low vision, not Low vision and blind. 
+  * Content freeze on health service names 
 
 ## Friday May 28
 
