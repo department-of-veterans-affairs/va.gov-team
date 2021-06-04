@@ -35,8 +35,8 @@ There are a few things I need to mention before we start:
 
 We'll be looking at two scenarios today -- both will involve dependents. Since this is just testing, so we'll be using a test account with made-up data. 
 
-* **Now we're ready to start.** OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
-* Just click that, select your screen, and hit share.
+* Now we're ready to start. OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
+* **Just click that, select your screen, and hit share.**
 
 ## Verify dependents scenario 
 For the first task, imagine that you have three dependents -- a spouse and two children (We'll need to confirm static info in staging). You're on VA.gov to get some info about dependents benefits.
@@ -85,8 +85,10 @@ User is again given the link to the starting page in the VA.gov staging environm
 * Do users identify the “add or remove dependents” button as a way to make updates?
 * Do users understand what could happen if their dependents are wrong?
 
-### Task 2A  (If the user does not proceed on their own)
-Update your dependents to remove Jordan.
+### Task 2A / Review dependents / 2 minutes
+Modal intercepts user.
+* Why do you think you're seeing this now?
+* How often do expect to see this?
 * After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
  
 #### Things to look for:
