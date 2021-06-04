@@ -32,16 +32,28 @@ As a designer I need to create a research plan to share with my team.
  
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+- Recruit 12 participants	
 
 Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+1. **Primary criteria / Must have** 
 
+Participants should either:
+
+ - Have started attending school in Fall 2020 or Spring 2021
+ - Be looking to start school in 2021
+ 
+Military status of participants: - 4 non-Veteran beneficiaries (spouse or children), 8 Veterans
+
+VA Benefit requirement:
+- 50% using Chapter 33 Post-9/11 benefits
+- 50% using VR&E, Chapter 30 Montgomery Bill or Chapter 35
+    
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+- Age range: 16 - 65
+- Gender: Mix
+- Branch of service: Mix
+- Geography: Geographically dispersed across USA
 
 2.	What is your recruitment strategy? 	
  - Recruitment will be performed by Perigean Technologies
@@ -57,9 +69,14 @@ Please list your participant criteria in two categories-
 3. Length of Sessions: How long do you estimate each session will be? 
  - 45 minutes
  
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
- - June 14th, 2021
+4.	Availability: If applicable, when would you like sessions scheduled? 
+
+ - Wed, June 16: 9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 2:15 - 3 PM
+ - Thurs, June 17: 9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 3:15 - 4 PM
+ - Fri, June 18: 9-9:45 AM; 10:15-11 AM; 1 - 1:45 PM; 2:15 - 3 PM
+
+6.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+ - Monday, June 14th, 2021
  
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -73,7 +90,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
