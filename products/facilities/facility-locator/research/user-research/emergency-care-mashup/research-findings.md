@@ -218,7 +218,7 @@ vi) Participants will understand what to do in case of emergency
   - Veterans can choose VA or community partners under "Service type"
 - Make the blue info link more recognizable as a call to action
   - Change text to "Learn more about your benefits"
-- Change the yelow emergency alert to blue
+- Change the yellow emergency alert to blue
 
 ## Next Steps
 
