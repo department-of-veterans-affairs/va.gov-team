@@ -43,7 +43,7 @@
   - When a user searches for a form that was once valid, but has since been deleted/deprecated, an alert is displayed to indicate deleted form.
 
 * **Link to designs:** 
-  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/deleted-form.png
+  - 🌟**update** PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/design/deleted-form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
