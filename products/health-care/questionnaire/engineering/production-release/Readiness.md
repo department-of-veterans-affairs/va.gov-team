@@ -15,7 +15,7 @@
 
 ## Database and datastore checklist
 
-- [ ] Check that the production PostgreSQL DB has all the necessary tables and columns for the HealthQuest Engine. (@dillo)
+- [x] Check that the production PostgreSQL DB has all the necessary tables and columns for the HealthQuest Engine. (@dillo)
 
 ## Lighthouse checklist
 
