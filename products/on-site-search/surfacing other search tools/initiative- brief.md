@@ -1,9 +1,5 @@
 
 # Initiative Brief: Surfacing Other Search Tools
-
-  
-
-#### Overview
  
 
 ## Description
