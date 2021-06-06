@@ -8,25 +8,27 @@
 
 ## Description
 
-VA.gov does not have a unified search experience.  In particular, a Veteran or caretaker seeking a VA location, a VA form, resources and support content, or na Yellow Ribbon program, may not easily find the content within those tools via Search because:
+VA.gov does not have a unified search experience.  In particular, a Veteran seeking a VA location, VA form or answers to common questions (as found in Resources and Support)can not easily surface the content within those tools via on-site search because:
 
-- of the current limitations of Search.gov indexing 
-- those tools are powered by their own search utilities (or look-ups)
+- Current limitations of Search.gov -- Collections, a faceted search feature, is not available in the API
+- Those VA.gov tools are powered by their own search/look-up utilities
 
-Two recent Veteran-focused user research sessions revealed that this 
+Two recent Veteran-focused user research sessions highlight this discoverability issue.  
 
+- In a [April-May study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md):
+   - It was observed that many participants did not notice the Find a Form and Resources & support links in the footer
+   - For find VA location, which is prominently displayed in the site header, two participants never found the facility locator and instead used site search. 
+- In a [January-February study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md):
+   - Most participants did not see the right rail with "More VA search tools" on the search results page because of browser width/mobile use. 
+   - Participants were more likely to see Find a Facility than Find a Form because of its location on the header.
+
+With this initiative, the Search & Discovery team intends to test one or two "bets" with the goal of improving the findability of VA.gov's most popular search tools.
 
 **Related product(s)**
-
-*Identify VA.gov product(s) this initiative affects.*
-
-  
 
 Product: Onsite Search| [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
 
   
-  
-
 ## Problem Statement
 
 *Describe the challenge / pain point you seek to address:*
