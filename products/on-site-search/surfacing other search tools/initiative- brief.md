@@ -86,48 +86,19 @@ Two recent Veteran-focused user research sessions highlight this discoverability
 ## Measuring Success
 
 
-  
-
 ### Key Performance Indicators (KPIs)
 
-*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports?*
-
+- Quantitative: 
+  - Month over month increase in clicks from new links to other search tools
+  - Improved sentiment score -- as measure by Medallia -- for search products/tools
+- Qualitative: 
+   - Users testing shows the other search tools are more findable
   
+### Objective
 
-KPI | Target | Link to data source
-|----------|-------------|--------------------|
-| Search Exits (Bounce Rate) |TBD | Onsite Search Domo Dashboard Coming Soon |
-| Refinement Rate |TBD |Onsite Search Domo Dashboard Coming Soon  |
-| Average Search Depth| TBD| Onsite Search Domo Dashboard Coming Soon   |
-| Conversion Rate for search users |TBD |Onsite Search Domo Dashboard Coming Soon   |
+- Increased use of other search tools resulting in increase in page views (for Resources & Support content, Find a Location, Find a Yellow Ribbon Program) and more downloads (for Find a Form)
 
-  **Other Metrics: Not part of Onsite Search KPIs**
-  - Increase traffic to other search tools
-  - Users select ‘yes’ on “Were you able to find what you were looking for?” on future Medallia survey
-
-#### Baseline KPI Values
-
- _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-- TBD Awaiting on Domo Dashboard for Onsite Search expected late June/early July.
--  Current Right Rail Links - Google Analytics [GH ticket with clarification]
-
-
-
-  
-
-### Objectives and Key results (OKRs)
-
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-  
-
-Objective:
-
-- Increased use of other search tools resulting in increased page views
-
-- Users are more easily able to find what they searched for (shown through user research and Medallia survey)
-
-  
+ 
 
 ## Assumptions/ Risks
 
