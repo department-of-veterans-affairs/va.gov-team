@@ -18,7 +18,9 @@ Two recent Veteran-focused user research sessions highlight this discoverability
    - Most participants did not see the right rail with "More VA search tools" on the search results page because of browser width/mobile use. 
    - Participants were more likely to see Find a Facility than Find a Form because of its location on the header.
 
-The search results page currently utilizes a right rail pattern for search tools. The design system council has deprecated the [right rail component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/160#issuecomment-679126217) because of visibility issues. We need to find a different pattern for surfacing these tools.
+The search results page currently utilizes a right rail pattern for search tools. However:
+- The right rail was hidden for most users (due to media queries pushing it to the bottom of the page on both desktop and mobile).
+- The design system council has deprecated the [right rail component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/160#issuecomment-679126217) because of visibility issues. We need to find a different pattern for surfacing these tools.
 
 With this initiative, **the Search & Discovery team intends to test one or two "bets" with the goal of improving the findability of VA.gov's most popular search tools.**
 
@@ -47,16 +49,21 @@ As noted, because content in key search tools/utilities are (e.g. Find a Locatio
 
 * How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
 
-To drive self-service and faster times to outcomes, VA.gov must be optimized for discoverabilty/findability when it comes to Veterans most common questions and tasks.
+To drive self-service and support faster times to outcomes, VA.gov must be optimized for discoverabilty/findability to enable Veterans to easily find answers to their most common questions and quickly complete their most important tasks.
  
 
 ## Evidence of the problem
 
+Two recent Veteran-focused user research sessions highlight this discoverability issue.  
 
-  
+- In a [April-May study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md):
+   - It was observed that many participants did not notice the Find a Form and Resources & support links in the footer
+   - For find VA location, which is prominently displayed in the site header, two participants never found the facility locator and instead used site search. 
+- In a [January-February study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md):
+   - Most participants did not see the right rail with "More VA search tools" on the search results page because of browser width/mobile use. 
+   - Participants were more likely to see Find a Facility than Find a Form because of its location on the header. 
 
 ## Outcomes
-
 
 
 ### Desired User Outcomes
@@ -65,10 +72,7 @@ To drive self-service and faster times to outcomes, VA.gov must be optimized for
 
 - Will create more awareness and usage of other search tools that are available to users
 
-- The right rail was hidden for most users (due to media queries pushing it to the bottom of the page on both desktop and mobile) in past user testing, users were not able to locate Find a Form. Users will be more likely to use Find a Form if they are not able to locate a form using global search.
-
 - Veterans, their caregivers, and their advocates are more quickly and easily able to access the content, forms, documents, facilities, or other resources they need.
-
   
 
 ### Undesired User Outcomes
@@ -77,26 +81,11 @@ To drive self-service and faster times to outcomes, VA.gov must be optimized for
 
 - Legacy search tools complicate the overall experience for the users as they may have a different look and feel or various navigational elements may differ.
 
-  
-  
 
-### Desired Business Outcomes
-
-
-- Veterans, their caregivers, and their advocates use the search tools more which causes an Increase in overall use of search tools
-
-- Veterans, their caregivers, and their advocates take advantage of the resources they are searching for.
-
-### Undesired Business Outcomes
-  
-- Veterans and their families lose trust in VA.go search tools when the navigation routes them to various search tools which do not have a consistent look and feel---
-
-  
-  
 
 ## Measuring Success
 
-  
+
   
 
 ### Key Performance Indicators (KPIs)
@@ -139,9 +128,6 @@ Objective:
 - Users are more easily able to find what they searched for (shown through user research and Medallia survey)
 
   
-  
-  
-  
 
 ## Assumptions/ Risks
 
@@ -156,13 +142,6 @@ Objective:
   - List of search tools is manageable and targeted
 - Viability:
    - The search tools being surfaced are actively maintained by the VA to ensure content is relevant and accurate
- 
-
-  
-
-
-
-
 
 
 ---
