@@ -8,14 +8,13 @@
 
 ## Description
 
-*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
+VA.gov does not have a unified search experience.  In particular, a Veteran or caretaker seeking a VA location, a VA form, resources and support content, or na Yellow Ribbon program, may not easily find the content within those tools via Search because:
 
-  
+- of the current limitations of Search.gov indexing 
+- those tools are powered by their own search utilities (or look-ups)
 
-Increasing visibility and access to other VA search tools after a user conducts a search.
+Two recent Veteran-focused user research sessions revealed that this 
 
-  
-  
 
 **Related product(s)**
 
