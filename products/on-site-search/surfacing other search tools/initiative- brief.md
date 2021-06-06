@@ -18,40 +18,48 @@ Two recent Veteran-focused user research sessions highlight this discoverability
    - Most participants did not see the right rail with "More VA search tools" on the search results page because of browser width/mobile use. 
    - Participants were more likely to see Find a Facility than Find a Form because of its location on the header.
 
-With this initiative, the Search & Discovery team intends to test one or two "bets" with the goal of improving the findability of VA.gov's most popular search tools.
+The search results page currently utilizes a right rail pattern for search tools. The design system council has deprecated the [right rail component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/160#issuecomment-679126217) because of visibility issues. We need to find a different pattern for surfacing these tools.
+
+With this initiative, **the Search & Discovery team intends to test one or two "bets" with the goal of improving the findability of VA.gov's most popular search tools.**
 
 **Related product(s)**
 
-Product: Onsite Search| [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
+Product: On-site Search | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
 
-  
 ## Problem Statement
 
 *Describe the challenge / pain point you seek to address:*
 * What is the problem?
-* Which Veteran/organizational segments are most affected by the problem?
-* Where does this problem affect the Veteran journey?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
-
 
 As a user, I do not always find what I am looking for using global search and I am unaware of other search tools offered on VA.gov that may provide me with more targeted results that are better suited to my needs. This problem persists for all VA.gov users especially those using a mobile device (details below).
 
-The search results page currently uses the right rail pattern for search tools. The design system council has deprecated the [right rail component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/160#issuecomment-679126217) because of visibility issues. We need to find a different pattern for surfacing these tools.
+* Which Veteran/organizational segments are most affected by the problem?
 
-  
+All users of VA.gov (with special focus on Veterans and their caretakers who have difficulty navigating the site layout)
+
+* Where does this problem affect the Veteran journey?
+
+At the top of the funnel, where Veterans are seeking answers to some of their most common questions or the need to complete common tasks.
+
+* Why do you think the problem is occurring? Other reasons why this might be occurring?
+
+As noted, because content in key search tools/utilities are (e.g. Find a Location, Find a Form, Resources & Support) don't surface effectively via VA.gov global search and the tools/utilities can be difficult to discover when scanning the home page and global site navigation. 
+
+* How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
+
+To drive self-service and faster times to outcomes, VA.gov must be optimized for discoverabilty/findability when it comes to Veterans most common questions and tasks.
+ 
 
 ## Evidence of the problem
 
-*Describe the qualitative and quantitative data to support this problem.*
 
   
 
 ## Outcomes
 
-### Desired User Outcomes
 
-  
+
+### Desired User Outcomes
 
 - Users will be able to more easily find the information they need by accessing the variety of targeted VA search tools resulting in less frustration
 
@@ -65,8 +73,6 @@ The search results page currently uses the right rail pattern for search tools. 
 
 ### Undesired User Outcomes
 
-  
-
 - Users are confused or frustrated by the multiple search tools available to them.
 
 - Legacy search tools complicate the overall experience for the users as they may have a different look and feel or various navigational elements may differ.
@@ -76,20 +82,12 @@ The search results page currently uses the right rail pattern for search tools. 
 
 ### Desired Business Outcomes
 
-  
 
 - Veterans, their caregivers, and their advocates use the search tools more which causes an Increase in overall use of search tools
 
 - Veterans, their caregivers, and their advocates take advantage of the resources they are searching for.
 
-
-
-  
-  
-  
-
 ### Undesired Business Outcomes
-
   
 - Veterans and their families lose trust in VA.go search tools when the navigation routes them to various search tools which do not have a consistent look and feel---
 
