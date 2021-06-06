@@ -21,11 +21,10 @@ See our [MVP definition](https://github.com/department-of-veterans-affairs/va.go
 5. Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
 6. Are we providing sufficient contextual information through group and notification names?
 7. Do Veterans expect to be able to update their contact info right here on the page?
-8. How do Veterans feel about sharing their contact email address and mobile number with VA?
-9. If a Veteran has partial contact info (missing a phone or email from their profile), do they understand how to make updates so they can get notifications to that channel?
-10. Does a Veteran with partial contact info they understand email/text is also available when they don't have a checkbox to click?
-11. Do they know how to get back to notification settings once they add info?
-12. What kind of static content support makes sense for this section of profile?
+8. If a Veteran has partial contact info (missing a phone or email from their profile), do they understand how to make updates so they can get notifications to that channel?
+9. Does a Veteran with partial contact info they understand email/text is also available when they don't have a checkbox to click?
+10. Do they know how to get back to notification settings once they add info?
+11. What kind of static content support makes sense for this section of profile?
 
 We're also working on improvements to our user experience for removing contact information, so we'll include one question about that to evaluate during the final task in our sessions:
 
@@ -62,7 +61,7 @@ Zoom
 
 ### What will you be testing?
 
-We'll test with a [UXPin prototype](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages//simulate/sitemap?mode=i).
+We'll test with a [UXPin prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i).
 
 ## Participants and Recruitment	
 
@@ -73,7 +72,6 @@ Please schedule 12 participants for 8 fulfilled sessions using the below criteri
 - All participants must: 
   - be Veterans
   - have logged into VA.gov **and** used text messaging in the last 6 months. 
-
   - be able to participate from a laptop/desktop device
 
 #### Additional questions to ask in the screener
@@ -117,17 +115,21 @@ We will leverage Perigean's services to recruit participants.
 | June 15, 2021     | 9-11am, 2pm-5pm |
 | June 16, 2021     | 9am-5pm         |
 
-Pilot Session: June 11, 2021 | Time TBD
+#### Pilot Session  
+| Team Availability | Time (EST)      |
+| ----------------- | --------------- |
+| June 10, 2021     | 11:30am-1:30pm, or  2-3pm  |
+| June 11, 2021     | 9-10am, 11-12pm, or 4-5pm  |
 
 ## Team Roles	
 
 Please list the people who will be serving in each role. 
 
-- Moderator:	Tressa Furner and Liz Lantz
+- Moderator:	Liz Lantz
 - Research guide writing and task development:	Liz Lantz
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test:	Taylor Mitchell - tmitchell@governmentcio.com
 - Note-takers:	TBD
 - Observers:	
   - Samara Strauss - samara.strauss@va.gov
