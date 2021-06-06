@@ -1,10 +1,12 @@
 # Conversation Guide for Profile, Notification Settings
 
+`DRAFT`
+
 ## Moderator logistics
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
 - [ ] Have prototype link available: 
-- [ ] Update the Zoom sharing settings
+- [ ] Update the Zoom sharing settings so participants can share
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - [ ] When the participant is ready, begin the session with the following intro:
@@ -54,6 +56,8 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
 
+*If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/sitemap?mode=i
+
 ### Things to watch for
 
 - How did the participant expect to be able to navigate to notification settings?
@@ -61,7 +65,7 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile. 
+*Participant should be on notification settings page of profile.* https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i 
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
@@ -125,7 +129,7 @@ Now that you've added an email address to your profile, talk me through what you
 
 ## Task 6: Remove personal information - 2 minutes
 
-Now I'd like you to imagine you changed your mind, and don't want the VA to email any notifications again. How would you remove the email address you added?
+Now I'd like you to imagine you changed your mind, and don't want the VA to email notifications to you again. How would you remove the email address you added?
 
 Now that you’ve removed your email, what do you expect to happen with your notifications?
 
