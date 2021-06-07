@@ -26,6 +26,13 @@
 </details>
 
 
+## Monday June 7 3pm ET
+
+* CAP data questions
+  * Sample data
+  * Workflows
+* Potential GraphQL support
+
 ## Monday May 17 3pm ET
 
 * VAST meeting outcome
