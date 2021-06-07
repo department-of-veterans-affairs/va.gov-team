@@ -116,7 +116,7 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* Monday, June 21; Time TBD 
+* Monday, June 21; 10 - 11 am ET
 
 ### Which member of the design team will you pilot your research with?
 
