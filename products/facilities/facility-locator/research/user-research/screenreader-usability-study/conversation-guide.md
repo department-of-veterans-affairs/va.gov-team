@@ -112,9 +112,11 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
 
 OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
+[If NOT successful:]
+
 **Backup plan if they cannot figure out how to share screen:**
 
-   - [Switchwitch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)]
+   - Switchwitch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)
 
 
 ### Screen sharing set-up - TalkBack, Android using web app
@@ -127,12 +129,17 @@ OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose 
  - Return to your home screen and the screen share should begin.
  - If you need to stop sharing during the session, you can find the “stop share” button at any time at the bottom left corner of your screen (press your finger down and drag it to the bottom left corner, it will be by “share audio” and “announcements”). You can also open the zoom app and find the “stop share” button where the “share” butto
 
+[If successful:]
+
+OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
 _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
 
+[If NOT successful:]
+
 **Backup plan if they cannot figure out how to share screen:**
 
-   - [Switch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)]
+   - Switch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)
 
 
 ## Warm-up Questions 
