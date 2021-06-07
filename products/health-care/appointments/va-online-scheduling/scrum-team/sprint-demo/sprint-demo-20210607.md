@@ -16,11 +16,6 @@
   - [VAOS Service Integration (GET /facilities)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24363)
   - [New VAOS - Record VCR Cassettes for post '/appointments'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25014)
 
-- AJ
-  - [New VAOS - Record VCR Cassettes for put '/appointments/:id'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25020)
-  - [New VAOS - Record VCR Cassettes for get '/appointments/:appointment_id'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25016)
-  - [New VAOS - Record VCR Cassettes for available appointment slots end-point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24806)
-
 - Corey
   - [New VAOS - Record VCR Cassettes for get '/appointments'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25013)
   - [Create BE feature flag for variant testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24278)
