@@ -96,9 +96,8 @@ Two recent Veteran-focused user research sessions highlight this discoverability
   
 ### Objective
 
-- Increased use of other search tools resulting in increase in page views (for Resources & Support content, Find a Location, Find a Yellow Ribbon Program) and more downloads (for Find a Form)
+-  Improved discoverability and increased use of other search tools resulting in increase in page views (for Resources & Support content, Find a Location, Find a Yellow Ribbon Program) and more downloads (for Find a Form)
 
- 
 
 ## Assumptions/ Risks
 
@@ -125,43 +124,44 @@ Two recent Veteran-focused user research sessions highlight this discoverability
 
 We are considering a test of up to three approaches to solve this problem.  
 
-1) Test a left-hand nav in the Search results page which links users to a primary and secondary set of other popular Veteran-facing search tools. 
+**1) Test a left-hand nav in the Search results page which links users to a primary and secondary set of other popular Veteran-facing search tools.**
    - This left-hand navigation would be nested on the other primary-only search tool pages to provide a consistent, unified navigation schema.
    - There will be a primary set of other search tool links and a secondary set of search tool links.  
-     - The primary links
-   - To be tested: When a user clicks on the left-hand navigation for 
+     - The primary links are Find a Location, Find a Form and Resources & Support
+     - The secondary links are GI Bill Comparison, Find a Yellow Ribbon Program, BVA Appeals, VA Jobs
+   - To be tested: When a user clicks on the left-hand navigation for one of the primary links, their search query will be  
 
 **Why this approach**
 
+- Rationale: - Users should be offered a singular location for all their search needs where they are able to search broadly for any topic and scoping/refinement of their search should only be applied after the user's initial search [(Source).](https://www.nngroup.com/articles/scoped-search/?lm=search-no-results-serp&pt=article) For this reason, other search tools should be presented after the initial search has been completed.
 - Assumption: Makes other Search tools more findable
-- Assumption:  Users will want to enter a search term first, then "filter" results
-- Utilizes recognized design pattern used elsewhere on VA.gov
-- To be tested/determined: Users will want to enter a search term first, then "filter" results
--Selecting another search tool is similar to filtering and refining results.
+- Assumption: Selecting another search tool is similar to filtering and refining results.
+- Benefit: Utilizes recognized design pattern used elsewhere on VA.gov
+- To Be Tested/determined: Is there a benefit in retaining the user's original search query so that when s/he clicks one of the primary "other tool" links, the search query parameter "=benefits" is used to filter the search in the next tool used.
 
-- Users should be offered a singular location for all their search needs where they are able to search broadly for any topic and scoping/refinement of their search should only be applied after the user's initial search [(Source).](https://www.nngroup.com/articles/scoped-search/?lm=search-no-results-serp&pt=article) For this reason, other search tools should be presented after the initial search has been completed.
+**2) Test an "expanded Search" drawer navigation (Ryan's concept)**
 
-- - We would not make the user filter before they search. Users should be able to conduct a broad search for what they are looking for and then have the ability to refine the search as needed.
-
-2) Expanding Search Input field “Super Search” - Ryan Concept 
--Similar to benefits hub drop down popup
--Could add: Most recent searches if authenticated
--How would that interact with the existing typeahead experience?
+- Rationale: Similar to benefits hub super-navigation element -- users are familiar with this pattern
+- Assumption: TBD
+- Assumption:  TBD
+- Benefit: Could add Most Popular Searches (based on Search.gov or GA data) and when user is authenticated "Most recent searches"
+- Concern: How would this new navigation element weave elegantly with the existing typeahead experience?
 
 
-3) Typeahead Enhancements “Search Intent” (eg. Routed Query) [Requires exploration]
--Match query to filter by intent and make search recommendation  - i.e. form numbers, facilities, resources & support content
--Could be confusing to users if that isn’t what they meant to search for. 
+**3) Leverage the "canned suggestion" capability of Typeahead to more effectively route users to other search tools content -- e.g. Forms, Facilities, Resources & Support** (e.g. When a user begins typing a city name -- e.g. Atla -- display as a Type-Ahead suggestion Atlanta **VA Medical Center**)
+
+- Rationale: Fully integrated into -- and in harmony with -- the users earch experience. e.g., It just works.
+- Assumption: We can scale this approach through manual management.
+- Benefit: It's feasible -- we already do this with Search.gov, though the process is "manual"
+- Benefit: We can track clicks of canned terms.
+- Concern: Could be confusing to users if the suggested term does not match their intent. 
   
 
-*How will the solution(s) / approach(es) evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+**How will the solution(s) / approach(es) evolve after this initial build (knowing that this will likely change as you learn from users along the way)?**
 
  - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
 
-
 ## Search Tools Usage Data
-
-
 
 Primary links:
 Primary search tools links were chosen based on strategic direction and anticipated benefit for the users. Each follows the same UI pattern and therefore presents the user with the same navigational experience. 
