@@ -1,4 +1,5 @@
 # Research Plan for Check-in MVP Usability
+June 2021
 
 ## Goals
 
@@ -19,7 +20,7 @@ What question(s) do you hope to be able to answer after completing this research
 * Do Veterans understand how to check-in via their mobile device?
 * How do Veterans feel about the proposed check-in solution, particularly the multiple modalities utilized (text, then website)?
 * What appointment information are Veterans expecting to review, in order to complete check-in?
-* Once check-in is complete, do Veterans understand what will happen/what they should do next?
+* Once check-in is complete, do Veterans understand what will happen/what they should do next, or how to get help if they are having trouble checking in?
 
 ### Hypotheses: 
 
@@ -46,7 +47,7 @@ Online, through Zoom
 
 #### What will you be testing? 
 
-Poster design announcing Veterans can check-in via their phone. Twilio will recreate the texting experience, which will link to va.gov (staging), so the Veteran can complete check-in.
+Poster design announcing that Veterans can check-in via their phone. Twilio will recreate the texting experience, which will link to va.gov (staging), so the Veteran can complete check-in.
 
 ## Participants and Recruitment
 
@@ -58,12 +59,18 @@ What are you looking for in a participant?
 
 * 15 participants (for a minimum of 8 completed sessions)
   * Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
-  * Participants must be willing to complete the the study via a mobile device (disqualify those that aren't)
+  * Participants must be willing to complete the the study via a mobile device, need to be able to use Zoom on their smart phone, and must be willing to share their smart phone screen (disqualify those that aren't)
 * Please screen participants based on these questions:
   * Does the following statement describe you? I use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
     1. Yes (Qualify)
     2. No (Disqualify)
-  * Are you willing and able to complete this study on your mobile device?
+  * Do you have a smart phone?
+    1. Yes (Qualify)
+    2. No (Disqualify)
+  * Are you willing and able to complete this study on your smart phone?
+    1. Yes (Qualify)
+    2. No (Disqualify)
+  * Are you able to use Zoom on your smart phone and willing to share your smart phone screen via Zoom?
     1. Yes (Qualify)
     2. No (Disqualify)
 * Please confirm participants have Zoom downloaded prior to the session and they know how to screen share
@@ -100,9 +107,9 @@ June 11
 
 ### Length of Sessions: How long do you estimate each session will be? 
 
-(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+_(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time._
 
-* 45 minutes, 30 minute buffer between sessions
+* 1 hour sessions, 30 minute buffer between sessions
 
 ### Availability: If applicable, when would you like sessions scheduled? 
 
@@ -128,7 +135,7 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 * Research guide writing and task development (usually but not always same as moderator): Kristen McConnell
 * Participant recruiting & screening: Perigean
 * Project point of contact: Corey Parker ([jparker@governmentcio.com](mailto:jparker@governmentcio.com)) 
-* Participant(s) for pilot test: 
+* Participant(s) for pilot test: Dillo Raju ([draju@governmentcio.com](draju@governmentcio.com))
 * Note-takers: Perigean
 * Observers: 
   * Corey Parker
