@@ -9,7 +9,28 @@ As a designer I need to create a research plan to share with my team.
 
 - The Booz Allen team has been working on a re-design of the GI Bill Comparison Tool. One of the major updates for the re-design was to add functionality to enable users to compare schools. The team has created this new functionality and would like to test the design with users to see how well it performs.
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+
+Compare Drawer:
+ - Do users notice the Comparison drawer?
+ - Can users effectively interact with the drawer when adding or removing schools for comparison?
+ - How do users expect the comparison drawer to behave when they are conducting multiple searches to select schools?
+ - How many schools do users think they can compare at once?
+ 
+ Navigation:
+ - Are users able to easily navigate between the search results, the comparison drawer and the comparison page?
+ - How do users interact with the interface when they need to conduct multiple searches?
+
+Compare page:
+- What data fields are users interested in comparing?
+    - Which ones are most important?
+    - Any fields they aren't interested in?
+    - Any additional others they would want to see?
+- Do users notice the sticky header?
+- Do users believe the sticky header is useful?
+- Do users notice the "Highlight differences" functionality?
+- What do users expect the "Highlight differences" functionality to do?
+
 4. Hypothesis: What is your hypothesis for this research? 
 
 - Researchers believe that users will be able to easily find, select and compare schools that they are interested in.  We believe that the fields being compared are important to users and will be useful in determining which school they would like to attend.
@@ -79,7 +100,7 @@ VA Benefit requirement:
  - Monday, June 14th, 2021
  
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role.  	
 - Moderator:	Jen Jones; 843.214.6081; jones_jennifer2@bah.com
 - Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
 - Participant recruiting & screening:	Perigean Technologies
