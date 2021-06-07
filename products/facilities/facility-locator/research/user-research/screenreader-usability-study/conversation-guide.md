@@ -1,7 +1,7 @@
 # Facility Locator - Screen reader, Usability Test
 ## Conversation Guide - May 2021 Discovery 
 
-#### Session Prep
+#### Checklist
 
 - [ ] Notifications off
 - [ ] Use headphones (prevents SR from echoing back to participant)
