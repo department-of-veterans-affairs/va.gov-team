@@ -109,11 +109,11 @@ We will leverage Perigean's services to recruit participants.
 45 minute sessions<br/>
 **Schedule at least 15 minute breaks in-between sessions.**
 
-| Team Availability | Time (EST)      |
-| ----------------- | --------------- |
-| June 14, 2021     | 9am-7pm         |
-| June 15, 2021     | 9-11am, 2pm-7pm |
-| June 16, 2021     | 9am-7pm         |
+| Team Availability | Time (EST) |
+| ----------------- | ---------- |
+| June 14, 2021     | 9am-7pm    |
+| June 15, 2021     | 9am-7pm    |
+| June 16, 2021     | 9am-7pm    |
 
 #### Pilot Session  
 
@@ -127,7 +127,7 @@ We will leverage Perigean's services to recruit participants.
 Please list the people who will be serving in each role. 
 
 - Moderators:	Christian Valla (cvalla@governmentcio.com) and Liz Lantz 
-  - Christian is on the west coast, so he will facilitate any sessions that start after 5pm eastern. 
+  - Christian is on the west coast, so he would facilitate any sessions that start after 5pm eastern. 
   - Liz will facilitate any sessions before 11am eastern.
   - Any sessions between 11-5, we'll figure it out amongst ourselves. We will each moderate 4 sessions.
   - Liz is not available after 5pm eastern, so please do not schedule more than 4 sessions after 5pm.
