@@ -116,7 +116,7 @@ Research questions
 
 -   Do people encounter any usability problems or confusion when going from VAOS to profile?
 
--   If a person marks a facility as preferred or current in VAOS, and then visits their profile, do they understand why their facility list has a facility marked as current and others are hidden?
+-   If a person marks a facility as "saved" in VAOS, and then visits their profile, do they understand why their facility list has a facility marked as current and others are hidden?
 
 -   If a Veteran leaves VAOS to update their profile, what expectations do they have for going back to schedule their appointment?
 
