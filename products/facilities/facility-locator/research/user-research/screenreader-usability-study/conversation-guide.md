@@ -9,6 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
+* [Joining Zoom](#joinging-zoom)
 * [Screen sharing](#screen-sharing)
 * [Warm-up questions](#warm-up-questions)
 * [Discovery](#discovery)
@@ -77,20 +78,18 @@ Checklist:
 - How long have you been using it?
 - Are you using a screen magnifier today?
 - Are there any other assistive technologies that you use?
-- Do you know your screen reader's verbosity setting? High, medium, low?
+  - [if low vision, the participant may require captions which need to be turned on in advanced settings]
+- Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low? 
+  - [If high, be prepared to have them repeat anything that can't be heard or understood]
+   - I may need to pause you at times an ask you what you're hearing if I can't make out what's being read.
 
 
-_[For iPhone: NEED TO UPDATE LINK](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
 **For those joined by iPhone and Zoom already**
+SKIP TO [Screen sharing](#screen-sharing) SET UP
 
+## Joining Zoom
 
-**If YES**
-
-[SKIP TO SCREEN SHARE SET-UP INSTRUCTIONS]
-
-SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)
-
-**NO: Help participant join with device**
+### Help participant join with device
 
 - I'm going to send you a zoom link [by format specified] for you to open on your phone so you can join this meeting.  
 - [Send through Veteran's preferred communication channel]
@@ -100,45 +99,47 @@ SCREEN SHARE INSTRUCTIONS [DOC](https://docs.google.com/document/d/1JykfpcZuYz9U
 
 ## Screen sharing
 
+At this point [I'd like you to go back to Zoom] I'm going to have you share your Zoom screen so that I can follow along with you. 
+
 ### VoiceOver iOS (Mobile and Tablet) using web app
 
- - Swipe to or find the "Share content" button and double tap it. 
- - A menu will appear. Swipe to the first option "Screen” and double tap it. 
- - Swipe to the "Start Broadcast" button and double tap it. You'll hear a counter "3, 2, 1" and the screen share will begin.
- - If you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
+ - Within Zoom, I'd like you to find the "Share content" button and double tap it. You may have to swipe a number of times.
+ - A menu should appear. Select the "Screen” option and double tap it. 
+   - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to allow it”
+ - Next you'll want to swipe to the "Start Broadcast" button and double tap that. You'll hear a counter "3, 2, 1" and the screen share should begin.
 
+[If successful:]
 
-- **If no, go to backup plan**
+OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
-_[For Android:](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
+**Backup plan if they cannot figure out how to share screen:**
+
+   - [Switchwitch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)]
 
 
 ### Screen sharing set-up - TalkBack, Android using web app
 
- - Swipe to find the “share button” and double tap it. 
- - A menu will appear with a list of items. Swipe until you find “screen” and double tap it. 
+ - Within Zoom, I'd like you to find the "Share content" button and double tap it. You may have to swipe a number of times.
+ - A menu should appear with a list of items. Swipe until you find “screen” and double tap it. 
  - You’ll be asked if you want to start recording or casting with Zoom. 
  - Swipe to “start now” and double tap it.
  - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to “display over other apps.” Swipe until you find “Zoom” in the list and double tap it. Continue swiping to find “Allow display over other apps” and confirm it is “off.” Double tap it to turn it on.
  - Return to your home screen and the screen share should begin.
  - If you need to stop sharing during the session, you can find the “stop share” button at any time at the bottom left corner of your screen (press your finger down and drag it to the bottom left corner, it will be by “share audio” and “announcements”). You can also open the zoom app and find the “stop share” button where the “share” butto
 
-_[SCREEN SHARE INSTRUCTIONS](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)_
-
 
 _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
 
 **Backup plan if they cannot figure out how to share screen:**
 
-- [Instructions on talk out loud activity, we need to rely on the participant to explain what is happening and what their pain points are]
-
+   - [Switch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)]
 
 
 ## Warm-up Questions 
 
 Thank you for working through that with us.
 
-We can get started with some questions. So, as a website designer and researcher I'm trying to learn how best to improve websites when used with screen readers. And I'll be honest, this is new territory for me. So, I may ask some dumb questions at times so feel free to stop and correct me at any time. 
+We can get started with some questions. So, as a website designer and researcher my goal is to learn how best to improve our webpages when used with screen readers and I'll be honest, this is new territory for me. So, I may ask some dumb questions at times. Please feel free to stop and correct me at any time. 
 
 - Can you tell me briefly about yourself? Anything you’d like me to know is fine.
 - Can you describe to me how you use your screen reader?
@@ -272,9 +273,13 @@ We see a black screen right now. If you have screen curtain or other screen hidi
 ### Audio can't be heard
 We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your phone/desktop without that device so we can hear your screen reader? If not, that’s perfectly OK.
    - [If no, switch to think out loud facilitation]
+
+### Screen reader too fast
+I'd like to pause here for a moment. I didn't quite make out what happened there. Do you mind repeating what you heard for me?
    
 
 * [Tech set-up](#tech-set-up)
+* [Joining Zoom](#joinging-zoom)
 * [Screen sharing](#screen-sharing)
 * [Warm-up questions](#warm-up-questions)
 * [Discovery](#discovery)
