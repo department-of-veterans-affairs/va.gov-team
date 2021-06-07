@@ -143,7 +143,7 @@ Engagement
 - Search logic documentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/SearchAlgorithm.docx
 
 ### Use Administration Field for Related To Info
-- Go-live: TBD #21366
+- Go-live: Mar 24, 2021 #21366
 
 ### Transforming Search Terms Iteration 1
 - Go-live: Mar 17, 2021 #20651
