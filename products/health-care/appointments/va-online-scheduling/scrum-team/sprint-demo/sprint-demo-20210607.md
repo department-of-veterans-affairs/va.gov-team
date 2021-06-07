@@ -20,9 +20,6 @@
   - [Display COVID phone line for COVID vaccine appointments](https://github.com/department-of-veterans-affairs/vets-website/pull/17434)
 
 - Tony
-  - [Fix URL in add to calendar appointment event description text for VVC home appointment.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25377)
   - [Showing both cancelled and occurred in the past boxes for cancelled appointments in the past](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25244)
-  - [Explore ways to improve verification of ICS files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24657)
-  - [Update current calendar file details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23606)
   - [Direct Scheduling - Best Times to Call Not Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17616)
   
