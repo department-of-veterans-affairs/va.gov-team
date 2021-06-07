@@ -13,13 +13,13 @@ As a designer I need to create a research plan to share with my team.
 
 Compare Drawer:
  - Do users notice the Comparison drawer?
- - Can users effectively interact with the drawer when adding or removing schools for comparison?
  - How do users expect the comparison drawer to behave when they are conducting multiple searches to select schools?
  - How many schools do users think they can compare at once?
  
  Navigation:
  - Are users able to easily navigate between the search results, the comparison drawer and the comparison page?
  - How do users interact with the interface when they need to conduct multiple searches?
+ - Which components/pages do users prefer to use to add or remove schools from the comparison?  Are they able to do this effectively?
 
 Compare page:
 - What data fields are users interested in comparing?
