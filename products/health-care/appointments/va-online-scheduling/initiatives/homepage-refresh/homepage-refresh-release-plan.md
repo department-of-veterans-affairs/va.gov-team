@@ -8,27 +8,6 @@ n/a - UAT to be conducted after additional initiatives using refresh
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-
 ### Planning
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
@@ -45,7 +24,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Percentage of Users (and roughly how many users do you expect this to be): 1% (~1,400 users)
 
 #### Results:
 - Number of unique users: x
