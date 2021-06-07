@@ -9,7 +9,7 @@
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
-* [Joining Zoom](#joinging-zoom)
+* [Joining Zoom](#joining-zoom)
 * [Screen sharing](#screen-sharing)
 * [Warm-up questions](#warm-up-questions)
 * [Discovery](#discovery)
@@ -286,7 +286,7 @@ I'd like to pause here for a moment. I didn't quite make out what happened there
    
 
 * [Tech set-up](#tech-set-up)
-* [Joining Zoom](#joinging-zoom)
+* [Joining Zoom](#joining-zoom)
 * [Screen sharing](#screen-sharing)
 * [Warm-up questions](#warm-up-questions)
 * [Discovery](#discovery)
