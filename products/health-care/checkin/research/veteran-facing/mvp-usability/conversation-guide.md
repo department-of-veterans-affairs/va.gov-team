@@ -65,7 +65,7 @@ Things to watch for:
 * Were they able to successfully complete the task?
 * Were there any points of confusion?
 * Were there any comments about jumping from a text message to a website?
-* Did they expect to see any additional information on the your appointment or confirmation pages?
+* Did they expect to see any additional information on their contact info/insurance, appointment, or confirmation pages?
 
 Now, I'm going to have you go back through check-in again. This time I'll ask you some questions at each point in the process.
 
