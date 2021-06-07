@@ -29,7 +29,7 @@ Compare page:
 - Do users notice the sticky header?
 - Do users believe the sticky header is useful?
 - Do users notice the "Highlight differences" functionality?
-- What do users expect the "Highlight differences" functionality to do?
+- Do users find the "Highlight differences" functionality useful?
 
 4. Hypothesis: What is your hypothesis for this research? 
 
