@@ -20,7 +20,7 @@ Thanks for joining us today! My name is \[NAME\] and I also have some colleagues
 
 Before we start, a few things I want to mention:
 
-* This entire session should take no longer than 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+* This entire session should take no longer than 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts on a possible new way to let your doctor know that you have arrived for your appointment. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
   * First, I'll start by asking you a few questions about your past experiences.
@@ -45,23 +45,20 @@ Now, I’m going to ask you to think about your very last medical appointment th
 * Have you ever had a check-in experience go wrong at the VA?
   * If so, can you share what happened?
 
-## Usability - 13 minutes
+## Usability - 30 minutes
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
-* I'm going to send you a link in Zoom's chat feature, so you'll be able to see the poster. Go ahead and click that link when you're ready. Since what you will be reviewing is a prototype not everything will be clickable. If there's anything that you want to know more about or unsure about, let me know.
-
-[Send link in chat: TBD] 
+[Screenshare poster] 
 
 **Poster**
-* Can you explain to me what we're looking at here?
+  * Can you explain to me what we're looking at here?
   * What are your thoughts about what the poster is asking you to do?
-  * What would you do next after viewing this poster?
   * Is there anything missing?
 
-Now, lets pretend that you decided to text "I am here." Click "I am here" to move onto the next part of the prototype.
+Seeing this poster, what would you do next? 
 
-_Once on the text message screen._ Ok. Now, what would you do next?
+At this point, I would like you to share your screen, so we can watch you complete the task mentioned on the poster. [Only prompt them if need be in order to complete check-in.]
 
 Things to watch for:
 
@@ -70,11 +67,16 @@ Things to watch for:
 * Were there any comments about jumping from a text message to a website?
 * Did they expect to see any additional information on the your appointment or confirmation pages?
 
-I'm going to have us start the prototype again, so I can ask questions about particular pages.
+Now, I'm going to have you go back through check-in again. This time I'll ask you some questions at each point in the process.
 
 **Text Message**
 * Would you make any changes to this text messaging portion of check-in?
 * What do you think about starting in a text message, then finishing check-in on va.gov?
+
+**Contact/insurance**
+* Is this what you were expecting?
+* Can you explain to me what we're looking at?
+* Is there anything missing?
 
 **Your appointment**
 * Is this what you were expecting?
