@@ -140,6 +140,7 @@ Engagement
 ## Launch Dates
 ### Transforming Search Terms Iteration 2
 - Go-live: TBD
+- Search logic documentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/SearchAlgorithm.docx
 
 ### Use Administration Field for Related To Info
 - Go-live: TBD #21366
