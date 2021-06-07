@@ -24,7 +24,8 @@ Before we start, a few things I want to mention:
 OK,let's get started.
 
 1. First, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
-2. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?  
+2. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
+- If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?) 
 3. Do you know your username and password? 
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, **end the session.**
