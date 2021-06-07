@@ -16,10 +16,6 @@
   - [VAOS Service Integration (GET /facilities)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24363)
   - [New VAOS - Record VCR Cassettes for post '/appointments'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25014)
 
-- Corey
-  - [New VAOS - Record VCR Cassettes for get '/appointments'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25013)
-  - [Create BE feature flag for variant testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24278)
-
 - Jeff
   - [VVC at Home - Details Not Displaying](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25579)
   - [Convert CommunityCareDetailsPage to redux hooks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25515)
