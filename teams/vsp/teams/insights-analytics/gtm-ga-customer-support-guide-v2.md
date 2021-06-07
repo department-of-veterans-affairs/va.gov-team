@@ -1,4 +1,4 @@
-# Google Analytics & Tag Manager Customer Support Guide v2
+# Google Analytics & Tag Manager Customer Support Guide
 
 ## Table of Contents
 ### 1. [Initial Ticket Review, Cleanup, and Triage](#1-initial-ticket-review-cleanup-and-triage)
