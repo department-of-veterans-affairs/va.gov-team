@@ -141,6 +141,9 @@ We are considering a test of up to three approaches to solve this problem.
 
 **2) Test an "expanded Search" drawer navigation (Ryan's concept)**
 
+- When a user clicks on the Search link in the global header navigation, that will trigger a Search-centric "drawer" with the Search input field, links to other search tools and a list of VA.gov Most Popular searches.
+
+**Why this approach**
 - Rationale: Similar to benefits hub super-navigation element -- users are familiar with this pattern
 - Assumption: TBD
 - Assumption:  TBD
@@ -148,8 +151,12 @@ We are considering a test of up to three approaches to solve this problem.
 - Concern: How would this new navigation element weave elegantly with the existing typeahead experience?
 
 
-**3) Leverage the "canned suggestion" capability of Typeahead to more effectively route users to other search tools content -- e.g. Forms, Facilities, Resources & Support** (e.g. When a user begins typing a city name -- e.g. Atla -- display as a Type-Ahead suggestion Atlanta **VA Medical Center**)
+**3) Leverage the "canned suggestion" capability of Typeahead to more effectively route users to other search tools content -- e.g. Forms, Facilities, Resources & Support** 
 
+- When a user begins typing a form name or city name (and maybe a popular How To search term like "sign in"), the Type-Ahead suggestion list contains a popular related link from the related search tool. Example: When typing *Atla* -- display as a Type-Ahead suggestion Atlanta **VA Medical Center**
+
+
+**Why this approach**
 - Rationale: Fully integrated into -- and in harmony with -- the users earch experience. e.g., It just works.
 - Assumption: We can scale this approach through manual management.
 - Benefit: It's feasible -- we already do this with Search.gov, though the process is "manual"
