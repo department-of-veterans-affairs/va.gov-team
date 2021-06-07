@@ -21,6 +21,13 @@
 
 </details>
 
+
+## June 11
+* Help Desk
+* csv files ready for migration (planning)
+* Accessibility checker (overview)
+
+
 ## June 4
 
 * GovDelivery may be enabled soon - do not send emails when adding the Dual State banners. 
