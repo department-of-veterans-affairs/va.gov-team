@@ -34,6 +34,7 @@ Before we start, a few things I want to mention:
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 __Start recording.__
 - I have started recording. I'd like to confirm: Are you comfortable if I record the audio as we talk today?
+
 ## Warm-up Questions - 10 minutes
 Let's start with a quick round of introductions, you all might know each other, but my colleagues and I don't know you.
 
@@ -42,8 +43,8 @@ Let's start with a quick round of introductions, you all might know each other, 
 Thanks for doing that, gives me a bit more context for our conversation. 
 
 One more question for each of you to answer before we dive in. Could you each go around and in one word describe... 
-    - The process of checking in Veterans to your facility
-    - The process of queuing and tracking patients through their appointments and services at your facility
+- The process of checking in Veterans to your facility
+- The process of queuing and tracking patients through their appointments and services at your facility
 
 
 ## Task Intro - 2 minutes
