@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Conversation Guide Template for GI Bill Comparison Tool Compare Functionality
 
 ## Moderator logistics
 
