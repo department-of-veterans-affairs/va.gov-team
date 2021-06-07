@@ -5,7 +5,7 @@
 
 - [ ] Notifications off
 - [ ] Use headphones (prevents SR from echoing back to participant)
-- [ ] Enable screen sharing in Zoom
+- [ ] Enable screen sharing by anyone in Zoom
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
@@ -16,6 +16,7 @@
 * [Task 2](#task-2)
 * [Task 3](#task-3)
 * [Post-task Interview](#post-task-interview)
+* [Troubleshooting](#troubleshooting)
 
 ## Intro - 3 minutes
 
@@ -261,3 +262,23 @@ Those are all the questions that I had for you today.
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members. Shannon/Brian/Matthew will be following up with you directly.
 
 Great, well thank you so much again, and enjoy the rest of your day!
+
+
+## Troubleshooting
+
+### Screen goes black
+We see a black screen right now. If you have screen curtain or other screen hiding tech running, please toggle it off if possible.
+
+### Audio can't be heard
+We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your phone/desktop without that device so we can hear your screen reader? If not, that’s perfectly OK.
+   - [If no, switch to think out loud facilitation]
+   
+
+* [Tech set-up](#tech-set-up)
+* [Screen sharing](#screen-sharing)
+* [Warm-up questions](#warm-up-questions)
+* [Discovery](#discovery)
+* [Task 1](#task-1)
+* [Task 2](#task-2)
+* [Task 3](#task-3)
+* [Post-task Interview](#post-task-interview)
