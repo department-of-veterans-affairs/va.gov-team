@@ -102,7 +102,8 @@ Two recent Veteran-focused user research sessions highlight this discoverability
 
 ## Assumptions/ Risks
 
-*Your Discovery (next section) should describe how you'll validate these items. Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints.*
+
+### Assumptions
 
 - Usability:
   - Findings from user research are representative of Veterans across the Veteran journey.
@@ -114,72 +115,65 @@ Two recent Veteran-focused user research sessions highlight this discoverability
 - Viability:
    - The search tools being surfaced are actively maintained by the VA to ensure content is relevant and accurate
 
+### Risks
+
+- No major known risks associated with this effort.
 
 ---
   
-
 ## Discovery + Approach
 
-*Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions.*
+We are considering a test of up to three approaches to solve this problem.  
 
-  
-  
-  
+1) Test a left-hand nav in the Search results page which links users to a primary and secondary set of other popular Veteran-facing search tools. 
+   - This left-hand navigation would be nested on the other primary-only search tool pages to provide a consistent, unified navigation schema.
+   - There will be a primary set of other search tool links and a secondary set of search tool links.  
+     - The primary links
+   - To be tested: When a user clicks on the left-hand navigation for 
 
-*What are you going to build now, and why have you decided to start there?*
+**Why this approach**
 
-- A way to increase awareness and access to other VA search tools while using global search.
-
-  
-
-*Why this solution / approach over other solutions / approaches?*
+- Assumption: Makes other Search tools more findable
+- Assumption:  Users will want to enter a search term first, then "filter" results
+- Utilizes recognized design pattern used elsewhere on VA.gov
+- To be tested/determined: Users will want to enter a search term first, then "filter" results
+-Selecting another search tool is similar to filtering and refining results.
 
 - Users should be offered a singular location for all their search needs where they are able to search broadly for any topic and scoping/refinement of their search should only be applied after the user's initial search [(Source).](https://www.nngroup.com/articles/scoped-search/?lm=search-no-results-serp&pt=article) For this reason, other search tools should be presented after the initial search has been completed.
 
-  
+- - We would not make the user filter before they search. Users should be able to conduct a broad search for what they are looking for and then have the ability to refine the search as needed.
 
-*What have you explicitly decided to not include in this initial set of functionality, and why?*
-
-- We are not making the user filter before they search. Users should be able to conduct a broad search for what they are looking for and then have the ability to refine the search as needed.
-  
-
-*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
- - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
-
-## Hypotheses/Bets for Consideration
-
-1) Create a left-hand nav for all search tools
--Users will want to enter a search term first, then "filter" results.
--Selecting another search tool is similar to filtering and refining results.
--Utilizes recognized design pattern used elsewhere on VA.gov
 2) Expanding Search Input field “Super Search” - Ryan Concept 
 -Similar to benefits hub drop down popup
 -Could add: Most recent searches if authenticated
 -How would that interact with the existing typeahead experience?
+
+
 3) Typeahead Enhancements “Search Intent” (eg. Routed Query) [Requires exploration]
--Match query to filter by intent and make search recommendation  - i.e. form numbers, location (using db of locations)
+-Match query to filter by intent and make search recommendation  - i.e. form numbers, facilities, resources & support content
 -Could be confusing to users if that isn’t what they meant to search for. 
+  
+
+*How will the solution(s) / approach(es) evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+ - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
 
 
-
-## Other search tool links to include
-
+## Search Tools Usage Data
 
 
 
 Primary links:
 Primary search tools links were chosen based on strategic direction and anticipated benefit for the users. Each follows the same UI pattern and therefore presents the user with the same navigational experience. 
 
+- [Find a VA Location](https://www.va.gov/find-locations/)
+
 - [Find a Form](https://www.va.gov/find-forms/)
 
 - [Resources and Support](https://www.va.gov/resources/)
 
-  
-
 Secondary links:
 Usage data presents various interpretations and therefore the following links may change after review. 
-- [Find a VA Location](https://www.va.gov/find-locations/)
 
 - [BVA Appeals](https://www.index.va.gov/search/va/bva.jsp)
 
@@ -189,11 +183,9 @@ Usage data presents various interpretations and therefore the following links ma
 
 - [VA Jobs](https://www.vacareers.va.gov/job-search/index.asp)
 
-  
 
-## Usage Data to determine which search tool links should be included (Apr 1, 2020 - Apr 1 2021)
+## Usage Data (Apr 1, 2020 - Apr 1 2021)
 
-  
 
 **A.) [Search Tool Comparison - Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/GZ-V2ZRcSl6LWnxJxnr2NQ/a50123418w177519031p176188361/_u.date00=20200401&_u.date01=20210410&1681-table.plotKeys=%5B%5D&1681-table.rowCount=10/)
 
@@ -324,17 +316,6 @@ We can see:
   
   
   
-  
-
-## Solution Narrative
-
-  
-
-### Current Status
-
-  
-
-- List item
 
   
 
