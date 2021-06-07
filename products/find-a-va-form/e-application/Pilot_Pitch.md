@@ -26,7 +26,7 @@ https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-s
 Trump signs IDEA Act into Law: President Trump signed the 21st Century IDEA Act into law, requiring all Federal agencies to make sure their websites are user-friendly and support digital forms
 https://www.meritalk.com/articles/president-trump-signs-21st-century-idea-act-into-law/
 
-
+Electronic signatures in the coronavirus (COVID-19) era
 https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
 **Benefits of e-Signature solution
