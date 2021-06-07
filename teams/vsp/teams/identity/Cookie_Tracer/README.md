@@ -68,7 +68,7 @@ The metric creation flow:
         1. Create a sub dataframe from the merge of va.gov requests and responses (va_reqresp_df) which only contains requests matched with responses (both in the _merge column)
         > va_req_with_resp_df = va_reqresp_df.loc[va_reqresp_df['_merge'] == 'both'] 
   1. Obtain logs from IAM Splunk (Identity Broker)
-      1. Request 24 hours of saml request and response logs from the IAM team. They utilize Splunk for their logging. As of May the 4th [be with you] 2021, IAM was still working on the script to parse the data out to run the data analysis. Examples in script [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/single_hour_analysis.py) and below:
+      1. Request 24 hours of saml request and response logs from the IAM team. They utilize Splunk for their logging. [This search](https://logsaz.iam.va.gov/en-US/app/fraud_reporting/ssoe_cookie_tracker_version_3?form.field1.earliest=1620691200&form.field1.latest=1620705599&form.hreq=*) query can be used to extract data, recommend only trying to extract 2 hours at a time. Once the table starts to show some data you need to go into the "[lookup editor]"(https://logsaz.iam.va.gov/en-US/app/lookup_editor/lookup_list#) to extract the csv with the log data. Once on the "lookup editor" page, select the "Fraud Reporting" app. Then click on "export" under the actions cloumn for the "ssoe_cookie_results3.csv" lookup. You will want to open the excel file and validate the c_time matches the search time, I would often have to download the file from export several times before I got the actual search I just performed. Its also imprt to ensure the table is showing data in the original query, this is how you know the parsing for the export has completed. Examples in script [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Cookie_Tracer/single_hour_analysis.py) and below:
           1. Merge the va.gov requests matched with responses dataframe (va_req_with_resp_df) which doesn't contain any requests or responses missing a match, with the IAM requests dataframe on transaction_id and ID_samlrequestid. This will create a dataset that has a column titled "exists" with values of left_only, both, and right_only. left_only means there was no matching request from the "IAM requests" log with the "request and response from va.gov matching" dataset. Both means there was a match, right_only means an IAM request was not found in the va.gov requests log. 
           > va_reqresp_merge_iamrequest_df = pd.merge(va_req_with_resp_df, iam_request, how='outer', on=['transaction_id','ID_samlrequestid'], indicator='exists')
           1. create a sub data frame that contains requests found in va.gov that matched with a response but no subsequent request was found in the IAM logs.
@@ -77,6 +77,9 @@ The metric creation flow:
           > va_iam_request_merge = pd.merge(vagov1_request, iam_request, how='outer', on=['transaction_id','ID_samlrequestid'], indicator=True)
           1. create a sub dataframe that contains requests found in va.gov that did not have a match in the IAM requests dataset (left_only) 
           > va_iam_request_missing_total = va_iam_request_merge.loc[va_iam_request_merge['_merge'] == 'left_only']
+1. Obtain logs from ID.me (Credential Provider / CSP / Identity Provider)
+      1. Request 24 hours of saml request and response logs from the ID.me team.
+          1. Merge
 
 # Query AWS Logs for SSOe Events
 Things to know before:
