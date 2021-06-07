@@ -19,7 +19,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Jen and I also have some colleagues on the line observing and taking notes. Today we're going to talk about comparing schools on the GI Bill Comparison Tool. 
+Thanks for joining us today! My name is Jen and I also have some colleagues on the line observing and taking notes. Today we're going to talk about looking for schools on the GI Bill Comparison Tool. 
 
 Before we start, a few things I want to mention:
 
@@ -38,22 +38,45 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
+- Have you ever used the GI Bill Comparison Tool before?
+    - If yes, what did you use it for?
+
 - What is your military status (e.g. Veteran, child, spouse)?
     - If Veteran, which branch of service?
     
 - Are you currently using or have you ever used your education benefits?
     - If yes, which benefit are you using?
-         - When did you start school? Where did you go?
+         - When did you start school?
     - If no, do you plan on using your benefits in the near future?
          - Which benefit? Where are you in the school selection process?
          
-- Have you ever used the GI Bill Comparison Tool before?
-    - If yes, what did you use it for?
+- When you first decided to go back to school, what factors were important to you in picking school options?
+    - Do you remember any of the schools you were considering?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Finding schools - 10 minutes
 
-- Step 1
-- Step 2
+- Let's say you found the GI Bill Comparison Tool when you were initially looking at schools and you're interested about what information is available.  How would you use the Comparison Tool to see if they have information on any of the schools you were interested in?
+
+
+### Things to watch for:
+
+- What type(s) of search does the user conduct?
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Second Task: Comparing schools - 10 minutes
+
+- It looks like the Comparison Tool has some information on the schools you were interested in.  You aren't sure where you want to go yet and would like to get a better idea of the differences between schools you're considering attending.  How would you use the Comparison Tool to determine which school would be the best option for you?
+
+### Things to watch for:
+
+- What type(s) of search does the user conduct?
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Third Task: YAY Harvard! - X minutes
+
+- You found out that you were accepted into **Harvard Law School**.  Even if you don't end up going, you're curious about how **Harvard** stacks up against some of the other schools on your short list.  How would you use the Comparison Tool to see how **Harvard Law School** compared to some of your other school options?  
 
 ### Things to watch for:
 
@@ -61,33 +84,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
 
 ## Thank-You and Closing - X minutes
 
