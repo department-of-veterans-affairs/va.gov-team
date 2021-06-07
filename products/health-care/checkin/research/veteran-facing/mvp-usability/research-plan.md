@@ -34,7 +34,7 @@ What question(s) do you hope to be able to answer after completing this research
 
 Remote, moderated sessions conducted on Zoom
 
-* Usability testing with a UXPin prototype
+* Usability testing using a poster, Twilio and staging.
 
 #### Why this method? How does this methodology help you answer your research questions?
 
@@ -46,7 +46,7 @@ Online, through Zoom
 
 #### What will you be testing? 
 
-UXPin Prototype TBD
+Poster design announcing Veterans can check-in via their phone. Twilio will recreate the texting experience, which will link to va.gov (staging), so the Veteran can complete check-in.
 
 ## Participants and Recruitment
 
@@ -74,8 +74,6 @@ What are you looking for in a participant?
 
    * For this session, we are unable to include people who use magnification tools.
 
-   * The prototype being testing is in UXPin; this study requires using the latest version of Chrome, Firefox, and Safari. Internet Explorer and Edge are not supported.
-
 #### Secondary criteria / Would like to have
 
 * At least 1 woman
@@ -94,7 +92,7 @@ What are you looking for in a participant?
 
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
 
-* Jun 23 - 25
+* Jun 23 - 29
 
 ### When will the thing you are testing be ready?
 
@@ -104,7 +102,7 @@ June 11
 
 (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 
-* 30 minutes, 30 minute buffer between sessions
+* 45 minutes, 30 minute buffer between sessions
 
 ### Availability: If applicable, when would you like sessions scheduled? 
 
@@ -113,6 +111,8 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 * Wed, June 23; 9 am - 1 pm ET, 5 - 7 pm ET
 * Thu, Jun 24; 9 am - 12:30 EST, 1:30 - 5 pm ET
 * Fri, Jun 25; 9 - 10:30 am EST, Noon - 2 pm ET, 3:30 - 5 pm ET
+* Mon, Jun 28; 9 - 10:30 am ET, 12:30 - 1:30 pm ET, 3:30 - 5 pm ET
+* Tue, Jun 29; 9 - 10 am ET, 11:30 - 5 pm ET
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
@@ -120,7 +120,7 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 
 ### Which member of the design team will you pilot your research with?
 
-* TBD
+  * Dillo Raju ([draju@governmentcio.com](draju@governmentcio.com))
 
 ## Team Roles
 
@@ -132,9 +132,9 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 * Note-takers: Perigean
 * Observers: 
   * Corey Parker
+  * Dillo Raju
   * Patrick Bateman ([Patrick.Bateman@va.gov](mailto:Patrick.Bateman@va.gov))
   * Mark Dewey ([mdewey@governmentcio.com](mdewey@governmentcio.com))
-  * Dillo Raju ([draju@governmentcio.com](draju@governmentcio.com))
   * Stephen Barrs ([Stephen.Barrs@va.gov](Stephen.Barrs@va.gov))
   * Julia Snyder ([Julia.Snyder@va.gov](mailto:Julia.Snyder@va.gov))
   * Danielle Johnson ([Danielle.Johnson13@va.gov](mailto:Danielle.Johnson13@va.gov))
@@ -142,7 +142,7 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 ## Resources
 
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md_
-* [Convo Guide Discussion guide]()
+* [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/conversation-guide.md)
 * Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 * Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 * Read-Out/Results
