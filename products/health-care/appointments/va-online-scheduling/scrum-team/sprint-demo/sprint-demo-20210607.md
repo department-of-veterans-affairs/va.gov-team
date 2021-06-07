@@ -9,13 +9,6 @@
 
 ### Development
 
-- Brad
-  - [New VAOS - Record VCR Cassettes for get '/scheduling/configurations'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25021)
-  - [[Discovery] Loki staging test-logging past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24785)
-  - [Investigate VAOS app toggle history (Production)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24735)
-  - [VAOS Service Integration (GET /facilities)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24363)
-  - [New VAOS - Record VCR Cassettes for post '/appointments'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25014)
-
 - Jeff
   - [VVC at Home - Details Not Displaying](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25579)
   - [Convert CommunityCareDetailsPage to redux hooks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25515)
