@@ -25,13 +25,4 @@
   - [Explore ways to improve verification of ICS files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24657)
   - [Update current calendar file details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23606)
   - [Direct Scheduling - Best Times to Call Not Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17616)
-
-- Kevin
-  - [Remove "go back" button on detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25363)
-  - [Simplify HealthCareService resource (clinic) format](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25335)
-  - [Padding issue seen in mobile screen size at 280 pixel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24910)
-  - [Refresh-review existing tracking events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24901)
-  - [Refresh-CC upcoming confirmed detail page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24803)
-  - [Replace connect() with hooks in ClinicChoicePage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23412)
-
   
