@@ -15,9 +15,9 @@
   - [Update vaccine dead end with walk-in info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25388)
 
 - Jennie
-  - [Vaccine scheduling-Staging Review Design Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25478)
   - [Refresh-CC pending detail page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24753)
-  - [Create FE feature flag for variant testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24277)
+  - [Vaccine scheduling-Staging Review Design Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25478)
+  - [Display COVID phone line for COVID vaccine appointments](https://github.com/department-of-veterans-affairs/vets-website/pull/17434)
 
 - Tony
   - [Fix URL in add to calendar appointment event description text for VVC home appointment.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25377)
