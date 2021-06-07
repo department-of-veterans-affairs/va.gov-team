@@ -111,26 +111,33 @@ We will leverage Perigean's services to recruit participants.
 
 | Team Availability | Time (EST)      |
 | ----------------- | --------------- |
-| June 14, 2021     | 9am-5pm         |
-| June 15, 2021     | 9-11am, 2pm-5pm |
-| June 16, 2021     | 9am-5pm         |
+| June 14, 2021     | 9am-7pm         |
+| June 15, 2021     | 9-11am, 2pm-7pm |
+| June 16, 2021     | 9am-7pm         |
 
 #### Pilot Session  
-| Team Availability | Time (EST)      |
-| ----------------- | --------------- |
-| June 10, 2021     | 11:30am-1:30pm, or  2-3pm  |
-| June 11, 2021     | 9-10am, 11-12pm, or 4-5pm  |
+
+| Team Availability | Time (EST)                |
+| ----------------- | ------------------------- |
+| June 10, 2021     | 11:30am-1:30pm, or  2-3pm |
+| June 11, 2021     | 4-5pm                     |
 
 ## Team Roles	
 
 Please list the people who will be serving in each role. 
 
-- Moderator:	Liz Lantz
+- Moderators:	Christian Valla (cvalla@governmentcio.com) and Liz Lantz 
+  - Christian is on the west coast, so he will facilitate any sessions that start after 5pm eastern. 
+  - Liz will facilitate any sessions before 11am eastern.
+  - Any sessions between 11-5, we'll figure it out amongst ourselves. We will each moderate 4 sessions.
+  - Liz is not available after 5pm eastern, so please do not schedule more than 4 sessions after 5pm.
 - Research guide writing and task development:	Liz Lantz
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-- Participant(s) for pilot test:	Taylor Mitchell - tmitchell@governmentcio.com
-- Note-takers:	TBD
+- Participant(s) for pilot test
+  - Taylor Mitchell - tmitchell@governmentcio.com
+  - Please send pilot invite to Christian Valla as well.
+- Note-takers: Internal; will send emails via Slack once they are recruited.
 - Observers:	
   - Samara Strauss - samara.strauss@va.gov
   - Beverly Nelson - beverly.nelson@va.gov 
