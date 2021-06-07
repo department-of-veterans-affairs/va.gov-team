@@ -22,4 +22,4 @@
   - [Refresh-CC pending detail page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24753)
   - [Vaccine scheduling-Staging Review Design Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25478)
   - [Display COVID phone line for COVID vaccine appointments](https://github.com/department-of-veterans-affairs/vets-website/pull/17434)
-  - 
+ 
