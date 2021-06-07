@@ -10,27 +10,25 @@ As a Veteran who uses VA online scheduling, I want to be able to manage all my a
 ## Desired Outcomes
 - Improve overall satisfaction (rating) of VA online scheduling
 - Improve retention rate of VA online scheduling homepage (dashboard)
-- Decrease number of appointments canceled (instead actively rescheduled)
 
 ## Undesired Outcomes
 - Increase in (VAOS-caused) Help Desk support from trends related to the homepage
 - Increase in abandonment of online scheduling
 
 ---
+
 ## Measuring Success
 - Improve overall satisfaction (rating) of VA online scheduling
 - Improve retention rate of VA online scheduling homepage (dashboard)
-- Decrease number of appointments canceled (instead actively rescheduled)
-
 
 ### Key Performance Indicators (KPIs)
 - Increase in overall satisfaction (rating)
-- Decrease in appointments canceled
 - Increase in users
 - Decrease in monthly Help Desk call volume
 
 #### Baseline KPI Values
 - Satisfaction rating - https://va-gov.domo.com/page/1769944412/kpis/details/1790805848
+- Average users (Jan-May) = 142,647
 - Help Desk call volume
 
 | Month             | Call Volume |
@@ -53,22 +51,19 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Update design of appointment list
+- Add individual appointment detail pages
+- Add print functionality for appointment details
+- Future initiatives depend on this work: Reschedule appointments, VAOS service (VAMF) integration
 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Late June - mid-July
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
