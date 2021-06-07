@@ -389,23 +389,5 @@ We can see:
 
 </details>
 
-  
-  
-
-#### �Stakeholders
-
-_What offices/departments are critical to make this initiative successful?_
-
-  
-
-<details>
-
-  
-
-- Office/Department:
-
-- Contact(s):
-
-</details>
 
 
