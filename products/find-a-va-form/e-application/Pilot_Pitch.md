@@ -1,9 +1,10 @@
 
 ## DISCOVERY SPRINT BRIEF
 
+https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
 ### Initiative Name
-Find a Form - e-Application/e-Signature Option
+Find a Form - e-Application/Digital Signature Option
 
 ### Problem Statement / How Might We statements
 How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a download and print paper form?
@@ -22,6 +23,11 @@ More details about the Docusign Federal Government initiative here:
 
 https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
 
+Trump signs IDEA Act into Law: President Trump signed the 21st Century IDEA Act into law, requiring all Federal agencies to make sure their websites are user-friendly and support digital forms
+https://www.meritalk.com/articles/president-trump-signs-21st-century-idea-act-into-law/
+
+
+https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
 **Benefits of e-Signature solution
 
