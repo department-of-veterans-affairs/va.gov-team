@@ -1,5 +1,23 @@
 # CMS Export Retrospective 
 
+## Purpose of this document
+
+This document is a resource for VA and contracting teams to learn from past experiences. It is not intended to point blame. We hope that folks will refer to these learnings moving forward, particularly for big ambitious projects that may seem difficult to break into iterative or incremental work, and for cross-contract initiatives. 
+
+Please share this document with anyone that you think would find it useful!
+
+## Background 
+
+“CMS Export” was an approach for rearchitecting the content build pipeline, which publishes content from the VA.gov CMS to VA.gov. The approach is based on [Tome Sync](https://tome.fyi/docs/sub-modules/). 
+
+For more info, check out: 
+
+* [Documented decision for pivoting away from CMS Export](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)
+* [CMS Super Team draft charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2019-11-superteam-draft-charter.md)
+* [Notes about previous and future architecture states and work distribution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2020-01-drupal-publishing-current-future-states.md) 
+* [CMS Export overview/status update from Dec 2020](https://vfs.atlassian.net/l/c/0T4A217E)
+* [CMS Export retrospective issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20325)
+ 
 ## Learnings and recommendations 
 
 _Bullets are quotes from CMS Export retrospective, but not all retro cards are quoted here._
@@ -36,24 +54,6 @@ _Bullets are quotes from CMS Export retrospective, but not all retro cards are q
 
 * _“Solution was expected to be implemented in 3 months, and publish time goal was under 1 minute. This was far too short, especially after it was determined to disband daily scrum. Incremental publishing was far too risky to complete in that time frame.”_
 * _“It was really hard to push back on VA.”_
-
-## Purpose of this document
-
-This document is a resource for VA and contracting teams to learn from past experiences. It is not intended to point blame. We hope that folks will refer to these learnings moving forward, particularly for big ambitious projects that may seem difficult to break into iterative or incremental work, and for cross-contract initiatives. 
-
-Please share this document with anyone that you think would find it useful!
-
-## Background 
-
-“CMS Export” was an approach for rearchitecting the content build pipeline, which publishes content from the VA.gov CMS to VA.gov. The approach is based on [Tome Sync](https://tome.fyi/docs/sub-modules/). 
-
-For more info, check out: 
-
-* [Documented decision for pivoting away from CMS Export](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)
-* [CMS Super Team draft charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2019-11-superteam-draft-charter.md)
-* [Notes about previous and future architecture states and work distribution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/2020-01-drupal-publishing-current-future-states.md) 
-* [CMS Export overview/status update from Dec 2020](https://vfs.atlassian.net/l/c/0T4A217E)
-* [CMS Export retrospective issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20325)
 
 ## Timeline 
 
