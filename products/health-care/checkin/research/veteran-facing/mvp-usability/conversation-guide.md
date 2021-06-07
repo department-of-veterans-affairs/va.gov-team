@@ -20,7 +20,7 @@ Thanks for joining us today! My name is \[NAME\] and I also have some colleagues
 
 Before we start, a few things I want to mention:
 
-* This entire session should take no longer than 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+* This entire session should take no longer than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts on a possible new way to let your doctor know that you have arrived for your appointment. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
   * First, I'll start by asking you a few questions about your past experiences.
