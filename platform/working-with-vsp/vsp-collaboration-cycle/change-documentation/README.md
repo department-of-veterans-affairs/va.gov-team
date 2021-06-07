@@ -1,5 +1,8 @@
 ## Collaboration Cycle - Change Log
 
+### June 7, 2021
+- **Contact Center - Product Guide Best Practices has been updated.** The Product Guide Best Practices (aka [Self-Service Product Guide Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md)) has been updated to better equip Contact Centers to more swiftly help Veterans trying to complete tasks on VA.gov. For more information about this change, contact the Contact Center team via #vsp-contact-center-support on Slack.
+
 ### May 3, 2021
  - **Process changes for Design Intent touchpoint.** The Platform team recognized that the meeting output was not consistent. Platform and OCTO-DE had different expectations of the meeting purpose/objective. The following changes have been put in place to address these inconsistencies:
    - **Asynchronous reviews will no longer be supported.** The Design Intent meeting is intended to be a collaboration between the VFS team, Platform, and OCTO-DE. Collaboration cannot take place if the meeting is asynchronous. 
