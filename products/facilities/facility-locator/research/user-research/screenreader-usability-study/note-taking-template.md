@@ -1,16 +1,12 @@
 # Facility Locator - Screen reader, Usability Test
 ## P# - Date - Time
 
-
-
 ## Intro - 3 minutes
 
 #### [Get verbal confirmation or end session]
 
 Yes/no:
 
-
-## Recording permission
 
 ## Tech set-up
 
