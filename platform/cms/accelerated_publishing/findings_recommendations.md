@@ -1,5 +1,3 @@
-*** DRAFT ***
-
 ## Overview
 
 In March of 2021, the CMS team was asked to lead a [discovery initiative](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4748) to address various pain points around the VA.gov publishing & content deploy process, including:
@@ -20,7 +18,7 @@ The CMS team then initiated a two-pronged discovery effort:
 
 The team has created a [recommendation matrix](https://docs.google.com/spreadsheets/d/1qrXyjnED4aaJuQ0AgqHHFK2RMjjqeAP1GL1hw5lo0tU/edit?usp=sharing), evaluating each possible technical solution against a number of criteria and scoring each criterion with a Pro/Neutral/Con system.
 
-[AP - Solution Options Matrix.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6587442/AP.-.Solution.Options.Matrix.pdf)
+[AP - Solution Options Matrix.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6617548/AP.-.Solution.Options.Matrix.pdf)
 
 ## Recommendation
 
