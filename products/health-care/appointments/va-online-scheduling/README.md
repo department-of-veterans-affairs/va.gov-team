@@ -37,7 +37,6 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
   - [Jeff Balboni](https://dsva.slack.com/team/U1YQCT1V3)
   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
   - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
-  - [Lance Gunderson](https://dsva.slack.com/team/U0191PY3R7T)
   - [Kevin Lee](https://dsva.slack.com/team/U019D4VAKMZ)
   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
   - [Jennie McGibney](https://dsva.slack.com/team/UMLH49T7G)
@@ -62,6 +61,8 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
     - Kay Lawyer (proxy)
   - Dr. Clinton Greenstone (Office of Community Care)
     - Kim Pullin (proxy)
+  - Dr. Kevin Galpin (Telehealth)
+    - Pauline Anderson
 - VA Mobile Framework (VAMF):
   - Steve Eaton, Portfolio Manager
   - Eric Hopkins, Project Manager
