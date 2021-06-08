@@ -55,11 +55,11 @@ There's also work being done around the concept of practice area operations role
 - Many feel totally burned out from doing so much, and yet if you look at their big rocks there's no progress.
 - It's frustrating that it seems like OCTO-DE is still just building new stuff all over the place making the site more and more fragmented -- feels like feature bloat instead of strategic evolution. As practice leads, it feels like that delivery-first culture is at odds with what they're here to do, and it's frustrating. Thought the new crews concept would make this better, but it hasn't.
 
-**Collab cycle member pain**
+**Collab cycle members are feeling overburdened and frustrated**
 - Collab Cycle members often fill in the gap in implementation help when a VFS team doesn't have the appropriate skills, and when the practice lead doesn't have the bandwidth. It's taxing to have to either pick up that extra work because they want to be helpful, or alternatively explain that essentially there's no one to help and the team's out of luck.
 - Collab cycle members at times spend time and energy providing reviews of VFS work, when unbeknownst to them the practice lead has either already given a separate OK, or is still working with the VFS team on their strategy - this leads to wasted collab cycle member efforts and they have limited bandwidth already so can be pretty frustrating.
 
-**VFS team pain**
+**VFS team members are having to redo work sometimes or perform tasks they don't have the skillsets for**
 - Have to rework content after a wide variety of touchpoints: SWC, research findings, Stakeholder reviews, after collab cycle reviews. And this all happens before Staging Review.
 - It's a bit of a blocker to have just one person reviewing all the research plans
 - In the case of IA, there are no IA people on any VFS team, yet we ask them to do their own IA strategy and definition. They also don't have the global knowledge necessary to be able to really make well-informed IA decisions.
