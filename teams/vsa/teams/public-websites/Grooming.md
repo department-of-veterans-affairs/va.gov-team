@@ -37,7 +37,13 @@ None
 - [ ] 508-defect-1, sitewide [FOCUS]: Mobile menu does not trap focus [#25659](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25659)
 - [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed [#25661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25661)
 - [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239) 
-- [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383) 
+- [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383)
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751) 
+- [ ] HP COVID banner and accessibility/ScreenReader [#24199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24199) 
+
+Icebox Items (Relevancy - Delete)
+- [ ] [COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)
+- [ ] [KEYBOARD]: Skip to Content Link doesn't work correctly in IE11 [#2246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2246)
 
 ### Team Clarity Requests: (Call out tickets)
 
