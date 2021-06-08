@@ -31,19 +31,19 @@ For Women Veteran’s Day in June 2021, you can spread the word about MVP at you
 1. Posting any of the three (3) Facebook posts and tweets from the below toolkit on/around June 12th (for Women Veteran’s Day). For any other day, there are five (5) additional Facebook posts and tweets in the toolkit that can be posted as your social media schedule permits.
 2. Using any of the two newsletter blurbs in your facility’s newsletters with VA employees and Veterans.
  
-- PSA social media toolkit
-- PSA newsletter blurbs
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Social-Media-Content-MVP-PSA-FINAL.docx">PSA social media toolkit</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
 - [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
 - [VAntage Point story about PSA](tbd)
 
 
 ## Feature story for VISN and VAMC websites
 
-This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. We encourage all VISNs and VAMCs with an MVP clinic to post this feature story on their homepage at their earliest convenience. Sections of the story (in yellow) can be personalized to add your facility name.
+This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
 
-Check here to see if your facility has a MVP clinic or email Claudia Gutierrez at Claudia.Gutierrez@va.gov with any questions.
+Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm)
 
-Feature story for VISN and VAMC websites
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
 
 
 ## Flyers
