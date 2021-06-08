@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated April 22, 2021
+Last Updated June 8, 2021
 
 ## POCs
 
@@ -16,9 +16,11 @@ Last Updated April 22, 2021
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
+|Lauren Ernest|VAOS Product Manager| lauren.ernest@adhocteam.us |
+|Peter Russo | VAOS Designer | peter.russo@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Carnetta Scruggs| MHV lead | Carnetta.Scruggs@va.gov |
 
