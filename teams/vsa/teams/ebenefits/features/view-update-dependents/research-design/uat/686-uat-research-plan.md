@@ -92,16 +92,21 @@ Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 **Important:** Certain scenarios will require the participants to gather information or documents. If possible, participants should review form instructions (will be provided) ahead of their UAT session.
 
 #### eBenefits Team Availability
+We're providing a two-week window due to potential difficulty in recruiting users who need to add dependents to their disability claims.
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| June X | 9 AM to 5 PM |
-| June X | 9 AM to Noon |
-| June X | 9 AM to Noon |
-| June X | 9 AM to 5 PM |
-| June X | 9 AM to Noon |
-| June X | 9 AM to 5 PM |
+| June 21 | 9 AM to 5 PM |
+| June 22 | 9 AM to 5 PM |
+| June 23 | 9 AM to Noon |
+| June 24 | 9 AM to 5 PM |
+| June 25 | 9 AM to 5 PM |
+| June 28 | 9 AM to 5 PM |
+| June 29 | 9 AM to Noon |
+| June 30 | 9 AM to Noon |
+| July 1 | 9 AM to 5 PM |
+| July 2 | 9 AM to 5 PM |
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 
