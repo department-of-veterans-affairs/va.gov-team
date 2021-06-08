@@ -94,7 +94,7 @@ SKIP TO [Screen sharing](#screen-sharing) SET UP
 - I'm going to send you a zoom link [by format specified] for you to open on your phone so you can join this meeting.  
 - [Send through Veteran's preferred communication channel]
 - When you open the link, you should be taken to the Zoom application automatically. Zoom will ask for access to your microphone and video. We only need your audio for this session, so please tap "Allow" for the microphone prompt. Feel free to tap "Don't Allow" for video permissions if you are not comfortable having your face on camera.
-- You will then be asked to join audio. Please tap "Join audio."
+- Upon joining the room, Zoom will have you turn on audio by asking “To hear others, please join audio.” Please swipe to and double tap "Wifi or Cellular Data." [This button will be at the center of their screen.]
 - Once you're in the call...
 
 ## Screen sharing
@@ -107,16 +107,21 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
  - A menu should appear. Select the "Screen” option and double tap it. 
    - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to allow it”
  - Next you'll want to swipe to the "Start Broadcast" button and double tap that. You'll hear a counter "3, 2, 1" and the screen share should begin.
+ - [If the screen is black]: We see a black screen right now. If you have screen curtain or other screen hiding tech running, please toggle it off if possible.
+ - [If you don’t hear the screen reader]: We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your phone/desktop without that device so we can hear your screen reader? If not, that’s perfectly OK.
+ - Return to your home screen and the screen share should begin.
 
 [If successful:]
 
 OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
+Next up: [Warm-up questions](#warm-up-questions)
+
 [If NOT successful:]
 
 **Backup plan if they cannot figure out how to share screen:**
 
-   - Switchwitch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)
+   - Switch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)
 
 
 ### Screen sharing set-up - TalkBack, Android using web app
@@ -133,6 +138,8 @@ OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose 
 
 OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
+Next up: [Warm-up questions](#warm-up-questions)
+
 _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)_
 
 [If NOT successful:]
@@ -140,7 +147,6 @@ _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/arti
 **Backup plan if they cannot figure out how to share screen:**
 
    - Switch to think out loud facilitation, next up: [Warm-up questions](#warm-up-questions)
-
 
 ## Warm-up Questions 
 
