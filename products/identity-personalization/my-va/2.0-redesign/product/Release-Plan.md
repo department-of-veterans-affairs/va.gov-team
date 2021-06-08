@@ -2,8 +2,9 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** Exact dates TBD (ideally 5/19 - 6/1)
-- **UAT Go/No go:** TBD, ~week of 6/7
+- **Desired date range or test duration:** Sprint 50 (6/16 - 6/30)
+- **UAT Go/No go:** Week of 6/7
+- **Start UAT**: 6/22 (due to team members being OOO)
    - [Hold UAT Go/No-Go #24701](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24701)
    - [My VA 2.0: UAT Go/No-Go](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/qa/UAT-go-no-go.md) 
 - **Desired number of users:** 10 total, 5 who receive or are currently eligible to receive health care from VA, 5 who have active claims or appeals; 3 of these 10 need to have a disability rating
@@ -22,9 +23,9 @@ be behind a feature flag.
 ## Phase II: Staged Rollout 
 ### Planning
 **Desired date range:** 
-- 25% of users (1 week), Dates: week of 6/14 
-- 50% of users (1 week), Dates: week of 6/21
-- If all goes well, then go to 100% of users: week of 6/28
+- 25% of users (1 week), Dates: week of 6/28
+- 50% of users (1 week), Dates: week of 7/5
+- If all goes well, then go to 100% of users: week of 7/12
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Analytics to track as part of initial My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/analytics/analytics-to-track.md)
@@ -39,7 +40,7 @@ My VA GA dashboard (link TK)
 
 ## Go Live!
 ### Planning:
-**Desired date:** Desired: by 07/01/21 for launch to 10%,  Actual: mm/dd/yy
+**Desired date:** Desired: by 06/28/21 for launch to 25%,  Actual: mm/dd/yy
 
 - Go /No Go Results (link TK)
  
