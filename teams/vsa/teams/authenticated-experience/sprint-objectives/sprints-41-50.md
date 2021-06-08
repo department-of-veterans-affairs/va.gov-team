@@ -690,10 +690,10 @@ Anything not finished last sprint, plus:
 
 **PTO**
 
-- Tressa: 6/16 - 6/17
-- Erik: 6/21
-- All of Ad Hoc: 6/18
-- Samara: Baby watch 2K21 (OOO most likely no later than 6/23)
+- **Tressa**: 6/16 - 6/17
+- **Erik**: 6/21
+- **All of Ad Hoc**: 6/18
+- **Samara**: Baby watch 2K21 (OOO most likely no later than 6/23)
 
 ### My VA
 
