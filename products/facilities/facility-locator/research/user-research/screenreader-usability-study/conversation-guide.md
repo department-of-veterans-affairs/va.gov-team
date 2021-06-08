@@ -200,7 +200,7 @@ Next, I'm going to ask you to complete a task.
 - Follow up with: “How about on VA.gov, how might you find your nearest VA?”
    - Can you show me how you do that?
 
--_If user needs help:_
+- _If user needs help:_
    - Send them a link: via preferred method (maybe email)
    - Type in a URL: [va.gov/find-locations](https://www.va.gov/find-locations)
    - Direct them to “main menu”. Button reads: "menu collapsed"/"closed collapsed", (failure likely)
