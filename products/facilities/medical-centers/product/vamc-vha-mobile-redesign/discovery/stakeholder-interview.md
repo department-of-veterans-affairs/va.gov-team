@@ -69,23 +69,21 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-2-va-mobile-clinic/
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
 
-2. Chillicothe VA Mobile Clinic
-    - https://www.va.gov/find-locations/facility/vha_538QA
-    - In dual state? [No](https://www.va.gov/chillicothe-health-care/)
-
-3. Cheyenne VA Mobile Clinic
+2. Cheyenne VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_442QF
     - In dual state? **Yes**
     - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
+ 
+3. Palo Alto Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_640QA
+    - In dual state? **Yes**
+    - https://www.va.gov/palo-alto-health-care/locations/
+ 
+4. Des Moines Mobile Clinic
+  - https://www.va.gov/find-locations/facility/vha_636QH
+  - In dual state? **Yes**
+  - https://www.va.gov/central-iowa-health-care/
 
-4. Puget Sound VA Mobile Clinic
-    - https://www.va.gov/find-locations/facility/vha_663Hk
-    - In dual state? [No](https://www.va.gov/puget-sound-health-care/)
-
-
-5. Phoenix VA Mobile Clinic
-    - https://www.va.gov/find-locations/facility/vha_644QB
-    - In dual state? [No](https://www.va.gov/phoenix-health-care/)
 
 ### TBD
 
@@ -112,6 +110,17 @@ Columbia VA Mobile Clinic
  
    - https://www.va.gov/find-locations/facility/vha_544HK
 
+Chillicothe VA Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_538QA
+    - In dual state? [No](https://www.va.gov/chillicothe-health-care/)
+
+Puget Sound VA Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_663Hk
+    - In dual state? [No](https://www.va.gov/puget-sound-health-care/)
+    
+Phoenix VA Mobile Clinic
+    - https://www.va.gov/find-locations/facility/vha_644QB
+    - In dual state? [No](https://www.va.gov/phoenix-health-care/)
 
 
 ### Notes:
