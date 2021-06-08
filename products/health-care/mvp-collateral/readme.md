@@ -41,9 +41,9 @@ For Women Veteran’s Day in June 2021, you can spread the word about MVP at you
 
 This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
 
-Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm)
+Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
 
-<a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
 
 
 ## Flyers
