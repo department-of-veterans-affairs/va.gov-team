@@ -53,7 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - When you first decided to go back to school, what factors were important to you in picking school options?
     - Do you remember any of the schools you were considering?
 
-## First Task: Finding schools - 10 minutes
+## First Task: Finding schools - 5 minutes
 
 - Let's travel back in time and say you found the GI Bill Comparison Tool when you were initially looking at schools. You're interested in what information is available to you.  How would you use the Comparison Tool to see if the tool has information on any of the schools you are interested in?
 
@@ -61,18 +61,36 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Things to watch for:
 
 - What type(s) of search does the user conduct?
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the user notice the Compare checkbox?
 
-## Second Task: Comparing schools - 10 minutes
+### Upon task completion:
+
+- How do you think that went?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools on the Comparison Tool?
+- *If new school cards*, can you talk to me about the school cards you see here?
+- For the benefit estimates you see here, do you believe these are accurate for your situation?
+
+## Second Task: Comparing schools - 20 minutes
 
 - It looks like the Comparison Tool has some information on the schools you were interested in.  You aren't sure where you want to go yet and would like to get a better idea of the differences between schools you're considering attending.  How would you use the Comparison Tool to determine which school would be the best option for you?
 
 ### Things to watch for:
 
 - What type(s) of search does the user conduct?
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the user notice the Compare drawer?
+- Do users notice the sticky header?
+- Do users notice the "Highlight differences" functionality?
+- Is user able to easily add schools to the compare tray?
+- Is the user able to easily navigate to the compare page?
+
+### Upon task completion:
+
+- How do you think that went?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of comparing schools on the Comparison Tool?
+- Looking at the compare page, what do you think of the fields you see here?  Which ones are most useful to you? Are any not useful?  Any missing?
+- What do you think of the process of comparing schools?
+- What do you think of the "Highlight differences" functionality? Is it useful?
+- 
 
 ## Third Task: YAY Harvard! - X minutes
 
@@ -80,11 +98,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- *If applicable,* can the user easily remove schools from the comparison?
+- Where does the user go to remove schools (compare tray, compare page, search results)?
 
+### Upon task completion:
 
+- How do you think that went?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of adding Harvard Law School to your school comparison?
+-
 ## Thank-You and Closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
