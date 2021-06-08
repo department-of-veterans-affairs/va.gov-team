@@ -37,7 +37,7 @@ All product guides should be created and saved as a Word document. You will need
 - This section should describe how the user finds the product on VA.gov.  If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
   - URL and screenshot if a link to your product is shown on the VA.gov homepage
   - URL and screenshot if a link to your product is shown in a benefits hub
-  - URL and screenshot if your product can be accessed by a another feature like the VA profile. 
+  - URL and screenshot if your product can be accessed by a another feature like the VA profile 
 - You do not need to list out all access points for your product but please provide details for the most relevant pathways. 
 
 ## **Functionality:**
@@ -47,8 +47,8 @@ All product guides should be created and saved as a Word document. You will need
 - Error messages or alerts SPECIFIC to your product are an important tool for contact center representatives trying to triage an issue. Please provide screenshots and descriptions of ALL error or warning messages that are specific to your product. For each of these error messages, please provide the following: 
      - Screenshot of the error message
      - Explanation of what might be causing the problem
-     - Suggestions for what might resolve the error message. 
-     - If available, please include any known work arounds.
+     - Suggestions for what might resolve the error message 
+     - If available, please include any known work arounds
 
 ## **Clickable Table of Figures:**
 - Similar to the Clickable Table of Contents, there should be a Clickable Table of Figures that includes a complete list of figure captions in sequential order. Each caption should link back to the bookmarked figure caption in the body text. Placement of this at the end of the document is ideal. 
