@@ -168,7 +168,7 @@ We are considering a test of up to three approaches to solve this problem.
 
  - The VA search tools chosen will be evaluated on a case by case basis. Usage data has been evaluated (see below) and stakeholders will be consulted to ensure we are presenting veterans with tools that offer value.
 
-## Search Tools Usage Data
+## Other Search Tools (Primary & Secondary)
 
 Primary links:
 Primary search tools links were chosen based on strategic direction and anticipated benefit for the users. Each follows the same UI pattern and therefore presents the user with the same navigational experience. 
