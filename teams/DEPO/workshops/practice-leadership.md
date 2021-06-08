@@ -4,36 +4,37 @@ The purpose of this workshop is not to _resolve_ the problem space described bel
 
 ## Problem space brief
 
-5/6/2021 - 5/x/2021
-
-We have a handful of highly skilled individuals on the OCTO-DE side who are experts in a given field (notably content, accessibility, IA, design, and research) and whom we look to as the protectors of those practices on VA.gov. The term "practice lead" came about organically, grassroots-style, as a way to describe and wrap heads around these people and their role here, however there was never an intentional OCTO-DE creation of this role nor a conscious accepting of this role by these individuals. There's never been any explicit definition of what it means to have this role - what the expectations and responsibilities are, what the needs are for success, and really whether it's indeed these peoples' role at all. All of this results in mismatched understandings of what practice leads and Collab Cycle members or VFS Teams or VA.gov members at large expect of each other, and has been the source of much confusion and frustration.
-
----
+We have a handful of highly skilled individuals at OCTO-DE who are experts in a given field (notably content, accessibility, IA, design, and research) and to whom we look as the protectors of those practices on VA.gov. The term "practice lead" came about organically, grassroots-style, as a way to describe and wrap heads around these people and their role here, however there was never an intentional OCTO-DE creation of this role nor a conscious accepting of this role by these individuals. There's never been any explicit definition of what it means to have this role - what the expectations and responsibilities are, what the needs are for success, and really whether it's indeed these peoples' role at all. All of this results in mismatched understandings of what practice leads and Collab Cycle members or VFS Teams or VA.gov members at large expect of each other, and has been the source of much confusion and frustration.
 
 ## How might we...
-_...define come to an agreed upon understanding of what roles we **need** and what the responsibilities are of those roles, so that we can proceed 
+_...uncover what responsibilities we need covered by the practice leadership space, and where we have gaps that OCTO-DE needs to figure out how to fill?_
 
-a) what kind of practice leadership responsibilities are needed in our ecosystem, b) what's needed for someone to be **successful** at those responsibilities, c) in what ways the current individuals who've been tagged by others with this role **do** and **do not** desire to assume those responsibilities, and d) thus where we have gaps that OCTO-DE will need to figure out how to fill?_
-
----
-
-## Workshop goals / desired outcomes
+## Workshop goals
 - Understand the full gamut of what our VA.gov ecosystem needs from practice leadership
 - Understand what the current individuals in these roles _want_ to be spending their time on (and what they don't want to be spending their time on)
+- Understand some preliminary prioritization from the OCTO-DE viewpoint of those responsibilities
 - Understand what gaps we need to fill
-- Ideate around how to fill those gaps
-- Prioritization of needs for each group (VFS teams have this top priority need but it's the lowest in priority for OCTO practice leads)
-- Role definition
+
+## Desired post-workshop outcomes
+- Inform ideation around how to fill those gaps
+- Inform role definitions and hiring decisions
+- Inform how practice area roles should fit into the crew structure and OCTO / OCTO-DE organizational structure
+- Set expectations across the ecosystem about this role, and thusly reduce frustration, swirl, and burnout.
 
 ## Questions the workshop should answer
-- What do VFS teams expect from practice leads today?
-- What do Collab Cycle members expect from practice leads today?
-- What does OCTO-DE expect from practice leads today?
+- What are VFS teams asking of practice leads today?
+- What are Collab Cycle members asking of practice leads today?
+- What are OCTO-DE folks asking of practice leads today?
 - What work do the practice leads do today that they weren't expecting to?
 - What things are practice leads doing today that they believe should be done by someone else? (and is that a different existing entity, or a net new role?)
 - In what ways do the current practice leads feel blocked?
 - What would practice leads like to be doing that they don't have bandwidth for today?
 - What does support look like for the current people in the practice lead roles to be able to execute on their visions / plans / initiatives?
+
+### How this workshop intersects with and ideally compliments other efforts happening within OCTO
+There's work being done to stand up Community of Practice Leads within OCTO, and those individuals are meant to be people managers. Hopefully the information from this workshop will help those individuals best support the needs of practice leadership related roles, and craft an org structure that empowers them well to do the responsibilities that get defined.
+
+There's also work being done to conceptualize practice area operations roles, folks to facilitate  Design practice and Research practice have been 
 
 ---
 
