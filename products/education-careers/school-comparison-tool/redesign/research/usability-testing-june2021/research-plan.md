@@ -13,7 +13,7 @@ As a designer I need to create a research plan to share with my team.
 
 Compare Drawer:
  - Do users notice the Comparison drawer?
- - How do users expect the comparison drawer to behave when they are conducting multiple searches to select schools?
+ - Is comparison drawer behavior effective when the user conducts multiple searches to select schools?
  - How many schools do users think they can compare at once?
  
  Navigation:
