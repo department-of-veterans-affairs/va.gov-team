@@ -5,13 +5,13 @@ There can be only a maximum of one (1) type each - this means sometimes, there m
 
 Rubric for display hierarchy remains: A) Emergency banner, B) Sitewide downtime banner, C) Veteran action needed banner D) Promo banner
 
-|**Priority Hierarchy**              |**Banner Type**           | **Banner Visual Example**.        |
-|-----------------------|------------------------------------|------------------------------------|
-|A - Tier 1    |Emergency banner (always first - these do not have a specific expiration date)  | <img width="796" alt="Screen Shot 2021-06-08 at 10 01 35 AM" src="https://user-images.githubusercontent.com/70410912/121225870-30afe880-c847-11eb-8938-1d8f4b665c31.png"> |
-|B - Tier 2    |System maintanence banner |<img width="794" alt="Screen Shot 2021-06-08 at 10 01 16 AM" src="https://user-images.githubusercontent.com/70410912/121225937-3f969b00-c847-11eb-8420-a9355438428b.png">  |
-|C - Tier 3    |Veteran action needed | ![Screen Shot 2021-06-08 at 11 31 41 AM](https://user-images.githubusercontent.com/70410912/121231116-40cac680-c84d-11eb-9029-e1f4b5967aab.png) |
-|D - Tier 4    |Promo "Sticky" Banner  | <img width="795" alt="Screen Shot 2021-06-08 at 10 01 27 AM" src="https://user-images.githubusercontent.com/70410912/121226026-56d58880-c847-11eb-9929-4aa4654d5248.png"> |
-|E - Tier 5    |Multiple Banners | <img width="794" alt="Screen Shot 2021-06-08 at 10 00 54 AM" src="https://user-images.githubusercontent.com/70410912/121226352-b0d64e00-c847-11eb-9719-69a5d86d42cf.png"> |
+|**Priority Hierarchy**              |**Banner Type**           | **Banner Visual Example**.        | **Appears On** | **Implimentation Point** |
+|-----------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+|A - Tier 1    |Emergency banner (always first - these do not have a specific expiration date)  | <img width="796" alt="Screen Shot 2021-06-08 at 10 01 35 AM" src="https://user-images.githubusercontent.com/70410912/121225870-30afe880-c847-11eb-8938-1d8f4b665c31.png"> |Homepage  |[banner.yml](https://github.com/department-of-veterans-affairs/vagov-content/blob/master/fragments/home/banner.yml) |
+|B - Tier 2    |System maintanence banner |<img width="794" alt="Screen Shot 2021-06-08 at 10 01 16 AM" src="https://user-images.githubusercontent.com/70410912/121225937-3f969b00-c847-11eb-8420-a9355438428b.png">  |Homepage + Subpages (other pages) |[maintenance banner.js](https://github.com/department-of-veterans-affairs/vets-website/blob/96da57c412d3bd[…]bf49/src/platform/site-wide/banners/config/maintenanceBanner.js) |
+|C - Tier 3    |Veteran action needed | ![Screen Shot 2021-06-08 at 11 31 41 AM](https://user-images.githubusercontent.com/70410912/121231116-40cac680-c84d-11eb-9029-e1f4b5967aab.png) |Subpages (other pages) | Drupal |
+|D - Tier 4    |Promo "Sticky" Banner  | <img width="795" alt="Screen Shot 2021-06-08 at 10 01 27 AM" src="https://user-images.githubusercontent.com/70410912/121226026-56d58880-c847-11eb-9929-4aa4654d5248.png"> |Homepage + Subpages (other pages) |[Promo.js](https://github.com/department-of-veterans-affairs/vets-website/blob/43871dd96966ddd7b708a49c7756c7f1ab13419b/src/platform/site-wide/announcements/config/index.js) |
+|E - Tier 5    |Multiple Banners | <img width="794" alt="Screen Shot 2021-06-08 at 10 00 54 AM" src="https://user-images.githubusercontent.com/70410912/121226352-b0d64e00-c847-11eb-9719-69a5d86d42cf.png"> |Homepage + Subpages (other pages) | N/A |
 
 [Design Component Quick Link](https://design.va.gov/components/alertboxes#full-width-alerts)
 
@@ -76,6 +76,8 @@ __Design notes:__
 ## Important action-needed, Veteran-facing alert banner
 
 This type of message uses the design of the sitewide system maintenance banner alert. It is to be used for Veteran-facing, time-sensitive, important information that __requires a Veteran to take an action__ by X date. 
+
+**Note: Can't show on homepage, only other pages templates** 
 
 - EX: How to file before the May 5 deadline to get your coronavirus stiumulus check.  
 
