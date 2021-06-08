@@ -26,7 +26,7 @@
 * Help Desk
 * csv files ready for migration (planning)
 * Menus
-  * Parent items should all have _enabled_ menu items, even if they are in draft.
+  * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
 * Accessibility checker (overview)
 
 ## June 4
