@@ -2,7 +2,7 @@
 
 **Author(s):** Brooks Johnson  
 **Last Updated:** January 13, 2021  
-**Status:** **Draft** | In Review | Approved  
+**Status:** Draft | In Review | **Approved**  
 **Approvers:** _Chris Valarida_ [x], _Michael Fleet_ [x] 
 
 ## Overview
