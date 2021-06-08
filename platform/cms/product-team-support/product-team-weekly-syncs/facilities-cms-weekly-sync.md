@@ -27,6 +27,7 @@
 ## June 9
 
 * Review helpdesk issues that have arisen
+* [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
 
 ## June 2
 
