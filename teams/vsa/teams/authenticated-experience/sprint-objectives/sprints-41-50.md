@@ -685,3 +685,68 @@ Only do profile work if people have time. Is there a ticket or two for Taylor to
 Lihan will continue working with the identity team on user roles & permissions work this sprint. 
 
 ## Sprint 50 (6/16 - 6/29)
+
+Anything not finished last sprint, plus:
+
+**PTO**
+
+- Tressa: 6/16 - 6/17
+- Erik: 6/21
+- All of Ad Hoc: 6/18
+- Samara: Baby watch 2K21 (OOO most likely no later than 6/23)
+
+### My VA
+
+**PM**
+
+- Make sure analytics are set up correctly.
+
+**Design**
+
+- Conduct UAT
+- Create tickets if there are issues
+- Action items work: Finish explorations and discuss with team; Determine method for testing; Plan research
+
+**FE**
+
+- UAT fixes, if necessary
+
+**Stretch goals**
+
+If there are no fixes or anything needed from UAT, and if all analytics tracking is in place, feel free to hold the launch go/no-go and launch to 25% as soon as UAT is over!! If not, do that next sprint.
+
+### Notification preferences
+
+**Design**
+
+- Run research
+- Summarize research
+- Update designs and frontend documentation, if necessary
+
+**FE**
+
+- Continue build
+- Implement changes from research, if time
+
+### Preferred Facility
+
+**PM**
+
+- Continued coordination with VAOS team
+- Work with Liz to finalize test cases
+
+**Design**
+
+- Finalize test cases
+
+**FE**
+
+- Start build
+
+### Profile
+
+- Feel free to pull in tickets as time allows and people have bandwidth
+
+### Backend work
+
+- Lihan to continue supporting the identity team
