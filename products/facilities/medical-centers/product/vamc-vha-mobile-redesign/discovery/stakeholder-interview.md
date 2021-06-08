@@ -80,9 +80,9 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/palo-alto-health-care/locations/
  
 4. Des Moines Mobile Clinic
-  - https://www.va.gov/find-locations/facility/vha_636QH
-  - In dual state? **Yes**
-  - https://www.va.gov/central-iowa-health-care/
+    - https://www.va.gov/find-locations/facility/vha_636QH
+    - In dual state? **Yes**
+    - https://www.va.gov/central-iowa-health-care/
 
 
 ### TBD
