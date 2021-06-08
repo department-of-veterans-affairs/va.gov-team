@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated April 2021**
+**Last updated June 2021**
 
 ## Where to find us 
 
@@ -20,6 +20,7 @@
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 ## What we work on
