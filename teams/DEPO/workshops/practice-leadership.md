@@ -31,7 +31,7 @@ We have a handful of highly skilled individuals at OCTO-DE who are experts in a 
 - Inform how practice area roles should fit into the crew structure and OCTO / OCTO-DE organizational structure
 - Set expectations across the ecosystem about this role, and thusly reduce frustration, swirl, and burnout.
 
-## How this workshop intersects with and ideally compliments other efforts happening within OCTO
+## How this workshop intersects with and compliments other efforts happening within OCTO
 There's work being done to stand up Community of Practice Leads within OCTO, and those individuals are meant to be people managers. The information from this workshop should act as background context to help those individuals best support the needs of practice-leadership-related roles, and craft an org structure that empowers those types of roles well to do the responsibilities that get defined.
 
 There's also work being done around the concept of practice area operations roles: folks to consult with VFS teams on their work in the given practice area, and to maintain our process and say "ok we've grown, let's rethink how we do xyz method or process or task." This will be incorporated into the _understanding the full gamut_ and _gaps_ parts of the workshop as things that current practice leads in some areas have already identified, and already have started ideating around.
