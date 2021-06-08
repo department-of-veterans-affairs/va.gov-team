@@ -131,8 +131,9 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **October 2020**: Initial discovery.
 - **November 2020**: Begin backend integration.
 - **December 2020**: Finish backend integration.
-- - **December 2020**: Design begins.
+- **March 2020**: Design begins.
 - **April 2021**: Initial designs completed. Beginning collaborative research effort with VAOS team.
+- **June 2021**: Usability testing; FE build begins.
 
 ## Product Decisions
 
