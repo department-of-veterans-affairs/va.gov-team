@@ -108,4 +108,4 @@ The goal of this document is:
   * One participant with hearing loss said it was frustrating to communicate over the phone.
   * One participant (with cognitive issues? Need to check) wanted written confirmation for appointments and conversations so they wouldn't have to worry about remembering things.
   * One participant stated that based on his previous experience, he would rather go be treated in the emergency room than try to call to make an appointment:
-  > "If I can't do it on the app, or via secure messaging, I'll just go in as an emergency and have my [needs] attended."
+  > "If I can't do it on the app, or via secure messaging, I'll just go in as an emergency and have my [needs] attended." - P2
