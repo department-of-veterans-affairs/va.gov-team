@@ -202,7 +202,7 @@ Next, I'm going to ask you to complete a task.
 
 [If user needs help:]
    - Send them a link: via preferred method (maybe email)
-   - Type in a URL: https://www.va.gov/find-locations/
+   - Type in a URL: [va.gov/find-locations](https://www.va.gov/find-locations)
    - Direct them to “main menu” [button reads: "menu collapsed"/"closed collapsed"] (failure likely)
     - What do you hear when you enter the menu, as you swipe right?
 
