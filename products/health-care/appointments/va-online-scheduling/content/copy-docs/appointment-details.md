@@ -28,7 +28,7 @@ TTY: 711
 
 Preferred type of appointment
 
-{in person, phone, or telehealth}
+{Office visit, Phone call, or Telehealth (through VA Video Connect)}
 
 Preferred date and time
 
@@ -48,7 +48,7 @@ Email: {Email address}
 
 Phone number: {phone number}
 
-Call {Best times to call "morning", "afternoon", or "evening"}
+Call {morning, afternoon, and/or evening}
 
 (Link) Cancel request
 
