@@ -1,5 +1,28 @@
 # Meetings with Lighthouse Re: Search Logic
 
+## 2021-06-08 Meeting with Lighthouse Re: Popularity Logic
+
+### Attendees
+- Marci McGuire, Decision Tools PM
+- John Hashimoto, Decision Tools PO
+- Zach Morel, FE Engineer
+- Mark Viterna, Lighthouse Team Engineer
+- Nichole Harris, Lighthouse PM
+
+### Notes
+- Mark will diagram out how the CMS data relates to the API and the Staging environment (which environments are talking to which).
+- Most relevant now  uses the popularity data to enhance the relevance results (weights/curates)
+- It's fine the way it is, but down the road, is there value in highlighting that the thing at the top is a top recommendation?
+- 1990 Per Mark - doesn't show 
+- Mark explained what that new "tags" column provides us the ability to add keywords ('gi bill', 'coe' -- checks that field first before it goes to title).
+- Nichole has a ticket to create a Slack alert when the VA changes the name of a PDF
+- They would like their sandbox environment to be very production-like that would let us test with their changes. Mark and Zach have since determined that it's a non-issue.
+- Test scripts - Marci will complete today (6/8/2021)
+- How are other searches being done on VA.gov?  Sam is using a library in his search.
+- Does Zach have any way to detect that the results being returned did not exactly match what the user entered?  Mark didn't see that feature out of the box, but it's open source, so they might be able do add that functionality.
+- Add to backlog to possibly add a feature that says "no match for X, did you mean Y?"
+- Add to backlog to possibly enhance so that results can be sorted by popularity.
+
 ## 2021-04-13 Meeting with Lighthouse Re: Weighting Logic
 
 ### Attendees
