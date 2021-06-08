@@ -14,6 +14,8 @@
 1. The uniqueness of a LoROTA UUID can be used to verify that the a user moving between modalities (i.e. text message to web) is the same user. 
 2. The ability to securely store and retrieve information using the UUID enables application to pass around access to sensitive information via open means (i.e. a URL parameter) without exposing the sensitive data (encrypted or not) to end users. 
 
+[Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_simple_Sequence.png)
+
 ## Example Use Cases:
 ### What is Clipboard?
 - Clipboard is a VA.gov product that a patients uses to supply information to a clinician before, during, or after a visit. The patient arrives at Clipboard via a URL that is included with a pre-visit or after-visit text message reminder. Currently, to use Clipboard, a user must login on VA.gov using a credential (ID.me, DSLogon, MHV). Once that user is logged in, Clipboard displays all open questionnaires that their providers would like them to complete, for all upcoming appointments (e.g. a mental health screening questionnaire, or “Any changes in medication since your last visit?“). 
