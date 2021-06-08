@@ -31,7 +31,7 @@ We have a handful of highly skilled individuals at OCTO-DE who are experts in a 
 - Inform how practice area roles should fit into the crew structure and OCTO / OCTO-DE organizational structure
 - Set expectations across the ecosystem about this role, and thusly reduce frustration, swirl, and burnout.
 
-### How this workshop intersects with and ideally compliments other efforts happening within OCTO
+## How this workshop intersects with and ideally compliments other efforts happening within OCTO
 There's work being done to stand up Community of Practice Leads within OCTO, and those individuals are meant to be people managers. The information from this workshop should act as background context to help those individuals best support the needs of practice-leadership-related roles, and craft an org structure that empowers those types of roles well to do the responsibilities that get defined.
 
 There's also work being done around the concept of practice area operations roles: folks to consult with VFS teams on their work in the given practice area, and to maintain our process and say "ok we've grown, let's rethink how we do xyz method or process or task." This will be incorporated into the _understanding the full gamut_ and _gaps_ parts of the workshop as things that current practice leads in some areas have already identified, and already have started ideating around.
@@ -40,7 +40,7 @@ There's also work being done around the concept of practice area operations role
 
 ## More detail on why this is a problem that needs solving
 
-**Practice leads are feeling overwhelmed and frustrated, and work that needs to be happening is going unattended**
+### Practice leads are feeling overwhelmed and frustrated, and work that needs to be happening is going unattended
 
 - They find themselves often in an arbitration position that they didn't ask for: a VFS team builds a thing that doesn't meet our standards, the collab cycle points it out, but escalates to the practice lead to be the ultimate enforcer if there's disagreement from the VFS side. These are often complex things on which they have no background, yet are expected to make recommendations.
 - They often get roped into taking on actual implementation work for VFS teams, as opposed to focusing on overall strategy and providing best practices guidance.
@@ -55,15 +55,16 @@ There's also work being done around the concept of practice area operations role
 - Many feel totally burned out from doing so much, and yet if you look at their big rocks there's no progress.
 - It's frustrating that it seems like OCTO-DE is still just building new stuff all over the place making the site more and more fragmented -- feels like feature bloat instead of strategic evolution. As practice leads, it feels like that delivery-first culture is at odds with what they're here to do, and it's frustrating. Thought the new crews concept would make this better, but it hasn't.
 
-**Collab cycle members are feeling overburdened and frustrated**
+### Collab cycle members are feeling overburdened and frustrated
 - Collab Cycle members often fill in the gap in implementation help when a VFS team doesn't have the appropriate skills, and when the practice lead doesn't have the bandwidth. It's taxing to have to either pick up that extra work because they want to be helpful, or alternatively explain that essentially there's no one to help and the team's out of luck.
 - Collab cycle members at times spend time and energy providing reviews of VFS work, when unbeknownst to them the practice lead has either already given a separate OK, or is still working with the VFS team on their strategy - this leads to wasted collab cycle member efforts and they have limited bandwidth already so can be pretty frustrating.
 
-**VFS team members are having to redo work sometimes or perform tasks they don't have the skillsets for**
+### VFS team members are having to redo work sometimes or perform tasks they don't have the skillsets for
 - Have to rework content after a wide variety of touchpoints: SWC, research findings, Stakeholder reviews, after collab cycle reviews. And this all happens before Staging Review.
 - It's a bit of a blocker to have just one person reviewing all the research plans
 - In the case of IA, there are no IA people on any VFS team, yet we ask them to do their own IA strategy and definition. They also don't have the global knowledge necessary to be able to really make well-informed IA decisions.
-- 
+
+---
 
 
 ### Other general notes from folks
