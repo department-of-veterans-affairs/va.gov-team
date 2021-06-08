@@ -168,7 +168,7 @@ Thank you for sharing that.
 
 ### Internet searching for a location
 
-During our time together, we'll mostly be focused on finding VA locations online. 
+In this session, we'll mostly be focused on finding locations of places online. 
 
 - Can you tell me of a recent time when you used the internet to find the location of a place that you needed to visit?
    - What devices or technology did you use? 
