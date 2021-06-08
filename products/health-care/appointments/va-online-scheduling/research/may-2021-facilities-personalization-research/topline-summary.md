@@ -97,7 +97,10 @@ The goal of this document is:
 ### Some participants had trouble navigating via the profile mobile menu.
 
 * One participant did not see it at all.
+
 * 2 participants struggled to find it but eventually did see it (need to confirm this via recordings; may remove this finding if it turns out only 1 person had this problem and only 1 person missed it).
+
+  > "I just didn't notice it there. You know, profile - my brain automatically went to make sure my information is correct." - P2
 
 ### In VAOS and profile, participants expected to be able to manage facilities in their list by geographic radius.
 
