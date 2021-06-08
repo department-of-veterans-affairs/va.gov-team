@@ -55,8 +55,11 @@ The goal of this document is:
 ### The connection between the facility options in VAOS and the facility list in profile was clear to most participants.
 
 * Most participants easily understood the relationship between the two lists.
+
   > "It gives me the updated list, I don't see the Seattle one anymore which I edited previously." - P2
+
 * At least one participant was not aware they had left the scheduling flow when they went to profile.
+
 * It made sense to participants when they saved a facility in VAOS, and then saw that same facility selected (and others deselected) in profile.
 
 ### Participants clearly understood they couldn't schedule online at every facility, but they didn't understand why. Some participants wanted to see this information earlier in the scheduling process.
@@ -77,10 +80,16 @@ The goal of this document is:
 
 ### All participants struggled to find their list of saved facilities in profile starting from the VA.gov homepage.
 
-* All participants stated they would go to the appt scheduling link on the homepage to see that list again. 
-  * This makes sense since that's where the test started.
-  * We can't be certain where they might have looked if they hadn't first seen VAOS.
+* We took participants to the VA.gov home page and asked them to find their list of saved facilities. All participants stated they would go to the appt scheduling link on the homepage to see that list again. 
+
+  * This makes sense since that's where the test started.  
+
+    > "I could see it my profile, but from what I've learned right now, I'd definitely go through there [schedule and manage health care appointments link]" - P2
+
+  * We can't be certain where they might have looked if they hadn't first seen VAOS. P2 stated they would have start on their profile, but
+
 * All participants had to be guided to the personalized menu; once exposed to options
+
   * Some participants expected to find facilities in My VA
   * Some participants expected to finding facilities in My Health
   * One participant (P10) expected to find their facility list in their profile
@@ -103,9 +112,13 @@ The goal of this document is:
 ### Almost all participants shared a negative perception of calling the VA.
 
 * Participants described calling as taking a long time and being inefficient. One participant described lining up multiple activities to do while on hold so they didn't get bored. Another stated:
+
  >"People die on hold when they call the VA. Not from anything but old age" - P1
+
 * 3 participants stated they prefer to use secure messaging over calling:
+
   * One participant with hearing loss said it was frustrating to communicate over the phone.
   * One participant (with cognitive issues? Need to check) wanted written confirmation for appointments and conversations so they wouldn't have to worry about remembering things.
   * One participant stated that based on his previous experience, he would rather go be treated in the emergency room than try to call to make an appointment:
+
   > "If I can't do it on the app, or via secure messaging, I'll just go in as an emergency and have my [needs] attended." - P2
