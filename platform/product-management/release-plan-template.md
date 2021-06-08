@@ -141,4 +141,4 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
-(Jeff T)
+
