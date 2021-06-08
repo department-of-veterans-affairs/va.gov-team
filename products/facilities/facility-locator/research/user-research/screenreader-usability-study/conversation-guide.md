@@ -103,10 +103,14 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
 
 ### VoiceOver iOS (Mobile and Tablet) using web app
 
+
+ - Have you shared your screen before on Zoom?
+[If no] Please open your iPhone settings. Once you’re there, go to your control center. Then, find the “Insert screen recording” button and double tap to activate it. When you’re done, please return back to the zoom app.
  - Within Zoom, I'd like you to find the "Share content" button and double tap it. You may have to swipe a number of times.
  - A menu should appear. Select the "Screen” option and double tap it. 
    - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to allow it”
  - Next you'll want to swipe to the "Start Broadcast" button and double tap that. You'll hear a counter "3, 2, 1" and the screen share should begin.
+ - Please swipe right until you hear the option to share your audio.
  - [If the screen is black]: We see a black screen right now. If you have screen curtain or other screen hiding tech running, please toggle it off if possible.
  - [If you don’t hear the screen reader]: We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your phone/desktop without that device so we can hear your screen reader? If not, that’s perfectly OK.
  - Return to your home screen and the screen share should begin.
@@ -132,11 +136,11 @@ Next up: [Warm-up questions](#warm-up-questions)
  - Swipe to “start now” and double tap it.
  - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to “display over other apps.” Swipe until you find “Zoom” in the list and double tap it. Continue swiping to find “Allow display over other apps” and confirm it is “off.” Double tap it to turn it on.
  - Return to your home screen and the screen share should begin.
- - If you need to stop sharing during the session, you can find the “stop share” button at any time at the bottom left corner of your screen (press your finger down and drag it to the bottom left corner, it will be by “share audio” and “announcements”). You can also open the zoom app and find the “stop share” button where the “share” butto
+
 
 [If successful:]
 
-OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
+OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing at any time during the session, you can go back into the zoom app and find the “stop share” button where the “share” button was originally located. [at the bottom left corner of your screen (press your finger down and drag it to the bottom left corner, it will be by “share audio” and “announcements”]
 
 Next up: [Warm-up questions](#warm-up-questions)
 
