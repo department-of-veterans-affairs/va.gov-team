@@ -27,8 +27,6 @@
 ### What is Check In Experience?
 - Check In Experience (near term MVP) is a VA.gov product that will allow a Veteran with an appointment to check in for that appointment from va.gov. 
 
-- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_Light_Sequence.png)
-
 ### How might Check In Experience use LoROTA Light?
 The Check In Experience workflow begins with the Veteran sending an SMS text message to VeText indicating that they are in the clinic and ready to check in. VeText sends a POST to LoROTA that includes the minimal amount of data required to check in to an appointment.  LoROTA encrypts and stores the data and returns a UUID to VeText. VeText sends a SMS response to the user containing a link to VA.gov Check In Experience that includes the LoROTA UUID. When the Veteran clicks the link, the VA.gov Check In Experience page loads, extracts the UUID from the URL paramaters, passes it to vets-api where a GET request is sent to LoROTA to validate the UUID. Upon validation, the data stored by LoROTA will be decrypted and returned to vets-api, and minimal appointment data will be displayed to the user, along with a `Check in` button.  When the `Check in` button is clicked and a successful response returned, a DELETE request is sent to LoROTA to ensure the UUID is invalidated and the data removed. 
 
