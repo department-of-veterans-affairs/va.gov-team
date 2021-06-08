@@ -349,21 +349,30 @@ We feel like this decision will be rather permanent, as much as the VSP is perma
 When building a mobile app, minimum OS compatibility must be selected. Supporting older operating systems allows more potential users to be able to run the app, but also may cause support issues as older hardware and unsupported operating systems need to be maintained.
 Supporting only newer operating systems reduces the maintenance complexity of the app, but also reduces the number of people who may install the app. A balance must be achieved here.
 
-### What did you decide on?
-- iOS: support version 12 (previos), 13 (current), and 14 (beta, to be released in October 2020)
+### What did you decide on? (August 2020)
+- iOS: support version 12 (previous), 13 (current), and 14 (beta, to be released in September 2020)
 - Android: support API version 26 and above
 
 ### Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (DEPO)
 
+### What did you decide on? (June 2021)
+- iOS: support version 13 (previous), 14 (current), and 15 (beta, to be released fall 2021)
+- iOS version 12 was dropped because 1. it's previous, 2. the Apple sign-in component we are using is only supporterd in 13+
+- Android: support API version 26 and above - no change
+
+### Document the people who agreed to the design decision (and their roles on the project)
+- Leanna Miller (Mobile product owner, USDS)
+- Travis Newby (Mobile Strategist, USDS)
+
 ### What was the deciding factor for your decision?
-We considered hardware and OS mantenance issues more heavily than a larger user base. By accepting more users with older OS's, we will also be accepting more maintenance issues. Also noted was that many folks keep older Android devices for web browsing only, so the GA stats may be skewed older.
+We considered hardware and OS mantenance issues more heavily than a larger user base. By accepting more users with older OS's, we will also be accepting more maintenance issues. Also noted was that many folks keep older Android devices for web browsing only, so the GA stats for VA.gov may be skewed older.
 
 ### What other options did you consider?
 We started with the thought of supporting API 21, which would cover most users from GA analysis.
 
 ### When, or under what conditions, would you recommend revisiting this design decision?
-This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS.
+This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS. In June, Apple generally releases the beta version of the next iOS. From June-August we will test with the new beta, and decide whether the "previous" OS version should be kept (default to drop, only keep supporting it for some special circumstance).
 
 ## Decision 7: Device Testing Matrix
 
