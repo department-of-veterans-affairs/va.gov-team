@@ -40,8 +40,8 @@ Thank you, we’re excited to talk with you today.
 I want to give you an idea of what this call will be like:
 
 - The entire session should take between an hour and a half and two hours.  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. Feel free to let me know if you need a break at any time.
-- We'll start the session with a couple warm up questions.
-- Then, we'll be visiting parts of the VA.gov website together.
+- We'll start the session with some technical set-up, then we'll go over a couple warm up questions.
+- And finally, we'll be visiting parts of the VA.gov website together.
 - Throughout the session, I may ask you about your thoughts and opinions about the pages or features but there are no right or wrong answers. We're not testing you. We're actually testing the website to see how we can make it better for all Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question.
 - In this session, I'll be having you share your Zoom screen so that I can follow along and we'll help you through that.
 - We may send you links to go to during the session. Do you have a communication preference? 
