@@ -25,8 +25,9 @@
 ## June 11
 * Help Desk
 * csv files ready for migration (planning)
+* Menus
+  * Parent items should all have _enabled_ menu items, even if they are in draft.
 * Accessibility checker (overview)
-
 
 ## June 4
 
