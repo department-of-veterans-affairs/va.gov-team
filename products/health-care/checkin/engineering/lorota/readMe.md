@@ -8,13 +8,13 @@
 
 - it receives a UUID, verifies that the UUID is authentic, and returns the decrypted information to the caller
 
+[Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_simple_Sequence.png)
+
 ## Why use LoROTA?
 ###  Applications that use LoROTA do so for two reasons: 
 
 1. The uniqueness of a LoROTA UUID can be used to verify that the a user moving between modalities (i.e. text message to web) is the same user. 
 2. The ability to securely store and retrieve information using the UUID enables application to pass around access to sensitive information via open means (i.e. a URL parameter) without exposing the sensitive data (encrypted or not) to end users. 
-
-[Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_simple_Sequence.png)
 
 ## Example Use Cases:
 ### What is Clipboard?
