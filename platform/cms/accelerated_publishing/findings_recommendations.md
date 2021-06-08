@@ -49,8 +49,9 @@ After detailed consideration of all options, our recommendation is based on thes
 
 | Action | Timeframe |
 | ------------- | ------------- |
-| Publicize recommendation and demonstrate Single Page Publishing (SPP) PoC to OCTO-DE | Week of May 31 |
-| Create ADR and Technical Architecture Documentation for SPP | First half of June |
+| Demonstrate Single Page Publishing (SPP) PoC to OCTO-DE | Week of May 31 |
+| Publicize Accelerated Publishing Findings & Recommendation | Week of June 7 |
+| Create Design Doc for SPP | First half of June |
 | Discovery for Static Asset Publishing Solution | First half of June |
 | SPP Technical Architecture Implementation with single Content Type | Second half of June |
 | Discovery/prototyping for VAMC Status Alert SPP | Second half of June |
