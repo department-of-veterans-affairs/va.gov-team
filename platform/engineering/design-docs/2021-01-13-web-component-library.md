@@ -333,5 +333,6 @@ index a75324e8a6..ae27e69e11 100644
 
 Date | Revisions Made | Author
 -----|----------------|--------
+June 08, 2021 | Update migration plan to reflect new deprecation strategy. | Brooks Johnson
 Feb 22, 2021 | Design doc approved. | Brooks Johnson
 Jan 13, 2021 | Initial draft begins. | Brooks Johnson
