@@ -199,9 +199,13 @@ Next, I'm going to ask you to complete a task.
    - Can you show me how you do that?
 - Follow up with: “How about on VA.gov, how might you find your nearest VA?”
    - Can you show me how you do that?
-- If user needs help: 
-   - Direct them to “visit link: Find VA location”
-   - Have them click
+
+[If user needs help:]
+   - Send them a link: via preferred method (maybe email)
+   - Type in a URL: https://www.va.gov/find-locations/
+   - Direct them to “main menu” [button reads: "menu collapsed"/"closed collapsed"] (failure likely)
+    - What do you hear when you enter the menu, as you swipe right?
+
 
 2. Let’s stop here for a moment. 
    - How was finding that link for you?
@@ -210,6 +214,9 @@ Next, I'm going to ask you to complete a task.
 _Things to look for:_
 - What screen reader shortcuts did they use? 
    - E.g. elements list, rotor, navigating by heading vs. navigating by tab
+   - Can Veterans successfully "Find a VA Location"?
+    - If not, what path did they try? 
+   - When activating the main menu [double tap "menu collapsed", then it will say ]
 
 ### Task 2
 #### Using ‘Find a VA location’ near current location
