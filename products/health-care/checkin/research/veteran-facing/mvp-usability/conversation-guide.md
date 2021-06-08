@@ -92,10 +92,10 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
 ## Post-Task Interview - 5 minutes
 * Now that you've seen the whole experience, what are your impressions of the experience?
 * what wording would you want the initial poster and webpages to use?
- * let us know you're here
- * check-in
- * something else
- * I don't have a preference
+  * let us know you're here
+  * check-in
+  * something else
+  * I don't have a preference
 * If you could change one thing about the experience, what would it be? 
 * Do you have any other thoughts on what we talked about today?
 * Any questions for me?
