@@ -32,9 +32,11 @@ _...uncover what responsibilities we need covered by the practice leadership spa
 - What does support look like for the current people in the practice lead roles to be able to execute on their visions / plans / initiatives?
 
 ### How this workshop intersects with and ideally compliments other efforts happening within OCTO
-There's work being done to stand up Community of Practice Leads within OCTO, and those individuals are meant to be people managers. Hopefully the information from this workshop will help those individuals best support the needs of practice leadership related roles, and craft an org structure that empowers them well to do the responsibilities that get defined.
+There's work being done to stand up Community of Practice Leads within OCTO, and those individuals are meant to be people managers. The information from this workshop should act as background context to help those individuals best support the needs of practice-leadership-related roles, and craft an org structure that empowers those types of roles well to do the responsibilities that get defined.
 
-There's also work being done to conceptualize practice area operations roles, folks to facilitate  Design practice and Research practice have been 
+There's also work being done around the concept of practice area operations roles: folks to consult with VFS teams on their work in the given practice area, and to maintain our process and say "ok we've grown, let's rethink how we do xyz method or process or task." This will be incorporated into the _understanding the full gamut_ and _gaps_ parts of the workshop as things that current practice leads in some areas have already identified, and already have started ideating around.
+
+
 
 ---
 
