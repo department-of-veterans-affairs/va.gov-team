@@ -34,7 +34,8 @@ Before we start, a few things I want to mention:
 Before we look at the prototype, I'd like to talk to you about notifications.
 
 - Tell me about any email or text notifications you've received recently.
-  - Did you choose to receive those?
+  - NOTE TO MODERATORS: BE PREPARED TO EXPLAIN WHAT A NOTIFICATION IS. 
+  - Did you choose to receive those notifications?
   - Can you tell me about a time you've needed to update settings for those notifications? 
     - Where do you go to manage them?
 - What kinds of notifications do you currently get from VA? 
