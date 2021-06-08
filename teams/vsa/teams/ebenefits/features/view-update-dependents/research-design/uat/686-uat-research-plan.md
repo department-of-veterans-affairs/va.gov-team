@@ -112,8 +112,8 @@ We're providing a two-week window due to potential difficulty in recruiting user
 - Please leave at least 30 minutes between sessions 
 
 ### Team members
+- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager, moderator
 - Candy Clark | cclark@governmentcio.com -- Moderator, designer
-- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
