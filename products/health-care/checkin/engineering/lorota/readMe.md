@@ -4,7 +4,7 @@
 
 ##  LoROTA does two things:  
 
-- it receives information, generates a UUID that represents the received information, encrypts and stores the information in a datastore and returns the UUID to the caller
+- it receives information, generates a UUID, encrypts and stores the information in a datastore using UUID as the key and returns the UUID to the caller
 
 - it receives a UUID, verifies that the UUID is authentic, and returns the decrypted information to the caller
 
