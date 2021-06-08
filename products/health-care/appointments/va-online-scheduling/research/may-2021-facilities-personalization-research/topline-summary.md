@@ -55,6 +55,7 @@ The goal of this document is:
 ### The connection between the facility options in VAOS and the facility list in profile was clear to most participants.
 
 * Most participants easily understood the relationship between the two lists.
+  > "It gives me the updated list, I don't see the Seattle one anymore which I edited previously." - P2
 * At least one participant was not aware they had left the scheduling flow when they went to profile.
 * It made sense to participants when they saved a facility in VAOS, and then saw that same facility selected (and others deselected) in profile.
 
@@ -101,7 +102,10 @@ The goal of this document is:
 
 ### Almost all participants shared a negative perception of calling the VA.
 
-* Participants described calling as taking a long time and being inefficient. One participant described lining up multiple activities to do while on hold so they didn't get bored. Another stated:"People die on hold when they call the VA. Not from anything but old age" - P1
-* 2 participants stated they prefer to use secure messaging over calling for accessibility reasons:
+* Participants described calling as taking a long time and being inefficient. One participant described lining up multiple activities to do while on hold so they didn't get bored. Another stated:
+ >"People die on hold when they call the VA. Not from anything but old age" - P1
+* 3 participants stated they prefer to use secure messaging over calling:
   * One participant with hearing loss said it was frustrating to communicate over the phone.
   * One participant (with cognitive issues? Need to check) wanted written confirmation for appointments and conversations so they wouldn't have to worry about remembering things.
+  * One participant stated that based on his previous experience, he would rather go be treated in the emergency room than try to call to make an appointment:
+  > "If I can't do it on the app, or via secure messaging, I'll just go in as an emergency and have my [needs] attended."
