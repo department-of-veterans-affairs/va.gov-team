@@ -9,18 +9,42 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
 You can help by sharing the materials uploaded to this communication toolkit:
-1. [Flyers](#flyers)
-2. [One-pager](#one-pager)
-3. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
-4. [Text for patient instructions](#text-for-patient-instructions)
-5. [Facebook posts](#facebook-posts)
-6. [Social media assets](#social-media-assets) (Facebook and Twitter images)
-7. [Other content](#other-content) (additional stories, news releases, podcasts, etc.) 
-8. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
+1. [PSA video and materials (social media, newsletter blurbs)](#psa-video-and-materials)
+2. [Feature story for VISN and VAMC websites](#feature-story-for-visn-and-vamc-websites)
+3. [Flyers](#flyers)
+4. [One-pager](#one-pager)
+5. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
+6. [Text for patient instructions](#text-for-patient-instructions)
+7. [Facebook posts](#facebook-posts)
+8. [Graphics for social media](#graphics-for-social-media)
+9. [Other content (additional articles, news releases, podcasts, etc.)](#other-content) 
+10. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
 
 Please feel free to distribute and share as appropriate. 
 
 **Questions?** Contact Jennifer.Deen@va.gov or Shakeria.Cohen@va.gov
+
+## PSA video and materials
+
+For Women Veteran’s Day in June 2021, you can spread the word about MVP at your facility by:
+
+1. Posting any of the three (3) Facebook posts and tweets from the below toolkit on/around June 12th (for Women Veteran’s Day). For any other day, there are five (5) additional Facebook posts and tweets in the toolkit that can be posted as your social media schedule permits.
+2. Using any of the two newsletter blurbs in your facility’s newsletters with VA employees and Veterans.
+ 
+- PSA social media toolkit
+- PSA newsletter blurbs
+- [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
+- [VAntage Point story about PSA](tbd)
+
+
+## Feature story for VISN and VAMC websites
+
+This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. We encourage all VISNs and VAMCs with an MVP clinic to post this feature story on their homepage at their earliest convenience. Sections of the story (in yellow) can be personalized to add your facility name.
+
+Check here to see if your facility has a MVP clinic or email Claudia Gutierrez at Claudia.Gutierrez@va.gov with any questions.
+
+Feature story for VISN and VAMC websites
+
 
 ## Flyers
 
@@ -71,7 +95,7 @@ If you copy/paste from the Word document, choose an image to accompany the post 
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx">12 Facebook posts (Word doc)</a>
 
-## Social media assets
+## Graphics for social media
 
 Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight womenVeterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
 
