@@ -62,7 +62,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
 
-1. Montrose 1 VA Mobile Clinic
+1. ~~Montrose 1 VA Mobile Clinic~~ Stakeholder responded that these mobile clinics are no longer operating
     - https://www.va.gov/find-locations/facility/vha_620QA
     - In dual state? **Yes**
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-1-va-mobile-clinic/
