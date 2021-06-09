@@ -299,7 +299,7 @@ Form 22-5490
 
 #### Step 3 of 8: Sponsor information
 
-{ If selected "Spouse or surviving spouse" in Applicant information, display the followig questions }
+{ If selected "Spouse or surviving spouse" in Applicant information, display the following questions }
 
 Is there a divorce or annulment pending with your sponsor? (*Required) { radio buttons }
 - Yes
