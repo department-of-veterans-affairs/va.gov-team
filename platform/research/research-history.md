@@ -35,6 +35,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+#### May 17 - May 25: Emergency Care Mashup
+*Facilities Team, Lead Researcher: Nick Osmanski*
+
+- NUmber of participants: 9 (8 Veterans, 1 caregiver)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup)
+- List of keywords: Veterans, facility, locator, emergency care, search, locations
 
 #### May 5-17: 10-10EZ Discovery 
 *Caregivers, Research Lead: Dené Gabaldón*
