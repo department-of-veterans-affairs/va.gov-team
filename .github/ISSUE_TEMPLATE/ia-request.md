@@ -7,15 +7,15 @@ assignees: mnorthuis, shiragoodman
 
 ---
 ## When to use this 
-After you've received a response to your Collaboration Cycle kickoff ticket that indicates an Information Architect Request is needed. Work with Platform Information Architecture experts to finalize the IA of your product for VA.gov.
+After you've received a response to your Collaboration Cycle kickoff ticket that indicates an Information Architect Request is needed. 
 
 ## Steps to complete an IA request
 
 - [ ] VFS Product Manager: Create this issue and provide all required information below.
-- [ ] VFS: Using the Slack Workflow (see [User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
 - [ ] Platform: Completes final IA feedback/recommendation.
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886).
-- [ ] VFS: Closes issue once all IA feedback/recommendations are implemented.
+- [ ] VFS: Close issue once all IA feedback/recommendations are implemented.
 
 
 ## Artifacts
