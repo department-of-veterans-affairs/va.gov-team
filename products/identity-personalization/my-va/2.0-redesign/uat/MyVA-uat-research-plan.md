@@ -122,11 +122,11 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **TBD**.
+We are looking to start sessions **June 22, 2021**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
- **TBD**
+ **It is currently ready - it will be behind a feature flag that we will turn on for users.**
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
@@ -136,11 +136,13 @@ We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 m
 
 FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these sessions**. Her availability is as follows:
 
-- **TBD**
+- **10-6 pm ET June 22, 23**
+- **12-6 pm ET June 24**
+- **10-6 pm ET June 25, 28, 29**
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-- **TBD **
+- **TBD, this will likely happen the morning of June 22, will update tomorrow. **
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
@@ -151,17 +153,23 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - **Project point of contact**: Tressa Furner or Ana Jakabcin
 - **Participant(s) for pilot test**: TBD
 - **Note-takers**: TBD
-- **Observers**: TBD
+- **Observers**: 
+- Tressa Furner (tressa.furner@adhocteam.us)
+- Samara Strauss (samara.strauss@va.gov)
+- Erik Hansen (erik@adhocteam.us)
+- Taylor Mitchell (will add email tomorrow)
+- Ana Jakabcin (ana@adhocteam.us)
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
 - Tressa Furner (tressa.furner@adhocteam.us)
 - Samara Strauss (samara.strauss@va.gov)
 - Erik Hansen (erik@adhocteam.us)
+- Taylor Mitchell (will add email tomorrow)
 - Ana Jakabcin (ana@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/2.0-redesign/README.md)
-- [Conversation Guide]()
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md)
 - [Notes]()
 - [Findings]()
