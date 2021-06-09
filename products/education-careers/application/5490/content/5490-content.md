@@ -80,7 +80,7 @@ __________________________________________
 
 Form 22-5490
 
-### Step 1 of 8: Applicant information 
+#### Step 1 of 8: Applicant information 
 
 You aren't required to fill in all fields, but we can review your application faster if you provide more information. 
 
@@ -121,7 +121,7 @@ __________________________________________
 
 Form 22-5490
 
-### Step 1 of 8: Applicant information 
+#### Step 1 of 8: Applicant information 
 
 ### Additional benefits
 
@@ -143,7 +143,7 @@ __________________________________________
 
 Form 22-5490
 
-### Step 1 of 8: Applicant information 
+#### Step 1 of 8: Applicant information 
 
 ### Applicant service
 
@@ -177,4 +177,36 @@ Add another service period { button }
 
 __________________________________________
 
+## Form Title: Apply for education benefits as an eligible dependent  
 
+Form 22-5490
+
+#### Step 2 of 8: Benefits eligibility 
+
+### Benefit selection
+
+IMPORTANT: If you qualify for both the Survivors’ and Dependents’ Educational Assistance (DEA, Chapter 35) program and the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship, Chapter 33), you need to pick one or the other. You must give up entitlement to the benefit that you’re not applying for. **You can’t retain eligibility for both programs at the same time.**
+
+Select the benefit that is the best match for you: (*Required) { radio buttons }
+- Survivors' and Dependents' Educational Assistance (DEA, Chapter 35) [Learn more](https://staging.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/)
+- The Fry Scholarship (Chapter 33) [Learn more](https://staging.va.gov/education/survivor-dependent-benefits/fry-scholarship/)
+
+{ If selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Spouse or surviving spouse" in Applicant information, display conditional blue bar }
+
+{ blue informational alert }
+
+I understand that I am choosing to receive DEA benefits instead of any Fry Scholarship benefits for which I am currently eligible. This includes Fry Scholarship benefits based on the death of the qualifying individual on this application, as well as, Fry Scholarship benefits based on the death of any other individuals not listed on this application.
+
+{ end blue informational alert }
+
+{ end selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Spouse or surviving spouse" in Applicant information }
+
+{ If selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information, display conditional blue bar }
+
+{ blue informational alert }
+
+I understand that I’m choosing to receive DEA benefits instead of any Fry Scholarship benefits based on the death of the qualifying individual on this application. I understand that even after this choice I’ll continue to be eligible for Fry Scholarship benefits if my eligibility is based on the death of the qualifying individual on this application, and they died before August 1, 2011.
+
+{ end blue informational alert }
+
+{ end selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information }
