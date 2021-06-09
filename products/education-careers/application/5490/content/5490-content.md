@@ -250,6 +250,29 @@ I understand that I’m choosing to receive Fry Scholarship benefits instead of 
 
 __________________________________________
 
+{ If selected "Child, stepchild, adopted child" in Applicant information, display the page below }
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 2 of 8: Benefits eligibility 
+
+### Benefits relinquishment
+
+While receiving DEA or FRY scholarship benefits you may not receive payments of Dependency and Indemnity Compensation (DIC) or Pension and you may not be claimed as a dependent in a Compensation claim. If you are unsure of this decision it is strongly encouraged you talk with a VA counselor.
+
+Effective date (*Required) { dropdown for Month and Day, text field for Year, prefill if present }
+
+{ yellow alert box }
+
+I certify that I understand the effects that this election to receive DEA or FRY scholarship benefits will have on my eligibility for DIC payments, and I elect to receive the selected scholarship benefit on the above date.
+
+{ end yellow alert box } 
+
+[ Back | Continue ] { buttons }   
+__________________________________________
+
 ## Form Title: Apply for education benefits as an eligible dependent  
 
 Form 22-5490
@@ -269,3 +292,93 @@ Before this application, have you ever applied for or received any of the follow
 [ Back | Continue ] { buttons }   
 
 __________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 3 of 8: Sponsor information
+
+{ If selected "Spouse or surviving spouse" in Applicant information, display the followig questions }
+
+Is there a divorce or annulment pending with your sponsor? (*Required) { radio buttons }
+- Yes
+- No
+
+If you're the surviving spouse, did you get remarried? { radio buttons }
+- Yes
+- No
+
+    { If yes to "did you get remarried", display conditional blue bar }
+
+    Date you got remarried (*Required) { dropdown for Month and Day, text field for Year }
+
+    { end "If yes to 'did you get remarried" }
+    
+{ end 'If selected "Spouse or surviving spouse' }
+
+**Name of Sponsor**
+
+- Sponsor's first name (*Required) { text field }
+- Sponsor's middle name { text field }
+- Sponsor's last name (*Required) { text field }
+- Sponsor's suffix { dropdown }
+- Sponsor's Social Security Number (*Required) { text field }
+   - I don't know my sponsor's Social Security Number { checkbox }
+         
+         { If "I don't know my sponsor's Social Security Number" is checked, "*Required" for "Social Security Number" and display blue conditional bar }   
+         Sponsor's VA number (*Required) { text box}
+         { end checked "I don't know my sponsor's Social Security Number }
+         
+ - Sponsor's date of birth (*Required) { dropdown for Month and Day, text field for Year }
+ - Do any of these situations apply to your sponsor? { radio buttons, display conditional blue bar for any selection }
+    - Died while serving on active duty or duty other than active duty
+    - Died from a service-connected disability while a member of the Selected Reserve
+    - Listed as MIA or POW
+
+{ If either "Died..." option is selected, display conditional blue bar }
+
+Sponsor's date of death { dropdown for Month and Day, text field for Year }
+
+{ end If "Died..." option is selected }
+
+{ If "Listed as MIA or POW" is selected, display conditional blue bar }
+
+Sponsor's date listed as MIA or POW { dropdown for Month and Day, text field for Year }
+
+{ end if "Listed as MIA or POW" }
+         
+[ Back | Continue ] { buttons }   
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 3 of 8: Sponsor information 
+
+### Sponsor service
+
+- Sponsor's branch of service { text field }
+- Is your sponsor on active duty? { radio buttons }
+   - Yes
+   - No
+- Do you or your sponsor have an outstanding felony and/or warrant?
+   - Yes
+   - No
+
+[ Back | Continue ] { buttons }   
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 4 of 8: Education history
+
+- What's your current high school status? { dropdown }
+- Do you have any training after high school? { radio buttons }
+   - Yes
+   - No
