@@ -10,5 +10,7 @@ This page contains a list of different parts of the front end and how it could b
 * Resources (Q/A)
 * Homepage Banner
 * Images/Videos (Assets)
-* Facility Locations page (ie: https://staging.va.gov/minneapolis-health-care/locations/)
 * Alerts: `src/site/includes/alerts.drupal.liquid` which are included from `health_care_region_locations_page.drupal.liquid`
+
+Non-Drupal page:
+* Facility Locations page (ie: https://staging.va.gov/minneapolis-health-care/locations/)
