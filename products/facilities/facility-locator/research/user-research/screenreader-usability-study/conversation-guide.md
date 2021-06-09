@@ -330,3 +330,5 @@ I'd like to pause here for a moment. I didn't quite make out what happened there
 * [Task 2](#task-2)
 * [Task 3](#task-3)
 * [Post-task Interview](#post-task-interview)
+
+Reference: [Inclusive Research Guidelines v2.0](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)
