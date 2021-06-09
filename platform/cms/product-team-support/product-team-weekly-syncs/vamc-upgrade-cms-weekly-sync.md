@@ -25,6 +25,9 @@
 ## June 11
 * Help Desk
 * csv files ready for migration (planning)
+  * Recommendation to do them in bigger batches
+  * Recommendation for CMS to handle the data clean up
+  * How would these recommendations affect VAMC Upgrade team's workflow?
 * Menus
   * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
 * Accessibility checker (overview)
