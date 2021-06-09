@@ -37,8 +37,6 @@
 
 ## June 8 
 
-[kevin may be out for this]
-
 
 ## June 1
 
