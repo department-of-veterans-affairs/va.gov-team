@@ -29,6 +29,7 @@
 * Review helpdesk issues that have arisen
 * [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
 * Jane has new Vet Center user template ready to send to Jessica
+* Redirects for MVP Vet Centers - confirming urls
 
 ## June 2
 
