@@ -747,6 +747,10 @@ If there are no fixes or anything needed from UAT, and if all analytics tracking
 
 - Feel free to pull in tickets as time allows and people have bandwidth
 
+**BE**
+
+- Backend work for setting up the contact info change email #25360
+
 ### Backend work
 
 - Lihan to continue supporting the identity team
