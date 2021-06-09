@@ -10,3 +10,4 @@ This page contains a list of different parts of the front end and how it could b
 * Resources (Q/A)
 * Homepage Banner
 * Images/Videos (Assets)
+* Locations page (ie: https://staging.va.gov/minneapolis-health-care/locations/)
