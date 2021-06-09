@@ -30,6 +30,9 @@
 * Menus
   * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
 * Accessibility checker (overview)
+* Mission Act - Website depricated as of Sept-30.  All Link on past and future need to be replaced.  
+  * Suggestions? Input from VHA.
+
 
 ## June 4
 
