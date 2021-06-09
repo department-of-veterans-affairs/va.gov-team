@@ -29,15 +29,19 @@
 ### Vet Centers
 
 MVP
+* Any launch updates?
 * Review helpdesk issues that have arisen
+  * Adding services has been the biggest pain point (select lists for Sections) 
 * [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
 * Redirects for MVP Vet Centers - confirming urls
+* Post-mortem
 
-District 5
+District 5 batch
 * Jane has new Vet Center user template ready to send to Jessica
 
 ### VAMC
 
+* Type of Care epic
 
 
 ## June 2
