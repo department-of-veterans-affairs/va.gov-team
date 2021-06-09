@@ -26,7 +26,7 @@ assignees: andreahewitt-odd, Shiragoodman
 - Link to the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository
 -  Staging test-user information (if applicable)
 -  Link to content brief (if applicable)
--  Link to or specify the artifact that represents this project's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
+-  Link to or attach your project's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
 -  Link to the Github ticket that shows the work for creating and/or updating any relevant static content pages and entry points for this project
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
