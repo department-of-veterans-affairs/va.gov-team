@@ -164,7 +164,7 @@ _For [Android troubleshooting, try here: ](https://support.zoom.us/hc/en-us/arti
 
 Thank you for working through that with us.
 
-We can get started with some questions. So, as a website designer and researcher my goal is to learn how best to improve our webpages when used with screen readers and I'll be honest, this is new territory for me. So, I may ask some dumb questions at times. Please feel free to stop and correct me at any time. 
+We can get started with some questions. As I mentioned, I'm a website designer and researcher my goal is to learn how best to improve our webpages when used with screen readers but I'll be honest, this is new territory for me. So, I may ask some dumb questions at times. Please feel free to stop and correct me at any time. I'm here to learn how to do a better job for you. So, that's a little about me.
 
 - Can you tell me briefly about yourself? Anything you’d like me to know is fine.
 - Can you describe to me how you use your screen reader?
