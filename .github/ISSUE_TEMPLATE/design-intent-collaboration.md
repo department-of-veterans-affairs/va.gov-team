@@ -9,7 +9,7 @@ assignees: shiragoodman, allison0034
 
 ## Steps to complete Design Intent Collaboration
 - [ ] VFS Product Manager or Designer: Create this issue and fill in your team and feature name in the title. 
-- [ ] VFS: Using the Slack Workflow (see [User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support.
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support.
 - [ ] Platform: Schedule meeting with Platform reviewers and VFS team attendees (listed below).
 - [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below.
 - [ ] Platform: After meeting is held, create feedback tickets and link to the Design Intent ticket (if no feedback, please comment stating that).
@@ -21,17 +21,12 @@ assignees: shiragoodman, allison0034
 ### Has your product been reviewed by the OCTO-DE Design Lead?
 - [ ] Yes
 - [ ] No
-### Has your team met with the Sitewide Content team for content support?
-- [ ] Yes*
-- [ ] No
 
-\*If yes, please be sure to include any relevant content artifacts.
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flow
-- Content brief or artifacts (if available)
 - Any other artifacts you have so far
 
 ## Meeting attendees from requesting team
