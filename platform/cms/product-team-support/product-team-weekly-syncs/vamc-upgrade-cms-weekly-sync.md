@@ -25,8 +25,6 @@
 ## June 11
 * Help Desk
 * csv files ready for migration (planning)
-  * Recommendation to batch all remaining data instead of piecemeal
-  * Recommendation that the CMS team do the data cleanup needed
 * Menus
   * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
 * Accessibility checker (overview)
