@@ -101,7 +101,15 @@ SKIP TO [Screen sharing](#screen-sharing) SET UP
 
 At this point [I'd like you to go back to Zoom] I'm going to have you share your Zoom screen so that I can follow along with you. 
 
-### VoiceOver iOS (Mobile and Tablet) using web app
+### Desktop
+
+- Tab to the “Screen share” button and activate it with your space key.
+- Tab or navigate past the “basic, advanced, and files” tab menu items and find “Share entire screen.” It should be the first item in the list of windows or - applications to share. Use your space key to select it.
+- Tab to “Share sound” and use your space key to select it. This will let us hear your screen reader.
+- Tab to “Share” and use your space key to select it to start the screen share.
+
+
+### VoiceOver iOS (Mobile and Tablet) 
 
 
  - Have you shared your screen before on Zoom?
