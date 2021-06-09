@@ -230,11 +230,11 @@ View the [Conversation Guide](https://github.com/department-of-veterans-affairs/
 
 ### Interview transcripts
 
-[Convert to .md] > needed
+[Link to transcripts repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/notes)
 
 ### Tools used for Synthesis
 
-[Participant findings spreadsheet] > needed
+[Participant findings spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/notes)
 
 ### Pages and applications used
 
