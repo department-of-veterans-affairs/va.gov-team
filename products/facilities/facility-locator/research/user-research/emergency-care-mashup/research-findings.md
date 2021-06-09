@@ -140,23 +140,51 @@ b) What information do Veterans need/want for community emergency care (in VA ne
 
 c) Can Veterans distinguish between these location types in a single list?
 
-> [P4] "I don't know why two of the results have [blue info alert] and the other two don't...I just realized the bottom two are VA."
+- It was unclear if most participants were able to quickly distinguish between VA locations and community partners in the results list.
 
-> [P11] "It also says that the top two are in-network...if I were too far from a VA hospital then I could go to one of [these]."
+  - Some participants did note the distinction, and based it on the presence of the blue info alert for community partners, and the presence of "VA" in the title of VA facilities.
+
+    > [P4] "I don't know why two of the results have [blue info alert] and the other two don't...I just realized the bottom two are VA."
+    
+    > [P11] "It also says that the top two are in-network...if I were too far from a VA hospital then I could go to one of [these]."
 
 d) Do Veterans understand that there are more locations available, than are present in the "in-network" results list?
 
-> [P4] "It's weird there is only an in-network emergency care and not also out-of-network emergency care"
+- Most participants understood that search results only included in-network locations.
+
+  - Most participants seemed to realize that there were more locations available, and most understood “in-network” to mean only VA and VA partners.
+
+    > [P2] "If I am on a VA website, it is anything that is covered by the government...not including third party facilities"
+
+  - One participant expressed an explicit desire to have out-of-network results in the search list.
+
+    > [P4] "It's weird there is only an in-network emergency care and not also out-of-network emergency care"
 
 e) Would Veterans click to learn more about community emergency care benefits?
 
-> [P2] "...[referencing info alert] seems more like an information section than an alert...seem[s] like somewhere you can go to get more info."
+- Most participants did not click to learn more about community care benefits.
+
+  - Most participants noticed the alert, but either did not intuitively recognize it as access to additional information, or were simply unwilling to click it during the demo. Only two participants clicked on the blue info alert present in search results.
+
+    > [P1] "How would I learn more about my benefits and the types of care that a facility offers...I don't see a way to do that"
+    
+    > [P2] "...[referencing info alert] seems more like an information section...seem[s] like somewhere you can go to get more info."
+    
+    > [P6] "I would assume if I clicked here...any of those would [point] me towards the facility...looks easy to click the benefit link"
+    
+    > [P10] "I just thought it was information, nothing that would give me [more] information"
 
 f) What information does a Veteran find helpful in preparing to go to a emergency care facility?
 
-> [P6] "...services offered to by hyper linked on each one...I would like a link here."
+- When preparing to go to an emergency facility, participants wanted a clear understanding of services offered, clearer information about benefits, and distance to the closest location.
 
-> [P4] "I would do a quick search for review...I would rather go to a civilian hospital...normally better care."
+  - Participants expressed similar desires to the question, “What information do Veterans need/want from the Facility Locator search results when seeking emergency care?” 
+
+  - Two participants  expressed the desire to see the review of a facility before going there, noting that they had had better experiences at local community partners.
+
+    > [P4] "I would do a quick search for review...I would rather go to a civilian hospital...normally better care."
+    
+    > [P5] "I would suggest having reviews of the facilities...maybe pros and cons. VA emergency care is an oxymoron, give me a break."
 
 ### Hypotheses Details
 
