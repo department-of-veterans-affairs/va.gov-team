@@ -27,9 +27,11 @@ Specific issues VSA engineers want addressed
 It was determined in the VSA engineering meeting on May 25th that they want to be met with on a sprint team by sprint team basis to give feedback on the current state of communication.
 We will create a schedule of meetings as well as document findings from those meetings.
 
-> Goal: We want to hear first hand what the current state of communication is from VSP engineer’s perspective. We want to truly understand what the pain points are and how those pain points affect VSA engineers on a daily basis. Feedback from these conversations will be collected in a public document and shared with the organization.
+## Phase 2 - Meet with VSP engineers
 
-TBD
+> Goal: We want to hear first hand what the current state of communication is from a VSP engineer’s perspective. We want to truly understand what the pain points are and how those pain points affect VSP engineers on a daily basis stemming from communication. Feedback from these conversations will be collected in a public document and shared with the organization.
+
+We will meet with VSP engineering as a whole to pitch this idea and asses how they would like this feedback to be gathered from them, wether by 1 on 1s with each engineer, meeting with sprint teams individually, or meeting with the full group.
 
 ## Phase 3 -  Correlate feedback and develop solutions
 
