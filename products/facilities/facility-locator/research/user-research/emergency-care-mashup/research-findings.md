@@ -190,78 +190,137 @@ f) What information does a Veteran find helpful in preparing to go to a emergenc
 
 i) Veterans want to search for a single list, containing both VA and community emergency care options.
 
-> [P6] "I don't know why I would exclude a VA facility...I don't know if I would go to the last one, because to get this info I would just click all in-network."
+- **True:** most (8/9) participants seemed to choose "All in-network" before other options, and prefered a list that was inclusive of as many results as possible. Some noted the usefulness of the VA and VA community partners distinction. 
 
-> [P2] "It seems like it's redundant, but for a specific purpose - you may not get many results if you chose third [in-network community care] option."
+  > [P10] "[looking at results] That's pretty good. I see in network stuff...then you get to the centers with limited services and hours like clinics here. It puts all the information right here, that is good."
+
+- Two participants felt that "Service type" options were redundant
+
+  > [P6] "I don't know why I would exclude a VA facility...I don't know if I would go to the last one, because to get this info I would just click all in-network."
+  
+  > [P2] "It seems like it's redundant, but for a specific purpose - you may not get many results if you chose third [in-network community care] option."
 
 ii) Veterans understand they can go to any local emergency room, not just those in the results list.
 
-> [P2] "...ER is still covered 100%...even if I'm not able to get to the VA."
+- **False:** most participants either didn’t notice, or did not feel the need to point the yellow emergency alert that appears with emergency care search results, which is currently the only thing that indicates that Veterans should go to any available emergency room. Only two participants pointed out the alert.
+
+  > [P6] "[Pointing out alert] Common sense if you have an emergency, call 911."
+  
+  > [P5] "[referencing yellow alert]...it's fine, but the blue [benefits alert] caught my eye faster."
 
 iii) Veterans understand that the Facility Locator list contains "in-network" VA and community care facilities, and is not comprehensive: it may not represent all emergency options available to them.
 
-> [P2]"If I am on a VA website, it is anything that is covered by the government...not including third party facilities."
+- **True:** Most participants recognized "in-network" as meaning VA and VA community partners, and did not necessarily expect out-of-network locations in the search results.
 
-> [P4] "I would assume that all results...would be in-network."
+  > [P2]"If I am on a VA website, it is anything that is covered by the government...not including third party facilities."
+ 
+  > [P4] "I would assume that all results...would be in-network." & "If I'm on a VA website, I would want everything to be in-network unless I choose otherwise."
+
+- Two participants expressed confusion about the specific phrase “in-network”
+
+  > [P5]"Does in-network mean Medicare and how does the VA dovetail?"
+  
+  > [P14] "I would probably be a little confused...Is it any VA facility choice program that will work with the VA?”
 
 iv) The facility type label "In-network emergency care" does not introduce confusion about other facility types.
 
-- Participants understood the specific phrase "in-network" but juxtaposed with other "Facility type" options, it introduced confusion.
+- **False:** this label did introduce confusion. When juxtaposed with the other ‘Facility type’ dropdown options, which do not have the “in-network” label, some participants felt it was out of place, and suggested changing it to be similar to other options.
 
-> [P4] "I would change in-network to ER."
+  > [P4] "I would change in-network [emergency care] to ER."
+ 
+  > [P5] "...in-network emergency care, to me that is a stumbling block...I would want to hit emergency care, then have the explanation.”
 
-> [P5] "Does in-network mean Medicare and how does the VA dovetail?", "To me that was confusing...I don't know what that means. Does that only mean VA or you can go to the rural clinic but you have to call? That is not clear at all," "...in-network emergency care, to me that is a stumbling block...I would want to hit emergency care, then have the explanation."
+- The presence of “in-network” next to only one option under ‘Facility type’, gave one participant the impression that the options that did not have this label, were not necessarily VA or VA partners.
 
-> [P14] "I would probably be a little confused. Is it all together? Is it any VA facility choice program that will work with the VA?"
+  > [P11] "[The ‘Urgent care’ option] would be any hospital, but they may or may not be VA affiliated."
 
 v) Veterans understand how to learn more about [community care emergency benefit](https://www.va.gov/COMMUNITYCARE/programs/veterans/Emergency_Care.asp)
 
-> [P1] "How would I learn more about my benefits and the types of care that a facility offers...I don't see a way to do that", ""I would just call...the patient advocate. They know what is offered at the center."
+- **False:** most participants did not intuitively recognize the blue info alert as access to additional information, or were simply unwilling to click it during the demo.
 
-> [P2] "...it seem[s] like somewhere you can go to get more info."
+  > [P1] "How would I learn more about my benefits and the types of care that a facility offers...I don't see a way to do that."
 
-> [P10] "I would call the number to talk to the person...I just thought it [blue alert] was information, nothing that would give me [more] information."
+- One participant thought the alert was simply a notice associated with community partner search results.
 
-> [P11] "The blue info notice means I can go there...they will accept Veteran's insurance."
+  > [P11] "The blue info notice means I can go there...they will accept Veteran's insurance."
+
+- One of the two participants who clicked on the blue info alert, did not recognize it as clickable at first. After clicking, she did feel that the information on the benefits page was useful, and noted the “Notify VA Immediately” option as important.
+
+  > [P10] "I just thought it was information, nothing that would give me [more] information…[and after clicking] ...It does have Vet information...that is perfect.”
+  
+  > [P10] "Some veterans don't know how fast the VA needs to know so it will be covered."
 
 vi) Participants will understand what to do in case of emergency
 
-> [P2] "...ER is still covered 100%...even if I'm not able to get to the VA."
+- **Mostly false:** participants seemed to know this from previous experience, but not from anything in the search results that explicitly indicates this. Only two participants pointed out the emergency alert, but most expressed previous experience with emergency procedures.
 
-> [P4] "But if I go to a non-VA center then I'm supposed to call ahead to get approval...unless it's life or death."
-
-> [P6] "Common sense if you have an emergency, call 911."
-
-> [P14] "I can always take him to the hospital, but there are issues..."
+  > [P4] "But if I go to a non-VA center then I'm supposed to call ahead to get approval...unless it's life or death."
+  
+  > [P2] "...ER is still covered 100%...even if I'm not able to get to the VA."
+  
+  > [P11] "I have a high disability rating so almost everything is covered."
+  
+  > [P5] "There are serious issues getting healthcare from the VAs under emergency circumstances [as a result of visiting any location]"
+  
+  > [P14] "I can always take him to the hospital, but there are issues..."
 
 ## Additional Insights
 
-- Most partictipant's first choice during the open-ended search task was "Urgent Care" under the "Facility type" dropdown (5/9)
-  - "VA Health" under the "Facility type" dropdown was the second most picked first-choice option (3/9)
+- Most participant's first choice during the open-ended search task was "Urgent Care" under the "Facility type" dropdown (5/9 participants)
+
+  - "VA Health" under the "Facility type" dropdown was the second most picked first-choice option (3/9 participants)
 
 - For most participants, the main distinction between "urgent" and "emergency" seemed to be non-life threatening out-patient emergencies, vs potentially life-threatening in-patient emergencies.
-  
-  > [P1] "Urgent care means you need care in that moment, but it's not a matter of life or death. Emergency care is a matter of life or death."
 
+  > [P1] "Urgent care means you need care in that moment, but it's not a matter of life or death. Emergency care is a matter of life or death."
+  
   > [P2] "I think the fine line difference is whether it's life or death."
 
-- Very few participants pointed out the yellow emergency alert, and one participant stated that she noticed the blue info alert in the search results before the yellow.
+- Of the participants that pointed out the yellow emergency alert, one stated that the blue info alert in the search results caught her attention first.
 
-  > [P5] "[referecing yellow alert]...it's fine, but the blue caught my eye faster."
+  > [P5] "...it's fine, but the blue caught my eye faster."
 
 ## Recommendations
 
 [Initial recommendations - may change]
 
 - Change "In-network emergency care" under Facility type, to "Emergency care"
-  - Veterans can choose VA or community partners under "Service type"
-- Make the blue info link more recognizable as a call to action
-  - Change text to "Learn more about your benefits"
-- Change the yellow emergency alert to blue
+
+  - Veterans can still choose explicitly in-network options under the ‘Service type’ dropdown, so this should remove any confusion about the difference between this and other ‘Facility type’ options.
+
+- Consider revising the language of the benefits info alert
+
+  - Most participants did not recognize the link as access to additional information, so using more explicit language may make it more recognizable as a call to action (Ex: "View emergency benefit information")
+
+- Consider changing the color & style of the emergency alert
+
+  - Very few participants seemed to notice the yellow emergency alert. Changing its color, and/or updating the style of the alert component used in this instance, may increase engagement.
 
 ## Next Steps
 
-- Update design spec with recommendations
+- Collaborate with Content team
+
+  - Work with the Content team to determine best language for benefits alert
+
+- UX update 
+
+  - Change “In-network emergency care” to “Emergency care” in dropdown menu
+  
+  - Update content of benefits alert for both Emergency and Urgent care search results
+  
+  - Use Design System to choose more effective emergency alert component style
+  
+  - Initiate collab cycle and Platform Team review for any changes that will be reflected at component level	
+
+- Engineering
+
+  - Back-end integration w/PPMS
+  
+  - Front-end implementation of design
+
+- Business
+
+  - Finalize key success metrics
 
 ## Appendix
 ### Conversation guide
