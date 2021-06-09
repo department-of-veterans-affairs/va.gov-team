@@ -131,7 +131,7 @@ Are you getting benefits from the U.S. Government as a **civilian employee** dur
 
 { If yes, display conditional blue bar }
 
-What is the source of thes funds? (*Required) { text field }
+What is the source of these funds? (*Required) { text field }
 
 { end conditional blue bar }
 
@@ -378,7 +378,275 @@ Form 22-5490
 
 #### Step 4 of 8: Education history
 
-- What's your current high school status? { dropdown }
+- What's your current high school status? { dropdown, display conditional blue bar based on selection }
+
+    { If "Graduated from high school" is selected, display conditional blue bar }
+    When did you earn your high school diploma? { dropdown for Month, text field for Year }
+    { end If "Graduated from high school" is selected }
+    
+    { If "Discontinued or stopped high school" is selected, display conditional blue bar }
+    - Name of high school { text field }
+    - City { text field }
+    - State { dropdown }
+    - From { dropdown for Month and Day, text field for Year }
+    - To { dropdown for Month and Day, text field for Year }
+    { end If "Discontinued or stopped high school" is selected }
+    
+    { If "Expect to graduate from high school" is selected, display conditional blue bar }
+    When do you expect to earn your high school diploma? { dropdown for Month, text field for Year }
+    { end If "Expect to graduate from high school" is selected }
+    
+{ If "Never attended high school" is selected, do NOT show the following question }
+
 - Do you have any training after high school? { radio buttons }
    - Yes
    - No
+
+{ end If "Never attended high school" is selected }
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 5 of 8: Employment history
+
+Have you ever held a license of journeyman rating (for example, as a contractor or plumber) to practice a profession? { radio buttons }
+  - Yes
+  - No
+
+{ If yes, display conditional blue bar }
+
+- Main job { text field }
+- Number of months worked { text field }
+- Licenses or rating { text field }
+
+Add another Employment Period { button }
+
+    { If "Add another Employment Period" is clicked, display following content below initial fields, but ABOVE the "Add another Employment Period" button }
+
+    - Main job { text field }
+    - Number of months worked { text field }
+    - Licenses or rating { text field }
+
+    Remove { button }
+
+    { end "Add another service period" }
+
+{ end If yes }
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 6 of 8: School selection
+
+- Name of school, university or training facility you want to attend { text field }
+- Type of education or training { dropdown }
+
+    { If "College, university, or other educational program, including online courses" or "Apprenticeship or on-the-job training" is selected, display conditional blue bar }
+    **Address**
+    - Country { dropdown, USA selected by default }
+    - Street { text field }
+    - Street address line 2 { text field }
+    - City { text field } 
+    - State { dropdown }
+    - Postal Code { text field }
+    { end If "College, university, or other educational program, including online courses" or "Apprenticeship or on-the-job training" is selected }
+    
+- Education or career goal (For example, “I want to get a bachelor’s degree in criminal justice” or “I want to get an HVAC technician certificate” or “I want to become a police officer.”) { text field }
+- The date your training began or will begin { dropdown for Month and Day, text field for Year }
+- Are you looking for Special Restorative Training because of a disability? Special Restorative Training could include speech and voice therapy, language retraining, lip reading, or Braille reading and writing. { radio buttons }
+   - Yes
+   - No
+- Are you looking for Special Vocational Training or specialized courses because a disability prevents you from pursuing an education program? { radio buttons }
+   - Yes
+   - No
+- In what state do you plan on living while taking courses or training? { text field }
+- Would you like to get vocational and educational counseling? { radio buttons }
+    - Yes
+    - No  
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 7 of 8: Personal information
+
+- How should we contact you if we have questions about your application? { radio buttons }
+   - Mail
+   - Email
+   - Home phone number
+   - Mobile phone number
+
+**Address**
+
+- Country (*Required) { dropdown, prefill with United States }
+- Street (*Required) { text field }
+- Street address line 2 { text field }
+- City (*Required) { text field }
+- State (*Required) { dropdown }
+- Postal code (*Required) { text field }
+
+**Other contact information**
+Please enter as much contact information as possible so we can get in touch with you, if necessary.
+
+- Email address (*Required) { text field }
+- Re-enter email address (*Required) { text field }
+- Home phone number { text field, required if "Home phone number" is checked for "How should we contact you if we have questions about your application?" }
+- Mobile phone number { text field, required if "Mobile phone number" is checked for "How should we contact you if we have questions about your application?" }
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 7 of 8: Personal information
+
+### Secondary contact
+This person should know where you can be reached at all times.
+
+- Name { text field }
+- Telephone number { text field }
+   - Address for secondary contact is the same as mine { checkbox }
+         
+{ If "Address for secondary contact is the same as mine" is checked, remove the following }   
+
+**Address**
+- Country { dropdown, prefill with United States }
+- Street { text field }
+- Street address line 2 { text field }
+- City { text field }
+- State { dropdown }
+- Postal code { text field }
+
+{ end if "Address for secondary contact is the same as mine" is checked }
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 7 of 8: Personal information
+
+#### Direct deposit { sub-head }  
+
+{ If bank account is on file }
+
+This is the bank account information we have on file for you.  This is where we'll send your payments.
+
+**Payment information**
+* **{ Checking/Savings } Account** { prefill if present } 
+* Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+* Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
+
+[ Update account information ] { button }
+
+
+{ If no bank account on file }
+
+We make payments only through direct deposit, also called electronic funds transfer (EFT).  
+
+- Account type (*Required) { radio buttons }
+  - Checking
+  - Savings
+
+{ bank check visual }
+
+-	Bank's 9-digit routing number (*Required) { text field }
+-	Bank account number (*Required) { text field }
+
+Save { button }
+
+{ end if no bank account on file }
+
+I don't want to use direct deposit { check box, if selected direct deposit information disappears }  
+
+**Note:** Any updates you make here to your bank account information won’t change existing accounts you’ve already set up for your VA education or health care benefits.  
+
+{ help-link } What if I don’t have a bank account?  { end help-link }
+
+{ help-text} 
+
+The [Veterans Benefits Banking Program (VBBP)](https://veteransbenefitsbanking.org/) provides a list of Veteran-friendly banks and credit unions. They’ll work with you to set up an account, or help you qualify for an account, so you can use direct deposit. 
+
+To get started, call one of the participating banks or credit unions listed on the VBBP website. Be sure to mention the Veterans Benefits Banking Program. 
+
+Note: The Department of the Treasury requires us to make electronic payments. If you don’t want to use direct deposit, you’ll need to call the Department of the Treasury at 888-224-2950. Ask to talk with a representative who handles waiver requests. They can answer any questions or concerns you may have.
+
+{ collapse help content link }
+
+{ end help-text}
+
+[ Back | Continue ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 8 of 8: Review application
+
+- Applicant information
+- Benefits eligibility
+- Sponsor information
+- Education history
+- Employment history
+- School selection
+- Personal information
+
+{ If "Your date of birth" indicates applicant is less than 18 years of age }
+
+**By submitting this form** you certify that:
+
+- You are the parent, guardian, or custodian of the applicant
+
+- All statements in this application are true and correct to the best of your knowledge and belief
+
+{ end - If "Your date of birth" indicates applicant is less than 18 years of age }
+
+
+
+
+{ If "Have you ever served on active duty in the armed services?" = "No" }
+
+**By submitting this form** you certify that all statements in this application are true and correct to the best of your knowledge and belief.
+
+{ end - If "Have you ever served on active duty in the armed services?" = "No" }
+
+
+
+{ If "Have you ever served on active duty in the armed services?" = "Yes" and "Service end date" is blank }
+
+**By submitting this form** you certify that:
+
+- All statements in this application are true and correct to the best of your knowledge and belief
+
+- As an active-duty service member, you have consulted with an Education Service Officer (ESO) regarding your education program
+
+{ end - If "Have you ever served on active duty in the armed services?" = "Yes" and "Service end date" is blank }
+
+
+Note: According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+I have read and accept the [privacy policy]() (*Required) { checkbox }
+
+[ Back | Submit application ] { buttons }  
