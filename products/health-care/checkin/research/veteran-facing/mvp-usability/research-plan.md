@@ -61,7 +61,7 @@ What are you looking for in a participant?
   * Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
   * Participants must be willing to complete the the study via a mobile device, need to be able to use Zoom on their smart phone, and must be willing to share their smart phone screen (disqualify those that aren't)
 * Please screen participants based on these questions:
-  * Does the following statement describe you? I use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
+  * Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
     1. Yes (Qualify)
     2. No (Disqualify)
   * Do you have a smart phone?
