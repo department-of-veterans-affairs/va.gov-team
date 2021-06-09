@@ -3,7 +3,7 @@
 **Author(s):** Christopher Valarida  
 **Last Updated:** May 18, 2021  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** Brooks Johnson [x], Michael Fleet [ ]  
+**Approvers:** Brooks Johnson [x], Michael Fleet [x]  
 
 **Table of Contents**
 
