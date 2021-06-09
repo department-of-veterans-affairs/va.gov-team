@@ -7,6 +7,7 @@
 (H1) How to schedule
 
 {Facility name}
+
 {Facility address}
 
 To schedule an appointment online at this facility, go to My VA Health.
