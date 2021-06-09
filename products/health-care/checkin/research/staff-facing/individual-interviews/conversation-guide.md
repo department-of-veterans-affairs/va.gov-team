@@ -23,7 +23,7 @@ Before we start, a few things I want to mention:
 __Start recording.__
 -	I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 ## Warm-up Questions - 5 minutes
--	First off, can you tell me a bit about your current role and site?
+-	First off, can you tell me a bit about how your current role connects to Veteran check-in? And what about patient-tracking?
 -	How long have you been in this role? _Also listen for whether they've been in a similar role elsewhere - either different site or outside of the VA network)_
 -	In one word, how would you describe:
   -	The process of checking in Veterans to your facility
