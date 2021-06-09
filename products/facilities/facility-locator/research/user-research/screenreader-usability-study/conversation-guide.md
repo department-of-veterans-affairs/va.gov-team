@@ -84,8 +84,8 @@ Checklist:
    - I may need to pause you at times an ask you what you're hearing if I can't make out what's being read.
 
 
-**For those joined by iPhone and Zoom already**
-SKIP TO [Screen sharing](#screen-sharing) SET UP
+**For those joined by iPhone and Zoom already:**
+- SKIP TO [Screen sharing](#screen-sharing) SET UP
 
 ## Joining Zoom
 
