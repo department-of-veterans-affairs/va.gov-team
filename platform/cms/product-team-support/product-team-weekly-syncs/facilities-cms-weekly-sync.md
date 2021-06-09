@@ -31,7 +31,14 @@
 
 ## June 16
 
+
+Vet Center
+* Connecting 17 Outstations to their Section and Vet Center [#5564](5564 Outstations are missing their "Main Vet Center" value, and Section)
+
+
+Other
 * CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
+
 
 ## June 9
 
