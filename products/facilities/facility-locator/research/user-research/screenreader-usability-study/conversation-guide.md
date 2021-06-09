@@ -106,11 +106,11 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
 - Tab to the “Screen share” button and activate it with your space key.
 - Tab or navigate past the “basic, advanced, and files” tab menu items and find “Share entire screen.” It should be the first item in the list of windows or - applications to share. Use your space key to select it.
 - Tab to “Share sound” and use your space key to select it. This will let us hear your screen reader.
-- Tab to “Share” and use your space key to select it to start the screen share.
+- With those settings in place, tab to the "Share" button and use your space key to select it to start the screen share.
 
 [If successful:]
 
-OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can double tap “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
+OK, great, I can see your screen. Sometimes Zoom can be finicky and I will lose the screen share connection and I may have to ask you share screen again the way we just did. Also, if you need to stop sharing during this session you can tab over to “Stop Share.” It’s located where the “Screen Share” button originally was at the bottom center of your screen.
 
 Next up: [Warm-up questions](#warm-up-questions)
 
