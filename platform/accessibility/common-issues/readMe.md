@@ -1,4 +1,4 @@
-# Common Accessibility Issues
+# Common Examples of Accessibility Issues 
 
 ## Headings
 
@@ -7,6 +7,8 @@
 - [Text styled like headings must be marked up as headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18246)
 
 ## Focus
+
+**[Testing for and fixing focus issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/common-issues/focus-order-guidelines.md)**
 
 * [Focus should not be lost on the page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23968)
 * [Focus outline should be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/common-issues/focus-outline-should-be-removed-from-non-linked-heading.md)
