@@ -36,31 +36,34 @@ There's work being done to stand up Community of Practice Leads within OCTO, and
 
 There's also work being done around the concept of practice area operations roles: folks to consult with VFS teams on their work in the given practice area, and to maintain our process and say "ok we've grown, let's rethink how we do xyz method or process or task." This will be incorporated into the _understanding the full gamut_ and _gaps_ parts of the workshop as things that current practice leads in some areas have already identified, and already have started ideating around.
 
+There's also a new 3-bucket design strategy being worked on focused on process improvements and process clarity for design collaboration, thus reducing some pain for the design practice lead.
+
 ---
 
 ## More detail on why this is a problem that needs solving
 
 ### Practice leads are feeling pain
 
+**What are they supposed to be doing? There's too much!**
+- The lack of clarity around what OCTO wants them to be spending their time on feels debilitating sometimes
 - They find themselves often in an arbitration position that they didn't ask for: a VFS team builds a thing that doesn't meet our standards, the collab cycle points it out, but escalates to the practice lead to be the ultimate enforcer if there's disagreement from the VFS side. These are often complex things on which they have no background, yet are expected to make recommendations.
 - They often get roped into taking on actual implementation work for VFS teams, as opposed to focusing on overall strategy and providing best practices guidance.
-- They have ideas for ways to improve the culture of their craft across the organization, but don't have team members to actually implement (like the recent a11y proposal).
-- The research practice lead does all of the collab cycle reviews for VFS research, in addition to their full time job.
-- They have never been told what's expected of them, yet it seems a lot of different things are expected of them from different people (like supporting collab cycle, or supporting VFS teams)
-- They sometimes find that OCTO-DE doesn't understand their practice area or the time that goes into it, it sometimes feels under-valued when compared to the directive to ship ship ship
-- They get pulled into this or that high priority OCTO-DE initiative, but should they be prioritizing that? Or should they be prioritizing catching off the rails stuff happening on VA.gov work? Or supporting VFS teams with implementation?
-- Not all practice areas have the same volume of people supporting them, for exampe we have lots of designers and only one IA, yet expectations for what we want and need from these practice areas are similar.
-- They want to be able to rely on VFS teams and POs to make the best possible products, as those people are the experts on their users and their strategies, but they feel they encounter big problems frequently, which takes up a lot of their time.
-- Scared to let go of keeping tabs on all the work happening across VA.gov, because it seems there are bad things squeaking through too frequently, but these single individuals scrbbing in to "fix" bad stuff isn't scalable.
-- Does OCTO / OCTO-DE want us to be more lording over the contract / VFS progress and raising more flags about what's not going well? ANd if so, then we need it to be communicated strongly and widely. Not one little post a long time ago in a channel that not everyone's in.
-- They get asked to define big rocks or visions for their practice area and define what they need in order to achieve them, but then get no support or staffing to implement the vision, yet get asked to provide updates on their progress.
-- It feels degrading to get asked "what do you think should be a priortiy and what do you need to do that?" and then never hear anything back about it, but be asked monthly about the progress that you're making on those things. It's making some people feel totally burned out.
-- The lack of clarity around what OCTO wants them to be spending their time on feels debilitating sometimes
-- Some are VA employees now (instead of USDS / PIF) and they're visioning for the longer term. Meanwhile, USDSers or PIFs want to make a big bang in their short amount of time here, but that actually harms the bigger picture, longer term vision. (This is related to the always-creating-new-shiny-things / fragmentation pain point)
-- It's frustrating that it seems like OCTO-DE is still just building new stuff all over the place making the site more and more fragmented -- feels like feature bloat instead of strategic evolution. As practice leads, it feels like that delivery-first culture is at odds with what they're here to do, and it's frustrating. Thought the new crews concept would make this better, but it hasn't.
-- Mantra has been "ship ship ship, deliver deliver deliver, because the _worst_ thing we deliver will be better than anything Veterans currently have." But that's not true anymore since we have a critical mass of things that work well.
-- It seems really hard to get funding for the "boring" shit
+- They get pulled into this or that high priority OCTO-DE initiative, but should they be prioritizing that? Or should they be prioritizing catching off-the-rails stuff happening on VA.gov work? Or supporting VFS teams with implementation?
+- 
 
+- Not all practice areas have the same volume of people supporting them, for exampe we have lots of designers and only one IA, yet expectations for what we want and need from these practice areas are similar.
+
+**Their work feels undervalued and at odds with the OCTO-DE culture**
+- It's frustrating that it seems like OCTO-DE is still just building new stuff all over the place making the site more and more fragmented -- feels like feature bloat instead of strategic evolution. As practice leads, it feels like our _ship ship ship_ culture is at odds with what they're here to do, and it's frustrating.
+- Thought the new crews concept would make this better, but it hasn't.
+- Mantra has been "ship ship ship, deliver deliver deliver, because the _worst_ thing we deliver will be better than anything Veterans currently have." But that's not true anymore since we have a critical mass of things that work well.
+- It seems really hard to get funding for the "boring" shit (they have proposed ideas for ways to improve the culture of their craft across the organization, but haven't been able to get $ for any team members to actually implement.)
+- It feels degrading to get asked "what do you think should be a priortiy and what do you need to do that?" and then never hear anything back about it, yet get asked to report on progress. If OCTO-DE thinks the proposed priorities are wrong, then say that. But to be asked monthly about the progress that you're making on things for which you were never given the supported needed to execute on, it's making people feel totally burned out.
+- Some are VA employees now (instead of USDS / PIF) and they're visioning for the longer term. Meanwhile, USDSers or PIFs want to make a big bang in their short amount of time here, but that actually harms the longer term vision.
+
+**The "goodness" of the things being built seems tenuous, but it's overwhelming for one person to oversee all of it**
+- We've officially stated that the OCTO-DE Product Owner has final say, and in disagreement cases it gets escalated to Crew Chief. But practice leads are scared to let go of keeping tabs on all the work happening across VA.gov and sticking up for their practices, because it seems there are bad things squeaking through too frequently. These single individuals scrubbing in to "fix" bad stuff isn't scalable though.
+- Does OCTO / OCTO-DE want practice leads to be more lording over the contract / VFS progress and raising more flags about what's not going well? If so, it needs to be communicated strongly and widely. Not one little post a long time ago in a channel that not everyone's in.
 
 ### Collab cycle members are feeling pain
 - They often fill in the gap in implementation help when a VFS team doesn't have the appropriate skills, or when the practice lead doesn't have the bandwidth. It's taxing to have to either pick up that extra work because they want to be helpful, or alternatively explain that essentially there's no one to help and the team's out of luck.
@@ -71,44 +74,4 @@ There's also work being done around the concept of practice area operations role
 - It's a bit of a blocker for teams to have just one person reviewing all their research plans.
 - There are no IA people on any VFS team, yet we ask those teams to do their own IA strategy and definition. They don't have the skillsets or global knowledge necessary to be able to really make well-informed IA decisions.
 
----
-
-
-### Other general notes from folks
-- The size of the org has grown a lot, but we haven't revamped practice area operations to suit our new bigger-org needs.
-- We staff practice areas differently, but have same expectations of practice leads. Like we have tons of designers, a good amount of researchers, hardly any accessibility people, no content writers, and no IA people, but we have one practice lead for each of those areas - expectations will need to be different.
-- We have officially stated that the OCTO-DE Product Owner has final say, and in disagreement cases it gets escalated to Crew Chief (not the practice lead).
-- W/CEDAR coming there'll be more VFS teams, and thus more ppl doing work. Now is time to figure out what things CTO's office etc need to be responsible for vs, what are we willing to cede to contractors?
-- Will never be able to outsource "why we do design in this way" convos w/stakeholders to contractors
-
-**3-bucket design strategy**
-
-Policy
-- memo for Charles and Chris to review next week ideally
-- 5 design policies: 1) for VA.gov must use DS 2) - 5) this is the process and the process for when you need to go outside of DS
-
-Tooling
-- everybody using sketch for teams and having access to it
-- so all work is in same sketch for team's instance so everyone can see each others' work
-
-Process
-- design.va.gov lets you run experiments, but what are VFS teams are responsible for?
-- example: John's team designed new experiences for search, ryan got the design to where he was happy, and this process clarifies how to document why this is the way it is, what did you test, etc.
-
-^ this affects design from a Ryan perspective, in that he'll be in CC, but the goal w/sketch for teams was to move reviews to asynchronous so can just give comments there. could be same for early a11y reviews. potentially for content as well. haven't talked w/meg or mikki about it yet. strategy was designed in mind for async review option for anybody (whether product support, practice leads, etc). No prescription on who should be in ther giving comments and what the process shoudl be, but the goal of Ryan + Kevin is to create a platform for visibility of design work across va.gov so you don't have to chase or Slack design in process.
-
-**Workshop ideas**
-- what problems were practice leads put in place to solve?
-- what do folks *think* they're accountable for?
-- maybe follow-up on the individual stuff -- is this the kind of job you want to be doing?
-- individual convos (not group) around: if we were to hire for these which would we want to do that for?
-- workshop: focus more on parameters around what the needs are and what a practice lead role would look like and what kind of support that would require
-
-
-**Placeholder "wants"**
-- Want a research ops lead who consults when teams are putting together research plans, and to maintain our process and say "ok we've grown, let's rethink how we do synthesis or how we share our research"
-- Working on a research revamp this quarter, but sure we'll need more of that in the future -- can see research ops being a full time job for at least one person maybe more
-- The research ops person doesn't have to be octo-de / usds, but want a really great researcher in that role. could still be that octo sponsor though for collab / questions / oversight if needed. there's a lot of day to day stuff that would be great for someone to truly own.
-- Would be great to have some structure for research side in design intent
-- We need dedicated IAs for helping VFS teams. For defining IA standards and coordinating with collab cycle IA. Collab cycle IA to monitor and enforce, the glue between the VFS teams, see what's going out, what's crashing, conflicting. Big Rocks IA for navigation system and slimming down the benefit hubs. And we need a health IA. If we just have me and Mikki, there's a lot that doesn't get done.
-
+Thanks for reading! Shoot me (Rachael Roueche) something - anything - in Slack to confirm you read. And see you June 14th for the workshop!
