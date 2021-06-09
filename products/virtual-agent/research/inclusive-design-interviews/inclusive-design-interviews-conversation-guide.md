@@ -43,18 +43,18 @@ Next, I want to make sure your technology is ready to go for this session. Shann
 Checklist:
 - Are you using a computer or mobile phone during our session today? 
 - Mac or Windows? 
-- iOS or Android?
+- iOS (iPhone) or Android?
    - If not joined by Zoom already:
    - Do you have Zoom installed? 
 - Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
 - What browser are you using today?
 - Do you have a screen reader on this device?
-- What kind of screen reader do you use?
+- What screen reader do you use?
 - How long have you been using it?
 - Are you using a screen magnifier today?
 - Are there any other assistive technologies that you use?
-  - [if low vision, the participant may require captions which need to be turned on in advanced settings]
-- Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low? 
+  - [if deaf/hard-of-hearing, the participant may require captions which need to be turned on in advanced settings]
+- Do you know your screen reader's verbosity setting? High, medium, low? 
   - [If high, be prepared to have them repeat anything that can't be heard or understood]
    - I may need to pause you at times an ask you what you're hearing if I can't make out what's being read.
 
@@ -78,7 +78,7 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
 ### VoiceOver iOS (Mobile and Tablet) using web app
 
  - Have you shared your screen before on Zoom?
-[If no] Please open your iPhone settings. Once you’re there, go to your control center. Then, find the “Insert screen recording” button and double tap to activate it. When you’re done, please return back to the zoom app.
+[If no] Please open your iPhone settings. Once you’re there, go to your control center. Then, find the “Insert screen recording” button and double tap to activate it. When you’re done, please return to the zoom app.
  - Within Zoom, I'd like you to find the "Share content" button and double tap it. You may have to swipe a number of times.
  - A menu should appear. Select the "Screen” option and double tap it. 
    - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to allow it”
@@ -103,7 +103,7 @@ Next up: [Warm-up questions](#warm-up-questions)
 
 ### Screen sharing set-up - TalkBack, Android using web app
 
- - Within Zoom, I'd like you to find the "Share content" button and double tap it. You may have to swipe a number of times.
+ - Within Zoom, select the "Share content" button and double tap it. You may have to swipe a number of times.
  - A menu should appear with a list of items. Swipe until you find “screen” and double tap it. 
  - You’ll be asked if you want to start recording or casting with Zoom. 
  - Swipe to “start now” and double tap it.
