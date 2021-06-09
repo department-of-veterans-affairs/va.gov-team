@@ -76,3 +76,105 @@ Expiration date: **10/31/2021**
 __________________________________________
 
 
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+### Step 1 of 8: Applicant information 
+
+You aren't required to fill in all fields, but we can review your application faster if you provide more information. 
+
+{ if logged in, blue background alert }  
+
+We've prefilled this application with information from your account. If you need to correct anything, you can edit the form fields. 
+
+{ end if logged in alert }  
+
+- Your first name (*Required) { text field, prefill if present }
+- Your middle name { text field, prefill if present  }
+- Your last name (*Required) { text field, prefill if present }
+- Suffix { dropdown, prefill if present } 
+- Social Security number (*Required) { text field, prefill if present }
+    - I don't have Social Security Number { checkbox, if checked "*Required" for "Social Security Number" disappears }
+- Your date of birth { dropdown for Month and Day, text field for Year, prefill if present }
+
+{ if date of birth indicates applicant is less than 18 years of age, display conditional blue bar }
+
+Applicants under the age of 18 can't legally make a benefits election. Based on your date of birth, please have a parent, guardian, or custodian review the information on this application and click the "Submit application" button at the end of this form.
+
+{ end conditional content }
+
+- Gender { radio buttons }
+    - Female
+    - Male
+- What's your relationship to the service member whose benefit is being transferred to you? (*Required) { radio buttons }
+    - Spouse or surviving spouse [Learn more]()
+         - Learn more content:  If you are certifying that you are married for the purpose of VA benefits, your marriage must be recognized by the place where you and/or your spouse resided at the time of marriage or where you and/or your spouse resided when you filed your claim (or a later date when you became eligible for benefits) (38 U.S.C.§ 103(3)). Additional guidance on when VA recognizes marriages is available at http://www.va.gov/opa/marriage/.
+    - Child, stepchild, adopted child
+
+[ Back | Continue ] { buttons }   
+
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+### Step 1 of 8: Applicant information 
+
+### Additional benefits
+
+Are you getting benefits from the U.S. Government as a **civilian employee** during the same time as you are seeking benefits from VA? { radio buttons }
+- Yes
+- No
+
+{ If yes, display conditional blue bar }
+
+What is the source of thes funds? (*Required) { text field }
+
+{ end conditional blue bar }
+
+[ Back | Continue ] { buttons }   
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+### Step 1 of 8: Applicant information 
+
+### Applicant service
+
+Have you ever served on active duty in the armed services? (*Required) { radio buttons }
+- Yes
+- No
+
+{ If yes, display conditional blue bar }
+
+**Service periods**
+
+- Branch of service (*Required) { text field }
+- Service start date (*Required) { dropdown for Month and Day, text field for Year }
+- Service end date { dropdown for Month and Day, text field for Year }
+- Type of separation or discharge { text field }
+
+Add another service period { button }
+
+    { If "Add another service period" is clicked, display following content below initial fields, but ABOVE the "Add another service period" button }
+
+    - Branch of service (*Required) { text field }
+    - Service start date (*Required) { dropdown for Month and Day, text field for Year }
+    - Service end date { dropdown for Month and Day, text field for Year }
+    - Type of separation or discharge { text field }
+
+    Remove { button }
+
+    { end "Add another service period" }
+
+{ end "If yes, display conditional blue bar" }
+
+__________________________________________
+
+
