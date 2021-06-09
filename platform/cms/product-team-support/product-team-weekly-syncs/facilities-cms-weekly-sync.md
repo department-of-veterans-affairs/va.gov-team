@@ -29,9 +29,13 @@
 ### Vet Centers
 
 MVP
-* Any launch updates?
-* Review helpdesk issues that have arisen
+* Any launch updates? Eg Springfield
+  * Tugboat?  
+  * Upgrading users to publisher
+* Review helpdesk issues that have been raised
   * Adding services has been the biggest pain point (select lists for Sections) 
+    * Having to look, at all (CMS issue #4936 would address this)
+    * Not finding their Vet Center in the MVP list (CMS #4582 would help)
 * [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
 * Redirects for MVP Vet Centers - confirming urls
 * Post-mortem
