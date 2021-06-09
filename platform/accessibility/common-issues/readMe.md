@@ -13,6 +13,10 @@
 * [Focus should not be lost on the page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23968)
 * [Focus outline should be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/common-issues/focus-outline-should-be-removed-from-non-linked-heading.md)
 
+## Cognition
+* [Buttons should be styled as buttons and links should be styled as links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23171)
+* [Buttons MUST have unique and accessible labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18923)
+
 ## Screen readers
 
 ### General issues
@@ -30,7 +34,3 @@
 ### Form design
 * [Important unfocusable text sandwiched between form fields must be announced to assistive technology using aria techniques](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21478)
 * [Groups of form elements MUST have group labels (e.g. `<fieldset>` and `<legend>`)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18569)
-
-## Cognition
-* [Buttons should be styled as buttons and links should be styled as links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23171)
-* [Buttons MUST have unique and accessible labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18923)
