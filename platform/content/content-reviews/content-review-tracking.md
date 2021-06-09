@@ -8,6 +8,7 @@ Below is a list of final and in-progress VSP content work. If your team/work is 
 Team | Project | Content review stage | Notes 
 --- | --- | --- | --- 
 Authenticated Experience | My VA | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24858<br>
+Authenticated Experience | Preferred facilities | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/25760 <br>
 BAH | GI Bill comparison tool redesign | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/18949
 BAH | STEM Scholarship expanded eligibility | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24283 
 BAH | VVRAP | Midpoint review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/23069 
