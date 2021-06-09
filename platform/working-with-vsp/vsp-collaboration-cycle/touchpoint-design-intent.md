@@ -20,6 +20,7 @@ VFS Product Manager submits a [Design Intent ticket](https://github.com/departme
 VFS brings:
   - Designer(s) (required)
   - Product Manager (required)
+  - OCTO-DE Design Lead (required)
   - OCTO-DE Product Lead (recommended)
   - Content, IA, accessibility, and QA specialists (if applicable)
   - Other stakeholders you want to invite (if applicable)
@@ -27,10 +28,10 @@ VFS brings:
 Platform brings (when applicable):
   - Design
   - Accessibility
-  - Content
   - Information architecture
   - Product
   - Analytics
+  - Content
   - OCTO-DE Practice Areas Leads
 
 ## What artifacts do I provide?
@@ -39,10 +40,11 @@ VFS provides:
 - An explanation of the problem you’re trying to solve
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flow
-- Content brief (if applicable)
 - Any other artifacts you have so far
 
 ## What is the outcome of this touchpoint?
+You'll receive feedback from design, accessibility, and IA. You won't receive feedback from content and QA, as it's too early in the development process.
+
 Platform reviewers will document their feedback, if applicable, in a GitHub ticket. Feedback tickets will be made available to VFS teams no later than EOD the next business day following the meeting. In addition, OCTO-DE/Platform may:
 
  -  Recommend applicable Design System components and/or patterns
