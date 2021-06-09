@@ -10,7 +10,7 @@ assignees: andreahewitt-odd, Shiragoodman
 ## Steps to complete Staging Review: 
 
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
-- [ ] VFS: Using the Slack Workflow (see [User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
 - [ ] Platform: Schedule meeting with Platform reviewers and requesting team attendees (as listed below)
 - [ ] VFS: At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VFS: Verify that access information has been provided for the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
