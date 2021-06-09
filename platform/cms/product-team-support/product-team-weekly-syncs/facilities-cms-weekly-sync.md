@@ -24,29 +24,58 @@
 
 </details>
 
+## June 23 
+
+* District 5 pipeline for launches ... should we establish a regular cadence for review/launch/user account upgrades
+* User onboarding / CMS account policies, request fulfillment
+
+## June 16
+
+* CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
+
 ## June 9
 
 ### Vet Centers
 
 MVP
-* Any launch updates? Eg Springfield
-  * Tugboat?  
-  * Upgrading users to publisher
+* Release cycle
+  * FE issues being resolved that had been identified on staging
+  * Tugboat
+    * `vetcenter-rcsco` tugboat environment only for stakeholder launch review
+    * Michelle and Dave will refresh, publish content from the [Bulk publishing page](https://prod.cms.va.gov/admin/content/bulk?title=&type=All&moderation_state=All&taxonomy_entity_index_tid_depth=391), and send for stakeholder review 
+  * RCSCO is doing eyes on review and giving final blessing.
+    * Jessica will give go-ahead to facilities team, then Dave/Michelle will bulk publish, who will then trigger the user update. T
+  * Upgrading Vet Center users to publisher
+    * These will trickle in, then will spike, as content gets reviewed. 
+    * Not a fire drill. 
+  * District 5 and beyond won't be provided with as much content. 
+    *  What is the right way to manage the pipeline of onboarding? 
+    *  Should there be a specific day for launching, like every Tuesday? What is the pipeline? 
+    *  On agenda for June 23
+  * How to handle staff turnover?
+    * What policies and interim service procedures can tide us over until we have a mature onboarding service
 * Review helpdesk issues that have been raised
   * Adding services has been the biggest pain point (select lists for Sections) 
     * Having to look, at all (CMS issue #4936 would address this)
+      * Sprint 35 or 36 
     * Not finding their Vet Center in the MVP list (CMS #4582 would help)
+      * 5 districts, each with an average of 70 Vet Centers. No cross-maintaining of Vet Center content. District level will bless who has access at each Vet Center.
+      * We can go ahead and group Vet Centers by District (and decide if we want to do this programmatically or by hand). 
+      * TBD 
 * [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
 * Redirects for MVP Vet Centers - confirming urls
-* Post-mortem
+  * Public websites will add redirects for Facility Locator 
+* Post-mortem on Monday June 14 2:30pm ET
+  * Retro board 
 
 District 5 batch
 * Jane has new Vet Center user template ready to send to Jessica
+  * Jane will send to Jessica and cc Michelle and Dave
 
 ### VAMC
 
 * Type of Care epic
-
+  * Michelle final QA then give go ahead to CMS to delete parents on prod. https://web-luuw9cmafr91levkoejjdmcdcxn2dedu.demo.cms.va.gov/pittsburgh-health-care/health-services/ 
 
 ## June 2
 
