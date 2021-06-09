@@ -49,19 +49,16 @@ There's also a new 3-bucket design strategy being worked on focused on process i
 - They find themselves often in an arbitration position that they didn't ask for: a VFS team builds a thing that doesn't meet our standards, the collab cycle points it out, but escalates to the practice lead to be the ultimate enforcer if there's disagreement from the VFS side. These are often complex things on which they have no background, yet are expected to make recommendations.
 - They often get roped into taking on actual implementation work for VFS teams, as opposed to focusing on overall strategy and providing best practices guidance.
 - They get pulled into this or that high priority OCTO-DE initiative, but should they be prioritizing that? Or should they be prioritizing catching off-the-rails stuff happening on VA.gov work? Or supporting VFS teams with implementation?
-- 
 
-- Not all practice areas have the same volume of people supporting them, for exampe we have lots of designers and only one IA, yet expectations for what we want and need from these practice areas are similar.
-
-**Their work feels undervalued and at odds with the OCTO-DE culture**
+**They don't have the support they need, and their work sometimes feels at odds with OCTO-DE culture**
 - It's frustrating that it seems like OCTO-DE is still just building new stuff all over the place making the site more and more fragmented -- feels like feature bloat instead of strategic evolution. As practice leads, it feels like our _ship ship ship_ culture is at odds with what they're here to do, and it's frustrating.
 - Thought the new crews concept would make this better, but it hasn't.
 - Mantra has been "ship ship ship, deliver deliver deliver, because the _worst_ thing we deliver will be better than anything Veterans currently have." But that's not true anymore since we have a critical mass of things that work well.
-- It seems really hard to get funding for the "boring" shit (they have proposed ideas for ways to improve the culture of their craft across the organization, but haven't been able to get $ for any team members to actually implement.)
+- It seems really hard to get funding for the "boring" shit (they've proposed ideas for ways to improve the culture of their craft across the organization, but haven't been able to get $ or people to actually implement.)
 - It feels degrading to get asked "what do you think should be a priortiy and what do you need to do that?" and then never hear anything back about it, yet get asked to report on progress. If OCTO-DE thinks the proposed priorities are wrong, then say that. But to be asked monthly about the progress that you're making on things for which you were never given the supported needed to execute on, it's making people feel totally burned out.
 - Some are VA employees now (instead of USDS / PIF) and they're visioning for the longer term. Meanwhile, USDSers or PIFs want to make a big bang in their short amount of time here, but that actually harms the longer term vision.
 
-**The "goodness" of the things being built seems tenuous, but it's overwhelming for one person to oversee all of it**
+**The "goodness" of the things being built here seems tenuous, but it's overwhelming for one person to oversee all of it**
 - We've officially stated that the OCTO-DE Product Owner has final say, and in disagreement cases it gets escalated to Crew Chief. But practice leads are scared to let go of keeping tabs on all the work happening across VA.gov and sticking up for their practices, because it seems there are bad things squeaking through too frequently. These single individuals scrubbing in to "fix" bad stuff isn't scalable though.
 - Does OCTO / OCTO-DE want practice leads to be more lording over the contract / VFS progress and raising more flags about what's not going well? If so, it needs to be communicated strongly and widely. Not one little post a long time ago in a channel that not everyone's in.
 
