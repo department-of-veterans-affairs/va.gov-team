@@ -3,7 +3,7 @@
 In March of 2021, the CMS team was asked to lead a [discovery initiative](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4748) to address various pain points around the VA.gov publishing & content deploy process, including:
 
 - As a CMS Editor, I would like to publish content to VA.gov as quickly and easily as possible, and no longer than 5 minutes, so that I can most effectively deliver content to Veterans and the public.
-- As a DEPO product owner, I would like to understand CMS Editor content publication use cases and paint points affected by publishing speed so that I can plan improvements and features to most effectively support them.
+- As a DEPO product owner, I would like to understand CMS Editor content publication use cases and pain points affected by publishing speed so that I can plan improvements and features to most effectively support them.
 - As a VSP engineer, I would like to understand the content build architecture so that I can best apply technical solutions.
 
 The CMS team then initiated a two-pronged discovery effort:
