@@ -175,6 +175,8 @@ Add another service period { button }
 
 { end "If yes, display conditional blue bar" }
 
+[ Back | Continue ] { buttons }   
+
 __________________________________________
 
 ## Form Title: Apply for education benefits as an eligible dependent  
@@ -244,3 +246,26 @@ I understand that I’m choosing to receive Fry Scholarship benefits instead of 
 
 { end selected "The Fry Scholarship (Chapter 33)" and "Child, stepchild, adopted child" in Applicant information }
 
+[ Back | Continue ] { buttons }   
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### Step 2 of 8: Benefits eligibility 
+
+### Benefits history
+
+Before this application, have you ever applied for or received any of the following VA benefits?
+- Disability Compensation or Pension { checkbox }
+- Dependents’ Indemnity Compensation (DIC) { checkbox }
+- Veteran Readiness and Employment benefits (Chapter 31) { checkbox }
+- Veterans education assistance based on your own service { checkbox }
+- Veterans education assistance based on someone else’s service { checkbox }
+- Other benefit { checkbox with disabled text field, if selected - text field becomes enabled }
+
+[ Back | Continue ] { buttons }   
+
+__________________________________________
