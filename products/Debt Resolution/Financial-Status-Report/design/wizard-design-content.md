@@ -37,7 +37,7 @@ Or call us at [866-400-1238](). We're here Monday through Friday, 8:00 a.m. to 8
 ### B
 Based on the information you provided, this isn't the form you need.
 
-**For help with debt related to [separation pay/attorney fees],** call us at [800-827-1000](). We're here Monday through Friday, 7:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: [711]().
+**For help with debt related to [separation pay/attorney fees],** call us at 800-827-1000. We’re here Monday through Friday, 7:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 --- 
 
@@ -82,9 +82,9 @@ Be sure to make a payment or request help within **30 days** of when you receive
 ### E
 Based on the information you provided, this isn't the form you need.
 
-**If you disagree with the VA decision that resulted in this debt,** you can submit a supplemental claim or request a higher level review or board appeal. 
+**If you disagree with the VA decision that resulted in this debt,** you can submit a Supplemental Claim or request a Higher Level Review or board appeal. 
 
-[Learn more about the VA appeals process](https://www.va.gov/decision-reviews/)
+[Learn more about decision reviews and appeals](https://www.va.gov/decision-reviews/)
 
 **If you need more help,** call your VA benefit office.
 
