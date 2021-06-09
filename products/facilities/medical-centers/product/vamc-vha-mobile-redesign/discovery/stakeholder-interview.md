@@ -73,11 +73,17 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/find-locations/facility/vha_442QF
     - In dual state? **Yes**
     - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
+    - Reached out to Samuel Cheyenne Mobile PAO 
+    - Reached out to Jill Atwood VISN 19 PAO
+
  
 3. Palo Alto Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_640QA
     - In dual state? **Yes**
     - https://www.va.gov/palo-alto-health-care/locations/
+    - Reached out to Palo Alto PAO Kim Betton > bounced back
+    - Reached out to VISN 21 PAO Armenthis Lester
+
  
 4. Des Moines Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_636QH
