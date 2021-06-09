@@ -58,11 +58,11 @@ The goal of this document is:
 
   > "It gives me the updated list, I don't see the Seattle one anymore which I edited previously." - P2
 
-* At least one participant was not aware they had left the scheduling flow when they went to profile.
+* Two participants did not seem to aware they had left the scheduling flow when they went to profile.
 
 * It made sense to participants when they saved a facility in VAOS, and then saw that same facility selected (and others deselected) in profile.
 
-### Participants clearly understood they couldn't schedule online at every facility, but they didn't understand why. Some participants wanted to see this information earlier in the scheduling process.
+### Participants understood they needed to call to schedule because a facility didn't offer online scheduling, but it didn't make sense to everyone that some VA facilities could schedule online and others could not.
 
 * Most participants understood the facility didn't offer online scheduling.
 * At least one participant wanted to see this information sooner in the scheduling process.
