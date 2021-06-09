@@ -60,7 +60,8 @@ What are you looking for in a participant?
 
 * 15 participants (for a minimum of 8 completed sessions)
   * Participants must use VA health care (disqualify those that don't)
-  * Up to 8 participants that pay for their copays
+  * Up to 8 participants that pay for their copays **REVIEWER COMMENT: WHAT DO YOU MEAN BY THIS? VETERANS WHO HAVE COPAYS VS VETERANS WHO DO NOT? NO ONE IS GOING TO OWN UP TO NOT PAYING FOR COPAYS**
+ 
   * Up to 7 that do not pay for copays
     1. Up to 4 with a disability rating of 50% or higher
     2. Up to 4 with secondary insurance that covers copayment
