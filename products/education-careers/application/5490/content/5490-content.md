@@ -201,6 +201,8 @@ I understand that I am choosing to receive DEA benefits instead of any Fry Schol
 
 { end selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Spouse or surviving spouse" in Applicant information }
 
+
+
 { If selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information, display conditional blue bar }
 
 { blue informational alert }
@@ -210,3 +212,35 @@ I understand that I’m choosing to receive DEA benefits instead of any Fry Scho
 { end blue informational alert }
 
 { end selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information }
+
+
+{ If selected "The Fry Scholarship (Chapter 33)" and "Spouse or surviving spouse" in Applicant information, display conditional blue bar }
+
+{ blue informational alert }
+
+I understand that I am choosing to receive Fry Scholarship benefits instead of any DEA benefits for which I am currently eligible. This includes DEA benefits based on:
+
+- the death of the qualifying individual listed in this application and/or the qualifying death of any others not listed, or
+- a spouse who has a permanent and total service-connected disability, or
+- based on any other criteria as listed in 38 U.S.C. § 3501(a)(1) .
+
+{ end blue informational alert }
+
+{ end selected "The Fry Scholarship (Chapter 33)" and "Spouse or surviving spouse" in Applicant information }
+
+
+
+{ If selected "The Fry Scholarship (Chapter 33)" and "Child, stepchild, adopted child" in Applicant information, display conditional blue bar }
+
+{ blue informational alert }
+
+I understand that I’m choosing to receive Fry Scholarship benefits instead of DEA benefits for which I’m currently eligible based on the death of the qualifying individual on this application. I understand that even after this choice I’ll continue to be eligible for DEA benefits if my eligibility is based on:
+
+- The death of the qualifying individual on this application, and they died before August 1, 2011, or
+- A parent who has a permanent and total service-connected disability, or
+- Any other criteria as listed in 38 U.S.C. § 3501(a)(1) based on any other criteria as listed in 38 U.S.C. § 3501(a)(1).
+
+{ end blue informational alert }
+
+{ end selected "The Fry Scholarship (Chapter 33)" and "Child, stepchild, adopted child" in Applicant information }
+
