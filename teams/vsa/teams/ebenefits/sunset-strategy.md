@@ -35,7 +35,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | In dev | -- | -- | -- | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | Not started | -- | -- | -- | Requires Discovery, possible new LGY integration required **(confirming if obsolete)**
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Not started | -- | -- | -- | Requires Discovery, possible new LGY integration required **(confirming if obsolete)**
-| View Dependent Benefits Letter                      | combination   | Q2 FY2021 | --        | --        | --        | --
+| View Dependent Benefits Letter                      | combination   | Q2 FY2021 | --        | --        | --        | Confirm complete?
+https://staging.va.gov/records/download-va-letters/
 | _SEP Features Placeholder_                          | TBD           | --        | --        | --        | --        | --
 
 ## Complete: Applications and Features
