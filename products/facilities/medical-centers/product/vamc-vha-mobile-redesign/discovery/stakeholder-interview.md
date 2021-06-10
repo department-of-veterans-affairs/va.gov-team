@@ -91,7 +91,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - In dual state? **Yes**
     - https://www.va.gov/central-iowa-health-care/
     - Reached out to Central Iowa PAO, Jerry Self - waiting
-    - Reached out to VISN 23 PAO - Ron Woolery
+    - Reached out to VISN 23 PAO - Ron Woolery - waiting
 
 5. Fayetteville VA Mobile Clinic (NC)
     - https://www.va.gov/fayetteville-coastal-health-care/
