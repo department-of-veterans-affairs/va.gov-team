@@ -16,16 +16,10 @@ In response to Section 5303 of the Deborah Sampson Act which is part of the Mega
 How might we make it easier for Veterans to report incidents of harassment or assault by VA employees or occur on a VA property?
 
 
-
 ## Assumptions
-- Veterans fill out applications that don't apply to their situations (riskiest)
-  - Source: Contact Center, respective product teams e.g. Disability, Education
-- It's difficult to find "How to Apply" wizards
-  - Source: Google Analytics (bounce, etc.)
-- Benefit content pages are unnecessarily detailed
-  - Source: research studies, Google Analytics (scroll depth, etc.)
 
-<!-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality* -->
+- Some Veterans will prefer to complete an online form for reporting incidents of harassment versus current means (in-person at VA facility, call VA, email OIG)
+- 
 
 --- 
 
