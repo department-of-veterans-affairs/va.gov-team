@@ -6,7 +6,7 @@
 
 ### Multiple Facilities, Address on File
 
-(H1) Choose a VA location for your {type of care} appointment
+(H1) Choose a location
 
 Below is a list of VA locations where you’re registered that offer Nutrition and food appointments. Locations closest to you are at the top of the list.
 
@@ -38,7 +38,7 @@ Schedule online at My VA Health
 
 ### Multiple Facilities, No Address on File
 
-(H1) Choose a VA location for your {type of care} appointment
+(H1) Choose a location
 
 Below is a list of VA locations where you’re registered that offer Nutrition and food appointments.
 
