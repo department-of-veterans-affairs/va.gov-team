@@ -1,0 +1,83 @@
+# Research Plan: Find a Form PDF Downloading
+ 	
+## Goals	
+The purpose of this research is to 
+
+## Background
+
+
+## Research questions
+- How do 
+
+## Hypotheses
+- TBD 	
+
+## Method	
+We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving forms to download.
+
+## Participants and Recruitment	
+Ask Perigean to recruit X people in order to get Y completed sessions using the following criteria:
+
+### Must have for participants
+- **TBD**
+- At least 6 Veterans
+- At least 3 caregivers or family members of a Veteran who assist the Veteran in getting benefits 
+- At least 5 people who plan to use their computer for the session
+- At least 5 people who plan to use their smartphone for the session
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 3 participants over 60
+
+### Good to have for participants
+- At least 2 people who use a screen reader
+- At least 2 people who have never used the VA.gov website before
+- At least 2 people of color
+- At least 1 woman
+- At least 1 participant 35 or under
+- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 1 person that has a college degree (to include officer Veterans)
+- At least 2 people who live in a rural or remote area
+- At least 1 person who lives in a major metropolitan area
+- At least 1 non-native English speaker
+
+### Recruitment requirements for ALL participants
+- Have a computer or smartphone and be willing to be complete their interview on a computer or smartphone
+- During the session, be willing to share a browser window showing VA.gov on their computer or smartphone 
+- Have a working microphone on their computer or smartphone
+- Have Zoom downloaded prior to the session and know how to share their screen
+
+### Additional questions to ask in the screener
+- Have you used the VA.gov website before? 
+  - If yes, how recently? 
+  - If yes, on what device(s)--computer, tablet, or smartphone? 
+- What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
+
+## Timeline
+#### Desired Timeline: DATES, 2021 
+**One-hour** sessions with at least **30-minute breaks** in between 
+
+Team Availability | Time (EST)
+------------------|--------------
+, 2021 | Noon - 8:30 pm
+, 2021 | Noon - 3 pm, 5 - 8:30 pm
+
+Pilot Sessions | Time (EST)
+---------------|----------
+, 2021 |  pm
+, 2021 |  pm
+
+## Team Roles	
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+- Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Research guide writing and task development:	Cindy Merrill
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Participant(s) for pilot test:	TBD
+- Notetakers:	Perigean
+- Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (mmcguire@governmentcio.com), Cassandra Allen (callen@governmentcio.com)
+ 
+## Resources	
+- [Conversation Guide]()	
+- Research Findings	
+
+## Approvals
+Plan reviewed and approved by Lauren Alexanderson on DATE
