@@ -6,6 +6,19 @@ Desktop breadcrumb:  [Home](https://www.va.gov) > [Education and training](https
 
 Equal to VA Form 22-5490 (Dependents' Application for VA Education Benefits).
 
+{ if logged in }
+
+{ blue informational alert }
+
+**Note**: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.
+
+{ end blue informational alert }
+
+Start the education application { button }
+
+{ end if logged in }
+
+
 { if logged out, informational alert }
 
 ### Save time—and save your work in progress—by signing in before starting your application ###  
@@ -60,9 +73,19 @@ If your application isn't approved, you’ll get a denial letter in the mail.
 
 { end subway map }  
 
+{ if logged in }
+
+Start the education application { button }
+
+{ end if logged in }
+
+{ if logged out }
+
 Sign in to start your application { button }  
 
 [Start your application without signing in]()
+
+{ end if logged out }
 
 Respondent burden: **45 minutes**
 
@@ -86,7 +109,7 @@ You aren't required to fill in all fields, but we can review your application fa
 
 { if logged in, blue background alert }  
 
-We've prefilled this application with information from your account. If you need to correct anything, you can edit the form fields. 
+We've prefilled this application with information from your account. If you need to correct anything, you can edit the form fields below. 
 
 { end if logged in alert }  
 
@@ -455,7 +478,7 @@ Form 22-5490
 - Name of school, university or training facility you want to attend { text field }
 - Type of education or training { dropdown }
 
-    { If "College, university, or other educational program, including online courses" or "Apprenticeship or on-the-job training" is selected, display conditional blue bar }
+    { If "College, university, or other educational program, including online courses", "Correspondence", "Apprenticeship or on-the-job training" or "Vocational flight training" is selected, display conditional blue bar }
     **Address**
     - Country { dropdown, USA selected by default }
     - Street { text field }
@@ -463,7 +486,7 @@ Form 22-5490
     - City { text field } 
     - State { dropdown }
     - Postal Code { text field }
-    { end If "College, university, or other educational program, including online courses" or "Apprenticeship or on-the-job training" is selected }
+    { end If "College, university, or other educational program, including online courses", "Correspondence", "Apprenticeship or on-the-job training" or "Vocational flight training" is selected }
     
 - Education or career goal (For example, “I want to get a bachelor’s degree in criminal justice” or “I want to get an HVAC technician certificate” or “I want to become a police officer.”) { text field }
 - The date your training began or will begin { dropdown for Month and Day, text field for Year }
