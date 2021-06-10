@@ -1,37 +1,21 @@
-# Online Harassment Reporting Page & Form
+# Product Outline: Online Harassment Reporting Page & Form
 
-> Up to date [Product Epic is here](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9665).
+> Up to date [Product Epic is here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24883).
 
 ## Overview
-Help Veterans and others find the right online experience to apply for benefits by making it easier to complete "How to Apply" wizards. 
 
-We'll make this happen by iterating content pages to quickly navigate users to tools pages where wizards will help determine the right online application for a Veteran's situation. 
+The Office of Resolution Management, Diversity and Inclusion (ORDMI) is the office in-charge VA Wide for processing complaints from Veterans and Employees for alleged Civil Rights Violations as well as for Harassment, Reasonable Accommodations, and other inappropriate behaviors while on a VA Site.
+
+In response to Section 5303 of the Deborah Sampson Act which is part of the Megabus Bill that was passed in January 2021, and new congressional demands for action, ORDMI has been charged with building a secure, online reporting tool on VA.gov that would enable Veterans (to start) and VA employees (later) to report alleged incidents about violations which occur in a VA facility.
+
+(A 2020 Government Accountability Office report showed the VA’s workplace sexual harassment policies were inconsistent and incomplete, including a lack of centralized reporting mechanisms or resources of VA beneficiaries who report sexual harrassment or assault by VA employees or on VA property.)
+
 
 ## Problem Statement
-> From [Wizards: "How to Apply" and "Can I file a claim online?" - Discovery Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/wizards-discovery-readout.pdf)
 
-Veterans learn about benefits and eligibility requirements from detailed content pages. 
-These pages may include prerequesite questions potential applicants *could* answer before intiating the "actual" application process. 
-Answers to these questions help determine where applicants are taken in order to apply i.e. which form or online tool is most appropriate. 
-
-A helpful example [is available here](https://www.va.gov/education/how-to-apply/). Applicants navigate to the wizard and complete a series of questions to determine which education application is most appropriate for their needs.  
-
-- They are currently four (5) urls where in-content "How to Apply" wizards exist:
-  - https://www.va.gov/education/eligibility
-  - https://www.va.gov/education/how-to-apply
-  - https://www.va.gov/disability/eligibility
-  - https://www.va.gov/disability/how-to-file-claim
-  - https://www.va.gov/decision-reviews/higher-level-review/
-
-Veterans typically land on these content pages while researching benefits. 
-However, these pages may not always make it easy for Veterans to find these helpful in-content wizards (and subsequently the right online application). *data point --> % of views on https://www.va.gov/education/how-to-apply/ that result in outbound navigation to application*
-
-How might we make the Veteran experience of starting online applications more seamless? 
+How might we make it easier for Veterans to report incidents of harassment or assault by VA employees or occur on a VA property?
 
 
-<!--*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*-->
-
-<!--*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.* --> 
 
 ## Assumptions
 - Veterans fill out applications that don't apply to their situations (riskiest)
