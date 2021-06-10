@@ -1,18 +1,18 @@
 # Research Plan: Find a Form PDF Downloading
  	
 ## Goals	
-The purpose of this research is to better understand how Veterans download VA forms and get feedback on our design for advising users to download a PDF and then open it with Acrobat instead of viewing it in a web browser.
+The purpose of this research is to better understand how Veterans download VA forms and get feedback on our designs for advising users to download a PDF and then open it with Acrobat instead of viewing it in a web browser.
 
 ## Background
-Modern browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. A challenge is how to advise users to download the forms to their device and then open them in Acrobat, which is a process that varies by form, device, and browser type/version.
+Modern browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by form, device, and browser type/version.
 
 ## Research questions
-- How intuitive is the download process? 
+- How intuitive is the download process? What issues arise?
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
   - What are users' reactions to auto-download? (if testing this) 
-- What types of issues arise?
+- What types of cases are there?
   - Form downloads when you click the link
   - Form opens in browser when you click the link
   - Downloaded form won't open when you click on it
@@ -68,8 +68,7 @@ Ask Perigean to recruit X people in order to get Y completed sessions using the 
 
 Team Availability | Time (EST)
 ------------------|--------------
-, 2021 | Noon - 8:30 pm
-, 2021 | Noon - 3 pm, 5 - 8:30 pm
+, 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
