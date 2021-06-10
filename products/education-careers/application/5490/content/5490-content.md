@@ -162,7 +162,8 @@ Have you ever served on active duty in the armed services? (*Required) { radio b
 
 Add another service period { button }
 
-    { If "Add another service period" is clicked, display following content below initial fields, but ABOVE the "Add another service period" button }
+    { If "Add another service period" is clicked, display the following content below initial fields, but ABOVE 
+    the "Add another service period" button }
 
     - Branch of service (*Required) { text field }
     - Service start date (*Required) { dropdown for Month and Day, text field for Year }
@@ -205,6 +206,7 @@ I understand that I am choosing to receive DEA benefits instead of any Fry Schol
 
 
 
+
 { If selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information, display conditional blue bar }
 
 { blue informational alert }
@@ -214,6 +216,8 @@ I understand that I’m choosing to receive DEA benefits instead of any Fry Scho
 { end blue informational alert }
 
 { end selected "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)" and "Child, stepchild, adopted child" in Applicant information }
+
+
 
 
 { If selected "The Fry Scholarship (Chapter 33)" and "Spouse or surviving spouse" in Applicant information, display conditional blue bar }
