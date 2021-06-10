@@ -1,7 +1,5 @@
 # Conversation Guide for Profile, Notification Settings
 
-`DRAFT`
-
 ## Moderator logistics
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
