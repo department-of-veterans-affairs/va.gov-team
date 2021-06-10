@@ -90,6 +90,12 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - In dual state? **Yes**
     - https://www.va.gov/central-iowa-health-care/
 
+5. Fayetteville VA Mobile Clinic (NC)
+    - Reached out to VISN 6 PAO: Tara Ricks-Edger
+    - https://www.va.gov/fayetteville-coastal-health-care/
+    - In dual state? **Yes**
+    - https://www.va.gov/fayetteville-coastal-health-care/locations/fayetteville-va-mobile-clinic/
+
 
 ### TBD
 
