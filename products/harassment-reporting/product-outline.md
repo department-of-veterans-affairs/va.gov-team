@@ -1,6 +1,7 @@
 # Product Outline: Online Harassment Reporting Page & Form
 
 > Up to date [Product Epic is here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24883).
+> Read-me [document with additional context, references and artifacts[(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting) 
 
 ## Overview
 
