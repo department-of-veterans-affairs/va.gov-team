@@ -4,30 +4,31 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: 04/13-04/16
+- Desired date range or test duration: 04/14-04/16
 - Desired number of users: 2
 - How you'll recruit the right production test users: Our UAT will occur on staging with our VA Education stakeholders
 - How you'll conduct the testing: We will provide a script and credentials for staging to our stakeholders
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
+- Number of users: 2
+- Number of bugs identified / fixed: 2/2
+    - VRRAP: Email validation allows differing email addresses#23314
+    - VRRAP: Staging error on submission#23325
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 - If yes, what: lorem ipsum
 
 
 ## Go Live!
 
 ### Planning:
-- Desired date: Week of 04/19/2021
+- Desired date: Week of 04/30/2021
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: Go
 
 ### 1-week results:
 - Number of unique users: x
