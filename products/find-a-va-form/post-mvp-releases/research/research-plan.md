@@ -7,11 +7,15 @@ The purpose of this research is to better understand how Veterans download VA fo
 Modern browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. A challenge is how to advise users to download the forms to their device and then open them in Acrobat, which is a process that varies by form, device, and browser type/version.
 
 ## Research questions
-- How intuitive is the download process? What issues are there?
+- How intuitive is the download process? 
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
   - What are users' reactions to auto-download? (if testing this) 
+- What types of issues arise?
+  - Form downloads when you click the link
+  - Form opens in browser when you click the link
+  - Downloaded form won't open when you click on it
 
 ## Hypotheses
 - TBD 	
