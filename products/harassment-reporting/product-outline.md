@@ -39,10 +39,11 @@ How might we make it easier for Veterans to report incidents of harassment or as
 - VA ORDMI should be able to more effectively capture, track and report on cases.
 
 ## Undesired User / Business Outcomes
-- 
+- An online reporting form that is confusing, difficult to complete
+- An online reporting form that is not secure
+- An online reporting form that does not enable efficient submission, routing, remediation -- or slows the process.
 
 ## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
   - Ratio of appropriate/inappropriate disability benefit applications started/completed
   - Ratio of appropriate/inappropriate education benefit applications started/completed
   - % of "How to Apply" wizard content pages resulting in applications started
@@ -91,4 +92,8 @@ How might we make it easier for Veterans to report incidents of harassment or as
 - Team Name: Public Websites
 - GitHub Label: vsa-public-websites
 - Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites), [#va-how-to-apply-wizards](https://dsva.slack.com/channels/va-how-to-apply-wizards)
-- POCs: John Hashimoto, Liz Lantz, Selina Cooper, Mikki Northius
+- OCTO-DE Product Owner: John Hashimoto
+- Product Manager: Brian Lloyd
+- UX Designer: Cassandra Allen
+- Researcher: Cindy Merrill
+- Front End Engineer: Kelson Adams
