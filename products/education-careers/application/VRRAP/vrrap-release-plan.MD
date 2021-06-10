@@ -53,8 +53,9 @@
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
-
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
+   1. Ideally, the form would be split into multiple chapters
+   2. We're awaiting results of the our accessibility review. If anything significant is identified we will want to prioritize those issues. 
