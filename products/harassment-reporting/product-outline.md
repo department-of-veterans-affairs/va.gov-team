@@ -44,24 +44,26 @@ How might we make it easier for Veterans to report incidents of harassment or as
 - An online reporting form that does not enable efficient submission, routing, remediation -- or slows the process.
 
 ## KPIs
-  - Ratio of appropriate/inappropriate disability benefit applications started/completed
-  - Ratio of appropriate/inappropriate education benefit applications started/completed
-  - % of "How to Apply" wizard content pages resulting in applications started
+  - Ratio of reports submitted online vs. in-person vs. mail vs. email vs. fax
+  - Rate of successful submissions (e.g. all required information)
+
 
 ---
 
 ## Solution Approach
 
-- (1) Develop user flows that outline proposed approach of moving wizards to the Applicaton/Tool landing pages - https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6315
-- (2) Validate assumptions -- as much as possible -- with usage data (Analytics Team) and user insights (Contact Center)
-- (3) Determine if a prototype can/should be built to validate assumptions -- or if we can/should build a live MVP version on site with traffic throttling
-
+- (1) Discovery research: How is this done elsewhere? How is this handled by VA now?  What are the pain points?
+- (2) Prototype (including design and content): What would the reporting form contain? How will the questions be asked?  Will the form work for different use cases?
+- (3) User Testing: Is the form easy to use?  Does the form elicit empathy for the user? 
+- (4) Development: Build MVP for baseline functionality and processing integration and workflows
+- (5) Deployment: Phased roll-out to test and, if necessary, iterate
+- (6) Awareness: Where will links go on VA.gov to ensure this is findable 
 
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
-  - Proposed hypotheses make it easier for Veterans to apply for benefits/submit a claim from content pages where they're most likely to end up in their research.  
+   
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
