@@ -677,3 +677,53 @@ Note: According to federal law, there are criminal penalties, including a fine a
 I have read and accept the [privacy policy]() (*Required) { checkbox }
 
 [ Back | Submit application ] { buttons }  
+
+__________________________________________
+
+## Form Title: Apply for education benefits as an eligible dependent  
+
+Form 22-5490
+
+#### We've received your application.  ####
+
+We usually process applications within **30 days**.
+
+We may contact you for more information or documents.
+
+Print this page  { button }
+
+
+{ blue box }
+
+**Education benefit application (Form 22-5490)** 								
+
+for { Fname Lname }  
+
+**Selected benefit**
+{ selected benefit }
+
+**Confirmation number**
+{ confirmation number }  
+
+**Date received**
+{ Mon. NN, YYYY }  
+
+**Your claim was sent to**
+VA Regional Office 
+P.O. Box 8888 
+Muskogee, OK 74402-8888
+
+{ end blue box }
+
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)
+
+
+
+[Go Back to VA.gov]() { button }
