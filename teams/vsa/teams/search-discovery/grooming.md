@@ -6,15 +6,49 @@
 - Meeting owner: Denise Coveyduc (PM-Search & Discovery)
 - Facilitator: Denise Coveyduc
 - Attendees: John Hashimoto (VAPO), Sam Suddath (FE Engineer), Megan Gayle (Designer/Researcher)
+
+- Purpose: Prepare stories to be “ready” for sprint planning
+
 - Standing agenda: 
   - Issue Grooming
     - Add/Remove Backlog Items
     - Change priority of items  
-    - Clarify/Change Acceptance Criteria 
-  - Update status notes
-  - Discuss topics (as needed) to gain/improve clarity 
+    - Clarify/Change Acceptance Criteriaincluding Tiers
+    
+- [ ] ***Tier 1 (Must be validated by PO + PM + (if UX) Design Lead);*** Validation of AC prior to promotion to Staging or Prod Environment. Approval will be triggered by a comment in ticket and act as a trigger for staging/prod release. 
+ - [ ] ***Tier 2 (must be validated in Socks by PM or PO);*** Validation of AC promotion to Staging or Prod Environment. Approval will be triggered by a comment in ticket which will act as a trigger for staging/prod release. 
+ - [ ] ***Tier 3 (No Socks validation necessary )*** Validation of AC not required , once fix has been applied please ensure safe monitoring practice and validation with any applicable cross functional team as applicable. 
+ 
 
 </details>
+
+## June 10, 2021
+
+
+***DISCUSSION TOPICS:*** 
+
+1- Logistics 
+
+2- Collab Cycle Event Update 
+
+   **Click Tracking**
+     - Privacy & Security Review TBD
+ 
+
+   **Type Ahead 1.0 [#17558](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)**
+  - Full Accessibility & 508 Audit TBD
+  - Post Launch Check In
+
+  **UI Consistency for Global Search [#25484](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25484)**
+  - Staging review
+  - Privacy and security review
+
+
+
+
+  
+ 
+ 3- Issue Grooming 
 
 ## May 27, 2021
 
