@@ -34,7 +34,8 @@
 
 Vet Center
 * Connecting 17 Outstations to their Section and Vet Center [#5564](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5564). Who can fix this, and with what data?
-
+* [#4582 Grouping Vet Centers Sections into Districts](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4582)
+* 
 
 Other
 * CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
