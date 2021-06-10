@@ -1,0 +1,64 @@
+# IA Design and Recommendations
+**STATUS: IN PROGRESS**
+
+**Product/Featue:** Disability file a claim wizard
+
+**IA Request:** 
+
+**On this page:**
+- [User flows](#flows)
+- [IA structure, URLs and breadcrumbs](#ia)
+- [Navigation and entry points](#nav)
+- [Redirects](#redirects)
+- [Meeting notes](#notes)
+
+
+## <a name="flows"></a>User/Page Flows <br>
+*Description of how users will flow through the experience*
+
+![image](https://user-images.githubusercontent.com/20994159/95248216-99d4ed00-07dc-11eb-848c-be0a43112598.png)
+
+Wizard functionality
+1. Skip/ignore wizard - This is an optional feature of the wizard pattern.  On the /introduction page while the wizard is displayed, an option may be provided that allows the user to skip the wizard or ignore's its recommendation if they want to continue forward on the current application.
+2. Shared wizards - The same wizard may be shared across multiple related applications - i.e. the wizard on each of the education applications will be the same wizard, however the wizards on the chapter 31 and 36 wizards are different.  
+    - If a wizard routes a user to a different application that shares the same wizard, the user will not need to complete the wizard again. 
+    - If a wizard routes a user to a different application with a different wizard, the user will need to complete that application's wizard. 
+3. Start over - This is an optional feature of the wizard pattern.  Once the user has either completed or skipped/ignored the wizard, the /introduction page of the application is refreshed with content about that application along with an option for the user to "start over".  When the user clicks this option, it should function like the browser 'Back' button - they should be returned to the original /introduction page with the wizard completely reset (i.e. their previous answers are cleared). This option only appears on the /introduction page.
+    - If the user did the wizard on application A, continued to application A, clicking "start over" would return them to the default state of application A
+    - If the user did the wizard on application A, was routed to application B, clicking "start over" would return them to the default state of application A
+4. Abandon application - If a user abandons their application by either navigating away from an unsaved form, choosing to start a new application, or their saved application has expired,  their wizard status should be reset.  When starting the application again, they would need to complete the wizard again. 
+5. Resume saved application - If a user resumes a saved application, they would not need to complete the wizard again.  The saved in progress application will return them to the appropriate place within the application form flow. 
+
+## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
+*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
+
+
+Page | URL | Breadcrumb | Description
+--- | --- | --- | ---
+   |   |   |  | 
+
+
+## <a name="nav"></a>Navigation and Entry Points <br>
+*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+
+Priority | Placement | Destination | Description
+--- | --- | --- | ---
+   |   |   |  | 
+
+***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
+
+
+## <a name="redirects"></a>Redirects <br>
+*Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+-  
+
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+*For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
+
+
+<hr>
+<hr>
+
+## <a name="notes"></a>Meetings Notes and Background Info
+
