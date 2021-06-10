@@ -19,6 +19,15 @@ To help us figure this out, we'd like to better understand:
 - How do users expect to be able to resolve these action items?
 - Will people come to My VA to see their notifications? 
 
+## Questions about design explorations
+
+- Should messages all be in one alert? Or should there be a separate alert for each message?
+- Are action items something that logged-in users **always** have access to? Or is it better for them to live on My VA?
+- What icons represent action items? (maybe bells and flags?)
+- How do we make indicators accessible? What are some good examples of this?
+- What types of information do we need to include in an action item alert?
+- What is the best way to test these concepts?
+
 ## Past research
 
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
