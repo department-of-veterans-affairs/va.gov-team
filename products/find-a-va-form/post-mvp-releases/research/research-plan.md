@@ -1,19 +1,25 @@
 # Research Plan: Find a Form PDF Downloading
  	
 ## Goals	
-The purpose of this research is to 
+The purpose of this research is to better understand how Veterans download VA forms and get feedback on our design for advising users to download a PDF and then open it with Acrobat instead of viewing it in a web browser.
 
 ## Background
-
+Modern browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. A challenge is how to advise users to download the forms to their device and then open them in Acrobat, which is a process that varies by device and browser type/version.
 
 ## Research questions
-- How do 
+- How intuitive is the download process? What usability issues are there?
+  - Do some users not notice the download notification/file at the bottom of the browser window?
+  - Any difficulties finding the file to open it? 
+  - Does the file always open in Acrobat?
+  - What are users' reactions to auto-download? (if testing this) 
 
 ## Hypotheses
 - TBD 	
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving forms to download.
+
+*Will there be a design prototype? Will there be a POC on DocuSign?*
 
 ## Participants and Recruitment	
 Ask Perigean to recruit X people in order to get Y completed sessions using the following criteria:
@@ -28,6 +34,7 @@ Ask Perigean to recruit X people in order to get Y completed sessions using the 
 - At least 3 participants over 60
 
 ### Good to have for participants
+- **TBD**
 - At least 2 people who use a screen reader
 - At least 2 people who have never used the VA.gov website before
 - At least 2 people of color
@@ -46,7 +53,7 @@ Ask Perigean to recruit X people in order to get Y completed sessions using the 
 - Have Zoom downloaded prior to the session and know how to share their screen
 
 ### Additional questions to ask in the screener
-- Have you used the VA.gov website before? 
+- Have you downloaded VA forms before? 
   - If yes, how recently? 
   - If yes, on what device(s)--computer, tablet, or smartphone? 
 - What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
