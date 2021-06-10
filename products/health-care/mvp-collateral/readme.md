@@ -34,7 +34,7 @@ For Women Veteran’s Day in June 2021, you can spread the word about MVP at you
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Social-Media-Content-MVP-PSA-FINAL.docx">PSA social media toolkit</a>
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
 - [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
-- [VAntage Point story about PSA](tbd)
+- [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
 
 
 ## Feature story for VISN and VAMC websites
@@ -146,6 +146,8 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 ## Other content
 
 Note: Newest content is listed first
+- [30-second PSA: Women Veterans invite you to join them in MVP](https://www.youtube.com/watch?v=drlPmhhk-SA)
+- [VAntage Point Blog: Future of medicine is in your genes – we need your help](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
 - [ICYMI: AMVETS and VA Facebook Live on the Million Veteran Program and future of medicine](https://blogs.va.gov/VAntage/88845/icymi-amvets-va-facebook-live-million-veteran-program-future-medicine/)
 - [VAntage Point Blog: Keisha Bellamy: Army Veteran a champion for health and research](https://blogs.va.gov/VAntage/86267/army-veteran-champion-health-research/)
 - [VAntage Point Blog: Morgan Danowski: Combining science and service as a VA genetic counselor](https://blogs.va.gov/VAntage/85996/combining-science-service-va-genetic-counselor/)
