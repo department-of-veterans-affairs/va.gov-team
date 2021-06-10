@@ -1,16 +1,51 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
-## 06/09/2021 
+## 06/10/2021 
 
-Meeting - initial dive into Salesforce FOM data
+Meeting - initial dive into Salesforce FOM data. 
+
+__Action items:__
+
+1.	CSV data dump/dictionary of FOM data fields from Salesforce (@Navarra, Daniel D. will provide to Jen)
+
+2.	Check if the Service Now API for the Salesforce FOM data is something that we can also use to consume FOM data (@Navarra, Daniel D.will check in with SNOW team)
+
+3.	Provide Janet, Dan, and Demetrius on any data points our team needs that may not be in Salesforce today (@Lee, Jennifer Y. will review the data dictionary and then provide info)
+
+__Call summary:__
+
+Confirmed that minimally the following are available as data in Sf:
+
+•	FOM hierarchy (Org level, parent org, related offices)
+
+•	Org account ID (this is essentially the office record number)
+
+•	Official org name
+
+•	Official org acronym
+
+•	Mission text content (optional but exists as a field for all orgs)
+
+•	Business function overview text content
+
+•	Activities
+
+•	Authorities (not freeform, but field based from a database of authorities)
+
+__Next:__
+
+Jen to find half hour with Janet next week – deeper look into what happens when offices are consolidated/closed/otherwise deprecated. 
+
 
 __Attendees:__ 
 
-Janet Schiller
+Janet Schiller, OEI, FOM project manager/editor-in-chief
 
-Jen Lee
+Jen Lee, OCTO digital service (product & content design)
 
-Dan Navarro
+Dan Navarro, OIT project manager, Salesforce
+
+Demetrius Hicks, OIT project manager
 
 
 ## 06/08/2021
