@@ -8,7 +8,7 @@ The Office of Resolution Management, Diversity and Inclusion (ORDMI) is the offi
 
 In response to Section 5303 of the Deborah Sampson Act which is part of the Megabus Bill that was passed in January 2021, and new congressional demands for action, ORDMI has been charged with building a secure, online reporting tool on VA.gov that would enable Veterans (to start) and VA employees (later) to report alleged incidents about violations which occur in a VA facility.
 
-(A 2020 Government Accountability Office report showed the VA’s workplace sexual harassment policies were inconsistent and incomplete, including a lack of centralized reporting mechanisms or resources of VA beneficiaries who report sexual harrassment or assault by VA employees or on VA property.)
+(A 2020 Government Accountability Office report showed the VA’s workplace sexual harassment policies were inconsistent and incomplete, including a lack of centralized reporting mechanisms or resources for VA beneficiaries who report sexual harrassment or assault by VA employees or on VA property.)
 
 
 ## Problem Statement
@@ -18,24 +18,28 @@ How might we make it easier for Veterans to report incidents of harassment or as
 
 ## Assumptions
 
-- Some Veterans will prefer to complete an online form for reporting incidents of harassment versus current means (in-person at VA facility, call VA, email OIG)
-- 
+- Some Veterans will prefer -- for privacy reasons, due to efficiency, etc. -- to complete an online form for reporting incidents versus current means (e.g., in-person at VA facility, call VA, mail Office of Inspector General)
+- The online form will be designed to accommodate various use cases for this delicate situation -- e.g. some may want to report an incident confidentially, etc.
 
 --- 
 
 ## Desired User / Business Outcomes
 
 **Why would a user want to use this?**
-**With this problem solved, what should users be able to do/achieve that they couldn't before?**
-**Why would your business want this to exist?**
-**With this problem solved, what should your business be able to do/achieve that they couldn't before?**
+- To report an incident in a way that allows for more privacy and anonymity (online vs. in-person), is guided (e.g. the form requires needed information, reducing risk of error) and will increase speed to outcome (e.g. the data will be routed to the correct remediation path).
 
-- It's easier for Veterans to find the right online experience to apply for the benefits they're looking for 
-- Veterans aren't spending time filling out the wrong online application
+
+**With this problem solved, what should users be able to do/achieve that they couldn't before?**
+- There is the possibilty that a "track progress" of report will be a key feature, once systems are in place. 
+
+**Why would your business want this to exist?**
+- VA ORDMI has been charged with creating a centralized reporting mechanism and driving awareness about this resource in response to potential increase in reported incidents and perception that VA has not been responsive and transparent about the issue.
+
+**With this problem solved, what should your business be able to do/achieve that they couldn't before?**
+- VA ORDMI should be able to more effectively capture, track and report on cases.
 
 ## Undesired User / Business Outcomes
-
-- It's harder for Veterans and others to find/start applications for benefits they seek  
+- 
 
 ## KPIs
 - *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
