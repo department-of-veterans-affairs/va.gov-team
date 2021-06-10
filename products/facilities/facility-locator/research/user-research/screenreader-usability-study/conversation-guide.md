@@ -102,9 +102,10 @@ Checklist:
 At this point [I'd like you to go back to Zoom] I'm going to have you share your Zoom screen so that I can follow along with you. 
 
 ### Desktop
-
+- We want to confirm your internet speed before we set up the screen share. Have you received any alerts from Zoom on having a low internet bandwidth or connection speed?
 - Tab to the “Screen share” button and activate it with your space key.
 - Tab or navigate past the “basic, advanced, and files” tab menu items and find “Share entire screen.” It should be the first item in the list of windows or - applications to share. Use your space key to select it.
+  - [If the user can’t find the screen they want to share, ask them to use the up and left arrow keys to return back to share entire screen]
 - Tab to “Share sound” and use your space key to select it. This will let us hear your screen reader.
 - With those settings in place, tab to the "Share" button and use your space key to select it to start the screen share.
 
