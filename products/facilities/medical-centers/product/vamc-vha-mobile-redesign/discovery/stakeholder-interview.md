@@ -62,7 +62,7 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
 
-1. ~~Montrose 1 VA Mobile Clinic~~ Stakeholder responded that these mobile clinics are no longer operating
+1. ~~Montrose 1 VA Mobile Clinic~~  **RESPONSE:** Stakeholder responded that these mobile clinics are no longer operating
     - https://www.va.gov/find-locations/facility/vha_620QA
     - In dual state? **Yes**
     - https://www.va.gov/hudson-valley-health-care/locations/montrose-1-va-mobile-clinic/
@@ -73,8 +73,9 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/find-locations/facility/vha_442QF
     - In dual state? **Yes**
     - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
-    - Reached out to Samuel Cheyenne Mobile PAO 
     - Reached out to Jill Atwood VISN 19 PAO
+    - Reached out to Samuel House Cheyenne PAO > **RESPONSE:** directed me to Scott & Izzy (RNs) 
+    - Reached out to Scott & Izzy - waiting
 
  
 3. Palo Alto Mobile Clinic
@@ -82,19 +83,21 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - In dual state? **Yes**
     - https://www.va.gov/palo-alto-health-care/locations/
     - Reached out to Palo Alto PAO Kim Betton > bounced back
-    - Reached out to VISN 21 PAO Armenthis Lester
+    - Reached out to VISN 21 PAO Armenthis Lester - waiting
 
  
 4. Des Moines Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_636QH
     - In dual state? **Yes**
     - https://www.va.gov/central-iowa-health-care/
+    - Reached out to Central Iowa PAO, Jerry Self - waiting
+    - Reached out to VISN 23 PAO - Ron Woolery
 
 5. Fayetteville VA Mobile Clinic (NC)
-    - Reached out to VISN 6 PAO: Tara Ricks-Edger
     - https://www.va.gov/fayetteville-coastal-health-care/
     - In dual state? **Yes**
     - https://www.va.gov/fayetteville-coastal-health-care/locations/fayetteville-va-mobile-clinic/
+    - Reached out to VISN 6 PAO: Tara Ricks-Edger
 
 
 ### TBD
