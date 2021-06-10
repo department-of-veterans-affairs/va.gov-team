@@ -11,7 +11,9 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is __________ and I also have some colleagues on the line observing and taking notes.  We have a team working on a new section of the VA.gov profile that will help you manage email and text notifications from the VA.  During our session today, I'd like to hear your thoughts about notifications, and get your feedback on this new section of the site. I want to make the distinction that we're not talking about mobile push notifications or reminders you get from an app - our conversation will be specific to notifications you get via email or through an SMS text message.
+Thanks for joining us today! My name is ______ and I also have some colleagues on the line observing and taking notes.  We have a team working on a new section of the VA.gov profile that will help you manage email and text notifications from the VA. During our session today, I'd like to hear your thoughts about notifications, and get your feedback on this new section of the site.   
+
+To make sure we're on the same page, when I say notifications,  I'm referring to text messages or emails you get that notify you about an update, an action you've taken, or something that needs your attention.  I want to make the distinction that we're not talking about mobile push notifications or reminders you get from an app - our conversation will be specific to notifications you get via email or through an SMS text message.
 
 Before we start, a few things I want to mention:
 
@@ -51,11 +53,11 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 ## Task 1: Navigate to notification settings - 2 minutes
 
-*Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i
+*Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
 Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
 
-*If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/sitemap?mode=i
+*If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
 
 ### Things to watch for
 
@@ -64,7 +66,7 @@ Imagine you heard the VA had recently started giving people the option to get te
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.* https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i 
+*Participant should be on notification settings page of profile.* https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/no-panels?mode=i
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
