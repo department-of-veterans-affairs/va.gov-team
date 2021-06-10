@@ -54,24 +54,28 @@ How might we make it easier for Veterans to report incidents of harassment or as
 
 - (1) Discovery research: How is this done elsewhere? How is this handled by VA now?  What are the pain points?
 - (2) Prototype (including design and content): What would the reporting form contain? How will the questions be asked?  Will the form work for different use cases?
-- (3) User Testing: Is the form easy to use?  Does the form elicit empathy for the user? 
-- (4) Development: Build MVP for baseline functionality and processing integration and workflows
-- (5) Deployment: Phased roll-out to test and, if necessary, iterate
+- (3) Context (content): Create resources to explain the reporting process and address the veteran's concerns, fears.
+- (3) User Testing: Determine if: the form easy to use -- and it treats the user with empathy
+- (4) Development: Build MVP of form for baseline functionality and processing integration and workflows
+- (5) Deployment: Phased roll-out to test and, if necessary, iterate before going to full release
 - (6) Awareness: Where will links go on VA.gov to ensure this is findable 
 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
+
+- *How are Veterans and others using this product going to know it exists?*.  VA.gov site links, Search engine optimization/listings, In facility marketing and communications, Internal VA employee communications, newsletters, etc.
+
    
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?* VA.gov site links, Search engine optimization/listings, In facility marketing and communications, Internal VA employee communications, newsletters, etc.
+
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
-  - to be determined
+  -  September 2021
   
 - *What is your date for when you'll evaluate impact after launch?*
-  - to be determined
+  - November 2021
 
 ---
 
