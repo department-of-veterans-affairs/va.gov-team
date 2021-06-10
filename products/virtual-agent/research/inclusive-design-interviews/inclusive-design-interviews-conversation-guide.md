@@ -137,6 +137,7 @@ Thank you for working through that with us. We can get started with some questio
 - Have you ever used a chatbot or virtual agent online - why or why not? What were you doing on it?
 - Were you aware that VA.gov had a coronavirus chatbot? If yes -- Did you use the Coronavirus chatbot on VA.gov - why or why not?
 - What assistive technology do you use to interact with the Internet?
+- Do you use Alexa, Google Home, Cortana, Siri, Bixby, Facebook portal or any other conversational tool?
 
 Product interaction
 
@@ -147,8 +148,6 @@ We’re now going to have you interact with the product we’ve built.
 I'm going to send a link [by format specified] Go ahead and click on the link and we’ll get started.
 OR:
 Please open the browser and go to [read this url out loud, slowly] staging.va.gov/virtual-agent-study.  
-
-(Read what the disclaimer says outloud) 
 
 You are now in the chatbot window.  We’d like you to interact with the chatbot, and afterwards we’ll chat about the experience.  
 Think of a recent time when you wanted to find out something - some piece of information or a task to complete - on va.gov or to contact the VA.
@@ -177,11 +176,11 @@ Now that we tested the product, we’d like to understand your experience.
 - Did it understand what you were trying to ask?
 - After reading the response, did you have the information you needed to take the next step to complete your task?
 - If the chatbot wasn’t able to answer your question, how did that make you feel?
-- The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
+- The chatbot could answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot? a) I would prefer to sign in, so I can get answers to personal questions. b) I would prefer not to sign in, even if it means I cannot get personalized answers. c) I don't know. 
 - How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)
 - How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.) 
 - How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the right link? Was your question answered? 
-- What content (questions and topics) would you find valuable in a chatbot and what language would the expect
+- What content (questions and topics) would you find valuable in a chatbot?
 - How can a chatbot help you reduce how often you call the VA? 
 - Based on your experience today, are you willing to use the chatbot again?
 - Do you have any other feedback you'd like to share?
