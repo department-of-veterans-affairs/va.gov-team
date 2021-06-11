@@ -26,7 +26,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 *Will there be a design prototype? Will there be a POC on DocuSign?*
 
 ## Participants and Recruitment	
-Ask Perigean to recruit X people in order to get Y completed sessions using the following criteria:
+Ask Perigean to recruit 15 people in order to get 10 completed sessions using the following criteria:
 
 ### Must have for participants
 - **TBD**
@@ -64,7 +64,7 @@ Ask Perigean to recruit X people in order to get Y completed sessions using the 
 
 ## Timeline
 #### Desired Timeline: DATES, 2021 
-**One-hour** sessions with at least **30-minute breaks** in between 
+**30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
