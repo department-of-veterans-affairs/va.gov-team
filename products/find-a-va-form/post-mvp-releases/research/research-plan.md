@@ -86,7 +86,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (mmcguire@governmentcio.com), Cassandra Allen (callen@governmentcio.com)
  
 ## Resources	
-- [Conversation Guide]()	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)	
 - [Research Findings]()	
 
 ## Approvals
