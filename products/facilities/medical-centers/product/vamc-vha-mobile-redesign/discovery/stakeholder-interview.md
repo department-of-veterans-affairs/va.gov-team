@@ -1,5 +1,7 @@
 # Stakeholder Discovery
 
+[] Ask to record
+
 ## About the Stakeholder
 - Name: 
 - Title:
@@ -8,26 +10,17 @@
 ## Role & Responsibilities 
 - Can you tell me about your role?
 - Your top 3 responsibilities as it relates to Mobile Clinics?
-- What does success look like for you?
-- Are you solely responsible for this or do you share the management of mobile clinics with others?
-- What's the most challenging aspect of managing mobile clinics?
 
-### If time permits:
-- With regards to managing mobile clinic operations, how does decisionmaking vary at: 
-  - your local health system level:
-  - VISN level:
-  - district level:
-  - region level:
-  - national:
 
 ## About Mobile Clinics
 - Mobile clinic(s) name(s):
   - How many? 
-- Type of vehicle
+- Vehicle/brick and mortar?
 - How long have you had one?
 - What has your mobile clinic been used for?
-  - Has this changed from before the pandemic? During the pandemic?
-- Does the mobile clinic always come back to the same location; does it have a home base?
+   - Has this changed from before the pandemic? During the pandemic?
+- What services are available?
+- If vehicle: Does the mobile clinic always come back to the same location; does it have a home base?
 - Are mobile clinics wheelchair accessible?
 - Are there transportation services available to Veterans, like DAV vans or shuttle services, for Veterans to get to a mobile clinic?
 - Do mobile clinics have their own phone number or are calls routed to another phone number?
@@ -36,8 +29,20 @@
 - Who uses mobile clinics? 
 - How do they make an appointment?
   - Are any services walk-in?
-- How do Veterans learn about your mobile clinic services?
-- What do Veterans complain about?
+- How do Veterans learn about your mobile clinic services and events?
+- What do Veterans complain about with regards to mobile clinics?
+
+### Mobile clinic operations:
+- With regards to managing mobile clinic operations, how does decision-making work? 
+- Is the management of mobile clinics shared with others?
+- Does it differ at:
+  - your local health system level:
+  - VISN level:
+  - district level:
+  - region level:
+  - national:
+- What does success look like for you as it relates to Mobile clinics?
+- What's the most challenging aspect of managing mobile clinics?
 
 ## Scheduling
 - What does the schedule of a mobile clinic look like?
