@@ -49,8 +49,9 @@ Page | URL | Breadcrumb | Description
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+<br>***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
-Priority | Placement | Update existing or New? | Destination | Description
+**Priority** | **Placement** | **Update existing or New?** |**Destination** | **Description**
 --- | --- | --- | --- | ---
 Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of existing link to file a claim
 Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update existing link for file for disability increase
@@ -60,10 +61,22 @@ Must  | [Hub page - Disability](www.va.gov/disability/) | New  | www.va.gov/disa
 Must  | [Hub page - Disability](www.va.gov/disability/) | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  |  Update destination of "File for increased disability" link in the "Manage benefits" spoke. Currently links to the "How to apply" page, should now go directly to the 526 application. 
 Must  | Left Nav - Disability | New | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link the left nav in the Disability hub.  Exact verbiage TBD by writer - should be close or exact match to H1.  Place as 3rd option in the "Get Benefits" spoke, just after "How to apply". 
 Must  | Left Nav - Disability | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of "File for increased disability" link in the "Manage benefits" spoke. Currently links to the "How to apply" page, should now go directly to the 526 application. 
-Must | Disability - [How to apply page](www.va.gov/disability/how-to-apply)
+Must | [Disability - How to apply page](www.va.gov/disability/how-to-apply) | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start | Remove wizard from static page, link directly to application, revise content as needed
 
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
+### Entry point updates
+
+The following pages have links that indicate they are going directly to file a claim, but just link to the "How to apply" page.  Link labels should be modified to clearly indicate where they are taking the user (i.e. How to apply page versus the actual application).** 
+
+Other sibling pages have a link label of "Find out how to file a claim for disability compensation."  Recommend using the same verbiage.  If different verbiage is used, all other pages should also be updated for consistency. 
+
+- https://www.va.gov/disability/eligibility/hazardous-materials-exposure/agent-orange/
+- https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
+  - This page includes a link to eBenefits, need to determine if this is still an accurate destination. 
+- https://www.va.gov/disability/how-to-file-claim/additional-forms/
+
+
+
 
 
 ## <a name="redirects"></a>Redirects <br>
