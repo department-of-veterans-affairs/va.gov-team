@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: COMPLETE 04/30/2021**
+**STATUS: ~COMPLETE 04/30/2021~  RE-OPENED 6/11/2021**
 
 **Team:** VSA - eBenefits
 
