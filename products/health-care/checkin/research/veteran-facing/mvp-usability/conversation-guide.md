@@ -49,7 +49,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
-[Screenshare poster] 
+[Screenshare poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/check-in-collateral-usabilityTest.pdf)
 
 **Poster**
   * Can you explain to me what we're looking at here?
