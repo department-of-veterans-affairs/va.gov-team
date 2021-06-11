@@ -112,12 +112,12 @@ We're providing a two-week window due to potential difficulty in recruiting user
 - Please leave at least 30 minutes between sessions 
 
 ### Team members
-- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager, moderator
-- Candy Clark | cclark@governmentcio.com -- Moderator, designer
+- James Adams | jadams@governmentcio.com -- Moderator, designer
+- Candy Clark | cclark@governmentcio.com -- Researcher, designer
+- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- James Adams | jadams@governmentcio.com -- Designer
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
 - Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
