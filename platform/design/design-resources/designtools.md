@@ -13,7 +13,15 @@ NO Google Drive allowed. Like, for real.
 
 ## Mockups, wireframes, sketches
 _Ask your UX Lead about access to these tools_
-- **Sketch**: We use Sketch to design. There is a [Sketch pattern library](https://design.va.gov/documentation/code-and-design). If you find you aren't able to get the job done with existing patterns, check with the manager of the design system (currently: Ryan Thurlwell). 
+- **Sketch**: We use Sketch for Teams to view, share, and collaborate on our work. Sketch for Teams works very similar to “normal” Sketch, but contains a few big features that help teams work together:
+  - Files (including libraries) live in the cloud, rather than locally on your machine
+  - You can see what everyone else is doing
+  - You receive Library updates automagically
+  - Developers can inspect any element on a page, anytime
+[Learn how to setup Sketch for Teams](https://design.va.gov/documentation/designers#sketch-for-teams-at-va)
+
+- **VA.gov Pattern Library**: You can access the library in Sketch for Teams. If you find you aren't able to get the job done with existing patterns, you can contribute to the design system by [suggesting a new component](https://design.va.gov/documentation/contributing-to-the-design-system). Check with the manager of the design system if you have questions (currently: Ryan Thurlwell). 
+
 - _Creative Cloud_ (subscription, monthly fee on your own)
   - Photoshop
   - Illustrator
