@@ -66,7 +66,7 @@ Must | [Disability - How to apply page](www.va.gov/disability/how-to-apply) | Up
 
 ### Entry point updates
 
-The following pages have links that indicate they are going directly to file a claim, but just link to the "How to apply" page.  Link labels should be modified to clearly indicate where they are taking the user (i.e. How to apply page versus the actual application).** 
+The following pages have links with labels that indicate they are going directly to file a claim, but link to the "How to apply" page instead.  Link labels should be modified to clearly indicate where they are taking the user (i.e. How to apply page versus the actual application).** 
 
 Other sibling pages have a link label of "Find out how to file a claim for disability compensation."  Recommend using the same verbiage.  If different verbiage is used, all other pages should also be updated for consistency. 
 
