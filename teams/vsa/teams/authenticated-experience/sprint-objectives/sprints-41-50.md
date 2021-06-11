@@ -709,6 +709,7 @@ Anything not finished last sprint, plus:
 
 **FE**
 
+- Add analytics code to datalayer and confirm with analytics that everything is implemented correctly
 - UAT fixes, if necessary
 
 **Stretch goals**
