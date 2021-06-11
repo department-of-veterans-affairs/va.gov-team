@@ -5,6 +5,8 @@
 
 June 11, 2021 
 
+![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202021-06-11%20at%201.55.58%20PM.png)
+
 **Questions we have**
 
 * Is there a concept of a "resolved" copay bill, or is it a rolling balance, like a credit card? 
