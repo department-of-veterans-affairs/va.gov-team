@@ -1,6 +1,6 @@
 # Stakeholder Discovery
 
-[] Ask to record
+- [ ] Ask to record
 
 ## About the Stakeholder
 - Name: 
