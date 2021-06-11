@@ -51,30 +51,79 @@ Before we start, I want to go over a few things:
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
-## Warm-up Questions - 10 minutes
+## Warm-up Questions - 5 minutes
 
-Let’s start with a few questions... *(Phone / Computer)*
+Let’s start with a few questions... 
 
 - *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
+- What device are you using today? *(Phone / Tablet / Computer)*
+- What kind of a device is it? *(Windows / Mac / iPhone / Android)*
+- Have you ever looked online for VA forms? 
+  - If yes, can you describe that experience? 
+    - what looking?
+    - where went?
+    - how recently? 
+    - on what device(s)--computer, tablet, or smartphone? 
 
 
 ## Veteran Tasks
-Now I'm going to ask you to...
+Now I'm going to ask you to get some VA forms using the website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
+
+- What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-### Task 1: [task name] - 4 minutes
+### Task 1: [Form TBD] - 5 minutes
+I would like you to get form TBD.
 
-- 
-- *RECORD success: yes / no / help needed*
- 
+- Please talk me through what you're doing.
+- *After they open the form:* What do you see here?
+- I'd like you to start filling it out. (type something into one of the fields)
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+- You don't have time to fill it all out now, and so you want to continue later. What would you do?
+  - *RECORD whether able to save form: yes / no / help needed*
+- Now you're ready to finish filling out the form. (type something into another field)
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+### Task 2: [Form TBD] - 5 minutes
+I would like you to get form TBD.
+
+- Please talk me through what you're doing.
+- *After they open the form:* What do you see here?
+- I'd like you to start filling it out. (type something into one of the fields)
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+- You don't have time to fill it all out now, and so you want to continue later. What would you do?
+  - *RECORD whether able to save form: yes / no / help needed*
+- Now you're ready to finish filling out the form. (type something into another field)
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+### Task 3: [Form TBD] - 5 minutes
+I would like you to get form TBD.
+
+- Please talk me through what you're doing.
+- *After they open the form:* What do you see here?
+- I'd like you to start filling it out. (type something into one of the fields)
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+- You don't have time to fill it all out now, and so you want to continue later. What would you do?
+  - *RECORD whether able to save form: yes / no / help needed*
+- Now you're ready to finish filling out the form. (type something into another field)
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
   
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-- What do you *like* about ?
-- What do you *dislike* about ?
-- What would you like to *change* about ?
+- What do you *like* about what you've seen today?
+- What do you *dislike* about what you've seen today?
+- What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
+- *RECORD assessment of technical expertise: expert / in between / not expert
+
 
 ## Thank You and Closing - 1 minute
 
