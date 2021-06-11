@@ -101,7 +101,7 @@ Note template pending; will send prior to first session.
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
-- - Candy Clark | cclark@governmentcio.com -- Moderator, designer
+- Candy Clark | cclark@governmentcio.com -- Moderator, designer
 - Kelli.Deinarowicz@va.gov
 - Erin.Griffiths1@va.gov
 - Daniel.Stenavich@va.gov
