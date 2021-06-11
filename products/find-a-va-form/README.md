@@ -76,7 +76,9 @@ __VA forms stakeholder working group includes:__
 - Tuscher, Joshua (joshua.tuscher@va.gov); 
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
 - Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>
+- Smith, Gail T. (VACO) <gail.smith@va.gov>; 
+
+### VA Forms Contacts
 ![image](https://user-images.githubusercontent.com/73354907/120379482-d0bcbd80-c2ed-11eb-9d70-9cf7ab7dda47.png)
 
 ## Problem Statement 
