@@ -27,3 +27,4 @@ Sentry is where all of the errors related to Identity are written to. Sentry pro
 #### Metrics
 This section we should list out each of the metrics we have, what they mean.
 Also list out the alerts we have configured and their definitions. These need some cleanup.
+[Statsd incrementor for metrics](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/concerns/monitoring.rb#L21)
