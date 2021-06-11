@@ -112,7 +112,7 @@ Lighthouse
 
 ## Find Out More & Get In Touch With Us
 * Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+miabecker&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
-* Slack - #va-notify
+* Slack - [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
 
 ## Incident Response ##
