@@ -43,11 +43,13 @@ How might we make it easier for Veterans to report incidents of harassment or as
 - An online reporting form that is confusing, difficult to complete
 - An online reporting form that is not secure
 - An online reporting form that does not enable efficient submission, routing, remediation -- or slows the process.
+- An online reporting form that does not provide users with submission confirmation and confidence the issue is being actions for next steps.
 
 ## KPIs
   - Ratio of reports submitted online vs. in-person vs. mail vs. email vs. fax
   - Rate of successful submissions (e.g. all required information)
-
+  - External: User satisfact with submissions (was able to complete task and recieve confirmation back concerning issue) 
+  - Internal: Business lines have an effective tool to track submissions from users. 
 
 ---
 
