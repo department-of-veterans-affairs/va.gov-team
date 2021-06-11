@@ -30,7 +30,7 @@
 - How do they make an appointment?
   - Are any services walk-in?
 - How do Veterans learn about your mobile clinic services and events?
-- What do Veterans complain about with regards to mobile clinics?
+- What do Veterans complain or question about with regards to mobile clinics?
 
 ## Mobile clinic operations:
 - With regards to managing mobile clinic operations, how does decision-making work? 
