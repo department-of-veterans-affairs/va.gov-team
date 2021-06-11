@@ -53,14 +53,14 @@ Page | URL | Breadcrumb | Description
 
 **Priority** | **Placement** | **Update existing or New?** |**Destination** | **Description**
 --- | --- | --- | --- | ---
-Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of existing link to file a claim
+Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination for existing "File a claim for compensation".
 Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination for existing "File for increased disability compensation" link.
-Must  | Top Nav - Disability fly-out | New  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link to the left column of the Disability fly-out.  Exact verbiate TBD by writer.  Place as last option in the left column. 
-Must  | Top Nav - Disability fly-out | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Existing link to file a claim
+Must  | Top Nav - Disability fly-out | New  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link to the left column of the Disability fly-out.  Exact verbiage TBD.  Place as last option in the left column. 
+Must  | Top Nav - Disability fly-out | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination for existing "File for VA disability increase" link.
 Must  | [Hub page - Disability](www.va.gov/disability/) | New  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link and teaser text to the "Get benefits" spoke, place after "How to apply".    Exact verbiate TBD by writer.  
-Must  | [Hub page - Disability](www.va.gov/disability/) | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  |  Update destination of "File for increased disability" link in the "Manage benefits" spoke. Currently links to the "How to apply" page, should now go directly to the 526 application. 
+Must  | [Hub page - Disability](www.va.gov/disability/) | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  |  Update destination for existing "File for VA disability increase" link in the "Manage benefits" spoke.  
 Must  | Left Nav - Disability | New | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link the left nav in the Disability hub.  Exact verbiage TBD by writer - should be close or exact match to H1.  Place as 3rd option in the "Get Benefits" spoke, just after "How to apply". 
-Must  | Left Nav - Disability | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of "File for increased disability" link in the "Manage benefits" spoke. Currently links to the "How to apply" page, should now go directly to the 526 application. 
+Must  | Left Nav - Disability | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of "File for increased disability" link in the "Manage benefits" spoke. 
 Must | [Disability - How to apply page](www.va.gov/disability/how-to-apply) | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start | Remove wizard from static page, link directly to application, revise content as needed
 
 
