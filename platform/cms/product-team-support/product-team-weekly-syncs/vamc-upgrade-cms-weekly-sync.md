@@ -23,6 +23,10 @@
 
 
 ## June 11
+
+* Accessibility checker (overview)
+* Mission Act - Website depricated as of Sept-30.  All Link on past and future need to be replaced.  
+  * Suggestions? Input from VHA.
 * Help Desk
 * csv files ready for migration (planning)
   * Recommendation to do them in bigger batches
@@ -30,9 +34,6 @@
   * How would these recommendations affect VAMC Upgrade team's workflow?
 * Menus
   * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
-* Accessibility checker (overview)
-* Mission Act - Website depricated as of Sept-30.  All Link on past and future need to be replaced.  
-  * Suggestions? Input from VHA.
 
 
 ## June 4
