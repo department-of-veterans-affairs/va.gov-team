@@ -25,30 +25,31 @@
 
 ### Planning:
 - Desired date: Week of 04/30/2021
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- KPI 1: 17,250 Veterans are retrained in high-demand careers		
+- KPI 2: $386 million is spent on VRRAP training programs
+- KPI 3: Less than (50% of applicants) are ineligible because they don't meet basic criteria
 - Go / No Go: Go
 
 ### 1-week results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Post-launch KPI 1 actual - 17,250 Veterans are retrained in high-demand careers: TBD		
+- Post-launch KPI 2 actual - $386 million is spent on VRRAP training programs: TBD
+- Post-launch KPI 3 actual - Less than (50% of applicants) are ineligible because they don't meet basic criteria
+- Any issues with VA handling/processing?: 
+   - It was requested that we update the wording of the spool file to match the wording included on the form by the Muskogee processing team on Monday 05/03 (https://github.com/department-of-veterans-affairs/va.gov-team/issues/24119)
+   - It was requested that the daily spool file report be updated to include VRRAP applications on 05/04
+- Types of errors logged: None
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? Yes
+   - If yes, what: https://github.com/department-of-veterans-affairs/va.gov-team/issues/24562
 
 ### 1-month results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Post-launch KPI 1 actual - 17,250 Veterans are retrained in high-demand careers: TBD		
+- Post-launch KPI 2 actual - $386 million is spent on VRRAP training programs: TBD
+- Post-launch KPI 3 actual - Less than (50% of applicants) are ineligible because they don't meet basic criteria
+- Any issues with VA handling/processing?: no
+- Types of errors logged: none
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 
 ## Post-launch Questions 
 
