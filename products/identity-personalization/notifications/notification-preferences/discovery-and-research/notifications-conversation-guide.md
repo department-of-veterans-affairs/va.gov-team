@@ -128,7 +128,7 @@ Now that you've added an email address to your profile, talk me through what you
 - Were they able to get back to notification settings without any major hurdles?
 - Did they notice that places that previously said "add your email address" are now replaced with a status?
 
-## Task 6: Remove personal information - 2 minutes
+## Task 5: Remove personal information - 2 minutes
 
 Now I'd like you to imagine you changed your mind, and don't want the VA to email notifications to you again. How would you remove the email address you added?
 
