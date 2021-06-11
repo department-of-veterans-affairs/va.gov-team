@@ -65,12 +65,16 @@ Okay, now we're going to dive into it.
             - How often is it verified? Why is it important to verify it that often?
             - How is this information used by yourself or other staff?
             - When a Veteran updates their contact or next of kin information, is a notification of that change sent to the Veteran? (Example: Maybe a letter is sent saying your phone number was changed on X date. If you didn't make this change, then contact X.)
+        - What happens if a Veteran attempts to check in but has an issue with their eligibility?
+        - What happens if a Veteran checks in at the wrong location within your facility?
         - How has check-in changed w/ COVID?
         - Did your site use I am here - the texting check-in tool? If so, how well did it work for your facility?
         - If you could change one thing about the check-in process, what would it be?
 - How do staff know that Veterans are checked in? (listen for VEText, VETlink, VSE, VistA)
   -	Possible follow up prompts / make sure to cover:
       - What tools do staff use to manage Veteran check-in?
+      - How are routing slips/encounter forms involved?
+      - When is the pre-visit summary printed out? What about the after visit summary?
       - Who needs to know that a Veteran is checked in? Do they all find out the same way?
       - __Do those staff have VSE open?__
       - Do Veterans ever end up in the waiting room without having fully completed check-in? What happens in that scenario?
