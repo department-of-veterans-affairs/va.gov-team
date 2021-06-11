@@ -79,7 +79,7 @@ The same code used to generate the HTML for the preview server can be used to ge
 
 The following diagram shows a high level design of how a node in Drupal would be published “immediately” on va.gov.
 
-Drupal is in charge of determining when and which pages need to be published based upon the action by an editor.  When Drupal determines a page is to be published, a Publish Batch Record will be sent to Amazon Simple Queue Service (SQS). A Lambda job will pick up the Publish Batch Record to build the HTML. After the HTML has been created, it’s sent to an S3 bucket which serves the html for va.gov.  
+Drupal is in charge of determining when and which pages need to be published based upon the action by an editor.  When Drupal determines a page is to be published, a Publish Batch Record will be sent to Amazon Simple Queue Service (SQS). A Lambda job will pick up the Publish Batch Record to build the HTML. After the HTML has been created, it’s sent to an [S3 bucket](http://content.www.va.gov.s3-website-us-gov-west-1.amazonaws.com/) which serves the html for va.gov.  
 
 The code used by the lambda to generate the HTML will utilize the current preview server code.  As part of this work, the preview server code will be abstracted and improved to provide production ready HTML.
 
