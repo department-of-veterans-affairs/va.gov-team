@@ -54,7 +54,7 @@ Page | URL | Breadcrumb | Description
 **Priority** | **Placement** | **Update existing or New?** |**Destination** | **Description**
 --- | --- | --- | --- | ---
 Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination of existing link to file a claim
-Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update existing link for file for disability increase
+Must  | Home page - Disability top tasks | Update  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Update destination for existing "File for increased disability compensation" link.
 Must  | Top Nav - Disability fly-out | New  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link to the left column of the Disability fly-out.  Exact verbiate TBD by writer.  Place as last option in the left column. 
 Must  | Top Nav - Disability fly-out | Update | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Existing link to file a claim
 Must  | [Hub page - Disability](www.va.gov/disability/) | New  | www.va.gov/disability/file-disability-claim-form-21-526ez/start  | Add link and teaser text to the "Get benefits" spoke, place after "How to apply".    Exact verbiate TBD by writer.  
