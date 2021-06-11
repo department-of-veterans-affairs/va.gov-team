@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: NOT STARTED**
+**STATUS: COMPLETE 01/22/2021**
 
 **Team:** Facilities <br>
 **Product/Featue:** Vet Center pages <br>
