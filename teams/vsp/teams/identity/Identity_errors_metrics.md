@@ -7,7 +7,7 @@ The VSP Identity team maintains metrics and errors for all calls related to user
 
 
 [Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alreting to slack and pagerduty.
-  ## Alerts of interest:
+  ## Alerts of Interest:
 
   - The four `AuthErrorRateCritical` alerts. They use the `api_auth_login_callback_failed` metric that is reported by both `v0` and `v1` sessions controllers.
   - Three of the `ExternalServiceAvailabilityCritical` alerts. There is one each for `ds_logon`, `mhv`, and `ID.me`. They use the `api_auth_saml_callback` metric, which is reported by both `v0` and `v1` sessions controllers.
