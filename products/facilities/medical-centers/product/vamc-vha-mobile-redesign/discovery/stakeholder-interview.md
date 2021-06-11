@@ -80,7 +80,8 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
     - Reached out to Jill Atwood VISN 19 PAO
     - Reached out to Samuel House Cheyenne PAO > **RESPONSE:** directed me to Scott & Izzy (RNs) 
-    - Reached out to Scott & Izzy - waiting
+    - Reached out to Samuel, Scott & Izzy for a meeting 
+    **MEETING SCHEDULED FOR TUESDAY, JUNE 15, 2021**
 
  
 3. Palo Alto Mobile Clinic
@@ -103,6 +104,10 @@ Today VA.gov links to a very simple page. [Show local webpage]
     - In dual state? **Yes**
     - https://www.va.gov/fayetteville-coastal-health-care/locations/fayetteville-va-mobile-clinic/
     - Reached out to VISN 6 PAO: Tara Ricks-Edger
+    - **RESPONSE:** Tara responded and referred me to new PAO, Gigail Cureton 
+    - Reached out to both for a meeting
+    - **MEETING SCHEDULED FOR TUESDAY, JUNE 15, 2021**
+
 
 
 ### TBD
