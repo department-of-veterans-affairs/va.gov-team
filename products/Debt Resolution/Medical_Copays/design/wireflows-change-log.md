@@ -7,26 +7,15 @@ June 11, 2021
 
 ![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202021-06-11%20at%201.55.58%20PM.png)
 
-**Questions we have**
+**Questions we had**
 
-* Is there a concept of a "resolved" copay bill, or is it a rolling balance, like a credit card? 
+* Is there a concept of a "resolved" copay bill, or is it a rolling balance, like a credit card?
 * What happens when a set of charges are referred to DMC for collection?
 * Can a Veteran still pay off their full balance, including the referred amount?
 * Do charges just fall off of a balance when they are being collected on? 
-  * If referred to treasury, it would drop from payable balance
-  * If referred to DMC, it would still be included in that balance
 * If full balance is paid on [Pay.gov](http://pay.gov/) after referred to DMC, does the balance go to $0?
-  * Yes, and the DMC will update them on the debt they have
-  * That doesn't hold for treasury
-  * If they owe money to treasury,  they could call treasury (primary option) but rare instances where debt can be recalled from treasury but once it's at treasury it's sticky
 * Does it happen that it's offset and the Veteran pays and they need a refund?
-  * Often
-  * Is that payment from DMC shown as 'payment from Veteran' included in this table?
-    * Yes it would be included in the transactional history
-    * If the DMC collects money and sends that money to us, it's sent and posted to the veterans account and shows up as a payment to the bill applied. There are some characteristics that let us know it was from DMC vs Veteran
 * When asking for financial help, is the full balance for a facility always considered?
-  * Need not be other than the full balance
-  * We most often take care of whatever debt the Veteran has at the time
 * What do balances vs debts look like to CSRs?
 * What is the thinking around minimum payments?
 * What happens when a part of a Veteran's debt is sent off to DMC for collection?
@@ -34,12 +23,28 @@ June 11, 2021
 
 **SME introductions**
 
-* Brandon - expert in revenue office, where information is coming from, etc
-* David - Revenue offices CPAC - policy analyst for veteran services, accounts management functions + efforts, smattering of knowledge about VISTA's interaction with other systems, but primary expertise is first party account management
-* Ernie - Program analyst within the revenue operations office, 16 years of experience with DMC, TOP, manages those programs for VHA
-* Vonda - director for CPAC operations, almost 30 years of knowledge, started as a biller for VA medical care, worked with the consolidation of CPAC over 10-15 years
-* Mari Beth - Started in CPAC for cash management, OPAC for accounts management, is a SME for veterans services
-* Daniel - 11 years work with first party, started with the admin services department, now veteran services as lead, supervisor, etc. medical care followup, 3 years ago became assistance with revenue office group helping david, became a policy analyst for facility revenue 6 months ago to help understand laws, if veteran needs help with bill they talk to facility revenue
+**Brandon**
+   * Expert in revenue office, where information is coming from, etc
+**David**
+   * Revenue offices CPAC 
+   * Policy analyst for veteran services, accounts management functions + efforts,
+   * Smattering of knowledge about VISTA's interaction with other systems, but primary expertise is first party account management
+**Ernie**
+   * Program analyst within the revenue operations office, 
+   * 16 years of experience with DMC, TOP; manages those programs for VHA
+**Vonda**
+   * Director for CPAC operations, 
+   * Almost 30 years of knowledge, started as a biller for VA medical care,
+   * Worked with the consolidation of CPAC over 10-15 years
+**Mari Beth**
+   * Started in CPAC for cash management, OPAC for accounts management 
+   * Is a SME for veterans services
+**Daniel** 
+   * 11 years work with first party; started with the admin services department, now veteran services as lead, supervisor, etc. 
+   * Knowledge about medical care followup 
+   * 3 years ago became assistance with revenue office group helping David
+   * Became a policy analyst for facility revenue 6 months ago to help understand laws
+   * If veteran needs help with bill they talk to facility revenue
 
 **Design presentation**
 
@@ -70,6 +75,21 @@ June 11, 2021
   * We don't do anything. All the first party billing is designed to be no touch except by exception due to billing error, retroactive action, or a veteran initiating an inquiry for that debt
   * First party billing is automated except for those activities
   * There is no human activity from letters being sent through TOP
+* When asking for financial help, is the full balance for a facility always considered?
+  * Need not be other than the full balance
+  * David - We most often take care of whatever debt the Veteran has at the time
+* Does it happen that it's offset and the Veteran pays and they need a refund?
+  * Often
+  * Is that payment from DMC shown as 'payment from Veteran' included in this table?
+    * Yes it would be included in the transactional history
+    * If the DMC collects money and sends that money to us, it's sent and posted to the veterans account and shows up as a payment to the bill applied. There are some characteristics that let us know it was from DMC vs Veteran
+* Do charges just fall off of a balance when they are being collected on? 
+  * If referred to treasury, it would drop from payable balance
+  * If referred to DMC, it would still be included in that balance
+* If full balance is paid on [Pay.gov](http://pay.gov/) after referred to DMC, does the balance go to $0?
+  * Yes, and the DMC will update them on the debt they have
+  * That doesn't hold for treasury
+  * If they owe money to treasury,  they could call treasury (primary option) but rare instances where debt can be recalled from treasury but once it's at treasury it's sticky
 
 **SME Questions**
 
