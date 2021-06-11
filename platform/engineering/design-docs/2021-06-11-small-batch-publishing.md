@@ -53,7 +53,7 @@
 
 An editor on the CMS should be able to publish content to va.gov when the "Publish" button is pressed in the CMS. This document outlines an approach utilizing the preview server’s code to render HTML which is directly deployed to S3.
 
-This design doc only covers publishing pages which are represented in Drupal as a node. The full content build still runs hourly.
+This design doc only covers publishing pages which are represented in Drupal as a node. The full content-only build still runs 9am-12pm Hourly, 1:45pm, 4pm, 5pm ET M-F.
 
 The primary editor use case is for updating currently published content.
 
@@ -347,4 +347,3 @@ The advantage of using Lambda is the ability to horizontally scale the processin
 | Date              | Revisions Made     | Author            |
 |-------------------|--------------------|-------------------|
 |     June 11, 2021 | Initial Draft.     | Neil Hastings     |
-
