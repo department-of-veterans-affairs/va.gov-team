@@ -6,7 +6,7 @@ Note: you must have github and be on the socks proxy to access the prometheus, g
 The VSP Identity team maintains metrics and errors for all calls related to user data within VA.gov. Below is a list of the locations these metrics and errors can be found in their final presentation state and source code.
 
 
-[Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alreting to slack and pagerduty.
+[Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alerting to slack and pagerduty.
   ## Alerts of Interest:
 
   - The four `AuthErrorRateCritical` alerts. They use the `api_auth_login_callback_failed` metric that is reported by both `v0` and `v1` sessions controllers.
