@@ -35,6 +35,8 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+### May 2021
+
 #### May 17 - May 25: Emergency Care Mashup
 *Facilities Team, Lead Researcher: Nick Osmanski*
 
@@ -49,6 +51,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research) 
 - List of keywords: Veterans, POA, health care, application
 
+### April 2021
 
 #### April 26 - May 5: Baseline Wayfinding on VA.gov
 *Public Websites, Lead Researcher: Cindy Merrill*
@@ -56,6 +59,13 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants: 13 (8 desktop, 5 mobile; 1 screenreader user)
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding) 
 - List of keywords: Veterans, wayfinding, VA.gov home page, site search, Find a VA Form, Resources and Support, accessibility
+
+#### April 26 - April 30 Virtual Agent Branding Interviews
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 16
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/moderated-interviews)
+- List of keywords: Veterans, Virtual Agent, Chatbot, Voice, Tone, Branding
 
 #### April 22 - April 18: Medical Copayment Debt Portal Enhancement Discovery
 *Debt Resolution, Research Leads: Rebecca Walsh, Riley Orr*
