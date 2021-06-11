@@ -73,9 +73,9 @@ Several components are disabled by default due to the high volume of hits they w
    <td>Click to expand/collapse accordions
    </td>
    <td><pre lang="js">'event': 'int-accordion-expand', //OR 'int-accordion-collapse'
-'accordion-parent-label' //accordion parent label (if there is two labels, if only one label on accordion, populate this value and make child-label undefined)
-'accordion-child-label': //dynamically populate with secondary label of the accordion
-'accordion-section-label': //populate with the label of the section where the accordion is present`</pre>
+'accordion-header' //accordion parent label (if there is two labels, if only one label on accordion, populate this value and make child-label undefined)
+'accordion-subheader: //dynamically populate with secondary label of the accordion
+'accordion-section-heading': //populate with the label of the section where the accordion is present`</pre>
    </td>
   </tr>
   <tr>
