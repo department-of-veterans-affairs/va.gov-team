@@ -73,9 +73,9 @@ Several components are disabled by default due to the high volume of hits they w
    <td>Click to expand/collapse accordions
    </td>
    <td><pre lang="js">'event': 'int-accordion-expand', //OR 'int-accordion-collapse'
-'accordion-parent-label' //accordion parent label (if there is two labels, if only one label on accordion, populate this value and make child-label undefined)
-'accordion-child-label': //dynamically populate with secondary label of the accordion
-'accordion-section-label': //populate with the label of the section where the accordion is present`</pre>
+'accordion-header' //accordion parent label (if there is two labels, if only one label on accordion, populate this value and make child-label undefined)
+'accordion-subheader: //dynamically populate with secondary label of the accordion
+'accordion-section-heading': //populate with the label of the section where the accordion is present`</pre>
    </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ Several components are disabled by default due to the high volume of hits they w
 'alert-box-headline': //dynamically populate according to the top level heading of the alert box
 'alert-box-headline-level': //dynamically populate with the level of the headline
 'alert-box-click-label': //dynamically populate according to the click label of the link
-'alert-box-background-only: //dynamically populate with boolean true\|false if alert box background only prop was used
+'alert-box-background-only': //dynamically populate with boolean true\|false if alert box background only prop was used
 'alert-box-closeable': //dynamically populate with true or false if the component is closeable</pre>
 <p>
 <strong><em>Substitute these for close event, use variables above</em></strong>
@@ -175,7 +175,7 @@ CheckboxGroup.js
 <p>
 <pre lang="js">'event': 'int-checkbox-group-option-click'
 'checkbox-group-optionLabel': //dynamically populates with the label of the selected checkbox
-'checkbox-group-label: //dynamically populates with the label of the checkbox group presented to the user
+'checkbox-group-label': //dynamically populates with the label of the checkbox group presented to the user
 'checkbox-group-required': //dynamically populates with boolean true or false, true if checkboxgroup is required</pre>
    </td>
   </tr>
@@ -189,7 +189,7 @@ CheckboxGroup.js
    <td><pre lang="js">'event': 'int-radio-button-option-click', //consistently populate for all radio button toggles
 'radio-button-label': //dynamically populate according to the radio button label for the group presented to the user
 'radio-button-optionLabel': //dynamically populate according to the radio button option selected label
-'radio-button-required: //dynamically populates with boolean true or false, true if radio button is required</pre>
+'radio-button-required': //dynamically populates with boolean true or false, true if radio button is required</pre>
    </td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ CheckboxGroup.js
    </td>
    <td>Click on a modal button
    </td>
-   <td><pre lang="js">'event: 'int-modal-click',
+   <td><pre lang="js">'event': 'int-modal-click',
 'modal-status': this.props.status,
 'modal-title': this.props.title,
 'modal-primaryButton-text': this.props.primaryButton.text,
