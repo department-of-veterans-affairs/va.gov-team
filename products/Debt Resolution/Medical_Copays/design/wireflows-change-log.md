@@ -7,7 +7,7 @@ June 11, 2021
 
 ![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202021-06-11%20at%201.55.58%20PM.png)
 
-**Questions we had**
+### Questions we had
 
 * Is there a concept of a "resolved" copay bill, or is it a rolling balance, like a credit card?
 * What happens when a set of charges are referred to DMC for collection?
@@ -21,24 +21,29 @@ June 11, 2021
 * What happens when a part of a Veteran's debt is sent off to DMC for collection?
 
 
-**SME introductions**
+### SME introductions
 
 **Brandon**
    * Expert in revenue office, where information is coming from, etc
+
 **David**
    * Revenue offices CPAC 
    * Policy analyst for veteran services, accounts management functions + efforts,
    * Smattering of knowledge about VISTA's interaction with other systems, but primary expertise is first party account management
+
 **Ernie**
    * Program analyst within the revenue operations office, 
    * 16 years of experience with DMC, TOP; manages those programs for VHA
+
 **Vonda**
    * Director for CPAC operations, 
    * Almost 30 years of knowledge, started as a biller for VA medical care,
    * Worked with the consolidation of CPAC over 10-15 years
+
 **Mari Beth**
    * Started in CPAC for cash management, OPAC for accounts management 
    * Is a SME for veterans services
+
 **Daniel** 
    * 11 years work with first party; started with the admin services department, now veteran services as lead, supervisor, etc. 
    * Knowledge about medical care followup 
@@ -46,7 +51,7 @@ June 11, 2021
    * Became a policy analyst for facility revenue 6 months ago to help understand laws
    * If veteran needs help with bill they talk to facility revenue
 
-**Design presentation**
+### Design presentation
 
 * Credit card statement assumption per facility?
   * Brandon - Veterans going to the same medical center primarily
@@ -91,7 +96,7 @@ June 11, 2021
   * That doesn't hold for treasury
   * If they owe money to treasury,  they could call treasury (primary option) but rare instances where debt can be recalled from treasury but once it's at treasury it's sticky
 
-**SME Questions**
+### SME Questions
 
 * How many transactions?
   * Data consideration needs to take place
@@ -120,3 +125,9 @@ June 11, 2021
   * Motivation for splitting them out? For the user?
     * For the clarity and specificity and action they want to take
     * Repayment plans can be set up after the due date, so long as it isn't referred to cross services
+
+### Next steps
+
+* We will make adjustments to the wireflows based on SME feedback
+* Coordinate a design workshop with SMEs to promote collaboration
+* Learn more about the data available within backend systems based on UX goals
