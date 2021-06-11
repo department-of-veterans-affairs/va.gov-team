@@ -25,15 +25,34 @@
 ## June 11
 
 * Accessibility checker (overview)
-* Mission Act - Website depricated as of Sept-30.  All Link on past and future need to be replaced.  
+  * Release will include a description of the issue and how to fix
+  * Change management / comms around this: Stan to bring up at open house
+  * Stan to get Dave a page count for Butler to track towards leveraging SiteImprove
+    * Recommendation to scan SiteImprove on the live site
+    * Longer term = possibly displaying SiteImprove within the CMS
+* Butler/Wilkes Barre targetting June 30th, always going to transition off of dual-state on Wednesdays
+  * Change management and comms still underway from VHA
+* Mission Act - Website depricated as of Sept-30, 2021.  All Link on past and future need to be replaced.  
   * Suggestions? Input from VHA.
+  * Planned redirect to a CLP, need to sync with PW on go-live for that
+  * Is there monitoring when external links break en mass?
+  * Could we find a way to help mitigate the risk of a major/widely used link breaking?
+  * TeamSite deprecation isn't a big risk because redirects will be in place
 * Help Desk
+  * How might we engage VAMC Upgrade team more?
+  * Separate meeting to discuss
 * csv files ready for migration (planning)
   * Recommendation to do them in bigger batches
+    * Bigger batch is a larger lift for VAMC Upgrade because it's based on # of health care systems, facilities, and services
+      * 9 left, 3 should be done by this sprint
+      * Possibly 3 batches
   * Recommendation for CMS to handle the data clean up
-  * How would these recommendations affect VAMC Upgrade team's workflow?
+    * Major issues can be brought back to VAMC Upgrade
+  * Details to be fleshed out in regards to the full handoff (checks/review in Tugboat, etc)
+* Dave is seeing weird national VC content in Tugboat: Swirt and Dave to connect to troubleshoot
 * Menus
-  * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this? 
+  * Parent items should all have _enabled_ menu items, even if they are in draft. Who's responsibility is this?
+  * If a user requsts enabling through CMS helpdesk, refer to VAMC Upgrade who will enable
 
 
 ## June 4
