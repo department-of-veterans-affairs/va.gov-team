@@ -68,7 +68,7 @@ The primary editor use case is for updating currently published content.
 
 ### **Background**
 
-The current content-build for va.gov runs once an hour and generates all HTML pages. The current build takes approximatly 15 minutes for page to show up on va.gov. When the amount of content in Drupal reaches 48K nodes, the build will take close to 45 minutes to publish content to va.gov.  Editors are often confused about when the content they published in the CMS will be live on va.gov.
+The current content-only build for va.gov runs 9am-12pm Hourly, 1:45pm, 4pm, 5pm ET M-F and generates all HTML pages. The current build takes approximately 15 minutes for page to show up on va.gov. When the amount of content in Drupal reaches 48K nodes, the build will take close to 1 hour to publish content to va.gov.  Editors are often confused about when the content they published in the CMS will be live on va.gov.
 
 Editors coming from Team Sites expect publication of content within 5 minutes.  As editors migrate from Team Sites to Drupal, editors often do not understand why the content they publish does not show up on va.gov in a timely mannter.
 
