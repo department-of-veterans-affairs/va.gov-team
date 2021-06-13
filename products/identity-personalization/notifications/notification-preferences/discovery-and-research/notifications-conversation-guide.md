@@ -3,7 +3,7 @@
 ## Moderator logistics
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
-- [ ] Have prototype link available: 
+- [ ] Have prototype link available: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 - [ ] Update the Zoom sharing settings so participants can share
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
