@@ -123,7 +123,7 @@ Now that you've added an email address to your profile, talk me through what you
 - Was the participant confused by the missing edit button for the email-only notification group?
 - How did the participant become aware that they were missing contact information?
 - Did they expect to be able to edit their contact information right here on this page?
-- Which link did they click on to navigate to the personal/contact information section of the site (first instance of `Update your contact information`, alert instance of `Update your contact information`, or via profile navigation?
+- Which link did they click on to navigate to the personal/contact information section of the site from notifications (alert link, link inside notification group, side nav, etc)?
 - Did they get frustrated that they were not able to edit contact info right in the page?
 - Were they able to get back to notification settings without any major hurdles?
 - Did they notice that places that previously said "add your email address" are now replaced with a status?
