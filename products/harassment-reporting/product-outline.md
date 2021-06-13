@@ -21,6 +21,11 @@ How might we make it easier for Veterans to report incidents of harassment or as
 
 - Some Veterans will prefer -- for privacy reasons, due to efficiency, etc. -- to complete an online form for reporting incidents versus current means (e.g., in-person at VA facility, call VA, mail Office of Inspector General)
 - The online form will be designed to accommodate various use cases for this delicate situation -- e.g. some may want to report an incident confidentially, etc.
+- Organizational Viability Risks/Assumptions
+Can ORMDI handle an influx of complaints to process (important to know: historic volume)
+- Feasibility Risks/Assumptions: 
+Can the intake system of complaints handle increased load due to a new VA.gov submission mechanism (in addition to the existing mechanisms)
+What is the clear/existing definition of "secure" to follow (see Undesired User / Business Outcomes)
 
 --- 
 
