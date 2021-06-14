@@ -10,12 +10,15 @@ n/a - UAT to be conducted after additional initiatives using refresh
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range:
+  - Mon, 6/28/21 - Mon, 7/12/21
+- How will you make the product available in production while limiting the number of users who can find/access it:
+  - VA.gov feature flag `va_online_scheduling_homepage_refresh`
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Appointment-related errors
+- Links to dashboard(s) showing "success criteria" metrics:
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/1iZBzQ5ITaG9AdBCy6rLeg/a50123418w177519031p176188361/)
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
 ### Stage A: Canary
 
@@ -23,7 +26,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
+- Length of time: 1 day
 - Percentage of Users (and roughly how many users do you expect this to be): 1% (~1,400 users)
 
 #### Results:
