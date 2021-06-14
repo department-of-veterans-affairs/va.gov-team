@@ -35,6 +35,11 @@
 
 </details>
 
+## June 16, 2021
+
+* CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
+* Lazy loading implementation on the FE
+
 ## June 8 
 
 * snapshot update on the CLP 1.0 plan (have a draft of what we plan to present as a governance/user model for VACO DigComms leads-teams over the next few weeks — e.g. handing over the keys). (edited)
