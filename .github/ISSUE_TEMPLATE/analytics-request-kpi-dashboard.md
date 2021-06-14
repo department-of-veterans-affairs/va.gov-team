@@ -11,7 +11,7 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request a Standard KPI dashboard ([example](example-URL)) on Domo for your product.
+Use this template to request a Standard KPI dashboard ([example](https://va-gov.domo.com/page/447193050)) on Domo for your product.
 
 - Every VFS team should be using the Standard KPI dashboards. If your product *does not* have a Standard KPI Dashboard, please fill this out this template for a Standard KPI dashboard first.
 
