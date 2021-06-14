@@ -43,15 +43,26 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 
 **MVP Request and Publishing Model (April-June 2021):** 
 
-<img width="1102" alt="Screen Shot 2021-04-30 at 8 27 35 AM" src="https://user-images.githubusercontent.com/63107147/116695052-0a687480-a98e-11eb-817b-e57fecefb48a.png">
+For the MVP phase, the goal was to publish three CLPs to test -- with production release -- the functionality of the tool and associated processes (e.g. establishment and set up of URL, Analytics, and UTMs).
 
+The following three CLPs were launched as part of this phase:
+
+- Trust: https://www.va.gov/initiatives/veteran-trust-in-va/. (VEO-Tim Hudak)
+- Pride Month: https://www.va.gov/initiatives/recognizing-lgbtq-veterans-during-pride-month/ (OPIA-John Santos)
+- COVID-19 Vaccine Questions: http://va.gov/covid-vaccine-questions (COVID JTF and VHS-Danielle Thierry)
+
+The following IA guidelines were established as part of this phase:
+
+- The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
+- The URL is set dynamically via the H1 (with hyphens)
+- There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages.
 
 
 ### Post-MVP Production Release Phase (June-Forward 2021)
 
 
 **Goals:** 
-To release the CLP to a wider VA digital comms user base -- enabling the tool to be used at scale.
+To release the CLP to VACO Digital Comms teams -- enabling the tool to be used at wider scale, with VA business self-governance.
 
 **Governance Model (Draft-WIP):**
 - Edit and Publish access will go wider --  with two guardrails in place:
