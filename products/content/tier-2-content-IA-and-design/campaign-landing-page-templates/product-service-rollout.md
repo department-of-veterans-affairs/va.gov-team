@@ -51,11 +51,12 @@ The following three CLPs were launched as part of this phase:
 - Pride Month: https://www.va.gov/initiatives/recognizing-lgbtq-veterans-during-pride-month/ (OPIA-John Santos)
 - COVID-19 Vaccine Questions: http://va.gov/covid-vaccine-questions (COVID JTF and VHS-Danielle Thierry)
 
-The following IA guidelines were established as part of this phase:
+The following IA and governance guidelines were established as part of this phase:
 
 - The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
 - The URL is set dynamically via the H1 (with hyphens)
-- There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages.
+- There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages
+- CLPs will be temporary -- they will have a start and end date, and they will be removed from the VA.gov site with a redirect established to support the "expiration" of the page.
 
 
 ## Post-MVP Production Release Phase (June-Forward 2021)
@@ -65,8 +66,9 @@ The following IA guidelines were established as part of this phase:
 To release the CLP to VACO Digital Comms teams -- enabling the tool to be used at wider scale, with VA business self-governance.
 
 **Governance Model (Draft-WIP):**
-- Edit and Publish access will go wider --  with two guardrails in place:
-  - the VACO digital comms teams/leads will be resposible for governing edit rights
+- Edit and Publish access will go wider --  with the following guardrails in place:
+  - the VACO digital comms teams/leads will be "owners" of the CLP.  That means:
+  -
   - it will be provided to VA communications staffers in the field after they **go through training.**
   - the VACO leads will retain publish rights, to ensure every CLP is reviewed for quality before it is released into production
 - For this phase:
