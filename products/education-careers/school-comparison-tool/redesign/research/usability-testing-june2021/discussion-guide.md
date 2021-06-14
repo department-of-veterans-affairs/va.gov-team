@@ -34,7 +34,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -92,7 +92,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What do you think of the "Highlight differences" functionality? Is it useful?
 - 
 
-## Third Task: YAY Harvard! - X minutes
+## Third Task: YAY Harvard! - 5 minutes
 
 - You found out that you were accepted into **Harvard**.  Even if you don't end up going, you're curious about how **Harvard** stacks up against some of the other schools on your short list.  How would you use the Comparison Tool to see how **Harvard** compared to some of your other school options?  
 
