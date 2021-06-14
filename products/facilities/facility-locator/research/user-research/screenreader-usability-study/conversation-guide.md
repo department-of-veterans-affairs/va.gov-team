@@ -105,9 +105,17 @@ At this point [I'd like you to go back to Zoom] I'm going to have you share your
 - We want to confirm your internet speed before we set up the screen share. Have you received any alerts from Zoom on having a low internet bandwidth or connection speed?
 - Tab to the “Screen share” button and activate it with your space key.
 - Tab or navigate past the “basic, advanced, and files” tab menu items and find “Share entire screen.” It should be the first item in the list of windows or - applications to share. Use your space key to select it.
-  - [If the user can’t find the screen they want to share, ask them to use the up and left arrow keys to return back to share entire screen]
+  - [If the user gets lost in the list or mentions arrow keys aren’t working]
+   - If your arrow keys aren’t working as expected, it’s because this list has two rows. You’ll need to use your up and left arrow keys to return to the beginning of the list backwhere you should have access to share the entire screen
 - Tab to “Share sound” and use your space key to select it. This will let us hear your screen reader.
-- With those settings in place, tab to the "Share" button and use your space key to select it to start the screen share.
+- With those settings in place, tab to the "Share" option and use your space key to select it to start the screen share.
+  - [If you don’t hear the screen reader]: We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your computer without that device so we can hear your screen reader? If not, that’s perfectly OK.
+   - [If no, switch to think out loud facilitation]
+ 
+- [If you can’t see the window you need, like a google chrome window] You’ve started your share, but we can’t see the window you’re on right now. 
+  - [Windows might be minimized]
+   - [Windows computer]: Use Windows Key + Shift + M to maximize all your windows or use Command + Tab to select the window you want to maximize and then use Windows Key + Up Arrow to maximize it.
+
 
 [If successful:]
 
