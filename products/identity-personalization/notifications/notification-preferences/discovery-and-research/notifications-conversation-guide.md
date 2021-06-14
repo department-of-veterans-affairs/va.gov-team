@@ -58,7 +58,7 @@ Now we'll move into the prototype. I'm going to send you a link through the chat
 
 *Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
-I'm going to give you a scenario to explore the prototype. Imagine you heard the VA started offering notifications about [something they mention in the warm up that is important to them] and you log into the website to set yourself up to receive those notifications. Show me how you would do that, and think out loud as much as possible.
+I'm going to give you a scenario to explore the prototype. Please think out loud as much as possible as you go through the prototype. Imagine you receive text messages from the VA, and you've logged into the website. You no longer want to receive text messages from the VA.  How would you do that?
 
 *If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
 
@@ -116,7 +116,7 @@ If needed, prompt user to go back to notification settings to complete sign up t
 
 - At this point, are you signed up for COVID updates? 
   - If yes - how do you know?
-  - If no - go ahead and show me how you'd sign up from here.
+  - If no - how would you do that from here?
 
 Now that you've added an email address to your profile, talk me through what you see on this notifications page.
 
