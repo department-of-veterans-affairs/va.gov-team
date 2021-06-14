@@ -94,7 +94,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
-1. Thank you, all of that is really helpful for our team.  Now, imagine you want to set yourself up notifications about the delivery of your medications. Show me how you would do that. Continue to talk out loud and share what you're thinking.
+1. Thank you, all of that is really helpful for our team.  Now, imagine you want to set yourself up notifications about the delivery of your medications. How you would do that? Continue to talk out loud and share what you're thinking.
 2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
    - You got here by clicking edit - is that what you expected?
    - How are you able to receive the notifications you see here? Why do you think that is?
