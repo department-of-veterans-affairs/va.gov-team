@@ -8,7 +8,7 @@ _This list will be updated with links to documentation as needed_
   - 4/22/21 Approved for VA by Martha Wilkes (confirmed that full 508 audit can happen post-launch)
 - [x] Contact Center Review
    - 6/14/21 Approved for VA by Chante Lantos-Swett (VEO) and Brenda Torres-Hill (HRC)
-   - [VA mobile app product guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/VA%20Mobile%20App%20Product%20Guide-%20Call%20Center%20Support.pdf) 
+   - [VA mobile app product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/VA%20Mobile%20App%20Product%20Guide-%20Call%20Center%20Support.pdf) 
 - [X] [Privacy & Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/privacy-security-review.md)
   - 4/26/21 Reviewed by Ad Hoc security specialist John Kemp
   - 5/11/21 Approved for VA by Leanna Miller
