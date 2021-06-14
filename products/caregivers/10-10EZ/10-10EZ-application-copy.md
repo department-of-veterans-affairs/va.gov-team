@@ -1,76 +1,108 @@
 # [DRAFT]
 
 ## Apply for VA health care
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/sitemap?mode=i)
 
-Equal to VA Form 10-10CG (Application for Family Caregiver Benefits)
+Enrollment Application for Health Benefits (VA Form 10-10EZ)
 
-We recognize the important role of family caregivers in supporting the health and wellness of Veterans.
+Apply online for VA health care. You may also qualify for vision and dental benefits when you apply.
 
-[Start your application]
+Have you applied for VA health care before?
+Sign in to check your application status _(link)_
 
-**Follow these steps to get started:**
 
-**1. Prepare**
+### Follow these steps to get started:
 
-To fill out this application, the Veteran and each family caregiver applicant will need to provide specific information. You’ll need:
-- The address, telephone number, and date of birth for the Veteran and each family caregiver applicant
-- The VA medical center where the Veteran will receive care
-- Health insurance information for the Primary Family Caregiver
-- The Veteran's Social Security number or tax identification number (This is required for the online application only.) If you’d like to apply without providing this information, you can download the paper form
+**1. Check your eligibility**
 
-Download VA form 10-10CG(PDF) (934KB) _(link)_
+Make sure you meet our eligibility requirements before you apply.
 
-**Note:** A legal representative, or someone with power of attorney, can fill out this application on behalf of the Veteran. They’ll need to sign the application. They'll also have a chance to submit documentation to show their status as a legal representative.
+What are the VA health care eligibility requirements?  _(more info)_
 
-**What if I have questions or need help filling out the form?**
+You may be eligible for VA health care if all of these are true for you:
+- You served in the active military, naval, or air service, **and**
+- You didn’t receive a dishonorable discharge, **and**
+- You meet at least one of the service requirements
 
-If you have a question or need help, you can contact us in any of these ways:
-- Call us at 855-488-8440and ask for help filling out the form
-- Use the online Caregiver Support Coordinator locator to find a coordinator at your nearest VA health care facility
-- Contact the VA National Caregiver Support Line by calling 855-260-3274
+You must meet at least one of these service requirements:
+- You served at least 24 months in a row without a break (called continuous), or for your full active-duty  period, **or**
+- You were discharged for a service-connected disability, **or**
+- You were discharged for a hardship or “early out,” **or**
+- You served before September 7, 1980 
 
-What's a Caregiver Support Coordinator? _(more info)_
+If you’re a current or former member of the National Guard or Reserve, both of these must be true for you:
+- You were called to active duty by a federal order, **and**
+- You completed your full active duty period
 
-A Caregiver Support Coordinator is a clinical professional who connects Veteran caregivers with VA and community resources that offer supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and specialize in caregiving issues.
+If you had or have active-duty status for training purposes only, you’re not eligible for VA health care.
 
-**2. Apply**
+_(end more info)_
 
-Please remember, whether you’re the Veteran or a family caregiver, you’ll need to complete all form questions before submitting the form. After submitting the form, you’ll receive a confirmation screen that you can print for your records.
 
-Each time the Veteran wants to add a new family caregiver, the Veteran and the new caregiver will need to submit a new application. There can only be 1 Primary and up to 2 Secondary Family Caregivers at any one time.
+**2. Gather your information**
 
-**Note:** If the Veteran isn’t enrolled in VA health care or is currently on active duty with a medical discharge, they’ll need to fill out an Application for Health _(link)_ Benefits (VA Form 10-10EZ).
+Here’s what you’ll need to apply:
+- **Social Security numbers** for you, your spouse, and your qualified dependents
+- **Your military discharge paper**s (DD214 or other separation documents)
+- **Insurance cards** for all insurance companies that cover you. This includes any coverage provided through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
 
-**3. Next steps**
+If you don’t have a service-connected disability, we’ll also ask you for this information:
+- **Gross household income** for the year 2020 for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
+- **Your deductible expenses** for the past year. These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
 
-A member of the Caregiver Support Program at the VA medical center where the Veteran plans to receive care will contact you to discuss your application and eligibility.
+Why does the VA need this information?  _(more info)_
 
-If you aren’t eligible for PCAFC you have the right to appeal. You can contact the patient advocate at your local VA medical center to discuss the appeal process. Your Caregiver Support Coordinator is also available if you have additional questions.
+When you apply for VA health care, we assign you to 1 of 8 priority groups.
+We do this for 2 reasons:
+- To help Veterans who need care right away sign up quickly. For example, we assign Veterans with service-connected disabilities the highest priority. 
+- To make sure we can provide high quality care to all enrolled Veterans. Your priority may affect how much (if anything) you’ll have to pay toward the cost of care.
 
-You may also be eligible for the Program of General Caregiver Support Services (PGCSS). To find out more, call the VA Caregiver Support Line at855-260-3274, visit www.caregiver.va.gov, or discuss your options with your local Caregiver Support Coordinator.
+We base your priority group on these factors:
+- Your military service history, **and**
+- Your disability rating, **and**
+- Your income level, **and**
+- Whether or not you qualify for Medicaid, **and**
+- Other benefits you may receive (like VA pension benefits)
 
-[Start your application]
+**Note:** We ask for information about other health care insurance you may have only for billing purposes. Having other health insurance doesn’t affect your eligibility for VA health care. 
 
-Respondent burden: 15 minutes
+_(end more info)_
 
-OMB Control #: 2900-0768
+**3. Start your application**
 
-Expiration date: 04/30/2024
+We’ll take you through each step of the process. It should take about 30 minutes.
+
+What happens after I apply?  _(more info)_
+
+We process health care claims within about a week. After we process your claim, we’ll send you a letter in the mail with our decision.
+If more than a week has passed since you submitted your application and you haven’t received your decision letter, please don’t apply again. Call us at 877-222-8387 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+_(end more info)_
+
+**Save time and save your work in progress**
+
+Here's how signing in now helps you:
+- We can fill in some of your information for you to save you time.
+- You can save your work in progress. You'll have 60 days from when you start or make updates to come back and finish your application. 
+
+**Note:** You can sign in after you start your application. But you'll lose any information you already filled in. 
+
+[Sign in to start your application]
+
+Start your application without signing in _(link)_
+
+Respondent burden: 30 minutes
+
+OMB Control #: 2900-0091
+
+Expiration date: 12/31/2020
 
 Privacy Act Statement (_link_)
 
 **Need help?**
+**If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 (TTY: 711). We’re here 24/7.
 
-You can call the VA Caregiver Support Line at 855-260-3274. We’re here Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET.
+**If you need help to gather your information or fill out your application/form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
 
-You can also call 855-488-8440 if you have questions about completing your application, or contact your local Caregiver Support Coordinator.
-
-Use our online Caregiver Support Coordinator search tool _(link)_
-
-If this form isn't working right for you, please call us at 800-698-2411.
-
-If you have hearing loss, call TTY:711.
+**If you have questions about VA health care**, call our Health Resource Center at 877-222-8387 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 
-## Step 1 of 5: Veteran information
