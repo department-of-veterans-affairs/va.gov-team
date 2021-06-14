@@ -26,6 +26,13 @@
 </details>
 
 
+## Monday June 14, 2021
+
+* CAP data questions
+  * Geolocation discussions continued
+  * Workflow
+    * Very first create call - does anything need to be different?
+
 ## Monday June 7 3pm ET
 
 * CAP data questions
