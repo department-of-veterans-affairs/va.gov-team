@@ -22,12 +22,12 @@ As a Veteran who uses VA online scheduling, I want to be able to manage all my a
 - Improve retention rate of VA online scheduling homepage (dashboard)
 
 ### Key Performance Indicators (KPIs)
-- Increase in overall satisfaction (rating)
-- Increase in users
-- Decrease in monthly Help Desk call volume
+- Medallia satisfaction rating and feedback
+- Users
+- Help Desk call volume
 
 #### Baseline KPI Values
-- Satisfaction rating - https://va-gov.domo.com/page/1769944412/kpis/details/1790805848
+- Satisfaction rating - _Medallia data TBD_
 - Average users (Jan-May) = 142,647
 - Help Desk call volume
 
@@ -59,7 +59,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Go-to-market Strategy
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](homepage-refresh-release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*
