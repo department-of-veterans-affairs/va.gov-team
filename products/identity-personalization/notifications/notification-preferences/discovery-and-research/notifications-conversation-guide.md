@@ -53,9 +53,11 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 ## Task 1: Navigate to notification settings - 2 minutes
 
+Now we'll move into the prototype. I'm going to send you a link through the chat function, and then have you share your screen.
+
 *Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
-Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
+I'm going to give you a scenario to explore the prototype. Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
 
 *If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
 
