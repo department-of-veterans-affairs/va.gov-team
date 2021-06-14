@@ -73,8 +73,8 @@ Now I'm going to ask you to get some VA forms using the website that I'm going t
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-### Task 1: [Form TBD] - 5 minutes
-I would like you to get form TBD.
+### Task 1: [Form 10-2850c--most downloaded, has digital signature] - 5 minutes
+I would like you to get form 10-2850c.
 
 - Please talk me through what you're doing.
 - *After they open the form:* What do you see here?
@@ -87,8 +87,8 @@ I would like you to get form TBD.
 - Now you're ready to finish filling out the form. (type something into another field)
   - *RECORD whether able to digitally sign form: yes / no / help needed*
 
-### Task 2: [Form TBD] - 5 minutes
-I would like you to get form TBD.
+### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
+I would like you to get form 10-0003k.
 
 - Please talk me through what you're doing.
 - *After they open the form:* What do you see here?
@@ -101,8 +101,22 @@ I would like you to get form TBD.
 - Now you're ready to finish filling out the form. (type something into another field)
   - *RECORD whether able to digitally sign form: yes / no / help needed*
 
-### Task 3: [Form TBD] - 5 minutes
-I would like you to get form TBD.
+### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
+I would like you to get form 20-0968.
+
+- Please talk me through what you're doing.
+- *After they open the form:* What do you see here?
+- I'd like you to start filling it out. (type something into one of the fields)
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+- You don't have time to fill it all out now, and so you want to continue later. What would you do?
+  - *RECORD whether able to save form: yes / no / help needed*
+- Now you're ready to finish filling out the form. (type something into another field)
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+### Task 4: [Form 20-0995] - 5 minutes
+I would like you to get form 20-0995.
 
 - Please talk me through what you're doing.
 - *After they open the form:* What do you see here?
@@ -116,7 +130,7 @@ I would like you to get form TBD.
   - *RECORD whether able to digitally sign form: yes / no / help needed*
 
   
-## Post-Task Interview - 5 minutes
+## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 - What do you *like* about what you've seen today?
 - What do you *dislike* about what you've seen today?
