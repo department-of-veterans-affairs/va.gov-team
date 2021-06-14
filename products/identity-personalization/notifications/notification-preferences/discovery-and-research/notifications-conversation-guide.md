@@ -135,6 +135,8 @@ Now that you've added an email address to your profile, talk me through what you
 
 ## Task 5: Remove personal information - 2 minutes
 
+**Note to moderators:** *OK to skip this task if participant has already noticed and comment on remove button on personal and contact information page.*
+
 Now I'd like you to imagine you changed your mind, and don't want the VA to email notifications to you again. How would you remove the email address you added?
 
 Now that you’ve removed your email, what do you expect to happen with your notifications?
