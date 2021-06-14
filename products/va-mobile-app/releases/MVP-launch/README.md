@@ -6,7 +6,8 @@ _This list will be updated with links to documentation as needed_
 - [x] [Pre-launch Accessibility Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/accessibility-documentation.md)
   - 4/21/21 Martha Wilkes and Meli Manak presented accessibility docs (linked above) to 508 office
   - 4/22/21 Approved for VA by Martha Wilkes (confirmed that full 508 audit can happen post-launch)
-- [ ] Contact Center Review
+- [x] Contact Center Review
+   - 6/14/21 Approved for VA by Chante Lantos-Swett (VEO) and Brenda Torres-Hill (HRC)
 - [X] [Privacy & Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/MVP-launch/privacy-security-review.md)
   - 4/26/21 Reviewed by Ad Hoc security specialist John Kemp
   - 5/11/21 Approved for VA by Leanna Miller
