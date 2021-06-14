@@ -1,7 +1,11 @@
 # Initiative Brief Template
 #### Overview
-*Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.* 
 
+<details>
+ 
+ *Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.* 
+ 
+</details>
 
 <details>
  <Summary>Examples:</Summary>
@@ -15,28 +19,25 @@
  
  </details>
  
+ ℹ️ Instructions for a particular section
+ 💡 Helpful guidance/tips
+ 
 ---
 
 ## Outcome Summary
-*Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." 
-Include the measurable outcome (i.e. metric) you're trying to improve.*
+:information_source: *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
 
 **Related product(s)**\
-*Identify VA.gov product(s) this initiative affects.*
+*Identify VA.gov product(s) this initiative is associated with.*
 
 - Product | [Link to product outline](#)
 
-## Problem Statement
-*Describe the challenge / pain point you seek to address.:* 
-* What is the problem?
-* Which Veteran/organizational segments are most affected by the problem?
-* Where does this problem affect the Veteran journey?
+## Problem
+:information_source: *Describe the challenge / pain point you seek to address.:* 
+* What is the problem? And, what evidence do we have of the problem?
+* Which Veteran/organizational segments are most affected by the problem? And, where does this problem affect the Veteran journey?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this outcome help achieve a prioritized Crew Objective and further DE's mission and goals?
-
-
-### Evidence of the problem
-*Describe the qualitative and quantitative data to support this problem.* 
+* How does this initiative help further DE's mission and goals?
 
 <!--
 ## Desired User Outcomes
@@ -56,34 +57,19 @@ Include the measurable outcome (i.e. metric) you're trying to improve.*
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-*Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcome? Include links to Domo or Google Analytics Dashboards/Reports.*
+ℹ️ *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*\
+:bulb: *Use your product's KPIs to understand if you're meeting desired user and business outcomes.*
+:bulb: *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*
 
-- KPI | Target | Link to data source
 
-
-<!--
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
--->
-
-#### Baseline KPI Values
-*Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits.*
-
-<!--
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
--->
+- KPI | Baseline | Target | Link to data source
 
 ---
 
-## Assumptions/Risks
-*Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*
+## Discovery
+### Assumptions/Risks
+:information_source: *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*\
+:information_source: *Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
   - .
@@ -94,34 +80,29 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
   - .
 
-## Discovery
-*Describe the experiments, prototypes, etc. you'll develop to efficiently validate your assumptions/risks.*
+### Hypotheses/Bets  
+ℹ️ *Describe the competing solution hypotheses the team ideates.*
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-## Hypotheses/Bets for Consideration
-*Describe the competing solution hypotheses as a result of discovery.*
+### Prioritization
+ℹ️ *Prioritize the competing hypotheses the team develops accounting for effort, impact, value, confidence.*
 
-## Prioritization
-*Prioritize the competing hypotheses the team develops accounting for effort, impact, value, confidence.*
+
+### Solution Scope
+ℹ️ *What are you going to build now, and why have you decided to start there? What have you explicitly decided to not include in this initial set of functionality, and why?*
 
 --- 
 
-## Collaboration Cycle
-*Use for any Collab Cycle tracking, questions.*
+## Launch Planning
+### Collaboration Cycle
+💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
----
+### Go-to-market Strategy
+ℹ️ *How are Veterans and others using this product going to know it exists? What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-
-### Timeline
+### Timeline/Milestones
 
 - [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
@@ -130,13 +111,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - tbd
 - *Actual Launch Date* 
   - tbd
----
-
-<!--
-## Solution Narrative
-### Current Status
-### Key Decisions 
--->
 
 ---
    
