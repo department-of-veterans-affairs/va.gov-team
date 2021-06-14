@@ -49,7 +49,7 @@
   - When a user searches for a form that was once valid, but has since been deleted/deprecated, an alert is displayed to indicate deleted form.
 
 * **Link to designs:** 
-  - 🌟**update**  Prototype (PNG FILE):
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/deleted_form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -66,7 +66,7 @@
   - When a user searches for a VA form that is not valid, and was not valid in the past, an alert is displayed to indicate invalid search.
 
 * **Link to designs:** 
-  - 🌟**update** Prototype (PNG FILE):
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/invalid_form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -88,7 +88,7 @@
        - Last updated (oldest)
 
 * **Link to designs:** 
-  -  🌟**update** prototype: (PNG FILE)
+  - Prototype: (PNG FILE) https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/sort_by_relevance.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -138,7 +138,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   - Related forms and instructions - Update 2021-06-21 - Any related forms listed here should link to its own detail page (if one exists)
   - Custom "Helpful links related to {dynamic:form nbr}" 
 
-* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
+* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
@@ -155,7 +155,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
     - data that's coming from the source VA forms database
    
 * **Link to designs:** 
-  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/min_detail_page_UI_change.png
   
 * **Possible QA-example**
   - http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-2649b?_format=static_html \[published with not custom-data edits; should still have Related to: & standard Helpful links (see minimal-content design PDF above)]
