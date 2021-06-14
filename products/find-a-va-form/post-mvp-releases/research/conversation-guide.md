@@ -27,11 +27,11 @@
 
 ## Intro - 5 minutes
 
-Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about...
+Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about getting VA forms online.
 
 Before we start, I want to go over a few things:
 
-- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **This session should take about 30 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -59,7 +59,7 @@ Let’s start with a few questions...
 - What device are you using today? *(Phone / Tablet / Computer)*
 - What kind of a device is it? *(Windows / Mac / iPhone / Android)*
 - Have you ever looked online for VA forms? 
-  - If yes, can you describe that experience? 
+  - If yes, can you describe the last time you did that? 
     - what looking?
     - where went?
     - how recently? 
@@ -67,7 +67,7 @@ Let’s start with a few questions...
 
 
 ## Veteran Tasks
-Now I'm going to ask you to get some VA forms using the website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
+Imagine you learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to imagine you are completing each one to submit to the VA. I'll have you start from a website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
 
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
