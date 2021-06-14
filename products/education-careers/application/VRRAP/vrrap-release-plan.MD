@@ -47,7 +47,7 @@
 - Post-launch KPI 1 actual - 17,250 Veterans are retrained in high-demand careers: TBD		
 - Post-launch KPI 2 actual - $386 million is spent on VRRAP training programs: TBD
 - Post-launch KPI 3 actual - Less than (50% of applicants) are ineligible because they don't meet basic criteria
-- Any issues with VA handling/processing?: no
+- Any issues with VA handling/processing?: Requesting this data from the Muskogee RPO
 - Types of errors logged: none
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 
