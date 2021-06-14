@@ -67,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - How do you think that went?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools on the Comparison Tool?
-- *If new school cards*, can you talk to me about the school cards you see here?
+- Can you talk to me about the school cards you see here?
 - For the benefit estimates you see here, do you believe these are accurate for your situation?
 
 ## Second Task: Comparing schools - 20 minutes
@@ -87,7 +87,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - How do you think that went?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of comparing schools on the Comparison Tool?
-- Looking at the compare page, what do you think of the fields you see here?  Which ones are most useful to you? Are any not useful?  Any missing?
+- Looking at the compare page, what do you think of the information you see here?  Which ones are most important to you? Is anything missing that would be important to you?
 - What do you think of the process of comparing schools?
 - What do you think of the "Highlight differences" functionality? Is it useful?
 - 
