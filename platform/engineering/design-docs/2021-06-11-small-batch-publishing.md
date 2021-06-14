@@ -83,7 +83,7 @@ Drupal is in charge of determining when and which pages need to be published bas
 
 The code used by the lambda to generate the HTML will utilize the current preview server code.  As part of this work, the preview server code will be abstracted and improved to provide production ready HTML.
 
-![image](https://user-images.githubusercontent.com/121603/121699098-a2cd3b00-ca9c-11eb-8a0e-5e15cce7ce4d.png)
+![image](https://lucid.app/publicSegments/view/84e99c14-7cdf-4955-95b7-badf320be509/image.png)
 
 
 Editable link: [https://lucid.app/lucidchart/a8445048-94ce-4473-aafa-e8ed6cbfbad5/edit?page=0_0#](https://lucid.app/lucidchart/a8445048-94ce-4473-aafa-e8ed6cbfbad5/edit?page=0_0#)
