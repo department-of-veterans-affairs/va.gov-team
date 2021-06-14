@@ -38,7 +38,8 @@
 ## June 16, 2021
 
 * CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
-* Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200) and [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
+* Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200)
+* Support for JPEG2000 imgaes on FE and CMS - slack thread for context [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
 
 ## June 8 
 
