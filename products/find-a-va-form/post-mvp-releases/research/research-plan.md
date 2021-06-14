@@ -20,12 +20,14 @@ In addition, we suspect that users who are less proficient with technology may e
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
-  - What are users' reactions to auto-download? (if testing this) 
+  - What are users' reactions to auto-download? 
 - Are participants able to save and/or digitally sign the forms? 
+- Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
 
 ## Hypotheses
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitially sign PDF forms. 
+- The new instructions will alleviate issues with forms that have different download behaviors.
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving a few forms to download (specific forms TBD by *Marci McGuire*). They will use the Find a Form page on Staging: https://staging.va.gov/find-forms/.
