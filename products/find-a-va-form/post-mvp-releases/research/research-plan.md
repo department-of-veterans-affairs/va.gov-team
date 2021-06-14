@@ -4,26 +4,28 @@
 The purpose of this research is to better understand how Veterans download VA forms and get feedback on our revised design for advising users to download a PDF and then open it with Acrobat instead of viewing it in a web browser.
 
 ## Background
-Some browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by the specific form and the user's operating system, browser, settings by file type, and whether they have Acrobat Reader installed.
+Some browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by the specific form and the user's operating system, browser, settings by file type, and whether they have Acrobat Reader installed. We are aware of the following use cases:
+- Form downloads when you click the link
+- Form opens in browser when you click the link
+  - You can't fill out the form
+  - You can fill out the form but can't save it
+  - You can fill out the form but can't do the digital signature
+- Downloaded form won't open when you click on it
+- Browser displays a "Please wait" message 
+
+In addition, we suspect that users who are less proficient with technology may encounter more problems that they are unable to resolve on their own.
 
 ## Research questions
-- How intuitive is the download process? What issues arise?
+- How intuitive is the download process with the new instructions? What issues arise?
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
   - What are users' reactions to auto-download? (if testing this) 
-- Do the new on-screen instructions work? What issues arise?
-- Are there use cases besides the ones we already know about (listed below)? 
-  - Form downloads when you click the link
-  - Form opens in browser when you click the link
-    - You can't fill out the form
-    - You can fill out the form but can't save it
-    - You can fill out the form but can't do the digital signature
-  - Downloaded form won't open when you click on it
-  - Browser displays a "Please wait" message 
+- Are participants able to save and/or digitally sign the forms? 
 
 ## Hypotheses
-- People who are not technically savvy, are older, or have a visual or cognitive disability may have difficulty downloading forms and opening them in Acrobat. 
+- The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
+- The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitially sign PDF forms. 
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving a few forms to download (specific forms TBD by *Marci McGuire*). They will use the Find a Form page on Staging: https://staging.va.gov/find-forms/.
@@ -69,8 +71,8 @@ June 24, 2021 | Noon - 3 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-June 17, 2021  |  TBD
-June 21, 2021  |  TBD
+June 17, 2021  |  TBD (screen reader user)
+June 21, 2021  |  TBD (non-screen reader user)
 
 *Want quick data analysis on June 24 so can provide go/no go recommendation by June 25, if possible.*
 *Timing contingent on approval of design changes, development on Staging before pilot sessions, and Cindy's availability.*
@@ -81,8 +83,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD
-- Notetakers:	Perigean
+- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD (non-screen reader user)
+- Notetakers:	Perigean 12-5 pm EST, Cassandra Allen 5-8 pm EST
 - Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (mmcguire@governmentcio.com), Cassandra Allen (callen@governmentcio.com)
  
 ## Resources	
