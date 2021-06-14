@@ -44,7 +44,7 @@
 #### Search for Deleted VA Form
 
 * **Description:** 
-  - When a user searches for a form that was once valid, but has since been deleted/deprecated, an alert is displayed to indicate deleted form.
+  - When a user searches for a form that was once valid, but has since been deleted/deprecated, a message is displayed to indicate deleted form.
 
 * **Link to designs:** 
   - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/deleted_form.png
@@ -61,7 +61,7 @@
 #### Search for Invalid VA Form
 
 * **Description:** 
-  - When a user searches for a VA form that is not valid, and was not valid in the past, an alert is displayed to indicate invalid search.
+  - When a user searches for a VA form that is not valid, and was not valid in the past, a message is displayed to indicate invalid search.
 
 * **Link to designs:** 
   - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/invalid_form.png
