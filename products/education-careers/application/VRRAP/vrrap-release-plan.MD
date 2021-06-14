@@ -43,7 +43,7 @@
    - If yes, what: https://github.com/department-of-veterans-affairs/va.gov-team/issues/24562
 
 ### 1-month results:
-- Number of unique users: 4,684 submissions based on GA tracking of Confirmation Page views (There may be a few more in our count than Muskogee has, though, because people could go back and see the confirmation page again.  It's  also possible that 2 or more people apply from the same machine so "unique pageviews" isn't exact either.)
+- Number of unique users: 4,047 submissions based on GA tracking of Confirmation Page views (There may be a few more in our count than Muskogee has, though, because people could go back and see the confirmation page again.  It's  also possible that 2 or more people apply from the same machine so "unique pageviews" isn't exact either.)
 - Post-launch KPI 1 actual - 17,250 Veterans are retrained in high-demand careers: TBD		
 - Post-launch KPI 2 actual - $386 million is spent on VRRAP training programs: TBD
 - Post-launch KPI 3 actual - Less than (50% of applicants) are ineligible because they don't meet basic criteria
