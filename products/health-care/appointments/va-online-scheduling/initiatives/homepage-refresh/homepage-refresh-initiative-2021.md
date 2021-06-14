@@ -67,22 +67,25 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - 
+  - Week of 7/26
 ---
 
 ## Solution Narrative
 
 ### Current Status
+- Appointment list
+- New appointment detail pages
 
 ### Key Decisions
+- Reschedule functionality to be deferred as separate initiative
+- Refresh is a dependency for vaos service integration 
 
 ---
    
 ## Screenshots
 
-### Before
+![appt list before after 001](https://user-images.githubusercontent.com/72046525/121971763-5a2cb080-cd2e-11eb-9bd3-509bbac54f84.jpeg)
 
-### After
 
 ---
 
