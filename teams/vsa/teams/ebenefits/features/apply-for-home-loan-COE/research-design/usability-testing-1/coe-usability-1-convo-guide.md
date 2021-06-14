@@ -101,7 +101,7 @@ As you go through the form, we'll be using test data. For the purpose of this te
 
 ## Final thoughts
 - Once your COE is issued, how would you like to receive it?
-- If we could store it for you on VA.gov, where would you want that to be?
+- If you came back to VA.gov, where would you want that to be?
 - How could we make things easier or more clear?
 - If this was the actual VA.gov site, what would you do next?
 
