@@ -57,7 +57,7 @@ Now we'll move into the prototype. I'm going to send you a link through the chat
 
 *Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
-I'm going to give you a scenario to explore the prototype. Imagine you heard the VA had recently started giving people the option to get text message updates on their medications. From here, show me where you would go to set that up for yourself.
+I'm going to give you a scenario to explore the prototype. Imagine you heard the VA started offering notifications about [something they mention in the warm up that is important to them] and you log into the website to set yourself up to receive those notifications. Show me how you would do that, and think out loud as much as possible.
 
 *If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
 
@@ -91,7 +91,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 
 ## Task 3: Update and save settings for an existing channel - 5 minutes
 
-1. Thank you, all of that is really helpful for our team.  Now, please go ahead and see if you can sign up for updates on your medications. Continue to talk out loud and share what you're thinking.
+1. Thank you, all of that is really helpful for our team.  Now, imagine you want to set yourself up notifications about the delivery of your medications. Show me how you would do that. Continue to talk out loud and share what you're thinking.
 2. **If needed, when in edit mode:** While you're here making this change, I'd like to pause and ask you a couple of questions.
    - You got here by clicking edit - is that what you expected?
    - How are you able to receive the notifications you see here? Why do you think that is?
