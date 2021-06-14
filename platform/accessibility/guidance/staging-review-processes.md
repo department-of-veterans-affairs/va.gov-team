@@ -187,7 +187,7 @@ Use [Who Can Use](https://whocanuse.com/) to preview your text for contrast and 
 
 #### Colorblindness
 
-We recommend that you use the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en) to check for colorblindness issues.
+We recommend that you use the [Chrome Colorblindly plugin](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) to check for colorblindness issues.
 
 
 
