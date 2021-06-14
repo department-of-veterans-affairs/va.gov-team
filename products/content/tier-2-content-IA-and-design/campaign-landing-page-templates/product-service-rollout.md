@@ -1,6 +1,6 @@
 ## Product & Service Roll-Out Plan
 
-### MVP User Testing Phase (April-March 2021)
+## MVP User Testing Phase (April-March 2021)
 
 **What Will Happen**
 
@@ -16,7 +16,7 @@
     - [ ] VHA - TBD  (3/12 update: Jenny H-L is hiring a new person to be the CLP lead who could be in place in next two weeks; John has asked if Ron Haskell could be a user tester in the meantime)
  - [X] [Observations from the moderated user sessions will be synthesized](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.mdf) and determination will be made as to whether product refinement for the CMS AX and/or front-end experience is needed prior to MVP production release in April.
 
-### MVP Production Release Phase (April-June 2021)
+## MVP Production Release Phase (April-June 2021)
 
 **What Will Happen**
 
@@ -58,7 +58,7 @@ The following IA guidelines were established as part of this phase:
 - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages.
 
 
-### Post-MVP Production Release Phase (June-Forward 2021)
+## Post-MVP Production Release Phase (June-Forward 2021)
 
 
 **Goals:** 
