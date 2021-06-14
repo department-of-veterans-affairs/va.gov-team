@@ -30,7 +30,13 @@ In addition, we suspect that users who are less proficient with technology may e
 - The new instructions will alleviate issues with forms that have different download behaviors.
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving a few forms to download (specific forms TBD by *Marci McGuire*). They will use the Find a Form page on Staging: https://staging.va.gov/find-forms/.
+We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving several forms to download (selected by *Marci McGuire*):
+- 10-2850c (most downloaded, has digital signature)
+- 10-0003k (has digital signature)
+- 20-0968 (not hosted on VA.gov)
+- 20-0995
+
+Participants will access the forms using the Find a Form page on Staging: https://staging.va.gov/find-forms/.
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using the following criteria:
