@@ -94,7 +94,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: YAY Harvard! - X minutes
 
-- You found out that you were accepted into **Harvard Law School**.  Even if you don't end up going, you're curious about how **Harvard** stacks up against some of the other schools on your short list.  How would you use the Comparison Tool to see how **Harvard Law School** compared to some of your other school options?  
+- You found out that you were accepted into **Harvard**.  Even if you don't end up going, you're curious about how **Harvard** stacks up against some of the other schools on your short list.  How would you use the Comparison Tool to see how **Harvard** compared to some of your other school options?  
 
 ### Things to watch for:
 
