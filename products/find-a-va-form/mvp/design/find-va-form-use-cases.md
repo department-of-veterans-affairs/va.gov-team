@@ -1,11 +1,11 @@
 # Find VA Forms - Product Use Cases
 
 ## Find VA Forms - Search Landing Page Use Cases
-### Use Case A 
+### Use Case A - UI updated 2021-06-14
 #### Search for form with Form Detail page link
 
 * **Description:** 
-  - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.
+  - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.  
 
 * **Link to designs:** 
   - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
@@ -19,9 +19,9 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3953
 ----
 
-### Use Case B
+### Use Case B - UI updated 2021-06-14
 
-#### Search for VA Form with Online Tool link
+#### Search for VA Form with Online Tool link 
 
 * **Description:** 
   - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
@@ -37,7 +37,7 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3977
   
     
-### Use Case C
+### Use Case C - UI updated 2021-06-14
 
 #### Search for Deleted VA Form
 
@@ -54,7 +54,7 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3951
   
     
-### Use Case D
+### Use Case D - UI updated 2021-06-14
 
 #### Search for Invalid VA Form
 
@@ -70,15 +70,14 @@
 * **Link to TestRail Test Case**
   - https://dsvavsp.testrail.io/index.php?/cases/view/3978
   
-### Use Case E
+### Use Case E - UI updated 2021-06-14
 
-#### Sorting List of Search Results
+#### Sorting List of Search Results 
 **Note** the relevance option was added to the existing sorting use case on 5/7/2021.
 
 * **Description:** 
   - When a user is presented with a list of search results, they can use the **Sort By feature** to change the order of results. Options presented include:
        - Best Match (Note: this should be the default sort order)
-       - Most Popular
        - Ascending (A-Z)
        - Descending (Z-A)
        - Last Updated (newest)
