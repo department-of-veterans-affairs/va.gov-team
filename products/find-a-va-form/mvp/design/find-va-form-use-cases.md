@@ -8,10 +8,9 @@
   - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.  
 
 * **Link to designs:** 
-  - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
-  - Mobile prototype: https://vsateams.invisionapp.com/console/share/8Y10IE2JN2J4
-  - **Note that the title should not include the words "search results" after Find a VA Form - Mockup to be updated.**
-  - **Note that the intro should only say "Search for a VA form by keyword, form name, or form number."  - Mockup to be updated.**
+  - Desktop prototype: https://user-images.githubusercontent.com/68560244/121958273-7f6eee00-cd31-11eb-94dc-9d434c521b37.png
+  - Mobile prototype: https://user-images.githubusercontent.com/68560244/121957653-b395df00-cd30-11eb-9609-0860b2b39c89.png
+
 
 * **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
@@ -29,10 +28,9 @@
   - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
 
 * **Link to designs:** 
-  - Desktop prototype: https://vsateams.invisionapp.com/console/share/SD10IE31CENR
-  - Mobile prototype: https://vsateams.invisionapp.com/console/share/8Y10IE2JN2J4
-  - **Note that the title should not include the words "search results" after Find a VA Form - Mockup to be updated.**
-  - **Note that the intro should only say "Search for a VA form by keyword, form name, or form number."  - Mockup to be updated.**
+  - Desktop prototype: https://user-images.githubusercontent.com/68560244/121958273-7f6eee00-cd31-11eb-94dc-9d434c521b37.png
+  - Mobile prototype: https://user-images.githubusercontent.com/68560244/121957653-b395df00-cd30-11eb-9609-0860b2b39c89.png
+
 
 * **Instructions to access in Staging:**
   - https://staging.va.gov/find-forms/
