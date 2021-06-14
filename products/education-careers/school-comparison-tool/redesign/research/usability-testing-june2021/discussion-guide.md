@@ -55,7 +55,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Finding schools - 5 minutes
 
-- Let's travel back in time and say you found the GI Bill Comparison Tool when you were initially looking at schools. You're interested in what information is available to you.  How would you use the Comparison Tool to see if the tool has information on any of the schools you are interested in?
+- Let's travel back in time and say you found the GI Bill Comparison Tool when you were first exploring schools. Could you show me how you'd use the Comparison Tool to learn about schools you might be interested in attending?
 
 
 ### Things to watch for:
@@ -72,7 +72,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Comparing schools - 20 minutes
 
-- It looks like the Comparison Tool has some information on the schools you were interested in.  You aren't sure where you want to go yet and would like to get a better idea of the differences between schools you're considering attending.  How would you use the Comparison Tool to determine which school would be the best option for you?
+- Let's say you want to get a better idea of the differences between the schools you're considering. How would you use the Comparison Tool to determine which school would be the best option for you?
 
 ### Things to watch for:
 
