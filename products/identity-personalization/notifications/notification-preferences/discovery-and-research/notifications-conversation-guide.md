@@ -79,6 +79,7 @@ Thank you. Please don't click on anything just yet. Take a look at this page and
 - Based on what you see here, how are you getting notifications for scheduled payments?
 - Where will VA send you notifications, based on what you see here? 
   - What would you do if that was an old phone number?
+  - What do you think about seeing that information *(where notifications will be sent)* there?
 - What is your impression of the way the page is organized?
 
 
@@ -132,6 +133,9 @@ Now that you've added an email address to your profile, talk me through what you
 - Did they notice that places that previously said "add your email address" are now replaced with a status?
 
 ## Task 5: Remove personal information - 2 minutes
+
+**NOTE TO MODERATOR: OK to skip if participant has already noticed and commented on `remove` button on personal and contact information page of profile
+**
 
 Now I'd like you to imagine you changed your mind, and don't want the VA to email notifications to you again. How would you remove the email address you added?
 
