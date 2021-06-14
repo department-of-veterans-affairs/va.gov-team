@@ -172,7 +172,7 @@ As progress is made through add support for different content types, the plugin 
 
 
 
-#### Publish Batch API
+#### Publish Batch Event and API
 
 A new entity will be added to Drupal to track when content deployments are triggered from Drupal. The entity will track the entity, revision and status of deployment. The JSON format of the Publish Batch will be the format Drupal pushes to SQS and the format the Lambda will use to process publishing.
 
@@ -221,6 +221,8 @@ Example JSON message:
 }
 ```
 [This epic](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/5568) will track the effort to create the Publish Batch API.
+
+A Publish Batch Record will be sent to a AWS SNS Topic. An AWS SQS Queue for Small Batch Publishing will subscribe to the topic and be processed by the lambda function.  Using an SNS Topic provides flexiblity for other serverices to react to publish events from the CMS.  Documentation for the SNS topics and message formate will be created and maintaned in a public location.
 
 #### Continuous Integration
 
