@@ -99,26 +99,7 @@
 ----
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Find VA Forms - Detail Pages Use Cases
+## Find VA Forms - Detail Page Use Cases
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
@@ -144,7 +125,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 * **Link to TestRail Test Case**
   - C858 https://dsvavsp.testrail.io/index.php?/cases/view/858 \[Request TR login credentials from @mickinsahni]
 
-### Use Case B 
+### Use Case B - Updated 2021-06-21 -- links added to Related Forms
 #### Maximum custom form data
 
 * **Description:** When a form page has all custom data added in Drupal. Mockup shows the maximal version of a form detail landing page with data that's coming from the source VA forms database, plus all the custom Drupal added data.  
@@ -154,7 +135,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   - Related to field
   - When to use this form content block
   - Online tool block
-  - Related forms and instructions
+  - Related forms and instructions - Update 2021-06-21 - Any related forms listed here should link to its own detail page (if one exists)
   - Custom "Helpful links related to {dynamic:form nbr}" 
 
 * **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
