@@ -15,7 +15,7 @@ n/a - UAT to be conducted after additional initiatives using refresh
 - How will you make the product available in production while limiting the number of users who can find/access it:
   - VA.gov feature flag `va_online_scheduling_homepage_refresh`
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Appointment-related errors
+  - Homepage errors
 - Links to dashboard(s) showing "success criteria" metrics:
   - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/1iZBzQ5ITaG9AdBCy6rLeg/a50123418w177519031p176188361/)
 
@@ -26,7 +26,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 4 hrs - 1 day
 - Percentage of Users (and roughly how many users do you expect this to be): 1% (~1,400 users)
 
 #### Results:
