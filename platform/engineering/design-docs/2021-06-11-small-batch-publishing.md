@@ -65,7 +65,7 @@ The primary editor use case is for updating currently published content.
 * [Accelerated Publishing Discovery](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/4748)
 * [Single Page Preview Discovery](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/5095)
 * [Accelerated Publishing Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/accelerated_publishing/)
-* [Accelerated Publhsing Discovery Finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/findings_recommendations.md)
+* [Accelerated Publishing Discovery Finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/findings_recommendations.md)
 
 ### **Background**
 
