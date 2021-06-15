@@ -1,4 +1,14 @@
-# 2021 Weekly PM/PO Sync for CMS Export Build
+# 2021 ~Weekly~ 6 weeks PM/PO Sync for ~CMS Export Build~ Content Release
+
+## 6-15-21
+
+### Standing agenda
+
+- How many nodes are published now?
+- How many nodes have we successfully tested?
+- What is the general timeline and roadmap for node publishing and technical iterations to support node publishing between where we are now and that limit?
+- What is the current time to publish?
+- How do we expect in progress or upcoming work (node publishing and technical iterations) to impact time to publish?
 
 ## 3-26-21
 
