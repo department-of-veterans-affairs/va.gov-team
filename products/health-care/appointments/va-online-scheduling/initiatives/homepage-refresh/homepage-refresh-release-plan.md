@@ -1,4 +1,4 @@
-# VAOS Homepage Refresh Release Plan (WIP)
+# VAOS Homepage Refresh Release Plan
 
 ---
 
