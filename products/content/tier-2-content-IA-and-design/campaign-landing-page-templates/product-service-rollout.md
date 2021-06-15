@@ -94,8 +94,14 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 
 ### Relevant Documents
 
+CLP Governance and Product Guide (Draft - 06-15-2021)
+[VA.gov Campaign Landing Page_Governance_Guide.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6658669/VA.gov.Campaign.Landing.Page_Governance_Guide.pptx)
+
+
 CMS Training Guide
 https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90
 
 CMS Journey Map for Vet Centers
 https://app.mural.co/t/vagov6717/m/vagov6717/1613420145908/8a8a1b99748bea534e06aca0ba041160341f1139
+
+
