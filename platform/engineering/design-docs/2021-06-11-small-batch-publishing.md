@@ -43,7 +43,8 @@
   * [Open Questions and Risks](#open-questions-and-risks)
   * [Work Estimates](#work-estimates)
   * [Alternatives, Research, and Future Work](#alternatives-Research-and-future-work)
-* [Long Term Vision](#long-term-vision)
+* [Mid Term Vision](#long-term-vision)
+* [Eliminate the Content Build Pipeline](#eliminate-the-content-build-pipeline)
 * [Revision History](#revision-history)
 
 ## **Overview**
@@ -341,11 +342,15 @@ Assets coming out of Drupal will be sent directly to S3. More work is going to b
 Other global elements such as menus, sidebar menus, listing pages, header and footer should be investigated to see if they should be replaced by React Widgets.
 
 
-## **Long Term Vision**
+## **Mid Term Vision**
 
 The longer term vision is for all content publishing to use the Small Batch Publishing framework.  This would require all pages in va.gov to have a Drupal representation, including the current markdown content.  The current content build would be updated to trigger the SBP system depending on templates being updated.  With all pages represented in Drupal, the AX and broken link checkers can be controlled in the Drupal editorial experience.
 
 The advantage of using Lambda is the ability to horizontally scale the processing of the pages.  If all publishing goes through the lambda, we have lots of flexibility about where the HTML is generated (Drupal vs preview server vs build).
+
+## **Eliminate the Content Build Pipeline**
+
+Eventually, Drupal will be exposed publiclly which will allow for more flexibiltiy in how content is published.  Either [Drupal will publish the HTML directly](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/5127), or [React widgets will pull content from Drupal in real time](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/5104).  Most likely it will be a mix of those two.
 
 
 ## **Revision History**
