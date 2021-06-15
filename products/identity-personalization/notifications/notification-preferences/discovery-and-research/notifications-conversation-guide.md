@@ -58,6 +58,8 @@ Now we'll move into the prototype. I'm going to send you a link through the chat
 
 *Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
+If any pop-ups from Zoom are blocking your view of the prototype, go ahead and close them.
+
 I'm going to give you a scenario to explore the prototype. Please think out loud as much as possible as you go through the prototype. Imagine you receive text messages from the VA, and you've logged into the website. You no longer want to receive text messages from the VA.  How would you do that?
 
 *If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
@@ -149,6 +151,7 @@ Now that you’ve removed your email, what do you expect to happen with your not
 
 - Tell me how that overall experience aligns with your expectations for managing notifications.
 - What notifications would you expect to see here that you didn't?
+- Va is not the easiest to maneuver - tell me more
 - Any questions for me? 
 
 ## Thank-You and closing - 1 minute
