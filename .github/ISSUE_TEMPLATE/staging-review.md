@@ -10,7 +10,7 @@ assignees: andreahewitt-odd, Shiragoodman
 ## Steps to complete Staging Review: 
 
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
-- [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @vsp-product-support-members. 
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
 - [ ] Platform: Schedule meeting with Platform reviewers and requesting team attendees (as listed below)
 - [ ] VFS: At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VFS: Verify that access information has been provided for the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
@@ -23,10 +23,11 @@ assignees: andreahewitt-odd, Shiragoodman
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Link to the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
+- Link to the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository
 -  Staging test-user information (if applicable)
 -  Link to content brief (if applicable)
--  Link to or specify the artifact that represents this initiative's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
+-  Link to or attach your project's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
+-  Link to the Github ticket that shows the work for creating and/or updating any relevant static content pages and entry points for this project
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_

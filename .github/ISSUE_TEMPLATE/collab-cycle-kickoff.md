@@ -10,7 +10,7 @@ assignees: andreahewitt-odd, shiragoodman
 ## Steps to complete Collaboration Cycle Kickoff
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
 - [ ] VFS: Answer the questions below.
-- [ ] VFS: Link to this issue once created in vfs-platform-support in Slack; tag @vsp-product-support-members.
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support.
 - [ ] VFS: Attach any available artifacts.
 - [ ] Platform: Review the responses and comment in ticket with recommended touchpoints and practice area involvement.
 - [ ] Platform: Add project/feature to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
@@ -72,16 +72,20 @@ Examples of **research with VA.gov users** include:
  - User surveys
  - Card sorting
 
-### 5. Will your work include content changes for: (Select all that apply)
+### 5. Will your work involve changes to: (select all that apply)
+
 - [ ] Tools and applications*
 - [ ] Static pages
-- [ ] This work doesn’t involve content changes.
+- [ ] Both
 
-*For tools and applications, take into account if any content on static page entry points will need updates.
+*For tools and applications, take into account if any static page entry points will need updates.*
 
-Content changes could include: updates to buttons, links, labels, headings, reordering content, or adding error messages.
+### 6. Will your work include:  
 
-### 6. Are you making a change to the user flow?
+- [ ] New content
+- [ ] Changes to existing content
+
+### 7. Are you making a change to the user flow?
 - [ ] Yes
 - [ ] No
 
@@ -89,7 +93,7 @@ Examples of **changes to the user flow** include:
  - Adding a new section to a form 
  - Moving from a wizard to one thing per page form model
 
-### 7. Are you making a change to urls, navigation, or entry points?
+### 8. Are you making a change to urls, navigation, or entry points?
 - [ ] Yes
 - [ ] No
 
@@ -97,16 +101,26 @@ Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page
  - Modifying options within core navigation elements (for example, top nav, left nav, home page)
 
-### 8. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
+### 9. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
 - [ ] Yes
 - [ ] No
 
 Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics tracking support will still be provided.
 
-### 9. If yes, then do you need to capture any other analytics or metrics in addition to what you're currently tracking?
+### 10. If yes, then do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 
 - [ ] Yes
 - [ ] No
+
+### 11. Who is the VA business owner for this body of work?
+
+- [ ] VHA (Veterans Health Administration)
+- [ ] VBA (Veterans Benefits Administration)
+- [ ] NCA (National Cemetery Administration)
+- [ ] VACO (Veterans Affairs Central Office)
+- [ ] Other. Please specify: ____________
+
+
 
 
 ## Additional information

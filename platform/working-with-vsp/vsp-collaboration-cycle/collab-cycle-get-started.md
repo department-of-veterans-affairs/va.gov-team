@@ -50,32 +50,46 @@ Examples of **research with VA.gov users** include:
  - User surveys
  - Card sorting
 
-### 5. Will your work include content changes for: 
-- Tools and applications*
-- Static pages
-- This work doesn’t involve content changes.
+### 5. Will your work involve changes to: (select all that apply)
 
-*For tools and applications, take into account if any content on static page entry points will need updates.
+- [ ] Tools and applications*
+- [ ] Static pages
+- [ ] Both
 
-Content changes could include: updates to buttons, links, labels, headings, reordering content, or adding error messages.
+*For tools and applications, take into account if any static page entry points will need updates.*
 
-### 6. Are you making a change to the user flow?
+### 6. Will your work include:  
+
+- [ ] New content
+- [ ] Changes to existing content
+
+### 7. Are you making a change to the user flow?
 We ask questions 6 and 7 to determine if IA should be involved in your Collaboration Cycle reviews and if a Contact Center Review and/or a separate IA Request is necessary.
 
 Examples of **changes to the user flow** include:
  - Adding a new section to a form 
  - Moving from a wizard to one thing per page form model
 
-### 7. Are there any changes to urls, navigation, or entry points?
+### 8. Are there any changes to urls, navigation, or entry points?
 
 Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page
  - Modifying options within core navigation elements (for example, top nav, left nav, home page)
 
-### 8. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
-### 9. If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
+### 9. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
+### 10. If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 
 We ask these questions to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
 
 **Please note that Domo is on Pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics tracking support will still be provided.**
+
+
+### 11. Who is the VA business owner for this body of work?
+
+- [ ] VHA (Veterans Health Administration)
+- [ ] VBA (Veterans Benefits Administration)
+- [ ] NCA (National Cemetery Administration)
+- [ ] VACO (Veterans Affairs Central Office)
+- [ ] Other. Please specify: ____________
+
 
