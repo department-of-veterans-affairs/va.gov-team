@@ -3,11 +3,21 @@
 ## Moderator logistics
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
+
 - [ ] Mute your Slack notifications
-- [ ] Have prototype link available: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
+
+- [ ] Have prototype link available
+
+  - Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
+
+  - Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696478/simulate/no-panels?mode=i
+
 - [ ] Update the Zoom sharing settings so participants can share
+
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
+
 - [ ] In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
+
 - [ ] When the participant is ready, begin the session with the following intro:
 
 ## Intro - 2 minutes
@@ -56,13 +66,20 @@ Before we look at the prototype, I'd like to talk to you about notifications.
 
 Now we'll move into the prototype. I'm going to send you a link through the chat function, and then have you share your screen.
 
-*Send link to prototype, starts on homepage*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
+*Send link to prototype, starts on homepage*:
+
+- Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
+
+- Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696478/simulate/no-panels?mode=i
 
 If any pop-ups from Zoom are blocking your view of the prototype, go ahead and close them.
 
 I'm going to give you a scenario to explore the prototype. Please think out loud as much as possible as you go through the prototype. Imagine you receive text messages from the VA, and you've logged into the website. You no longer want to receive text messages from the VA.  How would you do that?
 
-*If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
+*If needed, send link to personal and contact information section of profile, see if they can find notification settings from there*: 
+
+- Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i
+- Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696479/simulate/no-panels?mode=i
 
 ### Things to watch for
 
@@ -71,7 +88,10 @@ I'm going to give you a scenario to explore the prototype. Please think out loud
 
 ## Task 2: General impression - 5 minutes
 
-*Participant should be on notification settings page of profile.* https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/no-panels?mode=i
+*Participant should be on notification settings page of profile.* 
+
+- Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/no-panels?mode=i
+- Link for participants 5-8:  https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696478/simulate/no-panels?mode=i
 
 Thank you. Please don't click on anything just yet. Take a look at this page and talk me through what you see here.
 
