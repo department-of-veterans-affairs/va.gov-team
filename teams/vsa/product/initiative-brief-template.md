@@ -31,7 +31,7 @@
 **Related product(s)**
 > *Identify VA.gov product(s) this initiative is associated with.*
 
-- Product | [Link to product outline](#)
+- Product | Link to product outline 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
@@ -60,7 +60,7 @@
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
@@ -78,16 +78,11 @@
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
   - .
 
-### Hypotheses/Bets  
-> *Describe the team's competing solution hypotheses.*
-
-
-### Prioritization
-> *Prioritize the competing hypotheses accounting for effort, impact, value, confidence.*
-
+### Hypotheses & Prioritization
+> *Describe the team's competing solution hypotheses. Prioritize them accounting for effort, impact, value, confidence*
 
 ### Solution Scope
-> *Describe key features; what's in scope for you to build? What have you explicitly decided to **not** include in this initial set of functionality, and why?*
+> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include in this initial set of functionality, and why?*
 
 --- 
 
@@ -144,5 +139,5 @@
 </details>
 
 ---
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
