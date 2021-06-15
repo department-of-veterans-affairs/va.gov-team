@@ -75,19 +75,22 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
       - CLPs need to drive traffic TO benefits or tools or products, not the other direction.
       - CLPs can be seasonal or recurring(like Flu Season 2020, Pride Month 2020) but not duplicative of evergreen content
     - Ultimately responsible for ensuring the quality of the CLP -- e.g. look/feel, plain English content, accessibility)
-    - Must kick-off the CLP process by creating/submitting the CLP request form
- 
- 
- - The request form will be used for two purposes:
-   - To ensure the CLP meets the criteria for a Campaign and to ensure key information (e.g. name, goals, start-end date, URL requirements, etc.) are identified up-front.
-   - To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP.
+    - Must kick-off the CLP process by creating/submitting the CLP request form. The request form will be used for two purposes:
+      - To ensure the CLP meets the criteria for a Campaign and to ensure key information (e.g. name, goals, start-end date, URL requirements, etc.) are identified up-front
+      - To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP
+    - Build or oversee the build of the CLP
+    - Manage any page updates
+    - Create and implement share links (UTMs)
+    - Monitor CLP performance (via Google Analytics)
+    - Request “take down” of page when campaign ends, specifying the Redirect URL
 
-- Training requirements: 
-  - CMS proficiency
-  - Adherence to the design/UX principles
-  - Plain language
-  - Accessibility
-  - URL (including H1 and Vanity)setting
+- VACO Digital Comms Teams - CLP Training requirements: 
+  - How to use CMS
+  - How to use the Campaign Page builder, with special focus on how to add/edit photos, add videos, add PDFs.
+  - Content - VA.gov style/tone and plain English 
+  - Accessibility 
+  - Design/UX - Adherence to VA.gov design principles
+  - Information Architecture, with focus on URL (including H1 and Vanity) setting
 
 ### Relevant Documents
 
