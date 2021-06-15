@@ -92,8 +92,8 @@
 
 - Kickoff ticket
 
-### Go-to-market Strategy
-> *How are Veterans and others using this product going to know it exists? What marketing, outreach, or communications are necessary for this product to be successful?*
+### Go-to-market 
+> What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline/Milestones
 
