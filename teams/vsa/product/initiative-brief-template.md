@@ -93,12 +93,12 @@
 - Kickoff ticket
 
 ### Go-to-market 
-> What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
-### Timeline/Milestones
-> *Describe any major milestones for this initiative including 
+### Timeline 
+> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-- [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
