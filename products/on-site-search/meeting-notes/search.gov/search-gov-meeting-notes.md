@@ -2,6 +2,9 @@
 
 
 
+
+
+
 ### 3/9 Email Exchange about Type Ahead suggestions data purge
 
 - Candidly, we were not aware of the extent of build-up of "old" suggestions ahead of the bug resolution. You're right in that this impacted all Search.gov sites, but we haven't yet heard feedback from other customers using type-ahead.
