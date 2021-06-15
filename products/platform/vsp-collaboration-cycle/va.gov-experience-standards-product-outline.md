@@ -16,20 +16,22 @@ _Delete this guidance stanza and any italicized guidance in the template before 
 # Product Title
 
 ## Overview
-*A brief description of the product.*
+The VA.gov Experience Standards are a set of criteria that VFS teams are assessed against as they bring their products through the Collaboration Cycle. The criteria covers 4 practice areas that impact the Veteran experience - design, content, information artchitecture and accessibility. The standards are written to be the expected behavior of VFS team products. Each standards has a correlated issue which describes the undesirable behavior of the product. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+VFS teams are required to build products that mean VA.gov standards, however the standards have not been explicitly defined. In addition, Platform team has found it challenging to track and report out the issues they are finding in VFS products during Collaboration Cycle reviews. The VA.gov Experience Standards will be made availble to VFS teams so they know prior to their build what Platform reviewers will be evaluating their products against. The VA.gov Experience Standards also allow Platform reviewers to align and group their feedback on the issue at hand, opposed to being grouped by practice area. This will allow for easier tracking of the issues that exist on VA.gov, and can be tracked by team, product, and impacted practice areas.
 
 ## Personas
-*Who are the users of this product?*
+Platform Reviewer's are currently the main users of this product within the Collaboration Cycle. 
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+Decrease in time spent by Platform Reviewers at Collaboration Cycle Staging Review.
+Number of issues created at Staging Review
+Number of launch blocking issues identified at Staging
+Percentage of closed out issues post-launch
+
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
