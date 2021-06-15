@@ -44,6 +44,7 @@
   * We're seeing new use cases that weren't covered with the current iteration (VA wide event calendar)
   * VEO scaling up usage
   * VC events?
+* Ownership of removing dfn wrapper applied by template on table cells
 
 ## June 8 
 
