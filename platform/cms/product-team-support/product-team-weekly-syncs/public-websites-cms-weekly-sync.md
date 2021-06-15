@@ -47,6 +47,7 @@
   * As an option, the existing content model can be cloned for other offices
   * Training needs
 * Ownership of removing dfn wrapper applied by template on table cells
+* Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
 
 ## June 8 
 
