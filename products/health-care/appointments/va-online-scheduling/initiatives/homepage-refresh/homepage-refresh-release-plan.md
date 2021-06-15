@@ -55,7 +55,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (~18k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 60% (~21k users)
 
 #### Results:
 - Number of unique users: x
@@ -64,24 +64,11 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: moderate 3
-
-#### Planning
-
-- Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 75% (~27k users)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: Tue, 7/13/21
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
