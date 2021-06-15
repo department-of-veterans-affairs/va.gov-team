@@ -119,7 +119,7 @@ The code from the current preview server will be abstracted and reused in the la
 
 #### Facility Banner Alerts
 
-The first type of data to be updated using the Small Batch Publishing will be the facility banner alerts and alerts. These types of content currently trigger a deploy from Drupal to the jenkins job. The trigger from Drupal to Jenkins will be replaced with Small Batch Publishing.  By removing the need for Drupal to trigger the Jenkins job, we eliminate logic around Drupal bulk publish events and when an editor is allowed to trigger a Small Batch Publish.
+The first type of data to be updated using the Small Batch Publishing will be the facility banner alerts. These types of content currently trigger a deploy from Drupal to the jenkins job. The trigger from Drupal to Jenkins will be replaced with Small Batch Publishing.  By removing the need for Drupal to trigger the Jenkins job, we eliminate logic around Drupal bulk publish events and when an editor is allowed to trigger a Small Batch Publish.
 
 1. Banner Alert updated in Drupal
 2. Drupal sends Publish Batch Record to SQS
