@@ -34,8 +34,7 @@
 
 ## Problem
 :information_source: *Describe the challenge / pain point you seek to address.:* 
-* What is the problem? And, what evidence do we have of the problem?
-* Which Veteran/organizational segments are most affected by the problem? And, where does this problem affect the Veteran journey?
+* What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further DE's mission and goals?
 
