@@ -38,7 +38,7 @@ https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
 - VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
 - VEO: Tim Hudek
-- OPIA: Bronwyn Emmet
+- OPIA: Kayla Williams, John Santos
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
 **MVP Request and Publishing Model (April-June 2021):** 
@@ -67,15 +67,13 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 
 **Governance Model (Draft-WIP):**
 - Edit and Publish access will go wider --  with the following guardrails in place:
-  - the VACO digital comms teams/leads will be "owners" of the CLP.  That means:
-  -
-  - it will be provided to VA communications staffers in the field after they **go through training.**
+  - The VACO digital comms teams/leads will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means:
+    - The Editor rights and accounts will be provided **only to** VACO digital comms staffers after they **go through training.**
+    - They will be the sole creators of CLPs
+    - They will
+    - Determing what is a CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.  
   - the VACO leads will retain publish rights, to ensure every CLP is reviewed for quality before it is released into production
-- For this phase:
-  - The URL must be set dynamically (e.g. via H1) with hyphens
-  - The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
-  - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages.
-  - Determing what is a CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.  We will hold a session with each to walk through the process and governance.   Our guidance:
+
     - CLPs are temporary.
     - Temporary clp’s need to drive traffic TO benefits or tools or products, not the other direction.
     - Temporary clp’s can be seasonal or recurring or somehow temporary (like flu season 2020, flu season 2021) but not duplicative of evergreen content.
