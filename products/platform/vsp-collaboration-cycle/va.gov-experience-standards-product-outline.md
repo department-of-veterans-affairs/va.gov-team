@@ -1,19 +1,5 @@
 
-# VSP Product Outline Template
-
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
-# Product Title
+# Product Outline - VA.gov Experience Standards
 
 ## Overview
 The VA.gov Experience Standards are a set of criteria that VFS teams are assessed against as they bring their products through the Collaboration Cycle. The criteria covers 4 practice areas that impact the Veteran experience - design, content, information artchitecture and accessibility. The standards are written to be the expected behavior of VFS team products. Each standards has a correlated issue which describes the undesirable behavior of the product. 
@@ -63,7 +49,7 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
+- *Launch Date*: July 2021
 
 ---
 
