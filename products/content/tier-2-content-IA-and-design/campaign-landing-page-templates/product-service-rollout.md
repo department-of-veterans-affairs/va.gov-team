@@ -80,7 +80,7 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
  
  - The request form will be used for two purposes:
    - To ensure the CLP meets the criteria for a Campaign and to ensure key information (e.g. name, goals, start-end date, URL requirements, etc.) are identified up-front.
-   -To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP.
+   - To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP.
 
 - Training requirements: 
   - CMS proficiency
