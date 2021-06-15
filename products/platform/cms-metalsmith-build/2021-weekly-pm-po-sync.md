@@ -10,6 +10,29 @@
 - What is the current time to publish?
 - How do we expect in progress or upcoming work (node publishing and technical iterations) to impact time to publish?
 
+### How many nodes are published now? 
+- Jeff: 14,901 nodes and 218 active users
+- [Google Spreadsheet for node publishing estimation](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=0)
+- [Expected high/low vs real world](https://docs.google.com/spreadsheets/d/1pa0EgHuOXINvool4QHjV3lIDyYf-p9JRr8z1AuW4HFE/edit#gid=785739954)
+
+### How many nodes have we successfully tested? 
+- Megan: CMS and build pipeline can support 48k
+
+### What is the general timeline/roadmap for node publishing? And for technical iterations to support node publishing between where we are now and that limit? 
+- Jeff: Should we update the estimated node publish update? Actual publish seems to be a bit lower than what we estimated
+- Stan & Dave: Not yet, but in August yes we will be able to update estimated node publish counts
+- Megan: 48k capacity takes us at least to September, probably safely through end of year
+- Mike: It looks like we've successfully squeezed a whole bunch more performance out of this existing infrastructure. We've got some headroom here in terms of pure capacity — can you publish nodes, will the system die if you try to publish nodes. So now is a good time to be doing some more thoughtful and proactive work. 
+- If there are things (translation, CLP, etc) that are going to eat up a lot of nodes, bring it up to this group. The resources are still finite. 
+
+## What is the current time to publish? 
+- Around 10 min, give or take
+- Scheduled releases hourly on weekdays (ish)
+
+## How do we expect the time to publish to change? 
+- As we reach 48k nodes, time to publish will increase towards an hour — but will not exceed 
+- CMS Core App team would like to meet and coordinate with technical engineering staff of Public Websites and other teams so that we can work together on improvements and make sure everyone has capacity to support that
+
 ## 3-26-21
 
 ### Topics to discuss
