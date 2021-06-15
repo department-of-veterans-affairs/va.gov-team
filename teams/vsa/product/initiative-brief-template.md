@@ -96,6 +96,7 @@
 > What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline/Milestones
+> *Describe any major milestones for this initiative including 
 
 - [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
