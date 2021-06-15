@@ -77,21 +77,11 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
     - Ultimately responsible for ensuring the quality of the CLP -- e.g. look/feel, plain English content, accessibility)
     - Must kick-off the CLP process by creating/submitting the CLP request form
  
- - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM), vanity URLs. 
-  - There will be no VA.gov Platform or Product review before publication
-    - Intake of the request form 
-    - Setting up the cloned site (or can the VACO leads do?)
-    - Getting analytics dashboard setup via ticket
-    - Getting UTMs established via ticket and worksheet
-    - Getting vanity URL redirect(s) established and deployed via ticket
- - There will be no VA.gov Platform or Product review before publication
+ 
+ - The request form will be used for two purposes:
+   - To ensure the CLP meets the criteria for a Campaign and to ensure key information (e.g. name, goals, start-end date, URL requirements, etc.) are identified up-front.
+   -To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP.
 
-**Considerations**
-- Will we shift to a fully self-service model -- e.g. such as VAMC or Vet Centers?
-- Will there be any VA.gov and VACO leads governance (a throttle) -- e.g.,request and light Platform review before publication? 
-  - Or, will VACO lead teams have the ability to request access for more editor/users?
-- Will the URL be dynamically generated?
-- How will positioning of the CLP within the VA.gov site IA be determined? (e.g. case-by-case or in a Campaign subsection w/in each Benefit hub?)
 - Training requirements: 
   - CMS proficiency
   - Adherence to the design/UX principles
