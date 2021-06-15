@@ -28,13 +28,21 @@ Platform Reviewer's are currently the main users of this product within the Coll
 
 ### Key Performance Indicators (KPIs)
 Decrease in time spent by Platform Reviewers at Collaboration Cycle Staging Review.
+
 Number of issues created at Staging Review
+
 Number of launch blocking issues identified at Staging
+
 Percentage of closed out issues post-launch
 
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+[Tracking Time for Collab Cycle Reviews](https://docs.google.com/spreadsheets/d/1GY07PAdfmRsXYPdoRvKpOARYyUtXcD2nw8Bl6deIs-s/edit#gid=0) document has individual Platform Reviewer times for Collaboration Cycle Reviews from April 26, 2021 onward.
+
+**Average times per reviewer (in minutes) from 4/26 - 6/15 for Staging Reviews:**
+Allison | Darius | Mikki | Noah | Peggy | Peter | Trevor
+----- |----- |----- |----- |----- |----- |----- |
+30.83 | 29.44 | 27.27 |63.75 | 46.82 | 34.29 | 285
 
 ---
 
