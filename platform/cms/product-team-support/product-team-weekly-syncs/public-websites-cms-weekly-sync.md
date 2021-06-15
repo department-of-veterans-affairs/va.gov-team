@@ -40,6 +40,10 @@
 * CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
 * Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200)
 * Support for JPEG2000 imgaes on FE and CMS - slack thread for context [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
+* Vision for Outreach Hub - short term (Q3), long term calendar year 2021
+  * We're seeing new use cases that weren't covered with the current iteration (VA wide event calendar)
+  * VEO scaling up usage
+  * VC events?
 
 ## June 8 
 
