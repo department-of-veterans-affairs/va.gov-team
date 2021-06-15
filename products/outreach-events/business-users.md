@@ -1,7 +1,7 @@
 ### VA Business Owners
 
 - VEO
-  - Tim Hudak
+  - Tim Hudak, tim.hudak@va.gov
   - Jean Orzechowicz, Jean.Orzechowicz@va.gov
 
 #### VA Business Users/POCs
