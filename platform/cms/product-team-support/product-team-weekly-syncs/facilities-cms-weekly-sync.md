@@ -41,6 +41,7 @@ Vet Center
 Other
 * CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
 * Mikki's one off URLs
+* No response from Jessica yet on Vet Center District 5 users
 
 
 ## June 9
