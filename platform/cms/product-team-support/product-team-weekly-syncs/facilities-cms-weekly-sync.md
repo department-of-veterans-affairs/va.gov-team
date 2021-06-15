@@ -36,6 +36,7 @@ Vet Center
 * Connecting 17 Outstations to their Section and Vet Center [#5564](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5564). Who can fix this, and with what data?
 * [#4582 Grouping Vet Centers Sections into Districts](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4582)
 * Consider text limit for Spotlight content?
+* Removing intro text on Locations page [#25026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25026) -> following our change, CMS can remove the field and make updates to training as needed
 
 Other
 * CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
