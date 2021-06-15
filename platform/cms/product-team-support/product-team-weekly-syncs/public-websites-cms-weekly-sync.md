@@ -44,6 +44,8 @@
   * We're seeing new use cases that weren't covered with the current iteration (VA wide event calendar)
   * VEO scaling up usage
   * VC events?
+  * As an option, the existing content model can be cloned for other offices
+  * Training needs
 * Ownership of removing dfn wrapper applied by template on table cells
 
 ## June 8 
