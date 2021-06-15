@@ -67,17 +67,16 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 
 **Governance Model (Draft-WIP):**
 - Edit and Publish access will go wider --  with the following guardrails in place:
-  - The VACO digital comms teams/leads will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means:
-    - The Editor rights and accounts will be provided **only to** VACO digital comms staffers after they **go through training.**
-    - They will be the sole creators of CLPs
-    - They will
-    - Determing what is a CLP will be the responsibility of the VACO digital comms teams (VHA, VBA, VEO, NCA, OPIA) -- not the Public Websites product team.  
-  - the VACO leads will retain publish rights, to ensure every CLP is reviewed for quality before it is released into production
-
-    - CLPs are temporary.
-    - Temporary clp’s need to drive traffic TO benefits or tools or products, not the other direction.
-    - Temporary clp’s can be seasonal or recurring or somehow temporary (like flu season 2020, flu season 2021) but not duplicative of evergreen content.
-    - Ideally, temporary clp’s are used to do targeted messaging to targeted audiences -- e.g. Flu Vaccines for Female Veterans
+  - The VACO digital comms teams/leads will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means, the leads on those teams:
+    - Decide what is a CLP – including assessing requests from Offices, Leadership, etc.  Criteria include:
+      - Is this a campaign or a blog post? 
+      - Is the content duplicative? 
+      - Is this time-bound?  A campaign must have an end date.
+      - CLPs need to drive traffic TO benefits or tools or products, not the other direction.
+      - CLPs can be seasonal or recurring(like Flu Season 2020, Pride Month 2020) but not duplicative of evergreen content
+    - Ultimately responsible for ensuring the quality of the CLP -- e.g. look/feel, plain English content, accessibility)
+    - Must kick-off the CLP process by creating/submitting the CLP request form
+ 
  - The request form process will still be used to help establish the analytics requirements, including establishment of campaign unique tracking codes (UTM), vanity URLs. 
   - There will be no VA.gov Platform or Product review before publication
     - Intake of the request form 
