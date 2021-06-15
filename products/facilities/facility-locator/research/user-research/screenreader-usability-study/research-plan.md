@@ -132,7 +132,7 @@ We’re going to ask you some questions about your disability as this study is h
 - Wednesday, June 16, 9-11am, 1-3pm
 - Thursday, June 17, 9-11am
 - Monday, June 21, 9-11am
-- Tuesday, June 22, ~~9-11am~~, 12-2pm
+- Tuesday, June 22, 12-2pm
 - Wednesday, June 23, 9-11am
 - Thursday, June 24, 9-11am
 - Friday, June 25, 9-11am
