@@ -19,24 +19,25 @@
  
  </details>
  
- ℹ️ Instructions for a particular section
- 💡 Helpful guidance/tips
+ > 💡 Helpful guidance/tips
  
 ---
 
 ## Outcome Summary
-:information_source: *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
+> *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
 
-**Related product(s)**\
-*Identify VA.gov product(s) this initiative is associated with.*
+* .
+
+**Related product(s)**
+> *Identify VA.gov product(s) this initiative is associated with.*
 
 - Product | [Link to product outline](#)
 
 ## Problem
-:information_source: *Describe the challenge / pain point you seek to address.:* 
+> *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further DE's mission and goals?
+* How does this initiative help further OCTO-DE's mission and goals?
 
 <!--
 ## Desired User Outcomes
@@ -56,19 +57,17 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-ℹ️ *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*\
-:bulb: *Use your product's KPIs to understand if you're meeting desired user and business outcomes.*
-:bulb: *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*
+> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
+> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-
-- KPI | Baseline | Target | Link to data source
+- Product KPI | Baseline | Target | Link to data source
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-:information_source: *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>1</sup>.*\
-:information_source: *Indicate how you'll validate/test against these risks.*
+> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
+> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
   - .
@@ -80,26 +79,26 @@
   - .
 
 ### Hypotheses/Bets  
-ℹ️ *Describe the competing solution hypotheses the team ideates.*
+> *Describe the team's competing solution hypotheses.*
 
 
 ### Prioritization
-ℹ️ *Prioritize the competing hypotheses the team develops accounting for effort, impact, value, confidence.*
+> *Prioritize the competing hypotheses accounting for effort, impact, value, confidence.*
 
 
 ### Solution Scope
-ℹ️ *What are you going to build now, and why have you decided to start there? What have you explicitly decided to not include in this initial set of functionality, and why?*
+> *Describe key features; what's in scope for you to build? What have you explicitly decided to **not** include in this initial set of functionality, and why?*
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
-💡 *Use for any Collab Cycle tracking, questions.*
+> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
 ### Go-to-market Strategy
-ℹ️ *How are Veterans and others using this product going to know it exists? What marketing, outreach, or communications are necessary for this product to be successful?*
+> *How are Veterans and others using this product going to know it exists? What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ### Timeline/Milestones
 
@@ -122,7 +121,7 @@
 ---
 
 #### Communications
-*Where will you be primarily discuss this initiative?*
+*Where will you discuss this initiative?*
 
 <details>
 
@@ -145,4 +144,5 @@
 </details>
 
 ---
-<sup>1</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
+<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
