@@ -16,6 +16,7 @@
 ## Cognition
 * [Buttons should be styled as buttons and links should be styled as links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23171)
 * [Buttons MUST have unique and accessible labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18923)
+* [Links should not rely on color](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)
 
 ## Screen readers
 
