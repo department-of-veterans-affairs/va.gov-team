@@ -22,6 +22,10 @@
 </details>
 
 
+## June 18
+* VAMC editor that created a bad table, plan to handle when someone goes off the rails. slack thread [**here**](https://dsva.slack.com/archives/CPQFCQKEH/p1623686219343000)
+* 
+
 ## June 11
 
 * Accessibility checker (overview)
