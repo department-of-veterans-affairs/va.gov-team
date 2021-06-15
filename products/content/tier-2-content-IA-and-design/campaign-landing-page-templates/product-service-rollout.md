@@ -87,6 +87,7 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
   - Adherence to the design/UX principles
   - Plain language
   - Accessibility
+  - URL (including H1 and Vanity)setting
 
 ### Relevant Documents
 
