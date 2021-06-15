@@ -24,11 +24,21 @@ As a Veteran who uses VA online scheduling, I want to be able to manage all my a
 ### Key Performance Indicators (KPIs)
 - Medallia satisfaction rating and feedback
 - Users
+- Pageviews
+- Homepage errors
 - Help Desk call volume
 
 #### Baseline KPI Values
 - Satisfaction rating - _Medallia data TBD_
-- Average users (Jan-May) = 142,647
+- Users
+  - Average Jan-May = 142,647
+  - May = 134,812
+- Pageviews
+  - Average Jan-May = 257,671
+  - May = 249,437
+- Homepage errors 
+  - Average Jan-May = 3,992 (1.56% of pageviews)
+  - May = 6,353 (2.55% of pageviews)
 - Help Desk call volume
 
 | Month             | Call Volume |
@@ -93,11 +103,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: VA Online Scheduling
+- GitHub Label: vaos
+- Slack channel: vaos-team
+- Product POCs: Lauren Ernest
+- Stakeholders: Kay Lawyer (OCC)
 
 </details>
 
@@ -105,10 +115,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
+ - PM: [Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY)
+ - Engineering: [Kam Karshenas](https://dsva.slack.com/team/U1DCKT85B), [Jeff Balboni](https://dsva.slack.com/team/U1YQCT1V3), [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
+ - Research/Design: Peter Russo
  
 </details>
 
@@ -116,8 +126,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
+
+n/a
  
 </details>
-
