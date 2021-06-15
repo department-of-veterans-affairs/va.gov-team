@@ -38,9 +38,6 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- Have you ever used the GI Bill Comparison Tool before?
-    - If yes, what did you use it for?
-
 - What is your military status (e.g. Veteran, child, spouse)?
     - If Veteran, which branch of service?
     
@@ -52,6 +49,9 @@ Before we look at the website, let’s start with a few warm-up questions.
          
 - When you first decided to go back to school, what factors were important to you in picking school options?
     - Do you remember any of the schools you were considering?
+
+- Have you ever used the GI Bill Comparison Tool before?
+    - If yes, what did you use it for?
 
 ## First Task: Finding schools - 5 minutes
 
