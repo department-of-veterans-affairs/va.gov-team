@@ -1,16 +1,16 @@
 # Inclusive Recruitment Strategies
 
 ## Table of Contents
-- [5 participants aren't enough](#5-Participants-Aren't-Enough)
-- [Maximum variation sampling](#Maximum-Variation-Sampling-(MVS))
+- [5 participants are not enough](#5-Participants-Are-Not-Enough)
+- [Maximum variation sampling](#Maximum-Variation-Sampling)
 - [Lean MVS strategy](#Lean-MVS-Strategy)
-- [Deviant case (outlier) sampling](#Deviant-Case-(Outlier)-Sampling)
+- [Deviant case (outlier) sampling](#Deviant-Case-Sampling)
 - [Critical case sampling](#Critical-Case-Sampling)
 - [Key informant sampling](#Key-informant-sampling)
 
 <br aria-hidden="true"/>
 
-## 5 Participants Aren’t Enough
+## 5 Participants Are Not Enough
 For most VA services, we recommend not referencing the Nielsen Norman article [“Why you only need to test with 5 users”](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) as a reason to test with only 5 users before launch.
 
 ### 1. The NN group article recommends multiple, lean studies.
@@ -30,7 +30,7 @@ The article was written on March 18, 2000. That’s two decades before testing o
 
 <br aria-hidden="true"/>
 
-## Maximum Variation Sampling (MVS)
+## Maximum Variation Sampling
 Purposefully selecting a wide range of social identity categories (like race or disability) among Veterans will help your findings better:
 - Document diversity of needs and behavior
 - Identify important common patterns that cut through the noise of variation on dimensions of interest
@@ -94,7 +94,7 @@ The MVS checker should be used to keep track of which marginalized groups have b
 
 <br aria-hidden="true"/>
 
-## Deviant Case (Outlier) Sampling
+## Deviant Case Sampling
 Deviant case sampling involves investigating cases that highlight notable outcomes, failures, or successes to unveil critical reasons for failure and future best practices.
 
 ### Use deviant case sampling when:
