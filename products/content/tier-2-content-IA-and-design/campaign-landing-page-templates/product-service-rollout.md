@@ -82,7 +82,7 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
     - Manage any page updates
     - Create and implement share links (UTMs)
     - Monitor CLP performance (via Google Analytics)
-    - Request “take down” of page when campaign ends, specifying the Redirect URL
+    - Request “take down” of page when campaign ends, specifying the redirect strategy and/or URL
 
 - VACO Digital Comms Teams - CLP Training requirements: 
   - How to use CMS
