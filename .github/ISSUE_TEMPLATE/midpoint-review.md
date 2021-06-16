@@ -9,7 +9,7 @@ assignees: andreahewitt-odd, shiragoodman
 
 ## Steps to complete Midpoint Review 
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title.
-- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support..
+- [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support.
 - [ ] Platform: Schedule meeting with Collaboration Cycle reviewers and VFS team attendees (listed below).
 - [ ] VFS: At least 2 days before scheduled meeting/review, attach all artifacts listed below and ensure Collaboration Cycle reviewers have appropriate access to secured applications.
 - [ ] Platform: Create feedback tickets and link to the Midpoint Review ticket (if no feedback, please comment stating that). 
