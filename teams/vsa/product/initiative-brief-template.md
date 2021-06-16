@@ -73,7 +73,7 @@
   - .
 - **Usability Risks** (can people figure out how to use it):
   - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/skills/data):
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - .
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
   - .
