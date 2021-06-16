@@ -30,6 +30,7 @@
     * [Preview Server Changes](#preview-server-changes)
     * [Facility Banner Alerts](#facility-banner-alerts)
     * [Metalsmith plugins](#metalsmith-plugins)
+    * [Refactoring of `metalsmith-drupal` plugin](#refactoring-of-metalsmith-drupal-plugin)
     * [Publish Batch API](#publish-batch-api)
     * [Continuous Integration](#continuous-integration)
     * [Assets](assets)
@@ -67,6 +68,7 @@ The primary editor use case is for updating currently published content.
 * [Accelerated Publishing Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/accelerated_publishing/)
 * [Accelerated Publishing Discovery Finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/findings_recommendations.md)
 * [Current Content Build Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/accelerated_publishing/content-build)
+* **[Visualization of current build process](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/platform/cms/accelerated_publishing/content-build/content-build.svg)**
 
 ### **Background**
 
@@ -102,7 +104,6 @@ Editable link: [https://lucid.app/lucidchart/a8445048-94ce-4473-aafa-e8ed6cbfbad
 When an editor performs an action in Drupal (ie publishing a node, edits a menu item), Drupal will determine which pages need to be published. [The logic will be encapsulated by a Drupal Service.](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/5509) The rules around the dependency graph are being tracked on [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/accelerated_publishing/dependency_graph) and are currently a work in progress. Which rules are addressed will be determined by the content type being worked on to support Small Batch Publishing.  As a content type is add to Small Batch Publishing, it will be removed from the hourly content build.  Having support in only one build at a time will eliminate the risk of the full content build overriding the html from the Small Batch Publishing.
 
 Drupal will track the queue progress using the [advancedqueue](https://www.drupal.org/project/advancedqueue) and the Public Batch API described below. The advancedqueue module allows for observability and reporting.
-
 
 #### Preview Server Changes
 
@@ -142,7 +143,7 @@ As progress is made through add support for different content types, the plugin 
 | Plugin                                                    | Full Build     | Current Preview Server     | Small Batch Publish     | Notes                                                                                                                                                   |
 |-----------------------------------------------------------|----------------|----------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Create React pages                                        | X              | X                          |                         |                                                                                                                                                         |
-| Get Drupal content                                        | X              |                            | X                       | The current preview server builds the page json data outside a metalsmith plugin.  The Get Drupal Content plugin will be refactored or split apart.     |
+| Get Drupal content                                        | X              |                            | X                       | The current preview server builds the page json data outside a metalsmith plugin.  The Get Drupal Content plugin will be refactored or split apart.  See [Refactoring of `metalsmith-drupal` plugin](refactoring-of-metalsmith-drupal-plugin) section below for more detail.   |
 | Add Drupal Prefix                                         | X              |                            |                         |                                                                                                                                                         |
 | Create Outreach Assets Data                               | X              |                            |                         |                                                                                                                                                         |
 | Create "Resources and support" section of the website     | X              |                            |                         |                                                                                                                                                         |
@@ -172,7 +173,17 @@ As progress is made through add support for different content types, the plugin 
 | Ignore assets for build                                   | X              |                            |                         |                                                                                                                                                         |
 | Rewrite AWS URLs                                          |                | X                          | X                       |                                                                                                                                                         |
 
+#### Refactoring of `metalsmith-drupal` plugin
 
+Most of the changes to build pipeline will occur in refactoring the [`metalsmith-drupal` plugin](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/stages/build/drupal/metalsmith-drupal.js).  The pluing will be made so it can be reused by all part of the build including the Prevew server, full build and SBP.  The `metasmith-drupl` plugin contains all of the logic to fetch the data from Drupal including some data transformation.  This layer is also where several implict depedencies and derived pages are created.  Sharing this layer will ensure that SPB will automaticlly add the derived pages without any extra work.
+
+[A visualiztion of the current build process in this link at the `GetDrupalContent` stage.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/platform/cms/accelerated_publishing/content-build/content-build.svg).
+
+An example of a derived page is the facilty locations.  The code which adds the `page` object for the faility location page to the `pages.json` is locating in the [`createHealthCareRegionListPages` function](https://github.com/department-of-veterans-affairs/content-build/blob/87b4e90db152fa666630115f59bd578bbf5f348c/src/site/stages/build/drupal/health-care-region.js#L82).  This logic is called in a post processing step of the GraphQL results within `metasmith-drupal` plugin.
+
+Part of the refactor, we plan on moving some of the implict depedencies to Drupal.  An example of an implict depedency is with the [Facilty Side Bars](https://github.com/department-of-veterans-affairs/vets-website/blob/9443399bbad557977c39bd0d55e59261d826b12d/src/site/stages/build/drupal/page.js#L325) where the field `fieldAdministration.entity.name` is used to determin which menu object in Drupal is used as the side bar.  This logic will be moved to Drupal as per [this documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/dependency_graph/megamenu_and__sidebar.md).
+
+Instead of the `metasmith-drupal` plugin moving some data around, this will be done in Drupal GraphQL API.  The moving of the depedency tracking to Drupal will occur per content type as support is added to SBP.  Details of what will change depend on the impelemention of the content type support to SBP and will follow an `audit -> update -> test` cycle.
 
 #### Publish Batch Event and API
 
@@ -185,8 +196,8 @@ The Publish Batch entities can also be used as an audit trail.
 Publish Batch Format :
 
 *   Batch UUID 
-*   Trigger {nid, vid, path} 
-*   deps [{nid, vid, path}]
+*   Trigger `{nid, vid, path}`
+*   deps `[{nid, vid, path}]`
 *   advanced queue integration?
 *   state 
     *   Queued 
@@ -304,7 +315,7 @@ Example Debug Information in HTML of published page on va.gov.
 ### **Caveats**
 
 *   Initial Implementation will be with a limited number of content types.   
-*   The full content build will be required until menus updates are supported
+*   As content type support will migrate from the full content build to SBP. 
 
 ### **Security Concerns**
 
