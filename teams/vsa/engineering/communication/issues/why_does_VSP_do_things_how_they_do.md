@@ -6,4 +6,4 @@ Almost every solution that VSP comes up with to problems are `home rolled`, VSA 
 
 As a side note VSA engineers would also like to be included in the decision making process for solutions that will affect VSA engineers.
 
-This document will provide a repository for anything surfaced throughout the improvement project on this question.
+
