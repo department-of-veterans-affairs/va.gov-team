@@ -171,7 +171,6 @@ Now that you’ve removed your email, what do you expect to happen with your not
 
 - Tell me how that overall experience aligns with your expectations for managing notifications.
 - What notifications would you expect to see here that you didn't?
-- Va is not the easiest to maneuver - tell me more
 - Any questions for me? 
 
 ## Thank-You and closing - 1 minute
