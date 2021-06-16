@@ -2,28 +2,54 @@
 ! In-progress
 ```
 
-# Accessibility guidance for research
+# Inclusive Research Guidelines
 
-Currently undergoing changes. We will update this upon further review. Future documentation will include the following:
+Inclusive research, in simple terms, is research that aims to include marginalized groups (minorities, people with disabilities, etc) through methods that allow them to play an active and influential role in decisions which affect their own lives.
 
-1. Introduction to inclusive research at the VA
-    1. Setting inclusive goals
-    2. Marginalized veteran groups
-    3. Roadmap for new guidelines
-1. Guidelines for inclusive research v2.0
-    1. Creating accessible materials
-    1. Recruitment strategies
-    1. Inclusive research methods
-    1. Trauma informed research
-1. Testing with assistive technology
-    1. Introduction to assistive technology
-    1. Recruiting assistive technology users
-    1. Screen readers
-    1. Captions and transcriptions
-    1. Hearing aids
-    1. Voice recognition
-    1. Braille readers
-1. Communicating and documenting risk (should all else fail)
-    1. Why document risk?
-    1. Tracking and reporting gaps in recruitment
-    1. Absence of assistive technology in usability testing
+By stewarding inclusive research at the VA, we can:
+- Design human centered products that all Veterans can easily use.
+- Improve the validity of research findings by ensuring our participant samples are representative of the Veteran population.
+- Uncover and remedy the exclusion of marginalized Veteran groups who may have the greatest need for benefits.
+- Create more awareness and conversation around marginalized Veteran populations across all VA.gov teams.
+
+## Table of Contents
+
+### Introduction
+- Setting inclusive goals
+- Marginalized Veteran groups
+- Roadmap for new guidelines
+
+### Documents Tools and Methods
+- Document and tools, current state and recommendations
+- Inclusive methods
+
+### Recruitment
+- 5 participants aren’t enough
+- Maximum Variation (Heterogeneity) Sampling (MVS)
+- Lean Maximum Variation Sampling Strategy
+- Deviant Case Sampling
+- Critical Case Sampling
+- Key Informant Sampling
+
+### Trauma Informed Research
+- Checklist to prepare for trauma informed research
+- Do's and Don'ts during facilitation
+
+### Assistive Technology and Veterans with Disabilities Studies
+- Introduction to assistive technology
+- Recruiting assistive technology users  
+- Research checklist and disability etiquette
+- Screen readers 
+- Captions and transcriptions 
+- Hearing aids
+- Voice recognition
+- Braille readers
+
+### Communicating and Documenting Risk
+- Why document risk?
+- Tracking and reporting gaps in recruitment
+- Absence of assistive technology in usability testing
+
+### Appendix
+- References
+- Contributors
