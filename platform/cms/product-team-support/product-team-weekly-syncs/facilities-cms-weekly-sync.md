@@ -40,7 +40,7 @@ Vet Center
 
 Vet Center
 * No response from Jessica yet on Vet Center District 5 users
-  * Arrived this morning, forwarded to Jane. 
+  * Arrived this morning, forwarded to Jane. (Jane bulk imported on June 16.)
 * Connecting 17 Outstations to their Section and Vet Center [#5564](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5564). Who can fix this, and with what data?
   * **Action:** Michelle will take list at https://prod.cms.va.gov/admin/content?title=&type=vet_center_outstation&moderation_state=All&owner=All and update content and validate 
   * Change "Main Vet Center" and "Section" field to the appropriate Vet Center
