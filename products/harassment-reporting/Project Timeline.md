@@ -20,6 +20,7 @@
 | Sprint 50 (6/16-22)| Collab Cycle Checkpoint - Schedule Design Intent Review | PW PM.PO / Design| 
 | Sprint 50 (6/16-22)|🏁  Collab Cycle Checkpoint - Schedule Research Plan Review | VSP / PW Team| 
 | Sprint 51 (6/23- 7/5)| Finalize design and Review process, prepare research for VSP Collab Review |  Research / Design| 
+| Sprint 51 (6/23- 7/5)| Conduct Research Plan (UAT) |  Research / Design| 
 | Sprint 51 (6/23- 7/5)|🏁  Collab Cycle Checkpoint -IA Request | PW PM | 
 | Sprint 51 (6/23- 7/5)|🏁  Collab Cycle Checkpoint - Hold Design Intent Review | PW PM.PO / Design| 
 | Sprint 51 (6/23- 7/5)|🏁  Collab Cycle Checkpoint - Research Plan Review | VSP / PW Team| 
