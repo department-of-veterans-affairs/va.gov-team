@@ -14,7 +14,7 @@ Select a VA facility where you're registered that can schedule primary care appo
 
 Sort facilities
 
-{By your home address, By your current location, or Alphabetically}
+{By your home address, By your current location, Alphabetically}
 
 {Facility name}<br>
 {City, ST}<br>
