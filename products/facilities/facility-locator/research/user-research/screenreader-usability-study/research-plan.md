@@ -17,7 +17,7 @@ The Facilities team wants the Facility Locator to be easy to use with assistive 
 - Can Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, successfully complete facility search tasks?
   - Can they easily perform a search?
   - Can they easily consume results?
-  - Does Facility Locator need to be change or evolve to offer an equitable experience? If so, how?
+  - Does Facility Locator need to change or evolve to offer an equitable experience? If so, how?
   
 
 ## Method 
