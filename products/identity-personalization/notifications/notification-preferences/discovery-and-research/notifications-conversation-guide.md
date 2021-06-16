@@ -10,7 +10,7 @@
 
   - Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
-  - Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696478/simulate/no-panels?mode=i
+  - Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696473/simulate/no-panels?mode=i
 
 - [ ] Update the Zoom sharing settings so participants can share
 
@@ -70,7 +70,7 @@ Now we'll move into the prototype. I'm going to send you a link through the chat
 
 - Link for participants 1-4: https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/no-panels?mode=i
 
-- Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696478/simulate/no-panels?mode=i
+- Link for participants 5-8: https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696473/simulate/no-panels?mode=i
 
 If any pop-ups from Zoom are blocking your view of the prototype, go ahead and close them.
 
