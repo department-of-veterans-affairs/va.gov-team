@@ -1,7 +1,7 @@
 # Inclusive Recruitment Strategies
 
 ## Table of Contents
-- [5 participants aren't enough](#5-participants-aren't-enough)
+- [5 participants aren't enough](#5-Participants-Aren't-Enough)
 - [Maximum variation sampling](#Maximum-Variation-Sampling-(MVS))
 - [Lean MVS strategy](#Lean-MVS-Strategy)
 - [Deviant case (outlier) sampling](#Deviant-Case-(Outlier)-Sampling)
