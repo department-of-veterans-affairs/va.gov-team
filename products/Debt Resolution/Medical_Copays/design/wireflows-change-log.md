@@ -7,7 +7,32 @@
 
 ## Notes
 
-(TBD)
+* Transactions:
+
+* Transaction dates were previously removed because veterans weren't sure if they were the date of the service or charge
+* Transaction dates for payments will be appreciated by Veterans though
+* We may not be able to be as specific with the payment received section --- likely does not matter to the veteran where the payment originated and CSRs can look it up if needed by using the receipt prefixes.
+
+* Suggested data for payments: payment amount, date, and billing reference number
+
+* Cash payments should also be accounted in VISTA
+
+* **Add in account number, which is a 16-digit number that is assigned to each veteran by each facility**
+* Cerner Millennium sites vs. VISTA sites
+
+* Currently only Spokane is running Millennium, but they are expanding
+* Veterans who visit the Millennium sites receive two bills
+* OEHRM - heading communication for those Veterans, they have been or will be sending out communication to let Veterans know about the transition and statement situation when moving from VISTA to Millennium 
+* CCPC will have information regardless of which system they're on
+* It's possible that a Veteran won't get a statement if they pay at the facility after their services
+* CDW (Corporate Data Warehouse) should have charge and payment data from both VISTA and Millennium sites and will be the most real-time
+
+* **Add in the 'Date/Time last Updated' content on the facility detail pages**
+
+* **Change 'Learn more about how to pay' to something more like 'Pay your bill'**
+* **Add in Rights and Responsibilities disclaimer**
+
+* This is a matter of fulfilling the legal regs: the Congressional Mandated Reporting (CMR) responds to the requirements for PL 115.407
 
 ## Wireflow V1.1
 
