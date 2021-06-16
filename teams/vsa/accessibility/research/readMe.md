@@ -12,18 +12,16 @@ By stewarding inclusive research at the VA, we can:
 - Uncover and remedy the exclusion of marginalized Veteran groups who may have the greatest need for benefits.
 - Create more awareness and conversation around marginalized Veteran populations across all VA.gov teams.
 
-## Table of Contents
-
-### Introduction
+## Introduction
 - Setting inclusive goals
 - Marginalized Veteran groups
 - Roadmap for new guidelines
 
-### Documents Tools and Methods
+## Documents Tools and Methods
 - Document and tools, current state and recommendations
 - Inclusive methods
 
-### Recruitment
+## Recruitment
 - 5 participants aren’t enough
 - Maximum Variation (Heterogeneity) Sampling (MVS)
 - Lean Maximum Variation Sampling Strategy
@@ -31,25 +29,29 @@ By stewarding inclusive research at the VA, we can:
 - Critical Case Sampling
 - Key Informant Sampling
 
-### Trauma Informed Research
+## Trauma Informed Research
 - Checklist to prepare for trauma informed research
 - Do's and Don'ts during facilitation
 
-### Assistive Technology and Veterans with Disabilities Studies
-- Introduction to assistive technology
+## Assistive Technology and Veterans with Disabilities Studies
+
+### Introduction to assistive technology in research
 - Recruiting assistive technology users  
 - Research checklist and disability etiquette
-- Screen readers 
+
+### Device specific guidance
+- Screen readers (mobile and desktop)
+- Magnification and zoom
 - Captions and transcriptions 
 - Hearing aids
 - Voice recognition
 - Braille readers
 
-### Communicating and Documenting Risk
+## Communicating and Documenting Risk
 - Why document risk?
 - Tracking and reporting gaps in recruitment
 - Absence of assistive technology in usability testing
 
-### Appendix
+## Appendix
 - References
 - Contributors
