@@ -35,6 +35,18 @@
 
 </details>
 
+##
+
+## June 23 
+
+John's out
+
+Tables
+* Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
+
+
+
+
 ## June 16, 2021
 
 Events calendars / Outreach Hub
@@ -44,16 +56,40 @@ Events calendars / Outreach Hub
   * VC events?
   * As an option, the existing content model can be cloned for other offices
   * Training needs
+* Discussion
+  * Dave: What is the vision/purpose of the Outreach Calendar so that it has a unified vision and scale appropriately. Is this the one calendar to rule them all? 
+  * John: Create a product outline, and look at features like filtering. 
+  * Dave: is there a problem with giving access to all these users? And what are the business processes around that? 
+  * Next steps: John and CMS team to write out permissions/risk implications of adding more users to Outreach Hub. 
+  * No action for onboarding or training for now. 
 
 Images
-* CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
 * Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200)
+  * Kelson will be doing a proof of concept for the CLP header, that could be extended across other products 
 * Support for JPEG2000 imgaes on FE and CMS - slack thread for context [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
-* Stakeholder reviews/workshops for [the CLP Governance Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
+  * Kelson: This would make lazy loading irrelevant. Would require backend and FE changes. There are ways of doing this all backend. 
+  * Steve: For each format, it doubles the number of files that need to be moved.If we add an image style, CMS has to generate that derivative, and pre-warm them. The build process has to grab all of them and move them. Who needs to be part of this conversation? 
+* CLP banner
+  * CMS: make a new deriviative for wider screens, `viewport_width` for ~2500px, tbd. 
+  * John: anything that can be done in the next week for vaccine hesitancy image?
+  * Kelson: we can reduce the overall dimensions. 
+* CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
+  * Original files should not be discouraged
+  * Using original files on www.va.gov should be discouraged
 
-Tables
+Accessibility
 * Ownership of removing dfn wrapper applied by template on table cells
-* Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
+  * Easy fix to make, removing `dfn` tag
+  * But removing it will bring back the accessibility issue for the table
+  * CMS would need to support definitions in the content model or in the input format
+* VA is read as a screenreader as `vah` (or Virginia)? 
+  * CMS to create issue to potentially solve this in input filters or graphql processing
+
+CLP
+* Stakeholder reviews/workshops for [the CLP Governance Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
+  * Jane and Kev to review and we'll discussion June 30.  
+
+
 
 ## June 8 
 
