@@ -40,7 +40,7 @@
 Events calendars / Outreach Hub
 * Vision for Outreach Hub - short term (Q3), long term calendar year 2021
   * We're seeing new use cases that weren't covered with the current iteration (VA wide event calendar)
-  * VEO scaling up usage
+  * [VEO scaling up usage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
   * VC events?
   * As an option, the existing content model can be cloned for other offices
   * Training needs
@@ -49,6 +49,7 @@ Images
 * CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
 * Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200)
 * Support for JPEG2000 imgaes on FE and CMS - slack thread for context [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
+* Stakeholder reviews/workshops for [the CLP Governance Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
 
 Tables
 * Ownership of removing dfn wrapper applied by template on table cells
