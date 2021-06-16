@@ -1,6 +1,14 @@
 **Wireflows change log**
 ----
 
+## Wireflow V1.2
+
+![V1.2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202021-06-16%20at%204.41.41%20PM.png)
+
+## Notes
+
+(TBD)
+
 ## Wireflow V1.1
 
 June 11, 2021 
