@@ -1,4 +1,4 @@
-# My VA 2.0 redesign: Go / No Go | m.dd.yy
+# My VA 2.0 redesign: Go / No Go | 6.28.21
 
 ## Decision: ________
 
