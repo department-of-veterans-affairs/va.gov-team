@@ -6,7 +6,6 @@
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 
-
 </details>
 
 <details><summary>Parking lot</summary>
@@ -24,6 +23,13 @@
 
 </details>
 
+## June 30
+
+Review help desk insights and VAMC / Vet Center known issues list. 
+
+Vet Center 
+* Guidance and character counts for Featured content 
+
 ## June 23 
 
 * District 5 pipeline for launches ... should we establish a regular cadence for review/launch/user account upgrades
@@ -33,16 +39,30 @@
 
 
 Vet Center
+* No response from Jessica yet on Vet Center District 5 users
+  * Arrived this morning, forwarded to Jane. 
 * Connecting 17 Outstations to their Section and Vet Center [#5564](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5564). Who can fix this, and with what data?
+  * **Action:** Michelle will take list at https://prod.cms.va.gov/admin/content?title=&type=vet_center_outstation&moderation_state=All&owner=All and update content and validate 
+  * Change "Main Vet Center" and "Section" field to the appropriate Vet Center
+  * **Action:** Michelle will create a draft documentation for this process 
 * [#4582 Grouping Vet Centers Sections into Districts](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4582)
+  * Dave emailed updated spreadsheet, Michelle will forward, Kevin will add to 4582 and we'll see about getting this into Sprint 35. 
 * Consider text limit for Spotlight content?
+  * **Action:** Facilities team will write some content intent for Featured content, and a recommended text length. 
+  * **Action:** CMS issue for Sprint 36 or 37 to update interface
 * Removing intro text on Locations page [#25026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25026) -> following our change, CMS can remove the field and make updates to training as needed
+  * **Action:** CMS issue needed to remove field in Sprint 36 or 37. 
 
 Other
-* CMS Helpdesk relationship to Facilities backlog (Vet Center and VAMC)
 * Mikki's one off URLs
-* No response from Jessica yet on Vet Center District 5 users
-
+  * **Action:** Dave/Michelle will take this to VAMC upgrade team. 
+* CMS Helpdesk relationship to Facilities' product backlogs (Vet Center and VAMC)
+  * Dave: Start with known issues -- from customers' questions to Josh to the appropriate team. 
+  * **Action:** Josh/Jane/Clarence/Kev to stub a one page document of known issues (not "critical defects"), smoke but not heavy fire. 
+  * Consider adding to appropriate documentation, with any known workarounds, and any request fulfillment if relevant.
+  * Example: 10 locations limit on VAMC Locations page. 
+* Butler, Wilmington, Altoona, Wilkes-Barre going live June 30
+  * **Action:** CMS PR to stop Teamsite operating status migrations
 
 ## June 9
 
