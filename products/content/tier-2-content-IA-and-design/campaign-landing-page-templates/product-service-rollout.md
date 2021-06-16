@@ -13,7 +13,7 @@
     - [X] Tim Hudak (VEO) - Weds 3/10 3:30-5:00 ET
     - [X] Tanekwa Bournes (VBA) - Tuesday, 3/16 10:00-11:30AM ET
     - [X] Bronwyn Emmet (OPIA) - Tuesday, 3/16 1:00-2:30PM ET
-    - [X] VHA - Jessica Austin-Ashley
+    - [X] Jessica Austin-Ashley (VHA) - 3/31 4:00-5:00PM ET
  - [X] [Observations from the moderated user sessions will be synthesized](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.mdf) and determination will be made as to whether product refinement for the CMS AX and/or front-end experience is needed prior to MVP production release in April.
 
 ## MVP Production Release Phase (April-June 2021)
@@ -95,13 +95,11 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 ### Relevant Documents
 
 CLP Governance and Product Guide (Draft - 06-15-2021)
-[VA.gov Campaign Landing Page_Governance_Guide.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6658669/VA.gov.Campaign.Landing.Page_Governance_Guide.pptx)
-
+[VA.gov Campaign Landing Page_Governance_Guide.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6663211/VA.gov.Campaign.Landing.Page_Governance_Guide.pptx)
 
 CMS Training Guide
 https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90
 
-CMS Journey Map for Vet Centers
-https://app.mural.co/t/vagov6717/m/vagov6717/1613420145908/8a8a1b99748bea534e06aca0ba041160341f1139
+
 
 
