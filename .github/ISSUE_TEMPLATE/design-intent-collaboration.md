@@ -17,7 +17,6 @@ assignees: shiragoodman, allison0034
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 - [ ] VFS: Close this ticket when all steps above are completed.
 
-## Questions
 ### Has your product been reviewed by the OCTO-DE Design Lead?
 - [ ] Yes
 - [ ] No
