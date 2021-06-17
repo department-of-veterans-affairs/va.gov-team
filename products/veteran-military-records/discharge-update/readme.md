@@ -85,9 +85,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - MVP: Unknown; started April 2017; was temporarily cancelled May 2017
 - *Actual Launch Date* 
-  - tbd
+  - MVP: Jan 22, 2018
 - *What date will you evaluate impact after launch?*
   - 
 ---
