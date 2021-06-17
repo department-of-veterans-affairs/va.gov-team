@@ -216,7 +216,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 8.	https://staging.va.gov/find-forms/about-form-10-5345 (D-A)
 9.	https://staging.va.gov/find-forms/about-form-20-0995 (D-A)
 10.	https://staging.va.gov/find-forms/about-form-21-686c (D-A): __Online tool not live yet__
-11.	https://staging.va.gov/find-forms/about-form-10-0137 (D-B): __This form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
+11.	https://staging.va.gov/find-forms/about-form-10-0137 (D-B): __Spanish form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
 12.	https://staging.va.gov/find-forms/about-form-21-0781 (D-B)
 13.	https://staging.va.gov/find-forms/about-form-21-0966 (D-A)
 14.	https://staging.va.gov/find-forms/about-form-21-0845 (D-A)
@@ -235,7 +235,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 27.	https://staging.va.gov/find-forms/about-form-va40-10007 (D-A)
 28.	https://staging.va.gov/find-forms/about-form-21p-530 (D-A)
 29.	https://staging.va.gov/find-forms/about-form-21p-527ez (D-B)
-30.	https://staging.va.gov/find-forms/about-form-10-10cg (D-B): __Online tool still hasn’t launched__
+30.	https://staging.va.gov/find-forms/about-form-10-10cg (D-B)
 31.	https://staging.va.gov/find-forms/about-form-21-22a (D-A)
 32.	https://staging.va.gov/find-forms/about-form-21-674 (D-A)
 33.	https://staging.va.gov/find-forms/about-form-21p-509 (D-A)
