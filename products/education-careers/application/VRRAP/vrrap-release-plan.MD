@@ -47,14 +47,15 @@
 - Post-launch KPI 1 actual - 17,250 Veterans are retrained in high-demand careers: TBD		
 - Post-launch KPI 2 actual - $386 million is spent on VRRAP training programs: TBD
 - Post-launch KPI 3 actual - Less than (50% of applicants) are ineligible because they don't meet basic criteria
-- Any issues with VA handling/processing?: Requesting this data from the Muskogee RPO
+   - As of May 28, 2021, VA had received 4,075 applications for benefits. Of those applications, 2,493 Veterans received Certificates of Eligibility for VRRAP benefits and 1,184 applicants were determined ineligible for the program. That is a 29% rejection rate that aligns with this KPI. 
+- Any issues with VA handling/processing?: Muskogee came up with a practice to filter out duplicative submissions. From Don Ortega on 06/15: There was an issue that was worked through, in the last week, to remove duplicate submissions. The team is working to validate and ensure that the reporting is accurate.
 - Types of errors logged: none
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? Two of our KPI's are longer-term, but our rejection rate is well below 50% and that indicates that the eligibility criteria are well defined for applicants. 
 1. What qualitative feedback have you gathered from users or other stakeholders, if any? None
 1. Which of the assumptions you listed in your product outline were/were not validated? All assumptions were validated
 1. How might your product evolve now or in the future based on these results?
