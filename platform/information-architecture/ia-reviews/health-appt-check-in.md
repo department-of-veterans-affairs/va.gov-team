@@ -48,7 +48,7 @@ Priority | Placement | Destination | Description
 
 Priority | Requirement 
 --- | --- 
-MUST | All pages within the check-in task flow should be hiddent from the xml sitemap
+MUST | All pages within the check-in task flow must be excluded from the xml sitemap; No pages within the check-in task flow should be indexed. 
 
 
 ## <a name="redirects"></a>Redirects <br>
