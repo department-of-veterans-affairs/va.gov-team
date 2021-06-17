@@ -6,6 +6,58 @@
 
 ### VA
 
+#### Request-Submitted (Confirmation state)
+
+(H1) Pending {type of care} appointment
+
+Your appointment request has been submitted. The time and date of this appointment are still to be determined.
+
+(link) View your appointments
+
+(link) New appointment
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+Preferred type of appointment
+
+{Office visit, Phone call, Telehealth (through VA Video Connect)}
+
+Preferred date and time
+
+{Preferred date & time #1}
+
+{Preferred date & time #2}
+
+{Preferred date & time #3}
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+Your contact details
+
+Email: {Email address}
+
+Phone number: {phone number}
+
+Call {morning, afternoon, evening}
+
+(Link) Cancel request
+
+---
+
 #### Request-Pending
 
 (H1) Pending {type of care} appointment
@@ -28,7 +80,7 @@ TTY: 711
 
 Preferred type of appointment
 
-{Office visit, Phone call, or Telehealth (through VA Video Connect)}
+{Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 
@@ -48,7 +100,7 @@ Email: {Email address}
 
 Phone number: {phone number}
 
-Call {morning, afternoon, and/or evening}
+Call {morning, afternoon, evening}
 
 (Link) Cancel request
 
@@ -56,9 +108,87 @@ Call {morning, afternoon, and/or evening}
 
 #### Request-Canceled
 
+(H1) {Type of care} appointment request
+
+{Canceler} canceled this request.
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+Preferred type of appointment
+
+{Office visit, Phone call, Telehealth (through VA Video Connect)}
+
+Preferred date and time
+
+{Preferred date & time #1}
+
+{Preferred date & time #2}
+
+{Preferred date & time #3}
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+Your contact details
+
+Email: {Email address}
+
+Phone number: {phone number}
+
+Call {morning, afternoon, evening}
+
 ---
 
-#### Confirmed-Future
+#### Confirmed-Scheduled (Confirmation state direct schedule)
+
+(H1) {appointment date} at {appointment time}
+
+Your appointment has been scheduled and is confirmed.
+
+(link) View your appointments
+
+(link) New appointment
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+(link) Add to calendar
+
+(link) Print
+
+(link) Cancel appointment
+
+---
+
+#### Confirmed-Upcoming
 
 (H1) {appointment date} at {appointment time}
 
@@ -111,6 +241,34 @@ TTY: 711
 (link) Print
 
 (link) Cancel appointment
+
+---
+
+#### Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+VA appointment
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+(link) Print
 
 ---
 
@@ -170,6 +328,44 @@ TTY: 711
 
 ### Community Care
 
+#### Request-Submitted (Confirmation state)
+
+(H1) Pending {type of care} appointment
+
+Your appointment has been submitted. The time and date of this appointment are still to be determined.
+
+(link) View your appointments
+
+(link) New appointment
+
+Preferred community care provider
+
+{Provider name}
+
+Preferred date and time
+
+{Preferred date & time #1}
+
+{Preferred date & time #2}
+
+{Preferred date & time #3}
+
+You shared these details about your concern
+
+{Booking note}
+
+Your contact details
+
+Email: {Email address}
+
+Phone number: {phone number}
+
+Call {morning, afternoon, evening}
+
+(Link) Cancel request
+
+---
+
 #### Request-Pending
 
 (H1) Pending {type of care} appointment
@@ -198,9 +394,41 @@ Email: {Email address}
 
 Phone number: {phone number}
 
-Call {Best times to call "morning", "afternoon", or "evening"}
+Call {morning, afternoon, evening}
 
 (Link) Cancel request
+
+---
+
+#### Request-Canceled
+
+(H1) {Type of care} appointment request
+
+{Canceler} canceled this request.
+
+Preferred community care provider
+
+{Provider name}
+
+Preferred date and time
+
+{Preferred date & time #1}
+
+{Preferred date & time #2}
+
+{Preferred date & time #3}
+
+You shared these details about your concern
+
+{Booking note}
+
+Your contact details
+
+Email: {Email address}
+
+Phone number: {phone number}
+
+Call {morning, afternoon, evening}
 
 ---
 
@@ -228,15 +456,15 @@ You shared these details about your concern
 
 (link) Print
 
-Need to make changes?
+(H2) Need to make changes?
 
-Contact this facility if you need to reschedule or cancel your appointment.
+Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
 #### Confirmed-Past
 
-(H1) {appointment date and time}
+(H1) {appointment date} at {appointment time}
 
 This appointment occurred in the past.
 
