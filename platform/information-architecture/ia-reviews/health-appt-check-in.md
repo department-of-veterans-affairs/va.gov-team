@@ -29,7 +29,8 @@
 
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
-Check-in task flow   |  www.va.gov/health-care/appointment-check-in/   |  None |  Breadcrumb should be suppressed/hidden to 1) reduce options to exit flow since they cannot navigate back  2) although tool lives within va.gov, it is not findable via search/navigation, so location within site is irrelevant. <br> Individual chapters/pages of the flow will each have their own final url slug that can be determined by the team.  They should be 1-2 words max, use understandable key words, and relate to the specific purpose of that page.  
+Check-in task flow - primary url   |  www.va.gov/health-care/appointment-check-in/   |  None |  - Breadcrumb should be suppressed/hidden to reduce options to exit flow since they cannot navigate back, and although tool lives within va.gov, it is not findable via search/navigation, so location within site is irrelevant. <br> 
+Check-in task flow - chapter slugs | .../insurance  <br> .../details <br> .../complete <br> .../see-staff | None | Individual chapters/pages of the flow will each have their own final url slug. Items shown are suggestions, final slugs can be determined by the team.  They should be 1-2 words max, use understandable key words, and relate to the specific purpose of that page.  
 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
