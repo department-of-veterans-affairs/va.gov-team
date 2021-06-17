@@ -40,8 +40,10 @@ Some service members who received a less-than-honorable discharge in the past we
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI      |   Landing page views          |                    |                    |        |
+| KPI      |   Wizard completions          |                    |                    |        |
+| KPI      |             |   Clicks to download PDF forms                 |                    |        |
+| KPI      |             |   Clicks to visit military portals                 |                    |        |
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
