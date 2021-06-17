@@ -7,14 +7,14 @@
 - Beth Potts, Content Lead
 - Cassandra Allen, Designer
 
-###Links to related issues
-Content request: (https://github.com/department-of-veterans-affairs/va.gov-team/issues/25655)
-Design: https://github.com/department-of-veterans-affairs/va.gov-team/issues/23591
+### Links to related issues
+- [Content request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25655)
+- [Design request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23591)
 
 
 ### Notes
-- Since this is such a significant change, Cassandra may need some FPO content so she knows how to lay out the page.
-- It is just the page that provides instructions to people who were in the Air Force and being directed to DD149.
+- Since this is such a significant change, Cassandra may need some FPO content so she can better determine how to lay out the page.
+- It is just the page that provides instructions to people who were in the Air Force and are currently being directed to download and fill out DD149.
 - We now will link to the Air Force portal which has its own questionnaire and asks some of the same questions as the wizard.
 - Beth will try to get Cassandra the final words today or tomorrow.
 
