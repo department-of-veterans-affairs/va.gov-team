@@ -4,7 +4,8 @@
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/representative
 - Staging VA.gov link: https://staging.va.gov/view-change-representative/view/
-- va.gov link: tbd
+- Staging VA.gov link: https://staging.va.gov/view-change-representative/search/
+- VA.gov link: tbd
 
 ## WIP
 
