@@ -16,9 +16,9 @@
 - Tze-ChiuLei
 
 ## Notes
-- LOTS of accessibility feedback from Josh and Angela
-   - From Angela - one other thing she would add for users with cognitive impairments - it would be helpful to include a definition of the form (what is it supposed to do?)
- - Allison clarified what changes they were actually reviewing. It appears
+- Several accessibility feedback items from Josh and Angela
+   - From Angela - one other thing she would add for users with cognitive impairments - it would be helpful to include a definition of the form (what is it supposed to do?) - I noted that we are moving that direction by starting to collect descriptions for the top 100 most used forms.
+ - Allison clarified what changes they were actually reviewing. Josh may have been reviewing an older version.
  - Trevor - feedback button interfering with mobile forms  - they are working on a permanent solution - this is already being hidden on Production
  - Peter - not much feedback
  - Sync up the prototype to the link
