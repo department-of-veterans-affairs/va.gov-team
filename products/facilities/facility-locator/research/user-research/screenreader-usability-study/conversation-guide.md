@@ -6,7 +6,7 @@
 - [ ] Notifications off
 - [ ] Use headphones (prevents SR from echoing back to participant)
 - [ ] Enable screen sharing by anyone in Zoom
-- [ ] Enable Live Transcript
+- [ ] Enable Live Transcript feature in Zoom
 - [ ] Manage waiting room feature in Zoom
 
 * [Tech set-up](#tech-set-up)
