@@ -7,7 +7,7 @@
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
 
 ## Problem Statement
-Some service members who were discharged in the past for reasons related to sexual orientation, 
+Some service members who were discharged in the past for reasons related to sexual orientation, traumatic brain injury (TBI), military sexual trauma (MST), or PTSD may qualify to have their discharge status upgraded.
  
 ## Desired User Outcomes
 
