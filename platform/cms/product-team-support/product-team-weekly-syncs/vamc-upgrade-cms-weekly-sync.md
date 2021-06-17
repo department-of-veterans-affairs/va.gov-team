@@ -24,7 +24,9 @@
 
 ## June 18
 * VAMC editor that created a bad table, plan to handle when someone goes off the rails. slack thread [**here**](https://dsva.slack.com/archives/CPQFCQKEH/p1623686219343000)
-* 
+* Bulk publishing bub "Page not found"
+* Scrapping Operating Status/ Turning it off, time needed, etc.
+* Operating Status - improvement? options? and current status
 
 ## June 11
 
