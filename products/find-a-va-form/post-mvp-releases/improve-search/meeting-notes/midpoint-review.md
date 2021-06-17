@@ -3,9 +3,11 @@
 ## Attendees
 - John Hashimoto
 - Marci McGuire
-- Cassandra
-- Zach
-- Allison Christ
+- Cassandra Allen
+- Zach Morel
+- Allison Christman
+- Josh Kim
+- Angela Fowler
 - Randi Hecht
 - Peter Hill
 - Trevor Pierce
