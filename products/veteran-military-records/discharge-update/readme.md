@@ -21,8 +21,8 @@ Some service members who received a less-than-honorable discharge in the past we
 - Users are not provided with sufficient information after answering questions in the wizard
 
 ## Desired Business Outcomes
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Give Veterans the self-service tools and information needed to request a discharge upgrade
+- Comply with the 2017 Fairness for Veterans Act
 
 ## Undesired Business Outcomes
 - Users send the wrong documents
