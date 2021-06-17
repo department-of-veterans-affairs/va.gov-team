@@ -138,9 +138,13 @@ Next up: [Warm-up questions](#warm-up-questions)
  - A menu should appear. Select the "Screen” option and double tap it. 
    - If you haven’t given Zoom permission to record yet on your device, you’ll be prompted to give access to allow it”
  - Next you'll want to swipe to the "Start Broadcast" button and double tap that. You'll hear a counter "3, 2, 1" and the screen share should begin.
- - Please swipe right until you hear the option to share your audio.
+ - Share device audio instructions:
+ - [If you can hear the screen reader, share device audio is already on]
+ - [If you can’t hear the screen reader]
+ - [If the visual screen reader focus goes to “Everything on your screen…” message] Please swipe right to “Screen Broadcast” and double tap on it (this will close the modal). Then, swipe backwards until you’re able to reach “Share Device Audio” and double tap on it.
+
  - [If the screen is black]: We see a black screen right now. If you have screen curtain or other screen hiding tech running, please toggle it off if possible.
- - [If you don’t hear the screen reader]: We can’t hear your screen reader. Are you using headphones, hearing aids, or other technology? If so, would you be able to comfortably use your phone/desktop without that device so we can hear your screen reader? If not, that’s perfectly OK.
+
  - Return to your home screen and the screen share should begin.
 
 [If successful:]
