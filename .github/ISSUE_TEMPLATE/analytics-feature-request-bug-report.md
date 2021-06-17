@@ -53,6 +53,7 @@ For a new feature request:
 For a new bug:
 
 - Steps to reproduce the issue
+- Test user (if applicable)
 - Expected result
 - Observed result
 
