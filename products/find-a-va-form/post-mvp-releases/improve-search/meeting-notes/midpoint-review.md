@@ -2,7 +2,7 @@
 
 ## Attendees
 - John Hashimoto
-- Marci
+- Marci McGuire
 - Cassandra
 - Zach
 - Allison Christ
