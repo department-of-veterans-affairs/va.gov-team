@@ -3,8 +3,8 @@
 A tool to help Veterans find information about how to upgrade their discharge status. 
 
 ## Stakeholders and Product Team
+- GitHub Label: dt-discharge-upgrade-wizard
 
-- GitHub Label: discharge tool
 - Slack channel: #dischargeupdate(https://dsva.slack.com/channels/dischargeupdate)
 - Keywords: Discharge, Discharge Update, Discharge Upgrade, Discharge Wizard
 - Product POCs: 
@@ -38,8 +38,8 @@ Page delivers customized content based on reason Veteran wants to upgrade discha
 - there is no error handling in place for this product.
 
 ## Historic Info
-- All GitHub tickets related to Discharge Upgrade Tool: https://github.com/department-of-veterans-affairs/vets.gov-team/labels/discharge%20tool
-
+- Old GitHub tickets related to Discharge Upgrade Tool: https://github.com/department-of-veterans-affairs/vets.gov-team/labels/discharge%20tool
+- Old GitHub Label: discharge tool
 
 ### Timeline
 - Project was requested in April 2017 and temporarily cancelled in May 2017
