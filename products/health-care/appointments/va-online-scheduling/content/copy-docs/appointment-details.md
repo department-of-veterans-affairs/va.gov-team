@@ -218,32 +218,6 @@ You shared these details about your concern
 
 ---
 
-#### Confirmed-Future Vaccine
-
-(H1) {appointment date} at {appointment time}
-
-COVID-19 vaccine
-
-{Facility name}
-
-{Facility address}
-
-(link) Directions
-
-Clinic: {Clinic name}
-
-Main phone: {phone number}
-
-TTY: 711
-
-(link) Add to calendar
-
-(link) Print
-
-(link) Cancel appointment
-
----
-
 #### Confirmed-Past
 
 (H1) {appointment date} at {appointment time}
@@ -272,7 +246,7 @@ You shared these details about your concern
 
 ---
 
-#### Canceled-Future
+#### Confirmed-Canceled
 
 (H1) {appointment date} at {appointment time}
 
@@ -298,7 +272,97 @@ You shared these details about your concern
 
 ---
 
-#### Canceled-Future Vaccine
+#### Vaccine Confirmed-Scheduled (Confirmation state direct schedule)
+
+(H1) {appointment date} at {appointment time}
+
+Your appointment has been scheduled and is confirmed.
+
+(link) View your appointments
+
+(link) New appointment
+
+COVID-19 vaccine
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this provider if you need to reschedule or cancel your appointment.
+
+---
+
+#### Vaccine Confirmed-Future
+
+(H1) {appointment date} at {appointment time}
+
+COVID-19 vaccine
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this provider if you need to reschedule or cancel your appointment.
+
+---
+
+#### Vaccine Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+COVID-19 vaccine
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Print
+
+---
+
+#### Vaccine Confirmed-Canceled
 
 (H1) {appointment date} at {appointment time}
 
@@ -507,7 +571,7 @@ Main phone: {phone number}
 
 ---
 
-#### VVC VA Confirmed-Past
+#### VVC GFE Confirmed-Past
 
 (H1) {appointment date} at {appointment time}
 
@@ -523,7 +587,7 @@ Provider
 
 ---
 
-#### VVC VA Confirmed-Canceled
+#### VVC GFE Confirmed-Canceled
 
 (H1) {appointment date} at {appointment time}
 
@@ -539,44 +603,159 @@ Provider
 
 #### VVC ATLAS Confirmed-Future
 
+(H1) {appointment date} at {appointment time}
 
+VA Video Connect at an ATLAS location
+
+You must join this video meeting from this ATLAS (non-VA) location:
+
+{Location address}
+
+(link) Directions
+
+Appointment code: {Appt code}
+
+You will use this code to find your appointment using the computer provided at the site.
+
+You'll be meeting with
+
+{Provider name}
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this facility if you need to reschedule or cancel your appointment:
+
+{Facility name}
+
+Main phone: {phone number}
 
 ---
 
 #### VVC ATLAS Confirmed-Past
 
+(H1) {appointment date} at {appointment time}
 
+This appointment occurred in the past.
+
+VA Video Connect at an ATLAS location
+
+{Location address}
+
+(link) Directions
+
+Provider
+
+{Provider name}
+
+(link) Print
 
 ---
 
 #### VVC ATLAS Confirmed-Canceled
 
+(H1) {appointment date} at {appointment time}
 
+{Canceler} canceled this appointment.
 
----
+VA Video Connect at an ATLAS location
 
-#### VA Phone Confirmed-Future
+{Location address}
 
+(link) Directions
 
+Provider
 
----
-
-#### VA Phone Confirmed-Past
-
-
-
----
-
-#### VA Phone Confirmed-Canceled
-
-
-
+{Provider name}
 
 ---
 
-#### VA Alerts
+#### Phone Confirmed-Future
 
-##### Vaccine Cancel
+(H1) {appointment date} at {appointment time}
+
+VA appointment over the phone
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Add to calendar
+
+(link) Print
+
+(link) Cancel appointment
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+---
+
+#### Phone Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+VA appointment over the phone
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Print
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
+
+---
+
+#### Phone Confirmed-Canceled
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+VA appointment over the phone
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+(link) Print
+
+You shared these details about your concern
+
+{Reason}: {Booking note}
 
 ---
 
