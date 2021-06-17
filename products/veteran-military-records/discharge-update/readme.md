@@ -5,7 +5,7 @@
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
 
 ## Problem Statement
-Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  All branches of the military now consider them to have a strong case for a discharge upgrade if they can show their discharge was connected to:
+Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  With the passage of the 2017 Fairness for Veterans Act, all branches of the military now consider them to have a strong case for a discharge upgrade if they can show their discharge was connected to:
  - Mental health conditions, including posttraumatic stress disorder (PTSD)
 - Traumatic brain injury (TBI)
 - Sexual assault or harassment during military service (at VA, we refer to this as military sexual trauma or MST)
