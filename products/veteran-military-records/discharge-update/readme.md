@@ -5,25 +5,22 @@
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
 
 ## Problem Statement
-Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  Laws passed in recent years now allow them to request an upgrade if their discharge was connected to mental health condition including:
-   - posttraumatic stress disorder (PTSD)
-   - Traumatic brain injury (TBI)
-   - Sexual assault or harassment during military service (at VA, we refer to this as military sexual trauma or MST)
-   - Sexual orientation (including under the Don’t Ask, Don’t Tell policy)
-
+Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  All branches of the military now consider them to have a strong case for a discharge upgrade if they can show their discharge was connected to:
+ - Mental health conditions, including posttraumatic stress disorder (PTSD)
+- Traumatic brain injury (TBI)
+- Sexual assault or harassment during military service (at VA, we refer to this as military sexual trauma or MST)
+- Sexual orientation (including under the Don’t Ask, Don’t Tell policy)
  
 ## Desired User Outcomes
-
-- A user who would like to know how to request a discharge upgrade
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- A user who would like to know how to request a discharge upgrade is able to determine where their request should be directed, and the information required to complete a request.
+- If they are granted a discharge upgrade, their discharge status may change to "honorable" and they may qualify for VA benefits an other-than-honorable discharge status made them ineligible to receive.
 
 ## Undesired User Outcomes
-- Users do not answer the questions because they are afraid that their personal information is being stored
+- Users decline to answer the questions because they are afraid that their personal information is being stored
 - Users are given the impression that a discharge upgrade request is guaranteed
 - Users are not provided with sufficient information after answering questions in the wizard
 
 ## Desired Business Outcomes
-
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
@@ -77,7 +74,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
+- Key words and meta data on the content page will allow search engines to index it so that service members can find it through organic search
+- VA.gov global search will also leverage key words to help users find the tool
+- "Best bets" within global search will also point users to this tool when they search for specific words.
+- Campaign landing pages may occassionally be used to drive traffic to this tool.  One such example is the [landing page launched for Pride Month 2021](https://www.va.gov/initiatives/recognizing-lgbtq-veterans-during-pride-month/).
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
