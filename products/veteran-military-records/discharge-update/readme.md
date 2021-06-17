@@ -1,7 +1,5 @@
 # Discharge Upgrade Wizard Product Outline 
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
----
 
 ## Overview
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
