@@ -244,7 +244,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 36.	https://staging.va.gov/find-forms/about-form-21-0781a (D-B)
 37.	https://staging.va.gov/find-forms/about-form-21p-527 (D-B)
 38.	https://staging.va.gov/find-forms/about-form-21p-534 (D-B)
-39.	https://staging.va.gov/find-forms/about-form-10-10ez (esp) (D-B)
+39.	https://staging.va.gov/find-forms/about-form-10-10ez (D-B)
 40.	https://staging.va.gov/find-forms/about-form-10-10ezr (D-A)
 41.	https://staging.va.gov/find-forms/about-form-21-0779 (D-B)
 
