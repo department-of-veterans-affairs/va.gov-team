@@ -147,7 +147,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <hr>
 
-# Original Discharge Upgrade Wizard Product Outline
+# Previous Discharge Upgrade Wizard Product Outline
 
 A tool to help Veterans find information about how to upgrade their discharge status. 
 
