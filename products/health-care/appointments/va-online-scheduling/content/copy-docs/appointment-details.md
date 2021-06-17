@@ -188,7 +188,7 @@ You shared these details about your concern
 
 ---
 
-#### Confirmed-Upcoming
+#### Confirmed-Future
 
 (H1) {appointment date} at {appointment time}
 
@@ -317,6 +317,260 @@ Clinic: {Clinic name}
 Main phone: {phone number}
 
 TTY: 711
+
+---
+
+#### VVC Home Confirmed-Future
+
+(H1) {appointment date} at {appointment time}
+
+VA Video Connect at home
+
+You can join this meeting from your home or anywhere you have a secure internet connection.<br>
+You can join VA Video Connect up to 30 minutes prior to the start time.
+
+(CTA) Join appointment
+
+You'll be meeting with
+
+{Provider name}
+
+Prepare for video visit
+
+Before your appointment:
+
+If you’re using an iPad or iPhone for your appointment, you’ll need to download the VA Video Connect iOS app beforehand. If you’re using any other device, you don’t need to download any software or app before your appointment.
+
+You’ll need to have access to a web camera and microphone. You can use an external camera and microphone if your device doesn’t have one.
+
+To connect to your Virtual Meeting Room at the appointment time, click the “Join session” button on this page or the link that’s in your confirmation email.
+
+For the best video experience, we recommend you:
+
+Connect to this appointment from a quiet, private area that has good light
+
+Check to ensure you have a strong internet connection
+
+Connect to this appointment on a Wi-Fi network if using a mobile phone, rather than a cellular data network
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this provider if you need to reschedule or cancel your appointment.
+
+--- 
+
+#### VVC Home Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+VA Video Connect at home
+
+Provider
+
+{Provider name}
+
+(link) Print
+
+---
+
+#### VVC Home Confirmed-Canceled
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+VA Video Connect at home
+
+Provider
+
+{Provider name}
+
+---
+
+#### VVC VA Confirmed-Future
+
+(H1) {appointment date} at {appointment time}
+
+VA Video Connect at a VA location
+
+You must join this meeting from this VA location:
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You'll be meeting with
+
+{Provider name}
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this provider if you need to reschedule or cancel your appointment.
+
+---
+
+#### VVC VA Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+VA Video Connect at a VA location
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You'll be meeting with
+
+{Provider name}
+
+(link) Print
+
+---
+
+#### VVC VA Confirmed-Canceled
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+VA Video Connect at a VA location
+
+{Facility name}
+
+{Facility address}
+
+(link) Directions
+
+Clinic: {Clinic name}
+
+Main phone: {phone number}
+
+TTY: 711
+
+You'll be meeting with
+
+{Provider name}
+
+---
+
+#### VVC GFE Confirmed-Future
+
+(H1) {appointment date} at {appointment time}
+
+VA Video Connect using a VA device
+
+You can join this video meeting using a device provided by VA.
+
+You'll be meeting with
+
+{Provider name}
+
+(link) Add to calendar
+
+(link) Print
+
+(H2) Need to make changes?
+
+Contact this facility if you need to reschedule or cancel your appointment:
+
+{Facility name}
+
+Main phone: {phone number}
+
+---
+
+#### VVC VA Confirmed-Past
+
+(H1) {appointment date} at {appointment time}
+
+This appointment occurred in the past.
+
+VA Video Connect using a VA device
+
+Provider
+
+{Provider name}
+
+(link) Print
+
+---
+
+#### VVC VA Confirmed-Canceled
+
+(H1) {appointment date} at {appointment time}
+
+{Canceler} canceled this appointment.
+
+VA Video Connect using a VA device
+
+Provider
+
+{Provider name}
+
+---
+
+#### VVC ATLAS Confirmed-Future
+
+
+
+---
+
+#### VVC ATLAS Confirmed-Past
+
+
+
+---
+
+#### VVC ATLAS Confirmed-Canceled
+
+
+
+---
+
+#### VA Phone Confirmed-Future
+
+
+
+---
+
+#### VA Phone Confirmed-Past
+
+
+
+---
+
+#### VA Phone Confirmed-Canceled
+
+
+
 
 ---
 
@@ -507,226 +761,4 @@ You shared these details about your concern
 _tbd copy_
 
 ---
-
-### Telehealth / VA Video Connect (VVC)
-
-#### VVC Home Confirmed-Future
-
-(H1) {appointment date} at {appointment time}
-
-VA Video Connect at home
-
-You can join this meeting from your home or anywhere you have a secure internet connection.<br>
-You can join VA Video Connect up to 30 minutes prior to the start time.
-
-(CTA) Join appointment
-
-You'll be meeting with
-
-{Provider name}
-
-Prepare for video visit
-
-Before your appointment:
-
-If you’re using an iPad or iPhone for your appointment, you’ll need to download the VA Video Connect iOS app beforehand. If you’re using any other device, you don’t need to download any software or app before your appointment.
-
-You’ll need to have access to a web camera and microphone. You can use an external camera and microphone if your device doesn’t have one.
-
-To connect to your Virtual Meeting Room at the appointment time, click the “Join session” button on this page or the link that’s in your confirmation email.
-
-For the best video experience, we recommend you:
-
-Connect to this appointment from a quiet, private area that has good light
-
-Check to ensure you have a strong internet connection
-
-Connect to this appointment on a Wi-Fi network if using a mobile phone, rather than a cellular data network
-
-(link) Add to calendar
-
-(link) Print
-
-(H2) Need to make changes?
-
-Contact this provider if you need to reschedule or cancel your appointment.
-
---- 
-
-#### VVC Home Confirmed-Past
-
-(H1) {appointment date} at {appointment time}
-
-This appointment occurred in the past.
-
-VA Video Connect at home
-
-Provider
-
-{Provider name}
-
-(link) Print
-
----
-
-#### VVC Home Confirmed-Canceled
-
-(H1) {appointment date} at {appointment time}
-
-{Canceler} canceled this appointment.
-
-VA Video Connect at home
-
-Provider
-
-{Provider name}
-
----
-
-#### VVC VA Confirmed-Upcoming
-
-(H1) {appointment date} at {appointment time}
-
-VA Video Connect at a VA location
-
-You must join this meeting from this VA location:
-
-{Facility name}
-
-{Facility address}
-
-(link) Directions
-
-Clinic: {Clinic name}
-
-Main phone: {phone number}
-
-TTY: 711
-
-You'll be meeting with
-
-{Provider name}
-
-(link) Add to calendar
-
-(link) Print
-
-(H2) Need to make changes?
-
-Contact this provider if you need to reschedule or cancel your appointment.
-
----
-
-#### VVC VA Confirmed-Past
-
-(H1) {appointment date} at {appointment time}
-
-This appointment occurred in the past.
-
-VA Video Connect at a VA location
-
-{Facility name}
-
-{Facility address}
-
-(link) Directions
-
-Clinic: {Clinic name}
-
-Main phone: {phone number}
-
-TTY: 711
-
-You'll be meeting with
-
-{Provider name}
-
-(link) Print
-
----
-
-#### VVC VA Confirmed-Canceled
-
-(H1) {appointment date} at {appointment time}
-
-{Canceler} canceled this appointment.
-
-VA Video Connect at a VA location
-
-{Facility name}
-
-{Facility address}
-
-(link) Directions
-
-Clinic: {Clinic name}
-
-Main phone: {phone number}
-
-TTY: 711
-
-You'll be meeting with
-
-{Provider name}
-
----
-
-#### VVC GFE Confirmed-Future
-
-(H1) {appointment date} at {appointment time}
-
-VA Video Connect using a VA device
-
-You can join this video meeting using a device provided by VA.
-
-You'll be meeting with
-
-{Provider name}
-
-(link) Add to calendar
-
-(link) Print
-
-(H2) Need to make changes?
-
-Contact this facility if you need to reschedule or cancel your appointment:
-
-{Facility name}
-
-Main phone: {phone number}
-
----
-
-#### VVC VA Confirmed-Past
-
-(H1) {appointment date} at {appointment time}
-
-This appointment occurred in the past.
-
-VA Video Connect using a VA device
-
-Provider
-
-{Provider name}
-
-(link) Print
-
----
-
-
-#### VVC VA Confirmed-Canceled
-
-(H1) {appointment date} at {appointment time}
-
-{Canceler} canceled this appointment.
-
-VA Video Connect using a VA device
-
-Provider
-
-{Provider name}
-
----
-
-
 
