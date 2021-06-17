@@ -1,10 +1,29 @@
 # Meetings
 
+
+## 2021-05-19 Meeting to discuss content for link change for Air Force Veterans
+### Attendees
+- Marci McGuire, PM
+- Beth Potts, Content Lead
+- Cassandra Allen, Designer
+
+###Links to related issues
+Content request: (https://github.com/department-of-veterans-affairs/va.gov-team/issues/25655)
+Design: https://github.com/department-of-veterans-affairs/va.gov-team/issues/23591
+
+
+### Notes
+- Since this is such a significant change, Cassandra may need some FPO content so she knows how to lay out the page.
+- It is just the page that provides instructions to people who were in the Air Force and being directed to DD149.
+- We now will link to the Air Force portal which has its own questionnaire and asks some of the same questions as the wizard.
+- Beth will try to get Cassandra the final words today or tomorrow.
+
 ## 2021-05-19 Meeting to discuss link change for Air Force Veterans
 ### Attendees
 - John Hashimoto, PO
 - Marci McGuire, PM
 - Alex Reber
+-
 ### Notes
 
 - New portal allows them to upload directly to an Azure data store
