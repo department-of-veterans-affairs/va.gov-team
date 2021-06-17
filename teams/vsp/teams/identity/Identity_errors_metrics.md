@@ -67,8 +67,3 @@ The main Grafana Dashboard used by the Identity team is the [SSOe Launch](http:/
 ## Sentry
 
 Sentry is where all of the errors related to Identity are written to. Sentry provides a number of features which allow us to see the source of the error but also visualize potential trends regarding browser, OS, and device versions. We have also used it to identify trends for time based anomalies. There are several "projects" in Sentry which you can view, but the main query is at [this link](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=-1&query=is%3Aunresolved+assigned%3A%23vsp-identity&statsPeriod=14d) which shows you all the errors assigned to the VSP Identity team.
-
-
-
-
-### need to find where this comes from: `api_auth_login_callback_failed`
