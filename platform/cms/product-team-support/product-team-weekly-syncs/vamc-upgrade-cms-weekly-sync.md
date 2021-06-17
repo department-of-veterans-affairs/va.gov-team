@@ -27,6 +27,7 @@
 * Bulk publishing bub "Page not found"
 * Scrapping Operating Status/ Turning it off, time needed, etc.
 * Operating Status - improvement? options? and current status
+* Traiing listening sessions or focus groups
 
 ## June 11
 
