@@ -11,9 +11,7 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request one-off performance, usability, or outcomes va.gov metrics that is difficult to access or that needs analytics interpretation. If you have your KPIs set, please [request a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
-
-Insights will usually provide data reports within the current sprint, but if there is time-sensitivity, please note them in "additional comments."
+Use this template to request support for anlaytics that need interpretation. If you have your KPIs set, please [request a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
 
 ## Instructions
 
@@ -37,7 +35,6 @@ Who is this request for?
     - [Insert team and project)
     
 - What type of analytics support are you looking for?
-  - [ ] one time metrics report (this is not a KPI dashboard, but a temporary or a one time report)
   - [ ] metrics clarification (verification that the metrics you are looking at are being read accurately)
   - [ ] analytics discussion (please share if you're looking for a general conversation, a KPI setting meeting, etc. in the "additional comments" section)
     
