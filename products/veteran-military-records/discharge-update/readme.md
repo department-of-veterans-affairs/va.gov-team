@@ -13,11 +13,11 @@ Some service members who received a less-than-honorable discharge in the past we
  
 ## Desired User Outcomes
 - A user who would like to know how to request a discharge upgrade is able to determine where their request should be directed, and the information required to complete a request.
-- If they are granted a discharge upgrade, their discharge status may change to "honorable" and they may qualify for VA benefits an other-than-honorable discharge status made them ineligible to receive.
+- If their discharge upgrade reqeust is approved, they will be eligible for the VA benefits earned during their period of service.
 
 ## Undesired User Outcomes
-- Users decline to answer the questions because they are afraid that their personal information is being stored
-- Users are given the impression that a discharge upgrade request is guaranteed
+- Users decline to answer the questions because they are afraid their personal information is being stored
+- Users are given the impression that a discharge upgrade request is guaranteed to be approved
 - Users are not provided with sufficient information after answering questions in the wizard
 
 ## Desired Business Outcomes
