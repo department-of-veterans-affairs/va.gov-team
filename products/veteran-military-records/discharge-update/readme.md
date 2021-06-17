@@ -7,15 +7,22 @@
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
 
 ## Problem Statement
-Some service members who were discharged in the past for reasons related to sexual orientation, traumatic brain injury (TBI), military sexual trauma (MST), or PTSD may qualify to have their discharge status upgraded.
+Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  Laws passed in recent years now allow them to request an upgrade if their discharge was connected to mental health condition including:
+   - posttraumatic stress disorder (PTSD)
+   - Traumatic brain injury (TBI)
+   - Sexual assault or harassment during military service (at VA, we refer to this as military sexual trauma or MST)
+   - Sexual orientation (including under the Don’t Ask, Don’t Tell policy)
+
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
+- A user who would like to know how to request a discharge upgrade
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
-
+- Users do not answer the questions because they are afraid that their personal information is being stored
+- Users are given the impression that a discharge upgrade request is guaranteed
+- Users are not provided with sufficient information after answering questions in the wizard
 
 ## Desired Business Outcomes
 
@@ -23,7 +30,8 @@ Some service members who were discharged in the past for reasons related to sexu
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-
+- Users send the wrong documents
+- Users send documents to the wrong review board
 
 ---
 ## Measuring Success
