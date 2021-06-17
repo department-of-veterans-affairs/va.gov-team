@@ -110,10 +110,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: Decision Tools
+- Team GitHub Label: vsa-decision-tools
+- Product GitHub label: dt-discharge-upgrade-wizard
+- Team Slack channel: [vsa-decision-tools](https://dsva.slack.com/archives/C01DWJFD45D)
+- Product Slack channel: [#dischargeupdate](https://dsva.slack.com/archives/C5KRNQLSU)
+- Product POCs: 
 - Stakeholders: 
 
 </details>
@@ -122,10 +124,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: John Hashimoto
+ - PM: Marci McGuire
+ - Engineering:  Zach Morel
+ - Research/Design: Cassandra Allen (Design), Cindy Merrill (Research)
  
 </details>
 
@@ -134,7 +136,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+- Kayla Williams, OPIA
+- John Santos, OPIA
+- Margarete Ashmore, CIV OSD OUSD P-R
+- Military branch review boards (RB)
+- Military branch boards for correction of military records (BCMR)
  
 </details>
 
