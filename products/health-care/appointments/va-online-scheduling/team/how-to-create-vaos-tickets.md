@@ -1,13 +1,11 @@
 # How to create VAOS tickets
 
 For all new VAOS tickets:
-1. From our team board in ZenHub, click New Issue
-![zh-new-issue-button](https://user-images.githubusercontent.com/72046525/112037175-b355c100-8afe-11eb-922f-3ef7d911373c.jpg)
+1. From our team board in ZenHub, click [New Issue](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/new?issueType=issue)
 
-2. In the 'Create In' dropdown, select the `va.gov-team` repo
-  - ![zh-change-repo](https://user-images.githubusercontent.com/72046525/112037434-f3b53f00-8afe-11eb-9a2d-17b05e21dceb.jpg)
+   ![zh-new-issue-button](https://user-images.githubusercontent.com/72046525/112037175-b355c100-8afe-11eb-922f-3ef7d911373c.jpg)
 
-3. Use additional instructions below as applicable
+2. Use additional instructions below as applicable
 
 ---
 
