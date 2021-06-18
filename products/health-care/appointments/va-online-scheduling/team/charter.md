@@ -2,6 +2,13 @@
 
 ## Workflow and Cadence
 
+<details><summary>Hybrid cycle calendar</summary>
+  <p>
+    
+  ![VAOS Dev Team Cycle Meeting Calendar](https://user-images.githubusercontent.com/72046525/122489083-b93f2f00-cf93-11eb-8d5a-ec58002ce3de.jpg)
+  
+</details>  
+
 ### Stand-up
 Check on people and work progress.
 - Daily at 12pm ET
