@@ -37,23 +37,31 @@ Optimize user flows and conversion paths on benefit hub pages to:
 1. Help increase account creation; online application submissions; sign in’s to manage benefits or top tasks
 2. Optimize templatize benefit hubs for optimized conversion paths to tools and apps (Does the original Benefit Hub templates optimize pathways for veterans to find, complete and track benefits?).  
 
-Optimize user navigation funnels for benefit hub (hub to spoke):
+Optimize user navigation funnels from benefit hub to Tier 1 spoke/benefit action:
 
 1. Help increase navigation through left hand nav slim down (Optimization - as content is moved to R&S). 
 2. Ensure pathways are clear paths to self-service tools, focusing on the services most important to Veterans and beneficiaries.
 3. Remove content roadblocks i.e. CMS Content Rigidity (Template Blobbiness) 
 
+Focus Area: Benefit Hubs
+
+<img width="200" alt="Screen Shot 2021-03-05 at 10 40 09 AM" src="https://user-images.githubusercontent.com/70410912/122804961-bc813600-d285-11eb-8816-d411a48deba9.png">
+
+
 **Related product(s)**
 > *Identify VA.gov product(s) this initiative is associated with.*
 
-- Product | Link to product outline 
+- Benefit Hub | [Public Website Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* Narrative: In 2018 VA embarced on a digital transformation to dramatically upgrading its user-facting digital tools, becoming the first federal agency to deliver a digital experience on par with the private sector.  This initiative consolidated into a singular corporate VA brand under which all products are offered, it focused on mobile-friendly webpages in addition to IOS and Andriod native mobile applications, along with a simple, standard design across tools/pages.  As a result of this migration the benefit hubs were not redesigned to account for the "content model" which has been determined to be "blobby" and lack the rigidity to guide veterans to Tier 1 benefit actions as intended.  
+* Narrative: In 2018 VA embarced on a digital transformation to dramatically upgrading its user-facing digital tools, becoming the first federal agency to deliver a digital experience on par with the private sector.  This initiative consolidated into a singular corporate VA brand under which all products are offered, it focused on mobile-friendly webpages in addition to IOS and Andriod native mobile applications, along with a simple, standard design across tools/pages.  As a result of this migration the benefit hubs were not redesigned to account for the "content model" which has been determined to be "blobby" and lack the rigidity to guide veterans to Tier 1 benefit actions as intended.  
+
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
+
+
 
 <!--
 ## Desired User Outcomes
