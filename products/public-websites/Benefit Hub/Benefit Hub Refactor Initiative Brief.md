@@ -41,8 +41,8 @@ Focus Area: Benefit Hubs
 
  
 * How does this initiative help further OCTO-DE's mission and goals?
-     * VA North Star: Increase the use of self-service tools
-     * VA North Star: Consistently deliver a satisfying, reliable, and secure online experience
+     * VA North Star: Increase the usage and throughput of VA services 
+     * VA North Star: Increase the quality and reliability of VA services 
 
 <!--
 ## Desired User Outcomes
