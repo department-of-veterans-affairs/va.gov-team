@@ -10,7 +10,7 @@ The Sorting Facilities variant test changes are limited to the Facility Selectio
 
 (H1) Choose a VA location
 
-Select a VA facility where you're registered that can schedule primary care appointments online. (*Required)
+Select a VA facility where you're registered that offers {type of care} appointments. (*Required)
 
 Sort facilities
 
