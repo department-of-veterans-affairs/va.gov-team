@@ -14,9 +14,10 @@ Thanks for joining us today! My name is Tressa and I also have some colleagues o
 Before we start, a few things I want to mention:
 
 - **This entire session should take less than 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **We will not be updating or changing any of your information today.** We are just testing the functionality of this page, and I will occasionally ask you to add something to a field, but we will not be saving any of these changes. 
+- **We will not be updating or changing any of your information today.** We are just testing the functionality of this page, and will not be making any changes.
 - **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your honest insights help us to figure out how we can improve the veteran experience, and we will not be offended by any opinions you express.
 - **We will be able to see your real information today.** During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable. 
+- - **We will be clicking on a lot of links, if you can open them in a separate tab it will help keep things moving.** You can do this by right clicking the link and selecting 'Open in new tab'. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
 ## Warm-up/Screener Questions - 3 minutes
