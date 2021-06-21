@@ -26,7 +26,18 @@
 ## Outcome Summary
 > *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
 
-* .
+The initial digital optimization of the benefit hubs was in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  During this a Content Managemenet System (CMS) was established and the benefit hubs were then migrarted into the CMS.  Then in 2020 we focused on building Tier 2 benefit-adjacent content elements such as Resources and Support and Campaign Landing Pages in order to help Veterans and other beneficiaries learn through self discovery, and support content for Veterans, family members, or other beneficiaries of VA benefits/services complete a Tier 1 benefit action. An oppurtunity now exists to revisit the benefit hubs and flatten IA and navigation in order to optimize the Veteran-facing experience and along with conversion paths of the benefit hubs. The goal will be to:
+
+Optimize user flows and conversion paths on benefit hub pages to:
+  
+1. Help increase account creation; online application submissions; sign in’s to manage benefits or top tasks
+2. Optimize templatize benefit hubs for optimized conversion paths to tools and apps (Does the original Benefit Hub templates optimize pathways for veterans to find, complete and track benefits?).  
+
+Optimize user navigation funnels for benefit hub (hub to spoke):
+
+1. Help increase navigation through left hand nav slim down (Optimization - as content is moved to R&S). 
+2. Ensure pathways are clear paths to self-service tools, focusing on the services most important to Veterans and beneficiaries.
+3. Remove content roadblocks i.e. CMS Content Rigidity (Template Blobbiness) 
 
 **Related product(s)**
 > *Identify VA.gov product(s) this initiative is associated with.*
@@ -35,6 +46,7 @@
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
+* Narrative: In 2018 VA embarced on a digital transformation to dramatically upgrading its user-facting digital tools, becoming the first federal agency to deliver a digital experience on par with the private sector.  This initiative consolidated into a singular corporate VA brand under which all products are offered, it focused on mobile-friendly webpages in addition to IOS and Andriod native mobile applications, along with a simple, standard design across tools/pages.  As a result of this migration the benefit hubs were not redesigned to account for the "content model" which has been determined to be "blobby" and lack the rigidity to guide veterans to Tier 1 benefit actions as intended.  
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
