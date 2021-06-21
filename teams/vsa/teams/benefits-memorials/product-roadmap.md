@@ -12,11 +12,17 @@ Updated April 2021
 
 
 **Projected timelines**
-|Project| Q1 2021 | Q2 2021 | Q3 2021 | Q4 2021 |
+|Project| Q1 2021 | Q2 2021 | Q3 2021 | Q4 2021 | 
 |----|----|----|----|----
 |**HLR**| Launch | Phase 2 Discovery | Research & Design| FE | — | — |
 |**NOD**| Design & Research, Front End, Backend | Pre-launch; launch  | - | - |  | — |
-|**526 Enhancements**| — | Research | Design; Testing, Frontend build discussions | BE build; QA | Pre-launch/launch | |
+|**526 Enhancements**| — | Research | Design; Testing, Frontend build discussions | BE build; QA | Pre-launch/launch | 
+|**Claims Status Tool**|  | | | Discovery | — |
+
+|Project| Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | 
+|----|----|----|----|----
+|**HLR**| Discovery, Research & Design, FE & BE build | Pre-launch / Launch|  | | — |
+|**HLR**| | | Discovery, Research & Design, FE & BE build | Pre-launch / Launch| — |
 
 ## Completed projects & enhancements
 
