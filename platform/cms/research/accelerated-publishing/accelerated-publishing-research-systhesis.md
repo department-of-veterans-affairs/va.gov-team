@@ -4,7 +4,7 @@ Project : [Link to Project Directory]
 
 [Link to Research Goals & Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/accelerated-publishing/accelerated-publishing.md)
 
-[Link to Conversation Guide]
+[Link to Conversation Guide](https://docs.google.com/document/d/1Y9Hck2pWqTlnfloDmPIayw12ITT2gSnb3ECIN2lp-6Q/0
 
 [Participant Number], [Date & Time of Session]
 
@@ -16,7 +16,12 @@ Prepared By:
 
 # Participant Description
 
-Describe the participant in a few sentences, including their role within the system, why we’ve chosen them for a feedback session and relevant demographic information.
+- 6 CMS editors:
+  - 2 VAMC field editors 
+  - 1 VAMC Upgrade Team member
+  - 2 Sitewide Content team members
+  - 1 VACO stakeholder
+
 
 # Key Findings
 
