@@ -19,8 +19,8 @@
 
 - Tony
   - ~~[Research HTML support for calendar invite descriptions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25157)~~
-  - [[vaos service requests] Convert parent sites call to new VAOS service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24932)
-  - [[vaos service requests] Make community care provider structure consistent for requests and appointments on list page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24931)
+  - ~~[[vaos service requests] Convert parent sites call to new VAOS service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24932)~~
+  - ~~[[vaos service requests] Make community care provider structure consistent for requests and appointments on list page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24931)~~
 
 - Jeff
   - [Requests not fetched from V2 when starting on upcoming appointments list page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26070)
