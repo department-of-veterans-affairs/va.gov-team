@@ -14,7 +14,8 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 ### GitHub/ZenHub
 
 - GitHub label = `vaos` 
-- ZenHub board - [VFT](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&notFullScreen=false&repos=133843125,66304117&showPipelineDescriptions=false)
+- ZenHub board - [VAOS Team](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
+- [Team Charter](charter.md)
 
 ### Slack Channels
 
