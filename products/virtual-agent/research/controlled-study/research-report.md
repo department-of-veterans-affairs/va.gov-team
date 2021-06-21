@@ -1,8 +1,5 @@
 # Chatbot Controlled Study Research Report   
 
-
-TO UPDATE FROM THIS POINT ON
-
 #### Shane Strassberg and Rachel M. Murray, [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/controlled-study/controlled-study-research-plan.md)
 
 ## Introduction
