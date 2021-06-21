@@ -16,6 +16,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2021
 
+#### June 14-17: VA.gov profile notification settings usability study
+*Authenticated experience, Lead Researcher: Liz Lantz*
+- Number of participants: 8 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research)
+- Keywords: notifications, settings, SMS text messages, email notifications, removing contact information, appointment reminders, opt-in, opt-out, unsubscribe, read/edit views, missing contact information 
+
 #### June 14th: Virtual Agent Veterans with a disability interviews
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
@@ -25,6 +31,11 @@ This does not include research for Appeals projects, which is stored in differen
 
 - List of keywords: Veterans, Virtual Agent, Chatbot, Disabled, Visual impairment, Accessibility
 
+#### June 1-8: VAOS facility preferences generative research / VA.gov profile facility settings usability research
+*Collaborative study: VAOS (Peter Russo) and Authenticated Experience (Liz Lantz)*
+- Number of participants: 9
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/topline-summary.md)
+- Keywords: preferences, saved facilities, health facilities, health care, online scheduling, making an appointment, facility registrations, primary care
 
 #### June 1st: Virtual Agent Proof of Concept 
 *Virtual Agent, Lead Researcher: Shane Strassberg*
