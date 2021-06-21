@@ -17,10 +17,6 @@
   - [Issue when calling /vaos/v2/facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25906)
   - [Final pass on new VAOS service changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25731)
 
-- Corey
-  - [Remove backend cheetah flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25555)
-  - [[vaos service requests] Cancel requests through VAOS service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24594)
-
 - Kevin
   - [Evaluate switching to va-alert from AlertBox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25890)
   - [Remove frontend cheetah flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25382)
