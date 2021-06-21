@@ -22,7 +22,7 @@ Updated June 2021
 |Project| Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | 
 |----|----|----|----|----
 |**HLR**| Discovery, Research & Design, FE & BE build | Pre-launch / Launch|  | | — |
-|**HLR**| | | Discovery, Research & Design, FE & BE build | Pre-launch / Launch| — |
+|**NOD**| | | Discovery, Research & Design, FE & BE build | Pre-launch / Launch| — |
 
 ## Completed projects & enhancements
 
