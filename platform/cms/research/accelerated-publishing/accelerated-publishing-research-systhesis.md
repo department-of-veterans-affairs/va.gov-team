@@ -2,7 +2,7 @@
 
 Project : [Link to Project Directory]
 
-[Link to Research Goals & Plan]
+[Link to Research Goals & Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/accelerated-publishing/accelerated-publishing.md)
 
 [Link to Conversation Guide]
 
