@@ -8,23 +8,23 @@ Project : [Link to Project Directory]
 
 [Participant Number], [Date & Time of Session]
 
-0009, May 17, 2021 @2PM PT
-0011, May 20, 2021 @10AM PT
-0010, May 25, 2021 @10AM PT
-0012, June 1, 2021 @10AM PT
-c8c0, June 3, 2021 @10AM PT
-21w 2d, June 7, 20201 @2PM PT
+- 0009, May 17, 2021 @2PM PT
+- 0011, May 20, 2021 @10AM PT
+- 0010, May 25, 2021 @10AM PT
+- 0012, June 1, 2021 @10AM PT
+- c8c0, June 3, 2021 @10AM PT
+- 21w 2d, June 7, 20201 @2PM PT
 
 [Link to Verbatim Notes]
 
 Prepared By:
 
-0009 Natalie Dunbar
-0011 Rachel Kauff
-0010 
-0012
-c8c0
-21w 2d
+- 0009 Natalie Dunbar
+- 0011 Rachel Kauff
+- 0010 
+- 0012
+- c8c0
+- 21w 2d
 
 
 # Participant Description
