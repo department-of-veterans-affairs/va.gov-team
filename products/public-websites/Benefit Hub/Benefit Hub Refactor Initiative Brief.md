@@ -1,36 +1,12 @@
-# Initiative Brief Template
-#### Overview
+# Intiative Briefing: Benefit Hub Refactor
 
-<details>
- 
- *Initiatives are opportunities to achieve a particular outcome. And there is a 1:many relationship between products and initiatives. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
-
-## Outcome Summary
-> *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
+## Outcome Summary - Benefit Hubs Refactor
 
 The initial digital optimization of the benefit hubs was in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  During this a Content Managemenet System (CMS) was established and the benefit hubs were then migrarted into the CMS.  
 
 Then in 2020 we focused on building Tier 2 benefit-adjacent content elements such as Resources and Support and Campaign Landing Pages in order to help Veterans and other beneficiaries learn through self discovery, and support content for Veterans, family members, or other beneficiaries of VA benefits/services complete a Tier 1 benefit action. 
 
-An oppurtunity now exists to revisit the benefit hubs and flatten IA and navigation in order to optimize the Veteran-facing experience and along with conversion paths of the benefit hubs. The goal will be to:
+An oppurtunity now exists to revisit the benefit hubs and flatten IA and navigation in order to optimize the Veteran-facing experience on VA.gov with the intent to increase effectiveness of conversion paths of the benefit hubs. The goal will be to:
 
 Optimize user flows and conversion paths on benefit hub pages to:
   
@@ -47,21 +23,26 @@ Focus Area: Benefit Hubs
 
 <img width="200" alt="Screen Shot 2021-03-05 at 10 40 09 AM" src="https://user-images.githubusercontent.com/70410912/122804961-bc813600-d285-11eb-8816-d411a48deba9.png">
 
-
 **Related product(s)**
-> *Identify VA.gov product(s) this initiative is associated with.*
 
 - Benefit Hub | [Public Website Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* Narrative: In 2018 VA embarced on a digital transformation to dramatically upgrading its user-facing digital tools, becoming the first federal agency to deliver a digital experience on par with the private sector.  This initiative consolidated into a singular corporate VA brand under which all products are offered, it focused on mobile-friendly webpages in addition to IOS and Andriod native mobile applications, along with a simple, standard design across tools/pages.  As a result of this migration the benefit hubs were not redesigned to account for the "content model" which has been determined to be "blobby" and lack the rigidity to guide veterans to Tier 1 benefit actions as intended.  
+* Problem Defined: The original goal of the benefit hubs was to optimize user flow and conversion paths for Tier 1 benefit actions.  It was also to provide navigational experience that would optimize wayfinding to the easiest way to find and action upon any VA services.  However, when we migrated the benefit hubs into Drupal thier wasn't any "content model" redesign, which was determined to be too "blobby" to make rigid in current state.  We've now reached the point that the benefit hubs require an IA flattening and rework for "clear path" navigation in order to optimize the Veteran-facing experience along with conversion paths to the benefit hubs. 
 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
+* Evidence to support Prolem: Whether someone lands from organic or site search, from a learning center page, or campaign or search landing page, we need to ensure that people can easily continue their path to relevant online tools, with the right contextual information. In a recent VA.gov wayfinding research we determined several key findings that support this pain point: "Many participants were unable to successfully complete desired tasks, the first of which was completed without any assistance by only one participant. Participants couldn't find what they were looking for (form to appoint representative, set up direct deposit for VA travel pay reimbursement, and share VA medical history with a doctor outside the VA). Navigation paths to complete some of these tasks were not straightforward" [Read full Baseline VA.gov Wayfinding research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md)
+
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+     * This is occuring likely due to the context rich pages in the benefit hubs that are likely creating "content roadblocks" for Veterans to complete intented tasks. In addition to the large left hand navigational menu (mega menu) as it was proven that the smaller navigational menu is easier to navigate and provides a quicker path for users to interact with and follow.  
+     * [Recent analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20210501&_u.date01=20210531&explorer-segmentExplorer.segmentId=analytics.pageGroup1&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1,useri0ZvPaPpQKyUHGrYCFPigw/) show most users navigate on the unauthenticated pages of VA.gov over those of the authenticated, likely due to the fact Veterans tend to focus on Tier 1 benefit actions when authenticated and not wayfinding and expect a clear path to benefit actions when authenticated.  
+     * Vaterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when it isn't in the "top 4" boxes. "A lot of things I can't find".  This is reflected in the following breakdown:
+      ![Screen Shot 2021-06-21 at 1 11 48 PM](https://user-images.githubusercontent.com/70410912/122816053-78952d80-d293-11eb-8126-fb2fcd7dd2cf.png)
+
+
+ 
 * How does this initiative help further OCTO-DE's mission and goals?
-
-
+     * VA North Star: Increase the use of self-service tools
+     * VA North Star: Consistently deliver a satisfying, reliable, and secure online experience
 
 <!--
 ## Desired User Outcomes
