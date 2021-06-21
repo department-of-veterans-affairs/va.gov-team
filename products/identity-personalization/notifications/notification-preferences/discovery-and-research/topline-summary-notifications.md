@@ -90,7 +90,7 @@ They didn't notice the copy telling them whether a notification was on or off un
 
 > "Oh there you go! Notify by text. That's where you see it. It's so small though!" - P2
 
-> I didn't really in the beginning, see the "off". I believe it was lower case letters, not bolded or anything. I would do something there to enhance that so I would go that. Even this right here *reads* "notify by text, on" - I would do something more noticeable. - P9
+> I didn't really in the beginning, see the "off" there. I believe it was lower case letters, not bolded or anything. I would do something there to enhance that so my eye would go to it. Even this right here *reads "*notify by text, on" - I would do something more noticeable that would bring my eye to it. - P9
 
 ### Participants assumed all notifications would be available through email and text, and couldn't guess confidently as to why a notification may only be available through one channel.
 
@@ -101,8 +101,4 @@ They didn't notice the copy telling them whether a notification was on or off un
 > The VA just didn't make it an option on the website. I don't know why not. It seems like if they can do prescriptions and you get text or email option, you should probably get a text or email option on appointment reminder. - P11
 
 > (After moderator explained some notifications were only text and some were only email) "That was not clear to me. I don't like that. If you are going to give me the option, give me the option, don't limit my options. " - P2
-
-### 
-
-
 
