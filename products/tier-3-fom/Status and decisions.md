@@ -1,5 +1,35 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 06/17/2021
+
+Meeting - weekly FOM call w/Janet Schiller
+
+__Agenda:__ 
+
+What happens to the office data when the office becomes closed or merged/consolidated with another office? 
+
+__Summary of call:__
+
+- When an office is closed/deprecate, it gets flagged "Archived" in Salesforce, and the the In FOM data changes from yes to no: __In-FOM:No__ . Its relationships (parent connection) also get removed. 
+- When an office is merged with another office, the primary account's Account ID is maintained (TBC by Janet). In Salesforce, the FOM POC will use the "Merge" feature; TBC if merged accounts are flagged by some backend meta data as being merged/consolidated - merged-xyz-primary, merged-xyz. _Janet confirmed: no merged meta data_ 
+- Most common use case for merges: administrative corrections (e.g., duplicative entries)
+- Less common use case for merges: due to a real org change; Salesforce steps are the same, but also requires an org change request by the office to Human Resources to address legal, HR, staffing, and other needs.
+- Offices that are active in the FOM hierarchy but NOT part of the VIEWS correspondence workflow tracking are flagged "Inactive" in Salesforce. (They are still "Active" in FOM; just inactive in VIEWS.)  Ask: change flag name to "VIEWS Inactive" or "VIEWS:False" instead of "Inactive."
+
+- FOM coordinator: coordinates FOM reviews/approvals on the business/office side
+- FOM POC: person who enters the FOM data for the business/office. 
+- FOM Approver: 1st line of approver - person who validates the entered FOM data. (After the FOM Approver approves, the final real world approval takes place outside of the system via wet signature from the business/office's leadership or executive management. 
+- "Account hierarchy" and FOM "Hierarchy" the same: list view of the FOM hierarchy
+
+__Action items:__
+
+1/ Question: When 2 or more offices get merged, does the merged office get a new Account ID or does the ‘primary’ account’s Account ID used going forward as the record? {TBC by Janet}
+
+2/ Read-Only Access to FOM and VIEWS – for myself jennifer.lee27@va.gov  and our Platform engineer Mike Chelen Michael.Chelen@va.gov 
+
+3/ I’ll set up a recurring weekly on Thursdays at 11 am for us. We can always cancel if no agenda/questions to discuss.  {done}
+
+
 ## 06/10/2021 
 
 Meeting - initial dive into Salesforce FOM data. 
