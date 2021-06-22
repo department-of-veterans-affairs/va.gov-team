@@ -1,4 +1,4 @@
-# Healthcare Experience - Check-in MVP
+# Healthcare Experience - Check-in 
 
 
 ## Overview
@@ -7,8 +7,8 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 ## Problem Statement
 Currently, VA medical facilities have a kiosk that are utilized by the Veterans to check-in for medical appointments when they arrive. These Kiosks are being sun-setted in CY 2022. The purpose of this product is to: 
 
- 1. Replace the functionality of the Kiosk 
- 2. Put in place infrastructure for an end-to end solution for Veteran digital check-in experience with VA health services, as this is a POC for consolidating data from disparate systems into a seamless solution 
+ 1. Replace and enhance functionaility from the kiosk and improve the experience of check-in for the Veteran.
+ 2. Put in place infrastructure for an end-to-end solution for Veteran digital check-in experience with VA health services, as this is a POC for consolidating data from disparate systems into a seamless solution.
 
  
 ## Desired User Outcomes
