@@ -6,7 +6,7 @@ Continuous Integration (CI) for VSP will be implemented using GitHub Actions (GH
 ------
 
 ## Documentation
-Documentation about GitHub actions exists throughout https://depo-platform-documentation.scrollhelp.site/infrastructure/
+Documentation about GitHub Actions exists throughout the [Infrastructure docs on the Platform Website](https://depo-platform-documentation.scrollhelp.site/infrastructure/)
 
 ------
 
