@@ -25,7 +25,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 
 **Potential pages for the design prototype:**
 
-Screen | Links Connected
+Page | Links Connected
 ------------------|--------------
 VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
 Search landing page | Search box, Find a form, Resources and Support, Find a VA Location
