@@ -27,7 +27,7 @@
 * Bulk publishing bub "Page not found"
 * Scrapping Operating Status/ Turning it off, time needed, etc.
 * Operating Status - improvement? options? and current status
-* Traiing listening sessions or focus groups
+* Training listening sessions scheduled June 28 and July 1, 68 active VAMC editors invited
 
 ## June 11
 
