@@ -3,25 +3,25 @@
 ## Goals	
 The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Design concepts tested may include the following:
 - A new search landing page
-- A revised search results page
-- New links to the new search landing page on the VA.gov home page
+- New links on the VA.gov home page that go to the new search landing page
+- New links on the search results page
 
 ## Background
 User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
-Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that site search and other search tools are not noticed and used as much as we anticipated. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
+Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as we anticipated. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
 
 ## Research questions
 1. What are users' reactions to a landing page that highlights search tools? 
-1. Do users try using the search tools from links on the landing page?
+1. Do users try using the search tools from links on the landing page?  
 1. What are users' reactions to Search in the header taking them to a landing page?
 1. What are users' reactions to new search link(s) in the "top 4" boxes taking them to a landing page?
 1. Do users try using the search tools from links on the search results page?
 1. Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
-1. A search *landing* page that highlights other search tools will result in more users using the search tools.
-1. A search *results* page that highlights other search tools will result in more users using the search tools.
-1. New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
+1. A search *landing* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
+1. A search *results* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
+1. New search link(s) in the "top 4" boxes will result in more users finding what they're looking for.
 
 ## Method--Overview
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
