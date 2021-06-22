@@ -8,22 +8,23 @@ User research findings from the VA.gov home page ([May 2021](https://github.com/
 Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that site search and other search tools are not noticed and used as much as we anticipated. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
 
 ## Research questions
-- What are users' reactions to a landing page that highlights search tools? 
-- Do users try using the search tools from links on the landing page?
-- How do users react to Search in the header taking them to a landing page?
-- How do users react to new search link(s) in the "top 4" boxes taking them to a landing page?
-- Do users try using the search tools from links on the search results page?
-- Are users able to complete tasks without getting stuck?
+1. What are users' reactions to a landing page that highlights search tools? 
+1. Do users try using the search tools from links on the landing page?
+1. How do users react to Search in the header taking them to a landing page?
+1. How do users react to new search link(s) in the "top 4" boxes taking them to a landing page?
+1. Do users try using the search tools from links on the search results page?
+1. Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
-- A *search landing page* that highlights other search tools will result in more users using the search tools.
-- A *search results page* that highlights other search tools will result in more users using the search tools.
-- New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
+1. A *search landing page* that highlights other search tools will result in more users using the search tools.
+1. A *search results page* that highlights other search tools will result in more users using the search tools.
+1. New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
 
-## Method	
+## Method--Overview
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
 
-**Potential pages for the design prototype:**
+## Method--Details
+### Potential pages for the design prototype:
 
 Page | Links Connected
 ------------------|--------------
@@ -35,11 +36,19 @@ Resources and Support page |
 Find a VA Location page |
 (+ additional versions of Search landing page and Search results page--one for each search task)
 
-**Potential search tasks:**
-1. Submit a statement from someone to help support your request for VA benefits (top forms search #4: for form 21-4138; could search for "statement" in site search or go to Find a form)
-2. Find out if there is a VA hospital located 
-3. Get reimbursed for travel to medical appointment via direct deposit
-4. Appoint a representative to help with your disability claim
+### Potential search tasks:
+1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
+2. Find out if there is a VA hospital located near a city that you plan to visit (search for city name or Find a VA location)
+3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or Resources and support)
+4. Appoint a representative to help with your disability claim (search or Find a form)
+
+We should show some unhelpful search results and see what participants do next.
+
+### To Do's:
+
+- [ ] *Cindy & Megan should talk more about the design of the search landing page and the search results page to test*
+
+- [ ] *Will we need to work with VSP on these designs?*
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
