@@ -21,6 +21,10 @@
 
 </details>
 
+## June 25
+
+* Schedule for go-live and runbook
+* Guidance for placing detail pages between and now and #4988 merge, and fixing existing ones. 
 
 ## June 18
 * VAMC editor that created a bad table, plan to handle when someone goes off the rails. slack thread [**here**](https://dsva.slack.com/archives/CPQFCQKEH/p1623686219343000)
