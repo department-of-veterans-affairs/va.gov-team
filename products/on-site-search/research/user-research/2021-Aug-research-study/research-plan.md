@@ -1,7 +1,10 @@
 # Research Plan: Search Designs
  	
 ## Goals	
-The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. 
+The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Designs tested may include the following:
+- A new search landing page
+- A revised search results page
+- New links to the new search landing page on the VA.gov home page
 
 ## Background
 User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
@@ -42,7 +45,7 @@ Find a VA Location page |
 3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or Resources and support)
 4. Appoint a representative to help with your disability claim (search or Find a form)
 
-We should show some unhelpful search results and see what participants do next.
+We should definitely show some unhelpful search results and see what participants do next.
 
 ### To Do's:
 
