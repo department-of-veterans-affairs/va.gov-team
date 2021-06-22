@@ -77,7 +77,7 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 - What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
 
 ## Timeline
-#### Desired Timeline: July/Aug TBD, 2021 
+#### Desired Timeline: Aug TBD, 2021 
 **60-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
