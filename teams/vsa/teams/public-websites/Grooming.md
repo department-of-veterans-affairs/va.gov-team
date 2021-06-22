@@ -26,6 +26,26 @@ None
 </summary>
 
 </details>
+## Wednesday, June 23, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
+- [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276) 
+- [ ] VA.gov home page the h4 generates an accessibility error in Google Chrome Lighthouse. [#26286](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26286)
+- [ ] VAMC Redirections (Awaiting review from Mikki then we'll program in, should be June 30th for action). 
+
+### Icebox Items (Relevancy - Delete)
+- [ ] Create a landing page for IRIS redirects and implement redirects [#10592](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10592) 
+- [ ] Integrate maintenance banner with pager duty [#10234](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10234)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- Do you know where you can get chicken broth in bulk?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
 
 ## Wednesday, June 9, 2021
 
@@ -560,4 +580,4 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-June 9: With Computer Chips.
+The stock market.
