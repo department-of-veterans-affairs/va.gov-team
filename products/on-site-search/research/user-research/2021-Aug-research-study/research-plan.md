@@ -6,6 +6,8 @@ The purpose of this research is to get user feedback on new design concepts for 
 - New links on the VA.gov home page that go to the new search landing page
 - New links on the search results page that go to other search tools
 
+Research findings will be used to recommend which of the above design concepts might be helpful to users going forward, and then we can do more design exploration. 
+
 ## Background
 User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
 Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as much as we hoped. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
@@ -49,8 +51,8 @@ We plan to show some unhelpful search results and see what participants do next.
 
 ### To Do's:
 
-- [ ] *Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page. Shawna would like to be included.*
-
+- [ ] *Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
+- [ ] *Shawna would like to be included in the discussion of the search results page.*
 - [ ] *Will we need to work with VSP on these designs?*
 
 ## Participants and Recruitment	
