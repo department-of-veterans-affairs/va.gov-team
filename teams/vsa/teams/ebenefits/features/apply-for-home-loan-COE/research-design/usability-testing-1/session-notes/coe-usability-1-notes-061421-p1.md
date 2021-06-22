@@ -1,15 +1,15 @@
-## eBenefits COE discovery interviews session 1
+## eBenefits COE usability testing session 1
 #### Conducted: June 14, 2021 via Zoom
 #### Moderator: James Adams
 #### Participants: 1
 #### Session Recorded: Yes
-#### Note-taker: TBD
+#### Note-taker: Shannon Housel
 
-## Participant 1
-
-`WIP transcript/unedited`
+### Participant 1
 
 ---
+
+`WIP transcript/unedited`
 
 ## Warm-up
 - Please tell us a little bit about yourself. Maybe start with your service experience: My name is Michael Hollis and professor of research and was a broadcaster and got out in 05. Applied for disability a few years ago and got the rating and healthcare last year and now am eligible for va mortgage. I am scheduled for another hearing in a few months for disability stuff. 
