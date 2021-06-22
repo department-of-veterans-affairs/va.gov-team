@@ -1,4 +1,4 @@
-## eBenefits COE discovery interviews session 7
+## eBenefits COE usability testing session 7
 #### Conducted: June 17, 2021 via Zoom
 #### Moderator: James Adams
 #### Participants: 1
