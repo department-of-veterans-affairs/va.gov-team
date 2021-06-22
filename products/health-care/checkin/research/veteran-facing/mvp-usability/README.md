@@ -13,9 +13,9 @@
 | Session Notes   | Session Day & Time | Session Status | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
 | ------------------------------------------------------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ |
 | [P01]() | Wednesday, June 23, 9 - 10 a.m. |  | Veteran | Male | White or Caucasian | Prefer not to answer | Associate's degree/trade certificate/vocational training | Coast Guard | KY |
-| [P02]() | Wednesday, June 23, 10:30 - 11:30 a.m. |  | Veteran | Male | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35- 44 | Master's degree | Marine Corps | MD |
-| [P03]() | Wednesday, June 23, Noon - 1 p.m. |  | Veteran | Female | Asian | 45-54 | Bachelor's degree | Navy | CA |
-| [P04]() | Thursday, June 24, 9 - 10 a.m. |  | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25-34 | Master's degree | Marine Corps | FL |
+| [P02]() | Wednesday, June 23, 10:30 - 11:30 a.m. |  | Veteran | Male | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44 | Master's degree | Marine Corps | MD |
+| [P03]() | Wednesday, June 23, Noon - 1 p.m. |  | Veteran | Female | Asian | 45 - 54 | Bachelor's degree | Navy | CA |
+| [P04]() | Thursday, June 24, 9 - 10 a.m. |  | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25 - 34 | Master's degree | Marine Corps | FL |
 | [P05]() | Thursday, June 24, 11 a.m. - Noon |  | Veteran | Male | American Indian or Alaska Native | Prefer not to answer | Master's degree | Army | VA |
 | [P06]() | Thursday, June 24, 2 - 3 p.m. |  | Veteran | Female | Black or African American | 55 - 64 | Some college (no degree) | Marine Corps | GA |
 | [P07]() | Friday, June 25, 10:30 - 11:30 a.m. |  | Veteran | Male | Hispanic, Latino, or Spanish Origin | 35 - 44 | High school diploma or equivalent (for ex: GED) | Navy | TX |
