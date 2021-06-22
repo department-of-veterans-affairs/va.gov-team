@@ -75,13 +75,15 @@ Focus Area: Benefit Hubs
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - There is measurable value to Veterans as we are replacing "content roadblocks" and "content spirals" with "direct navigational paths" to Tier 1 actions. 
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  -  Only 2% of users were clicking on the right rail navigation because for most users(on desktop, tablet, and mobile), media queries forced that section to the bottom of the page, even on desktop.
+  -  Mega Menu is too exstensive and not "straightforward" leading Veterans down content spirals and not down the intended "direct paths" for service completion tasks. 
+  -  Scoping the navigational paths to be "three-click rule" compliant could help user find itended supporting content that would lead to an informed benefit action providing a clear conversion paths from the benefit hubs to the benefit action spoke. 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - This page will be easy to refactor, requiring no complex technical integration with APIs.  This will however require strong colaboration accross VFS teams to ensure any technical udpates don't affect current codebase, node counts or future release plans. A primary focus will be placed on stability and common code elements for troubleshooting efforts forward.  
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - .
+  - This refactor will apply some much needed streamlining for navigational strategies along with user flow and conversion paths as related to the benefit hubs. Constraints will be to avoid any disruptions to veterans exploring content and following current paths to benefit actions (servicability needs to remain stead and active).  A secondary contraint will be to ensure user flow and conversion paths are fully tested with Veterans through exstensive user testing to ensure optimization of pathways and flows meet desired outcomes. 
 
 ### Hypotheses & Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
