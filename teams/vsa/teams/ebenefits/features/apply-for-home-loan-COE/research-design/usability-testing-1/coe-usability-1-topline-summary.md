@@ -27,7 +27,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 We scheduled 12 sessions beginning X; the last session was conducted Y. Five of the 12 participants attended.
 
-| Participant | Group | Gender | Age | Education | Ethnicity | Branch |
+<!-- | Participant | Group | Gender | Age | Education | Ethnicity | Branch |
 | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | P1 | -- | -- | -- | -- | -- | -- |
 | P2 | No-show| -- | -- | -- | -- | -- |
@@ -40,7 +40,7 @@ We scheduled 12 sessions beginning X; the last session was conducted Y. Five of 
 | P9 | -- | -- | -- | -- | -- | -- |
 | P10 | -- | -- | -- | -- | -- | -- |
 | P11 | -- | -- | -- | -- | -- | -- |
-| P12 | No-show | -- | -- | -- | -- | -- |
+| P12 | No-show | -- | -- | -- | -- | -- | -->
 
 ## Initial findings (based on guiding questions)
 
