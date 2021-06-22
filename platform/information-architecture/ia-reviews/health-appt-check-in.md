@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 06/22/2021**
 
 **Team:** Health care experience <br>
 **Product/Featue:** Appointment Check-in
