@@ -1,4 +1,4 @@
-# Research Plan: Search Designs
+# Research Plan: Search Design Concepts
  	
 ## Goals	
 The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Design concepts tested may include the following:
