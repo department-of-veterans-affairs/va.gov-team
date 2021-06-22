@@ -1,7 +1,7 @@
 # Research Plan: Search Designs
  	
 ## Goals	
-The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Designs tested may include the following:
+The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Design concepts tested may include the following:
 - A new search landing page
 - A revised search results page
 - New links to the new search landing page on the VA.gov home page
@@ -49,7 +49,7 @@ We should definitely show some unhelpful search results and see what participant
 
 ### To Do's:
 
-- [ ] *Cindy & Megan should talk about the design of the search landing page, the search results page, and new links on the VA.gov home page*
+- [ ] *Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page*
 
 - [ ] *Will we need to work with VSP on these designs?*
 
