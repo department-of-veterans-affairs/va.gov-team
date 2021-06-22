@@ -16,8 +16,8 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 - Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
-- A search landing page that highlights other search tools will result in more users using the search tools.
-- A search results page that highlights other search tools will result in more users using the search tools.
+- A *search landing page* that highlights other search tools will result in more users using the search tools.
+- A *search results page* that highlights other search tools will result in more users using the search tools.
 - New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
 
 ## Method	
