@@ -13,7 +13,7 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 - How do users react to Search in the header taking them to a landing page?
 - How do users react to new search link(s) in the "top 4" boxes taking them to a landing page?
 - Do users try using the search tools from links on the search results page?
-- See if users are able to complete tasks without getting stuck.
+- Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
 - A search landing page that highlights other search tools will result in more users using the search tools.
