@@ -1,14 +1,14 @@
 # Research Plan: Search Design Concepts
  	
 ## Goals	
-The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. Design concepts tested may include the following:
-- A new search landing page
+The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. We plan to test the following design concepts:
+- A new search landing page with links to other search tools
 - New links on the VA.gov home page that go to the new search landing page
-- New links on the search results page
+- New links on the search results page that go to other search tools
 
 ## Background
 User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
-Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as we anticipated. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
+Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as much as we hoped. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
 
 ## Research questions
 1. What are users' reactions to a landing page that highlights search tools? 
@@ -24,7 +24,7 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 1. New search link(s) in the "top 4" boxes will result in more users finding what they're looking for.
 
 ## Method--Overview
-We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
+We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype.
 
 ## Method--Details
 ### Potential pages for the design prototype:
@@ -39,17 +39,17 @@ Resources and Support page | Search box (click to fill in)
 Find a VA Location page | Search box (click to fill in)
 (+ additional versions of Search landing page and Search results page--one for each search task below)
 
-### Potential search tasks:
+### Potential search tasks (that are not in the "top 4" boxes):
 1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
-2. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or Find a VA location)
-3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or Resources and support)
-4. Appoint a representative to help with your disability claim (search or Find a form)
+2. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or go to Find a VA location)
+3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
+4. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
 
-We should definitely show some unhelpful search results and see what participants do next.
+We plan to show some unhelpful search results and see what participants do next.
 
 ### To Do's:
 
-- [ ] *Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page*
+- [ ] *Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page. Shawna would like to be included.*
 
 - [ ] *Will we need to work with VSP on these designs?*
 
@@ -95,7 +95,7 @@ TBD, 2021  |  TBD
 
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role.  	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
