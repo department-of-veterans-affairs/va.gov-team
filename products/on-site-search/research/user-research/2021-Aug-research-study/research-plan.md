@@ -23,6 +23,15 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
 
+The design prototype will have the following screens:
+
+Screen | Links Connected
+------------------|--------------
+VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
+Search landing page | Search box, Find a form, Resources and Support, Find a VA Location
+Search results page | Find a form, Resources and Support, Find a VA Location
+(+ additional versions of Search landing page and Search results page--one for each search task)
+
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
 
