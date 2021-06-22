@@ -23,9 +23,9 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
 
-The design prototype will have the following screens:
+**Potential pages for the design prototype:**
 
-**Screen | Links Connected**
+Screen | Links Connected
 ------------------|--------------
 VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
 Search landing page | Search box, Find a form, Resources and Support, Find a VA Location
