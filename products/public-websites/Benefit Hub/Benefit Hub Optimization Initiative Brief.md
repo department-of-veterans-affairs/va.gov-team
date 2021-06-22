@@ -1,6 +1,6 @@
-# Intiative Briefing: Benefit Hub Refactor
+# Intiative Briefing: Benefit Hub Optimization
 
-## Outcome Summary - Benefit Hubs Refactor
+## Outcome Summary - Benefit Hubs  Optimization
 
 The initial digital optimization of the benefit hubs was in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  During this a Content Managemenet System (CMS) was established and the benefit hubs were then migrarted into the CMS.  
 
