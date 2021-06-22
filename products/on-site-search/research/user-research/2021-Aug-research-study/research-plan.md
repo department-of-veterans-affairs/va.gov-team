@@ -1,19 +1,27 @@
 # Research Plan: Search Designs
  	
 ## Goals	
-The purpose of this research is to get user feedback on new designs for Search. 
+The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. 
 
 ## Background
- 
+User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
+Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that site search and other search tools are not noticed and used as much as we anticipated. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
 
 ## Research questions
-- How intuitive is 
+- What are users' reactions to a landing page that highlights search tools? 
+- Do users try using the search tools from links on the landing page?
+- How do users react to Search in the header taking them to a landing page?
+- How do users react to new search link(s) in the "top 4" boxes taking them to a landing page?
+- Do users try using the search tools from links on the search results page?
+- See if users are able to complete tasks without getting stuck.
 
 ## Hypotheses
-- 
+- A search landing page that highlights other search tools will result in more users using the search tools.
+- A search results page that highlights other search tools will result in more users using the search tools.
+- New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom. Participants will be given some tasks to do...
+We will conduct remote moderated research sessions via Zoom. Participants will be given some tasks to do with a design prototype.
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
