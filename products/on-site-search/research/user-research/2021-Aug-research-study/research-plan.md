@@ -21,7 +21,7 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 - New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
 
 ## Method	
-We will conduct remote moderated research sessions via Zoom. Participants will be given some tasks to do with a design prototype.
+We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do with a design prototype.
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
