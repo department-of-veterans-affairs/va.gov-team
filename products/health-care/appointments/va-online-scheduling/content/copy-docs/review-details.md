@@ -10,19 +10,19 @@ Please review the information before confirming your appointment. If you need to
 
 (H2) {type of care}
 
-{appointment date} at {appointment time}
+(H3) {appointment date} at {appointment time}
 
-{clinic name}
+(H3) {clinic name}
 
 {facility name}
 
 {city, ST}
 
-{reason for appointment}
+(H3) {reason for appointment}
 
 {booking note}
 
-Your contact details
+(H3) Your contact details
 
 {email address}
 
