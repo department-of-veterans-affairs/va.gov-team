@@ -13,14 +13,14 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 ## Research questions
 1. What are users' reactions to a landing page that highlights search tools? 
 1. Do users try using the search tools from links on the landing page?
-1. How do users react to Search in the header taking them to a landing page?
-1. How do users react to new search link(s) in the "top 4" boxes taking them to a landing page?
+1. What are users' reactions to Search in the header taking them to a landing page?
+1. What are users' reactions to new search link(s) in the "top 4" boxes taking them to a landing page?
 1. Do users try using the search tools from links on the search results page?
 1. Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
-1. A *search landing page* that highlights other search tools will result in more users using the search tools.
-1. A *search results page* that highlights other search tools will result in more users using the search tools.
+1. A search *landing* page that highlights other search tools will result in more users using the search tools.
+1. A search *results* page that highlights other search tools will result in more users using the search tools.
 1. New search link(s) in the "top 4" boxes will results in fewer users getting stuck while trying to complete tasks.
 
 ## Method--Overview
@@ -32,16 +32,16 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 Page | Links Connected
 ------------------|--------------
 VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
-Search landing page | Search box, Find a form, Resources and Support, Find a VA Location
+Search landing page | Search box (click to fill in), Find a form, Resources and Support, Find a VA Location
 Search results page | Find a form, Resources and Support, Find a VA Location
-Find a form page |
-Resources and Support page |
-Find a VA Location page |
-(+ additional versions of Search landing page and Search results page--one for each search task)
+Find a form page | Search box (click to fill in)
+Resources and Support page | Search box (click to fill in)
+Find a VA Location page | Search box (click to fill in)
+(+ additional versions of Search landing page and Search results page--one for each search task below)
 
 ### Potential search tasks:
 1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
-2. Find out if there is a VA hospital located near a city that you plan to visit (search for city name or Find a VA location)
+2. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or Find a VA location)
 3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or Resources and support)
 4. Appoint a representative to help with your disability claim (search or Find a form)
 
@@ -49,7 +49,7 @@ We should definitely show some unhelpful search results and see what participant
 
 ### To Do's:
 
-- [ ] *Cindy & Megan should talk more about the design of the search landing page and the search results page to test*
+- [ ] *Cindy & Megan should talk about the design of the search landing page, the search results page, and new links on the VA.gov home page*
 
 - [ ] *Will we need to work with VSP on these designs?*
 
@@ -86,6 +86,7 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 Team Availability | Time (EST)
 ------------------|--------------
 TBD, 2021 | Noon - 3 pm, 4 - 8 pm
+TBD more days
 
 Pilot Sessions | Time (EST)
 ---------------|----------
