@@ -64,7 +64,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
 [Go through this flow with ~5 participants]
-- Withouth logging in, click on 'My VA' in the main navigation. This will prompt you to log in. We're now on your My VA page, does all of this information look correct?
+- Without logging in, click on 'My VA' in the main navigation. This will prompt you to log in. We're now on your My VA page, does all of this information look correct?
   - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
   - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
   - [ ] **UAT TASK:** If a user has disability rating, it should show in the nametag.
@@ -76,7 +76,7 @@ OK, please share your screen, and then we will get started.
 
 *If a user has a disability rating*
 - So we are now on your My VA dashboard. Go ahead and click on your disability rating.
-  - [ ] **UAT TASK:** The link will take the user to their speicifc disability rating overview page.
+  - [ ] **UAT TASK:** The link will take the user to their speicfic disability rating overview page.
 
 - Great. Let's go back to your My VA page.
 
