@@ -75,7 +75,7 @@ Focus Area: Benefit Hubs
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - There is measurable value to Veterans as we are replacing "content roadblocks" and "content spirals" with "direct navigational paths" to Tier 1 actions. 
+  - There is measurable value to Veterans as we are replacing "content roadblocks" and "content spirals" caused on mega menu with a clear navigational path that increased conversion rates for Tier 1 benefit actions. 
 - **Usability Risks** (can people figure out how to use it):
   -  Only 2% of users were clicking on the right rail navigation because for most users(on desktop, tablet, and mobile), media queries forced that section to the bottom of the page, even on desktop.
   -  Mega Menu is too exstensive and not "straightforward" leading Veterans down content spirals and not down the intended "direct paths" for service completion tasks. 
