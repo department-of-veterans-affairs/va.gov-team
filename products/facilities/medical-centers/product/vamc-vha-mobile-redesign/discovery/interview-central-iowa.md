@@ -16,11 +16,18 @@
 ## About Mobile Clinics
 - Mobile clinic(s) name(s):
   - How many? 
+
+**EMAIL RESPONSE:** 1?
+
 - Vehicle/brick and mortar?
 - How long have you had one?
 - What has your mobile clinic been used for?
    - Has this changed from before the pandemic? During the pandemic?
 - What services are available?
+
+
+**EMAIL RESPONSE:** Central Iowa uses the Mobile Clinic through Tele-health to provide services out to the counties for scheduled events with the county VSOs.
+
 - If vehicle: Does the mobile clinic always come back to the same location; does it have a home base?
 - Are mobile clinics wheelchair accessible?
 - Are there transportation services available to Veterans, like DAV vans or shuttle services, for Veterans to get to a mobile clinic?
@@ -28,9 +35,19 @@
 
 ## Users
 - Who uses mobile clinics? 
+
+
+**EMAIL RESPONSE:** Rural Veterans
+
 - How do they make an appointment?
+ 
+
+**EMAIL RESPONSE:** Thru Tele-health and walk in appointments, also coordinate with county VSOs on appointments.  Eligibility is mostly done thru Video Connect.
   - Are any services walk-in?
 - How do Veterans learn about your mobile clinic services and events?
+
+**EMAIL RESPONSE:**We work Directly with the county VSO’s to coordinate.
+
 - What do Veterans complain or question about with regards to mobile clinics?
 
 ## Mobile clinic operations:
@@ -57,6 +74,10 @@
 
 ## Webpage discussion
 - Do you use any online tools for communicating mobile clinic services, schedules or events?
+
+
+**EMAIL RESPONSE:** Web Page is nice, did not know we had one.  We can list our scheduled events on it.
+
 
 Today VA.gov links to a very simple page. [Show local webpage]
 
