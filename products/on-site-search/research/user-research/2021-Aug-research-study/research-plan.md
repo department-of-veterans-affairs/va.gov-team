@@ -25,7 +25,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 
 The design prototype will have the following screens:
 
-Screen | Links Connected
+**Screen | Links Connected**
 ------------------|--------------
 VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
 Search landing page | Search box, Find a form, Resources and Support, Find a VA Location
@@ -35,7 +35,7 @@ Resources and Support page |
 Find a VA Location page |
 (+ additional versions of Search landing page and Search results page--one for each search task)
 
-Potential search tasks:
+**Potential search tasks:**
 1. Submit a statement from someone to help support your request for VA benefits (top forms search #4: for form 21-4138; could search for "statement" in site search or go to Find a form)
 2. Find out if there is a VA hospital located 
 3. Get reimbursed for travel to medical appointment via direct deposit
