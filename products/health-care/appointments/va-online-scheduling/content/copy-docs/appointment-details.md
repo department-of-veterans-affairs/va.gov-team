@@ -4,6 +4,12 @@
 
 ## Homepage Refresh Toggle
 
+<details><summary>Use the following accessibility template for heading structure.</summary>
+  
+![va-appt-template-xsmall copy](https://user-images.githubusercontent.com/72046525/123011888-1c570a00-d376-11eb-8eb1-5c8e19a60b0d.png)
+
+</details>
+
 ### VA
 
 #### Request-Submitted (Confirmation state)
