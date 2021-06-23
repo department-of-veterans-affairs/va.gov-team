@@ -37,16 +37,22 @@
 
 ## June 30
 
+* CLP governance 
+  * Updates
+  * Scenarios for CMS
+* Github issues 
+
+
 ## June 23 
 
 [John's & Steve are out]
 
 * Possible upcoming redirects work for VAMC leadership pages [#5500 Runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500)
 * CLP governance scenarios
-
-Tables
+  * John met with Tim Hudak and has some followups to powerpoint and governance doc in markdown
+  * More to come next week
 * Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
-
+  * kev will Update thread with Randi, Danielle & Beth
 
 
 ## June 16, 2021
