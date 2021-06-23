@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for [Identity, VA.gov login process, June 2021]
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
