@@ -94,12 +94,13 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Please do not exceed 3 sessions a day 
 
 ### Team members
+- James Adams | jadams@governmentcio.com -- Moderator
 - Candy Clark | cclark@governmentcio.com -- Moderator, designer
 - Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
+- Kevin Musiorski | kmusiorski@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- James Adams | jadams@governmentcio.com -- Designer
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
 - Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
