@@ -28,7 +28,7 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 1. New search link(s) in the "top 4" boxes will result in more users finding what they're looking for.
 
 ## Method--Overview
-We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype.
+We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype; ideally, some will be on desktop, and some will be on mobile.
 
 ## Method--Details
 ### Potential pages for the design prototype:
@@ -41,26 +41,31 @@ Search results page | Find a form, Resources and Support, Find a VA Location, Ho
 Find a form page | Search box (click to fill in), Home page
 Resources and Support page | Search box (click to fill in), Home page
 Find a VA Location page | Search box (click to fill in), Home page
-(+ additional versions of Search landing page and Search results page--one for each search task below)
+(+ additional version of Search landing page and Search results page for each search task below)
 
 ### Potential search tasks (that are not in the "top 4" boxes):
 1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
-2. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or go to Find a VA location)
-3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
-4. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
+1. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
+1. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or go to Find a VA location)
+1. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
 
 We plan to show some unhelpful search results and see what participants do next (from the page they're looking at or navigating back to the home page).
+We will likely need a separate prototype for each task so that search strings and search results can be different.
 
 ### To Do's:
-
-- [ ] Cindy & Megan should talk about design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
-- [ ] Shawna would like to be included in the discussion of the search results page.
-- [ ] *Will we need to work with VSP on these design concepts?*
+- [ ] Cindy & Megan should discuss design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
+  - [ ] Denise proposed a design workshop re design ideas for adding link(s) to home page (i.e., separate search box, above "top 4" boxes, below "top 4" boxes", inside all 4 "top 4" boxes)
+  - [ ] Shawna would like to be included in the discussion of the search results page (maybe Denise, too?)
+- [ ] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
+- [ ] Denise will find out: *Will we need to work with VSP on these design concepts?*
+- [ ] Cindy will consider combining this research with the Find a Form Downloading PDF research, if designs are ready at the same time
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
 
 ### Must have for participants
+- At least 3 people who plan to use their computer for the session
+- At least 3 people who plan to use their smartphone or tablet for the session
 - At least 3 participants over 60
 - At least 2 people with a cognitive disability (e.g., TBI)
 
