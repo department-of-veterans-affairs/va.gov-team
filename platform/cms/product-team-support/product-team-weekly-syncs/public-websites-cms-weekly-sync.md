@@ -35,15 +35,17 @@
 
 </details>
 
-##
+## June 30
 
 ## June 23 
 
-John's out
+[John's & Steve are out]
+
+* Possible upcoming redirects work for VAMC leadership pages [#5500 Runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500)
+* CLP governance scenarios
 
 Tables
 * Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
-
 
 
 
