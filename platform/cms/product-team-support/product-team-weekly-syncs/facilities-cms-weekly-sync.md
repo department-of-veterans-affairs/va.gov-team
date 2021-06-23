@@ -32,6 +32,7 @@ Vet Center
 
 ## June 23 
 
+* Review #5500 runbook for Leadership page URL changes 
 * District 5 pipeline for launches ... should we establish a regular cadence for review/launch/user account upgrades
 * User onboarding / CMS account policies, request fulfillment
 
