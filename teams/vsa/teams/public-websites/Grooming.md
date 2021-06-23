@@ -33,6 +33,7 @@ None
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
+- [ ] [Design] Harassment Reporting Tool wireframe/mockup build [#25991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25991)
 - [ ] [Design] Harassment Reporting Tool 5303 Landing Page Mockup [#26477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26477)
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
 - [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276) 
