@@ -43,4 +43,16 @@ When Veterans are scheduling an appointment, I want to Veteran to schedule with 
   
 </details>
 
+---
+
+<details>
+  <summary><b>C&P Exam appts in VAOSR</b></summary>
+  
+  Captured from <a href="https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/10367">10367</a>
+  
+  Reference this tickets regarding C&P being part of an exclusion list - https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8962
+  
+</details>
+
+---
 
