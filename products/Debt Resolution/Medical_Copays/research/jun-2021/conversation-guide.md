@@ -26,7 +26,7 @@ Before we start, a few things I want to mention:
 * In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear about your experience with VA health care to inform us as we bring copayments online. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
   * First, I'll start by asking you a few questions about how you interact with VA health care and copayments in the past.
-  * For the second half of the session, I'll send you a link to a prototype that one of our teams created to show copayment bills online. 
+  * For the second half of the session, I'll send you a link to a prototype that one of our teams created to show copayment bills online. The prototype we're looking at today is optimized for mobile - are you currently on a mobile device? 
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -50,13 +50,14 @@ Start recording.
 
 * I'm going to send you a link in Zoom's chat feature. Go ahead and click that link when you're ready.
 
-\[Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349\#/pages/139236640/simulate/no-panels?mode=i\] 
+\[Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349\#/pages/139878811/simulate/no-panels?mode=i\] 
 
 What we're looking at now is a potential tool on VA.gov. Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know. If something doesn't work the way you expect, let me know what you expected it to do. 
 
 ### Landing page
 
-* What could you use this tool for? 
+* Talk to me about what we're looking at here 
+* What could you use this tool for?
 * What's an example of when you might use this tool?
   * Let's say you recently had a few appointments and refilled your medication, and now you want to check if you owe anything. What would be your next step from here?
   * What would you expect to see once you sign in?
@@ -64,11 +65,18 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 
 ### Bill overview
 
-* What  are we looking at here?
+* What are we looking at here?
   * What stands out to you about this page?
   * What are your thoughts?
   * What is missing?
-* If you were looking to take care of an outstanding bill from the Cedar Park VA Medical Center, what would your next step be?
+* \[If they describe the alert\] 
+  * What would you do next if you saw this notice?
+  * What other information would you be looking for in this alert, if anything?
+  * What do you think will happen if you don't do anything about this notice?
+* \[If they describe the grey cards\]
+  * Where do you think that number comes from?
+  * What do you think would happen if you pay that $300 charge?
+* If you were looking to take care of an outstanding bill from James A. Haley Veterans' Hospital, what would your next step be?
   * \[If 'view bill details'\]
     * What do you expect to see there?
     * What do you want to do once you're there?
@@ -80,25 +88,35 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 
 ### Bill Detail Page
 
-* Is this what you were expecting?
+* How does this compare to what you were expecting?
 * What are we looking at?
 * What do you owe, based on what you see on this page?
 * When do you need to pay by?
 * How much do you need to pay by that date?
 * What do you think will happen if you don't pay by that date?
-* Talk to me about the charges you see here.
+* Talk to me about the charges you see here
   * What does this mean to you?
-  * How would you normally do with this information?
+  * How would you normally interact with this information?
+  * Think about a time when you were reviewing charges on a bill - what were you trying to accomplish?
+    * How would you use this table to do that task?
+  * If you were to make a rough guess, how many individual charges would you expect to see on a monthly statement?
   * If you had questions about these charges, what would you do?
 * What do you think your options are to settle this debt?
-* Do you have any questions about this page?
-* What would you do next if you weren't able to pay this bill?
+* Is there anything you're unsure about in regards to this balance?
+* Now that you've seen your balance, what are your options for taking care of it?
+* If you wanted to pay your balance, what would you do next?
+  * What would you expect to happen when you click that link?
+* If you wanted to request smaller payments, what would you do next?
+  * What would you expect to see once you click that link?
+* Is there anything missing from this page that you would expect to see?
+
+### What would you do next if you weren't able to pay this bill?
 
 ### Wizard
 
 * What are we looking at?
 * How does this compare to your expectations?
-* Let's say you want to request financial help for the bill you received from the Cedar Park VA Medical Center. 
+* Let's say you want to request financial help for your balance at James A. Haley Veterans' Hospital. 
   * What would you do next?
 
 ### FSR card
@@ -106,6 +124,12 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * Talk to me about the information you see here.
   * What does this mean to you?
   * What would you do next?
+  * What would you expect to see next?
+
+### Online payment
+
+* Let's say you want to make a payment for your balance instead.
+* What would you do next?
   * What would you expect to see next?
 * What are your thoughts about how you found this information?
 * Do you have any questions about this information?
