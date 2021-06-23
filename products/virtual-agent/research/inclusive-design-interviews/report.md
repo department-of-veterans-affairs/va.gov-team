@@ -17,7 +17,7 @@ We understand that a large percentage of Veterans live with disabilities, and th
 
 In particular we focused on the two issues classified as [508 Defect 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1) (i.e. the most severe, ‘must fix’ issue). These issues prevent product launch on VA.gov because they severely disrupt the user experience for those who use assistive technology.
 
-- [’Links in the chat log must be keyboard focusable’](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25156_
+- [’Links in the chat log must be keyboard focusable’](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25156)
 - [‘Links must be announced to screen readers as links’](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25160)
 
 We were also interested in goals of self service among Veterans, such as: 
