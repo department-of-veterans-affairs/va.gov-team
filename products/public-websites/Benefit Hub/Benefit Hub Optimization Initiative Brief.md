@@ -35,7 +35,10 @@ Focus Area: Benefit Hubs
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
      * This is occuring likely due to the context rich pages in the benefit hubs that are likely creating "content roadblocks" for Veterans to complete intented tasks. In addition to the large left hand navigational menu (mega menu) as it was proven that the smaller navigational menu is easier to navigate and provides a quicker path for users to interact with and follow.  
      * [Recent analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20210501&_u.date01=20210531&explorer-segmentExplorer.segmentId=analytics.pageGroup1&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1,useri0ZvPaPpQKyUHGrYCFPigw/) show most users navigate on the unauthenticated pages of VA.gov over those of the authenticated, likely due to the fact Veterans tend to focus on Tier 1 benefit actions when authenticated and not wayfinding and expect a clear path to benefit actions when authenticated.  
-     * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when it isn't in the "top 4" boxes. "A lot of things I can't find".  This is reflected in the following breakdown:
+     * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when it isn't in the "top 4" boxes. "A lot of things I can't find".  
+     * Website Navigational Orientation:
+      ![Screen Shot 2021-06-23 at 5 21 47 PM](https://user-images.githubusercontent.com/70410912/123179946-9a371600-d447-11eb-9308-5716d4f68a88.png)
+     * This is reflected in the following breakdown:
       ![Screen Shot 2021-06-21 at 1 11 48 PM](https://user-images.githubusercontent.com/70410912/122816053-78952d80-d293-11eb-8126-fb2fcd7dd2cf.png)
 
 
