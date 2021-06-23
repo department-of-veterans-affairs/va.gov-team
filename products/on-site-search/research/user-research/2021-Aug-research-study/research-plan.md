@@ -8,6 +8,8 @@ The purpose of this research is to get user feedback on new design concepts for 
 
 Research findings (including how many participants clicked on which links) will be used to recommend which of the above design concepts might be helpful to users going forward, before we do more design exploration. 
 
+In 3-6 months or after some or all of the design concepts have been launched, we should look at the analytics and assess the actual usage of the new links.
+
 ## Background
 User research findings from the VA.gov home page ([May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) and [
 Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as much as we hoped. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
@@ -34,11 +36,11 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 Page | Links Connected
 ------------------|--------------
 VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
-Search landing page | Search box (click to fill in), Find a form, Resources and Support, Find a VA Location
-Search results page | Find a form, Resources and Support, Find a VA Location
-Find a form page | Search box (click to fill in)
-Resources and Support page | Search box (click to fill in)
-Find a VA Location page | Search box (click to fill in)
+Search landing page | Search box (click to fill in), Find a form, Resources and Support, Find a VA Location, Home page
+Search results page | Find a form, Resources and Support, Find a VA Location, Home page
+Find a form page | Search box (click to fill in), Home page
+Resources and Support page | Search box (click to fill in), Home page
+Find a VA Location page | Search box (click to fill in), Home page
 (+ additional versions of Search landing page and Search results page--one for each search task below)
 
 ### Potential search tasks (that are not in the "top 4" boxes):
@@ -47,7 +49,7 @@ Find a VA Location page | Search box (click to fill in)
 3. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
 4. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
 
-We plan to show some unhelpful search results and see what participants do next.
+We plan to show some unhelpful search results and see what participants do next (from the page they're looking at or navigating back to the home page).
 
 ### To Do's:
 
