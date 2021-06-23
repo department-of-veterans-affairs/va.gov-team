@@ -1,4 +1,4 @@
-**Accelerated Publishing: Aggregated Research Session Report**
+## Accelerated Publishing: Aggregated Research Session Report
 
 [Project Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/accelerated_publishing)
 
