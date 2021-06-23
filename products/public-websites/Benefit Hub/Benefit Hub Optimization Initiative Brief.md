@@ -4,9 +4,9 @@
 
 The initial digital optimization of the benefit hubs was created in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  In the course of establishment a Content Managemenet System (CMS) was established and the benefit hubs were then migrarted into the CMS.  
 
-Then in 2020 we focused on building Tier 2 benefit-adjacent content elements such as Resources and Support and Campaign Landing Pages in order to help Veterans and other beneficiaries learn through self discovery, and support content for Veterans, family members, or other beneficiaries of VA benefits/services complete a Tier 1 benefit action. 
+Then in 2020 we focused on building Tier 2 benefit-adjacent content elements such as Resources and Support and Campaign Landing Pages in order to help Veterans and other beneficiaries learn through self discovery, and support content for Veterans, family members, or other beneficiaries of VA benefits/services in supporty of completing "Tier 1" benefit actions. 
 
-An oppurtunity now exists to revisit the benefit hubs and flatten IA and navigation in order to optimize the Veteran-facing experience on VA.gov with the intent to increase effectiveness of conversion paths of the benefit hubs. The goal will be to:
+An oppurtunity now exists to revisit the benefit hubs and flatten much needed IA and navigation in order to optimize the Veteran-facing experience on VA.gov with the intent to increase effectiveness of conversion paths of the benefit hubs. The goal will be to:
 
 Optimize user flows and conversion paths on benefit hub pages to:
   
