@@ -134,7 +134,7 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * What are your thoughts about how you found this information?
 * Do you have any questions about this information?
 
-Things to watch for:
+**Things to watch for:**
 
 * Do Veterans understand why there are several facilities/balances on the summary page?
 * Do Veterans understand the difference between the 'View bill' link and 'Resolve bill' button?
