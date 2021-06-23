@@ -21,6 +21,7 @@ Design System  | Form Signature component | Staging review | https://app.zenhub.
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> 
 eBenefits |COE | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/25223 <br> 
 Facilities | Vet Centers | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24857
+Health Care Experience | Check-in MVP | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/26344
 Search and Discovery team | Search UI consistency | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/26368
 Thoughtworks  | Virtual chatbot | Midpoint review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/23611 **and** https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24698<br>
 VAOS | Vaccine distribution | Staging review | https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/24101   
