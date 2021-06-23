@@ -30,11 +30,28 @@ Review help desk insights and VAMC / Vet Center known issues list.
 Vet Center 
 * Guidance and character counts for Featured content 
 
+Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
+
+
 ## June 23 
 
 * Review #5500 runbook for Leadership page URL changes 
+* MVP launches
+  * Vet Center directors have not been brought along in the process, and that's where we're stuck for 10 MVP users
+  * Colorado Springs and Springfield MA ready to go. 
 * District 5 pipeline for launches ... should we establish a regular cadence for review/launch/user account upgrades
-* User onboarding / CMS account policies, request fulfillment
+  * Week of July 12 kickoff meetings, where we District 5 users will be provided with
+    * content decks 
+    * help documentation (/help)
+    * help desk links
+    * Ongoing office hours
+    * Video trainings 
+  * Editors have 4 weeks to do training and content   
+  * Editors can let Vet Center CO know instead of CMS Help desk 
+    * Then Vet Center will review
+  * When Vet Center CO green lights content, they will trigger ability / permission for Facilities team to bulk publish content (Tuesdays)
+  * Then Facilities team will trigger CMS account upgrades for users whose content has been bulk published. 
+* Next district kickoff, district TBD, week of August 2.  
 
 ## June 16
 
