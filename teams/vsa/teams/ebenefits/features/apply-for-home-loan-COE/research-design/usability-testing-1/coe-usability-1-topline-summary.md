@@ -25,7 +25,8 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Participants and testing sessions
 
-We scheduled 12 sessions beginning X; the last session was conducted Y. Five of the 12 participants attended.
+We scheduled 12 sessions beginning Monday, June 14; the last session was conducted Monday, June 21. Five of the 12 participants attended.
+
 
 <!-- | Participant | Group | Gender | Age | Education | Ethnicity | Branch |
 | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -44,54 +45,24 @@ We scheduled 12 sessions beginning X; the last session was conducted Y. Five of 
 
 ## Initial findings (based on guiding questions)
 
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
+### Participants primarily looked to white quads, specifically “Get your VA medical records” to find COE tool.
+One user utilized search, one used mega menu
+Only 2 users found the COE landing page
 
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
+### Users see and complete sign in before seeing other useful information
+All 5 users signed in before seeing the map or reading the Auto COE blurb
+1 of 5 users scrolled down to the bottom of the page, but only noted the estimated time to complete as useful after prompting
 
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
+### All users understood what was happening, even if they didn’t understand where they were. 
+1 of 5 participants understood the auto COE screen to be a different page
+4 of 5 found the download link
+3 users said they would print their COE and 2 said they would also save it and email it to their lender
 
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
+### Users were able to find the “make changes” link, but it was not clear to all users that they needed to reapply to make those changes.
+4 of 5 users found the “make changes” link
+3 of those 4 realized they’d linked back to the form
+1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
+`quote from first user`
+`quote from last user`
 
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
-
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
-
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras??
-- Lorem
-- Ipsum
-- Dolor
-
-### Question Lorem ipsum dolor sit amet censequetor unum morbidium lapras?
-- Lorem
-- Ipsum
-- Dolor
-
-## Additional insights
-- Lorem
-- Ipsum
-- Dolor
-
-## Next steps
-- Lorem
-- Ipsum
-- Dolor
-
----
+### Users navigated through the form with few issues. Loan intent and document uploads were the two panels that slowed users down.
