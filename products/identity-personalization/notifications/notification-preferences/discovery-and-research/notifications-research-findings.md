@@ -1,11 +1,11 @@
 # Profile Notification Settings Research Findings
-`DRAFT`
+`draft`
 
 VSA, Authenticated Experience
 
 Liz Lantz (liz.lantz@adhocteam.us), 06/24/2021
 
-View the research plan and conversation guide.
+View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md).
 
 ## Research Goals
 
@@ -103,9 +103,3 @@ Leaving the notification settings page to add an email address left caused confu
 
 > It seems kind of dumb, if you just put it [email address] in there down below. It's kind of a conflict because it's saying you have to go there [[ID.me](http://id.me/)] to udpate your email address, but you've already got it down there. Maybe I'm missing a big point...If you're dealing with someone that has issues, mental, physical, this could really put a cog in the wheel - P6
 
-
-
-## Working space
-
-- People didn't struggle with missing/partial contact information, other than 2 participants commented it was odd that there wasn't a contact email address on file if they used an email to log in
-- Most participants expected or wanted to be
