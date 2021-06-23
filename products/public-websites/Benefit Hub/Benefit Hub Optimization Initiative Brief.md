@@ -135,10 +135,10 @@ Focus Area: Benefit Hubs
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Public Websites 
+- GitHub Label(s): VSA-Public-Websites 
+- Slack channel: #vsa-public-wesbites
+- Product POCs: John Hashimoto (PO), Brian Lloyd (PM)
 
 </details>
 
@@ -148,8 +148,8 @@ Focus Area: Benefit Hubs
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: TBD
+- Contact(s): TBD
  
 </details>
 
