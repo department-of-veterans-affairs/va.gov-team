@@ -110,7 +110,7 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
   * What would you expect to see once you click that link?
 * Is there anything missing from this page that you would expect to see?
 
-### What would you do next if you weren't able to pay this bill?
+What would you do next if you weren't able to pay this bill?
 
 ### Wizard
 
@@ -119,14 +119,14 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * Let's say you want to request financial help for your balance at James A. Haley Veterans' Hospital. 
   * What would you do next?
 
-### FSR card
+#### FSR card
 
 * Talk to me about the information you see here.
   * What does this mean to you?
   * What would you do next?
   * What would you expect to see next?
 
-### Online payment
+#### Online payment
 
 * Let's say you want to make a payment for your balance instead.
 * What would you do next?
@@ -134,7 +134,8 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * What are your thoughts about how you found this information?
 * Do you have any questions about this information?
 
-**Things to watch for:**
+----
+Things to watch for:
 
 * Do Veterans understand why there are several facilities/balances on the summary page?
 * Do Veterans understand the difference between the 'View bill' link and 'Resolve bill' button?
@@ -142,6 +143,7 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * Are Veterans able to accurately interpret their charges?
 * Do Veterans know what their options are for resolving the debt?
 * Are Veterans able to easily navigate through the wizard?
+----
 
 ## Post-Task Interview - 3 minutes
 
