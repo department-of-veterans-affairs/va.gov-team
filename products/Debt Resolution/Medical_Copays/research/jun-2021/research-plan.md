@@ -160,7 +160,7 @@ June 21
 ## Resources
 
 * Project Brief: Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here
-* [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/conversation-guide.md)
+* [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/jun-2021/conversation-guide.md)
 * Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 * Lessons Learned: Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 * Read-Out/Results
