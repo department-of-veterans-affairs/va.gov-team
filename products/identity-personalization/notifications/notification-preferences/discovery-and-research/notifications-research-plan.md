@@ -1,167 +1,112 @@
-# Research Plan for Authenticated Experience, Notification Settings, June 2021
+# Profile Notification Settings Research Findings
 
-## Goals	
+`DRAFT`
 
-### What product & team are you doing this research for?	
+VSA, Authenticated Experience
 
-Profile notification settings, Authenticated Experience
+Liz Lantz (liz.lantz@adhocteam.us), 06/24/2021
 
-### Background 	
+View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md).
 
-The VA is ramping up their digital communications efforts, specifically through email and text. As a result, Veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.
+## Research Goals
 
-See our [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for more details.
+## Research Methodolgy
 
-### Questions we hope to be able to answer through this research
+### Who we talked to
 
-1. What expectations do Veterans have about managing notifications?
-2. What kind of notifications do Veterans expect to be able to receive from the VA?
-3. What words do Veterans use to talk about or search for notification content?
-4. How do Veterans expect to be able to discover notifications they're not currently opted in to?
-5. Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
-6. Are we providing sufficient contextual information through group and notification names?
-7. Do Veterans expect to be able to update their contact info right here on the page?
-8. If a Veteran has partial contact info (missing a phone or email from their profile), do they understand how to make updates so they can get notifications to that channel?
-9. Does a Veteran with partial contact info they understand email/text is also available when they don't have a checkbox to click?
-10. Do they know how to get back to notification settings once they add info?
-11. What kind of static content support makes sense for this section of profile?
+## Research questions
 
-We're also working on improvements to our user experience for removing contact information, so we'll include one question about that to evaluate during the final task in our sessions:
+## Key findings
 
-Do Veterans experience any usability hurdles when removing contact information from their profile?
+### It was not intuitive for most participants to look in profile to manage notification settings.
 
-### Our hypothesis for this research study
+Our first task asked participants where they would go to either set up or turn off notifications.  6 of 8 participants did not go to the profile; rather they looked on the homepage under various sections such as health care and records.  We prompted them if there is anywhere else they would look; many said they would use search and type in something about text messages or notifications.  
 
-- Veterans will expect to be able to manage notifications from their profile.
-- Veterans expect to be able to discover notifications they're not opted into via channels outside their profile - VAMC/call center interactions, campaigns, etc.
-- Our solution will allow Veterans to intuitively manage their notification settings.
-- The group and notification names will be easily understood.
-- Our content and design will help Veterans understand why they can only manage notifications for the contact information they have on file.
-- Having to go to the contact info section to update email or phone number will not be ideal, but it will be acceptable.
-- Veterans will know how to get back to notification settings after updating their contact information.
-- Veterans will be able to intuitively remove contact information without experiencing major usability hurdles.
+> Probably under health care. I would say under refill and track your prescriptions. or, I guess, the other thing I could do if I didn't find it there, I'd probably go up into the search block. - P3
 
-## Method	
+> I might go up to the search function at the top of the page and type something in there to look for text messages or communications with the VA. - P9
 
-### What method of research are you planning? 	
+Once exposed to the profile menu options (My VA, My Health, Profile), most participants stated they would expect to find notification settings under My VA.
 
-This will be a 30-45 minute remote moderated usability test with a high-fidelity prototype.	
+> "I would probably go to My VA and hopefully have another drop down for whatever MY VA would be- might give options for text or options to update profile or whatever the case may be" - P6
 
-### Why this method?
+### Participants clearly understood notification groups, but had less confidence in individual notifications.
 
-A remote study will allow us to test with participants around the country. Testing with a high-fidelity prototype will provide insights to our research questions before investing time in engineering.  We'll start people a screen with partial contact information to help us evaluate our overall design, and help us understand:
+- All participants correctly understood the notification groups
 
-- If our solution for partial contact info works for Veterans 
-- If Veterans expect to be able to edit/update contact information right on the page
-- If Veterans can get back to notification settings after they've updated their contact information
+- People seemed less sure about notification names and made comments that suggest their expectations don't align with what we're planning (need to dig into this)
 
-### Where are you planning to do your research? 
+  - Scheduled payments. A couple participants didn't see the value in this notification since it wasn't something that changed often.
 
-Zoom
+    > Not sure what benefit payments and debts are here. Education benefits? - P16
 
-### What will you be testing?
+    > I don't know why that would exist because it is not something that changes often. - P10
 
-We'll test with a [UXPin prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i).
+  - Applications in progress (I think one participant misunderstood this)
 
-## Participants and Recruitment	
+  - Prescription shipment and tracking updates
 
-Please schedule 12 participants for 8 fulfilled sessions using the below criteria. Once we hit 8 sessions, we will cancel the remaining participants.
+    - People had a hard time associating this with the first task when we said "updates on your medications"
+    - One participant thought they'd be able to update their shipping address here if it was incorrect
+    - Another participant thought they'd see tracking numbers here
 
-### Must have for participants
+### Participants clearly understood they needed to add contact information before they can receive notifications through that channel.
 
-- All participants must: 
-  - be Veterans
-  - have logged into VA.gov **and** used text messaging in the last 6 months. 
-  - be able to participate from a laptop/desktop device
+We wanted to validate our approach to communicating that a person has missing contact information on file, and must provide that information to receive notifications via that channel.  100% of participants clearly understood the messaging throughout the notification settings page telling them they needed to provide missing contact information to get notifications there.
 
-#### Additional questions to ask in the screener
+### Participants experienced usability hurdles when updating their contact information outside the notification settings page.
 
-- Have you used text messaging on a mobile phone in the last 6 months? *Answer should be yes.*	
-- Have you logged into VA.gov in the last 6 months? *Answer should be yes.*
+In [task 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md#task-4-update-contact-information-and-sign-up-for-email-notifications---8-minutes), we asked participants to sign up for email notifications, which required them to add an email address on the personal and contact information page of our prototype. After going through the task, 6 of 8 participants  stated it would be easier for them if they were able to add the email on the notification settings page.
 
-### Good to have for participants
+> "It's a lot of button clicking and hunting to put your information in to get that piece of information sent to you. It would've been better if once you click on the edit button, and type your email address in right there, and click add." - P11
 
-- At least 3 women
-- At least half of the participants identify as a person of color
-- At least 2 participants under 30 and 2 participants over 55
-- At least one person that does not have a college degree (to include enlisted Vets)
-- At least one person that has a college degree (to include officer Vets)
-- At least one person who lives in a rural or remote area
-- At least one person who lives in a major metropolitan area
-- At least one person with a disability rating of 70% or greater
-- At least one person with an identified cognitive consideration of PTSD or TBI
+Leaving the notification settings page to add an email address left caused confusion and a lack of confidence that the task had been completed:
 
-### Recruitment requirements
+- 2 participants thought they had completed the email sign up task simply by adding their email address.
 
-- All must have a laptop/desktop device and be willing to be complete their interview on said device
-- The participants have Zoom downloaded prior to the session
-- The participants know how to screen share
-- Note that our prototype isn't compatible with assistive technology
+  > "I clicked on the edit for the contact email address and now here I would put my email and press update. I should start receiving updates via email. And now my new email is up and I think that's it." -P2
 
-### What is your recruitment strategy? 	
+  > "Your contact email address is showing, and that box is not empty no more, so I would assume it's done." - P14
 
-We will leverage Perigean's services to recruit participants.
+- 2 participants were totally unsure whether or not they had completed the sign-up process
 
-## Timeline
+  > "I have not a clue. Because all you've done is added your email, you don't know whether the notifications are coming or not" - P11
 
-#### Desired Timeline: June 14-16, 2021 
+- 4 participants felt there was too much back and forth going between notification settings and the personal and contact information page.
 
-45 minute sessions<br/>
-**Schedule at least 15 minute breaks in-between sessions.**
+  > "It was confusing going back and forth between the contact section." - P3
 
-| Team Availability | Time (EST) |
-| ----------------- | ---------- |
-| June 14, 2021     | 9am-7pm    |
-| June 15, 2021     | 9am-7pm    |
-| June 16, 2021     | 9am-7pm    |
+### Some participants struggled to understand which notifications were turned on or off, and which channel notifications were coming to.
 
-#### Pilot Session  
+### Participants assumed all notifications would be available through email and text, and couldn't guess confidently as to why a notification may only be available through one channel.
 
-| Team Availability | Time (EST)                |
-| ----------------- | ------------------------- |
-| June 10, 2021     | 11:30am-1:30pm, or  2-3pm |
-| June 11, 2021     | 4-5pm                     |
+> The VA just didn't make it an option on the website. I don't know why not. It seems like if they can do prescriptions and you get text or email option, you should probably get a text or email option on appointment reminder. - P11
 
-## Team Roles	
+### Multiple participants would turn off all notifications by manipulating their phone number or calling the VA, instead of managing them at the notification settings level.
 
-Please list the people who will be serving in each role. 
+### Many participants are already getting notification from the VA.
 
-- Moderators:	Christian Valla (cvalla@governmentcio.com) and Liz Lantz 
-  - Christian is on the west coast, so he would facilitate any sessions that start after 5pm eastern. 
-  - Liz will facilitate any sessions before 11am eastern.
-  - Any sessions between 11-5, we'll figure it out amongst ourselves. We will each moderate 4 sessions.
-  - Liz is not available after 5pm eastern, so please do not schedule more than 4 sessions after 5pm.
-- Research guide writing and task development:	Liz Lantz
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-- Participant(s) for pilot test
-  - Taylor Mitchell - tmitchell@governmentcio.com
-  - Please send pilot invite to Christian Valla as well.
-- Note-takers: Internal; will send emails via Slack once they are recruited.
-- Observers:	
-  - Samara Strauss - samara.strauss@va.gov
-  - Beverly Nelson - beverly.nelson@va.gov 
-  - Ana Jakabcin - ana@adhocteam.us
-  - Erik Hansen - erik@adhocteam.us
-  - Lihan Li- lihan@adhocteam.us
-  - Taylor Mitchell - tmitchell@governmentcio.com
-  - Tressa Furner - tressa.furner@adhocteam.us
-  - Maria Becker - Maria.becker@thoughtworks.com
-  - Todd Stanich - todd.stanich@thoughtworks.com
-  - Paras Shah - paras@docme360.com
-  - Terry Bazemore - tbazemore@meetveracity.com
-
-**Please include the following information in the calendar invite for observers:**
-
-> Please plan on joining the session *prior* to the scheduled start time.  After the session begins, the moderator may not be able to admit observers.  When you join, please keep your camera off, your microphone muted, and change your name to "observer".  If you have questions during the session, please post them in #feedback-backchannel on Slack.
+### Our design doesn't make notification channel options clear.
 
 
 
-## Resources	
+## Additional findings
 
-- [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) 	
-- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
-- [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
-- Synthesis - to come
-- Lessons Learned - to come
-- Read-Out/Results - to come
+### Participants had mixed feelings about the profile name tag.
+
+>I like the profile banner with basic information (with the name, branch) I would tell you there are people that served in multiple branches. VA tends to function on the last one you separated from, that's the one they think of you as. But there may be someone that served in 2-3 branches. It's not very often that that happens, but just having on the back-end, an option where multiple branches could be included or where they chose their primary branch. - P10
+
+> Like if someone wanted a copy of my letter stating I'm 100% disabled vet, I could just click on that. You know, log into VA.gov, go to my profile, click on that, and my letters would automatically pop up instead of going through everything I've had to go through in the past.- P16
+
+### Participants were confused about the distinction between their sign-in and contact email address.
+
+> "I was trying to see something about COVID, and I didn't see it but then I remembered I clicked on email. So, I guess I have to be verified. Now that's a lot of work. Y'all are going to make me go to another website." - P2
+
+> It seems kind of dumb, if you just put it [email address] in there down below. It's kind of a conflict because it's saying you have to go there [[ID.me](http://id.me/)] to udpate your email address, but you've already got it down there. Maybe I'm missing a big point...If you're dealing with someone that has issues, mental, physical, this could really put a cog in the wheel - P6
+
+
+
+## Working space
+
+- People didn't struggle with missing/partial contact information, other than 2 participants commented it was odd that there wasn't a contact email address on file if they used an email to log in
+- Most participants expected or wanted to be
