@@ -1,4 +1,4 @@
-# Research Plan for Virtual Agent, 5/17/2021
+# Virtual Agent Controlled Study Research Plan, 5/17/2021
 
 As a researcher I want to create a research plan so Perigean can recruit the correct users for our research study.	
 
