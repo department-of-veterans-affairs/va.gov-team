@@ -77,26 +77,16 @@ We identified a set of hypotheses we wanted to validate or refute using data whi
 
 Group | Segment and number of participants
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-Content from cell 1 | Content from cell 2
-
-
-
-
-
-
-
-
-
-
+Veterans | Segment #1: 10 participants who are female Veterans across age brackets and conflicts/periods of service - Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.  We were able to recruit 10 out of 10 of this segment.
+Veterans | Segment #2: 10 participants who are male Veterans  across age brackets and conflicts/periods of service - Korean Conflict, Vietnam Era, Persian Gulf, Afghanistan, Iraq.  We were able to recruit 9 out of 10 of this segment.
+Non-Veteran | Segment #3: 10 participants who are people close to Veterans - female caretakers, male caretakers or family members (i.e. dependents).  We were able to recruit 7 out of 10 of this segment.
+Usage related | Segment #4: 10 participants who are new to va.gov (2 years or less)  We were able to recruit 3 out of 10 of this segment.
+Usage related | Segment #5: 10 participants who are casual, infrequent users of va.gov (once a year).  We were able to recruit 8 out of 10 of this segment.
+Usage related | Segment #6: 10 participants who are frequent users (dependent on claims etc. or who visit va.gov daily or weekly). We were able to recruit 7 out of 10 of this segment.
+Location | Segment #7: 10 participants who live in urban centers. We were able to recruit 1 out of 10 of this segment.
+Location | Segment #8: 10 participants who live in suburban or rural areas.  We were unable to recruit for this segment.
+Marginalized populations | Segment #9: 10 participants who identify as LGBTQ+.  We were able to recruit 1 out of 10 of this segment.
+Marginalized populations| Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service). We were unable to recruit for this segment.
 
 ## Key Findings
 
