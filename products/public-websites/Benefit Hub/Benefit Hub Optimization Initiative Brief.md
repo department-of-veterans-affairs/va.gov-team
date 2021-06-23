@@ -65,9 +65,9 @@ Focus Area: Benefit Hubs
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Increase benefit conversion rates for Veterans applying for benefits via unauth benefit hubs
-- Reduced bounce rate (+5%) for the proposed benefit hub to conversion path to tier 1 benefit action i.e. spoke action
-- Increase satisfaction score by 15% -- via Medallia for the proposed va.gov/benefithubs score listing
+- Service Completion: Increase benefit conversion rates for Veterans applying for benefits via unauth benefit hubs
+- Ease of use: Reduced bounce rate (+5%) for the proposed benefit hub to conversion path to tier 1 benefit action i.e. spoke action
+- Trust/Satisfaction: Increase satisfaction score by 15% -- via Medallia for the proposed va.gov/benefithubs score listing
  
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
