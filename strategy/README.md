@@ -38,7 +38,6 @@ Every Veteran is guaranteed access to self service benefits and accurate data.
 - **Benefit value (in $) delivered from online applications or transactions**
   - Dollar amount associated with benefits applied for via VA.gov products
   - Alternative: dollar amount distributed via direct deposit on VA.gov
-  - 
 ### Decrease 📉
 - **Call center volume, wait time, and time to resolution**
 - **Time from online benefit discovery to benefit delivery**
