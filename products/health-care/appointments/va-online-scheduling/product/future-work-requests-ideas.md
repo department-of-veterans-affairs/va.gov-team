@@ -56,3 +56,14 @@ When Veterans are scheduling an appointment, I want to Veteran to schedule with 
 
 ---
 
+<details>
+  <summary><b>Veteran Delegation</b></summary>
+  
+  Captured from <a href="https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/7955">7955</a>
+  
+  ## High Level User Story / Problem / Opportunity
+Allow Caregivers to act on behalf of the Veteran for scheduling; MHV plans to have this working in Production June 2020
+  
+</details>
+
+---
