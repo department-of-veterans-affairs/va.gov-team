@@ -100,7 +100,10 @@ Focus Area: Benefit Hubs
 - Kickoff ticket
 
 ### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
+|Date| Decision |
+|--|--|
+| TBD |  John Hashimoto to review initiatives briefing and validate |
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
