@@ -25,7 +25,8 @@
 
 * Schedule for go-live and runbook
 * Guidance for placing detail pages between and now and #4988 merge, and fixing existing ones. 
-
+* Upcoming, temporary content freeze on creating new Leadership List pages. 
+ 
 ## June 18
 * VAMC editor that created a bad table, plan to handle when someone goes off the rails. slack thread [**here**](https://dsva.slack.com/archives/CPQFCQKEH/p1623686219343000)
 * Bulk publishing bub "Page not found"
