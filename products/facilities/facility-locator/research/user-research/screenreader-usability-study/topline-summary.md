@@ -64,14 +64,16 @@ Due to technical issues, not all participants were able to share their typical o
  > P2: "You know... when I go to a new page... it takes me maybe 10 or 15 minutes to get familiar with the page and what's on it ok? I like to experience all the elements on the page... you know... how many checkboxes there are... how many headings, how many radio buttons... I like to go through that. So I just get an idea on what that page is about."
 
 
-### Searching for location information online 
+### Searching for location information online and on VA.gov
 
-- Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. 
-  - Participants use Google, Siri/safari, Bing, DuckDuckGo
-- 4 Veterans had a hard time finding Facility Locator
-- 4 participants were able to easily complete a search on Facility Locator
-- When a search produces no results, screen reader users are not alerted which is confusing.
-- 4 Veterans used global search to find a location or dermatologist
-- "Get directions" was not audible or decipherable with JAWS screenreader for 3 participants
-- Phone numbers that lack labels can confuse screenreader users. One participant interpreted a phone number as GPS coordinates becasue it was read directly following "Get directions".
-- One screen reader user 
+1. Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. 
+  - Participants use Google, Siri/safari, Bing, DuckDuckGo.
+2. 4 Veterans had a hard time finding Facility Locator.
+3. 4 participants were able to easily complete a search on Facility Locator.
+4. 3 Veterans used the 'use my location' but some Veterans were hesitant, one mentioning "big brother".
+5. When a search produces no results, screen reader users are not alerted which is confusing.
+6. 4 Veterans used global search to find a location or dermatologist. Some participants didn't think to look for healthcare in a location finder.
+7. "Get directions" was not audible or decipherable for (3) JAWS screenreader users. 
+8. Phone numbers that lack labels can confuse screenreader users. One participant interpreted a phone number as GPS coordinates becasue it was read directly following "Get directions".
+9. Results listing letter and mileage combination was confusing for one user. User hears "A1.5 heading level 3 Memphis Vah Medical Center" not understanding that it was the first listing and is 1.5 miles away from the searched location.  
+10. Map view was hidden for most users and not tested with screenreaders 
