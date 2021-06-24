@@ -2,6 +2,9 @@
 
 #### Shane Strassberg and Rachel M. Murray, [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/controlled-study/controlled-study-research-plan.md)
 
+Please note this is a DRAFT version and is not yet finialized.
+
+
 ## Introduction
 
 A well-developed and maintained virtual agent will help users solve problems and complete tasks on their own with little to no human involvement at any time of day. Ultimately, the problem we want to solve with our virtual agent is to help the Veteran self-serve and find information more easily as part of a larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information.  Because of the amount of content that is available and needs to be rewritten in conversational format for the chatbot, we want to target starting with smaller targeted content. A proof of value (POV) was created with a preliminary set of features and content; this report details the feedback on that product.
@@ -9,7 +12,7 @@ A well-developed and maintained virtual agent will help users solve problems and
 
 ## Research Goals
 
-We established a number of goals around the product and how people used it. There are many ways of understanding the success of a product, but for this research study we wanted to learn how the chatbot performed and how it was ‘seen’ as being able to perform, since accuracy shapes how people trust a product. We also wanted to examine trust as tied to how personality can reinforce trust, and how all of these affected the larger brand relationship participants have with the VA support channels - the ultimate goal to understand if participants would use the chatbot again.
+We established a number of goals around the product and how people used it. There are many ways of understanding the success of a product, but for this research study we wanted to learn how the chatbot performed and how it was‘seen’ as being able to perform, since accuracy shapes how people trust a product. We also wanted to examine trust as tied to how personality can reinforce trust, and how all of these affected the larger brand relationship participants have with the VA support channels - the ultimate goal to understand if participants would use the chatbot again.
 
 The goals of this study included:
 
@@ -29,16 +32,14 @@ Understand if participants are willing to use the chatbot again
 
 ## Research Methodology
 
-We launched with an unmoderated controlled study of 50 participants and were able to recruit 46 in total.  Participants were invited by Perigean to participate in the research study by email and have a number of research repositories that captured the data. 
+We launched with an unmoderated controlled study of 50 participants and were able to recruit 44 in total.  Participants were invited by Perigean to participate in the research study by email and have a number of research repositories that captured the data. 
 
 - Participants were sent a link to the chatbot on Staging.va.gov and were able to engage with it. These are the ‘chatbot log transcripts’ which are reflected in the Metrics, and show the types of questions and interactions with the product.
 - Participants were also sent a link to a questionnaire on Optimal Workshop. This included both quantitative questions where people were asked to rate their opinion from a preselected set of options, and qualitative questions where people were asked to provide written feedback.
 
 ## Hypotheses 
 
-TBD
-
-We identified a set of hypotheses we wanted to validate or refute using data which were tied to our goals
+We identified a set of hypotheses which were in response to our goals, and identified data that would validate or refute them.
 
 - A: Accuracy:
   - We will see a high number of questions that the bot has not yet been trained to answer. 
@@ -51,9 +52,9 @@ We identified a set of hypotheses we wanted to validate or refute using data whi
 - C: Personality:
   - Veterans will want a more professional tone than a more ‘friendly’ personable tone.
 
+- D: Product usage:
 
-(more to come)
-
+************TO UPDATE**********
 
 
 ## Participants
@@ -61,19 +62,42 @@ We identified a set of hypotheses we wanted to validate or refute using data whi
 * Role
    * x Veterans
    * x Veteran family or caregivers
-* Gender: 
-   *  women
-   *  men
-* Geographically diverse: 
-   *  
-* Age range
-   *  participant  25-34
-   *  participants 35 - 44
-   *  participants 45 - 54
-   *  participant 55-65
-   *  participant over 65
-   *  participant no age stated
 
+* Age: 
+   * 18-24: 1
+   * 25-34: 6
+   * 35 - 44: 8
+   * 45 - 54: 12
+   * 55-64: 6
+   * over 65: 8
+   * participant no age stated: 3
+
+* Education:
+   * High school diploma or equivalent (ex: GED): 2
+   * Some college (no degree): 16
+   * Associate’s degree / trade certificate / vocational training: 6
+   * Bachelors: 12
+   * Graduate degree (Masters, PhD): 7
+   * Blank: 1
+
+* Gender:  
+   * Women: 19
+   * Men: 24
+   * Transgender: 1
+
+* Location:
+   * AK, AR, CA, CO, FL, GA, HI, ID, IN, MD, MI, MN, NC, NY, PA, PR, SC, TN, TX, UT, VA, WY
+
+* Race:
+   * American Indian or Alaska Native: 1
+   * Asian: 2
+   * Black or African American: 3
+   * Hispanic, Latino, or Spanish origin: 2
+   * White or Caucasian: 31
+   * Other: 1
+   * Prefer not to answer / blank: 4
+
+We divided participants into 10 segments, with a goal of 10 participants in each:
 
 Group | Segment and number of participants
 ------------ | -------------
@@ -88,7 +112,7 @@ Location | Segment #8: 10 participants who live in suburban or rural areas.  We 
 Marginalized populations | Segment #9: 10 participants who identify as LGBTQ+.  We were able to recruit 1 out of 10 of this segment.
 Marginalized populations| Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service). We were unable to recruit for this segment.
 
-## Key Findings
+## Key Findings TO UPDATE
 
 
 1. Point
@@ -96,28 +120,29 @@ Marginalized populations| Segment #10: 10 participants who are experiencing econ
    * indented
 
 
-## Details of Findings
+## Details of Findings  TO UPDATE
 
 TBD
 
-## Metrics
+## Metrics  TO UPDATE
 
-TBD  (table)
+one | two
+------------ | -------------
+one | two
 
-## Additional Insights
+## Additional Insights  TO UPDATE
 
 TBD
 
 
-## Future research areas
+## Future research areas  TO UPDATE
 
 TBD
 
 
 ## Next Steps
 
-* TBD
-
+Please see the final report for the Virtual Agent project for next steps, including actions to be taken for the product roadmap and additional research areas.
 
 ## Appendix
 
