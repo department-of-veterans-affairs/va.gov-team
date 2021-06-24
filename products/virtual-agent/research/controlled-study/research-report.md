@@ -222,20 +222,52 @@ D: Product usage
 
   - We hypothesized that caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
 
+TO UPDATE
 
 
-*quote*
+  - We also hypothesized that Veterans will want the chatbot to transfer their conversation directly to a human agent.  
 
+  - While the majority of participants aren’t in frequent direct communication with the VA (i.e. either monthly or yearly experiences with a help desk/contact center) the problems they contact the VA about could be addressed using a chatbot, and would reduce pain points such as long wait times for commonly asked questions.
+
+*“It can help if I have quick questions rather than going through the automated phone tool to get the answer I'm looking for. Plus, it can help if I have questions at hours that the VA is not available.” (Segment 3, Participant 9)*
+
+*“The bot can answer most questions, but very targeted or individualized questions may still require a human” (Segment 4, Participant 3)*
+
+  - In question 9 (“How often do you speak with a VA help desk/contact center to help you resolve an issue”) the majority of users speak infrequently (32% or 14 out of 44 participants speak yearly, 40% or 18 out of 44 speak every few months and 23% (10 out of 44) speak monthly.
+
+  - In question 10 (“What were some of the reasons you have called a VA help desk/contact center in the past”), the top three reasons participants were contacting was about appointments (scheduling, rescheduling, finding them), financial, debt, benefits or the GI Bill related issues, and a variety of other issues. 
+
+*An example of ‘other issues’ included this example: “I have been having alot of trouble finding out my VA’s lab hours and telephone number. It's nowhere on the Fayetteville, NC Ramsey street locations website and it takes forever to get someone on the phone. No one will give me the number” (Segment 1, Participant 6)*
+
+- In question 11 (“How can a chatbot help you reduce how often you call the VA?”) participants mentioned how a chatbot will help to reduce the wait time to speak to an agent at a call center, and how a chatbot would provide better access to resources - in this case direct access (i.e. without having to look on va.gov) and accurate resources.  
+
+*“It can help if I have quick questions rather than going through the automated phone tool to get the answer I'm looking for. Plus, it can help if I have questions at hours that the VA is not available” (Segment 3, Participant 9)*
+
+*“I think a chatbox would be extremely useful, I hate calling the VA” (Segment 1, Participant 3)*
+
+*“I believe the the chat box tool has great potential to answer my questions and reduce my time holding for a VA representative to answer my questions” (Segment 5, Participant 4)*
+
+- Overall, users indicated a willingness to not only try the chatbot, but to use it again, and seemed excited about the product, how it could evolve and how it might help them and the VA.
+
+  -In question 12 (“Based on your experience today, are you willing to use the chatbot again?”) 86% (38 out of 44) responded that they would be willing to use the chatbot again
+  
+  - In question 13 (“Do you have any other feedback you'd like to share?”) participants described what they felt worked and didn’t work with the current product and how the use of it would help both users as well as the VA, and in particular help ensure those with urgent needs were helped more quickly because of this channel.
+
+*“I thought this was an excellent experience for those of us with disabilities that can use the chatbot to find links to our questions” (Segment 1, Participant 1)*
+
+*“Even though I said I prefer talking with a live person I would try using the chat box in the future if it was something I didn't feel was urgent to allow the persons to help others with urgent need”. (Segment 2, Participant 3)*
+
+*“Once the chatbot is loaded with more information I can see it will be a big help to the veterans and the VA” (Segment 4, Participant 2)*
+  
 ## Metrics  TO UPDATE
 
 one | two
 ------------ | -------------
 one | two
 
-## Results of Hypotheses
+## Results of Hypotheses TO UPDATE
 
 TBD
-
 
 ## Next Steps
 
@@ -251,5 +283,3 @@ n/a
 
 ### Pages and applications used
 Pages tested: https://staging.va.gov/virtual-agent-study/ 
-
-
