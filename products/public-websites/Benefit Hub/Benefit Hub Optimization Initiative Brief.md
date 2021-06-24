@@ -86,9 +86,6 @@ Focus Area: Benefit Hubs
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
   - This optimization will apply some much needed streamlining for navigational strategies along with user flow and conversion paths as related to the benefit hubs. Risk/constraint to consideer will be ensuring no disruptions to the current veteran expereince in applying for benefit actions (servicability needs to remain stead and active).  A secondary contraint will be to ensure user flow and conversion paths are fully tested with Veterans through exstensive user testing to ensure optimization of pathways and flows meet desired outcomes. 
 
-### Hypotheses & Prioritization
-> *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-
 ### Solution Scope
 **In Scope**
 - Home Page (Top 4 funnel)
