@@ -71,7 +71,7 @@ Due to technical issues, not all participants were able to share their typical o
 
 ### Searching for location information online and on VA.gov
 
-1. Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. (Participants use Google, Siri/safari, Bing, DuckDuckGo)
+1. Veterans are more likely to rely on VA location information provided by search engine results than seek out this type of information on VA.gov. (Participants use Google, Siri/safari, Bing, DuckDuckGo)
 2. 4 Veterans had a hard time finding Facility Locator.
 3. 4 participants were able to complete a search on Facility Locator with relative ease. However, even those who were able to complete a search successfully expressed dissatisfaction with the experience. Some were unsure of what the different facility types meant and others struggled with the usability of the 'Service type' combo box on desktop and mobile. 
   - [P2 - after doing a facility search task with no results] _"It asked for 3 different types of requirements but when I checked it out, it said there were none in my location because I put the wrong requirements in for it.. Although there is a clinic here. I put the wrong definition in for the medical center because it's only a clinic... yea... I don't know the definition of what those boxes mean... I don't know what I checked on. I thought I checked the right ones. Obviously, I had the wrong definition of whatever those words were."_ 
