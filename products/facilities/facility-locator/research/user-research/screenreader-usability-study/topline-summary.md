@@ -15,7 +15,7 @@ This topline summary is a high level, top-of-mind summary of trends observed in 
 ## Introduction
 The purpose of this research is to establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices. Understanding how Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, try to complete facility search tasks will help us plan future product improvements so that all Veterans can easily perform a search and consume results.
 
-In this research study, participants were asked to describe how they use their assistive technology to search for location information online. They were also asked to perform three facility search tasks to guage high level usability of the tools while using assistive technology.
+In this research study, participants were asked to describe how they use their assistive technology to search for location information online. They were also asked to perform three facility search tasks to gauge high level usability of the tools while using assistive technology.
 
  - Find your nearest VA
  - Find a dermatologist a dermatologist at your nearest VA
@@ -23,7 +23,7 @@ In this research study, participants were asked to describe how they use their a
 
 
 ## Participants
-We talked to **7 Veterans**, if differing levels of vision, each of whom used a unique combination of devices and assistive technology and displayed varying degrees of experience using their assistive technologies. 
+We talked to **7 Veterans**, of differing levels of vision, each of whom used a unique combination of devices and assistive technology and displayed varying degrees of experience using their assistive technologies. 
 
 P# | LEVEL OF VISION | DEVICE | ASSISTIVE TECHNOLOGY | EXPERIENCE LEVEL
 ---|---------------------|--------------|------------------|------------
@@ -39,7 +39,7 @@ Due to technical issues, not all participants were able to share their typical o
 
  - § Audio not shared during testing
  - † Video not shared during testing
- - ¶ Other assitive tech not observable during testing
+ - ¶ Other assistive tech not observable during testing
 
 ## Initial Findings
 
@@ -48,20 +48,20 @@ Due to technical issues, not all participants were able to share their typical o
 - Veterans with low to no vision use many different types of assistive technologies for navigating websites and the information that they encounter on them. What they choose to use and how they use it can vary widely and spontaneously depending on their context and/or immediate situation.
 
   - P1: Navigates quickly through pages with JAWS and may miss key content that isn't optimized for screen readers, e.g. 'skip to content' on VA.gov. 
-  - P4: Post retirement diagnosis of Dyslexia means college graduation and endless bookists that can be tackled audibly on iPhone/iPad. Heavy reliance on dictation (spelling is challenging) with mic fearure on OS. Easier than Dragon. Now Siri.  _"I finally started using Siri, my grandson taught me this."_
+  - P4: Post retirement diagnosis of Dyslexia means college graduation and endless bookists that can be tackled audibly on iPhone/iPad. Heavy reliance on dictation (spelling is challenging) with mic feature on iOS. Easier than Dragon. Now Siri.  _"I finally started using Siri, my grandson taught me this."_
    - P6: Dictating to Siri on iPhone while out and about > JAWS at home on desktop 
    - P7: JAWS on desktop at home. Navigates for wife who's driving by memorizing directions or playing back dictation from his Victor Reader Stream. Liks VoiceOver but not comfortable using mobile with "all of the small taps".
    - P9: ZoomText to magnify content on websites can't locate items on a page when laid out far apart. Uses a high contrast keyboard to type.
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
 - Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop.
-- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. The JAWS users we observed often used a handful of keyboard commands to either pull up a menu with list of page elements of a particular type or to navigate by that type of item individually. Some examples we observed:
+- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. The JAWS users we observed often used a handful of keyboard commands to either pull up a menu with a list of page elements of a particular type or to navigate by that type of item individually. Some examples we observed:
   - Listing all the headings on the page (Insert + F6) or (H) for navigating headings one by one
   - Listing all the links on a page (Insert + F7), _52 links on the VA.gov homepage_
   - Navigating through the edit boxes on a page i.e. input fields _JAWS did not identify global search as an edit box_
   - Navigating through the buttons on a page (when a participant was informed the page had one)
 
- > P1: "I would normally still use H. that is how you get the main areas on the  website and go from there. So I am on service member benefits. 
+ > P1: "I would normally still use H. That is how you get the main areas on the  website and go from there. So I am on service member benefits. 
 [Talk me through where you are:] I first went to va.gov and the first heading that came up is service member benefits."
 
 
@@ -79,4 +79,4 @@ Due to technical issues, not all participants were able to share their typical o
 7. "Get directions" was not audible or decipherable for (3) JAWS screenreader users. 
 8. Phone numbers that lack labels can confuse screenreader users. One participant interpreted a phone number as GPS coordinates becasue it was read directly following "Get directions".
 9. Results listing letter and mileage combination was confusing for one user. User hears "A1.5 heading level 3 Memphis Vah Medical Center" not understanding that it was the first listing and is 1.5 miles away from the searched location.  
-10. Map view was hidden for most users and not tested with screenreaders 
+10. Map view was hidden for most users and not tested with screen readers.
