@@ -62,7 +62,7 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - 4 of 5 users found the “make changes” link
 - 3 of those 4 realized they’d linked back to the form
 - 1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
-`quote from first user`
-`quote from last user`
+- `quote from first user`
+- `quote from last user`
 
 ### Users navigated through the form with few issues. Loan intent and document uploads were the two panels that slowed users down.
