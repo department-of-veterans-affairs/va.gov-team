@@ -19,7 +19,7 @@ Currently, VA medical facilities have a kiosk that are utilized by the Veterans 
 
 ## Undesired User Outcomes
 
- - An experience that is inferior or harder to use then the current physical Kiosks 
+ - An experience that is inferior or less intuitive to use then the current physical kiosks 
  - Increasing wait times between arrival and completion of check-in
  - Increase in face-to-face interactions
 
@@ -37,10 +37,11 @@ Currently, VA medical facilities have a kiosk that are utilized by the Veterans 
 
 ### Key Performance Indicators (KPIs)
 
- While this MVP will be a pilot, the long term KPIs will be: 
+ We will be evaluating the below metrics: 
 
  - Percentage of Veterans who chose digital check-in vs. face-to-face interaction
- - Time to check in vs. Physical kiosks
+ - Check-in time variances between digital solution vs. physical kiosk
+
 
 #### Baseline KPI Values
 * Pending 
@@ -48,7 +49,7 @@ Currently, VA medical facilities have a kiosk that are utilized by the Veterans 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
- - Number of Veterans who use digital check-in vs. face to face in Pilot 
+ - Number of Veterans who use digital check-in vs. face to face in pilot phase 
 
 ---
 
