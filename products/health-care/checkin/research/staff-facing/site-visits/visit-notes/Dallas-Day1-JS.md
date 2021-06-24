@@ -26,9 +26,10 @@ Site security staff member says connecting to velocity, and badging system would
 
 Sat at clinic check-in area for 3 ish hours. This is a high-functioning team of MSAs, they pick up the phone quickly, they follow through with Veterans to make sure that they are scheduled for follow ups, they give instructions to folks who are walking by, they help eachother out etc.
 
-
 ### Environment
-Primary Care Check-in Station on main hallway, sliding windows for each workstation on the top of the counter surface. 
+Primary Care Check-in Station on main hallway, sliding windows for each workstation on the top of the counter surface.
+Small waiting area across from check in desk.
+One kiosk is enabled, (especially for our visit) situated next to the waiting room.
 3 MSAs for 4 doctors.
 Each MSA has a laptop connected to two monitors (they used to have a desktop, with two smaller monitors) sometimes the programs all crash simultaneously.
 Other things in the room: shredder bin, big copier/printer. 
@@ -43,6 +44,8 @@ MSA clicks complete button (save?) on vetlink and Veteran is now checked in. Can
 After checking in, MSA looks up which Nurse is associated with the provider (schedules change hourxhour if coverage for a nurse who is out). Then message that nurse or lvn (who does vitals etc) in Teams that the patient has arrived. 
 * For last couple weeks, MSAs have been told to not use Teams to communicate with clinical staff, because if everyone decides to use VetLink, it protects the MSAs from accusations of not notifying providers that the patient has arrived (which has happened before).
 * Nurses/providers don’t always check VetLink for patients check-in status
+Nurse comes out to call patient, if patient isn't there, then nurse checks with MSA to make sure they're calling the right person. MSA might call the Veteran on the phone to see where they are. 
+Afer appt, Veteran comes to desk to schedule next appointment if they have a return to clinic order.
 Checking in is “very easy”, there was training but it’s really “self-explanatory”
 If Veteran asks about travel, then MSAs hand them a paper form or a packet of instructions to do it online.
 
@@ -56,6 +59,7 @@ Notes:
 * When other staff schedule an RTC in VistA, it doesn’t automatically connect to the order, then have to manually resolve (condition?) the order in VSE. If you schedule from VSE from the order, it auto resovles the order.
 * MSAs are required to verify patient information, and saving it on vetlink, even if no changes, serves as proof of verification with patient.
 * In VSE checked in patients are Yellow, checked out patients are orange, not yet checked in patients are purple, no-shows are red.
+* Very rare that a Veteran has issue with eligibility or enrollment, would show up in VetLink and CPRS.
 
 ### Observed Interactions
 Veteran attempts to check-in via kiosk, takes a long time (multiple minutes), then Vet says they’re all set. Looking at VetLink, says no appointments, but MSA looks and sees that that they do have an appointment with a provider in this area, but the clinic hasn’t been updated in Vetlink to include the new provider. MSA has to finish check-in for the patient in VetLink.
@@ -63,6 +67,10 @@ Veteran attempts to check-in via kiosk, takes a long time (multiple minutes), th
 Patient calls to talk to nurse, either route to nurse or open message manager from CPRS to send Nurse a message to call patient back.
 
 Veteran approaches window for appt, appt was cancelled yesterday because provider left clinic, patient wasn’t notified of cancellation. 
+
+MSA staff holler out of window to Veteran in waiting room to make sure they're checked in and waiting in the right place.
+
+MSA hollers after patient after their appt, making sure they scheduled their next appt. Veteran wants to print out their upcoming appt list, MSA does that for them, reminds veteran to get labs before next appt (2wks - 2hrs before).
 
 Interruptions to ask for directions:
 * I’m lost – trying to find parking lot
