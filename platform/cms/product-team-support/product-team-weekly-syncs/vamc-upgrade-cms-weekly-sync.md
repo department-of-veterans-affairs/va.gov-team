@@ -28,6 +28,7 @@
 * Guidance for placing detail pages between and now and #4988 merge, and fixing existing ones. 
 * Upcoming, temporary content freeze on creating new Leadership List pages. [#5500 Runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500) 
 * Programmatically creating URLs, status? Next steps. (i.e. Leadership list page, Programs, etc.)
+* #cms-product-trage channel usage
 
  
 ## June 18 (Skipped, needs to be discussed)
