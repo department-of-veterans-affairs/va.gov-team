@@ -66,8 +66,7 @@ Due to technical issues, not all participants were able to share their typical o
 
 ### Searching for location information online and on VA.gov
 
-1. Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. 
-  - Participants use Google, Siri/safari, Bing, DuckDuckGo.
+1. Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. (Participants use Google, Siri/safari, Bing, DuckDuckGo)
 2. 4 Veterans had a hard time finding Facility Locator.
 3. 4 participants were able to easily complete a search on Facility Locator.
 4. 3 Veterans used the 'use my location' but some Veterans were hesitant, one mentioning "big brother".
