@@ -55,11 +55,15 @@ Due to technical issues, not all participants were able to share their typical o
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
 - Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop.
-- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. We observed JAWS users:
-  - List all the headings on the page (Insert + F6) 
-  - List all the links on a page (Insert + F7), 52 links on the homepage
-  - Navigating to the next edit box on a page i.e. input fields (global search didn't appear as an edit box)
-  - List all buttons (if you know to look for one)
+- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. Some methods we observed from JAWS users:
+  - Listing all the headings on the page (Insert + F6) or ('H' for navigating headings one by one)
+  - Listing all the links on a page (Insert + F7), 52 links on the VA.gov homepage
+  - Navigating through the edit boxes on a page i.e. input fields (global search didn't appear as an edit box)
+  - Listing all buttons (if you know to look for one)
+
+ > P1: "I would normally still use H. that is how you get the main areas on the  website and go from there. So I am on service member benefits. 
+[Talk me through where you are:] I first went to va.gov and the first heading that came up is service member benefits."
+
 
  > P2: "You know... when I go to a new page... it takes me maybe 10 or 15 minutes to get familiar with the page and what's on it ok? I like to experience all the elements on the page... you know... how many checkboxes there are... how many headings, how many radio buttons... I like to go through that. So I just get an idea on what that page is about."
 
