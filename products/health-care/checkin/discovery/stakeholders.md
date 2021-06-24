@@ -33,8 +33,8 @@
 **The backend integrations will be built off of this system. VeText holds all the business logic for notifications, controls text message functionality, and runs the "I am here" check-in solution.**
 - Kennon Hulett: Product Manager
 - Julia Synder: UX 
-- Shane Elliott: OCTO
-- Rob Burkin: VA Engineering
+- Shane Elliott
+- Rob Burkin
 
 ## VetLink
 **Currently Veteran-facing and staff-facing kiosk/check-in system**
