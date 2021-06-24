@@ -3,17 +3,20 @@
 ## Broken Link Alerts
 
 ### Slack Alerts
-When broken links stop a build, an alert is triggered in Slack (**#cms-helpdesk-bot** notifying **@cmshelpdesk**)
+Content releases occur roughly at the top of the hour from 9am-5pm ET, but can also be triggered outside the hourly schedule (by editing certain content types, and/or by bulk publishing).
+
+The broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to **#vfs-platform-builds channel**, which mentions the **@cmshelpdesk** Slack group.
 
 The notification follows the format:
 
-```4 broken links found in the vagovprod build
-@cmshelpdesk
-http://jenkins.vfs.va.gov/job/testing/job/vets-website/job/123456/display/redirect
-Page,Broken link
-dir/url-of-page,[a href="/node/1234">Linkname</a>
-dir/url-of-page,[a href="/node/1235">Linkname</a>
-dir/url-of-page,[a href="/node/1236">Linkname</a>
+```
+@cmshelpdesk 1 broken links found in the vagovprod build in a content-only deployment
+
+http://jenkins.vfs.va.gov/job/builds/job/content-build-content-only-vagovprod/467/display/redirect
+
+pittsburgh-health-care/programs/covid-19-vaccines :
+
+<a href="/myhealth.va.gov%20">My Health<em>e</em>Vet</a>
 ```
 
 ### Response
@@ -21,7 +24,7 @@ Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  O
 
 In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`.  This ensures proper SLA tracking and reporting.  
 
-Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notificatwkion.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
+Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
 Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.   
 
 # Steps to Investigate
