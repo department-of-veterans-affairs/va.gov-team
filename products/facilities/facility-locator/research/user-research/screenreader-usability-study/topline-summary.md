@@ -18,7 +18,7 @@ The purpose of this research is to establish foundational knowledge of Veterans'
 In this research study, participants were asked to describe how they use their assistive technology to search for location information online. They were also asked to perform three facility search tasks to gauge high level usability of the tools while using assistive technology.
 
  - Find your nearest VA
- - Find a dermatologist a dermatologist at your nearest VA
+ - Find a dermatologist at your nearest VA
  - Find the closest VA hospital to where you'll be staying in preparation for an upcoming trip
 
 
