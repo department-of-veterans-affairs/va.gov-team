@@ -9,37 +9,26 @@
 [2019](#2019)
 
 
-## 2021
-
-### December 
-### November 
-### October 
+### December 2021
+### November 2021
+### October 2021
     -  Leyda: Oct 4-8
-### September 
-### August 
+### September 2021
+### August 2021
     -  Leyda: August 9-13
-### July 
+### July 2021
     -  Leyda: July 7 & 8
-### June 
-### May 
-### April
-### June
-### May 
-### April 
+### June 2021
+### May 2021
+### April 2021
     -  Leyda: April 1-2
-   
-### March 
+### March 2021
     -  Leyda: March 1-5
-
-### February 
-
-## 2021
-
-### January 
+### February 2021
+### January 2021
     -  Gibran: January 12-19 
 
-
-## 2020
+## 2021
 
 ### December 2020
 #### Holidays
