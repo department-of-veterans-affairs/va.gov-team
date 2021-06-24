@@ -65,21 +65,15 @@ Focus Area: Benefit Hubs
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Service Completion: Increase benefit conversion rates for Veterans applying for benefits via unauth/auth experience 
 - Ease of use: Reduced bounce rate (+10%) for the proposed benefit hub to conversion path to tier 1 benefit action 
 - Trust/Satisfaction: Increase satisfaction score by 15% -- via Medallia for the proposed va.gov/benefithubs score listing
  
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- (TBD)
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
   - There is measurable value to Veterans as we are replacing "content roadblocks" and "content spirals" caused on mega menu with a clear navigational path that increased conversion rates for Tier 1 benefit actions. 
@@ -96,8 +90,17 @@ Focus Area: Benefit Hubs
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include in this initial set of functionality, and why?*
+**In Scope**
+- Home Page (Top 4 funnel)
+- Mega Menu 
+- left hand nav slim down - Benefit hub funnels 
+- Content shift - Benefit hubs to R&S
+- FAQ Shift - What remains in Benefit hubs and what transitions to R&S (Streamline content flow to remove "roadblocks")
 
+**Not In Scope**
+- Benefit hub refactor (moving/reorienting of hubs)
+- No moving of "top or bottom" header links
+- No refactoring of Alerts or placement of Alerts (Homepage or Benefit Hubs)
 --- 
 
 ## Launch Planning
