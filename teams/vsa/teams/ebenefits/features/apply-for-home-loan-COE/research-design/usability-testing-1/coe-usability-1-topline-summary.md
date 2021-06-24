@@ -58,14 +58,13 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - 4 of 5 found the download link
 - 3 users said they would print their COE and 2 said they would also save it and email it to their lender
 
-### Users were able to find the “make changes” link, but it was not clear to all users that they needed to reapply to make those changes.
+### It was not clear to all users that they needed to apply to make changes.
 - 4 of 5 users found the “make changes” link
 - 3 of those 4 realized they’d linked back to the form
 - 1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
-- `quote from first user`
-- `quote from last user`
+- There are good quotes from the first and last (?) users that show the range of understanding here.
 
-### Users navigated through the form with few issues. Loan intent and document uploads were the two panels that slowed users down.
+### Loan intent and document uploads were the two panels that slowed users down.
  - 4 of 4 users that saw the loan intent step were made the correct selection, but all paused and had to talk through the options
  - 1 of 5 wanted additional information on the loan intent options
  - 4 of 5 participants completed the upload without prompting
