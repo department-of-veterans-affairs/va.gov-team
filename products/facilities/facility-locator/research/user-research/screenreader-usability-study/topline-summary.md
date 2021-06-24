@@ -32,7 +32,7 @@ Due to technical issues, not all participants were able to share their typical c
 ¶ Other assitive tech not observable during testing
 
 # | VISION | DEVICE | ASSISTIVE TECHNOLOGY | EXPERIENCE LEVEL
----
+---|-----------------------|--------------|------------------|------------
 P1 | Completely blind | Desktop | † JAWS screen reader | Advanced |
 P2 | Completely blind |  Desktop |  §† JAWS screen reader | Advanced |
 P4 | Cognitive & Dyslexia | mobile iPhone | §† iOS dictation | Beginner |
