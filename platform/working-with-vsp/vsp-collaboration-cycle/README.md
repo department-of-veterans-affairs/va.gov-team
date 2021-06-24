@@ -105,4 +105,4 @@ This is Platform's source of truth for which Collaboration Cycle touchpoints are
 - Need immediate assistance? Reach out to @vsp-product-support-members on the [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel.
 
 ## Change history
-- [February 2021 Release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/change-documentation/collab-cycle-update-02-2021.md)
+- [Collaboration Cycle - Change Log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/change-documentation/README.md)
