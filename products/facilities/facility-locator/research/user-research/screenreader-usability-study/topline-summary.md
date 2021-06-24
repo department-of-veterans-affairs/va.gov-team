@@ -54,25 +54,30 @@ Due to technical issues, not all participants were able to share their typical o
    - P9: ZoomText to magnify content on websites can't locate items on a page when laid out far apart. Uses a high contrast keyboard to type.
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
-- Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop.
+- Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop. 
 - Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. The JAWS users we observed often used a handful of keyboard commands to either pull up a menu with a list of page elements of a particular type or to navigate by that type of item individually. Some examples we observed:
   - Listing all the headings on the page (Insert + F6) or (H) for navigating headings one by one
   - Listing all the links on a page (Insert + F7), _52 links on the VA.gov homepage_
   - Navigating through the edit boxes on a page i.e. input fields _JAWS did not identify global search as an edit box_
   - Navigating through the buttons on a page (when a participant was informed the page had one)
+  - Using placemarkers (K)
+  - Search the page for keywords (F)
 
- > P1: "I would normally still use H. That is how you get the main areas on the  website and go from there. So I am on service member benefits. 
-[Talk me through where you are:] I first went to va.gov and the first heading that came up is service member benefits."
-
-
+ > P1:"I click H for heading and that’s how most people use JAWS on a web page. Reading from top to bottom is very tedious." [Later the participant uses H on VA.gov homepage] I first went to va.gov and the first heading that came up is 'Service member benefits'."  
+ 
  > P2: "You know... when I go to a new page... it takes me maybe 10 or 15 minutes to get familiar with the page and what's on it ok? I like to experience all the elements on the page... you know... how many checkboxes there are... how many headings, how many radio buttons... I like to go through that. So I just get an idea on what that page is about."
+
 
 
 ### Searching for location information online and on VA.gov
 
 1. Veterans are more likely to rely on VA location information provided by search engine results than seek out information on VA.gov. (Participants use Google, Siri/safari, Bing, DuckDuckGo)
 2. 4 Veterans had a hard time finding Facility Locator.
-3. 4 participants were able to easily complete a search on Facility Locator.
+3. 4 participants were able to easily complete a search on Facility Locator. Participants were unsure of what the different facility types meant. Users also struggled with the usability of the 'Service type' combo box on desktop and mobile. 
+ - [P2] _"I don't know the definition of what those boxes mean... I don't know what I checked on. I thought I checked the right ones. Obviously, I had the wrong definition of whatever those words were."_ 
+ - [P4] _"What If I’m in a crisis? Will I scroll through all this nonsense!? Call 911.  In fact, [city name] came up on Google first before VA.gov "_
+ - [P10] _"you know the facility type thing is a little confusing for me. It would be nice to have that broken down a little bit for options. The VA health thing… So… I mean I guess instead of saying “VA HEALTH”... all of those things underneath are va health pieces… so maybe “VA hospital, CBOC, VA urgent care clinic, or whatever…”
+ - [P7 trying to use 'Service type'] _"there seems to be only chiropractor and optometrist and I have a community care provider I see here in town.  It say’s there’s supposed to be a list."_
 4. 3 Veterans used the 'use my location' but some Veterans were hesitant, one mentioning "big brother".
 5. When a search produces no results, screen reader users are not alerted which is confusing.
 6. 4 Veterans used global search to find a location or dermatologist. Some participants didn't think to look for healthcare in a location finder.
