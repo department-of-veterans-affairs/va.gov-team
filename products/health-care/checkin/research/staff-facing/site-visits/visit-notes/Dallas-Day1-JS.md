@@ -29,7 +29,7 @@ Sat at clinic check-in area for 3 ish hours. This is a high-functioning team of 
 ### Environment
 Primary Care Check-in Station on main hallway, sliding windows for each workstation on the top of the counter surface.
 Small waiting area across from check in desk.
-One kiosk is enabled, (especially for our visit) situated next to the waiting room.
+One kiosk is enabled, (especially for our visit) situated next to the waiting room. Otherwise kiosks are not enabled at this facility.
 3 MSAs for 4 doctors.
 Each MSA has a laptop connected to two monitors (they used to have a desktop, with two smaller monitors) sometimes the programs all crash simultaneously.
 Other things in the room: shredder bin, big copier/printer. 
