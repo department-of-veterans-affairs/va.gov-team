@@ -76,7 +76,7 @@ Due to technical issues, not all participants were able to share their typical o
 3. 4 participants were able to easily complete a search on Facility Locator. Participants were unsure of what the different facility types meant. Users also struggled with the usability of the 'Service type' combo box on desktop and mobile. 
  - [P2] _"I don't know the definition of what those boxes mean... I don't know what I checked on. I thought I checked the right ones. Obviously, I had the wrong definition of whatever those words were."_ 
  - [P4] _"What If I’m in a crisis? Will I scroll through all this nonsense!? Call 911.  In fact, [city name] came up on Google first before VA.gov "_
- - [P10] _"you know the facility type thing is a little confusing for me. It would be nice to have that broken down a little bit for options. The VA health thing… So… I mean I guess instead of saying “VA HEALTH”... all of those things underneath are va health pieces… so maybe “VA hospital, CBOC, VA urgent care clinic, or whatever…”
+ - [P10] _"you know the facility type thing is a little confusing for me. It would be nice to have that broken down a little bit for options. The VA health thing… So… I mean I guess instead of saying “VA HEALTH”... all of those things underneath are va health pieces… so maybe “VA hospital, CBOC, VA urgent care clinic, or whatever…”_
  - [P7 trying to use 'Service type'] _"there seems to be only chiropractor and optometrist and I have a community care provider I see here in town.  It say’s there’s supposed to be a list."_
 4. 3 Veterans used the 'use my location' but some Veterans were hesitant, one mentioning "big brother".
 5. When a search produces no results, screen reader users are not alerted which is confusing.
