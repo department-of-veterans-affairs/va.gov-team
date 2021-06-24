@@ -4,11 +4,9 @@
 
 Please note this is a DRAFT version and is not yet finialized.
 
-
 ## Introduction
 
 A well-developed and maintained virtual agent will help users solve problems and complete tasks on their own with little to no human involvement at any time of day. Ultimately, the problem we want to solve with our virtual agent is to help the Veteran self-serve and find information more easily as part of a larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information.  Because of the amount of content that is available and needs to be rewritten in conversational format for the chatbot, we want to target starting with smaller targeted content. A proof of value (POV) was created with a preliminary set of features and content; this report details the feedback on that product.
-
 
 ## Research Goals
 
@@ -55,7 +53,6 @@ We identified a set of hypotheses which were in response to our goals, and ident
 - D: Product usage:
 
 ************TO UPDATE**********
-
 
 ## Participants
 
@@ -108,7 +105,7 @@ Location | Segment #8: 10 participants who live in suburban or rural areas.  We 
 Marginalized populations | Segment #9: 10 participants who identify as LGBTQ+.  We were able to recruit 1 out of 10 of this segment.
 Marginalized populations| Segment #10: 10 participants who are experiencing economic insecurity - (i.e. experiencing homelessness/housing insecure, food insecurity, either currently or previously in their time as a Veteran post-discharge from service). We were unable to recruit for this segment.
 
-## Key Findings TO UPDATE
+## Key Findings
 
 We identified 6 key findings:
 
@@ -126,24 +123,108 @@ D: Product usage:
 - Participants experience challenges with current VA customer support channels, and a VA chatbot was viewed as an opportunity to avoid those challenges.
 - Overall users indicated a willingness to not only try the chatbot, but to use it again, and seemed excited about the product, how it could evolve and how it might help them and the VA.
 
-
-## Details of Findings  TO UPDATE
-
-TBD
-
+## Details of Findings
 
 A: Accuracy
 
 - The chatbot was rated as being fairly accurate, although the level of accuracy left some participants feeling frustrated.
   - We hypothesized that we would see a high number of questions that the bot has not yet been trained to answer, and that Veterans will expect that the chatbot cannot answer in-depth questions. 
   - While we had the chat logs to monitor what questions were being asked, we also created a number of questions on accuracy including if the participants felt they had information to take the next step, if quality was satisfactory and if issues of poor performance affect participants.  In question 1 (“The chatbot answered my questions accurately”), participants provided feedback that 16% (7 out of 44) said the chatbot was accurate all the time, and 45% (20 out of 44) said most of the time it was accurate.  Many understood the limitations of the early version of this product in terms of what content was available and what functionality was available.  
+ 
+ *“I understand chatboxes have limited responses, as long as it points me in the right direction then that’s fine” (Segment 1, Participant 3)*
+
+  - In question 2 (“The chatbot understood what I was trying to ask”) participants provided feedback that 57% (25 out of 44) said the chatbot understood them with 36% (16 out of 46) saying it somewhat understood them; participants varied their language to help the chatbot understand, although this can be a frustrating experience.
+  
+*“I felt a little frustrated because I thought my questions were phrased in a very clear manner with key words that the chatbot should be programmed to respond to. For example, I asked about mental health resources and the chatbot responded with information about homelessness” (Segment 3, participant 9)*
+
+*“It answered every one with clear concise answers. The only one that it didn't answer was about where I could find a telephone directory to my local va but it said it didn't have an answer. It didn't bother me at all because, first, I realized I didn't put the where when I said local and plus... there are way too many numbers associated with the VA's!” (Segment 1, Participant 6)*
+
+  - In question 3 (“After reading the response, did you have the information you needed to take the next step to complete your task?”) 33 out of 46 (75%) said they had enough information to take the next step.
+
+*“I think it was quite excellent. The links were right on point and fit the answer perfectly! I was very impressed!” (Segment 1, Participant 6)*
+
+  - In question 8 (‘How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses - satisfaction with the accuracy of responses, if the right link was provided and their question answered”), 64% (28 out of 44) felt the quality was positive and 34% (16 out of 44) felt quality was negative.
+
+*“I am satisfied with the bot. If it didn’t directly answer my question, it provided a link to where I could look for the answer on another page“ (Segment 5, Participant 3)*
+
+*“I liked the answers I was given - I feel like if I have a very focused question I would probably be more comfortable calling on the phone and talking to someone in person, but to find out quick and general info I would use the chatbot” (Segment 1, participant 10)*
+
+  - Ultimately the issue of accuracy affected how people felt. In question 4 (‘If the chatbot wasn’t able to answer your question, how did that make you feel?”) poor performance meant that participants felt negative about the experience.
+
+*The unpredictability of the results was surprising: “It was frustrating. The chatbot was right on sometimes, while others it was completely off topic”(Segment 5, participant 9)*
+
+*The success of this channel should try to be an improvement on the challenges from other channels. “More frustrated. It's hard to get answers from the VA. A chatbot should know a little more in my opinion“ (Segment 1, Participant 5)*
+
+B: Trust
+
+- Participants understood the chatbot wasn’t a human but still felt they could trust it. 
+  - We hypothesized that more Veterans will attempt to find information that requires authentication (e.g., claims-status). In question 5 (“The chatbot can answer both general questions (for example, location of a VA facility) and personal questions (your benefit status). However, you must sign into va.gov for the chatbot to answer personal questions. How do you prefer to use this chatbot?”), 77% participants (34 out of 44) indicated they wanted to authenticate in order to get answers to personal questions. 16% (7 out of 46) would not sign in and 11% (5 out of 46) indicated they did not know. Participants validated the idea of signing in and having a personalized experience as being desirable.
+
+*“I thought the voice was friendly but very direct. I think I would've preferred a more personal approach in the beginning, especially if I'm signed in to VA.gov. For example, when I type my first question or open the chatbot, I would want some type of acknowledgement, "Hi, NAME. How can I help you today?" or "Thanks for your question, NAME. Let me get you some more information on that" (Segment 3, participant 9)*
+
+  - Using an automated non-human entity can raise issues of trust especially around personal information, but participants indicated they were willing to sign in and it being non-human wasn’t preventing usage, which indicates a level of trust with the product.
+
+*“It was a normal response. Non-Human as I expected. I really didn't expect it to be an actual person, so I did not really have expectations'' (Segment 1, participant 5)*
+
+- Participation from marginalized populations was low and understanding their needs will be key to ensuring trust is built into the heart of the product in the future.
+
+  - We hypothesized that some Veterans might seek a channel where being anonymous was a key feature - for example LGBTQ+ or those experiencing economic insecurity (i.e. housing or food insecurity, mental-health crisis) - and that using a text-based tool would be more comfortable than speaking with a human.
+
+  - Unfortunately we were unable to have a large enough representative sample from these segments - we were able to recruit only 1 participant who identifies as LGBTQ+ and 0 participants who are experiencing economic insecurity.  Individuals from other segments may have identified as LGBTQ+ or as someone experiencing economic insecurity, but identifying them as a unique segment is something we wanted to do to understand how to measure if we met our goal.  This is one area where more research is needed - similar to the research to ensure Veterans with a disability can use the chatbot, we want to ensure other marginalized voices are considered in this work. 
+
+*“Thanks for trying to make things easier but some veterans don't have access to internet or are uninformed on benefits available to them. I have talked to a few other veterans who were clueless about what the VA can do” (Segment 1, Participant 2)*
+
+*“I've had some unique problems accessing VA care. I lived in a rural area and had problems with choice and getting community care. When I moved to a new state it took the VA a year just to get me into the system, and they still can't see my other records. I have an ER bill from a year ago when I went in for covid pneumonia and the VA still hasn't paid it. I recently had a discharge upgrade and became eligible for tricare, and no one can tell me how that effects my VA usage. I recently had a specialist say that they couldn't see me and that community care had been suspended, so I couldn't get the help the ER told me to get at the VA. I've worried about how my dependents can get information on VA services if I died from covid. In the past I had a personal issue with a VA provider and a VA policeman and didn't know who to talk to about that” (Segment 5, Participant 9)*
+
+*“The chatbot should more readily acknowledge when it cannot answer a question, rather than trying to answer it anyway. The fact that all questions about transgender/trans people or LGBTQ people gave the same response, which was only tangentially related because it mentioned gender reassignment surgery, felt ignorant and unhelpful. Instead of listing things that are NOT covered, it should list things that ARE covered first. Responses should be expanded to talk about hormone replacement therapy (HRT) coverage, therapy/counseling/support group options, and legal assistance related to trans and LGBTQ issues” (Segment 9, participant 8)*
+
+*In response question 4 (“if the chatbot wasn’t able to answer your question, how did that make you feel?”), one participant noted, “Like the chatbot wasn't made with LGBTQ people in mind, or like the people who created it weren't as worried about the concerns of LGBTQ people on principle” (Segment 9, Participant 1)*
+
+
+C: Personality
+
+- Participants reacted positively to the personality of the chatbot in terms of voice and tone.
+
+  - We hypothesized that Veterans will want a more professional tone than a more ‘friendly’ personable tone.
+
+  - In question 6 (“How do you feel about the voice of the response you received? Voice refers to the personality of the chatbot (friendly, chatty, dry, etc.)”), 55% of participants (24 out of 44) felt positively about the voice, while 20% (9 out of 44) felt neutral, and 11% (5 out of 44) felt negative. 17% of participants (8 out of 44) didn't understand the term voice (18%)didn't understand the term voice.  While some participants felt the chatbot was a little ‘cold’, many appreciated the voice.  Others didn’t mention that the personality was less important - getting the answers was the primary goal.
+
+*“I don't like overly friendly chatbots. It's just weird. This one just gets you answers, and I liked that” (Segment 5, Participant 9)*
+
+*“I do not have an opinion about the voice; the content of the answers is all that matters” (Segment 5, Participant 4)*
+
+
+- In question 7 (“How do you feel about the tone of the response you received? Tone refers to the style of response (professional, bureaucratic, casual, etc.”), 61% (27 out of 44) felt positively about the tone, 18% (8 out of 44) felt neutral, and 14% (6 out of 44) felt negative. 11% (5 of 44) didn't understand the term voice.
+
+  - The majority of participants appreciated the professional tone - while some indicated it felt a bit bureaucratic, many felt that the chatbot struck the right balance. Striking the balance of something both professional and personal can be difficult, especially because the chatbot team tried to consciously focus on getting the right information as quickly as possible to users without extended conversation.
+
+*“It was very professional/matter of fact but not rude at all. They know that the answers they are giving you could possibly save a life” (Segment 1, Participant 6)*
+
+*“I thought the tone was professional and informative. I wouldn't change too much about the tone” (Segment 3, Participant 9)*
+
+- Earlier in April, we conducted a smaller branding study with 16 participants (Veterans and caregivers). We tested a similar hypothesis: users would prefer a virtual agent that was “professional, polite and service driven that used plain language similar to existing VA.gov content”. 
+
+  - The results of our earlier April interviews align with our key findings from this current study. 
+
+  - The earlier interviews had participants who were speaking from experience when dealing with chatbots. Participants of this current study, however, had the benefit of interacting with a real chatbot prototype.
+
+  - Confirming the key findings above, the April interviewees similarly “want(ed) communication between the VA and them to be personable, curious, and empathetic.”
+
+  - The desire for a “professional but friendly tone that projects confidence but can also display humility when it is wrong or inaccurate” was validated.
+
+  - Finally, both studies align to the earlier finding that “Related to tone, it should be service-driven since the Vet community is broad, spanning multiple generations, and therefore different levels of tech-usage.”
+
+  - This reiterates the need for further research on chatbot usage by segments we weren’t fully able to recruit and talk to during this study.
+
+D: Product usage
+
+- Participants experience challenges with current VA customer support channels, and a VA chatbot was viewed as an opportunity to avoid those challenges.
+
+  - We hypothesized that caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
 
 
 
-
-
-
-
+*quote*
 
 ## Metrics  TO UPDATE
 
