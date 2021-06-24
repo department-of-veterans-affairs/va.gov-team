@@ -5,6 +5,8 @@
 
 [January 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#january-2021)
 
+[2020](#2020)
+
 [December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#december-2020)
 
 [November 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2020)
@@ -29,6 +31,20 @@
 
 ## 2021
 
+## December 2021
+## November 2021
+## October 2021
+    -  Leyda: Oct 4-8
+## September 2021
+## August 2021
+    -  Leyda: August 9-13
+## July 2021
+    -  Leyda: July 7 & 8
+## June 2021
+## May 2021
+## April 2021
+## June 2021
+## May 2021
 ## April 2021
     -  Leyda: April 1-2
    
@@ -39,6 +55,8 @@
 
 ## January 2021
     -  Gibran: January 12-19 
+
+## 2021
 
 ## December 2020
 ### Holidays
