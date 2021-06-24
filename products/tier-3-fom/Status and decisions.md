@@ -21,7 +21,7 @@ __Purpose of FOM information - to enable Congress and VA to know what we do, wha
 - Onboarding document for senior leaders, SESs
 - Used by OALC (Office of Acquisition, Logistics, and Construction) for management purposes
 - by OIT for the Global Address Directory
-- QA people in OMB - Office of Management and Budget
+- QA people in VA's Office of Management.
 - by VA Enterprise Architecture for the business reference model - to map business functions to offices, how many ppl or departments doing similar functions, etc. - to review/assess best org structure
 - by HR - as a source of data for their work, esp wrt org changes - when people/roles move from one office to another --> subsequent HR, legal, and other administrative updates that have to happen
 - by OIG. 
