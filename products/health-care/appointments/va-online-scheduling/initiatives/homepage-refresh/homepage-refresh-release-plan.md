@@ -27,7 +27,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 4 hrs - 1 day
-- Percentage of Users (and roughly how many users do you expect this to be): 5% (~1.7k users), 10% (~3.5k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 5% (~430 users), 10% (~850 users)
 
 #### Results:
 - Number of unique users: x
@@ -41,7 +41,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 1 day
-- Percentage of Users (and roughly how many users do you expect this to be): 20% (~7k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 20% (~1.7k users)
 
 #### Results:
 - Number of unique users: x
@@ -55,7 +55,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 60% (~21k users)
+- Percentage of Users (and roughly how many users do you expect this to be): 60% (~24k users)
 
 #### Results:
 - Number of unique users: x
