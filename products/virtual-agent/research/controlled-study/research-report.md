@@ -59,10 +59,6 @@ We identified a set of hypotheses which were in response to our goals, and ident
 
 ## Participants
 
-* Role
-   * x Veterans
-   * x Veteran family or caregivers
-
 * Age: 
    * 18-24: 1
    * 25-34: 6
@@ -114,15 +110,40 @@ Marginalized populations| Segment #10: 10 participants who are experiencing econ
 
 ## Key Findings TO UPDATE
 
+We identified 6 key findings:
 
-1. Point
-* list
-   * indented
+A: Accuracy: 
+- The chatbot was rated as being fairly accurate, although the level of accuracy left some participants feeling frustrated.
+
+B: Trust:
+- Participants understood the chatbot wasn’t a human but still felt they could trust it.
+- Participation from marginalized populations was low and understanding their needs will be key to ensuring trust is built into the heart of the product.
+
+C: Personality:
+- Participants reacted positively to the personality of the chatbot in terms of voice and tone.
+
+D: Product usage:
+- Participants experience challenges with current VA customer support channels, and a VA chatbot was viewed as an opportunity to avoid those challenges.
+- Overall users indicated a willingness to not only try the chatbot, but to use it again, and seemed excited about the product, how it could evolve and how it might help them and the VA.
 
 
 ## Details of Findings  TO UPDATE
 
 TBD
+
+
+A: Accuracy
+
+- The chatbot was rated as being fairly accurate, although the level of accuracy left some participants feeling frustrated.
+  - We hypothesized that we would see a high number of questions that the bot has not yet been trained to answer, and that Veterans will expect that the chatbot cannot answer in-depth questions. 
+  - While we had the chat logs to monitor what questions were being asked, we also created a number of questions on accuracy including if the participants felt they had information to take the next step, if quality was satisfactory and if issues of poor performance affect participants.  In question 1 (“The chatbot answered my questions accurately”), participants provided feedback that 16% (7 out of 44) said the chatbot was accurate all the time, and 45% (20 out of 44) said most of the time it was accurate.  Many understood the limitations of the early version of this product in terms of what content was available and what functionality was available.  
+
+
+
+
+
+
+
 
 ## Metrics  TO UPDATE
 
@@ -130,12 +151,7 @@ one | two
 ------------ | -------------
 one | two
 
-## Additional Insights  TO UPDATE
-
-TBD
-
-
-## Future research areas  TO UPDATE
+## Results of Hypotheses
 
 TBD
 
