@@ -45,14 +45,17 @@ Due to technical issues, not all participants were able to share their typical o
 
 ### Behavior and lifestyle using assistive tech
 
-1. Veterans with low to no vision use many different types of assistive technologies for navigating websites and the information that they encounter on them. What they choose to use and how they use it can vary widely and spontaneously depending on their context and/or immediate situation.
+- Veterans with low to no vision use many different types of assistive technologies for navigating websites and the information that they encounter on them. What they choose to use and how they use it can vary widely and spontaneously depending on their context and/or immediate situation.
 
- - P6: Dictating to Siri on iPhone while out and about > JAWS at home on desktop 
- - P7: JAWS on desktop at home. Navigates for wife who's driving by memorizing directions or playing back dictation from his Victor Reader Stream. 
- - P9: ZoomText to magnify content on websites can't locate items on a page when laid out far apart. Uses a high contrast keyboard to type.
- - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar.
- > "When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events. 
- > JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker.
+  - P1: Navigates quickly through pages with JAWS and may miss key content that isn't optimized for screen readers, e.g. 'skip to content' on VA.gov. 
+  - P4: Post retirement diagnosis of Dyslexia means college graduation and endless bookists that can be tackled audibly on iPhone/iPad. Easier than Dragon. Now Siri.  _"I finally started using Siri, my grandson taught me this."_
+   - P6: Dictating to Siri on iPhone while out and about > JAWS at home on desktop 
+   - P7: JAWS on desktop at home. Navigates for wife who's driving by memorizing directions or playing back dictation from his Victor Reader Stream. 
+   - P9: ZoomText to magnify content on websites can't locate items on a page when laid out far apart. Uses a high contrast keyboard to type.
+   - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
-2. Veterans are more likely to rely on VA location information provided by search engine results than by using facility locator (participants use Google, Siri/safari, Bing, DuckDuckGo). 
-3. Beginner to intermediate users of assistive technology may only leverage a small handful of features on their assistive technology devices.
+- Veterans are more likely to rely on VA location information provided by search engine results than by using Facility Locator (participants use Google, Siri/safari, Bing, DuckDuckGo). 
+- Beginner to intermediate users of assistive technology may only leverage a small handful of features on their assistive technology devices.
+
+### Using Facility Locator
+
