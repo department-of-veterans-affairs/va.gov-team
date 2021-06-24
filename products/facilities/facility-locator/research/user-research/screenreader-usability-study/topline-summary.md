@@ -58,7 +58,7 @@ Due to technical issues, not all participants were able to share their typical o
 - Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. For example JAWS users:
   - List all the headings on the page (Insert + F6) 
   - List all the links on a page (Insert + F7), 52 links on the homepage
-  - List all the edit boxes on a page i.e. input fields (global search didn't appear as an edit box)
+  - Navigating to the next edit box on a page i.e. input fields (global search didn't appear as an edit box)
   - List all buttons (if you know to look for one)
 
  > P2: "You know... when I go to a new page... it takes me maybe 10 or 15 minutes to get familiar with the page and what's on it ok? I like to experience all the elements on the page... you know... how many checkboxes there are... how many headings, how many radio buttons... I like to go through that. So I just get an idea on what that page is about."
