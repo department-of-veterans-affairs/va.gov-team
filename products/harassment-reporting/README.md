@@ -58,7 +58,7 @@ The goals are:
 - The ORDMI/PIF team responsible requires too much unplanned capacity/bandwidth from OCTO-DE (in particular Platform, etc.) to be successful.   NOTE: There is no known OCTO-DE/OIT budget for this initiative.
 - There is no clear "responsible/accountable" PO or team to own this for OCTO-DE.
 
-**Reference links:**
+## Reference links:
 
 - The Office of Resolution Management, Diversity and Inclusion (ORDMI) - https://www.va.gov/ORMDI/HPP.asp
 - WIP Roadmap and Proposed Architecture - [Roadmap_Architecture Deck v1 SM.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6399894/Roadmap_Architecture.Deck.v1.SM.pdf)
