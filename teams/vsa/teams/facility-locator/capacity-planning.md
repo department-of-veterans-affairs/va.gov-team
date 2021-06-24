@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-[2021](#2021)
 
 [2020](#2020)
 
@@ -99,7 +98,7 @@
     - Dave: January 2-3
     - Aricka: January 20
 
-## 2019
+## 2020
 
 ### December 2019
 #### Holidays
@@ -124,7 +123,7 @@
     - Ryan: December 24–27
 
 
-
+## 2019
     
 
 
