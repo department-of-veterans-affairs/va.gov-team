@@ -1,5 +1,32 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 06/24/2021
+
+Meeting - weekly FOM call w/Janet Schiller
+
+__Agenda:__ 
+
+Change management and comms - Janet's history on FOM change management, comms, policy memo. 
+
+Started 2010, with a Deputy Ass't Sec task force comprising representatives of the parent orgs (VBA, VHA, NCA, plus each 14 VACO offices). 
+Initially created with a BAH contract. Contract expired in 2013, and Janet took over management of it as a team of one, fixing inconsistencies, bad formatting, etc. Over the years, using gentle persuasion to get more offices to comply. 
+
+__Change management/comms for recent transition to digitizing the FOM in Salesforce:__
+
+Janet managed that solo by convening all 17 parent FOM coordinators on a weekly basis to let them know of changes happening and to work with them on new Salesorce entry process; and other issues as arising, like VIEWS hierarchy updates. (Workflow tracking still in VIEWS, also Sf.)
+
+__Purpose of FOM information - to enable Congress and VA to know what we do, what orgs we have, where we have it, what its mandates are, who is responsible/accountable for what. FOM is typically used for or by:__
+
+- Essential transition document (when new Secretary onboards)
+- Onboarding document for senior leaders, SESs
+- Used by OALC (Office of Acquisition, Logistics, and Construction) for management purposes
+- by OIT for the Global Address Directory
+- QA people in OMB - Office of Management and Budget
+- by VA Enterprise Architecture for the business reference model - to map business functions to offices, how many ppl or departments doing similar functions, etc. - to review/assess best org structure
+- by HR - as a source of data for their work, esp wrt org changes - when people/roles move from one office to another --> subsequent HR, legal, and other administrative updates that have to happen
+
+Janet quote: "We're way too big of an agency not to know what we have and what we do." 
+
 ## 06/17/2021
 
 Meeting - weekly FOM call w/Janet Schiller
