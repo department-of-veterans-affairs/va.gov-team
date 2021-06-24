@@ -55,7 +55,7 @@ Due to technical issues, not all participants were able to share their typical o
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
 - Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop.
-- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. For example JAWS users:
+- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. We observed JAWS users:
   - List all the headings on the page (Insert + F6) 
   - List all the links on a page (Insert + F7), 52 links on the homepage
   - Navigating to the next edit box on a page i.e. input fields (global search didn't appear as an edit box)
