@@ -28,7 +28,7 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 1. New search link(s) in the "top 4" boxes will result in more users finding what they're looking for.
 
 ## Method--Overview
-We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype; ideally, some will be on desktop, and some will be on mobile.
+We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype; ideally, some will be on desktop and some will be on mobile.
 
 ## Method--Details
 ### Potential pages for the design prototype:
