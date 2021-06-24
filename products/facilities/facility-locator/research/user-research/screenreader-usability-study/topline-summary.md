@@ -55,11 +55,11 @@ Due to technical issues, not all participants were able to share their typical o
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
 - Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop.
-- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. Some methods we observed from JAWS users:
-  - Listing all the headings on the page (Insert + F6) or ('H' for navigating headings one by one)
-  - Listing all the links on a page (Insert + F7), 52 links on the VA.gov homepage
-  - Navigating through the edit boxes on a page i.e. input fields (global search didn't appear as an edit box)
-  - Listing all buttons (if you know to look for one)
+- Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. The JAWS users we observed often used a handful of keyboard commands to either pull up a menu with list of page elements of a particular type or to navigate by that type of item individually. Some examples we observed:
+  - Listing all the headings on the page (Insert + F6) or (H) for navigating headings one by one
+  - Listing all the links on a page (Insert + F7), _52 links on the VA.gov homepage_
+  - Navigating through the edit boxes on a page i.e. input fields _JAWS did not identify global search as an edit box_
+  - Navigating through the buttons on a page (when a participant was informed the page had one)
 
  > P1: "I would normally still use H. that is how you get the main areas on the  website and go from there. So I am on service member benefits. 
 [Talk me through where you are:] I first went to va.gov and the first heading that came up is service member benefits."
