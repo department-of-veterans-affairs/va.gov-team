@@ -66,3 +66,8 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - `quote from last user`
 
 ### Users navigated through the form with few issues. Loan intent and document uploads were the two panels that slowed users down.
+ - 4 of 4 users that saw the loan intent step were made the correct selection, but all paused and had to talk through the options
+ - 1 of 5 wanted additional information on the loan intent options
+ - 4 of 5 participants completed the upload without prompting
+ - 3 of 5 noticed the language of which documents needed to be uploaded
+ - 1 of 5 participants missed the "What kind of document are you uploading?" dropdown and could not continue
