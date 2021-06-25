@@ -20,16 +20,16 @@ pittsburgh-health-care/programs/covid-19-vaccines :
 ```
 
 ### Response
-Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered in **#vfs-platform-builds** we will immediately create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
+Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered the CMS team will create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
   - The `broken-link` label
   - A label for the team that owns the code/process/content and its resolution
     - If the issue originated from something wrong with the CMS application or CMS-API then add the `CMS` label
     - If another va.gov team, then add the `Front-End` label along with a label for the team (`facilities-team`, `public-websites-team`, `VAMC-upgrade-team`)
     - If the issue was caused by a CMS editor in the field, apply the `user-content` and `user-error` labels
 
-There is a 10 broken link threshold before the content build will break. So, the content build will break if there are a total of 10 broken links found in the link checker. Urgency is dependent on how close to that threshold we are at any given time.
+There is a 10 broken link threshold before the content build will break. So, the content build will break if there are a total of 10 or more broken links found in the link checker. Urgency is dependent on how close to that threshold we are at any given time.
 
-Following the creation of the Ticket, notify in the automated notification that we are triaging the issue. This must happen within 30 minutes of the notification.
+Following the creation of the Ticket, the CMS team will notify in the automated notification that it is being triaged. This must happen within 30 minutes of the notification.
 The **#cms-product-triage** channel can be used to help determine the root cause and which team will be responsible for addressing the issue.
 
 # Steps to Investigate
