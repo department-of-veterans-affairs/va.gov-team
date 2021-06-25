@@ -15,27 +15,25 @@
 ### Results:
 #### 22-5490
 - Number of users: 2
-- Number of bugs identified / fixed: x/x
+- Number of bugs identified / fixed: **TBD**
 - Was the data submitted (if any) easy for VA to process?: **TBD**
 - Types of errors logged: **lorem ipsum**
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **yes/no **
 - If yes, what: **lorem ipsum**
 
 #### 22-0994
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of users: 2
+- Number of bugs identified / fixed: 0
+- Was the data submitted (if any) easy for VA to process?: NA
+- Types of errors logged: none
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 
 #### 22-1990e
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of users: 2
+- Number of bugs identified / fixed: 0
+- Was the data submitted (if any) easy for VA to process?: NA
+- Types of errors logged: none
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no
 
 ## Phase II: Staged Rollout - No staged rollout (a minor visual redesign to a page that doesn't affect user flows + a change to a page's text content)
 
