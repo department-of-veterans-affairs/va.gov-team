@@ -20,17 +20,22 @@ pittsburgh-health-care/programs/covid-19-vaccines :
 ```
 
 ### Response
-Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered in **#vfs-platform-builds** we will immediately create (using `/jira create`) a Jira Service Desk ticket to track this issue, choosing Jira Issue Type `Bug`. 
+Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered in **#vfs-platform-builds** we will immediately create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
+  - The `broken-link` label
+  - A label for the team that owns the code/process/content and its resolution
+    - If the issue originated from something wrong with the CMS application or CMS-API then add the `CMS` label
+    - If another va.gov team, then add the `Front-End` label along with a label for the team (`facilities-team`, `public-websites-team`, `VAMC-upgrade-team`)
+    - If the issue was caused by a CMS editor in the field, apply the `user-content` and `user-error` labels
 
-In Jira, we will set the ticket's Request Type to `Broken Link` and its Urgency to `High`.  This ensures proper SLA tracking and reporting.  
+There is a 10 broken link threshold before the content build will break. So, the content build will break if there are a total of 10 broken links found in the link checker. Urgency is dependent on how close to that threshold we are at any given time.
 
-Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.  Notification to other channels inlcuding **#cms-team** the team's awareness, and/or to reach out to Tier 2. 
-Following the creation of the Ticket, notify **#vfs-engineers** that we are investigating the broken link(s).  This must happen within 30 minutes of the notification.  Additionally, communicating the issue in **#cms-support** is a good best practice because it will notify editors on slack and increase awareness of the issue afoot.   
+Following the creation of the Ticket, notify in the automated notification that we are triaging the issue. This must happen within 30 minutes of the notification.
+The **#cms-product-triage** channel can be used to help determine the root cause and which team will be responsible for addressing the issue.
 
 # Steps to Investigate
 
-### Requesting Tier 2 assistance
-The first responsibility of the help desk is to quickly assess if the problem can be resolved without Tier 2 assistance. When in doubt we should default to requesting assistance — but in some instances we may choose to resolve the issue without help.
+### CMS Tier 2 support
+The first responsibility of triaging and diagnosing falls on CMS Tier 2 support. If it is determined that the broken link is a result of user error then they will loop in Tier 1 to coordinate a fix with the user. If the cause and solution are not easily identified, they will post in **#cms-product-triage** for awareness and assistance.
 
 ### Finding the problem
 If we look at the initial alert notification, we should see, in this fictional example:
@@ -50,12 +55,11 @@ Steps we may wish to take include:
 3. For any node, we can look on the right side for Revisions and Recent Changes to gather context about the person publishing and what happened. We may also want to preview the page, look at the links, and generally troubleshoot by gathering evidence. 
 4. Looking at the user(s) who've recently updated nodes, to see what VISN they're in, and then looking at recently updated nodes for that VISN.
 
-Note that we should always request Tier 2 assistance unless we feel confident that we can resolve the issue without them.
-
 ### Common types of known issues, and how to remedy them
 So far, we've encountered a few types of broken link causes:
 - Content being published too soon by non-dual-state editors (so far, this is common, but recent changes to roles may make it uncommon): best fixed by determining content that may need to be Archived. we should be cautious about this, since archiving content that _should_ be published will make things worse instead of better. We should always notify users after the issue is corrected.
 - Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
+  - Examples include: missing `https://` on external links
 - Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
 
 ### Best Practices
@@ -89,9 +93,9 @@ See a suggested email template below:
 >VA CMS Help Desk
 
 # Response Timeframe
-The timeframe for an initial slack notification to **#vfs-engineers** should be within 30 minutes at most.
-Total time to fix the issue should be within an hour. If we have reason to think it’ll take longer, we should continue to update **#vfs-engineers**.
-When the issue is resolved, we should also update **#vfs-engineers** to say so.
+The timeframe for an initial reponse to the slack notification in **#vfs-platform-builds** should be within 30 minutes at most.
+Total time to fix the issue should be within a day. If we have reason to think it’ll take longer, we should continue to update **#vfs-platform-builds**.
+When the issue is resolved, we should also update **#vfs-platform-builds** to say so.
 
 # Related Procedures
 Tier 1 and Tier 2 both have office hour requirements and other procedures defined in the [SLA](./service_level_agreement.md#help-desk-service-level-agreement-sla).
