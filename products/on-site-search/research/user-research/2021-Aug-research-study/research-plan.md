@@ -112,4 +112,4 @@ Please list the people who will be serving in each role.
 - [Research Findings]()	
 
 ## Approvals
-Plan reviewed and approved by Lauren Alexanderson on DATE
+Plan reviewed and approved by Lauren Alexanderson on DATE TBD
