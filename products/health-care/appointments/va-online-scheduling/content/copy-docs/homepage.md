@@ -68,8 +68,6 @@ Select a date range
 
 #### Past
 
-{month} {year}
-
 {appointment date}
 
 {appointment time}
