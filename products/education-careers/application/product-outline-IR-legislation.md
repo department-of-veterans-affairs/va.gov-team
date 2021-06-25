@@ -37,15 +37,15 @@ How might we update the forms to be compliant with legislation and align with th
 - Form updates are focused on the legislative changes and select business requests only.  
 - No additional "improvements" have been made to the forms such as retro-fitting of new design components, extensive QA / accessibility testing on original functionality. 
 
-## Solution Approach
+## Solution Approach (Legislative updates & additional form updates)
 ### 22-5490
 1. [5490: Update FRY helper content and update date of death question#25122](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25122)
 2. [5490: Update form for legislative changes effective 8/1#26436](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/26436)
 
-### 22-0994
+### 22-0994 (Legislative updates)
 1. [0994: Add "I certify" statement to Review Application chapter#23442](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23442)
 
-### 22-1990E
+### 22-1990E (Legislative updates)
 1. [1990E: Update 2 questions due to legislative changes.#24718](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/24718)
 
 --- 
@@ -63,7 +63,7 @@ How might we update the forms to be compliant with legislation and align with th
 - *Actual Launch Date* 
   - 5490: TBD
   - 1990e: Week of 06/18/2021
-  - 0994: Week of 05/02/2021
+  - 0994: 05/05/2021
 
 - *What date will you evaluate impact after launch?*
   - 
