@@ -261,9 +261,10 @@ TO UPDATE
   
 ## Metrics  TO UPDATE
 
-one | two
------------- | -------------
-one | two
+one | two | three
+------------ | ------------- | -------------
+one | two | three
+
 
 ## Results of Hypotheses TO UPDATE
 
