@@ -17,7 +17,8 @@ n/a - UAT to be conducted after additional initiatives using refresh
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Homepage errors
 - Links to dashboard(s) showing "success criteria" metrics:
-  - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/1iZBzQ5ITaG9AdBCy6rLeg/a50123418w177519031p176188361/)
+  - [Baseline (Google Analytics)](https://analytics.google.com/analytics/web/#/dashboard/1iZBzQ5ITaG9AdBCy6rLeg/a50123418w177519031p176188361/)
+  - [Performance (Google Analytics)](https://analytics.google.com/analytics/web/#/dashboard/kWfLZc4BRA2IglIAZYtfYA/a50123418w177519031p176188361/)
 
 
 ### Stage A: Canary
