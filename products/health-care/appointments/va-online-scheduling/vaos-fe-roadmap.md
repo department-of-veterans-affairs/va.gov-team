@@ -1,7 +1,8 @@
 # VAOS on VA.gov Roadmap
 
-![VAOS FE Product Roadmap (3)](https://user-images.githubusercontent.com/72046525/120051653-4d8e2580-bfd6-11eb-9ed9-2b1f248c650d.png)
+![VAOS FE Product Roadmap (4)](https://user-images.githubusercontent.com/72046525/123464159-53f5ca00-d5a1-11eb-90d0-aa6093e0fdda.png)
 
-Updated May 28, 2021
 
-_Note- Future quarters are projections and subject to change_
+Updated June 25, 2021
+
+_Note-Future months are projections and subject to change_
