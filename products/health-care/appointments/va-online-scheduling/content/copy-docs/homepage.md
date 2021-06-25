@@ -32,11 +32,11 @@ Show by type
 
 {Upcoming, Open requests, Past, Canceled}
 
-### Open Requests
+#### Open Requests
 
 Your open appointment requests are listed below. Older requests are at the top of the list. These appointments haven't been scheduled.
 
-### Past
+#### Past
 
 Select a date range
 
