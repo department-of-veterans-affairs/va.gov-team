@@ -62,7 +62,7 @@ How might we update the forms to be compliant with legislation and align with th
   - 0994: Week of 05/02/2021
 - *Actual Launch Date* 
   - 5490: TBD
-  - 1990e: Week of 06/18/2021
+  - 1990e: 06/16/2021
   - 0994: 05/05/2021
 
 - *What date will you evaluate impact after launch?*
