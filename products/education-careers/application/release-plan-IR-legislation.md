@@ -16,10 +16,10 @@
 #### 22-5490
 - Number of users: 2
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: 
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Was the data submitted (if any) easy for VA to process?: **TBD**
+- Types of errors logged: **lorem ipsum**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **yes/no **
+- If yes, what: **lorem ipsum**
 
 #### 22-0994
 - Number of users: x
@@ -44,93 +44,69 @@
 ### Planning:
 #### 22-5490
 - Desired date: 07/26/2021
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- KPI 1: Complicit with legislation
+- KPI 2: Applications are successfully submitted/out updates don't impact successful submissions
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ##### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
+- Number of unique users: **x**
+- KPI 1: Complicit with legislation: **TBD**
+- KPI 2: Applications are successfully submitted/out updates don't impact successful submissions: **TBD**
+- Any issues with VA handling/processing?: **yes/no, lorem ipsum**
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **yes/no **
+- If yes, what: **lorem ipsum**
 
 ##### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: **x**
+- KPI 1: Complicit with legislation: **TBD**
+- KPI 2: Applications are successfully submitted/our updates don't impact successful submissions: **TBD**
+- Any issues with VA handling/processing?:**yes/no, lorem ipsum**
+- Types of errors logged: **lorem ipsum**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **yes/no**
+- If yes, what: **lorem ipsum**
 
 #### 22-0994
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Date launched: **05/05/2021**
 
 ##### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: **TBD**
+- KPI 1: Complicit with legislation: **Yes**
+- KPI 2: Applications are successfully submitted/our updates don't impact successful submissions: **Yes**
+- Any issues with VA handling/processing?: **no**
+- Types of errors logged: **none**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **no**
 
 ##### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: **TBD**
+- KPI 1: Complicit with legislation: **Yes**
+- KPI 2: Applications are successfully submitted/our updates don't impact successful submissions: **Yes**
+- Any issues with VA handling/processing?: **no**
+- Types of errors logged: **none**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **no**
 
 #### 22-1990e
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Date launched: **06/16/2021**
 
 ##### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: **x**
+- KPI 1: Complicit with legislation: **Yes**
+- KPI 2: Applications are successfully submitted/our updates don't impact successful submissions: **Yes**
+- Any issues with VA handling/processing?: **no**
+- Types of errors logged: **none**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **no**
 
 ##### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: **TBD**
+- KPI 1: Complicit with legislation: **TBD**
+- KPI 2: Applications are successfully submitted/our updates don't impact successful submissions: **TBD**
+- Any issues with VA handling/processing?: **TBD**
+- Types of errors logged: **TBD**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? **TBD**
+- If yes, what: **TBD**
 
 ## Post-launch Questions 
-
-_To be completed once you have gathered your initial set of data, as outlined above._ 
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? 
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
