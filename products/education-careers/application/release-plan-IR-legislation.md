@@ -1,4 +1,4 @@
-# Release Plan for Education Benefit Application Updates. 
+# Release Plan for Education Benefit Application Updates
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -16,7 +16,7 @@
 #### 22-5490
 - Number of users: 2
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Was the data submitted (if any) easy for VA to process?: 
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
@@ -43,7 +43,7 @@
 
 ### Planning:
 #### 22-5490
-- Desired date: mm/dd/yy
+- Desired date: 07/26/2021
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
