@@ -32,32 +32,25 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 
 ## Method--Details
 ### Potential pages for the design prototype:
-
-Page | Links Connected
-------------------|--------------
-VA.gov home page | Search, Can’t find what you’re looking for?, Find a VA Location (header)
-Search landing page | Search box (click to fill in), Find a form, Resources and Support, Find a VA Location, Home page
-Search results page | Find a form, Resources and Support, Find a VA Location, Home page
-Find a form page | Search box (click to fill in), Home page
-Resources and Support page | Search box (click to fill in), Home page
-Find a VA Location page | Search box (click to fill in), Home page
-(+ additional version of Search landing page and Search results page for each search task below)
+![screen-flow-diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/Screen%20Flow%20Diagram%20for%20Search%20Prototype.jpg)
 
 ### Potential search tasks (that are not in the "top 4" boxes):
 1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
 1. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
 1. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or go to Find a VA location)
 1. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
+1. *IDEAS FROM DENISE?*
 
-We plan to show some unhelpful search results and see what participants do next (from the page they're looking at or navigating back to the home page).
-We will likely need a separate prototype for each task so that search strings and search results can be different.
+**Notes:**
+- We plan to show some *unhelpful* search results and see what participants do next (on the page they're looking at and/or navigating back to the home page).
+- We will likely need a separate prototype for each task so that search queries and search results can be different.
 
 ### To Do's:
-- [ ] Cindy & Megan should discuss design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
-  - [ ] Denise proposed a design workshop re design ideas for adding link(s) to home page (i.e., separate search box, above "top 4" boxes, below "top 4" boxes", inside all 4 "top 4" boxes)
-  - [ ] Shawna would like to be included in the discussion of the search results page (maybe Denise, too?)
-- [ ] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
-- [ ] Denise will find out: *Will we need to work with VSP on these design concepts?*
+- [ ] Cindy would like to provide input on Megan's design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
+  - [ ] Denise proposed a design workshop on design ideas for adding link(s) to home page (i.e., separate search box, above "top 4" boxes, below "top 4" boxes", inside all 4 "top 4" boxes)
+  - [ ] Shawna would like to be included in the discussion of the search results page (Denise, too?)
+- [x] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
+- [ ] Denise will find out: *Do we need to work with VSP on these design concepts?*
 - [ ] Cindy will consider combining this research with the Find a Form Downloading PDF research, if designs are ready at the same time
 
 ## Participants and Recruitment	
