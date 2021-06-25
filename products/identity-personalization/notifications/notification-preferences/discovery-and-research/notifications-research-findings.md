@@ -1,19 +1,61 @@
 # Profile Notification Settings Research Findings
-`draft`
-
+`DRAFT`
 VSA, Authenticated Experience
 
-Liz Lantz (liz.lantz@adhocteam.us), 06/24/2021
+Liz Lantz (liz.lantz@adhocteam.us), 06/25/2021
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md).
 
 ## Research Goals
 
+Through this research, we wanted to learn about the Veteran mental model around notifications, and evaluate our proposed design for a notification settings section of the VA.gov profile.  Specifically, we wanted to find out:
+
+1. What expectations do Veterans have about discovering, receiving, and managing notifications?
+2. Does our solution enable Veterans to manage notifications without encountering UX hurdles, especially when their profile is missing contact information?
+3. What kind of static content support might make sense for this section of profile?
+
+We're also working on improvements to our user experience for removing contact information from profile, so we included one task to evaluate that process.
+
 ## Research Methodolgy
+
+We conducted remote, moderated sessions over Zoom.  Most sessions lasted 50 minutes. We started the session with an interview to learn more about expectations and experience with notifications, and then asked participants to complete 5 tasks in a hi-fidelity UX Pin prototype.
+
+As sessions progressed, we iterated on our conversation guide and prototype in the following ways:
+
+- When asked to show us how they would set up a notification for updates on their medication, the first 3 participants immediately went to health related sections of the homepage.  We made the first task more general - "Show us where you would go to stop receiving text messages from VA" - to avoid leading participants into a specific benefit category.
+- 4 of the first 5 participants unexpectedly experienced significant confusion in the contact email address section of profile (located at the bottom of the personal and contact information page). We created a second prototype for the remaining of participants to test whether or not reversing the order of content improved the user experience of that section.
+  [Personal and contact information page for participants 1-5](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i)
+  [Personal and contact information page for participants 6-9](https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696479/simulate/no-panels?mode=i)
 
 ### Who we talked to
 
+We spoke to a diverse group of 9 Veterans:
+
+- 3 women, 6 men
+- 4 participants who identify as Caucasian, 3 participants who identify as Black or African American, 2 participants who identify as American Indian or Alaska Native
+- Participants ranged in age from 34-74, with the most participants (3) falling into the 35-44 age range.
+- Participants live in Florida, Pennsylvania, Maryland, Arkansas, Oklahoma, Ohio and Texas; 5 participants live in a rural area
+- 2 participants had identified cognitive considerations of PTSD and/or TBI
+- Education level ranged from high school/GED or equivalent to Master's degree, with the most participants (3) having completed some college (no degree). 
+
+
+
 ## Research questions
+
+We designed our [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md) based on the following research questions:
+
+1. What expectations do Veterans have about managing notifications?
+2. What kind of notifications do Veterans expect to be able to receive from the VA?
+3. What words do Veterans use to talk about or search for notification content?
+4. How do Veterans expect to be able to discover notifications they're not currently opted in to?
+5. Does our solution enable Veterans to manage their notifications without encountering UX hurdles?
+6. Are we providing sufficient contextual information through group and notification names?
+7. Do Veterans expect to be able to update their contact info right here on the page?
+8. If a Veteran has partial contact info (missing a phone or email from their profile), do they understand how to make updates so they can get notifications to that channel?
+9. Does a Veteran with partial contact info they understand email/text is also available when they don't have a checkbox to click?
+10. Do they know how to get back to notification settings once they add info?
+11. What kind of static content support makes sense for this section of profile?
+12. Do Veterans experience any usability hurdles when removing contact information from their profile?
 
 ## Key findings
 
@@ -81,11 +123,17 @@ Leaving the notification settings page to add an email address left caused confu
 
 > The VA just didn't make it an option on the website. I don't know why not. It seems like if they can do prescriptions and you get text or email option, you should probably get a text or email option on appointment reminder. - P11
 
-### Multiple participants would turn off all notifications by manipulating their phone number or calling the VA, instead of managing them at the notification settings level.
+### Most participants do not actively manage their notification settings
+
+- Multiple participants would turn off all notifications by manipulating their phone number or calling the VA, instead of managing them at the notification settings level.
 
 ### Many participants are already getting notification from the VA.
 
-### Our design doesn't make notification channel options clear.
+### Our design and content contributed to lack of clarity for key information points around notifications.
+
+- Doesn't make notification channel options clear.
+- Typography too small, especially for notification status
+- Misunderstanding of some notification names
 
 
 
@@ -103,3 +151,9 @@ Leaving the notification settings page to add an email address left caused confu
 
 > It seems kind of dumb, if you just put it [email address] in there down below. It's kind of a conflict because it's saying you have to go there [[ID.me](http://id.me/)] to udpate your email address, but you've already got it down there. Maybe I'm missing a big point...If you're dealing with someone that has issues, mental, physical, this could really put a cog in the wheel - P6
 
+
+
+## Working space
+
+- People didn't struggle with missing/partial contact information, other than 2 participants commented it was odd that there wasn't a contact email address on file if they used an email to log in
+- Most participants expected or wanted to be
