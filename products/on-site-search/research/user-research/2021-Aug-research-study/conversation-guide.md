@@ -71,7 +71,8 @@ INTRO WHAT THEY'LL BE DOING
 ### Task 1: [summary] - X minutes
 I would like you to get form 10-2850c.
 
-
+*RECORD search query typed:*
+Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you did--"XYZ".
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
