@@ -29,6 +29,7 @@ Your Standard KPI dashboard request will be added to the Platform Analytics & In
 
 - [ ] **Please fill out [this template](https://docs.google.com/spreadsheets/d/1dIh-MVmVYCc2mZ_b_8y-cPVZB5-8RIShuOP_ng9uqAA/edit#gid=0) ([attached Excel sheet](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-4.RequestaKPIDashboardinDomo) if you do not have Google access) & link it below to help define your product/feature's funnels.** The Analytics team will ***not*** be able to pull this ticket into the queue until this is provided & linked.
 - [ ] Add your team label to follow progress
+- [ ] If you do not have Domo access, please [request access here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
 
 ## VFS-provided information
 
