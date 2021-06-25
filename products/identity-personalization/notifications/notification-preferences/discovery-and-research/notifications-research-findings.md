@@ -1,7 +1,5 @@
 # Profile Notification Settings Research Findings
 
-`draft`
-
 VSA, Authenticated Experience
 
 Liz Lantz (liz.lantz@adhocteam.us), 06/24/2021
@@ -66,7 +64,7 @@ We designed our [conversation guide](https://github.com/department-of-veterans-a
 3. Notification groups were clear to participants for the most part, but some wanted to see groups in a different order.
 4. Some individual notification names would benefit from additional context.
 5. Many participants expected they'd be able to get all notifications by email *and* text.
-6. Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging for them to do so.
+6. Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging to go to a separate page to do it.
 7. 5 of 9 participants experienced concerns and confusion about their sign-in vs contact email address.
 8. All participants easily understood how to remove contact information, but some wanted more information about the impacts of doing so.
 9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits.
@@ -151,7 +149,7 @@ Participants shared various reasons for wanting to receive notifications by both
   - This was especially important for participants with TBI.
   - Participants commented that emails are more helpful for notifications with a lot of information.
 
-#### Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging for them to do so.
+#### Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging to go to a separate page to do it.
 
 100% of participants clearly understood the messaging on the notification settings page telling them they needed to provide missing contact information to get notifications there.  In [task 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md#task-4-update-contact-information-and-sign-up-for-email-notifications---8-minutes), we asked participants to sign up for COVID-19 email notifications, which required them to add an email address on the personal and contact information page of our prototype.  Leaving the notification settings page to add an email address caused confusion and a lack of confidence that the task had been completed:
 
@@ -259,8 +257,6 @@ Multiple participants struggled with small text in a regular type face in this s
 
 We should also explore how we might make it more clear that all notifications are *not* available through email and text.  The current design doesn't explicitly state that, and it caused confusion.
 
-#### 
-
 #### Conduct testing on mobile, and with a more diverse participant pool
 
 ## Resources	
@@ -271,3 +267,4 @@ We should also explore how we might make it more clear that all notifications ar
 - [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
 - Synthesis: [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/session-notes) and [affinity map](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
 - Findings Decks - to come
+
