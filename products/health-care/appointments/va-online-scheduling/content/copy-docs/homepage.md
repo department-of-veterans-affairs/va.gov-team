@@ -4,6 +4,14 @@
 
 ## Current
 
+(H1) VA online scheduling
+
+Primary and specialty care appointments are available.
+
+(CTA) Start scheduling
+
+(H2) Your appointments
+
 ---
 
 ## Homepage Refresh Toggle
