@@ -43,10 +43,13 @@ We will be attempting to answer some (not all) of the below research questions, 
 
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have**
-  - Must have at least one participant from each login type (DSLogon, MHV, ID.Me).
-  - Logged in to send a secure message or
-  - Logged in to track a claim status or
-  - Logged in to change direct deposit
+  - Participants that primarily log in through VA.gov
+  - At least one participant from DSLogon, MHV, ID.Me
+  - At least one participant from MHV
+  - At least one participant from ID.Me
+  - At least one participant who has logged in to send a secure message or
+  - At least one participant who has logged in to track a claim status or
+  - At least one participant who has logged in to change direct deposit
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
   - At least one person under the age of 30, and at least one person over the age of 55
