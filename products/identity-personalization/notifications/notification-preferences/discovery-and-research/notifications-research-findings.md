@@ -1,5 +1,6 @@
 # Profile Notification Settings Research Findings
 `draft`
+
 VSA, Authenticated Experience
 
 Liz Lantz (liz.lantz@adhocteam.us), 06/25/2021
@@ -232,8 +233,14 @@ Multiple participants thought reminders for in-progess applications would be hel
 
 1. Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
 2. Provide a way for Veterans to update their contact information without having to go to a new page.
-3. Revisit the design for status messages and surfacing the channels through which Veterans can receive notifications.
-4. Conduct testing on mobile, and with a more diverse participant pool
+3. Consider making all notifications available by text and email.
+4. Revisit the design for status messages and surfacing the channels through which Veterans can receive notifications.
+5. Update the page IA to better align with Veteran priorities.
+6. Update profile content to improve clarity and comprehension.
+7. Revisit the design and content around login and contact email addresses.
+8. Move forward with moving remove functionality to the read mode of personal and contact information page.
+9. Consider adding notifications participants mentioned to future versions of our notification engine.
+10. Conduct testing on mobile, and with a more diverse participant pool.
 
 ### Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
 
