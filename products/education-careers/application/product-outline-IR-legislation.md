@@ -53,7 +53,7 @@ How might we update the forms to be compliant with legislation and align with th
 ## Go-to-market Strategy
 - Form updates are enhancements to existing forms for transfer of benefits.  These are widely used benefit applications.  
 
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Release Plan for Education Benefit Application Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/release-plan-IR-legislation.md)
 
 ## Launch Dates
 - *Target Launch Date*
