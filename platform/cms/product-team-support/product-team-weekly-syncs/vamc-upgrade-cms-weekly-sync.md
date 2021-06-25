@@ -28,12 +28,12 @@
   * When is the next round? 
 * CMS role in go-live for VAMCs
   * Remove endpoint for operating status migrations, merge and release to CMS prod the day before the Drupal becomes canonical. 
+    * June 30: [#5634](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5634): Wilkes-Barre, Wilmington, Altoona
     * July 7: Butler and Erie [#5696](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5696)
     * July 14: ?
     * July 21: ?
   * Anything else CMS should be doing? Should we review runbook?
-* Guidance for PAOs placing detail pages between and now and [#4988](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4988) merge, and fixing existing ones.
-  * 
+* Guidance for PAOs placing detail pages between and now and [#4988](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4988) merge, and fixing existing ones. 
 * Leadership Pages
   * FE is currently hard-coded to need `*-health-care/leadership` but it will be moving to the original spec, `*-health-care/about-us/leadership`. 
   * For now, Continue to create pages at `*-health-care/leadership`, and leave URL automatic and ideally go ahead and get ahead of the curve here by creating as many as possible, so that we can have a 
