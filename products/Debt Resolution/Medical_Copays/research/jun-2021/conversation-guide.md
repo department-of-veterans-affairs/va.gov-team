@@ -50,7 +50,7 @@ Start recording.
 
 * I'm going to send you a link in Zoom's chat feature. Go ahead and click that link when you're ready.
 
-\[Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349\#/pages/139878811/simulate/no-panels?mode=i\] 
+Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349#/pages/?mode=i 
 
 What we're looking at now is a potential tool on VA.gov. Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know. If something doesn't work the way you expect, let me know what you expected it to do. 
 
