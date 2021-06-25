@@ -59,6 +59,7 @@ Due to technical issues, not all participants were able to share their typical o
   - Listing all the headings on the page (Insert + F6) or (H) for navigating headings one by one
   - Find feature to search the page for keywords (F), _typing "Locations" to find facilities_
   - Listing all the links on a page (Insert + F7), _52 links on the VA.gov homepage_
+  - Navigating via Landmarks and Regions
   - Navigating through the edit boxes on a page, i.e. input fields _JAWS did not identify global search as an edit box_
   - Navigating through the buttons on a page, _once one participant was informed the page had one_
   - Using placemarkers (K), _one participant uses them as bookmarks during a browsing session_
