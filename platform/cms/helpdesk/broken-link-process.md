@@ -5,7 +5,7 @@
 ### Slack Alerts
 Content releases occur roughly at the top of the hour from 9am-5pm ET, but can also be triggered outside the hourly schedule (by editing certain content types, and/or by bulk publishing).
 
-The broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to **#vfs-platform-builds channel**, which mentions the **@cmshelpdesk** Slack group.
+The broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to the **#vfs-platform-builds** Slack channel in DSVA Slack, which mentions the **@cmshelpdesk** Slack group.
 
 The notification follows the format:
 
