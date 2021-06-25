@@ -42,7 +42,6 @@ How might we update the forms to be compliant with legislation and align with th
 1. [5490: Update FRY helper content and update date of death question#25122](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25122)
 2. [5490: Update form for legislative changes effective 8/1#26436](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/26436)
 
-
 ### 22-0994
 1. [0994: Add "I certify" statement to Review Application chapter#23442](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23442)
 
@@ -65,6 +64,7 @@ How might we update the forms to be compliant with legislation and align with th
   - 5490: TBD
   - 1990e: Week of 06/18/2021
   - 0994: Week of 05/02/2021
+
 - *What date will you evaluate impact after launch?*
   - 
 ---
@@ -78,10 +78,7 @@ How might we update the forms to be compliant with legislation and align with th
 ---
    
 ## Screenshots
-
-### Before
-
-### After
+See issues linked in "Solution Approach" above for details and screenshots. 
 
 ---
 
