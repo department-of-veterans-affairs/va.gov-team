@@ -51,6 +51,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
   - [ ] Shawna would like to be included in the discussion of the search results page (Denise, too?)
 - [x] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
 - [ ] Denise will find out: *Do we need to work with VSP on these design concepts?*
+- [ ] Denise/Megan: Rough timing for when design prototypes will be ready?
 - [ ] Cindy will consider combining this research with the Find a Form Downloading PDF research, if designs are ready at the same time
 
 ## Participants and Recruitment	
