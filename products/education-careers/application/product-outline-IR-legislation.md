@@ -1,4 +1,4 @@
-# Product Outline for Education Benefit Application Updates due to Isakson-Roe Legislation
+# Product Outline for Education Benefit Application Updates
 
 ---
 
@@ -6,7 +6,7 @@
 Several applications for education benefits are being updated to conform to [Isakson-Roe legislation](https://benefits.va.gov/gibill/isaksonroe.asp) expanding benefits and to better map with their paper-form counterparts.   
 
 ## Problem Statement
-Several education benefit application forms are now out of date due to the newly passed legislation.   
+Several education benefit application forms are now out of date due to the newly passed legislation & updates to the paper forms.   
 
 How might we update the forms to be compliant with legislation and align with the print versions of the forms?
  
@@ -44,11 +44,10 @@ How might we update the forms to be compliant with legislation and align with th
 
 
 ### 22-0994
-1. Update "I certify" statement on review application page: [0994: Add "I certify" statement to Review Application chapter#23442
-](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23442)
+1. [0994: Add "I certify" statement to Review Application chapter#23442](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23442)
 
 ### 22-1990E
-1. 1990E: [Update 2 questions due to legislative changes.#24718](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/24718)
+1. [1990E: Update 2 questions due to legislative changes.#24718](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/24718)
 
 --- 
 
@@ -63,6 +62,7 @@ How might we update the forms to be compliant with legislation and align with th
   - 1990e: Week of 06/18/2021
   - 0994: Week of 05/02/2021
 - *Actual Launch Date* 
+  - 5490: TBD
   - 1990e: Week of 06/18/2021
   - 0994: Week of 05/02/2021
 - *What date will you evaluate impact after launch?*
@@ -89,11 +89,11 @@ How might we update the forms to be compliant with legislation and align with th
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: VSA Education
+- GitHub Label: bah-edu-forms
+- Slack channel: vsa-education
+- Product POCs: Desiree Turner, Darrell Neel, Amy Knox
+- Stakeholders: VA Education Services
 
 </details>
 
