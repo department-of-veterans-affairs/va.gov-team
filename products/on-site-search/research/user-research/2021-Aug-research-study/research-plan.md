@@ -43,7 +43,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 
 **Notes:**
 - We plan to show some *unhelpful* search results and see what participants do next (on the page they're looking at and/or navigating back to the home page).
-- We will likely need a separate prototype for each task so that search queries and search results can be different.
+- We will likely need *a separate prototype for each task* so that search queries and search results can be different.
 
 ### To Do's:
 - [ ] Cindy would like to provide input on Megan's design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
