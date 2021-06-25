@@ -57,11 +57,11 @@ Due to technical issues, not all participants were able to share their typical o
 - Assistive technology users may be advanced users of one device and novice users of another where their knowledge limits them to a small handful of features and functionality. Manipulating the 'Service type' combo box on Facility locator using an iPhone was difficult and unfamiliar to one user who was more skilled at using JAWS on desktop. 
 - Orienting oneself on a website can be unpredictable, cumbersome and very time consuming for users with low to no vision. Participants used various methods to figure out what page they were on, what a page is about and what they can do on it. The JAWS users we observed often used a handful of keyboard commands to either pull up a menu with a list of page elements of a particular type or to navigate by that type of item individually. Some examples we observed:
   - Listing all the headings on the page (Insert + F6) or (H) for navigating headings one by one
+  - Find feature to search the page for keywords (F), _typing "Locations" to find facilities_
   - Listing all the links on a page (Insert + F7), _52 links on the VA.gov homepage_
   - Navigating through the edit boxes on a page i.e. input fields _JAWS did not identify global search as an edit box_
-  - Navigating through the buttons on a page (when a participant was informed the page had one)
-  - Using placemarkers (K)
-  - Search the page for keywords (F)
+  - Navigating through the buttons on a page _once one participant was informed the page had one_
+  - Using placemarkers (K) _one participant uses them as bookmarks during a browsing session_
 
  > P1:"I click H for heading and that’s how most people use JAWS on a web page. Reading from top to bottom is very tedious." [Later the participant uses H on VA.gov homepage] I first went to va.gov and the first heading that came up is 'Service member benefits'."  
  
