@@ -18,7 +18,9 @@ NNN GI Bill students ([Learn more](){display modal})
 
 {GI Bill students learn more modal content}
 
-modal content goes here
+#### GI Bill students
+
+The number of Veterans, service members and family members using their GI Bill benefits attending this school in the last calendar year. This includes all chapters of the GI Bill program (e.g., Post-9/11, Montgomery GI Bill, Reserve Education Assistance Program, and Veteran Readiness and Employment). Keep in mind that differences in attendee numbers don’t necessarily mean one school is more military friendly than another. This information will be updated annually.
 
 
 {/end learn more modal content}
@@ -48,18 +50,40 @@ What's your military status? {dropdown, Veteran selected by default}
 
 Which GI Bill benefit do you want to use? ([Learn more]()) {dropdown, Post-9/11 GI Bill (Ch 33) selected by default}
 
-{Learn more modal content - to come}
+{Learn more modal content }
+
+#### Which GI Bill benefit do you want to use?
+
+You may be eligible for multiple types of education and training programs. Different programs offer different benefits, so it’s important to choose the program that will best meet your needs. Use this tool to compare programs and schools.
+
+Learn more about [GI Bill program benefits and eligibility requirements](https://www.va.gov/education/eligibility/).
+
+{ end modal }
 
 Cumulative Post-9/11 active-duty service ([Learn more]()) {dropdown, 36+ months: 100% selected by default}
 
-{Learn more modal content - to come}
+{Learn more modal content }
+
+#### Cumulative Post-9/11 service
+
+The Post-9/11 GI Bill provides financial support for education and a housing allowance. To qualify for this program, you must have served after September 10, 2001 for at least 90 days or, if you were discharged with a service-connected disability, for at least 30 days. The service period for these benefits doesn't include your entry and initial skill training. You also need to have received an honorable discharge.
+
+{ end modal }
 
 Did you use your Post-9/11 GI Bill benefits for tuition, housing, or books for a term that started before January 1, 2018? ([Learn more]()) {radio button selection, No selected by default}
 
 Yes | No { selection options }
 
-{Learn more modal content - to come}
+{Learn more modal content }
 
+#### What is Section 501 (Monthly Housing Allowance Rate)?
+
+Effective January 1, 2018, the Post-9/11 GI Bill monthly housing allowance rate will be the same as the Department of Defense’s E-5 with dependents Basic Allowance Housing (BAH) rate.
+
+* Students will receive this rate if they first used their Post-9/11 GI Bill benefits on or after January 1, 2018.
+* If the student started using their Post-9/11 GI Bill before January 1, 2018, they will continue receiving payments based on the slightly higher VA rate eliminated by this change.
+
+{ end modal content}
 
 Update benefits {Update button - deactivated until selection has been made}
 
@@ -70,20 +94,51 @@ Are you an in-state student? {radio button selection, Yes selected by default}
 
 Yes | No { selection options }
 
-{Learn more modal content - to come}
+{Learn more modal content }
+
+#### Qualifying for in-state tuition
+
+If you're using GI Bill education benefits, you probably qualify for in-state tuition.
+
+Contact the School Certifying Official (SCO) to learn more about this school's in-state tuition requirements.
+
+{ end modal }
 
 Tuition and fees per year ([Learn more]()) {text field: filled with school tuition, if available }
 
-{Learn more modal content - to come}
+{Learn more modal content }
+
+#### Tuition and fees per year
+
+Enter the total tuition/fees you'll be charged for the academic year.
+
+When you select some schools, we import the average tuition/fees for an undergraduate student as reported by the school to the Department of Education through [IPEDS](http://nces.ed.gov/ipeds/datacenter/). This is the same information that is published on [College Navigator](http://nces.ed.gov/collegenavigator/).
+
+To learn more, please review our "[About This Tool](http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#yellow_ribbon_from_school)" page.
+
+{ end modal }
 
 School calendar ([Learn more]()) {dropdown, Semesters selected by default }
 
-{Learn more modal content - to come}
+{Learn more modal content }
+
+#### School calendar
+
+Is your school on a semester, quarter, or non-traditional calendar system?
+
+{ end modal }
 
 Enrolled ([Learn more]()) {dropdown, Full time selected by default }
 
-{Learn more modal content - to come}
+{Learn more modal content }
 
+#### Enrollment status
+
+Are you considered a full-time or part-time student by your school? Students attending school less than full-time will get a pro-rated monthly housing allowance. Students attending school exactly ½ time or less won’t get a monthly housing allowance.
+
+Learn more about [pro-rated housing allowance calculations](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1480/kw/pro-rated%20monthly%20housing%20allowance).
+
+{ end modal }
 
 Update benefits {Update button - deactivated until selection has been made}
 
@@ -93,7 +148,19 @@ Will you be taking any classes in person?  ([Learn more]()) {radio button select
 
 Yes | No { selection options }
 
-{Learn more modal content - to come}
+{ Learn more modal content }
+
+#### Your housing allowance is determined by where you take classes
+
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.
+
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.
+
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.
+
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
+
+{ end modal }
 
 Where will you take the majority of your classes?  ([Learn more]()) {radio button selection, current campus location selected by default}
 
@@ -303,6 +370,8 @@ Your decision to apply for a certain educational benefit could impact your eligi
 * If you're eligible for more than one education benefit, such as the Post-9/11 GI Bill and the Montgomery GI Bill, you must choose which benefit to receive, *a decision that's final and cannot be changed.*
 * If you're eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you did not give up. 
 
+Apply for education benefits { Action link! }
+
 
 ## Veteran ratings
 
@@ -402,4 +471,249 @@ Veterans rate schools on a number of categories. Those ratings are averaged to c
 
 A school may ask us for a list of Veterans who rated their school, but we do not share individual ratings with schools. If an institution asks us for information on who rated their school, no information beyond what is publicly available on the Comparison Tool is shared with them that would tie an individual to their ratings.  
 
+
+## Cautionar information
+
+### Student feedback
+
+* NN student complaints in the last 24 months ([Learn more])
+
+{ Learn more modal }
+
+#### Student complaints
+
+This is the number of closed, Principles of Excellence-related, complaints submitted to VA through the GI Bill Feedback system for this school.
+
+To learn more visit the [VA GI Bill Feedback Tool](https://www.benefits.va.gov/GIBILL/Feedback.asp).
+
+{ end modal }
+
+{ Table showing student complaints for "This campus" and "All campuses" }
+
+{ All campuses  learn more modal }
+
+#### VA Complaints (all campuses):
+
+The number of closed, Principles of Excellence-related, complaints for schools with the same six-digit OPEID code.  
+
+{ end modal }
+
+## School locations
+
+Below are locations for { conditional: main campus name }. The housing estimates shown here are based on a full-time student taking in-person classes.  
+
+ { conditional content to display when links are present in School locations panel: "Select a link to view another location and calculate the benefits you'd receive there." }
+
+
+Showing N of NN locations
+
+{ include pagination if greater than 10 schools to display }
+
+## Academics
+
+### Types of degrees offered
+
+The following degrees are offered by this institution.  Degree and program length may vary based on your field of study.  Note that some of these degrees may not be eligible for VA education benefits. 
+
+{ list degrees available - per ED data }
+
+### Education opportunities
+
+* Accreditation ([Learn more]): {Display type of accreditation Regional | Hybrid | National | None } ([See accreditors](){link to school record on http://nces.ed.gov/collegenavigator/})
+
+{ learn more modal }
+
+#### Accreditation and why it matters
+ 
+The goal of accreditation is to ensure the education provided by institutions of higher learning meets acceptable levels of quality.  Accreditation matters if you plan to start school at one institution and transfer to another to complete your degree.  Be sure to ask any potential school about their credit transfer policy.
+ 
+Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between institutions that were regionally, rather than nationally, accredited.” [Read the ED report on credit transferability](http://nces.ed.gov/pubs2014/2014163.pdf)
+ 
+To learn more about the accreditation process and types of accreditation, visit the "[About this Tool](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type)" page.
+
+{ end learn more modal }
+
+* Credit for military training ([Learn more]): {Yes | No}
+
+{ learn more modal }
+
+#### Credit for military training
+
+Does the school offer postsecondary credit for experiences and military training?
+
+{ end modal content }
+
+* Independent study ([Learn more]): { Yes | No }
+
+{ learn more modal }
+
+#### Independent study
+
+Beneficiaries may use educational assistance to access online learning (accredited independent study) at schools that aren’t Institutions of Higher Learning (IHLs). These schools must be postsecondary vocational institutions or area career and technical education schools that provide postsecondary level education. *Note:* This doesn’t apply to Dependents’ Educational Assistance program beneficiaries.
+
+{ end learn more modal }
+
+* Priority enrollment ([Learn more]): { Yes | No }
+
+{ learn more modal }
+
+#### Priority enrollment
+
+If an Institution of Higher Learning (a college or university) has a system for priority enrollment that allows certain student Veterans to enroll in courses earlier than other students (not necessarily earlier than *all* students), we’ll note that with the school’s information here.
+
+{ end learn more modal }
+
+### Get started with CareerScope
+CareerScope(R) take career and educational planning to a new level. The proven career assessment and reporting system from the Vocational Research Insitute is a powerful, yet easy-to-use program. 
+
+[Get started with CareerScope](https://va.careerscope.net/gibill) { action link } 
+
+{ end learn more modal }
+
+
+## Veterans programs and support 
+* 8 Keys to Veteran Success [Learn more]()
+
+{ learn more modal content }
+
+#### 8 Keys to Veteran Success
+
+The “8 Keys to Veterans’ Success” are steps that postsecondary institutions can take to assist Veterans and service members in transitioning to higher education, completing their college programs, and obtaining career-ready skills.
+
+Postsecondary institutions listed here have stated their support for the 8 Keys. However, this isn’t an assurance by the U.S. Department of Education that an institution has actually implemented the 8 Keys. It also doesn’t mean that these institutions are endorsed by the U.S. Department of Education.
+
+To learn more about accreditation, visit the U.S. Department of Education’s [8 Keys to Veterans’ Success](http://www.ed.gov/veterans-and-military-families/8-keys-success-sites) page.
+
+{ end modal }
+
+* Military Tuition Assistance (TA) [Learn more]()
+
+{ learn more modal content }
+
+#### Military Tuition Assistance (TA)
+
+Are you receiving any military tuition assistance this year? If so, how much? The Post-9/11 GI Bill pays the net-cost of your education after scholarships or financial aid amounts are applied. This includes amounts already paid by military tuition assistance.
+
+{ end modal }
+
+* Principles of Excellence [Learn more]()
+
+{ learn more modal content }
+
+#### Principles of Excellence
+
+The [Principles of Excellence](https://www.govinfo.gov/content/pkg/FR-2012-05-02/pdf/2012-10715.pdf) are guidelines for educational institutions receiving federal funding. Schools that agree to participate will:
+
+* End fraudulent and aggressive recruiting techniques and misrepresentation.
+* Provide students with a personalized form covering the total cost of an education program.
+* Provide educational plans for all military and Veteran education beneficiaries.
+* Provide accommodations for service members and Reservists absent due to service requirements.
+* Assign a point of contact for academic and financial advising.
+* Make sure all new programs are accredited before they enroll students.
+* Align institutional refund policies with those under Title IV.
+
+Foreign schools, high schools, on-the-job training and apprenticeship programs, residency and internship programs, and those who don’t charge tuition and fees aren’t asked to comply with the Principles of Excellence.
+
+We try to make sure this information is accurate, but prospective students should only use this as a planning tool. Principles of Excellence schools are updated quarterly.
+
+{ end modal }
+
+* Student Veteran Group [Learn more](): [Site]() {dynamic display of Veteran group link}
+
+{ learn more modal content }
+
+#### Student Veterans group
+
+Does this school have a student-led Veterans group on campus?
+
+If a school has a student Veterans group that’s not represented here, please email [224A.VBAVACO@va.gov](). We make quarterly updates to this tool.
+
+Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, please check this "[Ask a Question](https://gibill.custhelp.va.gov/app/utils/login_form/redirect/ask)" page.
+
+{ end modal }
+
+* VetSuccess on Campus [Learn more]() [Email {Name of Contact}]()  
+
+{ learn more modal content }
+
+#### VetSuccess on Campus (VSOC)
+
+This program supports service members, Veterans, and qualified dependents through on-campus counseling and help overcoming barriers—like accommodating disabilities or getting referrals to health services. It's designed to help you succeed at school and get ready to enter the job market in a promising career field.
+
+[Download the VSOC fact sheet](http://www.benefits.va.gov/vocrehab/vsocfactsheet.asp)
+
+[Learn more about the VSOC program](https://www.benefits.va.gov/vocrehab/vsoc.asp)
+
+{ end modal }
+
+### Historical information
+
+{ Table display of benefits, recipients, and Total paid for Ch33 & Yellow Ribbon benefits }
+
+## Contact information
+
+Physical address {list physical address}
+
+Mailing address {list mailing address}
+
+### Single point of contact 
+
+* Single point of contact for Veterans [Learn more](): { display options: Yes | No }
+
+{ learn more modal }
+
+#### Single point of contact for Veterans
+
+Does the school have a dedicated point of contact for support services for Veterans, military service members, and their families?
+
+{ end modal }
+
+### School certifying officials
+
+#### Primary 
+
+{ list all primary SCOs}
+
+#### Secondary
+
+{ list secondary SCOs if relevant }
+
+### Institution codes
+
+VA Facility Code  [Learn more](): { dynamic display }
+
+{ learn more modal }
+
+#### VA facility code
+
+Unique identifier for VA-approved facilities.
+
+{ end modal }
+
+ED IPEDS code [Learn more](): { dynamic display }
+
+{ learn more modal }
+
+#### ED IPEDS code
+
+Unique identification number assigned to postsecondary institutions surveyed through the Integrated Postsecondary Education Data System (IPEDS). Also referred to as UNITID or IPEDS ID.
+
+{ end modal }
+
+
+ED OPE code [Learn more](): { dynamic display }
+
+{ learn more modal }
+
+#### ED OPE code
+Identification number used by the U.S. Department of Education’s Office of Postsecondary Education (OPE) to identify schools that have Program Participation Agreements (PPA) so that its students are eligible to participate in Federal Student Financial Assistance programs under Title IV regulations.
+
+{ end modal }
+
+
+{ pre-footer }
+
+[About this Tool](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp)
+
+[Download Data on All Schools](https://www.benefits.va.gov/GIBILL/docs/job_aids/ComparisonToolData.xlsx)
 
