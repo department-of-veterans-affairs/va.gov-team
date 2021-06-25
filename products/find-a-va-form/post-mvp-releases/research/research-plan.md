@@ -68,21 +68,19 @@ Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using 
 - What web browser do you use on that device? (e.g., Chrome, Edge, Internet Explorer, Firefox, Safari) 
 
 ## Timeline
-#### Desired Timeline: June 22-24, 2021 
+#### Desired Timeline: July TBD, 2021 
 **30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-June 22, 2021 | Noon - 3 pm, 4 - 8 pm
-June 23, 2021 | Noon - 2:30 pm, 5 - 8 pm
-June 24, 2021 | Noon - 3 pm
+TBD, 2021 | Noon - 3 pm, 4 - 8 pm
+TBD more days |
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-June 17, 2021  |  TBD (screen reader user)
-June 21, 2021  |  TBD (non-screen reader user)
+TBD, 2021  |  TBD (screen reader user)
+TBD, 2021  |  TBD (non-screen reader user)
 
-*Want quick data analysis on June 24 so can provide go/no go recommendation by June 25, if possible.*
 *Timing contingent on approval of design changes, development on Staging before pilot sessions, and Cindy's availability.*
 
 ## Team Roles	
@@ -100,4 +98,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - [Research Findings]()	
 
 ## Approvals
-Plan reviewed and approved by Lauren Alexanderson on DATE
+Plan reviewed and approved by Lauren Alexanderson on DATE TBD
