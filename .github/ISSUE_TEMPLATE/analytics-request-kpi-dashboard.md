@@ -17,7 +17,7 @@ Additional Info
 
 - Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the Standard KPI dashboards. 
 
-- For additional info, read through the [How to Request a KPI Dashboard Documentation](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html).
+- For additional info, read through the [How to Request a KPI Dashboard Documentation](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-4.RequestaKPIDashboardinDomo).
 
 ### Expected delivery timelines
 
