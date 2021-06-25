@@ -11,33 +11,28 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request a Standard KPI dashboard ([example](https://va-gov.domo.com/page/447193050)) on Domo for your product.
-
-- Every VFS team should be using the Standard KPI dashboards. If your product *does not* have a Standard KPI Dashboard, please fill this out this template for a Standard KPI dashboard first.
+Use this template to request a KPI dashboard on Domo for your product.
 
 Additional Info
 
 - Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the Standard KPI dashboards. 
 
-- For additional info, read through the [How to Request a KPI Dashboard Documentation](https://vfs.atlassian.net/wiki/spaces/AT/pages/edit-v2/1586823275?draftShareId=5cf29a9d-eb39-45cf-af97-ee55c9b8dc2e#4.-Request-a-standardized-KPI-Dashboard-in-Domo).
+- For additional info, read through the [How to Request a KPI Dashboard Documentation](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html).
 
 ### Expected delivery timelines
 
 Your Standard KPI dashboard request will be added to the Platform Analytics & Insights team's customer support queue, and we expect tickets at the top of the queue to be pulled in every Platform Sprint Planning & Refinement (every Wednesday). We appreciate your patience.
 
-- Once your ticket has been pulled into the Platform sprint, we expect to deliver your completed dashboard within the next 4 business days.
+- Once your ticket has been pulled into the Platform sprint, we expect to deliver your completed dashboard within the next 4 business days. Please use this ticket for any follow up questions.
 
 ## Instructions for the VFS team
 
-- [ ] **Please fill out [this template](https://docs.google.com/spreadsheets/d/1dIh-MVmVYCc2mZ_b_8y-cPVZB5-8RIShuOP_ng9uqAA/edit#gid=0) ([attached Excel sheet](https://vfs.atlassian.net/wiki/spaces/AT/pages/edit-v2/1586823275?draftShareId=5cf29a9d-eb39-45cf-af97-ee55c9b8dc2e#4.-Request-a-standardized-KPI-Dashboard-in-Domo) if you do not have Google access) & link it below to help define your product/feature's funnels.** The Analytics team will ***not*** be able to pull this ticket into the queue until this is provided & linked.
-- [ ] Link your Product Outline below
+- [ ] **Please fill out [this template](https://docs.google.com/spreadsheets/d/1dIh-MVmVYCc2mZ_b_8y-cPVZB5-8RIShuOP_ng9uqAA/edit#gid=0) ([attached Excel sheet](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-4.RequestaKPIDashboardinDomo) if you do not have Google access) & link it below to help define your product/feature's funnels.** The Analytics team will ***not*** be able to pull this ticket into the queue until this is provided & linked.
 - [ ] Add your team label to follow progress
 
 ## VFS-provided information
 
 [Funnel Information](Add your product/feature's funnel information here) - Add your product/feature's funnel information here
-
-[Team KPIs](add your team's KPIs here) - Add your team's product outline here
 
 *Please leave the following blank*
 
