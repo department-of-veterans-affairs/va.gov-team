@@ -26,6 +26,9 @@
 </details>
 
 
+## Monday June 28, 2021
+* How LH's API should get data for CMS health services and CAPS facilities
+
 ## Monday June 14, 2021
 
 * CAP data questions
