@@ -82,7 +82,7 @@
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include in this initial set of functionality, and why?*
+> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
 
