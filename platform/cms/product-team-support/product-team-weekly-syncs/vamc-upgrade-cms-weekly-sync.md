@@ -28,7 +28,7 @@
 ## July 2
 
   * Reminder of Leadership Listing pages content freeze during Sprint 51. CMS team will make URL changes early Sprint 36. 
-  
+  * Operating Status page changes - Menu required.  What is the new SOP.
 
 ## June 25
 
