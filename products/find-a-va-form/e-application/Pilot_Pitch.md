@@ -71,7 +71,12 @@ _To be filled out by Discovery Sprint Team._
 ### Project Details
 
 * What do we know?
+  - The digital signature fields on some VA PDF forms do not render as fillable within a web browser a due to incompatibility between Adobe's Dynamic XFA and modern browsers.
+  - The only reliable way for these forms to be opened and fully completed is to use Adobe Acrobat Reader.
+  - There is an attribute currently used on Find a VA Form that will instruct a browser to **download** a PDF form rather than attempt to open it locally when the form is hosted on a VA.gov domain.
+  - Some PDF forms offered on Find a VA Form are hosted on a VA subdomain, which prevents the use of the download attribute described above. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
 * What don't we know?
+  - We have no way of knowing at runtime if a user has Adobe Acrobat Reader installed, or if they have it set as their default PDF reader.
 * Are any of the above assumptions that need to be verified?
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
