@@ -1,9 +1,9 @@
 # Screen Readers
 
-- [Checklist and recommendations](Checklist-and-recommendations)
-- [Desktop screen readers](Desktop-screen-readers)
-- [iOS VoiceOver (mobile/tablet)](iOS-VoiceOver)
-- [Talkback Android (mobile/tablet)](Talkback-Android)
+- [Checklist and recommendations](#Checklist-and-recommendations)
+- [Desktop screen readers](#Desktop-screen-readers)
+- [iOS VoiceOver (mobile/tablet)](#iOS-VoiceOver)
+- [Talkback Android (mobile/tablet)](#Talkback-Android)
 
 <hr aria-hidden="true">
 
