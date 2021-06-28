@@ -34,8 +34,8 @@ We spoke to a diverse group of 9 Veterans:
 - 3 women, 6 men
 - 4 participants who identify as Caucasian, 3 participants who identify as Black or African American, 2 participants who identify as American Indian or Alaska Native
 - Participants ranged in age from 34-74, with the most participants (3) falling into the 35-44 age range.
-- Participants live in Florida, Pennsylvania, Maryland, Arkansas, Oklahoma, Ohio and Texas; 5 participants live in a rural area
-- 2 participants had identified cognitive considerations of PTSD and/or TBI
+- Participants live in Florida, Pennsylvania, Maryland, Arkansas, Oklahoma, Ohio and Texas; 5 participants live in a rural area.
+- 2 participants had identified cognitive considerations of PTSD and/or TBI.
 - Education level ranged from high school/GED or equivalent to Master's degree, with the most participants (3) having completed some college (no degree). 
 
 
@@ -67,7 +67,7 @@ We designed our [conversation guide](https://github.com/department-of-veterans-a
 6. Leaving notification settings to add missing contact information caused confusion for participants. 
 7. 5 of 9 participants experienced concerns and confusion about their sign-in vs contact email address. 
 8. All participants easily understood how to remove contact information, but some wanted more information about the impacts of doing so.
-9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits. Go to details.
+9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits. 
 
 ### It was not intuitive for participants to look in profile to manage notification settings, and most don't actively manage settings for notifications they currently receive.
 
