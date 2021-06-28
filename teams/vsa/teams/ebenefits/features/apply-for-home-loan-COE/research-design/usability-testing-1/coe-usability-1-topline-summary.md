@@ -43,25 +43,27 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 | P11 | -- | -- | -- | -- | -- | -- |
 | P12 | No-show | -- | -- | -- | -- | -- | -->
 
-## Initial findings (based on guiding questions)
+## Initial findings
 
 ### Participants primarily looked to white quads, specifically to the “Records” box, to find the COE tool.
-- `JA` Users seems to gravitate toward the "Download your benefit letters" link
+- Users seems to gravitate toward the "Download your benefit letters" link
 - One user utilized search, one used mega menu
 - Two users found the COE landing page
-- `JA` Two (?) participants saw COE links at the bottom of the letters screen
+- Two (?) participants saw COE links at the bottom of the letters screen
+- It seems participants mentally connected a COE--which is a benefit document--with other benefits documents and expected they would be together on VA.gov
 
-### On the COE intro screen, users see the sign-in box and click before reviewing other info on the screen.
+### On the COE intro screen, the sign-in widget generally distracted users from reviewing intro screen content.
 - All five users signed-in before seeing the subway map or reading the auto COE blurb
 - One user did scroll to the bottom of the page, but only noted the estimated time to complete as useful after prompting
 
-### All users understood what they received/found a COE, even if they didn’t understand where they were redirected from the intro. 
+### Participants generally accepted the auto COE screen's presentation and functionality
+- All users understood what they 'received/found" their COE, even if they didn’t understand where they were redirected from the intro (P11 skipped the auto COE flow)
 - One user seemed to understand the auto COE screen to be a different page
-- All users on the auto COE screen found the COE download link and the COE PDF (P11 skipped the auot COE flow)
+- All users on the auto COE screen found the COE download link and the COE PDF (P11 skipped the auto COE flow)
 - Three users said they would print their COE, and two said they would also save it to email to their lender
 
 ### It was not clear to all users that they needed to "apply" to make changes.
-- All users did enter the form using the "apply" action link, though they felt the labeling was wrong (P11 skipped the auot COE flow)
+- When asked to "make changes," all users did enter the form using the "apply" action link, though most felt the labeling was wrong 
 - 3 of those 4 realized they’d linked back to the form
 - 1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
 - There are good quotes from the first and last (?) users that show the range of understanding here.
