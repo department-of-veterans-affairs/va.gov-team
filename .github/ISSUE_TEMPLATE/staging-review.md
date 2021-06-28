@@ -45,12 +45,17 @@ OR
 - VFS Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Scheduling
-What is your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York)? **date/time**
+
+### Staging Reviews can only be scheduled on Thursday.
+
+Please select your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York).<br>
+
+**Date/time**
  
 Please note:
 - All times are shown in ET. 
-- Available time slots are indicated with [CALENDAR BLOCK]. 
-- When you reserve a time slot, the reserved meeting will show up alongside the [CALENDAR BLOCK]. 
+- Available time slots are indicated with [STAGING BLOCK]. 
+- When you reserve a time slot, the reserved meeting will show up alongside the [STAGING BLOCK]. 
 - Please select a time slot at least 4 business days from request date.
 
 ## Additional information
