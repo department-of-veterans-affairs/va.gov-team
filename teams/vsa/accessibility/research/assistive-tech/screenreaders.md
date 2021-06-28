@@ -46,7 +46,7 @@ Screen reader users do not navigate in the same way that sighted users do. Typic
 
 <hr aria-hidden="true">
 
-## iOS VoiceOver (mobile/tablet)
+## iOS VoiceOver 
 [VoiceOver screen share setup demo (youtube)](https://www.youtube.com/watch?v=B_qMQdP9zqQ)
 
 ### Joining zoom instructions (send by email or provide guidance over call)
@@ -82,7 +82,7 @@ Screen reader users do not navigate in the same way that sighted users do. Typic
 
 <hr aria-hidden="true">
 
-## Talkback Android (mobile/tablet)
+## Talkback Android 
 [TalkBack screen share setup demo (youtube)](https://www.youtube.com/watch?v=yQCmAGu8Tbs)
 
 ### Joining zoom instructions (send by email or provide guidance over call)
