@@ -71,7 +71,7 @@ We designed our [conversation guide](https://github.com/department-of-veterans-a
 
 ### It was not intuitive for participants to look in profile to manage notification settings, and most don't actively manage settings for notifications they currently receive.
 
-Our first task asked participants where they would go to either set up or turn off notifications.  Six participants did not go to the profile; rather they looked on the homepage under various sections such as health care and records.  We prompted them to see if there is anywhere else they would look; responses included using site search, the contact us link, and My Health eVet (MHV).
+Our first task asked participants where they would go to either set up or turn off notifications.  Six participants first looked on the homepage under various sections such as health care and records.  We prompted them to see if there was anywhere else they would look; responses included using site search, the contact us link, and My Health eVet (MHV).
 
 > Probably under health care. I would say under refill and track your prescriptions. or, I guess, the other thing I could do if I didn't find it there, I'd probably go up into the search block. - P3
 
@@ -322,5 +322,5 @@ We gathered some valuable insights about the notifications that would be valuabl
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
 - [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
 - Synthesis: [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/session-notes) and [affinity map](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
-- Findings Decks - to come
+- Findings Decks: [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-research-sprint-demo-readout.pptx)
 
