@@ -7,6 +7,8 @@ This is to help guide and memorialize decisions made about different functionali
 
 ## Thoughts on the Feature    
 These are some consideration around expected behaviors for this feature and possibly a list of recommendations
+
+Almost 100% of all modals are annoying - how do we make it not?
   
 ### Objectives for this feature
 1. Modal that asks to verify dependents
@@ -14,9 +16,8 @@ These are some consideration around expected behaviors for this feature and poss
 
 ### Questions about how this feature should behave
 1. When does the modal show?
-- If it get  skipped when does it come back?
-- If partly answered, what then
-- If answered, when does it come back?
+- If it get  skipped when does it come back? next session
+- If answered, when does it come back? 1 year
 
 2. If the Veteran is shown a list (in the modal) of dependents of 6 dependents, nd only 3 are addressed, does the list get reduced to 3?
 
@@ -28,7 +29,11 @@ These are some consideration around expected behaviors for this feature and poss
 
 6. Show, immediately, on login
 
+7. Could be in the header/footer all the time
 
+8. Phase 2/3 will be for for capturing Veterans that need to have a dependent added
+
+9. Hard to verify that its the true response
 
 
 
