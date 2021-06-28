@@ -35,7 +35,8 @@ Almost 100% of all modals are annoying - how do we make it not?
 
 9. Hard to verify that its the true response
 
-
+## Alternative or Supporting Methods
+1. Tracking a certain number of "skips" could proc an email to the Veteran that indicates the request with more context.  Remember, once the Diary entry is updated, the modal will not appear again.
 
 ### Issues
 1. The modal feels heavy handed 
