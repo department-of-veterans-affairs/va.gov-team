@@ -27,25 +27,28 @@ With these improvements, the My Va application will allow veterans's to submit t
 
 ## Team
 
-Technical lead: Cesar Santiago
-Enterprise Architect: Jackeline Nguyen
-Application Architect: Phil Crowder
-Enterprise Architect: Rishiskesh Kollipara
+### Techical leadership
+- Technical lead: Cesar Santiago
+- Enterprise Architect: Jackeline Nguyen
+- Application Architect: Phil Crowder
+- Enterprise Architect: Rishiskesh Kollipara
 
-Human Centered Design team:
-Audra Ayotte
-Russell Lyons
-Leelah Holmes
-Isabel Herrick
-Miya Furukawa
-Ferzola, Alexander
+### Product Analysts
+- Tabitha McIntyre
+
+### Human Centered Design team:
+- Audra Ayotte
+- Russell Lyons
+- Leelah Holmes
+- Isabel Herrick
+- Miya Furukawa
+- Ferzola, Alexander
  
-Full Stack Developers:
-Fernando Boza
-Khansa Hammami
-Nathaniel Buck
+### Full Stack Developers:
+- Fernando Boza
+- Khansa Hammami
+- Nathaniel Buck
  
-Testers:
-Ewas Farhang
-Liam McCormick
- 
+### Testers:
+- Ewas Farhang
+- Liam McCormick
