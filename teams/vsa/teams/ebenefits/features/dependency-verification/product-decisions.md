@@ -5,8 +5,7 @@ This is to help guide and memorialize decisions made about different functionali
 
 -------------
 
-## Thoughts on the Feature  
-`January 2021`  
+## Thoughts on the Feature    
 These are some consideration around expected behaviors for this feature and possibly a list of recommendations
   
 ### Objectives for this feature
@@ -20,6 +19,18 @@ These are some consideration around expected behaviors for this feature and poss
 - If answered, when does it come back?
 
 2. If the Veteran is shown a list (in the modal) of dependents of 6 dependents, nd only 3 are addressed, does the list get reduced to 3?
+
+3. Why does it need to start here on the View Dependents page?
+
+4. (GOAL)Intercept as many Veterans as possible, put on as many pasges as possible
+
+5. Other modals might interfere
+
+6. Show, immediately, on login
+
+
+
+
 
 ### Issues
 1. The modal feels heavy handed 
