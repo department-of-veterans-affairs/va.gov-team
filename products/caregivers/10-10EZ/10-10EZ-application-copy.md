@@ -97,7 +97,7 @@ OMB Control #: 2900-0091
 
 Expiration date: 06/30/2024
 
-Privacy Act Statement (_link_)
+Privacy Act Statement (_popup_)
 
 **Need help?**
 **If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 (TTY: 711). We’re here 24/7.
@@ -165,7 +165,7 @@ Marital status (*Required) _(dropdown)_ Married, Never Married, Separated, Widow
 
 **Which categories best describe you?**
 
-You may check more than one. _checkboxes_
+You may check more than one. _(checkboxes)_
 
 Spanish, Hispanic, or Latino
 
@@ -305,7 +305,7 @@ You don’t have to upload these documents. But it can help us verify your milit
 
 **Current compensation**
 
-Which type of VA compensation do you currently receive?(*Required) _radio buttons_
+Which type of VA compensation do you currently receive?(*Required) _(radio buttons)_
 
 
 Service-connected disability pay for a 10%, 20%, 30%, or 40% disability rating
@@ -329,7 +329,7 @@ Next, we’ll ask you to provide your financial information from the most recent
 2. Are eligible for added benefits, like reimbusement for travel costs or cost-free medications
 3. Should be charged for copays or medication
 
-_gray box_ **Note:** You don’t have to provide your financial information. But if you don’t have a qualifying eligibility factor, this information is the only other way for us to see if you can get VA health care benefits--including added benefits like waived copays. _end gray box_
+_(gray box)_  **Note:** You don’t have to provide your financial information. But if you don’t have a qualifying eligibility factor, this information is the only other way for us to see if you can get VA health care benefits--including added benefits like waived copays. _(end gray box)_
 
 Qualifying factors:
 
@@ -352,11 +352,11 @@ Yes
 
 No
 
-_if no, gray box appears_ If you don’t provide your financial information and you don’t have another qualifying eligibility factor, VA can’t enroll you. _end gray box_
+_(if no, gray box appears)_ If you don’t provide your financial information and you don’t have another qualifying eligibility factor, VA can’t enroll you. _(end gray box)_
 
 [<< Back] [Continue >>]
 
-_if yes_
+_(if yes)_
 
 ## Step 4 of 6: Household Information
 
@@ -388,7 +388,7 @@ Yes
 
 No
 
-_if no_ If your spouse did not live with you last year, did you provide financial support?
+_(if no)_ If your spouse did not live with you last year, did you provide financial support?
 
 Yes
 
@@ -400,7 +400,7 @@ Yes
 
 No
 
-_if no_ **Spouse’s address and telephone number**
+_(if no)_ **Spouse’s address and telephone number**
 
 Country(*Required) _(dropdown)_
 
@@ -428,7 +428,7 @@ Yes
 
 No
 
-_if yes-Dependent information_
+_(if yes-Dependent information)_
 
 Dependent’s first name (*Required)
 
@@ -470,7 +470,7 @@ Yes
 
 No
 
-_if no_
+_(if no)_
 
 If your dependent didn’t live with you last year, did you provide support? (Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.)
 
@@ -478,7 +478,7 @@ Yes
 
 No
 
-[Add another Dependent] _(list loop dependent information)__
+[Add another Dependent] _(list loop dependent information)_
 
 [<< Back] [Continue >>]
 
@@ -562,7 +562,7 @@ Yes
 
 No
 
-_if yes_ What is your Medicare Part A effective date?(*Required)
+_(if yes)_ What is your Medicare Part A effective date?(*Required)
 
 Month Day Year _(dropdown)_
 
@@ -578,7 +578,7 @@ Yes
 
 No
 
-_if yes_
+_(if yes)_
 
 Name of provider(*Required)
 
@@ -596,7 +596,7 @@ Group code (either this or policy number is required)(*Required)
 
 **VA Facility**
 
-_checkbox_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
+_(checkbox)_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
 
 Learn more about minimum essential coverage. _(learn more)_
 
@@ -628,7 +628,7 @@ _Review accordions_
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
-_checkbox_ I have read and accept the privacy policy(*Required)
+_(checkbox)_ I have read and accept the privacy policy(*Required)
 
 [<< Back] [Submit application >>]
 
@@ -636,7 +636,7 @@ _checkbox_ I have read and accept the privacy policy(*Required)
 
 **Please print this page for your records.**
 
-_blue box_
+_(blue box)_
 
 **Thank you for submitting your application**
 
@@ -648,7 +648,7 @@ for [Veteran's name]
 
 [Date submitted]
 
-_end blue box_
+_(end blue box)_
 
 **How long will it take VA to make a decision on my application?**
 
@@ -672,7 +672,7 @@ This helps keep you information safe, and prevents fraud and identity theft. If 
 
 **3. Go to your personalized My VA homepage**
 
-Once you’re signed in, you can go to your homepage by clicking on the** My VA** link near the top right of any VA.gov page. You’ll find your application status information in the **Your Applications **section of you homepage.
+Once you’re signed in, you can go to your homepage by clicking on the** My VA** link near the top right of any VA.gov page. You’ll find your application status information in the **Your Applications** section of you homepage.
 
 **Please note:** Your application status may take some time to appear on our homepage. If you don’t see it there right away, please check back later.
 
