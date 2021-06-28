@@ -1,14 +1,15 @@
-# [DRAFT]
-
 ## Apply for VA health care
 
 Enrollment Application for Health Benefits (VA Form 10-10EZ)
 
 Apply online for VA health care. You may also qualify for vision and dental benefits when you apply.
 
-Have you applied for VA health care before?
+_blue box_
+**Have you applied for VA health care before?**
+
 Sign in to check your application status _(link)_
 
+_blue box_
 
 ### Follow these steps to get started:
 
@@ -110,7 +111,7 @@ This will help us fit the application to your specific needs. Please fill out th
 
 **Want to skip this step?**
 
-Sign in to start your application. _(link)_
+[Sign in to start your application.](https://staging.va.gov/health-care/apply/application/id-form)
 
 First name (*Required)
 
@@ -185,7 +186,7 @@ White
 
 We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
-Country(*Required) _dropdown_
+Country(*Required) _(dropdown)_
 
 Street address(*Required)
 
@@ -195,7 +196,7 @@ Street address line 3
 
 City(*Required)
 
-State (*Required) _dropdown_
+State (*Required)  _(dropdown)_
 
 Postal code(*Required)
 
@@ -208,12 +209,14 @@ No
 [<< Back] [Continue >>]
 
 _If no_
+
 ## Step 1 of 6: Veteran Information
+
 **Home address**
 
 Any updates you make here to your address will apply only to this application.
 
-Country(*Required) _dropdown_
+Country(*Required) _(dropdown)_
 
 Street address(*Required)
 
@@ -223,7 +226,7 @@ Street address line 3
 
 City(*Required)
 
-State (*Required) _dropdown_
+State (*Required) _(dropdown)_
 
 Postal code(*Required)
 
@@ -240,7 +243,8 @@ Mobile telephone number
 [<< Back] [Continue >>]
 
 ## Step 2 of 6: Military Service
-Last branch of service(*Required) _dropdown_ Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
+
+Last branch of service(*Required) _(dropdown)_ Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
 
 Service start date (*Required)
 
@@ -257,7 +261,7 @@ Character of service(*Required) Honorable, General, Other Than Honorable, Bad Co
 ## Step 2 of 6: Military Service
 **Service history**
 
-Check all that apply to you._checkboxes_
+Check all that apply to you._(checkboxes)_
 
 Purple Heart award recipient
 
@@ -280,6 +284,7 @@ Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, thr
 [<< Back] [Continue >>]
 
 ## Step 2 of 6: Military Service
+
 **Upload your discharge papers**
 
 Please upload a copy of your military discharge papers (like your DD214, DD256, DD257, NGB22, or other separation documents). If you have more than one discharge document, please upload the one with the highest character of discharge. If you don’t have your discharge papers, you can upload a copy of other official military documents (like proof of military awards or your disability rating letter).
@@ -297,6 +302,7 @@ You don’t have to upload these documents. But it can help us verify your milit
 [<< Back] [Continue >>]
 
 ## Step 3 of 6: VA Benefits
+
 **Current compensation**
 
 Which type of VA compensation do you currently receive?(*Required) _radio buttons_
@@ -314,6 +320,7 @@ I don't receive any VA pay
 [<< Back] [Continue >>]
 
 ## Step 4 of 6: Household Information
+
 **Financial disclosure**
 
 Next, we’ll ask you to provide your financial information from the most recent tax year, which we’ll verify with the IRS. We use this information to figure out if you:
@@ -337,7 +344,7 @@ Qualifying factors:
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
 - Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
 
-[Learn more](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits?_ga=2.33134654.1615093133.1624289581-860138168.1616615986)about our income thresholds (also called income limits) and copayments.
+[Learn more](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits?_ga=2.33134654.1615093133.1624289581-860138168.1616615986) about our income thresholds (also called income limits) and copayments.
 
 Do you want to provide your financial information?(*Required)
 
@@ -352,6 +359,7 @@ _if no, gray box appears_ If you don’t provide your financial information and 
 _if yes_
 
 ## Step 4 of 6: Household Information
+
 **Spouse’s information**
 
 Please fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
@@ -394,7 +402,7 @@ No
 
 _if no_ **Spouse’s address and telephone number**
 
-Country(*Required) _dropdown_
+Country(*Required) _(dropdown)_
 
 Street address(*Required)
 
@@ -404,7 +412,7 @@ Street address line 3
 
 City(*Required)
 
-State (*Required) _dropdown_
+State (*Required) _(dropdown)_
 
 Postal code(*Required)
 
@@ -463,13 +471,14 @@ Yes
 No
 
 _if no_
+
 If your dependent didn’t live with you last year, did you provide support? (Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.)
 
 Yes
 
 No
 
-[Add another Dependent] _list loop dependent information__
+[Add another Dependent] _(list loop dependent information)__
 
 [<< Back] [Continue >>]
 
@@ -579,7 +588,7 @@ Policy number (either this or the group code is required)(*Required)
 
 Group code (either this or policy number is required)(*Required)
 
-[Add another Insurance Policy] _list loop insurance policy_
+[Add another Insurance Policy] _(list loop insurance policy)_
 
 [<< Back] [Continue >>]
 
@@ -589,15 +598,15 @@ Group code (either this or policy number is required)(*Required)
 
 _checkbox_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
 
-Learn more about minimum essential coverage. _learn more_
+Learn more about minimum essential coverage. _(learn more)_
 
-To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act. _end learn more_
+To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act. _(end learn more)_
 
 **Select your preferred VA medical facility**
 
-State(*Required) _dropdown_
+State(*Required) _(dropdown)_
  
-Center or clinic(*Required)_dropdown_
+Center or clinic(*Required) _(dropdown)_
 
 OR Find locations with the [VA Facility Locator](https://va.gov/find-locations)
 
@@ -649,7 +658,7 @@ If we need you to provide more information or documents, we’ll contact you by 
 
 **If we haven’t contacted you within a week after you submitted your application**
 
-Please don’t apply again. Instead, please call our toll-free hotline at [877-222-8387]. _link_ We’re here Monday through Friday, 8:00 am to 8:00 pm ET.
+Please don’t apply again. Instead, please call our toll-free hotline at [877-222-8387]. _(link)_ We’re here Monday through Friday, 8:00 am to 8:00 pm ET.
 
 **How can I check the status of my application?**
 
