@@ -14,20 +14,22 @@ Almost 100% of all modals are annoying - how do we make it not?
 1. Modal that asks to verify dependents
 2. Sub questions that pose the questoin on a per dependent basis and move the Veteran towards the approriate action item
 
+## Strategies
+1. Intercept as many Veterans as possible, put on as many pasges as possible
+- Show, immediately, on login
+- Could be in the header/footer all the time?
+
 ### Questions about how this feature should behave
 1. When does the modal show?
 - If it get  skipped when does it come back? next session
 - If answered, when does it come back? 1 year
 
-2. If the Veteran is shown a list (in the modal) of dependents of 6 dependents, nd only 3 are addressed, does the list get reduced to 3?
+2. ~~If the Veteran is shown a list (in the modal) of dependents of 6 dependents, nd only 3 are addressed, does the list get reduced to 3?~~
+1 dary Entry for 1 Veteran...no partials
 
 3. Why does it need to start here on the View Dependents page?
 
-4. (GOAL)Intercept as many Veterans as possible, put on as many pasges as possible
-
 5. Other modals might interfere
-
-6. Show, immediately, on login
 
 7. Could be in the header/footer all the time
 
