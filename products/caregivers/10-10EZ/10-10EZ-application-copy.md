@@ -4,12 +4,12 @@ Enrollment Application for Health Benefits (VA Form 10-10EZ)
 
 Apply online for VA health care. You may also qualify for vision and dental benefits when you apply.
 
-_blue box_
+_(blue box)_
 **Have you applied for VA health care before?**
 
 Sign in to check your application status _(link)_
 
-_blue box_
+_(blue box)_
 
 ### Follow these steps to get started:
 
