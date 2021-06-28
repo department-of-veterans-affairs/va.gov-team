@@ -28,6 +28,7 @@
 Review help desk insights and VAMC / Vet Center known issues list. 
 
 Vet Center 
+* "Nearby Mobile Vet Center - editorial experience and engineering
 * Guidance and character counts for Featured content 
 
 Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
