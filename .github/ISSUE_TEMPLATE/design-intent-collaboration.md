@@ -38,13 +38,16 @@ assignees: shiragoodman, allison0034
 
 ## Scheduling
 
-### What is your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)? 
+### Design Intents can only be scheduled on Monday, Tuesday, or Friday. 
+
+Please choose your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York). <br>
+
 **Date/time:**
  
 Please note:
 - All times are shown in ET. 
-- Available time slots are indicated with [CALENDAR BLOCK]. 
-- When you reserve a time slot, the reserved meeting will show up alongside the [CALENDAR BLOCK]. 
+- Available time slots are indicated with [REVIEW BLOCK]. 
+- When you reserve a time slot, the reserved meeting will show up alongside the [REVIEW BLOCK]. 
 - Please select a time slot at least 2 business days from request date.
 
 ## Additional information
