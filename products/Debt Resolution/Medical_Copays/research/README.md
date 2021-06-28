@@ -1,5 +1,14 @@
 # Medical Copay Research
 
+## Usability study (July 2021)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/jun-2021/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/jun-2021/conversation-guide.md)
+
+## Discovery research with Veterans (April 2021)
+- [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/conversation-guide.md)
+
 ## Discovery research (February 2021)
 - [Prediscovery research document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/pre-discovery-research.md)
 - [Copayment flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/copayment-flows.md)
@@ -13,3 +22,4 @@
   - [3/4 - Ortega](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03042021Ortega.md)
   - [3/5 - Adcock](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03052021Adcock.md)
   - [3/5 - Andrews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/feb-2021/notes/03052021Andrews.md)
+  - [6/25 - Adcock](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/sme-interviews-jun-2021/06252021Adcock.md)
