@@ -420,7 +420,7 @@ Yes
 
 No
 
-_if yes_
+_if yes-Dependent information_
 
 Dependent’s first name (*Required)
 
@@ -469,5 +469,213 @@ Yes
 
 No
 
-[Add another Dependent]
+[Add another Dependent] _list loop dependent information__
+
+[<< Back] [Continue >>]
+
+## Step 4 of 6: Household Information
+
+**Annual income**
+
+Please fill this section out to the best of your knowledge. Provide the previous calendar year’s gross annual income for you, your spouse, and your dependents.
+
+**Gross annual income:** This income is from employment only, and doesn’t include income from your farm, ranch, property, or business. When you calculate your gross annual income, include your wages, bonuses, tips, severance pay, and other accrued benefits. Include your dependent’s income information if it could have been used to pay your household expenses.
+
+**Net income:** This is the income from your farm, ranch, property, or business.
+
+**Other income:** This includes retirement and pension income; Social Security Retirement and Social Security Disability income; compensation benefits such as VA disability, unemployment, Workers, and black lung; cash gifts; interest and dividends, including tax exempt earnings and distributions from Individual Retirement Accounts (IRAs) or annuities.
+
+Veteran’s gross annual income from employment(*Required) $
+
+Veteran’s net income from your farm, ranch, property or business(*Required) $
+
+Veteran’s other income amount(*Required) $
+
+**Spouse’s income**
+
+Spouse’s gross annual income from employment(*Required) $
+
+Spouse’s net income from your farm, ranch, property or business(*Required) $
+
+Spouse’s other income amount(*Required) $
+
+**[Dependent name] income**
+
+Dependent’s gross annual income from employment(*Required) $
+
+
+Dependent’s net income from farm, ranch, property or business(*Required) $
+
+Dependent’s other income amount(*Required) $
+
+_(repeat per dependent)_
+
+[<< Back] [Continue >>]
+
+## Step 4 of 6: Household Information
+
+**Previous Calendar Year's Deductible Expenses**
+
+Tell us a bit about your expenses this past calendar year. Enter information for any expenses that apply to you.
+
+What if my expenses are higher than my annual income? _more information_
+
+We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we’ll adjust them to be equal to your income. This won’t affect your application or benefits. _end more information_
+
+Amount you or your spouse paid in non-reimbursable medical expenses this past year.(*Required) $
+
+Amount you paid in funeral or burial expenses for a deceased spouse or child this past year.(*Required) $
+
+Amount you paid for anything related to your own education (college or vocational) this past year. Do not list your dependents’ educational expenses.(*Required) $
+
+[<< Back] [Continue >>]
+
+## Step 5 of 6: Insurance information
+
+Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
+**Note:** Some states use different names for their Medicaid programs.
+
+Are you eligible for Medicaid? (*Required)
+
+Yes
+
+No
+
+[<< Back] [Continue >>]
+
+## Step 5 of 6: Insurance information
+
+Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
+
+Are you enrolled in Medicare Part A (hospital insurance)? (*Required)
+
+Yes
+
+No
+
+_if yes_ What is your Medicare Part A effective date?(*Required)
+
+Month Day Year _(dropdown)_
+
+[<< Back] [Continue >>]
+
+## Step 5 of 6: Insurance information
+
+**Other coverage**
+
+Are you covered by health insurance? (Including coverage through a spouse or another person)(*Required)
+
+Yes
+
+No
+
+_if yes_
+
+Name of provider(*Required)
+
+Name of policyholder(*Required)
+
+Policy number (either this or the group code is required)(*Required)
+
+Group code (either this or policy number is required)(*Required)
+
+[Add another Insurance Policy] _list loop insurance policy_
+
+[<< Back] [Continue >>]
+
+## Step 5 of 6: Insurance information
+
+**VA Facility**
+
+_checkbox_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
+
+Learn more about minimum essential coverage. _learn more_
+
+To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act. _end learn more_
+
+**Select your preferred VA medical facility**
+
+State(*Required) _dropdown_
+ 
+Center or clinic(*Required)_dropdown_
+
+OR Find locations with the [VA Facility Locator](https://va.gov/find-locations)
+
+If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [Learn more about the Foreign Medical Program.](https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.166809081.618849780.1624891160-860138168.1616615986)
+
+You can also visit [Veterans Living Abroad.](https://www.benefits.va.gov/PERSONA/veteran-abroad.asp)
+
+Do you want VA to contact you to schedule your first appointment?
+
+Yes
+
+No
+
+[<< Back] [Continue >>]
+
+## Step 6 of 6: Review Application
+
+_Review accordions_
+
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+_checkbox_ I have read and accept the privacy policy(*Required)
+
+[<< Back] [Submit application >>]
+
+## AFTER submission
+
+**Please print this page for your records.**
+
+_blue box_
+
+**Thank you for submitting your application**
+
+**Health Care Benefit Claim** (Form 10-10EZ)
+
+for [Veteran's name]
+
+**Date submitted**
+
+[Date submitted]
+
+_end blue box_
+
+**How long will it take VA to make a decision on my application?**
+
+We usually decide on applications within **1 week**.
+
+If we need you to provide more information or documents, we’ll contact you by mail.
+
+**If we haven’t contacted you within a week after you submitted your application**
+
+Please don’t apply again. Instead, please call our toll-free hotline at [877-222-8387]. _link_ We’re here Monday through Friday, 8:00 am to 8:00 pm ET.
+
+**How can I check the status of my application?**
+
+**1. Sign in to VA.gov**
+
+You can sign in with your DS Logon, My HealteVet, or ID.me account. If you don’t have an account, you can create one now.
+
+**2. If you haven’t yet verified your identity, complete this process when prompted**
+
+This helps keep you information safe, and prevents fraud and identity theft. If you’ve already verified your identity with us, you won’t need to do this again.
+
+**3. Go to your personalized My VA homepage**
+
+Once you’re signed in, you can go to your homepage by clicking on the** My VA** link near the top right of any VA.gov page. You’ll find your application status information in the **Your Applications **section of you homepage.
+
+**Please note:** Your application status may take some time to appear on our homepage. If you don’t see it there right away, please check back later.
+
+**How will I know if I’m enrolled in VA health care?**
+
+If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
+
+We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits.
+
+[Find out what happens after you apply](https://va.gov/health-care/after-you-apply/)
+
+**What if I have more questions?**
+
+Please call [877-222-8387] _(link)_ and select 2. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
