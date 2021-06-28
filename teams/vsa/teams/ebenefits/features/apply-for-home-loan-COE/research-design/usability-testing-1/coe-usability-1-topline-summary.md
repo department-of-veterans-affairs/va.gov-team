@@ -15,13 +15,13 @@
 
 ---
 
-This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
+This topline summary is a high-level, top-of-mind summary of trends found in the sessions, but it's not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
 ### The goals of this document are to:
 
 - Make sure everyone who observed the study is in alignment with the perceived findings
-- Gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
-- Jump start synthesis by quickly organizing high level themes
+- Gain insight from team/stakeholders/designers and determine specific directions to pursue as we analyze the data
+- Jump-start synthesis by quickly organizing high-level themes
 
 ## Participants and testing sessions
 
@@ -45,21 +45,23 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 
 ## Initial findings (based on guiding questions)
 
-### Participants primarily looked to white quads, specifically “Get your VA medical records” to find COE tool.
+### Participants primarily looked to white quads, specifically to the “Records” box, to find the COE tool.
+- `JA` Users seems to gravitate toward the "Download your benefit letters" link
 - One user utilized search, one used mega menu
-- Only 2 users found the COE landing page
+- Two users found the COE landing page
+- `JA` Two (?) participants saw COE links at the bottom of the letters screen
 
-### Users see and complete sign in before seeing other useful information
-- All 5 users signed in before seeing the map or reading the Auto COE blurb
-- 1 of 5 users scrolled down to the bottom of the page, but only noted the estimated time to complete as useful after prompting
+### On the COE intro screen, users see the sign-in box and click before reviewing other info on the screen.
+- All five users signed-in before seeing the subway map or reading the auto COE blurb
+- One user did scroll to the bottom of the page, but only noted the estimated time to complete as useful after prompting
 
-### All users understood what was happening, even if they didn’t understand where they were. 
-- 1 of 5 participants understood the auto COE screen to be a different page
-- 4 of 5 found the download link
-- 3 users said they would print their COE and 2 said they would also save it and email it to their lender
+### All users understood what they received/found a COE, even if they didn’t understand where they were redirected from the intro. 
+- One user seemed to understand the auto COE screen to be a different page
+- All users on the auto COE screen found the COE download link and the COE PDF (P11 skipped the auot COE flow)
+- Three users said they would print their COE, and two said they would also save it to email to their lender
 
-### It was not clear to all users that they needed to apply to make changes.
-- 4 of 5 users found the “make changes” link
+### It was not clear to all users that they needed to "apply" to make changes.
+- All users did enter the form using the "apply" action link, though they felt the labeling was wrong (P11 skipped the auot COE flow)
 - 3 of those 4 realized they’d linked back to the form
 - 1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
 - There are good quotes from the first and last (?) users that show the range of understanding here.
