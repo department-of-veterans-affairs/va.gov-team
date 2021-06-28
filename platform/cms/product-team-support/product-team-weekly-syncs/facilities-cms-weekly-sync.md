@@ -28,7 +28,9 @@
 Review help desk insights and VAMC / Vet Center known issues list. 
 
 Vet Center 
-* "Nearby Mobile Vet Center - editorial experience and engineering
+* "Nearby Mobile Vet Centers 
+   - Facilities engineers need entity ID to add to Satellite Locations list [#26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
+   - CMS editorial experience
 * Guidance and character counts for Featured content 
 
 Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
