@@ -40,7 +40,7 @@ By stewarding inclusive research at the VA, we can:
 - [Research checklist and disability etiquette](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md)
 
 ### Device specific guidance
-- Screen readers (mobile and desktop)
+- [Screen readers (mobile and desktop)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)
 - Magnification and zoom
 - Captions and transcriptions 
 - Hearing aids
