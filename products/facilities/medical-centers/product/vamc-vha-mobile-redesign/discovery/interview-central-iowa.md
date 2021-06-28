@@ -16,32 +16,24 @@ Ron: VISN 23 PAO
 
 ## About Mobile Clinics
 
-- Mobile clinic(s) name(s):
-1 "old, old" Vehicle. A former MMU that was repurposed to now serve 42 counties in central Iowa.
+Mobile clinic(s) name(s):
+- 1 "old, old" Vehicle. A former MMU that was repurposed to now serve 42 counties in central Iowa.
 
-- How long have you had one?
-- What has your mobile clinic been used for?
-   - Has this changed from before the pandemic? During the pandemic?
-- What services are available?
-"everything that's on the postcard"
+What services are available?
+- "everything that's on the postcard"
+- [from email response:] Central Iowa uses the Mobile Clinic through Tele-health to provide services out to the counties for scheduled events with the county VSOs.
 
-**EMAIL RESPONSE:** Central Iowa uses the Mobile Clinic through Tele-health to provide services out to the counties for scheduled events with the county VSOs.
+If vehicle: Does the mobile clinic always come back to the same location; 
 
-- If vehicle: Does the mobile clinic always come back to the same location; 
-
-travels to 42 coounties
+- travels to 42 counties
 
 ## Users
-- Who uses mobile clinics? 
 
-Rural Veterans
+Who uses mobile clinics? 
+- Rural Veterans
+- Thru Tele-health and walk in appointments, also coordinate with county VSOs on appointments.  Eligibility is mostly done thru Video Connect.
 
-
-
-**EMAIL RESPONSE:** Thru Tele-health and walk in appointments, also coordinate with county VSOs on appointments.  Eligibility is mostly done thru Video Connect.
-
-
-  - Are any services walk-in?
+Are any services walk-in?
 
 - Tele‐Eligibility
 - Blood Pressure Checks
@@ -51,30 +43,22 @@ Rural Veterans
 - Live Telehealth Scheduling
 - My HealtheVet Enrollment
 
-- How do Veterans learn about your mobile clinic services and events?
+How do Veterans learn about your mobile clinic services and events?
 
-**EMAIL RESPONSE:**We work Directly with the county VSO’s to coordinate.
-1-2 VSOs per county. They're county employees, but not full time positions
+- [from email response:] We work Directly with the county VSO’s to coordinate.
+- 1-2 VSOs per county. They're county employees, but not full time positions
 
 ## Mobile clinic operations:
-- With regards to managing mobile clinic operations, how does decision-making work? 
-Emergency Managament, county directors
 
-## Scheduling
-- What does the schedule of a mobile clinic look like?
-- How does a schedule get created?
-  - Who is involved?  
-- What tools are used to accomplish this?
-- How far in advance are schedules created?
-  - Does the schedule change?
-  - What causes schedule changes?
-- How do schedule changes get communicated?
+With regards to managing mobile clinic operations, how does decision-making work? 
+- Emergency Managament, county directors
+
 
 ## Webpage discussion
-- Do you use any online tools for communicating mobile clinic services, schedules or events?
-post cards
+Do you use any online tools for communicating mobile clinic services, schedules or events?
 
-**EMAIL RESPONSE:** Web Page is nice, did not know we had one.  We can list our scheduled events on it.
+- post cards
+- [from email response:] Web Page is nice, did not know we had one.  We can list our scheduled events on it.
 
 
 ## Mobile clinics 
