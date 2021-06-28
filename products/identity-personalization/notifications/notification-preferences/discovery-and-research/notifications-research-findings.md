@@ -300,7 +300,7 @@ This was a major point of confusion for participants in our study. We already tr
 
 *Below: screenshot of updated email section of profile, showing a separate sign-in and contact email address section.*
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/profile-email-mock-up.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/profile-email-mock-up.png" width="50%" />
 
 ### Move forward with moving remove functionality to the read mode of personal and contact information page.
 
