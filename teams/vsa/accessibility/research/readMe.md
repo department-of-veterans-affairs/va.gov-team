@@ -53,5 +53,25 @@ By stewarding inclusive research at the VA, we can:
 - Absence of assistive technology in usability testing
 
 ## Appendix
-- References
-- Contributors
+
+### References
+1. Byrne-Haber, Sheri, CPACC. User Research with People with Disabilities. Medium.
+2. Collins, Patricia Hill (2000). Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment.
+3. Deque. Deque University, Web Accessibility Curriculum 2.0.
+4. Harte, J. Davis PhD. Roche, Janet, MDS. Trauma Informed Design.
+5. Heffernan, Kayla J. Facilitation tips with blind users. Medium.
+6. Henry, Shawn Lawton. Just Ask: Integrating Accessibility Throughout Design. Madisonwww.uiAccess.com/JustAsk/, WI: ET\Lawton, 2007. ISBN 978-1430319528.
+7. Holmes, Kat (2018). Mismatch, How Inclusion Shapes Design.
+8. Patton, Michael Quinn (2014). Qualitative Research & Evaluation Methods 4th Edition.
+
+### Contributors
+Thank you to the following individuals who contributed to these guidelines:
+- Joshua Kim
+- Angela Fowler
+- Maria Vidart
+- Shawna Hein
+- Emily Mann
+- Meli Manak
+- Trevor Pierce
+ -Martha Wilkes
+
