@@ -6,13 +6,14 @@ The GI Bill is considered one of the most consequent pieces of legislation to ev
 
 - Fill out Form 22-1990 by hand and send it by mail or deliver in person.
 - Submit your application online with the VA.gov benefit claim application.
+
 The current benefit claim application does have the following things that could be improved:
 
-The veteran's service information needs to be entered by the veteran.
-The veteran/beneficiary is expected to select which GI Bill benefit to use, which assumes the veteran knows this information.
-The veteran/beneficiary needs to know the desired school's information and enter it by hand.
-The submitted information is not automatically processed. It is forwarded to Vet Customer Experience (VCE), who'll need to retype the information into the Chapter 33 Long Term Solution application for processing.
-Due to the manual nature of a VCE re-entering the data, there is no immediate feedback of status of application. The veteran/beneficiary will eventually get a letter by the mail.
+- The veteran's service information needs to be entered by the veteran.
+- The veteran/beneficiary is expected to select which GI Bill benefit to use, which assumes the veteran knows this information.
+- The veteran/beneficiary needs to know the desired school's information and enter it by hand.
+- The submitted information is not automatically processed. It is forwarded to Vet Customer Experience (VCE), who'll need to retype the information into the Chapter 33 Long Term Solution application for processing.
+- Due to the manual nature of a VCE re-entering the data, there is no immediate feedback of status of application. The veteran/beneficiary will eventually get a letter by the mail.
 
 ### Proposed solution
 The purpose of the My Education Benefits application is to replace the existing VA.gov benefit claim application and improve the current benefits claims experience. The new application will allow the veteran to submit their claim with the following improvements:
