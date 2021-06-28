@@ -27,7 +27,23 @@
 
 
 ## Monday June 28, 2021
-* How LH's API should get data for CMS health services and CAPS facilities
+* How LH's API should get data for CMS health services
+  * Go with API bulk push or GraphQL pull because of amount of traffic
+  * LH wants to stick with API path, GraphQL as a fail-safe option if traffic is too much. Currently not anticipating that traffic will be a problem.
+  * **ACTION ITEM: LH to engage Swirt to get feedback when he gets back.** if we need to sync next week we'll schedule one-off
+  * If the answer turns out to be go with GraphQL then feedback requested asap
+  * **ACTION ITEM: CMS to sync with Core Team and both potential scenarios**
+  * Currently a single API call per service, per facility; LH can handle one call per facility with all services bundled
+* How to grab CAP facilities data
+  * Contingent on getting lat/long: Dave is currently researching and until unstuck there is no known path forward
+  * Dave C reached out to Dave Mazik, and he may know who recently trued up VHA location data
+  * LH has some potential paths forward and is looking for validation
+  * LH exploring best interface: recommending to keep restriction in place on existing end-point and set up a new end-point to handle new IDs
+    * **ACTION ITEM: CMS Team to review and give feedback**
+    * **ACTION ITEM: CMS to sync on this with Core Team**
+    * Dave C exploring how to possibly leverage the CMS as the source of truth for VBA data
+    * Timeframe = Q3 for data call, Q4 for possible implementation
+    * CAP solution to potentially align with the VBA solution
 
 ## Monday June 14, 2021
 
