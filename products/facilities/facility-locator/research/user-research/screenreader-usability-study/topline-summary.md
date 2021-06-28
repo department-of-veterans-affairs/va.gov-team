@@ -1,4 +1,4 @@
-# Topline Summary: Facility Locator - Assistive Technology, Discovery and Usability Study
+# Topline Summary: Facility Locator - Assistive Technology Discovery and Usability Study
 
 Leyda Hughes (Facilities team), Josh Kim and Angela Fowler (Accessibility Specialists), June 24, 2021
 
