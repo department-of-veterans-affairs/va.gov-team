@@ -43,6 +43,8 @@ With these improvements, the My Va application will allow veterans's to submit t
 - Leelah Holmes
 - Isabel Herrick
 - Miya Furukawa
+- Jacob Buller
+- Mark Meardon
 - Ferzola, Alexander
  
 ### Full Stack Developers:
