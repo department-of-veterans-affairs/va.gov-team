@@ -37,7 +37,7 @@ By stewarding inclusive research at the VA, we can:
 
 ### Introduction to assistive technology in research
 - Recruiting assistive technology users  
-- Research checklist and disability etiquette
+- [Research checklist and disability etiquette](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md)
 
 ### Device specific guidance
 - Screen readers (mobile and desktop)
