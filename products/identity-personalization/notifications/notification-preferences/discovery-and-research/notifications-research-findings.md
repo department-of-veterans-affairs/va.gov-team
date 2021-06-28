@@ -62,12 +62,12 @@ We designed our [conversation guide](https://github.com/department-of-veterans-a
 1. It was not intuitive for participants to look in profile to manage notification settings, and most don't actively manage settings for notifications they currently receive.
 2. Overall, our design provides a good solution for Veterans to manage notifications, but status messages and available notification channels were not clear to all participants.
 3. Notification groups were clear to participants for the most part, but some wanted to see groups in a different order.
-4. Some individual notification names would benefit from additional context.
-5. Many participants expected they'd be able to get all notifications by email *and* text.
-6. Leaving notification settings to add missing contact information caused confusion for participants.
-7. 5 of 9 participants experienced concerns and confusion about their sign-in vs contact email address.
+4. Some individual notification names would benefit from additional context. 
+5. Many participants expected they'd be able to get all notifications by email *and* text. 
+6. Leaving notification settings to add missing contact information caused confusion for participants. 
+7. 5 of 9 participants experienced concerns and confusion about their sign-in vs contact email address. 
 8. All participants easily understood how to remove contact information, but some wanted more information about the impacts of doing so.
-9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits.
+9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits. Go to details.
 
 ### It was not intuitive for participants to look in profile to manage notification settings, and most don't actively manage settings for notifications they currently receive.
 
@@ -97,7 +97,9 @@ Participants found the status message under the notification name to be helpful,
 
 > "I didn't really in the beginning, see the "off" there. I believe it was lower case letters, not bolded or anything. I would do something there to enhance that so my eye would go to it. Even this right here reads "notify by text, on" - I would do something more noticeable that would bring my eye to it." - P9
 
-*insert screenshot*
+*Below: screenshot of "Your health care" notification group, with status messages circled to highlight them.*
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notification-settings-status-message-example.png)
 
 Participants also verbalized expectations about being able to receive email and text messages for all notifications. Our design didn't make it clear which channels would be available for each notification.
 
@@ -136,7 +138,9 @@ When talking through the individual notifications, participants made incorrect a
 
 Our prototype didn't include a text message option for COVID-19 updates or appointment reminders; it took participants a while to understand that some notifications were only available via one channel.  Some needed to be explicitly told.
 
-*insert screenshot*
+*Below: screenshot of "Your health care" notification group read mode (on left) and edit mode (on right). It wasn't clear to participants that appointment reminders are only available via email.*
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notification-settings-your-health-read-edit.png)
 
 Six participants expected to notifications to be available by both text *and* email. Many didn't understand why they couldn't get a text message if their mobile number was on file, and didn't have a confident guess as to why that might be.
 
@@ -179,7 +183,9 @@ When adding their email address, 3 participants hesitated and did not understand
 
 > It seems kind of dumb, if you just put it [email address] in there down below. It's kind of a conflict because it's saying you have to go there [[ID.me](http://id.me/)] to udpate your email address, but you've already got it down there. Maybe I'm missing a big point...If you're dealing with someone that has issues, mental, physical, this could really put a cog in the wheel - P6
 
-*insert screenshot*
+*Below: screenshot of "Contact email address" section of profile after a participant added their email address.  Content referencing sign-in email address is above the contact email address edit function*.
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notification-settings-contact-post-email-addition.png)
 
 The 2 participants with cognitive considerations thought they had to go to another website to add their email after reading the "Update sign-in email address with ID.me" link. 
 
@@ -195,7 +201,9 @@ As mentioned in the [research methodology section](https://github.com/department
 
 We tested one change not specific to notifications in this study: adding a remove button next to edit buttons on the personal and contact information page. Currently that functionality is nested within the edit function, and we'd like to offer more transparency about the ways Veterans can manage their contact information.
 
-*insert screenshot*
+*Below: screenshot of current state of profile with remove functionality nested inside edit (left), and proposed change with remove and edit available from read view (right).*
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notification-settings-contact-current-proposed.png)
 
 This change tested well; participants were easily able to find and use the remove functionality.  Our team hypothesized that people would be overwhelmed by the amount of buttons on the page, or they'd accidentally click on button when they meant to click the other.  Both hypothesis were disproven in this study; no button confusion was observed and no participant expressed negative sentiments about the buttons.
 
@@ -290,7 +298,9 @@ Our prototype revealed a few opportunities to improve clarity through content:
 
 This was a major point of confusion for participants in our study. We already tried reversing the order of the content, and adding a small heading.  We need to further refine the approach and explore ways to make the distinction between these two email addresses. One idea could be to create an Email Address section (instead of Contact email address) follow the pattern in other sections of the page with both emails:
 
-*insert mockup*
+*Below: screenshot of updated email section of profile, showing a separate sign-in and contact email address section.*
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/profile-email-mock-up.png)
 
 ### Move forward with moving remove functionality to the read mode of personal and contact information page.
 
