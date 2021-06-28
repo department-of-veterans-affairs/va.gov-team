@@ -1,9 +1,8 @@
 # Profile Notification Settings Research Findings
-`draft`
 
 VSA, Authenticated Experience
 
-Liz Lantz (liz.lantz@adhocteam.us), 06/25/2021
+Liz Lantz (liz.lantz@adhocteam.us), 06/28/2021
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md).
 
@@ -19,14 +18,14 @@ We're also working on improvements to our user experience for removing contact i
 
 ## Research Methodolgy
 
-We conducted remote, moderated sessions over Zoom.  Most sessions lasted 50 minutes. We started the session with an interview to learn more about expectations and experience with notifications, and then asked participants to complete 5 tasks in a hi-fidelity, desktop prototype hosted on UXPin.
+We conducted remote, moderated sessions over Zoom.  Most sessions lasted 50 minutes. We started the session with an interview to learn more about expectations and experience with notifications, and then asked participants to complete 5 tasks ([read conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)) in a hi-fidelity, desktop prototype hosted on UXPin.
 
 As sessions progressed, we iterated on our conversation guide and prototype in the following ways:
 
 - When asked to show us how they would set up a notification for updates on their medication, the first 3 participants immediately went to health related sections of the homepage.  We made the first task more general - "Show us where you would go to stop receiving text messages from VA" - to avoid leading participants into a specific benefit category.
 - 4 of the first 5 participants unexpectedly experienced significant confusion in the contact email address section of profile (located at the bottom of the personal and contact information page). We created a second prototype for the remaining of participants to test whether or not reversing the order of content improved the user experience of that section.
-  [Personal and contact information page for participants 1-5](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i)
-  [Personal and contact information page for participants 6-9](https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696479/simulate/no-panels?mode=i)
+  - [Personal and contact information page for participants 1-5](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139106944/simulate/no-panels?mode=i)
+  - [Personal and contact information page for participants 6-9](https://preview.uxpin.com/21c45602ef100852a3c63654bb8f5ad809487c5d#/pages/139696479/simulate/no-panels?mode=i)
 
 ### Who we talked to
 
@@ -65,24 +64,28 @@ We designed our [conversation guide](https://github.com/department-of-veterans-a
 3. Notification groups were clear to participants for the most part, but some wanted to see groups in a different order.
 4. Some individual notification names would benefit from additional context.
 5. Many participants expected they'd be able to get all notifications by email *and* text.
-6. Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging to go to a separate page to do it.
+6. Leaving notification settings to add missing contact information caused confusion for participants.
 7. 5 of 9 participants experienced concerns and confusion about their sign-in vs contact email address.
 8. All participants easily understood how to remove contact information, but some wanted more information about the impacts of doing so.
 9. Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits.
 
 ### It was not intuitive for participants to look in profile to manage notification settings, and most don't actively manage settings for notifications they currently receive.
 
-Our first task asked participants where they would go to either set up or turn off notifications.  6 of 8 participants did not go to the profile; rather they looked on the homepage under various sections such as health care and records.  We prompted them to see if there is anywhere else they would look; responses included using site search, the contact us link, and My Health eVet (MHV).
+Our first task asked participants where they would go to either set up or turn off notifications.  Six participants did not go to the profile; rather they looked on the homepage under various sections such as health care and records.  We prompted them to see if there is anywhere else they would look; responses included using site search, the contact us link, and My Health eVet (MHV).
 
 > Probably under health care. I would say under refill and track your prescriptions. or, I guess, the other thing I could do if I didn't find it there, I'd probably go up into the search block. - P3
 
-Once guided to the profile menu options (My VA, My Health, Profile), 5 of 9 participants stated they would expect to find notification settings under My VA. 2 said My Health, and 2 chose Profile.
+Once guided to the profile menu options (My VA, My Health, Profile):
+
+- 5 of 9 participants stated they would expect to find notification settings under My VA. 
+- 2 said My Health
+- 2 chose Profile.
 
 Part of the disconnect between profile and notification settings could be due to the fact that the 6 of 9 participants stated they don't update settings for notifications they currently receive. A participant with TBI felt the concept of managing notifications was overwhelming:
 
 > "Computers is a lot. You have to click on it. You probably have to go to their website. I have to figure out how you're [company website] going to do all of this. And I can't figure it out. Then I'd have to go on Google and watch a Youtube video. I leave it like how it is." - P2
 
-Those that said they did update settings talked about updating email subscriptions via the unsubscribe links in the email itself, not logging into a website and going to a notification settings section. 2 participants commented that they thought it was odd to see notification settings in profile and expected it to be under a section dedicated only to settings.
+Those that said they did update settings talked about updating email subscriptions via the unsubscribe links in the email itself, not logging into a website and going to a notification settings section. Two participants commented that they thought it was odd to see notification settings in profile and expected it to be under a section dedicated only to settings.
 
 ### Overall, our design provides a good solution for Veterans to manage notifications, but status messages and available notification channels were not clear to all participants.
 
@@ -102,16 +105,16 @@ Participants also verbalized expectations about being able to receive email and 
 
 Our prototype included 4 notification groups in alphabetical order:
 
--  Applications, claims, decision reviews, and appeals
+- Applications, claims, decision reviews, and appeals
 - Benefit payment and debts
 - General VA information and updates
 - Your health care
 
-All participants clearly understood the notification groups. 4 participants stated that health care notifications were the most important, and they'd want to see the "Your health care" group first.  
+All participants clearly understood the notification groups. Four participants stated that health care notifications were the most important them; 3 specifically said they would want to see the "Your health care" group first.  
 
 > "The health care [notification group], I think that should come up at the top." - P3
 
-2 participants commented that the "Applications, claims, decision reviews, and appeals" group wouldn't matter to them since they've already completed those processes
+Two participants commented that the "Applications, claims, decision reviews, and appeals" group wouldn't matter to them since they've already completed those processes
 
 > "I already got my disability rating so I wouldn't need any applications or anything and since I have my rating, there is no need to appeal because I am at 100%. And do those two things [notifications within group]...I would skip right by this box." - P9
 
@@ -135,7 +138,7 @@ Our prototype didn't include a text message option for COVID-19 updates or appoi
 
 *insert screenshot*
 
-6 of 8 participants expected to notifications to be available by both text *and* email. Many didn't understand why they couldn't get a text message if their mobile number was on file, and didn't have a confident guess as to why that might be.
+Six participants expected to notifications to be available by both text *and* email. Many didn't understand why they couldn't get a text message if their mobile number was on file, and didn't have a confident guess as to why that might be.
 
 > *Moderator explains some notifications were only text and some only email* "That was not clear to me. I don't like that. If you are going to give me the option, give me the option - don't limit my options. " - P3
 
@@ -148,9 +151,9 @@ Participants shared various reasons for wanting to receive notifications by both
   - This was especially important for participants with TBI.
   - Participants commented that emails are more helpful for notifications with a lot of information.
 
-### Participants understood they needed to add missing contact information before they could sign up to get notifications, but it was challenging to go to a separate page to do it.
+### Leaving notification settings to add missing contact information caused confusion for participants.
 
-100% of participants clearly understood the messaging on the notification settings page telling them they needed to provide missing contact information to get notifications there.  In [task 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md#task-4-update-contact-information-and-sign-up-for-email-notifications---8-minutes), we asked participants to sign up for COVID-19 email notifications, which required them to add an email address on the personal and contact information page of our prototype.  Leaving the notification settings page to add an email address caused confusion and a lack of confidence that the task had been completed:
+ [Task 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md#task-4-update-contact-information-and-sign-up-for-email-notifications---8-minutes) had participants to sign up for COVID-19 email notifications, which required them to add an email address on the personal and contact information page of our prototype. All participants understood the content telling them they needed to add a missing information, but leaving the notification settings page to do so caused confusion and a lack of confidence that the task had been completed.
 
 - 2 participants thought the "contact email address" section wasn't the correct place to add their email because they were looking for something that said "COVID-19", since that was the notification they were trying to sign up for.
 
@@ -162,7 +165,7 @@ Participants shared various reasons for wanting to receive notifications by both
 
   > "I have not a clue. Because all you've done is added your email, you don't know whether the notifications are coming or not" - P11
 
-6 of 9 participants made comments that they prefer to add the email address directly on the notification settings page. When prompted, they stated they'd expect a pop-up window or something similar, rather than going to a new page.
+Six participants made comments that they prefer to add the email address directly on the notification settings page. When prompted, they stated they'd expect a pop-up window or something similar, rather than going to a new page.
 
 > "It was confusing going back and forth between the contact section." - P3
 
@@ -182,7 +185,7 @@ The 2 participants with cognitive considerations thought they had to go to anoth
 
 >"I was trying to see something about COVID, and I didn't see it but then I remembered I clicked on email. So, I guess I have to be verified. Now that's a lot of work. Y'all are going to make me go to another website." - P2
 
-Removing the contact email address revealed additional concerns and confusion. 2 were worried they wouldn't be able to login anymore if they removed their contact email address.  
+Removing the contact email address revealed additional concerns and confusion. Two were worried they wouldn't be able to login anymore if they removed their contact email address.  
 
 > "I don't like that. The only thing again is because I read about the VA gov/ID.me, and it says this will delete your email across many VA records - does that mean I won't be able to log into VA.gov anymore?"
 
@@ -202,7 +205,7 @@ However, some participants expressed concerns suggesting the content in the conf
 
 ### Participants see value in notifications related to health care, claim status updates, applications-in-progress, and education benefits.
 
-We asked participants which notifications they're already receiving from the VA.  6 of 9 participants are already receiving appointment reminders, and many of those also receive email notifications when their provider sends them a secure message through MHV.  The appointment reminders are particularly useful to those with cognitive considerations.
+We asked participants which notifications they're already receiving from the VA.  Six participants are already receiving appointment reminders, and many of those also receive email notifications when their provider sends them a secure message through MHV.  The appointment reminders are particularly useful to those with cognitive considerations.
 
 > "It is hard to remember all your appointments, or just basically sometimes anything, so those have been helpful" - P3
 
@@ -235,12 +238,11 @@ Multiple participants thought reminders for in-progess applications would be hel
 2. Provide a way for Veterans to update their contact information without having to go to a new page.
 3. Consider making all notifications available by text and email.
 4. Revisit the design for status messages and surfacing the channels through which Veterans can receive notifications.
-5. Update the page IA to better align with Veteran priorities.
+5. Revisit the page IA to explore how we might better align with Veteran priorities.
 6. Update profile content to improve clarity and comprehension.
 7. Revisit the design and content around login and contact email addresses.
 8. Move forward with moving remove functionality to the read mode of personal and contact information page.
 9. Consider adding notifications participants mentioned to future versions of our notification engine.
-10. Conduct testing on mobile, and with a more diverse participant pool.
 
 ### Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
 
@@ -268,9 +270,13 @@ Multiple participants struggled with small text in a regular type face in this s
 
 We should also explore how we might make it more clear that all notifications are *not* available through email and text.  The current design doesn't explicitly state that, and it caused confusion.
 
-### Update the page IA to better align with Veteran priorities.
+### Revisit the page IA to explore how we might better align with Veteran priorities.
 
-Our alphabetical order approach was a flop. 2 participants stated the first group () would be useless to them, and 3 different participants explicitly stated the health care notification group would be most important. Health care notifications were most frequently mentioned when we asked participants the type of notifications they'd want to receive. We should collaborate with our IA resources to better organize the page to align with Veteran priorities.
+Our alphabetical order approach wasn't particularly useful to Veterans. Two participants stated the first group (Applications, claims, decision reviews, and appeals) would be useless to them, and 3 different participants explicitly stated the health care notification group would be most important. Health care notifications were most frequently mentioned when we asked participants the type of notifications they'd want to receive. 
+
+This feedback aligns with what we've learned in previous research. During a June 2020 study Veterans told us that [health and disability benefits are a priority for them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#health-care-and-disability-benefits-are-king), which supported findings from the [2018 VA brand consolidation research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md#brand-consolidation). 
+
+We should collaborate with our IA resources, and revisit VA.gov analytics to determine if there are ways we can better align the order of notification groups with Veteran priorities and surface the most relevant notifications first.
 
 ### Update profile content to improve clarity and comprehension.
 
@@ -293,14 +299,6 @@ Adding a remove button next to edit on the personal and contact information page
 ### Consider adding notifications participants mentioned to future versions of our notification engine.
 
 We gathered some valuable insights about the notifications that would be valuable to Veterans. We should work closely with the relevant teams to determine the type of notifications we can create to offer these in future versions of notification settings.  It would also be worthwhile to conduct a dedicated research study to learn more about the notifications that would be most useful to Veterans.
-
-### Conduct further testing on mobile, and with a more diverse participant pool.
-
-We tested on desktop for this study because we hypothesized more usability hurdles would be encountered on desktop vs mobile for our design.  As a next step, we should validate the design on mobile. This will give us a chance to test the refinements described in the recommendations above.
-
-Our study didn't include participants who use assistive technology due to prototype limitations. We can still gain insights from interviews and should include them in the next round of research, regardless of the prototype.  Even better would be to test on staging and with screenreaders.
-
-
 
 ## Next steps
 
