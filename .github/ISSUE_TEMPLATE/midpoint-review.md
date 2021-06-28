@@ -40,7 +40,7 @@ Would you like this review to be asynchronous? Please refer to the Midpoint Revi
  
 ### Midpoint Reviews can only be scheduled on Monday, Tuesday, or Friday.
 
-Please choose your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)<br>
+Please select your preferred time slot per the [Platform Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York)<br>
 
 **Date/time**
  
