@@ -85,6 +85,21 @@ Effective January 1, 2018, the Post-9/11 GI Bill monthly housing allowance rate 
 
 { end modal content}
 
+
+### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
+
+{Learn more modal content }
+
+#### Completed an enlistment of (MGIB):
+
+The Montgomery GI Bill – Active Duty provides education benefits to Veterans and service members who have served at least two years of active duty. The amount of time you served (2 year enlistment vs. 3 or more years) impacts your monthly payment amount when using the Montgomery GI Bill. 
+
+Select the length of your original active-duty enlistment to get an estimate of your monthly benefit. 
+
+[Visit the MGIB site to learn more](http://www.benefits.va.gov/gibill/mgib_ad.asp)
+
+{ end modal content}
+
 Update benefits {Update button - deactivated until selection has been made}
 
 
@@ -101,6 +116,24 @@ Yes | No { selection options }
 If you're using GI Bill education benefits, you probably qualify for in-state tuition.
 
 Contact the School Certifying Official (SCO) to learn more about this school's in-state tuition requirements.
+
+{ end modal }
+
+{ if yes, conditional text field with learn more }
+
+In-state tuition and fees per year ([Learn more]()){ text field }
+
+{ learn more modal }
+
+#### In-state tuition and fees per year
+
+Enter the amount of tuition/fees your school charges in-state students.
+
+When you select some schools, we import the average in-state tuition/fees for an undergraduate student as reported by the school to the Department of Education through IPEDS. This is the same information that is published on College Navigator.
+
+Generally, in-state residents are charged a discounted rate of tuition and fees. VA pays the in-state tuition & fee rate at public schools. 
+
+[View the current tuition benefit rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch33)
 
 { end modal }
 
@@ -156,7 +189,7 @@ Under the GI Bill you’re eligible to receive a monthly housing allowance. We c
 
 If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.
 
-Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.
+Through Dec. 21, 2021, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.
 
 [View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
 
@@ -572,7 +605,7 @@ CareerScope(R) take career and educational planning to a new level. The proven c
 
 
 ## Veterans programs and support 
-* 8 Keys to Veteran Success [Learn more]()
+* 8 Keys to Veteran Success ([Learn more]())
 
 { learn more modal content }
 
@@ -586,7 +619,7 @@ To learn more about accreditation, visit the U.S. Department of Education’s [8
 
 { end modal }
 
-* Military Tuition Assistance (TA) [Learn more]()
+* Military Tuition Assistance (TA) ([Learn more]())
 
 { learn more modal content }
 
@@ -596,7 +629,7 @@ Are you receiving any military tuition assistance this year? If so, how much? Th
 
 { end modal }
 
-* Principles of Excellence [Learn more]()
+* Principles of Excellence ([Learn more]())
 
 { learn more modal content }
 
@@ -618,7 +651,7 @@ We try to make sure this information is accurate, but prospective students shoul
 
 { end modal }
 
-* Student Veteran Group [Learn more](): [Site]() {dynamic display of Veteran group link}
+* Student Veteran Group ([Learn more]()): ([Visit the site]()) {dynamic display of Veteran group link}
 
 { learn more modal content }
 
@@ -632,7 +665,7 @@ Please note this email address is only for Comparison Tool-related issues. For q
 
 { end modal }
 
-* VetSuccess on Campus [Learn more]() [Email {Name of Contact}]()  
+* VetSuccess on Campus ([Learn more]()): ([Email {Name of Contact}]()) 
 
 { learn more modal content }
 
