@@ -12,7 +12,7 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request an Analytics dashboard feature or report a dashboarding or Google Analytics/Google Tag Manager bug.
+Use this template to request an Analytics dashboard feature or report a dashboarding or Google Analytics/Google Tag Manager bug. This form is for enhancements to the existing KPI dashboards. If you have any analytics questions, please use the `/support` command on [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel in Slack, or attend one of our [office hours](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-5.AdditionalAnalyticsSupport).
 
 Platform Analytics & Insights will use the information you provide to help improve our products and services.
 
