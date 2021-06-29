@@ -1,6 +1,6 @@
 # My VA 2.0 redesign: Go / No Go | 6.29.21
 
-## Decision: ________
+## Decision: Good to go for launch to 25% on 6/30/21
 
 ---
 
