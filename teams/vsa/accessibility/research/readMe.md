@@ -68,6 +68,7 @@ By stewarding inclusive research at the VA, we can:
 Thank you to the following individuals who contributed to these guidelines:
 - Joshua Kim
 - Angela Fowler
+- Jennifer Strickland
 - Maria Vidart
 - Shawna Hein
 - Emily Mann
