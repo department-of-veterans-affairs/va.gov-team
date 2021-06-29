@@ -64,19 +64,22 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 
 ### It was not clear to all users that they needed to "apply" to make changes.
 - When asked to "make changes," all users **did** enter the form using the "apply" action link, though most felt the labeling was wrong 
-- Most users recognized they linked fro the auto COE screen back to the form
+- Most users recognized they linked for the auto COE screen back to the form
 - Only one participant read the "make changes" text, but didn’t understand that they needed to "apply" to make the change
+
 `There are good quotes from the first and last (?) users that show the range of understanding here.`
 
 ### Loan intent and document uploads were the two panels that slowed users down.
- - All users were confident of their choices on the "loan intent" screnn, but all paused to talk through the options
+ - All users were confident of their choices on the "loan intent" screen, but all paused to talk through the options
  - Only one user felt there should be more info to clarify loan intent options
  - Almost all participants proceeded successfully through the uploader screen
  - Most users did see the list of which documents needed to be uploaded, though some said it could be more prominent
  - One participant missed the "What kind of document are you uploading?" dropdown and could not continue
- - One user said having to uplad a DD214 would cause them to abandon the form
+ - One user said having to upload a DD214 would cause them to abandon the form
 
 ### Participants had varying ideas of where they'd find their COE if they returned to VA.gov
 - A couple of participants said they go to the benefits records page `Confirm`
 - One user expected a COE would be available in their logged-in profile `Confirm`
 
+## Summary
+The independent COE screen and the form itself seemed to function well for participants--but the connection between the two needs better established for users. Some content refinements and clarification would help on the intro screen and within the form. Users seem to expect VA-issued documents to be together on a "My documents" kind of screen; the existing "Benefits letters" page seem a natural home for a COE. The size and position of the sing-in widget obsured intro page content; only one user scrolled below it to see the subway map.
