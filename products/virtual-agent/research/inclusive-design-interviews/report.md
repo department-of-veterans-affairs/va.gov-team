@@ -22,7 +22,7 @@ In particular we focused on the two issues classified as [508 Defect 1](https://
 
 We were also interested in goals of self service among Veterans, such as: 
 
-- How the Veteran normally find information on va.gov - channels, why do they choose that channel and how often they use it
+- How the Veteran normally find information on VA.gov - channels, why do they choose that channel and how often they use it
   - Does the Veteran sign into va.gov (using Veteran’s info) - why or why not
   - What do they do when they can’t find the information they need on VA.gov
 - How often the Veteran speak with a VA help desk/contact center
@@ -33,14 +33,14 @@ We were also interested in goals of self service among Veterans, such as:
 
 ## Research Methodology
 
-We recruited a number of blind Veterans who were users of va.gov who used screen readers who were invited by Perigean to participate in the research study.  We conducted direct interviews and a moderated observation using a moderated script and asked them to perform a specific task of entering text into the chatbot and observe their interactions.  
+We recruited a number of blind Veterans who use screen readers on VA.gov. They were invited by Perigean to participate in the research study.  We conducted direct interviews and a moderated observation using a moderated script. During the interview, we asked them to perform a specific task of entering text into the chatbot and observed their interactions.  
 
 ## Hypotheses 
 
 We identified a number of hypotheses we wanted to validate or refute using data which were tied to our goals
 
 - Participants will encounter the same problems we identified during development
-- Veterans with visual disabilities may still be interested in using a chatbot rather than other channels such as the main va.gov site or speaking to a contact center agent.
+- Veterans with visual disabilities may still be interested in using a chatbot rather than other channels such as the main VA.gov site or speaking to a contact center agent.
 
 ## Participants
 
