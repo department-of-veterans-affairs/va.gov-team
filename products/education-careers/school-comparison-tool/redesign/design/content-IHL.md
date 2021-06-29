@@ -4,11 +4,6 @@
 
 # Name of school 
 
-{ Closing flag, as relevant }
-
-{ Caution flags, as relevant }
-
-{ See [caution & closing flag content here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/caution-flags/content/Caution%20Flag%20Copy%20for%20Review%20v.1.2.xlsx) }
 
 CITY, STATE
 
@@ -25,6 +20,12 @@ The number of Veterans, service members and family members using their GI Bill b
 
 {/end learn more modal content}
 
+{ Closing flag, as relevant }
+
+{ Caution flags, as relevant }
+
+{ See [caution & closing flag content here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/caution-flags/content/Caution%20Flag%20Copy%20for%20Review%20v.1.2.xlsx) }
+
 { Length of program - Certificate, 2-year program, 4-year program, etc. }
 
 { Type of institution - Public, Private, For-profit, etc. }
@@ -34,6 +35,8 @@ The number of Veterans, service members and family members using their GI Bill b
 { Size of institution - Small size, Medium size, Large size, etc. }
 
 { School locale - City locale, Rural local, etc. }
+
+{ School website }
 
 Compare { Compare checkbox }
 
