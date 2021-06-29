@@ -75,7 +75,7 @@ An e-Signature solution should provide the following benefits:
 * What do we know?
    - There are currently over 400 forms available on Find a VA Form, and only about 40 that have a web-based fillable form option
    - It would be extremely time consuming and labor intenstive to manually build an HTML-based web form for all of the remaining forms
-   - The VA has been incorporating digital signature into forms for several years and plans to continue to do so.
+   - The VA has been incorporating digital signature into forms for several years and plans to continue doing so.
     - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
         - Chrome on Windows: 36.97%
         - Edge on Windows: 26.31%
@@ -86,22 +86,31 @@ An e-Signature solution should provide the following benefits:
         - Chrome on Macintosh: 3.04%
         - Chrome on Chrome OS: 1.53%
         - Chrome on iOS: 0.74% 
-    - Some VA PDF forms containing **dynamic XFA** (typically in a digital signature field) are incompatable with modern browsers according to Adobe
-    - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which they download and open the PDF.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
-    - The only reliable way for forms with dynamic XFA to be used is to save them locally and complete them in Adobe Acrobat Reader.
-    - There is an attribute currently used on Find a VA Form that will instruct a browser to **download** a PDF form rather than attempt to open it within the browser.
-    - Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute described above. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
+    - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
+    - Digital signature fields in some VA forms are already using dynamic XFA
+    - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which the PDF is downloaded and opened.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
+    - The only reliable way to complete forms containing dynamic XFA is to save them locally and complete them in Adobe Acrobat Reader.
+    - There is an attribute currently used on Find a VA Form that will instruct the web browser to **download** a PDF form rather than attempt to open it within the browser window.
+    - The above mentioned download attribute works only if the form is hosted on the same domain as the web page containing the link.  Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
     - PDF forms are difficult for screen reader users (those who are blind or have poor vision) to navigate
-    - Instructions to download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open it may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
+    - Instructions that include several steps -- download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open -- may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
 * What don't we know?
-    - We have no way of knowing at runtime if a user has Adobe Acrobat Reader installed, or if it isset as their default PDF reader.
+    - We have no way of knowing if a user has Adobe Acrobat Reader installed, or if it is set as their default PDF reader.
     - We don't know how many users are actually able to successfully complete and send in a PDF form after having clicked a PDF link.
+    - We don't know how many users are willing or able to follow instructions on downloading the PDF (and Adobe Acrobat Reader if they don't already have it)
 * Are any of the above assumptions that need to be verified?
      - Yes
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
      - We plan to conduct a research study with users wherein they will be asked to download specific PDF forms selected due to their varying behavior in different browsers.
+     - We will also explore the possibility of analytics that may be able to distinguish those who clicked a PDF link from those who actually saved it.
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+    - OMB Personnel
+    - VA Forms leadership
+    - VA Forms Managers
+    - People who key in paper forms that have been emailed, mailed, or faxed in
+    - People who process forms and make decisions based on the information provided
+    - People who manage the database(s) where the form contents are ultimately stored
 * What secondary research should we do (google, facebook, internal documents)?
 * Are there any intentional project constraints (things we're intentionally deeming out of scope)?
 * Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
