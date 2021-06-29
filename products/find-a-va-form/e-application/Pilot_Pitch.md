@@ -71,14 +71,31 @@ _To be filled out by Discovery Sprint Team._
 ### Project Details
 
 * What do we know?
-  - The digital signature fields on some VA PDF forms do not render as fillable within a web browser a due to incompatibility between Adobe's Dynamic XFA and modern browsers.
-  - The only reliable way for these forms to be opened and fully completed is to use Adobe Acrobat Reader.
-  - There is an attribute currently used on Find a VA Form that will instruct a browser to **download** a PDF form rather than attempt to open it locally when the form is hosted on a VA.gov domain.
-  - Some PDF forms offered on Find a VA Form are hosted on a VA subdomain, which prevents the use of the download attribute described above. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
+  - The VA has been incorporating digital signature into forms for several years and plans to continue to do so.
+  - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
+      - Chrome on Windows: 36.97%
+      - Edge on Windows: 26.31%
+      - Internet Explorer on Windows: 9.55%
+      - Safari on Macintosh: 8.11%
+      - Safari on iOS: 6.05%
+      - Chrome on Android: 4.53%
+      - Chrome on Macintosh: 3.04%
+      - Chrome on Chrome OS: 1.53%
+      - Chrome on iOS: 0.74% 
+  - Some VA PDF forms containing **dynamic XFA** (typically in a digital signature field) are incompatable with modern browsers according to Adobe
+  - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which they download and open the PDF.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
+  - The only reliable way for forms with dynamic XFA to be used is to save them locally and complete them in Adobe Acrobat Reader.
+  - There is an attribute currently used on Find a VA Form that will instruct a browser to **download** a PDF form rather than attempt to open it within the browser.
+  - Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute described above. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
+  - PDF forms are difficult for screen reader users (those who are blind or have poor vision) to navigate
+  - Instructions to download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open it may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
 * What don't we know?
-  - We have no way of knowing at runtime if a user has Adobe Acrobat Reader installed, or if they have it set as their default PDF reader.
+  - We have no way of knowing at runtime if a user has Adobe Acrobat Reader installed, or if it isset as their default PDF reader.
+  - We don't know how many users are actually able to successfully complete and send in a PDF form after having clicked a PDF link.
 * Are any of the above assumptions that need to be verified?
+   - Yes
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
+   - We plan to conduct a research study with users wherein they will be asked to download specific PDF forms selected due to their varying behavior in different browsers.
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?
