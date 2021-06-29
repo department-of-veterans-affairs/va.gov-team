@@ -17,8 +17,8 @@ be behind a feature flag.
    - [Conversation Guide: My VA UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md)
 
 ### Results/Issues:
-- **Number of users:** ____
-- **List of bugs/issues found:** ____
+- **Number of users:** 7
+- **List of bugs/issues found:** 4 (all minor and non-launch blocking)
 
 ## Phase II: Staged Rollout 
 ### Planning
