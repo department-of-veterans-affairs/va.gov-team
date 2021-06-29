@@ -312,8 +312,7 @@ We gathered some valuable insights about the notifications that would be valuabl
 
 ## Next steps
 
-- Review findings with team
-- TBD: determine with team
+- Review findings with team to determine next steps
 
 ## Resources	
 
