@@ -1,5 +1,5 @@
 
-# Domiciliary SME Discovery Interview - [location]
+# Domiciliary SME Discovery - [location]
 
 ## Intro
 
