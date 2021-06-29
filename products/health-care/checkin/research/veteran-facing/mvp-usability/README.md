@@ -17,7 +17,7 @@
 | [P03](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P3.md) | Wednesday, June 23, Noon - 1 p.m. | Attended | iPhone | Veteran | Female | Asian | 45 - 54 | Bachelor's degree | Navy | CA |
 | [P04](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P4.md) | Thursday, June 24, 9 - 10 a.m. | Attended | iPhone | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25 - 34 | Master's degree | Marine Corps | FL |
 | P05 | Thursday, June 24, 11 a.m. - Noon | No show |   | Veteran | Male | American Indian or Alaska Native | Prefer not to answer | Master's degree | Army | VA |
-| [P06]() | Thursday, June 24, 2 - 3 p.m. | Attended | iPhone | Veteran | Female | Black or African American | 55 - 64 | Some college (no degree) | Marine Corps | GA |
+| [P06](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P6.md) | Thursday, June 24, 2 - 3 p.m. | Attended | iPhone | Veteran | Female | Black or African American | 55 - 64 | Some college (no degree) | Marine Corps | GA |
 | P07 | Friday, June 25, 10:30 - 11:30 a.m. | No show |   | Veteran | Male | Hispanic, Latino, or Spanish Origin | 35 - 44 | High school diploma or equivalent (for ex: GED) | Navy | TX |
 | P08 | Friday, June 25, 1 - 2 p.m. | No show |   | Veteran | Male | White or Caucasian | 65 - 74 | Some college (no degree) | Navy | NY |
 | P09 | Friday, June 25, 3:30 - 4:30 p.m. | No show |   | Veteran | Female | Black or African American | 35 - 44 | Some college (no degree) | Army | SC |
