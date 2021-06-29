@@ -25,7 +25,7 @@ The number of Veterans, service members and family members using their GI Bill b
 
 {/end learn more modal content}
 
-{ Lenght of program - Certificate, 2-year program, 4-year program, etc. }
+{ Length of program - Certificate, 2-year program, 4-year program, etc. }
 
 { Type of institution - Public, Private, For-profit, etc. }
 
@@ -358,7 +358,7 @@ Visit the [Yellow Ribbon tool](https://www.va.gov/education/yellow-ribbon-partic
 
 { end modal }
 
-Rogers STEM SCholarship ([Learn more]()): {Options: Yes | No }
+Rogers STEM Scholarship ([Learn more]()): {Options: Yes | No }
 
 { Learn more modal }
 
@@ -505,7 +505,7 @@ Veterans rate schools on a number of categories. Those ratings are averaged to c
 A school may ask us for a list of Veterans who rated their school, but we do not share individual ratings with schools. If an institution asks us for information on who rated their school, no information beyond what is publicly available on the Comparison Tool is shared with them that would tie an individual to their ratings.  
 
 
-## Cautionar information
+## Cautionary information
 
 ### Student feedback
 
@@ -706,10 +706,6 @@ Does the school have a dedicated point of contact for support services for Veter
 #### Primary 
 
 { list all primary SCOs}
-
-#### Secondary
-
-{ list secondary SCOs if relevant }
 
 ### Institution codes
 
