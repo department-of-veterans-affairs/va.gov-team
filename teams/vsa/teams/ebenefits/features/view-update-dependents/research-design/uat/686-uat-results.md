@@ -10,7 +10,7 @@ Five UAt sessions were conducted from June X to June Y, 2021. X of Y users parti
 
 ## UAT testing of direct deposit for EDU
 
-| UAT item | DNS | DNS | DNS | P4 | P5 | P6 | P7 | P8 |
+| UAT item | DNS | DNS | DNS | P4 | DNS | DNS | P7(?) | P8(?) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | After login, intro screen allows access | -- | -- | -- | X | -- | -- | -- | -- |
 | Checkboxes function, workflow selection(s) made | -- | -- | -- | X | -- | -- | -- | -- |
