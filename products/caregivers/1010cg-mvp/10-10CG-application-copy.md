@@ -425,14 +425,25 @@ Do you have a legal representative document you’d like to share with us?
 - Yes. But I'll provide my document later.
 - No. I don't have this document.
 
-What type of document does a legal representative need? _(more info)_
+What type of documents does VA accept to show legal representation? _(more info)_
 
-To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
-- Power of attorney, **or**
-- Legal guardianship order, **or**
-- Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
+We accept these documents:
+- Veteran guardianship, **or**
+- Veteran-related court order
 
-Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
+We may accept these documents, depending on the requirements where you live:
+- Power of attorney for Veteran, **or**
+- Health care power of attorney for Veteran
+
+Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
+- Marriage or driver's licenses
+- Release of Information forms or fiduciary program documents
+- Medical or VA benefit records
+- Health insurance information
+
+Please upload the **full document**. We can’t accept only a cover or signature page. Our staff will review your documents with you after you apply.
+
+_(end more info)_
 
 # (If Yes. I want to upload my document now.) 
 
@@ -442,23 +453,35 @@ Note: Being a Veteran’s closest family member or next of kin doesn’t mean yo
 
 **Upload your legal representative document** (*Required)
 
-You’ll need to scan your document onto the device you’re using to submit this application, such as your computer, tablet, or mobile phone. You can upload your document from there.
+You can upload a scanned copy or photo of your document from the device you’re using to apply online.
 
-Guidelines for uploading a file:
+Follow these guidelines when you upload your document:
 
-- You can upload a .pdf, .jpg, .jpeg, or .png file
-- Your file should be no larger than 10MB
+- Upload the full document. We can’t accept only a cover or signature page.
+- Format the file as a .pdf, .jpg, .jpeg, or .png. 
+- Be sure the file is 10MB or less in size.
 
-A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow internet connection.
+**Note:** A 1MB scanned file equals about 500 pages of text. A photo is usually about 6MB. If you have a slow Internet connection, large files may take longer to upload.
 
-What type of document does a legal representative need? _(more info)_
+What type of documents does VA accept to show legal representation? _(more info)_
 
-To show that you’re the Veteran’s legal representative, you’ll need to upload one of these current documents:- 
-- Power of attorney, **or**
-- Legal guardianship order, **or**
-- Another legal document that confirms your legal status as the Veteran’s representative. This document can be from a federal, state, local, or tribal court.
+We accept these documents:
+- Veteran guardianship, **or**
+- Veteran-related court order
 
-Note: Being a Veteran’s closest family member or next of kin doesn’t mean you’re their representative. You need a separate legal document to show your status as the representative.
+We may accept these documents, depending on the requirements where you live:
+- Power of attorney for Veteran, **or**
+- Health care power of attorney for Veteran
+
+Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
+- Marriage or driver's licenses
+- Release of Information forms or fiduciary program documents
+- Medical or VA benefit records
+- Health insurance information
+
+Please upload the **full document**. We can’t accept only a cover or signature page. Our staff will review your documents with you after you apply.
+
+_(end more info)_
 
 [Upload]
 
