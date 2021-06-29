@@ -18,7 +18,7 @@ be behind a feature flag.
 
 ### Results/Issues:
 - **Number of users:** 7
-- **List of bugs/issues found:** 4 (all minor and non-launch blocking)
+- **List of bugs/issues found:** 4 ([all minor and non-launch blocking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/uat-bugs.md))
 
 ## Phase II: Staged Rollout 
 ### Planning
