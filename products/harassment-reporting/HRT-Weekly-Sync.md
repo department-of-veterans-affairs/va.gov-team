@@ -27,10 +27,12 @@
 ## July 1, 2021
 
 * Design Elements - Review mock ups  
-  * Updates to flow (Provided PDF)
-  * Content for definitions (SA, SH, HO) 
+  * Clarity Requests: non-departmental anonymous state
+  * Updates/Feedback: 
+  * Needs/Requests: Content for definitions (SA, SH, HO) 
 * Review "What is in Scope for MVP"
-  * Is landing page in scope for MVP?  Who is building 
+  * DVSA Team will build landing page (Content help is needed will be long pole in plan)
 * Privacy and Security Updates - What's the latest (Update).
   * Measure Impact - How does this affect prototype? 
 * Next Steps - Collaboration Cycle Checkin  
+  * Design Intent Review - Once draft designs are finalized 
