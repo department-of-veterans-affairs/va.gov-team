@@ -516,6 +516,15 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 
 ## Cautionary information
 
+### Alerts from VA and other federal agencies { displayed if applicable }
+
+{ caution flag(s) displayed individually }
+
+
+Before enrolling in a program at this institution, VA recommends that potential students consider these cautionary warnings. Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
+
+To learn more about Caution Flags, [visit the About this Tool Page]().
+
 ### Student feedback
 
 * NN student complaints in the last 24 months ([Learn more])
