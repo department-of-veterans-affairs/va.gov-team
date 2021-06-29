@@ -12,7 +12,7 @@
 
 | Session Notes   | Session Day & Time | Session Status | Phone | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
 | ------------------------------------------------------------ |------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ |
-| [P01]() | Wednesday, June 23, 9 - 10 a.m. | Attended | iPhone | Veteran | Male | White or Caucasian | Prefer not to answer | Associate's degree/trade certificate/vocational training | Coast Guard | KY |
+| [P01](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P1.md) | Wednesday, June 23, 9 - 10 a.m. | Attended | iPhone | Veteran | Male | White or Caucasian | Prefer not to answer | Associate's degree/trade certificate/vocational training | Coast Guard | KY |
 | [P02]() | Wednesday, June 23, 10:30 - 11:30 a.m. | Attended | iPhone | Veteran | Male | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44 | Master's degree | Marine Corps | MD |
 | [P03]() | Wednesday, June 23, Noon - 1 p.m. | Attended | iPhone | Veteran | Female | Asian | 45 - 54 | Bachelor's degree | Navy | CA |
 | [P04]() | Thursday, June 24, 9 - 10 a.m. | Attended | iPhone | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25 - 34 | Master's degree | Marine Corps | FL |
