@@ -11,7 +11,7 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request support for anlaytics that need interpretation. If you have your KPIs set, please [request a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
+Use this template to request support for analytics that need interpretation. If you have your KPIs set, please [request a KPI dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
 
 ## Instructions
 
