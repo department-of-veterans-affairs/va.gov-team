@@ -116,12 +116,19 @@ An e-Signature solution should provide the following benefits:
      - We plan to conduct a research study with users wherein they will be asked to download specific PDF forms selected due to their varying behavior in different browsers.
      - We will also explore the possibility of analytics that may be able to distinguish those who clicked a PDF link from those who actually saved it.
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
-* Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
-    - OMB Personnel
-    - VA Forms leadership
-    - VA Forms Managers
-    - People who key in paper forms that have been emailed, mailed, or faxed in
-    - People who process forms and make decisions based on the information provided
+*    - All users should benefit in some way from improved ease-of-use, but it should be particularly beneficial to those who:
+        - Do not use the Internet or have familiarity with PDFs
+        - Have never downloaded a helper application like Adobe Acrobat Reader
+        - Have difficulty locating a file they have downloaded to their local device or computer
+        - Use a work or public computer that does not allow them to download files or install Adobe Acrobat Reader
+        - Use a screen reader due to low vision or blindness
+        - Have suffered a traumatic brain injury or have other mental health conditions affecting their congnitive abilities
+* Who do we needs to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+    - OMB Personnel to better understand the form creation/approval/modification process
+    - VA Forms leadership to better understand the end-to-end workflow from form creation to the processing of submitted forms
+    - VA Forms Managers to better understand their workflow in adding new or updated forms to the VA system
+    - VA personnel who key in paper forms that have been emailed, mailed, or faxed in
+    - VA personnel who make decisions based on the information provided in forms
     - People who manage the database(s) where the form contents are ultimately stored
 * What secondary research should we do (google, facebook, internal documents)?
 * Are there any intentional project constraints (things we're intentionally deeming out of scope)?
