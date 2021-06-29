@@ -33,7 +33,7 @@ P4 | Cognitive & Dyslexia | mobile iPhone | iOS dictation §† | Beginner |
 P6 | Low vision | mobile iPhone | magic keyboard § | Beginner on iOS |
 P7 | Completely blind |  Desktop | JAWS screen reader | Advanced |
 P9 | Low vision |  Desktop | ZoomText screen reader ¶ | Intermediate |
-P0 | Low vision |  Desktop | Fusion (JAWS + ZoomText) ¶ | Beginner |
+P10 | Low vision |  Desktop | Fusion (JAWS + ZoomText) ¶ | Beginner |
 
 Due to technical issues, not all participants were able to share their typical or preferred combination of AT in its entirety via Zoom. Therefore, some aspects were not able to be observed by researchers during testing. Technologies not observed during testing are noted as follows:
 
