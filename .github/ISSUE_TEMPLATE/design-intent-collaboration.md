@@ -33,7 +33,7 @@ assignees: shiragoodman, allison0034
 - Product Manager (required): name
 - OCTO-DE Design Lead (required): Ryan Thurlwell
 - OCTO-DE Product Lead (recommended): name
-- VFS content, IA, accessibility, and QA specialists (if applicable): name(s)
+- VFS content, IA, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable): name(s)
 
 ## Scheduling
@@ -48,7 +48,7 @@ Please note:
 - Please select a time slot at least 2 business days from request date.
 
 ## Additional information
-For the Design Intent, you'll receive feedback from design, accessibility, and IA only. You won't receive feedback from content and QA, as it's too early in the development process.
+For the Design Intent, you'll receive feedback from design and IA only. You won't receive feedback from content and QA, as it's too early in the development process.
 
 Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
 
