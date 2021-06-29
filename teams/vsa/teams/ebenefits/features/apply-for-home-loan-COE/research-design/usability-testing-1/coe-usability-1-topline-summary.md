@@ -45,7 +45,7 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 
 ## Initial findings
 
-### Participants primarily looked to white quads, specifically to the “Records” box, to find the COE tool.
+### When looking for the COE feature, participants primarily looked to white quads, specifically to the “Records” box, to find the COE tool.
 - Users seems to gravitate toward the "Download your benefit letters" link
 - One user utilized search, one used mega menu
 - Two users found the COE landing page
@@ -57,20 +57,26 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - One user did scroll to the bottom of the page, but only noted the estimated time to complete as useful after prompting
 
 ### Participants generally accepted the auto COE screen's presentation and functionality
-- All users understood what they 'received/found" their COE, even if they didn’t understand where they were redirected from the intro (P11 skipped the auto COE flow)
+- All users understood what they "received/found" their COE, even if they didn’t understand where they were redirected from the intro to a standalone page (P11 skipped the auto COE flow)
 - One user seemed to understand the auto COE screen to be a different page
 - All users on the auto COE screen found the COE download link and the COE PDF (P11 skipped the auto COE flow)
 - Three users said they would print their COE, and two said they would also save it to email to their lender
 
 ### It was not clear to all users that they needed to "apply" to make changes.
-- When asked to "make changes," all users did enter the form using the "apply" action link, though most felt the labeling was wrong 
-- 3 of those 4 realized they’d linked back to the form
-- 1 of those 4 noticed the make changes messaging, but didn’t understand that they needed to apply to make the change
-- There are good quotes from the first and last (?) users that show the range of understanding here.
+- When asked to "make changes," all users **did** enter the form using the "apply" action link, though most felt the labeling was wrong 
+- Most users recognized they linked fro the auto COE screen back to the form
+- Only one participant read the "make changes" text, but didn’t understand that they needed to "apply" to make the change
+`There are good quotes from the first and last (?) users that show the range of understanding here.`
 
 ### Loan intent and document uploads were the two panels that slowed users down.
- - 4 of 4 users that saw the loan intent step were made the correct selection, but all paused and had to talk through the options
- - 1 of 5 wanted additional information on the loan intent options
- - 4 of 5 participants completed the upload without prompting
- - 3 of 5 noticed the language of which documents needed to be uploaded
- - 1 of 5 participants missed the "What kind of document are you uploading?" dropdown and could not continue
+ - All users were confident of their choices on the "loan intent" screnn, but all paused to talk through the options
+ - Only one user felt there should be more info to clarify loan intent options
+ - Almost all participants proceeded successfully through the uploader screen
+ - Most users did see the list of which documents needed to be uploaded, though some said it could be more prominent
+ - One participant missed the "What kind of document are you uploading?" dropdown and could not continue
+ - One user said having to uplad a DD214 would cause them to abandon the form
+
+### Participants had varying ideas of where they'd find their COE if they returned to VA.gov
+- A couple of participants said they go to the benefits records page `Confirm`
+- One user expected a COE would be available in their logged-in profile `Confirm`
+
