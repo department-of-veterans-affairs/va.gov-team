@@ -50,8 +50,8 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
   - [ ] Denise proposed a design workshop on design ideas for adding link(s) to home page (i.e., separate search box, above "top 4" boxes, below "top 4" boxes", inside all 4 "top 4" boxes)
   - [ ] Shawna would like to be included in the discussion of the search results page (Denise, too?)
 - [x] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
-- [ ] Denise will find out: *Do we need to work with VSP on these design concepts?*
-- [ ] Denise/Megan: Rough timing for when design prototypes will be ready?
+- [x] Denise will find out: *Do we need to work with VSP on these design concepts?*
+- [x] Denise/Megan: Rough timing for when design prototypes will be ready?
 - [ ] Cindy will consider combining this research with the Find a Form Downloading PDF research, if designs are ready at the same time
 
 ## Participants and Recruitment	
@@ -84,12 +84,13 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 
 ## Timeline
 #### Desired Timeline: Aug TBD, 2021 
-**60-minute** sessions with at least **30-minute breaks** in between 
+**30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
 TBD, 2021 | Noon - 3 pm, 4 - 8 pm
-TBD more days
+TBD, 2021 | Noon - 3 pm, 4 - 8 pm
+TBD, 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
