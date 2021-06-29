@@ -46,7 +46,9 @@ Should you use MVS, try to meet the following numbers (based on VA statistics) i
 
 If feasible, we also recommend recruiting at least one participant from the following marginalized populations:
 - Native American Veterans, [who have the highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women).
-- Transgender Veterans, given recent direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
+- Veterans in the LGTBQ+ community, given recent direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
+- Veterans with other than honorable discharge.
+- Immigrant Veterans or Veterans from immigrant families.
 
 If time and budget allows, we recommend testing with Veterans who use the following AT:
 - Screen reader (mobile and desktop, beginner and advanced)
@@ -60,12 +62,9 @@ If time and budget allows, we recommend testing with Veterans who use the follow
 
 If relevant to your study, your sample may also aim to include:
 - Non English speakers
-- Immigrant family
-- LGBTQ 
 - Family members and caregivers
 - Veteran service officers (VSOs)
 - Veterans living abroad
-- Veterans with other than honorable discharge
 
 Veterans will likely fit multiple requirements. [Use our MVS spreadsheet to check if you're meeting the numbers above](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing).
 
