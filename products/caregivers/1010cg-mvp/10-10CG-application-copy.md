@@ -451,7 +451,7 @@ _(end more info)_
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666491/simulate/sitemap?mode=i)
 
-**Upload your supporting document** (*Required)
+**Upload your legal representative document** (*Required)
 
 You can upload a scanned copy or photo of your document from the device you’re using to apply online.
 
