@@ -83,10 +83,12 @@ An e-Signature solution should provide the following benefits:
 ### Project Details
 
 * What do we know?
-   - There are currently over 400 forms available on Find a VA Form, and only about 40 that have a web-based fillable form alternative
-   - Several of the web-based alternatives ultimately fill in a PDF in the background
+   - There are currently over 400 PDF forms available on Find a VA Form, and only about 40 with a web-based alternative
    - It would be extremely time consuming and labor intenstive to manually build an HTML-based web form for all of the remaining forms
+   - Several of the web-based alternatives ultimately insert the user-entered data into a PDF form in the background
    - The VA has been incorporating digital signature into forms for several years and plans to continue doing so.
+   - The addition of dynamic XFA to an existing VA form can cause web-based form-filling applications to unexpectedly stop functioning.  As a workaround, some teams have opted to create their own "flattened" copy of the PDF form stored outside the VA database, which introduces the potential for forms getting out of sync.
+    - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
     - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
         - Chrome on Windows: 36.97%
         - Edge on Windows: 26.31%
@@ -97,7 +99,6 @@ An e-Signature solution should provide the following benefits:
         - Chrome on Macintosh: 3.04%
         - Chrome on Chrome OS: 1.53%
         - Chrome on iOS: 0.74% 
-    - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
     - Digital signature fields in some VA forms are already using dynamic XFA
     - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which the PDF is downloaded and opened.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
     - The only reliable way to complete forms containing dynamic XFA is to save them locally and complete them in Adobe Acrobat Reader.
