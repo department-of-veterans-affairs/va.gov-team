@@ -425,23 +425,23 @@ Do you have a legal representative document you’d like to share with us?
 - Yes. But I'll provide my document later.
 - No. I don't have this document.
 
-What type of documents does VA accept to show legal representation? _(more info)_
+What types of documents does VA accept to show legal representation? _(more info)_
+
+First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review your documents with you after you apply.
 
 We accept these documents:
 - Veteran guardianship, **or**
 - Veteran-related court order
 
 We may accept these documents, depending on the requirements where you live:
-- Power of attorney for Veteran, **or**
-- Health care power of attorney for Veteran
+- Power of attorney for the Veteran, **or**
+- Health care power of attorney for the Veteran
 
 Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
 - Marriage or driver's licenses
 - Release of Information forms or fiduciary program documents
 - Medical or VA benefit records
 - Health insurance information
-
-Please upload the **full document**. We can’t accept only a cover or signature page. Our staff will review your documents with you after you apply.
 
 _(end more info)_
 
@@ -463,23 +463,23 @@ Follow these guidelines when you upload your document:
 
 **Note:** A 1MB scanned file equals about 500 pages of text. A photo is usually about 6MB. If you have a slow Internet connection, large files may take longer to upload.
 
-What type of documents does VA accept to show legal representation? _(more info)_
+What types of documents does VA accept to show legal representation? _(more info)_
+
+First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review your documents with you after you apply.
 
 We accept these documents:
 - Veteran guardianship, **or**
 - Veteran-related court order
 
 We may accept these documents, depending on the requirements where you live:
-- Power of attorney for Veteran, **or**
-- Health care power of attorney for Veteran
+- Power of attorney for the Veteran, **or**
+- Health care power of attorney for the Veteran
 
 Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
 - Marriage or driver's licenses
 - Release of Information forms or fiduciary program documents
 - Medical or VA benefit records
 - Health insurance information
-
-Please upload the **full document**. We can’t accept only a cover or signature page. Our staff will review your documents with you after you apply.
 
 _(end more info)_
 
