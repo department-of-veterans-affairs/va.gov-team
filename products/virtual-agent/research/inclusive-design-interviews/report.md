@@ -77,11 +77,11 @@ We identified 5 key findings tied to the goals and hypotheses:
 
 - Links in the chat log were not keyboard focused.
   - We validated that this issue occurred and that the links added to the VA chatbot's responses are not reachable by keyboard when navigating through the page with the TAB key. 
-  - This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on va.gov
+  - This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on VA.gov
 
 - Links were being announced as "messages" or just text and not links.
   - We validated that JAWS and VoiceOver are reading out links in the chatbot responses as "LINK TEXT, message" or just reading out the link text and never saying "link".
-  - This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on va.gov
+  - This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on VA.gov
 
 - Many of the additional accessibility issues which were less urgent than defect 1 in severity were observed, including the challenge of finding chatbot on the page in the first place.
   - This is in reference to the issue of ‘navigation through the chat log must be easy and intuitive’.  If one navigates off the chatbot, it is difficult to navigate back onto it, and depends on the participant using VoiceOver’s Form Control menu navigator.
@@ -103,7 +103,7 @@ The results our work for the hypotheses included:
 - Participants will encounter the same problems we identified during development
   - Results: we validated some of the problems existed but not all of them, and would require additional research and partnership with Microsoft to ensure these are solved.
 
-- Veterans with visual disabilities may still be interested in using a chatbot rather than other channels such as the main va.gov site or speaking to a contact center agent.
+- Veterans with visual disabilities may still be interested in using a chatbot rather than other channels such as the main VA.gov site or speaking to a contact center agent.
   - Results: we validated that Veterans would still be interested in a chatbot and seemed excited at how it might help them.
 
 ## Next Steps
