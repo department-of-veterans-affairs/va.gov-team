@@ -25,7 +25,18 @@
 
 ## June 30
 
-Review help desk insights and VAMC / Vet Center known issues list. 
+Review help desk insights and VAMC / Vet Center known issues list.
+- Prioritized in Facilities team sprint beginning 6/30:
+  - [Vet Center phone numbers in service accordions #26688](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26688)
+  - [National Vet Center content is missing #26674](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26674)
+  - [Vet Center addresses do not include suite numbers on new Vet Center pages #26544](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26544)
+  - [Include specified "Nearby Mobile Vet Centers" in Satellite Locations list #26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
+- Backlog
+  - [Vet Center Spotlight CTA #26676](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26676)
+
+New issues based on Content review
+- [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725)
+- [Operating status: improvements to editorial experience #17727](https://github.com/department-of-veterans-affairs/vets-website/issues/17727)
 
 Vet Center 
 * "Nearby Mobile Vet Centers 
