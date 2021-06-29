@@ -83,7 +83,8 @@ An e-Signature solution should provide the following benefits:
 ### Project Details
 
 * What do we know?
-   - There are currently over 400 forms available on Find a VA Form, and only about 40 that have a web-based fillable form option
+   - There are currently over 400 forms available on Find a VA Form, and only about 40 that have a web-based fillable form alternative
+   - Several of the web-based alternatives ultimately fill in a PDF in the background
    - It would be extremely time consuming and labor intenstive to manually build an HTML-based web form for all of the remaining forms
    - The VA has been incorporating digital signature into forms for several years and plans to continue doing so.
     - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
