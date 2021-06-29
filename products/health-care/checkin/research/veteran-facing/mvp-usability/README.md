@@ -11,7 +11,7 @@
 ## Participants
 
 | Session Notes   | Session Day & Time | Session Status | Phone | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
-| ------------------------------------------------------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ |
+| ------------------------------------------------------------ |------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ |
 | [P01]() | Wednesday, June 23, 9 - 10 a.m. | Attended | iPhone | Veteran | Male | White or Caucasian | Prefer not to answer | Associate's degree/trade certificate/vocational training | Coast Guard | KY |
 | [P02]() | Wednesday, June 23, 10:30 - 11:30 a.m. | Attended | iPhone | Veteran | Male | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44 | Master's degree | Marine Corps | MD |
 | [P03]() | Wednesday, June 23, Noon - 1 p.m. | Attended | iPhone | Veteran | Female | Asian | 45 - 54 | Bachelor's degree | Navy | CA |
