@@ -84,11 +84,11 @@ An e-Signature solution should provide the following benefits:
 
 * What do we know?
    - There are currently over 400 PDF forms available on Find a VA Form, and only about 40 with a web-based alternative
-   - It would be extremely time consuming and labor intenstive build web-based interfaces for all of the remaining forms
-   - Several of the web-based alternatives ultimately insert the user-entered data into a PDF form in the background
-   - The VA has been incorporating digital signature into forms for several years and plans to continue doing so.
+   - It would be extremely time consuming and labor intenstive to build web-based interfaces for every form
+   - Several of the current web-based alternatives ultimately insert user-entered data into a PDF form in the background
+   - The VA has been incorporating digital signature into forms for several years and plans to continue doing so
+   - - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
    - The addition of dynamic XFA to an existing VA form can cause web-based form-filling applications to unexpectedly stop functioning.  As a workaround, some teams have opted to create their own "flattened" copy of the PDF form stored outside the VA database, which introduces the potential for forms getting out of sync.
-    - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
     - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
         - Chrome on Windows: 36.97%
         - Edge on Windows: 26.31%
@@ -103,24 +103,24 @@ An e-Signature solution should provide the following benefits:
     - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which the PDF is downloaded and opened.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
     - The only reliable way to complete forms containing dynamic XFA is to save them locally and complete them in Adobe Acrobat Reader.
     - There is an attribute currently used on Find a VA Form that will instruct the web browser to **download** a PDF form rather than attempt to open it within the browser window.
-    - The above mentioned download attribute works only if the form is hosted on the same domain as the web page containing the link.  Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file could open in the browser, could open in another PDF reader, or could display an error message in the browser.
-    - PDF forms are difficult for screen reader users (those who are blind or have poor vision) to navigate
+    - The above-mentioned attribute works only if the form is hosted on the same domain as the web page containing the link.  Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file may open in the browser, another PDF reader, or may display an error message in the browser.
+    - PDF forms are difficult for screen reader users (those who are blind or have low vision) to navigate
     - Instructions that include several steps -- download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open -- may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
 * What don't we know?
     - We have no way of knowing if a user has Adobe Acrobat Reader installed, or if it is set as their default PDF reader.
-    - We don't know how many users are actually able to successfully complete and send in a PDF form after having clicked a PDF link.
+    - We don't know how many users actually succeed in completing and sending in a PDF form after having clicked a PDF link.
     - We don't know how many users are willing or able to follow instructions on downloading the PDF (and Adobe Acrobat Reader if they don't already have it)
 * Are any of the above assumptions that need to be verified?
      - Yes
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
      - We plan to conduct a research study with users wherein they will be asked to download specific PDF forms selected due to their varying behavior in different browsers.
-     - We will also explore the possibility of analytics that may be able to distinguish those who clicked a PDF link from those who actually saved it.
+     - We will also explore the possibility of using analytics to distinguish between those who **clicked** a PDF link from those who actually **saved** it to their device.
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
-*    - All users should benefit in some way from improved ease-of-use, but it should be particularly beneficial to those who:
-        - Do not use the Internet or have familiarity with PDFs
-        - Have never downloaded a helper application like Adobe Acrobat Reader
+    - All users should benefit in some way from improved ease-of-use, but it should be particularly beneficial to those who:
+        - Do not use the Internet often, or have limited or no familiarity with PDFs
+        - Have never downloaded and installed a helper application like Adobe Acrobat Reader
+        - Only have access to a work or public computer that does not allow them to download files or install Adobe Acrobat Reader
         - Have difficulty locating a file they have downloaded to their local device or computer
-        - Use a work or public computer that does not allow them to download files or install Adobe Acrobat Reader
         - Use a screen reader due to low vision or blindness
         - Have suffered a traumatic brain injury or have other mental health conditions affecting their congnitive abilities
 * Who do we needs to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
@@ -130,6 +130,7 @@ An e-Signature solution should provide the following benefits:
     - VA personnel who key in paper forms that have been emailed, mailed, or faxed in
     - VA personnel who make decisions based on the information provided in forms
     - People who manage the database(s) where the form contents are ultimately stored
+    - Veterans so that we can observe their experience with using PDF forms
 * What secondary research should we do (google, facebook, internal documents)?
 * Are there any intentional project constraints (things we're intentionally deeming out of scope)?
 * Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
