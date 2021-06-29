@@ -4,9 +4,12 @@
 - [ ] Intros
 
 ## About the Stakeholder
-- Name: Tim Hippen
-- Title: Chief, Voluntary Service and Outreach Coordinator - (Acting Public Affairs Officer)
-- Location (region/system): Region 5 / VISN 23 / VA Central Iowa health care
+- Name: 
+> Tim Hippen
+- Title: 
+> Chief, Voluntary Service and Outreach Coordinator - (Acting Public Affairs Officer)
+- Location (region/system): 
+>Region 5 / VISN 23 / VA Central Iowa health care
 
 
 ## About Mobile Clinics
