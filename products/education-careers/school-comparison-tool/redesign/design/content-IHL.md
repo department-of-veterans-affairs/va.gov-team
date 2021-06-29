@@ -89,7 +89,7 @@ Effective January 1, 2018, the Post-9/11 GI Bill monthly housing allowance rate 
 { end modal content}
 
 
-### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
+#### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
 
 {Learn more modal content }
 
@@ -271,21 +271,21 @@ Are you receiving any scholarships or grants that go directly to pay tution/fees
 
 ### Your estimated benefits
 
-*GI Bill pages to school: $NNNN / yr
+**GI Bill pages to school: $NNNN / yr
 
 Tuition and fees charged: $NNNN  
 
-*Out of pocket tuition: $NNN
+**Out of pocket tuition: $NNN
 
-*Housing allowance: $NNNN / mo
+**Housing allowance: $NNNN / mo
 
-*Book stipend: $NNNN / year
+**Book stipend: $NNNN / year
 
-*Total paid to you: $NNNN
+**Total paid to you: $NNNN
 
 ### Estimated benefits per term
 
-*Tuition and fees ([Learn more]
+**Tuition and fees ([Learn more])
 
 { display tuition & fees by relevant benefit & term with "Total per year" calculation at the bottom }
 
@@ -298,7 +298,7 @@ Learn more about the tuition and fees displayed in the GI Bill Comparison Tool
 
 { end modal }
 
-*Housing allowance ([Learn more]
+**Housing allowance ([Learn more])
 
 
 { display housing allowance by relevant benefit & term with "Total per year" calculation at the bottom }
@@ -314,7 +314,7 @@ Under the GI Bill you’re eligible to receive a monthly housing allowance. We c
 
 { end modal }
 
-*Book stipend ([Learn more]
+**Book stipend ([Learn more])
 
 { Learn more modal }
 
@@ -389,7 +389,7 @@ To learn more about this scholarship, [visit the Rogers STEM Scholarship website
 * [Find out if you're eligible for VA education benefits]()
 * Gather the documents and information listed below that you'll need to apply for education benefits
 
-*Note:* To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application
+**Note:** To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application.
 
 [Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
 [Find out how to apply for educational and career counseling (Chapter 36)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
@@ -403,7 +403,7 @@ To learn more about this scholarship, [visit the Rogers STEM Scholarship website
 ### A decision with consequences
 
 Your decision to apply for a certain educational benefit could impact your eligibility for other benefits. Here are a few factors to keep in mind: 
-* If you're eligible for more than one education benefit, such as the Post-9/11 GI Bill and the Montgomery GI Bill, you must choose which benefit to receive, *a decision that's final and cannot be changed.*
+* If you're eligible for more than one education benefit, such as the Post-9/11 GI Bill and the Montgomery GI Bill, you must choose which benefit to receive, **a decision that's final and cannot be changed.**
 * If you're eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you did not give up. 
 
 Apply for education benefits { Action link! }
@@ -608,6 +608,9 @@ CareerScope(R) take career and educational planning to a new level. The proven c
 
 
 ## Veterans programs and support 
+
+### Veteran Programs
+
 * 8 Keys to Veteran Success ([Learn more]())
 
 { learn more modal content }
