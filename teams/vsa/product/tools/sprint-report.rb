@@ -8,8 +8,13 @@ require 'JSON'
 
 file = File.open("sprint-report.html", "w")
 
-puts "Are you looking for \"planned-work\" or \"unplanned-work\"?"
-puts "Note: your issues need to be labeled accordingly in GitHub."
+puts "Are you looking for issues with specific labels—"
+puts "e.g. planned-work or unplanned-work?"
+puts ""
+puts "Simply comma-separate the labels you're looking for—"
+puts "e.g. planned-work,vsa (without spaces)."
+puts ""
+puts "If you want all sprint tickets, hit Return/Enter without specifying any labels."
 label = gets.chomp
 puts "******************"
 puts "What's the 3-digit ID of the milestone/sprint you need issues from?" 
