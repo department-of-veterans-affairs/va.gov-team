@@ -378,7 +378,13 @@ To learn more about this scholarship, [visit the Rogers STEM Scholarship website
 
 ### Veteran Rapid Retraining Assistance Program (VRRAP)  ([Learn more]()): {Options: Yes | No }
 
-{ Learn more modal - content to come }
+{ Learn more modal }
+
+#### Veteran Rapid Retraining Assistance Program (VRRAP)
+
+The Veteran Rapid Retraining Assistance Program (VRRAP) offers education and training for high-demand jobs to Veterans who are unemployed because of the COVID-19 pandemic.
+
+To learn more about this benefit and see eligibility requirements, [visit the VRRAP page](https://www.va.gov/education/other-va-education-benefits/veteran-rapid-retraining-assistance/).
 
 { end modal }
 
