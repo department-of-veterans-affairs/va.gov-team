@@ -8,16 +8,16 @@
 Orlando PAO directs us to Emergency Manager
 
 - Name/Title: 
-> Reginald Kornegay 
-> Emergency Manager
+>- Reginald Kornegay 
+>- Emergency Manager
 
 - Name/Title:
-> John T Cinco
-> Physician - Service Chief
+>- John T Cinco, MD
+>- Physician - Service Chief
 
 - Name/Title:
-> Gregory Donohue
-> Emergency Mgmt Spec 
+>- Gregory Donohue
+>- Emergency Mgmt Spec 
 
 
 - Location (region/system): 
