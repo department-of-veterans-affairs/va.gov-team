@@ -105,7 +105,9 @@ Orlando PAO directs us to Emergency Manager
 >
 - Who is involved?  
 >
-- What tools are used to accomplish this?
+- What tools are used to accomplish this? 
+>
+- Do you use Facebook? Who manages these type of updates? 
 >
 - How far in advance are schedules created?
 >
