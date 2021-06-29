@@ -44,10 +44,15 @@ Before we start, I want to go over a few things:
 
 ## Warm-up Questions - 5 minutes
 
-Let’s start with a few questions...TBD
+Let’s start with a few questions...
+- Where do you typically go to get information and benefits from the VA?
+
+(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
+
+- *If they mentioned VA.gov*, ASK: When was the last time that you remember going to the VA.gov website?
 
 ## Screen sharing
-- I would like you to share your screen with me so I can watch you try something in a web browser. 
+- I would like you to share your screen with me so I can watch you using a prototype that I'm going to share. 
 - What kind of device are you using today? *(Phone / Computer)*
 
 ## Screen sharing instructions (if needed)
@@ -62,17 +67,15 @@ Let’s start with a few questions...TBD
 
 
 ## Veteran Tasks
-I would like you to try using a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some areas of the screen will be clickable, and some will not. Before you click anywhere, I would like you to tell me what you plan to do, and then I'll tell you when it's OK to click.
+I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some areas of the screen will be clickable, and some will not. Before you click anywhere, I would like you to tell me what you plan to do, and then I'll tell you when it's OK to click.
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-INTRO WHAT THEY'LL BE DOING 
-
 ### Task 1: [summary] - X minutes
-I would like you to get form 10-2850c.
+Let's say that you want to apply for disability compensation, and Suppose that you want someone to help you  at the VA asked you to submit a note from someone to help support your request for 
 
 *RECORD search query typed:*
-Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you did--"XYZ".
+Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you typed--"XYZ".
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
