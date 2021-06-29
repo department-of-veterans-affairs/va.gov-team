@@ -142,7 +142,7 @@ Our prototype didn't include a text message option for COVID-19 updates or appoi
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notification-settings-your-health-read-edit.png)
 
-Six participants expected to notifications to be available by both text *and* email. Many didn't understand why they couldn't get a text message if their mobile number was on file, and didn't have a confident guess as to why that might be.
+Six participants expected notifications to be available by both text *and* email. Many didn't understand why they couldn't get a text message if their mobile number was on file, and didn't have a confident guess as to why that might be.
 
 > *Moderator explains some notifications were only text and some only email* "That was not clear to me. I don't like that. If you are going to give me the option, give me the option - don't limit my options. " - P3
 
