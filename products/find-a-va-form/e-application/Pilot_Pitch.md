@@ -29,6 +29,9 @@ https://www.meritalk.com/articles/president-trump-signs-21st-century-idea-act-in
 Electronic signatures in the coronavirus (COVID-19) era
 https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
+Docusign Overview of 21st Century IDEA Act & Readiness info
+https://www.docusign.com/21st-century-idea-act
+
 **Benefits of e-Signature solution
 
 An e-Signature solution should provide the following benefits:
