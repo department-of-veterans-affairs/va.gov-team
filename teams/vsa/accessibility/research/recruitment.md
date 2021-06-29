@@ -63,6 +63,7 @@ If relevant to your study, your sample may also aim to include:
 - Family members of Veterans
 - Veteran service officers (VSOs)
 - Veterans living abroad
+- Veterans with other than honorable discharge
 
 Veterans will likely fit multiple requirements. [Use our MVS spreadsheet to check if you're meeting the numbers above](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing).
 
