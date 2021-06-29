@@ -60,7 +60,9 @@ If time and budget allows, we recommend testing with Veterans who use the follow
 
 If relevant to your study, your sample may also aim to include:
 - Non English speakers
-- Family members of Veterans
+- Immigrant family
+- LGBTQ 
+- Family members and caregivers
 - Veteran service officers (VSOs)
 - Veterans living abroad
 - Veterans with other than honorable discharge
