@@ -36,7 +36,7 @@ Orlando PAO directs us to Emergency Manager
 
 - You mentioned how your MMUs are aligned under Emergency Management and not outreach programs, like those with VBA. Can you explain the difference and how that distiction comes to be?
 >
-- Is the management of mobile clinics shared with others?
+- Is the management of mobile clinics shared with others?  [Emergency Management, Telehealth, Rural Health]
 >
 
 - How does the office of Rural Health fit into the picture and when mobile clinics fall under that domain?
