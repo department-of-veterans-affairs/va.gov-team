@@ -52,10 +52,11 @@ With regards to managing mobile clinic operations, how does decision-making work
 
 
 ## Webpage discussion
-Do you use any online tools for communicating mobile clinic services, schedules or events?
+- Do you use any online tools for communicating mobile clinic services, schedules or events?
 
 > post cards
-> [from email response:] Web Page is nice, did not know we had one.  We can list our scheduled events on it.
+> [from email response:] 
+> Web Page is nice, did not know we had one.  We can list our scheduled events on it.
 
 -Follow-up via email, 'Do you use Facebook':
 > [from email response:] 
