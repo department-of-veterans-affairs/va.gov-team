@@ -40,9 +40,12 @@ An e-Signature solution should provide the following benefits:
 - Can automatically add up loan amounts and use of funds amounts to take the burden off the applicant
 - Allows user to save and return later to complete process
 - Is Secure, encrypted in transit and in rest
+- Is accessible to those using screen readers
+- Requires no special plug-in or helper application
 - Success metrics would include:
   - Evidence of user preference over standard digital download and email/fax
   - Reduced "error rate" in submitted documents
+  - Reduction in labor costs associated with manually keying in form data
   - Faster speed to outcomes
 
 
@@ -56,7 +59,8 @@ An e-Signature solution should provide the following benefits:
 * Engineer: Zach Morel
 * Designer: Cassandra Allen
 * Researcher: Cindy Merrill
-* Other people from the Sprint Team: 
+* Accessibility: Josh Kim, Angela Fowler
+* Other people from the Sprint Team:
 * SME: Janel Keyes
 
 ### Stakeholders
@@ -65,13 +69,13 @@ An e-Signature solution should provide the following benefits:
 
 
 ## DISCOVERY PLANNING
-_To be filled out by Discovery Sprint Team._
-
 
 ### Project Details
 
 * What do we know?
-  - The VA has been incorporating digital signature into forms for several years and plans to continue to do so.
+ - There are currently over 400 forms available on Find a VA Form, and only about 40 that have a web-based fillable form option
+ - It would be extremely time consuming and labor intenstive to manually build an HTML-based web form for all of the remaining forms
+ - The VA has been incorporating digital signature into forms for several years and plans to continue to do so.
   - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
       - Chrome on Windows: 36.97%
       - Edge on Windows: 26.31%
