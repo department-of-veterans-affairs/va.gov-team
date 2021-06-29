@@ -5,9 +5,9 @@
 
 The Help Desk should operate according to a Service Level Agreement (SLA) which lays out the terms and conditions of Help Desk support efforts.
 
-Under the SLA, "business hours" are from 8am to 8pm EST, and during these hours the Help Desk team commits to:
+Under the SLA, "business hours" are from 9am to 5pm EST, and during these hours the Help Desk team commits to:
 
-   * respond with a First Response to support requests within a set period of time (<30 minutes for all Priority 1 or 2 Tickets); 
+   * respond with a First Response to support requests within a set period of time (<90 minutes for all Priority 1 or 2 Tickets); 
    * resolve tickets within a set period of time:
    * Within 24 business hours or 2 business days for any Priority 1 Ticket;
    * Within 4 weeks for Priority 2 Tickets with consideration that work will need to be planned within "Sprints"; 
@@ -24,7 +24,7 @@ This is the highest priority, indicative of a critical defect or issue preventin
 
 The scope of P2 Tickets include issues like How-to use various features of the CMS or User Administration.
 
-A First response is required within 30 minutes of the request being made however unlike P1, P2 requests are expected to be resolved within 4 weeks.
+A First response is required within 90 minutes of the request being made however unlike P1, P2 requests are expected to be resolved within 4 weeks.
 
 ## Priority 3
 
@@ -32,7 +32,7 @@ P3 requests are reserved for issues that involve adding or altering a feature to
 
 # Help Desk Service Hours
 
-Per the contract, the Help Desk will be staffed from 0800 to 2000 EST (0500 to 1700 PST) Monday through Friday.
+Per the contract, the Help Desk will be staffed from 9:00 am to 5:00 pm EST Monday through Friday.
 
 # Tracking Performance
 
