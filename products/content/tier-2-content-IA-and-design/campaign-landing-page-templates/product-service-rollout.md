@@ -84,7 +84,7 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
     - Monitor CLP performance (via Google Analytics)
     - Request “take down” of page when campaign ends, specifying the redirect strategy and/or URL
 
-- VACO Digital Comms Teams - CLP Training requirements: 
+- VACO Web Comms Teams - CLP Training requirements: 
   - How to use CMS
   - How to use the Campaign Page builder, with special focus on how to add/edit photos, add videos, add PDFs.
   - Content - VA.gov style/tone and plain English 
