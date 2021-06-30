@@ -69,10 +69,10 @@ CMS account upgrades for MVP and District 5 Vet Center users with published cont
  * Go to /admin/people, search by username or Section
  * Edit roles, remove Content Editor and add Content Publisher for Outreach Specialists
  * Update Directors role when they self-report completion of training. 
- * Jane will provide an idea of how long Vet Center training takes.
+ * Jane will provide an idea of how long Vet Center training takes. 62 minutes (generous estimate), VA network required, login not required to view, login required to try activities in training
 
 Overall workflow about review
- * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
+ * Current state: Folks in the field open Jira issue, help desk pings Michelle/Dave in #facilities-support channel
  * Future: Discuss July 6
 
 
