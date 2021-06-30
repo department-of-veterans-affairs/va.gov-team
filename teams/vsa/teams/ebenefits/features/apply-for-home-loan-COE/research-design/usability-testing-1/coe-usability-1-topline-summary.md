@@ -78,7 +78,7 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
  - One user said having to upload a DD214 would cause them to abandon the form
 
 ### Participants had varying ideas of where they'd find their COE if they returned to VA.gov
-- Three participants said they go to the benefits records page `Confirm`
+- Three participants said they go to the benefits records page 
 - One user expected a COE would be available in their logged-in profile 
 
 ## Summary
