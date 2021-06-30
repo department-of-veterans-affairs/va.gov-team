@@ -78,7 +78,9 @@ Findings are organized around 3 common themes we identified in our analysis:
 
 **Findings on value:**
 
-​	
+1. Most participants saw value in being able to save facilities to refine scheduling options, send secure messages to their provider, or for travel purposes.
+2. Some participants explained it would be better if the process required less work for the Veteran.
+3. Seeing recently visited facilities was useful for recognizing the facilities, not for speeding up the scheduling process.
 
 ## Participant expectations and preferences when choosing care at a VA facility
 
