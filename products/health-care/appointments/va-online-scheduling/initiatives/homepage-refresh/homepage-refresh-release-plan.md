@@ -31,12 +31,16 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Percentage of Users (and roughly how many users do you expect this to be): 5% (~430 users), 10% (~850 users)
 
 #### Results:
-- Date and time: 6/30/21, 815am PT
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
+- 5%
+- Date and time: 6/30/21, 815am PT - 230pm PT
+- Number of unique users: 48 at minimum
+- Metrics at this stage (per your "success criteria"):  Total errors ~270, but confirmed it was not due to this initiative
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- Types of errors logged:
+- 
+![Screen Shot 2021-06-30 at 2 54 05 PM](https://user-images.githubusercontent.com/72046525/124036624-251d9080-d9b3-11eb-8e74-65703ae0a218.jpg)
+
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? None
 
 ### Stage B: moderate 1
 
@@ -46,6 +50,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Percentage of Users (and roughly how many users do you expect this to be): 20% (~1.7k users)
 
 #### Results:
+- 10%
+- Date and time: 6/30/21, 230pm PT
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
