@@ -1,2 +1,14 @@
 # Background
-Now that we have done initial research into the pain points surrounding communication between VSA and VSP we have developed a few potential solutions to address the pain points. This document details the potential solutions.
+Now that we have done initial research into the pain points surrounding communication between VSA and VSP we have developed a few potential solutions to address the pain points. This document details the potential solutions. Each solution will begin with the initial pain point, then the insight that was provided by our research will be provided, then the potential solution will be detailed.
+
+## Lack of a clear problem statement
+
+> There is not enough communication before a large initiative is undertaken where VSP defines a clear problem statement then involves VSA in the selection of a 
+>solution. This leads to solutions that solve a symptom of a problem, not the root problem itself. A perfect example of this is the expirimental design system, > which solves a symptom of a problem but not the root problem.`
+
+**Pain points**
+- "VSP always seem to choose a nuclear option without explanation of what the problem they are trying to solve or why they chose this particular solution"
+- 
+
+
+Insight - 
