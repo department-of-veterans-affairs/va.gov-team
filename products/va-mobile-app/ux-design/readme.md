@@ -2,7 +2,7 @@
 
 This folder is where UX assets for mobile app live or are linked to.
 
-*Last updated: June 29, 2021*
+*Last updated: June 30, 2021*
 
 ## MVP assets
 | Asset      | Description |
