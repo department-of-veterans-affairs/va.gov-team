@@ -4,17 +4,17 @@
 
 # Inclusive Research Guidelines
 
-Inclusive research, in simple terms, is research that aims to include marginalized groups (underserved communities like minorities, people with disabilities, etc) through methods that allow them to play an active and influential role in decisions which affect their own lives.
+Inclusive research, in simple terms, is research that aims to include underserved communities (minorities, people with disabilities, etc) through methods that allow them to play an active and influential role in decisions which affect their own lives.
 
 By stewarding inclusive research at the VA, we can:
 - Design human centered products that all Veterans can easily use.
 - Improve the validity of research findings by ensuring our participant samples are representative of the Veteran population.
-- Uncover and remedy the exclusion of marginalized Veteran groups who may have the greatest need for benefits.
-- Create more awareness and conversation around marginalized Veteran populations across all VA.gov teams.
+- Uncover and remedy the exclusion of underserved Veteran communities who may have the greatest need for benefits.
+- Create more awareness and conversation around underserved Veteran communities across all VA.gov teams.
 
 ## Introduction (WIP)
 - Setting inclusive goals
-- Marginalized Veteran groups
+- Underserved Veteran communities
 - Roadmap for new guidelines
 
 ## Documents Tools and Methods (WIP)
