@@ -86,9 +86,10 @@ An e-Signature solution should provide the following benefits:
    - There are currently over 400 PDF forms available on Find a VA Form, and roughly 40 with a web-based alternative
    - It would be extremely time consuming and labor intenstive to build web-based interfaces for every form
    - Several of the current web-based alternatives ultimately insert user-entered data into a PDF form in the background
-   - The VA has been incorporating digital signature into forms for several years and plans to continue doing so
-   - - According to Adobe, PDF forms that utilize **dynamic XFA** are incompatable with modern web browsers
-   - The addition of dynamic XFA to an existing VA form can cause web-based form-filling applications to unexpectedly stop functioning.  As a workaround, some teams have opted to create their own "flattened" copy of the PDF form stored outside the VA database, which introduces the potential for forms getting out of sync.
+   - The VA has been incorporating digital signature into forms for several years and more recently has been utilizing dynamic XFA-based digital signature fields as a result of updating to Adobe's current PDF creation tool.  
+   - The VA plans to continue incorporating digital signatures into forms.
+   - According to Adobe, PDF forms that utilize dynamic XFA are incompatable with modern web browsers.  Further research indicates this incompatibility occurred because XFA is  was dropped from the ISO's PDF 2.0 standardard in 2017.
+   - The addition of dynamic XFA to an existing VA form can cause web-based form-filling applications to unexpectedly stop functioning.  As a workaround, some teams supporting the VA have opted to create a "flattened" copy of the PDF form stored outside the VA database.  Having multiple copies of the same form introduces the risk for out-of-sync versions of forms.
     - As of June 2021, users who downloaded PDF forms from Find a VA Form used the following browsers and operating systems:
         - Chrome on Windows: 36.97%
         - Edge on Windows: 26.31%
@@ -99,7 +100,6 @@ An e-Signature solution should provide the following benefits:
         - Chrome on Macintosh: 3.04%
         - Chrome on Chrome OS: 1.53%
         - Chrome on iOS: 0.74% 
-    - Digital signature fields in some VA forms are already using dynamic XFA
     - The behavior of dynamic XFA forms varies depending on the browser and user's system settings and the manner in which the PDF is downloaded and opened.  The form may display a "Please wait" error message, or it may open in the browser, and unbeknownst to the user, fail to render the digital signature fields or other dynamic XFA fields.
     - The only reliable way to complete forms containing dynamic XFA is to save them locally and complete them in Adobe Acrobat Reader.
     - There is an attribute currently used on Find a VA Form that will instruct the web browser to **download** a PDF form rather than attempt to open it within the browser window.
