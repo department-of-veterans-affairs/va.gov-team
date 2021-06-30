@@ -12,3 +12,7 @@ This folder is where UX assets for mobile app live or are linked to.
 | MVP Mobile App UI Styles (Google Doc) | We kept track of UI specs for common components in a Google doc.      |
 | [MVP prototype (deprecated)](https://adhoc.invisionapp.com/console/share/GTZ1ESFF6BN/600511542) | This prototype is a good representation of most MVP features (minus Secure Messaging), but is not up to date or being maintained as of Winter 2021. | 
 
+## Other things in this folder:
+- [Perspective on MVP auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/mvp-auth-pov.md)
+- [Perspective on webviews in the MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/mvp-webviews-pov.md)
+
