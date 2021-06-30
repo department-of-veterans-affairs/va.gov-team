@@ -39,7 +39,7 @@ Docusign Agreeable Government Mandate whitepaper
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
 
-**Benefits of e-Signature solution
+**Benefits of e-Signature solution**
 
 An e-Signature solution should provide the following benefits:
 
