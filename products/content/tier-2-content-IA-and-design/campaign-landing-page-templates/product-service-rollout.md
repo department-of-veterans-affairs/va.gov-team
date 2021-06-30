@@ -67,7 +67,7 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 
 **Governance Model (Draft-WIP):**
 - Edit and Publish access will go wider --  with the following guardrails in place:
-  - The VACO digital comms teams/leads will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means, the leads on those teams:
+  - The VACO Web Communications (Web Comms) teams/leads **OR the Web Governance Board led by OPIA (Gary Hicks)** will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means, the leads on those teams:
     - Decide what is a CLP – including assessing requests from Offices, Leadership, etc.  Criteria include:
       - Is this a campaign or a blog post? 
       - Is the content duplicative? 
