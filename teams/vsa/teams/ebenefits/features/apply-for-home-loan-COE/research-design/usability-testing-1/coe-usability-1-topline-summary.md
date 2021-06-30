@@ -49,7 +49,7 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - Users seems to gravitate toward the "Download your benefit letters" link
 - One user utilized search, one used mega menu
 - Two users found the COE landing page
-- Two (?) participants saw COE links at the bottom of the letters screen
+- Two participants saw COE links at the bottom of the letters screen
 - It seems participants mentally connected a COE--which is a benefit document--with other benefits documents and expected they would be together on VA.gov
 
 ### On the COE intro screen, the sign-in widget generally distracted users from reviewing intro screen content.
@@ -78,8 +78,8 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
  - One user said having to upload a DD214 would cause them to abandon the form
 
 ### Participants had varying ideas of where they'd find their COE if they returned to VA.gov
-- A couple of participants said they go to the benefits records page `Confirm`
-- One user expected a COE would be available in their logged-in profile `Confirm`
+- Three participants said they go to the benefits records page `Confirm`
+- One user expected a COE would be available in their logged-in profile 
 
 ## Summary
 The independent COE screen and the form itself seemed to function well for participants--but the connection between the two needs better established for users. Some content refinements and clarification would help on the intro screen and within the form. Users seem to expect VA-issued documents to be together on a "My documents" kind of screen; the existing "Benefits letters" page seem a natural home for a COE. The size and position of the sing-in widget obsured intro page content; only one user scrolled below it to see the subway map.
