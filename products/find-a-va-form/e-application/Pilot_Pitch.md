@@ -83,7 +83,7 @@ An e-Signature solution should provide the following benefits:
 ### Project Details
 
 * What do we know?
-   - There are currently over 400 PDF forms available on Find a VA Form, and only about 40 with a web-based alternative
+   - There are currently over 400 PDF forms available on Find a VA Form, and roughly 40 with a web-based alternative
    - It would be extremely time consuming and labor intenstive to build web-based interfaces for every form
    - Several of the current web-based alternatives ultimately insert user-entered data into a PDF form in the background
    - The VA has been incorporating digital signature into forms for several years and plans to continue doing so
@@ -108,8 +108,9 @@ An e-Signature solution should provide the following benefits:
     - Instructions that include several steps -- download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open -- may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
 * What don't we know?
     - We have no way of knowing if a user has Adobe Acrobat Reader installed, or if it is set as their default PDF reader.
-    - We don't know how many users actually succeed in completing and sending in a PDF form after having clicked a PDF link.
-    - We don't know how many users are willing or able to follow instructions on downloading the PDF (and Adobe Acrobat Reader if they don't already have it)
+    - We don't know how many users actually succeed in completing and sending in a PDF form after having clicked a PDF link or downloaded a PDF
+    - We cannot distinguish between users who downloaded and opened a PDF in their browser vs. those who downloaded and saved it locally.
+    - We don't know how many users are willing or able to follow multi-step instructions for downloading a PDF (and Adobe Acrobat Reader if they don't already have it)
 * Are any of the above assumptions that need to be verified?
      - Yes
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
