@@ -56,7 +56,7 @@ The following IA and governance guidelines were established as part of this phas
 - The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
 - The URL is set dynamically via the H1 (with hyphens)
 - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages
-- CLPs will be temporary -- they will have a start and end date, and they will be removed from the VA.gov site with a redirect established to support the "expiration" of the page.
+- CLPs will be temporary -- they will have a start and end date, and they will be removed from the VA.gov site with a redirect specified by the VA business stakeholder  to support the "expiration" of the page.
 
 
 ## Post-MVP Production Release Phase (June-Forward 2021)
@@ -91,6 +91,9 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
   - Accessibility 
   - Design/UX - Adherence to VA.gov design principles
   - Information Architecture, with focus on URL (including H1 and Vanity) setting
+  - Will be provided with two "artifacts"
+    - Campaign Landing Page Info Form - This is the info CLP stakeholders will use to (a) compile upfront about the campaign/page and; (b) is helpful in determing if the initiative is a good fit for CLP.
+    - Campaign Landing Page Content Build Template - This Word doc can be used to pre-create a CLP before you use the CMS to build the page.
 
 ### Relevant Documents
 
