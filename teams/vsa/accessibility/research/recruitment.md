@@ -44,7 +44,7 @@ Should you use MVS, try to meet the following numbers (based on VA statistics) i
 - [25% without a degree](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
 - [10% women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 
-If feasible, we also recommend recruiting at least one participant from the following marginalized populations:
+If feasible, we also recommend recruiting at least one participant from the following underserved communities:
 - Native American Veterans, [who have the highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women).
 - Veterans in the LGTBQ+ community, given recent direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
 - Veterans with other than honorable discharge.
@@ -83,7 +83,7 @@ In most cases, you will be unable to achieve maximum variation in just one study
 
 A lean MVS strategy involves setting up multiple cohorts that isolate key variables. This will make it easier to find participants while still maintaining a diversity of age, gender, education, location, and more. 
 
-The MVS checker should be used to keep track of which marginalized groups have been included in research across several cohorts; and to help determine what variables future cohorts should have.
+The MVS checker should be used to keep track of which underserved communities have been included in research across several cohorts; and to help determine what variables future cohorts should have.
 
 ### Use lean MVS strategy when you’re:
 - Unable to recruit a high volume of participants. 
