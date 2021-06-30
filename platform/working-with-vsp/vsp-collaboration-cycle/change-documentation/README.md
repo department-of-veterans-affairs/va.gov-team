@@ -1,5 +1,9 @@
 ## Collaboration Cycle - Change Log
 
+
+### June 28, 2021 
+- **Design Intent, Midpoint Review, and Staging Review templates updated.** Templates have been updated to reflect that Staging Reviews can only be scheduled on Thursday during the 1:30pm and 2:00pm time slots. Design Intent and Midpoint Review templates have also been updated to reflect that these touchpoints can only be scheduled on Monday, Tuesday, or Friday.
+
 ### June 7, 2021
 - **Contact Center - Product Guide Best Practices has been updated.** The Product Guide Best Practices (aka [Self-Service Product Guide Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md)) has been updated to better equip Contact Centers to more swiftly help Veterans trying to complete tasks on VA.gov. For more information about this change, contact the Contact Center team via #vsp-contact-center-support on Slack.
 
