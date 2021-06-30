@@ -97,11 +97,11 @@ To release the CLP to VACO Digital Comms teams -- enabling the tool to be used a
 
 ### Stakeholder Meetings for Post-MVP Governance Model
 
-[X] VEO: Tim Hudek - Meeting held on 6/16
-[X] VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar, Jessica Ashley-Austin (VHADigitalMedia@va.gov) - Meeting held on 6/29
-[ ] VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
-[ ] OPIA & Web Governance Board: Kayla Williams, John Santos
-[ ] NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
+- [X] VEO: Tim Hudek - Meeting held on 6/16
+- [X] VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar, Jessica Ashley-Austin (VHADigitalMedia@va.gov) - Meeting held on 6/29
+- [ ] VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
+- [ ] OPIA & Web Governance Board: Kayla Williams, John Santos
+- [ ] NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
 ### Relevant Documents
 
