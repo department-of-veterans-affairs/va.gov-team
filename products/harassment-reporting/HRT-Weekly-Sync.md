@@ -34,5 +34,9 @@
   * DVSA Team will build landing page (Content help is needed will be long pole in plan)
 * Privacy and Security Updates - What's the latest (Update).
   * Measure Impact - How does this affect prototype? 
+* Technical Review - Backend connections / Sharepoint 
+  * How is the code affected by the new design?
+  * Setup a Technical deep dive (considerations)
+  * PR Code Review - Original Pull Request  
 * Next Steps - Collaboration Cycle Checkin  
   * Design Intent Review - Once draft designs are finalized 
