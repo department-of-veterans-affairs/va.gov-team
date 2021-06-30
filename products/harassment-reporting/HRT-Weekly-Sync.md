@@ -30,6 +30,7 @@
   * Clarity Requests: non-departmental anonymous state
   * Updates/Feedback: 
   * Needs/Requests: Content for definitions (SA, SH, HO) 
+  * Content needed for "Introduction Page" - Who will provide?
 * Review "What is in Scope for MVP"
   * DVSA Team will build landing page (Content help is needed will be long pole in plan)
 * Privacy and Security Updates - What's the latest (Update).
