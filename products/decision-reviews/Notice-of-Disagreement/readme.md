@@ -143,10 +143,10 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## OKRs and KPIs
 ## KPIs
 - Number of NOD submissions (input KPI)
-- 20% of claims completed online in first month with 5% MoM inclease
-- <15% abandon rate from start of form (is there a save in progress option? 
+- 20% of appeals completed online in first month with 5% MoM increase
+- <15% abandon rate from start of form 
 - Average time to complete the form
-- Where do Veterans abandon the form
+- Where do Veterans abandon the form 
 - Successful vs. Unsuccessful submissions
 
 
