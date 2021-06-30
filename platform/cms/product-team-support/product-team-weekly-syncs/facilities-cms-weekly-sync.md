@@ -23,6 +23,15 @@
 
 </details>
 
+## July 6
+
+* Review of Centralized content API and FE changes 
+
+Vet Center overall workflow about review
+ * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
+ * Future: Discuss July 6
+
+
 ## June 30
 
 ### FE related
@@ -39,18 +48,33 @@ Review help desk insights and VAMC / Vet Center known issues list.
 New issues based on Content review
 - [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725)
 - [Operating status: improvements to editorial experience #17727](https://github.com/department-of-veterans-affairs/vets-website/issues/17727)
+- 
 
 Leadership URL feature flag QA and rollout next week.
+ * Facilities to QA again with feature flag
+ * CMS will hopefully run the runbook from #5500 mid-week of July 5
 
 Vet Center 
 * "Nearby Mobile Vet Centers 
    - Facilities engineers need entity ID to add to Satellite Locations list [#26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
-   - CMS editorial experience
+     - Can get this entity ID from field_nearby_mobile_vet_center (query is there, but not used by the template).
+   - CMS editorial experience to better explain satellite 
+     - **CMS issue** to transfer [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725) to CMS backlog
+     - **CMS issue** to update label for Nearby Vet Center anbd other guidance potentially. 
+
 * Guidance and character counts for Featured content 
+  * **CMS issue** to add character count limit - 240 characters but don't count HTML. 
 
+CMS account upgrades for MVP and District 5 Vet Center users with published content, by Michelle/Dave
+ * Go to /admin/people, search by username or Section
+ * Edit roles, remove Content Editor and add Content Publisher for Outreach Specialists
+ * Update Directors role when they self-report completion of training. 
+ * Jane will provide an idea of how long Vet Center training takes.
 
+Overall workflow about review
+ * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
+ * Future: Discuss July 6
 
-Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
 
 
 
