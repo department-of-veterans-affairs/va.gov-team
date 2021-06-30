@@ -22,7 +22,7 @@
 | P08 | Friday, June 25, 1 - 2 p.m. | No show |   | Veteran | Male | White or Caucasian | 65 - 74 | Some college (no degree) | Navy | NY |
 | P09 | Friday, June 25, 3:30 - 4:30 p.m. | No show |   | Veteran | Female | Black or African American | 35 - 44 | Some college (no degree) | Army | SC |
 | [P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P10.md) | Monday, June 28, 10:30 - 11:30 a.m. | Attended | iPhone | Veteran | Female | Hispanic, Latino, or Spanish Origin | 35 - 44 | Master's degree | Navy | VA |
-| [P11]() | Monday, June 28, 12:30 - 1:30 p.m. | Attended | iPhone | Veteran | Female | White or Caucasian | 65 - 74 | Bachelor's degree | Air Force | Prefer not to answer |
+| [P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P11.md) | Monday, June 28, 12:30 - 1:30 p.m. | Attended | iPhone | Veteran | Female | White or Caucasian | 65 - 74 | Bachelor's degree | Air Force | Prefer not to answer |
 | [P12]() | Monday, June 28, 3:30 - 4:30 p.m. | Attended | Unknown | Veteran | Female | White or Caucasian | 55 - 64 | Master's degree | Army | MN |
 | P13 | Tuesday, June 29, 9:00 - 10:00 a.m. | No show |   | Veteran | Male | Black or African American | 45 - 54 | Some college (No degree) | Air Force | NC |
 | [P14]() | Tuesday, June 29, 1:00 - 2:00 p.m. |  |  | Veteran | Female | White or Caucasian | 35 - 44 | Bachelor's degree | Army | WV |
