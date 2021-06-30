@@ -22,3 +22,10 @@ To add an email follow these steps -
 | localhost | http://localhost:3000/flipper/features |
 
 Once you go to the URL you need you should see a list of the available feature toggles for that environment. Search for the feature toggle you need to add an email address for. Once you find it you should see that the name of the feature toggle is a link, this link will take you to the settings for that feature toggle on that anvironment. ** If the name of the feature toggle is not a link that means you are not logged into that environment with an approved account. Reference the section above on "Make sure you have the ability to add emails" **
+
+3. Once you go to the settings for the feature toggle you need to add an email on you will see a few areas where you can enable the feature toggle based on different criteria; namely enable it for everyone, enable it for a percentage of people, or enable it for specific "logged in users". The area for enabling the feature for specific "logged in users" is what you want, this is where you will add the email address for your participant.
+4. Type the email address for the participant into the text box for "logged in users" and click "enable user". That should be all you need to do, the user should now be added.
+
+
+
+
