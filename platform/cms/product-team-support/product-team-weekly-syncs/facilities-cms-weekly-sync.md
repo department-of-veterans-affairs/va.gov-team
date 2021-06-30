@@ -46,6 +46,9 @@ Vet Center
 
 Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
 
+Leadership URL feature flag QA and rollout next week.
+
+
 
 ## June 23 
 
