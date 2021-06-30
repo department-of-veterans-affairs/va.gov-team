@@ -112,7 +112,7 @@ Our prototype included 4 notification groups in alphabetical order:
 - General VA information and updates
 - Your health care
 
-All participants clearly understood the notification groups. Four participants stated that health care notifications were the most important them; 3 specifically said they would want to see the "Your health care" group first.  
+All participants clearly understood the notification groups. Four participants stated that health care notifications were the most important to them; 3 specifically said they would want to see the "Your health care" group first.  
 
 > "The health care [notification group], I think that should come up at the top." - P3
 
@@ -254,7 +254,11 @@ Multiple participants thought reminders for in-progess applications would be hel
 
 ### Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
 
-Having personal settings available under an authenticated/personalized menu is common on websites, but we should consider creating a separate settings section outside of profile so this is more intuitive for Veterans to find.  Many participants expected to find something about notifications in My VA; we should explore how we can better surface notifications there as well.
+Having personal settings available under an authenticated/personalized menu is common on websites, but we should explore how we can make it more intuitive for Veterans to manage their notification settings through VA.gov.  Some avenues to consider are:
+
+- Creating a separate settings section outside of profile.
+- Surfacing notifications in My VA; many participants expected to find something about notifications there.
+- Creating a static landing page to help Veterans that resort to using search when they can't easily find what they're looking for.
 
 Our research shows that Veterans don't regularly manage notifications, and when they do, they do it at the notification level. Let's make it as easy as possible for them to update settings at the notification level. For example, allowing them to opt out of a text message by sending `STOP`, or clicking a link at the bottom of an email to unsubscribe.
 
@@ -321,5 +325,4 @@ We gathered some valuable insights about the notifications that would be valuabl
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
 - [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
 - Synthesis: [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/session-notes) and [affinity map](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
-- Findings Decks: [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-research-sprint-demo-readout.pptx)
-
+- Findings Decks:  [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-research-sprint-demo-readout.pptx)
