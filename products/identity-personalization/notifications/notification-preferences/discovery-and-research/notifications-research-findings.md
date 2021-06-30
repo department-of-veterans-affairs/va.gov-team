@@ -242,7 +242,7 @@ Multiple participants thought reminders for in-progess applications would be hel
 
 ## Recommendations
 
-1. Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
+1. Make it easy for Veterans to manage notifications throughout their VA journey.
 2. Provide a way for Veterans to update their contact information without having to go to a new page.
 3. Consider making all notifications available by text and email.
 4. Revisit the design for status messages and surfacing the channels through which Veterans can receive notifications.
@@ -252,9 +252,9 @@ Multiple participants thought reminders for in-progess applications would be hel
 8. Move forward with moving remove functionality to the read mode of personal and contact information page.
 9. Consider adding notifications participants mentioned to future versions of our notification engine.
 
-### Make it easy for Veterans to manage notifications throughout their VA journey, not only in their profile.
+### Make it easy for Veterans to manage notifications throughout their VA journey.
 
-Having personal settings available under an authenticated/personalized menu is common on websites, but we should explore how we can make it more intuitive for Veterans to manage their notification settings through VA.gov.  Some avenues to consider are:
+With our current authenticated IA, profile seemed like the most logical place for notification settings; it's common on websites to nest this under a personalized navigation. However, our research shows that profile wasn't the first, or even second place most of our participants thought to look. We should explore how we can make it more intuitive for Veterans to manage their notification settings through VA.gov.  Some avenues to consider are:
 
 - Creating a separate settings section outside of profile.
 - Surfacing notifications in My VA; many participants expected to find something about notifications there.
@@ -270,11 +270,17 @@ Participants expected a pop-up on the notification page to edit contact informat
 
 We should provide a way for Veterans to update (add, edit, or remove) their contact information directly from the notification settings page.  We already have a modal solution in place that could be part of our MVP, depending on the timeline of our partners in this work.  
 
-### Consider making all notifications available by text and email.
+### Consider making all notifications available by text and email, and adding notifications participants mentioned to future releases.
 
-Participants expect to be able to get notifications by the channel that works best for them. We should make it easy for them to receive timely and relevant information by the channel of their choice.  
+Participants expect to be able to get notifications by the channel that works best for them, and shared valuable insights about notifications that would be useful. Teams that are sending notifications through VA Profile should consider:
 
-If we can't, we need to be more specific about which notification channels are available, and possibly offer some information about why some notifications have one channel and others have a different option.
+- Making notifications available by text and email
+- Adding notifications participants mentioned to the communication preferences engine (such as changes about education stipend payments, and claim status updates)
+- Updating notifications to include additional relevant information (such as the medication name when confirming prescription shipments)
+
+Additional research to build a more in-depth understanding around Veteran expectations and preferences for notifications would be useful to guide decisions in this area.
+
+If we can't make notifications available by all channels, we need to be more specific about which notification channels are available. We may also need to provide information about why some notifications have one channel and others have a different option.
 
 ### Revisit the design for status messages and surfacing the channels through which Veterans can receive notifications.
 
@@ -310,10 +316,6 @@ This was a major point of confusion for participants in our study. We already tr
 
 Adding a remove button next to edit on the personal and contact information page made it easy for participants to understand how to remove contact information.  No one got confused or mistakenly chose the wrong button. We should move forward with our plans to update this pattern in profile.
 
-### Consider adding notifications participants mentioned to future versions of our notification engine.
-
-We gathered some valuable insights about the notifications that would be valuable to Veterans. We should work closely with the relevant teams to determine the type of notifications we can create to offer these in future versions of notification settings.  It would also be worthwhile to conduct a dedicated research study to learn more about the notifications that would be most useful to Veterans.
-
 ## Next steps
 
 - Review findings with team to determine next steps
@@ -325,4 +327,6 @@ We gathered some valuable insights about the notifications that would be valuabl
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md)		
 - [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
 - Synthesis: [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/session-notes) and [affinity map](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
-- Findings Decks:  [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-research-sprint-demo-readout.pptx)
+- Presentations:
+  - [Complete findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-findings-readout.pdf)
+  - [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-findings-readout-sprint-demo.pdf) 
