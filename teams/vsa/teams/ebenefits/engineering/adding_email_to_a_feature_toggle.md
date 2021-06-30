@@ -18,3 +18,7 @@ To add an email follow these steps -
 |environment| feature toggle URL |
 |-----------|--------------------|
 | production | https://api.va.gov/flipper/features |
+| staging | https://staging-api.va.gov/flipper/features |
+| localhost | http://localhost:3000/flipper/features |
+
+Once you go to the URL you need you should see a list of the available feature toggles for that environment. Search for the feature toggle you need to add an email address for. Once you find it you should see that the name of the feature toggle is a link, this link will take you to the settings for that feature toggle on that anvironment. ** If the name of the feature toggle is not a link that means you are not logged into that environment with an approved account. Reference the section above on "Make sure you have the ability to add emails" **
