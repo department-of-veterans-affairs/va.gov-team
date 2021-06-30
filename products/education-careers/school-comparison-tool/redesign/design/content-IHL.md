@@ -625,6 +625,12 @@ CareerScope(R) take career and educational planning to a new level. The proven c
 
 ### Veteran programs
 
+{ If no Veteran programs display the following: } 
+
+Please contact the school or their military office directly for information on the Veteran programs they offer. 
+
+{ else, display relevant Veteran programs }
+
 { green checkmark if present } 8 Keys to Veteran Success ([Learn more]())
 
 { learn more modal content }
