@@ -104,7 +104,7 @@ An e-Signature solution should provide the following benefits:
     - The only reliable way to complete forms containing dynamic XFA is to save them locally and complete them in Adobe Acrobat Reader.
     - There is an attribute currently used on Find a VA Form that will instruct the web browser to **download** a PDF form rather than attempt to open it within the browser window.
     - The above-mentioned attribute works only if the form is hosted on the same domain as the web page containing the link.  Some PDF forms available on Find a VA Form are hosted on a VA subdomain (ex vba.va.gov), which prevents the use of the download attribute. In those cases, if the user does not have Adobe Acrobat Reader set as their default for opening PDF files, the file may open in the browser, another PDF reader, or may display an error message in the browser.
-    - PDF forms are difficult for screen reader users (those who are blind or have low vision) to navigate
+    - PDF forms present challenges to those who rely on screen reader technology including users who are blind or have low vision.
     - Instructions that include several steps -- download Adobe Acrobat Reader, download the the PDF form, locate the form it on the user's local device, and then open -- may confuse or overwhelm older users and those with mental health conditions, cognitive issues or tramautic brain injury.  
 * What don't we know?
     - We have no way of knowing if a user has Adobe Acrobat Reader installed, or if it is set as their default PDF reader.
