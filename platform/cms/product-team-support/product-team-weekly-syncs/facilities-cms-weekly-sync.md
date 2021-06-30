@@ -25,6 +25,8 @@
 
 ## June 30
 
+### FE related
+
 Review help desk insights and VAMC / Vet Center known issues list.
 - Prioritized in Facilities team sprint beginning 6/30:
   - [Vet Center phone numbers in service accordions #26688](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26688)
@@ -38,15 +40,18 @@ New issues based on Content review
 - [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725)
 - [Operating status: improvements to editorial experience #17727](https://github.com/department-of-veterans-affairs/vets-website/issues/17727)
 
+Leadership URL feature flag QA and rollout next week.
+
 Vet Center 
 * "Nearby Mobile Vet Centers 
    - Facilities engineers need entity ID to add to Satellite Locations list [#26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
    - CMS editorial experience
 * Guidance and character counts for Featured content 
 
+
+
 Should CMS account upgrades for Vet Center users be performed by bulk publishers? 
 
-Leadership URL feature flag QA and rollout next week.
 
 
 
