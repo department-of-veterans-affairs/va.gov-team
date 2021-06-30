@@ -31,6 +31,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Percentage of Users (and roughly how many users do you expect this to be): 5% (~430 users), 10% (~850 users)
 
 #### Results:
+- Date and time: 6/30/21, 815am PT
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
