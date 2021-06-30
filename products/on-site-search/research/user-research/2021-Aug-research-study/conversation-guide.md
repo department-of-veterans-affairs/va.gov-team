@@ -69,13 +69,32 @@ Let’s start with a few questions...
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some areas of the screen will be clickable, and some will not. Before you click anywhere, I would like you to tell me what you plan to do, and then I'll tell you when it's OK to click.
 
-I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+I will share the link to the prototype in the Zoom chat. *COPY LINK TO CHAT* Do you see the link? 
+- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls. 
 
-### Task 1: [summary] - X minutes
-Let's say that you want to apply for disability compensation, and Suppose that you want someone to help you  at the VA asked you to submit a note from someone to help support your request for 
+While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-*RECORD search query typed:*
+### Task 1: [Submit statement from someone to support your benefits request - Form 21-4138] - 5 minutes
+Have you ever submitted a note from someone to support your request for disability compensation? If so, how did you do this? If not, how might you do this?
+Can you look at the page in your web browser and tell me what you might do--but don't click/tap anywhere yet.
+
+- *RECORD where want to click/tap: Search in header / Can't find what looking for in "top 4" boxes / VA forms / Other________________________* 
+
+What would you expect to happen?
+
+Now go ahead and click/tap.
+
+Before you click/tap anywhere, what do you think you can do on this page? 
+
+Now you can go ahead with what you wanted to do.
+
+- *RECORD search query typed:*
+
 Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you typed--"XYZ".
+
+*If see search results, ASK:* What are your impressions of what you see?
+
+What would you do now?
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
