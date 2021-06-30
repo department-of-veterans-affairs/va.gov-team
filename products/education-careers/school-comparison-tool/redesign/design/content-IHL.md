@@ -623,9 +623,9 @@ CareerScope(R) take career and educational planning to a new level. The proven c
 
 ## Veterans programs and support 
 
-### Veteran Programs
+### Veteran programs
 
-* 8 Keys to Veteran Success ([Learn more]())
+{ green checkmark if present } 8 Keys to Veteran Success ([Learn more]())
 
 { learn more modal content }
 
@@ -639,7 +639,7 @@ To learn more about accreditation, visit the U.S. Department of Education’s [8
 
 { end modal }
 
-* Military Tuition Assistance (TA) ([Learn more]())
+{ green checkmark if present }  Military Tuition Assistance (TA) ([Learn more]())
 
 { learn more modal content }
 
@@ -649,7 +649,7 @@ Are you receiving any military tuition assistance this year? If so, how much? Th
 
 { end modal }
 
-* Principles of Excellence ([Learn more]())
+{ green checkmark if present }  Principles of Excellence ([Learn more]())
 
 { learn more modal content }
 
@@ -671,7 +671,7 @@ We try to make sure this information is accurate, but prospective students shoul
 
 { end modal }
 
-* Student Veteran Group ([Learn more]()): ([Visit the site]()) {dynamic display of Veteran group link}
+{ green checkmark if present } Student Veteran Group ([Learn more]()): ([Visit the site]()) {dynamic display of Veteran group link}
 
 { learn more modal content }
 
@@ -685,7 +685,7 @@ Please note this email address is only for Comparison Tool-related issues. For q
 
 { end modal }
 
-* VetSuccess on Campus ([Learn more]()): ([Email {Name of Contact}]()) 
+{ green checkmark if present }  VetSuccess on Campus ([Learn more]()): ([Email {Name of Contact}]()) 
 
 { learn more modal content }
 
