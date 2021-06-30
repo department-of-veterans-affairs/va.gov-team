@@ -37,10 +37,16 @@
 
 ## June 30
 
-* CLP governance 
+
+CLP
+* governance 
   * Updates
   * Scenarios for CMS
-* Github issues 
+* metatags 
+* CMS help center / knowledge base
+
+Redirects
+* Leadership URLs
 
 
 ## June 23 
@@ -53,7 +59,6 @@
   * More to come next week
 * Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
   * kev will Update thread with Randi, Danielle & Beth
-
 
 ## June 16, 2021
 
