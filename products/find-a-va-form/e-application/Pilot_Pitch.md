@@ -84,7 +84,7 @@ An e-Signature solution should provide the following benefits:
 
 * What do we know?
    - There are currently over 400 PDF forms available on Find a VA Form, and roughly 40 with a web-based alternative
-   - It would be extremely time consuming and labor intenstive to build web-based interfaces for every form
+   - It would be extremely time consuming and labor intensive to build web-based interfaces for every form
    - Several of the current web-based alternatives ultimately insert user-entered data into a PDF form in the background
    - The VA has been incorporating digital signature into forms for several years and more recently has been utilizing dynamic XFA-based digital signature fields as a result of updating to Adobe's current PDF creation tool.  
    - The VA plans to continue incorporating digital signatures into forms.
