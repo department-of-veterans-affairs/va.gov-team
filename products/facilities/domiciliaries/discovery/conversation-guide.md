@@ -36,7 +36,7 @@
      - Can Veterans self-refer?
      - Are walk-ins accepted?
 - **Required information**
-      - What would a Veteran need to know before coming to the facility?
-      - What information does a Veteran need to provide, or have with them, in order to stay there?
-      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
-      - Are there any specific eligibility requirements for this facility?
+     - What would a Veteran need to know before coming to the facility?
+     - What information does a Veteran need to provide, or have with them, in order to stay there?
+     - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
+     - Are there any specific eligibility requirements for this facility?
