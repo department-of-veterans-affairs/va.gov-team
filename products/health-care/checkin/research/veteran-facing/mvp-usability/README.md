@@ -26,5 +26,5 @@
 | [P12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P12.md) | Monday, June 28, 3:30 - 4:30 p.m. | Attended | Unknown | Veteran | Female | White or Caucasian | 55 - 64 | Master's degree | Army | MN |
 | P13 | Tuesday, June 29, 9:00 - 10:00 a.m. | No show |   | Veteran | Male | Black or African American | 45 - 54 | Some college (No degree) | Air Force | NC |
 | [P14](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P14.md) | Tuesday, June 29, 1:00 - 2:00 p.m. |  |  | Veteran | Female | White or Caucasian | 35 - 44 | Bachelor's degree | Army | WV |
-| [P15]() | Tuesday, June 29, 2:00 - 3:00 p.m. |  |  | Veteran | Female | Black or African American | 35 - 44 | Associate's degree/trade certificate/vocational training | Air Force | HI |
+| [P15](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/sessions-notes/P15.md) | Tuesday, June 29, 2:00 - 3:00 p.m. |  |  | Veteran | Female | Black or African American | 35 - 44 | Associate's degree/trade certificate/vocational training | Air Force | HI |
 ## 
