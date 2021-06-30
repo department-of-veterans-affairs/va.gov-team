@@ -89,7 +89,8 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **January 2021**: Backend integration begins; full definition of MVP outlined.
 - **February 2021**: Backend integration continues as we wait for API access from Terry; Team meets with Terry to discuss governance and group filtering.
 - **March 2021**: Design begins
-- **April 2021**: Initia design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
+- **April 2021**: Initial design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
+- **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
 
 ## Product Decisions
 
