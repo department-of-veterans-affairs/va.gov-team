@@ -22,12 +22,11 @@ VFS brings:
   - Product Manager (required)
   - OCTO-DE Design Lead (required)
   - OCTO-DE Product Lead (recommended)
-  - Content, IA, accessibility, and QA specialists (if applicable)
+  - Content, IA, and QA specialists (if applicable)
   - Other stakeholders you want to invite (if applicable)
 
 Platform brings (when applicable):
   - Design
-  - Accessibility
   - Information architecture
   - Product
   - Analytics
@@ -53,4 +52,3 @@ Platform reviewers will document their feedback, if applicable, in a GitHub tick
  -  Share relevant insights/flows/examples from other VA.gov work
  -  Identify your product as a candidate for experimental design
  -  Encourage early engagement with other teams this work might impact
- -  Escalate early accessibility concerns
