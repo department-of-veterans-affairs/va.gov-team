@@ -365,7 +365,7 @@ Rogers STEM Scholarship ([Learn more]()): {Options: Yes | No }
 
 { Learn more modal }
 
-### The Rogers STEM Scholarship
+### The Rogers STEM Scholarship { NOT MVP }
 
 The Edith Nourse Rogers STEM Scholarship provides up to 9 months of additional Post-9/11 GI Bill benefits, to a maximum of $30,000.
 
@@ -412,7 +412,7 @@ Your decision to apply for a certain educational benefit could impact your eligi
 * If you're eligible for more than one education benefit, such as the Post-9/11 GI Bill and the Montgomery GI Bill, you must choose which benefit to receive, **a decision that's final and cannot be changed.**
 * If you're eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you did not give up. 
 
-Apply for education benefits { Action link! }
+[Apply for education benefits](https://www.va.gov/education/how-to-apply/) { Action link! }
 
 
 ## Veteran ratings
@@ -619,7 +619,6 @@ CareerScope(R) take career and educational planning to a new level. The proven c
 
 [Get started with CareerScope](https://va.careerscope.net/gibill) { action link } 
 
-{ end learn more modal }
 
 
 ## Veterans programs and support 
