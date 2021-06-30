@@ -12,12 +12,12 @@ By stewarding inclusive research at the VA, we can:
 - Uncover and remedy the exclusion of marginalized Veteran groups who may have the greatest need for benefits.
 - Create more awareness and conversation around marginalized Veteran populations across all VA.gov teams.
 
-## Introduction
+## Introduction (WIP)
 - Setting inclusive goals
 - Marginalized Veteran groups
 - Roadmap for new guidelines
 
-## Documents Tools and Methods
+## Documents Tools and Methods (WIP)
 - Document and tools, current state and recommendations
 - Inclusive methods
 
@@ -29,25 +29,25 @@ By stewarding inclusive research at the VA, we can:
 - Critical Case Sampling
 - Key Informant Sampling
 
-## Trauma Informed Research
+## Trauma Informed Research (WIP)
 - Checklist to prepare for trauma informed research
 - Do's and Don'ts during facilitation
 
 ## Assistive Technology and Veterans with Disabilities Studies
 
 ### Preparing for assistive technology in research
-- Recruiting assistive technology users  
+- Recruiting assistive technology users (WIP)
 - [Research checklist and disability etiquette](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md)
 
 ### Device specific guidance
 - [Screen readers (mobile and desktop)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)
-- Magnification and zoom
-- Captions and transcriptions 
-- Hearing aids
-- Voice recognition
-- Braille readers
+- Magnification and zoom (WIP)
+- Captions and transcriptions (WIP)
+- Hearing aids (WIP)
+- Voice recognition (WIP)
+- Braille readers (WIP)
 
-## Communicating and Documenting Risk
+## Communicating and Documenting Risk (WIP)
 - Why document risk?
 - Tracking and reporting gaps in recruitment
 - Absence of assistive technology in usability testing
