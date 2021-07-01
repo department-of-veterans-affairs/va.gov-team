@@ -13,7 +13,7 @@ A few of the questions we would like to ask are:
 - Is there healthcare provided on site?
 - Is there a referral process?
 
-Are you available any day this or next week, from 10am - 11am eastern time, for an informal chat for us to learn more? My schedule is flexible, so if those hours don't work we can find some time that does.
+Are you available any day next week, from 10am - 11am eastern time, for an informal chat for us to learn more? My schedule is flexible, so if those hours don't work we can find some time that does.
 
 Thank you for your help!
 
