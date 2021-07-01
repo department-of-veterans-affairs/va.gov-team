@@ -3,6 +3,30 @@
 
 # Domiciliary SME Discovery - [location]
 
+#### Locations & Contacts
+
+- Philadelphia
+     - PAO contact(s):
+          - Rita Chappelle, Rita.Chappelle@va.gov, 215-823-5916
+          - Jonathan Hodges, Jonathan.Hodges@va.gov, 215-823-5916
+     - SME contact(s):
+          - [TBD]
+- Eastern Colorado (2 locations)
+     - PAO contact(s):
+          - [TBD]
+     - SME contact(s):
+          - [TBD]
+- Houston [which Houston?]
+     - PAO contact(s):
+          - Maureen Dyman, Maureen.Dyman@va.gov, 713-591-2427
+     - SME contact(s):
+          - [TBD]
+- Jackson, MS
+     - PAO contact(s):
+          - Susan Varcie, Susan.Varcie@va.gov, 601-368-4477
+     - SME contact(s):
+          - [TBD]
+
 ## Intro
 
 Hello, thank you for speaking with me today.
