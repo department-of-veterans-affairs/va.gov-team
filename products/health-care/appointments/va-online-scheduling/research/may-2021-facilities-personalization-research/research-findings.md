@@ -54,7 +54,7 @@ This study may not meet the needs of the following marginalized Veteran groups:
 - Transgender
 - Veterans Abroad
 
-<img src="https://lh5.googleusercontent.com/7ipHkc4OkIqWoN21VDimxAGMCJlGynxTK4Hvg9y6IOeEHuAzMMaw94iObvhT8_fIbQDPFLFmKfw33agCGbEl5oaU64vdpsYC8WvyD8rYEcJUAeMHOw7C3-iLSUcMVIxOBt-SWPeg" width="30%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-mvs-results.png" width="30%" />
 
 ## Key Findings
 
