@@ -24,7 +24,7 @@
 
 </details>
 
-## July 1, 2021 - 
+## July 1, 2021 - Stage: Define / Design
 Today's Goals: 
 1. Define User Flow (Content Page --> Intro Page --> Form flow)
 2. Content Roundtable 
