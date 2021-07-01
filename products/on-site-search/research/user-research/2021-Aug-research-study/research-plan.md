@@ -2,7 +2,7 @@
  	
 ## Goals	
 The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. We plan to test the following design concepts:
-1. A new search landing page that has links to other search tools
+1. A new search landing page that has links to other search tools (Find a Form, Resources & Support, and Find a VA Location)
 1. A new link on the VA.gov home page near the "top 4" boxes that goes to the new search landing page (or starts a search)
 1. Search in the header goes to the new search landing page
 1. New links on the search results page go to other search tools
