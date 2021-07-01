@@ -43,6 +43,7 @@ Almost 100% of all modals are annoying - how do we make it not?
 ### Issues
 1. The modal feels heavy handed 
 1. The modal might have 508 issues
+1. Safest way to scale for best coverage?
 
 ### Potential Solutions
 1. Banner
