@@ -72,17 +72,17 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 
 - How long have you worked at the facility?
 - Have you ever used the VA.gov website to see how your facility is represented?
-- What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
-- What terms to people staying at the facility use to describe it?
+- ***What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?***
+- ***What terms to people staying at the facility use to describe it?***
 
 #### Questions
 
 - **The facility**
      - How would you describe the primary purpose of the facility?
      - Is the facility free-standing, or located inside another building (like a floor or wing of the building)?
-     - Domiciliaries are currently categorized under "VA Homeless Programs" - we're worried that the term "homeless" may not be appropriate. Is there another term you would prefer (i.e. "unhoused", "houseless")?
-     - Is there anything a Veteran with physical limitations would need to know about this facility?
-     - Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?
+     - ***Domiciliaries are currently categorized under "VA Homeless Programs" - we're worried that the term "homeless" may not be appropriate. Is there another term you would prefer (i.e. "unhoused", "houseless")?***
+     - ***Is there anything a Veteran with physical limitations would need to know about this facility?***
+     - ***Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?***
      - Who is this facility most likely to serve, in terms of demographics?
      - Is the facility mixed gender?
 - **Services**
@@ -90,7 +90,7 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
      - Is there healthcare provided on site? (If so, what?)
      - Are there any healthcare personnel on staff?
      - Are there any other specific services provided on site (i.e. social work case management)?
-     - Are there any services that Veterans often request, that are not offered?
+     - ***Are there any services that Veterans often request, that are not currently offered?***
 - **Referrals**
      - Is there a referral process? (If so, what?)
      - Can Veterans self-refer?
