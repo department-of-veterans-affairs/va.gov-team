@@ -29,6 +29,10 @@
 
   * Reminder of Leadership Listing pages content freeze during Sprint 51. CMS team will make URL changes early Sprint 36. 
   * Operating Status page changes - Menu required.  What is the new SOP.
+  * LGBTQ+ 
+  * VAM - Full Production/Go Live Schedule - Proposed 
+  * Communication plan to field when changes are made to CMS - current experience is creating backlash to CMS support desk and VAMC
+    * Example, During Production Q&A this week, field had experiencing change and VAMC was unaware of changes or how to communicate them.
 
 ## June 25
 
