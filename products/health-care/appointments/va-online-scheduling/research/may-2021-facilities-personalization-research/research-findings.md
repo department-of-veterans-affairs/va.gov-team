@@ -66,6 +66,7 @@ Findings are organized around 3 common themes we identified in our analysis:
 2. Participants saw registration as a step in the process to receiving care; not a tool for finding facilities.
 3. Participants expected that all VA clinics should be able to easily access their VA medical information.
 4. Half of the participants preferred to schedule appointments through a combination of secure messenger and in person.
+5. 7 of 8 participants shared a negative perception of calling the VA.
 
 **Usability of the prototype:**
 
@@ -144,9 +145,7 @@ Most participants expected to be able to receive care at any VA regardless of wh
 
 ### Half of the participants preferred to schedule appointments through a combination of secure messenger and in person.
 
-While we didn't ask participants which way they prefer to schedule health care appointments, four told us they start with secure messaging their health care provider.
-
-While there was no theme across these participants why they prefer secure messaging, a couple of individual points that came up were:
+Over the course of the sessions, four participants told us they start with secure messaging their health care provider. There was no common reason as to why they prefer secure messaging, but individual reasons that came up were:
 
 * Easily able to access records of communication
 * More convenient and less painful than calling to schedule
@@ -154,18 +153,18 @@ While there was no theme across these participants why they prefer secure messag
 
 > "I do better with secure messaging. This way I can see it. With a little bit of hearing loss, I don't always want to be on the phone saying, "Sorry, I didn't hear what you said, Sorry, can you say that again?" It gets annoying for me. I can only imagine what the person on the other end would be thinking." - P11
 
-Half of the participants like making appointments in person
-
-There was no larger theme here, but some of the unique points included:
+Half of the participants prefer to make appointments in person.There was no larger theme here, but some of the unique points included:
 
 * Two mentioned that it was sometimes more convenient to walk in to schedule than call.
 * Another said they liked to make their follow up appointments with the scheduler at the facility right after they completed an appointment.
 
-7 of 8 participants shared a negative perception of calling the VAAs we've heard in many previous studies, participants described calling as taking a long time and being inefficient. One participant described lining up multiple activities to do while on hold so they didn't get bored. Another stated:
-
-> "When you call the VA, you're going to listen to a recording that lasts forever, and then it'll tell you this huge address, and most of us, we're uncomfortable anyway; you won't even remember a quarter of it. Then you'll finally get tired and end up wanting to talk to a person. So you'll talk to a VA operator - if you can get through. If they send you to the 800 number, forget it, hang up. \[You'll wait\] forever, or never get through. They say 'call line full.' They haven't \[set up the system\] yet so that, if you don't want to wait in line they can give you a call back." - P13
+### 7 of 8 participants shared a negative perception of calling the VA
 
 > "People die on hold when they call the VA. Not from anything but old age." - P1
+
+As we've heard in many previous studies, participants described calling as taking a long time and being inefficient. One participant described lining up multiple activities to do while on hold so they didn't get bored. Another stated:
+
+> "When you call the VA, you're going to listen to a recording that lasts forever, and then it'll tell you this huge address, and most of us, we're uncomfortable anyway; you won't even remember a quarter of it. Then you'll finally get tired and end up wanting to talk to a person. So you'll talk to a VA operator - if you can get through. If they send you to the 800 number, forget it, hang up. \[You'll wait\] forever, or never get through. They say 'call line full.' They haven't \[set up the system\] yet so that, if you don't want to wait in line they can give you a call back." - P13
 
 ## Usability of the prototype
 
