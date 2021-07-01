@@ -80,7 +80,7 @@ An e-Signature solution should provide the following benefits:
     - VA Forms leadership to better understand the end-to-end workflow from form creation to the processing of submitted forms
     - VA Forms Managers to better understand their workflow in adding new or updated forms to the VA system
     - Other technical teams that complete VA forms in the background as part of their web applications
-    - VA personnel who key in paper forms that have been emailed, mailed, or faxed in
+    - VA personnel who key/OCR paper forms that have been emailed, mailed, or faxed in (Centralized Mail)?
     - VA personnel who make decisions based on the information provided in forms
     - People who manage the database(s) where the form contents are ultimately stored
     - Veterans so that we can observe their experience with using PDF forms
@@ -137,7 +137,7 @@ An e-Signature solution should provide the following benefits:
     - VA Forms leadership to better understand the end-to-end workflow from form design to the processing of submitted forms
     - VA Forms Managers to better understand their workflow in adding new or updated forms to the VA system
     - Other technical teams that fill out VA forms in the background as part of their web applications
-    - VA personnel who key in paper forms that have been emailed, mailed, or faxed in
+    - VA personnel who key/OCR paper forms that have been emailed, mailed, or faxed in (Centralized Mail)?
     - VA personnel who make decisions based on the information provided in forms
     - People who manage the database(s) where the form contents are ultimately stored
     - Veterans so that we can observe their experience with using PDF forms
