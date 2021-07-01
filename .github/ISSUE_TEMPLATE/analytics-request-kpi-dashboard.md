@@ -11,9 +11,11 @@ assignees: joanneesteban
 
 ## What this form is for
 
-Use this template to request a KPI dashboard on Domo for your product.
+Use this template to request a KPI dashboard on Domo for your product. 
 
-Additional Info
+We are currently only supporting standardized dashboards for Forms, Content, & Search products. If you have another VA.gov product, please reach out to the Platform Analytics & Insights team on #vfs-platform-support. Please note that these dashboards will require additional data and design discovery, and will take additional time to deliver.
+
+**Additional Info**
 
 - Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the Standard KPI dashboards. 
 
@@ -21,7 +23,7 @@ Additional Info
 
 ### Expected delivery timelines
 
-Your Standard KPI dashboard request will be added to the Platform Analytics & Insights team's customer support queue, and we expect tickets at the top of the queue to be pulled in every Platform Sprint Planning & Refinement (every Wednesday). We appreciate your patience.
+Your KPI dashboard request will be added to the Platform Analytics & Insights team's customer support queue, and we expect tickets at the top of the queue to be pulled in every Platform Sprint Planning & Refinement (every Wednesday). We appreciate your patience.
 
 - Once your ticket has been pulled into the Platform sprint, we expect to deliver your completed dashboard within the next 4 business days. Please use this ticket for any follow up questions.
 
