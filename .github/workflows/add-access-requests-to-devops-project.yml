@@ -14,12 +14,6 @@ jobs:
         (github.event.action == 'opened' ||
           github.event.action == 'labeled') &&
         contains(github.event.issue.labels.*.name, 'ops-access-request')
-      uses: octokit/request-action@v2.1.0
-      with:
-       route: POST /projects/columns/14976794/cards
-       mediaType: application/vnd.github.inertia-preview+json
-       body: |
-         |
-         note: ${{ github.event.issue.html_url }}
+      run: gh api --method POST /projects/columns/14976794/cards -f note="${{ github.events.issues.html_url }}"
       env:
         GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN}}
