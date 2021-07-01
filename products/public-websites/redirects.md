@@ -55,6 +55,6 @@ Now that you have confirmed that you have all the details you need for the redir
             3. ServiceNow Assignment Group: `IO.NETWORK.NOC.TICGATEWAY`
         3. A diagram to better understand how this works:
 
-            ![Redirects%201a34010b46864b5098fc521be0c73cfd/Untitled.png](Redirects%201a34010b46864b5098fc521be0c73cfd/Untitled.png)
+            ![image](https://user-images.githubusercontent.com/12773166/124171506-e7c60b00-da65-11eb-9ed3-b537c6ec5a5e.png)
 
 4. Any other `From` URL that does not match the above cases need to be brought to the attention of Public Websites as soon as possible. You can find us in Slack [here](https://dsva.slack.com/archives/C52CL1PKQ).
