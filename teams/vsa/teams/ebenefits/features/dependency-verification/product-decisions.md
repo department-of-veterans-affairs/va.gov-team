@@ -18,14 +18,22 @@ Almost 100% of all modals are annoying - how do we make it not?
 1. Intercept as many Veterans as possible, put on as many pasges as possible
 - Show, immediately, on login
 - Could be in the header/footer all the time?
+- In moving facilities, home, phone number, adding other benefits
+- While updating other information might be a good time/place to bundle
+2. Consider use cases or scenario instead of specific pages
+- Some pages are going to be straight "no"
+3. 
+- In looking at the 0538 itself in the VA form finder
 
 ### Questions about how this feature should behave
 1. When does the modal show?
 - If it get  skipped when does it come back? next session
 - If answered, when does it come back? 1 year
+- After a recent successful submission, proc the question
+
 
 2. ~~If the Veteran is shown a list (in the modal) of dependents of 6 dependents, nd only 3 are addressed, does the list get reduced to 3?~~
-1 dary Entry for 1 Veteran...no partials
+1 diary Entry for 1 Veteran...no partials
 
 3. Why does it need to start here on the View Dependents page?
 
@@ -44,10 +52,12 @@ Almost 100% of all modals are annoying - how do we make it not?
 1. The modal feels heavy handed 
 1. The modal might have 508 issues
 1. Safest way to scale for best coverage?
+1. Competing modals
 
 ### Potential Solutions
-1. Banner
-(could introduce banner fatigue, depending on how it gets implemented
+1. Banner - (could introduce banner fatigue, depending on how it gets implemented?)
+1. "You have actions to take...."
+1. Remind me later, like a snooze button.  Email + SMS could also be leveraged (VANotify)
 
 
 ------------
