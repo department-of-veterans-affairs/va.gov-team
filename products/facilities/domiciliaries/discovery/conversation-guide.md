@@ -66,6 +66,9 @@ Is it alright if I record? [Yes/no?]
 
 - How long have you worked at the facility?
 - Have you ever used the VA.gov website to see how your facility is represented?
+- Is the term "domiciliary" relevant?
+    - What term do you use?
+    - What term to Veterans/people at the facility use?
 
 #### Questions
 
