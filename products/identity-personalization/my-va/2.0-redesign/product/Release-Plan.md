@@ -41,7 +41,9 @@ My VA GA dashboard (link TK)
 
 ## Go Live!
 ### Planning:
-**Desired date:** Desired: by 06/28/21 for launch to 25%,  Actual: 06/30/21 (launched to 25%)
+**Desired date:** 
+- _Desired: by 06/28/21 for launch to 25%_
+- Actual: 06/30/21 (launched to 25%)
 
 - [Go/No Go Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-VA-launch-go-no-go.md)
  
