@@ -1,11 +1,12 @@
-
-[Work-in-progress]
-
 # Domiciliary SME Discovery Interview
+
+### Background
+
+[VA Homeless Programs information](https://www.va.gov/homeless/dchv.asp)
 
 ### Locations & Contacts
 
-- **Philadelphia**
+- **Philadelphia, PA**
      - Location(s):
           - [Philadelphia VA Domiciliary](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)
      - PAO contact(s):
@@ -13,15 +14,15 @@
           - Jonathan Hodges, Jonathan.Hodges@va.gov, 215-823-5916
      - SME contact(s):
           - [TBD]
-- **Eastern Colorado (2 locations)**
+- **Eastern Colorado**
      - Location(s):
           - [Denver VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
           - [Valor Point VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)
      - PAO contact(s):
-          - [TBD]
+          - Brandy Morrison (Denver, CO), Brandy.Morrison2@va.gov, 720-723-6532
      - SME contact(s):
           - [TBD]
-- **Houston** [Houston, TX?]
+- **Houston, TX**
      - Location(s):
           - [Houston VA Domiciliary](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
      - PAO contact(s):
@@ -35,6 +36,12 @@
           - Susan Varcie, Susan.Varcie@va.gov, 601-368-4477
      - SME contact(s):
           - [TBD]
+ - **Seattle, WA**
+     - Location(s):
+     - PAO contact(s):
+     - SME contact(s):
+ - **Minnesota**
+     - [See brochure link](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
 
 ## Intro
 
@@ -66,20 +73,20 @@ Is it alright if I record? [Yes/no?]
 
 - How long have you worked at the facility?
 - Have you ever used the VA.gov website to see how your facility is represented?
-- Is the term "domiciliary" relevant?
-    - What term do you use?
-    - What term to Veterans/people at the facility use?
+- What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
+- What terms to people staying at the facility use to describe it?
 
 #### Questions
 
 - **The facility**
      - How would you describe the primary purpose of the facility?
      - Is the facility free-standing, or located inside another building (like a floor or wing of the building)?
-     - Is the facility accessible for anyone with a physical disability?
-     - Is the facility more likely to serve Veterans, caregivers, or some other advocate?
+     - Is there anything a Veteran with physical limitations would need to know about this facility?
+     - Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?
      - Who is this facility most likely to serve, in terms of demographics?
      - Is it a mixed gender facility?
 - **Services**
+     - What services are provided at your location?
      - Is there healthcare provided on site? (If so, what?)
      - Are there any healthcare personnel on staff?
      - Are there any other specific services provided on site (i.e. social work case management)?
@@ -98,4 +105,4 @@ Is it alright if I record? [Yes/no?]
 - If you were updating your website, what would be the first thing you would want people know?
 - Is there anything else you think I should know, that might be useful for anyone visiting the facility?
 
-Thank you very much for helping us out!
+Alright thank you, that concludes our questions - thank you very much for helping us out, this information will be a big help for people using the VA.gov site.
