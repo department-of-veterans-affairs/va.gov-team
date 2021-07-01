@@ -47,17 +47,16 @@
 
 Hello, thank you for speaking with me today.
 
-My name is Nick Osmanski, and I work on the VA.gov Facilities product team. We are preparing to make some updates to the VA health system webpages of domiciliary facilities. To make sure that we focus on the right improvements, we would like to talk with individuals who manage and work at the domiciliaries themselves - and that's why we contacted you.
+My name is Nick Osmanski, and I work on the VA.gov Facilities product team. We are preparing to make some updates to the VA health system webpages of domiciliary facilities. To make sure that we focus on the right improvements, we would like to talk with individuals who manage and work at the domiciliaries themselves - and that's why we are requesting your help.
 
-We want to gain a more accurate understanding of the various aspects of a person's experience while staying at a domiciliary locations, including a description of the facility, information about potential services provided, and anything else that would help us to better categorize the facility.
+We want to gain a more accurate understanding of the various aspects of a person's experience while staying at a domiciliary locations, including a description of the facility, information about potential services provided, and anything else that you would like us to be aware of, that people should know.
 
 We are not asking for any personal information beyond name and title, and we are not selling you anything.
 
 If you're comfortable, I would also like to record our call for note-taking purposes. The file will not be uploaded to any location, and will be deleted soon after our call.
 
-Is it alright if I record? [Yes/no?]
+Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 
-[Confirm yes response on recording]
 
 #### About the SME
 
@@ -81,15 +80,17 @@ Is it alright if I record? [Yes/no?]
 - **The facility**
      - How would you describe the primary purpose of the facility?
      - Is the facility free-standing, or located inside another building (like a floor or wing of the building)?
+     - Domiciliaries are currently categorized under "VA Homeless Programs" - we're worried that the term "homeless" may not be appropriate. Is there another term you would prefer (i.e. "unhoused", "houseless")?
      - Is there anything a Veteran with physical limitations would need to know about this facility?
      - Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?
      - Who is this facility most likely to serve, in terms of demographics?
-     - Is it a mixed gender facility?
+     - Is the facility mixed gender?
 - **Services**
      - What services are provided at your location?
      - Is there healthcare provided on site? (If so, what?)
      - Are there any healthcare personnel on staff?
      - Are there any other specific services provided on site (i.e. social work case management)?
+     - Are there any services that Veterans often request, that are not offered?
 - **Referrals**
      - Is there a referral process? (If so, what?)
      - Can Veterans self-refer?
