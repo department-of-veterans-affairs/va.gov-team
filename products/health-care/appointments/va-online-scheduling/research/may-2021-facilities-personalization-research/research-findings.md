@@ -1,6 +1,6 @@
 # Veteran preferred facilities research report
 
-A collaborative study by VAOS (Peter Russo, peter.russo@adhocteam.us) and VSA, Authenticated Experience (Liz Lantz, liz.lantz@adhocteam.us), 06/30/2021
+A collaborative study by VAOS (Peter Russo, peter.russo@adhocteam.us) and VSA, Authenticated Experience (Liz Lantz, liz.lantz@adhocteam.us), 07/01/2021
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md).
 
