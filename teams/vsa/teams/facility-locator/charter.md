@@ -44,6 +44,7 @@ Current
 - Front End Engineer
   - Michael Pelz-Sherman (June 2020- present)
   - Gilbran Rodriguez (October 2019 - present)
+  - Gaida Escobar (May 2021 - present)
 
 Past
 - Chris Logan (October 2020 - February 2021)
