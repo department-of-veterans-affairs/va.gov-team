@@ -1,10 +1,10 @@
-[Subject:] VA.gov Design Team Informational Discussion
+***[Subject:] VA.gov Design Team Informational Discussion***
 
 Hello [PAO/SME NAME],
 
 I work on the VA.gov Facilities product team, and we are preparing to make some updates to the VA health system webpages of domiciliary facilities. To make sure that we focus on the right improvements, we would like to talk with individuals who manage and work at the domiciliaries themselves.
 
-So we can better represent these locations on the VA.gov site, we want to gain a more accurate understanding of the various aspects of a person's experience while staying at domiciliary locations, including information about the facility itself, any potential services provided, demographics, and anything else the administrators on site would like us to be aware of.
+***So we can better represent these locations on the VA.gov site, we want to gain a more accurate understanding of the various aspects of a person's experience while staying at domiciliary locations, including information about the facility itself, any potential services provided, demographics, and anything else the administrators on site would like us to be aware of.***
 
 A few of the questions we would like to ask are:
 
