@@ -23,7 +23,7 @@ We are not asking for any personal information beyond name and title, and we are
 
 ### Warm-up
 
-
+[TBD]
 
 #### Questions
 
@@ -46,3 +46,7 @@ We are not asking for any personal information beyond name and title, and we are
      - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
      - Are there any specific eligibility requirements for this facility?
+
+### Wrap-up
+
+[TBD]
