@@ -52,6 +52,8 @@ Start recording.
 
 Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349#/pages/?mode=i 
 
+Now please navigate back to Zoom and share your screen so I can follow along with you [Direct them to the 'Share content' button and 'Share screen' as needed].
+
 What we're looking at now is a potential tool on VA.gov. Since it's a prototype, it may not always work like the real VA.gov does, so if there's anything you want to know more about or unsure about, let me know. If something doesn't work the way you expect, let me know what you expected it to do. 
 
 ### Landing page
