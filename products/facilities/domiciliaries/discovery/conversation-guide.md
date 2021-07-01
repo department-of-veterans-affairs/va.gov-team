@@ -5,11 +5,11 @@
 
 ## Intro
 
+Hello! My name is Nick Osmanski, and I work on the VA.gov Facilities product team. We are preparing to make some updates to the VA health system webpages of domiciliary facilities. To make sure that we focus on the right improvements, we would like to talk with individuals who manage and work at the domiciliaries themselves - and that's why we contacted you.
 
+We want to gain a more accurate understanding of the various aspects of a person's experience while staying at a domiciliary locations, including a description of the facility, information about potential services provided, and anything else that would help us to better categorize the facility.
 
-## Interview
-
-### Warm-up
+We are not asking for any personal information beyond name and title, and we are not selling you anything.
 
 #### About the SME
 
@@ -18,6 +18,12 @@
 - Title:
 > 
 - Location (region/system): 
+
+## Interview
+
+### Warm-up
+
+
 
 #### Questions
 
