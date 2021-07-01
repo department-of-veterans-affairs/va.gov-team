@@ -179,9 +179,13 @@ However, wayfinding between the facility list in VAOS and the profile proved cha
 > M: It looks like you wanted to hit continue.
 > P11: Yeah, instead of doing an extra step, I thought it would automatically pop up to show which ones you don't need, and then you would just be able to check [the facilities]. To me it's just an extra step that you have to go back to go forward to go forward.
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-no-longer-go-to-facility-accordion.png" width="50%" />
+
+*Above: screenshot from prototype showing step in VAOS that sends users to profile to edit their facility list*
+
 Two participants never realized they had gone between two sections of VA.gov. Even after editing their facility list in profile, they thought they were still in the scheduling process:
 
-> "I'm seeing 'profile menu', what do I care about that? I'm going to read a little bit more...it says 'to schedule a health appt online...' I don't understand why it wants me to edit. \[I think this page\] is asking if I want to change my appointment to a different facility. my best guess would be i can't be seen at the first one so i have to go to the next one. I think this screen is leading me down a blind corner and I don't know why I got there." - P13
+> "I'm seeing 'profile menu', what do I care about that? I'm going to read a little bit more...it says 'to schedule a health appt online...' I don't understand why it wants me to edit. \[I think this page\] is asking if I want to change my appointment to a different facility. My best guess would be I can't be seen at the first one so I have to go to the next one. I think this screen is leading me down a blind corner and I don't know why I got there." - P13
 
 ### No participant was able to find the list of facilities in the profile when starting from the VA.gov homepage without guidance.  
 
@@ -210,7 +214,13 @@ But even so, participants struggled to come up with a reason they would look for
 > M: Why wasn't your saved facility showing as an option? 
 > P10: I was wondering the same thing. I have no idea.
 
-When shown a scenario where they would have to call to schedule, participants understood the facility didn't offer online scheduling, but most weren't sure why not. At least one participant thought they had to call because the clinic simply didn't offer the service they were trying to schedule. This caused frustration.
+When shown a scenario where they would have to call to schedule, participants understood the facility didn't offer online scheduling, but most weren't sure why not. 
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-call-to-schedule.png" width="50%" />
+
+*Above: screenshot of VAOS call to schedule page*
+
+At least one participant thought they had to call because the clinic simply didn't offer the service they were trying to schedule. This caused frustration.
 
 - A few participants indicated they would not select "I need a different facility" the second time. 
 - One said they would try to schedule at the facility that was displayed on the previous screen. 
@@ -228,6 +238,10 @@ Only 2 of 8 participants easily navigated via the profile mobile menu.
 
 > "I saw it \[profile menu, after being guided by moderator\], but I thought it was what I was already looking at below." - P7
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/profile-mobile-menu.png" width="50%" />
+
+*Above: screenshot from prototype of profile mobile menu on profile landing page. Participants needed to open the menu to navigate to their facility list.*
+
 One participant was confused by the profile menu when looking for their list of facilities, even after they had opened it multiple times.
 
 > "There again it's a lot of information I wouldn't need at the moment. And now I'm having to re-study it again, but what I wanted in the first place pretty much isn't there. "- P13
@@ -235,7 +249,7 @@ One participant was confused by the profile menu when looking for their list of 
 ### Participants shared other points of feedback for consideration around the UI and content.
 
 * A few participants didn't like having to select "I need a different facility" multiple times.
-* A couple participants commented the profile page had too much content, making it difficult to scan.
+* Two participants commented the profile page had too much content, making it difficult to scan.
 * One participant expected to pick up in VAOS where they left off on the "Choose facility" page, but it did not cause a major frustration.
 
 ## Findings on value
