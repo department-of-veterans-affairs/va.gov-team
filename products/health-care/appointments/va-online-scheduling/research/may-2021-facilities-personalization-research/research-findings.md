@@ -179,7 +179,7 @@ However, wayfinding between the facility list in VAOS and the profile proved cha
 > M: It looks like you wanted to hit continue.
 > P11: Yeah, instead of doing an extra step, I thought it would automatically pop up to show which ones you don't need, and then you would just be able to check [the facilities]. To me it's just an extra step that you have to go back to go forward to go forward.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-no-longer-go-to-facility-accordion.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-no-longer-go-to-facility-accordion.png" width="33%" />
 
 *Above: screenshot from prototype showing step in VAOS that sends users to profile to edit their facility list*
 
@@ -216,7 +216,7 @@ But even so, participants struggled to come up with a reason they would look for
 
 When shown a scenario where they would have to call to schedule, participants understood the facility didn't offer online scheduling, but most weren't sure why not. 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-call-to-schedule.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-call-to-schedule.png" width="33%" />
 
 *Above: screenshot of VAOS call to schedule page*
 
@@ -238,7 +238,7 @@ Only 2 of 8 participants easily navigated via the profile mobile menu.
 
 > "I saw it \[profile menu, after being guided by moderator\], but I thought it was what I was already looking at below." - P7
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/profile-mobile-menu.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/profile-mobile-menu.png" width="33%" />
 
 *Above: screenshot from prototype of profile mobile menu on profile landing page. Participants needed to open the menu to navigate to their facility list.*
 
@@ -358,7 +358,19 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 
 ## Next steps
 
+### Authenticated experience
 
+- Pause FE and design work on adding "Your VA health facilities" to profile.
+- Seek to understand if there are other business reasons we should pursue this work.
+- Explore ways to improve the profile mobile menu UX.
+
+### VAOS team
+
+- Explore how we can surface a Veteran's primary care physician information.
+
+- 
+
+  
 
 ## Resources
 
