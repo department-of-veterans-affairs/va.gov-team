@@ -233,17 +233,11 @@ One participant was confused by the profile menu when looking for their list of 
 
 > "There again it's a lot of information I wouldn't need at the moment. And now I'm having to re-study it again, but what I wanted in the first place pretty much isn't there. "- P13
 
-### **3 participants expected VA.gov facility lists to show them all nearby facilities, similar to functionality in our facility locator**.
-
-3 participants said they would expect to find facilities based on their current location in VAOS and in their profile facility list. They felt this would be useful for travel. It wasn’t clear to them why they would only see facilities where they had previously established care.
-
 ### Participants shared other points of feedback for consideration around the UI and content.
 
 * A few participants didn't like having to select "I need a different facility" multiple times.
 * A couple participants commented the profile page had too much content, making it difficult to scan.
 * One participant expected to pick up in VAOS where they left off on the "Choose facility" page, but it did not cause a major frustration.
-
-
 
 ## Findings on value
 
@@ -290,3 +284,79 @@ Another was frustrated because it didn't make sense with the process they expect
 > "If I need to go back \[to a recently visited facility\], that'd be because I have follow-up appointments that were already approved by my primary. Once they send the referral out, like if it's therapy or whatever, she does a consult, I get approved, and I get the initial visit. It usually comes with so many visits. After I use all those appointments I have to go back to my primary.
 
 > "I can't go back to my recently visited, because the doctor needs to know who 'did that work' and they need to reevaluate after. You just can't keep going to new doctors. The doctor here needs to know all the things that are happening." - P9  
+
+
+
+## Recommendations
+
+1. We recommend surfacing helpful facility information for the Veteran based on their data, instead of asking them to manually manage facilities in the scheduling flow or their profile.
+2. Consider other ways to support Veterans who have moved or travel regularly.
+3. Consider ways to reduce Veteran frustration when calling to schedule.
+4. Revisit the design of the profile mobile menu.
+
+### We recommend surfacing helpful facility information for the Veteran based on their data, instead of asking them to manually manage facilities in the scheduling flow or their profile.
+
+While Veterans were able to use the prototype easily, our study reveals that manually updating current facilities does not ease the scheduling process in a meaningful way.  Instead, let’s consider how we might provide Veterans options to contact and schedule appointments with their primary and specialty care providers at key moments in their health care journey:
+
+- When they start scheduling an appointment
+- When a Veteran is looking for general information about their health care facilities
+- When a Veteran is looking for information about health care in My VA
+- At their provider’s office, discussing a follow-up appointment is needed
+
+Also consider showing Veterans how to communicate and schedule with providers that their PCP has given them consults/authorizations/referrals to see. 
+
+The Veterans we spoke to had no expectation of seeing only registered facilities in VAOS, and by asking them to manage the facility list we are actually increasing the cognitive load required to remember to find and update these settings changed during an already stressful time of changing health care providers. As a result, we don’t think it makes sense to forward with designs tested in our study.  
+
+### **Consider other ways to support Veterans who have moved or travel regularly**
+
+Throughout all sessions, participants talked about the importance of location when finding access to care, and many participants cited travel as a potentially valuable use for the prototype they were shown. 
+
+The current tools we offer Veterans to find facilities by particular locations, or define their location have limitations and inconsistencies:
+
+- VAOS offers ability to see facilities near the VA.gov profile home address, or current browser location.
+- VA.gov profile offers the ability to define one home address and one mailing address.
+- The facility locator offers the ability to search by a manually entered (not saved) location.
+
+We recommend more research in this area to understand how our current tools support the needs of this Veteran population, understand if there are any problems as a result, and identify use cases that offer us an opportunity to provide better support. There’s a specific [program for traveling Veterans](https://www.va.gov/healthbenefits/news/VA_offers_seamless_care_for_traveling_veterans_or_veterans_seeking_care_at_an_alternate_va.asp). We recommend speaking to Veterans in this program, as well as [Veterans living abroad](https://expatresearch.com/files/4915/0501/3576/McNulty_Fisher_Hicks_and_Kane_2014_-_Military_Expatriates-US_Veterans_Living_Abroad_The_Civilian_Lives_of_U.S._Veterans_Part_2.pdf#:~:text=How Many U.S. Veterans Live Abroad%3F&text=today—about 21.6 million.,Veterans Analysis and Statistics 2015)).
+
+### **Consider ways to reduce Veteran frustration when calling to schedule**
+
+As we’ve heard in previous research and user feedback, one of the most frustrating situations in VAOS is when we direct the Veteran to call to schedule their appointment because the facility they selected doesn’t support online scheduling. We think the following approaches would improve the Veteran experience when they need to call to schedule:
+
+**Clarify language used to explain why an appointment has to be scheduled over the phone.** Participants were generally confused as to why they couldn’t schedule online with some facilities in the scheduling flow. Consider language that clarifies that they can still schedule other appointments at this facility, just not for the selected type of care. Alternatively, show which care types are available to schedule online at the facility earlier in the flow.
+
+**Consider surfacing facilities that require a Veteran to call earlier in the flow.** Don’t ask Veterans to select “I need a different facility” multiple times to find out that they have to call to schedule. Instead, consider showing Veterans the facilities at which they’ll have to call to get an appointment as early as possible in the scheduling process. 
+
+**Identify the facilities that are the most sought after for online scheduling, but don’t have VA Online Scheduling turned on.** While improving language and interactions will help, this problem will only be solved when most facilities offer online scheduling through VAOS or other channels. Consider gathering data on the facilities that:
+
+- Consistently show up on the facility page before Veterans drop from the scheduling flow at this step.
+- Don’t offer online scheduling for the given type of care, so the Veteran has to call to schedule.  
+- Use this information to identify any patterns that may exist between facilities that are not commonly available.
+
+### Revisit the design of the profile mobile menu
+
+Since the majority of participants didn’t intuitively use the profile menu, we recommend evaluating the current design to determine if it needs to be redesigned.   
+
+- Analytics data can be pulled to compare mobile vs desktop usage of profile navigation and identify any discrepancies that may suggest Veterans are having a hard time using it. 
+- Our moderated methodology may have impacted participant usage; consider an unmoderated study to evaluate if the current design works for Veterans as they go through a natural task.  
+- Alternatively, since this component is used on other pages of VA.gov, we could glean insights on how usable this component is by looking at those pages.
+
+
+
+## Next steps
+
+
+
+## Resources
+
+- VAOS product outline
+- [Profile preferred facilites product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
+- [Research plan]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md)
+- Prototypes
+  - [Scenario 1](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)
+  - [Scenario 2](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)
+- Synthesis Artifacts
+  - [Session data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/facilities-research-session-data.xlsx)
+  - [Affinity Map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1623094588406/918ef3279e0fb661409656bdafe06aee2ee098e9)
+  - Presentation pdf (to come)
