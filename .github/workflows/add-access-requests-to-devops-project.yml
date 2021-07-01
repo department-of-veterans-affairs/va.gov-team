@@ -20,3 +20,5 @@ jobs:
        mediaType: application/vnd.github.inertia-preview+json
        output: |
          note: ${{ github.event.issue.url }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN}}
