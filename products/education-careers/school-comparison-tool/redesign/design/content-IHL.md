@@ -574,9 +574,9 @@ The following degrees are offered by this institution.  Degree and program lengt
 
 { list degrees available - per ED data }
 
-### Education opportunities
+### Education details
 
-* Accreditation ([Learn more]): {Display type of accreditation Regional | Hybrid | National | None } ([See accreditors](){link to school record on http://nces.ed.gov/collegenavigator/})
+* Accreditation ([Learn more]()): {Display type of accreditation Regional | Hybrid | National | None } ([See accreditors]()){ link to school record on [http://nces.ed.gov/collegenavigator/] } )
 
 { learn more modal }
 
@@ -590,7 +590,7 @@ To learn more about the accreditation process and types of accreditation, visit 
 
 { end learn more modal }
 
-* Credit for military training ([Learn more]): {Yes | No}
+* Credit for military training ([Learn more]()): {Yes | No}
 
 { learn more modal }
 
@@ -600,7 +600,7 @@ Does the school offer postsecondary credit for experiences and military training
 
 { end modal content }
 
-* Independent study ([Learn more]): { Yes | No }
+* Independent study ([Learn more]()): { Yes | No }
 
 { learn more modal }
 
@@ -610,7 +610,7 @@ Beneficiaries may use educational assistance to access online learning (accredit
 
 { end learn more modal }
 
-* Priority enrollment ([Learn more]): { Yes | No }
+* Priority enrollment ([Learn more]()): { Yes | No }
 
 { learn more modal }
 
@@ -683,7 +683,7 @@ We try to make sure this information is accurate, but prospective students shoul
 
 { end modal }
 
-{ green checkmark if present } Student Veteran Group ([Learn more]()): ([Visit the site]()) {dynamic display of Veteran group link}
+{ green checkmark if present } Student Veteran Group ([Learn more]()): [Visit the site]() {dynamic display of Veteran group link}
 
 { learn more modal content }
 
@@ -697,7 +697,7 @@ Please note this email address is only for Comparison Tool-related issues. For q
 
 { end modal }
 
-{ green checkmark if present }  VetSuccess on Campus ([Learn more]()): ([Email {Name of Contact}]()) 
+{ green checkmark if present }  VetSuccess on Campus ([Learn more]()): [Email {Name of Contact}]()
 
 { learn more modal content }
 
