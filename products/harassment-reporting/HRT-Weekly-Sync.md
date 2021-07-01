@@ -24,13 +24,17 @@
 
 </details>
 
-## July 1, 2021
+## July 1, 2021 - 
+Today's Goals: 
+1. Define User Flow (Content Page --> Intro Page --> Form flow)
+2. Content Roundtable 
+3. Design/UX Roundtable 
 
-* Design Elements - Review mock ups  
-  * Clarity Requests: non-departmental anonymous state
+* Design Elements - Review User Map (user flow)  
   * User Flow Defined. 
   * Needs/Requests: Content for definitions (SA, SH, HO) 
   * Content needed for "Introduction Page" - Who will provide?
+  * Clarity Requests: non-departmental anonymous state
 * Review "What is in Scope for MVP"
   * DVSA Team will build landing page (Content help is needed will be long pole in plan)
 * Privacy and Security Updates - What's the latest (Update).
