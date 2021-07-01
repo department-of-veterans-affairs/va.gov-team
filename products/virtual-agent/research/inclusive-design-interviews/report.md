@@ -97,6 +97,8 @@ We identified 5 key findings tied to the goals and hypotheses:
   - “I’m pretty excited about these types of products. [...] Being a blind consumer, I don’t deal very well with paper. A form that could be pre-populated with my information would be helpful. You have all my information already, so there’s no reason you couldn’t just populate it already” (Participant #1)
   - “Now that I did it [tried the chatbot], I’m curious and fascinated at the same time and like I said, something that doesn’t use resources or use a whole lot of time. Resources being sometimes call the VA and that person doesn’t have the answer, and they transfer you to the department, and it’s not the department you should be talking to.  You can get transferred two or three times and that can be frustrating. (Participant #2)
 
+    **To view transcripts and video clips from this research, you can go to this Github [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/inclusive-design-interviews/transcripts-and-video-clips).** 
+
 ## Results of hypotheses
 
 The results our work for the hypotheses included:
