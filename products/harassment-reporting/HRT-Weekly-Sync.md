@@ -28,7 +28,7 @@
 
 * Design Elements - Review mock ups  
   * Clarity Requests: non-departmental anonymous state
-  * Updates/Feedback: 
+  * User Flow Defined. 
   * Needs/Requests: Content for definitions (SA, SH, HO) 
   * Content needed for "Introduction Page" - Who will provide?
 * Review "What is in Scope for MVP"
