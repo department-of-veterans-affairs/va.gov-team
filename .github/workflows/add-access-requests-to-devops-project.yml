@@ -15,6 +15,6 @@ jobs:
           github.event.action == 'labeled') &&
         contains(github.event.issue.labels.*.name, 'ops-access-request')
       run: |
-        gh api --method POST /projects/columns/14976794/cards -f note="${{ github.events.issues.html_url }}" -H 'Accept: application/vnd.github.inertia-preview+json'
+        gh api --method POST /projects/columns/14976794/cards -f note="${{ github.event.issues.html_url }}" -H 'Accept: application/vnd.github.inertia-preview+json'
       env:
         GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN}}
