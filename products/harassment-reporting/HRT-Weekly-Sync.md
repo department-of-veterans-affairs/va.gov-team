@@ -25,6 +25,8 @@
 </details>
 
 ## July 1, 2021 - Stage: Define / Design
+Comms Check: Does everyone have access to #VSA-Harassment-Reporting-Tool Slack Channel? 
+
 Today's Goals: 
 1. Define User Flow (Content Page --> Intro Page --> Form flow)
 2. Content Roundtable (Page content, definitions, term taxonomy)
