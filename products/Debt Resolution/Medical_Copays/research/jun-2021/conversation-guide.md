@@ -50,7 +50,7 @@ Start recording.
 
 * I'm going to send you a link in Zoom's chat feature. Go ahead and click that link when you're ready.
 
-Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349#/pages/?mode=i 
+Send link in chat: https://preview.uxpin.com/361636c369f65453b4880d1445911c4d9b869349#/pages/140027243/simulate/no-panels?mode=i
 
 Now please navigate back to Zoom and share your screen so I can follow along with you [Direct them to the 'Share content' button and 'Share screen' as needed].
 
