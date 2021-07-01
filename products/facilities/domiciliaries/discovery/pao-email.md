@@ -16,8 +16,13 @@ Are you available any day this or next week, from 10am - 11am eastern time, for 
 Thank you for your help!
 
 [NAME]
+
 VA.gov Facilities
+
 UX Researcher/Designer
+
 [VA EMAIL]
+
 [OTHER EMAIL]
+
 [PHONE]
