@@ -2,9 +2,10 @@
  	
 ## Goals	
 The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. We plan to test the following design concepts:
-- A new search landing page with links to other search tools
-- New links on the VA.gov home page that go to the new search landing page
-- New links on the search results page that go to other search tools
+1. A new search landing page that has links to other search tools
+1. A new link on the VA.gov home page near the "top 4" boxes that goes to the new search landing page (or starts a search)
+1. Search in the header goes to the new search landing page
+1. New links on the search results page go to other search tools
 
 Research findings (including how many participants clicked on which links) will be used to recommend which of the above design concepts might be helpful to users going forward, before we do more design exploration. 
 
@@ -35,24 +36,13 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 ![screen-flow-diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/Screen%20Flow%20Diagram%20for%20Search%20Prototype.jpg)
 
 ### Potential search tasks (that are not in the "top 4" boxes):
-1. Submit a statement from someone to help support your request for VA benefits (search for "statement" in site search or go to Find a form; this is top forms search #4--for form 21-4138)
-1. Get reimbursed for travel to medical appointment via direct deposit (search for "travel" or go to Resources and support)
-1. Find out if there is a VA hospital located near a specific city that you plan to visit (search for city name or go to Find a VA location)
-1. Find the form to appoint a representative to help with your disability claim (search or go to Find a form)
-1. *IDEAS FROM DENISE?*
+1. Submit a letter from someone to support your request for VA benefits (search for **"letter in support"** in site search or Find a form; this is top forms search #4--for form 21-4138 Statement in Support of Claim)
+1. Find out if there is a VA hospital in Knoxville, Tennessee (search for **"Knoxville TN"** in site search or go to Find a VA location)
+1. See if you can get college credit for your military service (search for **"college credit"** in site search or Resources & Support; this finds R&S article "How do I get college credits for my military service?")
 
 **Notes:**
 - We plan to show some *unhelpful* search results and see what participants do next (on the page they're looking at and/or navigating back to the home page).
 - We will likely need *a separate prototype for each task* so that search queries and search results can be different.
-
-### To Do's:
-- [ ] Cindy would like to provide input on Megan's design concepts for the search landing page, the search results page, and new links on the VA.gov home page. 
-  - [ ] Denise proposed a design workshop on design ideas for adding link(s) to home page (i.e., separate search box, above "top 4" boxes, below "top 4" boxes", inside all 4 "top 4" boxes)
-  - [ ] Shawna would like to be included in the discussion of the search results page (Denise, too?)
-- [x] Cindy will draft a flow diagram for the prototypes showing screens and clicks that navigate between them
-- [x] Denise will find out: *Do we need to work with VSP on these design concepts?*
-- [x] Denise/Megan: Rough timing for when design prototypes will be ready?
-- [ ] Cindy will consider combining this research with the Find a Form Downloading PDF research, if designs are ready at the same time
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
