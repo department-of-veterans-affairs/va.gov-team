@@ -50,7 +50,7 @@ Due to technical issues, not all participants were able to share their typical o
   - P1: Navigates quickly through pages with JAWS and may miss key content that isn't optimized for screen readers, e.g. 'skip to content' on VA.gov. 
   - P4: Post retirement diagnosis of Dyslexia means college graduation and endless bookists that can be tackled audibly on iPhone/iPad. Heavy reliance on dictation (spelling is challenging) with mic feature on iOS. Easier than Dragon. Now Siri.  _"I finally started using Siri, my grandson taught me this."_
    - P6: Dictating to Siri on iPhone while out and about > JAWS at home on desktop 
-   - P7: JAWS on desktop at home. Navigates for wife who's driving by memorizing directions or playing back dictation from his Victor Reader Stream. Liks VoiceOver but not comfortable using mobile with "all of the small taps".
+   - P7: JAWS on desktop at home. Navigates for wife who's driving by memorizing directions or playing back dictation from his Victor Reader Stream. Likes VoiceOver on mobile but hands don't work well with "all of the small taps".
    - P9: ZoomText to magnify content on websites can't locate items on a page when laid out far apart. Uses a high contrast keyboard to type.
    - P10: Starts with mobile, will transition to desktop for more involved tasks. Uses ZoomText with familiar websites and JAWS when unfamiliar. _"When I’m looking up a location a phone is more convenient and easier...The search feature, I don’t have to wait for it to boot up. Siri is there. Then I looked at it on my desktop computer to Google events." "JAWS can go through everything and it’s easier to find stuff if I’m unfamiliar with the website or the content. It helps me find things quicker."_
 
