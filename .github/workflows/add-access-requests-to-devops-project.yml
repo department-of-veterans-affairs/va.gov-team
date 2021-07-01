@@ -18,7 +18,6 @@ jobs:
       with:
        route: POST /projects/columns/14976794/cards
        mediaType: application/vnd.github.inertia-preview+json
-       output: |
-         note: ${{ github.event.issue.url }}
+       note: ${{ github.event.issue.url }}
       env:
         GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN}}
