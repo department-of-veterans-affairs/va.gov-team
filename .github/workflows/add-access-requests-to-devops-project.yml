@@ -1,0 +1,21 @@
+name: Auto-add Access Requests to devops project
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  assign-to-project:
+    runs-on: ubuntu-latest
+    name: Add card to project To-Do column
+    steps:
+    - name: Assign new issues to the project
+      if: |
+        github.event.action == 'opened' &&
+        (contains(github.event.issue.labels.*.name, 'ops-access-request')
+      uses: octokit/request-action@v2.1.0
+      with:
+       route: POST /projects/columns/14976794/cards
+       mediaType: application/vnd.github.inertia-preview+json
+       output: |
+         note: ${{ github.event.issue.url }}
