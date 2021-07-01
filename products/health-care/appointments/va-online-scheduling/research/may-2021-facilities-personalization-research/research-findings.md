@@ -12,7 +12,7 @@ The overall VAOS product goal for this work is to improve completion of the VA f
 
 We believe that if we surface only the facilities where the Veteran currently receives care, they will be able to find relevant facilities more easily and improve their chances of completing this step in the process.  
 
-![](https://lh6.googleusercontent.com/e8tk007CtsEknpmF9p-dbyXzZ7uPBMYSbDsTrFNJbfhYgARh6drcorEdu7G2CyY2GrI1AWaLibyLJGwpBGVyUuwvA1B7BZQqyovWyNDUpu0aTua_mOwNdU8qG8MjMxuQvgTjqfLJ)  
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-steps.png)  
 
 *Above: Chart showing facility selection page has the highest abandonment rate (33.11%) in the VAOS scheduling flow (data from request flow, April 1, 2021 - June 22, 2021)*
 
