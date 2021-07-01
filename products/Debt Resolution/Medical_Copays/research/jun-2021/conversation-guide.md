@@ -108,7 +108,7 @@ What we're looking at now is a potential tool on VA.gov. Since it's a prototype,
 * Now that you've seen your balance, what are your options for taking care of it?
 * If you wanted to pay your balance, what would you do next?
   * What would you expect to happen when you click that link?
-* If you wanted to request smaller payments, what would you do next?
+* If you wanted to request a waiver, what would you do?
   * What would you expect to see once you click that link?
 * Is there anything missing from this page that you would expect to see?
 
