@@ -349,7 +349,7 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 
 ## Resources
 
-- VAOS product outline
+- [VAOS product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md)
 - [Profile preferred facilites product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
 - [Research plan]()
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md)
