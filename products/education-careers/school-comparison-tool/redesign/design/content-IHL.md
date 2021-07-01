@@ -549,6 +549,12 @@ The number of closed, Principles of Excellence-related, complaints for schools w
 
 { end modal }
 
+{ Feedback tool link, right-alignted }
+
+[Submit a complaint through our Feedback System](https://www.va.gov/education/submit-school-feedback/introduction)
+
+{ end link}
+
 ## School locations
 
 Below are locations for { conditional: main campus name }. The housing estimates shown here are based on a full-time student taking in-person classes.  
