@@ -3,7 +3,7 @@
 
 # Domiciliary SME Discovery Interview
 
-#### Locations & Contacts
+### Locations & Contacts
 
 - **Philadelphia**
      - Location(s):
