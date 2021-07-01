@@ -11,7 +11,8 @@ jobs:
     steps:
     - name: Assign new issues to the project
       if: |
-        github.event.action == 'opened' &&
+        (github.event.action == 'opened' ||
+          github.event.action == 'labeled') &&
         contains(github.event.issue.labels.*.name, 'ops-access-request')
       uses: octokit/request-action@v2.1.0
       with:
