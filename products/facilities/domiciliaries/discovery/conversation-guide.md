@@ -66,7 +66,6 @@ Is it alright if I record? [Yes/no?]
 
 - How long have you worked at the facility?
 - Have you ever used the VA.gov website to see how your facility is represented?
-- If you were updating your website, what would be the first thing you would want people know?
 
 #### Questions
 
@@ -93,4 +92,7 @@ Is it alright if I record? [Yes/no?]
 
 ### Wrap-up
 
+- If you were updating your website, what would be the first thing you would want people know?
 - Is there anything else you think I should know, that might be useful for anyone visiting the facility?
+
+Thank you very much for helping us out!
