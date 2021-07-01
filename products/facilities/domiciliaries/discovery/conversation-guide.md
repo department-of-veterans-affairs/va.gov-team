@@ -1,27 +1,36 @@
 
 [Work-in-progress]
 
-# Domiciliary SME Discovery - [location]
+# Domiciliary SME Discovery Interview
 
 #### Locations & Contacts
 
-- Philadelphia
+- **Philadelphia**
+     - Location(s):
+          - [Philadelphia VA Domiciliary](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)
      - PAO contact(s):
           - Rita Chappelle, Rita.Chappelle@va.gov, 215-823-5916
           - Jonathan Hodges, Jonathan.Hodges@va.gov, 215-823-5916
      - SME contact(s):
           - [TBD]
-- Eastern Colorado (2 locations)
+- **Eastern Colorado (2 locations)**
+     - Location(s):
+          - [Denver VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
+          - [Valor Point VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)
      - PAO contact(s):
           - [TBD]
      - SME contact(s):
           - [TBD]
-- Houston [which Houston?]
+- **Houston** [Houston, TX?]
+     - Location(s):
+          - [Houston VA Domiciliary](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
      - PAO contact(s):
           - Maureen Dyman, Maureen.Dyman@va.gov, 713-591-2427
      - SME contact(s):
           - [TBD]
-- Jackson, MS
+- **Jackson, MS**
+     - Location(s):
+          - [Jackson VA Domiciliary](https://www.va.gov/jackson-health-care/locations/jackson-va-domiciliary/)
      - PAO contact(s):
           - Susan Varcie, Susan.Varcie@va.gov, 601-368-4477
      - SME contact(s):
@@ -36,6 +45,12 @@ My name is Nick Osmanski, and I work on the VA.gov Facilities product team. We a
 We want to gain a more accurate understanding of the various aspects of a person's experience while staying at a domiciliary locations, including a description of the facility, information about potential services provided, and anything else that would help us to better categorize the facility.
 
 We are not asking for any personal information beyond name and title, and we are not selling you anything.
+
+If you're comfortable, I would also like to record our call for note-taking purposes. The file will not be uploaded to any location, and will be deleted soon after our call.
+
+Is it alright if I record? [Yes/no?]
+
+[Confirm yes response on recording]
 
 #### About the SME
 
