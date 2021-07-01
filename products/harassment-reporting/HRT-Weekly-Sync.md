@@ -30,18 +30,18 @@ Today's Goals:
 2. Content Roundtable (Page content, definitions, term taxonomy)
 3. Design/UX Roundtable (Review user map/flows, UX, design mockups) 
 
-Review Item: Design Elements - Review User Map (user flow)  
+#### Review Item: Design Elements - Review User Map (user flow)  
   * User Flow Defined. 
   * Needs/Requests: Content for definitions (SA, SH, HO) 
   * Content needed for "Introduction Page" - Who will provide?
   * Clarity Requests: non-departmental anonymous state
-Discussion Item: Review "What is in Scope for MVP"
+#### Discussion Item: Review "What is in Scope for MVP"
   * DVSA Team will build landing page (Content help is needed will be long pole in plan)
-Discussion Item: Privacy and Security Updates - What's the latest (Update).
+#### Discussion Item: Privacy and Security Updates - What's the latest (Update).
   * Measure Impact - How does this affect prototype? 
-Technical Review:  Backend connections / Sharepoint 
+#### Technical Review:  Backend connections / Sharepoint 
   * How is the code affected by the new design?
   * Setup a Technical deep dive (considerations)
   * PR Code Review - Original Pull Request  
-Next Steps: Collaboration Cycle Checkin  
+#### Next Steps: Collaboration Cycle Checkin  
   * Design Intent Review - Once draft designs are finalized 
