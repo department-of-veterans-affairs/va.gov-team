@@ -46,12 +46,12 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 20% (~1.7k users)
 
 #### Results:
 - 10%
-- Date and time: 6/30/21, 230pm PT
+- Date and time: 6/30/21, 230pm PT - 
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
