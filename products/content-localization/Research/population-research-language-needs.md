@@ -40,6 +40,11 @@ The remainder spoke a wide range of languages, including:
 
 Reference: https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018#EnglishProficiency
   
+## Health equity information
+
+There's a wealth of information here:
+https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp
+
 ## VA.gov usability research findings
 
 What people are looking for on VA.gov:
