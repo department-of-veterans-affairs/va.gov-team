@@ -71,7 +71,13 @@ Our hypotheses were:
 
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+1. When asked where they would go to apply for a Certificate of Eligibility, the most frequently used location was the “download your benefit letters” link in the “ Records” quadrant. Two users found the COE landing page and two participants saw the COE links at the bottom of the letters screen. It seems participants connected the COE, which is a benefit document, with other benefits and expected they would be together on VA.gov.
+2. All five participants signed-in before seeing the subway map or reading the automatic COE content. One user did scroll to the bottom of the page, but only noted the estimated time to complete as useful after the moderator asked if there was any information on the screen that was useful. There was no indication that the user read any of the other content.
+3. All users understood that they had “received” or “found” their COE, even if they didn’t understand that they had been redirected from the intro to a standalone page. One user skipped the auto COE flow. Only one of the 4 participants that saw the auto COE seemed to understand that the auto COE was a different page. All four users on the auto COE screen found the COE download link and the PDF.
+4. All users *did* enter the form using the “apply” action link, but most stumbled over the labeling. Only one participant read the “make changes” text, but didn’t understand that they needed to “apply” to make the change. Additionally, most users recognized they linked from the auto COE screen back to the form.
+5. All users were confident of their choices on the “loan intent” screen, but all paused to talk through the options. Only one user felt there should be more info to clarify those options. Four of five participants proceeded successfully through the document uploader screen, though only one user clearly noted that they had seen the list of documents that needed to be uploaded. One participant missed the “What kind of document are you uploading?” dropdown and could not continue. One user said having to upload a DD214 would cause them to abandon the form. 
+6. Three participants said they would go to the benefits records page and one user expected a COE to be available in their logged in profile.
+
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
