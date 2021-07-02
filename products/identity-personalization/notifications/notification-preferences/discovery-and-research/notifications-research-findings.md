@@ -2,7 +2,7 @@
 
 VSA, Authenticated Experience
 
-Liz Lantz (liz.lantz@adhocteam.us), 06/28/2021
+Liz Lantz (liz.lantz@adhocteam.us), 07/02/2021
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md).
 
@@ -318,7 +318,46 @@ Adding a remove button next to edit on the personal and contact information page
 
 ## Next steps
 
-- Review findings with team to determine next steps
+We identified next steps specific to notification settings, and others that have impacts in other areas of the authenticated experience
+
+#### Notification settings
+
+- [ ] **Share findings and recommendations with VA Profile and VA Notify teams for awareness.** 
+  - This will ensure we all benefit from the knowledge gained in this study.
+  - We don't have the expectation that all the notifications participants mentioned in our study will become available, or that in the short term we can make any notification available by any channel. 
+  - Captured in issue [26913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26913)
+
+- [ ] **Develop an approach to orienting users to this new capability.**
+  - Our research shows profile may not be the first place Veterans look to manage notification settings. 
+  - Determine how to best introduce this new feature on VA.gov to Veterans so they manage their settings. Perhaps an onboarding approach?
+    - Onboarding may also be useful in helping Veterans understand some notifications are only available through one channel.
+  - Captured in issue [26946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26946)
+- [ ] **Consult with IA on the order of notification groups.** 
+  - Based on what we heard in this study, we should follow up on [IA feedback in our midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25679) to consider ordering groups by importance/prevalence. 
+  - Captured in issue [26921](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26921)
+- [ ] **Revisit the design for status messages and notification channels** 
+  - Explore ways to improve clarity and comprehension for 
+    - notification status messages
+    - the channels through which Veterans can receive notifications. 
+  - Work with our content team to ensure alignment on VA voice and tone.
+  - Captured in issue [25985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25985)
+- [ ] **Explore how we might enable Veterans to edit contact information within notification settings.**
+  - Post-launch activity; we'll establish some KPIs around this to track accordingly.
+  - We don’t think the existing modal solution offers the most intuitive or accessible UX for notification settings.  
+  - We’ll explore how we might allow Veterans to edit in place, while considering other uses cases on VA.gov that could help make this a reusable component.
+  - Captured in issue [26914](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26914)
+
+#### Other areas of the authenticated experience
+
+- [ ] **Move forward with changes to remove button in personal and contact information.** 
+  - Design will update documentation and mock-ups for this for FE implementation. 
+  - Captured in issue [23665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665)
+- [ ] **Evaluate how notifications overlap with action items**
+  - Regroup with Tressa + team to see where there is overlap (if any).
+  - Captured in issue [26949](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26949)
+- [ ] **Revisit how we are presenting login vs contact email address.**
+  - Explore ways to improve clarity and comprehension for the difference between login and contact email address, through both design and content. 
+  - Captured in issue [26950](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26950)
 
 ## Resources	
 
@@ -328,5 +367,5 @@ Adding a remove button next to edit on the personal and contact information page
 - [Prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049739/simulate/sitemap?mode=i)
 - Synthesis: [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/session-notes) and [affinity map](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
 - Presentations:
-  - [Complete findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-findings-readout.pdf)
+  - [Complete findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-findings.pdf)
   - [Sprint demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notification-settings-findings-readout-sprint-demo.pdf) 
