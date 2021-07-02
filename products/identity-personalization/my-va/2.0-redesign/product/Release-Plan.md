@@ -38,7 +38,7 @@ be behind a feature flag.
 4. Average Foresee score (note: we understand we can't get this in GA, so this would be if we eventually had a Domo dashboard)
 5. Tracking on My VA link in unauth nav
 
-My VA GA dashboard (link TK)
+[My VA GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_.useg=userM7_Smm-yRfKfrS43Bf0BZA,userhvR59z78SaeiIWkAtY2xIw/)
 
 ## Go Live!
 ### Planning:
