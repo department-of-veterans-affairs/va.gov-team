@@ -78,7 +78,7 @@ Click on the icon and then click on "Details" of any job to view its console out
 
 Every workflow run has a summary page where you can see a graph of the pipeline to track its progress.
 
-Each box or node in the graph represents a job or matrix of jobs with an icon to indicate status (pass, fail, in progress).
+Each box or node in the graph represents a job or matrix of jobs with an icon to indicate status (pass, fail, skipped, in progress).
 
 To get to this page, navigate to the [view with the job console outputs](#viewing-all-workflow-statuses-for-a-commit) and click on the workflow name or annotation icon.
 
@@ -98,7 +98,7 @@ Click on any matrix in the graph to expand and view the jobs in it. The job name
 
 #### Job dependencies
 
-Lines between jobs indicate dependencies. Jobs on the left of the line run before those on the right.
+Lines between jobs indicate dependencies. The order of execution is left-to-right; jobs on the right of the line depend on and run after jobs on the left.
 
 Hover over a job to highlight the jobs that it directly depends on and the jobs that directly depend on it.
 
@@ -124,7 +124,7 @@ To **re-run a workflow** that has failed, expand the dropdown to "Re-run jobs" a
 
 ## Troubleshooting
 
-In general, you may view the console log for details about any job execution.
+In general, you may view the console logs for details about any job execution.
 
 Some jobs provide additional information that may be useful for troubleshooting.
 
@@ -136,7 +136,7 @@ The linting job in the "Pull Request" workflow annotates any problematic areas i
 
 ### Unit tests
 
-Unit tests produce a "Unit Tests Summary" in the list of checks jobs the workflow.
+Unit tests produce a "Unit Tests Summary" in the list of jobs under the workflow.
 
 It contains the following information:
 - Number of tests run, skipped, and failed
