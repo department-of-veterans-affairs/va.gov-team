@@ -43,7 +43,7 @@ The Booz Allen team has been working on a re-design of the GI Bill Comparison To
 - All participants will need to access the session from a laptop or computer	
 
 Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+1. **Primary criteria / Must have**  
 
 Participants should either:
 
@@ -77,9 +77,10 @@ Military status of participants: - 3 non-Veteran beneficiaries (spouse or childr
 
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-- July 20th, 2021
 
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+ - July 20th, 2021
 ## Team Roles	
 - Moderator: Jen Jones; 843.214.6081; jones_jennifer2@bah.com
 - Research guide writing and task development (usually but not always same as moderator): Booz Allen UX team
