@@ -55,14 +55,14 @@ Scholarships (excluding Pell Grants) ([Learn more]()) { input field, numeric inp
 
 { name of selected program }
 
-**Tuition & fees:  $X,XXXX **
+**Tuition & fees:  $X,XXXX**
 
 VA pays to provider: ([Learn more]()) $X,XXX
   Upon enrollment in program (25%):  $X,XXX
   Upon completion of program (25%):  $X,XXX
   Upon employment (50%):  $X,XXX
   
-**Out of pocket tuition: $X,XXXX **
+**Out of pocket tuition: $X,XXXX**
 
     { VA pays to provider modal }
 
