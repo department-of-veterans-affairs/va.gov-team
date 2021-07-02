@@ -27,12 +27,26 @@
 
 ## July 2
 
-  * Reminder of Leadership Listing pages content freeze during Sprint 51. CMS team will make URL changes early Sprint 36. 
+  * Reminder: no new Leadership Listing pages during Sprint 51. CMS team will make URL changes early Sprint 36. 
   * Operating Status page changes - Menu required.  What is the new SOP.
-  * LGBTQ+ 
-  * VAM - Full Production/Go Live Schedule - Proposed 
+    * Create menu item then disable.
+  * Health service migrations  
+    * Changing "LGBT Veteran care" to "LGBTQ+ Veteran care" -- Done July 2
+    * VAMC upgrade team will change this in next round of data to be imported. 
+    * Dave and Stan to discuss any needed changes to the Facility System Health Service descriptions. Field will be updating existing content. 
+  * CMS action: add confirmation step to bulk publishing
+  * VAMC - Full Production/Go Live Schedule - Proposed 
+    * Tracked down the redirects to a Teamsite change that need to happen, documenting that process. 
+    * F5 redirects can be a 2-8 week process. Public Websites will still be triaging the redirect approach.
+    * Endpoints for first 3 VAMCs removed last Tuesday, field will be updating facility operating status in two places.  
+    * Erie dropped out of next weeks launch 
+    * July 21 (approved): Northern California, Coatesville, Minneapolis, 	St. Cloud 
+    * July 28t (proposed), Syracuse, Butler, Salt Lake City, New Jersey
+    * CMS to create 8 PRs for these. 
   * Communication plan to field when changes are made to CMS - current experience is creating backlash to CMS support desk and VAMC
     * Example, During Production Q&A this week, field had experiencing change and VAMC was unaware of changes or how to communicate them.
+    * We can use this meeting to talk about upcoming changes.  
+
 
 ## June 25
 
