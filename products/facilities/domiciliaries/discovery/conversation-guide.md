@@ -43,7 +43,22 @@
  - **Minnesota**
      - [See brochure link](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
 
-## Intro
+## PAO Interview
+
+Thanks for speaking with me today. The purpose of this meeting is to ask some general questions about domiciliary facilities in your region, and also, to get pointed in the direction of any managers etc. on site, who I could speak to for a brief interview to gain some high-level information about the site itself.
+
+- How many domiciliaries are there in your region?
+- Examples of what we're trying to find out:
+    - What range of services are provided, and at what times.
+    - What the referral process is like.
+    - Is the facility free-standing or a floor or wing of a building?
+- Who could I speak to on-site that could answer questions like these?
+
+- We're also looking into Community Living Centers to update their site as well.
+
+## Domiciliary SME Interview
+
+### Intro
 
 Hello, thank you for speaking with me today.
 
@@ -58,7 +73,7 @@ If you're comfortable, I would also like to record our call for note-taking purp
 Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 
 
-#### About the SME
+### About the SME
 
 - Name: 
 > 
@@ -66,7 +81,7 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 > 
 - Location (region/system): 
 
-## Interview
+### Interview
 
 ### Warm-up
 
