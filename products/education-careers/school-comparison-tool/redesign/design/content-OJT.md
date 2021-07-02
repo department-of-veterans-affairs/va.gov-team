@@ -178,3 +178,80 @@ Months 13-18: $XX/mo
 Months 19-24: $XX/mo
 
 { end grey box for Estimated benefits }
+
+## Cautionary information
+
+### Student feedback
+
+* NN student complaints in the last 24 months ([Learn more])
+
+        { Student complaints modal }
+
+        #### Student complaints
+
+        This is the number of closed, Principles of Excellence-related, complaints submitted to VA through the GI Bill Feedback system for this school.
+
+        To learn more visit the [VA GI Bill Feedback Tool](https://www.benefits.va.gov/GIBILL/Feedback.asp).
+
+        { end Student complaints modal }
+
+{ Table showing student complaints for "This campus" and "All campuses" if applicable }
+
+        { All campuses modal }
+
+        #### VA Complaints (all campuses):
+
+        The number of closed, Principles of Excellence-related, complaints for schools with the same six-digit OPEID code.  
+
+        { end All campuses modal }
+
+{ Feedback tool link, right-alignted }
+
+[Submit a complaint through our Feedback System](https://www.va.gov/education/submit-school-feedback/introduction)
+
+{ end link}
+
+## Contact information
+
+Physical address {list physical address}
+
+Mailing address {list mailing address}
+
+
+### School certifying officials
+
+#### Primary 
+
+{ list all primary SCOs}
+
+### Institution codes
+
+VA Facility Code  [Learn more](): { dynamic display }
+
+        { VA Facility code modal }
+
+        #### VA facility code
+
+        Unique identifier for VA-approved facilities.
+
+        { end VA Facility code modal }
+
+ED IPEDS code [Learn more](): { dynamic display }
+
+        { IPEDS code modal }
+
+        #### ED IPEDS code
+
+        Unique identification number assigned to postsecondary institutions surveyed through the Integrated Postsecondary Education Data System (IPEDS). Also referred to as UNITID or IPEDS ID.
+
+        { end IPEDS code modal }
+
+
+ED OPE code [Learn more](): { dynamic display }
+
+        { OPE code modal }
+
+        #### ED OPE code
+        Identification number used by the U.S. Department of Education’s Office of Postsecondary Education (OPE) to identify schools that have Program Participation Agreements (PPA) so that its students are eligible to participate in Federal Student Financial Assistance programs under Title IV regulations.
+
+        { end OPE code modal }
