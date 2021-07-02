@@ -189,7 +189,7 @@ Months 19-24: $XX/mo
 
 ### Student feedback
 
-* NN student complaints in the last 24 months ([Learn more]())
+NN student complaints in the last 24 months ([Learn more]())
 
         { Student complaints modal }
 
