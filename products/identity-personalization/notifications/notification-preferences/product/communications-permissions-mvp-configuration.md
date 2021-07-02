@@ -11,4 +11,10 @@ As of Q2 2021, the following items, groupings and channels were agreed upon for 
 | Prescription shipment and tracking updates |	Your health care | Text | Yes |  Notifications (via SMS) to alert Veterans their prescriptions have shipped from the local VA facility.  The notification includes the tracking link.  This is currently a pilot that is only live at two VAMCs (Denver and Asheville). Not sure when it will be live at others but working through funding now. | Only show this to people registered at participating facilities |
 
 
-
+## Items NOT Included in MVP
+| Communication Item | Group Name | Channels | For MVP | Description | Notes/Open questions|
+|--------------------|------------|----------|---------|-------------|---------------------|
+| Debt Notifications | 	VBA - Debt Management |	Email	| No |  | Not including this since it’s a transactional message; something automatically sent from the call center|
+| General Information and Updates |	VA - General | Email/text	| No |	 | Not including per Paras |
+| Maybe a COVID-19 related text? | VA - General | Text | No |   | Not including per Paras |
+| Health Care Appointment Reminder | Health Care - Appointments |	Mobile push	| No |   | Not including push notifications at this time|
