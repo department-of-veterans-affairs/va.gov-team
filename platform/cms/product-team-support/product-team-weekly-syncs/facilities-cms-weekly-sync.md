@@ -27,6 +27,11 @@
 
 * Review of Centralized content API and FE changes 
 
+Request for "District  level user" role
+- initiated by District 5 (Vet Centers)
+- User story: _As a District  level user, I can view/edit/publish content for Vet Centers in my district so that I can assist my counterparts or cover absences._
+- Volunteer role (not every user in District 5)
+
 Vet Center overall workflow about review
  * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
  * Future: Discuss July 6
