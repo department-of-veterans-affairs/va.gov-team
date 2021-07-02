@@ -12,13 +12,13 @@
 | ------------- | ------------- |
 | BAH/Education Application   | Authenticated Experience - VSA  |
 | Claims & Appeals - VSA  | Caregivers - VSA  |
-|  Design System  | Content & Localization - VSA  |
-| eBenefits - VSA  | Debt Resolution - VSA  |
-| Facilities - VSA   | Decision Tools - VSA  |
-| Sitewide Content - VSA   | Digital GI Bill (DGIB) Team  |
-| VAMC - VSA   | Healthcare Experience - VSA  |
-| Virtual Agent  | Public Websites - VSA  |
-|   | Search & Discovery - VSA  |
+| Contact Center   | Content & Localization - VSA  |
+| Design System  | Debt Resolution - VSA  |
+| eBenefits - VSA   | Decision Tools - VSA  |
+| Facilities - VSA   | Digital GI Bill (DGIB) Team  |
+| Sitewide Content - VSA   | Healthcare Experience - VSA  |
+| VAMC - VSA  | Public Websites - VSA  |
+| Virtual Agent  | Search & Discovery - VSA  |
 |   | VAOS  | 
  
  
