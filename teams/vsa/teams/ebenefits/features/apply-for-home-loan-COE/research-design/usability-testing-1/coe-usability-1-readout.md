@@ -6,31 +6,68 @@ James Adams ([email](mailto:jadams@governmentcio.com)), Candy Clark ([email](mai
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md).
 
 ## Research Goals 
-
-The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form.
+The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form, including:
+- Where do users expect to find the COE tool?
+- How do users feel about the “automatic COE” feature?
+- What do users expect regarding future availability of their COE?
+- What barriers prevent users from easily applying for a COE?
+- Where does confusing language prevent users from understanding the form?
+- What other features or content would help users when they apply for a COE?
 
 ## Research Methodology 
 
-Description of method chosen
+We conducted moderated task-based user research sessions via Zoom June 14-21, 2021. Each session was approximately 45 minutes long and consisted of a few warm up questions, a wayfinding task on va.gov, and three tasks within a UXPin prototype. This allowed us to explore veteran expectations and understanding of the COE process and usability of the form.
+
+Our hypotheses were:
+- Users will initially look for a direct link in the whit quadrant on the home page; many will locate COE landing page after several steps
+- The form itself will be relatively easy for users to navigate
+- Biographical, contact and service language will be clear to most users; the language around loan options and COE intent will be somewhat confusing
+- Users will expect their COE to be available in various ways: physical letter, email, printed, and/or within an authenticated profile/dashboard
+- Users will ask for directly available information (chat, direct phone, lookups) about the COE, lenders and /or realtors
+
 
 ### Who we talked to
 
-Description of who was spoken to.
+- 5 Veterans
+- Gender:
+  - Female: 2
+  - Male: 3
+- Devices used during study:
+  - Desktop: 5
+- Age:
+  - 35-44: 2
+  - 45-54: 2
+  - 65-75: 1
+- Education:
+  - AA: 3
+  - College (no degree): 1
+  - Doctorate degree: 1
+- Geographic locations:
+  - Florida: 1
+  - North Carolina: 1
+  - Tennessee: 1
+  - Texas: 2
+- Familiar with COE:
+  - Yes: 3
+  - No: 2
+
 
 ### Research Questions
 
-Research questions here
+- Where do users expect to find the COE tool?
+- How do users feel about the “automatic COE” feature?
+- What do users expect regarding future availability of their COE?
+- What barriers prevent users from easily applying for a COE?
+- Where does confusing language prevent users from understanding the form?
+- What other features or content would help users when they apply for a COE?
 
 ## Key Findings
-The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
-
-1. Finding one
-2. Finding two
-3. Finding three
-4. Finding four
-5. Finding five
-6. Finding six
-7. Finding seven
+1. Participants expected to be able to access the COE feature through the “Records” white quad on the va.gov homepage.
+2. The sign-in widget distracted users from reviewing intro screen content.
+3. Participants accepted the auto COE presentation and functionality.
+4. It was not clear to all users that they needed to “apply” to make changes.
+5. Loan intent and document upload panels slowed users down.
+6. Participants had varying ideas of where they’d find their COE when complete.
 
 
 ## Details of Findings
