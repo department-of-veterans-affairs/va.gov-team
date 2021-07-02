@@ -58,7 +58,7 @@ CLP
 * CMS help center / knowledge base
   * Product landing pages in Knowledge base
   * Product intent / strategy documentation from Product teams, for polishing (and support from) CMS team 
-  * Jane will share Natalie's draft pages from Fall 2020 to John.  
+  * Jane will share Natalie's draft pages from Fall 2020 to John. https://prod.cms.va.gov/node/15138
 * viewport_width image derivative now available - may make lazyloading less of a priority. 
 
 Redirects
