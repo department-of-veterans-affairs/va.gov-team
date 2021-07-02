@@ -2,7 +2,7 @@
 
 # Name of VET TEC Provider
 
-Preferred Provder [Learn more]()) { as applicable }
+Preferred Provider [Learn more]()) { as applicable, includes icon }
 
   { Preferred Provider modal }
 
@@ -99,5 +99,26 @@ Online monthly rate: $XXX
 
 ## Getting started with benefits
 
+### What types of training does VET TEC cover?
+You can get training in one of these high-demand training areas:
 
+* Computer software
+* Computer programming
+* Data processing
+* Information science
+* Media applications
+
+### What benefits can I get through this program?
+With VET TEC, you can get:
+
+* Tuition for a full-time high-tech training program
+* Money for housing during your training
+
+**Note:** If you're on active duty, you're not eligible to receive a housing allowance.
+
+**If you attend your training program in person,** your housing stipend will be equal to the monthly military Basic Allowance for Housing (BAH) for an E-5 with dependents. This is based on the zip code where you attend your training.
+
+**If you participate in an online program,** your stipend will be half of the BAH national average for an E-5 with dependents.
+
+**Note:** If you don’t attend a training for a full month, we’ll prorate your housing payment for the days you train.
 
