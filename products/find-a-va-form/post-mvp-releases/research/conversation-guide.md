@@ -60,82 +60,72 @@ Let’s start with a few questions...
 - What kind of a device is it? *(Windows / Mac / iPhone / Android)*
 - Have you ever looked online for VA forms? 
   - If yes, can you describe the last time you did that? 
-    - what looking?
+    - what looking for?
     - where went?
     - how recently? 
     - on what device(s)--computer, tablet, or smartphone? 
 
+## Screen sharing
+I would like you to share your screen with me so I can watch you go to a specific web page. I'll need to see only a blank web browser window for now.
+*(refer to Screen sharing instructions above, if needed)*
+
+What kind of device are you using today? *(Phone / Tablet / Computer)*
 
 ## Veteran Tasks
-Imagine you learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to imagine you are completing each one to submit to the VA. I'll have you start from a website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
+Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
 
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Form 10-2850c--most downloaded, has digital signature] - 5 minutes
-I would like you to get form 10-2850c.
+Say that someone from the VA asked you to fill out form **10-2850c**, and they said that you could find it online. How would you start?
 
 - Please talk me through what you're doing.
-- *After they open the form:* What do you see here?
-- I'd like you to start filling it out. (type something into one of the fields)
+
+- *If they need prompting...After they open the form:* What do you see here?
+- I'd like you to start filling it out. 
+  - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
+  
   - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD any reactions to the form auto-downloading:* ________________
+  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
+  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
   - *RECORD whether opened form in Acrobat: yes / no / help needed*
   - *RECORD whether able to fill out form: yes / no / help needed*
-- You don't have time to fill it all out now, and so you want to continue later. What would you do?
+ 
+- What would you do if you wanted to continue filling out this form later? 
   - *RECORD whether able to save form: yes / no / help needed*
-- Now you're ready to finish filling out the form. (type something into another field)
+ 
+- Now assume that the form is completely filled out. What would you do now? 
   - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+- What are your thoughts about the process of filling out this form? 
 
 ### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
-I would like you to get form 10-0003k.
+The person at the VA also asked you to fill out a second VA form: **10-0003k**. You can find it online. What would you do?
 
-- Please talk me through what you're doing.
-- *After they open the form:* What do you see here?
-- I'd like you to start filling it out. (type something into one of the fields)
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
-- You don't have time to fill it all out now, and so you want to continue later. What would you do?
-  - *RECORD whether able to save form: yes / no / help needed*
-- Now you're ready to finish filling out the form. (type something into another field)
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
+COPY FROM ABOVE
 
 ### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
-I would like you to get form 20-0968.
+I have a third VA form for you to find and fill out: **20-0968**.
 
-- Please talk me through what you're doing.
-- *After they open the form:* What do you see here?
-- I'd like you to start filling it out. (type something into one of the fields)
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
-- You don't have time to fill it all out now, and so you want to continue later. What would you do?
-  - *RECORD whether able to save form: yes / no / help needed*
-- Now you're ready to finish filling out the form. (type something into another field)
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
+COPY FROM ABOVE
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
-I would like you to get form 20-0995.
+And there's one last form for you to find and fill out: **20-0995**.
 
-- Please talk me through what you're doing.
-- *After they open the form:* What do you see here?
-- I'd like you to start filling it out. (type something into one of the fields)
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
-- You don't have time to fill it all out now, and so you want to continue later. What would you do?
-  - *RECORD whether able to save form: yes / no / help needed*
-- Now you're ready to finish filling out the form. (type something into another field)
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
+COPY FROM ABOVE
 
   
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-- What do you *like* about what you've seen today?
-- What do you *dislike* about what you've seen today?
+
+- What did you *like* about what you've seen today?
+- What did you *dislike* about what you've seen today?
 - What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
+
 - *RECORD assessment of technical expertise: expert / in between / not expert
 
 
