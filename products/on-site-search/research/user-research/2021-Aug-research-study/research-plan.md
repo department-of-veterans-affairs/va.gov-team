@@ -36,7 +36,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 ![screen-flow-diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/Screen%20Flow%20Diagram%20for%20Search%20Prototype.jpg)
 
 ### Potential search tasks (that are not in the "top 4" boxes):
-1. In order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury. This might be someone you served with or a friend or family member. (search for **"letter in support"** in site search or Find a form; this is top forms search #4--for form 21-4138 Statement in Support of Claim)
+1. In order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury. (search for **"letter in support"** in site search or Find a form; this is top forms search #4--for form 21-4138 Statement in Support of Claim)
 1. Find out if there is a VA hospital in Knoxville, Tennessee (search for **"Knoxville TN"** in site search or go to Find a VA location)
 1. See if you can get college credit for your military service (search for **"college credit"** in site search or Resources & Support; this finds R&S article "How do I get college credits for my military service?")
 
