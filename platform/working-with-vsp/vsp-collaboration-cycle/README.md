@@ -75,8 +75,21 @@ This is Platform's source of truth for which Collaboration Cycle touchpoints are
 * [Platform QA Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance)
 
 #### Accessibility
-* Accessibility Support: Trevor Pierce & Noah Gelman
+* Accessibility Support: Trevor Pierce & Noah Gelman (see table below for teams)
 * [Platform Accessibility Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
+
+| Trevor	  | Noah |
+| ------------- | ------------- |
+| BAH/Education Application   | Authenticated Experience - VSA  |
+| Claims & Appeals - VSA  | Caregivers - VSA  |
+| Contact Center   | Content & Localization - VSA  |
+| Design System  | Debt Resolution - VSA  |
+| eBenefits - VSA   | Decision Tools - VSA  |
+| Facilities - VSA   | Digital GI Bill (DGIB) Team  |
+| Sitewide Content - VSA   | Healthcare Experience - VSA  |
+| VAMC - VSA  | Public Websites - VSA  |
+| Virtual Agent  | Search & Discovery - VSA  |
+|   | VAOS  | 
 
 #### Product
 * Product Support: Shira Goodman
