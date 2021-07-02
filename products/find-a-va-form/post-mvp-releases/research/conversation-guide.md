@@ -79,7 +79,7 @@ Imagine that you just learned that you can complete VA forms electronically. Iâ€
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Form 10-2850c--most downloaded, has digital signature] - 5 minutes
-Say that someone from the VA asked you to fill out form **10-2850c**, and they said that you could find it online. How would you start?
+Say that someone from the VA asked you to fill out form **10-2850c**, and they said you could find it online. How would you start?
 
 - Please talk me through what you're doing.
 
