@@ -40,13 +40,29 @@
 
 CLP
 * governance 
-  * Updates
+  * Tim: idea to put governance in the hands of Gary H and Josh T at OPIA (web governance board), which has comms teams from each admin
+  * yesterday VHA said it wouldn't be ideal, it only meets once a month. 
+  * John meeting with with Tim and Gary next week
+  * 
+
+
+
+* Updates 
   * Scenarios for CMS
 * metatags 
+  * Kelson will write liquid filter to transform title and og:title metatags to Initial case 
+    * CMS can help with some QA, based on a diff from Kelson
+  * CMS team
+    * OG:image support for CLP 
+    * remove extra pipe in CLP and other content, like Florence VA Clinic, R&S pages. Goes back at least 6 weeks. 
 * CMS help center / knowledge base
+  * Product landing pages in Knowledge base
+  * Product intent / strategy documentation from Product teams, for polishing (and support from) CMS team 
+  * Jane will share Natalie's draft pages from Fall 2020 to John.  
+* viewport_width image derivative now available - may make lazyloading less of a priority. 
 
 Redirects
-* Leadership URLs
+* Leadership URLs -- coming in next week 
 
 
 ## June 23 
