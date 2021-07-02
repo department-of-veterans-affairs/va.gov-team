@@ -69,28 +69,31 @@ I would like you to share your screen with me so I can watch you using a prototy
 What kind of device are you using today? *(Phone / Computer)*
 
 ## Veteran Tasks
-I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some areas of the screen will be clickable, and some will not. Before you click anywhere, I would like you to tell me what you plan to do, and then I'll tell you when it's OK to click.
+I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
 I will share the link to the prototype in the Zoom chat. *COPY LINK TO CHAT* Do you see the link? 
-- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls. 
+- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls. NEED TO ADD MORE INSTRUCTIONS HERE
 
 While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-### Task 1: [Submit statement from someone to support your benefits request - Form 21-4138] - 5 minutes
-Have you ever submitted a note from someone to support your request for disability compensation? If so, how did you do this? If not, how might you do this?
-Can you look at the page in your web browser and tell me what you might do--but don't click/tap anywhere yet.
+### Task 1: [Submit letter in support of your claim - Form 21-4138] - 5 minutes
+Let's say that in order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury.
 
-- *RECORD where want to click/tap: Search in header / Can't find what looking for in "top 4" boxes / VA forms / Other________________________* 
+Have you ever done this before? (Y / N) If so, how did you do this? If not, how might you do this?
+
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / Other________________________* 
 
 What would you expect to happen?
 
-Now go ahead and click/tap.
+Now go ahead and try it.
 
-Before you click/tap anywhere, what do you think you can do on this page? 
+Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
 
-- *RECORD search query typed:*
+- *RECORD search query typed:* _____________________________
 
 Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you typed--"XYZ".
 
