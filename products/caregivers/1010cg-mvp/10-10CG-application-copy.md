@@ -427,7 +427,7 @@ Do you have a legal representative document you’d like to share with us?
 
 What types of documents does VA accept to show legal representation? _(more info)_
 
-First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review your documents with you after you apply.
+First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review the documents during the application process.
 
 We accept these documents:
 - Veteran guardianship, **or**
@@ -437,7 +437,7 @@ We may accept these documents, depending on the requirements where you live:
 - Power of attorney for the Veteran, **or**
 - Health care power of attorney for the Veteran
 
-Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
+Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don't accept these documents as a way to show legal representation:
 - Marriage or driver's licenses
 - Release of Information forms or fiduciary program documents
 - Medical or VA benefit records
@@ -465,7 +465,7 @@ Follow these guidelines when you upload your document:
 
 What types of documents does VA accept to show legal representation? _(more info)_
 
-First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review your documents with you after you apply.
+First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review the documents during the application process.
 
 We accept these documents:
 - Veteran guardianship, **or**
@@ -475,7 +475,7 @@ We may accept these documents, depending on the requirements where you live:
 - Power of attorney for the Veteran, **or**
 - Health care power of attorney for the Veteran
 
-Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don’t accept these documents:
+Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don't accept these documents as a way to show legal representation:
 - Marriage or driver's licenses
 - Release of Information forms or fiduciary program documents
 - Medical or VA benefit records
