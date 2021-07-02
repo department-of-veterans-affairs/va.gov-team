@@ -33,7 +33,7 @@
      - Location(s):
           - [Jackson VA Domiciliary](https://www.va.gov/jackson-health-care/locations/jackson-va-domiciliary/)
      - PAO contact(s):
-          - ~~Susan Varcie, Susan.Varcie@va.gov, 601-368-4477~~[RETIRED]
+          - ~~Susan Varcie~~[RETIRED], Susan.Varcie@va.gov, 601-368-4477
      - SME contact(s):
           - [TBD]
  - **Seattle, WA**
