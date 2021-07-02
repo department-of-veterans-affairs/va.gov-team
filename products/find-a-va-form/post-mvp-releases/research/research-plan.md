@@ -26,7 +26,7 @@ In addition, we suspect that users who are less proficient with technology may e
 
 ## Hypotheses
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
-- The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitially sign PDF forms. 
+- The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
 - The new instructions will alleviate issues with forms that have different download behaviors.
 
 ## Method	
