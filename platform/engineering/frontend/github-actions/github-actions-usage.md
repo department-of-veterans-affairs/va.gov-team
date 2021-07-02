@@ -108,7 +108,7 @@ The lines can sometimes overlap, making the dependency graph unclear. The relati
 
 ### Viewing workflow runs with the GitHub CLI
 
-You may use the `gh` command line tool to interact with workflow runs.
+You may use the `gh` [command line tool](https://cli.github.com/) to interact with workflow runs.
 
 With `gh run list`, you get a list of the most recent workflow runs and their IDs, which can be passed as an argument to the other commands.
 
