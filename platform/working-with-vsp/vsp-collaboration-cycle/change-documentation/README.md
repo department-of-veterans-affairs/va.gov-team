@@ -5,14 +5,21 @@
 - **Design Intent, Midpoint Review, and Staging Review templates updated.** Templates have been updated to reflect that Staging Reviews can only be scheduled on Thursday during the 1:30pm and 2:00pm time slots. Design Intent and Midpoint Review templates have also been updated to reflect that these touchpoints can only be scheduled on Monday, Tuesday, or Friday.
 
 ### June 27, 2021 
-- **Design Intent template and touchpoint updated.** Accessibility specialists will be temporarily removed from Design Intent’s - both VSA teams and non-VSA teams. Accessibility specialists will no longer both support the same Collab Cycle Reviews. See list below.
+- **Design Intent template and touchpoint updated.** Accessibility specialists will be temporarily removed from Design Intent’s. Accessibility specialists will no longer both support the same Collab Cycle Reviews. See table below.
 
-- Trevor	
-   - Claims & Appeals, Contact Center, Design System, eBenefits, BAH/Education Application, Facilities, Sitewide Content, VAMC, Virtual Agent	
 
-- Noah
-   - Digital GI Bill (DGIB) Team, VAOS
-   - (**VSA teams**) Authenticated Experience, Caregivers, Content & Localization, Debt Resolution, Decision Tools, Healthcare Experience, Public Websites, Search & Discovery
+| Trevor	  | Noah |
+| ------------- | ------------- |
+| BAH/Education Application   | Authenticated Experience - VSA  |
+| Claims & Appeals - VSA  | Caregivers - VSA  |
+|  Design System  | Content & Localization - VSA  |
+| eBenefits - VSA  | Debt Resolution - VSA  |
+| Facilities - VSA   | Decision Tools - VSA  |
+| Sitewide Content - VSA   | Digital GI Bill (DGIB) Team  |
+| VAMC - VSA   | Healthcare Experience - VSA  |
+| Virtual Agent  | Public Websites - VSA  |
+|   | Search & Discovery - VSA  |
+|   | VAOS  | 
  
  
 
