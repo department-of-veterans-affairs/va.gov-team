@@ -320,7 +320,7 @@ Also consider showing Veterans how to communicate and schedule with providers th
 
 The Veterans we spoke to had no expectation of seeing only registered facilities in VAOS, and by asking them to manage the facility list we are actually increasing the cognitive load required to remember to find and update these settings changed during an already stressful time of changing health care providers. As a result, we don’t think it makes sense to forward with designs tested in our study.  
 
-### **Consider other ways to support Veterans who have moved or travel regularly**
+### **Consider other ways to support Veterans who have moved or travel regularly**.
 
 Throughout all sessions, participants talked about the importance of location when finding access to care, and many participants cited travel as a potentially valuable use for the prototype they were shown. 
 
@@ -332,7 +332,7 @@ The current tools we offer Veterans to find facilities by particular locations, 
 
 We recommend more research in this area to understand how our current tools support the needs of this Veteran population, understand if there are any problems as a result, and identify use cases that offer us an opportunity to provide better support. There’s a specific [program for traveling Veterans](https://www.va.gov/healthbenefits/news/VA_offers_seamless_care_for_traveling_veterans_or_veterans_seeking_care_at_an_alternate_va.asp). We recommend speaking to Veterans in this program, as well as [Veterans living abroad](https://expatresearch.com/files/4915/0501/3576/McNulty_Fisher_Hicks_and_Kane_2014_-_Military_Expatriates-US_Veterans_Living_Abroad_The_Civilian_Lives_of_U.S._Veterans_Part_2.pdf)).
 
-### **Consider ways to reduce Veteran frustration when calling to schedule**
+### **Consider ways to reduce Veteran frustration when calling to schedule**.
 
 As we’ve heard in previous research and user feedback, one of the most frustrating situations in VAOS is when we direct the Veteran to call to schedule their appointment because the facility they selected doesn’t support online scheduling. We think the following approaches would improve the Veteran experience when they need to call to schedule:
 
@@ -346,15 +346,13 @@ As we’ve heard in previous research and user feedback, one of the most frustra
 - Don’t offer online scheduling for the given type of care, so the Veteran has to call to schedule.  
 - Use this information to identify any patterns that may exist between facilities that are not commonly available.
 
-### Revisit the design of the profile mobile menu
+### Revisit the design of the profile mobile menu.
 
-Since the majority of participants didn’t intuitively use the profile menu, we recommend evaluating the current design to determine if it needs to be redesigned.   
+Since the majority of participants didn’t intuitively use the profile menu, we recommend evaluating the current design to determine how we might make it easier for Veterans to use.   We might be better off using the existing [side nav component](https://design.va.gov/components/sidenav) (used on benefit hub pages) from our design system, or making changes to our current design.
 
-- Analytics data can be pulled to compare mobile vs desktop usage of profile navigation and identify any discrepancies that may suggest Veterans are having a hard time using it. 
-- Our moderated methodology may have impacted participant usage; consider an unmoderated study to evaluate if the current design works for Veterans as they go through a natural task.  
-- Alternatively, since this component is used on other pages of VA.gov, we could glean insights on how usable this component is by looking at those pages.
-
-
+- Analytics data can be pulled to compare mobile vs desktop usage of profile navigation and identify any discrepancies that may suggest Veterans are having a hard time using it. We can also look at analytics for pages on VA.gov using the side nav component, which has similar but different functionary than our profile mobile menu.
+- Our moderated methodology may have impacted participant usage; consider an unmoderated study to evaluate how the 2 side navigation mobile menus works as Veterans go through a natural task.  
+- We should look into any research available on the side nav component to see what other teams have learned. This study is the first time this mobile menu pattern has been evaluated, so there isn't anything specific to this component we can refer to.
 
 ## Next steps
 
@@ -367,9 +365,9 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 ### VAOS team
 
 -  Determine if we can surface a Veteran's current: 
-    -   Primary care **facility**
-    -   Primary care **provider or PACT**
-- Improve the UX for selecting how facilities are sorted as a first step toward determining if the sorting options meet user needs.
+   -   Primary care **facility**
+   -   Primary care **provider or PACT**
+-  Improve the UX for selecting how facilities are sorted as a first step toward determining if the sorting options meet user needs.
 
 ## Resources
 
