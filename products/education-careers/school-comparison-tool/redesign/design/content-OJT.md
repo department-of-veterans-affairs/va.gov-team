@@ -173,7 +173,7 @@ Months 13-18: $XXX/mo
 
 Months 19-24: $XXX/mo
 
-#### Book stipend ([Learn more]9https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend))
+#### Book stipend ([Learn more](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend))
 
 Months 1-6:  $XX/mo
 
