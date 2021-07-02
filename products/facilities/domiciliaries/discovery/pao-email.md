@@ -17,14 +17,12 @@ Are you available any day next week, from 10am - 11am eastern time, for an infor
 
 Thank you for your help!
 
-[NAME]
+---
 
-VA.gov Facilities
+[After getting a repsonse]:
 
-UX Researcher/Designer
+How is [date/time & time zone]? Our conversation shouldn't take longer than a half hour, if that works for you.
 
-[VA EMAIL]
+I'm looking for information about the domiciliary facilities in your region, as well as administrators or managers working on site that I might be able to speak to. If you have any more questions for me about this project, please don't hesitate to ask, but otherwise, I'll speak to you next week.
 
-[OTHER EMAIL]
-
-[PHONE]
+Thanks again
