@@ -366,11 +366,10 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 
 ### VAOS team
 
-- Explore how we can surface a Veteran's primary care physician information.
-
-- 
-
-  
+-  Determine if we can surface a Veteran's current: 
+    -   Primary care **facility**
+    -   Primary care **provider or PACT**
+- Improve the UX for selecting how facilities are sorted as a first step toward determining if the sorting options meet user needs.
 
 ## Resources
 
