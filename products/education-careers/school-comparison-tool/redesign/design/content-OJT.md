@@ -187,6 +187,33 @@ Months 19-24: $XX/mo
 
 **Note:** Housing rate and the amount of entitlement used decrease every 6 months as employer pay increases ([Learn more](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/))
 
+## Getting started with benefits
+
+### How do I prepare before starting my application?
+
+* [Find out if you're eligible for VA education benefits]()
+* Gather the documents and information listed below that you'll need to apply for education benefits
+
+**Note:** To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application.
+
+[Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
+[Find out how to apply for educational and career counseling (Chapter 36)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
+
+### What documents and information do I need to apply? 
+* Social Security number
+* Bank account direct deposit information
+* Education and military history
+* Basic information about the school or training facility you want to attend or are attending now
+
+### A decision with consequences
+
+Your decision to apply for a certain educational benefit could impact your eligibility for other benefits. Here are a few factors to keep in mind: 
+* If you're eligible for more than one education benefit, such as the Post-9/11 GI Bill and the Montgomery GI Bill, you must choose which benefit to receive, **a decision that's final and cannot be changed.**
+* If you're eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you did not give up. 
+
+[Apply for education benefits](https://www.va.gov/education/how-to-apply/) { Action link! }
+
+
 ## Cautionary information
 
 ### Student feedback
