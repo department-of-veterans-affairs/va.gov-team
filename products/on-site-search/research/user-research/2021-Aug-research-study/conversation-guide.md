@@ -42,6 +42,17 @@ Before we start, I want to go over a few things:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 
+## Screen sharing instructions (if needed later)
+- In the Zoom application on your phone or computer, you'll see a few buttons at the bottom. In the middle is a green button that says Share (phone) or Share Screen (computer). If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
+  - *(on a phone)* You will be asked to select what you'd like to share. Please select "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+  - Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+
+
 ## Warm-up Questions - 5 minutes
 
 Let’s start with a few questions...
@@ -52,19 +63,10 @@ Let’s start with a few questions...
 - *If they mentioned VA.gov*, ASK: When was the last time that you remember going to the VA.gov website?
 
 ## Screen sharing
-- I would like you to share your screen with me so I can watch you using a prototype that I'm going to share. 
-- What kind of device are you using today? *(Phone / Computer)*
+I would like you to share your screen with me so I can watch you using a prototype that I'm going to share. I'll need to see only a blank web browser window for now.
+*(refer to Screen sharing instructions above, if needed)*
 
-## Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a few buttons at the bottom. In the middle is a green button that says Share (phone) or Share Screen (computer). If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
-  - *(on a phone)* You will be asked to select what you'd like to share. Please select "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
-  - Great, now I can see your screen! Thank you for your patience in figuring this out.
-
-- *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
-
+What kind of device are you using today? *(Phone / Computer)*
 
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some areas of the screen will be clickable, and some will not. Before you click anywhere, I would like you to tell me what you plan to do, and then I'll tell you when it's OK to click.
@@ -98,8 +100,8 @@ What would you do now?
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-- What do you *like* about what you've seen today?
-- What do you *dislike* about what you've seen today?
+- What did you *like* about what you've seen today?
+- What did you *dislike* about what you've seen today?
 - What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
 
