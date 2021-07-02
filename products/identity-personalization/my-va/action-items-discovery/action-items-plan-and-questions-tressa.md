@@ -47,7 +47,9 @@ June 30, 2021
 - Do people expect to see action items in sections or in an 'action item hub'?
 - How do users expect to be able to resolve these action items?
 - Will people come to My VA to see their notifications?
-- Is duplication helpful?
+- Is duplication helpful? (indicator + actual notification)
 - How do users think of alerts? (eg a to-do list or more of a notification?)
+- Do people need to search/sort by for action items?
+- What information about an action item do people need to see? 
 
 
