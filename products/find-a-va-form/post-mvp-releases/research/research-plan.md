@@ -16,7 +16,7 @@ Some browsers enable PDFs to be viewed directly instead of needing to first be d
 In addition, we suspect that users who are less proficient with technology may encounter more problems that they are unable to resolve on their own.
 
 ## Research questions
-- How intuitive is the download process with the new instructions? What issues arise?
+- How intuitive is the download process with the new instructions? What issues arise (with the interace and/or specific forms)?
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
