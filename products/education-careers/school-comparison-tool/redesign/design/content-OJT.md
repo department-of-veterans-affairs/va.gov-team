@@ -166,15 +166,21 @@ ________________________________
 #### Housing allowance ([Learn more](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#housingallowance))
 
 Months 1-6:  $X,XXXX/mo
+
 Months 7-12: $X,XXX/mo
+
 Months 13-18: $XXX/mo
+
 Months 19-24: $XXX/mo
 
 #### Book stipend ([Learn more]9https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend))
 
 Months 1-6:  $XX/mo
+
 Months 7-12: $XX/mo
+
 Months 13-18: $XX/mo
+
 Months 19-24: $XX/mo
 
 { end grey box for Estimated benefits }
