@@ -1,6 +1,6 @@
 # GitHub Actions Usage for VA.gov Front-End Engineers
 
-## Table Of Contents
+## Table of Contents
 
 1. [Workflow Functionality](#workflow-functionality)
     1. [Continuous Integration workflow](#continuous-integration-workflow)
@@ -14,7 +14,7 @@
         1. [Job dependencies](#job-dependencies)
     1. [Viewing workflow runs with the GitHub CLI](#viewing-workflow-runs-with-the-github-cli)
     1. [Cancelling and re-running failed workflows](#cancelling-and-re-running-failed-workflows)
-1. [Debugging Failures](#debugging-failures)
+1. [Troubleshooting](#troubleshooting)
     1. [Linting](#linting)
     1. [Unit tests](#unit-tests)
     1. [Cypress E2E tests](#cypress-e2e-tests)
@@ -22,28 +22,28 @@
 
 ## Workflow Functionality
 
-GitHub Actions allows us to define multiple pipelines, referred to as **workflows**.
+With GitHub Actions, we can create **workflows**, which are pipelines or automated processes that can be triggered by a variety of events.
 
 Workflows are made up of **jobs**, which are sets of steps or commands, representing tasks such as building and testing.
 
-The workflows you may find relevant are "Continuous Integration" and "Pull Request".
+The workflows you may find relevant are the "Continuous Integration" and "Pull Request" workflows.
 
 ### Continuous Integration workflow
 
-This workflow runs on every push to a branch. No matter how many commits you make locally, the workflow will only trigger each time you push.
+This workflow runs whenever changes are pushed to a branch. No matter how many commits you make locally, the workflow only gets triggered on push.
 
 It's responsible for typical CI processes, consisting of jobs such as building, testing, and deploying.
 
-It also has a job that lints files across the entire repo. For PRs, this gets skipped in favor of the linting in the "Pull Request" workflow, which only lints files changed.
+It also has a job that lints files across the entire repo. For PRs, this gets skipped in favor of the linting job in the "Pull Request" workflow, which only lints files changed.
 
 ### Pull Request workflow
 
-This workflow runs whenever a pull request is created or new commits are pushed to a pull request.
+This workflow runs whenever a pull request is created or commits are pushed to a pull request.
 
 Its jobs run certain checks on changed files, including:
 - Linting only files changed, which differs from the "Continuous Integration" linting that runs on all files in the repo
 - Raising concerns when Sentry calls are made in case PII is mistakenly included in the report
-- Reminding that icons should have ARIA attributes when they have functional purposes
+- Reminding that icons should have ARIA attributes when they are interactive
 - Double checking whether disabling ESLint rules is completely necessary
 
 When issues are detected, these checks annotate or comment on the relevant sections of code.
@@ -76,15 +76,17 @@ Click on the icon and then click on "Details" of any job to view its console out
 
 > ![Workflow summary page](./3-summary-page.png)
 
-On the summary page of a workflow run, you can view a a graph of the pipeline to track its progress.
+Every workflow run has a summary page where you can see a graph of the pipeline to track its progress.
 
-Each box or node in the graph represents a job or matrix of jobs. Each job will have an icon indicating the status.
+Each box or node in the graph represents a job or matrix of jobs with an icon to indicate status (pass, fail, in progress).
 
-To get to this page from the [view of all workflows for a commit](#viewing-all-workflow-statuses-for-a-commit), click on the workflow name.
+To get to this page, navigate to the [view with the job console outputs](#viewing-all-workflow-statuses-for-a-commit) and click on the workflow name or annotation icon.
 
 #### Matrix jobs
 
-A matrix represents a set of jobs that run the same steps with different variables. Variations are indicated in parentheses.
+A matrix represents a set of jobs that all run the same steps with some variations depending on certain variables.
+
+Click on any matrix in the graph to expand and view the jobs in it. The job names indicate the variations in parentheses.
 
 **Build for each environment**
 
@@ -96,11 +98,11 @@ A matrix represents a set of jobs that run the same steps with different variabl
 
 #### Job dependencies
 
-Lines between jobs indicate dependencies. Jobs on the left of the line must run before those on the right.
+Lines between jobs indicate dependencies. Jobs on the left of the line run before those on the right.
 
-Hover over a box to highlight the job and its dependency graph.
+Hover over a job to highlight the jobs that it directly depends on and the jobs that directly depend on it.
 
-Lines can sometimes overlap, but the dependencies may become more apparent when hovering over the relevant jobs.
+The lines can sometimes overlap, making the dependency graph unclear. The relationships can be made more apparent by hovering over the relevant jobs to highlight them or clicking matrix jobs to expand them.
 
 > ![Pipeline dependency graph](./6-pipeline-dependency-graph.png)
 
@@ -112,17 +114,19 @@ TBD
 
 In either the [workflow statuses view for a commit](#viewing-all-workflow-statuses-for-a-commit) or the [summary page of a workflow run](#viewing-the-summary-and-pipeline-visual-for-a-workflow-run), you may cancel or re-run a workflow.
 
-To cancel a workflow, click the button to "Cancel workflow".
+To **cancel a workflow**, click the button to "Cancel workflow".
 
 > ![Cancel workflow](./7-cancel-workflow.png)
 
-To re-run a workflow that has failed, expand the dropdown to "Re-run jobs" and click the button to "Re-run all jobs".
+To **re-run a workflow** that has failed, expand the dropdown to "Re-run jobs" and click the button to "Re-run all jobs".
 
 > ![Re-run all jobs](./8-re-run-jobs.png)
 
-## Debugging Failures
+## Troubleshooting
 
-In general, you may view the console log for details about any job execution. Some jobs generate additional information that may be useful.
+In general, you may view the console log for details about any job execution.
+
+Some jobs provide additional information that may be useful for troubleshooting.
 
 ### Linting
 
@@ -143,7 +147,7 @@ It contains the following information:
 
 ### Cypress E2E tests
 
-Cypress tests produce a "Cypress Tests Summary" similar to unit tests.
+Cypress tests produce a "Cypress Tests Summary", which is similar to the unit tests summary.
 
 > ![Cypress tests summary](./11-testing-reports-link.png)
 
@@ -163,7 +167,7 @@ Commits can sometimes show multiple, seemingly duplicate, runs of a workflow (e.
 
 > ![Multiple workflows for a commit](./13-multiple-runs.png)
 
-This happens when a branch is created from that commit and pushed without adding any new commits. As a result, the workflow is triggered by a push event for the same commit hash.
+This can happen when a branch is created from that commit and pushed without adding any new commits. As a result, the workflow is triggered by a push event for the same commit hash.
 
 Navigating to the summary of the run should indicate which branch triggered the run.
 
