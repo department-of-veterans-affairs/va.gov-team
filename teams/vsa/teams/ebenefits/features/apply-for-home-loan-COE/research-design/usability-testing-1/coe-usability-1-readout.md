@@ -80,13 +80,19 @@ Our hypotheses were:
 
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+The independent COE screen and the form itself seemed to function well for participants--but the connection between the two needs better established for users. Some content refinements and clarification would help on the intro screen and within the form. Users seem to expect VA-issued documents to be together on a "My documents" kind of screen; the existing "Benefits letters" page seem a natural home for a COE. The size and position of the sing-in widget obsured intro page content; only one user scrolled below it to see the subway map.
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+- Refine content on intro screen to clarify COE process - automatic vs applying through a new form.
+- Refine content to "make changes" and/or "apply" action link to clarify that users need to apply to make changes
+- Provide more visibility to the documents to upload list and increase the visual link between the "What kind of document are you uploading?" dropdown and the uploader button.
+- Move the sign-in widget to the bottom of the page with the larger UX team and Platform.
+- Add COE to the existing "Benefits letters" page. 
 
 ## Next Steps
-Next steps here
+- Make adjustments to content and protoype.
+- Investigate moving the sign-in widget to the bottom of the page with the larger UX team and Platform.
+- Investigate option to add COE to the existing "Benefits letters" page.
 
 ## Appendix
 ### Conversation guide
