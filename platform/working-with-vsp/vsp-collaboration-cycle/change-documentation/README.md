@@ -5,7 +5,16 @@
 - **Design Intent, Midpoint Review, and Staging Review templates updated.** Templates have been updated to reflect that Staging Reviews can only be scheduled on Thursday during the 1:30pm and 2:00pm time slots. Design Intent and Midpoint Review templates have also been updated to reflect that these touchpoints can only be scheduled on Monday, Tuesday, or Friday.
 
 ### June 27, 2021 
-- **Design Intent template and touchpoint updated.** Accessibility specialists will be temporarily removed from Design Intent’s - both VSA teams and non-VSA teams.
+- **Design Intent template and touchpoint updated.** Accessibility specialists will be temporarily removed from Design Intent’s - both VSA teams and non-VSA teams. Accessibility specialists will no longer both support the same Collab Cycle Reviews. See list below.
+
+- Trevor	
+   - Claims & Appeals, Contact Center, Design System, eBenefits, BAH/Education Application, Facilities, Sitewide Content, VAMC, Virtual Agent	
+
+- Noah
+   - Digital GI Bill (DGIB) Team, VAOS
+   - (**VSA teams**) Authenticated Experience, Caregivers, Content & Localization, Debt Resolution, Decision Tools, Healthcare Experience, Public Websites, Search & Discovery
+ 
+ 
 
 ### June 7, 2021
 - **Contact Center - Product Guide Best Practices has been updated.** The Product Guide Best Practices (aka [Self-Service Product Guide Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md)) has been updated to better equip Contact Centers to more swiftly help Veterans trying to complete tasks on VA.gov. For more information about this change, contact the Contact Center team via #vsp-contact-center-support on Slack.
