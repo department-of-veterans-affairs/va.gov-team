@@ -144,7 +144,7 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 ### How the feature works on MHV
 
-As of the beginning of this project (October 2020), this is who the preferred medical facility feature works on MHV:
+As of the beginning of this project (October 2020), this is how the preferred medical facility feature works on MHV:
 
 - MHV pulls in all facilities a person is registered at into their MHV profile. Someone can be registered at a facility for a number of reasons, not all of which involve receiving medical care there.
 - People can then check a box to indicate at which facilities they currently receive care. This is only saved in MHV and used by MHV administrators. This information is not sent back to MVI.
