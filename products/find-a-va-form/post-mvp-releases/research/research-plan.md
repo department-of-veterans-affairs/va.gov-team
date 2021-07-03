@@ -69,7 +69,7 @@ Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using 
 
 ## Timeline
 #### Desired Timeline: July TBD, 2021 
-**30-minute** sessions with at least **30-minute breaks** in between 
+**45-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
