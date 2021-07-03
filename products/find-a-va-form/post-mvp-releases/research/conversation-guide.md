@@ -42,10 +42,12 @@ Before we start, I want to go over a few things:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a few buttons at the bottom. In the middle is a green button that says Share (phone) or Share Screen (computer). If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
-  - *(on a phone)* You will be asked to select what you'd like to share. Please select "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - *Backup plan if they cannot figure out how to share screen:*
@@ -72,7 +74,12 @@ I would like you to share your screen with me so I can watch you go to a specifi
 What kind of device are you using today? *(Phone / Tablet / Computer)*
 
 ## Veteran Tasks
-Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to put into the chat for you to click on (https://staging.va.gov/find-forms/).
+Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to put into the Zoom chat for you to click on (https://staging.va.gov/find-forms/).
+
+- *(Instructions for finding Chat, if needed)* In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
+  - Computer: Just to the left of center is a conversation bubble that says Chat. 
+  - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
