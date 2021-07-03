@@ -112,19 +112,76 @@ Say that someone from the VA asked you to fill out form **10-2850c**, and they s
 ### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
 The person at the VA also asked you to fill out a second VA form: **10-0003k**. You can find it online. What would you do?
 
-COPY FROM ABOVE
+- Please talk me through what you're doing.
+
+- *If they need prompting...After they open the form:* What do you see here?
+- I'd like you to start filling it out. 
+  - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
+  
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD any reactions to the form auto-downloading:* ________________
+  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
+  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+ 
+- What would you do if you wanted to continue filling out this form later? 
+  - *RECORD whether able to save form: yes / no / help needed*
+ 
+- Now assume that the form is completely filled out. What would you do now? 
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+- What are your thoughts about the process of filling out this form? 
 
 ### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
 I have a third VA form for you to find and fill out: **20-0968**.
 
-COPY FROM ABOVE
+- Please talk me through what you're doing.
+
+- *If they need prompting...After they open the form:* What do you see here?
+- I'd like you to start filling it out. 
+  - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
+  
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD any reactions to the form auto-downloading:* ________________
+  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
+  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+ 
+- What would you do if you wanted to continue filling out this form later? 
+  - *RECORD whether able to save form: yes / no / help needed*
+ 
+- Now assume that the form is completely filled out. What would you do now? 
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+- What are your thoughts about the process of filling out this form? 
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
 And there's one last form for you to find and fill out: **20-0995**.
 
-COPY FROM ABOVE
+- Please talk me through what you're doing.
 
+- *If they need prompting...After they open the form:* What do you see here?
+- I'd like you to start filling it out. 
+  - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
+  - *RECORD whether downloaded form: yes / no / help needed*
+  - *RECORD any reactions to the form auto-downloading:* ________________
+  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
+  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
+  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether able to fill out form: yes / no / help needed*
+ 
+- What would you do if you wanted to continue filling out this form later? 
+  - *RECORD whether able to save form: yes / no / help needed*
+ 
+- Now assume that the form is completely filled out. What would you do now? 
+  - *RECORD whether able to digitally sign form: yes / no / help needed*
+
+- What are your thoughts about the process of filling out this form? 
+
+
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
