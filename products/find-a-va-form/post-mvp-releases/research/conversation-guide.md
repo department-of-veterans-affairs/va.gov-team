@@ -31,7 +31,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This session should take about 30 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **This session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
