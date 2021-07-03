@@ -42,8 +42,39 @@ Reference: https://www.migrationpolicy.org/article/immigrant-veterans-united-sta
   
 ## Health equity information
 
-There's a wealth of information here:
+There's a wealth of information here (some pulled out specifically below):
 https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp
+
+### Race and ethnicity projections
+
+From 2019 to 2045, the racial and ethnic composition of Veterans will change. The projected proportion of Veterans who are Non-Hispanic White will decrease from 74% to 61%. Other groups will have increases:
+- 12% to 15% among Black Veterans
+- 8% to 12% among Hispanic Veterans
+- 2.1% to 3.9% among Mutiple Race Veterans
+- 1.5% to 3.3% among Other Race Veterans
+- 1.6% to 2.7% among Asian Veterans
+- 0.7% to 1.6% among American Indian and Alaska Native Veterans
+- 0.2% to 0.3% among Native Hawaiian and Other Pacific Island Veterans
+
+<div class='tableauPlaceholder' id='viz1625272173839' style='position: relative'><noscript><a href='https:&#47;&#47;www.va.gov&#47;'><img alt='Dashboard 7 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProjectedNumbersofMinorityVeterans2019-2045&#47;Dashboard7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProjectedNumbersofMinorityVeterans2019-2045&#47;Dashboard7' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProjectedNumbersofMinorityVeterans2019-2045&#47;Dashboard7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /><param name='increment_view_count' value='no' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1625272173839');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+### Health conditions by race and ethnicity
+
+Among Veterans age 18-44 using VHA in FY 2014, the most common diagnosed condition was post-traumatic stress disorder affecting 24% of patients.
+
+Rates were highest among:
+- American Indian or Alaska Native patients (31%)
+- Native Hawaiian and Other Pacific Islander patients (28%)
+
+<div class='tableauPlaceholder' id='viz1625272416200' style='position: relative'><noscript><a href='https:&#47;&#47;www.va.gov&#47;'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;B4&#47;B447NBPGK&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;B447NBPGK' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;B4&#47;B447NBPGK&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='tabs' value='no' /><param name='filter' value='publish=yes' /><param name='increment_view_count' value='no' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1625272416200');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+https://public.tableau.com/shared/B447NBPGK?:display_count=y&:origin=viz_share_link&:embed=y
+
+### Translation needs around specific health conditions
+
+"Despite overall high quality of care, Hispanic Veterans are more likely to have poorly controlled diabetes than their white, non-Hispanic counterparts. Hispanic Veterans can benefit from programs that connect them with culturally and linguistically appropriate comprehensive diabetes management and prevention programs that may include promotores (Spanish speaking community workers), peer mentors, support groups, and formal nutrition and diabetes self-management training. An OHE-supported project with VA Heart of Texas Health Care Network (VISN 17) developed and delivered a culturally sensitive MOVE! curriculum aimed to address the specific needs of Hispanic Veterans with diabetes in Texas. Participants who participated in at least one MOVE! Diabetes session
+experienced significant improvements in long term diabetes control."
+[Reference](https://www.va.gov/HEALTHEQUITY/docs/HispanicHeritageMonthFactSheet_Final_11062018.pdf)
 
 ## VA.gov usability research findings
 
