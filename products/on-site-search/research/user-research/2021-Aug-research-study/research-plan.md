@@ -7,7 +7,7 @@ The purpose of this research is to get user feedback on new design concepts for 
 1. Search in the header goes to the new search landing page
 1. New links on the search results page go to other search tools
 
-Research findings (including how many participants clicked on which links) will be used to recommend which of the above design concepts might be helpful to users going forward, before we do more design exploration. 
+Research findings (including how many participants clicked on which links) will be used to recommend which of the above design concepts might be helpful to users going forward, before we do more design exploration. The intent is to assess *utility* (was it helpful to users and prevented them from getting stuck?) and *usability* (was it findable and intuitive?) for each of the above design concepts.
 
 In 3-6 months or after some or all of the design concepts have been launched, we should look at the analytics and assess the actual usage of the new links.
 
