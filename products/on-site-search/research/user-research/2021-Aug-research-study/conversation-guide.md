@@ -43,6 +43,7 @@ Before we start, I want to go over a few things:
 
 
 ## Screen sharing instructions (if needed later)
+*COPY REVISED INSTRUCTIONS FROM PDF CONVO GUIDE*
 - In the Zoom application on your phone or computer, you'll see a few buttons at the bottom. In the middle is a green button that says Share (phone) or Share Screen (computer). If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. A menu should come up with options of what to share. Please hit "Screen".
