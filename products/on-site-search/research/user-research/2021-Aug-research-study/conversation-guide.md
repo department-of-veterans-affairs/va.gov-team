@@ -73,6 +73,8 @@ What kind of device are you using today? *(Phone / Computer)*
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
 I will share the link to the prototype in the Zoom chat. *COPY LINK TO CHAT* Do you see the link? 
+*COPY CHAT INSTRUCTIONS FROM PDF CONVO GUIDE*
+
 - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls. NEED TO ADD MORE INSTRUCTIONS HERE
 
 While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
