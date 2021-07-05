@@ -37,8 +37,7 @@ Pay copay bill tool/form |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home
 Priority | Placement | Destination | Description
 --- | --- | --- | ---
  MUST | Pay medical copays static page | Pay copays tool| 
- 
- TBD  |  Records top nav   | Financial hub static page  |  Place in righ column in 5th position; Move National Archives link to 2nd position in left column.  | 
+  TBD  |  Records top nav   | Financial hub static page  |  Place in righ column in 5th position; Move National Archives link to 2nd position in left column.  | 
  TBD | Records hub page   | Financial hub static page |  TBD
  
 
