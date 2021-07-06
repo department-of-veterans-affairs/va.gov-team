@@ -13,7 +13,7 @@ A few of the questions we would like them to ask are:
 - Is there healthcare provided on site?
 - Is there a referral process?
 
-Are you available this week for an informal chat for us to learn more? My schedule is flexible, and it shouldn't take longer than 15 minutes.
+Are you available this week for an informal chat for us to learn more? My schedule is flexible, and it shouldn't take longer than a half hour.
 
 Thank you for your help!
 
