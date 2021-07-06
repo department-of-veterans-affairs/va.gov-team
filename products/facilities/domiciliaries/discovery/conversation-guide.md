@@ -4,44 +4,6 @@
 
 [VA Homeless Programs information](https://www.va.gov/homeless/dchv.asp)
 
-### Locations & Contacts
-
-- **Philadelphia, PA**
-     - Location(s):
-          - [Philadelphia VA Domiciliary](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)
-     - PAO contact(s):
-          - Rita Chappelle, Rita.Chappelle@va.gov, 215-823-5916
-          - Jonathan Hodges, Jonathan.Hodges@va.gov, 215-823-5916
-     - SME contact(s):
-          - [TBD]
-- **Eastern Colorado**
-     - Location(s):
-          - [Denver VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
-          - [Valor Point VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)
-     - PAO contact(s):
-          - Brandy Morrison (Denver, CO), Brandy.Morrison2@va.gov, 720-723-6532
-     - SME contact(s):
-          - [TBD]
-- **Houston, TX**
-     - Location(s):
-          - [Houston VA Domiciliary](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
-     - PAO contact(s):
-          - Maureen Dyman, Maureen.Dyman@va.gov, 713-591-2427
-     - SME contact(s):
-          - [TBD]
-- **Jackson, MS**
-     - Location(s):
-          - [Jackson VA Domiciliary](https://www.va.gov/jackson-health-care/locations/jackson-va-domiciliary/)
-     - PAO contact(s):
-          - ~~Susan Varcie~~[RETIRED], Susan.Varcie@va.gov, 601-368-4477
-     - SME contact(s):
-          - [TBD]
- - **Seattle, WA**
-     - Location(s):
-     - PAO contact(s):
-     - SME contact(s):
- - **Minnesota**
-     - [See brochure link](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
 
 ## PAO Introduction
 
