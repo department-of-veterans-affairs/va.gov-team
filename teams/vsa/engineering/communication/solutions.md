@@ -27,3 +27,18 @@ Solution
 <hr>
 
 
+## Root Cause - Lack of a coherant rollout plan
+
+> VSA engineers are not consulted on the announcement or release  of a larger initiative. The current communication generally takes place over Slack and it is missed. This causes major time losses and a critical loss of trust in VSP.
+
+**Insights**
+- "Alert Boxes getting deprecated are a good example, instead of blocking people from merging have the linter show a warning until people get used to them being deprecated and then block them from being merged"
+- "Typically VSP struggles with rolling things out, it would be better if they have phased rollouts instead of all at once"
+- "when we use the solution it is just rolled out like 'here you go' and we can’t do anything about it and we get completely blocked"
+
+Solution
+<hr>
+A meeting or document designated for VSA engineers to detail how a solution should be rolled out. A set of guidelines should also be created with guidelines for progressive rollouts on VSP projects. VSP projects also should be required to be progressively rolled out.
+
+
+
