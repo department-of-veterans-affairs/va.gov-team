@@ -275,7 +275,7 @@ When a Veteran splits their time between two locations they often have one Prima
 
 > I guess I'd go to edit - \[but this\] should just update once you go to the \[facility\]. It'd be great if these systems communicate with each other once you get established somewhere, and less rely on the Veteran to clear up his own Profile. Cause Vets don't have time. That's why they don't like to do all that. - P9  
 
-Some participants were frustrated that we were asking the Veteran to do work of managing their current facilities, instead of using information VA already presumably had about them. We heard in multiple sessions that participants expect that patient information is shared and accessible across all VA health facilities.  
+It was frustrating to some participants that VA was seemingly asking the Veteran to do work of managing their current facilities, instead of using information VA already presumably had about them. We heard in multiple sessions that participants expect that patient information is shared and accessible across all VA health facilities.  
 
 > Moderator: Would it be useful for you to know where you are registered to receive care?  
 > P13: I would say not really. I think that'd just be added information that wouldn't be necessary. You would think if you're a service connected Veteran you're in the database regardless of where you would go.
@@ -353,6 +353,8 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 - Analytics data can be pulled to compare mobile vs desktop usage of profile navigation and identify any discrepancies that may suggest Veterans are having a hard time using it. We can also look at analytics for pages on VA.gov using the side nav component, which has similar but different functionary than our profile mobile menu.
 - Our moderated methodology may have impacted participant usage; consider an unmoderated study to evaluate how the 2 side navigation mobile menus works as Veterans go through a natural task.  
 - We should look into any research available on the side nav component to see what other teams have learned. This study is the first time this mobile menu pattern has been evaluated, so there isn't anything specific to this component we can refer to.
+
+
 
 ## Next steps
 
