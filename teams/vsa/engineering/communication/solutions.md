@@ -10,4 +10,8 @@ Now that we have done initial research into the pain points surrounding communic
 - "VSP always seem to choose a nuclear option without explanation of what the problem they are trying to solve or why they chose this particular solution"
 - "Many solutions seem to be knee-jerk reactions"
 
-Solution - An asyncronous document or a meeting should be provided before a VSP project starts where VSP clearly presents the problem, not the solution, and then are able to ask VSA engineers questions about the nature of the problem. This will also be a time for VSA engineers to explore the problem and potential solutions before both VSP and VSA choose a potential solution together. 
+Solution
+<hr>
+An asyncronous document or a meeting should be provided before a VSP project starts where VSP clearly presents the problem, not the solution, and then are able to ask VSA engineers questions about the nature of the problem. This will also be a time for VSA engineers to explore the problem and potential solutions before both VSP and VSA choose a potential solution together. 
+
+This meeting or document should be collaberative workshop, not a presentation, that is provided in a very public forum and everyone has the ability to ask questions and provide input. 
