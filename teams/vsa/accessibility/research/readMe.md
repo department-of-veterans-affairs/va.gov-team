@@ -1,5 +1,5 @@
 ```diff
-! In-progress
+! Items noted with WIP have yet to be published
 ```
 
 # Inclusive Research Guidelines
