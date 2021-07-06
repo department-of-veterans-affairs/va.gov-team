@@ -4,6 +4,8 @@
 
 Preferred Provider ([Learn more]()) { as applicable, includes icon }
 
+{ Learn more aria label: "Learn more about Preferred providers" }
+
     { Preferred Provider modal }
 
     #### Preferred training providers
@@ -28,7 +30,7 @@ Use the fields below to update your benefits.
 Choose the training program you'd like to attend { display radio button options }
 
 Tuition and fees for program ([Learn more]()) { input field, numeric inputs only }
-
+ 
     { Tuition and fees for program modal }
 
     #### Tuition and fees
