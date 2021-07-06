@@ -91,15 +91,18 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 #### Questions
 
 - **The facility**
-     - What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
-     - What terms to people staying at the facility use to describe it?
      - How would you describe the primary purpose of the facility?
      - Is the facility free-standing, or located inside another building (like a floor or wing of the building)?
-     - Domiciliaries are currently categorized under "VA Homeless Programs" - we're worried that the term "homeless" may not be appropriate. Is there another term you would prefer (i.e. "unhoused", "houseless")?
-     - Is there anything a Veteran with physical limitations would need to know about this facility?
-     - Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?
      - Who is this facility most likely to serve, in terms of demographics?
      - Is the facility mixed gender?
+     - Domiciliaries are currently categorized under "VA Homeless Programs" - we're worried that the term "homeless" may not be appropriate. Is there another term you would prefer (i.e. "unhoused", "houseless")?
+     - Is there anything a Veteran with physical limitations would need to know about this facility?
+     - Who normally contacts you to find out about your available services (Veterans,caregivers)?
+          - How do they normally find out about you (online, through other Veterans, phone)?
+          - Who do you believe would search for information about your facility online (Veterans, caregivers, etc)?
+     - ~~Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?~~
+     - What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
+          - What terms to people staying at the facility use to describe it?
 - **Services**
      - What services are provided at your location?
      - Is there healthcare provided on site? (If so, what?)
@@ -111,14 +114,14 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
      - Can Veterans self-refer?
      - Are walk-ins accepted?
 - **Required information**
+     - Are there any specific eligibility requirements for this facility?
      - What would a Veteran need to know before coming to the facility?
      - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
-     - Are there any specific eligibility requirements for this facility?
 
 ### Wrap-up
 
 - If you were updating your website, what would be the first thing you would want people know?
 - Is there anything else you think I should know, that might be useful for anyone visiting the facility?
 
-Alright thank you, that concludes our questions - thank you very much for helping us out, this information will be a big help for people using the VA.gov site.
+Thank you very much for helping us out, this information will help us improve facility information for Veterans, so they will be able to find and understand more about facilities like yours.
