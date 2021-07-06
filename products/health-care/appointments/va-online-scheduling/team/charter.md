@@ -84,10 +84,12 @@ Anyone on the team can [create a ticket](how-to-create-vaos-tickets.md). All are
 
 ### Estimation
 
-_tbd_
+We're going to experiment with t-shirt size estimates. Effectively this is just removing one number from our scale (2), but hopefully we can reframe conversations around bigger perceived gaps in estimates.
 
-- 1 = 
-- 2 = 
+- 1 = small
+- 3 = medium
+- 5 = large
+- 8 = x-large
 
 ### 
 
