@@ -314,7 +314,7 @@ While Veterans were able to use the prototype easily, our study reveals that man
 - When they start scheduling an appointment
 - When a Veteran is looking for general information about their health care facilities
 - When a Veteran is looking for information about health care in My VA
-- At their provider’s office, discussing a follow-up appointment is needed
+- At their provider’s office (scheduling annual visits or follow-up appointments)
 
 Also consider showing Veterans how to communicate and schedule with providers that their PCP has given them consults/authorizations/referrals to see. 
 
