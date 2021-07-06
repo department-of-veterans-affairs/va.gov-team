@@ -6,7 +6,7 @@ View the [research plan](https://github.com/department-of-veterans-affairs/va.go
 
 ## Research Goals
 
-Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilites, as well as evaluate the usability of a prototype that would allow Veterans to manage their personalized facilites. 
+Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilites, as well as evaluate the usability of a prototype that would allow Veterans to manage their health facilites. 
 
 The overall VAOS product goal for this work is to improve completion of the VA facility selection step. The abandonment rate for the VA facility selection page is consistently the highest in the VAOS appointment request flow. This page shows every VA facility where a Veteran has registered for care, and includes many that a Veteran has previously visited but where they no longer receive care.   
 
