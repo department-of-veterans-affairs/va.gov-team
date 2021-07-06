@@ -11,5 +11,9 @@ There are currently 5 locations in dual-state status:
 - [Houston, TX](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
   - *(Location is currently under construction)*
 - [Jackson, MS](https://www.va.gov/jackson-health-care/locations/)
+- [Minneapolis, MN](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
+- [Seattle, WA](https://www.pugetsound.va.gov/about/history.asp)
+- Portland, OR
+  - [Veterans Recovery House](https://www.portland.va.gov/services/Rehabilitation_Veterans_Recovery_House_A_Residential_Rehabilitation_Treatment_Program_RRTP.asp)
 
 Before we can reimagine detail pages or validate potential designs with Veterans, we need to better understand these facilities.
