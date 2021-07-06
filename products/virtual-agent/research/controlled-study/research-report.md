@@ -1,8 +1,7 @@
-# Chatbot Controlled Study Research Report (DRAFT)
+# Chatbot Controlled Study Research Report
 
 #### Shane Strassberg and Rachel M. Murray, [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/controlled-study/research-plan.md)
 
-Please note this is a DRAFT version and is not yet finialized.
 
 ## Introduction
 
@@ -11,7 +10,6 @@ A well-developed and maintained virtual agent will help users solve problems and
 ## Research Goals
 
 We established a number of goals around the product and how people might use it. There are many ways of understanding the success of a product, but for this study we wanted to learn how the chatbot performed and how it was ‘seen’ as being able to perform, since accuracy shapes how people trust a product. We also wanted to examine how personality can reinforce trust, and how all of these affected the larger brand relationship participants have with the VA support channels - the ultimate goal to understand if participants would use the chatbot again.
-
 
 The goals of this study included:
 
@@ -31,7 +29,7 @@ Understand if participants are willing to use the chatbot again
 
 ## Research Methodology
 
-We launched with an unmoderated controlled study of 50 participants and were able to recruit 44 in total.  Participants were invited by Perigean to participate in the research study by email and have a number of research repositories that captured the data. 
+We launched with an unmoderated controlled study of 50 participants and were able to recruit 44 in total. Participants were invited by Perigean to participate in the research study by email and have a number of research repositories that captured the data. 
 
 - Participants were sent a link to the chatbot on Staging.va.gov and were able to engage with it. These are the ‘chatbot log transcripts’ which are reflected in the Metrics, and show the types of questions and interactions with the product.
 - Participants were also sent a link to a questionnaire on Optimal Workshop. This included both quantitative questions where people were asked to rate their opinion from a preselected set of options, and qualitative questions where people were asked to provide written feedback.
@@ -266,15 +264,18 @@ D. Product usage
 
 | Area | Metrics | Results |
 | ------------ | ------------- | ------------- |
-| **Items tracked** | Most asked about items | (examples) |
-|                   | Outliers of what users are asking |  |
-|                   | Times that the bot ends up in unrecognized intents |   |
-|                   | Times the bot ends up in error states |   |
-|                   | How many questions are being asked |   |
-|                   | Number of users who get to the end of the conversation vs drop off |   |
-| **Engagement rates** | How many users interact with the new virtual agent? |   |
-|                      | How many left without interaction? |   |
-|                      | How many users ask multiple questions in one session? |   |
+| **Items tracked** | Most asked about items | 1. VA programs and eligibility for them (36 separate engagements or instances someone asked this into the Virtual Agent)
+2. Misc. medical topics and conditions (26 engagements)
+3. Disability related  (17 separate engagements)
+ |
+|                   | Outliers of what users are asking | Wide variety of topics, including appointments, claim status, education related, VA touchpoints (locations, phone numbers), topics related to marginalized populations and others. |
+|                   | Times that the bot ends up in unrecognized intents | Difficult to determine  |
+|                   | Times the bot ends up in error states | One error message was noted in the logs  |
+|                   | How many questions are being asked | 379 total engagements (i.e. times a person entered something into the chatbot window, or an average of 8 engagements per session per user)  |
+|                   | Number of users who get to the end of the conversation vs drop off | Difficult to determine  |
+| **Engagement rates** | How many users interact with the new virtual agent? | 44  |
+|                      | How many left without interaction? | 0  |
+|                      | How many users ask multiple questions in one session? | 48 times that a user asked multiple questions  |
 |                      | How many ask the same question (in variations) during one session? |   |
 | **Satisfaction** | How many times was the virtual agent able to answer a question? |   |
 |                  | How many times was it not able to answer a question? |   |
@@ -286,25 +287,25 @@ D. Product usage
 |                  | How many still want to speak with a human after an interaction? |   |
 |                  | How many posed a crisis-related statement/question? |   |
 | **Content requests** | What are the most asked about topics by users? | #1, #2, #3 |
-|                      | What types of tasks did users ask the bot to do? | #1, #2, #3 |
+|                      | What types of tasks did users ask the bot to do? | Claim related tasks (‘submit a new claim, check my claim status’)
+and Content related tasks (‘find VA medical facilities near me’)
+ |
 
 
-## Results of Hypotheses TO UPDATE
+## Results of Hypotheses 
 
  The results our work for the hypotheses included:
  
-(this will come from the Metrics - Luciana and Ian to pair to fit in)
-
 A. Accuracy hypothesis:
 - We will see a high number of questions that the bot has not yet been trained to answer. 
-  - Results:  need to view chat transcripts
+  - Results:  Results: This was valid - many questions were unable to be answered, and in general the chatbot noted it was unable to answer
 
 - Veterans will expect that the chatbot cannot answer in-depth questions. 
-  - Results:  need to view chat transcripts
+  - Results: This was valid - many of the questions were not in-depth and the focus was often on benefits coverage for conditions or queries about location that might merit a ‘yes/no’ answer or basic information such as a link.
 
 B. Trust hypothesis:
 - More Veterans will attempt to find information that requires authentication (e.g., claims-status). 
-  - Results:  need to view chat transcripts
+  - Results:  We had a mixture of people wanting authenticated and non-authenticated content; the key finding is that in our survey the majority of users felt comfortable with authenticating to ask personalized questions
 
 C. Personality hypothesis:
 - Veterans will want a more professional tone than a more ‘friendly’ personable tone.
@@ -312,14 +313,13 @@ C. Personality hypothesis:
 
 D. Product usage hypothesis:
 - Caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
-  - We were unable to determine a quantitative satisfaction rating and kept it general at this stage (‘based on your experience today, are you willing to use the chatbot again - Yes/No/Maybe).  The caregiver experience This would be an area of future research area
+  - Results: We were unable to determine a quantitative satisfaction rating tied to a specific segment in PVA but rather were dependent on Optimal Workshop’s question of ‘based on your experience today, are you willing to use the chatbot again’ - Yes/No/Maybe).  Caregiver experience should be an area of future research area
 
 - Veterans who may be seeking anonymity (e.g., LGBTQ+, housing or food insecurity, mental-health crisis) may be more comfortable utilizing this tool over speaking with a human.
   - Results: We were unable to successfully recruit among LGBTQ+, housing or those experiencing economic insecurity; more research would be needed for these segments
 
 - Veterans will want the chatbot to transfer their conversation directly to a human agent. 
-  - Results:  need to view chat transcripts
-
+  - Results: we did not see a large number of people who asked to speak to a human agent, but this may be tied to the instructions provided in the study where people consciously noted they were participating in a chatbot study and as such may have consciously not transferred to a live agent which would end the session.
 
 ## Next Steps
 
