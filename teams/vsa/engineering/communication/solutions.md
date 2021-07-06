@@ -1,5 +1,5 @@
 # Background
-Now that we have done initial research into the pain points surrounding communication between VSA and VSP we have developed a few potential solutions to address the pain points. This document details the potential solutions. Each solution will begin with the initial pain point, then the insight that was provided by our research will be provided, then the potential solution will be detailed.
+Now that we have done initial research into the pain points surrounding communication between VSA and VSP we have developed a few potential solutions to address the pain points. This document details the potential solutions. Each solution will begin with the initial root cause, followed by a description of the pain point, then the insights that were provided by our research. Then the potential solution will be detailed.
 
 ## Root Cause - Lack of a clear problem statement
 
