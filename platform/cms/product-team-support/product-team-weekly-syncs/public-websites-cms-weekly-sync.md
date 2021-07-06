@@ -35,6 +35,10 @@
 
 </details>
 
+## July 6
+
+* Homepage banner alert with cardcoded alert ID
+
 ## June 30
 
 
