@@ -84,8 +84,8 @@ We identified 5 key findings tied to the goals and hypotheses:
   - This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on VA.gov
 
 - Many of the additional accessibility issues which were less urgent than defect 1 in severity were observed, including the challenge of finding the chatbot on the page in the first place.
-  - This is in reference to the issue of ‘navigation through the chat log must be easy and intuitive’.  If one navigates off the chatbot, it is difficult to navigate back onto it, and depends on the participant using VoiceOver’s Form Control menu navigator.
-  - For the ‘chatbot text input must have a yellow focus halo when it receives keyboard focus’, we noted the halo appears for the ‘send message’ icon but not for the message input box itself.
+  - This is in reference to the issue of [‘navigation through the chat log must be easy and intuitive’](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25164).  If one navigates off the chatbot, it is difficult to navigate back onto it, and depends on the participant using VoiceOver’s Form Control menu navigator.
+  - For the [‘chatbot text input must have a yellow focus halo when it receives keyboard focus’](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25161), we noted the halo appears for the ‘send message’ icon but not for the message input box itself.
   - (In reference to how many more times would you type before you gave up engaging with the bot)? “With me, I have a sharp patience with these bots. You would have gotten 2 shots. Normally it would have given me some kind of answer. If you get on the wrong place on the screen, you have to go to the right place on the page. I was scrolling up and down just to see an answer. Also if there’s a timeout, there needs to be one for screenreaders for us to type or find something.  I’ve seen it before and it’ll time out, or say ‘are you still there’.” (Participant 4)
 
 - Blind Veterans can differ in how they use technology, including assistive technoloyg
@@ -110,7 +110,7 @@ The results our work for the hypotheses included:
 
 ## Next Steps
 
-Please see the final report for the Virtual Agent project for next steps, including actions to be taken for the product roadmap and additional research areas.The team recommends a full 508 audit for future iterations of the chatbot, and recommends continued evaluations through iterations utilizing testing with screen readers, for example, during development.
+Please see the final report for the Virtual Agent project for next steps, including actions to be taken for the product roadmap and additional research areas.The team recommends a [full 508 audit] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) for future iterations of the chatbot, and recommends continued evaluations through iterations utilizing testing with screen readers, for example, during development.
 
 ## Appendix
 
