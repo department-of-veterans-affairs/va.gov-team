@@ -26,7 +26,8 @@
 ## July 6
 
 Engineering
-* Review of Centralized content API and FE changes 
+* Review of Centralized content API and FE changes
+* Validation of links in Drupal  
 
 Business
 * Request for "District  level user" role
@@ -43,7 +44,7 @@ Vet Center overall workflow about review
  * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
  * Future: Discuss July 6
 
-* Validation of links in Drupal 
+
 
 
 ## June 30
