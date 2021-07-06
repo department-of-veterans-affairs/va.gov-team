@@ -76,7 +76,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 Great. Now we're ready to begin!
 
-## **Warm-up Questions - 7 minutes**
+## **Warm-up Questions - 5 minutes**
 
 - Are you aware of VA.gov's "Ask a question online", "IRIS" feature, or GI Bill Help Portal?
 - If Yes: 
@@ -99,9 +99,9 @@ Great. Now we're ready to begin!
 - Would you log in to use Ask VA? 
   - What benefit would logging in provide, if any?
 
-## **Discussion: AVA Landing Page - 10 Minutes**
+## **Discussion: AVA Landing Page - 7 Minutes**
 
-*Send the participant to one of the potential mockup links. Rotate through all potential mockups, and record which mockup was shown in the session notes.*
+*Send the participant the link to the* [*AVA dev link*](https://dvagov-veft-qa.dynamics365portals.us/)
 
 **First Impression Questions**
 
@@ -114,31 +114,11 @@ Please take some time to review the content on the page.
   - *Note whether or not they click on login or not.*
 - Can you tell me why you clicked on the button you did?
 
-**Design Comparison**
-
-I'm going to send you a different design of this landing page.
-
-*Send the participant the link to the other potential landing page.*
-- Do you think this page is easier to understand?
-- Would you describe this page as better or worse than the previous button? 
-  - *Follow up:* Can you explain your answer?
-
-I'm going to send you a link that shows both designs at the same time to make it easier to compare.
-
-*If Desktop (Rotate between versions, note-taker log version tested with):*
-
-- Send the link to the [Page Design Comparison V1]()
-- Send the link to the [Page Design Comparison V2]()
-- If you had to rank these pages, which order would you put them in from easiest to understand to hardest?
-
-*If Mobile:*
-
-- Send the link to the [Button Design Comparison - Mobile]()
-- You can swipe left & right to compare the two different button options. If you had to rank these pages, which order would you put them in from easiest to understand to hardest?
-
 ## **Task: Submit an Inquiry - 10 minutes**
 
-*Send the participant the link to the* [*AVA dev link*](https://dvagov-veft-qa.dynamics365portals.us/)
+If you would like to login, please do so.
+
+*If the user experiences issues logging in, redirect them:* If you were having issues logging in, what would you do next?
 
 As you walk through the process of submitting an inquiry, please think out loud. Let us know of any problems or questions you have. Again, we are not testing your ability to fill out the form, we're testing whether or not the form is easy to use.
 
@@ -162,17 +142,15 @@ Imagine you accessed this page to ask the VA a question about (refer to scenario
 - Was the user able to successfully use the "Look Up Modal" features?
 
 ## **Task: Access Previous Inquiry - 7 Minutes**
+*Ensure the user is logged in. If they submitted the test inquiry logged out, provide a test account.*
 
-*Send the participant the link to the Figma prototype link*
-
-- This is a clickable prototype of your AVA dashboard after you have logged in. 
+- If you wanted to access an old inquiry you submitted in the past, how would you do that?
+*After user navigates to the dashboard, as the follow-up questions:*
 
   - What information would you expect to find in your dashboard?
   - What questions do you have about the content on this page?
   - Does anything need to be explained?
   - Does anything need to be added or removed?
-
-- If you wanted to access an old inquiry you submitted in the past, how would you do that?
 
 ## **Post-Task Interview - 5 minutes**
 
