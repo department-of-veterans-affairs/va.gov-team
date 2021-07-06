@@ -141,8 +141,9 @@ Engagement
 
 ## Launch Dates
 ### Transforming Search Terms Iteration 2
-- Go-live: TBD
-- Search logic documentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/SearchAlgorithm.docx
+- Go-live: Jul 6, 2021
+- Includes several enhancements:
+   - Updates
 
 ### Use Administration Field for Related To Info
 - Go-live: Mar 24, 2021 #21366
