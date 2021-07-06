@@ -43,7 +43,7 @@ We are seeking to perform this test with 10 participants
 ## When?
 
 **Desired Timeline: July 12-23, 2021**
-60 minutes (30-minute session with 30-minute buffer)
+60 minutes (45-minute session with 15-minute buffer)
 
 | Date               | Time (EST)            |
 | ------------------ | --------------------- |
