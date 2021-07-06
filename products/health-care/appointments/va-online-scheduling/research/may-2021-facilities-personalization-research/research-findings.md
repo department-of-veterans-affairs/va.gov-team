@@ -303,7 +303,7 @@ Another was frustrated because it didn't make sense with the process they expect
 ## Recommendations
 
 1. We recommend surfacing helpful facility information for the Veteran based on their data, instead of asking them to manually manage facilities in the scheduling flow or their profile.
-2. Consider other ways to support Veterans who have moved or travel regularly.
+2. Learn more about how we can support Veterans who have moved or travel regularly.
 3. Consider ways to reduce Veteran frustration when calling to schedule.
 4. Revisit the design of the profile mobile menu.
 
@@ -320,7 +320,7 @@ Also consider showing Veterans how to communicate and schedule with providers th
 
 The Veterans we spoke to had no expectation of seeing only registered facilities in VAOS, and by asking them to manage the facility list we are actually increasing the cognitive load required to remember to find and update these settings changed during an already stressful time of changing health care providers. As a result, we don’t think it makes sense to forward with designs tested in our study.  
 
-### **Consider other ways to support Veterans who have moved or travel regularly**.
+### Learn more about how we can support Veterans who have moved or travel regularly.
 
 Throughout all sessions, participants talked about the importance of location when finding access to care, and many participants cited travel as a potentially valuable use for the prototype they were shown. 
 
