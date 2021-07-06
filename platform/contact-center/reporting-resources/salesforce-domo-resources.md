@@ -12,12 +12,17 @@
 ## DOMO Dataset Update Process
 1. Navigate to Salesforce within Citrix
 2. Navigate to the appropriate report
-3. Export the report to a CSV file
-4. Navigate to the corresponding DOMO Dataset
-5. Click on "Settings" in the top menu
-6. Upload the previously exported CSV
-7. Click on the green arrow beside "Update mode" (hovering over the green arrow will turn it into a pencil icon)
-8. Select "Append" under "Update method"
-9. Click "Save"
+3. Edit the report and change the dates to correspond to the dates you need to export
+4. Save & run the report
+5. Export the report to a CSV file
+6. Navigate to the corresponding DOMO Dataset
+7. Click on "Settings" in the top menu
+8. Click on the green arrow beside "Update mode" (hovering over the green arrow will turn it into a pencil icon)
+9. Select "Append" under "Update method"
+10. Click on the green arrow beside Details" (hovering over the green arrow will turn it into a pencil icon)
+11. Upload the previously exported CSV
+12. Click "Save"
+13. After you click "Save" a rotating arrow should show up beside your profile picture on the top right.
+14. Click on "Data" to verify the content has been updated appropriately 
 
 **Note:** When updating, ensure all column headers are named the same and are in the same order. DOMO will not adjust placement based on column name.
