@@ -9,7 +9,7 @@ This is communication around longer term efforts by VSP, such as fixes to the bu
 
 #### At the beginning of the initiative 
 1. There is not enough communication before a large initiative is undertaken where VSP defines a clear problem statement then involves VSA in the selection of a solution. This leads to solutions that solve a symptom of a problem, not the root problem itself. A perfect example of this is the expirimental design system, which solves a symptom of a problem but not the root problem.
-2. There is not enough research done involving VSA engineers where they are asked about the nature of the problem or the nature of the potential solutions. This results in critical context being missed by VSP and ultimately a suboptimal solution.
+2. There is not enough transparency around the current priorities of VSP. There is also no clear reason provided for the discrepancy between VSP and VSA priorities.
 
 #### During the initiative or near the end
 1. There is not enough transparancy provided during the building of a potential solution for these larger initiatives so VSA engineers do not have an understanding of where these large initiatives are in their build process. This results in VSA not knowing what VSP's priorities are or what they are currently working on which leads to a loss of trust in VSP.
