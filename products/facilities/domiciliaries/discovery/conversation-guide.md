@@ -6,7 +6,7 @@
 
 ## Calling domiciliaries directly (scheduling SME interview)
 
-Hello, my name is Nick Osmanski, and I'm a designer working on the VA.gov website, specifically on the pages with information about domiciliary locations. I'm trying to get a better sense of Veteran's experience at this location, so I was wondering if there is anyone I could schedule a brief interview with, sometime this week, to learn more about this domiciliary location?
+Hello, my name is Nick Osmanski, and I'm a designer working on the VA.gov website, specifically on the pages with information about domiciliary locations. I'm trying to get a better sense of Veteran's experience at this location, so I was wondering if there is anyone I could schedule a brief interview with, sometime this week, to learn more about this facility?
 
 I have about 20 questions, and I imagine it wouldn't take longer than a half an hour.
 
