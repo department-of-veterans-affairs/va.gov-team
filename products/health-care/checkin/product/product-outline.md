@@ -80,7 +80,7 @@ A Pilot site will be chosen (possibly Martinsburg, West Virginia). Once the site
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 7/30/2021
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
