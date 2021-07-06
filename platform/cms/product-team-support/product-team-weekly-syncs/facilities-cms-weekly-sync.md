@@ -43,6 +43,8 @@ Vet Center overall workflow about review
  * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
  * Future: Discuss July 6
 
+* Validation of links in Drupal 
+
 
 ## June 30
 
