@@ -8,7 +8,6 @@ This study is being conducted by the VSP Contact Center team. The study follows 
 
 - Document and prioritize any outstanding usability concerns with AVA, including both inquiry submission and the authenticated dashboard.
 - Verify the implementation of recommendations provided from previous usability testing.
-- Test potential AVA landing pages to determine the most user-friendly option.
 
 **Research Questions:**
 
@@ -17,11 +16,11 @@ This study is being conducted by the VSP Contact Center team. The study follows 
 - Do veterans understand how to fill out all of the fields on the inquiry form?
   - Is help text provided in all the appropriate areas?
   - Do users understand which fields are required? 
-- Which landing page iteration is the most user-friendly for veterans?
 
 **Hypothesis:**
 
-- Veterans will be able to successfully submit inquires through AVA. 
+- Due to implementation of previous study findings, Veterans will be able to successfully submit inquires through AVA.
+- There will be a reduction (when compared to previous study) in confusion and questions around specific inquiry fields and the review page.
 
 ## Method
 
@@ -43,23 +42,25 @@ We are seeking to perform this test with 10 participants
 
 ## When?
 
-**Desired Timeline: July 7-16, 2021**
-60 minutes (45-minute session with 15-minute buffer)
+**Desired Timeline: July 12-23, 2021**
+60 minutes (30-minute session with 30-minute buffer)
 
 | Date               | Time (EST)            |
 | ------------------ | --------------------- |
-| Wednesday, July 7  | 9am - 3pm             |
-| Thursday, July 8   | 9am - 12pm, 1pm - 8pm |
-| Friday, July 9     | 9am - 7pm             |
 | Monday, July 12    | 9am - 7pm             |
 | Tuesday, July 13   | 9am - 12pm, 3pm-8pm   |
 | Wednesday, July 14 | 9am - 7pm             |
 | Thursday, July 15  | 9am - 4pm             |
 | Friday, July 16    | 9am - 7pm             |
+| Monday, July 19    | 9am - 7pm             |
+| Tuesday, July 20   | 9am - 7pm             |
+| Wednesday, July 21 | 9am - 2pm             |
+| Thursday, July 22  | 9am - 4pm             |
+| Friday, July 23    | 9am - 7pm             |
 
 Testing will be performed on a staging environment as well as with a mockup built in Figma.
 
-**Pilot Date(s):** July 5-6, 2021
+**Pilot Date(s):** July 8-9, 2021
 **PIlot Attendees:** Jason Woodman, Stan Moran, Chante Lantos-Swett
 
 ## Team Roles
