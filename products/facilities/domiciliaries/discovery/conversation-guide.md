@@ -53,6 +53,7 @@ Thanks for speaking with me today. The purpose of this meeting is to ask some ge
     - What the referral process is like.
     - Is the facility free-standing or a floor or wing of a building?
 - Who could I speak to on-site that could answer questions like these?
+- Is it alright to contact them [the SME] directly?
 
 - We're also looking into Community Living Centers to update their site as well.
 
@@ -66,7 +67,7 @@ My name is Nick Osmanski, and I work on the VA.gov Facilities product team. We a
 
 We want to gain a more accurate understanding of the various aspects of a person's experience while staying at a domiciliary locations, including a description of the facility, information about potential services provided, and anything else that you would like us to be aware of, that people should know.
 
-We are not asking for any personal information beyond name and title, and we are not selling you anything.
+We are not asking for any personal information beyond your name and title, and we are not selling you anything.
 
 If you're comfortable, I would also like to record our call for note-taking purposes. The file will not be uploaded to any location, and will be deleted soon after our call.
 
@@ -76,10 +77,10 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
 ### About the SME
 
 - Name: 
-> 
+>
 - Title:
 > 
-- Location (region/system): 
+- Location: 
 
 ### Interview
 
