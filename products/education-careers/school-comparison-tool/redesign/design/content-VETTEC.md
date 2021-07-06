@@ -16,6 +16,7 @@ Preferred Provider ([Learn more]()) { as applicable, includes icon }
 
 { icon + City, State }
 { icon + Phone number }
+
 { icon + provider website }
 { icon + provider locale }
 
@@ -27,11 +28,13 @@ Compare { compare checkbox }
 
 Use the fields below to update your benefits.
 
-Choose the training program you'd like to attend { display radio button options }
+Choose the training program you'd like to attend 
 
-Tuition and fees for program ([Learn more]()) { input field, numeric inputs only }
- 
-    { Tuition and fees for program modal }
+{ display radio button options; none selected on page load }
+
+Tuition and fees for program ([Learn more]()) { Learn more aria label: "Learn more about tuition and fees for VET TEC programs" }
+
+{ Tuition and fees for program modal }
 
     #### Tuition and fees
 
@@ -42,8 +45,10 @@ Tuition and fees for program ([Learn more]()) { input field, numeric inputs only
     Preferred Provider training programs aren’t subject to a cap on tuition and fees.
 
     { end Tuition and fees for program modal }
-  
-Scholarships (excluding Pell Grants) ([Learn more]()) { input field, numeric inputs only }
+    
+{ Tuition and fees input field / text field, numeric inputs only }
+ 
+Scholarships (excluding Pell Grants) ([Learn more]()) { Learn more aria label: "Learn more about what scholarships to add in this field" }
 
     { Scholarships modal }
 
@@ -52,7 +57,9 @@ Scholarships (excluding Pell Grants) ([Learn more]()) { input field, numeric inp
     Are you receiving any scholarships or grants that go directly to pay your tuition or fees for this program? If so, add that number here.
 
     { end Scholarships modal }
-  
+    
+{ scholarship input field / text field, numeric inputs only }
+
 ### Your estimated benefits
 
 { name of selected program }
@@ -61,15 +68,9 @@ Scholarships (excluding Pell Grants) ([Learn more]()) { input field, numeric inp
 
 VA pays to provider: ([Learn more]()) $X,XXX
 
-      Upon enrollment in program (25%):  $X,XXX
-  
-      Upon completion of program (25%):  $X,XXX
-  
-      Upon employment (50%):  $X,XXX
-  
-**Out of pocket tuition: $X,XXXX**
+{ VA pays to provider modal }
 
-    { VA pays to provider modal }
+{ Learn more aria label: "Learn more about how VA makes payments to VET TEC providers" }
 
     #### VA pays to provider
 
@@ -82,13 +83,25 @@ VA pays to provider: ([Learn more]()) $X,XXX
 
     { end VA pays to provider modal }
 
+ { display VET TEC payment calculations }     
+ 
+ Upon enrollment in program (25%):  $X,XXX
+  
+      Upon completion of program (25%):  $X,XXX
+  
+      Upon employment (50%):  $X,XXX
+  
+**Out of pocket tuition: $X,XXXX**
+
+ { end VET TEC payment calculations }     
+
 ________________________________
 
 **Housing allowance**
-([Learn more]())
-In-person monthly rate:  $X,XXX
-Online monthly rate: $XXX
 
+([Learn more]()) 
+    
+    { Learn more aria label: "Learn more about housing allowance calculations" }
     { Housing allowance modal }
     #### Housing allowance
 
@@ -100,11 +113,20 @@ Online monthly rate: $XXX
 
     { end Housing allowance modal }
   
+
+ { display VET TEC housing payments } 
+ 
+In-person monthly rate:  $X,XXX
+
+Online monthly rate: $XXX
+
+  
 **Note:** Your VET TEC training won't count against your GI Bill entitlement.
 
 ## Getting started with benefits
 
 ### What types of training does VET TEC cover?
+
 You can get training in one of these high-demand training areas:
 
 * Computer software
@@ -114,6 +136,7 @@ You can get training in one of these high-demand training areas:
 * Media applications
 
 ### What benefits can I get through this program?
+
 With VET TEC, you can get:
 
 * Tuition for a full-time high-tech training program
@@ -136,6 +159,7 @@ With VET TEC, you can get:
 [Apply for VET TEC (VA Form 22-0994)](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction) { action link }
 
 2. After you’ve been approved for VET TEC, you can then apply to the VA-approved training program you’d like to attend.
+
 To learn more about these approved programs, visit the training provider's website.
 
 **What if I have questions about the VET TEC program?**
@@ -144,7 +168,8 @@ To learn more about these approved programs, visit the training provider's websi
 * Email us at VETTEC.VBABUF@va.gov
 
 
-## Academics
+## Approved programs
+
 The following training programs are approved for VET TEC:
 
 { table showing Program name, Length, and Tuition & Fees }
@@ -259,6 +284,7 @@ Phone number {list phone number}
 VA Facility Code  [Learn more](): { dynamic display }
 
     { VA Facility Code modal }
+    { Learn more aria label: "Learn more about VA facility codes" }
 
     #### VA facility code
 
