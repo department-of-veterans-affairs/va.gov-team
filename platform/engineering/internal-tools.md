@@ -270,12 +270,14 @@ Summary:
 
 For Windows users, or those who don't mind being limited to Chrome and Firefox, the following option is also available:
 
-#### Set up SwitchyOmega for Chrome & Firefox
+#### Set up SwitchyOmega for Microsoft Edge, Chrome, or Firefox
 
 1. Install Proxy SwitchyOmega.
 
    - [Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
+   - [Edge](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+     >**Note:** For Edge only, after visiting the link to Proxy SwitchyOmega Click/tap on Allow extensions from other stores in the banner at the top of the page, then install.
 
 1. Configure the `proxy` profile like this:
 
