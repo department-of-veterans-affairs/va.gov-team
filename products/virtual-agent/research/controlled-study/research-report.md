@@ -224,7 +224,7 @@ D. Product usage
 
   - We hypothesized that caretakers (likely more women) may give a higher satisfaction rating, or be more interested in a virtual agent/chatbot. 
 
-    - We didn’t have a satisfaction rating per se but rather asked them to reply (Based on your experience today, are you willing to use the chatbot again? Yes No Maybe) because we removed Medallia. 86% (38 out of 44) responded that they would be willing to use the chatbot again, so we can intuit that satisfaction was more positive than negative.
+  - We didn’t have a satisfaction rating per se but rather asked them to reply (Based on your experience today, are you willing to use the chatbot again? Yes No Maybe) because we removed Medallia. 86% (38 out of 44) responded that they would be willing to use the chatbot again, so we can intuit that satisfaction was more positive than negative.
 
   - We also hypothesized that Veterans will want the chatbot to transfer their conversation directly to a human agent.  
 
@@ -260,37 +260,66 @@ D. Product usage
 
 > *“Once the chatbot is loaded with more information I can see it will be a big help to the veterans and the VA” (Segment 4, Participant 2)*
   
-## Metrics  TO UPDATE
+## Metrics
 
-| Area | Metrics | Results |
-| ------------ | ------------- | ------------- |
-| **Items tracked** | Most asked about items | 1. VA programs and eligibility for them (36 separate engagements or instances someone asked this into the Virtual Agent)
-2. Misc. medical topics and conditions (26 engagements)
-3. Disability related  (17 separate engagements)
- |
-|                   | Outliers of what users are asking | Wide variety of topics, including appointments, claim status, education related, VA touchpoints (locations, phone numbers), topics related to marginalized populations and others. |
-|                   | Times that the bot ends up in unrecognized intents | Difficult to determine  |
-|                   | Times the bot ends up in error states | One error message was noted in the logs  |
-|                   | How many questions are being asked | 379 total engagements (i.e. times a person entered something into the chatbot window, or an average of 8 engagements per session per user)  |
-|                   | Number of users who get to the end of the conversation vs drop off | Difficult to determine  |
-| **Engagement rates** | How many users interact with the new virtual agent? | 44  |
-|                      | How many left without interaction? | 0  |
-|                      | How many users ask multiple questions in one session? | 48 times that a user asked multiple questions  |
-|                      | How many ask the same question (in variations) during one session? |   |
-| **Satisfaction** | How many times was the virtual agent able to answer a question? |   |
-|                  | How many times was it not able to answer a question? |   |
-|                  | How do Veterans feel about the interaction? | See elsewhere in report from Optimal Workshop or raw data |
-|                  | What could be improved? | See Optimal Workshop or raw data and the POV final report |
-|                  | Are they likely to use this again? | 82% (38 out of 46 participants) indicated they would be likely to use the chatbot again. |
-|                  | Perceived human-requirements |   |
-|                  | How many users directly ask to speak with a human |   |
-|                  | How many still want to speak with a human after an interaction? |   |
-|                  | How many posed a crisis-related statement/question? |   |
-| **Content requests** | What are the most asked about topics by users? | #1, #2, #3 |
-|                      | What types of tasks did users ask the bot to do? | Claim related tasks (‘submit a new claim, check my claim status’)
-and Content related tasks (‘find VA medical facilities near me’)
- |
 
+**Items tracked **
+
+- Most asked about items
+
+  - 1. VA programs and eligibility for them (36 separate engagements or instances someone asked this into the Virtual Agent) 
+  - 2. Misc. medical topics and conditions (26 engagements)
+  - 3. Disability related  (17 separate engagements)
+ 
+- Outliers of what users are asking: Wide variety of topics, including appointments, claim status, education related, VA touchpoints (locations, phone numbers), topics related to marginalized populations and others.
+
+- Times that the bot ends up in unrecognized intents: Difficult to determine
+
+- Times the bot ends up in error states One error message was noted in the logs
+
+- How many questions are being asked: 379 total engagements (i.e. times a person entered something into the chatbot window, or an average of 8 engagements per session per user)
+
+- Number of users who get to the end of the conversation vs drop off: No users dropped off
+
+**Engagement rates **
+
+- How many users interact with the new virtual agent? 44
+
+- How many left without interaction? 0
+
+- How many users ask multiple questions in one session? 48 times that a user asked multiple questions
+
+- How many ask the same question (in variations) during one session? Difficult to determine
+
+**Satisfaction **
+
+- How many times was the virtual agent able to answer a question? 353 (379 total engagement minus 26 not able to answer incidents)
+
+- How many times was it not able to answer a question? 26
+
+- How do Veterans feel about the interaction? See elsewhere in report from Optimal Workshop or raw data
+
+- What could be improved? See Optimal Workshop or raw data and the POV final report.
+
+- Are they likely to use this again? 82% (38 out of 44 participants) indicated they would be likely to use the chatbot again.
+
+- Perceived human-requirements: Unable to understand
+
+- How many users directly ask to speak with a human? 1
+
+- How many still want to speak with a human after an interaction? 3
+
+- How many posed a crisis-related statement/question? There were 6 engagementts that had crisis related content:
+
+call an ambulance for me, number to the crisis line, need a doctor now, suicide hotline number, I took a lot of medications and do not feel well, notify VA of emergency
+
+However, we are unable to determine if those were participants ‘testing’ to see how the chatbot would respond versus actual crisis situations.
+
+**Content requests**
+
+- What are the most asked about topics by users? See ‘most asked about items’
+
+- What types of tasks did users ask the bot to do? Claim related tasks (‘submit a new claim, check my claim status’) and Content related tasks (‘find VA medical facilities near me’)
 
 ## Results of Hypotheses 
 
