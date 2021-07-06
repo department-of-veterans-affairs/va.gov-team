@@ -645,7 +645,7 @@ Form 22-5490
 
 **By submitting this form** you certify that:
 
-- You are the parent, guardian, or custodian of the applicant
+- You're the parent, guardian, or custodian of the applicant
 
 - All statements in this application are true and correct to the best of your knowledge and belief
 
