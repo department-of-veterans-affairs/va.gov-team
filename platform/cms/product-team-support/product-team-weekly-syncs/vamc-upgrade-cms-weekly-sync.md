@@ -24,6 +24,7 @@
 ## July 9 
 
  * What to do about Lovell now that it's (maybe?) in VAST
+ * VAMC detail page menu items in Programs
 
 ## July 2
 
