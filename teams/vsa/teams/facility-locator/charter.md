@@ -31,14 +31,15 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 **Roadmap**
 
 ## Team Members
-Current
+### Current
 - VA Product Owner
   - David Conlon (September 2019 - present) 
-- Product Manager: 
+- Product Manager 
    - Michelle Middaugh (September 2019 - present) 
 - VA UI Design Lead: Ryan Thurlwell
-- UX/Design: 
+- UX/Design
   - Leyda Hughes (June 2020 - present)
+  - Nick Osmanski (April 2021 - present)
 - Back End Engineer
    - Lance Sanchez (October 2019-present)
 - Front End Engineer
@@ -46,9 +47,12 @@ Current
   - Gilbran Rodriguez (October 2019 - present)
   - Gaida Escobar (May 2021 - present)
 
-Past
-- Chris Logan (October 2020 - February 2021)
-- Aricka Lewis (September 2019 - June 2020) 
+### Past
+- UX/Design
+  - Chris Logan (October 2020 - February 2021)
+  - Aricka Lewis (September 2019 - June 2020) 
+- Front End Engineer
+  - Gilbran Rodriguez (October 2019 - July 2021)
 
 ## Workflow + Cadence
 
