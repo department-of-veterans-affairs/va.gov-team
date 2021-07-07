@@ -37,7 +37,7 @@ What is the clear/existing definition of "secure" to follow (see Undesired User 
 
 - For the future iteration, anyone (Veteran, family-member, employee) 
   - anyone who wants to report a civil rights violation
-  - anyone experiencing harassment, sexual harassment or sexual assault
+  - anyone experiencing harassment, sexual harassment or sexual assault.
 
 --- 
 
