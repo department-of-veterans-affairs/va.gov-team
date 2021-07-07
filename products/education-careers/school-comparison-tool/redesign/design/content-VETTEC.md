@@ -15,6 +15,12 @@ Preferred Provider ([Learn more]()) { as applicable, includes icon }
     A provider is “preferred” if the training facility agrees to refund tuition and fees to VA if the student completes the program and doesn’t find meaningful employment within 180 days.
 
     { end Preferred Provider modal }
+    
+{ Closing flag, as relevant }
+
+{ Caution flags, as relevant }
+
+{ See [caution & closing flag content here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/caution-flags/content/Caution%20Flag%20Copy%20for%20Review%20v.1.2.xlsx) }
 
 { icon + Phone number }
 
@@ -179,6 +185,47 @@ To learn more about these approved programs, visit the training provider's websi
 * Call us at 888-GIBILL-1 (888-442-4551). We’re here Monday through Friday, 8:00a.m. to 7:00 p.m. ET. If you have hearing loss, call 711, or
 * Email us at VETTEC.VBABUF@va.gov
 
+
+## Cautionary information
+
+### Alerts from VA and other federal agencies { displayed if applicable }
+
+{ caution flag(s) displayed individually }
+
+
+Before enrolling in a program at this institution, VA recommends that potential students consider these cautionary warnings. Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
+
+To learn more about Caution Flags, [visit the About this Tool Page]().
+
+### Student feedback
+
+* NN student complaints in the last 24 months ([Learn more])
+
+{ Learn more modal }
+
+#### Student complaints
+
+This is the number of closed, Principles of Excellence-related, complaints submitted to VA through the GI Bill Feedback system for this school.
+
+To learn more visit the [VA GI Bill Feedback Tool](https://www.benefits.va.gov/GIBILL/Feedback.asp).
+
+{ end modal }
+
+{ Table showing student complaints for "This campus" and "All campuses" }
+
+{ All campuses  learn more modal }
+
+#### VA Complaints (all campuses):
+
+The number of closed, Principles of Excellence-related, complaints for schools with the same six-digit OPEID code.  
+
+{ end modal }
+
+{ Feedback tool link, right-alignted }
+
+[Submit a complaint through our Feedback System](https://www.va.gov/education/submit-school-feedback/introduction)
+
+{ end link}
 
 
 ## Veteran programs
