@@ -143,3 +143,45 @@ While the information displayed was sufficient, participants suggested content c
 - Add medical specialty, such as Primary care (2 participants)
 - Clinic name is too small (1 participant with TBI)
 - Clinic names need to be understandable (1 participant)
+
+### Participants were confused and wanted more information about what to do next after checking in.
+- Fifty percent (5 participants) weren’t sure what to do next or assumed they would receive a message when the office was ready.
+- Fifty percent would sit in the clinic waiting room and wait for a nurse to call them.
+
+- 4 participants wanted more information on next steps, such as whether the nurse will come to get them or what floor they should go to.
+- 3 participants wanted to see wait time information.
+
+### Fifty percent (5) of participants assumed they would complete this check-in process at the clinic of their appointment.
+- 3 participants assume you completed check-in in the main lobby of the facility.
+- The rest assumed they would complete this outside the facility.
+
+### Participants want travel mileage functionality added to the check-in workflow.
+
+- Without prompting, 3 participants requested that travel mileage be added to this check-in product.
+
+### Participants used the term “check-in” to describe this online experience.
+
+- 8 participants would call this “check-in.”
+- “‘Check-in’ is basic English and it is used almost no matter where you go, especially if it is for an appointment. I don’t know of any other word(s) I would use.”
+
+## Recommendations and next steps
+
+**Short-term changes for the Healthcare Experience team**
+- Test with Android devices, since we only spoke with one Android user.
+- Check on the WiFi and cell connectivity at our pilot sites.
+- Add information about data charges to the poster.
+- Update the poster, so the contact and insurance wording is more visible.
+- Make the clinic name more visible on the appointment page.
+- Add content to the check-in confirmation screen to help clarify that the nurse will get them from the clinic waiting room.
+- Work with change management/facility onboarding group to educate the facilities to hang the posters near the actual clinics and not in the main lobbies (in the larger facilities).
+
+**Short-term changes for the Integration/VeText team**
+
+- Add content to the text message stating it is from the VA.
+
+**Longer-term recommendations**
+- Depending upon adoption rates, we could look into VHIC card scanning capabilities.
+- Look into adding:
+  - another identification data point.
+  - wait time and detailed way-finding information, such as what floor the appointment is on.
+  - travel mileage capabilities.
