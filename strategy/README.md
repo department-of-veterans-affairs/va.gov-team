@@ -20,7 +20,8 @@ Every Veteran is guaranteed access to self service benefits and accurate data.
 ### Increase 📈
 - **Usage of digital, self- service tools**
   - A “tool” is any VA.gov product that allows users to accomplish a specific task. 
-  - These include unauthenticated products like On-site Search or authenticated products like Disability Claims (526).
+    - These include unauthenticated products like On-site Search or authenticated products like Disability Claims (526).
+  - "Usage" is a transaction of the tool completed by a user 
   - This does not include content products like the Benefit Hubs or Resources & Support.
 - **Percent of applications submitted online (vs. paper)**
   - “Applications” are any VA.gov product with an offline/paper analog that delivers a benefit or service to Veterans OR non-Veterans.
