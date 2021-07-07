@@ -145,6 +145,8 @@ While the information displayed was sufficient, participants suggested content c
 - Clinic names need to be understandable (1 participant)
 
 ### Participants were confused and wanted more information about what to do next after checking in.
+<img width="311" alt="Screen Shot 2021-07-07 at 4 57 10 PM" src="https://user-images.githubusercontent.com/66287082/124827764-69290c00-df44-11eb-8d30-0733b5e76e3c.png">
+
 - Fifty percent (5 participants) weren’t sure what to do next or assumed they would receive a message when the office was ready.
 - Fifty percent would sit in the clinic waiting room and wait for a nurse to call them.
 
