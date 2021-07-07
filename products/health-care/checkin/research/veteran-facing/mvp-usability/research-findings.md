@@ -110,6 +110,7 @@ What Veterans said about the experience:
 
 ### Participants used both the QR code and text options.
 <img width="438" alt="Screen Shot 2021-07-07 at 4 40 33 PM" src="https://user-images.githubusercontent.com/66287082/124825770-12bace00-df42-11eb-8661-b3afd96e1cab.png">
+
 - Participants, who screen shared on their mobile phone, mentioned a preference for:
   - QR code: 4
   - Text: 1
