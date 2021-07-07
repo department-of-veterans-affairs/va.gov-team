@@ -42,7 +42,20 @@
 ## July 7
 
 * Leadership page redirects
-* Homepage banner alert with cardcoded alert ID
+  * Possibly no action needed, confirming with Mikki 
+* Homepage banner alert
+  * Current yml approach
+    * Look for lightweight ways to improve existing process
+    * John to speak with Josh T from OPIA about what approach would work, what communication channel
+    * Who else could respond, building in resiliency, not just Kelson, a pool of people
+  * Look at new technical approaches (https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991) 
+    * Kelson's Hardcoded alert ID POC
+      * Replaced banner json with alert with list of alerts with a custom liquid filter that uses alert 42.
+    * New CMS approach to content model / governance https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991#issuecomment-875210594 
+    * React widget
+      * Loading from github
+      * Loading from drupal json file 
+  * This becomes a top priority for Public Websites, over anything CLP 
 * CLP governance updates? 
 
 ## June 30
