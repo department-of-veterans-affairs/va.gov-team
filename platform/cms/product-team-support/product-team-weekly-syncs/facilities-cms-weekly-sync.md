@@ -23,27 +23,48 @@
 
 </details>
 
-## July 6
+## July 7
+
+Leadership URLs
+ * Facilities team to remove need for Feature flag later
+
+VAMC sidebar 
+ * MPS reviewing. 
 
 Engineering
 * Review of Centralized content API and FE changes
+  * Some Centralized content for Vet Centers disappeared due to changes upstream.
+  * Changes to make centralized content work more like other GraphQL output had broader impacts than expected. 
+    * snake case vs not snake 
+    * single object vs array of objects 
+  * in the future
+    * err on the side of over-communication
+    * collaborate across teams on content model documentation
+    * collaborate across teams on testing within tugboat (eg Dependabot-based PR environments for changes to EFF module)
+      * may require some additional clarification of what branch of `content-build` master is in use by a tugboat environment
 * Validation of links in Drupal  
+  * CMS issue to make CTA link and label fields dependent on each other https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5439 
 
 Business
-* Request for "District  level user" role
-  - initiated by District 5 (Vet Centers)
-  - User story: _As a District  level user, I can view/edit/publish content for Vet Centers in my district so that I can assist my counterparts or cover absences._
-  - Volunteer role (not every user in District 5)
-
-* Spotlight character limits
-  * how will existing content be impacted?
-
-* Editorial experience for service content - making the national decription visible
+* Request for "District level user" role
+  - initiated by District 5 (Vet Centers), expectation is that this will be true for all Districts.
+  - User story: _As a District level user, I can view/edit/publish content for Vet Centers in my district so that I can assist my counterparts or cover absences._
 
 Vet Center overall workflow about review
  * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
- * Future: Discuss July 6
+ * Future: Discuss July 7
+ * Does this scale to 140? Could be 7-15 
+ * Alternatives: 
+   * Contact Michelle directly? 
+   * Dave and Michelle could be in Jira, possibly as approvers to a workflow. (new form? could be confusing) 
+   * Main Vet Center could be set to "In review" state, and ? (Could conflict with internal use by Vet Centers)
+ * Decision: With kickoff scheduled next Thursday 15/Friday 16, let's potentially iterate on this after District 5 and continue with status quo for now.
 
+**Done async**
+* Spotlight character limits (async)
+  * how will existing content be impacted?  
+
+* Editorial experience for service content - making the national decription visible (async)
 
 
 
