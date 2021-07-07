@@ -27,6 +27,18 @@ Can ORMDI handle an influx of complaints to process (important to know: historic
 Can the intake system of complaints handle increased load due to a new VA.gov submission mechanism (in addition to the existing mechanisms)
 What is the clear/existing definition of "secure" to follow (see Undesired User / Business Outcomes)
 
+
+## MVP Scope
+
+- For the MVP, the use case will be limited to Veterans reporting one of three types of events
+  - harassment
+  - sexual harassment
+  - sexual assault
+
+- For the future iteration, anyone (Veteran, family-member, employee) 
+  - anyone who wants to report a civil rights violation
+  - anyone experiencing harassment, sexual harassment or sexual assault
+
 --- 
 
 ## Desired User / Business Outcomes
