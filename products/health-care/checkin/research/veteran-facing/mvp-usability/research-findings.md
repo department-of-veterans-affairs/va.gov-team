@@ -121,3 +121,25 @@ What Veterans said about the experience:
 **Additional poster changes:**
 - 1 participant, who works with Veterans, thought we should let everyone know that data charges may apply.
 - 1 participant wanted the insurance/contact information wording to be more visible.
+
+### Participants want more clarification on who the text message is coming from.
+<img width="349" alt="Screen Shot 2021-07-07 at 4 42 27 PM" src="https://user-images.githubusercontent.com/66287082/124826144-80ff9080-df42-11eb-99cd-f0932570691c.png">
+
+- 2 participants wanted the message to look more like it was coming from the VA.
+
+### The insurance and contact information question was unexpected after clicking the URL in the text, especially without the ability to actually update them online.
+<img width="287" alt="Screen Shot 2021-07-07 at 4 44 10 PM" src="https://user-images.githubusercontent.com/66287082/124826306-af7d6b80-df42-11eb-9a9d-e0b6477b6c62.png">
+
+- 4 participants weren’t expecting to see this page.
+  - Some expected to just see appointment information after clicking the URL in the text.
+  - However, this unexpectedness didn’t impact overall usability; everyone successfully and easily completed check-in.
+- 50% of participants want the ability to update contact and insurance information online.
+
+### The appointment information shown was sufficient for participants to understand what appointment they were checking in for.
+<img width="272" alt="Screen Shot 2021-07-07 at 4 45 25 PM" src="https://user-images.githubusercontent.com/66287082/124826416-cfad2a80-df42-11eb-8c3c-e4a855981631.png">
+
+While the information displayed was sufficient, participants suggested content changes:
+- Add provider name (2 participants)
+- Add medical specialty, such as Primary care (2 participants)
+- Clinic name is too small (1 participant with TBI)
+- Clinic names need to be understandable (1 participant)
