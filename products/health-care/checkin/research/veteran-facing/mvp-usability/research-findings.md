@@ -1,4 +1,5 @@
 # Check-in MVP Usability
+[Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/Research%20Findings.pdf)
 
 ## Background & Goals
 
