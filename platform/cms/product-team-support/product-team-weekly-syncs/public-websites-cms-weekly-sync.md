@@ -37,7 +37,10 @@
 
 ## July 14
 
+* Banners
 * CMS account admin policy review
+* CLP governance updates
+* Events 
 
 ## July 7
 
