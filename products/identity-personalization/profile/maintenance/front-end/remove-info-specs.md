@@ -46,7 +46,7 @@ See [content section](https://github.com/department-of-veterans-affairs/va.gov-t
 
 #### Layout 
 
-##### Personal and contact information page
+**Personal and contact information page**
 
 - Remove button should display on the right side of the edit button when contact information is present.
 
@@ -57,7 +57,7 @@ See [content section](https://github.com/department-of-veterans-affairs/va.gov-t
   - On screens 768px - 1024px wide,  the left hand column (currently a `<dfn>` element) should be 100px
   - On screens 1025px wide and above, the left hand column should be 125px
 
-##### Warning modal
+**Warning modal**
 
 - On screens 768px and higher, remove and cancel buttons should be side by side - I believe the component is set up properly for this
 - On mobile:
