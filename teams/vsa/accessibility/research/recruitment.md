@@ -35,13 +35,14 @@ Purposefully selecting a wide range of social identity categories (like race or 
 - Document diversity of needs and behavior
 - Identify important common patterns that cut through the noise of variation on dimensions of interest
 
-Should you use MVS, try to meet the following numbers (based on VA statistics) in your sample (or collective sample groups from several lean research iterations):
+Should you use MVS, try to meet the following numbers (based on VA statistics) in your sample as a **minimum** (or collective sample groups from several lean research iterations):
 - [50% aged 55-64+](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)
 - [50% with an identified cognitive disability](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)
 - [50% primarily mobile users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
 - [30% people of color](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
 - [25% in a rural area](https://www.ruralhealth.va.gov/aboutus/ruralvets.asp)(anecdotally [quoted at 45% by David Shulkin)](https://ldi.upenn.edu/news/david-shulkin-looks-back-his-tenure-veterans-affairs-secretary)
 - [25% without a degree](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
+- [17% with immigrant origins](https://www.google.com/url?q=https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018&sa=D&source=editors&ust=1625685989316000&usg=AOvVaw3BUzLAZ-kcn0HyefpbWihq)
 - [10% women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 
 If feasible, we also recommend recruiting at least one participant from the following underserved communities:
@@ -49,28 +50,26 @@ If feasible, we also recommend recruiting at least one participant from the foll
 - Veterans in the LGTBQ+ community, given recent direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
 - Veterans with other than honorable discharge.
 - Immigrant Veterans or Veterans from immigrant families.
+- Veterans living abroad
+- Non-english speakers
 
 If time and budget allows, we recommend testing with Veterans who use the following AT:
 - Screen reader (mobile and desktop, beginner and advanced)
 - Keyboard 
 - Magnification 
-- Braille reader 
-- Captions or transcript 
 - Hearing aids
-- Switch device
 - Voice recognition 
+- (We are currently working on guidance for switch devices and braille readers)
 
 If relevant to your study, your sample may also aim to include:
-- Non English speakers
 - Family members and caregivers
 - Veteran service officers (VSOs)
-- Veterans living abroad
 
-Veterans will likely fit multiple requirements. [Use our MVS spreadsheet to check if you're meeting the numbers above](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing).
+To simplify planning for recruitment, [use our VA recruitment checker spreadsheet to check if you're meeting the right amount of numbers for your study](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing).
 
 If your time and budget does not allow for including groups listed above, please reference the communicating and documenting risk section.
 
-<img width="610" alt="Screen Shot 2021-06-16 at 10 53 59 AM" src="https://user-images.githubusercontent.com/14154792/122242246-2918c100-ce91-11eb-8221-af16a1269c31.png">
+<img width="570" alt="Screen Shot 2021-07-07 at 2 29 57 PM" src="https://user-images.githubusercontent.com/14154792/124810849-cf576400-df2f-11eb-87b4-b26a105dba90.png">
 
 > An example of a study with 7 Veterans in the MVS checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
 
@@ -90,9 +89,9 @@ The MVS checker should be used to keep track of which underserved communities ha
 - Experiencing a large volume of no shows.
 - Looking to iterate on findings or need to validate new changes in a design throughout a study.
 
-<img width="639" alt="Screen Shot 2021-06-16 at 10 59 47 AM" src="https://user-images.githubusercontent.com/14154792/122243250-f8855700-ce91-11eb-86d3-d2461875cbfb.png">
+<img width="859" alt="Screen Shot 2021-07-07 at 2 30 20 PM" src="https://user-images.githubusercontent.com/14154792/124810904-dd0ce980-df2f-11eb-9dfc-f41b11ed646b.png">
 
-> Example of a series of well-planned cohorts in the MVS checker
+> Example of a series of well-planned cohorts in the VA recruitment checker
 
 <br aria-hidden="true"/>
 
