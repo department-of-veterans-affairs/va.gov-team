@@ -35,9 +35,15 @@
 
 </details>
 
-## July 6
+## July 14
 
+* CMS account admin policy review
+
+## July 7
+
+* Leadership page redirects
 * Homepage banner alert with cardcoded alert ID
+* CLP governance updates? 
 
 ## June 30
 
