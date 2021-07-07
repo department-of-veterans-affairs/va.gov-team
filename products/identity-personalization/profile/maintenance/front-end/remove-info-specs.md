@@ -6,7 +6,7 @@
 
 ## Description
 
-We're moving the functionality to remove information outside of the edit functionality and into the read mode of profile. This originated from an [accessibility audit identifying a needed improvement to style buttons to look like buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562) (instead of links).  Unfortunately, our current design system button options leave us with confusing button hierarchy with three buttons (edit mode contains `update`, `cancel`, and `remove` buttons). 
+We're moving the functionality to remove contact information outside of the edit functionality and into the read mode of profile. This originated from an [accessibility audit identifying a needed improvement to style buttons to look like buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19562) (instead of links).  Unfortunately, our current design system button options leave us with confusing button hierarchy with three buttons (edit mode contains `update`, `cancel`, and `remove` buttons). 
 
 We decided to move the remove functionality to read mode to improve accessibility, and make it more clear that Veterans have control over their profile information.  This removes guess work around the ability to remove contact info if a Veteran chooses.
 
@@ -18,19 +18,19 @@ These changes impact any part of profile that currently has the "remove" functio
 
 ### Button layout and updated labels
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/mobile-remove-update-labels.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/mobile-remove-update-labels.png" width="320" />
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/tablet-remove-button-update-labels.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/tablet-remove-button-update-labels.jpg" width="768" />
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/desktop-remove-update-labels.jpg)
 
 ### Warning modal
 
-See copy section for latest copy
+See [content section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/maintenance/front-end/remove-info-specs.md#content) for latest copy
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/mobile-warning-modal.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/mobile-warning-modal.png" width="320" />
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/desktop-warning-modal.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/desktop-warning-modal.png" />
 
 
 
@@ -65,7 +65,7 @@ See copy section for latest copy
   - There should not be horizontal scrolling
   - Heads up: It looks like the warning modal isn't optimized for mobile because it doesn't reflect either of the first two bullet points.
 
-## Copy
+## Content
 
 ### Personal and contact information page
 
