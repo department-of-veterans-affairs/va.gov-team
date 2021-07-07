@@ -63,9 +63,9 @@ _One participant said they used both staff members and kiosks equally._
 
 ### Key findings
 1. Current check-in pain points include:
-  a. long lines or wait times to complete check-in
-  b. being redirected to staff when utilizing a kiosk
-  c. thinking you are checked in when you aren’t.
+  - long lines or wait times to complete check-in
+  - being redirected to staff when utilizing a kiosk
+  - thinking you are checked in when you aren’t.
 2. The proposed MVP simplifies check-in, streamlines the experience, and helps with wait times.
 3. Other non-digital check-in solutions still need to exist.
 4. Fifty percent (5) of participants are concerned that only their phone number is used for identity verification.
