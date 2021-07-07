@@ -182,20 +182,23 @@ To learn more about these approved programs, visit the training provider's websi
 
 **What if I have questions about the VET TEC program?**
 
-* Call us at 888-GIBILL-1 (888-442-4551). We’re here Monday through Friday, 8:00a.m. to 7:00 p.m. ET. If you have hearing loss, call 711, or
-* Email us at VETTEC.VBABUF@va.gov
+* Call us at 888-GIBILL-1 (888-442-4551). We’re here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call [711](), or
+* Email us at [VETTEC.VBABUF@va.gov]()
 
 
 ## Cautionary information
 
-### Alerts from VA and other federal agencies { displayed if applicable }
+{ closing / caution flag alerts, displayed only if applicable }
+
+### Alerts from VA and other federal agencies 
 
 { caution flag(s) displayed individually }
-
 
 Before enrolling in a program at this institution, VA recommends that potential students consider these cautionary warnings. Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
 
 To learn more about Caution Flags, [visit the About this Tool Page]().
+
+{ end closing / caution flag alerts }
 
 ### Student feedback
 
@@ -322,9 +325,9 @@ Physical address {list physical address}
 
 Mailing address {list mailing address}
 
-Email address {list email address}
+Email address {[list email address]()}
 
-Phone number {list phone number}
+Phone number {[list phone number]()}
 
 ### School certifying officials
 
