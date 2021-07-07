@@ -392,7 +392,7 @@ To learn more about this benefit and see eligibility requirements, [visit the VR
 
 ### How do I prepare before starting my application?
 
-* [Find out if you're eligible for VA education benefits]()
+* [Find out if you're eligible for VA education benefits](https://www.va.gov/education/eligibility/)
 * Gather the documents and information listed below that you'll need to apply for education benefits
 
 **Note:** To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application.
