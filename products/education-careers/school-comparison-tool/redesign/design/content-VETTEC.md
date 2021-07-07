@@ -2,6 +2,8 @@
 
 # Name of VET TEC Provider
 
+CITY, STATE
+
 Preferred Provider ([Learn more]()) { as applicable, includes icon }
 
 { Learn more aria label: "Learn more about Preferred providers" }
@@ -14,10 +16,10 @@ Preferred Provider ([Learn more]()) { as applicable, includes icon }
 
     { end Preferred Provider modal }
 
-{ icon + City, State }
 { icon + Phone number }
 
 { icon + provider website }
+
 { icon + provider locale }
 
 Compare { compare checkbox }
@@ -123,7 +125,17 @@ Online monthly rate: $XXX
   
 **Note:** Your VET TEC training won't count against your GI Bill entitlement.
 
-## Getting started with benefits
+
+## Approved programs
+
+The following training programs are approved for VET TEC:
+
+{ table showing Program name, Length, and Tuition & Fees }
+
+*Showing X of X programs*
+
+
+## Getting started with VET TEC
 
 ### What types of training does VET TEC cover?
 
@@ -168,18 +180,6 @@ To learn more about these approved programs, visit the training provider's websi
 * Email us at VETTEC.VBABUF@va.gov
 
 
-## Approved programs
-
-The following training programs are approved for VET TEC:
-
-{ table showing Program name, Length, and Tuition & Fees }
-
-*Showing X of X programs*
-
-### Get started with CareerScope
-CareerScope(R) take career and educational planning to a new level. The proven career assessment and reporting system from the Vocational Research Insitute is a powerful, yet easy-to-use program. 
-
-[Get started with CareerScope](https://va.careerscope.net/gibill) { action link }
 
 ## Veteran programs
 
@@ -262,6 +262,12 @@ Please contact the school or their military office directly for information on t
     [Learn more about the VSOC program](https://www.benefits.va.gov/vocrehab/vsoc.asp)
 
     { end VetSuccess modal }
+    
+
+## Get started with CareerScope
+CareerScope(R) take career and educational planning to a new level. The proven career assessment and reporting system from the Vocational Research Insitute is a powerful, yet easy-to-use program. 
+
+[Get started with CareerScope](https://va.careerscope.net/gibill) { action link }
 
 ## Contact information
 
