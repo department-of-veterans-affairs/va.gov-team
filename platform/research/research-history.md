@@ -16,6 +16,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2021
 
+#### June 23-29: Check-in MVP Usability Veteran-facing Research
+*Healthcare experience, Lead Researcher: Kristen McConnell*
+- Number of participants: 10 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/README.md)
+- List of keywords: Veterans, appointments, check-in, kiosk, staff members, text message check-in, digital check-in, medical appointments, contact information, insurance
+
 #### June 14-17: VA.gov profile notification settings usability study
 *Authenticated experience, Lead Researcher: Liz Lantz*
 - Number of participants: 8 Veterans
