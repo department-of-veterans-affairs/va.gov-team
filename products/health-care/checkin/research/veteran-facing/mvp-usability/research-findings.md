@@ -89,9 +89,9 @@ The stories shared and paint points discussed about past check-in experiences su
 ### The proposed MVP simplifies check-in, streamlines the experience, and helps with wait times.
 
 What Veterans said about the experience:
-- “It seems pretty simple.”
-- “Smooth and easy.”
-- “It’s relatively simple, sometimes these things can get overly complicated, but this doesn’t take more than a 10-year-old to figure it out.”
+  - “It seems pretty simple.”
+  - “Smooth and easy.”
+  - “It’s relatively simple, sometimes these things can get overly complicated, but this doesn’t take more than a 10-year-old to figure it out.”
 
 - 4 participants think this will help with long lines/wait times.
 - Participants had no problem moving from poster to text to va.gov.
