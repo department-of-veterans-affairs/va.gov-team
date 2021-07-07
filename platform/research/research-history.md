@@ -22,7 +22,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research)
 - Keywords: notifications, settings, SMS text messages, email notifications, removing contact information, appointment reminders, opt-in, opt-out, unsubscribe, read/edit views, missing contact information 
 
-#### June 14th: Virtual Agent Veterans with a disability interviews
+#### June 14th: Virtual Agent Inclusive Design interviews
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
 - Number of participants: 2
@@ -40,7 +40,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 1st: Virtual Agent Proof of Concept 
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
-- Number of participants: 100
+- Number of participants: 44
 
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/controlled-study)
 
