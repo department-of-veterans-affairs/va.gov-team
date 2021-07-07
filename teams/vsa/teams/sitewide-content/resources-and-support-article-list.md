@@ -54,3 +54,4 @@
 | [Submitting a Financial Status Report (VA Form 5655)](https://www.va.gov/resources/submitting-a-financial-status-report-va-form-5655/)                                          | Other topics and questions | 5/17/21              |       |
 | [How to get free language assistance at VA](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/)                                                          | Other topics and questions | 5/25/21              |       |
 | [Your civil rights and how to file a discrimination complaint](https://www.va.gov/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint/)                      | Other topics and questions | 5/25/21              |       |
+| Combat-Related Special Compensation (CRSC) (NOT LIVE YET) | Disability | | Reach out to SME Juan Lyons in December for new link for online submission of the Air Force reconsideration CRSC form |
