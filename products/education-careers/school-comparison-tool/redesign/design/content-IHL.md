@@ -397,8 +397,9 @@ To learn more about this benefit and see eligibility requirements, [visit the VR
 
 **Note:** To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application.
 
-[Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
-[Find out how to apply for educational and career counseling (Chapter 36)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
+[Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
+
+[Find out how to apply for educational and career counseling (Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling/)
 
 ### What documents and information do I need to apply? 
 * Social Security number
