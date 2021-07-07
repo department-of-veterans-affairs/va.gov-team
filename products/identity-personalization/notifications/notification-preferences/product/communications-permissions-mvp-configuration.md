@@ -1,5 +1,8 @@
 ## Data Configuration: Communications Items, Groupings, and Channels
 
+Original file: [communications-permissions-configuration-data-worksheet-content-ia-review_051221.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6778504/communications-permissions-configuration-data-worksheet-content-ia-review_051221.xlsx)
+
+
 ### Items Included in MVP
 As of Q2 2021, the following items, groupings and channels were agreed upon for the MVP.
 
