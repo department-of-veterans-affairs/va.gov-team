@@ -6,7 +6,7 @@ NNN GI Bill students ([Learn more]())
 
 
 
-    {GI Bill students modal }
+    {GI Bill students modal, Learn more aria label: "Learn more about how we calculate the number of GI Bill students" }
 
     GI Bill students
     The number of Veterans, service members and family members using their GI Bill benefits attending this school in the last calendar year. This includes all chapters of the GI Bill program (e.g., Post-9/11, Montgomery GI Bill, Reserve Education Assistance Program, and Veteran Readiness and Employment). Keep in mind that differences in attendee numbers don’t necessarily mean one school is more military friendly than another. This information will be updated annually.
@@ -26,7 +26,7 @@ What's your military status? {dropdown, Veteran selected by default}
 
 Which GI Bill benefit do you want to use? ([Learn more]()) {dropdown, Post-9/11 GI Bill (Ch 33) selected by default}
 
-    {GI Bill benefit modal }
+    {GI Bill benefit modal, Larn more aria label: "Learn more about VA education and training programs" }
 
     #### Which GI Bill benefit do you want to use?
 
@@ -38,7 +38,7 @@ Which GI Bill benefit do you want to use? ([Learn more]()) {dropdown, Post-9/11 
 
 Cumulative Post-9/11 active-duty service ([Learn more]()) {dropdown, 36+ months: 100% selected by default}
 
-    {Cumulative Post-9/11 modal }
+    {Cumulative Post-9/11 modal, Learn more aria label: "Learn more about Cumulative Post-9/11 service" }
 
     #### Cumulative Post-9/11 service
 
@@ -50,7 +50,7 @@ Did you use your Post-9/11 GI Bill benefits for tuition, housing, or books for a
 
 Yes | No { selection options }
 
-    { Before Jan 1 modal }
+    { Before Jan 1 modal, Learn more aria label: "Learn more about your monthly housing allowance rate" }
 
     #### What is Section 501 (Monthly Housing Allowance Rate)?
 
@@ -64,7 +64,7 @@ Yes | No { selection options }
 
 #### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
 
-    { Enlistment modal }
+    { Enlistment modal, Learn more aria label: "Learn more about how the length of Montgomery GI Bill active-duty service affects your benefits" }
 
     #### Completed an enlistment of (MGIB):
 
@@ -86,7 +86,7 @@ Will you be taking any classes in person?  ([Learn more]()) {radio button select
 
 Yes | No { selection options }
 
-    { Classes in-person modal }
+    { Classes in-person modal, Learn more aria label: "Learn more about how we calculate your housing allowance based on where you take classes" }
 
     #### Your housing allowance is determined by where you take classes
 
@@ -102,7 +102,7 @@ Yes | No { selection options }
 
 Will be working ([Learn more]()) {radio button selection, "30 plus hours per week" selected by default}
 
-    { Will be working modal }
+    { Will be working modal, Learn more aria label: "Learn more about how the number of hours you work affects your housing allowance" }
 
     #### Will be working ###
 
@@ -120,7 +120,7 @@ Eligible for kicker bonus? ([Learn more]()) {radio button selection, No selected
 
 Yes | No { selection options }
 
-    { Kicker modal }
+    { Kicker modal, Learn more aria label: "Learn more about the kicker bonus" }
 
     #### Eligible for kicker bonus?
 
@@ -191,13 +191,13 @@ Months 19-24: $XX/mo
 
 ### How do I prepare before starting my application?
 
-* [Find out if you're eligible for VA education benefits]()
+* [Find out if you're eligible for VA education benefits](https://www.va.gov/education/eligibility/)
 * Gather the documents and information listed below that you'll need to apply for education benefits
 
 **Note:** To apply for Veteran Readiness and Employment (Chapter 31) or educational and career counseling through Personalized Career Planning and Guidance (Chapter 36), you'll need to use a different application.
 
-[Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
-[Find out how to apply for educational and career counseling (Chapter 36)](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply)
+[Find out how to apply for Veteran Readiness and Employment (Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
+[Find out how to apply for educational and career counseling (Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling/)
 
 ### What documents and information do I need to apply? 
 * Social Security number
@@ -229,7 +229,7 @@ To learn more about Caution Flags, [visit the About this Tool Page]().
 
 NN student complaints in the last 24 months ([Learn more]())
 
-        { Student complaints modal }
+        { Student complaints modal, Learn more aria label: "Learn more about student complaints" }
 
         #### Student complaints
 
@@ -241,7 +241,7 @@ NN student complaints in the last 24 months ([Learn more]())
 
 { Table showing student complaints for "This campus" and "All campuses" if applicable }
 
-        { All campuses modal }
+        { All campuses modal, Learn more aria label: "Learn more about student complaints for all campuses" }
 
         #### VA Complaints (all campuses):
 
@@ -272,7 +272,7 @@ Mailing address {list mailing address}
 
 VA Facility Code  [Learn more](): { dynamic display }
 
-        { VA Facility code modal }
+        { VA Facility code modal, Learn more aria label: "Learn more about the VA facility code" }
 
         #### VA facility code
 
@@ -282,7 +282,7 @@ VA Facility Code  [Learn more](): { dynamic display }
 
 ED IPEDS code [Learn more](): { dynamic display }
 
-        { IPEDS code modal }
+        { IPEDS code modal, Learn more aria label: "Learn more about the ED IPEDS code" }
 
         #### ED IPEDS code
 
@@ -293,7 +293,7 @@ ED IPEDS code [Learn more](): { dynamic display }
 
 ED OPE code [Learn more](): { dynamic display }
 
-        { OPE code modal }
+        { OPE code modal, Learn more aria label: "Learn more about the ED OPE code" }
 
         #### ED OPE code
         Identification number used by the U.S. Department of Education’s Office of Postsecondary Education (OPE) to identify schools that have Program Participation Agreements (PPA) so that its students are eligible to participate in Federal Student Financial Assistance programs under Title IV regulations.
