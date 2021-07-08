@@ -1,0 +1,20 @@
+name: Auto-add Access Requests to devops project
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  assign-to-project:
+    runs-on: ubuntu-latest
+    name: Add card to project To-Do column
+    steps:
+    - name: Assign new issues to the project
+      if: |
+        (github.event.action == 'opened' ||
+          github.event.action == 'labeled') &&
+        contains(github.event.issue.labels.*.name, 'ops-access-request')
+      run: |
+        gh api --method POST /projects/columns/14976794/cards -f note="${{ github.event.issue.html_url }}" -H 'Accept: application/vnd.github.inertia-preview+json'
+      env:
+        GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN}}

@@ -1,5 +1,5 @@
 # Design
-The VSP Design team supports teams building on VA.gov by providing guidance, feedback, and other resources to ensure that we maintain consistent and human-centered design across the site.
+The Platform Design team supports teams building on VA.gov by providing guidance, feedback, and other resources to ensure that we maintain consistent and human-centered design across the site.
 ### Table of contents
 - [How to contact us](#howtocontact)
 - [What we do](#whatwedo)
@@ -8,15 +8,15 @@ The VSP Design team supports teams building on VA.gov by providing guidance, fee
 
 ## <a id="howtocontact"></a> How to contact us
 If you need a hand with anything, don't hesitate to contact us.
-- Naomi Marcussen, Platform Design Lead - Slack @NaomiMarcussen
+- Ryan Thurlwell, Design Lead - VA - Slack @rtwell
+- Naomi Marcussen, Design Lead - Platform - Slack @NaomiMarcussen
 - Allison Christman, UX Designer - Platform Support Team - Slack @AllisonChristman
-- Crystabel Reiter, UX Designer - Design System Team - Slack @CrystabelReiter
 
 Slack channel: [#design](https://dsva.slack.com/channels/design)
 Github/Zenhub labels: product-support
 
 ## <a id="whatwedo"></a> What we do
-VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.
+Platform Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.
 - Show you how we carry out research and design in support of VA.gov products.
 Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
 - Identify design system components and patterns that are most appropriate for what your team is designing
@@ -25,22 +25,22 @@ Provide resources for planning, recruiting, facilitating, and synthesizing resea
 
 ## <a id="workingwithus"></a> Working with us
 ### Orientation
-During orientation, you’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
+During orientation, you’ll meet the people on the Platform who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
 
-### VSP Collaboration Cycle
-The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
-Design guidance is included as a standard in the following phases of the VSP Collaboration Cycle:
+### Platform Collaboration Cycle
+The [Platform Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) defines the process for Platform support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
+Design guidance is included as a standard in the following phases of the Platform Collaboration Cycle:
 
 - **Define:** In the early stages of a project, we will meet in a Design Intent Collaboration meeting to provide you with direction regarding existing design components and research findings relevant to the problem space. 
 
-- **Discover:** Usability testing prep collaboration happens when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
+- **Discover:** A Midpoint review happens when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
 
 - **Build:** Staging review is conducted when design is on staging and provides a final look through of the built-out design. Ideally design is polished and discussed previously through prior reviews. We don't want to be making any major design changes at this stage.
 
-Review the [Design checklist for usability testing prep and staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-checklist-for-usability-testing-and-staging-revi.md) to prepare your designs for the Usability testing prep collaboration and Staging review meetings. 
+Review the [Design checklist for midpoint review and staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-checklist-for-usability-testing-and-staging-revi.md) to prepare your designs for the Midpoint review and Staging review meetings. 
  
-### Other ways to get VSP design feedback
-We are also available for informal discussions about design challenges and can help answer questions outside of the formal collaboration within the VSP Collaboration Cycle:
+### Other ways to get Platform design feedback
+We are also available for informal discussions about design challenges and can help answer questions outside of the formal collaboration within the Platform Collaboration Cycle:
 
 - **Platform Design Office Hours**
 Every Tuesday from 2:30-3:30pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZTIwYTc5cWExbmdkcXR1NGpxNG1vNmZkNnBfMjAyMTAzMDlUMTkzMDAwWiBuYW9taS5tYXJjdXNzZW5Ab2RkYmFsbC5pbw&tmsrc=naomi.marcussen%40oddball.io&scp=ALL).
@@ -62,6 +62,7 @@ We encourage all designers to be open about their process and seek feedback thro
 
 Date | Revisions Made | Author
 -----|----------------|--------
+June 9, 2021 | Updated VSP to Platform and names of Collaboration Cycle points | Naomi Marcussen
 March 4, 2021 | Updated names and Office Hours | Naomi Marcussen
 March 20, 2020 | Reformatted using new template. | Emily Waggoner
 

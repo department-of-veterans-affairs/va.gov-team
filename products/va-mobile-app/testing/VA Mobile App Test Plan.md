@@ -82,10 +82,10 @@ Issues should be classified according to severity based on an agreed upon scale.
 
 | **Severity** | **Impact** |
 | --- | --- |
-| Critical |• This bug crashes system in use; causes file or data corruption, or causes data potential data loss including audit data<br>• This bug causes an abnormal return to the operating system (crash or system failure messages)<br>• This bug ‘hangs’ the system such that a soft or hard reboot of the device is the only exit from the condition|
-| High |• This bug causes a lack of vital program functionality but has an available workaround |
-| Medium |• This bug will degrade the quality or performance of the system to a point to be considered unusable. However, if an intelligent workaround exists for achieving desired functionality or performance this can be moved to Low<br>• This bug prevents other areas of the product from being tested, however, does not prevent other areas of the product from being tested if this bug is not induced.|
-| Low |• There is insufficient or unclear error message conditions but has a minimal or no visible impact on product use from the end user perspective |
+| Critical (sev-1)|• This bug crashes system in use; causes file or data corruption, or causes data potential data loss including audit data<br>• This bug causes an abnormal return to the operating system (crash or system failure messages)<br>• This bug ‘hangs’ the system such that a soft or hard reboot of the device is the only exit from the condition|
+| High (sev-2)|• This bug causes a lack of vital program functionality but has an available workaround |
+| Medium (sev-3)|• This bug will degrade the quality or performance of the system to a point to be considered unusable. However, if an intelligent workaround exists for achieving desired functionality or performance this can be moved to Low<br>• This bug prevents other areas of the product from being tested, however, does not prevent other areas of the product from being tested if this bug is not induced.|
+| Low (sev-4)|• There is insufficient or unclear error message conditions but has a minimal or no visible impact on product use from the end user perspective |
 
 Potential fields to log when tracking issues:
 

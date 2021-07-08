@@ -1,7 +1,10 @@
 
-# Kickoff 
+# Check-in
 
-## Preliminary Roadmap – Veteran-Facing Capabilities
+## Refined High-level Scope Workflow after Initial Veteran Discovery 
+![Preliminary-Veteran-check-in-flow](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
+
+## Kickoff – Veteran-Facing Capabilities Preliminary Scope
 
 ### MVP
 - Ability to check in for appointments
@@ -57,4 +60,5 @@
 - Geo location. Not being able to access check-in until a particular timeframe and in a particular location. Pushing check-in flow.
 - Other systems were looking into taking a picture of insurance card and using that to help auth in.
 - Proxy check-ins?
+- Biometrics
 - Connection to wayfinding.

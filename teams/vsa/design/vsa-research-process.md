@@ -30,7 +30,7 @@ Some thoughts about whether or not to include instructions to "think aloud" at t
 * If you want to really see what someone would do alone, by asking them to talk aloud, you're changing their behavior. In cases like this, you can better understand what you're looking for by asking specific questions at key moments during the testing.
 
 ## <a id="vsp-collaboration-cycle"></a>VSP Collaboration Cycle
-* Before running a usability study, request a [Usability Testing Prep collaboration session with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)
+* Before running a usability study, check and see if a [midpoint review with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md) was recommended during your collaboration cycle kick-off. If so, work with your PM to get that scheduled.
 * VSP should schedule the meeting within 2-3 days
 * Once the meeting has happened, take a look at the feedback. If the research plan and guide are good to go, you can send to Lauren that same day, and use the week things are being scheduled to make any requested changes to the prototype
 

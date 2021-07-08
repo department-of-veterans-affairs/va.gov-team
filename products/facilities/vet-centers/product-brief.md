@@ -27,7 +27,7 @@ This document will focus on Vet Center detail page enhancement
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#key-links)
 
 ### User Journey
-- Vet Centers are community-based counseling centers which provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members and their families. 
+- Vet Centers are community-based counseling centers that provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members,  and their families. 
 - Vet Centers guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. 
 - Vet Center benefits never expire so Veterans can be engaged in services off/on or continuously throughout the journey. 
 
@@ -113,7 +113,7 @@ Five additional locations were chosen with the intent of filling any gaps in rep
  | Added Jan 2021 | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
  | Added Jan 2021 | Cincinnati, OH | Erika.Reynolds@va.gov|   |
  | Added Jan 2021 | Great Falls, MT | Richard.Ferry@va.gov |  |
- | Added Jan 2021 | Sacramento, CA | Joseph.Moglia@va.gov |   |
+ | Added Jan 2021 | (Sacramento) Replaced by Concord, CA on 5/4/21 | Joseph.Moglia@va.gov | Proximity to another Vet Center. Conford replaced Sacramento due to Joe moving to Concord location  |
 
 ### Not in scope
 
@@ -135,7 +135,7 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 - Increased utilization of Vet Center services (?)
 - Increased understanding of Vet Center services (scroll depth, expansion)
 - Rank in Google search
-- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Ouotreach Specialists** 
+- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Outreach Specialists** 
    - (in-bound) Referral source is tracked nationally (how did you hear of us?) (NSS)
    - Not all Vet Centers capture call data (can be standardized)
 

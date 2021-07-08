@@ -14,9 +14,9 @@ This research is planned within the context of the Public Websites team and the 
   - If not using VA.gov, why? (e.g., don't know about it, too hard to use)
   - What do they typically do on VA.gov? What tools have they tried using?
     - Search (in header)
-    - Benefit Hubs (mega-menu dropdowns in header under "VA Benefits and Health Care")
+    - "VA Benefits and Health Care" dropdown in header
     - Other header links (About VA, Find a VA Location, Contact us)
-    - 4 white quadrants
+    - "Top 4" boxes
     - Topics below the photos
     - 3 red/blue buttons below the topics
     - Links below the 3 red/blue buttons
@@ -59,7 +59,7 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - At least 2 people of color
 - At least 1 woman
 - At least 1 participant 35 or under
-- At least 2 people who don't have a college degree (to include enlisted Veterans)
+- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
@@ -78,7 +78,7 @@ Ask Perigean to recruit 20 people in order to get 12 completed sessions using th
 - What kind of device will you be joining on and are willing to share a browser window on--computer, tablet, or smartphone?  
 
 ## Timeline
-#### Desired Timeline: April 26 - May 4, 2021 
+#### Desired Timeline: April 26 - May 5, 2021 
 **One-hour** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
@@ -90,6 +90,7 @@ April 29, 2021 | Noon - 8:30 pm
 April 30, 2021 | Noon - 8:30 pm
 May 3, 2021 | Noon - 8:30 pm
 May 4, 2021 | Noon - 8:30 pm
+May 5, 2021 | Noon - 2:30 pm, 4:30 - 8:30 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
@@ -108,4 +109,7 @@ Please list the people who will be serving in each role. **Include the primary p
  
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/conversation-guide.md)	
-- Research Findings	
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md)	
+
+## Approvals
+Plan reviewed and approved by Lauren Alexanderson on April 19, 2021

@@ -27,7 +27,7 @@ Last Updated March 16, 2021
 ## The Problem
 
 - Direct deposit for edu functionality still lives on eBenefits. Since we moved direct deposit for comp & pen to VA.gov last year, this means that veterans now need to update their direct deposit info in two different places.
-- Historically, eBenefits has has issues around fraud + direct deposit. This is one of the major reasons we moved over direct deposit for comp & pen to VA.gov last year — VA.gov has greater security and requires 2FA for all users. With direct deposit for edu still on eBenefits, we're leaving that feature vulnerable.
+- Historically, eBenefits has had issues around fraud + direct deposit. This is one of the major reasons we moved over direct deposit for comp & pen to VA.gov last year — VA.gov has greater security and requires 2FA for all users. With direct deposit for edu still on eBenefits, we're leaving that feature vulnerable.
 - EBenefits is eventually going away, so we need to migrate all functionality over to VA.gov. Direct deposit for edu is still an outstanding project.
 
 ### User Goals

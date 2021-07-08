@@ -1,11 +1,97 @@
 # Meeting Notes
 
+## 2021-05-11 Design Office Hours - Attending to Clarify Design Pattern Request
+### Attendees
+- Ryan Thurlwell
+- Shawna Hein
+- Marci McGuire
+- Megan Gayle
+- Cassandra Allen 
+- Allison Christman
+- Rebecca Walsh
+- Riley Orr
+- Naomi Marcussen
+
+### Notes
+- Marci showed a screen shot with the components she believes should be included in the pattern (image is shown below)
+- Ryan advised that is exactly what would be included
+- Ryan provided additional context around the difference between styles and patterns with a real-world example
+- We are creating the "single source of truth" for search
+- We are creating a "base" pattern with possible extensions like sub-headers
+- Ryan typically creates a minimal version and a maximum version
+- Minimum version has all required components that *must* be there
+- Maximum version has additional components that are optional if they apply to a particular tool
+- It's not necessary to include details like specific spacing, but you should give a particular order that the components must appear in
+- Ryan also shared an example with us, and said we could also look at the ones already in the [Design System design.va.gov](https://design.va.gov/patterns/)
+- A good example to look at is [Pages](https://design.va.gov/patterns/pages) to see how required and optional pieces are documented
+- We can also look at [Form Templates](https://design.va.gov/patterns/form-templates) for usability guidance examples
+- Answer every question that a brand-new designer who knows nothing about your pattern would possibly ask
+- For the first draft, we don't need to get into the Search.gov typography since it's an anomoly
+- Make a generic example for your most bare-bones search results page and strip out everything specific to Search.gov (green type, top recommendations, right rail)
+- Take a stab at documenting accessibility, then ping Josh to review and make any recommendations on edits
+- Designers are not expected to provide code recommendations
+- We don't need to have a developer add the code as part of this exercise.  Storybook is where the code will be kept.
+
+
+### What Should be Included in the Pattern
+- Breadcrumbs
+- Title
+- Instructions
+- Form fieldset
+- Search field/button
+- Result count
+- Sorting (if applicable)
+- HRs above/below/between results
+- Result information "chunks"
+- Pagination
+- Division between search component and any content that appears after it (like Frequently Used VA Forms)
+- Above components are highlighted in the screen shot below
+
+![image](https://user-images.githubusercontent.com/73354907/117873042-5c05de80-b26d-11eb-8311-f0a1d75a4ed1.png)
+
+
+
+### General Notes
+
+## 2021-05-03 Discuss opening items remaining from Design Intent Review
+- Horizontal rule placement
+    - Cassandra mockups showing how some results have HRs
+    - Does anyone have a recommendation?
+        - Global has the top recommendations section, the others do not
+        - Ryan was purposely not prescriptive; leaving it up to the designers to be consistent.  
+        - Solution - They can just get rid of them except where there's a top recommendation and to split the results apart from pagination
+        - Josh said he would actually recommend the opposite. A) different treatment of the top recommendation or B) remove the body paragraph information above the link. 
+        - Per Megan they wanted to be subtle with the treatment so that peope wouldn't think it was an ad and ignore it
+        - Ryan asked if we have full CSS creative control of the search results (we do), and then we make a decision about how important the top recommendations are. 
+        - 
+- Treatment of headings in search results
+    - Consistency of the titles - more of a content thing. "Find a VA Form" - per Ryan that's added because it's a SEO thing.
+    - Designers should specify that something is an H1, H2, H3 - just a representative result set
+- Form number in front of the link (or not)
+    - Josh will follow up on the ticket - we should leave the form number out of the result and just have it above.
+- Reducing amount of content above search fields
+    - Some have verbose instructions and some don't.
+    - Ryan - we're getting into the UX aspect; we will table it for this discussion.
+- When/how we should address the search field itself:
+    - Having a magnifying glass on button (global search, R&S) vs. not (Find VA Form)
+    - Inconsistent spacing between text field & button
+         - Spacing in Find a VA form will be different because it has sort option that the others don't.
+    - R&S button that stays inactive until three characters are entered, others are always active
+    - Ryan is fine making the search consistent, but not removing the gray box because it directly affects the mobile experience on Resources & Support - he'a also fine with making the button fully active on R&S. 
+- The collaspsed search at the top - Josh asked Ryan if that could possibly be managed by focus control.  
+- Gray box around field - we're going to try it out.
+    - It's helpful for the developers to say "this should be x many spacing units to the user's eye"
+ - H1s and breadcrumbs - Mikki saw there were some changes from the last time.
+    - One thing to be cautious of - in R&S, you are going to get the search results on a separate page. Global search redirects back to the home page. 
+    - On Find a VA Form, parameters are added, but the H1 never changes.  Josh and Mikki will discuss later.
+        - On mobile it should only show Home
+
 ## 2021-04-15 Review Comp Updates
 
 ### Topic
 Review comps Cassandra updated for Find a VA Form, Resources & Support prior to next week's design intent review
 
-#### Attendees
+### Attendees
 - John Hashimoto, PO
 - Marci McGuire, PM for Decision Tools Team
 - Brian Lloyd, PM for Public Websites Team

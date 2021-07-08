@@ -2,6 +2,8 @@
 ```diff
 - WIP
 ```
+## Locations
+- Staging: http://staging.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880/introduction
 
 #### Communications
 - Team Name: eBenefits
@@ -11,11 +13,11 @@
 - Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
 #### Team Members  
-**Jason Wolf**  
-**James Adams**   
-**Jesse Cohn**   
-**Micah Chiang**  
-**Kathleen Crawford**  
+Jason Wolf    
+James Adams     
+Jesse Cohn     
+Micah Chiang    
+Kathleen Crawford   
 
 ---
 
@@ -85,7 +87,7 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 - Collaborating with stake holders on pain points
 - Early Collab Cycle exercises
 
-### Key Decisions
+### Product Decisions
 - First version should be the auto-eligibility function and a form submission
 ---
    

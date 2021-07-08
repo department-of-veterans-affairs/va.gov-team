@@ -4,18 +4,18 @@
 
 *Review participant list for participant name and screener question responses*
 
-**10 min before session**: 
+**10-15 min before session**: 
 - *Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
 
 - *Share brief summary of participant demographic info*
 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
-*Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
+- *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
-*Open a standalone browser window to VA.gov*
+*Open a standalone browser window to VA.gov, va.gov/find-forms, and va.gov/resources (so can copy URL into chat or share my screen)*
 
-*Do not disturb on so no notifications*
+*Do Not Disturb ON so no notifications*
 
 *Make sure everyone is muted except me and the participant*
 
@@ -31,7 +31,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or task.
+- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -53,7 +53,8 @@ Before we start, I want to go over a few things:
 
 ## Warm-up Questions - 10 minutes
 
-Let’s start with a few questions...
+Let’s start with a few questions... *(Veteran / Caregiver / Phone / Computer)*
+*If Caregiver, confirm:* Are you a caregiver for a Veteran? Are you a Veteran?
 
 - *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
 
@@ -103,7 +104,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
  
 ### Task 2: [Track claim status] - 4 minutes
 
@@ -118,7 +119,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
 ### Task 3: [Appoint a representative to help with your claim--Find form] - 4 minutes
 
@@ -131,7 +132,10 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
+- *(if they struggled...)* I'd like you to go to another page, and I'll tell you the URL: va.gov/find-forms. 
+  - Can you try using this page to help with the task?
+  - How would you expect to get to this page from va.gov?
   
 ### Task 4: [Update direct deposit] - 4 minutes
 
@@ -146,7 +150,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search > direct deposit > Update Your Direct Deposit Information*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
 ### Task 5: [Travel reimbursement direct deposit--R&S] - 4 minutes
 
@@ -160,7 +164,10 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 - *RECORD did they find the "How to set up direct deposit for VA travel pay reimbursement" article in R&S? yes / no*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
+- *(if they struggled...)* I'd like you to go to another page, and I'll tell you the URL: va.gov/resources. 
+  - Can you try using this page to help with the task?
+  - How would you expect to get to this page from va.gov? 
  
 ### Task 6: [Find a VA location] - 4 minutes
 
@@ -176,7 +183,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Google*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 
 ### Task 7: [Get benefit letter] - 4 minutes 
 
@@ -191,9 +198,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search* 
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
-
-## IF TIME, more Veteran tasks to do...
+- *RECORD task success: yes / no / help needed*
 
 ### Task 8: [Get medical records] - 4 minutes
 
@@ -208,7 +213,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search* 
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
 
 ### Task 9: [Update dependents] - 4 minutes
 
@@ -223,39 +228,10 @@ I would like you to *talk aloud* as much as possible so that you share what you'
     - *Search "dependent" > Add Dependents to Your VA Disability Benefits*
 - *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
+- *RECORD task success: yes / no / help needed*
   
-### Task 10: [Get a Home Loan] - 4 minutes
-
-- Pretend that you're considering buying a new home. How can the VA help?
-- *NOTE if they say they don't do this*
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-- *RECORD navigation:*
-    - *VA Benefits & Health Care > Housing assistance > About VA home loan types* 
-    - *(phone) Menu at top > VA Benefits & Health Care > ...*
-    - *Housing assistance link below photos* 
-    - *Search* 
-- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
-  
-### Task 11: [Go back to school] - 4 minutes
-
-- Let's say that you're thinking of going back to school to train for a new career. How could you find out if the VA would pay for this?
-- *NOTE if they say they don't do this*
-- *(if they don't say VA.gov, ask:)* Could you please go to VA.gov and show me what you would do? 
-- *RECORD navigation:*
-    - *Education quadrant > Apply for Educ Benefits* 
-    - *VA Benefits & Health Care > Educ & training*
-    - *(phone) Menu at top > VA Benefits & Health Care > ...*
-    - *Educ & training link below photos*
-    - *Search*
-- *(if unclear)* Can you talk to me about how you got here? *(or why you chose to go straight to Search)*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no*
-
 ## Post-Task Interview - 5 minutes
-
+*Type into #feedback-backchannel: "Any questions you want me to ask?"*
 - What do you *like* about using the VA.gov website?
 - What do you *dislike* about using VA.gov?
 - What would you like to *change* about VA.gov?
@@ -267,3 +243,10 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
 Thank you so much again, and enjoy the rest of your day!
+
+## After Session 
+- Click "End" on zoom website
+- Download recordings
+- Download notes
+- Debrief to my spreadsheet
+

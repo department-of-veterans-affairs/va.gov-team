@@ -8,28 +8,41 @@ What value does the app provide to Veterans? Our big bet is that:
 
 *How will we know whether we were right about this bet?*
 
+This bet and the measures of success will change over time; the metrics below are for 
+
 ---
 
 ## Measures of Success for Veterans
 
-### Objective: Veterans enjoy using the app
+**All KPIs tracked in spreadsheet [here](https://docs.google.com/spreadsheets/d/1G-Ru00IIEVCeMbYMqWVDTLO0f4WDdVrchPp0dIHM1N4/edit#gid=1172783502)**
 
-- KR: Maintain a high App Store and Google Play star rating (4 stars or above)
+### In-App Objective: Veterans can and will more easily complete actions on the app compared to other veteran-facing platforms.
 
-- KR: Receive a high (>65%) proportion of positive comments
+- KR: Establish a baseline for the uptake of services
+  - Utilization of profile, secure messaging, claims, appointments, and letters
+ 
+- KR: Equal or lower transaction times compared to VA.gov key transactions
+  - Screen-time to transaction copletion on profile, SM, claims, appointments, letters (time) 
 
 
-### Objective: Veterans find the app valuable enough to download and use
+### App Objective: Veterans can access their authenticated experience quickly and easily on the mobile app.
 
-- KR: maintain or increase repeat usage for the various features in the app compared to VA.gov or MHV (If users return multiple times to check their claim status or their appointments -- on par or above VA.gov -- we can assume that they find the app to be valuable)
+- KR: Establish baseline biometric uptake
+  - KPI: Biometric login opt-in rate
 
-- KR: High usage of the app _[once we have a more splashy app store launch]_
+- KR: Increase login success rates compared to VA.gov
+-   KPI: Login start-success rate
 
-  - KPI: number of app downloads
 
-  - KPI: daily or monthly active users
+### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
 
-  - KPI: number of times each feature is used (as an indication of how valuable it is)
+-KR: We are placed in app store
+  - App store approvals
+  - Downloads
+
+- KR: We have approval from VSP and OCTO stakeholders
+  - Approvals from VSP and OCTO stakeholders
+
 
 
 ### Objective: Veterans can more easily complete transactions on the app than they can on desktop or mobile web
@@ -85,6 +98,8 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 ## How might our goal for the app change over time?
 
+![image](https://user-images.githubusercontent.com/7320097/113216231-fecc4580-9249-11eb-9894-8eeb96c8d0f3.png)
+
 - Now - Companion App: Vets who already consume VA services and engage with VA websites find it easier to complete transactions on the mobile app (companion to the website)
 
 - Next - Channel of Choice: A subset of Veterans _prefer_ managing their benefits on the app over using VA websites (mobile app becomes their preferred channel). Requires setting up analytics to track individual user's behavior across web and mobile
@@ -107,4 +122,4 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 - Relationship to VA.gov: do we cannibalize traffic for some users? Or we might find that it increases digital engagement overall (ie, Vets who interact more on mobile, also interact more on VA.gov and MHV)
 
-![image](https://user-images.githubusercontent.com/7320097/113216231-fecc4580-9249-11eb-9894-8eeb96c8d0f3.png)
+

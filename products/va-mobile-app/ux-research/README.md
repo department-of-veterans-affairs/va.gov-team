@@ -1,6 +1,22 @@
 
-# Background
-The goal of our UX research is to validate or invalidate bets that were derived from our initial [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint). In order to do that, we have a set of activites that will allow us to experiment and test the bets. Each activity has a corresponding output that we will use to communicate our findings. 
+# UX Research: Jan 2021 forward
+The goals of our UX research January 2021 and forward have been: 
+- Identify usability obstacles
+- Identify issues and bugs present in the mobile app build once users have signed in with their own credentials
+- In Summer 2021 we are moving into usability testing
+
+## Activites and Output
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
+| **Feb 2021** |  Usability testing of Jan 2021 internal release | Understand usability obstacles, get feedback on the MVP app features currently in development | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/research-summary.md)|
+| **March 2021** |  Usability testing of Secure Messaging high-fi prototype | Understand usability obstacles, ask questions, and get feedback on an MVP secure messaging feature, inform the approach of Secure Messaging in the MVP | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/secure-messaging/round-1/research-summary.md)|
+| **March-May 2021** |  Co-branding research | Understand the impact of MHV branding on Veterans perception of the MVP mobile app | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/Co-branding%20research/co-branding-research-report--may-2021.pdf)|
+| **April-May 2021** |  User Acceptance Testing | Find issues and bugs in live code app with users signed in with their own credentials | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
+| **Summer 2021** |  Usability Testing | Test usability of the app with users who are blind or low vision | In progress soon |
+
+
+# UX Research: March-December 2020
+The goals of our UX research in March-December 2020 were to validate or invalidate bets that were derived from our initial [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint). In order to do that, we did a set of activites that allowed us to experiment and test the bets. Each activity has a corresponding output that we used to communicate our findings. 
 
 ## Activites and Output
 | Date                 | Activity                 | Description         | Output        |
@@ -21,7 +37,7 @@ The goal of our UX research is to validate or invalidate bets that were derived 
 
 ----
 
-## Guiding Questions
+#### Guiding Questions
 These bets were made in response to questions that have guided our UX research: 
 1. What features should a VA mobile app include?
 *What features do Veterans prioritize and need in a VA mobile app?*
@@ -30,7 +46,7 @@ These bets were made in response to questions that have guided our UX research:
 
 In other words, the bets are initial recommendations about features would be valuable to Veterans. The first bet speaks to the types of features that Veterans need and would use whereas the second bet speaks to the reason they would use them instead of what exists today. Using the activities and outputs listed below, we will either valiate or invalidate these bets, getting us one step closer to recommending a feature set for a VA mobile app.
 
-## Bet: Authenticated features are more valuable to Veterans than unauthenticated features
+#### Bet: Authenticated features are more valuable to Veterans than unauthenticated features
 To evaluate this bet, there are a series of exploration questions that we wil be trying to answer in our activites and output:
 
 - Who are the Veterans that will be most likely to use a VA mobile app and why? 
@@ -38,7 +54,7 @@ To evaluate this bet, there are a series of exploration questions that we wil be
 - How are Veterans managing their VA benefits and services (apps, web sites, phone, VSO, etc.)
 - Has the recent global pandemic changed the types of services Veterans need from VA? If so, how has it changed?
 
-## Bet: A mobile application provides more value to Veterans than a mobile VA.gov experience.
+#### Bet: A mobile application provides more value to Veterans than a mobile VA.gov experience.
 To evaluate this bet, there are a series of exploration questions that we wil be trying to answer in our activites and output:
 
 - How do Veterans currently use their mobile devices?

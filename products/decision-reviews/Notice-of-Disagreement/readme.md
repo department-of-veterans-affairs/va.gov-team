@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
+- Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/archives/C5AGLBNRK)
 - Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/decision-reviews/board-appeal/
 - Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
@@ -143,10 +143,10 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## OKRs and KPIs
 ## KPIs
 - Number of NOD submissions (input KPI)
-- 20% of claims completed online in first month with 5% MoM inclease
-- <15% abandon rate from start of form (is there a save in progress option? 
+- 20% of appeals completed online in first month with 5% MoM increase
+- <15% abandon rate from start of form 
 - Average time to complete the form
-- Where do Veterans abandon the form
+- Where do Veterans abandon the form 
 - Successful vs. Unsuccessful submissions
 
 
@@ -205,14 +205,15 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 - Product Manager: Veronica Henry 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Robin Garrison, Ed Mangimelli
+- Engineers: Anna Carey, Robin Garrison, Asha Gross
 
 ## Incident Response
-- Primary POCs (Veronica Henry, Matt Self, John Hashimoto)
-- Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Primary POCs (Veronica Henry, Matt Self)
+- Engineering POCs (Anna Carey, Robin Garrison)
 - Dashboards:
   - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
   - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
+- Sentry issues: http://sentry.vfs.va.gov/organizations/vsp/issues/?query=source%3A10182-board-appeal&statsPeriod=14d
    
 ## Screenshots
 

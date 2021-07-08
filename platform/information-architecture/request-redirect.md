@@ -13,9 +13,10 @@ All redirects will be routed through Content and IA team for validation and then
 - Readily answer any questions during the vetting and implementation process
 - Validate redirect in production and close the ticket
 
-### Responsibility of Content and IA team
+### Responsibility of VSP IA
 - Ensure that the the destination URLs are accurate based on agreed IA decisions
 - Ensure that all known legacy URLs are accounted for
+- Review analytics and SEO data if necessary (although rare, in some cases a redirect may not be needed)
 - Validate if there are any existing redirects that need to be updated
 - Ensure redirect is properly documented in IA documentation
 - Assign to proper implementation team
@@ -24,21 +25,22 @@ All redirects will be routed through Content and IA team for validation and then
 - Size and schedule the request based on the requested launch date
 - Communicate any technical concerns to everyone on the ticket
 - Communicate any timing concerns to everyone on the ticket
+- Implement appropriate redirects per the instructions of the requesting team
 - Communicate when redirect has been deployed so teams can validate
 
 ### Process
 
 1. Create an issue using the "Redirect Request" template **at least 2 weeks prior to desired launch date**
+    - Add name of page(s) to be redirected into title the issue "Redirect Request: [name of page/description of pages]"
+    - Include the date redirects need to be implemented by
+    - Include background and reason for redirect request
+    - Document the current URL(s) and where the URL(s) should be redirected to.  
+    - Add any special instructions (i.e. this should be a temporary redirect, not permanent)
 
-- Title the issue "Redirect Request: [name of page/description of pages]"
-- Include the date redirects need to be implemented by
-- Include background and reason for redirect request
-- Document the current URL and where the URL should be redirected to.  
+2. VSP IA will review the request for accuracy and ensure it is properly documented, then assign it to implementation team.
 
-2.  Content and IA team will vet the request and assign to implementation team.
+3. Implementation team will implement the redirects - per the noted timing and instructions - and notify everyone on the issue once deployed.
 
-3. Implementation team will implement redirects and notified everyone on issue once deployed.
-
-4. Requesting team will validate in production and close issue. 
+4. VSP IA and/or requesting team will validate in production and close issue. 
 
 

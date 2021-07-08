@@ -1,0 +1,1048 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "VAOS Service",
+    "version" : "@swagger.contract.version@"
+  },
+  "servers" : [
+    {
+      "description" : "SQA",
+      "url" : "https://veteran.apps-staging.va.gov/vaos/v1"
+    },
+    {
+      "description" : "PROD",
+      "url" : "https://veteran.apps.va.gov/vaos/v1"
+    }
+  ],
+  "security" : [ {
+    "requireVamfJwtKey" : [ ]
+  } ],
+  "tags" : [ {
+    "name" : "Appointments"
+  }, {
+    "name" : "Patient Scheduling Metadata"
+  }, {
+    "name" : "Sites"
+  } ],
+  "paths" : {
+    "/patients/{icn}" : {
+      "get" : {
+        "tags" : [ "Patient Appointment Metadata" ],
+        "summary" : "This endpoint retrieves metadata about a patient's eligibility to schedule appointments.",
+        "description": "A patient's eligibility to create appointment requests or direct schedule for the given clinical service and facility ID is retrieved.  This eligibility is determined by retrieving the scheduling configuration from VATS and comparing to a patient's request and appointment history.",
+        "operationId" : "fetchPatientAppointmentMetadata",
+        "parameters" : [ {
+          "name" : "icn",
+          "in" : "path",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        }, {
+          "name" : "clinicalServiceId",
+          "in" : "query",
+          "schema" : {
+            "$ref": "#/components/schemas/ClinicalServiceType"
+          },
+          "required" : true
+        }, {
+          "name" : "facilityId",
+          "in" : "query",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        }, {
+          "name" : "type",
+          "in" : "query",
+          "schema" : {
+            "type" : "string",
+            "enum" : [ "direct", "request" ]
+          },
+          "required" : true
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/PatientAppointmentMetadataResponse"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500" : {
+            "description" : "Internal server error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/appointments" : {
+      "get" : {
+        "tags" : [ "Appointments" ],
+        "summary" : "Fetch Appointments",
+        "description" : "Retrieves all appointments for the patient",
+        "operationId" : "fetchAppointments",
+        "parameters" : [ {
+          "name" : "icn",
+          "in" : "path",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        }, {
+          "name" : "start",
+          "in" : "query",
+          "description" : "The start date for the query.",
+          "required" : true,
+          "schema" : {
+            "type" : "string",
+            "format" : "date-time"
+          }
+        }, {
+          "name" : "end",
+          "in" : "query",
+          "description" : "The end date for the query.",
+          "required" : true,
+          "schema" : {
+            "type" : "string",
+            "format" : "date-time"
+          }
+        }, {
+          "name" : "statuses",
+          "in" : "query",
+          "description" : "A CSV list of the desired appointment statuses to fetch/filter by.",
+          "schema" : {
+            "$ref" : "#/components/schemas/AppointmentStatus"
+          },
+          "style": "form",
+          "explode": false
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/AppointmentsResponse"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500" : {
+            "description" : "Internal Server Error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post" : {
+        "tags" : [ "Appointments" ],
+        "summary" : "Create an Appointment",
+        "description" : "Create an appointment",
+        "operationId" : "createAppointment",
+        "parameters" : [ {
+          "name" : "icn",
+          "in" : "path",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/CreateAppointmentRequest"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/Appointment"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500" : {
+            "description" : "Internal Server Error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/appointments/{appointment-id}" : {
+      "get" : {
+        "tags" : [ "Appointments" ],
+        "summary" : "Fetch Appointment",
+        "description" : "Retrieve an appointment by ID",
+        "operationId" : "fetchAppointment",
+        "parameters" : [ {
+          "name" : "icn",
+          "in" : "path",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        }, {
+          "name" : "appointment-id",
+          "in" : "path",
+          "schema" : {
+            "type" : "integer"
+          },
+          "required" : true
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/AppointmentResponse"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500" : {
+            "description" : "Internal Server Error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put" : {
+        "tags" : [ "Appointments" ],
+        "summary" : "Update an Appointment",
+        "description" : "Update an appointment by ID",
+        "operationId" : "updateAppointment",
+        "parameters" : [ {
+          "name" : "icn",
+          "in" : "path",
+          "schema" : {
+            "type" : "string"
+          },
+          "required" : true
+        }, {
+          "name" : "appointment-id",
+          "in" : "path",
+          "schema" : {
+            "type" : "integer"
+          },
+          "required" : true
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/UpdateAppointmentRequest"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/Appointment"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "404" : {
+            "description" : "The appointment could not be found."
+          },
+          "500" : {
+            "description" : "Internal Server Error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/locations/{locationId}/clinics/{clinicId}/slots" : {
+      "get" : {
+        "tags" : [ "Sites" ],
+        "summary" : "Finds open appointments slots within a VistA clinic",
+        "operationId" : "getClinicSlots",
+        "parameters" : [ {
+          "name" : "locationId",
+          "description" : "The facility division ID, such as 442 or 534gd.",
+          "in" : "path",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "clinicId",
+          "description" : "The clinic IEN.",
+          "in" : "path",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "start",
+          "in" : "query",
+          "description" : "The start date for the query.",
+          "required" : true,
+          "schema" : {
+            "type" : "string",
+            "format" : "date-time"
+          }
+        }, {
+          "name" : "end",
+          "in" : "query",
+          "description" : "The end date for the query.",
+          "required" : true,
+          "schema" : {
+            "type" : "string",
+            "format" : "date-time"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Appointment Time Slots for a site code",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/SlotsResponse"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401" : {
+            "description" : "Unauthorized: authorization information is missing or invalid."
+          },
+          "403" : {
+            "description" : "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500" : {
+            "description" : "Internal server error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/locations/{locationId}/clinics" : {
+      "get" : {
+        "tags" : [ "Clinic" ],
+        "summary" : "Search for VistA clinics at a facility.",
+        "operationId" : "getClinics",
+        "parameters" : [ {
+          "name" : "locationId",
+          "description" : "The facility division ID, such as 442 or 534gd.",
+          "in" : "path",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "patientIcn",
+          "in" : "query",
+          "description" : "The ICN for the patient to find clinics for. Only valid if searching for primary care clinics.",
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "clinicIds",
+          "in" : "query",
+          "description" : "A comma-separated list of clinic IDs (IENs) at the facility identified by facilityId.",
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "clinicalService",
+          "in" : "query",
+          "schema" : {
+            "$ref": "#/components/schemas/ClinicalServiceType"
+          },
+          "description" : "Matching clinics must have stop codes that match the stop code configuration for the given clinical service ID (fetched from Mobile Facility Service v2)."
+        }, {
+          "name" : "pageSize",
+          "in" : "query",
+          "schema" : {
+            "type" : "integer"
+          },
+          "description" : "The number of clinics to return in each page of results. If set to 0, all results will be returned in a single page."
+        }, {
+          "name" : "pageNumber",
+          "in" : "query",
+          "schema" : {
+            "type" : "integer"
+          },
+          "description" : "Which page from the result set to to return. Valid values are greater than or equal to 0. If unspecified, then then first page will be returned."
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ClinicsResponse"
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad request",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "500" : {
+            "description" : "Internal server error",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components" : {
+    "securitySchemes" : {
+      "requireVamfJwtKey" : {
+        "type" : "apiKey",
+        "in" : "header",
+        "name" : "X-VAMF-JWT"
+      }
+    },
+    "schemas" : {
+      "AppointmentStatus" : {
+        "type" : "string",
+        "enum" : [ "proposed", "pending", "booked", "arrived", "noshow", "fulfilled", "cancelled" ]
+      },
+      "AppointmentsResponse" : {
+        "description" : "An array of appointments",
+        "type" : "object",
+        "properties" : {
+          "data" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/Appointment"
+            }
+          }
+        }
+      },
+      "AppointmentResponse" : {
+        "description" : "A single appointment",
+        "type" : "object",
+        "properties" : {
+          "data" : {
+            "$ref" : "#/components/schemas/Appointment"
+          }
+        }
+      },
+      "AppointmentKind" : {
+        "type" : "string",
+        "enum" : [ "clinic", "cc", "telehealth", "phone" ],
+        "description" : "The kind of appointment:\n * clinic - A clinic (in-person) appointment\n * cc - A community-care appointment\n * telehealth - A virtual appointment\n * phone - A phone appointment\n"
+      },
+      "UpdateAppointmentRequest" : {
+        "description" : "A request to create a new appointment.",
+        "type" : "object",
+        "properties" : {
+          "status" : {
+            "$ref" : "#/components/schemas/AppointmentStatus"
+          }
+        }
+      },
+      "CreateAppointmentRequest" : {
+        "description" : "A request to create a new appointment.",
+        "type" : "object",
+        "properties" : {
+          "kind" : {
+            "$ref" : "#/components/schemas/AppointmentKind"
+          },
+          "status" : {
+            "$ref" : "#/components/schemas/AppointmentStatus"
+          },
+          "patientIcn" : {
+            "description" : "The patient ICN",
+            "type" : "string",
+            "nullable" : false
+          },
+          "locationId" : {
+            "description" : "The sta6aid for the VAfacility where the appointment is registered.",
+            "type" : "string"
+          },
+          "clinic" : {
+            "description": "The clinic ID for the Appointment",
+            "type": "string"
+          },
+          "reason" : {
+            "description" : "The reason for an Express Care request, or the purpose for a a non-Express Care request.",
+            "type" : "string"
+          },
+          "slot" : {
+            "$ref" : "#/components/schemas/Slot"
+          },
+          "contact": {
+            "$ref": "#/components/schemas/PatientContact"
+          },
+          "serviceType" : {
+            "type" : "string",
+            "description" : "the care type for the appointment"
+          },
+          "requestedPeriods" : {
+            "type" : "array",
+            "description" : "a list of requested periods for appointment",
+            "items" : {
+              "$ref" : "#/components/schemas/Period"
+            }
+          }
+        }
+      },
+      "Appointment" : {
+        "description" : "Information about a future or past meeting.",
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "description" : "A unique identifier for this appointment.",
+            "type" : "string",
+            "maxLength" : 64
+          },
+          "kind" : {
+            "$ref" : "#/components/schemas/AppointmentKind"
+          },
+          "status" : {
+            "$ref" : "#/components/schemas/AppointmentStatus"
+          },
+          "serviceType" : {
+            "description" : "the care type for the appointment",
+            "type": "string"
+          },
+          "patientIcn" : {
+            "description" : "The patient ICN",
+            "type" : "string",
+            "nullable" : false
+          },
+          "locationId" : {
+            "description" : "The sta6aid for the VAfacility where the appointment is registered.",
+            "type" : "string"
+          },
+          "clinic" : {
+            "description": "The clinic ID for the Appointment",
+            "type": "string"
+          },
+          "telehealth" : {
+            "$ref" : "#/components/schemas/TelehealthInfo"
+          },
+          "practitioners" : {
+            "description" : "The practitioners participating in this appointment.",
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/Practitioner"
+            }
+          },
+          "reason" : {
+            "description" : "The reason for an Express Care request, or the purpose for a a non-Express Care request.",
+            "type" : "string"
+          },
+          "start" : {
+            "description" : "The start time of the appointment.",
+            "type" : "string",
+            "format" : "date-time"
+          },
+          "end" : {
+            "description" : "The end time of the appointment.",
+            "type" : "string",
+            "format" : "date-time"
+          },
+          "minutesDuration" : {
+            "type" : "integer",
+            "description" : "The duration of the meeting, in minutes."
+          },
+          "slot" : {
+            "$ref" : "#/components/schemas/Slot"
+          },
+          "requestedPeriods" : {
+            "type" : "array",
+            "description" : "a list of requested periods for appointment",
+            "items" : {
+              "$ref" : "#/components/schemas/Period"
+            }
+          },
+          "contact": {
+            "$ref": "#/components/schemas/PatientContact"
+          },
+          "preferredTimesForPhoneCall": {
+            "type": "array",
+            "description": "a list of times the patient prefers to be contacted by phone",
+            "items": {
+              "type": "string",
+              "enum": ["Morning", "Afternoon", "Evening"]
+            }
+          },
+          "priority" : {
+            "description" : "an unsigned integer",
+            "type" : "integer",
+            "minimum" : 0
+          },
+          "cancellationReason" : {
+            "description" : "The reason the appointment was cancelled.",
+            "type" : "string"
+          },
+          "description" : {
+            "description" : "Not used.",
+            "type" : "string"
+          },
+          "comment" : {
+            "type" : "string"
+          }
+        }
+      },
+      "PatientContact": {
+        "description": "Patient contact information",
+        "type": "object",
+        "properties": {
+          "telecom": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ContactPoint"
+            }
+          }
+        }
+      },
+      "ContactPoint": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["email", "phone"],
+            "nullable": false
+          },
+          "value": {
+            "type": "string",
+            "nullable": false
+          }
+        }
+      },
+      "Slot" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "description" : "The slot ID",
+            "type" : "string",
+            "pattern" : "[A-Za-z0-9\\-\\.]{1,64}"
+          },
+          "start" : {
+            "description" : "Date/Time that the slot is to begin.",
+            "type" : "string",
+            "format" : "date-time"
+          },
+          "end" : {
+            "description" : "Date/Time that the slot is to end.",
+            "type" : "string",
+            "format" : "date-time"
+          }
+        }
+      },
+      "SlotsResponse" : {
+        "type" : "object",
+        "properties" : {
+          "data" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/Slot"
+            }
+          }
+        }
+      },
+      "Clinic" : {
+        "type" : "object",
+        "properties" : {
+          "vistaSite" : {
+            "description" : "The VistA site ID (also known as the sta3n) to which this clinic belongs.",
+            "type" : "integer",
+            "format" : "int32",
+            "minLength" : 3,
+            "maxLength" : 3
+          },
+          "id" : {
+            "description" : "The VistA clinic IEN. Unique within the context of a specific VistA server.",
+            "type" : "string"
+          },
+          "serviceName" : {
+            "description" : "The clinic name. If the clinic is configured with a patient-friendly name then that will be the value. Otherwise it will be the internal clinic name.",
+            "type" : "string"
+          },
+          "physicalLocation" : {
+            "description" : "Additional physical location information describing where the clinic is located within the VA facility.",
+            "type" : "string"
+          },
+          "phoneNumber" : {
+            "description" : "The phone number for the clinic.",
+            "type" : "string",
+            "example" : "123-456-7890 ext. 112"
+          },
+          "stationId" : {
+            "description" : "The physical VA facility ID (sta6aid) where the clinic is located.",
+            "type" : "string"
+          },
+          "stationName" : {
+            "description" : "The name of the VA facility where the clinic resides.",
+            "type" : "string"
+          },
+          "primaryStopCode" : {
+            "description" : "The clinic primary stop code.",
+            "type" : "integer",
+            "format" : "int32",
+            "minLength" : 3,
+            "maxLength" : 3
+          },
+          "primaryStopCodeName" : {
+            "description" : "The clinic primary stop code name.",
+            "example" : "OCCUPATIONAL HEALTH",
+            "type" : "string"
+          },
+          "secondaryStopCode" : {
+            "description" : "The clinic secondary stop code.",
+            "type" : "integer",
+            "format" : "int32",
+            "minLength" : 3,
+            "maxLength" : 3
+          },
+          "secondaryStopCodeName" : {
+            "description" : "The clinic secondary stop code name.",
+            "type" : "string"
+          },
+          "patientDirectScheduling" : {
+            "description" : "Whether direct scheduling by patients is enabled.",
+            "type" : "boolean"
+          },
+          "patientDisplay" : {
+            "description" : "Whether appointments at this clinic should be displayed to patients.",
+            "type" : "boolean"
+          },
+          "char4": {
+            "type": "string",
+            "description": "The CHAR4 code associated with this clinic.",
+            "example": "CDQC"
+          }
+        }
+      },
+      "ClinicsResponse" : {
+        "type" : "object",
+        "properties" : {
+          "data" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/Clinic"
+            }
+          }
+        }
+      },
+      "TelehealthInfo" : {
+        "description" : "Details about a telehealth (virtual) meeting.",
+        "type" : "object",
+        "properties" : {
+          "url" : {
+            "description" : "The meeting URL.",
+            "type" : "string"
+          },
+          "atlas": {
+            "$ref": "#/components/schemas/TasInfo"
+          }
+        }
+      },
+      "TasInfo" : {
+        "type" : "object",
+        "properties" : {
+          "siteCode" : {
+            "description": "The telehealth access site (TAS) site ID.",
+            "type" : "string"
+          },
+          "confirmationCode": {
+            "type": "string"
+          },
+          "address" : {
+            "$ref" : "#/components/schemas/TasAddress"
+          }
+        }
+      },
+      "TasAddress" : {
+        "type" : "object",
+        "properties" : {
+          "streetAddress" : {
+            "type" : "string"
+          },
+          "city" : {
+            "type" : "string"
+          },
+          "state" : {
+            "type" : "string"
+          },
+          "zipCode" : {
+            "type" : "string"
+          },
+          "country" : {
+            "type" : "string"
+          },
+          "latitutde" : {
+            "description" : "Latitude of the site",
+            "type" : "number",
+            "format" : "double"
+          },
+          "longitude" : {
+            "description" : "Longitude of the site",
+            "type" : "number",
+            "format" : "double"
+          },
+          "additionalDetails" : {
+            "description" : "AdditionalDetails of the site",
+            "type" : "string"
+          }
+        }
+      },
+      "PractitionerId" : {
+        "description" : "A practitioner ID from an external system.",
+        "type" : "object",
+        "properties" : {
+          "system" : {
+            "type" : "string",
+            "description" : "HSRM, Cerner, etc"
+          },
+          "value" : {
+            "type" : "string",
+            "description" : "the practitioner ID"
+          }
+        }
+      },
+      "Practitioner" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "$ref" : "#/components/schemas/PractitionerId"
+          },
+          "firstName" : {
+            "type" : "string"
+          },
+          "lastName" : {
+            "type" : "string"
+          },
+          "practiceName" : {
+            "type" : "string"
+          }
+        },
+        "description" : "Details about the practitioner."
+      },
+      "Period" : {
+        "type" : "object",
+        "properties" : {
+          "start" : {
+            "type" : "string",
+            "description" : "start time of period",
+            "format" : "date-time"
+          },
+          "end" : {
+            "type" : "string",
+            "description" : "end time of period",
+            "format" : "date-time"
+          }
+        }
+      },
+      "PatientAppointmentMetadataResponse" : {
+        "type" : "object",
+        "properties" : {
+          "hasRequiredAppointmentHistory" : {
+            "type" : "boolean"
+          },
+          "isEligibleForNewAppointmentRequest" : {
+            "type" : "boolean"
+          }
+        }
+      },
+      "GenericError" : {
+        "type" : "object",
+        "required" : [ "message" ],
+        "properties" : {
+          "message" : {
+            "type" : "string",
+            "description" : "A general error json response for things like Authorization Errors or Bad Requests (ex. invalid parameter values).",
+            "example" : "Detailed error message"
+          }
+        }
+      },
+      "ApiError" : {
+        "type" : "object",
+        "required" : [ "id", "code", "message" ],
+        "properties" : {
+          "id" : {
+            "type" : "string",
+            "format" : "uuid",
+            "description" : "An error ID value for error tracing."
+          },
+          "code" : {
+            "type" : "integer",
+            "description" : "The HTTP status code."
+          },
+          "errorCode" : {
+            "type" : "integer",
+            "description" : "The service-specific error code."
+          },
+          "traceId" : {
+            "type" : "string",
+            "description" : "The OpenTracing ID associated with the request."
+          },
+          "message" : {
+            "type" : "string",
+            "description" : "The reason for the error."
+          },
+          "detail" : {
+            "type" : "string",
+            "description" : "Optional details on the cause of this error."
+          }
+        }
+      },
+      "ClinicalServiceType": {
+        "type": "string",
+        "enum": [
+          "primaryCare", "socialWork", "optometry", "clinicalPharmacyPrimaryCare", "ophthalmology",
+          "foodAndNutrition", "audiology", "amputation", "homeSleepTesting", "moveProgram", "cpap", "outpatientMentalHealth",
+          "covid"
+        ]
+      }
+    }
+  }
+}

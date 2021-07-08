@@ -336,7 +336,7 @@ This is the bank account information we have on file for you. We’ll send your 
 * Bank routing number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 * Bank account number: ∙∙∙∙00000 { prefill if present, masked with last 4 digits visible if prefill or if new data is saved. }
 
-[ Update Account ] { button }
+[ Update account information ] { button }
 
 { Success alert for users who click Update Account, make any changes, then click Save }
 
@@ -409,7 +409,7 @@ ________________________________________
 
 - All statements in this application are true and correct to the best of your knowledge and belief
 
-- As an active duty servicemember, you have consulted with an Education Service Officer (ESO) regarding your education program
+- As an active-duty service member, you have consulted with an Education Service Officer (ESO) regarding your education program
 
 { end - if "Are you on full-time duty in the Armed Forces?" = "Yes" }
 

@@ -1,5 +1,5 @@
 # Certificate of eligibility (COE) usability testing research plan
-**VSA eBenefits Team | April 2021**
+**VSA eBenefits Team | June 2021**
 
 `James Adams, designer`
 
@@ -17,7 +17,7 @@ The goal of this usability study is to assess how easily participants locate and
 
 #### Guiding questions
 - Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
-- How do users feel about the "automatic COE" feature; what are their expections about it future availability (access, printing, download)?
+- How do users feel about the "automatic COE" feature; what are their expectations about it future availability (access, printing, download)?
 - What barriers int the UX and UI prevent users from easily applying for a COE?
 - Where does confusing language prevent users from understanding the form?
 - Where (on VA.gov and elsewhere) do users expect to have their COE available after it has been granted?
@@ -31,7 +31,7 @@ The goal of this usability study is to assess how easily participants locate and
 - Users will ask for directly available information (chat, direct phone, lookups) about the COE, lenders and /or realtors
 
 ### Method
-We'll engage in moderated usability testing conducted remotely using Zoom. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the COE feature (VA From 26-1880). The prototype is likely to include some facsimile of the landing page. Users will be given open-ended "tasks" set forth in a coversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
+We'll engage in moderated usability testing conducted remotely using Zoom. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the COE feature (VA From 26-1880). The prototype is likely to include some facsimile of the landing page. Users will be given open-ended "tasks" set forth in the conversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
@@ -69,21 +69,30 @@ Recruit for 6 fulfilled sessions using the following criteria:
 
 #### Testing sessions
 
-**Pilot session** | Date/time TBD
+**Pilot session (Two)** 
+
+| Dates | Times (EDT) |
+| --- | --- |
+| June 10 | 1 PM |
+| June 17 | 1 PM |
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| April X | 9 AM to 5 PM |
-| April X  | N/A |
-| April X  | 9 AM to Noon |
-| April X  | 9 AM to 5 PM |
-| April X  | 9 AM to Noon |
-| April X  | 9 AM to 5 PM |
+| June 14 | 9 AM to 5 PM |
+| June 15 | 9 AM to Noon |
+| June 16 | N/A |
+| June 17 | 9 AM to 5 PM |
+| June 18 | 9 AM to 5 PM |
+| June 21 | 9 AM to 5 PM |
+| June 22 | 9 AM to Noon |
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
+
+**Please have Perigean available for note-taking if possible.**
+Note template pending; will send prior to first session.
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
@@ -91,8 +100,8 @@ Recruit for 6 fulfilled sessions using the following criteria:
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- Matt Self | matt.self2@va.gov -- Product Co-Owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
+- Candy Clark | cclark@governmentcio.com -- Moderator, designer
 - Kelli.Deinarowicz@va.gov
 - Erin.Griffiths1@va.gov
 - Daniel.Stenavich@va.gov

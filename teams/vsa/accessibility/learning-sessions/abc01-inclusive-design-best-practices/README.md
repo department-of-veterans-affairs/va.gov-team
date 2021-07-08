@@ -8,8 +8,8 @@ Additional formats to access content
 * [Video download, mp4, 77.7Mb](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/2019-11-22-ABC-Inclusive-Design-Best-Practices.mp4) - to come when we have a place for videos
 
 ## Point of Contacts
-* Jennifer Strickland, VSA Accessibility Specialist
-* Trevor Pierce, VSP Accessibility Specialist
+* Reach out to Angela Fowler (VSA) or Josh Kim (VSA) for more guidance
+* Created by Jennifer Strickland, former VSA Accessibility Specialist
 
 ## Table of Contents
 * Introduction
@@ -80,7 +80,7 @@ We&rsquo;re here to support one another, so it&rsquo;s okay to not know!</blockq
 
 **Contact accessibility specialists** 
 * [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) channel in the DSVA Slack
-* Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
+* Message Angela Fowler (VSA), Josh Kim (VSA), or Trevor Pierce (VSP)
 
 
 <blockquote><strong>&ldquo;Inclusion is a vast promise &mdash; as immense, in fact, as human diversity &mdash; and that&rsquo;s what makes it a great design challenge. But without a clear agreement on what inclusion is, can we ever hope to achieve it? How can we design for something that means so many different things to different people?&rdquo;</strong> 

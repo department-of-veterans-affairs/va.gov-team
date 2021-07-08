@@ -78,23 +78,7 @@ Additionally, there is a Digital Service at VA (DEPO) slack channel, #vetsgov-ac
 
 ### Full accessibility audits
 
-After teams launch products, we are expected to run a full a11y audit to make sure any remaining issues or accessibility defects are documented. Currently the backlog of audits that still need to be done includes:
-
--   [Medical Device Re-ordering - March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6595)
--   [Facilities Locator - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14321)
--   [Authenticated Experience Profile 2.0 - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15247)
--   [BAM1 Higher Level Reviews - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14458)
--   [Find a VA Form Post-MVP Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18336)
-
-In-progress audits include:
-
--   [eBenefits PCPG Chapter 36 - October 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14449), Josh Kim
-
-VA Medical Center audits include:
-
--   [Altoona health care - June 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10484)
--   [Coatesville health care - June 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10483)
--   [Erie health care - June 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10482)
+After teams launch products, we are expected to run a full a11y audit to make sure any remaining issues or accessibility defects are documented. 
 
 Before starting a full audit, please reach out to the product manager (PM) responsible for the product you will be auditing. In a short 30 minute kick off call, you'll want to discuss the following:
 

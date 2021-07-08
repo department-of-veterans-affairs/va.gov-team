@@ -12,20 +12,106 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
-###  2021
 
 
-#### April 26 - April 30: Virtual Agent interviews
+### June 2021
+
+#### June 23-29: Check-in MVP Usability Veteran-facing Research
+*Healthcare experience, Lead Researcher: Kristen McConnell*
+- Number of participants: 10 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/README.md)
+- List of keywords: Veterans, appointments, check-in, kiosk, staff members, text message check-in, digital check-in, medical appointments, contact information, insurance
+
+#### June 14-17: VA.gov profile notification settings usability study
+*Authenticated experience, Lead Researcher: Liz Lantz*
+- Number of participants: 8 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research)
+- Keywords: notifications, settings, SMS text messages, email notifications, removing contact information, appointment reminders, opt-in, opt-out, unsubscribe, read/edit views, missing contact information 
+
+#### June 14th: Virtual Agent Inclusive Design interviews
 *Virtual Agent, Lead Researcher: Shane Strassberg*
 
-- Number of participants: 7
+- Number of participants: 2
 
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/inclusive-design-interviews)
+
+- List of keywords: Veterans, Virtual Agent, Chatbot, Disabled, Visual impairment, Accessibility
+
+#### June 1-8: VAOS facility preferences generative research / VA.gov profile facility settings usability research
+*Collaborative study: VAOS (Peter Russo) and Authenticated Experience (Liz Lantz)*
+- Number of participants: 9
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/topline-summary.md)
+- Keywords: preferences, saved facilities, health facilities, health care, online scheduling, making an appointment, facility registrations, primary care
+
+#### June 1st: Virtual Agent Proof of Concept 
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 44
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/controlled-study)
 
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
+### May 2021
+
+#### May 17 - May 25: Emergency Care Mashup
+*Facilities Team, Lead Researcher: Nick Osmanski*
+
+- NUmber of participants: 9 (8 Veterans, 1 caregiver)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup)
+- List of keywords: Veterans, facility, locator, emergency care, search, locations
+
+#### May 5-17: 10-10EZ Discovery 
+*Caregivers, Research Lead: Dené Gabaldón*
+
+- Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research) 
+- List of keywords: Veterans, POA, health care, application
+
+### April 2021
+
+#### April 26 - May 5: Baseline Wayfinding on VA.gov
+*Public Websites, Lead Researcher: Cindy Merrill*
+
+- Number of participants: 13 (8 desktop, 5 mobile; 1 screenreader user)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding) 
+- List of keywords: Veterans, wayfinding, VA.gov home page, site search, Find a VA Form, Resources and Support, accessibility
+
+#### April 26 - April 30 Virtual Agent Branding Interviews
+*Virtual Agent, Lead Researcher: Shane Strassberg*
+
+- Number of participants: 16
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/moderated-interviews)
+- List of keywords: Veterans, Virtual Agent, Chatbot, Voice, Tone, Branding
+
+#### April 22 - April 18: Medical Copayment Debt Portal Enhancement Discovery
+*Debt Resolution, Research Leads: Rebecca Walsh, Riley Orr*
+
+- Number of participants: 11
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021) 
+- List of keywords: Veterans, Veterans Health Administration, Veteran Patient Statements, copays, health care, debt, financial assistance, Pay.gov 
+
+#### April 12 - 13: 1010-CG Round 2 Sign as Representative Usability Testing
+*Caregiver Team, Lead Researcher: Shawna Hein, Dené Gabaldon*
+
+- Number of participants: 5
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
+
+- List of keywords: veterans, caregivers, representative, POA, upload
+
+#### April 8 - 13: Check-in (Veteran-facing) Remote Discovery Research
+*Healthcare Experience, Lead Researcher: Kristen McConnell*
+
+- Number of participants: 11
+
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery)
+
+- List of keywords: Veterans, appointments, check-in, pre-check in, virtual appointments, kiosk, staff members, text message check-in, digital check-in, medical appointments, lab tests, pharmacy, contact information, next of kin, insurance, beneficiary travel mileage
+
 
 ### March 2021
+
 
 #### March 22 - April 5: Board Appeals (NOD) usability testing
 *Claims and Appeals, Lead Researcher: Christian Valla*
@@ -35,6 +121,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
 
 - Keywords: Board Appeals; Notice of Disagreement;
+
+#### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 41
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 ### February 2021
 
@@ -74,6 +166,12 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants: 10
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research)
 - List of keywords: Global Search, Find a Form, Find a Facility, On-site Search
+
+#### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
 *VA Online Scheduling, Lead Researcher: Peter Russo*

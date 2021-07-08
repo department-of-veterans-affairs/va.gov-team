@@ -2,16 +2,17 @@
 name: Environment Access Request
 about: To request access to dev tools
 title: Access for [individual]
-labels: external-request, operations, access-request
+labels: external-request, operations, ops-access-request
 assignees: ''
 
 ---
 
 # Instructions
 1. Fill out **Description**
-2. Add the label used by your team (eg: `BAH-526`)
-3. Do not remove `operations` label; this will notify the VSP Operations team of your request
-4. When the issue is closed you will be notified and can continue with on-boarding setup
+2. Change the **Title** to include your name
+3. Add the label used by your team (eg: `BAH-526`)
+4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+5. When the issue is closed you will be notified and can continue with on-boarding setup
 
 # Description
 - Please provide your Contracting Officer's Representative (COR) name.

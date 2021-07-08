@@ -40,6 +40,8 @@ Communication channels (eg. email, text)
 - We do **not** need a “do not contact” option. This is reflected in the permission itself.
 - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define communication channels.
 
+**As of Q2 2021, a set of items, groupings and channels were agreed upon for the MVP. They can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)**.
+ 
 #### Communication permissions
 
 Communications permissions are the actual selection a veteran makes for a specific permission. Effectively, this is where items (ie. Notification types) and channels (eg. email or text) overlap. 

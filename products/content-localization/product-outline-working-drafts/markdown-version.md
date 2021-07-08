@@ -19,13 +19,13 @@
 Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA content online in their native language. 
 We outline 3 key aspects of this problem:
 
-- Lack of a sustainable, strategic approach to translated content: VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000). But VA currently doesn't currently prioritize localization of digital content in a programmatic and sustainable way. Some translated materials do exist, but they're scattered and there is no current organization-wide program to ensure that we're translating essential content or keeping translated content accurate and up to date.
+- Lack of a sustainable, strategic approach to translated content: VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000). But VA doesn't currently prioritize localization of digital content in a programmatic and sustainable way. Some translated materials do exist, but they're scattered and there is no current organization-wide program to ensure that we're translating essential content or keeping translated content accurate and up to date.
 
 - Other readability and health literacy issues that further compound the problem: Research has shown that low health literacy causes risks to both the person and the health care system, and that as anxiety increases, readability and health literacy decrease even further for everyone.
   - “People with low health literacy use more health care services, have a greater risk for hospitalization, and have a higher utilization of expensive services, such as emergency care and inpatient admissions. Vulnerable populations include older adults, immigrant populations, minority populations, and low income populations.” [footnote i.] 
   - “Anxiety acts as both a catalyst for information seeking and an obstacle to the ability to read and interpret written messages…when [no information] is found or when the message itself is difficult to comprehend, anxiety is likely to rise…This cycle…can fuel panic and lead to maladaptive behaviors, such as unnecessary trips to emergency rooms or overuse of other emergency resources.” [footnote ii.]
 
-- Congressional pressure: Additionally, Congress has recently asked VHA to provide COVID-19 content (and other essential content) in Spanish and Tagalog. As we work to meet this important and timely need we also need to be working toward an effective and sustainable approach for the future.
+- Congressional pressure: Additionally, Congress has recently asked VHA to provide COVID-19 content (and other essential content) in Spanish and Tagalog. As we worked to meet this important and timely need we also are working toward an effective and sustainable approach for the future.
 
 ## Objectives
 
@@ -38,20 +38,20 @@ Through research, analysis, and stakeholder interviews we will identify and reco
 
 This solution will take into consideration the complexities that product owners, content creators, and local site administrators face with providing high-quality translated information that can be easily kept up to date.
 
-At the conclusion of this project, we will have a written evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential benefit content on VA.gov. 
+At the conclusion of this project, we will have a written evaluation of this solution to present to leadership as a potential long-term solution for supporting translated content across essential health and benefit content on VA.gov. 
 
 We will also provide a report further detailing the needs of our Veterans and family members with LEP and recommendations for how we can best prioritize and scope content translation to support those needs.
 
 Specifically, our objectives are as follows:
 
-1. To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries, and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
+1. To provide English-as-a-second-language (ESL) or limited-English-proficiency (LEP) Veterans, other family member beneficiaries and family caregivers access to plain language health and benefit content, so they have equal access to the information and benefits they have earned.
 2. Give Veterans clear and concise information on accessing translation services.
 3.	To meet federal/agency requirements for providing translated benefit information.
-4.	Provide turn-key solution for content writers/editors using an automated workflow and machine-aided human translations.
+4.	Provide turn-key solution for content writers/editors using an automated workflow and possibly machine-aided human translations.
 5.	Research and identify requirements for a scaleable enterprise solution. This includes:
 a.	Budget estimates
 b. Resource needs
-b.	Process for selecting and on-boarding a software provider for integration with Drupal
+b.	Process for selecting and on-boarding a service provider for integration with Drupal
 c.	Integration points
 d.	Dependencies
 
@@ -73,7 +73,7 @@ Undesired User Outcomes
 Desired Business Outcomes
 - Meet federal/agency requirements for providing translated benefit information.
 - VHA demonstrates to Congress that we are providing essential COVID-19 information in Spanish and Tagalog while working towards a viable longer-term approach
-- DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on ~MVP~ evaluation, data and user feedback
+- DEPO/OCTO Health provides a solid recommendation for a sustainable localization program at VA, based on research, data and user feedback
 - VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (Spanish first)
 - Product Owners and writers have a clear, manageable process for providing translated content and keeping it up-to-date
 
@@ -90,7 +90,7 @@ we will provide Vets access to essential VA content online in their native langu
 
 [x] Phase 1 (short-term): provide in-language pages for critical and time sensitive Covid-19 information
 
-[ ] Phase 2 (mid-term): add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
+[x] Phase 2 (mid-term): add highly visible navigational elements to the VA homepage to provide quick access to existing translated content and information for in-language support assistance and resources.
 
 [ ] Phase 3 (Recommendation for long-term approach):  research and document an enterprise solution that considers needs of internal stakeholders and vets, leverages our existing infrastructure and is scaleable. 
 
@@ -101,6 +101,15 @@ Baseline Analytics:(note: create table)
 During March 2021 the total number of pageviews for the Covid-10 and Corona FAQ pages in Spanish and Tagalog were ~7000.
 Jan and Feb 2021 saw ~40k users with browsers set to Spanish visiting VA.gov each month.
 From Jan 1 - March 15, 2021 the total number of pageviews across VA.gov with browser set to “Spanish” ~600k. 
+
+To determine whether the Language Assistance and Resource pages is delivering value to users, we will initially be most interested in KPIs related to engagement and whether they mirror metrics for the VA.gov overall site. The volume of users is not of key concern since we know the population of LEP Veterans and family members/caretkakers is relatively small compared to the English speaking population.
+
+Themes for Key Metrics
+
+- Engagement
+- Findability
+- Survey Findings
+
 
 Key Performance Indicators (KPIs)
 •	Analytics around the engagement and usage for the translated page(s)
@@ -120,11 +129,11 @@ Objectives and Key results (OKRs)
 
 Objective 1:  Meet Veterans' and their family members' need for Spanish and Tagalog language information for VA health care and benefits while continuing to gather experience and data for a scalable long-term localization solution 
 - Key result 1: Provide Spanish and Tagalog language versions of Coronavirus FAQs and Covid-19 Vaccine pages by 1Q (complete)
-- Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021 (in progress)
+- Key result 2: Launch "Language Assistance and Resource pages" for Spanish and Tagalog languages by 2Q 2021 (complete)
 - Key result 3: Satisfaction rating for translated content (Awaiting Medallia)
-- Key result 4: Customer Engagement (Awaiting DOMO Dashboard)                                                                                                                      
+- Key result 4: Customer Engagement                                                                                                                      
 
-Objective 2: Provide a recommendation for a scalebale solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
+Objective 2: Provide a recommendation for a scalable solution that will enable writers with an automated workflow to request, track and manage translated content by 2Q
 - Key result 1: Improve time to generate and deploy translated content from yy weeks to xx days.
 - NPR/Satisfaction survey
 
@@ -138,7 +147,7 @@ Out of Scope
 - Site-wide roll-out or centralized translation management
 - Non-content pages (ie: tools, VAMCs)
 - Updates/changes to pages found during translation effort that need updates (bugs will be captured and addressed by team owners)
-- other chanels including notifications, email, snail mail). SK note: this could be a big driver for saving on translation costs - enabling other depts to leverage database)
+- Other channels including notifications, email, snail mail (SK note: this could be a big driver for saving on translation costs - enabling other depts to leverage database)
 
 Assumptions
 Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
@@ -146,13 +155,16 @@ Include indication of which assumption you think is most risky. Your Solution Ap
 - Users will be able to find and easily link/toggle to translated content.  
 - Mid-term approach will build new pages in Github 
 - Google translate widget or machine learning alone will not be an acceptable translation option for our users or for Tier 1 content.
-- An expeditious process for completing internal needs analysis and vetting software solutions/partners by June 2021 (RISKY)
+- An expeditious process for completing internal needs analysis and vetting software solutions/partners by Sept 2021 
+
+
+
 
 ## Solution Approach
 
 *What are you going to build now, and why have you decided to start there? 
 
-We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a nav link from the homepage to in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and provide information on how to access translation support.
+We are going to start with translating the Coronavirus FAQs and Covid-19 Vaccine pages via a front-end solution (not involving Drupal) into Spanish and Tagalog. We'll then widen translation offerings by building a navigational link from the homepage to newly created in-language resource pages for Spanish and Tagalog speakers. This will enable them to more easily locate existing translated content and will also rovide information on how to access translation support and file discrimination complaints.
 
 For the long-term enterprise solution recommendation we will be investigating options that use a combination of machine and human translators which we expect to a more efficient approach to providing and updating translated content.
 
@@ -179,7 +191,7 @@ ________________________________________
 ## Go-to-Market Strategy
 How are Veterans and others using this product going to know it exists? 
 
-We'll need to reach specific audiences who may need content translated into Spanish (see below)
+- We'll need to reach specific audiences who may need content translated into Spanish (see below)
 
 What marketing, outreach, or communications are necessary for this product to be successful? 
 
@@ -193,9 +205,12 @@ Target & Actual Launch Dates
 - Target: January 20, 2021 for coronavirus FAQs page (Spanish) 
 - Actual: January 22, 2021 for coronavirus FAQs page 
 - Actual: March 10th for Covid-19 Vaccine page (Spanish and Tagalog)
+- Target: June 7th for Language Assistance and Resource pages
+- Actual: June ...
 
 What date will you evaluate impact after launch?
-- Updated: 3 months post launch (mid-April 2021)
+
+- Updated: 3 months post launch 
 ________________________________________
 
 ## For Reference
@@ -229,8 +244,8 @@ Content Translation Process: https://github.com/department-of-veterans-affairs/v
 
 ### Team
  - Team Name: Content & Localization
- - GitHub Label: 
- - Slack channel: 
+ - GitHub Label: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization 
+ - Slack channel: #vsa-content-localization
 
 ________________________________________
 ## Implementation Info

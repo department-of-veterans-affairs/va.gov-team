@@ -5,15 +5,19 @@
 
 ### Slack Channels
 - #vsa
-- [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
-- [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
-- [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
-- [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
-- [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
-- [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
-- [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
-- [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
-- [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
+- Teams
+  - [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
+  - [#vsa-claims-appeals](https://dsva.slack.com/channels/vsa-claims-appeals)
+  - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
+  - [#vsa-debt](https://dsva.slack.com/channels/vsa-debt)
+  - [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+  - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
+  - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+  - [#vsa-ebn-migration](https://dsva.slack.com/channels/vsa-ebn-migration)
+  - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
+  - [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)
+  - [#va-search](https://dsva.slack.com/channels/va-search)
+  - [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization)
 - [#vsa-product](https://dsva.slack.com/channels/vsa-product) (product management-specific)
 - [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)
 
@@ -26,15 +30,15 @@
 - Program Management: André Zwilling
 - Product Management:  Mickin Sahni 
 - Design: Shawna Hein 
-- Engineering: Paul Short
+- Engineering: Jeff Thompson
 - Operations: Yana Roy
-- Accessibility: Jennifer Strickland
+- Accessibility: Josh Kim, Angela Fowler
 - QA: Tze-chiu Lei
 
 ### Teams
 - [Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
-- [Benefits and Memorials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
-- [Benefits and Memorials 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
+- [Claims and Appeals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
+- [Debt Resolution](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
 - [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 - [eBenefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
 - [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator)

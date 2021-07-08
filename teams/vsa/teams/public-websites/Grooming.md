@@ -16,7 +16,7 @@
 </details>
 
 <details><summary>Parking lot</summary>
-- Discuss Roadmapping Events and Finalzie for the team. 
+None
 </details>
    
 <details><summary>Relevant PubWeb product backlogs and docs</summary>
@@ -26,6 +26,161 @@
 </summary>
 
 </details>
+## Wednesday, June 23, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] [Design] Harassment Reporting Tool wireframe/mockup build [#25991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25991)
+- [ ] [Design] Harassment Reporting Tool 5303 Landing Page Mockup [#26477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26477)
+- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
+- [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276) 
+- [ ] VA.gov home page the h4 generates an accessibility error in Google Chrome Lighthouse. [#26286](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26286)
+- [ ] VAMC Redirections (Awaiting review from Mikki then we'll program in, should be June 30th for action). 
+
+### Icebox Items (Relevancy - Delete)
+- [ ] Create a landing page for IRIS redirects and implement redirects [#10592](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10592) 
+- [ ] Integrate maintenance banner with pager duty [#10234](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10234)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- Do you know where you can get chicken broth in bulk?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+## Wednesday, June 9, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] 508-defect-1, sitewide [FOCUS]: Mobile menu does not trap focus [#25659](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25659)
+- [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed [#25661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25661)
+- [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239) 
+- [ ] 508-defect-2 [FOCUS]: Skip to content jumps past the 4 main cards on the homepage [#25823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25823) 
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751) 
+- [ ] HP COVID banner and accessibility/ScreenReader [#24199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24199) 
+
+Icebox Items (Relevancy - Delete)
+- [ ] [COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)
+- [ ] [KEYBOARD]: Skip to Content Link doesn't work correctly in IE11 [#2246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2246)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- How do robots eat guacamole?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+
+## Wednesday, May 26, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] [Campaign Landing Page Production MVP] - Pride & Discharge Upgrades [#24350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24350)
+- [ ] Research Solution and Ideation Reviews [#24898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24898)
+- [ ] [Site Services Maintenance Notification] DSLogon June 5-6 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
+- [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
+- [ ] Migrate Homepage Banner to Drupal [#25038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25038)
+- [ ] Update Webpage from Claims & Appeals [#24996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24996) 
+- [ ] [FE] Conditional Rendering in CMS [#24002](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24002) 
+- [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+- [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] Table Caption Update/Fix [#16562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16562)
+- [ ] Switch to using a GraphQL filter to remove unneeded QA nodes [#20147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20147)
+- [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239) 
+- [ ] Up To Top Button does not render on IE [#23999](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23999) 
+- [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383)  
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- What did the ocean say to the beach?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+## Wednesday, May 12, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] [Campaign Landing Page Production MVP] - VA Trust [#23304](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23304)
+- [ ] [Campaign Landing Page Production MVP] - Vaccine Confidence [#23704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23704)
+- [ ] [Campaign Landing Page Production MVP] - Pride & Discharge Upgrades [#24350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24350)
+- [ ] [Site Services Maintenance Notification] DSLogon May 29-30 [#24388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24388)
+- [ ] Mobile App Static Page [#23522](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23522)
+- [ ] Mobile Search Research Discussion (Recommendation for user feedback on Mobile R&S Search)
+- [ ] Use initial capitals in meta title tags in RS per style guide [#24383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24383)
+- [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521) 
+- [ ] [Discovery] HP COVID banner and accessibility/ScreenReader [#24199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24199)
+- [ ] Sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11) [#15244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15244)
+- [ ] 508-defect-3 [SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users [#7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834) 
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Resources and support: Too much spacing between bottom of process list and CTA buttons, IE11 [#15501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15501)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571)
+- [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
+
+
+**Reminder: I will be PTO and out of pocket on Thursday and Friday (20th Wedding Anniversary)**  
+
+## Future/Road Map Items:
+- [ ] Proposed: VA.gov Secure Online Harassment Reporting Tool [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/read-me.md#proposed-vagov-secure-online-harassment-reporting-tool)
+- [ ] [Draft Questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/questionnaire.md)
+- [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+- [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+- [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- Have heard of the band 1023MB? 
+
+## Wednesday, April 28, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+### Discussion Topics/Grooming 
+
+- [ ] DSL maintenance downtime [#23796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23796) 
+- [ ] CLP/Trust Staging Review Punch List [#23856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23856)
+- [ ] [Campaign Landing Page MVP Release] VA Trust CLP - Site Navigation Links [#23913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23913)
+- [ ] Accessibility Feedback for Staging Review [Public Website, Campaign Landing Page / Trust (VEO)]
+[#23784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23784)
+- [ ] Design Feedback - Staging Review [Public Website, Campaign Landing Page / Trust (VEO)] [#23843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23843)
+- [ ] Front end Tools "content build Seperation" - https://dsva.slack.com/archives/C5HP4GN3F/p1617738055063600
+- [ ] CLP Redirect Request: VA.gov/trust [#23783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23783)
+- [ ] [Tech-Debt] Back to Top Component [#23878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23878)
+- [ ] Bug: Meta titles on Outreach hub pages are not using standard formatting and style [#23082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23082)
+- [ ] [AXE-CORE]: Outreach & Events - Links must have discernible text [#23206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23206)
+- [ ] [FE] Build "How do you rate..." page component [#14302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14302)
+- [ ] "Go to MHV" button appearing for a facility from the schedule appts page [#15600](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15600)
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751)
+- [ ] 508-defect-3 [SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users [#7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834) 
+- [ ] Bug: Pagination link logic and alignment on Outreach hub [#21528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21528)
+- [ ] Resources and support: Too much spacing between bottom of process list and CTA buttons, IE11 [#15501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15501)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571)
+- [ ] Link TTY: 711 number in footer and right rail of hub landing pages [#18151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18151)
+- [ ] 508-defect-2 [Headings] Resources and support - Multiple FAQ page skips heading level 2 [#15619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15619) 
+- [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521) 
+
+## Future/Road Map Items:
+- [ ] [Super Epic] Outreach & Events Hub - 2021 Enhancements [#22241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+- [ ] Development/Tech-debt: duplicate graphql queries over the codebase and if we had 1-2 sprints where we could focus on cleaning up the queries to 1) not be duplicative and 2) use filters appropriately we could 1) speed up the build and 2) have a very easy time maintaining graphql queries in the future.  Ticketing Needs? Sprint Planning placement? (Update: Potentially delete code and rearrange to make it more streamlined). 
+- [ ] CLP Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082)
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+- Where do young cows eat lunch? 
 
 ## Wednesday, April 14, 2021
 ### Discussion Topics/Grooming 
@@ -425,3 +580,6 @@ Notes/Next Steps:
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke Answers: 
+The stock market.

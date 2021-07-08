@@ -1,11 +1,9 @@
 # Certificate of eligibility (COE) usability testing conversation guide
-**VSA eBenefits Team | April 2021**
+**VSA eBenefits Team | June 2021**
 
 `James Adams, designer`
 
 ---
-
-`Work-in-progress`
 
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
@@ -30,8 +28,7 @@ There are a few things I need to mention before we start:
 - Have you applied for a VA-backed loan before?
 - (If "yes") How did that go, what was your experience?
 - (if "no") What do you know about VA home loan benefits?
-- What do you know about a VA Certificate of Eligibility?
-- What VA sites have you used in the past? What did you do there?
+- What do you know about a VA home loan Certificate of Eligibility?
 
 OK, we'll be doing a couple of things today: 
 - First, well take a quick look at the VA.gov home page to get an idea of where you might look for the new feature
@@ -41,7 +38,7 @@ OK, we'll be doing a couple of things today:
 ### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- Here's a scenario: you're looking to buy a new home and a lender told you you'd need a Certificate of Eligibility (COE) from VA.
+- Here's a scenario: you're looking to buy a new home and a lender said you could get a Certificate of Eligibility (COE) from VA.
 - You heard there was a way on VA.gov to apply for a COE, where would you look for that?
 - This is the actual home page; you're free to click on anything.
 
@@ -54,13 +51,13 @@ OK, we'll be doing a couple of things today:
 ## Usability tasks
 User is directed to the prototype.
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to COE prototype)
-- We'll be using made-up scenarios that may not really apply to you. We'll be filling-out a small form, and you can type-in anything--fake names and numbers are fine. 
+- We'll be using made-up scenarios that may not really apply to you, and we're using test data in the prototype. 
 - Nothing will be submitted because this is a prototype.
-- For the purpose of this test, we'll continue with what we said earlier: you're looking to buy a new home and your lender said you needed a Certificate of Eligibility.
+- So we'll continue with what we said earlier: you're looking to buy a new home and your lender said you could get a Certificate of Eligibility on VA.gov.
 - So you've come to this page; what do you do next?
 
 ### Task 1 / Automatic COE scenario / 5 minutes
-User reviews VA Form 26-1880 intro screen, then signs-in to reveal an automatic COE link.
+User reviews VA Form 26-1880 intro screen, then signs-in to reveal an automatic COE page.
 - Take a look at this screen and describe what you see.
 - If you wanted to apply for a COE, what would you do first?
 - (Participant signs-in) What just happened?
@@ -70,23 +67,27 @@ User reviews VA Form 26-1880 intro screen, then signs-in to reveal an automatic 
 #### Things to look for:
 - How quickly does the user determine they need to sign-in to access the form?
 - How do users react to the automatic COE notification?
-- What do users expect will happen to the COE/link??
+- Do user know they were redirected to a different page?
+- What do users expect will happen to the COE/link?
+- Will the user look at their COE? How would they "save" it?
 
-### Task 2 / Missing info scenario / 5 minutes
-User goes back to VA Form 26-1880 intro screen, then signs-in with bottom link to advance to the "missing info" intro screen.
-- So sign-in again, but this time use the button below all the process information.
-- What happened here? What's different?
-- What should you do in this case? 
-- Please continue through the form.
+### Task 2 / Make changes scenario / 5 minutes
+User returns to VA Form 26-1880 to make changes.
+So let's say you know that you need to make a change--you need to add "Jr." to your name so your records don't get confused.
+- What do you do now?
+- What happened here? 
+- What is this page? What's different from before?
+- What should you do to make a change? 
 
 #### Things to look for:
-- Do users immediately see the "missing info" notice?
+- Do users immediately see they're back on the intro screen?
 - How do participants feel about this path vs. the automatic COE scenario?
-- Do users expect any further guidance on next steps? how easily/quickly do they find how to proceed to the form?
+- Do users expect any further guidance on next steps? How easily/quickly do they find how to proceed to the form?
 
 ### Task 3 / Complete 26-1880 / 10 minutes
 User continues through the form.
-- We've put some fake information in this form, but in some place you can make changes.
+As you go through the form, we'll be using test data. For the purpose of this test you have one VA loan that you paid off.
+- You can make changes to any of the test data.
 - You're free to type-in whatever you want--since this is a prototype, it won't submit or change anything in the system.
 - Other questions as situation dictates...
 
@@ -100,7 +101,7 @@ User continues through the form.
 
 ## Final thoughts
 - Once your COE is issued, how would you like to receive it?
-- If we could store it for you on VA.gov, where would you want that to be?
+- If you came back to VA.gov, where would you want that to be?
 - How could we make things easier or more clear?
 - If this was the actual VA.gov site, what would you do next?
 
@@ -111,3 +112,5 @@ Looks like we covered everything on my list. (ALT) Looks like we're at (time), s
 
 ## Closing
 Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+
+---

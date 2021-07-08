@@ -6,7 +6,6 @@
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 
-
 </details>
 
 <details><summary>Parking lot</summary>
@@ -18,8 +17,406 @@
 * #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147) (moved here February 3)
 * Breadcrumb cross-team spike 
  * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot Feb 3)
+5. Using API for online scheduling information
+6. Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
 
 </details>
+
+## July 7
+
+Leadership URLs
+ * Facilities team to remove need for Feature flag later
+
+VAMC sidebar 
+ * MPS reviewing. 
+
+Engineering
+* Review of Centralized content API and FE changes
+  * Some Centralized content for Vet Centers disappeared due to changes upstream.
+  * Changes to make centralized content work more like other GraphQL output had broader impacts than expected. 
+    * snake case vs not snake 
+    * single object vs array of objects 
+  * in the future
+    * err on the side of over-communication
+    * collaborate across teams on content model documentation
+    * collaborate across teams on testing within tugboat (eg Dependabot-based PR environments for changes to EFF module)
+      * may require some additional clarification of what branch of `content-build` master is in use by a tugboat environment
+* Validation of links in Drupal  
+  * CMS issue to make CTA link and label fields dependent on each other https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5439 
+
+Business
+* Request for "District level user" role
+  - initiated by District 5 (Vet Centers), expectation is that this will be true for all Districts.
+  - User story: _As a District level user, I can view/edit/publish content for Vet Centers in my district so that I can assist my counterparts or cover absences._
+
+Vet Center overall workflow about review
+ * Current state: Folks in the field open Jira issue, Jane pings Michelle/Dave. 
+ * Future: Discuss July 7
+ * Does this scale to 140? Could be 7-15 
+ * Alternatives: 
+   * Contact Michelle directly? 
+   * Dave and Michelle could be in Jira, possibly as approvers to a workflow. (new form? could be confusing) 
+   * Main Vet Center could be set to "In review" state, and ? (Could conflict with internal use by Vet Centers)
+ * Decision: With kickoff scheduled next Thursday 15/Friday 16, let's potentially iterate on this after District 5 and continue with status quo for now.
+
+**Done async**
+* Spotlight character limits (async)
+  * how will existing content be impacted?  
+
+* Editorial experience for service content - making the national decription visible (async)
+
+
+
+## June 30
+
+### FE related
+
+Review help desk insights and VAMC / Vet Center known issues list.
+- Prioritized in Facilities team sprint beginning 6/30:
+  - [Vet Center phone numbers in service accordions #26688](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26688)
+  - [National Vet Center content is missing #26674](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26674)
+  - [Vet Center addresses do not include suite numbers on new Vet Center pages #26544](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26544)
+  - [Include specified "Nearby Mobile Vet Centers" in Satellite Locations list #26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
+- Backlog
+  - [Vet Center Spotlight CTA #26676](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26676)
+
+New issues based on Content review
+- [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725)
+- [Operating status: improvements to editorial experience #17727](https://github.com/department-of-veterans-affairs/vets-website/issues/17727)
+- 
+
+Leadership URL feature flag QA and rollout next week.
+ * Facilities to QA again with feature flag
+ * CMS will hopefully run the runbook from #5500 mid-week of July 5
+
+Vet Center 
+* "Nearby Mobile Vet Centers 
+   - Facilities engineers need entity ID to add to Satellite Locations list [#26689](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26689)
+     - Can get this entity ID from field_nearby_mobile_vet_center (query is there, but not used by the template).
+   - CMS editorial experience to better explain satellite 
+     - **CMS issue** to transfer [Satellite location visibility for Vet Center editors #17725](https://github.com/department-of-veterans-affairs/vets-website/issues/17725) to CMS backlog
+     - **CMS issue** to update label for Nearby Vet Center anbd other guidance potentially. 
+
+* Guidance and character counts for Featured content 
+  * **CMS issue** to add character count limit - 240 characters but don't count HTML. 
+
+CMS account upgrades for MVP and District 5 Vet Center users with published content, by Michelle/Dave
+ * Go to /admin/people, search by username or Section
+ * Edit roles, remove Content Editor and add Content Publisher for Outreach Specialists
+ * Update Directors role when they self-report completion of training. 
+ * Jane will provide an idea of how long Vet Center training takes. 62 minutes (generous estimate), VA network required, login not required to view, login required to try activities in training
+
+Overall workflow about review
+ * Current state: Folks in the field open Jira issue, help desk pings Michelle/Dave in #facilities-support channel
+ * Future: Discuss July 6
+
+
+
+
+
+## June 23 
+
+* Review #5500 runbook for Leadership page URL changes 
+* MVP launches
+  * Vet Center directors have not been brought along in the process, and that's where we're stuck for 10 MVP users
+  * Colorado Springs and Springfield MA ready to go. 
+* District 5 pipeline for launches ... should we establish a regular cadence for review/launch/user account upgrades
+  * Week of July 12 kickoff meetings, where we District 5 users will be provided with
+    * content decks 
+    * help documentation (/help)
+    * help desk links
+    * Ongoing office hours
+    * Video trainings 
+  * Editors have 4 weeks to do training and content   
+  * Editors can let Vet Center CO know instead of CMS Help desk 
+    * Then Vet Center will review
+  * When Vet Center CO green lights content, they will trigger ability / permission for Facilities team to bulk publish content (Tuesdays)
+  * Then Facilities team will trigger CMS account upgrades for users whose content has been bulk published. 
+* Next district kickoff, district TBD, week of August 2.  
+
+## June 16
+
+
+Vet Center
+* No response from Jessica yet on Vet Center District 5 users
+  * Arrived this morning, forwarded to Jane. (Jane bulk imported on June 16.)
+* Connecting 17 Outstations to their Section and Vet Center [#5564](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5564). Who can fix this, and with what data?
+  * **Action:** Michelle will take list at https://prod.cms.va.gov/admin/content?title=&type=vet_center_outstation&moderation_state=All&owner=All and update content and validate 
+  * Change "Main Vet Center" and "Section" field to the appropriate Vet Center
+  * **Action:** Michelle will create a draft documentation for this process 
+* [#4582 Grouping Vet Centers Sections into Districts](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4582)
+  * Dave emailed updated spreadsheet, Michelle will forward, Kevin will add to 4582 and we'll see about getting this into Sprint 35. 
+* Consider text limit for Spotlight content?
+  * **Action:** Facilities team will write some content intent for Featured content, and a recommended text length. 
+  * **Action:** CMS issue for Sprint 36 or 37 to update interface
+* Removing intro text on Locations page [#25026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25026) -> following our change, CMS can remove the field and make updates to training as needed
+  * **Action:** CMS issue needed to remove field in Sprint 36 or 37. 
+
+Other
+* Mikki's one off URLs
+  * **Action:** Dave/Michelle will take this to VAMC upgrade team. 
+* CMS Helpdesk relationship to Facilities' product backlogs (Vet Center and VAMC)
+  * Dave: Start with known issues -- from customers' questions to Josh to the appropriate team. 
+  * **Action:** Josh/Jane/Clarence/Kev to stub a one page document of known issues (not "critical defects"), smoke but not heavy fire. 
+  * Consider adding to appropriate documentation, with any known workarounds, and any request fulfillment if relevant.
+  * Example: 10 locations limit on VAMC Locations page. 
+* Butler, Wilmington, Altoona, Wilkes-Barre going live June 30
+  * **Action:** CMS PR to stop Teamsite operating status migrations
+
+## June 9
+
+### Vet Centers
+
+MVP
+* Release cycle
+  * FE issues being resolved that had been identified on staging
+  * Tugboat
+    * `vetcenter-rcsco` tugboat environment only for stakeholder launch review
+    * Michelle and Dave will refresh, publish content from the [Bulk publishing page](https://prod.cms.va.gov/admin/content/bulk?title=&type=All&moderation_state=All&taxonomy_entity_index_tid_depth=391), and send for stakeholder review 
+  * RCSCO is doing eyes on review and giving final blessing.
+    * Jessica will give go-ahead to facilities team, then Dave/Michelle will bulk publish, who will then trigger the user update. T
+  * Upgrading Vet Center users to publisher
+    * These will trickle in, then will spike, as content gets reviewed. 
+    * Not a fire drill. 
+  * District 5 and beyond won't be provided with as much content. 
+    *  What is the right way to manage the pipeline of onboarding? 
+    *  Should there be a specific day for launching, like every Tuesday? What is the pipeline? 
+    *  On agenda for June 23
+  * How to handle staff turnover?
+    * What policies and interim service procedures can tide us over until we have a mature onboarding service
+* Review helpdesk issues that have been raised
+  * Adding services has been the biggest pain point (select lists for Sections) 
+    * Having to look, at all (CMS issue #4936 would address this)
+      * Sprint 35 or 36 
+    * Not finding their Vet Center in the MVP list (CMS #4582 would help)
+      * 5 districts, each with an average of 70 Vet Centers. No cross-maintaining of Vet Center content. District level will bless who has access at each Vet Center.
+      * We can go ahead and group Vet Centers by District (and decide if we want to do this programmatically or by hand). 
+      * TBD 
+* [Vet Center feature requests epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25811) and new "feature request/Vet Center " label
+* Redirects for MVP Vet Centers - confirming urls
+  * Public websites will add redirects for Facility Locator 
+* Post-mortem on Monday June 14 2:30pm ET
+  * Retro board 
+
+District 5 batch
+* Jane has new Vet Center user template ready to send to Jessica
+  * Jane will send to Jessica and cc Michelle and Dave
+
+### VAMC
+
+* Type of Care epic
+  * Michelle final QA then give go ahead to CMS to delete parents on prod. https://web-luuw9cmafr91levkoejjdmcdcxn2dedu.demo.cms.va.gov/pittsburgh-health-care/health-services/ 
+
+## June 2
+
+**Vet Center** 
+* Vet Center launches
+  * Michelle and Dave working on MVP runbook for first 10
+  * Criteria: content review - alignment with content intent, no wordsmithing. 
+  * Check-in on Monday, temperature check
+  * Can we look at activity by Vet Center editors? 
+    * Jane can look at content changes and user activity
+    * Google analytics by role?
+  * 6 of 10 users have been logged in since week sometime
+  * Sprint 35: 140 user accounts for District 5 (2 per Vet Center)
+    * Sprint 34: Jane can generate a XLS template to send to Jessica end of week of June 7
+    * Name, Email, Vet Center association
+    * District 5 will have 4 weeks to complete their content
+
+
+**VAMC**
+
+IA 
+* Menu lockdown update
+
+Other
+* Validation of VAMC type of care implementation
+  * CMS team can go ahead and [remove the parent items](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4768) (content change), with QA on Tugboat 
+* Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
+
+
+Staff profile content type
+* What help text is needed if any, right now
+* Image Resolution - different needs for different contexts
+* A bio should be the trigger for stand-alone page
+* Vet Center may want to use only first name
+* CMS can add a boolean for bio field, and two bio fields can be made dependent on that. FE can build based on boolean field being true. 
+
+
+
+**Product triage**
+  * **As a** Tier 1/2/3 help desk responder **i want** a report of known issues (feature requests and defects) across the va.gov-cms and va.gov-repo, for [the VAMC product] [the Vet Center product][some other product] **so that** i can track resolution, and add additional information, and so that i don’t have to treat Slack as the repository of product information. 
+  * FE Defects, eg
+    * Stories where FE requires image but CMS does not 
+    * VAMC Locations list pages missing locations
+    * Archived facility health services showing on prod
+  * Feature requests, eg
+    * i want to add an event to a Vet Center
+  *  
+
+
+## Wednesday May 26
+
+**Vet Center**
+1. Vet Center Director training
+
+* Dave had conversation with Jessica. "Just watching videos" didn't resonate for the first MVPs.  
+* Michelle to work with Jane about a couple possible dates for live presentation, trying to get the most people, and the rest can watch videos. 
+* Ideally 2-3 weeks out.
+
+2. District 5 next: 70 Vet Centers, PT 
+
+* Jessica getting contact info
+* Kickoff meeting first, then
+* Training in about a month (late June). Not live training. CMS team will adjust training videos between now and then. 
+* Some kind of support structure (eg office hours) 
+
+3. MVP Vet Center
+
+* Retro on the entire process with 10 MVP users June 14th.
+* Email went out to Outreach Specialists say "your account is active on Prod but you don't have publisher access yet, we'll review and bulk publish"
+* Michelle to follow up with a timebox for them. 
+
+4. Switch to fetch Vet Center data from Lighthouse data when unpublished in the CMS (Issue to clean up code after full roll-put - [#25329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25328)
+
+
+**VAMC**
+1. Type of Care sorting: How to sort now that we are not using taxonomy weights?
+
+* Option 1: hardcoding, like it was handled in Vet Center 
+* Option 2: CMS adds a weight attribute to the Type of Care attributes, and made available in a similar way that was used for entity field fetch ("subfield").
+* What is the value of having weight in the CMS when we have multiple weights for different products? 
+  * If we add or remove a type of care, the FE wouldn't be able to catch it. 
+* Facilities team will look at an approach to this and prioritization of CMS weight value will be determined later.  
+* Change in logic for Vet Centers (post-MVP) [#25330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25330)
+
+2. Type of Care testing
+
+* Tugboat targetting a content-build branch to test
+* Use https://prod.cms.va.gov/vha-health-services as a data audit
+
+3. Inventory of VAMC components- ownership conversation with Public websites
+  
+
+## Wednesday May 19
+
+Vet Center
+* Vet Center training and adding users
+  * 8 out of 10 outreach specialists confirmed, 2:30pm-4pm ET Monday, will be using Training environment (tugboat) so unaffected by prod deploy at 3:30pm ET. Joe and Troy will not attend.
+  * Vet Center Directors? Facilities team will take this as an action item. But 8 is already a good number for training. We may want to _consider_ a 2nd training for directors. Would be a later sprint.
+  * Next 60 Vet Centers: start with a kickoff with a content deck, headsup about training, will include directors. 
+  * 10 editors are publishers on prod as editor, will be unblocked after training, and permissions elevated only after content is bulk published by Facilities team. 
+* Dry run for Vet Center launch - not neeeded, it's been done repeatedly with Escanaba on Tugboat
+* Tugboat user stories for Facilities for Vet Center. 
+  * Tugboat support requests via #cms-support 
+
+VAMC
+* React widget audit report (#2920 CMS)
+  * VAMC upgrade team has report on broken widgets for existing VAMC sites
+  * Facilities meeting with Public Weblic websites about ownership
+  * CMS issue to remove React widget from VAMC Detail page content type post-hardening of Medical Records, Pharmacy, and Make an appointment. 
+  * CMS issue: Rename "Detail page" to "VAMC Detail Page". 
+  * CMS issue: Improve User guide and training for VAMC Detail pages. 
+  * CMS issue: Improve VAMC Detail Page (remove certain paragraph types). 
+* Removing blobby health service content [#2509](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2509) dependent on removal of query in `content-build` repo. 
+  -  Facilities team: remove fallback logic [#24899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#24899)
+  -  Discuss Cheyenne issue with VAMC upgrade
+  -  CMS issue to add a service location retroactively #5387, and moving forward in migrations #5273
+* Orphan staff profiles 
+  - profiles appear on the sitemap and in Google alerts even if not linked (eg from Leadership)
+  - Staff profile node for Behavioral health call center generating page [#17116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116)
+  - CMS epic: Tools to support stand-alone vs not-standalone stafff profiles **[#5450](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450)**
+    - Discovery issue to work with Facilities to determine implications for various parts of product (mini-profiles, leadership page, etc).
+* 10 facility limit
+  * eg Minneapolis in dual state
+  * Atlanta and Florida have 20+
+* Menu governance #2427 runbook
+
+
+
+## Wednesday May 12
+
+* Meta tags for VAMC 
+  - Design guide update
+  - Implementing change
+    - pros/cons for hard coding into FE or overriding in CMS
+  - **Actions: Kev to create issues for CMS removal of fields, remapping of meta_tags, and CMS announcement. [#5339](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5339)**
+  - Facilities team: Add filter to VAMC Meta tags [#24796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24796)
+* Sort order for services  
+  * **Post MVP editorial experience change to reflect product's sort and groupings for Vet Center services (currently enforced on the FE), and remove the sort handles**
+* (Note: we noticed the field name for the local service description for Vet Centers is incorrect on the mural - can you update it, please?) DONE
+* Centralized content and FAQs. 
+  *  Now functional va-accordion fork will proceed for  Vet Center. Michelle will schedule a followup about component ownership and tech debt around "FAQ section" component.
+  *  Add documentation to https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/content-model-centralized-content.md for graphqlification / filters and "rules of engagement" for iterating on existing component templates, pointing to an example from `va-accordion`. 
+* Vet Center runbook
+
+
+## Wednesday, May 5
+
+Report-back from nightwatch meeting
+ * Builds will continue to go out May 12, despite any lingering a11y issues
+ * Next steps: TBD, on Testing Tools team.
+ * A couple of outstanding Facilities issues... aria tag.
+ * CMS working on some duplication issues
+ * There are also _duplicate_ issue 
+
+VAMC 
+ * Policies Page rollout (quick report on [#5053](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5053) 
+
+Vet Center 
+  * centralized content (FAQs and Nat'l featured content)
+  * training for national editors May 13 1pm ET
+  * training for local editors week of May 20 or 27? Factors:
+    * FE readiness? Centralized content and Staging review.
+    * Enough turnaround time from dry run
+    * Giving notice
+    * Decision: coming this Monday May 10. Make local editor training a stretch goal for Sprint 32, if not beginning of Sprint 33. 
+  * Vet Center Launch
+    * Given that VCs require bulk publishing (facilities plus Locations list plus Services), they should not be launched by the editors. VC editors should not receive Publisher role until after their VC is launched. 
+    * Bulk publishing will be done by Dave or Michelle TBD for MVP. 
+    * Should "In review" be used in the workflow? TBD. 
+  * Nearby Vet Centers is a problem for MVP
+    * 290 Vet Centers, ~20 Outstations, and ~70 MVCs are all unpublished, and if they are chosen as "Nearby" the FE won't build them (assuming it's filtering out unpublished content)
+    * Unpublished Vet Centers, Outstations, and MVCs currently show on the Locations page.
+    * Facilities FE issue post-MVP to change this to check if published, then show from Drupal, if not, get data from Lighthouse. 
+    * CMS issue to icebox to set up a content moderation workflow specific to products that still in development, to prevent accidental publishing. 
+  * Breadcrumbs: when to use array vs derive from url?
+    * Breadcrumb data needs to come from CMS.
+      * In many cases, CMS produces data with its menu system, and produces an array including Menu items labels and links.
+      * But some products (and some content types) do not have menu items in the content layer: Vet Center, certain VAMC content types (Stories, Events, News releases, Staff profiles).
+      * CMS epic is necessary for solving for a variety of scenarios 
+      * There will be follow-up FE once that's in place. 
+  * When "Type of care" is empty for a health service added to a Vet Center, display under "Other services."
+
+
+
+## Wednesday, April 28
+
+- Defects caused by missing expected data
+  - Images, such as [Placeholder for missing optional images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21800)
+  - Content, such as 
+    - [Empty link and missing header in Sheridan VAMC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21404) 
+      - New issue for to consider default headers [#23974](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23974)
+    - Unpublished facility health services on prod [#23470, in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23470)
+    - Draft location #23481.
+  - **Action:** Followup cross-team principle about where and when to be defensive about missing data (eg links, phone numbers, images)
+    - Make the page fail, not the broken link?
+    - Filter via GraphQL?
+- Broken links -> [Discovery issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23791) and [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)
+  - Nightwatch will start failing build starting May 11 for issues like this
+  - CMS help desk may be able to resolve some of these issues in a way thatt reduces this in the future, by teaching editors as we go
+  - CMS and other teams could identify ways of reducing issues in CKeditor or elsewhere
+  - We can add items to Training backlog 
+  - Monthly review of new issues that have arisen? 
+- Policies - status on releasing hardened content 
+- Vet Center FAQs and Vet Center Featured Content - Centralized content
+  - [#5159](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5159) Short term solution for Vet Centers, will require FE followup
+  - [#5160](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5160) Longer term solution to allow for more complex Centralized content.
+
+- Default for Type of care attribute
+  - Type of care is optional, unsure what the default should be if empty... "Other services"?
+  - Michelle creating issue to track this -> [#23975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23975) 
 
 ## Wednesday April 21
 

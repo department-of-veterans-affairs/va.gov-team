@@ -14,10 +14,10 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 ### Points of Contact 
 
 - OCTO-DE Product: Ming Ligh
-- Product Management:  Alayna Abel
-- Front-End Engineering: TBD 
+- Product Management:  Chris Dyer
+- Front-End Engineering: Dat Tran 
 - Back-End Engineering: Kevin Mircovich
-- Research and Design: Dené Galbadón 
+- Research and Design: Dené Gabaldón
 
 ### Key Documents
 

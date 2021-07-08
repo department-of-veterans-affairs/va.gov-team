@@ -1,3 +1,5 @@
+\*This page will no longer be maintained as of 4/29/2021. Another work product is in progress for tracking and reporting accessibility health for products across VA.gov. Please contact Platform team if you have any questions.
+
 # Product list for 508 testing
 
 This list is the current record of 508 issues in the `va.gov-team` repo. It will be updated weekly for accuracy.
@@ -980,9 +982,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
 
-**Open issues**
-
-- [[COGNITION]: VAOS Appointment Tabs - CONSIDER adding SR-only text to the visual tab labels - #11470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11470)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -1320,12 +1320,11 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _[Triage completed by VSP Testing Tools Team in March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21780)_<br/>
 **Open issues**
 
-- [[AXE-CORE]: Outreach & Events - Links must have discernible text - #23206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23206)<br/>**Opened:** April 14, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [[AXE-CORE]: Find Forms - Description lists must have valid markup - #23851](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23851)<br/>**Opened:** April 27, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AUTOMATION]: Update Nightwatch axeCheckJS to capture failing tests - #21738](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21738)<br/>**Opened:** March 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - ARIA progressbar nodes must have an accessible name - #21787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21787)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[AXE-CORE]: VAMC - Accordions need unique labels - #21789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21789)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Claims & Appeals - Progressbar must be updated for axe violation in Applications / Letters / Tests / 01 Authed E2e Spec - #21797](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21797)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [[NIGHTWACH E2E]: Public Websites - Progressbar must be updated for axe violation in Site / Tests / Home / 00 Required E2e Spec - #21799](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21799)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Debt Resolution - axeCheck must be updated in Applications / Burials / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21801)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: BAH - axeCheck must be updated in Applications / Edu Benefits / Tests / Edu Apply Wizard E2e Spec or test converted to Cypress - #21803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21803)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [[NIGHTWACH E2E]: Claims & Appeals - axeCheck must be updated in Applications / Pensions / Tests / 00 All Fields E2e Spec or test converted to Cypress - #21804](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21804)<br/>**Opened:** March 19, 2021 | **Severity:** 508-defect-1 - **_Critical_**

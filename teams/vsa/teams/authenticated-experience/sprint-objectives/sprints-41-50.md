@@ -465,34 +465,293 @@ FE
 
 ### My VA redesign
 
+**PM**
+
+- Check in on analytics — Do they need anything from us? Any updates? #23336
+- Begin filling out ticket for [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md)
+- Begin filling out ticket for [privacy review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-privacy-security-review.md)
+
+**Design**
+
+- Accessibility tests for staging review
+- UAT research plan, if not already done
+- UAT convo guide, if not already done
+- If UAT work is not already done, start thinking around [post-launch experiments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/samara-leave-planning.md#designer-priority-run-experiments-on-how-we-can-better-elevate-action-items)
+
+**FE**
+
+- Accessibility tests for staging review
+- Technical docs for privacy and security review
+- If time/needed, start on QA fixes
+
 **QA**
 
-- Conduct QA
+- Conduct QA #23242
 
 ### Preferred medical facility 
-
-### Notification preferences
 
 **PM**
 
-## Sprint 48 (5/19 - 6/1)
+- Coordinate on ticketing and meetings with Lauren Ernest as needed
 
-### My VA redesign
+**Design**
 
-### Preferred medical facility 
+- Work with Peter to make sure design *and copy* is finished
+- Liz to run mini study
+- IA review for this work
+- Collab with Peter on convo guide for research
 
 ### Notification preferences
+
+**Design**
+
+- Content review to finalize items and groups
+  - Share these with VANotify and VEText for concurrence
+  - Share back to VA Profile team
+- IA review #23286
+
+**FE** 
+
+- Tech discovery if it didn't happen #22597
+- If tech discovery did happen, start build
+
+### Direct deposit
+
+- Continue to monitor analytics
+
+### Profile
+
+**PM**
+
+- Work with Liz to compile and send a list of latest updates to the mobile team
+
+**Design**
+
+- If time, any high priority accessibility or other profile updates
+
+**FE**
+
+- If time, high priority accessibility tickets
+
+### Backend work
+
+- Lihan may me able to help the identity team with user roles and permissions discovery. TBD. Working with Christine Dillman on this.
+
+## Sprint 48 (5/19 - 6/1)
+
+Any outstanding project work from last sprint, plus:
+
+### My VA
+
+**PM**
+
+- Hold staging review
+- Hold privacy and security review  
+- Meet with communications folks (Leslie Byford)
+- **If time/dependencies allow**: Hold UAT go/no-go (Dependencies: QA fixes, scheduling of reviews, required fixes coming out of reviews)
+
+**Design** 
+
+No immediate My VA 2.0 redesign tasks. Tressa can move on to action items exploration instead:
+
+- Discovery: how can we better elevate action items?
+- Begin sketches/exploration of how we can elevate action items
+
+**FE**
+
+- QA fixes
+- If applicable this sprint, fixes coming out of the staging and privacy and security reviews
+
+**BE**
+
+- If needed, any documentation for, or work that comes out of, the privacy and security review
+
+### Notification preferences (communications permissions)
+
+**PM**
+
+- Check in with VA Profile as necessary
+- Work with Liz to put test case documentation together
+- Prep for [midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
+
+**Design**
+
+- Work with AJ to put together test case documentation
+- Work on research plan and convo guide if time
+
+**FE**
+
+- Start build
+
+### Preferred facility
+
+**PM**
+
+- Coordinate on ticketing and to-dos with Lauren Ernest as needed
+- Prep for [midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md)
+- Work with frontend to break down tickets for build
+
+**Design**
+
+- Work with Peter to recruit for and run research
+- Update FE documentation if there were copy changes as a result of review with content and IA
+
+**FE**
+
+- Technical discovery
+- Break down tickets for build
+
+### Profile 
+
+Only do this work if people have time.
+
+- Tackle any of the urgent accessibility requests first.
+- If there's not time for anything else, that's OK. We can always put work back into the backlog in favor of moving along project work.
+
+### Backend work
+
+- TBD. Hoping to get Lihan on user roles & permissions work this sprint. If not, we can talk to Jeff about him helping another team.
 
 ## Sprint 49 (6/2 - 6/15)
 
-### My VA redesign
+Any outstanding project work from last sprint, plus:
 
-### Notification preferences
+### My VA
+
+**PM**
+
+- UAT go/no-go
+
+**Design** 
+
+**Tressa out 6/10 - 6/17** 
+
+- Attend UAT go/no-go
+- UAT recruiting — **Don't schedule sessions until Tressa is back from leave**
+- Plan discovery for how can we better elevate action items #24967
+- Explore designs/sketches for how we can elevate action items #24970
+
+**FE**
+
+- Any outstanding fixes if still needed
+
+### Notification preferences (communications permissions)
+
+**PM**
+
+- Hold midpoint review
+- Help with ticket creation as needed #25046
+
+**Design**
+
+- Attend midpoint review
+- Any required updates coming out of the midpoint review
+- Recruit for research
+- Start research if time
+
+**FE**
+
+- Attend midpoint review
+- Redux actions and reducers #24863
+- High-level tests for FE #24864
+- Create FE implementation tickets #25046
+- Additional FE work that comes out of ticket creation
+
+### Preferred facility
+
+**PM**
+
+- Coordinate on ticketing and to-dos with Lauren Ernest as needed
+- Hold Midpoint review
+- Help with FE ticket creation as needed #25043
+
+**Design**
+
+- Work with Peter on research summary
+- Update designs as needed
+- Update FE documentation as needed
+
+**FE**
+
+- Technical discovery #24559
+- Create FE implementation tickets #25043
+
+### Profile 
+
+Only do profile work if people have time. Is there a ticket or two for Taylor to get his feet wet?
+
+### Backend work
+
+Lihan will continue working with the identity team on user roles & permissions work this sprint. 
 
 ## Sprint 50 (6/16 - 6/29)
 
-### My VA redesign
+Anything not finished last sprint, plus:
 
-### Preferred medical facility 
+**PTO**
+
+- **Tressa**: 6/16 - 6/17
+- **Erik**: 6/21
+- **All of Ad Hoc**: 6/18
+- **Samara**: Baby watch 2K21 (OOO most likely no later than 6/23)
+
+### My VA
+
+**PM**
+
+- Make sure analytics are set up correctly.
+
+**Design**
+
+- Conduct UAT
+- Create tickets if there are issues
+- Action items work: Finish explorations and discuss with team; Determine method for testing; Plan research
+
+**FE**
+
+- Add analytics code to datalayer and confirm with analytics that everything is implemented correctly
+- UAT fixes, if necessary
+
+**Stretch goals**
+
+If there are no fixes or anything needed from UAT, and if all analytics tracking is in place, feel free to hold the launch go/no-go and launch to 25% as soon as UAT is over!! If not, do that next sprint.
 
 ### Notification preferences
+
+**Design**
+
+- Run research
+- Summarize research
+- Update designs and frontend documentation, if necessary
+
+**FE**
+
+- Continue build
+- Implement changes from research, if time
+
+### Preferred Facility
+
+**PM**
+
+- Continued coordination with VAOS team
+- Work with Liz to finalize test cases
+
+**Design**
+
+- Finalize test cases
+
+**FE**
+
+- Start build
+
+### Profile
+
+- Feel free to pull in tickets as time allows and people have bandwidth
+
+**BE**
+
+- Backend work for setting up the contact info change email #25360
+
+### Backend work
+
+- Lihan to continue supporting the identity team

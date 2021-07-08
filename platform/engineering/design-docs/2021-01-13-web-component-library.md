@@ -2,7 +2,7 @@
 
 **Author(s):** Brooks Johnson  
 **Last Updated:** January 13, 2021  
-**Status:** **Draft** | In Review | Approved  
+**Status:** Draft | In Review | **Approved**  
 **Approvers:** _Chris Valarida_ [x], _Michael Fleet_ [x] 
 
 ## Overview
@@ -86,7 +86,7 @@ For further optimization, the Components will be lazy-loaded. Even if our Web Co
 
 #### Migration to Web Components
 
-Once a new release is made for the Web Component library, we will [configure a linting rule](https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/import.md) as part of the `lint:js:changed` script in `vets-website` to throw an error if a React component is imported that has a released Web Component replacement. This will prevent the older React component from appearing in more places as we are actively making efforts to remove it.
+Once a new release is made for the Web Component library, we will add an entry to our [`deprecate/import`](https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/import.md) ESLint configuration which will throw warnings if a React component is imported that has a released Web Component replacement. This should deter teams from using the older React component in new development as we are actively making efforts to remove it. This approach will also not interfere with engineers who are refactoring code in files where these legacy components are used.
 
 Next, if we believe a particular component migration will be problematic the Design System team will reach out to a VFS team to work with them on the migration. Once the first team has completed their migration to the new Component, we will announce the success and encourage other teams to do the same. At this point we will provide support for the migration if requested, but we will no longer provide support for the legacy React component.
 
@@ -333,5 +333,6 @@ index a75324e8a6..ae27e69e11 100644
 
 Date | Revisions Made | Author
 -----|----------------|--------
+June 08, 2021 | Update migration plan to reflect new deprecation strategy. | Brooks Johnson
 Feb 22, 2021 | Design doc approved. | Brooks Johnson
 Jan 13, 2021 | Initial draft begins. | Brooks Johnson

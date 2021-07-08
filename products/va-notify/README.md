@@ -72,17 +72,8 @@ ________________________________________________________________________________
 <br>
 
  To assign credits to VANotify, please follow these steps:
-  - Follow this link -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
-  - Select - Sustainment/Operation Credit link
-  - Choose VANotify under System/Application Name
-  - Enter your VA Business Line ex. “VBA Comp & Pen” under Program/Project Name
-  - Enter 812 as the Cloudkey ID
-  - Enter SPI/Strip# - For VA business lines/product teams using non-IT funding, populate the “SPI/Strip#” field with “Non-IT/Business Line” ex. Non-IT/VHA
-  - Enter AWS as the Cloud Provider
-  - Enter the dollar amount
-  - Enter your Project Manager and Business Owner
-
-*FITARA Approval and Form 2237 will need to be completed to approve the request.*
+  -  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for detailed instructions.
+  - Link in the pdf -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
 
 
 ## Technical Onboarding Guide
@@ -98,13 +89,20 @@ ________________________________________________________________________________
 
 
 ## Upcoming Capabilities
- * Feb 2021 - Multiple Provider Integration & Delivery Statuses
- * Feb-March 2021 - Self Service Portal
- * Work Starting April 2021 - VA Profile / VA.Gov Integrated Preferences
+ * Self Service Portal
+ * VA Profile / VA.Gov Integrated Preferences
 
 
 ## See Who We Are Working With
-This is how we track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
+* 526EZ (Application for Disability Compensation and Related Compensation Benefits) Email Confirmation - Sent automatically upon submission
+* Covid KMI (Keep Me Informed) Update for Veterans and Non-Veterans Beneficiaries - Sent periodically after sign up on va.gov
+* Covid KMI Email Sign-up Confirmation for Veterans and Non-Veterans Beneficiaries - Sent automatically upon sign up
+* Rx Pharmacy Shipment Update Pilot Text Message -  Sent upon shipment of prescriptions only for Asheville and Denver VAMCs however we are working on expansion nationally, text messagewill come from a local number currently
+* Debt Management Center - "You have new information" email - automatically sent after the Veteran calls the DMC for an update or information on their Debt status as well as may be sent if there is information in their account
+Lighthouse
+* Direct Deposit Email Confirmation - automatically sent when the Veteran updates their direct deposit account information on va.gov.
+* Application Connect & Disconnection from VA account - sent when the Veteran allows an app to access their health information and vice versa on va.gov.
+
 
 
 ## Recent Successes
@@ -114,7 +112,7 @@ This is how we track the business lines that are reaching out to us, their parti
 
 ## Find Out More & Get In Touch With Us
 * Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+miabecker&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
-* Slack - #va-notify
+* Slack - [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
 
 ## Incident Response ##

@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated March 16, 2021
+Last Updated June 8, 2021
 
 ## POCs
 
@@ -16,10 +16,11 @@ Last Updated March 16, 2021
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Lenae Storey|Product Manager| lenae.storey@adhocteam.us |
+|Lauren Ernest|VAOS Product Manager| lauren.ernest@adhocteam.us |
+|Peter Russo | VAOS Designer | peter.russo@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Carnetta Scruggs| MHV lead | Carnetta.Scruggs@va.gov |
 
@@ -91,22 +92,36 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 **Objective #1: Improve overall experience with appointment scheduling.**
 
-- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
+- **Key result #1**: - Reduce dropoff from the facility selection page in the VAOS tool by 15% by allowing people to save the facilities at which they current;y receive care. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
 
 |KPI/metric|Baseline: Q1 Jan - Mar 2021|Post-launch: Q4 Oct - Dec 2021| Post-launch: Q1 Jan - Mar 2022|
 |----------|-------------|---------------|-------------------|
 |Drop-off rate from the facilities page| TBD|TBD|TBD|
 
+- **Key result #2**: Establish baseline metric for how many people save a facility as part of their scheduling experience.
+
+|KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|
+|# of users who save a facility as part of their scheduling experience|TBD|TBD|
+
 **Objective #2: Present Veterans with a consolidated display of their preferred medical facilities and allow them to easily update their facilities via the VA.gov profile.**
 
 - **Key result #1**: Launch preferred medical facilities MVP in the VA.gov profile in Q3 2021 (July – September).
-- **Key result #2**: Establish a baseline metric for % of successful retrievals of preferred medical facilities by end of Q4 (assumes late Q3 or early Q4 launch).
-- **Key result #3**: Establish a baseline metric for % of successful saves of preferred medical facilities information (assumes late Q3 or early Q4 launch).
+- **Key result #2**: Establish a baseline metric for how many users have updated their facility preferences from the profile by end of Q4 (assumes late Q3 or early Q4 launch).
+  - **Note**: This metric will need to consider users who have health care vs. users who do not. 
 
-|KPI/metric|Establish Baseline: Q4 October - December 2021|Post-launch: Q1 Jan - Mar 2022| Post-launch: Q2 Apr - June 2022|
+|KPI/metric| Baseline at the end of Q4 2021 (Oct - Dec) |# of people by end of Q1 2022 (Jan - Mar)|
+|----------|-------------|---------------|
+|# of users who have updated their facility preferences|TBD|TBD|
+
+- **Key result #3**: Maintain at least a 95% success rate for retrievals of facility preferences.
+- **Key result #4**: Maintain at least a 95% success rate for successful saves of facility preferences.
+
+|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|-------------------|
-|% of successful retreivals| TBD|TBD|TBD|
-|% of successful saves| TBD |TBD|TBD|
+|% of successful retreivals|TBD|TBD|TBD|
+|% of successful saves|TBD|TBD|TBD|
+
 
 # Implementation Info
 
@@ -116,6 +131,9 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **October 2020**: Initial discovery.
 - **November 2020**: Begin backend integration.
 - **December 2020**: Finish backend integration.
+- **March 2020**: Design begins.
+- **April 2021**: Initial designs completed. Beginning collaborative research effort with VAOS team.
+- **June 2021**: Usability testing; FE build begins.
 
 ## Product Decisions
 
@@ -126,7 +144,7 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 ### How the feature works on MHV
 
-As of the beginning of this project (October 2020), this is who the preferred medical facility feature works on MHV:
+As of the beginning of this project (October 2020), this is how the preferred medical facility feature works on MHV:
 
 - MHV pulls in all facilities a person is registered at into their MHV profile. Someone can be registered at a facility for a number of reasons, not all of which involve receiving medical care there.
 - People can then check a box to indicate at which facilities they currently receive care. This is only saved in MHV and used by MHV administrators. This information is not sent back to MVI.

@@ -60,9 +60,6 @@ Reason for appointment page:
 
 ![reason-page](direct-schedule-flow/reason_page.png)
 
-Reason page with option selected:
-
-![reason-page](direct-schedule-flow/reason_page_selected.png)
 
 Contact info page. Email and phone are pre-populated from VA Profile:
 

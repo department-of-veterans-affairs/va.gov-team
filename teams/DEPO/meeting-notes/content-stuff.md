@@ -1,0 +1,79 @@
+The first 15 min will be focused on hearing from Beth and Danielle about how the pilot is going. What has happened, what’s going well, what has been tough, what have you learned?
+
+- goal of the service model was to support designers in content creation for forms, so the end result better met our standards, and to improve content quality. 
+- 2 months ago, started suite-specific office hours, and have created a handful of content briefs
+- doesn't feel like a content brief is needed for everything
+- have found designers embrace collab, appreciate feedback
+- designers want more of it, more 1:1 time and separate meetings, office hours weren't enough
+- varies from designer to designer, people want to work differently, so not one rigid process to suit everyone
+- running a lot of things, so it always feels like ah what's going on this week
+- w/one suite, starting a Friday/Monday check-in asking designers to give me a look at what's going on next week - do you need something big, etc? have tried it for 2 weeks, and designers are engaging well. helps me go into the weekend knowing there's one big thing and three little things coming, rather than going into office hours not knowing
+- might merge some office hours into each other if it turns out there are a lot of 1:1s needed. working well for myself and designers
+- w/other suite we check in during office hours on what's going on, and decide then what extra meetings we need
+- it's high touch
+- we're able to accomplish some things in meetings, and need to go think through strategy offline sometimes too, rolling with whatever works
+- the intake form now has a section about "do you think you need more info than office hours?"
+- have been iterating and refining interactions w/designers, purpose of this meeting is refining interaction w/Peggy as well and make sure we're addressing concerns here and things are working well for everbody
+
+---
+
+The next 45 min will be reserved for ideation around two opportunities for improvement that have been identified in recent conversations: 
+
+1)	Part of the purpose of the midpoint review is for VFS teams to get feedback before going into usability testing, so it’s important for them to get a content review then (this is in response to the idea that midpoint reviews could be more of a check in for advice as opposed to a review). How might we make it so that SWC-collab’d content gets a review prior to usability testing?
+- PG: it's good we're talking about this, bc thought content brief was going to be a requirement for all VFS teams, which doesn't seem to be the case (yet). As long as I know where they are when there's a touchpoint scheduled. But when is a content brief generally shareable and ready for me, should that be ready before teams go into Midpoint?
+- BP: at midpoint, it's often not super full yet of guidance. I seem to get involved a little before midpoint, but much more after. Neither good nor bad, just the way it is and when they're paying more attention to content. There may be something in there at midpoint review, but perhaps not a lot. So sould be more helpful at staging. But should be able to do midpoint reviews based on content style guide.
+- PG: what should I be doing at midpoint review? If they're not engaging w/SWC until after they've done usability testing, so what should the Platform be doing at midpoint? Seems I'd be reviewing content that will change and are teams even taking it? Like I gave NOD feedback, Kevin hadn't seen it or implemented, and... Fear teams will ignore platform feedback if they're still working w/SWC.
+- BP: I'd see peggy's role as, if we think of midpoint reviews as getting the thing ready for usability testing, then... like for example the COE I'm working on w/Jim is super rough with typos and stuff like that that would be great for Peggy to catch. Plenty of things that can be improved before usability testing, and stuff that's not based on what would be in a content brief - catching consistentcy issues, typos, etc that we don't want users to see in testing. So it's getting the product ready for testing in that way.
+- SG: If she gives feedback at midpoint, it may potentially be in conflict w/what SWC recommends to the team afterward. Could Peggy tag Beth/Danielle in the midpoint feedback, so if there's anything recommended there that SWC disagrees with, everyone will at least be in the loop?
+- BP: that's an option. what are you worried about that would be in conflict w/what SWC would recommend? Like subway map headers and stuff?
+- PG: now that I know there's minimal involvement prior to midpoint review, this concern may not really be a thing anymore. I thought teams were working w/SWC and then I'd see stuff that didn't seem correct, but then wonder if there's a reason they did this bc of convos w/SWC? Is there a set point that VFS teams know when to engage with SWC? Because also feel there's some confusion w/when Peggy gets involved.
+- BP: There's no requirement for when they start w/SWC, it's up to the designer whenever they're ready to engage. Usually once they have the flow worked out with Ryan. We don't really want to force a process. With NOD, the problem was we were all thinking of the process as being pretty linear (SWC content incorporated before it goes to CC) but what we're seeing is that since things are happening at different points, it makes more sense to think ... it doesn't matter how much SWC has been involved. If it's time for a midpoint review, you give feedback, tag us on it so we can take a look and see if there's anything before it goes to the designer so we can let CC know if thre's something in conflict with what SWC is doing. We thought we'd be involved much sooner, but that's not the reality at all.
+- PG: are you hearing from designers any confusion about SWC content role and Platform content role?
+- BP: not recently, like within last month or so
+- PG: I haven't eaither, but I've been having very little contact w/them -- usually just a meeting or a ticket
+- BP: Haven't heard any confusion lately. Don't think there's the same confusion that there used to be.
+- PG: Oh, Chatbot team did seem to be confused. They reached out twice to ask for a content review, and each time I asked if they'd been working w/SWC and their answer was really vague. Seemed like they were trying to get a review from me on the side, and that's when I reached out to SWC to see what your involvement had been. So that leads me to, what teams are y'all working with as part of the pilot, or are we out of te pilot phase?
+- BP: we've found that we've just gotten pulled into everything, whether it's designers under Shawna or not. Chatbot project has been challenging. There are people in place running that project who aren't content ppl yet it's the most content heavy product you could imagine. So explaining the importance of first person singular, plural, etc is so relevant to a chatbot and has been super challenging to get basic standards in place. That one has been a unicorn, an anomaly, and it's moving so fast. I've checked in with the team multiple times to see when they're going to implement the feedback, and saw when it got to Peggy that none of the feedback had been implemented.
+- SG: we have chatbot staging review today, they're not incorporating our feedback (same w/a11y).
+- BP: we're always going to have tougher situations where we have to be in contact with each other. Like you were Peggy when yo uslacked me and said I'm reviewing this and it seems not our voice/style. And we can escalate as we need to. Seems like communication has been better on Slack, and you can set up a meeting with us if you want to talk through specifically anything in your ticket before you hand it back to the VFS team. Can also come to the office hours so if that's convenient feel free to come.
+- PG: is it true that SWC is being pulled in for all teams?
+- BP: yes seems like it, since product owners are saying go talk to Beth and Danielle
+- DT: "pulled in" at different levels. the BAH team had a question for us, vs working sessions that we have w/some other teams.
+- PG: there's some confusion w/VAOS, they're working on something that'll cross to profile. So what about those situations? VAOS is still coming to Peggy for support (seems to be the only VFS team that engages w/me outside of CC) and can see their work is going to be a source of confusion for designer as their stuff crosses over into territories where Beth and Danielle are involved.
+- DT: probably makes sense to cross them over / transition period to get them working w/SWC. We can figure out what makes sense for the near term and then iterate, but yeah could see that being a source of confusion.
+- BP: now that we've done this trial period where we've worked w/everyone under Shawna and more, now we know it's working pretty well in terms of good final products, it's porbably time for us to have the reach out to all other teams and onboard everyone to what it looks like to work w/SWC on products. It's good we started this way because we got a view into the issues, where there are pain points, figuring out how helpufl is the brief? so far designers haven't used it. will they? unsure, still working on that piece. and we've learned a lot, it's time now to expand it.
+- SG: expanding is great, and glad we had the learning period, but one pain point for us in this process is that we've been in the dark wrt what's going on with SWC. We haven't known what SWC is doing, and this meeting has been helpful in figuring this out. For example, we have a CC github page that says what CC is about, could SWC put together a page that talks about what working with SWC is all about?
+- DT: there had always been an expectation for PW content ppl to dive into work as needed, so this is our first step at clarifying. There was no real formal agreement, just kind of like oh yeah if the team needs a writer we're supposed to go fulfill that need. One of the reasons for pulling SWC out was to make that clear - SWC isn't public websites, it's all content. We can go into different products and provide that level of support, so it's not just an understood agreement under PW but a real process. Now that it's becoming clearer, our next steps are to document and clarify intake etc.
+- DT: has also been helpful in understanding staffing needs bc current is unsustainable (SG: and need a PM!)
+
+
+
+2)	Both teams have reported feeling like there has been a divergence from the collaborative nature they used to share – and they miss it! The folks on the Collab Cycle side feel the onus is often on them to ask for information, and they sometimes don’t know what they don’t know. How might we get Product Support more transparency into the status of SWC content, and into standards/patterns-related work that’s starting up or nearing launch (like the new form into template)?
+- BP: convo above was a lot about this, is there more that needs to happen to prevent this feeling of being in the dark?
+- SG: knowing all this is helpful, we've already discussed design intent, I feel more comfortable now
+- PG: this whole convo has been helful at understanding when SWC is involved, not knowing what has happened before it comes to platform was challenging and this convo has clarified that
+- BP: we didn't know either where we'd come into play, so being involved the last couple of months has clarified for us too where we fit in
+- SG: I didn't realize that you each had dedicated teams you work with, like the health suite vs other suites. could you share which teams you're working with, so we can reach out to right person when needed?
+- DT: I'm PO for content and localization (separate from providing content support). I'm more over health care + I did the debt stuff. Unauthenticated content office hours = static pages, search, and we tag team on those. Then Health Care = Danielle, and Benefits (all VBA forms!! housing, claims, etc) = Beth. 
+- PG: hard for me to dip into office hours bc it's hard for me to know what's on the schedule, and who's coming. There's 3 meetings, do I need to go to all? If you know the agenda before and there's something for me then I could dip in... I'm around, so if there's a convo happening that would benefit from me being there I could jump on?
+- BP: They're usually either here's an overview, we're going to design intent, here's the product and I get a sense of what's coming and then I don't hear from them for a month. Or they're a working session where we dive into specifics and they're making changes while we're on the meeting.
+
+3) 
+- PG: content brief is the most unclear area for me
+- PG: what's the criteria for whether a team needs one, and how will product support know that? we ask for the content brief as an artifact in our touch points, but it seems like most teams don't know about it or what it's for
+- BP: i'm using the brief more than designers, PMs don't seem conscious of the doc. Could peggy ask Beth/Danielle instead of the product team for that artifact?
+- BP: unsure how useful the brief will be to designers. do they use it now, or are they relying on our meetings? the brief is not meant to be something the team creates or updates. so maybe the brief should come from SWC instead of VFS teams, and then the question is how do we get that to product support?
+- SG: where are the content briefs stored? maybe if we knew the location, we can just go grab from there.
+- BP: they're in the content folder in GitHub, I'll point Peggy to where I'm saving them. Can have Danielle put hers in the same folder.
+- PG: I think I know where they are, but there was only 1 there. 
+- DT: haven't started a content brief yet, bc haven't been w/any projects from the beginning yet, but have a couple that are starting.
+- PG: we ask for the briefs in our cc templates, so maybe we need to change that if most teams won't have that.
+- PG: what's the critera for/for not creating a brief? how do you determine a project that does/does not need one?
+- DT: first criteria was "new projects", but the iteration of the content brief will be dependent upon what we learn. We'll have to figure it out as we go since it's a new concept. Part of the brief has tips for the designers, pointing out key, simple things, as well as product-specific content notes. It'll take time to see how much value there is in capturing that in a content brief. Might actually go back and create one retro-actively for the FSR, bc the stakeholders changed their mind significantly on language, and that's the kind of thing we want to capture
+- DT: should peggy ask teams for content brief? hmm. it's hard for SWC to know when a product is going for a cc review, so i wonder if between Product Support and Randi there can be the check-ins, or notifications that go out when midpoints are scheduled.
+- SG: Randi has been added to design intent, but my understanding was so that SWC could know what teams are working on. She doesn't speak up, she listens and brings info back. I post on VSP Collab Cycle channel when we have a cc checkpoint ticket. Randi's not in that channel, if she's acting as basically the PM for the SWC team then it totally makes sense to invite her. Can also invite her to calendar appointments for midpoint and staging if that seems valuable. But don't want to be in a sitch where there's 3 VFS members and like 10 Platform members - can be overwhelming. Maybe we can sync so she's aware of our processes and we can discuss how both our teams can keep each other updated on what's going on.
+- DT: don't think she needs to be in the meeting, but could ask her if she's comfortable monitoring the notifications, or if she's responsible for pinging PS whenever a content brief is created. We've been working on having Randi take more ownership of tickets and processes, and she has been stepping up into that role, so Beth and Danielle can be everywhere.
+
+
+
+

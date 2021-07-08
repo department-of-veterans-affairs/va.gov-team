@@ -154,19 +154,7 @@ This product will build on top of current Debt Portal design although utilize a 
 
 **
 
-## Meet the BAM2 Team
 
-
-
-||Name|Role|eMail | Github
----|----|----|----|---|
-![enter image description here](https://ca.slack-edge.com/T03FECE8V-U8QNXN7JP-44773900c8df-512)|Matthew Self| DSVA Lead| matthew.self2@va.gov|@mattpointzxer0 
-![enter image description here](https://ca.slack-edge.com/T03FECE8V-UTP7S3UNM-ad2a095e6f0e-512)|Leah Keeler | Product Manager|lkeeler@governmentcio.com|@leahkeeler
-![enter image description here](https://ca.slack-edge.com/T03FECE8V-UMFKNV6B1-5b245744a40d-512)|Cameron Testerman | BE Engineer|cameron@oddball.io|@camerontesterman 
-[Brad is camera shy](https://ca.slack-edge.com/T03FECE8V-UP88PJRSN-g88ef24acb45-512)|Brad Conley | FE Engineer|bconley@governmentcio.com|@bradl3yC 
-![enter image description here](https://ca.slack-edge.com/THYGV9KQU-UQH77TZAT-feee03442464-512)|Mahariel Rosario | FE Engineer|mrosario@governmentcio.com|@mr0sari0 
-![enter image description here](https://ca.slack-edge.com/T025UGMV9-UMBESQFGV-3161a56f1374-512)|Riley Orr | Designer|riley@amida.com|@rileyorr 
-![enter image description here](https://ca.slack-edge.com/T025UGMV9-UP59LSZE0-f471c711fc47-512)|Becca Walsh | Designer|rebecca.walsh@adhocteam.us|@rebeccawalsh 
 
 We follow a 2 week SCRUM development cycle 
 

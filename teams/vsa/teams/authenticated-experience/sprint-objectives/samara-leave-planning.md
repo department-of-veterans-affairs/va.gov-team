@@ -1,108 +1,114 @@
 # Long term planning for Samara's maternity leave
 
-## My VA
+### [Long term planning spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/Long%20term%20project%20planning.xlsx)
 
-### Q2 2021 (April – June)
+This is my best estimate on things as of when I go on leave, but please please PLEASE feel free to adjust based on how things shake out in reality. This is meant to be a guide, not a mandate.
 
-### My VA 2.0 launch
+## Q2 2021 (April – June) goals
 
-- Finish My VA 2.0 build
-- My VA 2.0 [VSP pre-launch collab points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)
-- My VA UAT
-- (Hopefully) My VA 2.0 phased launch begins
+**Samara will be out at the end of this quarter**.
 
-### Q3 2021 (July - September)
+### My VA
 
-### My VA 2.0 launch
+- **2.0 redesign**
+  - Finish build
+  - QA and VSP reviews
+  - UAT
+  - Begin phased launch
+- [Run experiment(s) on how we can better elevate action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery)
+ 
+### VA.gov Profile: Communications permissions (notification preferences)
 
-- If phased launch didn't start/complete in Q2, then this should happen very early in Q3.
+- Work with VANotify/VEText to define items and groups
+- Design and research
+- Start frontend build
 
-### PM priority: My VA 2.0 project KPI tracking
+### VA.gov Profile: Preferred medical facility
 
--	Track My VA 2.0 project KPIs for 3 month post-launch, then discuss plan for making additional improvements based on those analytics.
+- Design and research
+- Begin build
 
-### Designer priority: Run experiment(s) on how we can better elevate action items
+### VA.gov Profile: User roles & permissions
 
-**When**: Post-launch; May take the full quarter
+- MVP picked: Dependents user role.
+- Lihan will help out with backend work.
 
-**Objectives**:
-- Evaluate patterns with real users that will allow us to more effectively elevate action items on My VA
+## Q3 2021 (July - September) goals
 
-**Additional info**: 
+**Samara will be out for most of this quarter**.
 
--	Action items, ie. items on which the VA needs action from a veteran to move a process forward, are the most important thing that veterans want to see on their dashboard. However, action items are currently spread throughout My VA, and as we add functionality over time, it could be hard to find specific action needed items, especially if they are buried at the bottom of My VA. We should explore how we can more effectively elevate action items in order to create a scalable strategy.
--	The debt management team has been reaching out to us since spring 2021 about adding a debt-related notification to My VA. This could be something to consider in any experiments or updates.
+### My VA
 
-### If time: Run usability testing on My VA in production
+- **My VA 2.0 redesign**
+  - Complete phased launch
+- [Track My VA 2.0 project KPIs for 3 months post-launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#measuring-success)
+  - The reports you need are linked from the product outline above. Just be sure to adjust dates accordingly.
+- Options for additional work:
+  - **Option A**: Scope out an MVP for elevating action items; do additional discovery, design, and research if necesary; start build.
+  - **Option B**: Discovery on what additional information we can/should add next to the dashboard (eg. payment history and financial info and education info keep coming up repeatedly in research).
+  - **Option C**: If the user roles and permissions work is well defined and requires work from our team, Tressa might need to help out with that instead. Kevin will need to help the team determine this.
+ 
+### VA.gov Profile: Communications permissions (notification preferences)
 
-**When**: If time in Q3, but only if the research is targeted and we feel like it will provide meaningful insights; Should take no more than 1 month
+- Complete build
 
-**Objectives**: 
--	Assess usability of the tool with veterans’ real information.
--	Assess whether people can find My VA and the information it contains when all of VA.gov is available to them.
--	Post-testing, determine next steps and how improvements might fit into roadmap.
+**On hold while VANotify and VA Profile complete their integration. Current estimate for that is some time in August.**
 
-### Q4 2021 (October - December)
+Once the backend build is complete...
 
-Samara should be back at this point, during which we will discuss the status of My VA work at this point and determine the right paths forward.
+- QA and pre-launch checklist items
 
-## VA.gov Profile: Communications permissions (notification preferences)
+### VA.gov Profile: Preferred medical facility
 
-### Q2 2021 (April – June)
+- Complete build
+- QA and all pre-launch checklist items
+- UAT
+- Launch preferred medical facility functionaity before end of the quarter
 
-**Goal: Get final details from VA Profile, design, build**
+### VA.gov Profile: User roles & permissions
 
-**Note**: This is dependent on VA Profile being ready and getting us the things we need. We need final groups, items (notifications), and content in order to finish the research convo guide, conduct usability testing, and to move on to QA and the rest of the pre-launch checklist. Additionally, we need time before research for the content and IA teams to review the actual groups/notifications and provide feedback to VA Profile. All of this may affect the final timeline.
+**Dependents user roles research**
 
-- **PM**: Work with Terry and Mike on VA Profile as necessary; Oversee and manage all work and VSP reviews
-- **Design**: Updates to VA.gov profile; VSP reviews; Start planning research
-- **Frontend build**: Build
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Design Intent, Information Architecture (IA) Request
+- **Who**: Liz or Tressa, depending on who is available; Oversight from Kevin Hoffman.
+- **When**: Middle of July (Sprint 52). This should be about two sprints — one for planning and recruiting; one for research and summary.
+- **What**: User research that will help define what a dependent user role MVP would look like on VA.gov.
 
-### Q3 2021 (July - September)
+It is an OCTO/VA.gov priority that a new user role exist on VA.gov before the end of the year. While our team is not solely responsible for this work, I have volunteered us to help out with some initial discovery so someone (Kevin?) can define what a dependent user role MVP might look like. The research our team does will inform that.
 
-**Goal: If possible, launch MVP of communication permissions (notification preferences)**
+In terms of research objectives, here are some initial thoughts:
 
-**Note**: This is dependent on VA Profile being ready and getting us the things we need.
+**Goals**
 
-- **PM**: Work with Terry and Mike on VA Profile as necessary; Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
-- **Design**: Finish research planning; Run research; Contact center guide; UAT planning and research
-- **QA**: QA testing
-- **Frontend build**: Updates to build as necessary
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Research Plan Review, Analytics Request, Midpoint Review. Contact Center Review, Staging Review, Privacy and Security Review, Full Accessibility and 508 Office Audit
+- Be able to define dependents' top priorities.
+  - The initially proposed MVP was that a dependent should be able to sign on and view their benefit letter. Do they care about this? Is this a good MVP? What is the most important thing a dependent needs to do?
+- From this research, be able to define what a dependent user role MVP would look like on VA.gov.
 
-### Q4 2021 (October - December)
+**Additional Thoughts**
 
-**Goal: Launch if not launched in Q3**
+- One way to better understand dependent's top priorities is to assess what they already do online to manage their relationship with the VA (could be on sites other than VA.gov).
+- We'll likely also want to quickly look into dependents' VA.gov accounts to asses what data they can already see and what they can't. For example, we  know from direct deposit for edu UAT that depedents can already see this information in their profile without any additional work from us. Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)? 
+- We should also make sure we understand how someone gets correlated as a dependent in the VA ecosystem. This is likely something we can learn more about through the eBenefits migration team (Jason Wolf), so likely not something we'd ask dependents about.
 
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Post-launch Check-in
+## Q4 2021 (October - December) goals
 
-## VA.gov Profile: Preferred medical facility
+**Samara will be back at the beginning of this quarter**.
 
-### Q2 2021 (April – June)
+### My VA
 
-**Goal: Design, research, begin build**
+- Determine next steps after Samara gets back
 
-- **PM**: Collaborate with Lauren Ernest on VAOS as necessary; Oversee and manage all work and VSP reviews
-- **Design**: Updates to VA.gov profile; Collaboration with VAOS on how this integrates into the scheduling tool; VSP reviews
-- **Usability testing**: Cross-team effort between auth experience + VAOS to evaluate proposed designs for how users will update their preferred medical facilities.
-- **Frontend build**: Begin build; Finish build if possible
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Design Intent, Information Architecture (IA) Request, Research Plan Review, Analytics Request, Midpoint Review
+### VA.gov Profile: Communications permissions (notification preferences)
 
-### Q3 2021 (July - September)
+- Any VSP pre-launch checklist items not completed in Q3
+- UAT
+- Launch MVP of communication permissions (notification preferences)
+- [Monitor analytics and track metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences#measuring-success)
 
-**Goal: Launch preferred medical facility before end of the quarter**
+### VA.gov Profile: Preferred medical facility
 
-- **PM**: Collaborate with Lauren Ernest on VAOS as necessary; Oversee and manage all work and VSP reviews; Put together the release plan; Hold go/no-gos for different touchpoints (QA, UAT, Launch)
-- **Frontend build**: Finish build if not already done
-- **QA**: Complete QA testing
-- **Design**: Review FE build; Call center guide; UAT planning and sessions 
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Contact Center Review, Staging Review, Privacy and Security Review, Full Accessibility and 508 Office Audit
+- Launch this work if it didn't launch in Q3
+- [Monitor analytics and track metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/preferred-facility#measuring-success)
 
-### Q4 2021 (October - December)
+### VA.gov Profile: User roles & permissions
 
-- **[VSP reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)**: Post-launch Check-in
-
-## VA.gov Profile: User roles & permissions
-
-**When will we have insight into when this work is kicking off and what is required for this team?**
+- TBD based on user roles research and definition of dependents MVP.

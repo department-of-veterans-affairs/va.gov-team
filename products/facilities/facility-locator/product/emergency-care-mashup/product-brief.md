@@ -42,14 +42,17 @@ _Why should this project be a priority?_
   - Veteran is eligible
   - Visit qualifies as requiring emergency attention
   - VA services were not available
+
 **Veteran Impact**
 - Without authorization, Veteran is at risk of out of pocket costs and adverse credit impact
 - Veteran can submit request for "consideration" if care provided out of network but authorization is not guaranteed and processing time is not automated and can take significantly longer
+
 **Business Impact**
 - Use of authorized emergency location reduces processing time (claims flow automatically w/o human intervention)
 - Provider reimbursement rate is higher if visit is authorized (potential impact on provider willingness to cover services)
+
 **Product Impact**
-- The Facility Locator roadmap moves toward a service-centered search experience, agnostic of the facility type. This work follows an urgent care mash-up which returns a list of the closest VA urgent care facilities, community urgent care facilities or both.    
+- The Facility Locator roadmap is moving toward a service-centered search experience, agnostic of the facility type. This work follows an urgent care mash-up which returns a list of the closest VA urgent care facilities, community urgent care facilities or both.    
 
 ### Project Scope and Scale
 _What's in and what's out?_

@@ -48,6 +48,8 @@ Before we start, a few things I want to mention:
 
 * Imagine you received a letter in the mail about owing money to the VA, but you've misplaced it, what would you do?
   * Is there some other way you'd prefer to find this information?
+
+* Next, I'm going to ask you to share your screen so I can follow along with you. There should be a green button at the bottom of your Zoom screen that says "Share Screen" - just click that, select your screen, and hit share.
 * (If they haven't mentioned one of the online formats) Let's imagine there's a place online where you can access this information. Tell me what that looks like for you. 
 * MyHealtheVet
   * Talk to me about how you'd find that information
@@ -64,6 +66,7 @@ Before we start, a few things I want to mention:
   * What keywords are you expecting to see?
 * Let's say you had an appointment at your local VA medical center and want to see the charges for your visit. What would you do to find that information?
   * How does this experience compare finding information about money you owe to the VA?
+* Would you expect to find information about money you owe to the VA in one location?
 
 **Things to watch for**
 * Where do Veterans expect to interact with their VA copayments?
@@ -96,6 +99,7 @@ Alright, I want you to imagine that you are in the following scenario:
   * What do you think will happen if you don't pay by that date?
 * What options do you have to resolve these copay charges?
   * Which would you choose? Why?
+* What would you do if you needed assistance paying?
 * Talk to me about the description section.
   * What does this mean to you?
   * How would you normally interact with this section of the letter?

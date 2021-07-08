@@ -43,7 +43,7 @@ An example of a completed request template can be found [here](https://github.co
 - Who is this request for?
 
     - [Insert Name(s)]
-    _Provide any relevant contact information and link this issue to the insights team on the DSVA Slack Channel: `#VFS-Platform-Support`._
+    _Provide any relevant contact information and link this issue on the DSVA Slack Channel: `#VFS-Platform-Support` and tag `@platform-analytics`._
     
 - What team/project is this work for?
     _this adds context for the data_
@@ -61,7 +61,10 @@ An example of a completed request template can be found [here](https://github.co
     
     - [Provide relevant dates here]
 
-- Typical Website Interactions to Track
+- Please provide website interactions to Track
+
+
+    _Design System components are automatically tracked. [Read more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/build-process-measuring-pageviews-and-events.md#other-important-things) to see which Design System components are opt in or opt out. You do not need to specify on this ticket which components you are tracking unless you are opting in._
 
     - *Conversions - Understanding the User Flow:* _Provide URLs that are part of the application from introduction page to successful form completion; conditional pages that are visible depending on an applicant's answer should be marker accordingly._
     
@@ -90,11 +93,12 @@ An example of a completed request template can be found [here](https://github.co
 > Please leave the following blank
 
 ## Acceptance Criteria
+- [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
-- [ ] VFS team completes brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
+
 
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
-- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+- [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated

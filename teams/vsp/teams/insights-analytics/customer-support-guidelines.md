@@ -1,8 +1,11 @@
-# Customer support guidelines
+# Customer Support General Guidelines
 
 *Who this is for:* This documentation is to support VSP Analytics & Insights with guidelines as they work through customer support requests.
 
 Resources: Please see the [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md) for prioritization and the [team RACI sheet](https://docs.google.com/spreadsheets/d/1JdNPKo9y-4o2c_HaWIne2L6H310fhRn2M51e5NvHdxE/edit#gid=0) for specific responsibilities.
+
+### 🔴  For more detailed steps and procedures on Google Tag Manager and Google Analytics customer support processes, **please see [Google Analytics & Tag Manager customer support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/gtm-ga-customer-support-guide.md).**
+
 
 ---
 
@@ -69,6 +72,9 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
 [**Access Request**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo)
 
 - VFS Use: To request access to Google Analytics and/or Domo.
+  - GA access: add folks to the account level, and provide Collaboration rights.
+    - For security purposes, please do not provide access to personal gmail accounts. All GA access should be given to business and VA.gov emails. Users with VA.gov emails will need to create a Google account if they don't already have one and link their account to their VA.gov email. User instructions are located [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-access-to-google-analytics). 
+  - [Read here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-tools/domo-internal-faq.md) for how to provision Domo access.
 
 [**General Analytics Request**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request&template=analytics-general-request-template.md&title=General+Analytics+Request+for+%5Bperson+or+team%5D)
 
@@ -134,3 +140,6 @@ The following team members should be added to the corresponding meetings:
   - You may close the ticket when the Definition of Done is completed.
   - Please leave a comment on the work being completed within the ticket before closing.
   - Please collaborate with the requester so that we have acknowledgement that they received the services they needed. A response is not necessary in the ticket, but we do need a comment from the person working on the ticket that they have spoken with the requester. (i.e. "We're closing this issue, but please let us know if you need anything else."). If your work is completed and the requester has not responded by the next Planning or Grooming session, we will close the ticket during Planning or Grooming.
+
+### Process Specifics
+- For more detailed steps and procedures on Google Tag Manager and Google Analytics customer support processes, please see [version 2 of this document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md). 

@@ -1,4 +1,6 @@
 # Product Outline Template
+*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
 ---
 
 ## Overview
@@ -62,6 +64,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+- Initiative | [Link to Initiative Brief](#)
 
 --- 
 

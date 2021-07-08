@@ -116,7 +116,7 @@ Manual testing includes zoomed layouts, color contrast and color blindness, keyb
    * White text on yellow, orange, red
    * Black text on darker blues, purples
    * Gray text on white or textured backgrounds.
-2. Check for color blindness issues. VSP recommends the [Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en) for Chrome. There are several key items to look for:
+2. Check for color blindness issues. VSP recommends the [Colorblindly plugin](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) for Chrome. There are several key items to look for:
    * Links that do not have underlines
    * Use of color as the only indicator something is in error, has changed, etc.
 

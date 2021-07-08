@@ -17,7 +17,7 @@ Good morning/afternoon and thank you for joining us today.
 I have a few things I need to mention before we start:
 - The session should take about 15 to 30 minutes, but you can stop any point--just let me know. 
 - If something is confusing or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
-- In this call you will be seeing a live VA form. You are not obligated to complete this form--it won't be sent to VA to until you go all the way through and click the submit button.
+- In this call you will be seeing a live VA form. When you click submit, it will send a 21-686c submission to VA.
 
 ## Screening
 

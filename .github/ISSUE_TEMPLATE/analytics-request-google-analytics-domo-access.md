@@ -14,7 +14,7 @@ Use this template to request access to Google Analytics and/or Domo
 
 
 ## User Email Address
-Please link this issue to the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), add VSP Analytics & Insights to your message, and provide the email address(es) for user(s) requesting access.
+Please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), add `Analytics` in the "I need help from" dropdown, and add this issue's link and the email address(es) for user(s) requesting access in the "Summary of request."
 
 
 To access Google Analytics: if the user has a VA.gov email address or does not yet have a google account, they will need to create one by visiting [this link](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp). VA.gov users and external users with email accounts that are not google based should select the option "Use my current email address instead".
@@ -23,7 +23,11 @@ To access Google Analytics: if the user has a VA.gov email address or does not y
 Please check the analytics tools you need access to:
 - [ ] Google Analytics
 - [ ] Domo
-_Please list any additional requirements, if any._
+- [ ] (Platform Teams only) BigQuery
+
+_Please list any additional requirements, if any (i.e. edit access). If you are requesting BigQuery access, please share if you will be hooking up an API._
+
+Once you receive access, you should receive a confirmation email directly from Google or Domo.
 
 ## Date Required
 _Please share the date you require access._

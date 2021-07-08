@@ -80,7 +80,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 * [ChromeLens Chrome Plugin](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en)
 
 **Recommended**
-* [Colorblinding Chrome Plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en)
+* [Colorblindly Chrome Plugin](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
 * [Color Contrast Analyzer for Sketch](http://sketchapp.rocks/plugins/color-contrast-analyser/)
 * [Web Accessibility VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
 

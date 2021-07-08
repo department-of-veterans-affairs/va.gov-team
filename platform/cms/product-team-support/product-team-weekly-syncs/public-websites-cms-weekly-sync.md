@@ -35,12 +35,238 @@
 
 </details>
 
-## April 21
+## July 14
 
+* Banners
+* CMS account admin policy review
+* CLP governance updates
+* Events 
+
+## July 7
+
+* Leadership page redirects
+  * Possibly no action needed, confirming with Mikki 
+* Homepage banner alert
+  * Current yml approach
+    * Look for lightweight ways to improve existing process
+    * John to speak with Josh T from OPIA about what approach would work, what communication channel
+    * Who else could respond, building in resiliency, not just Kelson, a pool of people
+  * Look at new technical approaches (https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991) 
+    * Kelson's Hardcoded alert ID POC
+      * Replaced banner json with alert with list of alerts with a custom liquid filter that uses alert 42.
+    * New CMS approach to content model / governance https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991#issuecomment-875210594 
+    * React widget
+      * Loading from github
+      * Loading from drupal json file 
+  * This becomes a top priority for Public Websites, over anything CLP 
+* CLP governance updates? 
+
+## June 30
+
+
+CLP
+* governance 
+  * Tim: idea to put governance in the hands of Gary H and Josh T at OPIA (web governance board), which has comms teams from each admin
+  * yesterday VHA said it wouldn't be ideal, it only meets once a month. 
+  * John meeting with with Tim and Gary next week
+  * 
+
+
+
+* Updates 
+  * Scenarios for CMS
+* metatags 
+  * Kelson will write liquid filter to transform title and og:title metatags to Initial case 
+    * CMS can help with some QA, based on a diff from Kelson
+  * CMS team
+    * OG:image support for CLP 
+    * remove extra pipe in CLP and other content, like Florence VA Clinic, R&S pages. Goes back at least 6 weeks. 
+* CMS help center / knowledge base
+  * Product landing pages in Knowledge base
+  * Product intent / strategy documentation from Product teams, for polishing (and support from) CMS team 
+  * Jane will share Natalie's draft pages from Fall 2020 to John. https://prod.cms.va.gov/node/15138
+* viewport_width image derivative now available - may make lazyloading less of a priority. 
+
+Redirects
+* Leadership URLs -- coming in next week 
+
+
+## June 23 
+
+[John's & Steve are out]
+
+* Possible upcoming redirects work for VAMC leadership pages [#5500 Runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500)
+* CLP governance scenarios
+  * John met with Tim Hudak and has some followups to powerpoint and governance doc in markdown
+  * More to come next week
+* Migrating tables for Benefits Hubs -> Resources and support transition (see [slack thread with Randi](https://dsva.slack.com/archives/CDHBKAL9W/p1623769214163900))
+  * kev will Update thread with Randi, Danielle & Beth
+
+## June 16, 2021
+
+Events calendars / Outreach Hub
+* Vision for Outreach Hub - short term (Q3), long term calendar year 2021
+  * We're seeing new use cases that weren't covered with the current iteration (VA wide event calendar)
+  * [VEO scaling up usage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
+  * VC events?
+  * As an option, the existing content model can be cloned for other offices
+  * Training needs
+* Discussion
+  * Dave: What is the vision/purpose of the Outreach Calendar so that it has a unified vision and scale appropriately. Is this the one calendar to rule them all? 
+  * John: Create a product outline, and look at features like filtering. 
+  * Dave: is there a problem with giving access to all these users? And what are the business processes around that? 
+  * Next steps: John and CMS team to write out permissions/risk implications of adding more users to Outreach Hub. 
+  * No action for onboarding or training for now. 
+
+Images
+* Lazy loading implementation on the FE - slack thread for context [**here**](https://dsva.slack.com/archives/C01DS1XDEQ0/p1623440189097200)
+  * Kelson will be doing a proof of concept for the CLP header, that could be extended across other products 
+* Support for JPEG2000 imgaes on FE and CMS - slack thread for context [**here**](https://dsva.slack.com/archives/CDHBKAL9W/p1623444072152200)
+  * Kelson: This would make lazy loading irrelevant. Would require backend and FE changes. There are ways of doing this all backend. 
+  * Steve: For each format, it doubles the number of files that need to be moved.If we add an image style, CMS has to generate that derivative, and pre-warm them. The build process has to grab all of them and move them. Who needs to be part of this conversation? 
+* CLP banner
+  * CMS: make a new deriviative for wider screens, `viewport_width` for ~2500px, tbd. 
+  * John: anything that can be done in the next week for vaccine hesitancy image?
+  * Kelson: we can reduce the overall dimensions. 
+* CMS help text / guidance about recommended image weight (currently 32mb), specifically for CLP?
+  * Original files should not be discouraged
+  * Using original files on www.va.gov should be discouraged
+
+Accessibility
+* Ownership of removing dfn wrapper applied by template on table cells
+  * Easy fix to make, removing `dfn` tag
+  * But removing it will bring back the accessibility issue for the table
+  * CMS would need to support definitions in the content model or in the input format
+* VA is read as a screenreader as `vah` (or Virginia)? 
+  * CMS to create issue to potentially solve this in input filters or graphql processing
+
+CLP
+* Stakeholder reviews/workshops for [the CLP Governance Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
+  * Jane and Kev to review and we'll discussion June 30.  
+
+
+
+## June 8 
+
+* snapshot update on the CLP 1.0 plan (have a draft of what we plan to present as a governance/user model for VACO DigComms leads-teams over the next few weeks — e.g. handing over the keys). (edited)
+
+
+## June 1
+
+* VAMC Pittsburgh redirects [PW #25044](https://github.com/department-of-veterans-affairs/va.gov-team/25044) / [CMS #5132](https://github.com/department-of-veterans-affairs/va.gov-cms/5132) / [Devops #9286](https://github.com/department-of-veterans-affairs/devops/pull/9286)
+  * Kev content fixes will go out at 11am ET content release
+  * Kelson and Jeremy will roll out redirects 11:30am 
+
+CLP
+* `og:image` for CLP and beyond (can we pick one other product/content type?)
+  * CMS issue to start speccing `og:image` for VAMC facility and CLP, using 2:1 1024x512 
+* image derivatives in story teasers on CLP
+* survey going out to John Santos
+* Brian and John will be outlining the future of the governance of CLP post-MVP... is a request form needed for that? 
+
+Outreach hub
+* John meeting with Jean and Tim next week
+
+
+## May 26
+
+* Outreach Hub editors 
+ - Keep John informed.  Is Tim Hudak is the gatekeeper? John will contact Tim and include Rachel Kauff. Will bring up publications governance. 
+ - We can't cut of access to Publications in that product right now, so onboarding / training can speak to that.  
+ - Until we develop training materials [#5292](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5292) onboarding is more handholding.  
+* CLP feedback from VEO 
+  * Very favorable
+  * No really new feedback, but mentioned a few items: media library (more stock images?), reordering segments, more rich text. 
+* Next CLP
+  * Next Tuesday 9am, John Santos / OPIA, working with Danielle.
+  * Getting some guidance around imagery: license some imagery. 
+* CLP Hero image
+  * Brian and John will schedule a followup looking at design, responsiveness, cropping, etc
+
+## May 19
+
+CLP 
+* 🎉 Launch! Any updates/insights?
+* Pride & Vaccine campaigns
+  * Vaccines not deploying this week, Danielle said definitely next week. 
+  * Pride: plan to launch June 1. Danielle working with John Santos from OPIA. Plan is to link to Discharge tool but it may be too dated, and the campaign will be cancelled. Jane will proceed with training assuming it's going forward. 
+* New URL pattern is implemented via [#2383](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2383)
+
+React Widgets 
+* [#2919 CMS epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919) and [#2920 Audit](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2920)
+* [#24849 Refactor CTA helpers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24849)
+
+Alerts on homepage and beyond
+* Kevin will create epic with a discovery issue candidate for Sprint 33 or 34. 
+
+Resources & support
+
+
+
+
+## May 12
+
+CLP
+* No collab reviews will be required.  
+* The PW team will need to provide assistance for Cloning, Analytics/Dashboard (and UTM) and any vanity URL redirect requests.
+* What CMS-realted feature enhancements will we tackle (if prioritized by PO)? [Working List here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/mvp/user-testing-1.md)
+* How will use and on-boarding of CLP be managed? We have more directional context on this — so will need to firm up in the coming weeks. [Will draw from the Service-Roll Out Plan working draft here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/product-service-rollout.md)
+
+## May 5
+
+CLP 
+* Audience_tags epic now complete. [#4898]([https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4898)
+* [#5216 Set up URL generation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5216) awaiting first URL subdirectory (eg `/initiatives` - candidate for next sprint.
+* Current CLPS in motion
+  * Trust CLP launch - on pause for now. 
+  * Vaccine hesitancy update
+  * Pride
+* Mission Act demo
+  * GA work is done
+  * Still useful for Demo purposes as a live prototype
+  * Unpublishing then we can use Preview from now for live prototype  
+
+Resources and support
+* Sections update
+* Related: New process for requesting changes to Sections
+
+Outreach Hub
+* Clarify user admin policy (approval of new accounts)
+  * Doug Webb requested accounts for 2 users to create content in Outreach Hub
+    * Move this discussion to Slack to make a decision about these users.
+  * Next steps: 
+    * Create a list of all Outreach Hub **ACTION for CMS team**
+    * Compare to how VAMC product and Vet Center handles this **John and Dave**
+    * Follow-up in next meeting.
+
+Audience vocabularies
+* Jen Lee will govern the audience vocabularies, if any requests for changes come in.
+
+## April 28
+
+
+* Prep for "Veteran trust in VA" launch http://preview-prod.vfs.va.gov/preview?nodeId=18299
+  * Tim would love Friday, John would Publish. Some missing pieces being worked on this week. Traffic won't be driven at first. Decision later today about timing. 
+* Outcomes from Staging review? 
+  * No blockers for Veteran trust campaign 
+* Review new (optional) audience field widget at https://pr5143-ii6l0ozrcxmdfu2c3fkwla2hsgqtvh0i.ci.cms.va.gov/node/18299/edit 
+  * Review of editorial experience.
+  * Template should check for values here before printing it. Also, how does this affect the rest of this page segment layout?
+  * when should we merge this? when this gets released to CMS Prod, we'll need to re-assign taxonomy terms to existing CLPs, including the Trust campaign.  
+  * "Veterans", "Family Members and Friends", and "Caregivers" will probably need to become: "All Veterans", "Family members and caregivers". No "Friends."
+  * Next steps: 
+    * Next Wednesday regroup to clarify the release of CMS/FE code
+    * async Kelson and Steve and Kevin can think about if feature flags are needed  
+  * Governance 
+    * John will speak with Beth about Audience vocabularies [non-beneficiaries](https://prod.cms.va.gov/admin/structure/taxonomy/manage/audience_non_beneficiaries/overview) and [beneficiares]( https://prod.cms.va.gov/admin/structure/taxonomy/manage/audience_beneficiaries/overview) 
+    * Talk about next steps May 5
+* CLP for Vaccine Hesitance
+  * Danielle working on copy, expect to launch in May
+  * Update on this next week.
+  * Content will be managed by content team
 * Helpdesk vs Handholding balance for beta users
-  * Should CMS helpdesk kickoff start
+  * When should CMS helpdesk kickoff start?
 * Onboarding users if needed (VBA)
-* Testing content (eg CLP for /campaign-mission-act) for analytics or users off the network
 
 ## Wednesday, April 14
 CLP

@@ -12,12 +12,59 @@
 - [Sprint 60]()
 
 ## Sprint 51 (6/30 - 7/13)
+Any outstanding work from 50 plus:
 
 ### My VA
+Goal: Begin phased launch (25% then 50%)
+
+**PM** 
+- launch to 25% + monitor analytics
+- launch to 50% + monitor analytics
+- submit redirect request to IA (wrt to kill find va benefits on my va 1.0)
+- Coordinate with comms team on blog post
+
+**Design**
+- Action items research
+   - Accessibility questions
+   - Determine method for testing AI work
+   - Create mockups for testing AI work 
+
+**FE**
+- Any remaining items for launch:
+   - Kill find VA benefits feature on my va 1.0
+- Launch to 25%
+- Launch to 50%   
 
 ### Preferred medical facility 
 
+pausing work on this indefinitely as research showed the feature was not helpful/useful for Veterans
+
 ### Notification preferences
+
+**PM**
+- test case documentation
+
+**Design**
+- test case documentation
+- complete research synthesis if not completed in sprint 50
+- update FE/design documentation as needed based on research findings/synthesis
+
+**Frontend**
+- Continue build
+
+### Profile
+lots of clean up work if bandwidth exists:
+
+**Design**
+- confirm styling of edut buttons and forms on mobile
+
+**Frontend**
+- remaining defect tickets
+- Profile + DD screenreader issue and focus on edit button
+
+### General Research
+- phase 2 of auth experience best practices research? (24974)
+
 
 ## Sprint 52 (7/14 - 7/27)
 

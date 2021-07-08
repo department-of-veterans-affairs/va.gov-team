@@ -32,10 +32,11 @@ VFS teams (product managers/owners and front end developers) request tags and im
 
 ## Solution Approach
 
-- N/A
 - Google Tag Manager is an out of box tool that is currently being used by VSP Analytics & Insights
 
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+**Q1-Q2 2021**
+- Platform Analytics standardized analytics tagging for Design System components. More information about the project process can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/tracking-design-system-components.md), and more information about the technical implementation can be located [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/build-process-measuring-pageviews-and-events.md#component-library).
+- 4/28/21 - After the initial [standardization initiative](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3085) is completed, the Platform Analytics team plans to add analytics standardization for future Design System components as an ongoing service. This is to keep up with new Design System components, create more "out-of-the-box" analytics tagging solutions, and decrease overall customer support time for both Platform Analytics & VFS teams.
 
 ---
 
@@ -43,8 +44,8 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 
 _Link to the following materials as relevant._
 
-- VFS-facing Product README (in `/platform`)
-- Release Plan
+- [VFS-facing Product README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics#readme) (in `/platform`)
+- [GTM Design System Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17621)
 - [Google Tag Manager](https://tagmanager.google.com/)
 
 ### Communications
@@ -56,8 +57,9 @@ _Link to the following materials as relevant._
 - Slack channel: #vsp-analytics-insights
 - Product POCs:
   - Joanne Esteban, VSP Analytics & Insights
-  - Jon Wehausen, VSP Analytics & Insights
-  - Rachael Roueche, DEPO lead
+  - Brian Martin, VSP Analytics & Insights
+  - Lauren Simpson, VSP Analytics & Insights
+  - Rachael Roueche, OCTODE lead
 
 </details>
 

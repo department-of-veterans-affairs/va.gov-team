@@ -1,4 +1,4 @@
-# VSP Analytics & Insights Charter
+# Platform Analytics & Insights Charter
 
 ## Table of Contents
 1. [Why we're here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/analytics-insights-team-charter.md#why-were-here)
@@ -238,6 +238,8 @@ For an issue to go into the Current Sprint column, it must have the following (c
 All work should be validated as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. **Every team member should feel empowered to create, move, and close tickets according to discussed prioritization in Scrum ceremonies.** Otherwise, assign your PM to validate any tasks you are unable to validate yourself. 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager on the DSVA Slack and ask for help to work it into the sprint.
+
+*Collaboration Cycle*: Our team provides analytics services and customer support for quality assurance in the Platform Collaboration Cycle. You can read more about the Collaboration Cycle [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md#the-collaboration-cycle-process).
 
 *Prioritizing*
 

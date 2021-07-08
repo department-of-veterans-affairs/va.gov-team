@@ -14,7 +14,7 @@
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
-  - [What are the big amount of '(other)' pageviews in the All Website data view?](#what-are-the-big-amount-of-other-pageviews-in-the-all-website-data-view)
+  - [What are the '(other)' row entries in reports within the All Website data view?](#what-are-the-other-row-entries-in-reports-within-the-all-website-data-view)
   - [What’s wrong with my goal funnel visualization report? Why is my conversion rate so low?](#whats-wrong-with-my-goal-funnel-visualization-report-why-is-my-conversion-rate-so-low)
   - [Why do total submission events not match the backend?](#why-do-total-submission-events-not-match-the-backend)
   - [Why do my goal completions not match total submission events?](#why-do-my-goal-completions-not-match-total-submission-events)
@@ -95,19 +95,22 @@ Pageviews, sessions, and users each play an important role in analysis and all h
 **Users** should be used when the scope of analysis is needing to be understood in the context of unique visitors. In other words, when we are solely concerned with understanding how _individual vistors_ are behaving. It is important to note a "user" can span multiple sessions -- therefore users are best when we are not concerned directly with "did the user leave the site before completing the action". Users is best when there is a need to understand how many specific people performed an action. 
 
 
-### What are the big amount of ‘(other)’ pageviews in the All Website data view?
+### What are the `'(other)'` row entries in reports within the All Website data view?
 
-**From Google's documentation:**
+**From [Google's documentation](https://support.google.com/analytics/answer/1009671?hl=en):**
 
 > _Dimensions with a large number of possible values are known as high-cardinality dimensions. Reports containing high-cardinality dimensions may be affected by Analytics system limits, resulting in the creation of a rolled-up (other) entry in the report to contain the data that exceeds these limits._
+
+**This has no affect on data collection, only the way reports are displayed within Google Analytics**
 
 In the case of VA.gov, MHV creates an extremely large amount of unique Page URLs due to unique query parameters.  Even a single month of Page URLs in the All Website view can exceed GA's report limits.
 
 This can be mitigated by:
 
-Switching from Page to another lower-cardinality dimension like Page Title.
-Using a short time frame like a week.  In the past, we have built Excel / Google Sheets to load and merge multiple weeks worth of data.
-Using a different view.
+ - Switching from Page to another lower-cardinality dimension like Page Title.
+ - Using a short time frame like a week.  In the past, we have built Excel / Google Sheets to load and merge multiple weeks worth of data.
+ - Using a different view.
+ - Exporting an unsampled report 
 
 ### What's wrong with my goal funnel visualization report? Why is my conversion rate so low? 
 

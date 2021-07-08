@@ -1,20 +1,148 @@
 # Search & Discovery Grooming
+_Search & Discovery team uses this issue for Grooming Sessions._
+<details><summary>More Information about this meeting</summary>
 
-<details><summary>About this meeting</summary>
-
+### Details: 
 - Reoccurring meeting: BiWeekly - Thursdays 11AM EST
 - Meeting owner: Denise Coveyduc (PM-Search & Discovery)
 - Facilitator: Denise Coveyduc
 - Attendees: John Hashimoto (VAPO), Sam Suddath (FE Engineer), Megan Gayle (Designer/Researcher)
-- Standing agenda: 
-  - Issue Grooming
-    - Add/Remove Backlog Items
-    - Change priority of items  
-    - Clarify/Change Acceptance Criteria 
-  - Update status notes
-  - Discuss topics (as needed) to gain/improve clarity 
+- Team Name: Search & Discovery
+- GitHub Label: vsa-search-discovery
+
+### Purpose: 
+- Prepare stories to be “ready” for sprint planning
+
+
+### Key Grooming Factors + Standing Agenda:
+
+- [ ] **Discussion:**
+  -  As needed. Topics based on initiatives 
+- [ ] **_Grooming:_**
+  - Add/Remove Backlog Items
+  - Breakdown User Stories into smaller tasks.
+  - Change priority of items
+  - Assign estimates and confirm team members are on the same page.
+  - Determine / Validate definition of DONE including Review Tiers (Below)
+  - Move from backlog to ready 
+- [ ] **_Follow Up/Close Out:_**
+  - Validate issue can be closed or define next steps
+- [ ] **_Team Clarity Items:_**
+  - Review + Discuss any items raised across team members
+- [ ] **_Reminders:_**
+  - Communicate reminders as needed
+- [ ] **_Next Steps_**
+  - List of action items identified during session
+
+
+### Development Review Tiers
+    
+- [ ] ***Tier 1 (Must be validated by PO + PM + (if UX) Design Lead);*** Validation of AC prior to promotion to Staging or Prod Environment. Approval will be triggered by a comment in ticket and act as a trigger for staging/prod release. 
+ - [ ] ***Tier 2 (must be validated in Socks by PM or PO);*** Validation of AC promotion to Staging or Prod Environment. Approval will be triggered by a comment in ticket which will act as a trigger for staging/prod release. 
+ - [ ] ***Tier 3 (No Socks validation necessary )*** Validation of AC not required , once fix has been applied please ensure safe monitoring practice and validation with any applicable cross functional team as applicable. 
+
 
 </details>
+
+
+
+---
+
+## July 8 , 2021  
+  
+
+1️⃣ ****DISCUSSION TOPICS:****    
+  - [ ] **UI Consistency & Reorg/Improvements**
+    - [ ]  🚀  🎉  *Congrats Team on a successful launch!* 👏🏼
+    - [ ] Close out the validation issues 
+    - [ ] Validate Staging Review Feedback has been resolved
+   - [ ] **Usability Research**
+     - [ ] Review Timeline
+     - [ ] Circle back on Wireframes and Flow, 
+     - [ ] Discuss measures of success/ failure, 
+     - [ ] Determine if we need to send any info in advance
+ - [ ] **Typeahead**
+    - [ ]  Explore ways to reduce Typeahead suggestions lag [#26721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26721)
+    - [ ] 508-defect-3 [SCREENREADERS]: Word "veteran" in search suggestions mispronounced and search suggestions are spoken twice [#24784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24784)
+    - [ ] 508-enhancement [MOBILE DESIGN]: Consider conducting mobile screen reader research with iOS users [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719) 
+       - ? Discuss with Cindy. Respond and Close
+    - [ ] Remove type ahead phased roll out event [#26808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26808)
+    - [ ] Request Full Accessibility + 508 Office Audit for Typeahead [#27062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27062) 
+
+
+2️⃣ ***GROOMING:***  
+
+ - [ ] Exploration: Removing "||Veterans Affairs" from the Title [#27061](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27061) 
+ - [ ] Exploration: Presenting Videos in VA.gov Search Results [#27047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27047)
+ - [ ] Create prototype for Usability Testing [#26814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26814)
+ - [ ] Request Full Accessibility + 508 Office Audit for Typeahead [#27062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27062)
+
+3️⃣ ****FOLLOW UP /CLOSE OUT****
+
+ - [ ] [Product Discovery] COVID-19 Vaccine Finder - VA Data Distribution [#19009](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19009)
+ - [ ] Response to Dawn (Search.gov) 
+>Hi Sam, no problem, I got those indexed. Any word on whether these will be included in the main sitemap, or perhaps a separate sitemap?  
+  For the subsequent page views of the /resources/tag pages, it would be good to include a robots noindex tag on those to keep them out of search engines.
+
+
+4️⃣ **TEAM CLARITY REQUESTS**
+*"Please add/share any clarification items ahead of the grooming session. We will review and discuss as a team while in session."*
+- ?
+
+5️⃣ **REMINDERS**
+- 2H Planning - 2pm EST
+
+6️⃣ **NEXT STEPS**
+- ?
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## June 10, 2021
+
+
+***DISCUSSION TOPICS:*** 
+
+1- Logistics 
+
+2- Collab Cycle Event Update 
+
+   **Click Tracking**
+     - Privacy & Security Review TBD
+ 
+
+   **Type Ahead 1.0 [#17558](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)**
+  - Full Accessibility & 508 Audit TBD
+  - Post Launch Check In
+
+  **UI Consistency for Global Search [#25484](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25484)**
+  - Staging review
+  - Privacy and security review
+
+
+
+
+  
+ 
+ 3- Issue Grooming 
+
+## May 27, 2021
+
+***DISCUSSION TOPICS:*** 
+
+- Review of Epics
+   - [SD] Type Ahead 1.0 #17558
+   - [SD] Surfacing VA Search Tools #20402
+   - [SD] Search Landing Page	#24333
+   - [SD] Sitewide Search Reorganization and Improvements #22977
+   - Search UI consistency #21055
+- Housekeeping of our Backlog/Icebox as needed
+
 
 ## April 15 , 2021
 

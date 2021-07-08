@@ -1,0 +1,1 @@
+This documentation has been moved to the sensitive repo, found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-preferred-medical-facility.md).

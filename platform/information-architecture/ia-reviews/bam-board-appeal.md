@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: COMPLETE**
+**STATUS: COMPLETE 04/13/2021, UPDATED 05/03/2021**
 
 **Team:** BAM1/VSA Claims and Appeals
 
@@ -21,11 +21,11 @@
 - Solution includes the development of 1 new online form. Form will consist of multiple pages/chapters.
 - Form will be nested as a child of the corresponding static content page, as shown in orange dashed lines in image
 - 
-![image](https://user-images.githubusercontent.com/20994159/114588844-bb5fd700-9c4c-11eb-95a9-6cddac19a37e.png)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1198483f-6805-4450-bd77-b873d832ade0)
 
 **New Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Request Board Appeal Online Form - introduction page |  www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/ | Home > Decision reviews and appeals > Board Appeals > Request a Board Appeal with VA Form 10182 | Standards for form breadcrumbs: <br> - segment should match H1 of corresponding page <br> - online forms should include "VA Form XXXX"
+Request Board Appeal Online Form - introduction page |  ~www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/~ <br>  www.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/ | Home > Decision reviews and appeals > Board Appeals > [Form /introduction page H1]| Standards for form breadcrumbs: <br> - segment should match H1 of corresponding page 
 
 
 
@@ -34,8 +34,8 @@ Request Board Appeal Online Form - introduction page |  www.va.gov/decision-revi
 
 **Priority** | **Placement** | **Label** | **Destination** | **Notes**
 --- | --- | --- | --- | ---
- MUST  | Decision reviews - Left nav   | Request a Board Appeal |  www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/  | Link label should match the H1.  Shorten if necessary. Work with sitewide content on implementation of this link. 
- MUST | [Board Appeals Page](https://www.va.gov/decision-reviews/board-appeal/) | Request a Board Appeal | www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/ | This should be the primary CTA on page. Work with sitewide content on modifications to content and addition of CTA on this page. 
+ MUST  | Decision reviews - Left nav   | Request a Board Appeal |  ~www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/~ <br> www.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/ | Link label should match the H1.  Shorten if necessary. Work with sitewide content on implementation of this link. 
+ MUST | [Board Appeals Page](https://www.va.gov/decision-reviews/board-appeal/) | Request a Board Appeal |  ~www.va.gov/decision-reviews/board-appeal/request-board-review-form-10182/~ <br> www.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/ | This should be the primary CTA on page. Work with sitewide content on modifications to content and addition of CTA on this page. 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -54,3 +54,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ## <a name="notes"></a>Open Issues and Meetings Notes
 
+05/03/2021 - Updates made
+- Updated URL of form to replace the word "review" with "appeal".  Team agreed to make the change prior to launch. 
+- Updated site map visual to reflect change
+- Updated the breadcrumb of the form to just call out the match with the H1 of the form rather than specifying it here in case content/H1 changes. 

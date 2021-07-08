@@ -5,7 +5,7 @@
 - Slack channel: [#vsa-caregiver](https://dsva.slack.com/archives/CMJ2V70UV)
 - DEPO Product Lead: [Ming Ligh](https://github.com/mlighdc)
 - DEPO Engineering Lead: [Mike Chelen](https://github.com/mchelen-gov)
-- Product Manager: [Alayna Abel](https://github.com/ala-yna)
+- Product Manager: [Chris Dyer](https://github.com/tchrisdyer)
 - Stakeholders: Pam Wright, Cari Malcolm
 
 ## The Problem

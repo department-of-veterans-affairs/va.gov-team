@@ -76,8 +76,10 @@ __VA forms stakeholder working group includes:__
 - Tuscher, Joshua (joshua.tuscher@va.gov); 
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
 - Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>
----
+- Smith, Gail T. (VACO) <gail.smith@va.gov>; 
+
+### VA Forms Contacts
+![image](https://user-images.githubusercontent.com/73354907/120379482-d0bcbd80-c2ed-11eb-9d70-9cf7ab7dda47.png)
 
 ## Problem Statement 
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
@@ -139,10 +141,12 @@ Engagement
 
 ## Launch Dates
 ### Transforming Search Terms Iteration 2
-- Go-live: TBD
+- Go-live: Jul 6, 2021
+- Includes several enhancements:
+   - Updates
 
 ### Use Administration Field for Related To Info
-- Go-live: TBD #21366
+- Go-live: Mar 24, 2021 #21366
 
 ### Transforming Search Terms Iteration 1
 - Go-live: Mar 17, 2021 #20651
@@ -172,7 +176,7 @@ This iteration connected the search page to the form details pages
 ------
 ## Architecture
 ### Data Flow Diagram
- <img src="/mvp/technical/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png?raw=true
 
 ### Drupal CMS Forms Migration Documentation
 [Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)

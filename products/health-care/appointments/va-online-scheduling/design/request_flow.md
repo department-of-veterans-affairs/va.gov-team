@@ -49,9 +49,6 @@ Calendar page, no time selected
 Reason for appointment page
 ![reason](request-flow/reason.png)
 
-Reason for appointment page with additional info expanded
-![reason_expanded](request-flow/reason_expanded.png)
-
 Type of appointment page
 ![type_appt](request-flow/type_appt.png)
 
