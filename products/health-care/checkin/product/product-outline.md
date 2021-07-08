@@ -26,6 +26,7 @@ Currently, VA medical facilities have a kiosk that are utilized by the Veterans 
 ## Desired Business Outcomes
 
  - Ability to eliminate physical Kiosks resulting in savings for the VA
+ - Streamlined check-in process resulting in operational efficiency.
  - Setting foundation for unified digital healthcare experience 
 
 ## Undesired Business Outcomes
