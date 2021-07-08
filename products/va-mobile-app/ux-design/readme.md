@@ -2,11 +2,12 @@
 
 This folder is where UX assets for mobile app live or are linked to.
 
-*Last updated: June 30, 2021*
+*Last updated: July 8, 2021*
 
 ## MVP assets
 | Asset      | Description |
 | ----------- | ----------- |
+| [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) |Outlines the hierarchy the MVP app navigation follows |
 | [Sketch library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/sketch-file)    | Sketch file with common components we used for the MVP release. Sketch file built and maintained from September 2020 to June 2021. We are moving to Figma in July 2021 to better enable team collaboration.       |
 | [Sketch library - laid out in Invision](https://adhoc.invisionapp.com/console/share/AX108RJZPB6E/600511824)  | This shows all the MVP components laid out as a library visible and inspectable in Invision.      |
 | MVP Mobile App UI Styles (Google Doc) | We kept track of UI specs for common components in a Google doc.      |
