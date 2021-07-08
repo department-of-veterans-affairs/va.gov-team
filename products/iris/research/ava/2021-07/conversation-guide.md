@@ -116,9 +116,9 @@ Please take some time to review the content on the page.
 
 ## **Task: Submit an Inquiry - 10 minutes**
 
-If you would like to login, please do so.
+This is a test environment, and we need to use specific accounts to login. I will send you the information to login in the chat.
 
-*If the user experiences issues logging in, redirect them:* If you were having issues logging in, what would you do next?
+*If the user experiences issues logging in, use the Figma prototype*
 
 As you walk through the process of submitting an inquiry, please think out loud. Let us know of any problems or questions you have. Again, we are not testing your ability to fill out the form, we're testing whether or not the form is easy to use.
 
