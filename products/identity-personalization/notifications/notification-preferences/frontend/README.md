@@ -50,9 +50,11 @@ Examples:
 
 #### Content
 
-List things in alphabetical order:
-
-- Notification groups should be listed alphabetically
+- Notification groups should be listed the following order:
+  1. Your Health care (only visible for users with health care)
+  2. Applications, claims, appeals, and decision reviews
+  3. Benefit payments and debts
+  4. General VA Information and updates
 - Notification items should be listed alphabetically within each group
 - In edit mode, `notify by email` should come before `notify by text`
 
@@ -198,13 +200,6 @@ Display warning alert where email/phone and `update contact info` link would nor
 
 - Remove the checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
 
-- `Pending usability test in June 2021` Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  
+- Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  [See specs for removing contact info for modal content.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/maintenance/front-end/remove-info-specs.md)
 
-  [Mock-up, alert displays when someone clicks `Remove [contact info]` button from within mobile phone number](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138799478/simulate/sitemap?mode=i)
-
-  #### Copy
-
-  **Alert copy**
-
-  > This will delete your [mobile number or email address] across many VA records. You may no longer get some or all VA notifications by [text message or email]. You can always come back to your profile later if you want to add your [mobile number or email address] back in.
-
+  
