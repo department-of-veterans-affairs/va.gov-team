@@ -22,6 +22,57 @@
 
 </details>
 
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+---
+
+## July 8 , 2021  
+  
+
+1️⃣ ****DISCUSSION TOPICS:****    
+  - [ ] **UI Consistency & Reorg/Improvements**
+    - [ ]  🚀  🎉  *Congrats Team on a successful launch!* 👏🏼
+    - [ ] Close out the validation issues 
+    - [ ] Validate Staging Review Feedback has been resolved
+   - [ ] **Usability Research**
+     - [ ] Review Timeline
+     - [ ] Circle back on Wireframes and Flow, 
+     - [ ] Discuss measures of success/ failure, 
+     - [ ] Determine if we need to send any info in advance
+ - [ ] **Typeahead**
+    - [ ]  Explore ways to reduce Typeahead suggestions lag [#26721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26721)
+    - [ ] 508-defect-3 [SCREENREADERS]: Word "veteran" in search suggestions mispronounced and search suggestions are spoken twice [#24784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24784)
+    - [ ] # 508-enhancement [MOBILE DESIGN]: Consider conducting mobile screen reader research with iOS users [#20719](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20719) 
+       - ? Discuss with Cindy. Respond and Close
+    - [ ] Remove type ahead phased roll out event [#26808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26808)
+    - [ ] Request Full Accessibility + 508 Office Audit for Typeahead [#27062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27062) 
+
+
+2️⃣ ***GROOM NEW ISSUES:***  
+
+ - [ ] Exploration: Removing "||Veterans Affairs" from the Title [#27061](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27061) 
+ - [ ] Exploration: Presenting Videos in VA.gov Search Results [#27047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27047)
+ - [ ] Create prototype for Usability Testing [#26814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26814)
+ - [ ] Request Full Accessibility + 508 Office Audit for Typeahead [#27062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27062)
+
+3️⃣ ****FOLLOW UP /CLOSE OUT****
+
+ - [ ] Response to Dawn (Search.gov) 
+>Hi Sam, no problem, I got those indexed. Any word on whether these will be included in the main sitemap, or perhaps a separate sitemap?  
+  For the subsequent page views of the /resources/tag pages, it would be good to include a robots noindex tag on those to keep them out of search engines.
+
+ - [ ] [Product Discovery] COVID-19 Vaccine Finder - VA Data Distribution [#19009](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19009)
+
+4️⃣ **TEAM CLARITY REQUESTS**
+
+ - As needed
+
+5️⃣ **REMINDERS**
+- 2H Planning - 2pm EST
+
+
 ## June 10, 2021
 
 
