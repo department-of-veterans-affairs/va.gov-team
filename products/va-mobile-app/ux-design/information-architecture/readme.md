@@ -1,6 +1,6 @@
 # Information Architecture
 
-Last updated July 2021
+_Last updated: July 2021_
 
 ## Background & goals
 The information architecture outlines the hierarchy the MVP app navigation follows. The goal of this is to outline all the screens and navigation UX in the app.
