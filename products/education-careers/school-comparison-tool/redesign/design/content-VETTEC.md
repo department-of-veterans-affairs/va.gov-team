@@ -202,9 +202,9 @@ To learn more about Caution Flags, [visit the About this Tool Page]().
 
 ### Student feedback
 
-* NN student complaints in the last 24 months ([Learn more])
+NN student complaints in the last 24 months ([Learn more])
 
-{ Learn more modal }
+{ Learn more modal, Learn more aria label: "Learn more about student complaints" }
 
 #### Student complaints
 
@@ -216,7 +216,7 @@ To learn more visit the [VA GI Bill Feedback Tool](https://www.benefits.va.gov/G
 
 { Table showing student complaints for "This campus" and "All campuses" }
 
-{ All campuses  learn more modal }
+{ All campuses learn more modal, Learn more aria label: "Learn more about student complaints for all campuses" }
 
 #### VA Complaints (all campuses):
 
@@ -241,7 +241,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present } 8 Keys to Veteran Success ([Learn more]())
 
-    { 8 Keys modal }
+    { 8 Keys modal, Learn more aria label: "Learn more about 8 Keys to Veteran Success" }
 
     #### 8 Keys to Veteran Success
 
@@ -255,7 +255,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present }  Military Tuition Assistance (TA) ([Learn more]())
 
-    { Military Tuition Assistance modal }
+    { Military Tuition Assistance modal, Learn more aria label: "Learn more about Military Tuition Assistance" }
 
     #### Military Tuition Assistance (TA)
 
@@ -265,7 +265,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present }  Principles of Excellence ([Learn more]())
 
-    { Principles of Excellence modal }
+    { Principles of Excellence modal, Learn more aria label: "Learn more about Principles of Excellence" }
 
     #### Principles of Excellence
 
@@ -287,7 +287,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present } Student Veteran Group ([Learn more]()): [Visit the site]() {dynamic display of Veteran group link}
 
-    { Student Vet Group modal }
+    { Student Vet Group modal, Learn more aria label: "Learn more about Student Veteran Groups" }
 
     #### Student Veterans group
 
@@ -301,7 +301,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present }  VetSuccess on Campus ([Learn more]()): [Email {Name of Contact}]()
 
-    { VetSuccess modal }
+    { VetSuccess modal, Learn more aria label: "Learn more about VetSuccess on Campus" }
 
     #### VetSuccess on Campus (VSOC)
 
