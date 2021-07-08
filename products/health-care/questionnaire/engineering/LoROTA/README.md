@@ -39,6 +39,7 @@ Use [LoROTA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/
 ### VeText
 
 - be able to get a dynamic link per person
+  - In Theory, VeText could query the Vets API
 
 ### Vets Web
 
@@ -79,6 +80,6 @@ Use [LoROTA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/
     - I think thats fine
 - Effects on the manager
   - becomes more historic than active
-  - Can't show in progress.
+  - harder to show in progress.
 - Printing
   - needs QR Id
