@@ -11,7 +11,7 @@ CITY, STATE
 
 NNN GI Bill students ([Learn more](){display modal})
 
-{GI Bill students learn more modal content}
+{GI Bill students learn more modal content, Learn more aria label: "Learn more about how we calculate the number of GI Bill students"}
 
 #### GI Bill students
 
@@ -53,7 +53,7 @@ What's your military status? {dropdown, Veteran selected by default}
 
 Which GI Bill benefit do you want to use? ([Learn more]()) {dropdown, Post-9/11 GI Bill (Ch 33) selected by default}
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about VA education and training programs" }
 
 #### Which GI Bill benefit do you want to use?
 
@@ -65,7 +65,7 @@ Learn more about [GI Bill program benefits and eligibility requirements](https:/
 
 Cumulative Post-9/11 active-duty service ([Learn more]()) {dropdown, 36+ months: 100% selected by default}
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about Cumulative Post-9/11 service" }
 
 #### Cumulative Post-9/11 service
 
@@ -77,7 +77,7 @@ Did you use your Post-9/11 GI Bill benefits for tuition, housing, or books for a
 
 Yes | No { selection options }
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about your monthly housing allowance rate" }
 
 #### What is Section 501 (Monthly Housing Allowance Rate)?
 
@@ -91,7 +91,7 @@ Effective January 1, 2018, the Post-9/11 GI Bill monthly housing allowance rate 
 
 #### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about how the length of Montgomery GI Bill active-duty service affects your benefits" }
 
 #### Completed an enlistment of (MGIB):
 
@@ -112,7 +112,7 @@ Are you an in-state student? {radio button selection, Yes selected by default}
 
 Yes | No { selection options }
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about qualifying for in-state tuition."  }
 
 #### Qualifying for in-state tuition
 
@@ -126,7 +126,7 @@ Contact the School Certifying Official (SCO) to learn more about this school's i
 
 In-state tuition and fees per year ([Learn more]()){ text field }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about why we ask for in-state tuition and fees" }
 
 #### In-state tuition and fees per year
 
@@ -142,7 +142,7 @@ Generally, in-state residents are charged a discounted rate of tuition and fees.
 
 Tuition and fees per year ([Learn more]()) {text field: filled with school tuition, if available }
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about what costs to include for your tuition and fees" }
 
 #### Tuition and fees per year
 
@@ -156,7 +156,7 @@ To learn more, please review our "[About This Tool](http://www.benefits.va.gov/g
 
 School calendar ([Learn more]()) {dropdown, Semesters selected by default }
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about school calendar options" }
 
 #### School calendar
 
@@ -166,7 +166,7 @@ Is your school on a semester, quarter, or non-traditional calendar system?
 
 Enrolled ([Learn more]()) {dropdown, Full time selected by default }
 
-{Learn more modal content }
+{Learn more modal content, Learn more aria label: "Learn more about enrollment status and how it may affect your education benefits" }
 
 #### Enrollment status
 
@@ -184,7 +184,7 @@ Will you be taking any classes in person?  ([Learn more]()) {radio button select
 
 Yes | No { selection options }
 
-{ Learn more modal content }
+{ Learn more modal content, Learn more aria label: "Learn more about how we calculate your housing allowance based on where you take classes" }
 
 #### Your housing allowance is determined by where you take classes
 
@@ -202,7 +202,7 @@ Where will you take the majority of your classes?  ([Learn more]()) {radio butto
 
 { selection options vary based on school locations; see [instructions on implementation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/design/content/107-controls.md) }
 
-{ Learn more modal content }
+{ Learn more modal content, Learn more aria label: "Learn more about the location-based housing allowance" }
 
 #### Location where you'll take classes ###
 
@@ -226,7 +226,7 @@ Will you be a Yellow Ribbon recipient ([Learn more]()) { radio button selection,
 
 Yes | No { selection options }
 
-{ Learn more modal }
+{ Learn more modal, Learn more aria label: "Learn more about the Yellow Ribbon Program" }
 
 ### Yellow Ribbon Program
 
@@ -244,7 +244,7 @@ Eligible for kicker bonus? ([Learn more]()) {radio button selection, No selected
 
 Yes | No { selection options }
 
-{ Learn more modal   }
+{ Learn more modal, Learn more aria label: "Learn more about the kicker bonus" }
 
 #### Eligible for kicker bonus?
 
@@ -258,7 +258,7 @@ Scholarships (excluding Pell Grants)  ([Learn more]()) {radio button selection, 
 
 Yes | No { selection options }
 
-{Learn more modal  }
+{Learn more modal, Learn more aria label: "Learn more about what to include for scholarships" }
 
 #### Scholarships (excluding Pell Grants)
 
@@ -327,7 +327,7 @@ Veterans tuition policy: { Yes | No with link to policy, if relevant} ([View pol
 
 Protection against late VA payments ([Learn more]()): {Options: Yes | No | Contact the School Certifying Official (SCO) for requirements}
 
-{Learn more modal}  
+{Learn more modal, Learn more aria label: "Learn more about what happens if VA tuition payments are late" }  
 
 ### Protection against late VA payments
 
@@ -347,7 +347,7 @@ Contact the School Certifying Official (SCO) to learn more about the school’s 
 
 Yellow Ribbon Program ([Learn more]()): {Options: Yes | No }
 
-{ Learn more modal }
+{ Learn more modal, Learn more aria label: "Learn more about what is covered by the Yellow Ribbon program and who can use it" }
 
 ### Yellow Ribbon Program
 
@@ -378,7 +378,7 @@ To learn more about this scholarship, [visit the Rogers STEM Scholarship website
 
 ### Veteran Rapid Retraining Assistance Program (VRRAP)  ([Learn more]()): {Options: Yes | No }
 
-{ Learn more modal }
+{ Learn more modal, Learn more aria label: "Learn more about the Veteran Rapid Retraining Assistance Program" }
 
 #### Veteran Rapid Retraining Assistance Program (VRRAP)
 
@@ -530,7 +530,7 @@ To learn more about Caution Flags, [visit the About this Tool Page]().
 
 * NN student complaints in the last 24 months ([Learn more])
 
-{ Learn more modal }
+{ Learn more modal, Learn more aria label: "Learn more about student complaints" }
 
 #### Student complaints
 
@@ -542,7 +542,7 @@ To learn more visit the [VA GI Bill Feedback Tool](https://www.benefits.va.gov/G
 
 { Table showing student complaints for "This campus" and "All campuses" }
 
-{ All campuses  learn more modal }
+{ All campuses  learn more modal, Learn more aria label: "Learn more about student complaints for all campuses" }
 
 #### VA Complaints (all campuses):
 
@@ -579,7 +579,7 @@ The following degrees are offered by this institution.  Degree and program lengt
 
 * Accreditation ([Learn more]()): {Display type of accreditation Regional | Hybrid | National | None } ([See accreditors]()){ link to school record on [http://nces.ed.gov/collegenavigator/] } )
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about the different accreditation types and why it matters" }
 
 #### Accreditation and why it matters
  
@@ -593,7 +593,7 @@ To learn more about the accreditation process and types of accreditation, visit 
 
 * Credit for military training ([Learn more]()): {Yes | No}
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about credit for military training" }
 
 #### Credit for military training
 
@@ -603,7 +603,7 @@ Does the school offer postsecondary credit for experiences and military training
 
 * Independent study ([Learn more]()): { Yes | No }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about Independent study" }
 
 #### Independent study
 
@@ -613,7 +613,7 @@ Beneficiaries may use educational assistance to access online learning (accredit
 
 * Priority enrollment ([Learn more]()): { Yes | No }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about priority enrollment" }
 
 #### Priority enrollment
 
@@ -640,7 +640,7 @@ Please contact the school or their military office directly for information on t
 
 { green checkmark if present } 8 Keys to Veteran Success ([Learn more]())
 
-{ learn more modal content }
+{ learn more modal content, Learn more aria label: "Learn more about 8 Keys to Veteran Success" }
 
 #### 8 Keys to Veteran Success
 
@@ -654,7 +654,7 @@ To learn more about accreditation, visit the U.S. Department of Education’s [8
 
 { green checkmark if present }  Military Tuition Assistance (TA) ([Learn more]())
 
-{ learn more modal content }
+{ learn more modal content, Learn more aria label: "Learn more about Military Tuition Assistance" }
 
 #### Military Tuition Assistance (TA)
 
@@ -664,7 +664,7 @@ Are you receiving any military tuition assistance this year? If so, how much? Th
 
 { green checkmark if present }  Principles of Excellence ([Learn more]())
 
-{ learn more modal content }
+{ learn more modal content, Learn more aria label: "Learn more about Principles of Excellence" }
 
 #### Principles of Excellence
 
@@ -686,7 +686,7 @@ We try to make sure this information is accurate, but prospective students shoul
 
 { green checkmark if present } Student Veteran Group ([Learn more]()): [Visit the site]() {dynamic display of Veteran group link}
 
-{ learn more modal content }
+{ learn more modal content, Learn more aria label: "Learn more about Student Veteran Groups" }
 
 #### Student Veterans group
 
@@ -700,7 +700,7 @@ Please note this email address is only for Comparison Tool-related issues. For q
 
 { green checkmark if present }  VetSuccess on Campus ([Learn more]()): [Email {Name of Contact}]()
 
-{ learn more modal content }
+{ learn more modal content, Learn more aria label: "Learn more about VetSuccess on Campus" }
 
 #### VetSuccess on Campus (VSOC)
 
@@ -726,7 +726,7 @@ Mailing address {list mailing address}
 
 * Single point of contact for Veterans [Learn more](): { display options: Yes | No }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about single point of contact for Veterans" }
 
 #### Single point of contact for Veterans
 
@@ -744,7 +744,7 @@ Does the school have a dedicated point of contact for support services for Veter
 
 VA Facility Code  [Learn more](): { dynamic display }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about the VA facility code" }
 
 #### VA facility code
 
@@ -754,7 +754,7 @@ Unique identifier for VA-approved facilities.
 
 ED IPEDS code [Learn more](): { dynamic display }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about the ED IPEDS code" }
 
 #### ED IPEDS code
 
@@ -765,7 +765,7 @@ Unique identification number assigned to postsecondary institutions surveyed thr
 
 ED OPE code [Learn more](): { dynamic display }
 
-{ learn more modal }
+{ learn more modal, Learn more aria label: "Learn more about the ED OPE code" }
 
 #### ED OPE code
 Identification number used by the U.S. Department of Education’s Office of Postsecondary Education (OPE) to identify schools that have Program Participation Agreements (PPA) so that its students are eligible to participate in Federal Student Financial Assistance programs under Title IV regulations.
