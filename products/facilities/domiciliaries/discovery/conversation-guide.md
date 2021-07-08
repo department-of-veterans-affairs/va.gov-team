@@ -19,7 +19,7 @@ I will be asking for name and title, but no additional personal information, and
 
 ## PAO Introduction
 
-Thanks for speaking with me today. The purpose of this meeting is to ask some general questions about domiciliary facilities in your region, and also, to get pointed in the direction of any managers etc. on site, who I could speak to for a brief interview to gain some high-level information about the site itself.
+Thanks for speaking with me today. The purpose of this meeting is to ask some general questions about domiciliary facilities in your region, and also, to get pointed in the direction of any managers/administrators on site, who I could speak to for a brief interview to gain some high-level information about the site itself.
 
 - How many domiciliaries are there in your region?
 - Examples of what we're trying to find out:
