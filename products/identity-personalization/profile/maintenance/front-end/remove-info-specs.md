@@ -49,13 +49,14 @@ See [content section](https://github.com/department-of-veterans-affairs/va.gov-t
 **Personal and contact information page**
 
 - Remove button should display on the right side of the edit button when contact information is present.
-
 - For each section of personal and contact information, delete the link-styled remove button that is currently visible after clicking edit 
 - Distance between edit and remove buttons should be 24px
 - Responsiveness:
   - On mobile, the edit and remove buttons should stack.
-  - On screens 768px - 1024px wide,  the left hand column (currently a `<dfn>` element) should be 100px
+  - On screens 768px - 1024px wide
+    - the left hand column (currently a `<dfn>` element) should be 100px; 
   - On screens 1025px wide and above, the left hand column should be 125px
+  - On screens 768px and above, the minimum x-padding between columns (label, content, buttons) should be 48px. If that absolutely doesn't work, let's see how 32px looks for the space between the content and buttons.
 
 **Warning modal**
 
@@ -79,18 +80,16 @@ Remove the word `address` from labels in the left hand column for the **Addresse
 
 #### Body
 
-> Your [contact information] will be removed across these VA benefits and services:
+> This will remove your [contact information] across these VA benefits and services:
 >
 > - [If they have health care] VA health care (including prescriptions, appointment reminders, lab and test results, and communications from your VA medical center)
 > - Disability compensation
 > - Pension benefits
 > - Claims and appeals
 > - Veteran Readiness and Employment (VR&E)
-> - [If contact email or mobile number, and user has opted into notifications] You will no longer get [email or text] notifications you signed up for.
+> - [If contact email or mobile number] Some VA notifications. This means you'll stop getting any VA [email or text] notifications you signed up for.
 >
-> [If contact email] You will still be able to login to VA.gov.
->
-> You can always come back to your profile later if you want to add your [contact information] again.
+> You can always come back to your profile later if you want to add your [contact information] again. [If contact email] And you can still sign in to VA.gov even after you remove your contact email address.
 >
 > 
 
@@ -106,5 +105,18 @@ Secondary
 
 ## Use cases
 
-### API error trying to remove contact information
+### Delete fails 
+
+1. Keep modal open
+
+2. Show a background only error alert above the buttons in the modal.
+
+   Copy:
+
+   > We’re sorry. We can’t save your update at this time. We’re working to fix this problem. Please try again or check back soon.
+
+### Delete pending
+
+1. Show the modal for up to 5 seconds while the delete is pending
+2. If the delete has not succeeded or failed after five seconds, close the modal and show our standard "we are saving your change..." message in place of the info user attempted to delete.
 
