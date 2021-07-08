@@ -26,7 +26,7 @@ What's your military status? {dropdown, Veteran selected by default}
 
 Which GI Bill benefit do you want to use? ([Learn more]()) {dropdown, Post-9/11 GI Bill (Ch 33) selected by default}
 
-    {GI Bill benefit modal, Larn more aria label: "Learn more about VA education and training programs" }
+    {GI Bill benefit modal, Learn more aria label: "Learn more about VA education and training programs" }
 
     #### Which GI Bill benefit do you want to use?
 
