@@ -24,9 +24,9 @@ Preferred Provider ([Learn more]()) { as applicable, includes icon }
 
 { icon + Phone number }
 
-{ icon + provider website }
-
 { icon + provider locale }
+
+{ icon + provider website }
 
 Compare { compare checkbox }
 
