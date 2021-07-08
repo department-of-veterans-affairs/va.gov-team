@@ -1,6 +1,6 @@
 # VSA-QA Process - Manual-UI testing for VSP Staging Reviews
 
-VSA-QA's **current capacity** can only accommodate **manual-UI testing on Staging environment** to satisfy [VSP Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) requirements.
+VSA-QA's **current capacity** can only accommodate **manual-UI testing on Staging environment** to satisfy [VSP Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md) requirements.
 
 ## Who should read this?
 
@@ -68,8 +68,8 @@ NOTE: Depending on Staging Review urgency and VSA-QA staffing/capacity, Product-
     - Open a Staging Review ticket, requesting meeting to be scheduled **2 workdays after** completion of QA Test Runs above.  VSP-QA requires VSA-QA artifacts to be ready at least 4 workdays before the meeting, in order to have proper QA-feedback prepared.
 
 1. **QA reports test-results**:
-    - Once test runs are completed, QA generates [TestRail reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#artifact-inputs-7)
-    - QA adds report links to Test Plan and Staging Review tickets.
+    - Once test runs are completed, QA generates TestRail reports.
+    - QA adds QA-artifact links to Test-Plan and Staging-Review tickets.
 
 
-[vsp-stg-rvw]: git@github.com:department-of-veterans-affairs/va.gov-team.git
+[vsp-stg-rvw]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md
