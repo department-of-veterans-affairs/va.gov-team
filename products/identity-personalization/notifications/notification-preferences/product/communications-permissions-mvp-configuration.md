@@ -8,8 +8,7 @@ As of Q2 2021, the following items, groupings and channels were agreed upon for 
 
 | Communication Item | Group Name | Channels | For MVP | Description | Notes/Open questions|
 |--------------------|------------|----------|---------|-------------|---------------------|
-|Reminders to finish in-progress applications| Applications, claims, decision reviews, and appeals|	Email/Text | ~Maybe?~	No | Sending Reminders (SMS, email) to Veterans with Save in Progress Applications| Assumption: content in emails/texts would be the same.     
-As of 7/8, we determined with VA Notify that it's unlikely this would be ready/available for MVP |
+|Reminders to finish in-progress applications| Applications, claims, decision reviews, and appeals|	Email/Text | ~Maybe?~	No | Sending Reminders (SMS, email) to Veterans with Save in Progress Applications| Assumption: content in emails/texts would be the same.                         As of 7/8, we determined with VA Notify that it's unlikely this would be ready/available for MVP |
 | Board of Veterans’ Appeals hearing reminder |	Applications, claims, decision reviews, and appeals | Text | Yes | Reminder for upcoming BVA appeals hearing. | These were live but have been disabled because of the pandemic. Not sure when these will get turned back on | Not sure when these will get turned back on |
 |COVID-19 updates | General VA updates and information | Email | Yes | COVID updates. Currently vaccine focused.  I imagine this could change based on what shifts w/ the pandemic | Previously called “Keep me informed” |
 | Scheduled payment updates |	Benefit payments and debts | Text	| ~Maybe?~ No | Text message notification to veterans or beneficiaries in regards  to expected payment arrival. | This is an email that the comp & pen team wants to send when someone is scheduled to receive a payment.| As of 7/8, we determined with VA Notify that it's unlikely this would be ready/available for MVP   |
