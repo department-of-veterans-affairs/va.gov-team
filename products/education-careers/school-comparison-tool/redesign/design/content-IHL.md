@@ -622,7 +622,7 @@ If an Institution of Higher Learning (a college or university) has a system for 
 { end learn more modal }
 
 ### Get started with CareerScope
-CareerScope(R) take career and educational planning to a new level. The proven career assessment and reporting system from the Vocational Research Insitute is a powerful, yet easy-to-use program. 
+CareerScope(R) take career and educational planning to a new level. The proven career assessment and reporting system from the Vocational Research Institute is a powerful, yet easy-to-use program. 
 
 [Get started with CareerScope](https://va.careerscope.net/gibill) { action link } 
 
