@@ -47,16 +47,15 @@ We are seeking to perform this test with 10 participants
 
 | Date               | Time (EST)            |
 | ------------------ | --------------------- |
-| Monday, July 12    | 9am - 7pm             |
-| Tuesday, July 13   | 9am - 12pm, 3pm-8pm   |
-| Wednesday, July 14 | 9am - 7pm             |
-| Thursday, July 15  | 9am - 4pm             |
 | Friday, July 16    | 9am - 7pm             |
 | Monday, July 19    | 9am - 7pm             |
 | Tuesday, July 20   | 9am - 7pm             |
 | Wednesday, July 21 | 9am - 2pm             |
 | Thursday, July 22  | 9am - 4pm             |
 | Friday, July 23    | 9am - 7pm             |
+| Monday, July 26    | 9am - 7pm             |
+| Tuesday, July 27   | 9am - 2pm             |
+| Wednesday, July 28 | 9am - 7pm             |
 
 Testing will be performed on a staging environment as well as with a mockup built in Figma.
 
