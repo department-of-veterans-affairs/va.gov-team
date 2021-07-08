@@ -10,14 +10,19 @@ The Booz Allen team has been working on a re-design of the GI Bill Comparison To
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-- Do users notice the specialized mission in the card headers on the profile page?
-- Do users try to compare schools from the profile page?
+Navigation:
 - Do users notice the jump links on the right hand side?
 - Do users utilize the jump links?
 - How do users navigate the profile page (e.g. scrolling, jump links, Back to top button)?
+
+Content:
 - What value (if any) do users see in the school profile pages?
 - Do users have any questions about the information they see on the profile pages?
 - Is there any additional information users want to see on the school profile pages?
+- Do users notice the specialized mission in the card headers on the profile page?
+
+Functionality:
+- Do users try to compare schools from the profile page?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 - Researchers believe that users will be able to successfully navigate and find important information on the redesigned school profile pages. We believe the updated design will fit well with the redesigned search and compare components which have already been tested.
@@ -45,12 +50,20 @@ The Booz Allen team has been working on a re-design of the GI Bill Comparison To
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have**  
 
-Participants should either:
+1. Participants should either:
 
 - Have started attending school in Fall 2020 or Spring 2021
 - Be looking to start school in 2021
 
-Military status of participants: - 3 non-Veteran beneficiaries (spouse or children), 9 Veterans
+2. Military status of participants: 
+
+- 3 non-Veteran beneficiaries (spouse or children)
+- 9 Veterans
+
+3. VA Benefit requirement:
+
+- 50% using Chapter 33 Post-9/11 benefits
+- 50% using VR&E, Chapter 30 Montgomery Bill or Chapter 35
 
 2. **Secondary criteria / Would like to have** 
 - Age range: 16 - 65
