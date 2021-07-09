@@ -63,10 +63,17 @@ lots of clean up work if bandwidth exists
 Any outstanding work from 51 plus: 
 
 ### My VA 
+**PM**
 - Launch to 100%!
 - Coordinate with comms team on blog post
 - Demo prep
-- Demo for Board of Appeals (chairwoman)
+- Board of Appeals (chairwoman) demo
+
+**FE**
+- Launch to 100%
+- Enhanced analytics on claims and appeals
+- Board of appeals demo
+
 
 ### Action Items Discovery
 **Design/Research**
@@ -76,6 +83,7 @@ Any outstanding work from 51 plus:
 ### Notification preferences
 **PM**
 - test case documentation
+- submit analytics request?
 
 **Design/Research**
 - Discovery around orienting users to notification preferences as a new concept on VA.gov
@@ -89,7 +97,8 @@ Any outstanding work from 51 plus:
 
 
 ### Preferred medical facility 
-_Pause recommendation continues_
+_Pause on development_
+- My VA treatment facilities research
 
 
 ## Sprint 53 (7/28 - 8/10)
@@ -104,7 +113,8 @@ _Pause recommendation continues_
 
 ### Notification preferences
 **PM**
-- TK
+- Product guide updates
+- Submit product guide to Contact Center for review
 
 **Design/Research**
 - Design solution for oreniting users to notification preferences as a new concept on VA.gov
