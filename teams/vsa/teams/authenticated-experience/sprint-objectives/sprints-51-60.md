@@ -117,7 +117,7 @@ _Pause on development_
 - Design solution for oreniting users to notification preferences as a new concept on VA.gov
 
 **Frontend**
-- Finish build?
+- Finish build
 
 ### Preferred medical facility 
 Pause recommendation continues
