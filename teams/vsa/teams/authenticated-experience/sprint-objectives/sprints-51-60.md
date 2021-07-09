@@ -40,9 +40,6 @@ _Recommending pausing work on this indefinitely as research showed the feature w
 
 ### Notification preferences
 
-**PM**
-- test case documentation
-
 **Design**
 - test case documentation
 - complete research synthesis if not completed in sprint 50
@@ -60,8 +57,6 @@ lots of clean up work if bandwidth exists
 **Frontend**
 - remaining defect tickets
 - Profile + DD screenreader issue and focus on edit button
-
-
 
 
 ## Sprint 52 (7/14 - 7/27)
@@ -94,7 +89,7 @@ Any outstanding work from 51 plus:
 
 
 ### Preferred medical facility 
-Pause recommendation continues
+_Pause recommendation continues_
 
 
 ## Sprint 53 (7/28 - 8/10)
