@@ -50,6 +50,7 @@ June 30, 2021
 - Is duplication helpful? (indicator + actual notification)
 - How do users think of alerts? (eg a to-do list or more of a notification?)
 - Do people need to search/sort by for action items?
-- What information about an action item do people need to see? 
+- What information about an action item do people need to see?
+- Does showing the number of new alerts provide enough context to help veterans decide whether or not they want to see the alerts?
 
 
