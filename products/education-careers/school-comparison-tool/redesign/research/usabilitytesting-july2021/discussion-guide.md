@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
