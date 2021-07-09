@@ -1,5 +1,23 @@
 # 2021 Stakeholder Meeting Notes
 
+## 2021-07-09 Monthly Meeting with Find a VA Form Stakeholders
+### Attendees
+- John Hashimoto
+- Marci McGuire
+- Tanekwa Bournes (VBA)
+
+### Notes
+- First meeting after Find a Form 1.5 go-live
+- Only one VA stakeholder attended; no leadership attendees
+
+## 2021-06-11 Monthly Meeting with Find a VA Form Stakeholders
+### Attendees
+- John Hashimoto
+- Marci McGuire
+
+### Notes
+No VA stakeholders attended
+
 ## 2021-05-13 Monthly Meeting with Find a VA Form Stakeholders
 ### Attendees
 - John Hashimoto
@@ -11,7 +29,6 @@
 - Yvette Allmond, VBA
 - Nicole Hayes, VBA
 - Takekwa Barnes, VBA
-
 
 ### Notes
 - Janel, Nancy were not in attendence today
