@@ -54,7 +54,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Notre Dame - 15 minutes
 
-You've been interested in going back to school to study **Geology**.  A friend of yours recommended **University of Notre Dame** in **Notre Dame, Indiana** to you.  How would you use the Comparison Tool to learn more about **University of Notre Dame**?
+You've been interested in going back to school to study **Statistics**.  A friend of yours recommended **University of Notre Dame** in **Notre Dame, Indiana** to you.  How would you use the Comparison Tool to learn more about **University of Notre Dame**?
 
 
 ### Things to watch for:
@@ -70,16 +70,20 @@ You've been interested in going back to school to study **Geology**.  A friend o
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding more information about University of Notre Dame?
 - What types of information would be important to you in looking for a school?
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Covering Expenses - 5 minutes
 
-- Step 1
-- Step 2
+You've noticed that the GI Bill won't fully cover the tuition at **University of Notre Dame**.  You know that some schools offer financial assistance such as the Yellow Ribbon program to GI Bill beneficiaries.  How would you use the Comparison Tool to see if **University of Notre Dame** offers any financial assistance?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Where does the user look to find financial information?
+- Does the user see the Yellow Ribbon program listed under EYB?
+- Does the user find the Yellow Ribbon calculation in EYB?
+
+### Upon task completion:
+- How do you think that went?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of discovering what financial assistance is offered by University of Notre Dame?
 
 ## Third Task: [TASK NAME] - X minutes
 
