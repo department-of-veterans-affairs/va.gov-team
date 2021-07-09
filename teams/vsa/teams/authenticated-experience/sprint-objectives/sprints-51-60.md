@@ -1,7 +1,7 @@
 # Authenticated Experience Sprint Objectives: Sprints 51 – 60
 
-- [Sprint 51]()
-- [Sprint 52]()
+- [Sprint 51](#sprint-51-630--713)
+- [Sprint 52](#sprint-52-714--727)
 - [Sprint 53]()
 - [Sprint 54]()
 - [Sprint 55]()
