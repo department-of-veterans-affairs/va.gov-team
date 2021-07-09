@@ -2,6 +2,8 @@
 
 # Name of OJT/Apprenticeship Provider
 
+CITY, STATE
+
 NNN GI Bill students ([Learn more]())
 
 
@@ -13,7 +15,7 @@ NNN GI Bill students ([Learn more]())
 
     {end GI Bill students modal }
 
-{ icon + City, State } { icon + "On-the-job training" } 
+ { icon + "On-the-job training" } 
 
 ## Calculate your benefits
 
