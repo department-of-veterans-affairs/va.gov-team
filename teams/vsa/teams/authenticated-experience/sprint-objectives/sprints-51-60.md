@@ -105,8 +105,7 @@ _Pause on development_
 
 ### Action Items Discovery
 **Design/Research**
-- Form research plan
-- Prototype prep
+- Conduct research
 
 ### Notification preferences
 **PM**
@@ -128,6 +127,7 @@ Pause recommendation continues
 
 ### Action Items Discovery
 **Design/Research**
+- Research synthesis
 
 ### Notification preferences
 
