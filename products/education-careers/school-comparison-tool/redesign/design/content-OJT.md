@@ -139,7 +139,7 @@ How much is your kicker? { input box, numeric only, default to $200 }
 { end if yes }
 
 
-Participate in buy-up program? {radio button selection, No selected by default}
+Participate in buy-up program? { conditional control if Ch30 benefit is selected, radio button selection, No selected by default}
 
 Yes | No { selection options }
 
