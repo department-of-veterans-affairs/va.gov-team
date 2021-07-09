@@ -186,13 +186,13 @@ Display error alert after last `fieldset` and before update/cancel buttons
 
 ### Contact endpoint failure
 
-Display warning alert where email/phone and `update contact info` link would normally be
+Display error alert immediately after `h1`
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138111408/specification/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080509/comment/sitemap?mode=i)
 
 #### Copy
 
-> We’re sorry. We can’t access your contact information at this time. We’re working to fix this problem. Please check back soon.
+> We’re sorry. We can’t access your notification settings at this time. We’re working to fix this problem. Please check back soon.
 
 ## Updates to profile personal and contact information section
 
