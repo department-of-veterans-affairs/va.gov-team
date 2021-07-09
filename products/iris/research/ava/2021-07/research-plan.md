@@ -32,13 +32,14 @@ We are seeking to perform this test with 10 participants
 
 **Must have for participants**
 
-- Users who have visited VA.gov previously
+- Users who have visited and logged in to VA.gov within the past year
 
 **Good to have for participants**
 
 - Users that have a VA.gov login
 - *If possible, would like to have roughly 2-3 participants who would answer "yes" to the following question:*
   - Have you visited VA.gov on a mobile device?
+  - Participants who have visited VA.gov on their mobile device should login to the Zoom session on their mobile device.
 
 ## When?
 
@@ -59,8 +60,8 @@ We are seeking to perform this test with 10 participants
 
 Testing will be performed on a staging environment as well as with a mockup built in Figma.
 
-**Pilot Date(s):** July 8-9, 2021
-**PIlot Attendees:** Jason Woodman, Stan Moran, Chante Lantos-Swett
+**Pilot Date(s):** July 12-13, 2021
+**PIlot Attendees:** Jason Woodman, Stan Moran, Chante Lantos-Swett (Note: The pilot will be scheduled internally by Ian McCullough)
 
 ## Team Roles
 
