@@ -37,7 +37,7 @@ Goal: Begin phased launch (25% then 50%)
 
 ### Preferred medical facility 
 
-pausing work on this indefinitely as research showed the feature was not helpful/useful for Veterans
+Recommending pausing work on this indefinitely as research showed the feature was not helpful/useful for Veterans
 
 ### Notification preferences
 
@@ -53,7 +53,7 @@ pausing work on this indefinitely as research showed the feature was not helpful
 - Continue build
 
 ### Profile
-lots of clean up work if bandwidth exists:
+lots of clean up work if bandwidth exists
 
 **Design**
 - confirm styling of edut buttons and forms on mobile
@@ -62,27 +62,59 @@ lots of clean up work if bandwidth exists:
 - remaining defect tickets
 - Profile + DD screenreader issue and focus on edit button
 
+
+
+
+## Sprint 52 (7/14 - 7/27)
+Any outstanding work from 51 plus: 
+
+### My VA 
+- Launch to 100%!
+- Coordinate with comms team on blog post
+- Demo prep
+- Demo for Board of Appeals (chairwoman)
+
+### Action Items Discovery
+**Design/Research**
+- Form research plan
+- Prototype prep
+
+### Notification preferences
+**PM**
+- test case documentation
+
+**Design/Research**
+- Discovery around orienting users to notification preferences as a new concept on VA.gov
+- Login vs contact email
+
+**Frontend**
+- Continue build
+
 ### General Research
 - phase 2 of auth experience best practices research? (24974)
 
 
-## Sprint 52 (7/14 - 7/27)
-
-### My VA
-
 ### Preferred medical facility 
+Pause recommendation continues
 
-### Notification preferences
-
-### My VA redesign
 
 ## Sprint 53 (7/28 - 8/10)
 
 ### My VA redesign
+- submit for full accessibility review
 
 ### Preferred medical facility 
 
 ### Notification preferences
+**PM**
+- TK
+
+**Design/Research**
+- Design solution for oreniting users to notification preferences as a new concept on VA.gov
+
+**Frontend**
+- TK
+
 
 ## Sprint 54 (8/11 - 8/24)
 
