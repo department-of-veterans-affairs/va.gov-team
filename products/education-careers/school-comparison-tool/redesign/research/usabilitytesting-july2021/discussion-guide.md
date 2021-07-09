@@ -70,7 +70,7 @@ You've been interested in going back to school to study **Statistics**.  A frien
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding more information about University of Notre Dame?
 - What types of information would be important to you in looking for a school?
 
-## Second Task: Covering Expenses - 5 minutes
+## Second Task: Covering Expenses - 10 minutes
 
 You've noticed that the GI Bill won't fully cover the tuition at **University of Notre Dame**.  You know that some schools offer financial assistance such as the Yellow Ribbon program to GI Bill beneficiaries.  How would you use the Comparison Tool to see if **University of Notre Dame** offers any financial assistance?
 
@@ -84,6 +84,7 @@ You've noticed that the GI Bill won't fully cover the tuition at **University of
 ### Upon task completion:
 - How do you think that went?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of discovering what financial assistance is offered by University of Notre Dame?
+- If you finished researching University of Notre Dame and thought the school was the right fit for you, what would be your next step?
 
 ## Third Task: [TASK NAME] - X minutes
 
