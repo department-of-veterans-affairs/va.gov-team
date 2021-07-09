@@ -37,7 +37,7 @@ Health Products
 - Team Product Manager: Chris Dyer
 - UX/Research: Dené Gabaldón
 - Front-End Engineering: Dat Tran
-- Back-End Engineering: Kevin Mircovich
+- Back-End Engineering: Daniel Nalbach
 
 ---
 
@@ -124,12 +124,12 @@ Anyone on the team can create a user story. All are responsible for keeping them
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
 | Number | Meaning |
 | -------| --------|
-| 1  | Involves a single small trivial change.
-| 2  | Small but non-trivial change, requires some care.
-| 3  | (Baseline) Contains some complexity or uncertainty.
-| 5  | Significant complexity and/or uncertainty.
-| 8  | High level of complexity and/or uncertainty.
-| 13 | Needs to be broken down; too large for one sprint; critical unknowns. 
+| 1  | Trivial change - Up to 2 hours  (time mostly in submitting the work)
+| 2  | Small change - Up to 4 hours  (More validation is required)
+| 3  | Routine addon/none new - 1 to 2 days (small work/high domain knowledge/1 or no moving parts)
+| 5  | Routine addon/none new - 2 to 3 days (medium work/1-2 moving parts)
+| 8  | New work/High Complexity - 3 to 5 days (over 2 moving parts)
+| 13 | Too big/Risky, should be brokwn down - 1 to 2 weeks
 
 
 #### User story validation
