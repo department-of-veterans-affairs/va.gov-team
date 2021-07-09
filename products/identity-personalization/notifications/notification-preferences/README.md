@@ -91,6 +91,8 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **March 2021**: Design begins
 - **April 2021**: Initial design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
 - **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
+- **July 2021**: Development
+- **August 2021**: QA
 
 ## Product Decisions
 
