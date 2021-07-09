@@ -36,8 +36,7 @@ Goal: Begin phased launch (25% then 50%)
 - Launch to 50%   
 
 ### Preferred medical facility 
-
-Recommending pausing work on this indefinitely as research showed the feature was not helpful/useful for Veterans
+_Recommending pausing work on this indefinitely as research showed the feature was not helpful/useful for Veterans_
 
 ### Notification preferences
 
@@ -76,8 +75,8 @@ Any outstanding work from 51 plus:
 
 ### Action Items Discovery
 **Design/Research**
-- Form research plan
-- Prototype prep
+- Form research plan and convo guide
+- Prototype
 
 ### Notification preferences
 **PM**
@@ -103,7 +102,10 @@ Pause recommendation continues
 ### My VA redesign
 - submit for full accessibility review
 
-### Preferred medical facility 
+### Action Items Discovery
+**Design/Research**
+- Form research plan
+- Prototype prep
 
 ### Notification preferences
 **PM**
@@ -113,16 +115,23 @@ Pause recommendation continues
 - Design solution for oreniting users to notification preferences as a new concept on VA.gov
 
 **Frontend**
-- TK
+- Finish build?
 
+### Preferred medical facility 
+Pause recommendation continues
 
 ## Sprint 54 (8/11 - 8/24)
 
 ### My VA redesign
 
-### Preferred medical facility 
+### Action Items Discovery
+**Design/Research**
 
 ### Notification preferences
+
+### Preferred medical facility 
+_Pause recommendation continues_
+
 
 ## Sprint 55 (8/25 - 9/7)
 
