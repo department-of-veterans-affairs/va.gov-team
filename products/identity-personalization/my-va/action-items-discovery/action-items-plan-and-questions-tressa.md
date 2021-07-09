@@ -52,5 +52,6 @@ June 30, 2021
 - Do people need to search/sort by for action items?
 - What information about an action item do people need to see?
 - Does showing the number of new alerts provide enough context to help veterans decide whether or not they want to see the alerts?
+- Do users even want to see the number of new alerts, or is just knowing they have new alerts enough?
 
 
