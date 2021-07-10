@@ -15,6 +15,29 @@ _Last updated Q1 2020 by VSP Content & IA team_
 
 1. Back up repo
 1. Identify all file(s) to be removed
+   - Add the following information to the [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
+     - Origin
+       - Initial commit date
+       - Nature of sensitive info
+       - Author
+       - Initial commit SHA (SHA of commit where sensitive info was first introduced to repo)
+       - Initial commit branch (`master` or something else)
+       - Merge date (if applicable)
+       - Merge commit SHA (SHA of commit where sensitive info was merged, if applicable)
+       - PR url (if applicable)
+     - Identification
+       - When
+       - Who
+     - Migration (if applicable)
+       - When
+       - Who
+       - Where
+       - New filename
+       - SHA of commit where sensitive info was migrated
+     - Deletion
+       - When
+       - Who
+       - SHA of commit where sensitive info was deleted
 1. Fetch everything from remote
 1. Notify people about the upcoming purge and freezing of `master`
 1. Freeze `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
@@ -33,7 +56,17 @@ _Last updated Q1 2020 by VSP Content & IA team_
    * We enable linear history because the [GitHub help center page about removing sensitive info](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository), it says, "Tell your collaborators to rebase, not merge, any branches they created off of your old (tainted) repository history."
 1. Have an admin disable **Allow force pushes** setting on `master` branch so nobody else force pushes the tainted history back into the repo.
 1. Notify people that repo has been cleaned and `master` has been unfrozen
-1. Update [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
+1. Add the following information to the purge  [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
+   - Sanitization
+     - When
+     - Who
+     - SHA of sanitized commit
+1. Find references to the `master` commit SHA
+   - You can use [`git for-each-ref`](https://git-scm.com/docs/git-for-each-ref) to search for references
+   - For example: `git for-each-ref --contains 9aba403a6184c3662e16d2bd01bae31e686b5be6`
+1. Delete branches that reference the commit
+1. For forks that reference the commit SHA, ask the fork owner to delete the fork
+      - View [all forks of the `va.gov-team` repo](https://github.com/department-of-veterans-affairs/va.gov-team/network/members)
 1. Contact GitHub support to permanently remove cached views and references to the sensitive data in pull requests
 
 # Purging PII from an issue or ticket in GitHub
