@@ -9,22 +9,25 @@
 ### Public Websites 
 
 - Product Portfolio
-  - Home Page
+  - Home Page (including Alert Banner)
   - Site Navigation (Header, Left Hand, Footer)
   - Benefit Hubs 
   - Outreach & Events Hub and Calender
   - Resources & Support
   - Campaign Landing Page
+  - React Widget
 
 - 2021 Priorities
   - New
     - Harassment Reporting Tool
+    - Home Page Alert Banner
   - Iterate
     - Home Page
     - Benefit Hubs
     - Outreach & Events Calendar
     - Campaign Landing Page
     - Sitewide Navigation
+    - React Widget
   - Maintain
     - Resources & Support
 
