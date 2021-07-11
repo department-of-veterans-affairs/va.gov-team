@@ -47,11 +47,11 @@
   - New
     - On-site
       - Search Landing Page
-      - 
+      - Type Ahead Everywhere Component
+      - Video in Search Results
   - Iterate
     - Type Ahead
     - Site Indexing
-    - 
- 
   - Maintain
+    - Site SEO Optimization (e.g. fix errors)
    
