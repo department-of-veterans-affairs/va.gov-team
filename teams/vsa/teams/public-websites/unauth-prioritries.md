@@ -20,7 +20,6 @@
 - 2021 Priorities
   - New
     - Harassment Reporting Tool
-    - Home Page Alert Banner
   - Iterate
     - Home Page 
       - Home Page Layout to accommodate more Top Tasks
