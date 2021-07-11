@@ -31,21 +31,24 @@
 ### Search & Discovery
 
 - Product Portfolio
-  - Home Page
-  - Site Navigation (Header, Left Hand, Footer)
-  - Benefit Hubs 
-  - Outreach & Events Hub and Calender
-  - Resources & Support
-  - Campaign Landing Page
+  - On-site Search
+    - Type Ahead
+    - Best Bets/Top Recommendations
+    - Search Landing Page
+  - Off-site Search 
+    - SEO Optimization
+    - Structured Markup Features (e.g. Snippets, FAQs)
+    - Local Search Optimization/Listing (e.g. Google My Business)
 
 - 2021 Priorities
   - New
-    - Harassment Reporting Tool
+    - On-site
+      - Search Landing Page
+      - 
   - Iterate
-    - Home Page
-    - Benefit Hubs
-    - Outreach & Events Calendar
-    - Campaign Landing Page
-    - Sitewide Navigation
+    - Type Ahead
+    - Site Indexing
+    - 
+ 
   - Maintain
-    - Resources & Support
+   
