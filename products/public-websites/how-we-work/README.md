@@ -6,9 +6,9 @@ While each team works differently due to its mission, make-up and team-member pr
 
 https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 
-### Our GitHub Team Sites 
+### Our Team Sites Charters & GH Folders
 
-- [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites)
+- [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/PW%20Charter.md)
 
 - [Search & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/team-charter.md)
 
