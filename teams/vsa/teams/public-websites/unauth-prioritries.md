@@ -8,7 +8,7 @@
 
 ### Public Websites 
 
-- Product Portfolio
+- Products
   - Home Page (including Alert Banner)
   - Site Navigation (Header, Left Hand, Footer)
   - Benefit Hubs 
@@ -22,10 +22,12 @@
     - Harassment Reporting Tool
     - Home Page Alert Banner
   - Iterate
-    - Home Page
-    - Benefit Hubs
-    - Outreach & Events Calendar
-    - Campaign Landing Page
+    - Home Page 
+      - Home Page Layout to accommodate more Top Tasks
+      - Home Page Alert Banner to make process/functionality more "systematic"
+    - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
+    - Campaign Landing Page - finalizing governance model
+    - Benefit Hubs 
     - Sitewide Navigation
     - React Widget
   - Maintain
@@ -33,7 +35,7 @@
 
 ### Search & Discovery
 
-- Product Portfolio
+- Products
   - On-site Search
     - Type Ahead
     - Best Bets/Top Recommendations
@@ -54,4 +56,8 @@
     - Site Indexing
   - Maintain
     - Site SEO Optimization (e.g. fix errors)
-   
+  
+  
+  ### Decision Tools
+  
+  - Products
