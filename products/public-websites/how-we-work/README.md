@@ -99,7 +99,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
   - Create quality project deliverables for which they are individually responsible that meet or exceed specified requirements, following all associated GCIO or VA processes, and submit deliverable on time for transmission to the VA
   - Responsible for ensuring that all deliverables created by their team are high quality, meet or exceed specified requirements, were created pursuant all associated GCIO or VA processes, and are submitted on time for transmission to the VA
 
-### Role of the DEPO Product Owner (Credit: Andrew Fichter)
+### Role of the OCTO-DE Product Owner (Credit: Andrew Fichter)
 
 
 #### Transparency
