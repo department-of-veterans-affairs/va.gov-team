@@ -34,7 +34,7 @@ The primary goal of this research is to understand how the representation/Power 
 #### Hypotheses
 
 ### Method
-We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, <mark>but audio only<\mark> -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by <mark>Perigean</mark>. Sessions will be recorded (with permission), and observers may be in attendance.
+We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to the discovery interview process
@@ -46,14 +46,14 @@ We request that Perigean take notes -- verbatim if possible --  during interview
 
 ### Participants and recruitment
 
-Recruit for <mark>5<\mark> fulfilled sessions using the following criteria:
+Recruit for 5 fulfilled sessions using the following criteria:
 
 **Principal participant criteria/question**
 - Are you an accredited representative with a Veterans Service Organization? (pass = yes)
 
 **Must have for participants**
-<mark>- At least 1 representative from a federally-chartered VSO
-- At least 1 representative from a VSO that is not federally chartered<\mark>
+- At least 1 representative from a federally-chartered VSO
+- At least 1 representative from a VSO that is not federally chartered
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
