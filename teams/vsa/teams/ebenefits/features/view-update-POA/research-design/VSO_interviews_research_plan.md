@@ -98,14 +98,14 @@ Please allow 30 minutes between sessions.
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Matt Self | matt.self2@va.gov -- Product Co-Owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
-- <mark>VA contacts<\mark>
+- VA contacts
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
 - Observers -- various as available
 - Others -- Pending
 
 ### Resources
-- [Conversation guide](TBD)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/VSO_interviews_conversation_guide.md)
 
 - [Session notes]() (Available at conclusion of research.)
 
