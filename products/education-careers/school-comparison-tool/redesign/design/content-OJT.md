@@ -165,7 +165,17 @@ ________________________________
 
 ### Estimated benefits per month
 
-#### Housing allowance ([Learn more](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#housingallowance))
+#### Housing allowance ([Learn more]())
+
+    { Housing allowance modal, Learn more aria label: "Learn more about how housing allowance is determined" }
+
+    #### Your housing allowance is determined by where you take classes
+
+    Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.
+
+    [View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
+
+    { end Housing allowance modal }
 
 Months 1-6:  $X,XXXX/mo
 
@@ -175,7 +185,13 @@ Months 13-18: $XXX/mo
 
 Months 19-24: $XXX/mo
 
-#### Book stipend ([Learn more](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend))
+#### Book stipend ([Learn more]())
+
+    { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
+
+    You may be eligible to receive a stipend of up to $1000 for books and supplies. The book stipend is pro-rated based on your enrollment.
+
+    { end Book stipend modal }
 
 Months 1-6:  $XX/mo
 
