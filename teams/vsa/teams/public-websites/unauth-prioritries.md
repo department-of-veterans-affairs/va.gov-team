@@ -22,8 +22,13 @@
     - Harassment Reporting Tool
   - Iterate
     - Home Page 
-      - Home Page Layout to accommodate more Top Tasks
-      - Home Page Alert Banner to make process/functionality more "systematic"
+      - Home Page Layout to accommodate more Top Tasks - Needs: Initiative Brief or Product Outline?
+      - Home Page Alert Banner to make process/functionality more "systematic" - 
+        - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/unauth-prioritries.md)
+        - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
+        - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
+        - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
+        - 
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
     - Campaign Landing Page - finalizing governance model
     - Benefit Hubs 
