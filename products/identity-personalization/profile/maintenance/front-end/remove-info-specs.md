@@ -11,7 +11,7 @@ We're moving the functionality to remove contact information outside of the edit
 
 We decided to move the remove functionality to read mode to improve accessibility, and make it more clear that Veterans have control over their profile information.  This removes guess work around the ability to remove contact info if a Veteran chooses.
 
-These changes impact any part of profile that currently has the "remove" functionality (currently only Personal and Contact information).
+These changes impact all of profile since the layout is shared across all sections of profile.  
 
 
 
@@ -19,11 +19,9 @@ These changes impact any part of profile that currently has the "remove" functio
 
 ### Button layout and updated labels
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/mobile-remove-update-labels.png" width="320" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-mobile-remove-button-update.png" width="320" />
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/tablet-remove-button-update-labels.jpg" width="768" />
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/desktop-remove-update-labels.jpg)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-desktop-remove-button-update.png)
 
 ### Warning modal
 
@@ -50,14 +48,14 @@ See [content section](https://github.com/department-of-veterans-affairs/va.gov-t
 **Personal and contact information page**
 
 - Remove button should display on the right side of the edit button when contact information is present.
+
 - For each section of personal and contact information, delete the link-styled remove button that is currently visible after clicking edit 
-- Distance between edit and remove buttons should be 24px
-- Responsiveness:
-  - On mobile, the edit and remove buttons should stack.
-  - On screens 768px - 1024px wide
-    - the left hand column (currently a `<dfn>` element) should be 100px; 
-  - On screens 1025px wide and above, the left hand column should be 125px
-  - On screens 768px and above, the minimum x-padding between columns (label, content, buttons) should be 48px. If that absolutely doesn't work, let's see how 32px looks for the space between the content and buttons.
+
+- Distance between edit and remove buttons should be 24px when they are not stacked (buttons from design system stack by default at smallest screen sizes)
+
+- On all screens, the label, values, and button group should stack as shown in the mock-ups above.  
+
+  
 
 **Warning modal**
 
