@@ -169,11 +169,14 @@ ________________________________
 
     { Housing allowance modal, Learn more aria label: "Learn more about how housing allowance is determined" }
 
-    #### Your housing allowance is determined by where you take classes
+    #### Your housing allowance is determined by where you take training
 
-    Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.
+    Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take training.
 
     [View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
+    
+    For on-the-job training and apprenticeships, housing allowance decreases every 6 months as employer pay increases.  
+    [Learn more about how the housing rate decreases over time.](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
 
     { end Housing allowance modal }
 
