@@ -54,7 +54,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Notre Dame - 15 minutes
 
-You've been interested in going back to school to study **Statistics**.  A friend of yours recommended **University of Notre Dame** in **Notre Dame, Indiana** to you.  How would you use the Comparison Tool to learn more about **University of Notre Dame**?
+You've been interested in going back to school to study **Statistics**.  A friend of yours recommended **University of Notre Dame** in **Notre Dame, Indiana** to you.  How would you use the Comparison Tool to determine if **University of Notre Dame** would be a good fit for you?
 
 
 ### Things to watch for:
@@ -72,12 +72,12 @@ You've been interested in going back to school to study **Statistics**.  A frien
 
 ## Second Task: Covering Expenses - 10 minutes
 
-You've noticed that the GI Bill won't fully cover the tuition at **University of Notre Dame**.  You know that some schools offer financial assistance such as the Yellow Ribbon program to GI Bill beneficiaries.  How would you use the Comparison Tool to see if **University of Notre Dame** offers any financial assistance?
+You've noticed that the GI Bill won't fully cover the tuition at **University of Notre Dame**.  You've heard that some schools offer the Yellow Ribbon program, which offers additional financial assistance to GI Bill beneficiaries.  How would you use the Comparison Tool to see if **University of Notre Dame** offers the Yellow Ribbon program?
 
 
 ### Things to watch for:
 
-- Where does the user look to find financial information?
+- Where does the user look to find the Yellow Ribbon program?
 - Does the user see the Yellow Ribbon program listed under EYB?
 - Does the user find the Yellow Ribbon calculation in EYB?
 
