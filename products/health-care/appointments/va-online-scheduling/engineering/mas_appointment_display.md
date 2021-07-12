@@ -41,14 +41,13 @@ Appointments in the future:
 
 Video appointments have their own set of types with different rules. As a shorthand, `vvsAppointment` refers to `appointment.vvsAppointments[0]`.
 
-Video appointments where `vvsAppointment.appointmentKind` is `STORE_FORWARD` or `NO-VA-ID` are not shown.
+Video appointments where `vvsAppointment.appointmentKind` is `NO-VA-ID` are not shown.
 
-- `STORE_FORWARD` appointments are diagnostic test appointments
 - `NO_VA_ID` appointments are for patients who aren't enrolled and won't show up through VAOS
 
 ### Clinic based 
 
-Clinic based appointments are video appointments where `vvsAppointment.appointmentKind` is `CLINIC_BASED`. They are sourced from `TMP`.
+Clinic based appointments are video appointments where `vvsAppointment.appointmentKind` is `CLINIC_BASED` or `STORE_FORWARD`. They are sourced from `TMP`. `STORE_FORWARD` appointments might be diagnostic appointments, or intake appointments at the start of a in person clinic appointment.
 
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
