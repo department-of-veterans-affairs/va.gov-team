@@ -27,8 +27,9 @@
 
 ## Monday July 12, 2021
 * CMS health services
+  * API pushing per facility - implementation timing (for initial bulk and then ongoing)
 * CAPs
-
+  * endpoint details (sending all data always)
 
 ## Monday June 28, 2021
 * How LH's API should get data for CMS health services
