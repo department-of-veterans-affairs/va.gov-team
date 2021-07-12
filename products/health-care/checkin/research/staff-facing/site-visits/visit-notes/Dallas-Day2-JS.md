@@ -214,7 +214,7 @@ Quick review of departments we didn’t get to: Wants us to connect with Shabu M
   - We do insurance harvesting as well, but it’s a cost to the VA.
 - Why is insurance capture important to you?
   - For the funds
-  - CPAP and ICB folks want us to ask for Medicare now as well
+  - CPAC and ICB folks want us to ask for Medicare now as well
   - Exec leadership didn’t push VetLink in the way they should have
 -	Who would access metrics on staff performance?
   - Leadership in MAS
