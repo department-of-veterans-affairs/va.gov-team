@@ -289,14 +289,14 @@ Tuition and fees charged: $NNNN
 
 { display tuition & fees by relevant benefit & term with "Total per year" calculation at the bottom }
 
-{ Learn more modal }
+    { Tuition and fees modal, Learn more aria label: "Learn more about tuition and fees" }
 
-We display the average tuition and fees for an undergraduate student that is reported by the school to the Department of Education. These values might not be the same for all students at an institution.
+    We display the average tuition and fees for an undergraduate student that is reported by the school to the Department of Education. These values might not be the same for all students at an institution.
 
-Learn more about the tuition and fees displayed in the GI Bill Comparison Tool
-(https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuition_fees_input)
+    Learn more about the tuition and fees displayed in the GI Bill Comparison Tool
+    (https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuition_fees_input)
 
-{ end modal }
+    { end Tuition and fees modal }
 
 **Housing allowance ([Learn more])
 
@@ -304,21 +304,23 @@ Learn more about the tuition and fees displayed in the GI Bill Comparison Tool
 { display housing allowance by relevant benefit & term with "Total per year" calculation at the bottom }
 
 
-{ Learn more modal }
+    { Housing allowance modal, Learn more aria label: "Learn more about how housing allowance is determined" }
 
-#### Your housing allowance is determined by where you take classes
+    #### Your housing allowance is determined by where you take classes
 
-Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.
+    Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.
 
-[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
+    [View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
 
-{ end modal }
+    { end Housing allowance modal }
 
 **Book stipend ([Learn more])
 
-{ Learn more modal }
+    { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
-You may be eligible to receive a stipend of up to $1000 for books and supplies.  The book stipend is pro-rated based on your enrollment. 
+    You may be eligible to receive a stipend of up to $1000 for books and supplies.  The book stipend is pro-rated based on your enrollment. 
+
+    { end Book stipend modal }
 
 
 ### Additional information regarding your benefits
