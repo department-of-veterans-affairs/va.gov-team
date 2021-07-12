@@ -10,35 +10,35 @@ Five UAt sessions were conducted from June X to June Y, 2021. X of Y users parti
 
 ## UAT testing of direct deposit for EDU
 
-| UAT item | DNS | DNS | DNS | P4 | DNS | DNS | P7(?) | P8(?) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| After login, intro screen allows access | -- | -- | -- | X | -- | -- | -- | -- |
-| Checkboxes function, workflow selection(s) made | -- | -- | -- | X | -- | -- | -- | -- |
-| Veteran info screen presents correct user data | -- | -- | -- | X | -- | -- | -- | -- |
-| Address, phone and email are pre-filled | -- | -- | -- | X | -- | -- | -- | -- |
-| User can make corrections and proceed | -- | -- | -- | X | -- | -- | -- | -- |
-| Chosen workflow form fields function properly | -- | -- | -- | X | -- | -- | -- | -- |
-| Required form fields display error states when left incomplete or are completed improperly | -- | -- | -- | X | -- | -- | -- | -- |
-| Form advances correctly | -- | -- | -- | X | -- | -- | -- | -- |
-| User can backtrack through form as needed | -- | -- | -- | X | -- | -- | -- | -- |
-| File finder window opens when upload documents button is clicked | -- | -- | -- | X | -- | -- | -- | -- |
-| User can locate and select file(s) | -- | -- | -- | X | -- | -- | -- | -- |
-| Selected files upload properly | -- | -- | -- | X | -- | -- | -- | -- |
-| Review accordions are present and contain correct information | -- | -- | -- | X | -- | -- | -- | -- |
-| Review edit function allows corrections | -- | -- | -- | DNS | -- | -- | -- | -- |
-| Form submits and user is presented with confirmation screen | -- | -- | -- | X | -- | -- | -- | -- |
-| Submission data appears in Claim Status Tool | -- | -- | -- | X | -- | -- | -- | -- |
+| UAT item | DNS | DNS | DNS | P4 | DNS | P6 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| After login, intro screen allows access | -- | -- | -- | X | -- | X |
+| Checkboxes function, workflow selection(s) made | -- | -- | -- | X | -- | X |
+| Veteran info screen presents correct user data | -- | -- | -- | X | -- | X |
+| Address, phone and email are pre-filled | -- | -- | -- | X | -- | X |
+| User can make corrections and proceed | -- | -- | -- | X | -- | ? |
+| Chosen workflow form fields function properly | -- | -- | -- | X | -- | X |
+| Required form fields display error states when left incomplete or are completed improperly | -- | -- | -- | X | -- | X |
+| Form advances correctly | -- | -- | -- | X | -- | X |
+| User can backtrack through form as needed | -- | -- | -- | X | -- | X |
+| File finder window opens when upload documents button is clicked | -- | -- | -- | X | -- | ? |
+| User can locate and select file(s) | -- | -- | -- | X | -- | ? |
+| Selected files upload properly | -- | -- | -- | X | -- | ? |
+| Review accordions are present and contain correct information | -- | -- | -- | X | -- | X |
+| Review edit function allows corrections | -- | -- | -- | ? | -- | ? |
+| Form submits and user is presented with confirmation screen | -- | -- | -- | X | -- | X |
+| Submission data appears in Claim Status Tool | -- | -- | -- | X | -- | ? |
 
-\* Participant 6 does not receive educational payments from VA. The DD screen correctly displated the "no-EDU-payments" text.
 
--- = Did not occur in testing/Participant did not show
+
+DNS = Participant did not show
 
 ? = Did not observe result 
-<!--
+
 ## Conclusion
-UAT was successful. The DD-EDU tool preformed well; participants were uniformly satisfied with the appearance and function of the tool. The "cancel" function was not observed during testing. Two potential areas to address are:
-- Duration of success message after submitting new bank info
-- The location of the success message may need to be in proximity to edit box
--->
+UAT was abbreviated with only two participants successful. The form preformed well with two of the more complicated workflows; participants were uniformly satisfied with the appearance and function of the tool. Two potential areas to address are:
+- The appearance of "pension" questions, including a "blank" question form chapter; this creates a blank accordion on the review screen
+- The location of explanatory copy for the "Is the student enrolled full-time in high school or college?" question on the 674 creates confusion
+
 
 ---
