@@ -49,6 +49,8 @@ Video appointments where `vvsAppointment.appointmentKind` is `NO-VA-ID` are not 
 
 Clinic based appointments are video appointments where `vvsAppointment.appointmentKind` is `CLINIC_BASED` or `STORE_FORWARD`. They are sourced from `TMP`. `STORE_FORWARD` appointments might be diagnostic appointments, or intake appointments at the start of a in person clinic appointment.
 
+- Label: VA Video Connect at a VA location
+  - Under review, TMP is not VA Video Connect so this may be misleading
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
@@ -69,6 +71,8 @@ Clinic based appointments are video appointments where `vvsAppointment.appointme
 
 At home appointments are video appointments where `vvsAppointment.appointmentKind` is `ADHOC` or `MOBILE_ANY`. `ADHOC` appointments come from VCM and `MOBILE_ANY` come from from TMP.
 
+- Label: VA Video Connect at home
+  - Under review for TMP (MOBILE_ANY), since they are not VA Video Connect and this may be misleading
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id of `appointment.facilityId`.
@@ -93,7 +97,9 @@ At home appointments are video appointments where `vvsAppointment.appointmentKin
 
 VA device appointments are video appointments where `vvsAppointment.appointmentKind` is `MOBILE_GFE`. They are sourced from `TMP`.
 
-- Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
+- Label: VA Video Connect using a VA device
+  - Under review, since they are not VA Video Connect and this may be misleading
+-  Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
 - Location: Not shown
@@ -113,6 +119,7 @@ VA device appointments are video appointments where `vvsAppointment.appointmentK
 
 These are VistA appointments that are not phone or community care.
 
+- Label: VA appointment
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
@@ -136,6 +143,7 @@ These are VistA appointments that are not phone or community care.
 
 These are VistA appointments that have `appointment.phoneOnly` set to true.
 
+- Label: Phone call
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
@@ -158,6 +166,7 @@ These are VistA appointments that have `appointment.phoneOnly` set to true.
 
 These are VistA appointments that have `appointment.communityCare` set to true. This is basically a stub for tracking purposes. They are not returned in MAS and we do not want to show these if possible.
 
+- Label: Community care
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
