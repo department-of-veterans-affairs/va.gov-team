@@ -4,24 +4,28 @@
 
 ![homepage](cheetah-flow/homepage.png)
 
-1. Plan ahead page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking`
+1. Type of care page `/health-care/schedule-view-va-appointments/appointments/new-appointment`
+
+![type-of-care](cheetah-flow/type_of_care.png)
+
+2. Plan ahead page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking`
 
 ![plan-ahead](cheetah-flow/plan_ahead_page.png)
 
-2. No available facilities `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-facilities`
+3. No available facilities `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-facilities`
 
 ![no-facilities](cheetah-flow/no_facilities_page.png)
 
-3. Received dose page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/received-dose`
+4. Received dose page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/received-dose`
 
 ![received-dose](cheetah-flow/received_dose_page.png)
 ![received-dose-validation](cheetah-flow/received_dose_page_validation.png)
 
-4. Contact facilities (if already had a dose) `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-facilities`
+5. Contact facilities (if already had a dose) `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-facilities`
 
 ![contact-facilities](cheetah-flow/contact_facilities.png)
 
-5. Facilities `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/facility`
+6. Facilities `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/facility`
 
 ![facilities](cheetah-flow/facilities_page.png)
 ![facilities-validation](cheetah-flow/facilities_page_validation.png)
@@ -46,28 +50,28 @@ No clinics message (heading is an h3):
 
 ![no-clinics](cheetah-flow/no_clinics_message.png)
 
-6. Clinics `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/clinic`
+7. Clinics `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/clinic`
 
 ![clinics](cheetah-flow/clinic_page.png)
 
-7. Calendar page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/select-date-1`
+8. Calendar page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/select-date-1`
 
 ![calendar](cheetah-flow/calendar_page.png)
 
-8. Second dose page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/plan-second-dose`
+9. Second dose page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/plan-second-dose`
 
 ![second-dose](cheetah-flow/second_dose_page.png)
 
-9. Contact page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-info`
+10. Contact page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/contact-info`
 
 ![contact-info](cheetah-flow/contact_info_page.png)
 ![contact-info-validation-null](cheetah-flow/contact_info_page_validation_null.png)
 ![contact-info-validation](cheetah-flow/contact_info_page_validation.png)
 
-10. Review page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/review`
+11. Review page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/review`
 
 ![review](cheetah-flow/review_page.png)
 
-11. Confirmation page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/confirmation`
+12. Confirmation page `/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-booking/confirmation`
 
 ![confirmation](cheetah-flow/confirmation_page.png)
