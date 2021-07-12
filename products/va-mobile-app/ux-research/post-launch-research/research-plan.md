@@ -34,11 +34,28 @@ Since the VA strives for accessibility beyond compliance, we are testing with Ve
 
 # Method
 # Participants and Recruitment
-## Primary participant criteria:
+## Primary participant criteria
+**MUST**:
+* Participants must have a mobile phone device to complete the test on said device as this is a mobile app. 
+* Have the low to no vision as specified by the following:
+   * At least __ participants have an acquired vision-related disability
+   * At least __ advanced screen reader user and 10 beginner screen reader user
+   * At least __ participant has a congenital vision-related disability
+   * At least __ participant has low vision (not complete blindness)
+
+**AND**
+Participants must use some form of  accessibility tool:
+* VoiceOver iPhone or iPad user
+* TalkBack (Android) phone user
+* Braille Keyboard that connects to either operating system
+* Zoom magnifier
+
+_**Definition of low vision:** For purposes of this study we define low vision to mean ranging from having a small amount of functional vision e.g. the ability to see a box on the screen to being what is referred to in the blindness community as "high partial," which is legally blind but having considerable usable vision, maybe they are a user of screen magnification software and only use a cane at night._
+
 ## Technical requirements for Perigean
 ### REMOTE TESTING REQUIREMENTS
 ### IN PERSON/HYBRID TESTING REQUIREMENTS
-### SECONDARY CRITERIA / WOULD LIKE TO HAVE
+
 
 # Screener
 
