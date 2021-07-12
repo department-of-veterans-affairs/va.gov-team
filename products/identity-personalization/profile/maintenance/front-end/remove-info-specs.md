@@ -41,6 +41,8 @@ See [content section](https://github.com/department-of-veterans-affairs/va.gov-t
 
 #### Components
 
+- Edit button has primary button styling
+- Remove button has secondary button styling
 - Clicking remove button should trigger the [warning modal component](https://design.va.gov/storybook/?path=/docs/components-modal--default#warning) 
 
 #### Layout 
