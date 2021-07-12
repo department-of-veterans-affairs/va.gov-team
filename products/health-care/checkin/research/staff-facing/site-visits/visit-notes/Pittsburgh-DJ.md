@@ -152,7 +152,7 @@
 
 ## Behavioral Health
 - Tools: Vetlink, VSE GUI (multiple windows), MS Teams
-    - Multiple windows of VSE GUI. At least one to see schedule, other to search & check in.
+    - Multiple windows of VSE GUI. At least one to see schedule, other to search & schedule.
     - Vetlink is a "lifesaver" for front office and back office. No cell reception, pagers don't work well
     - Mandated that providers use Vetlink
     - 3-4 different options on how to let providers know patient is here, especially by Teams message
