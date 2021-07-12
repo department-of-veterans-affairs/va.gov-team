@@ -28,8 +28,25 @@
 ## Monday July 12, 2021
 * CMS health services
   * API pushing per facility - implementation timing (for initial bulk and then ongoing)
+  * LH needs to work on how to present information once received from CMS (into existing API or a new endpoint or its own API)
+  * LH not quite ready to receive the data yet
+  * Proposed timeline: CMS won't have complete data until ~Jan 2022
+    * All facilities in review state by ~Oct 2021
+    * Then need to review
+    * Q: should we push sooner to ensure that the workflow works? for CMS we could start pushing fairly quickly (by removing for just COVID)
+    * A: could do it as facilities go "live" (3 have completed recently); could try to match the cutover process; but no customer until we have all the facilities because the facility locator will most likely wait until every facility comes online
+    * Eventually want to deprecate "Access to Care" and just use facilitiy health services
+    * Dave: let's revisit in Q4 2021 to sync CMS and LH roadmaps/priorities
+    * LH may want to wait until a current initiative is completed
+    * **ACTION ITEM: LH will need a list of name strings to be sent in order to map service name to internal service name; CMS will need to iron out naming convention in order to send** (also research what's the right path for the data)
 * CAPs
-  * endpoint details (sending all data always)
+  * Endpoint details (sending all data always)
+  * Whatever pattern we land on we may want to consider for VBA data when CMS is the source of truth for facility data
+  * VC rollout is being slowed down to ~75 VCs by end of August 2021, the rest towards the end of the year, which buys some more time for CAP data
+* What happens when a new facility/system gets created?
+  * Currently the CMS doesn't assign a VISN, will need to be manually assigned
+  * This is because there is no source for that info
+
 
 ## Monday June 28, 2021
 * How LH's API should get data for CMS health services
