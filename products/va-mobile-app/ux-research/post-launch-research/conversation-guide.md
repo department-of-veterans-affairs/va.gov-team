@@ -5,16 +5,16 @@ Ensure these things are done before bringing the veteran in the room.
 
 ## In person
 
-- Wifi on with no connection issues
-- Computer ready (hybrid) and turned on with zoom
+- [ ] Wifi on with no connection issues
+- [ ] Computer ready (hybrid) and turned on with zoom
 
 ## Hybrid/Remote
 
-- Notifications off
-- Use headphones (prevents SR from echoing back to participant)
-- Enable screen sharing by anyone in Zoom
-- Enable Live Transcript feature in Zoom
-- Manage waiting room feature in Zoom
+- [ ] Notifications off
+- [ ] Use headphones (prevents SR from echoing back to participant)
+- [ ] Enable screen sharing by anyone in Zoom
+- [ ] Enable Live Transcript feature in Zoom
+- [ ] Manage waiting room feature in Zoom
 
 # Introduction
 
