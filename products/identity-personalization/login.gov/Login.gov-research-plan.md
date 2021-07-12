@@ -55,9 +55,6 @@ Please list your participant criteria in two categories-
   - At least one person under the age of 30, and at least one person over the age of 55
   - At least one non-veteran (i.e: dependent or beneficiary)
   - At least one person with a disability rating of 70% or greater
-  - At least one participant has identified cognitive impairments and/or functional disabilities. 
-  - At least one person who uses assistive technology (AT)
-   >(Screen reader, specialized keyboards, switches, and hearing aids) 
   - At least two women
   - At least two people persons of color (POC)
   - At least one person that does not have a college degree 
@@ -69,14 +66,15 @@ What is your recruitment strategy?
 
 ## When? 	
 1. Timeline: What dates do you plan to do research? 
-  - July 7th: 11:00am - 3:30pm, 5:00-8pm EST
-  - July 8th: 11:00am - 3:30pm, 5:00-8pm EST
+  - July 27th: 11:00am - 3:30pm, 5:00-8pm EST
+  - July 28th: 11:00am - 2:30pm, 5:00-8pm EST
+  - July 29th: 11:00am - 3:30pm, 5:00-8pm EST
 2. Prepare: When will the thing you are testing be ready? 
-  - June 28th- testing both live (VA.gov) site and mocks will be ready to test
+  - July 23rd- Interveiwing participants on both live (VA.gov) site and mockups
 3. Length of Sessions: 
   - 60 mins, with 15 mins in between each session 
 4. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
-  - July 6th, 3:30pm EST
+  - July 26th, 3:30pm EST
     -  Naomi Marcussen
     - Christine Dillman
 ## Team Roles	
