@@ -60,7 +60,7 @@ _This is a component that was tested as part of the experimental design system_
 
 > "I think that's a really good idea because in my own case I used a VA in \[state\] and I've used the \[state\] VA and at one point I had copays from both facilities. To be able to see all of those on one page would be really helpful." - P2
 
-"I would hope they'd be shown in one location. I would pay that one location." - P9 
+> "I would hope they'd be shown in one location. I would pay that one location." - P9 
 
 **Some Veterans experienced difficulties interacting with the 'balance details' page**
 
