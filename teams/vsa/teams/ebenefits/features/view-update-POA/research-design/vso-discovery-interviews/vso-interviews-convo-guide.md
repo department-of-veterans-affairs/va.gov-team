@@ -1,7 +1,7 @@
-# Veterans Service Officer (VSO) discovery interviews conversation guide
+# Veterans Service Organization (VSO) representative discovery interviews conversation guide
 **VSA eBenefits Team | July 2021**
 
-`James Adams, designer` | `Candy Clark, designer`
+`Candy Clark, researcher`
 
 ---
 
