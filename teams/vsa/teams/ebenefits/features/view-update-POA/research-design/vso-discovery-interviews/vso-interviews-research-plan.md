@@ -1,7 +1,7 @@
-# Veterans Service Organization (VSO) discovery interviews research plan
+# Veterans Service Organization (VSO) representative discovery interviews research plan
 **VSA eBenefits Team | July 2021**
 
-`James Adams, designer` | `Candy Clark, designer`
+`Candy Clark, researcher`
 
 ---
 #### Questions
