@@ -19,7 +19,7 @@ These changes impact all of profile since the layout is shared across all sectio
 
 ### Button layout and updated labels
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-mobile-remove-button-update.png" width="320" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-mobile-remove-button-update.jpg" width="320" />
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-desktop-remove-button-update.png)
 
