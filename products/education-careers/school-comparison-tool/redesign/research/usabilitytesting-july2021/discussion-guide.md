@@ -86,17 +86,18 @@ You've noticed that the GI Bill won't fully cover the tuition at **University of
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of discovering what financial assistance is offered by University of Notre Dame?
 - If you finished researching University of Notre Dame and thought the school was the right fit for you, what would be your next step?
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Compare Religious Schools - 10 minutes
 
-- Step 1
-- Step 2
+- You're interested in taking a few classes on religion and you're curious what schools in the **Notre Dame** area might have a religious affiliation.  You know that **University of Notre Dame** is a Roman Catholic institution.  How would you use the Comparison Tool to find schools in **Notre Dame, IN** that have a religious affiliation and see how they compare against **University of Notre Dame**?  
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Where on the tool does the user go to find religious schools?
+- Does the user see/say anything about the religious affilation in the header?
 
+### Upon task completion:
+- How do you think that went?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of comparing schools with religious affiliations?
 
 ## Thank-You and Closing - X minutes
 
