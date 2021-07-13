@@ -3,17 +3,22 @@
 
 
 ## Description
-- Typeahead has successfully be added to the global search header where users are able to benefit from suggestions that align to the queries that they conduct. However this feature is only associated with the search input field in the header and not available in other locations such as the search results page, a search landing page, etc.  
+- Typeahead has successfully be added to the global search header where users are able to benefit from suggestions that align to the queries that they conduct. However this feature is only associated with the search input field in the header and not available in other locations such as the search results page, a search landing page, etc.  This initiative is focused on establishing a drop down component which can be leveraged in multiple locations as described below. 
 
 
 **Related product(s)**
 - Typeahead | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/typeahead/product-outline.md) 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* typeahead is only available to users in the global header
+* dropdown implementation limits our ability to resolve accessibility feedback to address user needs
+
+## Benefits
+_Establishing a drop down comonent for typeahead will:_
+* ensure we are not reliant on third party components such as downshift which limits our ability to address accessibility needs
+* enable more complex rendering of acronymns
+* facilitate universal typeahead for other search tools and locations across va.gov
+*  
 
 <!--
 ## Desired User Outcomes
