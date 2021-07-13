@@ -28,5 +28,6 @@ Example locations:
   - John D. Dingell VA Medical Center
     - [Legacy site page](https://www.detroit.va.gov/services/MH_DRRTP.asp)
 - **Tampa, FL**
-  - [VA system page](https://www.va.gov/tampa-health-care/locations/tampa-va-domiciliary/)
-  - [Legacy site page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
+  - James A. Haley Veterans’ Hospital
+    - [VA system page](https://www.va.gov/tampa-health-care/locations/tampa-va-domiciliary/)
+    - [Legacy site page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
