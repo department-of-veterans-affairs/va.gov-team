@@ -1,4 +1,4 @@
-# User Research README
+# Facility Locator User Research README
 
 ## Research Summary
 |	Research title	|	Date	|	Research objectives	|	Link to findings	|
