@@ -21,7 +21,7 @@
  </details>
  
  > 💡 Helpful guidance/tips
- 
+
 ---
 
 ## Outcome Summary
