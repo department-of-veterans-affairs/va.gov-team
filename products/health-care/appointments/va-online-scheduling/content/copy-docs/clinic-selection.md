@@ -8,7 +8,7 @@
 
 (H1) Choose a VA clinic
 
-In the last 24 months you’ve had {a/an} {type of care} appointment at the following {facility name} clinics:
+In the last {number} months you’ve had {a/an} {type of care} appointment at the following {facility name} clinics:
 
 Choose a clinic below or request a different clinic for this appointment. (*Required)
 
