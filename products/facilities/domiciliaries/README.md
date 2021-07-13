@@ -22,3 +22,6 @@ Example locations:
   - Minnesota Veterans Home Domiciliary Program
     - [Minnesota Veterans Home - Minneapolis](https://mn.gov/mdva/homes/minneapolis/)
     - [Program brochure](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
+- **Detroit, MI**
+  - John D. Dingell VA Medical Center
+    - [Legacy site page](https://www.detroit.va.gov/services/MH_DRRTP.asp)
