@@ -1,4 +1,4 @@
-# Certificate of eligibility (COE) discovery interviews readout 
+# Certificate of eligibility (COE) usability testing readout 
 **Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
 
 James Adams ([email](mailto:jadams@governmentcio.com)), Candy Clark ([email](mailto:cclark@governmentcio.com)), 06/29/21
