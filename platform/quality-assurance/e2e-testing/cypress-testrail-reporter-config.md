@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/test-release/Cypress-to-TestRail-Reporter-Plugin-Configuration.1738047581.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Cypress to TestRail Reporter Plugin Configuration
 
 In order to begin writing your execution records from your Cypress e2e teests into related test cases in TestRail you will need the following configurations --
