@@ -24,34 +24,45 @@
 ---
 
 ## Outcome Summary
-> *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
-
-* .
+> Insure content on the Discharge Upgrade Wizard is current and accurate
 
 **Related product(s)**
-> *Identify VA.gov product(s) this initiative is associated with.*
+> Discharge Upgrade Wizard
 
 - Product | Link to product outline 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
+* What is the problem and who is affected? And, what evidence do we have of the problem? 
+   -  There is information on the Discharge Upgrade Wizard that is outdated and incorrect.  Since its initial launch, each branch of the military has created portals for review boards and records correction.  We were provided a list of updates to consider by Margarete Ashmore at DoD, along with links to those portals.
+* Why do you think the problem is occurring? Other reasons why this might be occurring?  
+   - The problem is occuring because the tool was launched several years ago and has not received any further updates.  It was recently reviewed by DoD prior to the launch of a campaign landing page to conicide with Pride Month 2021, and found to have outdated information.
 * How does this initiative help further OCTO-DE's mission and goals?
+   - It provides information that may allow a Veteran to request a discharge upgrade and possibly qualify for benefits they previously earned, but were ineligible for due to their discharge status.
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+  - A veteran who received a less-than-honorable discharge under certain circumstances may qualify to have their discharge upgraded.
+  - An upgrade discharge may allow them to qualify for benefits they previously did not.
+  - Veterans may also want to correct/update their records to include pertinent information that was not originally part of their discharge record.
 
 ## Undesired User Outcomes
+ - The process for requesting an upgrade is unclear
+ - The process for requesting an upgrade is more cumbersome than before
+ - Veterans are given the impression that anyone who requests an upgrade will receive one
+ - Veterans are given the impression that anyone who receives an upgrade automatically is eligible for benefits
+
 ## Desired Business Outcomes
+ - Veterans who qualify for an upgrade are able to complete those requests online
+ - Veterans requesting upgrades provide all of the documentation required when submitting a request
 
 - *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+ - The desire is that Veterans will visit the portals that the military branches have built solely for this purpose
+ - Military branches have updated discharge upgrade information so that Veterans have the most current information
+ - Some portals enable Veterans to upload their requests online, reducing errors and processing time
 
 ## Undesired Business Outcomes
--->
+- Fewer Veterans submit requests because the process is too difficult
+- Veterans don't submit complete/accurate information
 
 ---
 ## Measuring Success
@@ -60,9 +71,10 @@
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
----
+|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
+| -- | -- | -- | -- |
+| Conversion rate | -- | -- | -- |
+| -- | -- | -- | -- |
 
 ## Discovery
 ### Assumptions/Risks
@@ -70,13 +82,16 @@
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The new military portals are in various states, ranging from very poor user experience to a satisfactory user experience.  The risk is that a poor experience provided by the military portal will reflect poorly on VA.gov and the Discharge Upgrade Wizard.
+
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - The original MVP wizard was straightforward and provided clear instructions.  The changes we've been asked to make will direct users to a portal after they've completed the questions, rather than simply instructing them to complete certain forms.  Some of those portal provide very little clear information, and some ask almost the same exact series of questions, which may confuse users and cause them to abandon the process. 
+  - 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - This is technically feasible
+ 
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - .
+  - There could be a negative impact if users don't have a positive experience once they leave the Discharge Upgrade Wizard.
 
 ### Hypotheses & Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
@@ -121,9 +136,9 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
+- Team Name: Decision Tools 
+- GitHub Label(s): vsa-decision-tools
+- Slack channel: #vsa-decision-tools
 - Product POCs:
 
 </details>
@@ -134,8 +149,10 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OPIA
+- Contact(s): Kayla Williams, John Santos
+- Office/Department: DoD
+- Contact(s): Margarete Ashmore
  
 </details>
 
