@@ -2,7 +2,7 @@
 
 Domiciliaries are "shelters" providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence. VA Domiciliaries are VA health facilities which are included as locations under the relevant VAMC. They don't fit the facility pattern established by the VAMC facility detail pages as they include minimal services, such as "extended care" (or none at all). The information that Veterans need for these types of facilities may be different than that which is expected for medical clinics.
 
-Example locations:
+### Example locations:
 - **Philadelphia, PA**
   - [VA system page](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)(No services listed)
   - [Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center](https://www.va.gov/philadelphia-health-care/locations/corporal-michael-j-crescenz-department-of-veterans-affairs/)
