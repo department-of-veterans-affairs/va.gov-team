@@ -25,7 +25,7 @@ Domiciliaries are "shelters" providing services to homeless Veterans (or to retu
 - **Detroit, MI**
   - Detroit VA Domiciliary
     - [Facility locator page](https://www.va.gov/find-locations/facility/vha_553BU)
-  - John D. Dingell VA Medical Center
+  - John D. Dingell VA Medical Center (Domiciliary Residential Rehabilitation Treatment Program)
     - [Legacy site page](https://www.detroit.va.gov/services/MH_DRRTP.asp)
 - **Tampa, FL**
   - James A. Haley Veterans’ Hospital
