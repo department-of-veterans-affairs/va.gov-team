@@ -30,4 +30,5 @@ Example locations:
 - **Tampa, FL**
   - James A. Haley Veterans’ Hospital
     - [VA system page](https://www.va.gov/tampa-health-care/locations/tampa-va-domiciliary/)
+      - Services listed under "Homeless Veteran Care"
     - [Legacy site page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
