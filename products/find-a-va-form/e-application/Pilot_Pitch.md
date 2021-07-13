@@ -134,6 +134,12 @@ An e-Signature solution should provide the following benefits:
         - Have difficulty locating a file once they have downloaded to their local device or computer
         - Use a screen reader due to low vision or blindness
         - Have suffered a traumatic brain injury or have other mental health conditions affecting their congnitive abilities
+- Resources related to different ways DocuSign is able to help the Government and Public Sector: 
+  - https://www.docusign.com/solutions/industries/government
+  - https://www.docusign.com/solutions/industries/government/federal
+  - https://www.docusign.com/sites/default/files/docusign-for-federal-government_industry-brief.pdf
+  - https://support.docusign.com/en/articles/FedRamp-FAQ
+
 * Who do we needs to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
     - OMB Personnel to better understand the overall form creation/approval/modification process
     - VA Forms leadership to better understand the end-to-end workflow from form design to the processing of submitted forms
