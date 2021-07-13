@@ -68,7 +68,7 @@ _This is a component that was tested as part of the experimental design system_
   * Veterans often looked for the due date around the charges and payments table; however, that information was at the top of the screen
 * Most understood the facility's balance amount 
   * 1 participant was unsure and calculated the balance based on the table; they stated the balance was $360 instead of $300
-* Most found the due date, however multiple were unsure what amount was due by that due date 
+* Multiple were unsure what amount was due by that due date 
 
 > "Uh, let's see here. (Scrolls down, scrolls back up) I wouldn't think you'd have to pay all of it in full. Well, if you can't pay it in full then you'd probably have to call to see if you could make a payment plan." - P4
 
