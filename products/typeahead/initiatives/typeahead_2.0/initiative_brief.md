@@ -11,14 +11,14 @@
 
 ## Problem
 * typeahead is only available to users in the global header
-* dropdown implementation limits our ability to resolve accessibility feedback to address user needs
+* DownShift implementation limits our ability to resolve accessibility feedback to address user needs and still meet analytics requirements
 
 ## Benefits
 _Establishing a drop down comonent for typeahead will:_
 * ensure we are not reliant on third party components such as downshift which limits our ability to address accessibility needs
 * enable more complex rendering of acronymns
 * facilitate universal typeahead for other search tools and locations across va.gov
-*  
+* more bespoke analytics tagging capabilities / no sacrifice to accessibility "nice to haves" to meet analytics requirements
 
 <!--
 ## Desired User Outcomes
