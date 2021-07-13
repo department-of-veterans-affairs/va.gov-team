@@ -56,5 +56,6 @@ June 30, 2021
 - Does showing the number of new alerts provide enough context to help veterans decide whether or not they want to see the alerts?
 - Do users even want to see the number of new alerts, or is just knowing they have new alerts enough?
 - Do we need to include new/viewed badges on notifications? If a user has recieved a text about an alert, and opens it and then goes to alerts in VA.gov and it isn't shown as 'viewed', is that okay?
+- Do users need to see all the alerts they've ever had? 
 
 
