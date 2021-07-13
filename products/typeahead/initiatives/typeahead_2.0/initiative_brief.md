@@ -51,11 +51,11 @@ _Establishing a drop down comonent for typeahead will:_
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Many teams are already using various implementations of a dropdown component. Creating a universal component would see immediate use on multiple pages, even if you don't count the 2 pages we are planning to implement it on.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Our analytics has shown that people can and will use it, and with great success.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - Our proposed implementation is entirely possible using native HTML elements.
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
   - .
 
