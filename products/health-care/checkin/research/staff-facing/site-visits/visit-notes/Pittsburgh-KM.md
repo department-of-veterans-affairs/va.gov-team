@@ -1,0 +1,534 @@
+# Key Takeaways
+- At the University Drive location, patient tracking is done via a manual paper process for many of the departments. They rely on the automatic paper printing feature of VetLink when a Veteran is checked in as a signal to the LPNs that they can get a patient and bring them back to the room. They only use VSE GUI for scheduling. Behavioral Health and Primary Care are the only departments to utilize digital patient tracking within VetLink. There was also a lot of patient tracking communications done between the MSAs and LPNs/providers via Teams.
+- At the Heinz location, patient tracking is mostly done through Teams messages or the provider just periodically coming out to the waiting room to check.
+- University Drive has a centralized pre-registration process, where Veterans stops at the registration/eligibility office in the main lobby to “check-in.” This is where a Veteran’s demographics, insurance, emergency contact, and MEANs form updates are checked. Health Benefits Administrators are the individuals doing this “check-in.” They will change the status of “check-in” in VetLink. However, a lot of Veterans skip this central registration step and go directly to the clinics. Since COVID, the clinics aren’t making the Veterans go back to central registration. The MSAs at the clinic (which report up to the clinics themselves and not HAS) have started to do more and more check-ins. Most of the clinics require the Veteran to “check-in” at the clinic as well, so the Veterans check-in twice if they do go to pre-registration. 
+- The physical layout of the check-in area has a great impact on the check-in experience.
+- Insurance capture is a key metric for the check-in process. VHA Directive 1910 dictates that facility must hit a 90% insurance capture rate; otherwise, they must create an action plan on how to improve insurance capture.
+- MSA did have numerous applications up on their 2 computer monitors at once.
+- Most departments ask last name and last 4 of SSN to start the check-in process.
+  - Exceptions were:
+    - Lab at University Drive asked for full name and full SSN
+    - Pharmacy and radiology didn’t ask anything. The process started with taking a ticket using the Q-Matic system.
+- Cell reception and Wifi access isn’t great at University Drive. It is particularly bad within the Behavioral Health and Radiology departments. There were also signs at both the Heinz and University Drive locations asking Veterans to not utilize their cell phones in the building. One sign said that it could interfere with equipment within the building. Heinz only has good coverage if you have Verizon.
+- VeText is utilized at both locations, but particularly Heinz.
+- A lot of eligibility questions require Dental MSAs to complete detective work in VistA or send the Veterans to the eligibility office to figure it out first. 
+- The Q-Matic system (mostly used for walk-in) has auditory and visual indicators for when the office is ready to see the patient. Some other departments and systems do not have both visual and auditory indicators. 
+
+
+# Departments Visited
+## University Drive
+- Pre-registration and Eligibility
+- HAS Administration
+- Imaging
+- Surgery
+- Medicine
+- Primary Care
+- Behavioral Health
+- Pharmacy
+- Lab (Blood Draw)
+
+## Heinz
+- Dental
+- Primary Care
+- Rehab
+- VetLink Administrator (for both facilities)
+
+# July 8: University Drive
+
+## Pre-registration and Eligibility
+- Three kiosks are currently in use for travel pay only .
+- There are 11 check-in counters located in the main lobby. These windows are staffed by Health Benefit Administrators (HBA). A Greeter (also an HBA…they rotate into the Greeter role) stands in the hallway and answers questions, directs people, and helps keep the pre-registration window lines balanced.
+- We talked to an administrator/department head and 2 HBAs.
+- Each HBAs workstation had 2 monitors.
+- MSAs, who are front-line at the clinics, report to service lines and not HAS.
+- Enrollment/Eligibility/Demographics are the responsibly of this area. Headed by Jeston Robinson.
+- Pre-check-in is called pre-registration.
+- They have a metric that they must hit: 90% insurance capture. It is based upon VHA Directive 1910. Otherwise, they must create an action plan.
+- The number of demographic updates initially went up when the kiosks were first turned off. Veterans were still required to go to pre-registration during this time period.
+- Within the last few months, they have changed their process, so Veterans don’t have to come to central pre-registration to check-in anymore. They can go to the clinic first. They used to be sent back to central pre-registration if they went to the clinic first. With the change, the facility hasn’t been hitting their 90% insurance capture rates.
+- Order of questions that they ask a Veteran when they come to the pre-registration/eligibility window:
+  - Last name (some handed over their VHIC card instead)
+  - Last 4 of SSN
+    - I observed 7 patients come to the desk in short time that I was with the HBA. One Veteran automatically told the HBA their SSN without being asked.
+  - Verified address, phone, and emergency contact
+  - Verify insurance if needed
+  - If MEANS questionnaire was due, then asked if they wanted to complete it or take a paper form/instruction sheet with them
+  - Then, they answer way finding/directions questions.
+  - At the end of this pre-registration process, the Veteran is “checked in” in the system.
+  - The questions at pre-registration don’t change at all for same day surgery.
+- These HBAs had Vista and Insurance open on their computer screens.
+- They can see the location of all the appointments the Veteran has scheduled (even ones not for today).
+  - They can see some labs (as long as they are scheduled).
+- Other tasks the HBAs complete:
+  - print out appointment lists for Veterans. 
+  - co-pay waivers. 
+  - help with disability benefits.
+  - VHIC card processing.
+- HBAs will call the department if the Veteran is 15-20 minutes for the appointment.
+- Stated that blind Veterans normally have someone with them to help. They have also had Veterans who couldn’t speak write down everything.
+
+## Imaging
+- 6 counters (2 were for check-in only and 4 were for scheduling/check-in)
+- We talked to the supervisor and 3 MSAs.
+- MSA workstation has 2 monitors.
+- 1 Q-MATIC kiosk being utilized
+  - Q-MATIC handles both walk-in and scheduled appointment
+  - If you hit either the walk-in or scheduled button, you get a ticket printed out with a number on it. Appointments have A in front of the number.
+  - Numbers were displayed on a board in the waiting area and verbally announced over a speaker.
+    - They have control over the volume in the waiting room.
+  - Veterans comes up to MSA. 
+  - MSA asks for:
+    - last name and last 4 of SNN. 
+    - They verify what they are here for. 
+    - They verify insurance. 
+    - Then, the MSA checks that an order exists against the national radiology guidance. 
+      - If an order is missing, they most often wait a little bit before calling the department (they aren’t really allowed to call), because the order may have just not shown up yet in the system.
+    - The MSA also checks their eligibility. 
+      - If they aren’t service connected, they will tell them to go to eligibility first.
+- People miss the kiosk and walk right by it all the time.
+- MSA prints paper orders and wristbands for each patient before the day gets started. 
+  - Every Veteran is given a wristband upon checking in for scheduled imaging.
+  - For CT, the patients take the paperwork/printed orders with them to the CT waiting area.
+    - The techs monitor the cameras in the waiting room to see when someone is waiting.
+    - Waiting room contains about 12 chairs (it was half full at the time of our observations).
+  - For fluoro and dexa, the tech gets a print out directly to their area printer when the patient checks-in.
+    - The techs pull the paper off the printer, then go get the patient.
+  - For MRI, the MSA calls the MRI area on the phone.
+  - For interventional radiology, the MSA calls the tech.
+  - Nuclear (PET and radiation) have their own check-in.
+- MSAs have the following software up on their 2 computer monitors:
+  - VistA
+  - Q-MATIC
+  - Teams
+  - VeText
+  - GUI
+    - GUI can’t schedule out as far as they need sometimes, so they just schedule in VistA.
+  - CPRS
+  - Email
+  - In PET, they will also have MOSAIC open.
+- Wifi and cell reception are bad in the radiology areas due to the special material in the walls to stop radiation.
+- Q-MATIC capabilities
+  - shows the wait time on their staff-facing interface.
+  - Can transfer walk-ins to scheduled appointments
+- They don’t no show patients until the end of the day, except for MRI. MRI will no show a patients 20 minutes past their appointment time.
+- They do utilize “I am here,” but they have had people not get the texts message that they sent to let them know they can come in.
+  - They also received an “I am here” message from a Veteran who was actually located in Philadelphia.
+
+## Surgery
+- Used to have kiosks, but they took all the machines away due to COVID
+- Talked to MSA Supervisor, MSA at the front desk, and MSA who deals with the paperwork in the back after check-in. Area had a lot of counters available for check-in.
+- Each MSA workstation had 2 monitors.
+- MSAs utilize VetLink and GUI
+  - GUI can check-in, but the paperwork won’t print out. Therefore, they rely on VetLink to check-in and GUI to schedule appointments.
+- Check-in process
+  - Last name or VHIC Card, then last 4 of SSN
+  - Verified what clinic they were their to see
+  - No mentioned of insurance or demographics check
+  - After check-in, the paperwork prints in the back where another MSA sits.
+  - There is only one waiting room for surgery.
+  - The MSA in the back monitors the status of the appointments in VetLink and makes sure that all the appropriate paperwork prints.
+  - The MSA in the back takes the prep and check-in paperwork and puts it in a file.
+  - The nurse grabs the paperwork from the file, then gets the patient.
+  - If VetLink is down, then they use GUI for check-in and call the MSA in the back to manually print all the papers.
+- MSAs prep for each day by printing the list of clinics in the area, four labels for each patient, and notes.
+- The MSA in the back will cross check the paperwork printed after check-in with the overall appointment list.
+  - If someone’s name isn’t there (happens very infrequently) they will uncheck them in, then check-in again to get the paperwork to print.
+    - This happened more with the kiosk system.
+- MSAs ideas for improvements
+  - Get away from printing notes and paperwork. Go paperless.
+    - Reason given for not already going paperless: some of the necessary people don’t have access to the system.
+- Patient check out process
+  - Asks for last name
+  - Checks on the doctor’s notes and orders. Must have an order to reschedule.
+  - Brings up schedule in GUI and finds a follow-up.next appointment time.
+  - Writes appointment card 
+  - When the provider completes their notes and clicks, then the appointment status changes to checkout.
+- Another benefit to GUI mentioned was the they can get rid of unnecessary orders.
+- Rarely paperwork gets misplaced/forgotten and the patient doesn’t get called back
+- They stated that a lot of patients come very early for surgery clinic appointments, so they sometimes leave the area. When they called the Veteran, they can’t find them. As a result, they page/check the bathroom. If necessary, they have called the Veteran’s cell phone to find them.
+- Each provider decides what is too late to arrive for an appointment, but generally 20 minutes is too late. Some providers will have the Veteran reschedule for a later day/time after 20 minutes.
+- During observations, a Veteran wanted to schedule a follow-up appointment. The MSA used GUI to find a time for the Veteran. The MSA scheduled the time and linked the order. Then, the Veteran asked about the availability on another day. The MSA had to go into the VistA reflection workspace to look up provider schedules, because the order was already scheduled.
+- MSA pain points with VetLink system:
+  - When rotating clinics/moving to a new clinic, it isn’t intuitive on how to add the clinic to their view or set up a new clinic.
+  - Moving a clinic is an issue. Sometimes paperwork doesn’t print in the right area after a move.
+  - Queue filters don’t save.
+  - Would have liked more training on how to change profiles.
+  - Have to email eligibility for address updates. Would like to be able to do that themself and have it seen in all systems. ICB - is where they do address updates.
+- MSA overview of VetLink
+  - “The system is nice overall.” This work used to be all manual, so it is helpful. It provides a nice audit trail.
+
+## Medicine
+- We talked to two supervisors, a triage nurse, and observed an MSA’s workstation
+- MSA had the following up on their 2 computer monitors:
+  - CPRS
+  - VetLink
+  - VCM
+  - GUI
+  - VistA (sometimes)
+- 2 kiosks were still in the area, but they were turned off.
+- Printing paperwork after checking in with VetLink is very important to this department. Particularly, med req and the info on the cover page are very important to the providers.
+  - They don’t use GUI, because it doesn’t print paperwork.
+  - Triage nurses currently wouldn’t know a patient was here without the paperwork.
+  - Ultimately, they said the push back on going paperless has come from the physicians.
+    - Believes a mandate to go paperless would be the only way it would happen.
+    - Also, a lot of their providers don’t have access to VetLink.
+- Check-in process in this department ends with a ticket and # (even though these are all scheduled appointments). The MSA hands the ticket to the Veterans (kiosks used to print the numbers). The numbers are displayed on a screen in waiting room.
+- This department had a work study done. Spaghetti Model by Human Factors Group - Brianna Scott, Olivia Awad, and Katie Braun (Systems Redesign Specialist)
+  - Kristen McConnell has a copy of it.
+  - It found that triage nurses are currently walking back and forth a lot to the waiting room. 
+  - Physical layout changes to the department would probably be beneficial to making everything run smoother 
+    - There was a proposal to move the triage nurses/combining triage and check-in.
+    - Moving kiosks away from elevators, because they cause a back-up.
+  - Another proposal from departmental members was to do away with calling the patient twice
+    - They are currently called back once to get Vitals, then sent back to the waiting room to be called again for their appointment.
+- Veteran pain point with check-in in this department:
+  - Veterans can’t hear in the waiting room, so the verbal calls for their appointment are sometimes missed
+  - There aren’t enough TVs in the waiting area, so not all Veterans can see when they are called.
+  - Veterans also get confused by the East and West breakdown of where appointments are in this area.
+  - Some Veterans are confused why they got a ticket with a number on it.
+- They have also had some problems with patients coming into the facility for virtual appointments.
+- This was the first group to mention that the facility got new way finding signage about 6 months ago. Apparently, it has really helped.
+- Staff mentioned that they would have liked more training on the VetLink system. Also, clinic setup has been a pain point.
+- The department had a lot of trouble with the kiosks not totally checking someone in. 
+  - Sometimes the papers wouldn’t print and the system doesn’t notify them that something went wrong.
+  - Easy to miss with a notification when you have 200 patients a day.
+
+## Primary Care
+- Talked to MSA Supervisor and 2 MSAs
+- Each MSA had the following on their 2 computer monitors
+  - CPRS
+  - VetLink
+  - GUI
+    - Only used to schedule, because there is no paper print out and they can’t undo check-in.
+  - IBC
+  - Teams
+  - AVS
+- They heavily utilize Teams to communicate with Nurses (ask questions, let them know patients are here, etc)
+  - If necessary, the MSAs will call nursing on their pickle phones
+- However, LPNs get alerts in/monitor VetLink to know when patients arrive. 
+- Questions asked a check-in
+  - Name
+  - Last 4 of SSN
+  - How can I help you?
+  - Insurance review if needed
+- Once a patient is checked in, the MSAs do print out the paperwork at a printer in their area. The papers are placed within a folder structure. When the LPNs come out to get the patients, they stop and pick up the paperwork in the check-in area. However, the trigger to know a patient has arrived is mostly digital in this department.
+  - The MSAs do walk the printout over to the PharmD and Dietitian.
+- VeText is still used in this department. A couple of the staff monitor the system
+  - They report that it has worked well.
+- They do review alerts about checking insurance. However, they can’t fix any insurance changes. They have to send them to Pre-registration.
+- They said a lot of Veterans come to primary care for anything even if what they really need isn’t primary care, so the MSAs give a lot of directions.
+- As part of their normal check-in process, MSAs check notes, orders and labs in CPRS to make sure that labs are completed before the appointment.
+- If the system goes down, MSAs will write the encounter down by hand and enter it into the system later.
+- They have AVS. The MSAs print out copies from AVS for the Veteran at the end of the appointment.
+  - They say the AVS system is very slow.
+- MSA Supervisor print out a list of who is coming in for appointments each day. A copy is kept in the MSA area, in case the system goes down. An LPN also takes a copy for the doc to review at the beginning of the day. The MSA supervisor also makes labels for all patients for the day.
+- The majority of patients who are “late” as defined by 20 minutes past their appointment time will be seen that day if they wait around. Providers try to squeeze them in.
+- Common Veteran complaints according to MSAs
+  - Wait times
+  - Pain meds needing refilled
+- How would MSAs improve the check-in process?
+  - Would make GUI faster and add the ability to connect consults
+  - Add paper print out capabilities to GUI.
+  - Change the flow/layout of the area. Veterans and staff can’t hear at the counters due to the plexiglass and noisy hallway.
+- Check out process 
+  - Receive a RTC (Return to Clinic) order in the system
+  - Schedule new appointment
+  - Can checkout at the main MSA area or check out closer to the patient rooms. Some MSAs sit closer to the room to aid checkouts. Other medical professional (forget what role they mentioned) also help with check outs.
+- Other MSA responsibilities in this department:
+  - Cancel appointments if doc calls off
+    - Supervisor uses VistA for this, because they can cancel everything at once.
+  - Cancel appointment if patient calls and requests it to be canceled
+    - Sometimes mark a not why in GUI
+
+## Behavioral Health
+- Talked to supervisor, and 3 MSAs
+- Kiosks are turned off due to COVID, but they were placed in the hallway outside of the waiting rooms and MSA check-in areas.
+  - Prior to COVID, 90% of check-ins were via the kiosk. They have around 200 visits per day.
+- Patient tracking is mostly done via VetLink. The provider gets an audible ding that a patient has checked in. Having the ding on is a requirement in this department.
+  - However, paper print out are important for walk-in appointment. It is just scheduled appointment that have digital patient tracking.
+  - There is some Teams messaging between the MSAs and providers.
+  - Veterans also have to fill out a short questionnaire for walk-in clinic appointments. If they select yes to the suicidal question, the MSA quickly calls the back and just says “we have a Veteran who answered yes to the question.”
+- Check-in during virtual appointments (because a lot of the appointments have gone virtual)
+  - The Veteran meets with the provider first. Towards the end of the appointment, the providers Team messages (or more rarely emails) the MSA assigned to virtual appointments for the day that they can join the virtual appointment.
+  - The MSA asks all the normal questions via video.
+    - This MSA has the following programs on their 2 computer screens:
+      - Consult tracking manager
+      - GUI
+        - MSA always has caps lock on when using GUI
+        - MSAs always have at least 2 instances of GUI open at once.
+      - VCM
+      - ICB
+  - Things to consider with this workflow:
+    - Privacy is key, since the MSA is joining by camera. Currently, the virtual MSA takes calls in a waiting room that isn’t utilized for in-person appointments, but they will need to adapt as in-person appointments increase.
+- In-person check in process
+  - Asks for last name and last four. One MSA also asks for DOB to help differentiate between common last names.
+  - They do review who needs their insurance checked, but the MSAs would like insurance more linked to the check-in process, because “you can miss it.”
+  - They say that VetLink times out too much for the doctors, because they don’t check it enough.
+- Sometimes they make notes or actions in VetLink
+    - For the substance abuse clinic, Veterans need to give urine samples - if they have trouble with that MSAs will mark that in the notes.
+    - They might also mark that they know the Veteran left for a bit to get a coffee/drink, etc.
+- MSA states that they can update demographics (phone and email), but not address, because they need documentation. However, the MSA next to them turns to them and shows them how to update address, so it seems to be more about ones understanding of the system capabilities, than actual procedural rules?
+  - They can also update emergency contact and next of kin.
+  - But for virtual appointments, they only actually ask to verify emails. Other updates are at the request of the Veteran.
+- VetLink feedback from MSAs
+  - Clinic management is hard
+    - Don’t have all the clinics/when new clinics are made that is hard to add.
+  - Understanding if a Veteran is actually ineligible 
+    - If a Veteran goes to pre-registration first, sometimes the Medicaid question causes them to be marked as ineligible when they are actually in an “in-process” status.
+      - The MSA in this area used to be an enrollment specialist. They said that addition of that one status to VetLink would help clarify a lot of eligibility questions, so they wouldn’t have to call the eligibility department as much.
+      - Calling eligibility results in documentation in the system that the MSA did call.
+  - The system doesn’t give you a warning when it shuts down (like the other systems do).
+- There is a 20 minute grace period for all appointments, then the Veteran is considered late.
+  - Doctors will still call the Veteran if they are late/miss an appointment to make sure that they are ok.They will ask them to reschedule or come to see them
+  - They have to contact the Veterans via three phone calls and send a letter.
+- MSA supervisor prepares the list of appointments for the day. They send it via email the night before or the morning of.
+- There are signs in the waiting room that “if you are waiting more than 15 minutes, see us.” 
+- Kiosk feedback
+  - Loved being able to update your own information
+  - Some Veterans would leave their card in the kiosks
+  - Wanted kiosks in the check-in areas too instead of the hallway
+  - Sun glare was a problem with the kiosk (Veterans couldn’t see the screen).
+- Sometimes they do the demographic review on check out when the patient is scheduling their next appointment.
+- Supervisor would love for the new system to help with the metric of knowing when the Veteran is taken back by the provider, so they can know how long the Veteran is waiting in the waiting room.
+- They have looked into a system similar to the restaurant discs for their same day access clinic, so Veterans would know when it was their turn.
+  - For queuing, notifications would be good.
+- Data points of importance
+  - Checking in late/early
+  - How long do they wait
+  - No shows/cancellations
+  - Insurance - “if this was all in one system that would be great.”
+- Wifi/cell reception is non-existent in this department. They said “this was why VetLink was great.”
+- The department has to let HAS know when a new provider starts to update clinics.
+  - One provider can have up to 12 - 15 clinics.
+- ICB - new clinic are manually added
+
+# July 9: Heinz and University Drive
+## Dental - Heinz
+- Talked to 3 MSAs and an MSA supervisor
+- There was one big check-in counter with three computer areas (each station had two monitors) for the MSAs.
+- Check out is only needed if they Veteran needs to reschedule, but most do have to schedule their next appointment.
+  - Some of the dental assistants have scheduling keys, so some Veterans don’t have to come to the front desk for check out. It is a perk of their set up. The assistant can set up their next appointment while the dentist is checking out their teeth.
+- They print out a daily schedule from VIstA scheduling. They color code the schedule. Green means the Veterans needs their insurance checked. They also check is a Veteran is eligible or needs their MEANs test at the beginning of the day, so they only ask those specific Veterans about those extra items.
+- Check-in process
+  - Last initial
+  - Last 4 of SSN
+- Software utilized by MSA
+  - GUI
+  - Sharepoint
+  - Dental Record Management (part of CPRS)
+  - VistA (Dental)
+- Check-in process. 
+  - They use GUI to check Veterans in.
+  - All MSAs also have a Sharepoint calendar up on their monitors. It is mostly used for the dental assistants and dentists, since they can’t see the GUI schedules. They don’t get scheduling keys. They are also able to mark when they have meetings, etc. They use it more like an Outlook calendar, so everyone knows the tech and dentists’ schedules.
+    - When the schedule a patient, they do it in both GUI and Sharepoint.
+    - Sharepoint is also nice according to the MSAs because of the block scheduling aspect of it. You can see at a glance who is doing consults.
+  - GUI feedback
+    - The only way to block is too cancel the clinic
+    - It is good for reporting though.
+  - They aren’t allowed to change demographics.
+- The MSAs require the Veteran it check-in with them even if they used a kiosk or went to pre-registration. Most Veterans use the kiosk. They don’t go to pre-registration; they come right to the Dental office.
+- This office also checks-in the audiology department, which is next door. Veterans can get confused by this.
+- There are no forms for Veterans to fill out during check-in. 
+- The big thing they review during check-in is the Veterans eligibility.
+  - If they are marked not eligible, the MSAs check the Dental Record Management system, because it has some dental specific eligibility information. They will become detectives trying to find eligibility info in man systems. They look in VistA too.
+    - The chief can make a determination if the Veteran should be seen in the clinic too.
+  - If they are unsuccessful in finding an answer, they send the Veteran over to admissions to sort everything out. Some Veterans choice to fill out forms and be billed for the visit.
+  - This happens daily (~3 to 5 times between calls and walk-ins).
+  - Ineligibility is important, because there are very specific rules on who is covered for dental.
+    - 60% disability rating or higher AND unemployable
+    - Or 100% service connected
+    - Or just discharged within the last two years
+    - Or a consult was requested by a VA provider (medical reason for the visit)
+    - (Sounded like there were a few more reasons that dental was covered, but they didn’t go into specifics)
+  - They check the Dental Record Management system before
+- They utilize VeText
+  - “It is fine.”
+- The systems can run slow or go down. 
+  - If that occurs, they marked that a Veteran checked in on the daily printed sheet. When the system is back up, they go in and check them in then.
+- The techs don’t rely on GUI for patient tracking. They just use the Sharepoint schedule and come to the lobby around the correct appointment time. They say the Veteran’s name to call them back.
+  - The only communication between MSAs and techs is that the MSA will announce on the overhead system in the back of the office (patient room areas) if a Veteran arrived late or if there is an emergency visit needed.
+  - The hand off from hygienists to dentists is verbal.
+- Late for an appointment is general considered 20 minutes, but will talk to provider about fitting them in.
+- What do Veterans get mad about during check in?
+  - The kiosk sending them to admissions.
+  - Traveling to Heinz for their appointment (many thought they could go to a community care provider closer to them, but they can’t and have to drive great distances to come to the Heinz location).
+  - Something goes wrong with their travel pay.
+
+## Primary Care - Heinz
+- Talked to 3 MSAs and 1 supervisor
+- There are three “PODs” or check-in areas for primary care. They areas are based upon what providers are in each section. Veterans get confused about what POD to go to. The signage in this area telling Veterans which provider is in which POD are not up-to-date.
+  - All three PODs have primary care, behavioral health and surgical.
+    - Primary care MSAs check-in all appointment types in even though there are Behavioral Health and Surgical MSAs in the back office.
+- The check-in area in one POD is a locked room with four workstations manned with MSAs. There is plexiglass in front of the area with Veterans on the opposite side.
+  - This plexiglass and the physical set up make it hard to hear Veterans sometimes when they are checking in. This can cause Vets to get upset.
+- Each MSA has two monitors and the following software up on their screen:
+  - Teams
+    - This is how they communicate with nursing that a patient has arrived. This is their patient tracking solution. If they don’t send this message, then the LPNs don’t come up.
+  - GUI
+  - CPRS
+  - VistA 
+  - ICB
+  - VeText
+    - Vets have been missed. Like to have these go to their email, so they know someone used the system.
+  - VetLink
+  - Consult Tracker 
+  - AVS
+    - It takes forever to load
+    - It also requires secure printing (putting PIV card into the machine in order to print), but someone from IT changed it for the MSA to general printing (since the room is locked). This small change has made a big difference in their workflow.
+- Check-out
+  - Gives the patient their printed AVS and schedules the next appointment
+    - They aren’t allowed to scheduled more than 6 weeks out due to a directive to help with Veterans have more access to providers.
+      - An RTC is needed to schedule the next appointment, but sometimes the provider has entered it by the time the Veterans makes it to the front desk.
+        - It is time consuming to message the provider to get them to enter it into the system
+- Check-in process
+  - Last 4 of SSN
+  - Last name 
+  - What are you here for today?
+  - If they checked in downstairs, then a paper prints out in their POD, so the know that the Veteran has arrived.
+  - They pull a report in the morning of who needs their insurance captured.
+  - They do ask Veterans to check-in at the desk with them even if they checked in at the kiosk.
+    - Some Veterans get upset with checking in twice.
+    - Because some Veterans check-in at 7am for all their appointment for the day, so they aren’t actually in the PC area when it is time for their appointment.
+    - Veterans have checked in downstairs (where the kiosks are), sat, and not come upstairs, so they can’t find the Veteran.
+  - If a Veteran misses an appointment, the department is required to contact them twice (1 phone call and 1 letter).
+  - They update demographics (in CPRS and GUI) when the Veterans notify them of a change. They don’t automatically ask that question.
+- How would you improve check in?
+  - Surgical MSA was frustrated because they were in the back and couldn’t see when the Veterans entered. The Veterans also could find them.
+  - Move the kiosks, so they aren’t downstairs. Move them closer to the PODs.
+  - More systems could communicate, particularly VetLink and ICB.
+  - Some current applications you open on the intranet and others for internet based in Chrome. Streamline that.
+- Behavioral Health will come out and look for patients, because VSE doesn’t show it have to look to see if they were charted.
+  - BH MSA in an area where Vets can come up behind them without them knowing. Not the best for safety reasons.
+- Veterans come very early for their appointments that can cause the check-in lines to become very long.
+- Being late for an appointment depends upon the provider. Some take them after an hour late, so only until 10 minutes.
+- They have a doctor of the day who sees emergencies or walk-ins.
+  - If a walk-in comes, they look up the provider, then message their nurse. 
+  - Sometimes there is a walk-in nurse too.
+  - The walk-in clinic can get backed up.
+- If a provider is running behind, Vets get mad.
+  - They used to have a whiteboard where they wrote wait times on it. It helped the Veterans, but it was hard to maintain and caused more problems if the displayed wait time was incorrect.
+
+## Rehab - Heinz
+- Talked to 1 MSA and MSA Supervisor
+- The area in not open to the general lobby of the building like most of the other departments. It is behind a door next to the waiting area. There are spaces for two MSAs (1 Rehab and 1 Prosthetics)
+- Kiosks up and most patients use them (80-90% of rehab patients), but Veterans still stop @ the front desk to check-in again. The MSAs want them to stop at the desk. 
+- MSA use GUI to check patients in.
+  - They don’t use GUI.
+- MSA prints out list of all appointments the night before and checked off at the end of the day to make sure all the appointment are correct in the system.
+  - No shows are marked as such at the end of the day.
+- Once a Veteran is checked in, they message the provider using Teams to let them know the patient has arrived. However, most providers just come to the waiting room to check for patients at certain times.
+- Walk-ins occur in this department as well.
+  - MSA puts appointment right in and whoever is free will come up.
+- Systems that the MSA has up on two monitors:
+  - Teams
+  - CPRS
+  - GUI Scheduling
+    - Complains about running slow and that it is missing tasks that they need to do, such as:
+      - Check out RTC/s - rehabs need to schedule multiple appointments and that is difficult
+      - Attaching labs to appointment can’t be done. You have to do that in VistA.
+    - Likes the groupings. Being able to see who has openings. Go to a clinic and see the full schedule.
+  - Email
+  - VCM
+  - VistA Access 
+    - Used at the end of the day to get the overall list for the next day
+  - Intranet
+- Check out only if rescheduling
+  - Veterans are normally booking 4-5 appointments at one time here, so they don’t have to schedule new appointments at each visit.
+- No questionnaires at check-in.
+- Check-in process
+  - Last name and last 4
+  - They don’t check demographics or insurance.
+  - Called to let them know the patient is here.
+- VeText is utilized.
+  - They say most Veterans use it from within the building.
+- There was a low vision clinic sign outside this area. 
+  - When asked about accommodations for low vision Veterans, the said most will come with an escort.
+- A Veteran is never “late” in this department. After 20 minutes, they might not be able to be seen immediately, but they are free to wait for an opening.
+
+## VetLink Administrator
+- Sets up new clinics in VistA
+- MSAs get access to entire kiosk groups, which should be more clinics than they need.
+- Sets up workflow for just pre-registration groups and loads printing templates into the system for other departments.
+- Current questionnaires in VetLink at Pittsburgh
+  - COVID (made before the official screener was created)
+  - Flu shot
+  - Access to clinics 
+  - ER
+  - Ebola
+- Important metric for check-in
+  - 90% insurance capture
+  - They also look at usage statistics
+    - Pittsburgh was higher than average pre-COVID with around 75% using the kiosks
+- Cell coverage is terrible at the Heinz location for another but Verizon customer.
+- Hears a lot of complaints from staff that the want VetLink to link to other programs, such as ICB, MyhealtheVet/CPRS.
+- Ideas for improvement
+  - Add ability to scan insurance cards. Update insurance all in one (insurance, pre-reg and check-in all in one step)
+  - Get machines that are less bulky and have better touchscreens.
+  - It is hard to calibrate the touch screen. LED screens go out. 
+
+## Pharmacy - University Drive
+- Uses the QMATIC system
+- Check-in process
+  - Veterans takes a ticket from the QMATIC machine. A number is on the ticket.
+  - The number is called to the window via verbal and visual means.
+    - There is a board hanging up in the waiting area.
+  - There are 4 windows that the Veteran can be called to.
+  - Pharmacists staff the windows, so Veterans can ask questions when they walk up.
+    - This is a value added (they get a lot of questions answered due to this approach).
+    - Name (or scans VHIC card) and last 4 of SSN
+    - Reviews the med orders.
+  - The pharmacists utilized ScriptPro next to enter everything into the system
+  - The Veterans is free to walk around until their medicine is ready.
+    - AudioCare can text them when the medication is ready. Otherwise, there is another board in the waiting area with the Veteran’s name displayed.
+  - The Veteran goes to the pick-up window. A tech is working at the window
+- They can have a 15 minute wait sometimes.
+- Veteran complaints
+  - Provider puts in a prescription, but the pharmacy can’t see it yet.
+  - They do a lot of education on the pharmacy process, because Veterans assume their prescriptions are automatically filled after their appointments, but they aren’t. They Veterans need to talk to a Pharmacist and let them know what medications they want filled first.
+- Improvement ideas
+  - Notifications
+  - Register with us at the clinic would be nice  
+  - Eliminate double queuing
+  - Be able to let the pharmacy know what you want refilled on the kiosk
+- They call to verify doses or find missing orders.
+  - They use Teams to talk to some providers. 
+- For low vision Veterans, there is the QMATIC system that verbally announced they can go to the window. 
+  - They also have a communication box available behind the windows. Haven’t utilized it a lot.
+    - Whiteboards, headsets and a variety of items to assist depending upon disability.
+  - They also have encoded labels that talk when the Veteran places them on a certain reader machine.
+  - They make notes in their pharmacy system to verbally call the Veteran when meds are done (since the system itself doesn’t have that capability) if they are low vision.
+- See 250-350 people per day with 2 -4 windows with Pharmacists open.
+
+## Lab (Blood Draw) - University Drive
+- Has a sign saying no cell phones in the area
+- Check-in process
+  - Has a deli-counter manual ticket taker.
+    - The lab techs use a remote to change the number on the sign in the waiting room. The tech call out “Now helping number X.”
+    - If we skip them (since they aren’t in the waiting room), the Veterans has to take another number.
+  - Ask for full name and full SSN or VHIC card and full SSN
+    - Has the Veterans enter their SSN on a calculator.
+  - Checks the order
+  - Scans their VHIC card again
+  - They reverify the patient information is correct on the labels after they are printed.
+- Appointment reminder letters have been telling Veterans to remember to get their bloodwork done even when they don’t have bloodwork to do, so Veterans show up to the lab and have no reason to be there.
+- Improvement ideas
+  - Bigger waiting room
+    - It is hard with patients in wheelchairs or on a gurney (they don’t have the room)
+  - Move to a different area
+    - They are on a main area with a lot of traffic, so it is hard to hear sometimes when they call out a number to be seen.
+  - A label printer for each station
+    - If more than one tech hit prints, sometimes the labels print one for one patient, then one for the next patient.
+      - This results in them having to be very careful when grabbing labels. They must make sure they are grabbing the labels for the correct Veteran.
+  - New computers. 
+    - Their computers break down often and they are at a complete standstill until they are fixed.
+      - The computers were second hand from nursing.
+  - Would love a number system that calls out loud and clear “Now serving 10.”
+
+## HAS Administration
+- Main metric is insurance capture
+  - The facility is supposed to be at a 90% or higher capture rate.
+    - Part of VHA Directive 1910.
+- Ideal check-in process
+  - Combine VeText, Check-in and ICB. Also add a reminder for bene travel at the end.
+- They are planning for heir new Monroeville location that will open in a few years.
+  - They are currently including kiosk ports in the designs.
