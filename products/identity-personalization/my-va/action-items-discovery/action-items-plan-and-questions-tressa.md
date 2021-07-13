@@ -34,6 +34,8 @@ June 30, 2021
 - Can users make an alert go away completely?
 - Can users mark an alert as completed (and is that different from marking it as "read"?
 - How long should alerts be available for?
+- How does VA.notify know if things (text/email) have been read? Do they?
+- Is a newsfeed approach the right approach?
 
 
 
@@ -53,5 +55,6 @@ June 30, 2021
 - What information about an action item do people need to see?
 - Does showing the number of new alerts provide enough context to help veterans decide whether or not they want to see the alerts?
 - Do users even want to see the number of new alerts, or is just knowing they have new alerts enough?
+- Do we need to include new/viewed badges on notifications? If a user has recieved a text about an alert, and opens it and then goes to alerts in VA.gov and it isn't shown as 'viewed', is that okay?
 
 
