@@ -17,7 +17,10 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase II: Beta Testing
+Remote unmoderated testing on staging
+
+## Phase III: Staged Rollout (also known as unmoderated production testing)
 
 ### Do I need a staged rollout?
 
