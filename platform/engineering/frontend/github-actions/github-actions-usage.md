@@ -19,6 +19,8 @@
     1. [Unit tests](#unit-tests)
     1. [Cypress E2E tests](#cypress-e2e-tests)
 1. [Edge Cases](#edge-cases)
+    1. [Multiple runs of the same workflow](#multiple-runs-of-the-same-workflow)
+    1. [Test summaries appear under wrong workflows](#test-summaries-appear-under-wrong-workflows)
 
 ## Workflow Functionality
 
@@ -162,20 +164,18 @@ It contains the following information:
 ### Cypress E2E tests
 
 Cypress tests produce a "Cypress Tests Summary", which is similar to the unit tests summary.
+- It contains the number of tests run, skipped, and failed as well as annotations for test failures.
+- Additionally, there is an external link to a Mochawesome test report, which is more comprehensive.
 
 > ![Cypress tests summary](./11-testing-reports-link.png)
-
-The summary contains the number of tests run, skipped, and failed as well as annotations for test failures.
-
-There are more comprehensive test reports generated with Mochawesome.
-- These are hosted in the Testing Reports repo with GitHub Pages.
-- Links to the Mochawesome report are posted to the "Cypress Tests Summary" check.
 
 There are also screenshot and video artifacts generated for any test failures.
 
 > ![Cypress artifacts](./12-cypress-artifacts.png)
 
 ## Edge Cases
+
+### Multiple runs of the same workflow
 
 Commits can sometimes show multiple, seemingly duplicate, runs of a workflow (e.g., "Continuous Integration").
 
@@ -186,3 +186,13 @@ This can happen when a branch is created from that commit and pushed without add
 Navigating to the summary of the run should indicate which branch triggered the run.
 
 > ![Link to branch in workflow summary](./14-summary-branch.png)
+
+### Test summaries appear under wrong workflows
+
+Occasionally, the Unit Tests Summary and Cypress Tests Summary may appear under workflows other than "Continuous Integration".
+
+[This is an bug with how GitHub Actions and check runs that hasn't yet been fixed.](https://github.community/t/github-actions-status-checks-created-on-incorrect-check-suite-id/16685)
+
+Although they may appear under different workflows, they can still be found in the overall list of [PR check statuses or in commit statuses](#viewing-all-workflow-statuses-for-a-commit).
+
+> ![Test summaries in unrelated workflow](./15-unrelated-workflow.png)
