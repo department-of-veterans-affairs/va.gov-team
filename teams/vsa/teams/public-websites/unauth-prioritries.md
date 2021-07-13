@@ -22,12 +22,13 @@
     - Harassment Reporting Tool
   - **Iterate**
     - Home Page 
-      - Home Page Layout to accommodate more Top Tasks - Needs: Initiative Brief or Product Outline?
+      - Home Page Layout to accommodate more Top Tasks
+        - Needs: Initiative Brief or Product Outline?
       - Home Page & Benefit Hubs to unify with Unauth experience
         - [Product Outline WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Benefit%20Hub%202.0%20Product%20Outline.md)
         - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
         - [Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
-      - Home Page Alert Banner to make process/functionality more "systematic" - 
+      - Home Page Alert Banner to make process/functionality more "systematic" 
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/unauth-prioritries.md)
         - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
