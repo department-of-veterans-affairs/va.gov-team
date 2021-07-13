@@ -1,5 +1,70 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 07/09/2021
+
+Meeting with Dan Navarro, technical PM, Dan's program manager, Derek Creary; Hal Haislip, contractor; and Janet Schiller
+
+### Purpose:
+
+Purpose was to provide context to Dan's manager why/for what OCTO is looking to use the Salesforce FOM data. 
+
+### Outcome: 
+
+Derek agreed to provide the support we need in our request/asks to better understand the data. Dan will take the list of data we think we need -- based on the desired system logic and frontend experience -- and will consult their architect who will be able to advise us what pieces of data fields we should draw from. 
+
+__This is the list provided to Dan and Janet via email:__
+
+Follow up from today’s call. Thanks Dan for your advice on the reverse engineering approach. I think some of this may be easier to discuss with a walk through of the kind of experience we’d like to build. It’s hard to flatten the UX into text, but I’ll do my best. 
+
+Cliff Notes/high level description FOM information we want to display and organizational content experiences:
+
+1/ We want to include the specific mandated FOM information for each office – these will not necessarily be on one page, so don’t try to attach these to a page per se. For instance something like the Administration info we want to use as a meta tag across many experiences (like the office about us page, but also as a way to filter searches for instance). So we know we would at minimum need:
+
+•	Plain Language Name of the Org (without appended codes like OFE-008a)
+
+•	Administration it belongs to (or the central office parent it belongs to)
+
+•	Mission text
+
+•	Overview text
+
+•	Authorities text (as it appears in the FOM document)
+
+•	Activities text
+
+•	What child office/s that report directly to it (or that it oversees) – i.e.,  one immediate level below it
+
+•	What parent office it belongs to – one level immediately above it
+
+•	The org chart hierarchy in a text list/outline form
+
+•	Archived meta data – e.g., we would want the content management system to know from the “archived” meta data that the office page should also be archived/unpublished/withdrawn from the website – whether this happens automatically or the meta data is used simply to generate a notification to the office page's editor is TBD. 
+
+•	Merged meta data – e.g., if an office is technically archived in the FOM because it got merged with another office record, we would want the system to know this granular level of archiving, so that we can properly consolidate the office web pages – either by automatically updating the contents (pubs, reports, blog posts) of the deprecated office with the correct office’s meta data or by auto notifying the page editor to manually consolidate whatever may need to be merged on their web page. 
+
+•	Active FOM or In-FOM meta data – we want to use only active FOM records to populate the ‘all orgs in VA’ searchable/filterable index experience.
+
+•	The FOM Coordinator – e.g., if the page editor sees something in the mandated FOM info that’s outdated or missing and should be added/updated in Salesforce
+
+•	External custom website URL – If an office has a custom website that they wish to use (or create) off of the official VA.gov new tier 3 experience, we want to pull this information from Salesforce to dynamically generate a message and a link to that office’s external custom site from their official landing page. 
+
+
+2/ Please see question notes in the highlighted rows of this spreadsheet. A few of most critical questions are summarized in this email: 
+https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/EQU4_Jiq9ylHkw_h7UM9RYgBMgPJ23vjVOogHqfvmZzsvA?e=sksdam
+
+•	What is the field that identifies each FOM org as a unique record? (EX: Account Name, Account ID, other?)
+
+•	Is there a plain language office name field – i.e., without the xxx-nnn (e.g., OEI-008) prefix that’s welded to the name in the Account Name field?
+
+•	What field/formula field/combination of fields map to the org chart hierarchy that we can show as a text list (outline) view? 
+
+•	What field maps to the Administration level (VBA, VHA, NCA)? 
+
+•	What field maps to Department of Veterans Affairs – Central Staff Office  level? 
+
+•	To display an org’s Authorities, do we also need the Junction ID field?  
+
+
 ## 06/24/2021
 
 Meeting - weekly FOM call w/Janet Schiller
