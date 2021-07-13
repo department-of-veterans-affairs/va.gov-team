@@ -36,10 +36,20 @@
         - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
         - [Banner Visual Design Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/)
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
-    - Campaign Landing Page - finalizing governance model
-    - Benefit Hubs 
+      - [ ] Product Outline for V1.0 of Events
+      - [ ] Initiative Brief for Filtering Events
+    - Campaign Landing Page
+      - Finalizing Governance model with stakeholders
+        - [X] Web Governance Board (OPIA)
+        - [X] VEO
+        - [X] VHA
+        - [ ] VBA
+        - [ ] NCA
+    - Benefit Hubs - relates to the IA initiative/work by Meg?          
+    -[Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
     - Sitewide Navigation
     - React Widget
+  
   - **Maintain**
     - Resources & Support
 
