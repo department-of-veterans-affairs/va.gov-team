@@ -3,8 +3,10 @@
 Domiciliaries are "shelters" providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence.
 
 Example locations:
-- [Philadelphia, PA](https://www.va.gov/philadelphia-health-care/locations/)
-  - [Corporal Michael J. Crescenz VAMC](https://www.philadelphia.va.gov/services/homeless/index.asp)
+- **Philadelphia, PA**
+  - [VA system page](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)(No services listed)
+  - [Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center](https://www.va.gov/philadelphia-health-care/locations/corporal-michael-j-crescenz-department-of-veterans-affairs/)
+    - Services listed under "Homeless Veteran Care"
 - **Eastern Colorado**
   - Valor Point VA Domiciliary
     - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)(No services listed)
