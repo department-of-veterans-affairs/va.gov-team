@@ -5,9 +5,14 @@ Domiciliaries are "shelters" providing services to homeless Veterans (or to retu
 Example locations:
 - [Philadelphia, PA](https://www.va.gov/philadelphia-health-care/locations/)
   - [Corporal Michael J. Crescenz VAMC](https://www.philadelphia.va.gov/services/homeless/index.asp)
-- Eastern Colorado (2 locations)
-  - [Valor Point VA Domiciliary](https://www.denver.va.gov/locations/Valor_Point_VA_Domiciliary.asp)
-  - [Denver VA Domiciliary](https://www.denver.va.gov/locations/Denver_VA_Domiciliary.asp)
+- **Eastern Colorado**
+  - Valor Point VA Domiciliary
+    - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)(No services listed)
+    - [VA find locations page](https://www.va.gov/find-locations/facility/vha_554BU)(No services listed)
+    - [Legacy site page](https://www.denver.va.gov/locations/Valor_Point_VA_Domiciliary.asp)(No services listed)
+  - Denver VA Domiciliary
+    - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
+    - [Legacy site page](https://www.denver.va.gov/locations/Denver_VA_Domiciliary.asp)(No services listed)
 - [Houston, TX](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
   - *(Location is currently under construction)*
 - [Jackson, MS](https://www.va.gov/jackson-health-care/locations/)
