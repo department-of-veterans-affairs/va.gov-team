@@ -59,3 +59,9 @@ June 30, 2021
 - Do users need to see all the alerts they've ever had? 
 
 
+## Questions for the team:
+- What does scheduled payment updates mean?
+- How does VA.notify know if things (text/email) have been read? Do they?
+- Is there anything in the design system that you know of that show prioritization? Or urgency? (alerts have specific icons)
+
+
