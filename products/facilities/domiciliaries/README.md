@@ -1,6 +1,6 @@
 ## Domiciliaries
 
-Domiciliaries are "shelters" providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence.
+Domiciliaries are "shelters" providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence. VA Domiciliaries are VA health facilities which are included as locations under the relevant VAMC. They don't fit the facility pattern established by the VAMC facility detail pages as they include minimal services, such as "extended care" (or none at all). The information that Veterans need for these types of facilities may be different than that which is expected for medical clinics.
 
 Example locations:
 - **Philadelphia, PA**
@@ -15,12 +15,10 @@ Example locations:
   - Denver VA Domiciliary
     - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
     - [Legacy site page](https://www.denver.va.gov/locations/Denver_VA_Domiciliary.asp)(No services listed)
-- [Houston, TX](https://www.va.gov/houston-health-care/locations/houston-va-domiciliary/)
-  - *(Location is currently under construction)*
-- [Jackson, MS](https://www.va.gov/jackson-health-care/locations/)
-- [Minneapolis, MN](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
-- [Seattle, WA](https://www.pugetsound.va.gov/about/history.asp)
-- Portland, OR
-  - [Veterans Recovery House](https://www.portland.va.gov/services/Rehabilitation_Veterans_Recovery_House_A_Residential_Rehabilitation_Treatment_Program_RRTP.asp)
-
-Before we can reimagine detail pages or validate potential designs with Veterans, we need to better understand these facilities.
+- **Minneapolis, MN**
+  - Minneapolis VA Clinic
+    - [VA system page](https://www.va.gov/minneapolis-health-care/locations/minneapolis-va-clinic/)
+      - Services listed under "Homeless Veteran Care"
+  - Minnesota Veterans Home Domiciliary Program
+    - [Program brochure](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
+      - Listed facilities in Minneapolis and Hastings
