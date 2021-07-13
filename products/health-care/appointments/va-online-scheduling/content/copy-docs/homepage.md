@@ -76,7 +76,7 @@ Select a date range
 
 ---
 
-### Canceled
+#### Canceled
 
 {Canceled}
 
@@ -85,3 +85,44 @@ Select a date range
 {appointment time}
 
 (facility/provider name, VA Video Connect, Phone call}
+
+---
+
+### Empty States
+Messaging when there are no appointments in the list.
+
+#### Upcoming (Confirmed)
+
+You don't have any upcoming appointments
+
+You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+
+(link) Schedule an appointment
+
+#### Requests
+
+You don't have any appointment requests
+
+You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+
+(link) Schedule an appointment
+
+
+#### Past
+
+You don't have any past appointments
+
+You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+
+(link) Schedule an appointment
+
+
+#### Canceled
+
+You don't have any canceled appointments
+
+You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+
+(link) Schedule an appointment
+
+---
