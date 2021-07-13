@@ -34,7 +34,9 @@
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem? 
-   -  There is information on the Discharge Upgrade Wizard that is outdated and incorrect.  Since its initial launch, each branch of the military has created portals for review boards and records correction.  We were provided a list of updates to consider by Margarete Ashmore at DoD, along with links to those portals.
+   -  There is information on the Discharge Upgrade Wizard that is outdated and incorrect.  
+   -  Since its initial launch, each branch of the military has created portals for review boards and records correction.  
+   -  We were provided a list of updates to consider by Margarete Ashmore at DoD, along with links to those portals.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?  
    - The problem is occuring because the tool was launched several years ago and has not received any further updates.  It was recently reviewed by DoD prior to the launch of a campaign landing page to conicide with Pride Month 2021, and found to have outdated information.
 * How does this initiative help further OCTO-DE's mission and goals?
@@ -61,8 +63,8 @@
  - Some portals enable Veterans to upload their requests online, reducing errors and processing time
 
 ## Undesired Business Outcomes
-- Fewer Veterans submit requests because the process is too difficult
-- Veterans don't submit complete/accurate information
+ - Fewer Veterans submit requests because the process is too difficult
+ - Veterans don't submit complete/accurate information
 
 ---
 ## Measuring Success
@@ -74,7 +76,7 @@
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 | -- | -- | -- | -- |
 | Conversion rate | -- | -- | -- |
-| -- | -- | -- | -- |
+|  | -- | -- | -- |
 
 ## Discovery
 ### Assumptions/Risks
@@ -139,7 +141,7 @@
 - Team Name: Decision Tools 
 - GitHub Label(s): vsa-decision-tools
 - Slack channel: #vsa-decision-tools
-- Product POCs:
+- Product POCs: 
 
 </details>
 
