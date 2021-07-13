@@ -44,7 +44,7 @@ Some service members who received a less-than-honorable discharge in the past we
 | KPI      |   Wizard completions          |                    |                    |        |
 | KPI      |             |   Clicks to download PDF forms                 |                    |        |
 | KPI      |             |   Clicks to visit military portals                 |                    |        |
-
+|   |   |   | Medallia Survey |   |
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
