@@ -167,7 +167,7 @@ Cypress tests produce a "Cypress Tests Summary", which is similar to the unit te
 - It contains the number of tests run, skipped, and failed as well as annotations for test failures.
 - Additionally, there is an external link to a Mochawesome test report, which is more comprehensive.
 
-> ![Cypress tests summary](./11-testing-reports-link.png)
+> ![Cypress tests summary](./11-cypress-tests-summary.png)
 
 There are also screenshot and video artifacts generated for any test failures.
 
@@ -195,4 +195,4 @@ Occasionally, the Unit Tests Summary and Cypress Tests Summary may appear under 
 
 Although they may appear under different workflows, they can still be found in the overall list of [PR check statuses or in commit statuses](#viewing-all-workflow-statuses-for-a-commit).
 
-> ![Test summaries in unrelated workflow](./15-unrelated-workflow.png)
+> ![Test summaries in unrelated workflow](./15-wrong-workflow.png)
