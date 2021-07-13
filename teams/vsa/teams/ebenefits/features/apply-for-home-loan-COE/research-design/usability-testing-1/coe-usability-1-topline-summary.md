@@ -1,4 +1,4 @@
-# Certificate of eligibility (COE) discovery interviews topline summary
+# Certificate of eligibility (COE) usability testing topline summary
 **VSA eBenefits Team | June 2021**
 
 `Prepared by: Candy Clark, James Adams`
