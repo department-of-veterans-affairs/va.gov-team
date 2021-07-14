@@ -17,10 +17,10 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Hypotheses](#hypotheses)
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
-* [Key Insights, Detailed](#key-insights,-detailed)
+* [Key Insights Detailed](#key-insights-detailed)
 * [Additional Insights](#additional-insights)
-* [Recommendations - Detailed](#recommendations-detailed)
-* [Recommendations - Facilities Team](#recommendations-facilities-team)
+* [Recommendations overall with details](#recommendations-overall-with-details)
+* [Recommendations for Facilities Team](#recommendations-for-facilities-team)
 * [Next Steps](#next-steps)
 * [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
@@ -162,13 +162,13 @@ Overall, some things that would improve my experience would be to…
 9. Name states of components with descriptions like ‘menu open’ so I don’t waste time listening for clues of what just happened
 10. Don’t make me know how to spell things
 
-## Key Insights, Detailed
+## Key Insights Detailed
 
 ## Additional Insights
 
-## Recommendations - Detailed
+## Recommendations overall with Details
 
-## Recommendations - Facilities Team
+## Recommendations for Facilities Team
 
 ## Next Steps
 
