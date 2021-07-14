@@ -25,6 +25,10 @@
 
 ## July 21
 
+Mobile VHA
+- [CMS epic-Distinguish mobile VAMC clinics from non-mobile clinics #4743](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4743)
+- [Facilities epic - Mobile VHA locations #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
+
 Possible
 * Top task hardening
 
