@@ -23,15 +23,32 @@
 
 </details>
 
+## July 21
+
+Possible
+* Top task hardening
+
 ## July 14
 
 Vet Centers
-* District 5
+* MVP launch! 2 today. Waiting on some content for the remaining 8. Reno, Escanaba and one other next. Great Falls, Rochester, and Orlando. 
+* Editorial experience changes by tomorrow for Satellite
+* Some meta tags missing from Drupal, which are in the progress 
+* District 5 timeline
+  * Kickoff July 14/15
+  * Email going out July 16th with review from 
+  * Open office hours Tuesdays 3pm-4pm ET from July 20 to Aug 17. 
+  * Deadline to complete training and load content to CMS August 20. 
+  * Review/feedback ongoing. 
+* Does va.gov GA opt-out affect CMS tracking
+  * [Platform support request](https://dsva.slack.com/archives/CBU0KDSB1/p1626288553111900)   
 
 VAMC
 * Photos on VAMC Stories appear grainy https://github.com/department-of-veterans-affairs/va.gov-team/issues/27280
-* Leadership feature flag and other feature flags https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500
 * [Additional Info component on VAMC detail pages](https://dsva.slack.com/archives/C01H29ERVJ7/p1626207343227700).
+* Leadership feature flag and other feature flags https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500
+  * **CMS team issue:** evaluate existing feature flags to see if they can be deleted. 
+
 
 ## July 7
 
