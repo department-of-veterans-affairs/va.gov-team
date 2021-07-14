@@ -5,8 +5,6 @@
 
 ---
 #### Questions
-- Will Perigean be scheduling these since participants are not necessarily veterans?
-- Is there a typical number of participants for discovery? Is audio only typical, or was that something specific for the COE example?
 - Will there be a tool for VSOs on va.gov, or is the info gathered here wrapped into the veteran’s tool?
 ---
 
@@ -34,7 +32,7 @@ The primary goal of this research is to understand how the representation/Power 
 #### Hypotheses
 
 ### Method
-We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers may be in attendance.
+We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited through internal VA contacts. We are currently working with Paul Schute and Bill Meadows. Sessions will be recorded (with permission), and observers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to the discovery interview process
@@ -42,7 +40,7 @@ We will engage in moderated discovery interviews conducted remotely. Calls will 
 - There will be a quick Q/A and wrap-up
 
 #### Notetaking
-We request that Perigean take notes -- verbatim if possible --  during interviews.
+Notes will be taken by the eBenefits team.
 
 ### Participants and recruitment
 
@@ -98,8 +96,7 @@ Please allow 30 minutes between sessions.
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Matt Self | matt.self2@va.gov -- Product Co-Owner
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
-- VA contacts
-- Perigean -- Participant recruiting & screening
+- `VA contacts`
 - Note-takers -- Various as available
 - Observers -- various as available
 - Others -- Pending
