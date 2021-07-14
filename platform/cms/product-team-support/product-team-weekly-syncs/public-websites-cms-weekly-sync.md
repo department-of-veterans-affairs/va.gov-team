@@ -37,10 +37,6 @@
 
 ## July 14
 
-* Banners
-* CMS account admin policy review 
-* CLP governance updates
-* Events 
 * Meta tags https://pr5828-wrb1q983pfwgqw6ixqwofsjszpwdosrp.ci.cms.va.gov/ 
 
 ## July 7
