@@ -9,10 +9,7 @@ Digital Services Veterans Affairs (DSVA), VSA, Facility Locator, June 24, 2021
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md).
 
 
-* [Research Goals](#research-goals)
- * [Methodology](#methodology)
-* [Research Questions](#research-questions)
-* [Who we talked to](#who-we-talked-to)
+* [About the research](#about-the-research)
 * [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
 * [Hypotheses](#hypotheses)
 * [Key Insights](#key-insights)
@@ -25,13 +22,15 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
 
-## Research Goals
+## About the research
+
+### Research Goals
 The purpose of this research is to establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices. Understanding how Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, to try to complete facility search tasks will help us plan future product improvements so that all Veterans can easily perform a search and consume results.
 
-## Methodology
+### Methodology
 We conducted two hour-long remote moderated research sessions via Zoom on June 8-17, 2021. Participants were asked about their assistive technology usage, how they perform location search tasks online, and were given some common Veteran location search tasks to accomplish using their preferred method, VA.gov homepage and Facility Locator. 
 
-## Research Questions
+### Research Questions
 - What assistive technologies are Veterans using?
 - How does a Veteran, using assistive technology:
   - find location information online, for a place that they need to visit physically?
@@ -43,7 +42,7 @@ We conducted two hour-long remote moderated research sessions via Zoom on June 8
   - What are the pain points?
 - Does Facility Locator need to change or evolve in order to offer an equitable experience to Veterans using assistive technology?
 
-## Who we talked to
+### Who we talked to
 
 We talked to **7 Veterans:** 
 
@@ -55,7 +54,7 @@ Participant demographics:
 - Female: 2 
 - Cognitive disability: (1)
  
-### Underserved groups in research
+#### Underserved groups in research
 ![MVS-checker](https://user-images.githubusercontent.com/4960080/125621453-2dd373d2-d126-4f50-bd21-5d6d44f7bf1a.png)
 
 This research may not meet the needs of the following underserved Veteran communities, as the focus was primarily on recruiting Veterans with assistive technologies: Veterans with cognitive disabilities (only 1 Veteran disclosed having a learning disability, Veterans with other than honorable discharge, Veterans with immigrant origins, Latinx, Biracial, Asian, and Native Veterans, LGBTQ+ Veterans.
@@ -234,3 +233,19 @@ Overall, some things that would improve my experience would be to…
 ## Appendix
  [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)
 
+* [About the research](#about-the-research)
+* [Research Goals](#research-goals)
+* [Methodology](#methodology)
+* [Research Questions](#research-questions)
+* [Who we talked to](#who-we-talked-to)
+* [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
+* [Hypotheses](#hypotheses)
+* [Key Insights](#key-insights)
+* [Recommendations](#recommendations)
+* [Key Insights Detailed](#key-insights-detailed)
+* [Additional Insights](#additional-insights)
+* [Recommendations Detailed](#recommendations-detailed)
+* [Recommendations for Facilities Team](#recommendations-for-facilities-team)
+* [Next Steps](#next-steps)
+* [Further research needed](#further-research-needed)
+* [Appendix](#appendix)
