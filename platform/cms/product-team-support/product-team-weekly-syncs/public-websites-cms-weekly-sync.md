@@ -35,9 +35,18 @@
 
 </details>
 
+## July 21
+
+* CMS account admin policies
+
 ## July 14
 
 * Meta tags https://pr5828-wrb1q983pfwgqw6ixqwofsjszpwdosrp.ci.cms.va.gov/ 
+ * Check if og:image has a value before including it in the page template? 
+ * FE vs CMS spec 
+ * 
+* CLP governance
+  * 
 
 ## July 7
 
