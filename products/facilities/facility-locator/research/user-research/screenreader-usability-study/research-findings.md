@@ -162,9 +162,10 @@ Overall, some things that would improve my experience would be to…
 10. Don’t make me know how to spell things
 
 ## Key Insights - detailed with supporting findings
-
 ## Additional Insights
+## Recommendations - General (detailed)
 ## Recommendations - Facilities Team
 ## Next Steps
 ## Further research needed
 ## Appendix
+
