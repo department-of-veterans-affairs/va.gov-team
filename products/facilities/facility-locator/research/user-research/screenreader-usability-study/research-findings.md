@@ -19,7 +19,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Recommendations - General](#recommendations-general)
 * [Key Insights - detailed with supporting findings](#key-insights-detailed-with-supporting-findings)
 * [Additional Insights](#additional-insights)
-* [Recommendations - General (detailed)](#recommendations-general-detailed)
+* [Recommendations - General, detailed](#recommendations-general-detailed)
 * [Recommendations - Facilities Team](#recommendations-facilities-team)
 * [Next Steps](#next-steps)
 * [Further research needed](further-research-needed)
@@ -163,7 +163,7 @@ Overall, some things that would improve my experience would be to…
 
 ## Key Insights - detailed with supporting findings
 ## Additional Insights
-## Recommendations - General (detailed)
+## Recommendations - General, detailed
 ## Recommendations - Facilities Team
 ## Next Steps
 ## Further research needed
