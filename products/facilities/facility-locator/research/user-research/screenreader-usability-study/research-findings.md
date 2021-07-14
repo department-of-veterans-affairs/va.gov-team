@@ -214,7 +214,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 2.6 - I wish I could see hours and services of VA facilities on Google search results
 - 2.7 - Sometimes I do see hours but they don’t make sense to me
   - P9: Low-vision Veteran and wife, who is nearby to help, explain a recent VA facility search using Bing.com to look for VAs close to where they were considering moving. They explained how in their travels they’ve visited different VA facilities that vary widely in terms of the services and want to know if a listing is for a “little clinic” or more comprehensive like their own VA medical center. 
-  - ![sc-search](https://user-images.githubusercontent.com/4960080/125658654-9e24df98-1cfa-4c4b-b5a4-72cdf0fddcbc.png)
+  - ![sc-search](https://user-images.githubusercontent.com/4960080/125660483-b13235ff-77a9-41c9-8319-8b5e5016df15.png)
   - The couple demonstrate their search and point out that second search result listing was for a “VA Medical Center” that lists ‘Hospital’ as a service but the closing time of 6:30pm was confusing to them. They didn't mention clicking for more information. In fact, although they described being frequent users of MyHealtheVet (bookmarked in their browser) they were unfamiliar with the VA.gov homepage when prompted to go there for their first task .
   - [Later, while on a facility page, this couple circles back to the importance of understanding ER services, with a personal anecdote] 
   > “It has the hours as 24/7 but that might be because they have the ER and pharmacy. One thing it doesn’t say, that I have seen and heard before, is that if you are feeling you have a heart attack go to the ER. Even though it says cardiology, you don’t go there for heart attacks. If you look at this it says cardiology but doesn’t tell you not to go there. It would be nice if they say, ‘if having a heart attack call 911 and go to the ER’. We had a Vet in our group and they said don’t go to the VA ER because they can’t help so I think that should be on there. When having a heart attack seconds can make a difference.”
@@ -223,19 +223,48 @@ Navigate through the landmarks/regions of the page | 3.2%
 ### Findings section 3 - Using VA.gov
 #### When I search for things on VA.gov, I have trouble finding what I am looking for... 
 
-- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily 
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [Link to homepage findings]()
 - 3.2 - Global searches don’t produce relevant results
+     - Some Veterans didn’t think to look for a location finder so 4 Veterans used global search to find a location or dermatologist, some did this even after already having used the Facility Locator search in a previous task. Other participants didn't think to look for healthcare in a location finder. These searches turned out to be dead ends for users as they didn’t surface Facility Locator.
+     - [P1: didn’t understand why he was being asked to find a dermatologist on Facility Locator - thinks this would be found under healthcare] 
+     > ”Can I ask you a question. You asked me to find a dermatologist but can I do that on this page? I’m confused. You took me to find a location but you are actually asking me to find something specific. It’s confusing because it is about finding a VA location.”
+     - [P6 ‘reads’ VA.gov homepage from the top and encounters global search] 
+     > “So there’s the search field, so in the search field, I would go there. I would use that search field to find out whatever information I want...the nearest hospital, nearest clinic. Yea, that would be my first go-to spot. Search field comes right up and that will help me navigate where I probably want to go. Uh… let’s do this.. [types Mental clinic].  I went to do the mental health care and it brought me right here.”  [end of task. 1st result: Research.va.gov/topics/mental_health.cfm]
 - 3.3 - I get routed to too many different pages
 - 3.4 - If I find something useful, I don’t know how to retrace my steps later
+     - P4 on retracing steps back on homepage, where she found Facility Locator in footer:
+     > “It’s not obvious to find a VA location from the homepage. I had to scroll down to find it. I think it’s fairly important so I’d have it on top! So like under healthcare [4 main boxes]”
+     - P10 remembers using a location finder in the past but doesn’t remember where:
+     > “I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.”
 - 3.5 - I encounter too much information and I get overwhelmed
+     > [P4] “let’s go back there… how did I do that… oh all the way to the bottom [in footer]. Oh, so this isn’t very… I’m scrolling through pages and pages… it would probably be 10-15 pages on hard copy… finally at the bottom it says ‘Find a VA Location’, cemetery…”
 - 3.6 - Location searches [teamsite] result in a list that I have to Google individually
+     - [P10 recounting a recent VA search for burial information where she encounters many of the issues above] 
+     > “I think the problem is there’s SO much information that it’s hard to get to the exact spot I need to be. So… it’s not just like I can ask a question of 'Texas Vietnam Vet eligibility for burial sites in Texas through the government.' Instead I get, if he dies at a VA facility you get you get “X” # of dollars, if he has a service connection you get “X” # of dollars. There's this list of 100 cemeteries they can be buried at. It’s a lot to sort through.  Visually it would probably be faster? Hence, I had to get off my computer for a little bit. The other problem is… *sigh* how it was listed out, it didn’t say where exactly the different cemeteries were… I mean it did, but you had to look up in google maps every time to know where this is. You know. They could say “it’s in a hold up suburb in Austin,  Texas,” instead they just list this town name… for a lot of us, out of state, or unfamiliar with our current state, it’s really a challenge. ”
+    >] You know, I think that’s the main problem. It’s a lot of information. It’s overwhelming and if you’re not working with JAWS everyday, your skills go down. If you don’t use a computer every day, your skills go down. The VA tries to put too much information it just becomes overwhelming.
+
 
 ### Findings section 4 - Facility Locator searches
 #### I didn’t know Facility Locator existed, but now that I do, I encounter some obstacles that would deter me from wanting to use this tool for searching…
 
 - 4.1 - There are too many things to listen to before I can start my search
+     > [P2]”The top of that page should be the information for that page. So when it goes to find locations. You know what you are getting into. So, bringing up the form first rather than a lot of other stuff to read would be nice.”
+     > [P4] “I see something else here that drives me nuts. Even before you can find your location it comes up with a covid update. Do you want to know about your mask covering? You're inundated with it! All I want to know is the location of a VA thank you very much.”
+
 - 4.2 - There are too many requirements to fill in
+     - Participants expressed wanting an easier way to search
+     - [P4 - while using Service Type combo box / Community Providers (in VA's network)] 
+     > “it asks for service type and I’m going to use the mic and say. “Dermatology” and it literally types “Say Dermatology” [laughs]. Under Dermatology, it gives me a laundry list… and here we go: microsurgery… its like 10 things. Procedures… pediatrics… clinics… labs… pathology… and something called micrographic… well, anyway. So, I’d be at a loss… maybe clinic or lab? Honest to God, it doesn’t give a regular…”
+     >"What If I’m in a crisis? Will I scroll through all this nonsense!? Call 911. In fact, [city name] came up on Google first before VA.gov "
+
 - 4.3 - I don’t know what the requirements mean
+     - [P2 - after doing a facility search task with no results] 
+     > "It asked for 3 different types of requirements but when I checked it out, it said there were none in my location because I put the wrong requirements in for it.. Although there is a clinic here. I put the wrong definition in for the medical center because it's only a clinic... yea... I don't know the definition of what those boxes mean... I don't know what I checked on. I thought I checked the right ones. Obviously, I had the wrong definition of whatever those words were."
+     - Some users had trouble with location input
+     > [P1] “See, I think that label is more of a place marker in the field, so when I pressed enter into it is when I got to the place where you can type. You’re seeing it one way but JAWS is reading it in a different way. JAWS works best on form fields that use a label tag, like ‘label: city, state and then the form field would be right under’.  The way we do websites is when there's a link it says link but now it is done through code and the fields aren’t how they use to be. If it were my website it would be HTML with last name and then the field. Now you need to click enter on everything because you don’t really know. It's confusing to users new to computers and screen readers.”
+     - Others had trouble with Facility Type
+     > [P10] "you know the facility type thing is a little confusing for me. It would be nice to have that broken down a little bit for options. The VA health thing… So… I mean I guess instead of saying “VA HEALTH”... all of those things underneath are va health pieces… so maybe “VA hospital, CBOC, VA urgent care clinic, or whatever…”
+
 - 4.4 - I didn’t put in the right requirements, so it tells me there’s an error
 - 4.5 - I want to choose by something that I’m familiar with, like clinics or hospitals
 - 4.6 - The service type combo box doesn’t work
