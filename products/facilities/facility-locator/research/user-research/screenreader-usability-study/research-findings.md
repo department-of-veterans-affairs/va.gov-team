@@ -158,6 +158,7 @@ Consuming Facility Locator search results was also tricky…
 6. [P9] One ZoomText user mentioned liking the VA.gov layouts that were contained within a defined content area but conversely struggles with layouts and transitions that are spread out, because it is difficult to locate the next item you will need when using magnification software. He would prefer:
 “On the va.gov have all login stuff on the same side so it’s right down in a row [column] so you’re not going from one side to the other side. That would be the main thing. Just have it right in the row. You can have the login button and then it brings you right down below, and there it is. Rather than going from one side to the other.  On the VA site, the login is in the far right hand corner. When it comes up the screen is on the left side of the page halfway down. When you have it big enough to read it [with the screen magnifier], you can’t see both of them at the same time.” 
 
+--- 
 
 ## Key Insights with Supporting Findings
 
