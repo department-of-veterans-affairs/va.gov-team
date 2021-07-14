@@ -16,7 +16,7 @@ The goal of this usability study is to assess how easily participants locate and
 
 ## Research Methodology 
 
-We conducted moderated task-based user research sessions via Zoom June 14-21, 2021. Each session was approximately 45 minutes long and consisted of a few warm up questions, a wayfinding task on va.gov, and three tasks within a UXPin prototype. This allowed us to explore veteran expectations and understanding of the COE process and usability of the form.
+We conducted moderated task-based user research sessions via Zoom June 14-21, 2021. Each session was approximately 45 minutes long and consisted of a few warm-up questions, a wayfinding task on va.gov, and three tasks within a UXPin prototype. This allowed us to explore veteran expectations and understanding of the COE process and assess the usability of the form.
 
 Our hypotheses were:
 - Users will initially look for a direct link in the whit quadrant on the home page; many will locate COE landing page after several steps
