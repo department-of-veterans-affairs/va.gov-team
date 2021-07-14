@@ -66,3 +66,11 @@
 * User exits to About this tool page
 * User downloads data on all schools (Excel download)
 	 
+
+
+## KPIs - tracked outside GIBCT
+* More use of GI Bill benefits
+* Increased Yellow Ribbon usage
+* Number of users who apply after searching/from the GIBCT
+* Increasing rates of those who attend schools found using the tool
+* Fewer help desk calls/questions
