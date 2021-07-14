@@ -1,6 +1,6 @@
 # How VAOS displays a MAS v1 appointment
 
-There are a few broad types of appointments that come through MAS.
+The mobile appointment service (MAS) is our current source for VA appointment data, past and present. It collects both appointments from VistA as well as video appointments from TMP and VCM. There is currently a version 2 update in progress that will change the data format returned and also shift the focus of MAS to serving both staff and veteran facing clients. When this happens, veteran facing clients will need to switch to pulling appointments from the new VAOS service appointments endpoint.
 
 ## Determining type
 
