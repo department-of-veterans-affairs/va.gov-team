@@ -28,7 +28,7 @@ There are a few things I need to mention before we start:
 - How did you get into representing veterans?
 
 ## Section one: Becoming a VSO/rep
-- How is your role commonly referred to? VSO, Veteran Service Officer, rep, etc.?
+- How is your role commonly referred to? [VSO, Veteran Service Officer, rep, etc.?]
 - What are your own service and VA benefits experiences?
 - What credentials or training are need to be a VSO?
 
