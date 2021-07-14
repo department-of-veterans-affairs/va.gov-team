@@ -206,7 +206,7 @@ Months 19-24: $XX/mo
 
 { end grey box for Estimated benefits }
 
-**Note:** Housing rate and the amount of entitlement used decrease every 6 months as employer pay increases ([Learn more](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/))
+**Note:** Housing rate and the amount of entitlement used decrease every 6 months as employer pay increases 
 
 ## Getting started with benefits
 
