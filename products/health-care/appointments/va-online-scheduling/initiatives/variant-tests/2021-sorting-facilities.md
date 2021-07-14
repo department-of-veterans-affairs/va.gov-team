@@ -12,7 +12,7 @@ _background info_
 
 ## Analytics
 
-Dashboard: 
+Dashboard: https://analytics.google.com/analytics/web/#/dashboard/OJY0YEinTf2JR4Gk3HsSUw/a50123418w177519031p176188361/
 
 ### Events
 
