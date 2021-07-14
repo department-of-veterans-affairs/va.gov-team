@@ -19,7 +19,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Recommendations](#recommendations)
 * [Key Insights Detailed](#key-insights-detailed)
 * [Additional Insights](#additional-insights)
-* [Recommendations overall with details](#recommendations-overall-with-details)
+* [Recommendations Detailed](#recommendations-detailed)
 * [Recommendations for Facilities Team](#recommendations-for-facilities-team)
 * [Next Steps](#next-steps)
 * [Further research needed](#further-research-needed)
