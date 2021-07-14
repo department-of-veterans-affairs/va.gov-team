@@ -58,7 +58,7 @@ Participant demographics:
 
 This research may not meet the needs of the following underserved Veteran communities, as the focus was primarily on recruiting Veterans with assistive technologies: Veterans with cognitive disabilities (only 1 Veteran disclosed having a learning disability, Veterans with other than honorable discharge, Veterans with immigrant origins, Latinx, Biracial, Asian, and Native Veterans, LGBTQ+ Veterans.
 
-## Level of vision and assistive technology used:
+### Level of vision and assistive technology used:
 Participants in this study had differing levels of vision, unique combinations of devices and assistive technology and displayed varying degrees of experience using their assistive technologies.
 
 P# | LEVEL OF VISION | DEVICE | ASSISTIVE TECHNOLOGY |EXPERIENCE LEVEL
