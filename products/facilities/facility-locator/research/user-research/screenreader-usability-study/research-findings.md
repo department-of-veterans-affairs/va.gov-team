@@ -10,7 +10,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 
 * [Research Goals](#research-goals)
-* [Methodology](#methodology)
+ * [Methodology](#methodology)
 * [Research Questions](#research-questions)
 * [Who we talked to](#who-we-talked-to)
 * [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
