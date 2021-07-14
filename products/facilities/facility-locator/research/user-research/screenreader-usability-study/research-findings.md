@@ -13,9 +13,9 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Hypotheses](#hypotheses)
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
-* [Key Insights Detailed](#key-insights-detailed)
+* [Key Insights with supporting findings](#key-insights-with-supporting-findings)
 * [Additional Insights](#additional-insights)
-* [Recommendations Detailed](#recommendations-detailed)
+* [Recommendations with details](#recommendations-with-details)
 * [Recommendations for Facilities Team](#recommendations-for-facilities-team)
 * [Next Steps](#next-steps)
 * [Further research needed](#further-research-needed)
@@ -96,7 +96,8 @@ Technical limitations also prevented testing with Veterans who use switch device
 **LIKELY UNTRUE:** Results listings are perceived inconsistently across users of different assistive technologies. Many key features and information were missed by screen readers, making the experience confusing for many.
  
 ## Key Insights
-### Findings section 1 - Navigation Assistive Technology
+
+### Findings section 1 - Navigating websites with Assistive Technology
 As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming
 
 - 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
@@ -161,28 +162,117 @@ Overall, some things that would improve my experience would be to…
 9. Name states of components with descriptions like ‘menu open’ so I don’t waste time listening for clues of what just happened
 10. Don’t make me know how to spell things
 
-## Key Insights Detailed
+## Key Insights with Supporting Findings
+
+### Findings section 1 - Navigating websites with Assistive Technology
+#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [see homepage audit doc for participant journeys with visual diagrams](https://docs.google.com/document/d/1xOjW57RyZIBZwywfBdPK8Nc2P-j4oiVoojT6-MGbrIk/edit?usp=sharing)
+
+- 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
+  - According to a recent [Webaim survey](https://webaim.org/projects/screenreadersurvey9/#finding) (see table below), when trying to find information on a lengthy web page, screen reader users navigate via headings most often. We observed many combinations of navigation methods in our study, including the use of ‘skip to content’ which most screen readers use sometimes (>28%), often (>14%) or always(>16%).
+
+Response | % of respondents
+---------------------------------------------------|------------------
+Navigate through the headings on the page | 67.7%
+Read through the page | 8.1%
+Use the Find feature | 13.9%
+Navigate through the links of the page | 7.1%
+Navigate through the landmarks/regions of the page | 3.2%
+
+  - P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed attempts to complete task number two. The participant is taken to the ‘Service member benefits’ H2. From this point, the user was mentally stuck on trying to complete the task within a ‘benefits’ category that would apply to him. Notice the user’s scanning behavior, as he listens to elements on the page multiple times to understand where he is, what the page is about and where he should go next. This attempt took two minutes and fifteen seconds. On his third attempt, the participant tries to navigate by listening to the headings on the page from the top. Since he did not use ‘skip to content’, this time the homepage appeared to have completely different content than on his first visit. 
+![P1 - Attempt 1 and 3](https://user-images.githubusercontent.com/4960080/125654657-ca5d7d0b-378f-4183-9093-7ff4977aefb1.png)
+
+> [P1] “Do you understand one thing I said? I typed in VA.gov a while ago and this is not the page that it took me to. So, I went back a page. I don’t know what you see but according to my screen reader, I haven’t been to this page before. I didn’t hear any of this stuff previously” [reflecting on his ‘skip to content’ attempt] “Why in heaven's name did it take me to the middle of the page?”
+
+- 1.2 - I keep my desktop clean to not confuse my screen reader
+- 1.3 - I make my viewport small so I may get a mobile experience on desktop
+  - Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users. For example, P1 experienced the mobile version of the global nav menu even though he was on a desktop. 
+  - ![minimized](https://user-images.githubusercontent.com/4960080/125656309-c78619df-df9d-4043-8ee4-0293895ead32.png)
+
+  
+- 1.4 - I am new at using Siri but want to keep learning new ways of dictating my needs
+- 1.5 - It’s easy for me to make spelling mistakes
+  - P6: “Barooklyn new york”
+  - P9: “va dermatalgist”, “va hospitals soudth ca”
+  - ![spelling-mistakes](https://user-images.githubusercontent.com/4960080/125657249-98bbca76-7437-4416-b618-0df2382d6488.png)
+  - P4, who was diagnosed with Dyslexia after retiring from a successful military career, explains why dictation assistive technology helps her: 
+  > “And you said ‘Dermatology’? I can’t spell that so I’m hoping I can use the mic... Normally, I talk into it with a mic [mic icon button on iOS apps that triggers dictation mode]. Because my spelling is atrocious, I tend to do it orally and it recognizes my voice. Most of the time if I type it, I fight with it, with the spelling.”
+
+
+### Findings section 2 - Online search behavior
+#### When I look for location information for a place that I need to visit physically, I use my search engine either by dictating or typing in my search parameters…
+
+- 2.1 - I already know my VA so I would likely only do this for unfamiliar locations
+- 2.2 - I prefer to dictate location searches on my phone because it’s quicker and easier
+  - P6 wasn’t able to demonstrate but explained that he would likely dictate to Siri in the following manner: 
+   > “where is the closest Veteran's hospital?”
+- 2.3 - I use JAWS on my desktop for more complex searches or tasks
+   > [P10]“For [a recent location search] started out with my phone, opened the app, got the city put in [dictates to Siri] “VA facility near fairfield texas” and then I went to the computer um… cuz I wanted to look at the biggest town next to the city they were looking at and then I looked at it on my desktop computer to Google events. When I’m looking up a location a phone is more convenient and easier. [Moderator: how so?] The search feature, I don’t have to wait for it to boot up. Siri is there.” 
+- 2.4 - Search engine results info is usually all I need, next I call or get directions
+  > [P1: After showing how he’d find his nearest VA online] “it pulled the address off of the VA website. [has SR repeat the source “Department of Veteran Affairs”] See, I wouldn’t really go there now because I already found what I wanted. But this is also one that I happen to know because it’s 8/10’s of a mile [away].”
+  > [P4 reflecting on using Facility Locator post task] “Anyway, I just wouldn’t search like that. Say if I’d do Google, I’d “find VA clinic, find VA hospital” I wouldn’t ask for a location.”
+- 2.5 - I trust a search engine result when I hear VA.gov is the source
+- 2.6 - I wish I could see hours and services of VA facilities on Google search results
+- 2.7 - Sometimes I do see hours but they don’t make sense to me
+  - P9: Low-vision Veteran and wife, who is nearby to help, explain a recent VA facility search using Bing.com to look for VAs close to where they were considering moving. They explained how in their travels they’ve visited different VA facilities that vary widely in terms of the services and want to know if a listing is for a “little clinic” or more comprehensive like their own VA medical center. 
+  - ![sc-search](https://user-images.githubusercontent.com/4960080/125658654-9e24df98-1cfa-4c4b-b5a4-72cdf0fddcbc.png)
+  - The couple demonstrate their search and point out that second search result listing was for a “VA Medical Center” that lists ‘Hospital’ as a service but the closing time of 6:30pm was confusing to them. They didn't mention clicking for more information. In fact, although they described being frequent users of MyHealtheVet (bookmarked in their browser) they were unfamiliar with the VA.gov homepage when prompted to go there for their first task .
+  - [Later, while on a facility page, this couple circles back to the importance of understanding ER services, with a personal anecdote] 
+  > “It has the hours as 24/7 but that might be because they have the ER and pharmacy. One thing it doesn’t say, that I have seen and heard before, is that if you are feeling you have a heart attack go to the ER. Even though it says cardiology, you don’t go there for heart attacks. If you look at this it says cardiology but doesn’t tell you not to go there. It would be nice if they say, ‘if having a heart attack call 911 and go to the ER’. We had a Vet in our group and they said don’t go to the VA ER because they can’t help so I think that should be on there. When having a heart attack seconds can make a difference.”
+
+
+### Findings section 3 - Using VA.gov
+#### When I search for things on VA.gov, I have trouble finding what I am looking for... 
+
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily 
+- 3.2 - Global searches don’t produce relevant results
+- 3.3 - I get routed to too many different pages
+- 3.4 - If I find something useful, I don’t know how to retrace my steps later
+- 3.5 - I encounter too much information and I get overwhelmed
+- 3.6 - Location searches [teamsite] result in a list that I have to Google individually
+
+### Findings section 4 - Facility Locator searches
+#### I didn’t know Facility Locator existed, but now that I do, I encounter some obstacles that would deter me from wanting to use this tool for searching…
+
+- 4.1 - There are too many things to listen to before I can start my search
+- 4.2 - There are too many requirements to fill in
+- 4.3 - I don’t know what the requirements mean
+- 4.4 - I didn’t put in the right requirements, so it tells me there’s an error
+- 4.5 - I want to choose by something that I’m familiar with, like clinics or hospitals
+- 4.6 - The service type combo box doesn’t work
+- 4.7 - If I’m in a crisis, I won’t want to struggle with this page
+- 4.8 - I prefer to just enter searches into one simple search box
+
+### Findings section 5 - Facility Locator results
+#### Consuming Facility Locator search results was also tricky…
+
+- 5.1 - I did a search but the screen reader didn’t tell me that there weren’t results
+- 5.2 - I got results but I don’t know what the letter and number combination means
+- 5.3 - I don’t hear a way to get directions to these locations
+- 5.4 - It not clear to me what is a phone number or other piece of information
+- 5.5 - I don’t know what ‘limited services and hours means’
+- 5.6 - I didn’t realize that I was being taken to Google Maps, I like to know this
+- 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
+- 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
 ## Additional Insights
 
-## Recommendations overall with Details
+## Recommendations with Details
 
 ## Recommendations for Facilities Team
 
 ### On Facility Locator - Short term
 
-1. Establish a page hierarchy for Facility Locator, detail and product pages and assess how they follow this between different navigation methods
-    1. All facility detail and product pages need to manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
+1. Establish a page hierarchy for Facility Locator, its detail pages as well as new facility product pages and test for consistency between different navigation methods (e.g. by heading level, skip to content, etc)
+    1. Ensure these pages manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
 2. Make ‘Skip to content’ link go to the page H1	
     1. On Facility Locator, Skip to content goes to the page breadcrumb which causes a screen reader user to have to manually skip over less important content before starting their search.
 3. Move the COVID content and links into an alert region that can be announced as such. This will allow a screen reader to read the page more efficiently. 
 4. Work with accessibility specialists to assess the location input to ensure the label and edit box combination make sense on a screen reader. For example, is the ‘Use my location’ input interrupting the expected flow for users? 
     1. Consider a new placement for ‘Use my location’
-5. Service type combo box:
+5. Service type combo box / Community Providers (in VA's network):
     1. Update the hint text to accurately describe the action a user must need to take
-    2. Consolidate service type options so that selections are easier to make
-    3. Consider creating subgroupings
-    4. Work with accessibility specialist to assess how improvements will work with assistive technology
+    2. Consider consolidating or grouping service type options so that selections are easier to make
+    3. Work with accessibility specialist to assess how improvements will work with assistive technology
 6. Restore results text when no results are found after a search
     1. Work with accessibility specialists to assess the appropriate type of announcement so that users are more likely to hear this information.
 7. Fix “Get directions” and ‘phone’ links
@@ -192,18 +282,19 @@ Overall, some things that would improve my experience would be to…
      - Would numbered listings be more natural to hear when announced by a screen reader?
      - Mileage could be better labeled and described by screen readers 
      - Is the placement of these elements optimal? 
+9. Assess and incorporate keywords. Veterans don’t think to look for a facility locator and are likely to use global search when looking for a facility. Work with other teams to:
+    1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
+    2. Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
+
 
 ### On Facility Locator - Medium term
 
-
-9. Add ‘Google as the front door for Facility Locator and facility product pages’ as a use case to solve for and create an action plan.
+10. Add ‘Google as the front door for Facility Locator and facility product pages’ as a use case to solve for and create an action plan.
     1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into the product
      - E.g. Multiple users mentioned searching for burial and cemetery information and urgent care. Top terms could be surfaced in the page description.
     2. Start experimenting with structured content for location addresses and hours to see how changes could positively affect search engine search results
     3. Investigate how structured health data reconciles with current health taxonomy
-10. Assess and incorporate keywords. Veterans don’t think to look for a facility locator and are likely to use global search when looking for a facility. Work with other teams to:
-    1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
-    2. Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
+
 
 ### On Facility Locator - Long term (Hypotheses to test)
 
