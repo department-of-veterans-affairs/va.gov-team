@@ -10,6 +10,9 @@ There are 2 free-standing CLCs with dual state status at this time. However, the
 
 ### Community Living Center Examples
 
+- **Miles City, MT**
+  - Miles City VA Community Living Center
+    - [VA system site](https://www.va.gov/montana-health-care/locations/miles-city-va-community-living-center/)
 - **Philadelphia, PA**
   - Corporal Michael J. Crescenz VAMC CLC
     - [Legacy site](https://www.philadelphia.va.gov/visitors/nhcu.asp)
