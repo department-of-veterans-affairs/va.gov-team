@@ -43,8 +43,8 @@
 
 * CLP governance
 * Meta tags https://pr5828-wrb1q983pfwgqw6ixqwofsjszpwdosrp.ci.cms.va.gov/ 
- * Check if og:image has a value before including it in the page template? 
- * FE vs CMS spec 
+  * Check if og:image has a value before including it in the page template? 
+  * FE vs CMS spec 
 * #18151 TTY phone numbers in right rail of Hub landing pages.
 
 
