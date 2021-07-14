@@ -1,0 +1,198 @@
+# GitHub Actions Usage for VA.gov Front-End Engineers
+
+## Table of Contents
+
+1. [Workflow Functionality](#workflow-functionality)
+    1. [Continuous Integration workflow](#continuous-integration-workflow)
+    1. [Pull Request workflow](#pull-request-workflow)
+1. [Workflow Statuses](#workflow-statuses)
+    1. [Viewing all workflow statuses for a commit](#viewing-all-workflow-statuses-for-a-commit)
+        1. [Pull requests](#pull-requests)
+        1. [Commit statuses](#commit-statuses)
+    1. [Viewing the summary and pipeline visual for a workflow run](#viewing-the-summary-and-pipeline-visual-for-a-workflow-run)
+        1. [Matrix jobs](#matrix-jobs)
+        1. [Job dependencies](#job-dependencies)
+    1. [Cancelling and re-running failed workflows](#cancelling-and-re-running-failed-workflows)
+    1. [Using the GitHub CLI to interact with workflow runs](#using-the-github-cli-to-interact-with-workflow-runs)
+1. [Troubleshooting](#troubleshooting)
+    1. [Linting](#linting)
+    1. [Unit tests](#unit-tests)
+    1. [Cypress E2E tests](#cypress-e2e-tests)
+1. [Edge Cases](#edge-cases)
+    1. [Multiple runs of the same workflow](#multiple-runs-of-the-same-workflow)
+    1. [Test summaries appear under wrong workflows](#test-summaries-appear-under-wrong-workflows)
+
+## Workflow Functionality
+
+With GitHub Actions, we can create **workflows**, which are pipelines or automated processes that can be triggered by a variety of events.
+
+Workflows are made up of **jobs**, which are sets of steps or commands, representing tasks such as building and testing.
+
+The workflows you may find relevant are the "Continuous Integration" and "Pull Request" workflows.
+
+### Continuous Integration workflow
+
+This workflow runs whenever changes are pushed to a branch. No matter how many commits you make locally, the workflow only gets triggered on push.
+
+It's responsible for typical CI processes, consisting of jobs such as building, testing, and deploying.
+
+It also has a job that lints files across the entire repo. For PRs, this gets skipped in favor of the linting job in the "Pull Request" workflow, which only lints files changed.
+
+### Pull Request workflow
+
+This workflow runs whenever a pull request is created or commits are pushed to a pull request.
+
+Its jobs run certain checks on changed files, including:
+- Linting only files changed, which differs from the "Continuous Integration" linting that runs on all files in the repo
+- Raising concerns when Sentry calls are made in case PII is mistakenly included in the report
+- Reminding that icons should have ARIA attributes when they are interactive
+- Double checking whether disabling ESLint rules is completely necessary
+
+When issues are detected, these checks annotate or comment on the relevant sections of code.
+
+## Workflow Statuses
+
+### Viewing all workflow statuses for a commit
+
+#### Pull requests
+
+Pull requests display status checks at the bottom of the page. Click on "Details" of any job to view its console output.
+
+> ![PR job details](./0-pr-job-details.png)
+
+Alternatively, directly navigate to the "Checks" tab. To view a particular job's output, expand the workflow that contains it by clicking the chevron.
+
+To view workflow statuses for previous commits in the PR, select a commit from the commit hash dropdown.
+
+> ![PR "Checks" tab](./1-pr-checks-tab.png)
+
+#### Commit statuses
+
+Commit histories show icons to indicate the overall status of a commit.
+
+Click on the icon and then click on "Details" of any job to view its console output.
+
+> ![Commit status](./2-commit-status.png)
+
+### Viewing the summary and pipeline visual for a workflow run
+
+> ![Workflow summary page](./3-summary-page.png)
+
+Every workflow run has a summary page where you can see a graph of the pipeline to track its progress.
+
+Each box or node in the graph represents a job or matrix of jobs with an icon to indicate status (pass, fail, skipped, in progress).
+
+To get to this page, navigate to the [view with the job console outputs](#viewing-all-workflow-statuses-for-a-commit) and click on the workflow name or annotation icon.
+
+#### Matrix jobs
+
+A matrix represents a set of jobs that all run the same steps with some variations depending on certain variables.
+
+Click on any matrix in the graph to expand and view the jobs in it. The job names indicate the variations in parentheses.
+
+**Build for each environment**
+
+> ![Matrix job: build](./4-matrix-build.png)
+
+**Cypress tests split into smaller batches**
+
+> ![Matrix job: Cypress tests](./5-matrix-cypress.png)
+
+#### Job dependencies
+
+Lines between jobs indicate dependencies. The order of execution is left-to-right; jobs on the right of the line depend on and run after jobs on the left.
+
+Hover over a job to highlight the jobs that it directly depends on and the jobs that directly depend on it.
+
+The lines can sometimes overlap, making the dependency graph unclear. The relationships can be made more apparent by hovering over the relevant jobs to highlight them or clicking matrix jobs to expand them.
+
+> ![Pipeline dependency graph](./6-pipeline-dependency-graph.png)
+
+### Cancelling and re-running failed workflows
+
+In either the [workflow statuses view for a commit](#viewing-all-workflow-statuses-for-a-commit) or the [summary page of a workflow run](#viewing-the-summary-and-pipeline-visual-for-a-workflow-run), you may cancel or re-run a workflow.
+
+To **cancel a workflow**, click the button to "Cancel workflow".
+
+> ![Cancel workflow](./7-cancel-workflow.png)
+
+To **re-run a workflow** that has failed, expand the dropdown to "Re-run jobs" and click the button to "Re-run all jobs".
+
+> ![Re-run all jobs](./8-re-run-jobs.png)
+
+### Using the GitHub CLI to interact with workflow runs
+
+You may use the `gh` [command line tool](https://cli.github.com/) to interact with workflow runs.
+
+| Command           | Description                                        |
+| ----------------- | -------------------------------------------------- |
+| `gh run list`     | List recent workflow runs                          |
+| `gh run view`     | View details for a workflow run or one of its jobs |
+| `gh run watch`    | Watch a workflow run while it executes             |
+| `gh run rerun`    | Rerun a failed workflow run                        |
+| `gh run download` | Download artifacts generated by runs               |
+
+With `gh run list`, you get a list of the most recent workflow runs and their IDs, which can be passed as an argument to the other commands.
+
+If you don't pass specific IDs, the commands will allow you to pick among a limited list of recent runs. In the case of `gh run download`, you can choose to download artifacts from the most recent run that had artifacts.
+
+Run `gh run view --web` to see the workflow run summary in the GitHub UI.
+
+## Troubleshooting
+
+In general, you may view the console logs for details about any job execution.
+
+Some jobs provide additional information that may be useful for troubleshooting.
+
+### Linting
+
+The linting job in the "Pull Request" workflow annotates any problematic areas in the changed code.
+
+> ![Linting annotations](./9-linting-annotation.png)
+
+### Unit tests
+
+Unit tests produce a "Unit Tests Summary" in the list of jobs under the workflow.
+
+It contains the following information:
+- Number of tests run, skipped, and failed
+- Annotations for any test failures
+- Code coverage report
+
+> ![Unit tests summary](./10-unit-tests-summary.png)
+
+### Cypress E2E tests
+
+Cypress tests produce a "Cypress Tests Summary", which is similar to the unit tests summary.
+- It contains the number of tests run, skipped, and failed as well as annotations for test failures.
+- Additionally, there is an external link to a Mochawesome test report, which is more comprehensive.
+
+> ![Cypress tests summary](./11-cypress-tests-summary.png)
+
+There are also screenshot and video artifacts generated for any test failures.
+
+> ![Cypress artifacts](./12-cypress-artifacts.png)
+
+## Edge Cases
+
+### Multiple runs of the same workflow
+
+Commits can sometimes show multiple, seemingly duplicate, runs of a workflow (e.g., "Continuous Integration").
+
+> ![Multiple workflows for a commit](./13-multiple-runs.png)
+
+This can happen when a branch is created from that commit and pushed without adding any new commits. As a result, the workflow is triggered by a push event for the same commit hash.
+
+Navigating to the summary of the run should indicate which branch triggered the run.
+
+> ![Link to branch in workflow summary](./14-summary-branch.png)
+
+### Test summaries appear under wrong workflows
+
+Occasionally, the Unit Tests Summary and Cypress Tests Summary may appear under workflows other than "Continuous Integration".
+
+[This is an bug with how GitHub Actions and check runs that hasn't yet been fixed.](https://github.community/t/github-actions-status-checks-created-on-incorrect-check-suite-id/16685)
+
+Although they may appear under different workflows, they can still be found in the overall list of [PR check statuses or in commit statuses](#viewing-all-workflow-statuses-for-a-commit).
+
+> ![Test summaries in unrelated workflow](./15-wrong-workflow.png)
