@@ -50,6 +50,7 @@ We talked to **7 Veterans:**
 Participant demographics:
 - Education: Some college (3), Associate's degree (1), Bachelor's degree (1), Master's degree (1), Doctorate degree (1)
 - Geographic location: Urban (4), Rural (3)
+- People of color: Black (3)
 - Ages: 55+ (6), 35-44 (1)
 - Female: 2 
 - Cognitive disability: (1)
