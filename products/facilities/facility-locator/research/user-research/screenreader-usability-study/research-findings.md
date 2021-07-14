@@ -170,7 +170,7 @@ Overall, some things that would improve my experience would be to…
 
 ## Recommendations for Facilities Team
 
-On Facility Locator - Short term
+### On Facility Locator - Short term
 
 1. Establish a page hierarchy for Facility Locator, detail and product pages and assess how they follow this between different navigation methods
  - All facility detail and product pages need to manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
@@ -194,7 +194,7 @@ On Facility Locator - Short term
    - Mileage could be better labeled and described by screen readers 
    - Is the placement of these elements optimal? 
 
-On Facility Locator - Medium term
+### On Facility Locator - Medium term
 
 
 9. Add ‘Google as the front door for Facility Locator and facility product pages’ as a use case to solve for and create an action plan.
@@ -206,7 +206,7 @@ On Facility Locator - Medium term
  - Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
  - Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
 
-On Facility Locator - Long term (Hypotheses to test)
+### On Facility Locator - Long term (Hypotheses to test)
 
 11. Reassess what is the most important information to deliver on Facility locator. Veterans in this study, who use assistive technology, expressed similar information preferences as those who don’t use assistive technology as observed in past studies. In fact, this study just highlighted the need to deliver the most important information as efficiently as possible as problems experienced by sighted users are felt even more acutely by those using assistive tech. Consider improvements that would help all users.
  - Is a map delivering value to Veterans? Veterans use other means to map directions later in their decision-making journey and it is unlikely that they would come to Facility Locator to do that. Could the mileage data point and ‘Get directions’ be enough without displaying a map or perhaps reducing its screen allocation (e.g. ⅓  vertical strip like Yelp or AirBnb)? If so, part or all of this real estate could be better allocated to information that would be more useful to Veterans when comparing between facilities.
