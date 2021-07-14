@@ -14,10 +14,19 @@ June 30, 2021
 ## Things to figure out
 
 - What 'action items' do we currently give Veterans?
+  - For MVP we will be starting with any notifications from VA notify. Right now those are:
+    - Reminders to finish in-progress applications
+    - Board of appeals hearing reminders
+    - Scheduled payment updates
+    - Appointment reminders
+    - Prescription shipment and tracking updates
+    - Covid-19 updates
+
+  We would like to add 'new messages' to this, but we will need to talk with the VA notify team to get this implemented.
 - What 'action items' are actually useful to Veterans?
 - How are we handling 'action items' elsewhere on the site? (if anywhere) Is the current approach on VA.gov working (if any)?
+  -  Based on an [audit of VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/va.gov-action%20item-audit.md), there isn't really anywhere else that we are handling action items.
 - What specific things in each section are important for users?
-- What alerts will we be including?
 - What does an interaction look like around alert indicators?
 - How does the alert indicator work? When does it go away? When does it show up?
 - When is something considered read? What happens then?
