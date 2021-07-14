@@ -24,7 +24,7 @@
 
 </details>
 
-## July 14, 2021 - Stage: Define / Design
+## July 15, 2021 - Stage: Define / Design
 Action items:
 1. Summarize any items from last meeting - Updates from Soni/Josh
 2. Review Mock Ups (@Cassandra) [Sketch](https://www.sketch.com/s/b3f90417-a2a0-41f5-8fb9-151ce163710a) 
