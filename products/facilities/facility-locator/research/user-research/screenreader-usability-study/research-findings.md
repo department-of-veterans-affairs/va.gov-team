@@ -8,6 +8,12 @@ Digital Services Veterans Affairs (DSVA), VSA, Facility Locator, June 24, 2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md).
 
+
+* [Research Goals](#research-goals)
+* [Methodology](#methodology)
+* [Research Questions](#research-questions)
+* [Who we talked to](#who-we-talked-to)
+
 ## Research Goals
 The purpose of this research is to establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices. Understanding how Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, to try to complete facility search tasks will help us plan future product improvements so that all Veterans can easily perform a search and consume results.
 
