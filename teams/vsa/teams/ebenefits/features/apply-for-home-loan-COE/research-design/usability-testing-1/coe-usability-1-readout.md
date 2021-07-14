@@ -25,10 +25,9 @@ Our hypotheses were:
 - Users will expect their COE to be available in various ways: physical letter, email, printed, and/or within an authenticated profile/dashboard
 - Users will ask for directly available information (chat, direct phone, lookups) about the COE, lenders and /or realtors
 
-
 ### Who we talked to
 
-- 5 Veterans
+- Five Veterans
 - Gender:
   - Female: 2
   - Male: 3
@@ -50,7 +49,6 @@ Our hypotheses were:
 - Familiar with COE:
   - Yes: 3
   - No: 2
-
 
 ### Research Questions
 
