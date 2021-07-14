@@ -21,6 +21,10 @@
 
 </details>
 
+## July 14
+  * Discuss va- randomness in Health Service import, is current resolution path acceptable?
+  * 
+
 ## July 9 
 
  * What to do about Lovell now that it's (maybe?) in VAST
