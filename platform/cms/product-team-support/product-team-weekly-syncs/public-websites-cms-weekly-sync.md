@@ -50,7 +50,7 @@
     * 2. Web governance board would approve use, and spread awareness 
   * CLP request form would still be used for awareness.
   * Content admin will still need to clone CLPs after request is received. PW will take 
-    * CMS team will document CLP cloning for Content Admins in Knowledge Base article in CMS sprint 37.
+    * CMS team will document CLP cloning for Content Admins in Knowledge Base article https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5857
 * Meta tags https://pr5828-wrb1q983pfwgqw6ixqwofsjszpwdosrp.ci.cms.va.gov/ 
   * Check if og:image has a value before including it in the page template? 
   * FE vs CMS spec 
