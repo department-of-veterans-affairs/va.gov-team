@@ -34,7 +34,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) for QA practice area review
 
 ## Scheduling
-Would you like this review to be asynchronous? Please refer to the Midpoint Review guidance for the difference between a synchronous meeting and an asynchronous review.
+Would you like this review to be asynchronous? Please refer to the [Midpoint Review guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md) for the difference between a synchronous meeting and an asynchronous review.
 - [ ] Yes
 - [ ] No
  
