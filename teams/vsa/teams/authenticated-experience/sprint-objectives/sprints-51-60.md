@@ -95,8 +95,8 @@ Any outstanding work from 51 plus:
 - phase 2 of auth experience best practices research? (24974)
 
 ### Preferred medical facility 
-_Pause on development_
 - My VA treatment facilities research
+
 
 ## Sprint 53 (7/28 - 8/10)
 
@@ -105,37 +105,67 @@ _Pause on development_
 
 ### Action Items Discovery
 **Design/Research**
-- Conduct research
+- Create research plan and convo guide
 
 ### Notification preferences
 **PM**
 - Product guide updates
 - Submit product guide to Contact Center for review
+- Submit analytics request
+- Submit QA test plan request for QA to occur in sprint 55
 
 **Design/Research**
+- Assist with product guide updates
 - Design solution for oreniting users to notification preferences as a new concept on VA.gov
 
 **Frontend**
-- Finish build
+- FINISH BUILD
 
-### Preferred medical facility 
-Pause recommendation continues
+### Profile
+- as needed
+
 
 ## Sprint 54 (8/11 - 8/24)
 
-### My VA redesign
-
-### Action Items Discovery
+### My VA - Action Items Discovery
 **Design/Research**
-- Research synthesis
+- Recruit for and run research
 
 ### Notification preferences
 
-### Preferred medical facility 
-_Pause recommendation continues_
+**PM**
+- Internal QA
+- Submit staging review request for sprint after next?
+
+**Design/Research**
+- TK
+
+**Frontend**
+- Resolve any internal QA issues
+
 
 
 ## Sprint 55 (8/25 - 9/7)
+
+### My VA - Action Items Discovery
+**PM**
+- MVP discussions with Kevin
+
+**Design/Research**
+- Research synthesis
+- MVP discussions with Kevin
+
+### Notification preferences
+
+**PM**
+- TK
+
+**Design/Research**
+- TK
+
+**Frontend**
+- TK
+
 
 ## Sprint 56 (9/8 - 9/21)
 
