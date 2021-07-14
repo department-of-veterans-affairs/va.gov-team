@@ -275,6 +275,9 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 4.7 - If I’m in a crisis, I won’t want to struggle with this page
 - 4.8 - I prefer to just enter searches into one simple search box
      > [P2 - post task magic wand question] “If something simple like 'What are you looking for?' To me it would be like 'Dermatologist!' umm…. What else… 'pharmacy!!'. 'What are you looking for?' Very straight, right to the point, you know? Search is a term that’s used for programmers and people like that. The search could be very vast but help you narrow down. The reason why I’m saying, I’m trying to make it plain is if I’m a 90 year old Veteran, I may not be familiar with all these things. But I know the term, 'What are you looking for?' That’s very direct."
+     > [P4 - post task] “Truthfully, I think it’s a pain in the neck. It gave me too many options!! It says urgent care, VA doesn’t have urgent care as far as I know. Community provider network only.. Pharmacy.. Va benefits.. Cemeteries. I mean there’s big differences in what you’re looking for here. And then it says service type… and what are the options? Or you have to fill it in. One good thing that came out of it, I had no idea that you could find cemetery information on VA.gov. It comes in handy. [what would be better?] If it had just popped up with Straton. If it had just gone. Instead, it gave me these options. It didn’t give me what's in Albany, NY until you gave it this extra criteria. It wouldn’t go anywhere. What If I’m in a crisis will I scroll through all this nonsense!? Call 911.  In fact, Straton came up first before VA.gov came up on Google.” 
+     - [User is pointing out that when she demonstrated her Google search earlier, her VA came up immediately]
+
 
 
 ### Findings section 5 - Facility Locator results
