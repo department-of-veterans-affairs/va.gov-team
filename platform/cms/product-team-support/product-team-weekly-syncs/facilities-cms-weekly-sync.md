@@ -31,7 +31,7 @@ Vet Centers
 VAMC
 * Photos on VAMC Stories appear grainy https://github.com/department-of-veterans-affairs/va.gov-team/issues/27280
 * Leadership feature flag and other feature flags https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500
-*  
+* [Additional Info component on VAMC detail pages](https://dsva.slack.com/archives/C01H29ERVJ7/p1626207343227700).
 
 ## July 7
 
