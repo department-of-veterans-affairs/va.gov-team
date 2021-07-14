@@ -28,38 +28,41 @@ There are a few things I need to mention before we start:
 - How did you get into representing veterans?
 
 ## Section one: Becoming a VSO/rep
-- How is your role commonly referred to? [VSO, Veteran Service Officer, rep, etc.?]
+- How is your role commonly referred to? (VSO, Veteran Service Officer, rep, etc.)
 - What are your own service and VA benefits experiences?
 - What credentials or training are need to be a VSO?
 
 ## Section two: Starting an appointment
 Okay, let’s talk a little bit about how Veterans and Service Members find you and start an appointment.
-- Do they typically come through the VA lookup, some other search like Google, referrals…?
-- Do Veterans or Service Members select a rep individually or are they assigned in some way? If assigned, how does that happen or who makes that choice?
-- Do they typically reach out for a consultation before submitting an appointment? If yes, is that usually by phone, email, webform…?
-- How far along in the benefits/claims process are Veterans when they reach out? 
-- When Veterans are ready to make an appointment do they typically use VA 21-22/a? If so, do they typically use a paper form or submit electronically?
+- How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc)
+- How do they contact you before they appoint a rep? (phone, email, webform…?)
+- Typically, how far along in the benefits/claims process are Veterans when start looking for a rep? 
+- When a Veteran is ready to appoint a representative, how do make that selection official? (use VA 21-22/a? typically use a paper form or submit electronically?)
+- `Do Veterans or Service Members select a rep individually or are they assigned in some way? If assigned, how does that happen or who makes that choice?`
+
  
 ## Section three: Working with Veterans
 Thank you, that really helps me understand how Veterans start this process. Now, let’s talk about how things work after they have appointed you as their representative. 
 - How much information do you typically have when you receive an appointment?
 - After a Veteran or Service Member appoints you as their representative, how often do you interact with them?
-- How do you usually work with them - phone, email, in person, etc?
+ - How do you usually work with them - phone, email, in person, etc?
 - What are the most common issues you help with?
-- Do you have a specialty that you focus on or do you handle all claims? Is that typical for representatives?
+- `Do you have a specialty that you focus on or do you handle all claims? Is that typical for representatives?`
 
 ## Section four: Limits and ending appointment
 Okay, we’re almost finished. I’d just like to ask a few more questions about the limits of representation and how representation ends.
-- What are the limits on what you can help with? When would you need to decline an appointment or refer to another representative?
-- When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
-- How long do appointments last?
-- When do appointments end - at the end of a claims process, after a certain amount of time…?
+- What are the limits on what you can help with? 
+ - When would you need to decline an appointment or refer to another representative?
+ - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
+- How long do appointments typically last?
+ - How do you know when an appointment is ending? (the end of a claims process, after a certain amount of time…)
+ - What is the process to end representation?
 - If you could change just one thing about the process of being appointed as a representative for a Veteran, what would it be?
 
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here. Is there anything else you'd like us to know--something we didn't cover about the representative process, claims process, or VA.gov in general?
 
 ## Closing
-Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+Thank you so much for taking the time to talk with us! This was fantastic information. Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
 
 ---
