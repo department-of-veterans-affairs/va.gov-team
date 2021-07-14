@@ -13,6 +13,17 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Methodology](#methodology)
 * [Research Questions](#research-questions)
 * [Who we talked to](#who-we-talked-to)
+* [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
+* [Hypotheses](hypotheses)
+* [Key Insights](key-insights)
+* [Recommendations - General](#recommendations-general)
+* [Key Insights - detailed with supporting findings](#key-insights-detailed-with-supporting-findings)
+* [Additional Insights](#additional-insights)
+* [Recommendations - General (detailed)](#recommendations-general-detailed)
+* [Recommendations - Facilities Team](#recommendations-facilities-team)
+* [Next Steps](#next-steps)
+* [Further research needed](further-research-needed)
+* [Appendix](#appendix)
 
 ## Research Goals
 The purpose of this research is to establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices. Understanding how Veterans, with low to no vision, who use keyboard, voice and/or other assistive technology, to try to complete facility search tasks will help us plan future product improvements so that all Veterans can easily perform a search and consume results.
@@ -48,7 +59,7 @@ Participant demographics:
 
 This research may not meet the needs of the following underserved Veteran communities, as the focus was primarily on recruiting Veterans with assistive technologies: Veterans with cognitive disabilities (only 1 Veteran disclosed having a learning disability, Veterans with other than honorable discharge, Veterans with immigrant origins, Latinx, Biracial, Asian, and Native Veterans, LGBTQ+ Veterans.
 
-### Level of vision and assistive technology used:
+## Level of vision and assistive technology used:
 Participants in this study had differing levels of vision, unique combinations of devices and assistive technology and displayed varying degrees of experience using their assistive technologies.
 
 P# | LEVEL OF VISION | DEVICE | ASSISTIVE TECHNOLOGY |EXPERIENCE LEVEL
@@ -137,7 +148,7 @@ Consuming Facility Locator search results was also tricky…
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
-### Recommendations - General 
+## Recommendations - General 
 Overall, some things that would improve my experience would be to…
 1. Establish a page hierarchy for pages and ensure that top navigation methods follow it 
 2. Tell me what a page is about with a clear heading 1 level when navigating between pages
@@ -150,3 +161,10 @@ Overall, some things that would improve my experience would be to…
 9. Name states of components with descriptions like ‘menu open’ so I don’t waste time listening for clues of what just happened
 10. Don’t make me know how to spell things
 
+## Key Insights - detailed with supporting findings
+
+## Additional Insights
+## Recommendations - Facilities Team
+## Next Steps
+## Further research needed
+## Appendix
