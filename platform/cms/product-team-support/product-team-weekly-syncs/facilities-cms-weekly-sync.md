@@ -23,6 +23,16 @@
 
 </details>
 
+## July 14
+
+Vet Centers
+* District 5
+
+VAMC
+* Photos on VAMC Stories appear grainy https://github.com/department-of-veterans-affairs/va.gov-team/issues/27280
+* Leadership feature flag and other feature flags https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5500
+*  
+
 ## July 7
 
 Leadership URLs
