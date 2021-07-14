@@ -10,6 +10,8 @@ There are 2 free-standing CLCs with dual state status at this time. However, the
 
 ### Community Living Center Examples
 
+- **Western Colorado**
+  - [Legacy site](https://www.grandjunction.va.gov/services/Community_Living_Center.asp)
 - **Miles City, MT**
   - Miles City VA Community Living Center
     - [VA system site](https://www.va.gov/montana-health-care/locations/miles-city-va-community-living-center/)
