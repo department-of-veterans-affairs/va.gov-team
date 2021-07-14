@@ -172,57 +172,57 @@ Overall, some things that would improve my experience would be to…
 ### On Facility Locator - Short term
 
 1. Establish a page hierarchy for Facility Locator, detail and product pages and assess how they follow this between different navigation methods
- - All facility detail and product pages need to manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
+    1. All facility detail and product pages need to manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
 2. Make ‘Skip to content’ link go to the page H1	
- - On Facility Locator, Skip to content goes to the page breadcrumb which causes a screen reader user to have to manually skip over less important content before starting their search.
+    1. On Facility Locator, Skip to content goes to the page breadcrumb which causes a screen reader user to have to manually skip over less important content before starting their search.
 3. Move the COVID content and links into an alert region that can be announced as such. This will allow a screen reader to read the page more efficiently. 
 4. Work with accessibility specialists to assess the location input to ensure the label and edit box combination make sense on a screen reader. For example, is the ‘Use my location’ input interrupting the expected flow for users? 
- - Consider a new placement for ‘Use my location’
+    1. Consider a new placement for ‘Use my location’
 5. Service type combo box:
- - Update the hint text to accurately describe the action a user must need to take
- - Consolidate service type options so that selections are easier to make
-   - Consider creating subgrouping
- - Work with accessibility specialist to assess how improvements will work with assistive technology
+    1. Update the hint text to accurately describe the action a user must need to take
+    2. Consolidate service type options so that selections are easier to make
+    3. Consider creating subgroupings
+    4. Work with accessibility specialist to assess how improvements will work with assistive technology
 6. Restore results text when no results are found after a search
- - Work with accessibility specialists to assess the appropriate type of announcement so that users are more likely to hear this information.
+    1. Work with accessibility specialists to assess the appropriate type of announcement so that users are more likely to hear this information.
 7. Fix “Get directions” and ‘phone’ links
- - Work with accessibility specialists to assess the current problems with ‘Get directions’ and ‘phone’ links and propose new text, labels, and link text
+    1. Work with accessibility specialists to assess the current problems with ‘Get directions’ and ‘phone’ links and propose new text, labels, and link text
 8. Make listing letter and mileage improvements
- - Work with accessibility specialists to assess the current problems with the letter and mileage combination and suggest improvements.
-   - Would numbered listings be more natural to hear when announced by a screen reader?
-   - Mileage could be better labeled and described by screen readers 
-   - Is the placement of these elements optimal? 
+    1. Work with accessibility specialists to assess the current problems with the letter and mileage combination and suggest improvements.
+     - Would numbered listings be more natural to hear when announced by a screen reader?
+     - Mileage could be better labeled and described by screen readers 
+     - Is the placement of these elements optimal? 
 
 ### On Facility Locator - Medium term
 
 
 9. Add ‘Google as the front door for Facility Locator and facility product pages’ as a use case to solve for and create an action plan.
- - Assess keyword searches for top facility types on VA.gov and incorporate those terms into the product
-   - E.g. Multiple users mentioned searching for burial and cemetery information and urgent care. Top terms could be surfaced in the page description.
- - Start experimenting with structured content for location addresses and hours to see how changes could positively affect search engine search results
- - Investigate how structured health data reconciles with current health taxonomy
+    1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into the product
+     - E.g. Multiple users mentioned searching for burial and cemetery information and urgent care. Top terms could be surfaced in the page description.
+    2. Start experimenting with structured content for location addresses and hours to see how changes could positively affect search engine search results
+    3. Investigate how structured health data reconciles with current health taxonomy
 10. Assess and incorporate keywords. Veterans don’t think to look for a facility locator and are likely to use global search when looking for a facility. Work with other teams to:
- - Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
- - Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
+    1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
+    2. Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
 
 ### On Facility Locator - Long term (Hypotheses to test)
 
 11. Reassess what is the most important information to deliver on Facility locator. Veterans in this study, who use assistive technology, expressed similar information preferences as those who don’t use assistive technology as observed in past studies. In fact, this study just highlighted the need to deliver the most important information as efficiently as possible as problems experienced by sighted users are felt even more acutely by those using assistive tech. Consider improvements that would help all users.
- - Is a map delivering value to Veterans? Veterans use other means to map directions later in their decision-making journey and it is unlikely that they would come to Facility Locator to do that. Could the mileage data point and ‘Get directions’ be enough without displaying a map or perhaps reducing its screen allocation (e.g. ⅓  vertical strip like Yelp or AirBnb)? If so, part or all of this real estate could be better allocated to information that would be more useful to Veterans when comparing between facilities.
-   - List hours over facility status alerts. An alert like ‘Limited hours and services’ does not provide enough information to help a Veteran choose a facility and instead compels a Veteran to call. Knowing a facility's operating hours would. 
-   - Does it have an ER with 24/7 care? This should be a data point that gets surfaced when available.
-   - Services; how might we display just enough service information to give Veterans a quick understanding of the type of facility to answer, “is this just a little clinic?”
-   - Assess repeated links that don’t provide facility specific information. We learned how important it is to reduce the number of elements that a user has to hear.  
-    - Consider a different way to provide access to general benefit information
+    1. Is a map delivering value to Veterans? Veterans use other means to map directions later in their decision-making journey and it is unlikely that they would come to Facility Locator to do that. Could the mileage data point and ‘Get directions’ be enough without displaying a map or perhaps reducing its screen allocation (e.g. ⅓  vertical strip like Yelp or AirBnb)? If so, part or all of this real estate could be better allocated to information that would be more useful to Veterans when comparing between facilities.
+    2. List hours over facility status alerts. An alert like ‘Limited hours and services’ does not provide enough information to help a Veteran choose a facility and instead compels a Veteran to call. Knowing a facility's operating hours would. 
+    3. Does it have an ER with 24/7 care? This should be a data point that gets surfaced when available.
+    4. Services; how might we display just enough service information to give Veterans a quick understanding of the type of facility to answer, “is this just a little clinic?”
+    5. Assess repeated links that don’t provide facility specific information. We learned how important it is to reduce the number of elements that a user has to hear.  
+     - Consider a different way to provide access to general benefit information
 
 12. Redesign search. Veterans want an easier way to search. In this study, participants didn’t want to mess with all the “requirements” and their expectations were heavily influenced by their search engine searches. 
- - Consider a set of exposed filters in a left rail with default selections in place so that users only have to enter in their location 
- - Reassess the language used on Facility Locator. ‘Facility type’ and ‘Service type’ were not easily understood and it annoyed users to have to parse their meaning.
+    1. Consider a set of exposed filters in a left rail with default selections in place so that users only have to enter in their location 
+    2. Reassess the language used on Facility Locator. ‘Facility type’ and ‘Service type’ were not easily understood and it annoyed users to have to parse their meaning.
 13. Give Veterans a way to quickly assess facilities at a glance. When Veterans search for VAs for long term planning like for travel or moving they are cognizant of the stark variations between size and scope of facilities across the country but they have no way of distinguishing them easily. For example, they want to know when a facility is a small clinic with limited services, if they can use it for their common primary care needs, or if there is 24/7 ER availability which is crucial in an emergency situation.
-- Consider creating meaningful tags, or categories to assign to facilities. 
-- Consider creating a key with explanations for terms that may be confusing or link to another page for more information.
+    1. Consider creating meaningful tags, or categories to assign to facilities. 
+    2. Consider creating a key with explanations for terms that may be confusing or link to another page for more information.
 14. Improve discoverability of facility information available to them. Veterans are unaware of the different facility types that they can find using Facility Locator. Consider a more discoverable way of browsing. 
- - For example, a set of exposed filters in a left rail could surface facility types, like cemeteries, that might be unknown but useful to more Veterans. Two Veterans in this study described recent searches for burial and cemetery information.
+    1. For example, a set of exposed filters in a left rail could surface facility types, like cemeteries, that might be unknown but useful to more Veterans. Two Veterans in this study described recent searches for burial and cemetery information.
 
 
 ## Next Steps
