@@ -10,7 +10,7 @@
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing
 - With participants' permission, these sessions will be recorded
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/VSO_interviews_research_plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-convo-guide.md)
 
 ## Intro
 Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for them. Our focus today is how users find and appoint representatives.
