@@ -69,7 +69,8 @@ Anyone on the team can [create a ticket](how-to-create-vaos-tickets.md). All are
   - Work in progress limit for pipeline = 7 (essentially 1 for each dev)
 - Code Review
   - Requires peer, VSP, or other VFS team code review
-  - Work in progress limit for pipeline TBD by devs (see Action Items section)
+  - No work in progress limit for pipeline
+  - Devs to manage when and how long ticket is in code review
 - Validate
   - Ready for QA, Product, Design, or VSP review
   - For a ticket to go into the "Validate" pipeline, it must:
@@ -97,6 +98,11 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
 
 ## Slack
 
-_tbd_
-
-- (channel) - (purpose)
+- #vaos-team
+  - Team announcements, broad notifications
+  - Coordinated communication related to rollouts, releases, and launches
+  - SQA- and testing-related questions
+- #vaos-eng
+  - Code review reminders
+- #vaos-alerts
+  - Grafana alerts
