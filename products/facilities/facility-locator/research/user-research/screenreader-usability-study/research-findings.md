@@ -149,18 +149,7 @@ Consuming Facility Locator search results was also tricky…
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
-## Recommendations
-Overall, some things that would improve my experience would be to…
-1. Establish a page hierarchy for pages and ensure that top navigation methods follow it 
-2. Tell me what a page is about with a clear heading 1 level when navigating between pages
-3. Group links and content with logically ordered  heading levels to create an understandable hierarchy of the page
-4. Create regions on every page so that I can navigate quickly between areas
-5. Make sure ‘skip to content’ takes me to the main content on the page
-6. Give me an edit box that is easy to find because I like an easy way to search
-7. Provide the purpose and destination in link text  so that I know what to expect when I click on a link
-8. Name buttons and links with the keywords that I’m likely to search for like ‘menu’, ‘locations’.
-9. Name states of components with descriptions like ‘menu open’ so I don’t waste time listening for clues of what just happened
-10. Don’t make me know how to spell things
+
 
 ## Key Insights with Supporting Findings
 
@@ -307,11 +296,33 @@ Navigate through the landmarks/regions of the page | 3.2%
 
 ## Additional Insights
 
-## Recommendations with Details
+## Recommendations
 
-## Recommendations for Facilities Team
+### Recommendations overall
+As a Veteran who uses assistive technology, some things that would improve my experience would be to…
 
-### On Facility Locator - Short term
+1. Establish a page hierarchy for pages and ensure that top navigation methods follow it
+   - For example, a user who ‘skips to content’ and then navigates by headings should have a consistent understanding for what the page is about and what they can do there.  
+2. Tell me what a page is about with a clear heading 1 level when navigating between pages
+   - When P2 clicked on a facility detail page link from facility locator search results, the screen reader didn’t drop him onto the H1 because focus is not being managed. 
+   > “I clicked El Paso central and it really didn't get me to the start of the page...I refresh JAWS and then I refresh the screen. Typically with JAWS I'll lose the focus when I go to a new page, so I need to refresh to be able to find the headings again. What I'd like to see when I go to a new webpage is go to the heading 1 level. Heading 1, I feel should be the main reason why I'm on the page. Ok? Sometimes it'll be a heading 2 or 3…”
+3. Group links and content with logically ordered  heading levels to create an understandable hierarchy of the page
+   - Links relating to COVID that are organized under a heading that is about finding a facility confuses and slows down assistive technology users who must already spend extra time understanding and orienting themselves on a page. Group this content under sub headings that can be scanned more easily.
+4. Create regions on every page so that I can navigate quickly between areas
+   - For example, footer links should be grouped into a footer region. Currently, users can’t distinguish between footer links and those that are part of the page content so they are forced to listen to 46 extra links each time they read a new page from top to bottom to orient themselves. 
+5. Make sure ‘skip to content’ takes me to the main content on the page
+   - Skip to content on GOV.Uk takes a user to the H1 to announce the page and then following tab takes a user into the search edit box
+   - ![gov uk](https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png)
+6. Give me an edit box that is easy to find because I like an easy way to search
+7. Provide the purpose and destination in link text  so that I know what to expect when I click on a link
+8. Name buttons and links with the keywords that I’m likely to search for like ‘menu’, ‘locations’.
+9. Name states of components with descriptions like ‘menu open’ so I don’t waste time listening for clues of what just happened
+10. Don’t make me know how to spell things
+   - Choosing from a predefined list of options alleviates the need to know how to spell difficult words and is easier than guessing what may or may not be an available option.
+
+### Recommendations for Facilities Team
+
+#### On Facility Locator - Short term
 
 1. Establish a page hierarchy for Facility Locator, its detail pages as well as new facility product pages and test for consistency between different navigation methods (e.g. by heading level, skip to content, etc)
     1. Ensure these pages manage focus so that when a screen reader navigates by heading level, H1 is the first item announced.
@@ -338,7 +349,7 @@ Navigate through the landmarks/regions of the page | 3.2%
     2. Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
 
 
-### On Facility Locator - Medium term
+#### On Facility Locator - Medium term
 
 10. Add ‘Google as the front door for Facility Locator and facility product pages’ as a use case to solve for and create an action plan.
     1. Assess keyword searches for top facility types on VA.gov and incorporate those terms into the product
@@ -347,7 +358,7 @@ Navigate through the landmarks/regions of the page | 3.2%
     3. Investigate how structured health data reconciles with current health taxonomy
 
 
-### On Facility Locator - Long term (Hypotheses to test)
+#### On Facility Locator - Long term (Hypotheses to test)
 
 11. Reassess what is the most important information to deliver on Facility locator. Veterans in this study, who use assistive technology, expressed similar information preferences as those who don’t use assistive technology as observed in past studies. In fact, this study just highlighted the need to deliver the most important information as efficiently as possible as problems experienced by sighted users are felt even more acutely by those using assistive tech. Consider improvements that would help all users.
     1. Is a map delivering value to Veterans? Veterans use other means to map directions later in their decision-making journey and it is unlikely that they would come to Facility Locator to do that. Could the mileage data point and ‘Get directions’ be enough without displaying a map or perhaps reducing its screen allocation (e.g. ⅓  vertical strip like Yelp or AirBnb)? If so, part or all of this real estate could be better allocated to information that would be more useful to Veterans when comparing between facilities.
