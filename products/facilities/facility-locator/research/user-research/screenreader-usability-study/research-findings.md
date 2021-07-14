@@ -10,7 +10,6 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 
 * [About the research](#about-the-research)
-* [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
 * [Hypotheses](#hypotheses)
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
