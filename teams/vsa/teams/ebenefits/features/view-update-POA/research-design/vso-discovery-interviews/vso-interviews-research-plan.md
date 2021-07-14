@@ -102,7 +102,7 @@ Please allow 30 minutes between sessions.
 - Others -- Pending
 
 ### Resources
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/VSO_interviews_conversation_guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-convo-guide.md)
 
 - [Session notes]() (Available at conclusion of research.)
 
