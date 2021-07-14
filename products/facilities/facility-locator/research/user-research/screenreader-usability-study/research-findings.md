@@ -193,7 +193,7 @@ Navigate through the landmarks/regions of the page | 3.2%
   - P9: “va dermatalgist”, “va hospitals soudth ca”
   - ![spelling-mistakes](https://user-images.githubusercontent.com/4960080/125657249-98bbca76-7437-4416-b618-0df2382d6488.png)
   - P4, who was diagnosed with Dyslexia after retiring from a successful military career, explains why dictation assistive technology helps her: 
-  > “And you said ‘Dermatology’? I can’t spell that so I’m hoping I can use the mic... Normally, I talk into it with a mic [mic icon button on iOS apps that triggers dictation mode]. Because my spelling is atrocious, I tend to do it orally and it recognizes my voice. Most of the time if I type it, I fight with it, with the spelling.”
+     > “And you said ‘Dermatology’? I can’t spell that so I’m hoping I can use the mic... Normally, I talk into it with a mic [mic icon button on iOS apps that triggers dictation mode]. Because my spelling is atrocious, I tend to do it orally and it recognizes my voice. Most of the time if I type it, I fight with it, with the spelling.”
 
 
 ### Findings section 2 - Online search behavior
@@ -202,20 +202,23 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 2.1 - I already know my VA so I would likely only do this for unfamiliar locations
 - 2.2 - I prefer to dictate location searches on my phone because it’s quicker and easier
   - P6 wasn’t able to demonstrate but explained that he would likely dictate to Siri in the following manner: 
-   > “where is the closest Veteran's hospital?”
+     > “where is the closest Veteran's hospital?”
 - 2.3 - I use JAWS on my desktop for more complex searches or tasks
-   > [P10]“For [a recent location search] started out with my phone, opened the app, got the city put in [dictates to Siri] “VA facility near fairfield texas” and then I went to the computer um… cuz I wanted to look at the biggest town next to the city they were looking at and then I looked at it on my desktop computer to Google events. When I’m looking up a location a phone is more convenient and easier. [Moderator: how so?] The search feature, I don’t have to wait for it to boot up. Siri is there.” 
+     > [P10]“For [a recent location search] started out with my phone, opened the app, got the city put in [dictates to Siri] “VA facility near fairfield texas” and then I went to the computer um… cuz I wanted to look at the biggest town next to the city they were looking at and then I looked at it on my desktop computer to Google events. When I’m looking up a location a phone is more convenient and easier. [Moderator: how so?] The search feature, I don’t have to wait for it to boot up. Siri is there.” 
 - 2.4 - Search engine results info is usually all I need, next I call or get directions
-  > [P1: After showing how he’d find his nearest VA online] “it pulled the address off of the VA website. [has SR repeat the source “Department of Veteran Affairs”] See, I wouldn’t really go there now because I already found what I wanted. But this is also one that I happen to know because it’s 8/10’s of a mile [away].”
-  > [P4 reflecting on using Facility Locator post task] “Anyway, I just wouldn’t search like that. Say if I’d do Google, I’d “find VA clinic, find VA hospital” I wouldn’t ask for a location.”
+
+      - P1: After showing how he’d find his nearest VA online:
+      > “it pulled the address off of the VA website. [has SR repeat the source “Department of Veteran Affairs”] See, I wouldn’t really go there now because I already found what I wanted. But this is also one that I happen to know because it’s 8/10’s of a mile [away].”
+      - P4 reflecting on using Facility Locator post task: 
+      > “Anyway, I just wouldn’t search like that. Say if I’d do Google, I’d “find VA clinic, find VA hospital” I wouldn’t ask for a location.”
 - 2.5 - I trust a search engine result when I hear VA.gov is the source
 - 2.6 - I wish I could see hours and services of VA facilities on Google search results
 - 2.7 - Sometimes I do see hours but they don’t make sense to me
   - P9: Low-vision Veteran and wife, who is nearby to help, explain a recent VA facility search using Bing.com to look for VAs close to where they were considering moving. They explained how in their travels they’ve visited different VA facilities that vary widely in terms of the services and want to know if a listing is for a “little clinic” or more comprehensive like their own VA medical center. 
   - ![sc-search](https://user-images.githubusercontent.com/4960080/125660483-b13235ff-77a9-41c9-8319-8b5e5016df15.png)
   - The couple demonstrate their search and point out that second search result listing was for a “VA Medical Center” that lists ‘Hospital’ as a service but the closing time of 6:30pm was confusing to them. They didn't mention clicking for more information. In fact, although they described being frequent users of MyHealtheVet (bookmarked in their browser) they were unfamiliar with the VA.gov homepage when prompted to go there for their first task .
-  - [Later, while on a facility page, this couple circles back to the importance of understanding ER services, with a personal anecdote] 
-  > “It has the hours as 24/7 but that might be because they have the ER and pharmacy. One thing it doesn’t say, that I have seen and heard before, is that if you are feeling you have a heart attack go to the ER. Even though it says cardiology, you don’t go there for heart attacks. If you look at this it says cardiology but doesn’t tell you not to go there. It would be nice if they say, ‘if having a heart attack call 911 and go to the ER’. We had a Vet in our group and they said don’t go to the VA ER because they can’t help so I think that should be on there. When having a heart attack seconds can make a difference.”
+     > [Later, while on a facility page, this couple circles back to the importance of understanding ER services, with a personal anecdote] 
+     > “It has the hours as 24/7 but that might be because they have the ER and pharmacy. One thing it doesn’t say, that I have seen and heard before, is that if you are feeling you have a heart attack go to the ER. Even though it says cardiology, you don’t go there for heart attacks. If you look at this it says cardiology but doesn’t tell you not to go there. It would be nice if they say, ‘if having a heart attack call 911 and go to the ER’. We had a Vet in our group and they said don’t go to the VA ER because they can’t help so I think that should be on there. When having a heart attack seconds can make a difference.”
 
 
 ### Findings section 3 - Using VA.gov
