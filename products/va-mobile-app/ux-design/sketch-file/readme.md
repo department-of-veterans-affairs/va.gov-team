@@ -1,14 +1,21 @@
-# Sketch file
+# Current documentation 
 
-- Uploaded to GitHub on 6/30/21. 
-- Link to Change Log managed in Google Docs [here](https://docs.google.com/document/d/1_0n3S5t0ZXnh3WWvB4YG-sCZl1Gid3WpHy-xvKlkTyE/edit?usp=sharing).
-- This file is a comprehensive representation of our MVP design components. 
+## Sketch file of design library
+- Uploaded to GitHub on 6/30/21 and accessible to all designers on the team as of July 14th via Sketch Teams. 
+- We should all be able to update this library and push updates to the cloud so everyone has the latest file. 
+    - **Note: Be purposeful when updating the Library file on your local machine - the updates you make will be pushed to all designers using that library.**
+- This file is a comprehensive representation of our MVP design components & is growing in Summer 2021.  
 
-## [See the library style sheets here](https://adhoc.invisionapp.com/share/AX108RJZPB6E#/screens/445194518)
+---
+
+# Deprecated documentation
+
+## [Library style sheets](https://adhoc.invisionapp.com/share/AX108RJZPB6E#/screens/445194518)
 - This Invision link shows the components from the design library. Last updated 6/30/21.
-- This Invision is a comprehensive representation of our MVP design components (it has everything in the Sketch file).
 
-## Future goals
+---
+
+# Future goals
 Some of our future design goals include: 
 
 - Increase the polish of MVP common components. 
