@@ -6,6 +6,7 @@
 ---
 #### Questions
 - Will there be a tool for VSOs on va.gov, or is the info gathered here wrapped into the veteran’s tool?
+- Since we are working with the internal contact we have, do we leave the "must have" recruiting criteria?
 ---
 
 #### Background
