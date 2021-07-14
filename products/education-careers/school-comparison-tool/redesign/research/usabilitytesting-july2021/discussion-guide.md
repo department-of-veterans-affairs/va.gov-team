@@ -74,6 +74,8 @@ You've been interested in going back to school to study **Statistics**.  A frien
 
 You've noticed that the GI Bill won't fully cover the tuition at **University of Notre Dame**.  You've heard that some schools offer the Yellow Ribbon program, which offers additional financial assistance to GI Bill beneficiaries.  How would you use the Comparison Tool to see if **University of Notre Dame** offers the Yellow Ribbon program?
 
+Follow-up:  Do you think you would be eligible for the program?  If so, how much of the remaining expenses do you think would be covered?
+
 
 ### Things to watch for:
 
