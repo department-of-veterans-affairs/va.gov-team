@@ -32,7 +32,7 @@ The primary goal of this research is to understand how the representation/Power 
 #### Hypotheses
 
 ### Method
-We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited through internal VA contacts. We are currently working with Paul Schute and Bill Meadows. Sessions will be recorded (with permission), and observers may be in attendance.
+We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited through internal VA contacts. We are currently working with Paul Shute and Bill Meadows. Sessions will be recorded (with permission), and observers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to the discovery interview process
