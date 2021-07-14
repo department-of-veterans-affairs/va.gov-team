@@ -86,6 +86,7 @@ Magnification software was not able to be observed during testing. More research
 Technical limitations also prevented testing with Veterans who use switch devices and braille readers as captured in the recruitment checker.
 
 ## Hypotheses
+text
 
 ### Using Facility Locator and assistive technology:
 #### Veterans can easily perform a search.
