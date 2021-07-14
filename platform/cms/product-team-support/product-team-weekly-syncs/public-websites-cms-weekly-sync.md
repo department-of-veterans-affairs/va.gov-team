@@ -38,13 +38,25 @@
 ## July 21
 
 * CMS account admin policies
+* Metatags
+* #18151 TTY phone numbers in right rail of Hub landing pages.
+
 
 ## July 14
 
 * CLP governance
+  * Web governance board meeting tomorrow, John is presenting two options for governance. 
+    * 1. Each VACO/HQ would "self-govern" CLPs for their businesses
+    * 2. Web governance board would approve use, and spread awareness 
+  * CLP request form would still be used for awareness.
+  * Content admin will still need to clone CLPs after request is received. PW will take 
+    * CMS team will document CLP cloning for Content Admins in Knowledge Base article in CMS sprint 37.
 * Meta tags https://pr5828-wrb1q983pfwgqw6ixqwofsjszpwdosrp.ci.cms.va.gov/ 
   * Check if og:image has a value before including it in the page template? 
   * FE vs CMS spec 
+  * Kelson: 
+    * There's a content-build PR to affect all non-VAMC og:title
+    * For VAMC: 
 * #18151 TTY phone numbers in right rail of Hub landing pages.
 
 
