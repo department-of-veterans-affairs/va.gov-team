@@ -1,7 +1,7 @@
 ## Product Roles and Responsibilities
 
 ### Roles 
-- Team Lead (DEPO)
+- Team Lead (OCTO-DE)
 - Team Product Manager 
 
 - Program Product Lead (VFS, VSP)
@@ -9,7 +9,7 @@
 
 ### Responsibilities
 
-####  Team Lead (DEPO)
+####  Team Lead (OCTO-DE)
 
 ---
 
