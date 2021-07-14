@@ -14,15 +14,15 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Research Questions](#research-questions)
 * [Who we talked to](#who-we-talked-to)
 * [Level of vision and assistive technology used](#level-of-vision-and-assistive-technology-used)
-* [Hypotheses](hypotheses)
-* [Key Insights](key-insights)
+* [Hypotheses](#hypotheses)
+* [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
 * [Key Insights - Detailed](#key-insights-detailed)
 * [Additional Insights](#additional-insights)
 * [Recommendations - Detailed](#recommendations-detailed)
 * [Recommendations - Facilities Team](#recommendations-facilities-team)
 * [Next Steps](#next-steps)
-* [Further research needed](further-research-needed)
+* [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
 
 ## Research Goals
@@ -86,7 +86,6 @@ Magnification software was not able to be observed during testing. More research
 Technical limitations also prevented testing with Veterans who use switch devices and braille readers as captured in the recruitment checker.
 
 ## Hypotheses
-text
 
 ### Using Facility Locator and assistive technology:
 #### Veterans can easily perform a search.
@@ -164,11 +163,17 @@ Overall, some things that would improve my experience would be to…
 10. Don’t make me know how to spell things
 
 ## Key Insights - Detailed
+
 ## Additional Insights
+
 ## Recommendations - Detailed
+
 ## Recommendations - Facilities Team
+
 ## Next Steps
+
 ## Further research needed
+
 ## Appendix
  [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)
 
