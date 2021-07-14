@@ -45,18 +45,18 @@ Okay, let’s talk a little bit about how Veterans and Service Members find you 
 Thank you, that really helps me understand how Veterans start this process. Now, let’s talk about how things work after they have appointed you as their representative. 
 - How much information do you typically have when you receive an appointment?
 - After a Veteran or Service Member appoints you as their representative, how often do you interact with them?
- - How do you usually work with them - phone, email, in person, etc?
+  - How do you usually work with them - phone, email, in person, etc?
 - What are the most common issues you help with?
 - `Do you have a specialty that you focus on or do you handle all claims? Is that typical for representatives?`
 
 ## Section four: Limits and ending appointment
 Okay, we’re almost finished. I’d just like to ask a few more questions about the limits of representation and how representation ends.
 - What are the limits on what you can help with? 
- - When would you need to decline an appointment or refer to another representative?
- - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
+  - When would you need to decline an appointment or refer to another representative?
+  - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
 - How long do appointments typically last?
- - How do you know when an appointment is ending? (the end of a claims process, after a certain amount of time…)
- - What is the process to end representation?
+  - How do you know when an appointment is ending? (the end of a claims process, after a certain amount of time…)
+  - What is the process to end representation?
 - If you could change just one thing about the process of being appointed as a representative for a Veteran, what would it be?
 
 ## Wrap-up
