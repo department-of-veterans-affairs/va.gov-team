@@ -284,6 +284,10 @@ Navigate through the landmarks/regions of the page | 3.2%
 #### Consuming Facility Locator search results was also tricky…
 
 - 5.1 - I did a search but the screen reader didn’t tell me that there weren’t results
+     - When a search produces no results, the H2 search results text is disabled and instead focuses on a paragraph with search suggestions. However, in at least one session the screen reader did not announce this text which left one participant wondering if they did something wrong or if the search didn't produce results.
+     - [P10 did not hear the screen reader announce results]
+     > “It didn’t tell me if my search loaded up. Oh so Palestine has a dermatologist… that’s interesting.”
+
 - 5.2 - I got results but I don’t know what the letter and number combination means
 - 5.3 - I don’t hear a way to get directions to these locations
 - 5.4 - It not clear to me what is a phone number or other piece of information
