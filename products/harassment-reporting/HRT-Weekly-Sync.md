@@ -24,6 +24,19 @@
 
 </details>
 
+## July 14, 2021 - Stage: Define / Design
+Action items:
+1. Summarize any items from last meeting - Updates from Soni/Josh
+2. Review Mock Ups (@Cassandra) [Sketch](https://www.sketch.com/s/b3f90417-a2a0-41f5-8fb9-151ce163710a) 
+
+Today's Goals: 
+1. Finalize User Flow and Form Mocks 
+2. Determine if Content Roundtable / Breakout sessions are needed? (Intro Page content, Term definitions, Content best practices copy deck)
+3. Design Intent Review (Scheduled for 7/26/21) Soni/Josh attend? Who else? 
+
+Notes: 
+
+
 ## July 1, 2021 - Stage: Define / Design
 Comms Check: Does everyone have access to #VSA-Harassment-Reporting-Tool Slack Channel? 
 
