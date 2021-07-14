@@ -87,8 +87,8 @@ Imagine you received this letter in the mail. Please take a look at the highligh
 
 Now we'd like to learn how you use the information about your claims/appeal on [VA.gov](http://VA.gov).
 
-- **For participants with a [VA.gov](http://VA.gov) account**
-  - Can you please log into your [VA.gov](http://VA.gov) account so we can understand how you find information there?
+- **For participants with a DS Logon/MHV/ID.me account**
+  - Can you please log into [VA.gov](http://VA.gov) using your DS Logon, MHV or ID.me account so we can understand how you find information there?
 - **For participants without a [VA.gov](http://VA.gov) account**
   - [Link to prototype] This is only a prototype so everything might not work as expected. In that case, please just let us know how you expect it to work.
 
