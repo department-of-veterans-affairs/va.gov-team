@@ -267,9 +267,15 @@ Navigate through the landmarks/regions of the page | 3.2%
 
 - 4.4 - I didn’t put in the right requirements, so it tells me there’s an error
 - 4.5 - I want to choose by something that I’m familiar with, like clinics or hospitals
+     > [P10] “You know. The question is. Is it a VA clinic or a VA hospital? That’s the main thing.”
 - 4.6 - The service type combo box doesn’t work
+     - When a user enters this type ahead combo box, the screen reader tells them to choose a service type but there are no choices until a user types and this interaction tripped up multiple users.
+     > [P2] “Seems to be stuck on listbox for service type. It's not letting me check... dermatology... Used 'enter', but not selecting."
+     > [P7] "there seems to be only chiropractor and optometrist and I have a community care provider I see here in town. It says there’s supposed to be a list."
 - 4.7 - If I’m in a crisis, I won’t want to struggle with this page
 - 4.8 - I prefer to just enter searches into one simple search box
+     > [P2 - post task magic wand question] “If something simple like 'What are you looking for?' To me it would be like 'Dermatologist!' umm…. What else… 'pharmacy!!'. 'What are you looking for?' Very straight, right to the point, you know? Search is a term that’s used for programmers and people like that. The search could be very vast but help you narrow down. The reason why I’m saying, I’m trying to make it plain is if I’m a 90 year old Veteran, I may not be familiar with all these things. But I know the term, 'What are you looking for?' That’s very direct."
+
 
 ### Findings section 5 - Facility Locator results
 #### Consuming Facility Locator search results was also tricky…
