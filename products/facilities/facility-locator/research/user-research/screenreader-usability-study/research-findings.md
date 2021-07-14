@@ -147,6 +147,16 @@ Consuming Facility Locator search results was also tricky…
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
+## Additional Insights
+
+1. Spacebar as enter: AT users sometimes hit the space bar instead of pressing enter in an input field. Either should work. This was a problem on Global search - pressing space bar after entry didn’t work for P10 on JAWS.
+2. Participants in this study were familiar with MyHealtheVet and overall have favorable opinions of it. How does this health mental model affect how they approach other parts of VA.gov? Some participants didn’t think to look for a dermatologist within a facility locator tool. Is this a common mindset? Should more effort be put into routing Veterans throughout VA.gov and the different products?
+3. [P9] Travel reimbursement and MyHealtheVet: This low vision participant complained about the difficulty in multi-step processes and pointed out how cumbersome it is to complete travel reimbursement online when you have to go out of VA’s healthcare network, which was not by choice. This participant is an avid user of MyHealtheVet and didn’t understand why you couldn’t just integrate the travel reimbursement process into it. 
+“Cuz they’ve got prescriptions and appointments and you can talk to your doctor, your records. So, to have travel reimbursement right there.”
+4. Participants often took issue with the mileage that Facility Locator listed in the results listing, even when using ‘use my location’. P1, on desktop, explained that the first result was not the VA that was closest to him. Others didn't realize that the distance was being calculated from the center of the location entered and not their actual location.
+5. Hypothesis: Participants seem to use different search patterns when dictating vs typing, using longer phrases that sound logical when spoken vs a smaller number of keywords when typing. How does this affect search results? This is an area that should be analyzed to build a larger bank of search terms and to understand if products need to be evolved in different ways to respond to different user behavior.
+6. [P9] One ZoomText user mentioned liking the VA.gov layouts that were contained within a defined content area but conversely struggles with layouts and transitions that are spread out, because it is difficult to locate the next item you will need when using magnification software. He would prefer:
+“On the va.gov have all login stuff on the same side so it’s right down in a row [column] so you’re not going from one side to the other side. That would be the main thing. Just have it right in the row. You can have the login button and then it brings you right down below, and there it is. Rather than going from one side to the other.  On the VA site, the login is in the far right hand corner. When it comes up the screen is on the left side of the page halfway down. When you have it big enough to read it [with the screen magnifier], you can’t see both of them at the same time.” 
 
 
 ## Key Insights with Supporting Findings
@@ -292,7 +302,6 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
-## Additional Insights
 
 ## Recommendations
 
