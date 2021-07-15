@@ -2,7 +2,9 @@
 
 ## Key Findings
 
-### 1. Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage.
+### 1. The homepage is difficult to use with screenreaders
+
+-   Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage. [see Case Study P1](#case-study-p1)
 
 -   Browsing by heading - A lack of heading level hierarchy creates an inaccurate and confusing representation of the content available on the homepage. The user hears that there is one H1 (Access and manage your VA benefits and health care).  H2s are sometimes links and sometimes groups of links but there is no content categorization. A user hears that there are 80+ links but no way to know that over half of them are footer links that they might be able to ignore on a second listen.
 
@@ -33,7 +35,10 @@
 
     - Types in "Mental clinic" in global search which does not give him location related results.
 
-* P10: Tries many methods because she ran into a number of technical issues with her A.T. Would have preferred to use Siri but was unable to. 
+* P10 was the only participant that knew of facility locator but decided to use Google to complete the task instead of going to VA.gov to look for it. Later in the interview she complains about how the volume of information on VA overwhelms her. It is possible, that this could be a reason she decided to try Google first.
+ > “I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.” 
+The participant tries to read the page but the screen reader bypasses "Find a VA Location" and the user dead ends in a side navigation without hearing it. See [Case Study P10](#case-study-p10)
+
 
 ### 3. 4/7 Veterans used global search to find a location or dermatologist. 
     
@@ -234,3 +239,53 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users.
 
 <img src="https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9" alt="[Figure 2]" width="60%" height="60%">
+
+#### Case Study P10
+
+Using JAWS, P10 tries to find the VA nearest to her using Google, but she clarifies if she should look for a va clinic or hospital. She is given the choice. She types in “VA facility near me… [erases 'me' and changes to] fairfield, texas"
+
+   - <img src="https://user-images.githubusercontent.com/4960080/125827261-41d02219-ddf8-47e8-8693-ed10abc5e67c.png" alt="google search for facilities" width="60%" height="60%">
+
+> And yes, I usually take the first option it gives me.
+   - <img src="https://user-images.githubusercontent.com/4960080/125830343-a747fb0c-ec7a-4d05-a1b5-0a54442c1dab.png" alt="google search for facilities" width="60%" height="60%">
+
+but because she had run into a number of technical issues with JAWS ('Find' and 'list links' wouldn't work, something that can happen often from according to other JAWS users in the study) she was forced to 'read the page'. This created more obstacles.
+
+> And then you get into this list of.. where are these places?
+
+“I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
+
+[M: If you want to find it, where would you go?]
+
+I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list.
+
+[Want to try that?]
+
+> Ok…  “I know there’s a location finder, you can type in your address and it’ll do a little search somewhere… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
+
+[M: If you want to find it, where would you go]
+
+> I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list.
+
+[Want to try that?]
+
+> Ok… Am I on JAWS?... I’m trying to insert + f7 to get my list links up 
+[user is frustrated that her JAWS list links feature isn't working]
+
+[navigates to GLOBAL NAV]
+
+> ok I can tab through normally… *activating VA benefits and health care, but it’s not working* 
+
+[JAWS SR says:] 
+1. …”Sign in button"
+2. “navigation region”
+3. "vah benefits and healthcare collapsed"
+4. "vah benefits and healthcare collapsed" 
+[starts to read a 3rd time and skips to left nav] 
+5. “I am a dot, dot, dot, combo box, select one, to change selection, use the arrow keys”
+6. “Locations home link. Locations home link. Locations home link”
+
+[Moderator: What’s going on?]
+
+> I’m in the page! And I can tab easily through… but I can’t get a list of links for some reason. I don’t know why that’s happening. I want to pull it up so I don’t have to go through each one. Like what is subprogram?  I’m already ON facilities by state? Can’t it say like “facilities by state, you are here?” So maybe it’s the interactive US map?
+
