@@ -36,17 +36,22 @@
     - [Arrange (Data needed)](#arrange-data-needed-4)
     - [Act](#act-4)
     - [Assert (Expected Outcome)](#assert-expected-outcome-4)
-  - [Test Case F: Edge Case - User Tries to check in multiple times](#test-case-f-edge-case---user-tries-to-check-in-multiple-times)
+  - [Test Case F: Edge Case - User Tries to check in again after already successfully checking in](#test-case-f-edge-case---user-tries-to-check-in-again-after-already-successfully-checking-in)
     - [Note](#note-3)
     - [Use case](#use-case-5)
     - [Arrange (Data needed)](#arrange-data-needed-5)
     - [Act](#act-5)
     - [Assert (Expected Outcome)](#assert-expected-outcome-5)
-  - [Test Case G: Edge Case - User Refreshes the app before finishing the check-in process](#test-case-g-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+  - [Test Case G: Edge Case - User Tries to check in again after not completing an earlier check in attempt](#test-case-g-edge-case---user-tries-to-check-in-again-after-not-completing-an-earlier-check-in-attempt)
     - [Use case](#use-case-6)
     - [Arrange (Data needed)](#arrange-data-needed-6)
     - [Act](#act-6)
     - [Assert (Expected Outcome)](#assert-expected-outcome-6)
+  - [Test Case H: Edge Case - User Refreshes the app before finishing the check in process](#test-case-g-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+    - [Use case](#use-case-7)
+    - [Arrange (Data needed)](#arrange-data-needed-7)
+    - [Act](#act-7)
+    - [Assert (Expected Outcome)](#assert-expected-outcome-7)
 
 ## Scope
 
@@ -207,7 +212,7 @@ Example: <<https://staging.va.gov/health-care/appointment-check-in/?id=NOT> A VA
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case F: Edge Case - User Tries to check in multiple times
+## Test Case F: Edge Case - User Tries to check in again after already successfully checking in
 
 > No Cypress test created yet
 
@@ -217,7 +222,7 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Use case
 
-- As a user, I have clicked on the same link to check in again, the same day of the appointment
+- As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in. 
   
 ### Arrange (Data needed)
 
@@ -235,7 +240,36 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case G: Edge Case - User Refreshes the app before finishing the check-in process
+## Test Case G: Edge Case - User Tries to check in again after not completing an earlier check in attempt
+
+> No Cypress test created yet
+
+### Use case
+
+- As a user, I have clicked on a valid link to check-in after previously not completing checking in for the same appointment
+  - this is to simulate a user closing their app mid-check-in and returning later to complete check-in
+  
+### Arrange (Data needed)
+
+- A link to the check in-app with a LoROTA token
+
+Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TOKEN>
+
+### Act
+
+- The user clicks the link
+- The link Loads
+- The user selects "No" to the `Update Information` question
+- User selects the `Check-in now` button
+- User should be on the confirmation screen and see appropriate messaging that matches the mockups
+
+### Assert (Expected Outcome)
+
+- Application does not crash
+- No errors are thrown
+- The user sees a confirmation screen with appropriate messaging that matches the mockups
+
+## Test Case H: Edge Case - User Refreshes the app before finishing the check-in process
 
 > No Cypress test created yet
 
