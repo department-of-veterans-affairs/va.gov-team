@@ -341,7 +341,7 @@ As a Veteran who uses assistive technology, some things that would improve my ex
    - For example, footer links should be grouped into a footer region. Currently, users can’t distinguish between footer links and those that are part of the page content so they are forced to listen to 46 extra links each time they read a new page from top to bottom to orient themselves. 
 5. Make sure ‘skip to content’ takes me to the main content on the page
    - Skip to content on GOV.Uk takes a user to the H1 to announce the page and then following tab takes a user into the search edit box
-   - ![gov uk](https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png)
+   - <img src="https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png"  alt="[gov uk skip to content example]" width="60%" height="60%">
 6. Give me an edit box that is easy to find because I like an easy way to search
 7. Provide the purpose and destination in link text  so that I know what to expect when I click on a link
 8. Name buttons and links with the keywords that I’m likely to search for like ‘menu’, ‘locations’.
