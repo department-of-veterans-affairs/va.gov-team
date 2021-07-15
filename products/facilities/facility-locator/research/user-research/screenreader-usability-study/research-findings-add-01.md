@@ -16,19 +16,15 @@
 
 -   Find - this method was more successful for users in this study. Some users easily found Find a VA Location when using a keyword like 'location', some locating it in the footer only.
 
--   Edit box - when arriving at the homepage, JAWS announces that there is no edit box. The expectation is that a search box would appear as an edit box. Most participants used the search box once they knew it was available including for location searches, even after having used Facility Locator in a previous task.
+-   Edit box - when arriving at the homepage, JAWS announces that there is "no edit box on this page". The expectation is that a search box would appear as an edit box. Most participants used the search box once they knew it was available including for location searches, even after having used Facility Locator in a previous task.
 
 ### 2. 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
 
         
-* P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [[See case study](#case-study-p1)]
-  
-    - First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
-    - Second, navigates homepage by headings from Service member benefits  [[Figure P1-2](#figure-P1-2)] 
-    - Third, navigates homepage by headings from the top of the page, and thinks that he is on a new page.  [[Figure P1-3](#figure-P1-3)]
-    - Moderator prompts user to try links list but still runs into issues [[Figure P1-4](#figure-P1-4)] 
-    - Moderator prompts user to try using the global nav menu  [[Figure P1-5](#figure-P1-5)]  This user experienced the mobile version of the menu and when he used JAWS 'Find' to type 'F' for 'Find a VA Location' he did not notice it until he repeated this method later while the global nav menu was in its expanded state.
+* P1 started by exploring the page with 'skip to content' which created confusion for the rest of the tasks. Ultimately, the participant explains that he wouldn't be looking for a Dermatologist from a location finder and instead thinks this would be found under healthcare.
 
+   > ”Can I ask you a question. You asked me to find a dermatologist but can I do that on this page? I’m confused. You took me to find a location but you are actually asking me to find something specific. It’s confusing because it is about finding a VA location.”
+   
 * P2:  1. Tries "L" for location within headings list, 2. Links list, finds "Find a VA Location"
 
     > "So its 'Find a location.' So, first letter navigation [tried L] probably wouldn't help me too much because I would think of it as 'Locations' vs 'Find a Location'."
@@ -40,11 +36,11 @@
 * P10: Tries many methods because she ran into a number of technical issues with her A.T. Would have preferred to use Siri but was unable to. 
 
 ### 3. 4/7 Veterans used global search to find a location or dermatologist. 
-
-   - P9 types in VA 'dermatalgist' into global search
     
    > There's a search thing there so I would do that.
-   
+   - P9 proceeds to type 'va dermatalgist' into global search
+   - <img src="https://user-images.githubusercontent.com/4960080/125820911-c30211db-acaa-4a7e-8b9b-fd25ab1310ec.png" alt="user types in 'va dermatalgist' into global search" width="35%" height="35%">
+
 ## Exhibits
 
 ### Case Study P1
@@ -53,7 +49,14 @@
 
 Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [**Note:** To understand how other navigation methods may or may not work for this user, the moderator directed the user for attempts 4 and 5]
 
-P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed attempts to complete task number two (looking for a Dermatologist near you). The participant is taken to the ‘Service member benefits’ H2. From this point, the user was mentally stuck on trying to complete the task within a ‘benefits’ category that would apply to him. Notice the user’s scanning behavior, as he listens to elements on the page multiple times to understand where he is, what the page is about and where he should go next. This attempt took two minutes and fifteen seconds. On his third attempt, the participant tries to navigate by listening to the headings on the page from the top. Since he did not use ‘skip to content’, this time the homepage appeared to have completely different content than on his first visit.
+P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed attempts to complete task number two (looking for a Dermatologist near you). The participant is taken to the ‘Service member benefits’ H2. From this point, the user was mentally stuck on trying to complete the task within a ‘benefits’ category that would apply to him. Notice the user’s scanning behavior, as he listens to elements on the page multiple times to understand where he is, what the page is about and where he should go next. This attempt took two minutes and fifteen seconds. On his third attempt, the participant tries to navigate by listening to the headings on the page from the top. Since he did not use ‘skip to content’, this time the homepage appeared to have completely different content than on his first visit.
+
+   1. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
+   2. Second, navigates homepage by headings from Service member benefits  [[Figure P1-2](#figure-P1-2)] 
+   3. Third, navigates homepage by headings from the top of the page, and thinks that he is on a new page.  [[Figure P1-3](#figure-P1-3)]
+   4. Moderator prompts user to try links list but still runs into issues [[Figure P1-4](#figure-P1-4)] 
+   5. Moderator prompts user to try using the global nav menu  [[Figure P1-5](#figure-P1-5)]  This user experienced the mobile version of the menu and when he used JAWS 'Find' to type 'F' for 'Find a VA Location' he did not notice it until he repeated this method later while the global nav menu was in its expanded state.
+
 
 #### Figure P1-1
 
