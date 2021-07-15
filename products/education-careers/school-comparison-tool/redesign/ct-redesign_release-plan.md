@@ -1,6 +1,6 @@
 # Comparison Tool Redesign Release Plan 
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: User Acceptance Testing (UAT)
 
 ### Planning:
 - Desired date range or test duration: 07/12-07/16
