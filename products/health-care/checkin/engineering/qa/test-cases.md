@@ -54,7 +54,8 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 
 ## Resources
 
-- [Mock Ups for Pre-MVP](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
+- [Mock Ups for Pre-MVP - Test Case A & B](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
+- [Error State Mockup](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/MynDRab)
 
 ## How to access in Staging
 
@@ -143,7 +144,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TO
 ### Act
 
 - The link Loads
-- User should see an error page ([Mockup](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/MynDRab))
+- User should see an error page 
 
 ### Assert (Expected Outcome)
 
