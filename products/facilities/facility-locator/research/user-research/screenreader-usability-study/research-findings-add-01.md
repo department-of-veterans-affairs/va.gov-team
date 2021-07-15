@@ -20,27 +20,24 @@
 
 ### 2. 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
 
--   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [[See case study](#case-study-p1)]
+        
+* P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [[See case study](#case-study-p1)]
+  
+    - First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
+    - Second, navigates homepage by headings from Service member benefits  [[Figure P1-2](#figure-P1-2)] 
+    - Third, navigates homepage by headings from the top of the page, and thinks that he is on a new page.  [[Figure P1-3](#figure-P1-3)]
+    - Moderator prompts user to try links list but still runs into issues [[Figure P1-4](#figure-P1-4)] 
+    - Moderator prompts user to try using the global nav menu  [[Figure P1-5](#figure-P1-5)]  This user experienced the mobile version of the menu and when he used JAWS 'Find' to type 'F' for 'Find a VA Location' he did not notice it until he repeated this method later while the global nav menu was in its expanded state.
 
--   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
+* P2:  1. Tries "L" for location within headings list, 2. Links list, finds "Find a VA Location"
 
--   2\. Second, navigates homepage by headings from Service member benefits  [[Figure P1-2](#figure-P1-2)] 
+    > "So its 'Find a location.' So, first letter navigation [tried L] probably wouldn't help me too much because I would think of it as 'Locations' vs 'Find a Location'."
 
--   3\. Third, navigates homepage by headings from the top of the page, and thinks that he is on a new page.  [[Figure P1-3](#figure-P1-3)]
+* P6:  [Inexperienced Safari/iPhone user who had never been on VA.gov, (normally relies on Siri but unable to during the session), used a mix of gestures and magic keyboard] 1. Navigates by "Reading page" from top to bottom, finds the global search field easily.
 
--   4\. Moderator prompts user to try links list but still runs into issues [[Figure P1-4](#figure-P1-4)] 
+    - Types in "Mental clinic" in global search which does not give him location related results.
 
--   5\. Moderator prompts user to try using the global nav menu  [[Figure P1-5](#figure-P1-5)]  This user experienced the mobile version of the menu and when he used JAWS 'Find' to type 'F' for 'Find a VA Location' he did not notice it until he repeated this method later while the global nav menu was in its expanded state.
-
--   P2:  1. Tries "L" for location within headings list, 2. Links list, finds "Find a VA Location"
-
--   "So its 'Find a location.' So, first letter navigation [tried L] probably wouldn't help me too much because I would think of it as 'Locations' vs 'Find a Location'."
-
--   P6:  [Inexperienced Safari/iPhone user who had never been on VA.gov, (normally relies on Siri but unable to during the session), used a mix of gestures and magic keyboard] 1. Navigates by "Reading page" from top to bottom, finds the global search field easily.
-
--   Types in "Mental clinic" in global search which does not give him location related results.
-
--   P10: Tries many methods because she ran into a number of technical issues with her A.T. Would have preferred to use Siri but was unable to. 
+* P10: Tries many methods because she ran into a number of technical issues with her A.T. Would have preferred to use Siri but was unable to. 
 
 ### 3. 4/7 Veterans used global search to find a location or dermatologist. 
 
