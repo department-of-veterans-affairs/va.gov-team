@@ -14,7 +14,7 @@ Solution
 An asyncronous document or a syncrounous meeting should be provided before a VSP project starts where VSP clearly presents the problem, not the solution, and then are able to ask VSA engineers questions about the nature of the problem. This will also be a time for VSA engineers to explore the problem and potential solutions before both VSP and VSA choose a potential solution together. This meeting or document should be collaberative workshop, not a presentation, that is provided in a very public forum and everyone has the ability to ask questions and provide input.
 
 
-## Root Cause - Solutions from VSP are over-engineered
+## Root Cause - Solutions are over-engineered
 
 > Almost every technical solution that is provided by VSP is over-engineered and much more complex than needed. This leds to sloppy implimentations of solutions that are much more far reaching than they need to be.
 
