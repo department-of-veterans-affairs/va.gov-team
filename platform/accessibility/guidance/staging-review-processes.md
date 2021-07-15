@@ -93,6 +93,25 @@ If you built a house and waited until it was completely built to see if the hous
 
 We require that you verify all required checks were completed using TestRail or the GitHub template before requesting a staging review. However, we suggest that you coordinate with your team throughout your project to determine how you want to keep track of your progress.
 
+## Foundational Testing for WCAG2.1
+
+### Mobile
+
+Design most account for a minimum width of at least 320px and a minimum height of at least 256px
+
+Gestures must be simple and can be used with 1 finger when able (multi-finger gestures must have a single-finger option)
+
+Actions must trigger on touch/mouse up. Actions must be cancellable on touch-mouse down.
+
+### Cognitive
+
+Inputs with a label must have a name that matches the label
+
+Status messages (banners, notices, pop up disclaimers, etc) should be indentifiable programmably for assistive technologies determined through the "role" property
+
+### Color
+
+Minimum Color Contrast ratio of 3:1
 
 ## Foundational testing tips
 
@@ -216,13 +235,11 @@ Unresolved color test issues are documented in issue tickets and listed as known
 *   [VA.gov design system color palette](https://design.va.gov/design/color-palette)
 *   [Color blindness: how to design an accessible user interface](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)
 
-
 ### Content resize check
 
 **Who:** Design or any team member with time to review
 
 **When:** At a minimum, before staging review. We recommend that you consider content resizing best practices throughout design and development.
-
 
 #### Steps to test
 
@@ -243,13 +260,100 @@ OR
 Unresolved content resize issues are documented in issue tickets and listed as known issues in your staging review request ticket. 
 
 
-
 #### Related resources
 
 *   [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 *   [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 *   [F69: Failure of Success Criterion 1.4.4 when resizing visually rendered text up to 200 percent causes the text, image or controls to be clipped, truncated or obscured](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F69)
 *   [F80: Failure of Success Criterion 1.4.4 when text-based form controls do not resize when visually rendered text is resized up to 200%](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F80)
+
+
+### Pointer Gestures
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Use a mobile device to test a functionality of feature
+    *   Make sure you can fully utilize feature using only 1 finger to gesture (tapping, swiping, etc)
+
+#### Definition of done
+
+All functionality is available when limited to 1 finger to gesture
+
+#### Related resources
+
+*   [2.5.1 Pointer Gestures](https://www.w3.org/TR/WCAG21/#pointer-gestures)
+*   [Understanding Success Criterion 2.5.1: Pointer Gestures](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)
+
+
+### Pointer Cancellation
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Touch/click down on a button/link/feature
+    *   The button/link/feature should not trigger
+*   Untouch/click up on a button/link/feature
+    *   The button/link/feature should trigger
+
+#### Definition of done
+
+Buttons/links/features should only trigger when touch up/click up.
+
+AND
+
+User should be able to cancel triggering a button/link/feature by moving finger/mouse away after touch/click down performing touch/click up
+
+#### Related resources
+
+*   [2.5.2 Pointer Cancellation](https://www.w3.org/TR/WCAG21/#pointer-cancellation)
+*   [Understanding Success Criterion 2.5.2: Pointer Cancellation](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html)
+
+### Input label and name label check
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Find input with label
+    *   Check to see if label and input name match
+
+#### Definition of done
+
+Input label and name are matching
+
+#### Related resources
+
+*   [2.5.3 Label in Name](https://www.w3.org/TR/WCAG21/#label-in-name)
+*   [Understanding Success Criterion 2.5.3: Label in Name](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html)
+
+
+### Status messages
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Review status message html and check if it has the appropriate role for screen reader announcement
+
+#### Definition of done
+
+The status message will have the correct **role** attribute
+
+#### Related resources
+
+*   [4.1.3 Status Messages](https://www.w3.org/TR/WCAG21/#status-messages)
+*   [Understanding Success Criterion 4.1.3: Status Messages](https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html)
 
 
 ### Keyboard navigation check
