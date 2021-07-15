@@ -10,7 +10,7 @@
 
 -   Regions - the lack of delineated regions means users perceive all footer links as part of the page content links forcing them to hear all 46 of them each time when they navigate by 'reading page', element by element which is slow and cumbersome, but likely behavior when all else fails. This added to the cognitive overload of orienting themselves as they had to process all pieces of information when completing their first task.
 
--   Using global navigation menu - [Preface: Two desktop JAWS users in the study size down their browser viewports when navigating websites. This created a hybrid desktop/mobile experience for one user where they got the mobile version of the global menu button while on desktop.] This component was difficult to manipulate for both desktop and mobile users. It is unclear to them that this is a main global menu because it is not labeled as expected nor does it announce its current state consistently.
+-   Using global navigation menu - [Preface: Two desktop JAWS users in the study size down their browser viewports when navigating websites. This created a hybrid desktop/mobile experience for one user where they got the mobile version of the global menu button while on desktop.[see Figure 2](#figure-2)] This component was difficult to manipulate for both desktop and mobile users. It is unclear to them that this is a main global menu because it is not labeled as expected nor does it announce its current state consistently.
 
 -   Find - this method was more successful for users in this study. Some users easily found Find a VA Location when using a keyword like 'location', some locating it in the footer only.
 
