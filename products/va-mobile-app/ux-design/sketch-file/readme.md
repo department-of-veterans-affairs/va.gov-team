@@ -13,7 +13,7 @@ Every designer on the team can make updates to the Design library file. Bridget,
 - Add in new symbols or make updates to existing symbols. 
     - When you make updates that are new symbol additions, please create the symbols on the **Symbols** page, and also place the symbols on the **Styles**  pages in whatever place seems best to you.
     - When creating new symbols, use a naming convention that makes sense to you. Before creating a new category, see if the new symbols fit under an existing one, like Buttons or Global Components.
-- Hit "save" for the changes to be reflected in the cloud (you'll see changes other editors are making in their files in real-time but those changes won't be synced to the cloud until you save).
+- Hit "save" for the changes to be reflected in the cloud (you'll see changes other editors are making in their files in real-time but anyone's changes won't sync to the cloud until they save).
 - Create a change log comment noting the update you made.  
    
 **Note: Be purposeful when updating the Library file -- the updates you make will be pushed to all designers using the library.**
