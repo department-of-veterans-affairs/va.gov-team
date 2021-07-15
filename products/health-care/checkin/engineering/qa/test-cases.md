@@ -47,7 +47,7 @@
     - [Arrange (Data needed)](#arrange-data-needed-6)
     - [Act](#act-6)
     - [Assert (Expected Outcome)](#assert-expected-outcome-6)
-  - [Test Case H: Edge Case - User Refreshes the app before finishing the check in process](#test-case-g-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+  - [Test Case H: Edge Case - User Refreshes the app before finishing the check in process](#test-case-h-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
     - [Use case](#use-case-7)
     - [Arrange (Data needed)](#arrange-data-needed-7)
     - [Act](#act-7)
