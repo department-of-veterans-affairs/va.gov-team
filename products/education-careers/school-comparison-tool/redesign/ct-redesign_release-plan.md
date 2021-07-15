@@ -72,8 +72,8 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
 
-- Desired date range: 08/02 - 08/27
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
+- Desired date range: 09/21/21- 10/21/21
+- How will you make the product available in production while limiting the number of users who can find/access it: Feature Flags
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
