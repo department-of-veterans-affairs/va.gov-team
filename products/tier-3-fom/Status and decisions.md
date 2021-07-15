@@ -1,5 +1,12 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 7/14/2021
+
+Presented tier 3 strategy proposal to the Digital Modernization Council's "deep dive." 
+
+Deck (PDF): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/VA-Tier-3-Strategy-OCTO-071421.pdf
+
+
 ## 07/09/2021
 
 Meeting with Dan Navarro, technical PM, Dan's program manager, Derek Creary; Hal Haislip, contractor; and Janet Schiller
