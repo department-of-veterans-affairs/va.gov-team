@@ -1,4 +1,3 @@
-![Figure P1-4-1](https://user-images.githubusercontent.com/4960080/125809027-f615d496-cc19-4155-aa13-bf2057f581c3.png)
 # Homepage research findings from Facility Locator - Assistive Technology Discovery and Usability Study
 
 ## Key Findings
@@ -55,7 +54,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-1
 
-<img src="https://user-images.githubusercontent.com/4960080/125805121-47859be1-8685-4e43-b876-c55377cc1310.png" alt="[Figure P1-1]" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/125805121-47859be1-8685-4e43-b876-c55377cc1310.png" alt="[Figure P1-1]" width="55%" height="55%">
 ![Figure 1 1 1]
 
 ##### P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
@@ -94,7 +93,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-2
 
-<img src="https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS"  alt="[Figure P1-2]" width="60%" height="60%">
+<img src="https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS"  alt="[Figure P1-2]" width="55%" height="55%">
 
 ##### P1, Attempt #2, goes back to homepage, tries navigating via headings from where he left off
 
@@ -128,7 +127,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-3
 
-<img src="https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg" alt="[Figure P1-3]" width="60%" height="60%">
+<img src="https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg" alt="[Figure P1-3]" width="55%" height="55%">
 
 ##### P1, Attempt #3, starts at the top of the page navigating via headings
 
@@ -170,7 +169,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
   > "I really dislike the lists link; it doesn't always put everything in the list. That's the last thing I would do... See, this particular way, right here, to me, maybe I don't do it because it's like a 'blind only' thing and I rather navigate the page like everybody else does."
 
-<img src="https://user-images.githubusercontent.com/4960080/125809086-57494ad5-3413-47ce-a4cf-7ff6fd3821ca.png" alt="[Figure P1-4-1]" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/4960080/125809086-57494ad5-3413-47ce-a4cf-7ff6fd3821ca.png" alt="[Figure P1-4-1]" width="55%" height="55%">
 
 [Does not find "Find a VA Location" in the list using 'F']
 
@@ -178,8 +177,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 [Later, user opens links list while global menu is open and does encounter 'Find a VA location']
 
-<img src="https://user-images.githubusercontent.com/4960080/125809243-4a8bdeb0-57ea-4e57-8b33-22783d3695e2.png" alt="[Figure P1-4-1]" width="60%" height="60%">
-
+<img src="https://user-images.githubusercontent.com/4960080/125809977-9866595a-7741-474e-8713-b74574ad5a49.png" alt="[Figure P1-4-1]" width="60%" height="60%">
 
   > "see, that links list thing doesn't work because it's in a menu."
 
