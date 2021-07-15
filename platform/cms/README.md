@@ -9,15 +9,18 @@ The CMS has two teams, a Core Application Team and Product Support Team. Our wor
 | Core Application Team | Product Support Team |
 | --- | --- |
 | Content API Performance & Scalability | Onboarding of new Products |
-| Content Ops: Editorial Workflows & Tools | Product Strategy & Launch Runbooks |
-| User Account & Permissions Governance | Content Strategy / Modeling / Governance |
-| UX Design & Research | Drupal Engineering for Product teams |
 | DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
 | CMS Application Architecture & Quality Control | CMS Training |
-| CMS Design System | |
-| [CMS Helpdesk](helpdesk) | |
+| Accelerated Publishing Effort | Content Ops: Editorial Workflows & Tools |
+| | Product Strategy & Launch Runbooks |
+| | User Account & Permissions Governance |
+| | Content Strategy / Modeling / Governance |
+| | UX Design & Research |
+| | Drupal Engineering for Product teams |
+| | CMS Design System |
+| | [CMS Helpdesk](helpdesk) |
 
-
+**Note that several of these were shifted to allow the Core Team to focus on the Accelerated Publishing Effort in Q2 of 2020**
 
 ## CMS-supported products at VA.gov
 
@@ -28,6 +31,7 @@ A product is defined as a set of related features that drive specific outcomes w
 Products owned by Facilities team
 1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
 1. **Facility status** for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
+2. **Vet Center**
 
 Products owned by Public Websites 
 1. **VA.gov megamenu** (and possibly in the future, footer)
@@ -46,7 +50,6 @@ Content libraries that are shared across products
 
 Products in the queue
 1. **Cemetery**
-1. **Vet Center**
 1. **Regional Office**
 
 
@@ -69,11 +72,10 @@ Documentation about the CMS lives in various places
 ## How to Reach Us
 
 ### CMS Core Application Team
-- Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
-- David Addison, Delivery Manager - Slack `@David Addison`
+- Adrian Rollett, Product Manager - Slack `@Adrian Rollett`
+- Jeff Brauer, Delivery Manager - Slack `@Jeff Brauer`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
 - Neil Hastings, Tech Lead - Slack `@Neil Hastings`
-- Jordana Mello, Design Lead - Slack `@Jordana Mello`
 
 ### CMS Product Support Team
 - Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
@@ -82,6 +84,8 @@ Documentation about the CMS lives in various places
 
 ### CMS Program management
 - Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
+
+Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
