@@ -54,7 +54,8 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-1
 
-<img src="https://lh6.googleusercontent.com/_nv1pwI8K4ZWpb2CfDEIJBibtZNwMYqpMvYgUYZ1NJapHV2e9GXVwpB8WZKDO6r9S-UW0HF1yDaygv_2_VTanrfvpqxDWW9FWYH7PSAmofNFhHdVcOS1N9vG-rhB22m9G2DgW8On" alt="[Figure P1-1]" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/125805121-47859be1-8685-4e43-b876-c55377cc1310.png" alt="[Figure P1-1]" width="60%" height="60%">
+![Figure 1 1 1]
 
 ##### P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
 
@@ -188,7 +189,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
   > "menu button [can] be a great thing but its new that a screen reader will actually read it. On a lot of web pages that link will drive you crazy because..." 
 
-[navigates to menu]\ 
+[navigates to menu]\
 1\. Menu button is focused\
 2\. Hears, "Search button collapsed",  activates button\
 [menu is now expanded]\
