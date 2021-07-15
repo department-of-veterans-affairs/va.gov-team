@@ -2,7 +2,7 @@
 name: Redirect or URL Change Request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also for vanity URL requests.
 title: Redirect Request
-labels: vsp-product-support, ia
+labels: ia
 assignees: mnorthuis
 
 ---
