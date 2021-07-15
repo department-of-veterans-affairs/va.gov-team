@@ -45,7 +45,7 @@
 ## Exhibits
 --------
 
-#### [Figure P1.1]
+#### Figure P1.1
 
 <img src="https://lh6.googleusercontent.com/_nv1pwI8K4ZWpb2CfDEIJBibtZNwMYqpMvYgUYZ1NJapHV2e9GXVwpB8WZKDO6r9S-UW0HF1yDaygv_2_VTanrfvpqxDWW9FWYH7PSAmofNFhHdVcOS1N9vG-rhB22m9G2DgW8On" alt="[Figure 1.1.1]" width="50%" height="50%">
 
