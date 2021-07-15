@@ -117,7 +117,7 @@ When I look for location information for a place that I need to visit physically
 
 ### Findings section 3 - Using VA.gov
 When I search for things on VA.gov, I have trouble finding what I am looking for... 
-- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily 
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 - 3.2 - Global searches don’t produce relevant results
 - 3.3 - I get routed to too many different pages
 - 3.4 - If I find something useful, I don’t know how to retrace my steps later
@@ -163,7 +163,7 @@ Consuming Facility Locator search results was also tricky…
 ## Key Insights with Supporting Findings
 
 ### Findings section 1 - Navigating websites with Assistive Technology
-#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [see homepage audit doc for participant journeys with visual diagrams](https://docs.google.com/document/d/1xOjW57RyZIBZwywfBdPK8Nc2P-j4oiVoojT6-MGbrIk/edit?usp=sharing)
+#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [see detailed homepage findings here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 
 - 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
   - According to a recent [Webaim survey](https://webaim.org/projects/screenreadersurvey9/#finding) (see table below), when trying to find information on a lengthy web page, screen reader users navigate via headings most often. We observed many combinations of navigation methods in our study, including the use of ‘skip to content’ which most screen readers use sometimes (>28%), often (>14%) or always(>16%).
@@ -227,7 +227,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 ### Findings section 3 - Using VA.gov
 #### When I search for things on VA.gov, I have trouble finding what I am looking for... 
 
-- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [Link to homepage findings]()
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [Link to homepage findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 - 3.2 - Global searches don’t produce relevant results
      - Some Veterans didn’t think to look for a location finder so 4 Veterans used global search to find a location or dermatologist, some did this even after already having used the Facility Locator search in a previous task. Other participants didn't think to look for healthcare in a location finder. These searches turned out to be dead ends for users as they didn’t surface Facility Locator.
      - [P1: didn’t understand why he was being asked to find a dermatologist on Facility Locator - thinks this would be found under healthcare] 
