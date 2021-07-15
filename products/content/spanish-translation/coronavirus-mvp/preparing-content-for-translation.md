@@ -18,22 +18,34 @@
 
 ## Sentences
 
-- [ ] Sentences are between 5 and 20 words.
-- [ ] Each sentence conveys 1 thought and contains 1 active verb.
-- [ ] Each sentence is complete. It begins with a capital letter, includes at least one main clause, and has an ending punctuation. _For discussion: What should we do about our approach to bullets with no periods and sometimes phrases rather than complete sentences?_
+- [ ] Sentences are generally between 5 and 20 words. No sentences are more than 25 words.
+- [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is better in order to avoid awkward writing. 
+| Like this | Not like this |
+|---|---|
+|  |  |
+
+- [ ] Each sentence within body is complete. It starts with a capital letter includes:
+  - A subject
+  - A verb
+  - Ending punctuatioon
+
+It begins with a capital letter, includes at least one main clause, and has an ending punctuation. _For discussion: What should we do about our approach to bullets with no periods and sometimes phrases rather than complete sentences?_
 
 | Like this | Not like this |
 |---|---|
 |  |  |
 
+_Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD EXAMPLE]
+
 ## Words and phrases
 
-- [ ] Text avoids standalone phrases, except in headlines and subheadings.
 - [ ] Text contains no idioms, slang, jargon, or culturally specific information.
 
 | Like this | Not like this |
 |---|---|
 | **You're almost finished.** <br> This process should take about 5 more minutes to complete. | **Hang in there.** This process should take about 5 more minutes to complete. |
+
+[ADD LINK TO LIST OF IDIOMS TO AVOID]
 
 - [ ] Text is written all in English, and avoids common phrases borrowed from other languages.
 
@@ -54,15 +66,15 @@
 | Wear a mask that covers your mouth and nose. | It is useful to remember to wear a mask that covers your mouth and nose. |
 
 - [ ] Text is as free as possible of amibigous words (example, use "after" or "when" instead of "once").
-- [ ] Text specifies nouns with "the."
-- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentences rather than using a pronoun.
+- [ ] Text specifies nouns with "the." (exception: "VA" uses just "VA" and not "the VA") [ADD EXAMPLE]
+- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentences rather than using a pronoun. [REVIEW THIS ONE MORE]
 
 | Like this | Not like this |
 |---|---|
 |  | |
 
 - [ ] Text avoids demonstrative pronouns (ex. replace "This allows you to" with "This function allows you to").
-- [ ] Text avoids or limits compound words wherever possible.
+- [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ON MORE]
 - [ ] Text avoids the conditional (ex. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations whenever possible (including Latin abbreviations such as "i.e.: and "etc.").
 - [ ] Text avoids "and/or" 
