@@ -90,7 +90,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKE
 - The link Loads
 - The user selects "No" to the `Update Information` question
 - User selects the `Check-in now` button
-- User should be on the confirmation screen and see appropriate
+- User should be on the confirmation screen and see appropriate messaging that matches the mockups
 
 ### Assert (Expected Outcome)
 
