@@ -1,10 +1,22 @@
 # Current documentation 
 
+Last updated July 15, 2021
+
 ## Sketch file of design library
-- Uploaded to GitHub on 6/30/21 and accessible to all designers on the team as of July 14th via Sketch Teams. 
-- We should all be able to update this library and push updates to the cloud so everyone has the latest file. 
-    - **Note: Be purposeful when updating the Library file on your local machine - the updates you make will be pushed to all designers using that library.**
-- This file is a comprehensive representation of our MVP design components & is growing in Summer 2021.  
+- Uploaded to GitHub on 6/30/21 and it's now accessible to all designers via Sketch Cloud as of 7/15/21!  
+
+## Guidance for making updates to Sketch library
+- Every designer on the team can make updates to the Design Library file. Here's how to do it: 
+    - Go to the **Mobile App Design Library - 6.21.21** file in the "VA Mobile App Design Library" folder on Sketch Cloud
+    - Hit "edit"
+    - You should be able to see other designer's cursors in the file! And in the upper right you'll see a list of collaborators. 
+    - Add in new symbols or make updates to existing symbols. 
+        - When you make updates that are new symbol additions, please create the symbols on the **Symbols** page, and also place the symbols on the **Styles**  pages in whatever place seems best to you.
+        - When creating new symbols, use a naming convention that makes sense to you. Before creating a new category, see if the new symbols fit under an existing one, like Buttons or Global Components.
+    - Hit "save" for the changes to be reflected in the cloud.
+    - Create a change log comment noting the update you made.  
+   
+**Note: Be purposeful when updating the Library file -- the updates you make will be pushed to all designers using the library.**
 
 ---
 
