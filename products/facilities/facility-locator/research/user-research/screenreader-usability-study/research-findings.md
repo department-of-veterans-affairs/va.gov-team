@@ -117,7 +117,7 @@ When I look for location information for a place that I need to visit physically
 
 ### Findings section 3 - Using VA.gov
 When I search for things on VA.gov, I have trouble finding what I am looking for... 
-- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [detailed homepage findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 - 3.2 - Global searches don’t produce relevant results
 - 3.3 - I get routed to too many different pages
 - 3.4 - If I find something useful, I don’t know how to retrace my steps later
@@ -163,7 +163,7 @@ Consuming Facility Locator search results was also tricky…
 ## Key Insights with Supporting Findings
 
 ### Findings section 1 - Navigating websites with Assistive Technology
-#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [see detailed homepage findings here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [refer to detailed homepage findings here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 
 - 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
   - According to a recent [Webaim survey](https://webaim.org/projects/screenreadersurvey9/#finding) (see table below), when trying to find information on a lengthy web page, screen reader users navigate via headings most often. We observed many combinations of navigation methods in our study, including the use of ‘skip to content’ which most screen readers use sometimes (>28%), often (>14%) or always(>16%).
