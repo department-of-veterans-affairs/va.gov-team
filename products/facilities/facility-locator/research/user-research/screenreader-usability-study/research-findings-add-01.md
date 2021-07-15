@@ -18,7 +18,7 @@
 
 ### 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
 
--   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directs the user for attempts 4 and 5] See case study
+-   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [See case study](#case-study-p1)
 
 -   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
 
@@ -44,7 +44,9 @@
 
 ## Exhibits
 
-### Case Study - P1, Completely blind participant navigating VA.gov homepage using JAWS
+### Case Study - P1
+
+#### Completely blind participant navigating VA.gov homepage using JAWS
 
 Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directed the user for attempts 4 and 5]
 
