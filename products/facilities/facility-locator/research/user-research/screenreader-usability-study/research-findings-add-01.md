@@ -1,3 +1,4 @@
+![Figure P1-4-1](https://user-images.githubusercontent.com/4960080/125809027-f615d496-cc19-4155-aa13-bf2057f581c3.png)
 # Homepage research findings from Facility Locator - Assistive Technology Discovery and Usability Study
 
 ## Key Findings
@@ -161,7 +162,6 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-4
 
-<img src="https://lh5.googleusercontent.com/IsDokfCGJWpfmfo1BJ9JYB4H2O6NQvN-FYlumAA-rvTtOTpeQGJQUdEvZFiYvrTN34zf3DnSKOLD-BGq9IId-R4DJ0K3F07-mgcDKxvK5XEJ6pCy_2dep2rR_Rx3WNvpvRlI5zcT" alt="[Figure P1-4]" width="60%" height="60%">
 
 
 ##### P1, Attempt #4.
@@ -170,11 +170,16 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
   > "I really dislike the lists link; it doesn't always put everything in the list. That's the last thing I would do... See, this particular way, right here, to me, maybe I don't do it because it's like a 'blind only' thing and I rather navigate the page like everybody else does."
 
+<img src="https://user-images.githubusercontent.com/4960080/125809086-57494ad5-3413-47ce-a4cf-7ff6fd3821ca.png" alt="[Figure P1-4-1]" width="40%" height="40%">
+
 [Does not find "Find a VA Location" in the list using 'F']
 
 ...
 
 [Later, user opens links list while global menu is open and does encounter 'Find a VA location']
+
+<img src="https://user-images.githubusercontent.com/4960080/125809243-4a8bdeb0-57ea-4e57-8b33-22783d3695e2.png" alt="[Figure P1-4-1]" width="60%" height="60%">
+
 
   > "see, that links list thing doesn't work because it's in a menu."
 
