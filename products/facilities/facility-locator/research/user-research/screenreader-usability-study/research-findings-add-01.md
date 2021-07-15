@@ -20,7 +20,7 @@
 
 -   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directs the user for attempts 4 and 5]
 
--   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1.1](#figure-P1)] 
+-   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
 
 -   2\. Second, navigates homepage by headings from Service member benefits  [[Figure P1.2](https://docs.google.com/document/d/1xOjW57RyZIBZwywfBdPK8Nc2P-j4oiVoojT6-MGbrIk/edit#heading=h.drfvgp3f5nmh)] 
 
@@ -45,7 +45,7 @@
 ## Exhibits
 --------
 
-#### Figure P1
+#### Figure P1-1
 
 <img src="https://lh6.googleusercontent.com/_nv1pwI8K4ZWpb2CfDEIJBibtZNwMYqpMvYgUYZ1NJapHV2e9GXVwpB8WZKDO6r9S-UW0HF1yDaygv_2_VTanrfvpqxDWW9FWYH7PSAmofNFhHdVcOS1N9vG-rhB22m9G2DgW8On" alt="[Figure 1.1.1]" width="50%" height="50%">
 
