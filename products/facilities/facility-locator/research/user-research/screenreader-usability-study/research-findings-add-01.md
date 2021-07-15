@@ -2,7 +2,7 @@
 
 ## Key Findings
 
-### 1. The homepage is difficult to use with screenreaders
+### 1. The homepage is difficult to use with screen readers
 
 -   Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage. [see Case Study P1](#case-study-p1)
 
@@ -37,7 +37,7 @@
 
 * P10 was the only participant that knew of facility locator but decided to use Google to complete the task instead of going to VA.gov to look for it. Later in the interview she complains about how the volume of information on VA overwhelms her. It is possible, that this could be a reason she decided to try Google first.
  > “I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.” 
-The participant tries to read the page but the screen reader bypasses "Find a VA Location" and the user dead ends in a side navigation without hearing it. See [Case Study P10](#case-study-p10)
+The participant tries to read the page but the screen reader bypasses "Find a VA Location" and the user dead ends in a side navigation without hearing it. See step 12 in [Case Study P10](#case-study-p10)
 
 
 ### 3. 4/7 Veterans used global search to find a location or dermatologist. 
@@ -234,15 +234,21 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 > "Closed button collapsed. What does that mean?"
 
+--- 
+
 #### Figure 2
 
 Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users.
 
 <img src="https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9" alt="[Figure 2]" width="60%" height="60%">
 
-#### Case Study P10
+---
 
-Using JAWS, P10 tries to find the VA nearest to her using Google, but she clarifies if she should look for a va clinic or hospital. She is given the choice. She types in “VA facility near me… [erases 'me' and changes to] fairfield, texas"
+### Case Study P10
+
+#### Low vision user who cannot get her ZoomText to work switches to JAWS 
+
+Using JAWS, P10 tries to find the VA nearest to her using Google. She clarifies if she should look for a va clinic or hospital. She is given the choice. She types in “VA facility near me… [erases 'me' and changes to] fairfield, texas"
 
    - <img src="https://user-images.githubusercontent.com/4960080/125827261-41d02219-ddf8-47e8-8693-ed10abc5e67c.png" alt="google search for facilities" width="60%" height="60%">
 
