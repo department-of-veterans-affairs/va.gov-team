@@ -186,8 +186,9 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 [User is prompted to use global menu]
 
-"menu button [can] be a great thing but its new that a screen reader will actually read it. On a lot of web pages that link will drive you crazy because..." [navigates to menu] 
+  > "menu button [can] be a great thing but its new that a screen reader will actually read it. On a lot of web pages that link will drive you crazy because..." 
 
+[navigates to menu]\ 
 1\. Menu button is focused\
 2\. Hears, "Search button collapsed",  activates button\
 [menu is now expanded]\
