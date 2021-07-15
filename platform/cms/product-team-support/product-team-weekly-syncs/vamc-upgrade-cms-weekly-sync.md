@@ -21,9 +21,10 @@
 
 </details>
 
-## July 14
+## July 16
+  * Health services migration of remaining 6
   * Discuss va- randomness in Health Service import, is current resolution path acceptable?
-  * 
+  * Status of elligible parent items
 
 ## July 9 
 
