@@ -246,8 +246,8 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 
 ### Use case
 
-- As a user, I have clicked on a valid link to check-in after previously not completing checking in for the same appointment
-  - this is to simulate a user closing their app mid-check-in and returning later to complete check-in
+- As a user, I have clicked on a valid link to check-in after previously not fully completing checking in for the same appointment
+  - this is to simulate a user closing their app mid check-in and returning later to complete check-in
   
 ### Arrange (Data needed)
 
@@ -260,6 +260,10 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 - The user clicks the link
 - The link Loads
 - The user selects "No" to the `Update Information` question
+- The user closes their app
+- The user click the link
+- The link Loads
+- The user selects "No" to the `Update Information` question
 - User selects the `Check-in now` button
 - User should be on the confirmation screen and see appropriate messaging that matches the mockups
 
@@ -269,7 +273,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 - No errors are thrown
 - The user sees a confirmation screen with appropriate messaging that matches the mockups
 
-## Test Case H: Edge Case - User Refreshes the app before finishing the check-in process
+## Test Case H: Edge Case - User Refreshes the app before finishing the check in process
 
 > No Cypress test created yet
 
