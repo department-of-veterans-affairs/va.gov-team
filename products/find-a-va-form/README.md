@@ -26,6 +26,7 @@ This is the folder for all background, historical, discovery, and status documen
    - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
    - [Content Flow Diagram](#Content-Flow-Diagram)
    - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
+- [Troubleshooting](#troubleshooting)
 - [Status and decisions](#status-and-decisions)
 
 ## Incident Response
@@ -188,6 +189,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ### Detail Page Content Architecture Diagram
 [Whimsical diagram - form detail page content architecture](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
+
+# Troubleshooting
+- Compare versions in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000
+- Time lag between VA Form changes & when updated on Find a VA Form:
+   - Find a Form search page PDF link will update immediately.  
+   - Detail page updates only after the merge runs over night, AND after the next day's 9 AM CMS publish
 
 ------
 ## Status and decisions:
