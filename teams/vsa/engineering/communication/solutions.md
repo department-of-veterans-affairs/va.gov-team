@@ -38,7 +38,7 @@ Solution
 <hr>
 VSP should give VSA access to it's Kanban board as well as produce a very, very simple document once per month where they simply list their priorities with a one line explanation of why that priority is where it is in the list.
 
-## Root Cause - Lack of a coherant rollout plan
+## Root Cause - Lack of a coherent rollout plan
 
 > VSA engineers are not consulted on the announcement or release  of a larger initiative. The current communication generally takes place over Slack and it is missed. This causes major time losses and a critical loss of trust in VSP.
 
