@@ -421,7 +421,7 @@ We determined that Veterans are provided with many of the dictation and magnific
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
-[[Research Findings - VA.gov Homepage Specific]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+[Research Findings - VA.gov Homepage Specific](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)]
 
 ## Table of Contents
 
