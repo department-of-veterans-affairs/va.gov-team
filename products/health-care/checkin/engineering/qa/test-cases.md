@@ -143,7 +143,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TO
 ### Act
 
 - The link Loads
-- User should see an error page
+- User should see an error page ([Mockup](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/MynDRab))
 
 ### Assert (Expected Outcome)
 
