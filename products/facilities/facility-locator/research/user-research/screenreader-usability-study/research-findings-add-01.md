@@ -2,21 +2,23 @@
 
 ## Key Findings
 
-### Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage.
+### 1. Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage.
 
--   Browsing by heading - A lack heading level hierarchy creates an inaccurate and confusing representation of the content available on the homepage. The user hears that there is one H1 (Access and manage your VA benefits and health care).  H2s are sometimes links and sometimes groups of links but there is no content categorization. A user hears that there are 80+ links but no way to know that over half of them are footer links that they might be able to ignore on a second listen.
+-   Browsing by heading - A lack of heading level hierarchy creates an inaccurate and confusing representation of the content available on the homepage. The user hears that there is one H1 (Access and manage your VA benefits and health care).  H2s are sometimes links and sometimes groups of links but there is no content categorization. A user hears that there are 80+ links but no way to know that over half of them are footer links that they might be able to ignore on a second listen.
 
 -   Skip to content - using this method drops a user at the "Service member benefits" link, bypassing the "Top 4" boxes. This confused one user who later returned to the homepage, who proceeded to navigate by heading level and then experienced a completely different set of information. Leaving him convinced that he'd never been to the homepage before.
 
 -   Regions - the lack of delineated regions means users perceive all footer links as part of the page content links forcing them to hear all 46 of them each time when they navigate by 'reading page', element by element which is slow and cumbersome, but likely behavior when all else fails. This added to the cognitive overload of orienting themselves as they had to process all pieces of information when completing their first task.
 
--   Using global navigation menu - (Preface: Two desktop JAWS users in the study size down their browser viewports when navigating websites. This created a hybrid desktop/mobile experience for one user where they got the mobile version of the global menu button while on desktop. [See Figure 2](#figure-2)) This component was difficult to manipulate for both desktop and mobile users. It is unclear to them that this is a main global menu because it is not labeled as expected nor does it announce its current state consistently.
+-   Using global navigation menu - (Preface: Two desktop JAWS users in the study size down their browser viewports when navigating websites. This created a hybrid desktop/mobile experience for one user where they got the mobile version of the global menu button while on desktop. [See Figure 2](#figure-2)) This component was difficult to manipulate for both desktop and mobile users. It is unclear to them that this is a main global menu because it is not labeled as expected nor does it announce its current state consistently. States were also not clearly described.
+     - [P1 while orienting himself within the global menu]
+     > "Well, first of all, I wasn't even sure it was reading the menu because the screen will change. That's why I arrowed back up. It's usually helpful, if when I hit the menu and the menu dropped down, and I arrowed back up, it would at least say 'menu open' so I know when the menu started because right now I'm assuming this is under that menu but it doesn't really tell me, or say 'menu'."
 
 -   Find - this method was more successful for users in this study. Some users easily found Find a VA Location when using a keyword like 'location', some locating it in the footer only.
 
 -   Edit box - when arriving at the homepage, JAWS announces that there is no edit box. The expectation is that a search box would appear as an edit box. Most participants used the search box once they knew it was available including for location searches, even after having used Facility Locator in a previous task.
 
-### 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
+### 2. 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
 
 -   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [[See case study](#case-study-p1)]
 
@@ -40,8 +42,12 @@
 
 -   P10: Tries many methods because she ran into a number of technical issues with her A.T. Would have preferred to use Siri but was unable to. 
 
-### 4/7 Veterans used global search to find a location or dermatologist.
+### 3. 4/7 Veterans used global search to find a location or dermatologist. 
 
+   - P9 types in VA 'dermatalgist' into global search
+    
+   > There's a search thing there so I would do that.
+   
 ## Exhibits
 
 ### Case Study P1
