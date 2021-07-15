@@ -179,8 +179,7 @@ P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed
 
 #### Figure P1-5
 
-<img src="https://lh5.googleusercontent.com/ML5Z0abgsawim478iQh2vdzt4H9rjrRnkZ8m4UBTmeEJMZDE8eIiR1xg_LAy3C1J6OMmj0UL-9D5xkhyraGqjx55LD_rSUvpKHHXCGFp_GZLmutfDoppAZd_aDD6IYmDTrplOw-z" alt="[Figure P1-5-1]" width="60%" height="60%">
-<img src="https://lh5.googleusercontent.com/IsDokfCGJWpfmfo1BJ9JYB4H2O6NQvN-FYlumAA-rvTtOTpeQGJQUdEvZFiYvrTN34zf3DnSKOLD-BGq9IId-R4DJ0K3F07-mgcDKxvK5XEJ6pCy_2dep2rR_Rx3WNvpvRlI5zcT" alt="[Figure P1-5-2]" width="60%" height="60%">
+<img src="https://lh5.googleusercontent.com/ML5Z0abgsawim478iQh2vdzt4H9rjrRnkZ8m4UBTmeEJMZDE8eIiR1xg_LAy3C1J6OMmj0UL-9D5xkhyraGqjx55LD_rSUvpKHHXCGFp_GZLmutfDoppAZd_aDD6IYmDTrplOw-z" alt="[Figure P1-5]" width="60%" height="60%">
 
 
 ##### P1, Attempt 5.
