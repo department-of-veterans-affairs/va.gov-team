@@ -8,6 +8,7 @@ Digital Services Veterans Affairs (DSVA), VSA, Facility Locator, June 24, 2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md).
 
+## Table of Contents
 
 * [About the research](#about-the-research)
 * [Hypotheses](#hypotheses)
@@ -82,6 +83,8 @@ Magnification software was not able to be observed during testing. More research
 
 Technical limitations also prevented testing with Veterans who use switch devices and braille readers as captured in the recruitment checker.
 
+---
+
 ## Hypotheses
 
 ### Using Facility Locator and assistive technology:
@@ -93,6 +96,8 @@ Technical limitations also prevented testing with Veterans who use switch device
 
 **LIKELY UNTRUE:** Results listings are perceived inconsistently across users of different assistive technologies. Many key features and information were missed by screen readers, making the experience confusing for many.
  
+---
+
 ## Key Insights
 
 ### Findings section 1 - Navigating websites with Assistive Technology
@@ -146,6 +151,8 @@ Consuming Facility Locator search results was also tricky…
 - 5.6 - I didn’t realize that I was being taken to Google Maps, I like to know this
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
+
+---
 
 ## Additional Insights
 
@@ -316,6 +323,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
 - 5.8 - I didn’t see a map but I usually don’t use them because they aren’t accessible
 
+---
 
 ## Recommendations
 
@@ -398,6 +406,7 @@ As a Veteran who uses assistive technology, some things that would improve my ex
 14. Improve discoverability of facility information available to them. Veterans are unaware of the different facility types that they can find using Facility Locator. Consider a more discoverable way of browsing. 
     1. For example, a set of exposed filters in a left rail could surface facility types, like cemeteries, that might be unknown but useful to more Veterans. Two Veterans in this study described recent searches for burial and cemetery information.
 
+---
 
 ## Next Steps
 
@@ -405,14 +414,16 @@ As a Veteran who uses assistive technology, some things that would improve my ex
 - Review recommendations with Facilities team
 
 
-## Further research needed
+## Further Research Needed
 
 We determined that Veterans are provided with many of the dictation and magnification software (e.g. ZoomText, Fusion) technologies that we observed. However, we were not able to test the tasks with dictation nor magnification software. More research is needed to understand how these top tasks would fare using those technologies.
 
 ## Appendix
-\[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
-\[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
-\[[Research Findings - VA.gov Homepage Specific]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)\
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
+[[Research Findings - VA.gov Homepage Specific]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+
+## Table of Contents
 
 * [About the research](#about-the-research)
 * [Hypotheses](#hypotheses)
