@@ -1,5 +1,6 @@
-Homepage research findings from Facility Locator - Assistive Technology Discovery and Usability Study
------------------------------------------------------------------------------------------------------
+# Homepage research findings from Facility Locator - Assistive Technology Discovery and Usability Study
+
+## Key Findings
 
 ### Different navigation methods produce inconsistent user experiences, page hierarchy and content perceptions of the VA.gov homepage.
 
@@ -19,7 +20,7 @@ Homepage research findings from Facility Locator - Assistive Technology Discover
 
 -   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directs the user for attempts 4 and 5]
 
--   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1.1](https://docs.google.com/document/d/1xOjW57RyZIBZwywfBdPK8Nc2P-j4oiVoojT6-MGbrIk/edit#heading=h.g3h01qlczm5t)] 
+-   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1.1](#figure-P1.1)] 
 
 -   2\. Second, navigates homepage by headings from Service member benefits  [[Figure P1.2](https://docs.google.com/document/d/1xOjW57RyZIBZwywfBdPK8Nc2P-j4oiVoojT6-MGbrIk/edit#heading=h.drfvgp3f5nmh)] 
 
@@ -41,14 +42,16 @@ Homepage research findings from Facility Locator - Assistive Technology Discover
 
 ### 4/7 Veterans used global search to find a location or dermatologist.
 
-Exhibits
+## Exhibits
 --------
 
-#### [Figure P1.1]![](https://lh6.googleusercontent.com/_nv1pwI8K4ZWpb2CfDEIJBibtZNwMYqpMvYgUYZ1NJapHV2e9GXVwpB8WZKDO6r9S-UW0HF1yDaygv_2_VTanrfvpqxDWW9FWYH7PSAmofNFhHdVcOS1N9vG-rhB22m9G2DgW8On "[Figure 1.1.1]"){:height="500px"}
+#### [Figure P1.1]
 
-P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
+<img src="https://lh6.googleusercontent.com/_nv1pwI8K4ZWpb2CfDEIJBibtZNwMYqpMvYgUYZ1NJapHV2e9GXVwpB8WZKDO6r9S-UW0HF1yDaygv_2_VTanrfvpqxDWW9FWYH7PSAmofNFhHdVcOS1N9vG-rhB22m9G2DgW8On" alt="[Figure 1.1.1]" width="50%" height="50%">
 
-[20:30]
+##### P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
+
+[timestamp 20:30]
 
 1\. Hears 'Skip to content', clicks.
 
@@ -106,7 +109,10 @@ P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
 
 [22:45]... [moderator interrupts]
 
-#### [Figure P1.2]![](https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS)
+#### [Figure P1.2]
+
+![](https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS)
+<img src="url" alt="alt text" width="whatever" height="whatever">
 
 P1, Attempt #2, goes back to homepage, tries navigating via headings from where he left off
 
@@ -136,7 +142,10 @@ P1, Attempt #2, goes back to homepage, tries navigating via headings from where 
 
 [Since 'Service member benefits' was the first H2 that was read out to him, P1 was mentally stuck trying to complete the task within a 'benefits' section that would apply to him ']
 
-#### [Figure P1.3]![](https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg)
+#### [Figure P1.3]
+
+![](https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg)
+<img src="url" alt="alt text" width="whatever" height="whatever">
 
 P1, Attempt #3, starts at the top of the page navigating via headings
 
@@ -181,6 +190,8 @@ P1, Attempt #3, starts at the top of the page navigating via headings
 #### [Figure P1.4]
 
 ![](https://lh5.googleusercontent.com/IsDokfCGJWpfmfo1BJ9JYB4H2O6NQvN-FYlumAA-rvTtOTpeQGJQUdEvZFiYvrTN34zf3DnSKOLD-BGq9IId-R4DJ0K3F07-mgcDKxvK5XEJ6pCy_2dep2rR_Rx3WNvpvRlI5zcT)
+<img src="url" alt="alt text" width="whatever" height="whatever">
+
 
 P1, Attempt #4.
 
@@ -199,6 +210,9 @@ P1, Attempt #4.
 #### [Figure P1.5]![](https://lh5.googleusercontent.com/ML5Z0abgsawim478iQh2vdzt4H9rjrRnkZ8m4UBTmeEJMZDE8eIiR1xg_LAy3C1J6OMmj0UL-9D5xkhyraGqjx55LD_rSUvpKHHXCGFp_GZLmutfDoppAZd_aDD6IYmDTrplOw-z)
 
 ![](https://lh5.googleusercontent.com/IsDokfCGJWpfmfo1BJ9JYB4H2O6NQvN-FYlumAA-rvTtOTpeQGJQUdEvZFiYvrTN34zf3DnSKOLD-BGq9IId-R4DJ0K3F07-mgcDKxvK5XEJ6pCy_2dep2rR_Rx3WNvpvRlI5zcT)
+
+<img src="url" alt="alt text" width="whatever" height="whatever">
+<img src="url" alt="alt text" width="whatever" height="whatever">
 
 P1, Attempt 5.
 
@@ -236,4 +250,8 @@ P1, Attempt 5.
 
 #### [Figure ] 
 
-Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users.![](https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9)
+Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users.
+
+![](https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9)
+
+<img src="url" alt="alt text" width="whatever" height="whatever">
