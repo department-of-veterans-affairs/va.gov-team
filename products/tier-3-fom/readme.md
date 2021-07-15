@@ -4,4 +4,8 @@ This is the folder for Tier 3 office content product. This folder will include d
 
 For research and other info conducted in 2019 with OPIA, go to the Office Administration folder: 
 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration .
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration 
+
+Tier 3 Strategy deck presented to the Digital Modernization Council: 
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/VA-Tier-3-Strategy-OCTO-071421.pdf
