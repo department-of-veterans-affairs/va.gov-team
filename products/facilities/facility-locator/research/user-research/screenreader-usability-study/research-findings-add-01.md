@@ -253,40 +253,68 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 > And then you get into this list of.. where are these places?
 
-“I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
+> Ok…  “I know there’s a location finder, you can type in your address and it’ll do a little search somewhere… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
+
+[User activates JAWS and hears:] 
+1. "Search in facility directory, type in text"
+2. Advances, hears "go button"
 
 [M: If you want to find it, where would you go?]
 
 I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list.
 
-[Want to try that?]
+[M: Want to try that?]
 
-> Ok…  “I know there’s a location finder, you can type in your address and it’ll do a little search somewhere… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
-
-[M: If you want to find it, where would you go]
-
-> I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list.
-
-[Want to try that?]
-
-> Ok… Am I on JAWS?... I’m trying to insert + f7 to get my list links up 
+> Ok… Am I on JAWS?... [user navigates between open windows to reorient herself and comes back to browser] 
+3. JAWS Texas dash locations em dash Mozilla Firefox
+4. advances, hears "Banner region, here's how you know" button collapsed
+5. skips, hears "talk to the Veter"
+6. skips... hears "search"
+7. skips... hears "contact"
+8. skips... hears "sign in button"
+> I’m trying to just insert + f7 to get my list links up 
 [user is frustrated that her JAWS list links feature isn't working]
 
 [navigates to GLOBAL NAV]
 
 > ok I can tab through normally… 
-[user tries activating VA benefits and health care, but it’s not working]
 
-[JAWS SR says:] 
-1. …”Sign in button"
-2. “navigation region”
-3. "vah benefits and healthcare collapsed"
-4. "vah benefits and healthcare collapsed" 
-[starts to read a 3rd time and skips to left nav] 
-5. “I am a dot, dot, dot, combo box, select one, to change selection, use the arrow keys”
-6. “Locations home link. Locations home link. Locations home link”
-
+9. “navigation region”
+10. advances, hears "vah benefits and healthcare collapsed"
+11. hears "vah benefits and healthcare collapsed"
+12. hears "vah benefits and healthcare collapsed" 
+[user tries activating VA benefits and health care, but it’s not working so skips to left nav]
+> yeah, its...[trails]
+13. advances, hears “I am a dot, dot, dot, combo box, select one, to change selection, use the arrow keys”
+14. advances, hears “Locations home link" 
+15. hears "Locations home link"
+16. hears "Locations home link”
+> [laughs] yeah, I don't know what's going on with this thing
+ 
 [Moderator: What’s going on?]
 
-> I’m in the page! And I can tab easily through… but I can’t get a list of links for some reason. I don’t know why that’s happening. I want to pull it up so I don’t have to go through each one. Like what is subprogram?  I’m already ON facilities by state? Can’t it say like “facilities by state, you are here?” So maybe it’s the interactive US map?
+> I’m in the page! 
+17. advances, hears “vah facilities, link veterans health administration left par right pair"
+18. advances, hears “vah facilities link veterans benefits adminis..."
+19. skips, hears "NCA"
+
+
+> And I can tab easily through… but I can’t get a list of links for some reason. I don’t know why that’s happening. I want to pull it up so I don’t have to go through each one. 
+
+20. skips, hears "[inaudible] central office listing link"
+21. advances, hears "vet centers link"
+
+> these are all links and maybe they were up and I didn't realize it
+
+22. advances, hear "PTSD program link"
+23. advances, hears "SUD program link"
+
+> Like, what is sudprogram? I don't know. 
+
+24. advances, hears "grav-eh-side locator new window"
+25. advances, hears "facilities by state link"
+
+> I’m already ON facilities by state? Can’t it say like “facilities by state, you are here? so I don't have to hear it a second time? So maybe it’s probably the interactive US map?"
+
+[moderator ends task]
 
