@@ -18,7 +18,7 @@
 
 ### 4/7 Veterans had difficulty finding Facility Locator from VA.gov.
 
--   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [See case study](#case-study-p1)
+-   P1: Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [[See case study](#case-study-p1)]
 
 -   1\. First, user tries "skip to content" on VA.gov homepage and is taken to the 'Service member benefits' H2 . From this point, the user was mentally stuck trying to complete the task within a 'benefits' section that would apply to him [[Figure P1-1](#figure-P1-1)] 
 
