@@ -164,7 +164,7 @@ This case may not be different than other token-based edge cases, but calling th
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with an expired LoROTA token
+- A link to the check in-app without any LoROTA token
 
 Example: <https://staging.va.gov/health-care/appointment-check-in/>
 
