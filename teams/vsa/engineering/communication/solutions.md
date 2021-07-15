@@ -26,7 +26,7 @@ Solution
 <hr>
 VSA needs to build solutions based on an MVP approach and thus an asyncronous document or a syncrounous meeting should be provided once VSP is trying to determine the best solution for a root problem where VSA can help VSP to isolate the smallest possible MVP to solve a problem. VSA then needs to build that MVP and have measurable KPI's which are mapped in the MVP rollout to determine if the MVP solves the root problem. These KPIs should come from VSA, not VSP, since the engineers on VSA have a greater understanding of the nature of the problem.
 
-## Root Cause - Lack of transparancy
+## Root Cause - Lack of transparency
 
 > There is not enough transparency around the current priorities of VSP. There is also no clear reason provided for the discrepancy between VSP and VSA priorities.
 
