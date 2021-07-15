@@ -46,7 +46,9 @@
 
 ### Case Study - P1, Completely blind participant navigating VA.gov homepage using JAWS
 
-Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directs the user for attempts 4 and 5]
+Three failed attempts created an unpredictable, confusing, and frustrating user experience. The linked figures below detail this user's wayfinding attempts and illustrate how difficult it was for this user to orient himself along the way. [Note: To understand how other navigation methods may or may not work for this user, the moderator directed the user for attempts 4 and 5]
+
+P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed attempts to complete task number two (looking for a Dermatologist near you). The participant is taken to the ‘Service member benefits’ H2. From this point, the user was mentally stuck on trying to complete the task within a ‘benefits’ category that would apply to him. Notice the user’s scanning behavior, as he listens to elements on the page multiple times to understand where he is, what the page is about and where he should go next. This attempt took two minutes and fifteen seconds. On his third attempt, the participant tries to navigate by listening to the headings on the page from the top. Since he did not use ‘skip to content’, this time the homepage appeared to have completely different content than on his first visit.
 
 #### Figure P1-1
 
