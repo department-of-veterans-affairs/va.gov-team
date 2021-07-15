@@ -195,6 +195,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - Time lag between VA Form changes & when updated on Find a VA Form:
    - Find a Form search page PDF link will update immediately.  
    - Detail page updates only after the merge runs over night, AND after the next day's 9 AM CMS publish
+   - Also see this Slack thread for more details on timing: https://dsva.slack.com/archives/CUB5X5MGF/p1623794210193400
+![image](https://user-images.githubusercontent.com/73354907/125852399-af89f562-4ea3-4fe4-80fe-2d524eff2e45.png)
+
 
 ------
 ## Status and decisions:
