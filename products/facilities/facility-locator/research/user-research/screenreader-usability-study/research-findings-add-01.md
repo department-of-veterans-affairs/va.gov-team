@@ -46,7 +46,7 @@ The participant tries to read the page but the screen reader bypasses "Find a VA
    - P9 proceeds to type 'va dermatalgist' into global search
    - <img src="https://user-images.githubusercontent.com/4960080/125820911-c30211db-acaa-4a7e-8b9b-fd25ab1310ec.png" alt="user types in 'va dermatalgist' into global search" width="35%" height="35%">
 
-## Exhibits
+## Exhibits 
 
 ### Case Study P1
 
@@ -274,7 +274,8 @@ I would tab through this entire page one by one to see… or I would check the l
 
 [navigates to GLOBAL NAV]
 
-> ok I can tab through normally… *activating VA benefits and health care, but it’s not working* 
+> ok I can tab through normally… 
+[user tries activating VA benefits and health care, but it’s not working]
 
 [JAWS SR says:] 
 1. …”Sign in button"
