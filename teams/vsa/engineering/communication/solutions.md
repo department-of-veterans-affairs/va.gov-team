@@ -10,8 +10,6 @@ Now that we have done initial research into the pain points surrounding communic
 - "Many solutions seem to be knee-jerk reactions"
 
 Solution
-
-TBD
 <hr>
 An asyncronous document or a syncrounous meeting should be provided before a VSP project starts where VSP clearly presents the problem, not the solution, and then are able to ask VSA engineers questions about the nature of the problem. This will also be a time for VSA engineers to explore the problem and potential solutions before both VSP and VSA choose a potential solution together. This meeting or document should be collaberative workshop, not a presentation, that is provided in a very public forum and everyone has the ability to ask questions and provide input.
 
@@ -26,7 +24,7 @@ An asyncronous document or a syncrounous meeting should be provided before a VSP
 
 Solution
 <hr>
-
+VSA needs to build solutions based on an MVP approach and thus an asyncronous document or a syncrounous meeting should be provided once VSP is trying to determine the best solution for a root problem where VSA can help VSP to isolate the smallest possible MVP to solve a problem. VSA then needs to build that MVP and have measurable KPI's which are mapped in the MVP rollout to determine if the MVP solves the root problem. These KPIs should come from VSA, not VSP, since the engineers on VSA have a greater understanding of the nature of the problem.
 
 ## Root Cause - Lack of transparancy
 
@@ -38,7 +36,7 @@ Solution
 
 Solution 
 <hr>
-
+VSP should give VSA access to it's Kanban board as well as produce a very, very simple document once per month where they simply list their priorities with a one line explanation of why that priority is where it is in the list.
 
 ## Root Cause - Lack of a coherant rollout plan
 
