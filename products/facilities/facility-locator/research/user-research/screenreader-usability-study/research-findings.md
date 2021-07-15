@@ -398,7 +398,13 @@ As a Veteran who uses assistive technology, some things that would improve my ex
 
 ## Next Steps
 
+- Assess recommendations with Accessibility Specialists
+- Review recommendations with Facilities team
+
+
 ## Further research needed
+
+We determined that Veterans are provided with many of the dictation and magnification software (e.g. ZoomText, Fusion) technologies that we observed. However, we were not able to test the tasks with dictation nor magnification software. More research is needed to understand how these top tasks would fare using those technologies.
 
 ## Appendix
  [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)
