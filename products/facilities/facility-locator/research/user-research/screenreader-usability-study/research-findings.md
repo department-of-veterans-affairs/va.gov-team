@@ -160,10 +160,13 @@ Consuming Facility Locator search results was also tricky…
 
 --- 
 
+
 ## Key Insights with Supporting Findings
 
+
 ### Findings section 1 - Navigating websites with Assistive Technology
-#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [refer to detailed homepage findings here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+
+#### As a Veteran who uses assistive technology, orienting myself on websites is often unpredictable, cumbersome and time-consuming [[refer to detailed homepage findings here]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 
 - 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
   - According to a recent [Webaim survey](https://webaim.org/projects/screenreadersurvey9/#finding) (see table below), when trying to find information on a lengthy web page, screen reader users navigate via headings most often. We observed many combinations of navigation methods in our study, including the use of ‘skip to content’ which most screen readers use sometimes (>28%), often (>14%) or always(>16%).
