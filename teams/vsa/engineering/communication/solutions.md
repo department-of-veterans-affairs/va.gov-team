@@ -1,21 +1,6 @@
 # Background
 Now that we have done initial research into the pain points surrounding communication between VSA and VSP we have developed a few potential solutions to address the pain points. This document details the potential solutions. Each solution will begin with the initial root cause, followed by a description of the pain point, then the insights that were provided by our research. Then the potential solution will be detailed.
 
-## Root Cause - Lack of a coherant rollout plan
-
-> VSA engineers are not consulted on the announcement or release  of a larger initiative. The current communication generally takes place over Slack and it is missed. This causes major time losses and a critical loss of trust in VSP.
-
-**Insights**
-- "Alert Boxes getting deprecated are a good example, instead of blocking people from merging have the linter show a warning until people get used to them being deprecated and then block them from being merged"
-- "Typically VSP struggles with rolling things out, it would be better if they have phased rollouts instead of all at once"
-- "when we use the solution it is just rolled out like 'here you go' and we can’t do anything about it and we get completely blocked"
-- "it seems like their responsibility is to make siloed technology to throw over the fence to us for us to maintain"
-
-Solution
-<hr>
-A meeting or document designated for VSA engineers to detail how a solution should be rolled out. A set of guidelines should also be created with guidelines for progressive rollouts on VSP projects. VSP projects must also be required to be progressively rolled out, just like any other software.
-
-
 ## Root Cause - Lack of a clearly defined and root problem
 
 > There is not enough communication before a large initiative is undertaken where VSP defines a clear problem statement then involves VSA in the clarifying of that problem statement. This leads to solutions that solve a symptom of a problem, not the root problem itself. A perfect example of this is the expirimental design system,  which solves a symptom of a problem but not the root problem.`
@@ -53,7 +38,19 @@ Solution
 <hr>
 VSP should give VSA access to it's Kanban board as well as produce a very, very simple document once per month where they simply list their priorities with a one line explanation of why that priority is where it is in the list.
 
+## Root Cause - Lack of a coherant rollout plan
 
+> VSA engineers are not consulted on the announcement or release  of a larger initiative. The current communication generally takes place over Slack and it is missed. This causes major time losses and a critical loss of trust in VSP.
+
+**Insights**
+- "Alert Boxes getting deprecated are a good example, instead of blocking people from merging have the linter show a warning until people get used to them being deprecated and then block them from being merged"
+- "Typically VSP struggles with rolling things out, it would be better if they have phased rollouts instead of all at once"
+- "when we use the solution it is just rolled out like 'here you go' and we can’t do anything about it and we get completely blocked"
+- "it seems like their responsibility is to make siloed technology to throw over the fence to us for us to maintain"
+
+Solution
+<hr>
+A meeting or document designated for VSA engineers to detail how a solution should be rolled out. A set of guidelines should also be created with guidelines for progressive rollouts on VSP projects. VSP projects must also be required to be progressively rolled out, just like any other software.
 
 
 
