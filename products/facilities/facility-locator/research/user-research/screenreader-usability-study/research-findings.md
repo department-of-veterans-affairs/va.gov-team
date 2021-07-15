@@ -16,8 +16,8 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 * [Additional Insights](#additional-insights)
 * [Key Insights with supporting findings](#key-insights-with-supporting-findings)
 * [Recommendations](#recommendations)
-* [Next Steps](#next-steps)
 * [Further research needed](#further-research-needed)
+* [Next Steps](#next-steps)
 * [Appendix](#appendix)
 
 ## About the research
@@ -406,7 +406,11 @@ As a Veteran who uses assistive technology, some things that would improve my ex
 14. Improve discoverability of facility information available to them. Veterans are unaware of the different facility types that they can find using Facility Locator. Consider a more discoverable way of browsing. 
     1. For example, a set of exposed filters in a left rail could surface facility types, like cemeteries, that might be unknown but useful to more Veterans. Two Veterans in this study described recent searches for burial and cemetery information.
 
----
+
+### Further Research Needed
+
+We determined that Veterans are provided with many of the dictation and magnification software (e.g. ZoomText, Fusion) technologies that we observed. However, we were not able to test the tasks with dictation nor magnification software. More research is needed to understand how these top tasks would fare using those technologies.
+
 
 ## Next Steps
 
@@ -414,14 +418,15 @@ As a Veteran who uses assistive technology, some things that would improve my ex
 - Review recommendations with Facilities team
 
 
-## Further Research Needed
-
-We determined that Veterans are provided with many of the dictation and magnification software (e.g. ZoomText, Fusion) technologies that we observed. However, we were not able to test the tasks with dictation nor magnification software. More research is needed to understand how these top tasks would fare using those technologies.
+---
 
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
-[Research Findings - VA.gov Homepage Specific](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)]
+[Research Findings - VA.gov Homepage Specific](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+
+### Reference
+[Inclusive Research Guidelines v2.0](https://docs.google.com/document/d/1JykfpcZuYz9UZ1kqMsfQHbLa-77MHr8rM8U5l-Q1Bt4/edit?usp=sharing)
 
 ## Table of Contents
 
@@ -431,6 +436,6 @@ We determined that Veterans are provided with many of the dictation and magnific
 * [Additional Insights](#additional-insights)
 * [Key Insights with supporting findings](#key-insights-with-supporting-findings)
 * [Recommendations](#recommendations)
-* [Next Steps](#next-steps)
 * [Further research needed](#further-research-needed)
+* [Next Steps](#next-steps)
 * [Appendix](#appendix)
