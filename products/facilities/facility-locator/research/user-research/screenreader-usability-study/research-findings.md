@@ -117,7 +117,7 @@ When I look for location information for a place that I need to visit physically
 
 ### Findings section 3 - Using VA.gov
 When I search for things on VA.gov, I have trouble finding what I am looking for... 
-- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [detailed homepage findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+- 3.1 - The homepage is difficult to navigate and I can’t orient myself easily [[homepage findings]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 - 3.2 - Global searches don’t produce relevant results
 - 3.3 - I get routed to too many different pages
 - 3.4 - If I find something useful, I don’t know how to retrace my steps later
