@@ -9,7 +9,7 @@
 
 
 ## User Problem Statement
-A very small percentage of veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for veterans.
+```Create a user problem statement```
 
 ## About the Team
 ### GitHub/ZenHub
