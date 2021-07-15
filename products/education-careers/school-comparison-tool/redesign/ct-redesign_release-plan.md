@@ -17,8 +17,23 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: Beta Testing
-Remote unmoderated testing on staging
+## Phase II: Beta Release Testing
+Remote unmoderated testing on staging with survey. 
+
+### Planning:
+- Desired date range or test duration: 
+- Desired number of users: 200? (desktop, mobile)
+- How you'll recruit the right production test users: 
+- How you'll conduct the testing: 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: 
+
+### Results:
+- Number of users: x
+- Number of bugs identified / fixed: x/x
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- If yes, what: lorem ipsum
 
 ## Phase III: Staged Rollout (also known as unmoderated production testing)
 
