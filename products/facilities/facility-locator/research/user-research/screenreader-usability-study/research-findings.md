@@ -220,10 +220,10 @@ Navigate through the landmarks/regions of the page | 3.2%
 
      > [P10]“For [a recent location search] started out with my phone, opened the app, got the city put in [dictates to Siri] “VA facility near fairfield texas” and then I went to the computer um… cuz I wanted to look at the biggest town next to the city they were looking at and then I looked at it on my desktop computer to Google events. When I’m looking up a location a phone is more convenient and easier. [Moderator: how so?] The search feature, I don’t have to wait for it to boot up. Siri is there.” 
 - 2.4 - Search engine results info is usually all I need, next I call or get directions
-     - P1: After showing how he’d find his nearest VA online:
-      > “it pulled the address off of the VA website. [has SR repeat the source “Department of Veteran Affairs”] See, I wouldn’t really go there now because I already found what I wanted. But this is also one that I happen to know because it’s 8/10’s of a mile [away].”
-      - P4 reflecting on using Facility Locator post task: 
-      > “Anyway, I just wouldn’t search like that. Say if I’d do Google, I’d “find VA clinic, find VA hospital” I wouldn’t ask for a location.”
+     - P1: After showing how he’d find his nearest VA online
+     > “it pulled the address off of the VA website. [has SR repeat the source “Department of Veteran Affairs”] See, I wouldn’t really go there now because I already found what I wanted. But this is also one that I happen to know because it’s 8/10’s of a mile [away].”
+     - P4 reflecting on using Facility Locator post task
+     > “Anyway, I just wouldn’t search like that. Say if I’d do Google, I’d “find VA clinic, find VA hospital” I wouldn’t ask for a location.”
 - 2.5 - I trust a search engine result when I hear VA.gov is the source
 - 2.6 - I wish I could see hours and services of VA facilities on Google search results
 - 2.7 - Sometimes I do see hours but they don’t make sense to me
