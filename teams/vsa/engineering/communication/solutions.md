@@ -7,7 +7,8 @@ Now that we have done initial research into the pain points surrounding communic
 
 **Insights**
 - "VSP always seem to choose a nuclear option without explanation of what the problem they are trying to solve or why they chose this particular solution"
-
+- "Solutions usually lack context and seem almost like they just flipped a coin"
+- "They are very quick to jump on new technologies regardless of if it solves a problem or not"
 
 Solution
 <hr>
