@@ -170,4 +170,18 @@ _To be filled out by the sprint team._
 * Lessons learned (about the discovery process)
 * Links to key documents (discovery readout, charter, etc.)
 
-TBD
+# Next Steps
+- Talk with Matt & Sabrina - next week or so
+- Talk to Janel & possibly Yvette?
+   - Possible executive champion
+- Meet again with Docusign after that conversation
+- What other insights do we need to flesh out?
+  - Whether we should do it
+  - If we do, HOW do we do it?
+- What do the costs look like? 
+- Cost/Benefit analysis
+  - Hard costs
+  - Soft costs
+  - Benefits to Veterans & caregivers
+  - Estimated cost per page
+  - Janel's BA can figure that out
