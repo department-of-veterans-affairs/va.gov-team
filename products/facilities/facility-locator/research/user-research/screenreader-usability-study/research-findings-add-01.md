@@ -1,4 +1,4 @@
-# Homepage research findings from Facility Locator - Assistive Technology Discovery and Usability Study
+# Homepage research findings from [Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
 
 ## Key Findings
 
